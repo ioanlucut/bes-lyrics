@@ -1,0 +1,23 @@
+[title] Mai mult decat asteapta
+[sequence] 1,2,3,4
+[1]
+Mai mult decât așteaptă străjerul dimineața
+Te-așteaptă-al nostru suflet, Isus, să-ți vadă fața.
+/: Cum soarele răsare și luminează-ntinsul
+Așa ne umpli viața, Isus, Tu necuprinsul. :/
+[2]
+Mai mult decât așteaptă un mugur primăvara,
+Mai mult decât așteaptă înstrăinatul țara,
+/: Mai mult decât așteaptă ogorul ploaia lină,
+Dorim, Isuse, fața și slava Ta să vină. :/
+[3]
+Mai mult decât așteaptă bolnavul vindecarea
+Noi așteptăm, Isuse, în țara Ta intrarea.
+/: Mai mult decât așteaptă logodnica pe mire,
+Dorim întâmpinarea venirii în mărire. :/
+[4]
+Mai mult decât așteaptă robiții 'liberarea,
+Corăbierii portul, trudiții înserarea,
+/: Ostașii biruința și-n lupta lor cununa,
+Noi Te-așteptăm, Isuse, pe Tine-ntotdeauna. :/
+

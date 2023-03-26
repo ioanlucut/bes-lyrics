@@ -1,0 +1,34 @@
+[title] Tu nu pleci niciodată de la mine
+[sequence] 1,2,3,4,5,6
+[1]
+Tu nu pleci niciodată de la mine
+Și nici o clipă singur nu mă lași,
+/:Tu eşti mereu puterea ce mă ține
+Din cei dintâi, la cei din urmă pași. :/
+[2]
+Tu nu m-alungi Isuse ca pe-o zdreanță,
+Ci ești mereu cu mine ca o stea;
+/: Mi-ai pus în suflet, Doamne, o speranță
+Cum nu e nimeni, să mi-o poată da. :/
+[3]
+Cu Tine și rănit străbat cărarea;
+Cu Tine eu veghez în ceas târziu.
+/: Când Tu mă mustri, simt adânc mustrarea
+Și când Te bucuri, totdeauna știu. :/
+[4]
+Au fost odată râuri de păcate,
+Dar sângele iertării a spus „Nu!”.
+/: Oricâte-au fost, eu le-am uitat pe toate
+Și bine știu că le-ai uitat și Tu. :/
+[5]
+Sunt fericit, chiar dacă vrei să sufăr,
+Când valuri vin și vânturi grele bat.
+/: Plutesc pe ape ca un fir de nufăr
+Pe care Tu-l păstrezi mereu curat. :/
+[6]
+
+Îți mulțumesc că ești cu mine-n lume!
+Îți mulţumesc că m-ai iubit mereu!
+/:Îți mulţumesc că Tu mi-ai dat un nume
+Că-n Tine sunt și Tu ești Dumnezeu. :/
+

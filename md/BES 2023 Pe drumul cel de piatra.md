@@ -1,0 +1,58 @@
+[title] Pe drumul cel de piatra
+[sequence] 1,c,2,c,3,t
+[1]
+Pe drumul cel de piatră
+De pe-o colină 'naltă
+Isus, cu fața tristă, privea,
+Privea înspre cetate,
+Cetatea mult iubită.
+Văzându-i nepăsarea, El plângea
+
+„Ce n-am făcut eu oare pentru tine
+Că să mă crezi că am venit de sus?
+Te-am vindecat și ți-am făcut doar bine
+Dar tu ai refuzat harul adus!"
+
+[chorus]
+Ierusalime, te-am iubit,
+Ierusalime, la tine am venit!
+/: O, de-ai fi cunoscut tu astăzi
+Vremea cercetării tale
+Și lucrurile care pot să-ți dea salvare :/
+
+[2]
+Pe drumul cel de piatră
+Pe o colină înaltă
+Isus, cu fața tristă, mergea
+Mergea cu crucea în spate
+Înconjurat de gloate,
+Purtând povara lumii cea grea
+
+O, lume, unde n-ai văzut în mine
+O stea care din Iacov răsărea
+Lumina care luminează lumea
+Pe-Acel' care vroia să-ți dea viața.
+
+[3]
+Pe drumul vieţii tale,
+Isus trece și astăzi,
+Privind în urma ta ce ai lăsat
+Privește-L dacă plânge
+Sau are fața tristă
+Văzându-ți faptele ce le-ai urmat
+
+Căci anii petrecuți în lumea aceasta
+Sunt scriși acolo sus în cartea Sa
+Dacă-ai umblat în căile dreptății
+Isus te va chema în slava Sa.
+
+[chorus 2]
+Ierusalime, tu eşti iubit,
+Ierusalime, la tine am venit!
+Deschide-ți astăzi inima ta
+Să intre Împăratul în ea
+Căci mâine poate fi-va prea târziu
+Ești gata de-a-L întâmpina
+Sau plânge pentru starea ta,
+Întoarce-te cât nu e prea târziu!
+

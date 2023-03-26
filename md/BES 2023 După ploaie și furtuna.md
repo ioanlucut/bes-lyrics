@@ -1,0 +1,32 @@
+[title] După ploaie și furtuna
+[sequence] 1,c,2,c,3,c
+[1]
+După ploaie și furtună,
+Va veni o zi mai bună
+Soarele va străluci mai luminos
+După norul plin de ceață,
+O lumină se arătă,
+E lumina Domnului Isus Hristos.
+[chorus]
+/: Cine se încrede-n Domnul
+Are viața mai frumoasă,
+Căci lumina Lui pătrunde
+Și o luminează-ndată.
+Dumnezeu de sus veghează,
+El le binecuvântează
+Sufletele-acelor ce se-ncred în El. :/
+[2]
+Când avem probleme-n viață,
+Cere-ți o lumină mare
+De la Domnul nostru scump, Isus Hristos
+Rugăciunea schimbă totul,
+Schimbă mersul vieții noastre,
+Zi de zi înspre mai bine cu Isus.
+[3]
+Stai o clipă, meditează,
+Sufletu-ți înviorează
+Dumnezeu te cercetează chiar acum
+Nu lăsa să treacă clipa,
+Clipa mântuirii tale!
+Dă-I a ta viață astăzi cu Isus!
+

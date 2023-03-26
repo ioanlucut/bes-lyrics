@@ -1,0 +1,24 @@
+[title] Cu Isus în lumea asta
+[sequence] 1,c,2,c,3,c
+[1]
+Cu Isus în lumea asta, voi merge eu mereu.
+Înainte-i țara mea, înainte-i Dumnezeu
+Deși calea e îngustă și-i plină de-ncercări,
+Cu Isus ajunge-voi în veșnicii.
+[chorus]
+Isus, Isus este Calea-n țara bucuriilor,
+Este jertfa ce ne poartă
+Spre limanul mult dorit
+Isus, Isus este Calea-n țara bucuriilor.
+Crede-n El și-n veci tu fi-vei mântuit.
+[2]
+Când durerea te doboară, amice, nu uita
+Înainte-i țara ta, înainte-i Dumnezeu
+Atunci ochii ți-i ridică și cere mila Sa
+Căci prin harul Său El te va ajuta.
+[3]
+Niciodată pe-a ta cale, să nu te uiți 'napoi!
+Înainte-i țara ta, înainte-i Dumnezeu!
+Vrednic tu vei fi, acolo, la dreapta Lui vei sta
+O mireasă când vei fi în țara Sa.
+

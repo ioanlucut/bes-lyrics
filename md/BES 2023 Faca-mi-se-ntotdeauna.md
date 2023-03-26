@@ -1,0 +1,31 @@
+[title] Faca-mi-se-ntotdeauna
+[sequence] 1,2,3,4
+[1]
+Facă-mi-se-ntotdeauna,
+După sfântul Tău Cuvânt,
+Chiar de-ar fi să-mi cadă toate
+Planurile la pământ.
+/: Chiar de-ar fi să-mi cadă toate :/
+Planurile la pământ.
+[2]
+Gândul Tău să se-mplinească
+Neștirbit în mine-oricând,
+Chiar de-ar fi să se dărâme
+Tot ce mi-am zidit în gând
+/: Chiar de-ar fi să se dărâme :/
+Tot ce mi-am zidit în gând
+[3]
+Voia Ta să se înalțe
+Ca stăpână-n viața mea,
+Și-n fărâme sparge-mi voia
+Printr-o lovitură grea.
+/: Și-n fărâme sparge-mi voia :/
+Printr-o lovitură grea.
+[4]
+Rugăciunea asta, Doamne,
+Tu să mi-o asculți mereu,
+Iar de-ar fi s-o schimb vreodată
+N-asculta de gândul meu.
+/: Iar de-ar fi s-o schimb vreodată :/
+N-asculta de gândul meu.
+

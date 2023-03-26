@@ -1,0 +1,23 @@
+[title] Ne-om vedea în dimineata
+[sequence] 1,c,2,c,3,c
+[1]
+Ne-om vedea în dimineața
+Când Mirele va sosi.
+Călătorule, fii gata!
+Cât nu-i prea târziu, să vii!
+[chorus]
+Ne vom vedea, ne vom vedea
+La Isus, în frumosul Paradis!
+Ne vom vedea, ne vom vedea
+Cu toți cei ce-au ascultat ce El a zis.
+[2]
+Candela aprinsă ține-o!
+Pe Hristos Îl așteaptă,
+Căci El a promis că vine
+Deci, fii treaz și te gată!
+[3]
+Ce fericiți noi o să fim
+Şi cât va fi de frumos,
+Când cu toți cei sfinți ne-ntâlnim
+Sus la nunta lui Hristos!
+

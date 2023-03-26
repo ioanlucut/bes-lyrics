@@ -1,0 +1,28 @@
+[title] Cele mai frumoase momente
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+Cele mai frumoase momente din viață
+Sunt atunci când ne întâlnim
+Și când lucrătorii din Cuvânt învață
+Cum pe Domnul Isus să-L slujim.
+[chorus]
+/: Noi ne bucurăm în cântare
+În rugăciune și-n Cuvânt
+Domnul e prezent în adunare
+Și ne bucurăm în Duhul Sfânt :/
+[2]
+Cea mai mare jertfă este ascultarea
+De Cuvântul Domnului cel Sfânt
+Să ne dăm silința toată adunarea
+Toți să-L împlinim pe-acest pământ.
+[3]
+Cei care ascultă ca și cei ce-nvaţă
+Să-mplinească după cum e scris
+Căci prin împlinire vom avea viață
+Sus la Dumnezeu în paradis.
+[4]
+Minunată, sfântă și adevărată
+Este umplerea cu Duhul Sfânt
+Astăzi o dă Domnul ca și altădată
+S-avem biruință pe pământ.
+

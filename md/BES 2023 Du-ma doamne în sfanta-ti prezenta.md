@@ -1,0 +1,16 @@
+[title] Du-ma Doamne în sfanta-Ti prezenta
+[sequence] 1,2
+[1]
+Du-mă, Doamne, în sfânta-Ți prezență
+Du-mă, Doamne, prin sângele sfânt
+Du-mă, Doamne, în sfânta-Ți prezență
+/: Ia cărbunele, atinge-mi buzele,
+Iartă-mă :/
+
+[2]
+Tu ești sfânt, sfânt, sfânt și-atotputernic,
+Înaintea Ta, Doamne, mă-nchin
+Tu ești sfânt, sfânt, sfânt și-atotputernic
+/: Doamne, iartă-mă, Te rog, primește-mă,
+Iartă-mă :/
+

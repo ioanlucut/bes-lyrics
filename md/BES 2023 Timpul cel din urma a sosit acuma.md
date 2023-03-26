@@ -1,0 +1,38 @@
+[title] Timpul cel din urma a sosit acuma
+[sequence] 1,c,2,c,3,c,4,c,5,c,6,c
+[1]
+Timpul cel din urma a sosit acuma,
+Fraților, ca să ne pocăim.
+Firea pământească vrea să ne robească,
+Dar cu toți din somn să ne trezim!
+[chorus]
+Iată, Domnul, frate, la inimă-ți bate,
+Deschide-I și nu Îl refuza.
+Lumea și trufia, pofta și mândria
+Alungă-le din inima ta!
+[2]
+Domnul cercetează și apoi lucrează
+În fiii Săi care I se supun.
+Care se umilește și se pocăiește,
+Îl conduce pe-al vieții drum.
+[3]
+Dar să știi, amice, Cel Rău vrea să strice
+Credința ta, ca să dai 'napoi
+Dar te roagă tare, cu credință mare,
+Și strigă: „Ah, Doamne, fii cu noi!”
+[4]
+Azi, se profețește că-n curând sosește
+Al lumii mare Judecător
+Biblia arată că Cel fără pată
+Va fi ca al nost' scump Mântuitor.
+[5]
+Azi, mulți se-nspăimântă de lucrarea sfântă,
+Zicând ca nu-i lucru-adevărat
+Auzind vorbire-n alte limbi străine,
+Pe cel ce-i cu Duh Sfânt botezat.
+[6]
+Dar Ioel arată vestea adevărată,
+Lucru mare, clar și lămurit
+Despre profeție și de limbi străine
+Care azi cu toți le-am auzit.
+

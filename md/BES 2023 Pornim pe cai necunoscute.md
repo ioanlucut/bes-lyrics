@@ -1,0 +1,25 @@
+[title] Pornim pe cai necunoscute
+[sequence] 1,c,2,c,3,c
+[1]
+Pornim pe căi necunoscute
+Ca să lucrăm pentru cetatea cea de sus.
+Ca să vestim iubirea sfântă
+A Domnului Isus.
+
+[chorus]
+Astăzi urmăm calea lui Isus
+Știm că în curând, El va veni de sus
+Știm că Domnul Isus va veni-n curând
+Ca să ne ducă-n cer la El.
+[2]
+Plecăm să arătăm în lume
+Cât ne-a iubit Isus și crucea El ne-a dus.
+Vestim și marea bucurie
+A revenirii Lui.
+
+[3]
+Plecăm, plecăm, cu voie bună
+Ca să lucrăm cu drag în câmpul Domnului
+A lumii piedici și păcate
+Să nu ne țină-n jug.
+

@@ -1,0 +1,23 @@
+[title] Multumim Domnului pentru ziua
+[sequence] 1,c,2,c,3,c
+[1]
+Mulțumim Domnului pentru ziua,
+Pentru harul măreț ce ne-a dat!
+Pentru tot să-I aducem Osana!
+Până aici Domnul ne-a ajutat.
+[chorus]
+Curând vom fi iar împreună
+Și-n veci nu ne vom despărți
+Pe cap ne va pune cunună
+Hristos, pentru veci, va domni!
+[2]
+Dacă azi ne desparte pământul,
+Mări, oceane sau graniți de fier
+Mâine ne va uni legământul
+Prin Isus, Domnul, Emanuel!
+[3]
+Mulțumim că-ntr-o zi vom fi iarăși
+Adunați într-un loc minunat,
+Îmbrăcați în veșminte de slavă,
+Vom cânta Celui ce ne-a salvat.
+

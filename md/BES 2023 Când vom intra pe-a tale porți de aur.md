@@ -1,0 +1,33 @@
+[title] Când vom intra pe-a tale porți de aur
+[sequence] 1,2,3,4,5,6
+[1]
+Când vom intra pe-a tale porți de aur,
+Ierusalime, loc iubit şi sfânt,
+/: Tot cerul fi-va plin de osanale,
+Spre slava Celui pururi drag și sfânt :/
+[2]
+Uimiti de-atâta sfântă măreție,
+Scăpați de lutul ce ne-a frământat,
+/: În veci de veci, cânta-vom numai Ție
+Și sângelui ce ne-a răscumpărat :/
+[3]
+Cu ochii-n lacrimi de bucurie sfântă,
+Scăldați în raza soarelui dorit,
+/: Nesăturați de fața Ta cea blândă,
+Îți vom cânta căci mult Tu ne-ai iubit :/
+[4]
+Pe străzi de aur ca sticla străvezie,
+Cu toți cei dragi și scumpi ce i-am iubit,
+/: Cânta-vom veșnic slavă, numai Ție,
+Despre dragostea-Ți care mult ne-a iubit :/
+[5]
+Ierusalime, vei auzi cântarea,
+Ce îngerii n-o știu și n-au cântat,
+/: Atunci, în ziua când va fi serbarea
+Al sfântului popor, cel răscumpărat :/
+[6]
+Când întristarea, din inimi, va fi ștearsă,
+Și fericirea veșnică va fi,
+/: Dorința noastră, scumpa noastră casă,
+Ierusalime, când te vom zări :/
+

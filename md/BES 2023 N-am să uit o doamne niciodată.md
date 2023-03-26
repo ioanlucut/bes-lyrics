@@ -1,0 +1,25 @@
+[title] N-am să uit o Doamne niciodată
+[sequence] 1,c,2,c,3,c
+[1]
+N-am să uit, o, Doamne niciodată
+Clipa când păcatul mi-ai iertat
+Și nici ziua aceea minunata
+Când Isuse m-ai salvat.
+
+[chorus]
+N-am să uit nici lacrimile Tale,
+Nici Calvarul Tău amar și greu,
+Mi-ai schimbat tot sensul vieții mele
+O, Isuse, Domnul meu.
+[2]
+N-am să uit, o, Doamne niciodată
+A Ta dragoste fără hotar
+Ce din Golgota a fost arătată,
+A cerului măreț har.
+
+[3]
+N-am să uit, o, Doamne niciodată,
+Dă-mi putere să nu pot uita
+Tot ce pentru mine de îndată
+A făcut iubirea Ta.
+

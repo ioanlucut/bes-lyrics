@@ -1,0 +1,18 @@
+[title] Meriti toata slava
+[sequence] 1,c,b,1,c,b
+[1]
+Meriți toată slava, meriți toată cinstea,
+Meriți lauda și închinarea,
+Meriți toată slava, meriți toată cinstea,
+Meriți lauda și închinarea, Dumnezeule!
+[chorus]
+/: Pentru mine un păcătos
+L-ai trimis pe Hristos
+Sus pe dealul Golgota
+Ca să poarte vina mea :/
+Să fiu salvat, să fiu iertat,
+Prin Isus, răscumpărat
+[bridge]
+/: Cântăm glorie, cântăm glorie,
+Osana Domnului, slavă și mărire! :/
+

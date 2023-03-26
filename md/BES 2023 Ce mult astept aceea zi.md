@@ -1,0 +1,41 @@
+[title] Ce mult astept aceea zi
+[sequence] 1,2,3,4,5,6
+[1]
+Ce mult aștept aceea zi
+Când Tu din slavă vei veni,
+/: Cu Tine Doamne-n veci să fim
+Și să nu ne mai despărțim,
+Și să nu ne mai despărțim :/
+[2]
+Să ne-ntâlnim cu toți în nor
+Împreună frați și surori
+/: Și să zburăm spre veșnicii
+Către eterne bucurii
+Către eterne bucurii :/
+[3]
+O, Doamne-adu aceia zori
+Acele veșnice splendori,
+/: Aceea zi noi o dorim
+Și de departe o zărim
+Și de departe o zărim :/
+[4]
+Ajută-ne în încercări,
+Stai lângă noi în întristări,
+/: Să ne păstrăm, Doamne, curați
+Până la cer vom fi luați
+Până la cer vom fi luați :/
+[5]
+Ierusalim, oraș ceresc,
+Locaș preasfânt, dumnezeiesc,
+Îmi arde doru-aprins în piept
+/: De câtă vreme Te aștept :/
+Mi-așa de dor, mi-așa de dor,
+/: Spre Tine-odată vreau să zbor. :/
+[6]
+Aş vrea să zbor spre-acele zări
+Să uit de lacrimi și dureri,
+În strălucirea de nespus,
+/: Unde-mpărat va fi Isus :/
+Cu Daniel, cu Avraam,
+/: Cântând în noul Canaan. :/
+

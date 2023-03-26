@@ -1,0 +1,23 @@
+[title] Nu va fi o veste mai frumoasa
+[sequence] 1,c,2,c,3,c
+[1]
+Nu va fi o veste mai frumoasă
+Ca salvarea dată prin Isus,
+Nici iubire care să jertfească
+Pentru noi cât a jertfit Isus.
+[chorus]
+Dragostea Lui e lucrul cel mai minunat,
+Minunat, minunat, o,
+Dragostea Lui e lucrul cel mai minunat!
+Minunat și pentru noi.
+[2]
+Zilnic mă-nconjoară cu-ndurare,
+Văd la orice pas cât e de bun;
+El mi-a dat, pe veci, răscumpărare,
+Pot și eu acum voios să spun.
+[3]
+Nu vom înțelege niciodată
+Ce măreață e iubirea Sa
+Și atunci, în slava nevisată,
+Tot iubirea Lui o vom cânta.
+

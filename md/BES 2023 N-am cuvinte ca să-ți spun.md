@@ -1,0 +1,30 @@
+[title] N-am cuvinte ca să-ți spun
+[sequence] 1,c,2,c,3,c
+[1]
+N-am cuvinte ca să-Ți spun
+Cât ești Tu, Doamne, de bun
+Te-ai plecat spre min', m-ai mântuit.
+Mi-ai luat povara grea,
+Mi-ai dus-o la Golgota
+Și mi-ai dat în schimb mântuirea.
+[chorus]
+Tu ești Cel mai minunat,
+Ești al lumii Împărat,
+De aceea eu Îți cânt slavă neîncetat!
+Dai lumină zorilor, strălucire stelelor
+Nimeni-n lume nu-i ca Tine,
+Puternic Dumnezeu!
+[2]
+Fericit eu am să-Ți cânt
+Cât voi trăi pe pământ
+De iubirea ce mi-ai arătat.
+Niciodată singur nu-s
+Sunt pe brațul Tău, Isus,
+M-ai luat pe veci în mâna Ta.
+[3]
+Isuse 'naintea Ta îmi aduc azi inima
+Fă de-acum ce vrei, Doamne, cu ea.
+Ești izbăvitorul meu,
+Unic Fiu de Dumnezeu,
+Ție am să-Ți cânt, Doamne, mereu.
+

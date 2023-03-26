@@ -1,0 +1,33 @@
+[title] O cantare de marire
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+O cântare de mărire am în inimă mereu
+De când L-am aflat pe Isus la Calvar.
+El mi-a dat odihnă sfântă,
+Pace sufletului meu
+Și sunt liber, fericit prin al Său har.
+[chorus]
+/: Inima mea cântă azi cântarea
+Plină de nespuse bucurii
+Mai frumos nici îngerii nu cântă
+Ca acei din valea plângerii. :/
+[2]
+Cât de mult doream să aflu
+Drumul cel adevărat,
+Cineva să-mi ia păcatul dureros!
+Am aflat că El osânda
+La Golgota a purtat
+Și-am venit atunci la cruce bucuros.
+[3]
+Câtă frică și-ntuneric pe cărarea mea erau,
+Când umblam rătăcitor fără Isus!
+Am adus la El povara,
+Și de-atunci în viața mea
+Bucuria și iubirea au pătruns.
+[4]
+Merg spre casa unde, veşnic,
+Fericirea voi gusta,
+În eternul strălucitul meu palat;
+Față-n față în mărire pe Isus Îl voi vedea
+Și cu sfinții-I voi da slavă, neîncetat.
+

@@ -1,0 +1,23 @@
+[title] Zi de zi, clipita de clipita
+[sequence] 1,c,2,c,3,c
+[1]
+Zi de zi, clipită de clipită,
+Eu primesc sfinte puteri de sus,
+Să înving mereu orice ispită,
+Fiind condus de-al meu iubit Isus.
+[chorus]
+El ce-ntrece orice bunătate
+Îmi dă zilnic tot ce-are mai bun
+Sunt convins că Domnul știe toate
+Lui mă-nchin și mă supun.
+[2]
+Mă ajută-n orice încercare
+Să mă-ncred ferm în Cuvântul Său,
+Ca să nu pierd dulcea mângâiere
+Ce-o primesc mereu la sânul Său.
+[3]
+Mă ajută ca orice durere
+S-o primesc ca și din mâna Sa
+Ceas cu ceas, purtat de-a Sa putere
+Până voi ajunge-n țara mea.
+

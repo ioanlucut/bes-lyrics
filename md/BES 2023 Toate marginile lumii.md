@@ -1,0 +1,27 @@
+[title] Toate marginile lumii
+[sequence] 1,c,2,c
+[1]
+Toate marginile lumii
+Îl cunosc pe Creator.
+El e Alfa și Omega
+El e Tatăl tuturor!
+Cine-a cântărit pământul?
+Stelele le-a pus pe cer,
+În cămări a pus și vântul
+Cine altul decât El?
+
+[chorus]
+Toate-L așteaptă doar pe El,
+Parcă șoptesc: „Emanuel”!
+Pământul e plin de prezența Sa,
+Omule, să iei seama!
+[2]
+El, Pământul din nimic,
+L-a creat și stă-n picioare!
+Haină i-a făcut din nori
+Și i-a dăruit splendoare;
+Și Olarul S-a făcut
+Pentru scurtă vreme, lut,
+În cuptorul din Calvar
+El ne-a dat viață-n dar!
+

@@ -1,0 +1,13 @@
+[title] Domn al Domnilor
+[sequence] 1,c,e
+[1]
+/: Domn al domnilor, Rege-al regilor
+Glorie, aleluia :/
+
+[chorus]
+/: Isus, Prinț al păcii,
+Glorie, aleluia :/
+
+[ending]
+Glorie Aleluia
+

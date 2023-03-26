@@ -1,0 +1,20 @@
+[title] Cel ce sta sub ocrotirea Celui Prea-nalt
+[sequence] 1,c,2,c
+[1]
+Cel ce stă sub ocrotirea Celui Prea-nalt
+La umbra Celui Atotputernic
+Face din El loc de scăpare
+Căci Domnul sfânt
+/: E Dumnezeul meu în care mă-ncred. :/
+[chorus]
+/: O mie să cadă alături de tine
+Şi zece mii la dreapta ta de vor cădea
+Cu ochii privește să vezi răsplătirea
+Acelui rău, doar harul Său te va salva. :/
+[2]
+Să nu te temi de groaza din
+Noaptea cea grea,
+Nici de săgeata ce zboară ziua
+De ciuma rea din întuneric, să nu te temi
+/: Căci Domnul-Ți va păzi cărarea de ea. :/
+

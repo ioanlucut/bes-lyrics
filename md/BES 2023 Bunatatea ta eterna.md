@@ -1,0 +1,35 @@
+[title] Bunatatea Ta eterna
+[sequence] 1,c,2,c,3,c
+[1]
+Bunătatea Ta eternă,
+Doamne, Dumnezeul meu,
+Ea mi-e cea mai dulce pernă
+De odihnă, când mi-e greu
+
+Ea mă scapă de povară,
+Când mi-e sufletu-apăsat
+Și mă ușurează iarăși,
+/: Ca s-alerg mai avântat :/
+[chorus]
+/: Bunătatea Ta,  bunătatea Ta! :/
+[2]
+Bunătatea Ta mă-ndeamnă
+Grabnic să mă pocăiesc,
+Ca să știu adânc ce-nseamnă
+Răul care-l săvârșesc
+
+Ea mă-ndeamnă înspre cruce,
+Spre Isus cel răstignit,
+Să-nțeleg că El aduce
+/: Pace-n duhul meu trudit :/
+[3]
+Bunătatea Ta-mi gătește
+Un preadulce viitor
+Căci ea zilnic se-nnoiește
+Și când urc și când cobor
+
+Laudă și închinare
+Pentru bunătatea Ta
+Îți aduc cu-nflăcărare
+/: Doamne-acum și-n veac așa :/
+

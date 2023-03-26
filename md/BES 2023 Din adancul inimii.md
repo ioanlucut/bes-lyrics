@@ -1,0 +1,15 @@
+[title] Din adancul inimii
+[sequence] 1,c
+[1]
+Din adâncul inimii
+Pe Isus vreau a-L vesti
+Și să-I cânt mereu un mare Aleluia
+Vreau să spun întregii lumi
+Dumnezeu cât e de bun
+Împreună să-I cântăm toți Aleluia
+[chorus]
+Aleluia, Te laudă al meu suflet,
+Aleluia, Te laudă gura mea mereu.
+Aleluia, vreau să spun tuturora
+Ce măreț ești Doamne, Dumnezeul meu
+

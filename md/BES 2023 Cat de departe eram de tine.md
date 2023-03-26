@@ -1,0 +1,35 @@
+[title] Cat de departe eram de Tine
+[sequence] 1,c,2,c,b,c
+[1]
+Cât de departe eram de Tine
+Un munte ce nu-l puteam urca.
+În disperare priveam spre ceruri
+Numele Tău l-am chemat.
+În intuneric, iubirea-Ți mare
+A spulberat păcatul greu.
+Murind pe cruce, a scris sfârșitul
+Doar Cristos, speranța mea.
+
+[chorus]
+Aleluia! Isus m-a eliberat!
+Aleluia! Moartea nu a triumfat!
+Lanțurile au căzut, m-a iertat de-al meu trecut
+Doar Cristos, speranța mea.
+
+[2]
+Cine-ar putea să-I cuprindă mila,
+Și bogăția harului Său
+A slavei Rege gloria-a lăsat-o
+Să ia păcatul meu și-al tău.
+Crucea proclamă iertarea noastră
+El ne-a ales să fim ai Săi.
+Mântuitor bun al Tău pe veci sunt
+Doar Cristos, speranța mea.
+
+[bridge]
+/: În dimineața promisiunii,
+Când din mormânt El a înviat!
+Leul din Iuda a-nvins păcatul
+Prin moartea Sa ne-a răscumpărat. :/
+Isus, Tu ne-ai răscumpărat!
+

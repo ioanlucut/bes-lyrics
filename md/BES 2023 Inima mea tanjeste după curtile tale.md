@@ -1,0 +1,19 @@
+[title] Inima mea tanjeste după curtile Tale
+[sequence] 1,2,c
+[1]
+Inima mea tânjește după curțile Tale,
+Sufletul meu suspină după al Tău locaș,
+Mi se topesc oasele de dor după Tine
+Iar ochii-mi plâng neîncetat.
+[2]
+Privesc spre locul sfânt
+Ca să-ți văd puterea și slava,
+Chem bunătatea Ta, peste viața mea
+Aștept în tăcere, răspunsul Tău, Doamne
+Vino, nu-ntârzia
+[chorus]
+/: Te voi binecuvânta dar toată viața mea,
+Și în Numele Tău voi ridica mâinile,
+Lauda Ta va fi mereu în gura mea
+Te iubesc, o Domnul meu :/
+

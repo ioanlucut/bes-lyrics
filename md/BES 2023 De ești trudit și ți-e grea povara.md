@@ -1,0 +1,28 @@
+[title] De ești trudit și ți-e grea povara
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+De ești trudit și ți-e grea povara,
+Nu vrei chiar astăzi să te ridici,
+Astăzi e clipa hotărâtoare,
+Trece Isus pe aici.
+[chorus]
+Trece Isus pe aici,
+Trece Isus pe aici,
+Cheamă-L și cere-I îndurare,
+Trece Isus pe aici.
+[2]
+Vei refuza marea Sa iubire
+Sau vei veni după har să strigi?
+Iată că alții găsesc salvare,
+Trece Isus pe aici.
+[3]
+“Ce vrei să îţi fac?” azi Isus te-ntreabă,
+A auzit tristul tău oftat,
+Vino și spune-I ce te apasă,
+Să fii eliberat.
+[4]
+Trece Isus prin adunare
+Nu vrei de haine Lui să te atingi?
+Are putere de vindecare
+Trece Isus pe aici.
+

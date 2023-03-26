@@ -1,0 +1,33 @@
+[title] E mult prea scumpa viata asta
+[sequence] 1,2,3,4,5,6
+[1]
+E mult prea scumpă viața asta
+Ca s-o petreci nepăsător.
+/: E mult prea scumpă orice clipă
+S-o lași să treacă fără spor :/
+[2]
+E mult prea scump Cuvântul vieții
+Să-l poți uita și-un ceas măcar.
+/: E mult prea scumpă rugăciunea
+Să-i poți nesocoti vreun har :/
+[3]
+E mult prea scumpă adunarea
+Să nu faci totul pentru ea.
+/: E mult prea scumpă-mbrățișarea
+Să-ți pară vreo iertare grea:/
+[4]
+E mult prea scumpă răsplătirea
+Statorniciei la sfârșit.
+/: Să-ți par-acum prea grea-ncercarea
+Pe care-o ai de suferit :/
+[5]
+E mult prea scumpă mântuirea
+Să nu-i dai totul pe pământ.
+/: Și pacea inimii și slava
+Statornicului legământ :/
+[6]
+E mult prea scumpă veșnicia
+S-o dai pe-o umbră și pe-un fum.
+/: E mult prea scump Hristos și raiul
+Să nu dai tot să-l ai acum :/
+

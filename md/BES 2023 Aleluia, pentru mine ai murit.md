@@ -1,0 +1,12 @@
+[title] Aleluia, pentru mine ai murit
+[sequence] 1,c
+[1]
+Aleluia, pentru mine ai murit
+Aleluia, pentru min-ai biruit
+
+[chorus]
+Domn peste-ntreb pământ
+Regele înviat
+Pe tron ești înălțat
+Regele înviat.
+

@@ -1,0 +1,24 @@
+[title] Ai ajuns mantuit prin Domnul Isus
+[sequence] 1,c,2,c,3,c
+[1]
+Ai ajuns mântuit prin Domnul Isus?
+Oare ești în via sfântă altoit?
+Oare plină ți-este inima de pace?
+Ai ajuns de Duhul Sfânt călăuzit?
+[chorus]
+Eu te-ntreb dacă știi ce-i mântuirea,
+Dacă n-ai uitat că Isus a murit?
+Ai tu timp să meditezi,
+Să te rogi și să lucrezi?
+Nu cumva îngrijorări te-au năpădit?
+[2]
+Mai iubești pe Isus în tot momentul?
+Și plăcerile din lume le respingi?
+Ai uitat că iubirea e secretul,
+Harul tainicei puteri prin care-nvingi?
+[3]
+Este-un loc unde chemi a Lui prezență,
+Locul unde grija nu te-a tulbura;
+Adunarea-i locul de închinăciune
+Unde-n duh și adevăr te poți ruga!
+

@@ -1,0 +1,30 @@
+[title] Vreau să te fac pescar de om
+[sequence] 1,2,3
+[1]
+Vreau să te fac pescar de om,
+Pescar de om, pescar de om,
+Vreau să te fac pescar de om,
+Dacă Mă urmezi.
+
+/: Dacă Mă urmezi. :/ 3x
+Vreau să te fac pescar de om,
+Dacă Mă urmezi.
+[2]
+Vreau, Isuse, să Te urmez,
+Să Te urmez, să Te urmez,
+Vreau, Isuse, să Te urmez!
+Știu că mă iubești.
+
+/: Știu că mă iubești. :/ 3x
+Vreau, Isuse, să Te urmez
+Știu că mă iubești.
+[3]
+Arunca-voi mreaja în râu,
+Mreaja în râu, mreaja în râu,
+Arunca-voi mreaja în râu,
+La cuvântul Tău.
+
+/: Voi fi bun pescar :/ 3x
+Dacă Tu îmi vei da în dar,
+Undița de har.
+

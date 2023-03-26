@@ -1,0 +1,37 @@
+[title] Eu stiu ca Domnul m-a creat
+[sequence] 1,c,2,c,3,c,4,c,5,c,6,c
+[1]
+Eu știu că Domnul m-a creat
+După făptura Sa
+El e olarul inimii,
+El știe ce e-n ea.
+[chorus]
+/: Cântă, inimă, și spune
+Marea minune la toată lumea,
+De dragostea Domnului :/
+[2]
+Eu știu că Domnul este sfânt,
+Noi nu-L putem vedea.
+El e lumina ochilor,
+E-n inima mea și-a ta.
+[3]
+Eu știu că Domnul e aici,
+Mă ține să nu cad.
+El e cu noi în orice ceas,
+Ne scapă de necaz.
+[4]
+Eu ştiu că Domnul e aici,
+Ne spune Biblia
+Prieten bun în ceasul greu
+E și va fi mereu.
+[5]
+Eu știu că Domnul e aici,
+El e Păstorul meu
+Și munții de s-ar clătina,
+El poartă grija mea.
+[6]
+Când viața mi se va sfârși,
+Voi trece-n veșnicii
+Atuncea noi Îl vom vedea,
+Când mântuiți vom fi.
+

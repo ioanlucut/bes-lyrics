@@ -1,0 +1,20 @@
+[title] Peste-ntreg pamant domnești în veci
+[sequence] 1,c,2,c
+[1]
+Peste-ntreg pământ domnești în veci
+Cerul în amurg, munții stăpânești,
+Dar mai mult de-atât
+Doamne, eu doresc
+Ca Tu în mine să domnești
+[chorus]
+Tu să domnești în viața mea
+Vreau să fiu umplut de puterea Ta,
+Căci tot ce am Tu stăpânești
+Și vreau ca-n mine să domnești!
+[2]
+Peste orice gând sau cuvânt rostit,
+Să se vadă-aș vrea frumusețea Ta,
+Dar mai mult de-atât,
+Doamne, eu doresc
+Ca Tu în mine să domnești!
+

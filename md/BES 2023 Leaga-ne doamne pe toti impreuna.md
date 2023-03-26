@@ -1,0 +1,13 @@
+[title] Leaga-ne Doamne pe toti impreuna
+[sequence] 1,c,1,c
+[1]
+Leagă-ne, Doamne, pe toți împreună
+Cu lanţuri ce nu pot fi rupte.
+Leagă-ne, Doamne, pe toți împreună!
+O, leagă-ne prin dragoste.
+[chorus]
+/: Este-un singur Domn
+Este-un singur Fiu
+Este-un singur Duh
+Și Acela-i viu! :/
+

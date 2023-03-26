@@ -1,0 +1,18 @@
+[title] Din cate Doamne Tu m-ai scos nevatamat
+[sequence] 1,c,2,c
+[1]
+/: Din câte Doamne, Tu m-ai scos nevătămat,
+Din gheara morții, din primejdii m-ai scăpat,
+De câte ori prin încercări m-ai întărit,
+Când am căzut m-ai ridicat și m-ai iubit: /
+[chorus]
+Și dacă nu îți cânt Isus doar Ție,
+Să nu mai cânt în veac cât voi trăi,
+Căci Tu mi-ai fost a vieții temelie,
+Când eram gata a mă prăbuși.
+[2]
+/: Îmi amintesc că m-ai iertat și ai uitat,
+Păcate-amare ce atât m-au apăsat,
+Mulțumitor eu mă aplec și mă închin,
+M-ai mântuit din lumea plină de venin. : /
+

@@ -1,0 +1,17 @@
+[title] La Tine Doamne imi inalt sufletul
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+/: La Tine, Doamne,
+Îmi înalț sufletul :/
+[chorus]
+/: Domnul meu, mă-ncred în Tine,
+Să nu fiu dat de rușine,
+Cel rău să nu se bucure de mine :/
+[2]
+/: Nu-Ți aminti greșelile mele :/
+[3]
+/: Învață-mă cărările Tale :/
+[4]
+/: Cei credincioși
+Sunt prieteni cu Domnul. :/
+

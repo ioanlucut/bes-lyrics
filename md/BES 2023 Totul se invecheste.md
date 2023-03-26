@@ -1,0 +1,23 @@
+[title] Totul se invecheste
+[sequence] 1,c,2,c,3,c
+[1]
+Totul se învecheşte, totul este trecător
+Floarea se ofilește atât de ușor
+Totul ce-i aici se va termina
+Iar Dumnezeu în veci va rămânea.
+[chorus]
+Puterea lui Dumnezeu este mare
+Cuvântul Domnului va dăinui
+Totul din lume de-ar trece și dispare
+Dumnezeu în veci va domni!
+[2]
+Se duce avuția repede că vântul
+Se duce bogăția ca gândul
+Mai iute că săgeata anii au zburat
+Dar Dumnezeu rămâne neschimbat!
+[3]
+Nu te bizui pe viața ce apune
+Nici pe plăceri din lume
+Bazează-te pe Domnul și leagă-te de El
+Dumnezeu rămâne la fel!
+

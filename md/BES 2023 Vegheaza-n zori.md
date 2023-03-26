@@ -1,0 +1,23 @@
+[title] Vegheaza-n zori
+[sequence] 1,c,2,c,3,c
+[1]
+Veghează-n zori, când ziua abia zâmbeşte,
+Când totul este iar înviorat
+În tine poate încă dăinuieşte
+Vreo umbră neagră, plină de păcat.
+[chorus]
+Iar în amurg, când totul se-odihneşte,
+Tu îndreaptă-ți gândul iarăși spre Isus.
+Îi cântă laudă și Îi mulțumește:
+Pe a Lui cărare Domnul iarăși te-a adus.
+[2]
+Veghează-n orice clipă-a vieții tale,
+Chiar și atunci când totul e senin,
+Căci firea ta e rea din cale-afară
+Și-n jurul tău e un dușman hain.
+[3]
+Și la amiază, în munca grea a zilei,
+Și în vâltoarea ei tu să veghezi;
+În rugăciunea dragostei și-a milei,
+Doar cu Isus rămâi și să lucrezi.
+

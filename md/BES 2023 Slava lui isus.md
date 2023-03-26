@@ -1,0 +1,19 @@
+[title] Slava lui Isus
+[sequence] 1,2,3,4
+[1]
+/: Slavă lui Isus! :/
+Slavă lui Isus, sus în cer!
+/: Aleluia! :/  Slavă lui Isus, sus în cer!
+[2]
+/: El a biruit! :/
+El a biruit pe Satan!
+/: Aleluia! :/  El a biruit pe Satan!
+[3]
+/: Sângele Lui sfânt, :/
+Sângele Lui sfânt m-a spălat!
+/: Aleluia! :/  Sângele Lui sfânt m-a spălat!
+[4]
+/: Și m-a sigilat, :/
+Și m-a sigilat cu Duh Sfânt!
+/: Aleluia! :/  Și m-a sigilat cu Duh Sfânt!
+

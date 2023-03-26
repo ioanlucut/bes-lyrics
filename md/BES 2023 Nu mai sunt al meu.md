@@ -1,0 +1,31 @@
+[title] Nu mai sunt al meu
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+Nu mai sunt al meu de-acuma
+Isus e Stăpânul meu
+Vreau să fiu cu El întruna
+Și ca să-L servesc mereu.
+
+[chorus]
+Sunt al Tău, sunt al Tău!
+Pe deplin eu sunt al Tău!
+Tot ce am în stăpânire
+Le depun la tronul Tău.
+[2]
+N-am nimic în stăpânire,
+Căci ce am nu e al meu
+Chiar în clipa mântuirii,
+M-am pus în serviciul Tău.
+
+[3]
+Da, îmi e cu neputință,
+Fără Isus să trăiesc!
+Cu întreaga mea ființă,
+Doar pe El vreau să-L iubesc.
+
+[4]
+Doamne, Tu să-mi dai credință!
+Mă ajută, tot mereu,
+Să-Ți urmez în umilință,
+Până la sfârșitul meu.
+

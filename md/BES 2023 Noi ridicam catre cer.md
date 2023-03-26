@@ -1,0 +1,15 @@
+[title] Noi ridicam catre cer
+[sequence] 1,c
+[1]
+Noi ridicăm către cer
+Mâini curate spre singurul Miel
+Numai El e-un Domn minunat
+Ce bun, ce mare e El.
+
+[chorus]
+ /: Sfânt e Dumnezeu, Domn peste toate
+Întreg pământul Îl laudă,
+Sfânt e Dumnezeu, Domn peste toate
+Întreg pământul Îl laudă :/
+/: Întreg pământul Îl laudă :/
+

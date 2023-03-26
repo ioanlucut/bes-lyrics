@@ -1,0 +1,33 @@
+[title] Daca te simtesti vreodata
+[sequence] 1,2,3,4,5
+[1]
+Dacă te simțești vreodată trist și apăsat,
+Și de casa părintească te-ai îndepărtat,
+/: O adu-ți, adu-ți aminte
+De cărarea dinainte,
+Te vei duce la pierzare dacă nu te întorci :/
+[2]
+Vocea sfântă și duioasă strigă ne-ncetat,
+„O, întoarce-te acasă, fiu îndepărtat!
+/: Lasă lumea păcătoasă
+Și vino din nou acasă,
+E destul cât pribegit-ai, fiule pierdut!” :/
+[3]
+Dacă te întorci acasă te vei bucura,
+Și inima ta în Domnul se va desfăta,
+/: Căci din zorii dimineţii,
+Până la amurgul vieții,
+Îți trimite rouă cerul, dacă te smerești :/
+[4]
+Ca și pomul lângă apă te vei înviora,
+Și inima ta în Domnul se va bucura,
+Ve striga fără-ncetare:
+„Ești o Stâncă de salvare
+Care mi-a ieșit în cale și m-a mântuit!” :/
+[5]
+O întoarce-te acasă, nu mai zăbovi,
+Nu mai sta pe căi deșarte, trist și obosit.
+/: Căci iubirea Lui cea mare
+Este gata de iertare
+O ascult-a Lui chemare, până nu-i târziu :/
+

@@ -1,0 +1,28 @@
+[title] Daca Daniel nu avea credinta
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+Dacă Daniel nu avea credință
+Când era în groapa cea cu lei,
+Dacă nu stăruia-n umilință,
+Ceilalți ziceau că nu-i Dumnezeu.
+[chorus]
+/: Doamne, dă-ne și nouă credință
+Căci pe pământ suntem între lei
+Fă-ne s-avem și noi biruință,
+Să știe lumea că-i Dumnezeu :/
+[2]
+Dacă se-nfrica Daniel de lume
+Și-ncuia fereastra dinspre cer,
+Atunci Tu nu-l mai priveai cu milă
+Și-l lăsai să piară între lei.
+[3]
+Daniel, când a deschis fereastra,
+Printr-o rugăciune-a nimicit
+Pe cei ce l-au aruncat în groapă,
+Căci cu Domnul el a biruit.
+[4]
+Acum nu uita că mila-i Domnul
+Prin rugăciune vei birui
+Pe cei ce pe pământ îți vor răul,
+Căci Dumnezeu îi va nimici.
+

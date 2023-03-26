@@ -1,0 +1,22 @@
+[title] Doamne vreau să ma inchin
+[sequence] 1,2,c
+[1]
+Doamne vreau să mă-nchin
+Și cu inima mea înaintea Ta vin
+Când mă rog, mă asculți
+De păcate mă ierți,
+Numai Tu mă-nţelegi
+[2]
+Credincios, îmi răspunzi
+Iar sub aripa Ta de furtuni mă ascunzi
+Mâna Ta mă atinge
+Și îmi dă libertatea prin har să trăiesc.
+Nici nu pot să exprim
+Cât Te doresc
+[chorus]
+Inima mea îți spune iubire,
+Inima mea îți dă mulţumire,
+Inima mea pe Tine Te caută,
+Inima mea,
+Căci Tu ești cel mai minunat
+

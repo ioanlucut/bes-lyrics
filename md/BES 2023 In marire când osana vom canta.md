@@ -1,0 +1,23 @@
+[title] In marire când Osana vom canta
+[sequence] 1,c,2,c,3,c
+[1]
+În mărire când „Osana!” vom cânta
+Când Isus de-aici pe toți ne v-aduna,
+Dincereasca fericire vom gusta
+Și în nemurire vom fi îmbrăcați
+[chorus]
+/: Mare ești Tu, Doamne, Creator!
+Mare ești și Atotțiitor!
+Mare ești și mare e slava Ta!
+Mare-n veci va rămânea. :/
+[2]
+Când în ceata sfântă o să ne vedem
+Cu toţi împreună, noi  să cântăm,
+Lacrime pe fața noastră nu vor mai fi
+Și cu cei sfinți toți în cer vom locui.
+[3]
+Când la tronul Lui de slavă vom sosi
+Și în raiul Lui cel sfânt noi vom păși,
+Fericiri cum nimeni nu ne-a spus vor fi
+Căci în cortul Lui cel sfânt vom locui.
+

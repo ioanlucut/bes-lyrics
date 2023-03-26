@@ -1,0 +1,20 @@
+[title] Isus cel inviat e astazi printre noi
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+/: Isus cel înviat e astăzi printre noi :/ 3x
+Isus e astăzi printre noi.
+[chorus]
+/: Lasă-L să te-atingă, Lasă-L să te-atingă,
+Lasă-L să te-atingă și vei fi eliberat
+Lasă-L să te-atingă, Lasă-L să te-atingă,
+Lasă-L să te-atingă, vei fi binecuvântat :/
+[2]
+/: Mormântul lui Isus și astăzi este gol :/ 3x
+Mormantul lui Isus e gol
+[3]
+/: În nici un alt nume nu-i mântuirea nu, nu :/ x 3
+Isus e astăzi printre noi.
+[4]
+/: În niciun alt nume nu-i mântuire, nu :/ x 3
+Și El e astăzi printre noi.
+

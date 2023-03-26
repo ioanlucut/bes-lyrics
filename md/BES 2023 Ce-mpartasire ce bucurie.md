@@ -1,0 +1,21 @@
+[title] Ce-mpartasire ce bucurie
+[sequence] 1,c,2,c,3,c
+[1]
+Ce-mpărtășire, ce bucurie,!
+Când mă las pe brațul Domnului,
+Ce fericire, pace-mi dă mie,
+Când mă las pe brațul Domnului.
+[chorus]
+Eu sunt scutit prin grația Părintelui,
+Eu sunt scutit când mă las pe brațul Domnului.
+[2]
+De ce să mă tem? Ce să mă-nfrice?
+Când mă las pe brațul Domnului,
+Domnu-i aproape, am pace dulce,
+Când mă las pe brațul Domnului.
+[3]
+Ce dulce e a fi un călător,
+Când mă las pe brațul Domnului,
+O rază e al meu Conducător,
+Când mă las pe brațul Domnului.
+

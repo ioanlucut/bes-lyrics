@@ -1,0 +1,27 @@
+[title] In orasul Betleem
+[sequence] 1,2,3,4,5,6
+[1]
+În orașul Betleem, Iosif cu sfânta Maria
+Osteniţi de-atâta drum caută loc de găzduire
+Nimenea nu a dorit, să-i primească-n casa lor
+Doar un staul au găsit ca să nască-un pruncușor.
+[2]
+/: Acolo în iesle jos S-a născut Isus Hristos
+Îngeri cântă sus în cer, S-a născut Emanuel! :/
+[3]
+Dar, deodată pe pământ, o lumină se ivește
+La păstorii de pe câmp, îngerul le glăsuiește:
+„Nu vă temeți căci aduc vestea bună în popor
+Astăzi s-a născut un Prunc, S-a născut Mântuitor!"
+[4]
+/: Acolo în iesle jos S-a născut Isus Hristos
+Iar păstorii din câmpie, cântă plini de bucurie! :/
+[5]
+Sărbătoarea este mare, chiar și azi sună colindul
+Vestea bună se aude de răsună-ntreg pământul.
+Hai cu toții să cântăm slavă, slavă-n cerul sfânt,
+Pruncului să ne-nchinăm, pace fie pe pământ!
+[6]
+/:Acolo în iesle jos S-a născut Isus Hristos
+Slavă Ție, Dumnezeu, căci avem pe Fiul Tău! :/
+

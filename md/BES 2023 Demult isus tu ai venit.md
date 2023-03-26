@@ -1,0 +1,28 @@
+[title] Demult Isus Tu ai venit
+[sequence] 1,2,3,4,5
+[1]
+Demult Isus Tu ai venit
+Pe-acest pământ Tu ne-ai găsit
+/: În lumea noastră de păcat
+Și-n dragoste Tu ne-ai salvat :/
+[2]
+Sunt două mii de ani de-atunci
+De când în Betleem pe lunci
+/: Păstorii-au auzit cântând
+„Slavă în cer și pe pământ”! :/
+[3]
+O stea răsare-n Răsărit
+Pe cei trei magi călăuzind
+/: Unde e Pruncul-Împărat
+În Betleemu-ndepărtat? :/
+[4]
+Azi nu mai e în Betleem
+Trăiește-I viu la Dumnezeu
+/: Dar se coboară pe pământ
+În inima omului frânt! :/
+[5]
+De-l ai pe El, pe Dumnezeu
+Ce s-a născut în Betleem
+/: Ai bogăția Cerului
+În așteptarea Mirelui! :/
+

@@ -1,0 +1,27 @@
+[title] Pentru tine-un pacatos
+[sequence] 1,c,2,c
+[1]
+Pentru tine-un păcătos
+Pentru mine-un ticălos
+Pentru noi, iubite suflet
+A murit Isus Hristos
+A murit pe lemnul crucii
+Ca noi doi să fim salvați
+De-ale noastre păcate.
+[chorus]
+Este greu, da, este greu
+Să trăiești făr’ Dumnezeu
+Dar, te rog, nu te uita
+La viața ta cea grea
+Uită-te doar la Isus
+Ce la  cruce El s-a dus
+Ca să moară pentru tine.
+[2]
+Deci acum când tu dorești
+Pe Isus ca să-L slujești
+Tu în dragoste să stai
+Ca în lume să nu te pierzi
+Și în veșnica iubire
+Să rămâi neîncetat
+Doar o lumină vie.
+

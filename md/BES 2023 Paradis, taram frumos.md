@@ -1,0 +1,33 @@
+[title] Paradis, taram frumos
+[sequence] 1,c,2,c,3,c,e
+[1]
+Paradis, tărâm frumos,
+În tine este Domn Hristos.
+Tot mai aproape ești an de an,
+Țară de vis, cetate Canaan.
+
+[chorus]
+/: Paradis, țara mea de dor,
+Paradis, visul sfinților,
+Pe-a-tale porți când vom intra,
+Un cântec nou vom intona. :/
+
+[2]
+Spre tin' martirii au pășit,
+Nimic din drum nu i-a oprit,
+Nici prigoniri, nici gropi cu lei,
+Nu i-a înfricat deloc pe ei.
+
+[3]
+Frate nu ți-e dor de noul Canaan?
+Te-așteaptă sfinții dincol’ de Iordan.
+Poate chiar la noapte Domnul va veni,
+Pune-ți întrebarea: cum te va găsi?
+
+[ending]
+Glorie, Aleluia!
+Paradis, iubită țara mea,
+Pe plaiul tău când voi păși,
+Pe-al meu Isus Îl voi privi,
+În Paradis!
+

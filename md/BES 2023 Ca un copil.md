@@ -1,0 +1,26 @@
+[title] Ca un copil
+[sequence] 1,c,2,c
+[1]
+Ca un copil mă țin de brațul Tău
+Tu mă cunoști, vezi pașii mei mereu
+Cu bunătate mereu mă înconjori
+Și-mi aminteşti de mila Ta din zori.
+
+[chorus]
+/: Vreau sufletul să mi-l înalți
+Să mă inunde Duhul Tău
+De dragoste vreau să fiu plin
+Doamne, Te rog!
+
+Lasă Cuvântul Tău sfințit
+Să schimbe inima mea acum
+Viața să-mi fie ca un dar
+Pe-al Tău altar :/
+
+Doamne, Te rog!
+[2]
+Ești Tatăl meu, cu dragoste mă ții
+Să Te slujesc vreau, Doamne, în orice zi!
+Mă-nchin cu drag acum în fața Ta
+Sunt fiul Tău și-mi place voia Ta!
+

@@ -1,0 +1,27 @@
+[title] Noi asteptam pe Domnul Isus
+[sequence] 1,2,3,4
+[1]
+/: Noi așteptăm pe Domnul Isus,
+Când vine! :/
+Noi așteptăm pe Domnul
+Ce ne-a gătit locul
+Și în mărire ne va duce!
+[2]
+/: Noi mergem 'naintea lui Isus,
+Când vine! :/
+Noi mergem înainte,
+El brațu-Și întinde
+Și la locul promis ne duce.
+[3]
+/: Vedea-vom pe Isus, pe nori,
+Când va veni! :/
+Da, vedea-vor pe Isus
+Și cei ce L-au străpuns
+Și toți cei din lume vor plânge.
+[4]
+/: Păcătosule, ce răspunzi,
+Când va veni? :/
+O, ce va fi cu tine?
+Nu te-a scăpa nimeni
+Căci locul tu ți l-ai pregătit!
+

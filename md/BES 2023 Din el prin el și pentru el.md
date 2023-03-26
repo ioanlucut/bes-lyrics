@@ -1,0 +1,11 @@
+[title] Din El prin El și pentru El
+[sequence] 1,c,1,c
+[1]
+/: Din El, prin El și pentru El
+Sunt toate lucrurile :/ x3
+[chorus]
+A Lui să fie gloria
+A Lui să fie gloria
+A Lui să fie gloria
+În veci de veci, amin.
+

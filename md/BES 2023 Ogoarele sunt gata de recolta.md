@@ -1,0 +1,21 @@
+[title] Ogoarele sunt gata de recolta
+[sequence] 1,c,2,c,3,c
+[1]
+Ogoarele sunt gata de recoltă,
+Iar lucrătorii sunt așa puțini
+Mă dăruiesc, o, Doamne-n întregime
+Ca să culeg recolta dintre spini.
+[chorus]
+/: Sunt aici, la dispoziția Ta:
+Cheamă-mă, Te voi asculta! :/
+[2]
+E timpul potrivit pentru popoare,
+Mai sunt în zgură încă mari comori.
+Isus mai cheamă oameni în lucrare,
+Să fie toți cu El biruitori.
+[3]
+Suntem noi sare pentru lumea-aceasta?
+În întuneric suntem noi lumini?
+Trăim ca Domnu-n vorbe și în fapte
+Să știe lumea că suntem creștini!
+

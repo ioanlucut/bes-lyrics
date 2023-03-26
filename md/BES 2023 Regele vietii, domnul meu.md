@@ -1,0 +1,28 @@
+[title] Regele vietii, Domnul meu
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+Regele vieții, Domnul meu
+Fii-n veci glorificat!
+Și să nu uit de crucea Ta,
+Du-mă la Golgota!
+[chorus]
+Ca să nu uit de Ghetsimani
+Și nici de agonia grea,
+Ca să nu uit iubirea Ta,
+Du-mă la Golgota!
+[2]
+Lângă mormântul unde-ai stat,
+Când alţți Te jeleau,
+Îngerii Tăi au coborât,
+Somnul ei Ți-l păzeau.
+[3]
+Și cu Maria-n zori de zi,
+Să vin 'naintea Ta
+Arată-mi, Tu, mormântul gol,
+Du-mă la Golgota!
+[4]
+Doamne, ajută-mă să-mi port
+Crucea mea zi de zi
+Și chiar paharul Tău să-l beau,
+Gata a suferi.
+

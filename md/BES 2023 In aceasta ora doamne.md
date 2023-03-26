@@ -1,0 +1,33 @@
+[title] In aceasta ora Doamne
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+În această oră, Doamne, Te rugăm
+Să iei parte Tu cu noi,
+Să ne-asculți când Îți cântăm și Te lăudăm
+Întotdeauna fii cu noi!
+[chorus]
+Să nu ne lași părăsiți nicicând,
+Căci noi trăim doar cu Tine-n gând
+Doar pe Tine Te avem
+Și-n Tine ne-ncredem!
+
+Tu ești al nost' Mântuitor
+Minunat și bun Păstor,
+Doar cu Tine vrem să fim
+În cerul lin.
+[2]
+Să ne porți de grijă, să nu ne lași nicicând
+Ca să mergem înapoi
+Tot 'nainte să mergem cu Tine, Doamne
+Deși-ncercările-s șuvoi!
+[3]
+Când ispite mari apar în viața mea,
+N-am pe nimeni ajutor
+Doar în Tine pururea să ne-ncredem noi
+Veșnice Ocrotitor.
+[4]
+Dar acuma, Doamne, noi Îți mulțumim
+Pentru bunătatea Ta
+Pentru dragostea dintâi și iubirea Ta,
+Vrem în veci să-Ți mulțumim.
+

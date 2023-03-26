@@ -1,0 +1,26 @@
+[title] Credinta mea eu o zidesc
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+Credința mea eu o zidesc,
+Pe Cuvântul sfânt și ceresc.
+Altceva trece ca spuma:
+Hristos ca Stâncă-n veci va sta!
+[chorus]
+Cine în El se încrede,
+/: Pe nisip nu mai zidește. :/
+[2]
+Deși-i fața Lui ascunsă,
+Mila Lui mă înconjoară
+Poate veni orice vifor
+Pe-această stâncă sunt sigur.
+[3]
+Legământul scump, sângele
+Mă scutește-n primejdie
+Chiar toate de s-ar risipi,
+Hristos în veci stă neclintit.
+[4]
+Iar când Isus va judeca
+Și celor morți: „Sus!” va striga,
+Dreptatea Lui mie-mi va fi
+Haina în care voi luci.
+

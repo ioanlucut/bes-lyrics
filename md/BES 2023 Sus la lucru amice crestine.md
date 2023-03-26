@@ -1,0 +1,23 @@
+[title] Sus la lucru amice crestine
+[sequence] 1,c,2,c,3,c
+[1]
+Sus, la lucru, amice creștine!
+Miluiește, și mereu s-ajuți
+Servindu-L pe Domnul cu averea
+Împlini-vei ce Isus a spus.
+[chorus]
+/: Dacă dăruieşti,
+Tu, în schimb, primeşti
+Bunuri dulci, cerești.
+Isus îți va da pace în inima ta :/
+[2]
+Nicicând tu nu vei mai duce lipsă,
+Dacă Domnului partea-I dăruiești
+Căci El toate-ți înmulțește ție
+Ca-n pustie toate pâinile.
+[3]
+Iar de-oprești tu partea Domnului Sfânt
+N-ai să fi bogat nicicând pe pământ
+Domnul va sufla tot ce vei strânge
+Și n-ai să mai ai fericire.
+

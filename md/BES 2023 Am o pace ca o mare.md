@@ -1,0 +1,20 @@
+[title] Am o pace ca o mare
+[sequence] 1,2,3,4,5
+[1]
+/: Am o pace ca o mare : / 3x
+În inima mea.
+[2]
+/: Am bucurie ca fântâna :/ 3x
+În inima mea.
+[3]
+/: Fiindcă Isus este-n mine :/ 3x
+În inima mea.
+[4]
+/: Am iubire ca un fluviu :/ 3x
+În inima mea.
+[5]
+Am bucurie ca fântâna
+Am o pace ca o mare
+Am iubire ca un fluviu,
+În inima mea.
+

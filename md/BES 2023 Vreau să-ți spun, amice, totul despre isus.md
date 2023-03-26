@@ -1,0 +1,26 @@
+[title] Vreau să-ți spun, amice, totul despre Isus
+[sequence] 1,c,2,c,3,c
+[1]
+Vreau să-ți spun, amice, totul despre
+Isus,
+Cum în El aflat-am prieten minunat
+Vreau să spun cum Domnul
+Viața îmi schimbase
+Și a lucrat în chip atât de minunat.
+[chorus]
+Nu există prieten ca și Isus
+Numai El păcatul mi-a spălat
+Chiar durerea mea
+Cea mare mi-o luase
+O, ce prieten minunat!
+[2]
+Păcătos am fost când Isus mă găsise,
+Chinuit nespus de falsele plăceri,
+Dar Isus întinse mâna-I salvatoare,
+Mi-a arătat apoi un drum ce duce-n cer.
+[3]
+Bucurii nespuse vin când sunt cu Tine
+Și iubirea-I tot mai mult o înțeleg,
+Pentru ce S-a coborât să mă salveze,
+Nu pot ști, dar sus în cer am să-L întreb.
+

@@ -1,0 +1,19 @@
+[title] Aceasta mi-e dorinta
+[sequence] 1,c,2,c
+[1]
+Aceasta mi-e dorința, să Te onorez,
+Cu ființa-ntreagă să Te slăvesc.
+Te ador, Stăpâne, și mă închin,
+Lauda și onoarea Ți se cuvin!
+[chorus]
+Ție-Ți dau inima și sufletul meu,
+Pentru Tine vreau să trăiesc!
+Domnul meu, Te iubesc!
+Zi de zi vreau să-mplinesc
+Doar sfântă voia Ta!
+[2]
+Vrednic ești de cinste, fii lăudat!
+Împărat al slavei, fii înălțat!
+Alfa și Omega, de-a pururi viu,
+Domn al veșniciei, în veci! Amin!
+

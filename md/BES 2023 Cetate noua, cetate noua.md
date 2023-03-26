@@ -1,0 +1,35 @@
+[title] Cetate noua, cetate noua
+[sequence] 1,2,3,4
+[1]
+Cetate nouă, cetate nouă
+Al cărei meșter ziditor este Hristos.
+
+/: Pe-această temelie, au zidit
+Apostolii în șir și martirii
+Prin faptele lor, ei au dovedit,
+Cu sângele lor zidul au stropit. :/
+[2]
+Cetate nouă locaș iubit,
+A cărui lumină este Hristos.
+
+/: Și ani de-a rândul, de atunci, s-au scurs,
+Mereu prin luptă tot zidim mai sus,
+Până-n zilele noastre de acum,
+Zidim și noi mereu pe-acelaș drum. :/
+[3]
+Locaș iubit, de noi dorit
+Din pietre vii e tare construit.
+
+/: Chiar vânturi și furtuna de ar lovi,
+Această temelie n-ar pieri,
+Căci meșter ziditor este Hristos,
+Iar zidul este tare și stâncos :/
+[4]
+La muncă, haidem cu toți acuma,
+Ca să zidim ce este de zidit.
+
+/: Când locuința se va termina
+Acolo nunta noi o vom serba
+A meșterului nostru ziditor,
+Isus Hristos, al nost' Mântuitor :/
+

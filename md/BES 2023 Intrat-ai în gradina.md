@@ -1,0 +1,50 @@
+[title] Intrat-ai în gradina
+[sequence] 1,2,3,4,5,6,7,8
+[1]
+Intrat-ai în grădină să vezi rodirea mea
+Te-ai bucurat sau, Doamne, te-ai întristat de ea?
+Mi-ai cercetat iubirea ce roade am adus
+Te-ai desfătat în ele sau te-ai mâhnit Isus?
+
+[2]
+De m-ai căutat la rugă în odăița mea
+Și ai găsit-o goală căci nu eram în ea
+O, iartă-mi nepăsarea și-mi pune-un dor în piept
+Să caut rugăciunea și-așa să Te aștept.
+
+[3]
+Genunchii-n slăbiciune Tu să mi-i întărești
+Să-i pot pleca-n smerenie așa cum Tu dorești
+Și oțelește-mi brațul ca să-l ridic spre cer
+Chiar de mi-ar fi cărarea prin arșiță sau ger.
+
+[4]
+De m-ai căutat la jertfă și tot nu m-ai aflat
+Și n-ai găsit altarul întreg, ci dărâmat
+O, iartă-mi nevegherea și dă-mi putere iar
+S-astup orice spărtură-ntregind al meu altar.
+
+[5]
+Să-ndepărtez icoane și idolii lumești,
+Să-mi fie jerta-ntreagă, așa cum Tu dorești
+S-aduc o jertfă sfântă de bun miros trăind
+Ca-n ziua cercetării să fiu găsit veghind.
+
+[6]
+De mi-ai căutat iubirea de frați și în loc de ea
+Găsita-i judecată și ură-n viața mea
+O, iartă-mă de vina de-a fi un mincinos
+Și dă-mi de zi în suflet iubirea Ta, Hristos.
+
+[7]
+De-am căutat 'nălțare să-mi fac cu mâna mea
+O, iartă-mi Tu mândria și-n seamă n-o ținea
+Putere dă-mi ca-n rugă să stau mereu smerit
+Să am parte de harul astfel făgăduit.
+
+[8]
+Azi vin să-Ți cer iertare căci știu că n-am avut
+Smerenie și-ascultare așa cum ai cerut
+Un an de îndurare Îți cer să îmi mai dai
+Și din grădina sfântă Te rog să nu mă tai.
+

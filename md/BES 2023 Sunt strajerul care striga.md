@@ -1,0 +1,28 @@
+[title] Sunt strajerul care striga
+[sequence] 1,2,c,3,4,c
+[1]
+Sunt străjerul care strigă
+Glasul meu răsună astăzi pentru voi
+S-aveți candela aprinsă
+Și talanții-acuma să viil pregătiți.
+[2]
+Nu mai este mult din noapte
+Şi Luceafărul pe cer va răsări
+Strig acum întâia oară:
+„Ascultați-mă, din somn să vă treziți!”
+[chorus]
+Vine Domnul, vine iară
+Vine iar Acela ce ne-a mântuit.
+Vine Domnul, vine iară
+Să ne ia și să ne ducă sus în cer.
+[3]
+Glasul meu răsună-n noapte
+Să audă vreau creștinii peste tot
+Iată, Împăratul vine
+Paşii Lui se-aud tot mai clar în depărtări.
+[4]
+Lasă lumea și păcatul
+In curat să fie haina ce o porți,
+Strig acum a doua oară:
+„Ascultaţi-mă, din somn să vă treziţi!”
+

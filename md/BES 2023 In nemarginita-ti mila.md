@@ -1,0 +1,28 @@
+[title] In nemarginita-Ti mila
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+În nemărginita-Ți milă,
+Doamne, oare poți ierta
+Marea și adânca-mi vină
+Și păcatu-mi a-l uita?
+[chorus]
+Isuse, vin, la Tine vin,
+Așa cum sunt la Tine vin,
+Isuse, vin, la Tine vin
+Așa cum sunt, azi vin!
+[2]
+Am trăit o viață tristă,
+Înfruntând voința Ta
+Inima-mi stătea închisă
+Când a Ta mai sângera.
+[3]
+O, Isuse, vreau din suflet
+Ție să mă dau pe veci
+Luminează al meu cuget
+De la mine să nu pleci.
+[4]
+Aleluia! Slavă Ție,
+M-ai scăpat de jugul greu!
+Înspre-a Ta Împărăție
+Duce astăzi drumul meu.
+

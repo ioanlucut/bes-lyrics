@@ -1,0 +1,17 @@
+[title] Noi azi pe Isus inaltam
+[sequence] 1,c,2,c
+[1]
+Noi azi pe Isus înălțăm,
+Ca un drapel pe-acest oraș
+Toți să cunoască-n adevăr
+El este calea către cer.
+[chorus]
+/: Noi proclamăm, noi proclamăm
+Noi proclamăm Isus e 'nălțat :/
+[2]
+Pas cu pas mergem-nainte
+Tot mai mult cucerim teren
+Arma noastră-i rugăciunea
+Ziduri cad, continuu cad
+Și cad, Și cad și cad
+

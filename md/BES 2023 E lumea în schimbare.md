@@ -1,0 +1,23 @@
+[title] E lumea în schimbare
+[sequence] 1,c,2,c,3,c
+[chorus]
+/: Vine Isus, vine Mirele pe nori
+Sunteți gata voi fecioare,
+Stați mereu în așteptare,
+Gata pentru întâmpinare :/
+[1]
+E lumea în micare, ceva se prevestește
+Pământul e-n mișcare, plutește un mister.
+Răspunsul la-ntrebare, Isus soseşte
+Cu-alai de sărbătoare, cu oastea Sa din cer.
+[2]
+E pregătire mare, mireasa este gata
+Așteaptă doar semnalul, stă gata pentru zbor,
+Se-aude-n duh strigarea, „O, Maranatha!
+O, vino, vino, Isus, Te așteptăm cu dor!”
+[3]
+Căci semnele ne-arată, căci mult nu este
+Curând se-arată zorii iar noaptea s-a sfârșit.
+Pe nori cu slavă mare Isus sosește
+În mii și mii de stoluri, cu El ne-om întâlni.
+

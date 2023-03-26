@@ -1,0 +1,28 @@
+[title] Tăria noastră fii mereu
+[sequence] 1,2,3,4,5
+[1]
+Tăria noastră fii mereu,
+Să trecem astăzi drumul greu!
+/: Și-n clipe grele și nevoi
+Revarsă pace, pace, pace, peste noi! :/
+[2]
+Ascultă-ne, când ne rugăm!
+Răspunde-ne, când Te chemăm!
+/: Și dacă vom fi, Doamne, doi
+Revarsă pace, pace, pace, peste noi! :/
+[3]
+Iubirea Ta de Dumnezeu,
+Rămână-n inimă mereu
+/: Și-n clipe grele de nevoi,
+Revarsă pace, pace, pace, peste noi! :/
+[4]
+Apropie-ne de cei sărmani!
+Fii mângâiere la orfani!
+/: Și unde sunt lacrimi și-amar,
+Revarsă, pace, pace, pace, și-al Tău har! :/
+[5]
+Păstrează-ne cu Duhul Tău!
+Noi Te rugăm în gând mereu
+/: Și inima Ție Ți-o dăm,
+Revarsă pace, pace, pace să avem. :/
+

@@ -1,0 +1,25 @@
+[title] Zidurile nalte de la Ierihon
+[sequence] c,1,c,2,c,3,c
+[chorus]
+/: Zidurile 'nalte de la Ierihon,
+Ierihon, Ierihon
+Zidurile 'nalte de la Ierihon
+Nu se vor zidi din nou :/
+[1]
+În cetatea Ierihon trăia
+Un popor care nu se temea
+De Domnul și a trebuit
+Ca să fie nimicit.
+
+[2]
+Israel nu s-a luptat
+Într-un glas cu toții au strigat
+În Dumnezeu ei s-au încrezut
+Și zidurile-au căzut.
+
+[3]
+N-am dărâmat noi zidurile
+Am strigat „O, Doamne”!
+În Domnul noi ne-am încrezut
+Și zidurile-au căzut.
+

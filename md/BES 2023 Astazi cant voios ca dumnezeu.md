@@ -1,0 +1,33 @@
+[title] Astazi cant voios ca Dumnezeu
+[sequence] 1,c,2,c
+[1]
+Astăzi cânt voios că Dumnezeu
+E Stăpânul vieţii mele,
+El e Domnul meu
+Cine pe Pământ, cine-n ceruri sus
+E ca Domnul meu, Isus?
+
+Fără El, flămând și însetat
+Rătăceam în lumea largă neajutorat
+Dar când m-a găsit, El m-a săturat
+Și mi-a dat să beau,
+El mi-a dat să beau, din harul Său
+
+[chorus]
+El e fântâna cu ape vii
+Nimic în lume nu-L poate-nlocui
+Stânca de veacuri, Păstorul meu
+Râul vieții, de-a pururi Dumnezeu!
+[2]
+O ce fericit sunt cu Domnul meu
+Nicăieri în lume nu-i altul ca și El
+El e mai de preț decât tot ce am
+El e slava mea,
+E comoara mea în veci!
+
+Chiar de n-ar mai fi râuri pe Pământ
+El e râul vieții mele, limpede și sfânt
+Niciodată El nu va seca
+Și voi bea din El,
+Eu voi bea din El mereu!
+

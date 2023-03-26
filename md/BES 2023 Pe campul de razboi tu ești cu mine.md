@@ -1,0 +1,31 @@
+[title] Pe campul de razboi Tu ești cu mine
+[sequence] 1,c,2,c,b,c
+[1]
+Pe câmpul de război Tu ești cu mine,
+Mă-mbărbătezi să lupt ca un viteaz,
+Îmi pui în mână sabia și scutul
+Și îmi promiți că singur nu mă lași!
+
+Mă ține tare-a Ta făgăduință,
+Că lupta după ce-o voi termina,
+Îmi voi primi din mâna Ta cununa
+Și-n carul biruinței voi umbla!
+
+[chorus]
+/: Biruitor eu voi umbla,
+Nu e dușman împotrivă să-mi stea!
+Tu mă conduci cu dreapta Ta,
+Isuse a Ta e victoria! :/
+
+[2]
+ Pe marea-nvolburată ești cu mine,
+Cuvântul Tău mi-e ancoră și far,
+Mă ține tare-a Ta promisiune,
+Că-n zori de zi ajunge-vom la mal!
+
+[bridge]
+/: De-i lupta-ncrâncenată
+Și vin săgeți arzând
+Nu tremur nu mi-e teamă,
+Știu lângă cine lupt! : /x3
+

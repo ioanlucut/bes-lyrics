@@ -1,0 +1,38 @@
+[title] Spune-mi istoria lui Isus
+[sequence] 1,c,2,t,3,e
+[1]
+Spune-mi istoria lui Isus
+Scrie-o pe inima mea,
+Spune-mi că e mai măreață
+Decât tot ce s-a scris cândva.
+
+Spune-mi cum îngerii toți în cor
+Cântau Copilului sfânt,
+„Slavă lui Dumnezeu în cer,
+Și pace fie pe pământ.”
+[chorus]
+Spune-mi istoria lui Isus
+Scrie-o pe inima mea,
+Spune-mi că e mai măreață
+Decât tot ce s-a scris cândva.
+[2]
+Spune-mi cum El în pustie
+Mult S-a rugat și-a postit,
+Și-apoi Satan să-L îmbie
+Veni, dar fost-a biruit.
+[chorus 2]
+Spune-mi lucrarea-I slăvită
+Spune-mi ce chin a răbdat,
+Cum fața i-a fost lovită,
+Pentru al meu cumplit păcat.
+[3]
+Spune-mi cum El sus pe cruce,
+Multe dureri a răbdat,
+Spune-mi cum din groapa rece
+A treia zi a înviat.
+[ending]
+Ce dragoste minunată,
+Mai clar ca oricând zăresc
+Și plâng azi ca niciodată,
+Pe veci eu vreau să Îl slăvesc.
+

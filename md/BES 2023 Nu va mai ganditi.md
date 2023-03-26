@@ -1,0 +1,34 @@
+[title] Nu va mai ganditi
+[sequence] 1,c,2,b,c
+[1]
+Nu vă mai gândiți la ce a fost ‘nainte
+Nu vă mai uitați la lucruri vechi, trecute
+Iată Eu voi face,
+Eu voi face lucruri noi!
+
+Lucrări mari veți vedea,
+Mai mult decat ‘nainte,
+Am lucruri noi să fac
+Și-s gata să se-ntâmple,
+Iată, Eu voi face,
+Eu voi face lucruri noi!
+
+[chorus]
+Voi face un drum, chiar prin pustie,
+În locuri uscate va curge apă vie
+Iată, Eu voi face, Eu voi face lucruri noi!
+Vă dau Duhul Meu, vă-mbrac în putere
+Națiuni vor cunoaște căile Mele
+Iată, Eu voi face, Eu voi face lucruri noi!
+
+[2]
+Spune-ți celor slabi, fiți tari și nu vă temeți
+Mâinile-ntăriți, în Mine vă încredeți,
+Iată, Eu voi face, Eu voi face lucruri noi!
+
+[bridge]
+/: Atunci șchiopii vor sări
+Orbii vor vedea,
+Surzii vor auzi,
+Iar glasul celor muți va cânta! : /
+

@@ -1,0 +1,21 @@
+[title] Te du mereu mai sus
+[sequence] 1,c,2,c,3,c
+[1]
+Te du mereu mai sus, spre zările senine!
+Acolo-i fericire pentru tine
+Cu sfinții-ai întâlnire pe albele coline
+Isus, ca sfântul Mire, văd ca vine.
+[chorus]
+/: Acolo-i pace dulce și lacrimile pier.
+Odihnă îți aduce Divinul Miel! :/
+[2]
+Te du și spune-i Lui că-n mila-I jertfitoare,
+Găsit-ai alinare, acum să-I spui
+Și de-ar veni furtuna, te du mai sus întruna,
+Și vei primi cununa de la Isus!
+[3]
+Orfan de ești în lume, nu dispera, ci-I spune
+El poartă grija ta, nu dispera!
+Îți dă putere-ntruna, să-nvingi oricând furtuna
+Isus întinde mâna, când crucea-i grea!
+

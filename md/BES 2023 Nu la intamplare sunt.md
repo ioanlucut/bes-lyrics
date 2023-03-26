@@ -1,0 +1,20 @@
+[title] Nu la intamplare sunt
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+/: Nu la întâmplare sunt
+Domnul m-a creat. :/
+[chorus]
+/: Eu sunt cu voi în orice zi
+Eu sunt cu voi în orice zi
+Eu sunt cu voi în orice zi
+A spus Isus :/
+[2]
+/: Nici puterea lumii-ntregi
+Nu-mi dă-acest sprijin. :/
+[3]
+/: De aceea cânt voios
+Ca să știe toți. :/
+[4]
+/: Singur, trist și părăsit,
+Nu vreau să mai fiu. :/
+

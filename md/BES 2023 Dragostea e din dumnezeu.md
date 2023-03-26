@@ -1,0 +1,27 @@
+[title] Dragostea e din Dumnezeu
+[sequence] 1,c,2,c,3,c
+[1]
+Dragostea e din Dumnezeu
+Și ne-a arătat-o prin Fiul Său
+Ce S-a jertfit și s-a dăruit
+Pentru noi, la fel să faceți și voi.
+
+[chorus]
+Unul pe altul vă ajutați
+La fapte bune să vă îndemnați
+Și atunci veți vedea ce-i iubirea
+De Domnul Sfânt să ascultați.
+Pe calea-ngustă să umblați
+Și așa veți avea fericirea.
+[2]
+Dragostea adevărată
+În unitate este arătată
+Pe genunchi în rugăciune cu Isus
+Să fiți la bine și la greu.
+
+[3]
+Iubirea să vă fie scut
+În viață să mergeți cu avânt
+Dacă veți vrea să aveți fericire
+Să rămâneți în iubire.
+

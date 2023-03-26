@@ -1,0 +1,29 @@
+[title] Când trista mi-e inima
+[sequence] 1,c,2,c
+[1]
+Când tristă mi-e inima,
+Tu-ți arăți dragostea
+Și-mi deschizi ochii mei
+Ca să văd ce-ai făcut.
+
+Când nu văd drumul meu,
+Sprijin mi-e brațul Tău
+/: Și deschizi ochii mei
+Să-nțeleg ce-ai făcut. :/
+
+[chorus]
+Mări se despart, neamuri vin,
+La chemarea Ta Isus.
+Viața mea ți-o închin,
+În Tine speranța-mi pun.
+[2]
+Și de sufăr acum
+Mila Ta e pe drum
+Când deschizi ochii mei
+Să-nțeleg planul Tău
+
+Și mă voi bucura
+Sigur pe calea Ta
+/: Când deschizi ochii mei
+Să-nțeleg planul Tău. :/
+

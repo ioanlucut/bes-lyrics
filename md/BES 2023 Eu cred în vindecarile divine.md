@@ -1,0 +1,38 @@
+[title] Eu cred în vindecarile divine
+[sequence] 1,c,2,c,3,c,4,c,5,c,6,c
+[1]
+Eu cred în vindecările divine,
+Căci El mă vindecase și pe mine
+Căci El e doctorul Cel bun și mare,
+În El găsești alin și vindecare.
+[chorus]
+/: În Numele Lui ești vindecat
+În Numele Lui poți fi iertat
+În Numele Lui ești mântuit
+În Numele Lui ești fericit :/
+[2]
+Eu cred în El, căci El în veci trăiește
+Și este Atotputernic și slăvit,
+El orice boală o tămăduiește,
+Căci El e Domnul Care ne-a-ntocmit.
+[3]
+Eu cred în Domnul, care ne conduce,
+Prin stâlpul Său de foc mistuitor
+În rănile și-n jertfa de pe cruce
+Găsim ci toți balsam vindecător.
+[4]
+Eu cred așa cum a crezut sutașul:
+„O, Doamne, zi o vorbă şi-i de-ajuns!
+Ne vindecă și nouă copilaşul!
+La ruga noastră dă-ne azi răspuns.”
+[5]
+Eu cred ca și femeia feniciană,
+Căci El mai dă și azi firimituri
+Când El îți pune degetul pe rană
+Ești vindecat ca orbul din Scripturi.
+[6]
+Eu cred în Domnul care-așa ne spune:
+„Cu nici un chip Eu nu te voi lăsa!”
+Eu vin smerit la El în rugăciune
+Și spun la toți de vindecarea Sa.
+

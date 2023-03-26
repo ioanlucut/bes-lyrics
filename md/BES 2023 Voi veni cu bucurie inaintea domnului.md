@@ -1,0 +1,15 @@
+[title] Voi veni cu bucurie inaintea Domnului
+[sequence] 1,c
+[1]
+Voi veni cu bucurie înaintea Domnului,
+Voi veni cu mulțumire-n casa Lui;
+Această zi e-a Domnului.
+Deci să ne bucurăm în ea,
+Cântându-I, Glorie, Aleluia!
+[chorus]
+/: Eu sunt fericit, eu sunt fericit!
+Sunt fericit că El m-a mântuit! :/
+
+/: Osana, laudă Domnului!
+Laudă Domnului ce m-a salvat! :/
+

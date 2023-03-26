@@ -1,0 +1,18 @@
+[title] Cum doreste un cerb izvor de apa
+[sequence] 1,c,2,c
+[1]
+Cum dorește un cerb izvor de apă
+Așa eu Te doresc,
+Tu ești singura mea dorință
+Să Te laud eu tânjesc
+[chorus]
+/: Tu ești scut și tăria mea
+Și Ție-Ți dau toată inima
+Tu ești singura mea dorință
+Să Te laud eu tânjesc :/
+[2]
+Sufletul meu Te caută zi și noapte
+Ești Dumnezeul viu
+Tu ești singura mea iubire
+Doar al Tău eu vreau să fiu.
+

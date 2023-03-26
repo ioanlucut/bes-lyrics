@@ -1,0 +1,18 @@
+[title] Spre mine fata Ti-o intorci
+[sequence] 1,c,2,c
+[1]
+Spre mine fața Ți-o întorci,
+Și sufletul meu Te slăvește,
+Speranță-mi dai și mă-ntărești
+Și sufletul meu Te mărește.
+[chorus]
+/: Prin încercări voi sta,
+Căci am un preț în faţa Ta,
+Și-n brațul Tău voi sta,
+Plăcerea mea e-n calea Ta :/
+[2]
+Zi de zi mă înviorezi
+Și sufletul meu Te slăvește,
+Speranță-mi dai și mă-ntărești
+Și sufletul meu Te mărește.
+

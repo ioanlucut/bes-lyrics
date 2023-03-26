@@ -1,0 +1,43 @@
+[title] Doua mii de ani se implinesc
+[sequence] 1,2,3,4
+[1]
+Două mii de ani se împlinesc
+De când Isus cheamă suflete
+Din robia negrului păcat
+La viață, mântuire-n dar.
+
+/: Isus cheamă și azi cheamă
+Orice suflet care zace în păcat
+Harul Său mai are milă,
+Deci, te-ntoarce cât mai ține al Său har :/
+[2]
+Ani pierduți s-au scurs din viaţa ta
+Refuzând sfântă chemarea Lui
+Glasul Său te cheamă azi să vii:
+„Vino astăzi, până nu-i târziu!”
+
+/: Vino astăzi, vin' degrabă!
+Lui Isus închină-I toată viața ta!
+Crede-n jertfa de pe cruce,
+Jertfa sfântă care-ți dă mântuire. :/
+[3]
+Deci, primeşte tu sfânta chemare
+Ce ți-o face azi sfântul Isus!
+Poate este ultima-așteptare
+Nu respinge glasul Său de sus!
+
+/: Lasă lumea și păcatul
+Folosește-n grabă clipele de har,
+Căci e-aproape ziua groazei,
+Ziua-n care mulți vor plânge cu amar :/
+[4]
+Fericiți vor fi în veci de-a pururi
+Mântuiții lui Isus Hristos
+Ce-au păstrat haina sfântă curată
+Și-au dus crucea, n-au lăsat-o jos.
+
+/: Vom cânta cântarea nouă
+Cântul Mielulului Isus cel divin!
+Vom umbla pe străzi de aur,
+Pe străzile noului Ierusalim :/
+

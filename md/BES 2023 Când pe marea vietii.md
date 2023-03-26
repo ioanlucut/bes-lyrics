@@ -1,0 +1,48 @@
+[title] Când pe marea vietii
+[sequence] 1,2,3,4
+[1]
+Când pe marea vieții eu,
+Trecut-am grele încercări
+Când necazul s-a ivit,
+Domnul, El m-a smerit mai mult
+
+/: În singurătatea grea,
+Plângea inima mea de dor
+După harul Domnului
+Să-mi vină în ajutor (mereu):/
+[2]
+Când în largul mării am fost,
+Malul eu l-am dorit mereu
+Dar furtuna s-a ivit,
+Domnul, El m-a smerit mai mult
+
+/: Când aproape-am fost de mal,
+A mai venit un val din larg
+Ce m-a dus în depărtări
+Prin alte încercări (mai mari) :/
+[3]
+Dar în tot necazul meu,
+Domnul m-a ocrotit mereu
+El m-a scos cu mâna Sa
+Din încercarea grea, chiar El
+
+/: Brațul Său mântuitor
+M-a ridicat din valul greu,
+Sufletul El l-a salvat
+Din marea de păcat (chiar El) :/
+[4]
+Înspre Domnul am strigat,
+Din val m-a ridicat chiar El,
+Valul mării furios
+Domnul l-a liniștit pe loc;
+
+Câte zile voi avea
+În toate-L voi lăuda pe El
+El m-a scos cu mâna Sa
+Din încercarea grea, chiar El.
+
+Brațul Său mântuitor
+M-a ridicat din valul greu,
+Sufletul El l-a salvat
+Din marea de păcat
+

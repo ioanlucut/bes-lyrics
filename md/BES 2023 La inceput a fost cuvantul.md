@@ -1,0 +1,33 @@
+[title] La inceput a fost Cuvantul
+[sequence] 1,c,2,c,b,c
+[1]
+La început a fost Cuvântul
+Și Cuvântul s-a-ntrupat
+Gloria Sa nemărginită
+Printre noi s-a arătat.
+
+[chorus]
+Laud Numele Tău Isus
+Ești al meu Rege înălțat
+Laud numele Tău Isus
+Ești Mielul ce-a fost străpuns
+Laud numele Tău, Isus,
+Al slavei Rege!
+
+[2]
+Iar pentru a fi în veci cu Tine
+Printre oameni ai umblat.
+N-ai renunțat nicicând la mine,
+Te-ai smerit să fi 'nălțat.
+
+[bridge]
+A Ta lucrare e desăvârșită
+Până la capăt ne-ai iubit.
+Viața domnește, iar moartea e-nvinsă,
+Isus Hristos a biruit!
+
+Orice putere, orice domnie,
+Domnul meu toate le-a zdrobit
+Din a Sa cruce, curge iubire,
+Viața prin El eu am primit!
+

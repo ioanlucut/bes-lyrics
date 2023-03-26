@@ -1,0 +1,30 @@
+[title] Ierusalime cetate-mpodobita
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+Ierusalime, cetate-mpodobită
+Cu străzi de aur, argint și cristal,
+De pe pământ, al meu dor se ridică
+S-ajung la tine, să scap de orice val.
+[chorus]
+/: Aș vrea s-ajung la tine,
+Să scap de-orice suspine
+Și să mă uit la frumusețea ta!
+Căci, tot ce-i pe pământ,
+Este goană după vânt,
+Și nu pot să-mi găsesc fericirea :/
+[2]
+Aș vrea să-ți văd porțile ferecate
+Ce n-au asemănare pe pământ
+Și-n ziua-n care vor fi descuiate
+Să intre pe ele poporul cel sfânt.
+[3]
+Aș vrea să văd pomul vieții care
+Cu-atâtea roade este-mpodobit
+Și râul vieții cu apele limpezi,
+De-a lungul cetății curge liniștit.
+[4]
+Aș vrea să văd pururi a ta splendoare,
+Să umblu pe-ntinsul tău minunat,
+Apoi, să rămân cu Tine pe vecie,
+Slăvind totdeauna pe-al meu Împărat.
+

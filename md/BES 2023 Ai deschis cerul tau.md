@@ -1,0 +1,20 @@
+[title] Ai deschis cerul Tau
+[sequence] 1,c
+[1]
+Ai deschis cerul Tău, ai lăsat slava Ta
+Și-ai venit pentru mine, un biet păcătos.
+M-ai iubit aşa mult, c-ai murit la Calvar,
+Să deschizi ochii mei, să-nțeleg
+Și să Te slăvesc.
+
+[chorus]
+Pentru cântec, speranță și rază de soare,
+Lumină și pace pe-a mea cărare,
+Pentru tot ce Tu îmi dai, mulțumesc!
+
+Pentru zâmbetul Tău înscris printre stele,
+Mângâierea Ta în clipele grele,
+Pentru dragostea Ta revărsată în mine
+Mă-nchin, recunosc că ești Domn
+Și rostesc: Mulțumesc!
+

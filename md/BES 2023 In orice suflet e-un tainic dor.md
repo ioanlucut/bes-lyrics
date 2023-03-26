@@ -1,0 +1,26 @@
+[title] In orice suflet e-un tainic dor
+[sequence] 1,c,2,c,3,c
+[1]
+În orice suflet, e-un tainic dor
+Aprins în noapte sau stins și gol
+Dor de lumină, de veșnicie,
+Ascuns în inimi de Dumnezeu.
+
+[chorus]
+/: Poartă-ți lumina prin întuneric
+În noaptea făr’ de nădejdi pe drum
+Far neclintit să-ți fie viața,
+Pași să-ndrepte pe drumul bun,
+Lasă-n inimi un dor de cer :/
+[2]
+Pe calea noastră, mereu găsim
+Lumini căzute și stinse-n vânt,
+Și mulți încearcă să țină aprinsă
+O amăgire, un dor străin.
+
+[3]
+Să lași în urmă, numai lumină
+Pe drumul celor ce-au rătăcit,
+Arată calea, aprinde inimi
+Și dă speranță prin Duhul Sfânt.
+

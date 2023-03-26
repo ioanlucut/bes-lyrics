@@ -1,0 +1,25 @@
+[title] Dumnezeul puternic
+[sequence] 1,c,2,c
+[1]
+Dumnezeul puternic
+Ce-i cu tine pe munte
+Zi de zi te-ntărește și nu vei cădea
+E cu tine și-n vale, îți alungă durerea
+Cel ce ziua-a creat
+Și-n noapte-i tot Dumnezeu.
+
+[chorus]
+/: Mâna Lui cea tare
+Ce te-a ținut sus pe munte
+Tot ea te va ține și-n văile adânci
+Dumnezeul ce-ți pune bucurie în suflet
+Tot El  îți va șterge
+Lacrima-atunci când plângi. :/
+[2]
+Vorbim de credință
+Când suntem sus pe stâncă
+Pare ușor când necazuri n-avem
+Însă vin clipe grele cu-ncercări și ispite
+Iar atunci Domnul vede
+Cât ne-ncredem în El.
+

@@ -1,0 +1,26 @@
+[title] La al trambitei rasunet
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+La al trâmbiței răsunet când va fi
+Și când Tu cu mare slavă vei veni,
+Cei ce-s astăzi în morminte s-or scula
+Și în fața Ta, Isuse, toți vor sta.
+[chorus]
+/: Adă, Doamne, ziua ceea mai curând,
+Ziua sfântă-a noului așezământ.:/
+[2]
+Ce plăcut va fi atunci și frumos,
+Când domnia va fi dată lui Hristos
+El e soarele dreptății, El, Isus,
+Soarele ce strălucește făr-apus.
+[3]
+Noaptea de păcat amară s-o sfârși,
+Când dreptatea lui Isus va străluci.
+El va șterge lacrimile  c-un cuvânt,
+Aducând o pace sfântă pe pământ.
+[4]
+Fi-va, Doamne, tot cuprinsul un Betel
+Va tânji orice făptură după El
+Toți uniți într-o simțire vor servi
+Preamărind a Ta iubire Ți-om sluji.
+

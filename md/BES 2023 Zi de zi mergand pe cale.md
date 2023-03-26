@@ -1,0 +1,23 @@
+[title] Zi de zi mergand pe cale
+[sequence] 1,c,2,c,3,c
+[1]
+Zi de zi, mergând pe cale, frate credincios,
+Cântă-I laude, întruna, Domnului Hristos.
+Fii voios că-n oastea sfântă ști și tu chemat
+De aceea-ntotdeauna, cântă-I ne-ncetat.
+[chorus]
+/: Cântă, cântă, cântă ca David,
+Cântă, cântă, cântă așa
+Tot iadul, când cânți tu, să se înfioare,
+Să fugă vrăjmașul cu toată-armata să :/
+[2]
+Ne-ncetat să-nalți spre ceruri zi de zi cântări,
+Chiar de ești în clipe grele și prin încercări.
+Nu uita, Pavel și Sila au cântat și-n greu,
+Și, din ceruri, izbăvire le-a dat Dumnezeu.
+[3]
+Cântă, frate, cântă, soră, să răsune-n zări
+Laude și osanale până-n depărtări
+Pentru Împăratul nostru care-a biruit,
+Să-I cântăm cu toți: „Mărire”, El ne-a mântuit.
+

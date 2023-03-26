@@ -1,0 +1,20 @@
+[title] Doamne cat de mare esti
+[sequence] c,1,c,2,c,3,c
+[chorus]
+/: Doamne, cât de mare ești
+Doamne, cât de mare ești
+Doamne, cât de mare ești
+Și cât ne iubești :/
+[1]
+Munți înalți, semeți
+Cu brazi plini de nămeți
+Vântu-i adia și parcă așa spunea:
+[2]
+Oceane-n depărtări
+Își poartă cântu-n zări,
+Iar pescăruși în zbor, îngână-ncetișor:
+[3]
+Eu m-alătur lor,
+Și-ntr-un mare cor
+Îți cântăm cu dor, cât de mare ești.
+

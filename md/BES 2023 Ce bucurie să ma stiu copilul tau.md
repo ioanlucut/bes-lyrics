@@ -1,0 +1,19 @@
+[title] Ce bucurie să ma stiu copilul Tau
+[sequence] 1,c,2,c
+[1]
+Ce bucurie, să mă știu copilul Tău
+Și să fiu păzit mereu de mâna Ta
+Glorie Ție, ai spălat păcatul meu
+Prin Isus crucificat la Golgota
+
+[chorus]
+Tot ce este-n mine Te glorifică
+Și cu tot ce am Te preamăresc
+Viața mea Ți-o dau în mâna Ta de Tată
+Și-am să-Ți cânt mereu cât Te iubesc.
+[2]
+Cu ce blândețe, mă înveți să Te urmez
+Zi de zi mă oglindesc în ochii Tăi
+Ce șoapte calde, când îmi spui că mă iubești
+Și mă-ntreb cum aș putea să-Ți mulțumesc.
+

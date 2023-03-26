@@ -1,0 +1,19 @@
+[title] Ai fost rastignit
+[sequence] 1,p,c
+[1]
+Ai fost răstignit și cuiele-mi spun
+Ce mare Ți-a fost iubirea
+Cununa de spini îmi spune şi ea
+Ce mare Ți-a fost iubirea
+
+[prechorus]
+Când cer și stele vor pieri
+Semnele vor dăinui
+Și pe veci îmi vor șopti
+Cât m-ai iubit,
+De-aceea vreau să spun:
+
+[chorus]
+În veci inima, în veci dragostea,
+În veci viața mea este-a Ta
+

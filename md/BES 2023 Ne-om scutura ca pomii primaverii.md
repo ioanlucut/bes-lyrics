@@ -1,0 +1,26 @@
+[title] Ne-om scutura ca pomii primaverii
+[sequence] 1,2,3,4
+[1]
+Ne-om scutura ca pomii primăverii,
+Ca albe flori cădea-vom la pământ,
+/: Vasul de lut gusta-va ceața serii,
+Dar sufletul va fi la Cel Preasfânt. :/
+
+[2]
+Ne-om odihni sub razele de soare,
+Ca grâul holdei proaspăt secerat,
+/: Va putrezi fărâma trecătoare,
+Dar grâul vei păstra părinte-nalt. :/
+
+[3]
+Noi vom zbura ca păsările toamna
+Și frunze vechi cădea-vor pe cărări,
+/: Trup ostenit uita-vei ce e teama
+Când sufletu-ți pleca-va spre-alte zări. :/
+
+[4]
+Și vom dormi ca grâul sub zăpadă,
+Ne-om liniști de tot ce-am suferit
+/: Nădejdea noastră-n El n-are să cadă,
+Vom învia cu primii ghiocei. :/
+

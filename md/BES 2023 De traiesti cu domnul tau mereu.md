@@ -1,0 +1,21 @@
+[title] De traiesti cu Domnul tau mereu
+[sequence] 1,2,3
+[1]
+De trăiești cu Domnul tău mereu,
+Fericit îți este traiul tău
+/: Pe-ale vieții tale căi,
+Peste dealuri și prin văi,
+El te duce numa-n fericiri. :/
+[2]
+Lasă soarta ta în mâna Lui,
+Viața ta să fie-a Domnului
+/: Să-I predai tot ce-i al tău,
+Să-mplinești Cuvântul Său
+El te-a duce numa-n fericiri :/
+[3]
+Când ispita te va încerca
+Și când crucea te va apăsa,
+/: Nici atunci nu șovăi
+El și-atunci te va iubi
+El te-a duce numa-n fericiri :/
+

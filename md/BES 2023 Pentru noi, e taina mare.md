@@ -1,0 +1,40 @@
+[title] Pentru noi, e taina mare
+[sequence] 1,c,2,c,3,c
+[1]
+Pentru noi, e taină mare
+Ce va fi în viitor
+Poate e o zi cu soare,
+Poate e o zi cu nor
+
+Însă știu că-ngrijorarea
+Să o las va trebui
+Dumnezeu și îndurarea,
+În etern, vor dăinui.
+
+[chorus]
+/: Nu pot ști ce fi-va mâine,
+Însă știu că Dumnezeu
+Îngrijește şi de mine,
+Căci și eu sunt fiul Său. :/
+[2]
+Parcă urc pe trepți de aur,
+Către culmi de har ceresc,
+Și zăresc măreț tezaur,
+Oare când îl dobândesc?
+
+E un loc de strălucire,
+Ccurcubeu multicolor.
+Când voi fi în nemurire
+Cu al meu Mântuitor?
+
+[3]
+Ce va fi, e taină mare
+S-ar putea s-ajung sărac
+S-ar putea să n-am mâncare,
+Sau să n-am ce să îmbrac.
+
+Pentru flori și păsărele,
+Dumnezeu e Tată bun,
+Însă vrea, prin orice rele,
+Eul meu să îl supun.
+

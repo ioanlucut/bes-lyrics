@@ -1,0 +1,22 @@
+[title] Cata vreme a trecut
+[sequence] 1,c,2,c
+[1]
+Câtă vreme a trecut, câtă vreme a ramas
+Între noapte și zi, între drum și popas
+Ne amintim zi de zi că am fost, că vom fi
+Și uităm mult prea des să mai fim
+Vrem s-avem cât mai mult ca și cum n-am mai ști
+Ce săraci lumea vom părăsi.
+[chorus]
+/: Spune de ce tot alergi, spune ce vrei să culegi
+Pierzi rătăcind ani întregi în neștire
+Mâine la capăt de drum tu vei afla că oricum
+Fără Isus toate sunt amăgire. :/
+[2]
+Ce iluzii s-au dus, ce iluzii mai sunt
+Clipe care ne trec ca o umbră pe gând
+Alergăm după nori, alergăm după vânt
+Și deschidem târziu pumnii goi
+Vrem un nou început însă timpul trecut
+Nu se-ntoarce nici gând înapoi.
+

@@ -1,0 +1,26 @@
+[title] Laudati pe Domnul cu iubire
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+Lăudați pe Domnul cu iubire,
+Căci El pentru noi S-a jertfit.
+Cântați-I şi dați-I mărire,
+Căci El pentru noi a murit.
+[chorus]
+/: Lăudați :/  Pe Acela ce S-a jertfit
+/: Lăudați :/  Pe Cel ce atât ne-a iubit
+[2]
+Lăudați minunata-I putere
+Care boldul morții a frânt
+Și prin glorioasa-nviere
+Ajuns-a la Tatăl Preasfânt.
+[3]
+Lăudați, fiind plini de speranță,
+Domnul e mereu printre noi
+Priveghind să avem siguranță
+Domnul se-ngrijește de noi.
+[4]
+Lăudați-L toți pe Salvatorul,
+Pe Domnul cel viu pururea,
+Pe Tatăl și Mântuitorul
+Căci El ne va binecuvânta.
+

@@ -1,0 +1,16 @@
+[title] El e naltat
+[sequence] 1,c
+[1]
+El e ’nălțat, Împăratul divin e ’nălțat
+Îl voi lăuda!
+El e ’nălţat, Împăratul divin
+Veșnic Îl voi lăuda!
+
+[chorus]
+/: El este Domn,
+Da, El Adevărul e!
+Cer și pământ
+Tresaltă ’naintea Lui!
+El e ’nălțat,
+Împăratul divin e ’nălțat :/
+

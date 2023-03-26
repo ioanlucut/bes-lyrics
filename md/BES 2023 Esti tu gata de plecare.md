@@ -1,0 +1,28 @@
+[title] Esti tu gata de plecare
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+Ești tu gata de plecare?
+Da, Domnul meu!
+Și trăiești în ascultare?
+Da, Domnul meu!
+[chorus]
+/: Aș vrea să zbor,
+Mai sus de nori,
+Să mă-ntâlnesc cu El.
+Aș vrea să zbor! :/
+[2]
+Ești tu gata chiar acuma?
+Da, Domnul meu!
+Ca să poți primi cununa?
+Da, Domnul meu!
+[3]
+Ai lăsat tu totul, oare?
+Da, Domnul meu!
+Și veghezi în așteptare?
+Da, Domnul meu!
+[4]
+Ți-ai păstrat haina curată?
+Da, Domnul meu!
+Pentru nunta minunată?
+Da, Domnul meu!
+

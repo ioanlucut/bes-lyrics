@@ -1,0 +1,25 @@
+[title] Cuprins am fost de uimire
+[sequence] 1,c,2,c,3,c
+[1]
+Cuprins am fost de uimire
+De ce Isus M-a iubit
+Un păcătos rău din fire
+Și vrednic de osândit.
+
+[chorus]
+Ce minunat! Ce glorios!
+Neîncetat eu voi cânta
+Ce minunat! Ce glorios!
+E Domnu-n iubirea Sa.
+[2]
+El cu sudoare de sânge
+În Ghețimani S-a rugat
+Ce chin, ce plâns, și ce luptă
+Pentru mine a purtat.
+
+[3]
+Păcatul și-a mea osândă
+Asupra Sa le-a luat
+Ca să-mi dea mie izbândă
+Muri El crucificat.
+

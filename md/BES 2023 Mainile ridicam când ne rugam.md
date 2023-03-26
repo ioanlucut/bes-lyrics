@@ -1,0 +1,35 @@
+[title] Mainile ridicam când ne rugam
+[sequence] 1,c,2,c,e
+[1]
+Mâinile ridicăm când ne rugăm,
+Numele Tău chemăm, Ție ne-nchinăm
+Am venit, Doamne, aici să Te-ntâlnim
+Dumnezeu plin de har ești doar Tu.
+
+Te-adorăm doar pe Tine Te lăudăm,
+Numai Tu ești Dumnezeu,
+Numai Tu, numai Tu.
+
+[chorus]
+/: Sfânt ești, sfânt ești
+Doar Tu, Domnul meu!
+Sfânt e, sfânt e doar numele Tău :/
+
+Numai Tu ești Dumnezeu,
+Numai Tu, numai Tu.
+
+[2]
+/: Mâinile ridicăm, Numele Tău chemăm,
+Am venit, Doamne, aici Ție să ne-nchinăm :/
+
+Ești doar Tu.
+Te-adorăm doar pe Tine Te lăudăm,
+Numai Tu ești Dumnezeu,
+Numai Tu, numai Tu.
+
+[ending]
+Ești doar Tu.
+Te-adorăm doar pe Tine Te lăudăm,
+Numai Tu ești Dumnezeu,
+Numai Tu, numai Tu.
+

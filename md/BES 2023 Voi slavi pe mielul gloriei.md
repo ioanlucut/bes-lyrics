@@ -1,0 +1,15 @@
+[title] Voi slavi pe Mielul gloriei
+[sequence] 1,c
+[1]
+/: Voi slăvi pe Mielul gloriei
+Regelui regilor mă-nchin.
+Voi slăvi pe Mielul gloriei
+Regelui eu mă-nchin :/
+
+[chorus]
+/: Și mâinile mi le înalț și-naintea Ta vin
+Mâinile mi le înalț și mă bucur în Tin'
+Îmi înalț mâinile către cer,
+Lumea-ntreabă: „De ce?”
+Eu le spun că-mi iubesc Regele :/
+

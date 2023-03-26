@@ -1,0 +1,18 @@
+[title] lângă Tine vreau
+[sequence] 1,c,1,c
+[1]
+Lângă Tine vreau
+Să fiu aproape iar
+Și pentru prietenia Ta
+Renunț la orice altceva
+
+Ești iubirea mea, cine altcineva?
+Tu nu poți fi înlocuit,
+Nici caldă-mbrățișarea Ta
+Adu-mă înapoi, Doamne, lângă Tin'
+[chorus]
+/: Ești tot ce vreau
+Tot ce am dorit vreodată
+Vreau să-nțeleg
+Cât de aproape-mi ești :/
+

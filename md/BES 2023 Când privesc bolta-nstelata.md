@@ -1,0 +1,26 @@
+[title] Când privesc bolta-nstelata
+[sequence] 1,c,2,c,3,c
+[1]
+Când privesc bolta-nstelată ce-i întinsă sus,
+Mă cuprinde un dor să merg înspre Isus,
+Sunt ca Petru, ce pornit pe val se scufunda,
+Mâna mea, vreau s-o țin în mâna Ta.
+[chorus]
+Mâna Ta, Doamne,
+M-a scăpat din noaptea rea
+Mâna Ta, Doamne,
+Mă păzeşte în noaptea grea.
+Și poate fi valul înalt,
+Tu ții corabia mea,
+Mâna Ta, Doamne, mă va purta.
+[2]
+Când șuvoaiele înspumate, vin asupra mea,
+Și când vântul rău, m-aruncă la pământ
+Deși inima se oprește-n loc, eu nu mă tem,
+Mâna mea, vreau s-o țin în mâna Ta.
+[3]
+Mâine dincolo de noapte, în ai zorii zi,
+Voi deschide ochii printre galaxii
+Și-am să strig „Slăvit să fii și azi și-n veșnicii”,
+Mâna mea, vreau s-o țin în mâna Ta.
+

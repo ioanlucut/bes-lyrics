@@ -1,0 +1,29 @@
+[title] Un cantec de lauda în inima mea
+[sequence] 1,p,c,1,p,c,e
+[1]
+Un cântec de laudă în inima mea
+Un cântec ce Tu l-ai pus
+Mi-ai dat libertate ca să pot cânta din nou
+Ai rupt întunericul din viața mea
+Mi-ai dat bucuria Ta
+Acum eu sunt liber ca să pot cânta din nou.
+
+[prechorus]
+Isus Tu m-ai răscumpărat
+Duhul Tău sfânt m-a eliberat
+
+[chorus]
+/: Dragostea Ta îmi dă curaj
+Să alerg către țintă ne-ncetat
+Doar Tu ești Domnul meu
+Te voi binecuvânta
+Isus ești fericirea mea
+Eu cânt de bucurie-n fața Ta
+Doar Tu ești Domnul meu
+Te voi binecuvânta :/
+
+[ending]
+Un cântec de laudă în inima mea
+Un cântec ce Tu l-ai pus
+Mi-ai dat libertate ca să pot cânta din nou
+

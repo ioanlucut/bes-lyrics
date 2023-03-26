@@ -1,0 +1,30 @@
+[title] Ce dar nemeritat
+[sequence] 1,c,2,c,b,c
+[1]
+Cine transformă în soare veșnic
+Orice fărâmă de întuneric
+E Domnul gloriei, e Domnul Domnilor!
+Cine vorbește, si-a Lui vorbire
+Zguduie munții din temelie
+E Domnul gloriei, e Domnul Domnilor!
+
+[chorus]
+Ce dar nemeritat, să pot să fiu salvat
+În ceasul cel mai greu, ai luat păcatul meu
+Moartea ai biruit, ca eu să fiu sfințit
+Astăzi cânt liber, Isus m-ai mântuit.
+
+[2]
+Cine mai poate azi să ridice
+Pe cei căzuți iar, ca fii și fiice
+E Domnul gloriei, e Domnul Domnilor!
+Cine aduce la El popoare,
+Plin de dreptate și îndurare
+E Domnul gloriei, e Domnul Domnilor!
+
+[bridge]
+/: Vrednic este Mielul junghiat
+Vrednic e Împăratul din morți înviat :/ x3
+Vrednic este Mielul junghiat
+Vrednic, vrednic, vrednic!
+

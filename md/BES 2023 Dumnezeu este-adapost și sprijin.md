@@ -1,0 +1,25 @@
+[title] Dumnezeu este-adapost și sprijin
+[sequence] 1,c,2,c,b,c
+[1]
+Dumnezeu este-adăpost și sprijin
+Un ajutor ce nu lipsește niciodată-n nevoi
+El este locul meu de scăpare
+Și cetățuia mea, în care mă încred.
+
+[chorus]
+/: Ești cu mine mereu, ești cu mine mereu
+Orice ar veni, pe brațul Tău voi fi
+Ești cu mine mereu :/
+
+[2]
+„Fiindcă mă iubește”, zice Domnul
+„Voi fi cu el în strâmtorare, îl voi izbăvi
+Când mă va chema, îi voi răspunde
+Sunt Emanuel, Eu sunt Dumnezeu.”
+[bridge]
+O mie să cadă alături de tine
+Și zece mii la dreapta ta
+Doar vei privi cu ochii
+Răsplătirea celor răi
+Dar de tine nu se va apropia.
+

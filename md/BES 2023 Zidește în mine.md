@@ -1,0 +1,13 @@
+[title] Zidește în mine
+[sequence] 1,c
+[1]
+Zidește în mine o inimă
+Curată, Dumnezeule,
+Și pune în mine  un duh nou,
+Statornic, Dumnezeule!
+[chorus]
+Nu mă lepăda de la fața Ta
+Și nu lua de la mine Duhul Tău cel Sfânt
+Dă-mi iarăși bucuria mântuirii Tale
+Umple-mă cu Duhul Tău cel Sfânt.
+

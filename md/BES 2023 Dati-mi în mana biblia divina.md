@@ -1,0 +1,23 @@
+[title] Dati-mi în mana Biblia divina
+[sequence] 1,c,2,c,3,c
+[1]
+Dați-mi în mână Biblia divină
+Carte în lume-asemenea ei nu-i
+Ea stâmpără durerea și-o alină
+Și mă-nvață să fiu al Domnului.
+[chorus]
+Las' să lucească raza ei cea sfântă,
+În tot locul aici pe-acest pământ,
+Ca toți aceia cu inima frântă
+Să se întoarcă la Domnul cel Sfânt.
+[2]
+Dați-mi în mână Biblia divină
+Ea dă odihnă celor osteniți
+Și în necazuri mângâie-al tău suflet
+Vindecă boala și-orice suferinți.
+[3]
+Dați-mi în mână Biblia divină
+În ea se află viața lui Isus
+Ea ne arată cum El o să vină
+Ca să ne ducă cu El în cer sus.
+

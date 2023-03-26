@@ -1,0 +1,21 @@
+[title] Acum paraseste acum
+[sequence] 1,c,2,c
+[1]
+Acum părăsește, acum
+Gândul pătat și murdar,
+Ce e-n inima ta
+Pustiu sufletul îți va fi
+Ne-ncetat va lovi răul din viața ta.
+[chorus]
+/: Vino la Isus, viață aduce
+Din moarte El a înviat
+Pacea, iertarea și-n inima ta
+Suferința nu va exista :/
+[2]
+Să vii la Isus chiar acum
+Să pășești pe-al Său drum
+Și să-I dai inima.
+Isus te primește cum ești
+Dar să nu zăbovești!
+Mântuire-ți va da.
+

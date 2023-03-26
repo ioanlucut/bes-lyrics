@@ -1,0 +1,28 @@
+[title] Pe sfanta vietii carare
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+Pe sfânta vieții cărare,
+Isuse, prin har, alergăm
+Și flori de iubire și soare,
+Spre lauda Ta semănăm.
+[chorus]
+/: Spre lauda Ta, spre lauda Ta,
+Isuse, cu foc, vom cânta!
+În veci, Te slăvim, în veci, Te iubim,
+Prin harul pe care-l primim! :/
+[2]
+În lupta cea bun-a credinței,
+'Napoi, nicidecum, să nu dăm
+Suntem rânduiți biruinţei
+Spre lauda Ta să luptăm.
+[3]
+Ne-ai pus în ogorul iubirii,
+Poverile ei să purtăm,
+Să fim la-nălțimea menirii,
+Spre lauda Ta să lucrăm.
+[4]
+În toate-mpreună cu Tine,
+Isuse, ne-ai pus ca să stăm
+Prin Tine, și astăzi și mâine,
+Spre lauda Ta noi cântăm.
+

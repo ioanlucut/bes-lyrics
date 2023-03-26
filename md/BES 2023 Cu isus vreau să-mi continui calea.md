@@ -1,0 +1,23 @@
+[title] Cu Isus vreau să-mi continui calea
+[sequence] 1,c,2,c,3,c
+[1]
+Cu Isus vreau să-mi continui calea
+El să-mi fie-n veci nedespărțit
+Numai El îmi poate stinge jalea,
+El mă poate face fericit.
+[chorus]
+/: Lângă Domnul veșnic voi rămâne
+Cu El vreau să fiu aicea jos,
+Ține-mă pe veci de veci Stăpâne,
+Lângă Tine, tare, credincios! :/
+[2]
+Obosit când sunt, El m-odihnește
+Iar în lupta grea îmi este scut,
+La răspântii El mă sfătuiește
+Și-n nevoi mi-e singurul avut.
+[3]
+Vreau cu El să merg tot înainte
+Și prin El să fiu oricând voios,
+Împlinind cereștile cuvinte
+Să mă afle-n toate credincios.
+

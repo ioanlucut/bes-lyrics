@@ -1,0 +1,40 @@
+[title] Suntem duși și clătinati
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+Suntem duși și clătinați,
+Zbuciumați pe-al mării chin,
+De furtuni și zile sumbre,
+Care peste mine vin.
+Într-o țară unde-n veci,
+Nu coboară umbre reci,
+Vei vedea cu ochii tăi, cum ai să pleci.
+[chorus]
+În curând, zorii vor veni
+Și, în cer, acasă vom sosi.
+Abia atunci pricepe-vom deplin,
+Dumnezeu de ce-a lăsat atâta chin.
+[2]
+Unii sunt flămânzi aici,
+Alţii n-au unde dormi
+Mulți sunt cei ce locuință
+Au, în locuri reci, pustii.
+Ne-ntrebăm: de ce-i aşa?
+Și răspuns vrem a avea,
+Dar Cuvântul Lui ne spune voia Sa.
+[3]
+Încercări ne copleșesc,
+Nu-nțelegem rostul lor,
+Dar aceasta este calea-n
+Țara bucuriilor!
+Din cer, ochii Domnului
+Pașii văd ai orișicui
+Ne-ocrotește, în mod tainic, harul Lui.
+[4]
+Ispitiți suntem ades
+Și-acționăm necugetat
+Plânge inima zadarnic,
+Omul nu e mângâiat
+Doamne, nu pot să pricep,
+Bine să văd unde-aștept,
+Însă răul îmi lovește al meu piept.
+

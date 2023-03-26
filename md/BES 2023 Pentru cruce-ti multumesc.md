@@ -1,0 +1,24 @@
+[title] Pentru cruce-Ti multumesc
+[sequence] 1,c,1,c,e
+[1]
+Pentru cruce-Ți mulțumesc,
+Pentru prețul ce-ai plătit.
+Ai purtat păcatul meu, rușinea mea,
+Mi-ai dat har minunat.
+
+Mulțumesc că m-ai iubit
+Și pe cruce Te-ai jertfit
+Sunt spălat cu sânge sfânt
+Și pot să cânt Mielului ce m-a salvat.
+
+[chorus]
+/: Vrednic ești, Isus, să fii încoronat.
+Pe pământ și-n ceruri sus,
+Domnești victorios.
+Să fii înălțat, Rege preaînalt.
+Tu mântuire ne-ai adus,
+Vrednic ești, Isus, vrednic ești, Isus :/
+
+[ending]
+Vrednic ești doar Tu
+

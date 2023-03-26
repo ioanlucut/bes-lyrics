@@ -1,0 +1,35 @@
+[title] Eu ma-ncred doar în Domnul
+[sequence] 1,c,2,c,3,c
+[1]
+Eu m-ncred doar în Domnul,
+El mă ajută,
+Eu mă-ncred doar în Domnul,
+El e-a mea stâncă,
+El e-al meu turn în care la necaz alerg,
+Eu mă-ncred doar în Domnul,
+Știu că nu greșesc.
+
+[chorus]
+Pe Domnul slăvesc, ajutorul meu,
+El e slava mea și când drumu-i greu,
+Toate popoarele lumii să se-ncreadă-n El
+Eu mă încred doar în Domnul,
+Știu că nu greșesc.
+[2]
+Eu mă-ncred doar în Domnul
+El revarsă har!
+Eu mă-ncred doar în Domnul
+Viață-mi dă în dar!
+El e al meu turn în care la necaz alerg,
+Eu mă-ncred doar în Domnul,
+Știu că nu greșesc.
+
+[3]
+Eu mă-ncred doar în Domnul
+În Duhul Său sfânt
+Eu mă-ncred doar în Domnul
+Aici pe pământ
+El e al meu turn în care la necaz alerg,
+Eu mă-ncred doar în Domnul,
+Știu că nu greșesc.
+

@@ -1,0 +1,30 @@
+[title] El este Domn și în ceruri domneste
+[sequence] 1,c,2,t
+[1]
+El este Domn și din ceruri domneste
+El este Domn!
+Lumina-i creată când El poruncește
+El este Domn!
+
+Și cine-I ca El, n-are capăt la zile
+El este Domn!
+El vine-n putere când chemi al Său Nume,
+El este Domn!
+[chorus]
+/: Arată-Ți puterea, o, Domnul meu,
+Arată-Ți puterea, o, Domnul meu :/
+O, Domnul meu.
+[2]
+Cuvântul Tău e speranță în lume
+Ești Dumnezeu!
+Prin a Ta putere avem mântuire
+Ești Dumnezeu!
+Nu-Ți cerem avere, privim dar la cruce
+Ești Dumnezeu!
+Pe cei păcătoși înainte-Ți aducem
+Ești Dumnezeu!
+[chorus 2]
+/: Trimite-Ți puterea, o, Domnul meu,
+Trimite-Ți puterea, o, Domnul meu :/
+O, Domnul meu.
+

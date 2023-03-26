@@ -1,0 +1,24 @@
+{
+  "name": "bes-lyrics",
+  "version": "1.0.0",
+  "description": "Cântări Biserica Emanuel Sibiu",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/fs-extra": "^11.0.1",
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^18.15.9",
+    "prettier": "^2.8.7",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.0",
+    "typescript": "^5.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ioan Lucuț",
+  "license": "ISC"
+}

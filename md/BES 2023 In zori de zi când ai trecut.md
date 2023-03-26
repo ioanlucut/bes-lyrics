@@ -1,0 +1,38 @@
+[title] In zori de zi când ai trecut
+[sequence] 1,2,3
+[1]
+În zori de zi când ai trecut,
+La margine de drum, căzut, eram
+Și atunci când eu nici nu gândeam,
+Spre mine un Samaritean s-a aplecat.
+
+/: Era cu ochii-nlăcrimați
+Privirea-I blândă, o, ce mult mi-a spus!
+Și mi-a vorbit cu glas duios
+Că mai primește-un păcătos
+Și m-am convins, era Isus :/
+
+[2]
+Lovit de-al lumii greu păcat
+Eu nu credeam că pot vreodat’ să fiu salvat.
+Nu aveam o țintă-n drumul meu,
+Nici ajutor când mi-era greu în viața mea.
+
+/:Credeam că-s singur chiar de tot,
+Că nu mai am în lume rost nicicând
+„Dar nu-i aşa!” un glas mi-a spus
+Și m-a luat cu El, m-a dus,
+Și m-am convins, era Isus :/
+
+[3]
+Nu cred că poate un om la fel
+Să facă-asemenea ca El c-un păcătos:
+Să ierte tot ce i-a greşit,
+O viaţă, cât necontenit, a fost hulit.
+
+/: Nu pot să cred că altu-a fost
+Când mi-a dat mâna și de jos m-a ridicat
+Prin jertfa sfântă El mi-a spus
+Cum dus-a crucea până sus
+Și sunt convins, era Isus :/
+

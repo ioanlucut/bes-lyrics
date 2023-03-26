@@ -1,0 +1,23 @@
+[title] Maretul har m-a mantuit
+[sequence] 1,2,3,4
+[1]
+Mărețul har m-a mântuit
+Pe mine din păcat
+/: Pierdut eram, dar m-a găsit,
+De moarte m-a scăpat. :/
+[2]
+Mărețul har m-a învățat
+S-o rup cu orice rău;
+/: Ce scump mi-e azi tot harul dat
+Trăiesc prin El mereu. :/
+[3]
+Dureri, batjocuri, prigoniri
+Adesea-am întâlnit
+/: Prin harul marii Lui iubiri
+Eu toate-am biruit. :/
+[4]
+Prin har, ajunge-voi în cer,
+Cu slavă îmbrăcat,
+/: Și voi slăvi, în veșnicii,
+Pe Cel ce har mi-a dat. :/
+

@@ -1,0 +1,32 @@
+[title] Vrednic de lauda ce o pot canta
+[sequence] 1,c,2,c,b,c
+[1]
+Vrednic de lauda ce o pot cânta
+Vrednic ești Tu în veci de-nchinarea mea
+Vrednic de tot ce sunt toată viața mea
+/: Ești Tu Isus :/
+Isus e numele cel mai minunat
+Isus e singurul care m-a salvat
+Vrednic de tot ce sunt toată viața mea.
+/: Ești Tu Isus :/
+
+[chorus]
+Sfânt ești, nimeni nu-i ca Tine
+Totu-Ți aparține
+Luminează Tu prin mine
+Vreau să Te cunosc mai bine
+Vreau a Ta iubire
+Pentru cei de lângă mine.
+
+[2]
+Vrednic de lauda ce o pot cânta
+Vrednic ești Tu în veci de-nchinarea mea
+Vrednic de tot ce sunt toată viața mea
+/: Ești Tu Isus :/
+
+[bridge]
+/: Voi zidi pe-a Ta iubire
+E o temelie tare
+Voi trăi doar prin credință
+Neclintit în orice vreme :/
+

@@ -1,0 +1,23 @@
+[title] El n-a promis doar cerul senin
+[sequence] 1,c,2,c,3,c
+[1]
+El n-a promis doar cerul senin,
+Nici flori pe cale fără pelin
+N-a promis soare fără de nori,
+Nici bucurie fără nevoi.
+[chorus]
+/: Dar ne-a promis, din puterea Sa,
+Pe drum lumină că ne va da.
+Al Său bogat har, în încercări,
+Și mângâiere în întristări. :/
+[2]
+El n-a promis căi fără dureri,
+Fără ispite, fără poveri.
+Și nici n-a spus El că vom avea
+Cruci mai ușoare decât a Sa.
+[3]
+El n-a promis drum larg și ușor,
+Să poți umbla fără ajutor.
+Și nici pe drum că nu vor fi stânci,
+Că n-ai să treci prin ape adânci.
+

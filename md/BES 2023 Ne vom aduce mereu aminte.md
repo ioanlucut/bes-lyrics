@@ -1,0 +1,38 @@
+[title] Ne vom aduce mereu aminte
+[sequence] c,1,c,2,c,3,b,4,c
+[chorus]
+
+/: Ne vom aduce mereu aminte,
+Vom spune lumii lucrările-Ți mari,
+Vom striga: „O, cât de mare,
+E credincioșia Ta!” :/
+
+[1]
+Ești Creatorul, Susținătorul,
+Mângâietorul, iubit Salvator!
+Și peste vremuri, ne-ai fost scăpare,
+Ne-ai dat pace, chiar în furtuni.
+
+[2]
+Prin multe semne, Ți-arăți puterea,
+Prin sânge sfânt, harul Ți-ai revărsat,
+Ne-ai fost alături, sprijin în toate,
+Ne-ai dat viață fără sfârșit.
+
+[3]
+Când drumul nostru, prin văi coboară,
+Vom privi, la tot ce-ai făcut,
+Și vom striga: „Ce bun e Domnul!
+El e mereu credincios!”
+
+[bridge]
+Aleluia, aleluia,
+Celui ce ne-a binecuvântat!
+Aleluia, aleluia,
+Celui ce ne-a răscumpărat!
+[4]
+Mi-aduc aminte, de-a Ta chemare,
+De ziua când, mi-ai spus „Ești salvat”
+Că niciodată nu voi fi singur,
+Pe veci viața Tu mi-ai salvat.
+

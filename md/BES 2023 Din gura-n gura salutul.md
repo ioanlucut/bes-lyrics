@@ -1,0 +1,29 @@
+[title] Din gura-n gura salutul
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+Din gură-n gură salutul:
+„Hristos a înviat!"
+„Adevărat Hristos a înviat!"
+Învăluise pământul c-un zâmbet voios
+Măreața veste că viu e Hristos!
+[chorus]
+Deci să ne bucurăm acuma și noi!
+Deci să vă bucurați acuma și voi!
+Murind, puterea morții El nimici:
+De-aceea, ne vom veseli!
+[2]
+De-acum Isus Biruitorul e viu,
+Cu an ce trece tot mai bine o știu,
+Și ce promise Domnul va împlini
+De-aceea ne vom veseli.
+[3]
+Puterea toată de la Tatăl primi
+Căci acceptase umil a trăi,
+Prin moartea Sa, pe Satan îl zdrobi,
+De-aceea ne vom veseli.
+[4]
+Deci "Aleluia" sus în locuri cereşti,
+Deci "Aleluia" cântă tu, ce-L iubeşti,
+Curând în slavă Domnul ne va răpi.
+De-aceea ne vom veseli.
+

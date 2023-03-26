@@ -1,0 +1,23 @@
+[title] Arcuri incordate
+[sequence] 1,c,2,c,3,c
+[1]
+Arcuri încordate fi-vor îndreptate
+Vârfuri ascuțite, nu mă tem.
+Piedici, bariere, nu, nu au putere
+Când pe Domnul Isus eu Îl chem.
+[chorus]
+/: Credincioasă slugă mă aplec în rugă
+Și Îl chem în ajutor mereu
+Și de orișiunde Domnul îmi răspunde
+Căci El e același Dumnezeu :/
+[2]
+Piedici pe cărare știu că vor apare
+Dar de Domnul Isus nu mă las
+El îmi dă putere, har și mângâiere
+Și mă întărește pas cu pas.
+[3]
+Zile înnorate nu mă vor abate
+De la ținta veșniciilor
+Ploaie și furtună, toate împreună
+Le înfrunt cu-al meu Mântuitor.
+

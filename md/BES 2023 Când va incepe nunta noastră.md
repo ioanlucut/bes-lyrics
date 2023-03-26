@@ -1,0 +1,39 @@
+[title] Când va incepe nunta noastră
+[sequence] 1,2,3,4,5,6
+[1]
+Când va începe nunta noastră,
+În dimineața fără nori
+O, când va-ncepe nunta noastră,
+Pe-ntreaga-ntindere albastră
+/: Va fi lumină și splendori. :/
+[2]
+Când fața Ta strălucitoare,
+Isuse drag, se va ivi,
+De fața Ta strălucitoare,
+S-or stinge stele, lună, soare
+/: Lumina Ta le-a copleși :/
+[3]
+Noi, îmbrăcași în alb și soare,
+Uimiți de cerul Tău slăvit,
+Străluminați de-un veșnic Soare,
+Cântând, Ți-om pune la picioare,
+/: Cununa harului primit. :/
+[4]
+Când vom zbura spre cer, Isuse,
+Aleșii Tăi de pe pământ,
+Când sus în ceruri, o, Isuse,
+Vom sta în slăvile nespuse
+/: La masa Ta, o, Mire sfânt. :/
+[5]
+Ah, bucuriile-ntâlnirii
+Ce-n suflet, Doamne, vom simți,
+Ca bucuriile-ntâlnirii
+Și fericirea fericirii,
+/: N-a fost și nici nu va mai fi. :/
+[6]
+O, adu clipa așteptată
+Când vom pluti, strălucitori
+Adu-ntâlnirea așteptată
+Și nunta noastră minunată,
+/: Din dimineața fără nori. :/
+

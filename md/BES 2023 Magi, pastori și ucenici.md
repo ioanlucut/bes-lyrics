@@ -1,0 +1,32 @@
+[title] Magi, pastori și ucenici
+[sequence] 1,c,2,c,3,c,b,c
+[1]
+Magi, păstori și ucenici, tâlharul
+Au crezut în Tine și s-au închinat
+Milioane Te-au urmat de veacuri
+Evanghelia mereu a triumfat.
+
+[chorus]
+O iesle-n Betleem, un Domn Emanuel
+O cruce și-un Calvar, o mântuire-n dar
+Cuvântul plin de har, mormântul gol rămas,
+Ne spune ceas de ceas
+El vine să ne ia, în cer în slava Sa
+De unde nu vom mai pleca.
+
+[2]
+Ai venit în grajdul vieții mele
+Și mi-ai spus că vrei în cer ca să mă duci
+Jertfa Ta a despicat mormântul
+De păcate-n care stam atunci.
+
+[3]
+Ascultă azi mesajul de iubire
+Isus născut în Betleemul din câmpii
+Răstignit murind pe cruce pentru Tine
+A-nviat, s-a înălțat, va reveni!
+
+[bridge]
+/: Dă grajdul tău, pe cerul Său
+Al tău abis, pe Paradis :/
+

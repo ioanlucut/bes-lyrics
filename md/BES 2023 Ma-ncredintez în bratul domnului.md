@@ -1,0 +1,24 @@
+[title] Ma-ncredintez în bratul Domnului
+[sequence] 1,c,2,c,3,c
+[1]
+Mă-ncredințez în brațul Domnului,
+Nădăjduiesc să fiu pe veci al Lui
+În inimă eu L-am primit pe El
+Și viața mea Îi aparține Lui.
+[chorus]
+/: Fiindc-atât de mult a iubit
+Dumnezeu lumea
+Că a dat pe singurul lui Fiu,
+Ca oricine crede-n El să nu piară,
+Ci să aibă viață veșnică :/
+[2]
+Știu, Domnul meu, El e-ngăduitor
+Știu, Domnul meu, El este răbdător
+Știu, Domnul meu, El este prietenos
+Binevoitor El e, nespus de bun.
+[3]
+Acum este momentul potrivit,
+Întoarceți-vă, ca să fiți primiți
+Veniți la Domnul, în El vă-ncredeți!
+Alegeți-vă viața veșnică.
+

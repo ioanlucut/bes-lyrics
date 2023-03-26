@@ -1,0 +1,32 @@
+[title] A lui Isus venire
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+A lui Isus venire curând se aproprie
+Și bucurie ne-aduce.
+Mireasa jos suspină după măreața clipă
+Grăbește-Ți venirea, Doamne!
+
+[chorus]
+Isus vine-n curând, noi știm că El
+Vine să-și ia mireasa Sa
+Cu inima senină Îl așteptăm să vină
+Grăbește-Ți venirea, Doamne!
+[2]
+Durerea și păcatul domină-ntreg pământul,
+Lumea în moarte se zbate
+Dar în ziua măreață, Îi vom sta față-n față
+Grăbeşte-Ți venirea, Doamne!
+
+[3]
+El astăzi ne îndeamnă să priveghem în rugă
+Nu știm nici ziua, nici clipa.
+Să-ți pregăteşti sufletul,
+Să-ți porți mereu veșmântul
+Spălat cu sânge pe Calvar.
+
+[4]
+Când trâmbița suna-va și din cer coborî-va
+Mireasa Sa o va răpi
+Ce bucurie mare, zbura-vom către Soare,
+Grăbește-Ți venirea, Doamne!
+

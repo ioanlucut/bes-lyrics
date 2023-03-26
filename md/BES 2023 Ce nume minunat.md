@@ -1,0 +1,13 @@
+[title] Ce nume minunat
+[sequence] 1,c
+[1]
+Ce nume minunat, ce nume minunat,
+Ce nume minunat este Isus!
+El este Domnul meu, a toate Creator,
+Ce nume minunat este Isus!
+[chorus]
+El e Păstorul, e Stânca cea tare,
+Atotputernic e!
+Să-I dăm cinstire, slavă, mărire.
+NUmele lui Isus e minunat.
+

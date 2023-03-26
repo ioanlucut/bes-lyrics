@@ -1,0 +1,24 @@
+[title] In ziua de apoi
+[sequence] 1,c,2,c,3,c
+[1]
+În ziua de apoi când vor fi toți chemați,
+Când cei sfinți întâlnesc pe Domnul lor,
+Când străinul v-ajunge în patria să,
+Laudă Domnului, vom fi acolo!
+[chorus]
+/: Noi vom fi (noi vom fi) acolo (fi acolo),
+În măreața zi de apoi,
+Când cei sfinți (toți vin acas')
+Vin acas' (vin acas')
+Laudă Domnului, vom fi acolo :/
+[2]
+Când cei răscumpăraţi vor cânta toți uniți,
+În cântul cel măreț al sfinților,
+Când măreaţa cântare cu-a lor s-a uni,
+Laudă Domnului, vom fi acolo!
+[3]
+Nu ne-om mai despărți în cerescul cămin,
+Nici dureri acol' sus nu vor mai fi
+Când va zice Isus: „Vino la dreapta Mea!”
+Laudă Domnului, vom fi acolo!
+

@@ -1,0 +1,30 @@
+[title] Când în zare se ivește solul celui necurat
+[sequence] 1,c,2,c
+[1]
+Când în zare se ivește solul celui necurat
+Dumnezeu e tăria mea!
+Când oștirile de demoni cerul au întunecat
+Dumnezeu e tăria mea!
+
+Când tot iadul stă-n picioare pregătit pentru război
+Și simt că sufletu-mi se zbate prins în cursa grea
+Mă aplec în rugăciune și-aștept ajutorul slavei
+Dumnezeu e tăria mea!
+
+[chorus]
+/: Dumnezeu e tăria mea,
+Adăpost pentru sufletul meu
+Ajutor când povara e grea
+Dumnezeu e scăparea mea! :/
+[2]
+Dumnezeu are putere ca în cer și pe pământ,
+Dumnezeu e tăria mea!
+Tot ce-n lume se întâmplă este scris și în Cuvânt,
+Dumnezeu e tăria mea!
+
+Încercarea când e mare și se pare că mă-ngroapă
+Întunericul e gros și nu mai pot vedea
+Plec și fruntea și genunchiul,
+Dar înalț spre ceruri duhul
+Dumnezeu e tăria mea!
+
