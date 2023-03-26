@@ -1,0 +1,28 @@
+[title] O lauda e cantarea mea
+[sequence] 1,c,2,c,3,c,4,c
+[1]
+O laudă e cântarea mea,
+Un imn frumos de bucurie,
+O laudă îmi cântă inima,
+Mărit să fie Domnul pe vecie.
+[chorus]
+Sfânt, sfânt, sfânt,
+E Numele Lui mare,
+Sfânt a fost și e din veșnicii,
+Sfânt și bun alin și desfătare
+Este Domnul pentru-ai Săi copii.
+[2]
+Căci Domnul e tăria mea,
+Să știe azi întreaga lume,
+Și-o viață-ntreagă-I voi cânta,
+Mărească-I-se al Său Nume.
+[3]
+Ostroave, dealuri și câmpii
+Ce dați privirii încântare,
+Spuneți oricui v-ar întâlni
+Că n-are Domnu-asemănare.
+[4]
+El mi-e pricina laudelor,
+Căci prin El toate au fost create,
+El este Domnul domnilor,
+Prin El și pentru El sunt toate.
