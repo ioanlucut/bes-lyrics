@@ -1,0 +1,10 @@
+[title] Nu este munte prea-nalt
+[sequence] 1,c,1,c
+[1]
+Nu este munte prea-nalt ca să nu-l miște
+Nu e problemă prea grea să n-o rezolve
+Nu e furtună prea grea să n-o liniștească
+Nu e durere prea grea să n-o aline
+[chorus]
+/: El purtat-a pe umerii Săi povara lumii
+El poate lua chiar acum povara ta :/
