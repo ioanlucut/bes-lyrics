@@ -7,7 +7,7 @@ c,1,c,2,c,3,c
 [chorus]
 Cântă suflet al meu pentru Dumnezeu
 Cel binecuvântat
-Al﻿ Lui Nume e sfânt cântă acum,
+Al Lui Nume e sfânt cântă acum,
 Cum nu ai mai cântat.
 
 [1]

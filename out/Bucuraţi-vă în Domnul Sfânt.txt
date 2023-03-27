@@ -1,11 +1,11 @@
 [title]
-Bucuraţi-vă în Domnul Sfânt
+Bucurați-vă în Domnul Sfânt
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-/: Bucuraţi-vă în Domnul Sfânt
+/: Bucurați-vă în Domnul Sfânt
 Iarăși zic: bucurați-vă! :/
 
 [chorus]

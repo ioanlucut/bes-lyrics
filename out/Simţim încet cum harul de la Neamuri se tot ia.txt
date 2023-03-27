@@ -1,11 +1,11 @@
 [title]
-Simţim încet cum harul de la Neamuri se tot ia
+Simțim încet cum harul de la Neamuri se tot ia
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Simţim încet cum harul de la Neamuri se tot ia
+Simțim încet cum harul de la Neamuri se tot ia
 Aproape gata-i ușa a se-ncuia.
 Mai mici sunt bucuriile de-acum un sfert de veac
 Lucrările acum mai mici se fac.

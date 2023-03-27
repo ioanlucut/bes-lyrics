@@ -1,11 +1,11 @@
 [title]
-Multă lume din juru-mi îmi spune ades'
+Multă lume din juru-mi îmi spune ades’
 
 [sequence]
 1,c,2,c
 
 [1]
-Multă lume din juru-mi îmi spune ades'
+Multă lume din juru-mi îmi spune ades’
 Că n-am bogăție și nici trai regesc
 Ei nu pot ca să vadă bucurii ce-am primit
 Prin tot ce Tu, Doamne, mi-ai pregătit.
