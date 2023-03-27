@@ -1,7 +1,9 @@
 [title]
 Ne-ai fost Doamne ajutor
+
 [sequence]
 1,2,3,4
+
 [1]
 Ne-ai fost, Doamne, ajutor
 Tu întotdeauna,
@@ -11,6 +13,7 @@ Când bătea furtuna,
 În dureri nespuse,
 Mijlocind la Dumnezeu
 Pentru noi, Isuse. :/
+
 [2]
 Ne-ai fost, Doamne, zi de zi,
 Hrană-mbelșugată,
@@ -20,6 +23,7 @@ Cu grijă de Tată.
 Gardă îngerească,
 Ca orice săgeți ce vin
 Să le nimicească. :/
+
 [3]
 Eşti acelaşi din vecii,
 Neclintit şi tare,
@@ -29,6 +33,7 @@ Plin de îndurare.
 Dătător de viață,
 Ești un har pentru pământ
 În orice dimineață. :/
+
 [4]
 Ne-ai fost, Doamne, ne-ncetat
 Sfântă mângâiere,

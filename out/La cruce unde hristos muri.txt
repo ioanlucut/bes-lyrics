@@ -1,26 +1,32 @@
 [title]
 La cruce unde Hristos muri
+
 [sequence]
 1,c,2,c,3,c,4,c
+
 [1]
 La cruce unde Hristos muri,
 Am dorit Harul a-l dobândi
 Sângele Lui Sfânt m-a curățit,
 Laudă-I fie.
+
 [chorus]
 Laudă-I fie! Laudă-I fie!
 Sângele Lui sfânt m-a curățit
 Laudă-I fie!
+
 [2]
 Minune! Sunt de păcat scăpat,
 Isus pentru mine a răbdat,
 La cruce, unde El m-a iertat,
 Laudă-I fie.
+
 [3]
 Tu, Sfânt Izvor, ce păcatu' speli,
 Drumul spre cruce să-l luminezi
 Aici ierta-vei tot greșul meu
 Laudă-I fie.
+
 [4]
 Vino la acest bogat izvor,
 Proșterne-te la-L tău Salvator.

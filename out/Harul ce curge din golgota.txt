@@ -1,22 +1,27 @@
 [title]
 Harul ce curge din Golgota
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Harul ce curge din Golgota,
 M-a mântuit, m-a fericit
 Aici Isus a fost morții dat,
 Păcatul meu El mi-a ispășit.
+
 [chorus]
 /: Harul, harul,
 Harul e darul nemeritat,
 Harul, harul,
 Pe veci cu Dumnezeu m-a-mpăcat. :/
+
 [2]
 Am fost robit de al meu păcat,
 Ce m-apăsat, m-a chinuit,
 Dar la Isus eu am alergat,
 El mi-a dat pacea, m-a izbăvit.
+
 [3]
 Tu dragul meu astăzi ești chemat,
 La acest har ce este-n dar,

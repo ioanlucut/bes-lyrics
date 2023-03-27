@@ -1,7 +1,9 @@
 [title]
 Cine oare Cine oare
+
 [sequence]
 1,2,3,4
+
 [1]
 Cine, oare? Cine, oare,
 Te-a scăpat din strâmtorare, Israel, Israel?
@@ -11,6 +13,7 @@ Cine te-a strigat pe nume
 /: Cine, oare, te-a salvat?
 Cine te-a răscumpărat?
 Cine altul decât El, Israel, Israel? :/
+
 [2]
 Cine te-a scos din robie
 Și ți-a dat o apă vie, Israel, Israel?
@@ -20,6 +23,7 @@ Cin' te-a scos din mare-adâncă
 /: Cine ți-a dăruit țara
 Și ți-a ridicat ocara?
 Cine altul decât El, Israel, Israel? :/
+
 [3]
 „Nu te teme-al Meu popor!
 Eu îți vin în ajutor, Israel, Israel!”
@@ -29,6 +33,7 @@ Domnul luptă pentru tine, Israel, Israel!
 /: „Prețul tău e-așa de mare
 Pentru tine dau popoare!”,
 Iată ce vorbește El, Israel, Israel! :/
+
 [4]
 Cântă azi poporul Meu:
 „Te-nalț, Doamne, Dumnezeu,

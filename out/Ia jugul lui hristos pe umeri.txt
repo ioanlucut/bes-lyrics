@@ -1,7 +1,9 @@
 [title]
 Ia jugul lui Hristos pe umeri
+
 [sequence]
 1,2,3
+
 [1]
 Ia jugul lui Hristos pe umeri
 Și trage lângă El arând
@@ -12,6 +14,7 @@ Chiar dacă semeni numai lacrimi
 În sărăcie nu-n belșug
 Căci mulți au stat cu El la mese
 Dar prea puțini au tras la jug :/
+
 [2]
 Ia sarcina și-o du alături
 Și simte-o apăsând din greu
@@ -22,6 +25,7 @@ De tot ce are Dumnezeu.
 Odată-n cerul Lui de sus
 Nu după haina ce-ai purtat-o
 Ci după sarcina ce-ai dus :/
+
 [3]
 Ia-ți crucea ta și-I mergi pe urme
 Tăcând și mulțumind ca El

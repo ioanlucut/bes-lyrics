@@ -1,7 +1,9 @@
 [title]
 Am ales pe Domnul Isus
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Am ales pe Domnul Isus,
 Al meu bun Păstor!
@@ -9,6 +11,7 @@ Cu El, sigur, voi ajunge sus învingător.
 Sus în cer în fericire vreau să fiu și eu,
 Sus în cer, în nemurire,
 Sus cu Domnul meu!
+
 [chorus]
 Un izvor de fericire
 Am găsit în Domnul meu,
@@ -16,6 +19,7 @@ Un izvor de apă vie este El!
 Vino, prietene, aleargă la izvorul mult dorit!
 Este loc şi pentru tine!
 Vino, să fii fericit!
+
 [2]
 Seara când răsare luna,
 Cheamă-L pe Isus!
@@ -23,6 +27,7 @@ Spune-I Lui în rugăciune tot ce ai de spus!
 El te-ascultă, te iubeşte ca pe fiul Său
 Și îți dă în dar iertare
 Sufletului tău.
+
 [3]
 Iar când zorii se arată,
 Pe cerul senin

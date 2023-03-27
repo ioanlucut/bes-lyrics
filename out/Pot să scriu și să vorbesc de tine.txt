@@ -1,7 +1,9 @@
 [title]
 Pot să scriu și să vorbesc de Tine
+
 [sequence]
 1,c,2,c
+
 [1]
 Pot să scriu și să vorbesc de Tine,
 Despre tot ce Tu ai scris și ai făcut,
@@ -12,11 +14,13 @@ Cum la toți cei orbi doar Tu le-ai dat vedere,
 Și cum marea învolburată ai liniștit,
 Când eram eu singur și în deznădejde,
 Tu cu dragoste în brațe m-ai primit!
+
 [chorus]
 Tu ne-ai adus iubirea,
 Ca pe un veșmânt curat,
 Dar pentru acestea toate,
 Isus eu ce Ți-am dat?
+
 [2]
 Când umbra acestei lumi e peste tine,
 Și-ntunericul e pe inima ta,

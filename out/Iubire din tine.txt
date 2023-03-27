@@ -1,12 +1,15 @@
 [title]
 Iubire din Tine
+
 [sequence]
 1,c
+
 [1]
 Iubire din Tine
 Pune Tu în viața mea
 Putere, răbdare
 Plin de Duh să fiu aș vrea
+
 [chorus]
 /: Și mă voi închina cu viața mea
 Și mă voi închina cu sufletul meu

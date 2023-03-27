@@ -1,27 +1,33 @@
 [title]
 Orice pas Isus mi-l conduce
+
 [sequence]
 1,c,2,c,3,c,4,c
+
 [1]
 Orice pas Isus mi-l conduce
 /: Slavă Lui! :/
 Mană sfântă El îmi aduce,
 Slavă Domnului!
+
 [chorus]
 Aleluia, cântarea mea
 Lui Isus mereu voi cânta,
 Cu pace-mi umple El inima
 Slavă Domnului!
+
 [2]
 Toate Lui Îi sunt date aici,
 /: Slavă Lui! :/
 Harul Său îl dă la mari și mici,
 Slavă Domnului!
+
 [3]
 Niciodată nu mă lasă El,
 /: Slavă Lui! :/
 De-aș avea ispite-n orice fel,
 Slavă Domnului!
+
 [4]
 Domnul îmi conduce căile,
 /: Slavă Lui! :/
