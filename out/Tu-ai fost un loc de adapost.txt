@@ -1,5 +1,7 @@
-[title] Tu-ai fost un loc de adapost
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Tu-ai fost un loc de adăpost
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Tu-ai fost un loc de adăpost,
 Al nostru, Doamne, din vecie
@@ -8,7 +10,6 @@ Noi am găsit credincioșie.
 Ce minunat, ce minunat,
 Să ai o stâncă-n vremuri grele,
 Ce minunat, ce minunat!
-
 [chorus]
 Mergem înainte cu Tine, Doamne,
 Orice ar veni, orice s-ar întâmpla!
@@ -22,7 +23,6 @@ Peste corabie deodată
 M-ai întărit, m-ai întărit
 Ca să rămân pe stânca tare,
 M-ai întărit, m-ai întărit!
-
 [3]
 Cu Tine am rămas mereu
 Și voi rămâne totdeauna,
@@ -31,7 +31,6 @@ Ce l-am cântat și-l cânt întruna.
 Te voi slăvi, Te voi slăvi,
 Tu, dorul dorurilor mele,
 Te voi slăvi, Te voi slăvi!
-
 [4]
 Ce va fi mâine eu nu știu
 Dar știu că taina voii Tale

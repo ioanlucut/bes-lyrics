@@ -1,5 +1,7 @@
-[title] Sus pe plaiurile cerului
-[sequence] 1,2,3,4,5
+[title]
+Sus pe plaiurile cerului
+[sequence]
+1,2,3,4,5
 [1]
 Sus, pe plaiurile cerului,
 Sus, acolo-n înălțimi,

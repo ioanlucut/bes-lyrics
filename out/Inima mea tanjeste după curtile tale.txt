@@ -1,5 +1,7 @@
-[title] Inima mea tanjeste după curtile Tale
-[sequence] 1,2,c
+[title]
+Inima mea tânjește după curțile Tale
+[sequence]
+1,2,c
 [1]
 Inima mea tânjește după curțile Tale,
 Sufletul meu suspină după al Tău locaș,

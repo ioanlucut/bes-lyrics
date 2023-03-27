@@ -1,5 +1,7 @@
-[title] Aș vrea să numar clipele
-[sequence] 1,c,2,c,t
+[title]
+Aş vrea să număr clipele
+[sequence]
+1,c,2,c,t
 [1]
 Aş vrea să număr clipele,
 Dar timpul trece-n grabă

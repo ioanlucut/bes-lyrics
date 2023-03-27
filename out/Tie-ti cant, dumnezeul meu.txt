@@ -1,5 +1,7 @@
-[title] Tie-Ti cant, Dumnezeul meu!
-[sequence] 1,2,3,4
+[title]
+Ție-Ți cânt Dumnezeul meu
+[sequence]
+1,2,3,4
 [1]
 /: Ție-Ți cânt, Dumnezeul meu :/
 Pentru bunătatea Ta,

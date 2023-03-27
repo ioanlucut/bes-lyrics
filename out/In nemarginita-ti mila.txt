@@ -1,5 +1,7 @@
-[title] In nemarginita-Ti mila
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+În nemărginita-Ți milă
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 În nemărginita-Ți milă,
 Doamne, oare poți ierta

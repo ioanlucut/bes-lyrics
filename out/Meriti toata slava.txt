@@ -1,5 +1,7 @@
-[title] Meriti toata slava
-[sequence] 1,c,b,1,c,b
+[title]
+Meriți toată slava meriți toată cinstea
+[sequence]
+1,c,b,1,c,b
 [1]
 Meriți toată slava, meriți toată cinstea,
 Meriți lauda și închinarea,

@@ -1,5 +1,7 @@
-[title] Turma mica, nu te teme
-[sequence] 1,2,3,4
+[title]
+Turmă mică nu te teme
+[sequence]
+1,2,3,4
 [1]
 Turmă mică, nu te teme,
 Domnul e Păstorul tău!

@@ -1,5 +1,7 @@
-[title] O cantare de marire
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+O cântare de mărire am în inimă mereu
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 O cântare de mărire am în inimă mereu
 De când L-am aflat pe Isus la Calvar.

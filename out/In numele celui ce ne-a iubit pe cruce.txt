@@ -1,5 +1,7 @@
-[title] In numele Celui ce ne-a iubit pe cruce
-[sequence] 1,2,3
+[title]
+În Numele Celui ce ne-a iubit pe cruce
+[sequence]
+1,2,3
 [1]
 În Numele Celui ce ne-a iubit pe cruce
 În Numele Fiului Tău ne închinăm

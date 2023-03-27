@@ -1,5 +1,7 @@
-[title] Cineva se-ngrijeste de mine mereu
-[sequence] 1,c,2,c,3,c
+[title]
+Cineva se-ngrijește de mine mereu
+[sequence]
+1,c,2,c,3,c
 [1]
 Cineva se-ngrijește de mine mereu!
 Nu-i deloc întâmplarea,

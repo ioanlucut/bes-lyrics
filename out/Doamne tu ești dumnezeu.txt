@@ -1,5 +1,7 @@
-[title] Doamne Tu ești Dumnezeu
-[sequence] 1,c,2,c
+[title]
+Doamne Tu ești Dumnezeu
+[sequence]
+1,c,2,c
 [1]
 Doamne Tu ești Dumnezeu
 Și vei domni în veci,

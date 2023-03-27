@@ -1,5 +1,7 @@
-[title] La Tine Doamne imi inalt sufletul
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+La Tine Doamne
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 /: La Tine, Doamne,
 Îmi înalț sufletul :/

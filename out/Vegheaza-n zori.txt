@@ -1,5 +1,7 @@
-[title] Vegheaza-n zori
-[sequence] 1,c,2,c,3,c
+[title]
+Veghează-n zori când ziua abia zâmbeşte
+[sequence]
+1,c,2,c,3,c
 [1]
 Veghează-n zori, când ziua abia zâmbeşte,
 Când totul este iar înviorat

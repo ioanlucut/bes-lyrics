@@ -1,5 +1,7 @@
-[title] Daca Daniel nu avea credinta
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Dacă Daniel nu avea credință
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Dacă Daniel nu avea credință
 Când era în groapa cea cu lei,

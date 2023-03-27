@@ -1,5 +1,7 @@
-[title] Eu sunt un om
-[sequence] 1,c,2,c
+[title]
+Eu sunt un om sunt doar un om
+[sequence]
+1,c,2,c
 [1]
 Eu sunt un om, sunt doar un om.
 Ajută-mi, Te rog,

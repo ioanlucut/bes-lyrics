@@ -1,5 +1,7 @@
-[title] Nu stiu de ce sunt ispite-adesea
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Nu știu de ce sunt ispite-adesea
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Nu știu de ce sunt ispite-adesea
 Și încercări vin în orice zi,

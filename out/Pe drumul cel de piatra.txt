@@ -1,5 +1,7 @@
-[title] Pe drumul cel de piatra
-[sequence] 1,c,2,c,3,t
+[title]
+Pe drumul cel de piatră
+[sequence]
+1,c,2,c,3,t
 [1]
 Pe drumul cel de piatră
 De pe-o colină 'naltă
@@ -11,15 +13,13 @@ Văzându-i nepăsarea, El plângea
 „Ce n-am făcut eu oare pentru tine
 Că să mă crezi că am venit de sus?
 Te-am vindecat și ți-am făcut doar bine
-Dar tu ai refuzat harul adus!"
-
+Dar tu ai refuzat harul adus!”
 [chorus]
 Ierusalime, te-am iubit,
 Ierusalime, la tine am venit!
 /: O, de-ai fi cunoscut tu astăzi
 Vremea cercetării tale
 Și lucrurile care pot să-ți dea salvare :/
-
 [2]
 Pe drumul cel de piatră
 Pe o colină înaltă
@@ -32,7 +32,6 @@ O, lume, unde n-ai văzut în mine
 O stea care din Iacov răsărea
 Lumina care luminează lumea
 Pe-Acel' care vroia să-ți dea viața.
-
 [3]
 Pe drumul vieţii tale,
 Isus trece și astăzi,
@@ -45,7 +44,6 @@ Căci anii petrecuți în lumea aceasta
 Sunt scriși acolo sus în cartea Sa
 Dacă-ai umblat în căile dreptății
 Isus te va chema în slava Sa.
-
 [chorus 2]
 Ierusalime, tu eşti iubit,
 Ierusalime, la tine am venit!

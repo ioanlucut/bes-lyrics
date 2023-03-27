@@ -1,5 +1,7 @@
-[title] Sunt un mesager ratacitor
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Sunt un mesager al Domnului prin lume
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Sunt un mesager al Domnului prin lume,
 Sunt un călător spre patria de sus.

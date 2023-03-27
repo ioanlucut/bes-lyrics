@@ -1,5 +1,7 @@
-[title] Tu nu pleci niciodată de la mine
-[sequence] 1,2,3,4,5,6
+[title]
+Tu nu pleci niciodată de la mine
+[sequence]
+1,2,3,4,5,6
 [1]
 Tu nu pleci niciodată de la mine
 Și nici o clipă singur nu mă lași,
@@ -26,7 +28,6 @@ Când valuri vin și vânturi grele bat.
 /: Plutesc pe ape ca un fir de nufăr
 Pe care Tu-l păstrezi mereu curat. :/
 [6]
-
 Îți mulțumesc că ești cu mine-n lume!
 Îți mulţumesc că m-ai iubit mereu!
 /:Îți mulţumesc că Tu mi-ai dat un nume

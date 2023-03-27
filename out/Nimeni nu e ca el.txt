@@ -1,5 +1,7 @@
-[title] Nimeni nu e ca El
-[sequence] c,1,c,2,c,b,c
+[title]
+Suntem din neam de Dumnezeu
+[sequence]
+c,1,c,2,c,b,c
 [1]
 Suntem din neam de Dumnezeu
 Ne-a înfiat și ne-a iertat prin Fiul Său.

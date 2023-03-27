@@ -1,11 +1,12 @@
-[title] Te caut zi de zi în jurul meu
-[sequence] 1,c,2,c
+[title]
+Te caut zi de zi și-n jurul meu
+[sequence]
+1,c,2,c
 [1]
 Te caut zi de zi și-n jurul meu
 Aștept să văd prezența Ta divină
 Și încă nu-nțeleg o Domnul meu
 Că Tu iubești să locuiești în mine.
-
 [chorus]
 /: Un templu sfânt să-mi fie inima
 În care zi de zi să locuiești

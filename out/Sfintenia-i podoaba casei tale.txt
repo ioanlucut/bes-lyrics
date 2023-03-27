@@ -1,5 +1,7 @@
-[title] Sfintenia-i podoaba casei Tale
-[sequence] 1,c,2,c,3,c
+[title]
+Sfințenia-i podoaba casei Tale
+[sequence]
+1,c,2,c,3,c
 [1]
 Sfințenia-i podoaba casei Tale
 Cât vor fi vremurile pe pământ

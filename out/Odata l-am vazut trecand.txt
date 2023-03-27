@@ -1,5 +1,7 @@
-[title] Odata L-am vazut trecand
-[sequence] 1,2,3,4,5,6,7
+[title]
+Odată L-am văzut trecând
+[sequence]
+1,2,3,4,5,6,7
 [1]
 Odată L-am văzut trecând
 Cu turma, pe Păstorul blând,

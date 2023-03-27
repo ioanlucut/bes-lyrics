@@ -1,11 +1,12 @@
-[title] O ce har să știi ca Domnul te iubeste
-[sequence] 1,c,2,c,3,c
+[title]
+O ce har să știi că Domnul te iubește
+[sequence]
+1,c,2,c,3,c
 [1]
 O, ce har să știi că Domnul te iubește,
 O, ce har să știi că ești în brațul Său.
 Chiar când simți că tot în jur se năruiește.
 Tu să ai pace în inima ta mereu.
-
 [chorus]
 /: Să ai pace în mijlocul necazului tău
 Să ai pace că tu ești fiu de Dumnezeu
@@ -17,7 +18,6 @@ O, ce har să știi că Domnul te iubește,
 O, ce har să știi că Lui îi aparții.
 Și să simți în orice zi că-ți dăruiește
 Când treci pin necaz pace și bucurii.
-
 [3]
 O, ce har să știi că Domnul te iubește,
 O, ce har să știi că ești copilul său.

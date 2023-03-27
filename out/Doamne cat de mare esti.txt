@@ -1,5 +1,7 @@
-[title] Doamne cat de mare esti
-[sequence] c,1,c,2,c,3,c
+[title]
+Doamne cât de mare ești
+[sequence]
+c,1,c,2,c,3,c
 [chorus]
 /: Doamne, cât de mare ești
 Doamne, cât de mare ești

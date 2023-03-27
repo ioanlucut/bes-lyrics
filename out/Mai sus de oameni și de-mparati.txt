@@ -1,5 +1,7 @@
-[title] Mai sus de oameni și de-mparati
-[sequence] 1,c
+[title]
+Mai sus de oameni și de-mpărați
+[sequence]
+1,c
 [1]
 Mai sus de oameni și de-mpărați
 Mai sus de toate pe care le-ai creat

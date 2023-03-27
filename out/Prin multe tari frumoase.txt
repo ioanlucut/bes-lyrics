@@ -1,5 +1,7 @@
-[title] Prin multe tari frumoase
-[sequence] 1,2,3,4,5,6
+[title]
+Prin multe țări frumoase în viață am trecut
+[sequence]
+1,2,3,4,5,6
 [1]
 Prin multe țări frumoase în viață am trecut
 Și-atâtea văi și dealuri frumoase am văzut

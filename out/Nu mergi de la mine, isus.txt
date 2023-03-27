@@ -1,5 +1,7 @@
-[title] Nu mergi de la mine, Isus
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Nu mergi de la mine Isus
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 „Nu mergi de la mine, Isus!”
 Strigă inima.

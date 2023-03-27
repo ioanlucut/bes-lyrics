@@ -1,5 +1,7 @@
-[title] Poporasul Meu
-[sequence] 1,2,3,4,5
+[title]
+Poporaşul Meu
+[sequence]
+1,2,3,4,5
 [1]
 /: Poporaşul Meu,
 Poporașul Meu, trezește-te! :/

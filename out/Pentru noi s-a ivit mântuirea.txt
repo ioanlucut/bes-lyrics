@@ -1,5 +1,7 @@
-[title] Pentru noi s-a ivit mântuirea
-[sequence] 1,c,2,c,3,c
+[title]
+Pentru noi s-a ivit mântuirea;
+[sequence]
+1,c,2,c,3,c
 [1]
 Pentru noi s-a ivit mântuirea;
 Pentru noi, Cel de sus a murit;

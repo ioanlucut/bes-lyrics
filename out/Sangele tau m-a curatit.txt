@@ -1,5 +1,7 @@
-[title] Sangele Tau m-a curatit
-[sequence] 1,c,1,c
+[title]
+Sângele Tău m-a curățit
+[sequence]
+1,c,1,c
 [1]
 Sângele Tău m-a curățit
 Sângele Tău m-a mântuit

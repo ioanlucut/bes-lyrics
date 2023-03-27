@@ -1,25 +1,25 @@
-[title] Doamne-mi pari indepartat
-[sequence] 1,p,c,2,p,c
+[title]
+Doamne-mi pari îndepărtat
+[sequence]
+1,p,c,2,p,c
 [1]
 Doamne-mi pari îndepărtat
 Chiar ani lumină sau un mai lung drum
 Deși credința mi-am păstrat
 Mărturisesc acum:
 „Nu mă mai simt ascultat.”
-
 [prechorus]
 Dar nu știu ce să mai spun
 Și nu știu a-nainta
 Însă harul ce-l primesc
 Îmi schimbă inima.
-
 [chorus]
 /: Voi cânta, Te voi lăuda
 Chiar în ceasul cel mai rău
 Prin durere și prin greu
 Voi cânta, Te voi lăuda
 Mâinile le-am ridicat
-Fiindca ești adevărat
+Fiindcă ești adevărat
 Voi cânta... :/
 [2]
 Nu pot să întrezăresc

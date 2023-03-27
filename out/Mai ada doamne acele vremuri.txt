@@ -1,5 +1,7 @@
-[title] Mai ada Doamne acele vremuri
-[sequence] 1,2,3,4
+[title]
+Mai adă Doamne-acele vremuri din trecut
+[sequence]
+1,2,3,4
 [1]
 Mai adă Doamne-acele vremuri din trecut,
 Acele vremi de pocăință

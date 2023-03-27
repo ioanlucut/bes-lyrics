@@ -1,5 +1,7 @@
-[title] Faca-mi-se-ntotdeauna
-[sequence] 1,2,3,4
+[title]
+Facă-mi-se-ntotdeauna
+[sequence]
+1,2,3,4
 [1]
 Facă-mi-se-ntotdeauna,
 După sfântul Tău Cuvânt,

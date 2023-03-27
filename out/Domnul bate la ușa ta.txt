@@ -1,5 +1,7 @@
-[title] Domnul bate la ușa ta
-[sequence] 1,c,2,c,3,c
+[title]
+Domnul bate la ușa ta
+[sequence]
+1,c,2,c,3,c
 [1]
 Domnul bate la ușa ta:
 /: Tu să-I deschizi! :/

@@ -1,5 +1,7 @@
-[title] Peste munte e-un rau ce curge
-[sequence] 1,c,2,c,3,c
+[title]
+Peste munte e-un râu ce curge
+[sequence]
+1,c,2,c,3,c
 [1]
 Peste munte e-un râu ce curge,
 Înviorare revarsă curgând

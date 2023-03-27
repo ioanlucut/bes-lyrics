@@ -1,5 +1,7 @@
-[title] Ce dar maret e Isus Salvatorul
-[sequence] 1,2,3,4,e
+[title]
+Ce dar măreț e Isus Salvatorul
+[sequence]
+1,2,3,4,e
 [1]
 Ce dar măreț e Isus Salvatorul
 E tot ce poate cerul să îmi dea
@@ -10,7 +12,6 @@ Speranța mea e doar în Domnul Isus
 Viața mea-i legată doar de El
 Pot să spun că Isus pace-n dar mi-a adus
 Tot ce sunt, sunt prin harul Său
-
 [2]
 Chiar dacă noaptea-n jurul meu se lasă
 Isus va fi mereu de partea mea
@@ -21,7 +22,6 @@ El e Păstorul bun ce mă păzește
 Chiar de-ar fi să trec prin văi adânci
 Nu mă tem, știu că El nu mă va părăsi
 Tot ce sunt, sunt prin harul Său
-
 [3]
 Eu nu mă tem, destinul meu îl ține
 Știu că-s iertat, El prețul l-a plătit
@@ -32,7 +32,6 @@ El a murit ca eu să am viață
 Azi trăiesc prin har, sunt mântuit
 Pot acum să declar: „Liber sunt în Hristos,
 Tot ce sunt, sunt prin harul Tău”
-
 [4]
 Cu tot ce am Îl voi urma pe Isus
 El mi-a promis că mă va duce-n cer

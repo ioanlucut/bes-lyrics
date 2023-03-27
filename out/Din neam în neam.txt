@@ -1,11 +1,12 @@
-[title] Din neam în neam
-[sequence] 1,c,2,c,3,c
+[title]
+Din neam în neam ești adăpost
+[sequence]
+1,c,2,c,3,c
 [1]
 Din neam în neam ești adăpost
 Celor ce se încred în Tine
 Tu vieții mele scut ai fost
 Când vânturi au bătut în mine.
-
 [chorus]
 Tu ești cetățuia mea
 Tu ești adăpostul meu
@@ -17,7 +18,6 @@ O mie cadă-n preajmă mea
 Şi zeci de mii pot chiar să fie
 Rămân sub ocrotirea Ta
 Din Tine fac nădejde vie.
-
 [3]
 Eu niciodată nu mă tem
 De groaza nopții ce-o să vie

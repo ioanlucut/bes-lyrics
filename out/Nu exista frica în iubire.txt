@@ -1,5 +1,7 @@
-[title] Nu exista frica în iubire
-[sequence] 1,c,2,c,3,c
+[title]
+Nu există frică în iubire
+[sequence]
+1,c,2,c,3,c
 [1]
 Nu există frică în iubire,
 Căci iubirea este Dumnezeu.

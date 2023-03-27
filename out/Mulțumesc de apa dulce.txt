@@ -1,5 +1,7 @@
-[title] Mulțumesc de apa dulce
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+Mulțumesc de apa dulce
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 Mulțumesc de apa dulce
 De izvor, din care beau

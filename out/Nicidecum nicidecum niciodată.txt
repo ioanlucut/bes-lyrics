@@ -1,5 +1,7 @@
-[title] Nicidecum nicidecum niciodată
-[sequence] 1,2,3,4,5
+[title]
+Nicidecum nicidecum niciodată
+[sequence]
+1,2,3,4,5
 [1]
 Nicidecum, nicidecum, niciodată
 Gândul meu altui pas nu-l aștern

@@ -1,5 +1,7 @@
-[title] Vino la apa vietii
-[sequence] 1,c,2,c,3,c
+[title]
+Vino la apa vieții
+[sequence]
+1,c,2,c,3,c
 [1]
 Vino, la apa vieții,
 Setos, ostenit și slab

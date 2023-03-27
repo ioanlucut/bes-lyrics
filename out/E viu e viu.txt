@@ -1,5 +1,7 @@
-[title] E viu e viu
-[sequence] c,1,c,2,c
+[title]
+E viu e viu mormântul Lui e gol
+[sequence]
+c,1,c,2,c
 [chorus]
 E viu, e viu, mormântul Lui e gol
 E viu, e viu, a-nviat Domnul meu!

@@ -1,5 +1,7 @@
-[title] Esti tu gata de plecare
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Ești tu gata de plecare
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Ești tu gata de plecare?
 Da, Domnul meu!

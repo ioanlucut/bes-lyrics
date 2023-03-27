@@ -1,5 +1,7 @@
-[title] Doamne Numele-Ti inalt
-[sequence] 1,c,1,c
+[title]
+Doamne Numele-Ți înalț
+[sequence]
+1,c,1,c
 [1]
 Doamne, Numele-Ți înalț,
 Doamne laudă-Ți cânt Ție,

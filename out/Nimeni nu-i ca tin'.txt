@@ -1,5 +1,7 @@
-[title] Nimeni nu-i ca Tin'
-[sequence] 1,c,1,c,1
+[title]
+Nimeni nu-i ca Tin'
+[sequence]
+1,c,1,c,1
 [1]
 /: Nimeni nu-i ca Tin'
 Nimeni n-a putut viața-mi schimba

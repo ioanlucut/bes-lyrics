@@ -1,5 +1,7 @@
-[title] Sfant ești sfant ești sfant esti
-[sequence] 1,2,3,4
+[title]
+Sfânt ești sfânt ești sfânt ești
+[sequence]
+1,2,3,4
 [1]
 Sfânt ești, sfânt ești, sfânt ești
 Dumnezeu puternic

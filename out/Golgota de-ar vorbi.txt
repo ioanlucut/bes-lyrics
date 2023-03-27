@@ -1,5 +1,7 @@
-[title] Golgota de-ar vorbi
-[sequence] 1,c,2,c
+[title]
+Golgota de-ar vorbi Golgota de-ar vorbi
+[sequence]
+1,c,2,c
 [1]
 Golgota, de-ar vorbi, Golgota, de-ar vorbi
 Ar spune tragedia care-a fost pe ea.

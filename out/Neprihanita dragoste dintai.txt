@@ -1,5 +1,7 @@
-[title] Neprihanita dragoste dintai
-[sequence] 1,2,3,4,5
+[title]
+Neprihănită dragoste dintâi
+[sequence]
+1,2,3,4,5
 [1]
 Neprihănită dragoste dintâi,
 Eu nu pot fără Tine!

@@ -1,5 +1,7 @@
-[title] Am fost cazut în păcat și far'delege
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Am fost căzut în păcat și făr'delege
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Am fost căzut în păcat și făr'delege
 Căzut, înfășurat în groapa de păcat

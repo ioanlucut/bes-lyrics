@@ -1,5 +1,7 @@
-[title] Doar harul Tau Isus m-ai cuprins din necuprins
-[sequence] 1,c,2,3,4
+[title]
+Doar harul Tău m-a mântuit
+[sequence]
+1,c,2,3,4
 [1]
 Doar harul Tău m-a mântuit
 Am fost pierdut dar m-a găsit
@@ -17,7 +19,6 @@ Cu dragoste m-a ridicat
 Mi-a dat vedere, m-a vindecat.
 Mântuire, vindecare prin Isus
 In numele lui Isus – Iertare
-
 [3]
 Isus, m-ai cuprins din necuprins
 Isus, viață-n mine ai aprins

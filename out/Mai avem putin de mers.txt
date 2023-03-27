@@ -1,5 +1,7 @@
-[title] Mai avem putin de mers
-[sequence] 1,2,3,4
+[title]
+Mai avem puțin de mers
+[sequence]
+1,2,3,4
 [1]
 Mai avem puțin de mers,
 Pân' la ținta mult dorită.

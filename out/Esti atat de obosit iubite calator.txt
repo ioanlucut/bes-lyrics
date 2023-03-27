@@ -1,5 +1,7 @@
-[title] Esti atat de obosit iubite calator
-[sequence] 1,2,3
+[title]
+Eşti atât de obosit iubite călător
+[sequence]
+1,2,3
 [1]
 Eşti atât de obosit, iubite călător,
 Ai umblat pe căi murdare, fiu rătăcitor.

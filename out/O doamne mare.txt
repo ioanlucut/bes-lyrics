@@ -1,5 +1,7 @@
-[title] O Doamne mare
-[sequence] 1,c,2,c,3,c,4,c,5,c,6,c
+[title]
+O Doamne mare când privesc eu lumea
+[sequence]
+1,c,2,c,3,c,4,c,5,c,6,c
 [1]
 O, Doamne mare, când privesc eu lumea,
 Ce ai creat-o prin al Tău Cuvânt,
@@ -9,7 +11,7 @@ Cum le-ntreții cu brațul Tău cel sfânt,
 /: Atunci Îți cânt,
 Măreț Stăpânitor:
 „Ce mare ești!
-Ce mare ești!" :/
+Ce mare ești!” :/
 [2]
 Privirea când mi-o-nalț și văd minunea,
 Mulțimea astrelor ce-alerg pe cer,

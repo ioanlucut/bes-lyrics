@@ -1,5 +1,7 @@
-[title] Calea adevarul viata
-[sequence] 1,c,2,c
+[title]
+Calea adevărul viața
+[sequence]
+1,c,2,c
 [1]
 Calea, adevărul, viața
 E Isus Hristos cel Sfânt

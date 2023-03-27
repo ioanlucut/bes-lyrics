@@ -1,5 +1,7 @@
-[title] Ce minunat e Dumnezeu
-[sequence] 1,2,3,4
+[title]
+Ce minunat e Dumnezeu
+[sequence]
+1,2,3,4
 [1]
 Ce minunat e Dumnezeu!
 /: El toate le-a creat cu măiestrie

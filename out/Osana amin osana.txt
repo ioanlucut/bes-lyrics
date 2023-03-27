@@ -1,5 +1,7 @@
-[title] Osana Amin Osana
-[sequence] c,1,c,2,c,3,c,4,c
+[title]
+Osana Amin Osana
+[sequence]
+c,1,c,2,c,3,c,4,c
 [chorus]
 /: Osana, Amin, Osana,
 O Aleluia, Maranata! :/

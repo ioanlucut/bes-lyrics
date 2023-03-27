@@ -1,5 +1,7 @@
-[title] Vreau lângă Dumnezeu
-[sequence] 1,2,3,4,5
+[title]
+Vreau lângă Dumnezeu să fiu mereu
+[sequence]
+1,2,3,4,5
 [1]
 Vreau, lângă Dumnezeu, să fiu mereu,
 Oricât ar fi de greu, necazul meu.

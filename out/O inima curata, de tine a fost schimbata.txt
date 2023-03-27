@@ -1,5 +1,7 @@
-[title] O inima curata, de Tine a fost schimbata
-[sequence] c,1,c,2,c,3,c
+[title]
+O inimă curată de Tine a fost schimbată
+[sequence]
+c,1,c,2,c,3,c
 [1]
 O inimă curată, de Tine a fost schimbată
 M-ai curățit Isuse de păcat

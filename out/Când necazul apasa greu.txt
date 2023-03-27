@@ -1,5 +1,7 @@
-[title] Când necazul apasa greu
-[sequence] 1,c,2,c
+[title]
+Când necazul apasă greu în viața mea
+[sequence]
+1,c,2,c
 [1]
 Când necazul apasă greu în viața mea
 Și lacrimi fără număr cad în urma mea,

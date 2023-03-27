@@ -1,5 +1,7 @@
-[title] Te-adoram în fericire
-[sequence] 1,2,3
+[title]
+Te-adorăm în fericire
+[sequence]
+1,2,3
 [1]
 Te-adorăm, în fericire,
 Domn al gloriei cerești,

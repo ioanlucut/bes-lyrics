@@ -1,15 +1,15 @@
-[title] Sfant esti, sfant ești Domnul meu
-[sequence] 1,p,c
+[title]
+Sfânt ești sfânt ești Domnul meu
+[sequence]
+1,p,c
 [1]
 Sfânt ești, sfânt ești Domnul meu
 Pământul e plin de slava Ta
 Numele Tău e-nălțat
 Pe-ntregul pământ ești Domn
-
 [prechorus]
 Luminezi viața mea
 Și prin Tine strălucesc
-
 [chorus]
 Cerul cântă laude
 Minunat e Domnul!

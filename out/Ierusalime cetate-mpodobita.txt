@@ -1,5 +1,7 @@
-[title] Ierusalime cetate-mpodobita
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Ierusalime cetate-mpodobită
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Ierusalime, cetate-mpodobită
 Cu străzi de aur, argint și cristal,

@@ -1,5 +1,7 @@
-[title] Spune-mi istoria lui Isus
-[sequence] 1,c,2,t,3,e
+[title]
+Spune-mi istoria lui Isus
+[sequence]
+1,c,2,t,3,e
 [1]
 Spune-mi istoria lui Isus
 Scrie-o pe inima mea,

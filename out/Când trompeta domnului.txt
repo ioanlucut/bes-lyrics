@@ -1,5 +1,7 @@
-[title] Când trompeta Domnului
-[sequence] 1,c,2,c
+[title]
+Când trompeta Domnului
+[sequence]
+1,c,2,c
 [1]
 Când trompeta Domnului
 Va anunța venirea Sa
@@ -7,7 +9,6 @@ Când frumoasa dimineață va veni
 Și când cei răscumpărați
 L-acel liman s-or aduna
 Aleluia, căci și noi acol' vom fi!
-
 [chorus]
 /: Când ne va citi nume
 Când ne va citi nume

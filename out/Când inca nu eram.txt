@@ -1,5 +1,7 @@
-[title] Când inca nu eram
-[sequence] 1,c,2,c,3,c
+[title]
+Când încă nu eram Te-ai gândit la mine
+[sequence]
+1,c,2,c,3,c
 [1]
 Când încă nu eram, Te-ai gândit la mine
 Când nici nu existam, Isus, mă cunoșteai

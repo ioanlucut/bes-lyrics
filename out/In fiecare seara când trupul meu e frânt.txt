@@ -1,5 +1,7 @@
-[title] In fiecare seara când trupul meu e frânt
-[sequence] 1,c,2,c
+[title]
+În fiecare seară
+[sequence]
+1,c,2,c
 [1]
 În fiecare seară
 Când trupul meu e frânt,

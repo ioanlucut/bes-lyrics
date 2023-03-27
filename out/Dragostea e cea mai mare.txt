@@ -1,5 +1,7 @@
-[title] Dragostea e cea mai mare
-[sequence] 1,2,3,4
+[title]
+Dragostea e cea mai mare
+[sequence]
+1,2,3,4
 [1]
 Dragostea e cea mai mare,
 Dintre daruri pe pământ

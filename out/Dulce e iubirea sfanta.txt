@@ -1,5 +1,7 @@
-[title] Dulce e iubirea sfanta
-[sequence] 1,c,2,c,3,t
+[title]
+Dulce e iubirea sfântă
+[sequence]
+1,c,2,c,3,t
 [1]
 Dulce e iubirea sfântă
 Și Cuvântul e sublim!

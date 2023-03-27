@@ -1,5 +1,7 @@
-[title] Ce-ar fi faptura-mi fără Tine
-[sequence] 1,2,3,4
+[title]
+Ce-ar fi făptura-mi fără Tine
+[sequence]
+1,2,3,4
 [1]
 Ce-ar fi făptura-mi fără Tine,
 Mântuitorule iubit?

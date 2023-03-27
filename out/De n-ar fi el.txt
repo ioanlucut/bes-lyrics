@@ -1,5 +1,7 @@
-[title] De n-ar fi El
-[sequence] 1,c,2
+[title]
+De n-ar fi El aș fi singur
+[sequence]
+1,c,2
 [1]
 De n-ar fi El, aș fi singur,
 Pierdut aș fi fără El!

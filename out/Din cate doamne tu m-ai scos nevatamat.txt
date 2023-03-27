@@ -1,5 +1,7 @@
-[title] Din cate Doamne Tu m-ai scos nevatamat
-[sequence] 1,c,2,c
+[title]
+Din câte Doamne Tu m-ai scos nevătămat
+[sequence]
+1,c,2,c
 [1]
 /: Din câte Doamne, Tu m-ai scos nevătămat,
 Din gheara morții, din primejdii m-ai scăpat,

@@ -1,5 +1,7 @@
-[title] Cel ce sta sub ocrotirea Celui Prea-nalt
-[sequence] 1,c,2,c
+[title]
+Cel ce stă sub ocrotirea Celui Prea-nalt
+[sequence]
+1,c,2,c
 [1]
 Cel ce stă sub ocrotirea Celui Prea-nalt
 La umbra Celui Atotputernic

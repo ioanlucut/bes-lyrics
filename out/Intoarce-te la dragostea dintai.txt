@@ -1,5 +1,7 @@
-[title] Intoarce-te la dragostea dintai
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Întoarce-te la dragostea dintâi
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Întoarce-te la dragostea dintâi,
 Întoarce-te, o, până când amâi?

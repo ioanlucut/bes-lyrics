@@ -1,5 +1,7 @@
-[title] Daca doua maini rebele
-[sequence] 1,2,3,4
+[title]
+Dacă două mâini rebele
+[sequence]
+1,2,3,4
 [1]
 Dacă două mâini rebele
 Nu te-ar ține orb, mereu,

@@ -1,5 +1,7 @@
-[title] Rasune a noastră cantare
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Răsune a noastră cântare
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Răsune a noastră cântare,
 Un imn de adânci mulţumiri

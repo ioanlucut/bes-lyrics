@@ -1,11 +1,12 @@
-[title] Nori negri de-ar veni
-[sequence] 1,c,2,c,3,c
+[title]
+Nori negri de-ar veni valuri mari de-ar lovi
+[sequence]
+1,c,2,c,3,c
 [1]
 Nori negri de-ar veni, valuri mari de-ar lovi,
 Știu că nu mă vor clinti.
 Mulți mă vor întreba, de unde-i puterea ta,
 Eu le voi spune așa:
-
 [chorus]
 /: El e Stânca mea, El e pacea mea,
 El e ocrotirea, eu nu mă tem!
@@ -17,7 +18,6 @@ Singur și-mpresurat, slab și abandonat,
 Par eu pe barcă în larg.
 Cel rău s-ar bucura, dacă m-aș scufunda,
 Eu îi voi spune așa:
-
 [3]
 Nu, nu mă-ngrijorez, ci spre liman vâslesc,
 Până la capăt sosesc.

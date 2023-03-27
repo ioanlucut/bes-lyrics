@@ -1,5 +1,7 @@
-[title] Isus viata noastră
-[sequence] 1,c,2,c,3,c
+[title]
+Isus viața noastră noi pe Tine Te mărim
+[sequence]
+1,c,2,c,3,c
 [1]
 Isus, viața noastră, noi pe Tine Te mărim
 Căci prin jertfirea Ta pe cruce noi voioși trăim

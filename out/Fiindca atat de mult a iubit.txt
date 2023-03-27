@@ -1,5 +1,7 @@
-[title] Fiindca atat de mult a iubit
-[sequence] c,1,c,2,c,3,c
+[title]
+Fiindcă atât de mult a iubit Dumnezeu lumea
+[sequence]
+c,1,c,2,c,3,c
 [chorus]
 Fiindcă atât de mult a iubit Dumnezeu lumea
 Că a dat pe singurul Lui Fiu
@@ -10,13 +12,11 @@ Mă-ncredințez în brațul Domnului
 Nădăjduiesc să fiu pe veci al Lui
 În inimă eu L-am primit pe El
 Și viața mea îi aparține Lui.
-
 [2]
 Știu, Domnul meu El e-ngăduitor
 Știu, Domnul meu, El este răbdător
 Știu, Domnul meu, El este prietenos
 Binevoitor, El e nespus de bun.
-
 [3]
 Acum este momentul potrivit
 Întoarceți-vă ca să fiți primiți

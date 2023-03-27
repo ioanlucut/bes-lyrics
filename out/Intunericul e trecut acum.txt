@@ -1,5 +1,7 @@
-[title] Intunericul e trecut acum
-[sequence] 1,c,2,c,3,c,4,c,5,c,6,c,7,c
+[title]
+Întunericul e trecut acum
+[sequence]
+1,c,2,c,3,c,4,c,5,c,6,c,7,c
 [1]
 Întunericul e trecut acum,
 Zorii zilei se ivesc,

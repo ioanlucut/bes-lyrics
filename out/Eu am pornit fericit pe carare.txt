@@ -1,5 +1,7 @@
-[title] Eu am pornit fericit pe carare
-[sequence] 1,c,2,c,3,c
+[title]
+Eu am pornit fericit pe cărare
+[sequence]
+1,c,2,c,3,c
 [1]
 Eu am pornit fericit pe cărare
 Cu Isus bunul meu Salvator

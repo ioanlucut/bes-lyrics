@@ -1,5 +1,7 @@
-[title] Nu va-ngrijorati de viata voastra
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Nu vă-ngrijorați de viața voastră
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Nu vă-ngrijorați de viața voastră,
 Căci de grijă Domnul va purta,

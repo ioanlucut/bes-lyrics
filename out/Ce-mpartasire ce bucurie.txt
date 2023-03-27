@@ -1,5 +1,7 @@
-[title] Ce-mpartasire ce bucurie
-[sequence] 1,c,2,c,3,c
+[title]
+Ce-mpărtășire ce bucurie
+[sequence]
+1,c,2,c,3,c
 [1]
 Ce-mpărtășire, ce bucurie,!
 Când mă las pe brațul Domnului,

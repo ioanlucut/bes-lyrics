@@ -1,5 +1,7 @@
-[title] Aceasta mi-e dorinta
-[sequence] 1,c,2,c
+[title]
+Aceasta mi-e dorința să Te onorez
+[sequence]
+1,c,2,c
 [1]
 Aceasta mi-e dorința, să Te onorez,
 Cu ființa-ntreagă să Te slăvesc.

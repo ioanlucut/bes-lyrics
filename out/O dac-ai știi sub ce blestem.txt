@@ -1,11 +1,12 @@
-[title] O dac-ai știi sub ce blestem
-[sequence] 1,c,2,c
+[title]
+O dac-ai știi sub ce blestem am fost și eu cândva
+[sequence]
+1,c,2,c
 [1]
 O, dac-ai știi sub ce blestem am fost și eu cândva,
 O, de-ai simți ce deznădejdi muncit-au ființa mea,
 Te-ai întreba ce sfânt mister viața mi-a schimbat
 Făcând din tristul condamnat un păcătos iertat.
-
 [chorus]
 /: Sunt păcătosul salvat prin har
 Eliberat prin jertfa de pe Calvar

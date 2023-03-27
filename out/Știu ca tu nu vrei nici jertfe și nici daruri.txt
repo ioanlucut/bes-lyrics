@@ -1,5 +1,7 @@
-[title] Știu ca tu nu vrei nici jertfe și nici daruri
-[sequence] 1,c,2,c
+[title]
+Știu că Tu nu vrei nici jertfe și nici daruri
+[sequence]
+1,c,2,c
 [1]
 Știu că Tu nu vrei nici jertfe și nici daruri
 Știu că Tu privești doar la inima mea
@@ -10,7 +12,6 @@ Aș dori ca viața mea să fie
 Pusă-n slujba Ta prin tot ce fac
 Să ascult chemarea Ta divină
 Să urmez în totul voia Ta.
-
 [chorus]
 /: Sunt aici, stau la dispoziția Ta
 Sunt aici, dorind să fac doar voia Ta

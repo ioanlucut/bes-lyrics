@@ -1,5 +1,7 @@
-[title] Ai ajuns în necaz și nevoi
-[sequence] 1,c,2,c,3,c
+[title]
+Ai ajuns în necaz și nevoi strâmtorat
+[sequence]
+1,c,2,c,3,c
 [1]
 Ai ajuns în necaz și nevoi strâmtorat,
 Ostenit și pribeag, alungat;

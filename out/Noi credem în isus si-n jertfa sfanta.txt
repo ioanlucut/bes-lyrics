@@ -1,5 +1,7 @@
-[title] Noi credem în Isus si-n jertfa sfanta
-[sequence] 1,c,2,c,3,c
+[title]
+Noi credem în Isus și-n jertfa sfântă
+[sequence]
+1,c,2,c,3,c
 [1]
 Noi credem în Isus și-n jertfa sfântă,
 În mântuirea dată de Hristos,

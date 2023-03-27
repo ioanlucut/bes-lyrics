@@ -1,5 +1,7 @@
-[title] In lumina iubirii Tale
-[sequence] 1,c,2,c,3,c
+[title]
+În lumina iubirii Tale
+[sequence]
+1,c,2,c,3,c
 [1]
 În lumina iubirii Tale,
 Întunericul va dispare,

@@ -1,5 +1,7 @@
-[title] Inteleptii lumii ma inconjoara
-[sequence] 1,c,2,t,3,e
+[title]
+Înțelepții lumii mă înconjoară
+[sequence]
+1,c,2,t,3,e
 [1]
 Înțelepții lumii mă înconjoară
 Și mă-ntreabă: „Cine-i Isus?”

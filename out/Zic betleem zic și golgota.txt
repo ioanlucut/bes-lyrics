@@ -1,11 +1,12 @@
-[title] Zic Betleem zic și Golgota
-[sequence] 1,c,2,c,3,c
+[title]
+Zic Betleem zic şi Golgota
+[sequence]
+1,c,2,c,3,c
 [1]
 Zic Betleem, zic şi Golgota,
 Zic Ghețimani și mă-nfior,
 Când zic Isus inima-mi plânge
 Și rănile parcă mă dor.
-
 [chorus]
 Pentru mine, pentru tine a răbdat,
 Pentru mine, pentru tine a plâns,
@@ -16,7 +17,6 @@ De merg la iesle sau la cruce
 E-un drum cu lacrimi presărat,
 Mă plec adânc cu umilință
 Spre locul unde m-ai salvat.
-
 [3]
 Tu ai venit de bună voie
 Să mă răscumperi din păcat,

@@ -1,5 +1,7 @@
-[title] Din adancul inimii
-[sequence] 1,c
+[title]
+Din adâncul inimii
+[sequence]
+1,c
 [1]
 Din adâncul inimii
 Pe Isus vreau a-L vesti

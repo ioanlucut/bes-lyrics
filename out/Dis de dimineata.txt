@@ -1,5 +1,7 @@
-[title] Dis de dimineata
-[sequence] 1,c,2,c
+[title]
+Dis de dimineață Doamne îmi înalț
+[sequence]
+1,c,2,c
 [1]
 Dis de dimineață Doamne îmi înalț
 Inima spre Tine și aștept

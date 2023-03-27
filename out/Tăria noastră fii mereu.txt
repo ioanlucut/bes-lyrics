@@ -1,5 +1,7 @@
-[title] Tăria noastră fii mereu
-[sequence] 1,2,3,4,5
+[title]
+Tăria noastră fii mereu
+[sequence]
+1,2,3,4,5
 [1]
 Tăria noastră fii mereu,
 Să trecem astăzi drumul greu!

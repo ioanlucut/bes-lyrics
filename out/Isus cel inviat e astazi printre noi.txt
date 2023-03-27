@@ -1,5 +1,7 @@
-[title] Isus cel inviat e astazi printre noi
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Isus cel înviat e astăzi printre noi3x
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 /: Isus cel înviat e astăzi printre noi :/ 3x
 Isus e astăzi printre noi.

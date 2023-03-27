@@ -1,5 +1,7 @@
-[title] Daca-ți spune cineva
-[sequence] 1,2,3,4
+[title]
+Dacă-ți spune cineva
+[sequence]
+1,2,3,4
 [1]
 Dacă-ți spune cineva
 Că ești steaua căzătoare din amurg,

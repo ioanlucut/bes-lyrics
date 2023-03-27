@@ -1,5 +1,7 @@
-[title] Cu Isus vreau să-mi continui calea
-[sequence] 1,c,2,c,3,c
+[title]
+Cu Isus vreau să-mi continui calea
+[sequence]
+1,c,2,c,3,c
 [1]
 Cu Isus vreau să-mi continui calea
 El să-mi fie-n veci nedespărțit

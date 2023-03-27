@@ -1,5 +1,7 @@
-[title] Pe un deal, departe sta o cruce veche
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Pe un deal departe stă o cruce veche
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Pe un deal, departe stă o cruce veche
 Ca un semn al suferințelor

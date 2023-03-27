@@ -1,5 +1,7 @@
-[title] Crucea-i ascultarea
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Crucea-i ascultarea Domnului Isus
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Crucea-i ascultarea Domnului Isus,
 Cea mai 'naltă jertfă care s-a adus

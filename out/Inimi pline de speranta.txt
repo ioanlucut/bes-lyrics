@@ -1,5 +1,7 @@
-[title] Inimi pline de speranta
-[sequence] 1,c,2,c,3,c
+[title]
+Inimi pline de speranță mântuire siguranță
+[sequence]
+1,c,2,c,3,c
 [1]
 Inimi pline de speranță, mântuire, siguranță
 Iată vestea: S-a născut Isus!

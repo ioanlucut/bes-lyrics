@@ -1,5 +1,7 @@
-[title] Doamne fa al meu cuvant
-[sequence] 1,c,2,c,3,c,4,c,5
+[title]
+Doamne fă al meu cuvânt
+[sequence]
+1,c,2,c,3,c,4,c,5
 [1]
 Doamne, fă al meu cuvânt
 Și al minții mele gând

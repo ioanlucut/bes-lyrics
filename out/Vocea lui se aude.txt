@@ -1,5 +1,7 @@
-[title] Vocea Lui se aude
-[sequence] c,1,c,2,c
+[title]
+Să-ntâlnesc pe Domnul meu când am nevoie
+[sequence]
+c,1,c,2,c
 [1]
 Să-ntâlnesc pe Domnul meu când am nevoie,
 Pe genunchi în rugăciune-L voi căuta,

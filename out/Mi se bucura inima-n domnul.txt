@@ -1,5 +1,7 @@
-[title] Mi se bucura inima-n Domnul
-[sequence] 1,c,2,c,3,c
+[title]
+Mi se bucură inima-n Domnul
+[sequence]
+1,c,2,c,3,c
 [1]
 Mi se bucură inima-n Domnul,
 Căci puterea mea El a-nălțat

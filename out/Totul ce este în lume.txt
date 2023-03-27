@@ -1,5 +1,7 @@
-[title] Totul ce este în lume
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+Totul ce este în lume
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 Totul ce este în lume
 Este un vis trecător

@@ -1,5 +1,7 @@
-[title] Caci Domnul nu voieste moartea pacatosului
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+Căci Domnul nu voiește moartea păcătosului
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 Căci Domnul nu voiește moartea păcătosului
 Ci vrea să se întoarcă din calea lui cea rea,

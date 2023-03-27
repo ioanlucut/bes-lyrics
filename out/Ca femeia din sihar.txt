@@ -1,11 +1,12 @@
-[title] Ca femeia din Sihar
-[sequence] 1,c,2,c,3,c
+[title]
+Ca femeia din Sihar la fântână
+[sequence]
+1,c,2,c,3,c
 [1]
 Ca femeia din Sihar la fântână,
 Venit-am apă ca să scot,
 Dar vocea lui Isus răsună:
 „Din apa vieţii ca să-ți dau, Eu pot!”
-
 [chorus]
 /: Dă-mi, Isuse, apa vie,
 Stâmpără-mi Tu sufletul arzând,
@@ -16,7 +17,6 @@ Unde-i, Doamne, locul sfânt de-nchinare,
 În văi umbrite sau la munți?
 O, nu! Ci-n suflete smerite
 Și-n jertfa unei aplecate frunți.
-
 [3]
 Prieten drag care cauți fericirea,
 Izvorul e-n Domnul sfânt,

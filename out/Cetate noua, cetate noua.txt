@@ -1,5 +1,7 @@
-[title] Cetate noua, cetate noua
-[sequence] 1,2,3,4
+[title]
+Cetate nouă cetate nouă
+[sequence]
+1,2,3,4
 [1]
 Cetate nouă, cetate nouă
 Al cărei meșter ziditor este Hristos.

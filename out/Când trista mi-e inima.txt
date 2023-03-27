@@ -1,5 +1,7 @@
-[title] Când trista mi-e inima
-[sequence] 1,c,2,c
+[title]
+Când tristă mi-e inima
+[sequence]
+1,c,2,c
 [1]
 Când tristă mi-e inima,
 Tu-ți arăți dragostea
@@ -10,7 +12,6 @@ Când nu văd drumul meu,
 Sprijin mi-e brațul Tău
 /: Și deschizi ochii mei
 Să-nțeleg ce-ai făcut. :/
-
 [chorus]
 Mări se despart, neamuri vin,
 La chemarea Ta Isus.

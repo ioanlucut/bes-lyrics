@@ -1,7 +1,9 @@
-[title] Când nu mai poti tu
-[sequence] c,1,c,2,c,3,c
+[title]
+Când nu mai poți tu poate El
+[sequence]
+c,1,c,2,c,3,c
 [chorus]
- /: Când nu mai poți tu, poate El
+/: Când nu mai poți tu, poate El
 Poate El, poate El
 Când nu mai poți tu, poate El
 Poate El, Dumnezeu :/
@@ -10,13 +12,11 @@ Când crezi că nu mai poți și ești descurajat
 Putere nu mai ai și ești îngrijorat
 Ridică-ți ochii-n sus și cheamă-L pe Isus
 Căci dacă nu mai poți tu, poate El.
-
 [2]
 Tu trebuie să crezi, să crezi în Dumnezeu
 Tu trebuie să-L vezi în ajutorul tău
 Dacă Îl vei chema, nu te va refuza
 Căci dacă nu mai poți tu, poate El.
-
 [3]
 Tu nu descuraja și înapoi nu da
 de mergi pe calea Sa, El e de partea ta

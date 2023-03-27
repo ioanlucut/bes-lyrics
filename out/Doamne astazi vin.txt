@@ -1,5 +1,7 @@
-[title] Doamne astazi vin
-[sequence] 1,c,2,c
+[title]
+Doamne astăzi vin
+[sequence]
+1,c,2,c
 [1]
 Doamne astăzi vin
 În fața Ta să mă închin

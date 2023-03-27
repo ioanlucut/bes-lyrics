@@ -1,5 +1,7 @@
-[title] Ne-om vedea în dimineata
-[sequence] 1,c,2,c,3,c
+[title]
+Ne-om vedea în dimineața
+[sequence]
+1,c,2,c,3,c
 [1]
 Ne-om vedea în dimineața
 Când Mirele va sosi.

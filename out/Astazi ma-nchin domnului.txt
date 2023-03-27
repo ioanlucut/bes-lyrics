@@ -1,5 +1,7 @@
-[title] Astazi ma-nchin Domnului
-[sequence] c,1,c,2,c
+[title]
+Astăzi mă-nchin Domnului
+[sequence]
+c,1,c,2,c
 [chorus]
 Astăzi mă-nchin Domnului
 Și-I cânt slavă căci El
@@ -17,7 +19,6 @@ A fost o zi deosebită,
 Abia acum am înțeles
 Căci Isus mult m-a iubit
 Și prin moartea Sa pe cruce m-a ales.
-
 [2]
 Încercări mereu vin, valuri
 Dar le birui prin Isus

@@ -1,5 +1,7 @@
-[title] Eu n-am să te las ca să pieri
-[sequence] 1,2,3,4
+[title]
+Eu n-am să te las ca să pieri
+[sequence]
+1,2,3,4
 [1]
 Eu n-am să te las ca să pieri,
 Când treci prin necazul cel greu,
@@ -10,7 +12,6 @@ Atunci când mă chemi în dureri,
 Când nori de necaz vor veni,
 Atunci, Eu te voi ajuta
 Iar tu-n cânt Mă vei proslăvi. :/
-
 [2]
 Când ziua s-a dus, e târziu
 Și singur în noapte rămâi,
@@ -21,7 +22,6 @@ Când ziua s-a dus, e târziu
 Și-o scară la cer, voi ’nălţa,
 În noapte, sub cerul senin,
 Cu tine de vorbă voi sta. :/
-
 [3]
 Te simți de furtuni clătinat,
 Și valul te-mpinge spre stânci,
@@ -32,7 +32,6 @@ Un vuiet de ape adânci.
 Când valul lovește cumplit,
 Cu Mine pe stâncă vei sta,
 Furtuna privind liniștit. :/
-
 [4]
 Eu Sunt Cel ce Sunt, Dumnezeu
 Și-aud când Mă strigi din necaz,

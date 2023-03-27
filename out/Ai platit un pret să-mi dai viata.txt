@@ -1,5 +1,7 @@
-[title] Ai platit un pret să-mi dai viata
-[sequence] 1,c,2,c,e
+[title]
+Ai plătit un preț să-mi dai viață
+[sequence]
+1,c,2,c,e
 [1]
 Ai plătit un preț să-mi dai viață
 Să trăiesc prin har azi mântuit.
@@ -10,7 +12,6 @@ Numele mi-e scris în Cartea Vieții
 Și Te rog, Isus, cu orice preț
 Să rămân statornic în credință
 Să te laud și să Te slăvesc.
-
 [chorus]
 /: Voia Ta nu voia mea
 Să se facă Doamne-n viața mea
@@ -21,7 +22,6 @@ Toată roada Duhului Tău Sfânt
 Zi de zi s-o am pe-acest pământ
 Lumină să răspândesc mereu
 În jurul meu. :/
-
 [2]
 Pacea Ta ce-ntrece orice lucru
 Cunoştinţa-ntregului pământ
@@ -32,7 +32,6 @@ Numele mi-e scris în Cartea Vieții
 Și Te rog, Isus, cu orice preț
 Să rămân statornic în credință
 Să te laud și să Te slăvesc.
-
 [ending]
 Lumină să răspândesc mereu
 În jurul meu.

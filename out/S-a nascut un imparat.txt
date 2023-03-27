@@ -1,5 +1,7 @@
-[title] S-a nascut un Imparat
-[sequence] 1,c,2,c,3,c
+[title]
+S-a născut un Împărat
+[sequence]
+1,c,2,c,3,c
 [1]
 S-a născut un Împărat
 Domn al păcii minunat

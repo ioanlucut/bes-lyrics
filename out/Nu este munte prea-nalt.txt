@@ -1,5 +1,7 @@
-[title] Nu este munte prea-nalt
-[sequence] 1,c,1,c
+[title]
+Nu este munte prea-nalt ca să nu-l miște
+[sequence]
+1,c,1,c
 [1]
 Nu este munte prea-nalt ca să nu-l miște
 Nu e problemă prea grea să n-o rezolve

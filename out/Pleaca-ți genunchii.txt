@@ -1,5 +1,7 @@
-[title] Pleaca-ți genunchii
-[sequence] 1,c,2,c
+[title]
+Pleacă-ți genunchii Isus e-aici
+[sequence]
+1,c,2,c
 [1]
 Pleacă-ți genunchii, Isus e-aici
 Ridică mâini curate spre cer

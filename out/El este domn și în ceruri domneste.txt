@@ -1,5 +1,7 @@
-[title] El este Domn și în ceruri domneste
-[sequence] 1,c,2,t
+[title]
+El este Domn și din ceruri domneste
+[sequence]
+1,c,2,t
 [1]
 El este Domn și din ceruri domneste
 El este Domn!

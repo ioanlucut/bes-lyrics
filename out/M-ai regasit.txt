@@ -1,5 +1,7 @@
-[title] M-ai regasit
-[sequence] 1,c,2,c,3,c
+[title]
+M-ai regăsit când eu pierdut în mine
+[sequence]
+1,c,2,c,3,c
 [1]
 M-ai regăsit când eu pierdut în mine
 Mă răstigneam pe-altarele de lut

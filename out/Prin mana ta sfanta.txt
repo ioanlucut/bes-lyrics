@@ -1,5 +1,7 @@
-[title] Prin mana Ta sfanta
-[sequence] 1,2,3,4,5,6
+[title]
+Prin mâna Ta sfântă primim ocrotirea
+[sequence]
+1,2,3,4,5,6
 [1]
 Prin mâna Ta sfântă primim ocrotirea,
 Din orice-ncercare Tu ne izbăvești

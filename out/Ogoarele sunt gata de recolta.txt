@@ -1,5 +1,7 @@
-[title] Ogoarele sunt gata de recolta
-[sequence] 1,c,2,c,3,c
+[title]
+Ogoarele sunt gata de recoltă
+[sequence]
+1,c,2,c,3,c
 [1]
 Ogoarele sunt gata de recoltă,
 Iar lucrătorii sunt așa puțini

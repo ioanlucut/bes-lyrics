@@ -1,5 +1,7 @@
-[title] Pe crucea din dealul iubirii
-[sequence] 1,c,2,t,3,e
+[title]
+Pe crucea din dealul iubirii
+[sequence]
+1,c,2,t,3,e
 [1]
 Pe crucea din dealul iubirii,
 Pe culmea lipsită de flori,

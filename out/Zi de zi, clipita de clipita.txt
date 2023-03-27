@@ -1,5 +1,7 @@
-[title] Zi de zi, clipita de clipita
-[sequence] 1,c,2,c,3,c
+[title]
+Zi de zi clipită de clipită
+[sequence]
+1,c,2,c,3,c
 [1]
 Zi de zi, clipită de clipită,
 Eu primesc sfinte puteri de sus,

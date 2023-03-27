@@ -1,5 +1,7 @@
-[title] In zbuciumul vietii
-[sequence] 1,c,2,c,3,e
+[title]
+În zbuciumul vieții
+[sequence]
+1,c,2,c,3,e
 [1]
 În zbuciumul vieții
 Odihnă cine-mi dă?

@@ -1,5 +1,7 @@
-[title] Suntem duși și clătinati
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Suntem duși și clătinați
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Suntem duși și clătinați,
 Zbuciumați pe-al mării chin,

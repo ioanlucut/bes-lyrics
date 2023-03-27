@@ -1,5 +1,7 @@
-[title] Daca-ntr-o tainica vreme
-[sequence] 1,2,3,4
+[title]
+Dacă-ntr-o tainică vreme
+[sequence]
+1,2,3,4
 [1]
 Dacă-ntr-o tainică vreme
 Din lut Cineva mă făcu

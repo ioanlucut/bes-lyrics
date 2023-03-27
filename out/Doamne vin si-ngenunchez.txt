@@ -1,7 +1,9 @@
-[title] Doamne vin si-ngenunchez
-[sequence] 1,c,2,c,b,c
+[title]
+Doamne vin și-ngenunchez
+[sequence]
+1,c,2,c,b,c
 [1]
- Doamne vin și-ngenunchez,
+Doamne vin și-ngenunchez,
 Ție îți mărturisesc
 Fără Tine, aș cădea,
 Doar Tu ești odihna mea.

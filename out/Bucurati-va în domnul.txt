@@ -1,5 +1,7 @@
-[title] Bucurati-va în Domnul
-[sequence] 1,c,2,c,3,c
+[title]
+Bucuraţi-vă în Domnul Sfânt
+[sequence]
+1,c,2,c,3,c
 [1]
 /: Bucuraţi-vă în Domnul Sfânt
 Iarăși zic: bucurați-vă! :/

@@ -1,22 +1,21 @@
-[title] Doamne, vin la Tin chiar acum
-[sequence] 1,c,2,c,e
+[title]
+Doamne vin la Tin' chiar acum
+[sequence]
+1,c,2,c,e
 [1]
 Doamne, vin la Tin' chiar acum
 Ruga mea, dorul meu să Ți-l spun
 În orice zi eu vin
 Viața mea chiar acum să Ți-o închin.
-
 [chorus]
 /: Te slăvesc (Te slăvesc) pe Tin'
 Ruga mea (ruga mea) Ți-o închin
 Te slăvesc (Te slăvesc pe Tin'
 Ruga mea Ți-o închin, Amin :/
-
 [2]
 Domnul meu, m-ai creat din lut
 Spre slava Ta pentru veci m-ai făcut
 Vreau să cânt și să spun de Tin'
 Viața mea chiar acum Ți-o închin.
-
 [ending]
 Ruga mea Ți-o închin, Amin

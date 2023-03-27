@@ -1,11 +1,12 @@
-[title] Ce mare ești o Doamne
-[sequence] 1,c,2,c
+[title]
+Ce mare ești o Doamne ce mare ești și sfânt
+[sequence]
+1,c,2,c
 [1]
 Ce mare ești o Doamne ce mare ești și sfânt!
 Spun soarele și luna și vuietul de vânt
 Și trăsnetul ce culcă stejarii la pământ
 Și vuietul furtunii, și-al păsărilor cânt.
-
 [chorus]
 Mare ești, mare-i slava Ta
 Ai fost ești și vei fi în veci așa!

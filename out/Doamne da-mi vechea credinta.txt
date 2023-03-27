@@ -1,5 +1,7 @@
-[title] Doamne da-mi vechea credinta
-[sequence] c,1,c,2,c,3,c
+[title]
+Doamne dă-mi vechea credință
+[sequence]
+c,1,c,2,c,3,c
 [chorus]
 Doamne, dă-mi vechea credință
 Doamne, dă-mi vechea credință

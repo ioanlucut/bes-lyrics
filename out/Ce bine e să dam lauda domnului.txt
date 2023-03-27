@@ -1,5 +1,7 @@
-[title] Ce bine e să dam lauda Domnului
-[sequence] 1,c,b
+[title]
+Ce bine e să dăm laudă Domnului
+[sequence]
+1,c,b
 [1]
 Ce bine e să dăm laudă Domnului,
 Ce bine e să-I dăm laudă numai Lui!

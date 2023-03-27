@@ -1,5 +1,7 @@
-[title] Pacatos eram odata
-[sequence] 1,c,2,c,3,c
+[title]
+Păcătos eram odată de Hristos îndepărtat
+[sequence]
+1,c,2,c,3,c
 [1]
 Păcătos eram odată, de Hristos îndepărtat,
 Dar El auzise plânsul meu amar
@@ -17,7 +19,7 @@ Mă îndeamnă să-o iubesc
 Dar eu pofta ei nu o mai doresc nicicând!
 Inima mi-e-ndreptată-n
 La dulcele meu Isus,
-Și acum trăiesc „Aleluia!" cântând.
+Și acum trăiesc „Aleluia!” cântând.
 [3]
 Sus pe străzile din glorie,
 Când la țărm voi fi ajuns,

@@ -1,5 +1,7 @@
-[title] Sfant Cuvant din vecii
-[sequence] 1,c,2,c
+[title]
+Sfânt Cuvânt din veșnicii
+[sequence]
+1,c,2,c
 [1]
 Sfânt Cuvânt din veșnicii
 Ne conduci, ne susții,
@@ -10,7 +12,6 @@ Sfânt Cuvânt, la noi venit,
 Tu ni Te-ai descoperit
 În viața lui Isus,
 Ce pentru noi a fost străpuns.
-
 [chorus]
 /: Sfânt Cuvânt, neschimbat
 Viața Tu ne-ai transformat

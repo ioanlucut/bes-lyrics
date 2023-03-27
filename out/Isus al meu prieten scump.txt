@@ -1,5 +1,7 @@
-[title] Isus al meu prieten scump
-[sequence] 1,2,3,4,5
+[title]
+Isus al meu prieten scump
+[sequence]
+1,2,3,4,5
 [1]
 Isus, al meu prieten scump
 Din zorii tinereții,

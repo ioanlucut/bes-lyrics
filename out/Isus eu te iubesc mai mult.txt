@@ -1,5 +1,7 @@
-[title] Isus eu Te iubesc mai mult
-[sequence] 1,p,c
+[title]
+Isus eu Te iubesc mai mult
+[sequence]
+1,p,c
 [1]
 Isus eu Te iubesc mai mult
 Decât iubesc orice pe-acest pământ

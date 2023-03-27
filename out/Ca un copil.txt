@@ -1,11 +1,12 @@
-[title] Ca un copil
-[sequence] 1,c,2,c
+[title]
+Ca un copil mă țin de brațul Tău
+[sequence]
+1,c,2,c
 [1]
 Ca un copil mă țin de brațul Tău
 Tu mă cunoști, vezi pașii mei mereu
 Cu bunătate mereu mă înconjori
 Și-mi aminteşti de mila Ta din zori.
-
 [chorus]
 /: Vreau sufletul să mi-l înalți
 Să mă inunde Duhul Tău

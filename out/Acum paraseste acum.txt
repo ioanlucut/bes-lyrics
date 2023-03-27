@@ -1,5 +1,7 @@
-[title] Acum paraseste acum
-[sequence] 1,c,2,c
+[title]
+Acum părăsește acum
+[sequence]
+1,c,2,c
 [1]
 Acum părăsește, acum
 Gândul pătat și murdar,

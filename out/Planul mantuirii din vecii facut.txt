@@ -1,5 +1,7 @@
-[title] Planul mantuirii din vecii facut
-[sequence] 1,c,2,c,3,c
+[title]
+Planul mântuirii din vecii făcut
+[sequence]
+1,c,2,c,3,c
 [1]
 Planul mântuirii din vecii făcut,
 Se apropie de un mormânt

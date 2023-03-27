@@ -1,5 +1,7 @@
-[title] După ploaie și furtuna
-[sequence] 1,c,2,c,3,c
+[title]
+După ploaie și furtună
+[sequence]
+1,c,2,c,3,c
 [1]
 După ploaie și furtună,
 Va veni o zi mai bună

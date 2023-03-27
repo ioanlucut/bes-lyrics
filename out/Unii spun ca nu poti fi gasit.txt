@@ -1,5 +1,7 @@
-[title] Unii spun ca nu poti fi gasit
-[sequence] 1,c,1,c,b,c
+[title]
+Unii spun că nu poți fi găsit
+[sequence]
+1,c,1,c,b,c
 [1]
 Unii spun că nu poți fi găsit
 Alții spun că nu poți fi văzut

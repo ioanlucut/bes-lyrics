@@ -1,5 +1,7 @@
-[title] Tot mai frumoasa ești iubire
-[sequence] 1,2,3,4
+[title]
+Tot mai frumoasă ești Iubire
+[sequence]
+1,2,3,4
 [1]
 Tot mai frumoasă ești, Iubire,
 Din zi în zi, din ceas în ceas!

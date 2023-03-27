@@ -1,5 +1,7 @@
-[title] De dorul Tau, Isus iubit
-[sequence] 1,2,3,4,5
+[title]
+De dorul Tău Isus iubit
+[sequence]
+1,2,3,4,5
 [1]
 De dorul Tău, Isus iubit,
 În dragostea Ta arse

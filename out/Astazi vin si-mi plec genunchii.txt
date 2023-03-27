@@ -1,5 +1,7 @@
-[title] Astazi vin si-mi plec genunchii
-[sequence] 1,2,3,4
+[title]
+Astăzi vin și-mi plec genunchii
+[sequence]
+1,2,3,4
 [1]
 Astăzi vin și-mi plec genunchii,
 Înaintea ieslei Tale,

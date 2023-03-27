@@ -1,5 +1,7 @@
-[title] Vreau să te fac pescar de om
-[sequence] 1,2,3
+[title]
+Vreau să te fac pescar de om
+[sequence]
+1,2,3
 [1]
 Vreau să te fac pescar de om,
 Pescar de om, pescar de om,

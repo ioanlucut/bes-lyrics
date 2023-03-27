@@ -1,5 +1,7 @@
-[title] Nu te-ndoi ci crede
-[sequence] 1,2,3,4
+[title]
+Nu te-ndoi ci crede că după orice nor
+[sequence]
+1,2,3,4
 [1]
 Nu te-ndoi, ci crede că după orice nor,
 E-un soare şi mai dulce și mai strălucitor.

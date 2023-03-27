@@ -1,5 +1,7 @@
-[title] Invata-ma să-nfaptuiesc
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Învață-mă să-nfăptuiesc
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Învață-mă să-nfăptuiesc
 O, Doamne, voia Ta mereu

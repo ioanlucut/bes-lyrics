@@ -1,5 +1,7 @@
-[title] Ne-ai ales ca să traim
-[sequence] 1,c,2,c
+[title]
+Ne-ai ales că să trăim
+[sequence]
+1,c,2,c
 [1]
 Ne-ai ales că să trăim,
 Ne-ai chemat să Te slujim,
@@ -10,7 +12,6 @@ Ne-ai iertat orice păcat
 Moștenire-am căpătat
 Prin credința-n jertfa Ta
 Ne-nchinăm în fața Ta.
-
 [chorus]
 /: Îți mulțumim, Îți mulțumim
 Doamne bun, Te slăvim.

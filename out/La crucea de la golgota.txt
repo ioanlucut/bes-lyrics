@@ -1,5 +1,7 @@
-[title] La crucea de la Golgota
-[sequence] 1,c,2,c
+[title]
+La crucea de la Golgota
+[sequence]
+1,c,2,c
 [1]
 La crucea de la Golgota,
 Doamne, vin să-ngenunchez cu viața mea.

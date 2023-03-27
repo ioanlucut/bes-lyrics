@@ -1,5 +1,7 @@
-[title] Multumim Domnului pentru ziua
-[sequence] 1,c,2,c,3,c
+[title]
+Mulțumim Domnului pentru ziua
+[sequence]
+1,c,2,c,3,c
 [1]
 Mulțumim Domnului pentru ziua,
 Pentru harul măreț ce ne-a dat!

@@ -1,5 +1,7 @@
-[title] Venim în a Ta prezenta
-[sequence] 1,c
+[title]
+Venim în a Ta prezență cu toții să Îți cântâm
+[sequence]
+1,c
 [1]
 Venim în a Ta prezență cu toții să Îți cântâm
 Un cântec de mărire și venim să ne-nchinăm

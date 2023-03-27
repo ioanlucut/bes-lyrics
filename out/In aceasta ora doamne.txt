@@ -1,5 +1,7 @@
-[title] In aceasta ora Doamne
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+În această oră Doamne Te rugăm
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 În această oră, Doamne, Te rugăm
 Să iei parte Tu cu noi,

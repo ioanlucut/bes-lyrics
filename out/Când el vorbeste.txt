@@ -1,5 +1,7 @@
-[title] Când El vorbeste
-[sequence] 1,2,c,3,t,b,t
+[title]
+Când El vorbește pământul se clatină
+[sequence]
+1,2,c,3,t,b,t
 [1]
 Când El vorbește pământul se clatină,
 Marea ascultă, când El vorbește!

@@ -1,5 +1,7 @@
-[title] Destinul tau e să invingi
-[sequence] 1,c,2,c
+[title]
+Destinul tău e să învingi
+[sequence]
+1,c,2,c
 [1]
 Destinul tău e să învingi,
 Când ești căzut să te ridici

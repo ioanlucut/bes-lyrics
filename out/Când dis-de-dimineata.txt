@@ -1,5 +1,7 @@
-[title] Când dis-de-dimineata
-[sequence] 1,c,2,c
+[title]
+Când dis-de-dimineață
+[sequence]
+1,c,2,c
 [1]
 Când dis-de-dimineață
 Văd răsăritul de soare iar,
@@ -7,7 +9,6 @@ Văd păsări mii ce se unesc în cânt,
 Văd stropii de rouă pe frunzele verzi
 Și simt parfumul florilor
 Mă-nchin și eu Măreţului Creator.
-
 [chorus]
 Zi de zi, în orice clipă
 Eu simt prezența lui Dumnezeu,

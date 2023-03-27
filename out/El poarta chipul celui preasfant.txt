@@ -1,5 +1,7 @@
-[title] El poarta chipul Celui Preasfant
-[sequence] 1,p,2,c,t
+[title]
+El poartă chipul Celui Preasfânt nevăzut
+[sequence]
+1,p,2,c,t
 [1]
 El poartă chipul Celui Preasfânt, nevăzut
 Stăpân peste creație
@@ -17,11 +19,9 @@ Te lăudăm, Domn peste veacuri,
 Numele Tău Îl înălțăm azi
 Tu de laudă ești vrednic
 Ești vrednic.
-
 [chorus]
 /: Ești minunat, ești minunat
 Doar Tu, doar Tu :/ x4
-
 [chorus 2]
 /: În veci, Tu ești Domn peste veacuri
 Numele Tău Îl înălțăm azi

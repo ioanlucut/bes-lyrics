@@ -1,5 +1,7 @@
-[title] In Numele Tau proclamam
-[sequence] c,1,c
+[title]
+În Numele Tău proclamăm Duh de viață
+[sequence]
+c,1,c
 [chorus]
 În Numele Tău proclamăm Duh de viață!
 În Numele Tău se ridică o armată!

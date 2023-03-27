@@ -1,5 +1,7 @@
-[title] Ai auzit vreodata, prietene, de Mine
-[sequence] 1,2,3
+[title]
+Ai auzit vreodată prietene de Mine
+[sequence]
+1,2,3
 [1]
 Ai auzit vreodată, prietene, de Mine
 Pe când în largul lumii cutreierai semeț?

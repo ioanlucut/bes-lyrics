@@ -1,18 +1,18 @@
-[title] Marturisim acum ca suntem slabi
-[sequence] 1,p,c
+[title]
+Mărturisim acum că suntem slabi
+[sequence]
+1,p,c
 [1]
 Mărturisim acum că suntem slabi,
 Așa de slabi, dar Tu ești Domn
 Chiar dacă n-avem nimic să-Ți oferim
 Venim și îți spunem Doamne-ajută-ne
-
 [prechorus]
 O inimă care e zdrobită
 Nicicând n-o vei refuza
 Inima Ta bate plină de milă pentru noi
 Să curgă râul din Duhul Tău,
 Doamne, Te rugăm
-
 [chorus]
 /: Lasă mila Ta să cadă,
 Să curgă mila Ta din cer

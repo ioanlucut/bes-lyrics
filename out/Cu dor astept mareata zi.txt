@@ -1,5 +1,7 @@
-[title] Cu dor astept mareata zi
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Cu dor aștept măreața zi
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Cu dor aștept măreața zi
 Când iarăși o să vie,

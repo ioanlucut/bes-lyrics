@@ -1,11 +1,12 @@
-[title] Vrednic Miel e
-[sequence] 1,c,2,c,3,c
+[title]
+Vrednic Miel e Domnul slavei
+[sequence]
+1,c,2,c,3,c
 [1]
 Vrednic Miel e, Domnul slavei
 Sfânt e, sfânt e doar El
 Să-i cântam dar, Celui ce-n veci stă
 Pe al milei tron.
-
 [chorus]
 Sfânt e, sfânt e, sfânt e
 Domnul Atotputernic
@@ -19,7 +20,6 @@ Ne umpli viața cu măreție
 Putere, onoare, glorie
 Lauda a Ta va fi
 Ești rege azi și-n veșnicii.
-
 [3]
 Cuprins de teamă și de uimire
 Când rostesc Numele Tău

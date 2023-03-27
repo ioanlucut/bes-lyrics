@@ -1,5 +1,7 @@
-[title] Simtim incet cum harul
-[sequence] 1,c,2,c,3,c
+[title]
+Simţim încet cum harul de la Neamuri se tot ia
+[sequence]
+1,c,2,c,3,c
 [1]
 Simţim încet cum harul de la Neamuri se tot ia
 Aproape gata-i ușa a se-ncuia.

@@ -1,5 +1,7 @@
-[title] Jos la picioarele-Ti stau adanc plecat
-[sequence] 1,c,1,c
+[title]
+Jos la picioarele-Ți
+[sequence]
+1,c,1,c
 [1]
 /: Jos la picioarele-Ți
 Stau adânc plecat,

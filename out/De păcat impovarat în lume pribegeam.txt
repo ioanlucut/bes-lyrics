@@ -1,5 +1,7 @@
-[title] De păcat impovarat în lume pribegeam
-[sequence] 1,c,2,c,3,c
+[title]
+De păcat împovărat în lume pribegeam
+[sequence]
+1,c,2,c,3,c
 [1]
 De păcat împovărat în lume pribegeam.
 Despre jertfa lui Isus nimic eu nu știam,

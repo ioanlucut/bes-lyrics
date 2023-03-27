@@ -1,5 +1,7 @@
-[title] Mi-e dor, mi-e dor de casa mea
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+Mi-e dor mi-e dor de casa mea
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 Mi-e dor, mi-e dor de casa mea
 S-ajung acolo eu aș vrea

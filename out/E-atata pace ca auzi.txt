@@ -1,5 +1,7 @@
-[title] E-atata pace ca auzi
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+E atâta pace că auzi
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 E atâta pace că auzi
 Și mersul stelelor cum cântă

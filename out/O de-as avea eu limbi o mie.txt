@@ -1,5 +1,7 @@
-[title] O de-as avea eu limbi o mie
-[sequence] 1,2,3,4
+[title]
+O de-aș avea eu limbi o mie
+[sequence]
+1,2,3,4
 [1]
 O, de-aș avea eu limbi o mie
 Și mii de buze să cuvânt

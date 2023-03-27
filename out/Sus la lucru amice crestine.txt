@@ -1,5 +1,7 @@
-[title] Sus la lucru amice crestine
-[sequence] 1,c,2,c,3,c
+[title]
+Sus la lucru amice creștine
+[sequence]
+1,c,2,c,3,c
 [1]
 Sus, la lucru, amice creștine!
 Miluiește, și mereu s-ajuți

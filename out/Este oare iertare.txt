@@ -1,5 +1,7 @@
-[title] Este oare iertare
-[sequence] 1,c,2,t
+[title]
+Este oare iertare
+[sequence]
+1,c,2,t
 [1]
 Este oare iertare
 Pentru tot ce-am făcut?
@@ -7,7 +9,6 @@ Doamne pot eu oare
 Sa vin așa cum sunt?
 'Naintea Ta? ('Naintea Ta?)
 În fața Ta? (În fața Ta?)
-
 [chorus]
 /: Știu Domnul meu, sunt un om așa rău
 Și Te-am întristat mereu
@@ -15,7 +16,6 @@ Sa vin așa cum sunt?
 Te-am răstignit chiar eu
 Când am spus nu este Dumnezeu :/
 /: Oare mă poți ierta (mă poți ierta?) :/
-
 [2]
 Cred ca este iertate
 Pentru tot ce-am făcut
@@ -23,7 +23,6 @@ Cred c-acum e momentul
 S-o iau de la-nceput
 'Naintea Ta? ('Naintea Ta?)
 În fața Ta? (În fața Ta?)
-
 [chorus 2]
 /: Știu Domnul meu, vei veni în curând
 Și pe norii cerului vei sta

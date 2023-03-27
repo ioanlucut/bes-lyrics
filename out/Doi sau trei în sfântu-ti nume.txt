@@ -1,5 +1,7 @@
-[title] Doi sau trei în sfântu-Ti nume
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Doi sau trei în sfântu-Ți nume
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Doi sau trei în sfântu-Ți nume
 Când se vor uni,

@@ -1,5 +1,7 @@
-[title] Eu am o carte ce o iubesc
-[sequence] 1,c,2,c,3,c
+[title]
+Eu am o carte ce o iubesc
+[sequence]
+1,c,2,c,3,c
 [1]
 Eu am o carte ce o iubesc,
 Biblia-i cartea ce o citesc.

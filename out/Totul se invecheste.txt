@@ -1,5 +1,7 @@
-[title] Totul se invecheste
-[sequence] 1,c,2,c,3,c
+[title]
+Totul se învecheşte totul este trecător
+[sequence]
+1,c,2,c,3,c
 [1]
 Totul se învecheşte, totul este trecător
 Floarea se ofilește atât de ușor

@@ -1,5 +1,7 @@
-[title] Domnul m-a-ntrebat adesea
-[sequence] 1,c,2,c,3,c
+[title]
+Domnul m-a-ntrebat adesea
+[sequence]
+1,c,2,c,3,c
 [1]
 Domnul m-a-ntrebat adesea:
 „Vrei să fii voios?”

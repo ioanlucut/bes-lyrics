@@ -1,5 +1,7 @@
-[title] Binecuvanteaza Doamne Romania
-[sequence] c,1,c,2,c
+[title]
+Binecuvântează Doamne România
+[sequence]
+c,1,c,2,c
 [chorus]
 Binecuvântează, Doamne, România!
 Binecuvântează țara mea

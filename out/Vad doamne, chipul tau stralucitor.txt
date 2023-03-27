@@ -1,5 +1,7 @@
-[title] Vad Doamne, chipul Tau stralucitor
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Văd Doamne chipul Tău strălucitor
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Văd, Doamne, chipul Tău strălucitor
 Și-n stele sus, și-n soare, și în nor

@@ -1,5 +1,7 @@
-[title] Noi azi pe Isus inaltam
-[sequence] 1,c,2,c
+[title]
+Noi azi pe Isus înălțăm
+[sequence]
+1,c,2,c
 [1]
 Noi azi pe Isus înălțăm,
 Ca un drapel pe-acest oraș

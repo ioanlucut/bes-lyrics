@@ -1,5 +1,7 @@
-[title] Turma mica a lui Hristos
-[sequence] 1,2,3,4
+[title]
+Turmă mică a lui Hristos
+[sequence]
+1,2,3,4
 [1]
 Turmă mică a lui Hristos,
 De El ești iubită,

@@ -1,5 +1,7 @@
-[title] Din El prin El și pentru El
-[sequence] 1,c,1,c
+[title]
+Din El prin El și pentru El
+[sequence]
+1,c,1,c
 [1]
 /: Din El, prin El și pentru El
 Sunt toate lucrurile :/ x3

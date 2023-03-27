@@ -1,5 +1,7 @@
-[title] Astazi vin la Tine Domnul meu
-[sequence] 1,p,c,2,p,c
+[title]
+Astăzi vin la Tine Domnul meu
+[sequence]
+1,p,c,2,p,c
 [1]
 Astăzi vin la Tine, Domnul meu
 Sufletul mi-e plin de bucurie

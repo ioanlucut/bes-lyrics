@@ -1,5 +1,7 @@
-[title] Te-am ales, Te-am ales
-[sequence] 1,2,3
+[title]
+Te-am ales Te-am ales
+[sequence]
+1,2,3
 [1]
 Te-am ales, Te-am ales,
 Dintre mii și mii de mii Te-am ales,

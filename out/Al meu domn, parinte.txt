@@ -1,5 +1,7 @@
-[title] Al meu Domn, Parinte
-[sequence] 1,c,1,c
+[title]
+Al meu Domn Părinte
+[sequence]
+1,c,1,c
 [1]
 Al meu Domn, Părinte
 Nimeni ca Tine nu e

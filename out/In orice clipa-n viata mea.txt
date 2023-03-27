@@ -1,5 +1,7 @@
-[title] In orice clipa-n viata mea
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+În orice clipă-n viața mea
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 În orice clipă-n viața mea
 Stau liniștit pe stâncă.

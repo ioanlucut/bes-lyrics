@@ -1,5 +1,7 @@
-[title] De traiesti cu Domnul tau mereu
-[sequence] 1,2,3
+[title]
+De trăiești cu Domnul tău mereu
+[sequence]
+1,2,3
 [1]
 De trăiești cu Domnul tău mereu,
 Fericit îți este traiul tău

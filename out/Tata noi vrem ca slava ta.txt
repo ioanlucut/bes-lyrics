@@ -1,5 +1,7 @@
-[title] Tata noi vrem ca slava Ta
-[sequence] 1,c
+[title]
+Tată noi vrem ca slava Ta
+[sequence]
+1,c
 [1]
 Tată noi vrem ca slava Ta
 Să poată fi văzută-n noi

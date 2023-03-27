@@ -1,11 +1,12 @@
-[title] De când Te cunosc, Isuse
-[sequence] 1,c,2,c
+[title]
+De când Te cunosc Isuse nu sunt singur
+[sequence]
+1,c,2,c
 [1]
 De când Te cunosc, Isuse, nu sunt singur,
 De la om recunoștință nu mai cer,
 Nu mai plâng când rana mea nu se închide,
 Nu tânjesc când lucrul dorit nu e al meu.
-
 [chorus]
 Rămâi cu mine, e tot ce-Ți cer,
 Rămâi căci seara lumii vine,

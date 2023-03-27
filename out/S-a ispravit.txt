@@ -1,5 +1,7 @@
-[title] S-a ispravit
-[sequence] 1,c,2,c,3,c
+[title]
+S-a isprăvit s-a isprăvit
+[sequence]
+1,c,2,c,3,c
 [1]
 S-a isprăvit, s-a isprăvit
 Pe o cruce Domnul a murit

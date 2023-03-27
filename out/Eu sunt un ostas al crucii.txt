@@ -1,5 +1,7 @@
-[title] Eu sunt un ostas al crucii
-[sequence] 1,c,2,c,3,c
+[title]
+Eu sunt un ostaș al crucii
+[sequence]
+1,c,2,c,3,c
 [1]
 Eu sunt un ostaș al crucii,
 Urmaș al Mielului

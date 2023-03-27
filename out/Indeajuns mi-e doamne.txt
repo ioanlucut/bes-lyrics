@@ -1,5 +1,7 @@
-[title] Indeajuns mi-e Doamne
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Îndeajuns mi-e Doamne
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 /: Îndeajuns mi-e, Doamne,
 Doar harul Tău! :/

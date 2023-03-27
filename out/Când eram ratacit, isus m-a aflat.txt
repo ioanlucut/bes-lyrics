@@ -1,5 +1,7 @@
-[title] Când eram ratacit, Isus m-a aflat
-[sequence] 1,c,2,c,3,c
+[title]
+Când eram rătăcit Isus m-a salvat
+[sequence]
+1,c,2,c,3,c
 [1]
 Când eram rătăcit, Isus m-a salvat
 Din păcat El m-a ridicat.

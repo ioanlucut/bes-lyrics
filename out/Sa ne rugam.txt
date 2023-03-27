@@ -1,5 +1,7 @@
-[title] Sa ne rugam
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+Să ne rugăm să ne rugăm
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 Să ne rugăm, să ne rugăm,
 Să-I cerem să ne-mbrace cu putere,

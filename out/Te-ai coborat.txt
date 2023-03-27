@@ -1,5 +1,7 @@
-[title] Te-ai coborat
-[sequence] 1,c,2,c
+[title]
+Te-ai coborât
+[sequence]
+1,c,2,c
 [1]
 Te-ai coborât
 În ieslea cea săracă,

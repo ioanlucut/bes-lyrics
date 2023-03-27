@@ -1,5 +1,7 @@
-[title] Eu pe Domnul iubesc
-[sequence] 1,c,2,c,3,c
+[title]
+Eu pe Domnul iubesc Numele-I preamăresc
+[sequence]
+1,c,2,c,3,c
 [1]
 Eu pe Domnul iubesc, Numele-I preamăresc
 Pentru că m-a creat și lumină mi-a dat

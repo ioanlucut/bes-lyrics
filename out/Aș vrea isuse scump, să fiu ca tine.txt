@@ -1,5 +1,7 @@
-[title] Aș vrea Isuse scump, să fiu ca Tine
-[sequence] 1,c,2,c,3,c
+[title]
+Aș vrea Isuse scump să fiu ca Tine
+[sequence]
+1,c,2,c,3,c
 [1]
 Aș vrea, Isuse scump, să fiu ca Tine,
 În pribegia mea, pe-acest pământ;

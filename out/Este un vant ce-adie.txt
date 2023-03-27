@@ -1,5 +1,7 @@
-[title] Este un vant ce-adie
-[sequence] 1,c,2,c,3,c
+[title]
+Este un vânt ce-adie
+[sequence]
+1,c,2,c,3,c
 [1]
 Este un vânt ce-adie
 Vine din înalt

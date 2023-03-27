@@ -1,5 +1,7 @@
-[title] lângă Tine vreau
-[sequence] 1,c,1,c
+[title]
+Lângă Tine vreau
+[sequence]
+1,c,1,c
 [1]
 Lângă Tine vreau
 Să fiu aproape iar

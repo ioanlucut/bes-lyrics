@@ -1,5 +1,7 @@
-[title] Oare la ușa cine-I
-[sequence] 1,c,2,c,3,c
+[title]
+Oare la ușă cine-I
+[sequence]
+1,c,2,c,3,c
 [1]
 Oare la ușă cine-I
 Și ce-o fi așteptând?

@@ -1,5 +1,7 @@
-[title] Orice pas Isus mi-l conduce
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Orice pas Isus mi-l conduce
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Orice pas Isus mi-l conduce
 /: Slavă Lui! :/

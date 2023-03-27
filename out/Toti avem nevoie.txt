@@ -1,5 +1,7 @@
-[title] Toti avem nevoie
-[sequence] 1,c,2,c,b,c
+[title]
+Toți avem nevoie
+[sequence]
+1,c,2,c,b,c
 [1]
 Toți avem nevoie
 De dragoste curată

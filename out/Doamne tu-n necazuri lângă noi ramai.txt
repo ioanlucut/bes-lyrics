@@ -1,5 +1,7 @@
-[title] Doamne Tu-n necazuri lângă noi ramai
-[sequence] 1,c,2,c,3,c
+[title]
+Doamne Tu-n necazuri lângă noi rămâi
+[sequence]
+1,c,2,c,3,c
 [1]
 Doamne, Tu-n necazuri lângă noi rămâi
 Chinurile noastre, Tu le-nduri întâi,

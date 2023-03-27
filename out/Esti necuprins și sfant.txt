@@ -1,5 +1,7 @@
-[title] Esti necuprins și sfant
-[sequence] 1,c,2,c,3,c
+[title]
+Ești necuprins și sfânt ca nimeni altul
+[sequence]
+1,c,2,c,3,c
 [1]
 Ești necuprins și sfânt ca nimeni altul
 Și totuși ne iubești din veșnicii,

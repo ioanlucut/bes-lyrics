@@ -1,5 +1,7 @@
-[title] Domn al vesniciei
-[sequence] 1,c,2,c,3,c
+[title]
+Domn al veșniciei al lumii Creator
+[sequence]
+1,c,2,c,3,c
 [1]
 Domn al veșniciei, al lumii Creator
 Cerul este al Tău templu

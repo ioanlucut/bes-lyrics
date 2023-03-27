@@ -1,5 +1,7 @@
-[title] Cantati o veste buna
-[sequence] 1,c,2,c,3,c
+[title]
+Cântați o veste bună
+[sequence]
+1,c,2,c,3,c
 [1]
 Cântați o veste bună,
 Vestiți lumii întregi

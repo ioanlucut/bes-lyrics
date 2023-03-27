@@ -1,5 +1,7 @@
-[title] O ce valuri de-ndurare
-[sequence] 1,c,2,c,3,c
+[title]
+O ce valuri de-ndurare
+[sequence]
+1,c,2,c,3,c
 [1]
 O, ce valuri de-ndurare
 Curg din crucea lui Isus

@@ -1,5 +1,7 @@
-[title] Tu stai mai sus de ceruri
-[sequence] 1,c,2,c,3,c,e
+[title]
+Tu stai mai sus de ceruri Prea-nalte Dumnezeu
+[sequence]
+1,c,2,c,3,c,e
 [1]
 Tu stai mai sus de ceruri, Prea-nalte Dumnezeu,
 Doar Tu cunoști misterul din universul Tău,
@@ -20,7 +22,6 @@ Când vom ajunge-n ceruri, Prea-nalte Dumnezeu,
 Vom fi uimiți de slava ce Tu o ai mereu,
 Căci coruri fără număr Îți cântă simfonii,
 Din fața Ta pornesc râuri de ape vii.
-
 [ending]
 Glorie Ție, o, Doamne mare,
 Numele Tău e minunat,

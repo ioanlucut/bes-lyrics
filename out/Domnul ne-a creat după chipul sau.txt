@@ -1,5 +1,7 @@
-[title] Domnul ne-a creat după chipul Sau
-[sequence] 1,c,2,c
+[title]
+Domnul ne-a creat după chipul Său
+[sequence]
+1,c,2,c
 [1]
 Domnul ne-a creat după chipul Său
 El ne-a învățat să urâm ce-i rău

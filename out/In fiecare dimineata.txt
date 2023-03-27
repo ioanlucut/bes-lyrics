@@ -1,11 +1,12 @@
-[title] In fiecare dimineata
-[sequence] 1,c,2,c,3,c
+[title]
+În fiecare dimineață Doamne-Ți înnoiești
+[sequence]
+1,c,2,c,3,c
 [1]
 În fiecare dimineață, Doamne-Ți înnoiești
 Bunătatea Ta, și-ndurarea Ta
 Sănătate, viață-mi dai, zi de zi primesc,
 Doamne Tatăl meu, Îți mulțumesc.
-
 [chorus]
 Depind de Tine, Domnul meu
 Prin tot ce fac doresc să-nalț numele Tău
@@ -16,7 +17,6 @@ Cu brațul Tău divin de Tată, Tu mă ocrotești
 Zi de zi mereu, Doamne Dumnezeu
 De grijă-mi porți cum nimeni altul n-ar putea nicicând
 Domnul meu iubit, credincios și sfânt.
-
 [3]
 Atât cât voi avea suflare, Te voi lăuda
 Cu viața mea, prin purtarea mea

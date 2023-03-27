@@ -1,5 +1,7 @@
-[title] Un cor ingeresc
-[sequence] 1,c,2,c,3,c
+[title]
+Un cor îngeresc
+[sequence]
+1,c,2,c,3,c
 [1]
 /: Un cor îngeresc
 Din cer se-aude cântând,
@@ -14,7 +16,6 @@ Azi Isus te cheamă,
 De ce pribeag mai rătăcești?
 N-auzi chemarea lui Isus,
 „Vino, vino!” :/
-
 [3]
 /: Urcând pe Calvar,
 Isus Și-a dat viața-n dar,

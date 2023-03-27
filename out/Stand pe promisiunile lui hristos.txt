@@ -1,5 +1,7 @@
-[title] Stand pe promisiunile lui Hristos
-[sequence] 1,c,2,c,3,c
+[title]
+Stând pe promisiunile lui Hristos
+[sequence]
+1,c,2,c,3,c
 [1]
 Stând pe promisiunile lui Hristos,
 În veci las să-I sune laudă frumos.

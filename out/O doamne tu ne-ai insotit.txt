@@ -1,5 +1,7 @@
-[title] O Doamne Tu ne-ai insotit
-[sequence] c,1,c,2,c
+[title]
+O Doamne Tu ne-ai însoțit pe cale
+[sequence]
+c,1,c,2,c
 [chorus]
 /: O, Doamne, Tu ne-ai însoțit pe cale
 În lungul drum ce trece prin pustiu
@@ -13,7 +15,6 @@ Noi plăteam tribut celor de demult.
 Nicidecum locul nu-l găseam,
 Cântul frânt doar îl suspinam,
 Tu ne-ai auzit și ne-ai izbăvit.
-
 [2]
 Ai zdrobit lanțuri și poveri,
 Moartea-i frânt și-ale ei puteri,

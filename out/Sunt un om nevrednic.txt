@@ -1,5 +1,7 @@
-[title] Sunt un om nevrednic
-[sequence] 1,c,2,c,3,c
+[title]
+Sunt un om nevrednic dar El m-a iubit
+[sequence]
+1,c,2,c,3,c
 [1]
 Sunt un om nevrednic, dar El m-a iubit
 S-a plecat spre mine și m-a mântuit.

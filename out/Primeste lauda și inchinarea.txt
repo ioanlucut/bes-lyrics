@@ -1,5 +1,7 @@
-[title] Primeste lauda și inchinarea
-[sequence] c,1,c
+[title]
+Primește lauda și închinarea
+[sequence]
+c,1,c
 [chorus]
 /: Primește lauda și închinarea
 Tată din ceruri, Te slăvim

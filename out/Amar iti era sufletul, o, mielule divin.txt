@@ -1,5 +1,7 @@
-[title] Amar iti era sufletul, o, Mielule divin
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Amar Îți era sufletul o Mielule divin
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Amar Îți era sufletul, o, Mielule divin
 Când ai intrat în Ghetsimani,

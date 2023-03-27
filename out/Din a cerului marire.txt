@@ -1,5 +1,7 @@
-[title] Din a cerului marire
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Din a cerului mărire
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Din a cerului mărire
 Pentru omul păcătos

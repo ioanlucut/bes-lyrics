@@ -1,5 +1,7 @@
-[title] Când pe marea vietii
-[sequence] 1,2,3,4
+[title]
+Când pe marea vieții eu
+[sequence]
+1,2,3,4
 [1]
 Când pe marea vieții eu,
 Trecut-am grele încercări

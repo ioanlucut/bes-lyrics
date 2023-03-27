@@ -1,5 +1,7 @@
-[title] Nu sunt în ceruri lacrimi și grijuri
-[sequence] 1,c,2,c,3,c
+[title]
+Nu sunt în ceruri lacrimi și grijuri
+[sequence]
+1,c,2,c,3,c
 [1]
 Nu sunt în ceruri lacrimi și grijuri
 Glorie pe veci în cer va fi!

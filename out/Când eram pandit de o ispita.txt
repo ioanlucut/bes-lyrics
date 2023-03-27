@@ -1,5 +1,7 @@
-[title] Când eram pandit de o ispita
-[sequence] 1,c,2,c,3,c
+[title]
+Când eram pândit de o ispită
+[sequence]
+1,c,2,c,3,c
 [1]
 Când eram pândit de o ispită,
 Tu mi-ai dat putere înzecită;

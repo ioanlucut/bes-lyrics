@@ -1,5 +1,7 @@
-[title] M-ai gasit pe un drum parasit
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+M-ai găsit pe un drum părăsit
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 M-ai găsit pe un drum părăsit,
 În al lumii noroi prăbușit.

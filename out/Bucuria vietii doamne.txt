@@ -1,5 +1,7 @@
-[title] Bucuria vietii Doamne
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+Bucuria vieții Doamne Tu ne-ai dat
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 Bucuria vieții, Doamne, Tu ne-ai dat
 Prin jertfa Ta sfântă, ne-ai răscumpărat.

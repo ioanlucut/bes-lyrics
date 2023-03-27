@@ -1,5 +1,7 @@
-[title] O lume intreaga sta în nepasare
-[sequence] 1,c,2,c,3,c
+[title]
+O lume întreagă stă în nepăsare
+[sequence]
+1,c,2,c,3,c
 [1]
 O lume întreagă stă în nepăsare
 Și caută adăpost când vine o-ncercare

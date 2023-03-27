@@ -1,5 +1,7 @@
-[title] Astazi cant voios ca Dumnezeu
-[sequence] 1,c,2,c
+[title]
+Astăzi cânt voios că Dumnezeu
+[sequence]
+1,c,2,c
 [1]
 Astăzi cânt voios că Dumnezeu
 E Stăpânul vieţii mele,
@@ -12,7 +14,6 @@ Rătăceam în lumea largă neajutorat
 Dar când m-a găsit, El m-a săturat
 Și mi-a dat să beau,
 El mi-a dat să beau, din harul Său
-
 [chorus]
 El e fântâna cu ape vii
 Nimic în lume nu-L poate-nlocui

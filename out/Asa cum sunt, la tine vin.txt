@@ -1,5 +1,7 @@
-[title] Asa cum sunt, la Tine vin
-[sequence] 1,2,3,4
+[title]
+Așa cum sunt la Tine vin
+[sequence]
+1,2,3,4
 [1]
 Așa cum sunt, la Tine vin
 Putere n-am, Tu-mi fii sprijin

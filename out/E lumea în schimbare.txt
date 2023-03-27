@@ -1,5 +1,7 @@
-[title] E lumea în schimbare
-[sequence] 1,c,2,c,3,c
+[title]
+Vine Isus vine Mirele pe nori
+[sequence]
+1,c,2,c,3,c
 [chorus]
 /: Vine Isus, vine Mirele pe nori
 Sunteți gata voi fecioare,

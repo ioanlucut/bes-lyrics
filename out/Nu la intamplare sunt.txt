@@ -1,5 +1,7 @@
-[title] Nu la intamplare sunt
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Nu la întâmplare sunt
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 /: Nu la întâmplare sunt
 Domnul m-a creat. :/

@@ -1,5 +1,7 @@
-[title] Iubirea-adanca-a Tatalui
-[sequence] 1,2,3,4,b,5,6
+[title]
+Iubirea-adânc-a Tatălui
+[sequence]
+1,2,3,4,b,5,6
 [1]
 Iubirea-adânc-a Tatălui,
 Nimic nu o măsoară,

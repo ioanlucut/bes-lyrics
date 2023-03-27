@@ -1,5 +1,7 @@
-[title] Astazi este ziua, cantareste bine
-[sequence] 1,c,2,c,3,c
+[title]
+Astăzi este ziua cântărește bine
+[sequence]
+1,c,2,c,3,c
 [1]
 Astăzi este ziua, cântărește bine!
 Vezi cum stai cu Dumnezeu

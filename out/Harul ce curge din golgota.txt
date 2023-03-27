@@ -1,5 +1,7 @@
-[title] Harul ce curge din Golgota
-[sequence] 1,c,2,c,3,c
+[title]
+Harul ce curge din Golgota
+[sequence]
+1,c,2,c,3,c
 [1]
 Harul ce curge din Golgota,
 M-a mântuit, m-a fericit

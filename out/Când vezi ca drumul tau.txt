@@ -1,23 +1,22 @@
-[title] Când vezi ca drumul tau
-[sequence] 1,c,2,c,b,c
+[title]
+Când vezi că drumul tău nu duce nicăieri
+[sequence]
+1,c,2,c,b,c
 [1]
 Când vezi că drumul tău nu duce nicăieri
 Când șoapte vechi îți spun că nu mai poți să speri,
 Dacă simiți un gol în suflet și ți-e greu
 Nu descuraja, nu descuraja!
-
 [chorus]
 Durerea ta poate s-o aline,
 Când rătăcești El e lângă tine!
 Vrei libertate, salvare, El îți dă eliberare,
 Lanțul greu... mâna Lui zdrobește!
-
 [2]
 În noaptea grea din jur, lumina-o căutam
 Și de aceleași lupte vechi răpus cădeam,
 Am alergat la porți închise-adeseori
 Fiindcă nu știam, da, eu nu știam
-
 [bridge]
 /: Când ai credință primești iertare
 Isus e Calea! Să spunem tuturor! :/

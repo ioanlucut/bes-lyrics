@@ -1,5 +1,7 @@
-[title] Doamne ești mai scump ca argintul
-[sequence] 1,c
+[title]
+Doamne ești mai scump ca argintul
+[sequence]
+1,c
 [1]
 /: Doamne, ești mai scump ca argintul
 Doamne, ești mai scump ca aurul

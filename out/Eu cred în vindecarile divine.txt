@@ -1,5 +1,7 @@
-[title] Eu cred în vindecarile divine
-[sequence] 1,c,2,c,3,c,4,c,5,c,6,c
+[title]
+Eu cred în vindecările divine
+[sequence]
+1,c,2,c,3,c,4,c,5,c,6,c
 [1]
 Eu cred în vindecările divine,
 Căci El mă vindecase și pe mine

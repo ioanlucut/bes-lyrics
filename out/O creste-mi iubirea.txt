@@ -1,5 +1,7 @@
-[title] O creste-mi iubirea
-[sequence] 1,2,3,4
+[title]
+O crește-mi iubirea în inima mea
+[sequence]
+1,2,3,4
 [1]
 „O, crește-mi iubirea, în inima mea!”
 Isuse, Isuse, mereu Te-aș ruga.

@@ -1,5 +1,7 @@
-[title] Ah cat ma simtesc de bine
-[sequence] 1,2,3,4,5,6
+[title]
+Ah cât mă simțesc de bine
+[sequence]
+1,2,3,4,5,6
 [1]
 Ah, cât mă simțesc de bine
 Când e Domnul lângă mine

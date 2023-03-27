@@ -1,5 +1,7 @@
-[title] Când privesc soarele luna stelele
-[sequence] 1,c,2,c,3,c
+[title]
+Când privesc soarele luna stelele
+[sequence]
+1,c,2,c,3,c
 [1]
 Când privesc soarele, luna, stelele
 Universul, așa de sublime,
@@ -10,7 +12,6 @@ Prin Cuvântul lui sfânt toate
 El le-a creat cu înţelepciune
 El din viața Lui viață și nouă ne-a dat
 Numele Lui fi-n veci lăudat!
-
 [chorus]
 Tot pământul să-L laude pe Domnul
 Neamurile să I se închine Lui
@@ -30,7 +31,6 @@ Lăudați pe Dumnezeul dumnezeilor
 Căci în veac ține îndurarea Lui!
 Pe Acel ce-a făcut cerurile mari
 Căci în veac ține îndurarea Lui!
-
 [3]
 Lăudați pe Domnul domnilor
 Căci în veac ține îndurarea Lui!

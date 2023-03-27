@@ -1,5 +1,7 @@
-[title] Domnul în ceruri domneste
-[sequence] 1,c,1,c
+[title]
+Domnul în ceruri domneşte
+[sequence]
+1,c,1,c
 [1]
 Domnul în ceruri domneşte
 Pe tron e aşezat,

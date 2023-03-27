@@ -1,5 +1,7 @@
-[title] Sa ne trezim, frati și surori
-[sequence] 1,2,3,4,5
+[title]
+Să ne trezim frați și surori
+[sequence]
+1,2,3,4,5
 [1]
 Să ne trezim, frați și surori,
 Să nu ne prindă somnul,

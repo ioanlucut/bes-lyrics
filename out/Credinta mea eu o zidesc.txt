@@ -1,5 +1,7 @@
-[title] Credinta mea eu o zidesc
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Credința mea eu o zidesc
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Credința mea eu o zidesc,
 Pe Cuvântul sfânt și ceresc.

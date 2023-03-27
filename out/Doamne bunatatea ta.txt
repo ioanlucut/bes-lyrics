@@ -1,5 +1,7 @@
-[title] Doamne bunatatea Ta
-[sequence] 1,c,2,c,3,c
+[title]
+Doamne bunătatea Ta îmi cuprinde inima
+[sequence]
+1,c,2,c,3,c
 [1]
 Doamne, bunătatea Ta îmi cuprinde inima
 Și mă face fericit, Domnul meu iubit

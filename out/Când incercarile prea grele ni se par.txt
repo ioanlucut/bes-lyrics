@@ -1,5 +1,7 @@
-[title] Când incercarile prea grele ni se par
-[sequence] 1,c,2,c,3,c
+[title]
+Când încercările prea grele ni se par
+[sequence]
+1,c,2,c,3,c
 [1]
 Când încercările prea grele ni se par
 Și zilele prea lungi, poverile prea mari

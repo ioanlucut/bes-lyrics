@@ -1,5 +1,7 @@
-[title] Te du mereu mai sus
-[sequence] 1,c,2,c,3,c
+[title]
+Te du mereu mai sus spre zările senine
+[sequence]
+1,c,2,c,3,c
 [1]
 Te du mereu mai sus, spre zările senine!
 Acolo-i fericire pentru tine

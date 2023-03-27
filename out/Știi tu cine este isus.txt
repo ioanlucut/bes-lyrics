@@ -1,5 +1,7 @@
-[title] Știi tu cine este Isus
-[sequence] 1,c,2,c,3,c
+[title]
+Știi tu cine este Isus
+[sequence]
+1,c,2,c,3,c
 [1]
 Știi tu cine este Isus?
 Știi tu cine este El?

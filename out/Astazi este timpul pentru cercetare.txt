@@ -1,5 +1,7 @@
-[title] Astazi este timpul pentru cercetare
-[sequence] 1,c,2,c,3,c
+[title]
+Astăzi este timpul pentru cercetare
+[sequence]
+1,c,2,c,3,c
 [1]
 Astăzi este timpul pentru cercetare!
 Vine Domnul în curând

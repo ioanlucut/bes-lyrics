@@ -1,5 +1,7 @@
-[title] Intr-o zi pe Ieremia
-[sequence] 1,c,2,c,3,c
+[title]
+Într-o zi pe Ieremia
+[sequence]
+1,c,2,c,3,c
 [1]
 Într-o zi pe Ieremia
 Domnul îl înștiințează,

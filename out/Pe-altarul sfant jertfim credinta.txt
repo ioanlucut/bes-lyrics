@@ -1,5 +1,7 @@
-[title] Pe-altarul sfant jertfim credinta
-[sequence] 1,c,2,c,3,c
+[title]
+Pe-altarul sfânt jertfim credința
+[sequence]
+1,c,2,c,3,c
 [1]
 Pe-altarul sfânt jertfim credința,
 Viața-ntreagă ne-ncetat,

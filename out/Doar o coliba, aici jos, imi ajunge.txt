@@ -1,5 +1,7 @@
-[title] Doar o coliba, aici jos, imi ajunge
-[sequence] 1,c,2,c,3,c
+[title]
+Doar o colibă aici jos îmi ajunge
+[sequence]
+1,c,2,c,3,c
 [1]
 Doar o colibă, aici jos, îmi ajunge
 Argint ți aur n-am în casa mea

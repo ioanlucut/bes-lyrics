@@ -1,5 +1,7 @@
-[title] Viata cu Tine-i usoara
-[sequence] 1,c,2,c,3,c
+[title]
+Viața cu Tine-i ușoară
+[sequence]
+1,c,2,c,3,c
 [1]
 Viața cu Tine-i ușoară,
 Crucea de dus nu-i povară,

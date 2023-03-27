@@ -1,5 +1,7 @@
-[title] Sa faci o Isuse din inima mea
-[sequence] 1,2,3,4
+[title]
+Să faci o Isuse din inima mea
+[sequence]
+1,2,3,4
 [1]
 Să faci, o, Isuse, din inima mea,
 O harfă divină, să cânți Tu cu ea

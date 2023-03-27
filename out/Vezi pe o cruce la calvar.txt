@@ -1,5 +1,7 @@
-[title] Vezi pe o cruce la Calvar
-[sequence] 1,c,2,c,3,c
+[title]
+Vezi pe o cruce la Calvar
+[sequence]
+1,c,2,c,3,c
 [1]
 Vezi, pe o cruce la Calvar
 Al meu Domn a sângerat
@@ -7,7 +9,6 @@ Libertatea El mi-a dat
 Vezi, rana Lui m-a vindecat
 Belșug de har mi-a dat
 M-a salvat, ce minunat!
-
 [chorus]
 Pentru tot ce-a făcut
 Toată gloria și onoarea Îi aduc!
@@ -20,7 +21,6 @@ Pe veci iadul a răpus!
 Declarăm Numele cel minunat
 Peste orice loc uscat
 Căci din morți a înviat.
-
 [3]
 Acum, pe-al Său tron e așezat
 Împlinind tot ce-a fost scris

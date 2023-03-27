@@ -1,5 +1,7 @@
-[title] La cruce unde Hristos muri
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+La cruce unde Hristos muri
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 La cruce unde Hristos muri,
 Am dorit Harul a-l dobândi

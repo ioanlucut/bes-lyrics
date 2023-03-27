@@ -1,5 +1,7 @@
-[title] Nu pe bratul meu ma bizui
-[sequence] 1,c,2,c,3,c
+[title]
+Nu pe brațul meu mă bizui
+[sequence]
+1,c,2,c,3,c
 [1]
 Nu pe brațul meu mă bizui,
 Brațul meu e-atât de slab

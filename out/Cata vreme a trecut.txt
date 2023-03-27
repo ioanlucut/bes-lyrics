@@ -1,7 +1,9 @@
-[title] Cata vreme a trecut
-[sequence] 1,c,2,c
+[title]
+Câtă vreme a trecut câtă vreme a rămas
+[sequence]
+1,c,2,c
 [1]
-Câtă vreme a trecut, câtă vreme a ramas
+Câtă vreme a trecut, câtă vreme a rămas
 Între noapte și zi, între drum și popas
 Ne amintim zi de zi că am fost, că vom fi
 Și uităm mult prea des să mai fim

@@ -1,11 +1,12 @@
-[title] Se duce viata ca un vis
-[sequence] 1,c,2,c,3,c
+[title]
+Se duce viața ca un vis pe marele necunoscut
+[sequence]
+1,c,2,c,3,c
 [1]
 Se duce viața ca un vis pe marele necunoscut
 Pe-oceanul veșniciilor atâția au trecut
 Și tu vei trece, nu uita, depinde cum te-ai pregătit
 Spre veșnicie vei zbura, spre infinit.
-
 [chorus]
 Ești pregătit să zbori când ceasul va suna?
 Ești pregătit să zbori când El te va chema?

@@ -1,5 +1,7 @@
-[title] Domnul secerisului intreaba
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Domnul secerișului întreabă
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Domnul secerișului întreabă:
 „Cine pleacă azi cu-al Meu Cuvânt?

@@ -1,5 +1,7 @@
-[title] Zi de zi mergand pe cale
-[sequence] 1,c,2,c,3,c
+[title]
+Zi de zi mergând pe cale frate credincios
+[sequence]
+1,c,2,c,3,c
 [1]
 Zi de zi, mergând pe cale, frate credincios,
 Cântă-I laude, întruna, Domnului Hristos.

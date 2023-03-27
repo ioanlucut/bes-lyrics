@@ -1,5 +1,7 @@
-[title] Eu Te iubesc, Isuse
-[sequence] 1,2,3
+[title]
+Eu Te iubesc Isuse eu Te iubesc Isuse
+[sequence]
+1,2,3
 [1]
 /: Eu Te iubesc, Isuse, eu Te iubesc, Isuse
 Eu Te iubesc, Isuse drag din inimă :/

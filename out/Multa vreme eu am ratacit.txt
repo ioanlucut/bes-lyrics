@@ -1,5 +1,7 @@
-[title] Multa vreme eu am ratacit
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Multă vreme eu am rătăcit
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Multă vreme eu am rătăcit,
 Neștiind că Isus m-a iubit,

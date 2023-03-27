@@ -1,5 +1,7 @@
-[title] Vino si-n casa mea
-[sequence] c,1,c,2,c,3,c,4,e
+[title]
+Vino și-n casa meax3
+[sequence]
+c,1,c,2,c,3,c,4,e
 [chorus]
 /: Vino și-n casa mea :/ x3
 Când furtuna este grea.

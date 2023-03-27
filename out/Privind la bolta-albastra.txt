@@ -1,11 +1,12 @@
-[title] Privind la bolta-albastra
-[sequence] 1,c,2,c,3,c
+[title]
+Privind la bolta-albastră nu pot să nu-Ți slăvesc
+[sequence]
+1,c,2,c,3,c
 [1]
 Privind la bolta-albastră nu pot să nu-Ți slăvesc
 Lucrarea Ta măreața o, Creator ceresc
 'N-atâta armonie eu grijile-mi destram
 Și plin de bucurie, cu dragoste exclam:
-
 [chorus]
 Ești cel mai frumos și nimeni nu-i ca Tine
 Îți cântă florile, Te-adoră zorile
@@ -18,7 +19,6 @@ De-atâta măreție sunt Doamne copleşit
 Și-Ți cânt mereu doar Ție, o, Tatăl meu iubit.
 Când razele de soare zâmbind îmi bat în geam
 M-alint-n-acea splendoare și fericit exclam:
-
 [3]
 Spre bolta cea senină spre cerul infinit
 Un pumn firav de tină de Tine plămădit.

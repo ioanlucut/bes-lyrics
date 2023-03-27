@@ -1,5 +1,7 @@
-[title] Atat am cautat rostul vietii
-[sequence] 1,c,2,c,3,c
+[title]
+Atât am căutat rostul vieții
+[sequence]
+1,c,2,c,3,c
 [1]
 Atât am căutat rostul vieții
 C-am ajuns rob acestei căutări

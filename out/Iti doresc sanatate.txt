@@ -1,15 +1,15 @@
-[title] Iti doresc sanatate
-[sequence] 1,p,c,2,p,c
+[title]
+Îți doresc sănătate gânduri bune s-ai mereu
+[sequence]
+1,p,c,2,p,c
 [1]
 Îți doresc sănătate, gânduri bune s-ai mereu
 În toate zilele ce le primești de la Dumnezeu
 Și-ți doresc ca bucuria să-ți umple fiecare ceas
 Și cu nădejde și încredere să-ți fie orice pas.
-
 [prechorus]
 Dar mai mai mult ca orice gând din ce ți-am spus
 Îți doresc să fi asemeni Lui Isus!
-
 [chorus]
 /: Să-mparți bucuria cu orice om ce-l întâlnești
 Să porți haina dragostei cerești

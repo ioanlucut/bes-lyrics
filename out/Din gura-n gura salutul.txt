@@ -1,9 +1,11 @@
-[title] Din gura-n gura salutul
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Din gură-n gură salutul
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Din gură-n gură salutul:
-„Hristos a înviat!"
-„Adevărat Hristos a înviat!"
+„Hristos a înviat!”
+„Adevărat Hristos a înviat!”
 Învăluise pământul c-un zâmbet voios
 Măreața veste că viu e Hristos!
 [chorus]
@@ -22,7 +24,7 @@ Căci acceptase umil a trăi,
 Prin moartea Sa, pe Satan îl zdrobi,
 De-aceea ne vom veseli.
 [4]
-Deci "Aleluia" sus în locuri cereşti,
-Deci "Aleluia" cântă tu, ce-L iubeşti,
+Deci „Aleluia” sus în locuri cereşti,
+Deci „Aleluia” cântă tu, ce-L iubeşti,
 Curând în slavă Domnul ne va răpi.
 De-aceea ne vom veseli.

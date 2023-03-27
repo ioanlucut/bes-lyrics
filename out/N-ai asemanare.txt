@@ -1,5 +1,7 @@
-[title] N-ai asemanare
-[sequence] 1,c,2,c,3,c
+[title]
+N-ai asemănare
+[sequence]
+1,c,2,c,3,c
 [1]
 N-ai asemănare,
 Nici în cer, nici pe pământ,

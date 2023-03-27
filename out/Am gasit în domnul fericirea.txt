@@ -1,5 +1,7 @@
-[title] Am gasit în Domnul fericirea
-[sequence] 1,c,2,c,3,c
+[title]
+Am găsit în Domnul fericirea
+[sequence]
+1,c,2,c,3,c
 [1]
 Am găsit în Domnul fericirea,
 Am găsit mărețul har divin

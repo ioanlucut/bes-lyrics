@@ -1,5 +1,7 @@
-[title] Nu te-ndoi ci crede, oricat de grea-i durerea
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Nu te-ndoi ci crede oricât de grea-i durerea
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Nu te-ndoi ci crede, oricât de grea-i durerea
 Căci Domnul te mai poate vindeca

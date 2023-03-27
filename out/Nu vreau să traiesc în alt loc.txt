@@ -1,11 +1,12 @@
-[title] Nu vreau să traiesc în alt loc
-[sequence] 1,c,2,c
+[title]
+Nu vreau să trăiesc în alt loc
+[sequence]
+1,c,2,c
 [1]
 Nu vreau să trăiesc în alt loc
 Căci viața mi-a spus că e greu
 Să stau separat de Hristos
 Și astfel nu vreau să trăiesc!
-
 [chorus]
 Doamne viața fără Tine n-are sens
 Să mă ai, să Te am, îmi doresc!

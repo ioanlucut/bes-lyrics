@@ -1,5 +1,7 @@
-[title] Splendori divine lasat-a
-[sequence] 1,c,2,c,3,c
+[title]
+Splendori divine lăsat-a
+[sequence]
+1,c,2,c,3,c
 [1]
 Splendori divine lăsat-a
 Știind destinul Său
@@ -15,7 +17,6 @@ Străini de Tatăl din ceruri
 Departe-am rătăcit
 Dar Isus cu brațe deschise
 În casa Lui m-a primit.
-
 [3]
 Azi cânt că marea Iubire
 Aici s-a arătat

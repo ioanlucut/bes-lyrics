@@ -1,5 +1,7 @@
-[title] Isuse scump, a noastră mântuire
-[sequence] 1,c,2,c,3,c
+[title]
+Isuse scump a noastră mântuire
+[sequence]
+1,c,2,c,3,c
 [1]
 Isuse scump, a noastră mântuire,
 Sub crucea Ta, ca jertfă Ți-am adus

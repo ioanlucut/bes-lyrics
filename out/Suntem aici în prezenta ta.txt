@@ -1,5 +1,7 @@
-[title] Suntem aici în prezenta Ta
-[sequence] 1,c
+[title]
+Suntem aici în prezența Ta
+[sequence]
+1,c
 [1]
 Suntem aici în prezența Ta,
 O, Doamne, vrem să Te-ascultăm,

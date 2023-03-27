@@ -1,5 +1,7 @@
-[title] Vrei tu să scapi de păcat, sarcina
-[sequence] 1,c,2,c,3,c
+[title]
+Vrei tu să scapi de păcat sarcină
+[sequence]
+1,c,2,c,3,c
 [1]
 Vrei tu să scapi de păcat, sarcină,
 Prin sângele sfânt al lui Isus?

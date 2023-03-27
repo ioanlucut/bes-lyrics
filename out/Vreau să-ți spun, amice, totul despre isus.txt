@@ -1,5 +1,7 @@
-[title] Vreau să-ți spun, amice, totul despre Isus
-[sequence] 1,c,2,c,3,c
+[title]
+Vreau să-ți spun amice totul despre
+[sequence]
+1,c,2,c,3,c
 [1]
 Vreau să-ți spun, amice, totul despre
 Isus,

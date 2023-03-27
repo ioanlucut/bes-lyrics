@@ -1,5 +1,7 @@
-[title] La miezul noptii va veni
-[sequence] 1,2,3,4,5,6
+[title]
+La miezul nopții va veni
+[sequence]
+1,2,3,4,5,6
 [1]
 La miezul nopții va veni
 Isus, cu pas domol,

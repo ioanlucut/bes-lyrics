@@ -1,12 +1,13 @@
-[title] Ai deschis cerul Tau
-[sequence] 1,c
+[title]
+Ai deschis cerul Tău ai lăsat slava Ta
+[sequence]
+1,c
 [1]
 Ai deschis cerul Tău, ai lăsat slava Ta
 Și-ai venit pentru mine, un biet păcătos.
 M-ai iubit aşa mult, c-ai murit la Calvar,
 Să deschizi ochii mei, să-nțeleg
 Și să Te slăvesc.
-
 [chorus]
 Pentru cântec, speranță și rază de soare,
 Lumină și pace pe-a mea cărare,

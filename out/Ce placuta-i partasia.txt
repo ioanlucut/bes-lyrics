@@ -1,5 +1,7 @@
-[title] Ce placuta-i partasia
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Ce plăcută-i părtășia dintre frați dintre surori
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Ce plăcută-i părtășia dintre frați, dintre surori
 Când domnește armonia, când e cerul fără nori

@@ -1,5 +1,7 @@
-[title] Freamatul din jur ne spune
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+Freamătul din jur ne spune
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 Freamătul din jur ne spune
 De venirea Lui curând

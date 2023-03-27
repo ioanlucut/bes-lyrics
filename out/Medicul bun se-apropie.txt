@@ -1,5 +1,7 @@
-[title] Medicul bun se-apropie
-[sequence] 1,c,2,c,3,c
+[title]
+Medicul bun se-apropie
+[sequence]
+1,c,2,c,3,c
 [1]
 Medicul bun se-apropie,
 Preotul mare Isus

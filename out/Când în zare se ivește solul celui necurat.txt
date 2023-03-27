@@ -1,5 +1,7 @@
-[title] Când în zare se ivește solul celui necurat
-[sequence] 1,c,2,c
+[title]
+Când în zare se ivește solul celui necurat
+[sequence]
+1,c,2,c
 [1]
 Când în zare se ivește solul celui necurat
 Dumnezeu e tăria mea!
@@ -10,7 +12,6 @@ Când tot iadul stă-n picioare pregătit pentru război
 Și simt că sufletu-mi se zbate prins în cursa grea
 Mă aplec în rugăciune și-aștept ajutorul slavei
 Dumnezeu e tăria mea!
-
 [chorus]
 /: Dumnezeu e tăria mea,
 Adăpost pentru sufletul meu

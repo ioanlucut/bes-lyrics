@@ -1,5 +1,7 @@
-[title] Daca suntem insetati
-[sequence] 1,c,2,c,3,c
+[title]
+Dacă suntem însetați să venim la El
+[sequence]
+1,c,2,c,3,c
 [1]
 Dacă suntem însetați, să venim la El.
 Doar Isus ne poate da, Apa vieții-n dar

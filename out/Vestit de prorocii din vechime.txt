@@ -1,5 +1,7 @@
-[title] Vestit de prorocii din vechime
-[sequence] 1,c,2,c
+[title]
+Vestit de prorocii din vechime
+[sequence]
+1,c,2,c
 [1]
 Vestit de prorocii din vechime,
 Și așteptat de oameni Tu-ai venit,

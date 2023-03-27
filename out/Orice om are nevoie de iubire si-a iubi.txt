@@ -1,5 +1,7 @@
-[title] Orice om are nevoie de iubire si-a iubi
-[sequence] 1,c,2,c,3,c
+[title]
+Orice om are nevoie de iubire și-a iubi
+[sequence]
+1,c,2,c,3,c
 [1]
 Orice om are nevoie de iubire și-a iubi
 Orice viață, fără ea, n-are destin.

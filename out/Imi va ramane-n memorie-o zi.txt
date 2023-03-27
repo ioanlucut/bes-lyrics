@@ -1,5 +1,7 @@
-[title] Imi va ramane-n memorie-o zi
-[sequence] 1,c,2,c,3,c
+[title]
+Îmi va rămâne-n memorie-o zi
+[sequence]
+1,c,2,c,3,c
 [1]
 Îmi va rămâne-n memorie-o zi,
 Când s-a schimbat viața mea.

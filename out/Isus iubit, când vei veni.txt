@@ -1,5 +1,7 @@
-[title] Isus iubit, când vei veni
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Isus iubit când vei veni
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Isus iubit, când vei veni
 Mireasa Ta pentru-a-Ți răpi?

@@ -1,5 +1,7 @@
-[title] Dati-mi în mana Biblia divina
-[sequence] 1,c,2,c,3,c
+[title]
+Dați-mi în mână Biblia divină
+[sequence]
+1,c,2,c,3,c
 [1]
 Dați-mi în mână Biblia divină
 Carte în lume-asemenea ei nu-i

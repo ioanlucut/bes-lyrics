@@ -1,5 +1,7 @@
-[title] Aș vrea să ma-ntalnesc cu Domnul
-[sequence] 1,c,2,c,3,c
+[title]
+Aș vrea să mă-ntâlnesc cu Domnul
+[sequence]
+1,c,2,c,3,c
 [1]
 Aș vrea să mă-ntâlnesc cu Domnul
 Să-L văd în față, să-L privesc

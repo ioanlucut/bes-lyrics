@@ -1,5 +1,7 @@
-[title] Ne-ntoarcem ca să-Ti multumim
-[sequence] 1,c,2,c
+[title]
+Ne-ntoarcem ca să-Ți mulțumim
+[sequence]
+1,c,2,c
 [1]
 Ne-ntoarcem ca să-Ți mulțumim,
 Părinte veșnic și divin,

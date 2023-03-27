@@ -1,5 +1,7 @@
-[title] Peste-ntreg pamant domnești în veci
-[sequence] 1,c,2,c
+[title]
+Peste-ntreg pământ domnești în veci
+[sequence]
+1,c,2,c
 [1]
 Peste-ntreg pământ domnești în veci
 Cerul în amurg, munții stăpânești,

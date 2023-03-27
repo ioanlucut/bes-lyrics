@@ -1,5 +1,7 @@
-[title] Cu inima și gura mea
-[sequence] 1,2,3,4
+[title]
+Cu inima și gura mea
+[sequence]
+1,2,3,4
 [1]
 Cu inima și gura mea
 Eu cânt lui Dumnezeu

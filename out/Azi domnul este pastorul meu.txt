@@ -1,5 +1,7 @@
-[title] Azi Domnul este pastorul meu
-[sequence] 1,c,2,t,3,e
+[title]
+Azi Domnul este păstorul meu
+[sequence]
+1,c,2,t,3,e
 [1]
 Azi Domnul este păstorul meu
 Eu lipsă n-am să duc

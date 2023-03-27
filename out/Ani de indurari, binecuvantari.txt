@@ -1,11 +1,12 @@
-[title] Ani de indurari, binecuvantari
-[sequence] 1,c,2,c
+[title]
+Ani de îndurări binecuvântări
+[sequence]
+1,c,2,c
 [1]
 Ani de îndurări, binecuvântări,
 Doar Tu, Isus m-ai luat de mână
 Și prin încercări, Tu mi-ai dat puteri
 Să învingem greul împreună
-
 [chorus]
 Îți mulțumesc Isus că sunt al Tău,
 Îți mulțumesc Isus că harul Tău m-a salvat

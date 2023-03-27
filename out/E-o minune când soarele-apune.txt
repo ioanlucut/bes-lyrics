@@ -1,5 +1,7 @@
-[title] E-o minune când soarele-apune
-[sequence] 1,c,2,c,3,c
+[title]
+E-o minune când soarele-apune
+[sequence]
+1,c,2,c,3,c
 [1]
 E-o minune când soarele-apune,
 Minune din veșnicii

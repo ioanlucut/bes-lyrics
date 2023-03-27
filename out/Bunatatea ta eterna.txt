@@ -1,5 +1,7 @@
-[title] Bunatatea Ta eterna
-[sequence] 1,c,2,c,3,c
+[title]
+Bunătatea Ta eternă
+[sequence]
+1,c,2,c,3,c
 [1]
 Bunătatea Ta eternă,
 Doamne, Dumnezeul meu,

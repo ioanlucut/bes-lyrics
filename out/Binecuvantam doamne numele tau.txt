@@ -1,5 +1,7 @@
-[title] Binecuvantam Doamne Numele Tau
-[sequence] 1,c,1,c
+[title]
+Binecuvântăm Doamne Numele Tău
+[sequence]
+1,c,1,c
 [1]
 Binecuvântăm, Doamne, Numele Tău
 Binecuvântăm puterea Ta

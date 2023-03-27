@@ -1,5 +1,7 @@
-[title] Ma-ncredintez în bratul Domnului
-[sequence] 1,c,2,c,3,c
+[title]
+Mă-ncredințez în brațul Domnului
+[sequence]
+1,c,2,c,3,c
 [1]
 Mă-ncredințez în brațul Domnului,
 Nădăjduiesc să fiu pe veci al Lui

@@ -1,5 +1,7 @@
-[title] Sunt un bulgaras prea mic
-[sequence] 1,2,3,4,5
+[title]
+Sunt un bulgăraș prea mic
+[sequence]
+1,2,3,4,5
 [1]
 Sunt un bulgăraș prea mic,
 Sunt un strop de rouă-n soare,

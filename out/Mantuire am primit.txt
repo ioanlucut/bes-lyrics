@@ -1,5 +1,7 @@
-[title] Mantuire am primit
-[sequence] 1,2,3
+[title]
+Mântuire am primit fără nici o plată
+[sequence]
+1,2,3
 [1]
 Mântuire am primit, fără nici o plată,
 Prin Isus cel răstignit, fără nici o plată.

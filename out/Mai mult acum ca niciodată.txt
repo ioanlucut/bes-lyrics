@@ -1,5 +1,7 @@
-[title] Mai mult acum ca niciodată
-[sequence] 1,c,2,c,3,c
+[title]
+Mai mult acum ca niciodată
+[sequence]
+1,c,2,c,3,c
 [1]
 Mai mult acum ca niciodată
 E drumul mai alunecos
@@ -10,7 +12,6 @@ E timpul azi pentru trezire
 E timpu-aproape spre apus
 Acum întreaga omenire
 Are nevoie de Isus.
-
 [chorus]
 /: Mai mult acum (mai mult acum)
 Ca niciodată (mai mult acum)
@@ -27,7 +28,6 @@ Să ne oprim din alergare
 Să stăm o clipă să privim
 La ce se-ntâmplă în lumea mare
 Și sinceri să ne pocăim.
-
 [3]
 Mai face Domnul iar chemare
 Poate e ultimul apel

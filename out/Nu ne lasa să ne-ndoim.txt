@@ -1,5 +1,7 @@
-[title] Nu ne lasa să ne-ndoim
-[sequence] 1,c,2,c,3,c
+[title]
+Nu ne lăsa să ne-ndoim
+[sequence]
+1,c,2,c,3,c
 [1]
 Nu ne lăsa să ne-ndoim,
 În crâncena furtună!

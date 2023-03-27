@@ -1,5 +1,7 @@
-[title] Timpul cel din urma a sosit acuma
-[sequence] 1,c,2,c,3,c,4,c,5,c,6,c
+[title]
+Timpul cel din urma a sosit acuma
+[sequence]
+1,c,2,c,3,c,4,c,5,c,6,c
 [1]
 Timpul cel din urma a sosit acuma,
 Fraților, ca să ne pocăim.

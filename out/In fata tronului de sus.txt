@@ -1,5 +1,7 @@
-[title] In fata tronului de sus
-[sequence] 1,2,3
+[title]
+În fața tronului de sus
+[sequence]
+1,2,3
 [1]
 În fața tronului de sus
 Eu am un bun Apărător,
@@ -10,7 +12,6 @@ Săpat eu sunt pe mâna Sa
 Și pe-a Lui inimă sunt scris,
 Iar cât în ceruri El va sta,
 /: Pârâșul meu va fi învins. :/
-
 [2]
 Satan când mă va acuza,
 Spunându-mi că sunt vinovat,
@@ -21,7 +22,6 @@ Fiindcă Domnul a murit,
 Eu am ajuns neprihănit,
 Dreptatea s-a îndeplinit,
 /: Prin moartea Lui sunt mântuit :/
-
 [3]
 Și iată Mielul înălțat,
 Cel nepătat, neprihănit,

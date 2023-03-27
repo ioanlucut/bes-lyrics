@@ -1,5 +1,7 @@
-[title] Pribeag azi prin lumea de chin și dureri
-[sequence] 1,c,2,t,3,b,4,e
+[title]
+Pribeag azi prin lumea de chin și dureri
+[sequence]
+1,c,2,t,3,b,4,e
 [1]
 Pribeag azi prin lumea de chin și dureri,
 Eu merg cântând pe cale

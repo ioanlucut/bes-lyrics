@@ -1,5 +1,7 @@
-[title] In ziua de apoi
-[sequence] 1,c,2,c,3,c
+[title]
+În ziua de apoi când vor fi toți chemați
+[sequence]
+1,c,2,c,3,c
 [1]
 În ziua de apoi când vor fi toți chemați,
 Când cei sfinți întâlnesc pe Domnul lor,

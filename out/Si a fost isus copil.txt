@@ -1,5 +1,7 @@
-[title] Si a fost Isus copil
-[sequence] 1,2,3,4,5
+[title]
+Și a fost Isus copil
+[sequence]
+1,2,3,4,5
 [1]
 Și a fost Isus copil
 Fără leagăn, fără slavă.

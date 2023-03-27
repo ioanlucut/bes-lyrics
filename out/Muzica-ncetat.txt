@@ -1,5 +1,7 @@
-[title] Muzica-ncetat
-[sequence] 1,p,c,1,p,c
+[title]
+Muzica-ncetat totu-i nemișcat
+[sequence]
+1,p,c,1,p,c
 [1]
 Muzica-ncetat, totu-i nemișcat
 Dar eu vin spre Tin’

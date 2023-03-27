@@ -1,5 +1,7 @@
-[title] Cu mult în urma
-[sequence] 1,c,2,b,t,w
+[title]
+Cu mult în urmă cândva am văzut
+[sequence]
+1,c,2,b,t,w
 [1]
 Cu mult în urmă, cândva am văzut
 Cetatea sfântă din cer coborând.
@@ -10,13 +12,11 @@ Acolo curge lin, e râul sfânt
 De sub tronul Său, viață aducând.
 Vreau să ajung în acel loc slăvit,
 În cetatea de dus.
-
 [chorus]
 Ierusalim, vreau să pășesc pe străzile tale
 Și vreau să privesc ale tale splendori!
 Ierusalim, să mă odihnesc lângă apa vieții
 În cetatea lui Dumnezeu.
-
 [2]
 Acolo leul stă chiar lângă miel,
 Era armonie în orice fel.
@@ -26,18 +26,15 @@ Iar sfinții ce Îi dau laudă neîncetat:
 „El este vrednic, vrednic Împărat”
 Vreau să ajung în cerul slăvit,
 În cetatea de sus.
-
 [bridge]
 Ierusalim, Ierusalim, toţi Domnului cântați!
 Osana, glorie, slavă, osana
 De-acum și-n veci de veci!
-
 [chorus 2]
 Ierusalim, vreau să pășesc pe străzile tale
 Și vreau să privesc ale tale splendori!
 Ierusalim, să mă odihnesc lângă apa vieții
 În cetatea lui Dumnezeu.
-
 [bridge 2]
 Ierusalim, Ierusalim,
 Orașul dorit, cetatea de sus, Ierusalim!

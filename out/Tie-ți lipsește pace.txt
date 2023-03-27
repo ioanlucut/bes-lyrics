@@ -1,5 +1,7 @@
-[title] Tie-ți lipsește pace
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Ție-ți lipsește pace
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Ție-ți lipsește pace
 Și mângâiere n-ai,

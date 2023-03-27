@@ -1,5 +1,7 @@
-[title] Azi canta frate ca tu ești salvat
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Azi cântă frate că tu eşti salvat
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Azi cântă, frate, că tu eşti salvat.
 /: Că tu eşti salvat :/

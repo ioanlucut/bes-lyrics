@@ -1,5 +1,7 @@
-[title] Maretul har m-a mantuit
-[sequence] 1,2,3,4
+[title]
+Mărețul har m-a mântuit
+[sequence]
+1,2,3,4
 [1]
 Mărețul har m-a mântuit
 Pe mine din păcat

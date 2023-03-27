@@ -1,5 +1,7 @@
-[title] Slava lui Isus
-[sequence] 1,2,3,4
+[title]
+Slavă lui Isus
+[sequence]
+1,2,3,4
 [1]
 /: Slavă lui Isus! :/
 Slavă lui Isus, sus în cer!

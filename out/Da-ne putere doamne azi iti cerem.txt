@@ -1,11 +1,12 @@
-[title] Da-ne putere Doamne azi iti cerem
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Dă-ne putere Doamne azi Îți cerem
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Dă-ne putere Doamne azi Îți cerem
 Puterea Duhului Tău Sfânt
 Ca să putem învinge-n orice vreme
 În timpul alergării pe pământ
-
 [chorus]
 Harul Tău în încercarea grea
 Ne dăruiește victoria

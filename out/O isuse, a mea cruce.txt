@@ -1,11 +1,12 @@
-[title] O Isuse, a mea cruce
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+O Isuse a mea cruce
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 O, Isuse, a mea cruce
 Tu m-ajuta-o purta,
 Zi de zi să îi pot duce
 Greul ei spre slava Ta.
-
 [chorus]
 Să-Ți urmez, doresc Isuse,
 Pân' la capăt ne-ncetat

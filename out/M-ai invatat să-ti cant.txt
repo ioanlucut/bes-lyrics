@@ -1,5 +1,7 @@
-[title] M-ai invatat să-Ti cant
-[sequence] 1,p,c,2,q,t
+[title]
+M-ai învățat să-Ți cânt o Doamne
+[sequence]
+1,p,c,2,q,t
 [1]
 M-ai învățat să-Ți cânt, o, Doamne,
 Și să ador cântarea Ta
@@ -15,7 +17,6 @@ Slavă-n cer și pe pământ
 Decât atunci când Ție-Ți cânt
 Cu îngerii aș vrea să-Ți cânt
 Ici pe pământ și-n cerul sfânt :/
-
 [2]
 De n-ar fi cântări să-mi aline
 Durerile ce mă zdrobesc

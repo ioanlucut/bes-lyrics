@@ -1,5 +1,7 @@
-[title] Sunt strajerul care striga
-[sequence] 1,2,c,3,4,c
+[title]
+Sunt străjerul care strigă
+[sequence]
+1,2,c,3,4,c
 [1]
 Sunt străjerul care strigă
 Glasul meu răsună astăzi pentru voi

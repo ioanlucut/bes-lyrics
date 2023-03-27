@@ -1,5 +1,7 @@
-[title] Cum să nu Te cant, Isuse
-[sequence] 1,c,2,c,3,c,4,c,5,c,6,c,7,c
+[title]
+Cum să nu Te cânt Isuse
+[sequence]
+1,c,2,c,3,c,4,c,5,c,6,c,7,c
 [1]
 Cum să nu Te cânt, Isuse?
 Cum să nu Te cânt?

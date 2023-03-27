@@ -1,5 +1,7 @@
-[title] Lupta Biserica
-[sequence] 1,c,2,c,3,c
+[title]
+Luptă Biserică
+[sequence]
+1,c,2,c,3,c
 [1]
 Luptă Biserică,
 Luptă nu da napoi

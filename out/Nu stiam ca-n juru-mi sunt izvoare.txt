@@ -1,5 +1,7 @@
-[title] Nu stiam ca-n juru-mi sunt izvoare
-[sequence] 1,2,3,4,5
+[title]
+Nu știam că-n juru-mi sunt izvoare
+[sequence]
+1,2,3,4,5
 [1]
 Nu știam că-n juru-mi sunt izvoare,
 Nu știam de oaza din pustiu

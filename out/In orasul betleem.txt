@@ -1,5 +1,7 @@
-[title] In orasul Betleem
-[sequence] 1,2,3,4,5,6
+[title]
+În orașul Betleem Iosif cu sfânta Maria
+[sequence]
+1,2,3,4,5,6
 [1]
 În orașul Betleem, Iosif cu sfânta Maria
 Osteniţi de-atâta drum caută loc de găzduire
@@ -12,7 +14,7 @@ Doar un staul au găsit ca să nască-un pruncușor.
 Dar, deodată pe pământ, o lumină se ivește
 La păstorii de pe câmp, îngerul le glăsuiește:
 „Nu vă temeți căci aduc vestea bună în popor
-Astăzi s-a născut un Prunc, S-a născut Mântuitor!"
+Astăzi s-a născut un Prunc, S-a născut Mântuitor!”
 [4]
 /: Acolo în iesle jos S-a născut Isus Hristos
 Iar păstorii din câmpie, cântă plini de bucurie! :/

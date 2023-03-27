@@ -1,5 +1,7 @@
-[title] O Porumbel cu pene sfinte
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+O porumbel cu pene sfinte
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 O, porumbel cu pene sfinte
 Ce ai zburat din veșnicii,

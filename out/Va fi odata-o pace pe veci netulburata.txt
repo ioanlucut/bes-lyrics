@@ -1,5 +1,7 @@
-[title] Va fi odata-o pace pe veci netulburata
-[sequence] 1,2,3,4
+[title]
+Va fi odată o pace pe veci netulburată
+[sequence]
+1,2,3,4
 [1]
 Va fi odată o pace pe veci netulburată,
 Va crește-odată grâul ca cedrii din Liban,

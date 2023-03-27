@@ -1,11 +1,12 @@
-[title] Se va canta cantarea
-[sequence] 1,c,2,c,3,c
+[title]
+Se va cânta cântarea minunată
+[sequence]
+1,c,2,c,3,c
 [1]
 Se va cânta cântarea minunată
 Mireasa-și va cânta imnul dorit
 Și se va-ncepe nunta așteptată
 Cu-acei ce-n luptă și-n prigoane-au biruit.
-
 [chorus]
 Eroii slavei vin acum acasă
 Au biruit în marele necaz
@@ -16,7 +17,6 @@ Din orice neam, din orice seminție
 Din orice limbă, din orice norod
 O mare gloată pentru-mpărăție
 Isus va strânge-al suferinței rod.
-
 [3]
 În fața scaunului de domnie
 S-or arunca cu fața la pământ

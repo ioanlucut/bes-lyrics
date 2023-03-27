@@ -1,5 +1,7 @@
-[title] Arcuri incordate
-[sequence] 1,c,2,c,3,c
+[title]
+Arcuri încordate fi-vor îndreptate
+[sequence]
+1,c,2,c,3,c
 [1]
 Arcuri încordate fi-vor îndreptate
 Vârfuri ascuțite, nu mă tem.

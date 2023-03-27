@@ -1,5 +1,7 @@
-[title] Cat de bine ma simt cu alesii Domnului
-[sequence] c,1,c,2,c
+[title]
+Cât de bine mă simt cu aleșii Domnului
+[sequence]
+c,1,c,2,c
 [chorus]
 Cât de bine mă simt cu aleșii Domnului,
 Poporul minunat!

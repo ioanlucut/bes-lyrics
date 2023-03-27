@@ -1,5 +1,7 @@
-[title] Tu-mi ești refugiul când sunt slab
-[sequence] 1,c,2,c
+[title]
+Tu-mi ești refugiul când sunt slab
+[sequence]
+1,c,2,c
 [1]
 Tu-mi ești refugiul când sunt slab,
 Tu ești scăparea ce o am,
@@ -7,7 +9,6 @@ Tu ești în toate Domn.
 Mâna-mi întinzi atunci când cad,
 Când sunt setos, Tu apă-mi dai
 Tu ești în toate Domn.
-
 [chorus]
 /: Isus, Miel preasfânt,
 Ție mă închin.

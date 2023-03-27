@@ -1,5 +1,7 @@
-[title] Când Isus Hristos m-a mantuit
-[sequence] 1,c,2,c,3,c
+[title]
+Când Isus Hristos m-a mântuit
+[sequence]
+1,c,2,c,3,c
 [1]
 Când Isus Hristos m-a mântuit
 Har din harul Său, El mi-a dăruit

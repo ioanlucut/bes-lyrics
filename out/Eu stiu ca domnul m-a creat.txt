@@ -1,5 +1,7 @@
-[title] Eu stiu ca Domnul m-a creat
-[sequence] 1,c,2,c,3,c,4,c,5,c,6,c
+[title]
+Eu știu că Domnul m-a creat
+[sequence]
+1,c,2,c,3,c,4,c,5,c,6,c
 [1]
 Eu știu că Domnul m-a creat
 După făptura Sa

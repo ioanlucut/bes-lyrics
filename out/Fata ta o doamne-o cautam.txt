@@ -1,5 +1,7 @@
-[title] Fata Ta o Doamne-o cautam
-[sequence] 1,c,2,c,b,c
+[title]
+Fața Ta o Doamne-o căutăm
+[sequence]
+1,c,2,c,b,c
 [1]
 Fața Ta, o, Doamne-o căutăm,
 Pentru-a noastră țară ne rugăm,

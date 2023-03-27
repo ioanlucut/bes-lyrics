@@ -1,5 +1,7 @@
-[title] Curgi ca un rau de slava
-[sequence] c,1
+[title]
+Curgi ca un râu de slavă
+[sequence]
+c,1
 [chorus]
 Curgi ca un râu de slavă
 Cu brațul Tău dezleagă

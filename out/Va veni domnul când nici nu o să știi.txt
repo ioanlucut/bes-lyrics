@@ -1,5 +1,7 @@
-[title] Va veni Domnul când nici nu o să știi
-[sequence] 1,c,2,c,3,c
+[title]
+Va veni Domnul când nici nu o să știi
+[sequence]
+1,c,2,c,3,c
 [1]
 Va veni Domnul când nici nu o să știi
 Și vei zbura, sus în cer, spre veșnicii.

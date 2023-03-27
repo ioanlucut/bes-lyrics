@@ -1,5 +1,7 @@
-[title] E drept ca Isus a murit
-[sequence] 1,c,2,c,3,c
+[title]
+E drept că Isus a murit
+[sequence]
+1,c,2,c,3,c
 [1]
 E drept că Isus a murit,
 Purtând păcatul meu,

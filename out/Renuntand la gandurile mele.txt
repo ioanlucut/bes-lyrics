@@ -1,5 +1,7 @@
-[title] Renuntand la gandurile mele
-[sequence] 1,c,1,c
+[title]
+Renunțând la gândurile mele
+[sequence]
+1,c,1,c
 [1]
 Renunțând la gândurile mele
 Concentrând atenția asupra Ta

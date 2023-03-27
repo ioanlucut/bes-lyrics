@@ -1,5 +1,7 @@
-[title] Astazi nu mai sunt minuni
-[sequence] 1,c,2,c
+[title]
+Astăzi nu mai sunt minuni lumea va striga
+[sequence]
+1,c,2,c
 [1]
 „Astăzi nu mai sunt minuni!” lumea va striga
 „Oare astăzi pe pământ, se mai pot afla?”

@@ -1,5 +1,7 @@
-[title] Nu va fi o veste mai frumoasa
-[sequence] 1,c,2,c,3,c
+[title]
+Nu va fi o veste mai frumoasă
+[sequence]
+1,c,2,c,3,c
 [1]
 Nu va fi o veste mai frumoasă
 Ca salvarea dată prin Isus,

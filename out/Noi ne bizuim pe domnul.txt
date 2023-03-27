@@ -1,5 +1,7 @@
-[title] Noi ne bizuim pe Domnul
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Noi ne bizuim pe Domnul
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Noi ne bizuim pe Domnul
 Când vrăjmașu-a ridicat

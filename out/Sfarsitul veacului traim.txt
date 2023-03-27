@@ -1,5 +1,7 @@
-[title] Sfarsitul veacului traim
-[sequence] 1,c,2,c,3,c
+[title]
+Sfârșitul veacului trăim
+[sequence]
+1,c,2,c,3,c
 [1]
 Sfârșitul veacului trăim
 Cu luptă, ură și război

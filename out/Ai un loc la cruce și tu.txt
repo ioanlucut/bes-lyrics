@@ -1,5 +1,7 @@
-[title] Ai un loc la cruce și tu
-[sequence] 1,2
+[title]
+Ai un loc la cruce și tu
+[sequence]
+1,2
 [1]
 /: Ai un loc la cruce și tu
 Ai un loc la cruce și tu

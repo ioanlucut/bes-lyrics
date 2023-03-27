@@ -1,5 +1,7 @@
-[title] Voi veni cu bucurie inaintea Domnului
-[sequence] 1,c
+[title]
+Voi veni cu bucurie înaintea Domnului
+[sequence]
+1,c
 [1]
 Voi veni cu bucurie înaintea Domnului,
 Voi veni cu mulțumire-n casa Lui;

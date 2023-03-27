@@ -1,11 +1,12 @@
-[title] Pribegim ca straini
-[sequence] 1,c,2,c,3,c
+[title]
+Pribegim ca străini pentru-o vreme
+[sequence]
+1,c,2,c,3,c
 [1]
 Pribegim ca străini pentru-o vreme
 Trecând ades neobservați
 Da-ntr-o zi când răsplata se-aduce
 Cu slavă vom fi îmbrăcați.
-
 [chorus]
 Străluci-vom ca stelele noaptea
 Cu Mielul cel crucificat
@@ -16,7 +17,6 @@ Chiar de nu vom avea bogăție
 Nici faimă sau slavă aici,
 Știm că sfinții vor fi pe vecie
 În ceruri cu Domnul uniți.
-
 [3]
 Poate-s unii ce-n cort sau baracă
 Trăiesc și se sting singurei

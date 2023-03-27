@@ -1,5 +1,7 @@
-[title] E putere, e putere
-[sequence] 1,c,2,c,3,c
+[title]
+E putere e putere
+[sequence]
+1,c,2,c,3,c
 [1]
 /: E putere, e putere,
 E putere-n sângele lui Isus Hristos :/

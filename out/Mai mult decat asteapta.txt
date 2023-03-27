@@ -1,5 +1,7 @@
-[title] Mai mult decat asteapta
-[sequence] 1,2,3,4
+[title]
+Mai mult decât așteaptă străjerul dimineața
+[sequence]
+1,2,3,4
 [1]
 Mai mult decât așteaptă străjerul dimineața
 Te-așteaptă-al nostru suflet, Isus, să-ți vadă fața.

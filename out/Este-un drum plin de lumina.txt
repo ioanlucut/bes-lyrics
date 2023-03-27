@@ -1,5 +1,7 @@
-[title] Este-un drum plin de lumina
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Este-un drum plin de lumină
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Este-un drum plin de lumină
 Spre-un oraș îndepărtat,

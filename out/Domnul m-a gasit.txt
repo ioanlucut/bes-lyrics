@@ -1,5 +1,7 @@
-[title] Domnul m-a gasit
-[sequence] 1,c,2,c,3,c
+[title]
+Domnul m-a găsit povara mi-a luat
+[sequence]
+1,c,2,c,3,c
 [1]
 Domnul m-a găsit, povara mi-a luat,
 Bucurii, speranță, pace El mi-a dat

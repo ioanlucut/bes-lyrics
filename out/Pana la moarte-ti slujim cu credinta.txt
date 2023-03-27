@@ -1,5 +1,7 @@
-[title] Pana la moarte-Ti slujim cu credinta
-[sequence] 1,c,2,c,3,c
+[title]
+Până la moarte-Ți slujim cu credință
+[sequence]
+1,c,2,c,3,c
 [1]
 Până la moarte-Ți slujim cu credință,
 Isuse, Doamne, al nostru Împărat

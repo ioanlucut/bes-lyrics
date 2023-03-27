@@ -1,5 +1,7 @@
-[title] Pot să scriu și să vorbesc de Tine
-[sequence] 1,c,2,c
+[title]
+Pot să scriu și să vorbesc de Tine
+[sequence]
+1,c,2,c
 [1]
 Pot să scriu și să vorbesc de Tine,
 Despre tot ce Tu ai scris și ai făcut,

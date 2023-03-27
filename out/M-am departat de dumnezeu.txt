@@ -1,5 +1,7 @@
-[title] M-am departat de Dumnezeu
-[sequence] 1,c,2,c,3,c
+[title]
+M-am depărtat de Dumnezeu
+[sequence]
+1,c,2,c,3,c
 [1]
 M-am depărtat de Dumnezeu
 Azi vin acasă,

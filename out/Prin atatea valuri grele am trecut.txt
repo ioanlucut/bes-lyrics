@@ -1,5 +1,7 @@
-[title] Prin atatea valuri grele am trecut
-[sequence] 1,2,3,4,5
+[title]
+Prin atâtea valuri grele am trecut
+[sequence]
+1,2,3,4,5
 [1]
 Prin atâtea valuri grele am trecut,
 Numai Tu, Isuse Doamne, mi-ai fost scut

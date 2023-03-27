@@ -1,11 +1,12 @@
-[title] In suferinti sunt bucurii
-[sequence] 1,c,2,c
+[title]
+În suferiți sunt bucurii
+[sequence]
+1,c,2,c
 [1]
 În suferiți sunt bucurii
 Pe care altfel nu le știi
 Decât prin ele tu când treci
 Le știi folosul lor pe veci.
-
 [chorus]
 /: Cu Dumnezeu tu de vei fi
 Orice furtuni vei birui

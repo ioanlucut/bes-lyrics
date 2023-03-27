@@ -1,5 +1,7 @@
-[title] Doamne da-ne-ntelepciune
-[sequence] 1,c,2,c
+[title]
+Doamne dă-ne-nțelepciune
+[sequence]
+1,c,2,c
 [1]
 Doamne dă-ne-nțelepciune,
 Și putere și iubire

@@ -1,5 +1,7 @@
-[title] Isuse dintre toti Te-aleg mereu
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Isuse dintre toți Te-aleg mereu
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Isuse, dintre toți Te-aleg mereu,
 În orice zi și-n orice clipă

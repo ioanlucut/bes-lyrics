@@ -1,5 +1,7 @@
-[title] Cine oare cine oare
-[sequence] 1,2,3,4
+[title]
+Cine oare Cine oare
+[sequence]
+1,2,3,4
 [1]
 Cine, oare? Cine, oare,
 Te-a scăpat din strâmtorare, Israel, Israel?

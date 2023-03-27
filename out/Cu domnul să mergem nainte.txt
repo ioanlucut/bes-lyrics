@@ -1,11 +1,12 @@
-[title] Cu Domnul să mergem nainte
-[sequence] 1,c,2,c,3,c
+[title]
+Cu Domnul să mergem-nainte
+[sequence]
+1,c,2,c,3,c
 [1]
 Cu Domnul să mergem-nainte
 Cu Domnul să mergem cântând
 /: Când totul se stinge-n morminte
 Cu El biruim orișicând :/
-
 [chorus]
 /: Cu El biruim, cu El biruim
 Oricât de-ndârjită e lupta
@@ -15,7 +16,6 @@ Isus e în veci Împăratul
 Căci El e de-a pururea viu
 /: Prin moarte-a plătit El păcatul
 Mormântu-i rămas-a pustiu :/
-
 [3]
 Când mergem cu El e lumină
 Iubire și cântec și har

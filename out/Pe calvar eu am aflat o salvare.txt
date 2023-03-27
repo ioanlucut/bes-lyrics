@@ -1,5 +1,7 @@
-[title] Pe Calvar eu am aflat o salvare
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+Pe Calvar eu am aflat salvarea mea
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 Pe Calvar, eu am aflat salvarea mea
 Fii lăudat, o, Doamnul meu.

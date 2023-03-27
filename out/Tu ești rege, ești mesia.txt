@@ -1,5 +1,7 @@
-[title] Tu ești Rege, ești Mesia
-[sequence] 1,c,2,c
+[title]
+Tu ești Rege ești Mesia
+[sequence]
+1,c,2,c
 [1]
 Tu ești Rege, ești Mesia
 Ești al dragostei sublime Împărat

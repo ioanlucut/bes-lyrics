@@ -1,5 +1,7 @@
-[title] In marire când Osana vom canta
-[sequence] 1,c,2,c,3,c
+[title]
+În mărire când Osana vom cânta
+[sequence]
+1,c,2,c,3,c
 [1]
 În mărire când „Osana!” vom cânta
 Când Isus de-aici pe toți ne v-aduna,

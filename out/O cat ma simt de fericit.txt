@@ -1,5 +1,7 @@
-[title] O cat ma simt de fericit
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+O cât mă simt de fericit
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 O, cât mă simt de fericit
 Că am Mântuitor.

@@ -1,5 +1,7 @@
-[title] Doamne da-mi cuvant pe buze
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Doamne dă-mi cuvânt pe buze
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Doamne dă-mi cuvânt pe buze
 Limpede și cristalin

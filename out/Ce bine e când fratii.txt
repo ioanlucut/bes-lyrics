@@ -1,5 +1,7 @@
-[title] Ce bine e când fratii
-[sequence] 1,2,3,4
+[title]
+Ce bine e când frații
+[sequence]
+1,2,3,4
 [1]
 Ce bine e când frații
 În Domnul se unesc

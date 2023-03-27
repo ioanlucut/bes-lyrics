@@ -1,5 +1,7 @@
-[title] Eu inca nu sunt pregatit
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Eu încă nu sunt pregătit
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Eu încă nu sunt pregătit,
 Am deschis Biblia

@@ -1,5 +1,7 @@
-[title] De n-ai fi Tu de partea noastră
-[sequence] 1,c,2,c
+[title]
+De n-ai fi Tu de partea noastră
+[sequence]
+1,c,2,c
 [1]
 /:De n-ai fi Tu de partea noastră
 Am fi ca praful luat de vânt

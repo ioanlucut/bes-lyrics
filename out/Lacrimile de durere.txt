@@ -1,5 +1,7 @@
-[title] Lacrimile de durere
-[sequence] 1,c,2,c,3,c
+[title]
+Lacrimile de durere când se vor sfârși
+[sequence]
+1,c,2,c,3,c
 [1]
 Lacrimile de durere când se vor sfârși?
 O, poporul Meu, liber când vei fi?

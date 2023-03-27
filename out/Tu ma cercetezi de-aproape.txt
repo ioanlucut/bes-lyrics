@@ -1,14 +1,15 @@
-[title] Tu ma cercetezi de-aproape
-[sequence] 1,c,2,c
+[title]
+Tu mă cercetezi de-aproape
+[sequence]
+1,c,2,c
 [1]
- Tu mă cercetezi de-aproape
+Tu mă cercetezi de-aproape
 Doamne, tu mă ocrotești
 De departe-mi pătrunzi gândul,
 Căile-mi cunoști.
 Unde voi putea, o, Doamne,
 Să m-ascund de fața Ta,
 Când viața e-n mâna Ta?
-
 [chorus]
 /: Eu Te laud, Doamne pentru ce sunt,
 Pentru marea jertfă și iubirea Ta

@@ -1,5 +1,7 @@
-[title] In revarsatul zorilor
-[sequence] 1,c,2,c
+[title]
+În revărsatul zorilor în mireasma crinilor
+[sequence]
+1,c,2,c
 [1]
 În revărsatul zorilor, în mireasma crinilor
 Un înger a venit, piatra-a rostogolit

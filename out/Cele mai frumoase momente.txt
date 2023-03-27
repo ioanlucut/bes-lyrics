@@ -1,5 +1,7 @@
-[title] Cele mai frumoase momente
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Cele mai frumoase momente din viață
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Cele mai frumoase momente din viață
 Sunt atunci când ne întâlnim

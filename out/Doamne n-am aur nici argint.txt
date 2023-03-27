@@ -1,5 +1,7 @@
-[title] Doamne n-am aur nici argint
-[sequence] 1,c,2,c
+[title]
+Doamne n-am aur nici argint
+[sequence]
+1,c,2,c
 [1]
 Doamne n-am aur, nici argint
 Și știu că nu ți-ar trebui

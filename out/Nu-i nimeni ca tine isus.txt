@@ -1,28 +1,26 @@
-[title] Nu-i nimeni ca Tine Isus
-[sequence] 1,2,3,4,5
+[title]
+Nu-i nimeni ca Tine Isus
+[sequence]
+1,2,3,4,5
 [1]
 /: Nu-i nimeni ca Tine, Isus:/
 /: În nopți de durere
 Să dai mângâiere
 Nu-i nimeni ca Tine, Isus :/
-
 [2]
 /: Nu-i nimeni ca Tine, Isus :/
 /: Nu-i nimeni ca Tine
 Să șteargă suspine
 Nu-i nimeni ca Tine, Isus :/
-
 [3]
 /: Nu-I nimeni ca Tine, Isus :/
 /: S-aducă iertare și eliberare
 Nu-i nimeni ca tine Isus:/
-
 [4]
 /: Nu-I nimeni ca Tine, Isus :/
 /: S-aducă lumina
 Să mustre furtuna
 Nu-I nimeni ca Tine, Isus:/
-
 [5]
 /: Nu-I nimeni ca Tine, Isus :/
 /: S-aducă credință

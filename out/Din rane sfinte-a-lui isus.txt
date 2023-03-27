@@ -1,5 +1,7 @@
-[title] Din rane sfinte-a-lui Isus
-[sequence] 1,2,3,4,5
+[title]
+Din rane sfinte-a-lui Isus
+[sequence]
+1,2,3,4,5
 [1]
 Din rane sfinte-a-lui Isus,
 Izvor de sânge-a curs
@@ -9,7 +11,6 @@ Deplin s-a curățit.
 /: Deplin s-a curățit,
 Și cine se scufundă-n El
 Deplin s-a curățit. :/
-
 [2]
 Tâlharul pe cruce murind
 Prin El s-a mântuit
@@ -19,7 +20,6 @@ Deplin s-or curăți.
 /: Deplin s-or curăți :/
 Și-acum cei păcătoși la fel
 Deplin s-or curăți.
-
 [3]
 De când și eu m-am încrezut
 În harul Lui cel sfânt,
@@ -29,7 +29,6 @@ Pe Domnul lăudând.
 /: Pe Domnul lăudând :/
 Mă duc mereu la Golgota,
 Pe Domnul lăudând.
-
 [4]
 Al Tău sfânt sânge, Mielule,
 Nicicând nu va scădea
@@ -39,7 +38,6 @@ Până când cei ce-s mântuiți
 /: În cer Te vor vedea :/
 Până când cei ce-s mântuiți
 În cer Te vor vedea.
-
 [5]
 Un cântec nou Îți voi cânta,
 Când 'colo voi sosi,

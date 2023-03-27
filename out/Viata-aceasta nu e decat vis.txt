@@ -1,5 +1,7 @@
-[title] Viata-aceasta nu e decat vis
-[sequence] 1,2,3,4
+[title]
+Viața-aceasta nu e decât vis
+[sequence]
+1,2,3,4
 [1]
 Viața-aceasta nu e decât vis,
 Ce frumos va fi în Paradis,
@@ -9,7 +11,6 @@ Mereu deschis.
 /: Deschis, da, deschis :/
 Domnul te primește cu-al Său braț
 Mereu deschis.
-
 [2]
 Domnul te îmbie-acum să vii,
 Nu tot amâna zi după zi
@@ -19,7 +20,6 @@ Te poate mântui.
 /: Poate mântui :/
 Azi, nu mâine, brațul Său
 Te poate mântui.
-
 [3]
 Azi e timpul cel mai prețios
 Pentru orice suflet păcătos.
@@ -27,7 +27,6 @@ Pentru tine, sus pe Golgota, muri Hristos.
 
 /: Hristos, da, Hristos :/
 Pentru tine, sus pe Golgota, muri Hristos!
-
 [4]
 Ia privește floarea de pe câmp
 Spune, frate, ce ți-ai pus în gând?

@@ -1,5 +1,7 @@
-[title] Sa nu merg dup-un strain
-[sequence] 1,2,3,4
+[title]
+Să nu merg dup-un străin
+[sequence]
+1,2,3,4
 [1]
 Să nu merg dup-un străin,
 Doamne, niciodată

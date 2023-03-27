@@ -1,5 +1,7 @@
-[title] Am o pace ca o mare
-[sequence] 1,2,3,4,5
+[title]
+Am o pace ca o mare
+[sequence]
+1,2,3,4,5
 [1]
 /: Am o pace ca o mare :/ 3x
 În inima mea.

@@ -1,12 +1,13 @@
-[title] Cel minunat Salvatorul
-[sequence] 1,c,2,c,3,c
+[title]
+Cel minunat Salvatorul
+[sequence]
+1,c,2,c,3,c
 [1]
 Cel minunat, Salvatorul
 Sfântul Prieten și Domn,
 Cine-a crezut că e Mielul
 Ce moare pentru om?
 O, da, ce moare pentru om.
-
 [chorus]
 Tu ești Cel vrednic de slavă,
 Cel vrednic de-a fi iubit,
@@ -19,7 +20,6 @@ Duh după care tânjim
 Când ne luptăm plini de temeri,
 Ne-ai dat nădejdi și-alin,
 O, da, ne-ai dat nădejdi și-alin.
-
 [3]
 Atotputernic Părinte,
 Tu ne-ai iubit din vecii.

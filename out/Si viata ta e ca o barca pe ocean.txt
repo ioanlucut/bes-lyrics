@@ -1,5 +1,7 @@
-[title] Si viata ta e ca o barca pe ocean
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Și viața ta e ca o barcă pe ocean
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Și viața ta e ca o barcă pe ocean
 Ce zi și noapte merge întruna spre liman.

@@ -1,5 +1,7 @@
-[title] Nu lasa să treaca vremea
-[sequence] 1,c,2,c,3,c
+[title]
+Nu lăsa să treacă vremea
+[sequence]
+1,c,2,c,3,c
 [1]
 Nu lăsa să treacă vremea
 Trece însăși viața ta!

@@ -1,5 +1,7 @@
-[title] Daca vei vrea să primesti
-[sequence] 1,c,2,c,3,c
+[title]
+Dacă vei vrea să primești cununa ta din veșnicii
+[sequence]
+1,c,2,c,3,c
 [1]
 Dacă vei vrea să primești cununa ta din veșnicii,
 Caută-L pe Dumnezeu, fiul Său de azi vei fi.

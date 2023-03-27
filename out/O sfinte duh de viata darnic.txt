@@ -1,5 +1,7 @@
-[title] O Sfinte Duh de viata darnic
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+O Sfinte Duh de viață darnic
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 O, Sfinte Duh de viață darnic,
 Ce inimile le-ncălzești,

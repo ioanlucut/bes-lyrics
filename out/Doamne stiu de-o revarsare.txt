@@ -1,5 +1,7 @@
-[title] Doamne stiu de-o revarsare
-[sequence] 1,2,3,4,5
+[title]
+Doamne știu de-o revărsare
+[sequence]
+1,2,3,4,5
 [1]
 Doamne, știu de-o revărsare
 De Duh Sfânt și limbi de foc

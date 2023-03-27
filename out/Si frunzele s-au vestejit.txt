@@ -1,5 +1,7 @@
-[title] Si frunzele s-au vestejit
-[sequence] 1,c,2,t,3,e
+[title]
+Și frunzele s-au veștejit
+[sequence]
+1,c,2,t,3,e
 [1]
 Și frunzele s-au veștejit,
 Căci, iată, toamna a venit.

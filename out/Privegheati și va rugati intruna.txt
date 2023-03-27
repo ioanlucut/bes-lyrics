@@ -1,5 +1,7 @@
-[title] Privegheati și va rugati intruna
-[sequence] 1,c,2,c,3,c,4,c
+[title]
+Privegheați și vă rugați întruna
+[sequence]
+1,c,2,c,3,c,4,c
 [1]
 Privegheați și vă rugați întruna
 Domnul vine în curând.

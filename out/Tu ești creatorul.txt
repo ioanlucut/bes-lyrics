@@ -1,5 +1,7 @@
-[title] Tu ești Creatorul
-[sequence] 1,c,2,c
+[title]
+Tu ești Creatorul Universului întreg
+[sequence]
+1,c,2,c
 [1]
 Tu ești Creatorul Universului întreg
 Tu ești început şi întregire tuturor

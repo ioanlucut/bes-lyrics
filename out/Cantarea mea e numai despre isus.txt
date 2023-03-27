@@ -1,5 +1,7 @@
-[title] Cantarea mea e numai despre Isus
-[sequence] 1,c,2,c,3,c
+[title]
+Cântarea mea e numai despre Isus
+[sequence]
+1,c,2,c,3,c
 [1]
 Cântarea mea e numai despre Isus,
 Cerescul Fiu al Tatălui slăvit;

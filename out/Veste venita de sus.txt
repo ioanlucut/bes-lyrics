@@ -1,5 +1,7 @@
-[title] Veste venita de sus
-[sequence] c,1,c,2,c
+[title]
+Vestea venită de sus
+[sequence]
+c,1,c,2,c
 [1]
 Vestea venită de sus
 Se naște Domnul Isus

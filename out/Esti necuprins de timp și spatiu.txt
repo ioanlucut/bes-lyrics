@@ -1,5 +1,7 @@
-[title] Esti necuprins de timp și spatiu
-[sequence] 1,c,2,c,3,c
+[title]
+Ești necuprins de timp și spațiu
+[sequence]
+1,c,2,c,3,c
 [1]
 Ești necuprins de timp și spațiu,
 De-orice gândire mai presus,
@@ -10,7 +12,6 @@ Deasupra tuturor, o, Doamne,
 Cu măreție strălucești,
 Cu-nțelepciunea-Ți fără margini
 În orice clipă mă uimești.
-
 [chorus]
 Din veșnicie ești același,
 Iehova e Numele Tău.
@@ -27,7 +28,6 @@ Ești Tatăl nostru bun și mare
 Ce ne dai pâine zi de zi,
 Și adunarea-n sărbătoare
 Îți cântă sfinte melodii.
-
 [3]
 În fața măreției Tale se-nchină orice muritor,
 Ți se înalță osanale, Atotputernic Creator.

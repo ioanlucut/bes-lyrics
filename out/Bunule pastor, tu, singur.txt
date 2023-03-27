@@ -1,5 +1,7 @@
-[title] Bunule Pastor, Tu, singur
-[sequence] 1,c,2,c,3,c,4,c,5,c
+[title]
+Bunule Păstor Tu singur
+[sequence]
+1,c,2,c,3,c,4,c,5,c
 [1]
 Bunule Păstor, Tu, singur
 În prăpăstii m-ai găsit;
