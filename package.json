@@ -18,7 +18,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run:validate": "ts-node ./lyricsTextValidator.ts"
+    "verify": "ts-node ./lyricsTextValidator.ts"
   },
   "author": "Ioan Lucuț",
   "license": "ISC"

@@ -1,0 +1,56 @@
+[title]
+__Test
+
+[sequence]
+1,c
+
+[1]
+space-not-expected-before țtext
+space-not-expected-before Îtext
+space-not-expected-before âtext
+space-not-expected-before îtext
+space-not-expected-before ătext
+space-not-expected-before Âtext
+space-not-expected-before Ștext
+space-not-expected-before ștext
+space-not-expected-before Ătext
+space-not-expected-before Țtext
+space-not-expected-before țtext
+space-not-expected-before -text
+space-not-expected-before ’text
+space-not-expected-before ”text
+space-not-expected-before „text
+
+[2]
+textț single-space-expected-after-this
+textÎ single-space-expected-after-this
+textâ single-space-expected-after-this
+textî single-space-expected-after-this
+textă single-space-expected-after-this
+textÂ single-space-expected-after-this
+textȘ single-space-expected-after-this
+textș single-space-expected-after-this
+textĂ single-space-expected-after-this
+textȚ single-space-expected-after-this
+textț single-space-expected-after-this
+text- single-space-expected-after-this
+text’ single-space-expected-after-this
+text” single-space-expected-after-this
+text„ single-space-expected-after-this
+
+[3]
+end-of-line-works-without-extra-space-textț
+end-of-line-works-without-extra-space-textÎ
+end-of-line-works-without-extra-space-textâ
+end-of-line-works-without-extra-space-textî
+end-of-line-works-without-extra-space-textă
+end-of-line-works-without-extra-space-textÂ
+end-of-line-works-without-extra-space-textȘ
+end-of-line-works-without-extra-space-textș
+end-of-line-works-without-extra-space-textĂ
+end-of-line-works-without-extra-space-textȚ
+end-of-line-works-without-extra-space-textț
+end-of-line-works-without-extra-space-text-
+end-of-line-works-without-extra-space-text’
+end-of-line-works-without-extra-space-text”
+end-of-line-works-without-extra-space-text„
