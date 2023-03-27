@@ -1,11 +1,11 @@
 [title]
-Numele Tău e 'nălțat printre neamuri e lăudat
+Numele Tău e ’nălțat printre neamuri e lăudat
 
 [sequence]
 1,c,2,c,b,c
 
 [1]
-Numele Tău e 'nălțat, printre neamuri e lăudat
+Numele Tău e ’nălțat, printre neamuri e lăudat
 Puterea Ta este vestită pe-ntreg pământ.
 Vrednic de cinste ești Tu, se cuvine să ne-nchinăm
 Înaintea Ta, în fața Ta Doamne!

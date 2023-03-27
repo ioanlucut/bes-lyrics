@@ -1,11 +1,11 @@
 [title]
-Viața făr' de Tine Tată ceresc
+Viața făr’ de Tine Tată ceresc
 
 [sequence]
 1,c,2,t
 
 [1]
-Viața făr' de Tine Tată ceresc,
+Viața făr’ de Tine Tată ceresc,
 Este doar deșertăciune,
 Numai Tu poți da vieții un sens,
 Ca să trăiesc pentru Tine.

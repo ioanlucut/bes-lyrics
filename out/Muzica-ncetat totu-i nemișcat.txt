@@ -1,5 +1,5 @@
 [title]
-Muzica-ncetat totu-i nemișcat
+Muzica-ncetatÂĂ totu-i nemișcat
 
 [sequence]
 1,p,c,1,p,c

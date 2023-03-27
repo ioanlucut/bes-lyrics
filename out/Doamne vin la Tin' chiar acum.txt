@@ -1,11 +1,11 @@
 [title]
-Doamne vin la Tin' chiar acum
+Doamne vin la Tin’ chiar acum
 
 [sequence]
 1,c,2,c,e
 
 [1]
-Doamne, vin la Tin' chiar acum
+Doamne, vin la Tin’ chiar acum
 Ruga mea, dorul meu să Ți-l spun
 În orice zi eu vin
 Viața mea chiar acum să Ți-o închin.

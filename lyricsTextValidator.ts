@@ -6,7 +6,10 @@ import * as process from 'process';
 const OUTPUT_DIR = './out';
 const EMPTY_STRING = '';
 
-const ALLOWED_CHARS = `!(),-./1234567890:;?ABCDEFGHIJLMNOPRSTUVZ[\\]abcdefghijlmnopqrstuvwxzÎâîăȘșȚț–’”„`;
+const ALLOWED_CHARS =
+  ` !(),-./1234567890:;?ABCDEFGHIJLMNOPRSTUVZ[\\]abcdefghijlmnopqrstuvwxzÎâîăÂȘșĂȚț–’”„\n\r`.split(
+    EMPTY_STRING,
+  );
 
 const verifyChars = (fileNames: string[]) =>
   fileNames.map((fileName) => {
@@ -15,18 +18,16 @@ const verifyChars = (fileNames: string[]) =>
     return _.uniq(fs.readFileSync(filePath).toString());
   });
 
-(async () => {
-  const chars = _.flattenDeep(verifyChars(fs.readdirSync(OUTPUT_DIR)));
-  const uniqueChars = _.uniq(chars).filter(Boolean).sort().join(EMPTY_STRING);
-  console.log(`The found unique chars are: ${uniqueChars}`);
+// ---
+// RUN
+// ---
 
-  const difference = _.difference(uniqueChars, ALLOWED_CHARS);
+const chars = _.flattenDeep(verifyChars(fs.readdirSync(OUTPUT_DIR)));
+const uniqueChars = _.uniq(chars).filter(Boolean).sort();
+const difference = _.difference(uniqueChars, ALLOWED_CHARS);
 
-  if (!_.isEmpty(difference)) {
-    console.log(
-      `The difference between the allowed and found is: ${difference}`,
-    );
+if (!_.isEmpty(difference)) {
+  console.log(`The difference between the allowed and found is: "${difference}"`);
 
-    process.exit(1);
-  }
-})();
+  process.exit(1);
+}

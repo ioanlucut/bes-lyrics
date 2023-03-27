@@ -1,11 +1,11 @@
 [title]
-Am fost căzut în păcat și făr'delege
+Am fost căzut în păcat și făr’delege
 
 [sequence]
 1,c,2,c,3,c,4,c
 
 [1]
-Am fost căzut în păcat și făr'delege
+Am fost căzut în păcat și făr’delege
 Căzut, înfășurat în groapa de păcat
 Am fost căzut și-nfășurat în fărdelege,
 /: Dar Dumnezeu :/ El m-a salvat.
