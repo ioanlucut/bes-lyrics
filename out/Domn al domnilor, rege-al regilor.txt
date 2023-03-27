@@ -1,5 +1,5 @@
 [title]
-Domn al domnilor Rege-al regilor
+Domn al domnilor Rege-al regilor este Dumnezeu, Împărătul meu
 [sequence]
 1,c,1,c,t
 [1]

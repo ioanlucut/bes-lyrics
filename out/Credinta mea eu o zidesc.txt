@@ -1,5 +1,5 @@
 [title]
-Credința mea eu o zidesc
+Credința mea eu o zidesc, cine în El se încrede
 [sequence]
 1,c,2,c,3,c,4,c
 [1]
