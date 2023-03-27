@@ -1,7 +1,9 @@
 [title]
 Cred în Dumnezeu ca Tată
+
 [sequence]
 1,c,2,c
+
 [1]
 Cred în Dumnezeu ca Tată,
 În Isus Hristos ca Fiu,
@@ -18,6 +20,7 @@ Trupul I-a fost îngropat.
 Cred că a-nviat, precum a zis,
 Și viu s-a arătat
 De aceea, la El am alergat.
+
 [chorus]
 /: Am luat hotărârea, înapoi nu voi da!
 Cu privirea doar la cruce,
@@ -25,6 +28,7 @@ Lumea-n spate-o voi lăsa.
 Nu-mi va fi deloc rușine
 Să afirm că sunt creștin.
 Voi sluji mereu prin harul Său divin. :/
+
 [2]
 Cred Cuvântul care spune
 Trebuie să te naști din nou

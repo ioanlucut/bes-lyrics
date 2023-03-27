@@ -1,12 +1,15 @@
 [title]
 Sângele Tău m-a curățit
+
 [sequence]
 1,c,1,c
+
 [1]
 Sângele Tău m-a curățit
 Sângele Tău m-a mântuit
 Sângele Tău viață mi-a dat
 Ai murit ca eu să fiu iertat.
+
 [chorus]
 /: Îmi ridic azi mâinile
 Mă închin în fața Ta

@@ -1,20 +1,26 @@
 [title]
 Se cuvine să Te laud Domnul meu
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Se cuvine să Te laud Domnul meu
 Se cuvine să Te laud tot mereu.
+
 [chorus]
 /: Sunt dator și se cuvine
 Cine altul decât Tine
 M-a iubit și mă iubește tot mereu :/
+
 [2]
 Zi de zi vreau să Te laud Domnul meu
 Zi de zi vreau să Te laud tot mereu.
+
 [3]
 În tot timpul să Te laud Domnul meu
 În tot timpul să Te laud tot mereu.
+
 [4]
 Se cuvine să Te laud Domnul meu
 Sunt dator ca să Te laud tot mereu.

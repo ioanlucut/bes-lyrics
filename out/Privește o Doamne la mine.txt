@@ -1,32 +1,39 @@
 [title]
 Privește o Doamne la mine
+
 [sequence]
 1,2,3,4,5,6
+
 [1]
 Privește, o, Doamne, la mine
 Căci eu Te chem din mari nevoi
 /: Ascult-ascultă-mi rugăciunea,
 Leagă-mi rănile cari mă dor! :/
+
 [2]
 Fă ca să capăt alinare
 Și ușurare în necaz,
 /: O, adă-mi pacea Ta, Isuse,
 Și mângâie-mi plânsul pe-obraz! :/
+
 [3]
 De-am rătăcit pe căi străine
 Și Te-am pierdut, o, Domnul meu,
 /: Apari acum în a mea cale
 Și mă-ndreaptă pe drumul Tău! :/
+
 [4]
 Ca să nu cad de oboseală,
 Mă sprijinește-o, Domnul meu!
 /: Căci sunt o mână de țărână,
 Sunt doar un mic urmaș al Tău. :/
+
 [5]
 Și ca să lupt, eu nu pot singur.
 O, vino-n ajutorul meu,
 /: Căci eu sunt slab, dulce Isuse,
 Și drumu-i zi de zi mai greu. :/
+
 [6]
 O, de-mi vei asculta strigarea
 Și plânsul meu, Doamne, nespus,

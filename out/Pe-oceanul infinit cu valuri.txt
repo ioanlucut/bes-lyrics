@@ -1,7 +1,9 @@
 [title]
 Pe-oceanul infinit cu valuri
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Pe-oceanul infinit cu valuri,
 Grija m-a cuprins
@@ -12,11 +14,13 @@ Lovit de valuri sunt mereu,
 Dar mai nădăjduiesc
 În Tine, Doamne, mă încred,
 Pe Tine Te iubesc!
+
 [chorus]
 Mă încred în Tine, Doamne,
 Orișice s-ar întâmpla.
 Toată viața mea, Isuse,
 Te voi binecuvânta.
+
 [2]
 Pe-oceanul infinit cu valuri,
 Noaptea m-a cuprins
@@ -27,6 +31,7 @@ Privesc în noapte, singur sunt,
 N-am nici un ajutor,
 Lovit de valuri sunt, Isus,
 Vino, fii Salvator!
+
 [3]
 Din depărtări zăresc lumina
 Acolo eu plutesc,

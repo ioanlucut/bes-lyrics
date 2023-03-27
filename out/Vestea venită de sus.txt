@@ -1,7 +1,9 @@
 [title]
 Vestea venită de sus
+
 [sequence]
 c,1,c,2,c
+
 [1]
 Vestea venită de sus
 Se naște Domnul Isus
@@ -9,6 +11,7 @@ Printr-o fecioară sfântă, ce minunat
 S-a împărțit istoria
 Cerul cântă gloria Sa
 Coboară printre oameni, pacea Sa.
+
 [chorus]
 Sfânt Fiu de Dumnezeu
 Isus, Emanuel
@@ -16,6 +19,7 @@ Isus, Emanuel
 Din slavă la Betleem
 În iesle ai venit
 Ce har și mântuire am primit.
+
 [2]
 Popoare și regi s-au dus
 Dar veșnic rămâne Isus

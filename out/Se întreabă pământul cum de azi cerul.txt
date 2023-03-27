@@ -1,38 +1,46 @@
 [title]
 Se întreabă pământul cum de azi cerul
+
 [sequence]
 1,p,c,2,q,t,e
+
 [1]
 Se întreabă pământul cum de azi cerul
 Este-așa tăcut.
 Unde-i oare dreptatea să-mpiedice moartea,
 Unde s-a ascuns?
+
 [prechorus]
 Se-ntărâtă oamenii, se-nspăimântă demonii,
 Printre bice-nsângerat, ochii Săi au luminat.
 Cine oare a știut că acel sărman bătut
 E Isus?
+
 [chorus]
 Credeam atunci că e lovit,
 Pierdut pe veci și părăsit, pe veci zdrobit.
 Dar El purta durerea mea,
 Atunci când crucea I-a fost grea,
 El mă iubea, mă iubea!
+
 [2]
 Cu o cruce în spate, alungat din cetate,
 Ei L-au condamnat.
 Printre lacrimi cu sânge, ce inima-ți frânge,
 El n-a renunțat.
+
 [prechorus 2]
 Cu piroane L-au străpuns, ca un miel stătea Isus,
 Când pământul tremura, boldul morții învingea.
 De pe cruce, în mormânt, toți credeau ca e înfrânt,
 Dar a înviat!
+
 [chorus 2]
 /: Hristos din morți a înviat,
 Iubirea Lui a triumfat, cu adevărat
 E viu și astăzi printre noi
 Ridică oameni din nevoi, Isus Hristos :/
+
 [ending]
 E cu noi, e cu noi
 A-nviat!

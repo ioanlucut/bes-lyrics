@@ -1,17 +1,21 @@
 [title]
 Isus m-ai cuprins din necuprins
+
 [sequence]
 1,2,3
+
 [1]
 Isus, m-ai cuprins din necuprins,
 Isus, viață-n mine ai aprins,
 Isus m-ai iubit și m-ai salvat,
 Să fii veșnic, veșnic lăudat!
+
 [2]
 Isus, pentru orbi lumină ai,
 Isus, celor muți Tu le dai grai,
 Isus, șchiopii iarăși au umblat,
 Tu ești medic, medic minunat.
+
 [3]
 Isus, ești păstor celor pierduți,
 Isus, apărător celor micuți,

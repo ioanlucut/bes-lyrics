@@ -1,7 +1,9 @@
 [title]
 Doamne astăzi vin
+
 [sequence]
 1,c,2,c
+
 [1]
 Doamne astăzi vin
 În fața Ta să mă închin
@@ -9,12 +11,14 @@ Ca să fiu umplut de har Divin.
 Prin lumina Ta
 Aș vrea mai mult să îmi cunosc
 Slăbiciunile, și să cresc în iubirea Ta.
+
 [chorus]
 Cheamă-mă și voi veni la Tine
 Când sunt slab, Tu mă sprijinești
 Ca vulturul spre ceruri mă voi înălța
 Și veșnic voi trăi, mereu voi locui
 Prin iubirea Ta.
+
 [2]
 Doamne vreau să fiu
 În stare să-nțeleg cum eşti

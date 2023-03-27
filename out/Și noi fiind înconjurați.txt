@@ -1,7 +1,9 @@
 [title]
 Și noi fiind înconjurați
+
 [sequence]
 1,2,3,4,5,6,7
+
 [1]
 Și noi, fiind înconjurați
 De-un nor așa de martori
@@ -9,6 +11,7 @@ De-un nor așa de martori
 Privind spre malul celălalt
 Așa creștinii au luptat
 Ei nu s-au dat în lături :/
+
 [2]
 Să le urmăm c-un dor nespus
 Credința lor supremă
@@ -16,6 +19,7 @@ Credința lor supremă
 Creștinii noștrii ce s-au stins
 De dorul Lui au fost cuprinși
 Mergeau cântând pe-arene :/
+
 [3]
 Când legile i-amenințau
 Și-atunci ei n-aveau frică
@@ -23,6 +27,7 @@ Când legile i-amenințau
 Pe mici și mari îi sfâșiau
 Dar ei de dor mai mult ardeau
 Nici de-asta n-aveau frică :/
+
 [4]
 De foame istoviți, de frig,
 Ei pribegeau departe
@@ -30,6 +35,7 @@ Ei pribegeau departe
 Prin temniță în fier legați
 Lovit mai crud și-amenințați
 De Domnul nu-i desparte :/
+
 [5]
 Cântau al mântuirii cânt
 Mergând pe orice cale
@@ -37,6 +43,7 @@ Mergând pe orice cale
 În subterane toți cântând
 Celui ce zice „Vin curând,
 Vegheați în așteptare” :/
+
 [6]
 Căci am să vin ca și un hoț
 În noaptea cea târzie
@@ -44,6 +51,7 @@ Căci am să vin ca și un hoț
 Și atunci Eu n-am să vin ca hoț
 Când voi striga la voi, la toți
 „Mireasa Mea să vină!” :/
+
 [7]
 În vremea ce ne-a mai rămas
 Să stăm în așteptare

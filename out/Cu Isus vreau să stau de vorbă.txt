@@ -1,7 +1,9 @@
 [title]
 Cu Isus vreau să stau de vorbă
+
 [sequence]
 1,2,3
+
 [1]
 Cu Isus vreau să stau de vorbă
 Atunci când suntem numai noi
@@ -12,6 +14,7 @@ Să-I spun ce n-am mai spus la nimeni
 Și să-I spun Lui tot
 Și să-I dau Lui sarcina
 Ca să n-o mai port :/
+
 [2]
 Din câți vorbitu-mi-au pe lume,
 Mai drag ca El pe nimeni n-am,
@@ -22,6 +25,7 @@ Pe-acest /: Isus aș vrea să-L am :/
 Din inima mea,
 Și tot ce-aş avea mai scump
 Lui Isus I-aș da :/
+
 [3]
 Iubesc privirea Lui cea blândă
 Și vocea Lui vreau s-o ascult,

@@ -1,12 +1,15 @@
 [title]
 Inimi pline de speranță mântuire siguranță
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Inimi pline de speranță, mântuire, siguranță
 Iată vestea: S-a născut Isus!
 Bucurie, pace sfântă, magii se-nchină, îngeri cântă
 Iată vestea: S-a născut Isus!
+
 [chorus]
 Îți mulțumim că ai venit
 Profeți din timp, Te-au profețit
@@ -14,6 +17,7 @@ Că vei veni ca Domn și Împărat
 Din ceruri, slavă lui Hristos
 Și pace între oameni jos
 Părinte drag să fii glorificat.
+
 [2]
 Coruri sfinte Te măresc
 Pruncule Dumnezeiesc
@@ -21,6 +25,7 @@ Azi în inimi S-a născut Isus.
 Pacea Ta, iubirea sfântă,
 Harul Tău, ne binecuvântă
 Azi în inimi, S-a născut Isus.
+
 [3]
 Ne-a adus din cer lumina
 A venit să ne ia vina

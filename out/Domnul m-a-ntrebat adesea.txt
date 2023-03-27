@@ -1,7 +1,9 @@
 [title]
 Domnul m-a-ntrebat adesea
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Domnul m-a-ntrebat adesea:
 „Vrei să fii voios?”
@@ -12,6 +14,7 @@ După multă-mpotrivire,
 Eu L-am ascultat
 Pace sfântă, bucurie-n suflet
 El mi-a dat.
+
 [chorus]
 /: Aleluia! Aleluia!
 Imnurile bucuriei
@@ -19,6 +22,7 @@ Sună ne-ncetat.
 Aleluia! Aleluia!
 Pacea Sa cea minunată,
 Pentru veci mi-a dat :/
+
 [2]
 Astăzi, chem pe cei ce-n lume
 Nu sunt fericiți
@@ -29,6 +33,7 @@ Domnul Isus îi sfințește-n
 Sângele Lui sfânt
 Schimbă gândul, vorba, fapta,
 Prin al Său Cuvânt.
+
 [3]
 Dacă vrei și tu, amice,
 Poți să Îl primești

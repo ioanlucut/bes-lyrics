@@ -1,7 +1,9 @@
 [title]
 Pleacă-ți genunchii Isus e-aici
+
 [sequence]
 1,c,2,c
+
 [1]
 Pleacă-ți genunchii, Isus e-aici
 Ridică mâini curate spre cer
@@ -12,10 +14,12 @@ Slava se coboară din cer.
 Spălat prin sângele Mielului
 Vino cu cântări de mărire
 Osana, Mielului Preasfânt.
+
 [chorus]
 /: Rege-al regilor,
 Domn al domnilor
 Isus, Isus, Isus, Isus :/
+
 [2]
 Vino cu povara din viața ta
 Durerea ce te-apasă mereu

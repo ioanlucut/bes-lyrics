@@ -1,10 +1,13 @@
 [title]
 Aleluia Agnus Dei
+
 [sequence]
 1,c,1,c
+
 [1]
 /: Aleluia, Aleluia
 Domnul nostru domnește în veci. :/
+
 [chorus]
 Aleluia
 Tu eşti sfânt, eşti sfânt,

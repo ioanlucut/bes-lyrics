@@ -1,7 +1,9 @@
 [title]
 Ai auzit vreodată prietene de Mine
+
 [sequence]
 1,2,3
+
 [1]
 Ai auzit vreodată, prietene, de Mine
 Pe când în largul lumii cutreierai semeț?
@@ -12,6 +14,7 @@ Ai auzit vreodată, prietene, de Mine
 Când floarea vieții tale își scutura podoaba?...
 Ca să te scap de lanțuri, de moarte și rușine,
 Eu am murit pe cruce, în locul tău, Baraba
+
 [2]
 Eu răsădisem pacea, tu semănai furtuna
 Și pe-amândoi mulțimea ne-a pus pe un cântar
@@ -22,6 +25,7 @@ Puteam să zbor din lume, sătul de-a ei urgie,
 Și-atunci mulţimea oarbă te-ar fi cerut degeaba,
 Dar M-am gândit la tine privind spre venicie,
 Și am murit pe cruce, în locul tău, Baraba!
+
 [3]
 Te chem și astăzi... Vino și vom străbate norii!
 Te-am căutat cu lacrimi prin spini și bolovani,

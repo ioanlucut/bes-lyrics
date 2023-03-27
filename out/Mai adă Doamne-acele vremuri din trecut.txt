@@ -1,7 +1,9 @@
 [title]
 Mai adă Doamne-acele vremuri din trecut
+
 [sequence]
 1,2,3,4
+
 [1]
 Mai adă Doamne-acele vremuri din trecut,
 Acele vremi de pocăință
@@ -11,6 +13,7 @@ Iar Duhul Sfânt ne aduna
 Când la sclipitul stelelor
 Ne întâlneam cu-atâta dor
 O, dulce-i vremea stăruinței.
+
 [2]
 Mai adă, Doamne, și azi oameni ca-n trecut,
 Mai adă harul de-altă dată
@@ -20,6 +23,7 @@ Cu conștiința nepătată
 Ce zi și noapte se rugau
 Și chiar la moarte se duceau
 Pentru credința-adevărată.
+
 [3]
 Mai adă, Doamne, același dor de casa Ta,
 Mai adă aceeași sete sfântă
@@ -29,6 +33,7 @@ Te întâlneam, Isuse dragă
 Împinși de-același sfânt fior
 Ne adunam l-al Tău izvor
 Și ne zideam casa pe stâncă.
+
 [4]
 Mai adă, Doamne, și azi semne și minuni,
 Ce le făceai Tu altă dată

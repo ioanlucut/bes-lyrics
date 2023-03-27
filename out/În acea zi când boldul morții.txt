@@ -1,7 +1,9 @@
 [title]
 În acea zi când boldul morții
+
 [sequence]
 1,c,2,c,b,3,c
+
 [1]
 În acea zi, când boldul morții
 A fost frânt sub crucea lui Isus
@@ -12,21 +14,25 @@ Fruntea Lui purta coroana
 Regelui ce-a luat pedeapsa mea
 N-a spus nimic, iubind nespus
 Murea Isus.
+
 [chorus]
 Crucea Lui salvarea mea
 Azi trăiesc prin jertfa Sa
 Sângele-I m-a curățit
 El rămâne apararea mea.
+
 [2]
 Răsăritul învierii
 Risipește noaptea de păcat
 Am fost salvați, descătușați,
 Eliberați.
+
 [bridge]
 Aleluia, aleluia
 Isus a-nviat
 Aleluia, aleluia
 El e înălțat!
+
 [3]
 Într-o zi El se va-ntoarce
 Revelând deplin domnia Sa

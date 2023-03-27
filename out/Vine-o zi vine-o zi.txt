@@ -1,7 +1,9 @@
 [title]
 Vine-o zi vine-o zi
+
 [sequence]
 1,c,2,c
+
 [1]
 Vine-o zi, vine-o zi
 Când dureri nu vor mai fi
@@ -10,6 +12,7 @@ Lacrimi ochii n-or umbri.
 Va fi pace-n veci de veci,
 Când, în ceruri, ai să pleci
 O, ce zi, ce glorioasă va fi.
+
 [chorus]
 /: Oare-atunci cum va fi,
 Fața când Îi vom privi,
@@ -18,6 +21,7 @@ Chiar noi, salvați prin jertfa Sa
 Când de mână ne va lua
 Și ne va duce-n țara Sa,
 O, ce zi, ce glorioasă va fi :/
+
 [2]
 Nu vor fi, nu vor fi
 Greutăți, dureri de dus,

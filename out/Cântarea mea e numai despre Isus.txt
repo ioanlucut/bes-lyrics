@@ -1,22 +1,27 @@
 [title]
 Cântarea mea e numai despre Isus
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Cântarea mea e numai despre Isus,
 Cerescul Fiu al Tatălui slăvit;
 El a venit păcatul să mi-l șteargă
 Când, la Calvar, pe cruce a murit.
+
 [chorus]
 Cântarea mea e numai despre Isus
 Ce-n locul meu pedeapsa a purtat;
 Și-n versul ei, cântarea mea va spune,
 Ce fericiri și bogății mi-ai dat!
+
 [2]
 Cămașa Lui, stropită-n sfântul sânge,
 Crucea și spinii cu păcatul meu,
 Mormântul gol, speranța revederii,
 Despre aceasta voi cânta mereu.
+
 [3]
 Cântarea mea va fi doar despre Isus
 Chiar peste rău, odată-n veșnicii;

@@ -1,7 +1,9 @@
 [title]
 Deschide-mi ochii
+
 [sequence]
 1,e
+
 [1]
 /: Deschide-mi ochii,
 Vreau să Te văd, Isus!
@@ -11,6 +13,7 @@ Să-Ți spun că Te iubesc,
 Cu dor să Te-asculte
 Deschide-mi ochii,
 Vreau să Te văd, Isus :/
+
 [ending]
 Deschide-mi ochii,
 Vreau să Te văd, Isus :/

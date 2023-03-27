@@ -1,7 +1,9 @@
 [title]
 Bunătatea Ta eternă
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Bunătatea Ta eternă,
 Doamne, Dumnezeul meu,
@@ -12,8 +14,10 @@ Ea mă scapă de povară,
 Când mi-e sufletu-apăsat
 Și mă ușurează iarăși,
 /: Ca s-alerg mai avântat :/
+
 [chorus]
 /: Bunătatea Ta, bunătatea Ta! :/
+
 [2]
 Bunătatea Ta mă-ndeamnă
 Grabnic să mă pocăiesc,
@@ -24,6 +28,7 @@ Ea mă-ndeamnă înspre cruce,
 Spre Isus cel răstignit,
 Să-nțeleg că El aduce
 /: Pace-n duhul meu trudit :/
+
 [3]
 Bunătatea Ta-mi gătește
 Un preadulce viitor

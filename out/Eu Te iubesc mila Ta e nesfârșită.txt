@@ -1,22 +1,27 @@
 [title]
 Eu Te iubesc mila Ta e nesfârșită
+
 [sequence]
 1,c,2,c,b,c
+
 [1]
 Eu Te iubesc, mila Ta e nesfârșită
 Zi de zi Tu mă ții în mâna Ta.
 Din zorii dimineții și până când adorm
 Vreau să cânt bunătatea Ta.
+
 [chorus]
 Tu mereu ai fost cu mine
 Doamne-ai fost mereu atât de bun!
 Și cât eu voi avea suflare
 Vreau să cânt bunătatea Ta.
+
 [2]
 Cu vocea Ta m-ai condus prin încercare
 Și-n noaptea grea lângă mine Tu ai fost
 Noi Te avem ca Tată, Te știm ca Prieten bun
 Am trăit în bunătatea Ta.
+
 [bridge]
 /: Isus, mă copleșești cu bunătatea Ta
 Mă aplec acum, Ție mă închin

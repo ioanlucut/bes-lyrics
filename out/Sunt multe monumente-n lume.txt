@@ -1,7 +1,9 @@
 [title]
 Sunt multe monumente-n lume
+
 [sequence]
 1,c,2,c
+
 [1]
 Sunt multe monumente-n lume
 Ce-s ridicate către cer
@@ -12,11 +14,13 @@ Al dragostei ce dăinuieşte
 Din veșnicii în veșnicii
 E ancora credinței vie
 Iertarea sfintei mântuiri.
+
 [chorus]
 /: Iubire, iertare
 O viaţă nouă-i Golgota
 E prețul pe care
 L-a plătit Isus pentru viața ta :/
+
 [2]
 Isus e jertfa ce-a fost dată
 Pentru-omenire pe pământ

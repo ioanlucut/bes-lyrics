@@ -1,7 +1,9 @@
 [title]
 Suntem aici în prezența Ta
+
 [sequence]
 1,c
+
 [1]
 Suntem aici în prezența Ta,
 O, Doamne, vrem să Te-ascultăm,
@@ -10,6 +12,7 @@ Duhul Tău cel Sfânt
 Revarsă-L peste noi, Isuse,
 Pacea Ta cerească,
 În inimi să locuiască, Isuse.
+
 [chorus]
 /: Ce mare, sfânt, măreț și minunat
 Ești Doamne, Dumnezeule prea-nalt

@@ -1,7 +1,9 @@
 [title]
 Hai spune-mi cine a biruit moartea
+
 [sequence]
 1,c,2,c
+
 [1]
 Hai, spune-mi cine a biruit moartea,
 Cine-a călcat peste ea?
@@ -12,11 +14,13 @@ Spune-mi cine a biruit frica,
 Cine-a călcat peste ea?
 Cine e Leul din Iuda,
 Scutul, tăria mea?
+
 [chorus]
 /: Aleluia, Aleluia, Aleluia,
 Isus este Domn
 Aleluia, Aleluia, Aleluia,
 Isus este Domn :/
+
 [2]
 Hai spune-mi cine a murit pentru mine,
 Cine-a murit pentru noi?

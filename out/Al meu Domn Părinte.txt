@@ -1,7 +1,9 @@
 [title]
 Al meu Domn Părinte
+
 [sequence]
 1,c,1,c
+
 [1]
 Al meu Domn, Părinte
 Nimeni ca Tine nu e
@@ -12,6 +14,7 @@ Refugiu, scăpare
 În brațul Tău eu găsesc
 Cu viața mea, cu tot ce am
 Totdeauna laudă-Ți voi da.
+
 [chorus]
 Strig către Tine, o, Doamne Te caut
 Tu eşti împăratul puterea Ți-o laud

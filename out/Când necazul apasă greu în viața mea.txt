@@ -1,12 +1,15 @@
 [title]
 Când necazul apasă greu în viața mea
+
 [sequence]
 1,c,2,c
+
 [1]
 Când necazul apasă greu în viața mea
 Și lacrimi fără număr cad în urma mea,
 Strig către Tine, Doamne, căci Tu ești Stânca mea
 Și-un adăpost în vreme grea.
+
 [chorus]
 Azi aleg să mă-ncred în Tine,
 Nu mai vreau în omul trecător,
@@ -15,6 +18,7 @@ Iar mâine-i nepăsător,
 Dar Tu, Doamne, Tu ești scutul meu,
 Tu ești slava mea,
 Pleacă-Ți urechea la ruga mea. :/
+
 [2]
 Când probleme par prea mari în fața mea,
 Și nu găsesc nicio rezolvare în calea mea,

@@ -1,13 +1,16 @@
 [title]
 Mai presus de orice de credință de-avânt
+
 [sequence]
 1,2,3,4
+
 [1]
 Mai presus de orice, de credință, de-avânt,
 De-orice dar care biruie firea,
 /: Mai presus de minuni,
 De puteri, de cununi,
 Mai presus de orice e iubirea :/
+
 [2]
 Prin credință răstorni
 Munți înalți și cetăți
@@ -15,6 +18,7 @@ Munți înalți și cetăți
 /: Dar, în cele cerești,
 Ești atât cât iubești
 Mai presus de orice e iubirea! :/
+
 [3]
 Dumnezeu e măreț,
 Gem în cale-I furtuni,
@@ -22,6 +26,7 @@ Se cutremură toată zidirea
 /: Dar, în susurul blând,
 Îl auzi murmurând:
 Mai presus de orice e iubirea! :/
+
 [4]
 Pregătiți-vă, stânci,
 Pentru templul etern!

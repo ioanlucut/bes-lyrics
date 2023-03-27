@@ -1,7 +1,9 @@
 [title]
 Spală-mi Doamne gândul
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Spală-mi, Doamne, gândul,
 Spală-mi, Doamne, viața,
@@ -9,6 +11,7 @@ Vreau să fiu curat și plăcut în fața Ta.
 Numai Tu urci zorii
 Și împrăștii ceața,
 Numai Tu ești scutul și răsplata mea.
+
 [chorus]
 Spală-mi Doamne gândul,
 Spală-mi Doamne viața,
@@ -16,12 +19,14 @@ Spală-mi Doamne viața,
 Numai Tu urci zorii
 Și împrăştii ceața,
 Numai Tu ești scutul sufletului meu.
+
 [2]
 Spală-mi Doamne gândul,
 Spală-mi Doamne viața,
 Ia din mintea mea orice gând al celui rău
 Fă să fiu ca Tine, să-Ți ascult povața,
 Și să pot privi mereu în ochii Tăi.
+
 [3]
 Spală-mi, Doamne, gândul,
 Spală-mi, Doamne, viața,

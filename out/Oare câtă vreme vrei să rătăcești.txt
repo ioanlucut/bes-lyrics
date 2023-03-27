@@ -1,12 +1,15 @@
 [title]
 Oare câtă vreme vrei să rătăcești
+
 [sequence]
 1,c,2,c,b,c
+
 [1]
 Oare câtă vreme vrei să rătăcești
 Până când chemarea Lui nesocotești
 Și pentru tine Domnul Isus a murit
 A suferit că te-a iubit.
+
 [chorus]
 /: Vino azi, vino azi
 Vino că Domnul te-așteaptă
@@ -14,11 +17,13 @@ Să-ți dea mântuire
 Vino azi, vino azi
 Vino că Domnul te-așteaptă
 Și azi cu iubire. :/
+
 [2]
 Vino azi la Domnul nu mai amâna
 Că mâine nu știi dacă viață vei avea
 Îngenunchează azi smerit l-al Său altar
 Cât mai e har, cât mai e har.
+
 [bridge]
 Și-aș vrea să-ți amintesc că Isus
 Curând va reveni

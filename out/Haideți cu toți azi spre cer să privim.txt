@@ -1,7 +1,9 @@
 [title]
 Haideți cu toți azi spre cer să privim
+
 [sequence]
 1,c,2,c
+
 [1]
 Haideți cu toți azi spre cer să privim
 Căci negura vremii se lasă
@@ -12,10 +14,12 @@ Desfrâul și ura azi lumea-au cuprins
 Familiile sunt destrămate
 Făclia-iubirii aruncată s-a stins
 Altarele sunt dărâmate.
+
 [chorus]
 Vine Domnul, Vine Domnul!
 Haideți toți să veghem
 Undelemn zi de zi să avem!
+
 [2]
 De astăzi cu toții-n veghere să stăm
 În rugă să cerem iertare

@@ -1,7 +1,9 @@
 [title]
 Domnul în ceruri domneşte
+
 [sequence]
 1,c,1,c
+
 [1]
 Domnul în ceruri domneşte
 Pe tron e aşezat,
@@ -10,6 +12,7 @@ Noi toți cu sfinte podoabe
 Stăm în prezența Sa
 Și-n timp ce Îi vom cânta
 Slava Lui vom vedea
+
 [chorus]
 /: Căci Domnu-i bun, El în veci iubește,
 Îndurarea Lui nu se va sfârși;

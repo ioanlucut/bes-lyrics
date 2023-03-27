@@ -1,7 +1,9 @@
 [title]
 Îmi va rămâne-n memorie-o zi
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Îmi va rămâne-n memorie-o zi,
 Când s-a schimbat viața mea.
@@ -12,11 +14,13 @@ Prieten bun, minunat, iubitor,
 Dorul mi l-a împlinit!
 Vesel voi spune măreața minune
 Cum Domnul meu m-a mântuit!
+
 [chorus]
 Glorii din cer în mine s-au revărsat
 Când, la Calvar, Isus m-a eliberat
 Povara mi s-a dus prin harul lui Isus
 Glorii din cer în mine s-au revărsat
+
 [2]
 Domnul sigiliul pe inimă-a pus
 Fiu în familia Sa
@@ -27,6 +31,7 @@ O, cât e de bine așa!
 Ca un sărman păcătos,
 Har mi-a dat mare schimbând a mea stare
 Prin Domnul meu, Isus Hristos.
+
 [3]
 Azi am o nouă nădejde de sus,
 Știu că sunt asigurat

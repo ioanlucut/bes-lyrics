@@ -1,22 +1,27 @@
 [title]
 Când lupta se-apropie te rog nu uita
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Când lupta se-apropie, te rog, nu uita:
 Războiul e al Domnului!
 Rămâi în picioare și nu dispera:
 Războiul e al Domnului!
+
 [chorus]
 Tu cântă-I glorie, laudă,
 Puterea e numai a Lui!
 Tu cântă-I glorie, laudă,
 Onoarea și cinstea-s a Lui!
+
 [2]
 Armură de slavă să-mbraci, dar să știi:
 Războiul e al Domnului!
 Ține sus Cuvântul și nu te clinti,
 Războiul e al Domnului!
+
 [3]
 În mijlocul luptei, tu cântă mereu:
 „Războiul e al Domnului!”,

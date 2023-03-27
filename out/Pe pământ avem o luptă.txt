@@ -1,7 +1,9 @@
 [title]
 Pe pământ avem o luptă
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Pe pământ avem o luptă
 Ce-n Cuvânt e arătată
@@ -12,6 +14,7 @@ Să luptăm cu râvnă mare
 Până Domnul va veni
 Căci prin orice încercare
 Doar luptând vom birui.
+
 [chorus]
 /: Hai luptă, frate, luptă
 Mai luptă nu te da bătut
@@ -22,6 +25,7 @@ Stai treaz și veghează întruna
 Până în zori de zi
 Atunci primi-vei cununa
 Când Domnul va veni. :/
+
 [2]
 Pregătiți să fim de luptă
 Scutul credinței să-l avem
@@ -32,6 +36,7 @@ Platoșa neprihănirii
 Să fie de-a pururi cu noi
 Pe cap coiful mântuirii
 Și râvna Evangheliei.
+
 [3]
 În slavă eternă vor fi
 Acei ce au învins

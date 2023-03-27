@@ -1,7 +1,9 @@
 [title]
 Mântuire am primit fără nici o plată
+
 [sequence]
 1,2,3
+
 [1]
 Mântuire am primit, fără nici o plată,
 Prin Isus cel răstignit, fără nici o plată.
@@ -9,6 +11,7 @@ Prin Isus cel răstignit, fără nici o plată.
 Și cu Tatăl împăcați,
 De păcate toți iertați,
 Fără nicio plată. :/
+
 [2]
 Pe Golgota S-a jertfit, fără nici o plată,
 Domnul care ne-a iubit, fără nici o plată.
@@ -16,6 +19,7 @@ Domnul care ne-a iubit, fără nici o plată.
 Chiar copiii Domnului
 Mântuiți prin jertfa Lui,
 Fără nici o plată. :/
+
 [3]
 Pace sfântă voi primiți, fără nici o plată,
 Pe Isus dacă-L iubiți, fără nici o plată?

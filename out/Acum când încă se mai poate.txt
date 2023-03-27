@@ -1,7 +1,9 @@
 [title]
 Acum când încă se mai poate
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Acum când încă se mai poate
 Lucrează frate cu folos
@@ -12,6 +14,7 @@ Cât încă ai suflare-n tine
 Mai poți ofrande să-I aduci
 Dar s-ar putea ziua de mâine
 Amicul meu, să n-o apuci!
+
 [chorus]
 /: Fă-ți timp pentru El
 Fă-ți timp pentru Cer
@@ -19,6 +22,7 @@ Din toate aceasta-i mai presus
 Fă-ți timp să iubești
 Fă-ți timp să te jertfești
 Fă-ți timp astăzi pentru Isus! :/
+
 [2]
 Fă-ți timp pentru acei ce-n lume
 Aleargă din rău spre mai rău
@@ -29,6 +33,7 @@ Fă-ți timp și mergi fără cârtire
 La patul celor suferinzi
 Că ei așteaptă cu iubire
 Măcar o mână să le-ntinzi!
+
 [3]
 Fă-ți timp pentru copiii care
 Rămas-au fără de părinți

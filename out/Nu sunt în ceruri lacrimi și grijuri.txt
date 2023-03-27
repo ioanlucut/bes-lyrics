@@ -1,22 +1,27 @@
 [title]
 Nu sunt în ceruri lacrimi și grijuri
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Nu sunt în ceruri lacrimi și grijuri
 Glorie pe veci în cer va fi!
 Nu e tristețe, nici bătrânețe,
 Ci multe, veșnici bucurii.
+
 [chorus]
 /: Lacrimi în ceruri nu-s :/
 Jale, dureri, de orice fel
 /: Lacrimi în ceruri nu-s :/
 Căci le purtase sfântul Miel.
+
 [2]
 Slava ne-așteaptă, bună răsplată
 Pentru acela credincios
 Iar Salvatorul face poporul
 Părtaș la slavă bucuros.
+
 [3]
 Nu vor fi zile scrise în file,
 Timpul-ncetează a conta

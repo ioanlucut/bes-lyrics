@@ -1,22 +1,27 @@
 [title]
 Doar o colibă aici jos îmi ajunge
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Doar o colibă, aici jos, îmi ajunge
 Argint ți aur n-am în casa mea
 Dar în locașul strălucirii divine,
 Numai în aur eu voi umbla.
+
 [chorus]
 Eu am locașul, dincolo-n mărire,
 În strălucirea ce n-o pot visa
 Cândva, acolo, voi sfârși alergarea,
 Pe străzi de aur, în slava Sa.
+
 [2]
 Când vreo ispită îmi chinuie gândul
 Și ca profetul pe piatră adorm,
 Eu știu că-n ceruri, dincolo de stele,
 Voi sta la masă lâng-al meu Domn.
+
 [3]
 Să nu mă credeți sărac și nici singur,
 Sufletul meu e de ceruri legat

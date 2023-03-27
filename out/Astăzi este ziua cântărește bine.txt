@@ -1,7 +1,9 @@
 [title]
 Astăzi este ziua cântărește bine
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Astăzi este ziua, cântărește bine!
 Vezi cum stai cu Dumnezeu
@@ -12,11 +14,13 @@ Haina ți-e încinsă, ai încălțămintea,
 Duhul adevărului?
 Căci se-aude-n zare lupte, zgomot mare
 Care prevestesc:
+
 [chorus]
 /: Vine Isus! Vine Isus!
 Mai e puțin și zice-vom deplin
 Vine Isus! Vine Isus!
 Și vom zbura spre-un cer senin :/
+
 [2]
 Domnul îți vorbeşte: „Azi te pregătește,
 Ceasul este pe sfârșit
@@ -27,6 +31,7 @@ Strânge în hambare lacrimi și sudoare
 Ce-ai lucrat pentru Isus
 Căci se-aud în zare lupte, zgomot mare,
 Care prevestesc:
+
 [3]
 Priveghează, turmă, că-n vremea din urmă
 Vor fi glasuri de-amăgire,

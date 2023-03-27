@@ -1,7 +1,9 @@
 [title]
 Singurul motiv de laudă
+
 [sequence]
 1,c
+
 [1]
 Singurul motiv de laudă,
 Ești doar Tu Domnul meu.
@@ -12,6 +14,7 @@ Adevărul Tău e salvarea mea,
 Ești lumină în noaptea cea grea.
 Tu ești dragostea, ești iubirea mea
 Și în veci Îți voi cânta.
+
 [chorus]
 /: Atotputernic peste popoare,
 Ești măreț, ești plin de splendoare.

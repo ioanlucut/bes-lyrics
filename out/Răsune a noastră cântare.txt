@@ -1,7 +1,9 @@
 [title]
 Răsune a noastră cântare
+
 [sequence]
 1,c,2,c,3,c,4,c
+
 [1]
 Răsune a noastră cântare,
 Un imn de adânci mulţumiri
@@ -12,10 +14,12 @@ Prin Duh înălțăm o cântare,
 Prin Duh să cinstim pe Isus,
 Căci slava ce-o are e mare
 În gloria unde-a ajuns.
+
 [chorus]
 /: Osana lui Isus, Osana lui Isus
 Osana lui Isus
 De-acum și până-n veac :/
+
 [2]
 Pe Isus Îl simți în natură,
 Căci toate prin El s-au creat
@@ -26,6 +30,7 @@ Cinstiți-L, ostroave și ape!
 Cinstiți-L, voi mări și uscat!
 Căci El a putut să adape
 Mulțimi de popor însetat.
+
 [3]
 Prin câte puterea-I se-arată?
 Prin câte dovezi Îl cunoști?
@@ -36,6 +41,7 @@ Veniți voi, mulțimi de popoare,
 Să vină toți cei păcătoși
 Căci gloria Lui este mare,
 Iertare primiți bucuroși.
+
 [4]
 Cu toți ridicaţi-vă glasul,
 Un cor milioane formând

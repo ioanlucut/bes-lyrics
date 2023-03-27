@@ -1,10 +1,13 @@
 [title]
 Ce minunat e să fii dintr-o familie
+
 [sequence]
 1,c,1,c
+
 [1]
 /: Ce minunat e să fii dintr-o familie
 Familia sfântă a Domnului Isus :/
+
 [chorus]
 /: Suntem o familie unită
 Suntem o familie reală

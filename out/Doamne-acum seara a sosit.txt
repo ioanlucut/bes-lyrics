@@ -1,17 +1,21 @@
 [title]
 Doamne-acum seara a sosit
+
 [sequence]
 1,2,3
+
 [1]
 Doamne-acum seara a sosit
 Ție ne-ncredințăm!
 /: Lucrul zilei am împlinit,
 Laudă-Ți aducem :/
+
 [2]
 De vezi cumva că am greșit,
 Prin vorbe sau fapte,
 /:O, Domnul nostru mult iubit,
 Ne iartă de toate :/
+
 [3]
 Și ne-ajută mai departe
 Să nu păcătuim,

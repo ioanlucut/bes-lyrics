@@ -1,38 +1,46 @@
 [title]
 Credința mea eu o zidesc pe-a Domnului Cuvânt ceresc
+
 [sequence]
 1,c,2,c,3,c,4,t,b
+
 [1]
 Credința mea eu o zidesc
 Pe-a Domnului Cuvânt ceresc
 Ca spuma toate vor pieri
 Hristos ca stâncă-n veci va fi.
+
 [2]
 Deși-i ascunsă fața Sa
 Cu milă mă va-nconjura
 Și orice vifor de-ar veni
 Pe stâncă sigur eu voi fi.
+
 [chorus]
 Stânca mea e Hristos
 Lui rămân veșnic credincios
 Prin furtună Tu rămâi
 Veșnic Domn!
 (El e Domn, El e Domn)
+
 [3]
 Când vin primejdii pe pământ
 Eu sunt scutit prin legământ
 Chiar toate de s-ar clătina
 Hristos rămâne stânca mea.
+
 [4]
 Iar când Isus va judeca
 Și celor morți „Sus” va striga
 Neprihănirea Lui va fi
 Chiar haina-n care voi luci.
+
 [chorus 2]
 Doamne, Tu ce miști chiar munții
 Ești măreț Salvator
 Veșnic, ai dat slavare lumii
 Și-ai înviat dintre morți.
+
 [bridge]
 Lasă gloria peste-ntreg pământ
 Cântăm azi pentru slava

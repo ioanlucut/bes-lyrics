@@ -1,7 +1,9 @@
 [title]
 Te-adorăm în fericire
+
 [sequence]
 1,2,3
+
 [1]
 Te-adorăm, în fericire,
 Domn al gloriei cerești,
@@ -12,6 +14,7 @@ O, alungă nori și ceață
 De-ntuneric și păcat,
 Și ne luminează viața,
 Cu Duhul Tău Sfânt, curat.
+
 [2]
 Orice lucru mic sau mare,
 Ce de Tine-a fost creat
@@ -22,6 +25,7 @@ Munți și mare, deal și vale,
 Floarea în splendoarea să
 Toate lucrurile Tale
 Ne vestesc iubirea Ta.
+
 [3]
 Dătător de fericire
 Ești Tu, Doamne, tuturor

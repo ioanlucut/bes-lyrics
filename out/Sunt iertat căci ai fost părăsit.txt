@@ -1,12 +1,15 @@
 [title]
 Sunt iertat căci ai fost părăsit
+
 [sequence]
 1,c,1,c
+
 [1]
 Sunt iertat căci ai fost părăsit
 Sunt acceptat, Ai fost condamnat
 Și viață am acum căci Duhul Tău e-n mine,
 Căci ai murit și-ai înviat. :/
+
 [chorus]
 /: Ce dragoste de Dumnezeu
 Să moară un Rege-n locul meu.

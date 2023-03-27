@@ -1,7 +1,9 @@
 [title]
 Dacă-ți spune cineva
+
 [sequence]
 1,2,3,4
+
 [1]
 Dacă-ți spune cineva
 Că ești steaua căzătoare din amurg,
@@ -13,6 +15,7 @@ Tu să îi spun numai atât, că a greșit.
 Infinit și veșnicie,
 Tu ești tot ce-i sus și jos
 Căci ești din Isus Hristos :/
+
 [2]
 Dacă-ți spune cineva
 Că ți-e umbletul aiurea pe poteci,
@@ -24,6 +27,7 @@ Tu să-i spui numai atât, că a greșit.
 Nu zdrobește, nu frământă,
 Iar când ai privirea sus
 Ești în harul lui Isus :/
+
 [3]
 Dacă-ți spune cineva
 C-ai pierdut o lume-ntreagă de mici
@@ -35,6 +39,7 @@ Tu să îi spui numai atât, că a greșit.
 Dar câștigi o veșnicie,
 Dar din toate mai presus,
 Îl ai prieten pe Isus :/
+
 [4]
 Dacă-ți spune cineva:
 Că într-o carte sfântă numele ți-e scris,

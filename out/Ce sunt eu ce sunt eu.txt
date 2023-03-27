@@ -1,7 +1,9 @@
 [title]
 Ce sunt eu ce sunt eu
+
 [sequence]
 1,2,3,4,5,e
+
 [1]
 Ce sunt eu, ce sunt eu?
 Un fir de nisip în vânt.
@@ -12,6 +14,7 @@ Doar prin Tine sunt ce sunt.
 Eu sărac, Tu bogăţie,
 Ce sunt eu, ce sunt eu,
 Tu ești totul, Domnul meu :/
+
 [2]
 Ce sunt eu, ce sunt eu?
 O frunză purtată-n vânt
@@ -22,6 +25,7 @@ Doar prin Tine sunt ce sunt.
 Tu, a lumii jertfă dată,
 Ce sunt eu, ce sunt eu,
 Tu ești totul, Domnul meu :/
+
 [3]
 Ce sunt eu, ce sunt eu?
 O lumină pâlpâind
@@ -32,6 +36,7 @@ Doar prin Tine sunt ce sunt.
 Tu, a lumii mântuire,
 Ce sunt eu, ce sunt eu,
 Tu ești totul, Domnul meu :/
+
 [4]
 Ce sunt eu, ce sunt eu?
 O floare călcată-n câmp
@@ -42,6 +47,7 @@ Doar prin Tine sunt ce sunt.
 Tu o sfântă scăldătoare,
 Ce sunt eu, ce sunt eu,
 Tu ești totul, Domnul meu :/
+
 [5]
 Așa-am fost fără har,
 Fără jertfa din Calvar,
@@ -52,6 +58,7 @@ Dar acum eu sunt salvat,
 Că-s făptura mâinii Tale,
 Te slăvesc, Te măresc,
 Scump Isus, și-Ți mulțumesc.
+
 [ending]
 Tu îmi ești a mea iubire,
 Partea mea de moștenire,

@@ -1,17 +1,21 @@
 [title]
 E viu e viu mormântul Lui e gol
+
 [sequence]
 c,1,c,2,c
+
 [chorus]
 E viu, e viu, mormântul Lui e gol
 E viu, e viu, a-nviat Domnul meu!
 E viu, e viu în toată splendoarea
 Ne duce la fericire.
+
 [1]
 Maria, ucenicii grăbesc alerg la El
 În zori de dimineață le zice îngerul
 „Duceți, vestiți tuturor din morți El a-nviat
 Credeți și să vă bucurați!”
+
 [2]
 Maria stă și plânge ar vrea să știe ce-i
 Dar iată o minune, Isus-naintea ei!

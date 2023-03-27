@@ -1,7 +1,9 @@
 [title]
 Fii binecuvântat
+
 [sequence]
 1,p,c,2,p,c,b,c,e
+
 [1]
 Fii binecuvântat
 Când pământul e săturat
@@ -12,15 +14,18 @@ Fii binecuvântat
 Când mă aflu pe pământ uscat
 Și pășesc singur prin pustiu
 Fii binecuvântat!
+
 [prechorus]
 Fiecare laudă Ție ți-o dau
 Când noaptea se apropie
 Te voi lăuda!
+
 [chorus]
 Binecuvântat fie El
 Binecuvântat
 Binecuvântat fie El
 Binecuvântăm numele Său
+
 [2]
 Fii binecuvântat
 Când soarele-i din nou pe cer
@@ -35,11 +40,13 @@ Fii binecuvântat!
 Fiecare laudă Ție ți-o dau
 Când noaptea se apropie
 Te voi lăuda
+
 [bridge]
 /: Primește lauda
 Ești vrednic Dumnezeu
 Îmi cântă inima
 Fii binecuvântat! :/
+
 [ending]
 Binecuvântăm,
 Al Său nume Sfânt!

@@ -1,22 +1,27 @@
 [title]
 Vrei tu să scapi de păcat sarcină
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Vrei tu să scapi de păcat, sarcină,
 Prin sângele sfânt al lui Isus?
 Vrei tu să-nvingi răul din inimă,
 Prin sfânt sânge al lui Isus?
+
 [chorus]
 E puterea ce minuni face
 Sângele Mielului!
 E puterea ce minuni face
 În scump sângele al Mielului.
+
 [2]
 Vrei să fii liber de patimi, păcat,
 Prin sângele sfânt al lui Isus?
 Vin' la Calvar și vei fi vindecat,
 Prin sfânt sânge al lui Isus.
+
 [3]
 Vrei să fii alb, mai alb ca zăpada,
 Prin sângele sfânt al lui Isus?

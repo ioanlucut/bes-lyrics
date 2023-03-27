@@ -1,27 +1,33 @@
 [title]
 Caută pacea-ntotdeauna
+
 [sequence]
 1,c,2,c,3,c,4,c
+
 [1]
 Caută pacea-ntotdeauna
 La-ncercare când ești pus
 De vrei să primești cununa
 Chiar din mâna lui Isus.
+
 [chorus]
 /: Caută pacea-ntotdeauna,
 Ea să fie ținta ta
 Caută pacea-ntotdeauna
 Și aleargă după ea! :/
+
 [2]
 Caută pacea când furtuna
 Se abate-n jurul tău
 Caută pacea-ntotdeauna
 Căci ea e din Dumnezeu.
+
 [3]
 Căci în slovele divine
 Chiar Isus ne-a spus aşa:
 Pentru vremea care vine
 Vă las pacea, pacea mea.
+
 [4]
 Când talazuri se înalță
 Ești speriat și îngrozit

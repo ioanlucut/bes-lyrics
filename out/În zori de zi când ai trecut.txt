@@ -1,7 +1,9 @@
 [title]
 În zori de zi când ai trecut
+
 [sequence]
 1,2,3
+
 [1]
 În zori de zi când ai trecut,
 La margine de drum, căzut, eram
@@ -13,6 +15,7 @@ Privirea-I blândă, o, ce mult mi-a spus!
 Și mi-a vorbit cu glas duios
 Că mai primește-un păcătos
 Și m-am convins, era Isus :/
+
 [2]
 Lovit de-al lumii greu păcat
 Eu nu credeam că pot vreodat’ să fiu salvat.
@@ -24,6 +27,7 @@ Că nu mai am în lume rost nicicând
 „Dar nu-i aşa!” un glas mi-a spus
 Și m-a luat cu El, m-a dus,
 Și m-am convins, era Isus :/
+
 [3]
 Nu cred că poate un om la fel
 Să facă-asemenea ca El c-un păcătos:

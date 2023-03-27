@@ -1,12 +1,15 @@
 [title]
 Ca un copil mă țin de brațul Tău
+
 [sequence]
 1,c,2,c
+
 [1]
 Ca un copil mă țin de brațul Tău
 Tu mă cunoști, vezi pașii mei mereu
 Cu bunătate mereu mă înconjori
 Și-mi aminteşti de mila Ta din zori.
+
 [chorus]
 /: Vreau sufletul să mi-l înalți
 Să mă inunde Duhul Tău
@@ -19,6 +22,7 @@ Viața să-mi fie ca un dar
 Pe-al Tău altar :/
 
 Doamne, Te rog!
+
 [2]
 Ești Tatăl meu, cu dragoste mă ții
 Să Te slujesc vreau, Doamne, în orice zi!

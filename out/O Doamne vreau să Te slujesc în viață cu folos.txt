@@ -1,29 +1,36 @@
 [title]
 O Doamne vreau să Te slujesc în viață cu folos
+
 [sequence]
 1,c,2,t,b,e
+
 [1]
 O, Doamne, vreau să Te slujesc în viață cu folos
 Să Te urmez în orice zi smerit și credincios
 Ajută-mă să spun la toți cât bine mi-ai făcut
 Cum jertfa Ta m-a eliberat și-acum eu pot cânta.
+
 [chorus]
 /: Căci pentru mine a trăi e Hristos
 Și a muri, o, da, e un câștig :/
+
 [2]
 Trăiește-ți viața cu folos și tu amicul meu
 Să fii în toate credincios trăind ca El mereu
 Trăiește-ți viața ta arzând, nu sta neroditor
 Isus ți-a arătat și ție un dar, deci fii folositor.
+
 [chorus 2]
 /: Și pentru tine a trăi să fie Hristos
 Și a muri să fie un câștig :/
+
 [bridge]
 /: Și ce-ar folosi unui om să câștige
 Chiar toată lumea, de i se va da
 De nu ar avea el sufletul curat
 Ar fi pe veci pierdut și lepădat :/
 Ar fi pe veci pierdut și lepădat
+
 [ending]
 Da, pentru noi a trăi va fi Hristos
 Și vom trăi viața cu folos

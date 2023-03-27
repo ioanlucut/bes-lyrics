@@ -1,27 +1,33 @@
 [title]
 Veniți creștini la rugăciune
+
 [sequence]
 1,2,3,4,5
+
 [1]
 Veniți creștini la rugăciune
 În casa Tatălui Preafânt,
 /: Veniți să vă plecați genunchii
 Și fața voastră la pământ :/
+
 [2]
 Veniți, veniți cu umilință
 În fața sfântului alta.
 /: Veniți să dezbrăcăm păcatul
 Și să primim al milei har! :/
+
 [3]
 Azi masa Domnului stă-ntinsă,
 Dar cei poftiţi nu vin la ea.
 /: Ei n-aud glasul Lui ce strigă:
 „Veniţi, creştini, la masa Mea!” :/
+
 [4]
 Veniți cei osteniți la Mine,
 Cei osteniți și apăsați.
 /: Odihnă, pacea Mea cea sfântă
 Și mângâiere-o să aflați. :/
+
 [5]
 Răsună munți, răsună dealuri,
 Pământu-ntreg de glasul sfânt.

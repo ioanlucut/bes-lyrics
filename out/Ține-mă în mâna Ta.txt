@@ -1,15 +1,19 @@
 [title]
 Ține-mă în mâna Ta
+
 [sequence]
 1,c,2,c
+
 [1]
 /: Ține-mă în mâna Ta
 Să m-ascunzi, întinde-Ți aripa :/
+
 [chorus]
 /: Când oceanele cumplit vuiesc
 Doamne dă-mi puteri să biruiesc
 Tată știu că Tu ești vegheator
 Stau liniștit știu că ești Domn :/
+
 [2]
 /: Doar în Hristos mă odihnesc
 Puterea Sa în liniște-o primesc :/

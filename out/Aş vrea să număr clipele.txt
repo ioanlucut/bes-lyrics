@@ -1,7 +1,9 @@
 [title]
 Aş vrea să număr clipele
+
 [sequence]
 1,c,2,c,t
+
 [1]
 Aş vrea să număr clipele,
 Dar timpul trece-n grabă
@@ -12,6 +14,7 @@ Să fiu al Lui cu totul dăruit.
 
 Și câte, Doamne, nu Ți-am spus
 Și câte nu Ți-am promis?
+
 [chorus]
 Dar ce voi spune când pe nori
 Tu vei veni în slavă învelit
@@ -19,6 +22,7 @@ Am fost un laș şi am fugit
 Mereu m-ai binecuvântat,
 Și totuși doar la mine m-am gândit
 Și Te-am uitat, și m-am ferit.
+
 [2]
 O lume-ntreagă zace-n chin
 Tânjind după speranță
@@ -29,6 +33,7 @@ Când alții mor, cum pot fi fericit?
 
 Tu ne iubești la fel pe toți
 La cruce ai dovedit.
+
 [chorus 2]
 Dar ce voi spune când pe nori
 Tu vei veni în slavă învelit

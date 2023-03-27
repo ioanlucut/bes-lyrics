@@ -1,12 +1,15 @@
 [title]
 Primește lauda și închinarea
+
 [sequence]
 c,1,c
+
 [chorus]
 /: Primește lauda și închinarea
 Tată din ceruri, Te slăvim
 Primește lauda și închinarea
 Tată din ceruri, Te iubim :/
+
 [1]
 Cu tot ce-avem ne-nchinăm
 În fața Ta, Stăpâne

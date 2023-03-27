@@ -1,38 +1,46 @@
 [title]
 La Tine vin și-mi cer iertare
+
 [sequence]
 1,c,2,c,3,c,4,t,e
+
 [1]
 La Tine vin și-mi cer iertare
 O, Doamne bun, primește-mă!
 În bunătatea Ta cea mare,
 Așa cum sunt, primește-mă!
+
 [chorus]
 Căci mă-ntorc și-n genunchi
 Milă-Ți cer, Domnul meu
 Mă întorc și-aș dori să mă știu fiul Tău
 Mă întorc ca să-mi dai din al vieții izvor
 Mă întorc, căci de Tine mi-e dor.
+
 [2]
 Eu știu că Tu nu-mi ții în seamă
 Trecutul meu cel păcătos,
 Dar poruncești ca să am teamă
 Și să trăiesc de-acum frumos.
+
 [3]
 Cândva, Tu m-ai chemat la Tine,
 Dar eu n-am vrut să Te ascult
 De-atunci, sunt ani, și mi-e rușine
 C-am amânat atât de mult.
+
 [4]
 Și dac-adesea-s trist pe cale
 Și merg pe-un drum anevoios,
 Prin jertfa îndurării Tale
 Tu mă-ntărești și-s bucuros.
+
 [chorus 2]
 Minunat! Minunat ești Isus, Domnul meu
 Minunat! Minunat, să mă știu fiul Tău
 Minunat e când beau din al vieții izvor
 Minunat ești al meu Salvator!
+
 [ending]
 Lăudat! Lăudat să fii veșnic, Isus!
 Lăudat! Lăudat, pe pământ și-n cer sus!

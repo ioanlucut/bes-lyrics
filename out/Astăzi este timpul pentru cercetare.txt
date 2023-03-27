@@ -1,7 +1,9 @@
 [title]
 Astăzi este timpul pentru cercetare
+
 [sequence]
 1,c,2,c,3,c
+
 [1]
 Astăzi este timpul pentru cercetare!
 Vine Domnul în curând
@@ -12,10 +14,12 @@ Vine Mirele Isus să-Și ia mireasa
 Pe care-o va pregăti
 Cu miresme-n haine albe
 Acolo și noi vom fi.
+
 [chorus]
 /: În cer, în cer, în cer, Aleluia, Amin
 Cu Isus acolo ne vom întâlni sus
 În cer. Aleluia, Amin :/
+
 [2]
 Rugăciunea este arma pocăinței
 Ne-ncetat să ne rugăm!
@@ -26,6 +30,7 @@ Să ne îndemnăm mereu la fapte bune,
 În iubirea Lui uniți!
 Așteptând a Sa venire,
 La Isus cu toți veniți!
+
 [3]
 O, ce har bogat ne-a dat și slavă mare
 Ne așteaptă sus în cer

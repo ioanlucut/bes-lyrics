@@ -1,13 +1,16 @@
 [title]
 Înalț vocea mea
+
 [sequence]
 1,c,2,c
+
 [1]
 Înalț vocea mea
 Către Tin' Rege-al gloriei
 Ridic mâinile către Cel ce e vrednic
 Tânjesc după Tine
 Atinge-mi, Doamne, inima
+
 [chorus]
 /: Umple Doamne și viața mea
 Cu prezența-Ți divină
@@ -15,6 +18,7 @@ Tu ești dorința mea
 Revarsă Duhul Sfânt azi din nou
 Tânjesc după Tine
 Tu ești dorința mea :/
+
 [2]
 Tânjesc să mă speli
 În voia milei Tale
