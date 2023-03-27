@@ -1,12 +1,12 @@
 [title]
-Domnul în ceruri domneşte
+Domnul în ceruri domnește
 
 [sequence]
 1,c,1,c
 
 [1]
-Domnul în ceruri domneşte
-Pe tron e aşezat,
+Domnul în ceruri domnește
+Pe tron e așezat,
 Plin de mărire și-n slavă e îmbrăcat
 Noi toți cu sfinte podoabe
 Stăm în prezența Sa

@@ -1,11 +1,11 @@
 [title]
-Zic Betleem zic şi Golgota
+Zic Betleem zic și Golgota
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Zic Betleem, zic şi Golgota,
+Zic Betleem, zic și Golgota,
 Zic Ghețimani și mă-nfior,
 Când zic Isus inima-mi plânge
 Și rănile parcă mă dor.

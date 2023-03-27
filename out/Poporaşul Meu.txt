@@ -1,11 +1,11 @@
 [title]
-Poporaşul Meu
+Poporașul Meu
 
 [sequence]
 1,2,3,4,5
 
 [1]
-/: Poporaşul Meu,
+/: Poporașul Meu,
 Poporașul Meu, trezește-te! :/
 /: Trezește-te, nu dormi!
 Iată, iată, vine Mirele! :/

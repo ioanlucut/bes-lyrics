@@ -1,18 +1,18 @@
 [title]
-Isus e prietenul cel bun ce nu lipseşte
+Isus e prietenul cel bun ce nu lipsește
 
 [sequence]
 1,c,2,c,3,c,4,c
 
 [1]
-Isus e prietenul cel bun ce nu lipseşte
+Isus e prietenul cel bun ce nu lipsește
 De orișiunde, orișicând este chemat
 El te ascultă, cu-ai Lui ochi El te privește
 Și zi de zi pe brațul Lui tu ești purtat.
 
 [chorus]
 Ce fericire când șoptești:
-„Isus mi-e prieten şi-L iubesc
+„Isus mi-e prieten și-L iubesc
 Pe El îl chem în ajutor când calea-i grea
 Nimeni în lume nu-i la fel în bunătate ca și El
 Căci El soarele vieții, Emanuel.”
@@ -20,7 +20,7 @@ Căci El soarele vieții, Emanuel.”
 [2]
 Isus e prietenul cel bun ce nu lipsește
 Când toată lumea se frământă-n jurul tău.
-Prin Duhul Sfânt El ție azi îți dăruieşte
+Prin Duhul Sfânt El ție azi îți dăruiește
 Deplină pace izvorând din Dumnezeu.
 
 [3]

@@ -1,11 +1,11 @@
 [title]
-Aş vrea să număr clipele
+Aș vrea să număr clipele
 
 [sequence]
 1,c,2,c,t
 
 [1]
-Aş vrea să număr clipele,
+Aș vrea să număr clipele,
 Dar timpul trece-n grabă
 Minute ce-au trecut, le-am irosit
 Am spus că sunt al lui Hristos,
@@ -18,7 +18,7 @@ Să fiu al Lui cu totul dăruit.
 [chorus]
 Dar ce voi spune când pe nori
 Tu vei veni în slavă învelit
-Am fost un laș şi am fugit
+Am fost un laș și am fugit
 Mereu m-ai binecuvântat,
 Și totuși doar la mine m-am gândit
 Și Te-am uitat, și m-am ferit.
@@ -38,6 +38,6 @@ La cruce ai dovedit.
 Dar ce voi spune când pe nori
 Tu vei veni în slavă învelit
 Am fost un laș și am fugit
-/: Aş vrea să-mi spui când vei veni
+/: Aș vrea să-mi spui când vei veni
 Că am făcut ce-a trebuit să fac
 O, Doamne, vreau să-Ți fiu pe plac! :/
