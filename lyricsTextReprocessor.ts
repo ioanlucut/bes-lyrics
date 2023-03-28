@@ -1,24 +1,42 @@
 import _ from 'lodash';
 import fs from 'fs';
 import path from 'path';
+import dictionaryRo, { Dictionary } from 'dictionary-ro';
+import nspell from 'nspell';
+import * as util from 'util';
+import NSpell from 'nspell';
 
 const OUTPUT_DIR = './unverified';
 const EMPTY_STRING = '';
 const NEW_LINE = '\n';
 const CARRIAGE_RETURN = '\r';
 
-const reprocess = (strings: string[]) => {
+export enum SongSection {
+  TITLE = '[title]',
+  SEQUENCE = '[sequence]',
+}
+
+const incorrectWords = [] as string[];
+
+const getSongInSections = (songText: string) =>
+  songText
+    .split(/(\[.*])/gim)
+    .filter(Boolean)
+    .map(_.trim);
+
+const reprocess = (strings: string[], speller: NSpell) => {
   strings.forEach((fileName) => {
     const filePath = path.join(path.join(__dirname, OUTPUT_DIR, fileName));
-    const fileContent = fs.readFileSync(filePath).toString();
 
-    const sections = fileContent
-      .split(/(\[.*])/gim)
-      .filter(Boolean)
-      .map(_.trim);
+    console.log(`Processing "${fileName}" ..`);
+
+    const songAsString = fs.readFileSync(filePath).toString();
+    const songSections = getSongInSections(songAsString);
 
     const fileNameFromTheTitle =
-      !sections[1] || sections[1] === '[title]' ? sections[2] : sections[1];
+      !songSections[1] || songSections[1] === SongSection.TITLE
+        ? songSections[2]
+        : songSections[1];
 
     const computedTitle = _.trim(
       fileNameFromTheTitle
@@ -50,7 +68,7 @@ const reprocess = (strings: string[]) => {
 
     const normalizedContent = _.trim(
       _.flatten(
-        sections.map((section) => {
+        songSections.map((section) => {
           if (section.startsWith('[')) {
             return [CARRIAGE_RETURN, section];
           }
@@ -59,10 +77,60 @@ const reprocess = (strings: string[]) => {
       ).join(NEW_LINE),
     );
 
-    fs.writeFileSync(maybeNewFilePath, normalizedContent);
+    const songSectionsTuples = getSongInSections(normalizedContent);
+
+    for (
+      let sectionIndex = 0;
+      sectionIndex < songSectionsTuples.length;
+      sectionIndex = sectionIndex + 2
+    ) {
+      const sectionKey = songSectionsTuples[sectionIndex] as SongSection;
+      const sectionContent = songSectionsTuples[sectionIndex + 1];
+
+      if (sectionKey !== SongSection.SEQUENCE) {
+        sectionContent
+          .split(/\n/gim)
+          .map((sectionRow) => sectionRow.split(/ /gi))
+          .forEach((wordOrExpressionChunks: string[]) =>
+            wordOrExpressionChunks.map((wordOrExpression) => {
+              wordOrExpression
+                .split(/[ !(),./:;?’”„]+/)
+                .filter(Boolean)
+                .forEach((relevantWord) => {
+                  if (!speller.correct(relevantWord)) {
+                    incorrectWords.push(relevantWord);
+                  }
+                });
+            }),
+          );
+      }
+
+      if (!_.isEqual(songAsString, songAsString)) {
+        fs.writeFileSync(maybeNewFilePath, normalizedContent);
+
+        console.log(`"${fileName}" successfully processed.`);
+      } else {
+        console.log(`"${fileName}" ignored as the content is not changed.`);
+      }
+    }
   });
 };
 
 (async () => {
-  reprocess(fs.readdirSync(OUTPUT_DIR));
+  try {
+    const getDictionaryAsync = util.promisify(dictionaryRo);
+    const romanianDictionary = (await getDictionaryAsync()) as Dictionary;
+    const speller = nspell(romanianDictionary);
+    reprocess(fs.readdirSync(OUTPUT_DIR), speller);
+
+    if (!_.isEmpty(incorrectWords)) {
+      console.log(
+        `We have spotted incorrect/unknown words: ${_.uniq(incorrectWords)
+          .sort()
+          .join(NEW_LINE)}`,
+      );
+    }
+  } catch (error) {
+    console.error(error);
+  }
 })();

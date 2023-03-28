@@ -2,7 +2,7 @@
 Când nu te cunoșteam Tu m-ai chemat
 
 [sequence]
-1,c,2,c,3,c,c,c
+1,c,2,c,3,c,b,c
 
 [1]
 Când nu te cunoșteam Tu m-ai chemat,

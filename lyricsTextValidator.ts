@@ -7,7 +7,7 @@ const OUTPUT_DIR = './unverified';
 const EMPTY_STRING = '';
 
 const ALLOWED_CHARS =
-  ` !(),-./1234567890:;?ABCDEFGHIJLMNOPRSTUVZ[\\]abcdefghijlmnopqrstuvwxzÎâîăÂȘșĂȚț–’”„\n\r`.split(
+  ` !(),-./1234567890:;?ABCDEFGHIJLMNOPRSTUVZ[\\]abcdefghijlmnopqrstuvwxzÎâîăÂȘșĂȚț’”„\n\r`.split(
     EMPTY_STRING,
   );
 
@@ -15,7 +15,7 @@ const verifyChars = (fileNames: string[]) =>
   fileNames.map((fileName) => {
     const filePath = path.join(path.join(__dirname, OUTPUT_DIR, fileName));
 
-    return _.uniq(fs.readFileSync(filePath).toString());
+    return fs.readFileSync(filePath).toString();
   });
 
 // ---
