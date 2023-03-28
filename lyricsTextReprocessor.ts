@@ -1,13 +1,11 @@
-import _, { endsWith } from 'lodash';
+import _ from 'lodash';
 import fs from 'fs';
 import path from 'path';
 
-const OUTPUT_DIR = './out';
+const OUTPUT_DIR = './unverified';
 const EMPTY_STRING = '';
 const NEW_LINE = '\n';
 const CARRIAGE_RETURN = '\r';
-
-const trimContent = (fileContent: string) => _.trim(fileContent);
 
 const reprocess = (strings: string[]) => {
   strings.forEach((fileName) => {

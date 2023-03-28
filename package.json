@@ -11,6 +11,9 @@
     "@types/fs-extra": "^11.0.1",
     "@types/lodash": "^4.14.191",
     "@types/node": "^18.15.9",
+    "@typescript-eslint/eslint-plugin": "^5.57.0",
+    "@typescript-eslint/parser": "^5.57.0",
+    "eslint": "^8.36.0",
     "prettier": "^2.8.7",
     "ts-node": "^10.9.1",
     "tslib": "^2.5.0",
@@ -18,6 +21,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
     "verify": "ts-node ./lyricsTextValidator.ts"
   },
   "author": "Ioan Lucuț",

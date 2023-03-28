@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import * as process from 'process';
 
-const OUTPUT_DIR = './out';
+const OUTPUT_DIR = './unverified';
 const EMPTY_STRING = '';
 
 const ALLOWED_CHARS =
