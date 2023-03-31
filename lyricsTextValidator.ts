@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import * as process from 'process';
 
-const OUTPUT_DIR = './inverification';
+const OUTPUT_DIR = './candidates';
 const EMPTY_STRING = '';
 
 const ALLOWED_CHARS =
@@ -27,7 +27,11 @@ const uniqueChars = _.uniq(chars).filter(Boolean).sort();
 const difference = _.difference(uniqueChars, ALLOWED_CHARS);
 
 if (!_.isEmpty(difference)) {
-  console.log(`The difference between the allowed and found is: "${difference}"`);
+  console.log(
+    `The difference between the allowed and found is: "${difference}"`,
+  );
 
   process.exit(1);
+} else {
+  console.log(`The characters are valid.`);
 }
