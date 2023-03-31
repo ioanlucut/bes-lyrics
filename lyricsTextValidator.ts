@@ -2,8 +2,8 @@ import _ from 'lodash';
 import fs from 'fs';
 import path from 'path';
 import * as process from 'process';
+import dotenv from 'dotenv';
 
-const OUTPUT_DIR = './candidates';
 const EMPTY_STRING = '';
 
 const ALLOWED_CHARS =
@@ -11,9 +11,11 @@ const ALLOWED_CHARS =
     EMPTY_STRING,
   );
 
+dotenv.config();
+
 const getUniqueChars = (fileNames: string[]) =>
   fileNames.map((fileName) => {
-    const filePath = path.join(path.join(__dirname, OUTPUT_DIR, fileName));
+    const filePath = path.join(__dirname, process.env.CANDIDATES_DIR, fileName);
 
     return _.uniq(fs.readFileSync(filePath).toString());
   });
@@ -22,7 +24,9 @@ const getUniqueChars = (fileNames: string[]) =>
 // RUN
 // ---
 
-const chars = _.flattenDeep(getUniqueChars(fs.readdirSync(OUTPUT_DIR)));
+const chars = _.flattenDeep(
+  getUniqueChars(fs.readdirSync(process.env.CANDIDATES_DIR)),
+);
 const uniqueChars = _.uniq(chars).filter(Boolean).sort();
 const difference = _.difference(uniqueChars, ALLOWED_CHARS);
 
