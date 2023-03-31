@@ -6,7 +6,7 @@ import nspell from 'nspell';
 import * as util from 'util';
 import NSpell from 'nspell';
 
-const OUTPUT_DIR = './unverified';
+const OUTPUT_DIR = './inverification';
 const EMPTY_STRING = '';
 const NEW_LINE = '\n';
 const CARRIAGE_RETURN = '\r';
