@@ -7,7 +7,7 @@ import stringSimilarity from 'string-similarity';
 
 dotenv.config();
 
-const THRESHOLD = 0.38;
+const THRESHOLD = 0.7;
 
 const readAllVerifiedFilesOnce = () =>
   fs.readdirSync(process.env.VERIFIED_DIR).map((fileName) => {
