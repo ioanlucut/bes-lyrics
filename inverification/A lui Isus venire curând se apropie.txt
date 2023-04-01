@@ -1,5 +1,5 @@
 [title]
-A lui Isus venire curând se apropie
+A lui Isus venire curând se apropietest
 
 [sequence]
 1,c,2,c,3,c,4,c
