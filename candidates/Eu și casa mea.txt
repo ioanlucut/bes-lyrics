@@ -23,5 +23,4 @@ Cu inimi curățite mâini vom ridica
 Și vom proclama în veci Domnia Ta!
 
 [bridge]
-Alege azi cui vei sluji,
-Alege azi cui vei sluji...
+/: Alege azi cui vei sluji :/ (x2)
