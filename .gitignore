@@ -1,2 +1,9 @@
 node_modules/
 .idea
+leadsheets/*.aux
+leadsheets/*.fdb_latexmk
+leadsheets/*.fls
+leadsheets/*.lg
+leadsheets/*.gz
+leadsheets/*.log
+leadsheets/*.pdf
