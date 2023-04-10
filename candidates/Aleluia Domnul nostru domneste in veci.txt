@@ -1,0 +1,18 @@
+[title]
+Aleluia
+
+[sequence]
+1,c
+
+[1]
+Aleluia, aleluia
+Domnul nostru domnește în veci.
+Aleluia, aleluia
+Domnul nostru domnește în veci.
+Aleluia,
+
+[chorus]
+:/ Tu ești sfânt, ești sfânt,
+Domnul nostru din ceruri
+Vrednic ești în veci, vrednic ești în veci /:
+Amin!
