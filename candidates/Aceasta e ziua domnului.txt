@@ -1,0 +1,58 @@
+[title]
+Aceasta e ziua domnului
+
+[sequence]
+c,1,c,2,c,3,c,4
+
+[chorus]
+/: Aceasta e :/
+/: Ziua Domnului :/
+/: Veseli să fim :/
+/: Să ne bucurăm :/
+
+[1]
+ACEASTA E ZIUA DOMNULUI
+VESELI SĂ FIM,
+SĂ NE BUCURĂM
+/: ACEASTA E :/
+ZIUA DOMNULUI.
+
+[chorus]
+/: El ne-a creat :/
+/: Și ai Lui suntem :/
+/: Lui ne-nchinăm :/
+/: Pe El îl slăvim :/
+
+[2]
+EL NE-A CREAT ȘI AI LUI SUNTEM
+LUI NE-NCHINĂM,
+PE EL ÎL SLĂVIM.
+/: EL NE-A CREAT :/
+ȘI AI LUI SUNTEM.
+
+[chorus]
+/: Noi rătăceam :/
+/: Dar El ne-a iubit :/
+/: Nu-L cunoșteam :/
+/: Dar El s-a jertfit :/
+
+[3]
+NOI RĂTĂCEAM,
+DAR EL NE-A IUBIT
+NU-L CUNOȘTEAM,
+DAR EL S-A JERTFIT.
+/: NOI RĂTĂCEAM :/
+DAR EL NE-A IUBIT.
+
+[chorus]
+/: Isus e Domn :/
+/: Vine în curând :/
+/: Vom moșteni :/
+/: Cu El cerul sfânt :/
+
+[4]
+ISUS E DOMN,
+VINE ÎN CURÂND
+VOM MOȘTENI CU EL CERUL SFÂNT.
+/: ISUS E DOMN :/
+VINE ÎN CURÂND.

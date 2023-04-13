@@ -1,0 +1,57 @@
+[title]
+Domnul îmi este adăpost
+
+[sequence]
+1,2,3,4,5,6,7,8
+
+[1]
+Domnul îmi este adăpost,
+Cetate tare-n vreme rea,
+Deși e valul furios
+Îmi e scutită inima.
+
+[2]
+DA,
+EU MĂ-NCRED ÎN DOMNUL
+CETATEA MEA (3x)
+O, ISUSE EU ȚIE MĂ-NCREDINȚEZ,
+CETATE TARE-N VREME REA.
+
+[3]
+Scut de arșița soarelui,
+Cetate tare-n vreme rea,
+E ca lumina farului
+Ce strălucește-n noaptea grea.
+
+[4]
+DA,
+EU MĂ-NCRED ÎN DOMNUL
+CETATEA MEA (3x)
+O, ISUSE EU ȚIE MĂ-NCREDINȚEZ,
+CETATE TARE-N VREME REA.
+
+[5]
+Cu-al Tău cuvânt marea alini,
+Cetate tare-n vreme rea,
+Sufletu-mi l-acest scut să vii
+Și nici un rău nu s-a-ntâmpla.
+
+[6]
+DA,
+EU MĂ-NCRED ÎN DOMNUL
+CETATEA MEA (3x)
+O, ISUSE EU ȚIE MĂ-NCREDINȚEZ,
+CETATE TARE-N VREME REA.
+
+[7]
+Tu ești a mea mântuire,
+Cetate tare-n vreme rea
+Tu-mi dai credință, iertare
+M-așteaptă-n cer fericirea.
+
+[8]
+DA,
+EU MĂ-NCRED ÎN DOMNUL
+CETATEA MEA (3x)
+O, ISUSE EU ȚIE MĂ-NCREDINȚEZ,
+CETATE TARE-N VREME REA.

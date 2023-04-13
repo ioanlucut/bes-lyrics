@@ -1,0 +1,41 @@
+[title]
+Domnul în ceruri domnește
+
+[sequence]
+1,2,3,4
+
+[1]
+Domnul în ceruri domnește,
+Pe tron e așezat,
+Plin de mărire și-n slavă e îmbrăcat.
+Noi toți cu sfinte podoabe
+Stăm în prezența Sa,
+Și-n timp ce Îi vom cânta
+Slava Lui vom vedea.
+
+[2]
+CĂCI DOMNU-I BUN,
+EL ÎN VECI IUBEȘTE,
+ÎNDURAREA LUI NU SE VA SFÂRȘI
+SPRE-AI SĂI COPII,
+EL CU DRAG PRIVEȘTE
+ȘI-N MIJLOCUL LAUDELOR NOASTRE,
+EL VA VENI.
+
+[3]
+Domnul în ceruri domnește,
+Pe tron e așezat,
+Plin de mărire și-n slavă e îmbrăcat.
+Noi toți cu sfinte podoabe
+Stăm în prezența Sa,
+Și-n timp ce Îi vom cânta
+Slava Lui vom vedea.
+
+[4]
+CĂCI DOMNU-I BUN,
+EL ÎN VECI IUBEȘTE,
+ÎNDURAREA LUI NU SE VA SFÂRȘI
+SPRE-AI SĂI COPII,
+EL CU DRAG PRIVEȘTE
+ȘI-N MIJLOCUL LAUDELOR NOASTRE,
+EL VA VENI.

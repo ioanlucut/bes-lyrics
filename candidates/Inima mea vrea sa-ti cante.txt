@@ -1,0 +1,37 @@
+[title]
+Inima mea vrea să-ți cânte
+
+[sequence]
+1,2,3,4
+
+[1]
+Inima mea vrea să-ți cânte
+Vrea să Te înalțe
+În fiecare zi.
+Tu mi-ai adus bucurie
+Și-atâta plinătate
+Cum n-am putut gândi.
+
+[2]
+VREAU SĂ-ȚI MULȚUMESC
+PENTRU TOT CE AI FĂCUT
+ȘI PENTRU TOT CE-NSEMNI ÎN VIAȚA MEA.
+VREAU SĂ-ȚI MULȚUMESC
+PENTRU TOT CE AI SCHIMBAT
+ȘI PENTRU CĂ MI-AI UMPLUT INIMA.
+
+[3]
+Inima mea vrea să-ți cânte
+Vrea să Te înalțe
+În fiecare zi.
+Tu mi-ai adus bucurie
+Și-atâta plinătate
+Cum n-am putut gândi.
+
+[4]
+VREAU SĂ-ȚI MULȚUMESC
+PENTRU TOT CE AI FĂCUT
+ȘI PENTRU TOT CE-NSEMNI ÎN VIAȚA MEA.
+VREAU SĂ-ȚI MULȚUMESC
+PENTRU TOT CE AI SCHIMBAT
+ȘI PENTRU CĂ MI-AI UMPLUT INIMA.

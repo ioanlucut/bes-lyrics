@@ -1,0 +1,53 @@
+[title]
+Domnul e mult mai mare
+
+[sequence]
+1,2,3,4,5,6,7
+
+[1]
+Domnul e mult mai mare
+Decât problema mea
+Orice munte-oricât de tare
+Se apleacă-n fata Sa
+Semnele de întrebare
+Nu îi pot rezista
+Orice munte-oricât de tare
+Se apleacă-n fata Sa
+
+[2]
+Umbrele mă înconjoară,
+Dar El e prezent.
+Orice munte oricât de tare,
+Se apleacă-n fața Sa.
+
+[3]
+Nici cea mai grea confuzie Nu-L poate înfrunta
+Orice munte oricât de tare Se apleacă-n fata Sa
+
+[4]
+Domnul e mult mai mare
+Decât problema mea
+Orice munte-oricât de tare
+Se apleacă-n fata Sa
+Semnele de întrebare
+Nu îi pot rezista
+Orice munte-oricât de tare
+Se apleacă-n fata Sa
+
+[5]
+Nici un uriaș vreodată Nu-L poate egala
+Orice munte oricât de tare Se apleacă-n fata Sa
+
+[6]
+Domnul e cel mai mare El poate tot ce vrea
+Orice munte oricât de tare Se apleacă-n fata Sa
+
+[7]
+Domnul e mult mai mare
+Decât problema mea
+Orice munte-oricât de tare
+Se apleacă-n fata Sa
+Semnele de întrebare
+Nu îi pot rezista
+Orice munte-oricât de tare
+Se apleacă-n fata Sa

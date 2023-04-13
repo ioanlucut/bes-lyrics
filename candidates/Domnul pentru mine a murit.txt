@@ -1,0 +1,50 @@
+[title]
+Domnul pentru mine a murit
+
+[sequence]
+1,2,3,4,c
+
+[1]
+Domnul pentru mine a murit
+Amin, amin
+În sânge Sfânt Isus a biruit
+Amin, amin
+A fost mort, dar azi e viu
+Amin, amin
+Stă la dreapta Tatălui Divin
+Amin,
+Amin
+
+[2]
+Mare e gloria Domnului,
+Puternic
+Mare e gloria Domnului
+Îl voi lăuda cu tot ce sunt pe Cel Puternic
+Mare e gloria Lui !
+
+[3]
+Pe nedrept a fost batjocorit
+Amin, amin
+Dar n-a rămas pe cruce pironit
+Amin, amin
+Azi iubirea Lui, e peste noi
+Amin, amin
+Aleluia El va reveni
+Amin, amin
+
+[4]
+Mare e gloria Domnului,
+Puternic
+Mare e gloria Domnului
+Îl voi lăuda cu tot ce sunt pe Cel Puternic
+Mare e gloria Lui !
+
+[chorus]
+/: Tu ești acel ce-a fost
+Tu ești acel ce ești
+Tu ești acel ce va veni :/
+Mare e gloria Domnului,
+Puternic
+Mare e gloria Domnului
+Îl voi lăuda cu tot ce sunt pe Cel Puternic
+Mare e gloria Lui !

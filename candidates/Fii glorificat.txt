@@ -1,0 +1,31 @@
+[title]
+Fii glorificat
+
+[sequence]
+1,2,3,4
+
+[1]
+FII GLORIFICAT,
+FII GLORIFICAT
+FII GLORIFICAT,
+FII GLORIFICAT.
+
+[2]
+Fii glorificat în ceruri,
+Fii glorificat pe pământ,
+Fii glorificat în Templu,
+Isus,
+Isus, fii glorificat!
+
+[3]
+FII GLORIFICAT,
+FII GLORIFICAT
+FII GLORIFICAT,
+FII GLORIFICAT.
+
+[4]
+Fii glorificat în ceruri,
+Fii glorificat pe pământ,
+Fii glorificat în Templu,
+Isus,
+Isus, fii glorificat!

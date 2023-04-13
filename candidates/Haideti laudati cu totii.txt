@@ -1,0 +1,37 @@
+[title]
+Haideti laudati cu totii
+
+[sequence]
+c,1,2,3
+
+[chorus]
+/: Haideți, lăudați cu toții
+Pe Dumnezeul Sfânt al lui Israel :/
+/: Ridică-ți mâinile și cântă-I numele
+Căci Dumnezeu te-a ridicat :/
+
+[1]
+HAIDEȚI,
+HAIDEȚI
+SĂ URCĂM PE MUNTELE SFÂNT
+UNDE-I VESELIE ȘI CÂNT,
+SĂ CÂNTĂM ÎN FAȚA LUI.
+SĂ STRIGĂM ÎN FAȚA LUI:
+EL E DOMN SUS ÎN CER
+UNDE-I TRONUL SĂU.
+
+[2]
+Hawa, naghila hawa,
+Naghila hawa, naghila weeni smeha
+Hawa neranena, hawa neranena
+Hawa neranena weeni smeha.
+
+[3]
+URU,
+URU
+URU AHIM BELEV SAMEAH
+URU AHIM BELEV SAMEAH
+URU AHIM BELEV SAMEAH
+URU AHIM,
+URU AHIM
+URU AHIM BELEV SAMEAH.

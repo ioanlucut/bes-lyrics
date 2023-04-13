@@ -1,0 +1,39 @@
+[title]
+Credincios ești să ne conduci
+
+[sequence]
+c,1,c,2,c
+
+[chorus]
+/: CREDINCIOS EȘTI SĂ NE CONDUCI,
+NUMAI TU POȚI SĂ NE AJUȚI,
+TU LUMINEZI CALEA ȘI VIAȚA MEA,
+VREDNIC SĂ NE CONDUCI :/
+
+[1]
+Lumina Ta vrem s-o răspândim,
+Numele să-Ți înălțăm
+Împărăția Ta va veni
+Vino,
+Doamne.
+Credincios, credincios. (4x)
+
+[chorus]
+/: CREDINCIOS EȘTI SĂ NE CONDUCI,
+NUMAI TU POȚI SĂ NE AJUȚI,
+TU LUMINEZI CALEA ȘI VIAȚA MEA,
+VREDNIC SĂ NE CONDUCI :/
+
+[2]
+Lumina Ta vrem s-o răspândim,
+Numele să-Ți înălțăm
+Împărăția Ta va veni
+Vino,
+Doamne.
+Credincios, credincios. (4x)
+
+[chorus]
+/: CREDINCIOS EȘTI SĂ NE CONDUCI,
+NUMAI TU POȚI SĂ NE AJUȚI,
+TU LUMINEZI CALEA ȘI VIAȚA MEA,
+VREDNIC SĂ NE CONDUCI :/

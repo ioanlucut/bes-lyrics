@@ -1,0 +1,38 @@
+[title]
+Ce dulce ești Isuse
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
+Ce dulce ești Isuse,
+Ce dulce ești și bun,
+Spun stelele și luna,
+Și cerurile spun.
+
+[chorus]
+/: Și-ntreg pământul spune
+Ce dulce ești și bun :/
+O, CE BUN. (8x)
+
+[2]
+Când bucurii divine
+În inimă adun,
+Eu gust mereu din Tine
+Și-mi ești mereu mai bun.
+
+[chorus]
+/: Că nu găsesc cuvinte
+Să pot, să știu, să spun :/
+CĂ EȘTI BUN. (8x)
+
+[3]
+O, de mi-ar sta-n putință
+Ca lumea s-o adun,
+De multa-ți bunătate
+Plângând aș sta să-ți spun.
+
+[chorus]
+/: Să pot să-i fac să guste
+Ce dulce ești și bun :/
+O, CE BUN. (8x)

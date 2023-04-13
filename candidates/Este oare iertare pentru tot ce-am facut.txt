@@ -1,0 +1,38 @@
+[title]
+Este oare iertare pentru tot ce-am făcut
+
+[sequence]
+1,2,3,4
+
+[1]
+Este oare iertare pentru tot ce-am făcut?
+Doamne pot eu oare să vin așa cum sunt?
+’Naintea Ta, în fața Ta.
+Este oare iertare pentru tot ce-am făcut?
+Doamne pot eu oare s-o iau de la-nceput?
+’Naintea Ta, în fața Ta.
+
+[2]
+ȘTIU DOMNUL MEU,
+SUNT UN OM AȘA RĂU
+ȘI TE-AM ÎNTRISTAT MEREU.
+ȘTIU DOMNUL MEU,
+TE-AM RĂSTIGNIT CHIAR EU
+CÂND AM SPUS NU ESTE DUMNEZEU.
+OARE MĂ POȚI IERTA?
+
+[3]
+Cred că este iertare
+pentru tot ce-am făcut,
+Cred că acum este momentul
+S-o iau de la-nceput
+’Naintea Ta, în fața Ta.
+
+[4]
+ȘTIU DOMNUL MEU,
+VEI VENI ÎN CURÂND
+ȘI PE NORII CERULUI VEI STA.
+ȘTIU DOMNUL MEU,
+VEI VENI ÎN CURÂND,
+NU VOI MAI PLECA DIN FAȚA TA,
+EU VOI STA LA DREAPTA TA.

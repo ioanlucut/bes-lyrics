@@ -1,0 +1,29 @@
+[title]
+M-am hotărât să-L urmez pe Isus
+
+[sequence]
+1,2,3,4
+
+[1]
+M-am hotărât să-L urmez pe Isus,
+M-am hotărât să-L urmez pe Isus,
+M-am hotărât să-L urmez pe Isus
+/: Și înapoi eu nu voi da :/
+
+[2]
+Nimic nu mă va clinti pe cale,
+Nimic nu mă va clinti pe cale,
+Nimic nu mă va clinti pe cale
+/: Și înapoi eu nu voi da :/
+
+[3]
+În urmă-i lumea, ’nainte-i crucea
+În urmă-i lumea, ’nainte-i Isus
+În urmă-i lumea, ’nainte-i cerul
+/: Și înapoi eu nu voi da :/
+
+[4]
+Renunț la lume dar nu la Isus,
+Renunț la lume dar nu la Isus,
+Renunț la lume dar nu la Isus
+/: Și înapoi eu nu voi da :/

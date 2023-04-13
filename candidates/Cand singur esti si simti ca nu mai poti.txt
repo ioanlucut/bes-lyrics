@@ -1,5 +1,5 @@
 [title]
-Când singur ești
+Când singur ești și simți că nu mai poți
 
 [sequence]
 1,c,2,c,3,c

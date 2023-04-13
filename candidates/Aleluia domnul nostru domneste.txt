@@ -1,0 +1,33 @@
+[title]
+Aleluia Domnul nostru domneste
+
+[sequence]
+chorus,1,c,2
+
+[chorus]
+/: Aleluia :/
+Domnul nostru domnește
+în veci. (2x)
+
+[1]
+ALELUIA,
+TU /: EȘTI SFÂNT :/
+DOMNUL NOSTRU DIN CERURI
+/: VREDNIC EȘTI ÎN VECI :/
+CĂCI TU DOAR /: EȘTI SFÂNT :/
+DOMNUL NOSTRU DIN CERURI
+/: VREDNIC EȘTI ÎN VECI :/
+
+[chorus]
+/: Aleluia :/
+Domnul nostru domnește
+în veci. (2x)
+
+[2]
+ALELUIA,
+TU /: EȘTI SFÂNT :/
+DOMNUL NOSTRU DIN CERURI
+/: VREDNIC EȘTI ÎN VECI :/
+CĂCI TU DOAR /: EȘTI SFÂNT :/
+DOMNUL NOSTRU DIN CERURI
+/: VREDNIC EȘTI ÎN VECI :/
