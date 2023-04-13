@@ -3,15 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
-
-const EMPTY_STRING = '';
-const ERROR_CODE = 1;
-const TXT_EXTENSION = '.txt';
-
-const ALLOWED_CHARS =
-  ` !(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„\n\r`.split(
-    EMPTY_STRING,
-  );
+import { ALLOWED_CHARS, ERROR_CODE, TXT_EXTENSION } from './constants';
 
 dotenv.config();
 
