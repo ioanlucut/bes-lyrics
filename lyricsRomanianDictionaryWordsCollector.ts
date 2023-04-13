@@ -1,3 +1,8 @@
+// ---
+// This plugin is listing the unknown words found in the lyrics, but it's not
+// 100% reliable thus it cannot be used as a validator per se
+// ---
+
 import _ from 'lodash';
 import fs from 'fs';
 import path from 'path';
@@ -8,7 +13,7 @@ import NSpell from 'nspell';
 import * as util from 'util';
 import dotenv from 'dotenv';
 
-const CHARS_SEPARATORS = /[ !(),./:;?’”„]+/;
+const CHARS_SEPARATORS = /[ !(),./:;?”„]+/;
 const NEW_LINE = '\n';
 const CARRIAGE_RETURN = '\r';
 const ERROR_CODE = 1;
