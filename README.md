@@ -38,7 +38,7 @@ Domn al veșniciei, în veci! Amin!
 Caracterele pe care le putem folosi sunt foarte importante, așa că am definit o listă pe care o putem folosi:
 
 ```
- !(),-./1234567890:;?ABCDEFGHIJLMNOPRSTUVZ[\\]abcdefghijlmnopqrstuvwxzÎâîăÂȘșĂȚț’”„
+ !(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZY[\]abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„
 ```
 
 Întrucât sunt foarte multe versiuni ale caracterelor e.g. `ș`, e nevoie să folosim aceleași caractere cu același format unicode. Un exemplu poate fi văzut aici: https://www.compart.com/en/unicode/U+201D

@@ -10,8 +10,8 @@ dotenv.config();
 const THRESHOLD = 0.7;
 
 const readAllVerifiedFilesOnce = () =>
-  fs.readdirSync(process.env.VERIFIED_DIR).map((fileName) => {
-    const filePath = path.join(__dirname, process.env.VERIFIED_DIR, fileName);
+  fs.readdirSync(process.env.CANDIDATES_DIR).map((fileName) => {
+    const filePath = path.join(__dirname, process.env.CANDIDATES_DIR, fileName);
 
     return {
       contentAsString: fs.readFileSync(filePath).toString(),

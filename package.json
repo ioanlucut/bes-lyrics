@@ -30,6 +30,7 @@
     "lint": "eslint . --ext .ts,.txt",
     "verify": "ts-node ./lyricsTextValidator.ts",
     "verify:similarity": "ts-node ./lyricsSimilarityValidator.ts",
+    "reprocess:candidates": "ts-node ./lyricsTextReprocessor.ts",
     "stats": "ts-node lyricsRomanianDictionaryWordsCollector.ts"
   },
   "author": "Ioan Lucuț",

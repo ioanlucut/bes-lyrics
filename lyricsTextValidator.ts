@@ -9,7 +9,7 @@ const ERROR_CODE = 1;
 const TXT_EXTENSION = '.txt';
 
 const ALLOWED_CHARS =
-  ` !(),-./1234567890:;?ABCDEFGHIJLMNOPRSTUVZ[\\]abcdefghijlmnopqrstuvwxzÎâîăÂȘșĂȚț’”„\n\r`.split(
+  ` !(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„\n\r`.split(
     EMPTY_STRING,
   );
 
@@ -19,7 +19,7 @@ const getUniqueChars = (content: string) =>
   _.flattenDeep(_.uniq(content)).filter(Boolean).sort();
 
 const getUniqueCharsByFileName = (fileName: string) => {
-  const filePath = path.join(__dirname, process.env.VERIFIED_DIR, fileName);
+  const filePath = path.join(__dirname, process.env.CANDIDATES_DIR, fileName);
   const fileContent = fs.readFileSync(filePath).toString();
   const uniqueCharsFromContent = getUniqueChars(fileContent);
   const uniqueCharsFromFileName = getUniqueChars(fileName);
@@ -39,7 +39,7 @@ const getUniqueCharsByFileName = (fileName: string) => {
 
 (() => {
   const problematicHits = fs
-    .readdirSync(process.env.VERIFIED_DIR)
+    .readdirSync(process.env.CANDIDATES_DIR)
     .filter((fileName) => fileName.endsWith(TXT_EXTENSION))
     .map(getUniqueCharsByFileName)
     .filter(
