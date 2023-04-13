@@ -1,0 +1,25 @@
+[title]
+Osana, Amin, Osana
+
+[sequence]
+c,1,c,2,c,3,c,4,c
+
+[chorus]
+/: Osana, Amin, Osana,
+O Aleluia, Maranata! :/
+
+[1]
+/: Isus e Domn, El a-nviat
+Și este viu în veci de veci. :/
+
+[2]
+/: El mă iubește, El te iubește
+El ne iubește pe noi, pe toți. :/
+
+[3]
+/: El vine iar și va răpi
+În cerul sfânt pe-aleșii Săi. :/
+
+[4]
+/: Ești pregătit să mergi în cer
+Să-L întâlnești pe Dumnezeu. :/

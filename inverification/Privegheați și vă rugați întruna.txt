@@ -5,7 +5,7 @@ Privegheați și vă rugați întruna
 1,c,2,c,3,c,4,c
 
 [1]
-Privegheați și vă rugați întruna
+Privegheați și vă rugați întruna,
 Domnul vine în curând.
 El ia pe ai Săi cu Sine-n slavă
 Care-n rugi stau așteptând.
@@ -17,8 +17,8 @@ Așteptând pe Domnul tău!
 Să ne ia la tronul Său!
 
 [2]
-Privegheați și vă rugați întruna
-Că Cel Rău e ne-adormit,
+Privegheați și vă rugați întruna,
+Că Cel Rău e ne-adormit.
 Îmbrăcați în hainele dreptății
 Ce-n Isus am dobândit.
 

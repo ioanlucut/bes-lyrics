@@ -5,11 +5,11 @@ Ce minunat e să fii dintr-o familie
 1,c,1,c
 
 [1]
-/: Ce minunat e să fii dintr-o familie
-Familia sfântă a Domnului Isus :/
+/: Ce minunat e să fii dintr-o familie,
+Familia sfântă a Domnului Isus! :/
 
 [chorus]
-/: Suntem o familie unită
-Suntem o familie reală
-Familia care iubește
-Familia Domnului Isus :/
+/: Suntem o familie unită,
+Suntem o familie reală,
+Familia care iubește,
+Familia Domnului Isus. :/

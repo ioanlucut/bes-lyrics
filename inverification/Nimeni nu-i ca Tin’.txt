@@ -5,13 +5,13 @@ Nimeni nu-i ca Tin’
 1,c,1,c,1
 
 [1]
-/: Nimeni nu-i ca Tin’
-Nimeni n-a putut viața-mi schimba
-Oricât de mult aș căuta n-aș găsi
-Nimeni nu-i ca Tin’ :/
+/: Nimeni nu-i ca Tin’,
+Nimeni n-a putut viața-mi schimba,
+Oricât de mult aș căuta, n-aș găsi,
+Nimeni nu-i ca Tin’. :/
 
 [chorus]
 Căci dragostea-Ți fără de margini m-a atins
-Și inima-mi copleși
-Sunt în siguranță sub brațul Tău sfânt
-Nimeni nu-i ca Tin’
+Și inima-mi copleși.
+Sunt în siguranță sub brațul Tău sfânt,
+Nimeni nu-i ca Tin’.

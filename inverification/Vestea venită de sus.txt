@@ -5,17 +5,17 @@ Vestea venită de sus
 c,1,c,2,c
 
 [1]
-Vestea venită de sus
+Vestea venită de sus,
 Se naște Domnul Isus
-Printr-o fecioară sfântă, ce minunat
-S-a împărțit istoria
-Cerul cântă gloria Sa
-Coboară printre oameni, pacea Sa.
+Printr-o fecioară sfântă, ce minunat!
+S-a împărțit istoria,
+Cerul cântă gloria Sa,
+Coboară printre oameni pacea Sa.
 
 [chorus]
-Sfânt Fiu de Dumnezeu
-Isus, Emanuel
-În planul mântuirii ne-ai iubit
+Sfânt Fiu de Dumnezeu,
+Isus, Emanuel,
+În planul mântuirii ne-ai iubit.
 Din slavă la Betleem
 În iesle ai venit
 Ce har și mântuire am primit.
@@ -23,7 +23,7 @@ Ce har și mântuire am primit.
 [2]
 Popoare și regi s-au dus
 Dar veșnic rămâne Isus
-Domnește ca înpărat, Mântuitor
+Domnește ca împărat, Mântuitor.
 Calea ce duce spre cer
-Alfa, Omega Tu ești la fel
+Alfa, Omega, Tu ești la fel
 Mesia, fii slăvit, o, Domnul meu!

@@ -6,19 +6,19 @@ c,1,c,2,c,3,c
 
 [chorus]
 /: Zidurile ’nalte de la Ierihon,
-Ierihon, Ierihon
+Ierihon, Ierihon,
 Zidurile ’nalte de la Ierihon
-Nu se vor zidi din nou :/
+Nu se vor zidi din nou. :/
 
 [1]
 În cetatea Ierihon trăia
 Un popor care nu se temea
 De Domnul și a trebuit
-Ca să fie nimicit.
+Să fie nimicit.
 
 [2]
-Israel nu s-a luptat
-Într-un glas cu toții au strigat
+Israel nu s-a luptat,
+Într-un glas cu toții au strigat.
 În Dumnezeu ei s-au încrezut
 Și zidurile-au căzut.
 

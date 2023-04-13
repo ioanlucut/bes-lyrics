@@ -5,14 +5,14 @@ Nu la întâmplare sunt
 1,c,2,c,3,c,4,c
 
 [1]
-/: Nu la întâmplare sunt
+/: Nu la întâmplare sunt,
 Domnul m-a creat. :/
 
 [chorus]
-/: Eu sunt cu voi în orice zi
+/: Eu sunt cu voi în orice zi,
+Eu sunt cu voi în orice zi,
 Eu sunt cu voi în orice zi
-Eu sunt cu voi în orice zi
-A spus Isus :/
+A spus Isus! :/
 
 [2]
 /: Nici puterea lumii-ntregi

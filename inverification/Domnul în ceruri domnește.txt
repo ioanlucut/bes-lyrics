@@ -5,10 +5,10 @@ Domnul în ceruri domnește
 1,c,1,c
 
 [1]
-Domnul în ceruri domnește
+Domnul în ceruri domnește,
 Pe tron e așezat,
-Plin de mărire și-n slavă e îmbrăcat
-Noi toți cu sfinte podoabe
+Plin de mărire și-n slavă e îmbrăcat.
+Noi toți, cu sfinte podoabe,
 Stăm în prezența Sa
 Și-n timp ce Îi vom cânta
 Slava Lui vom vedea

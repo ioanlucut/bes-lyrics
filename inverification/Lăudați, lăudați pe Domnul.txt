@@ -1,0 +1,30 @@
+[title]
+Lăudați, lăudați pe Domnul
+
+[sequence]
+1,c,2,c,3,c,b
+
+[1]
+Lăudați, lăudați pe Domnul,
+Lăudați pe Dumnezeu!
+În locașul Lui cel sfânt,
+Lăudați pe Dumnezeu!
+
+[chorus]
+Glorie Ție, Părinte din ceruri,
+Tu ești Domn în veci de veci!
+
+[2]
+Tu ești Doamne, stânca mea,
+Scutul meu în vreme grea,
+Tu mă aperi de dușmani
+Și-mi ridici povara grea.
+
+[3]
+Voi lăuda pe Domnul meu,
+Voi lăuda pe Dumnezeu!
+În locașul Lui cel sfânt,
+Voi lăuda pe Dumnezeu!
+
+[bridge]
+Tu ești Domn în veci! x3

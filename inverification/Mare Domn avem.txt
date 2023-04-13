@@ -5,17 +5,17 @@ Mare Domn avem
 1,c,2,c
 
 [1]
-/: Mare Domn avem
-Mare Dumnezeu
+/: Mare Domn avem,
+Mare Dumnezeu,
 Mare Împărat,
-Pe toate le-ai creat :/
+Pe toate le-ai creat. :/
 
 [2]
-/: Glorie Domnului
-Glorie numai Lui
-El e Împărat
-Pe toate le-a creat :/
+/: Glorie Domnului,
+Glorie numai Lui,
+El e Împărat,
+Pe toate le-a creat. :/
 
 [chorus]
-/: Numele Lui e pe-ntreg pământul înălțat
+/: Numele Lui e pe-ntreg pământul înălțat.
 Atotputernic, El lumea-ntreagă a creat :/

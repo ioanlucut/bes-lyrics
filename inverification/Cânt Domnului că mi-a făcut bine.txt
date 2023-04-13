@@ -2,7 +2,7 @@
 Cânt Domnului că mi-a făcut bine
 
 [sequence]
-1,c,2,c,3,c
+1,c,2,c
 
 [1]
 Cânt Domnului că mi-a făcut bine,

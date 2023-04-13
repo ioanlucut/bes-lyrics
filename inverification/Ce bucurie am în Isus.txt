@@ -1,5 +1,5 @@
 [title]
-Ce bucurie am în Isus
+Ce bucurie am în Isus!
 
 [sequence]
 1,c,2,c,3,c
@@ -7,13 +7,13 @@ Ce bucurie am în Isus
 [1]
 Ce bucurie am în Isus!
 O viață nouă El mi-a adus.
-Pentru vecie m-a mântuit,
+Pentru vecie m-a mântuit
 Și moștenire mi-a dăruit.
 
 [chorus]
 În veci cânta-voi că-s fericit:
 Acum prin Isus sunt mântuit!
-In veci aceasta voi cânta eu:
+In veci, aceasta voi cânta eu:
 „Laud pe Isus că e al meu!”
 
 [2]

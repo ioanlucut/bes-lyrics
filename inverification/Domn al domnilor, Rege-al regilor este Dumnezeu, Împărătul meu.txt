@@ -1,0 +1,23 @@
+[title]
+Domn al domnilor, Rege-al regilor este Dumnezeu, Împărătul meu
+
+[sequence]
+1,c,1,c,t
+
+[1]
+Domn al domnilor, Rege-al regilor
+Este Dumnezeu, Împărătul meu;
+Mare și tare, El va domni cu multă slavă;
+Domn al domnilor, Rege-al regilor
+Este Dumnezeu, Împărătul meu;
+Mare și tare El va domni
+Sfântul din veșnicii.
+
+[chorus]
+/: Înconjurat cu mărire,
+Slavă și strălucire
+Stă pe tron ca Stăpân și Domn! :/
+
+[chorus 2]
+/: Aleluia, Aleluia, Aleluia, Aleluia! :/
+Aleluia!

@@ -5,20 +5,20 @@ Cu Domnul să mergem-nainte
 1,c,2,c,3,c
 
 [1]
-Cu Domnul să mergem-nainte
+Cu Domnul să mergem-nainte,
 Cu Domnul să mergem cântând
 /: Când totul se stinge-n morminte
-Cu El biruim orișicând :/
+Cu El biruim orișicând. :/
 
 [chorus]
-/: Cu El biruim, cu El biruim
-Oricât de-ndârjită e lupta
+/: Cu El biruim, cu El biruim,
+Oricât de-ndârjită e lupta,
 Cu Domnul Isus biruim. :/
 
 [2]
-Isus e în veci Împăratul
-Căci El e de-a pururea viu
-/: Prin moarte-a plătit El păcatul
+Isus e în veci Împăratul,
+Căci El e de-a pururea viu.
+/: Prin moarte-a plătit El păcatul,
 Mormântu-i rămas-a pustiu :/
 
 [3]

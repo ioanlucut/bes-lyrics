@@ -5,15 +5,15 @@ Nu-i prieten lui Isus asemenea
 1,c,2,c,3,c,4,c
 
 [1]
-Nu-i prieten lui Isus asemenea
+Nu-i prieten lui Isus asemenea,
 Nimenea, nimenea.
 Nimeni nu poate ca El vindeca
 Nimenea, nimenea.
 
 [chorus]
-Isus ne ști pe noi mai bine
+Isus ne știe pe noi mai bine
 El poate să ne ajute,
-Nu-i prieten lui Isus asemenea
+Nu-i prieten lui Isus asemenea,
 Nimenea, nimenea.
 
 [2]
@@ -24,7 +24,7 @@ Nimenea, nimenea.
 
 [3]
 Cine ca El te va păstra așa?
-Nimenea, nimenea
+Nimenea, nimenea.
 Nu este cine a iubi așa
 Nimenea, nimenea.
 

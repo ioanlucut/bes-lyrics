@@ -1,18 +1,18 @@
 [title]
-Vreau lângă Dumnezeu să fiu mereu
+Vreau, lângă Dumnezeu, să fiu mereu
 
 [sequence]
 1,2,3,4,5
 
 [1]
 Vreau, lângă Dumnezeu, să fiu mereu,
-Oricât ar fi de greu, necazul meu.
+Oricât ar fi de greu necazul meu.
 Oricât voi suferi, Cântarea mea va fi:
 „Vreau, lângă Dumnezeu, să fiu mereu!”
 
 [2]
-Pe-ndepărtate căi, de-aș înnopta,
-Și-o piatră căpătâi, dac-aș avea,
+Pe-ndepărtate căi de-aș înnopta,
+Și-o piatră căpătâi dac-aș avea,
 Tot fericit aș fi, și-n vis aș glăsui:
 „Vreau, lângă Dumnezeu, să fiu mereu!”
 
@@ -25,7 +25,7 @@ Mai mult mă oțelesc, în harul Tău ceresc.
 [4]
 Când calea-mi voi sfârși, ici pe pământ,
 Și-n veșnicii voi fi, cu Domnul sfânt,
-Voi fi prea fericit, cu-al meu Isus iubit
+Voi fi prea fericit, cu-al meu Isus iubit,
 „Vreau, lângă Dumnezeu, să fiu mereu!”
 
 [5]
