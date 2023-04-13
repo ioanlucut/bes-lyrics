@@ -8,7 +8,7 @@ import { EMPTY_STRING } from './constants';
 dotenv.config();
 
 const reprocessFileNames = (dir: string) => {
-  console.log(`"Processing ${dir}.."`);
+  console.log(`"Reprocessing file names from ${dir} directory.."`);
 
   fs.readdirSync(dir).forEach((fileName) => {
     const filePath = path.join(dir, fileName);

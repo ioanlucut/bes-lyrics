@@ -8,3 +8,11 @@ export const ALLOWED_CHARS =
   ` !(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„\n\r`.split(
     EMPTY_STRING,
   );
+
+export const NEW_LINE = '\n';
+
+export const CARRIAGE_RETURN = '\r';
+
+export enum SongSection {
+  TITLE = '[title]',
+}

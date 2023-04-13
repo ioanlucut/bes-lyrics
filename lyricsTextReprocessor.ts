@@ -3,20 +3,26 @@ import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
 import * as process from 'process';
-
-const EMPTY_STRING = '';
-const NEW_LINE = '\n';
-const CARRIAGE_RETURN = '\r';
+import { CARRIAGE_RETURN, NEW_LINE } from './constants';
 
 dotenv.config();
 
-enum SongSection {
-  TITLE = '[title]',
-}
+const normalizeContent = (sections: string[]) => {
+  const array = sections.map((section) => {
+    if (section.startsWith('[')) {
+      return [CARRIAGE_RETURN, section];
+    }
+    return section;
+  });
 
-const reprocess = (strings: string[]) => {
-  strings.forEach((fileName) => {
-    const filePath = path.join(__dirname, process.env.VERIFIED_DIR, fileName);
+  return _.trim(_.flatten(array).join(NEW_LINE));
+};
+
+const reprocess = (dir: string) => {
+  console.log(`"Reprocessing file contents from ${dir} directory.."`);
+
+  fs.readdirSync(dir).forEach((fileName) => {
+    const filePath = path.join(__dirname, dir, fileName);
     const fileContent = fs.readFileSync(filePath).toString();
 
     const sections = fileContent
@@ -24,54 +30,10 @@ const reprocess = (strings: string[]) => {
       .filter(Boolean)
       .map(_.trim);
 
-    const fileNameFromTheTitle =
-      !sections[1] || sections[1] === SongSection.TITLE
-        ? sections[2]
-        : sections[1];
-
-    const computedTitle = _.trim(
-      fileNameFromTheTitle
-        .replaceAll(':/', EMPTY_STRING)
-        .replaceAll('/:', EMPTY_STRING)
-        .replaceAll('.', EMPTY_STRING)
-        .replaceAll('!', EMPTY_STRING)
-        .replaceAll('?', EMPTY_STRING)
-        .replaceAll('„', EMPTY_STRING)
-        .replaceAll('”', EMPTY_STRING)
-        .replaceAll(':', EMPTY_STRING)
-        .replaceAll('  ', EMPTY_STRING)
-        .replaceAll(',', EMPTY_STRING)
-        .replaceAll('1X', EMPTY_STRING)
-        .replaceAll('1x', EMPTY_STRING)
-        .replaceAll('2X', EMPTY_STRING)
-        .replaceAll('2x', EMPTY_STRING)
-        .replaceAll('3X', EMPTY_STRING)
-        .replaceAll('3x', EMPTY_STRING)
-        .replaceAll('4X', EMPTY_STRING)
-        .replaceAll('4x', EMPTY_STRING),
-    );
-
-    const maybeNewFilePath = path.join(
-      __dirname,
-      process.env.VERIFIED_DIR,
-      `${computedTitle}.txt`,
-    );
-
-    const normalizedContent = _.trim(
-      _.flatten(
-        sections.map((section) => {
-          if (section.startsWith('[')) {
-            return [CARRIAGE_RETURN, section];
-          }
-          return section;
-        }),
-      ).join(NEW_LINE),
-    );
-
-    fs.writeFileSync(maybeNewFilePath, normalizedContent);
+    fs.writeFileSync(filePath, normalizeContent(sections));
   });
 };
 
 (async () => {
-  reprocess(fs.readdirSync(process.env.VERIFIED_DIR));
+  reprocess(process.env.CANDIDATES_DIR);
 })();
