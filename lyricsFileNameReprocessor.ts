@@ -24,6 +24,7 @@ const reprocessFileNames = (dir: string) => {
         .replaceAll('  ', ' ')
         .replaceAll(' .', '.')
         .replaceAll('1X', EMPTY_STRING)
+        .replaceAll(/[0-9]*\. /gi, EMPTY_STRING)
         .replaceAll('1x', EMPTY_STRING)
         .replaceAll('2X', EMPTY_STRING)
         .replaceAll('2x', EMPTY_STRING)

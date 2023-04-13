@@ -12,15 +12,13 @@ import nspell from 'nspell';
 import NSpell from 'nspell';
 import * as util from 'util';
 import dotenv from 'dotenv';
-
-const CHARS_SEPARATORS = /[ !(),./:;?”„]+/;
-const NEW_LINE = '\n';
-const CARRIAGE_RETURN = '\r';
-const ERROR_CODE = 1;
-
-export enum SongSection {
-  SEQUENCE = '[sequence]',
-}
+import {
+  CARRIAGE_RETURN,
+  CHARS_SEPARATORS,
+  ERROR_CODE,
+  NEW_LINE,
+  SongSection,
+} from './constants';
 
 dotenv.config();
 

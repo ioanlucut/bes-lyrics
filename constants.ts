@@ -13,6 +13,10 @@ export const NEW_LINE = '\n';
 
 export const CARRIAGE_RETURN = '\r';
 
+export const CHARS_SEPARATORS = /[ !(),./:;?”„]+/;
+
 export enum SongSection {
   TITLE = '[title]',
+  SEQUENCE = '[sequence]',
+  CHORUS = '[chorus]',
 }
