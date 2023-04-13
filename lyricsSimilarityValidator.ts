@@ -4,10 +4,12 @@
 
 import _ from 'lodash';
 import fs from 'fs';
+import fsExtra from 'fs-extra';
 import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
 import stringSimilarity from 'string-similarity';
+import { parseArgs } from 'node:util';
 
 dotenv.config();
 
@@ -70,6 +72,19 @@ const findSimilarities = () => {
 // RUN
 // ---
 
+const {
+  values: { diffDuplicate, removeDuplicates },
+} = parseArgs({
+  options: {
+    diffDuplicate: {
+      type: 'boolean',
+    },
+    removeDuplicates: {
+      type: 'boolean',
+    },
+  },
+});
+
 const allSimilarities = findSimilarities();
 
 if (!_.isEmpty(allSimilarities)) {
@@ -78,12 +93,37 @@ if (!_.isEmpty(allSimilarities)) {
   console.log('Unf., we have found song similarities.');
 
   allSimilarities.forEach(({ candidateFileName, similarities }) => {
-    console.group(`"${candidateFileName}"`);
-    similarities.forEach(({ existingFileName, similarity }) =>
+    console.group(`"Candidate: ${candidateFileName}"`);
+    similarities.forEach(({ existingFileName, similarity }) => {
       console.log(
-        `Similar to the "${existingFileName}" with a similarity of "${similarity}"`,
-      ),
-    );
+        `- similar to existing "${existingFileName}" with a similarity score of "${similarity}"`,
+      );
+
+      const candidateFilePath = path.join(
+        __dirname,
+        process.env.CANDIDATES_DIR,
+        candidateFileName,
+      );
+
+      if (!fsExtra.pathExistsSync(candidateFilePath)) {
+        return;
+      }
+
+      if (removeDuplicates) {
+        fsExtra.unlinkSync(candidateFilePath);
+      }
+
+      if (diffDuplicate) {
+        fsExtra.moveSync(
+          candidateFilePath,
+          path.join(__dirname, process.env.VERIFIED_DIR, existingFileName),
+          {
+            overwrite: true,
+          },
+        );
+      }
+    });
+
     console.groupEnd();
   });
 
