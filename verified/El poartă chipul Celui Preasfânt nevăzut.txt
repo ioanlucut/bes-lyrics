@@ -26,7 +26,7 @@ Ești vrednic.
 
 [chorus]
 /: Ești minunat, ești minunat
-Doar Tu, doar Tu! :/ x4
+Doar Tu, doar Tu! :/ (x4)
 
 [chorus 2]
 /: În veci, Tu ești Domn peste veacuri,

@@ -5,7 +5,7 @@ Vino și-n casa mea
 c,1,c,2,c,3,c,4,e
 
 [chorus]
-/: Vino și-n casa mea :/ x3
+/: Vino și-n casa mea :/ (x3)
 Când furtuna este grea.
 
 [1]
@@ -33,5 +33,5 @@ Capul sus își va ține
 Când vii Tu în casa mea.
 
 [ending]
-/: Vino și-n casa mea :/ x3
+/: Vino și-n casa mea :/ (x3)
 Și rămâi pe veci în ea! :/

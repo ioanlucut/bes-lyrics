@@ -10,7 +10,7 @@ Pescar de om, pescar de om,
 Vreau să te fac pescar de om,
 Dacă Mă urmezi.
 
-/: Dacă Mă urmezi. :/ 3x
+/: Dacă Mă urmezi. :/ (x3)
 Vreau să te fac pescar de om,
 Dacă Mă urmezi.
 
@@ -20,7 +20,7 @@ Să Te urmez, să Te urmez,
 Vreau, Isuse, să Te urmez!
 Știu că mă iubești.
 
-/: Știu că mă iubești. :/ 3x
+/: Știu că mă iubești. :/ (x3)
 Vreau, Isuse, să Te urmez
 Știu că mă iubești.
 
@@ -30,6 +30,6 @@ Mreaja în râu, mreaja în râu,
 Arunca-voi mreaja în râu,
 La cuvântul Tău.
 
-/: Voi fi bun pescar :/ 3x
+/: Voi fi bun pescar :/ (x3)
 Dacă Tu îmi vei da în dar,
 Undița de har.
