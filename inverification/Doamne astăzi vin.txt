@@ -1,5 +1,5 @@
 [title]
-Doamne astăzi vin
+Doamne, astăzi vin
 
 [sequence]
 1,c,2,c
