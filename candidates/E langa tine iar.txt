@@ -23,4 +23,6 @@ Blândul Samaritean îți leagă rana iar,
 Și nu te lasă-n drum, străine.
 
 [4]
-Ref / Strofa 1 / Ref
+Ref
+Strofa 1
+Ref
