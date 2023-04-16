@@ -36,7 +36,7 @@
     "lint": "eslint . --ext .ts,.txt",
     "verify": "ts-node ./lyricsTextValidator.ts",
     "verify:similarity": "ts-node ./lyricsSimilarityValidator.ts",
-    "verify:similarity:diff": "ts-node ./lyricsSimilarityValidator.ts --diffDuplicate",
+    "verify:similarity:mv": "ts-node ./lyricsSimilarityValidator.ts --overwrite",
     "verify:similarity:rm": "ts-node ./lyricsSimilarityValidator.ts --removeDuplicates",
     "reprocess:candidates": "ts-node ./lyricsTextReprocessor.ts",
     "stats": "ts-node lyricsRomanianDictionaryWordsCollector.ts"

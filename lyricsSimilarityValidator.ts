@@ -73,10 +73,10 @@ const findSimilarities = () => {
 // ---
 
 const {
-  values: { diffDuplicate, removeDuplicates },
+  values: { overwrite, removeDuplicates },
 } = parseArgs({
   options: {
-    diffDuplicate: {
+    overwrite: {
       type: 'boolean',
     },
     removeDuplicates: {
@@ -113,7 +113,7 @@ if (!_.isEmpty(allSimilarities)) {
         fsExtra.unlinkSync(candidateFilePath);
       }
 
-      if (diffDuplicate) {
+      if (overwrite) {
         fsExtra.moveSync(
           candidateFilePath,
           path.join(__dirname, process.env.VERIFIED_DIR, existingFileName),
