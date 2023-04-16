@@ -2,7 +2,7 @@
 Se cuvine să Te laud, Domnul meu
 
 [sequence]
-1,c,2,c,3,c
+1,c,2,c,3,c,4,c
 
 [1]
 Se cuvine să Te laud, Domnul meu,

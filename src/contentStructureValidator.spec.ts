@@ -152,7 +152,7 @@ Row 1`),
     expect(() =>
       verifyStructure(SONG_WITH_MISMATCHING_SECTIONS),
     ).toThrowErrorMatchingInlineSnapshot(
-      `"The [chorus] is defined in the sequence but missing as a section.."`,
+      `"The "[chorus]" is defined in the sequence but missing as a "c" section."`,
     );
   });
 });
