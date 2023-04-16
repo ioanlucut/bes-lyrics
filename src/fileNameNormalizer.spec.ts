@@ -7,20 +7,21 @@ describe('fileNameNormalizer', () => {
         '!(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„.txt',
       ),
     ).toMatchInlineSnapshot(
-      `"-.;ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`,
+      `"-.ABCDEFGHIJKLMNOPRSTUVWXZYabcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`,
     );
-    expect(normalizeFileName('asdf .txt')).toMatchInlineSnapshot(`"asdf.txt"`);
+    expect(normalizeFileName('file .txt')).toMatchInlineSnapshot(`"file.txt"`);
     expect(normalizeFileName('as  df  .txt')).toMatchInlineSnapshot(
       `"as df.txt"`,
     );
-    expect(normalizeFileName('1. asdf .txt')).toMatchInlineSnapshot(
-      `". asdf.txt"`,
+    expect(normalizeFileName('1. file .txt')).toMatchInlineSnapshot(
+      `". file.txt"`,
     );
-    expect(normalizeFileName('1 asdf .txt')).toMatchInlineSnapshot(
-      `"asdf.txt"`,
+    expect(normalizeFileName('1 file .txt')).toMatchInlineSnapshot(
+      `"file.txt"`,
     );
-    expect(normalizeFileName('1, asdf .txt')).toMatchInlineSnapshot(
-      `"asdf.txt"`,
+    expect(normalizeFileName('1, file .txt')).toMatchInlineSnapshot(
+      `"file.txt"`,
     );
+    expect(normalizeFileName(' file.txt ')).toMatchInlineSnapshot(`"file.txt"`);
   });
 });

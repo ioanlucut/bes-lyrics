@@ -3,27 +3,10 @@ import fs from 'fs';
 import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
-import { ALLOWED_CHARS, ERROR_CODE, TXT_EXTENSION } from './constants';
+import { ERROR_CODE, TXT_EXTENSION } from './constants';
+import { assemblyCharsStats } from './src/charsStatsCollector';
 
 dotenv.config();
-
-const getUniqueChars = (content: string) =>
-  _.flattenDeep(_.uniq(content)).filter(Boolean).sort();
-
-const getUniqueCharsByFileName = (fileName: string) => {
-  const filePath = path.join(__dirname, process.env.CANDIDATES_DIR, fileName);
-  const fileContent = fs.readFileSync(filePath).toString();
-  const uniqueCharsFromContent = getUniqueChars(fileContent);
-  const uniqueCharsFromFileName = getUniqueChars(fileName);
-
-  return {
-    fileName,
-    uniqueCharsFromContent,
-    differenceInContent: _.difference(uniqueCharsFromContent, ALLOWED_CHARS),
-    uniqueCharsFromFileName,
-    differenceInFileName: _.difference(uniqueCharsFromFileName, ALLOWED_CHARS),
-  };
-};
 
 // ---
 // RUN
@@ -33,7 +16,16 @@ const getUniqueCharsByFileName = (fileName: string) => {
   const problematicHits = fs
     .readdirSync(process.env.CANDIDATES_DIR)
     .filter((fileName) => fileName.endsWith(TXT_EXTENSION))
-    .map(getUniqueCharsByFileName)
+    .map((fileName) => {
+      const filePath = path.join(
+        __dirname,
+        process.env.CANDIDATES_DIR,
+        fileName,
+      );
+      const fileContent = fs.readFileSync(filePath).toString();
+
+      return assemblyCharsStats(fileName, fileContent);
+    })
     .filter(
       ({ differenceInContent, differenceInFileName }) =>
         _.negate(_.isEmpty)(differenceInFileName) ||
