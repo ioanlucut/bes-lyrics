@@ -2,6 +2,8 @@ export const EMPTY_STRING = '';
 
 export const ERROR_CODE = 1;
 
+export const COMMA = ',';
+
 export const TXT_EXTENSION = '.txt';
 
 export const ALLOWED_CHARS =
@@ -14,9 +16,3 @@ export const NEW_LINE = '\n';
 export const CARRIAGE_RETURN = '\r';
 
 export const CHARS_SEPARATORS = /[ !(),./:;?”„]+/;
-
-export enum SongSection {
-  TITLE = '[title]',
-  SEQUENCE = '[sequence]',
-  CHORUS = '[chorus]',
-}

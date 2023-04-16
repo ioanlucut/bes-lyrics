@@ -3,7 +3,8 @@ import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
 import * as process from 'process';
-import { EMPTY_STRING, NEW_LINE, SongSection } from './constants';
+import { EMPTY_STRING, NEW_LINE } from './constants';
+import { SongSection } from './src';
 
 dotenv.config();
 

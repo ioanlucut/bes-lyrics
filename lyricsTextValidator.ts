@@ -4,7 +4,7 @@ import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
 import { ERROR_CODE, TXT_EXTENSION } from './constants';
-import { assemblyCharsStats } from './src/charsStatsCollector';
+import { assemblyCharsStats, verifyStructure } from './src';
 
 dotenv.config();
 
@@ -13,7 +13,7 @@ dotenv.config();
 // ---
 
 (() => {
-  const problematicHits = fs
+  const arrayOfFileNameAndContent = fs
     .readdirSync(process.env.CANDIDATES_DIR)
     .filter((fileName) => fileName.endsWith(TXT_EXTENSION))
     .map((fileName) => {
@@ -24,46 +24,71 @@ dotenv.config();
       );
       const fileContent = fs.readFileSync(filePath).toString();
 
-      return assemblyCharsStats(fileName, fileContent);
-    })
+      return { fileName, fileContent };
+    });
+
+  // ---
+  // Chars problems
+  // ---
+
+  const problematicHits = arrayOfFileNameAndContent
+    .map(({ fileName, fileContent }) =>
+      assemblyCharsStats(fileName, fileContent),
+    )
     .filter(
       ({ differenceInContent, differenceInFileName }) =>
         _.negate(_.isEmpty)(differenceInFileName) ||
         _.negate(_.isEmpty)(differenceInContent),
     );
 
-  if (_.isEmpty(problematicHits)) {
-    console.log('All the characters are valid.');
+  if (!_.isEmpty(problematicHits)) {
+    console.log('Unf., we have found wrong chars.');
+    const allChars = problematicHits.map(
+      ({ fileName, differenceInFileName, differenceInContent }) => {
+        console.group(`"${fileName}"`);
 
-    return;
+        if (!_.isEmpty(differenceInFileName)) {
+          console.log(
+            `The difference between the allowed chars and found in content are: "${differenceInFileName}"`,
+          );
+        }
+
+        if (!_.isEmpty(differenceInContent)) {
+          console.log(
+            `The difference between the allowed chars and found in content are: "${differenceInContent}"`,
+          );
+        }
+
+        console.groupEnd();
+
+        return _.uniq([...differenceInFileName, ...differenceInContent]);
+      },
+    );
+
+    console.log(
+      `A list of all rejected chars are: "${_.uniq(_.flattenDeep(allChars))}"`,
+    );
+
+    process.exit(ERROR_CODE);
   }
 
-  console.log('Unf., we have found wrong chars.');
-  const allChars = problematicHits.map(
-    ({ fileName, differenceInFileName, differenceInContent }) => {
-      console.group(`"${fileName}"`);
+  // ---
+  // Structure problems
+  // ---
 
-      if (!_.isEmpty(differenceInFileName)) {
-        console.log(
-          `The difference between the allowed chars and found in content are: "${differenceInFileName}"`,
-        );
-      }
+  let isStructureErroneous = false;
 
-      if (!_.isEmpty(differenceInContent)) {
-        console.log(
-          `The difference between the allowed chars and found in content are: "${differenceInContent}"`,
-        );
-      }
+  arrayOfFileNameAndContent.forEach(({ fileName, fileContent }) => {
+    try {
+      verifyStructure(fileContent);
+    } catch (error: any) {
+      console.log(`"${fileName}": `, error.message);
 
-      console.groupEnd();
+      isStructureErroneous = true;
+    }
+  });
 
-      return _.uniq([...differenceInFileName, ...differenceInContent]);
-    },
-  );
-
-  console.log(
-    `A list of all rejected chars are: "${_.uniq(_.flattenDeep(allChars))}"`,
-  );
-
-  process.exit(ERROR_CODE);
+  if (isStructureErroneous) {
+    process.exit(ERROR_CODE);
+  }
 })();

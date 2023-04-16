@@ -17,8 +17,8 @@ import {
   CHARS_SEPARATORS,
   ERROR_CODE,
   NEW_LINE,
-  SongSection,
 } from './constants';
+import { SongSection } from "./src";
 
 dotenv.config();
 

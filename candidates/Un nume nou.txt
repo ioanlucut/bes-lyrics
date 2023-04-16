@@ -2,7 +2,7 @@
 Un nume nou
 
 [sequence]
-1,p,c,2,q,c
+1,p,c,2,p,c
 
 [1]
 Rătăcit eram și în păcat trăiam
