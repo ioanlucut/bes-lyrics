@@ -1,5 +1,5 @@
 [title]
-Hai vino acum să-L lauzi
+Hai, vino acum să-L lauzi
 
 [sequence]
 1,c
@@ -14,4 +14,4 @@ Hai așa cum ești ’naintea Sa, hai!
 Vor mărturisi toți că doar Tu ești Domn,
 Toți genunchii se vor pleca,
 Binecuvântați vor fi toți cei ce
-Acum Te vor căuta :/
+Acum Te vor căuta! :/

@@ -1,5 +1,5 @@
 [title]
-Vino vino vino tu la Isus
+Vino, vino, vino tu la Isus
 
 [sequence]
 1,c,2,c,3,c,4,c
@@ -19,7 +19,7 @@ Căci noaptea va veni
 [2]
 Vino, vino, printre suferințe!
 Lasă tu lumea,
-Căci în lume nu îi nici căință
+Căci în lume nu e nici căință,
 Numai pierirea.
 
 [3]

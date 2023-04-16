@@ -1,5 +1,5 @@
 [title]
-Isus iubit când vei veni
+Isus iubit, când vei veni
 
 [sequence]
 1,c,2,c,3,c,4,c
@@ -11,14 +11,14 @@ Ce bucurie mare-a fi
 O, Mire drag, de ce nu vii?
 
 [chorus]
-Mai este loc, la nunta Ta,
+Mai este loc la nunta Ta,
 Unde doresc și mult aș vrea
 Să fiu chemat de Tin’ Isus
 Și să ne bucurăm nespus.
 
 [2]
-Mireasa Ta-mbrăcat-a fi
-În haine albe-o vei răi
+Mireasa Ta-mbrăcat-a fi,
+În haine albe-o vei răi,
 Ce bucurie mare-a fi
 O, Mire drag, de ce nu vii?
 

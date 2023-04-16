@@ -1,5 +1,5 @@
 [title]
-Isus m-ai cuprins din necuprins
+Isus, m-ai cuprins din necuprins
 
 [sequence]
 1,2,3
@@ -7,7 +7,7 @@ Isus m-ai cuprins din necuprins
 [1]
 Isus, m-ai cuprins din necuprins,
 Isus, viață-n mine ai aprins,
-Isus m-ai iubit și m-ai salvat,
+Isus, m-ai iubit și m-ai salvat,
 Să fii veșnic, veșnic lăudat!
 
 [2]

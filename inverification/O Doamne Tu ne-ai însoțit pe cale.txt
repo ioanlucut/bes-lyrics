@@ -1,5 +1,5 @@
 [title]
-O Doamne Tu ne-ai însoțit pe cale
+O, Doamne, Tu ne-ai însoțit pe cale
 
 [sequence]
 c,1,c,2,c

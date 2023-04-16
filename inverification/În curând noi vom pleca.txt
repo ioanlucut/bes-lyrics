@@ -1,5 +1,5 @@
 [title]
-În curând noi vom pleca
+În curând, noi vom pleca
 
 [sequence]
 1,c,2,c,3,c,4,c
@@ -12,7 +12,7 @@ Când ne vom reîntâlni.
 
 [chorus]
 Vine ziua fericită,
-Toți vom părăsi pământul
+Toți vom părăsi pământul;
 Aleluia ni se cântă,
 Când ne vom reîntâlni.
 

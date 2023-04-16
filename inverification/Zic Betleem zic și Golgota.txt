@@ -1,5 +1,5 @@
 [title]
-Zic Betleem zic și Golgota
+Zic Betleem, zic și Golgota
 
 [sequence]
 1,c,2,c,3,c
@@ -17,7 +17,7 @@ Pentru mine, pentru tine a murit,
 El, Isus Hristos.
 
 [2]
-De merg la iesle sau la cruce
+De merg la iesle sau la cruce,
 E-un drum cu lacrimi presărat,
 Mă plec adânc cu umilință
 Spre locul unde m-ai salvat.
@@ -25,5 +25,5 @@ Spre locul unde m-ai salvat.
 [3]
 Tu ai venit de bună voie
 Să mă răscumperi din păcat,
-Eu Te ador și Îți dau slavă
+Eu Te ador și Îți dau slavă,
 Căci Tu ești Marele-Împărat.

@@ -5,12 +5,12 @@
 1,2,3
 
 [1]
-În bunătatea Ta, ne-asculți
+În bunătatea Ta ne-asculți
 A noastră rugăciune
 Și inima ne-o ușurezi
 De orice-amărăciune.
 
-/: Ne-ntorci privirele mereu
+/: Ne-ntorci privirile mereu
 Spre Tine, sfinte Tată,
 Și prin Cuvânt ne întărești
 De fiecare dată. :/
@@ -22,7 +22,7 @@ Când vezi că se-ofilește
 Spre noi nu Te oprește.
 
 /: Căci bunătatea Ta oricând
-Cu mult mai mult întrece,
+Cu mult mai mult întrece
 Căderea-n care-am fost târâți
 Și starea noastră rece. :/
 
@@ -32,7 +32,7 @@ Izvorul mântuirii
 Și peste noi mereu Ți-ntinzi
 Veșmintele iubirii.
 
-/: În bunătatea Ta, răspunzi
+/: În bunătatea Ta răspunzi
 Cu-a harului comoară
 Nicicând Tu nu ne-depărtezi
 Și nu ne scoți afară. :/

@@ -5,8 +5,8 @@ Vino la apa vieții
 1,c,2,c,3,c
 
 [1]
-Vino, la apa vieții,
-Setos, ostenit și slab
+Vino la apa vieții,
+Setos, ostenit și slab.
 Vino, că nu în zadar vii
 Aici vei afla repaus.
 
@@ -25,5 +25,5 @@ Aici se-mparte milă.
 [3]
 Vino la acest izvor sfânt,
 Vindecare vei primi.
-Vezi, izvorăște viață
-Bea, și vei fi fericit.
+Vezi, izvorăște viață,
+Bea și vei fi fericit.

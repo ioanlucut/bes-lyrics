@@ -1,12 +1,12 @@
 [title]
-Păzește-ți piciorul străine când vii
+Păzește-ți piciorul, străine, când vii
 
 [sequence]
 1,c,2,c,3,c,4,c
 
 [1]
-Păzește-ți piciorul străine când vii,
-În cortul întâlnirii
+Păzește-ți piciorul străine când vii
+În cortul întâlnirii.
 Aici este poarta Dumnezeului viu,
 Cetatea nemuririi.
 

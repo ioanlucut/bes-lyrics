@@ -1,18 +1,18 @@
 [title]
-Aș vrea Isuse scump să fiu ca Tine
+Aș vrea, Isuse scump, să fiu ca Tine
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
 Aș vrea, Isuse scump, să fiu ca Tine,
-În pribegia mea, pe-acest pământ;
+În pribegia mea pe-acest pământ;
 De-atâtea ori când grea ispită vine,
-S-o biruiesc prin sfântul Tău Cuvânt.
+S-o biruiesc prin sfântul Tău cuvânt.
 
 [chorus]
 Aș vrea, Isuse scump, a Ta comoară
-De mângâieri, pe veci să-mi dăruiești
+De mângâieri, pe veci să-mi dăruiești.
 Aș vrea ca-n mine tot ce-i vechi să moară
 Ca Tu să faci din mine ce dorești.
 
@@ -26,4 +26,4 @@ Ce-mpiedică să-Ți văd mărirea Ta.
 Și câte n-aș mai vrea, o, scump Isuse,
 În pribegia mea pe-acest pământ!
 Dorințele ce îmi rămân nespuse
-Să le-mplinești prin sfântul Tău Cuvânt!
+Să le-mplinești prin sfântul Tău cuvânt!

@@ -1,5 +1,5 @@
 [title]
-Chemați prin cântări bucuria
+Chemați, prin cântări, bucuria!
 
 [sequence]
 1,2,3,4
@@ -39,7 +39,7 @@ Cântarea va pune pe fugă
 
 [4]
 Mereu bucurați-vă-n toate
-Că-n toate afla-veți cântări,
+Că-n toate afla-veți cântări
 Și-n ele-aripi ca să vă poarte
 Spre tot mai seninele zări.
 

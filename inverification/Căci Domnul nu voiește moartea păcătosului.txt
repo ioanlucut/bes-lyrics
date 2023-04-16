@@ -5,7 +5,7 @@ Căci Domnul nu voiește moartea păcătosului
 1,c,2,c,3,c,4,c,5,c
 
 [1]
-Căci Domnul nu voiește moartea păcătosului
+Căci Domnul nu voiește moartea păcătosului,
 Ci vrea să se întoarcă din calea lui cea rea,
 Să vină la lumină ca să fie mântuit,
 Căci ziua mântuirii e-aproape la sfârșit.
@@ -17,9 +17,9 @@ Să chemăm Numele Lui cel mare
 Care poate și-acum mântui. :/
 
 [2]
-Căci Dumnezeu nu ține-n seamă-al tău necunoscut
-A ta necunoștință, în care te-ai zbătut
-El ți-a deschis o poartă sus pe care poți veni
+Căci Dumnezeu nu ține-n seamă-al tău necunoscut,
+A ta necunoștință, în care te-ai zbătut.
+El ți-a deschis o poartă sus, pe care poți veni,
 E poarta mântuirii, deci, nu mai zăbovi!
 
 [3]
@@ -30,9 +30,9 @@ Dar Tatăl din mărire, dintre morți L-a înviat
 
 [4]
 Deci, vino la izvorul care curge neîncetat
-Și bea din apa vie, tu, suflet însetat
-Căci mâine se prea poate ca să fie prea târziu
-Deci, vino azi la Domnul din moarte și pustiu.
+Și bea din apa vie, tu, suflet însetat.
+Căci mâine se prea poate ca să fie prea târziu,
+Deci vino azi, la Domnul, din moarte și pustiu.
 
 [5]
 În cer e sărbătoare pentru omul păcătos

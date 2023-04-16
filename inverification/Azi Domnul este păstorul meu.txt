@@ -5,16 +5,16 @@ Azi Domnul este păstorul meu
 1,c,2,t,3,e
 
 [1]
-Azi Domnul este păstorul meu
+Azi Domnul este păstorul meu.
 Eu lipsă n-am să duc
 Din verzi pășuni și din ape vii,
 Eu sufletu-mi adăp.
 
 [chorus]
-/: Povață-mi dă pe cărarea grea
-În lume port al Tău Nume sfânt
+/: Povață-mi dă pe cărarea grea,
+În lume port al Tău Nume sfânt,
 Chiar și prin moarte eu trec ușor
-Și nu mă tem nicicând :/
+Și nu mă tem nicicând. :/
 
 [2]
 Toiagul Tău și nuiaua Ta
@@ -26,7 +26,7 @@ Cu untdelemn ales.
 /: Tu masa-ntinzi, când dușmani privesc
 Paharul meu este astăzi plin
 Primesc belșugul ce-l răspândești
-Și-n fața Ta mă-nchin :/
+Și-n fața Ta mă-nchin. :/
 
 [3]
 Da, fericirea mă va-nsoți,

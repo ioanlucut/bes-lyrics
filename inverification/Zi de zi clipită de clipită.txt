@@ -1,5 +1,5 @@
 [title]
-Zi de zi clipită de clipită
+Zi de zi, clipită de clipită
 
 [sequence]
 1,c,2,c,3,c
@@ -11,9 +11,9 @@ Să înving mereu orice ispită,
 Fiind condus de-al meu iubit Isus.
 
 [chorus]
-El ce-ntrece orice bunătate
-Îmi dă zilnic tot ce-are mai bun
-Sunt convins că Domnul știe toate
+El ce-ntrece orice bunătate,
+Îmi dă zilnic tot ce-are mai bun,
+Sunt convins că Domnul știe toate,
 Lui mă-nchin și mă supun.
 
 [2]
@@ -24,6 +24,6 @@ Ce-o primesc mereu la sânul Său.
 
 [3]
 Mă ajută ca orice durere
-S-o primesc ca și din mâna Sa
+S-o primesc ca și din mâna Sa.
 Ceas cu ceas, purtat de-a Sa putere
 Până voi ajunge-n țara mea.

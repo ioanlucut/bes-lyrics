@@ -1,5 +1,5 @@
 [title]
-Auzi suflete chemarea
+Auzi, suflete, chemarea
 
 [sequence]
 1,c,2,c,3,c,4,c
@@ -24,7 +24,7 @@ La masă cu El vei sta.
 
 [3]
 O, ce mare bucurie
-Este-n ceruri cu Hristos
+Este-n ceruri cu Hristos!
 Nu se poate găsi-n lume,
 Pe pământ aicea jos.
 

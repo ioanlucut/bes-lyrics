@@ -1,5 +1,5 @@
 [title]
-Cinste onoare glorie splendoare
+Cinste, onoare, glorie, splendoare
 
 [sequence]
 1,c,1,c,b,c
@@ -13,13 +13,13 @@ Cântă Celui din veșnicii.
 [chorus]
 /: Orice limbă-n cer, pe pământ,
 Îți declară gloria!
-Orice ființă în fața Ta să cadă
+Orice ființă în fața Ta să cadă,
 Tu vei fi pe veci înălțat
 Și vei împărăți peste noi,
-Cel din veșnicii :/
+Cel din veșnicii. :/
 
 [bridge]
 /: Pământul așteaptă venirea Ta,
 Glorie Celui din veșnicii!
 Să cânte tot cerul spre slava Ta,
-Glorie Celui din veșnicii :/
+Glorie Celui din veșnicii! :/

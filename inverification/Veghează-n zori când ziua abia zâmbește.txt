@@ -1,12 +1,12 @@
 [title]
-Veghează-n zori când ziua abia zâmbește
+Veghează-n zori, când ziua abia zâmbește
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
 Veghează-n zori, când ziua abia zâmbește,
-Când totul este iar înviorat
+Când totul este iar înviorat,
 În tine poate încă dăinuiește
 Vreo umbră neagră, plină de păcat.
 

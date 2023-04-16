@@ -5,15 +5,15 @@ Căci un Copil ni s-a născut
 1,c,2,c,b,c
 
 [1]
-Căci un Copil ni s-a născut
-Cel ce n-are început
-Căci un Fiu ni s-a dat
+Căci un Copil ni s-a născut,
+Cel ce n-are început.
+Căci un Fiu ni s-a dat,
 El e Marele Împărat.
 
 [chorus]
-/: Îl vor numi sfetnic, minunat
+/: Îl vor numi sfetnic, minunat,
 Domn al Păcii, adorat,
-Dumnezeu tare, Savaot
+Dumnezeu tare, Savaot,
 Părinte-al veșniciilor. :/
 
 [2]

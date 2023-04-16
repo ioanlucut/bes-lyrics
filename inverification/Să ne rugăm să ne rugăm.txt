@@ -1,5 +1,5 @@
 [title]
-Să ne rugăm să ne rugăm
+Să ne rugăm, să ne rugăm
 
 [sequence]
 1,c,2,c,3,c,4,c,5,c
@@ -8,7 +8,7 @@ Să ne rugăm să ne rugăm
 Să ne rugăm, să ne rugăm,
 Să-I cerem să ne-mbrace cu putere,
 Căci zilele vor fi nespus de grele.
-Să-I cerem să ne-mbrace cu putere
+Să-I cerem să ne-mbrace cu putere.
 
 [chorus]
 Mână în mână, toți împreună,

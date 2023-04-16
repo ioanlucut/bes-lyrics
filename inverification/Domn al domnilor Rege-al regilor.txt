@@ -1,16 +1,16 @@
 [title]
-Domn al domnilor Rege-al regilor
+Domn al domnilor, Rege-al regilor
 
 [sequence]
 1,c,e
 
 [1]
-/: Domn al domnilor, Rege-al regilor
-Glorie, aleluia :/
+/: Domn al domnilor, Rege-al regilor,
+Glorie, Aleluia! :/
 
 [chorus]
 /: Isus, Prinț al păcii,
-Glorie, aleluia :/
+Glorie, Aleluia! :/
 
 [ending]
-Glorie Aleluia
+Glorie, Aleluia!

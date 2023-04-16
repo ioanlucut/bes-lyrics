@@ -1,18 +1,18 @@
 [title]
-Isuse scump a noastră mântuire
+Isuse scump, a noastră mântuire
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
 Isuse scump, a noastră mântuire,
-Sub crucea Ta, ca jertfă Ți-am adus
+Sub crucea Ta, ca jertfă Ți-am adus.
 O inimă ce arde în iubire
 Și-un dor ce zboară tot mereu mai sus.
 
 [chorus]
 Mai sus, mai sus, pe aripi ca de vultur,
-Conduce Domnul pe al Său popor
+Conduce Domnul pe al Său popor.
 Când se va șterge plânsul și durerea,
 Prea fericiți vor fi cu Domnul lor.
 

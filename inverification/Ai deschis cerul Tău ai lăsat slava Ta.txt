@@ -1,5 +1,5 @@
 [title]
-Ai deschis cerul Tău ai lăsat slava Ta
+Ai deschis cerul Tău, ai lăsat slava Ta
 
 [sequence]
 1,c

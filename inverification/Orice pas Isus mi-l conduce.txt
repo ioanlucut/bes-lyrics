@@ -5,13 +5,13 @@ Orice pas Isus mi-l conduce
 1,c,2,c,3,c,4,c
 
 [1]
-Orice pas Isus mi-l conduce
+Orice pas Isus mi-l conduce,
 /: Slavă Lui! :/
 Mană sfântă El îmi aduce,
 Slavă Domnului!
 
 [chorus]
-Aleluia, cântarea mea
+Aleluia, cântarea mea,
 Lui Isus mereu voi cânta,
 Cu pace-mi umple El inima
 Slavă Domnului!

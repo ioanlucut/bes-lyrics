@@ -13,7 +13,7 @@ Pace sufletului meu
 
 [chorus]
 /: Inima mea cântă azi cântarea
-Plină de nespuse bucurii
+Plină de nespuse bucurii,
 Mai frumos nici îngerii nu cântă
 Ca acei din valea plângerii. :/
 
@@ -28,7 +28,7 @@ La Golgota a purtat
 [3]
 Câtă frică și-ntuneric pe cărarea mea erau,
 Când umblam rătăcitor fără Isus!
-Am adus la El povara,
+Am adus la El povara
 Și de-atunci în viața mea
 Bucuria și iubirea au pătruns.
 
@@ -36,5 +36,5 @@ Bucuria și iubirea au pătruns.
 Merg spre casa unde, veșnic,
 Fericirea voi gusta,
 În eternul strălucitul meu palat;
-Față-n față în mărire pe Isus Îl voi vedea
+Față-n față, în mărire, pe Isus Îl voi vedea
 Și cu sfinții-I voi da slavă, neîncetat.

@@ -1,5 +1,5 @@
 [title]
-Aceasta mi-e dorința să Te onorez
+Aceasta mi-e dorința, să Te onorez
 
 [sequence]
 1,c,2,c

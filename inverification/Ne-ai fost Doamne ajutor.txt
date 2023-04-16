@@ -1,14 +1,14 @@
 [title]
-Ne-ai fost Doamne ajutor
+Ne-ai fost, Doamne, ajutor
 
 [sequence]
 1,2,3,4
 
 [1]
-Ne-ai fost, Doamne, ajutor
+Ne-ai fost, Doamne, ajutor,
 Tu întotdeauna,
-Ne-ai fost sprijin tuturor
-Când bătea furtuna,
+Ne-ai fost sprijin tuturor,
+Când bătea furtuna.
 /: Ne-ai fost ancoră la greu,
 În dureri nespuse,
 Mijlocind la Dumnezeu
@@ -40,6 +40,6 @@ Sfântă mângâiere,
 Și pe oricine-ai învățat
 În Tine ca să spere.
 /: Pentru-aceasta Te slăvim
-Noi cu bucurie,
+Noi, cu bucurie,
 Și de toate-Ți mulțumim
 Azi și-n veșnicie.

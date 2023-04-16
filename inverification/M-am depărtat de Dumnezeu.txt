@@ -5,7 +5,7 @@ M-am depărtat de Dumnezeu
 1,c,2,c,3,c
 
 [1]
-M-am depărtat de Dumnezeu
+M-am depărtat de Dumnezeu,
 Azi vin acasă,
 Trăit-am în păcatul meu,
 Azi vin acasă.
@@ -19,7 +19,7 @@ Azi vin acasă.
 [2]
 Pierdut-am mulți ani prețioși,
 Azi vin acasă,
-Cu lacrimi ca un păcătos,
+Cu lacrimi, ca un păcătos,
 Azi vin acasă.
 
 [3]

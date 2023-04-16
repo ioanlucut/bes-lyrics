@@ -1,5 +1,5 @@
 [title]
-Cine oare Cine oare
+Cine, oare? Cine, oare?
 
 [sequence]
 1,2,3,4
@@ -8,7 +8,7 @@ Cine oare Cine oare
 Cine, oare? Cine, oare,
 Te-a scăpat din strâmtorare, Israel, Israel?
 Cine te-a strigat pe nume
-Și și-a dat tărie-n lume, Israel, Israel?
+Și ți-a dat tărie-n lume, Israel, Israel?
 
 /: Cine, oare, te-a salvat?
 Cine te-a răscumpărat?
@@ -35,11 +35,11 @@ Pentru tine dau popoare!”,
 Iată ce vorbește El, Israel, Israel! :/
 
 [4]
-Cântă azi poporul Meu:
+Cântă azi, poporul Meu:
 „Te-nalț, Doamne, Dumnezeu,
 Dumnezeu, Dumnezeu!
 De noi iarăși Te înduri,
-Ne scoți din dărâmături
+Ne scoți din dărâmături,
 Dumnezeu, Dumnezeu.”
 
 /: Țara ta va fi splendoare,

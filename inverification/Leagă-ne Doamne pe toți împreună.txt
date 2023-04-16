@@ -1,5 +1,5 @@
 [title]
-Leagă-ne Doamne pe toți împreună
+Leagă-ne, Doamne pe toți împreună
 
 [sequence]
 1,c,1,c
@@ -11,7 +11,7 @@ Leagă-ne, Doamne, pe toți împreună!
 O, leagă-ne prin dragoste.
 
 [chorus]
-/: Este-un singur Domn
-Este-un singur Fiu
+/: Este-un singur Domn,
+Este-un singur Fiu,
 Este-un singur Duh
 Și Acela-i viu! :/

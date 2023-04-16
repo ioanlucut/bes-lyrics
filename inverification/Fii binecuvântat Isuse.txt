@@ -1,5 +1,5 @@
 [title]
-Fii binecuvântat Isuse
+Fii binecuvântat, Isuse!
 
 [sequence]
 1,c,2,c,3,c,4,c
@@ -24,7 +24,7 @@ Vedem din ce adânc ne-ai scos.
 
 [3]
 Din văi adânci și din tristețe,
-Mereu în jurul Tău ne-aduni
+Mereu în jurul Tău ne-aduni.
 Noi Te urmăm și-abia acuma
 Vedem pe ce-nălțimi ne sui.
 

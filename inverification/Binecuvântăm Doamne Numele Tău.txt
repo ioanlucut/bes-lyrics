@@ -1,18 +1,18 @@
 [title]
-Binecuvântăm Doamne Numele Tău
+Binecuvântăm, Doamne, Numele Tău
 
 [sequence]
 1,c,1,c
 
 [1]
-Binecuvântăm, Doamne, Numele Tău
-Binecuvântăm puterea Ta
-Te binecuvântăm în prezența Ta
-Vrem să ne-nchinam ’naintea Ta.
+Binecuvântăm, Doamne, Numele Tău,
+Binecuvântăm puterea Ta,
+Te binecuvântăm în prezența Ta,
+Vrem să ne-nchinăm ’naintea Ta.
 
 [chorus]
-A Ta este slava, puterea, măreția
-Înțelepciunea și gloria-i a Ta
+A Ta este slava, puterea, măreția,
+Înțelepciunea și gloria-i a Ta;
 Tu domnești în ceruri,
 Ești împăratul nostru.
-De aceea, Doamne Te lăudăm!
+De aceea, Doamne, Te lăudăm!

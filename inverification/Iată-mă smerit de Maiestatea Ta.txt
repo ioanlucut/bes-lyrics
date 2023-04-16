@@ -1,30 +1,30 @@
 [title]
-Iată-mă smerit de Maiestatea Ta
+Iată-mă, smerit de Maiestatea Ta
 
 [sequence]
 1,p,c,2,p,c,e
 
 [1]
-Iată-mă smerit de Maiestatea Ta
+Iată-mă, smerit de Maiestatea Ta,
 Acoperit de grația Ta;
 Iată-mă, știu că sunt un păcătos,
 Spălat prin sângele lui Hristos.
 
 [prechorus]
-Am găsit iubirea-Ți mare în sfârșit
+Am găsit iubirea-Ți mare în sfârșit,
 Căci viața Tu Ți-ai dat,
 Ce preț nemăsurat.
 
 [chorus]
 /: Domnul meu, Domnul meu;
-Al Tău har m-a găsit cum eram
+Al Tău har m-a găsit cum eram.
 N-am nimic, dar sunt viu în mâna Ta
-Domnul meu, Domnul meu
-Iubirea Ta pe veci m-a schimbat
-În prezența Ta, al meu Împărat :/
+Domnul meu, Domnul meu,
+Iubirea Ta pe veci m-a schimbat,
+În prezența Ta, al meu Împărat. :/
 
 [2]
-Iată-mă, uimit sunt de iubirea Ta
+Iată-mă, uimit sunt de iubirea Ta;
 Iertat, să pot acum eu ierta;
 Ridicat, știu cât de mult Tu mă dorești
 În jertfa Ta și-n foc mă sfințești.

@@ -1,14 +1,14 @@
 [title]
-Ani de îndurări binecuvântări
+Ani de îndurări, binecuvântări
 
 [sequence]
 1,c,2,c
 
 [1]
 Ani de îndurări, binecuvântări,
-Doar Tu, Isus m-ai luat de mână
+Doar Tu, Isus, m-ai luat de mână
 Și prin încercări, Tu mi-ai dat puteri
-Să învingem greul împreună
+Să învingem greul împreună.
 
 [chorus]
 Îți mulțumesc Isus că sunt al Tău,
@@ -19,5 +19,5 @@ Să învingem greul împreună
 [2]
 Ani de îndurări, binecuvântări,
 Tu m-ai vegheat și zi și noapte
-Și prin încercări, Tu mi-ai dat puteri
+Și prin încercări, Tu mi-ai dat puteri,
 Cu Tine voi merge mai departe.

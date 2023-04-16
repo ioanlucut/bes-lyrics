@@ -1,12 +1,12 @@
 [title]
-Pe-oceanul infinit cu valuri
+Pe-oceanul infinit, cu valuri
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Pe-oceanul infinit cu valuri,
-Grija m-a cuprins
+Pe-oceanul infinit, cu valuri,
+Grija m-a cuprins.
 Plutesc spre casă obosit,
 Cu catargul zdrențuit.
 
@@ -22,8 +22,8 @@ Toată viața mea, Isuse,
 Te voi binecuvânta.
 
 [2]
-Pe-oceanul infinit cu valuri,
-Noaptea m-a cuprins
+Pe-oceanul infinit, cu valuri,
+Noaptea m-a cuprins.
 Plutesc spre casă obosit,
 Sunt deznădăjduit.
 

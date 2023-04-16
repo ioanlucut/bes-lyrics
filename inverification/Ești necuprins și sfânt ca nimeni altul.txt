@@ -1,11 +1,11 @@
 [title]
-Ești necuprins și sfânt ca nimeni altul
+Ești necuprins și sfânt, ca nimeni altul
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Ești necuprins și sfânt ca nimeni altul
+Ești necuprins și sfânt, ca nimeni altul
 Și totuși ne iubești din veșnicii,
 În Tine n-am găsit nicicând schimbare;
 Ai fost, vei fi și ești în veci de veci.

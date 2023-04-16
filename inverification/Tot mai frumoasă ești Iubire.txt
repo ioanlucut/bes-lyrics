@@ -1,5 +1,5 @@
 [title]
-Tot mai frumoasă ești Iubire
+Tot mai frumoasă ești, Iubire
 
 [sequence]
 1,2,3,4
@@ -12,7 +12,7 @@ Mai limpezită Ți-a rămas. :/
 
 [2]
 Ce trecătoare-s toate, toate,
-Și oameni, și așezări și legi.
+Și oameni și așezări și legi.
 /: Nimic din ce-i acum nu poate
 Să treacă-n veacurile-ntregi. :/
 
@@ -24,6 +24,6 @@ Cu cât trec vecii rând pe rând. :/
 
 [4]
 Tot mai frumoasă ești, Iubire,
-Și fiii Tăi așa-s mereu
+Și fiii Tăi așa-s mereu,
 /: Eu nu știu altă fericire,
 Dar știu că Tu ești Dumnezeu. :/

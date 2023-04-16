@@ -1,5 +1,5 @@
 [title]
-O dac-ai știi sub ce blestem am fost și eu cândva
+O, dac-ai știi sub ce blestem am fost și eu cândva
 
 [sequence]
 1,c,2,c
@@ -11,11 +11,11 @@ Te-ai întreba ce sfânt mister viața mi-a schimbat
 Făcând din tristul condamnat un păcătos iertat.
 
 [chorus]
-/: Sunt păcătosul salvat prin har
+/: Sunt păcătosul salvat prin har,
 Eliberat prin jertfa de pe Calvar
 Și trăiesc în libertate, izbăvit de-al meu trecut,
 Sunt păcătosul salvat din moarte
-Iertat de toate prin al Său har :/
+Iertat de toate prin al Său har. :/
 
 [2]
 Salvarea mea s-a scris adânc în rana lui Isus

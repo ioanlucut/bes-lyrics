@@ -5,14 +5,14 @@ Sângele Tău m-a curățit
 1,c,1,c
 
 [1]
-Sângele Tău m-a curățit
-Sângele Tău m-a mântuit
-Sângele Tău viață mi-a dat
+Sângele Tău m-a curățit,
+Sângele Tău m-a mântuit,
+Sângele Tău viață mi-a dat,
 Ai murit ca eu să fiu iertat.
 
 [chorus]
-/: Îmi ridic azi mâinile
-Mă închin în fața Ta
-Doar Tu meriți să fii lăudat
+/: Îmi ridic azi mâinile,
+Mă închin în fața Ta,
+Doar Tu meriți să fii lăudat,
 Nimeni nu m-a iubit așa de mult
-Ca să moară pentru vina mea :/
+Ca să moară pentru vina mea. :/

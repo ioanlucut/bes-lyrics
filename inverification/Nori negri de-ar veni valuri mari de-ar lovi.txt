@@ -1,5 +1,5 @@
 [title]
-Nori negri de-ar veni valuri mari de-ar lovi
+Nori negri de-ar veni, valuri mari de-ar lovi
 
 [sequence]
 1,c,2,c,3,c

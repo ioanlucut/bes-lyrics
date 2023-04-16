@@ -1,12 +1,12 @@
 [title]
-Cât ești tânăr tu poți s-alegi cum vrei să trăiești
+Cât ești tânăr, tu poți s-alegi cum vrei să trăiești
 
 [sequence]
 1,c,2,c,3,t
 
 [1]
 Cât ești tânăr, tu poți s-alegi cum vrei să trăiești,
-Pasul vieții să îl îndrepți înspre ce iubești,
+Pasul vieții să îl îndrepți înspre ce iubești.
 Poți necazul din inima ta să îl izgonești,
 Doar bucurie poți căuta și tot ce-ți dorești.
 
@@ -23,7 +23,7 @@ Tot ce lumea îți poate da, este trecător,
 Fără speranțe tu vei pleca înspre viitor.
 
 [3]
-Adu-ți aminte că ești doar om, om muritor
+Adu-ți aminte că ești doar om, om muritor,
 Că doar Isus îți poate fi Domn și Mântuitor,
 Primește-L azi în viața ta, pace-ți va da
 Pe căile Lui de vei umbla, te vei bucura!

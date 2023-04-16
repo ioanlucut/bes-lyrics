@@ -1,11 +1,11 @@
 [title]
-Cel minunat Salvatorul
+Cel minunat, Salvatorul
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Cel minunat, Salvatorul
+Cel minunat, Salvatorul,
 Sfântul Prieten și Domn,
 Cine-a crezut că e Mielul
 Ce moare pentru om?

@@ -1,17 +1,17 @@
 [title]
-Nicidecum nicidecum niciodată
+Nicidecum, nicidecum, niciodată
 
 [sequence]
 1,2,3,4,5
 
 [1]
 Nicidecum, nicidecum, niciodată
-Gândul meu altui pas nu-l aștern
+Gândul meu altui pas nu-l aștern,
 /: În Isus viața mea e bogată,
 Un izvor din etern, în etern. :/
 
 [2]
-Nicăieri, nicăieri, nici o clipă,
+Nicăieri, nicăieri, nicio clipă,
 Nu pot fi fericit fără El!
 /: Lângă El, peste-a morții risipă,
 Voi zbura ca un alb porumbel. :/

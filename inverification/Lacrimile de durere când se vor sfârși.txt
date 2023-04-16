@@ -12,9 +12,9 @@ Să zbor spre țara mea.
 
 [chorus]
 /: Inima, inima zboară spre ceruri,
-Dorul se-avântă, se-avântă departe
+Dorul se-avântă, se-avântă departe,
 Dorul se-avântă departe
-Acolo-i țara mea :/
+Acolo-i țara mea. :/
 
 [2]
 Oare-atâtea chinuri grele când se vor sfârși?
@@ -25,6 +25,6 @@ Să zbor spre țara mea!
 [3]
 Oare, o, Isus, pe nori,
 Când vei reveni?
-Atunci fericiți cu toții noi vom fi
+Atunci fericiți cu toții noi vom fi.
 Lanțu-i sfărâmat, să zbor ca un șoim aș vrea
 S-ajung în țara mea!

@@ -17,11 +17,11 @@ Deplin s-a curățit. :/
 [2]
 Tâlharul pe cruce murind
 Prin El s-a mântuit
-Și-acum cei păcătoși la fel
+Și-acum cei păcătoși, la fel,
 Deplin s-or curăți.
 
 /: Deplin s-or curăți :/
-Și-acum cei păcătoși la fel
+Și-acum cei păcătoși, la fel,
 Deplin s-or curăți.
 
 [3]
@@ -40,7 +40,7 @@ Nicicând nu va scădea
 Până când cei ce-s mântuiți
 În cer Te vor vedea.
 
-/: În cer Te vor vedea :/
+/: În cer Te vor vedea, :/
 Până când cei ce-s mântuiți
 În cer Te vor vedea.
 
@@ -50,6 +50,6 @@ Când ’colo voi sosi,
 Când trupul meu cel ostenit
 Eu îl voi părăsi.
 
-/: Eu îl voi părăsi :/
+/: Eu îl voi părăsi, :/
 Când trupul meu cel ostenit
 Eu îl voi părăsi.

@@ -1,5 +1,5 @@
 [title]
-O Sfinte Duh de viață darnic
+O, Sfinte Duh de viață darnic
 
 [sequence]
 1,c,2,c,3,c,4,c,5,c
@@ -11,7 +11,7 @@ Poporul Tău Te cheamă dornic,
 Lumina Ta să o dăruiești.
 
 [chorus]
-Noi Te rugăm, revars-acuma
+Noi Te rugăm, revars-acuma,
 Din stropii Tăi cei minunați,
 Și Te-om slavi, pe Tine-ntruna,
 Până la cer vom fi luați.
@@ -20,7 +20,7 @@ Până la cer vom fi luați.
 Coboară, plin de roade sfinte,
 Cu haina Ta să ne îmbraci
 Cu noi, pe drum, să mergi-nainte,
-Să miluișști pe cei săraci.
+Să miluiești pe cei săraci.
 
 [3]
 Cobori cu daruri și putere,
@@ -30,12 +30,12 @@ Minuni și semne din belșug,
 
 [4]
 Mărire să-Ți cântăm, pe cale,
-Să Te servim de sevă plini
+Să Te servim de sevă plini,
 Iar pentru ziua nunții Tale,
 Ți-om pregăti cununi de crini.
 
 [5]
-O, Sfinte Duh de viață darnic
+O, Sfinte Duh, de viață darnic,
 În orice zi să ne însoțești
 Să ne vedem curând în ceruri,
 Acolo unde locuiești.

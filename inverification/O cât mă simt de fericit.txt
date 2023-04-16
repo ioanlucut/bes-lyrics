@@ -1,5 +1,5 @@
 [title]
-O cât mă simt de fericit
+O, cât mă simt de fericit
 
 [sequence]
 1,c,2,c,3,c,4,c
@@ -23,7 +23,7 @@ Se duce să-mi gătească loc
 
 [3]
 Aici, sunt numai călător
-Și trec ca iarba-n vânt
+Și trec ca iarba-n vânt.
 În cer, eu sunt moștenitor
 Unde îngerii cânt’.
 

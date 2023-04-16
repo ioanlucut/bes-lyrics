@@ -1,5 +1,5 @@
 [title]
-Te-aștept Isuse privind spre ceruri
+Te-aștept, Isuse, privind spre ceruri
 
 [sequence]
 1,c,2,t,3,e
@@ -17,8 +17,8 @@ Haina-mi pătată, nu e curată,
 Ce fac eu dacă vii?
 
 [2]
-Te-aștept și ziua, și-mi este teamă
-Căci Tu vei apărea
+Te-aștept și ziua și-mi este teamă,
+Căci Tu vei apărea.
 O, dă-mi putere, când am durere
 Ca să mă pot lupta.
 
@@ -30,12 +30,12 @@ Numai Tu poți ierta.
 
 [3]
 Când, dimineața, dispare ceața,
-Din pat am tresărit
+Din pat am tresărit.
 Mă scol în grabă, privesc afară
 Să văd dac-ai venit.
 
 [ending]
 Ca orișicare, în așteptare,
-De-acum eu stau mereu
-Viața mea toată îmi predată
+De-acum eu stau mereu.
+Viața mea toată îmi e predată,
 De-acum eu sunt al Tău.

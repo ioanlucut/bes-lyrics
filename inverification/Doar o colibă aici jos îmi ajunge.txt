@@ -1,18 +1,18 @@
 [title]
-Doar o colibă aici jos îmi ajunge
+Doar o colibă, aici jos, îmi ajunge
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Doar o colibă, aici jos, îmi ajunge
-Argint ți aur n-am în casa mea
+Doar o colibă, aici jos, îmi ajunge.
+Argint și aur n-am în casa mea,
 Dar în locașul strălucirii divine,
 Numai în aur eu voi umbla.
 
 [chorus]
 Eu am locașul, dincolo-n mărire,
-În strălucirea ce n-o pot visa
+În strălucirea ce n-o pot visa.
 Cândva, acolo, voi sfârși alergarea,
 Pe străzi de aur, în slava Sa.
 
@@ -24,6 +24,6 @@ Voi sta la masă lâng-al meu Domn.
 
 [3]
 Să nu mă credeți sărac și nici singur,
-Sufletul meu e de ceruri legat
+Sufletul meu e de ceruri legat,
 Sunt călătorul ce-și caută țara,
 Unde-i lumină neîncetat.

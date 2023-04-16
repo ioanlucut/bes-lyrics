@@ -1,12 +1,12 @@
 [title]
-Doamne mă predau azi Ție
+Doamne, mă predau azi Ție
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Doamne mă predau azi Ție
-Cu întreagă ființa mea
+Doamne, mă predau azi Ție
+Cu întreagă ființa mea.
 Doamne, nu lăsa pe nimeni
 Să mă ia din Mâna Ta.
 
@@ -16,13 +16,13 @@ Să-mi predau ființa-ntreagă
 Domnului Isus.
 
 [2]
-Tu mă știi Doamne mai bine
-Mă cunoști, căci al Tău sunt
+Tu mă știi, Doamne, mai bine
+Mă cunoști, căci al Tău sunt.
 Fericirea mea supremă
 Mi-ești Tu, Doamne, pe pământ.
 
 [3]
-Domnul vieții mele Tu-mi ești
-Mi-ai dat mântuirea-n dar
-Sunt al Tău pe totdeauna
+Domnul vieții mele Tu-mi ești,
+Mi-ai dat mântuirea-n dar.
+Sunt al Tău pe totdeauna,
 Zi de zi trăiesc prin har.

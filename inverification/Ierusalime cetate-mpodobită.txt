@@ -1,5 +1,5 @@
 [title]
-Ierusalime cetate-mpodobită
+Ierusalime, cetate-mpodobită
 
 [sequence]
 1,c,2,c,3,c,4,c
@@ -16,7 +16,7 @@ Să scap de-orice suspine
 Și să mă uit la frumusețea ta!
 Căci, tot ce-i pe pământ,
 Este goană după vânt,
-Și nu pot să-mi găsesc fericirea :/
+Și nu pot să-mi găsesc fericirea. :/
 
 [2]
 Aș vrea să-ți văd porțile ferecate
@@ -32,6 +32,6 @@ De-a lungul cetății curge liniștit.
 
 [4]
 Aș vrea să văd pururi a ta splendoare,
-Să umblu pe-ntinsul tău minunat,
+Să umblu pe-ntinsul tău minunat;
 Apoi, să rămân cu Tine pe vecie,
 Slăvind totdeauna pe-al meu Împărat.

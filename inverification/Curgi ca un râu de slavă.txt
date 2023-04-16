@@ -5,7 +5,7 @@ Curgi ca un râu de slavă
 c,1
 
 [chorus]
-Curgi ca un râu de slavă
+Curgi ca un râu de slavă,
 Cu brațul Tău dezleagă
 Tu cu putere viața mea!
 În ceasul de pe urmă
@@ -13,7 +13,7 @@ Vreau Duhul Tău să curgă
 Și să inunde viața mea!
 
 [1]
-Este un râu ce curge peste noi
-Vindecare el aduce pe pământ
+Este un râu ce curge peste noi,
+Vindecare el aduce pe pământ.
 Totul ia ființă unde curge el
 Îmi alină setea sufletului meu.

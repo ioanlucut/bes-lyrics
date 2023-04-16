@@ -1,12 +1,12 @@
 [title]
-Din Tine am venit Iubire
+Din Tine am venit, Iubire
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
 Din Tine am venit, Iubire
-Și tot spre Tine merg mereu
+Și tot spre Tine merg mereu,
 Frumusețe și desăvârșire
 Doar Tu dai sufletului meu.
 

@@ -1,13 +1,13 @@
 [title]
-Isus viața noastră noi pe Tine Te mărim
+Isus, viața noastră, noi pe Tine Te mărim
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Isus, viața noastră, noi pe Tine Te mărim
-Căci prin jertfirea Ta pe cruce noi voioși trăim
-Ne-ai dat în dar iertarea pentru vina ce-o purtăm
+Isus, viața noastră, noi pe Tine Te mărim,
+Căci prin jertfirea Ta pe cruce noi voioși trăim.
+Ne-ai dat în dar iertarea pentru vina ce-o purtăm,
 De-aceea Îți cântăm: Aleluia!
 
 [chorus]

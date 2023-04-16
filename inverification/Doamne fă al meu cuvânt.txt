@@ -1,5 +1,5 @@
 [title]
-Doamne fă al meu cuvânt
+Doamne, fă al meu cuvânt
 
 [sequence]
 1,c,2,c,3,c,4,c,5
@@ -11,12 +11,12 @@ Doamne, fă al meu cuvânt
 Domnul meu.
 
 [chorus]
-Stânca mea Tu ești
+Stânca mea Tu ești,
 Salvator pe veci.
 
 [2]
 Doamne, fă viața mea
-Sfântă înaintea Ta
+Sfântă înaintea Ta,
 Ție-ntreagă să Ți-o-nchin,
 Domnul meu.
 
@@ -24,16 +24,16 @@ Domnul meu.
 Doamne, rugăciunea mea
 Fă-o cum a fost a Ta,
 Totul Ție să Îți spun,
-Domnul meu
+Domnul meu.
 
 [4]
 Doamne, fă lumina mea
-Să lucească ca o stea
+Să lucească ca o stea,
 Far în noapte Tu mă fă,
 Domnul meu.
 
 [5]
 Doamne, fă iubirea mea
-Ca să fie ca a Ta
+Ca să fie ca a Ta,
 Toți să fie prinși în ea,
 Domnul meu.

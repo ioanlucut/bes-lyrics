@@ -1,11 +1,11 @@
 [title]
-Duh Preasfânt suflarea Celui Viu
+Duh Preasfânt, suflarea Celui Viu
 
 [sequence]
 1,2,3,4,5,6
 
 [1]
-Duh Preasfânt, suflarea Celui Viu,
+Duh Preasfânt, suflarea Celui Viu
 Suflă viață-n sufletu-mi uscat,
 Înnoit și întregit să fiu
 De prezența Celui înviat.
@@ -35,7 +35,7 @@ Să-ți reverși puterea ca-n trecut,
 Fă-Ți de har poporul însetat.
 
 [6]
-Înălțând mireasma rugiilor,
+Înălțând mireasma rugilor,
 Ne condu pe calea jertfelor,
 Ca uniți să arătăm vădit,
 Fața lui Hristos Cel proslăvit.

@@ -1,5 +1,5 @@
 [title]
-Pentru Tine vreau Isuse
+Pentru Tine vreau, Isuse
 
 [sequence]
 1,c,2,c,3,c,4,c
@@ -20,12 +20,12 @@ Lanțul tare fi-va rupt! :/
 Pentru Tine vreau, Isuse,
 Să-nving orice suferinți
 Am ales a jertfei Cale
-Pentru-a Tale biruinți!
+Pentru-ale Tale biruinți!
 
 [3]
 Pentru Tine-aș vrea, Isuse,
 Să trăiesc, să cânt, să mor,
-Să vestesc a Tale sfinte,
+Să vestesc ale Tale sfinte,
 Dulci cuvinte tuturor!
 
 [4]

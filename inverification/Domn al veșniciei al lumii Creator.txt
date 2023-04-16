@@ -1,29 +1,29 @@
 [title]
-Domn al veșniciei al lumii Creator
+Domn al veșniciei, al lumii Creator
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Domn al veșniciei, al lumii Creator
-Cerul este al Tău templu
+Domn al veșniciei, al lumii Creator,
+Cerul este al Tău templu,
 Marele-mpărat Tu ești.
 
 [chorus]
 /: Domn al slavei și peste galaxii
-Tu ești vrednic, vrednic
+Tu ești vrednic, vrednic;
 Tot universul în veci Te va slăvi
-Fii-n veci vrednic, vrednic :/
+Fii-n veci vrednic, vrednic. :/
 
-Domn al cerului-nalt (peste ceruri)
-Rege pe-ntreg pământ (în veci Rege)
+Domn al cerului-nalt (peste ceruri),
+Rege pe-ntreg pământ (în veci Rege).
 
 [2]
-Domn al veșniciei, al lumii Creator
-În glas de dor și d-adorare
+Domn al veșniciei, al lumii Creator,
+În glas de dor și d-adorare,
 Numele sfânt lăudăm.
 
 [3]
-Dis de dimineață voi chema lumina Ta
-Ca un far prin bezna nopții
+Dis de dimineață voi chema lumina Ta.
+Ca un far prin bezna nopții,
 Drumul mi-l vei lumina.

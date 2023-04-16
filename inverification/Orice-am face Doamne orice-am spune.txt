@@ -1,24 +1,24 @@
 [title]
-Orice-am face Doamne orice-am spune
+Orice-am face, Doamne, orice-am spune
 
 [sequence]
 1,c,2,c,t,3,t,4
 
 [1]
-Orice-am face Doamne, orice-am spune
+Orice-am face, Doamne, orice-am spune,
 Fără Duhul Tău e goană după vânt
 Și orice viață fără Tine-apune
 Umple-ne, Isus, cu Duhul Tău cel Sfânt.
 
 [chorus]
-Duhul Tău ne călăuzește, Doamne-n orice zi
-Duhul Tău mângâiere dă în vremile târzii
-Duhul Tău ne învață cum plăcuți să ne rugăm
+Duhul Tău ne călăuzește, Doamne-n orice zi,
+Duhul Tău mângâiere dă în vremile târzii,
+Duhul Tău ne învață cum plăcuți să ne rugăm,
 Duhul Tău, o, Doamne, așteptăm.
 
 [2]
 Și cum vom sta noi oare în picioare
-Când ziua judecății va veni
+Când ziua judecății va veni?
 În încercări cum n-au mai fost sub soare
 Numai Duhul Tău ne poate întări.
 

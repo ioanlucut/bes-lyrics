@@ -1,5 +1,5 @@
 [title]
-Ai auzit vreodată prietene de Mine
+Ai auzit vreodată, prietene, de Mine
 
 [sequence]
 1,2,3
@@ -13,11 +13,11 @@ Te căutau să-ți ceară al vieții tale preț?
 Ai auzit vreodată, prietene, de Mine
 Când floarea vieții tale își scutura podoaba?...
 Ca să te scap de lanțuri, de moarte și rușine,
-Eu am murit pe cruce, în locul tău, Baraba
+Eu am murit pe cruce, în locul tău, Baraba!
 
 [2]
 Eu răsădisem pacea, tu semănai furtuna
-Și pe-amândoi mulțimea ne-a pus pe un cântar
+Și pe-amândoi mulțimea ne-a pus pe un cântar.
 Minciuna cea din umbră alese-atunci minciuna
 Tâlharii cei cu vază cerură pe-un tâlhar.
 
@@ -33,6 +33,6 @@ Dar vremea e târzie, mijesc pe dealuri zorii
 Și ceru-ntreg te-așteaptă de două mii de ani!
 
 De-ai ști ce neagră noapte și ce adânc fierbinte
-Va fi când suferința nu va cunoaște graba
+Va fi când suferința nu va cunoaște graba;
 Vei plânge-ntotdeauna și-ți vei aduce aminte
 Că am murit pe cruce în locul tău, Baraba!

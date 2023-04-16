@@ -1,11 +1,11 @@
 [title]
-Am cămin mai sus de nori în țara gloriei
+Am cămin, mai sus de nori, în țara gloriei
 
 [sequence]
 1,c,2,c,3,c,4,c,5,c
 
 [1]
-/: Am cămin, mai sus de nori în țara gloriei :/ 3x
+/: Am cămin, mai sus de nori, în țara gloriei :/ 3x
 Când vine Isus.
 
 [chorus]

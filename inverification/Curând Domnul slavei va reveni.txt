@@ -5,9 +5,9 @@ Curând Domnul slavei va reveni
 1,c,2,c,3,c
 
 [1]
-Curând Domnul slavei va reveni
+Curând Domnul slavei va reveni,
 Cuvântul cel sfânt se va împlini
-Noi toți părăsi-vom al vieții tumult
+Noi toți părăsi-vom al vieții tumult,
 Îți spun să fii gata că nu mai e mult.
 
 [chorus]
@@ -24,6 +24,6 @@ Veghează întruna, păstrează-te sfânt
 
 [3]
 Sunt multe semnale că ziua de apoi
-E tot mai aproape, El vine pe nori
+E tot mai aproape, El vine pe nori.
 Veghează și stai ca străjerul pe turn
 Îți spun să fii gata, că nu mai e mult.

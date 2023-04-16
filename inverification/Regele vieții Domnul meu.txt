@@ -1,5 +1,5 @@
 [title]
-Regele vieții Domnul meu
+Regele vieții, Domnul meu
 
 [sequence]
 1,c,2,c,3,c,4,c
@@ -24,7 +24,7 @@ Somnul ei Ți-l păzeau.
 
 [3]
 Și cu Maria-n zori de zi,
-Să vin ’naintea Ta
+Să vin ’naintea Ta.
 Arată-mi, Tu, mormântul gol,
 Du-mă la Golgota!
 

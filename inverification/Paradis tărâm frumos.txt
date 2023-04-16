@@ -1,5 +1,5 @@
 [title]
-Paradis tărâm frumos
+Paradis, tărâm frumos
 
 [sequence]
 1,c,2,c,3,c,e
@@ -20,10 +20,10 @@ Un cântec nou vom intona. :/
 Spre tin’ martirii au pășit,
 Nimic din drum nu i-a oprit,
 Nici prigoniri, nici gropi cu lei,
-Nu i-a înfricat deloc pe ei.
+Nu i-au înfricat deloc pe ei.
 
 [3]
-Frate nu ți-e dor de noul Canaan?
+Frate, nu ți-e dor de noul Canaan?
 Te-așteaptă sfinții dincol’ de Iordan.
 Poate chiar la noapte Domnul va veni,
 Pune-ți întrebarea: cum te va găsi?

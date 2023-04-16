@@ -1,5 +1,5 @@
 [title]
-Voi veți fi bucuroși de pace însoțiți
+Voi veți fi bucuroși, de pace însoțiți
 
 [sequence]
 1,c,2,c
@@ -11,9 +11,9 @@ Când voi veți cânta, chiar pomii aflați pe drum
 Din palme vor bătea!
 
 [chorus]
-/: Și-atuncea pomii din palme vor bătea
-Pomii din palme vor bătea
-Pomii din palme vor bătea
+/: Și-atuncea pomii din palme vor bătea,
+Pomii din palme vor bătea,
+Pomii din palme vor bătea,
 Când vă veți bucura! :/
 
 [2]

@@ -1,19 +1,19 @@
 [title]
-Privește o Doamne la mine
+Privește, o, Doamne, la mine
 
 [sequence]
 1,2,3,4,5,6
 
 [1]
-Privește, o, Doamne, la mine
-Căci eu Te chem din mari nevoi
-/: Ascult-ascultă-mi rugăciunea,
+Privește, o, Doamne, la mine,
+Căci eu Te chem din mari nevoi.
+/: Ascultă, ascultă-mi rugăciunea,
 Leagă-mi rănile cari mă dor! :/
 
 [2]
-Fă ca să capăt alinare
+Fă să capăt alinare
 Și ușurare în necaz,
-/: O, adă-mi pacea Ta, Isuse,
+/: O, adu-mi pacea Ta, Isuse,
 Și mângâie-mi plânsul pe-obraz! :/
 
 [3]

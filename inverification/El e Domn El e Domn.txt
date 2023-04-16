@@ -1,5 +1,5 @@
 [title]
-El e Domn El e Domn
+El e Domn, El e Domn
 
 [sequence]
 1,2,3

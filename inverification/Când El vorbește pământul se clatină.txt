@@ -1,19 +1,19 @@
 [title]
-Când El vorbește pământul se clatină
+Când El vorbește, pământul se clatină
 
 [sequence]
 1,2,c,3,t,b,t
 
 [1]
-Când El vorbește pământul se clatină,
-Marea ascultă, când El vorbește!
-Când El vorbește totul stă nemișcat,
+Când El vorbește, pământul se clatină,
+Marea ascultă când El vorbește!
+Când El vorbește, totul stă nemișcat,
 În fața Celui ce ne-a creat
 Când El vorbește!
 
 [2]
 Când El vorbește morții înviază,
-Bolnavii se ridică, când El vorbește!
+Bolnavii se ridică când El vorbește!
 Când El vorbește și timpul rămâne-n loc,
 Coboară Duh Sfânt și foc,
 Când El vorbește!
@@ -25,9 +25,9 @@ Cel mai frumos și cel mai minunat! :/
 
 [3]
 La glasul Lui aruncă și grijile,
-Uită problemele, când El vorbește
+Uită problemele când El vorbește
 La glasul Lui pășește pe mare
-Și-n furtună și soare, așa vorbește El!
+Și-n furtună și-n soare, așa vorbește El!
 
 [chorus 2]
 /: Cel mai frumos și cel mai minunat,

@@ -1,5 +1,5 @@
 [title]
-O de-aș avea eu limbi o mie
+O, de-aș avea eu limbi o mie
 
 [sequence]
 1,2,3,4
@@ -21,9 +21,9 @@ Se zbate Doamne când Te cer;
 Un imn spre închinarea Ta! :/
 
 [3]
-De ce tăceți puteri a mele?
+De ce tăceți, puteri a mele?
 Mai sus, mai sus, zburați mai sus!
-Asuceți veșnică cinstire,
+Aduceți veșnică cinstire,
 Și mulțumire lui Isus.
 /: Și sufletul, și trupul meu,
 Servească-n veci pe Dumnezeu. :/

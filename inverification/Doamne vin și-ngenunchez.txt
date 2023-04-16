@@ -1,18 +1,18 @@
 [title]
-Doamne vin și-ngenunchez
+Doamne, vin și-ngenunchez
 
 [sequence]
 1,c,2,c,b,c
 
 [1]
 Doamne vin și-ngenunchez,
-Ție îți mărturisesc
+Ție îți mărturisesc:
 Fără Tine, aș cădea,
 Doar Tu ești odihna mea.
 
 [chorus]
-Eu de Tine am nevoie
-Am nevoie mare
+Eu de Tine am nevoie,
+Am nevoie mare,
 Tu ești neprihănirea mea,
 Și-a mea apărare.
 
@@ -24,6 +24,6 @@ Prin harul Lui, sfințenie.
 
 [bridge]
 Să mă-nveți cântări să-nalț,
-Când ispite-n cale vin
-Eu mă las Isuse pe al Tău braț,
+Când ispite-n cale vin,
+Eu mă las, Isuse, pe al Tău braț,
 Ești speranță și alin.

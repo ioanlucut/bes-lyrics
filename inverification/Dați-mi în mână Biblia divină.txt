@@ -5,8 +5,8 @@ Dați-mi în mână Biblia divină
 1,c,2,c,3,c
 
 [1]
-Dați-mi în mână Biblia divină
-Carte în lume-asemenea ei nu-i
+Dați-mi în mână Biblia divină,
+Carte în lume-asemenea ei nu-i,
 Ea stâmpără durerea și-o alină
 Și mă-nvață să fiu al Domnului.
 
@@ -17,7 +17,7 @@ Ca toți aceia cu inima frântă
 Să se întoarcă la Domnul cel Sfânt.
 
 [2]
-Dați-mi în mână Biblia divină
+Dați-mi în mână Biblia divină,
 Ea dă odihnă celor osteniți
 Și în necazuri mângâie-al tău suflet
 Vindecă boala și-orice suferinți.

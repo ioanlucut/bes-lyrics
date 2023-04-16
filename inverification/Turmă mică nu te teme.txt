@@ -1,5 +1,5 @@
 [title]
-Turmă mică nu te teme
+Turmă mică, nu te teme
 
 [sequence]
 1,2,3,4
@@ -13,23 +13,23 @@ Dar de tine, nu te teme,
 /: Nu s-atinge nici un rău! :/
 
 /: Nu te teme, nu te teme,
-Nu se-atinge nici un rău
-Nu se-atinge nici un rău :/
+Nu se-atinge nici un rău,
+Nu se-atinge nici un rău. :/
 
 [2]
-Căci puterea Lui e mare,
+Căci puterea Lui e mare
 Și iubirea Lui e foc
 Cine-ar mai putea, sub soare,
 Viața ta să o doboare
 Când, în mâna Lui cea tare,
 
-/: Tu rămâi, în orice loc :/
+/: Tu rămâi, în orice loc. :/
 Mâna-I tare, mâna-I tare
 Te-o păzi în orice loc!
 
 [3]
 Deci, alungă gând de teamă
-Și de El să te-alipești
+Și de El să te-alipești,
 El ți-e tată, El ți-e mamă.
 Tu ascultă-L când te cheamă,
 Și din calea Lui, ia seama,

@@ -1,5 +1,5 @@
 [title]
-Mai presus de orice de credință de-avânt
+Mai presus de orice, de credință, de-avânt
 
 [sequence]
 1,2,3,4
@@ -9,14 +9,14 @@ Mai presus de orice, de credință, de-avânt,
 De-orice dar care biruie firea,
 /: Mai presus de minuni,
 De puteri, de cununi,
-Mai presus de orice e iubirea :/
+Mai presus de orice e iubirea. :/
 
 [2]
 Prin credință răstorni
 Munți înalți și cetăți
-Și-ți arunci peste veacuri privirea
+Și-ți arunci peste veacuri privirea.
 /: Dar, în cele cerești,
-Ești atât cât iubești
+Ești atât cât iubești,
 Mai presus de orice e iubirea! :/
 
 [3]
