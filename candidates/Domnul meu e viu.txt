@@ -1,0 +1,23 @@
+[title]
+Domnul meu e viu
+
+[sequence]
+1,c,2,c
+
+[1]
+Cine-a-nvățat soarele să răsară?
+Și cine a pus țărmul lângă ocean?
+Și cum știe luna ziua să se-ascundă?
+Și cine-a scris cu stele ceru-ntreg?
+
+[chorus]
+:/ Da eu știu, Domnul meu e viu!
+Eu știu, Domnul meu e viu! 
+Orice făptură va striga: „El poate viață da!”,
+Eu știu, Domnul meu e viu! /:
+
+[2]
+Același Domn, ce pe toate le ține
+Se-apleacă spre cei care strigă spre El,
+Și le dă mâna Sa, ce-a fost cândva străpunsă
+Și tot ce-atinge viață prinde iar!
