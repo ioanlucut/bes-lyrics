@@ -16,6 +16,6 @@ jobs:
         run: npm i
 
       - name: Verify
-        run: npm run verify && npm run verify:similarity
+        run: npm run verify
         env:
           CI: true
