@@ -2,16 +2,16 @@
 Domnul pentru mine a murit
 
 [sequence]
-1,c,2,c,b,c,w
+1,c,2,c,b,c,b2
 
 [1]
 Domnul pentru mine a murit,
-Amin, Amin
+Amin, Amin.
 În sânge sfânt Isus a biruit,
-Amin, Amin
+Amin, Amin.
 
 A fost mort, dar azi e viu,
-Amin, Amin
+Amin, Amin.
 Stă la dreapta Tatălui Divin,
 Amin, Amin.
 
@@ -23,9 +23,9 @@ Mare e gloria Lui.
 
 [2]
 Pe nedrept a fost batjocorit,
-Amin, Amin
+Amin, Amin.
 Dar n-a rămas pe cruce pironit,
-Amin, Amin,
+Amin, Amin.
 
 Azi, iubirea Lui e peste noi,
 Amin, Amin,

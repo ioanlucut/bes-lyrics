@@ -2,7 +2,7 @@
 Conștient sunt Doamne bine
 
 [sequence]
-1,c,2
+1,c,2,c
 
 [1]
 Conștient sunt Doamne, bine,
@@ -11,6 +11,7 @@ Totu-n jurul meu s-ar nărui.
 Soarele pe cer s-ar stinge,
 Luna ar pieri și-ar plânge,
 Stelele n-ar mai luci frumos.
+
 Dar atunci când ești cu mine,
 Inima de Tin’ mi-e plină,
 Duhul Tău mi-alină orice dureri.
@@ -34,6 +35,7 @@ Inima e tot ce mi-a rămas.
 Vin în sfântă umilință
 Și te rog să-mi dai credință
 Să-nțeleg, Isuse, voia Ta.
+
 Vreau să-nvăț ce e iubirea
 Și răbdarea și jertfirea,
 Vreau și eu să plâng la Golgota.

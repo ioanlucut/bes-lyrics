@@ -2,7 +2,7 @@
 Cu gândul la viața eternă
 
 [sequence]
-1,c,2
+1,c,2,c
 
 [1]
 Cu gândul la viața eternă,
