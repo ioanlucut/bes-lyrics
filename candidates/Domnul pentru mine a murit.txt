@@ -2,7 +2,7 @@
 Domnul pentru mine a murit
 
 [sequence]
-1,c,2,c,b,c,b 2
+1,c,2,c,b,c,w
 
 [1]
 Domnul pentru mine a murit,
