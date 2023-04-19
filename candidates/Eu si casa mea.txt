@@ -2,26 +2,26 @@
 Eu și casa mea
 
 [sequence]
-1,c,2,c
+c,1,c,2,c
 
 [chorus]
-:/ Da, eu și casa mea vom sluji Domnului
-Și Îl vom lăuda prin cântec. 
+/: Da, eu și casa mea vom sluji Domnului
+Și Îl vom lăuda prin cântec.
 Nu vom mai sluji dumnezeilor străini,
-Te vom înălța, Doamne doar pe Tin’ /:
+Te vom înălța, Doamne, doar pe Tin’. :/
 
 [1]
-Tu ești sfâânt, sfâânt
-Nu e nimenea ca Tin’
-Tu ești sfâânt, sfânt în veci
-Nu e nimenea ca Tin’
+Tu ești sfânt, sfânt,
+Nu e nimenea ca Tin’.
+Tu ești sfânt, sfânt în veci,
+Nu e nimenea ca Tin’.
 
 [2]
 Da, eu și casa mea ne vom închina
 Dumnezeului atotputernic.
 Cu inimi curățite mâini vom ridica
-Și vom proclama ][ în veci Domnia Ta
+Și vom proclama în veci Domnia Ta.
 
 [chorus]
-:/ Alege azi cui vei sluji /:
+/: Alege azi cui vei sluji :/
 Dar eu și casa mea.. (strofa 1)

@@ -2,23 +2,26 @@
 Haideți să cântăm
 
 [sequence]
-1,2,3
+c,1,c,2,c
 
-[1]
+[chorus]
 Haideți să cântăm cu veselie Domnului
 Și să strigăm de bucurie
 Către stânca mântuirii noastre,
 Înaintea Lui să mergem toți cu laude.
-Cântați-I cântece, Cântați-I cântece,
-Cântați-I cântece, ooh, în cinstea Lui.
 
-[2]
+Cântați-I cântece,
+Cântați-I cântece,
+Cântați-I cântece,
+Ooh, în cinstea Lui.
+
+[1]
 Domnul este un mare Împărat,
 Marea și uscatul le-a creat,
 Domnul este-un mare Dumnezeu,
 Lui mă-nchin, e Creatorul meu.
 
-[3]
+[2]
 Să ne-nchinăm, să ne smerim,
 Să plecăm genunchii, să-L slăvim.
 Noi suntem poporul Domnului,

@@ -2,10 +2,10 @@
 Domnul fie cu tine
 
 [sequence]
-1,c,2,c
+1,c,2,c,3,c,4,c,b
 
 [1]
-Domnul fie cu tine
+Domnul fie cu tine,
 Fața Lui să lumineze mereu ființa ta,
 Să-ți umple viața
 Cu pacea Sa!
@@ -13,17 +13,23 @@ Cu pacea Sa!
 [chorus]
 /: Amin, Amin, Amin! :/
 
-[chorus]
-/: Harul Lui să se reverse peste mii de generații
-Binecuvântați să fie și părinții, și copiii! :/
-
-[chorus]
-/: Iar prezența Lui să fie și ’nainte, și în urmă
-Lângă tine și în tine e cu tine, e cu tine! :/
-
-[chorus]
-/: De e zi sau de e noapte la plecare, la venire,
-În durere, bucurie nu te lasă e cu tine! :/
-
 [2]
+/: Harul Lui să se reverse
+Peste mii de generații,
+Binecuvântați să fie
+Și părinții și copiii! :/
+
+[3]
+/: Iar prezența Lui să fie
+Și ’nainte, și în urmă
+Lângă tine și în tine,
+E cu tine, e cu tine! :/
+
+[4]
+/: De e zi sau de e noapte,
+La plecare, la venire,
+În durere, bucurie,
+Nu te lasă, e cu tine! :/
+
+[bridge]
 E cu tine, e cu tiiiineeeee !

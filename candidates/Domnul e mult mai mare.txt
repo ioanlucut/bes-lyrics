@@ -2,22 +2,22 @@
 Domnul e mult mai mare
 
 [sequence]
-1,2,3
+c,1,c,2,c
+
+[chorus]
+Domnul e mult mai mare decât problema mea,
+Orice munte-oricât de tare, se apleacă-n fața Sa.
+Semnele de întrebare nu îi pot rezista,
+Orice munte-oricât de tare se apleacă-n fața Sa.
 
 [1]
-Domnul e mult mai mare decât problema mea
-Orice munte-oricât de tare se apleacă-n fața Sa
-Semnele de întrebare nu îi pot rezista
-Orice munte-oricât de tare se apleacă-n fața Sa
+Umbrele mă înconjoară, dar El e prezent,
+Orice munte-oricât de tare, se apleacă-n fața Sa.
+Nici cea mai grea confuzie nu-L poate înfrunta,
+Orice munte oricât de tare se apleacă-n fața Sa.
 
 [2]
-Umbrele mă înconjoară dar El e prezent
-Orice munte oricât de tare se apleacă-n fața Sa
-Nici cea mai grea confuzie nu-L poate înfrunta
-Orice munte oricât de tare se apleacă-n fața Sa
-
-[3]
-Nici un uriaș vreodată nu-L poate egala
-Orice munte oricât de tare se apleacă-n fața Sa
-Domnul e cel mai mare El poate tot ce vrea
-Orice munte oricât de tare se apleacă-n fața Sa
+Nici un uriaș, vreodată, nu-L poate egala,
+Orice munte-oricât de tare, se apleacă-n fața Sa.
+Domnul e cel mai mare, El poate tot ce vrea,
+Orice munte oricât de tare se apleacă-n fața Sa.

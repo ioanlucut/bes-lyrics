@@ -2,7 +2,7 @@
 E lângă tine iar
 
 [sequence]
-1,2,3,4
+1,c,2,c,1,c
 
 [1]
 E lângă tine iar, E lângă tine iar,
@@ -10,19 +10,14 @@ E lângă tine iar, E lângă tine iar,
 Cu un cărbune-aprins atinge gura ta
 Și ochii tăi i-a uns cu tină!
 
-[2]
+[chorus]
 Atinge-ne din nou, Isus,
 Și cu puterea Ta divină
- :/ Revarsă-n noi din Duhul Tău
-Și fă-ne acum lumină! /:
+/: Revarsă-n noi din Duhul Tău
+Și fă-ne acum lumină! :/
 
-[3]
+[2]
 E lângă Tine iar, E lângă tine iar,
 Isus Se-apropie de tine;
 Blândul Samaritean îți leagă rana iar,
 Și nu te lasă-n drum, străine.
-
-[4]
-Ref
-Strofa 1
-Ref
