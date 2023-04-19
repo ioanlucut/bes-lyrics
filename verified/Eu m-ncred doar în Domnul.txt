@@ -1,11 +1,11 @@
 [title]
-Eu m-ncred doar în Domnul
+Eu mă-ncred doar în Domnul
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Eu m-ncred doar în Domnul,
+Eu mă-ncred doar în Domnul,
 El mă ajută!
 Eu mă-ncred doar în Domnul,
 El e-a mea stâncă!
