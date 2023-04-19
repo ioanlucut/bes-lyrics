@@ -1,5 +1,5 @@
 [title]
-E viu e viu Isus Hristos e viu
+E viu, e viu, Isus Hristos e viu
 
 [sequence]
 1,c,1,c
