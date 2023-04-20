@@ -2,31 +2,42 @@
 O carte cu șapte peceți
 
 [sequence]
-1,2,3,4
+1,c,2,c,3,c
 
 [1]
-O carte cu șapte peceți, o carte stă închisă,
-În Mâna Dumnezeului Sfânt, în Mâna Sa întinsă.
-Și un înger din ceruri puternic striga
+O carte cu șapte peceți,
+O carte stă închisă,
+În Mâna Dumnezeului Sfânt,
+În Mâna Sa întinsă.
+
+Și un înger din ceruri puternic strigă
 Cine-i vrednic s-o poată deschide,
-Dar nimeni în ceruri nici jos pe pământ
+Dar nimeni în ceruri, nici jos pe pământ,
 N-a fost vrednic s-o poată lua.
 
+[chorus]
+Vrednic este Mielul,
+Ce-a fost junghiat
+Să primească slava,
+Slavă ne-ncetat.
+
 [2]
-Nici îngerii din Cerul înalt, nici sfinții care cântă,
-Niciunul vrednic nu s-a găsit să ceară Cartea Sfântă.
-Dar deodată-n picioare, apare un Miel,
-Ce părea junghiat și zdrobit
+Nici îngerii din Cerul înalt,
+Nici sfinții care cântă,
+Niciunul vrednic nu s-a găsit
+Să ceară Cartea Sfântă.
+
+Dar deodată-n picioare apare un Miel,
+Ce părea junghiat și zdrobit.
 Cu ochii în lacrimi de dragoste plini,
 Pentru noi a murit răstignit.
 
 [3]
-Vrednic este Mielul, ce-a fost junghiat
-Să primească slava, slava ne-ncetat.
+Din ceruri Isus a venit,
+Lăsat-a Slava toată
+Și-n lume, pentru că ne-a iubit,
+Ne-a căutat odată.
 
-[4]
-Din ceruri Isus a venit, lăsa-ta Slava toată
-Și-n lume pentru că ne-a iubit, ne-a căutat odată.
 Să ne spună că este un Cer minunat
 Și o veșnică viață-n mărire
 Și-a murit pe Calvar să putem fi salvați,

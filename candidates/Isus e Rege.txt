@@ -2,32 +2,33 @@
 Isus e rege
 
 [sequence]
-1,2,3,4
+1,c,2,c,b
 
 [1]
-Al Tău nume e înălțat, Isus
-Pe-ntreg pământ
-Nume puternic și măreț
-Plin de glorie și sfânt
-În El sunt salvat
+Al Tău nume e înălțat,
+Isus, pe-ntreg pământ.
+Nume puternic și măreț,
+Plin de glorie și sfânt,
+În El sunt salvat!
+
+[chorus]
+Isus e Rege, vrednic de laudă,
+Domn peste toate,
+Nimeni nu este ca El!
+Isus e mare, Sfânt și înălțat,
+Alfa, Omega, nimeni nu este ca El.
 
 [2]
-Isus e Rege, vrednic de laudă
-Domn peste toate, nimeni nu este ca El
-Isus e mare, Sfânt și înălțat,
-Alfa Omega nimeni nu este ca El.
-
-[3]
 Nume de viață plin,
-Tu trăiești în noi,
-Prin al Său nume biruim
-Prin El victoria primim
+Tu trăiești în noi!
+Prin al Său nume biruim,
+Prin El victoria primim,
 Ce nume minunat!
 
-[4]
-El Domnul vieții, înălțat
-Prin moarte ne-a răscumpărat
-Fie lăudat
-Orice genunchi se va pleca
-De aceea veșnic vom cânta
+[bridge]
+El, Domnul vieții, înălțat,
+Prin moarte ne-a răscumpărat,
+Fie lăudat!
+Orice genunchi se va pleca,
+De aceea veșnic vom cânta:
 Isus Hristos e Domn!
