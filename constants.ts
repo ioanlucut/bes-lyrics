@@ -6,6 +6,8 @@ export const COMMA = ',';
 
 export const TXT_EXTENSION = '.txt';
 
+export const TEST_FILE = '__Test.txt';
+
 export const ALLOWED_CHARS =
   ` !(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„\n\r`.split(
     EMPTY_STRING,

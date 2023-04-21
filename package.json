@@ -39,7 +39,8 @@
     "verify:similarity:mv": "ts-node ./lyricsSimilarityValidator.ts --overwrite",
     "verify:similarity:rm": "ts-node ./lyricsSimilarityValidator.ts --removeDuplicates",
     "reprocess:candidates": "ts-node ./lyricsTextReprocessor.ts",
-    "stats": "ts-node lyricsRomanianDictionaryWordsCollector.ts"
+    "dictionary:analyze": "ts-node lyricsRomanianDictionaryAnalyzer.ts",
+    "dictionary:update": "ts-node lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary"
   },
   "author": "Ioan Lucuț",
   "license": "ISC"
