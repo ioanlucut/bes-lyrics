@@ -1,0 +1,45 @@
+[title]
+Ești tu gata de plecare
+
+[sequence]
+1,2,3,4,5,6
+
+[1]
+Ești tu gata de plecare?
+Da,
+Domnul meu!
+Și veghezi în așteptare?
+Da,
+Domnul meu!
+
+[2]
+AȘ VREA SĂ ZBOR
+MAI SUS DE NORI
+SĂ MĂ-NTÂLNESC CU EL
+AȘ VREA SĂ ZBOR.
+
+[3]
+Ai lăsat tu totul oare?
+Da,
+Domnul meu!
+Și veghezi în așteptare?
+Da,
+Domnul meu!
+
+[4]
+AȘ VREA SĂ ZBOR
+MAI SUS DE NORI
+SĂ MĂ-NTÂLNESC CU EL
+AȘ VREA SĂ ZBOR.
+
+[5]
+În curând, ce fericire
+Îl vom vedea
+Și cu Domnul în mărire
+Noi vom cânta.
+
+[6]
+AȘ VREA SĂ ZBOR
+MAI SUS DE NORI
+SĂ MĂ-NTÂLNESC CU EL
+AȘ VREA SĂ ZBOR.

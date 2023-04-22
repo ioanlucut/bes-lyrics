@@ -1,0 +1,26 @@
+[title]
+Eu și casa mea
+
+[sequence]
+1,c,2,c,b,1,c
+
+[1]
+Da, eu și casa mea vom sluji Domnului
+Și Îl vom lăuda prin cântec.
+Nu vom mai sluji dumnezeilor străini,
+Te vom înălța, Doamne doar pe Tin’
+
+[chorus]
+Tu ești sfânt, sfânt,
+Nu e nimenea ca Tin’
+Tu ești sfânt, sfânt în veci,
+Nu e nimenea ca Tin’
+
+[2]
+Da, eu și casa mea ne vom închina
+Dumnezeului atotputernic,
+Cu inimi curățite mâini vom ridica
+Și vom proclama în veci Domnia Ta!
+
+[bridge]
+/: Alege azi cui vei sluji :/ (x2)

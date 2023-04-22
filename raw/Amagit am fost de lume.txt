@@ -1,0 +1,80 @@
+[title]
+Amăgit am fost de lume
+
+[sequence]
+1,2,3,4,5,6,7,8,9,10
+
+[1]
+Amăgit am fost de lume,
+Amăgit am fost mereu
+Până-n ziua-aceea mare
+/: Când am fost salvat și eu. :/
+
+[2]
+M-A GĂSIT,
+M-A SALVAT DUMNEZEU!
+MI-A IERTAT,
+MI-A SPĂLAT PĂCATUL MEU!
+LUI ISUS INIMA I-AM PREDAT,
+ALELUIA-I CÂNT,
+SUNT SALVAT!
+
+[3]
+Banii mi-au fost amăgirea,
+Banii m-au orbit mereu
+Și cântam deșertăciunii
+/: Morții sufletului meu. :/
+
+[4]
+M-A GĂSIT,
+M-A SALVAT DUMNEZEU!
+MI-A IERTAT,
+MI-A SPĂLAT PĂCATUL MEU!
+LUI ISUS INIMA I-AM PREDAT,
+ALELUIA-I CÂNT,
+SUNT SALVAT!
+
+[5]
+Cei ce nu-L cunosc pe Isus
+Astăzi mă batjocoresc
+Dar îndur orice ocară
+/: Pentru Domnul meu ceresc. :/
+
+[6]
+M-A GĂSIT,
+M-A SALVAT DUMNEZEU!
+MI-A IERTAT,
+MI-A SPĂLAT PĂCATUL MEU!
+LUI ISUS INIMA I-AM PREDAT,
+ALELUIA-I CÂNT,
+SUNT SALVAT!
+
+[7]
+Toți cei dragi m-au dat uitării
+Pentru simplu crezul meu
+Dar eu am o mângâiere
+/: Nu mă uită Dumnezeu. :/
+
+[8]
+M-A GĂSIT,
+M-A SALVAT DUMNEZEU!
+MI-A IERTAT,
+MI-A SPĂLAT PĂCATUL MEU!
+LUI ISUS INIMA I-AM PREDAT,
+ALELUIA-I CÂNT,
+SUNT SALVAT!
+
+[9]
+Nu mai am nici o îndoială,
+Isus este Domnul meu!
+Dându-și viața la Golgota
+/: Am primit viață și eu. :/
+
+[10]
+M-A GĂSIT,
+M-A SALVAT DUMNEZEU!
+MI-A IERTAT,
+MI-A SPĂLAT PĂCATUL MEU!
+LUI ISUS INIMA I-AM PREDAT,
+ALELUIA-I CÂNT,
+SUNT SALVAT!

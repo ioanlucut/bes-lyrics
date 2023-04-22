@@ -1,0 +1,41 @@
+[title]
+Isus m-ai cuprins din necuprins
+
+[sequence]
+1,2,3,4,5,6
+
+[1]
+Isus, m-ai cuprins din necuprins
+Isus, viață-n mine ai aprins
+Isus, m-ai iubit și m-ai salvat
+Să fii veșnic, veșnic lăudat.
+
+[2]
+Isus, pentru orbi lumină ai
+Isus, celor muți Tu le dai grai
+Isus, șchiopii iarăși au umblat
+Tu ești medic, medic minunat.
+
+[3]
+Isus, ești păstor celor pierduți
+Isus, apărător celor micuți
+Isus, din robie ne-ai scăpat
+Să fii veșnic, veșnic lăudat.
+
+[4]
+Isus, m-ai cuprins din necuprins
+Isus, viață-n mine ai aprins
+Isus, m-ai iubit și m-ai salvat
+Să fii veșnic, veșnic lăudat.
+
+[5]
+Isus, pentru orbi lumină ai
+Isus, celor muți Tu le dai grai
+Isus, șchiopii iarăși au umblat
+Tu ești medic, medic minunat.
+
+[6]
+Isus, ești păstor celor pierduți
+Isus, apărător celor micuți
+Isus, din robie ne-ai scăpat
+Să fii veșnic, veșnic lăudat.

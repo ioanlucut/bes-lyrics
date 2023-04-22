@@ -1,0 +1,35 @@
+[title]
+Voi slavi pe mielul gloriei
+
+[sequence]
+c,1,c,2
+
+[chorus]
+/: Voi slăvi pe Mielul gloriei
+Regelui Regilor mă-nchin
+Voi slăvi pe Mielul gloriei
+Regelui eu mă-nchin:\
+
+[1]
+ȘI MÂINILE MI LE-NALȚ
+ȘI-NAINTEA TA VIN
+MÂINILE MI LE-NALȚ
+ȘI MĂ BUCUR ÎN ’TIN
+ÎMI ÎNALȚ MÂINILE CĂTRE CER
+LUMEA-NTREABĂ: DE CE?
+EU LE SPUN: CĂ-MI IUBESC REGELE.
+
+[chorus]
+/: Voi slăvi pe Mielul gloriei
+Regelui Regilor mă-nchin
+Voi slăvi pe Mielul gloriei
+Regelui eu mă-nchin:\
+
+[2]
+ȘI MÂINILE MI LE-NALȚ
+ȘI-NAINTEA TA VIN
+MÂINILE MI LE-NALȚ
+ȘI MĂ BUCUR ÎN ’TIN
+ÎMI ÎNALȚ MÂINILE CĂTRE CER
+LUMEA-NTREABĂ: DE CE?
+EU LE SPUN: CĂ-MI IUBESC REGELE.

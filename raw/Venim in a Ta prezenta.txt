@@ -1,0 +1,45 @@
+[title]
+Venim în a Ta prezență
+
+[sequence]
+1,2,3,4
+
+[1]
+Venim în a Ta prezență
+Cu toți să îți cântăm
+Un cântec de mărire
+Și venim să ne-nchinăm.
+Ne-ai dat o viață nouă
+Să putem să te iubim.
+Venim cu mulțumire,
+O, Doamne Te iubim!
+
+[2]
+TU EȘTI TATĂL CREAȚIUNII,
+MIELUL SFÂNT CE-AI ÎNVIAT!
+EȘTI SINGURUL CE-AI BIRUIT
+ȘI MORMÂNTU-AI LEPĂDAT!
+TU PE TOȚI NE-AI ELIBERAT
+DE LA MOARTE ȘI NE-AI DAT
+LIBERTATEA SĂ VENIM
+CA-N PREZENȚA TA SĂ FIM!
+
+[3]
+Venim în a Ta prezență
+Cu toți să îți cântăm
+Un cântec de mărire
+Și venim să ne-nchinăm.
+Ne-ai dat o viață nouă
+Să putem să te iubim.
+Venim cu mulțumire,
+O, Doamne Te iubim!
+
+[4]
+TU EȘTI TATĂL CREAȚIUNII,
+MIELUL SFÂNT CE-AI ÎNVIAT!
+EȘTI SINGURUL CE-AI BIRUIT
+ȘI MORMÂNTU-AI LEPĂDAT!
+TU PE TOȚI NE-AI ELIBERAT
+DE LA MOARTE ȘI NE-AI DAT
+LIBERTATEA SĂ VENIM
+CA-N PREZENȚA TA SĂ FIM!

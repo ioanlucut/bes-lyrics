@@ -1,0 +1,55 @@
+[title]
+Tu mă cercetezi de-aproape
+
+[sequence]
+1,2,3,4,5,6
+
+[1]
+Tu mă cercetezi de-aproape
+Doamne Tu mă ocrotești,
+De departe Tu-mi știi gândul,
+Căile-mi cunoști.
+Unde voi putea, o,
+Doamne
+Să m-ascund de fața Ta,
+Că viața mi e-n mâna Ta?
+
+[2]
+Când cei răi mă înconjoară
+Și cu ură mă privesc,
+Pune dragostea Ta-n mine
+Ca să pot să îi iubesc..
+Eu nădăjduiesc în Tine
+Și-n făgăduința Ta,
+Că viața mi-e-n mâna Ta.
+
+[3]
+EU TE LAUD DOAMNE PENTRU CE SUNT,
+PENTRU MAREA-ȚI JERTFĂ ȘI IUBIREA TA,
+VIAȚA CE-AM PRIMIT-O DIN MÂNA TA
+O ÎNCHIN CA LAUDĂ PENTRU SLAVA TA.
+
+[4]
+Tu mă cercetezi de-aproape
+Doamne Tu mă ocrotești,
+De departe Tu-mi știi gândul,
+Căile-mi cunoști.
+Unde voi putea, o,
+Doamne
+Să m-ascund de fața Ta,
+Că viața mi e-n mâna Ta?
+
+[5]
+Când cei răi mă înconjoară
+Și cu ură mă privesc,
+Pune dragostea Ta-n mine
+Ca să pot să îi iubesc..
+Eu nădăjduiesc în Tine
+Și-n făgăduința Ta,
+Că viața mi-e-n mâna Ta.
+
+[6]
+EU TE LAUD DOAMNE PENTRU CE SUNT,
+PENTRU MAREA-ȚI JERTFĂ ȘI IUBIREA TA,
+VIAȚA CE-AM PRIMIT-O DIN MÂNA TA
+O ÎNCHIN CA LAUDĂ PENTRU SLAVA TA.
