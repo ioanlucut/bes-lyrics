@@ -1,3 +1,4 @@
+
 -
 A-ntârziat
 A-nviat
@@ -649,10 +650,10 @@ Trecând
 Trecându-l
 Trezește-ne
 Trezește-te
+Tri-unic
 Trimite-mi
 Trimite-ne
 Trimite-Ți
-Tri-unic
 Trudiți
 Trăiască
 Trăiește-I
@@ -750,7 +751,6 @@ acolo-n
 acol’
 acum-nainte
 aderă
-ades
 ades’
 adevăru-ntreg
 adoră
@@ -811,7 +811,6 @@ altu-a
 alunga
 alungați
 alungă
-alțți
 amara-I
 amenință
 amice
@@ -1351,7 +1350,6 @@ glorioasa-nviere
 glăsui
 glăsuiește
 gonește
-graniți
 grea
 grea-i
 grea-ncercarea
@@ -1845,7 +1843,7 @@ parcă-n
 pasărea-n
 pe-acei
 pe-aceia
-pe-acelaș
+pe-același
 pe-acest
 pe-afară
 pe-ai
@@ -2338,7 +2336,6 @@ stăpânim
 stăpână-n
 stăruia-n
 stăruiți
-suferinți
 sufla
 suflare-n
 sufletu-apăsat
@@ -2671,7 +2668,7 @@ zidurile-au
 zilele-n
 ziua-aceea
 ziua-n
-ziua-ntâia
+ziua-ntâi
 zâmbește
 zâmbind
 zăbovește
@@ -2693,7 +2690,6 @@ zărim
 Îndrăznește
 Înfruntând
 Îngenunchează
-Îngenunchiem
 Îngerii-n
 Îngrijește
 Înlătură
@@ -2804,7 +2800,7 @@ zărim
 înțelege
 înțelegi
 Și-a-ntors
-Și-aceia
+Și-acei
 Și-acționăm
 Și-adâncă
 Și-al
@@ -2825,7 +2821,6 @@ zărim
 Și-nfierea
 Și-nsoțești
 Și-ntoarce-te
-Și-ntoate
 Și-ntr-o
 Și-ntr-un
 Și-ntreaga
