@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
 import * as process from 'process';
-import { TEST_FILE, TXT_EXTENSION } from "./constants";
+import { TXT_EXTENSION } from './constants';
 import { normalizeFileName } from './src';
 
 dotenv.config();

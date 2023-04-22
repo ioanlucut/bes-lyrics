@@ -7,7 +7,7 @@ describe('fileNameNormalizer', () => {
         '!(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„.txt',
       ),
     ).toMatchInlineSnapshot(
-      `"-.ABCDEFGHIJKLMNOPRSTUVWXZYabcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`,
+      `",-.ABCDEFGHIJKLMNOPRSTUVWXZYabcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`,
     );
     expect(normalizeFileName('file .txt')).toMatchInlineSnapshot(`"file.txt"`);
     expect(normalizeFileName('as  df  .txt')).toMatchInlineSnapshot(
@@ -20,7 +20,7 @@ describe('fileNameNormalizer', () => {
       `"file.txt"`,
     );
     expect(normalizeFileName('1, file .txt')).toMatchInlineSnapshot(
-      `"file.txt"`,
+      `", file.txt"`,
     );
     expect(normalizeFileName(' file.txt ')).toMatchInlineSnapshot(`"file.txt"`);
   });
