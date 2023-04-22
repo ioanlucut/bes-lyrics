@@ -1,1 +1,1 @@
-* text=auto
+*.txt    eol=crlf diff=astextplain
