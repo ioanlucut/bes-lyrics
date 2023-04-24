@@ -2,7 +2,7 @@
 Tu mă auzi când strig
 
 [sequence]
-1,c,2,c,3,c,b
+1,c,2,c,3,c,b,c
 
 [1]
 Tu mă auzi când strig,
