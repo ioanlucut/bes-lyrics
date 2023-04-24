@@ -1,0 +1,37 @@
+[title]
+Da eu trebuie să ma rog
+[sequence]
+1,2
+[1]
+DA,
+EU! DA,
+EU! DA,
+EU,
+DOAMNE!
+EU TREBUIE SĂ MĂ ROG!
+Rugăciunea mamei mele nu este de-ajuns,
+Eu trebuie să mă rog!
+Rugăciunea tatălui meu nu este de-ajuns,
+Eu trebuie să mă rog!
+[2]
+DA,
+EU! DA,
+EU! DA,
+EU,
+DOAMNE!
+EU TREBUIE SĂ MĂ ROG!
+Rugăciunea sorei mele nu este de-ajuns,
+Eu trebuie să mă rog!
+Rugăciunea fratelui meu nu este de-ajuns,
+Eu trebuie să mă rog!
+[3]
+DA,
+EU! DA,
+EU! DA,
+EU,
+DOAMNE!
+EU TREBUIE SĂ MĂ ROG!
+Nu păstoru’, ’nvățătorul, ci chiar eu Doamne,
+Eu trebuie să mă rog!
+Nici vecinii, nici străinii, ci chiar eu Doamne,
+Eu trebuie să mă rog!

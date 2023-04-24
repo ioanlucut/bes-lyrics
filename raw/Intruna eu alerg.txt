@@ -2,7 +2,7 @@
 Întruna eu alerg
 
 [sequence]
-1,2,3,4,5
+1,c,b,c
 
 [1]
 Întruna eu alerg,
@@ -14,25 +14,11 @@ Ce Tu mi-ai pregătit,
 Mereu Tu mă ridici,
 Ești al meu Domn.
 
-[2]
+[c]
 MAI MARE E CEL CE-N MINE E VIU
 DECÂT DUHUL VEACULUI.
 
-[3]
-Întruna eu alerg,
-Cu tot ce am în min’,
-Chiar viața mea o dau
-Doar pentru Tine.
-Nimic nu-mi poate lua
-Ce Tu mi-ai pregătit,
-Mereu Tu mă ridici,
-Ești al meu Domn.
-
-[4]
-MAI MARE E CEL CE-N MINE E VIU
-DECÂT DUHUL VEACULUI.
-
-[5]
+[bridge]
 Cred! Pot să mut și munții,
 Pot să fac tot în Hristos
 Da, știu! Cred!

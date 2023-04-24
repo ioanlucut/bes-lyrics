@@ -2,7 +2,7 @@
 Lasa mila ta să cada
 
 [sequence]
-1,2,3,4,5,6
+1,p,c,1,p,c
 
 [1]
 Mărturisim acum că suntem slabi,
@@ -10,33 +10,14 @@ Așa de slabi, dar Tu ești Domn!
 Chiar dacă n-avem nimic să-Ți oferim,
 Venim și Îți spunem: ”Doamne-ajută-ne”.
 
-[2]
+[prechorus]
 O inimă care e zdrobită
 Nicicând n-o vei refuza
 Inima Ta bate plină de milă pentru noi
 Să curgă râul din Duhul Tău,
 Doamne Te rugăm.
 
-[3]
-LASĂ MILA TA SĂ CADĂ,
-SĂ CURGĂ MILA TA DIN CER,
-E NOUĂ ZI DE ZI
-O, LAS-O SĂ CADĂ PESTE NOI. (2x)
-
-[4]
-Mărturisim acum că suntem slabi,
-Așa de slabi, dar Tu ești Domn!
-Chiar dacă n-avem nimic să-Ți oferim,
-Venim și Îți spunem: ”Doamne-ajută-ne”.
-
-[5]
-O inimă care e zdrobită
-Nicicând n-o vei refuza
-Inima Ta bate plină de milă pentru noi
-Să curgă râul din Duhul Tău,
-Doamne Te rugăm.
-
-[6]
+[chorus]
 LASĂ MILA TA SĂ CADĂ,
 SĂ CURGĂ MILA TA DIN CER,
 E NOUĂ ZI DE ZI

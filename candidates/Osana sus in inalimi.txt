@@ -1,0 +1,19 @@
+[title]
+Osana sus în inalimi
+[sequence]
+1,2,3
+[1]
+Osana, osana,
+Osana sus în înălțimi. (2x)
+[2]
+DOAMNE NOI TE SLĂVIMȘI DIN INIMI CÂNTĂM,
+FII SLĂVIT DOMNUL MEU CEL BUN,
+OSANA SUS ÎN ÎNĂLȚIMI.
+[3]
+Glorie, glorie,
+Glorie Rege-al regilor. (2x)
+[4]
+TU EȘTI REGE ȘI DOMN,
+ÎN PUTERE DOMNEȘTI,
+SLAVA TA SE VA DESCOPERI,
+GLORIE REGE-AL REGILOR.

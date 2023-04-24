@@ -2,7 +2,7 @@
 Isus salvatorul
 
 [sequence]
-1,2,3,4,5,6
+1,p,c,2,p,c
 
 [1]
 Nu sunt în stare să-nțeleg,
@@ -16,14 +16,14 @@ Vreau inima să-I dăruiesc,
 Lui ISUS,
 Salvatorul
 
-[2]
+[prechorus]
 El Și-a lăsat al Său loc sfânt,
 Să vină aici jos pe pământ
 Răspunsu’i simplu l-am găsit,
 În ISUS,
 Salvatorul
 
-[3]
+[chorus]
 EȘTI DOMNUL MEU,
 TU M-AI SALVAT
 ȘI DE PĂCATE M-AI IERTAT
@@ -31,23 +31,8 @@ AI FOST ȘI EȘTI,
 VEI FI MEREU,
 ÎN VECI DE VECI EȘTI DUMNEZEU
 
-[4]
+[2]
 Trăind, murind, azi vreau să-ți spun,
 De Dumnezeul sfânt și bun
 Cel ce trăiește-n veșnicii,
 Muri să mă salveze
-
-[5]
-El Și-a lăsat al Său loc sfânt,
-Să vină aici jos pe pământ
-Răspunsu’i simplu l-am găsit,
-În ISUS,
-Salvatorul
-
-[6]
-EȘTI DOMNUL MEU,
-TU M-AI SALVAT
-ȘI DE PĂCATE M-AI IERTAT
-AI FOST ȘI EȘTI,
-VEI FI MEREU,
-ÎN VECI DE VECI EȘTI DUMNEZEU

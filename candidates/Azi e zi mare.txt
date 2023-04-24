@@ -1,0 +1,30 @@
+[title]
+Azi e zi mare
+[sequence]
+1,c,2,c
+[1]
+[chorus]
+/: Azi e zi mare
+Zi de sărbătoare
+Și fiecare e vesel, mulțumit :/
+[chorus]
+FRATILOR,
+SURORILOR,
+BINE,
+BINE,
+BINE AȚI VENIT LA NOIFRAȚILOR,
+SURORILOR,
+BINE,
+BINE,
+BINE AȚI VENIT
+[2]
+[chorus]
+/: Din alte sate mai îndepărtate
+Ca la un frate
+Cu drag noi am venit :/
+[3]
+[chorus]
+/: Masa e cântul
+Pâinea e Cuvântul
+Și Duhul Sfânt
+Ne dă tot ce noi dorim :/

@@ -1,0 +1,40 @@
+[title]
+In betleem
+[sequence]
+1,2
+[1]
+[chorus]
+/: În Betleem, da, în Betleem
+E o mare minune. :\
+HRISTOS,
+SE NAȘTE
+DOMNUL COBOARĂ
+ÎNGERII CÂNTĂ
+MAGII ÎL ADORĂ
+PĂSTORI ALEARGĂ
+IESLEA O-NCONJOARĂ
+MARI MINUNI SE ÎNTÂMPLARĂ
+[2]
+[chorus]
+/: Căci El a venit, căci El a venit
+Să mântuie tot omul. :\
+HRISTOS,
+SE NAȘTE
+DOMNUL COBOARĂ
+ÎNGERII CÂNTĂ
+MAGII ÎL ADORĂ
+PĂSTORI ALEARGĂ
+IESLEA O-NCONJOARĂ
+MARI MINUNI SE ÎNTÂMPLARĂ
+[3]
+[chorus]
+/: Toți să-I dăm loc, dar, toți să-I dăm loc
+În inimi să se nască. :\
+HRISTOS,
+SE NAȘTE
+DOMNUL COBOARĂ
+ÎNGERII CÂNTĂ
+MAGII ÎL ADORĂ
+PĂSTORI ALEARGĂ
+IESLEA O-NCONJOARĂ
+MARI MINUNI SE ÎNTÂMPLARĂ

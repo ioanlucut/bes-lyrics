@@ -1,0 +1,24 @@
+[title]
+Un cor ingeresc
+[sequence]
+1,c,2,c
+[1]
+[chorus]
+/: Un cor îngeresc Din cer se-aude chemând
+O, păcătos, vin’ la Isus,
+Vino, vino ! :/
+[chorus]
+[chorus]
+/: Hai, hai la El, nu mai sta!
+Azi Isus te cheamă
+Vino, vino! :/(Vino!)
+[2]
+[chorus]
+/: Murind sus pe Calvar,
+Isus și-a dat viața-n dar,
+De aceea, astazi te chemăm,
+Vino, vino! :/
+[3]
+[chorus]
+/: Străin tu dacă ești,
+De ce pribeag mai rătăcești?N-auzi chemarea lui Isus? Vino, vino! :/

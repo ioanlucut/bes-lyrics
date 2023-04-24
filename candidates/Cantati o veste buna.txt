@@ -1,0 +1,32 @@
+[title]
+Cântați o veste bună
+[sequence]
+1,c,2,c,3,c
+[1]
+Cântați o veste bună,
+Vestiți lumii întregi:
+Isus Hristos trăiește,
+Din morți a înviat!
+[chorus]
+ISUS E VIU,
+EL DINTRE MORȚI
+A ÎNVIAT
+ISUS E VIU,
+PE TRONUL PĂCII
+S-A ’NĂLȚAT
+[2]
+Cântați, vestiți menirea
+De Răscumpărător
+Isus Hristos trăiește,
+El e biruitor!
+[3]
+Fiți tari în mărturie
+Și bucurați-vă
+Căci toți acei ce cred în El,
+Vor fi răscumpărați.
+[4]
+ISUS E VIU,
+ADEVĂRAT A ÎNVIAT!
+ISUS E VIU,
+PE VECI
+EL NE-A RĂSCUMPĂRAT

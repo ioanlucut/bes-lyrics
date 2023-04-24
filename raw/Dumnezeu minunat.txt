@@ -10,7 +10,7 @@ Muntii îmi arata maiestatea Ta
 Bolta cerului se pleaca usor
 Toate cânta pentru Creator
 Planetele se misca la porunca Ta
- Pamântul linistit toarce-n axa să
+Pamântul linistit toarce-n axa să
 Galaxii ce fredoneaza toate-n cor:
 Vrednic este al nostru Creator.
 
@@ -22,33 +22,7 @@ ERAM UN VIS ÎN INIMA DUMNEZEU MINUNAT,
 TU ESTI STÂNCA PE CARE STAU,
 TU ESTI APA DIN CARE BEAU
 
-[3]
-Oceanele ascund ceva din taina Ta
-Muntii îmi arata maiestatea Ta
-Bolta cerului se pleaca usor
-Toate cânta pentru Creator
-Planetele se misca la porunca Ta
- Pamântul linistit toarce-n axa să
-Galaxii ce fredoneaza toate-n cor:
-Vrednic este al nostru Creator.
-
-[4]
-DUMNEZEU MINUNAT,
-ÎN PALMA TA AM FOST SAPATÎNAINTE SA VAD LUMEA MEA,
-ERAM UN VIS ÎN INIMA DUMNEZEU MINUNAT,
-ÎN PALMA TA AM FOST SAPAT
-TU ESTI STÂNCA PE CARE STAU,
-TU ESTI APA DIN CARE BEAU
-
-[5]
+[bridge]
 E un mister, e o minune Ce nu se poate explica
 Cu tot ce este Doamne-n mine
 Eu îti voi cânta
-
-[6]
-DUMNEZEU MINUNAT,
-ÎN PALMA TA AM FOST SAPATÎNAINTE SA VAD LUMEA MEA,
-ERAM UN VIS ÎN INIMA DUMNEZEU MINUNAT,
-ÎN PALMA TA AM FOST SAPAT
-TU ESTI STÂNCA PE CARE STAU,
-TU ESTI APA DIN CARE BEAU

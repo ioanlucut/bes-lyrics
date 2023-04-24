@@ -2,7 +2,7 @@
 Tu domnești între cei ce-Ți cântă slavă
 
 [sequence]
-1,2,3,4
+1,c
 
 [1]
 Tu domnești între cei ce-Ți cântă slavă,
@@ -10,19 +10,7 @@ Tu domnești între cei ce-Ți cântă slavă,
 Și toți îngerii din jur se unesc cu noi
 Și-Ți cântă-acum numelui Tău sfânt.
 
-[2]
-SFÂNT ȚI-E DOAMNE NUMELE,
-SFÂNT ȚI-E NUMELE!
-CER ȘI PĂMÂNT ÎȚI CÂNTĂ SLAVĂ,
-SFÂNT ȚI-E NUMELE! (2x)
-
-[3]
-Tu domnești între cei ce-Ți cântă slavă,
-În mărire și cinste-ncoronat,
-Și toți îngerii din jur se unesc cu noi
-Și-Ți cântă-acum numelui Tău sfânt.
-
-[4]
+[chorus]
 SFÂNT ȚI-E DOAMNE NUMELE,
 SFÂNT ȚI-E NUMELE!
 CER ȘI PĂMÂNT ÎȚI CÂNTĂ SLAVĂ,

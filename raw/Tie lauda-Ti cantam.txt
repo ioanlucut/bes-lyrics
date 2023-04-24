@@ -2,7 +2,7 @@
 Ție laudă-Ți cântăm
 
 [sequence]
-1,2,3,4,5,6
+1,c,b,c
 
 [1]
 Ție laudă-Ți cântăm,
@@ -11,7 +11,7 @@ Numele Tău înălțăm. (2x)
 În prezența tronului plin de slavă,
 În prezența Ta noi vrem să stăm.
 
-[2]
+[chorus]
 VENIM,
 MÂINILE RIDICĂM
 VENIM,
@@ -19,29 +19,6 @@ PE GENUNCHI NE PLECĂM
 VENIM, ȚIE SĂ NE-NCHINĂM,
 INIMA SĂ-ȚI DĂM.
 
-[3]
-Ție laudă-Ți cântăm,
-Pe Tine Te adorăm,
-Numele Tău înălțăm. (2x)
-În prezența tronului plin de slavă,
-În prezența Ta noi vrem să stăm.
-
-[4]
-VENIM,
-MÂINILE RIDICĂM
-VENIM,
-PE GENUNCHI NE PLECĂM
-VENIM, ȚIE SĂ NE-NCHINĂM,
-INIMA SĂ-ȚI DĂM.
-
-[5]
+[bridge]
 Inima și mintea mea
 Îți dăruiesc toată viața mea.
-
-[6]
-VENIM,
-MÂINILE RIDICĂM
-VENIM,
-PE GENUNCHI NE PLECĂM
-VENIM, ȚIE SĂ NE-NCHINĂM,
-INIMA SĂ-ȚI DĂM.

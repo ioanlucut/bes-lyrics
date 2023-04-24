@@ -23,5 +23,14 @@ describe('fileNameNormalizer', () => {
       `", file.txt"`,
     );
     expect(normalizeFileName(' file.txt ')).toMatchInlineSnapshot(`"file.txt"`);
+    expect(normalizeFileName(' file isus.txt ')).toMatchInlineSnapshot(
+      `"file Isus.txt"`,
+    );
+    expect(normalizeFileName(' file domnul.txt ')).toMatchInlineSnapshot(
+      `"file Domnul.txt"`,
+    );
+    expect(normalizeFileName(' file dumnezeu.txt ')).toMatchInlineSnapshot(
+      `"file Dumnezeu.txt"`,
+    );
   });
 });

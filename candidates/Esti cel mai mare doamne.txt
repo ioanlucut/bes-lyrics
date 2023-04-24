@@ -1,0 +1,40 @@
+[title]
+Ești cel mai mare doamne
+[sequence]
+1,c,2,c,3,c
+[1]
+[chorus]
+/: Ești cel mai mare, Doamne,
+Peste toate continentele
+Ești cel mai mare
+Peste toți dumnezeii! :/
+[chorus]
+[chorus]
+/: SĂ FI ÎNĂLȚAT,
+SĂ FI ÎNĂLȚAT,
+DOMN AL DRAGOSTEI,
+ÎMPĂRAT! :/
+[2]
+[chorus]
+/: NOI TE ÎNĂLȚĂM,
+NOI TE ÎNĂLȚĂM,
+NOI TE ÎNĂLȚĂM,
+DOAMNE! :/
+[3]
+Doamne,
+Tu ești Dumnezeu
+Și vei domni în veci
+Întreg pământul este plin de slava Ta,
+Mereu veghezi să-mplinești
+Cuvântul Tău cel sfânt
+Cu dragoste Tu ne conduci
+Pe-al vieții drum.
+[4]
+Doamne,
+Tu ești Dumnezeu
+Și vei domni în veci
+Întreg pământul este plin de slava Ta,
+Ești Creator desăvârșit,
+Dreptatea Ta vedem
+Cum se-mplinește zi de zi
+Tot ce-ai promis.

@@ -1,0 +1,28 @@
+[title]
+La tine doamne imi inalt sufletul
+[sequence]
+1,2,3
+[1]
+[chorus]
+/: La tine, Doamne, îmi înalț sufletul :/
+Domnul meu, mă-ncred în Tine,
+Să nu fiu dat de rușine,
+Cel rău să nu se bucure de mine.
+[2]
+[chorus]
+/: Învață-mă cărările Tale :/
+Domnul meu, mă-ncred în Tine,
+Să nu fiu dat de rușine,
+Cel rău să nu se bucure de mine.
+[3]
+[chorus]
+/: Nu-ți aminti greșelile mele :/
+Domnul meu, mă-ncred în Tine,
+Să nu fiu dat de rușine,
+Cel rău să nu se bucure de mine.
+[4]
+[chorus]
+/: Cei ce cred sunt prieteni cu Domnul :/
+Domnul meu, mă-ncred în Tine,
+Să nu fiu dat de rușine,
+Cel rău să nu se bucure de mine.

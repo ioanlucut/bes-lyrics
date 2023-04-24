@@ -2,7 +2,7 @@
 Tu ești rege
 
 [sequence]
-1,2,3,4,5,6
+1,c,1,c,b,c
 
 [1]
 Fără Tine, Doamne, sunt pierdut.
@@ -16,36 +16,14 @@ Harul îmi conduce inima
 Astăzi,
 Tată, în prezența Ta.
 
-[2]
+[chorus]
 TU EȘTI REGEPESTE INIMA MEA,
 TU EȘTI REGEPESTE SUFLETUL MEUTU ELTI REGEPESTE VIATA MEA,
 ISUS.
 
-[3]
-Fără Tine, Doamne, sunt pierdut.
-Fără Tine-aș fi murit demult.
-Sunt al Tău, doar Ție-ți aparțin,
-Mântuit prin harul Tău divin.
-Jertfa Ta îmi este îndeajuns
-Să pot sta în fața Ta,
-Isus.
-Harul îmi conduce inima
-Astăzi,
-Tată, în prezența Ta.
-
-[4]
-TU EȘTI REGEPESTE INIMA MEA,
-TU EȘTI REGEPESTE SUFLETUL MEUTU ELTI REGEPESTE VIATA MEA,
-ISUS.
-
-[5]
+[bridge]
 Fără Tine Eu sunt doar țărână,
 Fără Tine Viață nu am,
 Isus.
 Fără Tine Nu știu ce-i iubirea.
 Tu ești tot ce am.
-
-[6]
-TU EȘTI REGEPESTE INIMA MEA,
-TU EȘTI REGEPESTE SUFLETUL MEUTU ELTI REGEPESTE VIATA MEA,
-ISUS.

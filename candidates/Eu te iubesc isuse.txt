@@ -1,0 +1,31 @@
+[title]
+Eu te iubesc Isuse
+[sequence]
+1,2,3,4,5
+[1]
+[chorus]
+/: Eu te iubesc Isuse,
+Eu te iubesc Isuse,
+Eu te iubesc Isus din inimă :/
+[2]
+DIN INIMĂ,
+DIN INIMĂ,
+EU TE IUBESC ISUSE DRAGDIN INIMĂ. (2x)
+[3]
+[chorus]
+/: Îți mulțumesc Isuse,
+Îți mulțumesc Isuse,
+Îți mulțumesc Isus din inimă :/
+[4]
+DIN INIMĂ,
+DIN INIMĂ,
+ÎȚI MULȚUMESC ISUSE DRAGDIN INIMĂ. (2x)
+[5]
+[chorus]
+/: Te proslăvesc Isuse,
+Te proslăvesc Isuse,
+Te proslăvesc Isus din inimă :/
+[6]
+DIN INIMĂ,
+DIN INIMĂ,
+TE PROSLĂVESC ISUSE DRAGDIN INIMĂ. (2x)
