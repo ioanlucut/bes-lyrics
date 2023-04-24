@@ -1,3 +1,7 @@
+// ---
+// This is to be used sporadically for different use cases where we want to
+// adjust the content of the candidates slides.
+// ---
 import _ from 'lodash';
 import fs from 'fs';
 import path from 'path';
