@@ -1,27 +1,0 @@
-[title]
-Astăzi un cântec răsună
-[sequence]
-1,c,2,c
-[1]
-Astăzi un cântec răsună
-O, Duhule Prea Sfânt,
-Căci s-a născut ISUS
-În ieslea din Betleem.
-[chorus]
-AZI S-A NĂSCUT,
-O, VENIȚI!
-EL S-A NĂSCUT ÎN GRAJD,
-ÎN IESLEA DIN BETLEEM
-SOARELE - EMANUEL. (2x)
-[2]
-ISUS cerul a lăsat
-Și ca noi - trup a-mbrăcat.
-A venit jos să se nască,
-Lumea să o mântuiască.
-[3]
-Mi-e drag de Tine,
-ISUSE,
-Căci pentru noi ai venit.
-Toți să-I cântăm împreună:
-Mărire,
-Fii proslăvit!

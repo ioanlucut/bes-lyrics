@@ -1,17 +1,19 @@
 [title]
-Aleluia tu ești domn atotputernic
-[sequence]
-1
-[1]
-Aleluia,
-Aleluia
+Aleluia, Tu ești Domn atotputernic
+
+[sequence]
+1,c,1,c
+
+[1]
+Aleluia, Aleluia,
 Tu ești Domn atotputernic
 Și domnești în veci.
-/: Cu putere și în slavă
-Biruind mereu peste toate :/
-[2]
-EȘTI DUMNEZEU ACUM ȘI ÎN VEȘNICIE,
-ÎMPĂRĂȚIA TA NU VA TRECE NICICÂND,
-DOMNIA TA VA ȚINE O VEȘNICIE
-TU MINUNI FACI ÎN CERURI
-ȘI JOS PE PĂMÂNT.
+Cu putere și în slavă
+Biruind mereu peste toate.
+
+[chorus]
+Ești Dumnezeu acum și în veșnicie,
+Împărăția Ta nu va trece nicicând,
+Domnia Ta va ține o veșnicie,
+Tu minuni faci în ceruri
+Și jos pe pământ.

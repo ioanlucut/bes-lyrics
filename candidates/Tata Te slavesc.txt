@@ -1,20 +1,0 @@
-[title]
-Tată Te slăvesc
-[sequence]
-1,c,2,c
-[1]
-Tată Te slăvesc,
-Te ador și-Ți mulțumesc,
-Fii glorificat în veci de veci. (2x)
-[chorus]
-FII GLORIFICAT,
-FII GLORIFICAT,
-FII GLORIFICAT ÎN VECI DE VECI.
-[2]
-Isus Te slăvesc,
-Te ador și-Ți mulțumesc,
-Fii glorificat în veci de veci. (2x)
-[3]
-Duh Sfânt Te slăvesc,
-Te ador și-Ți mulțumesc,
-Fii glorificat în veci de veci. (2x)

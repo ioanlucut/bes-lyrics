@@ -1,22 +1,23 @@
 [title]
 Azi ma inchin
-[sequence]
-1,c
-[1]
-Doamne,
-Tu ești stânca în care
-mă ascund,
-Scutul meu, tăria care mă scapă
-Eu strig: ”Lăudat să fie Domnul meu”
+
+[sequence]
+1,c,2,c
+
+[1]
+Doamne, Tu ești stânca în care mă ascund,
+Scutul meu, tăria care mă scapă.
+Eu strig: ”Lăudat să fie Domnul meu!”
 Și sunt izbăvit de vrăjmașii mei.
-[chorus]
-ȘI AZI MĂ ÎNCHIN,
-LA TINE ÎMI ÎNALȚ SUFLETUL,
-TU CUNOȘTI INIMA MEA,
-DOAMNE ȚIE-ȚI APARȚIN.
-[2]
-În îndoiala mea
-Am chemat numele Tău cel Sfânt
+
+[chorus]
+/: Și azi mă închin,
+La Tine îmi înalț sufletul,
+Tu cunoști inima mea,
+Doamne, Ție-Ți Aparțin. :/
+
+[2]
+În îndoiala mea, am chemat numele Tău cel sfânt
 Și-am strigat către stânca mântuirii,
-De-acolo de sus Tu ai auzit glasul meu,
+De-acolo de sus, Tu ai auzit glasul meu,
 M-ai scos la loc larg pentru că mă iubești.

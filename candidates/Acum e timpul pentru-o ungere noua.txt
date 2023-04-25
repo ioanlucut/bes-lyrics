@@ -1,31 +1,34 @@
 [title]
-Acum e timpul pentru-o ungere nouă
-[sequence]
-1,c,2,c
-[1]
-Acum e timpul pentru-o ungere nouă.
-Acum e timpul pentru-o revărsare proaspătă.
-/: Ca și fii și fiice ale
-Regelui noi azi ne ridicăm :/
+Acum e timpul pentr-o ungere nouă
+
+[sequence]
+1,c,2,c,b,c
+
+[1]
+Acum e timpul pentr-o ungere nouă.
+Acum e timpul pentr-o revărsare proaspătă.
+Ca fii și fiice ale
+Regelui, noi azi ne ridicăm
 Declarăm...
-[chorus]
+
 [chorus]
-/: ACEASTA E :/ x3
-ZIUA DOMNULUI.
-/: MĂ VOI BUCURA :/ x3
-ESTE ZIUA TA.
-/: ACEASTA E :/ x3
-ZIUA DOMNULUI.
-[2]
+/: Aceasta e :/ (x3)
+Ziua Domnului.
+/: Mă voi bucura: :/ (x3)
+Este ziua Ta.
+/: Aceasta e :/ (x3)
+Ziua Domnului.
+
+[2]
 La început Domnul a creat
 Și pentru Slava Lui creația cântă-n cor.
-Fiecare fiu și fiică
+Fiecare fiu și fiică,
 Domnul ne ridică; fiți lumini.
-Fiecare fiu și fiica
+Fiecare fiu și fiică,
 Domnul ne ridică-n acest neam.
 Declarăm...
-[3]
-[chorus]
-/: Lasă Gloria Ta să curgă acum
-Și să umple-ntreg pământ :/
+
+[bridge]
+Lasă Gloria Ta să curgă acum
+Și să umple-ntreg pământ
 Declarăm...

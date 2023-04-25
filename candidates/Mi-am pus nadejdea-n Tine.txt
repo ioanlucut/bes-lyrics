@@ -1,30 +1,0 @@
-[title]
-Mi-am pus nădejdea-n tine
-[sequence]
-1,2,3,4
-[1]
-Mi-am pus nădejdea-n Tine,
-Mi-am pus nădejdea-n Tine
-Să nu fiu dat de rușine!
-[2]
-Mi-am pus nădejdea-n Tine,
-Mi-am pus nădejdea-n Tine,
-Vrăjmașii mei
-Să nu se bucure de mine!
-[3]
-[chorus]
-În Tine e nădejdea mea,
-În Tine e speranța mea!
-Doar prin Tine, izbăvire voi primi
-Cu Tine ne-ncetat voi birui,
-Domnul meu!
-[4]
-/: Tu ești stânca tare, :/
-Adăpost când îmi este greu.
-/: Tu ești stânca tare, :/
-Tu ești Dumnezeul meu!
-[5]
-/: Ești steag de biruință :/
-În lupta-nverșunată!
-/: Ești steag de biruință! :/
-Cu Tine lupta-i câștigată!

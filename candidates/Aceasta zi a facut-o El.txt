@@ -1,16 +1,19 @@
 [title]
 Această zi a făcut-o El
-[sequence]
-1
-[1]
-Această zi a făcut-o El
-Să ne bucurăm, să ne veselim
-Această zi a făcut-o El
-Să ne bucurăm, să ne veselim
-BUCURAȚI-VĂ ÎN DOMNUL (2x)
-[2]
-Sărbătorim prezența Domnului
-Merită să fie lăudat
-Sărbătorim prezența Domnului
-Merită să fie lăudat.
-BUCURAȚI-VĂ ÎN DOMNUL (2x)
+
+[sequence]
+1,2
+
+[1]
+Această zi a făcut-o El,
+Să ne bucurăm, să ne veselim!
+Această zi a făcut-o El,
+Să ne bucurăm, să ne veselim!
+/: Bucurați-vă în Domnul! :/ (2x)
+
+[2]
+Sărbătorim prezența Domnului,
+Merită să fie lăudat!
+Sărbătorim prezența Domnului,
+Merită să fie lăudat!
+/: Bucurați-vă în Domnul! :/ (2x)

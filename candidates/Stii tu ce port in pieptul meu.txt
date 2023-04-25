@@ -1,28 +1,0 @@
-[title]
-Știi tu ce port în pieptul meu
-[sequence]
-1,c,2,c,3,c
-[1]
-Știi tu ce port în pieptul meu?
-Pace, fericire.
-Mi-e șters păcatul cel mai greu
-Pace, fericire.
-[chorus]
-IZVOR DE PACE E DOMNULPACE,
-PACE,
-FERICIRETOT MAI SUS ÎMI IAU ZBORULCĂTRE DOMNUL MEU!
-[2]
-De-ngrijorare sunt scăpat
-Pace, fericire.
-La Domnul c-am să fiu chemat
-Pace, fericire.
-[3]
-Spre cer e drumul meu mereu
-Pace, fericire.
-S-ajung curând la Dumnezeu
-Pace, fericire.
-[4]
-Acolo se sfârșesc dureri
-Pace, fericire.
-Sunt nesfârșite mângâieri,
-Pace, fericire.

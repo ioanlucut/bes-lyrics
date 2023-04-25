@@ -1,19 +1,22 @@
 [title]
 Bateți din palme toate popoarele
-[sequence]
-1,c
-[1]
+
+[sequence]
+c,1,2
+
+[chorus]
 Bateți din palme toate popoarele
-Căci Dumnezeu e Împărat,
+Căci Dumnezeu e împărat.
 Pe-ntreg pământul El stăpânește
 Cu mare slavă e îmbrăcat.
-[chorus]
-[chorus]
-/: HAIDEȚI CU STRIGĂTE DE BUCURIE,
-PE DUMNEZEU SĂ-L ÎNTÂMPINĂM,
-CÂNTAȚI-I PSALMI ÎMPĂRATULUI NOSTRU,
-VENIȚI CU TOȚII SĂ-L LĂUDĂM :/
-[2]
+
+[1]
+Haideți, cu strigăte de bucurie,
+Pe Dumnezeu să-l întâmpinăm,
+Cântați-I psalmi împăratului nostru,
+Veniți cu toții să-L lăudăm.
+
+[2]
 El ne supune toate popoarele
 Și neamurile El ni le-a dat,
 Cântați din inimi cu bucurie

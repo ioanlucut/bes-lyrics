@@ -1,27 +1,0 @@
-[title]
-Domnul m-a găsit povara mi-a luat
-[sequence]
-1,c,2,c
-[1]
-Domnul m-a găsit, povara mi-a luat,
-Bucurii, speranță, pace El mi-a dat,
-Mi-a spălat din suflet tot păcatul greu
-Prin sângele vărsat pe cruce-n locul meu.
-[chorus]
-MÂNTUIT,
-PE DOMNUL PREAMĂRESC,
-MÂNTUIT,
-SPRE CER CĂLĂTORESC,
-MÂNTUIT,
-CU EL ÎN VECI VOI FI,
-EL M-A SALVAT ȘI MĂ PĂZEȘTE-N ORICE ZI.
-[2]
-Domnul m-a găsit, lumina Lui mi-a dat,
-Hainele ca neaua, albe le-a spălat,
-Nu mă amenință judecata grea
-Eu sunt preafericit cu Domnul pururea.
-[3]
-Domnul m-a găsit, odihna Lui mi-a dat,
-Când urmez pe Domnul sunt netulburat
-Și aștept întruna strălucita zi,
-Când Domnul cu mărire iarăși va veni.

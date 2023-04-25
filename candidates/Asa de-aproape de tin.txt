@@ -1,20 +1,29 @@
 [title]
-Asa de-aproape de tin’
-[sequence]
-1,c
-[1]
+Așa de-aproape de tin’
+
+[sequence]
+c,1,c,2,t
+
+[chorus 1]
+/: Așa de-aproape de tin’
+Simt cum Te bucuri sau suspini,
+Strâns legat sunt de inima Ta,
+Aproape de ea. :/
+
+[1]
 Mă gândesc mereu la vremea-n care
 Cu brațul Tău Tu m-ai ridicat.
-Planurile Tale-acuma-mi sunt clare
+Planurile Tale acuma-mi sunt clare
 Căci prin har viața mea ai schimbat.
-[chorus]
-[chorus]
-/: AȘA DE-APROAPE DE TIN’
-SIMT CUM TE BUCURI SAU SUSPINI
-STRÂNS LEGAT SUNT DE INIMA TA
-APROAPE DE EA :/
-[2]
+
+[2]
 Acum când inimile bat împreună
 Și iubirea Ta străpunge viața mea,
 Privesc prin ochii Tăi și văd mila Ta
 Căci sunt așa de-aproape de Tin’.
+
+[chorus 2]
+Așa de-aproape de tin’
+Simt cum Te bucuri sau suspini,
+Strâns legat sunt de inima Ta,
+/: Aproape de ea. :/

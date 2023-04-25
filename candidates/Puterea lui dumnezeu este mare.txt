@@ -1,24 +1,0 @@
-[title]
-Puterea lui Dumnezeu este mare
-[sequence]
-1,c,2,c
-[1]
-Totul se învechește, totul este trecător,
-Floarea se ofilește atât de ușor,
-Totul ce-i aici se va termina
-Iar Dumnezeu în veci va rămânea.
-[chorus]
-Puterea Lui Dumnezeu este mare,
-Cuvântul Domnului va dăinui!
-Totul din lume de-ar trece și dispare
-Dumnezeu în veci va domni.
-[2]
-Se duce avuția repede ca vântul,
-Se duce bogația ca gândul,
-Mai iute ca săgeata anii au zburat,
-Dar Dumnezeu rămane neschimbat,
-[3]
-Se duce avuția repede ca vântul,
-Se duce bogația ca gândul,
-Mai iute ca săgeata anii au zburat,
-Dar Dumnezeu rămâne neschimbat.

@@ -1,54 +1,0 @@
-[title]
-Azi cânt cu bucurie
-[sequence]
-1,c,2,c,3,c,4,c,5,c
-[1]
-Azi cânt cu bucurie,
-Dau slavă-n veșnicie
-Că Isus m-a salvat.
-Necazuri vin și pleacă, cu Isus toate-au să treacă,
-Cu Tatăl minunat.
-[chorus]
-EL M-A SALVAT,
-M-A BINECUVÂNTATCU VIAȚA MEA ÎL LAUD NE’NCETAT,
-MI-E TATĂ,
-MAMĂ,
-SORĂ,
-FRATE,
-SUNT BINECUVÂNTAT.
-[2]
-Cânt plin de mulțumire,
-Dau slavă-n veșnicie
-Că Isus a-nviat.
-Speranța-n El îmi este,
-Isus mă mântuiește,
-Pe veci El a-nviat.
-[3]
-Azi cânt cu bucurie,
-Dau slavă-n veșnicie
-Că Isus m-a sfințit.
-M-a spălat de păcate, mi-a dat haine curate,
-Mi-a dat din Duhul Sfânt.
-[4]
-Azi cânt cu bucurie,
-Dau slavă-n veșnicie
-Că Isus m-a iertat.
-Greșeli, păcate,
-Fapte mi le-a iertat pe toate,
-El totul mi-a iertat.
-[5]
-[9]
-Azi cânt cu bucurie,
-Dau slavă-n veșnicie
-Că Isus m-a primit.
-Nu sunt orfan pe lume Căci port al Său sfânt nume,
-De Tatăl sunt primit.
-[6]
-[10]
-EL M-A SALVAT,
-M-A BINECUVÂNTATCU VIAȚA MEA ÎL LAUD NE’NCETAT,
-MI-E TATĂ,
-MAMĂ,
-SORĂ,
-FRATE,
-SUNT BINECUVÂNTAT.

@@ -1,37 +1,35 @@
 [title]
 Adonai
-[sequence]
-1,c,2,c,3,c
-[1]
+
+[sequence]
+1,c,2,c,b,c
+
+[1]
 Doamne în veci vei fi,
-Misterul ce-l voi iubi
+Misterul ce-l voi iubi,
 Domn peste cer și pământ,
 Dumnezeu minunat.
 Vino-n lumina Ta,
-Îmbrăcat în onoarea Ta
-Strigă acum inima: Vino Rege din nou!
-Și toți azi vom vedea Din ceruri Gloria Ta.
-[chorus]
-ADONAI, ADONAI
-TOȚI GENUNCHII ASTĂZI SE VOR PLECA
-ADONAI, ADONAI
-DUMNEZEU DOAR TU EȘTI
-IAR NOI VOM STRIGA:
-ADONAI, ADONAI.
-[2]
-În Ierusalim stăm
-Laude-Ți înălțăm
+Îmbrăcat în onoarea Ta,
+Strigă acum inima: vino Rege din nou!
+Și toți azi vom vedea 
+Din ceruri Gloria Ta.
+
+[chorus]
+Adonai, Adonai,
+Toți genunchii astăzi se vor pleca.
+Adonai, Adonai,
+Dumnezeu doar Tu ești,
+Iar noi vom striga:
+Adonai, Adonai.
+
+[2]
+În Ierusalim stăm,
+Laude-Ți înălțăm,
 Porți deschise avem,
 Ne e dor să revii.
 Și tot Sionul cântă
 Baruch, Habach Beshem.
-[3]
-ADONAI, ADONAI
-TOȚI GENUNCHII ASTĂZI SE VOR PLECA
-ADONAI, ADONAI
-DUMNEZEU DOAR TU EȘTI
-IAR NOI VOM STIGA:
-ADONAI, ADONAI.
-[4]
-Tu ești Domn
-peste-ntreg pământ. (4x)
+
+[bridge]
+/: Tu ești Domn peste-ntreg pământ. :/ (4x)
