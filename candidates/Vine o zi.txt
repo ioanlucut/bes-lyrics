@@ -2,29 +2,42 @@
 Vine o zi
 
 [sequence]
-1,c,2,c,3,c
+1,2,c,3,4,c,5,c
 
 [1]
-Într-o zi va fi totul nou, Isus: rănile ce dor vei lega
-Toate trec doar Tu-n veci rămâi, Domnul meu
+Într-o zi va fi totul nou,
+Isus: rănile ce dor vei lega.
+Toate trec, doar Tu-n veci
+Rămâi, Domnul meu!
 
-Totul voi pricepe-ntr-o zi, Isus: orice îndoieli vor muri
-Toată teama o voi lăsa în urma mea
+[2]
+Totul voi pricepe-ntr-o zi,
+Isus: orice îndoieli vor muri.
+Toată teama o voi lăsa
+În urma mea.
 
 [chorus]
 Când în cer vom ajunge
 O, ce zi glorioasă-atunci va fi!
-Când vom fi cu Isus
+Când vom fi cu Isus,
 Fața Lui o vom privi.
 
-[2]
-Într-o zi Îl vom întâlni pe Isus, copleșiți de-al Său mare har
-Și într-o clipă vom fi schimbați: o, ce zi!
-
-Vine-o zi când liberi vom fi, Isus, când lupta noastră se va sfârși
-Gloria Ta atunci vom vedea: o ce zi!
-
 [3]
-Într-o zi Îl vom întâlni pe Isus, copleșiți de-al Său mare har
-Și într-o clipă vom fi schimbați: da, într-o clipă vom fi schimbați!
-Într-o clipă vom fi schimbați: o, ce zi!
+Într-o zi Îl vom întâlni pe Isus,
+Copleșiți de-al Său mare har
+Și într-o clipă vom fi schimbați:
+O, ce zi!
+
+[4]
+Vine-o zi când liberi vom fi.
+Isus, când lupta noastră se va sfârși.
+Gloria Ta atunci vom vedea:
+O ce zi!
+
+[5]
+Într-o zi Îl vom întâlni pe Isus,
+Copleșiți de-al Său mare har
+Și într-o clipă vom fi schimbați:
+Da, într-o clipă vom fi schimbați!
+Într-o clipă vom fi schimbați:
+O, ce zi!
