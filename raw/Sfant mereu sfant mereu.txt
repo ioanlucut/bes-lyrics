@@ -1,0 +1,41 @@
+[title]
+Sfânt mereu sfânt mereu
+
+[sequence]
+1,2,3,4,5,6
+
+[1]
+Sfânt mereu, sfânt mereu
+e tot ce vreau doar
+Sfânt mereu vreau să fiu,
+Sfânt mereu, sfânt mereu
+vreau să fiu Domnul meu.
+
+[2]
+IA-MI INIMA ȘI SCHIMB-O, VIAȚA MEA TRANSFORM-O, FIINȚA MEA-NNOIEȘTE-O
+/: FĂ-MĂ,
+DOAR FĂ-MĂ DOAR AL TĂU :/
+
+[3]
+Credincios, credincios
+e tot ce vreau doar
+Credincios vreau să fiu,
+Credincios, credincios
+vreau să fiu Domnul meu.
+
+[4]
+IA-MI INIMA ȘI SCHIMB-O, VIAȚA MEA TRANSFORM-O, FIINȚA MEA-NNOIEȘTE-O
+/: FĂ-MĂ,
+DOAR FĂ-MĂ DOAR AL TĂU :/
+
+[5]
+Neprihănit, neprihănit
+e tot ce vreau doar
+Neprihănit vreau să fiu,
+Neprihănit, neprihănit
+vreau să fiu Domnul meu.
+
+[6]
+IA-MI INIMA ȘI SCHIMB-O, VIAȚA MEA TRANSFORM-O, FIINȚA MEA-NNOIEȘTE-O
+/: FĂ-MĂ,
+DOAR FĂ-MĂ DOAR AL TĂU :/

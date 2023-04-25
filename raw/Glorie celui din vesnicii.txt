@@ -1,0 +1,33 @@
+[title]
+Glorie celui din vesnicii
+
+[sequence]
+1,2,3,4
+
+[1]
+Glorie celui din vesnicii
+Toată slava și marirea lui Dumnezeu
+Glorie e sarbatoare azi
+Îl adorăm căci este Domn să-L laudam
+
+[2]
+Laudati numele Lui pe Domnu-naltati
+Sa-L marim să-L salvim pe Domnul Isus
+Regelui regelui ne-nchinam
+Toata slava și marirea lui Dumnezeu
+Regelui regelui ne-nchinam
+Il adoram caci este Demn să-L laudam
+
+[3]
+Laudati numele Lui pe Domnul inaltati
+Sa-L marim să-L slavim pe Domnul Isus
+Glorie celui din vesnicii
+Toata slava și marirea lui Dumnezeu
+Glorie e sarbatoare azi
+Il adoram caci este Demn să-L laudam
+
+[4]
+Glorie celui din vesnicii
+Toată slava și marirea lui Dumnezeu
+Glorie e sarbatoare azi
+Îl adorăm căci este Domn să-L laudam

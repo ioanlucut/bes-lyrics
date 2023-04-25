@@ -1,0 +1,22 @@
+[title]
+Fiindca duhul domnului
+[sequence]
+1,2
+[1]
+[chorus]
+/: Fiindcă duhul Domnului este-n mine
+Eu cânt azi ca și David :/
+/: Eu cânt azi, eu cânt azi
+Eu cânt azi ca și David :/
+[2]
+[chorus]
+/: Fiindcă duhul Domnului este-n mine
+Mă rog azi ca și David :/
+/: Mă rog azi, mă rog azi,
+Mă rog azi ca și David :/
+[3]
+[chorus]
+/: Fiindcă duhul Domnului este-n mine
+Mă lupt azi ca și David :/
+/: Mă lupt azi, mă lupt azi,
+Mă lupt azi ca și David :/

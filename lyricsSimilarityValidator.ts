@@ -13,7 +13,7 @@ import { parseArgs } from 'node:util';
 
 dotenv.config();
 
-const THRESHOLD = 0.7;
+const THRESHOLD = 0.65;
 
 const readAllVerifiedFilesOnce = () =>
   fs.readdirSync(process.env.VERIFIED_DIR).map((fileName) => {

@@ -1,0 +1,32 @@
+[title]
+De ești trudit și ți-e grea povara
+
+[sequence]
+1,2,3,4,5,6
+
+[1]
+De ești trudit și ți-e grea povara
+Nu vrei chiar astăzi să te ridici?
+Iată, e clipa hotărâtoare:
+Trece Isus pe-aici
+
+[2]
+TRECE ISUS PE-AICITRECE ISUS PE-AICICHEAMĂ-L ȘI CERE-I ÎNDURARETRECE ISUS PE-AICI.
+
+[3]
+Vei refuza a Sa chemare
+Sau vei veni după Har să strigi?
+Iată că alții găsesc salvare
+Trece Isus pe-aici.
+
+[4]
+TRECE ISUS PE-AICITRECE ISUS PE-AICICHEAMĂ-L ȘI CERE-I ÎNDURARETRECE ISUS PE-AICI.
+
+[5]
+Ce vrei să-ți fac? Azi,
+Isus te-ntreabă..A auzit tristul tău oftat.
+Vino și spune-i ce te apasă
+Să fii eliberat.
+
+[6]
+TRECE ISUS PE-AICITRECE ISUS PE-AICICHEAMĂ-L ȘI CERE-I ÎNDURARETRECE ISUS PE-AICI.

@@ -1,0 +1,46 @@
+[title]
+Vreau să spună cel ce-i slab
+
+[sequence]
+1,2,3,4,5,6
+
+[1]
+Vreau să spună cel ce-i slab:
+”Eu sunt tare în Hristos”Cel sărac: ”Eu sunt bogat”,
+Cel bolnav: ”Sunt sănătos”.
+
+[2]
+OSANA,
+OSANA
+MIELULUI CE-A FOST JUNGHIAT,
+OSANA,
+OSANA
+CELUI MORT ȘI ÎNVIAT.
+
+[3]
+Tot ce-a fost rău și murdar
+Ai spălat prin al Tău har,
+Ca un râu iubirea Ta
+Umple azi inima mea.
+
+[4]
+OSANA,
+OSANA
+MIELULUI CE-A FOST JUNGHIAT,
+OSANA,
+OSANA
+CELUI MORT ȘI ÎNVIAT.
+
+[5]
+Știu că mă vei ridica
+Chiar de-aș fi-n adânc de văi,
+Bucuros Te voi slăvi
+Cântarea mea Te va mări.
+
+[6]
+OSANA,
+OSANA
+MIELULUI CE-A FOST JUNGHIAT,
+OSANA,
+OSANA
+CELUI MORT ȘI ÎNVIAT.

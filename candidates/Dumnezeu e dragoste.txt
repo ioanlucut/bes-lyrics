@@ -1,0 +1,28 @@
+[title]
+Dumnezeu e dragoste
+[sequence]
+1,2,3
+[1]
+[chorus]
+/: Dumnezeu e DRAGOSTE :/
+Dumnezeu Cel veșnic,
+Domnul vieții,
+Dumnezeu e Dragoste.
+[2]
+[chorus]
+/: Dumnezeu e ADEVĂR :/
+Dumnezeu Cel veșnic,
+Domnul vieții,
+Dumnezeu e Adevăr.
+[3]
+[chorus]
+/: Dumnezeu e LUMINA MEA :/
+Dumnezeu Cel veșnic,
+Domnul vieții,
+Dumnezeu e Lumina mea.
+[4]
+[chorus]
+/: Viață El mi-a dăruit :/
+Dumnezeu Cel veșnic,
+Domnul vieții,
+Viață El mi-a dăruit.

@@ -1,0 +1,20 @@
+[title]
+Cântă striga bate din palme
+[sequence]
+1
+[1]
+CÂNTĂ,
+STRIGĂ,
+BATE DIN PALME
+STĂPÂNULUI DĂ-I LAUDĂ,
+PLEACĂ-TE ’NAINTEA DOMNULUI,
+CÂNTĂ,
+STRIGĂ,
+BATE DIN PALME
+STĂPÂNULUI DĂ-I LAUDĂ,
+CĂCI EL E UN MARE DUMNEZEU. (2x)
+[2]
+Astăzi e zi de sărbătoare,
+E ziua când ne bucurăm
+Mărețul Rege ne-a eliberat,
+Să-I dăm laudă Numelui Său.

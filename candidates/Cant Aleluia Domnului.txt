@@ -1,0 +1,20 @@
+[title]
+Cânt Aleluia Domnului
+[sequence]
+1,2
+[1]
+Cânt Aleluia Domnului,
+Cânt Aleluia Domnului,
+/: Cânt Aleluia, cânt Aleluia,
+Cânt Aleluia Domnului :/
+[2]
+Slavă-I aducem lui Isus,
+Slavă-I aducem lui Isus,
+/: Slavă-I aducem, slavă-I aducem,
+Slavă-I aducem lui Isus :/
+[3]
+Isus domnește peste noi,
+Isus domnește peste noi,
+/: Isus domnește,
+Isus domnește,
+Isus domnește peste noi :/
