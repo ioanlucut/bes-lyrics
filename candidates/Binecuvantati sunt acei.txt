@@ -1,8 +1,10 @@
 [title]
 Binecuvantati sunt acei
-[sequence]
+
+[sequence]
 1,c
-[1]
+
+[1]
 [chorus]
 /: Binecuvântați sunt acei
 Care stau în Templul Său
@@ -10,13 +12,14 @@ Binecuvântați sunt acei
 Ce se încred în Domnul :/
 Vom simți puterea Sa
 Față-n față-L vom vedea.
-[chorus]
+
 [chorus]
 /: DIN ÎNALT ASCULTĂ-NE DOAMNE,
 CÂND NE RUGĂM,
 CÂND TE CĂUTĂM,
 NE ÎNCHINĂM :/
-[2]
+
+[2]
 [bridge]
 /: Doar Tu ești sfânt :/
 Numai Tu ești sfânt. (3x)

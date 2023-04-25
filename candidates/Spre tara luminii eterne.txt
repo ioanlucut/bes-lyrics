@@ -1,29 +1,34 @@
 [title]
 Spre țara luminii eterne
-[sequence]
+
+[sequence]
 1,c,2,c,3,c
-[1]
+
+[1]
 Spre țara luminii eterne
 Noi azi călătorim
 Pe drum suferință se-așterne
 Dar noi o biruim.
-[chorus]
+
 [chorus]
 /: Căci viața noastră-i plină
 De cel mai mare dar,
 Isuse, izvor de lumină
 Și scump mărgăritar. :/
-[2]
+
+[2]
 Iubirea Ta astăzi ne cheamă
 Din lumea de dureri
 Si-n drumul spre țara cea dragă
 Ne dă dulci mângâieri.
-[3]
+
+[3]
 Frumoasă, frumoasă e țara
 Ce Tu ne-ai pregătit
 Eternă va fi primăvara
 În cerul fericit.
-[4]
+
+[4]
 De aceea privirea se-ndreaptă
 Mai sus de zări mai sus
 De unde cu dor azi așteaptă

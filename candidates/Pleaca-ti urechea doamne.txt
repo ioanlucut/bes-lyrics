@@ -1,8 +1,10 @@
 [title]
 Pleaca-ți urechea doamne
-[sequence]
+
+[sequence]
 1,c
-[1]
+
+[1]
 PLEACA-TI
 URECHEA
 DOAMNE
@@ -33,7 +35,7 @@ CER
 SI
 DRAGOSTEA
 TA
-[chorus]
+
 [chorus]
 /: INIMA
 MEA,
@@ -54,7 +56,8 @@ LAUDANUMELE
 TAU
 E
 INALTAT :/
-[2]
+
+[2]
 S-AJUNGA
 RUGACIUNEA
 MEA

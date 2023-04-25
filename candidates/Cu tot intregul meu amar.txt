@@ -1,25 +1,29 @@
 [title]
 Cu tot întregul meu amar
-[sequence]
+
+[sequence]
 1,c,2,c
-[1]
+
+[1]
 Cu tot întregul meu amar,
 Cu multele-mi suspine,
 Cu plânsul fără de hotar,
 Isuse vin la Tine.
-[chorus]
+
 [chorus]
 /: PRIMEȘTE-MĂ CUM SUNT,
 CU MULTELE-MI GREȘALE
 ȘI SPALĂ-MĂ ISUSE SCUMP
 ÎN JERTFA MILEI TALE :/
-[2]
+
+[2]
 În fața Ta îngenunchiez
 Cu lacrime amare,
 Te rog,
 Isuse îndurat
 Să-mi dai și-acum iertare.
-[3]
+
+[3]
 Primește-mi toată viața mea
 Și-n slujba Ta mă ține
 Ca-n clipa când mă vei chema

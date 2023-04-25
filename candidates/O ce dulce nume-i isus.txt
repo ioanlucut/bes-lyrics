@@ -1,27 +1,32 @@
 [title]
 O ce dulce nume-i Isus
-[sequence]
+
+[sequence]
 1,c,2,c,3,c
-[1]
+
+[1]
 O, ce dulce nume-i Isus
 Rănile cum vindecă,
 Pace, bucurie-aduce
 Inimii credincioase.
-[chorus]
+
 [chorus]
 /: CE FRUMOS RĂSUNĂ,
 CÂND DESPRE EL SE CÂNTĂ :/
-[2]
+
+[2]
 Să mergem în numele Lui,
 El este bun adăpost,
 În Isus noi vom învinge
 Groaza păcatului nost’.
-[3]
+
+[3]
 Ce iubit nume e Isus,
 O, ce fericire dă
 Poporul Său cel mântuit
 Înaintea Lui cântă.
-[4]
+
+[4]
 Sus, în numele lui Isus
 De-a Lui mărire cântați,
 Pân-ajungem la cei sfinți sus,

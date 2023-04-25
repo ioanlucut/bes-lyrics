@@ -1,18 +1,21 @@
 [title]
 Leaga-ne doamne
-[sequence]
+
+[sequence]
 1,c
-[1]
+
+[1]
 Este-un singur Domn,
 Este-un singur Fiu,
 Este-un singur Duh
 De aceea-Ți cântăm.
-[chorus]
+
 [chorus]
 /: LEAGĂ-NE DOAMNE PE TOȚI ÎMPREUNĂCU LANȚURI CE NU POT FI RUPTE,
 LEAGĂ-NE DOAMNE PE TOȚI ÎMPREUNĂ,
 O, LEAGĂ-NE ÎN DRAGOSTE :/
-[2]
+
+[2]
 Suntem din Dumnezeu,
 Suntem ai Domnului,
 Suntem biruitori

@@ -1,13 +1,15 @@
 [title]
 Este-un loc unde sfinții cântă
-[sequence]
+
+[sequence]
 1,c
-[1]
+
+[1]
 Este-un loc, unde sfinții cântă
 Ce bucurie e să fii salvat
 Este-un loc, unde toate-s una
 Ești pe veci cu Tatăl împăcat.
-[chorus]
+
 [chorus]
 /: Ierusalim locaș ceresc
 Pe-ale tale porți de aur
@@ -15,7 +17,8 @@ Vine vremea să pășesc
 Voi vedea ce sus în ceruri
 Tatăl sfânt ne-a pregătit și ce-am dorit
 Ierusalime mult iubit. :/
-[2]
+
+[2]
 Este-un loc unde plin de Slavă
 În măreața Glorie totu-i îmbrăcat
 Este-un loc unde stai cu Domnul
