@@ -15,7 +15,7 @@ Să fiu al Lui cu totul dăruit.
 Și câte, Doamne, nu Ți-am spus
 Și câte nu Ți-am promis?
 
-[chorus]
+[chorus 1]
 Dar ce voi spune când pe nori
 Tu vei veni în slavă învelit?
 Am fost un laș și am fugit?
