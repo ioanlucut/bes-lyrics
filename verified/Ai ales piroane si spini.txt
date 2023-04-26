@@ -2,7 +2,7 @@
 Ai ales piroane și spini
 
 [sequence]
-1,c,2,b,
+1,c,2,b,w
 
 [1]
 Judecata suverană s-a-ntâlnit
@@ -28,6 +28,6 @@ Decât să trăiești fără mine,
 Ai ales să mori pentru mine,
 Dar a treia zi, ai înviat, ai înviat, ai înviat.
 
-[c]
+[bridge 2]
 Hai, alege chiar acum cerul Său minunat
 Da, alege chiar acum cerul Său minunat.
