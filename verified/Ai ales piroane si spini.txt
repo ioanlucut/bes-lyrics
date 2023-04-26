@@ -22,7 +22,7 @@ Păcatului și celui rău, sau să primești
 Pe Isus și viața veșnică în dar
 Dragostea Lui Dumnezeu fără hotar.
 
-[bridge]
+[bridge 1]
 Decât să trăiești fără mine,
 În cerul Tău minunat,
 Ai ales să mori pentru mine,
