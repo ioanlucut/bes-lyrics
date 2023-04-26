@@ -10,7 +10,7 @@ Domn peste toate!
 Prin Duhul Sfânt dă viață,
 Pe Fiul ni L-a dat, Isus Salvatorul!
 
-[chorus]
+[chorus 1]
 Cred în Dumnezeu ca Tată,
 În Isus Hristos ca Fiu,
 Cred în Duhul ce dă viață,
