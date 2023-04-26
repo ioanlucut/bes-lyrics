@@ -5,7 +5,7 @@ Arcuri încordate fi-vor îndreptate
 1,c,2,c,3,c
 
 [1]
-Arcuri încordate fi-vor îndreptate
+Arcuri încordate fi-vor îndreptate,
 Vârfuri ascuțite, nu mă tem.
 Piedici, bariere, nu, nu au putere
 Când pe Domnul Isus eu Îl chem.
@@ -18,7 +18,7 @@ Căci El e același Dumnezeu. :/
 
 [2]
 Piedici pe cărare știu c-o să apară,
-Dar de Domnul Isus nu mă las
+Dar de Domnul Isus nu mă las.
 El îmi dă putere, har și mângâiere
 Și mă întărește pas cu pas.
 
