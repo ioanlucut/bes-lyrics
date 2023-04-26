@@ -2,7 +2,7 @@
 Ai ales piroane și spini
 
 [sequence]
-1,c,2,3,4
+1,c,2,b,
 
 [1]
 Judecata suverană s-a-ntâlnit
@@ -13,21 +13,21 @@ Să pot alege al meu destin pentru etern.
 [chorus]
 /: Ai ales piroane și spini,
 Să mori pe cruce în durere și chin,
-Să pot alege și eu acum, între cer și iad. :/
+Să pot alege și eu acum
+Între cer și iad. :/
 
 [2]
-Omule ești liber cui vrei să-i slujești
+Omule, ești liber cui vrei să-i slujești,
 Păcatului și celui rău, sau să primești
 Pe Isus și viața veșnică în dar
 Dragostea Lui Dumnezeu fără hotar.
 
-[3]
+[bridge]
 Decât să trăiești fără mine,
 În cerul Tău minunat,
 Ai ales să mori pentru mine,
-Dar a treia zi, ai înviat,
-Ai înviat, ai înviat.
+Dar a treia zi, ai înviat, ai înviat, ai înviat.
 
-[4]
-Hai alege chiar acum cerul Său minunat
+[c]
+Hai, alege chiar acum cerul Său minunat
 Da, alege chiar acum cerul Său minunat.
