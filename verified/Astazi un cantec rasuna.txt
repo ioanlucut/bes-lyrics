@@ -11,10 +11,10 @@ Căci S-a născut Mesia
 În ieslea din Betleem.
 
 [chorus]
-Azi s-a născut, a venit!
+/: Azi s-a născut, a venit!
 El s-a născut în grajd.
 În ieslea din Betleem,
-Soarele Emanuel!
+Soarele Emanuel! :/
 
 [2]
 Isus cerul a lăsat
@@ -26,4 +26,4 @@ Lumea să o mântuiască.
 Ni-e drag de tine, Isuse,
 Căci pentru noi ai venit.
 Ca să-Ți cântăm împreună:
-Mărire, fii proslăvit!”
+Mărire, fii proslăvit!
