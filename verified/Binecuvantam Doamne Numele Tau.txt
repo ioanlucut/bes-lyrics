@@ -2,7 +2,7 @@
 Binecuvântăm, Doamne, Numele Tău
 
 [sequence]
-1,c,1,c
+1,c,1,c,c
 
 [1]
 Binecuvântăm, Doamne, Numele Tău,
@@ -12,7 +12,6 @@ Vrem să ne-nchinăm ’naintea Ta.
 
 [chorus]
 A Ta este slava, puterea, măreția,
-Înțelepciunea și gloria-i a Ta;
-Tu domnești în ceruri,
-Ești împăratul nostru.
+Înțelepciunea și gloria-i a Ta,
+Tu domnești în ceruri, ești împăratul nostru,
 De aceea, Doamne, Te lăudăm!
