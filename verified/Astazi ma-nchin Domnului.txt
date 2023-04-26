@@ -5,12 +5,12 @@ Astăzi mă-nchin Domnului
 c,1,c,2,c
 
 [chorus]
-Astăzi mă-nchin Domnului
+/: Astăzi mă-nchin Domnului
 Și-I cânt slavă, căci El,
 Mult bine mi-a făcut.
 Când eram în strâmtorare
 Către El eu am strigat
-Și El mâna și-a întins și m-a salvat.
+Și El mâna și-a întins și m-a salvat. :/
 
 [1]
 Mi-amintesc de ziua-n care
