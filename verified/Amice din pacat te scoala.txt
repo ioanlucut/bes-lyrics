@@ -1,5 +1,5 @@
 [title]
-Amice din păcat te scoală
+Amice, din păcat te scoală
 
 [sequence]
 1,c,2,c,3,c,4,c
@@ -11,15 +11,16 @@ La inima ta bate-ntruna,
 Căci te iubește mult, nespus.
 
 [chorus]
-Să nu-L respingi.
+/: Să nu-L respingi.
 El te iubește neîncetat.
-Ci să-I deschizi inima ta ne-ntârziat!
+Ci să-I deschizi
+Inima ta ne-ntârziat! :/
 
 [2]
 Ce veșnică iubire are
 De tine bunul Salvator,
 Căci pentru-ale tale mari păcate
-Muri sfântul Mântuitor.
+Muri Sfântul Mântuitor.
 
 [3]
 Din trupul Lui a curs mult sânge,
