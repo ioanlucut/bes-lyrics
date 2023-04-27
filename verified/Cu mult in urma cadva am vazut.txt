@@ -13,9 +13,9 @@ E și pomul vieții, acolo mereu.
 Acolo curge lin, e râul sfânt
 De sub tronul Său, viață aducând.
 Vreau să ajung în acel loc slăvit,
-În cetatea de dus.
+În cetatea de sus.
 
-[chorus]
+[chorus 1]
 Ierusalim, vreau să pășesc pe străzile tale
 Și vreau să privesc ale tale splendori!
 Ierusalim, să mă odihnesc lângă apa vieții,
@@ -26,12 +26,13 @@ Acolo leul stă chiar lângă miel,
 Era armonie în orice fel.
 Văzu lumina, iar acol’ noapte nu-i,
 Hristos slăvit e, e lumina Lui.
+
 Iar sfinții ce Îi dau laudă neîncetat:
-„El este vrednic, vrednic Împărat”
+„El este vrednic, vrednic Împărat!”
 Vreau să ajung în cerul slăvit,
 În cetatea de sus.
 
-[bridge]
+[bridge 1]
 Ierusalim, Ierusalim, toți Domnului cântați!
 Osana, glorie, slavă, osana
 De-acum și-n veci de veci!
