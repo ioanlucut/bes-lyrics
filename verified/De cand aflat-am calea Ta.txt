@@ -2,7 +2,7 @@
 De când aflat-am calea Ta
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c
+1,2,3,4,5,6
 
 [1]
 De când aflat-am calea Ta,
@@ -10,31 +10,31 @@ Mereu, mereu Te văd
 /: Pe crucea de pe Golgota
 Și dragostea vreau să-Ți arăt. :/
 
-[chorus]
+[2]
 Ești veșnic viu, ești veșnic sfânt,
 Cu Tine-am făcut legământ.
 /: Ajuta-mă la crucea grea,
 Să urc la Golgota cu ea. :/
 
-[2]
+[3]
 De-atâtea ori pe cale sunt
 Ispite și-ncercări,
-/: Dar cum să m-abat din ea,
+/: Dar cum să m-abat din ea
 Căci drum mai bun nu-i nicăieri. :/
 
-[3]
+[4]
 Când vin ispite și-ncercări,
 Atât de-aproape vii
 /: Și prin ale Tale dulci chemări,
 Ne scoți dintre morți între vii. :/
 
-[4]
+[5]
 Dar când odată va scădea
 Puterea, crucea-i grea,
-/: Te rog să-mi întinzi mâna Ta,
+/: Te rog, să-mi întinzi mâna Ta,
 Căci Tu biruit-ai lumea. :/
 
-[5]
+[6]
 Acum, Isuse-Ți mulțumesc,
 Căci Tu mă luminezi
 /: Și mi-ai dat Duhul Tău cel Sfânt
