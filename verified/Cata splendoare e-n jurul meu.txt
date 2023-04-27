@@ -2,15 +2,15 @@
 Câtă splendoare e-n jurul meu
 
 [sequence]
-1,p,c,2,p,c,b,c
+1,b,c,2,b,c,e
 
 [1]
 Câtă splendoare e-n jurul meu
 Când, Dumnezeu, Tu ești cu mine.
-În încercare uit de greu
+În încercare uit de greu,
 Când, Domnul meu, Tu ești cu mine.
 
-[prechorus]
+[bridge]
 Daca nu ne ești alături, nu ne lăsa să mergem singuri.
 
 [chorus]
@@ -27,5 +27,5 @@ Sub aripa-Ți tare de ne ascunzi,
 Vrem să-Ți auzim glasul, Păstor iubit,
 Să nu ne-ndepărtăm de Tine!
 
-[bridge]
-/:Vino cu noi!:/ (x7)
+[ending]
+/:Vino cu noi!:/ (7x)
