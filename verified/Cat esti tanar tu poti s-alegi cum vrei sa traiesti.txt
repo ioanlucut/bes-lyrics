@@ -10,7 +10,7 @@ Pasul vieții să îl îndrepți înspre ce iubești.
 Poți necazul din inima ta să îl izgonești,
 Doar bucurie poți căuta și tot ce-ți dorești.
 
-[chorus]
+[chorus 1]
 /: Bucură-te, tinere, în tinerețea ta,
 Umblă în căile-alese de inima ta
 Și plăcute ochilor tăi, dar nu uita
