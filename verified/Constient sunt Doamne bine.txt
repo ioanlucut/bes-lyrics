@@ -1,11 +1,11 @@
 [title]
-Conștient sunt Doamne, bine
+Conștient sunt, Doamne, bine
 
 [sequence]
 1,c,2,c
 
 [1]
-Conștient sunt Doamne, bine,
+Conștient sunt, Doamne, bine,
 Dacă n-ai fi lângă mine
 Totu-n jurul meu s-ar nărui.
 Soarele pe cer s-ar stinge,
