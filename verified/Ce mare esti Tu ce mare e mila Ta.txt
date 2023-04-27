@@ -2,14 +2,13 @@
 Ce mare ești Tu, ce mare e mila Ta
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Ce mare ești Tu, ce mare e mila Ta,
 Ce mare e tot ce faci Tu pentru mine.
-Ce mare ești Tu și bunătatea Ta
-Mă umple atunci când Îți cânt,
-Ce mare ești Tu!
+Ce mare ești Tu, și bunătatea Ta
+Mă umple atunci când Îți cânt, ce mare ești Tu!
 
 [chorus]
 /: Căci dragostea Ta
