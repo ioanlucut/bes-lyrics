@@ -1,5 +1,5 @@
 [title]
-Da, eu! Da, eu! Da, eu, Doamne,
+Da, eu! Da, eu! Da, eu, Doamne
 
 [sequence]
 c,1,c,2,c,3,c
@@ -27,7 +27,7 @@ Eu trebuie să mă rog.
 [3]
 Nici păstoru, ’nvățătorul,
 Ci chiar eu, Doamne,
-Eu trebuie să mă rog
+Eu trebuie să mă rog.
 Nici vecinii, nici străinii,
 Ci chiar eu, Doamne,
 Eu trebuie să mă rog.
