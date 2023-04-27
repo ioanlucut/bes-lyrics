@@ -2,17 +2,18 @@
 Când pe marea vieții eu
 
 [sequence]
-1,2,3,4
+1,c,2,t,3,4,e
 
 [1]
 Când pe marea vieții eu,
-Trecut-am grele încercări
+Trecut-am grele încercări.
 Când necazul s-a ivit,
 Domnul, El m-a smerit mai mult.
 
+[chorus 1]
 /: În singurătatea grea,
 Plângea inima mea de dor
-După harul Domnului
+După harul Domnului,
 Să-mi vină în ajutor (mereu).:/
 
 [2]
@@ -21,6 +22,7 @@ Malul eu l-am dorit mereu.
 Dar furtuna s-a ivit,
 Domnul, El m-a smerit mai mult.
 
+[chorus 2]
 /: Când aproape-am fost de mal,
 A mai venit un val din larg
 Ce m-a dus în depărtări
@@ -28,21 +30,23 @@ Prin alte încercări (mai mari). :/
 
 [3]
 Dar în tot necazul meu,
-Domnul m-a ocrotit mereu
+Domnul m-a ocrotit mereu.
 El m-a scos cu mâna Sa
-Din încercarea grea, chiar El
+Din încercarea grea, chiar El.
 
+[chorus 3]
 /: Brațul Său mântuitor
 M-a ridicat din valul greu.
 Sufletul El l-a salvat
-Din marea de păcat (chiar El) :/
+Din marea de păcat (chiar El). :/
 
 [4]
 Înspre Domnul am strigat,
 Din val m-a ridicat chiar El.
 Valul mării furios,
-Domnul l-a liniștit pe loc;
+Domnul l-a liniștit pe loc.
 
+[ending]
 Câte zile voi avea
 În toate-L voi lăuda pe El.
 El m-a scos cu mâna Sa
