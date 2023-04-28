@@ -15,7 +15,7 @@ De-un foc erau cuprinși.
 Și din ochi izvor de lacrimi
 Brăzdau fețele lor. :/
 
-[chorus 1]
+[chorus]
 /: Dar noi unde ne găsim?
 Credința cum ne-o trăim?
 Nu cumva avem doar forma
