@@ -2,7 +2,7 @@
 De când noi am venit
 
 [sequence]
-1,b,c,2,b,c
+1,p,c,2,p,c
 
 [1]
 De când noi am venit în lumea aceasta
@@ -10,7 +10,7 @@ Atâtea ploi și vânturi, Doamne, au bătut,
 Dar Tu în toate ne-ai purtat de grijă,
 Ne-ai ridicat cu milă atunci când am căzut.
 
-[bridge]
+[prechorus]
 Și-acum venim să-Ți mulțumim, Isuse,
 Acum venim să-ngenunchem cântând.
 

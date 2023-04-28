@@ -2,7 +2,7 @@
 Te-am văzut pe calvar
 
 [sequence]
-1,c,2,c,b
+1,c,2,c,b,c
 
 [1]
 Te-am văzut pe Calvar

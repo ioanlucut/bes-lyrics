@@ -2,7 +2,7 @@
 Ceru-ntreg a plâns, soarele-a apus
 
 [sequence]
-1,p,c,p,c,b
+1,p,c,p,c,b,c
 
 [1]
 Ceru-ntreg a plâns, soarele-a apus

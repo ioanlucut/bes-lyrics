@@ -25,7 +25,7 @@ Al meu Împărat, vrednic să fii lăudat!
 [bridge]
 /: Ești Regele meu! :/
 /: Azi mă predau și Ție-ți dau
-Tot ce sunt eu, Regele meu! :/ (x3)
+Tot ce sunt eu, Regele meu! :/ (3x)
 
 [ending]
 /: Ești Regele meu, Tu, Domnul meu! :/

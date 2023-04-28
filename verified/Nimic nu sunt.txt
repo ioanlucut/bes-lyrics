@@ -2,7 +2,7 @@
 Nimic nu sunt
 
 [sequence]
-1,c,2,t,3,b
+1,c,2,t,3,b,c
 
 [1]
 Nimic nu sunt, un strop de tină

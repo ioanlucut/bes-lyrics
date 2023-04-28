@@ -2,7 +2,7 @@
 Când El vorbește, pământul se clatină
 
 [sequence]
-1,c,2,c,b
+1,c,2,c,b,c
 
 [1]
 Când El vorbește, pământul se clatină,
@@ -17,7 +17,7 @@ Coboară Duh Sfânt și foc, când El vorbește!
 
 [chorus]
 El e Isus,
-/: Cel mai frumos 
+/: Cel mai frumos
 Și cel mai minunat! :/
 
 [2]
@@ -30,5 +30,5 @@ Noi Îi cântăm, Îl lăudăm,
 Îl preamărim pe-al nostru Împărat!
 
 [bridge]
-/: Cel mai frumos 
+/: Cel mai frumos
 Și cel mai minunat! :/ (4x)

@@ -2,7 +2,7 @@
 Biruitor în pustie
 
 [sequence]
-1,2,3,4,5,c,6,7,c,b
+1,2,3,4,5,c,6,7,c,b,c
 
 [1]
 Sunt în pustiu, cel rău se-arată,

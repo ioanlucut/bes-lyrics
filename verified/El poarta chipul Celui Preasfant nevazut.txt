@@ -2,7 +2,7 @@
 El poartă chipul Celui Preasfânt nevăzut
 
 [sequence]
-1,c,2,c,b
+1,c,2,c,b,c
 
 [1]
 El poartă chipul Celui Preasfânt, nevăzut

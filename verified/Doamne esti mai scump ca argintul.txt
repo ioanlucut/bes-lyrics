@@ -2,7 +2,7 @@
 Doamne, ești mai scump ca argintul
 
 [sequence]
-c,b,c,b
+c,b,c,b,c
 
 [chorus]
 /: Doamne, ești mai scump ca argintul,

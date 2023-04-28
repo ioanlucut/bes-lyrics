@@ -2,7 +2,7 @@
 Domnul fie cu tine
 
 [sequence]
-1,c,2,c,3,c,4,c,b
+1,c,2,c,3,c,4,c,b,c
 
 [1]
 /: Domnul fie cu tine,

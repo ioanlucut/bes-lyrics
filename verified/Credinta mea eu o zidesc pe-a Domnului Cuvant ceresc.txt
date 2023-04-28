@@ -2,7 +2,7 @@
 Credința mea eu o zidesc pe-a Domnului Cuvânt ceresc
 
 [sequence]
-1,c,2,c,3,c,4,t,b
+1,c,2,c,3,c,4,t,b,c
 
 [1]
 Credința mea eu o zidesc

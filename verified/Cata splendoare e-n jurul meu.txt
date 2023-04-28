@@ -2,7 +2,7 @@
 Câtă splendoare e-n jurul meu
 
 [sequence]
-1,b,c,2,b,c,e
+1,p,c,2,p,c,e
 
 [1]
 Câtă splendoare e-n jurul meu
@@ -10,7 +10,7 @@ Când, Dumnezeu, Tu ești cu mine.
 În încercare uit de greu,
 Când, Domnul meu, Tu ești cu mine.
 
-[bridge]
+[prechorus]
 Daca nu ne ești alături, nu ne lăsa să mergem singuri.
 
 [chorus]

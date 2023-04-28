@@ -2,7 +2,7 @@
 Domnul în ceruri domnește
 
 [sequence]
-1,b,c,1,b,c
+1,p,c,1,p,c
 
 [1]
 Domnul în ceruri domnește,
@@ -10,7 +10,7 @@ Pe tron e așezat,
 Plin de mărire și-n slavă
 E îmbrăcat.
 
-[bridge]
+[prechorus]
 Noi toți, cu sfinte podoabe,
 Stăm în prezența Sa
 Și-n timp ce Îi vom cânta

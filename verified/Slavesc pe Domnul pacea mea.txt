@@ -2,7 +2,7 @@
 Slăvesc pe Domnul, pacea mea
 
 [sequence]
-1,c,2,c,3,c,4,c,b
+1,c,2,c,3,c,4,c,b,c
 
 [1]
 Slăvesc pe Domnul, pacea mea,

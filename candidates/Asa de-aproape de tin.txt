@@ -4,7 +4,7 @@ Așa de-aproape de tin’
 [sequence]
 c,1,c,2,t
 
-[chorus 1]
+[chorus]
 /: Așa de-aproape de tin’
 Simt cum Te bucuri sau suspini,
 Strâns legat sunt de inima Ta,

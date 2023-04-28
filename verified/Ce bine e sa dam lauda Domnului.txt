@@ -2,7 +2,7 @@
 Ce bine e să dăm laudă Domnului
 
 [sequence]
-1,c,b
+1,c,b,c
 
 [1]
 Ce bine e să dăm laudă Domnului,
