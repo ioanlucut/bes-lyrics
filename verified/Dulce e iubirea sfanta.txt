@@ -10,7 +10,7 @@ Dulce e iubirea sfântă
 Viața tot mereu ne-ncântă,
 Când cu Domnul biruim.
 
-[chorus]
+[chorus 1]
 /: Pot să se sfărâme munții,
 În adâncul mărilor,
 De nimica nu ne temem
