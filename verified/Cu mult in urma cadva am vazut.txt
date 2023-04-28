@@ -15,7 +15,7 @@ De sub tronul Său, viață aducând.
 Vreau să ajung în acel loc slăvit,
 În cetatea de sus.
 
-[chorus 1]
+[chorus]
 Ierusalim, vreau să pășesc pe străzile tale
 Și vreau să privesc ale tale splendori!
 Ierusalim, să mă odihnesc lângă apa vieții,
@@ -32,7 +32,7 @@ Iar sfinții ce Îi dau laudă neîncetat:
 Vreau să ajung în cerul slăvit,
 În cetatea de sus.
 
-[bridge 1]
+[bridge]
 Ierusalim, Ierusalim, toți Domnului cântați!
 Osana, glorie, slavă, osana
 De-acum și-n veci de veci!
