@@ -5,9 +5,9 @@ Ești Domnul meu, mai sus de cer înălțat
 1,c,2,c,b,c,e
 
 [1]
-Ești Domnul meu, mai sus de cer înălțat;
-Ești sfânt și drept, vrednic să fii lăudat;
-Ești Domnul meu, calea Tu mi-ai arătat;
+Ești Domnul meu, mai sus de cer înălțat,
+Ești sfânt și drept, vrednic să fii lăudat.
+Ești Domnul meu, calea Tu mi-ai arătat,
 Ești neschimbat, vrednic să fii lăudat!
 
 [chorus]
@@ -17,8 +17,8 @@ Cu vocea mea Îți cânt mereu:
 Doar Tu ești Domnul meu! :/
 
 [2]
-Rege etern, cer și pământ Te slăvesc;
-Ești Dumnezeu, viața prin Tine-o primesc
+Rege etern, cer și pământ Te slăvesc,
+Ești Dumnezeu, viața prin Tine-o primesc.
 Ești Creator, în tot ce faci minunat,
 Al meu Împărat, vrednic să fii lăudat!
 
