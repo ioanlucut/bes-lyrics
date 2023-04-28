@@ -10,7 +10,7 @@ Eu lipsă n-am să duc.
 Din verzi pășuni și din ape vii,
 Eu sufletu-mi adăp.
 
-[chorus 1]
+[chorus]
 /: Povață-mi dă pe cărarea grea,
 În lume port al Tău Nume sfânt,
 Chiar și prin moarte eu trec ușor
