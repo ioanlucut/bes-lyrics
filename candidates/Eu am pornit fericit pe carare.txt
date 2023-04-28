@@ -1,16 +1,20 @@
 [title]
 Eu am pornit fericit pe cărare
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Eu am pornit fericit pe cărare
 Cu Isus, bunul meu Salvator.
 Deși spinos deseori drumul pare,
 Eu mă prind de Isus stăruitor.
-[chorus]
+
+[chorus]
 BRAȚUL SĂU IUBITOR MĂ CONDUCEZI DE ZI PRIN ÎNCERCĂRI DE ORICE FEL,
 HARUL SĂU MINUNAT MĂ VA DUCEPRIN CREDINȚĂ S-AJUNG EU SUS ÎN CER.
-[2]
+
+[2]
 Eu am predat zdrobitoarea-mi povară
 Lui Isus și-am luat-o pe-a Sa,
 Sunt fericit că-i atât de ușoară,

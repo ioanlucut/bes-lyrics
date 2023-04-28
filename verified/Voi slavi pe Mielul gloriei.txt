@@ -2,7 +2,7 @@
 Voi slăvi pe Mielul gloriei
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 /: Voi slăvi pe Mielul gloriei

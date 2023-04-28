@@ -5,22 +5,25 @@ Doamne, cât de mare ești!
 c,1,c,2,c,3,c
 
 [chorus]
-/: Doamne, cât de mare ești;
-Doamne, cât de mare ești;
+/: Doamne, cât de mare ești!
+Doamne, cât de mare ești!
 Doamne, cât de mare ești
 Și cât ne iubești! :/
 
 [1]
 Munți înalți, semeți,
 Cu brazi plini de nămeți,
-Vântu-i adia și parcă așa spunea:
+Vântu-i adia
+Și parcă așa spunea:
 
 [2]
 Oceane-n depărtări
 Își poartă cântu-n zări,
-Iar pescăruși în zbor, îngână-ncetișor:
+Iar pescăruși în zbor, 
+Îngână-ncetișor:
 
 [3]
 Eu m-alătur lor
 Și-ntr-un mare cor
-Îți cântăm cu dor, cât de mare ești.
+Îți cântăm cu dor, 
+Cât de mare ești!

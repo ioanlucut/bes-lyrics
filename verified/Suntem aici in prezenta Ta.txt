@@ -2,7 +2,7 @@
 Suntem aici în prezența Ta
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Suntem aici în prezența Ta,

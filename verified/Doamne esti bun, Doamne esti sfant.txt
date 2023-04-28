@@ -2,10 +2,10 @@
 Doamne ești bun
 
 [sequence]
-c,1,2
+1,c,2,c
 
-[chorus]
-Doamne ești bun, Doamne ești sfânt
+[1]
+Doamne ești bun, Doamne ești sfânt,
 Și sfințenia Ta oglindească-se-n noi.
 Plin de-ndurare, gata să ierți
 Pe cei ce Te cheamă smeriți.
@@ -15,9 +15,9 @@ Ești statornic în veci, răspunzi când Te chem.
 Îndurător, Doamne, ești milostiv,
 Tu ești nădejdea mea, stâncă tare!
 
-[1]
-Ești bucuria mea în orice-ncercare;
-Ești adăpostul meu când totul mi-e greu;
+[chorus]
+Ești bucuria mea în orice-ncercare,
+Ești adăpostul meu când totul mi-e greu,
 Ești cetățuia mea, Tu-mi ești stâncă tare
 Și trăiesc Doamne-n Tin’, trăiesc pentru a Te lăuda.
 
@@ -28,6 +28,6 @@ Făr’ de sfârșit și început,
 Făr’ de hotare Tu ești.
 
 Puternic în fapte și milostiv,
-A Ta bunătate m-a copleșit,
+A Ta bunătate m-a copleșit.
 Iubirea-ți perfectă m-a cucerit,
 La pieptul Tău găsesc azi scăpare!

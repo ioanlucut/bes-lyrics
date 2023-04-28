@@ -1,19 +1,23 @@
 [title]
 Dă-ne înțelepciune Doamne preaiubit
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Dă-ne înțelepciune Doamne preaiubit,
 Să pricepem starea care-i de dorit!
 Nu vrem,
 Doamne Sfinte, să fim căldicei,
 Vrem să fim în clocot, să iubim ca ieri.
-[chorus]
+
+[chorus]
 ÎNTOARCETI-VĂ AZI PRIN HARUL DOMNULUI,
 ȘI LEPĂDAȚI FĂȚĂRNICIA VEACULUI,
 ÎNȚELEPCIUNE CEREȚI ASTĂZI DOMNULUI,
 ȘI SĂ TRĂIȚI ÎN DRAGOSTEA DINTÂI (2x)
-[2]
+
+[2]
 Răsfoiți în urmă fila din trecut:
 Cum ați găsit Crucea și pe ea Isus!
 Tot așa iubit-ați pe vrăjmași, ca frați?

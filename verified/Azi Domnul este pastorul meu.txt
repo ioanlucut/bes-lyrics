@@ -5,8 +5,8 @@ Azi Domnul este păstorul meu
 1,c,2,t,3,e
 
 [1]
-Azi Domnul este păstorul meu.
-Eu lipsă n-am să duc
+Azi Domnul este păstorul meu,
+Eu lipsă n-am să duc.
 Din verzi pășuni și din ape vii,
 Eu sufletu-mi adăp.
 
@@ -18,13 +18,13 @@ Chiar și prin moarte eu trec ușor
 
 [2]
 Toiagul Tău și nuiaua Ta
-Mă mângâie ades’
+Mă mângâie ades’.
 Pe cap mă ungi ca să mă sfințești
 Cu untdelemn ales.
 
 [chorus 2]
-/: Tu masa-ntinzi, când dușmani privesc
-Paharul meu este astăzi plin
+/: Tu masa-ntinzi, când dușmani privesc,
+Paharul meu este astăzi plin.
 Primesc belșugul ce-l răspândești
 Și-n fața Ta mă-nchin. :/
 
@@ -35,5 +35,7 @@ Da, fericirea mă va-nsoți,
 Până când voi muri.
 
 [ending]
-/: Aleluia, Aleluia, Aleluia, Aleluia
-Aleluia, Aleluia, Aleluia, Amin :/
+/: Aleluia, Aleluia, 
+Aleluia, Aleluia
+Aleluia, Aleluia, 
+Aleluia, Amin. :/

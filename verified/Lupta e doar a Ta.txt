@@ -2,7 +2,7 @@
 Lupta e doar a Ta
 
 [sequence]
-1,c,2,c,b
+1,c,2,c,b,c
 
 [1]
 Când lupta mă înconjoară,

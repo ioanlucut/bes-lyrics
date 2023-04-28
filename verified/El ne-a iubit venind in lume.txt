@@ -11,10 +11,10 @@ Prin sângele vărsat pe cruce,
 La Golgota, Isus Hristos ne-a mântuit.
 
 [chorus]
-Știind că-i viu, pot învinge teama!
+/: Știind că-i viu, pot învinge teama!
 Și eu sunt viu, căci m-a salvat!
 Și, când ispita grea mă va ajunge,
-Pe brațul Său, mă simt mereu învingător!
+Pe brațul Său, mă simt mereu învingător! :/
 
 [2]
 Ca un copil ce se încrede

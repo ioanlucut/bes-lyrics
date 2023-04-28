@@ -2,7 +2,7 @@
 Este-un loc unde sfinții cântă
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Este-un loc, unde sfinții cântă

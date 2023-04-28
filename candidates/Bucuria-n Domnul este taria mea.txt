@@ -1,19 +1,25 @@
 [title]
 Bucuria-n Domnul este tăria mea
-[sequence]
-1,2,3,4
-[1]
+
+[sequence]
+1,2,3,4,5
+
+[1]
 Bucuria-n Domnul este tăria mea (3x)
 Bucuria-n Domnul e tăria mea.
-[2]
+
+[2]
 El apă vie-mi dă și sete nu mai mi-e (3x)
 Bucuria-n Domnul e tăria mea.
-[3]
+
+[3]
 El mă iubește și acum sunt fericit (3x)
 Bucuria-n Domnul e tăria mea.
-[4]
+
+[4]
 Isus e stânca mea de-aceea nu mă tem (3x)
 Bucuria-n Domnul e tăria mea.
-[5]
+
+[5]
 Eu vrea să merg cu El toată viața mea (3x)
 Bucuria-n Domnul e tăria mea.

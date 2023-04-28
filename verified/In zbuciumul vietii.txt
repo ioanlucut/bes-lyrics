@@ -11,7 +11,7 @@ Odihnă cine-mi dă?
 Din viața veșnică?
 
 [chorus]
-/: Hristos, numai El :/ (x3)
+/: Hristos, numai El :/ (3x)
 Îmi dă viață veșnică.
 
 [2]
@@ -27,5 +27,5 @@ Nu știu unde-i scăparea,
 S-o caut, ca s-o găsesc.
 
 [ending]
-/: Numai în Hristos :/ (x3)
+/: Numai în Hristos :/ (3x)
 Amice, tu te mântuiești.

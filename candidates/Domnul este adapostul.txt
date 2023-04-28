@@ -1,27 +1,32 @@
 [title]
 Domnul este adapostul
-[sequence]
+
+[sequence]
 1,c,2,c,3,c
-[1]
+
+[1]
 Domnul este adapostul
-Sufletului meu x3
+Sufletului meu (3x)
 El ma duce la izvoare
-E Pastorul meu x3
-[chorus]
+E Pastorul meu (3x)
+
+[chorus]
 /: Chiar dac-ar fi să umblu
 Prin valea umbrei mortii, eu
 Nu ma tem de nicun rau x2
 Toiagul și nuiaua Ta
 Ma mangaie mereu
 Nu ma tem de niciun rau x2 :/
-[2]
+
+[2]
 Imi invioreaza duhul
 E pastorul meu
 Dumnezeul meu x2
 Pe carari drepte-mi conduce
 Zilnic pasul meu
 Din pricina numelui Sau x2
-[3]
+
+[3]
 Untdelemnul Sfânt imi unge
 Zilnic capul meu
 Dumnezeul meu x2
@@ -29,7 +34,8 @@ Sunt fericit, voi locui
 Mereu în cortul Sau
 Mereu cu Domnul meu
 Mereu în cortul Sau
-[4]
+
+[4]
 /: Chiar dac-ar fi să umblu
 Prin valea umbrei mortii, eu
 Nu ma tem de nicun rau x2

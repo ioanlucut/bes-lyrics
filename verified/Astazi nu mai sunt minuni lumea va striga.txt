@@ -5,7 +5,7 @@
 1,c,2,c
 
 [1]
-„Astăzi nu mai sunt minuni!” lumea va striga
+„Astăzi nu mai sunt minuni!” lumea va striga,
 „Oare astăzi pe pământ, se mai pot afla?”
 Noi credem însă în minuni, căci Isus ne-a-nvățat,
 Că Dumnezeul dragostei, același este-n veac.

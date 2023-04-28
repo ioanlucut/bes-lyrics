@@ -2,7 +2,7 @@
 Leaga-ne doamne
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Este-un singur Domn,

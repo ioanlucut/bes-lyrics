@@ -5,7 +5,7 @@ Când privesc soarele, luna, stelele
 1,c,2,c,3,c
 
 [1]
-Când privesc soarele, luna, stelele
+Când privesc soarele, luna, stelele,
 Universul, așa de sublime,
 Mă așez în genunchi, Domnului mă închin
 Să-L proclam Creator, sfânt, divin.
@@ -18,10 +18,10 @@ Numele Lui fie-n veci lăudat!
 [chorus]
 Tot pământul să-L laude pe Domnul,
 Neamurile să I se închine Lui,
-Pentru-a Sa minunată lucrare,
+Pentru-a Sa minunată lucrare
 Căci în veac ține îndurarea Lui!
 
-Tot pământul să-I cânte mărire
+Tot pământul să-I cânte mărire,
 Creatorului sfânt mulțumire
 Pentru dragostea Lui fără de sfârșit
 Căci în veac ține îndurarea Lui!
@@ -29,19 +29,21 @@ Căci în veac ține îndurarea Lui!
 [2]
 Lăudați pe Domnul, căci este bun,
 Căci în veac ține îndurarea Lui!
-Pe Acel ce singur face minuni,
+Pe Acel ce singur face minuni
 Căci în veac ține îndurarea Lui!
-Lăudați pe Dumnezeul dumnezeilor,
+
+Lăudați pe Dumnezeul dumnezeilor
 Căci în veac ține îndurarea Lui!
-Pe Acel ce-a făcut cerurile mari,
+Pe Acel ce-a făcut cerurile mari
 Căci în veac ține îndurarea Lui!
 
 [3]
-Lăudați pe Domnul domnilor,
+Lăudați pe Domnul domnilor
 Căci în veac ține îndurarea Lui!
-Pe Acel ce a întins pământul pe mal,
+Pe Acel ce a întins pământul pe mal
 Căci în veac ține îndurarea Lui!
-Lăudați pe Dumnezeul cerurilor,
+
+Lăudați pe Dumnezeul cerurilor
 Căci în veac ține îndurarea Lui!
-Pe Cel ce dă hrană oricărei făpturi,
+Pe Cel ce dă hrană oricărei făpturi
 Căci în veac ține îndurarea Lui!

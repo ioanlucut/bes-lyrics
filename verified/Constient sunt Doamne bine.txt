@@ -1,11 +1,11 @@
 [title]
-Conștient sunt Doamne bine
+Conștient sunt, Doamne, bine
 
 [sequence]
 1,c,2,c
 
 [1]
-Conștient sunt Doamne, bine,
+Conștient sunt, Doamne, bine,
 Dacă n-ai fi lângă mine
 Totu-n jurul meu s-ar nărui.
 Soarele pe cer s-ar stinge,
@@ -25,12 +25,12 @@ Poți să ai Tu pentru mine,
 Nu merit nimic din mila Ta.
 Eu eram pierdut pe cale,
 Tu cu ultima-Ți suflare
-M-ai salvat pe cruce, la Calvar :/
-(final: Isuse m-ai salvat pe cruce, la Calvar)
+M-ai salvat pe cruce, la Calvar. :/
+(final: Isuse, m-ai salvat pe cruce, la Calvar)
 
 [2]
 Mă închin cu mulțumire,
-Dăruindu-Ți pe vecie
+Dăruindu-Ți pe vecie,
 Inima e tot ce mi-a rămas.
 Vin în sfântă umilință
 Și te rog să-mi dai credință
@@ -41,4 +41,4 @@ Vreau să-nvăț ce e iubirea
 Vreau și eu să plâng la Golgota.
 Știu că-n șoapta înserării
 Vei purta spre largul zării
-Pe acei ce voia ți-au făcut.
+Pe acei ce voia Ți-au făcut.

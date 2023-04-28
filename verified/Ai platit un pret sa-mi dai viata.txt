@@ -2,7 +2,7 @@
 Ai plătit un preț să-mi dai viață
 
 [sequence]
-1,c,2,c,e
+1,c,2,c
 
 [1]
 Ai plătit un preț să-mi dai viață
@@ -11,13 +11,13 @@ N-am cuvinte, Doamne, să pot spune
 Cât de drag îmi ești și-s fericit.
 
 Numele mi-e scris în Cartea Vieții
-Și Te rog, Isus, cu orice preț,
+Și, Te rog, Isus, cu orice preț,
 Să rămân statornic în credință
-Să te laud și să Te slăvesc.
+Să Te laud și să Te slăvesc.
 
 [chorus]
-/: Voia Ta, nu voia mea
-Să se facă Doamne-n viața mea;
+/: Voia Ta, nu voia mea,
+Să se facă, Doamne-n viața mea,
 Să trăiesc cum Tu dorești,
 O, Domnul meu,
 
@@ -33,10 +33,6 @@ S-o reverși în inimă, Stăpâne,
 Orice-ar fi să pot mereu să-Ți cânt.
 
 Numele mi-e scris în Cartea Vieții
-Și Te rog, Isus, cu orice preț,
+Și, Te rog, Isus, cu orice preț,
 Să rămân statornic în credință
-Să te laud și să Te slăvesc.
-
-[ending]
-Lumină să răspândesc mereu
-În jurul meu.
+Să Te laud și să Te slăvesc.

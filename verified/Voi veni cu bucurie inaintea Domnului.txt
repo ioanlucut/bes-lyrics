@@ -2,7 +2,7 @@
 Voi veni cu bucurie înaintea Domnului
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Voi veni cu bucurie înaintea Domnului,

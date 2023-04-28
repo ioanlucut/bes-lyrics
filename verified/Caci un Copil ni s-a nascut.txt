@@ -2,7 +2,7 @@
 Căci un Copil ni s-a născut
 
 [sequence]
-1,c,2,c,b,c
+1,c,2,c,3,c
 
 [1]
 Căci un Copil ni s-a născut,
@@ -18,12 +18,12 @@ Părinte-al veșniciilor. :/
 
 [2]
 El, Dumnezeul nevăzut
-S-a făcut azi cunoscut
+S-a făcut azi cunoscut.
 A venit din veșnicii
 Să ne aducă bucurii.
 
-[bridge]
+[3]
 Plăcerea Lui va fi mereu
-Frica de Dumnezeu
+Frica de Dumnezeu.
 Și Duhul Domnului cel Sfânt
 Se va odihni în El.

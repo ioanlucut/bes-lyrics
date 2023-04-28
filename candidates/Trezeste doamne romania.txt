@@ -1,20 +1,24 @@
 [title]
 Trezeste doamne romania
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Am așteptat în întuneric
 E timpul să ne pregătim,
 În zori de zi lumina s-o-ntâlnim.
 Da, vom vedea și-n țara noastră
 Cum se-mplinește în curând
 Ce ne-am rugat cu toții-atâta timp.
-[chorus]
+
+[chorus]
 TREZEȘTE DOAMNE ROMÂNIA,
 APRINDE FOC ÎN PRAGUL ZILEI DE APOI,
 TREZEȘTE DOAMNE ROMÂNIA
 ȘI-NCEPE CU NOI.
-[2]
+
+[2]
 Este nevoie de o schimbare
 Azi încă nu e prea târziu
 Biruitori la luptă să pornim.

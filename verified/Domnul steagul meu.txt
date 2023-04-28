@@ -5,8 +5,8 @@ Domnul, steagul meu
 1,2,c,b,c
 
 [1]
-Domnul, steagul meu;
-Domnul, scutul meu;
+Domnul, steagul meu,
+Domnul, scutul meu,
 Îmi ești apărător și sprijinitor,
 Ești refugiul meu.
 

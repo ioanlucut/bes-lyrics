@@ -5,8 +5,8 @@ Demult, Isus, Tu ai venit
 1,2,3,4,5
 
 [1]
-Demult Isus Tu ai venit,
-Pe-acest pământ Tu ne-ai găsit
+Demult, Isus, Tu ai venit,
+Pe-acest pământ Tu ne-ai găsit,
 /: În lumea noastră de păcat
 Și-n dragoste Tu ne-ai salvat. :/
 
@@ -14,7 +14,7 @@ Pe-acest pământ Tu ne-ai găsit
 Sunt două mii de ani de-atunci,
 De când în Betleem, pe lunci,
 /: Păstorii-au auzit cântând
-„Slavă în cer și pe pământ”! :/
+„Slavă în cer și pe pământ!” :/
 
 [3]
 O stea răsare-n Răsărit

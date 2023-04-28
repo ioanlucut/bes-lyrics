@@ -2,7 +2,7 @@
 __Test
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 space-not-expected-before țtext

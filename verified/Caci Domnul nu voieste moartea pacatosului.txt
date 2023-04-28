@@ -5,7 +5,7 @@ Căci Domnul nu voiește moartea păcătosului
 1,c,2,c,3,c,4,c,5,c
 
 [1]
-Căci Domnul nu voiește moartea păcătosului,
+Căci Domnul nu voiește moartea păcătosului
 Ci vrea să se întoarcă din calea lui cea rea,
 Să vină la lumină ca să fie mântuit,
 Căci ziua mântuirii e-aproape la sfârșit.
@@ -23,7 +23,7 @@ El ți-a deschis o poartă sus, pe care poți veni,
 E poarta mântuirii, deci, nu mai zăbovi!
 
 [3]
-Căci Domnul pentru tine p-o cruce a murit,
+Căci Domnul pentru tine pe-o cruce a murit,
 Acolo la Golgota, o, suflete iubit,
 Dar Tatăl din mărire, dintre morți L-a înviat
 Și-n marea Lui iubire poți fi și tu iertat.
@@ -37,5 +37,5 @@ Deci vino azi, la Domnul, din moarte și pustiu.
 [5]
 În cer e sărbătoare pentru omul păcătos
 Când el de la pierzare se-ntoarce la Hristos,
-N-ai vrea să fii acela tu, amicul meu iubit
-Întoarce-te acuma, ca să fii mântuit.
+N-ai vrea să fii acela, tu, amicul meu iubit?
+Întoarce-te acuma, ca să fii mântuit!

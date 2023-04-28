@@ -2,7 +2,7 @@
 Doamne candela pe calea mea
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Singur când mă simt, ratăcit pe drum

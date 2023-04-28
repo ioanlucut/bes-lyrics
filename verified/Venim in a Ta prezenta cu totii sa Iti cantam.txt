@@ -2,7 +2,7 @@
 Venim în a Ta prezență, cu toții să Îți cântăm
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Venim în a Ta prezență, cu toții să Îți cântăm

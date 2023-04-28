@@ -2,7 +2,7 @@
 Meriți toată slava, meriți toată cinstea
 
 [sequence]
-1,c,b,1,c,b
+1,c,b,1,c,b,c
 
 [1]
 Meriți toată slava, meriți toată cinstea,

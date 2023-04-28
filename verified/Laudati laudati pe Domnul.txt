@@ -2,7 +2,7 @@
 Lăudați, lăudați pe Domnul
 
 [sequence]
-1,c,2,c,3,c,b
+1,c,2,c,3,c,b,c
 
 [1]
 Lăudați, lăudați pe Domnul,
@@ -27,4 +27,4 @@ Voi lăuda pe Dumnezeu!
 Voi lăuda pe Dumnezeu!
 
 [bridge]
-Tu ești Domn în veci! (x3)
+Tu ești Domn în veci! (3x)

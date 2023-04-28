@@ -2,7 +2,7 @@
 Aleluia
 
 [sequence]
-p,1,p,1,c,b,c,b
+p,1,p,1,c,b,c,b,c
 
 [prechorus]
 Aleluia, Aleluia, Aleluia,

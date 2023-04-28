@@ -2,17 +2,14 @@
 Ai un loc la cruce și tu
 
 [sequence]
-1,2
+c,1
 
-[1]
-/: Ai un loc la cruce și tu,
-Ai un loc la cruce și tu.
+[chorus]
+/: Ai un loc la cruce și tu! :/
 Unde mulți au venit
 Și tu poți fi primit.
-Ai un loc la cruce și tu. :/
+Ai un loc la cruce și tu! :/
 
-[2]
-/: Îl iubesc pe Isus,
-Îl iubesc pe Isus,
-Îl iubesc pe Isus,
-Că-ntâi El m-a iubit! :/
+[1]
+/: Îl iubesc pe Isus :/ (3x)
+Că-ntâi El m-a iubit! :/ (3x)

@@ -2,7 +2,7 @@
 Isus e rege
 
 [sequence]
-1,c,2,c,b
+1,c,2,c,b,c
 
 [1]
 Al Tău nume e înălțat,

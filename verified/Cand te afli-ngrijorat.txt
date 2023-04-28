@@ -5,7 +5,7 @@ Când te afli-ngrijorat
 1,c,2,c,3,c,4,c,5,c
 
 [1]
-Când te afli-ngrijorat,
+Când te afli-ngrijorat
 Strigă către Domnul!
 De povară, de păcat,
 Strigă către Domnul!
@@ -13,7 +13,7 @@ Strigă către Domnul!
 [chorus]
 /: Strigă către Domnul,
 Orișice te-apasă.
-Strigă către Isus,
+Strigă către Isus
 Căci El nu te lasă! :/
 
 [2]
@@ -37,5 +37,5 @@ Strigă către Domnul!
 [5]
 Pentru ultima ta zi,
 Strigă către Domnul!
-Izbăvit de chin să fii
+Izbăvit de chin să fii,
 Strigă către Domnul!

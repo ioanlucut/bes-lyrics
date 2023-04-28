@@ -1,19 +1,23 @@
 [title]
 Doamne tu ești stanca în care ma ascund
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Doamne,
 Tu ești stânca în care mă ascund,
 Scutul meu, tăria care mă scapă
 Eu strig: ”Lăudat să fie Domnul meu”
 Și sunt izbăvit de vrăjmașii mei.
-[chorus]
+
+[chorus]
 ȘI AZI MĂ ÎNCHIN,
 LA TINE ÎMI ÎNALȚ SUFLETUL,
 TU CUNOȘTI INIMA MEA,
 DOAMNE ȚIE-ȚI APARȚIN.
-[2]
+
+[2]
 În îndoiala mea
 Am chemat numele Tău cel Sfânt
 Și-am strigat către stânca mântuirii,

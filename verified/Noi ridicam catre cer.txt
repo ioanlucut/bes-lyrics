@@ -2,7 +2,7 @@
 Noi ridicăm către cer
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Noi ridicăm către cer

@@ -2,7 +2,7 @@
 Mai sus de oameni și de-mpărați
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Mai sus de oameni și de-mpărați,

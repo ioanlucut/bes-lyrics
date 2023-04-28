@@ -2,7 +2,7 @@
 Biruitor în pustie
 
 [sequence]
-1,2,3,4,5,c,6,7,b
+1,2,3,4,5,c,6,7,c,b,c
 
 [1]
 Sunt în pustiu, cel rău se-arată,
@@ -19,7 +19,7 @@ Mie Mi-ar da de îl ascult.
 [3]
 În glasul lui e viclenie,
 De-atâtea ori M-a tulburat.
-Din pietre pâine-mi cere mie,
+Din pietre pâine-Mi cere Mie,
 Știa că-S flămând, dar în zadar!
 
 [4]

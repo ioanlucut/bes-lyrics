@@ -2,7 +2,7 @@
 La Tine venim, la Tine venim
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 La Tine venim, la Tine venim,

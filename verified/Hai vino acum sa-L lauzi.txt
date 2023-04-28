@@ -2,7 +2,7 @@
 Hai, vino acum să-L lauzi
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Hai, vino acum să-L lauzi!

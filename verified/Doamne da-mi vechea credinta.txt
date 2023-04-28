@@ -5,9 +5,9 @@ Doamne, dă-mi vechea credință
 c,1,c,2,c,3,c
 
 [chorus]
-Doamne, dă-mi vechea credință;
-Doamne, dă-mi vechea credință;
-Doamne, dă-mi vechea credință;
+Doamne, dă-mi vechea credință,
+Doamne, dă-mi vechea credință,
+Doamne, dă-mi vechea credință,
 În ea vreau să cred și eu.
 
 [1]

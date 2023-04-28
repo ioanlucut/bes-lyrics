@@ -5,7 +5,7 @@ Am fost căzut în păcat și făr’delege
 1,c,2,c,3,c,4,c
 
 [1]
-Am fost căzut în păcat și făr’delege;
+Am fost căzut în păcat și făr’delege,
 Căzut, înfășurat în groapa de păcat.
 Am fost căzut și-nfășurat în făr’delege,
 /: Dar Dumnezeu, :/ El m-a salvat.
@@ -14,7 +14,7 @@ Am fost căzut și-nfășurat în făr’delege,
 Am zidit un altar în inima mea,
 Fiindcă Dumnezeu mi-a dat mântuirea
 Și acestui altar i-am pus nume eu:
-/: Dumnezeu, :/ Dumnezeu e steagul meu!
+/: Dumnezeu, :/ Dumnezeu e steagul meu! :/
 
 [2]
 Am fost căzut fără speranță de scăpare,
@@ -30,6 +30,6 @@ Doar Dumnezeul meu cel tare, viu și veșnic
 
 [4]
 Eu voi privi la Domnul Isus totdeauna,
-Căci a murit pe cruce-n locul meu și-al tău;
+Căci a murit pe cruce-n locul meu și-al tău.
 Îl voi lăuda și mulțumi întotdeauna,
 /: Căci Dumnezeu :/ e steagul meu.

@@ -2,7 +2,7 @@
 Spală viața mea, Doamne
 
 [sequence]
-1,b,c,2,w,t
+1,p,c,2,q,t
 
 [1]
 Spală viața mea, Doamne,
@@ -12,7 +12,7 @@ Iartă-al meu păcat, Doamne,
 Prin sângele-Ți vărsat, Doamne,
 Să pot privi înspre Tine!
 
-[bridge]
+[prechorus]
 Șterge, Doamne, vina mea,
 Să pot privi spre fața Ta!
 
@@ -30,7 +30,7 @@ Unge ochii mei, Doamne,
 Să pot vedea cu ei, Doamne,
 Drumul ce duce spre Hristos!
 
-[bridge 2]
+[prechorus 2]
 Azi mă-ntorc de la pierzare
 Și caut, Doamne, fața Ta.
 Primește-mă, o, Doamne mare,

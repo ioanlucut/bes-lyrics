@@ -7,7 +7,7 @@ c,1,c,2,c
 [chorus]
 Domnul e mult mai mare decât problema mea,
 Orice munte-oricât de tare, se apleacă-n fața Sa.
-Semnele de întrebare nu îi pot rezista,
+Semnele de întrebare nu Îi pot rezista,
 Orice munte-oricât de tare se apleacă-n fața Sa.
 
 [1]

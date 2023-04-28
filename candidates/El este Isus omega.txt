@@ -1,19 +1,23 @@
 [title]
 El este Isus (omega)
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Pot demonii cu groază să-ntunece răcnind
 Și stelele și luna, chiar și soarele dorind,
 Să-nfrângă Duhul Celui ce e-n sufletul meu,
 Ce Însuși e lumină, că-I Fiu de Dumnezeu!
-[chorus]
+
+[chorus]
 EL ESTE ISUS,
 MEDIC CERESC,
 BALSAM ȘI SÂNGE DUMNEZEIESC,
 ÎNCEPUTUL ȘI SFÂRȘITUL ÎN EL SE ODIHNESC,
 ISUS ESTE ACELAȘI IERI ȘI AZI ȘI-N VECI!
-[2]
+
+[2]
 Izbânda e a noastră, știm la ce-am fost chemați
 Căci mâna Lui se-apleacă către cei împovărați.
 A Domnului e slava, iubit Ocrotitor.

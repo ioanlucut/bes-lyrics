@@ -1,8 +1,10 @@
 [title]
 De pe munte până-n vale
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 De pe munte până-n vale,
 Din izvor până-n ocean,
 Orice mână ce se-ntinde
@@ -11,7 +13,8 @@ Orice act de bunătate,
 Orice pas spre Paradis,
 Despre dragostea Lui Isus
 Vor mărturisi.
-[chorus]
+
+[chorus]
 ȘI-ATÂT TIMP CÂT VOI TRĂI
 IUBIREA-ȚI VOI MĂRTIRISI
 CÂND TOATĂ LUMEA VA TĂCEA
@@ -20,7 +23,8 @@ STRIGĂTUL MEU VA RĂSUNA
 ÎI MULȚUMESC LUI DUMNEZEU
 ATÂT TIMP CÂT VOI TRĂI
 IUBIREA VOI MĂRTURISI
-[2]
+
+[2]
 Minunatul curcubeu
 Armonia vântului
 Orice vis ce se înalță

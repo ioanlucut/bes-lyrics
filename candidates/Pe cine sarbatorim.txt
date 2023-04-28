@@ -1,8 +1,10 @@
 [title]
 Pe cine sarbatorim
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Astăzi este bucurie
 To
 Ți s
@@ -18,7 +20,8 @@ E z
 Ast
 Ăzi e Cr
 Ăciun.
-[chorus]
+
+[chorus]
 SĂ ne-ntreb
 Ăm care e adev
 Ărul?
@@ -42,7 +45,8 @@ SĂ nu uit
 Și pe cine s
 Ărb
 Ătorim.
-[2]
+
+[2]
 CÂnd eram doar un copil
 La geamul Înghe
 Țat

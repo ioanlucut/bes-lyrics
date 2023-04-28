@@ -2,13 +2,13 @@
 Credința mea eu o zidesc pe-a Domnului Cuvânt ceresc
 
 [sequence]
-1,c,2,c,3,c,4,t,b
+1,c,2,c,3,c,4,t,b,c
 
 [1]
 Credința mea eu o zidesc
-Pe-a Domnului Cuvânt ceresc,
-Ca spuma toate vor pieri
-Hristos ca stâncă-n veci va fi.
+Pe-a Domnului Cuvânt ceresc.
+Ca spuma toate vor pieri,
+Hristos, ca stâncă-n veci, va fi.
 
 [2]
 Deși-i ascunsă fața Sa,
@@ -36,7 +36,7 @@ Neprihănirea Lui va fi
 Chiar haina-n care voi luci.
 
 [chorus 2]
-Doamne, Tu ce miști chiar munții
+Doamne, Tu ce miști chiar munții,
 Ești măreț Salvator,
 Veșnic, ai dat salvare lumii
 Și-ai înviat dintre morți.
