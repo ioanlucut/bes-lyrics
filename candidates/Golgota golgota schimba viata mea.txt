@@ -1,8 +1,10 @@
 [title]
 Golgota golgota schimba viața mea
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Sfânt Cuvânt, dar ceresc,
 Zi de zi eu primesc.
 Dumnezeu e pe pământ,
@@ -11,13 +13,15 @@ Râu de viață, râu de har,
 Umple-ne cu al tău jar.
 Să trăim pentru El,
 Sfânt Cuvânt venit din cer.
-[chorus]
+
+[chorus]
 GOLGOTA,
 GOLGOTA
 SCHIMBĂ VIAȚA MEA ȘI A TA
 SĂ TRĂIM PE PĂMÂNT
 ASCULTÂND DE-AL SĂU CUVÂNT.
-[2]
+
+[2]
 Sfânt Cuvânt e Hristos,
 A venit la noi jos.
 S-a jerfit pe Calvar

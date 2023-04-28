@@ -2,7 +2,7 @@
 Ce nume minunat, ce nume minunat
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Ce nume minunat, ce nume minunat,

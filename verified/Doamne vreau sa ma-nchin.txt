@@ -2,7 +2,7 @@
 Doamne, vreau să mă-nchin
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Doamne, vreau să mă-nchin

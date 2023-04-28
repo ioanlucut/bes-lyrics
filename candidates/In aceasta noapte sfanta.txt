@@ -1,14 +1,17 @@
 [title]
 In aceasta noapte sfanta
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Magii din Răsărit i-aduc slavă
 Și la Prunc atunci s-au închinat
 Îngeri pe pământ și sus în ceruri
 Cântă Slavă Celui Preaînalt,
 Osana.
-[chorus]
+
+[chorus]
 ÎN ACEASTĂ NOAPTE SFÂNTĂ
 S-A NĂSCUT MESIA
 PRIN FECIOARA PREACURATĂ
@@ -17,7 +20,8 @@ S-A NĂSCUT MESIA
 S-A NĂSCUT MESIA
 DARUL CEL PROMIS DE DUMNEZEU
 OSANA
-[2]
+
+[2]
 Cu îngerii, păstorii și cu magii
 Venim și noi la ieslea lui Isus
 Să urmăm și noi pe calea Crucii

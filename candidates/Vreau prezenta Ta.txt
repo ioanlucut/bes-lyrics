@@ -1,8 +1,10 @@
 [title]
 Vreau prezența Ta
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Vreau prezența Ta,
 Vreau să simt cum mă înconjoară,
 Vreau prezența Ta,
@@ -11,10 +13,12 @@ Nimeni nu-i ca Tin’,
 Nimeni nu se compară cu Tine,
 Nimeni nu-i ca Tin’
 O, Domnul meu.
-[chorus]
+
+[chorus]
 AM NEVOIE DE TINE DOAMNE (7x)
 AM NEVOIE DE TINE ÎN VIAȚA MEA.
-[2]
+
+[2]
 Ești speranța mea,
 În prezența Ta simt pace,
 Ești bucuria mea,

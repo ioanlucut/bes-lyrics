@@ -2,7 +2,7 @@
 Iubire din Tine
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Iubire, din Tine,

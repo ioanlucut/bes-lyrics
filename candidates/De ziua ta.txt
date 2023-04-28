@@ -1,8 +1,10 @@
 [title]
 De ziua ta
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Vin cu tot ce am
 Mă închin cu viața mea
 Îmi aplec în fața Ta inima
@@ -10,12 +12,14 @@ Mi-ai dăruit o rază
 Speranța de a visa
 Mă aplec cu reverența
 În fața Ta
-[chorus]
+
+[chorus]
 DE ZIUA TA ÎȚI URĂM ”BUN VENIT”
 DIN NEMURIRE PE PĂMÂNT AI VENIT
 ÎȚI CÂNTĂM DRAGOSTEA CE NE-A UIMIT
 DE ZIUA TA ÎȚI URĂM ”BUN VENIT”
-[2]
+
+[2]
 [bridge]
 Scump copil pe pământ întrupat
 Bucurie și viață mi-ai dat...

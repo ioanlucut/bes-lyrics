@@ -1,8 +1,10 @@
 [title]
 Cântați toți de bucurie
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Omenirea să-L primească
 Pe Regele suprem
 Iar inima omenească
@@ -11,14 +13,16 @@ Lui să-I gătească loc,
 Lui să-I,
 Lui să-I
 gătească loc
-[chorus]
+
+[chorus]
 Cântați toți de bucurie
 Căci Hristos s-a născut
 Să cânte spre-a Lui mărire
 Cerul și pământul,
 Cerul și pământul,
 Cerul, cerul și pământul!
-[2]
+
+[2]
 El va domni-n mărire
 Peste-ntreaga lume
 Popoarele cudreptate

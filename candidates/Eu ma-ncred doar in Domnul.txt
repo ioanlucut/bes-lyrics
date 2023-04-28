@@ -1,8 +1,10 @@
 [title]
 Eu mă-ncred doar în Domnul
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Eu mă-ncred doar în Domnul,
 El mă ajută,
 Eu mă-ncred doar în Domnul,
@@ -11,14 +13,16 @@ El e-al meu turn în care
 La necaz alerg,
 Eu mă-ncred doar în Domnul
 Știu că nu greșesc.
-[chorus]
+
+[chorus]
 PE DOMNUL SLĂVESC, AJUTORUL MEU,
 EL E SLAVA MEA ȘI CÂND DRUMU-I GREU.
 TOATE POPOARELE LUMII
 SĂ SE-NCREADĂ-N EL,
 EU MĂ-NCRED DOAR ÎN DOMNUL
 ȘTIU CĂ NU GREȘESC.
-[2]
+
+[2]
 Eu mă-ncred doar în Domnul,
 Salvatorul meu,
 Eu mă-ncred doar în Domnul,

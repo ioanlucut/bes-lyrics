@@ -2,7 +2,7 @@
 Binecuvantati sunt acei
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 [chorus]

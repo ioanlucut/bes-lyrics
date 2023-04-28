@@ -1,8 +1,10 @@
 [title]
 Într-o noapte rece
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Într-o noapte rece
 Stau la geamuri și privesc
 Stelele sclipind pe cer
@@ -11,12 +13,14 @@ Că într-o așa, o noapte
 In Betleem s-a născut
 Domnul nostru al tuturor,
 Cel făr’ de-nceput.
-[chorus]
+
+[chorus]
 ISUS S-A NĂSCUT!
 STELELE SCLIPESC
 ȘI PRIN GRAIUL LOR
 TUTUROR VESTESC.
-[2]
+
+[2]
 În satul singuratic
 Domnul nostru s-a-ntrupat
 Era un prunc în iesle

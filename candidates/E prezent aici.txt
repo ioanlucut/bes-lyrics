@@ -1,8 +1,10 @@
 [title]
 E prezent aici
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Poate ești lovit de vânt,
 Poate ești lovit de ploi
 Și crezi că nu mai ai un rost pe pământ.
@@ -10,13 +12,15 @@ Poate tu te rogi demult
 Și aștepți din cer răspuns,
 Vreau să-Ți spun că El acum e prezent,
 Trebuie doar să-L atingi.
-[chorus]
+
+[chorus]
 E PREZENT AICI FIUL LUI DUMNEZEU,
 E PREZENT ȘI VREA SĂ-ȚI DEA MÂNA SA,
 E PREZENT AICI TE AȘTEAPTĂ IUBIND,
 TREBUIE DOAR SĂ VREI,
 SĂ-I DAI INIMA. (2x)
-[2]
+
+[2]
 Dacă ești căzut în drum,
 Dacă pașii îți rătăcesc
 Și azi te-așteaptă să vii, nu-i târziu.

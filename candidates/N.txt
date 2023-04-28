@@ -1,8 +1,10 @@
 [title]
 N
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Dumnezeul puternic
 Ce-i cu tine pe culme
 Zi de zi te-ntărește
@@ -11,7 +13,8 @@ E cu tine și-n vale,
 Îți alungă durerea
 Cel ce a creat ziua
 E Dumnezeu și noatea
-[chorus]
+
+[chorus]
 MÂNA LUI CEA TARE
 CE TE-A ȚINUT SUS PE MUNTE
 TOT EA TE VA ȚINE
@@ -20,7 +23,8 @@ DUMNEZEUL CE-ȚI PUNE
 BUCURIE ÎN SUFLET
 TOT EL ÎȚI VA ȘTERGE
 LACRIMA ATUNCI CÂND PLÂNGI
-[2]
+
+[2]
 Vorbind de credință
 Când suntem sus pe munte
 Pare ușor când necazuri nu-avem

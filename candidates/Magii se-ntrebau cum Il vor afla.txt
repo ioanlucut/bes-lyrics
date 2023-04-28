@@ -2,7 +2,7 @@
 Magii se-ntrebau cum Îl vor afla
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Magii se-ntrebau cum Îl vor afla

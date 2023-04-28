@@ -2,7 +2,7 @@
 Zidește în mine o inimă
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Zidește în mine o inimă

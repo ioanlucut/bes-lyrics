@@ -1,13 +1,16 @@
 [title]
 Într-un sat ne’nsemnat din Iudeea
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Într-un sat ne’nsemnat din Iudeea,
 Într-o iesle din Betleem,
 S-a născut așteptatul Mesia.
 Să-I cântăm cu îngerii în cor!
-[chorus]
+
+[chorus]
 CÂNT „OSANA!”,
 CÂNT „OSANA!”,
 CÂNT „OSANA!,
@@ -15,7 +18,8 @@ REGE-AL REGILOR!”
 CÂNT „OSANA”,
 CÂNT „OSANA”,
 CÂNT „OSANA” LUI ISUS!
-[2]
+
+[2]
 Părăsiți turma voastră-n câmpie,
 Alergați umiliți la El!
 El e singura bucurie,

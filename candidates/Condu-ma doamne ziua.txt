@@ -2,7 +2,7 @@
 Condu-ma doamne ziua
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Am fost născut în păcat,

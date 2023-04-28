@@ -2,7 +2,7 @@
 El e ’nălțat, Împăratul divin e ’nălțat
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 El e ’nălțat, Împăratul divin

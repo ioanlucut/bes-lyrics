@@ -1,15 +1,18 @@
 [title]
 Cat de bine ma simt cu alesii domnului
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Ce plăcut și ce frumos
 E poporul lui Hristos
 Când pe Domnul ei Îl laudă voios
 Nu e loc mai fericit
 Ca acel unde-am găsit
 Pe toți sfinții ce-mpreună s-au unit
-[chorus]
+
+[chorus]
 CÂT DE BINE MĂ SIMT CU ALEȘII DOMNULUI
 POPORUL MINUNAT
 O CE BINE MĂ SIMT CU ALEȘII DOMNULUI
@@ -20,7 +23,8 @@ CERUL STĂ ȘI-ASCULTĂ CÂNTAREA
 O CE BINE MĂ SIMT CU ALEȘII DOMNULUI
 O CE POPOR,
 CE POPOR MINUNAT!
-[2]
+
+[2]
 O, ce zi atunci va fi
 Când pe nori El va veni
 Și în slava Lui pe veci ne va uni!

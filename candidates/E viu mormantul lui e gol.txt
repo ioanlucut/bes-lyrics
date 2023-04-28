@@ -1,8 +1,10 @@
 [title]
 E viu mormantul lui e gol
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Maria, ucenicii,
 grăbiți alerg la El
 În zori de dimineață
@@ -10,7 +12,8 @@ le zice îngerul
 „Duce-ți, vestiți tuturor,
 din morți El a-nviat,
 Credeți și să vă bucurați”
-[chorus]
+
+[chorus]
 E VIU,
 E VIU,
 MORMÂNTUL LUI E GOLE VIU,
@@ -18,7 +21,8 @@ E VIU,
 A-NVIAT DOMNUL MEUE VIU,
 E VIU,
 ÎN TOATĂ SPLENDOAREANE DUCE LA FERICIRE
-[2]
+
+[2]
 Maria stă și plânge,
 ar vrea să știe ce-i
 Dar iată o minune,

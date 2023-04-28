@@ -1,13 +1,16 @@
 [title]
 Domn al veșniciei
-[sequence]
-1,c
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Domn al veșniciei
 Ce pământul l-ai creat,
 Cerul este al Tău templu,
 Glorie Celui Înălțat.
-[chorus]
+
+[chorus]
 DOMN AL SLAVEI MAI SUS DE GALAXII,
 TU EȘTI VREDNIC,
 VREDNIC
@@ -16,7 +19,8 @@ TU EȘTI VREDNIC,
 VREDNIC.
 Tu ești Domn, ai fost și vei fi,
 Tu ești Domn, ai fost și vei fi.
-[2]
+
+[2]
 Dis-de-dimineață
 Lumina o voi întâmpina
 Și în noapte de mă clatin
