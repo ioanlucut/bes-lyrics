@@ -5,10 +5,10 @@ Domnul fie cu tine
 1,c,2,c,3,c,4,c,b
 
 [1]
-Domnul fie cu tine,
+/: Domnul fie cu tine,
 Fața Lui să lumineze mereu ființa ta,
 Să-ți umple viața
-Cu pacea Sa!
+Cu pacea Sa! :/
 
 [chorus]
 /: Amin, Amin, Amin! :/
@@ -32,4 +32,4 @@ La plecare, la venire,
 Nu te lasă, e cu tine! :/
 
 [bridge]
-E cu tine, e cu tine !
+/: E cu tine, e cu tine! :/
