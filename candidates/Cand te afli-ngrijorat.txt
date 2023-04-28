@@ -1,40 +1,0 @@
-[title]
-Când te afli-ngrijorat
-[sequence]
-1,c,2,c,3,c,4,c,5,c
-[1]
-Când te afli-ngrijorat
-Strigă către Domnul
-De povară, de păcat
-Strigă către Domnul.
-[chorus]
-STRIGĂ CĂTRE DOMNUL
-ORIȘICE TE-APASĂ,
-STRIGĂ CĂTRE DOMNUL
-CĂCI EL NU TE LASĂ.
-[2]
-Dacă vrei să fii mai sfânt,
-Strigă către Domnul,
-O lumină pe pământ
-Strigă către Domnul.
-[3]
-Îngrijorat de ce va fi
-Strigă către Domnul,
-Și de vremuri ce-or veni
-Strigă către Domnul.
-[4]
-STRIGĂ CĂTRE DOMNUL
-ORIȘICE TE-APASĂ,
-STRIGĂ CĂTRE ISUS
-CĂCI EL NU TE LASĂ.
-[5]
-Pentru ultima ta zi
-Strigă către Domnul,
-Izbăvit de chin să fii
-Strigă către Domnul.
-[6]
-[9]
-STRIGĂ CĂTRE DOMNUL
-ORIȘICE TE-APASĂ,
-STRIGĂ CĂTRE ISUS
-CĂCI EL NU TE LASĂ.

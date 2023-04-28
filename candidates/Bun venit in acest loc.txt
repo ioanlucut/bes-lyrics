@@ -1,13 +1,16 @@
 [title]
 Bun venit în acest loc
-[sequence]
-1
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Bun venit în acest loc,
 Bun venit în Templul sfânt
 Dorim să ne-nchinăm
 În locașul Tău cel sfânt.
-[2]
+
+[chorus]
 Deci ridicăm mâinile
 Și-nălțăm vocile
 Te lăudăm, o,

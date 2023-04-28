@@ -2,7 +2,7 @@
 Când urmez Isuse Ție
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c
+1,c,2,c,3,4,5,6
 
 [1]
 Când urmez Isuse, Ție,
@@ -29,7 +29,6 @@ Când mă aflu în ispite,
 Tu să mă susții mereu.
 
 [4]
-[chorus]
 /: TU SĂ MĂ SUSȚII :/
 ISUSE EU TE IUBESC,
 TU SĂ MĂ SUSȚII.
@@ -41,7 +40,6 @@ Sigur că în cer mă duce,
 Mă simt fericit nespus.
 
 [6]
-[chorus]
 /: MĂ SIMT FERICIT :/
 CĂ ÎN CER VOI FI CU TINE,
 ÎN VECI NEDESPĂRȚIT.
