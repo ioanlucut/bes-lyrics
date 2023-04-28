@@ -2,7 +2,7 @@
 El e-n stare, da, e-n stare
 
 [sequence]
-1,2
+1,c,1,c
 
 [1]
 /: El e-n stare, da, e-n stare
@@ -10,7 +10,7 @@ Să rezolve-ngrijorarea ce o am.
 El e-n stare, da, e-n stare
 Să-mi atingă inima cu-a Lui balsam. :/
 
-[2]
+[chorus]
 /: El e-n stare, da, e-n stare
 Să-mplinească dincolo de orice vis.
 El e-n stare, da, e-n stare
