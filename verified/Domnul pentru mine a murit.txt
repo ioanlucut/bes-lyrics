@@ -32,7 +32,7 @@ Amin, Amin,
 Aleluia, El va reveni,
 Amin, Amin.
 
-[bridge 1]
+[bridge]
 /: Tu ești Acel ce-a fost,
 Tu ești Acel ce ești,
 Tu ești Acel ce va veni. :/ Cântă!
