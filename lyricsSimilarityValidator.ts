@@ -35,8 +35,8 @@ const computeSimilarity =
     fileName: string;
   }) => {
     const similarity = stringSimilarity.compareTwoStrings(
-      contentAsString,
-      candidateContent,
+      contentAsString.toLowerCase(),
+      candidateContent.toLowerCase(),
     );
 
     return {
