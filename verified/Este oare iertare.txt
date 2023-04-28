@@ -12,7 +12,7 @@ Să vin așa cum sunt?
 ’Naintea Ta? (’Naintea Ta?)
 În fața Ta? (În fața Ta?)
 
-[chorus 1]
+[chorus]
 /: Știu, Domnul meu, sunt un om așa rău
 Și Te-am întristat mereu.
 Știu, Domnul meu,
