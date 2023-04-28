@@ -15,9 +15,9 @@ El este Domn!
 El vine-n putere când chemi al Său Nume,
 El este Domn!
 
-[chorus]
+[chorus 1]
 /: Arată-Ți puterea, o, Domnul meu,
-Arată-Ți puterea, o, Domnul meu; :/
+Arată-Ți puterea, o, Domnul meu, :/
 O, Domnul meu.
 
 [2]
@@ -25,6 +25,7 @@ Cuvântul Tău e speranță în lume,
 Ești Dumnezeu!
 Prin a Ta putere avem mântuire,
 Ești Dumnezeu!
+
 Nu-Ți cerem avere, privim dar la cruce,
 Ești Dumnezeu!
 Pe cei păcătoși înainte-Ți aducem,
@@ -32,5 +33,5 @@ Ești Dumnezeu!
 
 [chorus 2]
 /: Trimite-Ți puterea, o, Domnul meu,
-Trimite-Ți puterea, o, Domnul meu :/
+Trimite-Ți puterea, o, Domnul meu, :/
 O, Domnul meu.
