@@ -10,7 +10,7 @@ Isus, Tu ai venit și ne-ai salvat.
 Din chinurile vieții și rece-a groapă-a morții,
 Isus, Tu ai venit și ne-ai salvat.
 
-[chorus 1]
+[chorus]
 /: Isus, Isus,
 Tu ești al nostru Soare,
 Ești barca de salvare,
