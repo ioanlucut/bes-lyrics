@@ -2,10 +2,10 @@
 El poartă chipul Celui Preasfânt nevăzut
 
 [sequence]
-1,p,2,c,t
+1,c,2,c,b
 
 [1]
-El poartă chipul Celui Preasfânt, nevăzut,
+El poartă chipul Celui Preasfânt, nevăzut
 Stăpân peste creație
 E început, sfârșit,
 E Rege peste tot.
@@ -14,21 +14,17 @@ E Rege peste tot.
 E Creatorul, toate există prin El,
 Prezent în orice lucru.
 El e Cuvântul viu, El e speranța-n veci.
+Slăvit e al Tău nume, Doamne, slăvit e al Tău nume!
 
-[prechorus]
-Slăvit e al Tău nume,
-Doamne, slăvit e al Tău nume!
-
+[chorus]
 Te lăudăm, Domn peste veacuri,
 Numele Tău Îl înălțăm azi,
 Tu de laudă, ești vrednic,
 Ești vrednic.
 
-[chorus]
+[bridge]
 /: Ești minunat, ești minunat
-Doar Tu, doar Tu! :/ (x4)
-
-[chorus 2]
+Doar Tu, doar Tu! :/ (4x)
 /: În veci, Tu ești Domn peste veacuri,
 Numele Tău Îl înălțăm azi,
 Tu de laudă ești vrednic, ești vrednic. :/
