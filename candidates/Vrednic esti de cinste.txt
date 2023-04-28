@@ -1,31 +1,0 @@
-[title]
-Vrednic ești de cinste
-[sequence]
-1,2
-[1]
-[chorus]
-/: Vrednic ești de cinste și-nchinare,
-Ridicăm mâinile noastre,
-Înălțăm numele Tău! :/
-CE MARE EȘTI
-ȘI CE MARI MINUNI FACI TU,
-/: ȘI CA TINE ALTU NU-I! :/
-CE MARE EȘTI!
-[2]
-[chorus]
-/: Ți se cuvine slava și adorarea,
-Mâinile noastre ridicăm,
-Numele Tău înălțăm :/
-CĂCI TU EȘTI DOMN,
-TU EȘTI DOMN CU-ADEVĂRAT
-/: NIMENI ALTUL NU-I CA TIN’ :/
-CĂCI TU EȘTI DOMN!
-[3]
-[chorus]
-/: Vrem să spunem lumii despre Tine,
-Cum prin moartea Ta pe cruce
-Tuturor ne-ai arătat :/
-CĂCI TU EȘTI DOMN,
-TU EȘTI DOMN CU ADEVĂRAT,
-/: NIMENI ALTUL NU-I CA TIN’! :/
-CĂCI TU EȘTI DOMN!
