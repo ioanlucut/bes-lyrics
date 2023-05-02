@@ -5,13 +5,13 @@
 c,1,c,1,c
 
 [chorus]
-/: În Tine este viața mea;
-În Tine e tăria mea;
-În Tine e speranța mea;
+/: În Tine este viața mea,
+În Tine e tăria mea,
+În Tine e speranța mea,
 În Tine! :/
 
 [1]
 Te laud toată viața mea,
 Te laud cu toată puterea mea,
-Cu viața mea, tăria mea
+Cu viața mea, tăria mea,
 Toată speranța mi-este-n Tine.
