@@ -5,7 +5,7 @@ Eu n-am să te las să pieri
 1,2,3,4
 
 [1]
-Eu n-am să te las să pieri,
+Eu n-am să te las să pieri
 Când treci prin necazul cel greu,
 Atunci când mă chemi în dureri,
 „Eu vin!” a promis Dumnezeu.
@@ -39,11 +39,11 @@ Furtuna privind liniștit. :/
 
 [4]
 Eu Sunt Cel ce Sunt, Dumnezeu,
-Și-aud când Mă strigi din necaz,
-Căci Eu văd din cer chinul tău,
+Și-aud când Mă strigi din necaz
+Căci Eu văd din cer chinul tău
 Și lacrima pe-al tău obraz.
 
 /: Crede și nu te-ndoi,
-Așteaptă-n tăcere-ajutor,
-Căci Eu lângă tine voi fi,
+Așteaptă-n tăcere-ajutor
+Căci Eu lângă tine voi fi
 Și greul va fi mai ușor. :/
