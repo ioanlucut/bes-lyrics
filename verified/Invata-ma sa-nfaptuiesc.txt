@@ -5,13 +5,13 @@
 1,c,2,c,3,c,4,c
 
 [1]
-Învață-mă să-nfăptuiesc
+Învață-mă să-nfăptuiesc,
 O, Doamne, voia Ta mereu.
 Căci nu pot altfel să trăiesc,
 De-ar fi să piară trupul meu.
 
 [chorus]
-/: Voia Ta, voia TA
+/: Voia Ta, voia Ta
 Doamne-n veci, voia Ta
 Să mă umple deplin,
 Pentru Tine, Amin. :/
@@ -29,7 +29,7 @@ Să mă înveți pe-acest pământ,
 Voința Ta și pașii Tăi.
 
 [4]
-Aceasta-i rugăciunea mea:
+Aceasta-i rugăciunea mea,
 Spre Tine necurmat o-ndrept
 Și-n orice-mprejurare grea
 Să-mi ardă voia Ta în piept.

@@ -5,9 +5,11 @@ Inimi pline de speranță, mântuire, siguranță
 1,c,2,c,3,c
 
 [1]
-Inimi pline de speranță, mântuire, siguranță,
+Inimi pline de speranță, 
+Mântuire, siguranță,
 Iată vestea: S-a născut Isus!
-Bucurie, pace sfântă, magii se-nchină, îngeri cântă,
+Bucurie, pace sfântă, 
+Magii se-nchină, îngeri cântă,
 Iată vestea: S-a născut Isus!
 
 [chorus]
@@ -29,7 +31,7 @@ Azi în inimi, S-a născut Isus.
 [3]
 Ne-a adus din cer lumina,
 A venit să ne ia vina,
-Iată vestea: S-a născut Isus.
+Iată vestea: S-a născut Isus!
 E Mesia, este El,
-Numele-I Emanuel
-Iată vestea: S-a născut Isus.
+Numele-I Emanuel.
+Iată vestea: S-a născut Isus!

@@ -1,5 +1,5 @@
 [title]
-Hristos a înviat din morti
+Hristos a înviat din morți
 
 [sequence]
 1
@@ -9,4 +9,3 @@ Hristos a înviat din morți
 Cu moartea pe moarte câlcând
 Și celor din morminte,
 Viață dăruindu-le.
-

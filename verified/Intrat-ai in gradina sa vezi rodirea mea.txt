@@ -2,52 +2,88 @@
 Intrat-ai în grădină să vezi rodirea mea
 
 [sequence]
-1,2,3,4,5,6,7,8
+1,2,3,4,
 
 [1]
-Intrat-ai în grădină să vezi rodirea mea,
-Te-ai bucurat sau, Doamne, te-ai întristat de ea?
-Mi-ai cercetat iubirea ce roade am adus,
-Te-ai desfătat în ele sau te-ai mâhnit, Isus?
+Intrat-ai în grădină 
+Să vezi rodirea mea,
+Te-ai bucurat sau, Doamne, 
+Te-ai întristat de ea?
+
+Mi-ai cercetat iubirea 
+Ce roade am adus,
+Te-ai desfătat în ele 
+Sau Te-ai mâhnit, Isus?
+
+De m-ai căutat la rugă
+În odăița mea
+Și ai găsit-o goală, 
+Căci nu eram în ea,
+
+O, iartă-mi nepăsarea 
+Și-mi pune-un dor în piept
+Să caut rugăciunea 
+Și-așa să Te aștept.
 
 [2]
-De m-ai căutat la rugă în odăița mea
-Și ai găsit-o goală, căci nu eram în ea,
-O, iartă-mi nepăsarea și-mi pune-un dor în piept
-Să caut rugăciunea și-așa să Te aștept.
+Genunchii-n slăbiciune 
+Tu să mi-i întărești
+Să-i pot pleca-n smerenie, 
+Așa cum Tu dorești,
+
+Și oțelește-mi brațul 
+Ca să-l ridic spre cer,
+Chiar de mi-ar fi cărarea 
+Prin arșiță sau ger.
+
+De m-ai căutat la jertfă 
+Și tot nu m-ai aflat
+Și n-ai găsit altarul întreg, 
+Ci dărâmat.
+
+O, iartă-mi nevegherea 
+Și dă-mi putere iar
+S-astup orice spărtură-ntregind 
+Al meu altar.
 
 [3]
-Genunchii-n slăbiciune Tu să mi-i întărești
-Să-i pot pleca-n smerenie, așa cum Tu dorești,
-Și oțelește-mi brațul ca să-l ridic spre cer,
-Chiar de mi-ar fi cărarea prin arșiță sau ger.
+Să-ndepărtez icoane 
+Și idolii lumești,
+Să-mi fie jertfa-ntreagă, 
+Așa cum Tu dorești.
+
+S-aduc o jertfă sfântă 
+De bun miros trăind
+Ca-n ziua cercetării 
+Să fiu găsit veghind.
+
+De mi-ai căutat iubirea de frați
+Și, în loc de ea,
+Găsit-ai judecată 
+Și ură-n viața mea.
+
+O, iartă-mă de vina 
+De-a fi un mincinos
+Și dă-mi de zi în suflet 
+Iubirea Ta, Hristos.
 
 [4]
-De m-ai căutat la jertfă și tot nu m-ai aflat
-Și n-ai găsit altarul întreg, ci dărâmat,
-O, iartă-mi nevegherea și dă-mi putere iar
-S-astup orice spărtură-ntregind al meu altar.
+De-am căutat ’nălțare 
+Să-mi fac cu mâna mea,
+O, iartă-mi Tu mândria 
+Și-n seamă n-o ținea.
 
-[5]
-Să-ndepărtez icoane și idolii lumești,
-Să-mi fie jertfa-ntreagă, așa cum Tu dorești,
-S-aduc o jertfă sfântă de bun miros trăind
-Ca-n ziua cercetării să fiu găsit veghind.
+Putere dă-mi ca-n rugă 
+Să stau mereu smerit,
+Să am parte de harul 
+Astfel făgăduit.
 
-[6]
-De mi-ai căutat iubirea de frați și, în loc de ea,
-Găsit-ai judecată și ură-n viața mea,
-O, iartă-mă de vina de-a fi un mincinos
-Și dă-mi de zi în suflet iubirea Ta, Hristos.
+Azi vin să-Ți cer iertare, 
+Căci știu că n-am avut
+Smerenie și-ascultare 
+Așa cum ai cerut.
 
-[7]
-De-am căutat ’nălțare să-mi fac cu mâna mea,
-O, iartă-mi Tu mândria și-n seamă n-o ținea.
-Putere dă-mi ca-n rugă să stau mereu smerit,
-Să am parte de harul astfel făgăduit.
-
-[8]
-Azi vin să-Ți cer iertare, căci știu că n-am avut
-Smerenie și-ascultare așa cum ai cerut,
-Un an de îndurare Îți cer să îmi mai dai
-Și din grădina sfântă Te rog să nu mă tai.
+Un an de îndurare 
+Îți cer să îmi mai dai
+Și din grădina sfântă 
+Te rog să nu mă tai.

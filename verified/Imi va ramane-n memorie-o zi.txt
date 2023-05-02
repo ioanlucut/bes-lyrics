@@ -16,18 +16,18 @@ Vesel voi spune măreața minune
 Cum Domnul meu m-a mântuit!
 
 [chorus]
-Glorii din cer în mine s-au revărsat
+/: Glorii din cer în mine s-au revărsat
 Când, la Calvar, Isus m-a eliberat.
 Povara mi s-a dus prin harul lui Isus,
-Glorii din cer în mine s-au revărsat.
+Glorii din cer în mine s-au revărsat. :/
 
 [2]
 Domnul sigiliul pe inimă-a pus,
-Fiu în familia Sa
+Fiu în familia Sa.
 Sunt curățit de păcat prin Isus
 O, cât e de bine așa!
 
-În clipa când eu la El am venit,
+În clipa când eu la El am venit
 Ca un sărman păcătos,
 Har mi-a dat mare, schimbând a mea stare,
 Prin Domnul meu, Isus Hristos.
@@ -39,6 +39,6 @@ Sunt în cer moștenitor cu Isus,
 O, cât e de minunat!
 
 Toate le am din acea scumpă zi
-Când m-am smerit și-am crezut,
+Când m-am smerit și-am crezut.
 Am nestemate, comori minunate,
 Ce ochii nicicând n-au văzut.

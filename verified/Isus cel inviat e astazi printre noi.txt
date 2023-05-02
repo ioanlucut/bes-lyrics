@@ -20,7 +20,7 @@ Vei fi binecuvântat. :/
 Și astăzi este gol, :/ (3x)
 Mormântul lui Isus e gol!
 [title]
-Isus cel înviat e astăzi printre noi
+Isus cel înviat e astăzi printre noi.
 
 [sequence]
 1,c,2,c,3,c,4,c
