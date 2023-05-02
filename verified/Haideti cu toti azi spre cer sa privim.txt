@@ -5,8 +5,8 @@ Haideți cu toți azi spre cer să privim
 1,c,2,c
 
 [1]
-Haideți cu toți azi spre cer să privim,
-Căci negura vremii se lasă,
+Haideți cu toți azi spre cer să privim
+Căci negura vremii se lasă.
 Pământul întreg de păcate e plin,
 Ah, Doamne mi-e dor de acasă!
 
@@ -16,7 +16,7 @@ Făclia-iubirii aruncată s-a stins,
 Altarele sunt dărâmate.
 
 [chorus]
-Vine Domnul, Vine Domnul!
+Vine Domnul, vine Domnul!
 Haideți toți să veghem,
 Undelemn zi de zi să avem!
 
@@ -27,6 +27,6 @@ De astăzi cu toții-n veghere să stăm,
 Să-alegem îngusta cărare.
 
 Cu-o inimă-ntreagă să Îl așteptăm,
-Pământul să nu ne mai lege,
+Pământul să nu ne mai lege.
 A noastră privire spre cer să-ndreptăm,
 Pe nori se arat-al nost’ Rege.
