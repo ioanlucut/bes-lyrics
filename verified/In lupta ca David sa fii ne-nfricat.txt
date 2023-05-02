@@ -11,7 +11,7 @@ Ia praștia-n mână, fii victorios!
 Luptă-te, luptă-te și nu fi fricos!
 
 [chorus]
-/: Prin credință, prin credință
+/: Prin credință, prin credință,
 David a înaintat
 Cu o praștie și-o piatră
 L-a învins pe Goliat. :/
@@ -36,6 +36,6 @@ Luptă-te, luptă-te, și vei birui!
 
 [5]
 Afară-s fricoșii, tu nu fi fricos,
-Mergi cu credincioșii în pas glorios,
+Mergi cu credincioșii în pas glorios.
 Luptă-te, ca David, azi cu Goliat,
 Luptă-te, luptă-te, cum el s-a luptat!
