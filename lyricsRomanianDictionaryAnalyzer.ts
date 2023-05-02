@@ -113,7 +113,11 @@ const analyzeAndGet = (dir: string, speller: NSpell) => {
   );
 
   const rawWords = analyzeAndGet(process.env.VERIFIED_DIR, speller);
-  const unknownOrIncorrectWords = _.uniq(rawWords).sort();
+  const unknownOrIncorrectWords = _.without(
+    _.uniq(rawWords).sort(),
+    CARRIAGE_RETURN,
+    NEW_LINE,
+  );
 
   if (!_.isEmpty(unknownOrIncorrectWords)) {
     console.log(

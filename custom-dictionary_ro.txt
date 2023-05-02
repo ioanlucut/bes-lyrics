@@ -11,6 +11,7 @@ Acolo-L
 Acolo-i
 Acolo-n
 Acol’
+Ades
 Adesea-am
 Ades’
 Adonai
@@ -286,6 +287,7 @@ Inimile-s
 Intrat-ai
 Ioel
 Ispitiți
+Israel
 Isus-L
 Isus-naintea
 Isuse
@@ -485,7 +487,6 @@ Privește-L
 Privind
 Proclamăm
 Proslăvește-Ți
-Prosternă-te
 Proșterne-te
 Pruncul-Împărat
 Pune
@@ -785,7 +786,6 @@ acolo-n
 acol’
 acum-nainte
 aderă
-ades
 ades’
 adevăru-ntreg
 admiră
@@ -1174,8 +1174,8 @@ către-un
 căzuți
 căzătoare
 d-adorare
+da
 da-i
-daa
 dac-adesea-s
 dac-ai
 dac-aș
@@ -1491,7 +1491,6 @@ inundă-mi
 ispite-adesea
 ispite-n
 ispitele-n
-israel
 israeliți
 istoviți
 iubea
