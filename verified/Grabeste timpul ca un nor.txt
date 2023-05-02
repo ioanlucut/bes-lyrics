@@ -12,7 +12,7 @@ Se duc în infinit!
 
 [chorus]
 /: În grabă trece viața ta
-Și ziua ta s-a dus
+Și ziua ta s-a dus.
 O, vino azi, în plină zi,
 La crucea lui Isus,
 La crucea lui Isus! :/
@@ -25,6 +25,6 @@ Fii treaz și veghetor!
 
 [3]
 Te-ntreb dar, suflete iubit,
-Suflet ce rătăcești
+Suflet ce rătăcești,
 Pe tine cum te va găsi
 Mirele nost’ ceresc?
