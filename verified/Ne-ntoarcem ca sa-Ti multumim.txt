@@ -2,7 +2,7 @@
 Ne-ntoarcem ca să-Ți mulțumim
 
 [sequence]
-1,c,2,c
+1,2,c,3,4
 
 [1]
 Ne-ntoarcem ca să-Ți mulțumim,
@@ -10,6 +10,7 @@ Părinte veșnic și divin,
 Căci Tu prin harul minunat,
 Mereu ne-ai binecuvântat.
 
+[2]
 Ne-ntoarcem ca să-Ți mulțumim,
 Căci de la Tine noi primim,
 Viața din izvor ceresc,
@@ -21,12 +22,13 @@ Căci Tu ne dai, iar noi primim,
 Îți mulțumim, Îți mulțumim,
 Acum și-n veci de veci, Amin! :/
 
-[2]
+[3]
 Ne-ntoarcem ca să-Ți mulțumim,
 Cu mic, cu mare, toți venim,
 Că-n fiecare ceas sau zi,
 Cu mâna Ta ne vei păzi.
 
+[4]
 Ne-ntoarcem ca să-Ți mulțumim,
 Căci ne iubești și Te iubim.
 Tu singur, Doamne, ne poți da
