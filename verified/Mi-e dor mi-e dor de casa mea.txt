@@ -5,9 +5,9 @@ Mi-e dor, mi-e dor de casa mea
 1,c,2,c,3,c,4,c,5,c
 
 [1]
-Mi-e dor, mi-e dor de casa mea
+Mi-e dor, mi-e dor de casa mea,
 S-ajung acolo eu aș vrea.
-Mi-e dor, mi-e dor de Tatăl meu
+Mi-e dor, mi-e dor de Tatăl meu,
 Aș vrea să văd pe fiul Său.
 
 [chorus]
@@ -25,7 +25,7 @@ Să-I mulțumesc că m-a iubit.
 [3]
 Să plec, să plec de aici de jos,
 S-ajung în țara lui Hristos,
-Că eu aici am suspinat
+Că eu aici am suspinat,
 Acolo voi fi mângâiat.
 
 [4]
