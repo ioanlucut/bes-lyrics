@@ -5,19 +5,15 @@ Mi-am pus nădejdea-n tine
 1,c,2,c,3,c
 
 [1]
-Mi-am pus nădejdea-n Tine,
-Mi-am pus nădejdea-n Tine
+/: Mi-am pus nădejdea-n Tine, :/
 Să nu fiu dat de rușine!
-
-Mi-am pus nădejdea-n Tine,
-Mi-am pus nădejdea-n Tine,
-Vrăjmașii mei
-Să nu se bucure de mine!
+/: Mi-am pus nădejdea-n Tine, :/
+Vrăjmașii mei să nu se bucure de mine!
 
 [chorus]
 În Tine e nădejdea mea,
 În Tine e speranța mea!
-Doar prin Tine, izbăvire voi primi
+Doar prin Tine, izbăvire voi primi,
 Cu Tine ne-ncetat voi birui,
 Domnul meu!
 
