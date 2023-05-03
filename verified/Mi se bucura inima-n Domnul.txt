@@ -5,7 +5,7 @@ Mi se bucură inima-n Domnul
 1,c,2,c,3,c
 
 [1]
-Mi se bucură inima-n Domnul,
+Mi se bucură inima-n Domnul
 Căci puterea mea El a-nălțat.
 Spre vrăjmași gura larg mi-a deschis-o
 Cu-ajutorul Lui m-a mângâiat.
@@ -18,12 +18,12 @@ Dumnezeu, Sfântul lui Israel!
 
 [2]
 Nu vorbiți, cu atâta-ngâmfare,
-Nu rostiți al mândriei cuvânt,
+Nu rostiți al mândriei cuvânt
 Căci El e-un Dumnezeu care știe
 Cântări tot ce faci pe pământ.
 
 [3]
 Arcul celor puternici sfărmat-a
-Și cei slabi cu putere-s încinși;
+Și cei slabi cu putere-s încinși.
 Cei flămânzi au acuma odihnă,
 Cei sătui azi de foame-s învinși.
