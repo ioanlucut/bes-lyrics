@@ -2,7 +2,7 @@
 Mai mult din Tine vreau Isus
 
 [sequence]
-1,c,1,c,b,c
+1,c,2,c,b,c
 
 [1]
 Mai mult din Tine vreau Isus,
@@ -10,6 +10,7 @@ Mai mult din Tine vreau Isus,
 Să am mereu privirea-n sus,
 Lumina să se vadă în mine!
 
+[2]
 Mai mult ca Tine vreau Isus,
 În toate să m-aseamăn cu Tine!
 Un cetățean al cerului,
