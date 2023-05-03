@@ -1,11 +1,11 @@
 [title]
-Ne-ai ales că să trăim
+Ne-ai ales ca să trăim
 
 [sequence]
 1,c,2,c
 
 [1]
-Ne-ai ales că să trăim,
+Ne-ai ales ca să trăim,
 Ne-ai chemat să Te slujim,
 Înnoiți de-al Tău Cuvânt,
 În purtare și în gând.
