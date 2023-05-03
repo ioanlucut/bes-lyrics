@@ -5,14 +5,15 @@ Mai presus de orice, de credință, de-avânt
 1,2,3,4
 
 [1]
-Mai presus de orice, de credință, de-avânt,
-De-orice dar care biruie firea,
+Mai presus de orice, 
+De credință, de-avânt,
+De-orice dar care biruie firea.
 /: Mai presus de minuni,
 De puteri, de cununi,
 Mai presus de orice e iubirea. :/
 
 [2]
-Prin credință răstorni
+Prin credință răstorni 
 Munți înalți și cetăți
 Și-ți arunci peste veacuri privirea.
 /: Dar, în cele cerești,
@@ -20,9 +21,9 @@ Ești atât cât iubești,
 Mai presus de orice e iubirea! :/
 
 [3]
-Dumnezeu e măreț,
+Dumnezeu e măreț, 
 Gem în cale-I furtuni,
-Se cutremură toată zidirea
+Se cutremură toată zidirea.
 /: Dar, în susurul blând,
 Îl auzi murmurând:
 Mai presus de orice e iubirea! :/
@@ -30,7 +31,7 @@ Mai presus de orice e iubirea! :/
 [4]
 Pregătiți-vă, stânci,
 Pentru templul etern!
-Orice piatră își are menirea;
+Orice piatră își are menirea.
 /: Chiar pământu-i primit,
 Căci Isus l-a sfințit
 Când a scris pe pământ ce-i iubirea! :/
