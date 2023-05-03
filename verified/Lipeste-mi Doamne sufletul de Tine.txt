@@ -2,28 +2,28 @@
 Lipește-mi, Doamne, sufletul de Tine
 
 [sequence]
-1,c,2,c,3,c
+1,2,3,4
 
 [1]
 Lipește-mi, Doamne, sufletul de Tine,
-Mai mult ca floarea veșnică de stânci
-Să uit de ani, de lume și de mine
-Și să privesc adânc în ochii Tăi adânci.
-
-[chorus]
-/: Lipește-mi, Doamne, sufletul de Tine,
-Din visul meu să nu mă mai deștept,
-Să simt și slava zărilor senine
-Și inima de om ce-Ți bate-n piept. :/
+Mai mult ca floarea veșnică de stânci,
+/: Să uit de ani, de lume și de mine
+Și să privesc adânc în ochii Tăi adânci. :/
 
 [2]
 Lipește-mi, Doamne, sufletul de Tine,
-Ca pe-un levit de altarul său divin
-Să n-am nici plug în văi, nici holde pline,
-Ci Tu să-mi fii și pâine-n veci și vin.
+Din visul meu să nu mă mai deștept,
+/: Să simt și slava zărilor senine
+Și inima de om ce-Ți bate-n piept. :/
 
 [3]
+Lipește-mi, Doamne, sufletul de Tine,
+Ca pe-un levit de altarul său divin,
+/: Să n-am nici plug în văi, nici holde pline,
+Ci Tu să-mi fii și pâine-n veci și vin. :/
+
+[4]
 Lipește-mi, Doamne, sufletul de Tine
 Ca pe-o ființă smulsă de la greu.
-Ridică-mă din valea de suspine
-Și ascunde-mă cu Tine-n Dumnezeu.
+/: Ridică-mă din valea de suspine
+Și ascunde-mă cu Tine-n Dumnezeu. :/
