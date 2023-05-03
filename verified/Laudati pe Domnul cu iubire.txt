@@ -5,9 +5,9 @@ Lăudați pe Domnul cu iubire
 1,c,2,c,3,c,4,c
 
 [1]
-Lăudați pe Domnul cu iubire,
+Lăudați pe Domnul cu iubire
 Căci El pentru noi S-a jertfit.
-Cântați-I și dați-I mărire,
+Cântați-I și dați-I mărire
 Căci El pentru noi a murit.
 
 [chorus]
@@ -15,7 +15,7 @@ Căci El pentru noi a murit.
 /: Lăudați :/ Pe Cel ce atât ne-a iubit!
 
 [2]
-Lăudați minunata-I putere
+Lăudați minunata-I putere,
 Care boldul morții a frânt
 Și, prin glorioasa-nviere,
 Ajuns-a la Tatăl Preasfânt.
