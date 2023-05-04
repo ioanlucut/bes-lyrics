@@ -2,7 +2,7 @@
 Noi știm că Domnul Dumnezeu
 
 [sequence]
-1,p,c,2,b,3,c
+1,p,c,2,p,c,b,3,c
 
 [1]
 Noi știm că Domnul Dumnezeu
