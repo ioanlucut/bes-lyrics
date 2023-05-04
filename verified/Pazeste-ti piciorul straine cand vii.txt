@@ -5,7 +5,7 @@ Păzește-ți piciorul, străine, când vii
 1,c,2,c,3,c,4,c
 
 [1]
-Păzește-ți piciorul străine, când vii
+Păzește-ți piciorul, străine, când vii
 În cortul întâlnirii.
 Aici este poarta Dumnezeului viu,
 Cetatea nemuririi.
@@ -18,7 +18,7 @@ Aici domnește Isus.
 
 [2]
 Aici vin copii săraci și orfani,
-Aici vin părinți cu durere
+Aici vin părinți cu durere,
 Aici vin bătrâni necăjiți și sărmani,
 Să simtă-n Isus mângâiere.
 
