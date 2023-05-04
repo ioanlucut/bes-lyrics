@@ -2,13 +2,7 @@
 O laudă e cântarea mea
 
 [sequence]
-1,c,2,c,3,c,4,c
-
-[1]
-O laudă e cântarea mea,
-Un imn frumos de bucurie,
-O laudă îmi cântă inima,
-Mărit să fie Domnul pe vecie.
+c,1,c,2,c,3,c,4,c
 
 [chorus]
 Sfânt, sfânt, sfânt,
@@ -16,6 +10,12 @@ E Numele Lui mare,
 Sfânt a fost și e din veșnicii,
 Sfânt și bun, alin și desfătare
 Este Domnul pentru-ai Săi copii.
+
+[1]
+O laudă e cântarea mea,
+Un imn frumos de bucurie,
+O laudă îmi cântă inima,
+Mărit să fie Domnul pe vecie.
 
 [2]
 Căci Domnul e tăria mea,
