@@ -13,7 +13,7 @@ Ce dragoste mare, dragoste mare.
 [chorus]
 /: Isus Mesia, Nume puternic,
 Mântuitorul, Emanuel,
-El e Adevărul, calea spre viață
+El e Adevărul, calea spre viață,
 Isus Mesia, Domnul tuturor. :/
 
 [2]
@@ -29,5 +29,5 @@ Domnul nostru ești Tu,
 Măreț Dumnezeu!
 
 [ending]
-Isus Mesia, Domnul tuturor
+Isus Mesia, Domnul tuturor,
 El, Isus, Domnul tuturor!
