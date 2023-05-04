@@ -37,7 +37,7 @@ Iată, Eu voi face,
 Eu voi face lucruri noi!
 
 [bridge]
-/: Atunci șchiopii vor sări
+/: Atunci șchiopii vor sări,
 Orbii vor vedea,
 Surzii vor auzi,
 Iar glasul celor muți va cânta! :/
