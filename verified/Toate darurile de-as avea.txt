@@ -5,7 +5,7 @@ Toate darurile de-aș avea
 1,c,2,c,3,c
 
 [1]
-Toate darurile de-aș avea
+Toate darurile de-aș avea,
 Să vorbesc doar în limbi și să cânt
 Și averea să o împart de-aș avea
 Fără dragoste nimic nu sunt.
@@ -25,5 +25,5 @@ Ea în viață ne aduce doar alin.
 [3]
 Mai rămân azi doar acestea trei,
 Credința, nădejdea, dragostea,
-Dar mai mare din toate acestea,
+Dar mai mare din toate acestea
 Este și va rămâne dragostea.
