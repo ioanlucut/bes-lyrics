@@ -2,7 +2,7 @@
 Vino Duhule Sfânt peste mine
 
 [sequence]
-
+1
 
 [1]
 Vino Duhule Sfânt peste mine

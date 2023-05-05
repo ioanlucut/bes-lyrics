@@ -1,17 +1,18 @@
 [title]
 Credincios ești să ne conduci
-[sequence]
-1
-[1]
+
+[sequence]
+c,1,c,1
+
 [chorus]
 /: CREDINCIOS EȘTI SĂ NE CONDUCI,
 NUMAI TU POȚI SĂ NE AJUȚI,
 TU LUMINEZI CALEA ȘI VIAȚA MEA,
 VREDNIC SĂ NE CONDUCI :/
-[2]
+
+[1]
 Lumina Ta vrem s-o răspândim,
 Numele să-Ți înălțăm
 Împărăția Ta va veni
-Vino,
-Doamne.
+Vino, Doamne.
 Credincios, credincios. (4x)

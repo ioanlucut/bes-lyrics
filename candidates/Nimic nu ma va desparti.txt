@@ -1,43 +1,50 @@
 [title]
 Nimic nu mă va despărți
-[sequence]
-1,2,3,4,5,6,7
-[1]
+
+[sequence]
+1,2,p,c,3,4,p,c,5,6,p,c
+
+[1]
 Nimic nu mă va despărți
 De dragostea lui Dumnezeu,
 Căci la Golgota Fiul Său
 Muri pentru păcatul meu.
-[2]
+
+[2]
 Cum aș putea să răsplătesc
 Iubirea unui Fiu ceresc,
 Viața mea Îi dăruiesc
 Și-I cânt mereu că Îl iubesc.
-[3]
+
 [prechorus]
 NU-I NIMIC ȘI NIMENI ÎN LUMESĂ NE POATĂ DESPĂRȚI,
 NU NI-E FRICĂ IADUL,
 NICI MOARTEAPE ISUS ÎL VOM IUBI.
-[4]
+
 [chorus]
 NU-I NIMIC ȘI NIMENI ÎN LUMESĂ NE POATĂ DESPĂRȚI,
 VREM CU ISUS SĂ FIM ÎN SLAVĂ,
 ADĂ DOAMNE-ACEEA ZI.
-[5]
+
+[3]
 În viață cânt și-s fericit
 Că-L am pe El și-s mântuit,
 El împlinește ruga mea,
 Căci ține-n veci iubirea Sa.
-[6]
+
+[4]
 În viață-am fost împovărat,
 Iubirea El mi-a arătat,
 Povara, greul mi-a luat,
 Isus în veci fii lăudat.
-[7]
+
+[5]
 Vedem acum cu-adevărat
 Că vremea s-a apropiat,
 Venirea lui Isus curând
 Va răsuna pe-ntreg pământ.
-[8]
+
+[6]
 De dragostea lui Dumnezeu,
 De harul dat prin Fiul Său,
 Creștini să nu vă despărțiți,

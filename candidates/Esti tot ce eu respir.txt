@@ -1,12 +1,15 @@
 [title]
 Ești tot ce eu respir
-[sequence]
-1
-[1]
+
+[sequence]
+c,b,c
+
 [chorus]
 /: Ești tot ce eu respir :/
 Când sunt cu tine, cerul ating,
-/: Ești tot ce eu doresc :/Și doar cu Tine Doamne trăiesc.
-[2]
+/: Ești tot ce eu doresc :/
+Și doar cu Tine Doamne trăiesc.
+
+[bridge]
 ȘI VREAU DIN TINE MAI MULT,
 ȘI VREAU DE TINE S-ASCULT.

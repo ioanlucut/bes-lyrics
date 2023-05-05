@@ -1,9 +1,10 @@
 [title]
-In betleem
-[sequence]
-1,2
-[1]
-[chorus]
+In Betleem
+
+[sequence]
+1,2,3
+
+[1]
 /: În Betleem, da, în Betleem
 E o mare minune. :\
 HRISTOS,
@@ -14,8 +15,8 @@ MAGII ÎL ADORĂ
 PĂSTORI ALEARGĂ
 IESLEA O-NCONJOARĂ
 MARI MINUNI SE ÎNTÂMPLARĂ
-[2]
-[chorus]
+
+[2]
 /: Căci El a venit, căci El a venit
 Să mântuie tot omul. :\
 HRISTOS,
@@ -26,8 +27,8 @@ MAGII ÎL ADORĂ
 PĂSTORI ALEARGĂ
 IESLEA O-NCONJOARĂ
 MARI MINUNI SE ÎNTÂMPLARĂ
-[3]
-[chorus]
+
+[3]
 /: Toți să-I dăm loc, dar, toți să-I dăm loc
 În inimi să se nască. :\
 HRISTOS,

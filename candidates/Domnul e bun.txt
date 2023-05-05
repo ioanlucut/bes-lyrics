@@ -1,8 +1,9 @@
 [title]
 Domnul e bun
-[sequence]
-1
-[1]
+
+[sequence]
+c,1,c,1
+
 [chorus]
 DOMNUL E BUN,
 NOI CÂNTĂM CU TOȚII
@@ -12,7 +13,8 @@ DOMNUL E BUN,
 FĂRĂ ÎNDOIALĂ
 DOMNUL E BUN,
 ÎN VECI DE VECI.
-[2]
+
+[1]
 Când mă gândesc la iubirea Sa
 În inima mea este mare bucurie,
 Căci pentru mine El s-a jertfit

@@ -1,8 +1,10 @@
 [title]
 Ma-ncred în tine
-[sequence]
-1
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Isus,
 Domnul meu inima mi-ai spălat
 În sânge sfânt
@@ -13,7 +15,7 @@ Căci doar Tu m-a salvat,
 Tu m-ai salvat
 N-ascund nimic, comoara mi-e în Tine
 Și declar, și declar
-[2]
+
 [chorus]
 ISUS EU MĂ-NCRED ÎN TIN’ ȘI AM SĂ MERG
 PÂN’ LA MARGINI DE LUMI,

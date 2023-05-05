@@ -1,8 +1,10 @@
 [title]
 Eu te iubesc și glasul mi-l inalt
-[sequence]
 
-[1]
+[sequence]
+1,1
+
+[1]
 EU TE IUBESC ȘI GLASUL MI-L ÎNALȚ
 SĂ TE SLĂVESC DOMNUL MEU ISUS,
 PRIMEȘTE ACUM LAUDA CE-O CÂNT

@@ -1,29 +1,30 @@
 [title]
 Indeajuns mi-e doamne
-[sequence]
-1,2,3
-[1]
-[chorus]
+
+[sequence]
+1,2,3,4
+
+[1]
 /: Îndeajuns mi-e Doamne, doar Harul Tău :/
 /: Te laud Doamne,
 Te preamăresc,
 Îmi ridic mâinile spre cer și Te slăvesc :/
-[2]
-[chorus]
+
+[2]
 /: Îndeajuns mi-e Doamne,
 Cuvântul Tău :/
 /: Te laud Doamne,
 Te preamăresc,
 Îmi ridic mâinile spre cer și Te slăvesc :/
-[3]
-[chorus]
+
+[3]
 /: Îndeajuns mi-e Doamne,
 Iubirea Ta :/
 /: Te laud Doamne,
 Te preamăresc,
 Îmi ridic mâinile spre cer și Te slăvesc :/
-[4]
-[chorus]
+
+[4]
 /: Mă-nchin în fața tronului Sfânt :/
 /: Te laud Doamne,
 Te preamăresc,

@@ -1,28 +1,31 @@
 [title]
 Noi venim în casa ta
-[sequence]
-1,2,3,4,5
-[1]
-[chorus]
+
+[sequence]
+1,2,3,4,5,6
+
+[1]
 /: Noi venim în casa Ta
 Să ne-nchinăm toți acum :/
 Îți aducem mulțumiri,
 Din inimă slavă, glorie,
 Îți aducem mulțumiri, din inimă laudă.
-[2]
+
+[2]
 Voi veni cu bucurie înaintea Domnului,
 Voi veni cu mulțumire-n casa Lui,
 Această zi e-a Domnului
 Deci, să ne bucurăm în ea
 Cântându-I glorie, aleluia.
-[3]
-[chorus]
+
+[3]
 /: Eu sunt fericit, eu sunt fericit
 Sunt fericit căci El m-a mântuit :/
 /: OSANA,
 LAUDĂ DOMNULUI,
 LAUDĂ DOMNULUI CE M-A SALVAT :/
-[4]
+
+[4]
 Vrednic ești să fi lăudat,
 Ești vrednic să fi lăudat
 Voi cânta numelui Tău,
@@ -30,15 +33,15 @@ Ești vrednic să fi lăudat.
 /: OSANA,
 LAUDĂ DOMNULUI,
 LAUDĂ DOMNULUI CE M-A SALVAT :/
-[5]
-[chorus]
+
+[5]
 /: Voi cânta numelui Tău,
 Ești vrednic să fii lăudat :/
 /: OSANA,
 LAUDĂ DOMNULUI,
 LAUDĂ DOMNULUI CE M-A SALVAT :/
-[6]
-[chorus]
+
+[6]
 /: Aleluia,
 Amin,
 Aleluia

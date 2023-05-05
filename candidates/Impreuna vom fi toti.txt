@@ -1,17 +1,14 @@
 [title]
 Impreuna vom fi toti
-[sequence]
-1
-[1]
+
+[sequence]
+c,b,c,b
+
 [chorus]
 /: Împreună vom fi toți
 În prezența Domnului
 Și vom cânta: ”Aleluia
 Rege-al Regilor” :/
-[2]
-[chorus]
-/: STRIGĂM:
-„SFÂNT,
-SFÂNT,
-SFÂNT
-ESTE DOMNUL NOSTRU ATOTPUTERNICUL” :/
+
+[bridge]
+/: STRIGĂM: „SFÂNT, SFÂNT, SFÂNT ESTE DOMNUL NOSTRU ATOTPUTERNICUL” :/

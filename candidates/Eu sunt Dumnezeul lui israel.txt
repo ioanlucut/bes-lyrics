@@ -1,13 +1,16 @@
 [title]
 Eu sunt Dumnezeul lui Israel
-[sequence]
-1
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Eu sunt Dumnezeul lui Israel,
 Dumnezeul bisericii
 Când eu voi striga trâmbița va răsuna,
 Poporul meu se va aduna.
-[2]
+
+[chorus]
 ANOHI ELOHEI ISRAEL,
 WE ELOHEI HAKAHAL
 AȘER ANI EKRA,

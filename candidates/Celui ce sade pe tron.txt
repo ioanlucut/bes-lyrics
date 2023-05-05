@@ -1,9 +1,9 @@
 [title]
 Celui ce sade pe tron
-[sequence]
 
-[1]
-[chorus]
+[sequence]
+1
+
 /: Celui ce șade pe tron
 Și Mielului sfânt :/
 /: Să-i fie onoare și glorie,

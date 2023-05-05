@@ -1,13 +1,15 @@
 [title]
 Hai e timpul de-nchinare
-[sequence]
-1
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Hai, e timpul de-nchinare
 Hai, e timpul să-i dai inima
 Hai, să cânte fiecare
 Hai, așa cum ești cu starea ta, hai.
-[2]
+
 [chorus]
 /: VINE-O ZI CÂND TOȚI SE VOR ÎNCHINA,
 VINE-O ZI CÂND TOȚI VOR CÂNTA

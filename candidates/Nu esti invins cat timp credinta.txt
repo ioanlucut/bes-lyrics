@@ -1,24 +1,31 @@
 [title]
 Nu ești învins cât timp credința
-[sequence]
-1,2,3
-[1]
+
+[sequence]
+1,c,2,t
+
+[1]
 Nu ești învins cât timp credința
 Nu ți-ai pierdut și nu s-a stins,
 Credința iarăși te ridică,
 Poți fi căzut, dar nu învins.
-[2]
+
 [chorus]
-/: NU EȘTI ÎNFRÂNT CÂT AI NĂDEJDEȘI ȚELUL EI RĂMÂNE SFÂNT,
+/: NU EȘTI ÎNFRÂNT CÂT AI NĂDEJDE
+ȘI ȚELUL EI RĂMÂNE SFÂNT,
 NĂDEJDEA IARĂȘI TE-NTĂREȘTE,
 POȚI FI TRÂNTIT,
 DAR NU ÎNFRÂNT :/
-[3]
+
+[2]
 Nu ești zdrobit cât ai iubirea
 Curată și de neclintit,
 Iubirea iarăși te înalță,
 Poți fi călcat, dar nu zdrobit.
-[4]
-[chorus]
+
+[chorus 2]
 /: BIRUITORI,
-EROI ȘI VREDNICISUNT NUMAI CEI CE NECLINTITDUC LEGĂMÂNTUL PÂN’ LA JERTFĂȘI LUPTĂ PÂNĂ LA SFÂRȘIT :/
+EROI ȘI VREDNICI
+SUNT NUMAI CEI CE NECLINTIT
+DUC LEGĂMÂNTUL PÂN’ LA JERTFĂ
+ȘI LUPTĂ PÂNĂ LA SFÂRȘIT :/

@@ -1,17 +1,18 @@
 [title]
 Numai tu ești domn
-[sequence]
-1
-[1]
-[chorus]
+
+[sequence]
+1,2
+
+[1]
 /: Numai Tu ești Domn,
 Numai Tu ești Sfânt :/
 Te voi lăuda,
 Te voi înălța.
 /: CĂCI TU EȘTI DOMN,
 TU EȘTI DOMN :/
-[2]
-[chorus]
+
+[2]
 /: Ție mă închin,
 Ție vreau să-Ți cânt :/
 Te voi lăuda,
