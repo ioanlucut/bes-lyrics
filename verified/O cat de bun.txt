@@ -1,5 +1,5 @@
 [title]
-O cât de bun
+O, cât de bun
 
 [sequence]
 1,c,2,c,b,3,c
@@ -25,7 +25,7 @@ Sunt salvat, întregit,
 Pe deplin acceptat.
 În Isus sunt vindecat,
 Tatăl mi-a dat favoare,
-Sunt fiul său,
+Sunt fiul Său,
 Toată viața-L voi lăuda.
 
 [3]
