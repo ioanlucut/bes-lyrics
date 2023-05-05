@@ -1,16 +1,16 @@
 [title]
-Tată Te slăvesc
+Tată, Te slăvesc
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Tată Te slăvesc,
+Tată, Te slăvesc,
 Te ador și-Ți mulțumesc,
 Fii glorificat în veci de veci!
 
 [chorus]
-/: Fii glorificat, fii glorificat
+/: Fii glorificat, fii glorificat,
 Fii glorificat în veci de veci! :/
 
 [2]
@@ -19,6 +19,6 @@ Te ador și-Ți mulțumesc,
 Fii glorificat în veci de veci!
 
 [3]
-Duh Sfânt Te slăvesc,
+Duh Sfânt, Te slăvesc,
 Te ador și-Ți mulțumesc,
 Fii glorificat în veci de veci!
