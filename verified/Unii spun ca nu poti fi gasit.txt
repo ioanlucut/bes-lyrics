@@ -2,15 +2,15 @@
 Unii spun că nu poți fi găsit
 
 [sequence]
-1,c,1,c,b,c
-
-[1]
-Unii spun că nu poți fi găsit,
-Alții spun că nu poți fi văzut,
-Dar știu că-n mine, Doamne, Tu trăiești
-Și-n inimă eu vreau să îmi vorbești.
+c,1,c,1,b,c
 
 [chorus]
+/: Unii spun că nu poți fi găsit,
+Alții spun că nu poți fi văzut,
+Dar știu că-n mine, Doamne, Tu trăiești
+Și-n inimă eu vreau să îmi vorbești. :/
+
+[1]
 Tu ești bun și iubirea Ta e-n mine,
 Tu ești bun și iubirea Ta rămâne,
 Tu ești bun și iubirea Ta e-n mine,
