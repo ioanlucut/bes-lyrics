@@ -1,23 +1,28 @@
 [title]
 Ce mare și bun minunat și slăvit
-[sequence]
-1,c,2,c
-[1]
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
 Ce mare și bun, minunat și slăvit
 E Isus al meu bun Păstor;
 El m-a ocrotit printre stânci de granit
 Lângă al vieții izvor.
-[chorus]
+
+[chorus]
 El m-a ocrotit printre stânci de granit,
 Deasupra uscatelor văi.
 Cu mâna Lui tare mereu m-a umbrit
 /: Pe urmele pașilor Săi :/
-[2]
+
+[2]
 Ce bun Salvator, minunat și slăvit;
 Povara mea El a purtat.
 El m-a ridicat și voi sta neclintit,
 Pe culmea iubirii salvat.
-[3]
+
+[3]
 Și-n slavă-mbrăcat când mă voi ridica,
 Să-I ies înainte pe nori,
 Salvarea măreață și-atunci voi cânta
