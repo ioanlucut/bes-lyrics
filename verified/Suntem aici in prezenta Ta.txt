@@ -1,13 +1,13 @@
 [title]
-Suntem aici în prezența Ta
+Suntem aici, în prezența Ta
 
 [sequence]
 1,c,1,c
 
 [1]
-Suntem aici în prezența Ta,
+Suntem aici, în prezența Ta,
 O, Doamne, vrem să Te-ascultăm,
-Să Te lăudăm, o, Doamne.
+Să Te lăudăm, o, Doamne!
 Duhul Tău cel Sfânt
 Revarsă-L peste noi, Isuse,
 Pacea Ta cerească,
