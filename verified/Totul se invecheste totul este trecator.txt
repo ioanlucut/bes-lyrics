@@ -5,7 +5,7 @@ Totul se învechește, totul este trecător
 1,c,2,c,3,c
 
 [1]
-Totul se învechește, totul este trecător
+Totul se învechește, totul este trecător,
 Floarea se ofilește atât de ușor.
 Totul ce-i aici se va termina,
 Iar Dumnezeu în veci va rămânea.
