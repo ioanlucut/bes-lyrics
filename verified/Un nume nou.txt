@@ -18,7 +18,8 @@ Nu mai sunt același!
 [prechorus]
 Azi sunt o făptură nouă-n Cristos.
 Cele vechi s-au dus,
-Totu-i nou și prin credință trăiesc.
+Totu-i nou și 
+Prin credință trăiesc.
 
 [chorus]
 Un nume nou s-a scris în veșnicie
@@ -28,7 +29,7 @@ Domnul meu, Dumnezeu.
 
 [2]
 Păcatul m-a orbit,
-dar ochii El mi-a deschis
+Dar ochii El mi-a deschis
 Să văd lumina Sa.
 Nu mai sunt același!
 

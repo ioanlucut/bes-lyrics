@@ -1,5 +1,5 @@
 [title]
-O cât de bun
+O, cât de bun
 
 [sequence]
 1,c,2,c,b,3,c
@@ -11,7 +11,7 @@ Ai hotărât să fiu al Tău,
 Plătind cu-al Tău sânge.
 
 [chorus]
-/: O, cât de bun :/ (3x)
+/: O, cât de bun, :/ (3x)
 Doamne ești cu min’!
 
 [2]
@@ -30,6 +30,6 @@ Toată viața-L voi lăuda.
 
 [3]
 Iar încercări când vor veni,
-Doamne adu-mi aminte:
+Doamne, adu-mi aminte:
 Destinul meu e-n mâna Ta,
 Te-ai dat pentru mine.

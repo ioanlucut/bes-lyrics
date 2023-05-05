@@ -13,7 +13,8 @@ Cu al meu Salvator.
 [chorus]
 Slavă Mielului Preasfânt
 Ce pentru mine-a murit!
-Aleluia! Aleluia! Aleluia! Amin!
+Aleluia! Aleluia! 
+Aleluia! Amin!
 
 [2]
 Mi-a spus Isus și mi-a promis,
@@ -29,6 +30,6 @@ Unde îngerii cânt’.
 
 [4]
 O, frați, surori, suntem voioși,
-Chiar de pe-acest pământ
+Chiar de pe-acest pământ.
 Lumini din ceruri unde noi
 Vom ajunge în curând.

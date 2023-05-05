@@ -2,19 +2,19 @@
 Veniți să Îi mulțumim
 
 [sequence]
-c,1,2,3,c,e
+1,c,2,t,e
 
-[chorus]
+[1]
 /: Veniți să Îi mulțumim,
 Veniți să Îl preamărim,
 Pe Cel Atotputernic,
 Dumnezeu minunat! :/
 
-[1]
+[chorus]
 Când sunt slab, El e tare,
 Când sunt mic, El e mare,
 Zi de zi prezența Lui
-O simt în viața mea;
+O simt în viața mea.
 De aceea acum să Îi cântăm,
 Al Său Nume să-nălțăm,
 Pe Isus-L preamărim cu toți!
@@ -25,10 +25,11 @@ Pe Isus-L preamărim cu toți!
 L-ai dat pe Isus jertfă
 Ca să fiu iertat. :/
 
-[3]
-Prin EL, de-s sărac, azi sunt bogat
+[chorus 2]
+Prin EL, de-s sărac, azi sunt bogat,
 De-s flămând, sunt săturat,
-De sunt pierdut, prind Isus sunt salvat
+De sunt pierdut, 
+Prin Isus sunt salvat.
 Prin El, de-s căzut, sunt ridicat,
 De-s bolnav, sunt vindecat,
 Cu Dumnezeu, Isus m-a împăcat!

@@ -12,7 +12,7 @@ Privind spre albastrele zări.
 
 [chorus]
 /: Te plânge izvorul din vale
-Și raza de soare-n amurg
+Și raza de soare-n amurg,
 Se scutură florile-n cale
 Și stelele toate se-ascund. :/
 
@@ -37,5 +37,5 @@ Se-ndreaptă al meu Salvator.
 [ending]
 /: Părinte-al iubirii sublime,
 O, iartă cumplitul păcat!
-Al Meu duh se-ndreaptă spre Tine
+Al Meu duh se-ndreaptă spre Tine,
 O, iartă-i, căci nu știu ce fac! :/

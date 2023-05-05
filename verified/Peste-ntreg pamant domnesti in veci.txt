@@ -5,7 +5,7 @@ Peste-ntreg pământ domnești în veci
 1,c,2,c
 
 [1]
-Peste-ntreg pământ domnești în veci
+Peste-ntreg pământ domnești în veci,
 Cerul în amurg, munții stăpânești,
 Dar mai mult de-atât,
 Doamne, eu doresc
@@ -13,7 +13,7 @@ Ca Tu în mine să domnești.
 
 [chorus]
 Tu să domnești în viața mea,
-Vreau să fiu umplut de puterea Ta,
+Vreau să fiu umplut de puterea Ta
 Căci tot ce am, Tu stăpânești
 Și vreau ca-n mine să domnești!
 

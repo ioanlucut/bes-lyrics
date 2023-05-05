@@ -5,9 +5,11 @@ Numele Tău e ’nălțat, printre neamuri e lăudat
 1,c,2,c,b,c
 
 [1]
-Numele Tău e ’nălțat, printre neamuri e lăudat,
+Numele Tău e ’nălțat, 
+Printre neamuri e lăudat,
 Puterea Ta este vestită pe-ntreg pământ.
-Vrednic de cinste ești Tu, se cuvine să ne-nchinăm
+Vrednic de cinste ești Tu, 
+Se cuvine să ne-nchinăm
 Înaintea Ta, în fața Ta, Doamne!
 
 [chorus]
@@ -15,7 +17,7 @@ Voi înălța Numele Tău!
 Voi proclama domnia-Ți pe pământ!
 Voi arăta puterea sângelui Tău sfânt!
 Dorința mea va fi a Ta,
-Voi face, Doamne, numai voia Ta
+Voi face, Doamne, numai voia Ta,
 Cât voi trăi pe-acest pământ să Te slujesc!
 
 [2]

@@ -5,9 +5,9 @@ Lumina lumii, prezență divină
 1,c,2,c,e,c
 
 [1]
-Lumina lumii, prezență divină
+Lumina lumii, prezență divină,
 Ajută-mă să-nțeleg
-Cât de frumos ne-ai creat pentru Tine
+Cât de frumos ne-ai creat pentru Tine,
 Speranță ne-ai dăruit.
 
 [chorus]
@@ -18,7 +18,7 @@ Numai Tu ești veșnic,
 Doamne, numai Tu ești minunat!
 
 [2]
-Rege etern ce domnești sus în ceruri
+Rege etern, ce domnești sus în ceruri
 La dreapta lui Dumnezeu,
 În umilință venit-ai în lume
 Din dragoste Te-ai jertfit.

@@ -1,11 +1,11 @@
 [title]
-Veniți creștini la rugăciune
+Veniți, creștini, la rugăciune
 
 [sequence]
 1,2,3,4,5
 
 [1]
-Veniți creștini la rugăciune
+Veniți, creștini, la rugăciune
 În casa Tatălui Preasfânt,
 /: Veniți să vă plecați genunchii
 Și fața voastră la pământ. :/
@@ -31,5 +31,5 @@ Cei osteniți și apăsați.
 [5]
 Răsună munți, răsună dealuri,
 Pământu-ntreg de glasul sfânt.
-/: Se pleacă-n fața Lui natura
+/: Se pleacă-n fața Lui natura,
 Văzduhu-ntreg cu nori și vânt. :/

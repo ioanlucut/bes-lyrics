@@ -1,12 +1,12 @@
 [title]
-Pentru noi s-a ivit mântuirea;
+Pentru noi s-a ivit mântuirea
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Pentru noi s-a ivit mântuirea;
-Pentru noi, Cel de sus a murit;
+Pentru noi s-a ivit mântuirea,
+Pentru noi, Cel de sus a murit.
 /: Pentru noi, s-a ivit izbăvirea,
 Pentru noi, Cel de sus S-a jertfit. :/
 
@@ -18,9 +18,9 @@ Dragostea și iubirea
 Ce Isus le-a lăsat. :/
 
 [2]
-Cu Isus, vom zbura către stele;
-Cu Isus, spre o lume de vis;
-/: Cu Isus, prin ispitele grele;
+Cu Isus, vom zbura către stele,
+Cu Isus, spre o lume de vis,
+/: Cu Isus, prin ispitele grele,
 Cu Isus, vom zbura-n Paradis. :/
 
 [3]

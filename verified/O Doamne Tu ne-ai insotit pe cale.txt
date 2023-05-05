@@ -5,8 +5,8 @@ O, Doamne, Tu ne-ai însoțit pe cale
 c,1,c,2,c
 
 [chorus]
-/: O, Doamne, Tu ne-ai însoțit pe cale
-În lungul drum ce trece prin pustiu
+/: O, Doamne, Tu ne-ai însoțit pe cale,
+În lungul drum ce trece prin pustiu.
 Tu ne-ai condus prin lipsuri și belșug,
 Prin furtuni și foc, spre un loc mai bun!
 Tu ne-ai condus, până aici! :/

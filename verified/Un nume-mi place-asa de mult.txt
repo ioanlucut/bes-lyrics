@@ -5,7 +5,7 @@ Un nume-mi place-așa de mult
 1,c,2,c,3,c
 
 [1]
-Un nume-mi place-așa de mult
+Un nume-mi place-așa de mult,
 Îl pomenesc mereu.
 Aș vrea întruna să-L ascult,
 Chiar când drumul e greu.

@@ -2,14 +2,17 @@
 Nu vă mai gândiți la ce a fost ’nainte
 
 [sequence]
-1,c,2,b,c
+1,2,c,3,c,b,c
 
 [1]
-Nu vă mai gândiți la ce a fost ’nainte,
-Nu vă mai uitați la lucruri vechi, trecute.
+Nu vă mai gândiți 
+La ce a fost ’nainte,
+Nu vă mai uitați 
+La lucruri vechi, trecute.
 Iată, Eu voi face,
 Eu voi face lucruri noi!
 
+[2]
 Lucrări mari veți vedea,
 Mai mult decât ’nainte,
 Am lucruri noi să fac
@@ -19,19 +22,22 @@ Eu voi face lucruri noi!
 
 [chorus]
 Voi face un drum, chiar prin pustie,
-În locuri uscate va curge apă vie
+În locuri uscate va curge apă vie.
 Iată, Eu voi face, Eu voi face lucruri noi!
 Vă dau Duhul Meu, vă-mbrac în putere,
 Națiuni vor cunoaște căile Mele.
 Iată, Eu voi face, Eu voi face lucruri noi!
 
-[2]
-Spuneți celor slabi, fiți tari și nu vă temeți,
-Mâinile-ntăriți, în Mine vă încredeți,
-Iată, Eu voi face, Eu voi face lucruri noi!
+[3]
+Spuneți celor slabi, 
+Fiți tari și nu vă temeți,
+Mâinile-ntăriți, 
+În Mine vă încredeți,
+Iată, Eu voi face, 
+Eu voi face lucruri noi!
 
 [bridge]
-/: Atunci șchiopii vor sări
+/: Atunci șchiopii vor sări,
 Orbii vor vedea,
 Surzii vor auzi,
 Iar glasul celor muți va cânta! :/

@@ -5,8 +5,7 @@ La Tine, Doamne
 1,c,2,c,3,c,4,c
 
 [1]
-/: La Tine, Doamne,
-Îmi înalț sufletul. :/
+/: La Tine, Doamne, Îmi înalț sufletul. :/
 
 [chorus]
 /: Domnul meu, mă-ncred în Tine,
@@ -20,5 +19,4 @@ Cel rău să nu se bucure de mine! :/
 /: Învață-mă cărările Tale. :/
 
 [4]
-/: Cei credincioși
-Sunt prieteni cu Domnul. :/
+/: Cei credincioși sunt prieteni cu Domnul. :/

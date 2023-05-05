@@ -2,7 +2,7 @@
 Noi știm că Domnul Dumnezeu
 
 [sequence]
-1,2,c,3,c,4,c,5
+1,p,c,2,p,c,b,3,c
 
 [1]
 Noi știm că Domnul Dumnezeu
@@ -10,7 +10,7 @@ E-un foc mistuitor, o flacără sfântă,
 E-al nostru drept Judecător,
 Bun și-ndurător, din cer ne-ascultă.
 
-[2]
+[prechorus]
 Către El noi vom privi,
 Ochii ni-i vom aținti.
 
@@ -20,19 +20,19 @@ Un sfânt refugiu este El.
 Cu Tine, Doamne, vom domni
 Căci veșnic vei împărăți.
 
-[3]
+[2]
 Noi știm că Domnul e gelos
 Pe ai Săi copii în sfântă iubire.
 Mai sus de ceruri e-ntronat,
 În slavă îmbrăcat și-n strălucire.
 
-[4]
+[bridge]
 Către El noi vom privi,
 Ochii ni-i vom aținti,
 Inimile vom lăsa
 Cuprinse de iubirea Sa.
 
-[5]
+[3]
 Căci veșnic vei împărăți,
 Cu Tine, Doamne, vom domni.
 Noi știm că Domnul Dumnezeu

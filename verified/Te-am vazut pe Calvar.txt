@@ -1,5 +1,5 @@
 [title]
-Te-am văzut pe calvar
+Te-am văzut pe Calvar
 
 [sequence]
 1,c,2,c,b,c
@@ -31,7 +31,7 @@ Ai venit din mărire,
 Din slava de Sus,
 Să ne dai viață
 Și pace s-aduci.
-Și-ai plâns pentru noi,
+Și-ai plâns pentru noi
 Căci nu Te-am primit!
 
 [chorus]

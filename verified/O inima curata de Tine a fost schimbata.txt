@@ -2,7 +2,7 @@
 O inimă curată, de Tine a fost schimbată
 
 [sequence]
-c,1,c,2,c,3,c
+1,c,2,c,3,c
 
 [1]
 O inimă curată, de Tine a fost schimbată,
@@ -12,21 +12,20 @@ Tu mă cunoști prea bine
 Și știu că Tu de toate m-ai iertat. :/
 
 [chorus]
-O inimă-nțeleaptă și plină de iubire
+/: O inimă-nțeleaptă și plină de iubire
 Să locuiască-n mine, la bine și la greu.
 O inimă zdrobită, dar plină de povețe,
-Pe mulți ca să-i îndrume spre Tine, Dumnezeu!
+Pe mulți ca să-i îndrume spre Tine, Dumnezeu! :/
 
 [2]
 O inimă smerită, de multe ori lovită,
 Ea nu se schimbă, Doamne, niciodat’.
-/: Rămâne credincioasă,
+/: Rămâne credincioasă
 Căci Domnul, El, veghează,
 Căci tu cu Dumnezeu te-ai împăcat. :/
 
 [3]
-Eu vreau să merg pe cale,
-Dar Tu să-mi dai răbdare
+Eu vreau să merg pe cale, dar Tu să-mi dai răbdare
 Să trec cu bine, Doamne, tot ce-i rău.
 /: La Tine e puterea
 Ce alină-oricând durerea,
