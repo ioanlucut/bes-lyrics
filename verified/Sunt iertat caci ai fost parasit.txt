@@ -5,8 +5,8 @@ Sunt iertat, căci ai fost părăsit
 1,c,1,c
 
 [1]
-Sunt iertat, căci ai fost părăsit;
-Sunt acceptat, Ai fost condamnat;
+Sunt iertat, căci ai fost părăsit,
+Sunt acceptat, ai fost condamnat
 Și viață am acum, căci Duhul Tău e-n mine,
 Căci ai murit și-ai înviat. :/
 
