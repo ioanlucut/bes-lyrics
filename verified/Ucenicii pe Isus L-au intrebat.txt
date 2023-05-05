@@ -5,8 +5,8 @@ Ucenicii pe Isus L-au întrebat
 1,c,2,c,3,c
 
 [1]
-Ucenicii pe Isus L-au întrebat
-Omul de câte ori poate fi iertat
+Ucenicii pe Isus L-au întrebat,
+Omul de câte ori poate fi iertat?
 /: Petru-a spus de șapte ori,
 Dar Tu ești Învățător,
 Domnul meu, de câte ori eu pot să iert? :/
@@ -26,7 +26,7 @@ Moștenire să primești,
 Roagă-te lui Dumnezeu să poți să ierți. :/
 
 [3]
-Domnul meu de câte ori eu pot să iert?
+Domnul meu, de câte ori eu pot să iert?
 Pe vrăjmașii mei să pot să-mpăciuiesc,
 /: Doresc să pot să iert
 Și cu Tine să trăiesc,
