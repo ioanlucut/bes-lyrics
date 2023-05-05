@@ -5,7 +5,7 @@ Vino și-n casa mea
 c,1,c,2,c,3,c,4,e
 
 [chorus]
-/: Vino și-n casa mea :/ (3x)
+/: Vino și-n casa mea, :/ (3x)
 Când furtuna este grea.
 
 [1]
@@ -21,9 +21,9 @@ Ca să-l rupă doar ar vrea
 Vino, Tu, și-n casa mea.
 
 [3]
-Un val cheamă un alt val
+Un val cheamă un alt val,
 Peste-al inimii hotar
-Ca să treacă doar ar vrea
+Ca să treacă doar ar vrea,
 Vino, Tu, și-n casa mea.
 
 [4]
