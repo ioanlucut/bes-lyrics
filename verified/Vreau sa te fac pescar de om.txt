@@ -10,7 +10,7 @@ Pescar de om, pescar de om,
 Vreau să te fac pescar de om,
 Dacă Mă urmezi.
 
-/: Dacă Mă urmezi. :/ (3x)
+/: Dacă Mă urmezi, :/ (3x)
 Vreau să te fac pescar de om,
 Dacă Mă urmezi.
 
@@ -21,7 +21,7 @@ Vreau, Isuse, să Te urmez!
 Știu că mă iubești.
 
 /: Știu că mă iubești. :/ (3x)
-Vreau, Isuse, să Te urmez
+Vreau, Isuse, să Te urmez,
 Știu că mă iubești.
 
 [3]
