@@ -5,7 +5,7 @@ Tată din ceruri, noi Te iubim
 1,c,1,c
 
 [1]
-Tată din ceruri, noi Te iubim
+Tată din ceruri, noi Te iubim,
 Numele Tău Îl înălțăm,
 Vie-mpărăția Ta, prin lauda noastră,
 Noi cu toții preamărim lucrarea Ta.
@@ -13,5 +13,5 @@ Noi cu toții preamărim lucrarea Ta.
 [chorus]
 Binecuvântat fii, o, Doamne!
 Cel ce ai fost, ești și vei fi
-Sfânt și minunat, Atotputernic
+Sfânt și minunat, Atotputernic,
 Tu vei domni în veci.
