@@ -32,5 +32,8 @@ describe('fileNameNormalizer', () => {
     expect(normalizeFileName(' file dumnezeu.txt ')).toMatchInlineSnapshot(
       `"file Dumnezeu.txt"`,
     );
+    expect(normalizeFileName('Vreau doamne iubirea.txt')).toMatchInlineSnapshot(
+      `"Vreau Doamne iubirea.txt"`,
+    );
   });
 });
