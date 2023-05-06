@@ -1,5 +1,5 @@
 [title]
-Știu bine că a dmnului e tăria în
+Știu bine că a dmnului e tăria
 
 [sequence]
 1,2,3,4,5,c

@@ -1,5 +1,5 @@
 [title]
-Viața-mea-ți-o-dau-isus
+Viața-mea ți-o dau Isus
 
 [sequence]
 c,c,c,c

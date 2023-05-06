@@ -1,5 +1,5 @@
 [title]
-Când ești în necaz și îți
+Când ești în necaz
 
 [sequence]
 1,2,c,c
