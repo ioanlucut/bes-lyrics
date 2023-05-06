@@ -1,0 +1,65 @@
+[title]
+Să răsune pe întreg pământul
+
+[sequence]
+1,2,3,4,5,6,7
+
+[1]
+Să răsune pe întreg pământul:
+Isus e viu!
+Gol și rece a rămas mormântul
+El este viu!
+Să răsune pe întreg pământul Isus e viu!
+Astăzi s-a-mplinit Cuvântul
+El este viu!
+
+[2]
+A-nviat, mergeți toți să spuneți
+Mormântul este gol
+Nu-i aici,
+El e viu, trăiește
+Spuneți tuturor
+A-nviat și ai Lui suntem
+Pe veci răscumpărați,
+Aleluia,
+glorie Îi cântăm
+Aleluia, toți Îl lăudăm,
+Căci e viu!
+
+[3]
+Aleluia e viu să cântăm cu toții
+/:Isus,
+Aleluia,e viu
+Să cântăm cu toții:/
+
+[4]
+Să răsune pe întreg pământul:
+Isus e viu!
+Gol și rece a rămas mormântul
+El este viu!
+Să răsune pe întreg pământul Isus e viu!
+Astăzi s-a-mplinit Cuvântul
+El este viu!
+
+[5]
+A-nviat, mergeți toți să spuneți
+Mormântul este gol
+Nu-i aici,
+El e viu, trăiește
+Spuneți tuturor
+A-nviat și ai Lui suntem
+Pe veci răscumpărați,
+Aleluia,
+glorie Îi cântăm
+Aleluia, toți Îl lăudăm,
+Căci e viu!
+
+[6]
+Aleluia e viu să cântăm cu toții
+/:Isus,
+Aleluia,e viu
+Să cântăm cu toții:/
+
+[7]
+Să răsune pe întreg pământul
+Isus e viu !

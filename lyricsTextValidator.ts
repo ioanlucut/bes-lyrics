@@ -43,13 +43,14 @@ dotenv.config();
 
   if (!_.isEmpty(problematicHits)) {
     console.log('Unf., we have found wrong chars.');
+
     const allChars = problematicHits.map(
       ({ fileName, differenceInFileName, differenceInContent }) => {
         console.group(`"${fileName}"`);
 
         if (!_.isEmpty(differenceInFileName)) {
           console.log(
-            `The difference between the allowed chars and found in content are: "${differenceInFileName}"`,
+            `The difference between the allowed chars and found in file name are: "${differenceInFileName}"`,
           );
         }
 

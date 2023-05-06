@@ -1,0 +1,52 @@
+[title]
+Răsună imnul victoriei
+
+[sequence]
+1,2,3,4,5,6
+
+[1]
+Răsună imnul victoriei
+Isus a-nviat!
+Îngerii-n ceruri cântă și ei
+Isus a-nviat!
+
+[2]
+Noaptea El a risipit
+Lanțurile le-a zdrobit,
+Din mormânt s-a ridicat
+Isus a-nviat
+Isus a-nviat,
+a-nviat
+Isus a-nviat!
+
+[3]
+Răsună imnul victoriei
+Isus a-nviat!
+Îngerii-n ceruri cântă și ei
+Isus a-nviat!
+
+[4]
+Cei ce sunt răscumpărați
+În al lui sânge spălați
+Împreună să cântați
+Isus a-nviat,
+Isus a-nviat,
+a-nviat
+Isus a-nviat!
+
+[5]
+Astăzi cânt și-s fericit
+Isus a-nviat!
+Căci prin El sunt mântuit
+Isus a-nviat!
+
+[6]
+Noaptea El a risipit
+Lanțurile le-a zdrobit,
+Din mormânt s-a ridicat,
+Isus a-nviat
+Isus a-nviat,
+a-nviat
+Isus a-nviat!
+Ooo,
+Isus a-nviat!

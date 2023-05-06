@@ -1,0 +1,37 @@
+[title]
+Știu bine că a dmnului e tăria în
+
+[sequence]
+1,2,3,4,5,c
+
+[1]
+Știu bine că a Domnului E tăria în cer și pe pământ
+El face lucruri mari și nepătrunse
+Minuni fără sfârșit!
+
+[2]
+El mută deodată munții Și-i răstoarnă dacă vrea
+Soarele se-ntunecă la porunca Sa!
+Oo, dacă El vrea să-mi facă bine
+Cine-L poate opri?
+
+[3]
+Domnul meu poruncește zorilor
+Când s-alunge noapteaȘi-i arată dimineții locul pe cer.
+În mâna Lui El ține UniversulȘi eu-s în mâna Lui!
+
+[4]
+Mare e Domnul meu și sfânt
+Gloria Lui e-n cer și pe pământȘi ce multe sunt minunile Sale
+Minuni fără sfârșit!
+
+[5]
+El mută deodată munții Și-i răstoarnă dacă vrea
+Soarele se-ntunecă la porunca Sa!
+Oo, dacă El vrea să-mi facă bine
+Cine-L poate opri?
+
+[c]
+/:Domnul meu poruncește zorilor
+Când s-alunge noapteaȘi-i arată dimineții locul pe cer.
+În mâna Lui El ține UniversulȘi eu-s în mâna Lui!:/2x
