@@ -4,7 +4,7 @@ Cântă israel că dumnezeu e domnul
 [sequence]
 c,1,2,c,3,4,c
 
-[c]
+[chorus]
 /:Cântă Israel că Dumnezeu e Domnul,
 Aleluia!:/
 
@@ -14,7 +14,7 @@ Să Îl iubești pe Domnul Dumnezeul tău cu toată inimaȘi viața ta să îi a
 [2]
 El este-al nostru Rege Și prin pustiu ne trece’Naintea Lui noi ne plecămȘi jertfa noastră Îi închinăm
 
-[c]
+[chorus]
 /:Cântă Israel că Dumnezeu e Domnul,
 Aleluia!:/
 
@@ -25,6 +25,6 @@ Pe drumul greu doar mâna Sa mereu ne-a protejat!
 [4]
 El este-al nostru Rege Și prin pustiu ne trece’Naintea Lui noi ne plecămȘi jertfa noastră Îi închinăm
 
-[c]
+[chorus]
 /:Cântă Israel că Dumnezeu e Domnul,
 Aleluia!:/3x

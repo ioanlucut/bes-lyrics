@@ -10,7 +10,7 @@ Lângă Tine vreau să fiu
 Ajută-mă să înțeleg
 Cât de mult Tu mă iubești.
 
-[c]
+[chorus]
 /:În dragoste nu este frică
 Dragostea-i desăvârșită
 Și-alungă frica
@@ -30,7 +30,7 @@ Lângă Tine vreau să fiu
 Ajută-mă să înțeleg
 Cât de mult Tu mă iubești.
 
-[c]
+[chorus]
 /:În dragoste nu este frică
 Dragostea-i desăvârșită
 Și-alungă frica

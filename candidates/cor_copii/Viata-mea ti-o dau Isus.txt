@@ -4,23 +4,23 @@ Viața-mea ți-o dau Isus
 [sequence]
 c,c,c,c
 
-[c]
+[chorus]
 /:Viața mea Ți-o dau Isus
 Căci m-ai creat,
 Sunt al Tău pentru veci
 Eu sunt al Tău:/
 
-[c]
+[chorus]
 /:Slavă,
 Isus din cer de sus ai venit azi la noi
 Noi azi Te glorificăm și-Ți lăudăm
 Minunată jertfa Ta!:/
 
-[c]
+[chorus]
 /:Azi înaintea venim
 Darul nost’ să Ți-l dăm Inima, să fie-a Ta:/
 
-[c]
+[chorus]
 /:Slavă,
 Isus din cer de sus ai venit azi la noi
 Noi azi Te glorificăm și-Ți lăudăm

@@ -15,7 +15,7 @@ Duios el le vorbi de-un Mântuitor:
 ”Nu vă înfricați, căci vă aduc o veste
 Azi în Betleem un Prunc vi s-a născut!”
 
-[c]
+[chorus]
 /:Slavă lui Dumnezeu, slavă în locurile-nalte
 Pace, pace între oameni plăcuți Domnului:/2x
 (cântați-I)
@@ -32,15 +32,15 @@ Pentru mine a venit să fiu pe veci salvat.
 Îl voi lăuda întreagă viața mea
 Și-L voi mărturisi ca Domn și împărat!
 
-[c]
+[chorus]
 /:Slavă lui Dumnezeu slavă în locurile-nalte
 Pace, pace între oameni plăcuți Domnului:/2x
 
-[c]
+[chorus]
 /:Săltați, cântați, în Israel
 Va reveni Emanuel:/
 
-[c]
+[chorus]
 /:Slavă lui Dumnezeu,slavă în locurile-nalte
 Pace, pace între oameni plăcuți Domnului:/2x
 Între oameni plăcuți Domnului

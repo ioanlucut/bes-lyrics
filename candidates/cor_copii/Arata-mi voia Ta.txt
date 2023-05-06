@@ -4,7 +4,7 @@ Arată-mi voia ta
 [sequence]
 c,1,2,c
 
-[c]
+[chorus]
 /:Arată-mi voia Ta
 Calea Ta
 Tu Isus ești speranța mea:/
@@ -23,7 +23,7 @@ Ooooo!
 Și nu mă ocolești
 Știu Isuse mă iubești:/
 
-[c]
+[chorus]
 /:Și mă încred, da!
 În dragostea Ta
 Zi de zi, pas cu pas

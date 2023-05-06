@@ -2,13 +2,13 @@
 Alerg alerg
 
 [sequence]
-c,1,c,2,c,3,c
+c,1,c,2,c,3,c,b,c
 
-[c]
-/:ALERG ALERGSPRE-O ȚINTĂ BUNĂALERG,
-ALERGPREMIUL SĂ-L IAUALERG,
-ALERG TOT ÎNAINTEALERG,
-ALERG LA ISUS!:/
+[chorus]
+/: ALERG, ALERG SPRE-O ȚINTĂ BUNĂ
+ALERG, ALERG, PREMIUL SĂ-L IAU
+ALERG, ALERG, TOT ÎNAINTE
+ALERG, ALERG LA ISUS! :/
 
 [1]
 Vreau s-aleg ce-i bine
@@ -16,23 +16,11 @@ Vreau s-aleg ce-i bine
 Privirea mea-i spre Isus
 El e Domnul meu.
 
-[c]
-/:ALERG ALERGSPRE-O ȚINTĂ BUNĂALERG,
-ALERGPREMIUL SĂ-L IAUALERG,
-ALERG TOT ÎNAINTEALERG,
-ALERG LA ISUS!:/
-
 [2]
 Ținta-i înainte,
 Nu privesc înapoi
 Ruga mi-e fierbinte
 Doamne fii cu noi!
-
-[c]
-/:ALERG ALERGSPRE-O ȚINTĂ BUNĂALERG,
-ALERGPREMIUL SĂ-L IAUALERG,
-ALERG TOT ÎNAINTEALERG,
-ALERG LA ISUS!:/
 
 [3]
 Nu mă tem de nimeni,
@@ -40,10 +28,5 @@ Merg voios spre cer
 Domnul e cu mine
 Cânt, alerg și sper!
 
-[c]
-/:ALERG ALERGSPRE-O ȚINTĂ BUNĂALERG,
-ALERGPREMIUL SĂ-L IAUALERG,
-ALERG TOT ÎNAINTEALERG,
-ALERG LA ISUS!:/
-ALERG,
-ALERG !
+[bridge]
+ALERG, ALERG !

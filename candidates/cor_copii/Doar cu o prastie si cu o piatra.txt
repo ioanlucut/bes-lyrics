@@ -4,7 +4,7 @@ Doar cu o praștie și cu o
 [sequence]
 c,1,c,2,3,c
 
-[c]
+[chorus]
 /:Doar cu o praștie și cu o piatră
 David l-a învins pe Goliat
 A pus pe fugă-ntreaga lui armată
@@ -19,7 +19,7 @@ Domnul e de partea mea
 Fiindcă sunt copilul Său
 De-aceea:
 
-[c]
+[chorus]
 /:Când uriașu-n față se ridică
 Și se apropie-nfricoșător
 Domnul îmi spune: ”Nu îți fie frică,
@@ -40,7 +40,7 @@ Să te-ncrezi în Domnul neîncetat
 Vei fi de El binecuvântat
 Da, da, da!
 
-[c]
+[chorus]
 /:Doar cu o praștie și cu o piatră
 David l-a învins pe Goliat
 A pus pe fugă-ntreaga lui armată

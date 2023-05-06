@@ -4,26 +4,26 @@ Domnul este milostiv și plin de îndurare
 [sequence]
 c,c,c,c,c,1,2
 
-[c]
+[chorus]
 /:Domnul este milostiv și plin de îndurare
 Îndelung răbdător și plin de bunătate:/
 
-[c]
+[chorus]
 /:El iertare îmi dă
 Atunci când greșesc
 Bucuros Îl urmez
 Pe Isus Îl iubesc:/
 
-[c]
+[chorus]
 /:Domnul este milostiv și plin de îndurare
 Îndelung răbdător și plin de bunătate:/
 
-[c]
+[chorus]
 /:El e credincios, drept și curat
 De păcatul meu,
 Domnul m-a iertat!:/
 
-[c]
+[chorus]
 /:Domnul este milostiv și plin de îndurare
 Îndelung răbdător și plin de bunătate:/
 

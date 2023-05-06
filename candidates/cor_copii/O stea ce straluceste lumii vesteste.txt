@@ -35,7 +35,7 @@ Glorie
 S-a născut Isus,
 Fiul celui Sfânt!
 
-[c]
+[chorus]
 /:Deci să nu vă temeți O veste-aducem tuturor
 În cetatea lui David
 Vi s-a născut un Mântuitor!:/

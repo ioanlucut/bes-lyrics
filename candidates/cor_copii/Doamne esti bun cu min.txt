@@ -4,7 +4,7 @@ Doamne ești bun cu min’
 [sequence]
 c,1,2,c,3,c,c,c
 
-[c]
+[chorus]
 /:Doamne ești bun cu min’Tu-mi dai mai mult decât mi-am dorit:/
 
 [1]
@@ -20,7 +20,7 @@ Mulțumesc pentru ce mi-ai dat !Mulțumesc pentru ce îmi dai!
 Un zâmbet am pe chipul meu
 De-aceea-Ți voi cânta mereu
 
-[c]
+[chorus]
 /:Doamne ești bun cu min’Tu-mi dai mai mult decât mi-am dorit:/
 
 [3]
@@ -28,17 +28,17 @@ De la Tine mântuire am primit
 Fiindc-atât de mult Isuse m-ai iubit
 Pentru toate vreau să-Ți spun:
 
-[c]
+[chorus]
 /:Mulțumesc pentru ce mi-ai dat !Mulțumesc pentru ce îmi dai!
 Un zâmbet am pe chipul meu
 De-aceea-Ți voi cânta mereu:/
 /:Voi cânta mereu!:/2x
 
-[c]
+[chorus]
 /:Mulțumesc pentru ce mi-ai dat !Mulțumesc pentru ce îmi dai!
 Un zâmbet am pe chipul meu
 De-aceea-Ți voi cânta mereu:/4x
 /:Voi cânta mereu:/2x
 
-[c]
+[chorus]
 /:Doamne ești bun cu min’Tu-mi dai mai mult decât mi-am dorit:/

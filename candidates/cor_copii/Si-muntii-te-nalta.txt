@@ -4,12 +4,12 @@
 [sequence]
 c,c,1,2,c,3
 
-[c]
+[chorus]
 /:Și munții Te -nalță Și marea Te laudă și astrele
 Toate-Ți respectă, toate-Ți adoră
 Numele :/
 
-[c]
+[chorus]
 /:Laudă, slavă mărire
 Îți cântă fără glas
 Laudă, slavă, mărire
@@ -27,7 +27,7 @@ Mi-ai dat grai, vedere,
 Mișcare și viață
 Sunt minunat !
 
-[c]
+[chorus]
 /:Laudă, slavă mărire
 Îți cântă fără glas
 Laudă, slavă, mărire

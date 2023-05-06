@@ -2,36 +2,29 @@
 Bucură-te tinere în tinerețea ta
 
 [sequence]
-c,c,c,c,c,c
+1,c,2,c,3,c,b,c
 
-[c]
+[1]
 /:Bucură-te tinere în tinerețea ta
 Veselă să-ți fie inima:/
 Veselă să-ți fie inima!
 
-[c]
-/:Dar nu uita că-ntr-o zi Isus te va chema
+[chorus]
+/: Dar nu uita că-ntr-o zi Isus te va chema
 Nu uita că-ntr-o zi te va judeca
 Să știi atunci că Isus te va întreba:
-Ce-ai făcut cu tinerețea ta?:/
+Ce-ai făcut cu tinerețea ta? :/
 
-[c]
-/:Mergi pe drumul cel iubit de inima taȘi plăcut ochilor tăi:/Și plăcut ochilor tăi
+[2]
+/: Mergi pe drumul cel iubit de inima ta
+Și plăcut ochilor tăi :/
+Și plăcut ochilor tăi.
 
-[c]
-/:Dar nu uita că-ntr-o zi Isus te va chema
-Nu uita că-ntr-o zi te va judeca
-Să știi atunci că Isus te va întreba:
-Ce-ai făcut cu tinerețea ta?:/
-
-[c]
-/:Să-ți amintești de Făcătorul tău
+[3]
+/: Să-ți amintești de Făcătorul tău
 Chiar din tinerețea ta.
 Să Îl iubești pe Domnul Dumnezeu
-Să păzești porunca Sa:/
+Să păzești porunca Sa :/
 
-[c]
-/:Și nu uita că-ntr-o zi Isus te va chema
-Nu uita că-ntr-o zi te va judeca
-Să știi atunci că Isus te va întreba:/:Ce-ai făcut cu tinerețea ta?:/
+[bridge]
 Dă-I lui Isus azi inima ta!

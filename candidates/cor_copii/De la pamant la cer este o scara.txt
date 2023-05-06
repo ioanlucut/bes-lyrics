@@ -4,7 +4,7 @@ De la pământ la cer este o scară
 [sequence]
 c,1,2,3,4,5,6,7,c
 
-[c]
+[chorus]
 /:De la pământ la cer este o scară,
 Ingeri pe ea urcă si coboară.
 De la pământ la cer este o scară
@@ -54,7 +54,7 @@ Mai sus, mai sus,
 mai aproape de Isus,
 Și apoi cu Isus!
 
-[c]
+[chorus]
 /:De la pământ la cer este o scară,
 Ingeri pe ea urcă si coboară.
 De la pământ la cer este o scară

@@ -5,14 +5,13 @@ Al bucuriei steag flutură în orice zi
 1,c,1,c
 
 [1]
-Al bucuriei steag flutură în orice zi
-Pe castelul inimii
-Flutură în orice zi
-Al bucuriei steag flutură în orice zi
+Al bucuriei steag flutură în orice zi,
+Pe castelul inimii, flutură în orice zi,
+Al bucuriei steag flutură în orice zi,
 Pentru că Isus e Regele meu!
 
-[c]
-/:Lasă steagul să fluture-acolo sus
+[chorus]
+/: Lasă steagul să fluture-acolo sus
 Toată lumea să-L vadă pe Isus
 Lasă steagul să fluture pe castel
-Pentru că Isus e Regele meu!:/
+Pentru că Isus e Regele meu! :/

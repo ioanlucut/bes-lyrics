@@ -50,7 +50,7 @@ Pe pământ s-a întrupat
 Emanuel,
 Dumnezeu este cu noi!
 
-[c]
+[chorus]
 /:Haideți azi cu toți cântați
 Pe Domnul lăudați
 Pruncului vă închinați
@@ -60,7 +60,7 @@ Cu toți vă bucurați!:/2x
 Cerul de slavă și glorie-i plin
 Magii cu daruri la Prunc ei vin!
 
-[c]
+[chorus]
 /:Un Rege sfânt
 
 
