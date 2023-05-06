@@ -1,0 +1,20 @@
+[title]
+Ți s-a arătat ce este binele
+
+[sequence]
+c,c,c
+
+[c]
+/:Ți s-a arătat ce este binele:/
+/:Și ce alta cere Domnul de la tine?:/
+/:Decât să umbli pe căile drepte:/
+
+[c]
+/:Ți s-a arătat ce este binele:/
+/:Și ce alta cere Domnul de la tine:/
+/:Decât să umbli cu milă prin lume:/
+
+[c]
+/:Ți s-a arătat ce este binele:/
+/:Și ce alta cere Domnul de la tine:/
+/: Decât să umbli smerit cu Dumnezeu:/

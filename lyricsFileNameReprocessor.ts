@@ -16,6 +16,7 @@ const reprocessFileNames = (dir: string) => {
       const filePath = path.join(dir, fileName);
       const existingContent = fs.readFileSync(filePath).toString();
 
+      console.log(`Processing "${fileName}"..`);
       const newFileName = normalizeFileName(fileName);
 
       fs.unlinkSync(filePath);

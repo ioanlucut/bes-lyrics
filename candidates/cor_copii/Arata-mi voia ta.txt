@@ -1,0 +1,34 @@
+[title]
+Arată-mi voia ta
+
+[sequence]
+c,1,2,c
+
+[c]
+/:Arată-mi voia Ta
+Calea Ta
+Tu Isus ești speranța mea:/
+
+[1]
+Și mă încred, da!
+În dragostea Ta
+Zi de zi, pas cu pas.
+Mă sprijinești, da!
+Și mă iubești, da!
+Inima Îți va cânta Aleluia
+Ooooo!
+
+[2]
+/Tu nu mă părăsești
+Și nu mă ocolești
+Știu Isuse mă iubești:/
+
+[c]
+/:Și mă încred, da!
+În dragostea Ta
+Zi de zi, pas cu pas
+Mă sprijinești,
+da!Și mă iubești, da!
+Inima Îți va cânta:/ Aleluia!
+Ooooo!
+Eu mă încred, în voia Ta!
