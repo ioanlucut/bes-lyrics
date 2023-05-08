@@ -1,14 +1,14 @@
 [title]
-"Isus e viu!", spune toată lumea
+Isus e viu spune toată lumea
 
 [sequence]
 1,c,2,c,b,c
 
 [1]
-"Isus e viu!", spune toată lumea
+„Isus e viu!”, spune toată lumea
 Și al Lui Nume sfânt, să-L lăudăm mereu.
 Dar să te-ntrebi tu drag creștin acuma
-Il simți pe El când spui: "Isus Hristos e viu!"
+Il simți pe El când spui: „Isus Hristos e viu!”
 
 [chorus]
 Isus e viu, El trăiește-n veci, e viu!
@@ -31,4 +31,4 @@ Ca prin jertfirea Lui să poți să biruiești.
 /: Nu e mort, El e viu și-adevărat
 A-nviat să ne scape de păcat
 El e Domnul păcii, Leul din Iuda
-Prințul Vieții, Domn biruitor! : /
+Prințul Vieții, Domn biruitor! :/
