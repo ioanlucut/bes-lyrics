@@ -1,26 +1,25 @@
 [title]
-Glorie Osanale către cer să privim
+Glorie, Osanale, către cer să privim
 
 [sequence]
 c,1,c,2,c,e
 
 [chorus]
-/:Glorie, Osanale, către cer să privim
-Domnului închinare, Aleluia, Amin!:/
+/: Glorie, Osanale, către cer să privim,
+Domnului închinare, Aleluia, Amin! :/
 
 [1]
 Trupul Său sfânt, pe-acest pământ
-L-a jertfit pe cruce răstingnit
-Dar a-nviat,
-S-a înălțat
+L-a jertfit pe cruce răstingnit,
+Dar a-nviat, S-a înălțat,
 Hristos domnește ca-mpărat!
 
 [2]
-Ne bucurăm, slavă Îi dăm Pentru veci iubirea Sa cântăm
-A înviat, s-a înălțat
-Da,
-Hristos e Împărat!
+Ne bucurăm, slavă Îi dăm 
+Pentru veci, iubirea Sa cântăm,
+A înviat, s-a înălțat,
+Da, Hristos e Împărat!
 
 [ending]
-Aleluia amin!
-Aleluia amin!
+Aleluia, Amin!
+Aleluia, Amin!
