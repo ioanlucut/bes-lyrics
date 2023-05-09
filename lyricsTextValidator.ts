@@ -5,6 +5,7 @@ import * as process from 'process';
 import dotenv from 'dotenv';
 import { ERROR_CODE, TXT_EXTENSION } from './constants';
 import { assemblyCharsStats, verifyStructure } from './src';
+import recursive from 'recursive-readdir';
 
 dotenv.config();
 
@@ -12,16 +13,13 @@ dotenv.config();
 // RUN
 // ---
 
-(() => {
-  const arrayOfFileNameAndContent = fs
-    .readdirSync(process.env.CANDIDATES_DIR)
-    .filter((fileName) => fileName.endsWith(TXT_EXTENSION))
-    .map((fileName) => {
-      const filePath = path.join(
-        __dirname,
-        process.env.CANDIDATES_DIR,
-        fileName,
-      );
+(async () => {
+  const arrayOfFileNameAndContent = (
+    await recursive(process.env.CANDIDATES_DIR)
+  )
+    .filter((filePath) => filePath.endsWith(TXT_EXTENSION))
+    .map((filePath) => {
+      const fileName = path.basename(filePath);
       const fileContent = fs.readFileSync(filePath).toString();
 
       return { fileName, fileContent };

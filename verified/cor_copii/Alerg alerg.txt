@@ -1,0 +1,32 @@
+[title]
+Alerg, alerg
+
+[sequence]
+c,1,c,2,c,3,c,b,c
+
+[chorus]
+/: Alerg, alerg spre-o țintă bună,
+Alerg, alerg, premiul să-l iau,
+Alerg, alerg tot înainte,
+Alerg, alerg la Isus! :/
+
+[1]
+Vreau s-aleg ce-i bine,
+Ținta s-o păstrez.
+Privirea mea-i spre Isus,
+El e Domnul meu.
+
+[2]
+Ținta-i înainte,
+Nu privesc înapoi.
+Ruga mi-e fierbinte:
+Doamne, fii cu noi!
+
+[3]
+Nu mă tem de nimeni,
+Merg voios spre cer,
+Domnul e cu mine,
+Cânt, alerg și sper!
+
+[bridge]
+Alerg, alerg !

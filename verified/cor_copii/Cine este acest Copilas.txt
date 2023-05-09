@@ -1,0 +1,29 @@
+[title]
+Cine este acest copilaș
+
+[sequence]
+1,2,c,t,c,t,2
+
+[1]
+Cine este acest copilaș,
+Ce doarme-n brațele mamei Lui?
+În juru-I cântă îngerași
+Cu drag Îl veghează păstorii.
+
+[2]
+El este Hristosul, Regele
+Adorat de păstori și îngeri.
+Lăudați-L pe Mesia, pe Isus,
+Fiu al Mariei.
+
+[chorus]
+Într-o iesle, într-un staul
+S-a născut copilul Isus.
+Într-o iesle, într-un staul,
+Mântuire ne-a adus.
+
+[chorus 2]
+Aleluia-n înălțime,
+Rege-al regilor s-a născut!
+Aleluia, Salvatorul,
+Azi iubirea s-a născut!

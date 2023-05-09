@@ -1,9 +1,14 @@
 
 -
+1
+2
 2x
+32
 3x
 4x
 7x
+8
+9
 A-ntârziat
 A-nviat
 Acesta
@@ -51,6 +56,7 @@ Ascultați-mă
 Ascultă
 Ascultă-ne
 Ascunzând
+Asteptați-L
 Asupriți
 Atinge
 Atinge-mi
@@ -93,7 +99,9 @@ Ce-n
 Ce-nalță
 Ce-nvinge
 Ce-și
+Cele-nțelepte
 Celui
+Cercetează-mă
 Cere-ți
 Cerescul
 Ceru-ntreg
@@ -110,6 +118,7 @@ Condu-mă
 Condu-ne
 Condu-ne-al
 Conduce
+Conduce-ntregul
 Conduși
 Copleșiți
 Creatoare
@@ -143,6 +152,7 @@ Curge
 Curgeau
 Curgi
 Curând
+Cuvăntul
 Cânta-voi
 Cânta-vom
 Cântată-n
@@ -157,6 +167,7 @@ Cântăm
 Cântărește
 Că-n
 Că-ntr-o
+Că-ntr-un
 Că-ntâi
 Cădea-va
 Cădea-vei
@@ -188,6 +199,7 @@ De-s
 Declarăm
 Dei
 Departe-am
+Departe-ntr-un
 Depinde
 Deschide
 Deschide-I
@@ -227,6 +239,7 @@ Dumnezeul
 Dumnezeului
 După-al
 Durerile-s
+Dynamis
 Dăruind
 Dăruindu-Ți
 E-al
@@ -239,6 +252,7 @@ E-o
 E-un
 Ea-ntrece
 Eben-Ezer
+Efeseni
 El-Shaddai
 Eliberați
 Enoh
@@ -252,6 +266,7 @@ Ezechia
 Ezechiel
 Facă-mi-se-ntotdeauna
 Facă-se
+Fecioarele-nțelepte
 Ferice-acei
 Fericiți
 Fi-va
@@ -264,9 +279,11 @@ Fredonează
 Fugi-vor
 Fă-mi
 Făclia-iubirii
+Făcătorul
 Făr’
 Genunchii-n
 Ghetsimani
+Glorie-I
 Golgota-a
 Golgota-n
 Greul
@@ -276,11 +293,14 @@ Grăbește-Ți
 Gustă
 Găsim
 Găsit-ai
+Habothim
 Haina-mi
 Hohotind
 Hotărâți
 Hrană-mbelșugată
+Hristosul
 I-ardeau
+IU-BI-I-RE
 Iacov
 Iartă-al
 Iartă-i
@@ -291,10 +311,13 @@ Iată-mă-s
 Ierihon
 Iertare-n
 Ierusalime
+Irușalaim
+Ihre
 Inimile-arzând
 Inimile-s
 Intrat-ai
 Ioel
+Irușalaim
 Ispitiți
 Isus-L
 Isus-naintea
@@ -309,6 +332,7 @@ Iubirea-adânc-a
 Iubirea-ți
 Iubiți
 Iudeea
+Izbândă-n
 L-al
 L-oi
 La-ncercare
@@ -317,6 +341,7 @@ Laudă-Ți
 Leagă-mi
 Leagă-ți
 Lipește-mi
+Lo-imot
 Logodnica
 Lucrează
 Lucreze
@@ -331,6 +356,7 @@ Lupta-vom
 Luptați
 Luptând
 Luptă-te
+Lângă-acel
 Lăsat-a
 Lăsatu-i-a
 M-adăpostesc
@@ -363,6 +389,7 @@ Mi-ești
 Mijlocind
 Miluiește
 Milă-Ți
+Mine-acolo
 Minunată-i
 Mireasa-L
 Mireasa-și
@@ -393,6 +420,7 @@ Mă-ndrept
 Mărească-I-se
 Mările-adânci
 Mărire-n
+Mărirea-Ți
 Mărturie-a
 Mărturisim
 N-are-asemănare
@@ -410,6 +438,7 @@ Ne-ntrebăm
 Ne-ocrotește
 Ne-om
 Necesară-i
+Nedespărțiți
 Nelipsiți
 Nesăturați
 Ni-e
@@ -423,11 +452,14 @@ Numele-Ți
 O-nțelepciune
 Oare-atunci
 Oare-atâtea
+Oare-s
 Oceane-n
 Ochii-n
 Ochii-Ți
 Odată-n
 Oo
+Ooo
+Ooooo
 Orașu-acesta
 Orice-am
 Orice-ar
@@ -439,6 +471,7 @@ Osteniți
 Pace-adâncă
 Pace-n
 Pacea-i
+Pacea-ți
 Pe-Acel’
 Pe-a-tale
 Pe-această
@@ -449,6 +482,7 @@ Pe-ale
 Pe-altar
 Pe-altarul
 Pe-aripi
+Pe-mpăratul
 Pe-ndepărtate
 Pe-ntreaga-ntindere
 Pe-ntregul
@@ -485,6 +519,7 @@ Predă-ți
 Pregătește-te
 Pregătită-i
 Pregătiți
+Pregătiți-I
 Pregătiți-vă
 Pribegim
 Primește
@@ -502,6 +537,7 @@ Proclamăm
 Proslăvește-Ți
 Proșterne-te
 Pruncul-Împărat
+Ps
 Pune
 Pune-n
 Pune-o
@@ -528,6 +564,8 @@ Refuzând
 Refuzându-Ți
 Rege-al
 Rege-n
+Regele-ncoronat
+Respectă
 Revars-o
 Revarsă-acum
 Revarsă-n
@@ -554,6 +592,7 @@ Rătăceam
 Rătăcești
 Rătăcitoare
 S-a-mplinit
+S-a-nfiorat
 S-a-ntors
 S-a-ntunecat
 S-ajungă
@@ -591,6 +630,7 @@ Sihar
 Sinai
 Sine-n
 Sion
+Sionului
 Slavă-n
 Slăvind
 Spală-mi
@@ -615,6 +655,7 @@ Străluminați
 Stâmpără-mi
 Stâmpără-mă
 Stâncă-n
+Stăpânitorul
 Sufletele-acelor
 Sufletu-mi
 Sufletu-ți
@@ -666,6 +707,7 @@ Te-ntărește
 Te-nălțăm
 Te-om
 Timpul-ncetează
+Tin
 Tine-a
 Tine-am
 Tine-apune
@@ -689,6 +731,7 @@ Totu-i
 Totu-n
 Totu-Ți
 Transformă-mi
+Treapta-ntâia
 Trece
 Treci
 Trecut-am
@@ -718,6 +761,7 @@ Tu-l
 Tu-n
 Tu-Ți
 Tânjind
+Tăăăău
 Uimiți
 Uita-vom
 Uită
@@ -731,12 +775,15 @@ Umpluți
 Unde-mpărat
 Unge
 Urcând
+Urcă
 Urle
 Urmând
 Urmăriți
 Ușa-Ți
 Va-ntreba
+Va-reveni
 Valu-acestei
+Vașem
 Veche-i
 Vedea-vom
 Vedea-vor
@@ -752,7 +799,9 @@ Vestiți
 Veșnica
 Veșnice
 Veșnică
+Ve’hashem
 Viața-aceasta
+Viața-mea
 Viața-mi
 Viața-n
 Viața-ntreagă
@@ -768,6 +817,7 @@ Vine-o
 Vino-n
 Vin’
 Vorbim
+Vrut-a
 Vuiau
 Vuiește
 Vândutu-L-ai
@@ -795,6 +845,7 @@ a-nnoit
 a-nviat
 a-nvins
 a-nălțat
+aa
 abate-n
 acas’
 aceea-n
@@ -802,6 +853,7 @@ aceea-ntotdeauna
 aceea-Ți
 aceea-ți
 acesta
+aceste-au
 acestei
 acolo-n
 acol’
@@ -891,6 +943,7 @@ aproape-am
 aproape-azi
 aproape-i
 aproape-mi
+apropie-nfricoșător
 apuce
 apune
 apă-mi
@@ -932,6 +985,7 @@ banii-ți
 bate-n
 bate-ntruna
 bate-odată
+ba’hashem
 bice-nsângerat
 bine-al
 bine-atunci
@@ -1034,6 +1088,7 @@ cerești
 cereștile
 cerne
 ceru-n
+ceru-ndepărtat
 ceru-ntreg
 cerului-nalt
 cetate-mpodobită
@@ -1047,6 +1102,7 @@ chipu-Ți
 ci-I
 ci-n
 ci-ntinează
+ci-ntr-o
 ci-ntruna
 ci-nșelare
 cine-a
@@ -1057,9 +1113,11 @@ cinstea-s
 cinstim
 cin’
 citi
+citim
 clevetească
 clintești
 clinti
+clipa-i
 clipa-nvierii
 clipă-L
 clipă-a
@@ -1093,6 +1151,7 @@ credința-a-ajuns
 credința-adevărată
 credința-n
 credință-i
+credință-n
 credință-naintezi
 crește-mi
 crește-odată
@@ -1100,6 +1159,7 @@ crinii-așteaptă
 cruce-a
 cruce-ai
 cruce-al
+cruce-au
 cruce-n
 cruce-Ți
 crucea-i
@@ -1127,6 +1187,7 @@ culme-a
 cumplitul
 cunoască-n
 cunoaște-această
+cunoaște-mi
 cununa
 cununa-n
 cunune
@@ -1155,8 +1216,10 @@ cânta-n
 cânta-voi
 cânta-vom
 cântam
+cântară
 cântau
 cântați
+cântați-I
 cânte
 cântu-n
 cântând
@@ -1185,6 +1248,7 @@ călcată-n
 călăuzește
 călăuzești
 călăuzind
+călăuziți
 călăuză-n
 cărbune-aprins
 către-un
@@ -1231,6 +1295,7 @@ de-ndoieli
 de-ndurare
 de-ndurări
 de-ndârjită
+de-ntâmpinare
 de-nvingător
 de-oprești
 de-orice
@@ -1248,12 +1313,14 @@ depune
 deschide
 deschide-I
 deschidem
+deschideți-vă
 deschis-o
 deschizi
 descuraja
 descătușați
 dese
 desfăta
+despre-a
 devină
 dezici
 dincolo-n
@@ -1261,11 +1328,14 @@ dincol’
 dispera
 disperați
 disperi
+doarme-n
 dobândești
 dobândi
 doctorul
 domină-ntreg
+domneşte-n
 domnește
+domnește-n
 domnești
 domnia-Ți
 domnise
@@ -1304,6 +1374,7 @@ dă-acest
 dă-mpărăția
 dă-n
 dă-ne-nțelepciune
+dă-ne-o
 dăinui
 dăinuiește
 dăinuiești
@@ -1314,11 +1385,13 @@ dăruim
 dăruindu-le
 dărâme
 e-a
+e-acum
 e-adevărat
 e-aici
 e-al
 e-aproape
 e-apus
+e-asupra
 e-atât
 e-așa
 e-mpărăția
@@ -1348,6 +1421,7 @@ este-mpodobit
 este-n
 este-o
 este-un
+eu-s
 exista
 existam
 există
@@ -1356,6 +1430,8 @@ face-adesea
 face-un
 facă-asemenea
 ferește
+ferești
+feri
 fericești
 fericirea-Ți
 fericiți
@@ -1387,6 +1463,8 @@ firavă
 flacăra-ncercării
 florile-n
 florile-și
+fluture-acolo
+flutură
 flămânzi
 flămânzii
 foame-s
@@ -1403,6 +1481,7 @@ frunte-au
 frânge
 frământă-n
 frățioare
+fugă-ntreaga
 fulgeră
 fumegândă
 furtuna-n
@@ -1420,8 +1499,10 @@ făr’delege
 făr’delegea
 gata-i
 gloria-a
+glorie-i
 glorifica
 glorifică
+glorificăm
 glorioasa-nviere
 glorioasă-atunci
 glăsui
@@ -1466,6 +1547,7 @@ găsit-o
 gătească
 gătește
 haina-n
+harim
 hotărâtoare
 hrănești
 hărțuiți
@@ -1478,7 +1560,9 @@ iartă-ne
 iată-mă
 ierta-vei
 iertarea-n
+ieshem
 iesle-n
+iesle-Ți
 impunătoarea
 inima-n
 inima-ți
@@ -1491,6 +1575,7 @@ inimă-Ți
 inimă-ți
 inspiram
 inspiri
+instr
 intona
 intra-n
 intra-voi
@@ -1521,10 +1606,12 @@ iubirea-n
 iubirea-Ți
 iubiți
 iubiți-vă
+ivea
 ivește
 ivi
 izbutise
 izbăvește
+izbăvește-ne
 izbăvești
 izbăvi
 izbăviți
@@ -1545,6 +1632,7 @@ judeca
 judecând
 juru-mi
 juru-Ți
+kehar
 l-a-ntunecat
 l-acel
 l-acest
@@ -1558,6 +1646,7 @@ la-nvățăcei
 la-nălțimea
 lacrima-atunci
 lacrimile-n
+lah
 lase-n
 lauda-n
 laudă-n
@@ -1573,6 +1662,9 @@ le-ntinzi
 le-ntreții
 leproșii
 lepăda
+le’amo
+le’olam
+liamo
 licărire-n
 limbă-n
 limpezi
@@ -1588,12 +1680,14 @@ locuiască
 locuiască-n
 locuiești
 locul-I
+locurile-nalte
 lovească
 lovește
 lovi
 loviți
 lucească
 luci
+luciră
 lucra
 lucrarea-Ți
 lucrați
@@ -1612,6 +1706,7 @@ lume-Ți
 lumea-aceasta
 lumea-au
 lumești
+lumin-adevăr
 lumina-nveșnicită
 lumina-o
 luminează
@@ -1641,6 +1736,7 @@ lăcrimează
 lăcrimând
 lămurește
 lăsat-a
+lăsându-Şi
 m-a-mpăcat
 m-a-ngrădit
 m-a-ntrebat
@@ -1673,6 +1769,7 @@ mare-adâncă
 mare-ar
 mare-avere
 mare-i
+mare-n
 marea-nvolburată
 marele-mpărat
 martori
@@ -1724,6 +1821,7 @@ minunatul
 minunați
 min’
 mireasa-n
+mirele-a
 miresme-n
 mișcă
 miști
@@ -1733,6 +1831,7 @@ moartea-i
 monumente-n
 mormântu-a
 mormântu-ai
+morţi
 morții-n
 moștenești
 multă-mpotrivire
@@ -1788,6 +1887,7 @@ n-aud
 n-auzeai
 nască-un
 natura-ntreagă
+naștere-au
 ne-a-mpăcat
 ne-a-nconjurat
 ne-a-nfrățit
@@ -1797,6 +1897,7 @@ ne-adormit
 ne-aduni
 ne-ajută
 ne-alungă
+ne-amenințau
 ne-amintim
 ne-apropii
 ne-arată
@@ -1828,11 +1929,13 @@ ne-nvață
 ne-nțelese
 ne-o-mprospătezi
 ne-om
+ne-oprim
 neclintiți
 necuprinsul
 necurați
 necăjiți
 neglijând
+nemeritată
 nemuritoare
 nemărginita-Ți
 neobservați
@@ -1862,6 +1965,7 @@ noastră-i
 noastră-n
 noastră-nfiere
 nostru-i
+nostru-mpărat
 nost’
 nouă-i
 nouă-n
@@ -1879,6 +1983,8 @@ nădejdea-n
 nădăjduim
 nădăjduind
 năruiește
+n’afară
+n’ainte-i
 o-mplinesc
 o-mplinește
 o-ncercare
@@ -1891,6 +1997,7 @@ obosi
 ochii-mi
 ochii-n
 ochii-nlăcrimați
+ocolești
 ocoli-vei
 ocrotești
 odată-n
@@ -1922,6 +2029,7 @@ orișicui
 osteniți
 oțelește-mi
 pace-adâncă
+pace-adâncă-ai
 pace-am
 pace-mi
 pace-n
@@ -1959,6 +2067,7 @@ pe-obraz
 pe-orice
 pe-oricine
 pedepsește
+pentr-o
 pentru-a
 pentru-a-Ți
 pentru-acest
@@ -1980,8 +2089,10 @@ picioarele-Ți
 picură-n
 pierde-n
 pierdută-i
+pierduţi
 piere
 pieri
+piesele-ntr-un
 place-așa
 plata-n
 plata-și
@@ -2003,6 +2114,7 @@ plăteam
 plăti
 plătit-o
 poart-al
+poarta-nchisă
 poartă-ți
 poate-a
 poate-ndepărta
@@ -2058,6 +2170,7 @@ primind
 primit-o
 primiți
 prinde
+prinde-mă
 prindă
 prinși
 privea
@@ -2116,11 +2229,15 @@ pământu-acesta
 părinte-nalt
 părintească
 părăsește
+părăsești
 părăsi
 părăsi-vom
 părăsim
 părăsiți
+păstorească
 păstori
+păstorii-n
+păstorilor
 păstoru
 păstorul
 păstra
@@ -2137,6 +2254,7 @@ păzești
 păzi
 păzim
 păziți
+păşit
 pășeam
 pășește
 pășești
@@ -2150,6 +2268,7 @@ raza-Ți
 rece-a
 refuza
 repauza
+respectă
 respinge
 respingi
 revars-acuma
@@ -2206,6 +2325,7 @@ răspunzi
 răspândești
 răspândim
 răstigneam
+răstingnit
 răsuna-vor
 răsune-n
 răsună-afară
@@ -2221,6 +2341,7 @@ rătăcitoare
 rătăciți
 s-a-mbrăcat
 s-a-mplinit
+s-a-nchis
 s-a-ntrupat
 s-a-ntâlnit
 s-a-ntâmpla
@@ -2232,14 +2353,17 @@ s-ajungi
 s-ajungă
 s-ajungă-n
 s-ajuți
+s-aleg
 s-alegi
 s-alerg
+s-alunge
 s-amâni
 s-apropiat
 s-arate-atât
 s-ascult
 s-atinge
 s-auzi
+s-aștepte
 s-o-ndrepți
 sa-l
 saluta
@@ -2250,6 +2374,8 @@ salvatorul
 salvați
 salveze
 salvezi
+saviv
+savivlah
 schimba
 schimbase
 schimbat-o
@@ -2260,6 +2386,7 @@ schimbi
 schimbă
 sclipitoare
 sclipitul
+scoală-n
 scriși
 scrâșnește
 scufunda
@@ -2296,6 +2423,7 @@ se-nalță
 se-nchină
 se-ncreadă-n
 se-ncred
+se-ncrede
 se-ncuia
 se-ndreaptă
 se-nfrica
@@ -2303,6 +2431,7 @@ se-ngrijește
 se-nnoiește
 se-nspăimântă
 se-ntindă
+se-ntunecă
 se-ntâlneau
 se-ntâmple
 se-odihnește
@@ -2384,15 +2513,21 @@ spală-n
 spală-orice
 sparge-mi
 spate-o
+speranţa
+speranţă-n
 speranța-mi
 speranța-n
 spere
 speri
+spijinești
+spre-a
 spre-a-Ți
 spre-acele
 spre-alte
 spre-ndreptarea
+spre-o
 spre-un
+sprijinește
 sprijinește-o
 sprijinești
 spui
@@ -2401,6 +2536,7 @@ spune
 spune-n
 spunea
 spunem
+spuneți
 spună
 spună-oricine
 spărtură-ntregind
@@ -2412,6 +2548,7 @@ stinse-n
 strajă-ar
 strice
 strice-n
+strigați
 strigând
 strigă-al
 strigă-n
@@ -2424,6 +2561,7 @@ strânge-al
 strângi
 străbate-al
 străbate-așa
+strălucea
 strălucească-n
 strălucește
 strălucește-n
@@ -2505,6 +2643,7 @@ te-amăgit
 te-apasă
 te-ar
 te-ascultă
+te-asemeni
 te-atingă
 te-așteaptă
 te-așteptăm
@@ -2512,6 +2651,7 @@ te-mpaci
 te-mpinge
 te-ncearcă
 te-ncrezi
+te-ndeamnă
 te-ndoi
 te-nfricoșa
 te-nfășoară
@@ -2529,6 +2669,7 @@ teme-al
 termina
 timpu-aproape
 timpul-i
+tin
 tine-au
 tine-i
 tine-un
@@ -2547,6 +2688,7 @@ toridă
 totu-i
 totu-mi
 totu-n
+toţi
 toții-n
 transforma
 transformă
@@ -2595,6 +2737,7 @@ tu-n
 tulbura
 tună
 turbată
+tzion
 tânjește
 tânji
 tânjim
@@ -2628,12 +2771,14 @@ umblați
 umbli
 umblând
 umbre-n
+umbrele-i
 umbri
 umbră-i
 umezi
 umflă
 umilește
 umilință-n
+umple-acest
 umple-n
 umpleți-vă
 una-n
@@ -2642,10 +2787,13 @@ unde-am
 unde-aștept
 ungi
 uni
+unica
 unim
 uniți
 urca
 urci
+urcă
+uriașu-n
 urla
 urmează-L
 urmezi
@@ -2676,6 +2824,7 @@ va-ntoarce
 va-ntuneca
 va-ntări
 va-nvia
+va-nvăța
 vadă-aș
 vadă-ntregul
 valoare-n
@@ -2689,9 +2838,12 @@ veni-n
 veni-va
 venit-ai
 veseli
+veste-aducem
 vestea-n
+vestește
 vestește-a
 vestește-nțelepciunea
+vestește-o
 vesti
 vestim
 vestind
@@ -2703,6 +2855,8 @@ veșnicie-n
 veșnică
 veșnică-ți
 veștejește
+viaţa
+viaţă
 viaț-am
 viața-L
 viața-adus
@@ -2714,6 +2868,7 @@ viață-mi
 viață-n
 viață-ntreagă
 viață-ntreagă-I
+vieţii
 vieții-n
 viețuiești
 viețuim
@@ -2750,6 +2905,7 @@ vorbi
 vorbire-n
 vorbitu-mi-au
 vorbiți
+vremea-mplinită
 vreodat’
 vrăjmașu-a
 vă-mbrac
@@ -2836,6 +2992,7 @@ zărim
 înainte-I
 înainte-Ți
 înaintăm
+înalțăm
 înc-așteaptă
 înc-o
 înc-odată
@@ -2845,6 +3002,8 @@ zărim
 începi
 închide
 închina
+închinați
+închinați-vă
 închine
 închină
 închină-I
@@ -2863,6 +3022,7 @@ zărim
 îndreptăm
 îndrepți
 înflorești
+înfricați
 înfrice
 înfrunta
 înfrățești
@@ -2881,12 +3041,14 @@ zărim
 însoțește
 însoțești
 însoțiți
+însuflețești
 întinde
 întinde-Ți
 întindă
 întinzi
 întocmești
 întotdeauna-aleg
+între-acei
 întreaga-mi
 întrece
 întrece-orice-nțeles
@@ -2897,6 +3059,8 @@ zărim
 întâlni
 întâlnim
 întâmpina
+întâmpine
+întâmpini
 întărește
 întărești
 întări
@@ -2919,12 +3083,15 @@ zărim
 înțeleagă
 înțelege
 înțelegi
+şi
+şi-acest
 Și-a-ntors
 Și-acei
 Și-acest
 Și-acționăm
 Și-adâncă
 Și-al
+Și-alungă
 Și-apoi
 Și-ascultă
 Și-astfel
@@ -2938,9 +3105,11 @@ zărim
 Și-aș
 Și-așteaptă
 Și-ațintește-a
+Și-mpăratul
 Și-mpărăția
 Și-nainte-Ți
 Și-naintea
+Și-ncet
 Și-ncuia
 Și-nfierea
 Și-nsoțești
@@ -2987,6 +3156,7 @@ zărim
 și-ncercări
 și-nchinare
 și-ndepărtat
+și-ndurare
 și-ndurarea
 și-ndurător
 și-nfășurat
@@ -3010,6 +3180,7 @@ zărim
 șterge
 ștergi
 știe-ntreaga
+Ți-adoră
 Ți-aduc
 Ți-aducem
 Ți-aparțin
@@ -3027,10 +3198,12 @@ zărim
 Ține
 Ține-mi
 Ține-mă
+Ținta-i
 țar-avem
 ți-ar
 ți-este
 ți-i
+ți-o-aducem
 ții
 ține
 ține-așa
@@ -3058,6 +3231,7 @@ zărim
 ’nainte-mi
 ’naintea
 ’naintăm
+’nalt
 ’nalte
 ’naltă
 ’nalț

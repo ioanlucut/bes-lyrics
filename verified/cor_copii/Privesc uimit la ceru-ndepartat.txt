@@ -1,0 +1,29 @@
+[title]
+Privesc uimit la ceru-ndepărtat
+
+[sequence]
+1,c,t,c,b,c
+
+[1]
+Privesc uimit la ceru-ndepărtat,
+Să număr stelele am încercat și eu,
+Dar n-o să termin niciodată.
+Întinsul lor este fără sfârșit
+Precum iubirea ce ne-a întocmit pe noi,
+Dragostea Sa de Tată:
+
+[chorus]
+/: Aleluia, Domnul m-a creat
+Și eu știu cine sunt,
+Căci El e minunat! :/
+
+[chorus 2]
+/: El ține galaxii în mâna Sa,
+Dar are timp să poarte grija mea
+Și El cunoaște totul despre mine. :/
+
+[bridge]
+/:El e Alfa, Omega,
+Sfârșit și început.
+E Rege și Tată,
+Prieten ne-ntrecut. :/

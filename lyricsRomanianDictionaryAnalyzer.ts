@@ -3,6 +3,7 @@
 // 100% reliable thus it cannot be used as a validator per se
 // ---
 
+import recursive from 'recursive-readdir';
 import _ from 'lodash';
 import fs from 'fs';
 import path from 'path';
@@ -32,14 +33,12 @@ const getSongInSections = (songText: string) =>
     .filter(Boolean)
     .map(_.trim);
 
-const analyzeAndGet = (dir: string, speller: NSpell) => {
+const analyzeAndGet = async (dir: string, speller: NSpell) => {
   const incorrectWords = [] as string[];
 
-  fs.readdirSync(dir)
-    .filter((file) => !_.isEqual(file, TEST_FILE))
-    .forEach((fileName) => {
-      const filePath = path.join(__dirname, dir, fileName);
-
+  (await recursive(dir))
+    .filter((file) => !_.includes(file, TEST_FILE))
+    .forEach((filePath) => {
       const songAsString = fs.readFileSync(filePath).toString();
       const songSections = getSongInSections(songAsString);
       const normalizedSongSections = songSections.map((section) => {
@@ -112,7 +111,7 @@ const analyzeAndGet = (dir: string, speller: NSpell) => {
     existingCustomWordsAsString,
   );
 
-  const rawWords = analyzeAndGet(process.env.VERIFIED_DIR, speller);
+  const rawWords = await analyzeAndGet(process.env.VERIFIED_DIR, speller);
   const unknownOrIncorrectWords = _.without(
     _.uniq(rawWords).sort(),
     CARRIAGE_RETURN,

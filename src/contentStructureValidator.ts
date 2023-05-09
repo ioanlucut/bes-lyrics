@@ -44,6 +44,12 @@ export const verifyStructure = (content: string) => {
         case SequenceChar[SongSection.VERSE_8]: {
           return SongSection.VERSE_8;
         }
+        case SequenceChar[SongSection.VERSE_9]: {
+          return SongSection.VERSE_9;
+        }
+        case SequenceChar[SongSection.VERSE_10]: {
+          return SongSection.VERSE_10;
+        }
         case SequenceChar[SongSection.CHORUS]: {
           return SongSection.CHORUS;
         }
@@ -66,7 +72,7 @@ export const verifyStructure = (content: string) => {
           return SongSection.BRIDGE_2;
         }
         default: {
-          throw new Error(`Unknown ${sequenceSection}`);
+          throw new Error(`Unknown "${sequenceSection}" section.`);
         }
       }
     });
@@ -87,6 +93,7 @@ export const verifyStructure = (content: string) => {
       Object.keys(sectionsHashMap),
       SongSection.TITLE,
       SongSection.SEQUENCE,
+      SongSection.TAGS,
     ),
     arrangementSequencesAsSections,
   );
