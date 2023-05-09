@@ -1,41 +1,33 @@
 [title]
-Habothim ba„hashem kehar tzion
+Habothim ba’hashem kehar tzion
 
 [sequence]
-1,c,c,2,c,c,c
+1,b,2,c,3,w,c
 
 [1]
-4x
 /: Habothim ba’hashem kehar tzion
-Lo-imot le’olam ieshem :/ (4x)
+Lo-imot le’olam ieshem. :/ (4x)
 
-[chorus]
-/: Ierushalaim harim saviv lah
-Ve’hashem saviv le’amo :/ (2x)
+[bridge]
+/: Ierushalaim, harim saviv lah
+Ve’hashem saviv le’amo. :/ (2x)
 
-[chorus]
+[2]
 /: Cei ce se-ncred în Domnul Isus
-Sunt ca Muntele Sionului
+Sunt ca Muntele Sionului.
 Cei ce au credință în Domnul Isus
 Nu se clatină pe veci! :/
 
-[2]
-Ierusalim, locul preaiubit
-Isus, pe veci va domni
-Ierusalim, locul preaiubit
+[chorus]
+Ierusalim, locul preaiubit,
+Isus, pe veci va domni!
+Ierusalim, locul preaiubit,
 Isus, pe veci va domni!
 
-[chorus]
-/:Pe veci va domni, pe veci va domni
-Isus, pe veci va domni:/
+[3]
+/: Pe veci va domni, pe veci va domni,
+Isus, pe veci va domni. :/
 
-[chorus]
-/:Irușalaim,
-harim savivlah
-Vașem saviv liamo:/
-
-[chorus]
-/:Ierusalim, locul preaiubit
-Isus, pe veci va domni
-Ierusalim, locul preaiubit
-Isus, pe veci va domni!:/
+[bridge 2]
+/: Irușalaim, harim savivlah
+Vașem saviv liamo. :/
