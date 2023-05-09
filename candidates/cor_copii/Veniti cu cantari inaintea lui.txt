@@ -2,34 +2,26 @@
 Veniți cu cântări înaintea lui
 
 [sequence]
-1,2,3,4,5,c
+1,2,3,1,2,c
 
 [1]
-Veniți cu cântări înaintea Lui
-Mare este puterea Domnului
-Veniți închinați-vă pe muntele Lui Mare este puterea Domnului.
+Veniți cu cântări înaintea Lui,
+Mare este puterea Domnului!
+Veniți, închinați-vă pe muntele Lui,
+Mare este puterea Domnului.
 
 [2]
-Nu-i nimeni ca El puternic,biruitor
+Nu-i nimeni ca El puternic, biruitor
 Doar brațul Său sfânt ne vine în ajutor!
 
 [3]
 Să strigăm cu toți de bucurie
-Domnului cel Sfânt Iehova
+Domnului cel Sfânt Iehova!
 Să cântăm cu toți cu veselie
 Lui Dumnezeu!
 
-[4]
-Veniți cu cântări înaintea Lui
-Mare este puterea Domnului
-Veniți închinați-vă pe muntele Lui Mare este puterea Domnului.
-
-[5]
-Nu-i nimeni ca El puternic,biruitor
-Doar brațul Său sfânt ne vine în ajutor!
-
 [chorus]
-/:Să strigăm cu toți de bucurie
-Domnului cel Sfânt Iehova
-Să cântăm cu toți cu veselie:/
-/:Lui Dumnezeu!:/ 3x
+/: Să strigăm cu toți de bucurie
+Domnului cel Sfânt Iehova!
+Să cântăm cu toți cu veselie :/
+/: Lui Dumnezeu! :/ (3x)
