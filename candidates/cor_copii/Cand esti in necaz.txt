@@ -2,21 +2,19 @@
 Când ești în necaz
 
 [sequence]
-1,2,c,c
+1,c,2,c
 
 [1]
- /: Când ești în necaz și îți este greu Și ești apăsat în sufletul tău /: Nu uita, nu uita :/ nu uita !
+ /: Când ești în necaz și îți este greu, 
+ Și ești apăsat în sufletul tău, 
+ /: Nu uita, nu uita, :/ nu uita!
 
-[2]
+[chorus]
  /: Căci cei ce se încred în Domnul
 Vor avea putere din belșug
-Și vor zbura ca vulturii spre cer :/
+Și vor zbura ca vulturii spre cer. :/
 
-
-[chorus]
-/: Bucurie e-acum în viața ta Pacea-ți inundă inima /: Inima, inima:/ inima !
-
-[chorus]
-/: Căci cei ce se încred în Domnul
-Vor avea putere din belșug
-Și vor zbura ca vulturii spre cer :/
+[2]
+/: Bucurie e-acum în viața ta, 
+Pacea-ți inundă inima,
+/: Inima, inima, :/ inima!
