@@ -5,24 +5,24 @@ Isus mă încred în tin
 1,c,2,3,c
 
 [1]
-Isus mă încred în Tin
-Lângă Tine vreau să fiu
+Isus mă încred în Tin,
+Lângă Tine vreau să fiu,
 Ajută-mă să înțeleg
 Cât de mult Tu mă iubești.
 
 [chorus]
-/:În dragoste nu este frică
+/: În dragoste nu este frică,
 Dragostea-i desăvârșită
-Și-alungă frica
-Alungă frica!:/
-/:Dragostea lui Dumnezeu:/
+Și-alungă frica,
+Alungă frica! :/
+/: Dragostea lui Dumnezeu. :/
 
 [2]
-Toti /:În dragoste nu este frică
+Toți: /: În dragoste nu este frică,
 Dragostea-i desăvârșită
-Și-alungă frica
-Alungă frica!:/
-/:Dragostea lui Dumnezeu:/
+Și-alungă frica,
+Alungă frica! :/
+/: Dragostea lui Dumnezeu. :/
 
 [3]
 Isus mă încred în Tin
@@ -31,9 +31,9 @@ Ajută-mă să înțeleg
 Cât de mult Tu mă iubești.
 
 [chorus]
-/:În dragoste nu este frică
+/: În dragoste nu este frică
 Dragostea-i desăvârșită
-Și-alungă frica
-Alungă frica!:/
-/:Dragostea lui Dumnezeu:/
-Isus mă încred în Tine
+Și-alungă frica,
+Alungă frica! :/
+/: Dragostea lui Dumnezeu. :/
+Isus, mă încred în Tine!
