@@ -1,30 +1,30 @@
 [title]
-Cântă israel că dumnezeu e domnul
+Cântă Israel că Dumnezeu e Domnul
 
 [sequence]
-c,1,2,c,3,4,c
+c,1,t,c,2,t,e
 
 [chorus]
-/:Cântă Israel că Dumnezeu e Domnul,
+/: Cântă Israel că Dumnezeu e Domnul,
 Aleluia!:/
 
 [1]
-Să Îl iubești pe Domnul Dumnezeul tău cu toată inimaȘi viața ta să îi aducă toată gloria.
+Să Îl iubești pe Domnul 
+Dumnezeul tău cu toată inima
+Și viața ta să Îi aducă toată gloria.
+
+[chorus 2]
+El este-al nostru Rege 
+Și prin pustiu ne trece.
+’Naintea Lui noi ne plecăm
+Și jertfa noastră Îi închinăm.
 
 [2]
-El este-al nostru Rege Și prin pustiu ne trece’Naintea Lui noi ne plecămȘi jertfa noastră Îi închinăm
+Călăuzirea Lui în stâlp de nor 
+Și stâlp de foc ne-a apărat,
+Pe drumul greu doar mâna Sa 
+Mereu ne-a protejat!
 
-[chorus]
-/:Cântă Israel că Dumnezeu e Domnul,
-Aleluia!:/
-
-[3]
-Călăuzirea Lui în stâlp de nor Și stâlp de foc ne-a apărat
-Pe drumul greu doar mâna Sa mereu ne-a protejat!
-
-[4]
-El este-al nostru Rege Și prin pustiu ne trece’Naintea Lui noi ne plecămȘi jertfa noastră Îi închinăm
-
-[chorus]
-/:Cântă Israel că Dumnezeu e Domnul,
-Aleluia!:/3x
+[ending]
+/: Cântă Israel că Dumnezeu e Domnul,
+Aleluia! :/ (3x)
