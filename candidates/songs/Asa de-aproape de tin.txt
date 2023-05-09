@@ -1,11 +1,11 @@
 [title]
-Așa de-aproape de tin’
+Așa de-aproape de Tin’
 
 [sequence]
 c,1,c,2,t
 
 [chorus]
-/: Așa de-aproape de tin’
+/: Așa de-aproape de Tin’,
 Simt cum Te bucuri sau suspini,
 Strâns legat sunt de inima Ta,
 Aproape de ea. :/
@@ -23,7 +23,7 @@ Privesc prin ochii Tăi și văd mila Ta
 Căci sunt așa de-aproape de Tin’.
 
 [chorus 2]
-Așa de-aproape de tin’
+Așa de-aproape de Tin’
 Simt cum Te bucuri sau suspini,
 Strâns legat sunt de inima Ta,
 /: Aproape de ea. :/
