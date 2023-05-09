@@ -2,19 +2,19 @@
 Ți s-a arătat ce este binele
 
 [sequence]
-c,c,c
+1,2,3
 
-[chorus]
-/:Ți s-a arătat ce este binele:/
-/:Și ce alta cere Domnul de la tine?:/
-/:Decât să umbli pe căile drepte:/
+[1]
+/: Ți s-a arătat ce este binele :/
+/: Și ce alta cere Domnul de la tine? :/
+/: Decât să umbli pe căile drepte. :/
 
-[chorus]
-/:Ți s-a arătat ce este binele:/
-/:Și ce alta cere Domnul de la tine:/
-/:Decât să umbli cu milă prin lume:/
+[2]
+/:Ț i s-a arătat ce este binele :/
+/: Și ce alta cere Domnul de la tine? :/
+/: Decât să umbli cu milă prin lume. :/
 
-[chorus]
-/:Ți s-a arătat ce este binele:/
-/:Și ce alta cere Domnul de la tine:/
-/: Decât să umbli smerit cu Dumnezeu:/
+[3]
+/: Ți s-a arătat ce este binele :/
+/: Și ce alta cere Domnul de la tine? :/
+/: Decât să umbli smerit cu Dumnezeu. :/

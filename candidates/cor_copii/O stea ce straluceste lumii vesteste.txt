@@ -1,63 +1,42 @@
 [title]
-O stea ce strălucește lumii vestește
+O stea ce strălucește, lumii vestește
 
 [sequence]
-1,2,3,4,c,5,6,7
+1,c,2,c,b,3,4,c,e
 
 [1]
-O stea ce strălucește, lumii vestește,
-Emanuel
+O stea ce strălucește, lumii vestește, Emanuel
 Un Prunc născut în iesle,
-Rege ne este,
-Emanuel.
-
-[2]
-Cântăm Glorie,
-Glorie
-Pace sus în cer, pace pe pământ
-Cântăm Glorie,
-Glorie
-S-a născut Isus,
-Fiul celui Sfânt!
-
-[3]
-În El este speranță și siguranță,
-Emanuel
-Lumii dă mântuire, dă izbăvire
-Emanuel.
-
-[4]
-Cântăm Glorie,
-Glorie
-Pace sus în cer, pace pe pământ
-Cântăm Glorie,
-Glorie
-S-a născut Isus,
-Fiul celui Sfânt!
+Rege ne este, Emanuel.
 
 [chorus]
-/:Deci să nu vă temeți O veste-aducem tuturor
+Cântăm glorie, glorie,
+Pace sus în cer, pace pe pământ,
+Cântăm glorie, glorie
+S-a născut Isus, Fiul celui Sfânt!
+
+[2]
+În El este speranță și siguranță, Emanuel
+Lumii dă mântuire, dă izbăvire,
+Emanuel.
+
+[bridge]
+/: Deci să nu vă temeți,
+O veste-aducem tuturor,
 În cetatea lui David
-Vi s-a născut un Mântuitor!:/
+Vi s-a născut un Mântuitor! :/
 
-[5]
-Vino și tu la iesle, har încă este,
-Emanuel
-Dragostea Lui te-ndeamnă Și azi te cheamă Emanuel.
+[3]
+Vino și tu la iesle, har încă este, Emanuel
+Dragostea Lui te-ndeamnă 
+Și azi te cheamă, Emanuel.
 
-[6]
-Cântă-I glorie, glorie
+[4]
+Cântă-I glorie, glorie,
 Pace sus în cer, pace pe pământ
-Cântă-I glorie, glorie
-S-a născut Isus Fiul celui Sfânt.
+Cântă-I glorie, glorie,
+S-a născut Isus, Fiul celui Sfânt.
 
-[7]
-Cântăm Glorie,
-Glorie
-Pace sus în cer, pace pe pământ
-Cântăm Glorie,
-Glorie
-S-a născut Isus,
-Fiul celui Sfânt!
+[ending]
 Pace pe pământ,
 Pace-n cerul sfânt!

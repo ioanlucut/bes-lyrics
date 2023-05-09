@@ -1,76 +1,33 @@
 [title]
-Un rege sfânt s-a născut în betleem
+Un rege sfânt s-a născut în Betleem
 
 [sequence]
-1,2,3,4,c,5,c
+1,c,2,c,t,b,c
 
 [1]
-Un Rege sfânt s-a născut în Betleem,
-Aleluia!
-E Împărat dar coroana nu-i vedem,
-Aleluia!
+Un Rege sfânt s-a născut în Betleem, Aleluia!
+E Împărat dar coroana nu-i vedem, Aleluia!
 Atotputernic și totuși mic
 Prin El salvare noi am primit!
 
+[chorus]
+Un Rege sfânt într-o iesle s-a născut
+Un Împărat, Isus este minunat,
+Al păcii Domn pe pământ s-a întrupat.
+Emanuel, Dumnezeu este cu noi!
+
 [2]
-Un Rege sfânt
-
-
-Într-o iesle s-a născut
-Un Împărat
-
-Isus este minunat
-Al păcii Domn
-
-
-Pe pământ s-a întrupat
-Emanuel,
-Dumnezeu este cu noi!
-
-[3]
-Nu în palat ci-ntr-o iesle e culcat,
-Aleluia!
-La nașterea Sa mii de îngeri au cântat,
-Aleluia!
-Cerul de slavă și glorie-i plin
+Nu în palat ci-ntr-o iesle e culcat, Aleluia!
+La nașterea Sa mii de îngeri au cântat, Aleluia!
+Cerul de slavă și glorie-i plin,
 Magii cu daruri la Prunc ei vin!
 
-[4]
-Un Rege sfânt
-
-
-Într-o iesle s-a născut
-Un Împărat
-
-Isus este minunat
-Al păcii Domn
-
-
-Pe pământ s-a întrupat
-Emanuel,
-Dumnezeu este cu noi!
-
-[chorus]
-/:Haideți azi cu toți cântați
-Pe Domnul lăudați
+[chorus 2]
+/: Haideți azi cu toți cântați,
+Pe Domnul lăudați,
 Pruncului vă închinați
-Cu toți vă bucurați!:/2x
+Cu toți vă bucurați! :/ (2x)
 
-[5]
-Cerul de slavă și glorie-i plin
+[bridge]
+Cerul de slavă și glorie-i plin,
 Magii cu daruri la Prunc ei vin!
-
-[chorus]
-/:Un Rege sfânt
-
-
-Într-o iesle s-a născut
-Un Împărat
-
-Isus este minunat
-Al păcii Domn
-
-
-Pe pământ s-a întrupat
-Emanuel,
-Dumnezeu este cu noi!:/

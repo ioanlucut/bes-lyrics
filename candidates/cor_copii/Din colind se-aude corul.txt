@@ -5,25 +5,19 @@ Din colind se-aude corul
 1,c,2,c
 
 [1]
-Din colind se-aude corul
-Copilașii se trezesc
-S-a născut Mântuitorul
+Din colind se-aude corul,
+Copilașii se trezesc,
+S-a născut Mântuitorul,
 Pruncul cel Dumnezeiesc.
 
 [chorus]
-/:S-a născut sărac
-Cel ce este mai avut
-Într-o iesle înfășat
-Cel făr’ de-nceput:/
+/: S-a născut sărac,
+Cel ce este mai avut.
+Într-o iesle înfășat,
+Cel făr’ de-nceput. :/
 
 [2]
-S-a născut Mântuitorul
-Bucuria tuturor
+S-a născut Mântuitorul,
+Bucuria tuturor.
 Pentru cei făr’ de speranță
 A venit ca Salvator.
-
-[chorus]
-/:S-a născut sărac
-Cel ce este mai avut
-Într-o iesle înfășat
-Cel făr’ de-nceput:/...Cel făr’de-nceput...

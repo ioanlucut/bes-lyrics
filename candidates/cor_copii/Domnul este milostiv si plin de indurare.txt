@@ -2,37 +2,25 @@
 Domnul este milostiv și plin de îndurare
 
 [sequence]
-c,c,c,c,c,1,2
+c,b,c,t,c,1,c
 
 [chorus]
-/:Domnul este milostiv și plin de îndurare
-Îndelung răbdător și plin de bunătate:/
+/: Domnul este milostiv și plin de îndurare,
+Îndelung răbdător și plin de bunătate. :/
 
-[chorus]
-/:El iertare îmi dă
-Atunci când greșesc
-Bucuros Îl urmez
-Pe Isus Îl iubesc:/
+[bridge]
+/: El iertare îmi dă
+Atunci când greșesc.
+Bucuros Îl urmez,
+Pe Isus Îl iubesc. :/
 
-[chorus]
-/:Domnul este milostiv și plin de îndurare
-Îndelung răbdător și plin de bunătate:/
-
-[chorus]
-/:El e credincios, drept și curat
+[chorus 2]
+/: El e credincios, drept și curat.
 De păcatul meu,
-Domnul m-a iertat!:/
-
-[chorus]
-/:Domnul este milostiv și plin de îndurare
-Îndelung răbdător și plin de bunătate:/
+Domnul m-a iertat! :/
 
 [1]
-Calea bună mi-o va arăta
-S-o urmez Isus mă va-nvăța
-Hai și tu cu mine să-L urmăm
+Calea bună mi-o va arăta,
+S-o urmez Isus mă va-nvăța.
+Hai și tu cu mine să-L urmăm,
 Numele Lui mare să-L lăudăm!
-
-[2]
-Final: Domnul este milostiv și plin de îndurare
-Îndelung răbdător și plin de bunătate!
