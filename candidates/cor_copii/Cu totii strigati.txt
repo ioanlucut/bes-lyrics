@@ -2,40 +2,31 @@
 Cu toții strigați
 
 [sequence]
-1,2,3,4,5,6,7
+1,c,t,2,c,b,t
 
 [1]
-Ce mare și bun este-al nostru-mpărat
-Aproape de noi ne-ncetat
-
-
-Cuvântul Lui este lumin-adevăr
+Ce mare și bun este-al nostru-mpărat,
+Aproape de noi ne-ncetat,
+Cuvântul Lui este lumin-adevăr,
 Ne-arată cărarea spre cer.
 
+[chorus]
+Îmi poartă de grijă Iehova Ihre
+Și n-am nici o lipsă cu El.
+Pentru cei bolnavi este vindecător,
+E domnul lui Israel.
+
+[chorus 2]
+Cu toții strigați, pe Rege înălțați,
+Lăudați-L, cântați osanale, 
+Să sune cântări pentru Împărat, 
+Pentru Domnul lui Israel!
 
 [2]
-Îmi poartă de grijă Iehova IhreȘi n-am nici o lipsă cu El
-Pentru cei bolnavi este vindecător
-E domnul lui Israel.
-
-[3]
-Cu toții strigați
-Pe Rege înălțați Lăudați-L, cântați osanale  Să sune cântări pentr Împărat  Pentru Domnul lui Israel!
-
-[4]
-În luptă voi fi cu El încrezător
-Iehova e steagul meu
-Alături de El voi fi biruito
+În luptă voi fi cu El încrezător,
+Iehova e steagul meu!
+Alături de El voi fi biruitor,
 Măreț este-al meu Dumnezeu.
 
-[5]
-Îmi poartă de grijă Iehova IhreȘi n-am nici o lipsă cu El
-Pentru cei bolnavi este vindecător
-E domnul lui Israel.
-
-[6]
-Aleluia 4x
-
-[7]
-Cu toții strigați
-Pe Rege înălțați Lăudați-L, cântați osanale  Să sune cântări pentr Împărat  Pentru Domnul lui Israel!
+[bridge]
+Aleluia! (4x)
