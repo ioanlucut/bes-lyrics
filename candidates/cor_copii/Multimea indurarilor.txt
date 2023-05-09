@@ -1,50 +1,35 @@
 [title]
-Mulțimea îndurarilor
+Mulțimea îndurărilor
 
 [sequence]
-1,2,3,4,5,6
+1,c,2,c,3,c
 
 [1]
-Când eu privesc în urma mea
-Văd Doamne sfinte pașii Tăi
-Cum m-au purtat pe munți înalți
-Dar și-n prăpăstii și în văi
+Când eu privesc în urma mea,
+Văd, Doamne sfinte, pașii Tăi
+Cum m-au purtat pe munți înalți,
+Dar și-n prăpăstii și în văi.
 
-
+[chorus]
+Lucrarea Tu-Ți însuflețești,
+O, Doamne-n cursul anilor,
+Ajută-ne să nu uităm
+Mulțimea îndurărilor!
 
 [2]
-Lucrarea Tu-Ți însuflețești
-O,
-Doamne-n cursul anilor
-Ajută-ne să nu uităm
-Mulțimea îndurărilor!
+Când prin cuptoare ne-ai trecut
+Ca pe cei trei, Tu ne-ai vegheat.
+Focul nu ne-a atins,
+Putere, Doamne, Tu ne-ai dat.
 
 [3]
-Când prin cuptoare ne-ai trecut
-Ca pe cei trei,
-Tu ne-ai vegheat
-Focul nu ne-a atins
-Putere,
-Doamne,
-Tu ne-ai dat.
-
-[4]
-Lucrarea Tu-Ți însuflețești
-O,
-Doamne-n cursul anilor
-Ajută-ne să nu uităm
-Mulțimea îndurărilor!
-
-[5]
 Prin valea morții de am fost
-De nici un rău nu ne-am temut
+De nici un rău nu ne-am temut,
 Când umbrele-i ne-amenințau
 Lumina Sfânt-a apărut.
 
-
-[6]
-Lucrarea Tu-Ți însuflețești
-O,
-Doamne-n cursul anilor
-/:Ajută-ne să nu uităm
-Mulțimea îndurărilor!:/
+[chorus]
+Lucrarea Tu-Ți însuflețești,
+O, Doamne-n cursul anilor,
+/: Ajută-ne să nu uităm
+Mulțimea îndurărilor! :/
