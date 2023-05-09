@@ -1,6 +1,9 @@
 [title]
 Cu toții strigați
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,t,2,c,b,t
 
@@ -18,8 +21,8 @@ E domnul lui Israel.
 
 [chorus 2]
 Cu toții strigați, pe Rege înălțați,
-Lăudați-L, cântați osanale, 
-Să sune cântări pentru Împărat, 
+Lăudați-L, cântați osanale,
+Să sune cântări pentru Împărat,
 Pentru Domnul lui Israel!
 
 [2]

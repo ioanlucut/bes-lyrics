@@ -1,13 +1,16 @@
 [title]
 Numai în Dumnezeu
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 c,1,c,2,c,3,c
 
 [chorus]
 /: Numai în Dumnezeu
 Mi se-ncrede sufletul mereu,
-Știu că numai de la EL 
+Știu că numai de la EL
 Îmi vine ajutorul meu. :/
 
 [1]

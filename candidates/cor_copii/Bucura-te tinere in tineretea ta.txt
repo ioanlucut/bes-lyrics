@@ -1,6 +1,9 @@
 [title]
 Bucură-te, tinere, în tinerețea ta
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,2,c,3,c,b,c
 

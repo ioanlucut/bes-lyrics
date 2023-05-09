@@ -1,6 +1,9 @@
 [title]
 Hai acum e timpul să ne-oprim
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,2,c,3
 

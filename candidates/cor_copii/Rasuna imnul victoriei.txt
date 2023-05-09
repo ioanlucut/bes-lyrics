@@ -1,6 +1,9 @@
 [title]
 Răsună imnul victoriei
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 c,1,c,2,3,4
 

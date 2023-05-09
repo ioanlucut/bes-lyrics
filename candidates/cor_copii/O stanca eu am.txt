@@ -1,6 +1,9 @@
 [title]
 O stâncă eu am
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,2,c,3,c,4,c,5,c
 

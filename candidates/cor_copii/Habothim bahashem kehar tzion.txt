@@ -1,6 +1,9 @@
 [title]
 Habothim ba’hashem kehar tzion
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,b,2,c,3,w,c
 

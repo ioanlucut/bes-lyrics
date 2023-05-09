@@ -1,6 +1,9 @@
 [title]
 Privesc uimit la ceru-ndepărtat
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,t,c,b,c
 

@@ -1,17 +1,20 @@
 [title]
 Știu bine că a Domnului e tăria
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,3,4,2,c
 
 [1]
-Știu bine că a Domnului 
+Știu bine că a Domnului
 E tăria în cer și pe pământ,
 El face lucruri mari și nepătrunse,
 Minuni fără sfârșit!
 
 [2]
-El mută deodată munții 
+El mută deodată munții
 Și-i răstoarnă dacă vrea
 Soarele se-ntunecă la porunca Sa!
 Oo, dacă El vrea să-mi facă bine
@@ -21,7 +24,7 @@ Cine-L poate opri?
 Domnul meu poruncește zorilor
 Când s-alunge noaptea
 Și-i arată dimineții locul pe cer.
-În mâna Lui El ține Universul 
+În mâna Lui El ține Universul
 Și eu-s în mâna Lui!
 
 [4]
@@ -34,5 +37,5 @@ Minuni fără sfârșit!
 /: Domnul meu poruncește zorilor
 Când s-alunge noaptea
 Și-i arată dimineții locul pe cer.
-În mâna Lui El ține Universul 
+În mâna Lui El ține Universul
 Și eu-s în mâna Lui! :/ (2x)

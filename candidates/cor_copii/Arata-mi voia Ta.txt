@@ -1,6 +1,9 @@
 [title]
 Arată-mi voia Ta
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,2,c
 

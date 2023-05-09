@@ -1,6 +1,9 @@
 [title]
 În Ghetsimani Isus venea în noaptea grea
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,3
 

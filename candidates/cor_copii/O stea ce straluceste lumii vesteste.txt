@@ -1,6 +1,9 @@
 [title]
 O stea ce strălucește, lumii vestește
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,2,c,b,3,4,c,e
 
@@ -28,7 +31,7 @@ Vi s-a născut un Mântuitor! :/
 
 [3]
 Vino și tu la iesle, har încă este, Emanuel
-Dragostea Lui te-ndeamnă 
+Dragostea Lui te-ndeamnă
 Și azi te cheamă, Emanuel.
 
 [4]

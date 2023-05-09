@@ -1,6 +1,9 @@
 [title]
 Bucurați-vă de vestea bună și s-a întrupat Cuvăntul
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,c,3,c,4,c,b,c
 
@@ -19,7 +22,7 @@ Asteptați-L toți cu bucurie pe Mesia, Domnul, pe Isus.
 [chorus]
 Slavă sus în cer, pace pe pământ,
 Cântă oastea sfântă a Domnului,
-Pace fie între oameni, 
+Pace fie între oameni,
 Pace între-acei ce sunt ai Lui.
 
 [3]

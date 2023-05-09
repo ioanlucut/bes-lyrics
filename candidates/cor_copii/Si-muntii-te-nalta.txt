@@ -1,11 +1,14 @@
 [title]
 Și-munții-te-nalță
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 p,c,1,2,c,3
 
 [prechorus]
-/: Și munții Te-nalță 
+/: Și munții Te-nalță
 Și marea Te laudă și astrele,
 Toate-Ți respectă, toate-Ți adoră Numele. :/
 

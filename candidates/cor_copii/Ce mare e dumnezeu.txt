@@ -1,13 +1,16 @@
 [title]
 Ce mare e Dumnezeu
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 c,1,2,c
 
 [chorus]
 Ce mare e Dumnezeu,
-Ce mare și bun e El! 
-Ce mare e Dumnezeu!  
+Ce mare și bun e El!
+Ce mare e Dumnezeu!
 El mă Ține-n mâna Sa.
 
 [1]

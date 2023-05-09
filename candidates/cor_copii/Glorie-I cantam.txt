@@ -1,6 +1,9 @@
 [title]
 Glorie-I cântăm
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,1,c
 

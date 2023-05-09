@@ -1,6 +1,9 @@
 [title]
 Tatăl nostru, ce ești în ceruri
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,3
 

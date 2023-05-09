@@ -1,6 +1,9 @@
 [title]
 Azi vin să Te-ntâlnesc
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 c,1,c,1
 

@@ -1,6 +1,9 @@
 [title]
 Când Dumnezeu se scoală-n picioare
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 c,1,2
 

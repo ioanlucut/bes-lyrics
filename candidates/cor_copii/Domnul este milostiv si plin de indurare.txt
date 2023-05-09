@@ -1,6 +1,9 @@
 [title]
 Domnul este milostiv și plin de îndurare
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 c,b,c,t,c,1,c
 

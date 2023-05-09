@@ -1,6 +1,9 @@
 [title]
 Isus mă încred în tin
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,2,3,c
 

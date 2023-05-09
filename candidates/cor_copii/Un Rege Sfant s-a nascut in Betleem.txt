@@ -1,6 +1,9 @@
 [title]
 Un rege sfânt s-a născut în Betleem
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,2,c,t,b,c
 

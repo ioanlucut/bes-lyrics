@@ -1,6 +1,9 @@
 [title]
 Glorie, Osanale, către cer să privim
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 c,1,c,2,c,e
 
@@ -15,7 +18,7 @@ Dar a-nviat, S-a înălțat,
 Hristos domnește ca-mpărat!
 
 [2]
-Ne bucurăm, slavă Îi dăm 
+Ne bucurăm, slavă Îi dăm
 Pentru veci, iubirea Sa cântăm,
 A înviat, s-a înălțat,
 Da, Hristos e Împărat!

@@ -1,6 +1,9 @@
 [title]
 Alerg, alerg
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 c,1,c,2,c,3,c,b,c
 

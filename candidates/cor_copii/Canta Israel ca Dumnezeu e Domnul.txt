@@ -1,6 +1,9 @@
 [title]
 Cântă Israel că Dumnezeu e Domnul
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 c,1,t,c,2,t,e
 
@@ -9,20 +12,20 @@ c,1,t,c,2,t,e
 Aleluia!:/
 
 [1]
-Să Îl iubești pe Domnul 
+Să Îl iubești pe Domnul
 Dumnezeul tău cu toată inima
 Și viața ta să Îi aducă toată gloria.
 
 [chorus 2]
-El este-al nostru Rege 
+El este-al nostru Rege
 Și prin pustiu ne trece.
 ’Naintea Lui noi ne plecăm
 Și jertfa noastră Îi închinăm.
 
 [2]
-Călăuzirea Lui în stâlp de nor 
+Călăuzirea Lui în stâlp de nor
 Și stâlp de foc ne-a apărat,
-Pe drumul greu doar mâna Sa 
+Pe drumul greu doar mâna Sa
 Mereu ne-a protejat!
 
 [ending]

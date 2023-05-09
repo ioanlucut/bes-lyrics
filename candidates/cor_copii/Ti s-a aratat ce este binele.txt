@@ -1,6 +1,9 @@
 [title]
 Ți s-a arătat ce este binele
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,3
 

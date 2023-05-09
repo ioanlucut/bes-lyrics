@@ -1,6 +1,9 @@
 [title]
 Departe într-o iesle, în paie ascuns
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,3
 
@@ -13,11 +16,11 @@ Culcat printre vite stă Pruncul Isus.
 [2]
 Departe-ntr-un staul de nimeni știut,
 La vremea-mplinită, Isus s-a născut.
-Și stele pe ceruri luciră mai viu 
+Și stele pe ceruri luciră mai viu
 Și îngeri cântară pe dealul pustiu.
 
 [3]
-Rămâi, drag Isuse, cu noi, Te rugăm!  
+Rămâi, drag Isuse, cu noi, Te rugăm!
 N-avem bogății, dar tot ce avem Îți dăm
 Iar, Tu, dă-ne binecuvântarea Ta
 /: Și viața întreagă la iesle-Ți vom sta. :/

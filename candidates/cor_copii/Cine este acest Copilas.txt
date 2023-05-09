@@ -1,13 +1,16 @@
 [title]
 Cine este acest copilaș
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,c,t,c,t,2
 
 [1]
 Cine este acest copilaș,
 Ce doarme-n brațele mamei Lui?
-În juru-I cântă îngerași 
+În juru-I cântă îngerași
 Cu drag Îl veghează păstorii.
 
 [2]

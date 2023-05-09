@@ -1,6 +1,9 @@
 [title]
 Doamne, ești bun cu min’
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 c,1,t,c,2,t,t,c
 
@@ -14,7 +17,7 @@ Ei grija mea o poartă, sunt copilul lor.
 Pentru toate vreau să-Ți spun:
 
 [chorus 2]
-Mulțumesc pentru ce mi-ai dat! 
+Mulțumesc pentru ce mi-ai dat!
 Mulțumesc pentru ce îmi dai!
 Un zâmbet am pe chipul meu
 De-aceea-Ți voi cânta mereu!
@@ -32,7 +35,7 @@ De-aceea-Ți voi cânta mereu! :/
 /: Voi cânta mereu!:/ (2x)
 
 [chorus 2]
-/: Mulțumesc pentru ce mi-ai dat! 
+/: Mulțumesc pentru ce mi-ai dat!
 Mulțumesc pentru ce îmi dai!
 Un zâmbet am pe chipul meu
 De-aceea-Ți voi cânta mereu! :/ (4x)

@@ -1,6 +1,9 @@
 [title]
 Mai mult decât o poveste
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,2,c,b,c
 

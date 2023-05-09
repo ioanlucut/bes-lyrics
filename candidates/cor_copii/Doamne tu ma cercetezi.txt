@@ -1,6 +1,9 @@
 [title]
 Doamne, Tu mă cercetezi
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,2,3,t
 
@@ -36,5 +39,5 @@ Mulțumesc că mă iubești și sufletul mi-l primești!
 Încearcă-mă și cunoaște-mi gândul meu.
 Dacă sunt pe o cale care nu-Ți place Ție,
 Du-mă pe calea cea bună a veșniciei! :/
-Doamne, Tu mă cercetezi 
+Doamne, Tu mă cercetezi
 Și-mi ești aproape tot mereu.

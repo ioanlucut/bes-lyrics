@@ -1,6 +1,9 @@
 [title]
 Veniți cu cântări înaintea lui
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,3,1,2,c
 

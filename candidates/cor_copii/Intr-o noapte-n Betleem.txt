@@ -1,6 +1,9 @@
 [title]
 Într-o noapte-n Betleem
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,c,3,4,c,b,c
 

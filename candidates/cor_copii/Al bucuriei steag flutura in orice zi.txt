@@ -1,6 +1,9 @@
 [title]
 Al bucuriei steag flutură în orice zi
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,c,1,c
 

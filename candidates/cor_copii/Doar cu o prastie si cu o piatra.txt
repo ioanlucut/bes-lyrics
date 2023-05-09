@@ -1,6 +1,9 @@
 [title]
 Doar cu o praștie și cu o piatră
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 c,1,t,2,3,c
 

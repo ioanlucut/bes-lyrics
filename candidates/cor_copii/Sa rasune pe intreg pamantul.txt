@@ -1,6 +1,9 @@
 [title]
 Să răsune pe întreg pământul
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,3,1,2,3,e
 

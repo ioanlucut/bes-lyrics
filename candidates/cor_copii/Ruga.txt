@@ -1,6 +1,9 @@
 [title]
 Rugă
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,3,4,5
 

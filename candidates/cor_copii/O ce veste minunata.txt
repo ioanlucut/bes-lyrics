@@ -1,6 +1,9 @@
 [title]
 O, ce veste minunată
 
+[tags]
+Cor copii, Dynamis
+
 [sequence]
 1,2,3
 
