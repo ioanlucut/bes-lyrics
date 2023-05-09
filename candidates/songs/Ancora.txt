@@ -2,10 +2,7 @@
 Ancora
 
 [sequence]
-1,c,2,c,b,c
-
-[bands]
-Eben-Ezer
+1,c,2,c,3,c
 
 [1]
 În orice vreme, orice-anotimp, ești aici.
@@ -25,7 +22,7 @@ Tată din ceruri, Tu m-ai primit, ești aici.
 Ești Pacea-n furtuni, un glas ce mă cheamă.
 Să înaintez, știind că susții lumea mea.
 
-[bridge]
+[3]
 Și pot să fiu sigur: Îți ții promisiunea!
 Ești tare, mă aperi, Tu-mi ești ancora.
 Tu ești Salvatorul, Speranța, Refugiul!
