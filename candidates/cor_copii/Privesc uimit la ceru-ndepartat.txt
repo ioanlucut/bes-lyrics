@@ -2,42 +2,28 @@
 Privesc uimit la ceru-ndepărtat
 
 [sequence]
-1,c,c,c,c,c
+1,c,t,c,b,c
 
 [1]
-Privesc uimit la ceru-ndepărtat
+Privesc uimit la ceru-ndepărtat,
 Să număr stelele am încercat și eu,
-Dar n-o să termin niciodată
+Dar n-o să termin niciodată.
 Întinsul lor este fără sfârșit
-Precum iubirea ce ne-a întocmit pe noi
+Precum iubirea ce ne-a întocmit pe noi,
 Dragostea Sa de Tată:
 
 [chorus]
-/:Aleluia,
-Domnul m-a creat
+/: Aleluia, Domnul m-a creat
 Și eu știu cine sunt,
-Căci El e minunat!:/
+Căci El e minunat! :/
 
-[chorus]
-/:El ține galaxii în mâna Sa
+[chorus 2]
+/: El ține galaxii în mâna Sa,
 Dar are timp să poarte grija mea
-Și El cunoaște totul despre mine:/
+Și El cunoaște totul despre mine. :/
 
-[chorus]
-/:Aleluia,
-Domnul m-a creat
-Și eu știu cine sunt,
-Căci El e minunat!:/
-
-[chorus]
-/:El e Alfa,
-Omega
-Sfârșit și început
-E Rege și Tată
-Prieten ne-ntrecut:/
-
-[chorus]
-/:Aleluia,
-Domnul m-a creat
-Și eu știu cine sunt,
-Căci El e minunat!:/
+[bridge]
+/:El e Alfa, Omega,
+Sfârșit și început.
+E Rege și Tată,
+Prieten ne-ntrecut. :/
