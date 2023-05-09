@@ -5,22 +5,22 @@ Bucuria mea ești Isus
 1,2,3
 
 [1]
-Bucuria mea ești Isus
+Bucuria mea ești Isus,
 Nimic pe pământ nu Te poate înlocui.
-Chiar când trec prin necazuri
-Știu totuși ca Tu mă conduci
-Tu ești totul în viața mea.
+/: Chiar când trec prin necazuri
+Știu totuși, ca Tu mă conduci.
+Tu ești totul în viața mea. :/
 
 [2]
-Pacea mea ești Isus
+Pacea mea ești Isus,
 Nimic pe pământ nu Te poate înlocui.
-Chiar când trec prin necazuri
-Știu totuși ca Tu mă conduci
-Tu ești totul în viața mea.
+/: Chiar când trec prin necazuri
+Știu totuși, ca Tu mă conduci.
+Tu ești totul în viața mea. :/
 
 [3]
-Izbăvirea mea ești Isus
+Izbăvirea mea ești Isus,
 Nimic pe pământ nu Te poate înlocui.
-Chiar când trec prin necazuri
-Știu totuși că Tu mă conduci
-Tu ești totul în viața mea.
+/: Chiar când trec prin necazuri
+Știu totuși, că Tu mă conduci.
+Tu ești totul în viața mea. :/
