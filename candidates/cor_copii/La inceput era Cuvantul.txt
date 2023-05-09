@@ -1,47 +1,32 @@
 [title]
-La inceput era cuvantul
+La început era Cuvântul
 
 [sequence]
-1,c,2,c,3,c
+1,c,2,c,3,c,e
 
 [1]
-La început era Cuvântul şi-acest Cuvânt e Dumnezeu
-El e viaţa şi lumina, speranţa sufletului meu
+La început era Cuvântul şi-acest Cuvânt e Dumnezeu,
+El e viaţa şi lumina, speranţa sufletului meu.
 El a venit lăsându-Şi slava şi a luat un trup ca noi
-S-avem cu toţi lumina vieţii speranţă-n ziua de apoi
+S-avem cu toţi lumina vieţii speranţă-n ziua de apoi.
 
-[c]
-/:S-a întrupat Cuvântul lumina a venit
-S-a-nfiorat Pământul pe el când a păşit
-S-a încheiat robia păcatului adamic
-Pe tron e azi Lumina şi ea domneşte-n veci.:/
+[chorus]
+/: S-a întrupat Cuvântul, lumina a venit,
+S-a-nfiorat Pământul pe el când a păşit,
+S-a încheiat robia păcatului adamic,
+Pe tron e azi Lumina şi ea domneşte-n veci. :/
 
 [2]
 Lumina a venit în lume în miez de noapte la Betleem
-Căci pe Pământ întunecimea trona în lumea de blestem
-Spiritual trăiam în noapte,
-eram pierduţi, morţi în păcat
-Aveam nevoie de Lumină,
-Ea a venit şi ne-a salvat.
-
-[c]
-/:S-a întrupat Cuvântul lumina a venit
-S-a-nfiorat Pământul pe el când a păşit
-S-a încheiat robia păcatului adamic
-Pe tron e azi Lumina şi ea domneşte-n veci.:/
+Căci pe Pământ întunecimea trona în lumea de blestem.
+Spiritual trăiam în noapte, eram pierduţi, morţi în păcat,
+Aveam nevoie de Lumină, aa a venit şi ne-a salvat.
 
 [3]
-Isus, 
-Lumina din vecie a coborât până jos la noi
+Isus, Lumina din vecie, a coborât până jos la noi
 A biruit întunecimea şi ne-a schimbat în haine noi
-În spirit noi avem viaţă,
-păcatul nostru e iertat
-Trăim prin har o viaţă sfântă,
-în noi Lumina a intrat.
+În spirit noi avem viaţă, păcatul nostru e iertat
+Trăim prin har o viaţă sfântă, în noi Lumina a intrat.
 
-[c]
-/:S-a întrupat Cuvântul lumina a venit
-S-a-nfiorat Pământul pe el când a păşit
-S-a încheiat robia păcatului adamic
-Pe tron e azi Lumina şi ea domneşte-n veci.:/
-AMIN
+[ending]
+Amin!
