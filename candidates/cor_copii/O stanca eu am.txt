@@ -2,73 +2,48 @@
 O stâncă eu am
 
 [sequence]
-1,2,3,4,5,6,7,8,9,c
+1,c,2,c,3,c,4,c,5,c
 
 [1]
 
-O stâncă eu am, o stâncă eu amȘi un nume ce-mi dă bucurie
+O stâncă eu am, o stâncă eu am
+Și un nume ce-mi dă bucurie,
 Ce din neam în neam, ce din neam în neam
 Stă tare și-acum și-n veșnicie.
 
-[2]
+[chorus]
+Cine e ca Domnul, cine e ca Domnul,
+Sfânt și preaputernic, drept și înălțat?
 Cine e ca Domnul, cine e ca Domnul?
-Sfânt și preaputernic drept și înălțat
-Cine e ca Domnul, cine e ca Domnul
 N-are-asemănare al meu Împărat!
 
-[3]
-El e Dumnezeu,
-El e Dumnezeu
-Ce mă spijinește în toate
+[2]
+El e Dumnezeu, El e Dumnezeu,
+Ce mă sprijinește în toate.
 Voi spune mereu, voi spune mereu
 La toți despre-a Lui bunătate.
 
-
-[4]
-Cine e ca Domnul, cine e ca Domnul?
-Sfânt și preaputernic drept și înălțat
-Cine e ca Domnul, cine e ca Domnul
-N-are-asemănare al meu Împărat!
-
-[5]
-El e pacea mea,
-El e pacea mea
-La vreme de grea strâmtorare
+[3]
+El e pacea mea, El e pacea mea
+La vreme de grea strâmtorare.
 În El voi avea, în El voi avea
 Izbândă-n orice-mprejurare.
 
-
-[6]
-Cine e ca Domnul, cine e ca Domnul?
-Sfânt și preaputernic drept și înălțat
-Cine e ca Domnul, cine e ca Domnul
-N-are-asemănare al meu Împărat!
-
-[7]
-Mă plec la pământ,
-mă plec la pământ
-De fața Lui nu mă simt vrednic
-El e Cel ce-i sfânt,
-El e Cel ce-i sfânt
+[4]
+Mă plec la pământ, mă plec la pământ,
+De fața Lui nu mă simt vrednic.
+El e Cel ce-i sfânt, El e Cel ce-i sfânt,
 E Domnul cel atotputernic.
 
-
-[8]
-Cine e ca Domnul, cine e ca Domnul?
-Sfânt și preaputernic drept și înălțat
-Cine e ca Domnul, cine e ca Domnul
-N-are-asemănare al meu Împărat!
-
-[9]
+[5]
 Căci nu am în cer, căci nu am în cer
-Pe nimeni n’afară de El
-Toagul de fier, toiagul de fier
+Pe nimeni n’afară de El.
+Toagul de fier, toiagul de fier,
 Iehova e Sfântul lui Israel.
 
-
 [chorus]
-/:Cine e ca Domnul, cine e ca Domnul?
-Sfânt și preaputernic drept și înălțat
-Cine e ca Domnul, cine e ca Domnul
+/: Cine e ca Domnul, cine e ca Domnul,
+Sfânt și preaputernic, drept și înălțat?
+Cine e ca Domnul, cine e ca Domnul?
 N-are-asemănare al meu Împărat!:/
 N-are-asemănare al meu Împărat!
