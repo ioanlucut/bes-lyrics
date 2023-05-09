@@ -1,47 +1,41 @@
 [title]
-Bucurați-vă de vestea buna si s-a intrupat cuvantul
+Bucurați-vă de vestea bună și s-a întrupat Cuvăntul
 
 [sequence]
-1,2,3,4,5,6,7
+1,2,c,3,c,4,c,b,c
 
 [1]
-S-a întrupat Cuvântul,
-Lumina a venit
-S-a-nfiorat pământul, pe el când a pasit
-S-a încheiat robia pacatului adamic
-Pe tron e azi lumina si ea domnește-n veci
+S-a întrupat Cuvântul, Lumina a venit,
+S-a-nfiorat pământul, pe el când a pășit.
+S-a încheiat robia păcatului adamic,
+Pe tron e azi lumina și ea domnește-n veci!
 
 [2]
-Bucurați-vă de vestea buna si deschideti-va inima
-Faceti si voi azi din ea o iesle să se nască Domnul si în ea
-Pregatiți-I astazi loc de cinste Pruncului Preasfant venit de sus
-Asteptati-L toti cu bucurie pe Mesia,
-Domnul, pe Isus.
+Bucurați-vă de vestea bună și deschideți-vă inima,
+Faceți și voi azi din ea o iesle să se nască Domnul și în ea,
+Pregătiți-I astăzi loc de cinste Pruncului Preasfânt venit de sus,
+Asteptați-L toți cu bucurie pe Mesia, Domnul, pe Isus.
+
+[chorus]
+Slavă sus în cer, pace pe pământ,
+Cântă oastea sfântă a Domnului,
+Pace fie între oameni, 
+Pace între-acei ce sunt ai Lui.
 
 [3]
-Slavă sus in cer, pace pe pamant cântă oastea sfântă a Domnului
-Pace fie între oameni, pace între-acei ce sunt ai Lui
+Duceți mai departe vestea bună că ni s-a născut Mântuitor,
+Tot așa cum îngerii din slavă vestea au adus păstorilor,
+Dați și voi în dar cu bucurie inimi sfinte astăzi lui Isus,
+Tot așa cum magii din vechime daruri scumpe Pruncului i-au dus.
 
 [4]
-Duceti mai departe vestea bună că ni s-a născut Mantuitor
-Tot asa cum îngerii din slavă vestea au adus păstorilor
-Dați si voi în dar cu bucurie inimi sfinte astăzi lui Isus
-Tot asa cum magii din vechime daruri scumpe Pruncului i-au dus
+Să ne bucurăm că El trăiește și că-I viu, și-n inimi Îl avem
+Pe-mpăratul ce în umilință s-a născut în iesle-n Betleem.
+Să-i cântam cu inimi bucuroase, slavă fie Celui ce-a venit,
+Să ne mântuiasca din pierzare, Domnul fie în veci preamărit.
 
-[5]
-Slavă sus in cer, pace pe pamant cântă oastea sfântă a Domnului
-Pace fie între oameni, pace între-acei ce sunt ai Lui
-
-[6]
-Să ne bucurăm că El trăieste si ca-I viu și-n inimi Îl avem
-Pe-mpăratul ce în umilintă s-a născut în iesle-n Betleem
-Să-i cântam cu inimi bucuroase slavă fie Celui ce-a venit
-Să ne mântuiasca din pierzare Domnul fie in veci preamărit.
-
-[7]
-Slavă sus in cer, pace pe pământ cântă oastea sfântă a Domnului
-Pace fie între oameni, pace între-acei ce sunt ai Lui
-Aleluia, Aleluia, să răsune slavă Domnului
-Aleluia, Aleluia, pace intre cei ce sunt ai Lui
-Pace între cei ce sunt ai lui
+[bridge]
+Aleluia, Aleluia, să răsune slavă Domnului!
+Aleluia, Aleluia, pace între cei ce sunt ai Lui,
+Pace între cei ce sunt ai Lui!
 Pace între cei ce sunt ai Lui!
