@@ -1,24 +1,23 @@
 [title]
-Dă-ne înțelepciune Doamne preaiubit
+Dă-ne înțelepciune, Doamne preaiubit
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
-Dă-ne înțelepciune Doamne preaiubit,
+Dă-ne înțelepciune, Doamne preaiubit,
 Să pricepem starea care-i de dorit!
-Nu vrem,
-Doamne Sfinte, să fim căldicei,
+Nu vrem, Doamne Sfinte, să fim căldicei,
 Vrem să fim în clocot, să iubim ca ieri.
 
 [chorus]
-ÎNTOARCETI-VĂ AZI PRIN HARUL DOMNULUI,
-ȘI LEPĂDAȚI FĂȚĂRNICIA VEACULUI,
-ÎNȚELEPCIUNE CEREȚI ASTĂZI DOMNULUI,
-ȘI SĂ TRĂIȚI ÎN DRAGOSTEA DINTÂI (2x)
+Întoarceți-vă azi prin harul Domnului
+Și lepădați fățărnicia veacului,
+Înțelepciune cereți astăzi Domnului
+Și să trăiți în dragostea dintâi. (2x)
 
 [2]
 Răsfoiți în urmă fila din trecut:
-Cum ați găsit Crucea și pe ea Isus!
+Cum ați găsit Crucea și pe ea Isus?
 Tot așa iubit-ați pe vrăjmași, ca frați?
 Nu cumva iubirea azi s-a micșorat?
