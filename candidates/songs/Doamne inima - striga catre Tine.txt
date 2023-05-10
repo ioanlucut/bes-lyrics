@@ -1,24 +1,27 @@
 [title]
-Doamne inima - strigă către Tine
-[sequence]
-1
-[1]
-Doamne, inima - strigă către Tine:
-Tu ești DRAGOSTEA
-Ce o simt în mine
+Doamne,inima strigă către Tine
+
+[sequence]
+1,c
+
+[1]
+Doamne, inima strigă către Tine:
+Tu ești dragostea
+Ce o simt în mine!
 Glorie, glorie, glorie Regelui!
 Vreau vocea să-Ți ascult
 Și să recunosc dulcele Tău Cuvânt,
-O, ce susur blând...
+O, ce susur blând.
 Glorie, glorie, glorie Regelui!
-[2]
-TU EȘTI TATĂL PENTRU CEI ORFANI
-ȘI MÂNGÂIEREA MEA,
-ÎNCUNUNAT CU SLAVĂ
-EU DAU GLORIE REGELUI!
-DUREREA MEA TU O ALINI
-ȘI CAPUL MI-L RIDICI,
-LACRIMA DE PE-OBRAZ ALUNGI,
-/: EU DAU GLORIE,
-GLORIE,
-EU DAU GLORIE REGELUI! :\
+
+[2]
+Tu ești Tatăl pentru cei orfani
+Și mângâierea mea.
+Încununat cu slavă,
+Eu dau glorie Regelui!
+Durerea mea Tu o alini
+
+Și capul mi-l ridici,
+Lacrima de pe-obraz alungi.
+/: Eu dau glorie, glorie,
+Eu dau glorie Regelui! :\
