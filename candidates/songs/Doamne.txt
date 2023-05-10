@@ -1,20 +1,23 @@
 [title]
 Doamne
-[sequence]
-1,2
-[1]
-Doamne,
-Tată mă întreb
+
+[sequence]
+1,2,c
+
+[1]
+Doamne, Tată mă întreb:
 Cum am putut ca să exist,
 Fără să știu că mă iubești
-Și ești Tatăl meu.
-[2]
+Și ești Tatăl meu?
+
+[2]
 Dar acum sunt fiul Tău,
 Fac parte din familia Ta
-Și singur eu nu voi mai fi,
-Căci Tată Tu ești lângă mine.
-[3]
-TE VOI LĂUDA (3x)
-ÎN VECI DE VECI ISUSE,
-TE VOI LĂUDA (3x)
-ÎN VECI DE VECI.
+Și singur eu nu voi mai fi
+Căci, Tată, Tu ești lângă mine!
+
+[3]
+Te voi lăuda (3x)
+În veci de veci, Isuse!
+Te voi lăuda (3x)
+În veci de veci!
