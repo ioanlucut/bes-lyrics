@@ -1,8 +1,8 @@
 [title]
-Doamne Isuse eu Te chem
+Doamne, Isuse, eu Te chem
 
 [sequence]
-1,c,2,c
+1,c,2,c,3,c
 
 [1]
 Doamne Isuse, eu Te chem
@@ -11,18 +11,18 @@ Necazul greu sub care gem,
 La Tine vin cum sunt!
 
 [chorus]
-/: LA TINE VIN CUM SUNT,
-DOAMNELA TINE VIN AȘA CUM SUNT,
-LA TINE VIN CUM SUNT :/
+/: La Tine vin cum sunt,
+Doamne, la Tine vin așa cum sunt,
+La Tine vin cum sunt! :/
 
 [2]
 Eu sunt bolnav în stare grea,
-Inima Tu-mi poți vindeca
+Inima Tu-mi poți vindeca.
 La Tine pace pot afla,
 La Tine vin cum sunt!
 
 [3]
 Ce-i rău în mine-ndepărtez
-Să fiu ca Tine, de-astazi, sfânt,
-Doar pentru Tin’ vreau să lucrez
+Să fiu ca Tine, de-astăzi, sfânt,
+Doar pentru Tin’ vreau să lucrez,
 La Tine vin cum sunt!
