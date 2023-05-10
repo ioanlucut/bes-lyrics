@@ -1,13 +1,16 @@
 [title]
 Fii glorificat
-[sequence]
-1
-[1]
+
+[sequence]
+1,2
+
+[1]
 FII GLORIFICAT,
 FII GLORIFICAT
 FII GLORIFICAT,
 FII GLORIFICAT.
-[2]
+
+[2]
 Fii glorificat în ceruri,
 Fii glorificat pe pământ,
 Fii glorificat în Templu,

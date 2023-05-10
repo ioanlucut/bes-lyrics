@@ -1,25 +1,30 @@
 [title]
 Harul Tău în grele clipe Doamne mi-e de-ajuns
-[sequence]
-1,2,3
-[1]
+
+[sequence]
+1,2,3,4
+
+[1]
 Harul Tău în grele clipe Doamne mi-e de-ajuns
 Căci sub sfânta Ta aripă,
 Tu mă ții ascuns.
 /: Sute de săgeți aprinse de la cel mișel,
 Toate-n har pieri-vor stinse de mă-ncred în El :/
-[2]
+
+[2]
 Harul Tău nu-l pot cuprinde e fără sfârșit,
 Inima de cer mi-o prinde mai desăvârșit
 /: Și mi-o umple de putere să pot birui
 Și ispita, și durerea, tot ce va veni :/
-[3]
+
+[3]
 Harul tău se înnoiește zilnic cum ai spus,
 Sufletul prin el primește liniștea de sus
 /: Jertfa mântuirii pline, mirul ei sfințit
 O ridic smerit spre Tine,
 Domnul meu iubit :/
-[4]
+
+[4]
 Tu mi-ești sfântă moștenire, harul mi Te-a dat
 Și-n eternă fericire sunt înveșmântat
 /: Laude și osanale Ție-Ți cânt mereu

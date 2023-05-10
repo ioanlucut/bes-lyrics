@@ -1,8 +1,10 @@
 [title]
 Stau înaintea Ta așa cum sunt
-[sequence]
-1,c,2,c
-[1]
+
+[sequence]
+1,c,2,c,b,c
+
+[1]
 Stau înaintea Ta așa cum sunt,
 Îți dau viața mea
 Da,
@@ -13,7 +15,8 @@ Da, orice-ar veni eu mă încred,
 Mă-ncredințez doar Ție
 Da, vreau să Îți cânt Doamne
 Căci Tu ești viața mea.
-[chorus]
+
+[chorus]
 DA,
 EU VREAU SĂ ÎȚI CÂNT MEREU,
 SĂ ÎȚI MULȚUMESC,
@@ -21,7 +24,8 @@ FĂ DIN MINE TOT CE TU DOREȘTI.
 IA-MI VIAȚA ÎN MÂNA TA,
 ÎȚI ÎNCHIN INIMA
 ȘI-N VECI EU ÎȚI VOI CÂNTA.
-[2]
+
+[2]
 Eu vreau să fiu în mâna Ta
 Ca să-mi conduci viața mea,
 Vreau să-Ți slujesc tot mereu
@@ -30,7 +34,8 @@ Da, orice-ar veni eu mă încred,
 Mă-ncredințez doar Ție
 Da, vreau să Îți cânt Doamne
 Căci Tu ești viața mea.
-[3]
+
+[bridge]
 Eu vreau să fiu în mâna Ta
 Ca să-mi conduci viața mea,
 Vreau să-Ți slujesc tot mereu

@@ -1,13 +1,16 @@
 [title]
 El poate da El poate
-[sequence]
-1
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 El poate, da El poate
 Să poarte povara mea chiar azi,
 El poate, da El poate
 Să m-ajute pe calea mea chiar azi.
-[2]
+
+[chorus]
 EL POATE,
 DA EL POATE
 SĂ FACĂ MAI MULT

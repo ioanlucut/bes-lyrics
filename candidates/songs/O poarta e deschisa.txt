@@ -2,7 +2,7 @@
 O poartă e deschisă
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 O poartă e deschisă

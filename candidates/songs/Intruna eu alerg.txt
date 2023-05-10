@@ -1,8 +1,10 @@
 [title]
 Întruna eu alerg
-[sequence]
-1,2
-[1]
+
+[sequence]
+1,c,2,c
+
+[1]
 Întruna eu alerg,
 Cu tot ce am în min’,
 Chiar viața mea o dau
@@ -11,12 +13,12 @@ Nimic nu-mi poate lua
 Ce Tu mi-ai pregătit,
 Mereu Tu mă ridici,
 Ești al meu Domn.
-[2]
-[c]
+
+[chorus]
 MAI MARE E CEL CE-N MINE E VIU
 DECÂT DUHUL VEACULUI.
-[3]
-[bridge]
+
+[2]
 Cred! Pot să mut și munții,
 Pot să fac tot în Hristos
 Da, știu! Cred!

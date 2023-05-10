@@ -2,7 +2,7 @@
 In aceasta noapte sfanta
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Magii din Răsărit i-aduc slavă

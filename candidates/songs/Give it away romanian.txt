@@ -2,7 +2,7 @@
 Give it away (romanian)
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Îți spun să nu îți strângi vreodată comori pe pământ

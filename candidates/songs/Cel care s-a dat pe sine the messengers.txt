@@ -2,7 +2,7 @@
 Cel care S-a dat pe Sine
 
 [sequence]
-1,c,2,c
+1,c,2,c,3,c
 
 [1]
 Dac-asculți de Dumnezeu, ești binecuvântat de El,

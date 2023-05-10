@@ -2,7 +2,7 @@
 O schimbare aș vrea în viața mea
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Viața mea Ți-am predat și acum sunt bogat,

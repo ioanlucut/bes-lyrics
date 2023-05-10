@@ -1,8 +1,10 @@
 [title]
 Ești lumina prin care privesc
-[sequence]
-1
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Ești lumina prin care privesc,
 Ești limanul pe care-l doresc,
 Mângâiere și-alin în Tine găsesc.
@@ -10,7 +12,8 @@ Ești apusul de soare-n amurg,
 Stele-n noapte-nchinare Ți-aduc,
 Sufletul îmi trezești dimineața
 Când spui: ”Te iubesc”.
-[2]
+
+[chorus]
 PENTRU TINE ÎNALȚ CÂNTECUL MEU,
 PAȘII MEI VOR CONDUCE
 SPRE TINE MEREU,

@@ -1,21 +1,26 @@
 [title]
 O ce veste îmbucurătoare
-[sequence]
-1,c,2,c
-[1]
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
 O, ce veste îmbucurătoare
 Care îngerii ne-a adus.
 Vestea despre marea îndurare
 Care Dumnezeu ne-a trimis de sus.
-[chorus]
+
+[chorus]
 IATĂ S-A NĂSCUT ISUSMÂNTUIRE NE-A ADUS.
 EL NE SCAPĂ DIN NEVOIDUMNEZEU ESTE CU NOI.
-[2]
+
+[2]
 O, ce veste îmbucurătoare,
 Cântăm toți cu-nsuflețire.
 Să vestească deci buzele noastre
 Domnul ne-a dăruit mântuire.
-[3]
+
+[3]
 O, ce veste îmbucurătoare
 Ea stâmpără orice dureri.
 Domnul de sus la noi se coboară,

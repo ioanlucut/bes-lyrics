@@ -1,18 +1,22 @@
 [title]
 Rauri de iubire
-[sequence]
-1,2
-[1]
+
+[sequence]
+1,2,c
+
+[1]
 Doamne vin așa cum sunt în fața Ta
 Să mă închin cu tot ce am, cu viața mea
 Am fost rănit,
 Dar frământarea Tu mi-o poți lua.
-[2]
+
+[2]
 Ai adus întregul cer în viața mea
 Și mi-ai pus balsamul Tău pe rana grea,
 Sunt fericit
 Că Tu rămâi mereu de partea mea.
-[3]
+
+[chorus]
 CÂND TU MĂ ÎNCONJORI CU RÂURI DE IUBIRE
 SUNT VINDECAT,
 SORBIND DIN PACEA TA,

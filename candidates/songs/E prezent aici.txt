@@ -2,7 +2,7 @@
 E prezent aici
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Poate ești lovit de vânt,

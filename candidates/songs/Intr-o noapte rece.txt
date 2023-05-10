@@ -2,7 +2,7 @@
 Într-o noapte rece
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Într-o noapte rece

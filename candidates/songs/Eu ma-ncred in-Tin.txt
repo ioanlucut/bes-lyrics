@@ -2,7 +2,7 @@
 Eu ma-ncred în tin’
 
 [sequence]
-1,c,2,c
+1,c,2,c,3,c
 
 [1]
 Renunțând la orice vis al meu

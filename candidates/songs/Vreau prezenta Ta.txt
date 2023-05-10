@@ -2,7 +2,7 @@
 Vreau prezența Ta
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Vreau prezența Ta,

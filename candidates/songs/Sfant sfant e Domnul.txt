@@ -1,25 +1,30 @@
 [title]
 Sfânt sfânt e Domnul
-[sequence]
-1,2,3
-[1]
+
+[sequence]
+1,2,3,c
+
+[1]
 Sfânt, sfânt e Domnul
 Sfânt, sfânt e Domnul
 Sfânt e Domnul și-Atotputernic
 Vrednic de toată cinstea.
-[2]
+
+[2]
 Vrednic de toată slava,
 Vrednic să primească-nchinarea,
 Laudă, laudă numelui Său,
 Laudă, în veci de veci dă-I slavă.
-[3]
+
+[3]
 Mare ești,
 Rege în veci de veci
 Pământul, cerul, marea toate le-ai creat,
 Mare ești,
 Rege în veci de veci
 Ești stânca mântuirii, salvat mi-e sufletul.
-[4]
+
+[chorus]
 NUMELE-ȚI VOM-NĂLȚA ISUSE,
 TOȚI SE VOR PLECA ÎN FAȚA TA,
 NUMELE-ȚI VOM-NĂLȚA ISUSE,

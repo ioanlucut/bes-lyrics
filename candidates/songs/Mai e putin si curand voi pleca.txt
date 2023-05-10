@@ -2,7 +2,7 @@
 Mai e puțin și curând voi pleca
 
 [sequence]
-1,c,2,c
+1,c,2,c,3,c
 
 [1]
 Mai e puțin și curând voi pleca

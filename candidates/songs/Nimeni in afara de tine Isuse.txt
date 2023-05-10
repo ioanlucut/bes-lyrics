@@ -1,21 +1,26 @@
 [title]
 Nimeni în afara de tine Isuse
-[sequence]
-1,c,2,c
-[1]
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
 Pe acest pământ Isuse
 Eu sunt ca și un străin,
 Iar durerile nespuse
 /: Mă apasă și suspin :/
-[chorus]
+
+[chorus]
 NIMENI ÎN AFARĂ DE TINE ISUSENU MĂ POATE IZBĂVI,
 NIMENI ÎN AFARĂ DE TINE ISUSENU MĂ POATE LINIȘTI. (2x)
-[2]
+
+[2]
 Doamne când ești lângă mine
 Nu-i nimica mai frumos,
 Eu mă rog mereu la Tine
 /: Să-mi faci viața cu folos :/
-[3]
+
+[3]
 Ce frumoasă-i tinerețea
 Petrecută cu Isus,
 Căci în țara mult dorită

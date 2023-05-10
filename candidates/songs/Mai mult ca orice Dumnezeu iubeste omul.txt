@@ -2,7 +2,7 @@
 Mai mult ca orice Dumnezeu iubeste omul
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 POATE ESTI IUBIT

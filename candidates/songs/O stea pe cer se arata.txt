@@ -1,8 +1,10 @@
 [title]
 O stea pe cer se arata
-[sequence]
-1,2
-[1]
+
+[sequence]
+1,2,c
+
+[1]
 Un copil ni s-a născut,
 O stea pe cer se-arată.
 Fiu de Rege ni s-a dat,
@@ -12,7 +14,8 @@ Sfetnic,
 Domn și Împărat,
 Mesia,
 Cel Așteptat.
-[2]
+
+[2]
 Ca și magii Îl căutăm,
 O stea pe cer se-arată.
 Într-o iesle să-L aflăm,
@@ -21,7 +24,8 @@ Pe Isus, pruncul cel sfânt,
 Mântuire pe pământ,
 Bucurie,
 Îi colindăm.
-[3]
+
+[chorus]
 O STEA PE CER SE-ARATĂ
 SĂ NE-NCHINĂM VENIM ÎNDATĂ
 INIMA ÎN DAR SĂ-I DĂM

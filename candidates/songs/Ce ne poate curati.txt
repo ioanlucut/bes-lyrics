@@ -2,7 +2,7 @@
 Ce ne poate curăți
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Lucrarea Ta arată dragostea

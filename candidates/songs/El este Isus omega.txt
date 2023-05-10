@@ -2,7 +2,7 @@
 El este Isus (omega)
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Pot demonii cu groază să-ntunece răcnind

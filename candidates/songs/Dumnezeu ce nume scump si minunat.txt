@@ -1,23 +1,28 @@
 [title]
 Dumnezeu ce nume scump și minunat
-[sequence]
-1,c,2,c
-[1]
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
 Dumnezeu, ce nume scump și minunat
 Te aștept să vii curând, o,
 Mire drag
 Darul meu și ruga mea mi-o îndrept,
 Vino cât mai curând eu Te aștept.
-[chorus]
+
+[chorus]
 O CE ZI,
 CE ZI MĂREAȚĂ VA FICÂND TRÂMBIȚA VA SUNA VENIREA TA,
 TE AȘTEPT ȘI-MI BATE INIMA-N PIEPTSĂ-ȚI SPUN MEREU AȘ VREA: „EU TE IUBESC”.
-[2]
+
+[2]
 Dragoste, sublimul Tău adevăr
 L-am resimțit mereu în viața mea,
 Ești izvor de pace și bucurii
 Și ochii mi-i îndrepți spre Dumnezeu..
-[3]
+
+[3]
 Sufletul și gândul meu aș vrea
 Spre Tine să-L înalț cât mai curând,
 Mâna mea să fie în mâna Ta

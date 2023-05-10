@@ -1,11 +1,14 @@
 [title]
 O tu ești Domnul meu
-[sequence]
-1
-[1]
+
+[sequence]
+c,1,c,1
+
+[chorus]
 O, TU EȘTI DOMNUL MEU
 ȘI EU TE VOI LĂUDA. (2x)
-[2]
+
+[1]
 Eu Te caut dimineața
 Căci doresc să fac voia Ta
 Și pas cu pas condu-mă,

@@ -1,13 +1,16 @@
 [title]
 Pe Isus îl asteptăm să vină cu mărire
-[sequence]
-1,c,2,c
-[1]
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
 Pe Isus îl asteptăm să vină cu mărire
 Ca să iși ridice sfinții-n slava Sa
 Acuma este timpul de sfânta pregătire
 Curând se poate ca îl vom vedea
-[chorus]
+
+[chorus]
 Tuturor noi spunem
 Că Domnul vine foarte curând
 El vine foarte curând,
@@ -15,12 +18,14 @@ El vine în curând
 Clipa e aproape și
 Domnul vine foarte curând
 El vine, vine iarăși pe pământ.
-[2]
+
+[2]
 Întreaga măreție care-I pregătită
 Domnul, cu plăcere, sfinților va da
 Și dacă viața noastră în sânge e sfințită
 În locul minunat vom intra.
-[3]
+
+[3]
 Sunt semne care strigă, strigă cu putere
 Iată că smochinul este înfrunzit
 Cuvântul se vestește prin vremuri de durere

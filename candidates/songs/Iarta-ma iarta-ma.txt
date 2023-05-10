@@ -1,39 +1,40 @@
 [title]
 Iarta-ma iarta-ma
-[sequence]
-1,2,3,4
-[1]
+
+[sequence]
+c,1,c,2,c,3,c,4,c,5
+
+[chorus]
 IARTĂ-MĂ,
 IARTĂ-MĂIARTĂ-MĂ,
-DUMNEZEUL MEU! /: Pentru gândul nesfințit,
+DUMNEZEUL MEU!
+
+[1]
+/: Pentru gândul nesfințit,
 Pentru patima-n privit,
 Pentru vorba fără har
 Doamne, iartă-mă Tu iar :/
-[2]
-IARTĂ-MĂ,
-IARTĂ-MĂIARTĂ-MĂ,
-DUMNEZEUL MEU! /: Pentru timpul meu trecut
+
+[2]
+/: Pentru timpul meu trecut
 Fără rodul ce l-ai vrut,
 Fără dragoste cu jar
 Doamne, iartă-mă Tu iar :/
-[3]
-IARTĂ-MĂ,
-IARTĂ-MĂIARTĂ-MĂ,
-DUMNEZEUL MEU! /: Pentru felul meu firesc
+
+[3]
+/: Pentru felul meu firesc
 Printre oameni cănd pășesc,
 Pentru traiul în zadar
 Doamne, iartă-mă Tu iar :/
-[4]
-IARTĂ-MĂ,
-IARTĂ-MĂIARTĂ-MĂ,
-DUMNEZEUL MEU! /: Pentru nevegherea mea
+
+[4]
+/: Pentru nevegherea mea
 De-a rămâne-n voia Ta,
 Pentru tot ce-a fost murdar
 Doamne, iartă-mă Tu iar :/
-[5]
-IARTĂ-MĂ,
-IARTĂ-MĂIARTĂ-MĂ,
-DUMNEZEUL MEU! /: Doar iertarea ce mi-o dai
+
+[5]
+/: Doar iertarea ce mi-o dai
 Îmi păstrează-al păcii rai
 Și mă-nalță iar și iar
 Doamne-n veșnicu-ți hotar :/

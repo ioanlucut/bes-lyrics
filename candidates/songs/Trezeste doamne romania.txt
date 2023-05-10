@@ -2,7 +2,7 @@
 Trezeste doamne romania
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Am așteptat în întuneric

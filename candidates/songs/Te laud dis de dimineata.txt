@@ -1,36 +1,42 @@
 [title]
 Te laud dis de dimineața
-[sequence]
-1,c,2,c,3,c
-[1]
+
+[sequence]
+1,c,2,c,3,c,4,c
+
+[1]
 Te laud dis de dimineața,
 Te laud,
 Doamne Te laud,
 Căci Tu prin har mi-ai dat viață
 Te laud,
 Doamne Te laud.
-[chorus]
+
+[chorus]
 LAUDĂ,
 LAUDĂ ȚIE-ȚI CÂNT MEREU,
 VEȘNIC DUMNEZEU!
 LAUDĂ,
 LAUDĂ,
 VEȘNIC DUMNEZEU!
-[2]
+
+[2]
 Te laud ziua la amiază,
 Te laud,
 Doamne Te laud
 Căci dragostea Ta mă păstrează,
 Te laud,
 Doamne Te laud.
-[3]
+
+[3]
 Te laud seara la culcare,
 Te laud,
 Doamne Te laud
 Căci tot ce am e-a Ta-ndurare,
 Te laud,
 Doamne Te laud.
-[4]
+
+[4]
 Te laud orișicând prin toate,
 Te laud,
 Doamne Te laud

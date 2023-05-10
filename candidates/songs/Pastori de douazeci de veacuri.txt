@@ -2,7 +2,7 @@
 Păstori de douăzeci de veacuri
 
 [sequence]
-1,c,2,c
+1,c,2,c,3,c
 
 [1]
 Păstori de douăzeci de veacuri

@@ -1,15 +1,18 @@
 [title]
 E bucurie-n hristos
-[sequence]
-1
-[1]
+
+[sequence]
+c,1,c,1
+
+[chorus]
 E BUCURIE-N HRISTOS,
 ESTE DRAGOSTE-N SPIRIT,
 E NĂDEJDE-N CREDINȚA ÎN EL.
 E-O FÂNTÂNĂ CE-O ȘTIU
 CE HRĂNEȘTE-AL MEU SUFLET,
 E CUVÂNTUL CE CURGE DIN EL. (2x)
-[2]
+
+[1]
 Mărirea și Slava-s a Lui,
 Puterea și Gloria-s a Lui,
 Să lăsăm gura Lui să ne-nvețe cântând,

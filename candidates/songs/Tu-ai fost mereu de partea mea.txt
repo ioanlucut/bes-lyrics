@@ -2,7 +2,7 @@
 Tu-ai fost mereu de partea mea
 
 [sequence]
-1,c,2,c
+1,c,2,c,3,c
 
 [1]
 Tu-ai fost mereu de partea mea,

@@ -2,7 +2,7 @@
 Cânt Aleluia, Domnului
 
 [sequence]
-c,2,3
+c,1,2
 
 [chorus]
 Cânt Aleluia, Domnului,

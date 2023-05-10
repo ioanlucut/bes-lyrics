@@ -1,29 +1,34 @@
 [title]
 Te-am găsit pe munții înalți
-[sequence]
-1,2,3
-[1]
+
+[sequence]
+1,2,3,4
+
+[1]
 Te-am găsit pe munții înalți,
 Te-am găsit pe margini de râu,
 /: Te-am găsit în parfumul din flori,
 Te-am găsit,
 Isuse,
 Te-am găsit :/
-[2]
+
+[2]
 Te-am găsit pe cerul senin,
 Te-am găsit pe dealuri și stânci,
 /: Te-am găsit în pădurea-nverzită,
 Te-am găsit,
 Isuse,
 Te-am găsit :/
-[3]
+
+[3]
 Te-am găsit în fulgul de nea,
 Te-am găsit în stele și nori,
 /: Te-am găsit în stropii de ploaie,
 Te-am găsit,
 Isuse,
 Te-am găsit :/
-[4]
+
+[4]
 Te-am găsit sus pe Golgota,
 Te-am găsit și-atunci mi-ai vorbit,
 /: Te-am găsit, fericirea mi-ai dat

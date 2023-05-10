@@ -2,7 +2,7 @@
 Într-un sat ne’nsemnat din Iudeea
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Într-un sat ne’nsemnat din Iudeea,

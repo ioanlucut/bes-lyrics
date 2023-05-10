@@ -1,13 +1,16 @@
 [title]
 În pășuni verzi mă paște Domnul
-[sequence]
-1
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 În pășuni verzi mă paște Domnul,
 Nu voi duce lipsă de nimic,
 El mă hrănește în dragoste
 În orice zi mereu.
-[2]
+
+[chorus]
 Pot să Te laud, sunt liber
 Ca să Te laud, să Te slujesc.
 Tu ești o,

@@ -1,25 +1,30 @@
 [title]
 Pe un deal depărtat un crin alb sângerat
-[sequence]
-1,c,2,c
-[1]
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
 Pe un deal depărtat, un crin alb sângerat
 Suspină între spini plin de dor,
 Însă El nimănui nu și-a spus taina Lui,
 Că El viața-și dădea tuturor.
-[chorus]
+
+[chorus]
 ȘTII TU OARE,
 PRIETEN DRAG,
 CĂ ISUS,
 CRINUL FRÂNT ÎNTRE SPINI
 A MURIT PE-ACEL DEAL DEPĂRTAT,
 CA ȘI TU SĂ FII CRIN ÎNTRE CRINI?
-[2]
+
+[2]
 Pe un deal ca de iad, sub o cruce de chin,
 Chipul mamei tăcut priveghea,
 Dar Isus, fiul ei, între inimi de lei
 Se ruga suspinând pentru ea.
-[3]
+
+[3]
 Pe un nor ca pe-un gând, va veni în curând
 Crinul alb ce plângea plin de dor
 Și noi toți, vechii spini,

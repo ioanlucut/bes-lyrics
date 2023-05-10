@@ -2,7 +2,7 @@
 Un chip de lut Tu ai făcut
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Un chip de lut Tu ai făcut

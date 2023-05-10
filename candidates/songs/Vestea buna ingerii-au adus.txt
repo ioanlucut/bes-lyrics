@@ -2,7 +2,7 @@
 Vestea bună îngerii-au adus
 
 [sequence]
-1,c,2,c
+1,c,2,c,3,c
 
 [1]
 Vestea bună îngerii-au adus

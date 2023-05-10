@@ -1,16 +1,20 @@
 [title]
 O fă-mă un instrument
-[sequence]
-1,2
-[1]
+
+[sequence]
+1,2,3
+
+[1]
 O, fă-mă un instrument,
 Un instrument de laudă,
 Isuse să Te preamăresc. (2x)
-[2]
+
+[2]
 O, fă-mă o harfă,
 O harfă de laudă,
 Isuse eu laudă să-Ți cânt. (2x)
-[3]
+
+[3]
 O, dă-ne iubirea,
 Iubirea ce-ai vrut-o,
 Isuse să fie-ntre noi. (2x)

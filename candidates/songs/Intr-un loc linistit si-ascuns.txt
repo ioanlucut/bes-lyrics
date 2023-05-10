@@ -2,7 +2,7 @@
 Într-un loc liniștit și-ascuns
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Într-un loc liniștit și-ascuns,

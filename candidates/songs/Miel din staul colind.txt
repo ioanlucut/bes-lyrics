@@ -2,7 +2,7 @@
 Miel din staul (colind)
 
 [sequence]
-1,c,2,c
+1,c,2,c,3,c
 
 [1]
 N-a mai fost ca noaptea aceea

@@ -2,7 +2,7 @@
 Slava lui Dumnezeu
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Dintre cetele de îngeri

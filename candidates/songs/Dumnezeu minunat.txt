@@ -1,8 +1,10 @@
 [title]
 Dumnezeu minunat
-[sequence]
-1,2
-[1]
+
+[sequence]
+1,c,b,c
+
+[1]
 Oceanele ascund ceva din taina Ta
 Muntii îmi arata maiestatea Ta
 Bolta cerului se pleaca usor
@@ -11,14 +13,15 @@ Planetele se misca la porunca Ta
 Pamântul linistit toarce-n axa să
 Galaxii ce fredoneaza toate-n cor:
 Vrednic este al nostru Creator.
-[2]
+
+[chorus]
 DUMNEZEU MINUNAT,
 ÎN PALMA TA AM FOST SAPATÎNAINTE SA VAD LUMEA MEA,
 ERAM UN VIS ÎN INIMA DUMNEZEU MINUNAT,
 ÎN PALMA TA AM FOST SAPAT
 TU ESTI STÂNCA PE CARE STAU,
 TU ESTI APA DIN CARE BEAU
-[3]
+
 [bridge]
 E un mister, e o minune Ce nu se poate explica
 Cu tot ce este Doamne-n mine

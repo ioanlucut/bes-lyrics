@@ -2,7 +2,7 @@
 Pune-ți increderea în el israele
 
 [sequence]
-1,c,2,c,3,c
+1,c,2,c,3,c,b,c
 
 [1]
 Porumbița scumpă ascunsă între stânci
@@ -37,7 +37,7 @@ Când se scoală El să lupte pentru tine,
 Când te ia la umbra aripilor Lui
 Și iți spune blând: încrede-te în Mine!
 
-[4]
+[bridge]
 Puneți încrederea în EL,
 Israele!
 Puneți încrederea în EL,

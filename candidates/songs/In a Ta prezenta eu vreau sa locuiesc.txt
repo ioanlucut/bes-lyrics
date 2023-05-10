@@ -1,13 +1,16 @@
 [title]
 În a Ta prezență eu vreau să locuiesc
-[sequence]
-1
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 În a Ta prezență eu vreau să locuiesc,
 Însetat după Tine eu sunt,
 Ascuns în iubire în genunchi mă plec,
 În adorare să Te cunosc.
-[2]
+
+[chorus]
 IA VIAȚA MEA
 ÎN MÂNA TA ISUSE,
 DĂ-MI SUFLU NOU

@@ -1,15 +1,18 @@
 [title]
 În păcat și disperare
-[sequence]
-1,c,2,c
-[1]
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
 În păcat și disperare
 Mulți trăiesc pe-acest pământ,
 Mulți nu știu de dragoste ce ni s-a dat.
 Într-o lume-ntunecată
 Ce trăiește în păcat,
 Isus e răspunsul lumii, singur El.
-[chorus]
+
+[chorus]
 NUMELE LUI E UN RĂSPUNS,
 UN ÎNCEPUT ȘI UN SFÂRȘIT,
 EL ESTE DRUMUL ȘI-NȚELEPCIUNEA LUI DUMNEZEU.
@@ -18,14 +21,16 @@ PRECUM ȘI MAREA-I DRAGOSTE,
 E ADEVĂR,
 E UN RĂSPUNS,
 ISUS HRISTOS.
-[2]
+
+[2]
 Într-o lume tulburată
 Cu probleme și necaz,
 Într-o lume cu dureri și-amenințări
 El este nădejdea noastră,
 Pace doar la El găsim,
 Mângâierea și salvarea noastră-i El.
-[3]
+
+[3]
 Dragostea și-nțelepciunea
 Dumnezeu ni le-arătat,
 Prin Isus s-avem viață veșnică.

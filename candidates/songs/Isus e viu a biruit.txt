@@ -2,7 +2,7 @@
 Isus e viu a biruit
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Isus e viu, a biruit

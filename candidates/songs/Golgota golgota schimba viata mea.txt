@@ -2,7 +2,7 @@
 Golgota golgota schimba viața mea
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Sfânt Cuvânt, dar ceresc,
