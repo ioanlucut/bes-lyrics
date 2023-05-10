@@ -1,5 +1,5 @@
 [title]
-Doamne,inima strigă către Tine
+Doamne, inima strigă către Tine
 
 [sequence]
 1,c
@@ -14,7 +14,7 @@ Vreau vocea să-Ți ascult
 O, ce susur blând.
 Glorie, glorie, glorie Regelui!
 
-[2]
+[chorus]
 Tu ești Tatăl pentru cei orfani
 Și mângâierea mea.
 Încununat cu slavă,
