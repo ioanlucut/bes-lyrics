@@ -11,6 +11,7 @@ import dotenv from 'dotenv';
 import stringSimilarity from 'string-similarity';
 import recursive from 'recursive-readdir';
 import { parseArgs } from 'node:util';
+import { ALT_SONGS_FILE_SUFFIX } from './constants';
 
 dotenv.config();
 
@@ -96,18 +97,33 @@ const runValidatorAndExitIfSimilar = async (
     againstDir,
   );
 
-  if (!_.isEmpty(allSimilarities)) {
+  const withoutAllowedDuplicates = allSimilarities.filter(
+    ({ candidateFileName, similarities }) =>
+      !ALT_SONGS_FILE_SUFFIX.test(candidateFileName) &&
+      !similarities.every(({ existingFileName }) =>
+        ALT_SONGS_FILE_SUFFIX.test(existingFileName),
+      ),
+  );
+
+  if (!_.isEmpty(withoutAllowedDuplicates)) {
     const ERROR_CODE = 1;
 
     console.log('Unf., we have found song similarities.');
 
-    allSimilarities.forEach(
+    withoutAllowedDuplicates.forEach(
       ({ candidateFilePath, candidateFileName, similarities }) => {
-        console.group(`"Candidate: ${candidateFileName}"`);
+        console.group(
+          `"Candidate: ${candidateFileName} from ${path.dirname(
+            candidateFilePath,
+          )}:"`,
+        );
+
         similarities.forEach(
           ({ existingFilePath, existingFileName, similarity }) => {
             console.log(
-              `- similar to existing "${existingFileName}" with a similarity score of "${similarity}"`,
+              `- Similar to existing "${existingFileName}" from ${path.dirname(
+                existingFilePath,
+              )} with a similarity score of "${similarity}."`,
             );
 
             if (!fsExtra.pathExistsSync(candidateFilePath)) {
@@ -136,14 +152,14 @@ const runValidatorAndExitIfSimilar = async (
 
 (async () => {
   // await runValidatorAndExitIfSimilar(
-  //   process.env.CANDIDATES_DIR,
-  //   process.env.CANDIDATES_DIR,
+  //   process.env.VERIFIED_DIR,
+  //   process.env.VERIFIED_DIR,
   // );
 
-  // await runValidatorAndExitIfSimilar(
-  //   process.env.VERIFIED_DIR,
-  //   process.env.VERIFIED_DIR,
-  // );
+  await runValidatorAndExitIfSimilar(
+    process.env.CANDIDATES_DIR,
+    process.env.CANDIDATES_DIR,
+  );
 
   await runValidatorAndExitIfSimilar(
     process.env.CANDIDATES_DIR,

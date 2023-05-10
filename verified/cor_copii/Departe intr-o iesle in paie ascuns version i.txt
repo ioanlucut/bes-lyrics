@@ -1,5 +1,5 @@
 [title]
-Departe într-o iesle, în paie ascuns
+Departe într-o iesle, în paie ascuns [Version 1]
 
 [sequence]
 1,2,3

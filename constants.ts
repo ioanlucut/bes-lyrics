@@ -18,3 +18,5 @@ export const NEW_LINE = '\n';
 export const CARRIAGE_RETURN = '\r';
 
 export const CHARS_SEPARATORS = /[ !(),./:;?”„\r]+/;
+
+export const ALT_SONGS_FILE_SUFFIX = /version (i|ii)/;
