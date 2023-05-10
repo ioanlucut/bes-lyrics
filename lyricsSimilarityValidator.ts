@@ -26,7 +26,7 @@ const readAllVerifiedFilesOnce = async (againstDir: string) =>
   });
 
 const computeSimilarity =
-  (candidateContent: string) =>
+  (existingFilePath: string) =>
   ({
     contentAsString,
     fileName: existingFileName,
@@ -34,6 +34,7 @@ const computeSimilarity =
     contentAsString: string;
     fileName: string;
   }) => {
+    const candidateContent = fs.readFileSync(existingFilePath).toString();
     const similarity = stringSimilarity.compareTwoStrings(
       contentAsString.toLowerCase(),
       candidateContent.toLowerCase(),
@@ -42,6 +43,7 @@ const computeSimilarity =
     return {
       similarity,
       existingFileName,
+      existingFilePath,
     };
   };
 
@@ -54,13 +56,13 @@ const findSimilarities = async (
   return (await recursive(potentialDuplicatesDir))
     .map((candidateFilePath) => {
       const candidateFileName = path.basename(candidateFilePath);
-      const candidateContent = fs.readFileSync(candidateFilePath).toString();
 
       return {
         candidateFileName,
+        candidateFilePath,
         similarities: verifiedSongs
           .filter(({ filePath }) => !isEqual(filePath, candidateFilePath))
-          .map(computeSimilarity(candidateContent))
+          .map(computeSimilarity(candidateFilePath))
           .filter(({ similarity }) => Boolean(similarity))
           .filter(({ similarity }) => similarity > THRESHOLD),
       };
@@ -99,50 +101,49 @@ const runValidatorAndExitIfSimilar = async (
 
     console.log('Unf., we have found song similarities.');
 
-    allSimilarities.forEach(({ candidateFileName, similarities }) => {
-      console.group(`"Candidate: ${candidateFileName}"`);
-      similarities.forEach(({ existingFileName, similarity }) => {
-        console.log(
-          `- similar to existing "${existingFileName}" with a similarity score of "${similarity}"`,
+    allSimilarities.forEach(
+      ({ candidateFilePath, candidateFileName, similarities }) => {
+        console.group(`"Candidate: ${candidateFileName}"`);
+        similarities.forEach(
+          ({ existingFilePath, existingFileName, similarity }) => {
+            console.log(
+              `- similar to existing "${existingFileName}" with a similarity score of "${similarity}"`,
+            );
+
+            if (!fsExtra.pathExistsSync(candidateFilePath)) {
+              return;
+            }
+
+            if (removeDuplicates) {
+              fsExtra.unlinkSync(candidateFilePath);
+            }
+
+            if (overwrite) {
+              fsExtra.moveSync(candidateFilePath, existingFilePath, {
+                overwrite: true,
+              });
+            }
+          },
         );
 
-        const candidateFilePath = path.join(
-          __dirname,
-          potentialDuplicatesDir,
-          candidateFileName,
-        );
-
-        if (!fsExtra.pathExistsSync(candidateFilePath)) {
-          return;
-        }
-
-        if (removeDuplicates) {
-          fsExtra.unlinkSync(candidateFilePath);
-        }
-
-        if (overwrite) {
-          fsExtra.moveSync(
-            candidateFilePath,
-            path.join(__dirname, againstDir, existingFileName),
-            {
-              overwrite: true,
-            },
-          );
-        }
-      });
-
-      console.groupEnd();
-    });
+        console.groupEnd();
+      },
+    );
 
     process.exit(ERROR_CODE);
   }
 };
 
 (async () => {
-  await runValidatorAndExitIfSimilar(
-    process.env.CANDIDATES_DIR,
-    process.env.CANDIDATES_DIR,
-  );
+  // await runValidatorAndExitIfSimilar(
+  //   process.env.CANDIDATES_DIR,
+  //   process.env.CANDIDATES_DIR,
+  // );
+
+  // await runValidatorAndExitIfSimilar(
+  //   process.env.VERIFIED_DIR,
+  //   process.env.VERIFIED_DIR,
+  // );
 
   await runValidatorAndExitIfSimilar(
     process.env.CANDIDATES_DIR,
