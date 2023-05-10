@@ -1,23 +1,23 @@
 [title]
-Doamne eu te rog asculta ruga mea
+Doamne, eu Te rog, ascultă ruga mea
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-/: Doamne eu Te rog ascultă ruga mea,
+/: Doamne, eu Te rog, ascultă ruga mea,
 Din adânc Te chem,
-Chiar de la marginea lumii :/
+Chiar de la marginea lumii. :/
 
 [chorus]
-/: ȘI-ATUNCI CÂND INIMA MI-E GREA
-DU-MĂ PE STÂNCA CE N-O POT URCA,
-CE N-O POT URCA :/
+/: Și-atunci când inima mi-e grea,
+Du-mă pe stânca ce n-o pot urca,
+Ce n-o pot urca. :/
 
 [2]
-/: Doamne eu Te rog ascultă glasul meu,
-Către Tine strig iubitul meu Dumnezeu :/
+/: Doamne, eu Te rog, ascultă glasul meu,
+Către Tine strig, iubitul meu Dumnezeu. :/
 
 [3]
-/: Doamne vreau s-a alerg sub aripile Tale,
-Tu ești adăpost și turnul meu de scăpare :/
+/: Doamne, vreau să alerg sub aripile Tale,
+Tu ești adăpost și turnul meu de scăpare. :/
