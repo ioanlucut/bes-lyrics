@@ -1,49 +1,42 @@
 [title]
-Cer senin cer senin
-[sequence]
+Cer senin, cer senin
+
+[sequence]
 1,c,2,c,3,c,4,c,5,c
-[1]
+
+[1]
 Cer senin, cer senin,
-Plin ești de lumină plin,
+Plin ești de lumină, plin,
 Raza ta, raza ta,
-Încălzește viața mea,
-[chorus]
+Încălzește viața mea.
+
+[chorus]
 Cer senin, cer senin,
 De lumină ești plin,
-Vin în viața mea,
-vin,
+Vin în viața mea, vin,
 După Tine suspin,
-Cer senin,
-cer senin.
-[2]
-Cer slăvit ,cer slăvit,
+Cer senin, cer senin.
+
+[2]
+Cer slăvit, cer slăvit,
 De Isus ești pregătit,
-Ca să fii ,ca să fii,
+Ca să fii, ca să fii,
 Loc de-odihnă pe vecii.
-[3]
+
+[3]
 Cer divin, cer divin,
 În viața mea vin,
 Chiar acum, chiar acum,
-Când alerg pe-al vieții drum,
-[4]
-Cer sublim,
-cer sublim,
-Tu ești Nou Ierusalim,
+Când alerg pe-al vieții drum.
+
+[4]
+Cer sublim, cer sublim,
+Tu ești Nou Ierusalim
 Și doresc, și doresc,
 Slava Ta s-o moștenesc.
-[5]
-[9]
+
+[5]
 Cer frumos, cer frumos,
 Loc al Domnului Hristos,
-Voi fii dus,
-voi fii dus,
+Voi fi dus, voi fi dus,
 În curând, la Tine sus.
-[6]
-[10]
-Cer senin, cer senin,
-De lumină ești plin,
-Vin în viața mea,
-vin,
-După Tine suspin,
-Cer senin,
-cer senin.
