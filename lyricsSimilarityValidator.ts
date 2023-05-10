@@ -17,7 +17,7 @@ dotenv.config();
 
 const THRESHOLD = 0.65;
 
-const readAllVerifiedFilesOnce = async (againstDir: string) =>
+const readAllFilesAgainstTheChecksAreDoneOnce = async (againstDir: string) =>
   (await recursive(againstDir)).map((filePath) => {
     return {
       contentAsString: fs.readFileSync(filePath).toString(),
@@ -52,7 +52,9 @@ const findSimilarities = async (
   potentialDuplicatesDir: string,
   againstDir: string,
 ) => {
-  const verifiedSongs = await readAllVerifiedFilesOnce(againstDir);
+  const verifiedSongs = await readAllFilesAgainstTheChecksAreDoneOnce(
+    againstDir,
+  );
 
   return (await recursive(potentialDuplicatesDir))
     .map((candidateFilePath) => {
