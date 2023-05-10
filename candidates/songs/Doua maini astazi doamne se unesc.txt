@@ -1,4 +1,5 @@
 [title]
-Doua maini astazi doamne se unesc
-[sequence]
+Două mâini astăzi, Doamne se unesc
+
+[sequence]
 1
