@@ -1,27 +1,41 @@
 [title]
-Ce-ai gasit doamne la mine
-[sequence]
+Ce-ai găsit, Doamne, la mine
+
+[sequence]
 1,c,2,c
-[1]
-Pribegeam cândva departe... Rătăcind pe căi, în noapte Dar Tu, Doamne, m-ai iubit,
-M-ai salvat,
-Isus de moarte.
-[chorus]
-CE-AI GĂSIT DOAMNE,
-LA MINE?N-AM NIMIC BUN,
-NICI FRUMOS,
-AI VENIT DIN ÎNĂLTIMESĂ SALVEZI UN PĂCĂTOS.
-CE-AI GĂSIT DOAMNE,
-LA MINE?CĂ AȘA MULT M-AI IUBIT..?AI LĂSAT CHIAR SLĂVI DIVINEȘI ÎN BRAȚE M-AI PRIMIT (2x)
-[2]
-Într-o zi,
-Împins de gloate,
-Te-am vazut cu crucea În spate.. Și-am strigat, în rând cu toți:’’Să Fii astăzi dat la moarte!’’ Când ceream cu ură osanda De sub fruntea-Ti sângerândă... Mă chemau doi ochi senini Și-o privire-atât de blândă...
-[3]
-Plâng de-atunci și mi-e rușine... Și Te caut mereu,
-Străine... Căci mi-e dor, mi-e dor,
-Mi-e dor... Să mă iei,
-Isus, la Tine! N-aș putea, o,
-Sfinte Tată... Să iți răsplătesc vreodată Dragostea Ta,
-Doamne bun,
-Poate niciodată..
+
+[1]
+Pribegeam cândva departe
+Rătăcind pe căi, în noapte. 
+Dar Tu, Doamne, m-ai iubit,
+M-ai salvat, Isus de moarte.
+
+[chorus]
+Ce-ai găsit, Doamne, la mine?
+N-am nimic bun, nici frumos,
+Ai venit din înălțime
+Să salvezi un păcătos.
+Ce-ai găsit, Doamne, la mine?
+Că așa mult m-ai iubit,
+Ai lăsat chiar slăvi divine
+Și în brațe m-ai primit. (2x)
+
+[2]
+Într-o zi, împins de gloate,
+Te-am văzut cu crucea în spate
+Și-am strigat, în rând cu toți:
+„Să fii astăzi dat la moarte!” 
+Când ceream cu ură osânda, 
+De sub fruntea-Ți sângerândă,
+Mă chemau doi ochi senini 
+Și-o privire-atât de blândă.
+
+[3]
+Plâng de-atunci și mi-e rușine
+Și Te caut mereu, Străine.
+Căci mi-e dor, mi-e dor, mi-e dor
+Să mă iei, Isus, la Tine! 
+N-aș putea, o, Sfinte Tată, 
+Să Îți răsplătesc vreodată 
+Dragostea Ta, Doamne bun, 
+Poate niciodată.
