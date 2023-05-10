@@ -1,9 +1,11 @@
 [title]
 Cerul e un loc minunat
-[sequence]
 
-[1]
-CERUL E UN LOC MINUNAT
-PLIN DE HAR ȘI SLAVĂ,
-VREAU SĂ-L VĂD PE DOMNUL MEU,
-CERUL E UN LOC MINUNAT!
+[sequence]
+c
+
+[chorus]
+/: Cerul e un loc minunat,
+Plin de har și slavă.
+Vreau să-L văd pe Domnul meu,
+Cerul e un loc minunat! :/
