@@ -1,41 +1,40 @@
 [title]
-Ce sarbatoare
-[sequence]
-1,c,2,c,3,c
-[1]
+Ce sărbătoare
+
+[sequence]
+1,c,2,c,3,c,e
+
+[1]
 Vine o zi când vom pleca,
-Spre Canaan ne-om îndrepta
-Da vine-o zi, da vine-o zi.
+Spre Canaan ne-om îndrepta.
+Da, vine-o zi, da, vine-o zi.
 O trâmbiță va răsuna
 De pe pământ ne-om înălța
-Noi vom zbura, da vom zbura.
-[chorus]
-CE SĂRBĂTOARE ATUNCI VA FI
-CÂND MIRELE-ȘI VA ÎNTĂLNI
-MIREASA LUI PE NORI DE SLAVĂ ÎN VĂZDUH
-CU MINTEA NU POȚI A GÂNDI
-CE ÎNTÂLNIRE ATUNCI VA FI
-VEI FI ACOLO ȘI TU SAU NU VEI FI
-[2]
+Noi vom zbura, da, vom zbura.
+
+[chorus]
+Ce sărbătoare atunci va fi,
+Când mirele-și va întâlni
+Mireasa lui pe nori de slavă în văzduh.
+Cu mintea nu poți a gândi
+Ce întâlnire atunci va fi,
+Vei fi acolo și tu sau nu vei fi.
+
+[2]
 Tot universul va privi,
-Fără de număr, galaxii,
+Fără de număr, galaxii
 Vor asculta, vor asculta
-Cântarea celor mântuiți,
-Iertați prin har, neprihăniți
+Cântarea celor mântuiți.
+Iertați prin har, neprihăniți,
 De Mielul sfânt, de Mielul sfânt.
-[3]
+
+[3]
 Isus te cheamă oricine ești,
 Cu El în cer să locuiești,
-Mireasa Lui,
-Mireasa Lui.
+Mireasa Lui, Mireasa Lui.
 Doar prin credință poți acum
 Să ai o viață și-un nou drum
 Cu Dumnezeu, cu Dumnezeu.
-[4]
-CE SĂRBĂTOARE ATUNCI VA FI
-CÂND MIRELE-ȘI VA ÎNTĂLNI
-MIREASA LUI PE NORI DE SLAVĂ ÎN VĂZDUH
-CU MINTEA NU POȚI A GÂNDI
-CE ÎNTÂLNIRE ATUNCI VA FI
-VEI FI ACOLO ȘI TU SAU NU VEI FI
-Final: Să fi și tu acolo, nu lipsi...nu lipsi
+
+[ending]
+Să fii și tu acolo, nu lipsi...nu lipsi
