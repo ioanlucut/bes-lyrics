@@ -1,14 +1,21 @@
 [title]
-Doamne daca vrei tu poti (decean)
+Doamne, dacă vrei Tu poți
 
 [sequence]
-1,2
+1,c,
 
 [1]
-Eu stau și aștept Să se întâmple ceva Ceva ce să schimbe azi viața mea Te văd cum cobori muntele Și toți vor să se atingă De haina Ta.
+Eu stau și aștept să se întâmple ceva, 
+Ceva ce să schimbe azi viața mea. 
+Te văd cum cobori muntele 
+Și toți vor să se atingă de haina Ta.
 
-[2]
-Tu Ești cel ce face minuni Și știu răspunsul meu e în mâna Ta Da, vin mă apropii și mă închin Și în teamă spun cu vocea mea.
+Tu ești cel ce face minuni 
+Și știu, răspunsul meu e în mâna Ta. 
+Da, vin mă apropii și mă închin 
+Și în teamă spun cu vocea mea.
 
 [3]
-//: DOAMNE DACĂ VREITU POȚI :// (3x) SĂ MĂ-ATINGI CU MÂNA TASĂ ATINGI AZI VIAȚA MEA.
+//: Doamne, dacă vrei Tu poți, :// (3x) 
+Să mă-atingi cu mâna Ta,
+Să atingi azi viața mea.
