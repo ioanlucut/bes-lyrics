@@ -2,8 +2,8 @@
 // This validator tries to avoid duplicates (`candidates` against the `verified` directory)
 // ---
 
-import _ from 'lodash';
-import fs, { PathLike } from 'fs';
+import _, { isEqual } from 'lodash';
+import fs from 'fs';
 import fsExtra from 'fs-extra';
 import path from 'path';
 import * as process from 'process';
@@ -15,13 +15,14 @@ dotenv.config();
 
 const THRESHOLD = 0.65;
 
-const readAllVerifiedFilesOnce = (againstDir: PathLike) =>
+const readAllVerifiedFilesOnce = (againstDir: string) =>
   fs.readdirSync(againstDir).map((fileName) => {
-    const filePath = path.join(__dirname, againstDir as string, fileName);
+    const filePath = path.join(__dirname, againstDir, fileName);
 
     return {
       contentAsString: fs.readFileSync(filePath).toString(),
       fileName,
+      filePath,
     };
   });
 
@@ -45,21 +46,26 @@ const computeSimilarity =
     };
   };
 
-const findSimilarities = (sourceDir: PathLike, againstDir: PathLike) => {
-  const candidateFileNames = fs.readdirSync(sourceDir);
+const findSimilarities = (
+  potentialDuplicatesDir: string,
+  againstDir: string,
+) => {
+  const candidateFileNames = fs.readdirSync(potentialDuplicatesDir);
   const verifiedSongs = readAllVerifiedFilesOnce(againstDir);
 
   return candidateFileNames
     .map((candidateFileName) => {
-      const candidateContent = fs
-        .readFileSync(
-          path.join(__dirname, sourceDir as string, candidateFileName),
-        )
-        .toString();
+      const candidateFilePath = path.join(
+        __dirname,
+        potentialDuplicatesDir,
+        candidateFileName,
+      );
+      const candidateContent = fs.readFileSync(candidateFilePath).toString();
 
       return {
         candidateFileName,
         similarities: verifiedSongs
+          .filter(({ filePath }) => !isEqual(filePath, candidateFilePath))
           .map(computeSimilarity(candidateContent))
           .filter(({ similarity }) => Boolean(similarity))
           .filter(({ similarity }) => similarity > THRESHOLD),
@@ -86,10 +92,10 @@ const {
 });
 
 const runValidatorAndExitIfSimilar = (
-  sourceDir: PathLike,
-  againstDir: PathLike,
+  potentialDuplicatesDir: string,
+  againstDir: string,
 ) => {
-  const allSimilarities = findSimilarities(sourceDir, againstDir);
+  const allSimilarities = findSimilarities(potentialDuplicatesDir, againstDir);
 
   if (!_.isEmpty(allSimilarities)) {
     const ERROR_CODE = 1;
@@ -105,7 +111,7 @@ const runValidatorAndExitIfSimilar = (
 
         const candidateFilePath = path.join(
           __dirname,
-          sourceDir as string,
+          potentialDuplicatesDir,
           candidateFileName,
         );
 
@@ -120,7 +126,7 @@ const runValidatorAndExitIfSimilar = (
         if (overwrite) {
           fsExtra.moveSync(
             candidateFilePath,
-            path.join(__dirname, againstDir as string, existingFileName),
+            path.join(__dirname, againstDir, existingFileName),
             {
               overwrite: true,
             },
@@ -136,6 +142,11 @@ const runValidatorAndExitIfSimilar = (
 };
 
 (async () => {
+  runValidatorAndExitIfSimilar(
+    process.env.CANDIDATES_DIR,
+    process.env.CANDIDATES_DIR,
+  );
+
   runValidatorAndExitIfSimilar(
     process.env.CANDIDATES_DIR,
     process.env.VERIFIED_DIR,
