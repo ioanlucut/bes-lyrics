@@ -1,29 +1,38 @@
 [title]
 Dacă eu aș fi un corb
-[sequence]
-1,c,2,c
-[1]
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
 Dacă eu aș fi un corb
 Eu n-aș putea trăi ca orb.
-Cum să nu îi mulțumesc
-Când îngeri puii mi-i hrănesc.
+Cum să nu Îi mulțumesc
+Când îngeri puii mi-i hrănesc?
 Dacă-aș fi-n pădure-arici
-Eu l-aș slăvi pe Domnul și nici...
+Eu l-aș slăvi pe Domnul și nici
 Nu mi-ar păsa că râde de mine lumea.
-[chorus]
-TOȚI AVEM PENTRU CESĂ-I DĂM MULȚUMIREȘI STELELE ȘI DEALURILECOPACII SPRE CER SĂ BATĂ DIN PALME!
-[2]
-Dacă-aș fi un crocodil
+
+[chorus]
+Toți avem pentru ce 
+Să-I dăm mulțumire
+Și stelele și dealurile
+Copacii spre cer să bată din palme!
+
+[2]
+Dacă-aș fi un crocodil,
 I-aș mulțumi Domnului umil
 Că în valuri am mereu
 Un zâmbet larg pe chipul meu.
-Dacă-aș fi hipopotam
-I-aș mulțumi că sun titan
+Dacă-aș fi hipopotam,
+I-aș mulțumi că sunt titan,
 N-aș fi mânios că nu sunt cel mai frumos.
-[3]
+
+[3]
 Dacă-aș fi-n pustie leu
 M-aș închina Domnului și eu.
-Dacă-aș fi-n bârlog un urs
+Dacă-aș fi-n bârlog un urs,
 I-aș mulțumi Lui în ascuns.
-Dacă-aș fi un papagal
-Aș repeta: Laudă-L, laudă-L pe El’.Cel care ne-a creat să fie lăudat.
+Dacă-aș fi un papagal,
+Aș repeta: „Laudă-L, laudă-L pe El!”.
+Cel care ne-a creat să fie lăudat.
