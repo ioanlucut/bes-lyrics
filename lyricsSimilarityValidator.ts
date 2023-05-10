@@ -9,19 +9,18 @@ import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
 import stringSimilarity from 'string-similarity';
+import recursive from 'recursive-readdir';
 import { parseArgs } from 'node:util';
 
 dotenv.config();
 
 const THRESHOLD = 0.65;
 
-const readAllVerifiedFilesOnce = (againstDir: string) =>
-  fs.readdirSync(againstDir).map((fileName) => {
-    const filePath = path.join(__dirname, againstDir, fileName);
-
+const readAllVerifiedFilesOnce = async (againstDir: string) =>
+  (await recursive(againstDir)).map((filePath) => {
     return {
       contentAsString: fs.readFileSync(filePath).toString(),
-      fileName,
+      fileName: path.basename(filePath),
       filePath,
     };
   });
@@ -46,20 +45,15 @@ const computeSimilarity =
     };
   };
 
-const findSimilarities = (
+const findSimilarities = async (
   potentialDuplicatesDir: string,
   againstDir: string,
 ) => {
-  const candidateFileNames = fs.readdirSync(potentialDuplicatesDir);
-  const verifiedSongs = readAllVerifiedFilesOnce(againstDir);
+  const verifiedSongs = await readAllVerifiedFilesOnce(againstDir);
 
-  return candidateFileNames
-    .map((candidateFileName) => {
-      const candidateFilePath = path.join(
-        __dirname,
-        potentialDuplicatesDir,
-        candidateFileName,
-      );
+  return (await recursive(potentialDuplicatesDir))
+    .map((candidateFilePath) => {
+      const candidateFileName = path.basename(candidateFilePath);
       const candidateContent = fs.readFileSync(candidateFilePath).toString();
 
       return {
@@ -91,11 +85,14 @@ const {
   },
 });
 
-const runValidatorAndExitIfSimilar = (
+const runValidatorAndExitIfSimilar = async (
   potentialDuplicatesDir: string,
   againstDir: string,
 ) => {
-  const allSimilarities = findSimilarities(potentialDuplicatesDir, againstDir);
+  const allSimilarities = await findSimilarities(
+    potentialDuplicatesDir,
+    againstDir,
+  );
 
   if (!_.isEmpty(allSimilarities)) {
     const ERROR_CODE = 1;
@@ -142,12 +139,12 @@ const runValidatorAndExitIfSimilar = (
 };
 
 (async () => {
-  runValidatorAndExitIfSimilar(
+  await runValidatorAndExitIfSimilar(
     process.env.CANDIDATES_DIR,
     process.env.CANDIDATES_DIR,
   );
 
-  runValidatorAndExitIfSimilar(
+  await runValidatorAndExitIfSimilar(
     process.env.CANDIDATES_DIR,
     process.env.VERIFIED_DIR,
   );
