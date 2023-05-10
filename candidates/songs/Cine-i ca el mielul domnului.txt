@@ -2,7 +2,7 @@
 Cine-I ca El, Mielul Domnului
 
 [sequence]
-1,c
+1,c,1,c
 
 [1]
 Cine-I ca El, Mielul Domnului?
