@@ -1,5 +1,5 @@
 [title]
-Isus e minunat minunat minunat
+Isus e minunat, minunat, minunat
 
 [sequence]
 1,c,2,c,3,c
@@ -7,21 +7,19 @@ Isus e minunat minunat minunat
 [1]
 Isus e minunat, minunat, minunat,
 Nu e nimeni ca El minunat,
-Uită-te de dorești în Cuvânt ca să găsești,
+Uită-te de dorești, în Cuvânt ca să găsești,
 Numele lui Isus e minunat.
 
 [chorus]
-ISUS,
-ISUS,
-ISUS,
-NUME MINUNAT,
-EL ÎMI UMPLE VIAȚA
-DE-ACEEA-I CÂNT NEÎNCETAT. (2x)
+Isus, Isus, Isus,
+Nume minunat,
+El îmi umple viața
+De-aceea-I cânt neîncetat. (2x)
 
 [2]
-Am un cântec nou în inimă
+Am un cântec nou în inimă,
 Este șoapta lui Isus:
-”Nu te-ngrijora cu tine sunt
+„Nu te-ngrijora cu tine sunt
 Să te-ajut pe-acest pământ”.
 
 [3]
