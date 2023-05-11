@@ -1,5 +1,5 @@
 [title]
-E un prieten (elim harmony)
+E un prieten
 
 [sequence]
 1,c,2,c,b,c
@@ -7,7 +7,7 @@ E un prieten (elim harmony)
 [1]
 Când soarele pe cer s-a ivit,
 Cu mult drag Dumnezeu ți-a zâmbit.
-Lumină l-ai numit, răsărit,
+Lumină L-ai numit, răsărit,
 Un gând blând ce din somn te-a trezit.
 Dar niciun răsărit
 Nu se naște-n praf de stele
@@ -18,7 +18,8 @@ E un prieten ce zi de zi,
 Aprinde cerul să-l poți privi.
 Te înconjoară prezența Lui,
 El totul despre tine știe,
-În ochii tăi a pus veșnicia, Și tot ce-a creat,
+În ochii tăi a pus veșnicia, 
+Și tot ce-a creat,
 E-un dar pentru tine.
 
 [2]
@@ -32,9 +33,9 @@ Din nimic.
 
 [bridge]
 În zori când te trezești
-E lumina
+E lumina.
 Când noaptea te-odihnești
-El e pacea
+El e pacea.
 Când dragoste-ntâlnești
-Este Domnul
-Doar prin El respiri și ești
+Este Domnul.
+Doar prin El respiri și ești!
