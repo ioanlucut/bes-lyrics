@@ -1,19 +1,20 @@
 [title]
-Isus dulce salvator
+Isus, dulce salvator
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Isus e mângăierea mea
+Isus e mângâierea mea
 Și-un prieten minunat,
 În încercarea cea mai grea
 Ajutor îmi este ne-ncetat.
 
 [chorus]
-ISUS,
-DULCE SALVATORAȘ VREA SĂ-ȚI SPUN CĂ TE IUBESC,
-TU-MI EȘTI UN BUN SFĂTUITORȘI ÎȚI MULȚUMESC. (2x)
+Isus, dulce salvator,
+Aș vrea să-Ți spun că Te iubesc,
+Tu-mi ești un bun sfătuitor
+Și Îți mulțumesc! (2x)
 
 [2]
 Isus e fericirea mea
