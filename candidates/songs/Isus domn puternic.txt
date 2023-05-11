@@ -1,18 +1,16 @@
 [title]
-Isus domn puternic
+Isus, domn puternic
 
 [sequence]
 1,c,1,c
 
 [1]
-Isus,
-Domn puternic ești
-Domnind peste împărățiile lumii
-Ridicăm vocea și cântăm
-„Ești Rege al regilor
-Ești Domn al domnilor”
+Isus, domn puternic ești
+Domnind peste împărățiile lumii.
+Ridicăm vocea și cântăm:
+„Ești Rege al regilor,
+Ești Domn al domnilor!”
 
 [chorus]
-/: EL ESTE REGE,
-EL ESTE DOMN
-EL ESTE CEL CARE M-A SALVAT:\
+/: El este rege, El este Domn,
+El este Cel care m-a salvat. :/
