@@ -1,31 +1,31 @@
 [title]
-Give it away (romanian)
+Give it away
 
 [sequence]
 1,c,2,c
 
 [1]
 Îți spun să nu îți strângi vreodată comori pe pământ
-Căci azi le ai la BANCĂ, mâine nu mai sunt
-Dolari, franci, yeni sau lei, sunt praf în vânt
-Ascultă aici: să-ți strângi comoara în cer
+Căci azi le ai la bancă, mâine nu mai sunt.
+Dolari, franci, yeni sau lei, sunt praf în vânt.
+Ascultă aici: să-ți strângi comoara în cer,
 Acolo nu sunt molii, hoți, rugină de fier
-Îți spun...nu poți sluji la doi stăpâni,
+Îți spun, nu poți sluji la doi stăpâni,
 Dacă vrei să ai, învață să dai tot ce ai.
 
 [chorus]
-DACĂ FERICIREA E CE TU DOREȘTI
-ȘI SCOPUL TĂU ÎN VIAȚĂ E SĂ TE-MBOGĂȚEȘTI
-E MAI BINE SĂ DAI DECÂT SĂ PRIMEȘTI
-DACĂ SINGUR AZI TE-AI SĂTURAT SĂ FI
-ȘI VREI BUCURIE ÎN FIECARE ZI
-E MAI BINE SĂ DAI DECÂT SĂ PRIMEȘTI
+Dacă fericirea e ce tu dorești
+Și scopul tău în viață e să te-mbogățești,
+E mai bine să dai decât să primești.
+Dacă singur azi te-ai săturat să fii
+Și vrei bucurie în fiecare zi,
+E mai bine să dai decât să primești.
 
 [2]
-Nu ști cum să faci să mai strângi încă-un cent
-Contul vrei să-ți crească măcar cu un procent
-Eu sper să asculți azi sfatul ce ți-l dau
-Ascultă aici! Ai două alegeri: să dai sau să ceri
-Să te plângi de-orice lucru, sau să râzi și să speri
-Alege astăzi...cum vrei să trăiești
-Dacă vrei să fi bogat...învață să dai.
+Nu știi cum să faci să mai strângi încă-un cent,
+Contul vrei să-ți crească măcar cu un procent.
+Eu sper să asculți azi sfatul ce ți-l dau,
+Ascultă aici! Ai două alegeri: să dai sau să ceri,
+Să te plângi de-orice lucru sau să râzi și să speri.
+Alege astăzi cum vrei să trăiești
+Dacă vrei să fi bogat învață să dai.
