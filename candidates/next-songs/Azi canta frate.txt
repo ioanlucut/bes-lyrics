@@ -1,0 +1,46 @@
+[title]
+Azi canta frate
+
+[sequence]
+1,2,3,4,5,6,7,8,9,10,11,12
+
+[1]
+Azi cântă, frate, Căci tu ești salvat ((3x))Domnul pe tine Te-a răscumpărat. ((3x))
+
+[2]
+CÂNTECE SĂ RĂSUNE, SĂ SE DUCĂ VESTEA-N LUME CĂCI DOMNUL E MÂNTUITORUL TĂU,(ȘI-AL MEU).
+
+[3]
+EL TE CĂLĂUZEȘTEZI ȘI NOAPTE TE-NSOȚEȘTE.
+STAI DAR ACUM, O, STAI PE BRAȚUL SĂU.
+
+[4]
+Azi cântă, frate, Și fii bucuros ((3x))Căci ai aflat, prin har
+Pace-n Hristos. ((3x))
+
+[5]
+CÂNTECE SĂ RĂSUNE, SĂ SE DUCĂ VESTEA-N LUME CĂCI DOMNUL E MÂNTUITORUL TĂU,(ȘI-AL MEU).
+
+[6]
+EL TE CĂLĂUZEȘTEZI ȘI NOAPTE TE-NSOȚEȘTE.
+STAI DAR ACUM, O, STAI PE BRAȚUL SĂU.
+
+[7]
+Azi cântă, frate, și Nu te-ntrista ((3x))Căci Domnul Isus Nu te va lăsa. ((3x))
+
+[8]
+CÂNTECE SĂ RĂSUNE, SĂ SE DUCĂ VESTEA-N LUME CĂCI DOMNUL E MÂNTUITORUL TĂU,(ȘI-AL MEU).
+
+[9]
+EL TE CĂLĂUZEȘTEZI ȘI NOAPTE TE-NSOȚEȘTE.
+STAI DAR ACUM, O, STAI PE BRAȚUL SĂU.
+
+[10]
+Azi cântă, frate, Dar, cântă așa ((3x))Plin de credință, De dragostea Sa. ((3x))
+
+[11]
+CÂNTECE SĂ RĂSUNE, SĂ SE DUCĂ VESTEA-N LUME CĂCI DOMNUL E MÂNTUITORUL TĂU,(ȘI-AL MEU).
+
+[12]
+EL TE CĂLĂUZEȘTEZI ȘI NOAPTE TE-NSOȚEȘTE.
+STAI DAR ACUM, O, STAI PE BRAȚUL SĂU.

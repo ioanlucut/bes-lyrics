@@ -1,0 +1,35 @@
+[title]
+Nimein nu i ca tine
+
+[sequence]
+1,2,3,4,5
+
+[1]
+NIMENI NU E CA TINE,
+NIMENI N-A PUTUT VIAȚA-MI SCHIMBA,
+ORICÂT DE MULT AȘ CĂUTA N-AȘ GĂSI,
+NIMENI NU-I CA TIN’. ((2x))
+
+[2]
+Dragostea-Ți fără de margini
+Inima mi-a copleșit,
+Sunt în siguranță în brațul Tău sfânt,
+Nimeni nu-i ca Tin’. 
+
+[3]
+NIMENI NU E CA TINE,
+NIMENI N-A PUTUT VIAȚA-MI SCHIMBA,
+ORICÂT DE MULT AȘ CĂUTA N-AȘ GĂSI,
+NIMENI NU-I CA TIN’. ((2x))
+
+[4]
+Dragostea-Ți fără de margini
+Inima mi-a copleșit,
+Sunt în siguranță în brațul Tău sfânt,
+Nimeni nu-i ca Tin’. 
+
+[5]
+NIMENI NU E CA TINE,
+NIMENI N-A PUTUT VIAȚA-MI SCHIMBA,
+ORICÂT DE MULT AȘ CĂUTA N-AȘ GĂSI,
+NIMENI NU-I CA TIN’. ((2x))

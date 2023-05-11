@@ -1,0 +1,40 @@
+[title]
+Deschide mi ochii inimii
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
+Deschide-mi ochii inimii, Doamne,
+Deschide-mi ochii inimii,
+Vreau să Te văd, vreau să Te văd! 
+
+[chorus]
+/: SĂ TE VĂD ÎNĂLȚAT
+PLIN DE MĂRIRE ȘI SLAVĂ.
+ARATĂ-ȚI PUTEREA TA,
+CĂCI TU EȘTI SFÂNT, SFÂNT, SFÂNT.
+ /:
+
+[2]
+Deschide-mi ochii inimii, Doamne,
+Deschide-mi ochii inimii,
+Vreau să Te văd, vreau să Te văd! 
+
+[chorus]
+/: SĂ TE VĂD ÎNĂLȚAT
+PLIN DE MĂRIRE ȘI SLAVĂ.
+ARATĂ-ȚI PUTEREA TA,
+CĂCI TU EȘTI SFÂNT, SFÂNT, SFÂNT.
+ /:
+
+[3]
+Sfânt, sfânt, sfânt
+Vreau să Te văd!
+
+[chorus]
+/: SĂ TE VĂD ÎNĂLȚAT
+PLIN DE MĂRIRE ȘI SLAVĂ.
+ARATĂ-ȚI PUTEREA TA,
+CĂCI TU EȘTI SFÂNT, SFÂNT, SFÂNT.
+ /:

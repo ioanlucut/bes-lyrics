@@ -1,0 +1,41 @@
+[title]
+Doamne tata ma intreb
+
+[sequence]
+1,2,3,4,5,6
+
+[1]
+Doamne, Tată mă întreb
+Cum am putut ca să exist,
+Fără să știu că mă iubești
+Și ești Tatăl meu.
+
+[2]
+Dar acum sunt fiul Tău,
+Fac parte din familia Ta
+Și singur eu nu voi mai fi,
+Căci Tată Tu ești lângă mine.
+
+[3]
+TE VOI LĂUDA ((3x))
+ÎN VECI DE VECI ISUSE,
+TE VOI LĂUDA ((3x))
+ÎN VECI DE VECI.
+
+[4]
+Doamne, Tată mă întreb
+Cum am putut ca să exist,
+Fără să știu că mă iubești
+Și ești Tatăl meu.
+
+[5]
+Dar acum sunt fiul Tău,
+Fac parte din familia Ta
+Și singur eu nu voi mai fi,
+Căci Tată Tu ești lângă mine.
+
+[6]
+TE VOI LĂUDA ((3x))
+ÎN VECI DE VECI ISUSE,
+TE VOI LĂUDA ((3x))
+ÎN VECI DE VECI.
