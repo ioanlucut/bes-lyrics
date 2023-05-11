@@ -1,29 +1,23 @@
 [title]
-In aceasta noapte sfanta
+În această noapte sfântă
 
 [sequence]
-1,c,2,c
-
-[1]
-Magii din Răsărit i-aduc slavă
-Și la Prunc atunci s-au închinat
-Îngeri pe pământ și sus în ceruri
-Cântă Slavă Celui Preaînalt,
-Osana.
+c,1,c,2
 
 [chorus]
-ÎN ACEASTĂ NOAPTE SFÂNTĂ
-S-A NĂSCUT MESIA
-PRIN FECIOARA PREACURATĂ
-S-A NĂSCUT MESIA
-ÎNTR-O IESLE-NDEPĂRTATĂ
-S-A NĂSCUT MESIA
-DARUL CEL PROMIS DE DUMNEZEU
-OSANA
+În această noapte sfântă s-a născut Mesia,
+Prin fecioara preacurată s-a născut Mesia.
+Într-o iesle-ndepărtată s-a născut Mesia,
+Darul cel promis de Dumnezeu, Osana!
+
+[1]
+Magii din Răsărit I-aduc slavă
+Și la Prunc atunci s-au închinat.
+Îngeri pe pământ și sus în ceruri
+Cântă Slavă Celui Preaînalt, Osana.
 
 [2]
 Cu îngerii, păstorii și cu magii
 Venim și noi la ieslea lui Isus
 Să urmăm și noi pe calea Crucii
-Pe Acel ce mântuire ne-a adus,
-Osana.
+Pe Acel ce mântuire ne-a adus, Osana!
