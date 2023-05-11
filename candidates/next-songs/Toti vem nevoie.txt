@@ -1,0 +1,64 @@
+[title]
+Toti vem nevoie
+
+[sequence]
+1,2,3,4,5,6
+
+[1]
+Totiavemnevoiede-odragostecurata
+Prinmila
+Tadesus.
+Cu totiivremiertareasibunatatea-timare
+Sperantalumii..
+
+[2]
+Doamne,
+Tucemistichiarmuntii
+Estiunmaret
+Salvator
+Estimaret
+Salvator.
+Cel Vesnicaidatsalvarelumii
+Si-aiinviatdintremorti,
+Inviatdintremorti.
+X2
+
+[3]
+Primeste-macumsunt
+Eulaslacrucea
+Ta
+Povareameaceagrea
+Itidauviataintreagacu totceeutraiesc
+Madaruiescazi...
+
+[4]
+Doamne,
+Tucemistichiarmuntii
+Estiunmaret
+Salvator
+Estimaret
+Salvator.
+Cel vesnicaidatsalvarelumii
+Si-aiinviatdintremorti,
+Inviatdintremorti.
+X2
+
+
+[5]
+Lasa
+Gloriapeste-ntreg
+Pamant
+Cantam azi...
+pentruslavaceluivesnicviu!
+
+[6]
+Doamne,
+Tucemistichiarmuntii
+Estiunmaret
+Salvator
+Estimaret
+Salvator.
+Cel vesnicaidatsalvarelumii
+Si-aiinviatdintremorti,
+Inviatdintremorti.
+X2

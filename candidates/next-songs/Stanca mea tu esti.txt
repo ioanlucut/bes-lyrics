@@ -1,0 +1,55 @@
+[title]
+Stanca mea tu esti
+
+[sequence]
+1,2,3,4,5,6,7,8,9,10
+
+[1]
+Stanca mea Tu esti
+Salvator in veci!
+
+[2]
+Doamne fa al meu cuvant
+Si al mintii mele gand
+Tie Doamne sa le-nchin
+Domnul meu!
+
+[3]
+Stanca mea Tu esti
+Salvator in veci!
+
+[4]
+Doamne fa viata mea
+Sfanta inaintea Ta
+Tie intreaga sa Ti-o-nchin
+Domnul meu!
+
+[5]
+Stanca mea Tu esti
+Salvator in veci!
+
+[6]
+Doamne rugaciunea mea
+Fa-o cum a fost a Ta!
+Totul Tie sa iti spun
+Domnul meu!
+
+[7]
+Stanca mea Tu esti
+Salvator in veci!
+
+[8]
+Doamne fa lumina mea
+Sa luceasca ca o stea
+Far in noapte Tu ma fa
+Domnul meu!
+
+[9]
+Stanca mea Tu esti
+Salvator in veci!
+
+[10]
+Doamne fa iubirea mea
+Calda, vie ca a Ta
+Toti sa fie prinsi in ea
+Domnul meu!
