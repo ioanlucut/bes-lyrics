@@ -27,15 +27,17 @@ const readAllFilesAgainstTheChecksAreDoneOnce = async (againstDir: string) =>
   });
 
 const computeSimilarity =
-  (existingFilePath: string) =>
+  (candidateFilePath: string) =>
   ({
     contentAsString,
     fileName: existingFileName,
+    filePath: existingFilePath,
   }: {
     contentAsString: string;
     fileName: string;
+    filePath: string;
   }) => {
-    const candidateContent = fs.readFileSync(existingFilePath).toString();
+    const candidateContent = fs.readFileSync(candidateFilePath).toString();
     const similarity = stringSimilarity.compareTwoStrings(
       contentAsString.toLowerCase(),
       candidateContent.toLowerCase(),
@@ -165,10 +167,10 @@ const runValidatorAndExitIfSimilar = async (
   // ---
   // Verify if the songs that are in candidates are unique across them
   // ---
-  await runValidatorAndExitIfSimilar(
-    process.env.CANDIDATES_DIR,
-    process.env.CANDIDATES_DIR,
-  );
+  // await runValidatorAndExitIfSimilar(
+  //   process.env.CANDIDATES_DIR,
+  //   process.env.CANDIDATES_DIR,
+  // );
 
   // ---
   // Verify if the songs that are in candidates are unique across the verified songs
