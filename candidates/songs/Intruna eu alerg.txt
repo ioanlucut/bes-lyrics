@@ -2,7 +2,7 @@
 Întruna eu alerg
 
 [sequence]
-1,b,c,1,b,c,,b,c,c
+1,p,c,1,p,c,p,c,c
 
 [1]
 Întruna eu alerg,
@@ -15,7 +15,7 @@ Ce Tu mi-ai pregătit,
 Mereu Tu mă ridici,
 Ești al meu Domn.
 
-[bridge]
+[prechorus]
 Mai mare e Cel ce-n mine e viu
 Decât duhul veacului.
 

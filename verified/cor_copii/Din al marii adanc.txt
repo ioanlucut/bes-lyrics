@@ -1,5 +1,5 @@
 [title]
-Din al marii adanc
+Din al marii adânc
 
 [sequence]
 1,c,2,c,b,c
