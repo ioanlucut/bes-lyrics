@@ -2,17 +2,16 @@
 Fii glorificat
 
 [sequence]
-1,2
+c,1,c,1
+
+[chorus]
+Fii glorificat,
+Fii glorificat,
+Fii glorificat,
+Fii glorificat!
 
 [1]
-FII GLORIFICAT,
-FII GLORIFICAT
-FII GLORIFICAT,
-FII GLORIFICAT.
-
-[2]
 Fii glorificat în ceruri,
 Fii glorificat pe pământ,
 Fii glorificat în Templu,
-Isus,
-Isus, fii glorificat!
+Isus, Isus, fii glorificat!
