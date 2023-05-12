@@ -5,26 +5,25 @@ Păstori de douăzeci de veacuri
 1,c,2,c,3,c
 
 [1]
-Păstori de douăzeci de veacuri
-La turme vă-ntâlnim de strajă
+Păstori de douăzeci de veacuri,
+La turme vă-ntâlnim de strajă,
 Înfiorați sub cer de haruri
-/: În nopți când inima veghează :/
+/: În nopți când inima veghează. :/
 
 [chorus]
-/: De-aceea-n bucurie sfântă
-Uniți de-o dragoste cerească
-Întreaga inima ne cântă
-Un imn cu oastea îngerească :/
+/: De-aceea-n bucurie sfântă,
+Uniți de-o dragoste cerească,
+Întreaga inimă ne cântă
+Un imn cu oastea îngerească. :/
 
 [2]
-Cu voi păstori de pe câmpie
-Creștini din patru zări albastre
+Cu voi, păstori de pe câmpie,
+Creștini din patru zări albastre,
 Comemorăm cu bucurie
-/: Pe Isus în inimile noastre :\
+/: Pe Isus în inimile noastre. :\
 
 [3]
-Noi Te slavim,
-Copil din iesle
-Cu toti Ti-aducem osanale
-Si vrem ca inimile noastre
-/: Sa fie darurile Tale :/
+Noi Te slăvim, Copil din iesle,
+Cu toți Ți-aducem Osanale
+Și vrem ca inimile noastre
+/: Să fie darurile Tale. :/
