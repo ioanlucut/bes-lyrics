@@ -2,7 +2,7 @@
 Doresc în inima mea
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Învață-mă Tu calea Ta
@@ -11,11 +11,11 @@ Să pot umbla în adevăr,
 Și devotat Ție să Îți fiu.
 
 [chorus]
-DORESC ÎN INIMA MEA SĂ TE URMEZ,
-DORESC ÎN INIMA MEA
-SĂ FIU APROAPE DE TIN’,
-DORESC ÎN INIMA MEA SĂ TE SLUJESC
-PENTRU TOATĂ VIAȚA MEA.
+Doresc în inima mea să Te urmez,
+Doresc în inima mea
+Să fiu aproape de Tin’.
+Doresc în inima mea să Te slujesc
+Pentru toată viața mea.
 
 [2]
 Deschide-mi ochii ca să Te văd,

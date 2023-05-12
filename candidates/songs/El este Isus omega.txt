@@ -1,8 +1,8 @@
 [title]
-El este Isus (omega)
+El este Isus
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Pot demonii cu groază să-ntunece răcnind
@@ -11,11 +11,10 @@ Să-nfrângă Duhul Celui ce e-n sufletul meu,
 Ce Însuși e lumină, că-I Fiu de Dumnezeu!
 
 [chorus]
-EL ESTE ISUS,
-MEDIC CERESC,
-BALSAM ȘI SÂNGE DUMNEZEIESC,
-ÎNCEPUTUL ȘI SFÂRȘITUL ÎN EL SE ODIHNESC,
-ISUS ESTE ACELAȘI IERI ȘI AZI ȘI-N VECI!
+EL este Isus, medic ceresc,
+Balsam și sânge Dumnezeiesc,
+Începutul și sfârșitul în El se odihnesc,
+Isus este același ieri și azi și-n veci!
 
 [2]
 Izbânda e a noastră, știm la ce-am fost chemați

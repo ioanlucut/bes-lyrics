@@ -2,7 +2,7 @@
 Domnului mulțumiți căci este bun
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Domnului mulțumiți căci este bun,
@@ -11,13 +11,12 @@ Că adevărul Său ține-n veci de veci,
 Cheamă-i numele Său Cel Sfânt.
 
 [chorus]
-BUCURAȚI-VĂ,
-BUCURAȚI-VĂ,
-CEI CE-L CAUTĂ PE ISUS
-SĂ SE BUCURE. (2x)
+Bucurați-vă, bucurați-vă,
+Cei ce-L caută pe Isus
+Să se bucure. (2x)
 
 [2]
 Spune-ți popoarelor ce a făcut,
 Spune-ți popoarelor ce a făcut,
 De lucrarea Sa, de-ale Sale lucrări,
-Glorie numelui Său Cel Sfânt.
+Glorie numelui Său Cel Sfânt!

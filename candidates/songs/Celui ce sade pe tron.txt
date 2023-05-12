@@ -1,10 +1,13 @@
 [title]
-Celui ce sade pe tron
+Celui ce șade pe tron
 
 [sequence]
-1
+1,c,1,c,c,c,c,c
 
+[1]
 /: Celui ce șade pe tron
-Și Mielului sfânt :/
-/: Să-i fie onoare și glorie,
-Și slavă în veci :/
+Și Mielului sfânt. :/ (3x)
+
+[chorus]
+/: Să-I fie onoare și glorie,
+Și slavă în veci. :/

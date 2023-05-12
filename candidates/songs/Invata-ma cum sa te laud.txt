@@ -1,12 +1,11 @@
 [title]
-Invata-ma cum să te laud
+Învață-mă cum să Te laud
 
 [sequence]
 1
 
 [1]
-/: ÎNVAȚĂ-MĂ CUM SĂ TE LAUD,
-ÎNVAȚĂ-MĂ CUM SĂ TE CAUT,
-ÎNVAȚĂ-MĂ SĂ SLĂVESC
-NUMELE TĂU :/
-ÎN VECI DE VECI.
+/: Învață-mă cum să Te laud,
+Învață-mă cum să Te caut,
+Învață-mă să slăvesc Numele Tău, :/
+În veci de veci.

@@ -1,26 +1,32 @@
 [title]
 Cine a crezut în ce ni se vestise
-[sequence]
-1,c,2,c
-[1]
-Cine a crezut în ce ni se vestise
-Cine a cunoscut brațul Domnului
+
+[sequence]
+1,c,2,c,e
+
+[1]
+Cine a crezut în ce ni se vestise?
+Cine a cunoscut brațul Domnului?
 Când priveai la fața Lui,
-Te îngrozeai de atâta chin
-[chorus]
+Te îngrozeai de atâta chin.
+
+[chorus]
 Mii de răni I-au făcut,
-Mii de răni Mielului Sfânt
+Mii de răni Mielului Sfânt.
 Disprețuit și alungat,
-Om al durerii Miel curat
+Om al durerii, Miel curat
+
 Atât de mult El te-a iubit,
-Din dragoste S-a dăruit
+Din dragoste S-a dăruit.
 Ți-a deschis ușa spre cer,
-Spre Dumnezeu, spre Raiul Său
-[2]
+Spre Dumnezeu, spre Raiul Său.
+
+[2]
 Sângele șiroi curgea
 Când străzile El le colinda.
-La Golgota când au ajuns
-Sus pe cruce ei L-au străpuns.
-[3]
-El era om, om al durerii
-Și disprețuit de toți
+La Golgota când au ajuns,
+Sus pe cruce, ei L-au străpuns.
+
+[ending]
+El era Om, Om al durerii
+Și disprețuit de toți.

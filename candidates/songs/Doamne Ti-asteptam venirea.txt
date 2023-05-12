@@ -1,38 +1,33 @@
 [title]
-Doamne Ți-așteptăm venirea
-[sequence]
-1,2,3
-[1]
+Doamne, Ți-așteptăm venirea
+
+[sequence]
+1,c,2,t
+
+[1]
 Doamne, Ți-așteptăm venirea,
-La ivirea zorilor;
+La ivirea zorilor,
 Îmbrăcați în haine albe,
 Vrem „Osana” să-Ți cântăm.
-[2]
-ÎNTR-O ZI ÎNSORITĂ DE DIMINEAȚĂ,
-VOM STA CU TINE FAȚĂ-N FAȚĂ,
-CU TIN’,
-CU-AVRAAM,
-CU ISAAC ȘI CU ÎNGERII.
-SĂRBĂTOARE DIVINĂ ȘI GLORIOASĂ
-VA FI,
-ÎN ZIUA ACEEA MĂREAȚĂ,
-PENTRU POPORUL ALES AL DOMNULUI.
-[3]
+
+[chorus]
+Într-o zi însorită de dimineață
+Vom sta cu tine față-n față,
+Cu Tin’, cu-Avraam, cu Isaac și cu îngerii.
+Sărbătoare divină și glorioasă
+Va fi, în ziua aceea măreață,
+Pentru poporul ales al Domnului.
+
+[2]
 Nu nesocoti iubirea
-Și Cuvântul Domnului,
+Și Cuvântul Domnului
 Căci se-apropie venirea,
 Ziua mare-a Mielului.
-[4]
-DACĂ ASTĂZI,
-PRIN HAR,
-POȚI PRIMI MÂNTUIREA,
-NU STA-N ZADAR,
-RIDICĂ-ȚI PRIVIREA!
-OM PĂCĂTOS,
-VINO AZI CA SĂ FII SALVAT!
-DACĂ AZI,
-PRIN HAR,
-AUZI IAR CUVÂNTUL,
-FII FERICIT ȘI FĂ LEGĂMÂNTUL
-CU DOMNUL TĂU,
-CE TE-A RĂSCUMPĂRAT!
+
+[chorus 2]
+Dacă astăzi, prin har, poți primi mântuirea,
+Nu sta-n zadar, ridică-ți privirea!
+Om păcătos, vino azi ca să fii salvat!
+Dacă azi, prin har, auzi iar cuvântul,
+Fii fericit li fă legământul
+Cu Domnul Tău, ce te-a răscumpărat!

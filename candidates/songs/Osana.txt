@@ -1,25 +1,20 @@
 [title]
 Osana
-[sequence]
-1,2
-[1]
-Osana,
-Amin,
-Osana
-O, Aleluia,
-Maranata. (2x)
-Isus e Domn. (8x)
-[2]
-El a-nviat. (8x)
-Osana,
-Amin,
-Osana
-O, Aleluia,
-Maranata. (2x)
-[3]
-El va veni. (8x)
-Osana,
-Amin,
-Osana
-O, Aleluia,
-Maranata. (2x)
+
+[sequence]
+1,2,3
+
+[1]
+Osana, Amin, Osana!
+O, Aleluia, Maranata! (2x)
+Isus e Domn! (8x)
+
+[2]
+El a-nviat! (8x)
+Osana, Amin, Osana!
+O, Aleluia, Maranata! (2x)
+
+[3]
+El va veni! (8x)
+Osana, Amin, Osana!
+O, Aleluia, Maranata! (2x)

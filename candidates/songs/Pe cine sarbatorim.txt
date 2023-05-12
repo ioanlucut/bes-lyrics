@@ -1,65 +1,25 @@
 [title]
-Pe cine sarbatorim
+Pe cine sărbătorim?
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
-Astăzi este bucurie
-To
-Ți s
-Ărb
-Ătorim
-Pe-nserat se-aud colinde
-Glasuri de copii
-Sosit-a Craciunul, daruri bogate,
-Bradul În casa e-mpodobit
-E z
-Âmbet În inimi Și voie bun
-Ă,
-Ast
-Ăzi e Cr
-Ăciun.
+Astăzi este bucurie, toți sărbătorim,
+Pe-nserat se-aud colinde, glasuri de copii.
+Sosit-a Crăciunul, daruri bogate, bradul în casă e-mpodobit,
+E zâmbet în inimi și voie bună, astăzi e Crăciun.
 
 [chorus]
-SĂ ne-ntreb
-Ăm care e adev
-Ărul?
-Pe cine s
-Ărbatorim?
-De ce stele Și Îngeri c
-Ânt
-Ă?Haideti s
-Ă ne amintim.
-S-a n
-Ăscut Pruncul Sf
-Ânt
-Aici jos pe p
-Ăm
-Ânt
-Mantuirea prin El s
-Ă primim
-SĂ nu uit
-Ăm adev
-Ărul
-Și pe cine s
-Ărb
-Ătorim.
+Să ne-ntrebăm: care e adevărul? Pe cine sărbătorim?
+De ce stele și îngeri cântă? Haideți, să ne amintim.
+S-a născut Pruncul Sfânt, aici jos pe pământ.
+Mântuirea prin El să primim,
+Să nu uităm adevărul și pe cine sărbătorim.
 
 [2]
-CÂnd eram doar un copil
-La geamul Înghe
-Țat
-Asteptam Cr
-Ăciunul pentru darul lui bogat
-Pe fulgi de z
-Ăpada, c
-Ânt
-Ăm colindul
-Pe care nu-l În
-Țelegeam
-PĂrea doar poveste, azi Îns
-Ă-mi este
-At
-Ât de adev
-Ărat.
+Când eram doar un copil, la geamul înghețat
+Așteptam Crăciunul, pentru darul lui bogat.
+Pe fulgi de zăpadă, cântăm colindul
+Pe care nu-l înțelegeam, 
+Părea doar poveste, azi însă-mi este atât de adevărat.

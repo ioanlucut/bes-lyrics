@@ -1,16 +1,19 @@
 [title]
-E bucurie-n hristos
-[sequence]
-1
-[1]
-E BUCURIE-N HRISTOS,
-ESTE DRAGOSTE-N SPIRIT,
-E NĂDEJDE-N CREDINȚA ÎN EL.
-E-O FÂNTÂNĂ CE-O ȘTIU
-CE HRĂNEȘTE-AL MEU SUFLET,
-E CUVÂNTUL CE CURGE DIN EL. (2x)
-[2]
-Mărirea și Slava-s a Lui,
-Puterea și Gloria-s a Lui,
+E bucurie-n Hristos
+
+[sequence]
+c,1,c,1
+
+[chorus]
+E bucurie-n Hristos,
+Este dragoste-n spirit,
+E nădejde-n credința în El.
+E-o fântână ce-o știu,
+Ce hrănește-al meu suflet,
+E cuvântul ce curge din El. (2x)
+
+[1]
+Mărirea și slava-s a Lui,
+Puterea și gloria-s a Lui,
 Să lăsăm gura Lui să ne-nvețe cântând,
 Voia Lui s-o-mplinim pe pământ.

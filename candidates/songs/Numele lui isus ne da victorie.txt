@@ -1,11 +1,12 @@
 [title]
-Numele lui Isus ne da victorie
+Numele lui Isus ne dă victorie
 
 [sequence]
 1,2,3,4
 
 [1]
-/: Numele lui Isus, numele lui Isus Ne dă victorie :/
+/: Numele lui Isus, numele lui Isus 
+Ne dă victorie. :/
 Cine poate ca să spună
 Cum Isus luptă pentru noi?
 Numele lui Isus Hristos
@@ -13,22 +14,23 @@ Numele lui Isus Hristos
 
 [2]
 /: Numele lui Isus, numele lui Isus
-Ne duce sus, în cer :/
+Ne duce sus, în cer! :/
 Cine poate ca să spună
 El loc în cer ne-a pregătit?
 Numele lui Isus Hristos,
 Ce mult El ne-a iubit.
 
 [3]
-/: Numele lui Isus, numele lui Isus Ne dă mântuire :/
+/: Numele lui Isus, numele lui Isus 
+Ne dă mântuire. :/
 Cine poate ca să spună
-Cum el pe cruce a murit?
+Cum El pe cruce a murit?
 Numele lui Isus Hristos
 Pe veci ne-a mântuit.
 
 [4]
 /: Numele lui Isus, numele lui Isus
-Ne dă Duhul cel Sfânt :/
+Ne dă Duhul cel Sfânt. :/
 Și pe aripi de credință
 Ca porumbeii spre porumbar
 Vom zbura din astă lume,

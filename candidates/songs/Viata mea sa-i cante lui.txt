@@ -1,29 +1,33 @@
 [title]
-Viața mea să-i cânte lui
-[sequence]
-1,c,2,c
-[1]
-Mâinile-mi ridic
-Dar n-am ce să-Ți ofer
+Viața mea să-I cânte Lui
+
+[sequence]
+1,c,2,c,b,c
+
+[1]
+Mâinile-mi ridic,
+Dar n-am ce să-Ți ofer,
 Doar un suflet frânt și gol,
-Tu să Îl transformi
+Tu să Îl transformi.
 Prin cuvântul meu și prin fapta mea
 Viața să Îți las jertfă pe altar.
-[chorus]
-VIAȚA MEA SĂ-I CÂNTE LUI
-VIAȚA MEA SĂ-I CÂNTE LUI
-VREAU SĂ VESTESC ACUM
-AL SĂU NUME CÂNTÂND
-PÂNĂ ÎNCĂ MAI E TIMP
-VIAȚA MEA SĂ-I CÂNTE LUI
-[2]
-Doamne azi Îți dau
+
+[chorus]
+Viața mea să-I cânte Lui,
+Viața mea să-I cânte Lui!
+Vreau să vestesc acum,
+Al Său nume cântând
+Până încă mai e timp.
+Viața mea să-I cânte Lui!
+
+[2]
+Doamne, azi Îți dau
 Ca jertfă viața mea
 Ca să-i pot sluji pe toți
 Si voia să-Ți urmez.
 Prin cuvântul meu și prin fapta mea
 Viața să Îți las jertfă pe altar.
-[3]
-Aleluia,
-Aleluia
-Viața mea să-I cânte doar Lui (3x)
+
+[bridge]
+Aleluia, Aleluia,
+Viața mea să-I cânte doar Lui! (3x)

@@ -1,45 +1,38 @@
 [title]
-Domnul este adapostul
+Domnul este adăpostul
 
 [sequence]
-1,c,2,c,3,c
+1,c,2,c,3,c,4
 
 [1]
-Domnul este adapostul
-Sufletului meu (3x)
-El ma duce la izvoare
-E Pastorul meu (3x)
+Domnul este adăpostul sufletului meu. (3x)
+El mă duce la izvoare, e Păstorul meu. (3x)
 
 [chorus]
 /: Chiar dac-ar fi să umblu
-Prin valea umbrei mortii, eu
-Nu ma tem de nicun rau x2
+Prin valea umbrei morții, eu
+Nu mă tem de nicun rău. (2x)
 Toiagul și nuiaua Ta
-Ma mangaie mereu
-Nu ma tem de niciun rau x2 :/
+Mă mângâie mereu,
+Nu mă tem de niciun rău (2x) :/
 
 [2]
-Imi invioreaza duhul
-E pastorul meu
-Dumnezeul meu x2
-Pe carari drepte-mi conduce
-Zilnic pasul meu
-Din pricina numelui Sau x2
+Îmi înviorează Duhul,
+E Păstorul meu, Dumnezeul meu. (2x)
+Pe cărări drepte-mi conduce zilnic pasul meu,
+Din pricina numelui Său (2x)
 
 [3]
-Untdelemnul Sfânt imi unge
-Zilnic capul meu
-Dumnezeul meu x2
-Sunt fericit, voi locui
-Mereu în cortul Sau
-Mereu cu Domnul meu
-Mereu în cortul Sau
+Untdelemnul Sfânt îmi unge zilnic capul meu,
+Dumnezeul meu. (2x)
+Sunt fericit, voi locui mereu în cortul Său,
+Mereu cu Domnul meu, mereu în cortul Său.
 
 [4]
 /: Chiar dac-ar fi să umblu
-Prin valea umbrei mortii, eu
-Nu ma tem de nicun rau x2
+Prin valea umbrei morții, eu
+Nu mă tem de nicun rău (2x)
 Toiagul și nuiaua Ta
-Ma mangaie mereu
-Nu ma tem de niciun rau x2 :/
+Mă mângâie mereu,
+Nu mă tem de niciun rău (2x) :/
 AMIN

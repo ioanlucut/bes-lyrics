@@ -1,22 +1,29 @@
 [title]
 Eu mă încred în Domnul meu
-[sequence]
-1,c,2,c
-[1]
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
 Eu mă încred în Domnul meu
 Prin orișice furtună,
-Că-n mâna Lui e sorțul meu
-De-i vreme rea sau bună.
-[chorus]
-SĂ FIE NOAPTEA CÂT DE GREAINIMA MEA ÎI VA CÂNTA,
-LUI ISUS EU MĂ VOI RUGASĂ-MI DEA PUTERI ÎN ZIUA GREA.
-[2]
-Eu mă încred în Domnul meu
+/: Că-n mâna Lui e sorțul meu
+De-i vreme rea sau bună. :/
+
+[chorus]
+/: Să fie noaptea cât de grea, 
+Inima mea Îi va cânta,
+Lui Isus eu mă voi ruga
+Să-mi dea puteri în ziua grea. :/
+
+[2]
+Eu mă încred în Domnul meu,
 La ușă când îmi bate
-Satan cu-amenințarea să,
-Isus de el mă scapă.
-[3]
+/: Satan cu-amenințarea sa,
+Isus de el mă scapă. :/
+
+[3]
 Eu mă încred în Domnul meu
 Și-n harul ce mă ține,
-Când acest har se va sfârși
-Mă va lua la Sine.
+/: Când acest har se va sfârși
+Mă va lua la Sine. :/

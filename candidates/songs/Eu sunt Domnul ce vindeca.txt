@@ -1,17 +1,17 @@
 [title]
-Eu sunt Domnul ce vindeca
+Eu sunt Domnul ce vindecă
 
 [sequence]
-1,c,1,c
+1,2,1,2
 
 [1]
 /: Eu sunt Domnul ce vindecă,
 Eu sunt vindecătorul,
 Eu am trimis Cuvântul Meu cel Sfânt
-Și am luat durerea :/
+Și am luat durerea. :/
 
-[chorus]
+[2]
 /: Tu ești Domnul ce vindecă,
 Tu ești vindecătorul,
 Tu ai trimis Cuvântul Tău cel Sfânt
-Și ai luat durerea :/
+Și ai luat durerea. :/

@@ -1,29 +1,33 @@
 [title]
 Îngeri mii în ceruri cântă
-[sequence]
-1,c,2,c,3,c
-[1]
+
+[sequence]
+1,c,2,c,3,c,4,c
+
+[1]
 Îngeri mii în ceruri cântă
 Pe deasupra văilor.
 Munții bucuroși repetă
 Armonia, cântul lor.
-[chorus]
-GLORIE
-S-A NĂSCUT MESIA
-GLORIE
-S-A NĂSCUT MESIA
-[2]
-Ce-i cu bucuria voastră
-Voi păstori ce auziți?
-Ce anunță coru-n slavă
+
+[chorus]
+Glorie, s-a născut Mesia!
+Glorie, s-a născut Mesia!
+
+[2]
+Ce-i cu bucuria voastră,
+Voi, păstori, ce auziți?
+Ce anunță coru-n slavă?
 Ce-ascultați așa uimiți?
-[3]
+
+[3]
 Pruncul sfânt cu chip de soare
 E nespus de luminos.
 Sfinți părinți cu adorare
 Îl veghează pe Hristos.
-[4]
-Vino azi la ieslea sfântă
+
+[4]
+Vino azi la ieslea sfântă,
 Laudă să-I aduci smerit.
 Viața ta doar Lui predată
 Pentru El e-un dar dorit.

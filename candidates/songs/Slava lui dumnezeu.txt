@@ -1,8 +1,8 @@
 [title]
-Slava lui Dumnezeu
+Slavă lui Dumnezeu
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Dintre cetele de îngeri
@@ -14,20 +14,15 @@ Vă aduc o veste bună,
 Și pe Domnul lăudați.
 
 [chorus]
-SLAVĂ LUI DUMNEZEU,
-SLAVĂ LUI DUMNEZEU,
-ÎN LOCURILE PREAÎNALTE,
-SLAVĂ LUI DUMNEZEU.
-ȘI PACE FIE PE PĂMÂNT,
-PACE PE PĂMÂNT,
-ÎNTRE OAMENII PLĂCUȚI LUI,
-PACE PE PĂMÂNT.
+Slavă lui Dumnezeu, slavă lui Dumnezeu,
+În locurile preaînalte, slavă lui Dumnezeu.
+Și pace fie pe pâmânt, pace pe pământ,
+Între oamenii plăcuți Lui, pace pe pământ.
 
 [2]
-Astăzi în cetatea mică
-În cetatea Betleem
-S-a născut Mântuitorul,
-Dumnezeu.
+Astăzi în cetatea mică,
+În cetatea Betleem,
+S-a născut Mântuitorul, Dumnezeu.
 Veți găsi un prunc acolo,
 Este Marele Împărat,
 Înfășat în scutece,

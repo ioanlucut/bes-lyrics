@@ -2,7 +2,7 @@
 O schimbare aș vrea în viața mea
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Viața mea Ți-am predat și acum sunt bogat,
@@ -11,12 +11,13 @@ Păcatul mi-ai luat și acum sunt iertat,
 Și vreau să-Ți cânt ne-ncetat.
 
 [chorus]
-O SCHIMBARE AȘ VREA ÎN VIAȚA MEA,
-ȘI IERTARE SĂ PRIMESC LA GOLGOTA,
-VIAȚĂ NOUĂ PRIN ISUS AM DOBÂNDIT,
-ÎȚI MULȚUMESC CĂ M-AI MÂNTUIT.
+O schimbare aș vrea în viața mea,
+Și iertare să primesc la Golgota,
+Viață nouă prin Isus am dobândit,
+Îți mulțumesc că m-ai mântuit.
 
 [2]
 De-acum viața mea va fi-n mâna Ta,
-Nimic nu mă va clătina
-Mă-ncred în Isus ce dulce mi-a spus Că în curând voi fi la dreapta Sa.
+Nimic nu mă va clătina.
+Mă-ncred în Isus, ce dulce mi-a spus 
+Că în curând voi fi la dreapta Sa.

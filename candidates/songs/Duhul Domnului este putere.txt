@@ -1,14 +1,8 @@
 [title]
-Duhul domnului este putere
+Duhul Domnului este putere
 
 [sequence]
-c,1,c,1
-
-[chorus]
-/: DUHUL DOMNULUI ESTE PUTERE
-DUHUL DOMNULUI E TĂRIA MEA
-DUHUL DOMNULUI ESTE PUTERE
-ÎMI DĂ VICTORIA :/
+1,c,1,c
 
 [1]
 Cel Ce e-n noi e mai tare
@@ -16,3 +10,9 @@ Decât duhul veacului,
 Suntem mai mult decât biruitori
 Prin puterea Domnului,
 Doar a Lui!
+
+[chorus]
+/: Duhul Domnului este putere,
+Duhul Domnului e tăria mea,
+Duhul Domnului este putere, 
+Îmi dă victoria! :/

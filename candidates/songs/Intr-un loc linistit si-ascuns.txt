@@ -2,7 +2,7 @@
 Într-un loc liniștit și-ascuns
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Într-un loc liniștit și-ascuns,
@@ -11,12 +11,12 @@
 Căci îmi doresc să Te cunosc mai mult.
 
 [chorus]
-VREAU SĂ TE VĂD,
-VREAU S-AUD VOCEA TA
-SĂ TE CUNOSC MAI MULT,
-VREAU SĂ TE-ATING,
-VREAU SĂ VĂD FAȚA TA
-SĂ TE CUNOSC MAI MULT.
+Vreau să Te văd,
+Vreau s-aud vocea Ta,
+Să Te cunosc mai mult,
+Vreau să Te-ating,
+Vreau să văd fața Ta,
+Să Te cunosc mai mult.
 
 [2]
 Înspre țintă ne-ncetat alerg,

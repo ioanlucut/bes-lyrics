@@ -1,21 +1,21 @@
 [title]
-Doamne candela pe calea mea
+Doamne, candelă pe calea mea
 
 [sequence]
-1,c,1,c
-
-[1]
-Singur când mă simt, ratăcit pe drum
-Ești alături de mine
-Teamă de nimic eu nu am atunci
-Când ma aflu lânga Tine
+c,1,c,2
 
 [chorus]
-/: Doamne, candela pe calea mea
-E Cuvântul Tău cel sfânt :/
+/: Doamne, candelă pe calea mea
+E Cuvântul Tău cel sfânt. :/
+
+[1]
+Singur când mă simt, ratăcit pe drum,
+Ești alături de mine.
+Teamă de nimic eu nu am, atunci
+Când mă aflu lângă Tine!
 
 [2]
 Eu nu voi uita cum dragostea Ta
-Pentru mine ai arătat
-Călăuza mea ești totdeauna
-Teama Tu mi-ai alungat
+Pentru mine ai arătat.
+Călăuza mea ești totdeauna,
+Teama Tu mi-ai alungat.

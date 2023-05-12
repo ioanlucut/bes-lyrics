@@ -1,53 +1,59 @@
 [title]
-Eu sunt alfa și omega
+Eu sunt Alfa și Omega
 
 [sequence]
-1,2,3,4,5,6,7,8
+1,c,2,c,3,c,4,c,e
 
 [1]
-/: EU SUNT ALFA ȘI OMEGA
-EU SUNT ALFA ȘI OMEGA
-DOMNUL ISUS A ZIS :/
+/: Eu sunt Alfa și Omega,
+Eu sunt Alfa și Omega!
+Domnul Isus a zis. :/
+Începutul și sfârșitul este Dumnezeu,
 
-ÎNCEPUTUL ȘI SFÂRȘITUL ESTE DUMNEZEU
-NU E ALTUL PE PĂMÂNT ȘI-N CER
-EU SUNT ALFA ȘI OMEGA
-EU SUNT ALFA ȘI OMEGA
-DOMNUL ISUS A ZIS
+Nu e altul pe pământ și-n cer.
+Eu sunt Alfa și Omega,
+Eu sunt Alfa și Omega!
+Domnul Isus a zis.
+
+[chorus]
+/: Iată, eu vin curând, zice Domnul!
+Iată, răsplata voastră e cu mine!
+Voi da la fiecare după faptă,
+În curând, curând. :/
 
 [2]
-/: IATĂ EU VIN CURÂND ZICE DOMNUL
-IATĂ RĂSPLATA VOASTRĂ E CU MINE
-VOI DA LA FIECARE DUPĂ FAPTĂ
-ÎN CURÂND, CURÂND :/
+/: Cine-i sfânt să se sfințească,
+Cine-i sfânt să se sfințească!
+Domnul Isus a zis. :/
+Căci afară vor rămâne toți cei mincinoși
+
+Și acei ce sunt necredincioși.
+Cine-i sfânt să se sfințească,
+Cine-i sfânt să se sfințească!
+Domnul Isus a zis.
 
 [3]
-/: CINE-I SFÂNT SĂ SE SFINȚEASCĂ
-CINE-I SFÂNT SĂ SE SFINȚEASCĂ
-DOMNUL ISUS A ZIS :/
+/: Cei setoși să vină astăzi,
+Cei setoși să vină astăzi!
+La Isus și să bea. :/
+Hainele în sfântul sânge
+
+Să vi le spălați,
+Apa vieții ’n dar să căpătați.
+Cei setoși să vină astăzi
+La Isus și să bea.
 
 [4]
-CĂCI AFARĂ VOR RĂMÂNE TOȚI CEI MINCINOȘI
-ȘI ACEI CE SUNT NECREDINCIOȘI
-CINE-I SFÂNT SĂ SE SFINȚEASCĂ
-CINE-I SFÂNT SĂ SE SFINȚEASCĂ
-DOMNUL ISUS A ZIS
+/: Domnul vine, Maranata,
+Domnul vine, Maranata,
+Amin, Aleluia! :/
+Duhul și mireasa strigă: „Vino, Isuse!”
 
-[5]
-/: CEI SETOȘI SĂ VINĂ ASTĂZI
-CEI SETOȘI SĂ VINĂ ASTĂZI
-LA ISUS ȘI SĂ BEA :/
+Mântuiții strigă glorie.
+Domnul vine, Maranata,
+Domnul vine, Maranata,
+Amin, Aleluia!
 
-[6]
-HAINELE ÎN SFÂNTUL SÂNGE SA VI LE SPĂLAȚI
-APA VIEȚII ’N DAR SĂ CĂPĂTAȚI
-CEI SETOȘI SĂ VINĂ ASTĂZI
-LA ISUS ȘI SĂ BEA
-
-[7]
-/: DOMNUL VINE MARANATA DOMNUL VINE MARANATAAMIN ALELUIA :/
-DUHUL ȘI MIREASA STRIGĂ: VINO, ISUSE !MÂNTUIȚII STRIGĂ GLORIEDOMNUL VINE MARANATA
-DOMNUL VINE MARANATAAMIN ALELUIA
-
-[8]
-DOMNUL VINE MARANATA, AMIN, ALELUIA
+[ending]
+Domnul vine, Maranata,
+Amin, Aleluia!

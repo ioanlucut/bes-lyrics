@@ -1,14 +1,16 @@
 [title]
-Sarbatoresc și voi canta
-[sequence]
-1
-[1]
-SĂRBĂTORESC ȘI VOI CÂNTA,
-VREAU SĂ BAT DIN PALME-N RITMUL LAUDEI
-DOMNUL DOMNEȘTE,
-VOI STRIGA,
-SURSA MÂNTUIRII ȘI A LAUDEI E. (2x)
-[2]
+Sărbătoresc și voi cânta
+
+[sequence]
+1,c,1,c
+
+[1]
+Sărbătoresc și voi cânta,
+Vreau să bat din palme-n ritmul laudei
+Domnul domnește, voi striga,
+Sursa mântuirii și a laudei e. (2x)
+
+[chorus]
 Domn al domnilor,
 Rege-al regilor,
 El domnește-n veci de veci,

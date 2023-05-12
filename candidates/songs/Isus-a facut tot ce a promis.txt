@@ -1,29 +1,35 @@
 [title]
 Isus a făcut tot ce a promis
-[sequence]
-1,c,2,c,3,c
-[1]
-Isus a făcut tot ce a promis
+
+[sequence]
+1,c,2,c,3,c,4,c
+
+[1]
+Isus a făcut tot ce a promis,
 Mergi, mergi cu Isus,
 Așa a trăit precum a și zis
 Mergi, mergi cu Isus.
-[chorus]
-MERGI CU ISUS!
-MERGI CU ISUS!
-MERGI CU ISUS!
-MERGI ÎN LUMINA SA!
-[2]
+
+[chorus]
+Mergi cu Isus!
+Mergi cu Isus!
+Mergi cu Isus!
+Mergi în lumina Sa!
+
+[2]
 Isus a venit și ne-a mântuit
 Mergi, mergi cu Isus,
-Pe Sine S-a dat și ne-a izbăvit
+Pe Sine S-a dat și ne-a izbăvit,
 Mergi, mergi cu Isus.
-[3]
+
+[3]
 Isus a răbdat și a biruit
 Mergi, mergi cu Isus,
-Ești liber! Păcatul El a plătit
+Ești liber! Păcatul El a plătit,
 Mergi, mergi cu Isus.
-[4]
-În sfânta iubire să mergem acum
+
+[4]
+În sfânta iubire să mergem acum,
 Mergi, mergi cu Isus,
-Căci El ne așteaptă acum pe drum
+Căci El ne așteaptă acum pe drum,
 Mergi, mergi cu Isus.

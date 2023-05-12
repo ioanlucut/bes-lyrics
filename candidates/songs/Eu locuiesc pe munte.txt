@@ -2,33 +2,28 @@
 Eu locuiesc pe munte
 
 [sequence]
-1,c,2,c
+1,c,2,c,3,c
 
 [1]
-CÂND AUD ÎN DEPARTARE
-LUPTĂ ZGOMOT MAREATUNCI ȘTIU CĂ MULȚI SUNT PRINȘI
-DE PĂCAT VICLEAN
-ÎNDOIALA ȘI FRICA-N ZADAR
-ÎMI FAC CHEMARENIMIC NU MĂ SCOATE
-DIN CANAAN
+Când aud în depărtare, luptă, zgomot mare,
+Atunci știu că mulți sunt prinși de păcat viclean.
+Îndoiala și frica-n zadar îmi fac chemare,
+Nimic nu mă scoate din Canaan.
 
 [chorus]
-/: EU LOCUIESC PE MUNTE SUB UN CER CLAR ȘI SENINBEAU APĂ DIN IZVORUL CARE-NTOTDEAUNA-I PLIN
-EU MĂ HRĂNESC CU MANACARE-O AFLU PE DEPLIN
-CĂCI EU TRĂIESC ÎN CANAAN :/
+/: Eu locuiesc pe munte sub un cer clar și senin,
+Beau apă din izvorul care-ntotdeauna-i plin,
+Eu mă hrănesc cu mana care-o aflu pe deplin
+Căci eu trăiesc în Canaan. :/
 
 [2]
-JOS FURTUNA ȘI-NDOIALA,
-LUMEA O FRĂMÂNTĂOMENIREA E ÎN LUPTĂ
-CU VECHIUL DUȘMAN
-SIGUR SUNT CU A MEA VIAȚĂ
-ÎN CETATEA SFÂNTĂȘI N-AM FRICĂ ,
-EU TRĂIESC ÎN CANAAN
+Jos, furtuna și-ndoiala lumea o frământă,
+Omenirea e în luptă cu vechiul dușman.
+Sigur sunt cu a mea viață în cetatea sfântă,
+Și n-am frică, eu trăiesc în Canaan.
 
 [3]
-BATĂ VÂNTUL CÂT ÎI PLACE,
-NIMIC NU-MI VA FACEADĂPOST ȘI SIGURANȚĂ
-LA DOMNUL EU AM
-ACOLO E STRĂLUCIRE,
-LINIȘTE ȘI PACEEU PE VECI SUNT SIGUR
-ÎN CANAAN
+Bată vântul cât îi place, nimic nu-mi va face
+Adăpost și siguranță, la Domnul eu am.
+Acolo e strălucire, liniște și pace,
+Eu, pe veci, sunt sigur în Canaan.

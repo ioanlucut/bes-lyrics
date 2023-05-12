@@ -1,8 +1,8 @@
 [title]
-Nu renunta
+Nu renunța
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c
+1,c,2,c,3,c,4,c,5,c,6,c
 
 [1]
 Știu că nu-i ușor când cerul e întunecat
@@ -11,22 +11,19 @@ Când valul vieții te-ncearcă fără rost,
 Când ai căzut și soarta te-a lovit necruțător.
 
 [chorus]
-/: NU RENUNȚA,
-NU TE DA BĂTUT
-PRIETENE ÎȚI SPUN:
-DACĂ LUPȚI VEI CAȘTIGA,
-NU RENUNȚA,
-NU TE DA BĂTUT,
-LASĂ DRAGOSTEA SĂ STRĂLUCEASCA-N VIAȚA TA :/
+/: Nu renunța, nu te da bătut,
+Prietene, îți spun: dacă lupți vei câștiga,
+Nu renunța, nu te da bătut,
+Lasă dragostea să strălucească-n viața ta. :/
 
 [2]
 E timpul să începi să lupți,
 Să nu te dai deloc bătut,
-Nu renunța așa ușor
+Nu renunța așa ușor,
 Soarele va răsări din nou.
 
 [3]
-Hai luptă, luptă înc-o zi,
+Hai, luptă, luptă înc-o zi,
 Prin dragoste vei birui,
 Vei auzi cum Dumnezeu
 Strigă mereu în gândul tău.
@@ -34,7 +31,7 @@ Strigă mereu în gândul tău.
 [4]
 În viață deseori durerea te-a pătruns
 Și-n inima zdrobită multe lacrimi ai ascuns,
-Dar dacă vei lupta, hai luptă înc-o zi
+Dar dacă vei lupta, hai, luptă înc-o zi
 Și-ai să vezi cum soarele în viața ta va rasări.
 
 [5]
@@ -47,4 +44,4 @@ Au fost în avantajul tău.
 Chiar dacă nu-nțelegi acum
 Continuă al vieții drum,
 Iubirea Lui te va-ntări
-Și-ntr-o zi răspunsul vei gasi.
+Și-ntr-o zi răspunsul vei găsi.

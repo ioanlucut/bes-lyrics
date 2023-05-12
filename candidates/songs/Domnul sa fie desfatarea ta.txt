@@ -1,11 +1,17 @@
 [title]
 Domnul să fie desfătarea ta
-[sequence]
-1
-[1]
+
+[sequence]
+1,c,1,c
+
+[1]
 Domnul să fie desfătarea ta
-Și la El să îți fie inima
+Și la El să îți fie inima.
 În căile Domnului să rămâi
-Și El îți va da bucurii !
-[2]
-NICIODATĂ NU SE VOR SFÂRȘIÎN DOMNUL ISUS BUCURIIÎN CĂILE DOMNULUI SĂ RĂMÂIȘI EL ÎȚI VA DA BUCURII.
+Și El îți va da bucurii!
+
+[chorus]
+Niciodată nu se vor sfârși
+În Domnul Isus bucurii.
+În căile Domnului să rămâi
+Și El îți va da bucurii.

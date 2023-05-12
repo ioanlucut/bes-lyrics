@@ -1,31 +1,29 @@
 [title]
-N-am să te las niciodata (the messengers)
-[sequence]
-1,c,2,c
-[1]
-TU DOAME EȘTI ADĂPOST ÎN NECAZ,
-STÂNCĂ ÎN VREMI DE FURTUNĂ.
-ORICÂT AR FI ÎNCERCAREA DE GREA,
-TU MĂ ASCUNZI ÎN MÂNA TA.
-[chorus]
-CU NICI-UN CHIP NU TE VOI PĂRĂSI!
-N-AM SĂ TE LAS NICIODATĂ !
-ÎN JERTFA MEA TU AI TOTUL DEPLIN,
-SUNT MÂNGĂIERE ȘI-ALIN.
-[2]
-AM BIRUINȚĂ,
-DOAMNE,
-LA GOLGOTA.
-PRIN CRUCE TOT E POSIBIL !
-RĂMÂN ÎN CREDINȚĂ,
-DOAMNE,
-CĂ VOI AVEA
-CE AM CERUT DIN MÂNA TA.
-[3]
-ÎN NUMELE TĂU,
-PREAÎNALT DUMNEZEU,
-BOLI ȘI-NGRIJORĂRILE PLEACĂ!
-TU EȘTI ACELAȘI,
-DOAMNE,
-AZI ȘI ÎN VECI !
-DOAR VOIA TA SĂ SE FACĂ.
+N-am să te las niciodată
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
+Tu, Doamne, ești adăpost în necaz, 
+Stâncă în vremi de furtună.
+Oricât ar fi încercarea de grea,
+Tu mă ascunzi în inima Ta.
+
+[chorus]
+Cu nici-un chip nu Te voi părăsi!
+N-am să Te las niciodată!
+În jertfa mea Tu ai totul deplin,
+Sunt mângâiere și-alin.
+
+[2]
+Am biruință, Doamne, la Golgota.
+Prin cruce tot e posibil!
+Rămân în credință, Doamne,
+Că voi avea ce am cerut din mâna Ta.
+
+[3]
+În Numele Tău, preaînalt Dumnezeu,
+Boli și-ngrijorările pleacă!
+Tu ești același, Doamne, azi și în veci!
+Doar voia Ta să se facă.

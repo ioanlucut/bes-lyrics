@@ -1,22 +1,29 @@
 [title]
-Nimeni în afara de tine Isuse
-[sequence]
-1,c,2,c
-[1]
-Pe acest pământ Isuse
+Nimeni în afară de tine, Isuse
+
+[sequence]
+c,1,c,2,c,3
+
+[chorus]
+/: Nimeni în afară de Tine, Isuse,
+Nu mă poate izbăvi,
+Nimeni în afară de Tine, Isuse,
+Nu mă poate liniști. :/ (2x)
+
+[1]
+Pe acest pământ, Isuse,
 Eu sunt ca și un străin,
 Iar durerile nespuse
-/: Mă apasă și suspin :/
-[chorus]
-NIMENI ÎN AFARĂ DE TINE ISUSENU MĂ POATE IZBĂVI,
-NIMENI ÎN AFARĂ DE TINE ISUSENU MĂ POATE LINIȘTI. (2x)
-[2]
-Doamne când ești lângă mine
+/: Mă apasă și suspin. :/
+
+[2]
+Doamne, când ești lângă mine
 Nu-i nimica mai frumos,
-Eu mă rog mereu la Tine
-/: Să-mi faci viața cu folos :/
-[3]
+Eu mă rog mereu la Tine,
+/: Să-mi faci viața cu folos. :/
+
+[3]
 Ce frumoasă-i tinerețea
 Petrecută cu Isus,
 Căci în țara mult dorită
-/: Ne vom bucura nespus :/
+/: Ne vom bucura nespus. :/

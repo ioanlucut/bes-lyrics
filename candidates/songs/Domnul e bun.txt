@@ -5,14 +5,10 @@ Domnul e bun
 c,1,c,1
 
 [chorus]
-DOMNUL E BUN,
-NOI CÂNTĂM CU TOȚII
-DOMNUL E BUN,
-SĂRBĂTORIM
-DOMNUL E BUN,
-FĂRĂ ÎNDOIALĂ
-DOMNUL E BUN,
-ÎN VECI DE VECI.
+Domnul e bun, noi cântăm cu toții!
+Domnul e bun, sărbătorim!
+Domnul e bun, fără îndoială.
+Domnul e bun, în veci de veci.
 
 [1]
 Când mă gândesc la iubirea Sa

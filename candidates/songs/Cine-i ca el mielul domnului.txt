@@ -1,17 +1,19 @@
 [title]
-Cine-i ca el mielul domnului
-[sequence]
-1
-[1]
-Cine-I ca El,
-Mielul Domnului
-Asezat pe tron
-Muntii-L lauda, marile-L slavesc
-Pe-al ostirii Domn
-[2]
-Laudă-L pe El
+Cine-I ca El, Mielul Domnului
+
+[sequence]
+1,c,1,c
+
+[1]
+Cine-I ca El, Mielul Domnului?
+Așezat pe tron
+Munții-L laudă, mările-L slăvesc
+Pe-al oștirii Domn.
+
+[chorus]
+Laudă-L pe El!
 Orice limbă, orice neam
-Să-L slăvească neîncetat
-Laudă-L pe El
+Să-L slăvească neîncetat.
+Laudă-L pe El!
 În orice clipă-n-orice ceas
 Toți cu îngerii-ntr-un glas.

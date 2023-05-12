@@ -1,25 +1,30 @@
 [title]
-Iata ce vorbeste Domnul daca m-ai cauta
-[sequence]
-1,c,2,c
-[1]
+Iată, ce vorbește Domnul
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
 Unde oare este pacea?
 Unde s-o găsesc?
 Unde să mă odihnesc?
 Ca o pasăre rănită nu mai pot zbura,
 Cine mă va mângâia?
-[chorus]
-IATĂ CE VORBEȘTE DOMNUL,
-IATĂ CE VORBEȘTE DOMNUL:
-/: „DACĂ M-AI CĂUTA CU TOATĂ INIMA
-N-AI FII LIPSIT DE SLAVA MEA”:\
-[2]
+
+[chorus]
+Iată, ce vorbește Domnul,
+Iată, ce vorbește Domnul:
+/: „Dacă m-ai căuta cu toată inima,
+N-ai fi lipsit de slava mea.” :\
+
+[2]
 Am umblat prin astă lume fără Dumnezeu,
 Nu eram copilul Său.
 Am iubit păcatul lumii și m-am înșelat,
 Inima mi-am tulburat.
-[3]
-Tu mă chemi să vin la Tine, iată că doresc,
-Doamne azi mă pocăiesc.
+
+[3]
+Tu mă chemi să vin la Tine, iată, că doresc,
+Doamne, azi mă pocăiesc.
 Las păcatul, vin la Tine pace ca să-mi dai,
 Vreau să fiu cu Tine-n rai.

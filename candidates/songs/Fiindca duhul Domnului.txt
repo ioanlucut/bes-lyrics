@@ -1,23 +1,23 @@
 [title]
-Fiindca duhul Domnului
+Fiindcă Duhul Domnului
 
 [sequence]
 1,2,3
 
 [1]
-/: Fiindcă duhul Domnului este-n mine
-Eu cânt azi ca și David :/
-/: Eu cânt azi, eu cânt azi
-Eu cânt azi ca și David :/
+/: Fiindcă Duhul Domnului este-n mine,
+Eu cânt azi ca și David. :/
+/: Eu cânt azi, eu cânt azi,
+Eu cânt azi ca și David. :/
 
 [2]
-/: Fiindcă duhul Domnului este-n mine
-Mă rog azi ca și David :/
+/: Fiindcă Duhul Domnului este-n mine,
+Mă rog azi ca și David. :/
 /: Mă rog azi, mă rog azi,
-Mă rog azi ca și David :/
+Mă rog azi ca și David. :/
 
 [3]
-/: Fiindcă duhul Domnului este-n mine
-Mă lupt azi ca și David :/
+/: Fiindcă Duhul Domnului este-n mine,
+Mă lupt azi ca și David. :/
 /: Mă lupt azi, mă lupt azi,
-Mă lupt azi ca și David :/
+Mă lupt azi ca și David. :/

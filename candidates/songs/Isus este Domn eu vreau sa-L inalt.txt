@@ -1,27 +1,27 @@
 [title]
-Isus este domn eu vreau să-l inalt
+Isus este Domn, eu vreau să-l înalț
 
 [sequence]
 1,2,3,4
 
 [1]
-/: Isus este Domn
+/: Isus este Domn,
 Eu vreau să-L înalț,
-Vreau să-I cânt un imn de slavă :/
+Vreau să-I cânt un imn de slavă. :/
 
 [2]
 /: Isus e Domn
 Vreau să-I cânt
-un imn de slavă :/
-Aleluia, aleluia (3x)
+Un imn de slavă. :/
+Aleluia, Aleluia! (3x)
 
 [3]
 /: Să-l sărbătorim,
 Să-i cântăm cu toți
-Domnului un imn de slavă :/
+Domnului un imn de slavă. :/
 
 [4]
 /: Să-L lăudăm,
-Să-I cântăm un imn de slavă :/
-Aleluia, aleluia (2x)
+Să-I cântăm un imn de slavă. :/
+Aleluia, Aleluia! (2x)
 Să-I cântăm un imn de slavă.

@@ -1,27 +1,27 @@
 [title]
-Glorie celui din vesnicii
+Glorie Celui din veșnicii
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
-Laudati numele Lui pe Domnu-naltati
-Sa-L marim să-L salvim pe Domnul Isus
-Regelui regelui ne-nchinam
-Toată slava și marirea lui Dumnezeu
-Regelui regelui ne-nchinam
-Il adoram caci este Demn să-L laudam
+Lăudați numele Lui, pe Domnu-nălțați.
+Să-L mărim, să-L slăvim pe Domnul Isus.
+Regelui, regelui, ne-nchinăm,
+Toată slava și mărirea lui Dumnezeu!
+Regelui, regelui, ne-nchinăm!
+Îl adorăm căci este demn să-L lăudăm.
 
 [chorus]
-Glorie celui din vesnicii
-Toată slava și marirea lui Dumnezeu
-Glorie e sarbatoare azi
-Îl adorăm căci este Domn să-L laudam
+Glorie Celui din veșnicii,
+Toată slava și mărirea lui Dumnezeu!
+Glorie, e sărbătoare azi,
+Îl adorăm căci este Domn, să-L lăudăm.
 
 [2]
-Laudati numele Lui pe Domnul inaltati
-Sa-L marim să-L slavim pe Domnul Isus
-Glorie celui din vesnicii
-Toată slava și marirea lui Dumnezeu
-Glorie e sarbatoare azi
-Il adoram caci este Demn să-L laudam
+Lăudați numele Lui, pe Domnul înălțați.
+Să-L mărim, să-L slăvim pe Domnul Isus.
+Glorie Celui din veșnicii!
+Toată slava și mărirea lui Dumnezeu,
+Glorie e sărbătoare azi,
+Îl adorăm căci este demn să-L lăudăm!

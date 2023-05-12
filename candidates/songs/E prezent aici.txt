@@ -2,23 +2,22 @@
 E prezent aici
 
 [sequence]
-1,c,1,c
+1,c,2,c
 
 [1]
 Poate ești lovit de vânt,
 Poate ești lovit de ploi
 Și crezi că nu mai ai un rost pe pământ.
-Poate tu te rogi demult
-Și aștepți din cer răspuns,
+Poate, tu te rogi demult
+Și aștepți din cer răspuns.
 Vreau să-Ți spun că El acum e prezent,
 Trebuie doar să-L atingi.
 
 [chorus]
-E PREZENT AICI FIUL LUI DUMNEZEU,
-E PREZENT ȘI VREA SĂ-ȚI DEA MÂNA SA,
-E PREZENT AICI TE AȘTEAPTĂ IUBIND,
-TREBUIE DOAR SĂ VREI,
-SĂ-I DAI INIMA. (2x)
+/: E prezent aici Fiul lui Dumnezeu,
+E prezent și vrea să-ți dea mâna Sa,
+E prezent aici, Te așteaptă iubind,
+Trebuie doar să vrei, să-I dai inima. :/ (2x)
 
 [2]
 Dacă ești căzut în drum,
