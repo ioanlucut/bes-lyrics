@@ -1,4 +1,5 @@
 
+
 -
 1
 2
@@ -311,7 +312,6 @@ Iată-mă-s
 Ierihon
 Iertare-n
 Ierusalime
-Irușalaim
 Ihre
 Inimile-arzând
 Inimile-s
@@ -2517,6 +2517,7 @@ speranţa
 speranţă-n
 speranța-mi
 speranța-n
+speranță-n
 spere
 speri
 spijinești
@@ -3129,6 +3130,7 @@ zărim
 Șterge
 și-Aleluia
 și-abia
+și-acest
 și-acuma
 și-adevăr
 și-al
@@ -3241,4 +3243,4 @@ zărim
 ’nălța
 ’nălțare
 ’nălțat
-’ș-întinde
+’ș-întinde
