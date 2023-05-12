@@ -1,19 +1,15 @@
 [title]
-O Isus domn suveran
+O, Isus, Domn suveran
 
 [sequence]
 c,1,c,1
 
 [chorus]
-O, ISUS,
-DOMN,
-SUVERAN
-FII AL MEU DOMN. (2x)
+O, Isus, Domn suveran,
+Fii al meu Domn. (2x)
 
 [1]
 Cuprinde-mi inima cu-mpărăția Ta,
 Așează-Te pe tron și fie voia Ta,
-O, Isus,
-Domn,
-Suveran
+O, Isus, Domn, Suveran
 Fii al meu Domn. (2x)
