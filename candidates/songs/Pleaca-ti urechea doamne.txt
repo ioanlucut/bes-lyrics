@@ -1,86 +1,23 @@
 [title]
-Pleaca-ți urechea doamne
+Pleacă-Ți urechea, Doamne
 
 [sequence]
 1,c,2,c
 
 [1]
-PLEACA-TI
-URECHEA
-DOAMNE
-SI-ASCULTA
-RUGA
-MEA
-NIMENI
-NU
-E
-CA
-TINE
-SLAVA
-FIE-A
-TA
-TE
-CHEM
-SA
-VI
-LA
-MINE
-SA-MI
-UMPLI
-INIMA
-CU
-PACE
-DIN
-CER
-SI
-DRAGOSTEA
-TA
+/: Pleacă-Ți urechea, Doamne, și-ascultă ruga mea,
+Nimeni nu e ca Tine, slava fie-a Ta!
+Te chem să vii la mine, să-mi umpli inima
+Cu pace din cer și dragostea Ta. :/
 
 [chorus]
-/: INIMA
-MEA,
-ISUSE
-PE
-TINE
-TE
-VREA
-DOAMNE
-VREAU
-PREZENTA
-TAINIMA
-MEA
-ISUSE
-TE
-VA
-LAUDANUMELE
-TAU
-E
-INALTAT :/
+/: Inima mea, Isuse, pe Tine Te vrea,
+Doamne, vreau prezența Ta!
+Inima mea, Isuse, Te va lăuda,
+Numele Tău e înălțat! :/
 
 [2]
-S-AJUNGA
-RUGACIUNEA
-MEA
-ISUSE
-DRAG
-N’AINTEA
-TA
-PRIMESTE-MA
-ASA
-CUM
-SUNT
-O
-DOAMNE
-SFÂNT
-REVARSA-N
-INIMA
-IUBIRE
-SA
-POT
-IUBI
-PE-ORCINE
-CUM
-TU
-ISUSE
-AI
-IUBIT
+/: S-ajungă rugăciunea mea, Isuse drag, ’naintea Ta.
+Primește-mă așa cum sunt, o, Doamne sfânt,
+Revarsă-n inimă iubire să pot iubi pe-oricine
+Cum, Tu, Isuse, ai iubit!
