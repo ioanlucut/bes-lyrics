@@ -1,31 +1,31 @@
 [title]
-Pe calvar eu am aflat o salvare
+Pe Calvar eu am aflat o salvare
 
 [sequence]
 1,c,2,c,3,c,4,c,5
 
 
 [1]
-Pe calvar eu am aflat o salvare
-Fii lăudat o Doamne! (2x)
+Pe Calvar eu am aflat o salvare,
+Fii lăudat, o, Doamne! (2x)
 
 [chorus]
-/: JERTFA TA ISUSE :/
-E BALSAM VINDECĂTORS
-PALĂ-MĂ, O DOAMNE, ÎN AL TĂU IZVOR :/
+/: Jertfa Ta, Isuse, :/
+E balsam vindecător!
+Spală-mă, o, Doamne, în al Tău izvor. :/
 
 [2]
 Prea mulți ani am petrecut din viața mea
-Sub păcat; povară grea! (2x)
+Sub păcat, povară grea! (2x)
 
 [3]
-Singur rătăceam pierdut pe drumul greu
+Singur rătăceam pierdut pe drumul greu,
 Străin fără Dumnezeu! (2x)
 
 [4]
-Dar Isus văzându-mi starea mea de plâns
+Dar Isus văzându-mi starea mea de plâns,
 La pieptul Lui m-a adus!
 
 [5]
-Și-acum iată, de Isus sunt mântuit
+Și-acum, iată, de Isus sunt mântuit,
 Pe-a Lui braț, sunt fericit! (2x)
