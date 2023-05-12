@@ -1,30 +1,29 @@
 [title]
-Noapte de Crăciun preasfințită ești
+Noapte de Crăciun, preasfințită ești
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Noapte de Crăciun preasfințită ești
-Cu lumini strălucitoare bucurii vestești
-Că în Betleem s-a născut Isus
-Fiul Tatălui din ceruri,
-Pruncul Sfânt.
+Noapte de Crăciun preasfințită ești,
+Cu lumini strălucitoare bucurii vestești.
+Că în Betleem s-a născut Isus,
+Fiul Tatălui din ceruri, Pruncul Sfânt.
 
 [chorus]
-S-A NĂSCUT ISUS PACE NE-A ADUS
-BUCURIA ESTE MARE-N CER ȘI PE PĂMÂNT
-ÎNGERII ÎN COR SLĂVESC PE CREATOR
-PACE PE PĂMÂNT ȘI BUNĂ-NVOIRE.
+S-a născut Isus, pace ne-a adus,
+Bucuria este mare-n cer și pe pământ,
+Îngerii în cor slăvesc pe Creator,
+Pace pe pământ și bună-nvoire.
 
 [2]
-Blând și drăgălaș, dulce copilaș
+Blând și drăgălaș, dulce copilaș,
 Ne-a adus din cer lumină, dragoste și har.
-Dumnezeu a dat ce-a avut mai scump
-Fiul Lui răscumpărare pe pământ.
+Dumnezeu a dat ce-a avut mai scump,
+Fiul Lui, răscumpărare pe pământ.
 
 [3]
 Magii îl vestesc pe Fiul ceresc,
-Pastorii îngenunchează, cu drag îl privesc.
+Păstorii îngenunchează, cu drag Îl privesc.
 Cinstește-L și tu în viața ta
 Cu credință și iubire, nu uita!
