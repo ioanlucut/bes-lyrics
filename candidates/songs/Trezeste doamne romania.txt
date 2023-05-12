@@ -1,5 +1,5 @@
 [title]
-Trezeste doamne romania
+Trezește, Doamne, România
 
 [sequence]
 1,c,2,c
@@ -13,14 +13,14 @@ Cum se-mplinește în curând
 Ce ne-am rugat cu toții-atâta timp.
 
 [chorus]
-TREZEȘTE DOAMNE ROMÂNIA,
-APRINDE FOC ÎN PRAGUL ZILEI DE APOI,
-TREZEȘTE DOAMNE ROMÂNIA
-ȘI-NCEPE CU NOI.
+Trezește, Doamne, România,
+Aprinde foc în pragul zilei de apoi,
+Trezește, Doamne, România,
+Și-ncepe cu noi.
 
 [2]
-Este nevoie de o schimbare
-Azi încă nu e prea târziu
+Este nevoie de o schimbare,
+Azi încă nu e prea târziu,
 Biruitori la luptă să pornim.
 Să transformăm credința-n fapte
 Și să trăim ce predicăm,
