@@ -1,5 +1,5 @@
 [title]
-Noi te asteptam
+Noi te așteptăm
 
 [sequence]
 1,c,2,c,3,c
@@ -12,20 +12,19 @@ Să Te-ntâlnim aici.
 Noi Te așteptăm...
 
 [chorus]
-NOI TE AȘTEPTĂM,
-ÎNĂLȚĂM MÂINILE SPRE CER.
-DA,
-EȘTI TU..TE-ADORĂM,
-CÂNTÂND ALELUIA.
+Noi Te așteptăm,
+Înălțăm mâinile spre cer.
+Da, ești Tu, Te-adorăm,
+Cântând Aleluia!
 
 [2]
 Tu ești Domn al creației,
-Ne cunoști inima
+Ne cunoști inima,
 Tu ești Salvatorul nostru,
 Ne-ai iubit de la-nceput.
 
 [3]
 Știu, ești promisiunea noastră
-Și credincios Tu ești
+Și credincios Tu ești,
 Ne dorim a Ta prezență,
 Tot ce vreau, ești Tu.
