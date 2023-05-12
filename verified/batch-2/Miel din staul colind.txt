@@ -15,7 +15,7 @@ Prințul păcii s-a născut, Emanuel!
 [chorus]
 /: Miel din staul, Miel divin,
 Ai venit smerit, umil,
-Pentru mine, un păcătos, Te-ai născut. :\
+Pentru mine, un păcătos, Te-ai născut. :/
 
 [2]
 O mulțime de cadouri

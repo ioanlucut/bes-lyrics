@@ -1,5 +1,5 @@
 [title]
-Departe-ntr-o iesle, în paie ascuns version ii
+Departe-ntr-o iesle, în paie ascuns ii
 
 [sequence]
 1,2,3

@@ -19,7 +19,7 @@ Salvator
 Estimaret
 Salvator.
 Cel Vesnicaidatsalvarelumii
-Si-aiinviatdintremorti,
+Și-aiinviatdintremorti,
 Inviatdintremorti.
 X2
 
@@ -39,7 +39,7 @@ Salvator
 Estimaret
 Salvator.
 Cel vesnicaidatsalvarelumii
-Si-aiinviatdintremorti,
+Și-aiinviatdintremorti,
 Inviatdintremorti.
 X2
 
@@ -59,6 +59,6 @@ Salvator
 Estimaret
 Salvator.
 Cel vesnicaidatsalvarelumii
-Si-aiinviatdintremorti,
+Și-aiinviatdintremorti,
 Inviatdintremorti.
 X2
