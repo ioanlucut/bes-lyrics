@@ -1,35 +1,23 @@
 [title]
-Mai mult ca orice Dumnezeu iubeste omul
+Mai mult ca orice Dumnezeu iubește omul
 
 [sequence]
 1,c,2,c
 
 [1]
-POATE ESTI IUBIT
-POATE ESTI PARASIT
-POATE AI DE TOATE
-POATE ESTI LIPSIT
-ORICINE-AI FI
-ORICARE-AR FI STAREA TA
-DUMNEZEU DIN CERURI
-IUBESTE FIINTA TA
+Poate ești iubit, poate ești părăsit,
+Poate ai de toate, poate ești lipsit.
+Oricine-ai fi, oricare-ar fi starea ta,
+Dumnezeu din ceruri iubește ființa ta.
 
 [chorus]
-MAI MULT CA ORICE
-DUMNEZEU IUBESTE OMUL
-PENTRU NIMENI N-A MURIT ISUS
-DOAR PENTRU OM.
-ÎN DRAGOSTEA LUI
-TE-A CUPRINS CHIAR ȘI PE TINE
-MAI MULT CA ORICE
-DUMNEZEU TE IUBESTE.
+Mai mult ca orice, Dumnezeu iubește omul.
+Pentru nimeni n-a murit Isus, doar pentru om.
+În dragostea Lui te-a cuprins chiar și pe tine,
+Mai mult ca orice, Dumnezeu Te iubește.
 
 [2]
-CALEA CĂTRE CER
-CĂTRE DUMNEZEU
-E ISUS HRISTOS
-UNICUL FIU AL SĂU
-ASTĂZI POTI SĂ ALEGI
-SĂ TE POCĂIESTI
-SĂ PRIMESTI PRIN HAR
-MÂNTUIREA-N DAR
+Calea către cer, către Dumnezeu 
+E Isus Hristos, unicul Fiu al Său.
+Astăzi poți să alegi să te pocăiești,
+Să primești prin har mântuirea-n dar.
