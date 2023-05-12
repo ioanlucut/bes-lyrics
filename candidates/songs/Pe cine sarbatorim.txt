@@ -1,5 +1,5 @@
 [title]
-Pe cine sărbătorim
+Pe cine sărbătorim?
 
 [sequence]
 1,c,2,c
@@ -11,7 +11,7 @@ Sosit-a Crăciunul, daruri bogate, bradul în casă e-mpodobit,
 E zâmbet în inimi și voie bună, astăzi e Crăciun.
 
 [chorus]
-Să ne-ntrebăm care e adevărul? Pe cine sărbătorim?
+Să ne-ntrebăm: care e adevărul? Pe cine sărbătorim?
 De ce stele și îngeri cântă? Haideți, să ne amintim.
 S-a născut Pruncul Sfânt, aici jos pe pământ.
 Mântuirea prin El să primim,
@@ -19,7 +19,7 @@ Să nu uităm adevărul și pe cine sărbătorim.
 
 [2]
 Când eram doar un copil, la geamul înghețat
-Așteptam Crăciunul pentru darul lui bogat.
+Așteptam Crăciunul, pentru darul lui bogat.
 Pe fulgi de zăpadă, cântăm colindul
 Pe care nu-l înțelegeam, 
 Părea doar poveste, azi însă-mi este atât de adevărat.
