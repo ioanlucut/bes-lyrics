@@ -1,5 +1,5 @@
 [title]
-Noi te așteptăm
+Noi Te așteptăm
 
 [sequence]
 1,c,2,c,3,c
