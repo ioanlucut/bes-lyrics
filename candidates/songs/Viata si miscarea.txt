@@ -1,19 +1,19 @@
 [title]
-Viața și miscarea
+Viața și mișcarea
 
 [sequence]
-c,1,c,1
+1,2
 
-[chorus]
-VIAȚA ȘI MIȘCAREA ȘI SUFLAREA
-SUNT ÎN TINE DOAMNE,
-NUMAI TU EȘTI SURSA VIEȚII MELE,
-FIECARE PAS TU MI-L CONDUCI,
-MI-L CONDUCI PE CALE,
-VIAȚA-NTREAGĂ ESTE-N MÂNA TA. (2x)
+[1]
+Viața și mișcarea, și suflarea
+Sunt în Tine, Doamne!
+Numai Tu ești sursa vieții mele,
+Fiecare pas Tu mi-l conduci,
+Mi-l conduci pe cale,
+Viața-ntreagă este-n mâna Ta. (2x)
 
 [1]
 Harul și-ndurarea Ta,
 Când mă uit zăresc privirea Ta.
-Uimit de-a Ta iubire
+Uimit de-a Ta iubire,
 Te doresc Isus numai pe Tin’.
