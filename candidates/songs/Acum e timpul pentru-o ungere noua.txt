@@ -1,12 +1,12 @@
 [title]
-Acum e timpul pentr-o ungere nouă
+Acum e timpul pentru-o ungere nouă
 
 [sequence]
 1,c,2,c,e,c
 
 [1]
-Acum e timpul pentr-o ungere nouă,
-Acum e timpul pentr-o revărsare proaspătă.
+Acum e timpul pentru-o ungere nouă,
+Acum e timpul pentru-o revărsare proaspătă.
 Ca fii și fiice ale
 Regelui, noi azi ne ridicăm
 Declarăm:

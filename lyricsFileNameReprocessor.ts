@@ -17,12 +17,16 @@ const reprocessFileNames = async (dir: string) => {
       const existingContent = fs.readFileSync(filePath).toString();
 
       const fileName = path.basename(filePath);
-      console.log(`Processing "${fileName}"..`);
       const newFileName = normalizeFileName(fileName);
+      console.log(
+        `Processing "${fileName}": ${
+          fileName !== newFileName ? newFileName : 'No change.'
+        }.`,
+      );
 
       fs.unlinkSync(filePath);
       fs.writeFileSync(
-        path.join(path.dirname(filePath), newFileName),
+        path.join(__dirname, path.dirname(filePath), newFileName),
         existingContent,
       );
     });

@@ -2067,7 +2067,6 @@ pe-obraz
 pe-orice
 pe-oricine
 pedepsește
-pentr-o
 pentru-a
 pentru-a-Ți
 pentru-acest
@@ -3243,4 +3242,4 @@ zărim
 ’nălța
 ’nălțare
 ’nălțat
-’ș-întinde
+’ș-întinde

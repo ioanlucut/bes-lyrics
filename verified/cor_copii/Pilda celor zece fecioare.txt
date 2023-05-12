@@ -6,7 +6,7 @@ Pilda celor zece fecioare
 
 [1]
 Zece fecioare cu nerăbdare
-S-au pregătit pentr-o nuntă mare.
+S-au pregătit pentru-o nuntă mare.
 Își luară candele s-aștepte mirele
 Și să îl poată întâmpina.
 
@@ -20,7 +20,7 @@ Oare-s gata, gata, gata sau afară vor rămâne?
 În miez de noapte un strigăt tare
 S-a auzit și-a trezit pe fecioare.
 Este momentul de-ntâmpinare,
-Iată-l pe mire, n’ainte-i ieșiți!
+Iată-l pe mire, nainte-i ieșiți!
 
 [4]
 Cinci dintre ele ulei în vase

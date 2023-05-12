@@ -1,12 +1,12 @@
 [title]
-Aș vrea să te cunosc tot mai mult, Isus
+Aș vrea să Te cunosc tot mai mult, Isus
 
 [sequence]
 1,c,1,c,1
 
 [1]
 /: Aș vrea să Te cunosc tot mai mult, Isus! :/
-Ochii îmi îndrept către Tine și aștept 
+Ochii îmi îndrept către Tine și aștept
 Doar voia Ta s-o fac.
 
 [chorus]
