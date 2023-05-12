@@ -1,21 +1,19 @@
 [title]
-Numai tu ești domn
+Numai Tu ești Domn
 
 [sequence]
 1,2
 
 [1]
 /: Numai Tu ești Domn,
-Numai Tu ești Sfânt :/
-Te voi lăuda,
-Te voi înălța.
-/: CĂCI TU EȘTI DOMN,
-TU EȘTI DOMN :/
+Numai Tu ești Sfânt, :/
+Te voi lăuda, Te voi înălța.
+/: Căci Tu ești Domn,
+Tu ești Domn! :/
 
 [2]
 /: Ție mă închin,
-Ție vreau să-Ți cânt :/
-Te voi lăuda,
-Te voi înălța.
-/: CĂCI TU EȘTI DOMN,
-TU EȘTI DOMN :/
+Ție vreau să-Ți cânt, :/
+Te voi lăuda, Te voi înălța.
+/: Căci Tu ești Domn,
+Tu ești Domn! :/
