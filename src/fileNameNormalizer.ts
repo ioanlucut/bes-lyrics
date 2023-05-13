@@ -36,39 +36,27 @@ export const normalizeFileName = (fileName: string) =>
           .replaceAll('ţ', 't')
           .replaceAll('ş', 'ș')
           .replaceAll('isus', 'Isus')
+          .replaceAll('betleem', 'Betleem')
+          .replaceAll('isuse', 'Isuse')
+          .replaceAll(' the messengers', '')
           .replaceAll('domnul', 'Domnul')
           .replaceAll('duhul', 'Duhul')
           .replaceAll('mesia', 'Mesia')
           .replaceAll('dmnuLui', 'Domnului')
-          .replaceAll('hristos', 'Hristos')
           .replaceAll(' lui', ' Lui')
           .replaceAll(' sau', ' Sau')
-          .replaceAll(' ti ', '-Ti ')
           .replaceAll('tie', 'Tie')
-          .replaceAll('n ai ', 'n-ai ')
-          .replaceAll('N am ', 'N-am ')
-          .replaceAll('s a ', 's-a ')
-          .replaceAll('s ai ', 's-ai ')
           .replaceAll('golgota', 'Golgota')
           .replaceAll('tata', 'Tata')
           .replaceAll('tine', 'Tine')
           .replaceAll('amin', 'Amin')
           .replaceAll('doamne', 'Doamne')
-          .replaceAll('isuse', 'Isuse')
-          .replaceAll('isus', 'Isus')
           .replaceAll('dumnezeu', 'Dumnezeu')
-          .replaceAll('version ii', '{ii}')
-          .replaceAll('version i', '{i}')
-          .replaceAll(' el', ' El')
           .replaceAll('’', EMPTY_STRING)
           .replaceAll('”', EMPTY_STRING)
           .replaceAll('„', EMPTY_STRING)
           .replaceAll('–', '-')
-          .replaceAll(/[0-9]*/gi, EMPTY_STRING)
-          .replaceAll(
-            /([a-zîâșăț])([A-ZÎÂȘĂȚ])/gu,
-            (_, m1, m2) => `${m1.toLowerCase()}${m2.toLowerCase()}`,
-          ),
+          .replaceAll(/[0-9]*/gi, EMPTY_STRING),
       ),
     )
     .toString();
