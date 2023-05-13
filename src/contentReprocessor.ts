@@ -95,17 +95,21 @@ ${uniqueSections
   return _.trim(
     _.flatten(
       [
-        [SongSection.TITLE, sectionsMap[SongSection.TITLE]].join(NEW_LINE),
+        [SongSection.TITLE, sectionsMap[SongSection.TITLE]].join(
+          `${CARRIAGE_RETURN}${NEW_LINE}`,
+        ),
         [SongSection.SEQUENCE, sectionsMap[SongSection.SEQUENCE]].join(
-          NEW_LINE,
+          `${CARRIAGE_RETURN}${NEW_LINE}`,
         ),
         firstVerse,
         sectionsMap[SongSection.CHORUS]
-          ? [SongSection.CHORUS, sectionsMap[SongSection.CHORUS]].join(NEW_LINE)
+          ? [SongSection.CHORUS, sectionsMap[SongSection.CHORUS]].join(
+              `${CARRIAGE_RETURN}${NEW_LINE}`,
+            )
           : null,
         ...restVerses,
       ].filter(Boolean),
-    ).join(`${NEW_LINE}${CARRIAGE_RETURN}`),
+    ).join(`${CARRIAGE_RETURN}${NEW_LINE}${CARRIAGE_RETURN}${NEW_LINE}`),
   );
 };
 
@@ -125,7 +129,8 @@ export const processContent = (content: string, fileName?: string) => {
     .replaceAll(SongSection.VERSE_8, EMPTY_STRING)
     .replaceAll(SongSection.VERSE_9, EMPTY_STRING)
     .replaceAll(SongSection.VERSE_10, EMPTY_STRING)
-    .split(/\n\n/gim)
+    // Replace to .split(/\n\n/gim) in test
+    .split(/\r\n\r\n/gim)
     .filter(Boolean)
     .map(_.trim);
 

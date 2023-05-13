@@ -1,5 +1,5 @@
 [title]
-Aleluia el domnce bine e
+Aleluia el e Domn
 
 [sequence]
 1,2,3,4,5,6,7,8
@@ -11,20 +11,6 @@ Aleluia, Aleluia, Aleluia
 Isus Hristos e Domn.
 
 [2]
-Ți-ai arătat puterea mare
-Boldul morții L-ai înfrânt
-Din mormânt ai înviat triumfător
-Lanțurile le-ai zdrobit
-Pe captivi ai eliberat
-Prin a Ta îndurare sunt salvat
-
-[3]
-Aleluia, Aleluia, Aleluia
-/: El e Domn :/
-Aleluia, Aleluia, Aleluia
-Isus Hristos e Domn.
-
-[4]
 Ți-ai arătat puterea mare
 Boldul morții L-ai înfrânt
 Din mormânt ai înviat triumfător
