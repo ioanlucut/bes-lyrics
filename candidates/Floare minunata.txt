@@ -2,7 +2,7 @@
 Floare minunata
 
 [sequence]
-1,2,3,4,5,6,7,8,9,10
+1,2,3,4,5,6
 
 [1]
 Astazi Doamne eu te rog sa intri
@@ -22,39 +22,19 @@ E Acela ce-a-nviat din moarte
 E Isus Hristos din Golgota
 
 [4]
-/ : Cântă, floare minunată
-Cântă ne-ncetat
-Astăzi Grădinarul te-a udat :/
-
-[5]
 Daca vrei sa fi si tu o floare
 In gradina Domnului Hristos
 Sa pastrezi cu grija a ta mireasma
 Sa te ude Domnul cu folos
 
-[6]
-/ : Cântă, floare minunată
-Cântă ne-ncetat
-Astăzi Grădinarul te-a udat :/
-
-[7]
+[5]
 In gradina Domnului sunt multe
 Flori ce au mirosul minunat
 Ele iau lumina de la Domnul
 Și nectarul lor este bogat
 
-[8]
-/ : Cântă, floare minunată
-Cântă ne-ncetat
-Astăzi Grădinarul te-a udat :/
-
-[9]
+[6]
 Trandafiri, garoafe, crizanteme
 Panselute albe argintii
 In gradina Domnului sunt multe
 Dau mireasma numai cele vii
-
-[10]
-/ : Cântă, floare minunată
-Cântă ne-ncetat
-Astăzi Grădinarul te-a udat :/

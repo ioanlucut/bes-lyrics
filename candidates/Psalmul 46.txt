@@ -2,7 +2,7 @@
 Psalmul 46
 
 [sequence]
-1,2,3,4
+1,2,3
 
 [1]
 Priviți lucrarea
@@ -42,17 +42,3 @@ Tu știi ce arde-n inimă
 Cu noi
 Te lupți s-alungi ce-i rău
 Și să ne cucerești.
-
-[4]
-Tu ești
-Adăpostul,
-Sprijin și
-Nădejde,
-În furtuni sau flăcări,
-Veșnic
-Ajutor.
-Tatăl nostru,
-Ne conduci în luptă,
-Ești de partea noastră,
-Al oștirii
-Domn.

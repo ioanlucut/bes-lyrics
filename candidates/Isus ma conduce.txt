@@ -2,7 +2,7 @@
 Isus ma conduce
 
 [sequence]
-1,2,3,4,5,6
+1,2,3,4
 
 [1]
 Isus ma conduce spre cer zi de zi
@@ -23,19 +23,7 @@ Dar langa-al meu Domn am la toate raspuns
 Al vietii izvor e Isus
 
 [4]
-Din râul vieții El apă-mi va da 
-Când sus în mărire voi sta
-Aici pe pamant voi canta bucuros
-Al vietii izvor e Christos
-
-[5]
 Să curgă din inima mea ne-ncetat
 Izvoare din apa ce Domnul mi-a dat
 Și totuși sa cunoască secretul ascuns
 Al vieții izvor e Isus
-
-[6]
-Din râul vieții El apă-mi va da 
-Când sus în mărire voi sta
-Aici pe pamant voi canta bucuros
-Al vietii izvor e Christos

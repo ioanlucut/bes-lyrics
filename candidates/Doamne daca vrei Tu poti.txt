@@ -2,7 +2,7 @@
 Doamne daca vrei tu poti (decean)
 
 [sequence]
-1,2
+1,2,3
 
 [1]
 Eu stau și aștept Să se întâmple ceva Ceva ce să schimbe azi viața mea Te văd cum cobori muntele Și toți vor să se atingă De haina Ta.

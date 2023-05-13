@@ -2,7 +2,7 @@
 Când mă gândesc la Golgota
 
 [sequence]
-1,2,3,4,5,6
+1,2,3,4
 
 [1]
 Când mă gândesc la Golgota,
@@ -13,7 +13,6 @@ Acel venit din veșnicii
 Pentru păcat pe lemn muri,
 Pus în mormânt și sigilat,
 El, singurul fără păcat.
-
 
 [2]
 Cântați-I azi, El în veci e Domn!
@@ -28,19 +27,7 @@ A șters pe veci osânda grea,
 Iar eu trăiesc prin moartea Sa.
 
 [4]
-Cântați-I azi, El în veci e Domn!
-E Împărat, Hristos pe tron!
-O veșnicie Îi vom cânta,
-Isus în veci e Domn!
-
-[5]
 Când se va-ntoarce Domnul meu
 Va-ndepărta tot ce e rău!
 Atunci și eu voi învia
 Și-o veșnicie voi cânta!
-
-[6]
-Cântați-I azi, El în veci e Domn!
-E Împărat, Hristos pe tron!
-O veșnicie Îi vom cânta,
-Isus în veci e Domn!

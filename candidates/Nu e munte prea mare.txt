@@ -2,7 +2,7 @@
 Nu e munte prea mare
 
 [sequence]
-1,2,3,4,5
+1,2,3,4
 
 [1]
 Ești marele ’
@@ -24,12 +24,6 @@ Mi-ai dat puterea Ta
 Să fiu mai mult decât eu pot visa
 
 [4]
-/: Nu e munte prea mare
-Nu-i pustiu prea uscat
-Nu e vale prea adâncă
-Nu-i nimic mult prea greu, nimic mult prea greu: /
-
-[5]
 /: Și orice s-ar întâmpla Tu rămâi de partea mea
 Nu-i nimic prea greu
 Pentru Domnul meu Universul de-ar cădea Tu rescrii istoria

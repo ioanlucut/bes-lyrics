@@ -2,7 +2,7 @@
 Fiti voiosi totdeauna
 
 [sequence]
-1,2,3,4,5,6
+1,2,3,4
 
 [1]
 O, ce valuri, de-ndurare Fiți voioși totdeauna!
@@ -28,21 +28,7 @@ Mai ceresc e răbdând a zâmbi. 2
 
 [4]
 O, ce valuri, de-ndurare Fiți voioși totdeauna!
-Nu-i furtună să clatine Stânca
-Cea pe care suntem noi zidiți.
-Fiți voioși, noi suntem totdeauna
-De Isus, de Isus ocrotiți! R
-
-[5]
-O, ce valuri, de-ndurare Fiți voioși totdeauna!
 Fiți voioși că-n curând, pe vecie,
 Veți uita c-ați mai plâns pe pământ!
 Fiți voioși că-n curând cerul slavei
 Răsuna-va și de-al vostru cânt. 3
-
-[6]
-O, ce valuri, de-ndurare Fiți voioși totdeauna!
-Nu-i furtună să clatine Stânca
-Cea pe care suntem noi zidiți.
-Fiți voioși, noi suntem totdeauna
-De Isus, de Isus ocrotiți! R

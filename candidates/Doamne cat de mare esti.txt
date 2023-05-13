@@ -2,11 +2,7 @@
 Doamne cat de mare esti
 
 [sequence]
-c,1,c,2,c,3,c,4,c
-
-[chorus]
-/: DOAMNE CÂT DE MARE EȘTI,
-DOAMNE CÂT DE MARE EȘTI, DOAMNE CÂT DE MARE EȘTIȘI CÂT NE IUBEȘTI :/
+1,2,3,4,5
 
 [1]
 Munți înalți, semeți,
@@ -14,34 +10,22 @@ Cu brazi plini de nămeți,
 Vântu-i adia
 Și parcă-așa spunea:
 
-[chorus]
-/: DOAMNE CÂT DE MARE EȘTI,
-DOAMNE CÂT DE MARE EȘTI, DOAMNE CÂT DE MARE EȘTIȘI CÂT NE IUBEȘTI :/
-
 [2]
-Oceanu-n depărtări
-Își poartă cântu-n zări, Iar pescăruși-n zbor
-Îngână-ncetișor:
-
-[chorus]
 /: DOAMNE CÂT DE MARE EȘTI,
 DOAMNE CÂT DE MARE EȘTI, DOAMNE CÂT DE MARE EȘTIȘI CÂT NE IUBEȘTI :/
 
 [3]
+Oceanu-n depărtări
+Își poartă cântu-n zări, Iar pescăruși-n zbor
+Îngână-ncetișor:
+
+[4]
 În adâncă noapte
 Stele pline de șoapte,
 În feeria lor
 Licăreau ușor:
 
-[chorus]
-/: DOAMNE CÂT DE MARE EȘTI,
-DOAMNE CÂT DE MARE EȘTI, DOAMNE CÂT DE MARE EȘTIȘI CÂT NE IUBEȘTI :/
-
-[4]
+[5]
 Eu m-alătur lor
 Și-ntr-un mare cor
 Îți cântăm cu dor, Cât de mare ești.
-
-[chorus]
-/: DOAMNE CÂT DE MARE EȘTI,
-DOAMNE CÂT DE MARE EȘTI, DOAMNE CÂT DE MARE EȘTIȘI CÂT NE IUBEȘTI :/

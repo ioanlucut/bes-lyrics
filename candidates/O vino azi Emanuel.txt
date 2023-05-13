@@ -2,7 +2,7 @@
 O vino azi emanuel
 
 [sequence]
-1,2,3,4,5,6
+1,2,3,4
 
 [1]
 O, vino azi, Emanuel,
@@ -23,19 +23,7 @@ Ca bezna noptii s-o străpungi
 Și jalea noastra s-o alungi.
 
 [4]
-Săltati, cântati, in Israel
-Va reveni Emanuel!
-Săltati, cântati, in Israel
-Va reveni Emanuel!
-
-[5]
 Tu esti al neamurilor dor,
 O, vino, scump Mantuitor!
 Alungă ură si război
 Și lasă-Ti pacea peste noi!
-
-[6]
-Săltati, cântati, in Israel
-Va reveni Emanuel!
-Săltati, cântati, in Israel
-Va reveni Emanuel!

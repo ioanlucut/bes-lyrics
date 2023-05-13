@@ -2,7 +2,7 @@
 Iata eu stau la usa si bat
 
 [sequence]
-1,2,3,4
+1,2,3
 
 [1]
 Vino-acum asa cum esti in prezenta Celui Sfant
@@ -26,10 +26,3 @@ inima sa-ti pot sfinti
 Vreau sa fii copilul Meu, langa Mine-n cer sa fii
 Nu mai este mult, sa stii, 
 cand pe nori voi reveni.
-
-[4]
-Iata Eu stau la usa si bat chiar acum
-Daca usa-mi vei deschide, voi intra si voi cina
-Iti voi da in dar iertare sfanta si mult har
-Vei gusta din fericirea si odihna mea prin har
-Hai, deschide-ti inima! Vreau viata-n dar sa-ti dau

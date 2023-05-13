@@ -2,7 +2,7 @@
 N am cuvinte ca sa ti spun
 
 [sequence]
-1,2,3,4,5,6
+1,2,3,4
 
 [1]
 N-am cuvinte ca să-Ți spun,
@@ -31,29 +31,9 @@ Sunt pe brațul Tău, Isus,
 M-ai luat pe veci în mâna Ta.
 
 [4]
-Tu ești Cel mai minunat,
-Ești al lumii Împărat,
-De aceea eu Îți cânt,
-Slavă ne-ncetat!
-Dai lumină zorilor,
-Strălucire stelelor,
-Nimeni-n lume nu-i ca Tine,
-Puternic, Dumnezeu.
-
-[5]
 Isuse ’naintea Ta,
 Îmi aduc azi inima,
 Fă de-acum ce vrei, Doamne cu ea!
 Ești izbăvitorul meu,
 Unic Fiu de Dumnezeu,
 Ție am să-Ți cânt, Doamne mereu.
-
-[6]
-Tu ești Cel mai minunat,
-Ești al lumii Împărat,
-De aceea eu Îți cânt,
-Slavă ne-ncetat!
-Dai lumină zorilor,
-Strălucire stelelor,
-Nimeni-n lume nu-i ca Tine,
-Puternic, Dumnezeu.

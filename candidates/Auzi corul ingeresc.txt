@@ -2,17 +2,7 @@
 Auzi corul ingeresc
 
 [sequence]
-c,1,2,c,3,c
-
-[chorus]
-/: Bine ai venit, Isus!
-Bine ai venit, Isus!
-Lasă Gloria Ta
-Strălucind și azi
-Rege minunat!
-Aleluia.
-Aleluia. :/
-
+1,2,3,4
 
 [1]
 Auzi corul îngeresc,
@@ -25,6 +15,15 @@ Pe-al Său Fiu El L-a trimis.
 Cântând Tatălui ceresc! :/
 
 [2]
+/: Bine ai venit, Isus!
+Bine ai venit, Isus!
+Lasă Gloria Ta
+Strălucind și azi
+Rege minunat!
+Aleluia.
+Aleluia. :/
+
+[3]
 Cel din cerul minunat,
 Preamărit și înălțat,
 Pe Pământ jos a venit
@@ -34,17 +33,7 @@ Chiar și moarte-a suferit,
 /: De păcate ne-a spălat,
 Viață nouă El ne-a dat! :/
 
-[chorus]
-/: Bine ai venit, Isus!
-Bine ai venit, Isus!
-Lasă Gloria Ta
-Strălucind și azi
-Rege minunat!
-Aleluia.
-Aleluia. :/
-
-
-[3]
+[4]
 Toate de la El primim,
 Când prin rugăciuni venim.
 Să-I deschidem inima,
@@ -52,12 +41,3 @@ Ca să intre El în ea.
 Și ne va conduce sus,
 Unde-s fericiri nespus,
 /: Toți în cor Îi vom cânta:Mare este slava Sa! :/
-
-[chorus]
-/: Bine ai venit, Isus!
-Bine ai venit, Isus!
-Lasă Gloria Ta
-Strălucind și azi
-Rege minunat!
-Aleluia.
-Aleluia. :/

@@ -2,7 +2,7 @@
 Oare cum va fi rapirea
 
 [sequence]
-1,2,3,4,5,6
+1,2,3,4
 
 [1]
 Oare cum va fi răpirea?
@@ -18,7 +18,7 @@ Fiind de Duhul transformați!
 Răpirea! Răpirea!
 Aceasta în curând se va-ntâmpla!
 Tu frate, tu soră!
-De vei fi gata Domnul te va lua! 
+De vei fi gata Domnul te va lua!
 
 [3]
 O ce mare întristare,
@@ -31,12 +31,6 @@ Cei ce vor rămâne-n vale,
 Cu amar se vor căi!
 
 [4]
-Răpirea! Răpirea!
-Aceasta în curând se va-ntâmpla!
-Tu frate, tu soră!
-De vei fi gata Domnul te va lua! 
-
-[5]
 Cei ce au respins pe Domnul,
 Și-au glumit mereu râzând,
 Ei vor pierde veșnicia,
@@ -45,9 +39,3 @@ Este timpul de trezire,
 Fraților și pentru noi,
 Să pornim cu zel ’nainte,
 Și vom fi biruitori!
-
-[6]
-Răpirea! Răpirea!
-Aceasta în curând se va-ntâmpla!
-Tu frate, tu soră!
-De vei fi gata Domnul te va lua! 

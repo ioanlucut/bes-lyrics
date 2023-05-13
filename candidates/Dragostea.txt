@@ -2,39 +2,29 @@
 Dragostea
 
 [sequence]
-1,2,3,c,4,5,c
+1,2,3,4
 
 [1]
 Dragostea1 Corinteni 13
 
 [2]
-Chiar dacă-aș vorbi în limbi omenești
-Și-ale îngerilor versuri de-aș cânta
-Chiar dacă un dar din ceruri aș primi
-Și credința-n mine toată de-aș avea
-
-[3]
-Celor săraci averea să le-o’împart
-Chiar trupul de le-aș da să fie ars 
-
-[chorus]
 /: Și n-aș avea Dragoste...nu aș fi nimic!
 Fără Dragoste, cu daruri, taine vom pieri.
 Fără Dragoste, frumosul cer n-ar mai sclipi
 Doar prin Dragoste vom dăinui :/
+
+[3]
+Chiar dacă-aș vorbi în limbi omenești
+Și-ale îngerilor versuri de-aș cânta
+Chiar dacă un dar din ceruri aș primi
+Și credința-n mine toată de-aș avea
+Celor săraci averea să le-o’împart
+Chiar trupul de le-aș da să fie ars
 
 [4]
 Cine poate fi-îndelung, răbdător
 Plin de bunătate, umil, iertător
 Prin Dragoste poți tu oricând să fi smerit
 Și să te jertfești cum Isus s-a jertfit
-
-[5]
 Celor săraci averea să le-o’împart
-Chiar trupul de le-aș da să fie ars 
-
-[chorus]
-/: Și n-aș avea Dragoste...nu aș fi nimic!
-Fără Dragoste, cu daruri, taine vom pieri.
-Fără Dragoste, frumosul cer n-ar mai sclipi
-Doar prin Dragoste vom dăinui :/
+Chiar trupul de le-aș da să fie ars

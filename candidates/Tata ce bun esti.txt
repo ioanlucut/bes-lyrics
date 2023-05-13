@@ -2,7 +2,7 @@
 Tata ce bun esti
 
 [sequence]
-1,2,3,4,5,6
+1,2,3,4
 
 [1]
 Tata ce bun esti
@@ -29,19 +29,7 @@ Pe captivi eliberezi
 Doamne, vreau sa îți cant!
 
 [4]
-Credincios Tu esti
-Credincios ai fost, esti si vei fi
-Credincios Tu esti
-Tot ce tu promiti e da si Amin.
-
-[5]
 Da, eu cred
 In cuvantul tau
 Stau ancorat
 In tot ce ai promis
-
-[6]
-Credincios Tu esti
-Credincios ai fost, esti si vei fi
-Credincios Tu esti
-Tot ce tu promiti e da si Amin.

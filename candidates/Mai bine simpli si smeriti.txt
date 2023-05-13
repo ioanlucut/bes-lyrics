@@ -2,7 +2,7 @@
 Mai bine simpli si smeriti
 
 [sequence]
-1,2,3,4,5,6
+1,2,3,4
 
 [1]
 Nu doresc să fiu
@@ -21,15 +21,7 @@ Când mi-e greu Doar Tu mă întărești/: Te voi lauda Cu al meu cânt
 M-ai iubit Și înca mă iubești. :/
 
 [4]
-/: Mai bine Simpli și smeriți
-Și de Dumnezeu Iubiți. :/
-
-[5]
 Niciodată Doamne Nu m-ai părăsit
 Ai fost lângă mine În încercări
 M-ai iertat și atunci Când ți-am greșit
 Am văzut a Tale îndurări.
-
-[6]
-/: Mai bine Simpli și smeriți
-Și de Dumnezeu Iubiți. :/

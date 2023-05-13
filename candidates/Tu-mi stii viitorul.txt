@@ -2,43 +2,31 @@
 Tu mi stii viitorul
 
 [sequence]
-c,1
+1,2,3,4,5
 
-[chorus]
+[1]
 /: Când eram doar un plod fără chip,
 Ochii tăi ma vedeau!
 În cartea ta de mult erau scrise
 Zilele ce m-așteptau! :/
 
-[chorus]
+[2]
 /: Tu-mi știi viitorul și ești lângă mine,
 De ce să mă îngrijorez?
 Mi-ai promis de voi sta lângă Tine
 Nicicând n-ai să mă părăsești. :/
 
-[chorus]
+[3]
 /: De-aș încerca să m-ascund te Tine
 Nu voi reuși, oriunde m-aș duce,
 Chiar la marginea mării
 Mâna Ta mă va călăuzi! :/
 
-[chorus]
-/: Tu-mi știi viitorul și ești lângă mine,
-De ce să mă îngrijorez?
-Mi-ai promis de voi sta lângă Tine
-Nicicând n-ai să mă părăsești. :/
-
-[chorus]
+[4]
 /: Tu mă cunoști întru-totul, Doamne
 Când stau jos sau mă ridic.
 Îmi cunoști toate căile mele,
 Nu pot ascunde nimic :/
 
-[chorus]
-/: Tu-mi știi viitorul și ești lângă mine,
-De ce să mă îngrijorez?
-Mi-ai promis de voi sta lângă Tine
-Nicicând n-ai să mă părăsești. :/
-
-[1]
+[5]
 Nicicând n-ai să mă părăsești!

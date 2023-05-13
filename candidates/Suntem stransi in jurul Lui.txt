@@ -2,19 +2,19 @@
 Suntem stransi in jurul lui
 
 [sequence]
-c
+1,2,3
 
-[chorus]
+[1]
 /: Suntem strânși în jurul Lui
 În casa Domnului să ne rugăm :/
 Duios, Domnului Isus Cristos.
 
-[chorus]
+[2]
 /: Toți o inimă și-un gând
 În casa Domnului să ne rugăm :/
 Duios, Domnului Isus Cristos.
 
-[chorus]
+[3]
 /: Mâini curate ridicăm
 În casa Domnului să ne rugăm :/
 Duios, Domnului Isus Cristos.

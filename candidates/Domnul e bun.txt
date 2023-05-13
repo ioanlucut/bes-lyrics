@@ -2,7 +2,7 @@
 Domnul e bun
 
 [sequence]
-1,2,3,4,5
+1,2
 
 [1]
 DOMNUL E BUN, NOI CÂNTĂM CU TOȚII
@@ -15,21 +15,3 @@ Când mă gândesc la iubirea Sa
 În inima mea este mare bucurie,
 Căci pentru mine El s-a jertfit
 Și atât de mult m-a iubit.
-
-[3]
-DOMNUL E BUN, NOI CÂNTĂM CU TOȚII
-DOMNUL E BUN, SĂRBĂTORIM
-DOMNUL E BUN, FĂRĂ ÎNDOIALĂ
-DOMNUL E BUN, ÎN VECI DE VECI.
-
-[4]
-Când mă gândesc la iubirea Sa
-În inima mea este mare bucurie,
-Căci pentru mine El s-a jertfit
-Și atât de mult m-a iubit.
-
-[5]
-DOMNUL E BUN, NOI CÂNTĂM CU TOȚII
-DOMNUL E BUN, SĂRBĂTORIM
-DOMNUL E BUN, FĂRĂ ÎNDOIALĂ
-DOMNUL E BUN, ÎN VECI DE VECI.

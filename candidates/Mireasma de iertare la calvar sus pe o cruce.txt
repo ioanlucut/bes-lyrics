@@ -2,7 +2,7 @@
 Mireasma de iertare la calvar sus pe o cruce
 
 [sequence]
-1,2,3,4
+1,2,3
 
 [1]
 M-ai născut, În lacrimi și durere
@@ -22,10 +22,3 @@ M-ai cuprins Cu mâinile-amândouă
 Ce purtau semnele Că mă iubești
 Și-am simțit o mireasmă De iertare
 Ce mi-a umplut inima Cu Dumnezeu.
-
-[4]
-La Calvar, sus pe o cruce,
-Iubirea a fost jertfă și altar
-Împăcând toată omenirea
-Cu Creatorul Său, Cu Tatăl Dumnezeu
-Pentru veșnicie!

@@ -2,50 +2,44 @@
 Eu si casa mea
 
 [sequence]
-1,2,3,4,5,6
+1,2,3,4,5
 
 [1]
-Sunt zile de sfârșit 
+Sunt zile de sfârșit
 când totul e-n schimbare,
-E-aproape de-asfințit 
+E-aproape de-asfințit
 și Domnul va apare.
 ’
-Nainte e-ntuneric 
+Nainte e-ntuneric
 și semne de-ntrebare,
-Dar vom rămâne veșnic 
+Dar vom rămâne veșnic
 cu Cel ce-i al nost’ Soare.
 
 [2]
-DAR EU ȘI CASA MEA 
+DAR EU ȘI CASA MEA
 VOM SLUJI DOMNULUI
 MEREU ÎI VOM CÂNTA
-PENTRU TOT HARUL LUI! ((2x))
+PENTRU TOT HARUL LUI! (2x)
 
 [3]
-Cu toți cu mic și mare 
+Cu toți cu mic și mare
 vom apăra dreptatea,
-În rugă fiecare 
+În rugă fiecare
 și-om moșteni dreptatea.
-Nu vom ceda în luptă 
+Nu vom ceda în luptă
 chiar de e greu pe cale,
-Avea-vom biruință 
+Avea-vom biruință
 prin Cel ce-i veșnic tare.
 
 [4]
-DAR EU ȘI CASA MEA 
-VOM SLUJI DOMNULUI
-MEREU ÎI VOM CÂNTA
-PENTRU TOT HARUL LUI! ((2x))
-
-[5]
 VOM SLUJI DOMNULUI
 VOM SLUJI DOMNULUI
 VOM SLUJI DOMNULUI
 PENTRU TOT HARUL LUI
 
-[6]
-DAR EU ȘI CASA MEA 
+[5]
+DAR EU ȘI CASA MEA
 VOM SLUJI DOMNULUI
 MEREU ÎI VOM CÂNTA
-PENTRU TOT HARUL LUI 
+PENTRU TOT HARUL LUI
 VOM SLUJI DOMNULUI.
