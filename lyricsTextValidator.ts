@@ -15,7 +15,7 @@ dotenv.config();
 
 (async () => {
   const arrayOfFileNameAndContent = (
-    await recursive(process.env.CANDIDATES_DIR)
+    await recursive(process.env.VERIFIED_DIR)
   )
     .filter((filePath) => filePath.endsWith(TXT_EXTENSION))
     .map((filePath) => {
