@@ -1,4 +1,5 @@
-Title: o vino, o vino
+[title]
+o vino, o vino
 
 Privind azi spre cerul albastru,
 Spre bolta senină mă întreb
@@ -47,5 +48,3 @@ Să-ţi spună a lor durere,
 Sînt cei ce n-au pe nimeni
 Iar inima li-e plină
 De multă trudă şi întristare. : /
-
-

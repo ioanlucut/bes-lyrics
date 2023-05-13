@@ -1,4 +1,5 @@
-Title: Chemati prin cantari bucuria - Cu Domnul sa mergem nainte - Traiasca Domnul.pro
+[title]
+Chemati prin cantari bucuria - Cu Domnul sa mergem nainte - Traiasca Domnul
 
 Chemaţi prin cântări bucuria,
 Chemaţi-o cu voi când lucraţi,
@@ -108,4 +109,3 @@ Trăiască Domnul!
 El este Stânca mea în care mă încred.
 Trăiască Domnul!
 El este Stânca mea și cetățuia mea
-

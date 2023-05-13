@@ -1,4 +1,5 @@
-Title: Prin cruce m-ai rascumparat .pro
+[title]
+Prin cruce m-ai rascumparat
 
 Fiu de om, fiu de Dumnezeu, Tu m-ai iubit!
 Miel preasfânt, prin ale Tale răni m-ai mântuit.
@@ -48,4 +49,3 @@ Prin sângele ce s-a vărsat
 
 Tu ai spălat și vina mea!
 Sunt mântuit prin crucea Ta!
-

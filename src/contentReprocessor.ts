@@ -1,4 +1,5 @@
 import _ from 'lodash';
+import chalk from 'chalk';
 import { CARRIAGE_RETURN, EMPTY_STRING, NEW_LINE } from '../constants';
 import { SequenceChar, SongSection } from './types';
 
@@ -25,11 +26,13 @@ const normalizeContentByAddingBasicStructure = (
 
   if (uniqueSectionsSize > MAX_EQUAL_SECTIONS_ALLOWED) {
     throw new Error(`
-Cannot identify the chorus for "${fileName}". Multiple tuples are equal.
+Cannot identify the chorus for "${chalk.green(
+      fileName,
+    )}". Multiple tuples are equal.
 The group sections we have are: 
 
 ${uniqueSections
-  .map((section) => `>>${section}<<`)
+  .map((section) => `>>${chalk.cyan(section)}<<`)
   .join(`${NEW_LINE}${NEW_LINE}`)}`);
   }
   const sectionsMap = {} as Record<SongSection, string>;
@@ -39,11 +42,14 @@ ${uniqueSections
   const multipleChorusSections = _.uniq(_.first(uniqueSections) as string[]);
   if (hasChorus && _.size(multipleChorusSections) > 1) {
     throw new Error(
-      `Multiple chorus versions exists!: 
+      chalk.red(`Multiple chorus versions exists!: 
       ${multipleChorusSections.join(`<<${NEW_LINE}>>`)}
 
       The group sections we have are:
-      ${Object.keys(groupedSections).sort().join(`<<${NEW_LINE}>>`)}`,
+      ${Object.keys(groupedSections)
+        .sort()
+        .map((section) => `>>${chalk.cyan(section)}<<`)
+        .join(`<<${NEW_LINE}>>`)}`),
     );
   }
   const maybeChorus = hasChorus ? _.first(multipleChorusSections) : null;

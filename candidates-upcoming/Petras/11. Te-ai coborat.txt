@@ -1,4 +1,5 @@
-Title: 11. Te-ai coborat.pro
+[title]
+11. Te-ai coborat
 
 Te-ai coborât
 În ieslea cea săracă
@@ -41,4 +42,3 @@ Tu, Fiul Celui Preaînalt
 
 Ai Coborât în noaptea sfântă
 Tu, Fiul Celui Preaînalt
-

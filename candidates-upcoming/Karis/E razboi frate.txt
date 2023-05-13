@@ -1,4 +1,5 @@
-Title: E razboi frate.pro
+[title]
+E razboi frate
 
 E razboi frate nai uitat
 Sa iesim afara din pacat
@@ -10,7 +11,7 @@ Noi triunfam in lupta acum
 Condusi de duhul Domnului
 
 Dusmanul striga dar sa nai frica
-Spre cer privirea ti-o ridica 
+Spre cer privirea ti-o ridica
 
 Cuvantul ca sabie nie dat,
 Slava lumi noi am lepadat.
@@ -22,7 +23,7 @@ Noi triunfam in lupta acum
 Condusi de duhul Domnului
 
 Dusmanul striga dar sa nai frica
-Spre cer privirea ti-o ridica 
+Spre cer privirea ti-o ridica
 
 Sa faci binele nu obosi,
 Vesnica rasplata vei primi.
@@ -34,7 +35,7 @@ Noi triunfam in lupta acum
 Condusi de duhul Domnului
 
 Dusmanul striga dar sa nai frica
-Spre cer privirea ti-o ridica 
+Spre cer privirea ti-o ridica
 
 Te intareste si nu te intrista,
 Cand suferinta se abate asupra ta
@@ -46,5 +47,4 @@ Noi triunfam in lupta acum
 Condusi de duhul Domnului
 
 Dusmanul striga dar sa nai frica
-Spre cer privirea ti-o ridica 
-
+Spre cer privirea ti-o ridica

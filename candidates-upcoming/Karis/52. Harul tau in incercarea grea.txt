@@ -1,4 +1,5 @@
-Title: 52. Harul tau in incercarea grea.pro
+[title]
+52. Harul tau in incercarea grea
 
 Da-ne putere Doamne azi Îti cerem,
 Puterea Duhului Tau Sfânt
@@ -71,4 +72,3 @@ Ne daruieste victoria
 
 O, Doamne prin puterea Ta ,învingem noi,
 În orice lupte si nevoi
-

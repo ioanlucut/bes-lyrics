@@ -1,4 +1,5 @@
-Title: Domnul pacii sa fie cu tine.pro
+[title]
+Domnul pacii sa fie cu tine
 
 Domnul pacii sa fie cu tine
 In furtuna sau zile senine!
@@ -19,4 +20,3 @@ Domnul slavei ti-ajute intruna
 Cand mugeste sau tace furtuna,
 /: Iar in raiul divin sa-ti dea slava din plin!
 Slava Lui, slava Lui ti-e cununa! :/
-

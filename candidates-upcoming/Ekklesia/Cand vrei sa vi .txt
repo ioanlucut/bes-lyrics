@@ -1,4 +1,5 @@
-Title: Cand vrei sa vi .pro
+[title]
+Cand vrei sa vi
 
 Doar Isus, ne-a iubit
 Ne-a iubit cu-adevărat
@@ -26,4 +27,3 @@ Pe Isus, l-am primit
 
 A intrat în viața mea
 Azi trăiesc prin Gloria Sa
-

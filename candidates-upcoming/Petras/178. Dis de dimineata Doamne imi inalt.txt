@@ -1,4 +1,5 @@
-Title: 178. Dis de dimineata Doamne imi inalt.pro
+[title]
+178. Dis de dimineata Doamne imi inalt
 
 Dis de dimineaţă Doamne îmi înalţ
 Inima spre Tine şi aştept
@@ -16,7 +17,7 @@ Du-mă pe calea veşniciei
 Umple-mă cu Duhul tău
 
 În fiecare clipă Doamne mă conduci
-Mâna Ta aproape o simt
+Mâna Ta ape o simt
 
 Sufletul meu Doamne ştiu că e păzit
 Sfântul Tau Cuvânt îmi este scut
@@ -44,4 +45,3 @@ Vezi dacă sunt pe drumul Tău
 
 Du-mă pe calea veşniciei
 Umple-mă cu Duhul tău
-

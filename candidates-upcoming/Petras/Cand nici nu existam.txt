@@ -1,8 +1,8 @@
-Title: Cand nici nu existam.pro
+[title]
+Cand nici nu existam
 
 Te laud, Te laud, Te laud
 căci ai iubit sufletul meu
 
-Ești Sfânt, ești Drept, ești Bun, ești Mare 
-Te laud căci numai Tu ești Dumnezeu 
-
+Ești Sfânt, ești Drept, ești Bun, ești Mare
+Te laud căci numai Tu ești Dumnezeu

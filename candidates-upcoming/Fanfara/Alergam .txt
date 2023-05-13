@@ -1,4 +1,5 @@
-Title: Alergam .pro
+[title]
+Alergam
 
 Alergăm pe un drum fără de țintă,
 Navigăm spre un port fără de țărmuri.
@@ -25,4 +26,3 @@ Doar în iubirea Ta eu îmi găsesc un sens,
 Și înțeleg Isus că toate sunt prin Tin'. :/
 
  Și înțeleg Isus că toate sunt prin Tin'.
-

@@ -1,4 +1,5 @@
-Title: Bine ai venit isus.pro
+[title]
+Bine ai venit isus
 
 bine ai venit isus
 bine ai venit isus
@@ -6,7 +7,7 @@ bine ai venit isus
 lasa gloria ta
 stralucind si azi rege minunat
 
-aleluia 
+aleluia
 aleluia
 
 toate de la el primim
@@ -20,4 +21,3 @@ unde-s fericiri nespus
 
 /: toti in cor ii vom canta
 mare este slava sa :/
-

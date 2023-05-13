@@ -1,4 +1,5 @@
-Title: Un nou inceput.pro
+[title]
+Un nou inceput
 
 A mai trecut un an din viata mea
 Isuse, Doamne, doar prin mila Ta
@@ -47,4 +48,3 @@ Si ceas dupa ceas voi fi biruitor
 
 Caci nu mai e mult, pe nori vei aparea
 Un nou inceput eu vreau in viata mea
-

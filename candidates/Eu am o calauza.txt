@@ -5,7 +5,7 @@ Eu am o calauza
 1,2,3
 
 [1]
-1. Pe Tin’ te laud Isuse
+Pe Tin’ te laud Isuse
 Pentru bunătatea Ta
 Pentru-a Ta milă nespusă
 Ce-o arăți în viața mea
@@ -15,7 +15,6 @@ R: Eu am o călăuză pe acest pământ străin
 Și-n orice-mprejurare Tu îmi ești al meu sprijin
 
 [3]
-2.
 Ajută-ne o Doamne
 Să îți facem voia Ta
 Toți ca să putem ajunge

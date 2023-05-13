@@ -1,4 +1,5 @@
-Title: Au intrat in betleem.pro
+[title]
+Au intrat in betleem
 
 Au intrat în Betleem, Către asfinţit
 Doi drumeţi străini şi cer Loc de găzduit
@@ -17,4 +18,3 @@ Caută iar Isus la noi Loc de găzduit
 
 /: Nicio vatră, niciun foc, frigul i-a pătruns
 “N-avem, n-avem, n-avem loc, singurul răspuns :/
-

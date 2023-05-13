@@ -5,7 +5,7 @@ Chiar daca vantul a vrut in zbor
 1,2,3,4,5,6
 
 [1]
-1. Chiar dacă vântul
+Chiar dacă vântul
 A vrut în zbor
 În turme să ne-mpartă
 Dar tot o cale, tot un dor
@@ -18,7 +18,7 @@ Dar tot un staul Sus în Rai
 Și un Păstor au toate.
 
 [3]
-2. Chiar dacă n-am Păstrat măcar
+Chiar dacă n-am Păstrat măcar
 Un singur dulce nume
 Dar tot o jertfă,
 Tot un har
@@ -31,7 +31,7 @@ Dar toți vom Fi odată-n Cer,
 Și-acolo vom fi una.
 
 [5]
-3. Acum când pașii
+Acum când pașii
 Lui Isus
 Se-aud tot mai aproape
 Să ne unim în dragoste,

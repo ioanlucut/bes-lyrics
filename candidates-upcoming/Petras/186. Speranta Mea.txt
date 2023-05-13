@@ -1,4 +1,5 @@
-Title: 186. Speranta Mea.pro
+[title]
+186. Speranta Mea
 
 Vreau să cânt celui ce e sfânt
 în cer și pe pământ
@@ -59,4 +60,3 @@ adăpostul meu, tatăl meu
 încercarea niciodată nu-i prea mare
 
 când mă-ncred deplin în el
-

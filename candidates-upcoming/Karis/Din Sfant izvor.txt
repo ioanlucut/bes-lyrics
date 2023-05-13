@@ -1,4 +1,5 @@
-Title: Din Sfant izvor.pro
+[title]
+Din Sfant izvor
 
 Din sfânt izvor pe Golgota
 Mult sânge s-a vărsa
@@ -35,4 +36,3 @@ A curs izvorul minunat
 
 Isuse-n sângele-Ți vărsat
 Iertarea-n veci mi-ai dat!
-

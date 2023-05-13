@@ -1,6 +1,7 @@
-Title: In aceasta ora .pro
+[title]
+In aceasta ora
 
-În această oră, Doamne, Te rugăm 
+În această oră, Doamne, Te rugăm
 Să iei parte Tu cu noi
 
 Să ne-asculţi cum Îţi cântăm
@@ -9,13 +10,13 @@ Să ne-asculţi cum Îţi cântăm
 SĂ NU NE LAŞI PĂRĂSIŢI NICICÂND
 CĂCI NOI TRĂIM DOAR CU TINE-N GÂND,
 
-DOAR PE TINE TE AVEM 
+DOAR PE TINE TE AVEM
 ŞI-N TINE NE-NCREDEM
 
 TU EŞTI AL NOSTRU SALVATOR,
-MINUNAT ŞI BUN PĂSTOR 
+MINUNAT ŞI BUN PĂSTOR
 
-DOAR CU TINE VREM SĂ FIM 
+DOAR CU TINE VREM SĂ FIM
 ÎN CERURI, SUS
 
 Când ispite mari apar în viaţa mea,
@@ -23,21 +24,21 @@ N-am pe nimeni-n ajutor
 
 Doar în Tine pururea,
 Să mă-ncred aş vrea
-Veşnice Ocrotitor 
+Veşnice Ocrotitor
 
 SĂ NU NE LAŞI PĂRĂSIŢI NICICÂND
 CĂCI NOI TRĂIM DOAR CU TINE-N GÂND
 
-DOAR PE TINE TE AVEM 
+DOAR PE TINE TE AVEM
 ŞI-N TINE NE-NCREDEM
 
 TU EŞTI AL NOSTRU SALVATOR,
 MINUNAT ŞI BUN PĂSTOR,
 
-DOAR CU TINE VREM SĂ FIM 
+DOAR CU TINE VREM SĂ FIM
 ÎN CERURI, SUS
 
-Tu să ne ţii în mâna Ta, 
+Tu să ne ţii în mâna Ta,
 Să nu ne laşi nicicând
 
 Ca să mergem înapoi.
@@ -49,13 +50,13 @@ Tu să ne conduci,
 SĂ NU NE LAŞI PĂRĂSIŢI NICICÂND
 CĂCI NOI TRĂIM DOAR CU TINE-N GÂND
 
-DOAR PE TINE TE AVEM 
+DOAR PE TINE TE AVEM
 ŞI-N TINE NE-NCREDEM
 
 TU EŞTI AL NOSTRU SALVATOR,
 MINUNAT ŞI BUN PĂSTOR
 
-DOAR CU TINE VREM SĂ FIM 
+DOAR CU TINE VREM SĂ FIM
 ÎN CERURI, SUS
 
 Iar acuma Doamne, noi îţi mulţumim
@@ -67,12 +68,11 @@ Vrem în veci să Te slăvim
 SĂ NU NE LAŞI PĂRĂSIŢI NICICÂND
 CĂCI NOI TRĂIM DOAR CU TINE-N GÂND
 
-DOAR PE TINE TE AVEM 
+DOAR PE TINE TE AVEM
 ŞI-N TINE NE-NCREDEM
 
 TU EŞTI AL NOSTRU SALVATOR,
 MINUNAT ŞI BUN PĂSTOR
 
-DOAR CU TINE VREM SĂ FIM 
+DOAR CU TINE VREM SĂ FIM
 ÎN CERURI, SUS
-

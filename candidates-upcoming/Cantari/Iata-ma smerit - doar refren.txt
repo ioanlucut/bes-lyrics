@@ -1,4 +1,5 @@
-Title: Iata-ma smerit - doar refren.pro
+[title]
+Iata-ma smerit - doar refren
 
 Domnul meu, Domnul meu
 Al tău har m-a găsit cum eram
@@ -7,4 +8,3 @@ N-am nimic, dar sunt viu în mâna Ta.
 Domnul meu, Domnul meu
 Iubirea Ta pe veci m-a schimbat
 În prezenţa Ta, al meu Împărat, Glorie
-

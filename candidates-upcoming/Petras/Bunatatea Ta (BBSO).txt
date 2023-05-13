@@ -1,4 +1,5 @@
-Title: Bunatatea Ta (BBSO).pro
+[title]
+Bunatatea Ta (BBSO)
 
 eu te iubesc mila ta e nesfârșită
 Zi de zi tu mă ții în mâna ta
@@ -57,4 +58,3 @@ doamne ai fost mereu atât de bun
 
 și cât eu voi avea suflare
 vreau să cânt bunătatea ta
-

@@ -1,4 +1,5 @@
-Title: 114. Venim in a ta prezenta.pro
+[title]
+114. Venim in a ta prezenta
 
 Venim în a Ta prezenţă
 Cu toţi să îţi cântăm
@@ -9,7 +10,7 @@ Un cântec de mărire
 Ne-ai dat o viaţă nouă
 Să putem să te iubim
 
-Venim cu mulţumire, 
+Venim cu mulţumire,
 O, Doamne Te iubim
 
 TU EŞTI TATĂL CREAŢIUNII,
@@ -33,7 +34,7 @@ Un cântec de mărire
 Ne-ai dat o viaţă nouă
 Să putem să te iubim
 
-Venim cu mulţumire, 
+Venim cu mulţumire,
 O, Doamne Te iubim
 
 TU EŞTI TATĂL CREAŢIUNII,
@@ -47,4 +48,3 @@ DE LA MOARTE ŞI NE-AI DAT
 
 LIBERTATEA SĂ VENIM
 CA-N PREZENŢA TA SĂ FIM
-

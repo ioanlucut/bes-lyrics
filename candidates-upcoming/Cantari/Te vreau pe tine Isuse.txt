@@ -1,4 +1,5 @@
-Title: Te vreau pe tine Isuse
+[title]
+Te vreau pe tine Isuse
 
  Te vreau pe Tine isuse
 Mângaie-mi viata pribeaga
@@ -53,5 +54,3 @@ Chiar dacă valul lovește
 Să mă atragă în larg
 Mâna Ta ma ocrotește
 Conduce al meu catarg
-
-

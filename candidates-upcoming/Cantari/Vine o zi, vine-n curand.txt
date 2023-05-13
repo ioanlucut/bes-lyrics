@@ -1,4 +1,5 @@
-Title: Vine o zi, vine-n curand
+[title]
+Vine o zi, vine-n curand
 
 Vine o zi, vine-n curând,
 Când Cel ce-a înviat va reveni.
@@ -29,5 +30,3 @@ Nu neglija, c-atunci vei regreta!
 Va răsări din nou pentru cei sfinți
 Și-atunci acolo-n slava Sa cerească
 Îi va lua pe cei ce-s pregătiți. : /
-
-

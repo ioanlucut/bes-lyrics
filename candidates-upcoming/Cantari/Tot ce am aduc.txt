@@ -1,4 +1,5 @@
-Title: Tot ce am aduc.pro
+[title]
+Tot ce am aduc
 
 Tot ce am aduc
 Acum 'naintea Ta.
@@ -41,4 +42,3 @@ Autentic pentru Hristos
 Viata nouă Tu mi-ai dat.
 Și îți cânt, Domnul meu cel viu
 Numai Tu m-ai eliberat
-

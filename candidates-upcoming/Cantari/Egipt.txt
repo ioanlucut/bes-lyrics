@@ -1,4 +1,5 @@
-Title: Egipt.pro
+[title]
+Egipt
 
 Nu voi uita minunea ce-ai făcut-o
 În viața mea, robia Tu ai smuls-o.
@@ -43,14 +44,14 @@ O, Yahve!
 
 
 Tu mi-ai înfrânt Egiptul, de mână m-ai luat,
-M-ai scos în libertate spre locul cel promis.
+M-ai scos în libertate spre locul celmis.
 
 
 
 
 
 
-Nu voi uita vreodată, mereu voi proclama:
+Nu voi uita vreodată, mereu voiclama:
 Moartea Tu ai biruit-o, m-a salvat dragostea Ta!
 
 
@@ -74,6 +75,3 @@ Marea Tu ai despărțit
 
 Prin adânc m-ai ocrotit.
 Aleluia, Aleluia!
-
-
-

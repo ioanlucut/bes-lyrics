@@ -1,4 +1,5 @@
-Title: Al meu Domn .pro
+[title]
+Al meu Domn
 
  Al meu Domn, Părinte,
 Nimeni ca Tine nu e,
@@ -50,4 +51,3 @@ Prin Tine exist
 
 Prin Tine exist
 Şi prin harul Tău Sfânt eu sunt.
-

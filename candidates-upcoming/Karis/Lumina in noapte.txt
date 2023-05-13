@@ -1,4 +1,5 @@
-Title: Lumina in noapte.pro
+[title]
+Lumina in noapte
 
 EL A-NVIAT, SI PIATRA-I LA O PARTE
 A-NVIAT, IN IERUSALIM
@@ -21,7 +22,7 @@ A-NVIAT ACEL PE CARE-L IUBIM
 E viu, Ca odinioara
 Eu stiu, N-a venit numai sa moara
 
-In numele lui ne smerim 
+In numele lui ne smerim
 In numele lui biruim
 In numele lui mai e har la calvar
 Vindecare si viata in dar
@@ -35,4 +36,3 @@ EL A-NVIAT, SI PIATRA-I LA O PARTE
 A-NVIAT, IN IERUSALIM
 EL A-NVIAT, LUMINA IN NOAPTE
 A-NVIAT ACEL PE CARE-L IUBIM
-

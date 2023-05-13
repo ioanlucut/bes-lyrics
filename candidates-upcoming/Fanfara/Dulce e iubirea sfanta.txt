@@ -1,4 +1,5 @@
-Title: Dulce e iubirea sfanta.pro
+[title]
+Dulce e iubirea sfanta
 
 Dulce e iubirea sfântă
 Şi cuvântul ei sublim
@@ -11,4 +12,3 @@ POT SĂ SE SFĂRÂME MUNŢII
 
 DE NIMICA NU NE TEMEM
 CU AL NOSTRU SALVATOR
-

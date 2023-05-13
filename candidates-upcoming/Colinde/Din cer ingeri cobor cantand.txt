@@ -1,4 +1,5 @@
-Title: Din cer ingeri cobor cantand.pro
+[title]
+Din cer ingeri cobor cantand
 
 Din cer îngeri cobor cântând
 La păstori veste aducând
@@ -35,4 +36,3 @@ Dă-I inima că-i de ajuns
 
 La iesle am aflat pe al Păcii Împărat
 /: Şi lui ne închinăm, slavă în veci să-i dăm :/
-

@@ -1,4 +1,5 @@
-Title: Sangele lui Isus.pro
+[title]
+Sangele lui Isus
 
 /: Sângele lui Isus, :/ x3
 Mă spală de păcat
@@ -8,4 +9,3 @@ Mă vindecă acum
 
 /: Dragostea lui Isus, :/ x3
 Mă curăţă acum
-

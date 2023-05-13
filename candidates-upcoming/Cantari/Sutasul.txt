@@ -1,4 +1,5 @@
-Title: Sutasul.pro
+[title]
+Sutasul
 
 Te priveam cu atâta dispreț
 Te-am lovit fără nici un regret
@@ -24,4 +25,3 @@ Sunt sutașul ce Te-a chinuit
 Poți, Te rog, să mă ierti, am greșit
 îți ofer cu sfială sufletul meu
 Cred că ești Fiul lui Dumnezeu
-

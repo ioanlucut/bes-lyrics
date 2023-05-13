@@ -1,4 +1,5 @@
-Title: Isus esti sfant si minunat.pro
+[title]
+Isus esti sfant si minunat
 
 Prin Isus am primit siguranţa
 Că de păcat eu sunt iertat
@@ -29,4 +30,3 @@ Pe-a Sa cale să păşesc.
 Isus eşti binecuvântat
 Isus doresc să te slăvesc
 Şi numele să-Ţi preamăresc. :/
-
