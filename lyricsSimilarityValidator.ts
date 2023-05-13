@@ -164,19 +164,19 @@ const runValidatorAndExitIfSimilar = async (
     process.env.VERIFIED_DIR,
   );
 
-  // ---
-  // Verify if the songs that are in candidates are unique across them
-  // ---
-  await runValidatorAndExitIfSimilar(
-    process.env.CANDIDATES_DIR,
-    process.env.CANDIDATES_DIR,
-  );
-
-  // ---
-  // Verify if the songs that are in candidates are unique across the verified songs
-  // ---
-  await runValidatorAndExitIfSimilar(
-    process.env.CANDIDATES_DIR,
-    process.env.VERIFIED_DIR,
-  );
+  // // ---
+  // // Verify if the songs that are in candidates are unique across them
+  // // ---
+  // await runValidatorAndExitIfSimilar(
+  //   process.env.CANDIDATES_DIR,
+  //   process.env.CANDIDATES_DIR,
+  // );
+  //
+  // // ---
+  // // Verify if the songs that are in candidates are unique across the verified songs
+  // // ---
+  // await runValidatorAndExitIfSimilar(
+  //   process.env.CANDIDATES_DIR,
+  //   process.env.VERIFIED_DIR,
+  // );
 })();

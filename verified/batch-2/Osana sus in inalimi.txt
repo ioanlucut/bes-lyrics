@@ -6,7 +6,7 @@ c,1,t,2
 
 [chorus]
 /: Osana, osana,
-Osana, sus în înălțimi! :/ (2x)
+Osana, sus în înălțimi! :/
 
 [1]
 Doamne, noi Te slăvim
@@ -16,7 +16,7 @@ Osana, sus în înălțimi!
 
 [chorus 2]
 Glorie, glorie,
-Glorie, Rege-al regilor! (2x)
+Glorie, Rege-al regilor!
 
 [2]
 Tu ești Rege și Domn,

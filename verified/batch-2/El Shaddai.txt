@@ -1,5 +1,5 @@
 [title]
-El Shadai
+El Shaddai
 
 [sequence]
 1,c,2,c,3,c,4,c,5,c
@@ -11,7 +11,7 @@ M-am aruncat cu fața la pământ
 Vreau să văd iarăși, Doamne, slava Ta.
 
 [chorus]
-El Shadai, El Shadai!
+El Shaddai, El Shaddai!
 Dumnezeu Atotputernic ești,
 Duh Sfânt coborât din cer,
 În mine trăiești!
@@ -38,4 +38,4 @@ Ești Cel ce-mi umple viața pe deplin.
 Astăzi sunt liber și știu cine sunt,
 Astăzi sunt liber să râd și să cânt.
 Am victoria, Tu m-ai salvat,
-Bucuria Ta și viață mi-ai dat. (2x)
+Bucuria Ta și viață mi-ai dat.

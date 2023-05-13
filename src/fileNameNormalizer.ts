@@ -57,12 +57,18 @@ export const normalizeFileName = (fileName: string) =>
           .replaceAll('isuse', 'Isuse')
           .replaceAll('isus', 'Isus')
           .replaceAll('dumnezeu', 'Dumnezeu')
+          .replaceAll('version ii', '{ii}')
+          .replaceAll('version i', '{i}')
           .replaceAll(' el', ' El')
           .replaceAll('’', EMPTY_STRING)
           .replaceAll('”', EMPTY_STRING)
           .replaceAll('„', EMPTY_STRING)
           .replaceAll('–', '-')
-          .replaceAll(/[0-9]*/gi, EMPTY_STRING),
+          .replaceAll(/[0-9]*/gi, EMPTY_STRING)
+          .replaceAll(
+            /([a-zîâșăț])([A-ZÎÂȘĂȚ])/gu,
+            (_, m1, m2) => `${m1.toLowerCase()}${m2.toLowerCase()}`,
+          ),
       ),
     )
     .toString();

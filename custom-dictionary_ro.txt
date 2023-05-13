@@ -1,5 +1,4 @@
 
-
 -
 1
 2
@@ -713,6 +712,7 @@ Sfințească-se
 Sfințește
 Sfârșind
 Shadai
+Shaddai
 Shalom
 Sihar
 Sinai
@@ -3235,6 +3235,7 @@ veni-n
 veni-va
 venim-naintea
 venit-ai
+version
 veseli
 veselim
 veste-aducem
@@ -3364,6 +3365,8 @@ zăbovește
 zăbovești
 zăbovi
 zărim
+{ii}
+{i}
 Împinși
 Împlini-vei
 Împlinind

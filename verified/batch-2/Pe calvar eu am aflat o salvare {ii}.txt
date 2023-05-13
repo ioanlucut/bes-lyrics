@@ -1,13 +1,12 @@
 [title]
-Pe Calvar eu am aflat o salvare
+Pe Calvar eu am aflat o salvare version {ii}
 
 [sequence]
 1,c,2,c,3,c,4,c,5
 
-
 [1]
 Pe Calvar eu am aflat o salvare,
-Fii lăudat, o, Doamne! (2x)
+Fii lăudat, o, Doamne!
 
 [chorus]
 /: Jertfa Ta, Isuse, :/
@@ -16,11 +15,11 @@ Spală-mă, o, Doamne, în al Tău izvor. :/
 
 [2]
 Prea mulți ani am petrecut din viața mea
-Sub păcat, povară grea! (2x)
+Sub păcat, povară grea!
 
 [3]
 Singur rătăceam pierdut pe drumul greu,
-Străin fără Dumnezeu! (2x)
+Străin fără Dumnezeu!
 
 [4]
 Dar Isus văzându-mi starea mea de plâns,
@@ -28,4 +27,4 @@ La pieptul Lui m-a adus!
 
 [5]
 Și-acum, iată, de Isus sunt mântuit,
-Pe-a Lui braț, sunt fericit! (2x)
+Pe-a Lui braț, sunt fericit!

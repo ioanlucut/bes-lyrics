@@ -17,7 +17,7 @@ Azi în Betleem un Prunc vi s-a născut!”
 
 [chorus]
 /: Slavă lui Dumnezeu, slavă în locurile-nalte,
-Pace, pace între oameni plăcuți Domnului. :/ (2x)
+Pace, pace între oameni plăcuți Domnului. :/
 (cântați-I)
 
 [3]
@@ -32,7 +32,7 @@ Pentru mine a venit să fiu pe veci salvat.
 
 [chorus]
 /: Slavă lui Dumnezeu, slavă în locurile-nalte,
-Pace, pace între oameni plăcuți Domnului. :/ (2x)
+Pace, pace între oameni plăcuți Domnului. :/
 
 [bridge]
 /: Săltați, cântați, în Israel
@@ -40,6 +40,6 @@ Va reveni Emanuel! :/
 
 [chorus]
 /: Slavă lui Dumnezeu, slavă în locurile-nalte,
-Pace, pace între oameni plăcuți Domnului. :/ (2x)
+Pace, pace între oameni plăcuți Domnului. :/
 Între oameni plăcuți Domnului
 Slavă lui Dumnezeu!
