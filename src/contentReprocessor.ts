@@ -24,11 +24,13 @@ const normalizeContentByAddingBasicStructure = (
   const MAX_EQUAL_SECTIONS_ALLOWED = 1;
 
   if (uniqueSectionsSize > MAX_EQUAL_SECTIONS_ALLOWED) {
-    throw new Error(`Cannot identify the chorus for "${fileName}". Multiple tuples are equal.
-    
-    The group sections we have are: 
-      ${Object.keys(uniqueSections).sort().join(`<<${NEW_LINE}>>`)}\`,
-    `);
+    throw new Error(`
+Cannot identify the chorus for "${fileName}". Multiple tuples are equal.
+The group sections we have are: 
+
+${uniqueSections
+  .map((section) => `>>${section}<<`)
+  .join(`${NEW_LINE}${NEW_LINE}`)}`);
   }
   const sectionsMap = {} as Record<SongSection, string>;
   const verses = [] as string[];
@@ -39,8 +41,8 @@ const normalizeContentByAddingBasicStructure = (
     throw new Error(
       `Multiple chorus versions exists!: 
       ${multipleChorusSections.join(`<<${NEW_LINE}>>`)}
-      
-      The group sections we have are: 
+
+      The group sections we have are:
       ${Object.keys(groupedSections).sort().join(`<<${NEW_LINE}>>`)}`,
     );
   }
@@ -49,14 +51,14 @@ const normalizeContentByAddingBasicStructure = (
   let verseIndex = 1;
   flatSections.forEach((section, index) => {
     if (index === 0) {
+      // Take title
       sectionsMap[SongSection.TITLE] = section;
 
       return;
     }
 
     if (index === 1) {
-      sectionsMap[SongSection.SEQUENCE] = section;
-
+      // Ignore sequence
       return;
     }
 
@@ -64,12 +66,13 @@ const normalizeContentByAddingBasicStructure = (
       Boolean(sectionsMap[SongSection.CHORUS]) &&
       multipleChorusSections.includes(section)
     ) {
-      // console.warn(`Dropping a duplicate version found: >>${section}<<`);
+      console.warn(`Dropping a duplicate version found: >>${section}<<`);
 
       return;
     }
 
     if (_.isEqual(section, maybeChorus)) {
+      // Add a chorus
       sectionsMap[SongSection.CHORUS] = maybeChorus!;
 
       return;
@@ -79,14 +82,16 @@ const normalizeContentByAddingBasicStructure = (
   });
 
   sectionsMap[SongSection.SEQUENCE] = sectionsMap[SongSection.CHORUS]
-    ? _.range(1, _.size(verses))
+    ? _.range(1, _.size(verses) + 1)
         .map((verse) => [verse, SequenceChar[SongSection.CHORUS]])
         .flat()
         .join(SEQUENCE_SEPARATOR)
-    : _.range(1, _.size(verses)).join(SEQUENCE_SEPARATOR);
+    : _.range(1, _.size(verses) + 1).join(SEQUENCE_SEPARATOR);
 
   const [firstVerse, ...restVerses] = verses;
 
+  // ---
+  // Rework
   return _.trim(
     _.flatten(
       [
@@ -107,6 +112,9 @@ const normalizeContentByAddingBasicStructure = (
 export const processContent = (content: string, fileName?: string) => {
   const flatSections = content
     .replaceAll('^(\r)\n', '\r\n')
+    .replaceAll(SongSection.TITLE, EMPTY_STRING)
+    .replaceAll(SongSection.SEQUENCE, EMPTY_STRING)
+    .replaceAll(SongSection.CHORUS, EMPTY_STRING)
     .replaceAll(SongSection.VERSE_1, EMPTY_STRING)
     .replaceAll(SongSection.VERSE_2, EMPTY_STRING)
     .replaceAll(SongSection.VERSE_3, EMPTY_STRING)
@@ -115,9 +123,9 @@ export const processContent = (content: string, fileName?: string) => {
     .replaceAll(SongSection.VERSE_6, EMPTY_STRING)
     .replaceAll(SongSection.VERSE_7, EMPTY_STRING)
     .replaceAll(SongSection.VERSE_8, EMPTY_STRING)
-    .replaceAll(SongSection.TITLE, EMPTY_STRING)
-    .replaceAll(SongSection.SEQUENCE, EMPTY_STRING)
-    .split(/\r\n\r\n/gim)
+    .replaceAll(SongSection.VERSE_9, EMPTY_STRING)
+    .replaceAll(SongSection.VERSE_10, EMPTY_STRING)
+    .split(/\n\n/gim)
     .filter(Boolean)
     .map(_.trim);
 

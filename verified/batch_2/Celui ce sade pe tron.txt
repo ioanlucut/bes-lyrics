@@ -2,7 +2,7 @@
 Celui ce șade pe tron
 
 [sequence]
-1,c,1,c,c,c
+1,c,1,c
 
 [1]
 /: Celui ce șade pe tron

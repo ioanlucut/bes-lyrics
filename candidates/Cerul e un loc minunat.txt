@@ -2,7 +2,7 @@
 Cerul e un loc minunat
 
 [sequence]
-[1]
+1
 
 [1]
 CERUL E UN LOC MINUNAT

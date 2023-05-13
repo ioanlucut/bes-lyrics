@@ -2,7 +2,7 @@
 Doamne tu ești mai pretios decat argintul
 
 [sequence]
-[1]
+1
 
 [1]
 Doamne,

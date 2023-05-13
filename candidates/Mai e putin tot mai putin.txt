@@ -5,14 +5,12 @@ Mai e putin tot mai putin
 1,2,3,4,5,6
 
 [1]
-
 Mai e putin, tot mai putin
 Din timpul ce-a mai ramas
 Inca putin, si voi pleca
 Spre tarmul celalalt
 
 [2]
-
 Ma asteapta frati, mă vor intampina
 Au sfarsit alergarea ’naintea mea
 Pe cei dragi ii voi revedea
@@ -21,14 +19,12 @@ Isus ma va astepta.
 
 
 [3]
-
- Cat mi-am dorit un bun sfarsit
+Cat mi-am dorit un bun sfarsit
 Al vietii pămantesti
 Incă alerg si ma indrept
 Spre slăvile ceresti.
 
 [4]
-
 Ma asteapta frati, mă vor intampina
 Au sfarsit alergarea ’naintea mea
 Pe cei dragi ii voi revedea
@@ -37,7 +33,6 @@ Isus ma va astepta.
 
 
 [5]
-
 Un singur gand mi-a mai rămas
 Vreau sa trăiesc frumos
 Prin tot ce sunt, prin tot ce fac
@@ -45,7 +40,6 @@ Slăvindu-L pe Hristos!
 
 
 [6]
-
 Ma asteapta frati, mă vor intampina
 Au sfarsit alergarea ’naintea mea
 Pe cei dragi ii voi revedea

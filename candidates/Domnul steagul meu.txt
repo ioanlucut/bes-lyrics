@@ -5,7 +5,7 @@ Domnul steagul meu
 1,2,3,4,5,6
 
 [1]
- Știu că Tu mă asculți,
+Știu că Tu mă asculți,
 Când Te chem mă ajuți.
 În necaz mă ocrotești,
 Mă sprijinești. ((2x))
@@ -19,12 +19,12 @@ Toată viața mea.
 [3]
 NE VOM BUCURA
 DE BIRUINȚA TA
-ÎN NUMELE TĂU 
+ÎN NUMELE TĂU
 SPRE SLAVA TA
 STEAGUL VOM FLUTURA
 
 [4]
- Știu că Tu mă asculți,
+Știu că Tu mă asculți,
 Când Te chem mă ajuți.
 În necaz mă ocrotești,
 Mă sprijinești. ((2x))
@@ -38,6 +38,6 @@ Toată viața mea. (4x)
 [6]
 NE VOM BUCURA
 DE BIRUINȚA TA
-ÎN NUMELE TĂU 
+ÎN NUMELE TĂU
 SPRE SLAVA TA
 STEAGUL VOM FLUTURA

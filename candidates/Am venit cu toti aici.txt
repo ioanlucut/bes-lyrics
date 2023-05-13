@@ -2,7 +2,7 @@
 Am venit cu toti aici
 
 [sequence]
-c,c
+c
 
 [chorus]
 /: Suntem strânși în jurul Lui

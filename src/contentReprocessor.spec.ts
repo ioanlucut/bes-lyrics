@@ -1,316 +1,290 @@
 import { processContent } from './contentReprocessor';
 
 describe('contentReprocessor', () => {
-  it('should not change a correct song structure w/ a chorus', () => {
+  it('should work correctly #1', () => {
     expect(
       processContent(`[title]
-A bătut la ușa ta Cineva
+Aleluia el domnce bine e
 
 [sequence]
-1,2,3,4,5
+1,2,3,4,5,6,7,8
 
 [1]
-A bătut la ușa ta Cineva...
-Și n-a deschis nimenea.
-În tăcerea negrei nopți,
-Stă un om și plânge.
-/: Fața Lui e numai răni,
-Pieptul - numai sânge! :/
+Aleluia, Aleluia, Aleluia
+/: El e Domn :/
+Aleluia, Aleluia, Aleluia
+Isus Hristos e Domn.
 
 [2]
-Cine ești, străin pribeag? Cine ești?...
-De-al cui dor, Tu pribegești?
-Pentru cine Te-au brăzdat
-Bice fără număr?
-/: Ce povară Ți-a lăsat
-Rana de pe umăr? :/
+Ți-ai arătat puterea mare
+Boldul morții L-ai înfrânt
+Din mormânt ai înviat triumfător
+Lanțurile le-ai zdrobit
+Pe captivi ai eliberat
+Prin a Ta îndurare sunt salvat
 
 [3]
-Eu sunt Robul ce slujesc tuturor,
-Un om al durerilor.
-Nimeni plată nu Mi-a dat,
-Decât spini și ură.
-/: Numai roșii trandafiri,
-Pieptul Mi-l umplură. :/
-
-[4]
-Eu sunt Pâinea ce s-a frânt lumii-ntregi
-Și sunt Vinul noii legi.
-N-am venit să plâng, în drum,
-Răni usturătoare,
-/: Plâng pe-acei ce pierd acum
-Ultima chemare. :/
-
-[5]
-A bătut la ușa ta Cineva.
-O, deschide-I, nu mai sta!
-Nu-L lăsa să plece trist,
-Poate, niciodată,
-/: Mâna Lui, la ușa ta,
-N-are să mai bată. :/`),
+Aleluia, Aleluia, Aleluia
+/: El e Domn :/
+Aleluia, Aleluia, Aleluia
+Isus Hristos e Domn.
+`),
     ).toMatchInlineSnapshot(`
       "[title]
-      A bătut la ușa ta Cineva
-
-
-      1,2,3,4,5
-
-
-      A bătut la ușa ta Cineva...
-      Și n-a deschis nimenea.
-      În tăcerea negrei nopți,
-      Stă un om și plânge.
-      /: Fața Lui e numai răni,
-      Pieptul - numai sânge! :/
-
-
-      Cine ești, străin pribeag? Cine ești?...
-      De-al cui dor, Tu pribegești?
-      Pentru cine Te-au brăzdat
-      Bice fără număr?
-      /: Ce povară Ți-a lăsat
-      Rana de pe umăr? :/
-
-
-      Eu sunt Robul ce slujesc tuturor,
-      Un om al durerilor.
-      Nimeni plată nu Mi-a dat,
-      Decât spini și ură.
-      /: Numai roșii trandafiri,
-      Pieptul Mi-l umplură. :/
-
-
-      Eu sunt Pâinea ce s-a frânt lumii-ntregi
-      Și sunt Vinul noii legi.
-      N-am venit să plâng, în drum,
-      Răni usturătoare,
-      /: Plâng pe-acei ce pierd acum
-      Ultima chemare. :/
-
-
-      A bătut la ușa ta Cineva.
-      O, deschide-I, nu mai sta!
-      Nu-L lăsa să plece trist,
-      Poate, niciodată,
-      /: Mâna Lui, la ușa ta,
-      N-are să mai bată. :/
+      Aleluia el domnce bine e
 
       [sequence]
-      1"
+      1,c
+
+      [1]
+      Ți-ai arătat puterea mare
+      Boldul morții L-ai înfrânt
+      Din mormânt ai înviat triumfător
+      Lanțurile le-ai zdrobit
+      Pe captivi ai eliberat
+      Prin a Ta îndurare sunt salvat
+
+      [chorus]
+      Aleluia, Aleluia, Aleluia
+      /: El e Domn :/
+      Aleluia, Aleluia, Aleluia
+      Isus Hristos e Domn."
     `);
   });
 
-  it('should not change a correct song structure w/o a chorus', () => {
+  it('should work correctly #2', () => {
     expect(
       processContent(`[title]
-Ai auzit vreodată, prietene, de Mine
+Tu mi stii viitorul
 
 [sequence]
-1,2,3
+c,1
+
+[chorus]
+/: Când eram doar un plod fără chip,
+Ochii tăi ma vedeau!
+În cartea ta de mult erau scrise
+Zilele ce m-așteptau! :/
+
+[chorus]
+/: Tu-mi știi viitorul și ești lângă mine,
+De ce să mă îngrijorez?
+Mi-ai promis de voi sta lângă Tine
+Nicicând n-ai să mă părăsești. :/
+
+[chorus]
+/: De-aș încerca să m-ascund te Tine
+Nu voi reuși, oriunde m-aș duce,
+Chiar la marginea mării
+Mâna Ta mă va călăuzi! :/
+
+[chorus]
+/: Tu-mi știi viitorul și ești lângă mine,
+De ce să mă îngrijorez?
+Mi-ai promis de voi sta lângă Tine
+Nicicând n-ai să mă părăsești. :/
+
+[chorus]
+/: Tu mă cunoști întru-totul, Doamne
+Când stau jos sau mă ridic.
+Îmi cunoști toate căile mele,
+Nu pot ascunde nimic :/
+
+[chorus]
+/: Tu-mi știi viitorul și ești lângă mine,
+De ce să mă îngrijorez?
+Mi-ai promis de voi sta lângă Tine
+Nicicând n-ai să mă părăsești. :/
 
 [1]
-Ai auzit vreodată, prietene, de Mine
-Pe când în largul lumii cutreierai semeț?
-Pe când cu lănci și scuturi cohortele străine
-Te căutau să-ți ceară al vieții tale preț?
-
-Ai auzit vreodată, prietene, de Mine
-Când floarea vieții tale își scutura podoaba?...
-Ca să te scap de lanțuri, de moarte și rușine,
-Eu am murit pe cruce, în locul tău, Baraba!
-
-[2]
-Eu răsădisem pacea, tu semănai furtuna
-Și pe-amândoi mulțimea ne-a pus pe un cântar.
-Minciuna cea din umbră alese-atunci minciuna
-Tâlharii cei cu vază cerură pe-un tâlhar.
-
-Puteam să zbor din lume, sătul de-a ei urgie,
-Și-atunci mulțimea oarbă te-ar fi cerut degeaba,
-Dar M-am gândit la tine privind spre veșnicie,
-Și am murit pe cruce, în locul tău, Baraba!
-
-[3]
-Te chem și astăzi... Vino și vom străbate norii!
-Te-am căutat cu lacrimi prin spini și bolovani,
-Dar vremea e târzie, mijesc pe dealuri zorii
-Și ceru-ntreg te-așteaptă de două mii de ani!
-
-De-ai ști ce neagră noapte și ce adânc fierbinte
-Va fi când suferința nu va cunoaște graba;
-Vei plânge-ntotdeauna și-ți vei aduce aminte
-Că am murit pe cruce în locul tău, Baraba!`),
+Nicicând n-ai să mă părăsești!`),
     ).toMatchInlineSnapshot(`
       "[title]
-      Ai auzit vreodată, prietene, de Mine
-
-
-      1,2,3
-
-
-      Ai auzit vreodată, prietene, de Mine
-      Pe când în largul lumii cutreierai semeț?
-      Pe când cu lănci și scuturi cohortele străine
-      Te căutau să-ți ceară al vieții tale preț?
-
-      Ai auzit vreodată, prietene, de Mine
-      Când floarea vieții tale își scutura podoaba?...
-      Ca să te scap de lanțuri, de moarte și rușine,
-      Eu am murit pe cruce, în locul tău, Baraba!
-
-
-      Eu răsădisem pacea, tu semănai furtuna
-      Și pe-amândoi mulțimea ne-a pus pe un cântar.
-      Minciuna cea din umbră alese-atunci minciuna
-      Tâlharii cei cu vază cerură pe-un tâlhar.
-
-      Puteam să zbor din lume, sătul de-a ei urgie,
-      Și-atunci mulțimea oarbă te-ar fi cerut degeaba,
-      Dar M-am gândit la tine privind spre veșnicie,
-      Și am murit pe cruce, în locul tău, Baraba!
-
-
-      Te chem și astăzi... Vino și vom străbate norii!
-      Te-am căutat cu lacrimi prin spini și bolovani,
-      Dar vremea e târzie, mijesc pe dealuri zorii
-      Și ceru-ntreg te-așteaptă de două mii de ani!
-
-      De-ai ști ce neagră noapte și ce adânc fierbinte
-      Va fi când suferința nu va cunoaște graba;
-      Vei plânge-ntotdeauna și-ți vei aduce aminte
-      Că am murit pe cruce în locul tău, Baraba!
+      Tu mi stii viitorul
 
       [sequence]
-      1"
+      1,c,2,c,3,c,4,c
+
+      [1]
+      /: Când eram doar un plod fără chip,
+      Ochii tăi ma vedeau!
+      În cartea ta de mult erau scrise
+      Zilele ce m-așteptau! :/
+
+      [chorus]
+      /: Tu-mi știi viitorul și ești lângă mine,
+      De ce să mă îngrijorez?
+      Mi-ai promis de voi sta lângă Tine
+      Nicicând n-ai să mă părăsești. :/
+
+      [2]
+      /: De-aș încerca să m-ascund te Tine
+      Nu voi reuși, oriunde m-aș duce,
+      Chiar la marginea mării
+      Mâna Ta mă va călăuzi! :/
+
+      [3]
+      /: Tu mă cunoști întru-totul, Doamne
+      Când stau jos sau mă ridic.
+      Îmi cunoști toate căile mele,
+      Nu pot ascunde nimic :/
+
+      [4]
+      Nicicând n-ai să mă părăsești!"
     `);
   });
 
-  it('should identify a chorus by common section', () => {
+  it('should work correctly #3', () => {
     expect(
-      processContent(
-        `[title]
-Acum când încă se mai poate
+      processContent(`[title]
+Tu n ai sub soare asemanare tu esti iubirea mea
 
 [sequence]
-1,2,3,4,5,6
+1,2,3,4,5,6,7,8
 
 [1]
-Acum când încă se mai poate
-Lucrează frate cu folos
-Căci nu-i mai prețios din toate
-Decât ce faci pentru Hristos
-Cât încă ai suflare-n tine
-Mai poți ofrande să-I aduci
-Dar s-ar putea ziua de mâine
-Amicul meu să n-o apuci.
+1. Tu n-ai sub soare, Asemănare,
+Ești necuprins, Ești nemărginit;
+Iubirea-Ți sfântă, E o splendoare,
+Pe drept Isuse, Tu ești iubit.
 
 [2]
-FĂ-TI TIMP PENTRU EL,
-FĂ-TI TIMP PENTRU CER
-DIN TOATE, ACEASTA-I MAI PRESUS
-FĂ-TI TIMP SĂ IUBESTI,
-FĂ-TI TIMP SĂ TE JERTFESTI
-FĂ-TI TIMP PENTRU ISUS!
+Tu ești iubirea mea,
+Tu-mi ești Comoara vieții,
+Soarele meu frumos Din zorii dimineții.
 
 [3]
-Fă-ți timp pentru acei ce-n lume
-Aleargă din rău spre mai rău
-Nu obosi ci spune, spune
-De dragostea lui Dumnezeu
-Fă-ți timp și mergi fără cârtire
-La patul celor suferinzi
-Căci ei așteaptă cu iubire
-Măcar o mână să le-ntinzi!
+2. Îți cântă marea, Îți cântă cerul,
+Și mii de astre-n a lor loc;
+Căci Tu ești Calea
+Și-Adevărul,
+Ești cel mai frumos
+Din univers.
 
 [4]
-FĂ-TI TIMP PENTRU EL,
-FĂ-TI TIMP PENTRU CER
-DIN TOATE, ACEASTA-I MAI PRESUS
-FĂ-TI TIMP SĂ IUBESTI,
-FĂ-TI TIMP SĂ TE JERTFESTI
-FĂ-TI TIMP PENTRU ISUS!
+Tu ești iubirea mea,
+Tu-mi ești Comoara vieții,
+Soarele meu frumos Din zorii dimineții.
 
 [5]
-Fă-ți timp pentru copiii care
-Rămas-au fără de părinți
-Să-i dai o simplă sărutare
-Și-o clipă doar să îi alini
-Cât încă ai suflare-n tine
-Lucrează frate cu folos
-Căci ce faci pentru el rămâne
-Fă-ți astăzi timp pentru HRISTOS!
+3. Tu ești iubirea, Neprihănirea,
+Pe-a Tale buze, E-un râu de har;
+Tu locuiești sus În strălucire,
+Tu ești Eel mai scump mărgăritar.
 
 [6]
-FĂ-TI TIMP PENTRU EL,
-FĂ-TI TIMP PENTRU CER
-DIN TOATE, ACEASTA-I MAI PRESUS
-FĂ-TI TIMP SĂ IUBESTI,
-FĂ-TI TIMP SĂ TE JERTFESTI
-FĂ-TI TIMP PENTRU ISUS!`,
-      ),
+Tu ești iubirea mea,
+Tu-mi ești Comoara vieții,
+Soarele meu frumos Din zorii dimineții.
+
+[7]
+4. Ești sprijin tare, În încercare,
+Ești ușurare În ceasul greu;
+În strâmtorare, Turn de scăpare,
+Din veșnicii Ești Dumnezeu.
+
+[8]
+Tu ești iubirea mea,
+Tu-mi ești Comoara vieții,
+Soarele meu frumos Din zorii dimineții.`),
     ).toMatchInlineSnapshot(`
       "[title]
-      Acum când încă se mai poate
-
-
-      1,2,3,4,5,6
-
-
-      Acum când încă se mai poate
-      Lucrează frate cu folos
-      Căci nu-i mai prețios din toate
-      Decât ce faci pentru Hristos
-      Cât încă ai suflare-n tine
-      Mai poți ofrande să-I aduci
-      Dar s-ar putea ziua de mâine
-      Amicul meu să n-o apuci.
-
-
-      FĂ-TI TIMP PENTRU EL,
-      FĂ-TI TIMP PENTRU CER
-      DIN TOATE, ACEASTA-I MAI PRESUS
-      FĂ-TI TIMP SĂ IUBESTI,
-      FĂ-TI TIMP SĂ TE JERTFESTI
-      FĂ-TI TIMP PENTRU ISUS!
-
-
-      Fă-ți timp pentru acei ce-n lume
-      Aleargă din rău spre mai rău
-      Nu obosi ci spune, spune
-      De dragostea lui Dumnezeu
-      Fă-ți timp și mergi fără cârtire
-      La patul celor suferinzi
-      Căci ei așteaptă cu iubire
-      Măcar o mână să le-ntinzi!
-
-
-      FĂ-TI TIMP PENTRU EL,
-      FĂ-TI TIMP PENTRU CER
-      DIN TOATE, ACEASTA-I MAI PRESUS
-      FĂ-TI TIMP SĂ IUBESTI,
-      FĂ-TI TIMP SĂ TE JERTFESTI
-      FĂ-TI TIMP PENTRU ISUS!
-
-
-      Fă-ți timp pentru copiii care
-      Rămas-au fără de părinți
-      Să-i dai o simplă sărutare
-      Și-o clipă doar să îi alini
-      Cât încă ai suflare-n tine
-      Lucrează frate cu folos
-      Căci ce faci pentru el rămâne
-      Fă-ți astăzi timp pentru HRISTOS!
-
-
-      FĂ-TI TIMP PENTRU EL,
-      FĂ-TI TIMP PENTRU CER
-      DIN TOATE, ACEASTA-I MAI PRESUS
-      FĂ-TI TIMP SĂ IUBESTI,
-      FĂ-TI TIMP SĂ TE JERTFESTI
-      FĂ-TI TIMP PENTRU ISUS!
+      Tu n ai sub soare asemanare tu esti iubirea mea
 
       [sequence]
-      1"
+      1,c,2,c,3,c,4,c
+
+      [1]
+      1. Tu n-ai sub soare, Asemănare,
+      Ești necuprins, Ești nemărginit;
+      Iubirea-Ți sfântă, E o splendoare,
+      Pe drept Isuse, Tu ești iubit.
+
+      [chorus]
+      Tu ești iubirea mea,
+      Tu-mi ești Comoara vieții,
+      Soarele meu frumos Din zorii dimineții.
+
+      [2]
+      2. Îți cântă marea, Îți cântă cerul,
+      Și mii de astre-n a lor loc;
+      Căci Tu ești Calea
+      Și-Adevărul,
+      Ești cel mai frumos
+      Din univers.
+
+      [3]
+      3. Tu ești iubirea, Neprihănirea,
+      Pe-a Tale buze, E-un râu de har;
+      Tu locuiești sus În strălucire,
+      Tu ești Eel mai scump mărgăritar.
+
+      [4]
+      4. Ești sprijin tare, În încercare,
+      Ești ușurare În ceasul greu;
+      În strâmtorare, Turn de scăpare,
+      Din veșnicii Ești Dumnezeu."
+    `);
+  });
+
+  it('should work correctly #3', () => {
+    expect(
+      processContent(`[title]
+Aici e duhul domnului
+
+[sequence]
+1,2,3,4
+
+[1]
+Ce plăcut ce tainic trup slăvit
+Da, noi știm, aici e Duhul Domnului
+Căci Hristos prin
+Duhul ne-a unit Da, noi știm, aici e Duhul Domnului
+
+[2]
+O, Duh Prea-Sfânt
+Tu, Sol Ceresc
+Rămâi aici cu noi toarnă dragoste și har
+
+[3]
+Și-n noi mereu să arzi tot ce-i lumesc
+Să ne-nchinăm smeriți prin necuprinsu-Ți dar
+În duh și-n adevăr
+
+[4]
+Eu te iubesc Doamne te iubesc’
+Naintea Ta Doamne drag, mă plec
+Al meu Rege ești bucuria mea
+Tu ești tot ce am și eu sunt al Tău
+`),
+    ).toMatchInlineSnapshot(`
+      "[title]
+      Aici e duhul domnului
+
+      [sequence]
+      1,2,3,4
+
+      [1]
+      Ce plăcut ce tainic trup slăvit
+      Da, noi știm, aici e Duhul Domnului
+      Căci Hristos prin
+      Duhul ne-a unit Da, noi știm, aici e Duhul Domnului
+
+      [2]
+      O, Duh Prea-Sfânt
+      Tu, Sol Ceresc
+      Rămâi aici cu noi toarnă dragoste și har
+
+      [3]
+      Și-n noi mereu să arzi tot ce-i lumesc
+      Să ne-nchinăm smeriți prin necuprinsu-Ți dar
+      În duh și-n adevăr
+
+      [4]
+      Eu te iubesc Doamne te iubesc’
+      Naintea Ta Doamne drag, mă plec
+      Al meu Rege ești bucuria mea
+      Tu ești tot ce am și eu sunt al Tău"
     `);
   });
 });

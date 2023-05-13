@@ -6,7 +6,7 @@ c,1,2,c,3,c
 
 [chorus]
 /: Bine ai venit, Isus!
- Bine ai venit, Isus!
+Bine ai venit, Isus!
 Lasă Gloria Ta
 Strălucind și azi
 Rege minunat!
@@ -16,7 +16,7 @@ Aleluia. :/
 
 [1]
 Auzi corul îngeresc,
- Dumnezeu din cer slăvesc!
+Dumnezeu din cer slăvesc!
 Cântă imnuri înălțând,
 Pace fie pe pământ!
 Dumnezeu ce a promis
@@ -36,7 +36,7 @@ Viață nouă El ne-a dat! :/
 
 [chorus]
 /: Bine ai venit, Isus!
- Bine ai venit, Isus!
+Bine ai venit, Isus!
 Lasă Gloria Ta
 Strălucind și azi
 Rege minunat!
@@ -55,7 +55,7 @@ Unde-s fericiri nespus,
 
 [chorus]
 /: Bine ai venit, Isus!
- Bine ai venit, Isus!
+Bine ai venit, Isus!
 Lasă Gloria Ta
 Strălucind și azi
 Rege minunat!

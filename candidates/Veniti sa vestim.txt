@@ -9,7 +9,7 @@ Este scris în cuvânt
 Că Cel ce-avea să se nască,
 Să mântuie lumea
 E singurul vrednic
-Să poată ispăși 
+Să poată ispăși
 păcatul greu ce ne-a legat
 Și din ceruri o voce se-aude:
 Acesta este Fiul meu preaiubit!
@@ -27,7 +27,7 @@ Este scris în cuvânt
 Că Cel ce-avea să se nască,
 Să mântuie lumea
 E singurul vrednic
-Să poată ispăși 
+Să poată ispăși
 păcatul greu ce ne-a legat
 Și din ceruri o voce se-aude:
 Acesta este Fiul meu preaiubit!
@@ -41,7 +41,6 @@ A deschis calea către rai
 Ne-a-mpăcat cu Tatăl Dumnezeu!
 
 [5]
-
 S-a născut în iesle,
 Fiul lui Dumnezeu a coborât.
 S-a dezbrăcat de glorie

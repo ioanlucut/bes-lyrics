@@ -55,8 +55,7 @@ export const normalizeFileName = (fileName: string) =>
           .replaceAll('’', EMPTY_STRING)
           .replaceAll('”', EMPTY_STRING)
           .replaceAll('„', EMPTY_STRING)
-          .replaceAll('–', '-')
-          .replaceAll(/[0-9]*/gi, EMPTY_STRING),
+          .replaceAll('–', '-'),
       ),
     )
     .toString();

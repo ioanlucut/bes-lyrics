@@ -2,7 +2,7 @@
 Tu mi stii viitorul
 
 [sequence]
-c,c,c,1
+c,1
 
 [chorus]
 /: Când eram doar un plod fără chip,
