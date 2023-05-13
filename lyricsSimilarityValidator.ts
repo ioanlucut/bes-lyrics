@@ -38,6 +38,16 @@ const computeSimilarity =
     filePath: string;
   }) => {
     const candidateContent = fs.readFileSync(candidateFilePath).toString();
+
+    const strings = _.trim(
+      candidateContent.replaceAll('\n', '').replaceAll('\r', ''),
+    )
+      .split('Title:')
+      .filter(Boolean);
+
+    // if (strings.length === 1) {
+    // }
+
     const similarity = stringSimilarity.compareTwoStrings(
       contentAsString.toLowerCase(),
       candidateContent.toLowerCase(),
@@ -54,11 +64,21 @@ const findSimilarities = async (
   potentialDuplicatesDir: string,
   againstDir: string,
 ) => {
-  const verifiedSongs = await readAllFilesAgainstTheChecksAreDoneOnce(
-    againstDir,
+  const verifiedSongs1 = await readAllFilesAgainstTheChecksAreDoneOnce(
+    process.env.VERIFIED_DIR,
+  );
+  const verifiedSongs2 = await readAllFilesAgainstTheChecksAreDoneOnce(
+    process.env.CANDIDATES_DIR,
   );
 
+  const verifiedSongs = [...verifiedSongs1, ...verifiedSongs2];
+
   return (await recursive(potentialDuplicatesDir))
+    .filter((filePath) => {
+      return path
+        .basename(filePath)
+        .includes('Cant Domnului ca mi-a facut bine');
+    })
     .map((candidateFilePath) => {
       const candidateFileName = path.basename(candidateFilePath);
 
@@ -134,7 +154,7 @@ const runValidatorAndExitIfSimilar = async (
               return;
             }
 
-            if (removeDuplicates) {
+            if (true) {
               fsExtra.unlinkSync(candidateFilePath);
             }
 
@@ -155,28 +175,8 @@ const runValidatorAndExitIfSimilar = async (
 };
 
 (async () => {
-  // ---
-  // Verify if the songs that are verified are unique across them
-  // ---
-
   await runValidatorAndExitIfSimilar(
-    process.env.VERIFIED_DIR,
-    process.env.VERIFIED_DIR,
+    '/Users/ilucut/WORK/BES/bes-lyrics/candidates-upcoming',
+    'IGNORE',
   );
-
-  // // ---
-  // // Verify if the songs that are in candidates are unique across them
-  // // ---
-  // await runValidatorAndExitIfSimilar(
-  //   process.env.CANDIDATES_DIR,
-  //   process.env.CANDIDATES_DIR,
-  // );
-  //
-  // // ---
-  // // Verify if the songs that are in candidates are unique across the verified songs
-  // // ---
-  // await runValidatorAndExitIfSimilar(
-  //   process.env.CANDIDATES_DIR,
-  //   process.env.VERIFIED_DIR,
-  // );
 })();
