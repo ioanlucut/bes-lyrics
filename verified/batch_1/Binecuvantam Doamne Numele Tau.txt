@@ -2,7 +2,7 @@
 Binecuvântăm, Doamne, Numele Tău
 
 [sequence]
-1,c,1,c,c
+1,c,1,c
 
 [1]
 Binecuvântăm, Doamne, Numele Tău,

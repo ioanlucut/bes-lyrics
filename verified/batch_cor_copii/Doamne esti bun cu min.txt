@@ -2,7 +2,7 @@
 Doamne, ești bun cu min’
 
 [sequence]
-c,1,t,c,2,t,t,c
+c,1,t,c,2,t,c
 
 [chorus]
 /: Doamne, ești bun cu min’,

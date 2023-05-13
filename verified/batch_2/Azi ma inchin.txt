@@ -2,7 +2,7 @@
 Azi mă închin
 
 [sequence]
-1,c,c,2,c,c,c,c,c
+1,c,2,c,c,c
 
 [1]
 Doamne, Tu ești stânca în care mă ascund,

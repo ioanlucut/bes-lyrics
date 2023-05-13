@@ -2,7 +2,7 @@
 Întruna eu alerg
 
 [sequence]
-1,p,c,1,p,c,p,c,c
+1,p,c,1,p,c,p,c
 
 [1]
 Întruna eu alerg,

@@ -2,7 +2,7 @@
 Eu Te iubesc și glasul mi-l înalț
 
 [sequence]
-1,1
+1
 
 [1]
 Eu Te iubesc și glasul mi-l înalț,

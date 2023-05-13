@@ -2,7 +2,7 @@
 Nu la intamplare sunt
 
 [sequence]
-c,c,c,c
+c,c
 
 [chorus]
 /: Nu la întâmplare sunt
