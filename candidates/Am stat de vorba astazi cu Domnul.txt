@@ -1,6 +1,9 @@
 [title]
-am stat de vorba astazi cu isus
+Am stat de vorbă astăzi eu cu Domnul
 
+[sequence]
+
+[1]
 Am stat de vorbă astăzi eu cu Domnul,
 I-am mulțumit că mi-a mai dat o zi
 S-alung din suflet toată întristarea
