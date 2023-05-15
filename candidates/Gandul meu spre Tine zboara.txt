@@ -1,37 +1,36 @@
 [title]
-Gandul meu spre tine zboara
+Gândul meu spre Tine zboară
 
 [sequence]
-1,2,3,4,5
+1,c,2,c,3,c,4,c
 
 [1]
-Gandul meu spre tine zboara Tata ceresc,
-N-am cuvinte indeajuns sa îți multumesc,
-Eu mi-am pus numai in Tine increderea
-Fa ce vrei, Doamne, cu viata mea
+Gândul meu spre Tine zboară, Tată ceresc,
+N-am cuvinte îndeajuns să Îți mulțumesc,
+Eu mi-am pus numai în Tine încrederea,
+Fă ce vrei, Doamne, cu viața mea!
+
+[chorus]
+/: Pentru fiecare clipă vreau să-Ți mulțumesc,
+Pentru fiecare zi din viata Te slăvesc
+Și în fiecare clipă, Doamne, eu Îți cânt,
+Ești tot ce-am mai scump pe pământ. :/
 
 [2]
-:/ Pentru fiecare clipa vreau sa-Ti multumesc
-Pentru fiecare zi din viata Te slavesc
-Și in fiecare clipa Doamne eu îți cant
-Esti tot ce-am mai scump pe pamant
-/:
+Mă închin cu mulțumire în fața Ta,
+Chiar dacă nu îmi dărui tot ce aș vrea.
+Dacă voia mea nu este și planul Tău,
+Mă dezleg de tot ce-mi doresc eu.
 
 [3]
-Ma inchin cu multumire in fata Ta
-Chiar daca nu imi darui tot ce as vrea
-Daca voia mea nu este si planul Tau
-Ma dezleg de tot ce-mi doresc eu
+Iubirea Ta îmi umple inima,
+Nu mai este loc de altceva în viața mea.
+Iubirea Ta vreau să rămân în ea,
+S-o trăiesc din plin Ție mă închin.
 
 [4]
-Iubirea Ta imi umple inima,
-Nu mai este loc de altceva in viata mea
-Iubirea Ta vreau sa raman in ea
-S-o traiesc din plin Tie ma inchin
-
-[5]
-/: Mă-ncred în Dumnezeu :/
+/: Mă-ncred în Dumnezeu! :/
 Domnul, Domnul, El e scăparea mea,
-El e stânca tare, E cetățuia mea
-Domnul, Domnul, Îmi e ocrotitor
+El e stânca tare, E cetățuia mea.
+Domnul, Domnul, îmi e ocrotitor,
 Mă-ncred în El, El e Domnul domnilor.
