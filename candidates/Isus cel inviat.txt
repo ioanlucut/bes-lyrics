@@ -1,23 +1,23 @@
 [title]
-Isus cel inviat
+Isus cel înviat
 
 [sequence]
-1,2,3,4
+1,c,2,c,3,c
 
 [1]
-ISUS CEL ÎNVIAT 
-E ASTĂZI PRINTRE NOI (4x)
+Isus cel înviat
+E astăzi printre noi. (4x)
+
+[chorus]
+Lasă-L să te atingă (3x)
+Și vei fi eliberat.
+Lasă-L să te atingă (3x)
+Vei fi binecuvântat.
 
 [2]
-LASĂ-L SĂ TE ATINGĂ ((3x))
-ȘI VEI FI ELIBERAT.
-LASĂ-L SĂ TE ATINGĂ ((3x))
-VEI FII BINECUVÂNTAT.
+Mormântul lui Isus
+Și astăzi este gol. (4x)
 
 [3]
-MORMÂNTUL LUI ISUS
-ȘI ASTĂZI ESTE GOL (4x)
-
-[4]
-ISUS E VIU ÎN VECI DE VECI
-ALELUIA (4x)
+Isus e viu în veci de veci,
+Aleluia! (4x)
