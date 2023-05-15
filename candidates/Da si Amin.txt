@@ -1,36 +1,34 @@
 [title]
-Da si amin
+Da și Amin
 
 [sequence]
-1,2,3,4
+1,c,2,b,c
 
 [1]
-Tată ce bun ești
-Slava Ți-ai lăsat
+Tată, ce bun ești!
+Slava Ți-ai lăsat,
 M-ai luat din întuneric
-Și mi-ai dat pacea Ta
-Ești plin de milă
-Tu ești Cel ce mă ajuți
-Doamne, vreau să-ți cânt
+Și mi-ai dat pacea Ta.
+Ești plin de milă,
+Tu ești Cel ce mă ajuți.
+Doamne, vreau să-Ți cânt!
+
+[chorus]
+Credincios Tu ești,
+Credincios ai fost, ești și vei fi,
+Credincios Tu ești!
+Tot ce Tu promiți e Da și Amin.
+Tot ce Tu promiți e Da și Amin.
 
 [2]
-Credincios Tu ești
-Credincios ai fost, ești și vei fi
-Credincios Tu ești
-Tot ce Tu promiți e Da și Amin
-Tot ce Tu promiți e Da și Amin
-
-[3]
-Ești Salvatorul
-Tu m-ai ridicat
+Ești Salvatorul,
+Tu m-ai ridicat.
 M-ai scos din cenușă
-Și ai rupt orice blestem
-Mântuitor ești
-Pe captivi eliberezi
-Doamne, vreau să-ți cânt
+Și ai rupt orice blestem.
+Mântuitor ești,
+Pe captivi eliberezi,
+Doamne, vreau să-ți cânt!
 
-[4]
-Da, eu cred
-În Cuvântul Tău
-Stau ancorat
-În tot ce-ai promis!
+[bridge]
+Da, eu cred în Cuvântul Tău!
+Stau ancorat în tot ce-ai promis!
