@@ -1,45 +1,36 @@
 [title]
-Eu si casa mea
+Eu și casa mea
 
 [sequence]
-1,2,3,4,5
+1,c,2,c,b,t
 
 [1]
-Sunt zile de sfârșit
-când totul e-n schimbare,
-E-aproape de-asfințit
-și Domnul va apare.
-’
-Nainte e-ntuneric
-și semne de-ntrebare,
-Dar vom rămâne veșnic
-cu Cel ce-i al nost’ Soare.
+Sunt zile de sfârșit când totul e-n schimbare,
+E-aproape de-asfințit și Domnul va apare.
+’Nainte e-ntuneric și semne de-ntrebare,
+Dar vom rămâne veșnic cu Cel ce-i al nost’ Soare.
+
+[chorus]
+Dar eu și casa mea
+Vom sluji Domnului, 
+Mereu Îi vom cânta
+Pentru tot Harul Lui! (2x)
 
 [2]
-DAR EU ȘI CASA MEA
-VOM SLUJI DOMNULUI
-MEREU ÎI VOM CÂNTA
-PENTRU TOT HARUL LUI! (2x)
+Cu toți, cu mic și mare, vom apăra dreptatea,
+În rugă fiecare și-om moșteni dreptatea.
+Nu vom ceda în luptă chiar de e greu pe cale,
+Avea-vom biruință prin Cel ce-i veșnic tare.
 
-[3]
-Cu toți cu mic și mare
-vom apăra dreptatea,
-În rugă fiecare
-și-om moșteni dreptatea.
-Nu vom ceda în luptă
-chiar de e greu pe cale,
-Avea-vom biruință
-prin Cel ce-i veșnic tare.
+[bridge]
+Vom sluji Domnului!
+Vom sluji Domnului!
+Vom sluji Domnului!
+Pentru tot Harul Lui!
 
-[4]
-VOM SLUJI DOMNULUI
-VOM SLUJI DOMNULUI
-VOM SLUJI DOMNULUI
-PENTRU TOT HARUL LUI
-
-[5]
-DAR EU ȘI CASA MEA
-VOM SLUJI DOMNULUI
-MEREU ÎI VOM CÂNTA
-PENTRU TOT HARUL LUI
-VOM SLUJI DOMNULUI.
+[chorus 2]
+Dar eu și casa mea
+Vom sluji Domnului, 
+Mereu Îi vom cânta
+Pentru tot Harul Lui!
+VOom sluji Domnului!
