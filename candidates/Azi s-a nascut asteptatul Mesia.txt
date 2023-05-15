@@ -1,19 +1,23 @@
 [title]
-Azi s a nascut asteptatul mesia
+Azi S-a născut așteptatul Mesia
 
 [sequence]
-1,2,3
+1,c,2,c
 
 [1]
-Astăzi, ca niciodată, cerul întreg este mai luminos.
-Deodată, pe cer se arată o steace vorbește despre Hristos.
+Astăzi, ca niciodată, 
+Cerul întreg este mai luminos.
+Deodată, pe cer se arată o stea
+Ce vorbește despre Hristos.
 
-[2]
-Azi S-a născut așteptatul Mesia, Regele Sfânt, Emanuel.
-Să Îi cântăm toți, în cor, „
-Aleluia!”
+[chorus]
+Azi S-a născut așteptatul Mesia, 
+Regele Sfânt, Emanuel.
+Să Îi cântăm toți, în cor, „Aleluia!”
 El este Fiul lui Dumnezeu!
 
 [3]
-Astăzi, ca niciodată, mulțimi de îngeri se grăbesc toți în zbor.
-S-aducă o veste din slavă, căci azi se va naște un Salvator.
+Astăzi, ca niciodată, 
+Mulțimi de îngeri se grăbesc toți în zbor.
+S-aducă o veste din slavă
+Căci azi se va naște un Salvator.
