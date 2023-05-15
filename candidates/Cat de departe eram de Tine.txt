@@ -1,35 +1,43 @@
 [title]
-Cat de departe eram de Tine
+Cât de departe eram de Tine
 
-1. Cat de departe eram de Tine
+[sequence]
+1,c,2,c,3,c
+
+[1]
+Cât de departe eram de Tine,
 Un munte ce nu-l puteam urca.
-In disperare priveam spre ceruri
-Numele Tau l-am chemat.
-In intuneric, iubirea-Ti mare
-A spulberat pacatul greu.
-Murind pe cruce, a scris sfarsitul
-Doar Cristos Speranta mea.
+În disperare priveam spre ceruri,
+Numele Tău l-am chemat.
 
-R: /: Aleluia! Isus m-a eliberat!
+În întuneric, iubirea-Ți mare
+A spulberat păcatul greu.
+Murind pe cruce, a scris sfârșitul,
+Doar Cristos, Speranța mea.
+
+[chorus]
+/: Aleluia! Isus m-a eliberat!
 Aleluia! Moartea nu a triumfat!
-Lanturile au cazut, m-a iertat de-al meu trecut
-Doar Cristos Speranta mea. : /
+Lanțurile au căzut, m-a iertat de-al meu trecut
+Doar Cristos, Speranța mea. : /
 
-2. Cine-ar putea sa-I, cuprinda mila,
-Si bogatia Harului Sau
-A slavei Rege Glori-a lasat-o
-Sa ia pacatul meu si-al tau.
-Crucea proclama iertarea noastra
-El ne-a ales sa fim ai Sai.
-Mantuitorul al Tau pe veci sunt
-Doar Cristos Speranta mea.
+[2] 
+Cine-ar putea să-I cuprindă mila
+Și bogăția Harului Său?
+A slavei Rege Glori-a lăsat-o
+Să ia păcatul meu și-al tău.
+Crucea proclama iertarea noastră,
+El ne-a ales să fim ai Săi.
+Mântuitorul al Tău pe veci sunt
+Doar Cristos, Speranța mea.
 
-3. In dimineata promisiunii,
-Cand din mormant El a inviat!
-Leul din Iuda a-nvins pacatul
-Prin moartea Sa ne-a rascumparat.
-In dimineata promisiunii,
-Cand din mormant El a inviat!
-Leul din Iuda a-nvins pacatul
-Prin moartea Sa ne-a rascumparat!
+[3]
+În dimineața promisiunii,
+Când din mormânt El a înviat!
+Leul din Iuda a-nvins păcatul,
+Prin moartea Sa ne-a răscumpărat.
+În dimineața promisiunii,
+Cănd din mormânt El a înviat!
+Leul din Iuda a-nvins păcatul,
+Prin moartea Sa ne-a răscumpărat!
 Isus, Tu m-ai eliberat!
