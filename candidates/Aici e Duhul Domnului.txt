@@ -1,27 +1,28 @@
 [title]
-Aici e duhul domnului
+Aici e Duhul Domnului
 
 [sequence]
-1,2,3,4
+1,c,2,c,3,c
 
 [1]
-Ce plăcut ce tainic trup slăvit
+Ce plăcut, ce tainic trup slăvit!
 Da, noi știm, aici e Duhul Domnului
-Căci Hristos prin
-Duhul ne-a unit Da, noi știm, aici e Duhul Domnului
+Căci Hristos prin Duhul ne-a unit.
+Da, noi știm, aici e Duhul Domnului.
+
+[chorus]
+O, Duh Prea-Sfânt,
+Tu, Sol Ceresc, 
+Rămâi aici cu noi, 
+Toarnă dragoste și har!
 
 [2]
-O, Duh Prea-Sfânt
-Tu, Sol Ceresc
-Rămâi aici cu noi toarnă dragoste și har
-
-[3]
-Și-n noi mereu să arzi tot ce-i lumesc
+Și-n noi mereu să arzi tot ce-i lumesc,
 Să ne-nchinăm smeriți prin necuprinsu-Ți dar
-În duh și-n adevăr
+În duh și-n adevăr.
 
 [4]
-Eu te iubesc Doamne te iubesc’
-Naintea Ta Doamne drag, mă plec
-Al meu Rege ești bucuria mea
-Tu ești tot ce am și eu sunt al Tău
+Eu Te iubesc, Doamne, Te iubesc!
+’Naintea Ta, Doamne drag, mă plec.
+Al meu Rege, ești bucuria mea,
+Tu ești tot ce am și eu sunt al Tău!
