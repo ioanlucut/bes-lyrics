@@ -1,32 +1,29 @@
 [title]
-Isus esti sfant si minunat
+Isus ești sfânt și minunat
 
+[sequence]
+1,c,2,c,3,c
+
+[1]
 Prin Isus am primit siguranţa
-Că de păcat eu sunt iertat
+Că de păcat eu sunt iertat,
 Prin Isus am primit şi viaţa
 Şi-acum ştiu că sunt salvat.
 
-/: Isus eşti sfânt şi minunat
-Isus eşti binecuvântat
-Isus doresc să te slăvesc
+[chorus]
+/: Isus, eşti sfânt şi minunat,
+Isus, eşti binecuvântat,
+Isus, doresc să Te slăvesc
 Şi numele să-Ţi preamăresc. :/
 
-Prin Isus am primit şi nădejde
+[2]
+Prin Isus am primit şi nădejde,
 Ce nimeni nu a putut să-mi dea
 Şi-atunci când eu treceam prin noapte
 El a fost lumina mea.
 
-/: Isus eşti sfânt şi minunat
-Isus eşti binecuvântat
-Isus doresc să te slăvesc
-Şi numele să-Ţi preamăresc. :/
-
+[3]
 Prin Isus am primit eu voinţa
-Să pot mai mult să-nfăptuiesc
+Să pot mai mult să-nfăptuiesc,
 Prin Isus am primit şi puterea
 Pe-a Sa cale să păşesc.
-
-/: Isus eşti sfânt şi minunat
-Isus eşti binecuvântat
-Isus doresc să te slăvesc
-Şi numele să-Ţi preamăresc. :/
