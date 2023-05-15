@@ -1,33 +1,34 @@
 [title]
-Auzi corul ingeresc
+Auzi corul îngeresc
 
 [sequence]
-1,2,3,4
+1,c,2,c,3,c
 
 [1]
 Auzi corul îngeresc,
 Dumnezeu din cer slăvesc!
 Cântă imnuri înălțând,
 Pace fie pe pământ!
+
 Dumnezeu ce a promis
 Pe-al Său Fiu El L-a trimis.
 /: Auzi corul îngeresc,
 Cântând Tatălui ceresc! :/
 
-[2]
+[chorus]
 /: Bine ai venit, Isus!
 Bine ai venit, Isus!
 Lasă Gloria Ta
-Strălucind și azi
-Rege minunat!
+Strălucind și azi, Rege minunat!
 Aleluia.
 Aleluia. :/
 
-[3]
+[2]
 Cel din cerul minunat,
 Preamărit și înălțat,
 Pe Pământ jos a venit
 Și ca noi trup a primit.
+
 S-a jertfit, a pătimit,
 Chiar și moarte-a suferit,
 /: De păcate ne-a spălat,
@@ -38,6 +39,8 @@ Toate de la El primim,
 Când prin rugăciuni venim.
 Să-I deschidem inima,
 Ca să intre El în ea.
+
 Și ne va conduce sus,
 Unde-s fericiri nespus,
-/: Toți în cor Îi vom cânta:Mare este slava Sa! :/
+/: Toți în cor Îi vom cânta:
+„Mare este slava Sa!” :/
