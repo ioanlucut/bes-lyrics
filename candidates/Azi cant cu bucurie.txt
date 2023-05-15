@@ -1,42 +1,51 @@
 [title]
-Azi cant cu bucurie
+Azi cânt cu bucurie
 
 [sequence]
-1,2,3,4,5,6
+1,c,2,c,3,c,4,c,5,c
 
 [1]
-Azi cânt cu bucurie, Dau slavă-n veșnicie
+Azi cânt cu bucurie, 
+Dau slavă-n veșnicie
 Că Isus m-a salvat.
-Necazuri vin și pleacă, cu Isus toate-au să treacă,
+Necazuri vin și pleacă, 
+Cu Isus toate-au să treacă,
 Cu Tatăl minunat.
 
-[2]
-EL M-A SALVAT, 
-M-A BINECUVÂNTATCU VIAȚA MEA ÎL LAUD NE’
-NCETAT,
-MI-E TATĂ, MAMĂ, SORĂ, FRATE,
-SUNT BINECUVÂNTAT.
+[chorus]
+El m-a salvat, m-a binecuvântat,
+Cu viața mea Îl laud ne’ncetat,
+Mi-e tată, mamă, soră, frate,
+Sunt binecuvântat.
 
-[3]
-Cânt plin de mulțumire, Dau slavă-n veșnicie
+[2]
+Cânt plin de mulțumire, 
+Dau slavă-n veșnicie
 Că Isus a-nviat.
-Speranța-n El îmi este, Isus mă mântuiește,
+Speranța-n El îmi este, 
+Isus mă mântuiește,
 Pe veci El a-nviat.
 
-[4]
-Azi cânt cu bucurie, Dau slavă-n veșnicie
+[3]
+Azi cânt cu bucurie, 
+Dau slavă-n veșnicie
 Că Isus m-a sfințit.
-M-a spălat de păcate, mi-a dat haine curate,
+M-a spălat de păcate, 
+Mi-a dat haine curate,
 Mi-a dat din Duhul Sfânt.
 
-[5]
-Azi cânt cu bucurie, Dau slavă-n veșnicie
+[4]
+Azi cânt cu bucurie, 
+Dau slavă-n veșnicie
 Că Isus m-a iertat.
-Greșeli, păcate, Fapte mi le-a iertat pe toate,
+Greșeli, păcate, 
+Fapte mi le-a iertat pe toate,
 El totul mi-a iertat.
 
-[6]
-Azi cânt cu bucurie, Dau slavă-n veșnicie
+[5]
+Azi cânt cu bucurie, 
+Dau slavă-n veșnicie
 Că Isus m-a primit.
-Nu sunt orfan pe lume Căci port al Său sfânt nume,
+Nu sunt orfan pe lume 
+Căci port al Său sfânt nume,
 De Tatăl sunt primit.
