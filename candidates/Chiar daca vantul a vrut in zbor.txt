@@ -1,44 +1,41 @@
 [title]
-Chiar daca vantul a vrut in zbor
+Chiar dacă vântul a vrut în zbor
 
 [sequence]
 1,2,3,4,5,6
 
 [1]
-Chiar dacă vântul
-A vrut în zbor
-În turme să ne-mpartă
-Dar tot o cale, tot un dor
-Și tot un duh ne poartă.
+Chiar dacă vântul a vrut în zbor
+În turme să ne-mpartă,
+/: Dar tot o cale, tot un dor
+Și tot un duh ne poartă. :/
 
 [2]
-Chiar dacă azi Pe orice plai
-Sunt oi împrăștiate
-Dar tot un staul Sus în Rai
-Și un Păstor au toate.
+Chiar dacă azi pe orice plai
+Sunt oi împrăștiate,
+/: Dar tot un staul, sus, în Rai
+Și un Păstor au toate. :/
 
 [3]
-Chiar dacă n-am Păstrat măcar
-Un singur dulce nume
-Dar tot o jertfă,
-Tot un har
-Ne-a smuls Pe toți din lume.
+Chiar dacă n-am păstrat măcar
+Un singur dulce nume,
+/: Dar tot o jertfă, tot un har
+Ne-a smuls pe toți din lume. :/
 
 [4]
-Chiar dacă azi Oftăm stingheri
-Că ne-a-mpărțit furtuna
-Dar toți vom Fi odată-n Cer,
-Și-acolo vom fi una.
+Chiar dacă azi oftăm stingheri
+Că ne-a-mpărțit furtuna,
+/: Dar toți vom fi odată-n Cer
+Și-acolo vom fi una. :/
 
 [5]
-Acum când pașii
-Lui Isus
-Se-aud tot mai aproape
-Să ne unim în dragoste,
-Iubind frate pe frate.
+Acum când pașii lui Isus
+Se-aud tot mai aproape,
+/: Să ne unim în dragoste,
+Iubind frate pe frate. :/
 
 [6]
 Veniți în jurul lui Isus
 Să înfruntăm furtuna
-Căci El E singurul Păstor
-Iar turma Sfântă-i una.
+/: Căci El E singurul Păstor
+Iar turma Sfântă-i una. :/
