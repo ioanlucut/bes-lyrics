@@ -16,7 +16,7 @@
     "string-similarity": "^4.0.4"
   },
   "devDependencies": {
-    "@tsconfig/node-lts": "^18.12.1",
+    "@tsconfig/node-lts": "^18.12.2",
     "@types/fs-extra": "^11.0.1",
     "@types/iconv": "^3.0.1",
     "@types/jest": "^29.5.1",
