@@ -1,28 +1,30 @@
 [title]
-Alergam
+Alergăm
 
+[sequence]
+1,c,2,c,e
+
+[1]
 Alergăm pe un drum fără de țintă,
 Navigăm spre un port fără de țărmuri.
-Ne îndreptăm spre o lume fără vise, Fără Tin'.
+Ne îndreptăm spre o lume fără vise, fără Tin'.
 Încercăm să iertăm fără iubire,
 Căutăm liniște și nemurire.
-Ne dorim să zburăm până la stele, Fără Tin'.
+Ne dorim să zburăm până la stele, fără Tin'.
 
+[chorus]
 /: Căci viața fără Tin', nu are niciun rost,
-Pot să trăiesc sublim dar fără de folos.
+Pot să trăiesc sublim, dar fără de folos.
 Doar în iubirea Ta eu îmi găsesc un sens,
-Și înțeleg Isus că toate sunt prin Tin'. :/
+Și înțeleg, Isus, că toate sunt prin Tin'. :/
 
+[2]
 Anii trec, timpul nu se mai întoarce,
 Tot ce faci se notează într-o carte.
-Și trăim o iluzie frumoasă, Fără Tin'.
+Și trăim o iluzie frumoasă, fără Tin'.
 Mai apoi ne întrebăm ce-i fericirea,
 Negăsind un răspuns și împlinirea.
-Ne trăim viața într-un strop de toamnă, Fără Tin'.
+Ne trăim viața într-un strop de toamnă, fără Tin'.
 
-/: Căci viața fără Tin', nu are niciun rost,
-Pot să trăiesc sublim dar fără de folos.
-Doar în iubirea Ta eu îmi găsesc un sens,
-Și înțeleg Isus că toate sunt prin Tin'. :/
-
- Și înțeleg Isus că toate sunt prin Tin'.
+[ending] 
+Și înțeleg, Isus, că toate sunt prin Tin'.
