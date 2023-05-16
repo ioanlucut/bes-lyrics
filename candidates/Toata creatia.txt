@@ -1,28 +1,28 @@
 [title]
-Toat creatia
+Toată creația
 
 [sequence]
-1,2,3,4
+1,c,2,c,e
 
 [1]
-Toată creația, întreg pământ
-Croiește o cale pentru Cel Sfânt
+Toată creația, întreg pământ,
+Croiește o cale pentru Cel Sfânt.
 Isus vine-n curând,
-Chemați păcătoșii, treziți pe cei sfinți
-Orice popor să-L slăvească pe El
-Isus vine-n curând
+Chemați păcătoșii, treziți pe cei sfinți,
+Orice popor să-L slăvească pe El,
+Isus vine-n curând!
+
+[chorus]
+/: Te așteptăm, vrem să Te vedem
+Ca o mireasă mirele ei.
+Ne e dor de al nostru Domn. :/
+Cântăm: vino-n curând, Doamne, vino!
 
 [2]
-/: Te așteptăm, vrem să Te vedem
-Ca o mireasă mirele ei
-Ne e dor de al nostru Domn: /Cântăm vino-n curând
-Doamne vino
+Va fi răsplata, tot înnoit,
+Numele-Ți mare pe veci proslăvit,
+Isus vine-n curând!
 
-[3]
-/: Va fi răsplata, tot înnoit
-Numele-Ți mare pe veci proslăvit
-Isus vine-n curând :/
-
-[4]
-C: /: Te așteptăm, Te așteptăm Isus
-Te așteptăm cu privirea în sus: /
+[ending]
+/: Te așteptăm, Te așteptăm, Isus!
+Te așteptăm cu privirea în sus! :/
