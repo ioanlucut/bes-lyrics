@@ -1,39 +1,39 @@
 [title]
-Stanca mea tu esti
+Stânca mea Tu ești
 
 [sequence]
-1,2,3,4,5,6
+1,c,2,c,3,c,4,c,5,c
 
 [1]
-Doamne fa al meu cuvant
-Și al mintii mele gand
-Tie Doamne sa le-nchin
+Doamne, fă al meu cuvânt
+Și al minții mele gând,
+Ție, Doamne, să le-nchin,
 Domnul meu!
 
+[chorus]
+Stânca mea Tu ești,
+Salvator în veci!
+
 [2]
-Stanca mea Tu esti
-Salvator in veci!
+Doamne, fă viața mea
+Sfântă înaintea Ta,
+Ție, întreagă să Ți-o-nchin,
+Domnul meu!
 
 [3]
-Doamne fa viata mea
-Sfanta inaintea Ta
-Tie intreaga sa Ti-o-nchin
+Doamne, rugăciunea mea,
+Fă-o cum a fost a Ta!
+Totul Ție să Îți spun,
 Domnul meu!
 
 [4]
-Doamne rugaciunea mea
-Fa-o cum a fost a Ta!
-Totul Tie sa îți spun
+Doamne, fă lumina mea
+Să lucească ca o stea,
+Far în noapte Tu mă fă,
 Domnul meu!
 
 [5]
-Doamne fa lumina mea
-Sa luceasca ca o stea
-Far in noapte Tu ma fa
-Domnul meu!
-
-[6]
-Doamne fa iubirea mea
-Calda, vie ca a Ta
-Toti sa fie prinsi in ea
+Doamne, fă iubirea mea
+Caldă, vie ca a Ta,
+Toți să fie prinși în ea,
 Domnul meu!
