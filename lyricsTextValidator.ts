@@ -1,182 +1,93 @@
-// ---
-// This validator tries to avoid duplicates (`candidates` against the `verified` directory)
-// ---
-
-import _, { isEqual } from 'lodash';
+import _ from 'lodash';
 import fs from 'fs';
-import fsExtra from 'fs-extra';
 import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
-import stringSimilarity from 'string-similarity';
+import { ERROR_CODE, TXT_EXTENSION } from './constants';
+import { assemblyCharsStats, verifyStructure } from './src';
 import recursive from 'recursive-readdir';
-import { parseArgs } from 'node:util';
-import { ALT_SONGS_FILE_SUFFIX } from './constants';
 
 dotenv.config();
-
-const THRESHOLD = 0.65;
-
-const readAllFilesAgainstTheChecksAreDoneOnce = async (againstDir: string) =>
-  (await recursive(againstDir)).map((filePath) => {
-    return {
-      contentAsString: fs.readFileSync(filePath).toString(),
-      fileName: path.basename(filePath),
-      filePath,
-    };
-  });
-
-const computeSimilarity =
-  (candidateFilePath: string) =>
-  ({
-    contentAsString,
-    fileName: existingFileName,
-    filePath: existingFilePath,
-  }: {
-    contentAsString: string;
-    fileName: string;
-    filePath: string;
-  }) => {
-    const candidateContent = fs.readFileSync(candidateFilePath).toString();
-    const similarity = stringSimilarity.compareTwoStrings(
-      contentAsString.toLowerCase(),
-      candidateContent.toLowerCase(),
-    );
-
-    return {
-      similarity,
-      existingFileName,
-      existingFilePath,
-    };
-  };
-
-const findSimilarities = async (
-  potentialDuplicatesDir: string,
-  againstDir: string,
-) => {
-  const verifiedSongs = await readAllFilesAgainstTheChecksAreDoneOnce(
-    againstDir,
-  );
-
-  return (await recursive(potentialDuplicatesDir))
-    .map((candidateFilePath) => {
-      const candidateFileName = path.basename(candidateFilePath);
-
-      return {
-        candidateFileName,
-        candidateFilePath,
-        similarities: verifiedSongs
-          .filter(({ filePath }) => !isEqual(filePath, candidateFilePath))
-          .map(computeSimilarity(candidateFilePath))
-          .filter(({ similarity }) => Boolean(similarity))
-          .filter(({ similarity }) => similarity > THRESHOLD),
-      };
-    })
-    .filter(({ similarities }) => _.negate(_.isEmpty)(similarities));
-};
 
 // ---
 // RUN
 // ---
 
-const {
-  values: { overwrite, removeDuplicates },
-} = parseArgs({
-  options: {
-    overwrite: {
-      type: 'boolean',
-    },
-    removeDuplicates: {
-      type: 'boolean',
-    },
-  },
-});
+(async () => {
+  const arrayOfFileNameAndContent = (
+    await recursive(process.env.VERIFIED_DIR)
+  )
+    .filter((filePath) => filePath.endsWith(TXT_EXTENSION))
+    .map((filePath) => {
+      const fileName = path.basename(filePath);
+      const fileContent = fs.readFileSync(filePath).toString();
 
-const runValidatorAndExitIfSimilar = async (
-  potentialDuplicatesDir: string,
-  againstDir: string,
-) => {
-  const allSimilarities = await findSimilarities(
-    potentialDuplicatesDir,
-    againstDir,
-  );
+      return { fileName, fileContent };
+    });
 
-  const withoutAllowedDuplicates = allSimilarities.filter(
-    ({ candidateFileName, similarities }) =>
-      !ALT_SONGS_FILE_SUFFIX.test(candidateFileName) &&
-      !similarities.every(({ existingFileName }) =>
-        ALT_SONGS_FILE_SUFFIX.test(existingFileName),
-      ),
-  );
+  // ---
+  // Chars problems
+  // ---
 
-  if (!_.isEmpty(withoutAllowedDuplicates)) {
-    const ERROR_CODE = 1;
+  const problematicHits = arrayOfFileNameAndContent
+    .map(({ fileName, fileContent }) =>
+      assemblyCharsStats(fileName, fileContent),
+    )
+    .filter(
+      ({ differenceInContent, differenceInFileName }) =>
+        _.negate(_.isEmpty)(differenceInFileName) ||
+        _.negate(_.isEmpty)(differenceInContent),
+    );
 
-    console.log('Unf., we have found song similarities.');
+  if (!_.isEmpty(problematicHits)) {
+    console.log('Unf., we have found wrong chars.');
 
-    withoutAllowedDuplicates.forEach(
-      ({ candidateFilePath, candidateFileName, similarities }) => {
-        console.group(
-          `"Candidate: ${candidateFileName} from ${path.dirname(
-            candidateFilePath,
-          )}:"`,
-        );
+    const allChars = problematicHits.map(
+      ({ fileName, differenceInFileName, differenceInContent }) => {
+        console.group(`"${fileName}"`);
 
-        similarities.forEach(
-          ({ existingFilePath, existingFileName, similarity }) => {
-            console.log(
-              `- Similar to existing "${existingFileName}" from ${path.dirname(
-                existingFilePath,
-              )} with a similarity score of "${similarity}."`,
-            );
+        if (!_.isEmpty(differenceInFileName)) {
+          console.log(
+            `The difference between the allowed chars and found in file name are: "${differenceInFileName}"`,
+          );
+        }
 
-            if (!fsExtra.pathExistsSync(candidateFilePath)) {
-              return;
-            }
-
-            if (removeDuplicates) {
-              fsExtra.unlinkSync(candidateFilePath);
-            }
-
-            if (overwrite) {
-              fsExtra.moveSync(candidateFilePath, existingFilePath, {
-                overwrite: true,
-              });
-            }
-          },
-        );
+        if (!_.isEmpty(differenceInContent)) {
+          console.log(
+            `The difference between the allowed chars and found in content are: "${differenceInContent}"`,
+          );
+        }
 
         console.groupEnd();
+
+        return _.uniq([...differenceInFileName, ...differenceInContent]);
       },
+    );
+
+    console.log(
+      `A list of all rejected chars are: "${_.uniq(_.flattenDeep(allChars))}"`,
     );
 
     process.exit(ERROR_CODE);
   }
-};
 
-(async () => {
   // ---
-  // Verify if the songs that are verified are unique across them
+  // Structure problems
   // ---
 
-  // await runValidatorAndExitIfSimilar(
-  //   process.env.VERIFIED_DIR,
-  //   process.env.VERIFIED_DIR,
-  // );
+  let isStructureErroneous = false;
 
-  // // ---
-  // // Verify if the songs that are in candidates are unique across them
-  // // ---
-  await runValidatorAndExitIfSimilar(
-    process.env.CANDIDATES_DIR,
-    process.env.CANDIDATES_DIR,
-  );
-  //
-  // // ---
-  // // Verify if the songs that are in candidates are unique across the verified songs
-  // // ---
-  await runValidatorAndExitIfSimilar(
-    process.env.CANDIDATES_DIR,
-    process.env.VERIFIED_DIR,
-  );
+  arrayOfFileNameAndContent.forEach(({ fileName, fileContent }) => {
+    try {
+      verifyStructure(fileContent);
+    } catch (error: any) {
+      console.log(`"${fileName}": `, error.message);
+
+      isStructureErroneous = true;
+    }
+  });
+
+  if (isStructureErroneous) {
+    process.exit(ERROR_CODE);
+  }
 })();

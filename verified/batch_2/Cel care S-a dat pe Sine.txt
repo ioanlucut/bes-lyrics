@@ -1,5 +1,5 @@
 [title]
-Cel care s-a dat pe sine (the messengers)
+Cel care s-a dat pe sine
 
 [sequence]
 1,c,2,c,3,c

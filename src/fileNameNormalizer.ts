@@ -12,6 +12,7 @@ export const normalizeFileName = (fileName: string) =>
           .replaceAll('  ', ' ')
           .replaceAll(' .', '.')
           .replaceAll('!', EMPTY_STRING)
+          .replaceAll(',', EMPTY_STRING)
           .replaceAll('(', EMPTY_STRING)
           .replaceAll(')', EMPTY_STRING)
           .replaceAll(';', EMPTY_STRING)

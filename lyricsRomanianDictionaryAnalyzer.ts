@@ -128,9 +128,9 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
     if (saveToDictionary) {
       fs.writeFileSync(
         customDictionaryFileName,
-        _.uniq([...existingCustomWords, ...unknownOrIncorrectWords])
-          .sort()
-          .join(NEW_LINE),
+        _.uniq([...existingCustomWords, ...unknownOrIncorrectWords]).join(
+          NEW_LINE,
+        ),
       );
     }
 

@@ -15,7 +15,7 @@ import { ALT_SONGS_FILE_SUFFIX } from './constants';
 
 dotenv.config();
 
-const THRESHOLD = 0.7;
+const THRESHOLD = 0.65;
 
 const readAllFilesAgainstTheChecksAreDoneOnce = async (againstDir: string) =>
   (await recursive(againstDir)).map((filePath) => {
@@ -28,27 +28,27 @@ const readAllFilesAgainstTheChecksAreDoneOnce = async (againstDir: string) =>
 
 const computeSimilarity =
   (candidateFilePath: string) =>
-  ({
-    contentAsString,
-    fileName: existingFileName,
-    filePath: existingFilePath,
-  }: {
-    contentAsString: string;
-    fileName: string;
-    filePath: string;
-  }) => {
-    const candidateContent = fs.readFileSync(candidateFilePath).toString();
-    const similarity = stringSimilarity.compareTwoStrings(
-      contentAsString.toLowerCase(),
-      candidateContent.toLowerCase(),
-    );
+    ({
+       contentAsString,
+       fileName: existingFileName,
+       filePath: existingFilePath,
+     }: {
+      contentAsString: string;
+      fileName: string;
+      filePath: string;
+    }) => {
+      const candidateContent = fs.readFileSync(candidateFilePath).toString();
+      const similarity = stringSimilarity.compareTwoStrings(
+        contentAsString.toLowerCase(),
+        candidateContent.toLowerCase(),
+      );
 
-    return {
-      similarity,
-      existingFileName,
-      existingFilePath,
+      return {
+        similarity,
+        existingFileName,
+        existingFilePath,
+      };
     };
-  };
 
 const findSimilarities = async (
   potentialDuplicatesDir: string,
@@ -158,7 +158,7 @@ const runValidatorAndExitIfSimilar = async (
   // ---
   // Verify if the songs that are verified are unique across them
   // ---
-  //
+
   // await runValidatorAndExitIfSimilar(
   //   process.env.VERIFIED_DIR,
   //   process.env.VERIFIED_DIR,
@@ -167,10 +167,10 @@ const runValidatorAndExitIfSimilar = async (
   // // ---
   // // Verify if the songs that are in candidates are unique across them
   // // ---
-  // await runValidatorAndExitIfSimilar(
-  //   process.env.CANDIDATES_DIR,
-  //   process.env.CANDIDATES_DIR,
-  // );
+  await runValidatorAndExitIfSimilar(
+    process.env.CANDIDATES_DIR,
+    process.env.CANDIDATES_DIR,
+  );
   //
   // // ---
   // // Verify if the songs that are in candidates are unique across the verified songs
