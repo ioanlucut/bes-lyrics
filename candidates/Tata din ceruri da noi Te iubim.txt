@@ -1,8 +1,8 @@
 [title]
-Tata din ceruri da noi te iubim
+Tată din ceruri, da, noi Te iubim
 
 [sequence]
-1,2
+1,c,1,c
 
 [1]
 Tată din ceruri, da, noi Te iubim
@@ -10,6 +10,6 @@ Tată din ceruri, da, noi Te iubim
 Fie-n laudă zidită-mpărăția Ta
 Noi, copiii Tăi, vestim lucrarea Ta.
 
-[2]
-BINECUVÂNTAT FII, O, DOAMNE CE-AI FOST, EXIȘTI ȘI VEI MAI FII,
-BINECUVÂNTAT FII, O, DOAMNE CE-MPĂRĂȚEȘTI ÎN VECI.
+[chorus]
+Binecuvântat fii, o, Doamne, ce-ai fost, exiști și vei mai fi,
+Binecuvântat fii, o, Doamne, ce-mpărățești în veci.

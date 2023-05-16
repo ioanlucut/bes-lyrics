@@ -1,24 +1,24 @@
 [title]
-Mireasma de iertare la calvar sus pe o cruce
+Mireasmă de iertare la Calvar, sus, pe o cruce
 
 [sequence]
-1,2,3
+1,c,2,c
 
 [1]
-M-ai născut, În lacrimi și durere
-Cu un dor de iertare În pieptul Tău
-Zbor înfrânt Și-a găsit alinare
-În Cuvântul întrupat În Dumnezeu.
+M-ai născut în lacrimi și durere,
+Cu un dor de iertare în pieptul Tău.
+Zbor înfrânt și-a găsit alinare
+În Cuvântul întrupat în Dumnezeu.
 
-[2]
-La Calvar, sus pe o cruce,
-Iubirea a fost jertfă și altar
+[chorus]
+La Calvar, sus, pe o cruce,
+Iubirea a fost jertfă și altar,
 Împăcând toată omenirea
-Cu Creatorul Său, Cu Tatăl Dumnezeu
+Cu Creatorul Său, cu Tatăl Dumnezeu
 Pentru veșnicie!
 
-[3]
-M-ai cuprins Cu mâinile-amândouă
-Ce purtau semnele Că mă iubești
-Și-am simțit o mireasmă De iertare
-Ce mi-a umplut inima Cu Dumnezeu.
+[2]
+M-ai cuprins cu mâinile-amândouă
+Ce purtau semnele că mă iubești
+Și-am simțit o mireasmă de iertare,
+Ce mi-a umplut inima cu Dumnezeu.

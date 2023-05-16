@@ -1,27 +1,27 @@
 [title]
-Cu bucurie sa i cantati
+Cu bucurie să-I cântați
 
 [sequence]
 1,2,3
 
 [1]
-Cu bucurie sa-I cantati:
-Mesia S-a nascut!
-Va inchinati, Il laudati,
-/: Pamant si cer de sus :/
-Cantati, pamant si cer de sus
+Cu bucurie să-I cântați: 
+Mesia S-a născut!
+Vă închinați, Îl lăudați,
+/: Pământ și cer de sus, :/
+Cântați, pământ și cer de sus.
 
 [2]
-Cu bucurie sa-L primiti
-pe Regele Isus;
-In inima, cu dragoste,
-/: El sa-si gaseasca loc! :/
-Cu drag El sa-si gaseasca loc!
+Cu bucurie să-L primiți
+Pe Regele Isus!
+În inimă, cu dragoste,
+/: El să-și găsească loc! :/
+Cu drag El să-și găsească loc!
 
 [3]
-In maretie va domni
-cu-ai Sai rascumparati!
-Veniti cu toti sa-L adoram
-/: Și sa-L slujim pe El :/
-Veniti, sa Il slujim pe El.
-Veniti, sa Il slujim pe El!
+În măreție va domni
+Cu-ai Săi răscumpărați!
+Veniți cu toți să-L adorăm
+/: Și să-L slujim pe El! :/
+Veniți, să Îl slujim pe El.
+Veniți, să Îl slujim pe El!

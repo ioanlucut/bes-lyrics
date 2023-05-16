@@ -1,50 +1,47 @@
 [title]
-Cand sunt mic atunci sunt mare
+Când sunt mic atunci sunt mare
 
 [sequence]
-1,2,3,4,5,6,7
+1,c,2,c,3,c,4,c,5,c,6,c
 
 [1]
-Când sunt mic Atunci sunt mare
-Cânt voios Când lupta-i grea
-Când sunt slab
-Atunci sunt tare
+Când sunt mic, atunci sunt mare,
+Cânt voios când lupta-i grea,
+Când sunt slab, atunci sunt tare
 Căci Isus e stânca mea.
 
-[2]
-Munții de s-ar clătina
-Vântul mare de-a sufla
-Ape de s-ar revărsa
-Isus, Isus Ești pacea mea.
+[chorus]
+Munții de s-ar clătina,
+Vântul mare de-a sufla,
+Ape de s-ar revărsa,
+Isus, Isus, ești pacea mea.
 
-[3]
-Chiar de n-ar Mai fi izvoare
-Și de sete m-aș usca
-În nevoi ș-in destulare
+[2]
+Chiar de n-ar mai fi izvoare
+Și de sete m-aș usca,
+În nevoi și-ndestulare
 Te voi binecuvânta.
 
-[4]
-Vânturi grele De vor bate
-Eu mă-ncred În dumnezeu
-Căci în cer În sfânta carte
+[3]
+Vânturi grele de vor bate
+Eu mă-ncred în Dumnezeu
+Căci în cer, în sfânta carte
 Este scris numele meu.
 
-[5]
-Chiar de-aș fi La strâmtorare
-Chiar și-n lanțuri
-De-aș fi pus
+[4]
+Chiar de-aș fi la strâmtorare,
+Chiar și-n lanțuri de-aș fi pus,
 În orice împrejurare
-Ținta mea ești tu Isus.
+Ținta mea ești, Tu, Isus.
 
-[6]
-Pentru noi, Chiar de e pace
-Pentru noi Chiar de-i război
-Nu ne temem niciodată
+[5]
+Pentru noi, chiar de e pace,
+Pentru noi, chiar de-i război,
+Nu ne temem niciodată,
 Dumnezeu este cu noi.
 
-[7]
-Dumnezeu Din slăvi divine
-Sfânt, sfânt, sfânt
-În veci e el
-Cel ce-a fost, Ce e, ce vine
+[6]
+Dumnezeu din slăvi divine,
+Sfânt, sfânt, sfânt în veci e El,
+Cel ce-a fost, ce e, ce vine,
 E Sfântul lui Israel.

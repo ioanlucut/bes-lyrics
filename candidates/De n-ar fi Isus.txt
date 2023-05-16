@@ -1,12 +1,12 @@
 [title]
-De n ar fi isus (refren)
+De n-ar fi Isus
 
 [sequence]
-1
+c
 
-[1]
-ISUS, O ISUS
-ÎL CUNOȘTI TU ACUM 
-PE PĂSTORUL MEU BUN
-O ISUS, SCUMP ISUS
-CU TINE MĂ SIMT FERICIT!
+[chorus]
+Isus, o, Isus,
+Îl cunoști, tu, acum
+Pe păstorul meu bun?
+O, Isus, scump Isus,
+Cu Tine mă simt fericit!

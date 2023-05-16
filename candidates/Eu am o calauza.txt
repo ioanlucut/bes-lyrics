@@ -1,21 +1,22 @@
 [title]
-Eu am o calauza
+Eu am o călăuză
 
 [sequence]
-1,2,3
+1,c,2,c
 
 [1]
-Pe Tin’ te laud Isuse
-Pentru bunătatea Ta
+Pe Tin’ Te laud, Isuse,
+Pentru bunătatea Ta,
 Pentru-a Ta milă nespusă
-Ce-o arăți în viața mea
+Ce-o arăți în viața mea.
+
+[chorus]
+Eu am o călăuză pe acest pământ străin
+Și-n orice-mprejurare 
+Tu îmi ești al meu sprijin!
 
 [2]
-R: Eu am o călăuză pe acest pământ străin
-Și-n orice-mprejurare Tu îmi ești al meu sprijin
-
-[3]
-Ajută-ne o Doamne
-Să îți facem voia Ta
+Ajută-ne, o, Doamne,
+Să Îți facem voia Ta,
 Toți ca să putem ajunge
-Sus în Cer în casa Ta
+Sus în Cer în casa Ta.

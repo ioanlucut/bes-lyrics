@@ -1,27 +1,23 @@
 [title]
 Doar un Aleluia
 
-Nu mai am nimic
-Nu am ce să spun
-Să pot exprima
-Recunoștința mea
+[sequence]
+1,c,2,c
 
-Aș putea cânta
-Dar s-ar termina
-Melodia mea
-Nu și gloria Ta
+[1]
+Nu mai am nimic, nu am ce să spun
+Să pot exprima recunoștința mea.
+Aș putea cânta, dar s-ar termina
+Melodia mea nu și gloria Ta.
 
-Îmi ridic mâinile, din nou să te laud Isus
-Mi-a mai rămas doar un Aleluia, Aleluia
-Nu am nimic vrednic de Tine, Isus
-Mi-a mai rămas doar un Aleluia, Aleluia
+[chorus]
+Îmi ridic mâinile, din nou să Te laud, Isus,
+Mi-a mai rămas doar un Aleluia, Aleluia,
+Nu am nimic vrednic de Tine, Isus,
+Mi-a mai rămas doar un Aleluia, Aleluia.
 
-Nu am nici un gând
-Am doar un răspuns
-Cu mâinile spre cer
-Mă închin Isus
-
-Suflet al meu, înalță-ți glasul și
-Nu amâna, leul din tine
-E gata să strige
-Mare e Dumnezeu
+[2]
+Nu am nici un gând, am doar un răspuns,
+Cu mâinile spre cer mă închin, Isus.
+Suflet al meu, înalță-ți glasul și Nu amâna, 
+Leul din tine, e gata să strige: mare e Dumnezeu!

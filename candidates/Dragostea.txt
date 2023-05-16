@@ -2,29 +2,29 @@
 Dragostea
 
 [sequence]
-1,2,3,4
+1,c,2,c,3
 
 [1]
-Dragostea1 Corinteni 13
+Dragostea 1 Corinteni 13
+
+[chorus]
+/: Și n-aș avea dragoste...nu aș fi nimic!
+Fără dragoste, cu daruri, taine vom pieri.
+Fără dragoste, frumosul cer n-ar mai sclipi,
+Doar prin dragoste vom dăinui. :/
 
 [2]
-/: Și n-aș avea Dragoste...nu aș fi nimic!
-Fără Dragoste, cu daruri, taine vom pieri.
-Fără Dragoste, frumosul cer n-ar mai sclipi
-Doar prin Dragoste vom dăinui :/
+Chiar dacă-aș vorbi în limbi omenești
+Și-ale îngerilor versuri de-aș cânta,
+Chiar dacă un dar din ceruri aș primi
+Și credința-n mine toată de-aș avea,
+Celor săraci averea să le-o’împart,
+Chiar trupul de le-aș da să fie ars.
 
 [3]
-Chiar dacă-aș vorbi în limbi omenești
-Și-ale îngerilor versuri de-aș cânta
-Chiar dacă un dar din ceruri aș primi
-Și credința-n mine toată de-aș avea
-Celor săraci averea să le-o’împart
-Chiar trupul de le-aș da să fie ars
-
-[4]
-Cine poate fi-îndelung, răbdător
-Plin de bunătate, umil, iertător
-Prin Dragoste poți tu oricând să fi smerit
-Și să te jertfești cum Isus s-a jertfit
-Celor săraci averea să le-o’împart
-Chiar trupul de le-aș da să fie ars
+Cine poate fi-îndelung, răbdător,
+Plin de bunătate, umil, iertător,
+Prin dragoste poți tu oricând să fii smerit
+Și să te jertfești cum Isus S-a jertfit.
+Celor săraci averea să le-o’împart,
+Chiar trupul de le-aș da să fie ars.

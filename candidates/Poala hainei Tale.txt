@@ -1,22 +1,19 @@
 [title]
-Poala hainei tale
+Poala hainei Tale
 
 [sequence]
-1,2,3,4
+1,c,e
 
 [1]
-/: Poala hainei Tale, umple Templul Sfânt
-Mă-nchin cu reverență, cu fața la pământ :/
+/: Poala hainei Tale, umple Templul Sfânt,
+Mă-nchin cu reverență, cu fața la pământ. :/
 
-[2]
-undefined
-
-[3]
-M-ating de poala hainei Tale și sunt vindecat
-Prin Tine eu primesc viață și sunt eliberat
-Duhul Tău e peste mine, sunt uimit de-a Ta iubire
+[chorus]
+M-ating de poala hainei Tale și sunt vindecat,
+Prin Tine eu primesc viață și sunt eliberat.
+Duhul Tău e peste mine, sunt uimit de-a Ta iubire,
 Tu faci să plouă o ungere nouă!
 
-[4]
-/: Nimeni nu e ca Tine, Isus
-Nimeni nu e ca Tine, Isus :/
+[ending]
+/: Nimeni nu e ca Tine, Isus!
+Nimeni nu e ca Tine, Isus! :/

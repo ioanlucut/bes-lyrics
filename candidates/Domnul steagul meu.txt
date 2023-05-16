@@ -1,8 +1,8 @@
 [title]
-Domnul steagul meu
+Domnul, steagul meu
 
 [sequence]
-1,2,3
+1,p,c
 
 [1]
 Știu că Tu mă asculți,
@@ -10,15 +10,11 @@ Când Te chem mă ajuți.
 În necaz mă ocrotești,
 Mă sprijinești. (2x)
 
-[2]
-Chiar de voi cădea,
-Mă vei ridica,
-Te voi înălța,
-Toată viața mea.
+[prechorus]
+Chiar de voi cădea, mă vei ridica,
+Te voi înălța, toată viața mea.
 
-[3]
-NE VOM BUCURA
-DE BIRUINȚA TA
-ÎN NUMELE TĂU
-SPRE SLAVA TA
-STEAGUL VOM FLUTURA
+[chorus]
+Ne vom bucura de biruința Ta,
+În numele Tău, spre slava Ta,
+Steagul vom flutura.

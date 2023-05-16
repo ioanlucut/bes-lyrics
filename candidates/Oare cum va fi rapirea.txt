@@ -1,27 +1,27 @@
 [title]
-Oare cum va fi rapirea
+Oare cum va fi răpirea
 
 [sequence]
-1,2,3,4
+1,c,2,c,3,c
 
 [1]
 Oare cum va fi răpirea?
 Oare când vom fi luați?
-Doamne fă să vină ceasul,
+Doamne, fă să vină ceasul,
 Când acas’ vom fi chemați!
 Așteptăm evenimentul,
 Când de-aici surori și frați,
 Vom străbate Universul,
 Fiind de Duhul transformați!
 
-[2]
-Răpirea! Răpirea!
+[chorus]
+/: Răpirea! Răpirea!
 Aceasta în curând se va-ntâmpla!
-Tu frate, tu soră!
-De vei fi gata Domnul te va lua!
+Tu, frate, tu, soră!
+De vei fi gata Domnul te va lua! :/
 
-[3]
-O ce mare întristare,
+[2]
+O, ce mare întristare,
 Peste lume va veni!
 Peste cei ce-or vedea sfinții,
 Cum la cer Îi va răpi!
@@ -30,12 +30,12 @@ Chiar prin adunări vor fi!
 Cei ce vor rămâne-n vale,
 Cu amar se vor căi!
 
-[4]
-Cei ce au respins pe Domnul,
+[3]
+Cei ce au respins pe Domnul
 Și-au glumit mereu râzând,
 Ei vor pierde veșnicia,
 Vor rămâne pe pământ!
 Este timpul de trezire,
 Fraților și pentru noi,
-Să pornim cu zel ’nainte,
+Să pornim cu zel ’nainte
 Și vom fi biruitori!

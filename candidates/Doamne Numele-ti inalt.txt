@@ -1,26 +1,20 @@
 [title]
-Doamne Numele-ti inalt
+Doamne, numele-Ți înalț
 
-Doamne, numele-Ţi înalţ
-Doamne laudă-Ţi cânt Ţie
-Fericit sunt că Te am
-Fericit de a Ta iertare
+[sequence]
+1,c,1,c
 
-TU AI VENIT PE PĂMÂNT, SĂ NE SALVEZI
-SUS PE CRUCE TE-AI JERTFIT, IERTAȚI SĂ FIM
+[1]
+Doamne, numele-Ți înalţ!
+Doamne, laudă-Ți cânt Ţie!
+Fericit sunt că Te am,
+Fericit de a Ta iertare.
 
-DE PE CRUCE ÎN MORMÂNT
-DIN MORMÂNT SUS LA CER
-SĂ FII ÎNĂLȚAT MEREU
-
-Doamne, numele-Ţi înalţ
-Doamne laudă-Ţi cânt Ţie
-Fericit sunt că Te am
-Fericit de a Ta iertare
-
-TU AI VENIT PE PĂMÂNT, SĂ NE SALVEZI
-SUS PE CRUCE TE-AI JERTFIT, IERTAȚI SĂ FIM
-
-DE PE CRUCE ÎN MORMÂNT
-DIN MORMÂNT SUS LA CER
-SĂ FII ÎNĂLȚAT MEREU
+[chorus]
+/: Tu ai venit pe pământ, 
+Să ne salvezi,
+Sus pe cruce Te-ai jertfit, 
+Iertați să fim.
+De pe cruce în mormânt,
+Din mormânt sus la cer
+Să fii înălțat mereu! :/

@@ -1,36 +1,35 @@
 [title]
-Tu n ai sub soare asemanare tu esti iubirea mea
+Tu n-ai sub soare asemănare, Tu ești iubirea mea
 
 [sequence]
-1,2,3,4,5
+1,c,2,c,3,c,4,c
 
 [1]
-Tu n-ai sub soare, Asemănare,
-Ești necuprins, Ești nemărginit;
-Iubirea-Ți sfântă, E o splendoare,
-Pe drept Isuse, Tu ești iubit.
+Tu n-ai sub soare asemănare,
+Ești necuprins, ești nemărginit.
+Iubirea-Ți sfântă e o splendoare,
+Pe drept, Isuse, Tu ești iubit.
+
+[chorus]
+/: Tu ești iubirea mea,
+Tu-mi ești Comoara vieții,
+Soarele meu frumos 
+Din zorii dimineții. :/
 
 [2]
-Tu ești iubirea mea,
-Tu-mi ești Comoara vieții,
-Soarele meu frumos Din zorii dimineții.
+Îți cântă marea, Îți cântă cerul,
+Și mii de astre-n a lor loc
+Căci Tu ești Calea și-Adevărul,
+Ești cel mai frumos din univers.
 
 [3]
-Îți cântă marea, Îți cântă cerul,
-Și mii de astre-n a lor loc;
-Căci Tu ești Calea
-Și-Adevărul,
-Ești cel mai frumos
-Din univers.
+Tu ești iubirea, Neprihănirea,
+Pe-a Tale buze e-un râu de har.
+Tu locuiești sus în strălucire,
+Tu ești cel mai scump mărgăritar.
 
 [4]
-Tu ești iubirea, Neprihănirea,
-Pe-a Tale buze, E-un râu de har;
-Tu locuiești sus În strălucire,
-Tu ești Eel mai scump mărgăritar.
-
-[5]
-Ești sprijin tare, În încercare,
-Ești ușurare În ceasul greu;
+Ești sprijin tare, în încercare,
+Ești ușurare în ceasul greu.
 În strâmtorare, Turn de scăpare,
-Din veșnicii Ești Dumnezeu.
+Din veșnicii ești Dumnezeu.

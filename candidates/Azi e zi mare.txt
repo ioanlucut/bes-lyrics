@@ -2,31 +2,24 @@
 Azi e zi mare
 
 [sequence]
-1,2,3,4
+1,c,2,c,3,c,4,c
 
 [1]
-Azi e zi mare, zi de sărbătoare, Și fiecare e vesel mulțumit. (2x) FRAȚILOR, SURORILOR,
-BINE, BINE, BINE AȚI VENIT LA NOI!
-FRAȚILOR, SURORILOR,
-BINE, BINE, BINE AȚI VENIT!
+Azi e zi mare, zi de sărbătoare, 
+Și fiecare e vesel mulțumit. (2x) 
+
+[chorus]
+Fraților, surorilor, bine, bine, bine ați venit la noi!
+Fraților, surorilor, bine, bine, bine ați venit la noi!
 
 [2]
 De n-aveți mese și mâncări alese,
-Pentru aceasta să nu vă-ngrijorați. (2x)FRAȚILOR, SURORILOR,
-BINE, BINE, BINE AȚI VENIT LA NOI!
-FRAȚILOR, SURORILOR,
-BINE, BINE, BINE AȚI VENIT!
+Pentru aceasta să nu vă-ngrijorați. (2x)
 
 [3]
 Din alte sate mai îndepărtate,
-Ca la un frate cu drag noi am venit. (2x)FRAȚILOR, SURORILOR,
-BINE, BINE, BINE AȚI VENIT LA NOI!
-FRAȚILOR, SURORILOR,
-BINE, BINE, BINE AȚI VENIT!
+Ca la un frate cu drag noi am venit. (2x)
 
 [4]
 Masa e cântul, pâinea e Cuvântul,
-Și Duhul Sfânt ne dă tot ce noi dorim. (2x)FRAȚILOR, SURORILOR,
-BINE, BINE, BINE AȚI VENIT LA NOI!
-FRAȚILOR, SURORILOR,
-BINE, BINE, BINE AȚI VENIT!
+Și Duhul Sfânt ne dă tot ce noi dorim. (2x)

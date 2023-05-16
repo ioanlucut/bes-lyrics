@@ -1,35 +1,35 @@
 [title]
-Tata ce bun esti
+Tată, ce bun ești
 
 [sequence]
-1,2,3,4
+1,c,2,b,c
 
 [1]
-Tata ce bun esti
-Slava ti-ai lasat
-M-ai luat din intuneric
+Tată, ce bun ești!
+Slava Ți-ai lăsat,
+M-ai luat din întuneric
 Și mi-ai dat pacea Ta.
-Esti plin de mila
-Tu esti cel ce ma ajuti
-Doamne, vreau sa îți cant!
+Ești plin de milă,
+Tu ești cel ce mă ajuți
+Doamne, vreau să Îți cânt!
+
+[chorus]
+Credincios Tu ești,
+Credincios ai fost, ești și vei fi!
+Credincios Tu ești,
+Tot ce tu promiți e: da și Amin.
 
 [2]
-Credincios Tu esti
-Credincios ai fost, esti si vei fi
-Credincios Tu esti
-Tot ce tu promiti e da si Amin.
-
-[3]
-Esti Salvatorul
-Tu m-ai ridicat
-M-ai scos din cenusa
-Și ai rupt orice blestem
-Mantuitor esti
+Ești Salvatorul,
+Tu m-ai ridicat,
+M-ai scos din cenușă
+Și ai rupt orice blestem.
+Mântuitor ești,
 Pe captivi eliberezi
-Doamne, vreau sa îți cant!
+Doamne, vreau să Îți cânt!
 
-[4]
+[bridge]
 Da, eu cred
-In cuvantul tau
+În cuvântul Tău!
 Stau ancorat
-In tot ce ai promis
+În tot ce ai promis!

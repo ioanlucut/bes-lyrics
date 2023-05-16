@@ -1,41 +1,41 @@
 [title]
-Jertfa de miros placut
+Jertfă de miros plăcut
 
 [sequence]
-1,2,3,4,5,6
+1,c,2,c,3,c,4,c,e
 
 [1]
-Jertfă de miros plăcut vreau Doamne
-Să fie ruga mea ’naintea Ta,
+Jertfă de miros plăcut vreau, Doamne,
+Să fie ruga mea ’naintea Ta.
 Vreau spre mine să-Ți întorci privirea,
-Doresc, o, mare Preot mila Ta.
+Doresc, o, mare Preot, mila Ta.
+
+[chorus]
+Doar Tu ești Dumnezeu
+Și veșnic Te voi lăuda,
+Doar Tu ești Domnul meu
+Și gloria Ta o voi cânta.
 
 [2]
-DOAR TU EȘTI DUMNEZEU
-ȘI VEȘNIC TE VOI LĂUDA,
-DOAR TU EȘTI DOMNUL MEU
-ȘI GLORIA TA O VOI CÂNTA.
-
-[3]
 Iubirea Ta mă ține azi aproape,
 În inimă eu strâng Cuvântul Tău,
 Păzește-mi sufletul de fărdelege
 Ca voia mea să fie voia Ta.
 
-[4]
+[3]
 Puterea Ta este desăvârșită,
-Ești mai presus de orice muritor
+Ești mai presus de orice muritor.
 De aceea gândul mi-e îndreptat spre Tine
 În orice zi, de-i soare sau sunt nori.
 
-[5]
+[4]
 Credincioșia Ta mă însoțește,
 Pe calea-ngustă sarcina nu-i grea
 Căci Tu iubești o inimă smerită,
 Vin să-mi las acum mândria mea.
 
-[6]
+[ending]
 Și în zori mă-ndrept spre Tine,
 Calea Ta mă-nvață s-o urmez
-Și pas cu pas condu-mă,
+Și pas cu pas, condu-mă,
 Să-ajung în slavă e tot ce-mi doresc.

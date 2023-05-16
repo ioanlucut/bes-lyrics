@@ -1,5 +1,5 @@
 [title]
-Dragostea i din dumnezeu
+Dragostea-i din Dumnezeu
 
 [sequence]
 1,2,3,4
@@ -7,7 +7,7 @@ Dragostea i din dumnezeu
 [1]
 Chiar când toate s-o sfârși,
 Cunoștința de-ar muri,
-Ea, dragostea va rămânea,
+Ea, dragostea, va rămânea,
 Veșnic, pururea.
 
 [2]
@@ -16,7 +16,7 @@ Dragostea e Dumnezeu,
 Dragostea, singura, ea va rămânea.
 Prorociile s-or sfârși, 
 Limbile vor înceta,
-Dar în veci, rămâne DRAGOSTEA.
+Dar în veci, rămâne dragostea.
 
 [3]
 Chiar atunci când ți-este greu,
@@ -26,8 +26,8 @@ Nu ești părăsit.
 
 [4]
 Lângă tine-i Dumnezeu,
-Lângă tine-i brațul Său
-Toto ce-i rău, în jurul tău,
+Lângă tine-i brațul Său,
+Tot ce-i rău, în jurul tău,
 Nu va mai exista.
 Ceața se va risipi
 Și un glas îți va șopti:

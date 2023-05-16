@@ -1,49 +1,44 @@
 [title]
-La calvar
+La Calvar
 
 [sequence]
-1,2,3,4,5,6,7
+1,c,2,c,b,c
 
 [1]
-UIMIT DE-ATÂTA BOGĂȚIE
-CE AM GĂSIT-O DOAMNE-N TIN’
-MĂ-NTREB CE-AȘ FI FĂRĂ DE TINE
-ÎN VIAȚA-ACEASTA DE SUSPIN?
+Uimit de-atâta bogăție
+Ce am găsit-o, Doamne-n Tine’,
+Mă-ntreb, ce-aș fi fără de Tine
+În viața-aceasta de suspin?
+
+Credința, pacea, dragostea
+Ce le-am primit din mâna Ta,
+Pentru nimic nu le-aș schimba,
+Isus, ești fericirea mea!
+
+[chorus]
+La Calvar păcatul mi-e șters,
+La Calvar eu har primesc,
+La Calvar mântuire am în dar,
+Îți mulțumesc, Isus, pentru Calvar!
 
 [2]
-LA CALVAR, PĂCATUL MI-E ȘTERS
-LA CALVAR, EU HAR PRIMESC
-LA CALVAR, MÂNTUIRE AM ÎN DAR
-ÎȚI MULȚUMESC ISUS PENTRU CALVAR!
+Cine sunt eu să pot intra,
+Doamne-n, împărăția Ta?
+Nu merit și nu voi putea
+Să-Ți răsplătesc iubirea Ta.
 
-[3]
-CREDINȚA, PACEA, DRAGOSTEA
-CE LE-AM PRIMIT DIN MÂNA TA,
-PENTRU NIMIC NU LE-AȘ SCHIMBA
-ISUS EȘTI FERICIREA MEA.
+Dar pot să spun la toți, Isus,
+De harul dragostei de sus
+Ce se găsește-n jertfa Ta.
+Veniți și voi la Golgota!
 
-[4]
-CINE SUNT EU SĂ POT INTRA
-DOAMNE’
-N ÎMPĂRĂȚIA TA?
-NU MERIT ȘI NU VOI PUTEA
-SĂ-ȚI RĂSPLĂTESC IUBIREA TA.
+[bridge]
+De n-ar fi Golgota, 
+N-am ști ce-i dragostea,
+N-am ști ce-s bucurii
+Și zâmbet de copii.
 
-[5]
-DAR POT SĂ SPUN LA TOȚI ISUS
-DE HARUL DRAGOSTEI DE SUS
-CE SE GĂSEȘTE’
-N JERTFA TA
-VENIȚI SI VOI LA GOLGOTA.
-
-[6]
-DE N-AR FI GOLGOTA, 
-N-AM ȘTI CE-I DRAGOSTEA
-N-AM ȘTI CE-S BUCURII
-ȘI ZÂMBET DE COPII
-
-[7]
-ERAM PERDUȚI PE VECI
-LEGAȚI ÎN LANȚURI RECI
-DE MOARTE ȘI PĂCAT
-DAR ISUS NE-A SALVAT.
+Eram pierduți pe veci,
+Legați în lanțuri reci
+De moarte și păcat,
+Dar Isus ne-a salvat.

@@ -1,20 +1,19 @@
 [title]
-Canta striga bate din palme
+Cântă, strigă, bate din palme
 
 [sequence]
-1,2
+c,1,c,1
+
+[chorus]
+Cântă, strigă, bate din palme,
+Stăpânului dă-I laudă,
+Pleacă-te ’naintea Domnului,
+Cântă, strigă, bate din palme,
+Stăpânului dă-I laudă,
+Căci El e un mare Dumnezeu. (2x)
 
 [1]
-CÂNTĂ, STRIGĂ, BATE DIN PALME
-STĂPÂNULUI DĂ-I LAUDĂ,
-PLEACĂ-TE ’
-NAINTEA DOMNULUI,
-CÂNTĂ, STRIGĂ, BATE DIN PALME
-STĂPÂNULUI DĂ-I LAUDĂ,
-CĂCI EL E UN MARE DUMNEZEU. (2x)
-
-[2]
 Astăzi e zi de sărbătoare,
-E ziua când ne bucurăm
+E ziua când ne bucurăm.
 Mărețul Rege ne-a eliberat,
 Să-I dăm laudă Numelui Său.

@@ -1,24 +1,33 @@
 [title]
-Aimis c-ai sa revii
+Ai promis c-ai să revii
 
-1. Uniti in templul Tau Sfant, Ne-am adunat Isuse te chemam
-Dorim a Ta prezenta, Sa fie in permanenta intre noi
-Sa fi cu noi pe cale, Chair si in incercare sa ne ti
-Curati pe calea Ta, Pana la reveniereaTa
-Cand la Tine vom pleca
+[sequence]
+1,c,2,c,3,c
 
-C: Ai promis c-ai sa revi, Te-asteptam al nostru Domn
-Sa ne duci in vesnici, Unde sa ne bucuram
-Cu Tine-o vesnicie
+[1]
+Uniți în templul Tău Sfânt ne-am adunat, Isuse, Te chemăm! 
+Dorim a Ta prezență, să fie în permanență între noi.
+Să fii cu noi pe cale, chiar și în încercare să ne ții
+Curați pe calea Ta, până la revenirea Ta 
+Când la Tine vom pleca!
 
-2. Coboara cu putere, Si atingete de cel ce este slab
-Mai fa o scaldatoare, Si vindeca pe cel ce e bolnav
-Biserica sa fie mereu, umpluta de puterea Ta
-Curati sa fim mereu, Pe cale Domnul meu
-Chiar si cand drumu-i greu
+[chorus]
+Ai promis c-ai să revii, 
+Te-așteptăm, al nostru Domn,
+Să ne duci în veșnicii,
+Unde să ne bucurăm
+Cu Tine-o veșnicie.
 
-3. Cand va suna trompeta, si pe nori v-a aparea al nostru Domn
-Cei morti vor invia, Si spre cer vor zbura in paradis
-Transformati de Domnul, Si la ceruri ridicarti vom fi si noi
-Ce bucurii vor fi, Cand El va reveni
-Si la cer ne va rapi!
+[2]
+Coboară cu putere și atinge-Te de cel ce este slab,
+Mai fă o scăldătoare și vindecă pe cel ce e bolnav.
+Biserica să fie mereu umplută de puterea Ta,
+Curați să fim mereu pe cale, Domnul meu,
+Chiar și când drumu-i greu.
+
+[3]
+Când va suna trompeta și pe nori va apărea al nostru Domn,
+Cei morți vor învia și spre cer vor zbura în paradis
+Transformați de Domnul, și la ceruri ridicați vom fi și noi,
+Ce bucurii vor fi, când El va reveni
+Și la cer ne va răpi!

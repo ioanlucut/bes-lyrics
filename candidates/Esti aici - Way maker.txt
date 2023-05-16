@@ -1,33 +1,37 @@
 [title]
-Esti aici - Way maker
+Ești aici - Way maker
 
+[sequence]
+1,c,2,c,b,c
+
+[1]
 Ești aici, cerul l-ai deschis,
-Eu mă închin, eu mă închin
-Ești aici să faci tot ce ai promis
-Eu mă închin, eu mă închin
-Ești aici, prezent prin duhul sfânt
-Eu mă închin, eu mă închin
-Ești aici să simt puterea ta
-Eu mă închin, eu mă închin
+Eu mă închin, eu mă închin!
+Ești aici să faci tot ce ai promis,
+Eu mă închin, eu mă închin!
+Ești aici, prezent prin Duhul Sfânt,
+Eu mă închin, eu mă închin!
+Ești aici să simt puterea ta,
+Eu mă închin, eu mă închin!
 
-R: Tu ești izbăvitorul, atotputernic
-Tu ești lumina în întuneric, Doamne tu ești Dumnezeu
-Tu ești izbăvitorul, atotputernic
-Tu ești lumina în întuneric, Doamne tu ești Dumnezeu
+[chorus]
+Tu ești izbăvitorul, atotputernic!
+Tu ești lumina în întuneric, Doamne, Tu ești Dumnezeu!
+Tu ești izbăvitorul, atotputernic!
+Tu ești lumina în întuneric, Doamne, Tu ești Dumnezeu!
 
-Ești aici vrei să ne atingi
-Eu mă închin, eu mă închin
-Ești aici, vindeci suflete
-Eu mă închin, eu mă închin
-Ești aici, să simt prezența ta
-Eu mă închin, eu mă închin
-Ești aici prezent prin duhul sfânt
-Eu mă închin, eu mă închin
+[2]
+Ești aici, vrei să ne atingi,
+Eu mă închin, eu mă închin!
+Ești aici, vindeci suflete,
+Eu mă închin, eu mă închin!
+Ești aici, să simt prezența Ta,
+Eu mă închin, eu mă închin!
+Ești aici prezent prin Duhul Sfânt,
+Eu mă închin, eu mă închin!
 
-Refren
-
-Bridge:
-Chiar și atunci când nu văd ești cu mine
-Chiar și atunci când nu simt ești aproape
-Știu că lucrezi, știu că lucrezi Doamne
-Știu că lucrezi, știu că lucrezi Doamne
+[bridge]
+Chiar și atunci când nu văd ești cu mine,
+Chiar și atunci când nu simt ești aproape,
+Știu că lucrezi, știu că lucrezi, Doamne!
+Știu că lucrezi, știu că lucrezi, Doamne!

@@ -1,23 +1,23 @@
 [title]
-De n ar fi domnul
+De n-ar fi Domnul
 
 [sequence]
 1,c,2,c
 
 [1]
 De n-ar fi Domnul ajutorul meu
-În clipele grele ale vieții
+În clipele grele ale vieții,
 Cât de curând sufletul meu
 Ar locui-n tăcerea morții.
 
 [chorus]
-/: Ori de cîte ori am zis
-Mi se clatină piciorul
-Bunătatea Ta, Doamne
+/: Ori de câte ori am zis:
+„Mi se clatină piciorul.”
+Bunătatea Ta, Doamne,
 Sprijin mi-a fost. :/
 
 [2]
 Când gânduri negre se frământă
-Cu grămada înlăuntrul meu
-Bunătatea Ta, Doamne
+Cu grămada înlăuntrul meu,
+Bunătatea Ta, Doamne,
 Îmi desfătează sufletul.

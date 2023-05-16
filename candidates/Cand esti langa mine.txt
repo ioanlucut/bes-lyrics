@@ -1,23 +1,31 @@
 [title]
-Cand esti langa mine
+Când ești lângă mine
 
+[sequence]
+1,c,2,c,3,c
+
+[1]
 Când eşti lângă mine, nu mă tem de niciun rău
 Căci mă-ncred în Tine, Mare Dumnezeu!
 
-R: Numai lângă Tine, Domne mă simt bine
-Ştiu că Tu mă ocroteşti
+[chorus]
+Numai lângă Tine, Domne, mă simt bine!
+Ştiu că Tu mă ocroteşti.
 Şi-n grea încercare, când furtuna-i mare
-Lângă mine Tu păşeşti! !
-Numai lângă Tine, Domne mă simt bine
-Ştiu că Tu mă ocroteşti
+Lângă mine Tu păşeşti!
+Numai lângă Tine, Domne, mă simt bine!
+Ştiu că Tu mă ocroteşti.
 Şi-n grea încercare, când furtuna-i mare
-Lângă mine-alaturi eşti! !
+Lângă mine-alături eşti!
 
-Valurile vieţii, barca când mi-au clătinat
-Ca şi de-altădată, Tu Isuse le-ai mustrat!
+[2]
+Valurile vieţii, barca când mi-au clătinat,
+Ca şi de-altădată, Tu, Isuse, le-ai mustrat!
 
-Meriţi pe vecie Doamne să fii lăudat
+[3]
+Meriţi pe vecie, Doamne, să fii lăudat
 Căci din grea robie, doar Tu m-ai eliberat!
 
-O nădejde vie în inimă mi-ai sădit
-Cred deci cu tărie, Doamne că m-ai mântuit!
+[3]
+O nădejde vie în inimă mi-ai sădit,
+Cred deci cu tărie, Doamne, că m-ai mântuit!

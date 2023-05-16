@@ -1,33 +1,43 @@
-1. Privind azi spre cerul albastru,
-Spre bolta senină mă întreb
-De vine azi Mîntuitorul
+[title]
+Privind azi spre cerul albastru
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
+Privind azi spre cerul albastru,
+Spre bolta senină, mă întreb
+De vine azi Mântuitorul
 Isus, Împăratul Suprem.
-Coboară din slava cerească
-Priveşte o clipă spre noi
-Cînd gemem şi pasul se afundă
+Coboară din slava cerească,
+Priveşte o clipă spre noi,
+Când gemem şi pasul se afundă
 În lumea de chin şi nevoi.
 
-R: /: O vino, vino, vino
-Atîţia te aşteaptă
+[chorus]
+/: O vino, vino, vino,
+Atâţia te aşteaptă
 Să-ţi spună a lor durere,
-Sînt cei ce n-au pe nimeni
+Sunt cei ce n-au pe nimeni,
 Iar inima li-e plină
-De multă trudă şi întristare. : /
+De multă trudă şi întristare. :/
 
-2. Te aşteaptă bolnavii în spitale
-Te aşteaptă orfanii ce plîng
-Te aşteaptă şi inimi zdrobite
-Să vii o Isus mai curînd.
-Te aşteaptă atîţia, Isuse
-Ce în lipsuri, durere şi chin
-Îşi înalţă privirile du-se
+[2]
+Te aşteaptă bolnavii în spitale,
+Te aşteaptă orfanii ce plâng,
+Te aşteaptă şi inimi zdrobite,
+Să vii, o, Isus mai curând.
+Te aşteaptă atâţia, Isuse,
+Ce în lipsuri, durere şi chin,
+Îşi înalţă privirile duse
 Spre ţărmul etern şi senin.
 
-3. Te aşteaptă omenirea întreagă
-Ce simte că merge spre rău
-Se zbate, se înfundă, se închiagă
+[3]
+Te aşteaptă omenirea întreagă
+Ce simte că merge spre rău.
+Se zbate, se înfundă, se încheagă,
 Din zi în zi parcă-i mai greu.
-Cu toţii aşteaptă lumina
-Cu toţii aşteaptă un semnal
-Curînd se va trage cortina
-Sfîrşindu-se chinul amar.
+Cu toţii aşteaptă lumina,
+Cu toţii aşteaptă un semnal.
+Curând se va trage cortina
+Sfârşindu-se chinul amar.
