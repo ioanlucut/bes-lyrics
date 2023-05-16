@@ -1,30 +1,30 @@
 [title]
-Mai e putin tot mai putin
+Mai e puțin, tot mai puțin
 
 [sequence]
-1,2,3,4
+1,c,2,c,3,c
 
 [1]
-Mai e putin, tot mai putin
-Din timpul ce-a mai ramas
-Inca putin, si voi pleca
-Spre tarmul celalalt
+Mai e puțin, tot mai puțin
+Din timpul ce-a mai rămas.
+Încă puțin și voi pleca
+Spre țărmul celălalt.
+
+[chorus]
+Mă așteaptă frați, mă vor întâmpina,
+Au sfârșit alergarea ’naintea mea.
+Pe cei dragi îi voi revedea,
+Dar mai mult decât orișice altceva,
+Isus mă va aștepta.
 
 [2]
-Ma asteapta frati, mă vor intampina
-Au sfarsit alergarea ’naintea mea
-Pe cei dragi ii voi revedea
-Dar mai mult decat orisice altceva
-Isus ma va astepta.
+Cât mi-am dorit un bun sfârșit
+Al vieții pământești,
+Încă alerg și mă îndrept
+Spre slăvile cerești.
 
 [3]
-Cat mi-am dorit un bun sfarsit
-Al vietii pămantesti
-Incă alerg si ma indrept
-Spre slăvile ceresti.
-
-[4]
-Un singur gand mi-a mai rămas
-Vreau sa trăiesc frumos
-Prin tot ce sunt, prin tot ce fac
+Un singur gând mi-a mai rămas,
+Vreau să trăiesc frumos,
+Prin tot ce sunt, prin tot ce fac,
 Slăvindu-L pe Hristos!
