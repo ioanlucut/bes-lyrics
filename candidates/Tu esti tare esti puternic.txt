@@ -1,8 +1,8 @@
 [title]
-Tu esti tare esti puternic
+Tu ești tare, ești puternic
 
 [sequence]
-1,2,3,4
+1,c,2,c,e
 
 [1]
 O, dragoste, ce pentru noi
@@ -12,19 +12,19 @@ Isus din morți a înviat!
 Rămâi în toate credincios,
 În calea mea, furtuni oprești.
 Prin adevăr victorios,
-Isus în mine locuiești!
+Isus, în mine locuiești!
 
-[2]
+[chorus]
 Tu ești tare, ești puternic,
 Tu ești Sfântul Împărat!
 Ești Cuvântul viu și veșnic,
 Tu din morți ai înviat!
 
-[3]
-Esti început și esti sfârșit,
+[2]
+Ești început și ești sfârșit,
 Isus, mă ții în mâna Ta!
 Prin harul Tău m-ai mântuit,
 Plătind pe cruce vina mea!
 
-[4]
-/: Tu din morti ai inviat :/
+[ending]
+/: Tu din morți ai înviat! :/
