@@ -1,20 +1,23 @@
 [title]
-Vreau sa ma inchin doar tie
+Vreau să mă închin doar Ție
 
 [sequence]
-1,2,3
+1,c,2,c
 
 [1]
-Eu te laud (eu te laud)
-Cu inima mea (cu inima mea)
-Eu te laud (eu te laud)
-Cu sufletul meu (cu sufletul meu)
+Eu Te laud (eu Te laud)
+Cu inima mea, (cu inima mea)
+Eu Te laud (eu Te laud)
+Cu sufletul meu. (cu sufletul meu)
 
 [2]
-Eu te caut (eu te caut)
-Te caut mereu (te caut mereu)
-Vreau pe Tine (vreau pe Tine)
-Doamne să Te urmez (să Te urmez)
+Eu Te caut, (eu Te caut)
+Te caut mereu. (Te caut mereu)
+Vreau pe Tine, (vreau pe Tine)
+Doamne, să Te urmez. (să Te urmez)
 
-[3]
-VREAU SĂ MĂ ÎNCHIN DOAR ȚIESĂ TE LAUD DOMNUL MEUTOT CE AM ÎȚI APARȚINETU EȘTI VREDNIC, DOMNUL MEU
+[chorus]
+/: Vreau să mă închin doar Ție,
+Să Te laud, Domnul meu, 
+Tot ce am Îți aparține,
+Tu ești vrednic, Domnul meu! :/
