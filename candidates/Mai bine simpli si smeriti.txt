@@ -1,27 +1,27 @@
 [title]
-Mai bine simpli si smeriti
+Mai bine simpli și smeriți
 
 [sequence]
-1,2,3,4
+1,c,2,c,3,c
 
 [1]
-Nu doresc să fiu
-Decât un simplu om
-Și să fiu plăcut Înaintea Ta/: Dacă cei din jur
-M-au părăsit
-Tu rămai mereu Tăria mea. :/
+Nu doresc să fiu decât un simplu om
+Și să fiu plăcut Înaintea Ta.
+/: Dacă cei din jur m-au părăsit,
+Tu rămâi mereu Tăria mea. :/
+
+[chorus]
+/: Mai bine simpli și smeriți
+Și de Dumnezeu iubiți. :/
 
 [2]
-/: Mai bine Simpli și smeriți
-Și de Dumnezeu Iubiți. :/
+Numai Tu, Isus, mă placi așa cum sunt,
+Când mi-e greu doar Tu mă întărești.
+/: Te voi lăuda cu al meu cânt,
+M-ai iubit și încă mă iubești. :/
 
 [3]
-Numai Tu Isus Mă placi așa cum sunt
-Când mi-e greu Doar Tu mă întărești/: Te voi lauda Cu al meu cânt
-M-ai iubit Și înca mă iubești. :/
-
-[4]
-Niciodată Doamne Nu m-ai părăsit
-Ai fost lângă mine În încercări
-M-ai iertat și atunci Când ți-am greșit
-Am văzut a Tale îndurări.
+Niciodată, Doamne, nu m-ai părăsit,
+Ai fost lângă mine în încercări.
+/: M-ai iertat și atunci când Ți-am greșit,
+Am văzut ale Tale îndurări.
