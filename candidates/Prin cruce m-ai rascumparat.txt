@@ -1,18 +1,25 @@
 [title]
 Prin cruce m-ai răscumpărat
 
-Fiu de om, fiu de Dumnezeu tu m-ai iubit
-Miel preasfant prin ale Tale rani m-ai mantuit
-In veci de veci esti inaltat
+[sequence]
+1,c,2,c,e
 
-R: Prin cruce m-ai rascumparat
-Prin sangele ce s-a varsat
-Tu ai spalat si vina mea
-Sunt mantuit prin crucea Ta
+[1]
+Fiu de om, fiu de Dumnezeu, Tu m-ai iubit.
+Miel preasfant, prin ale Tale răni m-ai mântuit,
+În veci de veci ești înălțat!
 
-Ai platit pretu-ntreg pentru pacatul greu
-Liber sunt viata am primit, esti Domnul meu
-In veci de veci esti inaltat
+[chorus]
+Prin cruce m-ai răscumpărat,
+Prin sângele ce s-a vărsat
+Tu ai spălat și vina mea,
+Sunt mântuit prin crucea Ta!
 
-C: Tu esti Mielul sfant care-a fost zdrobit
-Tot ce am e al Tau, m-ai mantuit
+[2]
+Ai plătit prețu-ntreg pentru păcatul greu,
+Liber sunt, viață am primit, ești Domnul meu,
+În veci de veci ești înălțat!
+
+[ending]
+Tu ești Mielul sfânt care-a fost zdrobit,
+Tot ce am e al Tău, m-ai mântuit!
