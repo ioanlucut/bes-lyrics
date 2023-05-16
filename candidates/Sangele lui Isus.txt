@@ -1,11 +1,17 @@
 [title]
-Sangele lui Isus
+Sângele lui Isus
 
-/: Sângele lui Isus, :/ x3
-Mă spală de păcat
+[sequence]
+1,2,3
 
-/: Rănile lui Isus, :/ x3
-Mă vindecă acum
+[1]
+/: Sângele lui Isus, :/ (3x)
+Mă spală de păcat.
 
-/: Dragostea lui Isus, :/ x3
-Mă curăţă acum
+[2]
+/: Rănile lui Isus, :/ (3x)
+Mă vindecă acum.
+
+[3]
+/: Dragostea lui Isus, :/ (3x)
+Mă curăţă acum.
