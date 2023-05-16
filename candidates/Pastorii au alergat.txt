@@ -1,32 +1,33 @@
 [title]
-Pastorii au alergat
+Păstorii au alergat
 
 [sequence]
-1,2,3,4,5
+1,c,2,c,b,c,3,c
 
 [1]
-Pastorii au alergat, sa vada pruncul
+Păstorii au alergat să vadă pruncul
 Cel care-a fost vestit,
-Nascut in iesle, Domn din vecie :/ Ce minunat imparat!
+Născut în iesle, Domn din vecie, 
+/: Ce minunat Împărat! :/
+
+[chorus]
+Aud cum cântă îngeri: 
+Aleluia, lauda Regelui Isus!
+Căci a venit la noi, din iubire 
+/: S-a născut Isus! :/
 
 [2]
-Aud cum canta ingeri: aleluia, lauda Regelui Isus!
-Caci a venit la noi, din iubire :/ S-a nascut Isus!
-/:
+Păstori s-au grăbit să ducă vestea
+Căci Isus s-a născut,
+Slăveau pe Dumnezeu, căci a venit din cer 
+/: Ce minunat Împărat! :/
+
+[bridge]
+/: Glorie! :/
+/: S-a născut Mesia! :/
 
 [3]
-Pastori s-au grabit sa duca vestea
-Caci Isus s-a nascut,
-Slaveau pe Dumnezeu, caci a venit din cer :/
-Ce minunat imparat!
-/:
-
-[4]
-/ Glorie!
-/: S-a nascut Mesia! /
-
-[5]
-Toti sa stie sa cunoasca, Isus din cer veni
-El cerul l-a lasat sa mantuiasca :/
-Ce minunat imparat!
-/:
+Toți să știe, să cunoască, 
+Isus din cer veni,
+El cerul l-a lăsat să mântuiască,
+/: Ce minunat Împărat! :/
