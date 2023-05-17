@@ -1,3 +1,51 @@
-Title: Tu apartii de marea Imparatie
+[title] 
+Tu aparții de Marea Împărăție
 
+[sequence]
+1,p,2,c,3,t,e
 
+[1]
+Tu aparții de Marea Împărăție
+Ce-n vremea de acum s-a arătat.
+Rămâi statornic, stai pe temelie,
+Tu ești un fiu de Mare Împărat!
+Nu risipi comoara prin pustie,
+Nu sta nepăsător de darul dat,
+Ascultă Vocea ce-ți repetă ție:
+„Tu ești un fiu de Mare Împărat!”
+
+[prechorus]
+/: Tu ești un fiu, tu ești un fiu,
+Tu ești un fiu de Mare Împărat! :/
+
+[2]
+Căci ție ți s-a dat încălțăminte
+Și cingătoare, brâu adevărat,
+Și sabia, și scutul cel fierbinte,
+Și mantie curată ți s-a dat!
+Ascunde-ți fruntea-n coiful mântuirii,
+Nădejdea neclintită ce s-a dat!
+Să nu te-nfrice duhurile firii,
+Tu ești ostaș la Marele-mpărat!
+
+[chorus]
+/: Tu ești ostaș, tu ești ostaș,
+Tu ești ostaș la Marele-mpărat! :/
+
+[3]
+Stai pregătit de luptă și în toate
+Privește Căpetenia mereu.
+Războiul e pe viață și pe moarte,
+Dar lupta o câștigă Dumnezeu!
+În jurul tău mai sunt frați care luptă,
+Căci mântuirea pentru toți s-a dat,
+Vom fi toți încununați în glorii
+Și răsplătiți de Marele-mpărat!
+
+[chorus 2]
+/: Și răsplătiți, și răsplătiți,
+Și răsplătiți de Marele-mpărat! :/
+
+[ending]
+Tu ești un fiu, tu ești ostaș,
+Ești răsplătit de Marele-mpărat!
