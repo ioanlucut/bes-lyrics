@@ -1,2 +1,35 @@
-Title: Ne întoarcem ca sa-Ti multumim bun.pro
+[title] 
+Ne întoarcem ca să-Ți mulțumim
 
+[sequence] 
+1,c,2,c,3,c,4,c
+
+[1] 
+Ne-ntoarcem ca să-Ți mulţumim,
+Părinte veşnic şi divin,
+Căci Tu prin harul minunat
+Mereu ne-ai binecuvântat.
+
+[chorus]
+/: Îţi mulţumim, Îţi mulţumim
+Căci Tu ne dai, iar noi primim,
+Îţi mulţumim, Îţi mulţumim
+Acum şi-n veci de veci, amin. :/
+
+[2]
+Ne-ntoarcem ca să-Ți mulţumim
+Căci de la Tine noi primim
+Viaţa din izvor ceresc,
+Lumină-n ochii ce privesc.
+
+[3]
+Ne-ntoarcem ca să-Ți mulţumim
+Cu mic, cu mare, toţi venim,
+Că-n fiecare ceas sau zi
+Cu mâna Ta ne vei păzi.
+
+[4]
+Ne-ntoarcem ca să-Ți mulţumim
+Căci ne iubeşti şi Te iubim.
+Tu singur, Doamne, ne poţi da
+Ce lumea-ntreagă n-ar putea.
