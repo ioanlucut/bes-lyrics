@@ -1,2 +1,33 @@
-Title: Este un nume.pro
+[title] 
+Este un Nume
 
+[sequence]
+1,c,2,b,c
+
+[1]
+Este un Nume, ce rupe orice lanț când Îl rostești
+Și dacă-L chemi salvare-n El primești.
+O, ce Nume!
+Este un Nume, din fața Lui înfrânți vrăjmașii fug
+Puternic ca sa rupă orice jug.
+O, ce Nume!
+
+[chorus]
+Isus, Isus, ce puternic Domn!
+Isus, Isus, Rege-n veci pe tron!
+
+[2]
+Este o Cruce, un lemn de suferință și dispreț,
+Puterea ce și azi salvează vieți
+La Cruce.
+Este un Sânge, ce striga până azi: „S-a isprăvit!”
+Întregul preț la Cruce a fost plătit
+Cu Sânge.
+
+[bridge]
+În Numele lui Isus să cadă legături,
+Adicții, frici, depresie
+Și orice-ntărituri.
+Vieți sunt restaurate,
+Se-ntorc fiice și fii,
+Popoare vin la viață prin Duhul Celui Viu.
