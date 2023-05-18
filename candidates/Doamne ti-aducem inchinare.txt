@@ -1,18 +1,25 @@
-Title: Doamne ti-aducem inchinare
+[title] 
+Doamne, Ți-aducem închinare
 
-1. Doamne, Ţi-aducem închinare
+[sequence]
+1,c,2,c
+
+[1]
+Doamne, Ţi-aducem închinare,
 Dumnezeu puternic şi sfânt
-Ţi-aducem slavă şi onoare
-Căci Tu ai spus „Eu sunt acel ce sunt"
+Ți-aducem slavă şi onoare
+Căci Tu ai spus „Eu sunt acel ce sunt!”
 
-R: Numele Tău e minunat
-Numele Tău e-adevărat
-Numele Tău e tot ce se poate spune
-Numele Tău e minunat
-Numele Tău e-adevărat
+[chorus]
+Numele Tău e minunat,
+Numele Tău e-adevărat,
+Numele Tău e tot ce se poate spune.
+Numele Tău e minunat,
+Numele Tău e-adevărat,
 Numele Tău e mai presus de orice nume.
 
-2. În faţa Ta se pleacă toate
-Pământul şi cerul sublim
+[2]
+În faţa Ta se pleacă toate,
+Pământul şi cerul sublim.
 Venim şi noi cu inimile noastre
-Să Te lăudăm să te slăvim.
+Să Te lăudăm, să Te slăvim.
