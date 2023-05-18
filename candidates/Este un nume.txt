@@ -2,7 +2,7 @@
 Este un Nume
 
 [sequence]
-1,c,2,b,c
+1,c,2,c,b,c
 
 [1]
 Este un Nume, ce rupe orice lanț când Îl rostești
