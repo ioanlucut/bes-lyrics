@@ -1,29 +1,37 @@
-Title: O, de-aş avea eu limbi o mie
+[title] 
+O, de-aş avea eu limbi o mie
 
-1. O, de-aş avea eu limbi o mie
+[sequence]
+1,2,3,4
+
+[1]
+O, de-aş avea eu limbi o mie
 Şi mii de buze să cuvânt
-Pe tonuri mii o armonie
+Pe tonuri mii o armonie,
 Spre slava Celui pururi sfânt,
 /: I-aş mulţumi de ce-a făcut
-Cu mine, fiul cel pierdut. : /
+Cu mine, fiul cel pierdut. :/
 
-2. O, de-ar suna al meu glas tare,
+[2]
+O, de-ar suna al meu glas tare,
 Să se audă pân’ la cer,
 Căci sângele-mi ca-ntr-o vâltoare
 Se zbate, Doamne, când Te cer.
-/: De-ar fi toata suflarea mea
-Un imn spre închinarea Ta! : /
+/: De-ar fi toat[ suflarea mea
+Un imn spre închinarea Ta! :/
 
-3. De ce tăceţi, cântări de slavă?
+[3]
+De ce tăceţi, cântări de slavă?
 Mai sus, mai sus, zburaţi mai sus!
 Aduceţi veşnică cinstire
 Şi mulţumire lui Isus.
 /: Şi sufletul, şi trupul meu
-Servească-n veci pe Dumnezeu. : /
+Servească-n veci pe Dumnezeu. :/
 
-4. Cânta-voi imnuri Ţie, Doamne,
-Cât voi putea rosti cuvânt;
+[4]
+Cânta-voi imnuri Ţie, Doamne,
+Cât voi putea rosti cuvânt
 Şi jertfa bucuriei mele
-Ţi-aduc cât voi fi pe pământ.
+Ți-aduc cât voi fi pe pământ.
 /: Când buzele-mi n-or mai putea,
-Suspinul meu Te-a lăuda! : /
+Suspinul meu Te-a lăuda! :/
