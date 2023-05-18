@@ -1,22 +1,29 @@
 [title]
-Din sfant izvor
+Din sfânt izvor
 
-1. Din sfant izvor pe Golgota
-Mult sange s-a varsat,
+[sequence]
+1,c,2,c,3,c
+
+[1]
+Din sfânt izvor pe Golgota,
+Mult sânge s-a vărsat,
 Izvorul-acesta minunat
-Ne spala de pacat.
+Ne spală de păcat.
 
-R: Si pentru-al meu pacat
-A curs izvorul minunat;
-Isuse, -n sangele-Ti varsat,
+[chorus]
+Și pentru-al meu păcat
+A curs izvorul minunat.
+Isuse-n sângele-Ți vărsat,
 Iertarea-n veci mi-ai dat!
 
-2. Acest izvor a fost aflat
-La cruce de talhar;
-Crezand in jertfa lui Hristos
+[2]
+Acest izvor a fost aflat
+La cruce de tâlhar,
+Crezând în jertfa lui Hristos
 A fost salvat prin har.
 
-3. Puterea-acestui sfant izvor
-Aceeasi e mereu.
-Ea ma pastreaza-n legamant
+[3]
+Puterea-acestui sfânt izvor
+Aceeași e mereu.
+Ea mă păstrează-n legământ
 Cu Salvatorul meu.
