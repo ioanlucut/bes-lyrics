@@ -1,27 +1,30 @@
-Title: toti avem nevoie
+[title] 
+Toți avem nevoie
 
+[sequence]
+1,c,2,c,b,c
+
+[1]
 Toți avem nevoie de-o dragoste curată
 Prin mila Ta de sus.
-Toți vrem iertarea și bunătatea-ți mare
+Toți vrem iertarea și bunătatea-Ți mare,
 Speranța lumii.
 
-Ref:
-Doamne, Tu ce miști chiar munții
-Ești un măreț Salvator
-Ești măreț Salvator.
+[chorus
+Doamne, Tu, ce miști chiar munții,
+Ești un măreț Salvator,
+Ești măreț Salvator!
 Veșnic ai dat salvare lumii
 Și-ai înviat dintre morți,
-Înviat dintre morți. X2
+Înviat dintre morți. (2x)
 
-Srofa 2:
-Primește-mă cum sunt
-Eu las la crucea Ta
-Povara mea cea grea
-Îți dau viața mea
-Tot ce eu trăiesc
+[2]
+Primește-mă cum sunt, eu las la crucea Ta
+Povara mea cea grea.
+Îți dau viața mea, tot ce eu trăiesc,
 Mă dăruiesc azi...
 
-Coda:
-Lasă Gloria peste-ntreg pământ
-Cântăm... pentru slava Celui veșnic viu
-Doamne. X2 Final X4
+[bridge]
+Lasă Gloria peste-ntreg pământ,
+Cântăm... pentru slava Celui veșnic viu!
+Doamne! (2x) Final (4x)
