@@ -1,7 +1,7 @@
-[title] 
+[title]
 Isus, Isus, ce Nume minunat
 
-[sequence] 
+[sequence]
 1,c,2,c,3,c
 
 [1]
@@ -24,7 +24,7 @@ Oameni mulți am cunoscut
 Însa de-al lor drum cu toții și-au văzut.
 O, ce crunt m-am înșelat,
 Toți sunt oameni slabi și cad,
-Numai unul niciodat` nu m-a trădat.
+Numai unul niciodat’ nu m-a trădat.
 
 [3]
 Nu-ți dorești și tu acum

@@ -19,6 +19,8 @@ export enum SongSection {
   VERSE_8 = '[8]',
   VERSE_9 = '[9]',
   VERSE_10 = '[10]',
+  VERSE_11 = '[11]',
+  VERSE_12 = '[12]',
 }
 
 export const SequenceChar = {
@@ -32,6 +34,8 @@ export const SequenceChar = {
   [SongSection.VERSE_8]: '8',
   [SongSection.VERSE_9]: '9',
   [SongSection.VERSE_10]: '10',
+  [SongSection.VERSE_11]: '11',
+  [SongSection.VERSE_12]: '12',
   [SongSection.CHORUS]: 'c',
   [SongSection.CHORUS_2]: 't',
   [SongSection.PRECHORUS]: 'p',

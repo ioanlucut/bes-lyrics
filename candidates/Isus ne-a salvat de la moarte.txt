@@ -1,4 +1,4 @@
-[title] 
+[title]
 Isus ne-a salvat de la moarte
 
 [sequence]
@@ -7,11 +7,11 @@ Isus ne-a salvat de la moarte
 [1]
 Isus ne-a salvat de la moarte,
 De ce vrei să dai înapoi?
-Privește ‘nainte-i cununa,
+Privește ’nainte-i cununa,
 Și-i doar pentru biruitori.
 
 [chorus]
-/: Mai luptă, mai rabdă, nu da ‘napoi,
+/: Mai luptă, mai rabdă, nu da ’napoi,
 Isus te-ntărește și-ți dă puteri noi,
 El și-a dat viața să fii mântuit.
 Nu-ți pierde chemarea ce ai primit. :/

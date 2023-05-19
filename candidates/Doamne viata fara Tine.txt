@@ -1,5 +1,5 @@
 [title]
-Doamne, viaţa fără Tine
+Doamne, viața fără Tine
 
 [sequence]
 1,c,2,c

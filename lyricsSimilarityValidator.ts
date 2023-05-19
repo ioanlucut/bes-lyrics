@@ -11,7 +11,9 @@ import dotenv from 'dotenv';
 import stringSimilarity from 'string-similarity';
 import recursive from 'recursive-readdir';
 import { parseArgs } from 'node:util';
-import { ALT_SONGS_FILE_SUFFIX } from './constants';
+import { ALT_SONGS_FILE_SUFFIX, NEW_LINE } from './constants';
+import chalk from 'chalk';
+import { logFileWithLinkInConsole } from './utils';
 
 dotenv.config();
 
@@ -28,27 +30,27 @@ const readAllFilesAgainstTheChecksAreDoneOnce = async (againstDir: string) =>
 
 const computeSimilarity =
   (candidateFilePath: string) =>
-    ({
-       contentAsString,
-       fileName: existingFileName,
-       filePath: existingFilePath,
-     }: {
-      contentAsString: string;
-      fileName: string;
-      filePath: string;
-    }) => {
-      const candidateContent = fs.readFileSync(candidateFilePath).toString();
-      const similarity = stringSimilarity.compareTwoStrings(
-        contentAsString.toLowerCase(),
-        candidateContent.toLowerCase(),
-      );
+  ({
+    contentAsString,
+    fileName: existingFileName,
+    filePath: existingFilePath,
+  }: {
+    contentAsString: string;
+    fileName: string;
+    filePath: string;
+  }) => {
+    const candidateContent = fs.readFileSync(candidateFilePath).toString();
+    const similarity = stringSimilarity.compareTwoStrings(
+      contentAsString.toLowerCase(),
+      candidateContent.toLowerCase(),
+    );
 
-      return {
-        similarity,
-        existingFileName,
-        existingFilePath,
-      };
+    return {
+      similarity,
+      existingFileName,
+      existingFilePath,
     };
+  };
 
 const findSimilarities = async (
   potentialDuplicatesDir: string,
@@ -115,20 +117,19 @@ const runValidatorAndExitIfSimilar = async (
     console.log('Unf., we have found song similarities.');
 
     withoutAllowedDuplicates.forEach(
-      ({ candidateFilePath, candidateFileName, similarities }) => {
-        console.group(
-          `"Candidate: ${candidateFileName} from ${path.dirname(
-            candidateFilePath,
-          )}:"`,
-        );
+      ({ candidateFilePath, candidateFileName, similarities }, index) => {
+        console.group(`Candidate ${index}, ${chalk.red(candidateFileName)}:`);
+        logFileWithLinkInConsole(candidateFilePath);
+        console.log();
 
         similarities.forEach(
           ({ existingFilePath, existingFileName, similarity }) => {
             console.log(
-              `- Similar to existing "${existingFileName}" from ${path.dirname(
-                existingFilePath,
-              )} with a similarity score of "${similarity}."`,
+              `- Similar to existing "${chalk.green(
+                existingFileName,
+              )}" with a similarity score of "${chalk.yellow(similarity)}."`,
             );
+            logFileWithLinkInConsole(existingFilePath);
 
             if (!fsExtra.pathExistsSync(candidateFilePath)) {
               return;
@@ -146,6 +147,7 @@ const runValidatorAndExitIfSimilar = async (
           },
         );
 
+        console.log(NEW_LINE);
         console.groupEnd();
       },
     );
@@ -159,10 +161,10 @@ const runValidatorAndExitIfSimilar = async (
   // Verify if the songs that are verified are unique across them
   // ---
 
-  // await runValidatorAndExitIfSimilar(
-  //   process.env.VERIFIED_DIR,
-  //   process.env.VERIFIED_DIR,
-  // );
+  await runValidatorAndExitIfSimilar(
+    process.env.VERIFIED_DIR,
+    process.env.VERIFIED_DIR,
+  );
 
   // // ---
   // // Verify if the songs that are in candidates are unique across them

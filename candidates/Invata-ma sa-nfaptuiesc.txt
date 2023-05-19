@@ -1,11 +1,11 @@
 [title]
-Învaţă-mă să-nfăptuiesc
+Învață-mă să-nfăptuiesc
 
 [sequence]
 1,c,2,c,3,c,4,c
 
 [1]
-Învaţă-mă să făptuiesc,
+Învață-mă să făptuiesc,
 O, Doamne, voia Ta mereu,
 Să nu pot altfel să trăiesc,
 De-ar fi să piară trupul meu!
@@ -18,18 +18,18 @@ Pentru Tine, Amin! :/
 
 [2]
 Căci voia Ta e tot ce-i bun
-Şi azi, şi mâine, şi în veac.
+Și azi, și mâine, și în veac.
 Ajută-mi ei să mă supun,
-Să pot să-Ţi fiu oricând pe plac!
+Să pot să-Ți fiu oricând pe plac!
 
 [3]
 Tu ai, prin Duhul Tău Cel Sfânt,
 Nebănuite, sfinte căi
-Să mă înveţi, pe-acest pământ,
-Voinţa Ta şi paşii Tăi!
+Să mă înveți, pe-acest pământ,
+Voința Ta și pașii Tăi!
 
 [4]
 Aceasta-i rugăciunea mea,
 Spre Tine necurmat o-ndrept,
-Şi-n orice-mprejurare grea,
+Și-n orice-mprejurare grea,
 Să-mi ardă voia Ta în piept!

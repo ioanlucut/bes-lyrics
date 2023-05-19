@@ -1,15 +1,15 @@
-[title] 
-O, de-aş avea eu limbi o mie
+[title]
+O, de-aș avea eu limbi o mie
 
 [sequence]
 1,2,3,4
 
 [1]
-O, de-aş avea eu limbi o mie
-Şi mii de buze să cuvânt
+O, de-aș avea eu limbi o mie
+Și mii de buze să cuvânt
 Pe tonuri mii o armonie,
 Spre slava Celui pururi sfânt,
-/: I-aş mulţumi de ce-a făcut
+/: I-aș mulțumi de ce-a făcut
 Cu mine, fiul cel pierdut. :/
 
 [2]
@@ -21,17 +21,17 @@ Se zbate, Doamne, când Te cer.
 Un imn spre închinarea Ta! :/
 
 [3]
-De ce tăceţi, cântări de slavă?
-Mai sus, mai sus, zburaţi mai sus!
-Aduceţi veşnică cinstire
-Şi mulţumire lui Isus.
-/: Şi sufletul, şi trupul meu
+De ce tăceți, cântări de slavă?
+Mai sus, mai sus, zburați mai sus!
+Aduceți veșnică cinstire
+Și mulțumire lui Isus.
+/: Și sufletul, și trupul meu
 Servească-n veci pe Dumnezeu. :/
 
 [4]
-Cânta-voi imnuri Ţie, Doamne,
+Cânta-voi imnuri Ție, Doamne,
 Cât voi putea rosti cuvânt
-Şi jertfa bucuriei mele
+Și jertfa bucuriei mele
 Ți-aduc cât voi fi pe pământ.
 /: Când buzele-mi n-or mai putea,
 Suspinul meu Te-a lăuda! :/

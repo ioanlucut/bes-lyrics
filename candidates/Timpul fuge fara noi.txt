@@ -1,7 +1,7 @@
-[title] 
+[title]
 Timpul fuge fără noi
 
-[sequence] 
+[sequence]
 1,c,2,c
 
 [1]
@@ -24,10 +24,10 @@ Dacă e predată toată inima!
 Vine Isus!
 
 [2]
-Pe Isus noi Îl iubim, 
-Însă inima o-mpărţim, ne-nşelăm, 
-Spunem răului că-i bun 
-Și-l luăm cu noi la drum rătăcind, 
+Pe Isus noi Îl iubim,
+Însă inima o-mpărțim, ne-nșelăm,
+Spunem răului că-i bun
+Și-l luăm cu noi la drum rătăcind,
 Pentru Isus ce lăsăm?
 Am promis, dar noi uităm. Până când?
 Oare cum ne va găsi?

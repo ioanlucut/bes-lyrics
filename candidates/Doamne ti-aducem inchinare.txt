@@ -1,13 +1,13 @@
-[title] 
+[title]
 Doamne, Ți-aducem închinare
 
 [sequence]
 1,c,2,c
 
 [1]
-Doamne, Ţi-aducem închinare,
-Dumnezeu puternic şi sfânt
-Ți-aducem slavă şi onoare
+Doamne, Ți-aducem închinare,
+Dumnezeu puternic și sfânt
+Ți-aducem slavă și onoare
 Căci Tu ai spus „Eu sunt acel ce sunt!”
 
 [chorus]
@@ -19,7 +19,7 @@ Numele Tău e-adevărat,
 Numele Tău e mai presus de orice nume.
 
 [2]
-În faţa Ta se pleacă toate,
-Pământul şi cerul sublim.
-Venim şi noi cu inimile noastre
+În fața Ta se pleacă toate,
+Pământul și cerul sublim.
+Venim și noi cu inimile noastre
 Să Te lăudăm, să Te slăvim.

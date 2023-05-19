@@ -1,4 +1,4 @@
-[title] 
+[title]
 Toți avem nevoie
 
 [sequence]
@@ -10,7 +10,7 @@ Prin mila Ta de sus.
 Toți vrem iertarea și bunătatea-Ți mare,
 Speranța lumii.
 
-[chorus
+[chorus]
 Doamne, Tu, ce miști chiar munții,
 Ești un măreț Salvator,
 Ești măreț Salvator!

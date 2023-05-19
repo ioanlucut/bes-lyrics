@@ -1,14 +1,14 @@
-[title] 
+[title]
 Nimic nu sunt, un strop de tină
 
-[sequence] 
+[sequence]
 1,p,2,c,3,t
 
-[1] 
+[1]
 Nimic nu sunt, un strop de tină
 În care ai pus un bob de grâu.
 Un ciob în care aprinzi-lumina,
-Pustiu din care, Tu scoţi un râu.
+Pustiu din care, Tu scoți un râu.
 
 [prechorus]
 Nimic nu sunt, o cupă spartă
@@ -20,17 +20,17 @@ Pe drumul spre Ierusalim. :/
 Nimic nu sunt, un rob netrebnic
 Chemat ca jugul Tău să-l port,
 Să dau deoparte piatra cea rece
-Când Tu dai viaţă, celui mort.
+Când Tu dai viață, celui mort.
 
 [chorus]
 Nimic nu sunt, o trestie frântă
 Din care faci, toiag de fier,
-/: O luminiţă fumegândă,
+/: O luminiță fumegândă,
 Ce mâine fi-va stea pe cer. :/
 
 [3]
-Nimic nu sunt, doar Tu eşti totul
-Şi Tu te-ai dat ca preţ al meu
+Nimic nu sunt, doar Tu ești totul
+Și Tu te-ai dat ca preț al meu
 Făcând din pieptul meu, chivotul
 Ce-l poartă în el, pe Dumnezeu.
 
