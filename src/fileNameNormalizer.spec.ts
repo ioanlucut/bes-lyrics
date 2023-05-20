@@ -7,7 +7,7 @@ describe('fileNameNormalizer', () => {
         '!(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„.txt',
       ),
     ).toMatchInlineSnapshot(
-      `"-.1234567890ABCDEFGHIJKLMNOPRSTUVWXZYabcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`,
+      `"()-.1234567890ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`,
     );
     expect(normalizeFileName('file .txt')).toMatchInlineSnapshot(`"file.txt"`);
     expect(normalizeFileName('as  df  .txt')).toMatchInlineSnapshot(
@@ -37,5 +37,17 @@ describe('fileNameNormalizer', () => {
     );
 
     expect(normalizeFileName('aBc.txt')).toMatchInlineSnapshot(`"aBc.txt"`);
+  });
+
+  it('should add an extension correctly', () => {
+    expect(normalizeFileName('Missing extension')).toMatchInlineSnapshot(
+      `"Missing extension.txt"`,
+    );
+  });
+
+  it('should normalize the author correctly', () => {
+    expect(
+      normalizeFileName('El e vrednic (Medley)(BBSO)'),
+    ).toMatchInlineSnapshot(`"El e vrednic (Medley) (BBSO).txt"`);
   });
 });
