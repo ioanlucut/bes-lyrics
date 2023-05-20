@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
 import * as process from 'process';
-import { TXT_EXTENSION } from './constants';
+import { EMPTY_STRING, TXT_EXTENSION } from './constants';
 import { normalizeFileName } from './src';
 import recursive from 'recursive-readdir';
 import { isEqual } from 'lodash';
@@ -20,7 +20,11 @@ const reprocessFileNames = async (dir: string) => {
   console.log(`"Reprocessing file names from ${dir} directory.."`);
 
   (await recursive(dir))
-    .filter((filePath) => path.extname(filePath) === '')
+    .filter(
+      (filePath) =>
+        path.extname(filePath) === TXT_EXTENSION ||
+        path.extname(filePath) === EMPTY_STRING,
+    )
     .forEach((filePath) => {
       const existingContent = fs.readFileSync(filePath).toString();
       const fileName = path.basename(filePath);
@@ -47,7 +51,7 @@ const reprocessFileNames = async (dir: string) => {
       );
       fs.writeFileSync(nextPathName, existingContent);
 
-      console.log(chalk.green(`Renamed to ${newFileName}.`));
+      console.log(chalk.green(`Renamed to "${newFileName}"`));
       console.log();
       console.groupEnd();
     });
