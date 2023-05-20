@@ -16,7 +16,7 @@ dotenv.config();
 // ---
 
 (async () => {
-  const fileDir = process.env.CANDIDATES_DIR;
+  const fileDir = process.env.VERIFIED_DIR;
 
   const arrayOfFileNameAndContent = (await recursive(fileDir))
     .filter((filePath) => filePath.endsWith(TXT_EXTENSION))
@@ -24,7 +24,7 @@ dotenv.config();
       const fileName = path.basename(filePath);
       const fileContent = fs.readFileSync(filePath).toString();
 
-      return { fileName, fileContent };
+      return { filePath, fileName, fileContent };
     });
 
   // ---
@@ -32,9 +32,10 @@ dotenv.config();
   // ---
 
   const problematicHits = arrayOfFileNameAndContent
-    .map(({ fileName, fileContent }) =>
-      assemblyCharsStats(fileName, fileContent),
-    )
+    .map(({ filePath, fileName, fileContent }) => ({
+      ...assemblyCharsStats(fileName, fileContent),
+      filePath,
+    }))
     .filter(
       ({ differenceInContent, differenceInFileName }) =>
         _.negate(_.isEmpty)(differenceInFileName) ||
@@ -45,9 +46,9 @@ dotenv.config();
     console.log('Unf., we have found wrong chars.');
 
     const allChars = problematicHits.map(
-      ({ fileName, differenceInFileName, differenceInContent }) => {
+      ({ filePath, fileName, differenceInFileName, differenceInContent }) => {
         console.group(`"${fileName}"`);
-        logFileWithLinkInConsole(`${fileDir}/${fileName}`);
+        logFileWithLinkInConsole(filePath);
 
         if (!_.isEmpty(differenceInFileName)) {
           console.log(
