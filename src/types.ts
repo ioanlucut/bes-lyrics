@@ -7,7 +7,6 @@ export enum SongSection {
   PRECHORUS = '[prechorus]',
   PRECHORUS_2 = '[prechorus 2]',
   SEQUENCE = '[sequence]',
-  TAGS = '[tags]',
   TITLE = '[title]',
   VERSE_1 = '[1]',
   VERSE_2 = '[2]',

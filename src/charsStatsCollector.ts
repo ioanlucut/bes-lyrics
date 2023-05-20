@@ -1,12 +1,14 @@
 import _ from 'lodash';
-import { ALLOWED_CHARS } from '../constants';
+import { ALLOWED_CHARS, EMPTY_STRING } from '../constants';
 
-const getUniqueChars = (content: string) =>
-  _.flattenDeep(_.uniq(content)).filter(Boolean).sort();
+const getUniqueCharsAndRelevantChars = (content: string) =>
+  _.flattenDeep(_.uniq(content.replaceAll(/\(\),-\.:;\?!/gimu, EMPTY_STRING)))
+    .filter(Boolean)
+    .sort();
 
 export const assemblyCharsStats = (fileName: string, fileContent: string) => {
-  const uniqueCharsFromContent = getUniqueChars(fileContent);
-  const uniqueCharsFromFileName = getUniqueChars(fileName);
+  const uniqueCharsFromContent = getUniqueCharsAndRelevantChars(fileContent);
+  const uniqueCharsFromFileName = getUniqueCharsAndRelevantChars(fileName);
 
   return {
     fileName,

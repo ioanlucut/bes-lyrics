@@ -8,6 +8,11 @@ import recursive from 'recursive-readdir';
 
 dotenv.config();
 
+/**
+ * Beware: There is a nasty bug about song names with diacritics, thus that part is not really working.
+ *
+ * See https://apple.stackexchange.com/questions/10476/how-to-enter-special-characters-so-that-bash-terminal-understands-them/10484#10484
+ */
 const reprocessFileNames = async (dir: string) => {
   console.log(`"Reprocessing file names from ${dir} directory.."`);
 

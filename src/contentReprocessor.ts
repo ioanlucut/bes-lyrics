@@ -135,6 +135,8 @@ export const processContent = (content: string, fileName?: string) => {
     .replaceAll(SongSection.VERSE_8, EMPTY_STRING)
     .replaceAll(SongSection.VERSE_9, EMPTY_STRING)
     .replaceAll(SongSection.VERSE_10, EMPTY_STRING)
+    .replaceAll(SongSection.VERSE_11, EMPTY_STRING)
+    .replaceAll(SongSection.VERSE_12, EMPTY_STRING)
     // Replace to .split(/\n\n/gim) in test
     .split(/\r\n\r\n/gim)
     .filter(Boolean)

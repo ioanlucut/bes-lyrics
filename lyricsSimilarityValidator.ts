@@ -56,7 +56,7 @@ const findSimilarities = async (
   potentialDuplicatesDir: string,
   againstDir: string,
 ) => {
-  const verifiedSongs = await readAllFilesAgainstTheChecksAreDoneOnce(
+  const againstSongs = await readAllFilesAgainstTheChecksAreDoneOnce(
     againstDir,
   );
 
@@ -67,7 +67,7 @@ const findSimilarities = async (
       return {
         candidateFileName,
         candidateFilePath,
-        similarities: verifiedSongs
+        similarities: againstSongs
           .filter(({ filePath }) => !isEqual(filePath, candidateFilePath))
           .map(computeSimilarity(candidateFilePath))
           .filter(({ similarity }) => Boolean(similarity))
@@ -157,28 +157,27 @@ const runValidatorAndExitIfSimilar = async (
 };
 
 (async () => {
-  // ---
-  // Verify if the songs that are verified are unique across them
-  // ---
-
-  // await runValidatorAndExitIfSimilar(
-  //   process.env.VERIFIED_DIR,
-  //   process.env.VERIFIED_DIR,
-  // );
-
   // // ---
   // // Verify if the songs that are in candidates are unique across them
   // // ---
-  // await runValidatorAndExitIfSimilar(
-  //   process.env.CANDIDATES_DIR,
-  //   process.env.CANDIDATES_DIR,
-  // );
+  await runValidatorAndExitIfSimilar(
+    process.env.CANDIDATES_DIR,
+    process.env.CANDIDATES_DIR,
+  );
   //
   // // ---
   // // Verify if the songs that are in candidates are unique across the verified songs
   // // ---
   await runValidatorAndExitIfSimilar(
     process.env.CANDIDATES_DIR,
+    process.env.VERIFIED_DIR,
+  );
+
+  // ---
+  // Verify if the songs that are verified are unique across them
+  // ---
+  await runValidatorAndExitIfSimilar(
+    process.env.VERIFIED_DIR,
     process.env.VERIFIED_DIR,
   );
 })();

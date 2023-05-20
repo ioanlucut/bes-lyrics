@@ -99,7 +99,6 @@ export const verifyStructure = (content: string) => {
       Object.keys(sectionsHashMap),
       SongSection.TITLE,
       SongSection.SEQUENCE,
-      SongSection.TAGS,
     ),
     arrangementSequencesAsSections,
   );
