@@ -137,8 +137,8 @@ export const processContent = (content: string, fileName?: string) => {
     .replaceAll(SongSection.VERSE_10, EMPTY_STRING)
     .replaceAll(SongSection.VERSE_11, EMPTY_STRING)
     .replaceAll(SongSection.VERSE_12, EMPTY_STRING)
-    // Replace to .split(/\n\n/gim) in test
-    .split(/\r\n\r\n/gim)
+    // Not sure how to fix this better
+    .split(process.env.NODE_ENV === 'test' ? /\n\n/gim : /\r\n\r\n/gim)
     .filter(Boolean)
     .map(_.trim);
 

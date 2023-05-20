@@ -49,7 +49,7 @@ export const normalizeFileName = (fileName: string) =>
           .replaceAll('isus', 'Isus')
           .replaceAll('isuse', 'Isuse')
           .replaceAll('mesia', 'Mesia')
-          .replaceAll('tata', 'Tata')
+          .replaceAll('tata', 'Tata'),
       ),
     )
     .toString();
