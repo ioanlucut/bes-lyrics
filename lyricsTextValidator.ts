@@ -6,6 +6,8 @@ import dotenv from 'dotenv';
 import { ERROR_CODE, TXT_EXTENSION } from './constants';
 import { assemblyCharsStats, verifyStructure } from './src';
 import recursive from 'recursive-readdir';
+import { logFileWithLinkInConsole } from './utils';
+import chalk from 'chalk';
 
 dotenv.config();
 
@@ -14,9 +16,9 @@ dotenv.config();
 // ---
 
 (async () => {
-  const arrayOfFileNameAndContent = (
-    await recursive(process.env.VERIFIED_DIR)
-  )
+  const fileDir = process.env.CANDIDATES_DIR;
+
+  const arrayOfFileNameAndContent = (await recursive(fileDir))
     .filter((filePath) => filePath.endsWith(TXT_EXTENSION))
     .map((filePath) => {
       const fileName = path.basename(filePath);
@@ -45,19 +47,25 @@ dotenv.config();
     const allChars = problematicHits.map(
       ({ fileName, differenceInFileName, differenceInContent }) => {
         console.group(`"${fileName}"`);
+        logFileWithLinkInConsole(`${fileDir}/${fileName}`);
 
         if (!_.isEmpty(differenceInFileName)) {
           console.log(
-            `The difference between the allowed chars and found in file name are: "${differenceInFileName}"`,
+            `The difference between the allowed chars and found in file name are: "${chalk.yellow(
+              differenceInFileName,
+            )}"`,
           );
         }
 
         if (!_.isEmpty(differenceInContent)) {
           console.log(
-            `The difference between the allowed chars and found in content are: "${differenceInContent}"`,
+            `The difference between the allowed chars and found in content are: "${chalk.yellow(
+              differenceInContent,
+            )}"`,
           );
         }
 
+        console.log();
         console.groupEnd();
 
         return _.uniq([...differenceInFileName, ...differenceInContent]);
