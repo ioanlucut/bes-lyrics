@@ -1,0 +1,29 @@
+[title]
+Printr-un gest (Otto Pascal)
+
+[sequence]
+1,c,2,c,3,c
+
+[1]
+O rază de soare s-a împrietenit
+Cu-n biet copilaş ce umbla rătăcit,
+Cu ochii în lacrimi, murdar, zdrenţuit,
+Flămând de iubire cerşea umilit.
+
+[chorus]
+Printr-un gest cât de mic
+Poţi să-mbraci cu iubire un suflet rănit
+Împlinit, cugetul îţi va fi
+Când obrajii murdari vor zâmbi.
+
+[2]
+În negura nopţii, cu-al ei val de frig,
+În ceaţă-nvelit doar, dormea un copil.
+Tristeţea-l cuprinde ca mama la piept,
+Visând cu speranţă Căminul Ceresc.
+
+[3]
+Din tot ce-am pierdut, doar copilăria
+Aş vrea să-mi răscumpăr, oricât m-ar costa.
+Aş vrea, pe-nserat, să spun povestirea
+Şoptită de mama din visu-mi orfan.
