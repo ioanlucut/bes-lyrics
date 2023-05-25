@@ -2,7 +2,7 @@
 Prețuiește timpul (Otto Pascal)
 
 [sequence]
-1,c,2,c,e
+1,c,2,c,b,c
 
 [1]
 Dimineți senine, toate-s de la El,
@@ -22,7 +22,7 @@ Mulți vor fi găsiți atunci ușori,
 Doar prin fapte bune și credință-n El
 Vei ajunge-n veci cu Dumnezeu!
 
-[ending]
+[bridge]
 Tot ce ești și tot ce ai, nu-i al tău!
 Nici măcar secunda ce clipești,
 Nu ai vrea ca timpul tău să-l dăruiești
