@@ -1,8 +1,8 @@
 [title]
-Cine transformă în soare veșnic
+Ce Dar nemeritat (Phil Wickham, Jeremy Riddle și Josh Farro)
 
 [sequence]
-1,c,2,c,b,c
+1,c,2,c,b,c,c
 
 [1]
 Cine transformă în soare veșnic
