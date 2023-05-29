@@ -2,7 +2,7 @@
 Dumnezeul puternic
 
 [sequence]
-1,c,2,c
+1,c,2,c,c
 
 [1]
 Dumnezeul puternic, ce-i cu tine pe munte,
