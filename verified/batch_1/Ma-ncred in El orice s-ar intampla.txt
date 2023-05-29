@@ -1,5 +1,5 @@
 [title]
-Mă-ncred în El, orice s-ar întâmpla
+Mă-ncred în El 
 
 [sequence]
 1,c,2,t,3,t
