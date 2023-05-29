@@ -1,8 +1,8 @@
 [title]
-În brațul Tău mă dedic din nou
+În brațul Tău mă dedic din nou (Cătălin și Ramona Lup)
 
 [sequence]
-1,c,2,c,b,c
+1,c,2,c,c,b,c,c
 
 [1]
 În brațul Tău mă dedic din nou
