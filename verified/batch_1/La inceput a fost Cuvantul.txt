@@ -1,8 +1,8 @@
 [title]
-La început a fost Cuvântul
+Laud numele Tău, Isus (Hillsong Worship)
 
 [sequence]
-1,c,2,c,b,c
+1,c,2,c,b,c,c
 
 [1]
 La început a fost Cuvântul
