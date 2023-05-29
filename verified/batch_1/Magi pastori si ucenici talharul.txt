@@ -1,8 +1,8 @@
 [title]
-Magi, păstori și ucenici, tâlharul
+Grajd sau cer (Dan Damian (The Messangers))
 
 [sequence]
-1,c,2,c,3,c,b,c
+1,c,2,c,3,c,b,c,c
 
 [1]
 Magi, păstori și ucenici, tâlharul,
