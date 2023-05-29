@@ -1,8 +1,8 @@
 [title]
-În prezența Ta, o, Doamne, e pace
+În prezența Ta
 
 [sequence]
-1,c,2,c
+1,c,2,c,c
 
 [1]
 În prezența Ta, o, Doamne, e pace!
