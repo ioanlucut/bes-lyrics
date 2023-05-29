@@ -1,5 +1,5 @@
 [title]
-Pe drumul cel de piatră
+Ierusalime (Grupul Speranța)
 
 [sequence]
 1,c,2,c,3,t
