@@ -1,5 +1,5 @@
 [title]
-Vrednic de lauda ce o pot cânta
+Build My Life (Matt Redman, Pat Barrett, Brett Younker, Karl Martin, Kirby Kaple)
 
 [sequence]
 1,c,2,c,b,c
