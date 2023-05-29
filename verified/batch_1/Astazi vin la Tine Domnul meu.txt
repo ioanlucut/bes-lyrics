@@ -1,8 +1,8 @@
 [title]
-Astăzi vin la Tine, Domnul meu
+Astăzi vin la Tine, Domnul meu (W&M Liviu Deac)
 
 [sequence]
-1,p,c,2,p,c
+1,p,c,2,p,c,c
 
 [1]
 Astăzi vin la Tine, Domnul meu.
