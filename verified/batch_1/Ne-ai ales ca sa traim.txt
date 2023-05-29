@@ -1,8 +1,8 @@
 [title]
-Ne-ai ales ca să trăim
+Îți mulțumim (The Messengers)
 
 [sequence]
-1,c,2,c
+1,c,2,c,c
 
 [1]
 Ne-ai ales ca să trăim,
