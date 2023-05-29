@@ -1,8 +1,8 @@
 [title]
-Dacă sufletul îți e apăsat
+Ai valoare-n ochii lui Dumnezeu
 
 [sequence]
-1,c,2,c,b,c
+1,c,2,c,c,b,c,c
 
 [1]
 Dacă sufletul îți e apăsat
