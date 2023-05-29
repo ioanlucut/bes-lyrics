@@ -1,5 +1,5 @@
 [title]
-Ce mare ești, o, Doamne
+Ce mare ești, o, Doamne!
 
 [sequence]
 1,c,2,c
