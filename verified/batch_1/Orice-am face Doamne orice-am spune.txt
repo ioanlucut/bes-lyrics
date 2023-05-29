@@ -1,5 +1,5 @@
 [title]
-Orice-am face, Doamne, orice-am spune
+Duhul Tău / Sunt aici
 
 [sequence]
 1,c,2,c,t,3,t,4
