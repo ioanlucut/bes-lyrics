@@ -1,8 +1,8 @@
 [title]
-Al meu Domn, Părinte
+Al meu Domn, Părinte (Darlene Zscech)
 
 [sequence]
-1,c,1,c
+1,c,1,c,c
 
 [1]
 Al meu Domn, Părinte,
