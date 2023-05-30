@@ -1,8 +1,8 @@
 [title]
-Tu ești Cel ce ai fost din veșnicii
+Tu ești Cel ce ai fost din veșnicii (BBSO)
 
 [sequence]
-1,2,p,c,1,2,p,c
+1,2,p,c,1,2,p,c,c
 
 [1]
 Tu ești Cel ce ai fost din veșnicii,
