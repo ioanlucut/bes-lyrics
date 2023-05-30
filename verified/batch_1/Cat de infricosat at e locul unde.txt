@@ -2,7 +2,7 @@
 Oare n-ai știut c-aici e Domnul?
 
 [sequence]
-1,c,2,c,3,c,4,c
+c,1,c,2,c,3,c,4,c
 
 [1]
 Cât de înfricoșat e locul unde
