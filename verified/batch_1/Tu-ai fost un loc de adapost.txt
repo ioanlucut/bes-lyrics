@@ -2,7 +2,7 @@
 Mergem înainte! (Beni Cibu)
 
 [sequence]
-1,c,2,c,3,c,4,c,c
+c,1,c,2,c,3,c,4,c,c
 
 [1]
 Tu-ai fost un loc de adăpost,
