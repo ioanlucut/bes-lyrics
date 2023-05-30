@@ -1,5 +1,5 @@
 [title]
-Veghează-n zori, când ziua abia zâmbește
+Veghează-n zori
 
 [sequence]
 1,c,2,c,3,c
