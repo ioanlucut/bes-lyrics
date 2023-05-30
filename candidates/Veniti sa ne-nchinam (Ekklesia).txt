@@ -1,5 +1,5 @@
 [title]
-Veniți să ne-nchinăm
+Veniți să ne-nchinăm (Ekklesia)
 
 [sequence]
 1,c,2,c
@@ -22,4 +22,4 @@ Pace-n dar El ne-a adus!
 În ceas în taină printre oamenii de jos,
 Într-un staul friguros s-a născut Isus Hristos.
 El, Fiul Tatălui, din cer de sus trimis
-Și Cuvântu s-a-mplinit cum Isaia a vestit.
+Și Cuvântul s-a-mplinit cum Isaia a vestit.

@@ -2,7 +2,7 @@
 Cred în Dumnezeu ca Tată
 
 [sequence]
-c,1,c,2,c,c
+c,1,c,2,c,e
 
 [1]
 Cred în Dumnezeu ca Tată,

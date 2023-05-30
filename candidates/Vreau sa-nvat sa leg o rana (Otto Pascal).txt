@@ -1,5 +1,5 @@
 [title]
-Vreau să-nvăţ să leg o rană (Otto Pascal)
+Vreau să-nvăț să leg o rană (Otto Pascal)
 
 [sequence]
 1,c,2,c
@@ -14,7 +14,7 @@ Am dărâmat templul care trebuia zidit.
 /: Vreau ca gura mea, de acum, să rostească
 Tot ce-aduce un zâmbet pe față,
 Tânjesc să iubesc, ca și Sfântul Miel,
-Vreau să-învăţ să leg o rană,
+Vreau să-învăț să leg o rană,
 Să conduc privirea oarbă către ceruri,
 Nu pot uita că și eu am fost condus cândva de Sfântul Miel. :/
 

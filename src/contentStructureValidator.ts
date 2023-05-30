@@ -1,6 +1,7 @@
 import _, { without } from 'lodash';
 import { SequenceChar, SongSection } from './types';
 import { COMMA } from '../constants';
+import chalk from 'chalk';
 
 export const verifyStructure = (content: string) => {
   const sectionTuples = content
@@ -104,14 +105,20 @@ export const verifyStructure = (content: string) => {
   );
   if (!_.isEmpty(mismatchingSequence)) {
     throw new Error(
-      `The following are present in the content but not in the sequence: ${mismatchingSequence}`,
+      `The following are present in the content but not in the sequence: ${chalk.red(
+        mismatchingSequence,
+      )}`,
     );
   }
 
   arrangementSequencesAsSections.forEach((section) => {
     if (!sectionsHashMap[section]) {
       throw new Error(
-        `The "${section}" is defined in the sequence but missing as a "${SequenceChar[section]}" section.`,
+        `The ${chalk.red(
+          section,
+        )} is defined in the sequence but missing as a ${chalk.red(
+          SequenceChar[section],
+        )} section.`,
       );
     }
   });

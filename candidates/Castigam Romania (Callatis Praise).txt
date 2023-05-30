@@ -1,5 +1,5 @@
 [title]
-Câştigăm România (Callatis Praise)
+Câștigăm România (Callatis Praise)
 
 [sequence]
 1,c,2,c

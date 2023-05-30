@@ -2,7 +2,7 @@
 Acum e timpul pentru-o ungere nouă
 
 [sequence]
-1,c,2,c,e,c
+1,c,2,c,e
 
 [1]
 Acum e timpul pentru-o ungere nouă,

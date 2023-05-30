@@ -1,5 +1,5 @@
 [title]
-Splendoare de'mpărat
+Splendoare de-mpărat
 
 [sequence]
 1,c,2,c,b,c,c

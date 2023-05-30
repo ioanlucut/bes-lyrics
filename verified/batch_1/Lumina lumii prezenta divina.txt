@@ -2,7 +2,7 @@
 Lumina lumii (Imnurile Harului #704)
 
 [sequence]
-1,c,2,c,e,c
+1,c,2,c,e
 
 [1]
 Lumina lumii, prezență divină,

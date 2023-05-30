@@ -2,7 +2,7 @@
 Isus ești speranța mea (Living Hope) (Betania Dublin, Phil Wickham)
 
 [sequence]
-1,2,3,4,c,5,b,c
+1,2,3,4,c,5,c,e
 
 [1]
 De multe ori vin adânci prăpăstii

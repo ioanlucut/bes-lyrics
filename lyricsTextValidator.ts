@@ -16,7 +16,7 @@ dotenv.config();
 // ---
 
 (async () => {
-  const fileDir = process.env.VERIFIED_DIR;
+  const fileDir = process.env.CANDIDATES_DIR;
 
   const arrayOfFileNameAndContent = (await recursive(fileDir))
     .filter((filePath) => filePath.endsWith(TXT_EXTENSION))
@@ -86,11 +86,16 @@ dotenv.config();
 
   let isStructureErroneous = false;
 
-  arrayOfFileNameAndContent.forEach(({ fileName, fileContent }) => {
+  arrayOfFileNameAndContent.forEach(({ fileName, fileContent, filePath }) => {
     try {
       verifyStructure(fileContent);
     } catch (error: any) {
-      console.log(`"${fileName}": `, error.message);
+      console.group(chalk.yellow(fileName));
+      logFileWithLinkInConsole(filePath);
+      console.log(error.message);
+      console.log();
+
+      console.groupEnd();
 
       isStructureErroneous = true;
     }

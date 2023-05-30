@@ -1,5 +1,5 @@
 [title]
-Te-aștept cu privirea spre cer (Mi-e dor)
+Te-aștept cu privirea spre cer (Mi-e dor) (Otto Pascal)
 
 [sequence]
 1,c,2,c

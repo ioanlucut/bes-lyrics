@@ -6,7 +6,7 @@ import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
 import * as process from 'process';
-import { processContent } from './src';
+import { reprocessTextContent } from './src';
 import recursive from 'recursive-readdir';
 import { TXT_EXTENSION } from './constants';
 
@@ -24,7 +24,7 @@ const reprocess = async (dir: string) => {
 
       fs.writeFileSync(
         path.join(path.dirname(filePath), fileName),
-        processContent(fileContent, fileName),
+        reprocessTextContent(fileContent),
       );
     });
 };
