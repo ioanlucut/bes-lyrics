@@ -1,5 +1,5 @@
 [title]
-De ești trudit și ți-e grea povara
+Trece Isus pe-aici
 
 [sequence]
 1,c,2,c,3,c,4,c
