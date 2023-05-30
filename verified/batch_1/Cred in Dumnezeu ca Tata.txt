@@ -2,7 +2,7 @@
 Cred în Dumnezeu ca Tată
 
 [sequence]
-1,c,2,c,c
+c,1,c,2,c,c
 
 [1]
 Cred în Dumnezeu ca Tată,
@@ -45,3 +45,6 @@ Spre-ale cerului comori,
 Cred că nu sunt singur în Hristos,
 Pe mulți El ne-a salvat,
 De aceea credință I-am jurat.
+
+[ending]
+Voi sluji mereu prin Harul Său divin.
