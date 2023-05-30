@@ -2,7 +2,7 @@
 Al meu Domn, Părinte (Darlene Zscech)
 
 [sequence]
-1,c,1,c,c
+1,c,1,c,c,e
 
 [1]
 Al meu Domn, Părinte,
@@ -25,3 +25,6 @@ Tot ce-ai creat în splendoare azi stă.
 Eu veșnic mă-nchin și Îți dau laudă.
 Prin Tine exist 
 Și prin harul Tău Sfânt eu sunt.
+
+[ending]
+Prin Tine exist și prin harul Tău Sfânt eu sunt.
