@@ -2,14 +2,14 @@
 Adonai
 
 [sequence]
-1,c,2,c,e,c
+1,c,2,c,e
 
 [1]
 Doamne în veci vei fi, misterul ce-l voi iubi,
 Domn peste cer și pământ, Dumnezeu minunat.
 Vino-n lumina Ta, îmbrăcat în onoarea Ta,
 Strigă acum inima: vino Rege din nou!
-Și toți azi vom vedea 
+Și toți azi vom vedea
 Din ceruri Gloria Ta.
 
 [chorus]
@@ -20,9 +20,9 @@ Dumnezeu doar Tu ești, iar noi vom striga:
 Adonai, Adonai.
 
 [2]
-În Ierusalim stăm, 
+În Ierusalim stăm,
 Laude-Ți înălțăm,
-Porți deschise avem, 
+Porți deschise avem,
 Ne e dor să revii.
 Și tot Sionul cântă
 Baruch, Habach Beshem.

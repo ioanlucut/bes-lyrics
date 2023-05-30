@@ -1,8 +1,8 @@
 [title]
-Un răspuns dorit-am să primesc
+Dragostea, ce fericire dă! (Călin Lela & Diana Vuculescu)
 
 [sequence]
-1,c,2,c,3,c,b,c
+c,1,c,2,c,3,c,c,e
 
 [1]
 Un răspuns dorit-am să primesc:
@@ -28,7 +28,7 @@ Ce nu se umflă de mândrie,
 Când toate vor vedea sfârșitul.
 Ea, dragostea, va domni în veșnicie.
 
-[bridge]
+[ending]
 Dragostea,
 /: Nimic nu o să ceară, :/
 Dragostea!

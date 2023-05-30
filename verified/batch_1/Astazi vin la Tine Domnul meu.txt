@@ -1,8 +1,8 @@
 [title]
-Astăzi vin la Tine, Domnul meu
+Astăzi vin la Tine, Domnul meu (Liviu Deac)
 
 [sequence]
-1,p,c,2,p,c
+1,p,c,2,p,c,c,e
 
 [1]
 Astăzi vin la Tine, Domnul meu.
@@ -27,3 +27,7 @@ Astăzi vin la Tine, Domnul meu,
 Să Îți mulțumesc de-a Ta iertare.
 Sunt răscumpărat prin harul Tău
 Și trăiesc prin a Ta îndurare.
+
+[ending]
+Cu putere m-ai luat din întuneric
+Și mi-ai arătat înțelepciunea Ta.

@@ -1,0 +1,31 @@
+[title]
+Eu voi învia (Otto Pascal)
+
+[sequence]
+1,c,2,c,3,c,e
+
+[1]
+Nu te-opri, bate-mi cuie-n mâini
+Crezând că-i bine așa.
+Fă ce vrei, dar nu uita
+Într-o zi vei regreta!
+
+[chorus]
+Eu voi învia, nimeni nu mă va putea lega.
+Eu voi învia, moartea nu mă va ținea.
+
+[2]
+Nu te-opri, bate-ți joc,
+Eu te iubesc neîncetat.
+Fă ce vrei, dar în curând
+Eu voi fi eliberat.
+
+[3]
+Fă ce vrei, dar și acum
+Tu vei vedea că ai greșit.
+Nu șopti, ești liber azi
+Să faci ce vrei, dar nu uita:
+
+[ending]
+Că voi reveni, nu-i putere să mă poată-opri.
+Da, voi reveni și poporu-mi voi răpi.

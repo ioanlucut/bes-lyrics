@@ -119,7 +119,10 @@ ${uniqueSections
   );
 };
 
-export const processContent = (content: string, fileName?: string) => {
+export const rewriteByAddingBasicStructure = (
+  content: string,
+  fileName?: string,
+) => {
   const flatSections = content
     .replaceAll('^(\r)\n', '\r\n')
     .replaceAll(SongSection.TITLE, EMPTY_STRING)

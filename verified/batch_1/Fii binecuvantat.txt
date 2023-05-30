@@ -1,8 +1,8 @@
 [title]
-Fii binecuvântat
+Fii binecuvântat! (Matt Redman (Ekklesia BN))
 
 [sequence]
-1,p,c,2,p,c,b,c,e
+1,p,c,2,p,c,b,b,c,c,e
 
 [1]
 Fii binecuvântat

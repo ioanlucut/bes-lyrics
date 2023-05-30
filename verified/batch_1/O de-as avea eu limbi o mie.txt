@@ -1,5 +1,5 @@
 [title]
-O, de-aș avea eu limbi o mie
+O, de-aș avea eu limbi o mie (Accappella Optional)
 
 [sequence]
 1,2,3,4

@@ -2,7 +2,7 @@
 În cetatea unde merg eu
 
 [sequence]
-1,c,2,c,3,c
+c,1,c,2,c,3
 
 [1]
 În cetatea unde merg eu,

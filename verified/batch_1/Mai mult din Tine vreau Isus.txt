@@ -1,8 +1,8 @@
 [title]
-Mai mult din Tine vreau Isus
+Mai mult din Tine vreau, Isus (Marius Pop & Naomi Borota)
 
 [sequence]
-1,c,2,c,b,c
+c,c,1,2,b,c,c
 
 [1]
 Mai mult din Tine vreau Isus,

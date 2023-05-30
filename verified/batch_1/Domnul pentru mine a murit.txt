@@ -1,8 +1,8 @@
 [title]
-Domnul pentru mine a murit
+Mare e gloria Domnului! (Elim Harmony)
 
 [sequence]
-1,c,2,c,b,c,w
+c,1,c,2,c,b,c,w
 
 [1]
 Domnul pentru mine a murit,

@@ -1,8 +1,8 @@
 [title]
-Dragostea care nu doare
+Dragostea care nu doare (Traian Dorz / Sami Lela)
 
 [sequence]
-1,2,3,4,5,6
+1,2,3,4,5,6,6,e
 
 [1]
 Dragostea care nu doare
@@ -35,7 +35,11 @@ Nu te lasă, ci te ține
 Orice trece și-orice vine.
 
 [6]
-Numai dragostea frumoasă
+/: Numai dragostea frumoasă
 Legământul nu și-l lasă
+Și cununa nu-și desparte
+Nici în viață, nici în moarte! :/
+
+[ending]
 Și cununa nu-și desparte
 Nici în viață, nici în moarte!

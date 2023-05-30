@@ -1,5 +1,5 @@
 [title]
-Rabuni, Tu din morți ai înviat
+Rabuni, Tu din morți ai înviat!
 
 [sequence]
 c,1,c,2,c,3,c

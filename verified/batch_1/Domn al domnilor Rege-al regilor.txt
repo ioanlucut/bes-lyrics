@@ -1,5 +1,5 @@
 [title]
-Domn al domnilor, Rege-al regilor
+Domn al domnilor
 
 [sequence]
 1,c,e

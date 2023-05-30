@@ -2,7 +2,7 @@
 Înainte să-nțelegem Harul Tău (Doar prin crucea Ta)(BBSO)
 
 [sequence]
-1,b,c,2,b,c,e,c
+1,b,c,2,b,c,e
 
 [1]
 Înainte să-nțelegem harul Tău bogat,

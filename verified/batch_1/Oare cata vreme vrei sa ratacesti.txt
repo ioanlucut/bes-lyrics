@@ -1,8 +1,8 @@
 [title]
-Oare câtă vreme vrei să rătăcești
+Vino azi (Doru Girboan)
 
 [sequence]
-1,c,2,c,b,c
+1,c,2,c,b,c,c
 
 [1]
 Oare câtă vreme vrei să rătăcești

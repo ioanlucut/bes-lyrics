@@ -2,7 +2,7 @@
 Cred în Dumnezeu ca Tată
 
 [sequence]
-1,2,c,3,4,c
+c,1,c,2,c,e
 
 [1]
 Cred în Dumnezeu ca Tată,
@@ -13,7 +13,6 @@ Cred că mai este iertare
 Pentru tot trecutul meu,
 De aceea alerg la tronul Său.
 
-[2]
 Cred că Isus a fost jertfă,
 Pe un lemn crucificat,
 Și-n mormânt, lângă Golgota,
@@ -30,7 +29,7 @@ Nu-mi va fi deloc rușine
 Să afirm că sunt creștin.
 Voi sluji mereu prin harul Său divin. :/
 
-[3]
+[2]
 Cred Cuvântul care spune:
 Trebuie să te naști din nou,
 Viața veche e spălată
@@ -39,7 +38,6 @@ Cred că dragostea lui Dumnezeu
 Te va descoperi,
 De aceea și mai mult Îl voi sluji.
 
-[4]
 Cred că este-un bine și un rău,
 Te naști și apoi mori.
 Cred că Biblia este harta
@@ -47,3 +45,6 @@ Spre-ale cerului comori,
 Cred că nu sunt singur în Hristos,
 Pe mulți El ne-a salvat,
 De aceea credință I-am jurat.
+
+[ending]
+Voi sluji mereu prin Harul Său divin.

@@ -1,8 +1,8 @@
 [title]
-Unii se bizuiesc pe înțelepciunea lor
+Și mă ridic (Album Toflea: Rugul Aprins)
 
 [sequence]
-1,c,2,c,3,c
+c,1,c,2,c,3,c,c
 
 [1]
 Unii se bizuiesc pe înțelepciunea lor

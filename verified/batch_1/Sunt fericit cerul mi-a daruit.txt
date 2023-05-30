@@ -1,8 +1,8 @@
 [title]
-Sunt fericit, cerul mi-a dăruit
+Dar din paradis (Cristi și Emma Repede)
 
 [sequence]
-1,p,c,2,p,c,p
+p,1,p,c,2,p,c,c,p
 
 [1]
 Sunt fericit, cerul mi-a dăruit,

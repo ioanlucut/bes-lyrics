@@ -1,8 +1,8 @@
 [title]
-Cel ce stă sub ocrotirea Celui Prea-nalt
+Psalmul 91
 
 [sequence]
-1,c,2,c
+c,1,c,2,c,c
 
 [1]
 Cel ce stă sub ocrotirea Celui Prea-nalt,

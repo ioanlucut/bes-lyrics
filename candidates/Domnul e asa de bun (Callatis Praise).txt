@@ -1,0 +1,29 @@
+[title]
+Domnul e așa de bun (Callatis Praise)
+
+[sequence]
+1,2,3,4
+
+[1]
+Domnul e-așa de bun, da,
+E așa de bun, e așa de bun!
+Glorie îți cânt Osana!
+Domnul e așa de bun!
+
+[2]
+Domnul e credincios, e credincios,
+Așa de credincios,
+Glorie îți cânt, Osana!
+Domnul e credincios!
+
+[3]
+Domnul e minunat, e minunat,
+Așa de minunat,
+Glorie îți cânt, Osana!
+Domnul e minunat!
+
+[4]
+El viața mi-a scăpat,
+Prin sânge sfânt am fost spălat.
+Glorie îți cânt, Osana!
+Prin jerfa Lui sunt salvat!

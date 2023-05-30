@@ -1,8 +1,8 @@
 [title]
-Leagă-ți inima de Cer
+Leagă-ți inima de Cer (Grupul Domini)
 
 [sequence]
-c,1,c,b,c
+c,1,c,b,c,c
 
 [chorus]
 Leagă-ți inima de Cer,

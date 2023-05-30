@@ -1,0 +1,25 @@
+[title]
+Domnul mi-e Păstorul (Emma Repede)
+
+[sequence]
+1,c,1,c,e
+
+[1]
+Domnul mi-e Păstorul
+Și eu lipsă de nimic nu voi duce,
+El mă paște în pășuni verzi
+Și la ape de odihnă El mă duce.
+Îmi înviorează sufletul
+Și mă povățuiește
+Pe cărările Lui drepte,
+Din pricina Numelui Său.
+
+[chorus]
+/: Chiar de-ar fi să umblu-n valea umbrei morții,
+Nu mă tem de nici un rău căci Tu ești cu mine.
+Toiagul și nuiaua Ta mă mângâie,
+De aceea îndurarea mă va însoți. :/
+
+[ending] 
+Domnul mi-e Păstorul
+Și eu lipsă de nimic nu voi duce.

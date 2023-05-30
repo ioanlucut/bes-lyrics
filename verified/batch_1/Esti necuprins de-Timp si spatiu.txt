@@ -1,8 +1,8 @@
 [title]
-Ești necuprins de timp și spațiu
+Iehova, Dumnezeu 
 
 [sequence]
-1,c,2,c,3,c
+1,c,2,c,3,c,c
 
 [1]
 Ești necuprins de timp și spațiu,

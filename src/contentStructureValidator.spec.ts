@@ -144,7 +144,7 @@ Row 1`),
     expect(() =>
       verifyStructure(SONG_WITH_MISMATCHING_SEQUENCE),
     ).toThrowErrorMatchingInlineSnapshot(
-      `"The following are present in the content but not in the sequence: [bridge],[bridge 2],[chorus 2],[ending],[prechorus],[prechorus 2]"`,
+      `"The following are present in the content but not in the sequence: [31m[bridge],[bridge 2],[chorus 2],[ending],[prechorus],[prechorus 2][39m"`,
     );
   });
 
@@ -152,7 +152,7 @@ Row 1`),
     expect(() =>
       verifyStructure(SONG_WITH_MISMATCHING_SECTIONS),
     ).toThrowErrorMatchingInlineSnapshot(
-      `"The "[chorus]" is defined in the sequence but missing as a "c" section."`,
+      `"The [31m[chorus][39m is defined in the sequence but missing as a [31mc[39m section."`,
     );
   });
 });

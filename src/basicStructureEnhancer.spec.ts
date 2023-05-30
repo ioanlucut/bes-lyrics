@@ -1,9 +1,9 @@
-import { processContent } from './contentReprocessor';
+import { rewriteByAddingBasicStructure } from './basicStructureEnhancer';
 
 describe('contentReprocessor', () => {
   it('should work correctly #1', () => {
     expect(
-      processContent(`[title]
+      rewriteByAddingBasicStructure(`[title]
 Aleluia el domnce bine e
 
 [sequence]
@@ -54,7 +54,7 @@ Isus Hristos e Domn.
 
   it('should work correctly #2', () => {
     expect(
-      processContent(`[title]
+      rewriteByAddingBasicStructure(`[title]
 Tu mi stii viitorul
 
 [sequence]
@@ -136,7 +136,7 @@ Nicicând n-ai să mă părăsești!`),
 
   it('should work correctly #3', () => {
     expect(
-      processContent(`[title]
+      rewriteByAddingBasicStructure(`[title]
 Tu n ai sub soare asemanare tu esti iubirea mea
 
 [sequence]
@@ -229,7 +229,7 @@ Soarele meu frumos Din zorii dimineții.`),
 
   it('should work correctly #3', () => {
     expect(
-      processContent(`[title]
+      rewriteByAddingBasicStructure(`[title]
 Aici e duhul domnului
 
 [sequence]

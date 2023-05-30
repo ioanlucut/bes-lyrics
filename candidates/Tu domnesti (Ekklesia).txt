@@ -1,0 +1,26 @@
+[title]
+Tu domnești (Ekklesia)
+
+[sequence]
+1,c,2,c,e
+
+[1]
+Noaptea aștept,
+Numeri stelele și pe nume le chemi,
+Cerurile declară: „Tu domnești!”
+Tu strălucești ca soarele într-o nouă zi,
+Toate Îți spun: „Tu domnești!”
+
+[chorus] 
+Tu domnești, da, domnești!
+Pentru totdeauna Rege ești!
+
+[2]
+Mări se despart,
+Mișcă munți întregi la Cuvântul Tău.
+Voi declara: „Tu domnești!”
+Viață îmi dai, inima-mi cunoști și pe nume mă chemi,
+Trăiesc să-Ți cânt: „Tu domnești!”.
+
+[ending]
+Aleluia, Tu domnești!

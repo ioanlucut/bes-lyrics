@@ -1,8 +1,8 @@
 [title]
-Câtă vreme a trecut, câtă vreme a rămas
+Amăgire (Chris)
 
 [sequence]
-1,c,2,c
+1,c,2,c,c
 
 [1]
 Câtă vreme a trecut, câtă vreme a rămas

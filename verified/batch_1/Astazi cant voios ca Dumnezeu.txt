@@ -1,8 +1,8 @@
 [title]
-Astăzi cânt voios că Dumnezeu
+El e fântâna cu ape vii 
 
 [sequence]
-1,c,2,c
+c,1,c,2,c,3,c,c
 
 [1]
 Astăzi cânt voios că Dumnezeu
@@ -27,6 +27,7 @@ Nicăieri în lume nu-i altul ca și El!
 El e mai de preț decât tot ce am,
 El e slava mea, e comoara mea în veci!
 
+[3]
 Chiar de n-ar mai fi râuri pe Pământ,
 El e râul vieții mele, limpede și sfânt.
 Niciodată El nu va seca

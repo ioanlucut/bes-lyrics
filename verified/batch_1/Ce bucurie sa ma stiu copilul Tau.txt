@@ -1,11 +1,11 @@
 [title]
-Ce bucurie, să mă știu copilul Tău
+Ce bucurie să mă știu copilul Tău
 
 [sequence]
-1,c,2,c
+1,c,2,c,c
 
 [1]
-Ce bucurie, să mă știu copilul Tău
+Ce bucurie să mă știu copilul Tău
 Și să fiu păzit mereu de mâna Ta.
 Glorie Ție, ai spălat păcatul meu
 Prin Isus crucificat la Golgota.
