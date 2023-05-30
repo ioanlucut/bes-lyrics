@@ -2,7 +2,7 @@
 Calea, adevărul, viața (The Messangers)
 
 [sequence]
-1,c,2,c
+c,1,c,2,c
 
 [1]
 Calea, adevărul, viața
