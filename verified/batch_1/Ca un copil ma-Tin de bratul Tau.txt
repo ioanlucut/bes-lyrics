@@ -2,7 +2,7 @@
 Ca un copil
 
 [sequence]
-1,c,2,c,c
+c,1,c,2,c,c
 
 [1]
 Ca un copil mă țin de brațul Tău,
