@@ -1,8 +1,8 @@
 [title]
-Din neam în neam ești adăpost
+Tu ești Cetățuia mea (Marius Livanu)
 
 [sequence]
-1,c,2,c,3,c
+1,c,2,c,3,c,c
 
 [1]
 Din neam în neam ești adăpost
