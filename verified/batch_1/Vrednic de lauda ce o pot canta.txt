@@ -1,5 +1,5 @@
 [title]
-Build My Life (Matt Redman, Pat Barrett, Brett Younker, Karl Martin, Kirby Kaple)
+Sfânt ești, nimeni nu-i ca Tine / Build My Life (Matt Redman, Pat Barrett, Brett Younker, Karl Martin, Kirby Kaple)
 
 [sequence]
 1,c,2,c,b,c
