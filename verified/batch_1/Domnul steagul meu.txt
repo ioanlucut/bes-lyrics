@@ -1,5 +1,5 @@
 [title]
-Domnul, steagul meu
+Victorios (Dinu Onea & Marius Pop)
 
 [sequence]
 1,2,c,b,c
