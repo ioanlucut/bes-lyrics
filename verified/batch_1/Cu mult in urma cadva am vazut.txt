@@ -2,7 +2,7 @@
 Ierusalim
 
 [sequence]
-1,c,2,b,t,w
+c,1,c,2,b,c,w
 
 [1]
 Cu mult în urmă, cândva am văzut
@@ -36,12 +36,6 @@ Vreau să ajung în cerul slăvit,
 Ierusalim, Ierusalim, toți Domnului cântați!
 Osana, glorie, slavă, osana
 De-acum și-n veci de veci!
-
-[chorus 2]
-Ierusalim, vreau să pășesc pe străzile tale
-Și vreau să privesc ale tale splendori!
-Ierusalim, să mă odihnesc lângă apa vieții
-În cetatea lui Dumnezeu.
 
 [bridge 2]
 Ierusalim, Ierusalim,
