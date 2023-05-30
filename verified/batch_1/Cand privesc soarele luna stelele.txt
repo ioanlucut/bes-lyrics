@@ -2,7 +2,7 @@
 Psalmul 136 (Alexandru Groza)
 
 [sequence]
-1,c,2,c,3,c
+c,1,c,2,c,3,c
 
 [1]
 Când privesc soarele, luna, stelele,
