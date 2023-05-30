@@ -2,7 +2,7 @@
 Dragostea e din Dumnezeu (Emma Repede)
 
 [sequence]
-1,c,2,c,3,c
+c,1,c,2,c,3
 
 [1]
 Dragostea e din Dumnezeu
