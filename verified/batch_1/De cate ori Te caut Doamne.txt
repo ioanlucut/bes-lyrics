@@ -1,8 +1,8 @@
 [title]
-De câte ori Te caut, Doamne
+Tu ești Domnul meu! (Grupul Messis)
 
 [sequence]
-1,c,2,c
+1,c,2,c,c
 
 [1]
 De câte ori Te caut, Doamne,
