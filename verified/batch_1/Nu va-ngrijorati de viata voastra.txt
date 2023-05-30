@@ -2,7 +2,7 @@
 Nu vă-ngrijorați de viața voastră (Puiu Chibici)
 
 [sequence]
-1,c,2,c,3,c,4,c
+c,1,c,2,c,3,c,4,c
 
 [1]
 Nu vă-ngrijorați de viața voastră,
