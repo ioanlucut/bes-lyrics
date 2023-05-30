@@ -2,7 +2,7 @@
 Îți doresc (Amalia Decean (Monica Turtoi))
 
 [sequence]
-1,p,c,2,p,c,c
+c,1,p,c,2,p,c,c
 
 [1]
 Îți doresc sănătate, 
