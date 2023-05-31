@@ -2,7 +2,7 @@
 Pentru noi e taină mare
 
 [sequence]
-1,c,2,c,3,c,c
+c,1,c,2,c,3,c,c
 
 [1]
 Pentru noi e taină mare
