@@ -2,7 +2,7 @@
 Îndeajuns mi-e, Doamne (Imnurile Harului #844)
 
 [sequence]
-1,c,2,c,3,c,4,c
+c,1,c,2,c,3,c,4
 
 [1]
 /: Îndeajuns mi-e, Doamne,
