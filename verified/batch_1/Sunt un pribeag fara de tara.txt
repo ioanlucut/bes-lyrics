@@ -2,7 +2,7 @@
 Sunt un pribeag fără de țară
 
 [sequence]
-1,c,2,c,3,c,4,c
+c,1,c,2,c,3,c,4
 
 [1]
 Sunt un pribeag fără de țară,
