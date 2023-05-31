@@ -2,7 +2,7 @@
 Cele mai frumoase momente din viață (Imnurile Harului #493)
 
 [sequence]
-1,c,2,c,3,c,4,c
+c,1,c,2,c,3,c,4
 
 [1]
 Cele mai frumoase momente din viață
