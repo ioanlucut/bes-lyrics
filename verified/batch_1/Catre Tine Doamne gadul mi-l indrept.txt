@@ -2,7 +2,7 @@
 Am trecut biruitor prin încercări
 
 [sequence]
-c,1,c,2,c,3,c
+1,c,2,c,3,c
 
 [1]
 Către Tine, Doamne, gândul mi-l îndrept,

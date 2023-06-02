@@ -2,7 +2,7 @@
 Curățit ești de păcat și înnoit (#390 (Imnurile Harului))
 
 [sequence]
-c,1,c,2,c,3
+1,c,2,c,3,c
 
 [1]
 Curățit ești de păcat și înnoit,

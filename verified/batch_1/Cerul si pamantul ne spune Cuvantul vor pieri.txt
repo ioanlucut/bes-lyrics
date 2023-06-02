@@ -2,7 +2,7 @@
 Evanghelia are putere 
 
 [sequence]
-c,1,c,2,c,3,c
+1,c,2,c,3,c
 
 [1]
 Cerul și pământul, ne spune Cuvântul, vor pieri,

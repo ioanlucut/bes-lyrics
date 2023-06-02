@@ -2,7 +2,7 @@
 Tu ești Creatorul (Imnurile Harului #1109)
 
 [sequence]
-c,1,c,2
+1,c,2,c
 
 [1]
 Tu ești Creatorul Universului întreg
