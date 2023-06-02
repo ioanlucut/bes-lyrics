@@ -1,5 +1,5 @@
 [title]
-Totu-i pregătit în casa de sus {Author: {3x}}
+Totu-i pregătit în casa de sus
 
 [sequence]
 1,2,3,4,5
