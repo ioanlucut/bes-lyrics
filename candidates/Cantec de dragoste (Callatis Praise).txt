@@ -1,5 +1,5 @@
 [title]
-Cântec de dragoste (Callatis Praise)
+Cântec de dragoste {Author: {Callatis Praise}}
 
 [sequence]
 1,c

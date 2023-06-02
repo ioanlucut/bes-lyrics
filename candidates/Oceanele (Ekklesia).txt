@@ -1,5 +1,5 @@
 [title]
-Oceanele (Ekklesia)
+Oceanele {Author: {Ekklesia}}
 
 [sequence]
 1,c,2,c,2,c

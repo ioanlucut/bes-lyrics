@@ -1,5 +1,5 @@
 [title]
-Nu voi uita acel moment (Elim Harmony)
+Nu voi uita acel moment {Author: {Elim Harmony}}
 
 [sequence]
 1,c,2,c

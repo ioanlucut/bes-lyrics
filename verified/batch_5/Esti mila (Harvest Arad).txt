@@ -1,5 +1,5 @@
 [title]
-Ești milă (Harvest Arad)
+Ești milă {Author: {Harvest Arad}}
 
 [sequence]
 1,2,c,3,e
@@ -22,10 +22,10 @@ Trăiesc fiindcă ai murit, așa mult m-ai iubit,
 Ești milă...
 
 [3]
-Am viața Ta fără sfârșit, 
+Am viața Ta fără sfârșit,
 Privirea Ta m-a cucerit
 cu un cântec blând m-ai copleșit plin de milă.
 
-[ending] 
+[ending]
 /: Cu a Ta îndurare, mă-îndemni la pocăință. :/ (2x)
 /: Cu bunătate, mă-îndemni la pocăință. :/ (2x)

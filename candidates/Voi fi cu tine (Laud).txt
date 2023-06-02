@@ -1,5 +1,5 @@
 [title]
-Voi fi cu tine (Laud)
+Voi fi cu tine {Author: {Laud}}
 
 [sequence]
 c,1,c,2

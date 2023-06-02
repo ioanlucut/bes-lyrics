@@ -1,12 +1,12 @@
 [title]
-Tu spui sunt iubit, când eu nu simt nimic (Lauren Daigle)
+Tu spui sunt iubit, când eu nu simt nimic {Author: {Lauren Daigle}}
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
 Mă lupt cu voci, în minte, ce-mi spun că sunt insuficient,
-Aud minciuni care îmi spun că sigur n-am sa reușesc.
+Aud minciuni care îmi spun că sigur n-am să reușesc.
 Și mai întreb, oare însemn ceva sau oare ce pot fi?
 Mai amintește-mi înc-odat’ cine sunt,
 Am nevoie să știu, o-ooh...

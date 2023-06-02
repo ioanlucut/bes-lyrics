@@ -1,5 +1,5 @@
 [title]
-Merg spre casă (Otto Pascal)
+Merg spre casă {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c
@@ -16,11 +16,11 @@ Vin ecouri dinspre casă,
 Sunt pașii Tăi, Mire iubit!
 
 [chorus]
-Te-aștept cu dor, privind spre cer, 
+Te-aștept cu dor, privind spre cer,
 Să văd dacă nu vii
-Și în genunchi, sub ceruri ce se sting, 
+Și în genunchi, sub ceruri ce se sting,
 Eu cânt și plâng,
-Dar știu că nu mai este mult 
+Dar știu că nu mai este mult
 Și vei veni pe nori în slavă iar.
 Stau pe genunchi și Te-aștept.
 

@@ -1,5 +1,5 @@
 [title]
-Frumusețea ce ne-nconjoară (Elim Harmony)
+Frumusețea ce ne-nconjoară {Author: {Elim Harmony}}
 
 [sequence]
 c,1,c,2

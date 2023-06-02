@@ -1,5 +1,5 @@
 [title]
-Yahweh se manifestă (El Shaddai)
+Yahweh se manifestă {Author: {El Shaddai}}
 
 [sequence]
 c,1,c,1,c,b,t,c

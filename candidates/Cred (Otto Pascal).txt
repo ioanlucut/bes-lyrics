@@ -1,5 +1,5 @@
 [title]
-Cred (Otto Pascal)
+Cred {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,b,c

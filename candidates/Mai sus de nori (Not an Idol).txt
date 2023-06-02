@@ -1,5 +1,5 @@
 [title]
-Mai sus de nori (Not an Idol)
+Mai sus de nori {Author: {Not an Idol}}
 
 [sequence]
 1,c,2,c,b,w,c

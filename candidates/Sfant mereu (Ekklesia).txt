@@ -1,5 +1,5 @@
 [title]
-Sfânt mereu (Ekklesia)
+Sfânt mereu {Author: {Ekklesia}}
 
 [sequence]
 1,c,2,c,c,c

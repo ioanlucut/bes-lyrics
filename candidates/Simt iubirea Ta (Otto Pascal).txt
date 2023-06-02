@@ -1,5 +1,5 @@
 [title]
-Simt iubirea Ta (Otto Pascal)
+Simt iubirea Ta {Author: {Otto Pascal}}
 
 [sequence]
 1,b,c,2,c

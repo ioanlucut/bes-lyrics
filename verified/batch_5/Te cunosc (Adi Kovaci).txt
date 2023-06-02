@@ -1,5 +1,5 @@
 [title]
-Te cunosc (Adi Kovaci)
+Te cunosc {Author: {Adi Kovaci}}
 
 [sequence]
 1,p,2,c,t

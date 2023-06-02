@@ -1,10 +1,10 @@
 [title]
-Doamne, Tu ești un Foc (Poarta Cerului)
+Doamne, Tu ești un Foc {Author: {Poarta Cerului}}
 
 [sequence]
 1,c,2,c,b,w,c
 
-[1] 
+[1]
 Domnia Ta-i eternă
 Și tronul Tău e îmbrăcat cu aur curat,
 Înflăcărat cu foc și tunet!

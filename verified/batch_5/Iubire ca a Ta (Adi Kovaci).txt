@@ -1,5 +1,5 @@
 [title]
-Iubire ca a Ta (Adi Kovaci)
+Iubire ca a Ta {Author: {Adi Kovaci}}
 
 [sequence]
 1,c,2,c

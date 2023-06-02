@@ -1,5 +1,5 @@
 [title]
-Nu pot să știu (Adi Kovaci)
+Nu pot să știu {Author: {Adi Kovaci}}
 
 [sequence]
 1,c,2,c,e

@@ -1,5 +1,5 @@
 [title]
-Din inimă Te laud (Florin Mesaroș)
+Din inimă Te laud {Author: {Florin Mesaroș}}
 
 [sequence]
 1,c,2,c

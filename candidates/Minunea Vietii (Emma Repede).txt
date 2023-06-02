@@ -1,5 +1,5 @@
 [title]
-Minunea Vieții (Emma Repede)
+Minunea Vieții {Author: {Emma Repede}}
 
 [sequence]
 1,b,c,2,c

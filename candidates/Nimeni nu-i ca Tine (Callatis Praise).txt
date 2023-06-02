@@ -1,5 +1,5 @@
 [title]
-Nimeni nu-i ca Tine (Callatis Praise)
+Nimeni nu-i ca Tine {Author: {Callatis Praise}}
 
 [sequence]
 1,c,2,t
@@ -9,7 +9,7 @@ Nu-i nimeni ca Tine, iubit Salvator!
 Nu-i nimeni să-mi poarte speranța de viață
 Pe aripi de dor.
 Nu-i nimeni pe lume să poată iubi,
-Nu-i nimeni ca Isus 
+Nu-i nimeni ca Isus
 Să-mi dea siguranță să pot trăi.
 
 [chorus]

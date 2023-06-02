@@ -1,5 +1,5 @@
 [title]
-Ce-ar folosi (Marius Pop & Naomi Borota)
+Ce-ar folosi {Author: {Marius Pop & Naomi Borota}}
 
 [sequence]
 1,c,2,b,t

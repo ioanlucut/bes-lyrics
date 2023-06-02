@@ -1,5 +1,5 @@
 [title]
-Ridică-mă (Otto Pascal)
+Ridică-mă {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,3,c

@@ -1,5 +1,5 @@
 [title]
-Mama Mea (Elim Harmony)
+Mama Mea {Author: {Elim Harmony}}
 
 [sequence]
 1,c,2,c

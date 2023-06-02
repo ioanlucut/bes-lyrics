@@ -1,5 +1,5 @@
 [title]
-Laude, laude (Otto Pascal)
+Laude, laude {Author: {Otto Pascal}}
 
 [sequence]
 c,1,b,2,c,3,c

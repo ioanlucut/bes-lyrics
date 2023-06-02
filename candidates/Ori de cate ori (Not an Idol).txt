@@ -1,5 +1,5 @@
 [title]
-Ori de câte ori (Not an Idol)
+Ori de câte ori {Author: {Not an Idol}}
 
 [sequence]
 1,b,c,2,w,c

@@ -1,5 +1,5 @@
 [title]
-Îngenunchez (Alin Timofte)
+Îngenunchez {Author: {Alin Timofte}}
 
 [sequence]
 1,b,c,2,b,c

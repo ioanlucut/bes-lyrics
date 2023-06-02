@@ -1,5 +1,5 @@
 [title]
-Poartă bunătatea și iubirea (Elim Harmony)
+Poartă bunătatea și iubirea {Author: {Elim Harmony}}
 
 [sequence]
 c,1,c,2
@@ -19,7 +19,7 @@ Să-i iubești (să-i iubești), să-i ajuți (să-i ajuți)
 Și din disperare vor fi ridicați.
 
 [2]
-Ajutor (ajutor) să oferi (sa oferi)
+Ajutor (ajutor) să oferi (să oferi)
 Când observi descurajare în drumul tău.
 Pe cei slabi (pe cei slabi) să-i susții (să-i susții)
 Căci pe mulți coroana vieții apasă greu.

@@ -1,5 +1,5 @@
 [title]
-Dragostea dintâi (Adi Kovaci)
+Dragostea dintâi {Author: {Adi Kovaci}}
 
 [sequence]
 1,c,2,c

@@ -1,5 +1,5 @@
 [title]
-Cum Domnu ne-a iubit (Emma Repede)
+Cum Domnu ne-a iubit {Author: {Emma Repede}}
 
 [sequence]
 1,c,2,c,e

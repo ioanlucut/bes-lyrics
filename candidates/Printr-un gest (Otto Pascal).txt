@@ -1,5 +1,5 @@
 [title]
-Printr-un gest (Otto Pascal)
+Printr-un gest {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,3,c

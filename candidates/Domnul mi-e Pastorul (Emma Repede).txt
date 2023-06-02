@@ -1,5 +1,5 @@
 [title]
-Domnul mi-e Păstorul (Emma Repede)
+Domnul mi-e Păstorul {Author: {Emma Repede}}
 
 [sequence]
 1,c,1,c,e
@@ -20,6 +20,6 @@ Nu mă tem de nici un rău căci Tu ești cu mine.
 Toiagul și nuiaua Ta mă mângâie,
 De aceea îndurarea mă va însoți. :/
 
-[ending] 
+[ending]
 Domnul mi-e Păstorul
 Și eu lipsă de nimic nu voi duce.

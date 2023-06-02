@@ -1,5 +1,5 @@
 [title]
-Tot mai mult, Isus (Ekklesia)
+Tot mai mult, Isus {Author: {Ekklesia}}
 
 [sequence]
 1,c,1,c,c,c

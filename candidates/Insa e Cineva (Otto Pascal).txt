@@ -1,5 +1,5 @@
 [title]
-Însă e Cineva (Otto Pascal)
+Însă e Cineva {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,b,c

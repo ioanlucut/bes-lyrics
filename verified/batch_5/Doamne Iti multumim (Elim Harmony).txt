@@ -1,5 +1,5 @@
 [title]
-Doamne, Îți mulțumim (Elim Harmony)
+Doamne, Îți mulțumim {Author: {Elim Harmony}}
 
 [sequence]
 1,b,c,w,c

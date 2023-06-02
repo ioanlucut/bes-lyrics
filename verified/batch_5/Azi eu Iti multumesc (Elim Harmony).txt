@@ -1,5 +1,5 @@
 [title]
-Azi, eu Îți mulțumesc (Elim Harmony)
+Azi, eu Îți mulțumesc {Author: {Elim Harmony}}
 
 [sequence]
 c,1,c,2

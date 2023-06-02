@@ -1,5 +1,5 @@
 [title]
-O noapte de Crăciun (Alin Timofte)
+O noapte de Crăciun {Author: {Alin Timofte}}
 
 [sequence]
 1,b,c,2,w,e
@@ -12,17 +12,17 @@ S-a născut Isus, o ce minunat!
 Colindători afară cântă neîncetat,
 Slavă, sus în cer, pentru împărat.
 
-[bridge] 
+[bridge]
 Iau chitară în mâna și pornesc pe străzi, totu-i luminat
 Copii se joacă în zăpadă, oameni fericiți că sunt salvați.
 
-[chorus] 
+[chorus]
 Îngerii din cer vestea bună au adus,
 Că în Betleem s-a născut Isus.
 Într-o iesle rece Dumnezeu a venit,
 A lăsat cerul Său fiindcă ne-a iubit.
 
-[2] 
+[2]
 Și suntem bucuroși că Isus ne-a salvat,
 Și suntem curajoși că Isus e împărat.
 Iarăși e Crăciun, dar singur pe drum tu rătăcești,
@@ -32,11 +32,11 @@ Cerul a intrat în inima ta,
 Încă stai și cauți trist o stea pe cer,
 Dar n-o vei găsi, nu o vei afla.
 
-[bridge 2] 
+[bridge 2]
 Vino la Isus și El îți va da
 Calde sărbători, te va îmbrățișa.
 
-[ending] 
+[ending]
 Lasă să se nască și în viața ta,
 Hai, vino cu noi, haide, nu mai sta,
 Hai, vino cu noi, să ai povestea ta!

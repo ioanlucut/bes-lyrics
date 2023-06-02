@@ -1,5 +1,5 @@
 [title]
-Ne-închinăm numai Ție (Otto Pascal)
+Ne-închinăm numai Ție {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,3,c

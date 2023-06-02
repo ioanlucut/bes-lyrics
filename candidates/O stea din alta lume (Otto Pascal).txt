@@ -1,5 +1,5 @@
 [title]
-O stea din altă lume (Otto Pascal)
+O stea din altă lume {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c

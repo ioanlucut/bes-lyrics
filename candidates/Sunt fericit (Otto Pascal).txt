@@ -1,5 +1,5 @@
 [title]
-Sunt fericit (Otto Pascal)
+Sunt fericit {Author: {Otto Pascal}}
 
 [sequence]
 1,c,1,c

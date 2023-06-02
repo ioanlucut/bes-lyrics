@@ -1,5 +1,5 @@
 [title]
-Încrede-te în El (Emma Repede)
+Încrede-te în El {Author: {Emma Repede}}
 
 [sequence]
 1,c,2,c

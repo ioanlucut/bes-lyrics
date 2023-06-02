@@ -1,5 +1,5 @@
 [title]
-Înainte să-nțelegem Harul Tău (Doar prin crucea Ta)(BBSO)
+Înainte să-nțelegem Harul Tău {Alternative: {{Doar prin crucea Ta}, {Author: {BBSO}}}
 
 [sequence]
 1,b,c,2,b,c,e

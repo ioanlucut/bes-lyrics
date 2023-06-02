@@ -1,5 +1,5 @@
 [title]
-Rămâi, Isus (Răzvan Reste)
+Rămâi, Isus {Author: {Răzvan Reste}}
 
 [sequence]
 1,c,2,c,b,c

@@ -1,11 +1,11 @@
 [title]
-Cu spini (Laud)
+Cu spini {Author: {Laud}}
 
 [sequence]
 1,c,2,c,3,c
 
 [1]
-Cu spini pe fruntea sa, țintuit pe-o cruce,
+Cu spini pe fruntea Sa, țintuit pe-o cruce,
 Plângea pentru lume, plângea pentru tine,
 El s-a jertfit ca tu să înțelegi...
 Cum poți să spui nu acestui om minunat?

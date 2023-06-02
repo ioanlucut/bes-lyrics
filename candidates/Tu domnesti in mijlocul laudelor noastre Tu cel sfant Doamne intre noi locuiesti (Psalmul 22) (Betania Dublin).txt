@@ -1,5 +1,5 @@
 [title]
-Tu domnești în mijlocul laudelor noastre, Tu, Cel Sfânt, Doamne, între noi locuiești (Psalmul 22) (Betania Dublin)
+Tu domnești în mijlocul laudelor noastre {Alternative: {Psalmul 22}, Author: {Betania Dublin}}
 
 [sequence]
 1,c,2,b,c

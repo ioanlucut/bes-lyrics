@@ -1,5 +1,5 @@
 [title]
-Armata măreață (Elim Harmony)
+Armata măreață {Author: {Elim Harmony}}
 
 [sequence]
 1,c,b,c

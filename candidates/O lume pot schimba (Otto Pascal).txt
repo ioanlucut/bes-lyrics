@@ -1,5 +1,5 @@
 [title]
-O lume pot schimba (Otto Pascal)
+O lume pot schimba {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,e

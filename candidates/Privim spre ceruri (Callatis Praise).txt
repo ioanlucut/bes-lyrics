@@ -1,10 +1,10 @@
 [title]
-Privim spre ceruri (Callatis Praise)
+Privim spre ceruri {Author: {Callatis Praise}}
 
 [sequence]
 c,1,c,1
 
-[chorus] 
+[chorus]
 /: Privim spre ceruri plini de dor
 Și cu nădejde-L așteptăm.
 Și printre nori va apărea

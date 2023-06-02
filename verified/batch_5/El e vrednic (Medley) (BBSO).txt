@@ -1,5 +1,5 @@
 [title]
-El e vrednic (Medley)(BBSO)
+El e vrednic {Alternative: {Medley}, {Author: {BBSO}}}
 
 [sequence]
 1,2,b,c,3,b,4,5,6,7,e,8
@@ -14,10 +14,10 @@ Un pământ și un cer nou vom aștepta? O, da!
 [2] Suspină omenirea? O, da!
 Se apropie-nnoirea? O, da!
 Va fi slava Domnului
-Lumina din inima sa? O, da!
+Lumina din inima Sa? O, da!
 Și un zid de foc ce o va-nconjura? O, da!
 
-[bridge] 
+[bridge]
 Doar Unul e vrednic și biruitor
 Să rupă pecetea cu mâna Sa de Judecător.
 E Leul din Iuda ce moartea-a călcat,
@@ -55,12 +55,12 @@ Tu rămâi mare când viața-i fără rost.
 Tu rămâi Stăpân
 Când simt că nu mai pot.
 
-[7] 
+[7]
 Rămâi Comoara mea,
 Rămâi al vieții tot.
 
 [ending] Isus!
 
-[8] 
+[8]
 De onoare, și cinste, și laudă,
 Tu ești vrednic în veci!

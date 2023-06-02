@@ -1,5 +1,5 @@
 [title]
-Psalm 136 (Ekklesia Arad)
+Psalm 136 {Author: {Ekklesia Arad}}
 
 [sequence]
 1,2,c,3,4,b,w,e
@@ -46,5 +46,5 @@ Cântați! Cântați!
 
 [ending]
 Cântați! Cântați! Laudă Lui!
-Cântați! Laudă Lui! (Laudă Lui! Laudă Lui! Laudă Lui!)
+Cântați! Laudă Lui! {Author: {Laudă Lui! Laudă Lui! Laudă Lui!}}
 Laudă Lui!

@@ -1,5 +1,5 @@
 [title]
-Ești minunat, Isuse (Adi Hentea)
+Ești minunat, Isuse {Author: {Adi Hentea}}
 
 [sequence]
 1,c,2,c

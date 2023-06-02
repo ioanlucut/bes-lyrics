@@ -1,5 +1,5 @@
 [title]
-Numa Tu ești Cel ce poate ridica (Otto Pascal)
+Numa Tu ești Cel ce poate ridica {Author: {Otto Pascal}}
 
 [sequence]
 1,p,c,2,p,c,b,c

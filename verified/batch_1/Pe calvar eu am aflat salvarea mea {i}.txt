@@ -1,5 +1,5 @@
 [title]
-Pe Calvar eu am aflat salvarea mea {i}
+Pe Calvar eu am aflat salvarea mea {Version: {i}}
 
 [sequence]
 1,c,2,c,3,c,4,c,5,c

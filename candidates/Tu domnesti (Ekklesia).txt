@@ -1,5 +1,5 @@
 [title]
-Tu domnești (Ekklesia)
+Tu domnești {Author: {Ekklesia}}
 
 [sequence]
 1,c,2,c,e
@@ -11,7 +11,7 @@ Cerurile declară: „Tu domnești!”
 Tu strălucești ca soarele într-o nouă zi,
 Toate Îți spun: „Tu domnești!”
 
-[chorus] 
+[chorus]
 Tu domnești, da, domnești!
 Pentru totdeauna Rege ești!
 

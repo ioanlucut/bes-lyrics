@@ -1,5 +1,5 @@
 [title]
-Ce scumpă-i ziua în care Isus v-a unit (Otto Pascal)
+Ce scumpă-i ziua în care Isus v-a unit {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c

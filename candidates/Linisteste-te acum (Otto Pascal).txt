@@ -1,5 +1,5 @@
 [title]
-Liniștește-te acum (Otto Pascal)
+Liniștește-te acum {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c

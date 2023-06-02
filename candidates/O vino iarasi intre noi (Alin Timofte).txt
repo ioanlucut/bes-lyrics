@@ -1,5 +1,5 @@
 [title]
-O, vino iarăși între noi (Alin Timofte)
+O, vino iarăși între noi {Author: {Alin Timofte}}
 
 [sequence]
 1,c,2,c

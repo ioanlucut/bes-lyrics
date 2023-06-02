@@ -1,5 +1,5 @@
 [title]
-M-ai binecuvântat, o, Doamne (Emma Repede)
+M-ai binecuvântat, o, Doamne {Author: {Emma Repede}}
 
 [sequence]
 1,2,3,4

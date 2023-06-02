@@ -1,5 +1,5 @@
 [title]
-Puternicul lui Israel (Elim Harmony)
+Puternicul lui Israel {Author: {Elim Harmony}}
 
 [sequence]
 1,c,2,c,3,c,4,c

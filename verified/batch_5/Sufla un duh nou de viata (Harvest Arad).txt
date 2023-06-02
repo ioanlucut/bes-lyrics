@@ -1,5 +1,5 @@
 [title]
-Suflă un Duh nou de viață (Harvest Arad)
+Suflă un Duh nou de viață {Author: {Harvest Arad}}
 
 [sequence]
 1,c,e
@@ -22,4 +22,4 @@ Tu, Isus, în mine să trăiești!
 
 [ending]
 M-ai născut să mă-nchin,
-În prezența Ta să mă bucur din plin! 
+În prezența Ta să mă bucur din plin!

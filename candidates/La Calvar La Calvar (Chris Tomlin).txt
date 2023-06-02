@@ -1,5 +1,5 @@
 [title]
-La Calvar, la Calvar (Chris Tomlin)
+La Calvar, la Calvar {Author: {Chris Tomlin}}
 
 [sequence]
 1,c,2,b,c

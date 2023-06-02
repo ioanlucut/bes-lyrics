@@ -1,5 +1,5 @@
 [title]
-Hai, deschide inima ta (Callatis Praise)
+Hai, deschide inima ta {Author: {Callatis Praise}}
 
 [sequence]
 b,w,c,1,c,2

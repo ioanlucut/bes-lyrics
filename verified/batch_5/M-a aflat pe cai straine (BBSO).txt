@@ -1,5 +1,5 @@
 [title]
-M-a aflat pe căi străine (BBSO)
+M-a aflat pe căi străine {Author: {BBSO}}
 
 [sequence]
 1,2,c,t,3,t

@@ -1,5 +1,5 @@
 [title]
-Curgi (Callatis Praise)
+Curgi {Author: {Callatis Praise}}
 
 [sequence]
 1,c
@@ -15,7 +15,7 @@ Sunt gata să Te-ascult.
 Ți-L dedic, Isus.
 
 [chorus]
-Curgi, curgi (ca un râu),
+Curgi, curgi {Author: {ca un râu}},
 Unge-ne din nou.
-Curgi, curgi (ca un râu),
+Curgi, curgi {Author: {ca un râu}},
 Toarnă peste noi, Duhul Sfânt.

@@ -1,5 +1,5 @@
 [title]
-Iubiți-vă unii pe alții (Otto Pascal)
+Iubiți-vă unii pe alții {Author: {Otto Pascal}}
 
 [sequence]
 1,b,c,2,b,c

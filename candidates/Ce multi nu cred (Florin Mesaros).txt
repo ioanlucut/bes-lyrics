@@ -1,5 +1,5 @@
 [title]
-Ce mulți nu cred (Florin Mesaroș)
+Ce mulți nu cred {Author: {Florin Mesaroș}}
 
 [sequence]
 1,c,b,c

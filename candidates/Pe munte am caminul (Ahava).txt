@@ -1,5 +1,5 @@
 [title]
-Pe munte am căminul (Ahava)
+Pe munte am căminul {Author: {Ahava}}
 
 [sequence]
 1,c,2,c,3,c

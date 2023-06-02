@@ -1,5 +1,5 @@
 [title]
-Rădăcini (BBSO Baia Mare)
+Rădăcini {Author: {BBSO Baia Mare}}
 
 [sequence]
 1,b,c,2,b,c,c,b

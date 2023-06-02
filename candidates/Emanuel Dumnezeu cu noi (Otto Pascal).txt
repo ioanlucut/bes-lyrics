@@ -1,5 +1,5 @@
 [title]
-Emanuel, Dumnezeu cu noi (Otto Pascal)
+Emanuel, Dumnezeu cu noi {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,3,c

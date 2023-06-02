@@ -1,5 +1,5 @@
 [title]
-Slăvit e-n veci Numele Tău Sfânt (Biserica Betania Dublin)
+Slăvit e-n veci Numele Tău Sfânt {Author: {Biserica Betania Dublin}}
 
 [sequence]
 1,c,2,c,3,c,c

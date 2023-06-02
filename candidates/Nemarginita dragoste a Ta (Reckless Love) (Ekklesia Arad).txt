@@ -1,5 +1,5 @@
 [title]
-Nemărginită dragoste a Ta (Reckless Love) (Ekklesia Arad)
+Nemărginită dragoste a Ta {Alternative: {Reckless Love}, {Author: {Ekklesia Arad}}}
 
 [sequence]
 1,c,2,c,b,c

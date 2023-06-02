@@ -1,5 +1,5 @@
 [title]
-Noi ridicăm către cer (Ekklesia)
+Noi ridicăm către cer {Author: {Ekklesia}}
 
 [sequence]
 1,c,2,c,3,c

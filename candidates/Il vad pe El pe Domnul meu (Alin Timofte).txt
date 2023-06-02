@@ -1,5 +1,5 @@
 [title]
-Îl văd pe El, pe Domnul meu (Alin Timofte)
+Îl văd pe El, pe Domnul meu {Author: {Alin Timofte}}
 
 [sequence]
 c,1,c,1,c,1,c

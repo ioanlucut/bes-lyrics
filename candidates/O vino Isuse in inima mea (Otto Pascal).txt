@@ -1,5 +1,5 @@
 [title]
-O, vino, Isuse, în inima mea (Otto Pascal)
+O, vino, Isuse, în inima mea {Author: {Otto Pascal}}
 
 [sequence]
 1,2,3,4
@@ -14,7 +14,7 @@ Plătind chiar cu prețul de sânge. :/
 O, vino, Isuse, credință să-mi dai
 Căci sunt ca o trestie uscată,
 /: Cum Tu-ncurajezi și-ntărești inima,
-Nu-i om pe pământ sa o facă. :/
+Nu-i om pe pământ să o facă. :/
 
 [3]
 O, vino, Isuse, pășind amândoi

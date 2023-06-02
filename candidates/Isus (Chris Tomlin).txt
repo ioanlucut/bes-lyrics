@@ -1,5 +1,5 @@
 [title]
-Isus (Chris Tomlin)
+Isus {Author: {Chris Tomlin}}
 
 [sequence]
 1,2,c,3,c,c,b,t

@@ -1,5 +1,5 @@
 [title]
-Azi S-a născut (Otto Pascal)
+Azi S-a născut {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c

@@ -1,5 +1,5 @@
 [title]
-Sunt uimit (BBSO adaptare după The Brooklyn Tabernacle Choir)
+Sunt uimit {Author: {BBSO adaptare după The Brooklyn Tabernacle Choir}}
 
 [sequence]
 1,c,2,c,t

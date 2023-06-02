@@ -1,5 +1,5 @@
 [title]
-De multe ori (Ahava)
+De multe ori {Author: {Ahava}}
 
 [sequence]
 1,c,2,c,b,c

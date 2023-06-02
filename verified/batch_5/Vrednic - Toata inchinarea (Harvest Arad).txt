@@ -1,5 +1,5 @@
 [title]
-Vrednic / Toată închinarea (Harvest Arad)
+Vrednic / Toată închinarea {Author: {Harvest Arad}}
 
 [sequence]
 1,c,b,t,b,t,2,3

@@ -1,5 +1,5 @@
 [title]
-Atât cât voi trăi (Otto Pascal)
+Atât cât voi trăi {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c

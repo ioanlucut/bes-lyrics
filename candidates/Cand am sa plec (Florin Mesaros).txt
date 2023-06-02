@@ -1,5 +1,5 @@
 [title]
-Când am să plec (Florin Mesaroș)
+Când am să plec {Author: {Florin Mesaroș}}
 
 [sequence]
 1,c,2,c,3,c

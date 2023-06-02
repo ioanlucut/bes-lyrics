@@ -1,5 +1,5 @@
 [title]
-Un bun Părinte (Chris Tomlin)
+Un bun Părinte {Author: {Chris Tomlin}}
 
 [sequence]
 1,c,2,c,b,3,c

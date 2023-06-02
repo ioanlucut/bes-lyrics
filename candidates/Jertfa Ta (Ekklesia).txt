@@ -1,5 +1,5 @@
 [title]
-Jertfa Ta (Ekklesia)
+Jertfa Ta {Author: {Ekklesia}}
 
 [sequence]
 1,c,2,c

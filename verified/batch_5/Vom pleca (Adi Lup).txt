@@ -1,5 +1,5 @@
 [title]
-Vom pleca (Adi Lup)
+Vom pleca {Author: {Adi Lup}}
 
 [sequence]
 1,c,2,c

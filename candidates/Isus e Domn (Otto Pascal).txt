@@ -1,5 +1,5 @@
 [title]
-Isus e Domn (Otto Pascal)
+Isus e Domn {Author: {Otto Pascal}}
 
 [sequence]
 1,p,2,c,3,t

@@ -1,5 +1,5 @@
 [title]
-Departe într-o iesle, în paie ascuns {i} {Author: {Cor copii Dynamis}}
+Departe într-o iesle, în paie ascuns {Version: {i}, Author: {Cor copii Dynamis}}
 
 [sequence]
 1,2,3

@@ -1,5 +1,5 @@
 [title]
-E o nouă zi 10.000 motive (Alin Timofte)
+E o nouă zi 10.000 motive {Author: {Alin Timofte}}
 
 [sequence]
 c,1,c,2,c,3

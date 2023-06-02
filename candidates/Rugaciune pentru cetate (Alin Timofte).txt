@@ -1,5 +1,5 @@
 [title]
-Rugăciune pentru cetate (Alin Timofte)
+Rugăciune pentru cetate {Author: {Alin Timofte}}
 
 [sequence]
 1,b,c,2,b,c,3,b,c

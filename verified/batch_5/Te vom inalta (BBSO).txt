@@ -1,5 +1,5 @@
 [title]
-Te vom înălța (BBSO)
+Te vom înălța {Author: {BBSO}}
 
 [sequence]
 1,2,c,3,c
@@ -9,7 +9,7 @@ E un glas, o voce din ceruri
 Ce ne cheamă să mergem,
 Proclamând iubirea printre neamuri.
 
-[2] 
+[2]
 Plini de credință vrem să spunem,
 Trimite-ne să ducem azi al Tău Cuvânt
 Și umple-ne cu Duhul Tău cel Sfânt.

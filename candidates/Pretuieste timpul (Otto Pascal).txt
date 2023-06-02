@@ -1,5 +1,5 @@
 [title]
-Prețuiește timpul (Otto Pascal)
+Prețuiește timpul {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,b,c

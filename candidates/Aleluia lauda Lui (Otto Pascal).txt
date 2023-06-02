@@ -1,5 +1,5 @@
 [title]
-Aleluia, laudă Lui (Otto Pascal)
+Aleluia, laudă Lui {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,3,c,4,c,5,c

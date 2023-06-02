@@ -1,5 +1,5 @@
 [title]
-Dimineață (Emma Repede)
+Dimineață {Author: {Emma Repede}}
 
 [sequence]
 1,c,2,c

@@ -1,5 +1,5 @@
 [title]
-Sfânt e, sfânt e (Elim Harmony)
+Sfânt e, sfânt e {Author: {Elim Harmony}}
 
 [sequence]
 1,2,c,3

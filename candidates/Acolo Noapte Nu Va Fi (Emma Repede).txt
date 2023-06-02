@@ -1,5 +1,5 @@
 [title]
-Acolo noapte nu va fi (Emma Repede)
+Acolo noapte nu va fi {Author: {Emma Repede}}
 
 [sequence]
 1,c,2,t,3,c

@@ -1,5 +1,5 @@
 [title]
-Cântec de iubire (Otto Pascal)
+Cântec de iubire {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,3,c

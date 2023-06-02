@@ -1,5 +1,5 @@
 [title]
-Tu mă cunoști deplin (Callatis Praise)
+Tu mă cunoști deplin {Author: {Callatis Praise}}
 
 [sequence]
 1,2

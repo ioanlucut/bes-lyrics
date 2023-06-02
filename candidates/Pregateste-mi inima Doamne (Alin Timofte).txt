@@ -1,5 +1,5 @@
 [title]
-Pregătește-mi inima, Doamne (Alin Timofte)
+Pregătește-mi inima, Doamne {Author: {Alin Timofte}}
 
 [sequence]
 c

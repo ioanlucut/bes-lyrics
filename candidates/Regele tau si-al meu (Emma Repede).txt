@@ -1,5 +1,5 @@
 [title]
-Regele tău și-al meu (Emma Repede)
+Regele tău și-al meu {Author: {Emma Repede}}
 
 [sequence]
 1,c,2,c

@@ -1,5 +1,5 @@
 [title]
-Doamne, îndrumă-mi pașii (Otto Pascal)
+Doamne, îndrumă-mi pașii {Author: {Otto Pascal}}
 
 [sequence]
 1,b,c,2,c

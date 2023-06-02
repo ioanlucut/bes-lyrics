@@ -1,5 +1,6 @@
 [title]
-El va domni (He Shall Reign Forevermore) (Chris Tomlin)
+El va domni {Alternative: {He Shall Reign Forevermore}, {Author: {Chris Tomlin}}}
+
 
 [sequence]
 1,c,2,c,b,e

@@ -1,5 +1,5 @@
 [title]
-Breakthrough (Prezența-Ți divină) (El-Shaddai Worship)
+Breakthrough {Alternative: {Prezența-Ți divină}, {Author: {El-Shaddai Worship}}}
 
 [sequence]
 1,2,c,3,b,c

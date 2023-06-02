@@ -1,5 +1,5 @@
 [title]
-O, vin’, Emanuel (Lauren Daigle)
+O, vin’, Emanuel {Author: {Lauren Daigle}}
 
 [sequence]
 1,b,c,2,c,w,c
@@ -12,7 +12,7 @@ Trimite azi pace pe pământ,
 Copii tăi au un suflet frânt,
 O, vin’, o, vin’, Emanuel!
 
-[bridge] 
+[bridge]
 Poți auzi cum îngeri cântă.
 
 [chorus]

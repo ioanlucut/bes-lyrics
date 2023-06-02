@@ -1,5 +1,5 @@
 [title]
-Să-I mulțumești (Otto Pascal)
+Să-I mulțumești {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,b,c

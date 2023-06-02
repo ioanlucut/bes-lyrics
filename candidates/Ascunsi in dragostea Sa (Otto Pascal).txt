@@ -1,5 +1,5 @@
 [title]
-Ascunși în dragostea Sa (Otto Pascal)
+Ascunși în dragostea Sa {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,3,c
@@ -11,9 +11,9 @@ Ape mari s-o stingă nu ar putea,
 Ea-ți cuprinde inima.
 
 [chorus]
-/: Ascunși în dragostea Sa, 
+/: Ascunși în dragostea Sa,
 Pe aripi albe vă va purta,
-Veți cunoaște zâmbete și armonii, 
+Veți cunoaște zâmbete și armonii,
 El mereu vă va însoți. :/
 
 [2]

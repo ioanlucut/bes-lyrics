@@ -1,5 +1,5 @@
 [title]
-Au pornit magii (Florin Mesaroș)
+Au pornit magii {Author: {Florin Mesaroș}}
 
 [sequence]
 1,c,2,c

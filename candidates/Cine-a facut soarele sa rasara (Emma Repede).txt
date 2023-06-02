@@ -1,5 +1,5 @@
 [title]
-Cine-a făcut soarele să răsară (Emma Repede)
+Cine-a făcut soarele să răsară {Author: {Emma Repede}}
 
 [sequence]
 1,c,2,c

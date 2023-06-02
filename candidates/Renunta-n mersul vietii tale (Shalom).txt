@@ -1,5 +1,5 @@
 [title]
-Renunță-n mersul vieții tale (Shalom)
+Renunță-n mersul vieții tale {Author: {Shalom}}
 
 [sequence]
 1,2,3,4

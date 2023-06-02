@@ -1,5 +1,5 @@
 [title]
-Pe Via Dolorosa (Emma Repede)
+Pe Via Dolorosa {Author: {Emma Repede}}
 
 [sequence]
 1,c,2,c,3,c

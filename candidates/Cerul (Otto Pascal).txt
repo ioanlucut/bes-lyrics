@@ -1,5 +1,5 @@
 [title]
-Cerul (Otto Pascal)
+Cerul {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,b,c

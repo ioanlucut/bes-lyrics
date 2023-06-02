@@ -1,5 +1,5 @@
 [title]
-Tu ești Domnul meu (Florin Mesaroș)
+Tu ești Domnul meu {Author: {Florin Mesaroș}}
 
 [sequence]
 1,c,2,c

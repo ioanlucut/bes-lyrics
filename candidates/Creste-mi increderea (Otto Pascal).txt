@@ -1,5 +1,5 @@
 [title]
-Crește-mi încrederea (Otto Pascal)
+Crește-mi încrederea {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,3,c

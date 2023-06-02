@@ -1,5 +1,5 @@
 [title]
-Rugă pentru generație (Otto Pascal)
+Rugă pentru generație {Author: {Otto Pascal}}
 
 [sequence]
 1,b,c,2,w,c
@@ -11,25 +11,25 @@ Am uitat credința veche ce-am primit,
 Ne mințim întruna că suntem creștini...
 Hai să ne trezim!
 
-[bridge] 
+[bridge]
 Martirii noștri cântau sfâșiați de fiare
 Și-n temniță se rugau pentru-a lor credință.
 Chiar viața își dădeau.
 
-[chorus] 
+[chorus]
 Trezește, o, Doamne, a noastră generație,
 Să ardă în inimi credința ce-am primit.
 Ridică la viață și sufletele moarte
 Căci Tu ești din veșnicii.
 
-[2] 
+[2]
 Vocea Lui curând ne va-ntreba:
 Ce-am făcut cu al credinței steag?
 E coborât în beznă sau e fluturând?
 Stăm ațipiți în front sau curajoși luptând
 Cu-al iubirii gând?
 
-[bridge 2] 
+[bridge 2]
 Învață-ne, Te rugăm, să fim soli ai păcii,
 Iubirea Ta s-o purtăm, peste generații
 Să o-ncredințăm.

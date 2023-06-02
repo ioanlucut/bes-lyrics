@@ -1,5 +1,5 @@
 [title]
-Fă-I loc Lui Isus (Eliza Pantea)
+Fă-I loc Lui Isus {Author: {Eliza Pantea}}
 
 [sequence]
 1,c,2,c,b,e

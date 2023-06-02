@@ -1,5 +1,5 @@
 [title]
-Spre cer (Otto Pascal)
+Spre cer {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c

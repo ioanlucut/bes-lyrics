@@ -1,5 +1,5 @@
 [title]
-Mama (Amalia Preda)
+Mama {Author: {Amalia Preda}}
 
 [sequence]
 1,c,2,c

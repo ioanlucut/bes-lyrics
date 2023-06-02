@@ -1,5 +1,5 @@
 [title]
-Protector (Sarah Handaric)
+Protector {Author: {Sarah Handaric}}
 
 [sequence]
 1,c,2,b,c

@@ -1,5 +1,5 @@
 [title]
-Mulțumesc (Biserica Betania Dublin)
+Mulțumesc {Author: {Biserica Betania Dublin}}
 
 [sequence]
 1,c,2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Aparțin lui Isus (Când frica se-apropie, eu nu voi ceda) (Betania Dublin)
+Aparțin lui Isus {Alternative: {Când frica se-apropie, eu nu voi ceda}, Author: {Betania Dublin}}
 
 [sequence]
 1,c,2,c,b,w,c,w,c,w,c,e

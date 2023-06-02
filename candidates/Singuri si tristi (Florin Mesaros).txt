@@ -1,5 +1,5 @@
 [title]
-Singuri și triști (Florin Mesaroș)
+Singuri și triști {Author: {Florin Mesaroș}}
 
 [sequence]
 1,c,2,c

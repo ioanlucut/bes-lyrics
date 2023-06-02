@@ -1,5 +1,5 @@
 [title]
-Domnul e așa de bun (Callatis Praise)
+Domnul e așa de bun {Author: {Callatis Praise}}
 
 [sequence]
 1,2,3,4

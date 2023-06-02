@@ -1,5 +1,5 @@
 [title]
-Sunt fericit (Adi Hentea)
+Sunt fericit {Author: {Adi Hentea}}
 
 [sequence]
 1,c,2,c

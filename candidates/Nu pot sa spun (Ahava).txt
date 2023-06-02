@@ -1,5 +1,5 @@
 [title]
-Nu pot să spun (Ahava)
+Nu pot să spun {Author: {Ahava}}
 
 [sequence]
 1,c,2,c,e

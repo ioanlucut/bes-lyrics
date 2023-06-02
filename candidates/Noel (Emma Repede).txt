@@ -1,5 +1,5 @@
 [title]
-Noel (Emma Repede)
+Noel {Author: {Emma Repede}}
 
 [sequence]
 1,c,2,c

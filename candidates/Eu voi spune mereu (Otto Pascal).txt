@@ -1,5 +1,5 @@
 [title]
-Eu voi spune mereu (Otto Pascal)
+Eu voi spune mereu {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,3,t,b,c

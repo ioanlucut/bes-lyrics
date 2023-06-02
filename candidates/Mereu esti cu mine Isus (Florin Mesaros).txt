@@ -1,5 +1,5 @@
 [title]
-Mereu ești cu mine, Isus (Florin Mesaroș)
+Mereu ești cu mine, Isus {Author: {Florin Mesaroș}}
 
 [sequence]
 1,b,c,2,w,c,e
@@ -30,11 +30,11 @@ Să-nțeleg planul Tău pentru viața mea!
 Dintre mii de păreri, vreau să-aleg ce e bine,
 Călăuză Tu ești pe cărarea mea!
 
-[bridge 2] 
+[bridge 2]
 Revarsă astăzi Duhul Tău în mine,
 Și calea Ta, eu bine voi vedea!
 
-[ending] 
+[ending]
 /: Chiar lovit de-aș fi, nimic nu mă va despărți
 De mare dragostea Ta!
 Prin Valea Plângerii privirea mi-o voi ridica,

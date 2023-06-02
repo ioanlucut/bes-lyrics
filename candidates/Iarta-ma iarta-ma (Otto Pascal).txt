@@ -1,5 +1,5 @@
 [title]
-Iartă-mă, iartă-mă (Otto Pascal)
+Iartă-mă, iartă-mă {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,b,c

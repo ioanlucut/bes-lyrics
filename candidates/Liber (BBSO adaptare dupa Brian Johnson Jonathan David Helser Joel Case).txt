@@ -1,5 +1,5 @@
 [title]
-Liber (BBSO adaptare după Brian Johnson, Jonathan David Helser, Joel Case)
+Liber {Author: {BBSO adaptare după Brian Johnson, Jonathan David Helser, Joel Case}}
 
 [sequence]
 1,c,2,b,t

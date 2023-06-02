@@ -1,5 +1,5 @@
 [title]
-Crucea lui, salvarea mea (Betania Worship Dublin)
+Crucea lui, salvarea mea {Author: {Betania Worship Dublin}}
 
 [sequence]
 1,c,2,c,t,b,c,e
@@ -8,7 +8,7 @@ Crucea lui, salvarea mea (Betania Worship Dublin)
 În acea zi, când boldul morții
 A fost frânt sub crucea lui Isus,
 Cutremurat, tot Ceru-ntreg
-S-antunecat.
+S-a-ntunecat.
 
 Fruntea Lui purta coroana
 Regelui, ce-a luat pedeapsa mea,
@@ -17,7 +17,7 @@ Murea Isus.
 
 [chorus]
 Crucea lui salvarea mea,
-Azi trăiesc prin jertfa sa,
+Azi trăiesc prin jertfa Sa,
 Sângele-i m-a curățit,
 El rămâne apărarea mea.
 
@@ -26,7 +26,7 @@ Răsăritul învierii,
 Risipește noaptea de păcat,
 Am fost salvați, descătușați, eliberați.
 
-[chorus 2] 
+[chorus 2]
 Aleluia, Aleluia, Isus a înviat!
 Aleluia, Aleluia, El e înălțat.
 Ai biruit, Isus, în tine avem victorie.

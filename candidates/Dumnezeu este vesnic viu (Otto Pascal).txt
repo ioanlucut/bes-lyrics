@@ -1,5 +1,5 @@
 [title]
-Dumnezeu este veșnic viu (Otto Pascal)
+Dumnezeu este veșnic viu {Author: {Otto Pascal}}
 
 [sequence]
 1,c,2,c,e

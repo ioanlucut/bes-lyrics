@@ -1,5 +1,5 @@
 [title]
-Drumul către casă (Not an Idol)
+Drumul către casă {Author: {Not an Idol}}
 
 [sequence]
 1,2,c,3,c,c

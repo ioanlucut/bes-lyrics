@@ -1,5 +1,5 @@
 [title]
-Domn al veșniciei, al lumii Creator, {i}
+Domn al veșniciei, al lumii Creator {Version: {i}}
 
 [sequence]
 1,c,2,c,3,c
