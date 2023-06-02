@@ -1,5 +1,5 @@
 [title]
-Dragostea, ce fericire dă! (Călin Lela & Diana Vuculescu)
+Dragostea, ce fericire dă! {Author: {Călin Lela & Diana Vuculescu}}
 
 [sequence]
 c,1,c,2,c,3,c,c,e

@@ -1,5 +1,5 @@
 [title]
-Astăzi vin la Tine, Domnul meu (Liviu Deac)
+Astăzi vin la Tine, Domnul meu {Author: {Liviu Deac}}
 
 [sequence]
 1,p,c,2,p,c,c,e

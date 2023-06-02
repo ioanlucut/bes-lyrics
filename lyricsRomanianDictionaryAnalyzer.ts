@@ -21,7 +21,7 @@ import {
   NEW_LINE,
   TEST_FILE,
 } from './constants';
-import { SongSection } from './src';
+import { getTitleContent, SongSection } from './src';
 
 const CUSTOM_DICTIONARY_RO_FILENAME = 'custom-dictionary_ro.txt';
 
@@ -74,7 +74,13 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
         const sectionContent = songSectionsTuples[sectionIndex + 1];
 
         if (sectionKey !== SongSection.SEQUENCE) {
-          sectionContent
+          const sectionToBeVerified =
+            sectionKey === SongSection.TITLE
+              ? // Ignore the meta stuff
+                getTitleContent(sectionContent)[0]
+              : sectionContent;
+
+          sectionToBeVerified
             .split(/\n/gim)
             .map((sectionRow) => sectionRow.split(/ /gi))
             .forEach(peekByCollectingUnknownWords);

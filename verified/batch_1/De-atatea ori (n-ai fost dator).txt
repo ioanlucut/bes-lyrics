@@ -1,5 +1,5 @@
 [title]
-De-atâtea ori (n-ai fost dator)
+De-atâtea ori {Author: {n-ai fost dator}}
 
 [sequence]
 1,c,2,c

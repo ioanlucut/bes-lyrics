@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e tăria mea (Grupul Omega)
+Dumnezeu e tăria mea {Author: {Grupul Omega}}
 
 [sequence]
 1,c,2,c,c

@@ -1,5 +1,5 @@
 [title]
-Bucură-te tinere, în tinerețea ta (Marius Livanu)
+Bucură-te tinere, în tinerețea ta {Author: {Marius Livanu}}
 
 [sequence]
 1,c,2,c,3,t

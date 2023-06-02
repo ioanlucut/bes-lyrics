@@ -1,5 +1,5 @@
 [title]
-Dacă două mâini rebele (Ruben Andruș)
+Dacă două mâini rebele {Author: {Ruben Andruș}}
 
 [sequence]
 1,2,3,4

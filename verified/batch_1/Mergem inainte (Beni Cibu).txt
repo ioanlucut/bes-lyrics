@@ -1,5 +1,5 @@
 [title]
-Mergem înainte! (Beni Cibu)
+Mergem înainte! {Author: {Beni Cibu}}
 
 [sequence]
 c,1,c,2,c,3,c,4,c,c

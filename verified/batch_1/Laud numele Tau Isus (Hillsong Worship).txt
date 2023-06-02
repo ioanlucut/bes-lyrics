@@ -1,5 +1,5 @@
 [title]
-Laud numele Tău, Isus (Hillsong Worship)
+Laud numele Tău, Isus {Author: {Hillsong Worship}}
 
 [sequence]
 1,c,2,c,b,c,c

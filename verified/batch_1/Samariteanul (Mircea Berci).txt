@@ -1,5 +1,5 @@
 [title]
-Samariteanul (Mircea Berci)
+Samariteanul {Author: {Mircea Berci}}
 
 [sequence]
 1,2,3

@@ -1,5 +1,5 @@
 [title]
-Dragostea e din Dumnezeu (Emma Repede)
+Dragostea e din Dumnezeu {Author: {Emma Repede}}
 
 [sequence]
 c,1,c,2,c,3

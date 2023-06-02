@@ -1,5 +1,5 @@
 [title]
-Îți mulțumim (The Messengers)
+Îți mulțumim {Author: {The Messengers}}
 
 [sequence]
 c,1,c,2,c,c

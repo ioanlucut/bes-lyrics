@@ -1,5 +1,5 @@
 [title]
-Cel ce stă sub ocrotirea (Marius Livanu)
+Cel ce stă sub ocrotirea {Author: {Marius Livanu}}
 
 [sequence]
 c,1,c,2,c,c

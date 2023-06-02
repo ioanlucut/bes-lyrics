@@ -1,5 +1,5 @@
 [title]
-Numai în Domnul este a mea nădejde (Damaris Căuneac)
+Numai în Domnul este a mea nădejde {Author: {Damaris Căuneac}}
 
 [sequence]
 1,2,3,e

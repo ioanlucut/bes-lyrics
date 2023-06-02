@@ -1,5 +1,5 @@
 [title]
-Te slăvesc, Isuse (Grupul Paradis)
+Te slăvesc, Isuse {Author: {Grupul Paradis}}
 
 [sequence]
 c,1,c,2,c,c

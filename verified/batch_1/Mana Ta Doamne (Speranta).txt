@@ -1,5 +1,5 @@
 [title]
-Mâna Ta, Doamne (Speranța)
+Mâna Ta, Doamne {Author: {Speranța}}
 
 [sequence]
 c,1,c,2,c,3,c,c

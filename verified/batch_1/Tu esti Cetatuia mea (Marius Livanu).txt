@@ -1,5 +1,5 @@
 [title]
-Tu ești Cetățuia mea (Marius Livanu)
+Tu ești Cetățuia mea {Author: {Marius Livanu}}
 
 [sequence]
 1,c,2,c,3,c,c

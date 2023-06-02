@@ -1,5 +1,5 @@
 [title]
-Amăgire (Chris)
+Amăgire {Author: {Chris}}
 
 [sequence]
 1,c,2,c,c

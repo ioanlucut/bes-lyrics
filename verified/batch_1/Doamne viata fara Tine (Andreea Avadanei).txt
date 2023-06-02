@@ -1,5 +1,5 @@
 [title]
-Doamne, viața fără Tine (Andreea Avadanei)
+Doamne, viața fără Tine {Author: {Andreea Avadanei}}
 
 [sequence]
 1,c,2,c

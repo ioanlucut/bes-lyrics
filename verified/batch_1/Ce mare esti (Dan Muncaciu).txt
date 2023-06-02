@@ -1,18 +1,18 @@
 [title]
-Ce mare ești (Dan Muncaciu)
+Ce mare ești {Author: {Dan Muncaciu}}
 
 [sequence]
 1,p,c,2,c,b,p,c
 
 [1]
-În Tine una suntem, 
+În Tine una suntem,
 Un Tată noi avem.
-O putere ne-a fost dată, 
+O putere ne-a fost dată,
 Cu El înaintăm.
 
-Un sânge ne e iertarea 
+Un sânge ne e iertarea
 Și dragostea de El,
-Pe noi de cer ne leagă, 
+Pe noi de cer ne leagă,
 Isus este cu noi.
 
 [prechorus]
@@ -25,31 +25,31 @@ Doamne mare, fii lăudat!
 Ce mare ești, ce mare ești,
 Tu meriți toată gloria,
 A Ta e toată slava.
-Ce mare ești, 
+Ce mare ești,
 
 Ce mare ești,
 În fața Ta se pleacă toate.
-Ești Domnul nostru drag, 
+Ești Domnul nostru drag,
 Ce mare ești.
 
 [2]
-Puterea Ta cea mare 
+Puterea Ta cea mare
 Și numele Tău sfânt,
-Ne dau azi biruința, 
+Ne dau azi biruința,
 Pân’ la capăt să pășim.
 
-Credința noastră stă 
+Credința noastră stă
 În cuvântul ce l-ai spus.
-Voi fi cu voi în lume, 
+Voi fi cu voi în lume,
 Pân’ la capăt eu vă-ndrum.
 
 [bridge]
 /: În picioare noi vom sta,
 Prin numele Tău mare, Doamne!
-Ne vom ancora 
+Ne vom ancora
 În tot ce ne-ai promis.
 
 Împreună toți vom sta,
 Aproape toți de Tine, Doamne!
-Nu vom renunța, 
+Nu vom renunța,
 Cu noi ești Tu, Isus. :/

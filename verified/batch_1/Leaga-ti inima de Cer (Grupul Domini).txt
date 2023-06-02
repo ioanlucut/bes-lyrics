@@ -1,5 +1,5 @@
 [title]
-Leagă-ți inima de Cer (Grupul Domini)
+Leagă-ți inima de Cer {Author: {Grupul Domini}}
 
 [sequence]
 c,1,c,b,c,c

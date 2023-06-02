@@ -1,5 +1,5 @@
 [title]
-O cântare de mărire (Imnurile Harului #243)
+O cântare de mărire {Author: {Imnurile Harului #243}}
 
 [sequence]
 1,c,2,c,3,c,4,c

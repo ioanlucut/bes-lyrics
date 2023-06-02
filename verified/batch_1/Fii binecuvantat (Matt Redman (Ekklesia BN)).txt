@@ -1,5 +1,5 @@
 [title]
-Fii binecuvântat! (Matt Redman (Ekklesia BN))
+Fii binecuvântat! {Author: {Ekklesia BN}}
 
 [sequence]
 1,p,c,2,p,c,b,b,c,c,e

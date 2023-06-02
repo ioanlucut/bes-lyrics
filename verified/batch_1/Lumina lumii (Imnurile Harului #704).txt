@@ -1,5 +1,5 @@
 [title]
-Lumina lumii (Imnurile Harului #704)
+Lumina lumii {Author: {Imnurile Harului #704}}
 
 [sequence]
 1,c,2,c,e

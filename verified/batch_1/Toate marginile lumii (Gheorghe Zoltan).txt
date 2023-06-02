@@ -1,5 +1,5 @@
 [title]
-Toate marginile lumii (Gheorghe Zoltan)
+Toate marginile lumii {Author: {Gheorghe Zoltan}}
 
 [sequence]
 1,c,2,c

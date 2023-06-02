@@ -1,5 +1,5 @@
 [title]
-Mai un munte, mai un drum (Elim Harmony)
+Mai un munte, mai un drum {Author: {Elim Harmony}}
 
 [sequence]
 c,1,c,2,c,c

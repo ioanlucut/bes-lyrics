@@ -1,5 +1,5 @@
 [title]
-În brațul Tău (Cătălin și Ramona Lup)
+În brațul Tău {Author: {Cătălin și Ramona Lup}}
 
 [sequence]
 1,c,2,c,c,b,c,c

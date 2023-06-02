@@ -1,5 +1,5 @@
 [title]
-Doar Cristos, Speranța mea! (Brian Johnson și PhilWickham)
+Doar Cristos, Speranța mea! {Author: {Brian Johnson și PhilWickham}}
 
 [sequence]
 1,c,2,c,b,c

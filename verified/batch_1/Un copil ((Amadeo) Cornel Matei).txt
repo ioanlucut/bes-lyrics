@@ -1,5 +1,5 @@
 [title]
-Un copil ((Amadeo) Cornel Matei)
+Un copil {Author: {Amadeo, Cornel Matei}}
 
 [sequence]
 1,c,2,c,3,c,c

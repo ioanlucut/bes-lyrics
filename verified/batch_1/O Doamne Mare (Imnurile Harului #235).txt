@@ -1,5 +1,5 @@
 [title]
-O, Doamne Mare (Imnurile Harului #235)
+O, Doamne Mare {Author: {Imnurile Harului #235}}
 
 [sequence]
 1,c,2,c,3,c,4,c,5,c,6,c

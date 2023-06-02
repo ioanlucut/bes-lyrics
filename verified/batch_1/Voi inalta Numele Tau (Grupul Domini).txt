@@ -1,14 +1,14 @@
 [title]
-Voi înălța Numele Tău (Grupul Domini)
+Voi înălța Numele Tău {Author: {Grupul Domini}}
 
 [sequence]
 1,c,2,c,b,c
 
 [1]
-Numele Tău e ’nălțat, 
+Numele Tău e ’nălțat,
 Printre neamuri e lăudat,
 Puterea Ta este vestită pe-ntreg pământ.
-Vrednic de cinste ești Tu, 
+Vrednic de cinste ești Tu,
 Se cuvine să ne-nchinăm
 Înaintea Ta, în fața Ta, Doamne!
 

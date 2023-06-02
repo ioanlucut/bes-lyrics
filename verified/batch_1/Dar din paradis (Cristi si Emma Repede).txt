@@ -1,5 +1,5 @@
 [title]
-Dar din paradis (Cristi și Emma Repede)
+Dar din paradis {Author: {Cristi și Emma Repede}}
 
 [sequence]
 p,1,p,c,2,p,c,c,p

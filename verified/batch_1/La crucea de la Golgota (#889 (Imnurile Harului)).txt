@@ -1,5 +1,5 @@
 [title]
-La crucea de la Golgota (#889 (Imnurile Harului))
+La crucea de la Golgota {Author: {#889 Imnurile Harului}}
 
 [sequence]
 1,c,2,c

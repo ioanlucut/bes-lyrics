@@ -1,5 +1,5 @@
 [title]
-Gata mi-este inima să cânte (Claudia Danciu)
+Gata mi-este inima să cânte {Author: {Claudia Danciu}}
 
 [sequence]
 1,c,2,c,3,c,4,c

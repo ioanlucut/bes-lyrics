@@ -1,5 +1,5 @@
 [title]
-Biruitor (Dani Ardelean)
+Biruitor {Author: {Dani Ardelean}}
 
 [sequence]
 1,c,2,c,c,b,c,c

@@ -1,5 +1,5 @@
 [title]
-Îndeajuns mi-e, Doamne (Imnurile Harului #844)
+Îndeajuns mi-e, Doamne {Author: {Imnurile Harului #844}}
 
 [sequence]
 1,c,2,c,3,c,4,c

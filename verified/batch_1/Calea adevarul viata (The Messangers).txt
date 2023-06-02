@@ -1,5 +1,5 @@
 [title]
-Calea, adevărul, viața (The Messangers)
+Calea, adevărul, viața {Author: {The Messengers}}
 
 [sequence]
 c,1,c,2,c
@@ -19,7 +19,7 @@ Ai dăruit iertare oricărui pământean
 Prin pocăință, mântuire-n dar.
 
 [2]
-Poate astăzi, înc-odată, 
+Poate astăzi, înc-odată,
 Tu auzi iar de Isus
 Și la inima ta bate să-I deschizi.
 Nu te va sili vreodată

@@ -1,5 +1,5 @@
 [title]
-Duh Preasfânt (Stuart Townend & Keith Getty)
+Duh Preasfânt {Author: {Stuart Townend & Keith Getty}}
 
 [sequence]
 1,2,3

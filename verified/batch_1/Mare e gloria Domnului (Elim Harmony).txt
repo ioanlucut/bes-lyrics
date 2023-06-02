@@ -1,5 +1,5 @@
 [title]
-Mare e gloria Domnului! (Elim Harmony)
+Mare e gloria Domnului! {Author: {Elim Harmony}}
 
 [sequence]
 c,1,c,2,c,b,c,w

@@ -1,5 +1,5 @@
 [title]
-Voi cânta, Doamne-n veci! (Tiffany Moldovan)
+Voi cânta, Doamne-n veci! {Author: {Tiffany Moldovan}}
 
 [sequence]
 1,c,2,c,b,c,c

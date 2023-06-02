@@ -1,5 +1,5 @@
 [title]
-O inimă-nțeleaptă (Adriana Stoica)
+O inimă-nțeleaptă {Author: {Adriana Stoica}}
 
 [sequence]
 c,1,c,2,c,3,c,c

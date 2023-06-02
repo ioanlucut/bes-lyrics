@@ -1,5 +1,5 @@
 [title]
-Mărețul har (Imnurile Harului #288)
+Mărețul har {Author: {Imnurile Harului #288}}
 
 [sequence]
 1,2,3,4

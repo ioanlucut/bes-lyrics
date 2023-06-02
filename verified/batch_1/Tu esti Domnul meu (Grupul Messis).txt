@@ -1,5 +1,5 @@
 [title]
-Tu ești Domnul meu! (Grupul Messis)
+Tu ești Domnul meu! {Author: {Grupul Messis}}
 
 [sequence]
 1,c,2,c,c

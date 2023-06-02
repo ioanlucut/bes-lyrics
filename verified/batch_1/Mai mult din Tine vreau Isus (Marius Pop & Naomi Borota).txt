@@ -1,5 +1,5 @@
 [title]
-Mai mult din Tine vreau, Isus (Marius Pop & Naomi Borota)
+Mai mult din Tine vreau, Isus {Author: {Marius Pop & Naomi Borota}}
 
 [sequence]
 c,c,1,2,b,c,c

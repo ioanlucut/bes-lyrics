@@ -1,5 +1,5 @@
 [title]
-Vino azi (Doru Girboan)
+Vino azi {Author: {Doru Girboan}}
 
 [sequence]
 1,c,2,c,b,c,c

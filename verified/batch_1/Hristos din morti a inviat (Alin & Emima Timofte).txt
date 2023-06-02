@@ -1,5 +1,5 @@
 [title]
-Hristos din morți a înviat (Alin & Emima Timofte)
+Hristos din morți a înviat {Author: {Alin & Emima Timofte}}
 
 [sequence]
 1,p,c,2,q,t,e

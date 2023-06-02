@@ -1,5 +1,5 @@
 [title]
-Psalmul 136 (Alexandru Groza)
+Psalmul 136 {Author: {Alexandru Groza}}
 
 [sequence]
 c,1,c,2,c,3,c

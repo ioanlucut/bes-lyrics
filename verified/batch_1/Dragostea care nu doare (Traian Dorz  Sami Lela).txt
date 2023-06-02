@@ -1,5 +1,5 @@
 [title]
-Dragostea care nu doare (Traian Dorz / Sami Lela)
+Dragostea care nu doare {Author: {Traian Dorz / Sami Lela}}
 
 [sequence]
 1,2,3,4,5,6,6,e

@@ -1,5 +1,5 @@
 [title]
-All To Him (Jon Egan, Jason Ingram, Mia Fieldes)
+All To Him {Author: {Jon Egan, Jason Ingram, Mia Fieldes}}
 
 [sequence]
 1,c,2,c,b,c

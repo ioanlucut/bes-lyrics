@@ -1,5 +1,5 @@
 [title]
-Depind de Tine (The Messangers)
+Depind de Tine {Author: {The Messengers}}
 
 [sequence]
 1,c,2,c,3,c

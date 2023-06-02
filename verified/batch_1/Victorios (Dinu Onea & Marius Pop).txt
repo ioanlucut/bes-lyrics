@@ -1,5 +1,5 @@
 [title]
-Victorios (Dinu Onea & Marius Pop)
+Victorios {Author: {Dinu Onea & Marius Pop}}
 
 [sequence]
 1,2,c,b,c

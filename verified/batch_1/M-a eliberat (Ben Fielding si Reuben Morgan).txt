@@ -1,5 +1,5 @@
 [title]
-M-a eliberat! (Ben Fielding și Reuben Morgan)
+M-a eliberat! {Author: {Ben Fielding și Reuben Morgan}}
 
 [sequence]
 1,c,2,t,b,t,b,t

@@ -1,5 +1,5 @@
 [title]
-E mult prea scumpă viața asta (Traian Dorz)
+E mult prea scumpă viața asta {Author: {Traian Dorz}}
 
 [sequence]
 1,2,3,4,5,6

@@ -1,5 +1,5 @@
 [title]
-M-am hotărât să-L urmez pe Isus (3x)
+M-am hotărât să-L urmez pe Isus {Author: {3x}}
 
 [sequence]
 1,2,3,4
