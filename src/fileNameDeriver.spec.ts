@@ -1,39 +1,40 @@
 import { deriveFromTitle } from './fileNameDeriver';
+import { ALLOWED_CHARS, EMPTY_STRING } from '../constants';
 
-describe('fileNameNormalizer', () => {
-  it('should work correctly', () => {
+describe('fileNameDeriver', () => {
+  it('should work correctly by correctly mapping the existing allowed chars', () => {
     expect(
-      deriveFromTitle(
-        '!(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„',
-      ),
+      deriveFromTitle(ALLOWED_CHARS.join(EMPTY_STRING)),
     ).toMatchInlineSnapshot(
-      `"()-.1234567890ABCDEFGHIJKLMNOPRSTUVWXZYabcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`,
+      `"()-.1234567890ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`,
     );
   });
 
-  it('should work correctly - when author is there #1', () => {
-    expect(
-      deriveFromTitle('Aleluia, laudă Lui (Otto Pascal)'),
-    ).toMatchInlineSnapshot(`"Aleluia lauda Lui (Otto Pascal).txt"`);
-  });
-
-  it('should work correctly - when author is there #2', () => {
+  it('should work correctly - when `Alternative` and `Author` is there', () => {
     expect(
       deriveFromTitle(
-        'Tu spui (You Say - Traducere adaptata de Onita Halunga) (Lauren Daigle)',
+        'Ce mare ești Tu {Alternative: {Splendoare de-mpărat}, Author: {Ekklesia}}',
       ),
     ).toMatchInlineSnapshot(
-      `"Tu spui (You Say - Traducere adaptata de Onita Halunga) (Lauren Daigle).txt"`,
+      `"Ekklesia - Ce mare esti Tu - Splendoare de-mparat.txt"`,
     );
   });
 
-  it('should work correctly - when author is there #2', () => {
+  it('should work correctly - when `Author` is there', () => {
     expect(
-      deriveFromTitle(
-        'Tu spui (You Say - Traducere adaptata de Onita Halunga) (Lauren Daigle)',
-      ),
-    ).toMatchInlineSnapshot(
-      `"Tu spui (You Say - Traducere adaptata de Onita Halunga) (Lauren Daigle).txt"`,
-    );
+      deriveFromTitle('Ce mare ești Tu {Author: {Ekklesia}}'),
+    ).toMatchInlineSnapshot(`"Ekklesia - Ce mare esti Tu.txt"`);
+  });
+
+  it('should work correctly - when `Version` is there', () => {
+    expect(
+      deriveFromTitle('Domn al veșniciei, al lumii Creator {Version: {i}}'),
+    ).toMatchInlineSnapshot(`"Domn al vesniciei al lumii Creator - i.txt"`);
+  });
+
+  it('should work correctly - when no meta is there', () => {
+    expect(
+      deriveFromTitle('Domn al veșniciei, al lumii Creator'),
+    ).toMatchInlineSnapshot(`"Domn al vesniciei al lumii Creator.txt"`);
   });
 });

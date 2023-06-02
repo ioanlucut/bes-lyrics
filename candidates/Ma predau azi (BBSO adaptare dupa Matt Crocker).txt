@@ -1,5 +1,5 @@
 [title]
-Mă predau azi {Author: {BBSO adaptare după Matt Crocker}}
+Mă predau azi {Alternative: {Adaptare după Matt Crocker}, Author: {BBSO}}
 
 [sequence]
 1,2,b,c,b,c

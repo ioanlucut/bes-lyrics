@@ -22,6 +22,12 @@ export enum SongSection {
   VERSE_12 = '[12]',
 }
 
+export enum SongMeta {
+  ALTERNATIVE = 'Alternative',
+  AUTHOR = 'Author',
+  VERSION = 'Version',
+}
+
 export const SequenceChar = {
   [SongSection.VERSE_1]: '1',
   [SongSection.VERSE_2]: '2',

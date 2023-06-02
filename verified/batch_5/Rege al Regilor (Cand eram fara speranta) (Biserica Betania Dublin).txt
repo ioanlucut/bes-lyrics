@@ -1,5 +1,5 @@
 [title]
-Rege al Regilor {Alternative: {Când eram fără speranță}, {Author: {Betania Dublin}}}
+Rege al Regilor {Alternative: {Când eram fără speranță}, Author: {Betania Dublin}}
 
 [sequence]
 1,c,2,c,3,c,c

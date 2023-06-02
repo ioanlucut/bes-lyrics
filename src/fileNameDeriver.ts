@@ -1,11 +1,14 @@
-import _ from 'lodash';
-import { Iconv } from 'iconv';
-import { EMPTY_STRING, TXT_EXTENSION } from '../constants';
+import _, { trim } from 'lodash';
+import { COMMA, EMPTY_STRING, TXT_EXTENSION } from '../constants';
+import { SongMeta } from './types';
+import { getTitleContent } from './utils';
 
-const iconv = new Iconv('UTF-8', 'latin1');
+const getCleanVersion = (title: string) => {
+  if (!title) {
+    return title;
+  }
 
-export const deriveFromTitle = (title: string) => {
-  const generatedFilename = title
+  return title
     .replaceAll('!', EMPTY_STRING)
     .replaceAll(',', EMPTY_STRING)
     .replaceAll('/', EMPTY_STRING)
@@ -26,8 +29,40 @@ export const deriveFromTitle = (title: string) => {
     .replaceAll('ș', 's')
     .replaceAll('Ț', 'T')
     .replaceAll('ț', 't');
+};
 
-  const maybeRenamedFile = iconv.convert(_.trim(generatedFilename)).toString();
+export const deriveFromTitle = (titleContent: string) => {
+  const [title, meta] = getTitleContent(titleContent);
+
+  const metaSections =
+    (meta
+      ?.split(COMMA)
+      ?.map((hit) => {
+        const [type, value] = hit.split(':').map(trim);
+
+        return {
+          type,
+          value: value
+            ?.replace(/{/gim, EMPTY_STRING)
+            ?.replace(/}/gim, EMPTY_STRING),
+        } as {
+          type: SongMeta;
+          value: string;
+        };
+      })
+      ?.reduce(
+        (acc, { type, value }) => ({ ...acc, [type]: value }),
+        {},
+      ) as Record<SongMeta, string>) || {};
+
+  const maybeRenamedFile = [
+    metaSections[SongMeta.AUTHOR],
+    _.trim(getCleanVersion(title)),
+    getCleanVersion(metaSections[SongMeta.ALTERNATIVE]),
+    metaSections[SongMeta.VERSION],
+  ]
+    .filter(Boolean)
+    .join(' - ');
 
   return `${maybeRenamedFile}${TXT_EXTENSION}`;
 };

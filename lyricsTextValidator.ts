@@ -4,9 +4,12 @@ import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
 import { ERROR_CODE, TXT_EXTENSION } from './constants';
-import { assemblyCharsStats, verifyStructure } from './src';
+import {
+  assemblyCharsStats,
+  logFileWithLinkInConsole,
+  verifyStructure,
+} from './src';
 import recursive from 'recursive-readdir';
-import { logFileWithLinkInConsole } from './utils';
 import chalk from 'chalk';
 
 dotenv.config();

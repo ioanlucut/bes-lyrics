@@ -1,5 +1,5 @@
 [title]
-Doar pentru Hristos {Alternative: {The Cause Of Christ}, {Author: {Kari Jobe}}}
+Doar pentru Hristos {Alternative: {The Cause Of Christ}, Author: {Kari Jobe}}
 
 [sequence]
 1,c,2,b,3,4

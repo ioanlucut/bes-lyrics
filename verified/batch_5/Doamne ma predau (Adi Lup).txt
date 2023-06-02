@@ -1,5 +1,5 @@
 [title]
-Doamne, mă predau
+Doamne, mă predau {Author: {Adi Lup}}
 
 [sequence]
 1,c,2,c,3,c,4,c

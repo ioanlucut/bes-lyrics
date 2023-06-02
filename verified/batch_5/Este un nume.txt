@@ -1,5 +1,5 @@
 [title]
-Este un Nume
+Este un Nume {Author: {Betania Dublin}}
 
 [sequence]
 1,c,2,c,b,c

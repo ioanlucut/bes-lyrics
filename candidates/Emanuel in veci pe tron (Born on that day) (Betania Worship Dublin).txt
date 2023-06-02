@@ -1,5 +1,5 @@
 [title]
-Emanuel, în veci pe Tron {Alternative: {Born on that day}, {Author: {Betania Worship Dublin}}}
+Emanuel, în veci pe Tron {Alternative: {Born on that day}, Author: {Betania Worship Dublin}}
 
 [sequence]
 1,c,2,c,b,c

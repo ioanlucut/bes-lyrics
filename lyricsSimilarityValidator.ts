@@ -10,10 +10,10 @@ import * as process from 'process';
 import dotenv from 'dotenv';
 import stringSimilarity from 'string-similarity';
 import recursive from 'recursive-readdir';
+import chalk from 'chalk';
 import { parseArgs } from 'node:util';
 import { ALT_SONGS_FILE_SUFFIX, NEW_LINE } from './constants';
-import chalk from 'chalk';
-import { logFileWithLinkInConsole } from './utils';
+import { logFileWithLinkInConsole } from './src';
 
 dotenv.config();
 

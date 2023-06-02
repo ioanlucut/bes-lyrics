@@ -3,19 +3,13 @@ import path from 'path';
 import dotenv from 'dotenv';
 import * as process from 'process';
 import { EMPTY_STRING, TXT_EXTENSION } from './constants';
-import { deriveFromTitle, SongSection } from './src';
+import { deriveFromTitle, logFileWithLinkInConsole, SongSection } from './src';
 import recursive from 'recursive-readdir';
 import _, { isEqual } from 'lodash';
-import { logFileWithLinkInConsole } from './utils';
 import chalk from 'chalk';
 
 dotenv.config();
 
-/**
- * Beware: There is a nasty bug about song names with diacritics, thus that part is not really working.
- *
- * See https://apple.stackexchange.com/questions/10476/how-to-enter-special-characters-so-that-bash-terminal-understands-them/10484#10484
- */
 const reprocessFileNames = async (dir: string) => {
   console.log(`"Reprocessing file names from ${dir} directory.."`);
 
@@ -46,8 +40,6 @@ const reprocessFileNames = async (dir: string) => {
         return;
       }
 
-      fs.unlinkSync(filePath);
-
       const nextPathName = path.join(
         __dirname,
         path.dirname(filePath),
@@ -56,6 +48,7 @@ const reprocessFileNames = async (dir: string) => {
 
       console.log('nextPathName', nextPathName);
       fs.writeFileSync(nextPathName, existingContent);
+      fs.unlinkSync(filePath);
 
       console.log(chalk.green(`Renamed to "${newFileName}"`));
       console.log();
@@ -65,5 +58,5 @@ const reprocessFileNames = async (dir: string) => {
 
 (async () => {
   await reprocessFileNames(process.env.CANDIDATES_DIR);
-  await reprocessFileNames(process.env.VERIFIED_DIR);
+  // await reprocessFileNames(process.env.VERIFIED_DIR);
 })();
