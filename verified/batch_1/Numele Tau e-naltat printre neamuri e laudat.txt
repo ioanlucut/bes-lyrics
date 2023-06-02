@@ -2,7 +2,7 @@
 Voi înălța Numele Tău (Grupul Domini)
 
 [sequence]
-1,c,2,c,b,c
+c,1,c,2,c,b,c
 
 [1]
 Numele Tău e ’nălțat, 

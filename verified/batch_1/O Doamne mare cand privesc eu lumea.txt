@@ -2,7 +2,7 @@
 O, Doamne Mare (Imnurile Harului #235)
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c,6,c
+c,1,c,2,c,3,c,4,c,5,c,6
 
 [1]
 O, Doamne mare, când privesc eu lumea,

@@ -2,7 +2,7 @@
 Tată din ceruri, noi Te iubim
 
 [sequence]
-1,c,1,c
+c,1,c,1,c,c
 
 [1]
 Tată din ceruri, noi Te iubim,

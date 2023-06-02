@@ -2,7 +2,7 @@
 N-am cuvinte ca să-Ți spun (Imnurile Harului #1329)
 
 [sequence]
-1,c,2,c,3,c
+c,1,c,2,c,3
 
 [1]
 N-am cuvinte ca să-Ți spun,

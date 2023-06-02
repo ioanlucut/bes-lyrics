@@ -2,7 +2,7 @@
 Victorios (Dinu Onea & Marius Pop)
 
 [sequence]
-1,2,c,b,c
+c,1,2,c,b,c
 
 [1]
 Domnul, steagul meu,

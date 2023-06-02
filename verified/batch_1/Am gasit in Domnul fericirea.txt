@@ -2,7 +2,7 @@
 Am găsit în Domnul fericirea (Imnurile Harului #41)
 
 [sequence]
-1,c,2,c,3,c
+c,1,c,2,c,3
 
 [1]
 Am găsit în Domnul fericirea,

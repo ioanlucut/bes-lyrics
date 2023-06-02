@@ -2,7 +2,7 @@
 Mai mult acum ca niciodată
 
 [sequence]
-1,c,2,c,c,3,c,c
+1,c,2,c,c,3,c,c,e
 
 [1]
 Mai mult acum, ca niciodată,
@@ -43,3 +43,6 @@ Tot mai aproape e sfârșitul,
 Curând, curând El va veni.
 Prinde, prietene, momentul
 Și fericit pe veci poți fi.
+
+[ending]
+Și îndeaproape să Îl urmăm.
