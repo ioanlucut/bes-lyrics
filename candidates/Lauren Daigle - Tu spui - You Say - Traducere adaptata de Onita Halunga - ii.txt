@@ -1,5 +1,5 @@
 [title]
-Tu spui {Alternative: {You Say - Traducere adaptata de Onita Halunga}, Author: {Lauren Daigle}}
+Tu spui {Alternative: {You Say - Traducere adaptata de Onita Halunga}, Author: {Lauren Daigle}, Version: {ii}}
 
 [sequence]
 1,c,2,c,3,c
