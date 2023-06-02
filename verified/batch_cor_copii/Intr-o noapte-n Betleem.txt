@@ -1,5 +1,5 @@
 [title]
-Într-o noapte-n Betleem
+Într-o noapte-n Betleem {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,2,c,3,4,c,b,c

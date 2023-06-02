@@ -1,5 +1,5 @@
 [title]
-Domn al veșniciei version {ii}
+Domn al veșniciei version {ii} {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,2,c,b,c

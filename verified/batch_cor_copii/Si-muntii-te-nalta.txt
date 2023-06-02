@@ -1,5 +1,5 @@
 [title]
-Și munții Te-nalță
+Și munții Te-nalță {Author: {Cor copii Dynamis}}
 
 [sequence]
 p,c,1,2,c,3

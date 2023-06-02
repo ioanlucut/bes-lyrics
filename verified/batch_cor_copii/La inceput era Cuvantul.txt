@@ -1,5 +1,5 @@
 [title]
-La început era Cuvântul
+La început era Cuvântul {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,2,c,3,c,e

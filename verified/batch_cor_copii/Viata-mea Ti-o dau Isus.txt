@@ -1,5 +1,5 @@
 [title]
-Viața-mea Ți-o dau Isus
+Viața-mea Ți-o dau Isus {Author: {Cor copii Dynamis}}
 
 [sequence]
 p,c,t,c

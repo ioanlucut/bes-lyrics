@@ -1,5 +1,5 @@
 [title]
-Arată-mi voia Ta
+Arată-mi voia Ta {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,2,t

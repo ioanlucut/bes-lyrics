@@ -1,5 +1,5 @@
 [title]
-Ești Domn peste tot, smerit și blând
+Ești Domn peste tot, smerit și blând {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,2,c,3,c

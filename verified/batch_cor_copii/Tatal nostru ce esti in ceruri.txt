@@ -1,5 +1,5 @@
 [title]
-Tatăl nostru, ce ești în ceruri
+Tatăl nostru, ce ești în ceruri {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,2,3

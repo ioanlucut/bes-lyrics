@@ -1,5 +1,5 @@
 [title]
-Alerg, alerg
+Alerg, alerg {Author: {Cor copii Dynamis}}
 
 [sequence]
 c,1,c,2,c,3,c,b,c

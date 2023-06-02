@@ -1,5 +1,5 @@
 [title]
-Cine este acest copilaș
+Cine este acest copilaș {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,2,c,t,c,t,2

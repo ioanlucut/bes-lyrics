@@ -1,5 +1,5 @@
 [title]
-Doamne, Tu mă cercetezi
+Doamne, Tu mă cercetezi {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,2,3,t

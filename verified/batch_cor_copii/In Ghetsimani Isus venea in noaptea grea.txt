@@ -1,5 +1,5 @@
 [title]
-În Ghetsimani Isus venea în noaptea grea
+În Ghetsimani Isus venea în noaptea grea {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,2,3

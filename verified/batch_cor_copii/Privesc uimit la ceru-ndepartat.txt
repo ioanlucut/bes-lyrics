@@ -1,5 +1,5 @@
 [title]
-Privesc uimit la ceru-ndepărtat
+Privesc uimit la ceru-ndepărtat {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,t,c,b,c

@@ -1,5 +1,5 @@
 [title]
-O stea ce strălucește, lumii vestește
+O stea ce strălucește, lumii vestește {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,2,c,b,3,4,c,e

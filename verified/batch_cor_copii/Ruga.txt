@@ -1,5 +1,5 @@
 [title]
-Rugă
+Rugă {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,2,3,4,5

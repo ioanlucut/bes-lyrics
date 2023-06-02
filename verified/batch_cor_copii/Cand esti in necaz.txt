@@ -1,5 +1,5 @@
 [title]
-Când ești în necaz
+Când ești în necaz {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,2,c

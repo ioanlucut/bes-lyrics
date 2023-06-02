@@ -1,5 +1,5 @@
 [title]
-Habothim ba’hashem kehar tzion
+Habothim ba’hashem kehar tzion {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,b,2,c,3,w,c

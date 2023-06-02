@@ -1,5 +1,5 @@
 [title]
-O, ce veste minunată
+O, ce veste minunată {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,2,3

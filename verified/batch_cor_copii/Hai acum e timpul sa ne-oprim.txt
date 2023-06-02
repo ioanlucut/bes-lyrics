@@ -1,5 +1,5 @@
 [title]
-Hai acum e timpul să ne-oprim
+Hai acum e timpul să ne-oprim {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,2,c,3

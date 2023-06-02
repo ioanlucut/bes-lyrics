@@ -1,5 +1,5 @@
 [title]
-Doar cu o praștie și cu o piatră
+Doar cu o praștie și cu o piatră {Author: {Cor copii Dynamis}}
 
 [sequence]
 c,1,t,2,3,c

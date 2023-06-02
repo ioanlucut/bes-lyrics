@@ -1,5 +1,5 @@
 [title]
-Glorie-I cântăm
+Glorie-I cântăm {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,1,c

@@ -1,5 +1,5 @@
 [title]
-Ce mare e Dumnezeu
+Ce mare e Dumnezeu {Author: {Cor copii Dynamis}}
 
 [sequence]
 c,1,2,c

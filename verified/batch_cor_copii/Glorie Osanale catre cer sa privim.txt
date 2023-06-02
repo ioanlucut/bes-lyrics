@@ -1,5 +1,5 @@
 [title]
-Glorie, Osanale, către cer să privim
+Glorie, Osanale, către cer să privim {Author: {Cor copii Dynamis}}
 
 [sequence]
 c,1,c,2,c,e

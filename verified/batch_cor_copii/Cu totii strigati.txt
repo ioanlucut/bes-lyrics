@@ -1,5 +1,5 @@
 [title]
-Cu toții strigați
+Cu toții strigați {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,t,2,c,b,t

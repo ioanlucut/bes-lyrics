@@ -1,5 +1,5 @@
 [title]
-Bucurați-vă de vestea bună și s-a întrupat Cuvăntul
+Bucurați-vă de vestea bună și s-a întrupat Cuvăntul {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,2,c,3,c,4,c,b,c

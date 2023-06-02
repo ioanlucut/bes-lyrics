@@ -1,5 +1,5 @@
 [title]
-Veniți cu cântări înaintea lui
+Veniți cu cântări înaintea lui {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,2,3,1,2,c

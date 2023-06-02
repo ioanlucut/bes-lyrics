@@ -1,5 +1,5 @@
 [title]
-Numai în Dumnezeu
+Numai în Dumnezeu {Author: {Cor copii Dynamis}}
 
 [sequence]
 c,1,c,2,c,3,c

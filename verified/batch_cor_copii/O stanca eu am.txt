@@ -1,5 +1,5 @@
 [title]
-O stâncă eu am
+O stâncă eu am {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,c,2,c,3,c,4,c,5,c

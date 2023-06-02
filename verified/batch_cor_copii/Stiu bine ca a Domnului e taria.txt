@@ -1,5 +1,5 @@
 [title]
-Știu bine că a Domnului e tăria
+Știu bine că a Domnului e tăria {Author: {Cor copii Dynamis}}
 
 [sequence]
 1,2,3,4,2,c
