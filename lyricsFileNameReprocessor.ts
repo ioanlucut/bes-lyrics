@@ -46,7 +46,6 @@ const reprocessFileNames = async (dir: string) => {
         newFileName,
       );
 
-      console.log('nextPathName', nextPathName);
       fs.writeFileSync(nextPathName, existingContent);
       fs.unlinkSync(filePath);
 
@@ -58,5 +57,5 @@ const reprocessFileNames = async (dir: string) => {
 
 (async () => {
   await reprocessFileNames(process.env.CANDIDATES_DIR);
-  // await reprocessFileNames(process.env.VERIFIED_DIR);
+  await reprocessFileNames(process.env.VERIFIED_DIR);
 })();

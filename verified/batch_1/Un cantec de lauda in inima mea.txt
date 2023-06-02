@@ -2,31 +2,22 @@
 Un cântec de laudă în inima mea
 
 [sequence]
-1,p,c,1,p,c,e
+c,1,c,2,c
 
 [1]
-Un cântec de laudă în inima mea,
-Un cântec ce Tu l-ai pus,
-Mi-ai dat libertate ca să pot cânta din nou,
-Ai rupt întunericul din viața mea,
-Mi-ai dat bucuria Ta,
-Acum eu sunt liber ca să pot cânta din nou.
-
-[prechorus]
-Isus, Tu m-ai răscumpărat,
-Duhul Tău sfânt m-a eliberat.
+Un înger din cer veni la păstori
+Și spuse cu glas blând: „Să nu vă temeți!
+Azi în ieslea din Betleem,
+Cel din vecie a luat chip de om.”
 
 [chorus]
-/: Dragostea Ta îmi dă curaj,
-Să alerg către țintă ne-ncetat.
-Doar Tu ești Domnul meu,
-Te voi binecuvânta,
-Isus, ești fericirea mea!
-Eu cânt de bucurie-n fața Ta,
-Doar Tu ești Domnul meu,
-Te voi binecuvânta. :/
+S-a născut Cel făr’ de-nceput,
+Din iubire la noi a venit,
+Veniți, dar la iesle să ne închinăm,
+Inima în dar să Îi dăm!
 
-[ending]
-Un cântec de laudă în inima mea,
-Un cântec ce Tu l-ai pus,
-Mi-ai dat libertate ca să pot cânta din nou.
+[2]
+În grabă s-au dus găsind pe Isus,
+Un Prunc înfășat și culcat într-o iesle,
+S-au închinat și au mărturisit
+Ce le-a spus îngerul despre Isus.

@@ -1,11 +1,11 @@
 [title]
-Din rane sfinte-a-lui Isus
+Din rane sfinte-a-Lui Isus
 
 [sequence]
 1,2,3,4,5
 
 [1]
-Din rane sfinte-a-lui Isus,
+Din rane sfinte-a-Lui Isus,
 Izvor de sânge-a curs
 Și cine se scufundă-n El
 Deplin s-a curățit.

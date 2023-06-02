@@ -1,0 +1,39 @@
+[title]
+Isus mă încred în tin {Author: {Cor copii Dynamis}}
+
+[sequence]
+1,c,2,3,c
+
+[1]
+Isus mă încred în Tin,
+Lângă Tine vreau să fiu,
+Ajută-mă să înțeleg
+Cât de mult Tu mă iubești.
+
+[chorus]
+/: În dragoste nu este frică,
+Dragostea-i desăvârșită
+Și-alungă frica,
+Alungă frica! :/
+/: Dragostea Lui Dumnezeu. :/
+
+[2]
+Toți: /: În dragoste nu este frică,
+Dragostea-i desăvârșită
+Și-alungă frica,
+Alungă frica! :/
+/: Dragostea Lui Dumnezeu. :/
+
+[3]
+Isus mă încred în Tin
+Lângă Tine vreau să fiu
+Ajută-mă să înțeleg
+Cât de mult Tu mă iubești.
+
+[chorus]
+/: În dragoste nu este frică
+Dragostea-i desăvârșită
+Și-alungă frica,
+Alungă frica! :/
+/: Dragostea Lui Dumnezeu. :/
+Isus, mă încred în Tine!
