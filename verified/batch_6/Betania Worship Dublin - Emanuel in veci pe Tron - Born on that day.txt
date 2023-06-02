@@ -16,7 +16,7 @@ Emanuel ce nume Sfânt,
 Slavă în cer și pace-ntre oameni, jos pe pământ
 
 /: Astăzi, Isus s-a născut, ne bucurăm, Îl lăudăm! :/ (2x)
- {Author: {Final: Astăzi Isus s-a născut...}}
+(Final: Astăzi Isus s-a născut...)
 
 [2]
 Isus Mesia, Tu ești Cuvântu-mplinit
@@ -25,4 +25,4 @@ Ne-ai dat iertare și-atât de mult ne-ai iubit.
 
 [bridge]
 Ne închinăm, Îl lăudăm, e Dumnezeu cu noi,
-Ni s-a născut un Salvator, e Dumnezeu cu noi! {Author: {e Dumnezeu...}}
+Ni s-a născut un Salvator, e Dumnezeu cu noi! (e Dumnezeu...)

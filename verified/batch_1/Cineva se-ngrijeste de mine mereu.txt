@@ -1,5 +1,5 @@
 [title]
-Cineva se-ngrijește de mine mereu {Author: {#1592 Imnurile Harului}}
+Cineva se-ngrijește de mine mereu
 
 [sequence]
 1,c,2,c,3,c

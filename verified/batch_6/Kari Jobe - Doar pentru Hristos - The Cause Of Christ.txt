@@ -2,7 +2,7 @@
 Doar pentru Hristos {Alternative: {The Cause Of Christ}, Author: {Kari Jobe}}
 
 [sequence]
-1,c,2,b,3,4
+1,c,2,b,3
 
 [1]
 Un lucru vreau cu dor nespus
@@ -33,5 +33,3 @@ Isus, scumpe Isus,
 Smerit pășesc pe-acest pământ.
 Mă rog, ca-n viața ce-o trăiesc,
 Să ’nalț al Tău Nume ceresc.
-
-[4]... oamenii aceștia, care, și-au pus în joc viața pentru Numele Domnului nostru Isus Hristos. {Author: {Fapte 15:26}}

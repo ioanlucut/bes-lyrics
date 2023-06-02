@@ -1,5 +1,5 @@
 [title]
-Lauda mea e pentru Împăratul {Author: {#947 Imnurile Harului}}
+Lauda mea e pentru Împăratul
 
 [sequence]
 1,c,2,c,3,c,4,c
