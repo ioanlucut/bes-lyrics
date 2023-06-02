@@ -2,7 +2,7 @@
 Pentru noi s-a ivit mântuirea
 
 [sequence]
-c,1,c,2,c,3,c
+1,c,2,c,3,c
 
 [1]
 Pentru noi s-a ivit mântuirea,

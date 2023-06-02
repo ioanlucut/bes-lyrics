@@ -2,7 +2,7 @@
 La crucea de la Golgota (#889 (Imnurile Harului))
 
 [sequence]
-c,1,c,2
+1,c,2,c
 
 [1]
 La crucea de la Golgota,

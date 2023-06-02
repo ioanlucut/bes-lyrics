@@ -2,7 +2,7 @@
 Pe-oceanul infinit, cu valuri (Imnurile Harului 218)
 
 [sequence]
-c,1,c,2,c,3
+1,c,2,c,3,c
 
 [1]
 Pe-oceanul infinit, cu valuri,

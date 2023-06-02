@@ -2,7 +2,7 @@
 Tu-mi ești Refugiul (Imnurile Harului #1720)
 
 [sequence]
-c,1,c,2
+1,c,2,c
 
 [1]
 Tu-mi ești refugiul când sunt slab,

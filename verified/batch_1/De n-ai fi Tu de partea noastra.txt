@@ -2,7 +2,7 @@
 De n-ai fi Tu de partea noastră (Imnurile Harului #1117)
 
 [sequence]
-c,1,c,2
+1,c,2,c
 
 [1]
 /: De n-ai fi Tu de partea noastră,

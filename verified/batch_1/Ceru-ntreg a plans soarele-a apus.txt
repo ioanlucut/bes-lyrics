@@ -2,7 +2,7 @@
 Veșnic Aleluia (Kari Jobe)
 
 [sequence]
-1,c,b,c
+1,p,c,p,c,b,c
 
 [1]
 Ceru-ntreg a plâns, soarele-a apus
@@ -15,6 +15,7 @@ Părăsit de toți Isus era.
 Dar lupta n-a sfârșit și-acolo în mormânt
 A iadului puteri El le-a zdrobit.
 
+[prechorus]
 Pământul s-a mișcat când piatra s-a desprins,
 Iubirea Lui a fost de neînvins.
 O, moarte, unde ești? Zdrobită-ai fost pe veci
