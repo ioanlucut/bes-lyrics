@@ -1,5 +1,5 @@
 [title]
-Crucea lui, salvarea mea {Author: {Betania Worship Dublin}}
+Crucea lui, salvarea mea {Author: {Betania Dublin}}
 
 [sequence]
 1,c,2,c,t,b,c,e

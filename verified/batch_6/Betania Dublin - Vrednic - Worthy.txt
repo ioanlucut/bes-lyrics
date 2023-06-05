@@ -1,5 +1,5 @@
 [title]
-Vrednic {Alternative: {Worthy}, Author: {Betania Dublin, Elevation Worship}}
+Vrednic {Alternative: {Worthy}, Author: {Betania Dublin}}
 
 [sequence]
 1,c,2,c,b,c
