@@ -1,5 +1,5 @@
 [title]
-Tu-mi ești Refugiul {Author: {Imnurile Harului #1720}}
+Tu-mi ești Refugiul
 
 [sequence]
 1,c,2,c

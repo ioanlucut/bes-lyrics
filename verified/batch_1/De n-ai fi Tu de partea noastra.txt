@@ -1,5 +1,5 @@
 [title]
-De n-ai fi Tu de partea noastră {Author: {Imnurile Harului #1117}}
+De n-ai fi Tu de partea noastră
 
 [sequence]
 1,c,2,c

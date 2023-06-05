@@ -1,5 +1,5 @@
 [title]
-Știi tu cine este Isus {Author: {Imnurile Harului #819}}
+Știi tu cine este Isus
 
 [sequence]
 1,c,2,c,3,c

@@ -1,5 +1,5 @@
 [title]
-Pe-oceanul infinit, cu valuri {Author: {Imnurile Harului 218}}
+Pe-oceanul infinit, cu valuri
 
 [sequence]
 1,c,2,c,3,c

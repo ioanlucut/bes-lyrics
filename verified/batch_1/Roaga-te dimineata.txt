@@ -1,5 +1,5 @@
 [title]
-Roagă-te dimineața {Author: {Imnurile Harului #16}}
+Roagă-te dimineața
 
 [sequence]
 1,2,3,4

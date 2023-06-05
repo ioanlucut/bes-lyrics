@@ -1,5 +1,5 @@
 [title]
-Ești Cel mai frumos {Author: {Imnurile Harului #1132}}
+Ești Cel mai frumos
 
 [sequence]
 1,c,2,c,3,c
