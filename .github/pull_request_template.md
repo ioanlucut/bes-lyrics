@@ -4,4 +4,4 @@
 
 #### Checklist:
 
-- [ ] I only use the allowed chars
+- [x] I only use the allowed chars
