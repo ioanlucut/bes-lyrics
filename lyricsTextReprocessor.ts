@@ -17,7 +17,6 @@ const reprocess = async (dir: string) => {
 
   (await recursive(dir))
     .filter((filePath) => path.extname(filePath) === TXT_EXTENSION)
-    .filter((filePath) => !filePath.includes('Nu te teme'))
     .forEach((filePath) => {
       const fileContent = fs.readFileSync(filePath).toString();
       const fileName = path.basename(filePath);
@@ -31,4 +30,5 @@ const reprocess = async (dir: string) => {
 
 (async () => {
   await reprocess(process.env.CANDIDATES_DIR);
+  await reprocess(process.env.VERIFIED_DIR);
 })();

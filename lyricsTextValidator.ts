@@ -14,13 +14,7 @@ import chalk from 'chalk';
 
 dotenv.config();
 
-// ---
-// RUN
-// ---
-
-(async () => {
-  const fileDir = process.env.VERIFIED_DIR;
-
+const runValidationForDir = async (fileDir: string) => {
   const arrayOfFileNameAndContent = (await recursive(fileDir))
     .filter((filePath) => filePath.endsWith(TXT_EXTENSION))
     .map((filePath) => {
@@ -87,7 +81,7 @@ dotenv.config();
   // Structure problems
   // ---
 
-  let isStructureErroneous = false;
+  let isStructureErroneous;
 
   arrayOfFileNameAndContent.forEach(({ fileName, fileContent, filePath }) => {
     try {
@@ -107,4 +101,11 @@ dotenv.config();
   if (isStructureErroneous) {
     process.exit(ERROR_CODE);
   }
+};
+
+// ---
+// RUN
+// ---
+(async () => {
+  await runValidationForDir(process.env.VERIFIED_DIR);
 })();
