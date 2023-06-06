@@ -1,5 +1,5 @@
 [title]
-Eu și casa mea
+Da eu și casa mea
 
 [sequence]
 1,c,2,c,b,t

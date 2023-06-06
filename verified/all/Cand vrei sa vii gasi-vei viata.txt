@@ -1,5 +1,5 @@
 [title]
-Când vrei să vii
+Când vrei să vii, găsi-vei viața
 
 [sequence]
 c,1,c,2
