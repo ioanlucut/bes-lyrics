@@ -17,17 +17,19 @@ mesia
 …
 `),
     ).toMatchInlineSnapshot(`
-      "ș
+      "
+      ș
       ț
       Doamne
       Domnul
-      Duhul
+      duhul
       Dumnezeu
       Golgota
       Isus
       Isuse
       Mesia
-      ..."
+      ...
+      "
     `);
   });
 });

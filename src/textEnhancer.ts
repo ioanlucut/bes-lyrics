@@ -8,7 +8,6 @@ export const reprocessTextContent = (content: string) => {
     .replaceAll('Ţ', 'Ț')
     .replaceAll('doamne', 'Doamne')
     .replaceAll('domnul', 'Domnul')
-    .replaceAll('duhul', 'Duhul')
     .replaceAll('dumnezeu', 'Dumnezeu')
     .replaceAll('golgota', 'Golgota')
     .replaceAll('isus', 'Isus')
