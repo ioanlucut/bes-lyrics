@@ -1,5 +1,3 @@
-import _ from 'lodash';
-
 export const reprocessTextContent = (content: string) => {
   const remappedContent = content
     .replaceAll('  ', ' ')
@@ -22,5 +20,5 @@ export const reprocessTextContent = (content: string) => {
     .replaceAll('…', '...')
     .replaceAll('//', '/');
 
-  return _.trim(remappedContent);
+  return remappedContent;
 };

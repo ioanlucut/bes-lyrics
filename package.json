@@ -43,7 +43,7 @@
     "verify:similarity": "ts-node ./lyricsSimilarityValidator.ts",
     "verify:similarity:mv": "ts-node ./lyricsSimilarityValidator.ts --overwrite",
     "verify:similarity:rm": "ts-node ./lyricsSimilarityValidator.ts --removeDuplicates",
-    "reprocess:candidates": "ts-node ./lyricsTextReprocessor.ts",
+    "reprocess:content": "ts-node ./lyricsTextReprocessor.ts",
     "reprocess:filenames": "ts-node ./lyricsFileNameReprocessor.ts",
     "dictionary:analyze": "ts-node lyricsRomanianDictionaryAnalyzer.ts",
     "dictionary:update": "ts-node lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary"
