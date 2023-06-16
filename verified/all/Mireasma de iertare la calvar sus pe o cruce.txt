@@ -1,5 +1,5 @@
 [title]
-Mireasmă de iertare la Calvar, sus, pe o cruce
+Mireasmă de iertare la calvar, sus, pe o cruce
 
 [sequence]
 1,c,2,c
@@ -11,7 +11,7 @@ Zbor înfrânt și-a găsit alinare
 În Cuvântul întrupat în Dumnezeu.
 
 [chorus]
-La Calvar, sus, pe o cruce,
+La calvar, sus, pe o cruce,
 Iubirea a fost jertfă și altar,
 Împăcând toată omenirea
 Cu Creatorul Său, cu Tatăl Dumnezeu

@@ -1,5 +1,5 @@
 [title]
-La Calvar
+La calvar
 
 [sequence]
 1,c,2,c,b,c
@@ -16,10 +16,10 @@ Pentru nimic nu le-aș schimba,
 Isus, ești fericirea mea!
 
 [chorus]
-La Calvar păcatul mi-e șters,
-La Calvar eu har primesc,
-La Calvar mântuire am în dar,
-Îți mulțumesc, Isus, pentru Calvar!
+La calvar păcatul mi-e șters,
+La calvar eu har primesc,
+La calvar mântuire am în dar,
+Îți mulțumesc, Isus, pentru calvar!
 
 [2]
 Cine sunt eu să pot intra,
