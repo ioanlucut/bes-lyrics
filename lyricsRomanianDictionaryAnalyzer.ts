@@ -20,6 +20,7 @@ import {
   ERROR_CODE,
   NEW_LINE,
   TEST_FILE,
+  TXT_EXTENSION,
 } from './constants';
 import { getTitleContent, SongSection } from './src';
 
@@ -38,6 +39,7 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
 
   (await recursive(dir))
     .filter((file) => !_.includes(file, TEST_FILE))
+    .filter((filePath) => path.extname(filePath) === TXT_EXTENSION)
     .forEach((filePath) => {
       const songAsString = fs.readFileSync(filePath).toString();
       const songSections = getSongInSections(songAsString);
@@ -71,7 +73,7 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
         sectionIndex = sectionIndex + 2
       ) {
         const sectionKey = songSectionsTuples[sectionIndex] as SongSection;
-        const sectionContent = songSectionsTuples[sectionIndex + 1];
+        const sectionContent = songSectionsTuples[sectionIndex + 1] as string;
 
         if (sectionKey !== SongSection.SEQUENCE) {
           const sectionToBeVerified =
