@@ -1,0 +1,37 @@
+[title]
+My God is so big {Alternative: {Puternic și tare, măreț este Domnul}, Author: {Cor copii Dynamis}}
+
+[sequence]
+c,1,c,2,c,e,c
+
+[chorus]
+/: Puternic și tare, măreț este Domnul,
+Nimic nu-i prea greu pentru El! :/
+
+[1]
+La început, lumea El a făcut.
+La un Cuvânt totul a apărut,
+Marea cea roșie a despărțit,
+Și tot poporul prin ea a pășit.
+David pe Goliat l-a dărâmat,
+Iosua zidurile a surpat,
+Toate vorbesc numai de Dumnezeu,
+Despre puterea Numelui Său!
+
+[chorus]
+/: Puternic și tare, măreț este Domnul,
+Nimic nu-i prea greu pentru El! :/
+
+[2]
+Și eu și tu, toți zăceam în păcat,
+El ne-a iertat și valoare ne-a dat.
+Celor bolnavi vindecare le-a dat,
+Și ochii orbilor o luminat.
+Sus pe o cruce a fost răstignit,
+În locul nostru Isus a murit.
+Dar a-nviat și la cer s-a-nălțat,
+Va reveni, Domnul fie lăudat!
+
+[ending]
+/: Dumnezeul Tată, Fiul și Duhul Sfânt:
+1+1+1 fac 1! :/
