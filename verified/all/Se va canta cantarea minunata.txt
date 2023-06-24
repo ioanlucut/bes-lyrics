@@ -1,5 +1,5 @@
 [title]
-Se va cânta cântarea minunată
+Eroii slavei
 
 [sequence]
 1,c,2,c,3,c
@@ -11,10 +11,10 @@ Mireasa-și va cânta imnul dorit
 Cu-acei ce-n luptă și-n prigoane-au biruit.
 
 [chorus]
-Eroii slavei vin acum acasă,
+/: Eroii slavei vin acum acasă,
 Au biruit în marele necaz
 Și ei vor sta cu Domnul lor la masă,
-El le va șterge lacrima de pe obraz.
+El le va șterge lacrima de pe obraz. :/
 
 [2]
 Din orice neam, din orice seminție,
