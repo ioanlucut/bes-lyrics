@@ -4,112 +4,96 @@ const SIMPLE_SONG = `[title]
 My custom title
 
 [sequence]
-1,2,3,4,c,t,b,w,e,p,q,c,3,c
+v1,v2,v3,p1,p2,p3,c1,c2,c3,b1,b2,b3
 
-[1]
-Row 1
-Row 2
+[v1]
+Row for v1 
 
-[2]
-Row 3
-Row 4
+[v2]
+Row for v2 
 
-[3]
-Row 5
-Row 6
+[v3]
+Row for v3 
 
-[4]
-Row 7
-Row 8
+[p1]
+Row for p1 
 
-[bridge]
-Row bridge 1
-Row bridge 2
+[p2]
+Row for p2 
 
-[bridge 2]
-Row bridge 1
-Row bridge 2
+[p3]
+Row for p3 
 
-[chorus]
-Row chorus 1
-Row chorus 2
+[c1]
+Row for c1 
 
-[chorus 2]
-Row chorus 1
-Row chorus 2
+[c2]
+Row for c2 
 
-[ending]
-Row ending 1
-Row ending 2
+[c3]
+Row for c3 
 
-[prechorus]
-Row prechorus 1
-Row prechorus 2
+[b1]
+Row for b1 
 
-[prechorus 2]
-Row prechorus 1
-Row prechorus 2
+[b2]
+Row for b2 
 
-[title]
-Row title 1
-Row title 2
+[b3]
+Row for b3 
 
-[sequence]
-Row sequence 1
-Row sequence 2`;
+`;
 
 const SONG_WITH_MISMATCHING_SEQUENCE = `[title]
 My custom title
 
 [sequence]
-1,c,2,c,3,c,4,c
+v
 
-[1]
-Row 1
+[v1]
+Row for v1 
 
-[2]
-Row 3
+[v2]
+Row for v2 
 
-[3]
-Row 5
+[v3]
+Row for v3 
 
-[4]
-Row 7
+[p1]
+Row for p1 
 
-[bridge]
-Row bridge 1
+[p2]
+Row for p2 
 
-[bridge 2]
-Row bridge 1
+[p3]
+Row for p3 
 
-[chorus]
-Row chorus 1
+[c1]
+Row for c1 
 
-[chorus 2]
-Row chorus 1
+[c2]
+Row for c2 
 
-[ending]
-Row ending 1
+[c3]
+Row for c3 
 
-[prechorus]
-Row prechorus 1
+[b1]
+Row for b1 
 
-[prechorus 2]
-Row prechorus 1
+[b2]
+Row for b2 
 
-[title]
-Row title 1
-
-[sequence]
-Row sequence 2`;
+[b3]
+Row for b3 
+`;
 
 const SONG_WITH_MISMATCHING_SECTIONS = `[title]
 My custom title
 
 [sequence]
-1,c
+v1,c
 
-[1]
+[v1]
 Row 1`;
 
 describe('contentStructureValidator', () => {
@@ -121,7 +105,7 @@ My custom title
 [sequence]
 1,c
 
-[1]
+[v1]
 Row 1`),
     ).toThrowErrorMatchingInlineSnapshot(`"[title] is missing."`);
   });
@@ -131,7 +115,7 @@ Row 1`),
       verifyStructure(`[title]
 My custom title
 
-[1]
+[v1]
 Row 1`),
     ).toThrowErrorMatchingInlineSnapshot(`"[sequence] is missing."`);
   });
@@ -144,7 +128,7 @@ Row 1`),
     expect(() =>
       verifyStructure(SONG_WITH_MISMATCHING_SEQUENCE),
     ).toThrowErrorMatchingInlineSnapshot(
-      `"The following are present in the content but not in the sequence: [31m[bridge],[bridge 2],[chorus 2],[ending],[prechorus],[prechorus 2][39m"`,
+      `"The [31m[v1],[v2],[v3],[p1],[p2],[p3],[c1],[c2],[c3],[b1],[b2],[b3][39m tags are present in the content but not in the sequence."`,
     );
   });
 
@@ -152,7 +136,7 @@ Row 1`),
     expect(() =>
       verifyStructure(SONG_WITH_MISMATCHING_SECTIONS),
     ).toThrowErrorMatchingInlineSnapshot(
-      `"The [31m[chorus][39m is defined in the sequence but missing as a [31mc[39m section."`,
+      `"The [31m[c][39m is defined in the sequence but missing as a [31m[c][39m section."`,
     );
   });
 });

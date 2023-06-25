@@ -2,33 +2,33 @@
 Dumnezeu ne este adăpost
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Dumnezeu ne este adăpost,
 Sprijin și nădejde El ne-a fost,
 Brațul Său ne-ajută în nevoi,
 În necazuri e mereu cu noi.
 
-[chorus]
+[c]
 /: Nu ne temem de s-ar clătina
 Munții, și pământul de-ar crăpa,
 Marea-n clocot de ar năvăli,
 Știm că Domnul ne va ocroti. :/
 
-[2]
+[v2]
 E un râu din care eu voi bea,
 Îmi înveselește inima,
 Râul sfânt, de viață dătător,
 Dând putere astăzi tuturor.
 
-[3]
+[v3]
 Vă opriți și astăzi chibzuiți,
 Să veniți cât încă mai trăiți,
 Domnul dragoste vrea să vă dea
 Și din inimă ura să ia.
 
-[4]
+[v4]
 Mari lucrări azi face Dumnezeu
 Pentru cei ce-ascultă glasul Său,
 Chiar de lumea trece prin nevoi,

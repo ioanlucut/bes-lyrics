@@ -2,15 +2,15 @@
 Duh de viață nouă să cobori
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Duh de viață nouă să cobori Focul sfânt,
 Eu Te rog, cu dor
 Și o viață sfântă Tu-mi vei da
 Azi și pururea.
 
-[chorus]
+[c]
 /: Prin puterea Ta eu biruiesc,
 Clipe fericite eu trăiesc.
 De Hristos îmi amintesc mereu,
@@ -18,7 +18,7 @@ Să-L port în pieptul meu mereu,
 Roada Ta bogată, pururea
 Umple viața mea. :/
 
-[2]
+[v2]
 Pentru suflet ești mângâietor,
 Pentru viață-ndrumător,
 Inima și duhu-nflăcărezi

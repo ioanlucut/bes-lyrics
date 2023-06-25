@@ -2,22 +2,22 @@
 Mare Domn avem
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 /: Mare Domn avem,
 Mare Dumnezeu,
 Mare Împărat,
 Pe toate le-ai creat. :/
 
-[2]
+[v2]
 /: Glorie Domnului,
 Glorie numai Lui,
 El e Împărat,
 Pe toate le-a creat. :/
 
-[chorus]
+[c]
 /: Numele Lui e pe-ntreg
 Pământul înălțat.
-Atotputernic, 
+Atotputernic,
 El lumea-ntreagă a creat. :/

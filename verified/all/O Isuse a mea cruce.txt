@@ -2,39 +2,39 @@
 O, Isuse, a mea cruce
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c
+v1,c,v2,c,v3,c,v4,c,v5,c
 
-[1]
+[v1]
 O, Isuse, a mea cruce
 Tu m-ajuta-o purta,
 Zi de zi să îi pot duce
 Greul ei, spre slava Ta.
 
-[chorus]
+[c]
 Să-Ți urmez, doresc Isuse,
 Pân’ la capăt ne-ncetat,
 De mi-ar fi chiar toți potrivnici,
 Nu mă uiți Tu niciodat’.
 
-[2]
+[v2]
 O, aș vrea, la fel ca Tine,
 Să fiu mort la orice rău.
 Tu să mă conduci la bine,
 Ne-ncetat pe drumul Tău!
 
-[3]
+[v3]
 Părăsit chiar de prieteni,
 Tu-mi rămâi prieten bun,
 Tu încrederea nu-mi clatini,
 Deci nădejdea-n Tine-mi pun.
 
-[4]
+[v4]
 Chiar furtunile vieții,
 Ne călăuzesc la El,
 Căci alungă ai tristeții
 Nori grei de orice fel.
 
-[5]
+[v5]
 Căci nimic nu mă desparte
 De iubirea Ta, Isus,
 Suferința de mi-e parte,

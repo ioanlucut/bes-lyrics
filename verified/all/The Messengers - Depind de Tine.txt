@@ -1,28 +1,28 @@
 [title]
-Depind de Tine {Author: {The Messengers}}
+Depind de Tine {author: {The Messengers}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 În fiecare dimineață, Doamne-Ți înnoiești
 Bunătatea Ta, și-ndurarea Ta,
 Sănătate, viață-mi dai, zi de zi primesc,
 Doamne, Tatăl meu, Îți mulțumesc.
 
-[chorus]
+[c]
 Depind de Tine, Domnul meu,
 Prin tot ce fac doresc să-nalț numele Tău.
 /: Tot ce am e-un dar primit din mâna Ta.
 Te iubesc, mă închin și-Ți mulțumesc.
 
-[2]
+[v2]
 Cu brațul Tău divin de Tată, Tu mă ocrotești
 Zi de zi, mereu, Doamne Dumnezeu,
 De grijă-mi porți cum nimeni altul n-ar putea nicicând,
 Domnul meu iubit, credincios și sfânt.
 
-[3]
+[v3]
 Atât cât voi avea suflare, Te voi lăuda
 Cu viața mea, prin purtarea mea.
 Calea către Tine, Doamne, o voi mărturisi

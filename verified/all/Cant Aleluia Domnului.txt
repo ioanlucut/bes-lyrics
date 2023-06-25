@@ -2,21 +2,21 @@
 Cânt Aleluia, Domnului
 
 [sequence]
-c,1,2
+c,v1,v2
 
-[chorus]
+[c]
 Cânt Aleluia, Domnului,
 Cânt Aleluia, Domnului,
 /: Cânt Aleluia, cânt Aleluia,
 Cânt Aleluia, Domnului! :/
 
-[1]
+[v1]
 Slavă-I aducem Lui Isus,
 Slavă-I aducem Lui Isus,
 /: Slavă-I aducem, slavă-I aducem,
 Slavă-I aducem Lui Isus! :/
 
-[2]
+[v2]
 Isus domnește peste noi,
 Isus domnește peste noi,
 /: Isus domnește, Isus domnește,

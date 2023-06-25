@@ -2,31 +2,31 @@
 Vreau prezența Ta
 
 [sequence]
-1,c,b,2,c,3,c
+v1,c,b,v2,c,v3,c
 
-[1]
+[v1]
 Vreau prezența Ta,
 Vreau să simt cum mă înconjoară,
 Vreau prezența Ta,
 O, Domnul meu!
 
-[chorus]
+[c]
 Nimeni nu-i ca Tin’,
 Nimeni nu se compară cu Tine,
 Nimeni nu-i ca Tin’
 O, Domnul meu!
 
-[bridge]
+[b]
 Am nevoie de Tine, Doamne! (7x)
 Am nevoie de Tine în viața mea.
 
-[2]
+[v2]
 Ești speranța mea,
 În prezența Ta simt pace,
 Ești bucuria mea,
 O, Domnul meu!
 
-[3]
+[v3]
 Sunt pierdut în Tin’,
 Sunt pierdut în prezența-Ți măreață,
 Sunt pierdut în Tin’,

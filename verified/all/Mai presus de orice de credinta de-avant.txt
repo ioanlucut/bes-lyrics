@@ -2,9 +2,9 @@
 Mai presus de orice, de credință, de-avânt
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Mai presus de orice, 
 De credință, de-avânt,
 De-orice dar care biruie firea.
@@ -12,7 +12,7 @@ De-orice dar care biruie firea.
 De puteri, de cununi,
 Mai presus de orice e iubirea. :/
 
-[2]
+[v2]
 Prin credință răstorni 
 Munți înalți și cetăți
 Și-ți arunci peste veacuri privirea.
@@ -20,7 +20,7 @@ Munți înalți și cetăți
 Ești atât cât iubești,
 Mai presus de orice e iubirea! :/
 
-[3]
+[v3]
 Dumnezeu e măreț, 
 Gem în cale-I furtuni,
 Se cutremură toată zidirea.
@@ -28,7 +28,7 @@ Se cutremură toată zidirea.
 Îl auzi murmurând:
 Mai presus de orice e iubirea! :/
 
-[4]
+[v4]
 Pregătiți-vă, stânci,
 Pentru templul etern!
 Orice piatră își are menirea.

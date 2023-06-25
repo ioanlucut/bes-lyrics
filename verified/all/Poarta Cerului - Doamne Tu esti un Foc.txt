@@ -1,10 +1,10 @@
 [title]
-Doamne, Tu ești un Foc {Author: {Poarta Cerului}}
+Doamne, Tu ești un Foc {author: {Poarta Cerului}}
 
 [sequence]
-1,c,2,c,b,w,c
+v1,c,v2,c,b,b2,c
 
-[1]
+[v1]
 Domnia Ta-i eternă
 Și tronul Tău e îmbrăcat cu aur curat,
 Înflăcărat cu foc și tunet!
@@ -13,7 +13,7 @@ Dreptatea Ta va dăinui,
 Toată creația, Tu, o cunoști,
 Ți se supune!
 
-[chorus]
+[c]
 /: Doamne, Tu ești un Foc ce arde veșnic,
 Cobori la noi, Te chemăm cu lacrimi!
 Nu amâna, tot mai rea e lumea azi,
@@ -22,7 +22,7 @@ Dar știu: Tu ești milă și-ndurare,
 Greu Te mânii, ești plin de bunătate!
 Al Tău popor, Te strigă azi: „Iartă-ne!” :/
 
-[2]
+[v2]
 Ne iartă azi tot ce-am greșit,
 Speranță-n om noi ne-am clădit,
 Zidit pe doctrine, ce-s false, străine, iartă-ne!
@@ -31,11 +31,11 @@ A noastre guri să-Ți cânte-n veci,
 Imn curat, fără păcat,
 Vrem prin Tine să avem!
 
-[bridge]
+[b]
 /: Ai milă, ai milă, ai milă
 Te rugăm! : /
 
-[bridge 2]
+[b2]
 /: Pentru Isus și adevăr vom sta,
 Noi proclamăm neprihănirea Ta,
 Dreptatea Ta, Dumnezeu! :/

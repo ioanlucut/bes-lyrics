@@ -1,28 +1,28 @@
 [title]
-Ascunși în dragostea Sa {Author: {Otto Pascal}}
+Ascunși în dragostea Sa {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Dragostea răsare unde-i Dumnezeu,
 E o flacără de neoprit,
 Ape mari s-o stingă nu ar putea,
 Ea-ți cuprinde inima.
 
-[chorus]
+[c]
 /: Ascunși în dragostea Sa,
 Pe aripi albe vă va purta,
 Veți cunoaște zâmbete și armonii,
 El mereu vă va însoți. :/
 
-[2]
+[v2]
 Învățați iubirea de la Dumnezeu!
 Nimeni n-a iubit mai mult ca El!
 Tot ce-avea mai drag El ne-a dăruit,
 Cerul slavei ne-a pregătit.
 
-[3]
+[v3]
 Când umbre reci în viața voastră vor veni,
 În dragoste să stați!
 Iubirea Mea-a fost scut și v-a-întărit mereu,

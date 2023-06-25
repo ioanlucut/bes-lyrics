@@ -2,38 +2,38 @@
 Nu te pierde-n deznădejde
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c
+v1,c,v2,c,v3,c,v4,c,v5,c
 
-[1]
+[v1]
 Nu te pierde-n deznădejde
 Când te-ncearcă vreo urgie,
 Domnul va preface-n tine
 Întristarea-n bucurie.
 
-[chorus]
+[c]
 /: Domnul, Domnul
 E nădejdea ta, e salvarea ta!
 Întristarea-n bucurie-ți va schimba. :/
 
-[2]
+[v2]
 Nu privi la slăbiciune,
 Nici la viața ta pustie,
 Ci la Domnul, El preface
 Întristarea-n bucurie.
 
-[3]
+[v3]
 Nu deschide poarta minții,
 Gânduri negre ca să intre,
 Crede-n Domnul, căci El schimbă
 Întristarea-n bucurie.
 
-[4]
+[v4]
 Nu te îndoi-n credință,
 Domnul este-a ta tărie
 Și El îți preschimbă-n taină
 Întristarea-n bucurie.
 
-[5]
+[v5]
 Cântă Domnului întruna,
 Mulțumește-I, că El știe
 Când să schimbe-n tine toată

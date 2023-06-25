@@ -2,27 +2,27 @@
 Cântă, suflet al meu, pentru Dumnezeu
 
 [sequence]
-c,1,c,2,c,3,c
+c,v1,c,v2,c,v3,c
 
-[chorus]
+[c]
 Cântă, suflet al meu, pentru Dumnezeu
 Cel binecuvântat.
 Al Lui Nume e sfânt, cântă acum,
 Cum nu ai mai cântat.
 
-[1]
+[v1]
 E o nouă zi, soarele răsare,
 E timp să cânt spre slava Ta.
 Orice-ar veni, orice-n față mi-ar apărea.
 Eu vreau să cânt și seara laude.
 
-[2]
+[v2]
 Încet Tu ești, Doamne, la mânie,
 În dragoste ești bogat și ești bun.
 Găsesc că am zece mii motive
 Ca să Te laud și tuturor să spun:
 
-[3]
+[v3]
 Iar când sfârșitul îmi va fi aproape,
 Puterile când îmi vor slăbi,
 Al meu suflet va cânta continuu

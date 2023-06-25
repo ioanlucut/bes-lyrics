@@ -2,15 +2,15 @@
 Eu sunt Domnul ce vindecă
 
 [sequence]
-1,2,1,2
+v1,v2,v1,v2
 
-[1]
+[v1]
 /: Eu sunt Domnul ce vindecă,
 Eu sunt vindecătorul,
 Eu am trimis Cuvântul Meu cel Sfânt
 Și am luat durerea. :/
 
-[2]
+[v2]
 /: Tu ești Domnul ce vindecă,
 Tu ești vindecătorul,
 Tu ai trimis Cuvântul Tău cel Sfânt

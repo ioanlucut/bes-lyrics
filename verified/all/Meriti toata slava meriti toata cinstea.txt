@@ -2,15 +2,15 @@
 Meriți toată slava, meriți toată cinstea
 
 [sequence]
-1,c,b,1,c,b,c
+v1,c,b,v1,c,b,c
 
-[1]
+[v1]
 Meriți toată slava, meriți toată cinstea,
 Meriți lauda și închinarea,
 Meriți toată slava, meriți toată cinstea,
 Meriți lauda și închinarea, Dumnezeule!
 
-[chorus]
+[c]
 /: Pentru mine, un păcătos,
 L-ai trimis pe Hristos
 Sus pe dealul Golgota
@@ -18,6 +18,6 @@ Ca să poarte vina mea. :/
 Să fiu salvat, să fiu iertat,
 Prin Isus, răscumpărat.
 
-[bridge]
+[b]
 /: Cântăm glorie, cântăm glorie,
 Osana Domnului, slavă și mărire! :/

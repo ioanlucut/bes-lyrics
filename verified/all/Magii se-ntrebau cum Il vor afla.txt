@@ -2,9 +2,9 @@
 Magii se-ntrebau cum Îl vor afla
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Magii se-ntrebau cum Îl vor afla
 Căci în Betleem un Rege ni s-a dat,
 Un Rege, e Isus!
@@ -12,14 +12,14 @@ Dar iată, o stea din Răsărit
 Spre ieslea cu paie pe magi îi conducea,
 Pe magi îi conducea.
 
-[chorus]
+[c]
 /: O lumină-n întuneric pentru noi a răsărit,
 Dumnezeu Atotputernic jos în lume a venit,
 Duhul Sfânt dintr-o fecioară pe Isus L-a plămădit.
 Pentru oameni din iubire,
 El din slavă a venit. :/
 
-[2]
+[v2]
 Îngeri de lumină din slavă veneau,
 În noaptea senină pe Isus lăudau
 Pe Isus lăudau,

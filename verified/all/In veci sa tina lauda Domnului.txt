@@ -2,15 +2,15 @@
 În veci să țină lauda Domnului
 
 [sequence]
-1,2
+v1,v2
 
-[1]
+[v1]
 În veci să țină lauda Domnului,
 Să se bucure El de lucrările Lui.
 /: Voi cânta Domnului cât voi trăi,
 Voi lăuda pe Dumnezeu atât timp cât voi fi! :/
 
-[2]
+[v2]
 Făliți-vă cu numele Lui cel Sfânt,
 Bucurați-vă inimi, pe Domnul lăudând.
 /: Alergați la Domnul, la sprijinul Lui,

@@ -1,16 +1,16 @@
 [title]
-Tăblița inimii {Author: {Otto Pascal}}
+Tăblița inimii {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,b,c
+v1,c,v2,b,c
 
-[1]
+[v1]
 Strâng Cuvântul Tău ceresc în inimă și-aștept
 Să rodească bunătatea Ta,
 Nu vreau să mai rătăcesc, sufletu-i flămând
 După-al vieții sfânt Cuvânt.
 
-[chorus]
+[c]
 Scrie-mi pe tăblița inimii,
 Cuvinte ce îmi vor aminti,
 Marea îndurare și bunătatea Ta, Isus!
@@ -19,13 +19,13 @@ Ai dat tot ce-aveai căci m-ai iubit,
 Viața din mine Îți aparține,
 Domnul meu, Isus!
 
-[2]
+[v2]
 Din descurajarea mea Tu ai făcut curaj,
 Orbii văd, iar șchiopii pot umbla,
 Și din fiul cel pierdut, ajuns risipitor,
 Ai făcut moștenitor.
 
-[bridge]
+[b]
 Mă închid și Ție laud,
 Inima Îți predau,
 Sunt al Tău, recunosc,

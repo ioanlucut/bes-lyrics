@@ -2,9 +2,9 @@
 Sus pe plaiurile cerului
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 Sus, pe plaiurile cerului,
 Sus, acolo-n înălțimi,
 Acolo, în țara Domnului,
@@ -15,7 +15,7 @@ Cu unde cristaline, argintii,
 Pe munți de foc, în slava Lui cea mare,
 Acolo, te-așteptăm să vii. :/
 
-[2]
+[v2]
 Sus, departe de orice dureri,
 Sus, acolo-n veșnicii,
 Veșnic în sfintele dezmierdări,
@@ -26,7 +26,7 @@ Cu îngerii în grupuri să zburăm
 Mi-e dor, mi-e dor acum de-acele timpuri
 Pe care numai le cântăm. :/
 
-[3]
+[v3]
 Sus, în țara bucuriilor,
 Sus, în slăvile cerești,
 Noi cu drag atunci ne-om saluta,
@@ -37,7 +37,7 @@ Când acol’ ne-om revedea.
 Atunci vom zice: „Da, Acesta-i Domnul,
 Care pe noi ne-a mântuit.” :/
 
-[4]
+[v4]
 Sus, acolo, nu va fi suspin
 Și nici lacrimi pe obraz.
 Nu vor exista amărăciuni
@@ -48,7 +48,7 @@ Ah, țara mea, de mult eu te aștept
 Căci inima se frânge în suspine.
 Ah, dorul meu cel sufletesc. :/
 
-[5]
+[v5]
 Tu, de ce nu vrei să vii cu noi
 Pe întinsele câmpii?
 Sus, în țara dragostei cerești,

@@ -2,9 +2,9 @@
 În dimineața învierii
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 În dimineața învierii
 Când trâmbița va suna
 /: Ne-om scula. :/
@@ -12,14 +12,14 @@ Cu toți sfinții noi vom cânta,
 Lacrimile vom uita,
 /: Ne-om scula. :/
 
-[chorus]
+[c]
 Aleluia! Amin!
 /: Ne-om scula. :/
 Când Isus Hristos ne-a chema,
 Înaintea Lui ne-om prezenta,
 /: Ne-om scula. :/
 
-[2]
+[v2]
 În dimineața învierii,
 Cu întâlnire va fi!
 /: Ne-om scula :/
@@ -27,7 +27,7 @@ Toți îmbrăcați în glorie,
 Toți plini de fericire,
 /: Ne-om scula. :/
 
-[3]
+[v3]
 În dimineața învierii
 Către ceruri vom zbura,
 /: Ne-om scula. :/

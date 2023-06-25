@@ -2,9 +2,9 @@
 Viața și mișcarea
 
 [sequence]
-1,2
+v1,v2
 
-[1]
+[v1]
 Viața și mișcarea, și suflarea
 Sunt în Tine, Doamne!
 Numai Tu ești sursa vieții mele,
@@ -12,7 +12,7 @@ Fiecare pas Tu mi-l conduci,
 Mi-l conduci pe cale,
 Viața-ntreagă este-n mâna Ta.
 
-[2]
+[v2]
 Harul și-ndurarea Ta,
 Când mă uit zăresc privirea Ta.
 Uimit de-a Ta iubire,

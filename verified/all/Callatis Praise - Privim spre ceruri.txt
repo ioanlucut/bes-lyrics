@@ -1,16 +1,16 @@
 [title]
-Privim spre ceruri {Author: {Callatis Praise}}
+Privim spre ceruri {author: {Callatis Praise}}
 
 [sequence]
-c,1,c,1
+c,v1,c,v1
 
-[chorus]
+[c]
 /: Privim spre ceruri plini de dor
 Și cu nădejde-L așteptăm.
 Și printre nori va apărea
 Ceru-n slavă va-mbrăca. :/
 
-[1]
+[v1]
 /: În curând va suna,
 Va suna trâmbița.
 Și pe loc transformați

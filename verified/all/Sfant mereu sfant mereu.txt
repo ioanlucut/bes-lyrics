@@ -2,29 +2,29 @@
 Sfânt mereu, sfânt mereu
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Sfânt mereu, sfânt mereu
 E tot ce vreau, doar
 Sfânt mereu vreau să fiu,
 Sfânt mereu, sfânt mereu,
 Vreau să fiu, Domnul meu.
 
-[chorus]
-Ia-mi inima și schimb-o, 
+[c]
+Ia-mi inima și schimb-o,
 Viața mea transform-o,
 Ființa mea-nnoiește-o,
 /: Fă-mă doar, fă-mă doar al Tău! :/
 
-[2]
+[v2]
 Credincios, credincios,
 E tot ce vreau, doar
 Credincios vreau să fiu,
 Credincios, credincios
 Vreau să fiu, Domnul meu.
 
-[3]
+[v3]
 Neprihănit, neprihănit
 E tot ce vreau, doar
 Neprihănit vreau să fiu,

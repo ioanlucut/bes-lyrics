@@ -1,10 +1,10 @@
 [title]
-Ești minunat, Isuse {Author: {Adi Hentea}}
+Ești minunat, Isuse {author: {Adi Hentea}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Doamne, în a Ta îndurare,
 Ai plătit cu preț atât de mare,
 Preț de sânge sfânt,
@@ -15,7 +15,7 @@ Trup zdrobit și frânt, în locul meu.
 În agonia Ta,
 Plângeai de dragul meu, că m-ai iubit.
 
-[chorus]
+[c]
 Ești minunat, Isuse, Domnul meu!
 Mi-e sufletul uimit de harul Tău,
 Că prin el m-ai mântuit,
@@ -27,7 +27,7 @@ De moarte și de toată groaza sa.
 Doamne, m-ai eliberat,
 C-ai murit și-ai înviat, eu sunt iertat.
 
-[2]
+[v2]
 Astăzi am o nouă viață,
 Bucurie, pace și speranță.
 Prin învierea Ta

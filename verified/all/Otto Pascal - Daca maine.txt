@@ -1,10 +1,10 @@
 [title]
-Dacă mâine {Author: {Otto Pascal}}
+Dacă mâine {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 În noapte, târziu,
 Stau treaz și o privesc cum doarme.
 E pierdută-n vise dulci, așa că sting lumina
@@ -14,7 +14,7 @@ Dimineața s-ar putea să nu mă mai trezesc.
 Oare se va îndoi cu privire
 La ceea ce simt eu pentru ea?
 
-[chorus]
+[c]
 Dacă mâine n-ar mai fi,
 Va ști ea cât o iubesc?
 Am încercat doar, în orice fel,
@@ -25,7 +25,7 @@ Dragostea pe care i-am dat-o
 Îi este oare deajuns,
 Dacă mâine n-ar mai fi?
 
-[2]
+[v2]
 Am pierdut persoane dragi,
 Care nu au știut cât le-am iubit.
 Regret acum că nu mi-am arătat

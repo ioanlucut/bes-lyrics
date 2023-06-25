@@ -2,15 +2,15 @@
 Isus e viu, spune toată lumea
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 „Isus e viu!”, spune toată lumea
 Și al Lui Nume sfânt, să-L lăudăm mereu.
 Dar să te-ntrebi, tu, drag creștin, acuma
 Îl simți pe El când spui: „Isus Hristos e viu!”
 
-[chorus]
+[c]
 Isus e viu, El trăiește-n veci, e viu!
 Numele Lui este mare, mare și e sfânt.
 A treia zi a înviat lăsând mormântul,
@@ -21,13 +21,13 @@ Numele Lui este mare, mare și e sfânt
 Căci El e viu, viu dintotdeauna,
 Chiar de a purtat cununa pentru păcătoși!
 
-[2]
+[v2]
 Mai simți, tu, astăzi, mai simți fiorul Duhului
 Care îți spune să te pocăiești?
 Căci pentru tine Isus muri pe cruce
 Ca prin jertfirea Lui să poți să biruiești.
 
-[bridge]
+[b]
 /: Nu e mort, El e viu și-adevărat,
 A-nviat să ne scape de păcat.
 El e Domnul păcii, Leul din Iuda,

@@ -2,27 +2,27 @@
 O, ce valuri de-ndurare
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 O, ce valuri de-ndurare
 Curg din crucea Lui Isus.
 O, ce jertfă minunată
 Este jertfa Lui Isus.
 
-[chorus]
+[c]
 Curățit în al Lui sânge
 Și crezând în jertfa Lui,
 Mă apropii fără teamă,
 De preasfântul Dumnezeu.
 
-[2]
+[v2]
 Pretutindeni să se-ntindă
 Valu-acestei mari iubiri,
 Toată lumea să audă
 Despre jertfa Lui Isus.
 
-[3]
+[v3]
 Orice suflet ce se află
 În osândă și păcat,
 Să se-ntoarcă, azi, la Tatăl

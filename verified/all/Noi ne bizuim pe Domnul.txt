@@ -2,33 +2,33 @@
 Noi ne bizuim pe Domnul
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Noi ne bizuim pe Domnul
 Când vrăjmașu-a ridicat
 Mâna ca să ne doboare,
 Drumul când l-a-ntunecat.
 
-[chorus]
+[c]
 Te vom lăuda, o, Doamne,
 Căci ești bun și credincios!
 Dumnezeu, Iehova Nissi,
 Steagul nostru e Hristos.
 
-[2]
+[v2]
 Dumnezeul nost’ e mare,
 Nimeni nu L-a biruit,
 El c-o singură suflare
 Pe vrăjmași i-a nimicit.
 
-[3]
+[v3]
 Brațul Domnului e tare,
 Îndurarea-I ține-n veac
 Pentru cei aleși ce caută
 Fața Lui neîncetat.
 
-[4]
+[v4]
 Domnul nostru, stânca vieții,
 În vecii să fii înălțat
 Căci ai fost și vei rămâne

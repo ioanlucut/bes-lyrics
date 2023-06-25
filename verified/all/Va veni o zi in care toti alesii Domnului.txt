@@ -2,9 +2,9 @@
 Va veni o zi în care toți aleșii Domnului
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Va veni o zi în care
 Toți aleșii Domnului
 Vor cânta un imn
@@ -15,7 +15,7 @@ Pregătiți-vă acum!
 Nu uitați că
 Ziua aceea e pe drum!
 
-[chorus]
+[c]
 /: Ce minune va fi
 Când Domnul va veni
 Toți aleșii Domnului
@@ -26,7 +26,7 @@ La masa Domnului?
 Pregătește-te,
 Că ziua e pe drum! :/
 
-[2]
+[v2]
 După toată alergarea,
 Fericit vei fi și tu,
 Vei primi cununa

@@ -2,26 +2,26 @@
 Suntem trecători, suntem călători
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Suntem trecători, suntem călători,
 Pornim înspre țara de vis.
 Oriunde am fi, oriunde ne-am găsi,
 Nu va fi nicicând ca-n paradis.
 
-[chorus]
+[c]
 /: Acolo ne este țara, promisă de Isus,
 Cerul sfânt, patria dorită,
 Țara cea de sus. :/
 
-[2]
+[v2]
 Suntem trecători, suntem călători,
 Mai avem puțin de mers.
 Și în curând, de pe pământ,
 Vom pleca spre Univers.
 
-[3]
+[v3]
 Suntem trecători, suntem călători,
 Și cântecul acesta s-a sfârși
 Curând pe nori, în splendori,

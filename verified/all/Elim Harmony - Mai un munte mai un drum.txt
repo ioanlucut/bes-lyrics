@@ -1,22 +1,22 @@
 [title]
-Mai un munte, mai un drum {Author: {Elim Harmony}}
+Mai un munte, mai un drum {author: {Elim Harmony}}
 
 [sequence]
-c,1,c,2,c,c
+c,v1,c,v2,c,c
 
-[chorus]
+[c]
 /: Mai un munte, mai un drum,
 Trec prin apă, și-apoi am s-ajung.
 Mai o vale am de trecut,
 Până mă vei muta în casa mea. :/
 
-[1]
+[v1]
 În vremuri sumbre m-ai veselit,
 Chiar dacă toți se clatină, Tu nu Te schimbi.
 Zilele-s tot mai grele, dar nu renunț
 Căci Tu mă conduci spre casa mea.
 
-[2]
+[v2]
 Numai Tu, Isus, ești pacea mea,
 Tu mă ridici când sunt căzut,
 Când alții mă uită, rămâi credincios,

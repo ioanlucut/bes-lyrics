@@ -2,9 +2,9 @@
 Cu mulțumire vin în fața Ta, Isuse
 
 [sequence]
-1,c,2,c,3,t
+v1,c,v2,c,v3,c2
 
-[1]
+[v1]
 Cu mulțumire vin în fața Ta, Isuse,
 Și vreau să-Ți cânt,
 C-atâta bine mi-ai făcut!
@@ -12,7 +12,7 @@ Mi-ai dat iertare, pace-adâncă, fericire,
 Și mult mai mult
 Decât vreodată am cerut.
 
-[chorus]
+[c]
 /: Nu merit, Doamne, :/
 Toată binecuvântarea Ta.
 /: Nu merit, Doamne, :/
@@ -23,19 +23,19 @@ Mare-ndurare pentru mine-ai arătat
 Nu pot, Isuse, îndeajuns să-Ți mulțumesc,
 Dar Te slăvesc căci Te iubesc.
 
-[2]
+[v2]
 Voi fi dator să-Ți mulțumesc o veșnicie
 Căci păcătos am fost, dar azi sunt fiul Tău.
 Prin jertfa sfântă m-ai salvat de la pierzare
 Și azi sunt vesel, fericit și-Ți cânt mereu.
 
-[3]
+[v3]
 Am fost olog, dar Duhul Tău mi-a dat putere,
 Am fost un orb, dar mila Ta m-a luminat.
 Mult am zăcut în noaptea rece de păcate,
 Dar harul Tău m-a curățit și-am înviat.
 
-[chorus 2]
+[c2]
 /: Te laud, Doamne, :/
 Pentru binecuvântarea Ta,
 /: Te laud, Doamne, :/

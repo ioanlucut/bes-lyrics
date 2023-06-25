@@ -2,9 +2,9 @@
 Te vreau pe Tine, Isuse
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Te vreau pe Tine, Isuse!
 Mângâie-mi viața pribeagă,
 Condu-mă Tu-n orice vreme,
@@ -14,7 +14,7 @@ Vreau să Te simt lângă mine
 Calea-i ușoară cu Tine
 Și viața mi-e împlinită.
 
-[chorus]
+[c]
 Doamne, ce bine-i cu Tine!
 Tu mă ridici când sunt jos,
 Zilele sunt mai senine,
@@ -24,7 +24,7 @@ Să mă atragă în larg,
 Mâna Ta mă ocrotește,
 Conduce al meu catarg.
 
-[2]
+[v2]
 În suferința-mi nespusă,
 Mâna Ta este cu mine,
 Rănile ce mă apasă,
@@ -34,7 +34,7 @@ Clipele de fericire.
 Tu îmi dai mereu puterea,
 Mă înconjori cu iubire.
 
-[3]
+[v3]
 Chiar de cuptoru-i fierbinte,
 Tu ești acel ce alină.
 Vocea Ta blândă, Părinte,

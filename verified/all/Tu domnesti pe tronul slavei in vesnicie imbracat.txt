@@ -2,34 +2,34 @@
 Tu domnești pe tronul slavei în veșnicie îmbrăcat
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
-Tu domnești pe tronul slavei 
+[v1]
+Tu domnești pe tronul slavei
 În veșnicie îmbrăcat,
-Strălucirea slavei Tale 
+Strălucirea slavei Tale
 Mă uimește ne-ncetat.
 
-Cine oare se compară, 
+Cine oare se compară,
 Doamne, cu puterea Ta?
-Tu ești Domnul vieții mele. 
+Tu ești Domnul vieții mele.
 Tu ești mântuirea mea.
 
-[chorus]
-/: Laudă, cinste, onoare, 
+[c]
+/: Laudă, cinste, onoare,
 Mielului ce-a înviat,
-Noi aducem închinare 
+Noi aducem închinare
 Numelui glorificat.
 
-Laudă, cinste, onoare, 
+Laudă, cinste, onoare,
 Mielului ce stă pe tron,
-Noi aducem închinare 
+Noi aducem închinare
 Doar pe El Îl înălțăm. :/
 
-[2]
-Îngerii și heruvimii 
+[v2]
+Îngerii și heruvimii
 Fredonează toți în cor,
-El e vrednic de mărire 
+El e vrednic de mărire
 Doar El e biruitor.
 
 Peste moarte ai călcat,
@@ -37,7 +37,7 @@ Doamne, cu puterea Ta.
 Tu ești Domnul vieții mele.
 Tu ești mântuirea mea.
 
-[bridge]
+[b]
 Peste moarte ai călcat,
 Doamne, cu puterea Ta.
 Tu ești Domnul vieții mele.

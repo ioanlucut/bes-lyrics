@@ -2,27 +2,27 @@
 Astăzi vin și-mi plec genunchii
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Astăzi vin și-mi plec genunchii,
 Înaintea ieslei Tale,
 /: Copilaș din altă lume,
 Obosit de frig și cale. :/
 
-[2]
+[v2]
 Și-mi plec inima și fața,
 Copilaș din zare-albastră,
 /: Și mă-nchin, cu umilință,
 Călător în lumea noastră. :/
 
-[3]
+[v3]
 Nu am smirnă ca și magii,
 Nici tămâie și nici aur,
 /: Lacrimile pocăinței
 Îmi sunt singurul tezaur. :/
 
-[4]
+[v4]
 Ți le-aduc acum-nainte,
 Cu sfială și rușine,
 /: Copilaș venit din ceruri

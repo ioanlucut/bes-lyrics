@@ -2,15 +2,15 @@
 Ce măreț e-al meu Domn
 
 [sequence]
-c,1,c,1
+c,v1,c,v1
 
-[chorus]
+[c]
 Ce măreț e-al meu Domn,
 Minunat este El,
 Plin de glorie domnește în slavă,
 Minunat este El!
 
-[1]
+[v1]
 Să-nălțăm numele Lui
 Căci El ne-a salvat,
 Ne-a răscumpărat prin har

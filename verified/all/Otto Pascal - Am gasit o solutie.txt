@@ -1,24 +1,24 @@
 [title]
-Am găsit o soluție {Author: {Otto Pascal}}
+Am găsit o soluție {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Am găsit o soluție, zâmbetul să nu dispară niciodat’,
 Dăruind fără margini și-arătând iubirea necondiționat.
 
-[chorus]
+[c]
 Așa cum ne spune și-un proverb:
 „Cine dă, lui își dă, și cine face, lui își face.”
 Dăruind din plin, vei dobândi
 Iubirea Sa din veșnicii și zâmbetul nu va pieri.
 
-[2]
+[v2]
 Am găsit fericirea, când cu bine am răspuns celor ce-s răi
 Și, iubind fără margini, m-am apropiat mai mult de Dumnezeu.
 
-[bridge]
+[b]
 Dăruind mireasma păcii,
 Chiar de-i ură-n jurul tău,
 Vei avea răsplată de la Dumnezeu.

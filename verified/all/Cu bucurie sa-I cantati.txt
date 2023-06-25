@@ -2,23 +2,23 @@
 Cu bucurie să-I cântați
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Cu bucurie să-I cântați: 
 Mesia S-a născut!
 Vă închinați, Îl lăudați,
 /: Pământ și cer de sus, :/
 Cântați, pământ și cer de sus.
 
-[2]
+[v2]
 Cu bucurie să-L primiți
 Pe Regele Isus!
 În inimă, cu dragoste,
 /: El să-și găsească loc! :/
 Cu drag El să-și găsească loc!
 
-[3]
+[v3]
 În măreție va domni
 Cu-ai Săi răscumpărați!
 Veniți cu toți să-L adorăm

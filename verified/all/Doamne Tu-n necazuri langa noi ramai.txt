@@ -2,27 +2,27 @@
 Doamne, Tu-n necazuri lângă noi rămâi
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Doamne, Tu-n necazuri lângă noi rămâi.
 Chinurile noastre Tu le-nduri întâi,
 Ele mai-nainte trec prin mâna Ta
 Și îngădui numai cât putem purta.
 
-[chorus]
+[c]
 Nu te teme! Crede ne-ncetat!
 Prin Isus ești binecuvântat.
 Fie cât de mare crucea pe care o sui,
 Mergi cu fiecare pas pe urma Lui.
 
-[2]
+[v2]
 Lacrimile noastre numărate sunt,
 Tu măsori povoara duhului înfrânt,
 Tu porți mâna care taie rana grea
 Și îngădui numai cât putem purta.
 
-[3]
+[v3]
 Doamne, în necazuri, fii cu toți ai Tăi,
 Să nu meargă singuri pe-a durerii căi.
 Cântărește crucea, Tu cu mâna Ta,

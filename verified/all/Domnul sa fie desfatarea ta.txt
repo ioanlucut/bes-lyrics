@@ -2,15 +2,15 @@
 Domnul să fie desfătarea ta
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Domnul să fie desfătarea ta
 Și la El să îți fie inima.
 În căile Domnului să rămâi
 Și El îți va da bucurii!
 
-[chorus]
+[c]
 Niciodată nu se vor sfârși
 În Domnul Isus bucurii.
 În căile Domnului să rămâi

@@ -2,27 +2,27 @@
 Cineva se-ngrijește de mine mereu
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Cineva se-ngrijește de mine mereu!
 Nu-i deloc întâmplarea, e-al meu Dumnezeu.
 Zilnic toarnă asupra mea daruri din plin,
 Mulțumire-I aduc și mă-nchin.
 
-[chorus]
+[c]
 /: E Cineva! Și Îi mulțumesc (Știu că)
 E Cineva! Este Tatăl ceresc!
 Darul nespus e Domnul Isus.
 Ce măreț e-al meu Dumnezeu! :/
 
-[2]
+[v2]
 Mulți nu cred azi în Domnul, slăvit Creator,
 Nici nu văd al naturii și-al vieții izvor.
 Câte inimi sărmane se pierd zi de zi!
 Pentru toate n-au cui mulțumi.
 
-[3]
+[v3]
 Dintre daruri, mai sfânt, mai măreț și frumos
 Este darul salvării prin Domnul Hristos.
 N-am cuvinte, nici versuri să-I spun dragostea

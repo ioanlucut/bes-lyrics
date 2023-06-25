@@ -2,39 +2,39 @@
 Chiar dacă vântul a vrut în zbor
 
 [sequence]
-1,2,3,4,5,6
+v1,v2,v3,v4,v5,v6
 
-[1]
+[v1]
 Chiar dacă vântul a vrut în zbor
 În turme să ne-mpartă,
 /: Dar tot o cale, tot un dor
 Și tot un duh ne poartă. :/
 
-[2]
+[v2]
 Chiar dacă azi pe orice plai
 Sunt oi împrăștiate,
 /: Dar tot un staul, sus, în Rai
 Și un Păstor au toate. :/
 
-[3]
+[v3]
 Chiar dacă n-am păstrat măcar
 Un singur dulce nume,
 /: Dar tot o jertfă, tot un har
 Ne-a smuls pe toți din lume. :/
 
-[4]
+[v4]
 Chiar dacă azi oftăm stingheri
 Că ne-a-mpărțit furtuna,
 /: Dar toți vom fi odată-n Cer
 Și-acolo vom fi una. :/
 
-[5]
+[v5]
 Acum când pașii Lui Isus
 Se-aud tot mai aproape,
 /: Să ne unim în dragoste,
 Iubind frate pe frate. :/
 
-[6]
+[v6]
 Veniți în jurul Lui Isus
 Să înfruntăm furtuna
 /: Căci El E singurul Păstor

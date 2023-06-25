@@ -2,15 +2,15 @@
 Într-un loc liniștit și-ascuns
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Într-un loc liniștit și-ascuns,
 În tăcere ești prezent,
 Într-un loc tainic și tăcut Te aștept
 Căci îmi doresc să Te cunosc mai mult.
 
-[chorus]
+[c]
 Vreau să Te văd,
 Vreau s-aud vocea Ta,
 Să Te cunosc mai mult,
@@ -18,7 +18,7 @@ Vreau să Te-ating,
 Vreau să văd fața Ta,
 Să Te cunosc mai mult.
 
-[2]
+[v2]
 Înspre țintă ne-ncetat alerg,
 Voia Ta vreau s-o-mplinesc,
 Orice-obstacol îl înlătur și-naintez

@@ -1,20 +1,20 @@
 [title]
-Iertare {Author: {Not an Idol}}
+Iertare {author: {Not an Idol}}
 
 [sequence]
-1,c,2,c,c,c,c
+v1,c,v2,c,c,c,c
 
-[1]
+[v1]
 Doamne, ascultă astăzi ruga mea,
 Duhul e mâhnit, frântă-i inima,
 Ia al meu suspin, ia povara grea,
 Lasă mila Ta peste viața mea.
 
-[chorus]
+[c]
 Păcatele toate vreau, rând pe rând, să cadă,
 Doamne, mă iartă și fă-mă ca zăpadă.
 
-[2]
+[v2]
 Tu îmi ceri ca adevărul Tău
 Să pătrundă în sufletul meu,
 Să rămână în ființa mea,

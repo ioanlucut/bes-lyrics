@@ -1,22 +1,22 @@
 [title]
-Victorios {Author: {Dinu Onea & Marius Pop}}
+Victorios {author: {Dinu Onea & Marius Pop}}
 
 [sequence]
-1,2,c,b,c
+v1,v2,c,b,c
 
-[1]
+[v1]
 Domnul, steagul meu,
 Domnul, scutul meu,
 Îmi ești apărător și sprijinitor,
 Ești refugiul meu.
 
-[2]
+[v2]
 Când mă rog, m-auzi,
 Când Te chem, răspunzi,
 Rostesc Numele Tău, cade tot ce-i rău
 Și sunt izbăvit.
 
-[chorus]
+[c]
 Nu e munte să nu-l pot urca,
 Nu e val prea furios.
 Sunt mai mult decât biruitor,
@@ -27,6 +27,6 @@ Ești un turn de adăpost,
 Brațul Tău îl chem în ajutor,
 Sunt victorios.
 
-[bridge]
+[b]
 /: Revarsă-acum ungerea Ta,
 Viață din prezența Ta. :/

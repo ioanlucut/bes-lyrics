@@ -2,27 +2,27 @@
 O, ce prieten am în Isus
 
 [sequence]
-1,c,2,t
+v1,c,v2,c2
 
-[1]
+[v1]
 O, ce prieten am în Isus,
 Când mă rog Lui Dumnezeu,
 Mijlocește pentru mine
 Și eu stau pe brațul Său.
 
-[chorus]
+[c]
 /: Câtă dragoste-mi arată,
 A plătit păcatul meu
 Și spălat în a Lui sânge
 Pot să zbor și eu spre cer. :/
 
-[2]
+[v2]
 Ce prezență minunată
 Umple tot sufletul meu,
 Calea, adevărul, viața
 Le găsesc în Domnul meu.
 
-[chorus 2]
+[c2]
 /: O, ce prieten bun e Isus,
 El e Salvatorul meu.
 Schimbă inima mea, Doamne,

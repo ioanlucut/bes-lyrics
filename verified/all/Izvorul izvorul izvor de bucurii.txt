@@ -2,28 +2,28 @@
 Izvorul, izvorul, izvor de bucurii
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
-De când urmez pe Domnul 
+[v1]
+De când urmez pe Domnul
 Pe calea către cer
-Pe buze port cântare 
+Pe buze port cântare
 Și-L laud doar pe El.
 
-[chorus]
+[c]
 Izvorul, izvorul, izvor de bucurii,
 Îl port azi în suflet și nu-l mai pot opri.
 Mulți nu mă-nțeleg azi, dar eu nu pot tăcea,
 Izvor de lacrimi și de bucurii inundă viața mea.
 
-[2]
-A zis Isus că Duhul 
+[v2]
+A zis Isus că Duhul
 În inimă primit
-Va curge ca izvorul 
+Va curge ca izvorul
 Nu poate fi oprit!
 
-[3]
-Când voi sfârși cu Isus, 
+[v3]
+Când voi sfârși cu Isus,
 În cer când voi sosi,
-Îl voi privi în față 
+Îl voi privi în față
 Și-n veci Îl voi slăvi.

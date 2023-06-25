@@ -2,9 +2,9 @@
 Răsună a noastră cântare
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Răsună a noastră cântare,
 Un imn de adânci mulțumiri,
 Să fie și ceru-n serbare,
@@ -15,12 +15,12 @@ Prin Duh să cinstim pe Isus,
 Căci slava ce-o are e mare,
 În gloria unde-a ajuns.
 
-[chorus]
+[c]
 /: Osana Lui Isus, Osana Lui Isus,
 Osana Lui Isus,
 De-acum și până-n veac. :/
 
-[2]
+[v2]
 Pe Isus Îl simți în natură
 Căci toate prin El s-au creat
 Și cine-I ca El de statură?
@@ -31,7 +31,7 @@ Cinstiți-L, voi mări și uscat!
 Căci El a putut să adape
 Mulțimi de popor însetat.
 
-[3]
+[v3]
 Prin câte puterea Lui se-arată?
 Prin câte dovezi Îl cunoști?
 Privește la ceruri și, iată,
@@ -42,7 +42,7 @@ Să vină toți cei păcătoși
 Căci gloria Lui este mare,
 Iertare primiți bucuroși.
 
-[4]
+[v4]
 Cu toți ridicați-vă glasul,
 Un cor milioane formând,
 Simțiți ce sublim fi-va ceasul,

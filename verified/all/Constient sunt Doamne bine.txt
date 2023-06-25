@@ -2,9 +2,9 @@
 Conștient sunt, Doamne, bine
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Conștient sunt, Doamne, bine,
 Dacă n-ai fi lângă mine
 Totu-n jurul meu s-ar nărui.
@@ -19,7 +19,7 @@ Cu blândețe-mi ierți păcatul,
 Știu că mijlocești la Tatăl
 Acest an poate voi face rod.
 
-[chorus]
+[c]
 /: Nu-nțeleg câtă iubire
 Poți să ai Tu pentru mine,
 Nu merit nimic din mila Ta.
@@ -28,7 +28,7 @@ Tu cu ultima-Ți suflare
 M-ai salvat pe cruce, la Calvar. :/
 (final: Isuse, m-ai salvat pe cruce, la Calvar)
 
-[2]
+[v2]
 Mă închin cu mulțumire,
 Dăruindu-Ți pe vecie,
 Inima e tot ce mi-a rămas.

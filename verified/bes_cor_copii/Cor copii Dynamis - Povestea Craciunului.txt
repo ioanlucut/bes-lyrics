@@ -1,22 +1,22 @@
 [title]
-Povestea Crăciunului {Author: {Cor copii Dynamis}}
+Povestea Crăciunului {author: {Cor copii Dynamis}}
 
 [sequence]
-1,2,3,4,5,6,7
+v1,v2,v3,v4,v5,v6,v7
 
-[1]
+[v1]
 Cum piesele-ntr-un puzzle toate se potrivesc
 Planul de mântuire e perfect.
 Prin profeții și îngeri Isus a fost promis
 De Tatăl ce în lume L-a trimis:
 
-[2]
+[v2]
 Azi e sărbătoare, Isus s-a născut,
 Glorie în ceruri, pace pe pământ.
 Toți să-I cântăm azi Pruncului cel sfânt,
 Azi e sărbătoare, Isus s-a născut.
 
-[3]
+[v3]
 Îngerii, în ceruri, naștere-au anunțat
 Și păstorii-n grabă spre iesle au plecat.
 Au găsit pe pruncul în fașă îmbrăcat,
@@ -25,7 +25,7 @@ De Maria și de Iosif adorat.
 Toți să-I cântăm azi Pruncului cel sfânt
 Azi e sărbătoare Isus s-a născut.
 
-[4]
+[v4]
 Magi din depărtare la Isus au venit,
 Încărcați cu daruri, de stea călăuziți,
 Aur și tămâie, smirnă I-au dăruit
@@ -36,16 +36,16 @@ Azi e sărbătoare Isus s-a născut!
 
 Azi e sărbătoare Isus s-a născut!
 
-[5]
+[v5]
 Cântați toți de bucurie căci Hristos s-a născut,
 Să-I cânte spre-a Lui mărire
 Cerul și pământul, cerul și pământul,
 /: Cerul, cerul :/ (3x) și pământul!
 
-[6]
+[v6]
 /: Veniți să ne-nchinăm Lui:/ (3x) Dumnezeu.
 
-[7]
+[v7]
 Căci planul Lui este perfect,
 Să cântăm cu cerul și cu îngerii.
 Planul Lui este perfect,

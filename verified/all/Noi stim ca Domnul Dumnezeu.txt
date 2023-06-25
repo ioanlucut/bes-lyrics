@@ -2,37 +2,37 @@
 Noi știm că Domnul Dumnezeu
 
 [sequence]
-1,p,c,2,p,c,b,3,c
+v1,p,c,v2,p,c,b,v3,c
 
-[1]
+[v1]
 Noi știm că Domnul Dumnezeu
 E-un foc mistuitor, o flacără sfântă,
 E-al nostru drept Judecător,
 Bun și-ndurător, din cer ne-ascultă.
 
-[prechorus]
+[p]
 Către El noi vom privi,
 Ochii ni-i vom aținti.
 
-[chorus]
+[c]
 Cetate tare-i Dumnezeu,
 Un sfânt refugiu este El.
 Cu Tine, Doamne, vom domni
 Căci veșnic vei împărăți.
 
-[2]
+[v2]
 Noi știm că Domnul e gelos
 Pe ai Săi copii în sfântă iubire.
 Mai sus de ceruri e-ntronat,
 În slavă îmbrăcat și-n strălucire.
 
-[bridge]
+[b]
 Către El noi vom privi,
 Ochii ni-i vom aținti,
 Inimile vom lăsa
 Cuprinse de iubirea Sa.
 
-[3]
+[v3]
 Căci veșnic vei împărăți,
 Cu Tine, Doamne, vom domni.
 Noi știm că Domnul Dumnezeu

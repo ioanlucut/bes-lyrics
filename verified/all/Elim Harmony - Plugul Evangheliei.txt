@@ -1,22 +1,22 @@
 [title]
-Plugul Evangheliei {Author: {Elim Harmony}}
+Plugul Evangheliei {author: {Elim Harmony}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Noi am fost chemați de Domnul în sfântul Său ogor
 Și lucrăm cu sârguință chiar de-i obositor.
 Iar când vom sfârși lucrarea, cu-al Evangheliei plug
 Vrem să-ntâmpinăm pe Domnul, cu mâinile pe plug.
 
-[chorus]
+[c]
 Ține strâns de plugul sfânt,
 Nu privi-napoi înspre pământ
 Căci în curând vom isprăvi,
 Ține strâns și nu obosi.
 
-[2]
+[v2]
 Ținta noastră este cerul, noi vrem să-l moștenim,
 Domnul ne-a promis izbânda, dar să nu obosim,
 În curând apare Domnul, Îl vom vedea pe nori

@@ -2,27 +2,27 @@
 Eu locuiesc pe munte
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Când aud în depărtare, luptă, zgomot mare,
 Atunci știu că mulți sunt prinși de păcat viclean.
 Îndoiala și frica-n zadar îmi fac chemare,
 Nimic nu mă scoate din Canaan.
 
-[chorus]
+[c]
 /: Eu locuiesc pe munte sub un cer clar și senin,
 Beau apă din izvorul care-ntotdeauna-i plin,
 Eu mă hrănesc cu mana care-o aflu pe deplin
 Căci eu trăiesc în Canaan. :/
 
-[2]
+[v2]
 Jos, furtuna și-ndoiala lumea o frământă,
 Omenirea e în luptă cu vechiul dușman.
 Sigur sunt cu a mea viață în cetatea sfântă,
 Și n-am frică, eu trăiesc în Canaan.
 
-[3]
+[v3]
 Bată vântul cât îi place, nimic nu-mi va face
 Adăpost și siguranță, la Domnul eu am.
 Acolo e strălucire, liniște și pace,

@@ -1,42 +1,42 @@
 [title]
-Isus {Author: {Chris Tomlin}}
+Isus {author: {Chris Tomlin}}
 
 [sequence]
-1,2,c,3,c,c,b,t
+v1,v2,c,v3,c,c,b,c2
 
-[1]
+[v1]
 Isus a zis că El e adevărul
 Și ne-a promis că lucruri noi vor fi.
 El s-a născut să biruie păcatul,
 Isus.
 
-[2]
+[v2]
 Lumina Lui a-nvins în neagra noapte,
 E Împărat ce va domni în veci.
 Și doar Hristos aduce libertate,
 Isus, Isus.
 
-[chorus]
+[c]
 El umblă pe ape, El mării-a vorbit,
 În foc El e alături de mine,
 E Leu din Iuda, e Mielul jertfit.
 În mâini poartă a mea vindecare,
 Isus.
 
-[3]
+[v3]
 Un Nume chem în vremuri de-ncercare,
 Un cântec am spre mângâierea mea.
 O voce știu, calmând furtuni pe mare,
 E Isus, Isus.
 
-[bridge]
+[b]
 /: Mesia, salvare,
 Ce putere desfășori!
 Tu ești stânca mea cea tare,
 Cel ce vii curând pe nori! :/
 Sfânt Isus!
 
-[chorus 2]
+[c2]
 /: El umblă pe ape, El mării-a vorbit,
 În foc, El e alături de mine.
 E Leu din Iuda, e Mielul jertfit,

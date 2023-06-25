@@ -2,27 +2,27 @@
 O, vino azi, Emanuel
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 O, vino azi, Emanuel,
 Răscumpără pe Israel,
 El geme sub povara grea
 Și zorii-așteaptă-n noaptea rea.
 
-[chorus]
+[c]
 Săltați, cântați, în Israel
 Va reveni Emanuel!
 Săltați, cântați, în Israel
 Va reveni Emanuel!
 
-[2]
+[v2]
 O, vino, vino, Răsărit,
 La cei ce-atâta au tânjit
 Ca bezna nopții s-o străpungi
 Și jalea noastră s-o alungi.
 
-[3]
+[v3]
 Tu ești al neamurilor dor,
 O, vino, scump Mântuitor!
 Alungă ură și război

@@ -2,27 +2,27 @@
 Fiți voioși
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Fiți voioși, fiți voioși totdeauna,
 Lăudându-L pe Domnul mereu,
 De ne-ncredem puternic în Domnul,
 Nu ne-nvinge nicicând, nici un rău.
 
-[chorus]
+[c]
 Nu-i furtună să clatine stânca,
 Cea pe care noi suntem zidiți,
 Fiți voioși, noi suntem totdeauna
 De Isus, de Isus ocrotiți.
 
-[2]
+[v2]
 Fiți voioși chiar și-atunci când necazul
 Și-ncercarea în voi va lovi,
 Mai frumoasă-i cântarea cu lacrimi,
 Mai ceresc e răbdând, a trăi.
 
-[3]
+[v3]
 Fiți voioși că-n curând pe vecie
 Veți uita c-ați mai plâns pe pământ,
 Fiți voioși că-n curând cerul slavei

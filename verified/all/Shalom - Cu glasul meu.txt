@@ -1,10 +1,10 @@
 [title]
-Cu glasul meu {Author: {Shalom}}
+Cu glasul meu {author: {Shalom}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Cu glasul meu, eu strig către Domnul,
 Îmi vărs necazul înaintea Lui
 Și-mi povestesc a mea strâmtorare,
@@ -15,13 +15,13 @@ Izbăvește-mă de tot ce-i rău în jurul meu,
 Scoate-mi sufletul din temnița întunecoasă
 Că să laud Numele Tău!
 
-[chorus]
+[c]
 Către Tine strig și zic: „Tu ești scăparea mea!”
 Ajutorul în necaz,
 Primește-mă-n îndurarea Ta cea mare,
 Fii, Tu, Doamne, salvarea mea!
 
-[2]
+[v2]
 Ia aminte, la strigătul meu, o, Doamne,
 Ca tămâia să-mi fie rugăciunea mea
 Și mâinile să-mi stea mereu ridicate,

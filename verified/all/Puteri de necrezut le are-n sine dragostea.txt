@@ -2,9 +2,9 @@
 Puteri de necrezut le are-n sine dragostea
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Puteri de necrezut 
 Le are-n sine dragostea,
 Înseninează frunți 
@@ -15,7 +15,7 @@ Să ierți ce alții îți greșesc,
 Puteri de necrezut 
 Le are-n sine dragostea. :/
 
-[2]
+[v2]
 Speranțe multe, mari, 
 Își face-adesea dragostea.
 Mereu nădăjduind, 
@@ -26,7 +26,7 @@ Mereu sperând trăiește ea.
 Iluzii multe, mari, 
 Își face-adesea dragostea. :/
 
-[3]
+[v3]
 Credința se va-ncheia, 
 Nădejdea va avea sfârșit,
 Doar dragostea va sta, 

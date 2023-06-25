@@ -1,22 +1,22 @@
 [title]
-Departe într-o iesle, în paie ascuns {Version: {i}, Author: {Cor copii Dynamis}}
+Departe într-o iesle, în paie ascuns {version: {i}, author: {Cor copii Dynamis}}
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Departe într-o iesle, în paie ascuns,
 Culcat printre vite stă Pruncul Isus.
 Îi cântă și-L leagănă stele de-argint
 /: Și-ncet copilașul adoarme zâmbind. :/
 
-[2]
+[v2]
 Departe-ntr-un staul de nimeni știut,
 La vremea-mplinită, Isus s-a născut.
 Și stele pe ceruri luciră mai viu
 Și îngeri cântară pe dealul pustiu.
 
-[3]
+[v3]
 Rămâi, drag Isuse, cu noi, Te rugăm!
 N-avem bogății, dar tot ce avem Îți dăm
 Iar, Tu, dă-ne binecuvântarea Ta

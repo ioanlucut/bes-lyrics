@@ -2,33 +2,33 @@
 O, cât mă simt de fericit
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 O, cât mă simt de fericit
 Că am Mântuitor.
 Orfan, nici părăsit nu sunt
 Cu al meu Salvator.
 
-[chorus]
+[c]
 Slavă Mielului Preasfânt
 Ce pentru mine-a murit!
-Aleluia! Aleluia! 
+Aleluia! Aleluia!
 Aleluia! Amin!
 
-[2]
+[v2]
 Mi-a spus Isus și mi-a promis,
 Prin al Său Sfânt Cuvânt,
 Se duce să-mi gătească loc
 În cer, la Tatăl sfânt!
 
-[3]
+[v3]
 Aici, sunt numai călător
 Și trec ca iarba-n vânt.
 În cer, eu sunt moștenitor
 Unde îngerii cânt’.
 
-[4]
+[v4]
 O, frați, surori, suntem voioși,
 Chiar de pe-acest pământ.
 Lumini din ceruri unde noi

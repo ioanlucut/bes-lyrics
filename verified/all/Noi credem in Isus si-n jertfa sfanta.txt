@@ -2,27 +2,27 @@
 Noi credem în Isus și-n jertfa sfântă
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Noi credem în Isus și-n jertfa sfântă,
 În mântuirea dată de Hristos,
 Noi credem că Isus binecuvântează,
 Cu Duhul Sfânt pe orice credincios.
 
-[chorus]
+[c]
 Credința, o, credința,
 E puterea ce creștinii toți o cer,
 Credința, credința,
 E puterea ce ne duce sus în cer.
 
-[2]
+[v2]
 Să avem și noi credință tot mai mare,
 În vremea scurtă care ne-a rămas,
 Să ne-nsoțească cu putere mare,
 Când vom străbate-al încercării ceas.
 
-[3]
+[v3]
 Veniți ca să luptăm pentru credința,
 Ce Isus a lăsat la-nvățăcei,
 Și chiar prin greutăți și prin prigoane,

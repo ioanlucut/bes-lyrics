@@ -2,9 +2,9 @@
 Astăzi este timpul pentru cercetare
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Astăzi este timpul pentru cercetare!
 Vine Domnul în curând!
 Să ne cercetăm viața fiecare,
@@ -15,12 +15,12 @@ Pe care-o va pregăti
 Cu miresme-n haine albe
 Acolo și noi vom fi.
 
-[chorus]
+[c]
 /: În cer, în cer, în cer, Aleluia, Amin!
 Cu Isus acolo ne vom întâlni sus
 În cer. Aleluia, Amin! :/
 
-[2]
+[v2]
 Rugăciunea este arma pocăinței.
 Ne-ncetat să ne rugăm!
 Vine Domnul în curând, cu slavă mare.
@@ -31,7 +31,7 @@ Să ne îndemnăm mereu la fapte bune,
 Așteptând a Sa venire,
 La Isus cu toți veniți!
 
-[3]
+[v3]
 O, ce har bogat ne-a dat și slavă mare,
 Ne așteaptă sus în cer.
 Pregătiți sunt cei veniți din orice vreme,

@@ -2,9 +2,9 @@
 Cât de bine mă simt cu aleșii Domnului
 
 [sequence]
-c,1,c,2,c
+c,v1,c,v2,c
 
-[chorus]
+[c]
 Cât de bine mă simt cu aleșii Domnului,
 Poporul minunat!
 O, ce bine mă simt cu aleșii Domnului,
@@ -15,7 +15,7 @@ Cerul stă și-ascultă cântarea.
 O, ce bine mă simt cu aleșii Domnului!
 O, ce popor, ce popor minunat!
 
-[1]
+[v1]
 Ce plăcut și ce frumos
 E pe calea Lui Hristos,
 Când pe Domnul ei Îl laudă voios!
@@ -23,7 +23,7 @@ Nu e loc mai fericit
 Ca acel unde-am găsit
 Pe toți sfinții ce-mpreună s-au unit.
 
-[2]
+[v2]
 O, ce bine-atunci va fi
 Când pe nori El va veni
 Și în slava Lui pe veci ne va uni!

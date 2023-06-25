@@ -2,9 +2,9 @@
 O poartă e deschisă
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 O poartă e deschisă
 S-ajungi în cerul sus,
 Numele ei e Golgota
@@ -12,13 +12,13 @@ De vrei să-L vezi pe Isus.
 Să fi al Lui de-acum,
 O, vino azi la Golgota.
 
-[chorus]
+[c]
 Mai este loc la cruce pentru tine,
 Mai este loc la cruce pentru oricine,
 Mai este loc la cruce pentru întreg pământul,
 Mai este loc, mai este loc.
 
-[2]
+[v2]
 Oricine-ai fi în lume
 Și orice nume porți,
 Tu ai nevoie de Isus.

@@ -1,10 +1,10 @@
 [title]
-Toată natura {Author: {Otto Pascal}}
+Toată natura {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Ziua se-aprinde fără cuvinte,
 Îngână un cântec scăldat în culori,
 Blânde petale zâmbesc înspre soare,
@@ -13,14 +13,14 @@ Vântul cutreieră zarea cântând,
 Mii de povești ascultând.
 Ce frumos e al zilei început!
 
-[chorus]
+[c]
 Toată natura-și așterne cununa în fața Tronului Tău,
 Cerul Te-alintă, pământul Îți cântă: „Ești cel mai minunat!”
 Triluri alese, bogate miresme, culorile pline de farmec,
 Orice sclipire e pentru Tine, singurul Creator,
 În veci!
 
-[2]
+[v2]
 Ziua se stinge, liniștea-nvinge,
 Dar cântul rămâne scăldat în culori,
 Visele-și caută cărări printre stele,

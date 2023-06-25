@@ -2,9 +2,9 @@
 Într-o noapte rece
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Într-o noapte rece
 Stau la geamuri și privesc
 Stelele sclipind pe cer
@@ -14,13 +14,13 @@ Că într-o așa, o noapte
 Domnul nostru al tuturor,
 Cel făr’ de-nceput.
 
-[chorus]
+[c]
 Isus s-a născut!
 Stelele sclipesc
 Și prin graiul lor
 Tuturor vestesc.
 
-[2]
+[v2]
 În satul singuratic,
 Domnul nostru s-a-ntrupat.
 Era un prunc în iesle

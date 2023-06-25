@@ -2,27 +2,27 @@
 M-a aflat al meu Păstor bun
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 M-a aflat al meu Păstor bun
 Și pe brațele-I m-a pus,
 Din adânc, unde zăceam eu,
 La lumină m-a adus.
 
-[chorus]
+[c]
 /: Aleluia, Aleluia,
 Sună azi cântarea mea.
 Fie Domnului mărire
 Că mi-a dat iertarea-n dar. :/
 
-[2]
+[v2]
 Doamne, Tu mi-ai dat iubire
 Și m-ai pus pe calea Ta.
 Simt cum mâna Ta mă poartă
 Fericit spre țara mea.
 
-[3]
+[v3]
 M-a spălat în al Său sânge
 O, cât sunt de fericit!
 Harul Său mă va susține

@@ -1,28 +1,28 @@
 [title]
-Ridică-mă {Author: {Otto Pascal}}
+Ridică-mă {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Sunt singur, târziu în noapte,
 Umbre reci mă-nconjoară acum.
 Ceața deasă mi-acoperă ochii,
 Nu știu, Doamne, unde să mă duc.
 
-[chorus]
+[c]
 Ridică-mă, că singur nu pot,
 Ține-mă ascuns în Palma Ta,
 Că sunt rănit, pustiu și gol,
 Doar Tu poți tărie să-mi dai.
 
-[2]
+[v2]
 Lovit sunt și fără speranță,
 Rătăcit sunt, departe, stingher.
 Tânjesc, Doamne, după siguranță,
 Vreau să găsesc drumul către Cer.
 
-[3]
+[v3]
 Aud șoapte tot mai confuze
 Și mă-ntreb: „Doamne, unde ești?”
 Te-aud în picuri de ploaie,

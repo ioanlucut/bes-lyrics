@@ -2,13 +2,13 @@
 Da, eu! Da, eu! Da, eu, Doamne
 
 [sequence]
-c,1,c,2,c,3,c
+c,v1,c,v2,c,v3,c
 
-[chorus]
+[c]
 /: Da, eu! Da, eu! Da, eu, Doamne,
 Eu trebuie să mă rog. :/
 
-[1]
+[v1]
 Rugăciunea mamei mele
 Nu este de-ajuns,
 Eu trebuie să mă rog.
@@ -16,7 +16,7 @@ Rugăciunea tatălui meu
 Nu este de-ajuns,
 Eu trebuie să mă rog.
 
-[2]
+[v2]
 Rugăciunea sorei mele
 Nu este de-ajuns,
 Eu trebuie să mă rog.
@@ -24,7 +24,7 @@ Rugăciunea fratelui meu
 Nu este de-ajuns,
 Eu trebuie să mă rog.
 
-[3]
+[v3]
 Nici păstoru, ’nvățătorul,
 Ci chiar eu, Doamne,
 Eu trebuie să mă rog.

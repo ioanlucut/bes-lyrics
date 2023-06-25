@@ -1,28 +1,28 @@
 [title]
-Pornim pe căi necunoscute {Author: {Lewis E.Jones}}
+Pornim pe căi necunoscute {author: {Lewis E.Jones}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Pornim pe căi necunoscute
 Ca să lucrăm pentru cetatea cea de sus.
 Ca să vestim iubirea sfântă,
 A Domnului Isus.
 
-[chorus]
+[c]
 Astăzi urmăm calea Lui Isus,
 Știm că, în curând, El va veni de sus.
 Știm că Domnul Isus va veni-n curând
 Ca să ne ducă-n cer la El.
 
-[2]
+[v2]
 Plecăm să arătăm în lume
 Cât ne-a iubit Isus și crucea El ne-a dus.
 Vestim și marea bucurie
 A revenirii Lui.
 
-[3]
+[v3]
 Plecăm, plecăm, cu voie bună
 Ca să lucrăm cu drag în câmpul Domnului.
 A lumii piedici și păcate

@@ -2,27 +2,27 @@
 N-am să te las niciodată
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
-Tu, Doamne, ești adăpost în necaz, 
+[v1]
+Tu, Doamne, ești adăpost în necaz,
 Stâncă în vremi de furtună.
 Oricât ar fi încercarea de grea,
 Tu mă ascunzi în inima Ta.
 
-[chorus]
+[c]
 Cu nici-un chip nu Te voi părăsi!
 N-am să Te las niciodată!
 În jertfa mea Tu ai totul deplin,
 Sunt mângâiere și-alin.
 
-[2]
+[v2]
 Am biruință, Doamne, la Golgota.
 Prin cruce tot e posibil!
 Rămân în credință, Doamne,
 Că voi avea ce am cerut din mâna Ta.
 
-[3]
+[v3]
 În Numele Tău, preaînalt Dumnezeu,
 Boli și-ngrijorările pleacă!
 Tu ești același, Doamne, azi și în veci!

@@ -1,10 +1,10 @@
 [title]
-Ce mulți nu cred {Author: {Florin Mesaroș}}
+Ce mulți nu cred {author: {Florin Mesaroș}}
 
 [sequence]
-1,c,b,c
+v1,c,b,c
 
-[1]
+[v1]
 Ce mulți nu cred în Tine, Doamne,
 Ce mulți nu cred că Tu exiști,
 Ce mulți au vorbele deșarte,
@@ -14,11 +14,11 @@ O, Doamne, Tu ești veghetor.
 Le spun că mi-ai dat mântuirea,
 Tu ești al lumii Creator.
 
-[bridge]
+[b]
 E Domnul meu, ce mă iubește,
 Cum aș putea eu, să nu cred?
 
-[chorus]
+[c]
 /: Când peste ochi El toarnă lacrimi,
 Când pune-n inimă fior
 Și dragostea Lui, îmi dă aripi,

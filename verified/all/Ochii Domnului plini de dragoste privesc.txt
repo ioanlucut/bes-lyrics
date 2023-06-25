@@ -2,9 +2,9 @@
 Ochii Domnului, plini de dragoste privesc
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Ochii Domnului, plini de dragoste privesc
 Inimile tuturor care nu-L cunosc.
 Mâna Domnului întinsă e și azi spre noi.
@@ -13,7 +13,7 @@ Mâna Domnului întinsă e și azi spre noi.
 Doar viață plină de necaz
 Întoarce-te la Domnul, azi!
 
-[chorus]
+[c]
 /: Șoptește-I: „Iartă-mă, ia vina mea!”
 Isus e lângă tine,
 Vrea să intre-n viața ta. :/

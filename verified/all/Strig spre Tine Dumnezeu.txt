@@ -2,9 +2,9 @@
 Strig spre Tine, Dumnezeu
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Iată-mă, Isuse,
 Vreau să mă-nchin în duh și-adevăr.
 Știu că harul Tău perfect
@@ -15,12 +15,12 @@ M-a adus aici.
 Mâini spre cer am ridicat
 Fiindcă Tu, Isus, m-ai eliberat.
 
-[chorus]
+[c]
 Strig spre Tine, Dumnezeu,
 Să răsune pân’ la cer:
 Eu sunt al Tău, sunt al Tău!
 
-[2]
+[v2]
 Atâta bine ne-ai făcut
 Să vadă toți aș vrea, Isus,
 Tu ești singurul
@@ -31,7 +31,7 @@ Să-Ți răspândesc și dragostea.
 Mâini spre cer am ridicat
 Fiindcă Tu, Isus, m-ai eliberat.
 
-[bridge]
+[b]
 Sunt aici, acum,
 Cu mâini întinse.
 Numai Tu, Isus,

@@ -2,33 +2,33 @@
 Da eu și casa mea
 
 [sequence]
-1,c,2,c,b,t
+v1,c,v2,c,b,c2
 
-[1]
+[v1]
 Sunt zile de sfârșit când totul e-n schimbare,
 E-aproape de-asfințit și Domnul va apare.
 ’Nainte e-ntuneric și semne de-ntrebare,
 Dar vom rămâne veșnic cu Cel ce-i al nost’ Soare.
 
-[chorus]
+[c]
 Dar eu și casa mea
 Vom sluji Domnului,
 Mereu Îi vom cânta
 Pentru tot Harul Lui! (2x)
 
-[2]
+[v2]
 Cu toți, cu mic și mare, vom apăra dreptatea,
 În rugă fiecare și-om moșteni dreptatea.
 Nu vom ceda în luptă chiar de e greu pe cale,
 Avea-vom biruință prin Cel ce-i veșnic tare.
 
-[bridge]
+[b]
 Vom sluji Domnului!
 Vom sluji Domnului!
 Vom sluji Domnului!
 Pentru tot Harul Lui!
 
-[chorus 2]
+[c2]
 Dar eu și casa mea
 Vom sluji Domnului,
 Mereu Îi vom cânta

@@ -2,9 +2,9 @@
 Nu, nu suntem un vis și-o întâmplare
 
 [sequence]
-1,2,3,4,5,6
+v1,v2,v3,v4,v5,v6
 
-[1]
+[v1]
 Nu, nu suntem un vis și-o întâmplare,
 Un lut de sine însuși frământat,
 /: Căci ne-a zidit o forță creatoare,
@@ -12,7 +12,7 @@ O-nțelepciune fără de hotare,
 Există Dumnezeu,
 Există Dumnezeu cu-adevărat! :/
 
-[2]
+[v2]
 Nu, nu suntem jivine-ntunecate,
 Gonite de un bici ne-nduplecat,
 /: Căci noi avem un duh și-o libertate
@@ -20,7 +20,7 @@ Gonite de un bici ne-nduplecat,
 Există Dumnezeu,
 Există Dumnezeu cu-adevărat !:/
 
-[3]
+[v3]
 N-ar fi simțit în veci de veci țărâna
 Surâsul unui crin imaculat,
 /: De n-ar fi-ntins Atotstăpânul mâna
@@ -28,7 +28,7 @@ Să umple-n noi de simțământ fântâna.
 Există Dumnezeu,
 Există Dumnezeu cu-adevărat! :/
 
-[4]
+[v4]
 Avem cu noi Scriptura, ca dovadă,
 Avem minuni și semne ne-ncetat.
 /: Și cine vrea pe Dumnezeu să-L vadă,
@@ -36,7 +36,7 @@ Să stea în fața Lui pe baricadă!
 Există Dumnezeu,
 Există Dumnezeu cu-adevărat! :/
 
-[5]
+[v5]
 Nu-i calea noastră veșnic însorită,
 Nu-i viața totdeauna un palat,
 /: Dar o trăim, căci merită trăită,
@@ -44,7 +44,7 @@ Când peste lumea asta mărginită,
 Există Dumnezeu,
 Există Dumnezeu cu-adevărat! :/
 
-[6]
+[v6]
 Nu, nu suntem neant! Ce fericire!
 Supremul adevăr s-a revelat.
 /: Isus e-n noi lumină și iubire,

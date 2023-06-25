@@ -1,10 +1,10 @@
 [title]
-Fii binecuvântat! {Author: {Ekklesia BN}}
+Fii binecuvântat! {author: {Ekklesia BN}}
 
 [sequence]
-1,p,c,2,p,c,b,b,c,c,e
+v1,p,c,v2,p,c,b,b,c,c,e
 
-[1]
+[v1]
 Fii binecuvântat
 Când pământul e săturat,
 Când ploaia dă peste el,
@@ -15,18 +15,18 @@ Când mă aflu pe pământ uscat
 Și pășesc singur prin pustiu,
 Fii binecuvântat!
 
-[prechorus]
+[p]
 Fiecare laudă Ție ți-o dau
 Când noaptea se apropie,
 Te voi lăuda!
 
-[chorus]
+[c]
 Binecuvântat fie El,
 Binecuvântat,
 Binecuvântat fie El,
 Binecuvântăm numele Său!
 
-[2]
+[v2]
 Fii binecuvântat
 Când soarele-i din nou pe cer
 Și când toate sunt cum le-ai creat,
@@ -41,12 +41,12 @@ Fiecare laudă Ție ți-o dau
 Când noaptea se apropie,
 Te voi lăuda!
 
-[bridge]
+[b]
 /: Primește lauda,
 Ești vrednic Dumnezeu,
 Îmi cântă inima,
 Fii binecuvântat! :/
 
-[ending]
+[e]
 Binecuvântăm,
 Al Său nume Sfânt!

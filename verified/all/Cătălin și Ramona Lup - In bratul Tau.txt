@@ -1,26 +1,26 @@
 [title]
-În brațul Tău {Author: {Cătălin și Ramona Lup}}
+În brațul Tău {author: {Cătălin și Ramona Lup}}
 
 [sequence]
-1,c,2,c,c,b,c,c
+v1,c,v2,c,c,b,c,c
 
-[1]
+[v1]
 În brațul Tău mă dedic din nou
 Cu tot ce sunt, Doamne,
 Tu viața mea o ții în mâna Ta
 Și sunt al Tău pe veci.
 
-[chorus]
+[c]
 /: Isus, eu mă încred în Tin’,
 Isus, Ție-ți aparțin.
 Pentru Tine eu trăiesc,
 Pe deplin mă dăruiesc cu tot ce sunt. :/
 
-[2]
+[v2]
 Te voi avea mereu ’naintea mea,
 În orice zi eu mă-ncred
 Și voi trăi în ale Tale căi,
 În Cuvântul Tău, pe veci.
 
-[bridge]
+[b]
 /: Ție mă închin! :/

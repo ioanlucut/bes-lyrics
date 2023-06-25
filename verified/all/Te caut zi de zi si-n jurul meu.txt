@@ -2,21 +2,21 @@
 Te caut zi de zi și-n jurul meu
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Te caut zi de zi și-n jurul meu
 Aștept să văd prezența Ta divină
 Și încă nu-nțeleg, o, Domnul meu,
 Că Tu iubești să locuiești în mine.
 
-[chorus]
+[c]
 /: Un templu sfânt să-mi fie inima
 În care zi de zi să locuiești.
 O viață sfântă să am ca a Ta
 E ceea ce-mi doresc, o, Domnul meu. :/
 
-[2]
+[v2]
 Încununarea creațiunii Tale sunt
 Și-n mine-ai pus un dor de veșnicie
 Și templul meu de-aici de pe pământ

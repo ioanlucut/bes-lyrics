@@ -2,33 +2,33 @@
 Harul tău în încercarea grea
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Dă-ne putere, Doamne, azi Îți cerem
 Puterea Duhului Tău Sfânt
 Ca să putem învinge-n orice vreme,
 În timpul alergării pe pământ.
 
-[chorus]
+[c]
 Harul Tău, în încercarea grea,
 Ne dăruiește victoria.
 O, Doamne, prin puterea Ta învingem noi
 În orice luptă și nevoi.
 
-[2]
+[v2]
 Ajută-ne ca să purtăm cu cinste
 Numele-Ți Sfânt, așa cum ne-ai chemat
 Să oglindim în ale noastre fapte,
 Isuse, chipul Tău sfânt și curat.
 
-[3]
+[v3]
 Dă-ne putere ca să fim în lume
 Lumină pentru cei ce-s rătăciți,
 Să ținem sus stindardul Evangheliei,
 Chiar de vom fi de oameni prigoniți.
 
-[4]
+[v4]
 Ajută-ne să mergem drept pe Cale,
 Când greul și ispita vor veni
 Să nu dăm înapoi în încercare,

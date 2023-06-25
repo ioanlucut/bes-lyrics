@@ -1,10 +1,10 @@
 [title]
-Frumusețea ce ne-nconjoară {Author: {Elim Harmony}}
+Frumusețea ce ne-nconjoară {author: {Elim Harmony}}
 
 [sequence]
-c,1,c,2
+c,v1,c,v2
 
-[chorus]
+[c]
 Frumusețea ce ne-nconjoară,
 Ne apropie de cer.
 Căci natura mai păstrează
@@ -15,7 +15,7 @@ Ne-ncetat spre Dumnezeu.
 Frumusețea ce ne-nconjoară,
 Ne apropie de cer.
 
-[1]
+[v1]
 Viața strălucește în culoare,
 Din pădure până la deșert.
 Ape limpezi de izvor, lanuri aurii,
@@ -23,7 +23,7 @@ Stropi de ploaie caldă,
 Copilași ce-aleargă în miez de vară,
 Pe câmp cu flori.
 
-[2]
+[v2]
 Mergi pe munte și privește zarea,
 Lasă-te de soare mângâiat.
 Stai și admiră un amurg

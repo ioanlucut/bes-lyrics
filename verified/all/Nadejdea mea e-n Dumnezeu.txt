@@ -2,9 +2,9 @@
 Nădejdea mea e-n Dumnezeu
 
 [sequence]
-1,2,3,4,5,6
+v1,v2,v3,v4,v5,v6
 
-[1]
+[v1]
 Nădejdea mea e Dumnezeu,
 Puterea Lui e mare!
 /: Prin dragostea și harul Său,
@@ -12,7 +12,7 @@ Nădăjduiesc și cânt mereu,
 Căci a salvat sufletul meu,
 Din veșnica pierzare. :/
 
-[2]
+[v2]
 O licărire-n infinit
 E viața mea întreagă,
 /: Dar pentru mine S-a jertfit
@@ -20,7 +20,7 @@ Isus din cer, m-a mântuit,
 Și-o viață fără de sfârșit
 De veșnicii mă leagă. :/
 
-[3]
+[v3]
 Țărână trecătoare sunt,
 Dar cred în nemurire
 /: Căci Duhul Celui veșnic Sfânt
@@ -28,7 +28,7 @@ Dar cred în nemurire
 Să pot pleca de pe pământ,
 Dincolo-n strălucire. :/
 
-[4]
+[v4]
 Sunt călător spre țara mea,
 Cu Domnul am izbândă.
 /: Mi-e călăuză dreapta Sa,
@@ -36,7 +36,7 @@ O, Doamne, Tu nu vei lăsa,
 Nicicând să cadă-n lupta grea
 Ființa mea plăpândă. :/
 
-[5]
+[v5]
 În glas de ciocârlii, duios,
 Și-n vuietul de ape,
 /: În flori și-n tot ce-i mai frumos,
@@ -44,7 +44,7 @@ Ființa mea plăpândă. :/
 Iubirea sfânt-a Lui Hristos
 O simt tot mai aproape. :/
 
-[6]
+[v6]
 Eu am aflat în Creator
 Și pacea și menirea.
 /: Stăpân, al lumii ziditor,

@@ -1,31 +1,31 @@
 [title]
-Și munții Te-nalță {Author: {Cor copii Dynamis}}
+Și munții Te-nalță {author: {Cor copii Dynamis}}
 
 [sequence]
-p,c,1,2,c,3
+p,c,v1,v2,c,v3
 
-[prechorus]
+[p]
 /: Și munții Te-nalță
 Și marea Te laudă și astrele,
 Toate-Ți respectă, toate-Ți adoră Numele. :/
 
-[chorus]
+[c]
 /: Laudă, slavă mărire,
 Îți cântă fără glas.
 Laudă, slavă, mărire,
 Auzim la orice pas! :/
 
-[1]
+[v1]
 Munții, marea, astrele
 Respectă, Ți-adoră Numele!
 
-[2]
+[v2]
 Eu vreau să Îți cânt,
 Eu vreau să Te laud căci m-ai creat
 Mi-ai dat grai, vedere,
 Mișcare și viață,
 Sunt minunat !
 
-[3]
+[v3]
 Munții, marea, astrele
 Respectă, Ți-adoră Numele!

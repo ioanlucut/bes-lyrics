@@ -2,22 +2,22 @@
 Te-ai coborât
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Te-ai coborât
 În ieslea cea săracă,
 Isuse, Prunc Divin,
 Iar corul îngerilor cântă,
 Pace lumii vestind!
 
-[chorus]
+[c]
 /: O, Prunc Ceresc, Copil Divin!
 O, lume-Ți cântă ne-ncetat.
 Ai coborât în noaptea sfântă,
 Tu, Fiul Celui Preaînalt. :/
 
-[2]
+[v2]
 Un cor măreț
 De mii și mii de îngeri
 Vestesc venirea Ta.

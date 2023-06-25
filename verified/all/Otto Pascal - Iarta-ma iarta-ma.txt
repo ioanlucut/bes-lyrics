@@ -1,29 +1,29 @@
 [title]
-Iartă-mă, iartă-mă {Author: {Otto Pascal}}
+Iartă-mă, iartă-mă {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Știu prea bine și-mi pare rău că Te-am trădat,
 Regret eșecul ce mă ține, jos, mereu plecat.
 Harul Tău și mila nu le-aș merita,
 Dar iartă-mă și ia-mi durerea mea.
 
-[chorus]
+[c]
 Iartă-mă, iartă-mă!
 Lanțul meu azi dezleagă-l, scapă-mă,
 Căci vreau să simt prezența Ta din nou.
 Mi-e rușine de omul care-am fost,
 Salvează-mă!
 
-[2]
+[v2]
 Noi doi n-am mai vorbit de zile multe,
 Din cauza mea atâtea inimi azi sunt frânte,
 Dar, Doamne, disperat la Tine vin spunând:
 „Ia durerea mea și dă-mi avânt!”
 
-[bridge]
+[b]
 Zi de zi zic că lupt din greu,
 Odihnă vreau să simt și eu,
 Oh, Domnul meu...

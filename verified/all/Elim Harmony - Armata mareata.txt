@@ -1,17 +1,17 @@
 [title]
-Armata măreață {Author: {Elim Harmony}}
+Armata măreață {author: {Elim Harmony}}
 
 [sequence]
-1,c,b,c
+v1,c,b,c
 
-[1]
+[v1]
 /: Armata măreață a Domnului sfânt,
 Pleacă la luptă din trâmbiță sunând. :/
 
-[chorus]
+[c]
 /: Conduși sunt mereu de vocea Lui Dumnezeu! :/
 
-[bridge]
+[b]
 /: Să răsune în Sion, Sion,
 Să se cutremure Sfântul Munte!
 Să răsune în Sion, Sion:

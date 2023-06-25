@@ -2,25 +2,25 @@
 Autentic
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Tot ce am aduc acum ’naintea Ta,
 Cu tot ce sunt mă-nchin, Isus, în fața Ta.
 Tot ce am aduc acum ’naintea Ta,
 Cu tot ce sunt mă-nchin, Isus, în fața Ta.
 
-[chorus]
+[c]
 Și Îți cânt, Domnul meu cel viu,
 Viata nouă Tu mi-ai dat.
 Și Îți cânt, Domnul meu cel viu,
 Numai Tu m-ai eliberat.
 
-[2]
+[v2]
 Tot ce am aduc acum ’naintea Ta.
 Cu tot ce sunt mă-nchin, Isus, în fața Ta.
 
-[bridge]
+[b]
 M-ai chemat la Tine și ai făcut din mine
 O făptură nouă-n Hristos.
 Trăiesc o altă viață, o viață de iubire,

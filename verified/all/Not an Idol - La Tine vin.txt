@@ -1,10 +1,10 @@
 [title]
-La Tine vin {Author: {Not an Idol}}
+La Tine vin {author: {Not an Idol}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Dis de dimineață ruga mea se-nalță
 Către Tine, Domnul meu pe tron.
 Vreau ca să-Ți vorbesc, cuprins de dor,
@@ -12,7 +12,7 @@ Pe a Ta cărare e-a mea desfătare,
 Cât mai mult să Te cunosc aș vrea,
 Tată bun, viața mea e-a Ta.
 
-[chorus]
+[c]
 Sufletu-mi cântă, inima-mi saltă,
 Ca un copil la Tine vin.
 O, ce splendoare, dragostea-Ți mare
@@ -20,7 +20,7 @@ Mă copleșește pe deplin.
 Eu azi la Tine vin, doar Ție mă închin
 Din inimă.
 
-[2]
+[v2]
 În amurgul zilei vin cu mulțumire
 Pentru toate câte mi-ai iertat,
 Cum, prin încercări, mi-ai arătat

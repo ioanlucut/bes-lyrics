@@ -2,27 +2,27 @@
 Nu există frică în iubire
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Nu există frică în iubire,
 Căci iubirea este Dumnezeu.
 Cine e cu Domnul în iubire
 Are-n Domnu-ncredere mereu.
 
-[chorus]
+[c]
 O, da, eu nu mă tem, căci Domnul e cu mine,
 Sunt copleșit atunci când simt iubirea Lui.
 Prin valea umbrei morții dacă merg cu Tine,
 Eu nu am să tremur că-n iubire frică nu-i.
 
-[2]
+[v2]
 Frica de la Diavolul venise,
 Ca să-i chinuiască pe ai săi.
 Domnul pe Satan îl biruise,
 Tot prin El înving mereu și-ai Săi.
 
-[3]
+[v3]
 Știind că este și o teamă sfântă,
 Care-n ea iubirea ne-a sădit,
 Și este și dragoste adâncă,

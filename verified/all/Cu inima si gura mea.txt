@@ -2,9 +2,9 @@
 Cu inima și gura mea
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Cu inima și gura mea,
 Eu cânt Lui Dumnezeu:
 Mărire, cinste, laudă,
@@ -15,7 +15,7 @@ Fântâna și Izvorul harului,
 Din ea, ne curge-n orice zi
 Un dar din darul Lui! :/
 
-[2]
+[v2]
 Ce suntem noi că stăpânim
 Atâta pe pământ?
 Nu-s toate daruri ce primim,
@@ -26,7 +26,7 @@ Din partea Celui Sfânt?
 Și chiar când nu am nici un ban,
 Cu Domnul, nu mă tem! :/
 
-[3]
+[v3]
 Ne pedepsește, ca Păstor,
 Cu milă, când greșim
 Și-apoi ne iartă-ndurător,
@@ -37,7 +37,7 @@ Mântuitorului
 Și mă silesc a fi zelos
 În lucrul Domnului. :/
 
-[4]
+[v4]
 El, niciodată n-a greșit
 În tot ce a făcut
 Și toate au un bun sfârșit,

@@ -1,16 +1,16 @@
 [title]
-Tot mai mult, Isus {Author: {Ekklesia}}
+Tot mai mult, Isus {author: {Ekklesia}}
 
 [sequence]
-1,c,1,c,c,c
+v1,c,v1,c,c,c
 
-[1]
+[v1]
 /: Tot mai mult, Isus, tot mai mult,
 Voia Ta s-o-mplinesc tot mai mult,
 Tot mai mult să-nțeleg ce-mi vorbești,
 Voia Ta s-o-mplinesc, Isus, tot mai mult. :/
 
-[chorus]
+[c]
 /: Tu ești al meu Domn și Împărat
 Și pentru mine viață Tu Ți-ai dat
 Ca să-Ți slujesc și să-Ți cânt în veci,

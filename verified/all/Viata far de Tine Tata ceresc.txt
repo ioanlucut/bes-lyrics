@@ -2,27 +2,27 @@
 Viața făr’ de Tine, Tată ceresc
 
 [sequence]
-1,c,2,t
+v1,c,v2,c2
 
-[1]
+[v1]
 Viața făr’ de Tine, Tată ceresc,
 Este doar deșertăciune,
 Numai Tu poți da vieții un sens,
 Ca să trăiesc pentru Tine.
 
-[chorus]
+[c]
 Viața mea, Tu ai schimbat Isus,
 Și-ai făcut un om nou din mine,
 Ai pus în mine un dor nespus,
 Dorul de a fi lângă Tine.
 
-[2]
+[v2]
 Duhul Tău Sfânt mi-a dat dragoste-n dar
 Și brațul Tău ocrotire,
 Numai în Tine, Isuse iubit,
 Pot să găsesc fericire.
 
-[chorus 2]
+[c2]
 Viața Ta poate-a schimba, Isus,
 Poate face un om nou din tine,
 Astăzi îndreaptă-ți privirea în sus,

@@ -2,27 +2,27 @@
 M-am depărtat de Dumnezeu
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 M-am depărtat de Dumnezeu,
 Azi vin acasă.
 Trăit-am în păcatul meu,
 Azi vin acasă.
 
-[chorus]
+[c]
 Doamne vin acasă,
 Nu mai rătăcesc,
 Brațul Tău este deschis,
 Azi vin acasă.
 
-[2]
+[v2]
 Pierdut-am mulți ani prețioși,
 Azi vin acasă,
 Cu lacrimi, ca un păcătos,
 Azi vin acasă.
 
-[3]
+[v3]
 M-am dezgustat de viața mea,
 Azi vin acasă.
 Mă-ncred numai-n iubirea Ta,

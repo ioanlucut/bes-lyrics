@@ -1,16 +1,16 @@
 [title]
-Doar cu o praștie și cu o piatră {Author: {Cor copii Dynamis}}
+Doar cu o praștie și cu o piatră {author: {Cor copii Dynamis}}
 
 [sequence]
-c,1,t,2,3,c
+c,v1,c2,v2,v3,c
 
-[chorus]
+[c]
 /: Doar cu o praștie și cu o piatră
 David l-a învins pe Goliat.
 A pus pe fugă-ntreaga lui armată,
 Dumnezeu l-a ajutat! :/
 
-[1]
+[v1]
 Da, da, da,
 Domnul e de partea mea.
 Nu mă tem de niciun rău!
@@ -19,13 +19,13 @@ Domnul e de partea mea
 Fiindcă sunt copilul Său
 De-aceea:
 
-[chorus 2]
+[c2]
 /: Când uriașu-n față se ridică
 Și se apropie-nfricoșător,
 Domnul îmi spune: „Nu îți fie frică,
 Eu îți vin în ajutor!” :/
 
-[2]
+[v2]
 Da, da, da,
 Domnul e de partea mea.
 Nu mă tem de niciun rău!
@@ -33,14 +33,14 @@ Da, da, da,
 Domnul e de partea mea
 Fiindcă sunt copilul Său!
 
-[3]
+[v3]
 Neînfricat, neînfricat
 Să fii ca și David, neînfricat
 Să te-ncrezi în Domnul neîncetat
 Vei fi de El binecuvântat
 Da, da, da!
 
-[chorus]
+[c]
 /: Doar cu o praștie și cu o piatră,
 David l-a învins pe Goliat.
 A pus pe fugă-ntreaga lui armată,

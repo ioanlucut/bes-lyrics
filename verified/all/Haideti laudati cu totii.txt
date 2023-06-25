@@ -2,15 +2,15 @@
 Haideți, lăudați cu toții
 
 [sequence]
-c,1,c,2
+c,v1,c,v2
 
-[chorus]
+[c]
 /: Haideți, lăudați cu toții
 Pe Dumnezeul Sfânt al lui Israel! :/
 /: Ridică-ți mâinile și cântă-I numele
 Căci Dumnezeu te-a ridicat. :/
 
-[1]
+[v1]
 Haideți, haideți,
 Să urcăm pe muntele sfânt,
 Unde-i veselie și cânt,
@@ -19,7 +19,7 @@ Să strigăm în fața Lui:
 El e Domn sus în cer
 Unde-i tronul Său.
 
-[2]
+[v2]
 Hawa, naghila hawa,
 Naghila hawa, naghila weeni smeha
 Hawa neranena, hawa neranena

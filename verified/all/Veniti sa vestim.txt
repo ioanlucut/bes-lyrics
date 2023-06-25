@@ -2,9 +2,9 @@
 Veniți să vestim
 
 [sequence]
-1,c,b,c
+v1,c,b,c
 
-[1]
+[v1]
 Este scris în Cuvânt
 Că Cel ce-avea să se nască,
 Să mântuie lumea,
@@ -14,7 +14,7 @@ Păcatul greu ce ne-a legat.
 Și din ceruri o voce se-aude:
 Acesta este Fiul meu preaiubit!
 
-[chorus]
+[c]
 Veniți să vestim: s-a născut Isus!
 Să cântăm: viață ne-a adus!
 Să strigăm: Domnul păcii a venit!
@@ -22,7 +22,7 @@ El ne-a adus mântuirea-n dar,
 A deschis calea către rai,
 Ne-a-mpăcat cu Tatăl Dumnezeu!
 
-[bridge]
+[b]
 S-a născut în iesle,
 Fiul Lui Dumnezeu a coborât.
 S-a dezbrăcat de glorie

@@ -2,20 +2,20 @@
 Ce bine e să dăm laudă Domnului
 
 [sequence]
-1,c,b,c
+v1,c,b,c
 
-[1]
+[v1]
 Ce bine e să dăm laudă Domnului,
 Ce bine e să-I dăm laudă numai Lui!
 El captivi eliberează, inimi vindecă,
 Binecuvântăm Numele Lui.
 
-[chorus]
+[c]
 Îți mulțumim, ești Salvatorul,
 Cu inimi de recunoștință ne-nchinăm,
 Îndurarea Ta va ține veșnic,
 Eu Te voi lăuda toată viața mea.
 
-[bridge]
+[b]
 Vreau să-L slăvesc pe El!
 Vreau să-L slăvesc pe El!

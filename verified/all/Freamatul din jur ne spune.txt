@@ -2,9 +2,9 @@
 Freamătul din jur ne spune
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c
+v1,c,v2,c,v3,c,v4,c,v5,c
 
-[1]
+[v1]
 Freamătul din jur ne spune
 De venirea Lui curând.
 Nu mai rătăci în lume,
@@ -15,10 +15,10 @@ Nimeni nu te-ar sprijini.
 Caută astăzi mântuirea
 Căci Isus va reveni!
 
-[chorus]
+[c]
 /: Ești pregătit? Ești pregătit? :/
 
-[2]
+[v2]
 Patima ce te robește,
 Domnul Isus ți-o va lua.
 El în sânge te sfințește,
@@ -29,35 +29,35 @@ Duhul Sfânt mai bate-odată
 Astăzi încă te așteaptă,
 Spune-ți hotărârea ta.
 
-[3]
-Cineva îți dorește bine: 
+[v3]
+Cineva îți dorește bine:
 Cel ce te-a adus aici!
-Duhul Sfânt lucrează în tine, 
+Duhul Sfânt lucrează în tine,
 Vrea de rău să te dezici.
 
 Duhul Sfânt mai bate o dată
 Și apoi te va lăsa.
-Astăzi încă te așteaptă, 
+Astăzi încă te așteaptă,
 Spune-ți hotărârea ta!
 
-[4]
-Harul într-o zi se va lua, 
+[v4]
+Harul într-o zi se va lua,
 Bucurii nu vor mai fi.
 Vai de cel ce zăbovește
 Să rămână în al său viciu!
 
-Revenirea nu e departe, 
+Revenirea nu e departe,
 Chiar de nu poți să crezi.
-Însă, după Sfânta Carte, 
+Însă, după Sfânta Carte,
 În curând, tu ai să Îl vezi!
 
-[5]
+[v5]
 Frate, ce ai făcut cu Domnul
 Legământ că Îl vei urma,
-Luptă și învinge somnul, 
+Luptă și învinge somnul,
 Azi cât stai înaintea Sa!
 
-Un mesaj răsună în lume: 
+Un mesaj răsună în lume:
 „Iată, că Eu vin curând!”
-Tu, un „Aleluia!” spune, 
+Tu, un „Aleluia!” spune,
 „Vino, Doamne, mai curând!”

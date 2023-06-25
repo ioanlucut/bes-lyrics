@@ -2,48 +2,48 @@
 Tu stai mai sus de ceruri, Prea-nalte Dumnezeu
 
 [sequence]
-1,c,2,c,3,c,e
+v1,c,v2,c,v3,c,e
 
-[1]
-Tu stai mai sus de ceruri, 
+[v1]
+Tu stai mai sus de ceruri,
 Prea-nalte Dumnezeu,
-Doar Tu cunoști misterul 
+Doar Tu cunoști misterul
 Din universul Tău.
 
-De ochii Tăi nu poate 
+De ochii Tăi nu poate
 Să stea nimic ascuns,
-Ești peste tot și-n toate, 
+Ești peste tot și-n toate,
 O, cât ești Tu de nepătruns!
 
-[chorus]
+[c]
 Vino acum, arată-Ți slava,
 Fă să Te cunoască orice om,
 Prezența Ta s-aducă-ndurare,
 Să fie udat azi orice pom.
 
-[2]
-Tu stai mai sus de ceruri, 
+[v2]
+Tu stai mai sus de ceruri,
 Prea-nalte Dumnezeu,
-Și cauți oameni 
+Și cauți oameni
 Care ascultă glasul Tău.
 
-Cu dragostea de Tată, 
+Cu dragostea de Tată,
 Din moarte și noroi,
-Ne chemi mereu acasă, 
+Ne chemi mereu acasă,
 Vrei să Te înduri de noi.
 
-[3]
-Când vom ajunge-n ceruri, 
+[v3]
+Când vom ajunge-n ceruri,
 Prea-nalte Dumnezeu,
-Vom fi uimiți 
+Vom fi uimiți
 De slava ce Tu o ai mereu,
 
-Căci coruri fără număr 
+Căci coruri fără număr
 Îți cântă simfonii,
-Din fața Ta 
+Din fața Ta
 Pornesc râuri de ape vii.
 
-[ending]
+[e]
 Glorie Ție, o, Doamne mare,
 Numele Tău e minunat,
 Plini de credință, Ți-aducem onoare,

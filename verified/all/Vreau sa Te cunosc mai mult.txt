@@ -2,9 +2,9 @@
 Vreau să Te cunosc mai mult
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Vreau să Te cunosc mai mult,
 Să Te-onorez cu tot ce sunt,
 Vreau să fac doar voia Ta,
@@ -14,7 +14,7 @@ Să pot s-o dau și altora,
 Vreau să fiu ca Tine, Isus,
 Să fiu ca Tine, Isus.
 
-[chorus]
+[c]
 Transformă viața mea, Domnul meu!
 Înnoiește mintea mea, Tatăl meu!
 Să fiu ca Tine eu îmi doresc,

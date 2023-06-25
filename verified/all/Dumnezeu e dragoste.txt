@@ -2,27 +2,27 @@
 Dumnezeu e dragoste
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 /: Dumnezeu e dragoste. :/
 Dumnezeu Cel veșnic,
 Domnul vieții,
 Dumnezeu e dragoste.
 
-[2]
+[v2]
 /: Dumnezeu e adevăr. :/
 Dumnezeu Cel veșnic,
 Domnul vieții,
 Dumnezeu e adevăr.
 
-[3]
+[v3]
 /: Dumnezeu e lumina mea. :/
 Dumnezeu Cel veșnic,
 Domnul vieții,
 Dumnezeu e lumina mea.
 
-[4]
+[v4]
 /: Viață El mi-a dăruit. :/
 Dumnezeu Cel veșnic,
 Domnul vieții,

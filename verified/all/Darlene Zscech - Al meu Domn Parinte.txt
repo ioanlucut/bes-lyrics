@@ -1,10 +1,10 @@
 [title]
-Al meu Domn, Părinte {Author: {Darlene Zscech}}
+Al meu Domn, Părinte {author: {Darlene Zscech}}
 
 [sequence]
-1,c,1,c,c,e
+v1,c,v1,c,c,e
 
-[1]
+[v1]
 Al meu Domn, Părinte,
 Nimeni ca Tine nu e.
 Cât voi trăi, Îți voi slăvi
@@ -15,7 +15,7 @@ Refugiu, scăpare,
 Cu viața mea, cu tot ce am
 Totdeauna laudă-Ți voi da.
 
-[chorus]
+[c]
 Strig către Tine, o, Doamne, Te caut.
 Tu ești Împăratul, puterea Ți-o laud.
 Munții se pleacă și mările tac
@@ -26,5 +26,5 @@ Eu veșnic mă-nchin și Îți dau laudă.
 Prin Tine exist
 Și prin harul Tău Sfânt eu sunt.
 
-[ending]
+[e]
 Prin Tine exist și prin harul Tău Sfânt eu sunt.

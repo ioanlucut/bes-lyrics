@@ -2,33 +2,33 @@
 Cu dor aștept măreața zi
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Cu dor aștept măreața zi
 Când iarăși o să vie,
 Isuse, scump și drag Isus,
 A Ta Împărăție.
 
-[chorus]
+[c]
 Ființa mea suspină
 Și-atât de mult ar vrea
 Ca, mai curând, să vină
 Împărăția Ta!
 
-[2]
+[v2]
 Pământu-ntreg va tresălta,
 Cântând de bucurie,
 Când Tu, Isuse, vei veni
 Cu-a Ta Împărăție.
 
-[3]
+[v3]
 Adâncă pace va domni
 Și-adâncă armonie,
 Atunci când Tu vei reveni,
 Cu-a Ta Împărăție.
 
-[4]
+[v4]
 Ajuta-mă ca să-Ți slujesc,
 O, Doamne, numai Ție,
 Ca-n ziua-aceea să primesc

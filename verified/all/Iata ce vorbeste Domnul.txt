@@ -2,28 +2,28 @@
 Iată, ce vorbește Domnul
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Unde oare este pacea?
 Unde s-o găsesc?
 Unde să mă odihnesc?
 Ca o pasăre rănită nu mai pot zbura,
 Cine mă va mângâia?
 
-[chorus]
+[c]
 Iată, ce vorbește Domnul,
 Iată, ce vorbește Domnul:
 /: „Dacă m-ai căuta cu toată inima,
 N-ai fi lipsit de slava mea.” :/
 
-[2]
+[v2]
 Am umblat prin astă lume fără Dumnezeu,
 Nu eram copilul Său.
 Am iubit păcatul lumii și m-am înșelat,
 Inima mi-am tulburat.
 
-[3]
+[v3]
 Tu mă chemi să vin la Tine, iată, că doresc,
 Doamne, azi mă pocăiesc.
 Las păcatul, vin la Tine pace ca să-mi dai,

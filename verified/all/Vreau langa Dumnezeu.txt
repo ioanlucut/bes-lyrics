@@ -2,9 +2,9 @@
 Vreau, lângă Dumnezeu
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 Vreau, lângă Dumnezeu, 
 Să fiu mereu,
 Oricât ar fi de greu 
@@ -15,7 +15,7 @@ Cântarea mea va fi:
 „Vreau, lângă Dumnezeu, 
 Să fiu mereu!” :/
 
-[2]
+[v2]
 Pe-ndepărtate căi 
 De-aș înnopta,
 Și-o piatră căpătâi 
@@ -26,7 +26,7 @@ Tot fericit aș fi
 „Vreau, lângă Dumnezeu, 
 Să fiu mereu!”
 
-[3]
+[v3]
 De sunt împovărat 
 Cu slăbiciuni,
 Și mult am de luptat 
@@ -37,7 +37,7 @@ Mai mult mă oțelesc,
 „Vreau, lângă Dumnezeu, 
 Să fiu mereu!”
 
-[4]
+[v4]
 Când calea-mi voi sfârși, 
 Ici pe pământ,
 Și-n veșnicii voi fi, 
@@ -48,7 +48,7 @@ Cu-al meu Isus iubit,
 „Vreau, lângă Dumnezeu, 
 Să fiu mereu!”
 
-[5]
+[v5]
 Viața mea o-nchin 
 Lui Dumnezeu.
 La El, cu toate 

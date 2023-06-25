@@ -2,39 +2,39 @@
 El Shaddai
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c
+v1,c,v2,c,v3,c,v4,c,v5,c
 
-[1]
+[v1]
 Te-ai arătat în viața mea zicând:
 „Să fiu neprihănit ’naintea Ta.”
 M-am aruncat cu fața la pământ
 Vreau să văd iarăși, Doamne, slava Ta.
 
-[chorus]
+[c]
 El Shaddai, El Shaddai!
 Dumnezeu Atotputernic ești,
 Duh Sfânt coborât din cer,
 În mine trăiești!
 
-[2]
+[v2]
 Ești Cel ce mi-a schimbat azi numele
 Și m-a făcut din rob, moștenitor,
 Prin legământ trăiesc în glorie,
 Prin Tine sunt biruitor.
 
-[3]
+[v3]
 În promisiunea Ta-i un legământ,
 Știu, Doamne, asta-i promisiunea Ta.
 Nu vreau să mai trăiesc ca un înfrânt,
 Îți dau întreagă neputința mea.
 
-[4]
+[v4]
 Și iau în stăpânire ce mi-ai dat,
 Un nume nou, căci nu mai sunt străin.
 Ești necuprins și veșnic credincios,
 Ești Cel ce-mi umple viața pe deplin.
 
-[5]
+[v5]
 Astăzi sunt liber și știu cine sunt,
 Astăzi sunt liber să râd și să cânt.
 Am victoria, Tu m-ai salvat,

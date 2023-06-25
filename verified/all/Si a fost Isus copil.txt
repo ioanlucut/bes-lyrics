@@ -2,9 +2,9 @@
 Și a fost Isus copil
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 Și a fost Isus copil
 Fără leagăn, fără slavă.
 Și-n ființa Lui firavă
@@ -12,7 +12,7 @@ Au pătruns fiori de ger.
 Și a fost Isus copil,
 /: Ca să aibă toți copiii Tată-n cer. :/
 
-[2]
+[v2]
 Și a fost Isus sărac.
 Se uitau cu milă bacii
 Cum I-ardeau pe față macii,
@@ -20,7 +20,7 @@ Cel mai trist dintre copii.
 Și a fost Isus sărac,
 /:Ca să aibă toți săracii bogății. :/
 
-[3]
+[v3]
 Și a fost Isus flămând.
 Și plângea din albul pânzei
 Cum plâng mieii-n zori, plăpânzii,
@@ -28,15 +28,15 @@ Cu-ai lor ochi înlăcrimați.
 Și a fost Isus flămând,
 /: Ca să fie toți flămânzii săturați. :/
 
-[4]
-Și a fost Isus un miel
+[v4]
+Și a fost Isus un Miel
 Ce-L pândeau pe-afară leii.
 Și din culmile Iudeii
 Și-n pustiul arzător...
-Și a fost Isus un miel,
+Și a fost Isus un Miel,
 /: Ca să aibă-n El toți mieii un Păstor. :/
 
-[5]
+[v5]
 Și a fost un rob Isus
 Sus, slujind Împărăția,
 Jos, la Iosif și Maria.

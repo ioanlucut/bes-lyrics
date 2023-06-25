@@ -2,9 +2,9 @@
 Lângă Tine vreau
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Lângă Tine vreau
 Să fiu aproape iar
 Și pentru prietenia Ta
@@ -15,7 +15,7 @@ Tu nu poți fi înlocuit,
 Nici caldă-mbrățișarea Ta,
 Adu-mă înapoi, Doamne, lângă Tin’!
 
-[chorus]
+[c]
 /: Ești tot ce vreau,
 Tot ce am dorit vreodată,
 Vreau să-nțeleg

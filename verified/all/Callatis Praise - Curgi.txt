@@ -1,10 +1,10 @@
 [title]
-Curgi {Author: {Callatis Praise}}
+Curgi {author: {Callatis Praise}}
 
 [sequence]
-1,c
+v1,c
 
-[1]
+[v1]
 Azi strig cu inima mea,
 Mâinile-mi ridic,
 Mă pierd în dragostea Ta,
@@ -14,7 +14,7 @@ Sunt gata să Te-ascult.
 Îți cânt și cântecul meu,
 Ți-L dedic, Isus.
 
-[chorus]
+[c]
 Curgi, curgi (ca un râu),
 Unge-ne din nou.
 Curgi, curgi (ca un râu),

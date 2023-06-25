@@ -2,9 +2,9 @@
 Dumnezeu minunat
 
 [sequence]
-1,c,b,c
+v1,c,b,c
 
-[1]
+[v1]
 Oceanele ascund ceva din taina Ta,
 Munții îmi arată maiestatea Ta.
 Bolta cerului se pleacă ușor,
@@ -15,13 +15,13 @@ Pământul liniștit toarce-n axa sa
 Galaxii, ce fredonează toate-n cor:
 Vrednic este al nostru Creator.
 
-[chorus]
+[c]
 Dumnezeu minunat, în palma Ta am fost săpat,
 Înainte să văd lumea eram un vis în inima Ta,
 Dumnezeu minunat, în palma Ta am fost săpat!
 Tu ești stănca pe care stau, Tu ești apa din care beau.
 
-[bridge]
+[b]
 E un mister, e o minune
 Ce nu se poate explica.
 Cu tot ce este Doamne-n mine

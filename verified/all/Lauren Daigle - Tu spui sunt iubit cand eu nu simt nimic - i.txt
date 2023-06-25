@@ -1,17 +1,17 @@
 [title]
-Tu spui sunt iubit, când eu nu simt nimic {Author: {Lauren Daigle}, Version: {i}}
+Tu spui sunt iubit, când eu nu simt nimic {author: {Lauren Daigle}, version: {i}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Mă lupt cu voci, în minte, ce-mi spun că sunt insuficient,
 Aud minciuni care îmi spun că sigur n-am să reușesc.
 Și mai întreb, oare însemn ceva sau oare ce pot fi?
 Mai amintește-mi înc-odat’ cine sunt,
 Am nevoie să știu, o-oo...
 
-[chorus]
+[c]
 Tu spui sunt iubit, când eu nu simt nimic,
 Îmi spui sunt puternic când eu mă simt slăbit.
 Atunci când sunt căzut, pe brațe Tu mă ții,
@@ -19,10 +19,10 @@ Atunci când sunt căzut, pe brațe Tu mă ții,
 Și eu cred, ooo, da, eu cred
 Cred ce Tu îmi spui, eu cred.
 
-[2]
+[v2]
 Tot ce contează acum e doar ceea ce crezi Tu de min’,
 În Tine îmi găsesc identitatea și al meu destin, o-oo...
 
-[3]
+[v3]
 Îți pun azi la picioare tot ce am și tot ceea ce sunt,
 Îmi plâng orice cădere, Doamne, și-ai orice victorie, o-oo...

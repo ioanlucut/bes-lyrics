@@ -1,10 +1,10 @@
 [title]
-El Shaddai {Author: {BBSO}}
+El Shaddai {author: {BBSO}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Prin iubire ai jertfit
 Și pe Isaac l-ai izbăvit.
 Brațul tare ai ridicat,
@@ -13,7 +13,7 @@ Ai salvat-o pe Agar
 Căci Tu îl vezi pe cel fugar
 Și din Egipt pe robi ai slobozit.
 
-[chorus]
+[c]
 El-Shaddai, El-Shaddai,
 Înălțate Adonai!
 Neschimbat din veșnicii,
@@ -23,7 +23,7 @@ Preaiubite Adonai,
 Te-adorăm în duh și grai,
 El-Shaddai!
 
-[2]
+[v2]
 În Scripturi ai arătat
 Că Fiul Tău s-a întrupat,
 Că la oameni ai trimis

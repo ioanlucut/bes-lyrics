@@ -1,28 +1,28 @@
 [title]
-Pe Via Dolorosa {Author: {Emma Repede}}
+Pe Via Dolorosa {author: {Emma Repede}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Pe Via Dolorosa, Isus sub greul crucii,
 Batjocorit de oameni, zdrobit în suferinți,
 Nevinovat, se-ndreaptă spre bicele romane,
 Spre dealul Golgotei să moară pentru noi.
 
-[chorus]
+[c]
 Știi tu de ce Isus a fost jertfit?
 Știi tu de ce pe cruce a murit?
 Cu spini încoronat plângea Divinul Miel.
 De dragul tău, de dragul meu, Isus s-a dăruit.
 
-[2]
+[v2]
 Ca Mielul pentru jertfă, urcă umil Calvarul,
 Să ia păcatul lumii, dureri asupra Lui,
 El, Prinț, venit din ceruri să ne aducă pacea,
 Era acum lovit, de toți disprețuit.
 
-[3]
+[v3]
 Cum poți privi azi la Golgota,
 Fără să-ți plângi păcatul tău?
 Să nu te-nfiori când știi tu oare,

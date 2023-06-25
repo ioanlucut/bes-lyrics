@@ -2,9 +2,9 @@
 Astăzi mă-nchin Domnului
 
 [sequence]
-c,1,c,2,c
+c,v1,c,v2,c
 
-[chorus]
+[c]
 /: Astăzi mă-nchin Domnului
 Și-I cânt slavă, căci El,
 Mult bine mi-a făcut.
@@ -12,7 +12,7 @@ Când eram în strâmtorare
 Către El eu am strigat
 Și El mâna și-a întins și m-a salvat. :/
 
-[1]
+[v1]
 Mi-amintesc de ziua-n care
 Dumnezeu m-a încercat,
 A fost ziua-n care Domnul
@@ -23,7 +23,7 @@ Abia acum am înțeles;
 Căci Isus mult m-a iubit
 Și prin moartea Sa pe cruce m-a ales.
 
-[2]
+[v2]
 Încercări mereu vin, valuri
 Dar le birui prin Isus.
 Doar în El mi-am pus nădejdea

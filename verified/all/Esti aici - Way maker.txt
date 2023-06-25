@@ -2,9 +2,9 @@
 Ești aici - Way maker
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Ești aici, cerul l-ai deschis,
 Eu mă închin, eu mă închin!
 Ești aici să faci tot ce ai promis,
@@ -14,13 +14,13 @@ Eu mă închin, eu mă închin!
 Ești aici să simt puterea ta,
 Eu mă închin, eu mă închin!
 
-[chorus]
+[c]
 Tu ești izbăvitorul, atotputernic!
 Tu ești lumina în întuneric, Doamne, Tu ești Dumnezeu!
 Tu ești izbăvitorul, atotputernic!
 Tu ești lumina în întuneric, Doamne, Tu ești Dumnezeu!
 
-[2]
+[v2]
 Ești aici, vrei să ne atingi,
 Eu mă închin, eu mă închin!
 Ești aici, vindeci suflete,
@@ -30,7 +30,7 @@ Eu mă închin, eu mă închin!
 Ești aici prezent prin Duhul Sfânt,
 Eu mă închin, eu mă închin!
 
-[bridge]
+[b]
 Chiar și atunci când nu văd ești cu mine,
 Chiar și atunci când nu simt ești aproape,
 Știu că lucrezi, știu că lucrezi, Doamne!

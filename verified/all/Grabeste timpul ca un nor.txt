@@ -2,28 +2,28 @@
 Grăbește timpul ca un nor
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Grăbește timpul, ca un nor,
 De nimeni nu-i oprit
 Și anii tăi se duc în zbor,
 Se duc în infinit!
 
-[chorus]
+[c]
 /: În grabă trece viața ta
 Și ziua ta s-a dus.
 O, vino azi, în plină zi,
 La crucea Lui Isus,
 La crucea Lui Isus! :/
 
-[2]
+[v2]
 Pe-acest pământ ești călător,
 Nimic nu e al tău,
 De aceea-ți spun, fii treaz mereu,
 Fii treaz și veghetor!
 
-[3]
+[v3]
 Te-ntreb dar, suflete iubit,
 Suflet ce rătăcești,
 Pe tine cum te va găsi

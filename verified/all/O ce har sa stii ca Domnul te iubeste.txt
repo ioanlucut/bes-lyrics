@@ -2,28 +2,28 @@
 O, ce har să știi că Domnul te iubește
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 O, ce har să știi că Domnul te iubește,
 O, ce har să știi că ești în brațul Său.
 Chiar când simți că tot în jur se năruiește.
 Tu să ai pace în inima ta mereu.
 
-[chorus]
+[c]
 /: Să ai pace în mijlocul necazului tău,
 Să ai pace că tu ești fiu de Dumnezeu.
 Când cei din jur te vor privi,
 Cu pacea ta îi vei uimi
 Când plin de pace vei birui. :/
 
-[2]
+[v2]
 O, ce har să știi că Domnul te iubește,
 O, ce har să știi că Lui îi aparții.
 Și să simți în orice zi că-ți dăruiește
 Când treci prin necaz, pace și bucurii.
 
-[3]
+[v3]
 O, ce har să știi că Domnul te iubește,
 O, ce har să știi că ești copilul său.
 Zi de zi prezența Lui te însoțește

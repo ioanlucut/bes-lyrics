@@ -2,9 +2,9 @@
 Trăiască Domnul
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Nu pot uita vreodată
 Iubirea arătată de Isus,
 M-a-mbrăcat în haine albe,
@@ -14,14 +14,14 @@ Ce privirea o încântă orișicui
 Și în mine, a pus o taină:
 E iubirea arătată omului!
 
-[chorus]
+[c]
 /: Trăiască Domnul,
 El este Stânca mea
 În care mă încred!
 Trăiască Domnul,
 El este Stânca mea și Cetățuia mea! :/
 
-[2]
+[v2]
 Și viața când va trece,
 Nu vreau să-mi fie rece inima,
 Că vreau să-I cânt iubirea
@@ -31,7 +31,7 @@ Să Îi cânt cu bucurie numai Lui,
 În necaz și clipe grele,
 Îmi trimite mângâiere, Harul Lui!
 
-[3]
+[v3]
 Iar când cei răi, pe urme,
 Doreau să-mi ia viața, am zărit
 O Cetate de scăpare,

@@ -1,32 +1,32 @@
 [title]
-Ori de câte ori {Author: {Not an Idol}}
+Ori de câte ori {author: {Not an Idol}}
 
 [sequence]
-1,b,c,2,w,c
+v1,b,c,v2,b2,c
 
-[1]
+[v1]
 Am, în sufletul meu, bucurii
 De când te-am întâlnit.
 Lumină, speranță Tu mi-ai dat,
 Mă simt din nou iubit.
 
-[bridge]
+[b]
 Isus, Te voi urma
 Și liber voi cânta.
 
-[chorus]
+[c]
 Ori de câte ori simt că vreau să zbor,
 Știu că aripi voi găsi la Tine,
 Mă las purtat de un singur dor.
 Doamne, vreau să Te văd.
 
-[2]
+[v2]
 Orice frică din inima mea
 Tu ai alungat,
 M-ai umplut de prezența Ta,
 M-ai binecuvântat!
 
-[bridge 2]
+[b2]
 Isus, Te voi urma
 Toată viața mea.
 Vreau să trăiesc mereu

@@ -1,10 +1,10 @@
 [title]
-Vrednic / Toată închinarea {Author: {Harvest Arad}}
+Vrednic / Toată închinarea {author: {Harvest Arad}}
 
 [sequence]
-1,c,b,t,b,t,2,3
+v1,c,b,c2,b,c2,v2,v3
 
-[1]
+[v1]
 Crucea mea ai purtat
 Ca să trăiesc în libertatea
 Ce Tu mi-ai dat
@@ -12,25 +12,25 @@ Ce Tu mi-ai dat
 Dar nu mai trăiesc eu,
 Trăiesc pentru Tine, o, Domnul meu!
 
-[chorus]
+[c]
 Vrednic ești doar Tu, Isus!
 Tu meriți lauda, toată gloria!
 Vrednic ești doar Tu, Isus!
 Tu meriți lauda, toată gloria!
 
-[bridge]
+[b]
 Rușinea mi-ai luat,
 Azi stau uimit de dragostea ce mi-ai dăruit,
 Ce mare-i harul Tău și mila Ta,
 În veci de veci Te voi lăuda!
 
-[chorus 2]
+[c2]
 Fii înălțat aici și în ceruri!
 Fii înălțat, o, Miel Preasfânt!
 Mai presus de orice nume
 Să fie Numele Isus!
 
-[2]
+[v2]
 Cum să-nțeleg cât Te-a costat
 Să ierți deplin al meu păcat?
 Lumina lumii, prezența divină
@@ -38,7 +38,7 @@ Ajută-mă să-nteleg.
 Cât de frumos ne-ai creat pentru Tine,
 Speranță ne-ai dăruit!
 
-[3]
+[v3]
 Rege etern, ce domnești sus, în ceruri,
 La dreapta Lui Dumnezeu,
 În umilință venit-ai în lume,

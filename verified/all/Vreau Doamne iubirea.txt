@@ -2,15 +2,15 @@
 Vreau, Doamne, iubirea
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Vreau, Doamne, iubirea,
 Tu să fii în viața mea!
 VREAU, Doamne, puterea,
 Tu să fii în viața mea!
 
-[chorus]
+[c]
 Și Te voi preamări cu inima mea!
 Și Te voi preamări cu viața mea!
 Și Te voi preamări în toată lumea,

@@ -1,10 +1,10 @@
 [title]
-A mai trecut un an {Author: {Laud}}
+A mai trecut un an {author: {Laud}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 A mai trecut un an prin noi,
 A fost și soare, au fost și ploi,
 Singur nu eram, eram amândoi.
@@ -14,13 +14,13 @@ Doar Tu, Isus, m-ai ascultat.
 Vreau acum, la sfârșit de an,
 O rugă să-Ți înalț și să-Ți spun:
 
-[chorus]
+[c]
 /: Îți mulțumesc pentru-acest an,
 Îți mulțumesc pentru ce mi-ai dat.
 Îți mulțumesc că niciodată singur nu m-ai lăsat.
 Îți mulțumesc pentru-acest an! :/
 
-[2]
+[v2]
 A mai trecut prin viața mea
 Vreme bună și vreme rea,
 Toate erau în mâna Ta.

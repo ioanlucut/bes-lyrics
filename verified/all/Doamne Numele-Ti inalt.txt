@@ -2,15 +2,15 @@
 Doamne, Numele-Ți înalț
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Doamne, Numele-Ți înalț,
 Doamne, laudă-Ți cânt Ție,
 Fericit sunt că Te am,
 Fericit de-a Ta iubire.
 
-[chorus]
+[c]
 /: Tu ai venit pe pământ să ne salvezi.
 Sus pe cruce Te-ai jertfit, iertați să fim!
 De pe cruce în mormânt,

@@ -2,33 +2,33 @@
 Întoarce-te la dragostea dintâi
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Întoarce-te la dragostea dintâi,
 Întoarce-te, o, până când amâni?
 Întoarce-te la ceea ce-ai pierdut,
 Iubirea ta, iubire din trecut!
 
-[chorus]
+[c]
 Celui ce va birui, celui ce va birui,
 /: Îi voi da să mănânce
 Din pomul vieții,
 Din raiul Lui Dumnezeu. :/
 
-[2]
+[v2]
 Întoarce-te, o, nu mai sta pe loc,
 Adu-ți aminte de-al iubirii foc,
 Cum pentru Domnul tu te-ai ostenit
 În dragostea dintâi când L-ai primit.
 
-[3]
+[v3]
 Întoarce-te, căci Domnul te-a ales
 Ca să nu îți pierzi iubirea cea dintâi
 Cum au pierdut-o aceia din Efes.
 Întoarce-te, în iad să nu rămâi.
 
-[4]
+[v4]
 Întoarce-te, că dacă nu, să știi
 Iubirea sfântă te va părăsi
 El va lua ’napoi tot ce ți-a dat

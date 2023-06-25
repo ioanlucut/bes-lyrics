@@ -2,26 +2,26 @@
 Un cor îngeresc
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 /: Un cor îngeresc
 Din cer se-aude cântând,
 „O, păcătos, vin’ la Isus,
 Vino, vino!”
 
-[chorus]
+[c]
 Hai, hai la El, nu mai sta,
 Azi Isus te cheamă,
 „Vino, vino!”
 
-[2]
+[v2]
 /: Străin tu dacă ești,
 De ce pribeag mai rătăcești?
 N-auzi chemarea Lui Isus,
 „Vino, vino!” :/
 
-[3]
+[v3]
 /: Urcând pe Calvar,
 Isus Și-a dat viața-n dar,
 De aceea, azi noi te chemăm:

@@ -1,9 +1,13 @@
 import _ from 'lodash';
 import chalk from 'chalk';
-import { CARRIAGE_RETURN, EMPTY_STRING, NEW_LINE } from '../constants';
+import {
+  CARRIAGE_RETURN,
+  EMPTY_STRING,
+  NEW_LINE,
+  SEQUENCE_SEPARATOR,
+} from '../constants';
 import { SequenceChar, SongSection } from './types';
-
-const SEQUENCE_SEPARATOR = ',';
+import { isTestEnv } from './utils';
 
 const getUniqueHashFromSection = (section: string) =>
   section.replaceAll(/[\r\n.,! -]/gim, EMPTY_STRING).toLowerCase();
@@ -35,7 +39,7 @@ ${uniqueSections
   .map((section) => `>>${chalk.cyan(section)}<<`)
   .join(`${NEW_LINE}${NEW_LINE}`)}`);
   }
-  const sectionsMap = {} as Record<SongSection, string>;
+  const sectionsMap = {} as Record<string, string>;
   const verses = [] as string[];
 
   const hasChorus = uniqueSectionsSize === MAX_EQUAL_SECTIONS_ALLOWED;
@@ -69,30 +73,37 @@ ${uniqueSections
     }
 
     if (
-      Boolean(sectionsMap[SongSection.CHORUS]) &&
+      Boolean(sectionsMap[SongSection.CHORUS()]) &&
       multipleChorusSections.includes(section)
     ) {
-      console.warn(`Dropping a duplicate version found: >>${section}<<`);
+      if (!isTestEnv()) {
+        console.warn(`Dropping a duplicate version found: >>${section}<<`);
+      }
 
       return;
     }
 
     if (_.isEqual(section, maybeChorus)) {
       // Add a chorus
-      sectionsMap[SongSection.CHORUS] = maybeChorus!;
+      sectionsMap[SongSection.CHORUS()] = maybeChorus!;
 
       return;
     }
 
-    verses.push([`[${verseIndex++}]`, section].join(NEW_LINE));
+    verses.push([SongSection.VERSE(verseIndex++), section].join(NEW_LINE));
   });
 
-  sectionsMap[SongSection.SEQUENCE] = sectionsMap[SongSection.CHORUS]
+  sectionsMap[SongSection.SEQUENCE] = sectionsMap[SongSection.CHORUS()]
     ? _.range(1, _.size(verses) + 1)
-        .map((verse) => [verse, SequenceChar[SongSection.CHORUS]])
+        .map((verse) => [
+          [SequenceChar.VERSE, verse].join(EMPTY_STRING),
+          SequenceChar.CHORUS,
+        ])
         .flat()
         .join(SEQUENCE_SEPARATOR)
-    : _.range(1, _.size(verses) + 1).join(SEQUENCE_SEPARATOR);
+    : _.range(1, _.size(verses) + 1)
+        .map((verse) => [SequenceChar.VERSE, verse].join(EMPTY_STRING))
+        .join(SEQUENCE_SEPARATOR);
 
   const [firstVerse, ...restVerses] = verses;
 
@@ -108,8 +119,8 @@ ${uniqueSections
           `${CARRIAGE_RETURN}${NEW_LINE}`,
         ),
         firstVerse,
-        sectionsMap[SongSection.CHORUS]
-          ? [SongSection.CHORUS, sectionsMap[SongSection.CHORUS]].join(
+        sectionsMap[SongSection.CHORUS()]
+          ? [SongSection.CHORUS(), sectionsMap[SongSection.CHORUS()]].join(
               `${CARRIAGE_RETURN}${NEW_LINE}`,
             )
           : null,
@@ -127,21 +138,22 @@ export const rewriteByAddingBasicStructure = (
     .replaceAll('^(\r)\n', '\r\n')
     .replaceAll(SongSection.TITLE, EMPTY_STRING)
     .replaceAll(SongSection.SEQUENCE, EMPTY_STRING)
-    .replaceAll(SongSection.CHORUS, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_1, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_2, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_3, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_4, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_5, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_6, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_7, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_8, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_9, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_10, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_11, EMPTY_STRING)
-    .replaceAll(SongSection.VERSE_12, EMPTY_STRING)
+    .replaceAll(new RegExp(`\\[${SequenceChar.VERSE}.*\\]`, 'gi'), EMPTY_STRING)
+    .replaceAll(
+      new RegExp(`\\[${SequenceChar.CHORUS}.*\\]`, 'gi'),
+      EMPTY_STRING,
+    )
+    .replaceAll(
+      new RegExp(`\\[${SequenceChar.PRECHORUS}.*\\]`, 'gi'),
+      EMPTY_STRING,
+    )
+    .replaceAll(
+      new RegExp(`\\[${SequenceChar.BRIDGE}.*\\]`, 'gi'),
+      EMPTY_STRING,
+    )
+    .replaceAll(new RegExp(`\\[${SequenceChar.ENDING}\\]`, 'gi'), EMPTY_STRING)
     // Not sure how to fix this better
-    .split(process.env.NODE_ENV === 'test' ? /\n\n/gim : /\r\n\r\n/gim)
+    .split(isTestEnv() ? /\n\n/gim : /\r\n\r\n/gim)
     .filter(Boolean)
     .map(_.trim);
 

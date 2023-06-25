@@ -1,10 +1,10 @@
 [title]
-Tu ești Cel Tare! {Author: {Chris Tomlin}}
+Tu ești Cel Tare! {author: {Chris Tomlin}}
 
 [sequence]
-1,c,1,c,b,c
+v1,c,v1,c,b,c
 
-[1]
+[v1]
 /: Apa-i schimbat-o în vin,
 Ochi ai deschis orbilor,
 Tu ești Domnul minunilor
@@ -12,14 +12,14 @@ Tu ești Domnul minunilor
 Nu e nimic ce nu poți
 Chiar și-n beznă, strălucești. :/
 
-[chorus]
+[c]
 Tu ești cel tare,
 Ești cel mai mare.
 Ești Dumnezeu fără asemănare,
 Ești cel ce vindeci,
 Cu a Ta putere /: Isus! :/
 
-[bridge]
+[b]
 /: Cine ne stă împotrivă?
 Cine ne stă în cale?
 Nimic nu ne doboară,

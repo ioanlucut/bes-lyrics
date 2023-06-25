@@ -2,9 +2,9 @@
 E putere, e putere
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 /: E putere, e putere,
 E putere-n sângele Lui Isus Hristos! :/
 Nici dușmanul, nici dușmanul,
@@ -20,6 +20,6 @@ Călăuzit de Duhul Sfânt.
 /: Noi suntem biserica
 Fraților, fraților, fraților! :/
 
-[chorus]
+[c]
 /: Plin de Duh, plin de putere :/ e Isus!
 /: Plin de Duh, plin de putere :/ e Isus!

@@ -2,9 +2,9 @@
 Pe pământ avem o luptă
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Pe pământ avem o luptă
 Ce-n Cuvânt e arătată,
 Lupta credinței sfântă
@@ -15,7 +15,7 @@ Până Domnul va veni
 Căci prin orice încercare,
 Doar luptând vom birui.
 
-[chorus]
+[c]
 /: Hai, luptă, frate, luptă,
 Mai luptă, nu te da bătut!
 Spre țara luminii, înainte,
@@ -26,7 +26,7 @@ Până în zori de zi.
 Atunci primi-vei cununa
 Când Domnul va veni. :/
 
-[2]
+[v2]
 Pregătiți să fim de luptă,
 Scutul credinței să-l avem,
 Cu sabia Duhului ’nainte,
@@ -37,7 +37,7 @@ Să fie de-a pururi cu noi.
 Pe cap coiful mântuirii
 Și râvna Evangheliei.
 
-[3]
+[v3]
 În slavă eternă vor fi
 Acei ce au învins
 Și Domnul ne va da răsplata,

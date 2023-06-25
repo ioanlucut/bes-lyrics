@@ -2,32 +2,32 @@
 Se aude clar în depărtări
 
 [sequence]
-1,c,2,c,3,t
+v1,c,v2,c,v3,c2
 
-[1]
+[v1]
 Se aude clar în depărtări,
 Sunt ale cerului cântări,
 Care ne spun ca S-a născut,
 Acel ce n-are început.
 
-[chorus]
+[c]
 Din înalt răsună: Glorie Lui!
 Ce frumos răsună: Glorie Lui!
 Îngeri mii cum cântă: Glorie Lui și pace-n dar!
 
-[2]
+[v2]
 Dar azi, eu fruntea mi-am plecat,
 E lumea plină de păcat,
 Nu e nici pace, nu-i nici cânt,
 Nu-i bucurie pe pământ.
 
-[3]
+[v3]
 Un Prunc din slăvi, trimis să știi,
 El a făcut din noapte zi.
 Un cântec pentru cel salvat,
 Au pace cei ce l-au aflat!
 
-[chorus 2]
+[c2]
 Din înalt răsună: Glorie Lui!
 Ce frumos răsună: Glorie Lui!
 Îngeri mii cum cântă: Glorie Lui și pace-n dar!

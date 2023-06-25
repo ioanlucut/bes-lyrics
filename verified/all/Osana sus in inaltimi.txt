@@ -2,23 +2,23 @@
 Osana, sus în înălțimi
 
 [sequence]
-c,1,t,2
+c,v1,c2,v2
 
-[chorus]
+[c]
 /: Osana, osana,
 Osana, sus în înălțimi! :/
 
-[1]
+[v1]
 Doamne, noi Te slăvim
 Și din inimi cântăm,
 Fii slăvit, Domnul meu cel bun,
 Osana, sus în înălțimi!
 
-[chorus 2]
+[c2]
 Glorie, glorie,
 Glorie, Rege-al regilor!
 
-[2]
+[v2]
 Tu ești Rege și Domn,
 În putere domnești,
 Slava Ta se va descoperi,

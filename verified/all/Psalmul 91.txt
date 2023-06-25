@@ -2,22 +2,22 @@
 Psalmul 91
 
 [sequence]
-c,1,c,2,c,c
+c,v1,c,v2,c,c
 
-[1]
+[v1]
 Cel ce stă sub ocrotirea Celui Prea-nalt,
 La umbra Celui Atotputernic,
 Face din El loc de scăpare
 Căci Domnul sfânt
 /: E Dumnezeul meu în care mă-ncred. :/
 
-[chorus]
+[c]
 /: O mie să cadă alături de tine
 Și zece mii la dreapta ta de vor cădea,
 Cu ochii privește să vezi răsplătirea
 Acelui rău, doar harul Său te va salva. :/
 
-[2]
+[v2]
 Să nu te temi de groaza din
 Noaptea cea grea,
 Nici de săgeata ce zboară ziua,

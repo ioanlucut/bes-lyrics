@@ -2,21 +2,21 @@
 Voi binecuvânta pe Domnul în orice vreme
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Voi binecuvânta pe Domnul în orice vreme,
 Lauda Lui va fi totdeauna-n gura mea.
 Înălțați pe Domnul împreună cu mine,
 Să lăudăm cu toții numele Lui.
 
-[2]
+[v2]
 Eu am căutat pe Domnul și mi-a răspuns,
 M-a izbăvit din toate temerile mele.
 Înălțați pe Domnul împreună cu mine,
 Să lăudăm cu toții numele Lui.
 
-[3]
+[v3]
 Gustați și vedeți ce bun este Domnul,
 Ferice de omul care se încrede-n el.
 Înălțați pe Domnul împreună cu mine,

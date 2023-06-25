@@ -2,27 +2,27 @@
 El poate, El poate, Eu știu că poate
 
 [sequence]
-c,1,c,2,c,3,c
+c,v1,c,v2,c,v3,c
 
-[chorus]
-/: El poate, El poate, 
+[c]
+/: El poate, El poate,
 Eu știu că poate!
-Eu știu că Domnul poate-a 
+Eu știu că Domnul poate-a
 Mă duce-n cer! :/
 
-[1]
-El inimi vindecat-a, 
+[v1]
+El inimi vindecat-a,
 Captivi eliberând,
-A dat vedere orbilor, 
+A dat vedere orbilor,
 Bolnavii vindecând.
 
-[2]
-A dat la ai Săi putere 
+[v2]
+A dat la ai Săi putere
 Să fie martori vii
 Prin Duhul Său cel Sfânt,
 Le-a dat și multe bucurii.
 
-[3]
+[v3]
 Deci, suflete, grăbește
 Și vino la Isus!
 Căci bunul tău Păstor, Isus,

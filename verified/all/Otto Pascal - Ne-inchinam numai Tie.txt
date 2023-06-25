@@ -1,28 +1,28 @@
 [title]
-Ne-închinăm numai Ție {Author: {Otto Pascal}}
+Ne-închinăm numai Ție {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Mulțumesc, Isuse, pentru a Ta lucrare!
 Mulțumesc că ai venit în lumea mea!
 Tu ai adus, în schimbul vieții trecătoare,
 Mântuire și o viață Veșnică.
 
-[chorus]
+[c]
 Ne-închinăm numai Ție
 Căci din dragoste-ai ales să ne salvezi.
 Tu ești din veșnicie,
 Lumea noastră cu iubire-o luminezi. (2x)
 
-[2]
+[v2]
 Mulțumesc, Isus, de binecuvântare!
 Mulțumesc că mă păzești la orice pas!
 Cu-n cuvânt poți liniști și vânt și mare,
 Vreau să stau cu tine, e dorința mea.
 
-[3]
+[v3]
 Harul Tău e steaua ce îmi poartă pașii
 Spre căminul ce cu drag mi-ai pregătit.
 Nu va fi o iesle dincolo de aștrii,

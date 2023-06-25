@@ -1,16 +1,16 @@
 [title]
-Nu voi uita acel moment {Author: {Elim Harmony}}
+Nu voi uita acel moment {author: {Elim Harmony}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 /: Cândva trăiam :/ /: în mult păcat, :/
 /: Eram hoinar :/ /: și tulburat, :/
 /: Dar în genunchi :/ /: m-am prăbușit, :/
 Când l-am chemat, Domnul Dumnezeu m-a mântuit.
 
-[chorus]
+[c]
 Nu voi uita acel moment
 Când al meu suflet de povară a scăpat.
 Da, a scăpat!
@@ -18,7 +18,7 @@ Acum sunt liber, fericit,
 Îi cânt și-I strig:
 El este tot ce mi-am dorit!
 
-[2]
+[v2]
 /: Hai, vino acum :/ /: la Dumnezeu! :/
 /: Smerit să stai :/ /: la tronul Său. :/
 /: Păcatul tău :/ /: dacă i-L spui, :/

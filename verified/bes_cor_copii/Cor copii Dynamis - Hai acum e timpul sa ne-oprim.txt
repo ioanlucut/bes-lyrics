@@ -1,16 +1,16 @@
 [title]
-Hai acum e timpul să ne-oprim {Author: {Cor copii Dynamis}}
+Hai acum e timpul să ne-oprim {author: {Cor copii Dynamis}}
 
 [sequence]
-1,c,2,c,3
+v1,c,v2,c,v3
 
-[1]
+[v1]
 Hai acum, e timpul să ne-oprim,
 În Cuvânt cu toții să citim,
 Prin el Tatăl nouă ne va vorbi
 Cum să trăim!
 
-[chorus]
+[c]
 În el e scris despre Isus,
 Despre harul Său de necuprins,
 Despre a Lui IU-BI-I-RE
@@ -20,13 +20,13 @@ Despre o zi când va veni
 Să ne ia la cer și cu El vom fi,
 Toate acestea în Cuvânt le vom găsi.
 
-[2]
+[v2]
 Hai acum, e timpul să ne-oprim,
 În Cuvânt cu toții să citim,
 Prin el Tatăl nouă ne va vorbi
 Cum să iubim!
 
-[3]
+[v3]
 Hai acum, e timpul să ne-oprim,
 În Cuvânt cu toții să citim,
 Prin el Tatăl nouă ne va vorbi

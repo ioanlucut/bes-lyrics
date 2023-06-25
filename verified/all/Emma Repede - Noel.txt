@@ -1,21 +1,21 @@
 [title]
-Noel {Author: {Emma Repede}}
+Noel {author: {Emma Repede}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Primul Noel, un înger din cer
 A venit la păstorii, ce în câmp ei stăteau,
 Să le spună cu dor că-n al nopții fior
 S-a născut, într-o iesle, un Mântuitor!
 
-[chorus]
+[c]
 /: Noel, Noel, :/
 Azi S-a născut
 Regele-n Israel!
 
-[2]
+[v2]
 Spre cer au privit și o stea au zărit,
 Strălucind luminos, arătând pe Hristos!
 Ce mult ne-a iubit, El cu drag S-a smerit,

@@ -1,50 +1,50 @@
 [title]
-Psalm 136 {Author: {Ekklesia Arad}}
+Psalm 136 {author: {Ekklesia Arad}}
 
 [sequence]
-1,2,c,3,4,b,w,e
+v1,v2,c,v3,v4,b,b2,e
 
-[1]
+[v1]
 Cine-a-ntins pământul, ape-a ridicat?
 Laudă Lui! Laudă Lui!
 Prin a Sa putere, toate s-au creat.
 Laudă Lui! Laudă Lui!
 
-[2]
+[v2]
 Cine-a zis „lumină fie pe pământ”?
 Laudă Lui! Laudă Lui!
 Soarele și luna, Lui I se supun,
 Laudă Lui! Laudă Lui!
 
-[chorus]
+[c]
 În veci El e-ndurare!
 În veci El e iertare! Oo!
 În veci El e-ndurare!
 Laudă Lui!
 
-[3]
+[v3]
 Mari minuni El face, cerul a creat,
 Laudă Lui! Laudă Lui!
 Chiar în clipe grele, El nu ne-a uitat,
 Laudă Lui! Laudă Lui!
 
-[4]
+[v4]
 Cine-a-nvins dușmanul, lanțul l-a zdrobit?
 Laudă Lui! Laudă Lui!
 Pentru noi se luptă, viață am primit.
 Laudă Lui! Laudă Lui!
 
-[bridge]
+[b]
 /: Lăudați-L pe El, căci este Bun,
 Lăudați-L pe Cel ce e Domn!
 Lăudați-L pe El, e îndurător,
 Lăudați-L pe Cel ce e Rege! :/
 
-[bridge 2]
+[b2]
 Lăudați! Lăudați!
 Cântați! Cântați!
 
-[ending]
+[e]
 Cântați! Cântați! Laudă Lui!
 Cântați! Laudă Lui! (Laudă Lui! Laudă Lui! Laudă Lui!)
 Laudă Lui!

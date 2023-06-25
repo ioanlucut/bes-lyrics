@@ -2,24 +2,24 @@
 Aș vrea, Isuse-n viața mea
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Aș vrea, Isuse-n viața mea, să Te cunosc,
 Să Te cunosc mai mult.
 Aș vrea, Isuse-n viața mea, să Te cunosc.
 
-[2]
+[v2]
 Aș vrea, Isuse-n viața mea, Să Te iubesc,
 Să Te iubesc mai mult.
 Aș vrea, Isuse-n viața mea, să Te iubesc.
 
-[3]
+[v3]
 Aș vrea, Isuse-n viața mea, Să Te slujesc,
 Să Te slujesc mai mult.
 Aș vrea, Isuse-n viața mea, să Te slujesc.
 
-[4]
+[v4]
 Aș vrea, Isuse-n viața mea, să-Ți mulțumesc,
 Să-Ți mulțumesc mai mult.
 Aș vrea, Isuse-n viața mea, să-Ți mulțumesc.

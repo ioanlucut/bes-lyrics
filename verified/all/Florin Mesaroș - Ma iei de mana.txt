@@ -1,10 +1,10 @@
 [title]
-Mă iei de mână {Author: {Florin Mesaroș}}
+Mă iei de mână {author: {Florin Mesaroș}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 În toate se vede-a Ta îndurare,
 Și dragostea-Ți, toate o șoptesc.
 Iar stelele-mi spun, ce mare și bun,
@@ -20,13 +20,13 @@ Tu ești mereu cu mine, mereu pe drumul meu.
 Totul pare greu și-atunci când parcă simt,
 Că Doamne, nu mai pot.
 
-[chorus]
+[c]
 /: Mă iei de mână,
 Mă duci în Casa Ta, Doamne Sfânt!
 Mă ții de mână,
 Îmi spui că prin Tine voi birui! :/
 
-[2]
+[v2]
 Și peste anii ce-au trecut,
 Mereu cu mine ai fost,
 Când rătăcit băteam ades,

@@ -2,39 +2,39 @@
 Nimic nu sunt
 
 [sequence]
-1,c,2,t,3,b,c
+v1,c,v2,c2,v3,b,c
 
-[1]
+[v1]
 Nimic nu sunt, un strop de tină
 În care ai pus un bob de grâu.
 Un ciob în care aprinzi lumina,
 Pustiu din care Tu scoți un râu.
 
-[chorus]
+[c]
 Nimic nu sunt, o cupă spartă
 Din care faci un heruvim.
 Sunt omul care Te-a dat la moarte
 Fără să-mi pese de-al Tău suspin.
 
-[2]
+[v2]
 Nimic nu sunt, un rob netrebnic,
 Chemat ca jugul Tău să-l port.
 Să dau deoparte piatra cea rece
 Când Tu dai viață celui mort.
 
-[chorus 2]
+[c2]
 Nimic nu sunt, o trestie frântă
 Din care faci toiag de fier.
 O luminiță fumegândă
 Ce mâine fi-va o stea pe cer.
 
-[3]
+[v3]
 Nimic nu sunt, doar Tu ești totul
 Și Tu te-ai dat ca preț al meu
 Făcând din pieptul meu, chivotul
 Ce-L poartă în el pe Dumnezeu.
 
-[bridge]
+[b]
 Nimic nu sunt, nimic sub soare,
 Dar Tu Te-ai dat pentru nimic.
 În veci să fii mereu mai mare,

@@ -2,27 +2,27 @@
 Sfârșitul veacului trăim
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Sfârșitul veacului trăim,
 Cu luptă, ură și război
 Dar, fericiți, la cer privim,
 Nu e mult și vine Domnul iar la noi.
 
-[chorus]
+[c]
 /: El vine iar, El vine iar,
 Ce fericire negrăită,
 Se va sfârși al nopții chin amar
 Căci Domnul vine iar. :/
 
-[2]
+[v2]
 E cerul și pământul plin
 De semnele venirii Lui,
 Cuvântul Lui e „Da, Amin”,
 În El nicio umbră de schimbare nu-i.
 
-[3]
+[v3]
 Ce zi măreață, ce splendori,
 Când trâmbița va răsuna,
 Și Domnul va veni pe nori,

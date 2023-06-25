@@ -2,16 +2,16 @@
 Ce multe sunt ce nu-nțeleg
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Ce multe sunt ce nu-nțeleg,
 Ce multe-există ce nici nu văd,
 Dar una știu, și sunt sigur,
 Isus e-aici, îmi e aproape
 Oriunde sunt.
 
-[chorus]
+[c]
 Isus e viu, în mine e viu,
 Isus e viu!
 Prin jertfa Lui m-a câștigat!
@@ -19,14 +19,14 @@ Mă iubește, sunt fericit,
 M-a eliberat,
 Isus e viu, în mine e viu!
 
-[2]
+[v2]
 Mulți îndoielnici și-ngrijorați,
 Ce-i vezi pe drum în deznădejdi,
 Eu sunt voios cu mine-i El
 Și când sunt slab, chiar în dureri,
 Cu mine e.
 
-[3]
+[v3]
 Și dacă vrei să-L ai și tu,
 Mântuitor în viața ta,
 Să vii la El, așa cum ești!

@@ -2,15 +2,15 @@
 Ce-ai găsit, Doamne, la mine
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Pribegeam cândva departe
 Rătăcind pe căi, în noapte.
 Dar Tu, Doamne, m-ai iubit,
 M-ai salvat, Isus de moarte.
 
-[chorus]
+[c]
 Ce-ai găsit, Doamne, la mine?
 N-am nimic bun, nici frumos,
 Ai venit din înălțime
@@ -20,7 +20,7 @@ Că așa mult m-ai iubit,
 Ai lăsat chiar slăvi divine
 Și în brațe m-ai primit.
 
-[2]
+[v2]
 Într-o zi, împins de gloate,
 Te-am văzut cu crucea în spate
 Și-am strigat, în rând cu toți:
@@ -30,7 +30,7 @@ De sub fruntea-Ți sângerândă,
 Mă chemau doi ochi senini
 Și-o privire-atât de blândă.
 
-[3]
+[v3]
 Plâng de-atunci și mi-e rușine
 Și Te caut mereu, Străine.
 Căci mi-e dor, mi-e dor, mi-e dor

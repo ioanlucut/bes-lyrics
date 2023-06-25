@@ -2,9 +2,9 @@
 Toți avem nevoie
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Toți avem nevoie
 De dragoste curată,
 Prin mila Ta de sus.
@@ -12,7 +12,7 @@ Cu toții vrem iertare
 Și bunătatea-Ți mare,
 Speranța lumii
 
-[chorus]
+[c]
 Doamne, Tu ce miști chiar munții,
 Ești un măreț Salvator,
 Ești măreț Salvator!
@@ -20,7 +20,7 @@ Veșnic, ai dat salvare lumii
 Și-ai înviat dintre morți,
 Înviat dintre morți.
 
-[2]
+[v2]
 Primește-mă cum sunt,
 Eu las la Crucea Ta
 Povara mea cea grea.
@@ -28,9 +28,9 @@ Povara mea cea grea.
 Tot ce eu trăiesc,
 Mă dăruiesc azi.
 
-[bridge]
+[b]
 Lasă gloria peste-ntreg pământ,
-Cântă pentru slava 
+Cântă pentru slava
 Celui veșnic sfânt, Doamne!
 Lasă gloria peste-ntreg pământ,
 Cântă pentru slava Celui veșnic sfânt.

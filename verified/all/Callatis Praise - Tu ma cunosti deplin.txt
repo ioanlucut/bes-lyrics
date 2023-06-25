@@ -1,16 +1,16 @@
 [title]
-Tu mă cunoști deplin {Author: {Callatis Praise}}
+Tu mă cunoști deplin {author: {Callatis Praise}}
 
 [sequence]
-1,2
+v1,v2
 
-[1]
+[v1]
 /: Tu mă cunoști deplin, Isus,
 Și gândul mi-L pătrunzi, Isus.
 Pe brațul Tău mă ții, Isus,
 Cunoaște-mi inima. :/
 
-[2]
+[v2]
 /: Adânc plecat în fața Ta,
 Mă copleșește prezența Ta.
 Ești Dumnezeu și Te slăvesc,

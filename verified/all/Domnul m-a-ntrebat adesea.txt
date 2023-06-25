@@ -2,9 +2,9 @@
 Domnul m-a-ntrebat adesea
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Domnul m-a-ntrebat adesea:
 „Vrei să fii voios?”
 Dacă da, atunci, primește-L
@@ -15,7 +15,7 @@ Eu L-am ascultat
 Pace sfântă, bucurie-n suflet
 El mi-a dat.
 
-[chorus]
+[c]
 /: Aleluia! Aleluia!
 Imnurile bucuriei
 Sună ne-ncetat.
@@ -23,7 +23,7 @@ Aleluia! Aleluia!
 Pacea Sa cea minunată,
 Pentru veci mi-a dat. :/
 
-[2]
+[v2]
 Astăzi, chem pe cei ce-n lume
 Nu sunt fericiți,
 Toți cei plini de mari păcate
@@ -34,7 +34,7 @@ Sângele Lui sfânt
 Schimbă gândul, vorba, fapta,
 Prin al Său Cuvânt.
 
-[3]
+[v3]
 Dacă vrei și tu, amice,
 Poți să Îl primești.
 Inima ta ți-o deschide

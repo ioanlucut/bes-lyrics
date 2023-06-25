@@ -2,20 +2,20 @@
 Domnului mulțumiți căci este bun
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Domnului mulțumiți căci este bun,
 Domnului mulțumiți căci este bun,
 Că adevărul Său ține-n veci de veci,
 Cheamă-i numele Său Cel Sfânt.
 
-[chorus]
+[c]
 Bucurați-vă, bucurați-vă,
 Cei ce-L caută pe Isus
 Să se bucure.
 
-[2]
+[v2]
 Spune-ți popoarelor ce a făcut,
 Spune-ți popoarelor ce a făcut,
 De lucrarea Sa, de-ale Sale lucrări,

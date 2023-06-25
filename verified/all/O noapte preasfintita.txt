@@ -2,9 +2,9 @@
 O, noapte preasfințită
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 O, noapte preasfințită!
 Toate-s în odihnă, toți dorm,
 Numai părinții sfinți
@@ -12,7 +12,7 @@ Stau veghind lângă al lor iubit.
 Dormi și Tu, o Prunc sfânt,
 Dormi și Tu, o Prunc sfânt.
 
-[2]
+[v2]
 O, noapte preasfințită!
 Glas îngeresc răsună.
 Auzi din cer : „Aleluia !”
@@ -20,7 +20,7 @@ Acest cuvânt, o, cum răsună:
 Hristos ne mântuiește!
 Hristos ne mântuie!
 
-[3]
+[v3]
 O, noapte preasfințită!
 Saltă, o, inimă,
 Acum Fiul Lui Dumnezeu

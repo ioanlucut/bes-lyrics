@@ -2,21 +2,21 @@
 Domnul în ceruri domnește
 
 [sequence]
-1,p,c,1,p,c
+v1,p,c,v1,p,c
 
-[1]
+[v1]
 Domnul în ceruri domnește,
 Pe tron e așezat,
 Plin de mărire și-n slavă
 E îmbrăcat.
 
-[prechorus]
+[p]
 Noi toți, cu sfinte podoabe,
 Stăm în prezența Sa
 Și-n timp ce Îi vom cânta
 Slava Lui vom vedea.
 
-[chorus]
+[c]
 /: Căci Domnu-i bun, El în veci iubește,
 Îndurarea Lui nu se va sfârși.
 Spre-ai Săi copii El cu drag privește

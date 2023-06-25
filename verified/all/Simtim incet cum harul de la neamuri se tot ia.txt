@@ -2,9 +2,9 @@
 Simțim încet cum harul de la neamuri se tot ia
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Simțim încet cum harul de la neamuri se tot ia,
 Aproape gata-i ușa a se-ncuia.
 Mai mici sunt bucuriile
@@ -15,12 +15,12 @@ Poporule, păstrează dar
 Credința ce-ai primit,
 Păstrează nostalgia cercetării ce-ai primit!
 
-[chorus]
+[c]
 Fecioară, așteptarea,
 În curând se va sfârși.
 Veghează, că-n curând El va veni!
 
-[2]
+[v2]
 Smochinul care,
 Două mii de ani a fost uscat,
 Smochinul blestemat iar rod a dat.
@@ -31,7 +31,7 @@ A nașterii durere simte omenirea iar,
 Dar iarăși fericirea
 Vine dup-acest amar.
 
-[3]
+[v3]
 Uleiul și candela să veghezi ca să le ai
 Și doctorie pentru ochi să-ți iei.
 Fecioară, îți ridic-apoi

@@ -2,9 +2,9 @@
 Din țesuturi nevăzute
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Din țesuturi nevăzute,
 Din celule mii și mii,
 O făptură minunată m-ai creat.
@@ -13,14 +13,14 @@ Fenomene și-energii,
 Le-ai pus în mișcare,
 Doamne Prea-Înalt!
 
-[chorus]
+[c]
 /: Dintr-o mână de țărână
 Cu iubire m-ai creat,
 Mi-ai dat, Doamne, chipul Tău,
 Chipul frumos din Dumnezeu.
 O, ce minunat, o ce minunat! :/
 
-[2]
+[v2]
 Decât orice vietate
 Mai presus m-ai așezat,
 Și m-ai întocmit
@@ -29,7 +29,7 @@ Te voi lăuda în toate de acum
 Și până-n veac,
 Veșnic și Atotputernic Împărat.
 
-[3]
+[v3]
 O știință minunată
 Mai presus de-orice puteri,
 Mă cutremur, Doamne, atunci

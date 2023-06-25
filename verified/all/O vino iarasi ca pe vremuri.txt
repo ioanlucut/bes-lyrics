@@ -2,27 +2,27 @@
 O, vino iarăși ca pe vremuri
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 O, vino iarăși ca pe vremuri,
 Coboară iarăși pe pământ.
 O, vino iarăși între oameni,
 O, vino, Duh, o, Duh Preasfânt!
 
-[chorus]
+[c]
 Ne e inima de doruri plină,
 Să Te vedem cum iarăși vii,
 Copiii Tăi demult suspină
 Să vii la noi, să vii, să vii!
 
-[2]
+[v2]
 Ah, adu Tu înviorarea
 Și primăvara Ta, Isus.
 Redeșteptarea și unirea
 Ce-nalță tot mai sus, mai sus.
 
-[3]
+[v3]
 Iar chipul nostru să arate,
 În veci, al Tatălui chip sfânt,
 Să fie voia Ta în toate,

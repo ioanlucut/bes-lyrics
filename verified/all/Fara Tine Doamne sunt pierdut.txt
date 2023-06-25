@@ -2,9 +2,9 @@
 Fără Tine, Doamne, sunt pierdut
 
 [sequence]
-1,c,1,c,b,c
+v1,c,v1,c,b,c
 
-[1]
+[v1]
 Fără Tine, Doamne, sunt pierdut,
 Fără Tine-aș fi murit demult.
 Sunt al Tău, doar Ție-Ți aparțin,
@@ -15,12 +15,12 @@ Să pot sta în fața Ta, Isus.
 Harul îmi conduce inima
 Astăzi, Tată, în prezența Ta.
 
-[chorus]
+[c]
 /: Tu ești Rege peste inima mea,
 Tu ești Rege peste sufletul meu,
 Tu ești Rege peste viața mea, Isus! :/
 
-[bridge]
+[b]
 Fără Tine eu sunt doar țărână,
 Fără Tine viață nu am, Isus.
 Fără Tine nu știu ce-i iubirea,

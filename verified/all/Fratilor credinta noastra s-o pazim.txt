@@ -2,27 +2,27 @@
 Fraților, credința noastră s-o păzim!
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Fraților, credința noastră s-o păzim!
 De pe drumul crucii să nu rătăcim,
 De pe calea sfântă, să nu dăm ’napoi,
 Facă Domnul ce-o vrea să facă cu noi.
 
-[chorus]
+[c]
 Suntem gata ca să ne jertfim!
 Pentru Domnul chiar să și murim!
 /: A noastră cetate nu e pe pământ,
 Este sus în ceruri, e la Tatăl sfânt. :/
 
-[2]
+[v2]
 Nu ne este frică de nici un dușman,
 Mergem cu-ndrăzneală înspre Canaan
 Și-n credința noastră, sta-vom neclintiți
 Cu Avraam și Iacov, ai noștri părinți.
 
-[3]
+[v3]
 Dacă ne-ar închide ca pe Daniel,
 Ne va scăpa Domnul sfânt, Emanuel,
 Chiar în strâmtoare El va fi cu noi,

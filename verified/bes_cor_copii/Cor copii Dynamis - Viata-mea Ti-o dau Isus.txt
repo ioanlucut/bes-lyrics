@@ -1,22 +1,22 @@
 [title]
-Viața-mea Ți-o dau Isus {Author: {Cor copii Dynamis}}
+Viața-mea Ți-o dau Isus {author: {Cor copii Dynamis}}
 
 [sequence]
-p,c,t,c
+p,c,c2,c
 
-[prechorus]
+[p]
 /: Viața mea Ți-o dau Isus
 Căci m-ai creat,
 Sunt al Tău pentru veci,
 Eu sunt al Tău! :/
 
-[chorus]
+[c]
 /: Slavă, Isus din cer de sus
 Ai venit azi la noi.
 Noi azi Te glorificăm și-Ți lăudăm
 Minunată jertfa Ta! :/
 
-[chorus 2]
+[c2]
 /: Azi, înaintea venim,
 Darul nost’ să Ți-l dăm.
 Inima, să fie-a Ta! :/

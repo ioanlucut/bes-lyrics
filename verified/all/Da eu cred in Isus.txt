@@ -2,21 +2,21 @@
 Da, eu cred în Isus
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Da, eu cred în Isus,
 Cred că El e Fiul Lui Dumnezeu,
 Cred că a murit și-a înviat,
 Prețul pentru noi a plătit.
 
-[chorus]
+[c]
 Cred că El e prezent
 Între noi aici,
 Pe bolnavi vindecând
 Și păcate iertând.
 
-[2]
+[v2]
 Da, eu cred în Tine,
 Cred că Tu ești Fiul Lui Dumnezeu,
 Cred că ai murit și-ai înviat,

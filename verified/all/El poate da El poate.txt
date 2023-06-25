@@ -2,15 +2,15 @@
 El poate, da, El poate
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 El poate, da, El poate
 Să poarte povara mea chiar azi.
 El poate, da, El poate
 Să m-ajute pe calea mea chiar azi.
 
-[chorus]
+[c]
 El poate, da, El poate
 Să facă mai mult
 Decât aș putea visa,

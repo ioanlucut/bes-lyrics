@@ -2,13 +2,13 @@
 Binecuvântează suflete
 
 [sequence]
-c,1,c,1
+c,v1,c,v1
 
-[chorus]
+[c]
 /: Binecuvântează, suflete, pe Domnul tău,
 Nu uita niciuna din binefacerile Lui. :/
 
-[1]
+[v1]
 /: Căci El îți iartă făr’delegea ta,
 Vindecare-n dar îți dă
 Și-n veci mântuirea. :/

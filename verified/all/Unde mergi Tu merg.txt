@@ -2,26 +2,26 @@
 Unde mergi Tu, merg
 
 [sequence]
-c,1,c,2,c,e
+c,v1,c,v2,c,e
 
-[chorus]
+[c]
 Unde mergi Tu, merg.
 Ce spui Tu, rostesc, Isus.
 Cum Te rogi, mă rog.
 Cum Te rogi, mă rog. (2x)
 
-[1]
+[v1]
 Isus a-mplinit tot ce Tu I-ai spus,
 Isus a vorbit doar al Tău Cuvânt,
 Fiecare pas în Tine a umblat
 Duhul Tău cel Sfânt L-a călăuzit.
 
-[2]
+[v2]
 Cum să merg, Isuse, fără Tine?
 Când orice pas al Tău a fost supunere?
 Iar, viața fără Tine sens nu are,
 Căci numai Tu ești vrednic
 Și de-a pururi buni!
 
-[ending]
+[e]
 Cum să merg, Isuse, fără Tine?

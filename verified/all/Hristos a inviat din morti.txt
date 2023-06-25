@@ -2,9 +2,9 @@
 Hristos a înviat din morți
 
 [sequence]
-1
+v1
 
-[1]
+[v1]
 Hristos a înviat din morți
 Cu moartea pe moarte câlcând
 Și celor din morminte,

@@ -2,27 +2,27 @@
 Ce minunat, ce glorios
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Prezența Lui mă uimește,
 De Domnul sunt copleșit.
 Smerit de atâta iubire
 Cât mie mi-a oferit.
 
-[chorus]
+[c]
 Ce minunat, ce glorios,
 Ne-ncetat Îi voi cânta!
 Ce minunat, ce glorios,
 M-a salvat iubirea Sa!
 
-[2]
+[v2]
 Mi-a șters deplin tot păcatul,
 Povara El mi-a purtat.
 La cruce vina mi-a luat,
 Tot chinul El l-a-ndurat.
 
-[3]
+[v3]
 Cândva, în cer voi ajunge,
 Iar Eu fața Îi voi vedea.
 Bucuros cu El peste veacuri,

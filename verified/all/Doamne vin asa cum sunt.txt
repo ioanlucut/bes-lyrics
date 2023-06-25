@@ -2,16 +2,16 @@
 Doamne, vin așa cum sunt
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Doamne, vin așa cum sunt,
 Din inimă vreau să Îți cânt,
 Cu tot ce am Te preamăresc
 Și sufletul ți-L dăruiesc.
 
-[chorus]
+[c]
 Vorbește-mi, Tu, prin Duhul Tău,
 Vindecă prin cuvântul Tău,
-Du-mă-n templul Tău cel sfânt, 
+Du-mă-n templul Tău cel sfânt,
 Domnul meu!

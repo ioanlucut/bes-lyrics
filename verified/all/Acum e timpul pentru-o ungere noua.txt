@@ -2,16 +2,16 @@
 Acum e timpul pentru-o ungere nouă
 
 [sequence]
-1,c,2,c,e
+v1,c,v2,c,e
 
-[1]
+[v1]
 Acum e timpul pentru-o ungere nouă,
 Acum e timpul pentru-o revărsare proaspătă.
 Ca fii și fiice ale
 Regelui, noi azi ne ridicăm
 Declarăm:
 
-[chorus]
+[c]
 /: Aceasta e :/ (3x)
 Ziua Domnului.
 /: Mă voi bucura: :/ (3x)
@@ -19,7 +19,7 @@ Este ziua Ta.
 /: Aceasta e :/ (3x)
 Ziua Domnului.
 
-[2]
+[v2]
 La început Domnul a creat
 Și pentru Slava Lui creația cântă-n cor.
 Fiecare fiu și fiică,
@@ -28,7 +28,7 @@ Fiecare fiu și fiică,
 Domnul ne ridică-n acest neam.
 Declarăm:
 
-[ending]
+[e]
 Lasă Gloria Ta să curgă acum
 Și să umple-ntreg pământ
 Declarăm:

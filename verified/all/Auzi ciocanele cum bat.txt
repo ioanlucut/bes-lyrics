@@ -2,33 +2,33 @@
 Auzi ciocanele cum bat
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Auzi ciocanele cum bat,
 Acolo sus, pe deal, ciudat.
 Și bat ciocanele mereu
 În Fiul Sfânt de Dumnezeu.
 
-[chorus]
+[c]
 /: Pentru mine, pentru tine,
 Pentru noi, la Golgota, ciocanele bat.
 Pentru mine, pentru tine,
 Pentru noi, Domnul Isus viața și-a dat. :/
 
-[2]
+[v2]
 Când crucea grea au ridicat,
 Cu Cel ce-a fost nevinovat,
 Cu sulița-n coastă I-au dat
 Și sânge-a curs nevinovat.
 
-[3]
+[v3]
 Sfinții în cer toți s-au unit
 Și la Golgota au privit
 Cu ei și bunul Dumnezeu
 Privea cum moare Fiul Său.
 
-[4]
+[v4]
 Așa pe cruce cum a stat
 La Tatăl Sfânt El a strigat:
 „Iartă-i, Tu, Tată Preaînalt,

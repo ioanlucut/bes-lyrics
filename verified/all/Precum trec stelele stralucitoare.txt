@@ -2,27 +2,27 @@
 Precum trec stelele strălucitoare
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Precum trec stelele strălucitoare,
 De raza soarelui dimineața,
 Așa vei trece de-aici, lăsând toate,
 Dar, ce Lui Isus făcut-ai, va sta.
 
-[chorus]
+[c]
 Asta rămâne, nu veștejește,
 Ce pentru Isus ai făcut va sta.
 Căci tu vei trece de-aici, lăsând toate,
 Dar, ce Lui Isus făcut-ai, va sta.
 
-[2]
+[v2]
 De lucrul tău, altul se va bucura,
 Pe tine, uitarea te v-aștepta.
 Chiar de-ai semănat, tu nu vei secera,
 Dar, ce Lui Isus ai făcut, va sta.
 
-[3]
+[v3]
 Serv credincios, cel ce bine ai luptat,
 Sub grele sarcini, tu nu te-ai lăsat.
 Te vei repauza, dar, ceea ce-ai plantat,

@@ -1,10 +1,10 @@
 [title]
-Oare cum va fi în Slavă? {Author: {Damaris Căuneac}}
+Oare cum va fi în Slavă? {author: {Damaris Căuneac}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Oare cum va fi în slavă
 Pe-nălțimea cerului
 Când vom sta față-n față
@@ -15,7 +15,7 @@ Da, știm, ziua nu-i departe
 El, nădejdea noastră vie,
 În curând cu El vom fi.
 
-[chorus]
+[c]
 Vom vedea Ierusalimul dorit
 Ce ne-a fost de Tatăl pregătit.
 Vom înălța cântarea, imnul preaslăvit,
@@ -23,7 +23,7 @@ Cu El pururi vom rămâne
 Dincolo de zări,
 Pe culme, în veșnicii.
 
-[2]
+[v2]
 Oare cum va fi în slavă,
 Pe Isus Îl vom privi?
 Vom putea rosti cuvinte
@@ -34,7 +34,7 @@ Oare cum va fi cântarea
 Vom putea rosti cuvinte
 Sau tăcerea va domni?
 
-[3]
+[v3]
 Oare cum va fi cântarea
 Celor sfinți ce-au biruit
 Și în viața lor, pe Isus,

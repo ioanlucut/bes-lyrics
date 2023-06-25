@@ -2,27 +2,27 @@
 Medicul bun se-apropie
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Medicul bun se-apropie,
 Preotul mare Isus
 Bucurie ne-aduce,
 Scăpare numai în Isus.
 
-[chorus]
+[c]
 Auzi cum îngerii cântă,
 O, ce glas dulce sună.
 Cântă și tu, inimă,
 Isus, Isus, Isus.
 
-[2]
+[v2]
 Cel ce a șters al nost’ păcat,
 Acela e numai Isus.
 Și la cer El s-a înălțat,
 Să ne cunune, El Isus.
 
-[3]
+[v3]
 Pentru noi a răbdat crucea,
 Laudă fie Lui Isus,
 Și credem în EL ca-mpărat

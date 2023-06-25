@@ -2,37 +2,37 @@
 Ce mult aștept aceea zi
 
 [sequence]
-1,2,3,4,5,6
+v1,v2,v3,v4,v5,v6
 
-[1]
+[v1]
 Ce mult aștept aceea zi
 Când Tu din slavă vei veni,
 /: Cu Tine, Doamne-n veci să fim
 Și să nu ne mai despărțim,
 Și să nu ne mai despărțim. :/
 
-[2]
+[v2]
 Să ne-ntâlnim cu toții în nor,
 Împreună frați și surori.
 /: Și să zburăm spre veșnicii
 Către eterne bucurii,
 Către eterne bucurii. :/
 
-[3]
+[v3]
 O, Doamne-adu acei zori,
 Acele veșnice splendori.
 /: Aceea zi noi o dorim
 Și de departe o zărim,
 Și de departe o zărim. :/
 
-[4]
+[v4]
 Ajută-ne în încercări,
 Stai lângă noi în întristări,
 /: Să ne păstrăm, Doamne, curați,
 Până la cer vom fi luați,
 Până la cer vom fi luați. :/
 
-[5]
+[v5]
 Ierusalim, oraș ceresc,
 Locaș preasfânt, dumnezeiesc,
 Îmi arde doru-aprins în piept
@@ -40,7 +40,7 @@ Locaș preasfânt, dumnezeiesc,
 Mi-așa de dor, mi-așa de dor,
 /: Spre Tine-odată vreau să zbor. :/
 
-[6]
+[v6]
 Aș vrea să zbor spre-acele zări,
 Să uit de lacrimi și dureri,
 În strălucirea de nespus,

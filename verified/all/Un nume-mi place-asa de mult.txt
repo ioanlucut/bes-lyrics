@@ -2,27 +2,27 @@
 Un nume-mi place-așa de mult
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Un nume-mi place-așa de mult,
 Îl pomenesc mereu.
 Aș vrea întruna să-L ascult,
 Chiar când drumul e greu.
 
-[chorus]
+[c]
 El e Isus Hristos,
 Pe El eu Îl iubesc,
 El e cel mai frumos,
 E Mirele ceresc.
 
-[2]
+[v2]
 Cuvântul Lui spune așa
 Către cel osândit,
 Căci Isus, sus pe Golgota,
 Pentru noi S-a jertfit.
 
-[3]
+[v3]
 În numele Lui azi mă-nchin
 Și-L rog pe Tatăl sfânt,
 Să-mi dea din Duhul Său divin,

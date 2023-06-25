@@ -2,27 +2,27 @@
 N-ai asemănare
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 N-ai asemănare,
 Nici în cer, nici pe pământ,
 Nici în măreție,
 Nici în fapte și cuvânt.
 
-[chorus]
+[c]
 /: Îți cântăm: „Osana!”
 Dumnezeule slăvit,
 Pentru mântuirea,
 Ce-n Isus ne-ai dăruit. :/
 
-[2]
+[v2]
 Orișicine vine,
 Și renunță la păcat,
 În Isus găsește,
 Un prieten minunat.
 
-[3]
+[v3]
 Orișicine crede,
 Nu va fi respins nicicând
 Are mântuire,

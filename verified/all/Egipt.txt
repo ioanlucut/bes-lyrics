@@ -2,16 +2,16 @@
 Egipt
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Nu voi uita minunea ce-ai făcut-o
 În viața mea, robia Tu ai smuls-o.
 Prin Tine sunt liber,
 Chiar și prin ape Tu m-ai păzit.
 O, Yahve!
 
-[chorus]
+[c]
 Tu ești Domn în bătălii,
 Victorios mereu vei fi.
 Aleluia, Aleluia!
@@ -19,14 +19,14 @@ Marea Tu ai despărțit,
 Prin adânc m-ai ocrotit.
 Aleluia, Aleluia!
 
-[2]
+[v2]
 Un stâlp de nor, semn de călăuzire.
 Un stâlp de foc să știu că ești cu mine.
 Prin Tine sunt liber,
 Chiar și prin ape Tu m-ai păzit.
 O, Yahve!
 
-[bridge]
+[b]
 Tu mi-ai înfrânt Egiptul, de mână m-ai luat,
 M-ai scos în libertate spre locul cel promis.
 Nu voi uita vreodată, mereu voi proclama:

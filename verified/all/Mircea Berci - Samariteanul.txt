@@ -1,10 +1,10 @@
 [title]
-Samariteanul {Author: {Mircea Berci}}
+Samariteanul {author: {Mircea Berci}}
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 În zori de zi când ai trecut,
 La margine de drum, căzut, eram
 Și atunci când eu nici nu gândeam,
@@ -16,7 +16,7 @@ Privirea-I blândă, o, ce mult mi-a spus!
 Că mai primește-un păcătos
 Și m-am convins, era Isus. :/
 
-[2]
+[v2]
 Lovit de-al lumii greu păcat,
 Eu nu credeam că pot vreodat’ să fiu salvat.
 Nu aveam o țintă-n drumul meu,
@@ -28,7 +28,7 @@ Că nu mai am în lume rost nicicând
 Și m-a luat cu El, m-a dus,
 Și m-am convins, era Isus. :/
 
-[3]
+[v3]
 Nu cred că poate un om la fel
 Să facă-asemenea ca El, c-un păcătos:
 Să ierte tot ce i-a greșit,

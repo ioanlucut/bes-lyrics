@@ -2,27 +2,27 @@
 Dă-mi, Doamne, ochi să-i văd pe copii
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Dă-mi, Doamne, ochi să-i vad pe copii,
 Fă-mi viața lumină spre veșnicii.
 Să iubesc ca Tine un suflet pierdut,
 Al Tău serv credincios să fiu tot mai mult.
 
-[2]
+[v2]
 Dă-mi, Doamne, suflet, un dor nesecat,
 Să îi învăț pe copii neîncetat,
 Să le fiu martor prin tot ce rostesc,
 Dă-mi, Tu, putere, prin Duhul ceresc.
 
-[3]
+[v3]
 Arată-mi calea pe care s-alerg,
 Dă-mi, Tu, mesajul cu care să merg
 Și-mbracă-mă cu putere de sus,
 Prin tot ce am să-L vestesc pe Isus!
 
-[4]
+[v4]
 Dar mai presus de orice, ruga mea
 E să-mi înalț ochii spre fața Ta
 Și-n ascultare apoi să pornesc,

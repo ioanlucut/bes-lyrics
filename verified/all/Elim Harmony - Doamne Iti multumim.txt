@@ -1,10 +1,10 @@
 [title]
-Doamne, Îți mulțumim {Author: {Elim Harmony}}
+Doamne, Îți mulțumim {author: {Elim Harmony}}
 
 [sequence]
-1,b,c,w,c
+v1,b,c,b2,c
 
-[1]
+[v1]
 Tot ce e viu pe pământ
 Lui Dumnezeu să-I cânte,
 Căci bun e numai El!
@@ -12,17 +12,17 @@ Cu mulțumiri intrați pe porți,
 În curtea Lui cu laude
 Căci Domn e numai El!
 
-[bridge]
+[b]
 /: Căci Tu ești bun, ești iubitor
 Din veșnicii neschimbător! :/
 
-[chorus]
+[c]
 Doamne-Ți mulțumim, Doamne-Ți mulțumim
 Căci tot ce ești și faci e minunat!
 Doamne, Te slăvim, Doamne, Te slăvim
 Căci tot ce ești și faci e minunat!
 Minunat...
 
-[bridge 2]
+[b2]
 Nu-i cuvânt să poată spune cât Îți mulțumim,
 Putem doar să ne închinăm smeriți.

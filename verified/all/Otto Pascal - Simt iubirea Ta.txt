@@ -1,20 +1,20 @@
 [title]
-Simt iubirea Ta {Author: {Otto Pascal}}
+Simt iubirea Ta {author: {Otto Pascal}}
 
 [sequence]
-1,b,c,2,c
+v1,b,c,v2,c
 
-[1]
+[v1]
 Priveam înspre pământ, omul cel de rând
 Și trudea din greu pentru hrana lui,
 Dar în ochii stinși dor adânc era
 După Dumnezeu și iubirea Sa.
 
-[bridge]
+[b]
 Căutăm ades pe pământ iubirea
 Și tânjim să ne iubească cineva.
 
-[chorus]
+[c]
 O, dar nimeni nu-i ca Tine, Isuse,
 Dragostea Ta m-a copleșit.
 Dorul Tău etern mă cuprinde,
@@ -24,7 +24,7 @@ Tot așa ți-o poate lua-napoi,
 Dar Tu niciodată nu ai trădat
 O, o, simt iubirea Ta, scumpe Isus!
 
-[2]
+[v2]
 Aștept o nouă zi, știu că mi-a promis
 C-un cămin în cer îmi va pregăti.
 Fiecare ceas mă gândesc la el

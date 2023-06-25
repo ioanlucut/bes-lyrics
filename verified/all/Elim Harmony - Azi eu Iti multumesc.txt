@@ -1,23 +1,23 @@
 [title]
-Azi, eu Îți mulțumesc {Author: {Elim Harmony}}
+Azi, eu Îți mulțumesc {author: {Elim Harmony}}
 
 [sequence]
-c,1,c,2
+c,v1,c,v2
 
-[chorus]
+[c]
 /: Azi, eu Îți mulțumesc
 Pentru tot ce faci.
 Sunt fericit căci viață-am primit.
 Isus, Îți mulțumesc! :/
 
-[1]
+[v1]
 Mulțumesc fiindcă m-ai purtat, mereu m-ai ajutat
 Și prin încercări sau provocări, Tu, singur nu m-ai lăsat.
 Mereu ești lângă mine, când mă rog, Tu ești prezent.
 Și chiar din primul ceas, Tu, prieten mi-ai rămas,
 De-aceea-Ți mulțumesc!
 
-[2]
+[v2]
 Îți mulțumesc pentru astăzi, pentru tot ce va veni,
 Fiindcă, în orice zi, Te pot slăvi, sunt binecuvântat!
 Nu voi uita vreodată, cum viața întreagă mi-ai schimbat,

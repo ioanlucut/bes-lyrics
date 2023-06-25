@@ -2,9 +2,9 @@
 Privind azi spre cerul albastru
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Privind azi spre cerul albastru,
 Spre bolta senină, mă întreb
 De vine azi Mântuitorul
@@ -14,7 +14,7 @@ Privește o clipă spre noi,
 Când gemem și pasul se afundă
 În lumea de chin și nevoi.
 
-[chorus]
+[c]
 /: O vino, vino, vino,
 Atâția te așteaptă
 Să-ți spună a lor durere,
@@ -22,7 +22,7 @@ Sunt cei ce n-au pe nimeni,
 Iar inima li-e plină
 De multă trudă și întristare. :/
 
-[2]
+[v2]
 Te așteaptă bolnavii în spitale,
 Te așteaptă orfanii ce plâng,
 Te așteaptă și inimi zdrobite,
@@ -32,7 +32,7 @@ Ce în lipsuri, durere și chin,
 Își înalță privirile duse
 Spre țărmul etern și senin.
 
-[3]
+[v3]
 Te așteaptă omenirea întreagă
 Ce simte că merge spre rău.
 Se zbate, se înfundă, se încheagă,

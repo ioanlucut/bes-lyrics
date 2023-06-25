@@ -2,33 +2,33 @@
 Dulce e iubirea sfântă
 
 [sequence]
-1,c,2,c,3,t
+v1,c,v2,c,v3,c2
 
-[1]
+[v1]
 Dulce e iubirea sfântă
 Și Cuvântul e sublim!
 Viața tot mereu ne-ncântă,
 Când cu Domnul biruim.
 
-[chorus]
+[c]
 /: Pot să se sfărâme munții,
 În adâncul mărilor,
 De nimica nu ne temem
 Cu al nostru Salvator. :/
 
-[2]
+[v2]
 De-i credința temelie,
 Ca o stâncă de granit,
 Pacea-i nobila solie
 Pentru cel neprihănit.
 
-[3]
+[v3]
 Haidem, să cântăm cu toții,
 Despre-ale noastre biruinți,
 Pân’ nu vine clipa morții
 Și cuptoarele fierbinți.
 
-[chorus 2]
+[c2]
 Pot să se sfărâme munții,
 Marea-n clocot să tot stea,
 De nimica nu ne temem

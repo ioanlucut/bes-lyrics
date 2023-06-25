@@ -2,9 +2,9 @@
 Doamne, mai vreau Rusalii
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Doamne, mai vreau Rusalii
 Cu limbi de foc,
 Să le împrăștii pe fiecare,
@@ -15,13 +15,13 @@ Doamne, vreau o trezire
 Să fim cu toții
 Și să cântăm în limbi o mie.
 
-[chorus]
+[c]
 /: Tu faci cerul să coboare,
 Naști în inimă izvoare.
 O, Duh prea Sfânt, dă-ne Rusalii,
 O, Duh prea Sfânt! :/
 
-[2]
+[v2]
 Doamne, dă-mi bucurie
 Și să mă legi strâns în iubire.
 Doamne, vreau tot mai mult
@@ -32,7 +32,7 @@ Doamne, mai vreau sfințire
 Pe veșnicii să fiu al Tău
 În nemurire.
 
-[bridge]
+[b]
 Doamne, vreau o trezire
 Și într-un gând și o simțire
 Să fim cu toții și să cântăm

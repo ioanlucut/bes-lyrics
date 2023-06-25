@@ -2,9 +2,9 @@
 Prin multe țări frumoase în viață am trecut
 
 [sequence]
-1,2,3,4,5,6
+v1,v2,v3,v4,v5,v6
 
-[1]
+[v1]
 Prin multe țări frumoase 
 În viață am trecut
 Și-atâtea văi și dealuri 
@@ -15,7 +15,7 @@ Nu m-a atras așa
 /: Ca dealul, ce, pe nume 
 Se cheamă Golgota.:/
 
-[2]
+[v2]
 Acesta nu se-nalță 
 Cu vârful pân’ la nori,
 Pe culmea lui, zăpada 
@@ -26,7 +26,7 @@ Dar nici pe-un deal din lume
 De Dumnezeu aproape, 
 Ca sus pe Golgota. :/
 
-[3]
+[v3]
 Nu-s brazi înalți acolo, 
 Nici iarbă verde jos,
 Dar este, sus pe munte, 
@@ -37,7 +37,7 @@ E crucea răstignirii
 Ne-a dăruit viața - 
 Aceasta-i Golgota. :/
 
-[4]
+[v4]
 Acolo nu-s izvoare de apă, 
 Cât privești,
 Nici râuri curgătoare 
@@ -48,7 +48,7 @@ Dar iese de sub cruce
 Ce tot păcatul lumii 
 L-a șters și l-a spălat. :/
 
-[5]
+[v5]
 De-acolo și tâlharul 
 Se-ntoarce credincios
 Și mântuit se-ntoarce 
@@ -59,7 +59,7 @@ Acolo-L vezi pe Domnul
 Acolo-i har și pace, 
 Aceasta-i Golgota. :/
 
-[6]
+[v6]
 Tu, omule, ce-n lume 
 Suspini nemângâiat,
 Înalță-te spre locul 

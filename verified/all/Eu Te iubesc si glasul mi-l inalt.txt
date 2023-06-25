@@ -2,9 +2,9 @@
 Eu Te iubesc și glasul mi-l înalț
 
 [sequence]
-1
+v1
 
-[1]
+[v1]
 Eu Te iubesc și glasul mi-l înalț,
 Să Te slăvesc, Domnul meu Isus!
 Primește acum lauda ce-o cânt

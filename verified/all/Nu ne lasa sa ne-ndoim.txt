@@ -2,9 +2,9 @@
 Nu ne lăsa să ne-ndoim
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Nu ne lăsa să ne-ndoim,
 În crâncena furtună!
 Nu ne lăsa să ne-ngrozim,
@@ -15,13 +15,13 @@ Nu ne lăsa să înghețăm,
 Nu ne lăsa să nu-nsetăm,
 De cea dintâi iubire!
 
-[chorus]
+[c]
 Nu ne lăsa să ne-ndoim,
 Isuse, de izbândă,
 Căci, fără țel, ne prăbușim
 În moarte și osândă.
 
-[2]
+[v2]
 Nu ne lăsa îndepărtați,
 De-ale noastre legăminte!
 Nu ne lăsa neînfiorați,
@@ -32,7 +32,7 @@ Pe căi înșelătoare!
 Nu ne lăsa să fim învinși
 Și sfâșiați de fiare!
 
-[3]
+[v3]
 Nu ne lăsa să părăsim
 Credința noastră bună!
 Nu ne lăsa să despărțim

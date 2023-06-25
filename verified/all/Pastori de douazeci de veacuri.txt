@@ -2,27 +2,27 @@
 Păstori de douăzeci de veacuri
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Păstori de douăzeci de veacuri,
 La turme vă-ntâlnim de strajă,
 Înfiorați sub cer de haruri
 /: În nopți când inima veghează. :/
 
-[chorus]
+[c]
 /: De-aceea-n bucurie sfântă,
 Uniți de-o dragoste cerească,
 Întreaga inimă ne cântă
 Un imn cu oastea îngerească. :/
 
-[2]
+[v2]
 Cu voi, păstori de pe câmpie,
 Creștini din patru zări albastre,
 Comemorăm cu bucurie
 /: Pe Isus în inimile noastre. :/
 
-[3]
+[v3]
 Noi Te slăvim, Copil din iesle,
 Cu toți Ți-aducem Osanale
 Și vrem ca inimile noastre

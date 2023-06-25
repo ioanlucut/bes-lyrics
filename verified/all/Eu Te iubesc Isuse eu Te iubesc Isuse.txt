@@ -2,21 +2,21 @@
 Eu Te iubesc, Isuse, eu Te iubesc, Isuse
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 /: Eu Te iubesc, Isuse, eu Te iubesc, Isuse,
 Eu Te iubesc, Isuse drag, din inimă. :/
 /: Din inimă, din inimă,
 Eu Te iubesc, Isuse drag, din inimă! :/
 
-[2]
+[v2]
 /: Te proslăvesc, Isuse, Te proslăvesc, Isuse,
 Te proslăvesc, Isuse drag din inimă. :/
 /: Din inimă, din inimă,
 Te proslăvesc, Isuse drag, din inimă. :/
 
-[3]
+[v3]
 /: Îți mulțumesc, Isuse, îți mulțumesc, Isuse,
 Îți mulțumesc, Isuse drag, din inimă. :/
 /: Din inimă, din inimă,

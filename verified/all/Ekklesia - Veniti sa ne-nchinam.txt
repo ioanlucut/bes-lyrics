@@ -1,16 +1,16 @@
 [title]
-Veniți să ne-nchinăm {Author: {Ekklesia}}
+Veniți să ne-nchinăm {author: {Ekklesia}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Era o noapte fără seamăn pe pământ,
 Când în iesle s-a născut Domnul păcii, Pruncul Sfânt.
 O stea pe cer atunci, în noapte, a luminat
 Și spre Betleem mergea, pe păstori îi conducea.
 
-[chorus]
+[c]
 Și îngerii-n cor înalță glasul lor:
 Astăzi s-a născut Isus,
 Veniți să ne-nchinăm Pruncului născut în iesle!
@@ -18,7 +18,7 @@ Astăzi s-a născut Isus,
 Veniți să Îi cântăm, a venit Mântuitorul
 Pace-n dar El ne-a adus!
 
-[2]
+[v2]
 În ceas în taină printre oamenii de jos,
 Într-un staul friguros s-a născut Isus Hristos.
 El, Fiul Tatălui, din cer de sus trimis

@@ -2,25 +2,25 @@
 Mai e puțin și curând voi pleca
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Mai e puțin și curând voi pleca
 Spre orașul divin unde e țara mea,
 Cu El în cer e divinul meu țel,
 Să fiu veșnic cu El, scumpul Emanuel.
 
-[chorus]
+[c]
 /: Suflete, laudă-L pe Domnul, (3x)
 Ziua-aceea-n curând va veni. :/
 
-[2]
+[v2]
 A zis Isus și eu cred tot ce-a spus,
 Că în cer nu vor fi nici dureri, nici urgii,
 Mâna Sa va șterge lacrima mea
 Și atunci voi uita că a fost greu cândva.
 
-[3]
+[v3]
 Mai e puțin de trăit în suspin
 Și atunci voi cânta pentru veci slava Sa,
 O, scump Isus, Te rugăm du-ne sus,

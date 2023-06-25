@@ -1,53 +1,53 @@
 [title]
-Harul minunat {Author: {Cor copii Dynamis}}
+Harul minunat {author: {Cor copii Dynamis}}
 
 [sequence]
-1,2,3,4,c,5,6,7,8,9
+v1,v2,v3,v4,c,v5,v6,v7,v8,v9
 
-[1]
+[v1]
 „Căci prin har ați fost mântuiți, prin credință.
 Și aceasta nu vine de la voi; ci este darul Lui Dumnezeu.
 Nu prin fapte ca să nu se laude nimeni.”
 Efeseni 2:8,9
 
-[2]
+[v2]
 O dragoste nemeritată ai turnat în mine,
 O pace-adâncă-ai revărsat în suflet,
 M-ai eliberat!
 /: O, ce minunat este al Tău har! :/
 
-[3]
+[v3]
 Din crucea Ta iertare zi de zi în mine curge
 Nicicând nu aș putea uita,
 Isus de bunătatea Ta.
 /: O, ce minunat este al Tău har! :/
 
-[4]
+[v4]
 În fiecare zi reverși
 Doar binecuvântări cerești
 /:O, ce minunat este al Tău har! :/
 E har! E harul minunat!
 
-[chorus]
+[c]
 /: Căci numai prin har eu sunt mântuit, :/
 Doar prin harul Tău.
 /: O, ce minunat este al Tău har!:/
 
-[5]
+[v5]
 În fiecare zi reverși
 Doar binecuvântări cerești.
 /: O, ce minunat este al Tău har! :/ (E harul minunat)
 /: O, ce minunat este al Tău har! :/ (Harul, numai harul)
 /: O, ce minunat este al Tăăăău har! :/ Final
 
-[6]
+[v6]
 ”Ferice de cel cu fărădelegea iertată și de
 cel cu păcatul acoperit.
 Ferice de cel căruia nu-i ține în seamă
 Domnul nelegiuirea”
 Ps. 32:1,2
 
-[7]
+[v7]
 Ce dragoste și ce sfânt har
 Ai revărsat în mine iar
 Din palmele ce pe cruce-au sângerat
@@ -55,13 +55,13 @@ Prin harul Tău eu sunt iertat.
 Eu sunt iertat! Da, sunt iertat!
 Eu sunt iertat, eu sunt iertat!
 
-[8]
+[v8]
 Mărețul har m-a mântuit pe mine din păcat
 Pierdut eram, dar m-a găsit,
 De moarte m-a scăpat.
 Și sunt iertat! Eu sunt iertat!
 
-[9]
+[v9]
 Mărețul har m-a învățat
 S-o rup cu orice rău
 Ce scump mi-e azi tot harul dat

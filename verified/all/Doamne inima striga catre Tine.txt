@@ -2,9 +2,9 @@
 Doamne, inima strigă către Tine
 
 [sequence]
-1,c
+v1,c
 
-[1]
+[v1]
 Doamne, inima strigă către Tine:
 Tu ești dragostea
 Ce o simt în mine!
@@ -14,7 +14,7 @@ Vreau vocea să-Ți ascult
 O, ce susur blând.
 Glorie, glorie, glorie Regelui!
 
-[chorus]
+[c]
 Tu ești Tatăl pentru cei orfani
 Și mângâierea mea.
 Încununat cu slavă,

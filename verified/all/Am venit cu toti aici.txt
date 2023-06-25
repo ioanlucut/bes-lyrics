@@ -2,21 +2,21 @@
 Am venit cu toți aici
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 /: Suntem strânși în jurul Lui,
 În casa Domnului,
 Să ne rugăm :/
 Duios, Domnului Isus Cristos.
 
-[2]
+[v2]
 /: Toți o inimă și-un gând,
 În casa Domnului,
 Să ne rugăm :/
 Duios, Domnului Isus Cristos.
 
-[3]
+[v3]
 /: Mâini curate ridicăm
 În casa Domnului,
 Să ne rugăm :/

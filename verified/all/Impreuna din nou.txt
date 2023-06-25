@@ -2,9 +2,9 @@
 Împreună din nou
 
 [sequence]
-1
+v1
 
-[1]
+[v1]
 Împreună din nou, pe Domnul lăudând,
 Împreună din nou, toți într-un gând.
 Știu că Domnul cu mine va face

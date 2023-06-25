@@ -1,10 +1,10 @@
 [title]
-Sfânt e, sfânt e {Author: {Elim Harmony}}
+Sfânt e, sfânt e {author: {Elim Harmony}}
 
 [sequence]
-1,2,c,3
+v1,v2,c,v3
 
-[1]
+[v1]
 Este-un drum ce duce-n ceruri,
 Un drum plin de încercări,
 Dar curând va fi strigarea,
@@ -20,7 +20,7 @@ Pentru lupta ce s-a dat,
 Omenirea se închină,
 De la moarte ne-ai salvat.
 
-[2]
+[v2]
 Este-un drum ce duce-n ceruri,
 Unde veșnic vom cânta.
 Nu va fi acolo noapte,
@@ -36,7 +36,7 @@ Pentru lupta ce s-a dat,
 Omenirea se închină,
 De la moarte ne-ai salvat.
 
-[chorus]
+[c]
 Sfânt e, sfânt e, sfânt e,
 Domn Atotputernic!
 Sfânt e, sfânt e, sfânt e
@@ -44,7 +44,7 @@ Dumnezeu!
 Aleluia, Aleluia, Aleluia,
 Aleluia, Aleluia, Aleluia!
 
-[3]
+[v3]
 Este-un drum ce duce-n ceruri,
 Un drum plin de încercări,
 Dar curând va fi strigarea

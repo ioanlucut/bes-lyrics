@@ -2,9 +2,9 @@
 Atât timp cât voi trăi
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 De pe munte până-n vale,
 Din izvor până-n ocean,
 Orice mână ce se-ntinde,
@@ -13,7 +13,7 @@ Orice act de bunătate,
 Orice pas spre Paradis,
 Despre dragostea Lui Isus vor mărturisi.
 
-[chorus]
+[c]
 Și-atât timp cât voi trăi
 Iubirea-Ți voi mărturisi.
 Când toată lumea va tăcea,
@@ -23,7 +23,7 @@ Strigătul meu va răsuna.
 Atât timp cât voi trăi
 Iubirea voi mărturisi.
 
-[2]
+[v2]
 Minunatul curcubeu,
 Armonia vântului,
 Orice vis ce se înalță

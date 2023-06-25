@@ -2,30 +2,30 @@
 Ai promis c-ai să revii
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
-Uniți în templul Tău Sfânt ne-am adunat, Isuse, Te chemăm! 
+[v1]
+Uniți în templul Tău Sfânt ne-am adunat, Isuse, Te chemăm!
 Dorim a Ta prezență, să fie în permanență între noi.
 Să fii cu noi pe cale, chiar și în încercare să ne ții
-Curați pe calea Ta, până la revenirea Ta 
+Curați pe calea Ta, până la revenirea Ta
 Când la Tine vom pleca!
 
-[chorus]
-Ai promis c-ai să revii, 
+[c]
+Ai promis c-ai să revii,
 Te-așteptăm, al nostru Domn,
 Să ne duci în veșnicii,
 Unde să ne bucurăm
 Cu Tine-o veșnicie.
 
-[2]
+[v2]
 Coboară cu putere și atinge-Te de cel ce este slab,
 Mai fă o scăldătoare și vindecă pe cel ce e bolnav.
 Biserica să fie mereu umplută de puterea Ta,
 Curați să fim mereu pe cale, Domnul meu,
 Chiar și când drumu-i greu.
 
-[3]
+[v3]
 Când va suna trompeta și pe nori va apărea al nostru Domn,
 Cei morți vor învia și spre cer vor zbura în paradis
 Transformați de Domnul, și la ceruri ridicați vom fi și noi,

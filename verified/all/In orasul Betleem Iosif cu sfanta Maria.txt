@@ -2,9 +2,9 @@
 În orașul Betleem, Iosif cu sfânta Maria
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 În orașul Betleem, Iosif cu sfânta Maria,
 Osteniți de-atâta drum, caută loc de găzduire.
 Nimenea nu a dorit să-i primească-n casa lor,
@@ -13,7 +13,7 @@ Doar un staul au găsit ca să nască-un pruncușor.
 /: Acolo în iesle, jos, S-a născut Isus Hristos,
 Îngeri cântă sus în cer, S-a născut Emanuel! :/
 
-[2]
+[v2]
 Dar, deodată pe pământ, o lumină se ivește
 La păstorii de pe câmp, îngerul le glăsuiește:
 „Nu vă temeți, căci aduc vestea bună în popor:
@@ -22,7 +22,7 @@ Astăzi s-a născut un Prunc, S-a născut Mântuitor!”
 /: Acolo în iesle, jos, S-a născut Isus Hristos,
 Iar păstorii din câmpie, cântă plini de bucurie! :/
 
-[3]
+[v3]
 Sărbătoarea este mare, chiar și azi sună colindul,
 Vestea bună se aude de răsună-ntreg pământul.
 Hai, cu toții să cântăm slavă, slavă-n cerul sfânt,

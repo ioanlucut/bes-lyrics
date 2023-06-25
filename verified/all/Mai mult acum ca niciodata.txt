@@ -2,9 +2,9 @@
 Mai mult acum ca niciodată
 
 [sequence]
-1,c,2,c,c,3,c,c
+v1,c,v2,c,c,v3,c,c
 
-[1]
+[v1]
 Mai mult acum, ca niciodată,
 E drumul mai alunecos.
 Credința-i parcă mai uitată,
@@ -15,14 +15,14 @@ E timpu-aproape spre apus,
 Acum întreaga omenire
 Are nevoie de Isus.
 
-[chorus]
+[c]
 /: Mai mult acum (mai mult acum),
 Ca niciodată (mai mult acum),
 E vremea să ne ridicăm
 Să Îl chemăm, ca altădată,
 Și îndeaproape să Îl urmăm. :/
 
-[2]
+[v2]
 E timpul pentru apropiere,
 Pentru căință-n rugăciuni,
 Isus mai scrie grațiere,
@@ -33,7 +33,7 @@ Să stăm o clipă să privim
 La ce se-ntâmplă în lumea mare
 Și sinceri să ne pocăim.
 
-[3]
+[v3]
 Mai face Domnul iar chemare,
 Poate e ultimul apel,
 Fă-ți azi și tu o cercetare

@@ -2,9 +2,9 @@
 Vreau să te fac pescar de om
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Vreau să te fac pescar de om,
 Pescar de om, pescar de om,
 Vreau să te fac pescar de om,
@@ -14,7 +14,7 @@ Dacă Mă urmezi.
 Vreau să te fac pescar de om,
 Dacă Mă urmezi.
 
-[2]
+[v2]
 Vreau, Isuse, să Te urmez,
 Să Te urmez, să Te urmez,
 Vreau, Isuse, să Te urmez!
@@ -24,7 +24,7 @@ Vreau, Isuse, să Te urmez!
 Vreau, Isuse, să Te urmez,
 Știu că mă iubești.
 
-[3]
+[v3]
 Arunca-voi mreaja în râu,
 Mreaja în râu, mreaja în râu,
 Arunca-voi mreaja în râu,

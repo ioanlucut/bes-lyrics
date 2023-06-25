@@ -4,7 +4,7 @@ Pregătește-mi inima, Doamne
 [sequence]
 c
 
-[chorus]
+[c]
 /: Pregătește-mi inima, Doamne,
 Să fie un templu sfânt și curat.
 Cu mulțumire trăiesc pentru Tine.

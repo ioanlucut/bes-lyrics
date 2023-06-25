@@ -2,21 +2,21 @@
 Fiindcă Duhul Domnului
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 /: Fiindcă Duhul Domnului este-n mine,
 Eu cânt azi ca și David. :/
 /: Eu cânt azi, eu cânt azi,
 Eu cânt azi ca și David. :/
 
-[2]
+[v2]
 /: Fiindcă Duhul Domnului este-n mine,
 Mă rog azi ca și David. :/
 /: Mă rog azi, mă rog azi,
 Mă rog azi ca și David. :/
 
-[3]
+[v3]
 /: Fiindcă Duhul Domnului este-n mine,
 Mă lupt azi ca și David. :/
 /: Mă lupt azi, mă lupt azi,

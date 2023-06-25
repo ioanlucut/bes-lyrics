@@ -2,32 +2,32 @@
 Nu mergi de la mine, Isus
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 „Nu mergi de la mine, Isus!”
 Strigă inima.
 Spre alții verși milă de sus,
 Fă-mi și mie-așa!
 
-[chorus]
+[c]
 „Isus, Isus!” strigă inima,
 Spre alții verși milă de sus
 Fă-mi și mie-așa!
 
-[2]
+[v2]
 Stâmpără-mă la tronul Tău,
 Că-s îndurerat.
 Vezi, aici stau cu căință,
 Să fiu mângâiat.
 
-[3]
+[v3]
 Numai în Tine mă încred,
 Stânca mea Tu ești,
 La Tine în toată vremea,
 Eu mă odihnesc.
 
-[4]
+[v4]
 Ești izvor de bucurie,
 Orice vină ștergi.
 Pacea Ta mi-o dai Tu mie,

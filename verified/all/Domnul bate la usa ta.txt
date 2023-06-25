@@ -2,27 +2,27 @@
 Domnul bate la ușa ta
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Domnul bate la ușa ta:
 /: Tu să-I deschizi! :/
 Azi primește-L, nu-L refuza!
 Îți vrea salvarea ta.
 
-[chorus]
+[c]
 Iată, azi, Eu stau și bat la ușa ta.
 Azi prinde prilejul, nu îl refuza.
 Mâine, se poate, va fi târziu,
 Las’ lumea azi și vin!
 
-[2]
+[v2]
 El așteaptă nerăbdător
 /: Să vii la El. :/
 Tu să nu stai nepăsător!
 Îți va fi salvator!
 
-[3]
+[v3]
 Mântuire-n dar îți va da
 /: Domnul Isus :/
 Și la El tu-n veci vei avea

@@ -2,9 +2,9 @@
 Izbăvitorul meu
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Doamne-ntinde-Ți mâna Ta,
 Pleacă-Ți urechea la ruga mea.
 Tu Ești Domnul vieții mele,
@@ -12,13 +12,13 @@ Tu Ești Domnul vieții mele,
 Vreau să bată pentru slava Ta,
 E a Ta, Îți aparține.
 
-[chorus]
+[c]
 Astăzi vin la Tine, stau în fața Ta,
 Lasă peste mine ungerea Ta.
 Mă încred în Tine și-n al Tău cuvânt,
 Tu Ești Domnul meu cel sfânt!
 
-[2]
+[v2]
 Doamne-orice s-ar întâmpla,
 Ajută-mă să fac doar voia Ta,
 Să trăiesc cum se cuvine,

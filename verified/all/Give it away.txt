@@ -2,9 +2,9 @@
 Give it away
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Îți spun să nu îți strângi vreodată comori pe pământ
 Căci azi le ai la bancă, mâine nu mai sunt.
 Dolari, franci, yeni sau lei, sunt praf în vânt.
@@ -13,7 +13,7 @@ Acolo nu sunt molii, hoți, rugină de fier
 Îți spun, nu poți sluji la doi stăpâni,
 Dacă vrei să ai, învață să dai tot ce ai.
 
-[chorus]
+[c]
 Dacă fericirea e ce tu dorești
 Și scopul tău în viață e să te-mbogățești,
 E mai bine să dai decât să primești.
@@ -21,7 +21,7 @@ Dacă singur azi te-ai săturat să fii
 Și vrei bucurie în fiecare zi,
 E mai bine să dai decât să primești.
 
-[2]
+[v2]
 Nu știi cum să faci să mai strângi încă-un cent,
 Contul vrei să-ți crească măcar cu un procent.
 Eu sper să asculți azi sfatul ce ți-l dau,

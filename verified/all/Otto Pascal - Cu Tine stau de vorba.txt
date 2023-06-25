@@ -1,16 +1,16 @@
 [title]
-Cu Tine stau de vorbă {Author: {Otto Pascal}}
+Cu Tine stau de vorbă {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Tu ești sfânt și vrednic de laudă,
 Tu ești bun și îndurător.
 Mă închin cu toată ființa
 Și cu pasiune spre Tine privesc.
 
-[chorus]
+[c]
 Domnul meu, pășește cu mine,
 Oricine ce-ar spune,
 Eu vreau să Te urmez.
@@ -21,13 +21,13 @@ Nu știu ce simt.
 Când cu mine stai de vorbă
 În fiecare zi.
 
-[2]
+[v2]
 Vremuri noi, ei vor fără Tine,
 Ei Te scot din școli și biserici,
 Dar nicicând nu pot stinge dorul,
 Ce-mi arde în suflet, Isuse iubit!
 
-[bridge]
+[b]
 Ei nu știu ce simt,
 Ei nu știu ce simt,
 Când cu mine stai de vorbă

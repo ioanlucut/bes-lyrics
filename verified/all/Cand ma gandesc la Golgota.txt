@@ -2,9 +2,9 @@
 Când mă gândesc la Golgota
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Când mă gândesc la Golgota,
 Unde Isus zdrobit murea,
 Văd suferind în locul meu
@@ -14,19 +14,19 @@ Pentru păcat pe lemn muri,
 Pus în mormânt și sigilat,
 El, singurul fără păcat.
 
-[chorus]
+[c]
 Cântați-I azi, El în veci e Domn!
 E Împărat, Hristos pe tron!
 O veșnicie Îi vom cânta,
 Isus în veci e Domn!
 
-[2]
+[v2]
 A treia zi, la răsărit,
 A înviat cum a promis.
 A șters pe veci osânda grea,
 Iar eu trăiesc prin moartea Sa.
 
-[3]
+[v3]
 Când se va-ntoarce Domnul meu,
 Va-ndepărta tot ce e rău!
 Atunci și eu voi învia

@@ -2,9 +2,9 @@
 Glorie Celui din veșnicii
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Lăudați numele Lui, pe Domnu-nălțați.
 Să-L mărim, să-L slăvim pe Domnul Isus.
 Regelui, regelui, ne-nchinăm,
@@ -12,13 +12,13 @@ Toată slava și mărirea Lui Dumnezeu!
 Regelui, regelui, ne-nchinăm!
 Îl adorăm căci este demn să-L lăudăm.
 
-[chorus]
+[c]
 Glorie Celui din veșnicii,
 Toată slava și mărirea Lui Dumnezeu!
 Glorie, e sărbătoare azi,
 Îl adorăm căci este Domn, să-L lăudăm.
 
-[2]
+[v2]
 Lăudați numele Lui, pe Domnul înălțați.
 Să-L mărim, să-L slăvim pe Domnul Isus.
 Glorie Celui din veșnicii!

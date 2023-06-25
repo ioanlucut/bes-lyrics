@@ -1,28 +1,28 @@
 [title]
-Când am să plec {Author: {Florin Mesaroș}}
+Când am să plec {author: {Florin Mesaroș}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Am ales calea vieții, L-am ales pe Isus!
 Trăiesc prin harul Său și mi-e îndeajuns!
 Lumea aceasta te înșală și-Ți dă fericire-amară,
 Dar a mea inimă e-n Ceruri sus.
 
-[chorus]
+[c]
 Și-atunci când am să plec, îmi va fi bine,
 Voi fi acasă-n Cer, cu-al meu Isus!
 Eu voi cina cu El și El cu mine-n slava Sa,
 Când am s-ajung în Țara mea!
 
-[2]
+[v2]
 Nu te îngrijora, chiar de lupta e mare,
 Încă puțin mai este și vei birui!
 Victorios e acel ce luptă cu cinste și curaj,
 Cununa, chiar Isus ne-o va dărui!
 
-[3]
+[v3]
 Mi-am pus toată nădejdea, în al meu Domn Isus!
 Când am strigat spre El, El mi-a răspuns.
 El mi-a dat eliberare, am simțit a Sa iertare,

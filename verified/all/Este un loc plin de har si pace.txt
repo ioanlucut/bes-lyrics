@@ -2,9 +2,9 @@
 Este un loc plin de har și pace
 
 [sequence]
-1,p,c,1,p,c
+v1,p,c,v1,p,c
 
-[1]
+[v1]
 Este un loc plin de har și pace,
 Unde frații-n unire trăiesc,
 Un loc unde ungerea sfântă curge
@@ -15,13 +15,13 @@ Doar un trup să formăm în Tine
 Una prin Duhul Tău Sfânt, ce ne ține
 Până la sfârșit.
 
-[prechorus]
+[p]
 Azi te rugăm prin Isus, sfinte Tată,
 Una ca Tatăl și Fiul să fim,
 Toți într-un gând, cu iubire curată,
 De dragul Fiului Tău.
 
-[chorus]
+[c]
 Orice zid vom dărâma (3x)
 Doar în numele Lui.
 Orice zid vom dărâma

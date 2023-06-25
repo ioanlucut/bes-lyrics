@@ -2,9 +2,9 @@
 Chemați, prin cântări, bucuria!
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Chemați, prin cântări, bucuria!
 Chemați-o cu voi când lucrați
 Căci Tatăl vă dă-mpărăția,
@@ -15,7 +15,7 @@ Ea-ntrece comori și averi
 Așa-i bucuria divină:
 Te umple de sfinte puteri. :/
 
-[2]
+[v2]
 Trezește-te azi, tu, țărână!
 Și suflet și duh vă treziți
 Și harfă și tu alăută,
@@ -26,7 +26,7 @@ Cu toate-ntr-un glas vă uniți.
 Ce greul și multa durere
 Le duce pe umeri cântând. :/
 
-[3]
+[v3]
 Lăsați bucuria divină
 Să joace pe fețe și-n duh,
 Cu ea veți putea voi străbate
@@ -37,7 +37,7 @@ Fugi-vor de parcă n-au fost,
 Cântarea va pune pe fugă
 Întreg iadul cel fioros. :/
 
-[4]
+[v4]
 Mereu bucurați-vă-n toate
 Că-n toate afla-veți cântări
 Și-n ele-aripi ca să vă poarte

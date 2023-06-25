@@ -2,15 +2,15 @@
 Haruri peste haruri
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Haruri peste haruri, haruri peste haruri,
 Cu mâini ridicate stăm în fața Ta.
 Haruri peste haruri, haruri peste haruri,
 Harul se revarsă, curge peste noi.
 
-[chorus]
+[c]
 Pătrundem toți în haruri, Doamne,
 Haruri peste haruri,
 Spre Tine mâini întinse ridicăm

@@ -2,9 +2,9 @@
 Tu ești Cel ce-ntotdeauna luptă
 
 [sequence]
-1,c,2,c,b,c,e
+v1,c,v2,c,b,c,e
 
-[1]
+[v1]
 Tu ești Cel ce-ntotdeauna luptă pentru-al Său popor,
 Tu ești Cel ce porți coroana sfântă de biruitor,
 Ajutor îmi ești în toate, Salvator, tăria mea,
@@ -15,22 +15,22 @@ Orice frică va dispărea, ai purtat victoria,
 Umple astăzi al Tău templu, lasă din puterea Ta,
 Eu trăiesc doar pentru a mă închina.
 
-[chorus]
+[c]
 Aleluia! Tu ai biruit, Tu ai biruit!
 Aleluia! Isus, lumea Tu ai biruit!
 
-[2]
+[v2]
 Pentru oameni ești ca Tatăl, Singurul Mijlocitor,
 Cei pierduți găsesc salvare, doar Tu ești Mântuitor,
 Ești Isus Hristos, Mesia, ești speranța-ntregii lumi,
 Tu ești Cel ce porți pe cap, multe cununi.
 
-[bridge]
+[b]
 /: Tu răstorni orice înălțimi,
 Tu dărâmi orice-ntăritură,
 Tu ești Cel care porți cununi
 De-nvingător, biruitor! :/
 
-[ending]
+[e]
 Crucea a sfârșit lucrarea și ai fost înmormântat,
 Însă vine învierea, căci victoria-ai purtat!

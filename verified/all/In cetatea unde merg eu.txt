@@ -2,27 +2,27 @@
 În cetatea unde merg eu
 
 [sequence]
-c,1,c,2,c,3
+c,v1,c,v2,c,v3
 
-[1]
+[v1]
 În cetatea unde merg eu,
 Străzi de aur strălucesc,
 Pomul vieții acolo crește,
 Florile nu veștejesc.
 
-[chorus]
+[c]
 Aici înfloresc o vreme,
 Dar curând se ofilesc.
 În cetatea unde merg eu
 Florile nu veștejesc.
 
-[2]
+[v2]
 Multe lupte și necazuri
 În viață întâlnesc,
 N-or mai fi în Țara unde
 Florile nu veștejesc.
 
-[3]
+[v3]
 Mulți iubiți s-au dus acolo
 Și în slavă strălucesc,
 Mă așteaptă acolo unde

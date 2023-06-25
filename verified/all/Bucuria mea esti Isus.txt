@@ -2,23 +2,23 @@
 Bucuria mea ești Isus
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Bucuria mea ești Isus,
 Nimic pe pământ nu Te poate înlocui.
 /: Chiar când trec prin necazuri
 Știu totuși, ca Tu mă conduci.
 Tu ești totul în viața mea. :/
 
-[2]
+[v2]
 Pacea mea ești Isus,
 Nimic pe pământ nu Te poate înlocui.
 /: Chiar când trec prin necazuri
 Știu totuși, ca Tu mă conduci.
 Tu ești totul în viața mea. :/
 
-[3]
+[v3]
 Izbăvirea mea ești Isus,
 Nimic pe pământ nu Te poate înlocui.
 /: Chiar când trec prin necazuri

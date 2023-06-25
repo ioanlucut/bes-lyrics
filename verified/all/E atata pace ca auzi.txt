@@ -2,39 +2,39 @@
 E atâta pace că auzi
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c
+v1,c,v2,c,v3,c,v4,c,v5,c
 
-[1]
+[v1]
 E atâta pace că auzi
 Și mersul stelelor cum cântă
 Și roua de pe crinii uzi
 Cum picură-n tăcere adâncă.
 
-[chorus]
+[c]
 Așa într-o liniște și-un har
 Poate ai să vii, Isuse, iar
 Când nimeni nu s-ar aștepta
 Atunci va fi venirea Ta.
 
-[2]
+[v2]
 E atâta liniște pe sus
 Și-n toate parc-atâta pace
 De-aud cum mâna Ta, Isus,
 Lumina spicelor desface.
 
-[3]
+[v3]
 E-atâta pace-n jur că simt
 Cum duhul rugăciunii zboară
 Și ca un stol de îngeri sfinți,
 Curate doruri te-nfășoară.
 
-[4]
+[v4]
 E-atâta pace-n jurul meu
 Și toate stau în așteptare
 Și-n taina unei sfinte frici
 Iubirea inimii tresare.
 
-[5]
+[v5]
 O, Doamne, acum Te rog să-mi ții
 Ființa și vegherea-ncinsă,
 Ca-n orice strajă-ar fi să vii,

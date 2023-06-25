@@ -2,15 +2,15 @@
 Pân’ aici Dumnezeu ne-a ajutat
 
 [sequence]
-1,c,2,c,3,t
+v1,c,v2,c,v3,c2
 
-[1]
+[v1]
 Pân’ aici Dumnezeu ne-a ajutat,
 Ne-a cinstit cu-atâta bine și ne-a apărat.
 Și-a întins cu îndurare mâna sfântă peste noi,
 Și ne-a-nconjurat pe dinainte și pe dinapoi.
 
-[chorus]
+[c]
 Ai simțit și tu în viața ta iubirea Lui,
 Poți și tu să cânți Osana Domnului,
 Poți să spui cu mine astăzi cu adevărat,
@@ -22,19 +22,19 @@ Fie-I Numele slăvit, fie-I numele-onorat,
 ’Nalță-ți glasul tău spre cer,
 Și să strigi din toată inima „Eben-Ezer”! :/
 
-[2]
+[v2]
 Pân-aici Dumnezeu ne-a ajutat,
 Și-a ținut promisiunea cu adevărat,
 El rămâne credincios, cuvântul Lui se va-mplini,
 Ce-a spus El în veci rămâne, Lumea-ntreagă de-ar pieri.
 
-[3]
+[v3]
 Pân’ aici Dumnezeu ne-a ajutat,
 De te-ncrezi în El puternic vei fi apărat
 Și te vei adăposti la umbra aripilor Lui
 Căci în veac ține credincioșia, mila Domnului.
 
-[chorus 2]
+[c2]
 Pune-ți azi nădejdea-n harul ce va fi adus
 Și-ațintește-a ta privire la Isus.
 Biruind în El vei spune cu adevărat,

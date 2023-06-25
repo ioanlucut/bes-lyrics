@@ -2,9 +2,9 @@
 Sfânt ești, sfânt ești, sfânt ești
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Sfânt ești, sfânt ești, sfânt ești, 
 Dumnezeu puternic!
 Chiar din zorii dimineții 
@@ -15,7 +15,7 @@ Bun, milos și darnic,
 Doamne ești veșnic: 
 Tată, Fiu, Duh Sfânt.
 
-[2]
+[v2]
 Sfânt ești, sfânt ești, sfânt ești,
 Sfinții toți Îți cântă,
 Și-nainte-Ți pun 
@@ -26,7 +26,7 @@ Heruvimi și îngeri
 Ieri, azi și veșnic 
 Ești biruitor.
 
-[3]
+[v3]
 Sfânt ești, sfânt ești, sfânt ești,
 Norul Te ascunde,
 Ochiul celui păcătos 
@@ -37,7 +37,7 @@ Ești din veșnicie,
 Doamne, Iehova, 
 Tu ești dragostea.
 
-[4]
+[v4]
 Sfânt ești, sfânt ești, sfânt ești,
 Domn Atotputernic,
 Tot ce ai creat 

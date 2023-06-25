@@ -1,15 +1,15 @@
 [title]
-Emanuel, în veci pe Tron {Alternative: {Born on that day}, Author: {Betania Dublin}}
+Emanuel, în veci pe Tron {alternative: {Born on that day}, author: {Betania Dublin}}
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Ai rupt tăcerea și ai venit pe pământ,
 Luând chipul nostru, ca om de rând Te-ai născut,
 Planul Divin cuprins e-ntr-un nume de-acum.
 
-[chorus]
+[c]
 Emanuel în veci pe Tron,
 Suntem salvați, căci Dumnezeu este cu noi!
 Emanuel ce nume Sfânt,
@@ -18,11 +18,11 @@ Slavă în cer și pace-ntre oameni, jos pe pământ
 /: Astăzi, Isus s-a născut, ne bucurăm, Îl lăudăm! :/ (2x)
 (Final: Astăzi Isus s-a născut...)
 
-[2]
+[v2]
 Isus Mesia, Tu ești Cuvântu-mplinit
 În umilință, din Glorie ai coborât.
 Ne-ai dat iertare și-atât de mult ne-ai iubit.
 
-[bridge]
+[b]
 Ne închinăm, Îl lăudăm, e Dumnezeu cu noi,
 Ni s-a născut un Salvator, e Dumnezeu cu noi! (e Dumnezeu...)

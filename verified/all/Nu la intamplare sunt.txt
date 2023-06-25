@@ -2,26 +2,26 @@
 Nu la întâmplare sunt
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 /: Nu la întâmplare sunt,
 Domnul m-a creat. :/
 
-[chorus]
+[c]
 /: Eu sunt cu voi în orice zi,
 Eu sunt cu voi în orice zi,
 Eu sunt cu voi în orice zi,
 A spus Isus! :/
 
-[2]
+[v2]
 /: Nici puterea lumii-ntregi
 Nu-mi dă-acest sprijin. :/
 
-[3]
+[v3]
 /: De aceea cânt voios
 Ca să știe toți. :/
 
-[4]
+[v4]
 /: Singur, trist și părăsit,
 Nu vreau să mai fiu. :/

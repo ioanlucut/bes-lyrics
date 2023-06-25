@@ -2,39 +2,39 @@
 Totul ce este în lume
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c
+v1,c,v2,c,v3,c,v4,c,v5,c
 
-[1]
+[v1]
 Totul ce este în lume
 Este un vis trecător.
 Cât ai căuta, străine,
 Nu vei găsi ajutor.
 
-[chorus]
+[c]
 O, /: azi, :/ de ce nu vii?
 /: Azi, :/ de ce nu vii?
 /: Azi, :/ de ce nu vii?
 Vino, la Domnul Tău!
 
-[2]
+[v2]
 Fragedă-ți mai este viața
 Și nu știi cum s-o trăiești.
 Zile, una după alta,
 Au trecut, dar și tu treci.
 
-[3]
+[v3]
 Nu mai sta în nepăsare!
 Șoapta rea să n-o primești!
 Azi, prin a Lui bunătate,
 Fericirea dobândești.
 
-[4]
+[v4]
 Te-ai gândit ce-ți stă în față?
 Seama de toate vei da!
 După faptele făcute,
 Plata tu o vei lua!
 
-[5]
+[v5]
 Știi ce-nseamnă fericirea?
 Să te-mpaci cu Dumnezeu!
 El îți este Creatorul

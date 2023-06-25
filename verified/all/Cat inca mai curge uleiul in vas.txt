@@ -2,9 +2,9 @@
 Cât încă mai curge uleiul în vas
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Cât încă mai curge uleiul în vas,
 Când încă ard jertfe pe altar,
 Cât încă se-aude, o, Doamne, al Tău glas,
@@ -14,7 +14,7 @@ Cât încă mai curge al vieții râu,
 Cât încă se strâng în grânar snopi de grâu,
 Mai este har, mai este har.
 
-[2]
+[v2]
 Cât încă mai curge al vieții izvor
 Și-o jertfă mai este-n Calvar,
 Cât încă se simte al iubirii fior,
@@ -24,7 +24,7 @@ Cât încă mai este un Mântuitor
 Și-n ceruri un Tată bun și iertător,
 Mai este har, mai este har.
 
-[3]
+[v3]
 Cât încă ai viață, iubit muritor,
 Să n-o irosești în zadar,
 Cât încă mai este Isus Salvator,

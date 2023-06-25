@@ -2,28 +2,28 @@
 Nu e munte prea mare
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Ești marele „Eu sunt”,
 În lumina umbrei Tale mă ascund,
 Acoperit de har
 Mă odihnesc atunci când Tu apari.
 
-[chorus]
+[c]
 /: Nu e munte prea mare,
 Nu-i pustiu prea uscat,
 Nu e vale prea adâncă,
 Nu-i nimic mult prea greu,
 Nimic mult prea greu. :/
 
-[2]
+[v2]
 Ești pace în furtuni,
 La cuvântul Tău și stele se supun.
 Mi-ai dat puterea Ta
 Să fiu mai mult decât eu pot visa.
 
-[bridge]
+[b]
 /: Și orice s-ar întâmpla
 Tu rămâi de partea mea,
 Nu-i nimic prea greu

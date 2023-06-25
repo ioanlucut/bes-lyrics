@@ -1,33 +1,33 @@
 [title]
-Habothim ba’hashem kehar tzion {Author: {Cor copii Dynamis}}
+Habothim ba’hashem kehar tzion {author: {Cor copii Dynamis}}
 
 [sequence]
-1,b,2,c,3,w,c
+v1,b,v2,c,v3,b2,c
 
-[1]
+[v1]
 /: Habothim ba’hashem kehar tzion
 Lo-imot le’olam ieshem. :/ (4x)
 
-[bridge]
+[b]
 /: Irușalaim, harim saviv lah
 Ve’hashem saviv le’amo. :/
 
-[2]
+[v2]
 /: Cei ce se-ncred în Domnul Isus
 Sunt ca Muntele Sionului.
 Cei ce au credință în Domnul Isus
 Nu se clatină pe veci! :/
 
-[chorus]
+[c]
 Ierusalim, locul preaiubit,
 Isus, pe veci va domni!
 Ierusalim, locul preaiubit,
 Isus, pe veci va domni!
 
-[3]
+[v3]
 /: Pe veci va domni, pe veci va domni,
 Isus, pe veci va domni. :/
 
-[bridge 2]
+[b2]
 /: Irușalaim, harim savivlah
 Vașem saviv liamo. :/

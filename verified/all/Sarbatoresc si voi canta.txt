@@ -2,15 +2,15 @@
 Sărbătoresc și voi cânta
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Sărbătoresc și voi cânta,
 Vreau să bat din palme-n ritmul laudei
 Domnul domnește, voi striga,
 Sursa mântuirii și a laudei e.
 
-[chorus]
+[c]
 Domn al domnilor,
 Rege-al regilor,
 El domnește-n veci de veci,

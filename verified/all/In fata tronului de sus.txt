@@ -2,9 +2,9 @@
 În fața tronului de sus
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 În fața tronului de sus
 Eu am un bun Apărător,
 Un mare Preot, pe Isus,
@@ -15,7 +15,7 @@ Săpat eu sunt pe mâna Sa
 Iar cât în ceruri El va sta,
 /: Pârâșul meu va fi învins. :/
 
-[2]
+[v2]
 Satan când mă va acuza,
 Spunându-mi că sunt vinovat,
 Privesc la Domnul, stânca mea,
@@ -26,7 +26,7 @@ Eu am ajuns neprihănit,
 Dreptatea s-a îndeplinit,
 /: Prin moartea Lui sunt mântuit. :/
 
-[3]
+[v3]
 Și, iată, Mielul înălțat,
 Cel nepătat, neprihănit,
 Cuvântul viu și întrupat,

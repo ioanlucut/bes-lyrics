@@ -2,23 +2,23 @@
 O inimă curată, Doamne
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 /: O inimă curată, Doamne,
 Este tot ce-mi doresc din partea Ta. :/
 
-[chorus]
+[c]
 O inimă în care răutatea să nu stea,
 O inimă în care să domnești eu aș vrea.
 O inimă deschisă pentru Tine, Domnul meu,
 Să-Ți înalțe osanale, către Tine,
 Cel mai mare Dumnezeu.
 
-[2]
+[v2]
 /: O inimă ascultătoare
 Este tot ce-mi doresc din partea Ta. :/
 
-[3]
+[v3]
 /: O inimă biruitoare
 Este tot ce-mi doresc din partea Ta. :/

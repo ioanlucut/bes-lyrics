@@ -1,23 +1,23 @@
 [title]
-Când Dumnezeu se scoală-n picioare {Author: {Cor copii Dynamis}}
+Când Dumnezeu se scoală-n picioare {author: {Cor copii Dynamis}}
 
 [sequence]
-c,1,2
+c,v1,v2
 
-[chorus]
+[c]
 /: Când Dumnezeu se scoală-n picioare
 Dușmanii fug, cerând cu toți iertare.
 Dușmanii fug căci El e Tatăl meu,
 Căci El e Dumnezeu!:/ (3x)
 
-[1]
+[v1]
 /: Mare Dumnezeu avem,
 Mare Dumnezeu avem!
 Cerul și pământul
 Să-L laude pe Sfântul!
 Mare Dumnezeu avem! :/
 
-[2]
+[v2]
 /: Isus este Domnul domnilor
 Și-mpăratul împăraților.
 El e cel mai mare-n

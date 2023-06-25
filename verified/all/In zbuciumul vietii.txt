@@ -2,30 +2,30 @@
 În zbuciumul vieții
 
 [sequence]
-1,c,2,c,3,e
+v1,c,v2,c,v3,e
 
-[1]
+[v1]
 În zbuciumul vieții
 Odihnă cine-mi dă?
 În suflet cine-mi toarnă,
 Din viața veșnică?
 
-[chorus]
+[c]
 /: Hristos, numai El :/ (3x)
 Îmi dă viață veșnică.
 
-[2]
+[v2]
 Înconjurat de griji,
 Aproape disperat,
 În drumul lung al vieții
 Fericiri n-am aflat.
 
-[3]
+[v3]
 Păcate mari și grele
 Mereu mă îngrozesc,
 Nu știu unde-i scăparea,
 S-o caut, ca s-o găsesc.
 
-[ending]
+[e]
 /: Numai în Hristos :/ (3x)
 Amice, tu te mântuiești.

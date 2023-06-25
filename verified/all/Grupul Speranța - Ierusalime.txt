@@ -1,10 +1,10 @@
 [title]
-Ierusalime {Author: {Grupul Speranța}}
+Ierusalime {author: {Grupul Speranța}}
 
 [sequence]
-1,c,2,c,3,t
+v1,c,v2,c,v3,c2
 
-[1]
+[v1]
 Pe drumul cel de piatră
 De pe-o colină ’naltă,
 Isus, cu fața tristă, privea,
@@ -17,14 +17,14 @@ Ca să mă crezi că am venit de sus?
 Te-am vindecat și ți-am făcut doar bine,
 Dar tu ai refuzat harul adus!”
 
-[chorus]
+[c]
 Ierusalime, te-am iubit,
 Ierusalime, la tine am venit!
 /: O, de-ai fi cunoscut tu astăzi
 Vremea cercetării tale
 Și lucrurile care pot să-ți dea salvare. :/
 
-[2]
+[v2]
 Pe drumul cel de piatră,
 Pe o colină înaltă,
 Isus, cu fața tristă, mergea,
@@ -37,7 +37,7 @@ O stea care din Iacov răsărea?
 Lumina care luminează lumea,
 Pe-Acel’ care voia să-ți dea viața.
 
-[3]
+[v3]
 Pe drumul vieții tale,
 Isus trece și astăzi,
 Privind în urma ta ce ai lăsat.
@@ -50,7 +50,7 @@ Sunt scriși acolo sus în cartea Sa.
 Dacă-ai umblat în căile dreptății
 Isus te va chema în slava Sa.
 
-[chorus 2]
+[c2]
 Ierusalime, tu ești iubit,
 Ierusalime, la tine am venit!
 Deschide-ți astăzi inima ta,

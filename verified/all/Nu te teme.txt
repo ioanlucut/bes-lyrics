@@ -2,9 +2,9 @@
 Nu te teme
 
 [sequence]
-1,c,t,2,t,c,e
+v1,c,c2,v2,c2,c,e
 
-[1]
+[v1]
 Așa vorbește Domnul, Cel care te-a creat:
 Nu te teme!
 Sunt Dumnezeul tău, ce te-a răscumpărat,
@@ -14,14 +14,14 @@ Nu te teme!
 Tu nu te îngrijora dar pentru viața ta,
 Nu te teme!
 
-[chorus]
+[c]
 Nu te teme,
 O, nu te teme,
 Eu sunt Domnul tău,
 Sunt Vegheatorul tău:
 Nu te teme!
 
-[chorus 2]
+[c2]
 Pentru tine dau popoare,
 Oameni pentru viața ta.
 Sunt cu tine și prin ape, te voi ajuta.
@@ -30,7 +30,7 @@ Focul nu te va atinge,
 Eu sunt Domnul tău, sunt Vegheatorul tău:
 Nu te teme!
 
-[2]
+[v2]
 Când boala și necazul, vin asupra ta,
 Nu te teme!
 Sunt Iehova, Rafa, Vindecătorul tău:
@@ -40,7 +40,7 @@ Nu te teme!
 Încrede-te în Mine, în promisiunea Mea:
 Nu te teme!
 
-[ending]
+[e]
 Eu sunt Domnul tău,
 Sunt Vegheatorul tău:
 Nu te teme!

@@ -2,27 +2,27 @@
 Vino la apa vieții
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Vino la apa vieții,
 Setos, ostenit și slab.
 Vino, că nu în zadar vii,
 Aici vei afla repaus.
 
-[chorus]
+[c]
 /: Grăbește-te, nu-ntârzia,
 Viață veșnică-ți va fi plata.
 Aici e apa vieții,
 Aici fie ținta ta!
 
-[2]
+[v2]
 La acest izvor grăbește,
 Umple-te de credință.
 Aici păcatul se șterge,
 Aici se-mparte milă.
 
-[3]
+[v3]
 Vino la acest izvor sfânt,
 Vindecare vei primi.
 Vezi, izvorăște viață,

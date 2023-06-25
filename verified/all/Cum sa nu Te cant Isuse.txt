@@ -2,51 +2,51 @@
 Cum să nu Te cânt, Isuse?
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c,6,c,7,c
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
 
-[1]
+[v1]
 Cum să nu Te cânt, Isuse?
 Cum să nu Te cânt?
 Cum să nu-Ți slăvesc eu oare,
 Numele Tău sfânt?
 
-[chorus]
+[c]
 /: Am strigat, am strigat
 La Tine, Doamne, Doamne
 Și m-ai ascultat
 Bucuria și iubirea mie mi le-ai dat. :/
 
-[2]
+[v2]
 Cum să tac atunci că-mi vine
 Lumii-ntregi să-i spun
 Cât de bun ai fost cu mine,
 Ah, cât ești de bun!
 
-[3]
+[v3]
 O, de-ar fi lacrimi, Isuse,
 Nu mi-ar fi de-ajuns,
 Să-Ți slăvesc cu ele,
 Ție, scump Isus.
 
-[4]
+[v4]
 Până-n veci voi spune, Doamne,
 Cât de-adevărat,
 Ce puternic e-al Tău Nume,
 Scump și minunat.
 
-[5]
+[v5]
 Fă să strig de bucurie,
 Fă să strig voios,
 Căci din moarte și pieire
 Prin jertfă m-ai scos.
 
-[6]
+[v6]
 Și m-ai scos din astă lume,
 La lumina Ta.
 Multe lacrimi, pentru mine,
 Au curs pe fața Ta.
 
-[7]
+[v7]
 Fă să cânt și azi, Isuse,
 Ție ne-ncetat,
 Să-mi aduc mereu aminte

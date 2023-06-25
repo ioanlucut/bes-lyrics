@@ -2,15 +2,15 @@
 Mai curat, mai curat
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Mai curat, mai curat,
 De păcat eu sunt spălat.
 Doamne știu, Doamne știu,
 Sunt curat și iertat.
 
-[chorus]
+[c]
 Prin puterea sângelui,
 Prin misterul dragostei,
 Prin credința-n Tine, Doamne,

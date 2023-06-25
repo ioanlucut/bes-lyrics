@@ -1,10 +1,10 @@
 [title]
-Mări se despart {Author: {Hillsong}}
+Mări se despart {author: {Hillsong}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Când tristă mi-e inima,
 Tu-Ți arăți dragostea
 Și deschizi ochii mei
@@ -15,13 +15,13 @@ Sprijin mi-e brațul Tău.
 /: Și deschizi ochii mei
 Să-nțeleg ce-ai făcut. :/
 
-[chorus]
+[c]
 Mări se despart, neamuri vin
 La chemarea Ta Isus.
 Viața mea Ți-o închin,
 În Tine speranța-mi pun.
 
-[2]
+[v2]
 Și de sufăr acum
 Mila Ta e pe drum.
 Când deschizi ochii mei

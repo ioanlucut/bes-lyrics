@@ -2,21 +2,21 @@
 Te caut, Doamne, caut fața Ta
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Te caut, Doamne, caut fața Ta,
 Te caut, Doamne, caut voia Ta.
 Tu ești stânca și ajutorul meu,
 Mă-ncred în Tine, căci Tu ești Dumnezeu.
 
-[chorus]
+[c]
 /: Arată-mi slava Ta,
 Arată-mi iubirea Ta, (Doamne)
 Întinde-Ți brațul Tău
 Că sunt copilul Tău. :/
 
-[2]
+[v2]
 Ascultă, Doamne, rugăciunea mea,
 Dă-mi izbăvire pentru slava Ta,
 Dă-mi bucurie ca să pot cânta,

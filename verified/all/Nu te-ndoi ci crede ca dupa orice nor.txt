@@ -2,9 +2,9 @@
 Nu te-ndoi, ci crede că după orice nor
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Nu te-ndoi, ci crede 
 Că după orice nor
 E-un soare și mai dulce 
@@ -15,7 +15,7 @@ Ci soarele-i acel
 Ce-nvinge și rămâne 
 Stăpân în urmă el. :/
 
-[2]
+[v2]
 Nu te uita la tine 
 Că ești atât de slab,
 Nici la vrăjmașul care 
@@ -26,7 +26,7 @@ La porțile de fier,
 La ura ce scrâșnește, 
 Ci uită-te la cer. :/
 
-[3]
+[v3]
 Nu te-ndoi, ci crede 
 Că dincolo de tot,
 Veghează Dumnezeul puternic, 
@@ -37,7 +37,7 @@ Că nicio clipă nu-i,
 Că nu-i nicio-ncercare, 
 Decât prin voia Lui. :/
 
-[4]
+[v4]
 Și dacă crezi puternic, 
 Nimica nu-i spre rău,
 Ci totul se va-ntoarce 

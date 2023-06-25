@@ -1,10 +1,10 @@
 [title]
-Dar mi-ai deschis ochii {Author: {Laud}}
+Dar mi-ai deschis ochii {author: {Laud}}
 
 [sequence]
-1,c,2,t
+v1,c,v2,c2
 
-[1]
+[v1]
 Eu nu Te cunoșteam Isus,
 Nu știam că-n astă lume
 Pentru mine cineva demult muri...
@@ -12,13 +12,13 @@ Eu nu voiam că să ascult
 De cuvântul vieții Tale,
 Care-mi spune că Isus mult m-a iubit.
 
-[chorus]
+[c]
 /: Dar mi-ai deschis ochii, Doamne,
 Și lumina a intrat în viața mea,
 Dar mi-ai deschis ochii, Doamne,
 Sunt mântuit și eu prin Golgota... :/
 
-[2]
+[v2]
 O, Doamne, cum să-ți mulțumesc
 Pentru ce-ai făcut în mine,
 Pentru sângele ce-a curs pe Golgota?
@@ -26,7 +26,7 @@ O, Doamne, ce-aș putea să-Ți dau?
 Inima mea
 De azi e doar a Ta.
 
-[chorus 2]
+[c2]
 /: Dar mi-ai deschis ochii, Doamne,
 Și lumina a intrat în viața mea,
 Dar mi-ai deschis ochii, Doamne,

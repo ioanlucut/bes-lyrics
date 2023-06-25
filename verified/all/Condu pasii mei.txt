@@ -2,15 +2,15 @@
 Condu pașii mei
 
 [sequence]
-1,c,1,c,1,c
+v1,c,v1,c,v1,c
 
-[1]
+[v1]
 Condu pașii mei
 Să nu mai rătăcesc.
 Condu pașii mei
 Să pot să Te urmez.
 
-[chorus]
+[c]
 Inima-mi strigă spre Tine,
 Rămâi lângă mine mereu.
 O, Domnul meu,

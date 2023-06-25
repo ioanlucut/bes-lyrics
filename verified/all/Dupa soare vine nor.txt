@@ -2,25 +2,25 @@
 După soare vine nor
 
 [sequence]
-1,c,2,c,e
+v1,c,v2,c,e
 
-[1]
+[v1]
 După soare vine nor, după nor iar vine soare,
 După bine vine rău, după ploi zile ușoare.
 Când e greu să ne rugăm ca în zilele cu soare,
 Rugăciunea orișicând poate aduce rezolvare.
 
-[chorus]
+[c]
 /: Când la cârma vieții e zi de zi numai Isus,
 Nu ne clătinăm de fel, nu ne poticnim pe cale.
 Căci la timp și ne la timp noi să ridicăm altare
 Presărându-le mereu, zi de zi pe a noastră cale. :/
 
-[2]
+[v2]
 Omul bun și în zile rele e tot bun ca în zile bune,
 Fața lui e tot senină, de e ploaie sau furtună.
 Fiindcă temelia lui nu îi zidită pe minciună
 Nu se clatină de fel, ea pe stâncă e zidită.
 
-[ending]
+[e]
 Amin!

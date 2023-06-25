@@ -2,13 +2,13 @@
 Domnul este adăpostul
 
 [sequence]
-1,c,2,c,3,c,4
+v1,c,v2,c,v3,c,v4
 
-[1]
+[v1]
 Domnul este adăpostul sufletului meu. (3x)
 El mă duce la izvoare, e Păstorul meu. (3x)
 
-[chorus]
+[c]
 /: Chiar dac-ar fi să umblu
 Prin valea umbrei morții, eu
 Nu mă tem de niciun rău.
@@ -16,19 +16,19 @@ Toiagul și nuiaua Ta
 Mă mângâie mereu,
 Nu mă tem de niciun rău :/
 
-[2]
+[v2]
 Îmi înviorează Duhul,
 E Păstorul meu, Dumnezeul meu.
 Pe cărări drepte-mi conduce zilnic pasul meu,
 Din pricina numelui Său
 
-[3]
+[v3]
 Untdelemnul Sfânt îmi unge zilnic capul meu,
 Dumnezeul meu.
 Sunt fericit, voi locui mereu în cortul Său,
 Mereu cu Domnul meu, mereu în cortul Său.
 
-[4]
+[v4]
 /: Chiar dac-ar fi să umblu
 Prin valea umbrei morții, eu
 Nu mă tem de niciun rău

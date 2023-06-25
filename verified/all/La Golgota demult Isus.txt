@@ -2,15 +2,15 @@
 La Golgota demult Isus
 
 [sequence]
-1,c,2,c,3,c,b,t
+v1,c,v2,c,v3,c,b,c2
 
-[1]
+[v1]
 La Golgota demult Isus
 Prin sânge sfânt, plăti de-ajuns
 Darul divin al mântuirii prin Hristos
 Har pentru omul, mort păcătos.
 
-[chorus]
+[c]
 Biserica Lui, biruitoare
 Va fi mereu pân’ la sfârșit.
 Nimeni nu poate să o învingă,
@@ -21,19 +21,19 @@ Nu-s legi făcute pe pământ
 Să ne doboare, să ne oprească,
 Cu noi e Domnul sfânt.
 
-[2]
+[v2]
 A înviat, s-a înălțat,
 La Cincizecimi a revărsat
 Duhul Cel Sfânt, biserica Lui botezând,
 Plini de putere cu El umblând.
 
-[3]
+[v3]
 Trecut-au regi și-npărății
 Stăpâni și vremi cu oameni mii,
 Biserica triumfătoare a rămas
 Cu ea e Domnul, pas cu pas.
 
-[chorus 2]
+[c2]
 Isus revine, pe nori ca Mire
 Să-și ia la cer Biserica
 Sfântă curată, fără de pată,
@@ -44,6 +44,6 @@ Când fața Lui o vom vedea,
 Cu adorare, în închinare
 Isus Te-om lăuda!
 
-[bridge]
+[b]
 /: Glorie Tatălui, glorie Fiului,
 Glorie Duhului Cel Sfânt, Amin! :/

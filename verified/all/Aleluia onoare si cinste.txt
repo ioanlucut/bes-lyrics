@@ -2,20 +2,20 @@
 Aleluia, onoare și cinste
 
 [sequence]
-c,1,c,2
+c,v1,c,v2
 
-[chorus]
+[c]
 Aleluia, onoare și cinste,
 Mărire și slavă
 /: Îi dăm Lui Isus. :/
 
-[1]
+[v1]
 Cântăm Aleluia,
 Isus ne iubește,
 Viață prin Isus
 /: Tatăl ne-a dăruit. :/
 
-[2]
+[v2]
 Hai, cântă Aleluia,
 Isus te iubește,
 Viață prin Isus

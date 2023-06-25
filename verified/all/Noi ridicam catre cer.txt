@@ -2,15 +2,15 @@
 Noi ridicăm către cer
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Noi ridicăm către cer
 Mâini curate spre singurul Miel.
 Numai El e-un Domn minunat
 Ce bun, ce mare e El!
 
-[chorus]
+[c]
 /: Sfânt e Dumnezeu, Domn peste toate,
 Întreg pământul Îl laudă,
 Sfânt e Dumnezeu, Domn peste toate,

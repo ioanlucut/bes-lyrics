@@ -2,22 +2,22 @@
 În Betleem
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 /: În Betleem, da, în Betleem
 E o mare minune. :/
 
-[chorus]
+[c]
 Hristos se naște, Domnul coboară,
 Îngerii cântă, magii Îl adoră,
 Păstori aleargă, ieslea o-nconjoară,
 Mari minuni se întâmplară.
 
-[2]
+[v2]
 /: Căci El a venit, căci El a venit
 Să mântuie tot omul. :/
 
-[3]
+[v3]
 /: Toți să-I dăm loc, dar, toți să-I dăm loc
 În inimi să se nască. :/

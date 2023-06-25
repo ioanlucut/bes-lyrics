@@ -1,31 +1,31 @@
 [title]
-Breakthrough {Alternative: {Prezența-Ți divină}, Author: {El-Shaddai}}
+Breakthrough {alternative: {Prezența-Ți divină}, author: {El-Shaddai}}
 
 [sequence]
-1,2,c,3,b,c
+v1,v2,c,v3,b,c
 
-[1]
+[v1]
 Sunt zdrobit de valul greu,
 Copleșit de îndoieli,
 Domn al milei, vino-n ajutor!
 
-[2]
+[v2]
 După vocea Ta tânjesc,
 Șoapta-n haos s-o găsesc.
 Tată, vreau să îmi vorbești din nou.
 
-[chorus]
+[c]
 Prezența-Ți divină
 Dărâmă ziduri, Rege-al cerului!
 Când vorbești Tu, se mută munții,
 Eu cred doar în biruința Ta.
 
-[3]
+[v3]
 Doar Tu-mi vindeci rănile,
 Inima-mi restaurezi.
 Ia ce-i frânt și fă-mă-ntreg din nou!
 
-[bridge]
+[b]
 Tu zgudui munții, dărâmi întărituri,
 Deschide cerul, puternic Domn Tu ești!
 Apărătorul sufletului meu,

@@ -1,28 +1,28 @@
 [title]
-Evanghelia are putere 
+Evanghelia are putere
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Cerul și pământul, ne spune Cuvântul, vor pieri,
 Un lucru rămâne, peste timp și lume pe vecii.
 Ne-a fost dăruită, cu sânge stropită la Calvar,
 N-are-asemănare sub întregul soare sau hotar.
 
-[chorus]
+[c]
 /: Evanghelia, Evanghelia,
 Evanghelia are putere,
 Evanghelia, Evanghelia,
 Evanghelia nicicând nu piere. :/
 
-[2]
+[v2]
 Cine o-mplinește, fericit trăiește tot mereu
 Și-n clipe grele, îți dă mângâiere Dumnezeu.
 Ea ne este harul, ne-alungă amarul și ne dă,
 Prin credința-n Domnul, o viață-n ceruri veșnică.
 
-[3]
+[v3]
 Ea mereu ne-nvață și ne dă povață cum trăim,
 Calea ne arată, jertfa Domnului s-o prețuim.
 Nu-i carte în lume care să ne-ndrume spre Isus.

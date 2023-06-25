@@ -2,20 +2,20 @@
 M-am hotărât să-L urmez pe Isus
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 /: M-am hotărât să-L urmez pe Isus :/ (3x)
 /: Și înapoi eu nu voi da. :/
 
-[2]
+[v2]
 /: Nimic nu mă va clinti pe cale :/ (3x)
 /: Și înapoi eu nu voi da. :/
 
-[3]
+[v3]
 /: În urmă-i lumea, ’nainte-i crucea, :/ (3x)
 /: Și înapoi eu nu voi da. :/
 
-[4]
+[v4]
 /: Renunț la lume, dar nu la Isus, :/ (3x)
 /: Și înapoi eu nu voi da. :/

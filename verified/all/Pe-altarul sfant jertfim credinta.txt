@@ -2,28 +2,28 @@
 Pe-altarul sfânt jertfim credința
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Pe-altarul sfânt jertfim credința,
 Viața-ntreagă ne-ncetat.
 Purtăm nădejdea-n biruință
 Și-al Domnului Cuvânt curat.
 
-[chorus]
+[c]
 /: Cântăm, cântăm și ne rugăm,
 Cântăm, cântăm și ne rugăm,
 Mărire Ție!
 O, Doamne-n veci, o, Doamne-n veci,
 Mărire Ție! :/
 
-[2]
+[v2]
 Pe-altarul sfânt jertfim credința,
 De-a pururi vom păși mereu,
 Cu inima nevinovată,
 Să-L preamărim pe Dumnezeu.
 
-[3]
+[v3]
 Pe-altarul sfânt jertfim credința,
 Iubirea noastră ne-ncetat
 Și vom intra în cer, în slavă,

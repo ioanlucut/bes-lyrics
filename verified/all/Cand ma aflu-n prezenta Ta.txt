@@ -2,15 +2,15 @@
 Când mă aflu-n prezența Ta
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Când mă aflu-n prezența Ta,
 Pace găsesc.
 Când mă aflu-n prezența Ta,
 Știu că Tu cunoști.
 
-[chorus]
+[c]
 Tu-mi cunoști numele,
 Tu cunoști viața mea,
 Încă mă mai iubești,

@@ -2,21 +2,21 @@
 Sunt mântuit prin jertfa Lui
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Sunt mântuit prin jertfa Lui,
 /: Sunt mântuit prin jertfa Lui
 Și-s bucuros s-o spun oricui,
 Sângele Lui m-a curățit, sunt mântuit. :/
 
-[2]
+[v2]
 Isus e-al meu Mântuitor
  /: Isus e-al meu Mântuitor,
 Cu viața mea Îi sunt dator,
 Sângele Lui m-a curățit, sunt mântuit. :/
 
-[3]
+[v3]
 El vine iar din cer la noi
 /: El vine iar din cer la noi
 Cu strălucirea vieții noi,

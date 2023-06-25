@@ -2,27 +2,27 @@
 Cu bucurie vor secera aceia
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Cu bucurie vor secera aceia,
 Cei ce-n lacrimi ei își pun sămânța lor,
 Numai dacă de la Domnul au sămânța,
 Doar atunci de snopi, ei se vor bucura.
 
-[chorus]
+[c]
 /: Bucurie va fi, bucurie va fi
 Când semănătorul plata-și va primi.
 Fericiți nespus, fericiți nespus,
 În etern vor sta la dreapta Lui Isus. :/
 
-[2]
+[v2]
 Puneți dimineața sămânța cea bună,
 Nu-ncetați și chiar de-ar fi, la miez de zi,
 Semănați și dacă seara se apropie
 Că-n sfârșit un mare seceriș va fi.
 
-[3]
+[v3]
 Semănați în inimi și de-ar fi ca stânca
 Ori pietros pământul unde semănați,
 Totuși, va cădea și pe pământul cel bun

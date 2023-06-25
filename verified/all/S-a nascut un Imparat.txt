@@ -2,27 +2,27 @@
 S-a născut un Împărat
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 S-a născut un Împărat,
 Domn al păcii, minunat,
 S-a născut Mântuitor,
 Domn al tuturor!
 
-[chorus]
+[c]
 Aleluia, îngerii cântau!
 Aleluia, toți se bucurau!
 Aleluia și noi cântăm,
 Lui Mesia inima I-o dăm!
 
-[2]
+[v2]
 Cum profeții-au profețit,
 Astăzi totul s-a-mplinit,
 Cel fără de început
 Astăzi s-a născut.
 
-[3]
+[v3]
 Să răsune-n largul zării
 Vestea Bună a-ndurării:
 Întunericul s-a dus,

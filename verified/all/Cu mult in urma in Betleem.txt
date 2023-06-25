@@ -2,9 +2,9 @@
 Cu mult în urmă în Betleem
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Cu mult în urmă în Betleem,
 Sfânta Biblie spune,
 Maria a născut un fiu
@@ -15,13 +15,13 @@ Cerul s-a înseninat,
 Universul s-a umplut
 De slavă și cântat.
 
-[chorus]
+[c]
 Să-I cântăm cu toți în cor,
 Noul Rege S-a născut
 Și viață El ne-a dăruit
 Și astăzi iar e Crăciun.
 
-[2]
+[v2]
 Păstorii s-au înfricoșat,
 Cerul când a izbucnit
 Și într-un gând au alergat

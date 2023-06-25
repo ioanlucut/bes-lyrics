@@ -1,27 +1,27 @@
 [title]
-Mă predau azi {Alternative: {Adaptare după Matt Crocker}, Author: {BBSO}}
+Mă predau azi {alternative: {Adaptare după Matt Crocker}, author: {BBSO}}
 
 [sequence]
-1,2,b,c,b,c
+v1,v2,b,c,b,c
 
-[1]
+[v1]
 Doamne, vin, ’naintea Ta mă-nchin,
 /: Azi mă predau. :/
 Sunt aici, doar Tu poți să mă ridici,
 /: Sunt doar al Tău. :/
 Mă predau azi!
 
-[2]
+[v2]
 Inima mea, vrea în prezența Ta,
 /: Tânjește de dor. :/
 Și mâini ridic, Tu mă auzi când strig
 /: Și îmi vorbești. :/
 
-[bridge]
+[b]
 /: Mă predau azi! :/ Tot ce-mi doresc, acum,
 E să Te cunosc mai mult! :/
 
-[chorus]
+[c]
 /: Lasă Duhul Tău
 Să sufle peste noi,
 Să fiu umplut,

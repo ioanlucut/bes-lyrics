@@ -2,33 +2,33 @@
 Păzește-ți piciorul
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Păzește-ți piciorul, străine, când vii
 În cortul întâlnirii.
 Aici este poarta Dumnezeului viu,
 Cetatea nemuririi.
 
-[chorus]
+[c]
 Aici este poarta cerurilor,
 E calea ce duce în sus,
 Aici este Regele regilor,
 Aici domnește Isus.
 
-[2]
+[v2]
 Aici vin copii săraci și orfani,
 Aici vin părinți cu durere,
 Aici vin bătrâni necăjiți și sărmani,
 Să simtă-n Isus mângâiere.
 
-[3]
+[v3]
 Aici e puterea ce mișcă chiar munți,
 Puterea de la Rusalii.
 Biserica celor întâi născuți,
 Cântându-I Osanale!
 
-[4]
+[v4]
 Aici vin bolnavi și acei disperați,
 Vin cei ce doresc vindecarea.
 Vin cei chinuiți de demoni necurați,

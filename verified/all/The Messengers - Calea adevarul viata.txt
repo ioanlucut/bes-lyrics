@@ -1,10 +1,10 @@
 [title]
-Calea, adevărul, viața {Author: {The Messengers}}
+Calea, adevărul, viața {author: {The Messengers}}
 
 [sequence]
-c,1,c,2,c
+c,v1,c,v2,c
 
-[1]
+[v1]
 Calea, adevărul, viața
 E Isus Hristos cel Sfânt.
 A venit trimis de Tatăl pe Pământ,
@@ -12,13 +12,13 @@ Răstignit a fost pe cruce
 Pentru-al tău și-al meu păcat,
 A-nviat a treia zi și-a triumfat.
 
-[chorus]
+[c]
 Ai biruit mormântul și moartea ai învins,
 Oricine prin credință salvat e de abis,
 Ai dăruit iertare oricărui pământean
 Prin pocăință, mântuire-n dar.
 
-[2]
+[v2]
 Poate astăzi, înc-odată,
 Tu auzi iar de Isus
 Și la inima ta bate să-I deschizi.

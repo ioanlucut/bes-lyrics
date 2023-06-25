@@ -4,12 +4,12 @@
 [sequence]
 c,b,c,b
 
-[chorus]
+[c]
 /: Împreună vom fi toți,
 În prezența Domnului
 Și vom cânta: „Aleluia,
 Rege-al regilor!” :/
 
-[bridge]
+[b]
 /: Strigăm: „Sfânt, sfânt, sfânt
 Este Domnul nostru, Atotputernicul!” :/

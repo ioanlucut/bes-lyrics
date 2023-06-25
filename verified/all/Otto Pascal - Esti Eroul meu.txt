@@ -1,38 +1,38 @@
 [title]
-Ești Eroul meu {Author: {Otto Pascal}}
+Ești Eroul meu {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c,3,c,4,c,e
+v1,c,v2,c,v3,c,v4,c,e
 
-[1]
+[v1]
 Pe când încă ochii nu au zărit lumina,
 Pe când în brațul mamei mele m-alintai,
 Mâna Ta de tată m-a păzit și crescând cu drag m-a îngrijit,
 Nu știam că ești eroul sufletului meu!
 
-[chorus]
+[c]
 Nu pot să-nțeleg ce-ai văzut la mine, să mă iubești așa de mult,
 Chiar viața Ta pentru mine Ți-ai dat,
 Nimeni nu m-a iubit mai mult, vreau ca vocea să-Ți ascult
 Ești erou, eroul pe care-L iubesc, Isus!
 
-[2]
+[v2]
 Pe câmpul de luptă cel rău mă rănise,
 Dar ai luptat ca un viteaz să mă salvezi.
 Mâna Ta de tată m-a păzit, rănile cu drag mi-ai îngrijit,
 Mă voi laudă cu Tine, ești eroul meu!
 
-[3]
+[v3]
 Nu pot să-nțeleg ce-ai văzut la mine, să mă iubești așa de mult,
 Chiar viața Ta pentru mine Ți-ai dat,
 Nimeni nu m-a iubit mai mult, vreau ca vocea să-Ți ascult,
 Ești erou, eroul pe care-L iubesc!
 
-[4]
+[v4]
 Nu pot să-nțeleg ce-ai văzut la mine, să mă iubești așa de mult,
 Chiar viața Ta pentru mine Ți-ai dat,
 Nimeni nu m-a iubit mai mult, vreau ca vocea să-Ți ascult,
 Ești erou, eroul pe care-L iubesc!
 
-[ending]
+[e]
 Nu-nțeleg ce-ai văzut la mine să mă iubești așa de mult.

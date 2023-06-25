@@ -1,33 +1,33 @@
 [title]
-Astăzi vin la Tine, Domnul meu {Author: {Liviu Deac}}
+Astăzi vin la Tine, Domnul meu {author: {Liviu Deac}}
 
 [sequence]
-1,p,c,2,p,c,c,e
+v1,p,c,v2,p,c,c,e
 
-[1]
+[v1]
 Astăzi vin la Tine, Domnul meu.
 Sufletul mi-e plin de bucurie,
 Fiindcă m-ai făcut copilul Tău
 Ca să pot trăi o veșnicie.
 
-[prechorus]
+[p]
 Sunt atât de fericit,
 Domnul meu iubit,
 De minunea ce-ai făcut-o
 În viața mea.
 
-[chorus]
+[c]
 /: Vreau să Îți cânt, vreau să Te laud,
 Să Îți mulțumesc că ești în viața mea.
 Cu putere m-ai luat din întuneric
 Și mi-ai arătat înțelepciunea Ta. :/
 
-[2]
+[v2]
 Astăzi vin la Tine, Domnul meu,
 Să Îți mulțumesc de-a Ta iertare.
 Sunt răscumpărat prin harul Tău
 Și trăiesc prin a Ta îndurare.
 
-[ending]
+[e]
 Cu putere m-ai luat din întuneric
 Și mi-ai arătat înțelepciunea Ta.

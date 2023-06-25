@@ -2,22 +2,22 @@
 Schimbă-mi inima, fă-mă mai curat
 
 [sequence]
-1,c,2
+v1,c,v2
 
-[1]
-/: Schimbă-mi inima, 
+[v1]
+/: Schimbă-mi inima,
 Fă-mă mai curat,
-Mai real, mai sfânt, 
+Mai real, mai sfânt,
 Mai adevărat. :/
 
-[chorus]
-Tu ești Olarul, 
+[c]
+Tu ești Olarul,
 Iar eu lutul,
-Fă-mă să semăn, 
+Fă-mă să semăn,
 Doamne, cu Tine.
 
-[2]
-/: Schimbă-mi inima, 
+[v2]
+/: Schimbă-mi inima,
 Fă-o ca a Ta,
-Schimbă-mi inima, 
+Schimbă-mi inima,
 Asta-i ruga mea! :/

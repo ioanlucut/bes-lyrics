@@ -2,26 +2,26 @@
 Cu Domnul să mergem-nainte
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Cu Domnul să mergem-nainte,
 Cu Domnul să mergem cântând,
 /: Când totul se stinge-n morminte
 Cu El biruim orișicând. :/
 
-[chorus]
+[c]
 /: Cu El biruim, cu El biruim,
 Oricât de-ndârjită e lupta,
 Cu Domnul Isus biruim. :/
 
-[2]
+[v2]
 Isus e în veci Împăratul
 Căci El e de-a pururea viu.
 /: Prin moarte-a plătit El păcatul,
 Mormântu-i rămas-a pustiu. :/
 
-[3]
+[v3]
 Când mergem cu El e lumină
 Iubire și cântec și har.
 /: Cu Domnul izbânda-i deplină

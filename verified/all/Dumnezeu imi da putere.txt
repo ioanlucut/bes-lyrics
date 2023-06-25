@@ -2,51 +2,51 @@
 Dumnezeu îmi dă putere
 
 [sequence]
-1,2,3,4,5,6,7,8
+v1,v2,v3,v4,v5,v6,v7,v8
 
-[1]
+[v1]
 Dumnezeu îmi dă putere,
 Harul Său și mângâiere,
 Dar dator sunt acum eu
 Să-I slujesc prin Harul Său.
 
-[2]
+[v2]
 Căci va veni foametea
 Și nu vom putea lucra
 Domnul ne spune frumos
 În Scriptură la Amos:
 
-[3]
+[v3]
 Căci va fi foamete-n lume
 Nu de apă sau de pâine
 Ci de auzirea Lui,
 De Cuvântul Domnului.
 
-[4]
+[v4]
 Vor plânge și vor umbla
 De la o mare la alta,
 De la răsărit l-apus
 Să-l găsească pe Isus.
 
-[5]
+[v5]
 Orișicât vor căuta 
 Pe Isus nu-L vor afla.
 Va fi timpul pe sfârșit
 Și rămâi nemântuit.
 
-[6]
+[v6]
 Dar acum Domnul ne spune:
 „Căutați-Mă pe Mine!”
 Până Mă puteți afla
 Căci Harul se va lua.
 
-[7]
+[v7]
 La Israel va fi dat,
 De la el a fost
 Ca să ni-L dea Domnul nouă
 Să trăim o viață nouă.
 
-[8]
+[v8]
 Ca și sfinții din trecut,
 Ce pe Domnul L-au crezut,
 Prin dragoste și credință

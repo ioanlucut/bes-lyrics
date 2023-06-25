@@ -1,10 +1,10 @@
 [title]
-Îl văd pe El, pe Domnul meu {Author: {Alin Timofte}}
+Îl văd pe El, pe Domnul meu {author: {Alin Timofte}}
 
 [sequence]
-c,1,c,1,c,1,c
+c,v1,c,v1,c,v1,c
 
-[chorus]
+[c]
 /: Îl văd pe El, pe Domnul meu,
 Înălțat în închinarea
 Ce i-o dă poporul Său.
@@ -12,7 +12,7 @@ Ce i-o dă poporul Său.
 În fața ochilor văd Mielul, stând pe tron,
 Ce-n veci de veci, e Domn. :/
 
-[1]
+[v1]
 Poala hainei Lui umple Templul,
 Mulțimile de-nchinători stau în jurul Său,
 Cu corul de îngeri,

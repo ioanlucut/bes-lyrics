@@ -1,16 +1,16 @@
 [title]
-Domn al veșniciei {Version: {ii}, Author: {Cor copii Dynamis}}
+Domn al veșniciei {version: {ii}, author: {Cor copii Dynamis}}
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Domn al veșniciei,
 Ce pământul ai creat,
 Cerul este al Tău templu,
 Glorie Celui înălțat!
 
-[chorus]
+[c]
 Domn al slavei mai sus de galaxii
 Tu ești vrednic, vrednic!
 Universul în veci Te va slăvi
@@ -18,10 +18,10 @@ Tu ești vrednic, vrednic!
 Domn în cer și pe pământ,
 Domn în cer și pe pământ.
 
-[2]
+[v2]
 Dis de dimineața Lumina voi întâmpina
 Și în noapte de mă clatin,
 Al Tău Nume voi chema:
 
-[bridge]
+[b]
 /: Aleluia, ești Domn, ai fost și vei fi ! :/ (3x)

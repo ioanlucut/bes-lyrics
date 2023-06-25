@@ -2,9 +2,9 @@
 Aleluia, El e Domn
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Ți-ai arătat puterea mare,
 Boldul morții L-ai înfrânt.
 Din mormânt ai înviat triumfător,
@@ -12,7 +12,7 @@ Lanțurile le-ai zdrobit,
 Pe captivi ai eliberat,
 Prin a Ta îndurare sunt salvat.
 
-[chorus]
+[c]
 Aleluia, Aleluia, Aleluia,
 /: El e Domn! :/
 Aleluia, Aleluia, Aleluia,

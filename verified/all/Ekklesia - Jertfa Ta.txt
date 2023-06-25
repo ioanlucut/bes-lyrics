@@ -1,10 +1,10 @@
 [title]
-Jertfa Ta {Author: {Ekklesia}}
+Jertfa Ta {author: {Ekklesia}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Ne sfătuiești și ne înveți
 Doamne, fiindcă ne iubești.
 Să-mplinim Cuvântul Tău
@@ -15,13 +15,13 @@ Lumina în noaptea grea,
 Un turn tare în nevoi,
 Totdeauna ești cu noi.
 
-[chorus]
+[c]
 Jertfa Ta pe Golgota
 Schimbă inimi, vindecă.
 Ne deschidem inima,
 O, Doamne, intră Tu în ea.
 
-[2]
+[v2]
 La-nceput ai fost Cuvânt,
 Plin de har și adevăr,
 Întrupat printre noi,
