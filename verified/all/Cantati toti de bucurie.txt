@@ -2,9 +2,9 @@
 Cântați toți de bucurie
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Cântați toți de bucurie
 Căci Hristos s-a născut
 Să cânte spre-a Lui mărire
@@ -12,7 +12,7 @@ Cerul și pământul,
 Cerul și pământul,
 Cerul, cerul și pământul!
 
-[2]
+[v2]
 Omenirea să-L primească
 Pe Regele suprem,
 Iar inima omenească
@@ -20,7 +20,7 @@ Lui să-I găsească loc,
 Lui să-I găsească loc,
 Lui să-I, Lui să-I găsească loc!
 
-[3]
+[v3]
 El va domni-n mărire
 Peste-ntreaga lume.
 Popoarele cu dreptate

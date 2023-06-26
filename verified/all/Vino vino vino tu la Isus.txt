@@ -2,15 +2,15 @@
 Vino, vino, vino tu la Isus
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Vino, vino, vino tu la Isus!
 Vino, tu, acum!
 Vino, vino și să fii tu supus
 Domnului cel bun!
 
-[chorus]
+[c]
 /: O, vino! Eu te chem
 Și astăzi te îndemn,
 Căci noaptea va veni
@@ -21,13 +21,13 @@ Lasă tu lumea,
 Căci în lume nu e nici căință,
 Numai pierirea.
 
-[2]
+[v2]
 Vino, vino acum, o, Isuse!
 Condu-mă mai sus.
 Până vom fi de Isus sfințiți,
 În sângele Lui.
 
-[3]
+[v3]
 Vino, vino! Îți voi da viață,
 Vino, suflete!
 Eu sunt Isus și la Mine în brațe

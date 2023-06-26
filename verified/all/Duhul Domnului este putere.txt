@@ -2,17 +2,17 @@
 Duhul Domnului este putere
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Cel Ce e-n noi e mai tare
 Decât duhul veacului,
 Suntem mai mult decât biruitori
 Prin puterea Domnului,
 Doar a Lui!
 
-[chorus]
+[c]
 /: Duhul Domnului este putere,
 Duhul Domnului e tăria mea,
-Duhul Domnului este putere, 
+Duhul Domnului este putere,
 Îmi dă victoria! :/

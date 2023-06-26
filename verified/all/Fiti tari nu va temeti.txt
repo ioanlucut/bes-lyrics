@@ -2,29 +2,29 @@
 Fiți tari, nu vă temeți
 
 [sequence]
-c,1,c,2,c,3
+c,v1,c,v2,c,v3
 
-[chorus]
+[c]
 Fiți tari, fiți tari, nu vă temeți,
 Iată, Dumnezeul vostru va veni.
 El Însuși va veni și vă va mântui,
 Fiți tari, fiți tari în Dumnezeu.
 
-[1]
+[v1]
 Atunci se vor deschide ochii orbilor,
 Se vor deschide urechile surzilor,
 Atunci și șchiopul va sări
 Și cel mut Îl va slăvi,
 Căci în pustie ape vor țâșni.
 
-[2]
+[v2]
 Pustietatea va fi izvoare de ape,
 O cale și un drum acol’ se vor croi.
 Calea cea sfântă pentru sfinți,
 Cei curați o vor călca,
 Să rătăcească niciunul nu va putea.
 
-[3]
+[v3]
 Cei izbăviți de Domnul pe ea vor umbla,
 Cântări de biruință ei vor înălța.
 O bucurie veșnică a lor cap va-ncununa,

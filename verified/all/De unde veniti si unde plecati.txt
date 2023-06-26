@@ -2,9 +2,9 @@
 De unde veniți și unde plecați
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 De unde veniți și unde plecați,
 Iubiți călători minunați?
 Cu finici în mâini și-n alb îmbrăcați
@@ -15,7 +15,7 @@ Noi mergem la scumpul nostru Mântuitor.
 Cu Isus pe veci noi ca să fim,
 Cu El să ne înveselim.
 
-[2]
+[v2]
 Dar hainele albe unde le-ați spălat?
 Cu ce fel de ape le-ați albit?
 Așa strălucire n-am mai întâlnit
@@ -26,7 +26,7 @@ Pe dealul Golgotei izvor am aflat
 Prin sângele Mielului nevinovat,
 În sângele Lui cel curat.
 
-[3]
+[v3]
 Măreață cântarea ce o fredonați
 În cinstea cui o cântați?
 Iar cununa sfântă din aur curat,
@@ -37,7 +37,7 @@ Cununa de spini capul I-a încoronat.
 Iar nouă, în schimb, fiindcă L-am urmat,
 Cunună de aur ne-a dat.
 
-[4]
+[v4]
 Nimic n-am avut mai scump pe-acest pământ
 Ca Domnul ce-a fost în mormânt.
 Cu lacrimi o viață noi ne-am hrănit
@@ -48,7 +48,7 @@ Că vom fi cu El cu toții în paradis.
 Pe-acest Isus noi Îl căutăm
 Căci vrem să Îl lăudăm.
 
-[5]
+[v5]
 E aproape venirea, vine, e pe drum.
 Mireasa-L așteaptă acum.
 Deschis este cerul, iar pe bolta lui

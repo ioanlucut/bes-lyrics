@@ -1,10 +1,10 @@
 [title]
-Ne-ai fost, Doamne, ajutor {Author: {Puiu Chibici}}
+Ne-ai fost, Doamne, ajutor {author: {Puiu Chibici}}
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Ne-ai fost, Doamne, ajutor,
 Tu întotdeauna,
 Ne-ai fost sprijin tuturor,
@@ -14,7 +14,7 @@ Când bătea furtuna.
 Mijlocind la Dumnezeu
 Pentru noi, Isuse. :/
 
-[2]
+[v2]
 Ne-ai fost, Doamne, zi de zi,
 Hrană-mbelșugată,
 Ne-ai iubit ca pe-ai Tăi fii,
@@ -24,7 +24,7 @@ Gardă îngerească,
 Ca orice săgeți ce vin
 Să le nimicească. :/
 
-[3]
+[v3]
 Ești același din vecii,
 Neclintit și tare,
 Bun și blând cu-ai Tăi copii,
@@ -34,7 +34,7 @@ Dătător de viață,
 Ești un har pentru pământ
 În orice dimineață. :/
 
-[4]
+[v4]
 Ne-ai fost, Doamne, ne-ncetat
 Sfântă mângâiere,
 Și pe oricine-ai învățat

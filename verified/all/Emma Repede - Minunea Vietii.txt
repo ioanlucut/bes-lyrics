@@ -1,10 +1,10 @@
 [title]
-Minunea Vieții {Author: {Emma Repede}}
+Minunea Vieții {author: {Emma Repede}}
 
 [sequence]
-1,b,c,2,c
+v1,b,c,v2,c
 
-[1]
+[v1]
 Ca o floare, cu un nou parfum,
 În așteptarea primăverii dulci,
 Și eu, și eu Te așteptam.
@@ -12,19 +12,19 @@ Doamne, oare tot ce mi-ai promis
 E o imaginație sau un vis distant?
 Uneori mă întrebam.
 
-[bridge]
+[b]
 Tu ești Tatăl meu bun,
 Orice lucru-l faci frumos la vremea lui.
 Tu ești Tatăl meu bun,
 Orice lucru îl faci frumos.
 
-[chorus]
+[c]
 Trăiesc minunea vieții pline
 De dragoste și har,
 Doamne, tot ce am, e de la Tine și pentru Tine!
 Inima mea bate să Te laude!
 
-[2]
+[v2]
 Mi-ai arătat ce-nseamnă dragostea,
 Când sus pe cruce Tu la mine te-ai gândit.
 Mi-ai dat în dar un nou destin

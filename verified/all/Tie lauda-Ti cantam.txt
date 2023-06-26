@@ -2,21 +2,21 @@
 Ție laudă-Ți cântăm
 
 [sequence]
-1,c,1,c,b,c
+v1,c,v1,c,b,c
 
-[1]
+[v1]
 Ție laudă-Ți cântăm,
 Pe Tine Te adorăm,
 Numele Tău înălțăm.
 În prezența tronului plin de slavă,
 În prezența Ta noi vrem să stăm.
 
-[chorus]
+[c]
 Venim, Mâinile ridicăm,
 Venim, pe genunchi ne plecâm,
 Venim, Ție să ne-nchinăm,
 Inima să-Ți dăm.
 
-[bridge]
+[b]
 Inima și mintea mea
 Îți dăruiesc, toată viața mea.

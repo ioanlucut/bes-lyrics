@@ -2,9 +2,9 @@
 Auzi corul îngeresc
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Auzi corul îngeresc,
 Dumnezeu din cer slăvesc!
 Cântă imnuri înălțând,
@@ -15,7 +15,7 @@ Pe-al Său Fiu El L-a trimis.
 /: Auzi corul îngeresc,
 Cântând Tatălui ceresc! :/
 
-[chorus]
+[c]
 /: Bine ai venit, Isus!
 Bine ai venit, Isus!
 Lasă Gloria Ta
@@ -23,7 +23,7 @@ Strălucind și azi, Rege minunat!
 Aleluia.
 Aleluia. :/
 
-[2]
+[v2]
 Cel din cerul minunat,
 Preamărit și înălțat,
 Pe Pământ jos a venit
@@ -34,7 +34,7 @@ Chiar și moarte-a suferit,
 /: De păcate ne-a spălat,
 Viață nouă El ne-a dat! :/
 
-[3]
+[v3]
 Toate de la El primim,
 Când prin rugăciuni venim.
 Să-I deschidem inima,

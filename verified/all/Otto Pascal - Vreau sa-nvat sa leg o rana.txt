@@ -1,16 +1,16 @@
 [title]
-Vreau să-nvăț să leg o rană {Author: {Otto Pascal}}
+Vreau să-nvăț să leg o rană {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 De multe ori în urma mea, prin gestul meu necugetat,
 Rănit-am oameni, rănit-am oameni,
 Dar nu prin arme sau cuțit, ci prin ceea ce-am vorbit,
 Am dărâmat templul care trebuia zidit.
 
-[chorus]
+[c]
 /: Vreau ca gura mea, de acum, să rostească
 Tot ce-aduce un zâmbet pe față,
 Tânjesc să iubesc, ca și Sfântul Miel,
@@ -18,7 +18,7 @@ Vreau să-învăț să leg o rană,
 Să conduc privirea oarbă către ceruri,
 Nu pot uita că și eu am fost condus cândva de Sfântul Miel. :/
 
-[2]
+[v2]
 Aș vrea ca rănile să leg,
 Celor ce-n drumul vieții merg.
 Fără speranța, fără speranță,

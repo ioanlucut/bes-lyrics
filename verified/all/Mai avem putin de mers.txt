@@ -2,9 +2,9 @@
 Mai avem puțin de mers
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Mai avem puțin de mers,
 Pân’ la ținta mult dorită.
 Plânsul nostru va fi șters
@@ -14,7 +14,7 @@ De lumina-nveșnicită.
 Plânsul nostru va fi șters
 De lumina-nveșnicită. :/
 
-[2]
+[v2]
 Mai avem puțin de stat,
 Pe pământul fără pace,
 Și, în cerul minunat,
@@ -24,7 +24,7 @@ Un etern popas vom face.
 Și, în cerul minunat,
 Un etern popas vom face. :/
 
-[3]
+[v3]
 Mai avem puțin de dus
 Crucea pregătirii noastre,
 Și zbura-vom, mult mai sus,
@@ -34,7 +34,7 @@ Către zările albastre.
 Și zbura-vom, mult mai sus,
 Către zările albastre. :/
 
-[4]
+[v4]
 Mai avem puțin, puțin,
 Pân’ la sfânta întâlnire,
 În văzduhul cristalin

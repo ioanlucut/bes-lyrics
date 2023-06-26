@@ -2,16 +2,16 @@
 Eu sunt un om
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Eu sunt un om, sunt doar un om.
 Ajută-mi, Te rog,
 Să cred mai mult ce pot a fi!
 Să cred mai mult în al meu Domn!
 Ajută-mă să Te slujesc timp de o zi!
 
-[chorus]
+[c]
 /: Un timp de o zi, Isuse,
 Atât este tot ce-mi doresc.
 O, dă-mi Tu puteri,
@@ -20,7 +20,7 @@ Căci mâine nu știu, Isuse,
 Dacă va mai fi înc-o zi,
 Nu știu timpul când viața mea se va sfârși. :/
 
-[2]
+[v2]
 Îți amintești când pe pământ
 Cu oameni umblai
 Și le vorbeai prin Duhul Sfânt.

@@ -2,16 +2,16 @@
 Fii excelent
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Romani 16:19 zice: (4x)
 
-[2]
+[v2]
 Fii excelent în ce e bun,
 Fii inocent în rău! (2x)
 
-[3]
+[v3]
 Și Domnul păcii
 Pe Satan îl va-nvinge
 Da-l, va-nvinge

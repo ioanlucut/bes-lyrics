@@ -1,44 +1,44 @@
 [title]
-Într-o noapte-n Betleem {Author: {Cor copii Dynamis}}
+Într-o noapte-n Betleem {author: {Cor copii Dynamis}}
 
 [sequence]
-1,2,c,3,4,c,b,c
+v1,v2,c,v3,v4,c,b,c
 
-[1]
+[v1]
 Într-o noapte-n Betleem
 Păstorii își păzeau turmele în câmp.
 De strajă ei făceau,
 Un înger străluci împrejurul lor,
 Duios el le vorbi de-un Mântuitor:
 
-[2]
+[v2]
 „Nu vă înfricați căci vă aduc o veste,
 Azi în Betleem un Prunc vi s-a născut!”
 
-[chorus]
+[c]
 /: Slavă Lui Dumnezeu, slavă în locurile-nalte,
 Pace, pace între oameni plăcuți Domnului. :/
 (cântați-I)
 
-[3]
+[v3]
 Spuneți tuturor căci s-a născut Isus,
 Cântați cu îngerii, cântați cu cei de sus.
 El, Regele Isus, cerul a lăsat
 Pentru mine a venit să fiu pe veci salvat.
 
-[4]
+[v4]
 Îl voi lăuda întreagă viața mea
 Și-L voi mărturisi ca Domn și împărat!
 
-[chorus]
+[c]
 /: Slavă Lui Dumnezeu, slavă în locurile-nalte,
 Pace, pace între oameni plăcuți Domnului. :/
 
-[bridge]
+[b]
 /: Săltați, cântați, în Israel
 Va reveni Emanuel! :/
 
-[chorus]
+[c]
 /: Slavă Lui Dumnezeu, slavă în locurile-nalte,
 Pace, pace între oameni plăcuți Domnului. :/
 Între oameni plăcuți Domnului

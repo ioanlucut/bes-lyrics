@@ -2,15 +2,15 @@
 Bună seara, oameni buni
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Bună seara, oameni buni!
 Am venit să colindăm,
 Am venit cu bucurie
 Gânduri bune să urăm.
 
-[chorus]
+[c]
 Că-ntr-o seară ca aceasta
 S-a născut Isus Hristos,
 Pe pământ, la oameni a venit.
@@ -18,13 +18,13 @@ Că-ntr-o seară ca aceasta
 S-a născut Isus Hristos,
 Cerul cu pământul s-au unit.
 
-[2]
+[v2]
 Bună seara, oameni buni!
 Am venit din depărtare,
 Am venit cu drag la voi
 Să v-aducem vestea mare.
 
-[3]
+[v3]
 Bună seara, oameni buni!
 De-aici mergem mai departe,
 Vrem cu drag și noi să ducem

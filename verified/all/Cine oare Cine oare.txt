@@ -2,9 +2,9 @@
 Cine, oare? Cine, oare?
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Cine, oare? Cine, oare,
 Te-a scăpat din strâmtorare, Israel, Israel?
 Cine te-a strigat pe nume
@@ -14,7 +14,7 @@ Cine te-a strigat pe nume
 Cine te-a răscumpărat?
 Cine altul decât El, Israel, Israel? :/
 
-[2]
+[v2]
 Cine te-a scos din robie
 Și ți-a dat o apă vie, Israel, Israel?
 Cin’ te-a scos din mare-adâncă
@@ -24,7 +24,7 @@ Cin’ te-a scos din mare-adâncă
 Și ți-a ridicat ocara?
 Cine altul decât El, Israel, Israel? :/
 
-[3]
+[v3]
 „Nu te teme-al Meu popor!
 Eu îți vin în ajutor, Israel, Israel!”
 Chiar dacă vrăjmașul vine,
@@ -34,7 +34,7 @@ Domnul luptă pentru tine, Israel, Israel!
 Pentru tine dau popoare!”
 Iată, ce vorbește El, Israel, Israel! :/
 
-[4]
+[v4]
 Cântă azi, poporul Meu:
 „Te-nalț, Doamne, Dumnezeu, Dumnezeu, Dumnezeu!
 De noi iarăși Te înduri,

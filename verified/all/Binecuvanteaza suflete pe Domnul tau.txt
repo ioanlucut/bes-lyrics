@@ -2,15 +2,15 @@
 Binecuvântează, suflete, pe Domnul tău
 
 [sequence]
-1,2
+v1,v2
 
-[1]
+[v1]
 Binecuvântează, suflete, pe Domnul tău,
 Nu uita nici una din binefacerile Lui,
 Căci El îți iartă făr’delegea ta,
 Îndurare-n dar îți dă și-n veci mântuirea.
 
-[2]
+[v2]
 Binecuvântează, suflete, pe Domnul tău,
 Nu uita nici una din binefacerile Lui,
 Căci El îți iartă făr’delegea ta,

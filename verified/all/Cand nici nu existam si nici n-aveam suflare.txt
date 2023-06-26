@@ -2,27 +2,27 @@
 Când nici nu existam și nici n-aveam suflare
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Când nici nu existam și nici n-aveam suflare,
 Din cer, încă de-atunci, mă vedeai.
 Când nici chip nu aveam și nici vreo zi sub soare,
 În Cartea Sfântă numele-mi scriai.
 
-[chorus]
+[c]
 /: Te laud, Te laud,
 Te laud, căci ai iubit sufletul meu!
 Ești Sfânt, ești drept, ești bun, ești mare,
 Te laud, căci numai Tu ești Dumnezeu! :/
 
-[2]
+[v2]
 Mă cercetezi ’n-ascuns, m-acoperi cu-ndurare
 Și ești cu mine-atunci când mă trezesc.
 O, cât de nepătruns ești în a Ta lucrare,
 De-aceea, Doamne, numele-Ți slăvesc.
 
-[3]
+[v3]
 Oriunde aș pleca, Tu ești mereu cu mine
 Cu Tine chiar și noaptea este zi.
 Cu Tine nu voi fi nicicând dat de rușine,

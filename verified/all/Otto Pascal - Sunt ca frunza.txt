@@ -1,16 +1,16 @@
 [title]
-Sunt ca frunza {Author: {Otto Pascal}}
+Sunt ca frunza {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Sunt ca frunza ce se ține prin puterea Domnului.
 Vântul nu mă poate smulge cât în mine e Isus.
 Cei uscați și fără sevă de vârtej vor fi purtați
 Și ajunge-vor în moarte pentru-al lor păcat.
 
-[chorus]
+[c]
 Ține-mă strâns, Sfinte Tată,
 Dă-mi din Duhul Tău cel Sfânt,
 Căci nimic nu sunt fără Tine.
@@ -19,7 +19,7 @@ Prin harul Tău
 În picioare stau și pot privi spre stele.
 Tu mă întărești și îmi dai putere!
 
-[2]
+[v2]
 Ca o barcă ce plutește, fără cârmă, pe ocean,
 Așa-i omul ce pășește pe pământ făr al Său har.
 Sufletul fără credință nu ajunge-va la mal,

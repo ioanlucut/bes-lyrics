@@ -2,27 +2,27 @@
 Azi Duhul Sfânt e roua dimineții
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Azi Duhul Sfânt e roua dimineții
 Peste poporul cel răscumpărat.
 E aurora, bucuria vieții,
 Puterea Celui ce ne-a mângâiat.
 
-[chorus]
+[c]
 /: Azi Duhul Sfânt e-o binecuvântare
 A mângâierilor de la Rusalii.
 E-o ploaie mai târzie pe ogoare
 Și-o bucurie pentru credincioși. :/
 
-[2]
+[v2]
 Azi Duhul Sfânt aprinde-n noi lumina,
 Ne lămurește scopul jertfei Lui.
 Ne pregătește să primim cununa,
 Cununa slavei, haina cerului.
 
-[3]
+[v3]
 Azi Duhul Sfânt ne-nflăcărează dorul.
 Să-L preamărim pe Răscumpărător.
 Ne umple de putere Creatorul,

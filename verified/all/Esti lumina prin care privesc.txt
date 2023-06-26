@@ -2,20 +2,20 @@
 Ești lumina prin care privesc
 
 [sequence]
-c,1,c,2
+c,v1,c,v2
 
-[chorus]
+[c]
 /: Ești lumina prin care privesc,
 Ești limanul pe care-l doresc,
 Mângâiere și-alin în Tine găsesc. :/
 
-[1]
+[v1]
 Ești apusul de soare-n amurg,
 Stele-n noapte-nchinare Ți-aduc,
 Sufletul îmi trezești dimineața
 Când spui: „Te iubesc”.
 
-[2]
+[v2]
 Pentru Tine înalț cântecul meu,
 Pașii mei vor conduce spre Tine mereu,
 Pentru Tine trăiesc zi de zi,

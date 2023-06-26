@@ -2,15 +2,15 @@
 Doamne, Ți-așteptăm venirea
 
 [sequence]
-1,c,2,t
+v1,c,v2,c2
 
-[1]
+[v1]
 Doamne, Ți-așteptăm venirea,
 La ivirea zorilor,
 Îmbrăcați în haine albe,
 Vrem „Osana” să-Ți cântăm.
 
-[chorus]
+[c]
 Într-o zi însorită de dimineață
 Vom sta cu tine față-n față,
 Cu Tin’, cu-Avraam, cu Isaac și cu îngerii.
@@ -18,13 +18,13 @@ Sărbătoare divină și glorioasă
 Va fi, în ziua aceea măreață,
 Pentru poporul ales al Domnului.
 
-[2]
+[v2]
 Nu nesocoti iubirea
 Și Cuvântul Domnului
 Căci se-apropie venirea,
 Ziua mare-a Mielului.
 
-[chorus 2]
+[c2]
 Dacă astăzi, prin har, poți primi mântuirea,
 Nu sta-n zadar, ridică-ți privirea!
 Om păcătos, vino azi ca să fii salvat!

@@ -1,28 +1,28 @@
 [title]
-Drumul către casă {Author: {Not an Idol}}
+Drumul către casă {author: {Not an Idol}}
 
 [sequence]
-1,2,c,3,c,c
+v1,v2,c,v3,c,c
 
-[1]
+[v1]
 Se aude în ceruri, parcă răsunând,
 Versul unui popor, azi încă mai cântând,
 E-o rugă ce-și face drumul, uneori,
 Rătăcind printre nori.
 
-[2]
+[v2]
 Suntem țara ce-nalță gânduri apăsat,
 De un cor care bate-n inimi neîncetat,
 Cu speranța în suflet ce ne-a mai rămas,
 Noi cântam într-un glas.
 
-[chorus]
+[c]
 Lasă, Doamne, lumina ta, peste-a noastră viață,
 Precum soarele aduce-n zori, roua dimineață.
 Tu, pictează în inimă drumul către casă,
 Unde o veșnicie, noi, cu Tine vom fi.
 
-[3]
+[v3]
 Obosiți de o frică pentru viitor,
 Am uitat să mai cerem astăzi ajutor,
 Am uitat să mai râdem spre un cer senin,

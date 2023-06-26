@@ -2,33 +2,33 @@
 Auzi, suflete, chemarea
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Auzi, suflete, chemarea
 Ce ți-o face Domnul Sfânt!
 Vino azi, fără zăbavă,
 Să-ți dea loc în Paradis.
 
-[chorus]
+[c]
 /: Dacă vrei să locuiești,
 Sus în slăvile cerești,
 Leapădă al tău păcat,
 Să ai sufletul curat. :/
 
-[2]
+[v2]
 Bucuros El te primește
 Și te duce-n casa Sa
 Și ca semn că te iubește,
 La masă cu El vei sta.
 
-[3]
+[v3]
 O, ce mare bucurie
 Este-n ceruri cu Hristos!
 Nu se poate găsi-n lume,
 Pe pământ aicea jos.
 
-[4]
+[v4]
 Cinstea care ți-o oferă
 Să cânți cu îngerii-n cor,
 Să fii fericit întruna,

@@ -2,9 +2,9 @@
 Știu că Tu nu vrei nici jertfe și nici daruri
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Știu că Tu nu vrei nici jertfe și nici daruri,
 Știu că Tu privești doar la inima mea,
 Și-Ți dorești să vezi o inimă întreagă
@@ -15,13 +15,13 @@ Pusă-n slujba Ta prin tot ce fac,
 Să ascult chemarea Ta divină,
 Să urmez în totul voia Ta.
 
-[chorus]
+[c]
 /: Sunt aici, stau la dispoziția Ta,
 Sunt aici, dorind să fac doar voia Ta,
 Sunt aici și vreau chemarea să-Ți urmez,
 Iată-mă, sunt aici! :/
 
-[2]
+[v2]
 Tu ai pus Cuvântul Sfânt în mine,
 Călăuză-n drumul vieții pe pământ,
 Să-L trăiesc și-n voia Ta să Te urmez

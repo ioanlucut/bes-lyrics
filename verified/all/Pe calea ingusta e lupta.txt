@@ -2,25 +2,25 @@
 Pe calea îngustă e luptă
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Pe calea îngustă e luptă,
 Plăceri, deșertăciuni, pe ea nu-s,
 Nu-i împodobită, da-i dreaptă
 Și e bună, că duce în sus.
 
-[chorus]
+[c]
 /: Drept la cer conduce,
 A lupta este bine pe ea. :/
 
-[2]
+[v2]
 Viața-aceasta nu ține-așa mult,
 Deci, n-o pierde fără de folos.
 Mergi pe calea-aceasta cu avânt
 Căci ea te duce pân’ la Hristos.
 
-[3]
+[v3]
 Chin, dureri vei afla uneori,
 Piedici multe vei întâmpina,
 Dar vei fi însoțit de Isus

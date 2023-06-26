@@ -1,34 +1,34 @@
 [title]
-Te cunosc {Author: {Adi Kovaci}}
+Te cunosc {author: {Adi Kovaci}}
 
 [sequence]
-1,p,2,c,t
+v1,p,v2,c,c2
 
-[1]
+[v1]
 Văd cum te-ndepărtezi
 De la ce-ți spun în Cuvânt...
 De ce nu vrei s-asculți,
 Când ce îți spun, e spre binele tău?
 
-[prechorus]
+[p]
 Te-ascunzi dar, Mâna Mea te-a creat,
 Nu ești o întâmplare!
 Da, te văd și te chem înapoi,
 Vino la Mine!
 
-[2]
+[v2]
 Tu nu mai vrei să crezi
 În Adevăr, în Fiul Meu...
 Ești creat pentru mai mult
 Decât ce vezi jos pe pământ!
 
-[chorus]
+[c]
 Te-ascunzi, dar Mie îmi aparții,
 Încrede-te-n Mine!
 Iubirea ce ți-o port zi de zi,
 Pe veci va rămâne!
 
-[chorus 2]
+[c2]
 Te-ascunzi, dar crucea am suferit
 Doar pentru tine!
 Iubirea ce moartea a cucerit,

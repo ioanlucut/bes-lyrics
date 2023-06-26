@@ -2,31 +2,31 @@
 Credința mea eu o zidesc, cine în El se încrede
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Credința mea eu o zidesc,
 Pe Cuvântul sfânt și ceresc.
 Altceva trece ca spuma,
 Hristos, ca Stâncă-n veci, va sta!
 
-[chorus]
+[c]
 Cine în El se încrede,
 /: Pe nisip nu mai zidește. :/
 
-[2]
+[v2]
 Deși-i fața Lui ascunsă,
 Mila Lui mă înconjoară.
 Poate veni orice vifor,
 Pe-această stâncă sunt sigur.
 
-[3]
+[v3]
 Legământul scump, sângele,
 Mă scutește-n primejdie.
 Chiar toate de s-ar risipi,
 Hristos în veci stă neclintit.
 
-[4]
+[v4]
 Iar când Isus va judeca
 Și celor morți: „Sus!” va striga,
 Dreptatea Lui mie-mi va fi

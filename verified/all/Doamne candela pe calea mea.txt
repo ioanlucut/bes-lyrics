@@ -2,19 +2,19 @@
 Doamne, candelă pe calea mea
 
 [sequence]
-c,1,c,2
+c,v1,c,v2
 
-[chorus]
+[c]
 /: Doamne, candelă pe calea mea
 E Cuvântul Tău cel sfânt. :/
 
-[1]
+[v1]
 Singur când mă simt, ratăcit pe drum,
 Ești alături de mine.
 Teamă de nimic eu nu am, atunci
 Când mă aflu lângă Tine!
 
-[2]
+[v2]
 Eu nu voi uita cum dragostea Ta
 Pentru mine ai arătat.
 Călăuza mea ești totdeauna,

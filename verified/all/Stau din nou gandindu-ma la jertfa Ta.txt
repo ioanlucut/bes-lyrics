@@ -2,25 +2,25 @@
 Stau din nou gândindu-mă la jertfa Ta
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Stau din nou, gândindu-mă la jertfa Ta,
 Sângele curs, trupul străpuns,
 În locul meu pedeapsa morții ai luat.
 Ce dar nemeritat, Doamne, Tu m-ai salvat.
 
-[chorus]
+[c]
 Privesc către crucea unde ai suferit,
 Smerit de-ndurarea ce mi-ai oferit,
 Mulțumesc, Isuse, viață nouă mi-ai dăruit!
 
-[2]
+[v2]
 Acum ești înălțat în slavă,
 În fața Ta toți se vor pleca.
 Pân-atunci, uimit fiind de harul Tău,
 Inima-mi va cânta, pe veci dragostea Ta.
 
-[bridge]
+[b]
 Doamne-Ți mulțumesc pentru Golgota,
 Viața-Ți dăruiesc, e-a Ta!

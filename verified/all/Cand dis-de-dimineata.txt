@@ -2,9 +2,9 @@
 Când dis-de-dimineață
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Când dis-de-dimineață
 Văd răsăritul de soare iar,
 Văd păsări mii ce se unesc în cânt,
@@ -12,7 +12,7 @@ Văd stropii de rouă pe frunzele verzi
 Și simt parfumul florilor,
 Mă-nchin și eu Mărețului Creator.
 
-[chorus]
+[c]
 Zi de zi, în orice clipă,
 Eu simt prezența Lui Dumnezeu,
 Știu ca lângă mine e mereu.
@@ -20,7 +20,7 @@ Zi de zi, în orice clipă
 El mă-nconjoară cu harul Său,
 El e tot ce am, e Domnul meu!
 
-[2]
+[v2]
 El a creat pământul,
 Munții înalți și întinsele văi,
 Mările-adânci și cerul înstelat.

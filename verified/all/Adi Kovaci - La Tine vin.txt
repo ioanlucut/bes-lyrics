@@ -1,19 +1,19 @@
 [title]
-La Tine vin {Author: {Adi Kovaci}}
+La Tine vin {author: {Adi Kovaci}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Când poverile lumii m-apasă prea greu, la Tine vin.
 Când putere nu am să mai cred în Cuvânt, la Tine vin.
 
-[chorus]
+[c]
 /: La Tine vin, Isuse vin,
 Dragostea Ta mă va împlini!
 La Tine vin, la Tine vin acum,
 Isus la Tine vin! : /
 
-[2]
+[v2]
 Când mă simt părăsit, apăsat și învins, la Tine vin.
 Încercările când mă trântesc la pământ, la Tine vin.

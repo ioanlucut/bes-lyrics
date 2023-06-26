@@ -2,23 +2,23 @@
 Iată, Eu stau la ușă și bat
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Vino-acum așa cum ești în prezența Celui Sfânt,
 Nu amâna, prieten drag, timpul este pe sfârșit.
 O, de ai știi că într-o zi, judecat și tu vei fi.
 Dumnezeu te vrea cu El, sus în cer pe veci să fii,
 Vino așa cum ești, Dumnezeu te cheamă acum.
 
-[2]
+[v2]
 Iată, Eu stau la ușă și bat chiar acum,
 Dacă ușa-mi vei deschide, voi intra și voi cina,
 Îți voi da în dar iertare sfântă și mult har,
 Vei gusta din fericirea și odihna mea prin har.
 Hai, deschide-ți inima! Vreau viața-n dar să-ți dau.
 
-[3]
+[v3]
 Prieten drag, nu zăbovi, pentru tine am venit,
 Pentru tine-am suferit pe o cruce răstignit.
 Vreau iertarea-n dar să-ți dau, inima să-ți pot sfinți,

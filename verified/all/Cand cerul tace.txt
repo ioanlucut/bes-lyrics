@@ -2,27 +2,27 @@
 Când cerul tace
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Când Cerul tace și norii sunt de plumb,
 Când orice rugă se pierde în văzduh,
 Când n-auzi glasul Iubitului Isus,
 Prin încercare nu ai niciun răspuns.
 
-[chorus]
+[c]
 Există o Ancoră, e crucea din Calvar,
 Catarg în valuri, Cuvântul plin de Har!
 E lângă tine, e în cuptorul tău,
 El totul face spre-un și mai bine-al tău!
 
-[2]
+[v2]
 Ești lut pe roată, Olaru-i Dumnezeu
 Sau dacă-n groapă căzut ești printre lei,
 Răcnește iadul de crezi că vei pieri,
 O, nu te teme, biruitor vei fi!
 
-[3]
+[v3]
 El te iubește, chiar prin tăcerea Lui,
 Alfa-Omega te ține-n brațul Lui!
 Privește-n zare, se vede-un răsărit,

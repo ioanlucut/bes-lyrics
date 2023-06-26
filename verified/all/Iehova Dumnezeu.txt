@@ -1,10 +1,10 @@
 [title]
-Iehova, Dumnezeu 
+Iehova, Dumnezeu
 
 [sequence]
-1,c,2,c,3,c,c
+v1,c,v2,c,v3,c,c
 
-[1]
+[v1]
 Ești necuprins de timp și spațiu,
 De-orice gândire mai presus,
 Ești pretutindenea în toate
@@ -15,14 +15,14 @@ Cu măreție strălucești,
 Cu-nțelepciunea-Ți fără margini
 În orice clipă mă uimești.
 
-[chorus]
+[c]
 Din veșnicie ești același,
 Iehova e Numele Tău.
 Splendori cerești Te înconjoară,
 Din veșnicie-n veșnicie ești mereu,
 Iehova, Dumnezeu!
 
-[2]
+[v2]
 Ești Dumnezeu din veșnicie,
 Izvorul tainice-i lumini,
 În cer Ți-e tronul de domnie
@@ -33,7 +33,7 @@ Ce ne dai pâine zi de zi
 Și adunarea-n sărbătoare
 Îți cântă sfinte melodii.
 
-[3]
+[v3]
 În fața măreției Tale se-nchină orice muritor,
 Ți se înalță osanale, Atotputernic Creator.
 În toate voia Ta să fie,

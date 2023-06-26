@@ -2,22 +2,22 @@
 Trăiește Domnul meu iubit
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 /: Trăiește Domnul meu iubit,
 Măreț cuvânt, sublim, duios,
 Mormântul gol stă părăsit,
 În veci e viu Isus Hristos. :/
 
-[chorus]
+[c]
 /: Nu-L căutați printre cei morți,
 El a-nviat cu-adevărat!
 Isus e Domn al lumii-ntregi,
 El e stăpân, etern
 Și Rege peste regi. :/
 
-[2]
+[v2]
 /: Trăiește Domnul meu iubit,
 Adie vântul răcoros,
 Ne spune codrul înflorit:

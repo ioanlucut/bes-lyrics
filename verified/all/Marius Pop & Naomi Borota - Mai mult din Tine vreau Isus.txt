@@ -1,27 +1,27 @@
 [title]
-Mai mult din Tine vreau, Isus {Author: {Marius Pop & Naomi Borota}}
+Mai mult din Tine vreau, Isus {author: {Marius Pop & Naomi Borota}}
 
 [sequence]
-c,c,1,2,b,c,c
+c,c,v1,v2,b,c,c
 
-[1]
+[v1]
 Mai mult din Tine vreau Isus,
 În toate să m-aseamăn cu Tine!
 Să am mereu privirea-n sus,
 Lumina să se vadă în mine!
 
-[2]
+[v2]
 Mai mult ca Tine vreau Isus,
 În toate să m-aseamăn cu Tine!
 Un cetățean al cerului,
 Luptând pentru a Ta-mpărăție.
 
-[chorus]
+[c]
 /: Tu să crești mai mult în mine,
 Eu să scad, Tu să Te vezi,
 Răspândind a Ta iubire,
 Voia Ta să împlinesc! :/
 
-[bridge]
+[b]
 /: Bun ca Tine, drept ca Tine,
 Sfânt ca Tine, vreau să fiu! :/

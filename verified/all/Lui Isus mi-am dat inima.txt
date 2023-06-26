@@ -2,9 +2,9 @@
 Lui Isus mi-am dat inima
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Lui Isus mi-am dat inima
 Și sunt fericit,
 Lui Isus mi-am dat inima,
@@ -14,7 +14,7 @@ Acum însă sunt salvat,
 Lui Isus mi-am dat inima.
 Da, sunt fericit! :/
 
-[2]
+[v2]
 Lui Isus mi-am dat inima
 Și sunt liniștit,
 El, în schimb, mi-a dat pacea Sa,
@@ -24,7 +24,7 @@ Acum însă sunt salvat,
 Isus e-n inima mea.
 Da, sunt liniștit! :/
 
-[3]
+[v3]
 Lui Isus mi-am dat inima
 Cât sunt de fericit!
 Lui Isus mi-am dat inima

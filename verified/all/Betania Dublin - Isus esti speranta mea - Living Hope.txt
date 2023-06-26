@@ -1,45 +1,45 @@
 [title]
-Isus ești speranța mea {Alternative: {Living Hope}, Author: {Betania Dublin, Phil Wickham}}
+Isus ești speranța mea {alternative: {Living Hope}, author: {Betania Dublin, Phil Wickham}}
 
 [sequence]
-1,2,3,4,c,5,c,e
+v1,v2,v3,v4,c,v5,c,e
 
-[1]
+[v1]
 De multe ori vin adânci prăpăstii
 Și munți înalți ce nu-i pot urca,
 În disperare mă uit spre ceruri,
 Numele-Ți chem în noaptea grea.
 
-[2]
+[v2]
 Atunci iubirea-Ți în întuneric,
 Mi-aduce-n suflet pacea Ta,
 S-a isprăvit, știu, se-arată zorii,
 Isus, ești speranța mea.
 
-[3]
+[v3]
 Nu pot pătrunde, a Ta îndurare,
 Nu pot pricepe ce har bogat,
 Tu, Domnul veșnic, cobori din slavă
 Să ispășești al meu păcat.
 
-[4]
+[v4]
 Prin jertfa sfântă, azi, am iertare,
 Îi aparțin, sunt acceptat.
 În El sunt liber, făptură nouă,
 Isus e speranța mea.
 
-[chorus]
+[c]
 /: Aleluia, Isus m-a eliberat,
 Aleluia, sunt pe veci răscumpărat.
 Lanțurile au căzut,
 E salvare în Isus,
 Doar El e speranța mea. :/
 
-[5]
+[v5]
 /: Se-arată zorii, ce dimineață!
 Când la viață Te-ai ridicat,
 În biruință zdrobind mormântul,
 Cu Tine eu am înviat. :/
 
-[ending]
+[e]
 Fii în veci glorificat!

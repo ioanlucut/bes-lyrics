@@ -1,10 +1,10 @@
 [title]
-Leagă-ți inima de Cer {Author: {Grupul Domini}}
+Leagă-ți inima de Cer {author: {Grupul Domini}}
 
 [sequence]
-c,1,c,b,c,c
+c,v1,c,b,c,c
 
-[chorus]
+[c]
 Leagă-ți inima de Cer,
 Leagă-ți viața ta de Dumnezeu,
 Viitorul tău este în mâna Sa!
@@ -12,13 +12,13 @@ Prin credință-naintezi,
 Deschide ochii inimii să-L vezi,
 Este lângă tine, trebuie doar să crezi.
 
-[1]
+[v1]
 Predă-ți viața în brațul Domnului,
 Să conducă-al tău destin spre cer
 Oferă-I totul, chiar și când nu-nțelegi,
 E suveran și-n viața ta.
 
-[bridge]
+[b]
 /: Inima, mintea mea,
 Sunt legate de cer.
 Transformă-mi viața

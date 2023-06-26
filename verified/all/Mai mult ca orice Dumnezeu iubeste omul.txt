@@ -2,22 +2,22 @@
 Mai mult ca orice Dumnezeu iubește omul
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Poate ești iubit, poate ești părăsit,
 Poate ai de toate, poate ești lipsit.
 Oricine-ai fi, oricare-ar fi starea ta,
 Dumnezeu din ceruri iubește ființa ta.
 
-[chorus]
+[c]
 Mai mult ca orice, Dumnezeu iubește omul.
 Pentru nimeni n-a murit Isus, doar pentru om.
 În dragostea Lui te-a cuprins chiar și pe tine,
 Mai mult ca orice, Dumnezeu Te iubește.
 
-[2]
-Calea către cer, către Dumnezeu 
+[v2]
+Calea către cer, către Dumnezeu
 E Isus Hristos, unicul Fiu al Său.
 Astăzi poți să alegi să te pocăiești,
 Să primești prin har mântuirea-n dar.

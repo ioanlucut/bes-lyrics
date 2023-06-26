@@ -10,25 +10,25 @@ describe('fileNameDeriver', () => {
     );
   });
 
-  it('should work correctly - when `Alternative` and `Author` is there', () => {
+  it('should work correctly - when `alternative` and `author` is there', () => {
     expect(
       deriveFromTitle(
-        'Ce mare ești Tu {Alternative: {Splendoare de-mpărat}, Author: {Ekklesia}}',
+        'Ce mare ești Tu {alternative: {Splendoare de-mpărat}, author: {Ekklesia}}',
       ),
     ).toMatchInlineSnapshot(
       `"Ekklesia - Ce mare esti Tu - Splendoare de-mparat.txt"`,
     );
   });
 
-  it('should work correctly - when `Author` is there', () => {
+  it('should work correctly - when `author` is there', () => {
     expect(
-      deriveFromTitle('Ce mare ești Tu {Author: {Ekklesia}}'),
+      deriveFromTitle('Ce mare ești Tu {author: {Ekklesia}}'),
     ).toMatchInlineSnapshot(`"Ekklesia - Ce mare esti Tu.txt"`);
   });
 
-  it('should work correctly - when `Version` is there', () => {
+  it('should work correctly - when `version` is there', () => {
     expect(
-      deriveFromTitle('Domn al veșniciei, al lumii Creator {Version: {i}}'),
+      deriveFromTitle('Domn al veșniciei, al lumii Creator {version: {i}}'),
     ).toMatchInlineSnapshot(`"Domn al vesniciei al lumii Creator - i.txt"`);
   });
 

@@ -1,10 +1,10 @@
 [title]
-Rugă de seară {Author: {Laud}}
+Rugă de seară {author: {Laud}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Deseori, privind ’napoi, zboară frunze printre noi,
 Iar iubirea e departe.
 Ploaia trece, vine iarăși, dar în suflet suntem goi.
@@ -12,11 +12,11 @@ Uneori suntem chiar triști,
 Fără zâmbet sau soliști într-o zi de sărbătoare,
 Alții, copleșiți de grijuri, au uitat că mai exiști.
 
-[chorus]
+[c]
 Doamne, iartă-ne, Te rog, știm că vina ne e mare.
 Astăzi am venit la Tine să Îți cerem îndurare!
 
-[2]
+[v2]
 Noi nu merităm nimic, chiar dacă ni se pare,
 Totul e în mâna Ta!
 Noi nu merităm nimic, chiar dacă ni se pare,

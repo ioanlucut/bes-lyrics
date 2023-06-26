@@ -2,27 +2,27 @@
 Oare la ușă cine-I
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Oare la ușă cine-I
 Și ce-o fi așteptând?
 Azi iarăși ocoli-vei
 Pe cel ce-L vezi bătând?
 
-[chorus]
+[c]
 /: Dulce răsună-afară:
 „Lasă-Mă-n casa ta!
 Te rog, a câta oară,
 Spre fericirea ta.” :/
 
-[2]
+[v2]
 O, ce pustiu e-n mine
 Fără de Dumnezeu!
 Sunt un orfan, văd bine,
 Unde e Tatăl meu?
 
-[3]
+[v3]
 O, chiar acum, degrabă,
 Ușa-Ți deschid eu larg
 Hai, nu mai sta afară,

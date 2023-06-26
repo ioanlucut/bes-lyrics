@@ -1,33 +1,33 @@
 [title]
-Voi învia {Author: {Ekklesia}}
+Voi învia {author: {Ekklesia}}
 
 [sequence]
-1,b,c,2,c,e
+v1,b,c,v2,c,e
 
-[1]
+[v1]
 Multă pace am găsit,
 Când eram chiar doborât,
 Eu dacă aș fi lovit,
 Pot să spun că nu sunt frânt!
 
-[bridge]
+[b]
 Isus a biruit și mormântu-a părăsit,
 Victoria e-a Lui, înviat e dintre morți!
 
-[chorus]
+[c]
 Și din mormânt, când mă va chema,
 Fără lacrimi, făr’ dureri,
 Voi ieși să-ngenunchez,
 Să zbor spre El, ’naintea Lui,
 Spălat, înviat!
 
-[2]
+[v2]
 E aproape aceea zi,
 Când ce-i vechi va fi iar nou,
 Tot ce-i umbră va pieri,
 Prin Isus toți vom trăi!
 
-[ending]
+[e]
 Și voi auzi cum mii de îngeri dau,
 Glorie Mielului,
 Și voi auzi cum mii de credincioși,

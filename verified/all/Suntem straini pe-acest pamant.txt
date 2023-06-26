@@ -2,9 +2,9 @@
 Suntem străini pe-acest pământ
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Suntem străini pe-acest pământ,
 Suntem pribegi în lumea aceasta,
 Călătorim înspre Canaan.
@@ -12,7 +12,7 @@ Avem cu toții o nădejde
 Și știm că vine ziua când
 Ne vom vedea dincolo de Iordan.
 
-[2]
+[v2]
 Ne vom vedea acolo, sus, pe nori de Slavă.
 Ne-om întâlni când
 Trâmbița va răsuna.
@@ -20,7 +20,7 @@ Ne vom vedea pe acele plaiuri minunate.
 În Paradis, în cerul
 Sfânt ne vom vedea.
 
-[3]
+[v3]
 Din orice neam și orice popor,
 Cei ce L-am slujit pe Domnul
 Vom fi atunci la marea sărbătoare.
@@ -28,7 +28,7 @@ Mai sus de cerul înstelat,
 Mai sus de galaxii și astre,
 Ne vom vedea cu Domnul în ziua mare.
 
-[4]
+[v4]
 Și vom petrece veșnicia,
 Vom fi în țara glorioasă
 Cu Isus ce ne-a răscumpărat.

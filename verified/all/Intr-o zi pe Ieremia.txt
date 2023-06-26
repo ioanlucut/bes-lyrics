@@ -2,9 +2,9 @@
 Într-o zi pe Ieremia
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Într-o zi, pe Ieremia
 Domnul îl înștiințează,
 La olar să meargă-n casă,
@@ -15,13 +15,13 @@ Vasul ce nu izbutise
 Și, luând o altă formă,
 Și-un alt vas din el făcuse.
 
-[chorus]
+[c]
 /: Tot la fel noi suntem lutul,
 Însă Domnul e Olarul,
 Să lăsăm să prelucreze,
 Vasul ca să curgă harul. :/
 
-[2]
+[v2]
 În castele și-n palate
 Nu sunt vase doar de aur,
 Sunt de-argint, de lemn, țărână,
@@ -32,7 +32,7 @@ Dar nu în aceleași zile,
 Sunt de cinste, de ocară,
 Lăudate sau umile.
 
-[3]
+[v3]
 Dac-un vas se curățește,
 Domnul face vas de cinste.
 Îl albește, îl sfințește,

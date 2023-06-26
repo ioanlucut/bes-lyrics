@@ -2,9 +2,9 @@
 Fiți voioși totdeauna
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 O, ce valuri, de-ndurare,
 Fiți voioși totdeauna!
 Fiți voioși, fiți voioși totdeauna,
@@ -12,7 +12,7 @@ Lăudându-L pe Domnul mereu!
 De ne-ncredem puternic în Domnul
 Nu ne-nvinge nicicând nici un rău.
 
-[2]
+[v2]
 O, ce valuri, de-ndurare, 
 Fiți voioși totdeauna!
 Nu-i furtună să clatine Stânca
@@ -20,7 +20,7 @@ Cea pe care suntem noi zidiți.
 Fiți voioși, noi suntem totdeauna
 De Isus, de Isus ocrotiți!
 
-[3]
+[v3]
 O, ce valuri, de-ndurare, 
 Fiți voioși totdeauna!
 Fiți voioși chiar și-atunci când necazul
@@ -28,7 +28,7 @@ Fiți voioși chiar și-atunci când necazul
 Mai frumoasă-i cântarea în lacrimi,
 Mai ceresc e răbdând a zâmbi.
 
-[4]
+[v4]
 O, ce valuri, de-ndurare, 
 Fiți voioși totdeauna!
 Fiți voioși că-n curând, pe vecie,

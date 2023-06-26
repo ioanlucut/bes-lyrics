@@ -2,28 +2,28 @@
 Mai e puțin, tot mai puțin
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Mai e puțin, tot mai puțin
 Din timpul ce-a mai rămas.
 Încă puțin și voi pleca
 Spre țărmul celălalt.
 
-[chorus]
+[c]
 Mă așteaptă frați, mă vor întâmpina,
 Au sfârșit alergarea ’naintea mea.
 Pe cei dragi îi voi revedea,
 Dar mai mult decât orișice altceva,
 Isus mă va aștepta.
 
-[2]
+[v2]
 Cât mi-am dorit un bun sfârșit
 Al vieții pământești,
 Încă alerg și mă îndrept
 Spre slăvile cerești.
 
-[3]
+[v3]
 Un singur gând mi-a mai rămas,
 Vreau să trăiesc frumos,
 Prin tot ce sunt, prin tot ce fac,

@@ -1,22 +1,22 @@
 [title]
-O, vino iarăși între noi {Author: {Alin Timofte}}
+O, vino iarăși între noi {author: {Alin Timofte}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Vino iarăși între noi,
 O, Mielule divin.
 Te așteptăm să vii la noi,
 Cu Tin’ mereu să fim.
 
-[chorus]
+[c]
 O, vino astăzi, Te rugăm,
 Fă simțită a Ta prezență.
 Vrem cu Tine să serbăm,
 O, Duh divin în permanență.
 
-[2]
+[v2]
 Vino iarăși între noi,
 Isuse, Domn preasfânt.
 Mai lasă ploaia de apoi

@@ -2,21 +2,21 @@
 Binecuvântă-ne
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Binecuvântă-ne, Doamne,
 Pe noi întotdeauna,
 Ca să fim noi poporul Tău
 Veșnic spre-a Te lăuda.
 
-[chorus]
+[c]
 Iar Isus, al nostru soare,
 Plin de har și de îndurare,
 /: Vocea Lui mângâietoare
 Șterge lacrimi și suspine. :/
 
-[2]
+[v2]
 Îngerii pot să-L mărească
 Prin cântări pe Dumnezeu,
 Dar ca despre har, să-I cânte

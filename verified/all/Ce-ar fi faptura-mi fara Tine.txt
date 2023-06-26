@@ -2,9 +2,9 @@
 Ce-ar fi făptura-mi fără Tine
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Ce-ar fi făptura-mi fără Tine,
 Mântuitorule iubit?
 Ce-ar fi de n-ai fi Tu în mine,
@@ -15,7 +15,7 @@ Un chip de humă fără viață,
 O stâncă-nvăluită-n ceață
 Și-o noapte fără dimineață. :/
 
-[2]
+[v2]
 Aș fi un far fără lumină,
 Pustie de nisipuri plină,
 Cu vânturi fără de odihnă,
@@ -26,7 +26,7 @@ Pe unde-a fost un râu odată,
 O frunză smulsă și purtată,
 Fără de scop prin lumea toată. :/
 
-[3]
+[v3]
 Așa aș fi, dar slavă Ție!
 Tu-mi ești a vieții bogăție,
 Comoara darurilor vie
@@ -37,7 +37,7 @@ Vieții-n mii și mii de fețe
 Și n-aș fi cunoscut iubirea
 Cu-nfiorări și frumusețe. :/
 
-[4]
+[v4]
 De n-ai fi fost Tu, Bunătate,
 Începătorule a toate,
 Cu taine-adânci și minunate,

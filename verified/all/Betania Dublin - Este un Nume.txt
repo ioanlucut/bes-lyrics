@@ -1,10 +1,10 @@
 [title]
-Este un Nume {Author: {Betania Dublin}}
+Este un Nume {author: {Betania Dublin}}
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Este un Nume, ce rupe orice lanț când Îl rostești
 Și dacă-L chemi salvare-n El primești.
 O, ce Nume!
@@ -12,11 +12,11 @@ Este un Nume, din fața Lui înfrânți vrăjmașii fug
 Puternic ca să rupă orice jug.
 O, ce Nume!
 
-[chorus]
+[c]
 Isus, Isus, ce puternic Domn!
 Isus, Isus, Rege-n veci pe tron!
 
-[2]
+[v2]
 Este o Cruce, un lemn de suferință și dispreț,
 Puterea ce și azi salvează vieți
 La Cruce.
@@ -24,7 +24,7 @@ Este un Sânge, ce striga până azi: „S-a isprăvit!”
 Întregul preț la Cruce a fost plătit
 Cu Sânge.
 
-[bridge]
+[b]
 În Numele Lui Isus să cadă legături,
 Adicții, frici, depresie
 Și orice-ntărituri.

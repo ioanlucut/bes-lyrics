@@ -1,10 +1,10 @@
 [title]
-Dacă două mâini rebele {Author: {Ruben Andruș}}
+Dacă două mâini rebele {author: {Ruben Andruș}}
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Dacă două mâini rebele
 Nu te-ar ține orb, mereu,
 Te-ai opri în clipe grele,
@@ -12,7 +12,7 @@ Te-ai opri în clipe grele,
 /: Ai vedea că-i scris pe ele:
 „Dumnezeu”! :/
 
-[2]
+[v2]
 Dacă două vechi zăvoare
 Nu te-ar ține surd mereu,
 Ai șopti: „Ce meșter oare
@@ -20,7 +20,7 @@ Scoate păsări cântătoare?”
 /: Și ți-ar spune orice floare:
 „Dumnezeu”! :/
 
-[3]
+[v3]
 Dacă marea întristării
 Nu te-ar ține rob mereu,
 Ai striga în largul zării:
@@ -28,7 +28,7 @@ Ai striga în largul zării:
 /: Și ți-ar spune valul mării:
 „Dumnezeu”! :/
 
-[4]
+[v4]
 Dacă ți-ai vedea veșmântul
 Care-mbracă vechiul „eu”,
 Ai uda de plâns pământul

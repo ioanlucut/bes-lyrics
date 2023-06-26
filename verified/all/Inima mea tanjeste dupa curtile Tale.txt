@@ -2,9 +2,9 @@
 Inima mea tânjește după curțile Tale
 
 [sequence]
-1,c
+v1,c
 
-[1]
+[v1]
 Inima mea tânjește după curțile Tale,
 Sufletul meu suspină după al Tău locaș,
 Mi se topesc oasele de dor după Tine,
@@ -16,7 +16,7 @@ Chem bunătatea Ta peste viața mea,
 Aștept în tăcere răspunsul Tău, Doamne,
 Vino, nu-ntârzia!
 
-[chorus]
+[c]
 /: Te voi binecuvânta, dar, toată viața mea,
 Și în Numele Tău voi ridica mâinile,
 Lauda Ta va fi mereu în gura mea,

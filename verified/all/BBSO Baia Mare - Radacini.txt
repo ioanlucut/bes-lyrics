@@ -1,26 +1,26 @@
 [title]
-Rădăcini {Author: {BBSO Baia Mare}}
+Rădăcini {author: {BBSO Baia Mare}}
 
 [sequence]
-1,b,c,2,b,c,c,b
+v1,b,c,v2,b,c,c,b
 
-[1]
+[v1]
 /: Ca un pom uscat, fără culoare,
 Eram atunci când Tatăl m-a găsit,
 El m-a ridicat, mi-a dat suflare
 Și pe stâncă eu am fost sădit. :/
 
-[bridge]
+[b]
 Rămân în El și El în mine,
 Căci doar așa eu sunt roditor.
 
-[chorus]
+[c]
 Îmi întind rădăcinile
 Spre Apa Vieții, Izvorul meu.
 Mă hrănesc cu dragostea Ta
 Și în picioare, neclintit voi sta.
 
-[2]
+[v2]
 Ca un pom sădit lângă izvoare,
 Rodul dă la timpul potrivit,
 Frunza lui rămâne veșnic verde,

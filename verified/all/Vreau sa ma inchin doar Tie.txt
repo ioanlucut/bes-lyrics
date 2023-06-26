@@ -2,22 +2,22 @@
 Vreau să mă închin doar Ție
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Eu Te laud (eu Te laud)
 Cu inima mea, (cu inima mea)
 Eu Te laud (eu Te laud)
 Cu sufletul meu. (cu sufletul meu)
 
-[2]
+[v2]
 Eu Te caut, (eu Te caut)
 Te caut mereu. (Te caut mereu)
 Vreau pe Tine, (vreau pe Tine)
 Doamne, să Te urmez. (să Te urmez)
 
-[chorus]
+[c]
 /: Vreau să mă închin doar Ție,
-Să Te laud, Domnul meu, 
+Să Te laud, Domnul meu,
 Tot ce am Îți aparține,
 Tu ești vrednic, Domnul meu! :/

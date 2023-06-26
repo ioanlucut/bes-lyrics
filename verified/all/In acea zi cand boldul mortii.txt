@@ -2,9 +2,9 @@
 În acea zi, când boldul morții
 
 [sequence]
-1,c,2,c,b,3,c
+v1,c,v2,c,b,v3,c
 
-[1]
+[v1]
 În acea zi, când boldul morții
 A fost frânt sub crucea Lui Isus,
 Cutremurat, tot Ceru-ntreg
@@ -15,25 +15,25 @@ Regelui ce-a luat pedeapsa mea.
 N-a spus nimic, iubind nespus,
 Murea Isus.
 
-[chorus]
+[c]
 Crucea Lui, salvarea mea,
 Azi trăiesc prin jertfa Sa.
 Sângele Lui m-a curățit,
 El rămâne apărarea mea.
 
-[2]
+[v2]
 Răsăritul învierii
 Risipește noaptea de păcat.
 Am fost salvați, descătușați,
 Eliberați.
 
-[bridge]
+[b]
 Aleluia, Aleluia,
 Isus a-nviat!
 Aleluia, Aleluia,
 El e înălțat!
 
-[3]
+[v3]
 Într-o zi El se va-ntoarce,
 Revelând deplin domnia Sa.
 Când Numele-I vom auzi

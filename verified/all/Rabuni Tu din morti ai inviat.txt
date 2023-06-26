@@ -2,27 +2,27 @@
 Rabuni, Tu din morți ai înviat!
 
 [sequence]
-c,1,c,2,c,3,c
+c,v1,c,v2,c,v3,c
 
-[chorus]
+[c]
 /: Rabuni, Tu din morți ai înviat,
 Fii în veci glorificat!
 Rabuni, Tu din morți ai înviat,
 Cu Cel Sfânt ne-ai împăcat. :/
 
-[1]
+[v1]
 Ce fior adânc în suflet ne-a pătruns
 Atunci când pe Golgota ai murit!
 Credeam că Te-am pierdut, pe cruce și-n mormânt,
 Dar viață ești și veșnic neînfrânt.
 
-[2]
+[v2]
 Lumin-a răsărit în sufletu-mi trudit,
 Căci lepădat am fost și-ndepărtat.
 Nădejdea mi-ai redat, o, cât de minunat!
 Din morți am înviat cu Tine-odat’.
 
-[3]
+[v3]
 Cum aș putea să tac, cum aș putea să fac
 Ca să nu spun despre iubirea Ta?
 O lume-ntreagă aș vrea să creadă jertfa Ta

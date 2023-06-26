@@ -2,13 +2,13 @@
 Din El, prin El și pentru El
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 /: Din El, prin El și pentru El
 Sunt toate lucrurile. :/ (3x)
 
-[chorus]
+[c]
 A Lui să fie gloria,
 A Lui să fie gloria,
 A Lui să fie gloria,

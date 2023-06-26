@@ -1,10 +1,10 @@
 [title]
-Pregătește-mi inima, Doamne {Author: {Alin Timofte}}
+Pregătește-mi inima, Doamne {author: {Alin Timofte}}
 
 [sequence]
 c
 
-[chorus]
+[c]
 /: Pregătește-mi inima, Doamne,
 Să fie un templu sfânt și curat.
 Cu mulțumire trăiesc pentru Tine,

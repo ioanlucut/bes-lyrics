@@ -2,9 +2,9 @@
 A bătut la ușa ta Cineva
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 /: A bătut la ușa ta Cineva
 Și n-a deschis nimenea. :/
 În tăcerea negrei nopți,
@@ -12,7 +12,7 @@ Stă un om și plânge,
 /: Fața Lui e numai răni,
 Pieptul numai sânge. :/
 
-[2]
+[v2]
 /: Cine ești, străin pribeag, cine ești?
 De-al cui dor Tu pribegești? :/
 Pentru cine Te-au brăzdat
@@ -20,7 +20,7 @@ Bice fără număr?
 /: Ce povară Ți-a lăsat
 Rana de pe umăr? :/
 
-[3]
+[v3]
 /: Eu sunt Robul ce slujesc tuturor,
 Un om al durerilor. :/
 Nimeni plată nu Mi-a dat,
@@ -28,7 +28,7 @@ Decât spini și ură.
 /: Numai roșii trandafiri,
 Pieptul Mi-l umplură. :/
 
-[4]
+[v4]
 /: Eu sunt Pâinea ce s-a frânt lumii-ntregi
 Și sunt Vinul noii legi. :/
 N-am venit să plâng în drum
@@ -36,7 +36,7 @@ Răni usturătoare,
 /: Plâng pe-acei ce pierd acum
 Ultima chemare. :/
 
-[5]
+[v5]
 /: A bătut la ușa ta Cineva.
 O, deschide-I, nu mai sta! :/
 Nu-L lăsa să plece trist,

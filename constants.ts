@@ -9,7 +9,7 @@ export const TXT_EXTENSION = '.txt';
 export const TEST_FILE = 'TEMPLATE.txt';
 
 export const ALLOWED_CHARS =
-  ` +{}&#!(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„\n\r`.split(
+  ` {}&#!(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„\n\r`.split(
     EMPTY_STRING,
   );
 
@@ -20,3 +20,5 @@ export const CARRIAGE_RETURN = '\r';
 export const CHARS_SEPARATORS = /[ !(),./:;?”„\r]+/;
 
 export const ALT_SONGS_FILE_SUFFIX = /(- i|- ii)/;
+
+export const SEQUENCE_SEPARATOR = ',';

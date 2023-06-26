@@ -2,9 +2,9 @@
 Domnul ne-a creat după chipul Său
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Domnul ne-a creat după chipul Său,
 El ne-a învățat să urâm ce-i rău.
 Să nu ne mai întoarcem pe unde-am fost,
@@ -15,7 +15,7 @@ Vrem de azi viața cu El s-o trăim.
 Tot ce-avem să punem în mâna Lui,
 În mâna Domnului.
 
-[chorus]
+[c]
 Căci dacă trăim, pentru Domnul trăim
 Și dacă murim, pentru Domnul murim,
 Deci fie că trăim, fie că murim,
@@ -26,7 +26,7 @@ Noi suntem ai Domnului.
 Deci fie că trăim, fie că murim.
 Noi suntem ai Lui.
 
-[2]
+[v2]
 Nu putem să știm dacă mâine în zori
 Va fi o zi cu soare, ori o zi cu nori.
 Știm însă că Domnul va fi cu noi

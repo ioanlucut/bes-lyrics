@@ -2,21 +2,21 @@
 De n-ar fi Domnul
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 De n-ar fi Domnul ajutorul meu
 În clipele grele ale vieții,
 Cât de curând sufletul meu
 Ar locui-n tăcerea morții.
 
-[chorus]
+[c]
 /: Ori de câte ori am zis:
 „Mi se clatină piciorul.”
 Bunătatea Ta, Doamne,
 Sprijin mi-a fost. :/
 
-[2]
+[v2]
 Când gânduri negre se frământă
 Cu grămada înlăuntrul meu,
 Bunătatea Ta, Doamne,

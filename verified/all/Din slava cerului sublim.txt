@@ -2,37 +2,37 @@
 Din slava cerului sublim
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 Din slava cerului sublim
 Te-ai coborât la noi, Isuse,
 /: Ai vrut cu drag să Te iubim,
 Dar n-am știut să Te primim
 Și-aceasta sufletu-Ți răpuse. :/
 
-[2]
+[v2]
 Ți-am scris osânda în sobor
 Și-a noastre bice Te bătură,
 /: Iar Tu de mila tuturor
 Răbdai arsura bicelor
 Căci ne-ai iubit fără măsură. :/
 
-[3]
+[v3]
 Ți-am pus cununa cea de spini
 Și apoi cu crucea din cetate,
 /: Te-am dus să mori pe ea străpuns,
 Iar Tu nimic nu ai răspuns
 Murind cu mâini nevinovate. :/
 
-[4]
+[v4]
 O, de-am fi priceput că mori
 De dragul nostru din iubire.
 /: Ai fost un Miel ispășitor
 Și-a treia zi cu slavă-n zori
 Te-ai îmbrăcat în nemurire. :/
 
-[5]
+[v5]
 O, Tată scump, ce mult dorim
 Plecați să plângem pentru vină,
 /: Iertarea Ta să o primim

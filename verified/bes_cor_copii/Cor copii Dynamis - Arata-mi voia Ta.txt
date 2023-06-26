@@ -1,15 +1,15 @@
 [title]
-Arată-mi voia Ta {Author: {Cor copii Dynamis}}
+Arată-mi voia Ta {author: {Cor copii Dynamis}}
 
 [sequence]
-1,c,2,t
+v1,c,v2,c2
 
-[1]
+[v1]
 /: Arată-mi voia Ta,
 Calea Ta,
 Tu, Isus, ești speranța mea! :/
 
-[chorus]
+[c]
 Și mă încred, da!
 În dragostea Ta
 Zi de zi, pas cu pas.
@@ -18,12 +18,12 @@ Mă sprijinești, da!
 Inima Îți va cânta Aleluia!
 Ooooo!
 
-[2]
+[v2]
 /: Tu nu mă părăsești
 Și nu mă ocolești,
 Știu, Isuse, mă iubești! :/
 
-[chorus 2]
+[c2]
 /: Și mă încred, da!
 În dragostea Ta
 Zi de zi, pas cu pas.

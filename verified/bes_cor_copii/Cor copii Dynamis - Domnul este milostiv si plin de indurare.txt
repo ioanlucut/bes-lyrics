@@ -1,25 +1,25 @@
 [title]
-Domnul este milostiv și plin de îndurare {Author: {Cor copii Dynamis}}
+Domnul este milostiv și plin de îndurare {author: {Cor copii Dynamis}}
 
 [sequence]
-c,b,c,t,c,1,c
+c,b,c,c2,c,v1,c
 
-[chorus]
+[c]
 /: Domnul este milostiv și plin de îndurare,
 Îndelung răbdător și plin de bunătate. :/
 
-[bridge]
+[b]
 /: El iertare îmi dă
 Atunci când greșesc.
 Bucuros Îl urmez,
 Pe Isus Îl iubesc. :/
 
-[chorus 2]
+[c2]
 /: El e credincios, drept și curat.
 De păcatul meu,
 Domnul m-a iertat! :/
 
-[1]
+[v1]
 Calea bună mi-o va arăta,
 S-o urmez Isus mă va-nvăța.
 Hai și tu cu mine să-L urmăm,

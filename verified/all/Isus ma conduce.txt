@@ -2,27 +2,27 @@
 Isus mă conduce
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Isus mă conduce spre cer zi de zi,
 El este păstorul cel bun și divin.
 Nu simt nici o lipsă, mă bucur nespus,
 Al vieții izvor e Isus.
 
-[2]
+[v2]
 Din râul vieții El apă-mi va da,
 Când, sus, în mărire voi sta.
 Aici pe pământ voi cânta bucuros,
 Al vieții izvor e Hristos.
 
-[3]
+[v3]
 În alte izvoare nu pot să găsesc
 Iubire și pace, nici har nu primesc,
 Dar lângă-al meu Domn am la toate răspuns,
 Al vieții izvor e Isus.
 
-[4]
+[v4]
 Să curgă din inima mea ne-ncetat
 Izvoare din apa ce Domnul mi-a dat
 Și totuși să cunoască secretul ascuns,

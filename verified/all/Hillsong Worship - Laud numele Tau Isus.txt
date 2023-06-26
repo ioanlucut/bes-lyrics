@@ -1,16 +1,16 @@
 [title]
-Laud numele Tău, Isus {Author: {Hillsong Worship}}
+Laud numele Tău, Isus {author: {Hillsong Worship}}
 
 [sequence]
-1,c,2,c,b,c,c
+v1,c,v2,c,b,c,c
 
-[1]
+[v1]
 La început a fost Cuvântul
 Și Cuvântul s-a-ntrupat,
 Gloria Sa nemărginită
 Printre noi s-a arătat.
 
-[chorus]
+[c]
 Laud Numele Tău, Isus,
 Ești al meu Rege înălțat.
 Laud numele Tău, Isus,
@@ -18,13 +18,13 @@ Ești Mielul ce-a fost străpuns.
 Laud numele Tău, Isus,
 Al slavei Rege!
 
-[2]
+[v2]
 Iar pentru a fi în veci cu Tine,
 Printre oameni ai umblat.
 N-ai renunțat nicicând la mine,
 Te-ai smerit să fii ’nălțat.
 
-[bridge]
+[b]
 A Ta lucrare e desăvârșită,
 Până la capăt ne-ai iubit.
 Viața domnește, iar moartea e-nvinsă,

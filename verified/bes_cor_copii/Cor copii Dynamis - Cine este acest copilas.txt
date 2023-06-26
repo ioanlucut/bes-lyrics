@@ -1,28 +1,28 @@
 [title]
-Cine este acest copilaș {Author: {Cor copii Dynamis}}
+Cine este acest copilaș {author: {Cor copii Dynamis}}
 
 [sequence]
-1,2,c,t,c,t,2
+v1,v2,c,c2,c,c2,v2
 
-[1]
+[v1]
 Cine este acest copilaș,
 Ce doarme-n brațele mamei Lui?
 În juru-I cântă îngerași
 Cu drag Îl veghează păstorii.
 
-[2]
+[v2]
 El este Hristosul, Regele
 Adorat de păstori și îngeri.
 Lăudați-L pe Mesia, pe Isus,
 Fiu al Mariei.
 
-[chorus]
+[c]
 Într-o iesle, într-un staul
 S-a născut copilul Isus.
 Într-o iesle, într-un staul,
 Mântuire ne-a adus.
 
-[chorus 2]
+[c2]
 Aleluia-n înălțime,
 Rege-al regilor s-a născut!
 Aleluia, Salvatorul,

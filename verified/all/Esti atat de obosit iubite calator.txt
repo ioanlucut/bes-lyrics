@@ -2,9 +2,9 @@
 Ești atât de obosit, iubite călător
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Ești atât de obosit, iubite călător,
 Ai umblat pe căi murdare, fiu rătăcitor.
 Ai cutreierat pământul
@@ -12,7 +12,7 @@ Ai cutreierat pământul
 Chinuit ai fost de rău,
 Dar acum te iartă Sfântul, bunul Dumnezeu.
 
-[2]
+[v2]
 Ostenită ți-e privirea, capul ți-e plecat,
 Soarta crud-ai cunoscut-o, fiu nemângâiat.
 Că ai vrut să afli calea
@@ -20,7 +20,7 @@ Unde-i plânsul, unde-i jalea,
 N-ai știut de Cel de sus.
 Auzi, cum răsună valea numai de Isus!
 
-[3]
+[v3]
 Îți trimite astăzi Domnul, un cuvânt de har,
 Că îți dă cununa vieții, ca mărgăritar.
 Inima să-ți fie plină

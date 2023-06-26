@@ -2,26 +2,26 @@
 Aici e Duhul Domnului
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Ce plăcut, ce tainic trup slăvit!
 Da, noi știm, aici e Duhul Domnului
 Căci Hristos prin Duhul ne-a unit.
 Da, noi știm, aici e Duhul Domnului.
 
-[chorus]
+[c]
 O, Duh preasfânt,
 Tu, Sol Ceresc,
 Rămâi aici cu noi,
 Toarnă dragoste și har!
 
-[2]
+[v2]
 Și-n noi mereu să arzi tot ce-i lumesc,
 Să ne-nchinăm smeriți prin necuprinsu-Ți dar
 În duh și-n adevăr.
 
-[3]
+[v3]
 Eu Te iubesc, Doamne, Te iubesc!
 ’Naintea Ta, Doamne drag, mă plec.
 Al meu Rege, ești bucuria mea,

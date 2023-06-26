@@ -2,15 +2,15 @@
 Ai deschis cerul Tău, ai lăsat slava Ta
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Ai deschis cerul Tău, ai lăsat slava Ta
 Și-ai venit pentru mine, un biet păcătos.
 M-ai iubit așa mult c-ai murit la Calvar,
 Să deschizi ochii mei, să-nțeleg și să Te slăvesc.
 
-[chorus]
+[c]
 Pentru cântec, speranță și rază de soare,
 Lumină și pace pe-a mea cărare,
 Pentru tot ce Tu îmi dai, mulțumesc!
@@ -18,5 +18,5 @@ Pentru zâmbetul Tău înscris printre stele,
 
 Mângâierea Ta în clipele grele,
 Pentru dragostea Ta revărsată în mine
-Mă-nchin, recunosc că ești Domn 
+Mă-nchin, recunosc că ești Domn
 Și rostesc: mulțumesc!

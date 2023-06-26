@@ -2,15 +2,15 @@
 Cu umilință-n rugăciune
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Cu umilință-n rugăciune,
 Smerit m-aplec la tronul Tău!
 În fiecare zi și seară,
 De vorbă stau cu Dumnezeu.
 
-[chorus]
+[c]
 Încredințează-ți soarta-n mâna
 Celui ce te-a săpat în Ea.
 El nu te va lăsa vreodată,
@@ -22,13 +22,13 @@ Răscumpărat al Domnului,
 Neprihănit în ochii Lui,
 Cu tine-i Domnul, nu uita.
 
-[2]
+[v2]
 În ziua de necaz mă sprijini,
 Scut și adăpost îmi ești mereu.
 Ești cetățenia mea în care
 M-adăpostesc, o, Domnul meu.
 
-[3]
+[v3]
 Sunt copleșit de a Ta iubire.
 Tu ești izvor de bucurie.
 Cu Tine voi trăi, o, Doamne

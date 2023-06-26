@@ -1,28 +1,28 @@
 [title]
-Nemărginită dragoste a Ta {Alternative: {Reckless Love}, Author: {Ekklesia Arad}}
+Nemărginită dragoste a Ta {alternative: {Reckless Love}, author: {Ekklesia Arad}}
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Când nici nu existam, la mine te gândeai
 Dragoste îmi arătai
 Când nici nu respiram, viață Tu mi-ai suflat,
 Dragoste mi-ai arătat.
 
-[chorus]
+[c]
 O, nemărginită, necuprinsă dragoste a Ta,
 O, mă urmărește, mă găsește și când sunt pierdut.
 N-am câștigat-o, n-am meritat-o, însă zilnic o primesc.
 O, nemărginită, necuprinsă dragoste a Ta.
 
-[2]
+[v2]
 Când eu rătăceam, Doamne, mă căutai,
 Dragoste îmi arătai
 Când nu meritam, pe cruce ai urcat
 Harul Tău mi-ai arătat.
 
-[bridge]
+[b]
 /: Nu-i ceață prea deasă, vale prea joasă,
 Ca să mă găsești.
 Nici un zid nu-i prea tare, nu-i munte prea mare

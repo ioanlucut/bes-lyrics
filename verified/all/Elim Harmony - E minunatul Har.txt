@@ -1,10 +1,10 @@
 [title]
-E minunatul Har {Author: {Elim Harmony}}
+E minunatul Har {author: {Elim Harmony}}
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Cine învinge păcat și noapte
 Și cine pune iubire în toate?
 Regele Gloriei, domnește peste regi!
@@ -12,7 +12,7 @@ Cu tunet mișcă întreaga zare,
 Ne umple viața cu încântare.
 Regele Gloriei, domnește peste regi!
 
-[chorus]
+[c]
 E minunatul Har, eternă dragoste,
 Tu locul meu ai luat
 Și crucea mi-ai purtat!
@@ -20,7 +20,7 @@ Viața Tu Ți-ai dat
 Să fiu eliberat,
 Isuse, eu cânt pentru tot ce ai făcut!
 
-[2]
+[v2]
 Aduce pacea când este luptă,
 Pentru orfan El e veșnic Tată,
 Regele Gloriei, Regele Gloriei!
@@ -28,7 +28,7 @@ Peste popoare El stăpânește
 Ca astrul zilei, El strălucește,
 Regele Gloriei, domnește peste regi!
 
-[bridge]
+[b]
 /: Vrednic este Mielul junghiat,
 Vrednic este Cel ce a înviat! : / (3x)
 Vrednic este Mielul junghiat,

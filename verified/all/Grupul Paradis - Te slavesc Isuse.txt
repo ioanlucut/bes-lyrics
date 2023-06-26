@@ -1,16 +1,16 @@
 [title]
-Te slăvesc, Isuse {Author: {Grupul Paradis}}
+Te slăvesc, Isuse {author: {Grupul Paradis}}
 
 [sequence]
-c,1,c,2,c,c
+c,v1,c,v2,c,c
 
-[1]
+[v1]
 Te slăvesc, Isuse, pentru tot ce Tu mi-ai dat
 Cu binecuvântări m-ai binecuvântat,
 Pace în inimă, mereu ai revărsat,
 Ce mare bucurie e să fii salvat.
 
-[chorus]
+[c]
 /: Îți mulțumesc pentru speranța
 Ce o am în această viață
 Că-ntr-o zi voi fi în cer
@@ -19,7 +19,7 @@ Unde lacrimile pier
 Voi vedea slava măreață,
 Îți mulțumesc, Îți mulțumesc! :/
 
-[2]
+[v2]
 Mărire Ție Doamne, mărire Ție-n veci,
 Știu că de la mine nicicând nu ai să pleci,
 Primește mulțumirea ce-acum eu Ți-o aduc,

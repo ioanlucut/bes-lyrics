@@ -4,7 +4,7 @@ Cerul e un loc minunat
 [sequence]
 c
 
-[chorus]
+[c]
 /: Cerul e un loc minunat,
 Plin de har și slavă.
 Vreau să-L văd pe Domnul meu,

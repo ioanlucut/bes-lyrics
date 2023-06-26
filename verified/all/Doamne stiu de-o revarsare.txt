@@ -2,9 +2,9 @@
 Doamne, știu de-o revărsare
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 Doamne, știu de-o revărsare
 De Duh Sfânt și limbi de foc,
 Ce-a umplut pe fiecare,
@@ -12,7 +12,7 @@ Zguduind casa din loc.
 /: Și pe noi, și pe noi,
 Umple-ne cu Duh pe noi! :/
 
-[2]
+[v2]
 Tată, vrei să treci-nainte?
 Nu ne vezi pe noi de-aici?
 Te rugăm, o, bun Părinte,
@@ -20,7 +20,7 @@ Un cuvânt numai să zici.
 /: Și pe noi, și pe noi,
 Umple-ne cu Duh pe noi! :/
 
-[3]
+[v3]
 O, Isuse, fie-Ți milă!
 Iată-mă-s aici și eu.
 Vezi Tu starea mea umilă?
@@ -28,7 +28,7 @@ Iartă-mi dar, păcatul meu.
 /: Iartă-mi Tu, iartă-mi Tu,
 Iartă-mi Tu păcatul meu! :/
 
-[4]
+[v4]
 Tu Îți ții promisiunea
 Față de poporul Tău.
 Deci, ascultă-mi rugăciunea
@@ -36,7 +36,7 @@ Mă botează, Domnul meu.
 /: Eu aștept, eu aștept,
 Duhul Sfânt eu Îl aștept. :/
 
-[5]
+[v5]
 Doamne, Duh Îți cerem Ție,
 Căci Tu vrei să dai și poți
 Umple azi cu bogăție,

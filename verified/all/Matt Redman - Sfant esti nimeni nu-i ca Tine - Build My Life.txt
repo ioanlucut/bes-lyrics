@@ -1,10 +1,10 @@
 [title]
-Sfânt ești, nimeni nu-i ca Tine {Alternative: {Build My Life}, Author: {Matt Redman, Pat Barrett, Brett Younker, Karl Martin, Kirby Kaple}}
+Sfânt ești, nimeni nu-i ca Tine {alternative: {Build My Life}, author: {Matt Redman, Pat Barrett, Brett Younker, Karl Martin, Kirby Kaple}}
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Vrednic de lauda ce o pot cânta,
 Vrednic ești Tu în veci de-nchinarea mea,
 Vrednic de tot ce sunt toată viața mea
@@ -15,7 +15,7 @@ Isus e singurul care m-a salvat,
 Vrednic de tot ce sunt toată viața mea,
 /: Ești Tu, Isus! :/
 
-[chorus]
+[c]
 Sfânt ești, nimeni nu-i ca Tine,
 Totu-Ți aparține.
 Luminează Tu, prin mine,
@@ -23,13 +23,13 @@ Vreau să Te cunosc mai bine,
 Vreau a Ta iubire
 Pentru cei de lângă mine.
 
-[2]
+[v2]
 Vrednic de lauda ce o pot cânta,
 Vrednic ești Tu în veci de-nchinarea mea,
 Vrednic de tot ce sunt toată viața mea,
 /: Ești Tu, Isus! :/
 
-[bridge]
+[b]
 /: Voi zidi pe-a Ta iubire,
 E o temelie tare.
 Voi trăi doar prin credință

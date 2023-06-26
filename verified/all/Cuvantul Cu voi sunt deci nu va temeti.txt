@@ -2,26 +2,26 @@
 Cuvântul: „Cu voi sunt, deci nu vă temeți”
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Cuvântul: „Cu voi sunt, deci nu vă temeți!”
 Luminează-mi calea acestei vieți.
 El prin nori ca raza ne străbate-așa.
 Mă bucură vocea-I: „În veci nu Te voi lăsa!”
 
-[chorus]
+[c]
 Eu nu te-oi lăsa, Eu nu te-oi lăsa,
 Așa mi-a promis mie:
 „În veci nu te voi lăsa!”
 
-[2]
+[v2]
 Floarea veștejește, mirosul ei pierzând,
 Pot să treacă toate, dar Isus nicicând!
 Căci Mântuitorul, veșnic e al meu
 Și întotdeauna mă ține-n harul Său!
 
-[3]
+[v3]
 Când a mea cărare se va-ntuneca,
 El va grăi dulce: „Nu te-nfricoșa!”
 Iar o dată-n ceruri, când Îl voi vedea

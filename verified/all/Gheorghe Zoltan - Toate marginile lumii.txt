@@ -1,10 +1,10 @@
 [title]
-Toate marginile lumii {Author: {Gheorghe Zoltan}}
+Toate marginile lumii {author: {Gheorghe Zoltan}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Toate marginile lumii
 Îl cunosc pe Creator.
 El e Alfa și Omega
@@ -14,13 +14,13 @@ Stelele le-a pus pe cer,
 În cămări a pus și vântul,
 Cine altul decât El?
 
-[chorus]
+[c]
 Toate-L așteaptă doar pe El,
 Parcă șoptesc: „Emanuel”!
 Pământul e plin de prezența Sa,
 Omule, să iei seama!
 
-[2]
+[v2]
 El, Pământul din nimic,
 L-a creat și stă-n picioare!
 Haină i-a făcut din nori

@@ -2,15 +2,15 @@
 Ce ne poate curăți
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Lucrarea Ta arată dragostea
 Și tot ce ai creat sunt vii mărturii
 Și spun dreptatea Ta cum vii în ajutor,
 Isuse, Tu ești Domn!
 
-[chorus]
+[c]
 Ce ne poate curăți?
 Ce ne poate face sfinți?
 Doar sângele tău,
@@ -20,7 +20,7 @@ Prieteni cu cel ce e sfânt?
 Doar sângele tău,
 Doar sângele tău, Isuse!
 
-[2]
+[v2]
 Crucea grea spune despre Har,
 De dorința Ta să ne conduci pe drum,
 Deși noi suntem slabi, putem să fim salvați,

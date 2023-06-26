@@ -1,23 +1,23 @@
 [title]
-Câștigăm România {Author: {Callatis Praise}}
+Câștigăm România {author: {Callatis Praise}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 N-avem nici o frică,
 Isus e cu noi!
 Mergem înainte
 În numele Său.
 
-[chorus]
+[c]
 Isus e cu noi,
 Azi celebrăm victoria!
 Isus e cu noi,
 Azi câștigăm Mangalia,
 România!
 
-[2]
+[v2]
 În strigăt de luptă
 Avem biruința,
 Cu Isus în frunte

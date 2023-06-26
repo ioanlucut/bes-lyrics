@@ -2,9 +2,9 @@
 Vino, Duhule Sfânt, peste mine
 
 [sequence]
-1
+v1
 
-[1]
+[v1]
 Vino, Duhule Sfânt, peste mine,
 Atinge-Te de nevoile mele.
 Să curgă râul dragostei Tale

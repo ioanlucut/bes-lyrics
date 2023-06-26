@@ -2,31 +2,31 @@
 Vrednic Miel e Domnul slavei
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Vrednic Miel e Domnul slavei,
 Sfânt e, sfânt e doar El.
 Să-i cântam dar, Celui ce-n veci stă
 Pe al milei tron.
 
-[chorus]
+[c]
 Sfânt e, sfânt e, sfânt e,
 Domnul Atotputernic!
 Ce-a fost și este și va fi.
-Îi cântă Universul: 
+Îi cântă Universul:
 Slăvit să fii, Isus!
 Ești tot ce am mai bun,
 Prin cântec, Te laud.
 
-[2]
+[v2]
 Îmbrăcat ești în lumină,
 Ne umpli viața cu măreție,
 Putere, onoare, glorie,
 Lauda a Ta va fi!
 Ești rege azi și-n veșnicii.
 
-[3]
+[v3]
 Cuprins de teamă și de uimire
 Când rostesc Numele Tău,
 În Tine e putere, suflare, apă vie,

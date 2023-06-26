@@ -2,20 +2,20 @@
 Eu am o călăuză
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Pe Tin’ Te laud, Isuse,
 Pentru bunătatea Ta,
 Pentru-a Ta milă nespusă
 Ce-o arăți în viața mea.
 
-[chorus]
+[c]
 Eu am o călăuză pe acest pământ străin
-Și-n orice-mprejurare 
+Și-n orice-mprejurare
 Tu îmi ești al meu sprijin!
 
-[2]
+[v2]
 Ajută-ne, o, Doamne,
 Să Îți facem voia Ta,
 Toți ca să putem ajunge

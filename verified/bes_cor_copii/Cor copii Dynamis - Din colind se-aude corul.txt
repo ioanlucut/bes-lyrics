@@ -1,22 +1,22 @@
 [title]
-Din colind se-aude corul {Author: {Cor copii Dynamis}}
+Din colind se-aude corul {author: {Cor copii Dynamis}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Din colind se-aude corul,
 Copilașii se trezesc,
 S-a născut Mântuitorul,
 Pruncul cel Dumnezeiesc.
 
-[chorus]
+[c]
 /: S-a născut sărac,
 Cel ce este mai avut.
 Într-o iesle înfășat,
 Cel făr’ de-nceput. :/
 
-[2]
+[v2]
 S-a născut Mântuitorul,
 Bucuria tuturor.
 Pentru cei făr’ de speranță

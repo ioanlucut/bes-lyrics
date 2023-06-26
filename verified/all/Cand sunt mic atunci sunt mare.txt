@@ -2,45 +2,45 @@
 Când sunt mic atunci sunt mare
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c,6,c
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
 
-[1]
+[v1]
 Când sunt mic, atunci sunt mare,
 Cânt voios când lupta-i grea,
 Când sunt slab, atunci sunt tare
 Căci Isus e stânca mea.
 
-[chorus]
+[c]
 Munții de s-ar clătina,
 Vântul mare de-a sufla,
 Ape de s-ar revărsa,
 Isus, Isus, ești pacea mea.
 
-[2]
+[v2]
 Chiar de n-ar mai fi izvoare
 Și de sete m-aș usca,
 În nevoi și-ndestulare
 Te voi binecuvânta.
 
-[3]
+[v3]
 Vânturi grele de vor bate
 Eu mă-ncred în Dumnezeu
 Căci în cer, în sfânta carte
 Este scris numele meu.
 
-[4]
+[v4]
 Chiar de-aș fi la strâmtorare,
 Chiar și-n lanțuri de-aș fi pus,
 În orice împrejurare
 Ținta mea ești, Tu, Isus.
 
-[5]
+[v5]
 Pentru noi, chiar de e pace,
 Pentru noi, chiar de-i război,
 Nu ne temem niciodată,
 Dumnezeu este cu noi.
 
-[6]
+[v6]
 Dumnezeu din slăvi divine,
 Sfânt, sfânt, sfânt în veci e El,
 Cel ce-a fost, ce e, ce vine,

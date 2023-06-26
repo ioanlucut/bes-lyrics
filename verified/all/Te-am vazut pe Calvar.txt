@@ -2,9 +2,9 @@
 Te-am văzut pe Calvar
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Te-am văzut pe Calvar
 C-ai murit răstignit,
 Pe o cruce murdară
@@ -17,7 +17,7 @@ Cărai crucea grea,
 De-o povară ce nimeni
 N-o poate lua.
 
-Când blând, smerit ca un miel
+Când blând, smerit ca un Miel
 Ai fost junghiat,
 Te-am văzut, Isuse,
 Te-am văzut mergând.
@@ -34,7 +34,7 @@ Să ne dai viață
 Și-ai plâns pentru noi
 Căci nu Te-am primit!
 
-[chorus]
+[c]
 Slavă Ție, Isus,
 Ce pe cruce-ai murit
 Să mă scapi de povara
@@ -50,7 +50,7 @@ Refuzându-Ți chemarea,
 Dar azi din păcat
 Mă întorc să-Ți slujesc!
 
-[2]
+[v2]
 Astăzi stau pe stâncă,
 Privind în jos,
 Și văd noroiul
@@ -76,7 +76,7 @@ Vrem să stăm lângă Tine,
 Să-Ți slujim ne-ncetat,
 Căci Tu, doar Tu ne-ai salvat!
 
-[bridge]
+[b]
 Dar azi din păcat mă întorc,
 Azi din păcat mă întorc,
 Azi din păcat mă întorc

@@ -1,27 +1,27 @@
 [title]
-Rugăciune pentru cetate {Author: {Alin Timofte}}
+Rugăciune pentru cetate {author: {Alin Timofte}}
 
 [sequence]
-1,b,c,2,b,c,3,b,c
+v1,b,c,v2,b,c,v3,b,c
 
-[1]
+[v1]
 Păreri de rău pășesc înlăuntrul meu,
 N-aș vrea să le primesc, în ele sunt chiar eu.
 
-[bridge]
+[b]
 Aș vrea să mă-ntâlnești, aș vrea să-mi zâmbești,
 Atât cât Tu exiști, Doamne, unde ești?
 
-[chorus]
+[c]
 Ooo... Răspunde-mi! Răspunde-mi!
 Ooo... Deschide-mi! Deschide-mi!
 Ooo... Vorbește-mi! Vorbește-mi!
 Ooo... Sunt fiul Tău!
 
-[2]
+[v2]
 Trecutul nu-i străin, e prețul ce-l plătesc,
 Azi e din nou senin, dar tot nu Te zăresc.
 
-[3]
+[v3]
 E încă întuneric, dar ochii mei sunt vii
 Căci nu se face noapte, începe prima zi.

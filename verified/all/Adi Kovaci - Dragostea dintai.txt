@@ -1,10 +1,10 @@
 [title]
-Dragostea dintâi {Author: {Adi Kovaci}}
+Dragostea dintâi {author: {Adi Kovaci}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Nu-mi doresc altceva
 Decât prezența Ta, Isus,
 Nimeni nu-mi poate da
@@ -14,7 +14,7 @@ Mă odihnesc în pacea Ta,
 Tu ești dorința mea,
 Ești cel mai prețios.
 
-[chorus]
+[c]
 Mă-ntorc din nou la Tine,
 Tu ești dragostea mea cea dintâi.
 Lumea nu va putea să umple golul din inima mea,
@@ -23,7 +23,7 @@ Nu aparține altcuiva,
 Mă-ntorc din nou la Tine,
 Tu ești dragostea mea cea dintâi.
 
-[2]
+[v2]
 Îți predau viața mea
 Și orice idoli aș avea,
 Astăzi se vor pleca

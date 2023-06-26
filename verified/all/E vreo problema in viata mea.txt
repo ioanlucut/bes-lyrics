@@ -2,33 +2,33 @@
 E vreo problemă în viața mea
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 E vreo problemă în viața mea?
 Există un Nume mai mare?
 Și teama ce-n suflet aduce-ndoieli?
 Există un Nume mai mare?
 
-[chorus]
+[c]
 În Numele Lui suntem vindecați,
 În Numele Lui îngenunchiem,
 Iehova, Shalom, Domnul păcii Tu ești
 Și Numele Tău înălțăm.
 
-[2]
+[v2]
 Puteri ce-atacați credința-n Isus,
 Domniei Lui tari să vă plecați!
 Religie goală te pleacă și tu!
 Isus este-un Nume mai mare!
 
-[3]
+[v3]
 Pentru orice păcat ce-am avut în trecut
 Există un Nume mai mare!
 Și-n boala ce calea mea mult a umbrit
 Există un Nume mai mare!
 
-[4]
+[v4]
 Ambiții căutate, râvnite demult,
 Le pun la picioarele Domnului,
 Invidie-ascultă! Să știți și voi toți

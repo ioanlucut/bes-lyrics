@@ -2,27 +2,27 @@
 E drept că Isus a murit
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 E drept că Isus a murit,
 Purtând păcatul meu?
 Pe cruce cum a suferit,
 Fiul Lui Dumnezeu?
 
-[chorus]
+[c]
 /: Da, crucea-i acel loc unde m-am luminat.
 Am fost orb, vedere-aici mi s-a dat
 Și pe Isus în inima L-am primit.
 Cânt voios, pacea Lui am dobândit! :/
 
-[2]
+[v2]
 Simt ale Fiului dureri,
 Ce scumpă-i rana Lui,
 Prin care înțeleg, de-ajuns,
 Iubirea Tatălui.
 
-[3]
+[v3]
 Isuse, datoria mea,
 Cu plâns n-o pot plăti,
 Te rog cum sunt să mă primești,

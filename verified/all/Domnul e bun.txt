@@ -2,15 +2,15 @@
 Domnul e bun
 
 [sequence]
-c,1,c,1
+c,v1,c,v1
 
-[chorus]
+[c]
 Domnul e bun, noi cântăm cu toții!
 Domnul e bun, sărbătorim!
 Domnul e bun, fără îndoială.
 Domnul e bun, în veci de veci.
 
-[1]
+[v1]
 Când mă gândesc la iubirea Sa
 În inima mea este mare bucurie,
 Căci pentru mine El s-a jertfit

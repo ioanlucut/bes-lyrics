@@ -2,9 +2,9 @@
 În bunătatea Ta ne-asculți
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 În bunătatea Ta ne-asculți
 A noastră rugăciune
 Și inima ne-o ușurezi
@@ -15,7 +15,7 @@ Spre Tine, sfinte Tată,
 Și prin Cuvânt ne întărești
 De fiecare dată. :/
 
-[2]
+[v2]
 Nădejdea Tu ne-o-mprospătezi
 Când vezi că se-ofilește
 Și nicio piedică pe drum
@@ -26,7 +26,7 @@ Cu mult mai mult întrece
 Căderea-n care-am fost târâți
 Și starea noastră rece. :/
 
-[3]
+[v3]
 Ești pentru vecii nesfârșiți
 Izvorul mântuirii
 Și peste noi mereu Ți-ntinzi

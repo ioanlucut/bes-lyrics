@@ -1,10 +1,10 @@
 [title]
-Să răsune pe întreg pământul {Author: {Cor copii Dynamis}}
+Să răsune pe întreg pământul {author: {Cor copii Dynamis}}
 
 [sequence]
-1,2,3,1,2,3,e
+v1,v2,v3,v1,v2,v3,e
 
-[1]
+[v1]
 Să răsune pe întreg pământul:
 Isus e viu!
 Gol și rece a rămas mormântul,
@@ -13,7 +13,7 @@ Să răsune pe întreg pământul: Isus e viu!
 Astăzi s-a-mplinit Cuvântul,
 El este viu!
 
-[2]
+[v2]
 A-nviat, mergeți toți să spuneți,
 Mormântul este gol,
 Nu-i aici, El e viu, trăiește
@@ -24,11 +24,11 @@ Aleluia, glorie Îi cântăm,
 Aleluia, toți Îl lăudăm,
 Căci e viu!
 
-[3]
+[v3]
 Aleluia, e viu să cântăm cu toții!
 /: Isus, Aleluia, e viu
 Să cântăm cu toții. :/
 
-[ending]
+[e]
 Să răsune pe întreg pământul:
 Isus e viu!

@@ -2,9 +2,9 @@
 Test
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 space-not-expected-before țtext
 space-not-expected-before Îtext
 space-not-expected-before âtext
@@ -21,7 +21,7 @@ space-not-expected-before ’text
 space-not-expected-before ”text
 space-not-expected-before „text
 
-[2]
+[v2]
 textț single-space-expected-after-this
 textÎ single-space-expected-after-this
 textâ single-space-expected-after-this
@@ -38,7 +38,7 @@ text’ single-space-expected-after-this
 text” single-space-expected-after-this
 text„ single-space-expected-after-this
 
-[3]
+[v3]
 end-of-line-works-without-extra-space-textț
 end-of-line-works-without-extra-space-textÎ
 end-of-line-works-without-extra-space-textâ

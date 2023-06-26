@@ -2,15 +2,15 @@
 Golgota de-ar vorbi, Golgota de-ar vorbi
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Golgota de-ar vorbi, Golgota de-ar vorbi,
 Ar spune tragedia care-a fost pe ea.
 Ar spune Ghetsimani, grădina Ghetsimani,
 Cum, Hristos, în noapte, pentru tine S-a rugat.
 
-[chorus]
+[c]
 A fost, a fost atât de greu
 Să sufere în locul tău.
 Sudori de sânge-au curs pe fața Lui Isus!
@@ -21,7 +21,7 @@ De multe ori a căzut Isus.
 O, Golgota, o, Golgota, loc de jale
 Unde Hristos Și-a dat viața Sa, la Golgota.
 
-[2]
+[v2]
 Era disprețuit, era batjocorit,
 Corpul Său era doar răni și vânătăi.
 Din fruntea Sa curgea sânge nevinovat

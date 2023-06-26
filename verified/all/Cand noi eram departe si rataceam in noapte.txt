@@ -2,39 +2,39 @@
 Când noi eram departe și rătăceam în noapte
 
 [sequence]
-1,c,2,c,3,c,4,t
+v1,c,v2,c,v3,c,v4,c2
 
-[1]
+[v1]
 Când noi eram departe și rătăceam în noapte,
 Isus, Tu ai venit și ne-ai salvat.
 Din chinurile vieții și rece-a groapă-a morții,
 Isus, Tu ai venit și ne-ai salvat.
 
-[chorus]
+[c]
 /: Isus, Isus,
 Tu ești al nostru Soare,
 Ești barca de salvare,
 Ești Mirele iubit și minunat. :/
 
-[2]
+[v2]
 Când nu aveam pe nimeni, nici frați și nici prieteni,
 În Tine am aflat un prieten bun.
 La Golgota, Isuse, Tu ne-ai cuprins în brațe,
 De-aceea Te iubim nespus acum.
 
-[3]
+[v3]
 Când lacrimi amare se prelingeau în gene
 Și suferința era tot mai grea.
 În chinuri și durere, Tu mi-ai fost mângâiere,
 O, numai Tu, Isus, cu mâna Ta.
 
-[4]
+[v4]
 Te așteptăm Isuse, în post și în veghere,
 Ne e dor să Te vedem cât mai curând.
 Ne-am săturat, aici, de chin și de durere.
 O, vino și ne du în cerul sus.
 
-[chorus 2]
+[c2]
 /: Isus, Isus,
 O, vino mai degrabă,
 Mireasa Te așteaptă

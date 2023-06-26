@@ -2,33 +2,33 @@
 Da, chiar în curând
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 Da, chiar în curând,
 Vom vedea toți pe Mirele. (3x)
 Aleluia, Aleluia,
 Pe Mire Îl vom vedea.
 
-[2]
+[v2]
 Noapte nu va fi
 Când vom vedea toți pe Mirele. (3x)
 Aleluia, Aleluia,
 Pe Mire Îl vom vedea.
 
-[3]
+[v3]
 Moarte nu va fi
 Când vom vedea toți pe Mirele. (3x)
 Aleluia, Aleluia,
 Pe Mire Îl vom vedea.
 
-[4]
+[v4]
 Lacrimi nu vor fi
 Când vom vedea toți pe Mirele. (3x)
 Aleluia, Aleluia,
 Pe Mire Îl vom vedea.
 
-[5]
+[v5]
 Ne vom bucura
 Când vom vedea toți pe Mirele. (3x)
 Aleluia, Aleluia,

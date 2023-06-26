@@ -1,28 +1,28 @@
 [title]
-Ești Domn peste tot, smerit și blând {Author: {Cor copii Dynamis}}
+Ești Domn peste tot, smerit și blând {author: {Cor copii Dynamis}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Ești Domn peste tot, smerit și blând
 Și totuși rămâi Domn în veșnicii.
 Isus, nume prea sus, peste orice nume,
 Vrednic ești Tu să fii mereu lăudat,
 Să fii mereu lăudat!
 
-[chorus]
+[c]
 Aleluia, Aleluia,
 Aleluia, Aleluia!
 
-[2]
+[v2]
 Domn al slavei ești Tu, mai sus de galaxii,
 Universul întreg Te va slăvi.
 Domn al domnilor peste cer și pământ,
 Vrednic ești Tu să fii mereu lăudat,
 Să fii mereu lăudat!
 
-[3]
+[v3]
 Cu toții să-I cântăm,
 Pe Domnul să-L lăudăm
 Căci El ne-a iubit și El ne-a iertat.
@@ -31,7 +31,7 @@ Pe Domnul să-L lăudăm,
 În cer locaș ne-a dat al nostru Împărat,
 Al nostru Împărat.
 
-[chorus]
+[c]
 Aleluia, Aleluia,
 Aleluia, Aleluia!
 Amin

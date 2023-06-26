@@ -2,15 +2,15 @@
 Primește lauda și închinarea
 
 [sequence]
-c,1,c
+c,v1,c
 
-[chorus]
+[c]
 /: Primește lauda și închinarea,
 Tată din ceruri, Te slăvim,
 Primește lauda și închinarea,
 Tată din ceruri, Te iubim! :/
 
-[1]
+[v1]
 Cu tot ce-avem ne-nchinăm
 În fața Ta, Stăpâne,
 Onoare și mărire Ție-Ți dăm

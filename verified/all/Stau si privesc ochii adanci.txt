@@ -2,9 +2,9 @@
 Stau și privesc ochii adânci
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Stau și privesc ochii adânci
 Care m-au descătușat
 Când eram lovit de stânci.
@@ -19,7 +19,7 @@ Azi vreau să fiu în palma Ta
 Perla care-Ți va cânta:
 Te iubesc, Domnul meu! :/
 
-[2]
+[v2]
 Vreau flori de cais să-mi presar
 Peste inima ce-acum
 Ți-o dau cu iubire-n dar
@@ -34,7 +34,7 @@ Noi amândoi vom fi mereu.
 Noaptea nu va trece greu.
 Te iubesc, Domnul meu! :/
 
-[3]
+[v3]
 Vreau și Te rog să primești
 În grădinile cerești
 Și pe cel din fața Ta.

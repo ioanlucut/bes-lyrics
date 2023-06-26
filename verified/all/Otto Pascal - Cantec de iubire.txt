@@ -1,29 +1,29 @@
 [title]
-Cântec de iubire {Author: {Otto Pascal}}
+Cântec de iubire {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Vreau să fiu un cântec de iubire
 În această lume plină de dureri,
 Să aduc în jur speranță și multă bucurie,
 Zi de zi să las doar sfinte amintiri!
 
-[chorus]
+[c]
 Tu m-ai creat să fiu o mărturie,
 Numai despre Tine, Doamne, să vorbesc!
 Prin tot ce fac să răspândesc iubire,
 Cu inima întreagă să-Ți slujesc!
 
-[2]
+[v2]
 Vreau să fiu o rază de lumină
 Și să luminez când vine noaptea grea,
 Să alung pe rând toți norii
 Când ziua nu-i senină,
 Răspândind în jur doar strălucirea Ta!
 
-[3]
+[v3]
 Vreau să fiu în lume-o mângâiere
 Prin cuvântul ce-l rostesc mereu s-alin,
 Să aduc în inimi pacea, nu dezamăgirea,

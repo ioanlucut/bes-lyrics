@@ -2,21 +2,21 @@
 Tu ești bun
 
 [sequence]
-c,1,c,1,b,c
+c,v1,c,v1,b,c
 
-[chorus]
+[c]
 Unii spun că nu poți fi găsit,
 Alții spun că nu poți fi văzut,
 Dar știu că-n mine, Doamne, Tu trăiești
 Și-n inimă eu vreau să îmi vorbești.
 
-[1]
+[v1]
 Tu ești bun și iubirea Ta e-n mine,
 Tu ești bun și iubirea Ta rămâne,
 Tu ești bun și iubirea Ta e-n mine,
 Tu ești bun, Tu ești bun.
 
-[bridge]
+[b]
 Numai Tu, Isus,
 Numai Tu îmi ești de-ajuns,
 Numai Tu, Isus, ești Domn.

@@ -2,33 +2,33 @@
 Isus iubit, când vei veni
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Isus iubit, când vei veni
 Mireasa Ta pentru-a-Ți răpi?
 Ce bucurie mare-a fi
 O, Mire drag, de ce nu vii?
 
-[chorus]
+[c]
 Mai este loc la nunta Ta,
 Unde doresc și mult aș vrea
 Să fiu chemat de Tin’ Isus
 Și să ne bucurăm nespus.
 
-[2]
+[v2]
 Mireasa Ta-mbrăcat-a fi,
 În haine albe-o vei găsi,
 Ce bucurie mare-a fi
 O, Mire drag, de ce nu vii?
 
-[3]
+[v3]
 Când marea luptă s-a sfârși,
 Sus, în împărăția Ta,
 Ce veselie mare-a fi,
 Ah, Mire drag, de ce nu vii?
 
-[4]
+[v4]
 Aș vrea, Isuse scump, aș vrea
 Să fiu și eu la nunta Ta,
 În haine albe îmbrăcat,

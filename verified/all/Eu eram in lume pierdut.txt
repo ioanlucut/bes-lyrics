@@ -2,27 +2,27 @@
 Eu eram în lume pierdut
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Eu eram în lume pierdut
 Și fără adăpost,
 Dar când în față mi-ai apărut
 Eu mi-am găsit un rost.
 
-[chorus]
+[c]
 Îți mulțumesc din inimă,
 Iubite Salvator,
 De mii de ori Tu m-ai scăpat
 Și mi-ai dat ajutor.
 
-[2]
+[v2]
 De multe ori mi s-a întâmplat
 Să fiu făr-ajutor,
 De atâtea ori Tu m-ai scăpat,
 De aceea-Ți sunt dator.
 
-[3]
+[v3]
 Eu sunt dator să-Ți mulțumesc
 Pentru iubirea Ta,
 Isuse, ce mult Te iubesc

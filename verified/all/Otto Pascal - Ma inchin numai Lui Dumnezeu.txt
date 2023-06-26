@@ -1,28 +1,28 @@
 [title]
-Mă închin numai Lui Dumnezeu {Author: {Otto Pascal}}
+Mă închin numai Lui Dumnezeu {author: {Otto Pascal}}
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Mă închin numai Lui Dumnezeu,
 Plin de dor, cu tot cugetul meu,
 /: Fără Tine aș fi doar un rob zdrențuit,
 Dar Tu-n brațe cu drag m-ai primit. :/
 
-[2]
+[v2]
 Când am fost doborât la pământ,
 Inima în fărâme s-a frânt,
 /: Mi-ai legat rănile, iertând păcatele,
 Nu mai vreau să-Ți întorc spatele. :/
 
-[3]
+[v3]
 Mâna Ta, o voi ține mereu,
 Mă condu când pe cale e greu...
 /: Voi păși lăudând numele Tău Preasfânt,
 Câte zile voi fi pe pământ. :/
 
-[4]
+[v4]
 Iar când vei reveni, printre nori,
 Să-i înalți pe cei biruitori,
 /: Nu uita inima, ce cu dor Te-aștepta,

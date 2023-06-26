@@ -2,9 +2,9 @@
 Intrat-ai în grădină să vezi rodirea mea
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Intrat-ai în grădină
 Să vezi rodirea mea,
 Te-ai bucurat sau, Doamne,
@@ -25,7 +25,7 @@ O, iartă-mi nepăsarea
 Să caut rugăciunea
 Și-așa să Te aștept.
 
-[2]
+[v2]
 Genunchii-n slăbiciune
 Tu să mi-i întărești
 Să-i pot pleca-n smerenie,
@@ -46,7 +46,7 @@ O, iartă-mi nevegherea
 S-astup orice spărtură-ntregind
 Al meu altar.
 
-[3]
+[v3]
 Să-ndepărtez icoane
 Și idolii lumești,
 Să-mi fie jertfa-ntreagă,
@@ -67,7 +67,7 @@ De-a fi un mincinos
 Și dă-mi de zi în suflet
 Iubirea Ta, Hristos.
 
-[4]
+[v4]
 De-am căutat ’nălțare
 Să-mi fac cu mâna mea,
 O, iartă-mi Tu mândria

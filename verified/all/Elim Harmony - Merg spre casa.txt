@@ -1,10 +1,10 @@
 [title]
-Merg spre casă {Author: {Elim Harmony}}
+Merg spre casă {author: {Elim Harmony}}
 
 [sequence]
-c,1,c,2,c,b,c
+c,v1,c,v2,c,b,c
 
-[chorus]
+[c]
 /: Eu cu Domnul plec acasă,
 Într-o clipă mă va lua.
 Eu știu: locul meu e-n ceruri,
@@ -15,7 +15,7 @@ Nici momentul când va fi.
 Știu că voi pleca acasă
 Când mireasa-Și va răpi. :/ (2x)
 
-[1]
+[v1]
 Tot aștept s-aud trompeta,
 Oricând poate suna
 Și cununa mă așteaptă
@@ -26,7 +26,7 @@ Chiar Isus, la Golgota.
 Mi-a plătit călătoria
 Cu însăși viața Sa
 
-[2]
+[v2]
 Corabia-i pregătită,
 Ne așteaptă să urcăm.
 Destinația mea e-n ceruri,
@@ -37,7 +37,7 @@ Ne așteaptă Salvatorul
 O eternitate vom trăi
 În cer lângă Isus.
 
-[bridge]
+[b]
 Și chiar de nu știu ziua,
 Nici momentul când va fi.
 Știu că voi pleca acasă

@@ -2,20 +2,20 @@
 Isus cel înviat e astăzi printre noi
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 /: Isus cel înviat
 E astăzi printre noi, :/ (3x)
 Isus e astăzi printre noi.
 
-[chorus]
+[c]
 /: Lasă-L să te-atingă :/ (3x)
 Și vei fi eliberat.
 /: Lasă-L să te-atingă, :/ (3x)
 Vei fi binecuvântat. :/
 
-[2]
+[v2]
 /: Mormântul Lui Isus
 Și astăzi este gol, :/ (3x)
 Mormântul Lui Isus e gol!

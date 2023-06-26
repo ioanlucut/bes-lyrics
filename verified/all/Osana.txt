@@ -2,19 +2,19 @@
 Osana
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Osana, Amin, Osana!
 O, Aleluia, Maranata!
 Isus e Domn! (8x)
 
-[2]
+[v2]
 El a-nviat! (8x)
 Osana, Amin, Osana!
 O, Aleluia, Maranata!
 
-[3]
+[v3]
 El va veni! (8x)
 Osana, Amin, Osana!
 O, Aleluia, Maranata!

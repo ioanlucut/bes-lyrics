@@ -2,9 +2,9 @@
 Tu ești Lumina din zori de zi
 
 [sequence]
-1,c,b,c
+v1,c,b,c
 
-[1]
+[v1]
 Tu ești Lumina din zori de zi,
 Tu ești motivul meu de-a trăi,
 Tu ești iubirea ce n-are sfârșit
@@ -13,13 +13,13 @@ Tu stai cu mine în încercări
 Și-mi dai noi aripi să zbor
 Spre alte zări - Isus
 
-[chorus]
+[c]
 Vreau să fiu mai aproape de Tine,
 Vreau să fii lângă inima mea,
 Vreau să stau în prezența-Ți divină,
 Vreau mai mult ca orice fața Ta!
 
-[bridge]
+[b]
 Vreau să fii mai aproape de mine,
 Vreau să fiu lângă inima Ta,
 Vreau să stau în prezența-Ți divină,

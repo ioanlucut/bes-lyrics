@@ -1,10 +1,10 @@
 [title]
-Înainte să-nțelegem Harul Tău {Alternative: {Doar prin crucea Ta}, Author: {BBSO}}
+Înainte să-nțelegem Harul Tău {alternative: {Doar prin crucea Ta}, author: {BBSO}}
 
 [sequence]
-1,b,c,2,b,c,e
+v1,b,c,v2,b,c,e
 
-[1]
+[v1]
 Înainte să-nțelegem harul Tău bogat,
 Tu, cuvântul viu din Tatăl sfânt și adorat,
 Ne-ai deschis cărarea vieții
@@ -12,18 +12,18 @@ Să pășim spre cer.
 Ne-ai zdrobit din suflet moartea,
 Te-ai jertfit ca Miel.
 
-[bridge]
+[b]
 Tu ești primul, începutul, ești Dumnezeu!
 Tu ești chipul Celui Veșnic, ești Domnul Meu!
 
-[chorus]
+[c]
 Doar prin crucea Ta măreață sunt născut din nou,
 Ai murit să-mi dai viață, m-ai făcut al Tău! (2x)
 
-[2]
+[v2]
 Noaptea lumii se destramă, ești lumina mea.
 Viață nouă azi renaște prin iubirea Ta.
 
-[ending]
+[e]
 Te iubesc, Isus, Te iubesc, Isus, Te iubesc, Isus!
 Sunt al Tău pe veci! (2x)

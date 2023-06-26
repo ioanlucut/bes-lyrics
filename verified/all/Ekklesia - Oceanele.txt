@@ -1,19 +1,19 @@
 [title]
-Oceanele {Author: {Ekklesia}}
+Oceanele {author: {Ekklesia}}
 
 [sequence]
-1,c,2,c,2,c
+v1,c,v2,c,v2,c
 
-[1]
+[v1]
 Ține-mă în mâna Ta,
 Să m-ascunzi, întinde-Ți aripa.
 
-[chorus]
+[c]
 /: Când oceanele cumplit vuiesc,
 Doamne, dă-mi puteri să biruiesc.
 Tată, știu că Tu ești Veghetor,
 Stau liniștit, știu că ești Domn. :/
 
-[2]
+[v2]
 Doar în Hristos mă odihnesc,
 Puterea Sa în liniște-o găsesc.

@@ -4,7 +4,7 @@ De n-ar fi Isus
 [sequence]
 c
 
-[chorus]
+[c]
 Isus, o, Isus,
 Îl cunoști, tu, acum
 Pe păstorul meu bun?

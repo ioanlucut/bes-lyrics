@@ -1,10 +1,10 @@
 [title]
-Tu ești Domnul meu! {Author: {Grupul Messis}}
+Tu ești Domnul meu! {author: {Grupul Messis}}
 
 [sequence]
-1,c,2,c,c
+v1,c,v2,c,c
 
-[1]
+[v1]
 De câte ori Te caut, Doamne,
 De-atâtea ori Te lași găsit
 Și mă-nconjori cu-a Ta iubire
@@ -12,14 +12,14 @@ Cum nimeni nicicând n-a iubit.
 Și orice gând mi-l înțelegi Tu
 Și orice vorbă o auzi.
 
-[chorus]
+[c]
 /: Tu ești Domnul meu,
 Salvatorul meu,
 Nimeni și nimic nu e ca Dumnezeu.
 Eu te voi lăuda cu toată ființa mea,
 Vrednic ești, Isus, să fii înălțat! :/
 
-[2]
+[v2]
 Mi-ai arătat ce e iertarea
 Și cum să lupt pân-la sfârșit,
 Oricât de mare-ar fi-ncercarea,

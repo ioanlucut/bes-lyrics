@@ -2,22 +2,22 @@
 Deschide-mi ochii inimii, Doamne
 
 [sequence]
-1,c,1,c,b,c
+v1,c,v1,c,b,c
 
-[1]
+[v1]
 /: Deschide-mi ochii inimii, Doamne,
 Deschide-mi ochii inimii!
 Vreau să Te văd,
 Vreau să Te văd. :/
 
-[chorus]
+[c]
 /: Vreau să Te văd înălțat,
 Strălucind în gloria Ta,
 Ca să-Ți vedem dragostea,
 Căci doar Tu sfânt ești,
 Sfânt ești, sfânt ești, sfânt ești. :/
 
-[bridge]
+[b]
 /: Sfânt ești, sfânt ești, sfânt ești,
 Doar Tu sfânt ești, sfânt ești, sfânt ești,
 Sfânt ești, sfânt ești, sfânt ești

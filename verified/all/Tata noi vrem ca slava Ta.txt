@@ -2,15 +2,15 @@
 Tată, noi vrem ca slava Ta
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Tată, noi vrem ca slava Ta
 Să poată fi văzută-n noi.
 Inimile noastre să devină doar o inimă
 Și-atunci lumea va ști că Isus este Domn.
 
-[chorus]
+[c]
 /: Fă-ne doar un glas
 Ce-Ți înalță numele.
 Fă-ne doar un glas

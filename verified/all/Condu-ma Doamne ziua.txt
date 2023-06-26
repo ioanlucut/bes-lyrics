@@ -2,9 +2,9 @@
 Condu-mă, Doamne, ziua
 
 [sequence]
-c,1,c,2
+c,v1,c,v2
 
-[chorus]
+[c]
 Condu-mă, Doamne, ziua!
 Condu-mă, e ruga mea,
 Prin toate necazurile-acestei lumi.
@@ -13,7 +13,7 @@ Condu-mă prin lumina Ta
 Căci numai Tu poți
 Conduce viața mea.
 
-[1]
+[v1]
 Am fost născut în păcat,
 Dar Isus pentru mine S-a dat.
 Viața mea de-acum e-n mâna Sa,
@@ -21,7 +21,7 @@ Dar până Îl voi vedea
 Am nevoie de-ndurarea Sa
 Căci a promis să-mi conducă viața.
 
-[2]
+[v2]
 Dumnezeu ne iubește mereu,
 Pentru noi a dat pe singurul Fiu,
 Ca noi să fim salvați din păcat.

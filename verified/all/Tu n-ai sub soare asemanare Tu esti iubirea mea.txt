@@ -2,33 +2,33 @@
 Tu n-ai sub soare asemănare, Tu ești iubirea mea
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Tu n-ai sub soare asemănare,
 Ești necuprins, ești nemărginit.
 Iubirea-Ți sfântă e o splendoare,
 Pe drept, Isuse, Tu ești iubit.
 
-[chorus]
+[c]
 /: Tu ești iubirea mea,
 Tu-mi ești Comoara vieții,
-Soarele meu frumos 
+Soarele meu frumos
 Din zorii dimineții. :/
 
-[2]
+[v2]
 Îți cântă marea, Îți cântă cerul,
 Și mii de astre-n a lor loc
 Căci Tu ești Calea și-Adevărul,
 Ești cel mai frumos din univers.
 
-[3]
+[v3]
 Tu ești iubirea, Neprihănirea,
 Pe-a Tale buze e-un râu de har.
 Tu locuiești sus în strălucire,
 Tu ești cel mai scump mărgăritar.
 
-[4]
+[v4]
 Ești sprijin tare, în încercare,
 Ești ușurare în ceasul greu.
 În strâmtorare, Turn de scăpare,

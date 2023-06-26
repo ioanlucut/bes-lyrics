@@ -2,27 +2,27 @@
 Din sfânt izvor
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Din sfânt izvor pe Golgota,
 Mult sânge s-a vărsat,
 Izvorul-acesta minunat
 Ne spală de păcat.
 
-[chorus]
+[c]
 Și pentru-al meu păcat
 A curs izvorul minunat.
 Isuse-n sângele-Ți vărsat,
 Iertarea-n veci mi-ai dat!
 
-[2]
+[v2]
 Acest izvor a fost aflat
 La cruce de tâlhar,
 Crezând în jertfa Lui Hristos
 A fost salvat prin har.
 
-[3]
+[v3]
 Puterea-acestui sfânt izvor
 Aceeași e mereu.
 Ea mă păstrează-n legământ

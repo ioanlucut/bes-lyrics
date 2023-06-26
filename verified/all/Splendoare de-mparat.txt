@@ -2,9 +2,9 @@
 Splendoare de-mpărat
 
 [sequence]
-1,c,2,c,b,c,c
+v1,c,v2,c,b,c,c
 
-[1]
+[v1]
 Splendoare de-mpărat
 În slavă îmbrăcat,
 /: Pământul va cânta. :/
@@ -12,12 +12,12 @@ Lumină-i haina Sa
 Și noaptea nu va sta
 /: Fugind din fața Sa. :/
 
-[chorus]
+[c]
 Ce mare ești Tu, vom cânta,
 Ce mare ești Tu, toți vor vedea,
 Ce mare ești, Dumnezeu!
 
-[2]
+[v2]
 Chiar timpul l-a făcut,
 În mâna Lui se-ascund
 /: Sfârșit și început. :/
@@ -25,7 +25,7 @@ Tri-unic Dumnezeu,
 Tată, Duh și Fiu,
 /: El este Leu și Miel. :/
 
-[bridge]
+[b]
 /: Numele Lui Sfânt,
 Îl înălțăm cântând
 Ce mare e al meu Dumnezeu! :/

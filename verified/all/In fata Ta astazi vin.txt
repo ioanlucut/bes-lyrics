@@ -2,9 +2,9 @@
 În fața Ta astăzi vin
 
 [sequence]
-1,p,c,2,p,c
+v1,p,c,v2,p,c
 
-[1]
+[v1]
 În fața Ta astăzi vin
 Cu mulțumire, Doamne, mă-nchin.
 Mulțumesc, mulțumesc.
@@ -12,16 +12,16 @@ Tu m-ai binecuvântat,
 De-aceea-Ți zic pentru tot ce mi-ai dat:
 Mulțumesc, mulțumesc.
 
-[prechorus]
+[p]
 Toată inima, în cântecul meu,
 Ridic mâinile, în Numele Tău.
 
-[chorus]
+[c]
 /: Mulțumesc, Ție, Doamne-Ți mulțumesc! :/
 /: Mulțumesc, Ție, Doamne-Ți mulțumesc! :/
 Mulțumesc!
 
-[2]
+[v2]
 De mână Tu m-ai luat,
 M-ai scos din noapte și m-ai luminat,
 Mulțumesc, mulțumesc.

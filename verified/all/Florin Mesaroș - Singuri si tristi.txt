@@ -1,10 +1,10 @@
 [title]
-Singuri și triști {Author: {Florin Mesaroș}}
+Singuri și triști {author: {Florin Mesaroș}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Singuri și triști, de teamă cuprinși,
 Cu inimi de gheață, fără speranță,
 Treceam prin viață.
@@ -12,15 +12,15 @@ Dar ai venit, Prunc mult dorit,
 Să aduci lumină, să iei a mea vină,
 Să speli a mea tină.
 
-[chorus]
+[c]
 Mântuitor ce dai viață tuturor,
 Te-ai născut în Betleem,
 Ca să iei al meu blestem.
 Tu veșnic Fiu, al eternului Domn viu,
-Te-ai făcut precum un miel,
+Te-ai făcut precum un Miel,
 Să scrii calea către Cer.
 
-[2]
+[v2]
 La noi ai venit, dar nu Te-am primit.
 Am fugit de lumină, n-am mai vrut zi senină,
 Am vrut ploi ca să vină.

@@ -2,9 +2,9 @@
 De când Domnul m-a primit
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 De când Domnul m-a primit
 Laudă Domnului,
 Inima mi s-a albit
@@ -15,7 +15,7 @@ De povara de păcat,
 Laudă Lui, laudă Lui,
 Laudă Domnului.
 
-[2]
+[v2]
 Cu sângele Său curat
 Laudă Domnului,
 A spălat al meu păcat,
@@ -26,7 +26,7 @@ M-a spălat Isus al meu,
 Laudă Lui, laudă Lui,
 Laudă Domnului.
 
-[3]
+[v3]
 Auzi, tu, suflete dragă?
 Laudă Domnului,
 Și pe tine El te cheamă,
@@ -37,7 +37,7 @@ Mâine poate vei muri
 Laudă Lui, laudă Lui,
 Laudă Domnului.
 
-[4]
+[v4]
 Suflete, să te gândești,
 Laudă Domnului,
 Mâine poate nu mai ești
@@ -48,7 +48,7 @@ Al nostru este raiul,
 Laudă Lui, laudă Lui,
 Laudă Domnului.
 
-[5]
+[v5]
 Raiul nu este făcut,
 Laudă Domnului,
 Pentru cel ce e pierdut,

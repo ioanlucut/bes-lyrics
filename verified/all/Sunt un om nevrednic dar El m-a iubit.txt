@@ -2,27 +2,27 @@
 Sunt un om nevrednic, dar El m-a iubit
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Sunt un om nevrednic, dar El m-a iubit,
 S-a plecat spre mine și m-a mântuit.
 El făcu din mine un copil iubit,
 Fericire de la El eu am primit.
 
-[chorus]
+[c]
 /: Cu Isus de-a pururi e plăcerea mea,
 Lui Isus de-a pururi Îi dau inima.
 El făcu din mine un copil iubit,
 Fericire de la El eu am primit. :/
 
-[2]
+[v2]
 Da, El mă iubește c-un fierbinte zel.
 O, cât sunt de sigur, căci mi-o spune El.
 Pe-un sărman ca mine de pace lipsit,
 M-a ales ca pururi să fiu mântuit.
 
-[3]
+[v3]
 Pe acel ce-Ți face dese întristări,
 L-ai scăpat de soarta veșnicei pierzări.
 Deși e-o minune, deși sunt uimit,

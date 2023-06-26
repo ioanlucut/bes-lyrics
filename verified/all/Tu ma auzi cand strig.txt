@@ -2,23 +2,23 @@
 Tu mă auzi când strig
 
 [sequence]
-1,c,2,c,3,c,b,c
+v1,c,v2,c,v3,c,b,c
 
-[1]
+[v1]
 Tu mă auzi când strig,
 Îți cânt din zori de zi.
 Chiar dacă noaptea-i grea,
 Eu văd lumina Ta.
 Cum să mă tem?
 
-[2]
+[v2]
 Dușmanul l-ai zdrobit,
 E sub picioare-nvins.
 Mi-ești sabie și scut,
 Chiar în necaz de lupt.
 Cum să mă tem?
 
-[chorus]
+[c]
 Știu cine mă conduce
 Și e de partea mea.
 Armate-ntregi de îngeri
@@ -29,14 +29,14 @@ Domnește-n veci pe tron,
 El e mereu cu mine,
 Domnul Oștirilor.
 
-[3]
+[v3]
 Tu ești tăria mea,
 Doar Tu mă poți salva,
 Ești izbăvirea mea,
 Victoria e a Ta!
 Cum să mă tem, cum să mă tem?
 
-[bridge]
+[b]
 /: Orice împotrivă-mi va sta,
 Nu mă va lua din mâna Ta.
 Ești credincios

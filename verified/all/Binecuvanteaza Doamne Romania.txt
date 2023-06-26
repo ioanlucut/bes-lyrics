@@ -2,21 +2,21 @@
 Binecuvântează, Doamne, România!
 
 [sequence]
-c,1,c,2,c
+c,v1,c,v2,c
 
-[chorus]
+[c]
 Binecuvântează, Doamne, România!
 Binecuvântează țara mea!
 Vino cu putere, vino cu trezire,
 Te rugăm Isus, ai milă de ea.
 
-[1]
+[v1]
 Noi Te chemăm, arată-Ți puterea!
 Dă-ne credință din nou, Te rugăm,
 Ajută-ne să Te cunoaștem,
 Să Te-ascultăm, Doamne, să Te iubim.
 
-[2]
+[v2]
 Suntem flămânzi, Doamne, de Tine!
 Pâinea vieții doar Tu ne-o poți da.
 Suntem setoși de neprihănire,

@@ -2,27 +2,27 @@
 Sfințenia-i podoaba casei Tale
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Sfințenia-i podoaba casei Tale
 Cât vor fi vremurile pe pământ.
 Ne-ai spus să fim ca Tine, sfinți, o, Doamne,
 Așa doar vom ajunge-n cerul sfânt.
 
-[chorus]
+[c]
 Sfânt e Domnul, sfânt e Dumnezeu,
 Tot pământul e plin de harul Său.
 /: Serafimii din cer spun tuturor:
 Sfânt, sfânt, sfânt e Domnul oștirilor! :/
 
-[2]
+[v2]
 Sfințenia e să fii pus deoparte
 De lume și de tot ce e firesc,
 Iar chipul lui Cristos să-ți fie-n toate
 Desăvârșire prin harul ceresc.
 
-[3]
+[v3]
 Smerenia, sfințenia-s virtute,
 În lumea-n care-i Rege, eu un vânt,
 Dar pașii de credință-i vor aude

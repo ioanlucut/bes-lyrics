@@ -2,9 +2,9 @@
 Mă-ncred în Tine
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Isus, Domnul meu, inima mi-ai spălat în sânge sfânt,
 Pace am acum, Te iubesc doar pe Tin’.
 Dau tot ce am să spun acum la lume
@@ -12,7 +12,7 @@ Căci doar Tu m-ai salvat, Tu m-ai salvat!
 N-ascund nimic, comoara mi-e în Tine
 Și declar, și declar:
 
-[chorus]
+[c]
 Isus, eu mă-ncred în Tin’ și am să merg
 Pân’ la margini de lumi,
 Pân’ la margini de lumi cu Tin’!

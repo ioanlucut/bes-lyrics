@@ -1,10 +1,10 @@
 [title]
-Amăgire {Author: {Chris}}
+Amăgire {author: {Chris}}
 
 [sequence]
-1,c,2,c,c
+v1,c,v2,c,c
 
-[1]
+[v1]
 Câtă vreme a trecut, câtă vreme a rămas
 Între noapte și zi, între drum și popas.
 Ne amintim zi de zi că am fost, că vom fi
@@ -12,13 +12,13 @@ Ne amintim zi de zi că am fost, că vom fi
 Vrem s-avem cât mai mult ca și cum n-am mai ști
 Ce săraci lumea vom părăsi.
 
-[chorus]
+[c]
 /: Spune, de ce tot alergi, spune, ce vrei să culegi,
 Pierzi rătăcind, ani întregi, în neștire!
 Mâine la capăt de drum, tu vei afla că oricum
 Fără Isus toate sunt amăgire. :/
 
-[2]
+[v2]
 Ce iluzii s-au dus, ce iluzii mai sunt,
 Clipe care ne trec ca o umbră pe gând.
 Alergăm după nori, alergăm după vânt

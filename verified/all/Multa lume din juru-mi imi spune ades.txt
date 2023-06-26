@@ -2,15 +2,15 @@
 Multă lume din juru-mi îmi spune ades’
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Multă lume din juru-mi îmi spune ades’
 Că n-am bogăție și nici trai regesc,
 Ei nu pot să vadă bucurii ce-am primit
 Prin tot ce Tu, Doamne, mi-ai pregătit.
 
-[chorus]
+[c]
 /: Mi-ai dat loc de odihnă
 Unde capul să-mi plec,
 Am pâine pe masă ca să mă hrănesc,
@@ -18,7 +18,7 @@ Mi-ai dat mamă și tată,
 Ce cu drag m-au primit,
 Îți mulțumesc pentru ce mi-ai dăruit. :/
 
-[2]
+[v2]
 Dar acum știu prea bine că nu-s om bogat,
 Că n-am avuție, dar, Doamne, Te am!
 Asta-i tot ce contează și din inimă-Ți spun:

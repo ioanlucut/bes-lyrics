@@ -2,21 +2,21 @@
 Când trompeta Domnului
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Când trompeta Domnului va anunța venirea Sa,
 Când frumoasa dimineață va veni
 Și când cei răscumpărați l-acel liman s-or aduna,
 Aleluia, căci și noi acol’ vom fi!
 
-[chorus]
+[c]
 /: Când ne va citi nume,
 Când ne va citi nume,
 Când ne va citi nume,
 Aleluia, căci și noi acol’ vom fi! :/
 
-[2]
+[v2]
 În ziua când cei răscumpărați în El vor învia,
 Cu Mântuitorul lor s-or bucura.
 Când aleșii Lui s-or strânge în cereasca patrie,

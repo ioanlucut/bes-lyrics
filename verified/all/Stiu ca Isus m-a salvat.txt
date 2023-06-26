@@ -2,9 +2,9 @@
 Știu că Isus m-a salvat
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Știu că Isus m-a salvat,
 Păcatul mi l-a spălat.
 El e viu, El e viu,
@@ -12,7 +12,7 @@ De moarte El m-a scăpat,
 Pe stâncă m-a ridicat
 El e viu, El e viu.
 
-[chorus]
+[c]
 Eu Îl slăvesc pe El,
 Viața Îi dăruiesc.
 Domnul este viu!

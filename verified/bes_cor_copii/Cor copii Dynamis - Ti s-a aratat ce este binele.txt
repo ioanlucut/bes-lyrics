@@ -1,20 +1,20 @@
 [title]
-Ți s-a arătat ce este binele {Author: {Cor copii Dynamis}}
+Ți s-a arătat ce este binele {author: {Cor copii Dynamis}}
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 /: Ți s-a arătat ce este binele :/
 /: Și ce alta cere Domnul de la tine? :/
 /: Decât să umbli pe căile drepte. :/
 
-[2]
+[v2]
 /:Ți s-a arătat ce este binele :/
 /: Și ce alta cere Domnul de la tine? :/
 /: Decât să umbli cu milă prin lume. :/
 
-[3]
+[v3]
 /: Ți s-a arătat ce este binele :/
 /: Și ce alta cere Domnul de la tine? :/
 /: Decât să umbli smerit cu Dumnezeu. :/

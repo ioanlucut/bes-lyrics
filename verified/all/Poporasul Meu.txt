@@ -2,33 +2,33 @@
 Poporașul Meu
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 /: Poporașul Meu,
 Poporașul Meu, trezește-te! :/
 /: Trezește-te, nu dormi!
 Iată, iată, vine Mirele! :/
 
-[2]
+[v2]
 /: Ia-ți haina curată,
 Duhul cel din slavă, Duhul Sfânt, :/
 /: Căci de mult Eu tot aștept
 A Mea nuntă să o încep. :/
 
-[3]
+[v3]
 /: Și-am să stau la masă,
 Cu a Mea Mireasă, sus în cer :/
 /: Și-am să-i cânt din harfe vii
 Cele mai frumoase melodii. :/
 
-[4]
+[v4]
 /: Oastea cea din cer
 Va-ntreba pe Miel: „De unde vin?” :/
 /: Mielul le va răspunde:
 „Vin de pe pământ, din necaz.” :/
 
-[5]
+[v5]
 /: Vin de pe pământ,
 Unde-au suferit pentru-acest loc. :/
 /: Dar acum s-a terminat

@@ -2,9 +2,9 @@
 Inima mea vrea să-Ți cânte
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Inima mea vrea să-Ți cânte,
 Vrea să Te înalțe,
 În fiecare zi.
@@ -12,7 +12,7 @@ Tu ne-ai adus bucurie
 Și-atâta bunătate,
 Cum n-am putut gândi.
 
-[chorus]
+[c]
 /: Vreau să-Ți mulțumesc
 Pentru tot ce ai făcut
 Și pentru tot ce-nsemni în viața mea.
@@ -20,14 +20,14 @@ Vreau să-Ți mulțumesc
 Pentru tot ce ai schimbat
 Și pentru că mi-ai umplut inima! :/
 
-[2]
+[v2]
 Pentru cântec, speranță
 Și rază de soare,
 Lumină și pace
 Pe-a mea cărare,
 Pentru tot ce Tu îmi dai, mulțumesc!
 
-[3]
+[v3]
 Pentru zâmbetul Tău înscris printre stele,
 Mângâierea Ta în clipele grele,
 Pentru dragostea Ta revărsată în mine

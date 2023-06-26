@@ -2,34 +2,34 @@
 Duh de rugăciune, Doamne, în mine pune
 
 [sequence]
-1,2,3,4,5,6
+v1,v2,v3,v4,v5,v6
 
-[1]
+[v1]
 Duh de rugăciune, Doamne, în mine pune,
 /: Ca să pot să fiu pentru Tine viu,
 Ca să pot cânta pentru slava Ta. :/
 
-[2]
+[v2]
 Duh de rugăciune, Doamne, în mine pune,
 /: Ca să zbor mai lin, într-un cer senin,
 Ca să fiu ne-nfrânt de-al ispitei gând. :/
 
-[3]
+[v3]
 Duh de rugăciune, Doamne, în mine pune,
 /: Ca să am deschis drum spre Paradis,
 Ca să înțeleg adevăru-ntreg. :/
 
-[4]
+[v4]
 Duh de rugăciune, Doamne, în mine pune,
 /: Ca să fiu altar, cu-al iubirii jar,
 Ca să îmbrac ceresc traiul pământesc. :/
 
-[5]
+[v5]
 Duh de rugăciune, Doamne, în mine pune,
 /: Ca să pot să ascult voia Ta mai mult,
 Ca să port, curat, chipu-Ți minunat. :/
 
-[6]
+[v6]
 Duh de rugăciune, Doamne, în mine pune,
 /: De aceea-Ți cer, ca să-mi dai din cer,
 Fără timp și loc, duh de rugă-n foc. :/

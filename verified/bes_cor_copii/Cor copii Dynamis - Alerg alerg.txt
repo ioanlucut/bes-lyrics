@@ -1,32 +1,32 @@
 [title]
-Alerg, alerg {Author: {Cor copii Dynamis}}
+Alerg, alerg {author: {Cor copii Dynamis}}
 
 [sequence]
-c,1,c,2,c,3,c,b,c
+c,v1,c,v2,c,v3,c,b,c
 
-[chorus]
+[c]
 /: Alerg, alerg spre-o țintă bună,
 Alerg, alerg, premiul să-l iau,
 Alerg, alerg tot înainte,
 Alerg, alerg la Isus! :/
 
-[1]
+[v1]
 Vreau s-aleg ce-i bine,
 Ținta s-o păstrez.
 Privirea mea-i spre Isus,
 El e Domnul meu.
 
-[2]
+[v2]
 Ținta-i înainte,
 Nu privesc înapoi.
 Ruga mi-e fierbinte:
 Doamne, fii cu noi!
 
-[3]
+[v3]
 Nu mă tem de nimeni,
 Merg voios spre cer,
 Domnul e cu mine,
 Cânt, alerg și sper!
 
-[bridge]
+[b]
 Alerg, alerg !

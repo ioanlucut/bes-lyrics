@@ -2,21 +2,21 @@
 Mai sus de oameni și de-mpărați
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Mai sus de oameni și de-mpărați,
 Mai sus de toate pe care le-ai creat,
 Mai sus de lume, mai sus de înțelepți,
 Tu ai fost, rămâi în veci de veci.
 
-[2]
+[v2]
 Mai sus de tronuri și-mpărății,
 Mai sus de-a lumii mari minunății,
 Mai sus de aur și tot ce-i valoros,
 Tu rămâi în veci Cel mai prețios.
 
-[chorus]
+[c]
 Răstignit și pus într-un mormânt
 Ca să mori venit-ai pe Pământ.
 Și zdrobit ca un trandafir

@@ -2,21 +2,21 @@
 Lauda noastră și privirea
 
 [sequence]
-1,p,c,2,p,c,e
+v1,p,c,v2,p,c,e
 
-[1]
+[v1]
 Lauda noastră și privirea
 Spre cer le îndreptăm,
 După Tine inimile tânjesc,
 Te căutăm.
 
-[prechorus]
+[p]
 Căci lângă Tine
 Noi găsim încrederea
 Și orice teamă,
 Tu, Isus, vei alunga, alunga.
 
-[chorus]
+[c]
 Osana, Osana,
 Domn înălțat în slavă,
 Vrednic de-a noastră laudă,
@@ -24,11 +24,11 @@ Osana, Osana,
 Inimile-s deschise
 Cu drag Te primim, Isuse.
 
-[2]
+[v2]
 Ne întoarcem,
 Căutăm fața Ta, prezența Ta
 Vieți înfrânte numai Tu poți schimba,
 Poți ridica.
 
-[ending]
+[e]
 Osana, Osana (3x)

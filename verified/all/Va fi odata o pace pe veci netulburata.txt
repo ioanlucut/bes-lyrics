@@ -2,9 +2,9 @@
 Va fi odată o pace pe veci netulburată
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Va fi odată o pace
 Pe veci netulburată,
 Va crește-odată grâul
@@ -15,7 +15,7 @@ Din lumea asta toată,
 /: Și mieii n-o să aibă
 Atunci nici un dușman. :/
 
-[2]
+[v2]
 Iubirea o să aibă
 O patrie slăvită,
 În care Adevărul,
@@ -26,7 +26,7 @@ Va fi desăvârșită,
 Și Domnul singur soare
 De-a pururi adorat. :/
 
-[3]
+[v3]
 Acum mă rog cu frații
 Plângând cu frunți plecate,
 Aici stropesc cu lacrimi
@@ -37,7 +37,7 @@ Pe veci vor fi uitate,
 /: Ne vom scălda-n lumină,
 În veșnicul izvor. :/
 
-[4]
+[v4]
 O, viitor de aur,
 Cuprinde-mă în tine,
 Cu inima și ochii

@@ -2,18 +2,18 @@
 Doamne, dă-ne-nțelepciune
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Doamne, dă-ne-nțelepciune,
 Și putere și iubire,
 Doamne, vrem să ascultăm Cuvântul Tău.
-Azi venim în fața Ta, 
+Azi venim în fața Ta,
 Dă-ne, Doamne, harul Tău,
 Să fim vii pentru Împărăția Ta,
 Trezește-ne din nou!
 
-[chorus]
+[c]
 Doamne, atinge-ne din nou,
 Peste noi Tu mâna Ta s-o pui
 Și lumina Ta să ardă în noi
@@ -23,7 +23,7 @@ Ci să ardă în veșnicii, în noi,
 Cu adierea Duhului Tău Sfânt,
 Doamne-atinge-ne din nou!
 
-[2]
+[v2]
 Doamne, mulți au obosit
 Și în inimi sunt răniți,
 Vindecarea lor e doar în mâna Ta.

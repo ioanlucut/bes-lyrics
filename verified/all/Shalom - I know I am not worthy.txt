@@ -1,10 +1,10 @@
 [title]
-I know I am not worthy {Author: {Shalom}}
+I know I am not worthy {author: {Shalom}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 I know I am not worthy
 To come to You, my King,
 I know I am not worthy
@@ -14,7 +14,7 @@ Forgive me, all my sins,
 I want to thank You, Jesus,
 You are my everything!
 
-[chorus]
+[c]
 /: You are Jesus, the king who died for me,
 You are Jesus, the One who set me free,
 I want to serve You, Jesus,
@@ -22,7 +22,7 @@ I need your help for that,
 Please, help me to be thankful
 For now and evermore! :/
 
-[2]
+[v2]
 I know I am not worthy
 To come to you, my King,
 I know I am not worthy

@@ -2,15 +2,15 @@
 La crucea de la Golgota
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 La crucea de la Golgota,
 Doamne, vin să-ngenunchez cu viața mea.
 Sunt obosit de-al meu păcat,
 Sufletul mi-e-ndurerat, ajută-mă!
 
-[chorus]
+[c]
 Trimite-mi, Doamne, har din cer,
 Dă-mi mângâiere, să nu pier.
 Primește viața mea în dar, la cruce la Calvar!
@@ -18,7 +18,7 @@ Sfințește, Doamne, ființa mea,
 Să pot să stau ’naintea Ta,
 Să-Ți mulțumesc că m-ai răscumpărat!
 
-[2]
+[v2]
 Sunt călător pe-acest pământ,
 Nu fi tristă, inimă, nu dispera,
 Stai lângă cruce, nu uita,

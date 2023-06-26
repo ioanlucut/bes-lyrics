@@ -1,10 +1,10 @@
 [title]
-O, vin’, Emanuel {Author: {Lauren Daigle}}
+O, vin’, Emanuel {author: {Lauren Daigle}}
 
 [sequence]
-1,b,c,2,c,w,c
+v1,b,c,v2,c,b2,c
 
-[1]
+[v1]
 Pământu-așteaptă miracolul,
 Inimi tânjesc de dorul Tău, Isus,
 O, vin, o, vin Emanuel!
@@ -12,16 +12,16 @@ Trimite azi pace pe pământ,
 Copii tăi au un suflet frânt,
 O, vin’, o, vin’, Emanuel!
 
-[bridge]
+[b]
 Poți auzi cum îngeri cântă.
 
-[chorus]
+[c]
 Glooorie, un copil s-a născut,
 Glorie, lumina aducând,
 Glorie, un copil s-a născut
 Pe pământ!
 
-[2]
+[v2]
 Pace-ai lăsat-o atunci când Te-ai născut,
 La plânsul Tău iubirea apărut.
 O, vin, o, vin, Emanuel!
@@ -29,7 +29,7 @@ El este cântul celor suferinzi,
 El e Mesia, Prințul cel promis,
 E aici, El e aici, Emanuel.
 
-[bridge 2]
+[b2]
 Pentru credincioși, cei însetați,
 Ce-n rugă stau, nemângâiați.
 Iată regele, El e Mesia,

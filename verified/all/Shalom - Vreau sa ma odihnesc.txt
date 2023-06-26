@@ -1,22 +1,22 @@
 [title]
-Vreau să mă odihnesc {Author: {Shalom}}
+Vreau să mă odihnesc {author: {Shalom}}
 
 [sequence]
-1,2,c,3,c
+v1,v2,c,v3,c
 
-[1]
+[v1]
 Vreau să mă odihnesc la umbra aripilor Tale...
 Primește-mă ’naintea Ta!
 Te rog, din nou, să-mi umpli inima de pace
 Și dă-mi nădejde prin Cuvântul Tău!
 
-[2]
+[v2]
 Vreau să mă odihnesc la umbra aripilor Tale...
 Primește-mă așa cum sunt!
 Dă-mi din nou speranță, har, iubire și viață,
 Putere din Duhul Sfânt!
 
-[chorus]
+[c]
 Te rog, acum,
 Îndură-te de mine!
 Primește-mă cum sunt:
@@ -26,7 +26,7 @@ Privește-mi inima,
 Suspinul meu adânc
 Și rana mea cea grea!
 
-[3]
+[v3]
 Vreau să mă odihnesc la umbra aripilor Tale...
 Scut să-mi fii, tăria mea!
 Vreau să mă-nconjori cu brațele Tale,

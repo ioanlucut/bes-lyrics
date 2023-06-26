@@ -2,9 +2,9 @@
 La miezul nopții va veni
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 La miezul nopții va veni
 Isus, cu pas domol,
 Și vai de cel ce-l va găsi
@@ -15,7 +15,7 @@ Cum a orbit acum,
 Crezând că ziua de apoi
 A-ntârziat pe drum.
 
-[2]
+[v2]
 Și fiecare-n lucrul lui,
 Să-și pun-al vieții gând,
 Ca să-l arate Domnului
@@ -26,7 +26,7 @@ Căci vă pândesc dureri
 Și unul pe-altul vă-ndemnați
 La sfinte privegheri.
 
-[3]
+[v3]
 Deci, suflete, fii gata, treaz,
 O clipă nu dormi,
 Căci trece Mirele chiar azi

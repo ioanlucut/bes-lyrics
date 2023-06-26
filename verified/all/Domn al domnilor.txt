@@ -2,15 +2,15 @@
 Domn al domnilor
 
 [sequence]
-1,c,e
+v1,c,e
 
-[1]
+[v1]
 /: Domn al domnilor, Rege-al regilor,
 Glorie, Aleluia! :/
 
-[chorus]
+[c]
 /: Isus, Prinț al păcii,
 Glorie, Aleluia! :/
 
-[ending]
+[e]
 Glorie, Aleluia!

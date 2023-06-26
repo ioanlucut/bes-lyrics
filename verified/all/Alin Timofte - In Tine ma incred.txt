@@ -1,10 +1,10 @@
 [title]
-În Tine mă încred {Author: {Alin Timofte}}
+În Tine mă încred {author: {Alin Timofte}}
 
 [sequence]
-1,c,2,t,c
+v1,c,v2,c2,c
 
-[1]
+[v1]
 Dacă într-o zi ploaie nu va fi,
 Dacă-n loc de rod și floare,
 Glas de cântec sau culoare,
@@ -14,19 +14,19 @@ Dacă mulți din jurul meu
 Nu vor fi când îmi va fi greu
 Și mereu vor spune, în zadar.
 
-[chorus]
+[c]
 În Tine mă încred că vei fi lângă mine,
 Chiar dacă zi de zi îmi e greu sau mi-e bine.
 Și frică nu-mi va fi când Te știu lângă mine,
 Dacă într-o zi greu va fi...
 
-[2]
+[v2]
 Dacă într-o zi anii vor fugi,
 Lăsând loc de griji sau boală,
 Urme-adânci sau tâmplă albă
 Și nu știu când ziua s-ar sfârși.
 
-[chorus 2]
+[c2]
 În Tine mă încred, că o mână întinsă
 Mă va feri de rău sau de cursa întinsă,
 Și nimeni nu va stinge o flacără aprinsă

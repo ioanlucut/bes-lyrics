@@ -1,31 +1,31 @@
 [title]
-Indescribable {Author: {Chris Tomlin}}
+Indescribable {author: {Chris Tomlin}}
 
 [sequence]
-1,c,2,t
+v1,c,v2,c2
 
-[1]
+[v1]
 Din al mării adânc până la muntele-nalt,
 Mărirea-Ți vedem în tot ce-ai creat,
 De la-a frunzei culori la al florii miros,
 Tot ce Tu ai creat, spune că ești glorios
 Și Îți cântă:
 
-[chorus]
+[c]
 Ești de nedescris, ești de necuprins,
 Stele pe cer Tu ai pus și le știi numele,
 Cât ești de minunat, puternic ești, de neatins!
 Azi ne plecăm pe genunchi, recunoaștem umili
 Cât ești de minunat.
 
-[2]
+[v2]
 Orice fulger din cer vine prin voia Ta,
 Orice ploaie de sus cade din mâna Ta.
 A luminii puteri, soarele l-ai creat,
 Iar în noaptea târzie răcoare ne-ai dat,
 Ce măreț ești!
 
-[chorus 2]
+[c2]
 /: Ești de nedescris, ești de necuprins,
 Stele pe cer Tu ai pus și le știi numele,
 Cât ești de minunat, puternic ești, de neatins!

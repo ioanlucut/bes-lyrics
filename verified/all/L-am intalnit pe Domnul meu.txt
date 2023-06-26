@@ -2,75 +2,75 @@
 L-am întâlnit pe Domnul meu
 
 [sequence]
-1,2,3,4,5,6,7,8,9,10,11,12
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12
 
-[1]
+[v1]
 L-am întâlnit pe Domnul meu
 În gând, în dimineața Învierii
 Și timpul petrecut cu El
 Nicicând nu îl voi da uitării.
 
-[2]
+[v2]
 Simțeam în jur o blândă adiere,
 Mărețul soare era răsărit,
 Se auzea un tril de păsărele
 Și L-am văzut și-am fost înmărmurit.
 
-[3]
+[v3]
 Venea cu pași domoli spre mine
 Făcându-mi semn să merg și eu
 Și m-am apropiat de Dânsul
 Și am știut că-I Fiu de Dumnezeu.
 
-[4]
+[v4]
 Privirea-I dulce, penetrantă,
 M-a cucerit și m-a asigurat
 Că n-a fost în zadar crucificarea
 Nici sângele divin vărsat.
 
-[5]
+[v5]
 M-a mângâiat duios pe frunte
 Și mi-a zâmbit, apoi mi-a zis:
 „Doar cine crede-n Înviere
 Va fi cu Mine-n Paradis.”
 
-[6]
+[v6]
 Când am văzut în palme semne
 Am tresărit, m-am întristat,
 Și-al meu păcat sporise chinul
 Când cuie-n palme I-au intrat.
 
-[7]
+[v7]
 Mă așteptam să-mi dea reproș,
 Dar nu mi-a dat! Ci mi-a șoptit
 Că planul conceput de Tatăl
 Cerea să fie răstignit.
 
-[8]
+[v8]
 Și-am înțeles atunci mai bine
 De ce un bob de grâu sădit,
 Prin moarte lentă va produce
 Un rod de hrană însutit.
 
-[9]
+[v9]
 Apoi s-a dus. Erau și alții
 Ce așteptau să fie-atinși
 De-a Lui privire dulce, caldă,
 Să poat-apoi fi neînvinși.
 
-[10]
+[v10]
 Da! L-am văzut lângă mormântul
 Unde fusese îngropat
 Și port cu mine mărturia:
 „Hristos din morți a înviat!”
 
-[11]
+[v11]
 Nicicând nu voi uita-ntâlnirea
 Ce am avut-o, doar în gând,
 În dimineața Învierii
 Cu Cel ce mi-e Păstorul blând.
 
-[12]
+[v12]
 Și pot să spun: e viu în mine,
 Mi-e Prieten și mi-e Împărat,
 Doar pulbere-n neant aș fi

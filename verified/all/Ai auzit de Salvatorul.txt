@@ -2,9 +2,9 @@
 Ai auzit de Salvatorul
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Ai auzit de Salvatorul,
 Ai auzit de dragostea Lui?
 Ai auzit tu de Cel din ceruri,
@@ -12,12 +12,12 @@ Ai auzit cum și-a dat Fiul Lui?
 Iubire am găsit și cred în Fiul Său.
 Condu-mă Tu!
 
-[chorus]
+[c]
 /: Isus ești prietenul meu
 Și vei fi mereu,
 Nimeni nu schimbă asta. :/
 
-[2]
+[v2]
 Eu cred în Salvatorul,
 Cred că El a înviat,
 Cred că voi trăi totdeauna

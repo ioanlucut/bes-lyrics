@@ -1,10 +1,10 @@
 [title]
-Cu spini {Author: {Laud}}
+Cu spini {author: {Laud}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Cu spini pe fruntea Sa, țintuit pe-o cruce,
 Plângea pentru lume, plângea pentru tine,
 El s-a jertfit ca tu să înțelegi...
@@ -14,19 +14,19 @@ Cu fața plină de glorie și ochii plini de lacrimi,
 Cu brațele întinse și mâinile străpunse
 Cum poți să spui nu acestui om minunat?
 
-[chorus]
+[c]
 Cum poți să privești în ochii Lui înlăcrimați,
 Știind că el la tine se gândește?
 Poți să spui că nu ești gata să îl lași în viața ta?
 Poți să spui că n-ai nevoie de dragostea Sa?
 
-[2]
+[v2]
 Isus e aici cu brațe larg deschise,
 Cum poți să-l respingi
 Când e chiar lângă tine?
 E decizia ta, El a făcut tot ce a promis,
 Cum poți să spui nu acestui om minunat?
 
-[3]
+[v3]
 Cu spini pe fruntea lui, viața ta în mâna Sa,
 Mai poți tu oare să spui nu acestui om minunat?

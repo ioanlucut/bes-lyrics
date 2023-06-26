@@ -2,9 +2,9 @@
 O, dac-ai știi sub ce blestem am fost și eu cândva
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 O, dac-ai știi sub ce blestem
 Am fost și eu cândva,
 O, de-ai simți ce deznădejdi
@@ -15,7 +15,7 @@ Viața mi-a schimbat
 Făcând din tristul condamnat
 Un păcătos iertat.
 
-[chorus]
+[c]
 /: Sunt păcătosul salvat prin har,
 Eliberat prin jertfa de pe Calvar.
 Și trăiesc în libertate,
@@ -23,7 +23,7 @@ Izbăvit de-al meu trecut,
 Sunt păcătosul salvat din moarte
 Iertat de toate prin al Său har. :/
 
-[2]
+[v2]
 Salvarea mea s-a scris
 Adânc în rana Lui Isus
 Și-n veci va sta ca

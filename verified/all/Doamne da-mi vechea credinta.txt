@@ -2,27 +2,27 @@
 Doamne, dă-mi vechea credință
 
 [sequence]
-c,1,c,2,c,3,c
+c,v1,c,v2,c,v3,c
 
-[chorus]
+[c]
 Doamne, dă-mi vechea credință,
 Doamne, dă-mi vechea credință,
 Doamne, dă-mi vechea credință,
 În ea vreau să cred și eu.
 
-[1]
+[v1]
 A crezut în ea și Moise,
 A crezut în ea și David,
 Au crezut în ea profeții,
 În ea vreau să cred și eu.
 
-[2]
+[v2]
 A crezut în ea și mama,
 A crezut în ea și tata,
 Au crezut în ea toți frații,
 În ea vreau să cred și eu.
 
-[3]
+[v3]
 A crezut în ea și Pavel,
 A crezut în ea și Sila,
 Au crezut în ea toți sfinții,

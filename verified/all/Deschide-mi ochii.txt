@@ -2,9 +2,9 @@
 Deschide-mi ochii
 
 [sequence]
-1,e
+v1,e
 
-[1]
+[v1]
 /: Deschide-mi ochii,
 Vreau să Te văd, Isus!
 Să Te-ating cu mâna,
@@ -14,6 +14,6 @@ Cu dor să Te-asculte.
 Deschide-mi ochii,
 Vreau să Te văd, Isus. :/
 
-[ending]
+[e]
 Deschide-mi ochii,
 Vreau să Te văd, Isus. :/

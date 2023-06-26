@@ -2,45 +2,45 @@
 Pune, Doamne, dragoste-ntre frați
 
 [sequence]
-1,2,3,4,5,6,7
+v1,v2,v3,v4,v5,v6,v7
 
-[1]
+[v1]
 /: Pune, Doamne, dragoste-ntre frați! :/
 /: De la mic până la mare,
 Ca să-aleagă fiecare,
 Pune, Doamne, dragoste-ntre frați! :/
 
-[2]
+[v2]
 /: Pune, Doamne dragoste-ntre frați! :/
 /: Ca prin fapte de credință,
 S-ajungă la biruință,
 Pune, Doamne, dragoste-ntre frați! :/
 
-[3]
+[v3]
 /: Pune, Doamne, dragoste-ntre frați! :/
 /: Fă mereu să se iubească,
 Să nu se mai clevetească,
 Pune, Doamne, dragoste-ntre frați! :/
 
-[4]
+[v4]
 /: Pune, Doamne, dragoste-ntre frați! :/
 /: Frații să-și întindă mâna,
 Să fie cu toții una,
 Pune, Doamne, dragoste-ntre frați! :/
 
-[5]
+[v5]
 /: Pune, Doamne, dragoste-n surori! :/
 /: Fă ca ele-n adunare,
 Să stea numa-n ascultare,
 Pune, Doamne, dragoste-n surori! :/
 
-[6]
+[v6]
 /: Pune, Doamne, dragoste-ntre frați! :/
 /: Până la a Ta venire,
 Să ne ducă-n veșnicie,
 Pune, Doamne, dragoste-ntre frați! :/
 
-[7]
+[v7]
 /: Pune, Doamne, dragoste-ntre frați! :/
 /: Fă ca ei să fie una,
 Până vor primi cununa.

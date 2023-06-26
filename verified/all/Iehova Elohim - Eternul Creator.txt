@@ -2,33 +2,33 @@
 Iehova Elohim - Eternul Creator
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Iehova Elohim - Eternul Creator
 Iehova Adonai - Domnul Puternic
 El e Iehova Șhur - Stânca Veacurilor
 El e Iehova, Domnul ce m-a iubit.
 
-[chorus]
+[c]
 /: Cânt Aleluia, cânt Aleluia,
 Cânt Aleluia, cânt Aleluia!
 El e Iehova, Domnul puternic,
 El e Iehova, Domnul ce m-a iubit. :/
 
-[2]
+[v2]
 E marele „Eu Sunt” - Tatăl lui Avraam
 Iehova Șhalom - Domnul e pacea mea
 Domnul lui Israel, cel fără de sfârșit
 El e Iehova, Domnul ce m-a iubit.
 
-[3]
+[v3]
 Iehova Iire - Poartă de grijă
 Iehova Rafa - Domnul mă vindecă
 Iehova Nissi - Domnul e steagul meu
 Iehova Șhama - Aici e Dumnezeu.
 
-[4]
+[v4]
 Iehova Țidkhenu - Dreptul Judecător
 Iehova Savaoth - Domnul Oștirilor
 Iehova Hoșhenu - Al nostru Creator

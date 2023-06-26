@@ -2,15 +2,15 @@
 Credincios ești să ne conduci
 
 [sequence]
-c,1,c,1
+c,v1,c,v1
 
-[chorus]
+[c]
 /: Credincios ești să ne conduci,
 Numai Tu poți să ne ajuți.
 Tu luminezi calea și viața mea,
 Vrednic să ne conduci. :/
 
-[1]
+[v1]
 Lumina Ta vrem s-o răspândim,
 Numele să-Ți înălțăm,
 Împărăția Ta va veni!

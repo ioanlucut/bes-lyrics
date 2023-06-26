@@ -2,9 +2,9 @@
 Căci este bun
 
 [sequence]
-1
+v1
 
-[1]
+[v1]
 Căci este bun
 Și în veac ține îndurarea Lui,
 Îl voi lăuda toată viața mea!

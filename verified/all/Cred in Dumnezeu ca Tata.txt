@@ -2,9 +2,9 @@
 Cred în Dumnezeu ca Tată
 
 [sequence]
-c,1,c,2,c,e
+c,v1,c,v2,c,e
 
-[1]
+[v1]
 Cred în Dumnezeu ca Tată,
 În Isus Hristos ca Fiu,
 Cred în Duhul Sfânt că este,
@@ -21,7 +21,7 @@ Cred că a-nviat, precum a zis,
 Și viu s-a arătat,
 De aceea, la El am alergat.
 
-[chorus]
+[c]
 /: Am luat hotărârea, înapoi nu voi da!
 Cu privirea doar la cruce,
 Lumea-n spate-o voi lăsa.
@@ -29,7 +29,7 @@ Nu-mi va fi deloc rușine
 Să afirm că sunt creștin.
 Voi sluji mereu prin harul Său divin. :/
 
-[2]
+[v2]
 Cred Cuvântul care spune:
 Trebuie să te naști din nou,
 Viața veche e spălată
@@ -46,5 +46,5 @@ Cred că nu sunt singur în Hristos,
 Pe mulți El ne-a salvat,
 De aceea credință I-am jurat.
 
-[ending]
+[e]
 Voi sluji mereu prin Harul Său divin.

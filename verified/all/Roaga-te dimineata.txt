@@ -2,27 +2,27 @@
 Roagă-te dimineața
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Roagă-te dimineața,
 Roagă-te și la prânz,
 /: Roagă-te pe-nserate,
 Roagă-te orișicând. :/
 
-[2]
+[v2]
 Ascultă dimineața,
 Ascultă și la prânz,
 /: Ascultă pe-nserate,
 Ascultă orișicând. :/
 
-[3]
+[v3]
 Fă bine dimineața,
 Fă bine și la prânz,
 /: Fă bine pe-nserate,
 Fă bine orișicând. :/
 
-[4]
+[v4]
 Dă-I slavă dimineața,
 Dă-I slavă și la prânz,
 /: Dă-I slavă pe-nserate,

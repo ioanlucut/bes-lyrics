@@ -1,10 +1,10 @@
 [title]
-Crucea lui, salvarea mea {Author: {Betania Dublin}}
+Crucea lui, salvarea mea {author: {Betania Dublin}}
 
 [sequence]
-1,c,2,c,t,b,c,e
+v1,c,v2,c,c2,b,c,e
 
-[1]
+[v1]
 În acea zi, când boldul morții
 A fost frânt sub crucea Lui Isus,
 Cutremurat, tot Ceru-ntreg
@@ -15,28 +15,28 @@ Regelui, ce-a luat pedeapsa mea,
 N-a spus nimic, iubit nespus
 Murea Isus.
 
-[chorus]
+[c]
 Crucea lui salvarea mea,
 Azi trăiesc prin jertfa Sa,
 Sângele-i m-a curățit,
 El rămâne apărarea mea.
 
-[2]
+[v2]
 Răsăritul învierii,
 Risipește noaptea de păcat,
 Am fost salvați, descătușați, eliberați.
 
-[chorus 2]
+[c2]
 Aleluia, Aleluia, Isus a înviat!
 Aleluia, Aleluia, El e înălțat.
 Ai biruit, Isus, în tine avem victorie.
 
-[bridge]
+[b]
 Într-o zi El se va-ntoarce,
 Revelând deplin domnia Sa,
 Când numele-i vom auzi
 Ne vom pleca.
 
-[ending]
+[e]
 El rămâne apărarea mea.
 El rămâne apărarea mea

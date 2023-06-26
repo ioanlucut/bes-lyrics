@@ -2,15 +2,15 @@
 Doamne, al Tău nume e sfânt
 
 [sequence]
-1,c
+v1,c
 
-[1]
+[v1]
 Doamne, al Tău nume e sfânt!
 Doamne, al Tău nume e sfânt!
 Sfinte Domn, Tu ești sfânt,
 Doamne, Tu ești sfânt!
 
-[chorus]
+[c]
 Sfinte Domn, Eu Te iubesc!
 Eu Îți slăvesc
 Și laud numele,

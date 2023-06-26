@@ -2,21 +2,21 @@
 De n-ar fi El, aș fi singur
 
 [sequence]
-1,c,2
+v1,c,v2
 
-[1]
+[v1]
 De n-ar fi El, aș fi singur,
 Pierdut aș fi fără El!
 Nici drumul nu mi-ar fi sigur,
 N-aș putea să ajung la țel.
 
-[chorus]
+[c]
 Isus, o, Isus.
 Îl cunoști, tu, acum, pe Păstorul meu bun?
 Isus, scump Isus,
 Cu Tine mă simt fericit!
 
-[2]
+[v2]
 De n-ar fi El, n-ar fi soare,
 Aș fi de lume legat.
 Fără El, nimic sens nu are,

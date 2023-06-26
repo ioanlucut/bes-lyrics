@@ -2,20 +2,20 @@
 Bucurați-vă în Domnul Sfânt
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 /: Bucurați-vă în Domnul Sfânt
 Iarăși zic: bucurați-vă! :/
 
-[chorus]
+[c]
 /: Bucurați-vă, bucurați-vă,
 Iarăși zic: bucurați-vă! :/
 
-[2]
+[v2]
 /: Bucurați-vă în Fiul Sfânt,
 Iarăși zic: bucurați-vă! :/
 
-[3]
+[v3]
 /: Bucurați-vă în Duhul Sfânt
 Iarăși zic: bucurați-vă! :/

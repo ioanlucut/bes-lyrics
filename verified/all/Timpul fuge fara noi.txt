@@ -2,9 +2,9 @@
 Timpul fuge fără noi
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Timpul fuge fără noi,
 Alergăm după nevoi fără rost.
 Nu mai știm cine suntem,
@@ -15,7 +15,7 @@ Fii născuți din Dumnezeul Preaînalt,
 Suntem prea obișnuiți,
 Suntem poate prea robiți de ce-avem.
 
-[chorus]
+[c]
 Vine Isus!
 Cine-i gata de plecare se uită-n sus,
 Vede slava Lui cea mare
@@ -23,7 +23,7 @@ Vede slava Lui cea mare
 Dacă e predată toată inima!
 Vine Isus!
 
-[2]
+[v2]
 Pe Isus noi Îl iubim,
 Însă inima o-mpărțim, ne-nșelăm,
 Spunem răului că-i bun

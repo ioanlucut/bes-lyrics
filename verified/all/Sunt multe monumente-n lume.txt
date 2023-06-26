@@ -2,9 +2,9 @@
 Sunt multe monumente-n lume
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Sunt multe monumente-n lume
 Ce-s ridicate către cer,
 Dar ca Golgota nu-i niciunul
@@ -15,13 +15,13 @@ Din veșnicii în veșnicii.
 E ancora credinței vie,
 Iertarea sfintei mântuiri.
 
-[chorus]
+[c]
 /: Iubire, iertare,
 O viață nouă-i Golgota.
 E prețul pe care
 L-a plătit Isus pentru viața ta. :/
 
-[2]
+[v2]
 Isus e jertfa ce-a fost dată
 Pentru-omenire pe pământ.
 E ce-a avut mai scump un Tată

@@ -2,21 +2,21 @@
 Doamne
 
 [sequence]
-1,2,c
+v1,v2,c
 
-[1]
+[v1]
 Doamne, Tată mă întreb:
 Cum am putut ca să exist,
 Fără să știu că mă iubești
 Și ești Tatăl meu?
 
-[2]
+[v2]
 Dar acum sunt fiul Tău,
 Fac parte din familia Ta
 Și singur eu nu voi mai fi
 Căci, Tată, Tu ești lângă mine!
 
-[chorus]
+[c]
 Te voi lăuda (3x)
 În veci de veci, Isuse!
 Te voi lăuda (3x)

@@ -2,27 +2,27 @@
 Lumina lumii
 
 [sequence]
-1,c,2,c,e
+v1,c,v2,c,e
 
-[1]
+[v1]
 Lumina lumii, prezență divină,
 Ajută-mă să-nțeleg
 Cât de frumos ne-ai creat pentru Tine,
 Speranță ne-ai dăruit.
 
-[chorus]
+[c]
 Toată închinarea, toată adorarea,
 Ție-Ți dăruiesc, o, Domnul meu!
 Numai Tu ești vrednic,
 Numai Tu ești veșnic,
 Doamne, numai Tu ești minunat!
 
-[2]
+[v2]
 Rege etern, ce domnești sus în ceruri
 La dreapta Lui Dumnezeu,
 În umilință venit-ai în lume
 Din dragoste Te-ai jertfit.
 
-[ending]
+[e]
 Cum să-nțeleg cât Te-a costat
 Să ierți deplin al meu păcat?

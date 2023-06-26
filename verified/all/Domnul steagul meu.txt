@@ -2,19 +2,19 @@
 Domnul, steagul meu
 
 [sequence]
-1,p,c
+v1,p,c
 
-[1]
+[v1]
 Știu că Tu mă asculți,
 Când Te chem mă ajuți.
 În necaz mă ocrotești,
 Mă sprijinești. (2x)
 
-[prechorus]
+[p]
 Chiar de voi cădea, mă vei ridica,
 Te voi înălța, toată viața mea.
 
-[chorus]
+[c]
 Ne vom bucura de biruința Ta,
 În numele Tău, spre slava Ta,
 Steagul vom flutura.

@@ -2,33 +2,33 @@
 Era odată-o tainică grădină
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 Era odată-o tainică grădină
 În care Domnul Se ruga plângând
 /: Și fața Lui cea plină de lumină
 Era-ntristată până la mormânt. :/
 
-[2]
+[v2]
 De multe ori, pe fața Lui, căzuse
 Și se ruga cu mult amar, nespus:
 /: „Să treacă, Tată, să nu beau paharul!”
 Paharul suferinței Lui Isus. :/
 
-[3]
+[v3]
 O, Ghetsimani, grădina suferinței,
 În tine plânge Domnul cu amar.
 /: Și-apoi Se-mbracă-n haina umilinței
 Și-Și pregătește drumul spre Calvar. :/
 
-[4]
+[v4]
 O, Ghetsimani, grădină neuitată,
 Tu ai văzut durerea Lui Isus
 /: Și Iuda când L-a sărutat o dată
 Pe Domnul strălucirilor de sus. :/
 
-[5]
+[v5]
 O, Ghetsimani, aș vrea să fiu în tine,
 Să văd și locul unde El a plâns.
 /: Să plâng și eu cu lacrimi și suspine,

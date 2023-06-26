@@ -2,9 +2,9 @@
 Nu lăsa să treacă vremea
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Nu lăsa să treacă vremea,
 Trece însăși viața ta!
 Se apropie și timpul,
@@ -15,13 +15,13 @@ Mai în jos cu-o treaptă cazi,
 Sau cu una te ridici
 Căci nu poți sta tot aici.
 
-[chorus]
+[c]
 Te ridici sau cobori?
 Te ridici sau cobori?
 Te întreb de două ori:
 „Te ridici sau te cobori?”
 
-[2]
+[v2]
 Oare banii-ți sunt căderea,
 De nu poți să te ridici?
 Căci sunt mulți cu mare-avere,
@@ -32,7 +32,7 @@ Să ai sufletul curat,
 Bogății să nu le zici
 Celor ce rămân aici!
 
-[3]
+[v3]
 Nu căuta mărirea lumii,
 Nu căuta să fii ’nălțat,
 Căci Domnul Isus ne spune:

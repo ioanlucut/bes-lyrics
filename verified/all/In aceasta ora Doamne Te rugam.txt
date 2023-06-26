@@ -2,15 +2,15 @@
 În această oră, Doamne, Te rugăm
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 În această oră, Doamne, Te rugăm
 Să iei parte Tu cu noi,
 Să ne-asculți când Îți cântăm și Te lăudăm,
 Întotdeauna fii cu noi!
 
-[chorus]
+[c]
 Să nu ne lași părăsiți nicicând
 Căci noi trăim doar cu Tine-n gând.
 Doar pe Tine Te avem
@@ -21,19 +21,19 @@ Minunat și bun Păstor,
 Doar cu Tine vrem să fim
 În cerul lin.
 
-[2]
+[v2]
 Să ne porți de grijă, să nu ne lași nicicând
 Să mergem înapoi.
 Tot ’nainte să mergem cu Tine, Doamne,
 Deși-ncercările-s șuvoi!
 
-[3]
+[v3]
 Când ispite mari apar în viața mea,
 N-am pe nimeni ajutor,
 Doar în Tine pururea să ne-ncredem noi,
 Veșnice Ocrotitor!
 
-[4]
+[v4]
 Dar acuma, Doamne, noi Îți mulțumim
 Pentru bunătatea Ta,
 Pentru dragostea dintâi și iubirea Ta,

@@ -2,45 +2,45 @@
 Iubirea-adânc-a Tatălui
 
 [sequence]
-1,2,3,4,b,5,6
+v1,v2,v3,v4,b,v5,v6
 
-[1]
+[v1]
 Iubirea-adânc-a Tatălui,
 Nimic nu o măsoară,
 Ce-avea mai scump El dărui,
 Făcând din noi comoară.
 
-[2]
+[v2]
 Durere de neînchipuit,
 Căci Tatăl Și-a-ntors fața
 Pe Cel ales L-a părăsit,
 Iar nouă ne-a dat viața!
 
-[3]
+[v3]
 La Fiul răstignit privesc,
 Păcatu-mi cum Îl frânge,
 În rând cu cei ce Îl hulesc
 Și vocea mea-L străpunge.
 
-[4]
+[v4]
 Pe cruce Eu Te-am țintuit,
 Dar când Ți-ai dat suflarea,
 Al nopții chin s-a risipit
 Și mi-ai adus iertarea!
 
-[bridge]
+[b]
 Osana, Osana!
 Mielului ce-a fost ’junghiat,
 Osana, Osana!
 Celui mort și înviat!
 
-[5]
+[v5]
 Cu ce-aș putea să mă mândresc?
 Căci daruri n-am, nici fapte.
 Cu învierea-I mă fălesc,
 Cu salvatoarea-I moarte.
 
-[6]
+[v6]
 O, nu-s deajuns spre-a-Ți mulțumi,
 Nici cânt, nici osanale.
 Hristos cu viața Sa plăti,

@@ -2,15 +2,15 @@
 Atotputernic Tată
 
 [sequence]
-1,c,2,c,b,t
+v1,c,v2,c,b,c2
 
-[1]
+[v1]
 Atotputernic Tată, a toate Creator,
 Domn peste toate!
 Prin Duhul Sfânt dă viață,
 Pe Fiul ni L-a dat, Isus Salvatorul!
 
-[chorus]
+[c]
 Cred în Dumnezeu ca Tată,
 În Isus Hristos ca Fiu,
 Cred în Duhul ce dă viață,
@@ -19,18 +19,18 @@ Cred că este o înviere,
 Că vom trăi în veci
 Da, eu cred în al Tău Sfânt Nume.
 
-[2]
+[v2]
 Ești milă și dreptate,
 Pe cruce ai murit s-aduci mântuire,
 Ai coborât în moarte,
 În glorie ai înviat, în veci ești înălțat!
 
-[bridge]
+[b]
 /: Da, eu cred în El!
 Da, eu cred, a înviat!
 Da, eu cred, Isus Hristos e Domn! :/
 
-[chorus 2]
+[c2]
 Cred în veșnicia vieții,
 Cred în nașterea din nou,
 Cred în părtășia sfântă,

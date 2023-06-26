@@ -2,9 +2,9 @@
 Privim spre Mielul
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Privim spre Mielul ce păcatele
 Le-a purtat și ne-amintim:
 El a promis că cei ce vin crezând
@@ -15,7 +15,7 @@ Sunt iertați la crucea Lui.
 Pacea Lui ne-a unit pe veci
 În jurul mesei Regelui. :/
 
-[2]
+[v2]
 Că trupul Salvatorului Isus
 A fost frânt, să ne-amintim.
 Prin răni și moarte, viață ne-a adus,
@@ -26,7 +26,7 @@ Una ne-a făcut cu El.
 Harul Lui ne-a unit pe veci
 În jurul mesei Regelui. :/
 
-[3]
+[v3]
 Și sângele ce spală-orice păcat
 S-a vărsat, să ne-amintim.
 Paharul morții l-a băut,
@@ -37,7 +37,7 @@ Ca noi să intrăm în viața Lui.
 Harul Lui ne-a unit pe veci
 În jurul mesei Regelui. :/
 
-[4]
+[v4]
 Cu mulțumire și credință
 Azi noi venim să ne-amintim
 Chemarea de-a păși pe urma Sa,

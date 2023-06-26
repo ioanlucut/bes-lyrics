@@ -4,18 +4,18 @@ describe('contentReprocessor', () => {
   it('should work correctly #1', () => {
     expect(
       rewriteByAddingBasicStructure(`[title]
-Aleluia el domnce bine e
+Aleluia El e Domn
 
 [sequence]
-1,2,3,4,5,6,7,8
+v1,2,3,4,5,6,7,8
 
-[1]
+[v1]
 Aleluia, Aleluia, Aleluia
 /: El e Domn :/
 Aleluia, Aleluia, Aleluia
 Isus Hristos e Domn.
 
-[2]
+[v2]
 Ți-ai arătat puterea mare
 Boldul morții L-ai înfrânt
 Din mormânt ai înviat triumfător
@@ -23,7 +23,7 @@ Lanțurile le-ai zdrobit
 Pe captivi ai eliberat
 Prin a Ta îndurare sunt salvat
 
-[3]
+[v3]
 Aleluia, Aleluia, Aleluia
 /: El e Domn :/
 Aleluia, Aleluia, Aleluia
@@ -31,12 +31,12 @@ Isus Hristos e Domn.
 `),
     ).toMatchInlineSnapshot(`
       "[title]
-      Aleluia el domnce bine e
+      Aleluia El e Domn
 
       [sequence]
-      1,c
+      v1,c
 
-      [1]
+      [v1]
       Ți-ai arătat puterea mare
       Boldul morții L-ai înfrânt
       Din mormânt ai înviat triumfător
@@ -44,7 +44,7 @@ Isus Hristos e Domn.
       Pe captivi ai eliberat
       Prin a Ta îndurare sunt salvat
 
-      [chorus]
+      [c]
       Aleluia, Aleluia, Aleluia
       /: El e Domn :/
       Aleluia, Aleluia, Aleluia
@@ -60,76 +60,76 @@ Tu mi stii viitorul
 [sequence]
 c,1
 
-[chorus]
+[v1]
 /: Când eram doar un plod fără chip,
 Ochii tăi ma vedeau!
 În cartea ta de mult erau scrise
 Zilele ce m-așteptau! :/
 
-[chorus]
+[c]
 /: Tu-mi știi viitorul și ești lângă mine,
 De ce să mă îngrijorez?
 Mi-ai promis de voi sta lângă Tine
 Nicicând n-ai să mă părăsești. :/
 
-[chorus]
+[v2]
 /: De-aș încerca să m-ascund te Tine
 Nu voi reuși, oriunde m-aș duce,
 Chiar la marginea mării
 Mâna Ta mă va călăuzi! :/
 
-[chorus]
+[c]
 /: Tu-mi știi viitorul și ești lângă mine,
 De ce să mă îngrijorez?
 Mi-ai promis de voi sta lângă Tine
 Nicicând n-ai să mă părăsești. :/
 
-[chorus]
+[v3]
 /: Tu mă cunoști întru-totul, Doamne
 Când stau jos sau mă ridic.
 Îmi cunoști toate căile mele,
 Nu pot ascunde nimic :/
 
-[chorus]
+[c]
 /: Tu-mi știi viitorul și ești lângă mine,
 De ce să mă îngrijorez?
 Mi-ai promis de voi sta lângă Tine
 Nicicând n-ai să mă părăsești. :/
 
-[1]
+[v4]
 Nicicând n-ai să mă părăsești!`),
     ).toMatchInlineSnapshot(`
       "[title]
       Tu mi stii viitorul
 
       [sequence]
-      1,c,2,c,3,c,4,c
+      v1,c,v2,c,v3,c,v4,c
 
-      [1]
+      [v1]
       /: Când eram doar un plod fără chip,
       Ochii tăi ma vedeau!
       În cartea ta de mult erau scrise
       Zilele ce m-așteptau! :/
 
-      [chorus]
+      [c]
       /: Tu-mi știi viitorul și ești lângă mine,
       De ce să mă îngrijorez?
       Mi-ai promis de voi sta lângă Tine
       Nicicând n-ai să mă părăsești. :/
 
-      [2]
+      [v2]
       /: De-aș încerca să m-ascund te Tine
       Nu voi reuși, oriunde m-aș duce,
       Chiar la marginea mării
       Mâna Ta mă va călăuzi! :/
 
-      [3]
+      [v3]
       /: Tu mă cunoști întru-totul, Doamne
       Când stau jos sau mă ridic.
       Îmi cunoști toate căile mele,
       Nu pot ascunde nimic :/
 
-      [4]
+      [v4]
       Nicicând n-ai să mă părăsești!"
     `);
   });
@@ -142,18 +142,18 @@ Tu n ai sub soare asemanare tu esti iubirea mea
 [sequence]
 1,2,3,4,5,6,7,8
 
-[1]
+[v1]
 1. Tu n-ai sub soare, Asemănare,
 Ești necuprins, Ești nemărginit;
 Iubirea-Ți sfântă, E o splendoare,
 Pe drept Isuse, Tu ești iubit.
 
-[2]
+[v2]
 Tu ești iubirea mea,
 Tu-mi ești Comoara vieții,
 Soarele meu frumos Din zorii dimineții.
 
-[3]
+[v3]
 2. Îți cântă marea, Îți cântă cerul,
 Și mii de astre-n a lor loc;
 Căci Tu ești Calea
@@ -161,29 +161,29 @@ Căci Tu ești Calea
 Ești cel mai frumos
 Din univers.
 
-[4]
+[v4]
 Tu ești iubirea mea,
 Tu-mi ești Comoara vieții,
 Soarele meu frumos Din zorii dimineții.
 
-[5]
+[v5]
 3. Tu ești iubirea, Neprihănirea,
 Pe-a Tale buze, E-un râu de har;
 Tu locuiești sus În strălucire,
 Tu ești Eel mai scump mărgăritar.
 
-[6]
+[v6]
 Tu ești iubirea mea,
 Tu-mi ești Comoara vieții,
 Soarele meu frumos Din zorii dimineții.
 
-[7]
+[v7]
 4. Ești sprijin tare, În încercare,
 Ești ușurare În ceasul greu;
 În strâmtorare, Turn de scăpare,
 Din veșnicii Ești Dumnezeu.
 
-[8]
+[v8]
 Tu ești iubirea mea,
 Tu-mi ești Comoara vieții,
 Soarele meu frumos Din zorii dimineții.`),
@@ -192,20 +192,20 @@ Soarele meu frumos Din zorii dimineții.`),
       Tu n ai sub soare asemanare tu esti iubirea mea
 
       [sequence]
-      1,c,2,c,3,c,4,c
+      v1,c,v2,c,v3,c,v4,c
 
-      [1]
+      [v1]
       1. Tu n-ai sub soare, Asemănare,
       Ești necuprins, Ești nemărginit;
       Iubirea-Ți sfântă, E o splendoare,
       Pe drept Isuse, Tu ești iubit.
 
-      [chorus]
+      [c]
       Tu ești iubirea mea,
       Tu-mi ești Comoara vieții,
       Soarele meu frumos Din zorii dimineții.
 
-      [2]
+      [v2]
       2. Îți cântă marea, Îți cântă cerul,
       Și mii de astre-n a lor loc;
       Căci Tu ești Calea
@@ -213,13 +213,13 @@ Soarele meu frumos Din zorii dimineții.`),
       Ești cel mai frumos
       Din univers.
 
-      [3]
+      [v3]
       3. Tu ești iubirea, Neprihănirea,
       Pe-a Tale buze, E-un râu de har;
       Tu locuiești sus În strălucire,
       Tu ești Eel mai scump mărgăritar.
 
-      [4]
+      [v4]
       4. Ești sprijin tare, În încercare,
       Ești ușurare În ceasul greu;
       În strâmtorare, Turn de scăpare,
@@ -235,23 +235,23 @@ Aici e duhul domnului
 [sequence]
 1,2,3,4
 
-[1]
+[v1]
 Ce plăcut ce tainic trup slăvit
 Da, noi știm, aici e Duhul Domnului
 Căci Hristos prin
 Duhul ne-a unit Da, noi știm, aici e Duhul Domnului
 
-[2]
+[v2]
 O, Duh Prea-Sfânt
 Tu, Sol Ceresc
 Rămâi aici cu noi toarnă dragoste și har
 
-[3]
+[v3]
 Și-n noi mereu să arzi tot ce-i lumesc
 Să ne-nchinăm smeriți prin necuprinsu-Ți dar
 În duh și-n adevăr
 
-[4]
+[v4]
 Eu te iubesc Doamne te iubesc’
 Naintea Ta Doamne drag, mă plec
 Al meu Rege ești bucuria mea
@@ -262,25 +262,25 @@ Tu ești tot ce am și eu sunt al Tău
       Aici e duhul domnului
 
       [sequence]
-      1,2,3,4
+      v1,v2,v3,v4
 
-      [1]
+      [v1]
       Ce plăcut ce tainic trup slăvit
       Da, noi știm, aici e Duhul Domnului
       Căci Hristos prin
       Duhul ne-a unit Da, noi știm, aici e Duhul Domnului
 
-      [2]
+      [v2]
       O, Duh Prea-Sfânt
       Tu, Sol Ceresc
       Rămâi aici cu noi toarnă dragoste și har
 
-      [3]
+      [v3]
       Și-n noi mereu să arzi tot ce-i lumesc
       Să ne-nchinăm smeriți prin necuprinsu-Ți dar
       În duh și-n adevăr
 
-      [4]
+      [v4]
       Eu te iubesc Doamne te iubesc’
       Naintea Ta Doamne drag, mă plec
       Al meu Rege ești bucuria mea

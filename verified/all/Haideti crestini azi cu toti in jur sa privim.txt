@@ -2,48 +2,48 @@
 Haideți creștini azi cu toți în jur să privim
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
-Haideți creștini azi 
+[v1]
+Haideți creștini azi
 Cu toți în jur să privim,
-Care e timpul și 
+Care e timpul și
 Locul în care trăim.
 
-Orișiunde privim azi 
+Orișiunde privim azi
 Întâlnim semne vii,
-Toate ne spun 
+Toate ne spun
 Că Isus va veni.
 
-[chorus]
-/: Milioane de oameni 
+[c]
+/: Milioane de oameni
 Așteaptă să vină Isus,
-Acel ce prin cruce 
+Acel ce prin cruce
 În lume viața-adus.
 
-Ca și un Rege, 
+Ca și un Rege,
 Cu slavă pe nori va veni,
-Cum ne-a promis, 
+Cum ne-a promis,
 Isus din nou va veni! :/
 
-[2]
+[v2]
 Astăzi, în țări car’ deloc
 Nu vorbeau de Isus,
-Pe străzi, în parcuri, 
+Pe străzi, în parcuri,
 În școli credința-a-ajuns.
 
-Suntem acum 
+Suntem acum
 În preajma anului două mii,
-Toate ne spun 
+Toate ne spun
 Că Isus va veni.
 
-[3]
-Chiar și păcatul 
+[v3]
+Chiar și păcatul
 În lume la culme-a ajuns,
-Cei depravați 
+Cei depravați
 În locuri de frunte-au pătruns.
 
-Ca pe vremea lui Lot, 
+Ca pe vremea lui Lot,
 Pământu-i robit de cel rău,
-E-aproape să vină 
+E-aproape să vină
 Pe nori al nost’ Dumnezeu.

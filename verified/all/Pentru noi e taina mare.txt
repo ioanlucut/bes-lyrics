@@ -2,9 +2,9 @@
 Pentru noi e taină mare
 
 [sequence]
-1,c,2,c,3,c,c
+v1,c,v2,c,v3,c,c
 
-[1]
+[v1]
 Pentru noi e taină mare
 Ce va fi în viitor,
 Poate e o zi cu soare,
@@ -15,13 +15,13 @@ Să o las va trebui,
 Dumnezeu și îndurarea,
 În etern, vor dăinui.
 
-[chorus]
+[c]
 /: Nu pot ști ce fi-va mâine,
 Însă știu că Dumnezeu
 Îngrijește și de mine
 Căci și eu sunt fiul Său. :/
 
-[2]
+[v2]
 Parcă urc pe trepte de aur,
 Către culmi de har ceresc
 Și zăresc măreț tezaur,
@@ -32,7 +32,7 @@ Curcubeu multicolor.
 Când voi fi în nemurire
 Cu al meu Mântuitor?
 
-[3]
+[v3]
 Ce va fi, e taină mare
 S-ar putea s-ajung sărac,
 S-ar putea să n-am mâncare,

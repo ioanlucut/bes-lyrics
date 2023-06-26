@@ -1,10 +1,10 @@
 [title]
-Protector {Author: {Sarah Handaric}}
+Protector {author: {Sarah Handaric}}
 
 [sequence]
-1,c,2,b,c
+v1,c,v2,b,c
 
-[1]
+[v1]
 M-ai adus la lumină,
 Și înțeleg că Tu nicicând nu m-ai lăsat,
 Nu m-ai abandonat.
@@ -12,12 +12,12 @@ M-ai adus la lumină,
 Frica și orice grijă ce m-a stăpânit,
 Tu, Doamne, în veci le-ai risipit.
 
-[chorus]
+[c]
 Isuse, Tu niciodată nu mă părăsești,
 Tu orice promisiune o împlinești,
 Ești de partea mea, Isuse!
 
-[2]
+[v2]
 Eu voi crede în Tine,
 Cred că Tu ai spus „Eu sunt acel ce sunt,
 Domn pe întreg pământ!”
@@ -25,7 +25,7 @@ Eu voi crede în Tine,
 Chiar de-ar fi să trec prin încercarea grea,
 Tu pentru mine vei lupta.
 
-[bridge]
+[b]
 Nici arme, nici teama
 Nu mă vor înfrânge.
 Nici răul, nici noaptea nu mă vor învinge,

@@ -2,9 +2,9 @@
 Doar în Hristos mă-ncred mereu
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Doar în Hristos mă-ncred mereu,
 Lumina și tăria mea,
 O stânca tare-i Dumnezeu
@@ -15,7 +15,7 @@ De-ar fi să trec prin valea grea
 Mă mângâie prezența Sa,
 Doar în Hristos mă-ncred mereu!
 
-[2]
+[v2]
 Doar în Hristos sfânt și divin,
 În chip de om El s-a-mbrăcat,
 Darul divin, neprihănit,
@@ -26,7 +26,7 @@ S-a potolit la Golgota.
 În locul meu muri Isus,
 Iar eu trăiesc prin moartea Sa!
 
-[3]
+[v3]
 Au pus lumina în mormânt,
 În întuneric L-au lăsat,
 Dar nu s-a stins, căci Domnul Sfânt
@@ -37,7 +37,7 @@ Blestemul greu a ridicat.
 Eu sunt al Lui, căci Dumnezeu,
 Cu sânge m-a răscumpărat.
 
-[4]
+[v4]
 În fața morții când voi sta,
 Doar în Hristos mă-ncred mereu
 Căci orice pas din viața mea

@@ -2,9 +2,9 @@
 Lumină în noapte
 
 [sequence]
-c,1,c,2
+c,v1,c,v2
 
-[chorus]
+[c]
 El a-nviat
 Și piatra-i la o parte.
 A-nviat în Ierusalim,
@@ -12,7 +12,7 @@ El a-nviat,
 Lumină în noapte,
 A-nviat acel pe care-L iubim!
 
-[1]
+[v1]
 E viu, trăiește azi în mine,
 Eu știu, în mână Lui ne ține.
 În Numele Lui ne plecăm,
@@ -20,10 +20,10 @@ Eu știu, în mână Lui ne ține.
 În Numele Lui ne ridicăm și cântăm,
 El e vrednic să fie-nălțat.
 
-[2]
+[v2]
 E viu, ca odinioară,
 Eu știu, n-a venit numai să moară.
 În Numele Lui ne smerim,
 În Numele Lui biruim,
-În Numele Lui la Calvar, 
+În Numele Lui la Calvar,
 Mai e har, vindecare și viață în dar!

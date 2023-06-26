@@ -2,39 +2,39 @@
 Te-aștept, Isuse, privind spre ceruri
 
 [sequence]
-1,c,2,t,3,e
+v1,c,v2,c2,v3,e
 
-[1]
+[v1]
 Te-aștept, Isuse, privind spre ceruri
 Să văd dacă nu vii.
 În orice seară, eu Te chem iară,
 Pentru-a mă pregăti.
 
-[chorus]
+[c]
 Tu ești aproape, poate la noapte
 S-ar întâmpla să vii.
 Haina-mi pătată, nu e curată,
 Ce fac eu dacă vii?
 
-[2]
+[v2]
 Te-aștept și ziua și-mi este teamă
 Căci Tu vei apărea.
 O, dă-mi putere, când am durere
 Ca să mă pot lupta.
 
-[chorus 2]
+[c2]
 Sfântul Tău sânge și-acuma curge
 El poate-a mă spăla.
 De orice vină, de orice tină,
 Numai Tu poți ierta.
 
-[3]
+[v3]
 Când, dimineața, dispare ceața,
 Din pat am tresărit.
 Mă scol în grabă, privesc afară
 Să văd dac-ai venit.
 
-[ending]
+[e]
 Ca orișicare, în așteptare,
 De-acum eu stau mereu.
 Viața mea toată îmi e predată,

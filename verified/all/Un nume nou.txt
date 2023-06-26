@@ -2,9 +2,9 @@
 Un nume nou
 
 [sequence]
-1,p,c,2,p,c
+v1,p,c,v2,p,c
 
-[1]
+[v1]
 Rătăcit eram și
 În păcat trăiam,
 Dar Domnul m-a chemat.
@@ -15,19 +15,19 @@ Dar Isus a învins,
 Robia a zdrobit.
 Nu mai sunt același!
 
-[prechorus]
+[p]
 Azi sunt o făptură nouă-n Cristos.
 Cele vechi s-au dus,
-Totu-i nou și 
+Totu-i nou și
 Prin credință trăiesc.
 
-[chorus]
+[c]
 Un nume nou s-a scris în veșnicie
 Și e-al meu, da, e-al meu.
 A scris povestea vieții mele
 Domnul meu, Dumnezeu.
 
-[2]
+[v2]
 Păcatul m-a orbit,
 Dar ochii El mi-a deschis
 Să văd lumina Sa.

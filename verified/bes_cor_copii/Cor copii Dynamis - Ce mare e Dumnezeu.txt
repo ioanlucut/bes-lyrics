@@ -1,22 +1,22 @@
 [title]
-Ce mare e Dumnezeu {Author: {Cor copii Dynamis}}
+Ce mare e Dumnezeu {author: {Cor copii Dynamis}}
 
 [sequence]
-c,1,2,c
+c,v1,v2,c
 
-[chorus]
+[c]
 Ce mare e Dumnezeu,
 Ce mare și bun e El!
 Ce mare e Dumnezeu!
 El mă Ține-n mâna Sa.
 
-[1]
+[v1]
 Mai sus decât soarele,
 Mai adânc decât un submarin.
 Conduce-ntregul univers
 Și pătrunde gândul meu.
 
-[2]
+[v2]
 El mă știe, mă iubește,
 Mai ’nainte să fi fost.
 Ce minunat e planul Său

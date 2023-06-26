@@ -1,10 +1,10 @@
 [title]
-Domnul mi-e Păstorul {Author: {Emma Repede}}
+Domnul mi-e Păstorul {author: {Emma Repede}}
 
 [sequence]
-1,c,1,c,e
+v1,c,v1,c,e
 
-[1]
+[v1]
 Domnul mi-e Păstorul
 Și eu lipsă de nimic nu voi duce,
 El mă paște în pășuni verzi
@@ -14,12 +14,12 @@ El mă paște în pășuni verzi
 Pe cărările Lui drepte,
 Din pricina Numelui Său.
 
-[chorus]
+[c]
 /: Chiar de-ar fi să umblu-n valea umbrei morții,
 Nu mă tem de nici un rău căci Tu ești cu mine.
 Toiagul și nuiaua Ta mă mângâie,
 De aceea îndurarea mă va însoți. :/
 
-[ending]
+[e]
 Domnul mi-e Păstorul
 Și eu lipsă de nimic nu voi duce.

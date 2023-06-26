@@ -1,33 +1,33 @@
 [title]
-Un rege sfânt s-a născut în Betleem {Author: {Cor copii Dynamis}}
+Un rege sfânt s-a născut în Betleem {author: {Cor copii Dynamis}}
 
 [sequence]
-1,c,2,c,t,b,c
+v1,c,v2,c,c2,b,c
 
-[1]
+[v1]
 Un Rege sfânt s-a născut în Betleem, Aleluia!
 E Împărat dar coroana nu-i vedem, Aleluia!
 Atotputernic și totuși mic
 Prin El salvare noi am primit!
 
-[chorus]
+[c]
 Un Rege sfânt într-o iesle s-a născut
 Un Împărat, Isus este minunat,
 Al păcii Domn pe pământ s-a întrupat.
 Emanuel, Dumnezeu este cu noi!
 
-[2]
+[v2]
 Nu în palat ci-ntr-o iesle e culcat, Aleluia!
 La nașterea Sa mii de îngeri au cântat, Aleluia!
 Cerul de slavă și glorie-i plin,
 Magii cu daruri la Prunc ei vin!
 
-[chorus 2]
+[c2]
 /: Haideți azi cu toți cântați,
 Pe Domnul lăudați,
 Pruncului vă închinați
 Cu toți vă bucurați! :/
 
-[bridge]
+[b]
 Cerul de slavă și glorie-i plin,
 Magii cu daruri la Prunc ei vin!

@@ -2,9 +2,9 @@
 La a Lui picioare când El predica
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 La a Lui picioare, când El predica,
 S-așează Maria din Betania,
 Partea bună și-a ales,
@@ -12,7 +12,7 @@ Pe Isus ce-a fost trimis.
 La a Lui picioare-I locul cel mai sfânt,
 Căci Isus acolo-mi spune-al său Cuvânt.
 
-[2]
+[v2]
 La a Lui picioare, lângă Domnul, ei
 S-așează Maria de-I turnă ulei.
 Cu plăcere El primi
@@ -20,7 +20,7 @@ Fapta ce ea săvârși.
 La a Lui picioare vreau să stau și eu,
 Să-I slujesc în toate, cu tot zelul meu.
 
-[3]
+[v3]
 La a Lui picioare, când în zori veni
 În veștminte albe, ea Îl întâlni
 Și vesti la toți îndat’

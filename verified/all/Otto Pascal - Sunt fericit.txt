@@ -1,16 +1,16 @@
 [title]
-Sunt fericit {Author: {Otto Pascal}}
+Sunt fericit {author: {Otto Pascal}}
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Sufletul mi-este frânt, sunt dezamăgit,
 De poveri și păcate istovit.
 Sunt o creangă uscată, ce rod n-a mai adus,
 Sunt doar o umbră fără Isus.
 
-[chorus]
+[c]
 Sunt fericit că El mi-a dat,
 Bucurii de nevisat,
 Inima mi-a-nviorat, numai El.

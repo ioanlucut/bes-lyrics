@@ -1,28 +1,28 @@
 [title]
-Crește-mi încrederea {Author: {Otto Pascal}}
+Crește-mi încrederea {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Crește-mi încrederea, Doamne-n ziua cea grea,
 Când de teama toți vor fi cuprinși.
 Unii vor alerga viața pentru a-și scăpa,
 Dar atunci va fi prea târziu.
 
-[chorus]
+[c]
 Cei ce Te-au cunoscut vor striga fericiți:
 Vino, Doamne, suntem pregătiți!
 Teama nu ne-a cuprins căci în noi ai aprins
 Dorul după locașul promis.
 
-[2]
+[v2]
 Tot ce-ai strâns pe pământ, fapte și orice gând
 Cântărite vor fi într-o zi.
 Strânge-n sufletul tău, zilnic, Cuvântul Său,
 Câștigat atunci tu vei fi.
 
-[3]
+[v3]
 Te-așteptăm, scump Isus, cu privirea în sus,
 Căci pământul e greu de privit.
 Oamenii Te-au uitat și legați de păcat

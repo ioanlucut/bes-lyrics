@@ -2,33 +2,33 @@
 Sunt un bulgăraș prea mic
 
 [sequence]
-1,2,3,4,5
+v1,v2,v3,v4,v5
 
-[1]
+[v1]
 Sunt un bulgăraș prea mic,
 Sunt un strop de rouă-n soare
 Și cu cât mă văd mai mic
 /: Cu-atât Tu :/ Te vezi mai mare.
 
-[2]
+[v2]
 Dacă-n lume m-ai făcut
 O fereastră către Tine,
 Cu cât sunt mai nevăzut,
 /: Cu-atât Tu :/ Te vezi mai bine.
 
-[3]
+[v3]
 Doamne, când suntem noi doi,
 N-are cel viclean ce-mi face.
 Cu el când sunt în război,
 /: Cu-atât Tu :/ mă-mbraci cu pace.
 
-[4]
+[v4]
 Vin din cer, mi-ai dat să sorb
 Și pe ochi m-ai uns cu tină.
 Cu cât eu am fost mai orb,
 /: Cu-atât Tu :/ mi-ai dat lumină.
 
-[5]
+[v5]
 Dar din toate câte-n cer
 Le păstrezi Tu pentru mine.
 Nu mi-e dor de tot ce-mi dai,

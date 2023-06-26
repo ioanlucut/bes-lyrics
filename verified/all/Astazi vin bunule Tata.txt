@@ -2,15 +2,15 @@
 Astăzi vin, bunule Tată
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 /: Astăzi vin, bunule Tată
 Și Te rog neîncetat
 Să mă pocăiesc m-ajută
 O, Isus, cu-adevărat. :/
 
-[chorus]
+[c]
 Fă să se cunoască, Doamne,
 O schimbare-n viața mea.
 Fața mea să radieze de iubirea Ta.
@@ -19,7 +19,7 @@ Să inunde viața mea
 Și-n încercări și-n suferințe
 Să-mi dai pacea Ta.
 
-[2]
+[v2]
 /: Dă-mi putere ca în toate
 Să-mi îndrept privirea-n sus,
 Ațintită pân’ la moarte

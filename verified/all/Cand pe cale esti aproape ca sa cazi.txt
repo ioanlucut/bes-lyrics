@@ -2,15 +2,15 @@
 Când pe cale ești aproape ca să cazi
 
 [sequence]
-1,c,2,3,t
+v1,c,v2,v3,c2
 
-[1]
+[v1]
 Când pe cale ești aproape ca să cazi,
 Amintește-ți că ai în cer un Tată,
 Spune-i Lui tot ce te-apasă-n suflet azi,
 Cu-ndurare te primește și te iartă.
 
-[chorus]
+[c]
 /: Ce minunat să poți să spui
 Că ești copilul Domnului
 Și-n El poți să te-ncrezi mereu,
@@ -18,19 +18,19 @@ El poartă toată grija ta
 Și-ți dă din mângâierea Sa,
 Ce minunat e Dumnezeu! :/
 
-[2]
+[v2]
 Când te-ncearcă îndoieli și-amărăciuni,
 Amintește-ți că ai în cer un Tată,
 Vin’ la El ne-ntârziat cu rugăciuni,
 El ți-aduce pace sfântă minunată.
 
-[3]
+[v3]
 Stai mereu încrezător în Tatăl Sfânt,
 Orice-ar fi să vină-n calea ta în viață,
 El îți dă puteri să lupți pân’ la sfârșit,
 Să sfârșești cu bine lupta ce stă-n față.
 
-[chorus 2] 
+[c2]
 /: Ce minunat să ai în cer
 Un Tată cum e Tatăl meu
 Și-n El poți să te-crezi mereu,

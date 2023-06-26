@@ -2,9 +2,9 @@
 Ești Cel mai frumos
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Privind la bolta-albastră
 Nu pot să nu-Ți slăvesc
 Lucrarea Ta măreață,
@@ -15,7 +15,7 @@ Eu grijile-mi destram
 Și plin de bucurie,
 Cu dragoste exclam:
 
-[chorus]
+[c]
 Ești cel mai frumos
 Și nimeni nu-i ca Tine!
 Îți cântă florile,
@@ -26,7 +26,7 @@ Ești cel mai frumos, măreț și înălțat,
 Prin tot ce ai creat, ești Doamne minunat,
 Ești Cel mai frumos!
 
-[2]
+[v2]
 De-atâta măreție sunt,
 Doamne, copleșit
 Și-Ți cânt mereu doar Ție,
@@ -37,7 +37,7 @@ Când razele de soare zâmbind
 M-alint-n-acea splendoare
 Și fericit exclam:
 
-[3]
+[v3]
 Spre bolta cea senină,
 Spre cerul infinit,
 Un pumn firav de tină

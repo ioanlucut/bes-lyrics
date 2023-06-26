@@ -2,15 +2,15 @@
 Ce minunat e să fii dintr-o familie
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
-/: Ce minunat e 
+[v1]
+/: Ce minunat e
 Să fii dintr-o familie,
 Familia sfântă
 A Domnului Isus! :/
 
-[chorus]
+[c]
 /: Suntem o familie unită,
 Suntem o familie reală.
 Familia care iubește,

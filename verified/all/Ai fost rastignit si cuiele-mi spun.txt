@@ -2,15 +2,15 @@
 Ai fost răstignit și cuiele-mi spun
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Ai fost răstignit și cuiele-mi spun
 Ce mare Ți-a fost iubirea!
 Cununa de spini îmi spune și ea
 Ce mare Ți-a fost iubirea!
 
-[chorus]
+[c]
 /: Când cer și stele vor pieri,
 Semnele vor dăinui
 Și pe veci îmi vor șopti cât m-ai iubit.

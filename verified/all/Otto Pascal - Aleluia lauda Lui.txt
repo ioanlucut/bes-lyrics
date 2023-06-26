@@ -1,41 +1,41 @@
 [title]
-Aleluia, laudă Lui {Author: {Otto Pascal}}
+Aleluia, laudă Lui {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c
+v1,c,v2,c,v3,c,v4,c,v5,c
 
-[1]
+[v1]
 Aleluia, laudă Lui
 Aleluia, cântăm Domnului!
 Spunem lumii-ntregi cât de bun
 E Domnul nostru Dumnezeu.
 
-[chorus]
+[c]
 Îl voi lăuda la bine și la greu,
 Aleluia numai Lui,
 Aleluia, dedic Domnului,
 Aleluia, El m-a salvat,
 De-aceea Îi voi cânta Aleluia.
 
-[2]
+[v2]
 Aleluia zi de zi,
 Aleluia, mereu voi iubi,
 Aleluia, cânta-voi așa
 Până când viața mea va înceta.
 
-[3]
+[v3]
 Aleluia și când plâng,
 Aleluia și când vesel sunt,
 Aleluia e meritul Lui
 În fiecare zi cânt Domnului.
 
-[4]
+[v4]
 Aleluia-n zori de zi,
 Aleluia și la asfințit,
 Aleluia în orice ceas,
 Eu veșnic voi cânta Aleluia.
 
-[5]
+[v5]
 Aleluia, ce cuvânt,
 Aleluia, prețios și sfânt
 Aleluia e-n inima mea,

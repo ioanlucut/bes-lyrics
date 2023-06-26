@@ -2,27 +2,27 @@
 Vreau să spună cel ce-i slab
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Vreau să spună cel ce-i slab:
 „Eu sunt tare în Hristos!”
 Cel sărac: „eu sunt bogat!”
 Iar cel orb: „sunt sănătos!”.
 
-[chorus]
+[c]
 /: Osana, Osana!
 Mielului ce-a fost junghiat!
 Osana, Osana!
 Celui mort și înviat! :/
 
-[2]
+[v2]
 Tot ce-a fost rău și murdar
 Mi-ai iertat prin al Tău har.
 Ca un râu, iubirea Ta,
 Umple azi inima mea.
 
-[3]
+[v3]
 Știu că mă vei ridica
 Chiar de-aș fi-n adânc de mări.
 Bucuros te voi lăuda

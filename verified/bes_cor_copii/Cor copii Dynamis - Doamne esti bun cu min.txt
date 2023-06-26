@@ -1,37 +1,37 @@
 [title]
-Doamne, ești bun cu min’ {Author: {Cor copii Dynamis}}
+Doamne, ești bun cu min’ {author: {Cor copii Dynamis}}
 
 [sequence]
-c,1,t,c,2,t,c
+c,v1,c2,c,v2,c2,c
 
-[chorus]
+[c]
 /: Doamne, ești bun cu min’,
 Tu-mi dai mai mult decât mi-am dorit. :/
 
-[1]
+[v1]
 Mi-ai dat o mamă și un tată iubitor,
 Ei grija mea o poartă, sunt copilul lor.
 Pentru toate vreau să-Ți spun:
 
-[chorus 2]
+[c2]
 Mulțumesc pentru ce mi-ai dat!
 Mulțumesc pentru ce îmi dai!
 Un zâmbet am pe chipul meu
 De-aceea-Ți voi cânta mereu!
 
-[2]
+[v2]
 De la Tine mântuire am primit
 Fiindc-atât de mult Isuse m-ai iubit!
 Pentru toate vreau să-Ți spun:
 
-[chorus 2]
+[c2]
 /: Mulțumesc pentru ce mi-ai dat!
 Mulțumesc pentru ce îmi dai!
 Un zâmbet am pe chipul meu
 De-aceea-Ți voi cânta mereu! :/
 /: Voi cânta mereu!:/
 
-[chorus 2]
+[c2]
 /: Mulțumesc pentru ce mi-ai dat!
 Mulțumesc pentru ce îmi dai!
 Un zâmbet am pe chipul meu

@@ -2,9 +2,9 @@
 Cântă, strigă, bate din palme
 
 [sequence]
-c,1,c,1
+c,v1,c,v1
 
-[chorus]
+[c]
 Cântă, strigă, bate din palme,
 Stăpânului dă-I laudă,
 Pleacă-te ’naintea Domnului,
@@ -12,7 +12,7 @@ Cântă, strigă, bate din palme,
 Stăpânului dă-I laudă,
 Căci El e un mare Dumnezeu. (2x)
 
-[1]
+[v1]
 Astăzi e zi de sărbătoare,
 E ziua când ne bucurăm.
 Mărețul Rege ne-a eliberat,

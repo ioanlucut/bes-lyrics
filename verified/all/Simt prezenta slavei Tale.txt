@@ -2,9 +2,9 @@
 Simt prezența slavei Tale
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Simt prezența slavei Tale
 Când vin ’naintea Ta,
 Cerul se coboară-n mine,
@@ -13,7 +13,7 @@ Parcă simt suflarea Ta.
 Peste mine s-a oprit,
 Locu-acesta Doamne e sfințit.
 
-[chorus]
+[c]
 Ce măreț e-acest loc sfânt, Domnul meu!
 Măreția Ta e-aici, Ava, Tată,
 Vrednic ești, să fii slăvit, veșnic preamărit,

@@ -2,27 +2,27 @@
 Toate darurile de-aș avea
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Toate darurile de-aș avea,
 Să vorbesc doar în limbi și să cânt
 Și averea să o împart de-aș avea
 Fără dragoste nimic nu sunt.
 
-[chorus]
+[c]
 /: Urmăriți să aveți dragostea,
 Toate pier, în veci rămâne ea,
 Urmăriți să aveți dragostea,
 Fără ea nu primiți cununa. :/
 
-[2]
+[v2]
 Răbdătoare dragostea este,
 Bunătate revarsă din plin,
 Crede și acoperă toate,
 Ea în viață ne aduce doar alin.
 
-[3]
+[v3]
 Mai rămân azi doar acestea trei,
 Credința, nădejdea, dragostea,
 Dar mai mare din toate acestea

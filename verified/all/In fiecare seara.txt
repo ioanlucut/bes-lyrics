@@ -2,29 +2,29 @@
 În fiecare seară
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 În fiecare seară,
 Când trupul meu e frânt,
-Mă uit spre cer și cânt, 
+Mă uit spre cer și cânt,
 În fiecare seară.
 La sclipirea stelelor mă uit
-Și cânt cu ele în cor 
+Și cânt cu ele în cor
 În fiecare seară.
 
-[chorus]
+[c]
 /: Închide-te-n cămara ta
 Și spune-I Domnului ce ai,
 Ce nu ai vrea să știe nimeni,
 Să-I spui tu numai Lui
 În fiecare seară. :/
 
-[2]
+[v2]
 Prin munți și prin câmpii,
 Pe dealuri și păduri
-Sunt numai bucurii 
+Sunt numai bucurii
 În fiecare seară.
 Dacă vrei să dormi mai liniștit
-Să-I spui ce ai de gând, 
+Să-I spui ce ai de gând,
 În fiecare seară.

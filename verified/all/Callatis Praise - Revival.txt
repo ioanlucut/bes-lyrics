@@ -1,10 +1,10 @@
 [title]
-Revival {Author: {Callatis Praise}}
+Revival {author: {Callatis Praise}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Lord, I am waiting for Your Spirit in my life,
 Come abunde it with your presence everytime.
 Lord, I’m coming in Your Name, Lord, let revival’s flame.
@@ -12,12 +12,12 @@ Change all that we are and release your power,
 Fill our lives and hearts
 Here, we’re waiting, revive our lives.
 
-[chorus]
+[c]
 Revival, send revival,
 Bring revival to each one of us,
 Revive our lives.
 
-[2]
+[v2]
 Lord, I will leave my heart and spirit
 In Your hands,
 All my life time close to You

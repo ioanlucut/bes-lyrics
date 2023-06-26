@@ -1,10 +1,10 @@
 [title]
-Îți doresc {Author: {Amalia Decean, Monica Turtoi}}
+Îți doresc {author: {Amalia Decean, Monica Turtoi}}
 
 [sequence]
-c,1,p,c,2,p,c,c
+c,v1,p,c,v2,p,c,c
 
-[1]
+[v1]
 Îți doresc sănătate,
 Gânduri bune s-ai mereu,
 În toate zilele
@@ -15,13 +15,13 @@ Să-ți umple fiecare ceas
 Și cu nădejde și încredere
 Să-ți fie orice pas.
 
-[prechorus]
+[p]
 Dar mai mai mult ca
 Orice gând din ce ți-am spus,
 Îți doresc să fii
 Asemeni Lui Isus!
 
-[chorus]
+[c]
 /: Să-mparți bucuria
 Cu orice om ce-l întâlnești,
 Să porți haina dragostei cerești,
@@ -30,7 +30,7 @@ Să strălucească-n urma ta,
 În fiecare clipa
 Ce Domnul îți va da. :/
 
-[2]
+[v2]
 Îți doresc să ai parte
 De orice lucru bun sub cer
 Și știu că Domnul poate

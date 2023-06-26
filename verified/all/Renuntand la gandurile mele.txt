@@ -2,9 +2,9 @@
 Renunțând la gândurile mele
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Renunțând la gândurile mele,
 Concentrând atenția asupra Ta,
 Meditând în sfânta Ta prezență,
@@ -15,7 +15,7 @@ Nelăsând ca frica să mai stea.
 Stând curat în sfânta Ta prezență
 Mă închin și Te voi lăuda.
 
-[chorus]
+[c]
 /: Privesc la Tin’ Cel ce-mi dai viață,
 Tu începi și duci la bun sfârșit,
 Tu-mi inspiri ființa și lucrarea,

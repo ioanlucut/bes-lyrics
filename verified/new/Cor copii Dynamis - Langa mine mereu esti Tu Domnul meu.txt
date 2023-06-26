@@ -1,16 +1,16 @@
 [title]
-Lângă mine mereu ești Tu Domnul meu {Author: {Cor copii Dynamis}}
+Lângă mine mereu ești Tu Domnul meu {author: {Cor copii Dynamis}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Lângă mine mereu ești, Tu, Domnul meu,
 Știu sigur că singur Tu nu mă lași.
 Lângă mine mereu ești Domnul meu,
 Al Tău sunt și-Ți cânt, fii lăudat!
 
-[chorus]
+[c]
 Oriunde aș fi, în fiecare zi,
 Lângă mine, Tu Isus, vei fi,
 Mereu mă păzești și mă ocrotești,
@@ -18,7 +18,7 @@ Mereu mă păzești și mă ocrotești,
 Când stau jos și când merg :/
 Lângă mine, Doamne, ești!
 
-[2]
+[v2]
 Chiar și-atunci când mi-e greu și nu-nțeleg mereu,
 În Tine mă-ncred, în planul Tău.
 Când Te chem Tu auzi, la rugă îmi răspunzi,

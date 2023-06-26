@@ -1,10 +1,10 @@
 [title]
-Voi cânta, Doamne-n veci! {Author: {Tiffany Moldovan}}
+Voi cânta, Doamne-n veci! {author: {Tiffany Moldovan}}
 
 [sequence]
-1,c,2,c,b,c,c
+v1,c,v2,c,b,c,c
 
-[1]
+[v1]
 De bucurie-s plin și-Ți voi cânta,
 Speranța-n inima mea doar Tu mi-ai dat.
 Doamne-n veci doar Ție-ți voi cânta.
@@ -12,14 +12,14 @@ Cărarea vieții Tu mi-o luminezi,
 Și pacea-n suflet mereu mi-o dăruiești,
 De aceea Doamne-n veci îți voi cânta.
 
-[chorus]
+[c]
 Voi cânta Doamne-n veci,
 Voi vesti cât de mult ai lucrat,
 Ajutor Tu mi-ai dat
 Când în rugă smerit Te-am chemat.
 Vrednic ești, în veci voi cânta.
 
-[2]
+[v2]
 Lacrima Tu mi-ai șters și m-ai primit,
 Doamne m-ai întărit, fii-n veci slăvit
 Ruga mi-ai ascultat, de-aceea-Ți cânt.
@@ -27,7 +27,7 @@ Vreau mereu să-mplinesc Cuvântul Tău
 Și-n adevăr să pășesc pe calea Ta.
 Învață-mă să-Ți cânt, o, Domnul meu.
 
-[bridge]
+[b]
 /: Ne vom bizui pe Domnul,
 Vom chema Numele Lui,
 Nu ne temem, nu ni-e frică,

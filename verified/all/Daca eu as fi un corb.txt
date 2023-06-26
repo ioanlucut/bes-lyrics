@@ -2,9 +2,9 @@
 Dacă eu aș fi un corb
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Dacă eu aș fi un corb
 Eu n-aș putea trăi ca orb.
 Cum să nu Îi mulțumesc
@@ -13,13 +13,13 @@ Dacă-aș fi-n pădure-arici
 Eu l-aș slăvi pe Domnul și nici
 Nu mi-ar păsa că râde de mine lumea.
 
-[chorus]
-Toți avem pentru ce 
+[c]
+Toți avem pentru ce
 Să-I dăm mulțumire
 Și stelele și dealurile
 Copacii spre cer să bată din palme!
 
-[2]
+[v2]
 Dacă-aș fi un crocodil,
 I-aș mulțumi Domnului umil
 Că în valuri am mereu
@@ -28,7 +28,7 @@ Dacă-aș fi hipopotam,
 I-aș mulțumi că sunt titan,
 N-aș fi mânios că nu sunt cel mai frumos.
 
-[3]
+[v3]
 Dacă-aș fi-n pustie leu
 M-aș închina Domnului și eu.
 Dacă-aș fi-n bârlog un urs,

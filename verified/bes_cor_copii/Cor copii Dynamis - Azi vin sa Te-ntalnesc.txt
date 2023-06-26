@@ -1,15 +1,15 @@
 [title]
-Azi vin să Te-ntâlnesc {Author: {Cor copii Dynamis}}
+Azi vin să Te-ntâlnesc {author: {Cor copii Dynamis}}
 
 [sequence]
-c,1,c,1
+c,v1,c,v1
 
-[chorus]
+[c]
 Azi vin să Te-ntâlnesc
 Cu Tine să vorbesc.
 Azi vin să Te găsesc, să-Ți spun cât Te iubesc!
 
-[1]
+[v1]
 Și aștept să mă întărești
 Cu-al Tău braț să mă spijinești,
 Să cobori Duhul Tău cel Sfânt.

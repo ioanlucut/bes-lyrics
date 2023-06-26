@@ -2,9 +2,9 @@
 Mai adă Doamne-acele vremuri din trecut
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Mai adă Doamne-acele vremuri din trecut,
 Acele vremi de pocăință
 Când în al dragostei sfânt jar
@@ -14,7 +14,7 @@ Când la sclipitul stelelor
 Ne întâlneam cu-atâta dor,
 O, dulce-i vremea stăruinței.
 
-[2]
+[v2]
 Mai adă, Doamne, și azi oameni ca-n trecut,
 Mai adă harul de-altă dată,
 Mai adă, Doamne, acei frați
@@ -24,7 +24,7 @@ Ce zi și noapte se rugau
 Și chiar la moarte se duceau
 Pentru credința-adevărată.
 
-[3]
+[v3]
 Mai adă, Doamne, același dor de casa Ta,
 Mai adă aceeași sete sfântă
 Când înaintea zorilor
@@ -34,7 +34,7 @@ Te întâlneam, Isuse dragă.
 Ne adunam l-al Tău izvor
 Și ne zideam casa pe stâncă.
 
-[4]
+[v4]
 Mai adă, Doamne, și azi semne și minuni,
 Ce le făceai Tu altă dată,
 Căci de vei zice un cuvânt,

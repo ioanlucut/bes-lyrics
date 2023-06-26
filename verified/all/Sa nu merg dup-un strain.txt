@@ -2,9 +2,9 @@
 Să nu merg dup-un străin
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Să nu merg dup-un străin,
 Doamne, niciodată,
 /: Chiar de-aș fi silit prin chin,
@@ -13,7 +13,7 @@ Să nu merg dup-un străin,
 Ci să calc deplin, deplin, 
 Urma Ta curată. :/
 
-[2]
+[v2]
 Să-nțeleg chemarea Ta,
 Pururea prin lume,
 /: Zilnic să pot asculta
@@ -22,7 +22,7 @@ Să-nțeleg chemarea Ta,
 Ca să pot mereu ’nălța,
 Doamne, sfântu-Ți Nume. :/
 
-[3]
+[v3]
 Să n-aduc, pe-altarul sfânt,
 Foc străin de Tine,
 /: Ci aprins de-al Tău Cuvânt,
@@ -31,7 +31,7 @@ Să n-aduc pe-altarul sfânt,
 Un amestec de pământ,
 Ci, sfințit, pe mine. :/
 
-[4]
+[v4]
 Doamne, să mă-ncred deplin,
 În cereasca-Ți milă,
 /: Mă păzește de străin,

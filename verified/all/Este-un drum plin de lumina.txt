@@ -2,9 +2,9 @@
 Este-un drum plin de lumină
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Este-un drum plin de lumină
 Spre-un oraș îndepărtat,
 Unde-i glorie, mărire,
@@ -15,11 +15,11 @@ Ca să pot intra și eu
 În orașul sfânt din ceruri,
 La tronul Lui Dumnezeu.
 
-[chorus]
+[c]
 /: Eu sunt călător, pe pământ străin,
 Înspre țara sfântă, peregrin. :/
 
-[2]
+[v2]
 Azi, orașul este templu
 Pentru Dumnezeul sfânt,
 Dar curând el se va umple
@@ -30,7 +30,7 @@ Ne ajută să simțim
 Dorul pentru noua casă,
 Unde vrem și noi să fim.
 
-[3]
+[v3]
 Orașu-acesta e gata,
 Pregătită-i casa ta.
 Dumnezeu așteaptă clipa
@@ -41,7 +41,7 @@ Deci, nu dispera pe cale
 Tu, doar laudă-L pe Isus
 Și iubește-L ne-ncetat.
 
-[4]
+[v4]
 Este-un drum plin de lumină
 Spre-un oraș îndepărtat,
 Unde-i glorie, mărire,

@@ -2,9 +2,9 @@
 Ce sunt eu, ce sunt eu?
 
 [sequence]
-1,2,3,4,5,e
+v1,v2,v3,v4,v5,e
 
-[1]
+[v1]
 Ce sunt eu, ce sunt eu?
 Un fir de nisip în vânt.
 Sunt nimic pe pământ,
@@ -15,7 +15,7 @@ Eu sărac, Tu bogăție,
 Ce sunt eu, ce sunt eu?
 Tu ești totul, Domnul meu. :/
 
-[2]
+[v2]
 Ce sunt eu, ce sunt eu?
 O frunză purtată-n vânt,
 Sunt nimic pe pământ.
@@ -26,7 +26,7 @@ Tu, a lumii jertfă dată,
 Ce sunt eu, ce sunt eu?
 Tu ești totul, Domnul meu. :/
 
-[3]
+[v3]
 Ce sunt eu, ce sunt eu?
 O lumină pâlpâind
 Sunt nimic pe pământ,
@@ -37,7 +37,7 @@ Tu, a lumii mântuire,
 Ce sunt eu, ce sunt eu?
 Tu ești totul, Domnul meu. :/
 
-[4]
+[v4]
 Ce sunt eu, ce sunt eu?
 O floare călcată-n câmp,
 Sunt nimic pe pământ,
@@ -48,7 +48,7 @@ Tu o sfântă scăldătoare,
 Ce sunt eu, ce sunt eu?
 Tu ești totul, Domnul meu. :/
 
-[5]
+[v5]
 Așa-am fost, fără har,
 Fără jertfa din Calvar,
 Dar acum eu sunt salvat,
@@ -59,7 +59,7 @@ Că-s făptura mâinii Tale,
 Te slăvesc, Te măresc,
 Scump Isus, și-Ți mulțumesc. :/
 
-[ending]
+[e]
 Tu îmi ești a mea iubire,
 Partea mea de moștenire,
 Te slăvesc, Te măresc!

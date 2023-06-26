@@ -2,39 +2,39 @@
 Într-o noapte și-ntr-o iesle
 
 [sequence]
-1,2,c,3,4,c,b,c
+v1,v2,c,v3,v4,c,b,c
 
-[1]
+[v1]
 Într-o noapte și-ntr-o iesle
 A venit la noi Isus,
 În adâncul cel mai mare,
 Harul cel mai luminos.
 
-[2]
+[v2]
 Celor ce vegheau cu grijă
 Noaptea-n jurul turmei stând,
 Tu le-ai dat cântări de înger
 Și întâiul zâmbet blând.
 
-[chorus]
+[c]
 /: Binecuvântat fii, Doamne,
 Scump Mântuitor, iubit!
 Tu, lumina mântuirii
 Tuturor ne-ai dăruit! :/
 
-[3]
+[v3]
 Celor care cale lungă
 Pentru Tine-au ostenit,
 Taina cea din veac ascunsă
 Fericită le-ai ivit.
 
-[4]
+[v4]
 Celor care vreme multă
 Cu credință-au așteptat,
 Bucuria negrăită
 Să Te vadă Tu le-ai dat.
 
-[bridge]
+[b]
 Fericiți cei ce veghează,
 Fericiți câți ostenesc,
 Fericiți cei ce Te-asteaptă,

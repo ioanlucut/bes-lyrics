@@ -1,10 +1,10 @@
 [title]
-Voi înălța Numele Tău {Author: {Grupul Domini}}
+Voi înălța Numele Tău {author: {Grupul Domini}}
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Numele Tău e ’nălțat,
 Printre neamuri e lăudat,
 Puterea Ta este vestită pe-ntreg pământ.
@@ -12,7 +12,7 @@ Vrednic de cinste ești Tu,
 Se cuvine să ne-nchinăm
 Înaintea Ta, în fața Ta, Doamne!
 
-[chorus]
+[c]
 Voi înălța Numele Tău!
 Voi proclama domnia-Ți pe pământ!
 Voi arăta puterea sângelui Tău sfânt!
@@ -20,7 +20,7 @@ Dorința mea va fi a Ta,
 Voi face, Doamne, numai voia Ta,
 Cât voi trăi pe-acest pământ să Te slujesc!
 
-[2]
+[v2]
 În glorie și-n slavă-ntronat,
 În splendoare ești îmbrăcat,
 Minunile Tale-s cântate din neam în neam.
@@ -28,7 +28,7 @@ Căci nimeni nu este ca Tin’,
 Dumnezeule divin,
 Creația-ntreagă pe Tine Te laudă!
 
-[bridge]
+[b]
 /: Numele Tău e sfânt,
 Numele Tău e drept,
 Numele Tău e mare pe-ntreg pământ! :/

@@ -2,15 +2,15 @@
 Inima mea Te laudă
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Inima mea Te laudă,
 Tu ești Domnul meu,
 Inima mea Te adoră,
 Tu ești Prințul păcii.
 
-[chorus]
+[c]
 Fii înălțat
 Căci Tu ești sfințenia mea,
 Inima mea Te laudă,

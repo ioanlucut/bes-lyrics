@@ -2,15 +2,15 @@
 În fiecare zi din viața mea
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 În fiecare zi din viața mea,
 În fiecare zi din viața mea,
 În fiecare ceas pe care-l trăiesc
 Cu Isus mă-nveselesc.
 
-[chorus]
+[c]
 /: Da, eu mă bucur,
 /: Da, eu mă bucur,
 Da, eu mă bucur,
@@ -20,13 +20,13 @@ Da, eu mă bucur,
 Da, eu mă bucur mereu,
 Că-L am pe Dumnezeu! :/
 
-[2]
+[v2]
 Chiar și greutăți dacă vor veni
 Eu îl am pe Dumnezeu.
 Sprijin și adăpost am găsit în El
 În Fiul Lui Dumnezeu.
 
-[3]
+[v3]
 Bucură-te, tu, azi, în inima ta
 Că îl ai pe Mesia.
 Toate zilele cât voi trăi

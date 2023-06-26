@@ -1,22 +1,22 @@
 [title]
-Am greșit {Author: {Otto Pascal}}
+Am greșit {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Am greșit de atâtea ori,
 Doamne, iartă-mă!
 Te-am făcut ca să plângi deseori
 Doamne, iartă-mă!
 
-[chorus]
+[c]
 Dar acum aș dori ca să vezi
 Că m-am schimbat.
 Și-aș dori să asculți când Îți spun:
 „Te iubesc!”
 
-[2]
+[v2]
 Dacă Te-am supărat uneori,
 Doamne, uită!
 Dacă Ți-am întristat fața Ta,

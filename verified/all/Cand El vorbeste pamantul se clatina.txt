@@ -2,9 +2,9 @@
 Când El vorbește, pământul se clatină
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Când El vorbește, pământul se clatină,
 Marea ascultă când El vorbește!
 Când El vorbește, totul stă nemișcat,
@@ -15,12 +15,12 @@ Bolnavii se ridică când El vorbește!
 Când El vorbește și timpul rămâne-n loc,
 Coboară Duh Sfânt și foc, când El vorbește!
 
-[chorus]
+[c]
 El e Isus,
 /: Cel mai frumos
 Și cel mai minunat! :/
 
-[2]
+[v2]
 La glasul Lui aruncă și grijile,
 Uită problemele când El vorbește.
 La glasul Lui pășește pe mare
@@ -29,6 +29,6 @@ La glasul Lui pășește pe mare
 Noi Îi cântăm, Îl lăudăm,
 Îl preamărim pe-al nostru Împărat!
 
-[bridge]
+[b]
 /: Cel mai frumos
 Și cel mai minunat! :/ (4x)

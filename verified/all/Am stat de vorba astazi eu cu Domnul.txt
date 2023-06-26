@@ -2,9 +2,9 @@
 Am stat de vorbă, astăzi, eu cu Domnul
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Am stat de vorbă, astăzi, eu cu Domnul,
 I-am mulțumit că mi-a mai dat o zi
 S-alung din suflet toată întristarea
@@ -14,7 +14,7 @@ Prin Duhul Sfânt, Domnul m-a ascultat,
 Prin har mi-a dat El binecuvântare,
 M-a ridicat din starea de păcat.
 
-[chorus]
+[c]
 /: Ce minunată dragoste
 Mi-a dăruit Domnul mie!
 Cu mine e la orice pas,
@@ -24,7 +24,7 @@ Mi-a dăruit Domnul mie!
 A mea povară a luat,
 Sufletul meu a-nviorat. : /
 
-[2]
+[v2]
 Am stat de vorbă, astăzi, eu cu Domnul,
 I-am spus necazul sufletului meu,
 El e cu mine-n orice încercare,
@@ -34,7 +34,7 @@ I-am mulțumit că mi-a mai dat o zi,
 O, cât de bun e Domnul meu cu mine,
 Mă întărește-n fiecare zi!
 
-[3]
+[v3]
 Am stat de vorbă, astăzi, eu cu Domnul
 Și stau mereu, în fiecare zi,
 El îmi revarsă binecuvântare

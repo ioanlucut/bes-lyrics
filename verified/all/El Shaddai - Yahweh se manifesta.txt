@@ -1,26 +1,26 @@
 [title]
-Yahweh se manifestă {Author: {El Shaddai}}
+Yahweh se manifestă {author: {El Shaddai}}
 
 [sequence]
-c,1,c,1,c,b,t,c
+c,v1,c,v1,c,b,c2,c
 
-[1]
+[v1]
 Se simte gloria-Ți în acest loc,
 Cum ne umpli de-al Tău foc,
 Puterea Ta se-arată în noi!
 
-[chorus]
+[c]
 /: Yahweh, Rafa,
 Elohim, Shaddai,
 Iireh, Adonai,
 Se manifest-acum! :/
 
-[bridge]
+[b]
 Când Îl cauți, El se va lăsa găsit,
 Când Îl chemi, El se va manifesta,
 Când Îl lauzi, El coboară printre noi.
 
-[chorus 2]
+[c2]
 /: Yahweh, puterea Sa vedem,
 Iireh, ne-a răscumpărat.
 Rafa, prin El sunt vindecat,

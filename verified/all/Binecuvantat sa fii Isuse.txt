@@ -2,9 +2,9 @@
 Binecuvântat să fii Isuse
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Binecuvântat să fii Isuse!
 Nu voi înceta să Te slăvesc!
 Tu ești Mesia, ești Salvator binecuvântat.
@@ -13,7 +13,7 @@ Nu voi înceta să Te slăvesc!
 Tu ești Mesia, ești Salvator binecuvântat.
 Tu ești sfântul lui Israel!
 
-[chorus]
+[c]
 Numele Tău este puternic,
 Numele Tău m-a eliberat,
 Prin El eliberezi popoare,

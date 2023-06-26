@@ -2,9 +2,9 @@
 El a înviat
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 E a treia zi de când muri
 Și se spunea că va învia
 Și din mormânt El va ieși
@@ -15,18 +15,18 @@ Din dragoste pentru noi toți,
 Urcat pe lemn El a murit
 Și-a treia zi a înviat.
 
-[chorus]
+[c]
 El a înviat în Ierusalim,
 Cel ce era Fiul Celui sfânt.
 Dăruind victoria,
 El a înviat în Ierusalim!
 
-[2]
+[v2]
 N-am fost acol’ când a murit,
 Nici n-am văzut cum s-a jertfit,
 Dar știu că-n El eram atunci
 Și eu sunt viu, căci m-a salvat!
 
-[bridge]
+[b]
 /: A-nviat, a-nviat,
 Aleluia, a-nviat. :/

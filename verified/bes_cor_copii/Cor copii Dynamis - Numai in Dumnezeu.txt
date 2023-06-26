@@ -1,28 +1,28 @@
 [title]
-Numai în Dumnezeu {Author: {Cor copii Dynamis}}
+Numai în Dumnezeu {author: {Cor copii Dynamis}}
 
 [sequence]
-c,1,c,2,c,3,c
+c,v1,c,v2,c,v3,c
 
-[chorus]
+[c]
 /: Numai în Dumnezeu
 Mi se-ncrede sufletul mereu,
 Știu că numai de la EL
 Îmi vine ajutorul meu. :/
 
-[1]
+[v1]
 El este Stânca mea
 Și ajutorul meu,
 Nu mă voi clătina
 Atunci când îmi va fi greu.
 
-[2]
+[v2]
 E cetățuia mea,
 El e refugiul meu.
 Oricând mă va scăpa
 Mă va feri de rău.
 
-[3]
+[v3]
 E-un loc de adăpost
 În vreme de necaz,
 E Turnul meu, Hristos,

@@ -2,34 +2,34 @@
 Noapte sfântă de Crăciun
 
 [sequence]
-1,2,3,4,5,6
+v1,v2,v3,v4,v5,v6
 
-[1]
+[v1]
 Noapte sfântă de Crăciun,
 Îngerii cântă „Osana!”
 Noapte sfântă de Crăciun.
 
-[2]
+[v2]
 Jos în ieslea Betleem,
 Dumnezeu la noi venise,
 Jos în ieslea Betleem.
 
-[3]
+[v3]
 Mântuire ne-a adus,
 Glorie în veci Lui Isus,
 Mântuire ne-a adus.
 
-[4]
+[v4]
 Să-I cântăm cu îngerii,
 Pace și bună vestire,
 Să-I cântăm cu îngerii.
 
-[5]
+[v5]
 Să-i aducem toți în dar
 Inima cu bucurie,
 Să-i aducem toți în dar.
 
-[6]
+[v6]
 Aleluia, să-I cântăm,
 Mic și mare, toți să-I cânte
 S-a născut Isus Hristos.

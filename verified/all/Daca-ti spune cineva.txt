@@ -2,9 +2,9 @@
 Dacă-ți spune cineva
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Dacă-ți spune cineva
 Că ești steaua căzătoare din amurg,
 Pe aripi de vânt purtată ca un fulg,
@@ -16,7 +16,7 @@ Infinit și veșnicie,
 Tu ești tot ce-i sus și jos,
 Căci ești din Isus Hristos. :/
 
-[2]
+[v2]
 Dacă-ți spune cineva
 Că ți-e umbletul aiurea pe poteci
 Și că viața ta nu știi să ți-o petreci
@@ -28,7 +28,7 @@ Nu zdrobește, nu frământă,
 Iar când ai privirea sus
 Ești în harul Lui Isus. :/
 
-[3]
+[v3]
 Dacă-ți spune cineva
 C-ai pierdut o lume-ntreagă de mici,
 Că acuma fug de tine mari și mici
@@ -40,7 +40,7 @@ Dar câștigi o veșnicie,
 Dar din toate mai presus,
 Îl ai prieten pe Isus. :/
 
-[4]
+[v4]
 Dacă-ți spune cineva:
 Că într-o carte sfântă numele ți-e scris,
 Că un loc ți-e pregătit în Paradis,

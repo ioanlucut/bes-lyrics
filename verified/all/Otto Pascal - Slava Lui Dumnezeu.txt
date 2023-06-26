@@ -1,22 +1,22 @@
 [title]
-Slavă Lui Dumnezeu {Author: {Otto Pascal}}
+Slavă Lui Dumnezeu {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Slavă Lui Dumnezeu, slavă Harului Său,
 Suntem răscumpărați și iertați pentru veci,
 Căci copii ne numește, aleși în El,
 Suntem sfinți fără vină, doar prin jerfa Lui.
 
-[chorus]
+[c]
 Fie glorificat Dumnezeu,
 Pentru noi El și-a dat Fiul Său!
 Să moară pe cruce în locul meu,
 A Lui fie gloria în veci de veci!
 
-[2]
+[v2]
 Slavă Lui Dumnezeu, slavă Dragostei Lui,
 În ea este salvare și iertare pe veci.
 Suntem sfinți prin credință, născuți din nou,

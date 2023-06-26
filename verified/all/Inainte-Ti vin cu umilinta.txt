@@ -2,9 +2,9 @@
 Înainte-Ți vin cu umilință
 
 [sequence]
-1
+v1
 
-[1]
+[v1]
 Înainte-Ți vin cu umilință,
 La Tine vin cu o inima curată!
 Înainte-Ți vin să Te proslăvesc

@@ -2,9 +2,9 @@
 Lupta e doar a Ta
 
 [sequence]
-1,c,2,c,b,c
+v1,c,v2,c,b,c
 
-[1]
+[v1]
 Când lupta mă înconjoară,
 Tu vezi victoria.
 Când munții înalți se ridică,
@@ -15,7 +15,7 @@ Iubirea Ta mă-nconjoară
 Cum aș putea să mă tem
 Când Tu mă ocrotești?
 
-[chorus]
+[c]
 Și când mă lupt,
 Mă lupt pe genunchi,
 Mâini spre cer voi ’nălța,
@@ -26,7 +26,7 @@ Doamne, lupta e doar a Ta!
 Și-n noapte-am să cânt,
 Doamne, lupta e doar a Ta!
 
-[2]
+[v2]
 Când Tu ești cu mine
 Cine-mi stă-mpotrivă?
 Nimic nu-i prea greu
@@ -37,7 +37,7 @@ Chiar și-n cenușă,
 Când tot ce văd este crucea,
 Tu mormântul gol îl vezi.
 
-[bridge]
+[b]
 Turn de scăpare, Stânca cea tare,
 Nimic nu poate sta-mpotriva Regelui!
 Lumină în noapte, Stăpân peste moarte,

@@ -2,13 +2,13 @@
 Aleluia, Agnus Dei
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 /: Aleluia, Aleluia,
 Domnul nostru domnește în veci. :/
 
-[chorus]
+[c]
 Aleluia,
 Tu ești Sfânt, ești Sfânt,
 Domnul nostru din ceruri,

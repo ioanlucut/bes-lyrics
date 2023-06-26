@@ -2,39 +2,39 @@
 Când te afli-ngrijorat
 
 [sequence]
-1,c,2,c,3,c,4,c,5,c
+v1,c,v2,c,v3,c,v4,c,v5,c
 
-[1]
+[v1]
 Când te afli-ngrijorat
 Strigă către Domnul!
 De povară, de păcat,
 Strigă către Domnul!
 
-[chorus]
+[c]
 /: Strigă către Domnul,
 Orișice te-apasă.
 Strigă către Isus
 Căci El nu te lasă! :/
 
-[2]
+[v2]
 Pentru cauza vieții noi,
 Strigă către Domnul!
 Pentru ziua de apoi,
 Strigă către Domnul!
 
-[3]
+[v3]
 Dacă vrei să fii mai sfânt,
 Strigă către Domnul!
 O lumină pe pământ,
 Strigă către Domnul!
 
-[4]
+[v4]
 Îngrijorat de ce va fi,
 Strigă către Domnul!
 Și de vremuri ce-or veni,
 Strigă către Domnul!
 
-[5]
+[v5]
 Pentru ultima ta zi,
 Strigă către Domnul!
 Izbăvit de chin să fii,

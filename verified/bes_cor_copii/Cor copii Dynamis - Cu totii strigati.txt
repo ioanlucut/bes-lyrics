@@ -1,32 +1,32 @@
 [title]
-Cu toții strigați {Author: {Cor copii Dynamis}}
+Cu toții strigați {author: {Cor copii Dynamis}}
 
 [sequence]
-1,c,t,2,c,b,t
+v1,c,c2,v2,c,b,c2
 
-[1]
+[v1]
 Ce mare și bun este-al nostru-mpărat,
 Aproape de noi ne-ncetat,
 Cuvântul Lui este lumin-adevăr,
 Ne-arată cărarea spre cer.
 
-[chorus]
+[c]
 Îmi poartă de grijă Iehova Ihre
 Și n-am nici o lipsă cu El.
 Pentru cei bolnavi este vindecător,
 E Domnul lui Israel.
 
-[chorus 2]
+[c2]
 Cu toții strigați, pe Rege înălțați,
 Lăudați-L, cântați osanale,
 Să sune cântări pentru Împărat,
 Pentru Domnul lui Israel!
 
-[2]
+[v2]
 În luptă voi fi cu El încrezător,
 Iehova e steagul meu!
 Alături de El voi fi biruitor,
 Măreț este-al meu Dumnezeu.
 
-[bridge]
+[b]
 Aleluia! (4x)

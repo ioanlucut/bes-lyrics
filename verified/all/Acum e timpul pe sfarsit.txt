@@ -2,9 +2,9 @@
 Acum e timpul pe sfârșit
 
 [sequence]
-1,c,2,c,3,c,4,c
+v1,c,v2,c,v3,c,v4,c
 
-[1]
+[v1]
 Acum e timpul pe sfârșit
 Nu sta, suflet nepregătit,
 Că trec așa de multe zilele șirag!
@@ -12,13 +12,13 @@ Dar totuși noi Îți mulțumim,
 Deși suntem printre străini
 Și Te rugăm, Isus iubit, la noi să vii!
 
-[chorus]
+[c]
 Și iubirea Ta nemărginită să ne-o dai,
 Și credința, pacea, care tinde înspre rai!
 Fă să ne iubim în viața noastră pe Pământ,
 Isus iubit, pân’ la mormânt!
 
-[2]
+[v2]
 Acum vrem viața să Ți-o dăm
 Și din iubire să gustăm,
 Căci viața-i a iubitului Mântuitor.
@@ -26,7 +26,7 @@ Căci va veni o clipă când
 Vom sta în fața Lui cântând
 Și vom primi răsplata toți din mâna Lui.
 
-[3]
+[v3]
 Și-n timpu-acesta, ne-ncetat,
 Hai să rodim rod mai bogat,
 Ca și sămânța în pământu-al patrulea.
@@ -34,7 +34,7 @@ Să nu dăm nici un pas ’napoi,
 Să nu fie ură-ntre noi
 Și la necaz să zicem: Doamne, fii cu noi!
 
-[4]
+[v4]
 O, Grădinar ceresc și sfânt,
 Mai lasă pomul pe Pământ
 Căci poate anu-acesta o s-aducă rod.

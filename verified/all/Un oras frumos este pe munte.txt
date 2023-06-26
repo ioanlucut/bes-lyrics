@@ -2,27 +2,27 @@
 Un oraș frumos este pe munte
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Un oraș frumos este pe munte,
 Glorie nespusă în câmpii,
 Eu doresc să văd așa frumusețe
 Când voi trece-n valea plângerii.
 
-[chorus]
+[c]
 Tot orașul de pe munte
 Îi întâmpină pe cei veniți,
 Bucuria va fi mare și în veci
 Vom fi cu toți fericiți.
 
-[2]
+[v2]
 Veniți voi, trudiți în acest loc sfânt,
 Spune Domnul Isus celor smeriți
 Și-acolo veți primi odihnă,
 Iar de Tatăl voi veți fi sfințiți.
 
-[3]
+[v3]
 Suferința, plânsul va dispare
 În orașul cel nou și minunat.
 Vom cânta cântările de slavă

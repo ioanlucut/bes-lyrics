@@ -2,16 +2,16 @@
 Tu ești Creatorul
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Tu ești Creatorul Universului întreg
 Tu ești început și întregire tuturor.
 Stelele și luna glasul Tău îl înțeleg,
 Marea și pământul, tot ce are viață
 Îți dedică existența lor.
 
-[chorus]
+[c]
 /: Pe toate le-ai creat,
 Pe toate mâna Ta le ține,
 Toate-mi spun că Tu ești Dumnezeu.
@@ -19,7 +19,7 @@ Ai trimis suflarea Ta și viață peste mine
 Și mai sus de tot ce ești
 Tu ești Tatăl meu. :/
 
-[2]
+[v2]
 Împărat al slavei, Tu luminii ești Stăpân,
 Îngerii te laudă și oștirile cerești,
 Vin cu bucurie viața mea să Ți-o închin.

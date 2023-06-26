@@ -1,28 +1,28 @@
 [title]
-Renunță-n mersul vieții tale {Author: {Shalom}}
+Renunță-n mersul vieții tale {author: {Shalom}}
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Renunță-n mersul vieții tale,
 Orbitul umblet prin pustiu,
 Ca să nu strigi cu remușcare
 „E prea târziu, e prea târziu!”
 
-[2]
+[v2]
 Nu te mâhni de grea povară
 Ce-apăsa azi pentru puțin,
 Mai bine-i azi o clipă-amară
 Decât un veșnic prea târziu.
 
-[3]
+[v3]
 Atât de greu îți este oare
 Să spui - „O, Doamne, astăzi știu”?
 Că dacă azi nu vin la Tine
 Va fi un veșnic prea târziu.
 
-[4]
+[v4]
 Și știu că mersul vieții mele,
 În Domnul nostru veșnic viu,
 Înseamnă viață printre stele

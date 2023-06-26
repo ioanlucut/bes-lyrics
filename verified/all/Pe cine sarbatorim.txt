@@ -2,24 +2,24 @@
 Pe cine sărbătorim?
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Astăzi este bucurie, toți sărbătorim,
 Pe-nserat se-aud colinde, glasuri de copii.
 Sosit-a Crăciunul, daruri bogate, bradul în casă e-mpodobit,
 E zâmbet în inimi și voie bună, astăzi e Crăciun.
 
-[chorus]
+[c]
 Să ne-ntrebăm: care e adevărul? Pe cine sărbătorim?
 De ce stele și îngeri cântă? Haideți, să ne amintim.
 S-a născut Pruncul Sfânt, aici jos pe pământ.
 Mântuirea prin El să primim,
 Să nu uităm adevărul și pe cine sărbătorim.
 
-[2]
+[v2]
 Când eram doar un copil, la geamul înghețat
 Așteptam Crăciunul, pentru darul lui bogat.
 Pe fulgi de zăpadă, cântăm colindul
-Pe care nu-l înțelegeam, 
+Pe care nu-l înțelegeam,
 Părea doar poveste, azi însă-mi este atât de adevărat.

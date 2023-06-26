@@ -2,15 +2,15 @@
 Duhule Sfânt
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 Duhule Sfânt, chemăm prezența Ta minunată,
 Duhule Sfânt, coboară peste noi,
 Duhule Sfânt, ne-nchinăm cu reverență sfântă,
 Duhule Sfânt, fă-Ți lucrarea Ta.
 
-[chorus]
+[c]
 /: Fii liber între noi,
 Atinge-ne cu dragostea Ta,
 Curățește-ne cu flacăra Ta

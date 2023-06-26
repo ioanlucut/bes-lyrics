@@ -2,21 +2,21 @@
 Voi slăvi pe Mielul gloriei
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 /: Voi slăvi pe Mielul gloriei,
 Regelui regilor mă-nchin.
 Voi slăvi pe Mielul gloriei,
 Regelui eu mă-nchin. :/
 
-[chorus]
-/: Și mâinile mi le înalț 
+[c]
+/: Și mâinile mi le înalț
 Și-naintea Ta vin,
-Mâinile mi le înalț 
+Mâinile mi le înalț
 Și mă bucur în Tin’.
 
 Îmi înalț mâinile către cer,
 Lumea-ntreabă: „De ce?”
-Eu le spun 
+Eu le spun
 Că-mi iubesc Regele. :/

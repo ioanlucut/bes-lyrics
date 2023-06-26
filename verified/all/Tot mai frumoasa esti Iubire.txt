@@ -2,27 +2,27 @@
 Tot mai frumoasă ești, Iubire
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Tot mai frumoasă ești, Iubire,
 Din zi în zi, din ceas în ceas!
 /: Și dulcea ochilor privire,
 Mai limpezită Ți-a rămas. :/
 
-[2]
+[v2]
 Ce trecătoare-s toate, toate,
 Și oameni și așezări și legi.
 /: Nimic din ce-i acum nu poate
 Să treacă-n veacurile-ntregi. :/
 
-[3]
+[v3]
 Doar Tu, Iubire, Tu ai viață
 În veșnicii neprinse-n gând
 /: Și tot mai tânără Ți-e fața,
 Cu cât trec vecii rând pe rând. :/
 
-[4]
+[v4]
 Tot mai frumoasă ești, Iubire,
 Și fiii Tăi așa-s mereu,
 /: Eu nu știu altă fericire,

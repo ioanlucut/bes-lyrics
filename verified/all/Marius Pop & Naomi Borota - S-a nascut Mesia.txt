@@ -1,10 +1,10 @@
 [title]
-S-a născut Mesia {Author: {Marius Pop & Naomi Borota}}
+S-a născut Mesia {author: {Marius Pop & Naomi Borota}}
 
 [sequence]
-1,c,2,c,c
+v1,c,v2,c,c
 
-[1]
+[v1]
 Părea o noapte obișnuită,
 Cu stele lucind peste tot,
 Dar Betleemul era în freamăt
@@ -15,14 +15,14 @@ S-a născut Isus!
 Păstorii în noapte au alergat
 Și L-au aflat.
 
-[chorus]
+[c]
 S-a născut Mesia!
 S-a întrupat iubirea!
 Prințul păcii-n iesle-a venit!
 Ne-a împăcat cu Tatăl, împlinind profeția,
 Cântați toți, Regele s-a născut!
 
-[2]
+[v2]
 E înc-o noapte obișnuită,
 Cu stele lucind peste tot.
 Isus așteaptă plin de răbdare,

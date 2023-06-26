@@ -2,15 +2,15 @@
 În a Ta prezență eu vreau să locuiesc
 
 [sequence]
-1,c,1,c
+v1,c,v1,c
 
-[1]
+[v1]
 În a Ta prezență eu vreau să locuiesc,
 Însetat după Tine eu sunt,
 Ascuns în iubire, în genunchi mă plec,
 În adorare să Te cunosc.
 
-[chorus]
+[c]
 Ia viața mea, în mâna Ta, Isuse!
 Dă-mi suflu nou
 Să pot zbura ca vulturul.

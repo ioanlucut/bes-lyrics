@@ -2,9 +2,9 @@
 Cum Te-ai oprit de mult
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 Cum Te-ai oprit de mult la han
 Venind pe-asin călare,
 Milos și bun samaritean
@@ -16,7 +16,7 @@ Samariteanule milos, mai leagă rănile ce dor,
 Mai toarnă leac vindecător 
 O, medic sfânt, Isus Cristos! :/
 
-[2]
+[v2]
 Trecut-au preoți și leviți
 Spre Ierihon la vale,
 Nepăsători cu pași grăbiți
@@ -28,7 +28,7 @@ Ce din durere Te-a chemat.
 I-ai pus pe răni ulei și vin,
 L-ai pus călare pe asin, Isuse medic minunat. :/
 
-[3]
+[v3]
 Acum, aici și-n casa Ta
 E-un han de poposire,
 Să intre orișicine-ar vrea
@@ -41,7 +41,7 @@ Căci brațul Tău e larg deschis
 Și-acei ce-n lume-s rătăciți 
 Veniți la mine, Tu ai zis. :/
 
-[4]
+[v4]
 La margine de drum cândva
 M-ai găsit și pe mine,
 N-aveam Isus pe nimeni

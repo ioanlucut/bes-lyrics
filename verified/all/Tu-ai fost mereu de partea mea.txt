@@ -2,23 +2,23 @@
 Tu-ai fost mereu de partea mea
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Tu-ai fost mereu de partea mea,
 O, Domnul meu cel bun,
 Cetate de scăpare, în care să m-ascund,
 Când valea umbrei morții reci, ființa-mi chinuia,
-Schimbându-mi cursul sorții, 
+Schimbându-mi cursul sorții,
 Tu-ai fost salvarea mea.
 
-[chorus]
+[c]
 /: De-aceea Te laud, Domnul meu!
 De-aceea Te voi slăvi mereu!
 Ești mare, ești sfânt, ești bun, ești minunat,
 O, Domnul meu, fii binecuvântat! :/
 
-[2]
+[v2]
 Doar Tu ai fost de partea mea,
 Când toți m-au părăsit,
 Când gheara disperării mă sfâșia cumplit,
@@ -26,7 +26,7 @@ Când gheara disperării mă sfâșia cumplit,
 Și m-ai luat în brațe,
 Părinte minunat.
 
-[3]
+[v3]
 De n-ar fi fost dragostea Ta,
 Să spele-al meu păcat,
 Cu sânge, la Golgota, o, Miel nevinovat,

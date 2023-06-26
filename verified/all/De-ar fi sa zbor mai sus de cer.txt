@@ -2,27 +2,27 @@
 De-ar fi să zbor mai sus de cer
 
 [sequence]
-1,2,3,4
+v1,v2,v3,v4
 
-[1]
+[v1]
 De-ar fi să zbor mai sus de cer,
 Mai alb decât un porumbel,
 /: Mai sus de stele aș cânta
 Isus, Isus, iubirea mea! :/
 
-[2]
+[v2]
 De-aș fi un cerb s-alerg prin munți
 Cu brazii cei semeți, cărunți,
 /: Întruna eu aș fredona
 Isus, Isus, iubirea mea! :/
 
-[3]
+[v3]
 Luceafărul în zori să fiu,
 Ca stea lumină în pustiu,
 /: Pe ceru-ntreg eu Te-aș purta
 Isus, Isus, iubirea mea! :/
 
-[4]
+[v4]
 Dar nu-s nimic și totuși cânt,
 Nu pot să tac de haru-Ți sfânt,
 /: Mai mult în cer Îți voi cânta

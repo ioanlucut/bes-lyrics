@@ -2,27 +2,27 @@
 Splendori divine lăsat-a
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Splendori divine lăsat-a
 Știind destinul Său
 Când pe crucea de pe Golgota
 Pentru noi viața El și-a dat.
 
-[chorus]
+[c]
 De nu ne-ar iubi, marea s-ar usca,
 N-ar fi stele pe cer, păsări nu ar zbura.
 De nu ne-ar iubi, cerul ar fi un mit,
 Dar Isus ne-a iubit, pentru noi s-a jertfit.
 
-[2]
+[v2]
 Străini de Tatăl din ceruri
 Departe-am rătăcit,
 Dar Isus cu brațe deschise
 În casa Lui m-a primit.
 
-[3]
+[v3]
 Azi cânt că marea Iubire
 Aici s-a arătat
 Și prin jertfa de pe Golgota

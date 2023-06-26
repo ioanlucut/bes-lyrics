@@ -2,9 +2,9 @@
 N-am cuvinte ca să-Ți spun
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 N-am cuvinte ca să-Ți spun,
 Cât ești, Tu, Doamne, de bun,
 Te-ai plecat spre min’, m-ai mântuit,
@@ -12,7 +12,7 @@ Mi-ai luat povara grea,
 Mi-ai dus-o la Golgota
 Și mi-ai dat în schimb pacea Ta.
 
-[chorus]
+[c]
 Tu ești Cel mai minunat,
 Ești al lumii Împărat,
 De aceea eu Îți cânt,
@@ -22,7 +22,7 @@ Strălucire stelelor,
 Nimeni-n lume nu-i ca Tine,
 Puternic, Dumnezeu!
 
-[2]
+[v2]
 Fericit eu am să-Ți cânt,
 Cât voi trăi pe pământ,
 De iubirea ce mi-ai arătat.
@@ -30,7 +30,7 @@ Niciodată singur nu-s,
 Sunt pe brațul Tău, Isus,
 M-ai luat pe veci în mâna Ta.
 
-[3]
+[v3]
 Isuse ’naintea Ta,
 Îmi aduc azi inima,
 Fă de-acum ce vrei, Doamne, cu ea!

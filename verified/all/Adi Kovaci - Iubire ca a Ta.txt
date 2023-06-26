@@ -1,10 +1,10 @@
 [title]
-Iubire ca a Ta {Author: {Adi Kovaci}}
+Iubire ca a Ta {author: {Adi Kovaci}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 De câte ori am vrut să merg către Tin’,
 Dar n-am putut, n-am putut,
 Ceva în mine îmi amintea că Te-am pierdut.
@@ -12,13 +12,13 @@ De câte ori am vrut să mă-ntorc la Tin’
 Și n-am putut, n-am putut,
 Ceva în mine îmi amintea că Te-am pierdut.
 
-[chorus]
+[c]
 Dar iubire ca a Ta, în veci nimeni n-are,
 Ca Tine altul nu-i, Doamne!
 Dar iubire ca a Ta, în veci nimeni n-are,
 Ca Tine altul nu-i, o, Domnul meu!
 
-[2]
+[v2]
 De câte ori am vrut să Te ascult,
 Dar n-am putut, n-am putut,
 S-aud vocea Ta mi-e dor tot mai mult.

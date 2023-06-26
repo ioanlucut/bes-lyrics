@@ -2,28 +2,28 @@
 Tineri dragi, o, nu uitați
 
 [sequence]
-1,c,2,c,3,c
+v1,c,v2,c,v3,c
 
-[1]
+[v1]
 Tineri dragi, o, nu uitați, astăzi este ziua voastră,
 Vreau acuma să-nțelegeți, ce rost are nunta voastră:
 E un act de-o importanță foarte mare pentru voi,
 Importanța ce-așteaptă iubire de la amândoi.
 
-[chorus]
+[c]
 /: Să vă iubiți, să vă iubiți totdeauna! :/
 Să vă iubiți, să vă iubiți, căci El a spus.
 Și la necaz să vă iubiți totdeauna,
 Și-n încercări să vă iubiți totdeauna,
 Să vă iubiți, să vă iubiți, căci El a spus.
 
-[2]
+[v2]
 Nu va fi tot timpul soare și calea voastră numai cu flori,
 Nu uitați că viața uneori e tristă,
 Dar clip-aceea amândoi pe genunchi să stați,
 Pe Domnul să-L chemați.
 
-[3]
+[v3]
 Rugăciunea schimbă totul, schimbă mersul vieții voastre,
 Chiar și clipele-ncercării vor deveni clipe voioase.
 De aceea niciodată, nu lipsească dintre voi,

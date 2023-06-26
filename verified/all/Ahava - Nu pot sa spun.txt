@@ -1,16 +1,16 @@
 [title]
-Nu pot să spun {Author: {Ahava}}
+Nu pot să spun {author: {Ahava}}
 
 [sequence]
-1,c,2,c,e
+v1,c,v2,c,e
 
-[1]
+[v1]
 Nu pot să spun cât a răbdat și cât a suferit,
 Când sus pe-un deal, pe-o cruce s-a jertfit,
 Dar pot să spun că-n jertfa Sa, am fost răscumparat
 Și de păcat eu sunt eliberat.
 
-[chorus]
+[c]
 Nu pot să spun ce mare har Isus ne-a dat la toți în dar,
 Când a murit pe cruce la Calvar.
 Cum a iertat acel tâlhar, a șters și-al meu trecut murdar
@@ -20,11 +20,11 @@ Murind și pentru tine la Calvar.
 Primește-L azi, nu amâna și El îți va schimba inima ta,
 Ca să fii pe veci salvat.
 
-[2]
+[v2]
 Nu pot să spun, prieten drag, ce mult a suferit
 Când ai strigat: Să fie răstignit!
 Dar pot să spun că-n jertfa Sa poți fi răscumparat
 Și de păcat poți fi eliberat.
 
-[ending]
+[e]
 Primește-L azi să fii pe veci salvat!

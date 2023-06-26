@@ -1,10 +1,10 @@
 [title]
-Da, eu cred în Numele Lui Isus {Author: {Ekklesia Arad}}
+Da, eu cred în Numele Lui Isus {author: {Ekklesia Arad}}
 
 [sequence]
-1,c,2,c,b,e,w
+v1,c,v2,c,b,e,b2
 
-[1]
+[v1]
 Când mi-e greu Tu-mi ești refugiul,
 Al meu suflet îl păzești.
 Când sunt frânt doar Tu mă vindeci,
@@ -12,26 +12,26 @@ Tu mă întregești.
 Tu ești al meu cântec, Cel care salvezi,
 Cred că ești tot ceea ce declari că ești!
 
-[chorus]
+[c]
 Da, eu cred, în Numele Lui Isus,
 Fiindcă peste orice nume este El.
 Tronul Tău este etern,
 Doar în Tine mă încred,
 Și-n puterea Numelui ce m-a salvat: Isus, Isus!
 
-[2]
+[v2]
 Tu aduci restaurare, răscumperi ce-i pierdut.
 Tu, prin jertfa de la cruce, ai plătit ce-a fost tribut.
 Dragostea și Harul sunt date pe deplin,
 Mormântul gol declară că ai biruit.
 
-[bridge]
+[b]
 /: Dumnezeu glorios, puternic,
 Scutul meu e!
 Dumnezeu victorios,
 Nume prea-nalt! :/
 
-[ending]
+[e]
 /: E putere în Numele Lui Isus,
 E putere în Numele Lui Isus,
 E putere în Numele Lui Isus,
@@ -40,6 +40,6 @@ Rupe-orice lanț, rupe-orice lanț!
 Să rup-orice lanț!
 Rupe-orice lanț, rupe-orice lanț! :/
 
-[bridge 2]
+[b2]
 Aud cum lanțuri cad! Aud cum lanțuri cad!
 Aud cum lanțuri cad! Aud cum lanțuri cad!

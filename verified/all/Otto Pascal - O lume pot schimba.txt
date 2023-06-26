@@ -1,16 +1,16 @@
 [title]
-O lume pot schimba {Author: {Otto Pascal}}
+O lume pot schimba {author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c,e
+v1,c,v2,c,e
 
-[1]
+[v1]
 Îmi amintesc, eram copil,
 Pe față zâmbetul umil îl împărțeam la toți ce-i întâlneam.
 Cuvinte bune am învățat,
 Îl însoțeam pe cel uitat și mă jucam cu toți ce-i întâlneam.
 
-[chorus]
+[c]
 Dar am crescut și m-am schimbat,
 Mi-a dispărut și zâmbetul curat,
 Aș vrea să fiu din nou cu inima copil
@@ -18,11 +18,11 @@ Aș vrea să fiu din nou cu inima copil
 Să iert celui greșit, să dau celui lipsit,
 O lume pot schimba dacă iubesc!
 
-[2]
+[v2]
 Când primăveri au mai trecut,
 Am devenit cel de temut, și-i uram pe toți ce-i întâlneam.
 Cuvinte bune, le-am uitat,
 Îl însoțeam pe cel stricat, nu mai zâmbeam la toți ce-i întâlneam.
 
-[ending]
+[e]
 /: O lume pot schimba :/ dacă iubesc. (4x)

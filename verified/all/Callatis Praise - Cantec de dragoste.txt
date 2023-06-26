@@ -1,10 +1,10 @@
 [title]
-Cântec de dragoste {Author: {Callatis Praise}}
+Cântec de dragoste {author: {Callatis Praise}}
 
 [sequence]
-1,c
+v1,c
 
-[1]
+[v1]
 Mă plimbam printre Ceruri, te visam
 C-un Cuvânt pentru tine am creat:
 Soarele să-ți încălzească zilele,
@@ -14,7 +14,7 @@ Pentru tine să port crucea de păcat,
 Și am o inimă ce bate cu a ta,
 Și mă zdrobește orice lacrimă de-a ta!
 
-[chorus]
+[c]
 Dau și munți, și univers,
 Și tot ce am pe viața ta,
 Și-am acceptat să mor pe lemn

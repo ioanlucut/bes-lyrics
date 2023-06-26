@@ -1,10 +1,10 @@
 [title]
-Te-aștept cu privirea spre cer {Alternative: {Mi-e dor}, Author: {Otto Pascal}}
+Te-aștept cu privirea spre cer {alternative: {Mi-e dor}, author: {Otto Pascal}}
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Te-aștept cu privirea spre cer,
 Aș vrea să Te văd, Isus.
 Ești Cel ce din umbră, ai vegheat viața mea,
@@ -12,7 +12,7 @@ Părinte de sus, din grele furtuni Te-am strigat,
 Cu brațul Tău Sfânt m-ai ridicat,
 Dar am uitat, m-am depărtat de fața Ta.
 
-[chorus]
+[c]
 Mi-e dor de zarea senină, mi-e dor
 De Cel ce alină, mi-e dor
 De glasul ce mări liniștea.
@@ -20,7 +20,7 @@ Mi-e dor să Îi simt iubirea, mi-e dor
 Și din nemurirea-I să-mi dea, din viața Sa
 O, Doamne, alină acest dor...
 
-[2]
+[v2]
 Am fost lângă Tine și-atunci
 Când șchiopii din nou umblau,
 Bolnavii erau vindecați pe deplin și orbii vedeau.

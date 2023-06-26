@@ -2,9 +2,9 @@
 Ai plătit un preț să-mi dai viață
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Ai plătit un preț să-mi dai viață
 Să trăiesc prin har azi mântuit.
 N-am cuvinte, Doamne, să pot spune
@@ -15,7 +15,7 @@ Numele mi-e scris în Cartea Vieții
 Să rămân statornic în credință
 Să Te laud și să Te slăvesc.
 
-[chorus]
+[c]
 /: Voia Ta, nu voia mea,
 Să se facă, Doamne-n viața mea,
 Să trăiesc cum Tu dorești,
@@ -26,7 +26,7 @@ Zi de zi s-o am pe-acest pământ.
 Lumină să răspândesc mereu
 În jurul meu. :/
 
-[2]
+[v2]
 Pacea Ta ce-ntrece orice lucru,
 Cunoștința-ntregului pământ
 S-o reverși în inimă, Stăpâne,

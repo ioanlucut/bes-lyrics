@@ -2,9 +2,9 @@
 Te-adorăm în fericire
 
 [sequence]
-1,2,3
+v1,v2,v3
 
-[1]
+[v1]
 Te-adorăm, în fericire,
 Domn al gloriei cerești,
 Ce cu raza-Ți de iubire
@@ -15,7 +15,7 @@ De-ntuneric și păcat
 Și ne luminează viața,
 Cu Duhul Tău Sfânt, curat.
 
-[2]
+[v2]
 Orice lucru mic sau mare,
 Ce de Tine-a fost creat
 Îți vestește-nțelepciunea
@@ -26,7 +26,7 @@ Floarea în splendoarea sa,
 Toate lucrurile Tale,
 Ne vestesc iubirea Ta.
 
-[3]
+[v3]
 Dătător de fericire
 Ești Tu, Doamne, tuturor,
 Râu de viață și iubire

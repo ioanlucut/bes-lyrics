@@ -2,21 +2,21 @@
 Să-ntâlnesc pe Domnul meu când am nevoie
 
 [sequence]
-c,1,c,2,c
+c,v1,c,v2,c
 
-[1]
+[v1]
 Să-ntâlnesc pe Domnul meu când am nevoie,
 Pe genunchi în rugăciune-L voi căuta,
 El prin Duhul Său cel Sfânt îmi va răspunde,
 Și oricând vocea Lui voi asculta.
 
-[chorus]
+[c]
 Vocea Lui se aude,
 Ea îmi dă har deplin și bucurii.
 Este vocea care îmi dă siguranță
 Și o voi asculta zi de zi.
 
-[2]
+[v2]
 Vocea Lui e un turn mare și puternic,
 M-a desprins de tot ce e pământesc.
 El vorbește vântului, mării-nvolburate,

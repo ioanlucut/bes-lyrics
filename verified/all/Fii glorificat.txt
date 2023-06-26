@@ -2,15 +2,15 @@
 Fii glorificat
 
 [sequence]
-c,1,c,1
+c,v1,c,v1
 
-[chorus]
+[c]
 Fii glorificat,
 Fii glorificat,
 Fii glorificat,
 Fii glorificat!
 
-[1]
+[v1]
 Fii glorificat în ceruri,
 Fii glorificat pe pământ,
 Fii glorificat în Templu,

@@ -2,9 +2,9 @@
 Aici să fie casa Celui veșnic Sfânt
 
 [sequence]
-1,c,2,c
+v1,c,v2,c
 
-[1]
+[v1]
 Aici să fie casa Celui veșnic Sfânt,
 Aici s-aducem laudă și-nchinare,
 Acelui care este veșnic viu și Sfânt
@@ -15,7 +15,7 @@ Cădea-vor în genunchi în fața Ta,
 Cu mâinile întinse către ceruri, ei
 Un legământ cu Tine vor avea!
 
-[chorus]
+[c]
 /: Din cântare în cântare,
 Să se-aprindă-n adunare
 Jertfa laudei de-nchinare
@@ -26,7 +26,7 @@ Că Tu ești în adunare
 Și-nsoțești a Ta lucrare
 Cu puteri prin Duhul Sfânt! :/
 
-[2]
+[v2]
 Aici să fie casa unde ochii Tăi,
 Zi și noapte, zilnic, vor privi,
 Aici să fie casa unde frații mei
