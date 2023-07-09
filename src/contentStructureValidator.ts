@@ -1,7 +1,7 @@
 import _, { without } from 'lodash';
-import { SequenceChar, SongSection } from './types';
-import { COMMA } from '../constants';
 import chalk from 'chalk';
+import { SongSection } from './types';
+import { COMMA } from '../constants';
 import { isKnownSongSequence } from './utils';
 
 export const verifyStructure = (content: string) => {

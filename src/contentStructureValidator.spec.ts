@@ -4,7 +4,7 @@ const SIMPLE_SONG = `[title]
 My custom title
 
 [sequence]
-v1,v2,v3,p1,p2,p3,c1,c2,c3,b1,b2,b3
+v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3
 
 [v1]
 Row for v1 
@@ -15,8 +15,8 @@ Row for v2
 [v3]
 Row for v3 
 
-[p1]
-Row for p1 
+[p]
+Row for p 
 
 [p2]
 Row for p2 
@@ -24,8 +24,8 @@ Row for p2
 [p3]
 Row for p3 
 
-[c1]
-Row for c1 
+[c]
+Row for c 
 
 [c2]
 Row for c2 
@@ -33,8 +33,8 @@ Row for c2
 [c3]
 Row for c3 
 
-[b1]
-Row for b1 
+[b]
+Row for b 
 
 [b2]
 Row for b2 
@@ -48,7 +48,7 @@ const SONG_WITH_MISMATCHING_SEQUENCE = `[title]
 My custom title
 
 [sequence]
-v
+v1
 
 [v1]
 Row for v1 
@@ -59,8 +59,8 @@ Row for v2
 [v3]
 Row for v3 
 
-[p1]
-Row for p1 
+[p]
+Row for p 
 
 [p2]
 Row for p2 
@@ -68,8 +68,8 @@ Row for p2
 [p3]
 Row for p3 
 
-[c1]
-Row for c1 
+[c]
+Row for c 
 
 [c2]
 Row for c2 
@@ -77,8 +77,8 @@ Row for c2
 [c3]
 Row for c3 
 
-[b1]
-Row for b1 
+[b]
+Row for b 
 
 [b2]
 Row for b2 
@@ -128,7 +128,7 @@ Row 1`),
     expect(() =>
       verifyStructure(SONG_WITH_MISMATCHING_SEQUENCE),
     ).toThrowErrorMatchingInlineSnapshot(
-      `"The [31m[v1],[v2],[v3],[p1],[p2],[p3],[c1],[c2],[c3],[b1],[b2],[b3][39m tags are present in the content but not in the sequence."`,
+      `"The [31m[v2],[v3],[p],[p2],[p3],[c],[c2],[c3],[b],[b2],[b3][39m tags are present in the content but not in the sequence."`,
     );
   });
 
