@@ -2,7 +2,7 @@
 Cred într-un singur Dumnezeu
 
 [sequence]
-v1,c,v2,c,b,c,b,c
+v1,c,v2,c,b,c,e
 
 [v1]
 Cred într-un singur Dumnezeu,
@@ -38,6 +38,7 @@ El prin moarte ne-a răscumpărat
 Și prin sângele curs a plătit prețul pus
 El e vrednic să fie-onorat.
 
+[e]
 Prigoană, lipsuri sau sabie,
 De El nu m-ar despărți.
 Eu am victorie deplină prin Cel,
