@@ -2,7 +2,7 @@
 Leagă-ți inima de Cer {author: {Grupul Domini}}
 
 [sequence]
-c,v1,c,b,c,c
+c,v1,c,b,c
 
 [c]
 Leagă-ți inima de Cer,

@@ -2,7 +2,7 @@
 Și mă ridic {author: {Album Toflea: Rugul Aprins}}
 
 [sequence]
-c,v1,c,v2,c,v3,c,c
+c,v1,c,v2,c,v3,c
 
 [v1]
 Unii se bizuiesc pe înțelepciunea lor

@@ -2,7 +2,7 @@
 Dumnezeu e tăria mea {author: {Grupul Omega}}
 
 [sequence]
-v1,c,v2,c,c
+v1,c,v2,c
 
 [v1]
 Când în zare se ivește solul celui necurat,

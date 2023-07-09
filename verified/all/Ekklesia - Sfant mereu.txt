@@ -2,7 +2,7 @@
 Sfânt mereu {author: {Ekklesia}}
 
 [sequence]
-v1,c,v2,c,c,c
+v1,c,v2,c,c
 
 [v1]
 /: Sfânt mereu, sfânt mereu e tot ce vreau, doar

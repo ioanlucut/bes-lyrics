@@ -1,8 +1,8 @@
 [title]
-Duhul Tău / Sunt aici
+Duhul Tău
 
 [sequence]
-v1,c,v2,c,c2,v3,c2,v4
+v1,c,v2,c
 
 [v1]
 Orice-am face, Doamne, orice-am spune,
@@ -21,19 +21,3 @@ Duhul Tău, o, Doamne, așteptăm.
 Când ziua judecății va veni?
 În încercări cum n-au mai fost sub soare
 Numai Duhul Tău ne poate întări.
-
-[c2]
-Sunt aici, la dispoziția Ta,
-Cheamă-mă, Te voi asculta.
-
-[v3]
-E timpul potrivit pentru popoare,
-Mai sunt în zgură încă mari comori,
-Isus mai cheamă oameni în lucrare,
-Să fie toți cu El biruitori.
-
-[v4]
-Suntem noi sare pentru lume-aceasta?
-În întuneric suntem noi lumini?
-Trăim ca Domnu-n vorbă și în faptă,
-Să știe lumea că suntem creștini!

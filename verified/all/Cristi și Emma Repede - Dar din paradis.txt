@@ -2,7 +2,7 @@
 Dar din paradis {author: {Cristi și Emma Repede}}
 
 [sequence]
-p,v1,p,c,v2,p,c,c,p
+p,v1,p,c,v2,p,c,p
 
 [v1]
 Sunt fericit, cerul mi-a dăruit,

@@ -2,7 +2,7 @@
 Al meu Domn, Părinte {author: {Darlene Zscech}}
 
 [sequence]
-v1,c,v1,c,c,e
+v1,c,v1,c,e
 
 [v1]
 Al meu Domn, Părinte,

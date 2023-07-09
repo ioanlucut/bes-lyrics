@@ -2,7 +2,7 @@
 Amăgire {author: {Chris}}
 
 [sequence]
-v1,c,v2,c,c
+v1,c,v2,c
 
 [v1]
 Câtă vreme a trecut, câtă vreme a rămas

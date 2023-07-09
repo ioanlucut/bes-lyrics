@@ -2,7 +2,7 @@
 El e fântâna cu ape vii
 
 [sequence]
-c,v1,c,v2,c,v3,c,c
+c,v1,c,v2,c,v3,c
 
 [v1]
 Astăzi cânt voios că Dumnezeu

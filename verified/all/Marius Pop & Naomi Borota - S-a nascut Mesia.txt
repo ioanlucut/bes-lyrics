@@ -2,7 +2,7 @@
 S-a născut Mesia {author: {Marius Pop & Naomi Borota}}
 
 [sequence]
-v1,c,v2,c,c
+v1,c,v2,c
 
 [v1]
 Părea o noapte obișnuită,

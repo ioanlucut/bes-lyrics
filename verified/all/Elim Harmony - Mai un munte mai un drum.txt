@@ -2,7 +2,7 @@
 Mai un munte, mai un drum {author: {Elim Harmony}}
 
 [sequence]
-c,v1,c,v2,c,c
+c,v1,c,v2,c
 
 [c]
 /: Mai un munte, mai un drum,

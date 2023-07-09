@@ -2,7 +2,7 @@
 Rădăcini {author: {BBSO Baia Mare}}
 
 [sequence]
-v1,b,c,v2,b,c,c,b
+v1,b,c,v2,b,c,b
 
 [v1]
 /: Ca un pom uscat, fără culoare,

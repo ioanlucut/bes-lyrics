@@ -2,7 +2,7 @@
 Astăzi vin la Tine, Domnul meu {author: {Liviu Deac}}
 
 [sequence]
-v1,p,c,v2,p,c,c,e
+v1,p,c,v2,p,c,e
 
 [v1]
 Astăzi vin la Tine, Domnul meu.

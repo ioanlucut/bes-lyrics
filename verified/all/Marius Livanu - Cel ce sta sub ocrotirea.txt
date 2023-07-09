@@ -2,7 +2,7 @@
 Cel ce stă sub ocrotirea {author: {Marius Livanu}}
 
 [sequence]
-c,v1,c,v2,c,c
+c,v1,c,v2,c
 
 [v1]
 Cel ce stă sub ocrotirea celui Preaînalt de sus,

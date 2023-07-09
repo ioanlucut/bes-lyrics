@@ -2,7 +2,7 @@
 Iertare {author: {Not an Idol}}
 
 [sequence]
-v1,c,v2,c,c,c,c
+v1,c,v2,c,c
 
 [v1]
 Doamne, ascultă astăzi ruga mea,

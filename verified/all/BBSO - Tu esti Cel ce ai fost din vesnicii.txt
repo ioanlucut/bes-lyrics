@@ -2,7 +2,7 @@
 Tu ești Cel ce ai fost din veșnicii {author: {BBSO}}
 
 [sequence]
-v1,v2,p,c,v1,v2,p,c,c
+v1,v2,p,c,v1,v2,p,c
 
 [v1]
 Tu ești Cel ce ai fost din veșnicii,

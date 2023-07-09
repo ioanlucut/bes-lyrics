@@ -2,7 +2,7 @@
 Îți mulțumim {author: {The Messengers}}
 
 [sequence]
-c,v1,c,v2,c,c
+c,v1,c,v2,c
 
 [v1]
 Ne-ai ales ca să trăim,

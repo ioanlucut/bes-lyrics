@@ -2,7 +2,7 @@
 Mergem înainte! {author: {Beni Cibu}}
 
 [sequence]
-c,v1,c,v2,c,v3,c,v4,c,c
+c,v1,c,v2,c,v3,c,v4,c
 
 [v1]
 Tu-ai fost un loc de adăpost,

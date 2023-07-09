@@ -2,7 +2,7 @@
 Dragostea, ce fericire dă! {author: {Călin Lela & Diana Vuculescu}}
 
 [sequence]
-c,v1,c,v2,c,v3,c,c,e
+c,v1,c,v2,c,v3,c,e
 
 [v1]
 Un răspuns dorit-am să primesc:

@@ -2,7 +2,7 @@
 Un copil {author: {Amadeo, Cornel Matei}}
 
 [sequence]
-v1,c,v2,c,v3,c,c
+v1,c,v2,c,v3,c
 
 [v1]
 Căci un Copil ni s-a născut,

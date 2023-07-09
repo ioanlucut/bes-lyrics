@@ -2,7 +2,7 @@
 Mâna Ta, Doamne {author: {Speranța}}
 
 [sequence]
-c,v1,c,v2,c,v3,c,c
+c,v1,c,v2,c,v3,c
 
 [v1]
 Când privesc bolta-nstelată ce-i întinsă sus,

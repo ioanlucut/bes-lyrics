@@ -2,7 +2,7 @@
 Rege al Regilor {alternative: {Când eram fără speranță}, author: {Betania Dublin}}
 
 [sequence]
-v1,c,v2,c,v3,c,c
+v1,c,v2,c,v3,c
 
 [v1]
 Când eram fără speranță-n

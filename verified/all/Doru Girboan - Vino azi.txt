@@ -2,7 +2,7 @@
 Vino azi {author: {Doru Girboan}}
 
 [sequence]
-v1,c,v2,c,b,c,c
+v1,c,v2,c,b,c
 
 [v1]
 Oare câtă vreme vrei să rătăcești

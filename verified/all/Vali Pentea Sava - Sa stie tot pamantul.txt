@@ -2,7 +2,7 @@
 Să știe tot pământul {author: {Vali Pentea Sava}}
 
 [sequence]
-v1,c,v2,c,v3,c,c
+v1,c,v2,c,v3,c
 
 [v1]
 /: Să știe tot pământul

@@ -2,7 +2,7 @@
 Te slăvesc, Isuse {author: {Grupul Paradis}}
 
 [sequence]
-c,v1,c,v2,c,c
+c,v1,c,v2,c
 
 [v1]
 Te slăvesc, Isuse, pentru tot ce Tu mi-ai dat

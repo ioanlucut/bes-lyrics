@@ -2,7 +2,7 @@
 Ce bucurie să mă știu copilul Tău
 
 [sequence]
-v1,c,v2,c,c
+v1,c,v2,c
 
 [v1]
 Ce bucurie să mă știu copilul Tău

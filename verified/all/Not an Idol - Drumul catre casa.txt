@@ -2,7 +2,7 @@
 Drumul către casă {author: {Not an Idol}}
 
 [sequence]
-v1,v2,c,v3,c,c
+v1,v2,c,v3,c
 
 [v1]
 Se aude în ceruri, parcă răsunând,

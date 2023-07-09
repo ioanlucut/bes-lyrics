@@ -2,7 +2,7 @@
 Îți doresc {author: {Amalia Decean, Monica Turtoi}}
 
 [sequence]
-c,v1,p,c,v2,p,c,c
+c,v1,p,c,v2,p,c
 
 [v1]
 Îți doresc sănătate,

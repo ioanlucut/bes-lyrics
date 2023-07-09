@@ -2,7 +2,7 @@
 O, Doamne, Tu ne-ai însoțit pe cale
 
 [sequence]
-c,v1,c,v2,c,c
+c,v1,c,v2,c
 
 [c]
 /: O, Doamne, Tu ne-ai însoțit pe cale,

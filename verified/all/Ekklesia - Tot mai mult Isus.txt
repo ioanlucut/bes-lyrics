@@ -2,7 +2,7 @@
 Tot mai mult, Isus {author: {Ekklesia}}
 
 [sequence]
-v1,c,v1,c,c,c
+v1,c,v1,c,c
 
 [v1]
 /: Tot mai mult, Isus, tot mai mult,

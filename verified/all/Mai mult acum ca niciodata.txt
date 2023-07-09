@@ -2,7 +2,7 @@
 Mai mult acum ca niciodată
 
 [sequence]
-v1,c,v2,c,c,v3,c,c
+v1,c,v2,c,v3,c
 
 [v1]
 Mai mult acum, ca niciodată,

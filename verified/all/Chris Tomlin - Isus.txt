@@ -2,7 +2,7 @@
 Isus {author: {Chris Tomlin}}
 
 [sequence]
-v1,v2,c,v3,c,c,b,c2
+v1,v2,c,v3,c,b,c2
 
 [v1]
 Isus a zis că El e adevărul

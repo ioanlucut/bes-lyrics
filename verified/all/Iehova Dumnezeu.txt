@@ -2,7 +2,7 @@
 Iehova, Dumnezeu
 
 [sequence]
-v1,c,v2,c,v3,c,c
+v1,c,v2,c,v3,c
 
 [v1]
 Ești necuprins de timp și spațiu,

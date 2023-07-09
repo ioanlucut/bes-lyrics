@@ -2,7 +2,7 @@
 Tu ești Cetățuia mea {author: {Marius Livanu}}
 
 [sequence]
-v1,c,v2,c,v3,c,c
+v1,c,v2,c,v3,c
 
 [v1]
 Din neam în neam ești adăpost

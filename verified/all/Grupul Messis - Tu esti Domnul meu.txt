@@ -2,7 +2,7 @@
 Tu ești Domnul meu! {author: {Grupul Messis}}
 
 [sequence]
-v1,c,v2,c,c
+v1,c,v2,c
 
 [v1]
 De câte ori Te caut, Doamne,

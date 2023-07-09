@@ -2,7 +2,7 @@
 O inimă-nțeleaptă {author: {Adriana Stoica}}
 
 [sequence]
-c,v1,c,v2,c,v3,c,c
+c,v1,c,v2,c,v3,c
 
 [v1]
 O inimă curată, de Tine a fost schimbată,
