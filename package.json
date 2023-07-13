@@ -44,10 +44,10 @@
     "verify:similarity": "ts-node ./lyricsSimilarityValidator.ts",
     "verify:similarity:mv": "ts-node ./lyricsSimilarityValidator.ts --overwrite",
     "verify:similarity:rm": "ts-node ./lyricsSimilarityValidator.ts --removeDuplicates",
-    "reprocess:content": "ts-node ./lyricsTextReprocessor.ts",
-    "reprocess:filenames": "ts-node ./lyricsFileNameReprocessor.ts",
     "dictionary:analyze": "ts-node lyricsRomanianDictionaryAnalyzer.ts",
-    "dictionary:update": "ts-node lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary"
+    "dictionary:update": "ts-node lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary",
+    "reprocess:content": "ts-node lyricsTextReprocessorRunner.ts",
+    "reprocess:filename": "ts-node lyricsFileNameReprocessorRunner.ts"
   },
   "author": "Ioan Lucuț",
   "license": "ISC"

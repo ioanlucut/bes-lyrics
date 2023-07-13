@@ -72,7 +72,7 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
         sectionIndex < songSectionsTuples.length;
         sectionIndex = sectionIndex + 2
       ) {
-        const sectionKey = songSectionsTuples[sectionIndex] as SongSection;
+        const sectionKey = songSectionsTuples[sectionIndex];
         const sectionContent = songSectionsTuples[sectionIndex + 1] as string;
 
         if (sectionKey !== SongSection.SEQUENCE) {

@@ -6,29 +6,29 @@ import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
 import * as process from 'process';
-import { reprocessTextContent } from './src';
+import { contentReprocessor } from './src';
 import recursive from 'recursive-readdir';
 import { TXT_EXTENSION } from './constants';
 
 dotenv.config();
 
-const reprocess = async (dir: string) => {
+const run = async (dir: string) => {
   console.log(`"Reprocessing file contents from ${dir} directory.."`);
 
   (await recursive(dir))
     .filter((filePath) => path.extname(filePath) === TXT_EXTENSION)
     .forEach((filePath) => {
-      const fileContent = fs.readFileSync(filePath).toString();
+      const songContent = fs.readFileSync(filePath).toString();
       const fileName = path.basename(filePath);
 
       fs.writeFileSync(
         path.join(path.dirname(filePath), fileName),
-        reprocessTextContent(fileContent),
+        contentReprocessor.reprocess(songContent),
       );
     });
 };
 
 (async () => {
-  await reprocess(process.env.CANDIDATES_DIR);
-  await reprocess(process.env.VERIFIED_DIR);
+  await run(process.env.CANDIDATES_DIR);
+  await run(process.env.VERIFIED_DIR);
 })();

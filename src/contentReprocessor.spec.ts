@@ -1,9 +1,9 @@
-import { reprocessTextContent } from './textEnhancer';
+import { reprocess } from './contentReprocessor';
 
 describe('contentReprocessor', () => {
   it('should work correctly #1', () => {
     expect(
-      reprocessTextContent(`
+      reprocess(`
 ş
 ţ
 doamne
@@ -35,7 +35,7 @@ mesia
 
   it('should work correctly #2', () => {
     expect(
-      reprocessTextContent(`
+      reprocess(`
 [title]
 My custom title
 

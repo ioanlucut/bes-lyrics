@@ -10,7 +10,7 @@ import chalk from 'chalk';
 
 dotenv.config();
 
-const reprocessFileNames = async (dir: string) => {
+const run = async (dir: string) => {
   console.log(`"Reprocessing file names from ${dir} directory.."`);
 
   (await recursive(dir))
@@ -56,6 +56,6 @@ const reprocessFileNames = async (dir: string) => {
 };
 
 (async () => {
-  await reprocessFileNames(process.env.CANDIDATES_DIR);
-  await reprocessFileNames(process.env.VERIFIED_DIR);
+  await run(process.env.CANDIDATES_DIR);
+  await run(process.env.VERIFIED_DIR);
 })();

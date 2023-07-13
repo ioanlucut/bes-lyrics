@@ -3,8 +3,8 @@ import { SongSection } from './types';
 import { CARRIAGE_RETURN, COMMA, EMPTY_STRING, NEW_LINE } from '../constants';
 import { isKnownSongSequence, isTestEnv } from './utils';
 
-export const reprocessTextContent = (content: string) => {
-  return content
+export const reprocess = (songContent: string) => {
+  return songContent
     .replaceAll('  ', ' ')
     .replaceAll(' .', '.')
     .replaceAll('ş', 'ș')

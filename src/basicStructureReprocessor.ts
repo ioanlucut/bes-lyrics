@@ -9,7 +9,7 @@ import {
 import { SequenceChar, SongSection } from './types';
 import { isTestEnv } from './utils';
 
-const getUniqueHashFromSection = (section: string) =>
+const getUniqueCharsFromSection = (section: string) =>
   section.replaceAll(/[\r\n.,! -]/gim, EMPTY_STRING).toLowerCase();
 
 const normalizeContentByAddingBasicStructure = (
@@ -18,7 +18,7 @@ const normalizeContentByAddingBasicStructure = (
 ) => {
   const MULTIPLE_MATCHES_OF_THE_SAME_SECTION = 1;
 
-  const groupedSections = _.groupBy(flatSections, getUniqueHashFromSection);
+  const groupedSections = _.groupBy(flatSections, getUniqueCharsFromSection);
   const uniqueSections = Object.values(groupedSections).filter(
     (equalSections) =>
       _.size(equalSections) > MULTIPLE_MATCHES_OF_THE_SAME_SECTION,
@@ -130,10 +130,7 @@ ${uniqueSections
   );
 };
 
-export const rewriteByAddingBasicStructure = (
-  content: string,
-  fileName?: string,
-) => {
+export const reprocess = (content: string, fileName?: string) => {
   const flatSections = content
     .replaceAll('^(\r)\n', '\r\n')
     .replaceAll(SongSection.TITLE, EMPTY_STRING)
