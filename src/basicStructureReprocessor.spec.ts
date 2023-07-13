@@ -1,4 +1,4 @@
-import { reprocess } from './basicStructureReprocessor';
+import { reprocess } from './basicStructureReprocessor.js';
 
 describe('basicStructureReprocessor', () => {
   it('should work correctly #1', () => {

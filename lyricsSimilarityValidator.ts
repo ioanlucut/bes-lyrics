@@ -2,18 +2,18 @@
 // This validator tries to avoid duplicates (`candidates` against the `verified` directory)
 // ---
 
-import _, { isEqual } from 'lodash';
 import fs from 'fs';
-import fsExtra from 'fs-extra';
 import path from 'path';
 import * as process from 'process';
+import { parseArgs } from 'node:util';
+import { isEmpty, isEqual, negate } from 'lodash-es';
+import fsExtra from 'fs-extra';
 import dotenv from 'dotenv';
 import stringSimilarity from 'string-similarity';
 import recursive from 'recursive-readdir';
 import chalk from 'chalk';
-import { parseArgs } from 'node:util';
-import { ALT_SONGS_FILE_SUFFIX, NEW_LINE } from './constants';
-import { logFileWithLinkInConsole } from './src';
+import { ALT_SONGS_FILE_SUFFIX, NEW_LINE } from './constants.js';
+import { logFileWithLinkInConsole } from './src/index.js';
 
 dotenv.config();
 
@@ -74,7 +74,7 @@ const findSimilarities = async (
           .filter(({ similarity }) => similarity > THRESHOLD),
       };
     })
-    .filter(({ similarities }) => _.negate(_.isEmpty)(similarities));
+    .filter(({ similarities }) => negate(isEmpty)(similarities));
 };
 
 // ---
@@ -111,7 +111,7 @@ const runValidatorAndExitIfSimilar = async (
       ),
   );
 
-  if (!_.isEmpty(withoutAllowedDuplicates)) {
+  if (!isEmpty(withoutAllowedDuplicates)) {
     const ERROR_CODE = 1;
 
     console.log('Unf., we have found song similarities.');
@@ -157,27 +157,29 @@ const runValidatorAndExitIfSimilar = async (
 };
 
 (async () => {
-  // // ---
-  // // Verify if the songs that are in candidates are unique across them
-  // // ---
-  await runValidatorAndExitIfSimilar(
-    process.env.CANDIDATES_DIR,
-    process.env.CANDIDATES_DIR,
-  );
-  //
-  // // ---
-  // // Verify if the songs that are in candidates are unique across the verified songs
-  // // ---
-  await runValidatorAndExitIfSimilar(
-    process.env.CANDIDATES_DIR,
-    process.env.VERIFIED_DIR,
-  );
+  await Promise.all([
+    // // ---
+    // // Verify if the songs that are in candidates are unique across them
+    // // ---
+    runValidatorAndExitIfSimilar(
+      process.env.CANDIDATES_DIR,
+      process.env.CANDIDATES_DIR,
+    ),
+    //
+    // // ---
+    // // Verify if the songs that are in candidates are unique across the verified songs
+    // // ---
+    runValidatorAndExitIfSimilar(
+      process.env.CANDIDATES_DIR,
+      process.env.VERIFIED_DIR,
+    ),
 
-  // ---
-  // Verify if the songs that are verified are unique across them
-  // ---
-  await runValidatorAndExitIfSimilar(
-    process.env.VERIFIED_DIR,
-    process.env.VERIFIED_DIR,
-  );
+    // ---
+    // Verify if the songs that are verified are unique across them
+    // ---
+    runValidatorAndExitIfSimilar(
+      process.env.VERIFIED_DIR,
+      process.env.VERIFIED_DIR,
+    ),
+  ]);
 })();

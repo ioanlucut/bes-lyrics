@@ -1,13 +1,22 @@
-import _ from 'lodash';
+import {
+  first,
+  flatten,
+  groupBy,
+  isEqual,
+  range,
+  size,
+  trim,
+  uniq,
+} from 'lodash-es';
 import chalk from 'chalk';
 import {
   CARRIAGE_RETURN,
   EMPTY_STRING,
   NEW_LINE,
   SEQUENCE_SEPARATOR,
-} from '../constants';
-import { SequenceChar, SongSection } from './types';
-import { isTestEnv } from './utils';
+} from '../constants.js';
+import { SequenceChar, SongSection } from './types.js';
+import { isTestEnv } from './utils.js';
 
 const getUniqueCharsFromSection = (section: string) =>
   section.replaceAll(/[\r\n.,! -]/gim, EMPTY_STRING).toLowerCase();
@@ -18,13 +27,13 @@ const normalizeContentByAddingBasicStructure = (
 ) => {
   const MULTIPLE_MATCHES_OF_THE_SAME_SECTION = 1;
 
-  const groupedSections = _.groupBy(flatSections, getUniqueCharsFromSection);
+  const groupedSections = groupBy(flatSections, getUniqueCharsFromSection);
   const uniqueSections = Object.values(groupedSections).filter(
     (equalSections) =>
-      _.size(equalSections) > MULTIPLE_MATCHES_OF_THE_SAME_SECTION,
+      size(equalSections) > MULTIPLE_MATCHES_OF_THE_SAME_SECTION,
   );
 
-  const uniqueSectionsSize = _.size(uniqueSections);
+  const uniqueSectionsSize = size(uniqueSections);
 
   const MAX_EQUAL_SECTIONS_ALLOWED = 1;
 
@@ -43,8 +52,8 @@ ${uniqueSections
   const verses = [] as string[];
 
   const hasChorus = uniqueSectionsSize === MAX_EQUAL_SECTIONS_ALLOWED;
-  const multipleChorusSections = _.uniq(_.first(uniqueSections) as string[]);
-  if (hasChorus && _.size(multipleChorusSections) > 1) {
+  const multipleChorusSections = uniq(first(uniqueSections) as string[]);
+  if (hasChorus && size(multipleChorusSections) > 1) {
     throw new Error(
       chalk.red(`Multiple chorus versions exists!: 
       ${multipleChorusSections.join(`<<${NEW_LINE}>>`)}
@@ -56,7 +65,7 @@ ${uniqueSections
         .join(`<<${NEW_LINE}>>`)}`),
     );
   }
-  const maybeChorus = hasChorus ? _.first(multipleChorusSections) : null;
+  const maybeChorus = hasChorus ? first(multipleChorusSections) : null;
 
   let verseIndex = 1;
   flatSections.forEach((section, index) => {
@@ -83,7 +92,7 @@ ${uniqueSections
       return;
     }
 
-    if (_.isEqual(section, maybeChorus)) {
+    if (isEqual(section, maybeChorus)) {
       // Add a chorus
       sectionsMap[SongSection.CHORUS()] = maybeChorus!;
 
@@ -94,14 +103,14 @@ ${uniqueSections
   });
 
   sectionsMap[SongSection.SEQUENCE] = sectionsMap[SongSection.CHORUS()]
-    ? _.range(1, _.size(verses) + 1)
+    ? range(1, size(verses) + 1)
         .map((verse) => [
           [SequenceChar.VERSE, verse].join(EMPTY_STRING),
           SequenceChar.CHORUS,
         ])
         .flat()
         .join(SEQUENCE_SEPARATOR)
-    : _.range(1, _.size(verses) + 1)
+    : range(1, size(verses) + 1)
         .map((verse) => [SequenceChar.VERSE, verse].join(EMPTY_STRING))
         .join(SEQUENCE_SEPARATOR);
 
@@ -109,8 +118,8 @@ ${uniqueSections
 
   // ---
   // Rework
-  return _.trim(
-    _.flatten(
+  return trim(
+    flatten(
       [
         [SongSection.TITLE, sectionsMap[SongSection.TITLE]].join(
           `${CARRIAGE_RETURN}${NEW_LINE}`,
@@ -152,7 +161,7 @@ export const reprocess = (content: string, fileName?: string) => {
     // Not sure how to fix this better
     .split(isTestEnv() ? /\n\n/gim : /\r\n\r\n/gim)
     .filter(Boolean)
-    .map(_.trim);
+    .map(trim);
 
   return normalizeContentByAddingBasicStructure(flatSections, fileName);
 };

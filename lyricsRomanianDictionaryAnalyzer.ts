@@ -3,16 +3,16 @@
 // 100% reliable thus it cannot be used as a validator per se
 // ---
 
-import recursive from 'recursive-readdir';
-import _ from 'lodash';
 import fs from 'fs';
 import path from 'path';
 import * as process from 'process';
+import * as util from 'util';
+import { parseArgs } from 'node:util';
+import recursive from 'recursive-readdir';
+import { flatten, includes, isEmpty, trim, uniq, without } from 'lodash-es';
 import dictionaryRo, { Dictionary } from 'dictionary-ro';
 import nspell from 'nspell';
 import NSpell from 'nspell';
-import * as util from 'util';
-import { parseArgs } from 'node:util';
 import dotenv from 'dotenv';
 import {
   CARRIAGE_RETURN,
@@ -21,8 +21,8 @@ import {
   NEW_LINE,
   TEST_FILE,
   TXT_EXTENSION,
-} from './constants';
-import { getTitleContent, SongSection } from './src';
+} from './constants.js';
+import { getTitleContent, SongSection } from './src/index.js';
 
 const CUSTOM_DICTIONARY_RO_FILENAME = 'custom-dictionary_ro.txt';
 
@@ -32,13 +32,13 @@ const getSongInSections = (songText: string) =>
   songText
     .split(/(\[.*])/gim)
     .filter(Boolean)
-    .map(_.trim);
+    .map(trim);
 
 const analyzeAndGet = async (dir: string, speller: NSpell) => {
   const incorrectWords = [] as string[];
 
   (await recursive(dir))
-    .filter((file) => !_.includes(file, TEST_FILE))
+    .filter((file) => !includes(file, TEST_FILE))
     .filter((filePath) => path.extname(filePath) === TXT_EXTENSION)
     .forEach((filePath) => {
       const songAsString = fs.readFileSync(filePath).toString();
@@ -50,7 +50,7 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
         return section;
       });
       const songSectionsTuples = getSongInSections(
-        _.trim(_.flatten(normalizedSongSections).join(NEW_LINE)),
+        trim(flatten(normalizedSongSections).join(NEW_LINE)),
       );
 
       const iterateAndCollect = (wordOrExpression: string) => {
@@ -120,13 +120,13 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
   );
 
   const rawWords = await analyzeAndGet(process.env.VERIFIED_DIR, speller);
-  const unknownOrIncorrectWords = _.without(
-    _.uniq(rawWords).sort(),
+  const unknownOrIncorrectWords = without(
+    uniq(rawWords).sort(),
     CARRIAGE_RETURN,
     NEW_LINE,
   );
 
-  if (!_.isEmpty(unknownOrIncorrectWords)) {
+  if (!isEmpty(unknownOrIncorrectWords)) {
     console.log(
       `We have spotted incorrect/unknown words: ${unknownOrIncorrectWords.join(
         NEW_LINE,
@@ -136,7 +136,7 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
     if (saveToDictionary) {
       fs.writeFileSync(
         customDictionaryFileName,
-        _.uniq([...existingCustomWords, ...unknownOrIncorrectWords]).join(
+        uniq([...existingCustomWords, ...unknownOrIncorrectWords]).join(
           NEW_LINE,
         ),
       );

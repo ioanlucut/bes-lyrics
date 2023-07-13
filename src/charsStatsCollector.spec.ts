@@ -1,4 +1,4 @@
-import { assemblyCharsStats } from './charsStatsCollector';
+import { assemblyCharsStats } from './charsStatsCollector.js';
 
 describe('fileNameNormalizer', () => {
   it('should work correctly and not signalize any differences when only allowed chars exist', () => {

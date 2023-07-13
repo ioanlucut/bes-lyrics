@@ -1,7 +1,7 @@
-export * from './fileNameDeriver';
-export * from './types';
-export * from './charsStatsCollector';
-export * from './contentStructureValidator';
-export * from './utils';
-export * as basicStructureReprocessor from './basicStructureReprocessor';
-export * as contentReprocessor from './contentReprocessor';
+export * from './types.js';
+export * from './charsStatsCollector.js';
+export * from './contentStructureValidator.js';
+export * from './utils.js';
+export * as lyricsFileNameReprocessor from './lyricsFileNameReprocessor.js';
+export * as basicStructureReprocessor from './basicStructureReprocessor.js';
+export * as contentReprocessor from './contentReprocessor.js';

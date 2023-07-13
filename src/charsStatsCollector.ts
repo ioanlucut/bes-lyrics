@@ -1,8 +1,8 @@
-import _ from 'lodash';
-import { ALLOWED_CHARS, EMPTY_STRING } from '../constants';
+import { difference, flattenDeep, uniq } from 'lodash-es';
+import { ALLOWED_CHARS, EMPTY_STRING } from '../constants.js';
 
 const getUniqueCharsAndRelevantChars = (content: string) =>
-  _.flattenDeep(_.uniq(content.replaceAll(/\(\),-\.:;\?!/gimu, EMPTY_STRING)))
+  flattenDeep(uniq(content.replaceAll(/\(\),-\.:;\?!/gimu, EMPTY_STRING)))
     .filter(Boolean)
     .sort();
 
@@ -13,8 +13,8 @@ export const assemblyCharsStats = (fileName: string, fileContent: string) => {
   return {
     fileName,
     uniqueCharsFromContent,
-    differenceInContent: _.difference(uniqueCharsFromContent, ALLOWED_CHARS),
+    differenceInContent: difference(uniqueCharsFromContent, ALLOWED_CHARS),
     uniqueCharsFromFileName,
-    differenceInFileName: _.difference(uniqueCharsFromFileName, ALLOWED_CHARS),
+    differenceInFileName: difference(uniqueCharsFromFileName, ALLOWED_CHARS),
   };
 };

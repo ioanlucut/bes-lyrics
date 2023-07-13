@@ -1,14 +1,14 @@
-import _, { without } from 'lodash';
+import { difference, isEmpty, trim, without } from 'lodash-es';
 import chalk from 'chalk';
-import { SongSection } from './types';
-import { COMMA } from '../constants';
-import { isKnownSongSequence } from './utils';
+import { COMMA } from '../constants.js';
+import { SongSection } from './types.js';
+import { isKnownSongSequence } from './utils.js';
 
 export const verifyStructure = (content: string) => {
   const sectionTuples = content
     .split(/(\[.*])/gim)
     .filter(Boolean)
-    .map(_.trim);
+    .map(trim);
 
   if (!content.includes(SongSection.TITLE)) {
     throw new Error(`${SongSection.TITLE} is missing.`);
@@ -39,7 +39,7 @@ export const verifyStructure = (content: string) => {
       sectionTuples[sectionIndex + 1];
   }
 
-  const mismatchingSequence = _.difference(
+  const mismatchingSequence = difference(
     without(
       Object.keys(sectionsHashMap),
       SongSection.TITLE,
@@ -47,7 +47,7 @@ export const verifyStructure = (content: string) => {
     ),
     sequenceIdentifiersFromSections,
   );
-  if (!_.isEmpty(mismatchingSequence)) {
+  if (!isEmpty(mismatchingSequence)) {
     throw new Error(
       `The ${chalk.red(
         mismatchingSequence,

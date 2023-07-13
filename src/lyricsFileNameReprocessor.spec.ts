@@ -1,7 +1,7 @@
-import { deriveFromTitle } from './fileNameDeriver';
-import { ALLOWED_CHARS, EMPTY_STRING } from '../constants';
+import { ALLOWED_CHARS, EMPTY_STRING } from '../constants.js';
+import { deriveFromTitle } from './lyricsFileNameReprocessor.js';
 
-describe('fileNameDeriver', () => {
+describe('lyricsFileNameReprocessor', () => {
   it('should work correctly by correctly mapping the existing allowed chars', () => {
     expect(
       deriveFromTitle(ALLOWED_CHARS.join(EMPTY_STRING)),

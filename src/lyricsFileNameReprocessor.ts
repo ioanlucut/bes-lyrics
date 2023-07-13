@@ -1,7 +1,7 @@
-import _, { trim } from 'lodash';
-import { COMMA, EMPTY_STRING, TXT_EXTENSION } from '../constants';
-import { SongMeta } from './types';
-import { getTitleContent } from './utils';
+import { trim } from 'lodash-es';
+import { COMMA, EMPTY_STRING, TXT_EXTENSION } from '../constants.js';
+import { SongMeta } from './types.js';
+import { getTitleContent } from './utils.js';
 
 const getCleanVersion = (title: string) => {
   if (!title) {
@@ -57,7 +57,7 @@ export const deriveFromTitle = (titleContent: string) => {
 
   const maybeRenamedFile = [
     metaSections[SongMeta.AUTHOR],
-    _.trim(getCleanVersion(title)),
+    trim(getCleanVersion(title)),
     getCleanVersion(metaSections[SongMeta.ALTERNATIVE]),
     metaSections[SongMeta.VERSION],
   ]

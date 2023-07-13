@@ -1,4 +1,4 @@
-import { verifyStructure } from './contentStructureValidator';
+import { verifyStructure } from './contentStructureValidator.js';
 
 const SIMPLE_SONG = `[title]
 My custom title

@@ -1,4 +1,4 @@
-import { reprocess } from './contentReprocessor';
+import { reprocess } from './contentReprocessor.js';
 
 describe('contentReprocessor', () => {
   it('should work correctly #1', () => {

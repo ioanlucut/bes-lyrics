@@ -4,11 +4,11 @@
 // ---
 import fs from 'fs';
 import path from 'path';
-import dotenv from 'dotenv';
 import * as process from 'process';
-import { contentReprocessor } from './src';
+import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
-import { TXT_EXTENSION } from './constants';
+import { contentReprocessor } from './src/index.js';
+import { TXT_EXTENSION } from './constants.js';
 
 dotenv.config();
 

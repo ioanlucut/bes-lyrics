@@ -1,12 +1,16 @@
 import fs from 'fs';
 import path from 'path';
-import dotenv from 'dotenv';
 import * as process from 'process';
-import { EMPTY_STRING, TXT_EXTENSION } from './constants';
-import { deriveFromTitle, logFileWithLinkInConsole, SongSection } from './src';
+import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
-import _, { isEqual } from 'lodash';
+import { isEqual, trim } from 'lodash-es';
 import chalk from 'chalk';
+import { EMPTY_STRING, TXT_EXTENSION } from './constants.js';
+import {
+  logFileWithLinkInConsole,
+  lyricsFileNameReprocessor,
+  SongSection,
+} from './src/index.js';
 
 dotenv.config();
 
@@ -24,9 +28,9 @@ const run = async (dir: string) => {
         .replaceAll(SongSection.TITLE, EMPTY_STRING)
         .split(/\r\n\r\n/gim)
         .filter(Boolean)
-        .map(_.trim)[0];
+        .map(trim)[0];
 
-      const newFileName = deriveFromTitle(title);
+      const newFileName = lyricsFileNameReprocessor.deriveFromTitle(title);
       const hasNoChange = isEqual(fileName, newFileName);
 
       console.group(chalk.cyan(`Processing "${fileName}".`));

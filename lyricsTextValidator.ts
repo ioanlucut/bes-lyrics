@@ -1,16 +1,16 @@
-import _ from 'lodash';
 import fs from 'fs';
 import path from 'path';
 import * as process from 'process';
+import { flattenDeep, isEmpty, negate, uniq } from 'lodash-es';
 import dotenv from 'dotenv';
-import { ERROR_CODE, TXT_EXTENSION } from './constants';
+import recursive from 'recursive-readdir';
+import chalk from 'chalk';
 import {
   assemblyCharsStats,
   logFileWithLinkInConsole,
   verifyStructure,
-} from './src';
-import recursive from 'recursive-readdir';
-import chalk from 'chalk';
+} from './src/index.js';
+import { ERROR_CODE, TXT_EXTENSION } from './constants.js';
 
 dotenv.config();
 
@@ -35,11 +35,11 @@ const runValidationForDir = async (fileDir: string) => {
     }))
     .filter(
       ({ differenceInContent, differenceInFileName }) =>
-        _.negate(_.isEmpty)(differenceInFileName) ||
-        _.negate(_.isEmpty)(differenceInContent),
+        negate(isEmpty)(differenceInFileName) ||
+        negate(isEmpty)(differenceInContent),
     );
 
-  if (!_.isEmpty(problematicHits)) {
+  if (!isEmpty(problematicHits)) {
     console.log('Unf., we have found wrong chars.');
 
     const allChars = problematicHits.map(
@@ -47,7 +47,7 @@ const runValidationForDir = async (fileDir: string) => {
         console.group(`"${fileName}"`);
         logFileWithLinkInConsole(filePath);
 
-        if (!_.isEmpty(differenceInFileName)) {
+        if (!isEmpty(differenceInFileName)) {
           console.log(
             `The difference between the allowed chars and found in file name are: "${chalk.yellow(
               differenceInFileName,
@@ -55,7 +55,7 @@ const runValidationForDir = async (fileDir: string) => {
           );
         }
 
-        if (!_.isEmpty(differenceInContent)) {
+        if (!isEmpty(differenceInContent)) {
           console.log(
             `The difference between the allowed chars and found in content are: "${chalk.yellow(
               differenceInContent,
@@ -66,12 +66,12 @@ const runValidationForDir = async (fileDir: string) => {
         console.log();
         console.groupEnd();
 
-        return _.uniq([...differenceInFileName, ...differenceInContent]);
+        return uniq([...differenceInFileName, ...differenceInContent]);
       },
     );
 
     console.log(
-      `A list of all rejected chars are: "${_.uniq(_.flattenDeep(allChars))}"`,
+      `A list of all rejected chars are: "${uniq(flattenDeep(allChars))}"`,
     );
 
     process.exit(ERROR_CODE);
@@ -86,10 +86,10 @@ const runValidationForDir = async (fileDir: string) => {
   arrayOfFileNameAndContent.forEach(({ fileName, fileContent, filePath }) => {
     try {
       verifyStructure(fileContent);
-    } catch (error: any) {
+    } catch (error: unknown) {
       console.group(chalk.yellow(fileName));
       logFileWithLinkInConsole(filePath);
-      console.log(error.message);
+      console.log((error as Error)?.message);
       console.log();
 
       console.groupEnd();

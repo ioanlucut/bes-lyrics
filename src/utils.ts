@@ -1,5 +1,5 @@
-import { isEqual, trim } from 'lodash';
-import { SequenceChar } from './types';
+import { isEqual, trim } from 'lodash-es';
+import { SequenceChar } from './types.js';
 
 export const logFileWithLinkInConsole = (filePath: string) =>
   console.log(`at ${filePath}:1:1`);

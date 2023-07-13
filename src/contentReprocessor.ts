@@ -1,7 +1,12 @@
-import { trim } from 'lodash';
-import { SongSection } from './types';
-import { CARRIAGE_RETURN, COMMA, EMPTY_STRING, NEW_LINE } from '../constants';
-import { isKnownSongSequence, isTestEnv } from './utils';
+import { trim } from 'lodash-es';
+import {
+  CARRIAGE_RETURN,
+  COMMA,
+  EMPTY_STRING,
+  NEW_LINE,
+} from '../constants.js';
+import { SongSection } from './types.js';
+import { isKnownSongSequence, isTestEnv } from './utils.js';
 
 export const reprocess = (songContent: string) => {
   return songContent
