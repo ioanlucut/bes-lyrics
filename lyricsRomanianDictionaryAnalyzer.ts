@@ -93,55 +93,51 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
   return incorrectWords;
 };
 
-(async () => {
-  const {
-    values: { saveToDictionary },
-  } = parseArgs({
-    options: {
-      saveToDictionary: {
-        type: 'boolean',
-      },
+const {
+  values: { saveToDictionary },
+} = parseArgs({
+  options: {
+    saveToDictionary: {
+      type: 'boolean',
     },
-  });
+  },
+});
 
-  const customDictionaryFileName = path.join(
-    __dirname,
-    CUSTOM_DICTIONARY_RO_FILENAME,
+const customDictionaryFileName = path.join(
+  __dirname,
+  CUSTOM_DICTIONARY_RO_FILENAME,
+);
+const existingCustomWordsAsString = fs
+  .readFileSync(customDictionaryFileName)
+  .toString();
+const existingCustomWords = existingCustomWordsAsString.split(NEW_LINE);
+
+const getDictionaryAsync = util.promisify(dictionaryRo);
+const romanianDictionary = (await getDictionaryAsync()) as Dictionary;
+const speller = nspell(romanianDictionary).personal(
+  existingCustomWordsAsString,
+);
+
+const rawWords = await analyzeAndGet(process.env.VERIFIED_DIR, speller);
+const unknownOrIncorrectWords = without(
+  uniq(rawWords).sort(),
+  CARRIAGE_RETURN,
+  NEW_LINE,
+);
+
+if (!isEmpty(unknownOrIncorrectWords)) {
+  console.log(
+    `We have spotted incorrect/unknown words: ${unknownOrIncorrectWords.join(
+      NEW_LINE,
+    )}`,
   );
-  const existingCustomWordsAsString = fs
-    .readFileSync(customDictionaryFileName)
-    .toString();
-  const existingCustomWords = existingCustomWordsAsString.split(NEW_LINE);
 
-  const getDictionaryAsync = util.promisify(dictionaryRo);
-  const romanianDictionary = (await getDictionaryAsync()) as Dictionary;
-  const speller = nspell(romanianDictionary).personal(
-    existingCustomWordsAsString,
-  );
-
-  const rawWords = await analyzeAndGet(process.env.VERIFIED_DIR, speller);
-  const unknownOrIncorrectWords = without(
-    uniq(rawWords).sort(),
-    CARRIAGE_RETURN,
-    NEW_LINE,
-  );
-
-  if (!isEmpty(unknownOrIncorrectWords)) {
-    console.log(
-      `We have spotted incorrect/unknown words: ${unknownOrIncorrectWords.join(
-        NEW_LINE,
-      )}`,
+  if (saveToDictionary) {
+    fs.writeFileSync(
+      customDictionaryFileName,
+      uniq([...existingCustomWords, ...unknownOrIncorrectWords]).join(NEW_LINE),
     );
-
-    if (saveToDictionary) {
-      fs.writeFileSync(
-        customDictionaryFileName,
-        uniq([...existingCustomWords, ...unknownOrIncorrectWords]).join(
-          NEW_LINE,
-        ),
-      );
-    }
-
-    process.exit(ERROR_CODE);
   }
-})();
+
+  process.exit(ERROR_CODE);
+}

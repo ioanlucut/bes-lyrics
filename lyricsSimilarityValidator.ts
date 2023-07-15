@@ -156,30 +156,28 @@ const runValidatorAndExitIfSimilar = async (
   }
 };
 
-(async () => {
-  await Promise.all([
-    // // ---
-    // // Verify if the songs that are in candidates are unique across them
-    // // ---
-    runValidatorAndExitIfSimilar(
-      process.env.CANDIDATES_DIR,
-      process.env.CANDIDATES_DIR,
-    ),
-    //
-    // // ---
-    // // Verify if the songs that are in candidates are unique across the verified songs
-    // // ---
-    runValidatorAndExitIfSimilar(
-      process.env.CANDIDATES_DIR,
-      process.env.VERIFIED_DIR,
-    ),
+await Promise.all([
+  // // ---
+  // // Verify if the songs that are in candidates are unique across them
+  // // ---
+  runValidatorAndExitIfSimilar(
+    process.env.CANDIDATES_DIR,
+    process.env.CANDIDATES_DIR,
+  ),
+  //
+  // // ---
+  // // Verify if the songs that are in candidates are unique across the verified songs
+  // // ---
+  runValidatorAndExitIfSimilar(
+    process.env.CANDIDATES_DIR,
+    process.env.VERIFIED_DIR,
+  ),
 
-    // ---
-    // Verify if the songs that are verified are unique across them
-    // ---
-    runValidatorAndExitIfSimilar(
-      process.env.VERIFIED_DIR,
-      process.env.VERIFIED_DIR,
-    ),
-  ]);
-})();
+  // ---
+  // Verify if the songs that are verified are unique across them
+  // ---
+  runValidatorAndExitIfSimilar(
+    process.env.VERIFIED_DIR,
+    process.env.VERIFIED_DIR,
+  ),
+]);

@@ -106,6 +106,4 @@ const runValidationForDir = async (fileDir: string) => {
 // ---
 // RUN
 // ---
-(async () => {
-  await runValidationForDir(process.env.VERIFIED_DIR);
-})();
+await runValidationForDir(process.env.VERIFIED_DIR);
