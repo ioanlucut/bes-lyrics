@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Run lyrics validator" type="NodeJSConfigurationType" node-parameters="--loader ts-node/esm" path-to-js-file="lyricsTextValidator.ts" working-dir="$PROJECT_DIR$">
+  <configuration default="false" name="Run lyrics validator" type="NodeJSConfigurationType" node-parameters="--loader ts-node/esm --no-warnings=ExperimentalWarning" path-to-js-file="lyricsTextValidator.ts" working-dir="$PROJECT_DIR$">
     <method v="2" />
   </configuration>
 </component>

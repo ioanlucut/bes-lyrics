@@ -44,14 +44,14 @@
     "test:watch": "NODE_ENV=test TZ='Europe/Berlin' jest --watch --logHeapUsage",
     "test": "is-ci-cli test:ci test:watch",
     "lint": "eslint . --ext .ts",
-    "verify": "node --loader ts-node/esm ./lyricsTextValidator.ts",
-    "verify:similarity": "node --loader ts-node/esm ./lyricsSimilarityValidator.ts",
-    "verify:similarity:mv": "node --loader ts-node/esm ./lyricsSimilarityValidator.ts --overwrite",
-    "verify:similarity:rm": "node --loader ts-node/esm ./lyricsSimilarityValidator.ts --removeDuplicates",
-    "dictionary:analyze": "node --loader ts-node/esm lyricsRomanianDictionaryAnalyzer.ts",
-    "dictionary:update": "node --loader ts-node/esm lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary",
-    "reprocess:content": "node --loader ts-node/esm lyricsTextReprocessorRunner.ts",
-    "reprocess:filename": "node --loader ts-node/esm lyricsFileNameReprocessorRunner.ts"
+    "verify": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./lyricsTextValidator.ts",
+    "verify:similarity": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./lyricsSimilarityValidator.ts",
+    "verify:similarity:mv": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./lyricsSimilarityValidator.ts --overwrite",
+    "verify:similarity:rm": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./lyricsSimilarityValidator.ts --removeDuplicates",
+    "dictionary:analyze": "node --no-warnings=ExperimentalWarning --loader ts-node/esm lyricsRomanianDictionaryAnalyzer.ts",
+    "dictionary:update": "node --no-warnings=ExperimentalWarning --loader ts-node/esm lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary",
+    "reprocess:content": "node --no-warnings=ExperimentalWarning --loader ts-node/esm lyricsTextReprocessorRunner.ts",
+    "reprocess:filename": "node --no-warnings=ExperimentalWarning --loader ts-node/esm lyricsFileNameReprocessorRunner.ts"
   },
   "author": "Ioan Lucuț",
   "license": "ISC"
