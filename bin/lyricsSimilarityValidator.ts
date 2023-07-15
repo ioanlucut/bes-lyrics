@@ -12,8 +12,11 @@ import dotenv from 'dotenv';
 import stringSimilarity from 'string-similarity';
 import recursive from 'recursive-readdir';
 import chalk from 'chalk';
-import { ALT_SONGS_FILE_SUFFIX, NEW_LINE } from './constants.js';
-import { logFileWithLinkInConsole } from './src/index.js';
+import {
+  ALT_SONGS_FILE_SUFFIX,
+  NEW_LINE,
+  logFileWithLinkInConsole,
+} from '../src/index.js';
 
 dotenv.config();
 

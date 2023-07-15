@@ -5,14 +5,18 @@ import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
 import { isEqual, trim } from 'lodash-es';
 import chalk from 'chalk';
-import { EMPTY_STRING, TXT_EXTENSION } from './constants.js';
 import {
   logFileWithLinkInConsole,
   lyricsFileNameReprocessor,
   SongSection,
-} from './src/index.js';
+  EMPTY_STRING,
+  TXT_EXTENSION,
+} from '../src/index.js';
+import { fileURLToPath } from 'url';
 
 dotenv.config();
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const run = async (dir: string) => {
   console.log(`"Reprocessing file names from ${dir} directory.."`);

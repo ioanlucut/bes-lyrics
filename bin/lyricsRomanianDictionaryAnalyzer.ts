@@ -14,6 +14,7 @@ import dictionaryRo, { Dictionary } from 'dictionary-ro';
 import nspell from 'nspell';
 import NSpell from 'nspell';
 import dotenv from 'dotenv';
+import { fileURLToPath } from 'url';
 import {
   CARRIAGE_RETURN,
   CHARS_SEPARATORS,
@@ -21,8 +22,11 @@ import {
   NEW_LINE,
   TEST_FILE,
   TXT_EXTENSION,
-} from './constants.js';
-import { getTitleContent, SongSection } from './src/index.js';
+  getTitleContent,
+  SongSection,
+} from '../src/index.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const CUSTOM_DICTIONARY_RO_FILENAME = 'custom-dictionary_ro.txt';
 
@@ -105,6 +109,7 @@ const {
 
 const customDictionaryFileName = path.join(
   __dirname,
+  '..',
   CUSTOM_DICTIONARY_RO_FILENAME,
 );
 const existingCustomWordsAsString = fs

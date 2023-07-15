@@ -1,6 +1,6 @@
 import { difference, isEmpty, trim, without } from 'lodash-es';
 import chalk from 'chalk';
-import { COMMA } from '../constants.js';
+import { COMMA } from './constants.js';
 import { SongSection } from './types.js';
 import { isKnownSongSequence } from './utils.js';
 

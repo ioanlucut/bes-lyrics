@@ -14,7 +14,7 @@ import {
   EMPTY_STRING,
   NEW_LINE,
   SEQUENCE_SEPARATOR,
-} from '../constants.js';
+} from './constants.js';
 import { SequenceChar, SongSection } from './types.js';
 import { isTestEnv } from './utils.js';
 

@@ -1,4 +1,4 @@
-import { ALLOWED_CHARS, EMPTY_STRING } from '../constants.js';
+import { ALLOWED_CHARS, EMPTY_STRING } from './constants.js';
 import { deriveFromTitle } from './lyricsFileNameReprocessor.js';
 
 describe('lyricsFileNameReprocessor', () => {

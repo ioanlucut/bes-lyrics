@@ -9,8 +9,8 @@ import {
   assemblyCharsStats,
   logFileWithLinkInConsole,
   verifyStructure,
-} from './src/index.js';
-import { ERROR_CODE, TXT_EXTENSION } from './constants.js';
+} from '../src/index.js';
+import { ERROR_CODE, TXT_EXTENSION } from '../src/constants.js';
 
 dotenv.config();
 

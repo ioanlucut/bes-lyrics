@@ -1,10 +1,5 @@
 import { trim } from 'lodash-es';
-import {
-  CARRIAGE_RETURN,
-  COMMA,
-  EMPTY_STRING,
-  NEW_LINE,
-} from '../constants.js';
+import { CARRIAGE_RETURN, COMMA, EMPTY_STRING, NEW_LINE } from './constants.js';
 import { SongSection } from './types.js';
 import { isKnownSongSequence, isTestEnv } from './utils.js';
 

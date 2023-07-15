@@ -44,14 +44,15 @@
     "test:watch": "NODE_ENV=test TZ='Europe/Berlin' jest --watch --logHeapUsage",
     "test": "is-ci-cli test:ci test:watch",
     "lint": "eslint . --ext .ts",
-    "verify": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./lyricsTextValidator.ts",
-    "verify:similarity": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./lyricsSimilarityValidator.ts",
-    "verify:similarity:mv": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./lyricsSimilarityValidator.ts --overwrite",
-    "verify:similarity:rm": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./lyricsSimilarityValidator.ts --removeDuplicates",
-    "dictionary:analyze": "node --no-warnings=ExperimentalWarning --loader ts-node/esm lyricsRomanianDictionaryAnalyzer.ts",
-    "dictionary:update": "node --no-warnings=ExperimentalWarning --loader ts-node/esm lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary",
-    "reprocess:content": "node --no-warnings=ExperimentalWarning --loader ts-node/esm lyricsTextReprocessorRunner.ts",
-    "reprocess:filename": "node --no-warnings=ExperimentalWarning --loader ts-node/esm lyricsFileNameReprocessorRunner.ts"
+    "verify": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsTextValidator.ts",
+    "verify:similarity": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsSimilarityValidator.ts",
+    "verify:similarity:mv": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsSimilarityValidator.ts --overwrite",
+    "verify:similarity:rm": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsSimilarityValidator.ts --removeDuplicates",
+    "dictionary:analyze": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsRomanianDictionaryAnalyzer.ts",
+    "dictionary:update": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary",
+    "reprocess:content": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsTextReprocessorRunner.ts",
+    "reprocess:filename": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsFileNameReprocessorRunner.ts",
+    "debug:scripts": "npm run lint && npm run verify && npm run dictionary:analyze && npm run reprocess:content && npm run reprocess:filename"
   },
   "author": "Ioan Lucuț",
   "license": "ISC"

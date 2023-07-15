@@ -1,5 +1,5 @@
 import { trim } from 'lodash-es';
-import { COMMA, EMPTY_STRING, TXT_EXTENSION } from '../constants.js';
+import { COMMA, EMPTY_STRING, TXT_EXTENSION } from './constants.js';
 import { SongMeta } from './types.js';
 import { getTitleContent } from './utils.js';
 
