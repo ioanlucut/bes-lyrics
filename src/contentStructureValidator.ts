@@ -1,8 +1,58 @@
-import { difference, isEmpty, trim, without } from 'lodash-es';
+import { difference, isEmpty, isEqual, trim, uniq, without } from 'lodash-es';
 import chalk from 'chalk';
-import { COMMA } from './constants.js';
-import { SongSection } from './types.js';
-import { isKnownSongSequence } from './utils.js';
+import { COMMA, EMPTY_STRING } from './constants.js';
+import { SequenceChar, SongSection } from './types.js';
+import {
+  getBridgeRegex,
+  getCharWithoutMarkup,
+  getChorusRegex,
+  getPrechorusRegex,
+  getVerseRegex,
+  isKnownSongSequence,
+} from './utils.js';
+
+const REGEX_SUPPLIERS = {
+  [SequenceChar.VERSE]: () => getVerseRegex(),
+  [SequenceChar.CHORUS]: () => getChorusRegex(),
+  [SequenceChar.PRECHORUS]: () => getPrechorusRegex(),
+  [SequenceChar.BRIDGE]: () => getBridgeRegex(),
+} as Record<SequenceChar, () => RegExp>;
+
+const isSequenceCharInRightOrder = (
+  allSequencesWithMarkup: string[],
+  sequenceCharToVerify: SequenceChar,
+) => {
+  return uniq(
+    allSequencesWithMarkup
+      .map(getCharWithoutMarkup)
+      .filter((char) => REGEX_SUPPLIERS[sequenceCharToVerify]().test(char)),
+  ).every((v, index, array) => {
+    const MISSING_SEQUENCE_NUMBER = 1;
+
+    if (!index) {
+      return true;
+    }
+
+    const previousSequence = array[index - 1];
+    const previousSequenceNumber =
+      parseInt(previousSequence.replace(sequenceCharToVerify, EMPTY_STRING)) ||
+      MISSING_SEQUENCE_NUMBER;
+    const currentSequence = array[index];
+    const currentSequenceNumber =
+      parseInt(currentSequence.replace(sequenceCharToVerify, EMPTY_STRING)) ||
+      MISSING_SEQUENCE_NUMBER;
+
+    if (!isEqual(currentSequenceNumber - 1, previousSequenceNumber)) {
+      throw new Error(
+        `The two sequences ${chalk.red(previousSequence)} and ${chalk.red(
+          currentSequence,
+        )} are not consecutive.`,
+      );
+    }
+
+    return true;
+  });
+};
 
 export const verifyStructure = (content: string) => {
   const sectionTuples = content
@@ -18,7 +68,7 @@ export const verifyStructure = (content: string) => {
     throw new Error(`${SongSection.SEQUENCE} is missing.`);
   }
 
-  const sequenceIdentifiersFromSections = sectionTuples[3]
+  const sequenceIdentifiersFromSequenceSection = sectionTuples[3]
     .split(COMMA)
     .map((sequenceChar) => {
       if (!isKnownSongSequence(sequenceChar)) {
@@ -39,23 +89,25 @@ export const verifyStructure = (content: string) => {
       sectionTuples[sectionIndex + 1];
   }
 
-  const mismatchingSequence = difference(
-    without(
-      Object.keys(sectionsHashMap),
-      SongSection.TITLE,
-      SongSection.SEQUENCE,
-    ),
-    sequenceIdentifiersFromSections,
+  const sequencesFromSongContent = without(
+    Object.keys(sectionsHashMap),
+    SongSection.TITLE,
+    SongSection.SEQUENCE,
   );
-  if (!isEmpty(mismatchingSequence)) {
+  const maybeMismatchingSequence = difference(
+    sequencesFromSongContent,
+    sequenceIdentifiersFromSequenceSection,
+  );
+
+  if (!isEmpty(maybeMismatchingSequence)) {
     throw new Error(
       `The ${chalk.red(
-        mismatchingSequence,
+        maybeMismatchingSequence,
       )} tags are present in the content but not in the sequence.`,
     );
   }
 
-  sequenceIdentifiersFromSections.forEach((section) => {
+  sequenceIdentifiersFromSequenceSection.forEach((section) => {
     if (!sectionsHashMap[section]) {
       throw new Error(
         `The ${chalk.red(
@@ -66,4 +118,16 @@ export const verifyStructure = (content: string) => {
       );
     }
   });
+
+  return [
+    SequenceChar.VERSE,
+    SequenceChar.PRECHORUS,
+    SequenceChar.CHORUS,
+    SequenceChar.BRIDGE,
+  ].every((sequenceChar) =>
+    isSequenceCharInRightOrder(
+      sequenceIdentifiersFromSequenceSection,
+      sequenceChar,
+    ),
+  );
 };

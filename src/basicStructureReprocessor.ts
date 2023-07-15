@@ -139,6 +139,11 @@ ${uniqueSections
   );
 };
 
+/**
+ * @deprecated
+ *
+ * I used this to reprocess the content of the songs from PPT that had no structure.
+ */
 export const reprocess = (content: string, fileName?: string) => {
   const flatSections = content
     .replaceAll('^(\r)\n', '\r\n')

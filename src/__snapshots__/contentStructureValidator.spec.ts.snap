@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`contentStructureValidator content should reject correctly for a \`Missing title!\`: Missing title! 1`] = `"[title] is missing."`;
+
+exports[`contentStructureValidator content should reject correctly for a \`Supported b's chars in the bad order.\`: Supported b's chars in the bad order. 1`] = `"The two sequences [31mb2[39m and [31mb4[39m are not consecutive."`;
+
+exports[`contentStructureValidator content should reject correctly for a \`Supported c's chars in the bad order.\`: Supported c's chars in the bad order. 1`] = `"The two sequences [31mc2[39m and [31mc4[39m are not consecutive."`;
+
+exports[`contentStructureValidator content should reject correctly for a \`Supported p's chars in the bad order.\`: Supported p's chars in the bad order. 1`] = `"The two sequences [31mp2[39m and [31mp4[39m are not consecutive."`;
+
+exports[`contentStructureValidator content should reject correctly for a \`Supported v's chars in the bad order.\`: Supported v's chars in the bad order. 1`] = `"The two sequences [31mv1[39m and [31mv3[39m are not consecutive."`;
+
+exports[`contentStructureValidator content should reject correctly for a \`Supported v's chars in the bad order.\`: Supported v's chars in the bad order. 2`] = `"The two sequences [31mv2[39m and [31mv6[39m are not consecutive."`;
+
+exports[`contentStructureValidator content should reject correctly for a \`Supported v's chars in the bad order.\`: Supported v's chars in the bad order. 3`] = `"The two sequences [31mv3[39m and [31mv9[39m are not consecutive."`;
+
+exports[`contentStructureValidator content should reject correctly for a \`Unsupported chars in sequence.\`: Unsupported chars in sequence. 1`] = `"Unknown "v0" section."`;
+
+exports[`contentStructureValidator content should reject correctly for a \`Unsupported chars in sequence.\`: Unsupported chars in sequence. 2`] = `"Unknown "p1" section."`;
+
+exports[`contentStructureValidator content should reject correctly for a \`Unsupported chars in sequence.\`: Unsupported chars in sequence. 3`] = `"Unknown "b1" section."`;
+
+exports[`contentStructureValidator content should reject correctly for a \`Unsupported chars in sequence.\`: Unsupported chars in sequence. 4`] = `"Unknown "c1" section."`;
+
+exports[`contentStructureValidator content should reject correctly for a \`Unsupported chars in sequence.\`: Unsupported chars in sequence. 5`] = `"Unknown "e1" section."`;

@@ -4,6 +4,8 @@ export const ERROR_CODE = 1;
 
 export const COMMA = ',';
 
+export const COLON = ':';
+
 export const TXT_EXTENSION = '.txt';
 
 export const TEST_FILE = 'TEMPLATE.txt';
@@ -22,3 +24,5 @@ export const CHARS_SEPARATORS = /[ !(),./:;?”„\r]+/;
 export const ALT_SONGS_FILE_SUFFIX = /(- i|- ii)/;
 
 export const SEQUENCE_SEPARATOR = ',';
+
+export const TEST_ENV = 'test';

@@ -1,5 +1,5 @@
 import { trim } from 'lodash-es';
-import { COMMA, EMPTY_STRING, TXT_EXTENSION } from './constants.js';
+import { COLON, COMMA, EMPTY_STRING, TXT_EXTENSION } from './constants.js';
 import { SongMeta } from './types.js';
 import { getTitleContent } from './utils.js';
 
@@ -38,7 +38,7 @@ export const deriveFromTitle = (titleContent: string) => {
     (meta
       ?.split(COMMA)
       ?.map((hit) => {
-        const [type, value] = hit.split(':').map(trim);
+        const [type, value] = hit.split(COLON).map(trim);
 
         return {
           type,
@@ -51,7 +51,10 @@ export const deriveFromTitle = (titleContent: string) => {
         };
       })
       ?.reduce(
-        (acc, { type, value }) => ({ ...acc, [type]: value }),
+        (accumulator, { type, value }) => ({
+          ...accumulator,
+          [type]: value,
+        }),
         {},
       ) as Record<SongMeta, string>) || {};
 
