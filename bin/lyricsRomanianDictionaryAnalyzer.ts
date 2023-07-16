@@ -9,7 +9,15 @@ import * as process from 'process';
 import * as util from 'util';
 import { parseArgs } from 'node:util';
 import recursive from 'recursive-readdir';
-import { flatten, includes, isEmpty, trim, uniq, without } from 'lodash-es';
+import {
+  first,
+  flatten,
+  includes,
+  isEmpty,
+  trim,
+  uniq,
+  without,
+} from 'lodash-es';
 import dictionaryRo, { Dictionary } from 'dictionary-ro';
 import nspell from 'nspell';
 import NSpell from 'nspell';
@@ -22,8 +30,9 @@ import {
   NEW_LINE,
   TEST_FILE,
   TXT_EXTENSION,
-  getTitleContent,
+  getTitleBySections,
   SongSection,
+  getSongInSections,
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -31,12 +40,6 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CUSTOM_DICTIONARY_RO_FILENAME = 'custom-dictionary_ro.txt';
 
 dotenv.config();
-
-const getSongInSections = (songText: string) =>
-  songText
-    .split(/(\[.*])/gim)
-    .filter(Boolean)
-    .map(trim);
 
 const analyzeAndGet = async (dir: string, speller: NSpell) => {
   const incorrectWords = [] as string[];
@@ -82,8 +85,8 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
         if (sectionKey !== SongSection.SEQUENCE) {
           const sectionToBeVerified =
             sectionKey === SongSection.TITLE
-              ? // Ignore the meta stuff
-                getTitleContent(sectionContent)[0]
+              ? // Ignore the meta data
+                (first(getTitleBySections(sectionContent)) as string)
               : sectionContent;
 
           sectionToBeVerified

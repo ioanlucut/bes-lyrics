@@ -1,13 +1,7 @@
 import { trim } from 'lodash-es';
-import {
-  COLON,
-  COMMA,
-  EMPTY_STRING,
-  HASH,
-  TXT_EXTENSION,
-} from './constants.js';
+import { COLON, COMMA, EMPTY_STRING, TXT_EXTENSION } from './constants.js';
 import { SongMeta } from './types.js';
-import { getTitleContent } from './utils.js';
+import { getTitleBySections } from './utils.js';
 
 const getCleanVersion = (title: string) => {
   if (!title) {
@@ -37,11 +31,8 @@ const getCleanVersion = (title: string) => {
     .replaceAll('ț', 't');
 };
 
-export const deriveFromTitle = (
-  titleContent: string,
-  versionHashSuffix: string,
-) => {
-  const [title, meta] = getTitleContent(titleContent);
+export const deriveFromTitle = (titleContent: string) => {
+  const [title, meta] = getTitleBySections(titleContent);
 
   const metaSections =
     (meta
@@ -72,7 +63,6 @@ export const deriveFromTitle = (
     trim(getCleanVersion(title)),
     getCleanVersion(metaSections[SongMeta.ALTERNATIVE]),
     metaSections[SongMeta.VERSION],
-    `${HASH}${versionHashSuffix}`,
   ]
     .filter(Boolean)
     .join(' - ');

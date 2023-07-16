@@ -237,4 +237,26 @@ Row prechorus 2`),
       "
     `);
   });
+
+  it('should correctly add a hash version (when there is none)', () => {
+    expect(
+      reprocess(`[title]
+My custom title
+
+[sequence]
+v1
+
+[v1]
+Row for v1`),
+    ).toMatchInlineSnapshot(`
+      "[title]
+      My custom title
+
+      [sequence]
+      v1
+
+      [v1]
+      Row for v1"
+    `);
+  });
 });

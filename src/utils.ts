@@ -1,7 +1,5 @@
 import { flattenDeep, isEqual, trim, uniq } from 'lodash-es';
 import * as crypto from 'crypto';
-import path from 'path';
-import { fileURLToPath } from 'url';
 import { SequenceChar } from './types.js';
 import { EMPTY_STRING, TEST_ENV } from './constants.js';
 import chalk from 'chalk';
@@ -12,8 +10,8 @@ export const logFileWithLinkInConsole = (filePath: string) =>
 export const logProcessingFile = (fileName: string, workType: string) =>
   console.log(chalk.cyan(`Processing (${workType}): "${fileName}".`));
 
-export const getTitleContent = (titleContent: string) =>
-  titleContent
+export const getTitleBySections = (rawTitleContent: string) =>
+  rawTitleContent
     .split(/\{((?:[^{}]*\{[^{}]*})*[^{}]*?)}/gim)
     .map(trim)
     .filter(Boolean);
@@ -75,3 +73,9 @@ export const computeUniqueContentHash = (content: string) =>
     })
     .update(content, 'utf8')
     .digest('hex');
+
+export const getSongInSections = (songText: string) =>
+  songText
+    .split(/(\[.*])/gim)
+    .filter(Boolean)
+    .map(trim);

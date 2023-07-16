@@ -6,7 +6,6 @@ import recursive from 'recursive-readdir';
 import { isEqual, trim } from 'lodash-es';
 import chalk from 'chalk';
 import {
-  computeUniqueContentHash,
   EMPTY_STRING,
   logFileWithLinkInConsole,
   logProcessingFile,
@@ -35,10 +34,7 @@ const run = async (dir: string) => {
         .filter(Boolean)
         .map(trim)[0];
 
-      const newFileName = lyricsFileNameReprocessor.deriveFromTitle(
-        title,
-        computeUniqueContentHash(existingContent),
-      );
+      const newFileName = lyricsFileNameReprocessor.deriveFromTitle(title);
       const hasNoChange = isEqual(fileName, newFileName);
 
       if (hasNoChange) {
