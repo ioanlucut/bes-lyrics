@@ -3,6 +3,7 @@ import {
   SIMPLE_SONG_MOCK_FILE_CONTENT,
   SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_CONTENT,
   SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT,
+  SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT,
 } from '../mocks/index.js';
 import { CARRIAGE_RETURN, COMMA, NEW_LINE } from './constants.js';
 
@@ -22,6 +23,12 @@ ${desiredSequence
 describe('contentStructureValidator', () => {
   it('should not throw for a correct song', () => {
     expect(() => verifyStructure(SIMPLE_SONG_MOCK_FILE_CONTENT)).not.toThrow();
+  });
+
+  it('should not throw for a correct song w/ sub sections', () => {
+    expect(() =>
+      verifyStructure(SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT),
+    ).not.toThrow();
   });
 
   describe('title', () => {
@@ -66,7 +73,7 @@ Row 1`),
       expect(() =>
         verifyStructure(SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT),
       ).toThrowErrorMatchingInlineSnapshot(
-        `"The [31m[v2],[v3],[p],[p2],[p3],[c],[c2],[c3],[b],[b2],[b3][39m tags are present in the content but not in the sequence."`,
+        `"The [v2],[v3],[p],[p2],[p3],[c],[c2],[c3],[b],[b2],[b3] tags are present in the content but not in the sequence."`,
       );
     });
 
@@ -85,10 +92,13 @@ Row 1`),
     // ------------------------------------------------------------
 
     it.each`
-      songContent                                                                                   | explanation
-      ${createSongMock(['v1', 'v2', 'v3', 'p', 'p2', 'p3', 'b', 'b2', 'b3', 'c', 'c2', 'c3', 'e'])} | ${'Supported chars.'}
-      ${createSongMock(['c', 'v1', 'c2', 'c', 'v2', 'c2', 'c'])}                                    | ${'Supported chars.'}
-      ${createSongMock(['v1', 'v2', 'v1', 'v2'])}                                                   | ${'Supported chars.'}
+      songContent                                                                                                   | explanation
+      ${createSongMock(['v1', 'v2.1', 'v2.2', 'v3'])}                                                               | ${'Supported chars.'}
+      ${createSongMock(['v1.1', 'v1.2', 'v2.1', 'v2.2', 'v3', 'c'])}                                                | ${'Supported chars.'}
+      ${createSongMock(['c1.1', 'c1.2', 'c2.1', 'c2.2', 'c3'])}                                                     | ${'Supported chars.'}
+      ${createSongMock(['b1.1', 'b1.2', 'b2.1', 'b2.2', 'b3'])}                                                     | ${'Supported chars.'}
+      ${createSongMock(['p1.1', 'p1.2', 'p2.1', 'p2.2', 'p3'])}                                                     | ${'Supported chars.'}
+      ${createSongMock(['v1', 'v2', 'v3.1', 'v3.2', 'v3.3', 'v4', 'c1.1', 'c1.2', 'b1.1', 'b1.2', 'p1.1', 'p1.2'])} | ${'Supported chars.'}
     `('should allow correctly for a `$explanation`', ({ songContent }) => {
       expect(() => verifyStructure(songContent)).not.toThrow();
     });
@@ -115,13 +125,29 @@ Row 1`),
     );
 
     it.each`
-      songContent                            | explanation
-      ${createSongMock(['v1', 'v3'])}        | ${"Supported v's chars in the bad order."}
-      ${createSongMock(['v1', 'v2', 'v6'])}  | ${"Supported v's chars in the bad order."}
-      ${createSongMock(['v3', 'v9', 'v12'])} | ${"Supported v's chars in the bad order."}
-      ${createSongMock(['c', 'c2', 'c4'])}   | ${"Supported c's chars in the bad order."}
-      ${createSongMock(['b', 'b2', 'b4'])}   | ${"Supported b's chars in the bad order."}
-      ${createSongMock(['p', 'p2', 'p4'])}   | ${"Supported p's chars in the bad order."}
+      songContent                                 | explanation
+      ${createSongMock(['v1', 'v3'])}             | ${"Supported v's chars in the bad order."}
+      ${createSongMock(['v1', 'v2', 'v6'])}       | ${"Supported v's chars in the bad order."}
+      ${createSongMock(['v3', 'v9', 'v12'])}      | ${"Supported v's chars in the bad order."}
+      ${createSongMock(['c', 'c2', 'c4'])}        | ${"Supported c's chars in the bad order."}
+      ${createSongMock(['b', 'b2', 'b4'])}        | ${"Supported b's chars in the bad order."}
+      ${createSongMock(['p', 'p2', 'p4'])}        | ${"Supported p's chars in the bad order."}
+      ${createSongMock(['v1.1', 'v1.3'])}         | ${'Wrong sub section order (missing v1.2).'}
+      ${createSongMock(['v1.1', 'v2.1'])}         | ${'Wrong sub section order (not required to have v1.1).'}
+      ${createSongMock(['v1.1', 'v1.2', 'v3.1'])} | ${'Wrong sub section order (missing v2).'}
+      ${createSongMock(['v1', 'v1.2'])}           | ${'Wrong sub section order (v1 and v1.2 together do not make sense).'}
+      ${createSongMock(['c1.1', 'c1.3'])}         | ${'Wrong sub section order (missing c1.2).'}
+      ${createSongMock(['c1.1', 'c2.1'])}         | ${'Wrong sub section order (not required to have c1.1).'}
+      ${createSongMock(['c1.1', 'c1.2', 'vc.1'])} | ${'Wrong sub section order (missing c2).'}
+      ${createSongMock(['c1', 'c1.2'])}           | ${'Wrong sub section order (c1 and c1.2 together do not make sense).'}
+      ${createSongMock(['p1.1', 'p1.3'])}         | ${'Wrong sub section order (missing p1.2).'}
+      ${createSongMock(['p1.1', 'p2.1'])}         | ${'Wrong sub section order (not required to have p1.1).'}
+      ${createSongMock(['p1.1', 'p1.2', 'vp.1'])} | ${'Wrong sub section order (missing p2).'}
+      ${createSongMock(['p1', 'p1.2'])}           | ${'Wrong sub section order (p1 and p1.2 together do not make sense).'}
+      ${createSongMock(['b1.1', 'b1.3'])}         | ${'Wrong sub section order (missing b1.2).'}
+      ${createSongMock(['b1.1', 'b2.1'])}         | ${'Wrong sub section order (not required to have b1.1).'}
+      ${createSongMock(['b1.1', 'b1.2', 'vb.1'])} | ${'Wrong sub section order (missing b2).'}
+      ${createSongMock(['b1', 'b1.2'])}           | ${'Wrong sub section order (b1 and b1.2 together do not make sense).'}
     `(
       'should reject correctly for a `$explanation`',
       ({ songContent, explanation }) => {

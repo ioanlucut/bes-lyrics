@@ -6,6 +6,8 @@ export const COMMA = ',';
 
 export const COLON = ':';
 
+export const DOT = '.';
+
 export const TXT_EXTENSION = '.txt';
 
 export const TEST_FILE = 'TEMPLATE.txt';

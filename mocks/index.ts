@@ -6,6 +6,12 @@ export const SIMPLE_SONG_MOCK_FILE_CONTENT = fs
   .readFileSync(path.resolve(__dirname, SIMPLE_SONG_MOCK_FILE_NAME))
   .toString();
 
+export const SONG_WITH_SUBSECTIONS_MOCK_FILE_NAME =
+  'songWithSubsections.mock.txt';
+export const SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT = fs
+  .readFileSync(path.resolve(__dirname, SONG_WITH_SUBSECTIONS_MOCK_FILE_NAME))
+  .toString();
+
 export const SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_NAME =
   'songWithMismatchingContent.mock.txt';
 export const SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_CONTENT = fs
