@@ -9,8 +9,8 @@ import {
   HASH,
   logFileWithLinkInConsole,
   logProcessingFile,
+  TXT_EXTENSION,
 } from '../src/index.js';
-import { TXT_EXTENSION } from '../src/constants.js';
 
 dotenv.config();
 
@@ -21,9 +21,10 @@ const runValidationForDir = async (dir: string) => {
       .map((filePath) => {
         const fileName = path.basename(filePath);
 
-        logProcessingFile(fileName, 'version hash validation');
+        logProcessingFile(fileName, 'content hash validation');
         logFileWithLinkInConsole(filePath);
 
+        // TODO (take from the file)
         return last(fileName.split(HASH));
       }),
     (current, index, iteratee) => includes(iteratee, current, index + 1),

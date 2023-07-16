@@ -7,11 +7,12 @@ import recursive from 'recursive-readdir';
 import chalk from 'chalk';
 import {
   assemblyCharsStats,
+  ERROR_CODE,
   logFileWithLinkInConsole,
   logProcessingFile,
+  TXT_EXTENSION,
   verifyStructure,
 } from '../src/index.js';
-import { ERROR_CODE, TXT_EXTENSION } from '../src/constants.js';
 
 dotenv.config();
 

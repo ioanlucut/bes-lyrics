@@ -58,8 +58,23 @@ export const SongSection = {
 };
 
 export enum SongMeta {
+  /**
+   * Alternative song title
+   */
   ALTERNATIVE = 'alternative',
+
+  /**
+   * Song author
+   */
   AUTHOR = 'author',
+
+  /**
+   * Song version (can be multiple / duplicated)
+   */
   VERSION = 'version',
+
+  /**
+   * Song content hash (used to detect changes between the corrections & do partial deployments)
+   */
   CONTENT_HASH = 'contentHash',
 }
