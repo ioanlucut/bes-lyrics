@@ -4,21 +4,18 @@ import * as process from 'process';
 import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
 import { isEqual, trim } from 'lodash-es';
-import * as crypto from 'node:crypto';
 import chalk from 'chalk';
 import {
+  computeUniqueContentHash,
+  EMPTY_STRING,
   logFileWithLinkInConsole,
+  logProcessingFile,
   lyricsFileNameReprocessor,
   SongSection,
-  EMPTY_STRING,
   TXT_EXTENSION,
-  computeUniqueContentHash,
 } from '../src/index.js';
-import { fileURLToPath } from 'url';
 
 dotenv.config();
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const run = async (dir: string) => {
   console.log(`"Reprocessing file names from ${dir} directory.."`);
@@ -28,6 +25,8 @@ const run = async (dir: string) => {
     .forEach((filePath) => {
       const existingContent = fs.readFileSync(filePath).toString();
       const fileName = path.basename(filePath);
+      logProcessingFile(fileName, 'file name');
+      logFileWithLinkInConsole(filePath);
 
       const title = existingContent
         .replaceAll('^(\r)\n', '\r\n')
@@ -42,9 +41,6 @@ const run = async (dir: string) => {
       );
       const hasNoChange = isEqual(fileName, newFileName);
 
-      console.group(chalk.cyan(`Processing "${fileName}".`));
-      logFileWithLinkInConsole(filePath);
-
       if (hasNoChange) {
         console.log(chalk.yellow('Skipped the file.'));
         console.log();
@@ -53,13 +49,10 @@ const run = async (dir: string) => {
         return;
       }
 
-      const nextPathName = path.join(
-        __dirname,
-        path.dirname(filePath),
-        newFileName,
+      fs.writeFileSync(
+        path.join(path.dirname(filePath), newFileName),
+        existingContent,
       );
-
-      fs.writeFileSync(nextPathName, existingContent);
       fs.unlinkSync(filePath);
 
       console.log(chalk.green(`Renamed to "${newFileName}"`));

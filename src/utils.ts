@@ -1,10 +1,16 @@
 import { flattenDeep, isEqual, trim, uniq } from 'lodash-es';
+import * as crypto from 'crypto';
+import path from 'path';
+import { fileURLToPath } from 'url';
 import { SequenceChar } from './types.js';
 import { EMPTY_STRING, TEST_ENV } from './constants.js';
-import * as crypto from 'crypto';
+import chalk from 'chalk';
 
 export const logFileWithLinkInConsole = (filePath: string) =>
   console.log(`at ${filePath}:1:1`);
+
+export const logProcessingFile = (fileName: string, workType: string) =>
+  console.log(chalk.cyan(`Processing (${workType}): "${fileName}".`));
 
 export const getTitleContent = (titleContent: string) =>
   titleContent
@@ -65,7 +71,9 @@ export const getUniqueCharsAndRelevantChars = (content: string) =>
 export const computeUniqueContentHash = (content: string) =>
   crypto
     .createHash('shake256', {
-      outputLength: 1,
+      outputLength: 3,
     })
     .update(getUniqueCharsAndRelevantChars(content).join(EMPTY_STRING), 'utf8')
     .digest('hex');
+
+export const getDirName = () => path.dirname(fileURLToPath(import.meta.url));

@@ -7,7 +7,12 @@ import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
-import { TXT_EXTENSION, contentReprocessor } from '../src/index.js';
+import {
+  TXT_EXTENSION,
+  contentReprocessor,
+  logProcessingFile,
+  logFileWithLinkInConsole,
+} from '../src/index.js';
 
 dotenv.config();
 
@@ -19,6 +24,8 @@ const run = async (dir: string) => {
     .forEach((filePath) => {
       const songContent = fs.readFileSync(filePath).toString();
       const fileName = path.basename(filePath);
+      logProcessingFile(fileName, 'file contents');
+      logFileWithLinkInConsole(filePath);
 
       fs.writeFileSync(
         path.join(path.dirname(filePath), fileName),

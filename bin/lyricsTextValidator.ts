@@ -8,18 +8,21 @@ import chalk from 'chalk';
 import {
   assemblyCharsStats,
   logFileWithLinkInConsole,
+  logProcessingFile,
   verifyStructure,
 } from '../src/index.js';
 import { ERROR_CODE, TXT_EXTENSION } from '../src/constants.js';
 
 dotenv.config();
 
-const runValidationForDir = async (fileDir: string) => {
-  const arrayOfFileNameAndContent = (await recursive(fileDir))
+const runValidationForDir = async (dir: string) => {
+  const arrayOfFileNameAndContent = (await recursive(dir))
     .filter((filePath) => filePath.endsWith(TXT_EXTENSION))
     .map((filePath) => {
       const fileName = path.basename(filePath);
       const fileContent = fs.readFileSync(filePath).toString();
+      logProcessingFile(fileName, 'content validation');
+      logFileWithLinkInConsole(filePath);
 
       return { filePath, fileName, fileContent };
     });
@@ -101,6 +104,8 @@ const runValidationForDir = async (fileDir: string) => {
   if (isStructureErroneous) {
     process.exit(ERROR_CODE);
   }
+
+  console.log(`Everything is ok within ${dir} dir.`);
 };
 
 // ---
