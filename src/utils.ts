@@ -73,7 +73,5 @@ export const computeUniqueContentHash = (content: string) =>
     .createHash('shake256', {
       outputLength: 3,
     })
-    .update(getUniqueCharsAndRelevantChars(content).join(EMPTY_STRING), 'utf8')
+    .update(content, 'utf8')
     .digest('hex');
-
-export const getDirName = () => path.dirname(fileURLToPath(import.meta.url));

@@ -87,7 +87,7 @@ describe('utils', () => {
     it('should work correctly', () => {
       expect(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
-      ).toMatchInlineSnapshot(`"89"`);
+      ).toMatchInlineSnapshot(`"655954"`);
 
       expect(computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).toEqual(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
@@ -105,15 +105,15 @@ describe('utils', () => {
     it('should update correctly', () => {
       expect(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' '),
-      ).toMatchInlineSnapshot(`"89"`);
+      ).toMatchInlineSnapshot(`"f827db"`);
 
       expect(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X'),
-      ).toMatchInlineSnapshot(`"49"`);
+      ).toMatchInlineSnapshot(`"8131b7"`);
 
       expect(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y'),
-      ).toMatchInlineSnapshot(`"d4"`);
+      ).toMatchInlineSnapshot(`"1e90a4"`);
     });
   });
 });

@@ -8,6 +8,8 @@ export const COLON = ':';
 
 export const DOT = '.';
 
+export const HASH = '#';
+
 export const TXT_EXTENSION = '.txt';
 
 export const TEST_FILE = 'TEMPLATE.txt';
