@@ -1,5 +1,5 @@
 [title]
-Rugă {author: {Cor copii Dynamis}}
+Rugă {author: {Cor copii Dynamis}, contentHash: {#609930}}
 
 [sequence]
 v1,v2,v3,v4,v5

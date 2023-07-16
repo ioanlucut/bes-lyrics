@@ -1,5 +1,5 @@
 [title]
-Arată-mi voia Ta {author: {Cor copii Dynamis}}
+Arată-mi voia Ta {author: {Cor copii Dynamis}, contentHash: {#6e985e}}
 
 [sequence]
 v1,c,v2,c2

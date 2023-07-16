@@ -1,5 +1,5 @@
 [title]
-Mai mult decât o poveste {author: {Cor copii Dynamis}}
+Mai mult decât o poveste {author: {Cor copii Dynamis}, contentHash: {#c5e295}}
 
 [sequence]
 v1,c,v2,c,b,c

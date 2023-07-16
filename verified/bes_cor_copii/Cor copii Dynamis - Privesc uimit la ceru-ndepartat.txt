@@ -1,5 +1,5 @@
 [title]
-Privesc uimit la ceru-ndepărtat {author: {Cor copii Dynamis}}
+Privesc uimit la ceru-ndepărtat {author: {Cor copii Dynamis}, contentHash: {#9c0ba2}}
 
 [sequence]
 v1,c,c2,c,b,c

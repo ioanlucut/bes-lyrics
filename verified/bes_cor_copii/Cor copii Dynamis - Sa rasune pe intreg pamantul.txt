@@ -1,5 +1,5 @@
 [title]
-Să răsune pe întreg pământul {author: {Cor copii Dynamis}}
+Să răsune pe întreg pământul {author: {Cor copii Dynamis}, contentHash: {#84af18}}
 
 [sequence]
 v1,v2,v3,v1,v2,v3,e

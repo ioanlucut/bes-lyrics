@@ -1,5 +1,5 @@
 [title]
-O, ce veste minunată {author: {Cor copii Dynamis}}
+O, ce veste minunată {author: {Cor copii Dynamis}, contentHash: {#cf3df0}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Cu toții strigați {author: {Cor copii Dynamis}}
+Cu toții strigați {author: {Cor copii Dynamis}, contentHash: {#e3166f}}
 
 [sequence]
 v1,c,c2,v2,c,b,c2

@@ -6,11 +6,17 @@ import recursive from 'recursive-readdir';
 import chalk from 'chalk';
 import {
   ERROR_CODE,
+  getHashContentFromSong,
+  getSongInSections,
   HASH,
   logFileWithLinkInConsole,
   logProcessingFile,
+  SongMeta,
+  SongSection,
   TXT_EXTENSION,
 } from '../src/index.js';
+import assert from 'node:assert';
+import fs from 'fs';
 
 dotenv.config();
 
@@ -20,12 +26,18 @@ const runValidationForDir = async (dir: string) => {
       .filter((filePath) => filePath.endsWith(TXT_EXTENSION))
       .map((filePath) => {
         const fileName = path.basename(filePath);
-
+        const fileContent = fs.readFileSync(filePath).toString();
         logProcessingFile(fileName, 'content hash validation');
         logFileWithLinkInConsole(filePath);
 
-        // TODO (take from the file)
-        return last(fileName.split(HASH));
+        const maybeTitle = getSongInSections(fileContent)[1];
+
+        assert.ok(
+          maybeTitle.includes(SongMeta.CONTENT_HASH),
+          `The ${SongMeta.CONTENT_HASH} should be defined.`,
+        );
+
+        return getHashContentFromSong(maybeTitle);
       }),
     (current, index, iteratee) => includes(iteratee, current, index + 1),
   );

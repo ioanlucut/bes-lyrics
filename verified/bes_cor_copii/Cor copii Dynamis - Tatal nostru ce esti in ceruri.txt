@@ -1,5 +1,5 @@
 [title]
-Tatăl nostru, ce ești în ceruri {author: {Cor copii Dynamis}}
+Tatăl nostru, ce ești în ceruri {author: {Cor copii Dynamis}, contentHash: {#fca8a0}}
 
 [sequence]
 v1,v2,v3

@@ -1,7 +1,7 @@
-import { flattenDeep, isEqual, trim, uniq } from 'lodash-es';
+import { flattenDeep, isEqual, last, trim, uniq } from 'lodash-es';
 import * as crypto from 'crypto';
 import { SequenceChar } from './types.js';
-import { EMPTY_STRING, TEST_ENV } from './constants.js';
+import { EMPTY_STRING, HASH, TEST_ENV } from './constants.js';
 import chalk from 'chalk';
 
 export const logFileWithLinkInConsole = (filePath: string) =>
@@ -79,3 +79,6 @@ export const getSongInSections = (songText: string) =>
     .split(/(\[.*])/gim)
     .filter(Boolean)
     .map(trim);
+
+export const getHashContentFromSong = (titleContent: string) =>
+  (last(titleContent.split(HASH)) as string).replaceAll('}', EMPTY_STRING);

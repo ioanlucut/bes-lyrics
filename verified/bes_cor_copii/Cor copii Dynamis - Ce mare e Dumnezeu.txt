@@ -1,5 +1,5 @@
 [title]
-Ce mare e Dumnezeu {author: {Cor copii Dynamis}}
+Ce mare e Dumnezeu {author: {Cor copii Dynamis}, contentHash: {#e9fec3}}
 
 [sequence]
 c,v1,v2,c

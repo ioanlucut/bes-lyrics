@@ -1,5 +1,5 @@
 [title]
-Domnul este milostiv și plin de îndurare {author: {Cor copii Dynamis}}
+Domnul este milostiv și plin de îndurare {author: {Cor copii Dynamis}, contentHash: {#ce2987}}
 
 [sequence]
 c,b,c,c2,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-În Ghetsimani Isus venea în noaptea grea {author: {Cor copii Dynamis}}
+În Ghetsimani Isus venea în noaptea grea {author: {Cor copii Dynamis}, contentHash: {#c07eb2}}
 
 [sequence]
 v1,v2,v3

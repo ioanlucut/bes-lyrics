@@ -1,5 +1,5 @@
 [title]
-Habothim ba’hashem kehar tzion {author: {Cor copii Dynamis}}
+Habothim ba’hashem kehar tzion {author: {Cor copii Dynamis}, contentHash: {#716615}}
 
 [sequence]
 v1,b,v2,c,v3,b2,c
