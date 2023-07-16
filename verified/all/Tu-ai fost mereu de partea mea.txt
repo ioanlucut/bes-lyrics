@@ -1,5 +1,5 @@
 [title]
-Tu-ai fost mereu de partea mea {contentHash: {#67326a}}
+Tu-ai fost mereu de partea mea {contentHash: {#67326a}, id: {i5eqm9ngLJTRCGRsY8oyqo}}
 
 [sequence]
 v1,c,v2,c,v3,c

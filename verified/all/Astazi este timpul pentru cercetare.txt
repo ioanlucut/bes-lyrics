@@ -1,5 +1,5 @@
 [title]
-Astăzi este timpul pentru cercetare {contentHash: {#e8dc62}}
+Astăzi este timpul pentru cercetare {contentHash: {#e8dc62}, id: {ksFUp2ZZURhgmmcLVFurLq}}
 
 [sequence]
 v1,c,v2,c,v3,c

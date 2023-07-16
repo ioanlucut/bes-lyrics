@@ -1,5 +1,5 @@
 [title]
-În vâltoarea vieții, când ești clătinat {contentHash: {#2cb962}}
+În vâltoarea vieții, când ești clătinat {contentHash: {#2cb962}, id: {3MKkKKfMVBt74bqvtwq83k}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Doamne, n-am aur, nici argint {contentHash: {#1a769b}}
+Doamne, n-am aur, nici argint {contentHash: {#1a769b}, id: {9BMBYbCrdu1c2uR3RPFETG}}
 
 [sequence]
 v1,c,v2,c

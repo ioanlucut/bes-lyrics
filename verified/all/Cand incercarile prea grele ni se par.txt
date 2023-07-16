@@ -1,5 +1,5 @@
 [title]
-Când încercările prea grele ni se par {contentHash: {#97a5b0}}
+Când încercările prea grele ni se par {contentHash: {#97a5b0}, id: {vB7wMr7hxjCaP7t68huFLf}}
 
 [sequence]
 v1,c,v2,c,v3,c

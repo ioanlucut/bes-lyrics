@@ -1,5 +1,5 @@
 [title]
-Când necazul apasă greu în viața mea {contentHash: {#30b941}}
+Când necazul apasă greu în viața mea {contentHash: {#30b941}, id: {6y7V9D76DDj5VSudn9bJB3}}
 
 [sequence]
 v1,c,v2,c

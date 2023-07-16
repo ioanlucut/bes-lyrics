@@ -1,5 +1,5 @@
 [title]
-Renunțând la gândurile mele {contentHash: {#4b0b1f}}
+Renunțând la gândurile mele {contentHash: {#4b0b1f}, id: {7s9u2ekANupW1efx2oEPvK}}
 
 [sequence]
 v1,c,v1,c

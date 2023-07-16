@@ -1,5 +1,5 @@
 [title]
-De ziua ta {contentHash: {#1d22d5}}
+De ziua ta {contentHash: {#1d22d5}, id: {rXu1UZHKD6MPGJCLYKEgmw}}
 
 [sequence]
 v1,c,b,c

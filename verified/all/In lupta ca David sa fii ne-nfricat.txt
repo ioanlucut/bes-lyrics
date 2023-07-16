@@ -1,5 +1,5 @@
 [title]
-În luptă, ca David, să fii ne-nfricat {contentHash: {#cf37d1}}
+În luptă, ca David, să fii ne-nfricat {contentHash: {#cf37d1}, id: {34mYYweeQv4gNw8ygq8Pm2}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

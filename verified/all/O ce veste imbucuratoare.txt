@@ -1,5 +1,5 @@
 [title]
-O, ce veste îmbucurătoare {contentHash: {#9b8c36}}
+O, ce veste îmbucurătoare {contentHash: {#9b8c36}, id: {vxrRguzCCsA2hekuccZcvY}}
 
 [sequence]
 v1,c,v2,c,v3,c

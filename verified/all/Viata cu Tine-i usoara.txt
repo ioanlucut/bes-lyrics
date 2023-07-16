@@ -1,5 +1,5 @@
 [title]
-Viața cu Tine-i ușoară {contentHash: {#6e2012}}
+Viața cu Tine-i ușoară {contentHash: {#6e2012}, id: {4zYoziNs1HLULrS8wWdEGj}}
 
 [sequence]
 v1,c,v2,c,v3,c

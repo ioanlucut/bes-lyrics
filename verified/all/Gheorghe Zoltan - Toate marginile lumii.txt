@@ -1,5 +1,5 @@
 [title]
-Toate marginile lumii {author: {Gheorghe Zoltan}, contentHash: {#bb3f75}}
+Toate marginile lumii {author: {Gheorghe Zoltan}, contentHash: {#bb3f75}, id: {hCgxs69SCqLUmDmfxkhK3c}}
 
 [sequence]
 v1,c,v2,c

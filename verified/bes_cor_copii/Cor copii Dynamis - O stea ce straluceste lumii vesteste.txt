@@ -1,5 +1,5 @@
 [title]
-O stea ce strălucește, lumii vestește {author: {Cor copii Dynamis}, contentHash: {#209632}}
+O stea ce strălucește, lumii vestește {author: {Cor copii Dynamis}, contentHash: {#209632}, id: {xkD6H7MeDnaqMtzGfzhZWM}}
 
 [sequence]
 v1,c,v2,c,b,v3,v4,c,e

@@ -1,5 +1,5 @@
 [title]
-Multă pace am găsit {contentHash: {#8479eb}}
+Multă pace am găsit {contentHash: {#8479eb}, id: {k5Tzbg3F2WupWLUGvcoX9f}}
 
 [sequence]
 v1,p,c,v2,p,c,b,p,c

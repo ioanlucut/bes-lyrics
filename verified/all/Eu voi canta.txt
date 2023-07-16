@@ -1,5 +1,5 @@
 [title]
-Eu voi cânta {contentHash: {#bbfaec}}
+Eu voi cânta {contentHash: {#bbfaec}, id: {vZqSHbH13TpcsZGdHHJMz3}}
 
 [sequence]
 v1,c,v2,c

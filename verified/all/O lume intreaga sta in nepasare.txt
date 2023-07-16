@@ -1,5 +1,5 @@
 [title]
-O lume întreagă stă în nepăsare {contentHash: {#81de04}}
+O lume întreagă stă în nepăsare {contentHash: {#81de04}, id: {m7rByqHXyGxwSquRyPW93n}}
 
 [sequence]
 v1,c,v2,c,v3,c

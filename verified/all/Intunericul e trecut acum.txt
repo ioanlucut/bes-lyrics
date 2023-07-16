@@ -1,5 +1,5 @@
 [title]
-Întunericul e trecut acum {contentHash: {#c69389}}
+Întunericul e trecut acum {contentHash: {#c69389}, id: {k7LorwdbojnXefYgQNRqjd}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c

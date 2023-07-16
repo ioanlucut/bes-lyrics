@@ -1,5 +1,5 @@
 [title]
-Un copil {author: {Amadeo, Cornel Matei}, contentHash: {#016840}}
+Un copil {author: {Amadeo, Cornel Matei}, contentHash: {#016840}, id: {eSgiG4REedx4c7MMUyS4Wm}}
 
 [sequence]
 v1,c,v2,c,v3,c

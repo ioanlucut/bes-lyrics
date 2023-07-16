@@ -1,5 +1,5 @@
 [title]
-Lângă mine mereu ești Tu Domnul meu {author: {Cor copii Dynamis}, contentHash: {#310f9b}}
+Lângă mine mereu ești Tu Domnul meu {author: {Cor copii Dynamis}, contentHash: {#310f9b}, id: {xdBhqpWbUs8e5UBbDKYvj6}}
 
 [sequence]
 v1,c,v2,c

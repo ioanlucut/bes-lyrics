@@ -1,5 +1,5 @@
 [title]
-Astăzi vin, bunule Tată {contentHash: {#56d23c}}
+Astăzi vin, bunule Tată {contentHash: {#56d23c}, id: {iYbHkj7vKZBHwjvexWk3CB}}
 
 [sequence]
 v1,c,v2,c

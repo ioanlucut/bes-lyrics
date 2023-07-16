@@ -1,5 +1,5 @@
 [title]
-Vreau prezența Ta {contentHash: {#d72b17}}
+Vreau prezența Ta {contentHash: {#d72b17}, id: {o1EzHh7cnX9SbRogMRDmXy}}
 
 [sequence]
 v1,c,b,v2,c,v3,c

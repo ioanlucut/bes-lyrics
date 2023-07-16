@@ -1,5 +1,5 @@
 [title]
-Am greșit {author: {Otto Pascal}, contentHash: {#24ff0b}}
+Am greșit {author: {Otto Pascal}, contentHash: {#24ff0b}, id: {psXcU7wQXxPW1gN9pE9rwT}}
 
 [sequence]
 v1,c,v2,c

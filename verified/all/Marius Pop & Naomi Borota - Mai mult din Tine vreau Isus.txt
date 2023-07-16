@@ -1,5 +1,5 @@
 [title]
-Mai mult din Tine vreau, Isus {author: {Marius Pop & Naomi Borota}, contentHash: {#159c3b}}
+Mai mult din Tine vreau, Isus {author: {Marius Pop & Naomi Borota}, contentHash: {#159c3b}, id: {6vXiv6yBKxmCuw8G8CqiHe}}
 
 [sequence]
 c,v1,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Drumul către casă {author: {Not an Idol}, contentHash: {#56e178}}
+Drumul către casă {author: {Not an Idol}, contentHash: {#56e178}, id: {euLzdj19faNsMMiS7RxMjL}}
 
 [sequence]
 v1,v2,c,v3,c

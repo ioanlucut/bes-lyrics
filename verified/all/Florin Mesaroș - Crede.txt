@@ -1,5 +1,5 @@
 [title]
-Crede {author: {Florin Mesaroș}, contentHash: {#adbe76}}
+Crede {author: {Florin Mesaroș}, contentHash: {#adbe76}, id: {7vQcS8fAZb8MLyapxYi3ZP}}
 
 [sequence]
 v1,c,v2,c,c

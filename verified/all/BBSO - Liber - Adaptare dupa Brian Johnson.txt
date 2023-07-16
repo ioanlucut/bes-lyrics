@@ -1,5 +1,5 @@
 [title]
-Liber {alternative: {Adaptare după Brian Johnson, Jonathan David Helser, Joel Case}, author: {BBSO}, contentHash: {#417221}}
+Liber {alternative: {Adaptare după Brian Johnson, Jonathan David Helser, Joel Case}, author: {BBSO}, contentHash: {#417221}, id: {2Bmui4M4wzv7FuNSvb4U62}}
 
 [sequence]
 v1,c,v2,b,c2

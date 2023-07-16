@@ -1,5 +1,5 @@
 [title]
-Noi ne bizuim pe Domnul {contentHash: {#9f6e4e}}
+Noi ne bizuim pe Domnul {contentHash: {#9f6e4e}, id: {g7RzjgR432z8ExBwnq3Pqz}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

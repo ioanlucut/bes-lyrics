@@ -1,5 +1,5 @@
 [title]
-E o nouă zi 10.000 motive {author: {Alin Timofte}, contentHash: {#6c4ed2}}
+E o nouă zi 10.000 motive {author: {Alin Timofte}, contentHash: {#6c4ed2}, id: {9PVrCg4NmVmNvAbiPqKXya}}
 
 [sequence]
 c,v1,c,v2,c,v3

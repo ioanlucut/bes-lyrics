@@ -1,5 +1,5 @@
 [title]
-Rege al Regilor {alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {#14b70b}}
+Rege al Regilor {alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {#14b70b}, id: {oAkczBTZt1Qo1soYbdyNzv}}
 
 [sequence]
 v1,c,v2,c,v3,c

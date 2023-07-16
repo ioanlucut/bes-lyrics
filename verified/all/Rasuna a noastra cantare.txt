@@ -1,5 +1,5 @@
 [title]
-Răsună a noastră cântare {contentHash: {#518ee7}}
+Răsună a noastră cântare {contentHash: {#518ee7}, id: {b5qd2NZ8q3FYDXR2PKwZup}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

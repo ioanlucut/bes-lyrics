@@ -1,5 +1,5 @@
 [title]
-Cântă, suflet al meu, pentru Dumnezeu {contentHash: {#ace524}}
+Cântă, suflet al meu, pentru Dumnezeu {contentHash: {#ace524}, id: {abCwAsZpAWGVzGNBWEfyhB}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cântăm voioși {contentHash: {#c09b19}}
+Cântăm voioși {contentHash: {#c09b19}, id: {u6VaZsgiNVPskbEiRKMFvm}}
 
 [sequence]
 v1,c,v2,c,v3,c

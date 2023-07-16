@@ -1,5 +1,5 @@
 [title]
-Doresc în inima mea {contentHash: {#c50c44}}
+Doresc în inima mea {contentHash: {#c50c44}, id: {fwAJyqUmCRxUchXNWRRghZ}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Tu ești iubirea mea din cer {contentHash: {#2ad73a}}
+Tu ești iubirea mea din cer {contentHash: {#2ad73a}, id: {ovcVkgJeZ3v3tsrotM5NXZ}}
 
 [sequence]
 v1,v2,c

@@ -1,5 +1,5 @@
 [title]
-Leagă-ți inima de Cer {author: {Grupul Domini}, contentHash: {#7267b2}}
+Leagă-ți inima de Cer {author: {Grupul Domini}, contentHash: {#7267b2}, id: {qpJzqyiDCuLbtkZqn5Ru2f}}
 
 [sequence]
 c,v1,c,b,c

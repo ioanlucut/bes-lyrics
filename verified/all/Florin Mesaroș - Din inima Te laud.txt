@@ -1,5 +1,5 @@
 [title]
-Din inimă Te laud {author: {Florin Mesaroș}, contentHash: {#069e64}}
+Din inimă Te laud {author: {Florin Mesaroș}, contentHash: {#069e64}, id: {pi5bQFmT3BT8gJ6zyzQ7ux}}
 
 [sequence]
 v1,c,v2,c

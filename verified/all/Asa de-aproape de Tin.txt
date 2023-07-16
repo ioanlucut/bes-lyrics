@@ -1,5 +1,5 @@
 [title]
-Așa de-aproape de Tin’ {contentHash: {#0f8b90}}
+Așa de-aproape de Tin’ {contentHash: {#0f8b90}, id: {fSGxqfrDBuNA5FhUnEaj3v}}
 
 [sequence]
 c,v1,c,v2,c2

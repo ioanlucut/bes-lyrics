@@ -1,5 +1,5 @@
 [title]
-Azi cântă, frate, că tu ești salvat {contentHash: {#60c30b}}
+Azi cântă, frate, că tu ești salvat {contentHash: {#60c30b}, id: {k7Hki5iMUctDZ7vfLyuspb}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

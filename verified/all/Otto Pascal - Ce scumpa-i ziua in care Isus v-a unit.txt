@@ -1,5 +1,5 @@
 [title]
-Ce scumpă-i ziua în care Isus v-a unit {author: {Otto Pascal}, contentHash: {#4b144d}}
+Ce scumpă-i ziua în care Isus v-a unit {author: {Otto Pascal}, contentHash: {#4b144d}, id: {bRRcKZEhCeoB6g5xgcaYRJ}}
 
 [sequence]
 v1,c,v2,c

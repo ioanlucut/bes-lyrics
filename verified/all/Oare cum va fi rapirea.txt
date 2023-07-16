@@ -1,5 +1,5 @@
 [title]
-Oare cum va fi răpirea {contentHash: {#20fd7b}}
+Oare cum va fi răpirea {contentHash: {#20fd7b}, id: {mRUrzgV8Rypr3zQZwtjxe6}}
 
 [sequence]
 v1,c,v2,c,v3,c

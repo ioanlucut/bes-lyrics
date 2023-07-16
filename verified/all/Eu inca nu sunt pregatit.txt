@@ -1,5 +1,5 @@
 [title]
-Eu încă nu sunt pregătit {contentHash: {#0536b7}}
+Eu încă nu sunt pregătit {contentHash: {#0536b7}, id: {eYUVi96kx5wM5WZ9CAQtWJ}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

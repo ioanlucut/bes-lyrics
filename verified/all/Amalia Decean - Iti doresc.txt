@@ -1,5 +1,5 @@
 [title]
-Îți doresc {author: {Amalia Decean, Monica Turtoi}, contentHash: {#451095}}
+Îți doresc {author: {Amalia Decean, Monica Turtoi}, contentHash: {#451095}, id: {fvudc4xSBae4s4pAtGW8nH}}
 
 [sequence]
 c,v1,p,c,v2,p,c

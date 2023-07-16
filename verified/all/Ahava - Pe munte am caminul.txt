@@ -1,5 +1,5 @@
 [title]
-Pe munte am căminul {author: {Ahava}, contentHash: {#3f1524}}
+Pe munte am căminul {author: {Ahava}, contentHash: {#3f1524}, id: {t76hcfJDC5vVBU5n1KaVCg}}
 
 [sequence]
 v1,c,v2,c,v3,c

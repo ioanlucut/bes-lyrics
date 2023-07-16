@@ -1,5 +1,5 @@
 [title]
-Rugă pentru generație {author: {Otto Pascal}, contentHash: {#39f6da}}
+Rugă pentru generație {author: {Otto Pascal}, contentHash: {#39f6da}, id: {jMz2GGNN1VALHQcwENTQef}}
 
 [sequence]
 v1,b,c,v2,b2,c

@@ -3,6 +3,7 @@ import * as crypto from 'crypto';
 import { SequenceChar } from './types.js';
 import { EMPTY_STRING, HASH, TEST_ENV } from './constants.js';
 import chalk from 'chalk';
+import short from 'short-uuid';
 
 export const logFileWithLinkInConsole = (filePath: string) =>
   console.log(`at ${filePath}:1:1`);
@@ -82,3 +83,5 @@ export const getSongInSections = (songText: string) =>
 
 export const getHashContentFromSong = (titleContent: string) =>
   (last(titleContent.split(HASH)) as string).replaceAll('}', EMPTY_STRING);
+
+export const getUniqueId = () => short.generate();

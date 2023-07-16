@@ -1,5 +1,5 @@
 [title]
-Nori negri de-ar veni, valuri mari de-ar lovi {contentHash: {#83a24c}}
+Nori negri de-ar veni, valuri mari de-ar lovi {contentHash: {#83a24c}, id: {uKGUaCm6329jimC5bicLPx}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Dacă două mâini rebele {author: {Ruben Andruș}, contentHash: {#41709c}}
+Dacă două mâini rebele {author: {Ruben Andruș}, contentHash: {#41709c}, id: {nXhLdGXf6PoaosKLgLduqt}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Renunță-n mersul vieții tale {author: {Shalom}, contentHash: {#8ce8fd}}
+Renunță-n mersul vieții tale {author: {Shalom}, contentHash: {#8ce8fd}, id: {d389nHyPSjy1AngdHnQzxD}}
 
 [sequence]
 v1,v2,v3,v4

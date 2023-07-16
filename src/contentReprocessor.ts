@@ -3,6 +3,7 @@ import { CARRIAGE_RETURN, COMMA, EMPTY_STRING, NEW_LINE } from './constants.js';
 import { SongSection } from './types.js';
 import {
   computeUniqueContentHash,
+  getUniqueId,
   isKnownSongSequence,
   isTestEnv,
 } from './utils.js';
@@ -50,7 +51,11 @@ export const reprocess = (songContent: string) => {
     .replaceAll('[ending]', SongSection.ENDING)
     .replaceAll('[Sequence]', SongSection.SEQUENCE)
     .replaceAll('[Title]', SongSection.TITLE)
-    .replaceAll('#TEMP', `#${computeUniqueContentHash(songContent)}`)
+    .replaceAll('#TEMP_ID', getUniqueId())
+    .replaceAll(
+      '#TEMP_HASH_CONTEN',
+      `#${computeUniqueContentHash(songContent)}`,
+    )
     .replaceAll(
       isTestEnv() ? /(\[sequence])(\n.*)/gim : /(\[sequence])(\r\n.*)/gim,
       (ignore, firstMatch, secondMatch) => {

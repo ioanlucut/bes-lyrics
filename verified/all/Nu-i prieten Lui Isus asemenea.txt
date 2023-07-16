@@ -1,5 +1,5 @@
 [title]
-Nu-i prieten Lui Isus asemenea {contentHash: {#7be35c}}
+Nu-i prieten Lui Isus asemenea {contentHash: {#7be35c}, id: {oe2fTQ4NgB7fgwJh4zDXQf}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

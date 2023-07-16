@@ -1,5 +1,5 @@
 [title]
-Iertare {author: {Not an Idol}, contentHash: {#8f1f38}}
+Iertare {author: {Not an Idol}, contentHash: {#8f1f38}, id: {pBrRh9VgSbsTz52aSMt1MT}}
 
 [sequence]
 v1,c,v2,c,c

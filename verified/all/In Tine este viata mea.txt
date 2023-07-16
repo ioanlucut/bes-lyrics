@@ -1,5 +1,5 @@
 [title]
-În Tine este viața mea {contentHash: {#176030}}
+În Tine este viața mea {contentHash: {#176030}, id: {feDqDfeLzRwHNq6iRGryw8}}
 
 [sequence]
 c,v1,c,v1,c

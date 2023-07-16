@@ -1,5 +1,5 @@
 [title]
-Cuprins am fost de uimire {contentHash: {#cf5ea7}}
+Cuprins am fost de uimire {contentHash: {#cf5ea7}, id: {9wGAaLtf8hruHhqG9e5FDm}}
 
 [sequence]
 v1,c,v2,c,v3,c

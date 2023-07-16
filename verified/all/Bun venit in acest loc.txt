@@ -1,5 +1,5 @@
 [title]
-Bun venit în acest loc {contentHash: {#f8878d}}
+Bun venit în acest loc {contentHash: {#f8878d}, id: {riTcmvW59wbDWGzJwU8f1D}}
 
 [sequence]
 v1,c,v1,c

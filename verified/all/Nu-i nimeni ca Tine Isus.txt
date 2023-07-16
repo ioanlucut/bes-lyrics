@@ -1,5 +1,5 @@
 [title]
-Nu-i nimeni ca Tine, Isus {contentHash: {#a29903}}
+Nu-i nimeni ca Tine, Isus {contentHash: {#a29903}, id: {eyVWGDr7PiUePk9xytunXZ}}
 
 [sequence]
 v1,v2,v3,v4,v5

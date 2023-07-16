@@ -13,6 +13,7 @@
     "lodash-es": "^4.17.21",
     "nspell": "^2.1.5",
     "recursive-readdir": "^2.2.3",
+    "short-uuid": "^4.2.2",
     "string-similarity": "^4.0.4"
   },
   "devDependencies": {

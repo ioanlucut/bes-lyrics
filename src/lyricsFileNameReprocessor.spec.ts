@@ -6,7 +6,7 @@ describe('lyricsFileNameReprocessor', () => {
     expect(
       deriveFromTitle(ALLOWED_CHARS.join(EMPTY_STRING)),
     ).toMatchInlineSnapshot(
-      `"&#()-.1234567890ABCDEFGHIJKLMNOPRSTUVWXZY[\\]abcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`,
+      `"&#()-.1234567890ABCDEFGHIJKLMNOPRSTUVWXZYQ[\\]abcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`,
     );
   });
 

@@ -1,5 +1,5 @@
 [title]
-Veniți cu cântări înaintea lui {author: {Cor copii Dynamis}, contentHash: {#6937c3}}
+Veniți cu cântări înaintea lui {author: {Cor copii Dynamis}, contentHash: {#6937c3}, id: {8jwqyqYa8PHwVvD6cmM2Sj}}
 
 [sequence]
 v1,v2,v3,v1,v2,c

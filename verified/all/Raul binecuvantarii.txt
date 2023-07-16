@@ -1,5 +1,5 @@
 [title]
-Râul binecuvântării {contentHash: {#4f2aba}}
+Râul binecuvântării {contentHash: {#4f2aba}, id: {cHhv4rfVBAZuCo4QJeL8Hz}}
 
 [sequence]
 v1,c,v2,c,v3,c

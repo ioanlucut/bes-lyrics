@@ -1,5 +1,5 @@
 [title]
-E un prieten {contentHash: {#732bed}}
+E un prieten {contentHash: {#732bed}, id: {hcmCB3i3gCov4bZ6NZgmwE}}
 
 [sequence]
 v1,c,v2,c,b,c

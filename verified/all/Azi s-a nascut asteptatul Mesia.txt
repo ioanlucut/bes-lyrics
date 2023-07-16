@@ -1,5 +1,5 @@
 [title]
-Azi s-a născut așteptatul Mesia {contentHash: {#76b529}}
+Azi s-a născut așteptatul Mesia {contentHash: {#76b529}, id: {mDfXfyus9MAAtygHwiTdMX}}
 
 [sequence]
 v1,c,v2,c

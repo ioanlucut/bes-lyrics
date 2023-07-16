@@ -1,5 +1,5 @@
 [title]
-Du-mă dincolo de porți {contentHash: {#e3d632}}
+Du-mă dincolo de porți {contentHash: {#e3d632}, id: {kwadF9dsAoQHt8fkTDoTFP}}
 
 [sequence]
 v1,c,v2,c,v3,c

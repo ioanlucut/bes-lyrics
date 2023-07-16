@@ -1,5 +1,5 @@
 [title]
-Două mii de ani se împlinesc {contentHash: {#bc185a}}
+Două mii de ani se împlinesc {contentHash: {#bc185a}, id: {bj2x6thiD8dRhsDu3xfaf7}}
 
 [sequence]
 v1,v2,v3,v4

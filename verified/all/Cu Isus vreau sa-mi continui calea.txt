@@ -1,5 +1,5 @@
 [title]
-Cu Isus vreau să-mi continui calea {contentHash: {#8d34de}}
+Cu Isus vreau să-mi continui calea {contentHash: {#8d34de}, id: {2mnkh3on7RD5bEq3qRZzNg}}
 
 [sequence]
 v1,c,v2,c,v3,c
