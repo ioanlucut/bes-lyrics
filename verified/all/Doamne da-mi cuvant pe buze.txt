@@ -1,5 +1,5 @@
 [title]
-Doamne, dă-mi cuvânt pe buze
+Doamne, dă-mi cuvânt pe buze {contentHash: {#2965a4}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

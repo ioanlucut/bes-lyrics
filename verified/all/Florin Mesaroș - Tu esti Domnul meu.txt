@@ -1,5 +1,5 @@
 [title]
-Tu ești Domnul meu {author: {Florin Mesaroș}}
+Tu ești Domnul meu {author: {Florin Mesaroș}, contentHash: {#f1139a}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Eu sunt un om
+Eu sunt un om {contentHash: {#de514d}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Sfânt mereu {author: {Ekklesia}}
+Sfânt mereu {author: {Ekklesia}, contentHash: {#9dc3b5}}
 
 [sequence]
 v1,c,v2,c,c

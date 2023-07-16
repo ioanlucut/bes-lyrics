@@ -1,5 +1,5 @@
 [title]
-Haruri peste haruri
+Haruri peste haruri {contentHash: {#2d4f77}}
 
 [sequence]
 v1,c,v1,c

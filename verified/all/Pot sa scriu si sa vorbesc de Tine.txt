@@ -1,5 +1,5 @@
 [title]
-Pot să scriu și să vorbesc de Tine
+Pot să scriu și să vorbesc de Tine {contentHash: {#0a38ba}}
 
 [sequence]
 v1,c,v2,c

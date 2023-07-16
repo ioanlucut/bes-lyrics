@@ -1,5 +1,5 @@
 [title]
-Mă-ncred în Tine
+Mă-ncred în Tine {contentHash: {#884989}}
 
 [sequence]
 v1,c,v1,c

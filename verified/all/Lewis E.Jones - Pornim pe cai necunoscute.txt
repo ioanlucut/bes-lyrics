@@ -1,5 +1,5 @@
 [title]
-Pornim pe căi necunoscute {author: {Lewis E.Jones}}
+Pornim pe căi necunoscute {author: {Lewis E.Jones}, contentHash: {#3c87bb}}
 
 [sequence]
 v1,c,v2,c,v3,c

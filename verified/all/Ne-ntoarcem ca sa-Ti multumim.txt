@@ -1,5 +1,5 @@
 [title]
-Ne-ntoarcem ca să-Ți mulțumim
+Ne-ntoarcem ca să-Ți mulțumim {contentHash: {#33369b}}
 
 [sequence]
 v1,v2,c,v3,v4

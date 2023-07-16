@@ -1,5 +1,5 @@
 [title]
-Înalț vocea mea
+Înalț vocea mea {contentHash: {#48a471}}
 
 [sequence]
 v1,c,v2,c

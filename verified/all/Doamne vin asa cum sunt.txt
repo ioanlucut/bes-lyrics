@@ -1,5 +1,5 @@
 [title]
-Doamne, vin așa cum sunt
+Doamne, vin așa cum sunt {contentHash: {#23336b}}
 
 [sequence]
 v1,c,v1,c

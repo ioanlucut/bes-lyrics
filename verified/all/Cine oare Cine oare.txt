@@ -1,5 +1,5 @@
 [title]
-Cine, oare? Cine, oare?
+Cine, oare? Cine, oare? {contentHash: {#8743b4}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Amice, te rog, părăsește pe veci
+Amice, te rog, părăsește pe veci {contentHash: {#584173}}
 
 [sequence]
 v1,c,v2,c,v3,c

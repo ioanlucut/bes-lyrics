@@ -1,5 +1,5 @@
 [title]
-Ce bucurie să mă știu copilul Tău
+Ce bucurie să mă știu copilul Tău {contentHash: {#944fa6}}
 
 [sequence]
 v1,c,v2,c

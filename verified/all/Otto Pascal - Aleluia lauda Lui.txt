@@ -1,5 +1,5 @@
 [title]
-Aleluia, laudă Lui {author: {Otto Pascal}}
+Aleluia, laudă Lui {author: {Otto Pascal}, contentHash: {#b7ff2a}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

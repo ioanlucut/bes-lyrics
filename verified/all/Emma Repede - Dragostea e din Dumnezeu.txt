@@ -1,5 +1,5 @@
 [title]
-Dragostea e din Dumnezeu {author: {Emma Repede}}
+Dragostea e din Dumnezeu {author: {Emma Repede}, contentHash: {#b41bb5}}
 
 [sequence]
 c,v1,c,v2,c,v3

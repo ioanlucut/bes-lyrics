@@ -1,5 +1,5 @@
 [title]
-Mai adă Doamne-acele vremuri din trecut
+Mai adă Doamne-acele vremuri din trecut {contentHash: {#ec414b}}
 
 [sequence]
 v1,v2,v3,v4

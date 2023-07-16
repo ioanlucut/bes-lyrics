@@ -1,5 +1,5 @@
 [title]
-Inima mea, inima mea
+Inima mea, inima mea {contentHash: {#2da29d}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

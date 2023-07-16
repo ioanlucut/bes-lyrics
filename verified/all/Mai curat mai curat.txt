@@ -1,5 +1,5 @@
 [title]
-Mai curat, mai curat
+Mai curat, mai curat {contentHash: {#9e5062}}
 
 [sequence]
 v1,c,v1,c

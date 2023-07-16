@@ -1,5 +1,5 @@
 [title]
-Pe pământ avem o luptă
+Pe pământ avem o luptă {contentHash: {#cb3127}}
 
 [sequence]
 v1,c,v2,c,v3,c

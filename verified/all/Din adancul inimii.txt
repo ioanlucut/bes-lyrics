@@ -1,5 +1,5 @@
 [title]
-Din adâncul inimii
+Din adâncul inimii {contentHash: {#1a1a18}}
 
 [sequence]
 v1,c,v1,c

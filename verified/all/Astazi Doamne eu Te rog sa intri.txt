@@ -1,5 +1,5 @@
 [title]
-Astăzi, Doamne, eu Te rog să intri
+Astăzi, Doamne, eu Te rog să intri {contentHash: {#b9b251}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

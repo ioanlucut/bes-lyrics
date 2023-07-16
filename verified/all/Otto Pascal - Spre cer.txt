@@ -1,5 +1,5 @@
 [title]
-Spre cer {author: {Otto Pascal}}
+Spre cer {author: {Otto Pascal}, contentHash: {#3e345d}}
 
 [sequence]
 v1,c,v2,c

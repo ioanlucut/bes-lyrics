@@ -1,5 +1,5 @@
 [title]
-Doamne, astăzi vin
+Doamne, astăzi vin {contentHash: {#6d5c9c}}
 
 [sequence]
 v1,c,v2,c

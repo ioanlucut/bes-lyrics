@@ -1,5 +1,5 @@
 [title]
-Duhule Sfânt
+Duhule Sfânt {contentHash: {#78304e}}
 
 [sequence]
 v1,c,v1,c

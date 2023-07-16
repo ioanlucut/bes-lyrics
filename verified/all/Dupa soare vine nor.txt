@@ -1,5 +1,5 @@
 [title]
-După soare vine nor
+După soare vine nor {contentHash: {#1e1d7d}}
 
 [sequence]
 v1,c,v2,c,e

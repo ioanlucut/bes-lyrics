@@ -1,5 +1,5 @@
 [title]
-Plugul Evangheliei {author: {Elim Harmony}}
+Plugul Evangheliei {author: {Elim Harmony}, contentHash: {#1a30e3}}
 
 [sequence]
 v1,c,v2,c

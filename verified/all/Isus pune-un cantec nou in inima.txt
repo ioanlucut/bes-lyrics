@@ -1,5 +1,5 @@
 [title]
-Isus pune-un cântec nou în inimă
+Isus pune-un cântec nou în inimă {contentHash: {#7265ce}}
 
 [sequence]
 v1,v2,v3,v4

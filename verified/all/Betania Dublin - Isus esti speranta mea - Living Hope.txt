@@ -1,5 +1,5 @@
 [title]
-Isus ești speranța mea {alternative: {Living Hope}, author: {Betania Dublin, Phil Wickham}}
+Isus ești speranța mea {alternative: {Living Hope}, author: {Betania Dublin, Phil Wickham}, contentHash: {#b5873b}}
 
 [sequence]
 v1,v2,v3,v4,c,v5,c,e

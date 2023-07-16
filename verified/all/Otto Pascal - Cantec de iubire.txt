@@ -1,5 +1,5 @@
 [title]
-Cântec de iubire {author: {Otto Pascal}}
+Cântec de iubire {author: {Otto Pascal}, contentHash: {#afa87f}}
 
 [sequence]
 v1,c,v2,c,v3,c

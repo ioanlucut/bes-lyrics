@@ -1,5 +1,5 @@
 [title]
-Eram pierdut, eram căzut
+Eram pierdut, eram căzut {contentHash: {#f6c149}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Doamne, Tu-n necazuri lângă noi rămâi
+Doamne, Tu-n necazuri lângă noi rămâi {contentHash: {#39b727}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Nimic nu sunt
+Nimic nu sunt {contentHash: {#903a72}}
 
 [sequence]
 v1,c,v2,c2,v3,b,c

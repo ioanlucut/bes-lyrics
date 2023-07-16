@@ -1,5 +1,5 @@
 [title]
-Destinul tău e să învingi
+Destinul tău e să învingi {contentHash: {#4d575d}}
 
 [sequence]
 v1,c,v2,c

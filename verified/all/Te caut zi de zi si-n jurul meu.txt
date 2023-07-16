@@ -1,5 +1,5 @@
 [title]
-Te caut zi de zi și-n jurul meu
+Te caut zi de zi și-n jurul meu {contentHash: {#0d2be9}}
 
 [sequence]
 v1,c,v2,c

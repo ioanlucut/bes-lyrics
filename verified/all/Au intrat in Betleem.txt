@@ -1,5 +1,5 @@
 [title]
-Au intrat în Betleem
+Au intrat în Betleem {contentHash: {#825af6}}
 
 [sequence]
 v1,c,v2,c,v3,c

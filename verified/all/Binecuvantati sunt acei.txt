@@ -1,5 +1,5 @@
 [title]
-Binecuvântați sunt acei
+Binecuvântați sunt acei {contentHash: {#c2e861}}
 
 [sequence]
 c,v1,c,v1,c,e

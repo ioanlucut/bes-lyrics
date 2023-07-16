@@ -1,5 +1,5 @@
 [title]
-Iubire ca a Ta {author: {Adi Kovaci}}
+Iubire ca a Ta {author: {Adi Kovaci}, contentHash: {#ac75d2}}
 
 [sequence]
 v1,c,v2,c

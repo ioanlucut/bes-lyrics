@@ -1,5 +1,5 @@
 [title]
-Pe sfânta vieții cărare
+Pe sfânta vieții cărare {contentHash: {#1b4aab}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

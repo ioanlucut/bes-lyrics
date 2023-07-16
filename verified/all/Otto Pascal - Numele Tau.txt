@@ -1,5 +1,5 @@
 [title]
-Numele Tău {author: {Otto Pascal}}
+Numele Tău {author: {Otto Pascal}, contentHash: {#3013d2}}
 
 [sequence]
 v1,c,v2,c

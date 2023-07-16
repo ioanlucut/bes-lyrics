@@ -1,5 +1,5 @@
 [title]
-Dumnezeu minunat
+Dumnezeu minunat {contentHash: {#13070b}}
 
 [sequence]
 v1,c,b,c

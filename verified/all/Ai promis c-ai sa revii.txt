@@ -1,5 +1,5 @@
 [title]
-Ai promis c-ai să revii
+Ai promis c-ai să revii {contentHash: {#46c58f}}
 
 [sequence]
 v1,c,v2,c,v3,c

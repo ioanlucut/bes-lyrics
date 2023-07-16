@@ -1,5 +1,5 @@
 [title]
-Tu ești Cel Tare! {author: {Chris Tomlin}}
+Tu ești Cel Tare! {author: {Chris Tomlin}, contentHash: {#2bacce}}
 
 [sequence]
 v1,c,v1,c,b,c

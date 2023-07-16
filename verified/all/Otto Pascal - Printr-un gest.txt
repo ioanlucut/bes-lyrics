@@ -1,5 +1,5 @@
 [title]
-Printr-un gest {author: {Otto Pascal}}
+Printr-un gest {author: {Otto Pascal}, contentHash: {#dc741b}}
 
 [sequence]
 v1,c,v2,c,v3,c

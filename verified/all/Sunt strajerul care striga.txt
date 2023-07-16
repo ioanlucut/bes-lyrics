@@ -1,5 +1,5 @@
 [title]
-Sunt străjerul care strigă
+Sunt străjerul care strigă {contentHash: {#26d038}}
 
 [sequence]
 v1,c,v2,c

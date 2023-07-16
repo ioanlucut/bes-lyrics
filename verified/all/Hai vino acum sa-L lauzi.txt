@@ -1,5 +1,5 @@
 [title]
-Hai, vino acum să-L lauzi
+Hai, vino acum să-L lauzi {contentHash: {#4de6b1}}
 
 [sequence]
 v1,c,v1,c

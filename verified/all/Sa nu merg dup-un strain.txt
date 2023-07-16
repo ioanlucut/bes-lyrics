@@ -1,5 +1,5 @@
 [title]
-Să nu merg dup-un străin
+Să nu merg dup-un străin {contentHash: {#24dd84}}
 
 [sequence]
 v1,v2,v3,v4
@@ -10,7 +10,7 @@ Doamne, niciodată,
 /: Chiar de-aș fi silit prin chin,
 Ori pe-un drum cu flori de crin
 Să nu merg dup-un străin,
-Ci să calc deplin, deplin, 
+Ci să calc deplin, deplin,
 Urma Ta curată. :/
 
 [v2]

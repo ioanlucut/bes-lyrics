@@ -1,5 +1,5 @@
 [title]
-Crește-mi încrederea {author: {Otto Pascal}}
+Crește-mi încrederea {author: {Otto Pascal}, contentHash: {#553541}}
 
 [sequence]
 v1,c,v2,c,v3,c

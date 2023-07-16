@@ -1,5 +1,5 @@
 [title]
-Eu cunosc un loc un loc minunat
+Eu cunosc un loc un loc minunat {contentHash: {#5a0594}}
 
 [sequence]
 v1,c,v1,c

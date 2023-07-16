@@ -1,5 +1,5 @@
 [title]
-Tu-mi ești Refugiul
+Tu-mi ești Refugiul {contentHash: {#6192de}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Cerul e un loc minunat
+Cerul e un loc minunat {contentHash: {#5e2f82}}
 
 [sequence]
 c

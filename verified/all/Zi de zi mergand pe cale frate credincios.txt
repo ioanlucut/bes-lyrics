@@ -1,5 +1,5 @@
 [title]
-Zi de zi, mergând pe cale, frate credincios
+Zi de zi, mergând pe cale, frate credincios {contentHash: {#e0e05e}}
 
 [sequence]
 v1,c,v2,c,v3,c

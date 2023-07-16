@@ -1,5 +1,5 @@
 [title]
-Dragostea-i din Dumnezeu
+Dragostea-i din Dumnezeu {contentHash: {#c17eb8}}
 
 [sequence]
 v1,v2,v3,v4
@@ -14,7 +14,7 @@ Veșnic, pururea.
 Dragostea-i din Dumnezeu,
 Dragostea e Dumnezeu,
 Dragostea, singura, ea va rămânea.
-Prorociile s-or sfârși, 
+Prorociile s-or sfârși,
 Limbile vor înceta,
 Dar în veci, rămâne dragostea.
 

@@ -1,5 +1,5 @@
 [title]
-Ce-ar fi făptura-mi fără Tine
+Ce-ar fi făptura-mi fără Tine {contentHash: {#89182c}}
 
 [sequence]
 v1,v2,v3,v4

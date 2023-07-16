@@ -1,5 +1,5 @@
 [title]
-Binecuvântează suflete
+Binecuvântează suflete {contentHash: {#653bff}}
 
 [sequence]
 c,v1,c,v1

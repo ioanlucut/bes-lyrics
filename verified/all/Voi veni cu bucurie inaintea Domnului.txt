@@ -1,5 +1,5 @@
 [title]
-Voi veni cu bucurie înaintea Domnului
+Voi veni cu bucurie înaintea Domnului {contentHash: {#692e71}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Cu inima și gura mea
+Cu inima și gura mea {contentHash: {#f22caa}}
 
 [sequence]
 v1,v2,v3,v4

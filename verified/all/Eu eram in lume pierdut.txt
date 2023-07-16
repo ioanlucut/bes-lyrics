@@ -1,5 +1,5 @@
 [title]
-Eu eram în lume pierdut
+Eu eram în lume pierdut {contentHash: {#6f0c86}}
 
 [sequence]
 v1,c,v2,c,v3,c

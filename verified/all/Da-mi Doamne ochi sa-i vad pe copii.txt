@@ -1,5 +1,5 @@
 [title]
-Dă-mi, Doamne, ochi să-i văd pe copii
+Dă-mi, Doamne, ochi să-i văd pe copii {contentHash: {#f8f44e}}
 
 [sequence]
 v1,v2,v3,v4

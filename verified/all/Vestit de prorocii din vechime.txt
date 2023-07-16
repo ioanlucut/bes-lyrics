@@ -1,5 +1,5 @@
 [title]
-Vestit de prorocii din vechime
+Vestit de prorocii din vechime {contentHash: {#3a57bb}}
 
 [sequence]
 v1,v2,c,v3,v4,c

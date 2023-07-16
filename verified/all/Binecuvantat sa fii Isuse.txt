@@ -1,5 +1,5 @@
 [title]
-Binecuvântat să fii Isuse
+Binecuvântat să fii Isuse {contentHash: {#52955b}}
 
 [sequence]
 v1,c,v1,c

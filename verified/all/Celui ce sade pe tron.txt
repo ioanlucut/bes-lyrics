@@ -1,5 +1,5 @@
 [title]
-Celui ce șade pe tron
+Celui ce șade pe tron {contentHash: {#bc61d1}}
 
 [sequence]
 v1,c,v1,c

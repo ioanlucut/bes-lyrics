@@ -1,5 +1,5 @@
 [title]
-Câtă splendoare e-n jurul meu
+Câtă splendoare e-n jurul meu {contentHash: {#dd697f}}
 
 [sequence]
 v1,p,c,v2,p,c,e

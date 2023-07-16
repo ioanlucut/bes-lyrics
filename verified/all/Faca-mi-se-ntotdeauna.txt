@@ -1,5 +1,5 @@
 [title]
-Facă-mi-se-ntotdeauna
+Facă-mi-se-ntotdeauna {contentHash: {#014986}}
 
 [sequence]
 v1,v2,v3,v4

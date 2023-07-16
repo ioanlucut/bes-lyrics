@@ -1,5 +1,5 @@
 [title]
-Dar din paradis {author: {Cristi și Emma Repede}}
+Dar din paradis {author: {Cristi și Emma Repede}, contentHash: {#028321}}
 
 [sequence]
 p,v1,p,c,v2,p,c,p

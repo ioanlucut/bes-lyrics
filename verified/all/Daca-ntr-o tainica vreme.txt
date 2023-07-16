@@ -1,5 +1,5 @@
 [title]
-Dacă-ntr-o tainică vreme
+Dacă-ntr-o tainică vreme {contentHash: {#b754e6}}
 
 [sequence]
 v1,v2,v3,v4

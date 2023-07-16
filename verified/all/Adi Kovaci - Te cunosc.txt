@@ -1,5 +1,5 @@
 [title]
-Te cunosc {author: {Adi Kovaci}}
+Te cunosc {author: {Adi Kovaci}, contentHash: {#694e00}}
 
 [sequence]
 v1,p,v2,c,c2

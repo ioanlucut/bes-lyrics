@@ -1,5 +1,5 @@
 [title]
-Rădăcini {author: {BBSO Baia Mare}}
+Rădăcini {author: {BBSO Baia Mare}, contentHash: {#ef0136}}
 
 [sequence]
 v1,b,c,v2,b,c,b

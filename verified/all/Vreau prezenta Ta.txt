@@ -1,5 +1,5 @@
 [title]
-Vreau prezența Ta
+Vreau prezența Ta {contentHash: {#d72b17}}
 
 [sequence]
 v1,c,b,v2,c,v3,c

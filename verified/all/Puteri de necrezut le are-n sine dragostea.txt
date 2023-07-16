@@ -1,38 +1,38 @@
 [title]
-Puteri de necrezut le are-n sine dragostea
+Puteri de necrezut le are-n sine dragostea {contentHash: {#c9524d}}
 
 [sequence]
 v1,v2,v3
 
 [v1]
-Puteri de necrezut 
+Puteri de necrezut
 Le are-n sine dragostea,
-Înseninează frunți 
+Înseninează frunți
 Și voie bună-ți dă tot ea.
 
-/: Să rabzi, să te jertfești, 
+/: Să rabzi, să te jertfești,
 Să ierți ce alții îți greșesc,
-Puteri de necrezut 
+Puteri de necrezut
 Le are-n sine dragostea. :/
 
 [v2]
-Speranțe multe, mari, 
+Speranțe multe, mari,
 Își face-adesea dragostea.
-Mereu nădăjduind, 
+Mereu nădăjduind,
 Mereu sperând trăiește ea.
 
-/: Dar mulți nu o cunosc 
+/: Dar mulți nu o cunosc
 Și-n inimă nu o primesc.
-Iluzii multe, mari, 
+Iluzii multe, mari,
 Își face-adesea dragostea. :/
 
 [v3]
-Credința se va-ncheia, 
+Credința se va-ncheia,
 Nădejdea va avea sfârșit,
-Doar dragostea va sta, 
+Doar dragostea va sta,
 Doar ea va fi la infinit.
 
-Iubirea-i Dumnezeu 
+Iubirea-i Dumnezeu
 Și tot ce-i bun e de la El,
-Când toate s-or sfârși, 
+Când toate s-or sfârși,
 Va fi doar una: dragostea.

@@ -1,5 +1,5 @@
 [title]
-Vreau să-ți spun, amice, totul despre
+Vreau să-ți spun, amice, totul despre {contentHash: {#43b040}}
 
 [sequence]
 v1,c,v2,c,v3,c

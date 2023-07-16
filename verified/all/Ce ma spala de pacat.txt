@@ -1,5 +1,5 @@
 [title]
-Ce mă spală de păcat
+Ce mă spală de păcat {contentHash: {#a7d46b}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

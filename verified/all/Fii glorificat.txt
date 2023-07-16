@@ -1,5 +1,5 @@
 [title]
-Fii glorificat
+Fii glorificat {contentHash: {#c1531e}}
 
 [sequence]
 c,v1,c,v1

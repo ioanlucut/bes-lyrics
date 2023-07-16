@@ -1,5 +1,5 @@
 [title]
-Să-I mulțumești {author: {Otto Pascal}}
+Să-I mulțumești {author: {Otto Pascal}, contentHash: {#a99d36}}
 
 [sequence]
 v1,c,v2,c,b,c

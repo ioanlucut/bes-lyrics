@@ -1,5 +1,5 @@
 [title]
-Nu ne lăsa să ne-ndoim
+Nu ne lăsa să ne-ndoim {contentHash: {#8fd0df}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-În acea zi, când boldul morții
+În acea zi, când boldul morții {contentHash: {#48bc54}}
 
 [sequence]
 v1,c,v2,c,b,v3,c

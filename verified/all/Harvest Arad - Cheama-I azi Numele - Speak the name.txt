@@ -1,5 +1,5 @@
 [title]
-Cheamă-I azi Numele {alternative: {Speak the name}, author: {Harvest Arad}}
+Cheamă-I azi Numele {alternative: {Speak the name}, author: {Harvest Arad}, contentHash: {#cdff80}}
 
 [sequence]
 v1,b,c,v2,c2,e

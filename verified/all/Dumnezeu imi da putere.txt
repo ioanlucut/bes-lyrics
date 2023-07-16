@@ -1,5 +1,5 @@
 [title]
-Dumnezeu îmi dă putere
+Dumnezeu îmi dă putere {contentHash: {#a004e3}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8
@@ -29,7 +29,7 @@ De la răsărit l-apus
 Să-l găsească pe Isus.
 
 [v5]
-Orișicât vor căuta 
+Orișicât vor căuta
 Pe Isus nu-L vor afla.
 Va fi timpul pe sfârșit
 Și rămâi nemântuit.

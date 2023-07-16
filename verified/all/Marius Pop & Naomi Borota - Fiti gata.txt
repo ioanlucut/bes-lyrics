@@ -1,5 +1,5 @@
 [title]
-Fiți gata {author: {Marius Pop & Naomi Borota}}
+Fiți gata {author: {Marius Pop & Naomi Borota}, contentHash: {#a0cba5}}
 
 [sequence]
 v1,c,v2,c,e

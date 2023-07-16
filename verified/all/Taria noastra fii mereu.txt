@@ -1,5 +1,5 @@
 [title]
-Tăria noastră fii mereu
+Tăria noastră fii mereu {contentHash: {#ba0431}}
 
 [sequence]
 v1,v2,v3,v4,v5

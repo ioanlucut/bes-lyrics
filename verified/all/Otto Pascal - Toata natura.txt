@@ -1,5 +1,5 @@
 [title]
-Toată natura {author: {Otto Pascal}}
+Toată natura {author: {Otto Pascal}, contentHash: {#d60257}}
 
 [sequence]
 v1,c,v2,c

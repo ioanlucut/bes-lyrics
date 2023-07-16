@@ -1,5 +1,5 @@
 [title]
-Nu-i nimeni ca Tine, Isus
+Nu-i nimeni ca Tine, Isus {contentHash: {#a29903}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -18,7 +18,7 @@ Nu-i nimeni ca Tine, Isus. :/
 
 [v3]
 /: Nu-i nimeni ca Tine, Isus, :/
-/: S-aducă iertare 
+/: S-aducă iertare
 Și eliberare,
 Nu-i nimeni ca tine, Isus. :/
 

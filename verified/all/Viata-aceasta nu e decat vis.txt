@@ -1,5 +1,5 @@
 [title]
-Viața-aceasta nu e decât vis
+Viața-aceasta nu e decât vis {contentHash: {#c69c36}}
 
 [sequence]
 v1,v2,v3,v4
@@ -27,19 +27,19 @@ Te poate mântui.
 [v3]
 Azi e timpul cel mai prețios
 Pentru orice suflet păcătos.
-Pentru tine, sus pe Golgota, 
+Pentru tine, sus pe Golgota,
 Muri Hristos.
 
 /: Hristos, da, Hristos! :/
-Pentru tine, sus pe Golgota, 
+Pentru tine, sus pe Golgota,
 Muri Hristos!
 
 [v4]
 Ia privește floarea de pe câmp
 Spune, frate, ce ți-ai pus în gând?
-Tinerețea-i ca o rouă, 
+Tinerețea-i ca o rouă,
 Trece ca un vis.
 
 /: Trece ca un vis. :/
-Tinerețea-i ca o rouă, 
+Tinerețea-i ca o rouă,
 Trece ca un vis.

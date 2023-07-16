@@ -1,5 +1,5 @@
 [title]
-Din El, prin El și pentru El
+Din El, prin El și pentru El {contentHash: {#518e86}}
 
 [sequence]
 v1,c,v1,c

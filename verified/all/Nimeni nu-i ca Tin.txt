@@ -1,5 +1,5 @@
 [title]
-Nimeni nu-i ca Tin’
+Nimeni nu-i ca Tin’ {contentHash: {#5d5ad2}}
 
 [sequence]
 v1,c,v1,c,v1

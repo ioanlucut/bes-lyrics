@@ -1,5 +1,5 @@
 [title]
-Cântați o veste bună
+Cântați o veste bună {contentHash: {#fdd84c}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,71 +1,71 @@
 [title]
-Prin multe țări frumoase în viață am trecut
+Prin multe țări frumoase în viață am trecut {contentHash: {#658f69}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
 
 [v1]
-Prin multe țări frumoase 
+Prin multe țări frumoase
 În viață am trecut
-Și-atâtea văi și dealuri 
+Și-atâtea văi și dealuri
 Frumoase am văzut,
 
-Dar nici un deal din lume 
+Dar nici un deal din lume
 Nu m-a atras așa
-/: Ca dealul, ce, pe nume 
+/: Ca dealul, ce, pe nume
 Se cheamă Golgota.:/
 
 [v2]
-Acesta nu se-nalță 
+Acesta nu se-nalță
 Cu vârful pân’ la nori,
-Pe culmea lui, zăpada 
+Pe culmea lui, zăpada
 Nu cerne albe flori,
 
-Dar nici pe-un deal din lume 
+Dar nici pe-un deal din lume
 /: Nu m-am simțit așa
-De Dumnezeu aproape, 
+De Dumnezeu aproape,
 Ca sus pe Golgota. :/
 
 [v3]
-Nu-s brazi înalți acolo, 
+Nu-s brazi înalți acolo,
 Nici iarbă verde jos,
-Dar este, sus pe munte, 
+Dar este, sus pe munte,
 Un lucru prețios.
 
-E crucea răstignirii 
+E crucea răstignirii
 /: Și jertfa de pe ea,
-Ne-a dăruit viața - 
+Ne-a dăruit viața -
 Aceasta-i Golgota. :/
 
 [v4]
-Acolo nu-s izvoare de apă, 
+Acolo nu-s izvoare de apă,
 Cât privești,
-Nici râuri curgătoare 
+Nici râuri curgătoare
 De ape pământești,
 
-Dar iese de sub cruce 
+Dar iese de sub cruce
 /: Izvorul minunat
-Ce tot păcatul lumii 
+Ce tot păcatul lumii
 L-a șters și l-a spălat. :/
 
 [v5]
-De-acolo și tâlharul 
+De-acolo și tâlharul
 Se-ntoarce credincios
-Și mântuit se-ntoarce 
+Și mântuit se-ntoarce
 Căitul păcătos.
 
 Acolo-L vezi pe Domnul
 /: Când plângi sub crucea Sa.
-Acolo-i har și pace, 
+Acolo-i har și pace,
 Aceasta-i Golgota. :/
 
 [v6]
-Tu, omule, ce-n lume 
+Tu, omule, ce-n lume
 Suspini nemângâiat,
-Înalță-te spre locul 
+Înalță-te spre locul
 Acela minunat!
 
-Acolo, mântuirea 
+Acolo, mântuirea
 /: Și pacea vei afla,
-Acolo-i fericirea - 
+Acolo-i fericirea -
 Aceasta-i Golgota! :/

@@ -1,5 +1,5 @@
 [title]
-Ce-ar folosi {author: {Marius Pop & Naomi Borota}}
+Ce-ar folosi {author: {Marius Pop & Naomi Borota}, contentHash: {#a37faf}}
 
 [sequence]
 v1,c,v2,b,c2

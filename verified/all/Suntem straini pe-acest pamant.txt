@@ -1,5 +1,5 @@
 [title]
-Suntem străini pe-acest pământ
+Suntem străini pe-acest pământ {contentHash: {#3c7569}}
 
 [sequence]
 v1,v2,v3,v4

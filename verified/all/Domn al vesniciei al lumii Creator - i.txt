@@ -1,5 +1,5 @@
 [title]
-Domn al veșniciei, al lumii Creator {version: {i}}
+Domn al veșniciei, al lumii Creator {version: {i}, contentHash: {#57e9e3}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ierusalime {author: {Grupul Speranța}}
+Ierusalime {author: {Grupul Speranța}, contentHash: {#054cad}}
 
 [sequence]
 v1,c,v2,c,v3,c2

@@ -1,5 +1,5 @@
 [title]
-În Betleem
+În Betleem {contentHash: {#49161d}}
 
 [sequence]
 v1,c,v2,c,v3,c

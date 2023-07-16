@@ -1,5 +1,5 @@
 [title]
-Zic Betleem, zic și Golgota
+Zic Betleem, zic și Golgota {contentHash: {#d6951f}}
 
 [sequence]
 v1,c,v2,c,v3,c

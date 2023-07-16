@@ -1,5 +1,5 @@
 [title]
-Vreau să te fac pescar de om
+Vreau să te fac pescar de om {contentHash: {#6f063b}}
 
 [sequence]
 v1,v2,v3

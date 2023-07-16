@@ -1,5 +1,5 @@
 [title]
-Precum trec stelele strălucitoare
+Precum trec stelele strălucitoare {contentHash: {#285efe}}
 
 [sequence]
 v1,c,v2,c,v3,c

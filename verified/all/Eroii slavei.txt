@@ -1,5 +1,5 @@
 [title]
-Eroii slavei
+Eroii slavei {contentHash: {#63f69d}}
 
 [sequence]
 v1,c,v2,c,v3,c

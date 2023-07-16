@@ -1,5 +1,5 @@
 [title]
-Sunt multe monumente-n lume
+Sunt multe monumente-n lume {contentHash: {#29aa11}}
 
 [sequence]
 v1,c,v2,c

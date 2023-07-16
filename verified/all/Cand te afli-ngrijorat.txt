@@ -1,5 +1,5 @@
 [title]
-Când te afli-ngrijorat
+Când te afli-ngrijorat {contentHash: {#01c8ee}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Isus {author: {Chris Tomlin}}
+Isus {author: {Chris Tomlin}, contentHash: {#a94ef8}}
 
 [sequence]
 v1,v2,c,v3,c,b,c2

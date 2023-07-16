@@ -1,5 +1,5 @@
 [title]
-Vreau să mă odihnesc {author: {Shalom}}
+Vreau să mă odihnesc {author: {Shalom}, contentHash: {#99a6d5}}
 
 [sequence]
 v1,v2,c,v3,c

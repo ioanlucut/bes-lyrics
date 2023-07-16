@@ -1,5 +1,5 @@
 [title]
-Eu voi lauda pe Domnul
+Eu voi lauda pe Domnul {contentHash: {#aa0de3}}
 
 [sequence]
 v1,v2

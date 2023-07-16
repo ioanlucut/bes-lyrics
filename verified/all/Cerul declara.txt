@@ -1,5 +1,5 @@
 [title]
-Cerul declară
+Cerul declară {contentHash: {#2d1310}}
 
 [sequence]
 v1,c,v2,c

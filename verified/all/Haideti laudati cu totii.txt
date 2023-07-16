@@ -1,5 +1,5 @@
 [title]
-Haideți, lăudați cu toții
+Haideți, lăudați cu toții {contentHash: {#034b8c}}
 
 [sequence]
 c,v1,c,v2

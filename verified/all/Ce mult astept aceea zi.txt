@@ -1,5 +1,5 @@
 [title]
-Ce mult aștept aceea zi
+Ce mult aștept aceea zi {contentHash: {#720dcb}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-La Calvar, la Calvar {author: {Chris Tomlin}}
+La Calvar, la Calvar {author: {Chris Tomlin}, contentHash: {#591084}}
 
 [sequence]
 v1,c,v2,b,c

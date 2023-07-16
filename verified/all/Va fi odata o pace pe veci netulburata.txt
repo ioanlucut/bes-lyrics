@@ -1,5 +1,5 @@
 [title]
-Va fi odată o pace pe veci netulburată
+Va fi odată o pace pe veci netulburată {contentHash: {#6f24d3}}
 
 [sequence]
 v1,v2,v3,v4

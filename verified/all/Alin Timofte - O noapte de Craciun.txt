@@ -1,5 +1,5 @@
 [title]
-O noapte de Crăciun {author: {Alin Timofte}}
+O noapte de Crăciun {author: {Alin Timofte}, contentHash: {#33e3ee}}
 
 [sequence]
 v1,b,c,v2,b2,e

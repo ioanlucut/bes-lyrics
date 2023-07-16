@@ -1,5 +1,5 @@
 [title]
-Cinste, onoare, glorie, splendoare
+Cinste, onoare, glorie, splendoare {contentHash: {#178e81}}
 
 [sequence]
 v1,c,v1,c,b,c

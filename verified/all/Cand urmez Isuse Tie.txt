@@ -1,5 +1,5 @@
 [title]
-Când urmez Isuse, Ție
+Când urmez Isuse, Ție {contentHash: {#0ce9dc}}
 
 [sequence]
 v1,p,v2,p,v3,c,v4,c2

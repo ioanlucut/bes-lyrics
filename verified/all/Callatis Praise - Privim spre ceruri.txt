@@ -1,5 +1,5 @@
 [title]
-Privim spre ceruri {author: {Callatis Praise}}
+Privim spre ceruri {author: {Callatis Praise}, contentHash: {#15378b}}
 
 [sequence]
 c,v1,c,v1

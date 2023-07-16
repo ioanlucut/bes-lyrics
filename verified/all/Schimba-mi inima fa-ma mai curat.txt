@@ -1,5 +1,5 @@
 [title]
-Schimbă-mi inima, fă-mă mai curat
+Schimbă-mi inima, fă-mă mai curat {contentHash: {#d7dffc}}
 
 [sequence]
 v1,c,v2

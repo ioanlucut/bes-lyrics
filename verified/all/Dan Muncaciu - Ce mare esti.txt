@@ -1,5 +1,5 @@
 [title]
-Ce mare ești {author: {Dan Muncaciu}}
+Ce mare ești {author: {Dan Muncaciu}, contentHash: {#625a0d}}
 
 [sequence]
 v1,p,c,v2,c,b,p,c

@@ -1,5 +1,5 @@
 [title]
-Ai auzit vreodată, prietene, de Mine
+Ai auzit vreodată, prietene, de Mine {contentHash: {#ff2287}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

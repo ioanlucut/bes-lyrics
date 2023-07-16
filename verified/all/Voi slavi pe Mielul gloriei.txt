@@ -1,5 +1,5 @@
 [title]
-Voi slăvi pe Mielul gloriei
+Voi slăvi pe Mielul gloriei {contentHash: {#d07083}}
 
 [sequence]
 v1,c,v1,c

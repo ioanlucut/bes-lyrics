@@ -1,5 +1,5 @@
 [title]
-Isus e rege {author: {Lari Muntean adaptare după Sinach}}
+Isus e rege {author: {Lari Muntean adaptare după Sinach}, contentHash: {#e7ee25}}
 
 [sequence]
 v1,c,v2,c,b,c2,c

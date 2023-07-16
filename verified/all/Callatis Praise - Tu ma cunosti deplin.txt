@@ -1,5 +1,5 @@
 [title]
-Tu mă cunoști deplin {author: {Callatis Praise}}
+Tu mă cunoști deplin {author: {Callatis Praise}, contentHash: {#c1133d}}
 
 [sequence]
 v1,v2

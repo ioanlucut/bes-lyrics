@@ -1,5 +1,5 @@
 [title]
-Iată, Eu stau la ușă și bat
+Iată, Eu stau la ușă și bat {contentHash: {#6c0bd4}}
 
 [sequence]
 v1,v2,v3

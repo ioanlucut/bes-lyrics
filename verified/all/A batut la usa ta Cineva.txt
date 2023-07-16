@@ -1,5 +1,5 @@
 [title]
-A bătut la ușa ta Cineva
+A bătut la ușa ta Cineva {contentHash: {#fc0642}}
 
 [sequence]
 v1,v2,v3,v4,v5

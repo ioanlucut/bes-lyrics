@@ -1,5 +1,5 @@
 [title]
-Dacă-ți spune cineva
+Dacă-ți spune cineva {contentHash: {#3aab14}}
 
 [sequence]
 v1,v2,v3,v4

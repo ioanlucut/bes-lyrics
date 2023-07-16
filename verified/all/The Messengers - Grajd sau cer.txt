@@ -1,5 +1,5 @@
 [title]
-Grajd sau cer {author: {The Messengers}}
+Grajd sau cer {author: {The Messengers}, contentHash: {#fa5434}}
 
 [sequence]
 v1,c,v2,c,v3,c,b,c

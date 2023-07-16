@@ -1,5 +1,5 @@
 [title]
-Mâna Ta, Doamne {author: {Speranța}}
+Mâna Ta, Doamne {author: {Speranța}, contentHash: {#0707cb}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-El este Isus
+El este Isus {contentHash: {#e48a52}}
 
 [sequence]
 v1,c,v2,c

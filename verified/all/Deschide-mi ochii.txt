@@ -1,5 +1,5 @@
 [title]
-Deschide-mi ochii
+Deschide-mi ochii {contentHash: {#9ec8fa}}
 
 [sequence]
 v1,e

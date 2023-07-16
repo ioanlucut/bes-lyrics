@@ -1,5 +1,5 @@
 [title]
-Nu te teme
+Nu te teme {contentHash: {#19c2a6}}
 
 [sequence]
 v1,c,c2,v2,c2,c,e

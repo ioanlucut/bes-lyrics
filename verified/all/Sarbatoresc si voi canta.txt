@@ -1,5 +1,5 @@
 [title]
-Sărbătoresc și voi cânta
+Sărbătoresc și voi cânta {contentHash: {#c633dd}}
 
 [sequence]
 v1,c,v1,c

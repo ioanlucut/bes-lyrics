@@ -1,5 +1,5 @@
 [title]
-Cuvântul
+Cuvântul {contentHash: {#670375}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Timpul fuge fără noi
+Timpul fuge fără noi {contentHash: {#ba20fa}}
 
 [sequence]
 v1,c,v2,c

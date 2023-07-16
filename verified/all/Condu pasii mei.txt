@@ -1,5 +1,5 @@
 [title]
-Condu pașii mei
+Condu pașii mei {contentHash: {#dbaa50}}
 
 [sequence]
 v1,c,v1,c,v1,c

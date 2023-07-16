@@ -1,5 +1,5 @@
 [title]
-Alergăm
+Alergăm {contentHash: {#dc1c8e}}
 
 [sequence]
 v1,c,v2,c,e

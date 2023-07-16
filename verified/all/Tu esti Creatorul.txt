@@ -1,5 +1,5 @@
 [title]
-Tu ești Creatorul
+Tu ești Creatorul {contentHash: {#c7562e}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Inimi pline de speranță, mântuire, siguranță
+Inimi pline de speranță, mântuire, siguranță {contentHash: {#9ba23c}}
 
 [sequence]
 v1,c,v2,c,v3,c

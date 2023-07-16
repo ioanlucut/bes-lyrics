@@ -1,5 +1,5 @@
 [title]
-Oare n-ai știut c-aici e Domnul?
+Oare n-ai știut c-aici e Domnul? {contentHash: {#1f8d4f}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

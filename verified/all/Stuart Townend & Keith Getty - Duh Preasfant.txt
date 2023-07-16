@@ -1,5 +1,5 @@
 [title]
-Duh Preasfânt {author: {Stuart Townend & Keith Getty}}
+Duh Preasfânt {author: {Stuart Townend & Keith Getty}, contentHash: {#552f6a}}
 
 [sequence]
 v1,v2,v3

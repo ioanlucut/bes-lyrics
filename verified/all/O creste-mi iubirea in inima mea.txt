@@ -1,5 +1,5 @@
 [title]
-O, crește-mi iubirea, în inima mea
+O, crește-mi iubirea, în inima mea {contentHash: {#b933d8}}
 
 [sequence]
 v1,v2,v3,v4

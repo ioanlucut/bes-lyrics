@@ -1,49 +1,49 @@
 [title]
-Nu te-ndoi, ci crede că după orice nor
+Nu te-ndoi, ci crede că după orice nor {contentHash: {#b80a9f}}
 
 [sequence]
 v1,v2,v3,v4
 
 [v1]
-Nu te-ndoi, ci crede 
+Nu te-ndoi, ci crede
 Că după orice nor
-E-un soare și mai dulce 
+E-un soare și mai dulce
 Și mai strălucitor.
 
-/: Nu norul este veșnic, 
+/: Nu norul este veșnic,
 Ci soarele-i acel
-Ce-nvinge și rămâne 
+Ce-nvinge și rămâne
 Stăpân în urmă el. :/
 
 [v2]
-Nu te uita la tine 
+Nu te uita la tine
 Că ești atât de slab,
-Nici la vrăjmașul care 
+Nici la vrăjmașul care
 Te-ar nimici degrab’.
 
-/: Nu te uita la ziduri, 
+/: Nu te uita la ziduri,
 La porțile de fier,
-La ura ce scrâșnește, 
+La ura ce scrâșnește,
 Ci uită-te la cer. :/
 
 [v3]
-Nu te-ndoi, ci crede 
+Nu te-ndoi, ci crede
 Că dincolo de tot,
-Veghează Dumnezeul puternic, 
+Veghează Dumnezeul puternic,
 Savaot.
 
-/: Că nici un păr nu-ți cade, 
+/: Că nici un păr nu-ți cade,
 Că nicio clipă nu-i,
-Că nu-i nicio-ncercare, 
+Că nu-i nicio-ncercare,
 Decât prin voia Lui. :/
 
 [v4]
-Și dacă crezi puternic, 
+Și dacă crezi puternic,
 Nimica nu-i spre rău,
-Ci totul se va-ntoarce 
+Ci totul se va-ntoarce
 Spre-un și mai bine-al tău.
 
-/: Nu te-ndoi, ci crede 
+/: Nu te-ndoi, ci crede
 Că-n ceasul cel mai greu,
-Clipită de clipită 
+Clipită de clipită
 Veghează Dumnezeu! :/

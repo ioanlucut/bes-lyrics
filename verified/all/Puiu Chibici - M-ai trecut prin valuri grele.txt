@@ -1,5 +1,5 @@
 [title]
-M-ai trecut prin valuri grele {author: {Puiu Chibici}}
+M-ai trecut prin valuri grele {author: {Puiu Chibici}, contentHash: {#304f09}}
 
 [sequence]
 v1,v2,v3,v4

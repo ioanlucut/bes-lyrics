@@ -1,5 +1,5 @@
 [title]
-Dați-mi în mână Biblia divină
+Dați-mi în mână Biblia divină {contentHash: {#ff7c63}}
 
 [sequence]
 v1,c,v2,c,v3,c

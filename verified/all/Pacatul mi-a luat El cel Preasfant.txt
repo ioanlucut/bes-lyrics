@@ -1,5 +1,5 @@
 [title]
-Păcatul mi-a luat El, cel Preasfânt
+Păcatul mi-a luat El, cel Preasfânt {contentHash: {#c26145}}
 
 [sequence]
 v1,c,v2,b,c,e

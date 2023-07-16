@@ -1,5 +1,5 @@
 [title]
-Dimineață {author: {Emma Repede}}
+Dimineață {author: {Emma Repede}, contentHash: {#f84105}}
 
 [sequence]
 v1,c,v2,c

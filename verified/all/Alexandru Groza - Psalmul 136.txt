@@ -1,5 +1,5 @@
 [title]
-Psalmul 136 {author: {Alexandru Groza}}
+Psalmul 136 {author: {Alexandru Groza}, contentHash: {#43d1a4}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

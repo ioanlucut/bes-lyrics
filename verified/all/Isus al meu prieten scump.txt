@@ -1,5 +1,5 @@
 [title]
-Isus, al meu prieten scump
+Isus, al meu prieten scump {contentHash: {#043ba6}}
 
 [sequence]
 v1,v2,v3,v4,v5

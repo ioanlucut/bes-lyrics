@@ -1,5 +1,5 @@
 [title]
-El va domni {alternative: {He Shall Reign Forevermore}, author: {Chris Tomlin}}
+El va domni {alternative: {He Shall Reign Forevermore}, author: {Chris Tomlin}, contentHash: {#2405b0}}
 
 
 [sequence]

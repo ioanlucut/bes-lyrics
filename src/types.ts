@@ -61,4 +61,5 @@ export enum SongMeta {
   ALTERNATIVE = 'alternative',
   AUTHOR = 'author',
   VERSION = 'version',
+  CONTENT_HASH = 'contentHash',
 }

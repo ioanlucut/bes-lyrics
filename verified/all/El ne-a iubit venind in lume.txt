@@ -1,5 +1,5 @@
 [title]
-El ne-a iubit venind în lume
+El ne-a iubit venind în lume {contentHash: {#8c4457}}
 
 [sequence]
 v1,c,v2,c,v3,c

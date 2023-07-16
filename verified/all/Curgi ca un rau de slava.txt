@@ -1,5 +1,5 @@
 [title]
-Curgi ca un râu de slavă
+Curgi ca un râu de slavă {contentHash: {#a43937}}
 
 [sequence]
 c,v1

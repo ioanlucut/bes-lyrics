@@ -1,5 +1,5 @@
 [title]
-Splendoare de-mpărat
+Splendoare de-mpărat {contentHash: {#de0853}}
 
 [sequence]
 v1,c,v2,c,b,c

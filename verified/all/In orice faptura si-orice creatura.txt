@@ -1,5 +1,5 @@
 [title]
-În orice făptură și-orice creatură
+În orice făptură și-orice creatură {contentHash: {#08d945}}
 
 [sequence]
 v1,c,v2,c,v3,c

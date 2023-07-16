@@ -1,5 +1,5 @@
 [title]
-Înălțăm lauda noastră
+Înălțăm lauda noastră {contentHash: {#8ec6a0}}
 
 [sequence]
 v1,c,v2,c,b,b2,b,e

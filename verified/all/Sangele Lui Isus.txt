@@ -1,5 +1,5 @@
 [title]
-Sângele Lui Isus
+Sângele Lui Isus {contentHash: {#64c998}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-M-a aflat pe căi străine {author: {BBSO}}
+M-a aflat pe căi străine {author: {BBSO}, contentHash: {#5c37df}}
 
 [sequence]
 v1,v2,c,c2,v3,c2

@@ -1,5 +1,5 @@
 [title]
-Domnului mulțumiți căci este bun
+Domnului mulțumiți căci este bun {contentHash: {#286abd}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Nimeni nu-i ca Tine {author: {Callatis Praise}}
+Nimeni nu-i ca Tine {author: {Callatis Praise}, contentHash: {#680327}}
 
 [sequence]
 v1,c,v2,c2

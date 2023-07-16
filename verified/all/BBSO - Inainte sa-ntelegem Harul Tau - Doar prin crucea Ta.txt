@@ -1,5 +1,5 @@
 [title]
-Înainte să-nțelegem Harul Tău {alternative: {Doar prin crucea Ta}, author: {BBSO}}
+Înainte să-nțelegem Harul Tău {alternative: {Doar prin crucea Ta}, author: {BBSO}, contentHash: {#2cb663}}
 
 [sequence]
 v1,b,c,v2,b,c,e

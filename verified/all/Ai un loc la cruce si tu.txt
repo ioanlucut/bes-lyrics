@@ -1,5 +1,5 @@
 [title]
-Ai un loc la cruce și tu
+Ai un loc la cruce și tu {contentHash: {#251c5c}}
 
 [sequence]
 c,v1

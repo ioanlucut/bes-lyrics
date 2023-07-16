@@ -1,5 +1,5 @@
 [title]
-Pregătește-mi inima, Doamne {author: {Alin Timofte}}
+Pregătește-mi inima, Doamne {author: {Alin Timofte}, contentHash: {#007c61}}
 
 [sequence]
 c

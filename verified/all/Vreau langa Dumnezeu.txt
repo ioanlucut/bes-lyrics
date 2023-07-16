@@ -1,60 +1,60 @@
 [title]
-Vreau, lângă Dumnezeu
+Vreau, lângă Dumnezeu {contentHash: {#0514c4}}
 
 [sequence]
 v1,v2,v3,v4,v5
 
 [v1]
-Vreau, lângă Dumnezeu, 
+Vreau, lângă Dumnezeu,
 Să fiu mereu,
-Oricât ar fi de greu 
+Oricât ar fi de greu
 Necazul meu.
 
-/: Oricât voi suferi, 
+/: Oricât voi suferi,
 Cântarea mea va fi:
-„Vreau, lângă Dumnezeu, 
+„Vreau, lângă Dumnezeu,
 Să fiu mereu!” :/
 
 [v2]
-Pe-ndepărtate căi 
+Pe-ndepărtate căi
 De-aș înnopta,
-Și-o piatră căpătâi 
+Și-o piatră căpătâi
 Dac-aș avea,
 
-Tot fericit aș fi 
+Tot fericit aș fi
 Și-n vis aș glăsui:
-„Vreau, lângă Dumnezeu, 
+„Vreau, lângă Dumnezeu,
 Să fiu mereu!”
 
 [v3]
-De sunt împovărat 
+De sunt împovărat
 Cu slăbiciuni,
-Și mult am de luptat 
+Și mult am de luptat
 În rugăciuni,
 
-Mai mult mă oțelesc, 
+Mai mult mă oțelesc,
 În harul Tău ceresc.
-„Vreau, lângă Dumnezeu, 
+„Vreau, lângă Dumnezeu,
 Să fiu mereu!”
 
 [v4]
-Când calea-mi voi sfârși, 
+Când calea-mi voi sfârși,
 Ici pe pământ,
-Și-n veșnicii voi fi, 
+Și-n veșnicii voi fi,
 Cu Domnul sfânt,
 
-Voi fi prea fericit, 
+Voi fi prea fericit,
 Cu-al meu Isus iubit,
-„Vreau, lângă Dumnezeu, 
+„Vreau, lângă Dumnezeu,
 Să fiu mereu!”
 
 [v5]
-Viața mea o-nchin 
+Viața mea o-nchin
 Lui Dumnezeu.
-La El, cu toate 
+La El, cu toate
 Vin prin harul Său.
 
-Aproape vreau să fiu 
+Aproape vreau să fiu
 De Domnul meu cel viu:
-„Vreau, lângă Dumnezeu, 
+„Vreau, lângă Dumnezeu,
 Să fiu mereu!”

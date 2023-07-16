@@ -1,5 +1,5 @@
 [title]
-Toată inima {author: {Harvest Arad}}
+Toată inima {author: {Harvest Arad}, contentHash: {#980513}}
 
 [sequence]
 v1,c,v2,c,b,c

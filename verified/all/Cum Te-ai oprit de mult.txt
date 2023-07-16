@@ -1,5 +1,5 @@
 [title]
-Cum Te-ai oprit de mult
+Cum Te-ai oprit de mult {contentHash: {#cddf3c}}
 
 [sequence]
 v1,v2,v3,v4
@@ -10,10 +10,10 @@ Venind pe-asin călare,
 Milos și bun samaritean
 În bunătatea-Ți mare.
 
-/: Te-oprește o clipă și la noi, 
+/: Te-oprește o clipă și la noi,
 Suntem bătuți, trudiți și goi,
 Samariteanule milos, mai leagă rănile ce dor,
-Mai toarnă leac vindecător 
+Mai toarnă leac vindecător
 O, medic sfânt, Isus Cristos! :/
 
 [v2]
@@ -22,7 +22,7 @@ Spre Ierihon la vale,
 Nepăsători cu pași grăbiți
 Văzându-și de-a lor cale.
 
-/: Dar, tu, Isuse, te-ai oprit 
+/: Dar, tu, Isuse, te-ai oprit
 La cel’ căzut, la cel’ lovit,
 Ce din durere Te-a chemat.
 I-ai pus pe răni ulei și vin,
@@ -34,11 +34,11 @@ E-un han de poposire,
 Să intre orișicine-ar vrea
 Căci Tu-i dai mântuire.
 
-/: Și-acei săraci și-acei sărmani 
+/: Și-acei săraci și-acei sărmani
 Și-ologi și văduve și-orfani
-Căci brațul Tău e larg deschis 
+Căci brațul Tău e larg deschis
 Și-acei loviți și-acei huliți
-Și-acei ce-n lume-s rătăciți 
+Și-acei ce-n lume-s rătăciți
 Veniți la mine, Tu ai zis. :/
 
 [v4]
@@ -47,9 +47,9 @@ M-ai găsit și pe mine,
 N-aveam Isus pe nimeni
 Durerea să-mi aline.
 
-/: Spre mine-ncet Te-ai aplecat 
+/: Spre mine-ncet Te-ai aplecat
 Cu dragoste m-ai ridicat
-Și mi-ai vorbit blând și duios, 
+Și mi-ai vorbit blând și duios,
 M-ai mângâiat, m-ai îngrijit
-Și prețul meu Tu l-ai plătit, 
+Și prețul meu Tu l-ai plătit,
 Prieten drag, Isus Cristos. :/

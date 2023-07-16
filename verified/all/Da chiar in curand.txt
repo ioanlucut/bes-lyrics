@@ -1,5 +1,5 @@
 [title]
-Da, chiar în curând
+Da, chiar în curând {contentHash: {#d99267}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Curgi {author: {Callatis Praise}}
+Curgi {author: {Callatis Praise}, contentHash: {#868754}}
 
 [sequence]
 v1,c

@@ -1,5 +1,5 @@
 [title]
-Doamne, îndrumă-mi pașii {author: {Otto Pascal}}
+Doamne, îndrumă-mi pașii {author: {Otto Pascal}, contentHash: {#334430}}
 
 [sequence]
 v1,b,c,v2,c

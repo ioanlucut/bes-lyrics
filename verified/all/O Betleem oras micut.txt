@@ -1,5 +1,5 @@
 [title]
-O, Betleem oraș micuț
+O, Betleem oraș micuț {contentHash: {#86ed47}}
 
 [sequence]
 v1,v2,v3
@@ -17,7 +17,7 @@ Celui făr-de-nceput.
 [v2]
 Pe când dormeai nepăsător,
 Mesia a venit
-Și oști cerești slăveau în cor 
+Și oști cerești slăveau în cor
 Pe Cel ce ne-a iubit.
 O, steaua dimineții,
 Vestește-i nașterea

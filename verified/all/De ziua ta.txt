@@ -1,5 +1,5 @@
 [title]
-De ziua ta
+De ziua ta {contentHash: {#1d22d5}}
 
 [sequence]
 v1,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Tu ești Cel ce ai fost din veșnicii {author: {BBSO}}
+Tu ești Cel ce ai fost din veșnicii {author: {BBSO}, contentHash: {#79977e}}
 
 [sequence]
 v1,v2,p,c,v1,v2,p,c

@@ -1,5 +1,5 @@
 [title]
-Sângele Tău m-a curățit
+Sângele Tău m-a curățit {contentHash: {#ecf1b3}}
 
 [sequence]
 v1,c,v1,c

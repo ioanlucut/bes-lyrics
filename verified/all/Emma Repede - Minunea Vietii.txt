@@ -1,5 +1,5 @@
 [title]
-Minunea Vieții {author: {Emma Repede}}
+Minunea Vieții {author: {Emma Repede}, contentHash: {#221fb3}}
 
 [sequence]
 v1,b,c,v2,c

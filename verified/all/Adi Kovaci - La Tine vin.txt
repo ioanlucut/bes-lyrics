@@ -1,5 +1,5 @@
 [title]
-La Tine vin {author: {Adi Kovaci}}
+La Tine vin {author: {Adi Kovaci}, contentHash: {#5b801a}}
 
 [sequence]
 v1,c,v2,c

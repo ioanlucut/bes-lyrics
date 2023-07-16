@@ -1,5 +1,5 @@
 [title]
-Ce dulce ești, Isuse
+Ce dulce ești, Isuse {contentHash: {#9726c3}}
 
 [sequence]
 v1,p,v2,c,v3,c2

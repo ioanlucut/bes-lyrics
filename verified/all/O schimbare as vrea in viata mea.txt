@@ -1,5 +1,5 @@
 [title]
-O schimbare aș vrea în viața mea
+O schimbare aș vrea în viața mea {contentHash: {#f58a5e}}
 
 [sequence]
 v1,c,v2,c

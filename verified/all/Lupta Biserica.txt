@@ -1,5 +1,5 @@
 [title]
-Luptă, Biserică!
+Luptă, Biserică! {contentHash: {#93dfbe}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Eu am pornit fericit pe cărare
+Eu am pornit fericit pe cărare {contentHash: {#c1f884}}
 
 [sequence]
 v1,c,v2,c,v3,c

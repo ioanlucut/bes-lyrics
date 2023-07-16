@@ -1,5 +1,5 @@
 [title]
-Cel minunat, Salvatorul
+Cel minunat, Salvatorul {contentHash: {#9f9b1c}}
 
 [sequence]
 v1,c,v2,c,v3,c

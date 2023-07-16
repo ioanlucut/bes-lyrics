@@ -1,5 +1,5 @@
 [title]
-O, cât de bun
+O, cât de bun {contentHash: {#777880}}
 
 [sequence]
 v1,c,v2,c,b,v3,c

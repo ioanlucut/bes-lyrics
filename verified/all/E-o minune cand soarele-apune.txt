@@ -1,5 +1,5 @@
 [title]
-E-o minune când soarele-apune
+E-o minune când soarele-apune {contentHash: {#ce639c}}
 
 [sequence]
 v1,c,v2,c,v3,c

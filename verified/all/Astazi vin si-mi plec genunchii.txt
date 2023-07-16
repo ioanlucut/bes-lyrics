@@ -1,5 +1,5 @@
 [title]
-Astăzi vin și-mi plec genunchii
+Astăzi vin și-mi plec genunchii {contentHash: {#39f7ad}}
 
 [sequence]
 v1,v2,v3,v4

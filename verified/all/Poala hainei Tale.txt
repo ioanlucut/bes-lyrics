@@ -1,5 +1,5 @@
 [title]
-Poala hainei Tale
+Poala hainei Tale {contentHash: {#0b8010}}
 
 [sequence]
 v1,c,e

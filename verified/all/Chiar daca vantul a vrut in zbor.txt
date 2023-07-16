@@ -1,5 +1,5 @@
 [title]
-Chiar dacă vântul a vrut în zbor
+Chiar dacă vântul a vrut în zbor {contentHash: {#f604c0}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

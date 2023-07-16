@@ -1,5 +1,5 @@
 [title]
-Ce mare har să poți vedea
+Ce mare har să poți vedea {contentHash: {#239e33}}
 
 [sequence]
 v1,v2,v3,v4,v5

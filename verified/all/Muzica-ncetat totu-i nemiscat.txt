@@ -1,5 +1,5 @@
 [title]
-Muzica-ncetat, totu-i nemișcat
+Muzica-ncetat, totu-i nemișcat {contentHash: {#21cfaf}}
 
 [sequence]
 v1,p,c,v1,p,c

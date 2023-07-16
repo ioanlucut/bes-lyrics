@@ -1,5 +1,5 @@
 [title]
-Vrednic {alternative: {Worthy}, author: {Betania Dublin}}
+Vrednic {alternative: {Worthy}, author: {Betania Dublin}, contentHash: {#b9df69}}
 
 [sequence]
 v1,c,v2,c,b,c

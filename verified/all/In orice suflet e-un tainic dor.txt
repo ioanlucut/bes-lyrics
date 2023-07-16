@@ -1,5 +1,5 @@
 [title]
-În orice suflet e-un tainic dor
+În orice suflet e-un tainic dor {contentHash: {#1539da}}
 
 [sequence]
 v1,c,v2,c,v3,c

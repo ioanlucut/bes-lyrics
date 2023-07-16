@@ -1,5 +1,5 @@
 [title]
-Acolo noapte nu va fi {author: {Emma Repede}}
+Acolo noapte nu va fi {author: {Emma Repede}, contentHash: {#290e6a}}
 
 [sequence]
 v1,c,v2,c2,v3,c

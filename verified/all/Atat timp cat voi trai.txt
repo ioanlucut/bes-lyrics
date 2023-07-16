@@ -1,5 +1,5 @@
 [title]
-Atât timp cât voi trăi
+Atât timp cât voi trăi {contentHash: {#0205cf}}
 
 [sequence]
 v1,c,v2,c

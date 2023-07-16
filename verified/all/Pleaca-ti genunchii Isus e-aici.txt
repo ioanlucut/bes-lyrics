@@ -1,5 +1,5 @@
 [title]
-Pleacă-ți genunchii, Isus e-aici
+Pleacă-ți genunchii, Isus e-aici {contentHash: {#baad2c}}
 
 [sequence]
 v1,c,v2,c

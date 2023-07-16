@@ -1,5 +1,5 @@
 [title]
-Rugăciune pentru cetate {author: {Alin Timofte}}
+Rugăciune pentru cetate {author: {Alin Timofte}, contentHash: {#08e719}}
 
 [sequence]
 v1,b,c,v2,b,c,v3,b,c

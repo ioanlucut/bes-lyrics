@@ -1,5 +1,5 @@
 [title]
-Nu pot să spun {author: {Ahava}}
+Nu pot să spun {author: {Ahava}, contentHash: {#aa7ba3}}
 
 [sequence]
 v1,c,v2,c,e

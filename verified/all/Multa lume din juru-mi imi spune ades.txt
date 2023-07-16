@@ -1,5 +1,5 @@
 [title]
-Multă lume din juru-mi îmi spune ades’
+Multă lume din juru-mi îmi spune ades’ {contentHash: {#0c1bf9}}
 
 [sequence]
 v1,c,v2,c

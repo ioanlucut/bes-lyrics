@@ -1,5 +1,5 @@
 [title]
-El s-a născut
+El s-a născut {contentHash: {#963a97}}
 
 [sequence]
 v1,c,v2,c

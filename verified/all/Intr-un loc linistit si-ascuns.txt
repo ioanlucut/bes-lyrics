@@ -1,5 +1,5 @@
 [title]
-Într-un loc liniștit și-ascuns
+Într-un loc liniștit și-ascuns {contentHash: {#71397b}}
 
 [sequence]
 v1,c,v2,c

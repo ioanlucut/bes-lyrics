@@ -1,7 +1,11 @@
 import { trim } from 'lodash-es';
 import { CARRIAGE_RETURN, COMMA, EMPTY_STRING, NEW_LINE } from './constants.js';
 import { SongSection } from './types.js';
-import { isKnownSongSequence, isTestEnv } from './utils.js';
+import {
+  computeUniqueContentHash,
+  isKnownSongSequence,
+  isTestEnv,
+} from './utils.js';
 
 export const reprocess = (songContent: string) => {
   return songContent
@@ -46,6 +50,7 @@ export const reprocess = (songContent: string) => {
     .replaceAll('[ending]', SongSection.ENDING)
     .replaceAll('[Sequence]', SongSection.SEQUENCE)
     .replaceAll('[Title]', SongSection.TITLE)
+    .replaceAll('#TEMP', `#${computeUniqueContentHash(songContent)}`)
     .replaceAll(
       isTestEnv() ? /(\[sequence])(\n.*)/gim : /(\[sequence])(\r\n.*)/gim,
       (ignore, firstMatch, secondMatch) => {

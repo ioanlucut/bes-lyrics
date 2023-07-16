@@ -1,5 +1,5 @@
 [title]
-O, de-aș avea eu limbi o mie {author: {Accappella}}
+O, de-aș avea eu limbi o mie {author: {Accappella}, contentHash: {#97259c}}
 
 [sequence]
 v1,v2,v3,v4

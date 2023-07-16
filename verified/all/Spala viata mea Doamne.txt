@@ -1,5 +1,5 @@
 [title]
-Spală viața mea, Doamne
+Spală viața mea, Doamne {contentHash: {#fd9f47}}
 
 [sequence]
 v1,p,c,v2,p2,c2

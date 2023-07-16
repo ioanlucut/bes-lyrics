@@ -1,5 +1,5 @@
 [title]
-Îl văd pe El, pe Domnul meu {author: {Alin Timofte}}
+Îl văd pe El, pe Domnul meu {author: {Alin Timofte}, contentHash: {#02f16c}}
 
 [sequence]
 c,v1,c,v1,c,v1,c

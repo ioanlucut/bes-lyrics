@@ -1,5 +1,5 @@
 [title]
-Chemați, prin cântări, bucuria!
+Chemați, prin cântări, bucuria! {contentHash: {#dbe61d}}
 
 [sequence]
 v1,v2,v3,v4

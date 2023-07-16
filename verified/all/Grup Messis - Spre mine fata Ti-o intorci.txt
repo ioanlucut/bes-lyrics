@@ -1,5 +1,5 @@
 [title]
-Spre mine fața Ți-o întorci {author: {Grup Messis}}
+Spre mine fața Ți-o întorci {author: {Grup Messis}, contentHash: {#1b7452}}
 
 [sequence]
 v1,c,v2,c,e

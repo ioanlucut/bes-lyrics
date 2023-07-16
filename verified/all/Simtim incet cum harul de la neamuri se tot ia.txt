@@ -1,5 +1,5 @@
 [title]
-Simțim încet cum harul de la neamuri se tot ia
+Simțim încet cum harul de la neamuri se tot ia {contentHash: {#dba8d1}}
 
 [sequence]
 v1,c,v2,c,v3,c

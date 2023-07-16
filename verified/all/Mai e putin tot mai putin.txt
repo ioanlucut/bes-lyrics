@@ -1,5 +1,5 @@
 [title]
-Mai e puțin, tot mai puțin
+Mai e puțin, tot mai puțin {contentHash: {#1b8b63}}
 
 [sequence]
 v1,c,v2,c,v3,c

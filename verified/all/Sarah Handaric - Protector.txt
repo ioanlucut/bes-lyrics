@@ -1,5 +1,5 @@
 [title]
-Protector {author: {Sarah Handaric}}
+Protector {author: {Sarah Handaric}, contentHash: {#fbfea6}}
 
 [sequence]
 v1,c,v2,b,c

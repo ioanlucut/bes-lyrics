@@ -1,5 +1,5 @@
 [title]
-Laude, laude {author: {Otto Pascal}}
+Laude, laude {author: {Otto Pascal}, contentHash: {#c2c92a}}
 
 [sequence]
 c,v1,b,v2,c,v3,c

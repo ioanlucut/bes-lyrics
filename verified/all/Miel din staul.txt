@@ -1,5 +1,5 @@
 [title]
-Miel din staul
+Miel din staul {contentHash: {#ff4104}}
 
 [sequence]
 v1,c,v2,c,v3,c

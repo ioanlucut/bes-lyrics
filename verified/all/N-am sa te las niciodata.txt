@@ -1,5 +1,5 @@
 [title]
-N-am să te las niciodată
+N-am să te las niciodată {contentHash: {#bace9d}}
 
 [sequence]
 v1,c,v2,c,v3,c

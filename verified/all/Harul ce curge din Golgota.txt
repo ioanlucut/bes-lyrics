@@ -1,5 +1,5 @@
 [title]
-Harul ce curge din Golgota
+Harul ce curge din Golgota {contentHash: {#cadb2f}}
 
 [sequence]
 v1,c,v2,c,v3,c

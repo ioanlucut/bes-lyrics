@@ -1,5 +1,5 @@
 [title]
-Pentru noi e taină mare
+Pentru noi e taină mare {contentHash: {#a34689}}
 
 [sequence]
 v1,c,v2,c,v3,c

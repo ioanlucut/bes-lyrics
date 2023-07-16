@@ -1,5 +1,5 @@
 [title]
-Când vom intra pe-ale tale porți de aur
+Când vom intra pe-ale tale porți de aur {contentHash: {#86c043}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

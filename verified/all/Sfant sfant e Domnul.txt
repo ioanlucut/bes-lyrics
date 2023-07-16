@@ -1,5 +1,5 @@
 [title]
-Sfânt, sfânt e Domnul
+Sfânt, sfânt e Domnul {contentHash: {#494dfc}}
 
 [sequence]
 v1,v2,v3,v4

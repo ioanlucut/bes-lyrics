@@ -1,5 +1,5 @@
 [title]
-Ne-ai fost, Doamne, ajutor {author: {Puiu Chibici}}
+Ne-ai fost, Doamne, ajutor {author: {Puiu Chibici}, contentHash: {#ac380f}}
 
 [sequence]
 v1,v2,v3,v4

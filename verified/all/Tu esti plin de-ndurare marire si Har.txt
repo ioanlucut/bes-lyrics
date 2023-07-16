@@ -1,5 +1,5 @@
 [title]
-Tu ești plin de-ndurare, mărire și Har
+Tu ești plin de-ndurare, mărire și Har {contentHash: {#ce2727}}
 
 [sequence]
 v1,c,v2,c,v3,c

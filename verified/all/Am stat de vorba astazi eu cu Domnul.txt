@@ -1,5 +1,5 @@
 [title]
-Am stat de vorbă, astăzi, eu cu Domnul
+Am stat de vorbă, astăzi, eu cu Domnul {contentHash: {#77c08c}}
 
 [sequence]
 v1,c,v2,c,v3,c

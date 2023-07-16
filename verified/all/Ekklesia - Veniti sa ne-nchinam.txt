@@ -1,5 +1,5 @@
 [title]
-Veniți să ne-nchinăm {author: {Ekklesia}}
+Veniți să ne-nchinăm {author: {Ekklesia}, contentHash: {#cc091d}}
 
 [sequence]
 v1,c,v2,c

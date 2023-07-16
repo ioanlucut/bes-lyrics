@@ -1,5 +1,5 @@
 [title]
-Ai ales piroane și spini
+Ai ales piroane și spini {contentHash: {#73ad71}}
 
 [sequence]
 v1,c,v2,b,b2

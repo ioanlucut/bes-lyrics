@@ -1,5 +1,5 @@
 [title]
-Doamne, Îți mulțumim {author: {Elim Harmony}}
+Doamne, Îți mulțumim {author: {Elim Harmony}, contentHash: {#0638d3}}
 
 [sequence]
 v1,b,c,b2,c

@@ -1,5 +1,5 @@
 [title]
-Nu pot să știu {author: {Adi Kovaci}}
+Nu pot să știu {author: {Adi Kovaci}, contentHash: {#4d69ca}}
 
 [sequence]
 v1,c,v2,c,e

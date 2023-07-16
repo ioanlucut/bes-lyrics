@@ -1,5 +1,5 @@
 [title]
-Om după inima Ta {author: {Ekklesia}}
+Om după inima Ta {author: {Ekklesia}, contentHash: {#956ebf}}
 
 [sequence]
 v1,c,v2,c,e

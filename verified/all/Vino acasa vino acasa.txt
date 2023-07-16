@@ -1,5 +1,5 @@
 [title]
-Vino acasă, vino acasă
+Vino acasă, vino acasă {contentHash: {#fc4c3a}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

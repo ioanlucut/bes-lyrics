@@ -1,5 +1,5 @@
 [title]
-Mai mult ca orice Dumnezeu iubește omul
+Mai mult ca orice Dumnezeu iubește omul {contentHash: {#4e177a}}
 
 [sequence]
 v1,c,v2,c

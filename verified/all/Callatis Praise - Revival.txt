@@ -1,5 +1,5 @@
 [title]
-Revival {author: {Callatis Praise}}
+Revival {author: {Callatis Praise}, contentHash: {#792229}}
 
 [sequence]
 v1,c,v2,c

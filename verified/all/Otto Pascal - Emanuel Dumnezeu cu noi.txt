@@ -1,5 +1,5 @@
 [title]
-Emanuel, Dumnezeu cu noi {author: {Otto Pascal}}
+Emanuel, Dumnezeu cu noi {author: {Otto Pascal}, contentHash: {#3a2c69}}
 
 [sequence]
 v1,c,v2,c,v3,c

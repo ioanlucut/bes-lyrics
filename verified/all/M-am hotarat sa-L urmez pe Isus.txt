@@ -1,5 +1,5 @@
 [title]
-M-am hotărât să-L urmez pe Isus
+M-am hotărât să-L urmez pe Isus {contentHash: {#44d46e}}
 
 [sequence]
 v1,v2,v3,v4

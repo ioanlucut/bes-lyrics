@@ -1,5 +1,5 @@
 [title]
-În orașul Betleem, Iosif cu sfânta Maria
+În orașul Betleem, Iosif cu sfânta Maria {contentHash: {#2c6c89}}
 
 [sequence]
 v1,v2,v3

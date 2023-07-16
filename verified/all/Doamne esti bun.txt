@@ -1,5 +1,5 @@
 [title]
-Doamne ești bun
+Doamne ești bun {contentHash: {#9003cb}}
 
 [sequence]
 v1,c,v2,c

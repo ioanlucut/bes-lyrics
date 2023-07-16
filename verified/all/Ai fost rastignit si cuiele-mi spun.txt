@@ -1,5 +1,5 @@
 [title]
-Ai fost răstignit și cuiele-mi spun
+Ai fost răstignit și cuiele-mi spun {contentHash: {#4793e5}}
 
 [sequence]
 v1,c,v1,c

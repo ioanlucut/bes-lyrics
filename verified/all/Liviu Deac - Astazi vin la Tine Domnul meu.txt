@@ -1,5 +1,5 @@
 [title]
-Astăzi vin la Tine, Domnul meu {author: {Liviu Deac}}
+Astăzi vin la Tine, Domnul meu {author: {Liviu Deac}, contentHash: {#ee1907}}
 
 [sequence]
 v1,p,c,v2,p,c,e

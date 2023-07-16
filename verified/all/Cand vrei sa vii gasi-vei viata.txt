@@ -1,5 +1,5 @@
 [title]
-Când vrei să vii, găsi-vei viața
+Când vrei să vii, găsi-vei viața {contentHash: {#33405f}}
 
 [sequence]
 c,v1,c,v2

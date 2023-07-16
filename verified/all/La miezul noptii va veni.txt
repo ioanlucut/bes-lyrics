@@ -1,5 +1,5 @@
 [title]
-La miezul nopții va veni
+La miezul nopții va veni {contentHash: {#bdbe2f}}
 
 [sequence]
 v1,v2,v3

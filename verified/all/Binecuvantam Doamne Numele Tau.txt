@@ -1,5 +1,5 @@
 [title]
-Binecuvântăm, Doamne, Numele Tău
+Binecuvântăm, Doamne, Numele Tău {contentHash: {#d726e4}}
 
 [sequence]
 v1,c,v1,c

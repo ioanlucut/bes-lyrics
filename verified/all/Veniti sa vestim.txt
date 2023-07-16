@@ -1,5 +1,5 @@
 [title]
-Veniți să vestim
+Veniți să vestim {contentHash: {#b07eda}}
 
 [sequence]
 v1,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Inima mea Te laudă
+Inima mea Te laudă {contentHash: {#e4b5f4}}
 
 [sequence]
 v1,c,v1,c

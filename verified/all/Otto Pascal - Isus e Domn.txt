@@ -1,5 +1,5 @@
 [title]
-Isus e Domn {author: {Otto Pascal}}
+Isus e Domn {author: {Otto Pascal}, contentHash: {#dae79d}}
 
 [sequence]
 v1,p,v2,c,v3,c2

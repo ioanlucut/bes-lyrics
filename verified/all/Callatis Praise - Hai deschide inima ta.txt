@@ -1,5 +1,5 @@
 [title]
-Hai, deschide inima ta {author: {Callatis Praise}}
+Hai, deschide inima ta {author: {Callatis Praise}, contentHash: {#f44e1c}}
 
 [sequence]
 b,b2,c,v1,c,v2

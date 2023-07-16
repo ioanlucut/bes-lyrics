@@ -1,5 +1,5 @@
 [title]
-Refrenul celui mântuit {alternative: {Old Church Choir}, author: {Ekklesia Arad}}
+Refrenul celui mântuit {alternative: {Old Church Choir}, author: {Ekklesia Arad}, contentHash: {#1b73de}}
 
 [sequence]
 v1,c,v2,c,b

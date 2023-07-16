@@ -1,5 +1,5 @@
 [title]
-O, dac-ai știi sub ce blestem am fost și eu cândva
+O, dac-ai știi sub ce blestem am fost și eu cândva {contentHash: {#c45701}}
 
 [sequence]
 v1,c,v2,c

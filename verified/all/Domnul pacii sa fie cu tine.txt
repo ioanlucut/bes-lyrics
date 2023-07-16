@@ -1,5 +1,5 @@
 [title]
-Domnul păcii să fie cu tine
+Domnul păcii să fie cu tine {contentHash: {#d23d68}}
 
 [sequence]
 v1,v2,v3,v4

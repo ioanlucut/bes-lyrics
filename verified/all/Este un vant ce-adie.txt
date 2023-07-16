@@ -1,5 +1,5 @@
 [title]
-Este un vânt ce-adie
+Este un vânt ce-adie {contentHash: {#a57736}}
 
 [sequence]
 v1,c,v2,c,v3,c

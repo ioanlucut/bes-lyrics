@@ -1,5 +1,5 @@
 [title]
-Nu vă mai gândiți la ce a fost ’nainte
+Nu vă mai gândiți la ce a fost ’nainte {contentHash: {#f72185}}
 
 [sequence]
 v1,v2,c,v3,c,b,c

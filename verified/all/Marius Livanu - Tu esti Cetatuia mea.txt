@@ -1,5 +1,5 @@
 [title]
-Tu ești Cetățuia mea {author: {Marius Livanu}}
+Tu ești Cetățuia mea {author: {Marius Livanu}, contentHash: {#f5c165}}
 
 [sequence]
 v1,c,v2,c,v3,c

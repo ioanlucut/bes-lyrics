@@ -1,5 +1,5 @@
 [title]
-Ascunși în dragostea Sa {author: {Otto Pascal}}
+Ascunși în dragostea Sa {author: {Otto Pascal}, contentHash: {#201c4e}}
 
 [sequence]
 v1,c,v2,c,v3,c

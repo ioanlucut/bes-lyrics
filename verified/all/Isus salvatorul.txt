@@ -1,5 +1,5 @@
 [title]
-Isus salvatorul
+Isus salvatorul {contentHash: {#ce32c6}}
 
 [sequence]
 v1,p,c,v2,p,c

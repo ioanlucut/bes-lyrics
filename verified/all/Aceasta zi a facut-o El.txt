@@ -1,5 +1,5 @@
 [title]
-Această zi a făcut-o El
+Această zi a făcut-o El {contentHash: {#2934e5}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Ești Cel mai frumos
+Ești Cel mai frumos {contentHash: {#6eb137}}
 
 [sequence]
 v1,c,v2,c,v3,c

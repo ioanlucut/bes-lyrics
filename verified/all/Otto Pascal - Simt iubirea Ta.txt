@@ -1,5 +1,5 @@
 [title]
-Simt iubirea Ta {author: {Otto Pascal}}
+Simt iubirea Ta {author: {Otto Pascal}, contentHash: {#70b4c2}}
 
 [sequence]
 v1,b,c,v2,c

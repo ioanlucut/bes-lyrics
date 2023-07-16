@@ -1,5 +1,5 @@
 [title]
-Vine Domnul!
+Vine Domnul! {contentHash: {#fe17b7}}
 
 [sequence]
 v1,c,v2,c

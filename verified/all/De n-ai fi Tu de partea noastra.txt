@@ -1,5 +1,5 @@
 [title]
-De n-ai fi Tu de partea noastră
+De n-ai fi Tu de partea noastră {contentHash: {#060332}}
 
 [sequence]
 v1,c,v2,c

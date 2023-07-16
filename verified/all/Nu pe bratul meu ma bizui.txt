@@ -1,5 +1,5 @@
 [title]
-Nu pe brațul meu mă bizui
+Nu pe brațul meu mă bizui {contentHash: {#78cd47}}
 
 [sequence]
 v1,c,v2,c,v3,c

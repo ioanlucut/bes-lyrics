@@ -1,5 +1,5 @@
 [title]
-Totu-i pregătit în casa de sus
+Totu-i pregătit în casa de sus {contentHash: {#c91013}}
 
 [sequence]
 v1,v2,v3,v4,v5

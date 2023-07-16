@@ -1,5 +1,5 @@
 [title]
-Ori de câte ori {author: {Not an Idol}}
+Ori de câte ori {author: {Not an Idol}, contentHash: {#339243}}
 
 [sequence]
 v1,b,c,v2,b2,c

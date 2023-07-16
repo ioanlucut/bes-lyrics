@@ -1,5 +1,5 @@
 [title]
-Privind azi spre cerul albastru
+Privind azi spre cerul albastru {contentHash: {#c38b59}}
 
 [sequence]
 v1,c,v2,c,v3,c

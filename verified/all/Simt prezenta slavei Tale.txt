@@ -1,5 +1,5 @@
 [title]
-Simt prezența slavei Tale
+Simt prezența slavei Tale {contentHash: {#9bbd30}}
 
 [sequence]
 v1,c,v1,c

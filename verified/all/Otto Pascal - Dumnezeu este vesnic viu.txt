@@ -1,5 +1,5 @@
 [title]
-Dumnezeu este veșnic viu {author: {Otto Pascal}}
+Dumnezeu este veșnic viu {author: {Otto Pascal}, contentHash: {#a80376}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Ești atât de obosit, iubite călător
+Ești atât de obosit, iubite călător {contentHash: {#b9cf0e}}
 
 [sequence]
 v1,v2,v3
@@ -8,7 +8,7 @@ v1,v2,v3
 Ești atât de obosit, iubite călător,
 Ai umblat pe căi murdare, fiu rătăcitor.
 Ai cutreierat pământul
-Și-ai cules ca roadă vântul, 
+Și-ai cules ca roadă vântul,
 Chinuit ai fost de rău,
 Dar acum te iartă Sfântul, bunul Dumnezeu.
 

@@ -1,5 +1,5 @@
 [title]
-Cu mult în urmă în Betleem
+Cu mult în urmă în Betleem {contentHash: {#c1ef15}}
 
 [sequence]
 v1,c,v2,c

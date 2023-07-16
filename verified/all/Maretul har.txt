@@ -1,5 +1,5 @@
 [title]
-Mărețul har
+Mărețul har {contentHash: {#e715e1}}
 
 [sequence]
 v1,v2,v3,v4

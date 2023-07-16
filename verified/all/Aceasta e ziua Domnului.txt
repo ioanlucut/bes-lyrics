@@ -1,5 +1,5 @@
 [title]
-Aceasta e ziua Domnului
+Aceasta e ziua Domnului {contentHash: {#b8042d}}
 
 [sequence]
 v1,v2,v3,v4

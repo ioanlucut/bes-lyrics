@@ -1,5 +1,5 @@
 [title]
-Un nume nou
+Un nume nou {contentHash: {#52ad73}}
 
 [sequence]
 v1,p,c,v2,p,c

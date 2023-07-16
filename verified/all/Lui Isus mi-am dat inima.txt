@@ -1,5 +1,5 @@
 [title]
-Lui Isus mi-am dat inima
+Lui Isus mi-am dat inima {contentHash: {#239b76}}
 
 [sequence]
 v1,v2,v3

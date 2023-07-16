@@ -1,5 +1,5 @@
 [title]
-Izbăvitorul meu
+Izbăvitorul meu {contentHash: {#0311c6}}
 
 [sequence]
 v1,c,v2,c

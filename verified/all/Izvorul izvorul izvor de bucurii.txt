@@ -1,5 +1,5 @@
 [title]
-Izvorul, izvorul, izvor de bucurii
+Izvorul, izvorul, izvor de bucurii {contentHash: {#abafeb}}
 
 [sequence]
 v1,c,v2,c,v3,c

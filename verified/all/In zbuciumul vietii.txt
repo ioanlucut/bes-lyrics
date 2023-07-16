@@ -1,5 +1,5 @@
 [title]
-În zbuciumul vieții
+În zbuciumul vieții {contentHash: {#aafbb3}}
 
 [sequence]
 v1,c,v2,c,v3,e

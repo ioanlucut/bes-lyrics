@@ -1,5 +1,5 @@
 [title]
-Sunt fericit {author: {Adi Hentea}}
+Sunt fericit {author: {Adi Hentea}, contentHash: {#23ebe2}}
 
 [sequence]
 v1,c,v2,c

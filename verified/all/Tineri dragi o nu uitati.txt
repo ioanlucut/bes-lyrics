@@ -1,5 +1,5 @@
 [title]
-Tineri dragi, o, nu uitați
+Tineri dragi, o, nu uitați {contentHash: {#6210a4}}
 
 [sequence]
 v1,c,v2,c,v3,c

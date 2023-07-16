@@ -1,5 +1,5 @@
 [title]
-Slăvit e-n veci Numele Tău Sfânt {author: {Betania Dublin}}
+Slăvit e-n veci Numele Tău Sfânt {author: {Betania Dublin}, contentHash: {#4a0ffe}}
 
 [sequence]
 v1,c,v2,c,v3,c

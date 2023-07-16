@@ -1,5 +1,5 @@
 [title]
-Fără Tine, Doamne, sunt pierdut
+Fără Tine, Doamne, sunt pierdut {contentHash: {#e37b61}}
 
 [sequence]
 v1,c,v1,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Iertare {author: {Not an Idol}}
+Iertare {author: {Not an Idol}, contentHash: {#8f1f38}}
 
 [sequence]
 v1,c,v2,c,c

@@ -1,5 +1,5 @@
 [title]
-Medicul bun se-apropie
+Medicul bun se-apropie {contentHash: {#865af9}}
 
 [sequence]
 v1,c,v2,c,v3,c
