@@ -31,7 +31,10 @@ const getCleanVersion = (title: string) => {
     .replaceAll('ț', 't');
 };
 
-export const deriveFromTitle = (titleContent: string) => {
+export const deriveFromTitle = (
+  titleContent: string,
+  versionHashSuffix: string,
+) => {
   const [title, meta] = getTitleContent(titleContent);
 
   const metaSections =
@@ -63,6 +66,7 @@ export const deriveFromTitle = (titleContent: string) => {
     trim(getCleanVersion(title)),
     getCleanVersion(metaSections[SongMeta.ALTERNATIVE]),
     metaSections[SongMeta.VERSION],
+    `#${versionHashSuffix}`,
   ]
     .filter(Boolean)
     .join(' - ');

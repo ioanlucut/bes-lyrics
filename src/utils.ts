@@ -1,6 +1,7 @@
-import { isEqual, trim } from 'lodash-es';
+import { flattenDeep, isEqual, trim, uniq } from 'lodash-es';
 import { SequenceChar } from './types.js';
 import { EMPTY_STRING, TEST_ENV } from './constants.js';
+import * as crypto from 'crypto';
 
 export const logFileWithLinkInConsole = (filePath: string) =>
   console.log(`at ${filePath}:1:1`);
@@ -55,3 +56,16 @@ export const isTestEnv = () => process.env.NODE_ENV === TEST_ENV;
 
 export const getCharWithoutMarkup = (charWithMarkup: string) =>
   charWithMarkup.replaceAll('[', EMPTY_STRING).replaceAll(']', EMPTY_STRING);
+
+export const getUniqueCharsAndRelevantChars = (content: string) =>
+  flattenDeep(uniq(content.replaceAll(/\(\),-\.:;\?!/gimu, EMPTY_STRING)))
+    .filter(Boolean)
+    .sort();
+
+export const computeUniqueContentHash = (content: string) =>
+  crypto
+    .createHash('shake256', {
+      outputLength: 1,
+    })
+    .update(getUniqueCharsAndRelevantChars(content).join(EMPTY_STRING), 'utf8')
+    .digest('hex');

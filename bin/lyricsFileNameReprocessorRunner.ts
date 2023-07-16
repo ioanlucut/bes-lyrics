@@ -4,6 +4,7 @@ import * as process from 'process';
 import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
 import { isEqual, trim } from 'lodash-es';
+import * as crypto from 'node:crypto';
 import chalk from 'chalk';
 import {
   logFileWithLinkInConsole,
@@ -11,6 +12,7 @@ import {
   SongSection,
   EMPTY_STRING,
   TXT_EXTENSION,
+  computeUniqueContentHash,
 } from '../src/index.js';
 import { fileURLToPath } from 'url';
 
@@ -34,7 +36,10 @@ const run = async (dir: string) => {
         .filter(Boolean)
         .map(trim)[0];
 
-      const newFileName = lyricsFileNameReprocessor.deriveFromTitle(title);
+      const newFileName = lyricsFileNameReprocessor.deriveFromTitle(
+        title,
+        computeUniqueContentHash(existingContent),
+      );
       const hasNoChange = isEqual(fileName, newFileName);
 
       console.group(chalk.cyan(`Processing "${fileName}".`));
