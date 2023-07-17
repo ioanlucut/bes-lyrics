@@ -1,6 +1,6 @@
 import path from 'path';
 import * as process from 'process';
-import { filter, includes, isEmpty, last } from 'lodash-es';
+import { filter, includes, isEmpty } from 'lodash-es';
 import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
 import chalk from 'chalk';
@@ -8,11 +8,9 @@ import {
   ERROR_CODE,
   getHashContentFromSong,
   getSongInSections,
-  HASH,
   logFileWithLinkInConsole,
   logProcessingFile,
   SongMeta,
-  SongSection,
   TXT_EXTENSION,
 } from '../src/index.js';
 import assert from 'node:assert';
