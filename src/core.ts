@@ -1,9 +1,18 @@
-import { flattenDeep, isEqual, last, trim, uniq } from 'lodash-es';
+import { flattenDeep, isEqual, last, parseInt, trim, uniq } from 'lodash-es';
 import * as crypto from 'crypto';
-import { SequenceChar } from './types.js';
-import { EMPTY_STRING, HASH, TEST_ENV } from './constants.js';
 import chalk from 'chalk';
 import short from 'short-uuid';
+import { SequenceChar } from './types.js';
+import {
+  COMMA,
+  DOUBLE_LINE_TUPLE,
+  EMPTY_STRING,
+  HASH,
+  NEW_LINE_TUPLE,
+  TEST_ENV,
+} from './constants.js';
+
+const MISSING_SEQUENCE_NUMBER = 1;
 
 export const logFileWithLinkInConsole = (filePath: string) =>
   console.log(`at ${filePath}:1:1`);
@@ -62,6 +71,9 @@ export const isTestEnv = () => process.env.NODE_ENV === TEST_ENV;
 export const getCharWithoutMarkup = (charWithMarkup: string) =>
   charWithMarkup.replaceAll('[', EMPTY_STRING).replaceAll(']', EMPTY_STRING);
 
+export const getCharWithMarkup = (charWithoutMarkup: string) =>
+  `[${charWithoutMarkup}]`;
+
 export const getUniqueCharsAndRelevantChars = (content: string) =>
   flattenDeep(uniq(content.replaceAll(/\(\),-\.:;\?!/gimu, EMPTY_STRING)))
     .filter(Boolean)
@@ -75,7 +87,7 @@ export const computeUniqueContentHash = (content: string) =>
     .update(content, 'utf8')
     .digest('hex');
 
-export const getSongInSections = (songText: string) =>
+export const getSongInSectionTuples = (songText: string) =>
   songText
     .split(/(\[.*])/gim)
     .filter(Boolean)
@@ -85,3 +97,26 @@ export const getHashContentFromSong = (titleContent: string) =>
   (last(titleContent.split(HASH)) as string).replaceAll('}', EMPTY_STRING);
 
 export const getUniqueId = () => short.generate();
+
+export const createSongMock = (desiredSequence: string[]) => `[title]
+My custom title
+
+[sequence]
+${desiredSequence.join(COMMA)}
+
+${desiredSequence
+  .map((sequence) => `[${sequence}]${NEW_LINE_TUPLE}Content for ${sequence}`)
+  .join(DOUBLE_LINE_TUPLE)}`;
+
+export const createAdvancedSongMock = (tuples: string[][]) => `[title]
+My custom title
+
+[sequence]
+${tuples.map(([sequence]) => sequence).join(COMMA)}
+
+${tuples
+  .map(([sequence, content]) => `[${sequence}]${NEW_LINE_TUPLE}${content}`)
+  .join(DOUBLE_LINE_TUPLE)}`;
+
+export const convertSequenceToNumber = (sequenceOrderQualifier: string) =>
+  parseInt(sequenceOrderQualifier) || MISSING_SEQUENCE_NUMBER;

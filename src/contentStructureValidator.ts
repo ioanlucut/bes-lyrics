@@ -4,7 +4,6 @@ import {
   isEmpty,
   isEqual,
   last,
-  parseInt,
   trim,
   uniq,
   without,
@@ -13,16 +12,16 @@ import chalk from 'chalk';
 import { COMMA, DOT, EMPTY_STRING } from './constants.js';
 import { SequenceChar, SongSection } from './types.js';
 import {
+  convertSequenceToNumber,
   getBridgeRegex,
   getCharWithoutMarkup,
   getChorusRegex,
   getPrechorusRegex,
   getVerseRegex,
   isKnownSongSequence,
-} from './utils.js';
+} from './core.js';
 import assert from 'node:assert';
 
-const MISSING_SEQUENCE_NUMBER = 1;
 const EXPECTED_SUB_SECTIONS_LENGTH = 2;
 
 const REGEX_SUPPLIERS = {
@@ -46,9 +45,6 @@ const assertIsCorrectSequence = (
 
   return true;
 };
-
-const convertSequenceToNumber = (sequenceOrderQualifier: string) =>
-  parseInt(sequenceOrderQualifier) || MISSING_SEQUENCE_NUMBER;
 
 const isSequenceCharInRightOrder = (
   allSequencesWithMarkup: string[],

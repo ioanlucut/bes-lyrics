@@ -7,7 +7,7 @@ import chalk from 'chalk';
 import {
   ERROR_CODE,
   getHashContentFromSong,
-  getSongInSections,
+  getSongInSectionTuples,
   logFileWithLinkInConsole,
   logProcessingFile,
   SongMeta,
@@ -28,7 +28,7 @@ const runValidationForDir = async (dir: string) => {
         logProcessingFile(fileName, 'content hash validation');
         logFileWithLinkInConsole(filePath);
 
-        const maybeTitle = getSongInSections(fileContent)[1];
+        const maybeTitle = getSongInSectionTuples(fileContent)[1];
 
         assert.ok(
           maybeTitle.includes(SongMeta.CONTENT_HASH),

@@ -32,7 +32,7 @@ import {
   TXT_EXTENSION,
   getTitleBySections,
   SongSection,
-  getSongInSections,
+  getSongInSectionTuples,
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -49,14 +49,14 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
     .filter((filePath) => path.extname(filePath) === TXT_EXTENSION)
     .forEach((filePath) => {
       const songAsString = fs.readFileSync(filePath).toString();
-      const songSections = getSongInSections(songAsString);
+      const songSections = getSongInSectionTuples(songAsString);
       const normalizedSongSections = songSections.map((section) => {
         if (section.startsWith('[')) {
           return [CARRIAGE_RETURN, section];
         }
         return section;
       });
-      const songSectionsTuples = getSongInSections(
+      const songSectionsTuples = getSongInSectionTuples(
         trim(flatten(normalizedSongSections).join(NEW_LINE)),
       );
 

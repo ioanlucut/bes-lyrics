@@ -1,13 +1,20 @@
 import { trim } from 'lodash-es';
-import { CARRIAGE_RETURN, COMMA, EMPTY_STRING, NEW_LINE } from './constants.js';
+import { COMMA, EMPTY_STRING, NEW_LINE_TUPLE } from './constants.js';
 import { SongSection } from './types.js';
 import {
   computeUniqueContentHash,
   getUniqueId,
   isKnownSongSequence,
   isTestEnv,
-} from './utils.js';
+} from './core.js';
 
+/**
+ * Reprocesses the song content by just replacing certain string sections.
+ * This is useful for songs that have been processed with the old version
+ * of the app and bring the version up to date.
+ *
+ * @param songContent The song content to be reprocessed
+ */
 export const reprocess = (songContent: string) => {
   return songContent
     .replaceAll('  ', ' ')
@@ -120,7 +127,7 @@ export const reprocess = (songContent: string) => {
         return [
           firstMatch.replaceAll(/[\r\n]/gim, EMPTY_STRING),
           secondMatchRemapped.replaceAll(/[\r\n]/gim, EMPTY_STRING),
-        ].join(`${CARRIAGE_RETURN}${NEW_LINE}`);
+        ].join(NEW_LINE_TUPLE);
       },
     );
 };

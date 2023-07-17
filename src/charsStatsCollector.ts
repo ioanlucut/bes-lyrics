@@ -1,6 +1,6 @@
 import { difference } from 'lodash-es';
 import { ALLOWED_CHARS } from './constants.js';
-import { getUniqueCharsAndRelevantChars } from './utils.js';
+import { getUniqueCharsAndRelevantChars } from './core.js';
 
 export const assemblyCharsStats = (fileName: string, fileContent: string) => {
   const uniqueCharsFromContent = getUniqueCharsAndRelevantChars(fileContent);

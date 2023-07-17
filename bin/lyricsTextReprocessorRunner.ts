@@ -6,12 +6,14 @@ import fs from 'fs';
 import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
+import { flow } from 'lodash-es';
 import recursive from 'recursive-readdir';
 import {
-  TXT_EXTENSION,
-  contentReprocessor,
-  logProcessingFile,
+  basicStructureReprocessor,
+  contentReplacerReprocessor,
   logFileWithLinkInConsole,
+  logProcessingFile,
+  TXT_EXTENSION,
 } from '../src/index.js';
 
 dotenv.config();
@@ -29,7 +31,10 @@ const run = async (dir: string) => {
 
       fs.writeFileSync(
         path.join(path.dirname(filePath), fileName),
-        contentReprocessor.reprocess(songContent),
+        flow([
+          contentReplacerReprocessor.reprocess,
+          basicStructureReprocessor.reprocess,
+        ])(songContent),
       );
     });
 };

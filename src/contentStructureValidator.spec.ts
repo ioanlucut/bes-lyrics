@@ -5,20 +5,7 @@ import {
   SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT,
   SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT,
 } from '../mocks/index.js';
-import { CARRIAGE_RETURN, COMMA, NEW_LINE } from './constants.js';
-
-const createSongMock = (desiredSequence: string[]) => `[title]
-My custom title
-
-[sequence]
-${desiredSequence.join(COMMA)}
-
-${desiredSequence
-  .map(
-    (sequence) =>
-      `[${sequence}]${CARRIAGE_RETURN}${NEW_LINE}Content for ${sequence}`,
-  )
-  .join(`${CARRIAGE_RETURN}${NEW_LINE}${CARRIAGE_RETURN}${NEW_LINE}`)}`;
+import { createSongMock } from './core.js';
 
 describe('contentStructureValidator', () => {
   it('should not throw for a correct song', () => {

@@ -23,10 +23,12 @@ export const NEW_LINE = '\n';
 
 export const CARRIAGE_RETURN = '\r';
 
+export const NEW_LINE_TUPLE = `${CARRIAGE_RETURN}${NEW_LINE}`;
+
+export const DOUBLE_LINE_TUPLE = `${NEW_LINE_TUPLE}${NEW_LINE_TUPLE}`;
+
 export const CHARS_SEPARATORS = /[ !(),./:;?”„\r]+/;
 
 export const ALT_SONGS_FILE_SUFFIX = /(- i|- ii)/;
-
-export const SEQUENCE_SEPARATOR = ',';
 
 export const TEST_ENV = 'test';

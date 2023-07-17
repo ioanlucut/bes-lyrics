@@ -1,7 +1,7 @@
 import { trim } from 'lodash-es';
 import { COLON, COMMA, EMPTY_STRING, TXT_EXTENSION } from './constants.js';
 import { SongMeta } from './types.js';
-import { getTitleBySections } from './utils.js';
+import { getTitleBySections } from './core.js';
 
 const getCleanVersion = (title: string) => {
   if (!title) {

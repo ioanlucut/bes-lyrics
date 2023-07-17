@@ -2,14 +2,15 @@
 Voi veți fi bucuroși, de pace însoțiți {contentHash: {#c342b3}, id: {bz959wVVTkZSpCesuGDx2u}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Voi veți fi bucuroși,
 De pace însoțiți,
 Chiar munții răsuna-vor
 ’naintea voastră,
 
+[v1.2]
 Când voi veți cânta,
 Chiar pomii aflați pe drum
 Din palme vor bătea!
@@ -20,12 +21,19 @@ Pomii din palme vor bătea,
 Pomii din palme vor bătea,
 Când vă veți bucura! :/
 
-[v2]
+[v2.1]
 Deschideți inima,
 Cântați-I laudă
 Și preamăriți cu toții
 Pe Domnul slavei,
 
+[v2.2]
 Când voi veți cânta
 Chiar pomii aflați pe drum
 Din palme vor bătea!
+
+[c]
+/: Și-atuncea pomii din palme vor bătea,
+Pomii din palme vor bătea,
+Pomii din palme vor bătea,
+Când vă veți bucura! :/
