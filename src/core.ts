@@ -1,4 +1,14 @@
-import { flattenDeep, isEqual, last, parseInt, trim, uniq } from 'lodash-es';
+import {
+  filter,
+  flattenDeep,
+  includes,
+  isEqual,
+  last,
+  parseInt,
+  size,
+  trim,
+  uniq,
+} from 'lodash-es';
 import * as crypto from 'crypto';
 import chalk from 'chalk';
 import short from 'short-uuid';
@@ -11,6 +21,7 @@ import {
   NEW_LINE_TUPLE,
   TEST_ENV,
 } from './constants.js';
+import assert from 'node:assert';
 
 const MISSING_SEQUENCE_NUMBER = 1;
 
@@ -120,3 +131,12 @@ ${tuples
 
 export const convertSequenceToNumber = (sequenceOrderQualifier: string) =>
   parseInt(sequenceOrderQualifier) || MISSING_SEQUENCE_NUMBER;
+
+export const assertUniqueness = (array: string[]) =>
+  assert.equal(
+    size(uniq(array)),
+    size(array),
+    `There are duplicates: ${filter(array, (value, index, iteratee) =>
+      includes(iteratee, value, index + 1),
+    ).join(COMMA)}`,
+  );

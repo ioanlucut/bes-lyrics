@@ -12,11 +12,14 @@ import chalk from 'chalk';
 import { COMMA, DOT, EMPTY_STRING } from './constants.js';
 import { SequenceChar, SongSection } from './types.js';
 import {
+  assertUniqueness,
   convertSequenceToNumber,
+  createSongMock,
   getBridgeRegex,
   getCharWithoutMarkup,
   getChorusRegex,
   getPrechorusRegex,
+  getSongInSectionTuples,
   getVerseRegex,
   isKnownSongSequence,
 } from './core.js';
@@ -197,10 +200,7 @@ const isSequenceCharInRightOrder = (
 };
 
 export const verifyStructure = (content: string) => {
-  const sectionTuples = content
-    .split(/(\[.*])/gim)
-    .filter(Boolean)
-    .map(trim);
+  const sectionTuples = getSongInSectionTuples(content);
 
   if (!content.includes(SongSection.TITLE)) {
     throw new Error(`${SongSection.TITLE} is missing.`);
@@ -220,19 +220,28 @@ export const verifyStructure = (content: string) => {
       return `[${sequenceChar}]`;
     });
 
-  const sectionsHashMap = {} as Record<string, string>;
+  const sectionsMap = {} as Record<string, string>;
+  const sequenceNaturalOrder = [] as string[];
 
   for (
     let sectionIndex = 0;
     sectionIndex < sectionTuples.length;
     sectionIndex = sectionIndex + 2
   ) {
-    sectionsHashMap[sectionTuples[sectionIndex] as string] =
-      sectionTuples[sectionIndex + 1];
+    const sectionContent = sectionTuples[sectionIndex + 1];
+    const sectionIdentifier = sectionTuples[sectionIndex];
+
+    if (
+      ![SongSection.TITLE, SongSection.SEQUENCE].includes(sectionIdentifier)
+    ) {
+      sequenceNaturalOrder.push(sectionIdentifier);
+    }
+
+    sectionsMap[sectionIdentifier] = sectionContent;
   }
 
   const sequencesFromSongContent = without(
-    Object.keys(sectionsHashMap),
+    sequenceNaturalOrder,
     SongSection.TITLE,
     SongSection.SEQUENCE,
   );
@@ -248,7 +257,7 @@ export const verifyStructure = (content: string) => {
   }
 
   sequenceIdentifiersFromSequenceSection.forEach((section) => {
-    if (!sectionsHashMap[section]) {
+    if (!sectionsMap[section]) {
       throw new Error(
         `The ${chalk.red(
           section,
@@ -258,6 +267,8 @@ export const verifyStructure = (content: string) => {
       );
     }
   });
+
+  assertUniqueness(sequencesFromSongContent);
 
   return [
     SequenceChar.VERSE,

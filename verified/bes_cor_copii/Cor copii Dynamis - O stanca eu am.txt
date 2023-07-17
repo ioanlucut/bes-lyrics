@@ -2,7 +2,7 @@
 O stâncă eu am {author: {Cor copii Dynamis}, contentHash: {#37968b}, id: {aeQWTShew4LKb6oHNd5XHW}}
 
 [sequence]
-v1,c,v2,c,v3,c,v4,c,v5,c
+v1,c,v2,c,v3,c,v4,c,v5,e
 
 [v1]
 
@@ -41,9 +41,9 @@ Pe nimeni n’afară de El.
 Toiagul de fier, toiagul de fier,
 Iehova e Sfântul lui Israel.
 
-[c]
+[e]
 /: Cine e ca Domnul, cine e ca Domnul,
 Sfânt și preaputernic, drept și înălțat?
 Cine e ca Domnul, cine e ca Domnul?
-N-are-asemănare al meu Împărat!:/
+N-are-asemănare al meu Împărat! :/
 N-are-asemănare al meu Împărat!

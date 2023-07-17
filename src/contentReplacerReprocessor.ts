@@ -3,6 +3,7 @@ import { COMMA, EMPTY_STRING, NEW_LINE_TUPLE } from './constants.js';
 import { SongSection } from './types.js';
 import {
   computeUniqueContentHash,
+  getCharWithoutMarkup,
   getUniqueId,
   isKnownSongSequence,
   isTestEnv,
@@ -58,10 +59,19 @@ export const reprocess = (songContent: string) => {
     .replaceAll('[ending]', SongSection.ENDING)
     .replaceAll('[Sequence]', SongSection.SEQUENCE)
     .replaceAll('[Title]', SongSection.TITLE)
-    .replaceAll('#TEMP_ID', getUniqueId())
+    .replaceAll('ID_PLACEHOLDER', getUniqueId())
     .replaceAll(
-      '#TEMP_HASH_CONTEN',
-      `#${computeUniqueContentHash(songContent)}`,
+      /(contentHash: {#)(\w+)(})/gim,
+      (
+        ignore,
+        contentHashTitleSection,
+        existingHash,
+        contentHashTitleSectionEnding,
+      ) => {
+        return `${contentHashTitleSection}${computeUniqueContentHash(
+          songContent.replaceAll(existingHash, EMPTY_STRING),
+        )}${contentHashTitleSectionEnding}`;
+      },
     )
     .replaceAll(
       isTestEnv() ? /(\[sequence])(\n.*)/gim : /(\[sequence])(\r\n.*)/gim,
@@ -117,11 +127,7 @@ export const reprocess = (songContent: string) => {
               }
             }
           })
-          .map((charWithMarkup: string) =>
-            charWithMarkup
-              .replaceAll('[', EMPTY_STRING)
-              .replaceAll(']', EMPTY_STRING),
-          )
+          .map(getCharWithoutMarkup)
           .join(COMMA);
 
         return [

@@ -1,8 +1,19 @@
-import { cloneDeep, flatten, range, size, uniq } from 'lodash-es';
+import {
+  cloneDeep,
+  difference,
+  filter,
+  flatten,
+  includes,
+  intersection,
+  range,
+  size,
+  uniq,
+} from 'lodash-es';
 import assert from 'node:assert';
 import { COMMA, DOT, DOUBLE_LINE_TUPLE, NEW_LINE_TUPLE } from './constants.js';
 import { SongSection } from './types.js';
 import {
+  assertUniqueness,
   convertSequenceToNumber,
   getCharWithMarkup,
   getCharWithoutMarkup,
@@ -24,16 +35,28 @@ export const reprocess = (content: string) => {
 
   const sectionTuples = getSongInSectionTuples(content);
   const sectionsMap = {} as Record<string, string>;
+  const sequenceNaturalOrder = [] as string[];
 
   for (
     let sectionIndex = 0;
     sectionIndex < sectionTuples.length;
     sectionIndex = sectionIndex + 2
   ) {
-    sectionsMap[sectionTuples[sectionIndex]] = sectionTuples[sectionIndex + 1];
+    const sectionContent = sectionTuples[sectionIndex + 1];
+    const sectionIdentifier = sectionTuples[sectionIndex];
+
+    if (
+      ![SongSection.TITLE, SongSection.SEQUENCE].includes(sectionIdentifier)
+    ) {
+      sequenceNaturalOrder.push(sectionIdentifier);
+    }
+
+    sectionsMap[sectionIdentifier] = sectionContent;
   }
 
-  const sequence = cloneDeep(sectionsMap[SongSection.SEQUENCE].split(COMMA));
+  const collectedSequence = cloneDeep(
+    sectionsMap[SongSection.SEQUENCE].split(COMMA),
+  );
 
   const mapperWithSequenceSideEffectCollector = (
     verseSongSectionIdentifier: string,
@@ -74,8 +97,8 @@ export const reprocess = (content: string) => {
 
     // ---
     // As side effect, update the sequence
-    sequence[
-      sequence.indexOf(
+    collectedSequence[
+      collectedSequence.indexOf(
         getCharWithoutMarkup(verseSongSectionIdentifier),
       ) as number
     ] = subSectionSequence.join(COMMA);
@@ -83,17 +106,17 @@ export const reprocess = (content: string) => {
     return updatedContent;
   };
 
-  const verses = uniq(sequence)
-    .map(getCharWithMarkup)
-    .map(mapperWithSequenceSideEffectCollector);
+  assertUniqueness(sequenceNaturalOrder);
+
+  const songBody = sequenceNaturalOrder.map(
+    mapperWithSequenceSideEffectCollector,
+  );
 
   // ---
   // Reassemble the song
   return flatten([
     [SongSection.TITLE, sectionsMap[SongSection.TITLE]].join(NEW_LINE_TUPLE),
-    [SongSection.SEQUENCE, sequence.join(COMMA)].join(NEW_LINE_TUPLE),
-
-    // Assemble the verses based on the sequence
-    verses,
+    [SongSection.SEQUENCE, collectedSequence.join(COMMA)].join(NEW_LINE_TUPLE),
+    songBody,
   ]).join(DOUBLE_LINE_TUPLE);
 };

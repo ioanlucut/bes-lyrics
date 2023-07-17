@@ -2,7 +2,7 @@
 Mulțimea îndurărilor {author: {Cor copii Dynamis}, contentHash: {#77270b}, id: {vZU6SdH66huDsZ9kEBNg38}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c,v2,c,v3,e
 
 [v1]
 Când eu privesc în urma mea,
@@ -28,7 +28,7 @@ De nici un rău nu ne-am temut,
 Când umbrele-i ne-amenințau
 Lumina Sfânt-a apărut.
 
-[c]
+[e]
 Lucrarea Tu-Ți însuflețești,
 O, Doamne-n cursul anilor,
 /: Ajută-ne să nu uităm

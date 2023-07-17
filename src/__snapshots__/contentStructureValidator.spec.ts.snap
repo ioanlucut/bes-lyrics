@@ -1,5 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`contentStructureValidator content should reject correctly for a \`Duplicate section.\`: Duplicate section. 1`] = `"There are duplicates: [c]"`;
+
 exports[`contentStructureValidator content should reject correctly for a \`Missing title!\`: Missing title! 1`] = `"[title] is missing."`;
 
 exports[`contentStructureValidator content should reject correctly for a \`Supported b's chars in the bad order.\`: Supported b's chars in the bad order. 1`] = `"The two sequences/sub-sequences "2" from "b" context and "4" from "b" context are not consecutive."`;
