@@ -5,6 +5,7 @@ import {
   flatten,
   includes,
   intersection,
+  isEqual,
   range,
   size,
   uniq,
@@ -54,7 +55,7 @@ export const reprocess = (content: string) => {
     sectionsMap[sectionIdentifier] = sectionContent;
   }
 
-  const collectedSequence = cloneDeep(
+  let collectedSequence = cloneDeep(
     sectionsMap[SongSection.SEQUENCE].split(COMMA),
   );
 
@@ -97,11 +98,17 @@ export const reprocess = (content: string) => {
 
     // ---
     // As side effect, update the sequence
-    collectedSequence[
-      collectedSequence.indexOf(
-        getCharWithoutMarkup(verseSongSectionIdentifier),
-      ) as number
-    ] = subSectionSequence.join(COMMA);
+    collectedSequence = collectedSequence.map((existingSequence) => {
+      if (
+        isEqual(
+          existingSequence,
+          getCharWithoutMarkup(verseSongSectionIdentifier),
+        )
+      ) {
+        return subSectionSequence.join(COMMA);
+      }
+      return existingSequence;
+    });
 
     return updatedContent;
   };

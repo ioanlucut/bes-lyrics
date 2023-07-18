@@ -131,6 +131,44 @@ describe('contentStructureReprocessor', () => {
     `);
   });
 
+  it('should correctly add the sub sections of a song by updating the non-unique occurrences in the song sequence', () => {
+    expect(
+      reprocess(
+        createAdvancedSongMock(
+          [
+            [
+              'v1',
+              ['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE),
+            ],
+
+            ['c', 'Chorus'],
+            ['v2', 'Section 3'],
+          ],
+
+          ['v1', 'c', 'v2', 'v1', 'c'],
+        ),
+      ),
+    ).toMatchInlineSnapshot(`
+      "[title]
+      My custom title
+
+      [sequence]
+      v1.1,v1.2,c,v2,v1.1,v1.2,c
+
+      [v1.1]
+      Subsection 1.1
+
+      [v1.2]
+      Subsection 1.2
+
+      [c]
+      Chorus
+
+      [v2]
+      Section 3"
+    `);
+  });
+
   it('should correctly add the sub sections of a song (for bridge)', () => {
     expect(
       reprocess(

@@ -109,21 +109,31 @@ export const getHashContentFromSong = (titleContent: string) =>
 
 export const getUniqueId = () => short.generate();
 
-export const createSongMock = (desiredSequence: string[]) => `[title]
+export const createSongMock = (
+  desiredSections: string[],
+  desiredSequence: string[] = desiredSections,
+) => `[title]
 My custom title
 
 [sequence]
 ${desiredSequence.join(COMMA)}
 
-${desiredSequence
+${desiredSections
   .map((sequence) => `[${sequence}]${NEW_LINE_TUPLE}Content for ${sequence}`)
   .join(DOUBLE_LINE_TUPLE)}`;
 
-export const createAdvancedSongMock = (tuples: string[][]) => `[title]
+export const createAdvancedSongMock = (
+  tuples: string[][],
+  desiredSequence?: string[],
+) => `[title]
 My custom title
 
 [sequence]
-${tuples.map(([sequence]) => sequence).join(COMMA)}
+${
+  desiredSequence
+    ? desiredSequence.join(COMMA)
+    : tuples.map(([sequence]) => sequence).join(COMMA)
+}
 
 ${tuples
   .map(([sequence, content]) => `[${sequence}]${NEW_LINE_TUPLE}${content}`)
