@@ -4,6 +4,7 @@ import {
   isEmpty,
   isEqual,
   last,
+  size,
   uniq,
   without,
 } from 'lodash-es';
@@ -14,16 +15,19 @@ import {
   assertUniqueness,
   convertSequenceToNumber,
   getBridgeRegex,
+  getCharWithMarkup,
   getCharWithoutMarkup,
   getChorusRegex,
   getPrechorusRegex,
   getSongInSectionTuples,
+  getUniqueCharsAndRelevantChars,
   getVerseRegex,
   isKnownSongSequence,
 } from './core.js';
 import assert from 'node:assert';
 
 const EXPECTED_SUB_SECTIONS_LENGTH = 2;
+const MAX_ALLOWED_SECTION_SIZE = 43;
 
 const REGEX_SUPPLIERS = {
   [SequenceChar.VERSE]: () => getVerseRegex(),
@@ -215,7 +219,7 @@ export const verifyStructure = (content: string) => {
         throw new Error(`Unknown "${sequenceChar}" section.`);
       }
 
-      return `[${sequenceChar}]`;
+      return getCharWithMarkup(sequenceChar);
     });
 
   const sectionsMap = {} as Record<string, string>;
@@ -233,6 +237,17 @@ export const verifyStructure = (content: string) => {
       ![SongSection.TITLE, SongSection.SEQUENCE].includes(sectionIdentifier)
     ) {
       sequenceNaturalOrder.push(sectionIdentifier);
+
+      const sizeOfSectionContent = size(
+        getUniqueCharsAndRelevantChars(sectionContent),
+      );
+
+      assert.ok(
+        sizeOfSectionContent <= MAX_ALLOWED_SECTION_SIZE,
+        `The size of the existing ${sectionIdentifier} content, "${chalk.green(
+          sizeOfSectionContent,
+        )}", is higher than the maximum allowed one, (${MAX_ALLOWED_SECTION_SIZE})}."`,
+      );
     }
 
     sectionsMap[sectionIdentifier] = sectionContent;
