@@ -51,29 +51,28 @@ export const reprocess = (content: string) => {
   const mapperWithSequenceSideEffectCollector = (
     verseSongSectionIdentifier: string,
   ) => {
-    const verseSongSection = sectionsMap[verseSongSectionIdentifier];
-    const hasSubSections = verseSongSection.includes(DOUBLE_LINE_TUPLE);
+    const songSectionContent = sectionsMap[verseSongSectionIdentifier];
+    const hasSubSections = songSectionContent.includes(DOUBLE_LINE_TUPLE);
 
     if (!hasSubSections) {
-      return [verseSongSectionIdentifier, verseSongSection].join(
+      return [verseSongSectionIdentifier, songSectionContent].join(
         NEW_LINE_TUPLE,
       );
     }
 
-    const subSections = verseSongSection
+    const subSections = songSectionContent
       .split(DOUBLE_LINE_TUPLE)
       .filter(Boolean);
     const subSectionSequence = [] as string[];
 
-    const [char, identifierAsString] = getCharWithoutMarkup(
-      verseSongSectionIdentifier,
-    )
-      .split(new RegExp(`(\\D+)(.*)`))
-      .filter(Boolean);
+    const [songSectionWithoutQualifier, identifierAsString] =
+      getCharWithoutMarkup(verseSongSectionIdentifier)
+        .split(new RegExp(`(\\D+)(.*)`))
+        .filter(Boolean);
 
-    const updatedContent = flatten(
+    const updatedSongSectionContent = flatten(
       range(0, size(subSections)).map((index) => {
-        const subSectionIdentifier = `${char}${convertSequenceToNumber(
+        const subSectionIdentifier = `${songSectionWithoutQualifier}${convertSequenceToNumber(
           identifierAsString,
         )}${DOT}${index + 1}`;
         subSectionSequence.push(subSectionIdentifier);
@@ -99,12 +98,12 @@ export const reprocess = (content: string) => {
       return existingSequence;
     });
 
-    return updatedContent;
+    return updatedSongSectionContent;
   };
 
   assertUniqueness(sequenceNaturalOrder);
 
-  const songBody = sequenceNaturalOrder.map(
+  const songBodySections = sequenceNaturalOrder.map(
     mapperWithSequenceSideEffectCollector,
   );
 
@@ -113,6 +112,6 @@ export const reprocess = (content: string) => {
   return flatten([
     [SongSection.TITLE, sectionsMap[SongSection.TITLE]].join(NEW_LINE_TUPLE),
     [SongSection.SEQUENCE, collectedSequence.join(COMMA)].join(NEW_LINE_TUPLE),
-    songBody,
+    songBodySections,
   ]).join(DOUBLE_LINE_TUPLE);
 };
