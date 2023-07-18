@@ -95,13 +95,14 @@ Row 1`),
     // ------------------------------------------------------------
 
     it.each`
-      songContent               | explanation
-      ${``}                     | ${'Missing title!'}
-      ${createSongMock(['v0'])} | ${'Unsupported chars in sequence.'}
-      ${createSongMock(['p1'])} | ${'Unsupported chars in sequence.'}
-      ${createSongMock(['b1'])} | ${'Unsupported chars in sequence.'}
-      ${createSongMock(['c1'])} | ${'Unsupported chars in sequence.'}
-      ${createSongMock(['e1'])} | ${'Unsupported chars in sequence.'}
+      songContent                         | explanation
+      ${``}                               | ${'Missing title!'}
+      ${createSongMock(['v1', 'c', 'c'])} | ${'Duplicate section.'}
+      ${createSongMock(['v0'])}           | ${'Unsupported chars in sequence.'}
+      ${createSongMock(['p1'])}           | ${'Unsupported chars in sequence.'}
+      ${createSongMock(['b1'])}           | ${'Unsupported chars in sequence.'}
+      ${createSongMock(['c1'])}           | ${'Unsupported chars in sequence.'}
+      ${createSongMock(['e1'])}           | ${'Unsupported chars in sequence.'}
     `(
       'should reject correctly for a `$explanation`',
       ({ songContent, explanation }) => {

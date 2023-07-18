@@ -1,5 +1,5 @@
 [title]
-Conștient sunt, Doamne, bine {contentHash: {#9a09aa}, id: {ufVKdicWUieCeyoC6aRVru}}
+Conștient sunt, Doamne, bine {contentHash: {#e642ba}, id: {ufVKdicWUieCeyoC6aRVru}}
 
 [sequence]
 v1,c,v2,c

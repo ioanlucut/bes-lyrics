@@ -1,5 +1,5 @@
 [title]
-Domnul m-a găsit, povara mi-a luat {contentHash: {#0d2225}, id: {642Qtg7Kc2S4EvTpKAbtq3}}
+Domnul m-a găsit, povara mi-a luat {contentHash: {#6dba88}, id: {642Qtg7Kc2S4EvTpKAbtq3}}
 
 [sequence]
 v1,c,v2,c,v3,c

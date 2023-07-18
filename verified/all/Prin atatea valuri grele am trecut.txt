@@ -1,5 +1,5 @@
 [title]
-Prin atâtea valuri grele am trecut {contentHash: {#bd6358}, id: {gpbFYwaCH8PPM8u6uSB4q5}}
+Prin atâtea valuri grele am trecut {contentHash: {#ec0b00}, id: {gpbFYwaCH8PPM8u6uSB4q5}}
 
 [sequence]
 v1,v2,v3,v4,v5

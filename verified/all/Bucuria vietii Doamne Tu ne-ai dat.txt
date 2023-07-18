@@ -1,5 +1,5 @@
 [title]
-Bucuria vieții, Doamne, Tu ne-ai dat {contentHash: {#b8d02c}, id: {dKanb4waNvh9v9MRHahY3q}}
+Bucuria vieții, Doamne, Tu ne-ai dat {contentHash: {#cb3aad}, id: {dKanb4waNvh9v9MRHahY3q}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

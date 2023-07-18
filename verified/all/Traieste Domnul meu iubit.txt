@@ -1,5 +1,5 @@
 [title]
-Trăiește Domnul meu iubit {contentHash: {#8765e4}, id: {mSLxXHERFsjPEGTR2bzrsq}}
+Trăiește Domnul meu iubit {contentHash: {#7a99aa}, id: {mSLxXHERFsjPEGTR2bzrsq}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Doar în Hristos mă-ncred mereu {contentHash: {#86cb3f}, id: {uaBM2eeW3VbnXsk3ADPmNp}}
+Doar în Hristos mă-ncred mereu {contentHash: {#b2c3d9}, id: {uaBM2eeW3VbnXsk3ADPmNp}}
 
 [sequence]
 v1,v2,v3,v4

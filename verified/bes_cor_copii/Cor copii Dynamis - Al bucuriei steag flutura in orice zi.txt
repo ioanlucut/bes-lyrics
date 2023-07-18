@@ -1,5 +1,5 @@
 [title]
-Al bucuriei steag flutură în orice zi {author: {Cor copii Dynamis}, contentHash: {#66176a}, id: {dLQfiWV8Z9UDhSLh7Ukfvy}}
+Al bucuriei steag flutură în orice zi {author: {Cor copii Dynamis}, contentHash: {#3e08ae}, id: {dLQfiWV8Z9UDhSLh7Ukfvy}}
 
 [sequence]
 v1,c,v1,c

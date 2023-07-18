@@ -1,5 +1,5 @@
 [title]
-Din nou la altar venim, fără putere {contentHash: {#1d3347}, id: {xcB3qgXyXQeNn5mYwwarwr}}
+Din nou la altar venim, fără putere {contentHash: {#d55e5b}, id: {xcB3qgXyXQeNn5mYwwarwr}}
 
 [sequence]
 v1,c,v2,c

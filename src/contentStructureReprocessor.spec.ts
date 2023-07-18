@@ -247,22 +247,8 @@ describe('contentStructureReprocessor', () => {
   });
 
   it('should correctly add only the unique sections of a song', () => {
-    expect(reprocess(createSongMock(['v1', 'c', 'v2', 'c'])))
-      .toMatchInlineSnapshot(`
-      "[title]
-      My custom title
-
-      [sequence]
-      v1,c,v2,c
-
-      [v1]
-      Content for v1
-
-      [c]
-      Content for c
-
-      [v2]
-      Content for v2"
-    `);
+    expect(() =>
+      reprocess(createSongMock(['v1', 'c', 'v2', 'c'])),
+    ).toThrowErrorMatchingInlineSnapshot(`"There are duplicates: [c]"`);
   });
 });

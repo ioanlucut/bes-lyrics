@@ -1,5 +1,5 @@
 [title]
-S-a născut Mesia {author: {Marius Pop & Naomi Borota}, contentHash: {#f3de1c}, id: {iguLzXzs6H7dKgPuoxANRe}}
+S-a născut Mesia {author: {Marius Pop & Naomi Borota}, contentHash: {#53647d}, id: {iguLzXzs6H7dKgPuoxANRe}}
 
 [sequence]
 v1,c,v2,c

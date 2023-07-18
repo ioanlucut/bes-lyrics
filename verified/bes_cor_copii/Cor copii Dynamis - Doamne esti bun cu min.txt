@@ -1,8 +1,8 @@
 [title]
-Doamne, ești bun cu min’ {author: {Cor copii Dynamis}, contentHash: {#e35497}, id: {gDw7uS9enyBSRkFhkv8N48}}
+Doamne, ești bun cu min’ {author: {Cor copii Dynamis}, contentHash: {#2e1db3}, id: {gDw7uS9enyBSRkFhkv8N48}}
 
 [sequence]
-c,v1,c2,c,v2,c2,c
+c,v1,c2,c,v2,e,c
 
 [c]
 /: Doamne, ești bun cu min’,
@@ -24,14 +24,7 @@ De la Tine mântuire am primit
 Fiindc-atât de mult Isuse m-ai iubit!
 Pentru toate vreau să-Ți spun:
 
-[c2]
-/: Mulțumesc pentru ce mi-ai dat!
-Mulțumesc pentru ce îmi dai!
-Un zâmbet am pe chipul meu
-De-aceea-Ți voi cânta mereu! :/
-/: Voi cânta mereu!:/
-
-[c2]
+[e]
 /: Mulțumesc pentru ce mi-ai dat!
 Mulțumesc pentru ce îmi dai!
 Un zâmbet am pe chipul meu

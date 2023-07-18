@@ -1,5 +1,5 @@
 [title]
-Singuri și triști {author: {Florin Mesaroș}, contentHash: {#2c935b}, id: {7aY1xJ6bEQM7vzHYUqFxD3}}
+Singuri și triști {author: {Florin Mesaroș}, contentHash: {#e45b6e}, id: {7aY1xJ6bEQM7vzHYUqFxD3}}
 
 [sequence]
 v1,c,v2,c

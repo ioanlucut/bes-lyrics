@@ -1,5 +1,5 @@
 [title]
-În genunchi eu vin acum {contentHash: {#7270f3}, id: {bBHokfdNNq8MY6b11iR73x}}
+În genunchi eu vin acum {contentHash: {#d9d642}, id: {bBHokfdNNq8MY6b11iR73x}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Mărturisim acum că suntem slabi {contentHash: {#648b95}, id: {u8vrpSWAGDcpmvcsFhJRiL}}
+Mărturisim acum că suntem slabi {contentHash: {#c62c0c}, id: {u8vrpSWAGDcpmvcsFhJRiL}}
 
 [sequence]
 v1,p,c

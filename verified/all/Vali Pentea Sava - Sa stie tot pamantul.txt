@@ -1,5 +1,5 @@
 [title]
-Să știe tot pământul {author: {Vali Pentea Sava}, contentHash: {#4f73b0}, id: {7fZ37f5s79AxDZ4KecJKWZ}}
+Să știe tot pământul {author: {Vali Pentea Sava}, contentHash: {#cbb306}, id: {7fZ37f5s79AxDZ4KecJKWZ}}
 
 [sequence]
 v1,c,v2,c,v3,c

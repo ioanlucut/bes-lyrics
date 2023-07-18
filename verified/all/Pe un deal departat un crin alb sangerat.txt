@@ -1,5 +1,5 @@
 [title]
-Pe un deal depărtat un crin alb sângerat {contentHash: {#8a5b99}, id: {iDaKPVZ8iTb17g4qX71BWp}}
+Pe un deal depărtat un crin alb sângerat {contentHash: {#86d1a8}, id: {iDaKPVZ8iTb17g4qX71BWp}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Când singur ești {contentHash: {#e7205b}, id: {rrhoV7hHePkDKsXEehTNaa}}
+Când singur ești {contentHash: {#94eeec}, id: {rrhoV7hHePkDKsXEehTNaa}}
 
 [sequence]
 v1,c,v2,c,v3,c

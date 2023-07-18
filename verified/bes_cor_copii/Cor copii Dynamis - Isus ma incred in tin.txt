@@ -1,8 +1,8 @@
 [title]
-Isus mă încred în tin {author: {Cor copii Dynamis}, contentHash: {#f855e8}, id: {rfzWKT9QhjvDhz7QQfZjBm}}
+Isus mă încred în tin {author: {Cor copii Dynamis}, contentHash: {#289dae}, id: {rfzWKT9QhjvDhz7QQfZjBm}}
 
 [sequence]
-v1,c,v2,v3,c
+v1,c,v2,v3,c,e
 
 [v1]
 Isus mă încred în Tin,
@@ -30,10 +30,5 @@ Lângă Tine vreau să fiu
 Ajută-mă să înțeleg
 Cât de mult Tu mă iubești.
 
-[c]
-/: În dragoste nu este frică
-Dragostea-i desăvârșită
-Și-alungă frica,
-Alungă frica! :/
-/: Dragostea Lui Dumnezeu. :/
+[e]
 Isus, mă încred în Tine!

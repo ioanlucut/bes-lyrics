@@ -1,5 +1,5 @@
 [title]
-Ce dulce ești, al rugii ceas {contentHash: {#f783a9}, id: {qNYRvRt3qhERWPQTM8uyaS}}
+Ce dulce ești, al rugii ceas {contentHash: {#237005}, id: {qNYRvRt3qhERWPQTM8uyaS}}
 
 [sequence]
 v1,v2,v3

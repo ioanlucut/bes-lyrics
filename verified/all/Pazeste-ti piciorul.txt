@@ -1,5 +1,5 @@
 [title]
-Păzește-ți piciorul {contentHash: {#2891ed}, id: {p698Kbqd3r8BF25H7u3eKD}}
+Păzește-ți piciorul {contentHash: {#e76200}, id: {p698Kbqd3r8BF25H7u3eKD}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

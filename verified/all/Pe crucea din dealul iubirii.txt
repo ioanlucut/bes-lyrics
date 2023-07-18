@@ -1,5 +1,5 @@
 [title]
-Pe crucea din dealul iubirii {contentHash: {#0f6dde}, id: {mxV9KHgn3KstJB3gPqWXq6}}
+Pe crucea din dealul iubirii {contentHash: {#ad83df}, id: {mxV9KHgn3KstJB3gPqWXq6}}
 
 [sequence]
 v1,c,v2,c2,v3,e

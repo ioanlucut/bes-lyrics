@@ -1,8 +1,8 @@
 [title]
-Într-o noapte-n Betleem {author: {Cor copii Dynamis}, contentHash: {#3097f5}, id: {8M6NWooo59CdVH4Pj9xwU4}}
+Într-o noapte-n Betleem {author: {Cor copii Dynamis}, contentHash: {#8338b3}, id: {8M6NWooo59CdVH4Pj9xwU4}}
 
 [sequence]
-v1,v2,c,v3,v4,c,b,c
+v1,v2,c,v3,v4,c,b,c,e
 
 [v1]
 Într-o noapte-n Betleem
@@ -30,16 +30,10 @@ Pentru mine a venit să fiu pe veci salvat.
 Îl voi lăuda întreagă viața mea
 Și-L voi mărturisi ca Domn și împărat!
 
-[c]
-/: Slavă Lui Dumnezeu, slavă în locurile-nalte,
-Pace, pace între oameni plăcuți Domnului. :/
-
 [b]
 /: Săltați, cântați, în Israel
 Va reveni Emanuel! :/
 
-[c]
-/: Slavă Lui Dumnezeu, slavă în locurile-nalte,
-Pace, pace între oameni plăcuți Domnului. :/
+[e]
 Între oameni plăcuți Domnului
 Slavă Lui Dumnezeu!

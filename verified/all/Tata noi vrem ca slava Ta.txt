@@ -1,5 +1,5 @@
 [title]
-Tată, noi vrem ca slava Ta {contentHash: {#6a37d4}, id: {tX1BjFhqFhf94S5XEdVGpq}}
+Tată, noi vrem ca slava Ta {contentHash: {#1dbc45}, id: {tX1BjFhqFhf94S5XEdVGpq}}
 
 [sequence]
 v1,c,v1,c

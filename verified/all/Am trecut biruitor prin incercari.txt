@@ -1,5 +1,5 @@
 [title]
-Am trecut biruitor prin încercări {contentHash: {#80ad6b}, id: {dKX7bb1kGiXc1kvnQhRsw9}}
+Am trecut biruitor prin încercări {contentHash: {#307eb2}, id: {dKX7bb1kGiXc1kvnQhRsw9}}
 
 [sequence]
 v1,c,v2,c,v3,c

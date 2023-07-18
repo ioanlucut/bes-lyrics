@@ -1,5 +1,5 @@
 [title]
-În mărire, când „Osana!” vom cânta {contentHash: {#69f877}, id: {tyEn1FuUqg3UqY1GZ8dFAG}}
+În mărire, când „Osana!” vom cânta {contentHash: {#95a4c8}, id: {tyEn1FuUqg3UqY1GZ8dFAG}}
 
 [sequence]
 v1,c,v2,c,v3,c

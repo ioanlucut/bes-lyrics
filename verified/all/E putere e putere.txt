@@ -1,5 +1,5 @@
 [title]
-E putere, e putere {contentHash: {#6b0b6b}, id: {jfpnDQWwWGCKFrZLxQrN4F}}
+E putere, e putere {contentHash: {#6f5d58}, id: {jfpnDQWwWGCKFrZLxQrN4F}}
 
 [sequence]
 v1,c,v1,c

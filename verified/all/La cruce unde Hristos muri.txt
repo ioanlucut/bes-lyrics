@@ -1,5 +1,5 @@
 [title]
-La cruce unde Hristos muri {contentHash: {#4be7fa}, id: {2dXJnVcWLkura1R89N5RHa}}
+La cruce unde Hristos muri {contentHash: {#2fb8fd}, id: {2dXJnVcWLkura1R89N5RHa}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

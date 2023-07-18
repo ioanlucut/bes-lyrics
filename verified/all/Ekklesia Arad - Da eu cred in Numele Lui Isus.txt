@@ -1,5 +1,5 @@
 [title]
-Da, eu cred în Numele Lui Isus {author: {Ekklesia Arad}, contentHash: {#5c16f8}, id: {giYK7HMxuC6hc95Wnda7st}}
+Da, eu cred în Numele Lui Isus {author: {Ekklesia Arad}, contentHash: {#4f241e}, id: {giYK7HMxuC6hc95Wnda7st}}
 
 [sequence]
 v1,c,v2,c,b,e,b2

@@ -1,5 +1,5 @@
 [title]
-Un nume nou {contentHash: {#52ad73}, id: {brEUpFkLJYvdR4xUqTPuyu}}
+Un nume nou {contentHash: {#d56c15}, id: {brEUpFkLJYvdR4xUqTPuyu}}
 
 [sequence]
 v1,p,c,v2,p,c

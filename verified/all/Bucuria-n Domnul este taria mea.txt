@@ -1,5 +1,5 @@
 [title]
-Bucuria-n Domnul este tăria mea {contentHash: {#ebdef7}, id: {7MndvTmFpAtk7bUUETn2TG}}
+Bucuria-n Domnul este tăria mea {contentHash: {#cc087c}, id: {7MndvTmFpAtk7bUUETn2TG}}
 
 [sequence]
 v1,v2,v3,v4,v5

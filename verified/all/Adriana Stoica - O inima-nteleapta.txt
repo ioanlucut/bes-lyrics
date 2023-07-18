@@ -1,5 +1,5 @@
 [title]
-O inimă-nțeleaptă {author: {Adriana Stoica}, contentHash: {#309ff9}, id: {pDhMqbNUDGq5msJWfDiDvu}}
+O inimă-nțeleaptă {author: {Adriana Stoica}, contentHash: {#cf2aad}, id: {pDhMqbNUDGq5msJWfDiDvu}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Dulce e iubirea sfântă {contentHash: {#7e77da}, id: {m9W9VopXLYPk6QkqdSgc9f}}
+Dulce e iubirea sfântă {contentHash: {#4a364c}, id: {m9W9VopXLYPk6QkqdSgc9f}}
 
 [sequence]
 v1,c,v2,c,v3,c2

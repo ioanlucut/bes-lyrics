@@ -1,5 +1,5 @@
 [title]
-Poartă bunătatea și iubirea {author: {Elim Harmony}, contentHash: {#192bea}, id: {ooPP3sQARgvN8bV7Z6ii8B}}
+Poartă bunătatea și iubirea {author: {Elim Harmony}, contentHash: {#152977}, id: {ooPP3sQARgvN8bV7Z6ii8B}}
 
 [sequence]
 c,v1,c,v2

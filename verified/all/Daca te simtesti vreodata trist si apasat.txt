@@ -1,5 +1,5 @@
 [title]
-Dacă te simțești vreodată trist și apăsat {contentHash: {#577b82}, id: {vYWN9VCDwHZMizm86GgWNA}}
+Dacă te simțești vreodată trist și apăsat {contentHash: {#f5a3c7}, id: {vYWN9VCDwHZMizm86GgWNA}}
 
 [sequence]
 v1,v2,v3,v4,v5

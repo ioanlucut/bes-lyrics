@@ -1,5 +1,5 @@
 [title]
-Bătrânii care-aici mai sunt {contentHash: {#7bca29}, id: {gL9PAY7U2KYjZSeDG8HZEJ}}
+Bătrânii care-aici mai sunt {contentHash: {#b1daf8}, id: {gL9PAY7U2KYjZSeDG8HZEJ}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

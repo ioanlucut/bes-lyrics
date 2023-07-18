@@ -1,5 +1,5 @@
 [title]
-E mult prea scumpă viața asta {author: {Traian Dorz}, contentHash: {#8bc40d}, id: {tRVAjoWmjpsNGgiQH6bCdv}}
+E mult prea scumpă viața asta {author: {Traian Dorz}, contentHash: {#a50633}, id: {tRVAjoWmjpsNGgiQH6bCdv}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

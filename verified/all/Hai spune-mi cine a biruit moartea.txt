@@ -1,5 +1,5 @@
 [title]
-Hai, spune-mi, cine a biruit moartea {contentHash: {#53725d}, id: {kiAQQvvhYopcyGMxXS1WHb}}
+Hai, spune-mi, cine a biruit moartea {contentHash: {#d24336}, id: {kiAQQvvhYopcyGMxXS1WHb}}
 
 [sequence]
 v1,c,v2,c

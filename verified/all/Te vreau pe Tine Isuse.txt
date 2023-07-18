@@ -1,5 +1,5 @@
 [title]
-Te vreau pe Tine, Isuse {contentHash: {#622f3d}, id: {7dTRi4vhaxaEQsnJpRQNyZ}}
+Te vreau pe Tine, Isuse {contentHash: {#d884cb}, id: {7dTRi4vhaxaEQsnJpRQNyZ}}
 
 [sequence]
 v1,c,v2,c,v3,c

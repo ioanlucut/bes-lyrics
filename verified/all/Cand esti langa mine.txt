@@ -1,8 +1,8 @@
 [title]
-Când ești lângă mine {contentHash: {#982068}, id: {iVbAxudLUmwE2C76qyMtpr}}
+Când ești lângă mine {contentHash: {#bdcf7c}, id: {iVbAxudLUmwE2C76qyMtpr}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c,v2,c,v3,c,v4,c
 
 [v1]
 Când ești lângă mine, nu mă tem de niciun rău
@@ -13,6 +13,7 @@ Numai lângă Tine, Doamne, mă simt bine!
 Știu că Tu mă ocrotești.
 Și-n grea încercare, când furtuna-i mare
 Lângă mine Tu pășești!
+
 Numai lângă Tine, Doamne, mă simt bine!
 Știu că Tu mă ocrotești.
 Și-n grea încercare, când furtuna-i mare
@@ -26,6 +27,6 @@ Ca și de-altădată, Tu, Isuse, le-ai mustrat!
 Meriți pe vecie, Doamne, să fii lăudat
 Căci din grea robie, doar Tu m-ai eliberat!
 
-[v3]
+[v4]
 O nădejde vie în inimă mi-ai sădit,
 Cred deci cu tărie, Doamne, că m-ai mântuit!

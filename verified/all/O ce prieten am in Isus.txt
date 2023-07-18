@@ -1,5 +1,5 @@
 [title]
-O, ce prieten am în Isus {contentHash: {#8d4c8d}, id: {51L7bh6QF2hxrHGkf2phra}}
+O, ce prieten am în Isus {contentHash: {#341716}, id: {51L7bh6QF2hxrHGkf2phra}}
 
 [sequence]
 v1,c,v2,c2

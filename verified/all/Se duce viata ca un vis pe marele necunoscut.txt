@@ -1,5 +1,5 @@
 [title]
-Se duce viața ca un vis pe marele necunoscut {contentHash: {#d0733c}, id: {uYBDitv6GTkceWUpUqVuyk}}
+Se duce viața ca un vis pe marele necunoscut {contentHash: {#38dc2b}, id: {uYBDitv6GTkceWUpUqVuyk}}
 
 [sequence]
 v1,c,v2,c,v3,c

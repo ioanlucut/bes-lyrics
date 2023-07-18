@@ -1,5 +1,5 @@
 [title]
-Mai mult acum ca niciodată {contentHash: {#e467e9}, id: {rsDJdToejsQrkXwrsY3NzL}}
+Mai mult acum ca niciodată {contentHash: {#96607a}, id: {rsDJdToejsQrkXwrsY3NzL}}
 
 [sequence]
 v1,c,v2,c,v3,c

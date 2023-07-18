@@ -1,5 +1,5 @@
 [title]
-La Tine, Doamne {contentHash: {#68ad19}, id: {u7TFcgtYjEcVfuTTFdnZCA}}
+La Tine, Doamne {contentHash: {#299b5c}, id: {u7TFcgtYjEcVfuTTFdnZCA}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

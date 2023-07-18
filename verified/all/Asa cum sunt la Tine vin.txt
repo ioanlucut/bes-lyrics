@@ -1,5 +1,5 @@
 [title]
-Așa cum sunt, la Tine vin {contentHash: {#d5ef29}, id: {dr3wiLNdqcTTN8LwtUqzJ4}}
+Așa cum sunt, la Tine vin {contentHash: {#ea91b7}, id: {dr3wiLNdqcTTN8LwtUqzJ4}}
 
 [sequence]
 v1,v2,v3,v4

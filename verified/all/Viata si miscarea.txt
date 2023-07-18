@@ -1,5 +1,5 @@
 [title]
-Viața și mișcarea {contentHash: {#d1e812}, id: {71HAUf9tJyQbgnQHfLYwBh}}
+Viața și mișcarea {contentHash: {#336bd7}, id: {71HAUf9tJyQbgnQHfLYwBh}}
 
 [sequence]
 v1,v2

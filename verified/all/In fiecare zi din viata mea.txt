@@ -1,5 +1,5 @@
 [title]
-În fiecare zi din viața mea {contentHash: {#0328c6}, id: {4oSAfbe41Huz9392W15CRa}}
+În fiecare zi din viața mea {contentHash: {#a226fa}, id: {4oSAfbe41Huz9392W15CRa}}
 
 [sequence]
 v1,c,v2,c,v3,c

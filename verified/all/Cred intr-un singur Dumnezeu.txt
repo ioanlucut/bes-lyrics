@@ -1,5 +1,5 @@
 [title]
-Cred într-un singur Dumnezeu {contentHash: {#cb51e2}, id: {oWn3uuAD5nC5hNfaJcMUuZ}}
+Cred într-un singur Dumnezeu {contentHash: {#4d7cfa}, id: {oWn3uuAD5nC5hNfaJcMUuZ}}
 
 [sequence]
 v1,c,v2,c,b,c,e

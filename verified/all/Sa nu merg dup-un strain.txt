@@ -1,5 +1,5 @@
 [title]
-Să nu merg dup-un străin {contentHash: {#24dd84}, id: {5WGAbB9x7nDPSdVFoW2X3Q}}
+Să nu merg dup-un străin {contentHash: {#0f3c57}, id: {5WGAbB9x7nDPSdVFoW2X3Q}}
 
 [sequence]
 v1,v2,v3,v4

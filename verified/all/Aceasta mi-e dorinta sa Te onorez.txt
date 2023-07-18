@@ -1,5 +1,5 @@
 [title]
-Aceasta mi-e dorința, să Te onorez {contentHash: {#04b45c}, id: {8ipLZddXG3Zy7Hbbo93Vm7}}
+Aceasta mi-e dorința, să Te onorez {contentHash: {#a6455d}, id: {8ipLZddXG3Zy7Hbbo93Vm7}}
 
 [sequence]
 v1,c,v2,c

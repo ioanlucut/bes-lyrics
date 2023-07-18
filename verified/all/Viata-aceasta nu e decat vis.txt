@@ -1,5 +1,5 @@
 [title]
-Viața-aceasta nu e decât vis {contentHash: {#c69c36}, id: {aY4WSPr924ikF2tTKUfinZ}}
+Viața-aceasta nu e decât vis {contentHash: {#3ea183}, id: {aY4WSPr924ikF2tTKUfinZ}}
 
 [sequence]
 v1,v2,v3,v4

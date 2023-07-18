@@ -1,5 +1,5 @@
 [title]
-Spre cer {author: {Otto Pascal}, contentHash: {#3e345d}, id: {htGvdrVR8JynaytoaKMJHG}}
+Spre cer {author: {Otto Pascal}, contentHash: {#2df6aa}, id: {htGvdrVR8JynaytoaKMJHG}}
 
 [sequence]
 v1,c,v2,c

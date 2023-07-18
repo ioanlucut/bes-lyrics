@@ -1,5 +1,5 @@
 [title]
-Cum să nu Te cânt, Isuse? {contentHash: {#2f8f60}, id: {qvuH4rSk2AZ5ZUB4QCN92y}}
+Cum să nu Te cânt, Isuse? {contentHash: {#6d9955}, id: {qvuH4rSk2AZ5ZUB4QCN92y}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c

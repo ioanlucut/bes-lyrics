@@ -1,8 +1,8 @@
 [title]
-Mai mult decât o poveste {author: {Cor copii Dynamis}, contentHash: {#c5e295}, id: {39nhqPjj4Lmn3DkoXC82Hd}}
+Mai mult decât o poveste {author: {Cor copii Dynamis}, contentHash: {#b68055}, id: {39nhqPjj4Lmn3DkoXC82Hd}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1,c,v2,c,b,e
 
 [v1]
 În fiecare an, ne amintim de Tine,
@@ -28,7 +28,7 @@ Dacă nu-i sărbătorit,
 De aceea Doamne
 Noi la iesle am venit. :/
 
-[c]
+[e]
 Isus, e cea mai bună veste!
 Isus, nu e o poveste!
 Isus, e unica salvare!

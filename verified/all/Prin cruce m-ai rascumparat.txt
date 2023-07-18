@@ -1,5 +1,5 @@
 [title]
-Prin cruce m-ai răscumpărat {contentHash: {#1fe0df}, id: {hfMWgGd7chUi7oAsmY354f}}
+Prin cruce m-ai răscumpărat {contentHash: {#c75dda}, id: {hfMWgGd7chUi7oAsmY354f}}
 
 [sequence]
 v1,c,v2,c,e

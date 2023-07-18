@@ -1,5 +1,5 @@
 [title]
-O lume pot schimba {author: {Otto Pascal}, contentHash: {#aaa524}, id: {iGJHsPpuqLmovohqhQj2AF}}
+O lume pot schimba {author: {Otto Pascal}, contentHash: {#171a41}, id: {iGJHsPpuqLmovohqhQj2AF}}
 
 [sequence]
 v1,c,v2,c,e

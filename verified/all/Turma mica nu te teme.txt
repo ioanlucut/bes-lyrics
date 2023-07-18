@@ -1,5 +1,5 @@
 [title]
-Turmă mică, nu te teme {contentHash: {#7eb8a1}, id: {pPB5Nx5NTJRch3BuvmA65o}}
+Turmă mică, nu te teme {contentHash: {#2e4bef}, id: {pPB5Nx5NTJRch3BuvmA65o}}
 
 [sequence]
 v1,v2,v3,v4

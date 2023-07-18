@@ -1,5 +1,5 @@
 [title]
-Suntem duși și clătinați {contentHash: {#2ec9dd}, id: {s9WZKuk677u3ouJ7GzJWbP}}
+Suntem duși și clătinați {contentHash: {#e65844}, id: {s9WZKuk677u3ouJ7GzJWbP}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

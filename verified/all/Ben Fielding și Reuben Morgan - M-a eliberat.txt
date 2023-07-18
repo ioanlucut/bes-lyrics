@@ -1,5 +1,5 @@
 [title]
-M-a eliberat! {author: {Ben Fielding și Reuben Morgan}, contentHash: {#6b044a}, id: {dcMLKtB1BYLuqguedEWtSX}}
+M-a eliberat! {author: {Ben Fielding și Reuben Morgan}, contentHash: {#ffd9d6}, id: {dcMLKtB1BYLuqguedEWtSX}}
 
 [sequence]
 v1,c,v2,c2,b,c2,b,c2

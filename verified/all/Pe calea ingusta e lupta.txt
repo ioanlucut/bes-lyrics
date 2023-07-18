@@ -1,5 +1,5 @@
 [title]
-Pe calea îngustă e luptă {contentHash: {#af9a1d}, id: {w5zFuzq8EyE87jJLsntw9W}}
+Pe calea îngustă e luptă {contentHash: {#b213e6}, id: {w5zFuzq8EyE87jJLsntw9W}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Eu am un Creator {contentHash: {#a17de6}, id: {voYdt3EHsXGpmz5GLvcgLD}}
+Eu am un Creator {contentHash: {#f1f87c}, id: {voYdt3EHsXGpmz5GLvcgLD}}
 
 [sequence]
 v1,v2,v3

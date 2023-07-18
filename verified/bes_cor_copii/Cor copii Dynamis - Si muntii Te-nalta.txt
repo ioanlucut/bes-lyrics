@@ -1,5 +1,5 @@
 [title]
-Și munții Te-nalță {author: {Cor copii Dynamis}, contentHash: {#775b15}, id: {ruqTkCpV8fpmEqLubwPFP2}}
+Și munții Te-nalță {author: {Cor copii Dynamis}, contentHash: {#cedaec}, id: {ruqTkCpV8fpmEqLubwPFP2}}
 
 [sequence]
 p,c,v1,v2,c,v3

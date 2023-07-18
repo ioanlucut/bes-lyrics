@@ -1,5 +1,5 @@
 [title]
-Într-o zi pe Ieremia {contentHash: {#a0358a}, id: {eMFSBzpngKRHFZXtjsrenK}}
+Într-o zi pe Ieremia {contentHash: {#5b0e8b}, id: {eMFSBzpngKRHFZXtjsrenK}}
 
 [sequence]
 v1,c,v2,c,v3,c

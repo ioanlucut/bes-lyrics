@@ -238,25 +238,53 @@ Row prechorus 2`),
     `);
   });
 
-  it('should correctly add a hash version (when there is none)', () => {
-    expect(
-      reprocess(`[title]
-My custom title
+  describe('content hash', () => {
+    it('should correctly update a hash version (when content changes are there)', () => {
+      const ANY_HASH_CONTENT = `f818e7`;
+      const ANY_UPDATED_HASH_CONTENT = `0cfb00`;
+      const ANY_SONG_ID = `idtiXk6ara5M3dSAgemXZV`;
+
+      const ANY_SONG_WITH_CONTENT_HASH_REQUIRED_TO_BE_UPDATED = `[title]
+My custom title {contentHash: {#${ANY_HASH_CONTENT}}, id: {${ANY_SONG_ID}}}
 
 [sequence]
 v1
 
 [v1]
-Row for v1`),
-    ).toMatchInlineSnapshot(`
-      "[title]
-      My custom title
+Updated new row for v1`;
 
-      [sequence]
-      v1
+      expect(reprocess(ANY_SONG_WITH_CONTENT_HASH_REQUIRED_TO_BE_UPDATED))
+        .toMatchInlineSnapshot(`
+        "[title]
+        My custom title {contentHash: {#0cfb00}, id: {idtiXk6ara5M3dSAgemXZV}}
 
-      [v1]
-      Row for v1"
-    `);
+        [sequence]
+        v1
+
+        [v1]
+        Updated new row for v1"
+      `);
+      expect(
+        reprocess(ANY_SONG_WITH_CONTENT_HASH_REQUIRED_TO_BE_UPDATED),
+      ).toContain(ANY_UPDATED_HASH_CONTENT);
+    });
+
+    it('should ignore content hash update (itself) when updating a hash version', () => {
+      const ANY_UPDATED_HASH_CONTENT = `0cfb00`;
+      const ANY_SONG_ID = `idtiXk6ara5M3dSAgemXZV`;
+
+      const ANY_SONG_WITH_CONTENT_HASH_UPDATED = `[title]
+My custom title {contentHash: {#${ANY_UPDATED_HASH_CONTENT}}, id: {${ANY_SONG_ID}}}
+
+[sequence]
+v1
+
+[v1]
+Updated new row for v1`;
+
+      expect(reprocess(ANY_SONG_WITH_CONTENT_HASH_UPDATED)).toContain(
+        ANY_UPDATED_HASH_CONTENT,
+      );
+    });
   });
 });

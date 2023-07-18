@@ -1,5 +1,5 @@
 [title]
-Crește-mi încrederea {author: {Otto Pascal}, contentHash: {#553541}, id: {r4yerWfV7Tezh6WrXgLZ6W}}
+Crește-mi încrederea {author: {Otto Pascal}, contentHash: {#5cc65f}, id: {r4yerWfV7Tezh6WrXgLZ6W}}
 
 [sequence]
 v1,c,v2,c,v3,c

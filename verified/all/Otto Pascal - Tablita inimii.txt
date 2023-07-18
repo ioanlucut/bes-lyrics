@@ -1,5 +1,5 @@
 [title]
-Tăblița inimii {author: {Otto Pascal}, contentHash: {#81e174}, id: {231cu6HhK5Nb5e5GfoUBB8}}
+Tăblița inimii {author: {Otto Pascal}, contentHash: {#7cafb9}, id: {231cu6HhK5Nb5e5GfoUBB8}}
 
 [sequence]
 v1,c,v2,b,c
