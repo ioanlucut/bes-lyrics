@@ -1,15 +1,16 @@
 [title]
-Cu gândul la viața eternă {contentHash: {#e5b3a8}, id: {tN8mgbqzLDMHNCCmGeKy21}}
+Cu gândul la viața eternă {contentHash: {#63fad5}, id: {tN8mgbqzLDMHNCCmGeKy21}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Cu gândul la viața eternă,
 Cu drag eu ades’ meditez,
 E singurul lucru în viață,
 Pe care doresc să-l păstrez.
 
+[v1.2]
 Căci nu aș vrea niciodată
 Să mă despart de Isus,
 Credința vieții sfinte
@@ -21,12 +22,13 @@ Iar, clipe trăite cu Domnul, sunt momente de nedescris,
 Splendori nemaivăzute și cântări fără sfârșit
 Ne vor uimi când vom sosi în veșnicii. :/
 
-[v2]
+[v2.1]
 În lume-i atâta tristețe
 Că oamenii nu pot vedea
 Negura grea de păcate,
 Nici iadul în care vor sta.
 
+[v2.2]
 Viața de-aici e o șansă,
 Depinde ce facem cu ea,
 Vom pierde pe veci mântuirea

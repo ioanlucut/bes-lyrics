@@ -1,48 +1,52 @@
 [title]
-Psalmul 136 {author: {Alexandru Groza}, contentHash: {#b2edef}, id: {ohKeo8zao11u94kC9vLmGH}}
+Psalmul 136 {author: {Alexandru Groza}, contentHash: {#88d6fe}, id: {ohKeo8zao11u94kC9vLmGH}}
 
 [sequence]
-c,v1,c,v2,c,v3,c
+c1.1,c1.2,v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
 
-[v1]
+[v1.1]
 Când privesc soarele, luna, stelele,
 Universul, așa de sublime,
 Mă așez în genunchi, Domnului mă închin
 Să-L proclam Creator, sfânt, divin.
 
+[v1.2]
 Prin Cuvântul lui sfânt toate
 El le-a creat cu înțelepciune.
 El din viața Lui viață și nouă ne-a dat;
 Numele Lui fie-n veci lăudat!
 
-[c]
+[c1.1]
 Tot pământul să-L laude pe Domnul,
 Neamurile să I se închine Lui,
 Pentru-a Sa minunată lucrare
 Căci în veac ține îndurarea Lui!
 
+[c1.2]
 Tot pământul să-I cânte mărire,
 Creatorului sfânt mulțumire
 Pentru dragostea Lui fără de sfârșit
 Căci în veac ține îndurarea Lui!
 
-[v2]
+[v2.1]
 Lăudați pe Domnul, căci este bun,
 Căci în veac ține îndurarea Lui!
 Pe Acel ce singur face minuni
 Căci în veac ține îndurarea Lui!
 
+[v2.2]
 Lăudați pe Dumnezeul dumnezeilor
 Căci în veac ține îndurarea Lui!
 Pe Acel ce-a făcut cerurile mari
 Căci în veac ține îndurarea Lui!
 
-[v3]
+[v3.1]
 Lăudați pe Domnul domnilor
 Căci în veac ține îndurarea Lui!
 Pe Acel ce a întins pământul pe mal
 Căci în veac ține îndurarea Lui!
 
+[v3.2]
 Lăudați pe Dumnezeul cerurilor
 Căci în veac ține îndurarea Lui!
 Pe Cel ce dă hrană oricărei făpturi

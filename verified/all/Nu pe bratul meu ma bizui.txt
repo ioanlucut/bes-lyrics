@@ -1,15 +1,16 @@
 [title]
-Nu pe brațul meu mă bizui {contentHash: {#0d0e86}, id: {rxi2pJKrjfRyPQ4J6adKAB}}
+Nu pe brațul meu mă bizui {contentHash: {#b5a455}, id: {rxi2pJKrjfRyPQ4J6adKAB}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Nu pe brațul meu mă bizui,
 Brațul meu e-atât de slab,
 Căci dușmanul m-ar învinge
 Și m-ar nimici degrab’.
 
+[v1.2]
 Nici pe ajutorul sorții,
 Nu mă bizui nicidecum,
 Când m-aș crede cel mai tare,
@@ -21,23 +22,25 @@ Cel deplin și credincios
 Numai Tu mă ții puternic,
 Domnul meu, Isus Hristos. :/
 
-[v2]
+[v2.1]
 Nu pe firea mea cea slabă,
 Nu mă bizui nicidecum,
 Chiar și când te crezi mai sigur,
 Cazi zdrobit în praf pe drum.
 
+[v2.2]
 Nu mă bizui nici pe oameni,
 Nici pe-ale lumii promisiuni,
 Nici pe slava ce-a de-o clipă,
 Toate-s umbre și minciuni.
 
-[v3]
+[v3.1]
 Da, mă bizui doar pe Tine,
 Dulce Dumnezeul meu,
 Care Singur ești în stare
 Să-mi ții fruntea sus mereu.
 
+[v3.2]
 Da, mă bizui doar pe Tine,
 Veșnicul Biruitor,
 Tu să-mi încununi răbdarea,

@@ -1,15 +1,16 @@
 [title]
-Pentru cruce-Ți mulțumesc {contentHash: {#7bd4dc}, id: {4aGPJbrkSKxxYC2kkU7h2j}}
+Pentru cruce-Ți mulțumesc {contentHash: {#e7e945}, id: {4aGPJbrkSKxxYC2kkU7h2j}}
 
 [sequence]
-v1,c,v1,c,e
+v1.1,v1.2,c,v1.1,v1.2,c,e
 
-[v1]
+[v1.1]
 Pentru cruce-Ți mulțumesc,
 Pentru prețul ce-ai plătit.
 Ai purtat păcatul meu, rușinea mea,
 Mi-ai dat har minunat.
 
+[v1.2]
 Mulțumesc că m-ai iubit
 Și pe cruce Te-ai jertfit.
 Sunt spălat cu sânge sfânt

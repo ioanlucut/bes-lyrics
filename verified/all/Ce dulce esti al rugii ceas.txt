@@ -1,37 +1,40 @@
 [title]
-Ce dulce ești, al rugii ceas {contentHash: {#237005}, id: {qNYRvRt3qhERWPQTM8uyaS}}
+Ce dulce ești, al rugii ceas {contentHash: {#e5e7d7}, id: {qNYRvRt3qhERWPQTM8uyaS}}
 
 [sequence]
-v1,v2,v3
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
-[v1]
+[v1.1]
 Ce dulce ești, al rugii ceas
 Când, cu lacrimi pe obraz,
 Stau la tronul Lui Dumnezeu
 Și-mi pot plânge necazul meu.
 
+[v1.2]
 Oricând durerea e mare,
 Isus îmi dă iar scăpare;
 /: La mine slab, ia aminte,
 Când Lui mă rog eu fierbinte. :/
 
-[v2]
+[v2.1]
 Al rugii ceas, ce dulce ești,
 Când Domnului mărturisești
 Păcatu-ntreg, amarul tot,
 Și spui: „Isuse, nu mai pot!”
 
+[v2.2]
 El zice: „Mie vă rugați,
 Cu-al Meu Cuvânt vă mângâiați!”
 /: Tot ce m-apasă-I voi spune
 În timpul de rugăciune. :/
 
-[v3]
+[v3.1]
 Al rugii ceas, ce dulce-mi ești,
 În orice zi mă liniștești.
 Cât timp aici călătoresc,
 Eu către cer cu drag privesc.
 
+[v3.2]
 Când acest corp, de pe pământ,
 Îl voi depune în mormânt,
 /: Atunci, în veci voi fi voios

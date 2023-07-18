@@ -1,8 +1,8 @@
 [title]
-Când mă aflu-n prezența Ta {contentHash: {#883cac}, id: {qXJidot28gCSFvPmnAtX3X}}
+Când mă aflu-n prezența Ta {contentHash: {#9aae38}, id: {qXJidot28gCSFvPmnAtX3X}}
 
 [sequence]
-v1,c,v1,c
+v1,c1.1,c1.2,v1,c1.1,c1.2
 
 [v1]
 Când mă aflu-n prezența Ta,
@@ -10,12 +10,13 @@ Pace găsesc.
 Când mă aflu-n prezența Ta,
 Știu că Tu cunoști.
 
-[c]
+[c1.1]
 Tu-mi cunoști numele,
 Tu cunoști viața mea,
 Încă mă mai iubești,
 Încă-Ți pasă de mine.
 
+[c1.2]
 Eu sunt visul ce-L porți
 Ascuns în inimă,
 Când mă aflu-n prezența Ta

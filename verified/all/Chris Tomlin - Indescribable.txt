@@ -1,8 +1,8 @@
 [title]
-Indescribable {author: {Chris Tomlin}, contentHash: {#409690}, id: {3RTowAmZxuUCFn4pRvCniZ}}
+Indescribable {author: {Chris Tomlin}, contentHash: {#bade1e}, id: {3RTowAmZxuUCFn4pRvCniZ}}
 
 [sequence]
-v1,c,v2,c2
+v1,c,v2,c2.1,c2.2
 
 [v1]
 Din al mării adânc până la muntele-nalt,
@@ -25,13 +25,14 @@ A luminii puteri, soarele l-ai creat,
 Iar în noaptea târzie răcoare ne-ai dat,
 Ce măreț ești!
 
-[c2]
+[c2.1]
 /: Ești de nedescris, ești de necuprins,
 Stele pe cer Tu ai pus și le știi numele,
 Cât ești de minunat, puternic ești, de neatins!
 Azi ne plecăm pe genunchi, recunoaștem umili
 Cât ești de minunat. :/
 
+[c2.2]
 Ești de nedescris, ești de necuprins,
 Stele pe cer Tu ai pus și le știi numele,
 Cât ești de minunat!

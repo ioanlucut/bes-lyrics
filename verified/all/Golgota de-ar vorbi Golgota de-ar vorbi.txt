@@ -1,8 +1,8 @@
 [title]
-Golgota de-ar vorbi, Golgota de-ar vorbi {contentHash: {#1ab649}, id: {nNCdgRx2k3YAdawphoagZm}}
+Golgota de-ar vorbi, Golgota de-ar vorbi {contentHash: {#f67282}, id: {nNCdgRx2k3YAdawphoagZm}}
 
 [sequence]
-v1,c,v2,c
+v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [v1]
 Golgota de-ar vorbi, Golgota de-ar vorbi,
@@ -10,12 +10,13 @@ Ar spune tragedia care-a fost pe ea.
 Ar spune Ghetsimani, grădina Ghetsimani,
 Cum, Hristos, în noapte, pentru tine S-a rugat.
 
-[c]
+[c1.1]
 A fost, a fost atât de greu
 Să sufere în locul tău.
 Sudori de sânge-au curs pe fața Lui Isus!
 Silit, batjocorit, cu crucea-n spate El mergea,
 
+[c1.2]
 Urcând pe Via Dolorosa-n sus,
 De multe ori a căzut Isus.
 O, Golgota, o, Golgota, loc de jale

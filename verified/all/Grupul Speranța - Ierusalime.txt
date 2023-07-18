@@ -1,10 +1,10 @@
 [title]
-Ierusalime {author: {Grupul Speranța}, contentHash: {#59e150}, id: {cjpPZithnpRwn9q7Ag4uZY}}
+Ierusalime {author: {Grupul Speranța}, contentHash: {#6b1cee}, id: {cjpPZithnpRwn9q7Ag4uZY}}
 
 [sequence]
-v1,c,v2,c,v3,c2
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c2
 
-[v1]
+[v1.1]
 Pe drumul cel de piatră
 De pe-o colină ’naltă,
 Isus, cu fața tristă, privea,
@@ -12,6 +12,7 @@ Privea înspre cetate,
 Cetatea mult iubită.
 Văzându-i nepăsarea, El plângea:
 
+[v1.2]
 „Ce n-am făcut eu oare pentru tine
 Ca să mă crezi că am venit de sus?
 Te-am vindecat și ți-am făcut doar bine,
@@ -24,7 +25,7 @@ Ierusalime, la tine am venit!
 Vremea cercetării tale
 Și lucrurile care pot să-ți dea salvare. :/
 
-[v2]
+[v2.1]
 Pe drumul cel de piatră,
 Pe o colină înaltă,
 Isus, cu fața tristă, mergea,
@@ -32,12 +33,13 @@ Mergea cu crucea în spate
 Înconjurat de gloate,
 Purtând povara lumii cea grea.
 
+[v2.2]
 O, lume, unde n-ai văzut în mine
 O stea care din Iacov răsărea?
 Lumina care luminează lumea,
 Pe-Acel’ care voia să-ți dea viața.
 
-[v3]
+[v3.1]
 Pe drumul vieții tale,
 Isus trece și astăzi,
 Privind în urma ta ce ai lăsat.
@@ -45,6 +47,7 @@ Privește-L dacă plânge
 Sau are fața tristă
 Văzându-ți faptele ce le-ai urmat.
 
+[v3.2]
 Căci anii petrecuți în lumea aceasta
 Sunt scriși acolo sus în cartea Sa.
 Dacă-ai umblat în căile dreptății

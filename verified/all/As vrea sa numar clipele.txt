@@ -1,15 +1,16 @@
 [title]
-Aș vrea să număr clipele {contentHash: {#7954b2}, id: {tegss7d8W4ECq7fMpHxkrX}}
+Aș vrea să număr clipele {contentHash: {#4e6e82}, id: {tegss7d8W4ECq7fMpHxkrX}}
 
 [sequence]
-v1,c,v2,c,c2
+v1.1,v1.2,c,v2.1,v2.2,c,c2
 
-[v1]
+[v1.1]
 Aș vrea să număr clipele,
 Dar timpul trece-n grabă,
 Minute ce-au trecut le-am irosit.
 Am spus că sunt al Lui Hristos,
 
+[v1.2]
 Dar Domnul înc-așteaptă
 Să fiu al Lui cu totul dăruit.
 Și câte, Doamne, nu Ți-am spus
@@ -23,12 +24,13 @@ Mereu m-ai binecuvântat,
 Și totuși doar la mine m-am gândit
 Și Te-am uitat, și m-am ferit.
 
-[v2]
+[v2.1]
 O lume-ntreagă zace-n chin
 Tânjind după speranță.
 Dar cine oare le-o va oferi?
 Cum pot să stau nepăsător
 
+[v2.2]
 Când eu am primit viață?
 Când alții mor, cum pot fi fericit?
 Tu ne iubești la fel pe toți;

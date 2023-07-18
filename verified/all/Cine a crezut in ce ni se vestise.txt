@@ -1,8 +1,8 @@
 [title]
-Cine a crezut în ce ni se vestise {contentHash: {#87696f}, id: {5d29Bf3ST8CbfTBR73o1dz}}
+Cine a crezut în ce ni se vestise {contentHash: {#d0acea}, id: {5d29Bf3ST8CbfTBR73o1dz}}
 
 [sequence]
-v1,c,v2,c,e
+v1,c1.1,c1.2,v2,c1.1,c1.2,e
 
 [v1]
 Cine a crezut în ce ni se vestise?
@@ -10,12 +10,13 @@ Cine a cunoscut brațul Domnului?
 Când priveai la fața Lui,
 Te îngrozeai de atâta chin.
 
-[c]
+[c1.1]
 Mii de răni I-au făcut,
 Mii de răni Mielului Sfânt.
 Disprețuit și alungat,
 Om al durerii, Miel curat
 
+[c1.2]
 Atât de mult El te-a iubit,
 Din dragoste S-a dăruit.
 Ți-a deschis ușa spre cer,

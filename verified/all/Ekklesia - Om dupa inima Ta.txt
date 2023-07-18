@@ -1,15 +1,16 @@
 [title]
-Om după inima Ta {author: {Ekklesia}, contentHash: {#23310a}, id: {haNxnUtCGefcLykX933keF}}
+Om după inima Ta {author: {Ekklesia}, contentHash: {#f95ed5}, id: {haNxnUtCGefcLykX933keF}}
 
 [sequence]
-v1,c,v2,c,e
+v1.1,v1.2,c,v2,c,e
 
-[v1]
+[v1.1]
 Văd în stele ce măreț ești, Domnul meu,
 Văd în toate că doar Tu ești Dumnezeu,
 Văd slava Ta pe-ntregul pământ și vreau
 Să fiu un om după inima Ta.
 
+[v1.2]
 Se aude-un cântec nou din înălțimi,
 Se ridică glasuri și din ape-adânci
 Aud cum cântă-ntregul pământ și vreau

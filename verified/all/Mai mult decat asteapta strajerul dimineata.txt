@@ -1,48 +1,52 @@
 [title]
-Mai mult decât așteaptă străjerul dimineața {contentHash: {#7924f4}, id: {j7oLfxTkNPk6S72z6L8EuX}}
+Mai mult decât așteaptă străjerul dimineața {contentHash: {#9b1b48}, id: {j7oLfxTkNPk6S72z6L8EuX}}
 
 [sequence]
-v1,v2,v3,v4
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
 
-[v1]
+[v1.1]
 Mai mult decât așteaptă
 Străjerul dimineața,
 Te-așteaptă-al nostru suflet,
 Isus, să-ți vadă fața.
 
+[v1.2]
 /: Cum soarele răsare
 Și luminează-ntinsul,
 Așa ne umpli viața,
 Isus, Tu, necuprinsul. :/
 
-[v2]
+[v2.1]
 Mai mult decât așteaptă
 Un mugur primăvara,
 Mai mult decât așteaptă
 Înstrăinatul țara,
 
+[v2.2]
 /: Mai mult decât așteaptă
 Ogorul ploaia lină,
 Dorim, Isuse, fața
 Și slava Ta să vină. :/
 
-[v3]
+[v3.1]
 Mai mult decât așteaptă
 Bolnavul vindecarea,
 Noi așteptăm, Isuse,
 În țara Ta intrarea.
 
+[v3.2]
 /: Mai mult decât așteaptă
 Logodnica pe mire,
 Dorim întâmpinarea
 Venirii în mărire. :/
 
-[v4]
+[v4.1]
 Mai mult decât așteaptă
 Robiții ’liberarea,
 Corăbierii portul,
 Trudiții înserarea,
 
+[v4.2]
 /: Ostașii biruința
 Și-n lupta lor cununa,
 Noi Te-așteptăm, Isuse,

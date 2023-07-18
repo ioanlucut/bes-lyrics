@@ -1,15 +1,16 @@
 [title]
-Rege al Regilor {alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {#28ae78}, id: {oAkczBTZt1Qo1soYbdyNzv}}
+Rege al Regilor {alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {#afc031}, id: {oAkczBTZt1Qo1soYbdyNzv}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,v3.3,v3.4,c
 
-[v1]
+[v1.1]
 Când eram fără speranță-n
 Întuneric Te-așteptam,
 Plin de milă, Tu, din glorie,
 Către noi ai alergat.
 
+[v1.2]
 Te-ai născut dintr-o fecioară,
 Profețiile-mplinind
 Și din nesfârșita-Ți glorie
@@ -21,33 +22,37 @@ Tată, Fiu și Duh Prea Sfânt,
 Domn al gloriei, Salvator!
 Slavă Ție, Rege al regilor!
 
-[v2]
+[v2.1]
 Proclamând împărăția
 Și căutând pe cei pierduți,
 Ai adus răscumpărarea
 Pentru toți cei ce-au crezut.
 
+[v2.2]
 Și privind spre răsplătire
 Crucea Tu ai suferit.
 Ai disprețuit rușinea,
 Pentru noi Tu Te-ai jertfit.
 
-[v3]
+[v3.1]
 Iar în zorii învierii
 Ceru-ntreg a amuțit,
 Piatra cade răsturnată,
 Mielul Sfânt a biruit!
 
+[v3.2]
 Sfinții-nvie din morminte,
 Îngerii uimiți privesc.
 Iată, cei ce vin acasă
 Mântuirea o primesc.
 
+[v3.3]
 Și prin Duhul Tău cel Sfânt
 S-a născut Biserica,
 Vesta bună proclamând,
 Ea nicicând nu va cădea.
 
+[v3.4]
 Azi sunt liber în Hristos,
 Sunt prin El neprihănit
 Și trăiesc biruitor

@@ -1,8 +1,8 @@
 [title]
-Astăzi mă-nchin Domnului {contentHash: {#4d200e}, id: {uk8kGsK1iH1qvgM3sBoYYb}}
+Astăzi mă-nchin Domnului {contentHash: {#10c1ae}, id: {uk8kGsK1iH1qvgM3sBoYYb}}
 
 [sequence]
-c,v1,c,v2,c
+c,v1.1,v1.2,c,v2.1,v2.2,c
 
 [c]
 /: Astăzi mă-nchin Domnului
@@ -12,23 +12,25 @@ Când eram în strâmtorare
 Către El eu am strigat
 Și El mâna și-a întins și m-a salvat. :/
 
-[v1]
+[v1.1]
 Mi-amintesc de ziua-n care
 Dumnezeu m-a încercat,
 A fost ziua-n care Domnul
 De-L iubesc m-a întrebat.
 
+[v1.2]
 A fost o zi deosebită,
 Abia acum am înțeles;
 Căci Isus mult m-a iubit
 Și prin moartea Sa pe cruce m-a ales.
 
-[v2]
+[v2.1]
 Încercări mereu vin, valuri
 Dar le birui prin Isus.
 Doar în El mi-am pus nădejdea
 Ca s-ajung în ceruri sus.
 
+[v2.2]
 Încercările să vină,
 Prin ele mă întăresc
 Și-ntr-o zi, pe nori de slavă,

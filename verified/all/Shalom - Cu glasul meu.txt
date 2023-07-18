@@ -1,15 +1,16 @@
 [title]
-Cu glasul meu {author: {Shalom}, contentHash: {#af87ca}, id: {j6wadwksh5XVpU9FBm6pT2}}
+Cu glasul meu {author: {Shalom}, contentHash: {#5b352d}, id: {j6wadwksh5XVpU9FBm6pT2}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2,c
 
-[v1]
+[v1.1]
 Cu glasul meu, eu strig către Domnul,
 Îmi vărs necazul înaintea Lui
 Și-mi povestesc a mea strâmtorare,
 Durerea și povara grea.
 
+[v1.2]
 Ia aminte, la strigătele mele, Doamne,
 Izbăvește-mă de tot ce-i rău în jurul meu,
 Scoate-mi sufletul din temnița întunecoasă

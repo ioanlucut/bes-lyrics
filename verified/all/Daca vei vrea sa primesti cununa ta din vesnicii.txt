@@ -1,48 +1,52 @@
 [title]
-Dacă vei vrea să primești cununa ta din veșnicii {contentHash: {#ad6827}, id: {t4HnGfmML4drXrtV3DuH2w}}
+Dacă vei vrea să primești cununa ta din veșnicii {contentHash: {#e93acf}, id: {t4HnGfmML4drXrtV3DuH2w}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
 
-[v1]
+[v1.1]
 Dacă vei vrea să primești
 Cununa ta din veșnicii,
 Caută-L pe Dumnezeu,
 Fiul Său de azi vei fi.
 
+[v1.2]
 Isus din cer a venit,
 Pe Golgota El S-a jertfit,
 Orice păcat ți-a spălat,
 Ca să fii azi mântuit.
 
-[c]
+[c1.1]
 Aur, argint și palate
 Nu te-or scăpa de la moarte.
 Timpul aproape-i trecut,
 Cu viața ta ce-ai făcut?
 
+[c1.2]
 Din tine, ce-o să rămână?
 Ești doar un pumn de țărână,
 Sufletul e tot ce ai,
 Oare cui vrei să-l predai?
 
-[v2]
+[v2.1]
 Sângele care a curs
 Din trupul Lui Isus Hristos,
 Din starea ta de păcat,
 Iată, și astăzi te-a scos.
 
+[v2.2]
 Mâinile cu semnele
 Piroanelor ce le-au străpuns,
 Binecuvântată zi,
 Iată, la tine-au ajuns!
 
-[v3]
+[v3.1]
 Dacă vrei să moștenești
 Palatul sfânt cum altul nu-i,
 Plecându-te pe genunchi,
 Te roagă azi Domnului.
 
+[v3.2]
 Îngerii-n cer vor cânta
 Căci Lui Isus tu te-ai predat.
 Iată, Satan e învins,

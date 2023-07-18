@@ -1,15 +1,16 @@
 [title]
-Întruna eu alerg {contentHash: {#21ca5a}, id: {hQhACd4a6ab2hCRsL8JnKy}}
+Întruna eu alerg {contentHash: {#e90ffb}, id: {hQhACd4a6ab2hCRsL8JnKy}}
 
 [sequence]
-v1,p,c,v1,p,c,p,c
+v1.1,v1.2,p,c,v1.1,v1.2,p,c,p,c
 
-[v1]
+[v1.1]
 Întruna eu alerg,
 Cu tot ce am în min’,
 Chiar viața mea o dau
 Doar pentru Tine.
 
+[v1.2]
 Nimic nu-mi poate lua
 Ce Tu mi-ai pregătit,
 Mereu Tu mă ridici,

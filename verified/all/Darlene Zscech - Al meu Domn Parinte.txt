@@ -1,26 +1,28 @@
 [title]
-Al meu Domn, Părinte {author: {Darlene Zscech}, contentHash: {#ac12da}, id: {4FZxKr6tDnhLF9xikKGocN}}
+Al meu Domn, Părinte {author: {Darlene Zscech}, contentHash: {#bcfbce}, id: {4FZxKr6tDnhLF9xikKGocN}}
 
 [sequence]
-v1,c,v1,c,e
+v1.1,v1.2,c1.1,c1.2,v1.1,v1.2,c1.1,c1.2,e
 
-[v1]
+[v1.1]
 Al meu Domn, Părinte,
 Nimeni ca Tine nu e.
 Cât voi trăi, Îți voi slăvi
 Lucrarea mâinilor Tale.
 
+[v1.2]
 Refugiu, scăpare,
 În brațul Tău eu găsesc.
 Cu viața mea, cu tot ce am
 Totdeauna laudă-Ți voi da.
 
-[c]
+[c1.1]
 Strig către Tine, o, Doamne, Te caut.
 Tu ești Împăratul, puterea Ți-o laud.
 Munții se pleacă și mările tac
 Când rostim Numele Tău.
 
+[c1.2]
 Tot ce-ai creat în splendoare azi stă.
 Eu veșnic mă-nchin și Îți dau laudă.
 Prin Tine exist

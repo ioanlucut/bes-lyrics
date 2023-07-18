@@ -1,15 +1,16 @@
 [title]
-Într-o zi pe Ieremia {contentHash: {#5b0e8b}, id: {eMFSBzpngKRHFZXtjsrenK}}
+Într-o zi pe Ieremia {contentHash: {#bcedb1}, id: {eMFSBzpngKRHFZXtjsrenK}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Într-o zi, pe Ieremia
 Domnul îl înștiințează,
 La olar să meargă-n casă,
 Ca să vadă cum lucrează.
 
+[v1.2]
 El s-a dus văzând pe roată,
 Vasul ce nu izbutise
 Și, luând o altă formă,
@@ -21,23 +22,25 @@ Vasul ce nu izbutise
 Să lăsăm să prelucreze,
 Vasul ca să curgă harul. :/
 
-[v2]
+[v2.1]
 În castele și-n palate
 Nu sunt vase doar de aur,
 Sunt de-argint, de lemn, țărână,
 Ce nu-s toate din tezaur.
 
+[v2.2]
 Întrebuințate-s toate,
 Dar nu în aceleași zile,
 Sunt de cinste, de ocară,
 Lăudate sau umile.
 
-[v3]
+[v3.1]
 Dac-un vas se curățește,
 Domnul face vas de cinste.
 Îl albește, îl sfințește,
 S-aducă podoabe sfinte.
 
+[v3.2]
 Vasul nu-ntreabă Olarul
 Cum e prelucrat să-i spună,
 Domnul face-un vas destoinic,

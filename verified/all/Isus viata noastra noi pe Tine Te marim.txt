@@ -1,15 +1,16 @@
 [title]
-Isus, viața noastră, noi pe Tine Te mărim {contentHash: {#74f1cf}, id: {wK3CLCGFsx5Nay66YVmysi}}
+Isus, viața noastră, noi pe Tine Te mărim {contentHash: {#98b92b}, id: {wK3CLCGFsx5Nay66YVmysi}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Isus, viața noastră,
 Noi pe Tine Te mărim
 Căci prin jertfirea Ta pe cruce
 Noi voioși trăim.
 
+[v1.2]
 Ne-ai dat în dar iertarea
 Pentru vina ce-o purtăm,
 De-aceea Îți cântăm:
@@ -21,23 +22,25 @@ Glorie, glorie, Aleluia!
 Glorie, glorie, Aleluia!
 Părintelui ceresc, Aleluia!
 
-[v2]
+[v2.1]
 Din clipa când în viața noastră
 Pacea a intrat,
 Cântăm întruna Mielului
 Ce ne-a răscumpărat.
 
+[v2.2]
 A Lui să fie slava
 Ce în veci va triumfa,
 Acum și pururea!
 Aleluia!
 
-[v3]
+[v3.1]
 Isuse, când pe nori odată
 Te vei arăta,
 Acei ce-au biruit
 Prin jertfa Ta s-or bucura.
 
+[v3.2]
 Încoronați de strălucire
 Îți vom cânta
 Și slavă Îți vom da!

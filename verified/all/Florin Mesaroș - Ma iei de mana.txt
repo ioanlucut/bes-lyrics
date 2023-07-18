@@ -1,20 +1,22 @@
 [title]
-Mă iei de mână {author: {Florin Mesaroș}, contentHash: {#f47b08}, id: {hnkHUAWZ68piMShJNkqbmC}}
+Mă iei de mână {author: {Florin Mesaroș}, contentHash: {#f0d162}, id: {hnkHUAWZ68piMShJNkqbmC}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,v1.3,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 În toate se vede-a Ta îndurare,
 Și dragostea-Ți, toate o șoptesc.
 Iar stelele-mi spun, ce mare și bun,
 Ești, Tu, Doamne!
 
+[v1.2]
 În mâna Ta stă tot pământul,
 În fața Ta totul e gol.
 Tu toate le știi, dureri, bucurii,
 Tu-mi știi gândul!
 
+[v1.3]
 Tu ești mereu cu mine, mereu pe drumul meu.
 Și-atunci când totul pare greu,
 Totul pare greu și-atunci când parcă simt,
@@ -26,12 +28,13 @@ Mă duci în Casa Ta, Doamne Sfânt!
 Mă ții de mână,
 Îmi spui că prin Tine voi birui! :/
 
-[v2]
+[v2.1]
 Și peste anii ce-au trecut,
 Mereu cu mine ai fost,
 Când rătăcit băteam ades,
 La porți ce nu aveau rost.
 
+[v2.2]
 În vremuri grele ce-au trecut,
 Mereu m-ai mângâiat,
 Doar lângă Tine, m-ai ținut,

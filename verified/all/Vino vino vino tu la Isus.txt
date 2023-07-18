@@ -1,8 +1,8 @@
 [title]
-Vino, vino, vino tu la Isus {contentHash: {#840294}, id: {w2bJgTxcHQLie7UfgC6X4e}}
+Vino, vino, vino tu la Isus {contentHash: {#97c480}, id: {w2bJgTxcHQLie7UfgC6X4e}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
 
 [v1]
 Vino, vino, vino tu la Isus!
@@ -10,12 +10,13 @@ Vino, tu, acum!
 Vino, vino și să fii tu supus
 Domnului cel bun!
 
-[c]
+[c1.1]
 /: O, vino! Eu te chem
 Și astăzi te îndemn,
 Căci noaptea va veni
 Și n-ai să mai poți veni. :/
 
+[c1.2]
 Vino, vino, printre suferințe!
 Lasă tu lumea,
 Căci în lume nu e nici căință,

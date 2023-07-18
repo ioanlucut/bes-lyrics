@@ -1,8 +1,8 @@
 [title]
-Când pe marea vieții eu {contentHash: {#f3e629}, id: {qH5KHvc82k8sHFNc3PkJHt}}
+Când pe marea vieții eu {contentHash: {#143b29}, id: {qH5KHvc82k8sHFNc3PkJHt}}
 
 [sequence]
-v1,v2,v3,v4,v5,v6,v7,e
+v1,v2,v3,v4,v5,v6,v7,b,b2
 
 [v1]
 Când pe marea vieții eu,
@@ -46,12 +46,13 @@ Din val m-a ridicat chiar El.
 Valul mării furios,
 Domnul l-a liniștit pe loc.
 
-[e]
+[b]
 Câte zile voi avea
 În toate-L voi lăuda pe El.
 El m-a scos cu mâna Sa
 Din încercarea grea, chiar El.
 
+[b2]
 Brațul Său mântuitor
 M-a ridicat din valul greu,
 Sufletul El l-a salvat

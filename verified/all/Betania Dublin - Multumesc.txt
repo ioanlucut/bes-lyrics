@@ -1,15 +1,16 @@
 [title]
-Mulțumesc {author: {Betania Dublin}, contentHash: {#7f88e4}, id: {uUaab1V7CsTTZ5NFPczFpe}}
+Mulțumesc {author: {Betania Dublin}, contentHash: {#f8efb6}, id: {uUaab1V7CsTTZ5NFPczFpe}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1.1,v1.2,c,v2,c,b,c
 
-[v1]
+[v1.1]
 Știu cine-am fost, știu de unde Tu m-ai scos,
 Rătăceam gol și orb, și lipsit de orice scop.
 Între noi, ce prăpastie de netrecut era,
 Însă Tu, din depărtare, plin de milă mă priveai.
 
+[v1.2]
 Și-atunci ai lăsat tronul Tău și slava Ta,
 Ai trecut peste tot ce de Tin’ mă despărțea.
 Sus, pe o cruce, păcatul mi-ai luat,

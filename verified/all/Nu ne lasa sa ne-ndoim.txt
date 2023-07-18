@@ -1,15 +1,16 @@
 [title]
-Nu ne lăsa să ne-ndoim {contentHash: {#730049}, id: {ewBRPSRVtUDoMZTz5XRJCi}}
+Nu ne lăsa să ne-ndoim {contentHash: {#c6411d}, id: {ewBRPSRVtUDoMZTz5XRJCi}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Nu ne lăsa să ne-ndoim,
 În crâncena furtună!
 Nu ne lăsa să ne-ngrozim,
 Când fulgeră și tună!
 
+[v1.2]
 Nu ne lăsa să înghețăm,
 În crunta viscolire!
 Nu ne lăsa să nu-nsetăm,
@@ -21,23 +22,25 @@ Isuse, de izbândă,
 Căci, fără țel, ne prăbușim
 În moarte și osândă.
 
-[v2]
+[v2.1]
 Nu ne lăsa îndepărtați,
 De-ale noastre legăminte!
 Nu ne lăsa neînfiorați,
 De lacrima fierbinte!
 
+[v2.2]
 Nu ne lăsa să fim împinși,
 Pe căi înșelătoare!
 Nu ne lăsa să fim învinși
 Și sfâșiați de fiare!
 
-[v3]
+[v3.1]
 Nu ne lăsa să părăsim
 Credința noastră bună!
 Nu ne lăsa să despărțim
 Umblarea împreună!
 
+[v3.2]
 Nu ne lăsa dormind nicicând,
 În lene și-n păcate!
 Nu ne lăsa neînsetând

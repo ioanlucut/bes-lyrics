@@ -1,15 +1,16 @@
 [title]
-Mai mult acum ca niciodată {contentHash: {#96607a}, id: {rsDJdToejsQrkXwrsY3NzL}}
+Mai mult acum ca niciodată {contentHash: {#ac0fdb}, id: {rsDJdToejsQrkXwrsY3NzL}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Mai mult acum, ca niciodată,
 E drumul mai alunecos.
 Credința-i parcă mai uitată,
 Tot mai în umbră-i pus Hristos.
 
+[v1.2]
 E timpul azi pentru trezire,
 E timpu-aproape spre apus,
 Acum întreaga omenire
@@ -22,23 +23,25 @@ E vremea să ne ridicăm
 Să Îl chemăm, ca altădată,
 Și îndeaproape să Îl urmăm. :/
 
-[v2]
+[v2.1]
 E timpul pentru apropiere,
 Pentru căință-n rugăciuni,
 Isus mai scrie grațiere,
 Deci să-ncercăm să fim mai buni.
 
+[v2.2]
 Să ne oprim din alergare,
 Să stăm o clipă să privim
 La ce se-ntâmplă în lumea mare
 Și sinceri să ne pocăim.
 
-[v3]
+[v3.1]
 Mai face Domnul iar chemare,
 Poate e ultimul apel,
 Fă-ți azi și tu o cercetare
 Și-ntoarce-te acum la El.
 
+[v3.2]
 Tot mai aproape e sfârșitul,
 Curând, curând El va veni.
 Prinde, prietene, momentul

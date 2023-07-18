@@ -1,15 +1,16 @@
 [title]
-Merg spre casă {author: {Otto Pascal}, contentHash: {#347fdc}, id: {rTsAkT3unu6wGE1k6goYgj}}
+Merg spre casă {author: {Otto Pascal}, contentHash: {#4e384f}, id: {rTsAkT3unu6wGE1k6goYgj}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Merg spre casă, înspre ceruri,
 Unde Tu m-aștepți în prag,
 Prin furtună și prin valuri
 Se ajunge la liman.
 
+[v1.2]
 Înserarea, blând se lasă,
 Mă învăluie zâmbind,
 Vin ecouri dinspre casă,
@@ -24,12 +25,13 @@ Dar știu că nu mai este mult
 Și vei veni pe nori în slavă iar.
 Stau pe genunchi și Te-aștept.
 
-[v2]
+[v2.1]
 Fii lumină pe-a mea cale,
 Călăuză-n noaptea grea.
 Frica să nu mă-mpresoare,
 Vreau să-mi torni ulei în vas.
 
+[v2.2]
 Salt întruna pentru Tine,
 Luminând în jurul meu.
 Vreau s-ajung în strălucire,

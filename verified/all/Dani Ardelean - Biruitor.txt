@@ -1,15 +1,16 @@
 [title]
-Biruitor {author: {Dani Ardelean}, contentHash: {#e753f0}, id: {2aHyv3KR1Ubc1ntAnRmoke}}
+Biruitor {author: {Dani Ardelean}, contentHash: {#aa4ad4}, id: {2aHyv3KR1Ubc1ntAnRmoke}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1.1,v1.2,c,v2,c,b,c
 
-[v1]
+[v1.1]
 Pe câmpul de război Tu ești cu mine,
 Mă-mbărbătezi să lupt ca un viteaz,
 Îmi pui în mână sabia și scutul
 Și îmi promiți că singur nu mă lași!
 
+[v1.2]
 Mă ține tare-a Ta făgăduință,
 Că lupta după ce-o voi termina,
 Îmi voi primi din mâna Ta cununa

@@ -1,15 +1,16 @@
 [title]
-Doar Cristos, Speranța mea! {author: {Brian Johnson și PhilWickham}, contentHash: {#39a65f}, id: {uTxhLyXe6cYKc4mLNGs2v7}}
+Doar Cristos, Speranța mea! {author: {Brian Johnson și PhilWickham}, contentHash: {#7b1a8a}, id: {uTxhLyXe6cYKc4mLNGs2v7}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
-[v1]
+[v1.1]
 Cât de departe eram de Tine,
 Un munte ce nu-l puteam urca.
 În disperare priveam spre ceruri,
 Numele Tău l-am chemat.
 
+[v1.2]
 În întuneric, iubirea-Ți mare
 A spulberat păcatul greu.
 Murind pe cruce, a scris sfârșitul
@@ -21,12 +22,13 @@ Aleluia! Moartea nu a triumfat!
 Lanțurile au căzut, m-a iertat de-al meu trecut,
 Doar Cristos, speranța mea.
 
-[v2]
+[v2.1]
 Cine-ar putea să-I cuprindă mila,
 Și bogăția harului Său,
 A slavei Rege gloria-a lăsat-o
 Să ia păcatul meu și-al tău.
 
+[v2.2]
 Crucea proclamă iertarea noastră
 El ne-a ales să fim ai Săi.
 Mântuitor bun al Tău pe veci sunt,

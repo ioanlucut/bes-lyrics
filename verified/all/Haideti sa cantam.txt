@@ -1,15 +1,16 @@
 [title]
-Haideți să cântăm {contentHash: {#bb223c}, id: {sRNJvBcsfubQFZLeb3DvWP}}
+Haideți să cântăm {contentHash: {#c68097}, id: {sRNJvBcsfubQFZLeb3DvWP}}
 
 [sequence]
-c,v1,c,v2,c
+c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
 
-[c]
+[c1.1]
 Haideți să cântăm cu veselie Domnului
 Și să strigăm de bucurie
 Către stânca mântuirii noastre,
 Înaintea Lui să mergem toți cu laude.
 
+[c1.2]
 Cântați-I cântece,
 Cântați-I cântece,
 Cântați-I cântece,

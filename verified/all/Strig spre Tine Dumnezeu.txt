@@ -1,15 +1,16 @@
 [title]
-Strig spre Tine, Dumnezeu {contentHash: {#05b16e}, id: {pBZkmcS4RZPvecgih6oHLk}}
+Strig spre Tine, Dumnezeu {contentHash: {#a29528}, id: {pBZkmcS4RZPvecgih6oHLk}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
-[v1]
+[v1.1]
 Iată-mă, Isuse,
 Vreau să mă-nchin în duh și-adevăr.
 Știu că harul Tău perfect
 M-a adus aici.
 
+[v1.2]
 Și liber stau ’naintea Ta,
 Îți dau acum viața mea,
 Mâini spre cer am ridicat
@@ -20,12 +21,13 @@ Strig spre Tine, Dumnezeu,
 Să răsune pân’ la cer:
 Eu sunt al Tău, sunt al Tău!
 
-[v2]
+[v2.1]
 Atâta bine ne-ai făcut
 Să vadă toți aș vrea, Isus,
 Tu ești singurul
 Ce m-aduce pe genunchi.
 
+[v2.2]
 Să văd azi frumusețea Ta,
 Să-Ți răspândesc și dragostea.
 Mâini spre cer am ridicat

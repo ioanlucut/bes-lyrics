@@ -1,15 +1,16 @@
 [title]
-Au pornit magii {author: {Florin Mesaroș}, contentHash: {#3b2484}, id: {3zUyyABbAXx8o9nTX7vn89}}
+Au pornit magii {author: {Florin Mesaroș}, contentHash: {#d5d2d7}, id: {3zUyyABbAXx8o9nTX7vn89}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Au pornit magii în grabă
 Să-L găsească pe-mpăratul nou-născut,
 Urmărind o lumină.
 E o stea așa cum nu s-a mai văzut.
 
+[v1.2]
 Piedici multe-n calea lor și primejdii mari
 Le-au ieșit ’nainte pentru a-i opri,
 Dumnezeu, cel veghetor, S-a îngrijit de pașii lor
@@ -21,12 +22,13 @@ Steaua ne conduce acol’, dar în cale se văd nori,
 Vrem doar să ne închinăm, pe-mpărat să-L înălțăm.
 Tot ce-avem noi Îi vom da, dacă doar Îl vom vedea.
 
-[v2]
+[v2.1]
 De atunci, orișicine
 Poate ajunge pân’ la al slavei Împărat.
 Dumnezeu ne conduce
 Tot așa cum și pe magi i-a îndrumat.
 
+[v2.2]
 Piedici multe-n calea lor și primejdii mari
 Le-au ieșit ’nainte pentru a-i opri.
 Dumnezeu, cel veghetor, S-a îngrijit de pașii lor

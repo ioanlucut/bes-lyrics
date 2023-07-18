@@ -1,22 +1,24 @@
 [title]
-E putere, e putere {contentHash: {#6f5d58}, id: {jfpnDQWwWGCKFrZLxQrN4F}}
+E putere, e putere {contentHash: {#eacd85}, id: {jfpnDQWwWGCKFrZLxQrN4F}}
 
 [sequence]
-v1,c,v1,c
+v1.1,v1.2,v1.3,c,v1.1,v1.2,v1.3,c
 
-[v1]
+[v1.1]
 /: E putere, e putere,
 E putere-n sângele Lui Isus Hristos! :/
 Nici dușmanul, nici dușmanul,
 Nu poate să-mi strice viața!
 De ce? Pentru că, pentru că
 
+[v1.2]
 În sângele Lui Isus Hristos este putere.
 Azi te cheamă Dumnezeu,
 Vrea să fii copilul Său,
 Cât trăiești pe-acest pământ
 Călăuzit de Duhul Sfânt.
 
+[v1.3]
 /: Noi suntem biserica
 Fraților, fraților, fraților! :/
 

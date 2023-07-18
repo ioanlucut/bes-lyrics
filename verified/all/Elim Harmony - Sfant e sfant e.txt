@@ -1,36 +1,40 @@
 [title]
-Sfânt e, sfânt e {author: {Elim Harmony}, contentHash: {#b3dcd9}, id: {qzR2UuDNLGwbJgwz1xzXAK}}
+Sfânt e, sfânt e {author: {Elim Harmony}, contentHash: {#12aaa0}, id: {qzR2UuDNLGwbJgwz1xzXAK}}
 
 [sequence]
-v1,v2,c,v3
+v1.1,v1.2,v1.3,v2.1,v2.2,v2.3,c,v3.1,v3.2,v3.3
 
-[v1]
+[v1.1]
 Este-un drum ce duce-n ceruri,
 Un drum plin de încercări,
 Dar curând va fi strigarea,
 Ce va umple largu-n zări.
 
+[v1.2]
 Bucuria va cuprinde
 Universul așteptând.
 Înspre Sion, țara sfântă
 Noi vom zbura toți cântând.
 
+[v1.3]
 Tu ești vrednic, Domnul Slavei,
 Pentru lupta ce s-a dat,
 Omenirea se închină,
 De la moarte ne-ai salvat.
 
-[v2]
+[v2.1]
 Este-un drum ce duce-n ceruri,
 Unde veșnic vom cânta.
 Nu va fi acolo noapte,
 Vom vedea doar fața Sa.
 
+[v2.2]
 Sărbătoarea va începe
 Lângă marele Stăpân.
 Înspre Sion, țara sfântă,
 Noi vom zbura toți cântând.
 
+[v2.3]
 Tu ești vrednic, Domnul Slavei,
 Pentru lupta ce s-a dat,
 Omenirea se închină,
@@ -44,17 +48,19 @@ Dumnezeu!
 Aleluia, Aleluia, Aleluia,
 Aleluia, Aleluia, Aleluia!
 
-[v3]
+[v3.1]
 Este-un drum ce duce-n ceruri,
 Un drum plin de încercări,
 Dar curând va fi strigarea
 Ce va umple largu-n zări.
 
+[v3.2]
 Bucuria va cuprinde
 Universul așteptând.
 Înspre Sion, țara sfântă,
 Noi vom zbura toți cântând.
 
+[v3.3]
 Înspre Sion, țara sfântă,
 Noi vom zbura toți cântând,
 Noi vom zbura cântând.

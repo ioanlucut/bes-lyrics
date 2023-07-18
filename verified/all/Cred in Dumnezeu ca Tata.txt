@@ -1,10 +1,10 @@
 [title]
-Cred în Dumnezeu ca Tată {contentHash: {#5432e7}, id: {szVrUGAz9ruYREzxrGnmR1}}
+Cred în Dumnezeu ca Tată {contentHash: {#48a1df}, id: {szVrUGAz9ruYREzxrGnmR1}}
 
 [sequence]
-c,v1,c,v2,c,e
+c,v1.1,v1.2,c,v2.1,v2.2,c,e
 
-[v1]
+[v1.1]
 Cred în Dumnezeu ca Tată,
 În Isus Hristos ca Fiu,
 Cred în Duhul Sfânt că este,
@@ -13,6 +13,7 @@ Cred că mai este iertare
 Pentru tot trecutul meu,
 De aceea alerg la tronul Său.
 
+[v1.2]
 Cred că Isus a fost jertfă,
 Pe un lemn crucificat,
 Și-n mormânt, lângă Golgota,
@@ -29,7 +30,7 @@ Nu-mi va fi deloc rușine
 Să afirm că sunt creștin.
 Voi sluji mereu prin harul Său divin. :/
 
-[v2]
+[v2.1]
 Cred Cuvântul care spune:
 Trebuie să te naști din nou,
 Viața veche e spălată
@@ -38,6 +39,7 @@ Cred că dragostea Lui Dumnezeu
 Te va descoperi,
 De aceea și mai mult Îl voi sluji.
 
+[v2.2]
 Cred că este-un bine și un rău,
 Te naști și apoi mori.
 Cred că Biblia este harta

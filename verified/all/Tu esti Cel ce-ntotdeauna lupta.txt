@@ -1,15 +1,16 @@
 [title]
-Tu ești Cel ce-ntotdeauna luptă {contentHash: {#489f83}, id: {r57QKj7PHxNBuMFqXgmYmJ}}
+Tu ești Cel ce-ntotdeauna luptă {contentHash: {#cd2565}, id: {r57QKj7PHxNBuMFqXgmYmJ}}
 
 [sequence]
-v1,c,v2,c,b,c,e
+v1.1,v1.2,c,v2,c,b,c,e
 
-[v1]
+[v1.1]
 Tu ești Cel ce-ntotdeauna luptă pentru-al Său popor,
 Tu ești Cel ce porți coroana sfântă de biruitor,
 Ajutor îmi ești în toate, Salvator, tăria mea,
 Eu trăiesc doar pentru a mă închina.
 
+[v1.2]
 Mă aplec în adorare când văd măreția Ta,
 Orice frică va dispărea, ai purtat victoria,
 Umple astăzi al Tău templu, lasă din puterea Ta,

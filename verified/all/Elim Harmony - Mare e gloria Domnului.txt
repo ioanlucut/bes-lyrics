@@ -1,15 +1,16 @@
 [title]
-Mare e gloria Domnului! {author: {Elim Harmony}, contentHash: {#3657d1}, id: {c49j6hUd8aWJWVoiFwB9Wn}}
+Mare e gloria Domnului! {author: {Elim Harmony}, contentHash: {#93a13d}, id: {c49j6hUd8aWJWVoiFwB9Wn}}
 
 [sequence]
-c,v1,c,v2,c,b,c,b2
+c,v1.1,v1.2,c,v2.1,v2.2,c,b,c,b2
 
-[v1]
+[v1.1]
 Domnul pentru mine a murit,
 Amin, Amin,
 În sânge sfânt Isus a biruit,
 Amin, Amin.
 
+[v1.2]
 A fost mort, dar azi e viu,
 Amin, Amin,
 Stă la dreapta Tatălui Divin,
@@ -21,12 +22,13 @@ Mare e gloria Domnului,
 Îl voi lăuda cu tot ce sunt pe Cel Puternic,
 Mare e gloria Lui. :/
 
-[v2]
+[v2.1]
 Pe nedrept a fost batjocorit,
 Amin, Amin,
 Dar n-a rămas pe cruce pironit,
 Amin, Amin.
 
+[v2.2]
 Azi, iubirea Lui e peste noi,
 Amin, Amin,
 Aleluia, El va reveni,

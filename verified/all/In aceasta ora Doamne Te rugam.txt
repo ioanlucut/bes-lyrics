@@ -1,8 +1,8 @@
 [title]
-În această oră, Doamne, Te rugăm {contentHash: {#0a962f}, id: {vqTeGxBuYKRGzSr2SyNbeV}}
+În această oră, Doamne, Te rugăm {contentHash: {#0a81f2}, id: {vqTeGxBuYKRGzSr2SyNbeV}}
 
 [sequence]
-v1,c,v2,c,v3,c,v4,c
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,v4,c1.1,c1.2
 
 [v1]
 În această oră, Doamne, Te rugăm
@@ -10,12 +10,13 @@ Să iei parte Tu cu noi,
 Să ne-asculți când Îți cântăm și Te lăudăm,
 Întotdeauna fii cu noi!
 
-[c]
+[c1.1]
 Să nu ne lași părăsiți nicicând
 Căci noi trăim doar cu Tine-n gând.
 Doar pe Tine Te avem
 Și-n Tine ne-ncredem!
 
+[c1.2]
 Tu ești al nost’ Mântuitor,
 Minunat și bun Păstor,
 Doar cu Tine vrem să fim

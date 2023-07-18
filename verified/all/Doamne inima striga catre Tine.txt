@@ -1,8 +1,8 @@
 [title]
-Doamne, inima strigă către Tine {contentHash: {#eb48fc}, id: {cqykuMBYnpjyRfrWt1inwJ}}
+Doamne, inima strigă către Tine {contentHash: {#8a61ed}, id: {cqykuMBYnpjyRfrWt1inwJ}}
 
 [sequence]
-v1,c
+v1,c1.1,c1.2
 
 [v1]
 Doamne, inima strigă către Tine:
@@ -14,13 +14,14 @@ Vreau vocea să-Ți ascult
 O, ce susur blând.
 Glorie, glorie, glorie Regelui!
 
-[c]
+[c1.1]
 Tu ești Tatăl pentru cei orfani
 Și mângâierea mea.
 Încununat cu slavă,
 Eu dau glorie Regelui!
 Durerea mea Tu o alini
 
+[c1.2]
 Și capul mi-l ridici,
 Lacrima de pe-obraz alungi.
 /: Eu dau glorie, glorie,

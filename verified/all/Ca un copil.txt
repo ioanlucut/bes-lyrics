@@ -1,8 +1,8 @@
 [title]
-Ca un copil {contentHash: {#30118a}, id: {q3vejaZNiayLcxCFxW2Bwp}}
+Ca un copil {contentHash: {#123cd9}, id: {q3vejaZNiayLcxCFxW2Bwp}}
 
 [sequence]
-c,v1,c,v2,c
+c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [v1]
 Ca un copil mă țin de brațul Tău,
@@ -10,12 +10,13 @@ Tu mă cunoști, vezi pașii mei mereu.
 Cu bunătate mereu mă înconjori
 Și-mi amintești de mila Ta din zori.
 
-[c]
+[c1.1]
 /: Vreau sufletul să mi-l înalți,
 Să mă inunde Duhul Tău,
 De dragoste vreau să fiu plin
 Doamne, Te rog!
 
+[c1.2]
 Lasă Cuvântul Tău sfințit
 Să schimbe inima mea acum,
 Viața să-mi fie ca un dar, pe-al Tău altar.

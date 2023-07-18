@@ -1,8 +1,8 @@
 [title]
-Voi slăvi pe Mielul gloriei {contentHash: {#44aade}, id: {hxiwr2QRkxAG91ETrGde4o}}
+Voi slăvi pe Mielul gloriei {contentHash: {#0549ed}, id: {hxiwr2QRkxAG91ETrGde4o}}
 
 [sequence]
-v1,c,v1,c
+v1,c1.1,c1.2,v1,c1.1,c1.2
 
 [v1]
 /: Voi slăvi pe Mielul gloriei,
@@ -10,12 +10,13 @@ Regelui regilor mă-nchin.
 Voi slăvi pe Mielul gloriei,
 Regelui eu mă-nchin. :/
 
-[c]
+[c1.1]
 /: Și mâinile mi le înalț
 Și-naintea Ta vin,
 Mâinile mi le înalț
 Și mă bucur în Tin’.
 
+[c1.2]
 Îmi înalț mâinile către cer,
 Lumea-ntreabă: „De ce?”
 Eu le spun

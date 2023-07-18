@@ -1,15 +1,16 @@
 [title]
-Slăvit e-n veci Numele Tău Sfânt {author: {Betania Dublin}, contentHash: {#74deaf}, id: {8N5Jb7KwvVEAQKmUjoAQ2m}}
+Slăvit e-n veci Numele Tău Sfânt {author: {Betania Dublin}, contentHash: {#a4d7e8}, id: {8N5Jb7KwvVEAQKmUjoAQ2m}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2,c,v3,c
 
-[v1]
+[v1.1]
 Când mă gândesc la Golgota,
 Văd pe Isus pe crucea grea,
 Neprihănit, murind pe lemn,
 Purtând în trup al meu blestem.
 
+[v1.2]
 Când trupul de pe lemn I-au luat,
 Într-un mormânt L-au așezat,
 O piatră grea au prăvălit

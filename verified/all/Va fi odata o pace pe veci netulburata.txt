@@ -1,48 +1,52 @@
 [title]
-Va fi odată o pace pe veci netulburată {contentHash: {#2a669b}, id: {nDyhh7Ks8JAsUnBthaGR6P}}
+Va fi odată o pace pe veci netulburată {contentHash: {#f14987}, id: {nDyhh7Ks8JAsUnBthaGR6P}}
 
 [sequence]
-v1,v2,v3,v4
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
 
-[v1]
+[v1.1]
 Va fi odată o pace
 Pe veci netulburată,
 Va crește-odată grâul
 Ca cedrii din Liban,
 
+[v1.2]
 Va fi odată-o turmă
 Din lumea asta toată,
 /: Și mieii n-o să aibă
 Atunci nici un dușman. :/
 
-[v2]
+[v2.1]
 Iubirea o să aibă
 O patrie slăvită,
 În care Adevărul,
 Doar El va fi-mpărat,
 
+[v2.2]
 În care bucuria
 Va fi desăvârșită,
 Și Domnul singur soare
 De-a pururi adorat. :/
 
-[v3]
+[v3.1]
 Acum mă rog cu frații
 Plângând cu frunți plecate,
 Aici stropesc cu lacrimi
 Atâtea căi de dor,
 
+[v3.2]
 Acolo însă toate
 Pe veci vor fi uitate,
 /: Ne vom scălda-n lumină,
 În veșnicul izvor. :/
 
-[v4]
+[v4.1]
 O, viitor de aur,
 Cuprinde-mă în tine,
 Cu inima și ochii
 Desprinși de tot ce-i jos.
 
+[v4.2]
 Să ai pentru totdeauna
 Tot sufletul din mine,
 /: Aprins ca o mireasmă

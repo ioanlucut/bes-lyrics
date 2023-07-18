@@ -1,8 +1,8 @@
 [title]
-La Golgota demult Isus {contentHash: {#9138ac}, id: {5eXAmKXNC3ufdXhnmHT6LU}}
+La Golgota demult Isus {contentHash: {#133a77}, id: {5eXAmKXNC3ufdXhnmHT6LU}}
 
 [sequence]
-v1,c,v2,c,v3,c,b,c2
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,b,c2.1,c2.2
 
 [v1]
 La Golgota demult Isus
@@ -10,12 +10,13 @@ Prin sânge sfânt, plăti de-ajuns
 Darul divin al mântuirii prin Hristos
 Har pentru omul, mort păcătos.
 
-[c]
+[c1.1]
 Biserica Lui, biruitoare
 Va fi mereu pân’ la sfârșit.
 Nimeni nu poate să o învingă,
 El a promis!
 
+[c1.2]
 Nu e putere, nu sunt sisteme,
 Nu-s legi făcute pe pământ
 Să ne doboare, să ne oprească,
@@ -33,12 +34,13 @@ Stăpâni și vremi cu oameni mii,
 Biserica triumfătoare a rămas
 Cu ea e Domnul, pas cu pas.
 
-[c2]
+[c2.1]
 Isus revine, pe nori ca Mire
 Să-și ia la cer Biserica
 Sfântă curată, fără de pată,
 El a promis!
 
+[c2.2]
 Ce întâlnire, în strălucire
 Când fața Lui o vom vedea,
 Cu adorare, în închinare

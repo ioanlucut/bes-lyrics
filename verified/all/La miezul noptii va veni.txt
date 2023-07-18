@@ -1,37 +1,40 @@
 [title]
-La miezul nopții va veni {contentHash: {#80cbd4}, id: {t5gFfm6gBrivKoK6b7HwNU}}
+La miezul nopții va veni {contentHash: {#965b17}, id: {t5gFfm6gBrivKoK6b7HwNU}}
 
 [sequence]
-v1,v2,v3
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
-[v1]
+[v1.1]
 La miezul nopții va veni
 Isus, cu pas domol,
 Și vai de cel ce-l va găsi
 Pierdut, cu suflet gol.
 
+[v1.2]
 O, lumea asta de nevoi
 Cum a orbit acum,
 Crezând că ziua de apoi
 A-ntârziat pe drum.
 
-[v2]
+[v2.1]
 Și fiecare-n lucrul lui,
 Să-și pun-al vieții gând,
 Ca să-l arate Domnului
 Când va veni curând.
 
+[v2.2]
 Din somn treziți-vă, sculați,
 Căci vă pândesc dureri
 Și unul pe-altul vă-ndemnați
 La sfinte privegheri.
 
-[v3]
+[v3.1]
 Deci, suflete, fii gata, treaz,
 O clipă nu dormi,
 Căci trece Mirele chiar azi
 Și daru-ți vei primi.
 
+[v3.2]
 Venirea Lui s-apropiat
 Să treacă judecând.
 O, suflet, ține-te curat,

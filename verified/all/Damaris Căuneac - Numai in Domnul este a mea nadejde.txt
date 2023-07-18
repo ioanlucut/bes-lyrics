@@ -1,37 +1,40 @@
 [title]
-Numai în Domnul este a mea nădejde {author: {Damaris Căuneac}, contentHash: {#b5c03c}, id: {tYPDeeDL8gTCRzPaGCXeWQ}}
+Numai în Domnul este a mea nădejde {author: {Damaris Căuneac}, contentHash: {#cdd55d}, id: {tYPDeeDL8gTCRzPaGCXeWQ}}
 
 [sequence]
-v1,v2,v3,e
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,e
 
-[v1]
+[v1.1]
 Numai în Domnul este a mea nădejde
 Când lupta-i grea.
 Chiar și în strâmtorare
 Îmi dă scăpare tăria Sa.
 
+[v1.2]
 /: În așteptare, când nu e zare
 Pe a mea cărare îmi face soare
 Și-mi stă aproape, când valul bate
 A Sa putere, tăria mea. :/
 
-[v2]
+[v2.1]
 Nu e nicio durere
 Pe care El să nu mi-o ia,
 Căci El cunoaște totul
 Și stau uimit în fața Sa.
 
+[v2.2]
 /: Îmi e aproape a Sa dreptate
 Când acuzat sunt, îmi este scut.
 De-ar fi să cadă chiar lumea toată
 Știu, al meu Tată e Dumnezeu. :/
 
-[v3]
+[v3.1]
 Da, El este cu mine
 Când calc printre văi adânci.
 Lumina merge înainte
 Să-mi facă drum chiar printre stânci.
 
+[v3.2]
 /: El stă în toate și totul ține
 A Sa tărie, toiag de fier.
 Pe-aripi de vultur îmi poartă gândul

@@ -1,15 +1,16 @@
 [title]
-Drept la țintă {contentHash: {#06b477}, id: {q29oCWtStYwxUmVCab64DM}}
+Drept la țintă {contentHash: {#b76a7e}, id: {q29oCWtStYwxUmVCab64DM}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
-[v1]
+[v1.1]
 Dumnezeu e Creatorul,
 Sus în cer și pe pământ.
 La Cuvântul Său puternic
 Tot ce-a spus El s-a făcut.
 
+[v1.2]
 Doamne, vreau să fiu cum este scris,
 Drept, smerit și bun,
 Într-o lume rea cu Tin’ pășesc
@@ -21,12 +22,13 @@ Alerg spre țintă pe calea Ta
 Cu Tine, Domnul meu,
 Eu vreau să fiu.
 
-[v2]
+[v2.1]
 Poate ești căzut și singur
 Și păcatul te-a lovit.
 Nu uita că în pustie
 Duh de viață poți primi.
 
+[v2.2]
 Prin Isus Hristos eu sunt acum
 Mai mult decât biruitor,
 Vrăjmașul meu de mult e-nfrânt

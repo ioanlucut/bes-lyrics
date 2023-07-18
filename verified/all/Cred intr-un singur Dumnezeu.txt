@@ -1,15 +1,16 @@
 [title]
-Cred într-un singur Dumnezeu {contentHash: {#4d7cfa}, id: {oWn3uuAD5nC5hNfaJcMUuZ}}
+Cred într-un singur Dumnezeu {contentHash: {#7b2a68}, id: {oWn3uuAD5nC5hNfaJcMUuZ}}
 
 [sequence]
-v1,c,v2,c,b,c,e
+v1.1,v1.2,c,v2.1,v2.2,c,b,c,b,b2,b3
 
-[v1]
+[v1.1]
 Cred într-un singur Dumnezeu,
 Creatorul a toate,
 Cred în Isus ce-a murit
 Pentru-ale mele păcate.
 
+[v1.2]
 Cred în Duhul Sfânt trimis,
 El e-a mea îndrumare,
 Cred în viața veșnică
@@ -21,12 +22,13 @@ Regelui ce pe cruce-a murit.
 El prin sângele curs a plătit prețul pus,
 El e vrednic să fie-onorat.
 
-[v2]
+[v2.1]
 Domnul luptă pentru noi,
 Cine va sta împotrivă?
 Pentru cei răscumpărați,
 Cine acuze ridică?
 
+[v2.2]
 Domnul Isus a murit
 Pentru-a noastră-nfiere
 Și la dreapta Tatălui
@@ -38,12 +40,13 @@ El prin moarte ne-a răscumpărat
 Și prin sângele curs a plătit prețul pus
 El e vrednic să fie-onorat.
 
-[e]
+[b2]
 Prigoană, lipsuri sau sabie,
 De El nu m-ar despărți.
 Eu am victorie deplină prin Cel,
 Ce nespus de mult m-a iubit.
 
+[b3]
 Nici îngeri, demoni sau moarte
 Nu m-ar putea clătina
 Știu cui slujesc și cui mă închin,

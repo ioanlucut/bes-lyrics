@@ -1,15 +1,16 @@
 [title]
-Ierusalim {contentHash: {#d82c88}, id: {ePNeH8nA26XxRV5EVqfNBM}}
+Ierusalim {contentHash: {#5ad203}, id: {ePNeH8nA26XxRV5EVqfNBM}}
 
 [sequence]
-c,v1,c,v2,b,c,b2
+c,v1.1,v1.2,c,v2.1,v2.2,b,c,b2
 
-[v1]
+[v1.1]
 Cu mult în urmă, cândva am văzut
 Cetatea sfântă din cer coborând.
 Acolo-i tronul Lui Dumnezeu,
 E și pomul vieții, acolo mereu.
 
+[v1.2]
 Acolo curge lin, e râul sfânt
 De sub tronul Său, viață aducând.
 Vreau să ajung în acel loc slăvit,
@@ -21,12 +22,13 @@ Ierusalim, vreau să pășesc pe străzile tale
 Ierusalim, să mă odihnesc lângă apa vieții,
 În cetatea Lui Dumnezeu.
 
-[v2]
+[v2.1]
 Acolo leul stă chiar lângă Miel,
 Era armonie în orice fel.
 Văzu lumina, iar acol’ noapte nu-i,
 Hristos slăvit e, e lumina Lui.
 
+[v2.2]
 Iar sfinții ce Îi dau laudă neîncetat:
 „El este vrednic, vrednic Împărat!”
 Vreau să ajung în cerul slăvit,

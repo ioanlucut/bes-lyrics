@@ -1,39 +1,42 @@
 [title]
-Samariteanul {author: {Mircea Berci}, contentHash: {#78c523}, id: {65uceNXD63o9bh2NanjjT8}}
+Samariteanul {author: {Mircea Berci}, contentHash: {#33f1eb}, id: {65uceNXD63o9bh2NanjjT8}}
 
 [sequence]
-v1,v2,v3
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
-[v1]
+[v1.1]
 În zori de zi când ai trecut,
 La margine de drum, căzut, eram
 Și atunci când eu nici nu gândeam,
 Spre mine un Samaritean s-a aplecat.
 
+[v1.2]
 /: Era cu ochii-nlăcrimați,
 Privirea-I blândă, o, ce mult mi-a spus!
 Și mi-a vorbit cu glas duios
 Că mai primește-un păcătos
 Și m-am convins, era Isus. :/
 
-[v2]
+[v2.1]
 Lovit de-al lumii greu păcat,
 Eu nu credeam că pot vreodat’ să fiu salvat.
 Nu aveam o țintă-n drumul meu,
 Nici ajutor când mi-era greu în viața mea.
 
+[v2.2]
 /: Credeam că-s singur chiar de tot,
 Că nu mai am în lume rost nicicând
 „Dar nu-i așa!” un glas mi-a spus
 Și m-a luat cu El, m-a dus,
 Și m-am convins, era Isus. :/
 
-[v3]
+[v3.1]
 Nu cred că poate un om la fel
 Să facă-asemenea ca El, c-un păcătos:
 Să ierte tot ce i-a greșit,
 O viață, cât necontenit, a fost hulit.
 
+[v3.2]
 /: Nu pot să cred că altu-a fost
 Când mi-a dat mâna și de jos m-a ridicat.
 Prin jertfa sfântă El mi-a spus

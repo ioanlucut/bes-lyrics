@@ -1,15 +1,16 @@
 [title]
-Singurul motiv de laudă {contentHash: {#4b3865}, id: {fq1SCsWEwYNdKjNPynr7jK}}
+Singurul motiv de laudă {contentHash: {#b5c655}, id: {fq1SCsWEwYNdKjNPynr7jK}}
 
 [sequence]
-v1,c,v1,c
+v1.1,v1.2,c,v1.1,v1.2,c
 
-[v1]
+[v1.1]
 Singurul motiv de laudă,
 Ești doar Tu, Domnul meu.
 Singur, înălțat pe pământ și în cer,
 Ești Isus tot mereu.
 
+[v1.2]
 Adevărul Tău e salvarea mea,
 Ești lumină în noaptea cea grea.
 Tu ești dragostea, ești iubirea mea

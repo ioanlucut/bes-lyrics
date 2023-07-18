@@ -1,8 +1,8 @@
 [title]
-Victorios {author: {Dinu Onea & Marius Pop}, contentHash: {#0eef70}, id: {sQNhRhcHjBWXTrSmmnEEfo}}
+Victorios {author: {Dinu Onea & Marius Pop}, contentHash: {#1aa2f7}, id: {sQNhRhcHjBWXTrSmmnEEfo}}
 
 [sequence]
-v1,v2,c,b,c
+v1,v2,c1.1,c1.2,b,c1.1,c1.2
 
 [v1]
 Domnul, steagul meu,
@@ -16,12 +16,13 @@ Când Te chem, răspunzi,
 Rostesc Numele Tău, cade tot ce-i rău
 Și sunt izbăvit.
 
-[c]
+[c1.1]
 Nu e munte să nu-l pot urca,
 Nu e val prea furios.
 Sunt mai mult decât biruitor,
 Prin Isus Hristos.
 
+[c1.2]
 Tu ești stâncă în furtuna grea,
 Ești un turn de adăpost,
 Brațul Tău îl chem în ajutor,

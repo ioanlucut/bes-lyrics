@@ -1,15 +1,16 @@
 [title]
-Iehova, Dumnezeu {contentHash: {#a88d81}, id: {cKwBsKDDaaNevijZJZ9TwG}}
+Iehova, Dumnezeu {contentHash: {#f06c03}, id: {cKwBsKDDaaNevijZJZ9TwG}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3,c
 
-[v1]
+[v1.1]
 Ești necuprins de timp și spațiu,
 De-orice gândire mai presus,
 Ești pretutindenea în toate
 Și totuși, cât de nepătruns.
 
+[v1.2]
 Deasupra tuturor, o, Doamne,
 Cu măreție strălucești,
 Cu-nțelepciunea-Ți fără margini
@@ -22,12 +23,13 @@ Splendori cerești Te înconjoară,
 Din veșnicie-n veșnicie ești mereu,
 Iehova, Dumnezeu!
 
-[v2]
+[v2.1]
 Ești Dumnezeu din veșnicie,
 Izvorul tainice-i lumini,
 În cer Ți-e tronul de domnie
 Înconjurat de heruvimi.
 
+[v2.2]
 Ești Tatăl nostru bun și mare
 Ce ne dai pâine zi de zi
 Și adunarea-n sărbătoare
