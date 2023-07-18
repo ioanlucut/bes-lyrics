@@ -1,15 +1,16 @@
 [title]
-Sfânt Cuvânt din veșnicii {contentHash: {#d1c1ac}, id: {oy4LMyJ5xLxfvXzDKgyMho}}
+Sfânt Cuvânt din veșnicii {contentHash: {#a139ad}, id: {oy4LMyJ5xLxfvXzDKgyMho}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Sfânt Cuvânt din veșnicii
 Ne conduci, ne susții,
 Inima Lui Dumnezeu,
 Ne-arăți în versul tău mereu.
 
+[v1.2]
 Sfânt Cuvânt, la noi venit,
 Tu ni Te-ai descoperit
 În viața Lui Isus,
@@ -21,12 +22,13 @@ Viața Tu ne-ai transformat,
 Ne deschidem inima
 Să ascultăm de vocea Ta. :/
 
-[v2]
+[v2.1]
 Sfânt Cuvânt credincios,
 Toarnă-Ți harul glorios,
 Să purtăm victorios
 Chipul sfânt a lui Cristos.
 
+[v2.2]
 Sfânt Cuvânt, de viață plin,
 Dă-ne ajutor deplin,
 Să pășim pe calea Ta

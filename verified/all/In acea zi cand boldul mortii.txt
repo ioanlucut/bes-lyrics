@@ -1,15 +1,16 @@
 [title]
-În acea zi, când boldul morții {contentHash: {#d6d251}, id: {7VSrpVUxsYohi5XxZZ4QkS}}
+În acea zi, când boldul morții {contentHash: {#76c070}, id: {7VSrpVUxsYohi5XxZZ4QkS}}
 
 [sequence]
-v1,c,v2,c,b,v3,c
+v1.1,v1.2,c,v2,c,b,v3,c
 
-[v1]
+[v1.1]
 În acea zi, când boldul morții
 A fost frânt sub crucea Lui Isus,
 Cutremurat, tot Ceru-ntreg
 S-a-ntunecat.
 
+[v1.2]
 Fruntea Lui purta coroana
 Regelui ce-a luat pedeapsa mea.
 N-a spus nimic, iubind nespus,

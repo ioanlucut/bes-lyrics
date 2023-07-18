@@ -1,15 +1,16 @@
 [title]
-Am găsit în Domnul fericirea {contentHash: {#6b7849}, id: {qrDMuWUXcBsWE19oTnTdUr}}
+Am găsit în Domnul fericirea {contentHash: {#bb03b7}, id: {qrDMuWUXcBsWE19oTnTdUr}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Am găsit în Domnul fericirea,
 Am găsit mărețul har divin,
 Am găsit în Isus mântuirea
 Ce-am căutat-o de-atâta timp.
 
+[v1.2]
 Am găsit în Isus adevărul,
 Când inima mi-am deschis;
 Pace sfântă, binecuvântare
@@ -21,23 +22,25 @@ Aleluia-n veci, mărire!
 Tu ești a mea fericire!
 Aleluia, Aleluia! :/
 
-[v2]
+[v2.1]
 Când furtuna vine peste mare
 Și când vânturile grele bat,
 Spune-mi, Doamne, cum să pot eu oare
 Marea vieții s-o străbat?
 
+[v2.2]
 Când păcatul amenință lumea,
 Știu, sfârșitul va veni curând.
 Nu mă tem, căci Tu ești lângă mine
 Tu ești scutul meu, oricând.
 
-[v3]
+[v3.1]
 La credință vin-acum degrabă.
 Nu mai sta nepăsător mereu.
 Azi, eu știu că Isus mă iubește
 Și El e-n sufletul meu.
 
+[v3.2]
 Am găsit, în Isus, adevărul
 Când inima mi-am deschis.
 Pacea sfântă, binecuvântarea,

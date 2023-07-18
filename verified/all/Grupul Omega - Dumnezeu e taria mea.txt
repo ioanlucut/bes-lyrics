@@ -1,15 +1,16 @@
 [title]
-Dumnezeu e tăria mea {author: {Grupul Omega}, contentHash: {#bdabe5}, id: {syR2s9xDncwmcFTsMVcqk6}}
+Dumnezeu e tăria mea {author: {Grupul Omega}, contentHash: {#6de358}, id: {syR2s9xDncwmcFTsMVcqk6}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Când în zare se ivește solul celui necurat,
 Dumnezeu e tăria mea!
 Când oștirile de demoni cerul au întunecat,
 Dumnezeu e tăria mea!
 
+[v1.2]
 Când tot iadul stă-n picioare, pregătit pentru război
 Și simt că sufletu-mi se zbate, prins în cursa grea,
 Mă aplec în rugăciune și-aștept ajutorul slavei,
@@ -21,12 +22,13 @@ Adăpost pentru sufletul meu,
 Ajutor când povara e grea,
 Dumnezeu e scăparea mea! :/
 
-[v2]
+[v2.1]
 Dumnezeu are putere ca în cer și pe pământ,
 Dumnezeu e tăria mea!
 Tot ce-n lume se întâmplă este scris și în Cuvânt,
 Dumnezeu e tăria mea!
 
+[v2.2]
 Încercarea când e mare și se pare că mă-ngroapă,
 Întunericul e gros și nu mai pot vedea,
 Plec și fruntea și genunchiul, dar înalț spre ceruri duhul,

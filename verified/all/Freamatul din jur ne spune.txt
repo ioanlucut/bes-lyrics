@@ -1,15 +1,16 @@
 [title]
-Freamătul din jur ne spune {contentHash: {#8c6e56}, id: {t1jButJsqiUWZiQUfJ5Qu4}}
+Freamătul din jur ne spune {contentHash: {#f69131}, id: {t1jButJsqiUWZiQUfJ5Qu4}}
 
 [sequence]
-v1,c,v2,c,v3,c,v4,c,v5,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,v4.1,v4.2,c,v5.1,v5.2,c
 
-[v1]
+[v1.1]
 Freamătul din jur ne spune
 De venirea Lui curând.
 Nu mai rătăci în lume,
 Mântuirea neglijând.
 
+[v1.2]
 Orișiunde-ndrepți privirea,
 Nimeni nu te-ar sprijini.
 Caută astăzi mântuirea
@@ -18,45 +19,49 @@ Căci Isus va reveni!
 [c]
 /: Ești pregătit? Ești pregătit? :/
 
-[v2]
+[v2.1]
 Patima ce te robește,
 Domnul Isus ți-o va lua.
 El în sânge te sfințește,
 Mântuire îți va da.
 
+[v2.2]
 Duhul Sfânt mai bate-odată
 Și apoi te va lăsa.
 Astăzi încă te așteaptă,
 Spune-ți hotărârea ta.
 
-[v3]
+[v3.1]
 Cineva îți dorește bine:
 Cel ce te-a adus aici!
 Duhul Sfânt lucrează în tine,
 Vrea de rău să te dezici.
 
+[v3.2]
 Duhul Sfânt mai bate o dată
 Și apoi te va lăsa.
 Astăzi încă te așteaptă,
 Spune-ți hotărârea ta!
 
-[v4]
+[v4.1]
 Harul într-o zi se va lua,
 Bucurii nu vor mai fi.
 Vai de cel ce zăbovește
 Să rămână în al său viciu!
 
+[v4.2]
 Revenirea nu e departe,
 Chiar de nu poți să crezi.
 Însă, după Sfânta Carte,
 În curând, tu ai să Îl vezi!
 
-[v5]
+[v5.1]
 Frate, ce ai făcut cu Domnul
 Legământ că Îl vei urma,
 Luptă și învinge somnul,
 Azi cât stai înaintea Sa!
 
+[v5.2]
 Un mesaj răsună în lume:
 „Iată, că Eu vin curând!”
 Tu, un „Aleluia!” spune,

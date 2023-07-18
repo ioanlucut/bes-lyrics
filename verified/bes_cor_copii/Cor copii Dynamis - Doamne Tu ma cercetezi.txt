@@ -1,15 +1,16 @@
 [title]
-Doamne, Tu mă cercetezi {author: {Cor copii Dynamis}, contentHash: {#5b5902}, id: {rZnKhpdEqwNPMLBzy52v78}}
+Doamne, Tu mă cercetezi {author: {Cor copii Dynamis}, contentHash: {#10b12a}, id: {rZnKhpdEqwNPMLBzy52v78}}
 
 [sequence]
-v1,c,v2,v3,c2
+v1.1,v1.2,c,v2,v3,c2
 
-[v1]
+[v1.1]
 Doamne, Tu mă cercetezi
 Și-mi ești aproape tot mereu,
 Știi când stau și când mă scol
 Și gândul meu Tu mi-l cunoști.
 
+[v1.2]
 Știi când merg și când adorm
 Și cunoști căile mele,
 Mă-nconjori cu dragoste

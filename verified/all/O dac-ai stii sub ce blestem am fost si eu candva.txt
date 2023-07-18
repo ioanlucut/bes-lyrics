@@ -1,15 +1,16 @@
 [title]
-O, dac-ai știi sub ce blestem am fost și eu cândva {contentHash: {#e0874b}, id: {svLpdaXZVJEJFmUKf6qrgj}}
+O, dac-ai știi sub ce blestem am fost și eu cândva {contentHash: {#430c77}, id: {svLpdaXZVJEJFmUKf6qrgj}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 O, dac-ai știi sub ce blestem
 Am fost și eu cândva,
 O, de-ai simți ce deznădejdi
 Muncit-au ființa mea,
 
+[v1.2]
 Te-ai întreba ce sfânt mister
 Viața mi-a schimbat
 Făcând din tristul condamnat
@@ -23,12 +24,13 @@ Izbăvit de-al meu trecut,
 Sunt păcătosul salvat din moarte
 Iertat de toate prin al Său har. :/
 
-[v2]
+[v2.1]
 Salvarea mea s-a scris
 Adânc în rana Lui Isus
 Și-n veci va sta ca
 Mărturie-a harului nespus.
 
+[v2.2]
 Ce a legat destinul meu
 Cu-al cerului hotar,
 Făcând din tristul condamnat

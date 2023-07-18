@@ -1,15 +1,16 @@
 [title]
-Îmi va rămâne-n memorie-o zi {contentHash: {#7c64c6}, id: {sjyiYGrdbM3TBCTeppNKAw}}
+Îmi va rămâne-n memorie-o zi {contentHash: {#4f91c9}, id: {sjyiYGrdbM3TBCTeppNKAw}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Îmi va rămâne-n memorie-o zi
 Când s-a schimbat viața mea.
 Ziua aceea, mereu o voi ști:
 Semnul iubirii e-n ea!
 
+[v1.2]
 Prieten bun, minunat, iubitor,
 Dorul mi l-a împlinit!
 Vesel voi spune măreața minune
@@ -21,23 +22,25 @@ Când, la Calvar, Isus m-a eliberat.
 Povara mi s-a dus prin harul Lui Isus,
 Glorii din cer în mine s-au revărsat. :/
 
-[v2]
+[v2.1]
 Domnul sigiliul pe inimă-a pus,
 Fiu în familia Sa.
 Sunt curățit de păcat prin Isus
 O, cât e de bine așa!
 
+[v2.2]
 În clipa când eu la El am venit
 Ca un sărman păcătos,
 Har mi-a dat mare, schimbând a mea stare,
 Prin Domnul meu, Isus Hristos.
 
-[v3]
+[v3.1]
 Azi am o nouă nădejde de sus,
 Știu că sunt asigurat.
 Sunt în cer moștenitor cu Isus,
 O, cât e de minunat!
 
+[v3.2]
 Toate le am din acea scumpă zi
 Când m-am smerit și-am crezut.
 Am nestemate, comori minunate,

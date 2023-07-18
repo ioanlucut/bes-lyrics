@@ -1,16 +1,16 @@
 [title]
-Când ești în necaz {author: {Cor copii Dynamis}, contentHash: {#406ef7}, id: {9veAaLF7hMfSUiDP5VC8Zi}}
+Când ești în necaz {author: {Cor copii Dynamis}, contentHash: {#48cd7e}, id: {9veAaLF7hMfSUiDP5VC8Zi}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
- /: Când ești în necaz și îți este greu,
+/: Când ești în necaz și îți este greu,
  Și ești apăsat în sufletul tău,
  /: Nu uita, nu uita, :/ nu uita!
 
 [c]
- /: Căci cei ce se încred în Domnul
+/: Căci cei ce se încred în Domnul
 Vor avea putere din belșug
 Și vor zbura ca vulturii spre cer. :/
 

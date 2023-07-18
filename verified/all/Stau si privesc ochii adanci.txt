@@ -1,10 +1,10 @@
 [title]
-Stau și privesc ochii adânci {contentHash: {#d1bed0}, id: {gUa8wMaKQwnLNy14sBZ2Cs}}
+Stau și privesc ochii adânci {contentHash: {#aba8e8}, id: {gUa8wMaKQwnLNy14sBZ2Cs}}
 
 [sequence]
-v1,v2,v3
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
-[v1]
+[v1.1]
 Stau și privesc ochii adânci
 Care m-au descătușat
 Când eram lovit de stânci.
@@ -12,6 +12,7 @@ Azi simt o lacrimă de foc
 Ce a curs din ochii Tăi.
 Te iubesc, Domnul meu!
 
+[v1.2]
 /: Tu ești iubirea mea dintâi,
 Primul pas mi l-ai schimbat
 Într-un zbor adevărat.
@@ -19,7 +20,7 @@ Azi vreau să fiu în palma Ta
 Perla care-Ți va cânta:
 Te iubesc, Domnul meu! :/
 
-[v2]
+[v2.1]
 Vreau flori de cais să-mi presar
 Peste inima ce-acum
 Ți-o dau cu iubire-n dar
@@ -27,6 +28,7 @@ Peste inima ce-acum
 Azi sunt cel mai fericit.
 Te iubesc, Domnul meu!
 
+[v2.2]
 /: Și când pe nori vei reveni
 Vocea o voi auzi
 Și voi fi-n veci steaua Ta.
@@ -34,7 +36,7 @@ Noi amândoi vom fi mereu.
 Noaptea nu va trece greu.
 Te iubesc, Domnul meu! :/
 
-[v3]
+[v3.1]
 Vreau și Te rog să primești
 În grădinile cerești
 Și pe cel din fața Ta.
@@ -42,6 +44,7 @@ Dacă o clipă Ți-a greșit,
 Vezi cât e de obosit
 Dă-i din dragostea Ta.
 
+[v3.2]
 /: Nu-l izgoni din harul Tău
 Umple-i inima mereu
 Cu iubire-n Dumnezeu

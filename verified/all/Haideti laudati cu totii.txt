@@ -1,8 +1,8 @@
 [title]
-Haideți, lăudați cu toții {contentHash: {#ecb19a}, id: {qrgn5nyoiEUqxJttwSLMpJ}}
+Haideți, lăudați cu toții {contentHash: {#3f7c36}, id: {qrgn5nyoiEUqxJttwSLMpJ}}
 
 [sequence]
-c,v1,c,v2
+c,v1,c,v2.1,v2.2
 
 [c]
 /: Haideți, lăudați cu toții
@@ -19,12 +19,13 @@ Să strigăm în fața Lui:
 El e Domn sus în cer
 Unde-i tronul Său.
 
-[v2]
+[v2.1]
 Hawa, naghila hawa,
 Naghila hawa, naghila weeni smeha
 Hawa neranena, hawa neranena
 Hawa neranena weeni smeha.
 
+[v2.2]
 Uru, uru ahim belev sameah,
 Uru ahim belev sameah,
 Uru ahim belev sameah,

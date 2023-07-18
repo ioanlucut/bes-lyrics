@@ -1,15 +1,16 @@
 [title]
-Simțim încet cum harul de la neamuri se tot ia {contentHash: {#5224b4}, id: {guSzjsw3moHvwWmA83UNLa}}
+Simțim încet cum harul de la neamuri se tot ia {contentHash: {#50e9ac}, id: {guSzjsw3moHvwWmA83UNLa}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Simțim încet cum harul de la neamuri se tot ia,
 Aproape gata-i ușa a se-ncuia.
 Mai mici sunt bucuriile
 De-acum un sfert de veac,
 
+[v1.2]
 Lucrările acum mai mici se fac.
 Poporule, păstrează dar
 Credința ce-ai primit,
@@ -20,23 +21,25 @@ Fecioară, așteptarea,
 În curând se va sfârși.
 Veghează, că-n curând El va veni!
 
-[v2]
+[v2.1]
 Smochinul care,
 Două mii de ani a fost uscat,
 Smochinul blestemat iar rod a dat.
 Copacii, de asemeni, cu putere înfrunzesc,
 
+[v2.2]
 Venirea primăverii o vestesc.
 A nașterii durere simte omenirea iar,
 Dar iarăși fericirea
 Vine dup-acest amar.
 
-[v3]
+[v3.1]
 Uleiul și candela să veghezi ca să le ai
 Și doctorie pentru ochi să-ți iei.
 Fecioară, îți ridic-apoi
 Privirea ta în sus,
 
+[v3.2]
 Așteaptă-n orice clipă pe Isus!
 Să-Ți pui apoi nădejdea-n
 Harul ce-ți va fi adus

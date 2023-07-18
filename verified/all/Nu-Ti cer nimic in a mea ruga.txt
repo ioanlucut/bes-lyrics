@@ -1,15 +1,16 @@
 [title]
-Nu-Ți cer nimic în a mea rugă {contentHash: {#0e0b23}, id: {jELAt5vv9eQDff2MvD1Bx8}}
+Nu-Ți cer nimic în a mea rugă {contentHash: {#818e6d}, id: {jELAt5vv9eQDff2MvD1Bx8}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Nu-Ți cer nimic în a mea rugă
 Când vin ’naintea Ta, Isus,
 Ci doar ca o umilă slugă
 Mă plec adânc smerit, supus.
 
+[v1.2]
 Nu-Ți cer averi, nici bogăție,
 Nici faimă și nici altceva,
 Vreau doar cereasca-mpărăție
@@ -22,23 +23,25 @@ Ajută-mă, Te rog, aș vrea
 Ca în toate să-mplinesc,
 Să-mplinesc doar voia Ta.
 
-[v2]
+[v2.1]
 Nu-Ți cer nimic în asta lume
 Decât alături să Te am,
 Și când mă plec în rugăciune
 Să simt al cerului balsam.
 
+[v2.2]
 Nu-Ți cer nimic ce omenirea
 Aruncă astăzi pe pământ,
 Ci vreau, o, Doamne, mântuirea
 Și bucuria-n Duhul Sfânt.
 
-[v3]
+[v3.1]
 Nimic, nimic nu vreau din toate
 Ce mă izbesc azi în priviri,
 Doresc doar veșnica cetate
 Și-a slavei Tale străluciri.
 
+[v3.2]
 Să simt cum Tu mă ții de mână
 Și grija mea o porți mereu,
 Și în dureri cum mă alină

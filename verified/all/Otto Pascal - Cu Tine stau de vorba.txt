@@ -1,8 +1,8 @@
 [title]
-Cu Tine stau de vorbă {author: {Otto Pascal}, contentHash: {#afaa44}, id: {dhPvTcC6wEfd5qMMGSXmHw}}
+Cu Tine stau de vorbă {author: {Otto Pascal}, contentHash: {#968b81}, id: {dhPvTcC6wEfd5qMMGSXmHw}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1,c1.1,c1.2,v2,c1.1,c1.2,b,c1.1,c1.2
 
 [v1]
 Tu ești sfânt și vrednic de laudă,
@@ -10,12 +10,13 @@ Tu ești bun și îndurător.
 Mă închin cu toată ființa
 Și cu pasiune spre Tine privesc.
 
-[c]
+[c1.1]
 Domnul meu, pășește cu mine,
 Oricine ce-ar spune,
 Eu vreau să Te urmez.
 Șoapte reci mă mint că tu ești învechit,
 
+[c1.2]
 Însa ei nu știu ce simt,
 Nu știu ce simt.
 Când cu mine stai de vorbă

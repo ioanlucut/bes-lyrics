@@ -1,15 +1,16 @@
 [title]
-Lângă Tine vreau {contentHash: {#1b50fd}, id: {ozEswUrc1yYjYticPUXex4}}
+Lângă Tine vreau {contentHash: {#9f7a89}, id: {ozEswUrc1yYjYticPUXex4}}
 
 [sequence]
-v1,c,v1,c
+v1.1,v1.2,c,v1.1,v1.2,c
 
-[v1]
+[v1.1]
 Lângă Tine vreau
 Să fiu aproape iar
 Și pentru prietenia Ta
 Renunț la orice altceva.
 
+[v1.2]
 Ești iubirea mea, cine altcineva?
 Tu nu poți fi înlocuit,
 Nici caldă-mbrățișarea Ta,

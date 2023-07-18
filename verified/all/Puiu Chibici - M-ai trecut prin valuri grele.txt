@@ -1,48 +1,52 @@
 [title]
-M-ai trecut prin valuri grele {author: {Puiu Chibici}, contentHash: {#4cd1db}, id: {sDsEGD8pVQbuPW8UF9sxvB}}
+M-ai trecut prin valuri grele {author: {Puiu Chibici}, contentHash: {#888a5e}, id: {sDsEGD8pVQbuPW8UF9sxvB}}
 
 [sequence]
-v1,v2,v3,v4
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
 
-[v1]
+[v1.1]
 M-ai trecut prin valuri grele,
 Prin furtuni și prin cuptor,
 Am strigat spre cer, spre stele,
 Te-am chemat în ajutor.
 
+[v1.2]
 /: Am crezut că m-ai lăsat,
 Am crezut că m-ai uitat,
 Dar Tu, Doamne, m-ai vegheat
 Că ai vrut să fiu curat. :/
 
-[v2]
+[v2.1]
 Iar atunci când disperarea
 Inima îmi chinuia,
 Mi-ai adus Tu vindecarea
 Arătându-Ți slava Ta.
 
+[v2.2]
 /: Mi-ai vorbit cu vocea blândă
 Și m-ai mângâiat duios,
 M-ai scăpat de grea osândă,
 Medicule, Isus Hristos! :/
 
-[v3]
+[v3.1]
 Azi eu stau la umbra crucii
 Și Îți mulțumesc frumos.
 Căci din noaptea rece-a morții
 Numai Tu, Isus, m-ai scos.
 
+[v3.2]
 /: M-ai luat de mâna dreaptă,
 M-ai scăpat de câinii răi,
 M-ai urcat treaptă cu treaptă,
 Că m-ai vrut printre ai Tăi. :/
 
-[v4]
+[v4.1]
 Vreau de-acuma să Te laud,
 Vreau de-acum să Te slăvesc,
 Până voi ajunge-n ceruri
 Printre sfinți să locuiesc.
 
+[v4.2]
 /: Să Îți cânt o veșnicie,
 Veșnicule Împărat,
 Cu Enoh și cu Ilie,

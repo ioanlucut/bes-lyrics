@@ -1,15 +1,16 @@
 [title]
-În revărsatul zorilor, în mireasma crinilor {contentHash: {#170d51}, id: {ee3kFUVGYpGu7szSRiNN2w}}
+În revărsatul zorilor, în mireasma crinilor {contentHash: {#4e2b85}, id: {ee3kFUVGYpGu7szSRiNN2w}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 În revărsatul zorilor,
 În mireasma crinilor,
 Un înger a venit,
 Piatra-a rostogolit.
 
+[v1.2]
 Și Duhul Sfânt
 Din Dumnezeu Te-a înviat.
 Ești viu, ești cel dintâi,
@@ -21,12 +22,13 @@ Viață-am primit
 Să pot fi mântuit,
 Fii în veci slăvit!
 
-[v2]
+[v2.1]
 Prin înviere ai învins!
 Ești Domn al domnilor,
 Stăpân biruitor,
 Rege al Regilor.
 
+[v2.2]
 Ai înviat, te-ai înălțat
 Și-ai să revii, Isus,
 Curând, așa cum ai promis,

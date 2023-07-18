@@ -1,15 +1,16 @@
 [title]
-Jertfa Ta {author: {Ekklesia}, contentHash: {#678a03}, id: {idknJBEWo1NvLzCnuV47Dm}}
+Jertfa Ta {author: {Ekklesia}, contentHash: {#e11d3c}, id: {idknJBEWo1NvLzCnuV47Dm}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Ne sfătuiești și ne înveți
 Doamne, fiindcă ne iubești.
 Să-mplinim Cuvântul Tău
 De El să nu ne-ndepărtăm.
 
+[v1.2]
 Ești candela pe calea mea,
 Lumina în noaptea grea,
 Un turn tare în nevoi,
@@ -21,12 +22,13 @@ Schimbă inimi, vindecă.
 Ne deschidem inima,
 O, Doamne, intră Tu în ea.
 
-[v2]
+[v2.1]
 La-nceput ai fost Cuvânt,
 Plin de har și adevăr,
 Întrupat printre noi,
 Doamne, ca să fii cu noi.
 
+[v2.2]
 Umilit și smerit
 Și de toți batjocorit,
 Un exemplu Tu ai fost,

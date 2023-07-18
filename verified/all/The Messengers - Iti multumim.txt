@@ -1,15 +1,16 @@
 [title]
-Îți mulțumim {author: {The Messengers}, contentHash: {#e0a500}, id: {95EU8vtVr4BWhzAE7jrodh}}
+Îți mulțumim {author: {The Messengers}, contentHash: {#37e274}, id: {95EU8vtVr4BWhzAE7jrodh}}
 
 [sequence]
-c,v1,c,v2,c
+c,v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Ne-ai ales ca să trăim,
 Ne-ai chemat să Te slujim,
 Înnoiți de-al Tău Cuvânt,
 În purtare și în gând.
 
+[v1.2]
 Ne-ai iertat orice păcat,
 Moștenire-am căpătat,
 Prin credința-n jertfa Ta,
@@ -21,12 +22,13 @@ Doamne bun, Te slăvim.
 Pentru harul tău și dragostea Ta,
 /: Doamne bun, Îți mulțumim! :/
 
-[v2]
+[v2.1]
 Te-ai lăsat batjocorit,
 Pe o cruce răstignit,
 Ai purtat osânda grea,
 Doamne, pentru vina mea.
 
+[v2.2]
 Tu ești calea către cer,
 Adevăr ești și-un mister
 Lăudăm de pe pământ

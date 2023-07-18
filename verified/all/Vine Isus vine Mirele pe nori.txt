@@ -1,15 +1,16 @@
 [title]
-Vine Isus, vine Mirele pe nori {contentHash: {#1f7e5b}, id: {cN9Zz3CMvFJznoWdTuvjvp}}
+Vine Isus, vine Mirele pe nori {contentHash: {#009d56}, id: {cN9Zz3CMvFJznoWdTuvjvp}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 E lumea în mișcare,
 Ceva se prevestește,
 Pământul e-n mișcare,
 Plutește un mister.
 
+[v1.2]
 Răspunsul la-ntrebare,
 Isus sosește
 Cu-alai de sărbătoare,
@@ -21,23 +22,25 @@ Sunteți gata voi fecioare?
 Stați mereu în așteptare,
 Gata pentru întâmpinare. :/
 
-[v2]
+[v2.1]
 E pregătire mare,
 Mireasa este gata.
 Așteaptă doar semnalul,
 Stă gata pentru zbor,
 
+[v2.2]
 Se-aude-n duh strigarea,
 „O, Maranata!
 O, vino, vino, Isus,
 Te așteptăm cu dor!”
 
-[v3]
+[v3.1]
 Căci semnele ne-arată,
 Căci mult nu este,
 Curând se-arată zorii,
 Iar noaptea s-a sfârșit.
 
+[v3.2]
 Pe nori cu slavă mare
 Isus sosește,
 În mii și mii de stoluri,

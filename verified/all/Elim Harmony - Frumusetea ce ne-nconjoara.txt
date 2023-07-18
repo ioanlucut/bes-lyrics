@@ -1,15 +1,16 @@
 [title]
-Frumusețea ce ne-nconjoară {author: {Elim Harmony}, contentHash: {#5f1833}, id: {1MLMtPS6JyCrtTa5B5gL7D}}
+Frumusețea ce ne-nconjoară {author: {Elim Harmony}, contentHash: {#d728a2}, id: {1MLMtPS6JyCrtTa5B5gL7D}}
 
 [sequence]
-c,v1,c,v2
+c1.1,c1.2,v1,c1.1,c1.2,v2
 
-[c]
+[c1.1]
 Frumusețea ce ne-nconjoară,
 Ne apropie de cer.
 Căci natura mai păstrează
 O frântură din Eden.
 
+[c1.2]
 Imnuri bune se înalță
 Ne-ncetat spre Dumnezeu.
 Frumusețea ce ne-nconjoară,

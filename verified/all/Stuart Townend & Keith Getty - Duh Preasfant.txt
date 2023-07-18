@@ -1,37 +1,40 @@
 [title]
-Duh Preasfânt {author: {Stuart Townend & Keith Getty}, contentHash: {#e7d3eb}, id: {wBgRB4jt51P94iLc7pFApf}}
+Duh Preasfânt {author: {Stuart Townend & Keith Getty}, contentHash: {#4d7e4a}, id: {wBgRB4jt51P94iLc7pFApf}}
 
 [sequence]
-v1,v2,v3
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
-[v1]
+[v1.1]
 Duh Preasfânt, suflarea Celui Viu
 Suflă viață-n sufletu-mi uscat,
 Înnoit și întregit să fiu
 De prezența Celui înviat.
 
+[v1.2]
 Prin Cuvânt trezește mintea mea,
 Dă-mi credință când nu pot vedea,
 Toarnă zel pentru sfințenia Ta,
 Duh Preasfânt, inundă-mi inima!
 
-[v2]
+[v2.1]
 Duh Preasfânt de roade umple-mă,
 Bucuria Ta s-o am oricând,
 Dragostea ce greșu’ acoperă
 Să troneze-n al meu trai și gând.
 
+[v2.2]
 Bun cu cel semeț și cel supus,
 Blând să semăn pacea ca Isus.
 Pune-n loc de trudă har bogat,
 Doar Cristos să fie înălțat!
 
-[v3]
+[v3.1]
 Duh Preasfânt, când lumea a-nceput,
 Peste toate viață ai turnat.
 Să-Ți reverși puterea ca-n trecut,
 Fă-Ți de har poporul însetat.
 
+[v3.2]
 Înălțând mireasma rugilor,
 Ne condu pe calea jertfelor,
 Ca uniți să arătăm vădit,

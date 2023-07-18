@@ -1,15 +1,16 @@
 [title]
-Golgota, Golgota, schimbă viața mea {contentHash: {#0d13c4}, id: {6kY7rWGUgZJx7rSZUJ7B3Q}}
+Golgota, Golgota, schimbă viața mea {contentHash: {#7c3abe}, id: {6kY7rWGUgZJx7rSZUJ7B3Q}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Sfânt Cuvânt, dar ceresc,
 Zi de zi eu primesc.
 Dumnezeu e pe pământ,
 Prin Isus și Duhul Sfânt.
 
+[v1.2]
 Râu de viață, râu de har,
 Umple-ne cu al tău jar.
 Să trăim pentru El,
@@ -21,12 +22,13 @@ Schmbă viața mea și a ta.
 Să trăim pe pământ
 Ascultând de-al Său Cuvânt.
 
-[v2]
+[v2.1]
 Sfânt Cuvânt e Hristos,
 A venit la noi jos.
 S-a jerfit pe Calvar
 Și ne-a dat viață-n dar.
 
+[v2.2]
 Voi pleca-n cerul Său
 Cu Hristos, Domnul meu.
 Voi cânta slavă Lui,

@@ -1,8 +1,8 @@
 [title]
-Tu mă auzi când strig {contentHash: {#f83f3c}, id: {evAJx6Lrdjnurrhjh3zQWd}}
+Tu mă auzi când strig {contentHash: {#1809af}, id: {evAJx6Lrdjnurrhjh3zQWd}}
 
 [sequence]
-v1,c,v2,c,v3,c,b,c
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,b,c1.1,c1.2
 
 [v1]
 Tu mă auzi când strig,
@@ -18,12 +18,13 @@ Mi-ești sabie și scut,
 Chiar în necaz de lupt.
 Cum să mă tem?
 
-[c]
+[c1.1]
 Știu cine mă conduce
 Și e de partea mea.
 Armate-ntregi de îngeri
 Stau sub comanda Sa.
 
+[c1.2]
 Cel ce îmi e prieten,
 Domnește-n veci pe tron,
 El e mereu cu mine,

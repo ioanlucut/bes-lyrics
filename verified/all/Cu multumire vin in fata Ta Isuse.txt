@@ -1,8 +1,8 @@
 [title]
-Cu mulțumire vin în fața Ta, Isuse {contentHash: {#b3f852}, id: {7DmtiUS5RfR4NCexevtUiL}}
+Cu mulțumire vin în fața Ta, Isuse {contentHash: {#c91200}, id: {7DmtiUS5RfR4NCexevtUiL}}
 
 [sequence]
-v1,c,v2,c,v3,c2
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c2.1,c2.2
 
 [v1]
 Cu mulțumire vin în fața Ta, Isuse,
@@ -12,12 +12,13 @@ Mi-ai dat iertare, pace-adâncă, fericire,
 Și mult mai mult
 Decât vreodată am cerut.
 
-[c]
+[c1.1]
 /: Nu merit, Doamne, :/
 Toată binecuvântarea Ta.
 /: Nu merit, Doamne, :/
 Tot ce ai lucrat în viața mea.
 
+[c1.2]
 Mare-ndurare pentru mine-ai arătat
 Și mult mai mult decât am meritat.
 Nu pot, Isuse, îndeajuns să-Ți mulțumesc,
@@ -35,12 +36,13 @@ Am fost un orb, dar mila Ta m-a luminat.
 Mult am zăcut în noaptea rece de păcate,
 Dar harul Tău m-a curățit și-am înviat.
 
-[c2]
+[c2.1]
 /: Te laud, Doamne, :/
 Pentru binecuvântarea Ta,
 /: Te laud, Doamne, :/
 Căci ai lucrat în viața mea.
 
+[c2.2]
 Chiar mii de buze de-aș avea,
 Tot n-aș putea să-Ți mulțumesc
 Pentru iubirea Ta.

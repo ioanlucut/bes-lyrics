@@ -1,15 +1,16 @@
 [title]
-Un nume nou {contentHash: {#d56c15}, id: {brEUpFkLJYvdR4xUqTPuyu}}
+Un nume nou {contentHash: {#a880f9}, id: {brEUpFkLJYvdR4xUqTPuyu}}
 
 [sequence]
-v1,p,c,v2,p,c
+v1.1,v1.2,p,c,v2.1,v2.2,p,c
 
-[v1]
+[v1.1]
 Rătăcit eram și
 În păcat trăiam,
 Dar Domnul m-a chemat.
 Nu mai sunt același!
 
+[v1.2]
 Bezna m-a cuprins,
 Dar Isus a învins,
 Robia a zdrobit.
@@ -27,12 +28,13 @@ Un nume nou s-a scris în veșnicie
 A scris povestea vieții mele
 Domnul meu, Dumnezeu.
 
-[v2]
+[v2.1]
 Păcatul m-a orbit,
 Dar ochii El mi-a deschis
 Să văd lumina Sa.
 Nu mai sunt același!
 
+[v2.2]
 Astăzi liber sunt,
 Victoria e-n Isus,
 El e cetatea mea.

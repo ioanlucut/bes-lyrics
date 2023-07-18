@@ -1,15 +1,16 @@
 [title]
-Cât de bine mă simt cu aleșii Domnului {contentHash: {#348f35}, id: {jiKDVJHadEAihVnTNHDgfx}}
+Cât de bine mă simt cu aleșii Domnului {contentHash: {#9be028}, id: {jiKDVJHadEAihVnTNHDgfx}}
 
 [sequence]
-c,v1,c,v2,c
+c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
 
-[c]
+[c1.1]
 Cât de bine mă simt cu aleșii Domnului,
 Poporul minunat!
 O, ce bine mă simt cu aleșii Domnului,
 Poporul minunat!
 
+[c1.2]
 Strălucesc fețele, cântă adunarea,
 Cerul stă și-ascultă cântarea.
 O, ce bine mă simt cu aleșii Domnului!

@@ -1,15 +1,16 @@
 [title]
-S-a născut Mesia {author: {Marius Pop & Naomi Borota}, contentHash: {#53647d}, id: {iguLzXzs6H7dKgPuoxANRe}}
+S-a născut Mesia {author: {Marius Pop & Naomi Borota}, contentHash: {#c75045}, id: {iguLzXzs6H7dKgPuoxANRe}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2,c
 
-[v1]
+[v1.1]
 Părea o noapte obișnuită,
 Cu stele lucind peste tot,
 Dar Betleemul era în freamăt
 Uitând de al lui Salvator.
 
+[v1.2]
 Îngeri în cor au cântat
 S-a născut Isus!
 Păstorii în noapte au alergat

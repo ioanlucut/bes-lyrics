@@ -1,15 +1,16 @@
 [title]
-Sfânt e Dumnezeu {author: {Otto Pascal}, contentHash: {#1544a1}, id: {uELwQRuj1JZp3qmeFjZp8h}}
+Sfânt e Dumnezeu {author: {Otto Pascal}, contentHash: {#7dedf7}, id: {uELwQRuj1JZp3qmeFjZp8h}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
-[v1]
+[v1.1]
 Mă aplec în închinare,
 Vreau să Te-ntâlnesc Isus.
 Eu sunt slab, dar Tu ești tare
 Și sfânt, ești Sfânt!
 
+[v1.2]
 Ia-mă-n brațul Tău de tată,
 Când sunt urmărit de rău
 Și cu vocea tremurândă
@@ -21,12 +22,13 @@ Atotputernic Împărat!
 Îngeri și serafimi înalță-același imn:
 Sfânt e, Sfânt e Dumnezeu!
 
-[v2]
+[v2.1]
 Fiecare zi cu Tine
 E un pas spre veșnicii.
 Duhul Tău să mă îndrume
 Noapte și zi!
 
+[v2.2]
 Înconjoară-mă cu Brațul
 Ce s-a-ntins pe crucea grea
 Și revarsă peste mine

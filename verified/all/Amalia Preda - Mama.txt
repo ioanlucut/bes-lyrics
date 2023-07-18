@@ -1,15 +1,16 @@
 [title]
-Mama {contentHash: {#b63986}, id: {8N5uEjA346didDBf95AV4z}}
+Mama {contentHash: {#00ba2d}, id: {8N5uEjA346didDBf95AV4z}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Chipul senin și doi ochi îngerești
 Cuprinde-n iubire, ca un răsărit
 Întreg universul ne-mărginit.
 Și lumea, prin ei, înveți s-o privești
 
+[v1.2]
 Aripi-n zbor, două brațe se-ntind,
 Calea-i mereu a lor mângâiere.
 Orice suspin, ascuns în tăcere
@@ -23,12 +24,13 @@ Cu har și tărie, în trăire,
 Cu glasul ei plin de blândețe și ruga-nălțată
 Mereu pentru noi la altar.
 
-[v2]
+[v2.1]
 Lacrimi ascunse, în palmele moi,
 Dă-mă neliniște sau bucurie,
 Multe dureri, pe care le știe,
 Dar ea, amintindu-și, în taină de noi,
 
+[v2.2]
 Neobosită, se-apleacă mereu,
 Pașii pierduți, cu dor să-i găsească,
 Inima frântă să liniștească

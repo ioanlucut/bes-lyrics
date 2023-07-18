@@ -1,15 +1,16 @@
 [title]
-Crucea lui, salvarea mea {author: {Betania Dublin}, contentHash: {#33b740}, id: {dnPaQeNTSBof9ftTwkjsyn}}
+Crucea lui, salvarea mea {author: {Betania Dublin}, contentHash: {#f22139}, id: {dnPaQeNTSBof9ftTwkjsyn}}
 
 [sequence]
-v1,c,v2,c,c2,b,c,e
+v1.1,v1.2,c,v2,c,c2,b,c,e
 
-[v1]
+[v1.1]
 În acea zi, când boldul morții
 A fost frânt sub crucea Lui Isus,
 Cutremurat, tot Ceru-ntreg
 S-a-ntunecat.
 
+[v1.2]
 Fruntea Lui purta coroana
 Regelui, ce-a luat pedeapsa mea,
 N-a spus nimic, iubit nespus

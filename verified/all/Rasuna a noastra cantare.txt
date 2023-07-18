@@ -1,15 +1,16 @@
 [title]
-Răsună a noastră cântare {contentHash: {#3a2d86}, id: {b5qd2NZ8q3FYDXR2PKwZup}}
+Răsună a noastră cântare {contentHash: {#9a261b}, id: {b5qd2NZ8q3FYDXR2PKwZup}}
 
 [sequence]
-v1,c,v2,c,v3,c,v4,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,v4.1,v4.2,c
 
-[v1]
+[v1.1]
 Răsună a noastră cântare,
 Un imn de adânci mulțumiri,
 Să fie și ceru-n serbare,
 Ca-n ziua de mari fericiri!
 
+[v1.2]
 Prin Duh înălțăm o cântare,
 Prin Duh să cinstim pe Isus,
 Căci slava ce-o are e mare,
@@ -20,34 +21,37 @@ Căci slava ce-o are e mare,
 Osana Lui Isus,
 De-acum și până-n veac. :/
 
-[v2]
+[v2.1]
 Pe Isus Îl simți în natură
 Căci toate prin El s-au creat
 Și cine-I ca El de statură?
 Nu-i nimeni ca-l meu Împărat!
 
+[v2.2]
 Cinstiți-L, ostroave și ape!
 Cinstiți-L, voi mări și uscat!
 Căci El a putut să adape
 Mulțimi de popor însetat.
 
-[v3]
+[v3.1]
 Prin câte puterea Lui se-arată?
 Prin câte dovezi Îl cunoști?
 Privește la ceruri și, iată,
 În toate pe El recunoști.
 
+[v3.2]
 Veniți voi, mulțimi de popoare,
 Să vină toți cei păcătoși
 Căci gloria Lui este mare,
 Iertare primiți bucuroși.
 
-[v4]
+[v4.1]
 Cu toți ridicați-vă glasul,
 Un cor milioane formând,
 Simțiți ce sublim fi-va ceasul,
 Când toți vom fi una curând?
 
+[v4.2]
 Mărire Lui Isus în ceruri!
 Mărire și slavă în veci!
 Cântați-I voi astăzi și pururi,

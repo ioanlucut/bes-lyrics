@@ -1,15 +1,16 @@
 [title]
-Stau înaintea Ta așa cum sunt {contentHash: {#f47037}, id: {fjCTUSf1pW8gAhMFUPZxcL}}
+Stau înaintea Ta așa cum sunt {contentHash: {#d055b0}, id: {fjCTUSf1pW8gAhMFUPZxcL}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
-[v1]
+[v1.1]
 Stau înaintea Ta așa cum sunt,
 Îți dau viața mea.
 Da, Tu mă primești și zici:
 „Copilul meu, Eu te iubesc!”
 
+[v1.2]
 Da, orice-ar veni eu mă încred,
 Mă-ncredințez doar Ție.
 Da, vreau să Îți cânt, Doamne,
@@ -22,12 +23,13 @@ Fă din mine tot ce Tu dorești.
 Ia-mi viața în mâna Ta, Îți închin inima
 Și-n veci eu Îți voi cânta.
 
-[v2]
+[v2.1]
 Eu vreau să fiu în mâna Ta
 Ca să-mi conduci viața mea,
 Vreau să-Ți slujesc tot mereu,
 O, Doamne!
 
+[v2.2]
 Da, orice-ar veni eu mă încred,
 Mă-ncredințez doar Ție.
 Da, vreau să Îți cânt, Doamne,

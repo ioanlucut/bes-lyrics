@@ -1,15 +1,16 @@
 [title]
-El a înviat {contentHash: {#6a6060}, id: {8vb3sr3XPutuh6SVdg9Xig}}
+El a înviat {contentHash: {#53c1b6}, id: {8vb3sr3XPutuh6SVdg9Xig}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1.1,v1.2,c,v2,c,b,c
 
-[v1]
+[v1.1]
 E a treia zi de când muri
 Și se spunea că va învia
 Și din mormânt El va ieși
 Și moartea o va birui.
 
+[v1.2]
 El a ales să moară
 Din dragoste pentru noi toți,
 Urcat pe lemn El a murit

@@ -1,35 +1,38 @@
 [title]
-Vreau să te fac pescar de om {contentHash: {#21d348}, id: {i4sC1dJdgJxLtKxqren4mW}}
+Vreau să te fac pescar de om {contentHash: {#86e976}, id: {i4sC1dJdgJxLtKxqren4mW}}
 
 [sequence]
-v1,v2,v3
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
-[v1]
+[v1.1]
 Vreau să te fac pescar de om,
 Pescar de om, pescar de om,
 Vreau să te fac pescar de om,
 Dacă Mă urmezi.
 
+[v1.2]
 /: Dacă Mă urmezi, :/ (3x)
 Vreau să te fac pescar de om,
 Dacă Mă urmezi.
 
-[v2]
+[v2.1]
 Vreau, Isuse, să Te urmez,
 Să Te urmez, să Te urmez,
 Vreau, Isuse, să Te urmez!
 Știu că mă iubești.
 
+[v2.2]
 /: Știu că mă iubești. :/ (3x)
 Vreau, Isuse, să Te urmez,
 Știu că mă iubești.
 
-[v3]
+[v3.1]
 Arunca-voi mreaja în râu,
 Mreaja în râu, mreaja în râu,
 Arunca-voi mreaja în râu,
 La cuvântul Tău.
 
+[v3.2]
 /: Voi fi bun pescar :/ (3x)
 Dacă Tu îmi vei da în dar,
 Undița de har.

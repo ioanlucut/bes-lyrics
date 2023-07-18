@@ -1,15 +1,16 @@
 [title]
-Mă iubești tu mai mult decât ceilalți {contentHash: {#4ff337}, id: {wiopfcvnCanWxW99ZbwL7A}}
+Mă iubești tu mai mult decât ceilalți {contentHash: {#50fdad}, id: {wiopfcvnCanWxW99ZbwL7A}}
 
 [sequence]
-v1,v2,v3,v4
+v1.1,v1.2,v2,v3,v4
 
-[v1]
+[v1.1]
 Mă iubești tu mai mult decât ceilalți,
 Mă iubești ca un frate ceresc,
 Mă iubești tu ca rob, din iubire?
 Eu așa, Eu așa te iubesc!
 
+[v1.2]
 Mă iubești tu, când sunt lângă tine,
 Dar și-n ceasul amar și umbrit?
 Mă iubești tu când ceru-i departe?

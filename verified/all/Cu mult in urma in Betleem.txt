@@ -1,15 +1,16 @@
 [title]
-Cu mult în urmă în Betleem {contentHash: {#8fb6de}, id: {an76SuYBktB1oLxaZy1npQ}}
+Cu mult în urmă în Betleem {contentHash: {#da5c26}, id: {an76SuYBktB1oLxaZy1npQ}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Cu mult în urmă în Betleem,
 Sfânta Biblie spune,
 Maria a născut un fiu
 În seara de Crăciun.
 
+[v1.2]
 Și mii de îngeri s-au unit,
 Cerul s-a înseninat,
 Universul s-a umplut
@@ -21,12 +22,13 @@ Noul Rege S-a născut
 Și viață El ne-a dăruit
 Și astăzi iar e Crăciun.
 
-[v2]
+[v2.1]
 Păstorii s-au înfricoșat,
 Cerul când a izbucnit
 Și într-un gând au alergat
 Către Pruncul iubit.
 
+[v2.2]
 Cu mult în urmă în Betleem
 O stea mare-a răsărit,
 Ea ne spunea că ceru-ntreg

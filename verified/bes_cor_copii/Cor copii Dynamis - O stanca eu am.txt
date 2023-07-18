@@ -1,11 +1,10 @@
 [title]
-O stâncă eu am {author: {Cor copii Dynamis}, contentHash: {#ba055d}, id: {aeQWTShew4LKb6oHNd5XHW}}
+O stâncă eu am {author: {Cor copii Dynamis}, contentHash: {#d7c054}, id: {aeQWTShew4LKb6oHNd5XHW}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,e
 
 [v1]
-
 O stâncă eu am, o stâncă eu am
 Și un nume ce-mi dă bucurie,
 Ce din neam în neam, ce din neam în neam

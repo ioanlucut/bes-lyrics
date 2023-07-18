@@ -1,15 +1,16 @@
 [title]
-Este un loc plin de har și pace {contentHash: {#44cfc9}, id: {qJDQXGf66mS25NWo1GQBAd}}
+Este un loc plin de har și pace {contentHash: {#b33ebb}, id: {qJDQXGf66mS25NWo1GQBAd}}
 
 [sequence]
-v1,p,c,v1,p,c
+v1.1,v1.2,p,c,v1.1,v1.2,p,c
 
-[v1]
+[v1.1]
 Este un loc plin de har și pace,
 Unde frații-n unire trăiesc,
 Un loc unde ungerea sfântă curge
 Și una suntem.
 
+[v1.2]
 Doar un trup să formăm în Tine
 Și prieteni să fim,
 Una prin Duhul Tău Sfânt, ce ne ține

@@ -1,8 +1,8 @@
 [title]
-Cu umilință-n rugăciune {contentHash: {#e723a2}, id: {muHAyNJWg35FWsjfFKLinJ}}
+Cu umilință-n rugăciune {contentHash: {#b6fdd9}, id: {muHAyNJWg35FWsjfFKLinJ}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
 
 [v1]
 Cu umilință-n rugăciune,
@@ -10,12 +10,13 @@ Smerit m-aplec la tronul Tău!
 În fiecare zi și seară,
 De vorbă stau cu Dumnezeu.
 
-[c]
+[c1.1]
 Încredințează-ți soarta-n mâna
 Celui ce te-a săpat în Ea.
 El nu te va lăsa vreodată,
 În El tu sprijin vei avea.
 
+[c1.2]
 Nu va lăsa nicicând furtuna
 Să-ți clatine ființa ta.
 Răscumpărat al Domnului,

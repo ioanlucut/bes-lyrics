@@ -1,48 +1,52 @@
 [title]
-Zi de zi, mergând pe cale, frate credincios {contentHash: {#04d759}, id: {eUFMwkdDsGLoEG8VhH7iEs}}
+Zi de zi, mergând pe cale, frate credincios {contentHash: {#1d8dfa}, id: {eUFMwkdDsGLoEG8VhH7iEs}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
 
-[v1]
+[v1.1]
 Zi de zi, mergând pe cale,
 Frate credincios,
 Cântă-I laude, întruna,
 Domnului Hristos.
 
+[v1.2]
 Fii voios că-n oastea sfântă
 Ești și tu chemat,
 De aceea-ntotdeauna,
 Cântă-I ne-ncetat.
 
-[c]
+[c1.1]
 /: Cântă, cântă,
 Cântă ca David,
 Cântă, cântă,
 Cântă așa
 
+[c1.2]
 Tot iadul, când cânți tu,
 Să se înfioare,
 Să fugă vrăjmașul
 Cu toată-armata sa. :/
 
-[v2]
+[v2.1]
 Ne-ncetat să-nalți
 Spre ceruri zi de zi cântări,
 Chiar de ești în clipe grele
 Și prin încercări.
 
+[v2.2]
 Nu uita,
 Pavel și Sila au cântat și-n greu,
 Și, din ceruri,
 Izbăvire le-a dat Dumnezeu.
 
-[v3]
+[v3.1]
 Cântă, frate, cântă, soră,
 Să răsune-n zări
 Laude și osanale
 Până-n depărtări.
 
+[v3.2]
 Pentru Împăratul nostru
 Care-a biruit,
 Să-I cântăm cu toții:

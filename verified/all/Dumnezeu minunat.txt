@@ -1,15 +1,16 @@
 [title]
-Dumnezeu minunat {contentHash: {#34d2d2}, id: {mxQSD1Sb2VtmGjGVNN2aHp}}
+Dumnezeu minunat {contentHash: {#631756}, id: {mxQSD1Sb2VtmGjGVNN2aHp}}
 
 [sequence]
-v1,c,b,c
+v1.1,v1.2,c,b,c
 
-[v1]
+[v1.1]
 Oceanele ascund ceva din taina Ta,
 Munții îmi arată maiestatea Ta.
 Bolta cerului se pleacă ușor,
 Toate cântă pentru Creator.
 
+[v1.2]
 Planetele se mișcă la porunca Ta,
 Pământul liniștit toarce-n axa sa
 Galaxii, ce fredonează toate-n cor:

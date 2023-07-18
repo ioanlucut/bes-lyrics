@@ -1,15 +1,16 @@
 [title]
-Pe-oceanul infinit, cu valuri {contentHash: {#c32eeb}, id: {sAJjZAfbwwXxjG9hgyzWTt}}
+Pe-oceanul infinit, cu valuri {contentHash: {#7eccf4}, id: {sAJjZAfbwwXxjG9hgyzWTt}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Pe-oceanul infinit, cu valuri,
 Grija m-a cuprins.
 Plutesc spre casă obosit
 Cu catargul zdrențuit.
 
+[v1.2]
 Lovit de valuri sunt mereu,
 Dar mai nădăjduiesc
 În Tine, Doamne, mă încred,
@@ -21,23 +22,25 @@ Orișice s-ar întâmpla.
 Toată viața mea, Isuse,
 Te voi binecuvânta.
 
-[v2]
+[v2.1]
 Pe-oceanul infinit, cu valuri,
 Noaptea m-a cuprins.
 Plutesc spre casă obosit,
 Sunt deznădăjduit.
 
+[v2.2]
 Privesc în noapte, singur sunt,
 N-am nici un ajutor.
 Lovit de valuri sunt, Isus,
 Vino, fii Salvator!
 
-[v3]
+[v3.1]
 Din depărtări zăresc lumina,
 Acolo eu plutesc.
 Acolo vreau să ancorez,
 Pe malul Tău ceresc.
 
+[v3.2]
 Voi înfrunta orice necaz,
 Eu nu mă îndoiesc
 Căci Tu ești Salvatorul meu,

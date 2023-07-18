@@ -1,8 +1,8 @@
 [title]
-Luptă, Biserică! {contentHash: {#dd64d9}, id: {ssYT6H6iHX6cMG6PNyZn4E}}
+Luptă, Biserică! {contentHash: {#d0497b}, id: {ssYT6H6iHX6cMG6PNyZn4E}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
 
 [v1]
 /: Luptă, Biserică,
@@ -10,12 +10,13 @@ Luptă, nu da înapoi!
 Plină de Duhul Sfânt
 Înainte, cu avânt. :/
 
-[c]
+[c1.1]
 Luptați, luptați, rugați-vă,
 De Duhul Sfânt umpleți-vă!
 Pe Domnul Isus așteptați,
 Cu dragoste vă îmbrăcați.
 
+[c1.2]
 Luptați, luptați, rugați-vă,
 De Duhul Sfânt umpleți-vă!
 În Domnul Isus vă-ntăriți,

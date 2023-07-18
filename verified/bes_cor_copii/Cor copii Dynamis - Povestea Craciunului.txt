@@ -1,8 +1,8 @@
 [title]
-Povestea Crăciunului {author: {Cor copii Dynamis}, contentHash: {#84d561}, id: {vaKYja6HS46P1rfsbq64im}}
+Povestea Crăciunului {author: {Cor copii Dynamis}, contentHash: {#35ff77}, id: {vaKYja6HS46P1rfsbq64im}}
 
 [sequence]
-v1,v2,v3,v4,v5,v6,v7
+v1,v2,v3.1,v3.2,v4.1,v4.2,v4.3,v5,v6,v7.1,v7.2
 
 [v1]
 Cum piesele-ntr-un puzzle toate se potrivesc
@@ -16,24 +16,27 @@ Glorie în ceruri, pace pe pământ.
 Toți să-I cântăm azi Pruncului cel sfânt,
 Azi e sărbătoare, Isus s-a născut.
 
-[v3]
+[v3.1]
 Îngerii, în ceruri, naștere-au anunțat
 Și păstorii-n grabă spre iesle au plecat.
 Au găsit pe pruncul în fașă îmbrăcat,
 De Maria și de Iosif adorat.
 
+[v3.2]
 Toți să-I cântăm azi Pruncului cel sfânt
 Azi e sărbătoare Isus s-a născut.
 
-[v4]
+[v4.1]
 Magi din depărtare la Isus au venit,
 Încărcați cu daruri, de stea călăuziți,
 Aur și tămâie, smirnă I-au dăruit
 Și cu bucurie pe Isus L-au slăvit.
 
+[v4.2]
 Toți să-I cântăm azi Pruncului cel sfânt
 Azi e sărbătoare Isus s-a născut!
 
+[v4.3]
 Azi e sărbătoare Isus s-a născut!
 
 [v5]
@@ -45,10 +48,11 @@ Cerul și pământul, cerul și pământul,
 [v6]
 /: Veniți să ne-nchinăm Lui:/ (3x) Dumnezeu.
 
-[v7]
+[v7.1]
 Căci planul Lui este perfect,
 Să cântăm cu cerul și cu îngerii.
 Planul Lui este perfect,
 Pace printre oameni jos și sus, slavă sus în cer.
 
+[v7.2]
 Veniți să ne-nchinăm Domnului....... Isus!

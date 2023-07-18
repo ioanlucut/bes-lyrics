@@ -1,37 +1,40 @@
 [title]
-Lupta e doar a Ta {contentHash: {#0ebb3b}, id: {s4iwqPEqscMRbTK9yfMU1T}}
+Lupta e doar a Ta {contentHash: {#ac5f12}, id: {s4iwqPEqscMRbTK9yfMU1T}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,b,c1.1,c1.2
 
-[v1]
+[v1.1]
 Când lupta mă înconjoară,
 Tu vezi victoria.
 Când munții înalți se ridică,
 Tu îi îndepărtezi.
 
+[v1.2]
 Iubirea Ta mă-nconjoară
 În încercare.
 Cum aș putea să mă tem
 Când Tu mă ocrotești?
 
-[c]
+[c1.1]
 Și când mă lupt,
 Mă lupt pe genunchi,
 Mâini spre cer voi ’nălța,
 Doamne, lupta e doar a Ta!
 
+[c1.2]
 Și orice teamă
 Ție-Ți voi da.
 Și-n noapte-am să cânt,
 Doamne, lupta e doar a Ta!
 
-[v2]
+[v2.1]
 Când Tu ești cu mine
 Cine-mi stă-mpotrivă?
 Nimic nu-i prea greu
 Cu Tine, Domnul meu.
 
+[v2.2]
 Tu poți vedea frumusețea
 Chiar și-n cenușă,
 Când tot ce văd este crucea,

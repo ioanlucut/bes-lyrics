@@ -1,37 +1,40 @@
 [title]
-Când eram doar o licărire {author: {Otto Pascal}, contentHash: {#948c7c}, id: {1M7Xoh3shMFsh7cnE9A5cW}}
+Când eram doar o licărire {author: {Otto Pascal}, contentHash: {#76f5e4}, id: {1M7Xoh3shMFsh7cnE9A5cW}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
 
-[v1]
+[v1.1]
 Când eram doar o licărire,
 Când încă chipul nu-l aveam,
 Tu m-ai condus spre viețuire,
 De-atunci m-ai binecuvântat!
 
+[v1.2]
 Și m-ai condus cu braț puternic,
 Ai fost cu mine-n încercări,
 Ai fost lumină-n întuneric
 Mi-ai dat curaj în provocări!
 
-[c]
+[c1.1]
 Îți mulțumesc și Te slăvesc
 Pentru surâsul ce mi-ai pus pe față,
 Îți mulțumesc și Te slăvesc
 Pentru Cuvântul Tău, ce blând mă-nvață.
 
+[c1.2]
 Îți mulțumesc și Te slăvesc,
 Ești răsăritul ce mă luminează.
 Îți mulțumesc și Te slăvesc,
 Că ai Tăi îngeri zilnic mă veghează!
 
-[v2]
+[v2.1]
 Chiar dacă totul s-ar opri în loc
 Și nu aș mai avea nimic,
 Eu tot Ți-aș mulțumi, Isuse,
 Pentru suflarea ce-am primit.
 
+[v2.2]
 Mă-nchin acum cu umilință
 Și-Ți cer un lucru, Domnul meu,
 Atunci când voi fi în neputință

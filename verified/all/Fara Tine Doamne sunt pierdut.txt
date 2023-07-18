@@ -1,15 +1,16 @@
 [title]
-Fără Tine, Doamne, sunt pierdut {contentHash: {#8be41d}, id: {2sLagnbK8yD4bANo5aSa49}}
+Fără Tine, Doamne, sunt pierdut {contentHash: {#357249}, id: {2sLagnbK8yD4bANo5aSa49}}
 
 [sequence]
-v1,c,v1,c,b,c
+v1.1,v1.2,c,v1.1,v1.2,c,b,c
 
-[v1]
+[v1.1]
 Fără Tine, Doamne, sunt pierdut,
 Fără Tine-aș fi murit demult.
 Sunt al Tău, doar Ție-Ți aparțin,
 Mântuit prin harul Tău divin.
 
+[v1.2]
 Jertfa Ta îmi este îndeajuns
 Să pot sta în fața Ta, Isus.
 Harul îmi conduce inima

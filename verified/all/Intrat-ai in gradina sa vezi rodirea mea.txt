@@ -1,88 +1,100 @@
 [title]
-Intrat-ai în grădină să vezi rodirea mea {contentHash: {#a6cd57}, id: {m8MPWwxbAyXWmePsEeT4HZ}}
+Intrat-ai în grădină să vezi rodirea mea {contentHash: {#00574a}, id: {m8MPWwxbAyXWmePsEeT4HZ}}
 
 [sequence]
-v1,v2,v3,v4
+v1.1,v1.2,v1.3,v1.4,v2.1,v2.2,v2.3,v2.4,v3.1,v3.2,v3.3,v3.4,v4.1,v4.2,v4.3,v4.4
 
-[v1]
+[v1.1]
 Intrat-ai în grădină
 Să vezi rodirea mea,
 Te-ai bucurat sau, Doamne,
 Te-ai întristat de ea?
 
+[v1.2]
 Mi-ai cercetat iubirea
 Ce roade am adus,
 Te-ai desfătat în ele
 Sau Te-ai mâhnit, Isus?
 
+[v1.3]
 De m-ai căutat la rugă
 În odăița mea
 Și ai găsit-o goală,
 Căci nu eram în ea,
 
+[v1.4]
 O, iartă-mi nepăsarea
 Și-mi pune-un dor în piept
 Să caut rugăciunea
 Și-așa să Te aștept.
 
-[v2]
+[v2.1]
 Genunchii-n slăbiciune
 Tu să mi-i întărești
 Să-i pot pleca-n smerenie,
 Așa cum Tu dorești,
 
+[v2.2]
 Și oțelește-mi brațul
 Ca să-l ridic spre cer,
 Chiar de mi-ar fi cărarea
 Prin arșiță sau ger.
 
+[v2.3]
 De m-ai căutat la jertfă
 Și tot nu m-ai aflat
 Și n-ai găsit altarul întreg,
 Ci dărâmat.
 
+[v2.4]
 O, iartă-mi nevegherea
 Și dă-mi putere iar
 S-astup orice spărtură-ntregind
 Al meu altar.
 
-[v3]
+[v3.1]
 Să-ndepărtez icoane
 Și idolii lumești,
 Să-mi fie jertfa-ntreagă,
 Așa cum Tu dorești.
 
+[v3.2]
 S-aduc o jertfă sfântă
 De bun miros trăind
 Ca-n ziua cercetării
 Să fiu găsit veghind.
 
+[v3.3]
 De mi-ai căutat iubirea de frați
 Și, în loc de ea,
 Găsit-ai judecată
 Și ură-n viața mea.
 
+[v3.4]
 O, iartă-mă de vina
 De-a fi un mincinos
 Și dă-mi de zi în suflet
 Iubirea Ta, Hristos.
 
-[v4]
+[v4.1]
 De-am căutat ’nălțare
 Să-mi fac cu mâna mea,
 O, iartă-mi Tu mândria
 Și-n seamă n-o ținea.
 
+[v4.2]
 Putere dă-mi ca-n rugă
 Să stau mereu smerit,
 Să am parte de harul
 Astfel făgăduit.
 
+[v4.3]
 Azi vin să-Ți cer iertare,
 Căci știu că n-am avut
 Smerenie și-ascultare
 Așa cum ai cerut.
 
+[v4.4]
 Un an de îndurare
 Îți cer să îmi mai dai
 Și din grădina sfântă

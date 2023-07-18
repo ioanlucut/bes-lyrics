@@ -1,15 +1,16 @@
 [title]
-Sunt uimit {alternative: {Adaptare după The Brooklyn Tabernacle Choir}, author: {BBSO}, contentHash: {#c56033}, id: {31A6Fxbdakh2LKRJv5roHE}}
+Sunt uimit {alternative: {Adaptare după The Brooklyn Tabernacle Choir}, author: {BBSO}, contentHash: {#4adb43}, id: {31A6Fxbdakh2LKRJv5roHE}}
 
 [sequence]
-v1,c,v2,c,c2
+v1.1,v1.2,c,v2.1,v2.2,c,c2
 
-[v1]
+[v1.1]
 Cât de trist și pustiu era drumul
 Și durerea-n suflet nimeni n-o știa,
 Chiar de-am vrut să merg ’nainte fără Tine,
 M-ascundeam atunci când Tu mă căutai.
 
+[v1.2]
 Am aflat atunci de-o mare îndurare,
 De iubirea Ta, arătată la Calvar.
 Ai murit, plătind a mea iertare,
@@ -22,12 +23,13 @@ Prin al Tău sânge sfânt am iertare,
 Sunt al Tău pe veci, căci viața mi-ai salvat
 Și trăiesc eliberat! :/
 
-[v2]
+[v2.1]
 Da, eu știu, Tu m-aștepți cu iubire
 Și vezi pașii mei atunci când rătăcesc,
 Când mă întorc, Tu mă primești cu brațe-ntinse,
 Mă asculți când strig și lacrima o ștergi.
 
+[v2.2]
 Neclintit, rămâi cu mine, drag Isuse!
 Spui că-mi ești și prieten bun oricând.
 Eu nu mă tem să merg ’nainte prin furtună,

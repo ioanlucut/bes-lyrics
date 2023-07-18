@@ -1,15 +1,16 @@
 [title]
-Oare cum va fi în Slavă? {author: {Damaris Căuneac}, contentHash: {#9dd41e}, id: {jdXETCLjpVsHQT6Jz5U3Mz}}
+Oare cum va fi în Slavă? {author: {Damaris Căuneac}, contentHash: {#6e693e}, id: {jdXETCLjpVsHQT6Jz5U3Mz}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Oare cum va fi în slavă
 Pe-nălțimea cerului
 Când vom sta față-n față
 Privind Slava Mielului?
 
+[v1.2]
 Da, știm, ziua nu-i departe
 Și Isus va reveni,
 El, nădejdea noastră vie,
@@ -23,23 +24,25 @@ Cu El pururi vom rămâne
 Dincolo de zări,
 Pe culme, în veșnicii.
 
-[v2]
+[v2.1]
 Oare cum va fi în slavă,
 Pe Isus Îl vom privi?
 Vom putea rosti cuvinte
 Sau tăcerea va domni?
 
+[v2.2]
 Oare cum va fi cântarea
 În preasfinte armonii,
 Vom putea rosti cuvinte
 Sau tăcerea va domni?
 
-[v3]
+[v3.1]
 Oare cum va fi cântarea
 Celor sfinți ce-au biruit
 Și în viața lor, pe Isus,
 Cu iubire L-au slujit?
 
+[v3.2]
 Cum va fi Ierusalimul
 În lumină strălucind?
 Razele iubirii Sale

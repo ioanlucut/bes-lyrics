@@ -1,15 +1,16 @@
 [title]
-Nu lăsa să treacă vremea {contentHash: {#52d3a7}, id: {fU5nuiXiFf1mBMqhdkHyrL}}
+Nu lăsa să treacă vremea {contentHash: {#45d21a}, id: {fU5nuiXiFf1mBMqhdkHyrL}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
-[v1]
+[v1.1]
 Nu lăsa să treacă vremea,
 Trece însăși viața ta!
 Se apropie și timpul,
 Socoteală când vei da.
 
+[v1.2]
 Trece ziua cea de azi,
 Mai în jos cu-o treaptă cazi,
 Sau cu una te ridici
@@ -21,23 +22,25 @@ Te ridici sau cobori?
 Te întreb de două ori:
 „Te ridici sau te cobori?”
 
-[v2]
+[v2.1]
 Oare banii-ți sunt căderea,
 De nu poți să te ridici?
 Căci sunt mulți cu mare-avere,
 Dar cu sufletele mici.
 
+[v2.2]
 Dacă vrei să fii bogat,
 Să ai sufletul curat,
 Bogății să nu le zici
 Celor ce rămân aici!
 
-[v3]
+[v3.1]
 Nu căuta mărirea lumii,
 Nu căuta să fii ’nălțat,
 Căci Domnul Isus ne spune:
 „Totul va fi spulberat!”
 
+[v3.2]
 Dumnezeu a lepădat
 Ce la oameni e-nălțat,
 Umilința de-o păzești,

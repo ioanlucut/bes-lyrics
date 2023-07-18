@@ -1,14 +1,15 @@
 [title]
-Înainte-Ți vin cu umilință {contentHash: {#9a4275}, id: {w4zrLQv7w2aFCi8cXumXmR}}
+Înainte-Ți vin cu umilință {contentHash: {#5478f6}, id: {w4zrLQv7w2aFCi8cXumXmR}}
 
 [sequence]
-v1
+v1.1,v1.2
 
-[v1]
+[v1.1]
 Înainte-Ți vin cu umilință,
 La Tine vin cu o inima curată!
 Înainte-Ți vin să Te proslăvesc
 Înainte-Ți vin lăudând!
 
+[v1.2]
 Aleluia! (3x)
 Înainte-Ți vin lăudând!

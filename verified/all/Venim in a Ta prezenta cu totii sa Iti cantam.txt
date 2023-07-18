@@ -1,26 +1,28 @@
 [title]
-Venim în a Ta prezență, cu toții să Îți cântăm {contentHash: {#3ca32d}, id: {tXprLKeNPsgQm8eZ4BybKi}}
+Venim în a Ta prezență, cu toții să Îți cântăm {contentHash: {#4a8f0d}, id: {tXprLKeNPsgQm8eZ4BybKi}}
 
 [sequence]
-v1,c,v1,c
+v1.1,v1.2,c1.1,c1.2,v1.1,v1.2,c1.1,c1.2
 
-[v1]
+[v1.1]
 Venim în a Ta prezență,
 Cu toții să Îți cântăm
 Un cântec de mărire
 Și venim să ne-nchinăm.
 
+[v1.2]
 Ne-ai dat o viață nouă,
 Să putem să Te iubim,
 Venim cu mulțumire,
 O, Doamne, Te iubim!
 
-[c]
+[c1.1]
 /: Tu ești Tatăl creațiunii,
 Mielul Sfânt ce-ai înviat.
 Ești singurul ce-ai biruit
 Și mormântu-ai lepădat.
 
+[c1.2]
 Tu pe toți ne-ai eliberat
 De la moarte și ne-ai dat
 Libertatea să venim

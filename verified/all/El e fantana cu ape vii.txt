@@ -1,15 +1,16 @@
 [title]
-El e fântâna cu ape vii {contentHash: {#15a023}, id: {g6rKgAweS9xZu4b9fUYUS8}}
+El e fântâna cu ape vii {contentHash: {#8100f1}, id: {g6rKgAweS9xZu4b9fUYUS8}}
 
 [sequence]
-c,v1,c,v2,c,v3,c
+c,v1.1,v1.2,c,v2,c,v3,c
 
-[v1]
+[v1.1]
 Astăzi cânt voios că Dumnezeu
 E Stăpânul vieții mele, El e Domnul meu!
 Cine pe Pământ, cine-n ceruri sus
 E ca Domnul meu, Isus?
 
+[v1.2]
 Fără El, flămând și însetat,
 Rătăceam în lumea largă, neajutorat,
 Dar când m-a găsit, El m-a săturat

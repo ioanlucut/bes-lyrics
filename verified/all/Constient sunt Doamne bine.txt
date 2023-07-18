@@ -1,10 +1,10 @@
 [title]
-Conștient sunt, Doamne, bine {contentHash: {#e642ba}, id: {ufVKdicWUieCeyoC6aRVru}}
+Conștient sunt, Doamne, bine {contentHash: {#aa439b}, id: {ufVKdicWUieCeyoC6aRVru}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Conștient sunt, Doamne, bine,
 Dacă n-ai fi lângă mine
 Totu-n jurul meu s-ar nărui.
@@ -12,6 +12,7 @@ Soarele pe cer s-ar stinge,
 Luna ar pieri și-ar plânge,
 Stelele n-ar mai luci frumos.
 
+[v1.2]
 Dar atunci când ești cu mine,
 Inima de Tin’ mi-e plină,
 Duhul Tău mi-alină orice dureri.
@@ -28,7 +29,7 @@ Tu cu ultima-Ți suflare
 M-ai salvat pe cruce, la Calvar. :/
 (final: Isuse, m-ai salvat pe cruce, la Calvar)
 
-[v2]
+[v2.1]
 Mă închin cu mulțumire,
 Dăruindu-Ți pe vecie,
 Inima e tot ce mi-a rămas.
@@ -36,6 +37,7 @@ Vin în sfântă umilință
 Și te rog să-mi dai credință
 Să-nțeleg, Isuse, voia Ta.
 
+[v2.2]
 Vreau să-nvăț ce e iubirea
 Și răbdarea și jertfirea,
 Vreau și eu să plâng la Golgota.

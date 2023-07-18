@@ -1,8 +1,8 @@
 [title]
-În Numele Tău proclamăm Duh de viață {contentHash: {#ca1856}, id: {agniFw2UN6JV556mANvqUD}}
+În Numele Tău proclamăm Duh de viață {contentHash: {#6fa8d7}, id: {agniFw2UN6JV556mANvqUD}}
 
 [sequence]
-c,v1,c
+c,v1.1,v1.2,c
 
 [c]
 În Numele Tău proclamăm Duh de viață!
@@ -11,12 +11,13 @@ Din oase moarte Îți ridici,
 Un popor să Te slujească,
 Acolo unde-i Duhul Tău curge viață.
 
-[v1]
+[v1.1]
 M-ai chemat să trec prin vale,
 Printr-un loc pustiu și sterp,
 Plin de oase ce-s uscate,
 Fără viață, scop și țel.
 
+[v1.2]
 Da, m-ai chemat să chem viață,
 Duhul Celui Sfânt de sus,
 Să vestesc eliberare

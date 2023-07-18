@@ -1,8 +1,8 @@
 [title]
-Voi veni cu bucurie înaintea Domnului {contentHash: {#c7d319}, id: {dMqpmLJeeLuyoioMgFDV7k}}
+Voi veni cu bucurie înaintea Domnului {contentHash: {#099d35}, id: {dMqpmLJeeLuyoioMgFDV7k}}
 
 [sequence]
-v1,c,v1,c
+v1,c1.1,c1.2,v1,c1.1,c1.2
 
 [v1]
 Voi veni cu bucurie înaintea Domnului,
@@ -11,9 +11,10 @@ Această zi e-a Domnului.
 Deci să ne bucurăm în ea,
 Cântându-I, Glorie, Aleluia!
 
-[c]
+[c1.1]
 /: Eu sunt fericit, eu sunt fericit!
 Sunt fericit că El m-a mântuit! :/
 
+[c1.2]
 /: Osana, laudă Domnului!
 Laudă Domnului ce m-a salvat! :/

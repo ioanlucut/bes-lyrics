@@ -1,15 +1,16 @@
 [title]
-Hai, spune-mi, cine a biruit moartea {contentHash: {#d24336}, id: {kiAQQvvhYopcyGMxXS1WHb}}
+Hai, spune-mi, cine a biruit moartea {contentHash: {#eb286b}, id: {kiAQQvvhYopcyGMxXS1WHb}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Hai, spune-mi, cine a biruit moartea,
 Cine-a călcat peste ea?
 Cine e Leul din Iuda,
 Scutul, tăria mea?
 
+[v1.2]
 Spune-mi, cine a biruit frica,
 Cine-a călcat peste ea?
 Cine e Leul din Iuda,
@@ -21,12 +22,13 @@ Isus este Domn!
 Aleluia, Aleluia, Aleluia,
 Isus este Domn! :/
 
-[v2]
+[v2.1]
 Hai, spune-mi, cine a murit pentru mine,
 Cine-a murit pentru noi?
 Cine-a murit pentru lume?
 Glorie doar Regelui!
 
+[v2.2]
 Spune-mi, cine-ntr-o zi se va-ntoarce
 În fruntea oștirii Lui?
 El va primi închinarea,

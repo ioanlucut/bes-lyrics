@@ -1,15 +1,16 @@
 [title]
-Trăim vremi de har ca Ilie {contentHash: {#a22ac4}, id: {rsz3mHy43hi5WY5xVf5iUA}}
+Trăim vremi de har ca Ilie {contentHash: {#d915e0}, id: {rsz3mHy43hi5WY5xVf5iUA}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1.1,v1.2,c,v2.1,v2.2,c,b1.1,b1.2,c
 
-[v1]
+[v1.1]
 Trăim vremi de har ca Ilie,
 Cuvântul divin proclamând,
 Trăim ca în vremea lui Moise, profetul,
 Neprihănire primind.
 
+[v1.2]
 Deși zi de zi încercări vin,
 E foame, întuneric, război,
 Rămânem un glas care strigă-n pustie:
@@ -21,23 +22,25 @@ Trâmbițe vestesc un soare strălucind.
 Să-L slăvim, e-al îndurării an,
 Din Sion El ne-a mântuit. :/
 
-[v2]
+[v2.1]
 Sunt zilele lui Ezechiel,
 Când oasele prind viață iar.
 Sunt zilele-n care, ca David, psalmistul,
 Un templu de laudă zidim.
 
+[v2.2]
 Sunt zilele de seceriș sfânt,
 Sunt holdele coapte pe câmp,
 Suntem lucrătorii din via Ta, Doamne,
 Cuvântul divin proclamând.
 
-[b]
+[b1.1]
 /: Nimeni nu este ca Tine!
 Nimeni nu este ca Tine!
 Nimeni nu este ca Tine!
 Nimeni nu este ca Tine! :/ (3x)
 
+[b1.2]
 Nimeni nu este ca Tine!
 Nimeni nu este ca Tine!
 Nimeni nu este ca Tine!

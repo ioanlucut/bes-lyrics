@@ -1,15 +1,16 @@
 [title]
-Mă încred în Tine {contentHash: {#e2a5ef}, id: {1NnY5u4w6jucArczypWtCY}}
+Mă încred în Tine {contentHash: {#7c7c26}, id: {1NnY5u4w6jucArczypWtCY}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 La Tine vin, o, Doamne,
 Să îmi plâng păcatul meu
 Că prin puterea-Ți mare,
 Mă păzești pe drumul greu.
 
+[v1.2]
 O, vina mi-a fost mare!
 Tu mult ai suferit
 Să pot primi iertarea.
@@ -21,12 +22,13 @@ Al meu Mântuitor,
 Că la nevoi și bine
 Tu ești al meu Păstor.
 
-[v2]
+[v2.1]
 Condus de-a Ta lumină,
 De al Tău ajutor,
 Spre casa Ta divină
 Doresc mereu să zbor.
 
+[v2.2]
 Eliberat sunt pe vecie
 Prin al Tău Sânge sfânt,
 Slăvită jertfa-Ți fie
