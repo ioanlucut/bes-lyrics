@@ -1,5 +1,5 @@
 [title]
-El îți dă eliberare! {author: {Jonathan Smith, Mia Fieldes și Zach Williams}, contentHash: {#171c93}, id: {mSRDYhZ7k8V87tw1bddMQi}}
+El îți dă eliberare! {author: {Jonathan Smith, Mia Fieldes și Zach Williams}, contentHash: {#865de4}, id: {mSRDYhZ7k8V87tw1bddMQi}}
 
 [sequence]
 v1,c,v2,c,b,c

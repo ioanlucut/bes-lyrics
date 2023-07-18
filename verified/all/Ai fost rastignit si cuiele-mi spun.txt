@@ -1,5 +1,5 @@
 [title]
-Ai fost răstignit și cuiele-mi spun {contentHash: {#4793e5}, id: {vX9ZNnT1qwmam2T8xhpdBN}}
+Ai fost răstignit și cuiele-mi spun {contentHash: {#c8f0d7}, id: {vX9ZNnT1qwmam2T8xhpdBN}}
 
 [sequence]
 v1,c,v1,c

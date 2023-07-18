@@ -1,5 +1,5 @@
 [title]
-Sus pe plaiurile cerului {contentHash: {#07f81d}, id: {7aCUwcSrMBiHitfcuWkGha}}
+Sus pe plaiurile cerului {contentHash: {#ba4beb}, id: {7aCUwcSrMBiHitfcuWkGha}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Învață-mă să-nfăptuiesc {contentHash: {#b4f5ce}, id: {ot7tqEBuEZFAtf5LtEZuhA}}
+Învață-mă să-nfăptuiesc {contentHash: {#35250b}, id: {ot7tqEBuEZFAtf5LtEZuhA}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

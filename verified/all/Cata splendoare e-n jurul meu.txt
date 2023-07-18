@@ -1,5 +1,5 @@
 [title]
-Câtă splendoare e-n jurul meu {contentHash: {#dd697f}, id: {dATYz7RwpPyhZY15pMb922}}
+Câtă splendoare e-n jurul meu {contentHash: {#e68f61}, id: {dATYz7RwpPyhZY15pMb922}}
 
 [sequence]
 v1,p,c,v2,p,c,e

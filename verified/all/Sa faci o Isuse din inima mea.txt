@@ -1,5 +1,5 @@
 [title]
-Să faci, o, Isuse, din inima mea {contentHash: {#d5ff69}, id: {hL8vDmo4UXcFhWvWduzqzi}}
+Să faci, o, Isuse, din inima mea {contentHash: {#5e2238}, id: {hL8vDmo4UXcFhWvWduzqzi}}
 
 [sequence]
 v1,v2,v3,v4

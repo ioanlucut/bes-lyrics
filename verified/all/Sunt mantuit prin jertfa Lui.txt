@@ -1,5 +1,5 @@
 [title]
-Sunt mântuit prin jertfa Lui {contentHash: {#cf50b9}, id: {jG9EjuRBmCPmgqevpSjYP5}}
+Sunt mântuit prin jertfa Lui {contentHash: {#d57955}, id: {jG9EjuRBmCPmgqevpSjYP5}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Cred {author: {Otto Pascal}, contentHash: {#fc59ab}, id: {crFB5M2cUB1iP1P9onxMCd}}
+Cred {author: {Otto Pascal}, contentHash: {#ef64cf}, id: {crFB5M2cUB1iP1P9onxMCd}}
 
 [sequence]
 v1,c,v2,c,b,c

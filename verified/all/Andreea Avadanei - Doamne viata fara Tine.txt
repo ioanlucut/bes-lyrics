@@ -1,5 +1,5 @@
 [title]
-Doamne, viața fără Tine {author: {Andreea Avadanei}, contentHash: {#ed39b4}, id: {eiMzaGtWUAMJMTPwXcn1Z7}}
+Doamne, viața fără Tine {author: {Andreea Avadanei}, contentHash: {#26b3e5}, id: {eiMzaGtWUAMJMTPwXcn1Z7}}
 
 [sequence]
 v1,c,v2,c

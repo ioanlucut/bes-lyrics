@@ -1,5 +1,5 @@
 [title]
-Cu Isus, în lumea asta, voi merge eu mereu {contentHash: {#15eacc}, id: {qeQmZcaH2WLKdLHTvCkKJB}}
+Cu Isus, în lumea asta, voi merge eu mereu {contentHash: {#b46d6f}, id: {qeQmZcaH2WLKdLHTvCkKJB}}
 
 [sequence]
 v1,c,v2,c,v3,c

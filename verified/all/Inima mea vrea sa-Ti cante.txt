@@ -1,5 +1,5 @@
 [title]
-Inima mea vrea să-Ți cânte {contentHash: {#6ba61d}, id: {kAkXYD17D7MMuzowF9DCrX}}
+Inima mea vrea să-Ți cânte {contentHash: {#8a2e95}, id: {kAkXYD17D7MMuzowF9DCrX}}
 
 [sequence]
 v1,c,v2,c,v3,c

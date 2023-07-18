@@ -1,5 +1,5 @@
 [title]
-Când eram doar o licărire {author: {Otto Pascal}, contentHash: {#425ad7}, id: {1M7Xoh3shMFsh7cnE9A5cW}}
+Când eram doar o licărire {author: {Otto Pascal}, contentHash: {#948c7c}, id: {1M7Xoh3shMFsh7cnE9A5cW}}
 
 [sequence]
 v1,c,v2,c

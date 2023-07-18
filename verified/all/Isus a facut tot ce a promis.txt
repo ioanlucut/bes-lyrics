@@ -1,5 +1,5 @@
 [title]
-Isus a făcut tot ce a promis {contentHash: {#75d5dc}, id: {sQpD3J3SLV1b5PA2gUpFPB}}
+Isus a făcut tot ce a promis {contentHash: {#5fa72c}, id: {sQpD3J3SLV1b5PA2gUpFPB}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Medicul bun se-apropie {contentHash: {#865af9}, id: {svxwbk5xw3iz2hvz62FUKP}}
+Medicul bun se-apropie {contentHash: {#7221ea}, id: {svxwbk5xw3iz2hvz62FUKP}}
 
 [sequence]
 v1,c,v2,c,v3,c

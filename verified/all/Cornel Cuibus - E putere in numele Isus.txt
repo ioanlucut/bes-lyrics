@@ -1,5 +1,5 @@
 [title]
-E putere în numele Isus {author: {Cornel Cuibus}, contentHash: {#9918d9}, id: {cFJFdUXVtkaU5sVHUfVVdP}}
+E putere în numele Isus {author: {Cornel Cuibus}, contentHash: {#6134ac}, id: {cFJFdUXVtkaU5sVHUfVVdP}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

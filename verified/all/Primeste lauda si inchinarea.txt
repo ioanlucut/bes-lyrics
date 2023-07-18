@@ -1,5 +1,5 @@
 [title]
-Primește lauda și închinarea {contentHash: {#0ab349}, id: {7LvB7LrMs4hjMkpVAKYP4d}}
+Primește lauda și închinarea {contentHash: {#6106ae}, id: {7LvB7LrMs4hjMkpVAKYP4d}}
 
 [sequence]
 c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Breakthrough {alternative: {Prezența-Ți divină}, author: {El-Shaddai}, contentHash: {#aa4735}, id: {qiN7JJzhhJk68EyDYVx4o6}}
+Breakthrough {alternative: {Prezența-Ți divină}, author: {El-Shaddai}, contentHash: {#fe5d59}, id: {qiN7JJzhhJk68EyDYVx4o6}}
 
 [sequence]
 v1,v2,c,v3,b,c

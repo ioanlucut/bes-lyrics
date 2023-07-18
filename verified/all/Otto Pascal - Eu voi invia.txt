@@ -1,5 +1,5 @@
 [title]
-Eu voi învia {author: {Otto Pascal}, contentHash: {#680c49}, id: {vppJiXs8kUdwPE7rj2Swdm}}
+Eu voi învia {author: {Otto Pascal}, contentHash: {#2fa57c}, id: {vppJiXs8kUdwPE7rj2Swdm}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

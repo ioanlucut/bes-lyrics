@@ -1,5 +1,5 @@
 [title]
-Dragostea {contentHash: {#3616db}, id: {dcuUvxNVJPbqnL616j11tw}}
+Dragostea {contentHash: {#37b07e}, id: {dcuUvxNVJPbqnL616j11tw}}
 
 [sequence]
 v1,c,v2,c,v3

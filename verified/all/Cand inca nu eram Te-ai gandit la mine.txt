@@ -1,5 +1,5 @@
 [title]
-Când încă nu eram Te-ai gândit la mine {contentHash: {#6b331d}, id: {csBH1wvFc6raAE8tyB2JXW}}
+Când încă nu eram Te-ai gândit la mine {contentHash: {#26b3a6}, id: {csBH1wvFc6raAE8tyB2JXW}}
 
 [sequence]
 v1,c,v2,c,v3,c

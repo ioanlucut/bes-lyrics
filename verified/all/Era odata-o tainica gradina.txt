@@ -1,5 +1,5 @@
 [title]
-Era odată-o tainică grădină {contentHash: {#01c076}, id: {8xgeauBEmTS5jXdGX2HbPS}}
+Era odată-o tainică grădină {contentHash: {#a33353}, id: {8xgeauBEmTS5jXdGX2HbPS}}
 
 [sequence]
 v1,v2,v3,v4,v5

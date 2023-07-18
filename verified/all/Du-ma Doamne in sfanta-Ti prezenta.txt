@@ -1,5 +1,5 @@
 [title]
-Du-mă, Doamne, în sfânta-Ți prezență {contentHash: {#c03e93}, id: {mR5nHW5434NSej1kJfNHSn}}
+Du-mă, Doamne, în sfânta-Ți prezență {contentHash: {#c64108}, id: {mR5nHW5434NSej1kJfNHSn}}
 
 [sequence]
 v1,v2

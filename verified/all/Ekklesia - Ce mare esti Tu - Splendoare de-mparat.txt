@@ -1,5 +1,5 @@
 [title]
-Ce mare ești Tu {alternative: {Splendoare de-mpărat}, author: {Ekklesia}, contentHash: {#a6130a}, id: {wVwjVuQzfX6ptYLnqYn5r6}}
+Ce mare ești Tu {alternative: {Splendoare de-mpărat}, author: {Ekklesia}, contentHash: {#b9bdcf}, id: {wVwjVuQzfX6ptYLnqYn5r6}}
 
 [sequence]
 v1,c,v2,c,e

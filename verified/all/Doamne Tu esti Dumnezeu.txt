@@ -1,5 +1,5 @@
 [title]
-Doamne, Tu ești Dumnezeu {contentHash: {#289e16}, id: {42epgtxZEVk5jdjJbm6vA4}}
+Doamne, Tu ești Dumnezeu {contentHash: {#044afb}, id: {42epgtxZEVk5jdjJbm6vA4}}
 
 [sequence]
 v1,c,v2,c

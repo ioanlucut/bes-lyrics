@@ -1,5 +1,5 @@
 [title]
-De-ar fi să zbor mai sus de cer {contentHash: {#324afb}, id: {qVuYgfdaPQ4N3CiRDFexM5}}
+De-ar fi să zbor mai sus de cer {contentHash: {#01a79f}, id: {qVuYgfdaPQ4N3CiRDFexM5}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-My God is so big {alternative: {Puternic și tare, măreț este Domnul}, author: {Cor copii Dynamis}, contentHash: {#ddb9d4}, id: {923c9vf229E99oayuLJSXT}}
+My God is so big {alternative: {Puternic și tare, măreț este Domnul}, author: {Cor copii Dynamis}, contentHash: {#936549}, id: {923c9vf229E99oayuLJSXT}}
 
 [sequence]
 c,v1,c,v2,c,e,c

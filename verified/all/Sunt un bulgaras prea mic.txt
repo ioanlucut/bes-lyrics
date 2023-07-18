@@ -1,5 +1,5 @@
 [title]
-Sunt un bulgăraș prea mic {contentHash: {#fb626c}, id: {oVqHKzex182S2HukiPHUTf}}
+Sunt un bulgăraș prea mic {contentHash: {#b5a27e}, id: {oVqHKzex182S2HukiPHUTf}}
 
 [sequence]
 v1,v2,v3,v4,v5

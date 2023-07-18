@@ -1,5 +1,5 @@
 [title]
-În bunătatea Ta ne-asculți {contentHash: {#59428b}, id: {6PKrCYS663hmE1cVZMRQA8}}
+În bunătatea Ta ne-asculți {contentHash: {#734a57}, id: {6PKrCYS663hmE1cVZMRQA8}}
 
 [sequence]
 v1,v2,v3

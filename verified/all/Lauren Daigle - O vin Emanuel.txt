@@ -1,5 +1,5 @@
 [title]
-O, vin’, Emanuel {author: {Lauren Daigle}, contentHash: {#8b8ce0}, id: {9ZpQ7w8eLMhCSmPBchoqMy}}
+O, vin’, Emanuel {author: {Lauren Daigle}, contentHash: {#bc53a5}, id: {9ZpQ7w8eLMhCSmPBchoqMy}}
 
 [sequence]
 v1,b,c,v2,c,b2,c

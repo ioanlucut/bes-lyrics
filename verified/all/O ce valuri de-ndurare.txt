@@ -1,5 +1,5 @@
 [title]
-O, ce valuri de-ndurare {contentHash: {#a910c3}, id: {eq3UacB7DXA6ev58WaM2Q9}}
+O, ce valuri de-ndurare {contentHash: {#ea14cc}, id: {eq3UacB7DXA6ev58WaM2Q9}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Iartă-mă, iartă-mă {contentHash: {#b27edc}, id: {5C31QLnHNFnUvq6NfPuDZ6}}
+Iartă-mă, iartă-mă {contentHash: {#ff6cb6}, id: {5C31QLnHNFnUvq6NfPuDZ6}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c,v5

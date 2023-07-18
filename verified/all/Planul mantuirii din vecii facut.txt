@@ -1,5 +1,5 @@
 [title]
-Planul mântuirii din vecii făcut {contentHash: {#4cebeb}, id: {bomwHa6KN8uugBb9BnWeZf}}
+Planul mântuirii din vecii făcut {contentHash: {#6814e3}, id: {bomwHa6KN8uugBb9BnWeZf}}
 
 [sequence]
 v1,c,v2,c,v3,c

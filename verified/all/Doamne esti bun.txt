@@ -1,5 +1,5 @@
 [title]
-Doamne ești bun {contentHash: {#9003cb}, id: {4xJT3zRivvXabmLjafZCoo}}
+Doamne ești bun {contentHash: {#ea45a5}, id: {4xJT3zRivvXabmLjafZCoo}}
 
 [sequence]
 v1,c,v2,c

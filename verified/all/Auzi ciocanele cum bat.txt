@@ -1,5 +1,5 @@
 [title]
-Auzi ciocanele cum bat {contentHash: {#e6f26d}, id: {riZM8m3w15DZ9ymhhcwp9T}}
+Auzi ciocanele cum bat {contentHash: {#18f4c5}, id: {riZM8m3w15DZ9ymhhcwp9T}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

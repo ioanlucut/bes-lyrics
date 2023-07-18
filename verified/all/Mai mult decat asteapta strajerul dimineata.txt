@@ -1,5 +1,5 @@
 [title]
-Mai mult decât așteaptă străjerul dimineața {contentHash: {#c74549}, id: {j7oLfxTkNPk6S72z6L8EuX}}
+Mai mult decât așteaptă străjerul dimineața {contentHash: {#7924f4}, id: {j7oLfxTkNPk6S72z6L8EuX}}
 
 [sequence]
 v1,v2,v3,v4

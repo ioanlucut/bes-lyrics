@@ -1,5 +1,5 @@
 [title]
-Cele mai frumoase momente din viață {contentHash: {#d684b7}, id: {4pFwXSF4psQBhiMzhhWDRV}}
+Cele mai frumoase momente din viață {contentHash: {#39472a}, id: {4pFwXSF4psQBhiMzhhWDRV}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

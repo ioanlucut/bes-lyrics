@@ -1,5 +1,5 @@
 [title]
-Binecuvântează, Doamne, România! {contentHash: {#c567af}, id: {hdMoDm9oyBr4CbCbhQjLbT}}
+Binecuvântează, Doamne, România! {contentHash: {#5d0fce}, id: {hdMoDm9oyBr4CbCbhQjLbT}}
 
 [sequence]
 c,v1,c,v2,c

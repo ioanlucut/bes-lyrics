@@ -1,5 +1,5 @@
 [title]
-Este-un drum plin de lumină {contentHash: {#f818e7}, id: {idtiXk6ara5M3dSAgemXZV}}
+Este-un drum plin de lumină {contentHash: {#08485c}, id: {idtiXk6ara5M3dSAgemXZV}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Mi-e dor, mi-e dor de casa mea {contentHash: {#8b6f43}, id: {bbGS76rDZZAc3ugNumujFQ}}
+Mi-e dor, mi-e dor de casa mea {contentHash: {#db4779}, id: {bbGS76rDZZAc3ugNumujFQ}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

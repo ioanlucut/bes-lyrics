@@ -1,5 +1,5 @@
 [title]
-Deschide-mi ochii inimii, Doamne {contentHash: {#91bb26}, id: {3QF4eazZeuEE4uSs7AjrAa}}
+Deschide-mi ochii inimii, Doamne {contentHash: {#d622f4}, id: {3QF4eazZeuEE4uSs7AjrAa}}
 
 [sequence]
 v1,c,v1,c,b,c

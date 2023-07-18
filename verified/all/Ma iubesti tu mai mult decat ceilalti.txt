@@ -1,5 +1,5 @@
 [title]
-Mă iubești tu mai mult decât ceilalți {contentHash: {#c7bcab}, id: {wiopfcvnCanWxW99ZbwL7A}}
+Mă iubești tu mai mult decât ceilalți {contentHash: {#4ff337}, id: {wiopfcvnCanWxW99ZbwL7A}}
 
 [sequence]
 v1,v2,v3,v4

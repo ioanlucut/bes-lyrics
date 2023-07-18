@@ -1,5 +1,5 @@
 [title]
-Din colind se-aude corul {author: {Cor copii Dynamis}, contentHash: {#1a1b48}, id: {qXMsZbsDoHsiPZddshQr2V}}
+Din colind se-aude corul {author: {Cor copii Dynamis}, contentHash: {#29d22d}, id: {qXMsZbsDoHsiPZddshQr2V}}
 
 [sequence]
 v1,c,v2,c

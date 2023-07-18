@@ -1,5 +1,5 @@
 [title]
-Îți dau inima mea și tot ce am aduc {contentHash: {#dcf3d0}, id: {3n5vUUr8XiXnJivR5ziZuA}}
+Îți dau inima mea și tot ce am aduc {contentHash: {#47e182}, id: {3n5vUUr8XiXnJivR5ziZuA}}
 
 [sequence]
 v1,c,v2,c

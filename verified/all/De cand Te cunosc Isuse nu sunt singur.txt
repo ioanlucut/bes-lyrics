@@ -1,5 +1,5 @@
 [title]
-De când Te cunosc, Isuse, nu sunt singur {contentHash: {#3f32c4}, id: {nxvRe6yWSo2jqz91GWyTpS}}
+De când Te cunosc, Isuse, nu sunt singur {contentHash: {#a50df4}, id: {nxvRe6yWSo2jqz91GWyTpS}}
 
 [sequence]
 v1,c,v2,c

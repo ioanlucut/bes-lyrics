@@ -1,5 +1,5 @@
 [title]
-Spală viața mea, Doamne {contentHash: {#fd9f47}, id: {jTqDmsXeMcJsUxksxyRyd7}}
+Spală viața mea, Doamne {contentHash: {#9f90c2}, id: {jTqDmsXeMcJsUxksxyRyd7}}
 
 [sequence]
 v1,p,c,v2,p2,c2

@@ -1,5 +1,5 @@
 [title]
-Te văd mergând prin praf și soare {contentHash: {#b53499}, id: {uMVq744SHoQmdbG6brZVPf}}
+Te văd mergând prin praf și soare {contentHash: {#45bd79}, id: {uMVq744SHoQmdbG6brZVPf}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Toată creația {contentHash: {#316a68}, id: {ixmtt24GBPGwP8h1mSGFR1}}
+Toată creația {contentHash: {#8e3749}, id: {ixmtt24GBPGwP8h1mSGFR1}}
 
 [sequence]
 v1,c,v2,c,e

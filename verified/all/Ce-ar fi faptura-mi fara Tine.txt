@@ -1,5 +1,5 @@
 [title]
-Ce-ar fi făptura-mi fără Tine {contentHash: {#89182c}, id: {eGs7YwnnuzExDLSE4jMwQn}}
+Ce-ar fi făptura-mi fără Tine {contentHash: {#89cf18}, id: {eGs7YwnnuzExDLSE4jMwQn}}
 
 [sequence]
 v1,v2,v3,v4

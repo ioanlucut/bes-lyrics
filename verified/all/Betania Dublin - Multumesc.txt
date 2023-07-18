@@ -1,5 +1,5 @@
 [title]
-Mulțumesc {author: {Betania Dublin}, contentHash: {#c74aa6}, id: {uUaab1V7CsTTZ5NFPczFpe}}
+Mulțumesc {author: {Betania Dublin}, contentHash: {#7f88e4}, id: {uUaab1V7CsTTZ5NFPczFpe}}
 
 [sequence]
 v1,c,v2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Acolo noapte nu va fi {author: {Emma Repede}, contentHash: {#290e6a}, id: {qtxFnQFk7iNrwSvokS3tME}}
+Acolo noapte nu va fi {author: {Emma Repede}, contentHash: {#4b1acf}, id: {qtxFnQFk7iNrwSvokS3tME}}
 
 [sequence]
 v1,c,v2,c2,v3,c

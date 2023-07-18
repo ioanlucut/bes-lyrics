@@ -1,5 +1,5 @@
 [title]
-Îmi va rămâne-n memorie-o zi {contentHash: {#dc52a1}, id: {sjyiYGrdbM3TBCTeppNKAw}}
+Îmi va rămâne-n memorie-o zi {contentHash: {#7c64c6}, id: {sjyiYGrdbM3TBCTeppNKAw}}
 
 [sequence]
 v1,c,v2,c,v3,c

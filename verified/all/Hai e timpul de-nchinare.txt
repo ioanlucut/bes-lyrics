@@ -1,5 +1,5 @@
 [title]
-Hai, e timpul de-nchinare {contentHash: {#8bf228}, id: {8NmnBxw6r8DejyVsNxxBq8}}
+Hai, e timpul de-nchinare {contentHash: {#a2cb66}, id: {8NmnBxw6r8DejyVsNxxBq8}}
 
 [sequence]
 v1,c,v1,c

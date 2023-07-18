@@ -1,5 +1,5 @@
 [title]
-Zidește în mine o inimă {contentHash: {#5bf098}, id: {eYGfk4XgcPUwU9uK1h6Qs7}}
+Zidește în mine o inimă {contentHash: {#7b12f6}, id: {eYGfk4XgcPUwU9uK1h6Qs7}}
 
 [sequence]
 v1,c,v1,c

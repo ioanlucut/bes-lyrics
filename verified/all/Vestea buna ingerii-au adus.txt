@@ -1,5 +1,5 @@
 [title]
-Vestea bună îngerii-au adus {contentHash: {#6c60a7}, id: {4rmCHH98MnztWBFxkDRJDY}}
+Vestea bună îngerii-au adus {contentHash: {#36c99a}, id: {4rmCHH98MnztWBFxkDRJDY}}
 
 [sequence]
 v1,c,v2,c,v3,c

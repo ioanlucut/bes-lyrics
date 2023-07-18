@@ -1,5 +1,5 @@
 [title]
-Suntem aici, în prezența Ta {contentHash: {#6403d1}, id: {en82mt5VyeA3tgvGesSKMD}}
+Suntem aici, în prezența Ta {contentHash: {#ca532b}, id: {en82mt5VyeA3tgvGesSKMD}}
 
 [sequence]
 v1,c,v1,c

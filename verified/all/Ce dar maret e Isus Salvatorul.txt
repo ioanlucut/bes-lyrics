@@ -1,5 +1,5 @@
 [title]
-Ce dar măreț e Isus Salvatorul {contentHash: {#ba9d88}, id: {tJxG51TYMYD9wuJ7be4ZVF}}
+Ce dar măreț e Isus Salvatorul {contentHash: {#08ba9f}, id: {tJxG51TYMYD9wuJ7be4ZVF}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,e

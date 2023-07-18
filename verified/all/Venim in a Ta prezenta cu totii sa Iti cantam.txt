@@ -1,5 +1,5 @@
 [title]
-Venim în a Ta prezență, cu toții să Îți cântăm {contentHash: {#687fcb}, id: {tXprLKeNPsgQm8eZ4BybKi}}
+Venim în a Ta prezență, cu toții să Îți cântăm {contentHash: {#3ca32d}, id: {tXprLKeNPsgQm8eZ4BybKi}}
 
 [sequence]
 v1,c,v1,c

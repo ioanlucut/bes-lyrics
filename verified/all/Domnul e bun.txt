@@ -1,5 +1,5 @@
 [title]
-Domnul e bun {contentHash: {#c3b261}, id: {sbREP6cNtGKJfig5fuoVWU}}
+Domnul e bun {contentHash: {#caf9b5}, id: {sbREP6cNtGKJfig5fuoVWU}}
 
 [sequence]
 c,v1,c,v1

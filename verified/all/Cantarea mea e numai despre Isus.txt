@@ -1,5 +1,5 @@
 [title]
-Cântarea mea e numai despre Isus {contentHash: {#029e18}, id: {isiLkEwu7VmHDDBaoTQ4xh}}
+Cântarea mea e numai despre Isus {contentHash: {#09874f}, id: {isiLkEwu7VmHDDBaoTQ4xh}}
 
 [sequence]
 v1,c,v2,c,v3,c

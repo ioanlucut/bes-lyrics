@@ -1,5 +1,5 @@
 [title]
-La crucea de la Golgota {contentHash: {#c8ad1d}, id: {9267uocXLwPytTmGeeazh3}}
+La crucea de la Golgota {contentHash: {#08be11}, id: {9267uocXLwPytTmGeeazh3}}
 
 [sequence]
 v1,c,v2,c

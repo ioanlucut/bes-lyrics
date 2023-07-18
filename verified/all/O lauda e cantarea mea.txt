@@ -1,5 +1,5 @@
 [title]
-O laudă e cântarea mea {contentHash: {#c12099}, id: {ddk1EKFhPqTnUWtsSLEqpU}}
+O laudă e cântarea mea {contentHash: {#21270a}, id: {ddk1EKFhPqTnUWtsSLEqpU}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

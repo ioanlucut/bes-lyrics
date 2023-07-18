@@ -1,5 +1,5 @@
 [title]
-Viața făr’ de Tine, Tată ceresc {contentHash: {#301c6e}, id: {iwHJfFmH2ogji3DztzQtEG}}
+Viața făr’ de Tine, Tată ceresc {contentHash: {#7a2782}, id: {iwHJfFmH2ogji3DztzQtEG}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-A mai trecut un an {author: {Laud}, contentHash: {#1bf3ea}, id: {h8m3DZFrZ5xd1SqmpVF8DT}}
+A mai trecut un an {author: {Laud}, contentHash: {#617c65}, id: {h8m3DZFrZ5xd1SqmpVF8DT}}
 
 [sequence]
 v1,c,v2,c

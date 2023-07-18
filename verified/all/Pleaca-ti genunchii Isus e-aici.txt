@@ -1,5 +1,5 @@
 [title]
-Pleacă-ți genunchii, Isus e-aici {contentHash: {#baad2c}, id: {f49RDfY39wBG1gyUDKXCwj}}
+Pleacă-ți genunchii, Isus e-aici {contentHash: {#5a6980}, id: {f49RDfY39wBG1gyUDKXCwj}}
 
 [sequence]
 v1,c,v2,c

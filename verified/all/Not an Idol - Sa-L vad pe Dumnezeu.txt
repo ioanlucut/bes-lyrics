@@ -1,5 +1,5 @@
 [title]
-Să-L văd pe Dumnezeu {author: {Not an Idol}, contentHash: {#f485eb}, id: {61VADPXwK4d67c27WC1inS}}
+Să-L văd pe Dumnezeu {author: {Not an Idol}, contentHash: {#36d28b}, id: {61VADPXwK4d67c27WC1inS}}
 
 [sequence]
 v1,c,v2,c2

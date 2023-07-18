@@ -1,5 +1,5 @@
 [title]
-Pe un deal, departe, stă o cruce veche {contentHash: {#e74456}, id: {etiJYFG8A82CuAx3ANPPRU}}
+Pe un deal, departe, stă o cruce veche {contentHash: {#cdeb94}, id: {etiJYFG8A82CuAx3ANPPRU}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
