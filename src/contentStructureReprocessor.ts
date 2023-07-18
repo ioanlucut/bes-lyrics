@@ -1,15 +1,4 @@
-import {
-  cloneDeep,
-  difference,
-  filter,
-  flatten,
-  includes,
-  intersection,
-  isEqual,
-  range,
-  size,
-  uniq,
-} from 'lodash-es';
+import { cloneDeep, flatten, isEqual, range, size } from 'lodash-es';
 import assert from 'node:assert';
 import { COMMA, DOT, DOUBLE_LINE_TUPLE, NEW_LINE_TUPLE } from './constants.js';
 import { SongSection } from './types.js';

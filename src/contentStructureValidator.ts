@@ -4,7 +4,6 @@ import {
   isEmpty,
   isEqual,
   last,
-  trim,
   uniq,
   without,
 } from 'lodash-es';
@@ -14,7 +13,6 @@ import { SequenceChar, SongSection } from './types.js';
 import {
   assertUniqueness,
   convertSequenceToNumber,
-  createSongMock,
   getBridgeRegex,
   getCharWithoutMarkup,
   getChorusRegex,
