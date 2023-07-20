@@ -1,5 +1,5 @@
 [title]
-Sutașul {contentHash: {#92794d}, id: {kDfBWuyZsEpAwfkvfRC6uB}}
+Sutașul {contentHash: {78b72c}, id: {kDfBWuyZsEpAwfkvfRC6uB}}
 
 [sequence]
 v1,v2,v3,v4,v5

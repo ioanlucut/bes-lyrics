@@ -1,5 +1,5 @@
 [title]
-Azi S-a născut {author: {Otto Pascal}, contentHash: {#4236bb}, id: {nccDCvgkMoEizPWoKh3bb1}}
+Azi S-a născut {author: {Otto Pascal}, contentHash: {85dc2f}, id: {nccDCvgkMoEizPWoKh3bb1}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Jertfa Ta {author: {Ekklesia}, contentHash: {#e11d3c}, id: {idknJBEWo1NvLzCnuV47Dm}}
+Jertfa Ta {author: {Ekklesia}, contentHash: {b4f5e3}, id: {idknJBEWo1NvLzCnuV47Dm}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

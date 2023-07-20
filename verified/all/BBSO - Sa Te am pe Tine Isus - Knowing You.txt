@@ -1,5 +1,5 @@
 [title]
-Să Te am pe Tine, Isus {alternative: {Knowing You}, author: {BBSO}, contentHash: {#ade6b0}, id: {7uwx8yHacbhox9gFdP6fsV}}
+Să Te am pe Tine, Isus {author: {BBSO}, alternative: {Knowing You}, contentHash: {77ba4d}, id: {7uwx8yHacbhox9gFdP6fsV}}
 
 [sequence]
 v1,c,v2,b,c

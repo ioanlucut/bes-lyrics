@@ -1,5 +1,5 @@
 [title]
-Ai plătit un preț să-mi dai viață {contentHash: {#ee7c54}, id: {a8qnn6ny1zT5PkBZyRaWHo}}
+Ai plătit un preț să-mi dai viață {contentHash: {301535}, id: {a8qnn6ny1zT5PkBZyRaWHo}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2

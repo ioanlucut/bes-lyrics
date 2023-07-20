@@ -1,5 +1,5 @@
 [title]
-Aș vrea să Te cunosc tot mai mult, Isus {contentHash: {#802c52}, id: {mNMnWauVfDnyca5CTYEyjp}}
+Aș vrea să Te cunosc tot mai mult, Isus {contentHash: {edb797}, id: {mNMnWauVfDnyca5CTYEyjp}}
 
 [sequence]
 v1,c,v1,c,v1

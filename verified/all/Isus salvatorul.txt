@@ -1,5 +1,5 @@
 [title]
-Isus salvatorul {contentHash: {#f5b85d}, id: {nwU6QXodxyKZKxQwzEPGJS}}
+Isus salvatorul {contentHash: {833728}, id: {nwU6QXodxyKZKxQwzEPGJS}}
 
 [sequence]
 v1.1,v1.2,p,c,v2,p,c

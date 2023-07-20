@@ -1,5 +1,5 @@
 [title]
-Aș vrea să număr clipele {contentHash: {#4e6e82}, id: {tegss7d8W4ECq7fMpHxkrX}}
+Aș vrea să număr clipele {contentHash: {6d449c}, id: {tegss7d8W4ECq7fMpHxkrX}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,c2

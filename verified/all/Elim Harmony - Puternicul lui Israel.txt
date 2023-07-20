@@ -1,5 +1,5 @@
 [title]
-Puternicul lui Israel {author: {Elim Harmony}, contentHash: {#f32165}, id: {qg9pN5yuZDQ3BCW64zA7Ff}}
+Puternicul lui Israel {author: {Elim Harmony}, contentHash: {935d30}, id: {qg9pN5yuZDQ3BCW64zA7Ff}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Păcătos eram odată, de Hristos îndepărtat {contentHash: {#e99780}, id: {xkzSbV4XFRN7QtxukzEeB8}}
+Păcătos eram odată, de Hristos îndepărtat {contentHash: {9f8904}, id: {xkzSbV4XFRN7QtxukzEeB8}}
 
 [sequence]
 v1,c,v2,c,v3,c

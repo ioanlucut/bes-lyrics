@@ -1,5 +1,5 @@
 [title]
-Eu sunt un ostaș al crucii {contentHash: {#d242ab}, id: {hpLPRXqmTK4Qy4ZHxKnaHi}}
+Eu sunt un ostaș al crucii {contentHash: {12142e}, id: {hpLPRXqmTK4Qy4ZHxKnaHi}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2

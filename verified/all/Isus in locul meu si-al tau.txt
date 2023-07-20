@@ -1,5 +1,5 @@
 [title]
-Isus, în locul meu și-al tău {contentHash: {#f11fc0}, id: {sZDxMLFzCweoHstRyLskzd}}
+Isus, în locul meu și-al tău {contentHash: {107fdd}, id: {sZDxMLFzCweoHstRyLskzd}}
 
 [sequence]
 v1,c,v2,c,v3,c

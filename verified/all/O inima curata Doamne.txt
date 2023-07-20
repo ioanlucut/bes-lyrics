@@ -1,5 +1,5 @@
 [title]
-O inimă curată, Doamne {contentHash: {#3c422c}, id: {rMAv5gUv5XVR8zy5QEpb83}}
+O inimă curată, Doamne {contentHash: {6b5a23}, id: {rMAv5gUv5XVR8zy5QEpb83}}
 
 [sequence]
 v1,c,v2,c,v3,c

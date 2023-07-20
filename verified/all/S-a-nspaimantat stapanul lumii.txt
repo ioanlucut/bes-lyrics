@@ -1,5 +1,5 @@
 [title]
-S-a-nspăimântat stăpânul lumii {contentHash: {#79e4df}, id: {onCd8egscxR8Taf8HgbbsD}}
+S-a-nspăimântat stăpânul lumii {contentHash: {c8391f}, id: {onCd8egscxR8Taf8HgbbsD}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

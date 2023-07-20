@@ -1,5 +1,5 @@
 [title]
-Veghează-n zori {contentHash: {#24d0e0}, id: {hdW7uLChTB9HSJGH8HxGWu}}
+Veghează-n zori {contentHash: {98aeee}, id: {hdW7uLChTB9HSJGH8HxGWu}}
 
 [sequence]
 v1,c,v2,c,v3,c

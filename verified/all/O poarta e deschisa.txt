@@ -1,5 +1,5 @@
 [title]
-O poartă e deschisă {contentHash: {#86904d}, id: {hcBmJW86YTvaut5LE5gYvE}}
+O poartă e deschisă {contentHash: {777694}, id: {hcBmJW86YTvaut5LE5gYvE}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Cu mulțumire vin în fața Ta, Isuse {contentHash: {#c91200}, id: {7DmtiUS5RfR4NCexevtUiL}}
+Cu mulțumire vin în fața Ta, Isuse {contentHash: {c70187}, id: {7DmtiUS5RfR4NCexevtUiL}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c2.1,c2.2

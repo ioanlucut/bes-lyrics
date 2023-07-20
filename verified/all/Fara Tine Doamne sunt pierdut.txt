@@ -1,5 +1,5 @@
 [title]
-Fără Tine, Doamne, sunt pierdut {contentHash: {#357249}, id: {2sLagnbK8yD4bANo5aSa49}}
+Fără Tine, Doamne, sunt pierdut {contentHash: {0576f9}, id: {2sLagnbK8yD4bANo5aSa49}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c,b,c

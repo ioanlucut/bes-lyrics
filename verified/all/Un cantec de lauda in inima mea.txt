@@ -1,5 +1,5 @@
 [title]
-Un cântec de laudă în inima mea {contentHash: {#a3315e}, id: {59QavZtyYYQJG487m5cQ7V}}
+Un cântec de laudă în inima mea {contentHash: {0d8ebb}, id: {59QavZtyYYQJG487m5cQ7V}}
 
 [sequence]
 c,v1,c,v2,c

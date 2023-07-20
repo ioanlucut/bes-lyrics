@@ -1,5 +1,5 @@
 [title]
-Prin mâna Ta sfântă primim ocrotirea {contentHash: {#b7683f}, id: {2XHPX5kTRHxhFagWcE2KGY}}
+Prin mâna Ta sfântă primim ocrotirea {contentHash: {41dd83}, id: {2XHPX5kTRHxhFagWcE2KGY}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

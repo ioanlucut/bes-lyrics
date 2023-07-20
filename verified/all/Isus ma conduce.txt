@@ -1,5 +1,5 @@
 [title]
-Isus mă conduce {contentHash: {#ca9e8a}, id: {oJiWWdmDcpecuG7doun17x}}
+Isus mă conduce {contentHash: {f3f28e}, id: {oJiWWdmDcpecuG7doun17x}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,6 +1,8 @@
 import {
   computeUniqueContentHash,
+  getMetaSectionsFromTitle,
   getSongInSectionTuples,
+  getTitleWithoutMeta,
   getUniqueCharsAndRelevantChars,
   isKnownSongSequence,
 } from './core.js';
@@ -47,48 +49,74 @@ describe('core', () => {
 
   describe('getUniqueCharsAndRelevantChars', () => {
     it('should work correctly', () => {
-      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT))
-        .toMatchInlineSnapshot(`
-        [
-          "
-        ",
-          " ",
-          ",",
-          "1",
-          "2",
-          "3",
-          "M",
-          "R",
-          "[",
-          "]",
-          "b",
-          "c",
-          "e",
-          "f",
-          "i",
-          "l",
-          "m",
-          "n",
-          "o",
-          "p",
-          "q",
-          "r",
-          "s",
-          "t",
-          "u",
-          "v",
-          "w",
-          "y",
-        ]
-      `);
+      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
+[
+  "
+",
+  " ",
+  ",",
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  ":",
+  "B",
+  "C",
+  "D",
+  "E",
+  "H",
+  "M",
+  "P",
+  "R",
+  "U",
+  "V",
+  "W",
+  "Y",
+  "[",
+  "]",
+  "a",
+  "b",
+  "c",
+  "d",
+  "e",
+  "f",
+  "g",
+  "h",
+  "i",
+  "k",
+  "l",
+  "m",
+  "n",
+  "o",
+  "p",
+  "q",
+  "r",
+  "s",
+  "t",
+  "u",
+  "v",
+  "w",
+  "y",
+  "{",
+  "}",
+  "â",
+  "ă",
+  "ț",
+]
+`);
     });
   });
 
   describe('computeUniqueContentHash', () => {
     it('should work correctly', () => {
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
-      ).toMatchInlineSnapshot(`"655954"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`"d4c950"`);
 
       expect(computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).toEqual(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
@@ -105,54 +133,84 @@ describe('core', () => {
 
     it('should update correctly', () => {
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' '),
-      ).toMatchInlineSnapshot(`"f827db"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' ')).
+toMatchInlineSnapshot(`"83c6a9"`);
 
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X'),
-      ).toMatchInlineSnapshot(`"8131b7"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X')).
+toMatchInlineSnapshot(`"300764"`);
 
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y'),
-      ).toMatchInlineSnapshot(`"1e90a4"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y')).
+toMatchInlineSnapshot(`"6277d0"`);
     });
   });
 
   describe('getSongInSectionTuples', () => {
     it('should work correctly', () => {
-      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT))
-        .toMatchInlineSnapshot(`
-        [
-          "[title]",
-          "My custom title",
-          "[sequence]",
-          "v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3",
-          "[v1]",
-          "Row for v1",
-          "[v2]",
-          "Row for v2",
-          "[v3]",
-          "Row for v3",
-          "[p]",
-          "Row for p",
-          "[p2]",
-          "Row for p2",
-          "[p3]",
-          "Row for p3",
-          "[c]",
-          "Row for c",
-          "[c2]",
-          "Row for c2",
-          "[c3]",
-          "Row for c3",
-          "[b]",
-          "Row for b",
-          "[b2]",
-          "Row for b2",
-          "[b3]",
-          "Row for b3",
-        ]
-      `);
+      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
+[
+  "[title]",
+  "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+  "[sequence]",
+  "v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3",
+  "[v1]",
+  "Row for v1",
+  "[v2]",
+  "Row for v2",
+  "[v3]",
+  "Row for v3",
+  "[p]",
+  "Row for p",
+  "[p2]",
+  "Row for p2",
+  "[p3]",
+  "Row for p3",
+  "[c]",
+  "Row for c",
+  "[c2]",
+  "Row for c2",
+  "[c3]",
+  "Row for c3",
+  "[b]",
+  "Row for b",
+  "[b2]",
+  "Row for b2",
+  "[b3]",
+  "Row for b3",
+]
+`);
     });
+  });
+});
+describe('getTitleWithoutMeta', () => {
+  it('should work correctly', () => {
+    expect(
+      getTitleWithoutMeta(
+        'Any title {alternative: {Any other title}, author: {CustomAuthor}, contentHash: {customHash}, id: {customId}}',
+      ),
+    ).toMatchInlineSnapshot(`"Any title"`);
+
+    expect(getTitleWithoutMeta('Any title ')).toMatchInlineSnapshot(
+      `"Any title"`,
+    );
+  });
+});
+
+describe('getMetaSectionsFromTitle', () => {
+  it('should work correctly', () => {
+    expect(
+getMetaSectionsFromTitle(
+'Any title {alternative: {Any other title}, author: {CustomAuthor}, contentHash: {customHash}, id: {customId}}')).
+
+toMatchInlineSnapshot(`
+{
+  "alternative": "Any other title",
+  "author": "CustomAuthor",
+  "contentHash": "customHash",
+  "id": "customId",
+}
+`);
   });
 });

@@ -1,5 +1,5 @@
 [title]
-Sfânt Cuvânt din veșnicii {contentHash: {#a139ad}, id: {oy4LMyJ5xLxfvXzDKgyMho}}
+Sfânt Cuvânt din veșnicii {contentHash: {3150fa}, id: {oy4LMyJ5xLxfvXzDKgyMho}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

@@ -1,5 +1,5 @@
 [title]
-Sfânt ești, nimeni nu-i ca Tine {alternative: {Build My Life}, author: {Matt Redman, Pat Barrett, Brett Younker, Karl Martin, Kirby Kaple}, contentHash: {#d86051}, id: {vQ9VrucBegcLw3FdrDoWKQ}}
+Sfânt ești, nimeni nu-i ca Tine {author: {Matt Redman}, alternative: {Build My Life}, contentHash: {c18f87}, id: {vQ9VrucBegcLw3FdrDoWKQ}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c

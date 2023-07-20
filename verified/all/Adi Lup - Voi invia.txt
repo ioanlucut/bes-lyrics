@@ -1,5 +1,5 @@
 [title]
-Voi învia {author: {Adi Lup}, contentHash: {#972c0c}, id: {9vy9M168Fr1S7EEgQJeS2X}}
+Voi învia {author: {Adi Lup}, contentHash: {3f51aa}, id: {9vy9M168Fr1S7EEgQJeS2X}}
 
 [sequence]
 v1,c,v2,c

@@ -4,10 +4,8 @@ import { deriveFromTitle } from './lyricsFileNameReprocessor.js';
 describe('lyricsFileNameReprocessor', () => {
   it('should work correctly by correctly mapping the existing allowed chars', () => {
     expect(
-      deriveFromTitle(ALLOWED_CHARS.join(EMPTY_STRING)),
-    ).toMatchInlineSnapshot(
-      `"&#()-.1234567890ABCDEFGHIJKLMNOPRSTUVWXZYQ[\\]abcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`,
-    );
+deriveFromTitle(ALLOWED_CHARS.join(EMPTY_STRING))).
+toMatchInlineSnapshot(`"&()-.1234567890ABCDEFGHIJKLMNOPRSTUVWXZYQ[\\]abcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`);
   });
 
   it('should work correctly - when `alternative` and `author` is there', () => {

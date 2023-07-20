@@ -1,5 +1,5 @@
 [title]
-Ne-ntoarcem ca să-Ți mulțumim {contentHash: {#c0fa25}, id: {8AhN6cqEvxsVH8riKb3Lo1}}
+Ne-ntoarcem ca să-Ți mulțumim {contentHash: {3921fe}, id: {8AhN6cqEvxsVH8riKb3Lo1}}
 
 [sequence]
 v1,v2,c,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Aleluia, Tu ești Domn atotputernic {contentHash: {#307d36}, id: {jUS8UwuWsdmBkLX2cVAdzL}}
+Aleluia, Tu ești Domn atotputernic {contentHash: {23bbe2}, id: {jUS8UwuWsdmBkLX2cVAdzL}}
 
 [sequence]
 v1,c,v1,c

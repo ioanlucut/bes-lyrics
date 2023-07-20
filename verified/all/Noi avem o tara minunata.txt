@@ -1,5 +1,5 @@
 [title]
-Noi avem o țară minunată {contentHash: {#9f5ef4}, id: {nefr4BCE9KXvqg9rzoa62k}}
+Noi avem o țară minunată {contentHash: {097ca7}, id: {nefr4BCE9KXvqg9rzoa62k}}
 
 [sequence]
 v1,c,v2,c,v3,c

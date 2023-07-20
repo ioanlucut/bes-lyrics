@@ -1,5 +1,5 @@
 [title]
-Credința mea eu o zidesc, cine în El se încrede {contentHash: {#179bcd}, id: {bRo4zvu2k7BhT5TdzUti45}}
+Credința mea eu o zidesc, cine în El se încrede {contentHash: {012281}, id: {bRo4zvu2k7BhT5TdzUti45}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

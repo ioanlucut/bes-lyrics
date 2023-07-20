@@ -1,5 +1,5 @@
 [title]
-Ce bucurie am în Isus! {contentHash: {#f60499}, id: {kSe3QK2meSjRD6VGj1NLQd}}
+Ce bucurie am în Isus! {contentHash: {7ffd20}, id: {kSe3QK2meSjRD6VGj1NLQd}}
 
 [sequence]
 v1,c,v2,c,v3,c

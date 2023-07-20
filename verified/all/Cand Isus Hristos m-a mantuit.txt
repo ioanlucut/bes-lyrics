@@ -1,5 +1,5 @@
 [title]
-Când Isus Hristos m-a mântuit {contentHash: {#324a25}, id: {g3PJ5fAKFXRTRPuCK7FDXe}}
+Când Isus Hristos m-a mântuit {contentHash: {007f24}, id: {g3PJ5fAKFXRTRPuCK7FDXe}}
 
 [sequence]
 v1,c,v2,c,v3,c

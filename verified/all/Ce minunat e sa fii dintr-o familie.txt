@@ -1,5 +1,5 @@
 [title]
-Ce minunat e să fii dintr-o familie {contentHash: {#db5136}, id: {pUSFx1nUVsbH9kLG8QpnvN}}
+Ce minunat e să fii dintr-o familie {contentHash: {47595e}, id: {pUSFx1nUVsbH9kLG8QpnvN}}
 
 [sequence]
 v1,c,v1,c

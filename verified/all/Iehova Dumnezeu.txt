@@ -1,5 +1,5 @@
 [title]
-Iehova, Dumnezeu {contentHash: {#f06c03}, id: {cKwBsKDDaaNevijZJZ9TwG}}
+Iehova, Dumnezeu {contentHash: {6f8dd4}, id: {cKwBsKDDaaNevijZJZ9TwG}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3,c

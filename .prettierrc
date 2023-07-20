@@ -4,5 +4,6 @@
   "semi": true,
   "trailingComma": "all",
   "bracketSpacing": true,
-  "bracketSameLine": false
+  "bracketSameLine": false,
+  "plugins": ["./src/prettier-bes-txt-plugin/index.ts"]
 }

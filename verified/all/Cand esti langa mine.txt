@@ -1,5 +1,5 @@
 [title]
-Când ești lângă mine {contentHash: {#ee3c89}, id: {iVbAxudLUmwE2C76qyMtpr}}
+Când ești lângă mine {contentHash: {069781}, id: {iVbAxudLUmwE2C76qyMtpr}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,v4,c1.1,c1.2

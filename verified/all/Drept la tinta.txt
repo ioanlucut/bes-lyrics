@@ -1,5 +1,5 @@
 [title]
-Drept la țintă {contentHash: {#b76a7e}, id: {q29oCWtStYwxUmVCab64DM}}
+Drept la țintă {contentHash: {46e709}, id: {q29oCWtStYwxUmVCab64DM}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c

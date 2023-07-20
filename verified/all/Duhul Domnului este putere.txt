@@ -1,5 +1,5 @@
 [title]
-Duhul Domnului este putere {contentHash: {#04f3f0}, id: {nFp78E4qGaiYNC7Lr77Her}}
+Duhul Domnului este putere {contentHash: {dbe234}, id: {nFp78E4qGaiYNC7Lr77Her}}
 
 [sequence]
 v1,c,v1,c

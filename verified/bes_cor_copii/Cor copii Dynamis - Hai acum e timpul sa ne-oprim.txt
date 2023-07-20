@@ -1,5 +1,5 @@
 [title]
-Hai acum e timpul să ne-oprim {author: {Cor copii Dynamis}, contentHash: {#81d9fc}, id: {5to8BFZwKsMYuoFqmgdomB}}
+Hai acum e timpul să ne-oprim {author: {Cor copii Dynamis}, contentHash: {cdd09d}, id: {5to8BFZwKsMYuoFqmgdomB}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3

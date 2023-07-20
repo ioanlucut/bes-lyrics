@@ -1,5 +1,5 @@
 [title]
-Și noi fiind înconjurați {contentHash: {#dc905a}, id: {rfDkUZztPzBebwBdDY1gbX}}
+Și noi fiind înconjurați {contentHash: {416653}, id: {rfDkUZztPzBebwBdDY1gbX}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

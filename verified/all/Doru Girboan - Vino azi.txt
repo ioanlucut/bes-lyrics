@@ -1,5 +1,5 @@
 [title]
-Vino azi {author: {Doru Girboan}, contentHash: {#bfd0d2}, id: {nuzj9m9Fax2ZHDRgPF4VP7}}
+Vino azi {author: {Doru Girboan}, contentHash: {e413f2}, id: {nuzj9m9Fax2ZHDRgPF4VP7}}
 
 [sequence]
 v1,c,v2,c,b,c

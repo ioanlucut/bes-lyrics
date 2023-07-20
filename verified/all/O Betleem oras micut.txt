@@ -1,5 +1,5 @@
 [title]
-O, Betleem oraș micuț {contentHash: {#8ba7d7}, id: {61Wwo3PMntr9bg7uYh1QoE}}
+O, Betleem oraș micuț {contentHash: {03f8b7}, id: {61Wwo3PMntr9bg7uYh1QoE}}
 
 [sequence]
 v1,v2,v3

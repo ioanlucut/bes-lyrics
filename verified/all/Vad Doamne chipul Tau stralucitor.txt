@@ -1,5 +1,5 @@
 [title]
-Văd, Doamne, chipul Tău strălucitor {contentHash: {#9912c3}, id: {2vVpQBopaE2VndQejDh6Ya}}
+Văd, Doamne, chipul Tău strălucitor {contentHash: {7dc30b}, id: {2vVpQBopaE2VndQejDh6Ya}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

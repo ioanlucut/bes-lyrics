@@ -1,5 +1,5 @@
 [title]
-Isus iubit, când vei veni {contentHash: {#ec6aba}, id: {k1hRhUKRNs6jFg37Mr3CoH}}
+Isus iubit, când vei veni {contentHash: {30ac5d}, id: {k1hRhUKRNs6jFg37Mr3CoH}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

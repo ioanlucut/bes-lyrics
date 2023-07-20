@@ -1,5 +1,5 @@
 [title]
-Sfânt e, sfânt e {author: {Elim Harmony}, contentHash: {#12aaa0}, id: {qzR2UuDNLGwbJgwz1xzXAK}}
+Sfânt e, sfânt e {author: {Elim Harmony}, contentHash: {a254b1}, id: {qzR2UuDNLGwbJgwz1xzXAK}}
 
 [sequence]
 v1.1,v1.2,v1.3,v2.1,v2.2,v2.3,c,v3.1,v3.2,v3.3

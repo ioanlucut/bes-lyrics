@@ -1,5 +1,5 @@
 [title]
-Odată L-am văzut trecând {contentHash: {#30cf60}, id: {9Y1g3ZqTK7kaTaCK8reuPh}}
+Odată L-am văzut trecând {contentHash: {3c6edc}, id: {9Y1g3ZqTK7kaTaCK8reuPh}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

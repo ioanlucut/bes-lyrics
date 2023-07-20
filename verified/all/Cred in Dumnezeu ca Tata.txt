@@ -1,5 +1,5 @@
 [title]
-Cred în Dumnezeu ca Tată {contentHash: {#48a1df}, id: {szVrUGAz9ruYREzxrGnmR1}}
+Cred în Dumnezeu ca Tată {contentHash: {ef5aef}, id: {szVrUGAz9ruYREzxrGnmR1}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c,e

@@ -1,5 +1,5 @@
 [title]
-Aici să fie casa Celui veșnic Sfânt {contentHash: {#4bcc7d}, id: {hUBaG1fuuEYxTEUSbA32qA}}
+Aici să fie casa Celui veșnic Sfânt {contentHash: {f50400}, id: {hUBaG1fuuEYxTEUSbA32qA}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2

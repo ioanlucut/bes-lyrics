@@ -1,5 +1,5 @@
 [title]
-Mai avem puțin de mers {contentHash: {#8859f2}, id: {1kFqUb4hwuYL28v8bmLChw}}
+Mai avem puțin de mers {contentHash: {9d9685}, id: {1kFqUb4hwuYL28v8bmLChw}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2

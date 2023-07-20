@@ -1,5 +1,5 @@
 [title]
-Ai ajuns mântuit prin Domnul Isus {contentHash: {#c6d1be}, id: {nJQ52BqdAd7Q3f1uqkciwc}}
+Ai ajuns mântuit prin Domnul Isus {contentHash: {3052ae}, id: {nJQ52BqdAd7Q3f1uqkciwc}}
 
 [sequence]
 v1,c,v2,c,v3,c

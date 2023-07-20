@@ -1,5 +1,5 @@
 [title]
-Povestea Crăciunului {author: {Cor copii Dynamis}, contentHash: {#35ff77}, id: {vaKYja6HS46P1rfsbq64im}}
+Povestea Crăciunului {author: {Cor copii Dynamis}, contentHash: {a49e5a}, id: {vaKYja6HS46P1rfsbq64im}}
 
 [sequence]
 v1,v2,v3.1,v3.2,v4.1,v4.2,v4.3,v5,v6,v7.1,v7.2

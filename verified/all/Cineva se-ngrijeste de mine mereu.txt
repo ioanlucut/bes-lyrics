@@ -1,5 +1,5 @@
 [title]
-Cineva se-ngrijește de mine mereu {contentHash: {#15fd67}, id: {v2AvUcfZ4x7SLHxV1vVLkb}}
+Cineva se-ngrijește de mine mereu {contentHash: {71b687}, id: {v2AvUcfZ4x7SLHxV1vVLkb}}
 
 [sequence]
 v1,c,v2,c,v3,c
