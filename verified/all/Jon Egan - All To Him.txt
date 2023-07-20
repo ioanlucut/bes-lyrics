@@ -1,5 +1,5 @@
 [title]
-All To Him {author: {Jon Egan, Jason Ingram, Mia Fieldes}, contentHash: {#baff73}, id: {3TXJMxy2sswTt29GYLcBbb}}
+All To Him {author: {Jon Egan}, contentHash: {06095e}, id: {3TXJMxy2sswTt29GYLcBbb}}
 
 [sequence]
 v1,c,v2,c,b,c

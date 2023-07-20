@@ -1,5 +1,5 @@
 [title]
-Acum e timpul pentru-o ungere nouă {contentHash: {#ee2334}, id: {fgpVXXFk1G1P6h2ybYYFt7}}
+Acum e timpul pentru-o ungere nouă {contentHash: {7b4ecd}, id: {fgpVXXFk1G1P6h2ybYYFt7}}
 
 [sequence]
 v1,c,v2,c,e

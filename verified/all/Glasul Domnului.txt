@@ -1,5 +1,5 @@
 [title]
-Glasul Domnului {contentHash: {#c116c6}, id: {8Rq5YUoVXkEBtkndCbBCg9}}
+Glasul Domnului {contentHash: {5461f7}, id: {8Rq5YUoVXkEBtkndCbBCg9}}
 
 [sequence]
 v1,v2,v3

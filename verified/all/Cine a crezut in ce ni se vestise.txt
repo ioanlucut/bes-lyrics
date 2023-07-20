@@ -1,5 +1,5 @@
 [title]
-Cine a crezut în ce ni se vestise {contentHash: {#d0acea}, id: {5d29Bf3ST8CbfTBR73o1dz}}
+Cine a crezut în ce ni se vestise {contentHash: {06781d}, id: {5d29Bf3ST8CbfTBR73o1dz}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,e

@@ -1,5 +1,5 @@
 [title]
-N-ai asemănare {contentHash: {#a3b778}, id: {6SHQw6qqNTjyjqeHBCivXK}}
+N-ai asemănare {contentHash: {44fb8b}, id: {6SHQw6qqNTjyjqeHBCivXK}}
 
 [sequence]
 v1,c,v2,c,v3,c

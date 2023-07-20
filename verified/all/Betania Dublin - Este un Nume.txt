@@ -1,5 +1,5 @@
 [title]
-Este un Nume {author: {Betania Dublin}, contentHash: {#013a0b}, id: {wBdZzQc5cwG9u3fVs7Q7Kq}}
+Este un Nume {author: {Betania Dublin}, contentHash: {2f8c0a}, id: {wBdZzQc5cwG9u3fVs7Q7Kq}}
 
 [sequence]
 v1,c,v2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Și a fost Isus copil {contentHash: {#ade5cc}, id: {9GF928STwj6GCUSwHDRhGY}}
+Și a fost Isus copil {contentHash: {6e2b43}, id: {9GF928STwj6GCUSwHDRhGY}}
 
 [sequence]
 v1,v2,v3,v4,v5

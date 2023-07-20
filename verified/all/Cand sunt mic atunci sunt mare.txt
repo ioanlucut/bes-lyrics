@@ -1,5 +1,5 @@
 [title]
-Când sunt mic atunci sunt mare {contentHash: {#d02b46}, id: {2JCpCim9gFxV1ukrmEuB4M}}
+Când sunt mic atunci sunt mare {contentHash: {89a42c}, id: {2JCpCim9gFxV1ukrmEuB4M}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

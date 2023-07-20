@@ -1,5 +1,5 @@
 [title]
-Trăiască Domnul {contentHash: {#53d794}, id: {7szfb9ZMz8UPSKRx8C5n8C}}
+Trăiască Domnul {contentHash: {bf0dea}, id: {7szfb9ZMz8UPSKRx8C5n8C}}
 
 [sequence]
 v1,c,v2,c,v3,c

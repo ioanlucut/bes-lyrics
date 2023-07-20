@@ -1,5 +1,5 @@
 [title]
-Toți avem nevoie {contentHash: {#42d485}, id: {5osVKqjcDmjm3YVXps7YEJ}}
+Toți avem nevoie {contentHash: {278ba0}, id: {5osVKqjcDmjm3YVXps7YEJ}}
 
 [sequence]
 v1,c,v2,c,b,c

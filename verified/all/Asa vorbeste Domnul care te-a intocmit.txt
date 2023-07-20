@@ -1,5 +1,5 @@
 [title]
-Așa vorbește Domnul care te-a întocmit {contentHash: {#61ef54}, id: {tZrgGhyg44saaEBmK4xLYp}}
+Așa vorbește Domnul care te-a întocmit {contentHash: {4b398e}, id: {tZrgGhyg44saaEBmK4xLYp}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Om al durerii, Miel divin {contentHash: {#3e0c1a}, id: {wN9XtcZRjMpobM3Dvf4Lco}}
+Om al durerii, Miel divin {contentHash: {4dcc39}, id: {wN9XtcZRjMpobM3Dvf4Lco}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c,v3,c

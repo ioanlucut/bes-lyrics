@@ -1,5 +1,6 @@
 import {
   filter,
+  first,
   flattenDeep,
   includes,
   isEqual,
@@ -12,12 +13,12 @@ import {
 import * as crypto from 'crypto';
 import chalk from 'chalk';
 import short from 'short-uuid';
-import { SequenceChar } from './types.js';
+import { SequenceChar, SongMeta } from './types.js';
 import {
+  COLON,
   COMMA,
   DOUBLE_LINE_TUPLE,
   EMPTY_STRING,
-  HASH,
   NEW_LINE_TUPLE,
   TEST_ENV,
 } from './constants.js';
@@ -41,15 +42,25 @@ export const getVerseRegex = () =>
   new RegExp(`${SequenceChar.VERSE}([1-9]\\d*)(\\.?)([1-9]\\d*)?$`, 'gi');
 
 export const getPrechorusRegex = () =>
-  new RegExp(`${SequenceChar.PRECHORUS}([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`, 'gi');
+  new RegExp(
+    `${SequenceChar.PRECHORUS}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
+    'gi',
+  );
 
 export const getChorusRegex = () =>
-  new RegExp(`${SequenceChar.CHORUS}([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`, 'gi');
+  new RegExp(
+    `${SequenceChar.CHORUS}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
+    'gi',
+  );
 
 export const getBridgeRegex = () =>
-  new RegExp(`${SequenceChar.BRIDGE}([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`, 'gi');
+  new RegExp(
+    `${SequenceChar.BRIDGE}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
+    'gi',
+  );
 
-export const getEndingRegex = () => new RegExp(`${SequenceChar.ENDING}w`, 'gi');
+export const getEndingRegex = () =>
+  new RegExp(`${SequenceChar.ENDING}(?!1$)w$`, 'gi');
 
 export const isKnownSongSequence = (sequenceChar: string | SequenceChar) => {
   if (isEqual(SequenceChar.ENDING, sequenceChar)) {
@@ -58,16 +69,6 @@ export const isKnownSongSequence = (sequenceChar: string | SequenceChar) => {
   if (isEqual(SequenceChar.VERSE, sequenceChar)) {
     return false;
   }
-  if (isEqual(`${SequenceChar.PRECHORUS}1`, sequenceChar)) {
-    return false;
-  }
-  if (isEqual(`${SequenceChar.CHORUS}1`, sequenceChar)) {
-    return false;
-  }
-  if (isEqual(`${SequenceChar.BRIDGE}1`, sequenceChar)) {
-    return false;
-  }
-
   return [
     getVerseRegex(),
     getPrechorusRegex(),
@@ -104,16 +105,13 @@ export const getSongInSectionTuples = (songText: string) =>
     .filter(Boolean)
     .map(trim);
 
-export const getHashContentFromSong = (titleContent: string) =>
-  (last(titleContent.split(HASH)) as string).replaceAll('}', EMPTY_STRING);
-
 export const getUniqueId = () => short.generate();
 
 export const createSongMock = (
   desiredSections: string[],
   desiredSequence: string[] = desiredSections,
 ) => `[title]
-My custom title
+My custom title {contentHash: {xxx}, id: {yyy}}
 
 [sequence]
 ${desiredSequence.join(COMMA)}
@@ -126,7 +124,7 @@ export const createAdvancedSongMock = (
   tuples: string[][],
   desiredSequence?: string[],
 ) => `[title]
-My custom title
+My custom title {contentHash: {xxx}, id: {yyy}}
 
 [sequence]
 ${
@@ -150,3 +148,29 @@ export const assertUniqueness = (array: string[]) =>
       includes(iteratee, value, index + 1),
     ).join(COMMA)}`,
   );
+
+export const withMetaMarkup = (content?: string) => `{${content}}`;
+
+export const getWithoutMetaMarkup = (charWithMarkup?: string) =>
+  charWithMarkup?.replaceAll('{', EMPTY_STRING).replaceAll('}', EMPTY_STRING);
+
+export const getHashContentFromSong = (titleContent: string) =>
+  (last(titleContent) as string).replaceAll('}', EMPTY_STRING);
+
+export const getTitleWithoutMeta = (titleContent: string) =>
+  trim(first(titleContent.split(/\{/i)) as string);
+
+export const getMetaSectionsFromTitle = (titleContent: string) => {
+  const charWithMarkup = last(
+    titleContent.split(/(\{.*\})$/gi).filter(Boolean),
+  );
+
+  return (getWithoutMetaMarkup(charWithMarkup) || EMPTY_STRING)
+    .split(COMMA)
+    .map(trim)
+    .reduce((accumulator, entry) => {
+      const [sequence, content] = entry.split(COLON);
+
+      return { ...accumulator, [sequence]: trim(content) };
+    }, {}) as Record<SongMeta, string>;
+};

@@ -1,5 +1,5 @@
 [title]
-Rugă {author: {Cor copii Dynamis}, contentHash: {#c7c89e}, id: {k4f1x2Xv3hbAUjbgQvb2N4}}
+Rugă {author: {Cor copii Dynamis}, contentHash: {362d61}, id: {k4f1x2Xv3hbAUjbgQvb2N4}}
 
 [sequence]
 v1,v2,v3,v4,v5

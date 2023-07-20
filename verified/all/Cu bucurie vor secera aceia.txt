@@ -1,5 +1,5 @@
 [title]
-Cu bucurie vor secera aceia {contentHash: {#f87e62}, id: {oNiMLeWNTnE7dBo8dXgqYd}}
+Cu bucurie vor secera aceia {contentHash: {a093bd}, id: {oNiMLeWNTnE7dBo8dXgqYd}}
 
 [sequence]
 v1,c,v2,c,v3,c

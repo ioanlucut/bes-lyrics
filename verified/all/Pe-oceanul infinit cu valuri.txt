@@ -1,5 +1,5 @@
 [title]
-Pe-oceanul infinit, cu valuri {contentHash: {#7eccf4}, id: {sAJjZAfbwwXxjG9hgyzWTt}}
+Pe-oceanul infinit, cu valuri {contentHash: {faff61}, id: {sAJjZAfbwwXxjG9hgyzWTt}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

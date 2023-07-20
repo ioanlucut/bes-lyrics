@@ -1,5 +1,5 @@
 [title]
-Cu bucurie să-I cântați {contentHash: {#d48d87}, id: {bEKtEBiobKtG12NdvFydX9}}
+Cu bucurie să-I cântați {contentHash: {a5d74a}, id: {bEKtEBiobKtG12NdvFydX9}}
 
 [sequence]
 v1,v2,v3

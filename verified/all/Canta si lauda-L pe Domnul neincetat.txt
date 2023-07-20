@@ -1,5 +1,5 @@
 [title]
-Cântă și laudă-L pe Domnul neîncetat {contentHash: {#d91926}, id: {feEfymEYDRyycowTrV2TPe}}
+Cântă și laudă-L pe Domnul neîncetat {contentHash: {95f19b}, id: {feEfymEYDRyycowTrV2TPe}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

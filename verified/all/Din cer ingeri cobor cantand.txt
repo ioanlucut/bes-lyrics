@@ -1,5 +1,5 @@
 [title]
-Din cer îngeri cobor cântând {contentHash: {#b0023a}, id: {5vtKRxjRfAXpGpbiGsxUPg}}
+Din cer îngeri cobor cântând {contentHash: {df286d}, id: {5vtKRxjRfAXpGpbiGsxUPg}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

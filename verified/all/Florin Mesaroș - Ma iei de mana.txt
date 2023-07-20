@@ -1,5 +1,5 @@
 [title]
-Mă iei de mână {author: {Florin Mesaroș}, contentHash: {#f0d162}, id: {hnkHUAWZ68piMShJNkqbmC}}
+Mă iei de mână {author: {Florin Mesaroș}, contentHash: {9fab75}, id: {hnkHUAWZ68piMShJNkqbmC}}
 
 [sequence]
 v1.1,v1.2,v1.3,c,v2.1,v2.2,c

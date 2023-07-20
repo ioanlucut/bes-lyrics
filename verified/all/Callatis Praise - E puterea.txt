@@ -1,5 +1,5 @@
 [title]
-E puterea {author: {Callatis Praise}, contentHash: {#ed3e42}, id: {qEutPPxBsuABVvNGp5iUeA}}
+E puterea {author: {Callatis Praise}, contentHash: {13604e}, id: {qEutPPxBsuABVvNGp5iUeA}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

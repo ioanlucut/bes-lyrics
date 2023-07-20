@@ -1,5 +1,5 @@
 [title]
-Isus, cu slavă îmbrăcat {contentHash: {#cff6d6}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}}
+Isus, cu slavă îmbrăcat {contentHash: {3aa08e}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}}
 
 [sequence]
 v1,c,v2,c,v3,c,c2,c

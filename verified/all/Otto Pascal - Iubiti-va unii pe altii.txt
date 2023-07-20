@@ -1,5 +1,5 @@
 [title]
-Iubiți-vă unii pe alții {author: {Otto Pascal}, contentHash: {#3ff28d}, id: {8uPTwWTx9FFTfa7EMaGiLX}}
+Iubiți-vă unii pe alții {author: {Otto Pascal}, contentHash: {5b9c71}, id: {8uPTwWTx9FFTfa7EMaGiLX}}
 
 [sequence]
 v1,b,c,v2,b,c

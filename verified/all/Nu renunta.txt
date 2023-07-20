@@ -1,5 +1,5 @@
 [title]
-Nu renunța {contentHash: {#a9a92c}, id: {cUb223S4yJ5d9dwDPyADsj}}
+Nu renunța {contentHash: {7bec21}, id: {cUb223S4yJ5d9dwDPyADsj}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

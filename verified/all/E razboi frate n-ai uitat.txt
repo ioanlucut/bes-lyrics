@@ -1,5 +1,5 @@
 [title]
-E război, frate, n-ai uitat {contentHash: {#903c87}, id: {eAK8NGwXe7B62GYXsMQBHo}}
+E război, frate, n-ai uitat {contentHash: {0b824d}, id: {eAK8NGwXe7B62GYXsMQBHo}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

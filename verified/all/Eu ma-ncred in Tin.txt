@@ -1,5 +1,5 @@
 [title]
-Eu mă-ncred în Tin’ {contentHash: {#a41d12}, id: {wTZNQhY83ziHYJkGLH4QwC}}
+Eu mă-ncred în Tin’ {contentHash: {02fc7b}, id: {wTZNQhY83ziHYJkGLH4QwC}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,v3,c

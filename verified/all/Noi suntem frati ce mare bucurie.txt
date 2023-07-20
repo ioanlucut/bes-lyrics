@@ -1,5 +1,5 @@
 [title]
-Noi suntem frați, ce mare bucurie {contentHash: {#d6241f}, id: {rhWdQfMrZdN9kct6RBJPQj}}
+Noi suntem frați, ce mare bucurie {contentHash: {e0aaaa}, id: {rhWdQfMrZdN9kct6RBJPQj}}
 
 [sequence]
 v1,v2,v3,v4

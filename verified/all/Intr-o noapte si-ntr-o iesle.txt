@@ -1,5 +1,5 @@
 [title]
-Într-o noapte și-ntr-o iesle {contentHash: {#ee3015}, id: {tPJkkKUCjKTSHA4ThMtXk5}}
+Într-o noapte și-ntr-o iesle {contentHash: {833167}, id: {tPJkkKUCjKTSHA4ThMtXk5}}
 
 [sequence]
 v1,v2,c,v3,v4,c,b,c

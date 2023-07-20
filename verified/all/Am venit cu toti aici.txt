@@ -1,5 +1,5 @@
 [title]
-Am venit cu toți aici {contentHash: {#c93d1e}, id: {8fitHkosmefPPcPxM6d4yC}}
+Am venit cu toți aici {contentHash: {7a41a9}, id: {8fitHkosmefPPcPxM6d4yC}}
 
 [sequence]
 v1,v2,v3

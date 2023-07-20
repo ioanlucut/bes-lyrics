@@ -1,5 +1,5 @@
 [title]
-Amice, din păcat te scoală {contentHash: {#7b9073}, id: {6ZuukXDguDrGjkTdXoYFqA}}
+Amice, din păcat te scoală {contentHash: {904312}, id: {6ZuukXDguDrGjkTdXoYFqA}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

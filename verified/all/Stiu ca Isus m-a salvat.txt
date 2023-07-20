@@ -1,5 +1,5 @@
 [title]
-Știu că Isus m-a salvat {contentHash: {#5c4ec2}, id: {awpet89xekujDAen14LVma}}
+Știu că Isus m-a salvat {contentHash: {0a67f0}, id: {awpet89xekujDAen14LVma}}
 
 [sequence]
 v1,c,v1,c

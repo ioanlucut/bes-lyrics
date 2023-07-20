@@ -1,5 +1,5 @@
 [title]
-Ce mare har să poți vedea {contentHash: {#738220}, id: {8Jjgmw8HJFKtCmazxFMx7J}}
+Ce mare har să poți vedea {contentHash: {b8ee6d}, id: {8Jjgmw8HJFKtCmazxFMx7J}}
 
 [sequence]
 v1,v2,v3,v4.1,v4.2,v5.1,v5.2

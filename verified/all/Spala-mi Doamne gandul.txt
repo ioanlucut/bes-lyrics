@@ -1,5 +1,5 @@
 [title]
-Spală-mi, Doamne, gândul {contentHash: {#27cee0}, id: {awEXokkoNLvCAaBiqmC6Zu}}
+Spală-mi, Doamne, gândul {contentHash: {f6c5da}, id: {awEXokkoNLvCAaBiqmC6Zu}}
 
 [sequence]
 c,v1,c,v2,c,v3

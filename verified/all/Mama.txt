@@ -1,30 +1,37 @@
 [title]
-Mama {contentHash: {#08e87f}, id: {dxJbNrAjGNrbfUTXXrGzB7}}
+Mama {contentHash: {5cc381}, id: {8N5uEjA346didDBf95AV4z}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
-Un cuvânt pe acest pământ
-E curat, frumos și sfânt,
-E iubit, prețuit și îndrăgit,
-De la Abel până azi,
-Toți copiii într-un glas
-Rostesc dulce și gingaș: mama!
+[v1.1]
+Chipul senin și doi ochi îngerești
+Cuprinde-n iubire, ca un răsărit
+Întreg universul ne-mărginit.
+Și lumea, prin ei, înveți s-o privești
+
+[v1.2]
+Aripi-n zbor, două brațe se-ntind,
+Calea-i mereu a lor mângâiere.
+Orice suspin, ascuns în tăcere
+Se stinge-n iubire când el e cuprins.
 
 [c]
-Mamă, mamă, mama mea,
-Te iubesc și mult aș vrea,
-Să trăim până în acea zi
-Când El va veni!
-Tu îmi ești comoara mea,
-Cea mai luminoasă stea,
-Mamă, mamă, mama mea.
+E mama, cu dulcea lumină în privire,
+Cu har și tărie, în trăire,
+Și cu bunătate, mai presus de toate
+În dar, e mama, cu farmec și cu frumusețe,
+Cu glasul ei plin de blândețe și ruga-nălțată
+Mereu pentru noi la altar.
 
-[v2]
-M-ai născut și m-ai crescut,
-Și mi-ai spus să Îl ascult
-Pe Isus, ce a murit pentru noi,
-Să fiu bun, curat și drept,
-Și astfel voi fi înțelept.
-Toată viața doar venirea să i-o aștept!
+[v2.1]
+Lacrimi ascunse, în palmele moi,
+Dă-mă neliniște sau bucurie,
+Multe dureri, pe care le știe,
+Dar ea, amintindu-și, în taină de noi,
+
+[v2.2]
+Neobosită, se-apleacă mereu,
+Pașii pierduți, cu dor să-i găsească,
+Inima frântă să liniștească
+Și apoi s-o îndrepte spre Dumnezeu.

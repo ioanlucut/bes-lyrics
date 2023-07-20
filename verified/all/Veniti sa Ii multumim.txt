@@ -1,5 +1,5 @@
 [title]
-Veniți să Îi mulțumim {contentHash: {#239e5f}, id: {4GeGmvG3PDDA6vXe27WTF2}}
+Veniți să Îi mulțumim {contentHash: {332daf}, id: {4GeGmvG3PDDA6vXe27WTF2}}
 
 [sequence]
 v1,c,v2,c2,e

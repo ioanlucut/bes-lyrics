@@ -1,5 +1,5 @@
 [title]
-Purtăm în suflet vis de veșnicii {contentHash: {#3c8fb4}, id: {scW8RJLshasxvUXwxYEyU8}}
+Purtăm în suflet vis de veșnicii {contentHash: {c47e6c}, id: {scW8RJLshasxvUXwxYEyU8}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

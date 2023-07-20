@@ -1,5 +1,5 @@
 [title]
-Doamne, n-am aur, nici pietre scumpe {contentHash: {#cef7e9}, id: {sf4iMnaXqJ9epR6Yx6G7vn}}
+Doamne, n-am aur, nici pietre scumpe {contentHash: {9e2afe}, id: {sf4iMnaXqJ9epR6Yx6G7vn}}
 
 [sequence]
 v1,v2,v3,v4

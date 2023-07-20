@@ -1,5 +1,5 @@
 [title]
-Dar mi-ai deschis ochii {author: {Laud}, contentHash: {#9c7b43}, id: {jPvj37M7E2V2AoZFReo68W}}
+Dar mi-ai deschis ochii {author: {Laud}, contentHash: {0776db}, id: {jPvj37M7E2V2AoZFReo68W}}
 
 [sequence]
 v1,c,v2,c2

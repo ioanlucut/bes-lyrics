@@ -1,5 +1,5 @@
 [title]
-Ai ajuns în necaz și nevoi strâmtorat {contentHash: {#b7f351}, id: {77B1XTMJkMcuXdFoWEzS1G}}
+Ai ajuns în necaz și nevoi strâmtorat {contentHash: {b3ddfc}, id: {77B1XTMJkMcuXdFoWEzS1G}}
 
 [sequence]
 v1,c,v2,c,v3,c

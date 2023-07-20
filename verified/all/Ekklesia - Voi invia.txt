@@ -1,5 +1,5 @@
 [title]
-Voi învia {author: {Ekklesia}, contentHash: {#436c68}, id: {mpG58KMZETaa7cv1QTqzRK}}
+Voi învia {author: {Ekklesia}, contentHash: {3f434e}, id: {mpG58KMZETaa7cv1QTqzRK}}
 
 [sequence]
 v1,b,c,v2,c,e

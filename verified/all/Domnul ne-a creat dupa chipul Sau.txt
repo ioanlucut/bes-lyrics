@@ -1,5 +1,5 @@
 [title]
-Domnul ne-a creat după chipul Său {contentHash: {#f1b5f2}, id: {dd2M3YJm1QAbEEqPzPsJ14}}
+Domnul ne-a creat după chipul Său {contentHash: {82332c}, id: {dd2M3YJm1QAbEEqPzPsJ14}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2

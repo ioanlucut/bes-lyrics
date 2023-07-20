@@ -1,5 +1,5 @@
 [title]
-Veșnic Aleluia {author: {Kari Jobe}, contentHash: {#3ba189}, id: {m41BEgL6GjxPS1rzR1NZ46}}
+Veșnic Aleluia {author: {Kari Jobe}, contentHash: {9e25dc}, id: {m41BEgL6GjxPS1rzR1NZ46}}
 
 [sequence]
 v1.1,v1.2,p,c,p,c,b,c

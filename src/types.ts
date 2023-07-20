@@ -77,4 +77,39 @@ export enum SongMeta {
    * Song content hash (used to detect changes between the corrections & do partial deployments)
    */
   CONTENT_HASH = 'contentHash',
+
+  /**
+   * Song ID
+   */
+  ID = 'id',
 }
+
+export type Section = {
+  // E.g. v1, v2, v3, v4, etc.
+  sectionIdentifier: string;
+
+  // E.g. strophe/chorus content
+  content: string;
+};
+
+/**
+ * Represents the sections of the song as a hash map
+ */
+export type SongSectionsMap = Record<string, Section>;
+
+/**
+ * Represents the order of the sections from the hash-map as an array
+ */
+export type SongSectionOrder = string[];
+
+export type SongAST = {
+  alternative?: string;
+  author?: string;
+  contentHash: string;
+  id: string;
+  sectionOrder: SongSectionOrder;
+  sectionsMap: SongSectionsMap;
+  sequence: string[];
+  title: string;
+  version?: string;
+};

@@ -1,5 +1,5 @@
 [title]
-În umblarea mea prin lume {contentHash: {#65aa26}, id: {dB4qVZi76MN1yDbbv2dYgz}}
+În umblarea mea prin lume {contentHash: {0b0736}, id: {dB4qVZi76MN1yDbbv2dYgz}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Suntem străini pe-acest pământ {contentHash: {#f79848}, id: {3pcatYkq727LDSFVi9BdY3}}
+Suntem străini pe-acest pământ {contentHash: {460089}, id: {3pcatYkq727LDSFVi9BdY3}}
 
 [sequence]
 v1,v2,v3,v4

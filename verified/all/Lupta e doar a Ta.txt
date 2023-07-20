@@ -1,5 +1,5 @@
 [title]
-Lupta e doar a Ta {contentHash: {#ac5f12}, id: {s4iwqPEqscMRbTK9yfMU1T}}
+Lupta e doar a Ta {contentHash: {2dad9f}, id: {s4iwqPEqscMRbTK9yfMU1T}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,b,c1.1,c1.2

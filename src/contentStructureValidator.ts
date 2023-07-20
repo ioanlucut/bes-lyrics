@@ -223,7 +223,7 @@ export const verifyStructure = (content: string) => {
     });
 
   const sectionsMap = {} as Record<string, string>;
-  const sequenceNaturalOrder = [] as string[];
+  const sectionOrder = [] as string[];
 
   for (
     let sectionIndex = 0;
@@ -236,7 +236,7 @@ export const verifyStructure = (content: string) => {
     if (
       ![SongSection.TITLE, SongSection.SEQUENCE].includes(sectionIdentifier)
     ) {
-      sequenceNaturalOrder.push(sectionIdentifier);
+      sectionOrder.push(sectionIdentifier);
 
       const sizeOfSectionContent = size(
         getUniqueCharsAndRelevantChars(sectionContent),
@@ -254,7 +254,7 @@ export const verifyStructure = (content: string) => {
   }
 
   const sequencesFromSongContent = without(
-    sequenceNaturalOrder,
+    sectionOrder,
     SongSection.TITLE,
     SongSection.SEQUENCE,
   );

@@ -1,5 +1,5 @@
 [title]
-Harul ce curge din Golgota {contentHash: {#5bfe0c}, id: {812gnSFCgbUgfcTSFdwBYv}}
+Harul ce curge din Golgota {contentHash: {c8df21}, id: {812gnSFCgbUgfcTSFdwBYv}}
 
 [sequence]
 v1,c,v2,c,v3,c

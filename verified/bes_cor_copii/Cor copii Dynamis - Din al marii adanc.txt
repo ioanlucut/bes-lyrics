@@ -1,5 +1,5 @@
 [title]
-Din al marii adânc {author: {Cor copii Dynamis}, contentHash: {#f6f7a2}, id: {c5AY355yTESHbamuXatieY}}
+Din al marii adânc {author: {Cor copii Dynamis}, contentHash: {9a0734}, id: {c5AY355yTESHbamuXatieY}}
 
 [sequence]
 v1,c,v2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Doamne, ești mai scump ca argintul {contentHash: {#2d106f}, id: {m9SrsH2H8AgN3gZXCR55ex}}
+Doamne, ești mai scump ca argintul {contentHash: {e443e9}, id: {m9SrsH2H8AgN3gZXCR55ex}}
 
 [sequence]
 c,b,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Ce minunat, ce glorios {contentHash: {#3ab33e}, id: {8dKHetReCqn2frwTVzrm7K}}
+Ce minunat, ce glorios {contentHash: {12080c}, id: {8dKHetReCqn2frwTVzrm7K}}
 
 [sequence]
 v1,c,v2,c,v3,c

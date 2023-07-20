@@ -1,5 +1,5 @@
 [title]
-Noi așteptăm pe Domnul Isus {contentHash: {#35bd82}, id: {aDPYXtWmSYhb1AijCtfFAs}}
+Noi așteptăm pe Domnul Isus {contentHash: {703153}, id: {aDPYXtWmSYhb1AijCtfFAs}}
 
 [sequence]
 v1,v2,v3,v4

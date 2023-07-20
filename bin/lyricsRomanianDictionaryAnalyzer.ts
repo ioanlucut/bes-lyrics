@@ -24,15 +24,15 @@ import NSpell from 'nspell';
 import dotenv from 'dotenv';
 import { fileURLToPath } from 'url';
 import {
-  CARRIAGE_RETURN,
   CHARS_SEPARATORS,
   ERROR_CODE,
+  getSongInSectionTuples,
+  getTitleBySections,
   NEW_LINE,
+  NEW_LINE_TUPLE,
+  SongSection,
   TEST_FILE,
   TXT_EXTENSION,
-  getTitleBySections,
-  SongSection,
-  getSongInSectionTuples,
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -52,7 +52,7 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
       const songSections = getSongInSectionTuples(songAsString);
       const normalizedSongSections = songSections.map((section) => {
         if (section.startsWith('[')) {
-          return [CARRIAGE_RETURN, section];
+          return [NEW_LINE, section];
         }
         return section;
       });
@@ -127,11 +127,7 @@ const speller = nspell(romanianDictionary).personal(
 );
 
 const rawWords = await analyzeAndGet(process.env.VERIFIED_DIR, speller);
-const unknownOrIncorrectWords = without(
-  uniq(rawWords).sort(),
-  CARRIAGE_RETURN,
-  NEW_LINE,
-);
+const unknownOrIncorrectWords = without(uniq(rawWords).sort(), NEW_LINE_TUPLE);
 
 if (!isEmpty(unknownOrIncorrectWords)) {
   console.log(

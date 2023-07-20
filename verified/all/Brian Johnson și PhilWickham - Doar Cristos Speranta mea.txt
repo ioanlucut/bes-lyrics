@@ -1,5 +1,5 @@
 [title]
-Doar Cristos, Speranța mea! {author: {Brian Johnson și PhilWickham}, contentHash: {#7b1a8a}, id: {uTxhLyXe6cYKc4mLNGs2v7}}
+Doar Cristos, Speranța mea! {author: {Brian Johnson și PhilWickham}, contentHash: {260177}, id: {uTxhLyXe6cYKc4mLNGs2v7}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c

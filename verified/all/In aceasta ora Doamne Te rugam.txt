@@ -1,5 +1,5 @@
 [title]
-În această oră, Doamne, Te rugăm {contentHash: {#0a81f2}, id: {vqTeGxBuYKRGzSr2SyNbeV}}
+În această oră, Doamne, Te rugăm {contentHash: {d7b4bc}, id: {vqTeGxBuYKRGzSr2SyNbeV}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,v4,c1.1,c1.2

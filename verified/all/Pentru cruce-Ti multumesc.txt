@@ -1,5 +1,5 @@
 [title]
-Pentru cruce-Ți mulțumesc {contentHash: {#e7e945}, id: {4aGPJbrkSKxxYC2kkU7h2j}}
+Pentru cruce-Ți mulțumesc {contentHash: {32f283}, id: {4aGPJbrkSKxxYC2kkU7h2j}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c,e

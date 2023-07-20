@@ -1,5 +1,5 @@
 [title]
-Fraților, credința noastră s-o păzim! {contentHash: {#fedc20}, id: {bvu5fGZ2fd1JXdDsHDbLGT}}
+Fraților, credința noastră s-o păzim! {contentHash: {11796b}, id: {bvu5fGZ2fd1JXdDsHDbLGT}}
 
 [sequence]
 v1,c,v2,c,v3,c

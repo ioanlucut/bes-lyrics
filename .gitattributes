@@ -1,1 +1,1 @@
-*.txt    eol=crlf diff=astextplain
+*.txt    eol=lf diff=astextplain

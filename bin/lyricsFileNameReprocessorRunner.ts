@@ -28,9 +28,8 @@ const run = async (dir: string) => {
       logFileWithLinkInConsole(filePath);
 
       const title = existingContent
-        .replaceAll('^(\r)\n', '\r\n')
         .replaceAll(SongSection.TITLE, EMPTY_STRING)
-        .split(/\r\n\r\n/gim)
+        .split(/\n\n/gim)
         .filter(Boolean)
         .map(trim)[0];
 

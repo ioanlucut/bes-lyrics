@@ -1,5 +1,5 @@
 [title]
-Ți s-a arătat ce este binele {author: {Cor copii Dynamis}, contentHash: {#11afc7}, id: {46etxn3ZEgLLfZ96F2Er4F}}
+Ți s-a arătat ce este binele {author: {Cor copii Dynamis}, contentHash: {d76aee}, id: {46etxn3ZEgLLfZ96F2Er4F}}
 
 [sequence]
 v1,v2,v3

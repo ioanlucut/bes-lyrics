@@ -1,5 +1,5 @@
 [title]
-Doar pentru Hristos {alternative: {The Cause Of Christ}, author: {Kari Jobe}, contentHash: {#82c5b4}, id: {rx9DnvRrMJCiLCfiV1BUgP}}
+Doar pentru Hristos {author: {Kari Jobe}, alternative: {The Cause Of Christ}, contentHash: {ca4e0a}, id: {rx9DnvRrMJCiLCfiV1BUgP}}
 
 [sequence]
 v1,c,v2,b,v3

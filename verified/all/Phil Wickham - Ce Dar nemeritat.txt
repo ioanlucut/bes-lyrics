@@ -1,5 +1,5 @@
 [title]
-Ce Dar nemeritat {author: {Phil Wickham, Jeremy Riddle și Josh Farro}, contentHash: {#69949a}, id: {nHthZYKc8ivr5Km5APbsqf}}
+Ce Dar nemeritat {author: {Phil Wickham}, contentHash: {7c5282}, id: {nHthZYKc8ivr5Km5APbsqf}}
 
 [sequence]
 v1,c,v2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Veniți să vestim {contentHash: {#8b9a64}, id: {6AkhB4rbNjoJr6jURJgoRP}}
+Veniți să vestim {contentHash: {b5799a}, id: {6AkhB4rbNjoJr6jURJgoRP}}
 
 [sequence]
 v1,c,b,c

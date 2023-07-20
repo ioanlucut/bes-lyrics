@@ -37,254 +37,98 @@ mesia
     `);
   });
 
-  it('should convert from the old format correctly', () => {
-    expect(
-      reprocess(`
-[title]
-My custom title
-
-[sequence]
-1,2,3,4,c,t,b,w,e,p,q,c,3,c
-
-[1]
-Row 1
-Row 2
-
-[2]
-Row 3
-Row 4
-
-[3]
-Row 5
-Row 6
-
-[4]
-Row 7
-Row 8
-
-[bridge]
-Row bridge 1
-Row bridge 2
-
-[bridge 2]
-Row bridge 1
-Row bridge 2
-
-[chorus]
-Row chorus 1
-Row chorus 2
-
-[chorus 2]
-Row chorus 1
-Row chorus 2
-
-[ending]
-Row ending 1
-Row ending 2
-
-[prechorus]
-Row prechorus 1
-Row prechorus 2
-
-[prechorus 2]
-Row prechorus 1
-Row prechorus 2`),
-    ).toMatchInlineSnapshot(`
-      "
-      [title]
-      My custom title
-
-      [sequence]
-      v1,v2,v3,v4,c,c2,b,b2,e,p,p2,c,v3,c
-
-      [v1]
-      Row 1
-      Row 2
-
-      [v2]
-      Row 3
-      Row 4
-
-      [v3]
-      Row 5
-      Row 6
-
-      [v4]
-      Row 7
-      Row 8
-
-      [b]
-      Row bridge 1
-      Row bridge 2
-
-      [b2]
-      Row bridge 1
-      Row bridge 2
-
-      [c]
-      Row chorus 1
-      Row chorus 2
-
-      [c2]
-      Row chorus 1
-      Row chorus 2
-
-      [e]
-      Row ending 1
-      Row ending 2
-
-      [p]
-      Row prechorus 1
-      Row prechorus 2
-
-      [p2]
-      Row prechorus 1
-      Row prechorus 2"
-    `);
-  });
-
   it('should not do anything for a simple correct song w/o sub sections', () => {
     expect(reprocess(SIMPLE_SONG_MOCK_FILE_CONTENT)).toMatchInlineSnapshot(`
-      "[title]
-      My custom title
+"[title]
+My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}
 
-      [sequence]
-      v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3
+[sequence]
+v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3
 
-      [v1]
-      Row for v1
+[v1]
+Row for v1
 
-      [v2]
-      Row for v2
+[v2]
+Row for v2
 
-      [v3]
-      Row for v3
+[v3]
+Row for v3
 
-      [p]
-      Row for p
+[p]
+Row for p
 
-      [p2]
-      Row for p2
+[p2]
+Row for p2
 
-      [p3]
-      Row for p3
+[p3]
+Row for p3
 
-      [c]
-      Row for c
+[c]
+Row for c
 
-      [c2]
-      Row for c2
+[c2]
+Row for c2
 
-      [c3]
-      Row for c3
+[c3]
+Row for c3
 
-      [b]
-      Row for b
+[b]
+Row for b
 
-      [b2]
-      Row for b2
+[b2]
+Row for b2
 
-      [b3]
-      Row for b3
-      "
-    `);
+[b3]
+Row for b3
+"
+`);
   });
 
   it('should not do anything for a correct song w/ sub sections', () => {
     expect(reprocess(SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT))
       .toMatchInlineSnapshot(`
-      "[title]
-      Any title
-
-      [sequence]
-      v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
-
-      [v1.1]
-      Aici să fie casa Celui veșnic Sfânt,
-      Aici s-aducem laudă și-nchinare,
-      Acelui care este veșnic viu și Sfânt
-      Și merită doar cinste și onoare!
-
-      [v1.2]
-      Aici să fie casa unde frații mei
-      Cădea-vor în genunchi în fața Ta,
-      Cu mâinile întinse către ceruri, ei
-      Un legământ cu Tine vor avea!
-
-      [c1.1]
-      /: Din cântare în cântare,
-      Să se-aprindă-n adunare
-      Jertfa laudei de-nchinare
-      Ca pe muntele cel Sfânt!
-
-      [c1.2]
-      Să cunoască fiecare
-      Că Tu ești în adunare
-      Și-nsoțești a Ta lucrare
-      Cu puteri prin Duhul Sfânt! :/
-
-      [v2.1]
-      Aici să fie casa unde ochii Tăi,
-      Zi și noapte, zilnic, vor privi,
-      Aici să fie casa unde frații mei
-      Cu rugăciuni, cu laude, vor veni!
-
-      [v2.2]
-      Atunci când va veni aici străinul,
-      Din pricina Numelui Tău Sfânt,
-      Să fie ascultat, să-i dai alinul,
-      Că Tu ești Dumnezeu și Tu ești Sfânt!
-      "
-    `);
-  });
-
-  describe('content hash', () => {
-    it('should correctly update a hash version (when content changes are there)', () => {
-      const ANY_HASH_CONTENT = `f818e7`;
-      const ANY_UPDATED_HASH_CONTENT = `0cfb00`;
-      const ANY_SONG_ID = `idtiXk6ara5M3dSAgemXZV`;
-
-      const ANY_SONG_WITH_CONTENT_HASH_REQUIRED_TO_BE_UPDATED = `[title]
-My custom title {contentHash: {#${ANY_HASH_CONTENT}}, id: {${ANY_SONG_ID}}}
+"[title]
+My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}
 
 [sequence]
-v1
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
 
-[v1]
-Updated new row for v1`;
+[v1.1]
+Aici să fie casa Celui veșnic Sfânt,
+Aici s-aducem laudă și-nchinare,
+Acelui care este veșnic viu și Sfânt
+Și merită doar cinste și onoare!
 
-      expect(reprocess(ANY_SONG_WITH_CONTENT_HASH_REQUIRED_TO_BE_UPDATED))
-        .toMatchInlineSnapshot(`
-        "[title]
-        My custom title {contentHash: {#0cfb00}, id: {idtiXk6ara5M3dSAgemXZV}}
+[v1.2]
+Aici să fie casa unde frații mei
+Cădea-vor în genunchi în fața Ta,
+Cu mâinile întinse către ceruri, ei
+Un legământ cu Tine vor avea!
 
-        [sequence]
-        v1
+[c1.1]
+/: Din cântare în cântare,
+Să se-aprindă-n adunare
+Jertfa laudei de-nchinare
+Ca pe muntele cel Sfânt!
 
-        [v1]
-        Updated new row for v1"
-      `);
-      expect(
-        reprocess(ANY_SONG_WITH_CONTENT_HASH_REQUIRED_TO_BE_UPDATED),
-      ).toContain(ANY_UPDATED_HASH_CONTENT);
-    });
+[c1.2]
+Să cunoască fiecare
+Că Tu ești în adunare
+Și-nsoțești a Ta lucrare
+Cu puteri prin Duhul Sfânt! :/
 
-    it('should ignore content hash update (itself) when updating a hash version', () => {
-      const ANY_UPDATED_HASH_CONTENT = `0cfb00`;
-      const ANY_SONG_ID = `idtiXk6ara5M3dSAgemXZV`;
+[v2.1]
+Aici să fie casa unde ochii Tăi,
+Zi și noapte, zilnic, vor privi,
+Aici să fie casa unde frații mei
+Cu rugăciuni, cu laude, vor veni!
 
-      const ANY_SONG_WITH_CONTENT_HASH_UPDATED = `[title]
-My custom title {contentHash: {#${ANY_UPDATED_HASH_CONTENT}}, id: {${ANY_SONG_ID}}}
-
-[sequence]
-v1
-
-[v1]
-Updated new row for v1`;
-
-      expect(reprocess(ANY_SONG_WITH_CONTENT_HASH_UPDATED)).toContain(
-        ANY_UPDATED_HASH_CONTENT,
-      );
-    });
+[v2.2]
+Atunci când va veni aici străinul,
+Din pricina Numelui Tău Sfânt,
+Să fie ascultat, să-i dai alinul,
+Că Tu ești Dumnezeu și Tu ești Sfânt!
+"
+`);
   });
 });

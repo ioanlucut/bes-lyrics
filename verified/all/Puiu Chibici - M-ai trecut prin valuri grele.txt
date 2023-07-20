@@ -1,5 +1,5 @@
 [title]
-M-ai trecut prin valuri grele {author: {Puiu Chibici}, contentHash: {#888a5e}, id: {sDsEGD8pVQbuPW8UF9sxvB}}
+M-ai trecut prin valuri grele {author: {Puiu Chibici}, contentHash: {c04642}, id: {sDsEGD8pVQbuPW8UF9sxvB}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2

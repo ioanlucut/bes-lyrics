@@ -1,5 +1,5 @@
 [title]
-Cu inima și gura mea {contentHash: {#2aa7b8}, id: {1YQR6E6D2sajkux1QbonUU}}
+Cu inima și gura mea {contentHash: {fec1f1}, id: {1YQR6E6D2sajkux1QbonUU}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2

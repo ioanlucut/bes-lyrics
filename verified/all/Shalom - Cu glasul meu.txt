@@ -1,5 +1,5 @@
 [title]
-Cu glasul meu {author: {Shalom}, contentHash: {#5b352d}, id: {j6wadwksh5XVpU9FBm6pT2}}
+Cu glasul meu {author: {Shalom}, contentHash: {04f87e}, id: {j6wadwksh5XVpU9FBm6pT2}}
 
 [sequence]
 v1.1,v1.2,c,v2,c

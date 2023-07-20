@@ -1,5 +1,5 @@
 [title]
-Curând Domnul slavei va reveni {contentHash: {#a39ccc}, id: {8LvEkw59QVoUoeD4bteNji}}
+Curând Domnul slavei va reveni {contentHash: {5f9cbd}, id: {8LvEkw59QVoUoeD4bteNji}}
 
 [sequence]
 v1,c,v2,c,v3,c

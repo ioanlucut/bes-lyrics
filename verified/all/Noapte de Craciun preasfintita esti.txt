@@ -1,5 +1,5 @@
 [title]
-Noapte de Crăciun, preasfințită ești {contentHash: {#f2f376}, id: {o8Ta2VuEdiKe6ShbZvCjC6}}
+Noapte de Crăciun, preasfințită ești {contentHash: {ce9585}, id: {o8Ta2VuEdiKe6ShbZvCjC6}}
 
 [sequence]
 v1,c,v2,c,v3,c

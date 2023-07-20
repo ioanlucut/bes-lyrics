@@ -1,5 +1,5 @@
 [title]
-Doamne, ești bun cu min’ {author: {Cor copii Dynamis}, contentHash: {#2e1db3}, id: {gDw7uS9enyBSRkFhkv8N48}}
+Doamne, ești bun cu min’ {author: {Cor copii Dynamis}, contentHash: {26f551}, id: {gDw7uS9enyBSRkFhkv8N48}}
 
 [sequence]
 c,v1,c2,c,v2,e,c

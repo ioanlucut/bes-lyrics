@@ -1,5 +1,5 @@
 [title]
-În Tine mă încred {author: {Alin Timofte}, contentHash: {#263c5b}, id: {kbw8gDgK9qiwziEJPenShq}}
+În Tine mă încred {author: {Alin Timofte}, contentHash: {556c3f}, id: {kbw8gDgK9qiwziEJPenShq}}
 
 [sequence]
 v1,c,v2,c2,c

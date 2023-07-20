@@ -1,5 +1,5 @@
 [title]
-Când El vorbește, pământul se clatină {contentHash: {#c04af0}, id: {3pZEH7eFi5YYUZgZXD2K7j}}
+Când El vorbește, pământul se clatină {contentHash: {1d257c}, id: {3pZEH7eFi5YYUZgZXD2K7j}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c

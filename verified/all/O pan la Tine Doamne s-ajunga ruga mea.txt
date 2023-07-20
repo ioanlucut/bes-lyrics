@@ -1,5 +1,5 @@
 [title]
-O, pân’ la Tine, Doamne, s-ajungă ruga mea {contentHash: {#249c6b}, id: {wgkMg48sxuxkCDQStfvJDT}}
+O, pân’ la Tine, Doamne, s-ajungă ruga mea {contentHash: {0006e1}, id: {wgkMg48sxuxkCDQStfvJDT}}
 
 [sequence]
 v1,v2,v3,v4

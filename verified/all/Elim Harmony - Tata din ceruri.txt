@@ -1,5 +1,5 @@
 [title]
-Tată din ceruri {author: {Elim Harmony}, contentHash: {#66283c}, id: {3AggKppCRz4fUsRm8U5qYT}}
+Tată din ceruri {author: {Elim Harmony}, contentHash: {e20b7e}, id: {3AggKppCRz4fUsRm8U5qYT}}
 
 [sequence]
 v1,c,v2,c

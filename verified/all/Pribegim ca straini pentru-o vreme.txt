@@ -1,5 +1,5 @@
 [title]
-Pribegim ca străini pentru-o vreme {contentHash: {#830ce0}, id: {aayiT2gyKUzQHjTVdE25b9}}
+Pribegim ca străini pentru-o vreme {contentHash: {883950}, id: {aayiT2gyKUzQHjTVdE25b9}}
 
 [sequence]
 v1,c,v2,c,v3,c

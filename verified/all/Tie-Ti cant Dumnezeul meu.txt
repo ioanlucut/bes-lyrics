@@ -1,5 +1,5 @@
 [title]
-Ție-Ți cânt, Dumnezeul meu {contentHash: {#db530a}, id: {4X7aivxrAbDbHL7yCvg6ZW}}
+Ție-Ți cânt, Dumnezeul meu {contentHash: {5bc4ef}, id: {4X7aivxrAbDbHL7yCvg6ZW}}
 
 [sequence]
 v1,v2,v3,v4
