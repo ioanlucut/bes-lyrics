@@ -1,14 +1,14 @@
 [title]
-Ai ales piroane și spini {contentHash: {a9f4ed}, id: {sJ5MB61Q5RtW5AuhBJjgvx}}
+Ai ales piroane și spini {contentHash: {0d4fa3}, id: {sJ5MB61Q5RtW5AuhBJjgvx}}
 
 [sequence]
 v1,c,v2,b,b2
 
 [v1]
 Judecata suverană s-a-ntâlnit
-Cu iubirea dragostei fără sfârșit,
+Cu iubirea dragostei făr’ de sfârșit,
 Pe o cruce într-o jertfă de Sfânt Miel,
-Să pot alege al meu destin pentru etern.
+Să pot alege-al meu destin pentru etern.
 
 [c]
 /: Ai ales piroane și spini,
@@ -20,7 +20,7 @@ Să pot alege și eu acum
 Omule, ești liber cui vrei să-i slujești,
 Păcatului și celui rău, sau să primești
 Pe Isus și viața veșnică în dar
-Dragostea Lui Dumnezeu fără hotar.
+Dragostea Lui Dumnezeu făr’ de hotar.
 
 [b]
 Decât să trăiești fără mine,

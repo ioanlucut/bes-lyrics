@@ -1,11 +1,11 @@
 [title]
-Pe munte am căminul {author: {Ahava}, contentHash: {fe483a}, id: {t76hcfJDC5vVBU5n1KaVCg}}
+Pe munte am căminul {author: {Ahava}, contentHash: {5b23ce}, id: {t76hcfJDC5vVBU5n1KaVCg}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Când aud în depărtare luptă, zgomot mare.
+Când aud în depărtare luptă, zgomot mare,
 Știu atunci că mulți sunt robi păcatului viclean.
 Frica și-ndoiala în zadar își fac chemarea,
 Nu mă voi întoarce din Canaan.
@@ -21,7 +21,7 @@ Căci eu locuiesc în Canaan.
 
 [v2]
 Jos, furtuna și-ndoiala lumea o frământă.
-Omenirea e în luptă cu vechi dușman.
+Omenirea e în luptă cu vechiul dușman.
 Iar acolo-i strălucire, liniște și pace,
 Eu pe veci sunt sigur în Canaan.
 

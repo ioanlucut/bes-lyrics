@@ -1,5 +1,5 @@
 [title]
-Voi învia {author: {Adi Lup}, contentHash: {3f51aa}, id: {9vy9M168Fr1S7EEgQJeS2X}}
+Voi învia {author: {Adi Lup}, contentHash: {4043cc}, id: {9vy9M168Fr1S7EEgQJeS2X}}
 
 [sequence]
 v1,c,v2,c
@@ -13,7 +13,7 @@ N-aș putea vreodat’ să Îi uit dragostea,
 Ce-o simt și-acuma în inima mea!
 
 [c]
-/: Voi învia, prin Sfânt Sângele Mielului!
+/: Voi învia, prin sfânt sângele Mielului!
 Voi învia, când va veni pe nori!
 Când privește-n min’, El vede rodul Crucii,
 De-aceea-n viața mea, Îi voi cânta! :/
@@ -22,6 +22,6 @@ De-aceea-n viața mea, Îi voi cânta! :/
 Nu vrei tu ca să-L primești pe Isus?
 Nu vrei tu să guști din pacea Sa?
 El e-aici și stă cu mâinile întinse...
-Poți să te decizi și să spui: „Da!”
+Așteptând să te decizi și să spui: „Da!”
 Toată viață ta El o va schimba,
-Predându-ți bucuria de-a cânta.
+Rredându-ți bucuria de-a cânta.

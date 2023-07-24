@@ -1,5 +1,5 @@
 [title]
-Ai valoare-n ochii Lui Dumnezeu {contentHash: {8ea427}, id: {mYZpjEjQVsczdZS7kaaFzy}}
+Ai valoare-n ochii Lui Dumnezeu {contentHash: {40f52d}, id: {mYZpjEjQVsczdZS7kaaFzy}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -9,7 +9,7 @@ Dacă sufletul îți e apăsat
 De povara grea și de păcat,
 Simți condamnare, dorești iertare.
 Dacă prin decizii ai dărâmat
-În suflet pacea și credința au plecat
+Din suflet pacea și credința au plecat
 Lacrimi sunt multe, nădejdi pierdute.
 
 [c]
@@ -24,7 +24,7 @@ Niciodată Domnul nu l-a certat
 Prin pocăință, El l-a iertat.
 Firimituri zdrobite Domnul și-acum
 În coșul dragostei ridică din drum,
-Cu îndurare îți dă iertare.
+Cu îndurare, îți dă iertare.
 
 [b]
 Oricine-ai fi, tu ai valoare!

@@ -1,5 +1,5 @@
 [title]
-Dragostea dintâi {author: {Adi Kovaci}, contentHash: {8cd960}, id: {fB4QiaLhNnGxwJQSfU6MDf}}
+Dragostea dintâi {author: {Adi Kovaci}, contentHash: {bf10e9}, id: {fB4QiaLhNnGxwJQSfU6MDf}}
 
 [sequence]
 v1,c,v2,c
@@ -16,12 +16,12 @@ Ești cel mai prețios.
 
 [c]
 Mă-ntorc din nou la Tine,
-Tu ești dragostea mea cea dintâi.
+Tu ești dragostea mea dintâi.
 Lumea nu va putea să umple golul din inima mea,
 Inima mea, e doar a Ta!
 Nu aparține altcuiva,
 Mă-ntorc din nou la Tine,
-Tu ești dragostea mea cea dintâi.
+Tu ești dragostea mea dintâi.
 
 [v2]
 Îți predau viața mea

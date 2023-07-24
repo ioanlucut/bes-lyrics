@@ -1,5 +1,5 @@
 [title]
-Te cunosc {author: {Adi Kovaci}, contentHash: {563ffd}, id: {xrHkHLYZDwAi3NTdUqxCwP}}
+Te cunosc {author: {Adi Kovaci}, contentHash: {6b3450}, id: {xrHkHLYZDwAi3NTdUqxCwP}}
 
 [sequence]
 v1,p,v2,c,c2
@@ -11,7 +11,7 @@ De ce nu vrei s-asculți,
 Când ce îți spun, e spre binele tău?
 
 [p]
-Te-ascunzi dar, Mâna Mea te-a creat,
+Te-ascunzi dar, mâna Mea te-a creat,
 Nu ești o întâmplare!
 Da, te văd și te chem înapoi,
 Vino la Mine!
@@ -20,7 +20,7 @@ Vino la Mine!
 Tu nu mai vrei să crezi
 În Adevăr, în Fiul Meu...
 Ești creat pentru mai mult
-Decât ce vezi jos pe pământ!
+Decât ce vezi, jos pe pământ!
 
 [c]
 Te-ascunzi, dar Mie îmi aparții,

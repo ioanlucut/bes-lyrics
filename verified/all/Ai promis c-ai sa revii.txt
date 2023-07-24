@@ -1,11 +1,11 @@
 [title]
-Ai promis c-ai să revii {contentHash: {42e53b}, id: {2qKunHxG3XvFnEKHmbiLSa}}
+Ai promis c-ai să revii {contentHash: {8938e1}, id: {2qKunHxG3XvFnEKHmbiLSa}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Uniți în templul Tău Sfânt ne-am adunat, Isuse, Te chemăm!
+Uniți în templul Tău sfânt ne-am adunat, Isuse, Te chemăm!
 Dorim a Ta prezență, să fie în permanență între noi.
 Să fii cu noi pe cale, chiar și în încercare să ne ții
 Curați pe calea Ta, până la revenirea Ta

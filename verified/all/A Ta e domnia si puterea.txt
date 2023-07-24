@@ -1,5 +1,5 @@
 [title]
-A Ta e domnia și puterea {contentHash: {62b0eb}, id: {akNSpndFuNmTry61pQDEeG}}
+A Ta e domnia și puterea {contentHash: {bbef58}, id: {akNSpndFuNmTry61pQDEeG}}
 
 [sequence]
 v1,p,c,v1,p,c
@@ -8,11 +8,11 @@ v1,p,c,v1,p,c
 A Ta e domnia și puterea
 Și gloria în veci e a Ta!
 Cer și pământ adoră
-Numele Tău Sfânt.
+Numele Tău sfânt.
 Moartea e-nfrântă, cerul cântă
-Și Slava în veci e a Ta,
+Și slava în veci e a Ta,
 Nu se compară nimic
-Cu numele Tău Sfânt.
+Cu numele Tău sfânt.
 
 [p]
 Domn peste domni,
@@ -24,5 +24,5 @@ Veșnic Dumnezeu,
 Și pământul întreg Te va-nălța,
 Pentru totdeauna,
 Numele Tău sfânt va fi lumină mereu
-Fiindcă Slava e a Ta,
+Fiindcă slava e a Ta,
 Pentru totdeauna, slava e a Ta!

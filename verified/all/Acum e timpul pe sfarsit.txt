@@ -1,5 +1,5 @@
 [title]
-Acum e timpul pe sfârșit {contentHash: {5ce199}, id: {tJrKHbg25cCtAD1dgsJngj}}
+Acum e timpul pe sfârșit {contentHash: {31064a}, id: {tJrKHbg25cCtAD1dgsJngj}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -15,7 +15,7 @@ Deși suntem printre străini
 [c]
 Și iubirea Ta nemărginită să ne-o dai,
 Și credința, pacea, care tinde înspre rai!
-Fă să ne iubim în viața noastră pe Pământ,
+Fă să ne iubim în viața noastră pe pământ,
 Isus iubit, pân’ la mormânt!
 
 [v2]
@@ -36,7 +36,7 @@ Să nu fie ură-ntre noi
 
 [v4]
 O, Grădinar ceresc și sfânt,
-Mai lasă pomul pe Pământ
+Mai lasă pomul pe pământ
 Căci poate anu-acesta o s-aducă rod.
 Îl voi săpa și-l voi uda
 Și-un an întreg m-oi’ ocupa,

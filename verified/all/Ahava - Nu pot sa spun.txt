@@ -1,5 +1,5 @@
 [title]
-Nu pot să spun {author: {Ahava}, contentHash: {9fc7d0}, id: {gQdMfKVE7t9RGwu49AaNFr}}
+Nu pot să spun {author: {Ahava}, contentHash: {5eebd8}, id: {gQdMfKVE7t9RGwu49AaNFr}}
 
 [sequence]
 v1,c,v2,c,e
@@ -22,7 +22,7 @@ Ca să fii pe veci salvat.
 
 [v2]
 Nu pot să spun, prieten drag, ce mult a suferit
-Când ai strigat: Să fie răstignit!
+Când ai strigat: „Să fie răstignit!”
 Dar pot să spun că-n jertfa Sa poți fi răscumparat
 Și de păcat poți fi eliberat.
 

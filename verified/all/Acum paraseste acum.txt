@@ -1,5 +1,5 @@
 [title]
-Acum părăsește, acum {contentHash: {804b71}, id: {nDiQPbqWWbtBzdAySPdUDA}}
+Acum părăsește, acum {contentHash: {df450d}, id: {nDiQPbqWWbtBzdAySPdUDA}}
 
 [sequence]
 v1,c,v2,c
@@ -12,7 +12,7 @@ Ne-ncetat va lovi răul din viața ta.
 
 [c]
 /: Vino la Isus, viață aduce,
-Din moarte El a înviat.
+Din moarte, El a înviat.
 Pacea, iertarea și-n inima ta
 Suferința nu va exista. :/
 

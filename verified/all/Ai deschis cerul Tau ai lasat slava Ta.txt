@@ -1,5 +1,5 @@
 [title]
-Ai deschis cerul Tău, ai lăsat slava Ta {contentHash: {a2fd84}, id: {vHNMkvx84838YFwgLjMnHk}}
+Ai deschis cerul Tău, ai lăsat slava Ta {contentHash: {4732e0}, id: {vHNMkvx84838YFwgLjMnHk}}
 
 [sequence]
 v1,c1.1,c1.2,v1,c1.1,c1.2
@@ -20,4 +20,4 @@ Pentru zâmbetul Tău înscris printre stele,
 Mângâierea Ta în clipele grele,
 Pentru dragostea Ta revărsată în mine
 Mă-nchin, recunosc că ești Domn
-Și rostesc: mulțumesc!
+Și rostesc: „mulțumesc!”

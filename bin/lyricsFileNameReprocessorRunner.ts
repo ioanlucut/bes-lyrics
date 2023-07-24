@@ -26,8 +26,9 @@ const run = async (dir: string) => {
       logProcessingFile(fileName, 'file name');
       logFileWithLinkInConsole(filePath);
 
-
-      const newFileName = lyricsFileNameReprocessor.deriveFromTitle(getRawTitleBySong(existingContent));
+      const newFileName = lyricsFileNameReprocessor.deriveFromTitle(
+        getRawTitleBySong(existingContent),
+      );
       const hasNoChange = isEqual(fileName, newFileName);
 
       if (hasNoChange) {

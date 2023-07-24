@@ -1,12 +1,12 @@
 [title]
-Nu pot să știu {author: {Adi Kovaci}, contentHash: {546b89}, id: {nCxiVcSW3KgtaKfmnweEnc}}
+Nu pot să știu {author: {Adi Kovaci}, contentHash: {d73875}, id: {nCxiVcSW3KgtaKfmnweEnc}}
 
 [sequence]
 v1,c,v2,c,e
 
 [v1]
 Eu sunt un om, cu slăbiciuni prea multe,
-Dar am un Domn care e Sfânt
+Dar am un Domn care e sfânt
 Și când mă rog, atunci, El mă ascultă
 Și tot mereu e cu mine.
 

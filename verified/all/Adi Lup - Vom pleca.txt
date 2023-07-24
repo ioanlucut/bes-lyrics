@@ -1,5 +1,5 @@
 [title]
-Vom pleca {author: {Adi Lup}, contentHash: {149892}, id: {oRC3Q2fUerBSxXZDb4gR89}}
+Vom pleca {author: {Adi Lup}, contentHash: {432c28}, id: {oRC3Q2fUerBSxXZDb4gR89}}
 
 [sequence]
 v1,c,v2,c
@@ -14,7 +14,7 @@ Că-n curând, noi spre cer vom pleca!”
 /: Vom pleca, da, noi vom pleca,
 Unde n-or mai fi dureri, nici necaz,
 Bucuroși în slava Sa,
-Slava Lui, noi vom pleca! :/
+În slava Lui, noi vom pleca! :/
 
 [v2]
 Nu uita că-n curând toate se vor sfârși,

@@ -1,5 +1,5 @@
 [title]
-Acel ce pururi are grijă {contentHash: {ae563a}, id: {dSnn6EiqY6JY1ezkrcrDEN}}
+Acel ce pururi are grijă {contentHash: {cd6d8c}, id: {dSnn6EiqY6JY1ezkrcrDEN}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c
@@ -31,11 +31,11 @@ Comoara veșnicei vieți.
 [v4]
 El știe când e de mustrare
 Nevoie spre-ndreptarea ta
-El știe flacăra-ncercării,
+El știe-n flacăra-ncercării,
 Cât poți să stai și când s-o ia.
 
 [v5]
-Să-I mulțumești de tot ce Domnul
+Să mulțumești de tot ce Domnul
 Îți dă-n viață de-orice fel,
 Pe El Îl ai când ai credința
 Nădejdea și iubirea-n El.

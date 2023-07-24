@@ -1,5 +1,5 @@
 [title]
-O, de-aș avea eu limbi o mie {author: {Accappella}, contentHash: {389fb0}, id: {fTZhWkScPs81e8xSsk7aMa}}
+O, de-aș avea eu limbi o mie {author: {Accappella}, contentHash: {21387f}, id: {fTZhWkScPs81e8xSsk7aMa}}
 
 [sequence]
 v1,v2,v3,v4
@@ -16,7 +16,7 @@ Cu mine, fiul cel pierdut. :/
 O, de-ar suna glasul meu tare,
 Să se audă pân’ la cer!
 Căci sângele-mi ca-ntr-o vâltoare,
-Se zbate Doamne când Te cer.
+Se zbate, Doamne, când Te cer.
 /: De-ar fi toată suflarea mea,
 Un imn spre închinarea Ta! :/
 
@@ -24,8 +24,8 @@ Un imn spre închinarea Ta! :/
 De ce tăceți, puteri ale mele?
 Mai sus, mai sus, zburați mai sus!
 Aduceți veșnică cinstire
-Și mulțumire Lui Isus.
-/: Și sufletul, și trupul meu
+Și mulțumire lui Isus.
+/: Și sufletul și trupul meu
 Servească-n veci pe Dumnezeu. :/
 
 [v4]

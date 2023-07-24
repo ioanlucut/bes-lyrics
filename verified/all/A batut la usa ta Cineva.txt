@@ -1,5 +1,5 @@
 [title]
-A bătut la ușa ta Cineva {contentHash: {5f3dd8}, id: {cixiKhqcyTtpAp2gQ2ZZFt}}
+A bătut la ușa ta Cineva {contentHash: {400f8b}, id: {cixiKhqcyTtpAp2gQ2ZZFt}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -39,7 +39,7 @@ Ultima chemare. :/
 [v5]
 /: A bătut la ușa ta Cineva.
 O, deschide-I, nu mai sta! :/
-Nu-L lăsa să plece trist,
+Nu-L lăsa să plece trist!
 Poate niciodată
 /: Mâna Lui, la ușa ta,
 N-are să mai bată. :/

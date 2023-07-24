@@ -1,5 +1,5 @@
 [title]
-Doamne, mă predau {author: {Adi Lup}, contentHash: {787f7a}, id: {7a2S6gZd5jecpWLNSbib6b}}
+Doamne, mă predau {author: {Adi Lup}, contentHash: {f836e2}, id: {7a2S6gZd5jecpWLNSbib6b}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -17,7 +17,7 @@ Spală-mă în sângele-Ți sfânt
 Să Te pot urma. :/
 
 [v2]
-Mâna tare mă conduce,
+Mâna Ta de mă conduce,
 Mă simt fericit mereu,
 Sigur, ea în cer mă duce,
 Sus, la Domnul, Tatăl meu.
@@ -25,7 +25,7 @@ Sus, la Domnul, Tatăl meu.
 [v3]
 Doamne, mă predau
 Cu ființa mea,
-Spală-mă în Sângele-Ți sfânt,
+Spală-mă în sângele-Ți sfânt,
 Să Te pot urma.
 
 [v4]
