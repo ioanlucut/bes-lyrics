@@ -27,7 +27,7 @@ import {
   CHARS_SEPARATORS,
   ERROR_CODE,
   getSongInSectionTuples,
-  getTitleBySections,
+  getTitleByRawSection,
   NEW_LINE,
   NEW_LINE_TUPLE,
   SongSection,
@@ -86,7 +86,7 @@ const analyzeAndGet = async (dir: string, speller: NSpell) => {
           const sectionToBeVerified =
             sectionKey === SongSection.TITLE
               ? // Ignore the meta data
-                (first(getTitleBySections(sectionContent)) as string)
+                (first(getTitleByRawSection(sectionContent)) as string)
               : sectionContent;
 
           sectionToBeVerified

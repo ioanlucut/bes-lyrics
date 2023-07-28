@@ -6,7 +6,7 @@ import recursive from 'recursive-readdir';
 import chalk from 'chalk';
 import {
   ERROR_CODE,
-  getHashContentFromSong,
+  getMetaSectionsFromTitle,
   getSongInSectionTuples,
   logFileWithLinkInConsole,
   logProcessingFile,
@@ -35,7 +35,9 @@ const runValidationForDir = async (dir: string) => {
           `The ${SongMeta.CONTENT_HASH} should be defined.`,
         );
 
-        return getHashContentFromSong(maybeTitle);
+        return getMetaSectionsFromTitle(
+          maybeTitle,
+        )[SongMeta.CONTENT_HASH];
       }),
     (current, index, iteratee) => includes(iteratee, current, index + 1),
   );

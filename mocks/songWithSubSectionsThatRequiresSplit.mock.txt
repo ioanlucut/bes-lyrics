@@ -2,7 +2,7 @@
 My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}
 
 [sequence]
-c,v1,c,v2,c,v3,c
+c,v1,c,v2
 
 [c]
 /: Zidurile ’nalte de la Ierihon,
@@ -21,10 +21,4 @@ Să fie nimicit.
 Israel nu s-a luptat,
 Într-un glas cu toții au strigat.
 În Dumnezeu ei s-au încrezut
-Și zidurile-au căzut.
-
-[v3]
-N-am dărâmat noi zidurile,
-Am strigat: „O, Doamne”!
-În Domnul noi ne-am încrezut
 Și zidurile-au căzut.

@@ -1,4 +1,12 @@
-import { cloneDeep, flatten, isEqual, range, size, trim } from 'lodash-es';
+import {
+  cloneDeep,
+  first,
+  flatten,
+  isEqual,
+  range,
+  size,
+  trim,
+} from 'lodash-es';
 import {
   COLON,
   COMMA,
@@ -16,6 +24,72 @@ import {
   getCharWithoutMarkup,
   withMetaMarkup,
 } from './core.js';
+
+const getContentAndSequenceSplitInSubSections = (
+  songSectionContent: string,
+  verseSongSectionIdentifierWithoutMarkup: string,
+  existingSequence: string[],
+) => {
+  const subSections = songSectionContent
+    .split(DOUBLE_LINE_TUPLE)
+    .filter(Boolean);
+  const subSectionSequence = [] as string[];
+
+  const [songSectionWithoutQualifier, identifierAsString] =
+    verseSongSectionIdentifierWithoutMarkup
+      .split(new RegExp(`(\\D+)(.*)`))
+      .filter(Boolean);
+
+  const updatedSongSectionContent = flatten(
+    range(0, size(subSections)).map((index) => {
+      const subSectionIdentifier = `${songSectionWithoutQualifier}${convertSequenceToNumber(
+        identifierAsString,
+      )}${DOT}${index + 1}`;
+
+      subSectionSequence.push(subSectionIdentifier);
+
+      return [getCharWithMarkup(subSectionIdentifier), subSections[index]].join(
+        NEW_LINE_TUPLE,
+      );
+    }),
+  ).join(DOUBLE_LINE_TUPLE);
+
+  const updatedSequence = existingSequence.map((sequenceIteratee) => {
+    if (isEqual(sequenceIteratee, verseSongSectionIdentifierWithoutMarkup)) {
+      return subSectionSequence.join(COMMA);
+    }
+
+    return sequenceIteratee;
+  });
+
+  return { updatedSequence, updatedSongSectionContent };
+};
+
+const getContentAndSequenceUnSplit = (
+  songSectionContent: string,
+  verseSongSectionIdentifierWithoutMarkup: string,
+  existingSequence: string[],
+) => {
+  const identifierWithoutMarkup = first(
+    verseSongSectionIdentifierWithoutMarkup.split(DOT),
+  ) as string;
+  const identifierWitMarkup = getCharWithMarkup(identifierWithoutMarkup);
+
+  const updatedSongSectionContent = [
+    identifierWitMarkup,
+    songSectionContent,
+  ].join(NEW_LINE_TUPLE);
+
+  const updatedSequence = existingSequence.map((sequenceIteratee) => {
+    if (isEqual(sequenceIteratee, verseSongSectionIdentifierWithoutMarkup)) {
+      return identifierWithoutMarkup;
+    }
+
+    return sequenceIteratee;
+  });
+
+  return { updatedSequence, updatedSongSectionContent };
+};
 
 /**
  * Reprocess the content of a song by printing the basic structure.
@@ -42,51 +116,61 @@ export const print = ({
     verseSongSectionIdentifier: string,
   ) => {
     const songSectionContent = sectionsMap[verseSongSectionIdentifier].content;
+    const verseSongSectionIdentifierWithoutMarkup = getCharWithoutMarkup(
+      verseSongSectionIdentifier,
+    );
     const hasContentThatCouldBeSubSections =
       songSectionContent.includes(DOUBLE_LINE_TUPLE);
 
+    // ---
+    // If it should be un-split
+    if (
+      !hasContentThatCouldBeSubSections &&
+      isEqual(
+        size(
+          newSequence.filter((sequenceIteratee) =>
+            sequenceIteratee.includes(
+              `${first(
+                verseSongSectionIdentifierWithoutMarkup.split(DOT),
+              )}${DOT}`,
+            ),
+          ),
+        ),
+        1,
+      )
+    ) {
+      const { updatedSongSectionContent, updatedSequence } =
+        getContentAndSequenceUnSplit(
+          songSectionContent,
+          verseSongSectionIdentifierWithoutMarkup,
+          newSequence,
+        );
+
+      // As a side effect, Update the sequence
+      newSequence = updatedSequence;
+
+      return updatedSongSectionContent;
+    }
+
+    // ---
+    // If no split is required
     if (!hasContentThatCouldBeSubSections) {
       return [verseSongSectionIdentifier, songSectionContent].join(
         NEW_LINE_TUPLE,
       );
     }
 
-    const subSections = songSectionContent
-      .split(DOUBLE_LINE_TUPLE)
-      .filter(Boolean);
-    const subSectionSequence = [] as string[];
-    const [songSectionWithoutQualifier, identifierAsString] =
-      getCharWithoutMarkup(verseSongSectionIdentifier)
-        .split(new RegExp(`(\\D+)(.*)`))
-        .filter(Boolean);
-
-    const updatedSongSectionContent = flatten(
-      range(0, size(subSections)).map((index) => {
-        const subSectionIdentifier = `${songSectionWithoutQualifier}${convertSequenceToNumber(
-          identifierAsString,
-        )}${DOT}${index + 1}`;
-        subSectionSequence.push(subSectionIdentifier);
-
-        return [
-          getCharWithMarkup(subSectionIdentifier),
-          subSections[index],
-        ].join(NEW_LINE_TUPLE);
-      }),
-    ).join(DOUBLE_LINE_TUPLE);
-
     // ---
-    // As side effect, update the sequence
-    newSequence = newSequence.map((existingSequence) => {
-      if (
-        isEqual(
-          existingSequence,
-          getCharWithoutMarkup(verseSongSectionIdentifier),
-        )
-      ) {
-        return subSectionSequence.join(COMMA);
-      }
-      return existingSequence;
-    });
+    // If content should be split
+    const { updatedSongSectionContent, updatedSequence } =
+      getContentAndSequenceSplitInSubSections(
+        songSectionContent,
+        verseSongSectionIdentifierWithoutMarkup,
+        newSequence,
+      );
+
+    // As a side effect, Update the sequence
+    newSequence = updatedSequence;
 
     return updatedSongSectionContent;
   };

@@ -28,14 +28,25 @@ export const SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT = fs
   )
   .toString();
 
-export const SONG_WITH_SUB_SECTIONS_THAT_REQUIRE_EXTRA_SPLIT_MOCK_FILE_NAME =
-  'songWithSubSectionsThatRequireExtraSplit.mock.txt';
-export const SONG_WITH_SUB_SECTIONS_THAT_REQUIRE_EXTRA_SPLIT_MOCK_FILE_CONTENT =
+export const SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_SPLIT_MOCK_FILE_NAME =
+  'songWithSubSectionsThatRequiresSplit.mock.txt';
+export const SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_SPLIT_MOCK_FILE_CONTENT = fs
+  .readFileSync(
+    path.resolve(
+      __dirname,
+      SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_SPLIT_MOCK_FILE_NAME,
+    ),
+  )
+  .toString();
+
+export const SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_UN_SPLIT_MOCK_FILE_NAME =
+  'songWithSubSectionsThatRequiresUnSplit.mock.txt';
+export const SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_UN_SPLIT_MOCK_FILE_CONTENT =
   fs
     .readFileSync(
       path.resolve(
         __dirname,
-        SONG_WITH_SUB_SECTIONS_THAT_REQUIRE_EXTRA_SPLIT_MOCK_FILE_NAME,
+        SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_UN_SPLIT_MOCK_FILE_NAME,
       ),
     )
     .toString();

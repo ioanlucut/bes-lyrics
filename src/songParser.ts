@@ -8,7 +8,6 @@ import {
   getTitleWithoutMeta,
   getUniqueId,
 } from './core.js';
-import { verifyStructure } from './contentStructureValidator.js';
 import { COMMA, EMPTY_STRING } from './constants.js';
 
 /**
@@ -19,11 +18,6 @@ import { COMMA, EMPTY_STRING } from './constants.js';
  * @param songAsString The content of the song
  */
 export const parse = (songAsString: string) => {
-  assert.ok(
-    verifyStructure(songAsString),
-    'The structure of the song is invalid',
-  );
-
   const sectionTuples = getSongInSectionTuples(songAsString);
 
   const songAST = {
@@ -59,6 +53,8 @@ export const parse = (songAsString: string) => {
 
       songAST.id = id || getUniqueId();
       songAST.author = author;
+
+      // Just a basic one, but should be updated after any potential changes
       songAST.contentHash = computeUniqueContentHash(
         songAsString.replaceAll(contentHash, EMPTY_STRING),
       );

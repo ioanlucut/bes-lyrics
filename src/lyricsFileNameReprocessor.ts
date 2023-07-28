@@ -1,7 +1,7 @@
 import { trim } from 'lodash-es';
 import { COLON, COMMA, EMPTY_STRING, TXT_EXTENSION } from './constants.js';
 import { SongMeta } from './types.js';
-import { getTitleBySections } from './core.js';
+import { getTitleByRawSection } from './core.js';
 
 const getCleanVersion = (title: string) => {
   if (!title) {
@@ -32,7 +32,7 @@ const getCleanVersion = (title: string) => {
 };
 
 export const deriveFromTitle = (titleContent: string) => {
-  const [title, meta] = getTitleBySections(titleContent);
+  const [title, meta] = getTitleByRawSection(titleContent);
 
   const metaSections =
     (meta

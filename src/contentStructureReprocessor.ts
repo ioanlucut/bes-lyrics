@@ -1,5 +1,8 @@
 import { parse } from './songParser.js';
 import { print } from './songPrinter.js';
+import { flow } from 'lodash-es';
+import { verifyStructure } from './contentStructureValidator.js';
+import assert from 'node:assert';
 
 /**
  * Reprocess the content of a song to add the basic structure.
@@ -7,7 +10,17 @@ import { print } from './songPrinter.js';
  *
  * It's important to note that the song should be valid.
  *
- * @param content The content of the song
- * @param fileName The name of the file
+ * @param songAsString The content of the song
  */
-export const reprocess = (content: string) => print(parse(content));
+export const reprocess = flow([
+  (songAsString) => {
+    assert.ok(
+      verifyStructure(songAsString),
+      'The structure of the song is invalid',
+    );
+
+    return songAsString;
+  },
+  parse,
+  print,
+]);

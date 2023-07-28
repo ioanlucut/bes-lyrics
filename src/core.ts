@@ -13,7 +13,7 @@ import {
 import * as crypto from 'crypto';
 import chalk from 'chalk';
 import short from 'short-uuid';
-import { SequenceChar, SongMeta } from './types.js';
+import { SequenceChar, SongMeta, SongSection } from './types.js';
 import {
   COLON,
   COMMA,
@@ -32,7 +32,15 @@ export const logFileWithLinkInConsole = (filePath: string) =>
 export const logProcessingFile = (fileName: string, workType: string) =>
   console.log(chalk.cyan(`Processing (${workType}): "${fileName}".`));
 
-export const getTitleBySections = (rawTitleContent: string) =>
+
+export const getRawTitleBySong = (songAsString: string) =>  first(songAsString
+  .replaceAll(SongSection.TITLE, EMPTY_STRING)
+  .split(/\n\n/gim)
+  .filter(Boolean)
+  .map(trim)
+) as string
+
+export const getTitleByRawSection = (rawTitleContent: string) =>
   rawTitleContent
     .split(/\{((?:[^{}]*\{[^{}]*})*[^{}]*?)}/gim)
     .map(trim)
@@ -154,15 +162,12 @@ export const withMetaMarkup = (content?: string) => `{${content}}`;
 export const getWithoutMetaMarkup = (charWithMarkup?: string) =>
   charWithMarkup?.replaceAll('{', EMPTY_STRING).replaceAll('}', EMPTY_STRING);
 
-export const getHashContentFromSong = (titleContent: string) =>
-  (last(titleContent) as string).replaceAll('}', EMPTY_STRING);
-
 export const getTitleWithoutMeta = (titleContent: string) =>
   trim(first(titleContent.split(/\{/i)) as string);
 
 export const getMetaSectionsFromTitle = (titleContent: string) => {
   const charWithMarkup = last(
-    titleContent.split(/(\{.*\})$/gi).filter(Boolean),
+    titleContent.split(/(\{.*})$/gi).filter(Boolean),
   );
 
   return (getWithoutMetaMarkup(charWithMarkup) || EMPTY_STRING)

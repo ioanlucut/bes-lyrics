@@ -3,14 +3,13 @@ import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
-import { isEqual, trim } from 'lodash-es';
+import { isEqual } from 'lodash-es';
 import chalk from 'chalk';
 import {
-  EMPTY_STRING,
+  getRawTitleBySong,
   logFileWithLinkInConsole,
   logProcessingFile,
   lyricsFileNameReprocessor,
-  SongSection,
   TXT_EXTENSION,
 } from '../src/index.js';
 
@@ -27,13 +26,8 @@ const run = async (dir: string) => {
       logProcessingFile(fileName, 'file name');
       logFileWithLinkInConsole(filePath);
 
-      const title = existingContent
-        .replaceAll(SongSection.TITLE, EMPTY_STRING)
-        .split(/\n\n/gim)
-        .filter(Boolean)
-        .map(trim)[0];
 
-      const newFileName = lyricsFileNameReprocessor.deriveFromTitle(title);
+      const newFileName = lyricsFileNameReprocessor.deriveFromTitle(getRawTitleBySong(existingContent));
       const hasNoChange = isEqual(fileName, newFileName);
 
       if (hasNoChange) {
