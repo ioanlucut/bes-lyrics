@@ -4415,3 +4415,5 @@ zărim
 ’nălțat
 ’text
 ’ș-întinde
+le-nalț
+surzi

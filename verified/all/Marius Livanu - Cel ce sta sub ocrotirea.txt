@@ -1,5 +1,5 @@
 [title]
-Cel ce stă sub ocrotirea {author: {Marius Livanu}, contentHash: {9c6b0d}, id: {7RCDZ7ekA7Maz6oBjPZMgx}}
+Cel ce stă sub ocrotirea {author: {Marius Livanu}, contentHash: {706492}, id: {7RCDZ7ekA7Maz6oBjPZMgx}}
 
 [sequence]
 c,v1,c,v2,c
