@@ -5,7 +5,7 @@ Cel ce stă sub ocrotirea {author: {Marius Livanu}, contentHash: {9c6b0d}, id: {
 c,v1,c,v2,c
 
 [v1]
-Cel ce stă sub ocrotirea celui Preaînalt de sus,
+Cel ce stă sub ocrotirea Celui Preaînalt de sus,
 Și se odihnește-n umbra Celui tare de nespus,
 Zice pururi despre Domnul: „El e cetățuia mea,
 Dumnezeul meu în care mă încred și voi scăpa.”
@@ -20,4 +20,4 @@ Vei vedea nenorocirea și răsplata celor răi. :/
 Nu te teme nici de groaza din a nopții negre vremi
 Și nici de săgeata zilei, tu nicicând să nu te temi,
 Căci la îngerii puternici, Dumnezeu va porunci
-Și ale tale căi, în toate, pururi ei te vor păzi.
+Și ale tale căi, în toate, pururi ei le vor păzi.

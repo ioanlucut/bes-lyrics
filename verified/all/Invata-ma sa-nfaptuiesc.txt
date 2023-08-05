@@ -1,5 +1,5 @@
 [title]
-Învață-mă să-nfăptuiesc {contentHash: {705916}, id: {ot7tqEBuEZFAtf5LtEZuhA}}
+Voia Ta {contentHash: {705916}, id: {ot7tqEBuEZFAtf5LtEZuhA}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -29,7 +29,7 @@ Să mă înveți pe-acest pământ,
 Voința Ta și pașii Tăi.
 
 [v4]
-Aceasta-i rugăciunea mea,
+Această rugăciune a mea,
 Spre Tine necurmat o-ndrept
 Și-n orice-mprejurare grea
 Să-mi ardă voia Ta în piept.

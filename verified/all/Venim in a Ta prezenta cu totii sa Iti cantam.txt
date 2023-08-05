@@ -1,12 +1,12 @@
 [title]
-Venim în a Ta prezență, cu toții să Îți cântăm {contentHash: {941cdb}, id: {tXprLKeNPsgQm8eZ4BybKi}}
+Venim în a Ta prezență {contentHash: {941cdb}, id: {tXprLKeNPsgQm8eZ4BybKi}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v1.1,v1.2,c1.1,c1.2
 
 [v1.1]
 Venim în a Ta prezență,
-Cu toții să Îți cântăm
+Cu toți să Îți cântăm
 Un cântec de mărire
 Și venim să ne-nchinăm.
 
