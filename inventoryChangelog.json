@@ -1,0 +1,17 @@
+{
+  "updatedOn": "2023-01-01",
+  "songs": {
+    "9c5dqWg5pmZF4eEsSd2fZ9": {
+      "id": "9c5dqWg5pmZF4eEsSd2fZ9",
+      "filename": "E timp de har",
+      "changes": [
+        {
+          "date": "2023-01-01",
+          "contentHash": "9df2fd",
+          "isFilenameChanged": true,
+          "isDeleted": false
+        }
+      ]
+    }
+  }
+}
