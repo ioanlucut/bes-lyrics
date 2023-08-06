@@ -1,31 +1,31 @@
 [title]
-Adonai {contentHash: {6a621a}, id: {h6rrZQmsHUHtqSqSr3suyi}}
+Adonai {contentHash: {cb73b3}, id: {h6rrZQmsHUHtqSqSr3suyi}}
 
 [sequence]
 v1,c,v2,c,e
 
 [v1]
-Doamne în veci vei fi, misterul ce-l voi iubi,
+Doamne în veci vei fi, misterul ce-L voi iubi,
 Domn peste cer și pământ, Dumnezeu minunat.
 Vino-n lumina Ta, îmbrăcat în onoarea Ta,
-Strigă acum inima: vino Rege din nou!
+Strigă acum inima: „Vino, Rege, din nou!”
 Și toți azi vom vedea
-Din ceruri Gloria Ta.
+Din ceruri, gloria Ta.
 
 [c]
 Adonai, Adonai,
 Toți genunchii astăzi se vor pleca.
 Adonai, Adonai,
 Dumnezeu doar Tu ești, iar noi vom striga:
-Adonai, Adonai.
+„Adonai, Adonai”.
 
 [v2]
 În Ierusalim stăm,
 Laude-Ți înălțăm,
 Porți deschise avem,
 Ne e dor să revii.
-Și tot Sionul cântă
-Baruch, Habach Beshem.
+Și tot Sionul cântă:
+„Baruch Haba B’shem!”
 
 [e]
 /: Tu ești Domn peste-ntreg pământ. :/ (4x)

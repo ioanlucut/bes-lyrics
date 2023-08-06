@@ -1,5 +1,5 @@
 [title]
-Ai auzit vreodată, prietene, de Mine {contentHash: {3117d6}, id: {sdxZ2W1VwHQrvP9iicHrNt}}
+Ai auzit vreodată, prietene, de Mine {contentHash: {6a741b}, id: {sdxZ2W1VwHQrvP9iicHrNt}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -37,5 +37,5 @@ Dar vremea e târzie, mijesc pe dealuri zorii
 [v6]
 De-ai ști ce neagră noapte și ce adânc fierbinte,
 Va fi când suferința nu va cunoaște graba.
-Vei plânge-ntotdeauna și-ți vei aduce aminte
+Vei plânge-ntotdeauna și-ți vei aduce-aminte
 Că am murit pe cruce, în locul tău, Baraba!

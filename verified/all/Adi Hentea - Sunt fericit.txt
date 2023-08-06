@@ -1,5 +1,5 @@
 [title]
-Sunt fericit {author: {Adi Hentea}, contentHash: {fd9cf7}, id: {o2xDuSWuEPvCvk2J6ZEUPq}}
+Sunt fericit {author: {Adi Hentea}, contentHash: {8ead9e}, id: {o2xDuSWuEPvCvk2J6ZEUPq}}
 
 [sequence]
 v1,c,v2,c
@@ -8,7 +8,7 @@ v1,c,v2,c
 O, Doamne, îndură-Te de mine că o viață întreagă am rătăcit,
 În lumea aceasta trecătoare, doar în păcat eu am trăit.
 Ești totul, Doamne, pentru mine, trecutul meu Tu l-ai uitat,
-Acum eu sunt în mâna Ta, trăiesc acum cu adevărat!
+Acum eu sunt în mâna Ta, trăiesc acum cu-adevărat!
 
 [c]
 Cât în lume am fost, eu trăiam fără rost,
@@ -18,4 +18,4 @@ Viață eu am primit și-acum sunt fericit!
 
 [v2]
 Ești totul, Doamne, pentru mine, trecutul meu Tu l-ai uitat,
-Acum, eu sunt în mâna Ta, trăiesc acum cu adevărat!
+Acum, eu sunt în mâna Ta, trăiesc acum cu-adevărat!

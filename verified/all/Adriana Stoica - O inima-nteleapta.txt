@@ -1,11 +1,11 @@
 [title]
-O inimă-nțeleaptă {author: {Adriana Stoica}, contentHash: {b2ae3b}, id: {pDhMqbNUDGq5msJWfDiDvu}}
+O inimă-nțeleaptă {author: {Adriana Stoica}, contentHash: {20519a}, id: {pDhMqbNUDGq5msJWfDiDvu}}
 
 [sequence]
 c,v1,c,v2,c,v3,c
 
 [v1]
-O inimă curată, de Tine a fost schimbată,
+O inimă curată, de Tine-a fost schimbată,
 M-ai curățit, Isuse, de păcat.
 /: Eu am venit la Tine,
 Tu mă cunoști prea bine

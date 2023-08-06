@@ -1,5 +1,5 @@
 [title]
-Ai auzit de Salvatorul {contentHash: {4c8a91}, id: {m9xj54LTRmMuvWDACGor4a}}
+Ai auzit de Salvatorul {contentHash: {83ff19}, id: {m9xj54LTRmMuvWDACGor4a}}
 
 [sequence]
 v1,c,v2,c
@@ -21,6 +21,6 @@ Nimeni nu schimbă asta. :/
 Eu cred în Salvatorul,
 Cred că El a înviat,
 Cred că voi trăi totdeauna
-Cu al meu Domn și Împărat.
+Cu-al meu Domn și Împărat.
 Iubire am găsit și cred în Fiul Său
 Condu-mă Tu!

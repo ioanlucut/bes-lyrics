@@ -1,5 +1,5 @@
 [title]
-Ai fost răstignit și cuiele-mi spun {contentHash: {a9b87b}, id: {vX9ZNnT1qwmam2T8xhpdBN}}
+Ai fost răstignit și cuiele-mi spun {contentHash: {41c672}, id: {vX9ZNnT1qwmam2T8xhpdBN}}
 
 [sequence]
 v1,c,v1,c
@@ -15,5 +15,5 @@ Ce mare Ți-a fost iubirea!
 Semnele vor dăinui
 Și pe veci îmi vor șopti cât m-ai iubit.
 De-aceea vreau să spun:
-/: În veci inima, în veci dragostea,
-În veci viața mea este-a Ta! :/
+/: „În veci inima, în veci dragostea,
+În veci viața mea este-a Ta!” :/

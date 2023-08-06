@@ -1,5 +1,5 @@
 [title]
-A Lui Isus venire curând se apropie {contentHash: {59341f}, id: {rLQTVhYC2hakanRr1y8QCq}}
+A Lui Isus venire curând se apropie {contentHash: {47305b}, id: {rLQTVhYC2hakanRr1y8QCq}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -12,14 +12,14 @@ Grăbește-Ți venirea, Doamne!
 
 [c]
 Isus vine-n curând, noi știm că El
-Vine să-Și ia mireasa Sa.
-Cu inima senină Îl așteptăm să vină,
+Vine să-Și ia Mireasa Sa.
+Cu inima senină, Îl așteptăm să vină,
 Grăbește-Ți venirea, Doamne!
 
 [v2]
 Durerea și păcatul domină-ntreg pământul,
 Lumea în moarte se zbate.
-Dar în ziua măreață Îi vom sta față-n față,
+Dar în ziua măreață, Îi vom sta față-n față,
 Grăbește-Ți venirea, Doamne!
 
 [v3]

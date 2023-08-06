@@ -35,9 +35,7 @@ const runValidationForDir = async (dir: string) => {
           `The ${SongMeta.CONTENT_HASH} should be defined.`,
         );
 
-        return getMetaSectionsFromTitle(
-          maybeTitle,
-        )[SongMeta.CONTENT_HASH];
+        return getMetaSectionsFromTitle(maybeTitle)[SongMeta.CONTENT_HASH];
       }),
     (current, index, iteratee) => includes(iteratee, current, index + 1),
   );
