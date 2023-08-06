@@ -42,7 +42,7 @@
   },
   "type": "module",
   "scripts": {
-    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" {src,bin}/**/*.{js,ts,json,md}",
+    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" {src,bin}/**/*.ts inventoryChangelog.json README.md",
     "test:ci": "NODE_ENV=test jest --runInBand --no-cache",
     "test:watch": "NODE_ENV=test TZ='Europe/Berlin' jest --watch --logHeapUsage --no-cache",
     "test": "is-ci-cli test:ci test:watch",
@@ -55,7 +55,8 @@
     "dictionary:update": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary",
     "reprocess:content": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsTextReprocessorRunner.ts",
     "reprocess:filename": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsFileNameReprocessorRunner.ts",
-    "build:ci": "npm run test:ci && npm run verify && npm run reprocess:filename && npm run reprocess:content && npm run dictionary:analyze"
+    "reprocess:inventory": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsInventoryRegeneratorRunner.ts",
+    "build:ci": "npm run test:ci && npm run verify && npm run reprocess:filename && npm run reprocess:content && npm run dictionary:analyze && npm run reprocess:inventory"
   },
   "author": "Ioan Lucuț",
   "license": "ISC"

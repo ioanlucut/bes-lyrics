@@ -32,13 +32,14 @@ export const logFileWithLinkInConsole = (filePath: string) =>
 export const logProcessingFile = (fileName: string, workType: string) =>
   console.log(chalk.cyan(`Processing (${workType}): "${fileName}".`));
 
-
-export const getRawTitleBySong = (songAsString: string) =>  first(songAsString
-  .replaceAll(SongSection.TITLE, EMPTY_STRING)
-  .split(/\n\n/gim)
-  .filter(Boolean)
-  .map(trim)
-) as string
+export const getRawTitleBySong = (songAsString: string) =>
+  first(
+    songAsString
+      .replaceAll(SongSection.TITLE, EMPTY_STRING)
+      .split(/\n\n/gim)
+      .filter(Boolean)
+      .map(trim),
+  ) as string;
 
 export const getTitleByRawSection = (rawTitleContent: string) =>
   rawTitleContent
@@ -165,10 +166,20 @@ export const getWithoutMetaMarkup = (charWithMarkup?: string) =>
 export const getTitleWithoutMeta = (titleContent: string) =>
   trim(first(titleContent.split(/\{/i)) as string);
 
-export const getMetaSectionsFromTitle = (titleContent: string) => {
-  const charWithMarkup = last(
-    titleContent.split(/(\{.*})$/gi).filter(Boolean),
+export const getTodayAsDateString = () => {
+  const now = new Date();
+
+  return (
+    ('0' + now.getDate()).slice(-2) +
+    '-' +
+    ('0' + (now.getMonth() + 1)).slice(-2) +
+    '-' +
+    now.getFullYear()
   );
+};
+
+export const getMetaSectionsFromTitle = (titleContent: string) => {
+  const charWithMarkup = last(titleContent.split(/(\{.*})$/gi).filter(Boolean));
 
   return (getWithoutMetaMarkup(charWithMarkup) || EMPTY_STRING)
     .split(COMMA)

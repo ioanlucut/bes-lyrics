@@ -113,3 +113,22 @@ export type SongAST = {
   title: string;
   version?: string;
 };
+
+export type SongInventoryChange = {
+  date: string;
+  contentHash: string;
+  filename: string;
+  isFilenameChanged?: boolean;
+  isDeleted?: boolean;
+};
+
+export type SongsInventoryEntry = {
+  id: string;
+  filename: string;
+  changes: SongInventoryChange[];
+};
+
+export type SongsInventory = {
+  updatedOn: string;
+  songs: SongsInventoryEntry[];
+};
