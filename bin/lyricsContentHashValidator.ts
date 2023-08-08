@@ -4,6 +4,8 @@ import { filter, includes, isEmpty } from 'lodash-es';
 import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
 import chalk from 'chalk';
+import assert from 'node:assert';
+import fs from 'fs';
 import {
   ERROR_CODE,
   getMetaSectionsFromTitle,
@@ -13,8 +15,6 @@ import {
   SongMeta,
   TXT_EXTENSION,
 } from '../src/index.js';
-import assert from 'node:assert';
-import fs from 'fs';
 
 dotenv.config();
 

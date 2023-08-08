@@ -42,7 +42,7 @@
   },
   "type": "module",
   "scripts": {
-    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" {src,bin}/**/*.{js,ts,json,md}",
+    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" {src,bin}/**/*.ts inventoryChangelog.json README.md",
     "test:ci": "NODE_ENV=test jest --runInBand --no-cache",
     "test:watch": "NODE_ENV=test TZ='Europe/Berlin' jest --watch --logHeapUsage --no-cache",
     "test": "is-ci-cli test:ci test:watch",

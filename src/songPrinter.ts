@@ -1,5 +1,6 @@
 import {
   cloneDeep,
+  filter,
   first,
   flatten,
   isEqual,
@@ -110,7 +111,9 @@ export const print = ({
   title,
   version,
 }: SongAST) => {
-  let newSequence = cloneDeep(sequence);
+  let newSequence = filter(cloneDeep(sequence), (sequenceItem) =>
+    sectionOrder.map(getCharWithoutMarkup).includes(sequenceItem),
+  ) as string[];
 
   const mapperWithSequenceSideEffectCollector = (
     verseSongSectionIdentifier: string,
