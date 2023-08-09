@@ -1,7 +1,7 @@
 on: [pull_request]
 
 jobs:
-  Build:
+  UpdateMeta:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
