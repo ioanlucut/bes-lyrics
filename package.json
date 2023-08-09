@@ -1,6 +1,6 @@
 {
   "name": "bes-lyrics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cântări Biserica Emanuel Sibiu",
   "dependencies": {
     "@types/nspell": "^2.1.3",
@@ -55,7 +55,8 @@
     "dictionary:update": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary",
     "reprocess:content": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsTextReprocessorRunner.ts",
     "reprocess:filename": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsFileNameReprocessorRunner.ts",
-    "build:ci": "npm run test:ci && npm run verify && npm run reprocess:filename && npm run reprocess:content && npm run dictionary:analyze"
+    "build:ci": "npm run test && npm run verify",
+    "meta:ci": "npm run reprocess:filename && npm run reprocess:content"
   },
   "author": "Ioan Lucuț",
   "license": "ISC"
