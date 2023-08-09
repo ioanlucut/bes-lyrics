@@ -1,0 +1,34 @@
+on: [pull_request]
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          sparse-checkout: |
+            .github
+            src
+            bin
+            verified
+            candidates
+
+      - name: Use Node.js 20.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20.x
+
+      - name: Install dependencies
+        run: npm i
+
+      - name: Update meta (hashes, renames, etc.)
+        run: |
+          npm run meta:ci
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git diff --quiet && git diff --staged --quiet || git commit -am '[Auto] Updated meta information for the songs' && git push
+        env:
+          CI: true
+          FORCE_COLOR: 2
