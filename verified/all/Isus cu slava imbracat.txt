@@ -1,5 +1,5 @@
 [title]
-Isus, cu slavă îmbrăcat {contentHash: {3aa08e}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}}
+Isus, cu slavă îmbrăcat {contentHash: {3963ba}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}}
 
 [sequence]
 v1,c,v2,c,v3,c,c2,c
@@ -18,7 +18,7 @@ Isus, fii-în veci glorificat, Isus. :/
 [v2]
 Isus, Tu cerul ai lăsat,
 Isus, la slavă ai renunțat,
-Isus, la lume ai venit,
+Isus, în lume ai venit,
 Isus, de toți disprețuit.
 
 [v3]
