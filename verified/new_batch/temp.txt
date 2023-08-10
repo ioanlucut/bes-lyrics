@@ -1,0 +1,37 @@
+[title]
+Un cântec de laudă {author: {Ekklesia}, contentHash: {0f2f14}, id: {nYiNGfX9UX8pjzMcJPHqQG}}
+
+[sequence]
+v1,v2,p,c1.1,c1.2,c2
+
+[v1]
+Un cântec de laudă în inima mea
+Un cântec ce Tu l-ai pus
+Mi-ai dat libertate,
+Ca să pot cânta din nou
+
+[v2]
+Ai rupt întunericul din viața mea
+Mi-ai dat bucuria Ta
+Acum eu sunt liber
+Ca să pot cânta din nou
+
+[p]
+Isus, Tu m-ai răscumpărat,
+Duhul Tău Sfânt m-a eliberat!
+
+[c1.1]
+Isus Tu m-ai răscumpărat,
+Duhul Tău Sfânt m-a eliberat!
+Dragostea Ta îmi dă curaj,
+
+[c1.2]
+Să alerg către țintă neîncetat.
+Doar Tu ești Domnul meu,
+Te voi binecuvânta!
+
+[c2]
+Isus ești fericirea mea,
+Eu cânt de bucurie în fața Ta.
+Doar Tu ești Domnul meu,
+Te voi binecuvânta!
