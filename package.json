@@ -56,7 +56,7 @@
     "reprocess:content": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsTextReprocessorRunner.ts",
     "reprocess:filename": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsFileNameReprocessorRunner.ts",
     "build:ci": "npm run test && npm run verify",
-    "meta:ci": "npm run reprocess:filename && npm run reprocess:content"
+    "meta:ci": "npm run reprocess:filename && npm run reprocess:content && npm run verify"
   },
   "author": "Ioan Lucuț",
   "license": "ISC"

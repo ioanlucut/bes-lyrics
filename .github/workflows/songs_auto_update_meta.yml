@@ -28,7 +28,8 @@ jobs:
           npm run meta:ci
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git diff --quiet && git diff --staged --quiet || git commit -am '[Auto] Updated meta information for the songs' && git push
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -am '[Auto commit] Am adăugat meta informații despre conținutul cântecelor, etc.' && git push
         env:
           CI: true
           FORCE_COLOR: 2
