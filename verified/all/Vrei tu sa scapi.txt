@@ -1,14 +1,14 @@
 [title]
-Vrei tu să scapi {contentHash: {f19750}, id: {sQTr6Xt4oUPqAwDMhMhHYi}}
+Vrei tu să scapi {contentHash: {b12d7e}, id: {sQTr6Xt4oUPqAwDMhMhHYi}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
 Vrei tu să scapi de păcat, sarcină,
-Prin sângele sfânt al Lui Isus?
+Prin sângele sfânt al lui Isus?
 Vrei tu să-nvingi răul din inimă,
-Prin sfânt sânge al Lui Isus?
+Prin sfânt sânge al lui Isus?
 
 [c]
 E puterea ce minuni face,
@@ -18,12 +18,12 @@ E puterea ce minuni face
 
 [v2]
 Vrei să fii liber de patimi, păcat,
-Prin sângele sfânt al Lui Isus?
+Prin sângele sfânt al lui Isus?
 Vin’ la Calvar și vei fi vindecat,
-Prin sfânt sânge al Lui Isus.
+Prin sfânt sânge al lui Isus.
 
 [v3]
 Vrei să fii alb, mai alb ca zăpada,
-Prin sângele sfânt al Lui Isus?
+Prin sângele sfânt al lui Isus?
 De orice scapi, viață vei afla,
-Prin sfânt sânge al Lui Isus.
+Prin sfânt sânge al lui Isus.
