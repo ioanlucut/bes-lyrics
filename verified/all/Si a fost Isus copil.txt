@@ -1,5 +1,5 @@
 [title]
-Și a fost Isus copil {contentHash: {6e2b43}, id: {9GF928STwj6GCUSwHDRhGY}}
+Și a fost Isus copil {contentHash: {c69772}, id: {9GF928STwj6GCUSwHDRhGY}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -42,4 +42,4 @@ Sus, slujind Împărăția,
 Jos, la Iosif și Maria.
 Lumii-ntregi S-a dat răpus
 /: Ca să-avem și noi robia
-Și-nfierea Lui Isus. :/
+Și-nfierea lui Isus. :/

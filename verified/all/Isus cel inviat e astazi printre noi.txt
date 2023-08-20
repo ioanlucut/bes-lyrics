@@ -1,5 +1,5 @@
 [title]
-Isus cel înviat e astăzi printre noi {contentHash: {ed7648}, id: {8Ks3D23VU5VrjKonyNXyXn}}
+Isus cel înviat e astăzi printre noi {contentHash: {ecb411}, id: {8Ks3D23VU5VrjKonyNXyXn}}
 
 [sequence]
 v1,c,v2,c
@@ -16,6 +16,6 @@ Isus e astăzi printre noi.
 Vei fi binecuvântat. :/
 
 [v2]
-/: Mormântul Lui Isus
+/: Mormântul lui Isus
 Și astăzi este gol, :/ (3x)
-Mormântul Lui Isus e gol!
+Mormântul lui Isus e gol!

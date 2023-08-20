@@ -1,5 +1,5 @@
 [title]
-Dragoste divină, scumpă {contentHash: {21f2bd}, id: {gTmVRdkCLDNwPnsnXu6kLF}}
+Dragoste divină, scumpă {contentHash: {5c008b}, id: {gTmVRdkCLDNwPnsnXu6kLF}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c,v4,c
 [v1]
 Dragoste divină, scumpă,
 Ce adânc te dăruiești
-Și, din inima Lui Isus,
+Și, din inima lui Isus,
 Peste vremi, aceeași ești.
 
 [c]

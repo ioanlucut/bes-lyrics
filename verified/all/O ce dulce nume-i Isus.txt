@@ -1,5 +1,5 @@
 [title]
-O, ce dulce nume-i Isus {contentHash: {89d559}, id: {gbtz4mzswaeYeoiAbbA96x}}
+O, ce dulce nume-i Isus {contentHash: {9fca9b}, id: {gbtz4mzswaeYeoiAbbA96x}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -27,7 +27,7 @@ Poporul Său cel mântuit
 Înaintea Lui cântă.
 
 [v4]
-Sus, în numele Lui Isus,
+Sus, în numele lui Isus,
 De-a Lui mărire cântați,
 Pân-ajungem la cei sfinți, sus,
 Care-i cântă-ncoronați.

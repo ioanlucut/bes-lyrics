@@ -1,5 +1,5 @@
 [title]
-Numai o dată tu trăiești {contentHash: {61f05f}, id: {8RhVRecBQCKHz4uxVqrEjr}}
+Numai o dată tu trăiești {contentHash: {a3bc53}, id: {8RhVRecBQCKHz4uxVqrEjr}}
 
 [sequence]
 v1,v2,v3,v4
@@ -11,7 +11,7 @@ Numai o dată tu trăiești
 Și cui ai vrea să o predai? :/
 
 [v2]
-O, de-ai sluji tu Lui Isus
+O, de-ai sluji tu lui Isus
 Și inima s-o-ndrepți în sus,
 /: Isus ar fi stăpânul tău,
 Iar tu ai fi copilul Său. :/

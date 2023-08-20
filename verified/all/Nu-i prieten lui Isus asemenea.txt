@@ -1,11 +1,11 @@
 [title]
-Nu-i prieten Lui Isus asemenea {contentHash: {cbc8fa}, id: {oe2fTQ4NgB7fgwJh4zDXQf}}
+Nu-i prieten lui Isus asemenea {contentHash: {b3498c}, id: {oe2fTQ4NgB7fgwJh4zDXQf}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Nu-i prieten Lui Isus asemenea,
+Nu-i prieten lui Isus asemenea,
 Nimenea, nimenea.
 Nimeni nu poate ca El vindeca
 Nimenea, nimenea.
@@ -13,7 +13,7 @@ Nimenea, nimenea.
 [c]
 Isus ne știe pe noi mai bine
 El poate să ne ajute,
-Nu-i prieten Lui Isus asemenea,
+Nu-i prieten lui Isus asemenea,
 Nimenea, nimenea.
 
 [v2]

@@ -1,20 +1,20 @@
 [title]
-Curățit ești de păcat și înnoit {contentHash: {3ce484}, id: {eHaAoaqTEqujrykg9TGTnr}}
+Curățit ești de păcat și înnoit {contentHash: {407dac}, id: {eHaAoaqTEqujrykg9TGTnr}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
 Curățit ești de păcat și înnoit,
-Prin sfânt sângele al Lui Isus?
+Prin sfânt sângele al lui Isus?
 Ești născut din nou, de patimi mântuit,
-Prin sfânt sângele al Lui Isus?
+Prin sfânt sângele al lui Isus?
 
 [c]
 Vrei să fii mântuit?
 Și de tot păcatul curățit?
 Vin’, te spală pe Golgota-n sânge sfânt
-Și-ascultă al Lui Isus Cuvânt!
+Și-ascultă al lui Isus Cuvânt!
 
 [v2]
 Când sfințit ești prin sângele Lui Hristos,

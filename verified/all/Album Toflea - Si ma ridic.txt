@@ -1,5 +1,5 @@
 [title]
-Și mă ridic {author: {Album Toflea}, contentHash: {416f5a}, id: {i9K59Zke2WBeS5DU8AShzE}}
+Și mă ridic {author: {Album Toflea}, contentHash: {8accde}, id: {i9K59Zke2WBeS5DU8AShzE}}
 
 [sequence]
 c,v1,c,v2,c,v3,c
@@ -11,7 +11,7 @@ Dar noi ne bizuim, dar noi ne bizuim
 Dar noi ne bizuim, pe puterea Domnului.
 
 [c]
-Și mă ridic, în Numele Lui Isus mă ridic,
+Și mă ridic, în Numele lui Isus mă ridic,
 Ca un steag de biruință mă înalț
 Și nu voi renunța,
 Căci știu că Domnul e de partea mea.

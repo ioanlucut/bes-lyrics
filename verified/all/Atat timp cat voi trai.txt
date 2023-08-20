@@ -1,5 +1,5 @@
 [title]
-Atât timp cât voi trăi {contentHash: {341c99}, id: {vU8DUVGLMd41ntAov2BmdB}}
+Atât timp cât voi trăi {contentHash: {4028d1}, id: {vU8DUVGLMd41ntAov2BmdB}}
 
 [sequence]
 v1,c,v2,c
@@ -11,7 +11,7 @@ Orice mână ce se-ntinde,
 Orice mână ce se-ntinde să dea pace.
 Orice act de bunătate,
 Orice pas spre Paradis,
-Despre dragostea Lui Isus vor mărturisi.
+Despre dragostea lui Isus vor mărturisi.
 
 [c]
 Și-atât timp cât voi trăi

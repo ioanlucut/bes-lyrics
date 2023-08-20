@@ -1,5 +1,5 @@
 [title]
-Grăbește timpul ca un nor {contentHash: {5ac74c}, id: {b2tS8KXJX9wf2FsdeoRgXK}}
+Grăbește timpul ca un nor {contentHash: {9b474b}, id: {b2tS8KXJX9wf2FsdeoRgXK}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -14,8 +14,8 @@ Se duc în infinit!
 /: În grabă trece viața ta
 Și ziua ta s-a dus.
 O, vino azi, în plină zi,
-La crucea Lui Isus,
-La crucea Lui Isus! :/
+La crucea lui Isus,
+La crucea lui Isus! :/
 
 [v2]
 Pe-acest pământ ești călător,

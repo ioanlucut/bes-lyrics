@@ -1,5 +1,5 @@
 [title]
-Răsună a noastră cântare {contentHash: {440d1c}, id: {b5qd2NZ8q3FYDXR2PKwZup}}
+Răsună a noastră cântare {contentHash: {a68ccf}, id: {b5qd2NZ8q3FYDXR2PKwZup}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,v4.1,v4.2,c
@@ -17,8 +17,8 @@ Căci slava ce-o are e mare,
 În gloria unde-a ajuns.
 
 [c]
-/: Osana Lui Isus, Osana Lui Isus,
-Osana Lui Isus,
+/: Osana lui Isus, Osana lui Isus,
+Osana lui Isus,
 De-acum și până-n veac. :/
 
 [v2.1]
@@ -52,7 +52,7 @@ Simțiți ce sublim fi-va ceasul,
 Când toți vom fi una curând?
 
 [v4.2]
-Mărire Lui Isus în ceruri!
+Mărire lui Isus în ceruri!
 Mărire și slavă în veci!
 Cântați-I voi astăzi și pururi,
 Mărire și slavă în veci!

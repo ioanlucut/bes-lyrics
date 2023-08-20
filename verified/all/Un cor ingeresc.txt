@@ -1,5 +1,5 @@
 [title]
-Un cor îngeresc {contentHash: {ae826b}, id: {qTECSqdff2aPEK4XMEsdEp}}
+Un cor îngeresc {contentHash: {5348ce}, id: {qTECSqdff2aPEK4XMEsdEp}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -18,7 +18,7 @@ Azi Isus te cheamă,
 [v2]
 /: Străin tu dacă ești,
 De ce pribeag mai rătăcești?
-N-auzi chemarea Lui Isus,
+N-auzi chemarea lui Isus,
 „Vino, vino!” :/
 
 [v3]

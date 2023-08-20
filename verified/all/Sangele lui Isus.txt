@@ -1,0 +1,17 @@
+[title]
+Sângele lui Isus {contentHash: {1a8c12}, id: {eFq4q1HAo5W8kReML8bCD4}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Sângele lui Isus, :/ (3x)
+Mă spală de păcat.
+
+[v2]
+/: Rănile lui Isus, :/ (3x)
+Mă vindecă acum.
+
+[v3]
+/: Dragostea lui Isus, :/ (3x)
+Mă curăță acum.

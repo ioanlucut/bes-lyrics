@@ -1,5 +1,5 @@
 [title]
-Nimic nu mă va despărți {contentHash: {cc1482}, id: {6oFLZyJrB33iRC8hRPBQy4}}
+Nimic nu mă va despărți {contentHash: {ca52b4}, id: {6oFLZyJrB33iRC8hRPBQy4}}
 
 [sequence]
 v1,v2,p,c,v3,v4,p,c,v5,v6,p,c
@@ -43,7 +43,7 @@ Isus, în veci, fii lăudat!
 [v5]
 Vedem acum cu-adevărat
 Că vremea s-a apropiat,
-Venirea Lui Isus curând
+Venirea lui Isus curând
 Va răsuna pe-ntreg pământ.
 
 [v6]

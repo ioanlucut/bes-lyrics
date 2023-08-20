@@ -1,5 +1,5 @@
 [title]
-Cânt Aleluia, Domnului {contentHash: {ff09fd}, id: {6Y6HkxcaUyjhZVkjjW1EUY}}
+Cânt Aleluia, Domnului {contentHash: {581b77}, id: {6Y6HkxcaUyjhZVkjjW1EUY}}
 
 [sequence]
 c,v1,v2
@@ -11,10 +11,10 @@ Cânt Aleluia, Domnului,
 Cânt Aleluia, Domnului! :/
 
 [v1]
-Slavă-I aducem Lui Isus,
-Slavă-I aducem Lui Isus,
+Slavă-I aducem lui Isus,
+Slavă-I aducem lui Isus,
 /: Slavă-I aducem, slavă-I aducem,
-Slavă-I aducem Lui Isus! :/
+Slavă-I aducem lui Isus! :/
 
 [v2]
 Isus domnește peste noi,

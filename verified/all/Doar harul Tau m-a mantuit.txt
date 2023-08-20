@@ -1,5 +1,5 @@
 [title]
-Doar harul Tău m-a mântuit {contentHash: {3516dc}, id: {p4JF3qJJGxtJoZYwUdUX4X}}
+Doar harul Tău m-a mântuit {contentHash: {609336}, id: {p4JF3qJJGxtJoZYwUdUX4X}}
 
 [sequence]
 v1,c,v2,v3,v4
@@ -14,7 +14,7 @@ Cu braț puternic, m-a dezlegat.
 Doar harul Tău ne-a adus
 Mântuire, vindecare prin Isus,
 Doar harul Tău ne-a adus,
-În numele Lui Isus - Iertare.
+În numele lui Isus - Iertare.
 
 [v2]
 Doar harul Tău m-a învățat
@@ -22,7 +22,7 @@ Să las în urmă al meu păcat,
 Cu dragoste m-a ridicat,
 Mi-a dat vedere, m-a vindecat.
 Mântuire, vindecare prin Isus
-În numele Lui Isus - Iertare.
+În numele lui Isus - Iertare.
 
 [v3]
 Isus, m-ai cuprins din necuprins,

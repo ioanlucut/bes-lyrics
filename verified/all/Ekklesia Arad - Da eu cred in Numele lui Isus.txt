@@ -1,5 +1,5 @@
 [title]
-Da, eu cred în Numele Lui Isus {author: {Ekklesia Arad}, contentHash: {04e437}, id: {giYK7HMxuC6hc95Wnda7st}}
+Da, eu cred în Numele lui Isus {author: {Ekklesia Arad}, contentHash: {507e57}, id: {giYK7HMxuC6hc95Wnda7st}}
 
 [sequence]
 v1,c,v2,c,b,e,b2
@@ -13,7 +13,7 @@ Tu ești al meu cântec, Cel care salvezi,
 Cred că ești tot ceea ce declari că ești!
 
 [c]
-Da, eu cred, în Numele Lui Isus,
+Da, eu cred, în Numele lui Isus,
 Fiindcă peste orice nume este El.
 Tronul Tău este etern,
 Doar în Tine mă încred,
@@ -32,9 +32,9 @@ Dumnezeu victorios,
 Nume prea-nalt! :/
 
 [e]
-/: E putere în Numele Lui Isus,
-E putere în Numele Lui Isus,
-E putere în Numele Lui Isus,
+/: E putere în Numele lui Isus,
+E putere în Numele lui Isus,
+E putere în Numele lui Isus,
 Să rup-orice lanț!
 Rupe-orice lanț, rupe-orice lanț!
 Să rup-orice lanț!

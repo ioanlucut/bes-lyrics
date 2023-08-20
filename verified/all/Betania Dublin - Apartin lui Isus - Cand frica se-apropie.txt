@@ -1,5 +1,5 @@
 [title]
-Aparțin Lui Isus {author: {Betania Dublin}, alternative: {Când frica se-apropie}, contentHash: {dfc5f2}, id: {5vx6ucfCJnJsQpDEhidiFK}}
+Aparțin lui Isus {author: {Betania Dublin}, alternative: {Când frica se-apropie}, contentHash: {20d11c}, id: {5vx6ucfCJnJsQpDEhidiFK}}
 
 [sequence]
 v1,c,v2,c,b,b2,c,b2,c,b2,c,e
@@ -12,9 +12,9 @@ Isus, îmi ești de-ajuns.
 
 [c]
 Ești cu mine, îmi ești alături,
-Frica nu va câștiga, îi aparțin Lui Isus!
+Frica nu va câștiga, îi aparțin lui Isus!
 Nu sunt părăsit, nici când nu sunt singur.
-Frica nu va câștiga, îi aparțin Lui Isus!
+Frica nu va câștiga, îi aparțin lui Isus!
 
 [v2]
 Când simt apăsare, eu nu voi ceda,
@@ -36,7 +36,7 @@ Dumnezeul Stâncă tare, Credincios ești, Apărare!
 Ești cu mine, ești la fiecare pas.
 
 [e]
-O, frică, nu vei câștiga, eu aparțin Lui Isus!
-Frică, nu vei câștiga, eu aparțin Lui Isus!
-Frică, nu vei câștiga, eu aparțin Lui Isus!
-O, frică, nu vei câștiga, eu aparțin Lui Isus!
+O, frică, nu vei câștiga, eu aparțin lui Isus!
+Frică, nu vei câștiga, eu aparțin lui Isus!
+Frică, nu vei câștiga, eu aparțin lui Isus!
+O, frică, nu vei câștiga, eu aparțin lui Isus!

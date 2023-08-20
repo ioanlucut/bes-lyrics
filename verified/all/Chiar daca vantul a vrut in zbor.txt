@@ -1,5 +1,5 @@
 [title]
-Chiar dacă vântul a vrut în zbor {contentHash: {632baf}, id: {s2bM8MUq2RNLDMJXHh8Z6Z}}
+Chiar dacă vântul a vrut în zbor {contentHash: {7b3ac6}, id: {s2bM8MUq2RNLDMJXHh8Z6Z}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -29,13 +29,13 @@ Că ne-a-mpărțit furtuna,
 Și-acolo vom fi una. :/
 
 [v5]
-Acum când pașii Lui Isus
+Acum când pașii lui Isus
 Se-aud tot mai aproape,
 /: Să ne unim în dragoste,
 Iubind frate pe frate. :/
 
 [v6]
-Veniți în jurul Lui Isus
+Veniți în jurul lui Isus
 Să înfruntăm furtuna
 /: Căci El E singurul Păstor
 Iar turma Sfântă-i una. :/

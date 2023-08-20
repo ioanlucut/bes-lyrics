@@ -1,5 +1,5 @@
 [title]
-O, dac-ai știi sub ce blestem am fost și eu cândva {contentHash: {33824d}, id: {svLpdaXZVJEJFmUKf6qrgj}}
+O, dac-ai știi sub ce blestem am fost și eu cândva {contentHash: {369201}, id: {svLpdaXZVJEJFmUKf6qrgj}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -26,7 +26,7 @@ Iertat de toate prin al Său har. :/
 
 [v2.1]
 Salvarea mea s-a scris
-Adânc în rana Lui Isus
+Adânc în rana lui Isus
 Și-n veci va sta ca
 Mărturie-a harului nespus.
 

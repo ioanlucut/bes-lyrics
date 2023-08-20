@@ -1,5 +1,5 @@
 [title]
-Aș vrea să mă-ntâlnesc cu Domnul {contentHash: {d0ef0f}, id: {akiQc9LcbcnSjHbddqQxZf}}
+Aș vrea să mă-ntâlnesc cu Domnul {contentHash: {01ea79}, id: {akiQc9LcbcnSjHbddqQxZf}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -24,6 +24,6 @@ Că sunt un păcătos pribeag.
 
 [v3]
 Aș vrea să-I spun a mea durere,
-Să-I dau Lui Isus sarcina,
+Să-I dau lui Isus sarcina,
 Să-I spun că eu nu am pe nimeni
 Să-mi ducă la Calvar crucea.

@@ -1,5 +1,5 @@
 [title]
-Pornim pe căi necunoscute {author: {Lewis E.Jones}, contentHash: {8ba969}, id: {ug4hXQnewuea5eCDCFWNeP}}
+Pornim pe căi necunoscute {author: {Lewis E.Jones}, contentHash: {379526}, id: {ug4hXQnewuea5eCDCFWNeP}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -11,7 +11,7 @@ Ca să vestim iubirea sfântă,
 A Domnului Isus.
 
 [c]
-Astăzi urmăm calea Lui Isus,
+Astăzi urmăm calea lui Isus,
 Știm că, în curând, El va veni de sus.
 Știm că Domnul Isus va veni-n curând
 Ca să ne ducă-n cer la El.

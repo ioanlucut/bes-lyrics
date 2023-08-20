@@ -1,5 +1,5 @@
 [title]
-Dați-mi în mână Biblia divină {contentHash: {4c0f81}, id: {w6TEF5C4Xp1xaoCddEJUx2}}
+Dați-mi în mână Biblia divină {contentHash: {b6b46f}, id: {w6TEF5C4Xp1xaoCddEJUx2}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -24,6 +24,6 @@ Vindecă boala și-orice suferințe.
 
 [v3]
 Dați-mi în mână Biblia divină
-În ea se află viața Lui Isus.
+În ea se află viața lui Isus.
 Ea ne arată cum El o să vină
 Ca să ne ducă cu El în cer sus.
