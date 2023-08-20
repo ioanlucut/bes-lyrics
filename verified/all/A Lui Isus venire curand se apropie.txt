@@ -1,5 +1,5 @@
 [title]
-A Lui Isus venire curând se apropie {contentHash: {468856}, id: {rLQTVhYC2hakanRr1y8QCq}}
+A lui Isus venire curând se apropie {contentHash: {e8b1c5}, id: {rLQTVhYC2hakanRr1y8QCq}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

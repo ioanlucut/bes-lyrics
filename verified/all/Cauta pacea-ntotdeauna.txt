@@ -1,5 +1,5 @@
 [title]
-Caută pacea-ntotdeauna {contentHash: {4a2078}, id: {3QGHmUrvSHne12ZYA59SMv}}
+Caută pacea-ntotdeauna {contentHash: {f2e521}, id: {3QGHmUrvSHne12ZYA59SMv}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -8,7 +8,7 @@ v1,c,v2,c,v3,c,v4,c
 Caută pacea-ntotdeauna
 La-ncercare când ești pus,
 De vrei să primești cununa
-Chiar din mâna Lui Isus.
+Chiar din mâna lui Isus.
 
 [c]
 /: Caută pacea-ntotdeauna,

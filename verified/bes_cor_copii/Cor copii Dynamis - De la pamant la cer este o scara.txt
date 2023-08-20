@@ -1,5 +1,5 @@
 [title]
-De la pământ la cer este o scară {author: {Cor copii Dynamis}, contentHash: {4c1634}, id: {9EpBN7bpsuiNXNXuY7gCvc}}
+De la pământ la cer este o scară {author: {Cor copii Dynamis}, contentHash: {4c74b7}, id: {9EpBN7bpsuiNXNXuY7gCvc}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,b,c
@@ -12,7 +12,7 @@ La cer s-ajungă. :/
 
 [v1]
 Treapta-ntâia este credința-n Isus.
-Treapta a doua: cunoașterea Lui Isus,
+Treapta a doua: cunoașterea lui Isus,
 Treapta a treia este stăpânirea ta.
 Urcă și pe ea!
 

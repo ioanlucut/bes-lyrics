@@ -1,5 +1,5 @@
 [title]
-Aleluia, onoare și cinste {contentHash: {5f5c91}, id: {iBwSXfgzGWPQEthw7KQRcF}}
+Aleluia, onoare și cinste {contentHash: {fcdafb}, id: {iBwSXfgzGWPQEthw7KQRcF}}
 
 [sequence]
 c,v1,c,v2
@@ -7,7 +7,7 @@ c,v1,c,v2
 [c]
 Aleluia, onoare și cinste,
 Mărire și slavă
-/: Îi dăm Lui Isus. :/
+/: Îi dăm lui Isus. :/
 
 [v1]
 Cântăm Aleluia,

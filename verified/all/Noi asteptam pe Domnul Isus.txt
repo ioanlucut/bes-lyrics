@@ -1,5 +1,5 @@
 [title]
-Noi așteptăm pe Domnul Isus {contentHash: {703153}, id: {aDPYXtWmSYhb1AijCtfFAs}}
+Noi așteptăm pe Domnul Isus {contentHash: {2792c1}, id: {aDPYXtWmSYhb1AijCtfFAs}}
 
 [sequence]
 v1,v2,v3,v4
@@ -12,7 +12,7 @@ Ce ne-a gătit locul
 Și în mărire ne va duce!
 
 [v2]
-/: Noi mergem ’naintea Lui Isus,
+/: Noi mergem ’naintea lui Isus,
 Când vine! :/
 Noi mergem înainte,
 El brațu-Și întinde

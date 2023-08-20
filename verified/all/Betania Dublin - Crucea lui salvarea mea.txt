@@ -1,12 +1,12 @@
 [title]
-Crucea lui, salvarea mea {author: {Betania Dublin}, contentHash: {ae787f}, id: {dnPaQeNTSBof9ftTwkjsyn}}
+Crucea lui, salvarea mea {author: {Betania Dublin}, contentHash: {07a28c}, id: {dnPaQeNTSBof9ftTwkjsyn}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,c2,b,c,e
 
 [v1.1]
 În acea zi, când boldul morții
-A fost frânt sub crucea Lui Isus,
+A fost frânt sub crucea lui Isus,
 Cutremurat, tot Ceru-ntreg
 S-a-ntunecat.
 

@@ -1,5 +1,5 @@
 [title]
-Tu ești Rege, ești Mesia {contentHash: {eae6fa}, id: {sc1ZrmF5JanPyNpJ5rXSqw}}
+Tu ești Rege, ești Mesia {contentHash: {636be9}, id: {sc1ZrmF5JanPyNpJ5rXSqw}}
 
 [sequence]
 v1,c,v2,c
@@ -11,7 +11,7 @@ Prințul slavei, veșnicia
 Și Cuvântul sfânt ce s-a-ntrupat.
 
 [c]
-Și voi cânta Osana Lui Isus,
+Și voi cânta Osana lui Isus,
 Voi înălța spre ceruri glas curat
 Și mă închin în fața Ta, Isus,
 Căci Tu ești Prințul păcii, minunat.

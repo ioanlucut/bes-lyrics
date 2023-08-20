@@ -1,5 +1,5 @@
 [title]
-Îți doresc {author: {Amalia Decean}, contentHash: {30f65d}, id: {fvudc4xSBae4s4pAtGW8nH}}
+Îți doresc {author: {Amalia Decean}, contentHash: {0450e3}, id: {fvudc4xSBae4s4pAtGW8nH}}
 
 [sequence]
 c,v1.1,v1.2,p,c,v2.1,v2.2,p,c
@@ -17,10 +17,8 @@ Să-ți umple fiecare ceas
 Să-ți fie orice pas.
 
 [p]
-Dar mai mai mult ca
-Orice gând din ce ți-am spus,
-Îți doresc să fii
-Asemeni Lui Isus!
+Dar mai mult ca orice gând din ce ți-am spus,
+Îți doresc să fii asemeni lui Isus!
 
 [c]
 /: Să-mparți bucuria

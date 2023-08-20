@@ -1,5 +1,5 @@
 [title]
-Îmi va rămâne-n memorie-o zi {contentHash: {92a011}, id: {sjyiYGrdbM3TBCTeppNKAw}}
+Îmi va rămâne-n memorie-o zi {contentHash: {425799}, id: {sjyiYGrdbM3TBCTeppNKAw}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -19,7 +19,7 @@ Cum Domnul meu m-a mântuit!
 [c]
 /: Glorii din cer în mine s-au revărsat
 Când, la Calvar, Isus m-a eliberat.
-Povara mi s-a dus prin harul Lui Isus,
+Povara mi s-a dus prin harul lui Isus,
 Glorii din cer în mine s-au revărsat. :/
 
 [v2.1]

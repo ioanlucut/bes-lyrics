@@ -1,5 +1,5 @@
 [title]
-De neclintit {author: {BBSO}, contentHash: {8d1bb7}, id: {4npE7TGdUnzJ2tEpbvs2xF}}
+De neclintit {author: {BBSO}, contentHash: {8b357f}, id: {4npE7TGdUnzJ2tEpbvs2xF}}
 
 [sequence]
 v1,v2,b,c,v3,e
@@ -24,7 +24,7 @@ Tot ce I-am încredințat!
 Cu Tine sunt de neclintit,
 Prin cruce viață am primit!
 Cu inima tare și mintea întreagă
-Trăiesc prin puterea Lui Isus!
+Trăiesc prin puterea lui Isus!
 
 [v3]
 Și orice lucru de-ar veni,

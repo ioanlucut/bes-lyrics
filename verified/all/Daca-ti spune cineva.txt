@@ -1,5 +1,5 @@
 [title]
-Dacă-ți spune cineva {contentHash: {090cdd}, id: {1fipPgqeZ5aMuGY2ZmBv4N}}
+Dacă-ți spune cineva {contentHash: {0950f3}, id: {1fipPgqeZ5aMuGY2ZmBv4N}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
@@ -28,7 +28,7 @@ Tu să-i spui numai atât, că a greșit.
 /: Bucuria cea mai sfântă,
 Nu zdrobește, nu frământă,
 Iar când ai privirea sus
-Ești în harul Lui Isus. :/
+Ești în harul lui Isus. :/
 
 [v3.1]
 Dacă-ți spune cineva

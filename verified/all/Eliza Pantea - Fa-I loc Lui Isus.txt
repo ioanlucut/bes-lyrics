@@ -1,5 +1,5 @@
 [title]
-Fă-I loc Lui Isus {author: {Eliza Pantea}, contentHash: {4ae932}, id: {jSG8FDoiN6jjYNB88GENEm}}
+Fă-I loc lui Isus {author: {Eliza Pantea}, contentHash: {66b5fb}, id: {jSG8FDoiN6jjYNB88GENEm}}
 
 [sequence]
 v1,c,v2,c,b,e
@@ -12,7 +12,7 @@ Este ziua Ta.
 
 [c]
 În bucuria lor, uită pe Mântuitor,
-Fă-I loc Lui Isus în inima ta.
+Fă-I loc lui Isus în inima ta.
 La ușă nu-L lăsa,
 Primește-L în casa ta.
 Fă-I loc în inima ta

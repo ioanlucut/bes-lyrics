@@ -1,5 +1,5 @@
 [title]
-Bucurați-vă de vestea bună și s-a întrupat Cuvăntul {author: {Cor copii Dynamis}, contentHash: {75128a}, id: {fALQGCVaN3AH5UEehgxMm1}}
+Bucurați-vă de vestea bună și s-a întrupat Cuvăntul {author: {Cor copii Dynamis}, contentHash: {22d674}, id: {fALQGCVaN3AH5UEehgxMm1}}
 
 [sequence]
 v1,v2,c,v3,c,v4,c,b,c
@@ -25,7 +25,7 @@ Pace între-acei ce sunt ai Lui.
 [v3]
 Duceți mai departe vestea bună că ni s-a născut Mântuitor,
 Tot așa cum îngerii din slavă vestea au adus păstorilor,
-Dați și voi în dar cu bucurie inimi sfinte astăzi Lui Isus,
+Dați și voi în dar cu bucurie inimi sfinte astăzi lui Isus,
 Tot așa cum magii din vechime daruri scumpe Pruncului i-au dus.
 
 [v4]

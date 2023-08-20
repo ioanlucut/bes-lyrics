@@ -1,5 +1,5 @@
 [title]
-Dacă vei vrea să primești cununa ta din veșnicii {contentHash: {b29058}, id: {t4HnGfmML4drXrtV3DuH2w}}
+Dacă vei vrea să primești cununa ta din veșnicii {contentHash: {900452}, id: {t4HnGfmML4drXrtV3DuH2w}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
@@ -30,7 +30,7 @@ Oare cui vrei să-l predai?
 
 [v2.1]
 Sângele care a curs
-Din trupul Lui Isus Hristos,
+Din trupul lui Isus Hristos,
 Din starea ta de păcat,
 Iată, și astăzi te-a scos.
 
@@ -48,6 +48,6 @@ Te roagă azi Domnului.
 
 [v3.2]
 Îngerii-n cer vor cânta
-Căci Lui Isus tu te-ai predat.
+Căci lui Isus tu te-ai predat.
 Iată, Satan e învins,
 Doamne, fii glorificat!

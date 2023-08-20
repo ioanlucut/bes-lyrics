@@ -1,5 +1,5 @@
 [title]
-Mulțumesc {author: {Betania Dublin}, contentHash: {d290c0}, id: {uUaab1V7CsTTZ5NFPczFpe}}
+Mulțumesc {author: {Betania Dublin}, contentHash: {8fff3e}, id: {uUaab1V7CsTTZ5NFPczFpe}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c
@@ -30,6 +30,6 @@ Prin sângele Tău sfânt viața mi-ai transformat.
 
 [b]
 Știu că e putere,
-E putere-n sfântul sânge-al Lui Isus, Isus!
+E putere-n sfântul sânge-al lui Isus, Isus!
 Azi suntem fii și fiice,
 Și avem răscumpărare prin Isus, Isus!

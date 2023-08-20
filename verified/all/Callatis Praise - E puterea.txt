@@ -1,5 +1,5 @@
 [title]
-E puterea {author: {Callatis Praise}, contentHash: {13604e}, id: {qEutPPxBsuABVvNGp5iUeA}}
+E puterea {author: {Callatis Praise}, contentHash: {19b4c7}, id: {qEutPPxBsuABVvNGp5iUeA}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -12,7 +12,7 @@ Ei nu știu de locul minunat,
 
 [c]
 E puterea Tatălui de sus,
-E puterea jertfei Lui Isus.
+E puterea jertfei lui Isus.
 E puterea Duhului cel sfânt,
 E puterea crucii zi de zi în noi.
 

@@ -1,12 +1,12 @@
 [title]
-De păcat împovărat în lume pribegeam {contentHash: {af489e}, id: {8sPKm5L17nFEUuEXQ4frz1}}
+De păcat împovărat în lume pribegeam {contentHash: {19a77d}, id: {8sPKm5L17nFEUuEXQ4frz1}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
 De păcat împovărat în lume pribegeam.
-Despre jertfa Lui Isus nimic eu nu știam,
+Despre jertfa lui Isus nimic eu nu știam,
 Dar Isus m-a ridicat și m-a răscumpărat;
 El mi-a dat iertarea Sa și m-a salvat.
 

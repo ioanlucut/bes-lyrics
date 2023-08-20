@@ -1,18 +1,18 @@
 [title]
-E putere, e putere {contentHash: {d8eed6}, id: {jfpnDQWwWGCKFrZLxQrN4F}}
+E putere, e putere {contentHash: {df6fa6}, id: {jfpnDQWwWGCKFrZLxQrN4F}}
 
 [sequence]
 v1.1,v1.2,v1.3,c,v1.1,v1.2,v1.3,c
 
 [v1.1]
 /: E putere, e putere,
-E putere-n sângele Lui Isus Hristos! :/
+E putere-n sângele lui Isus Hristos! :/
 Nici dușmanul, nici dușmanul,
 Nu poate să-mi strice viața!
 De ce? Pentru că, pentru că
 
 [v1.2]
-În sângele Lui Isus Hristos este putere.
+În sângele lui Isus Hristos este putere.
 Azi te cheamă Dumnezeu,
 Vrea să fii copilul Său,
 Cât trăiești pe-acest pământ

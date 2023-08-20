@@ -1,5 +1,5 @@
 [title]
-Medicul bun se-apropie {contentHash: {805ab6}, id: {svxwbk5xw3iz2hvz62FUKP}}
+Medicul bun se-apropie {contentHash: {2a52fe}, id: {svxwbk5xw3iz2hvz62FUKP}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -24,6 +24,6 @@ Să ne cunune, El Isus.
 
 [v3]
 Pentru noi a răbdat crucea,
-Laudă fie Lui Isus,
+Laudă fie lui Isus,
 Și credem în EL ca-mpărat
 Căci Îl iubim pe Isus!

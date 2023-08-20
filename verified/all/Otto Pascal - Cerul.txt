@@ -1,5 +1,5 @@
 [title]
-Cerul {author: {Otto Pascal}, contentHash: {02ef72}, id: {guKwTyZxM4Fkwubuz2wUDW}}
+Cerul {author: {Otto Pascal}, contentHash: {ad2b2a}, id: {guKwTyZxM4Fkwubuz2wUDW}}
 
 [sequence]
 v1,c,v2,b,c
@@ -26,4 +26,4 @@ Pentru-a vedea cu Tine cerul.
 Cerul este locul pregătit,
 Unde vom trăi în infinit.
 Ziduri nu vor fi acolo, sus,
-Va fi doar slava Lui Isus.
+Va fi doar slava lui Isus.

@@ -1,5 +1,5 @@
 [title]
-Isus, cu slavă îmbrăcat {contentHash: {3963ba}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}}
+Isus, cu slavă îmbrăcat {contentHash: {e192d1}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}}
 
 [sequence]
 v1,c,v2,c,v3,c,c2,c
@@ -28,7 +28,7 @@ Isus, trei zile îngropat,
 Isus, din morți ai înviat.
 
 [c2]
-În Numele Lui Isus e putere,
+În Numele lui Isus e putere,
 În Numele Lui poți fi ajutat.
-În Numele Lui Isus e putere,
+În Numele lui Isus e putere,
 În Numele Lui poți fi vindecat.

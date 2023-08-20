@@ -1,5 +1,5 @@
 [title]
-Era odată-o tainică grădină {contentHash: {c65562}, id: {8xgeauBEmTS5jXdGX2HbPS}}
+Era odată-o tainică grădină {contentHash: {f1ff80}, id: {8xgeauBEmTS5jXdGX2HbPS}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -14,7 +14,7 @@ Era-ntristată până la mormânt. :/
 De multe ori, pe fața Lui, căzuse
 Și se ruga cu mult amar, nespus:
 /: „Să treacă, Tată, să nu beau paharul!”
-Paharul suferinței Lui Isus. :/
+Paharul suferinței lui Isus. :/
 
 [v3]
 O, Ghetsimani, grădina suferinței,
@@ -24,7 +24,7 @@ O, Ghetsimani, grădina suferinței,
 
 [v4]
 O, Ghetsimani, grădină neuitată,
-Tu ai văzut durerea Lui Isus
+Tu ai văzut durerea lui Isus
 /: Și Iuda când L-a sărutat o dată
 Pe Domnul strălucirilor de sus. :/
 
