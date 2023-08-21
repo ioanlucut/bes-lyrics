@@ -1,34 +1,40 @@
 [title]
-Lui Isus mi-am dat inima {contentHash: {5cf19e}, id: {fHgp5fpnsMkW6y5sq5Vabj}}
+Lui Isus mi-am dat inima {contentHash: {37531b}, id: {fHgp5fpnsMkW6y5sq5Vabj}}
 
 [sequence]
-v1,v2,v3
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
-[v1]
+[v1.1]
 Lui Isus mi-am dat inima
 Și sunt fericit,
 Lui Isus mi-am dat inima,
 El pentru mine a murit.
+
+[v1.2]
 /: Am fost pierdut în păcat,
 Acum însă sunt salvat,
 Lui Isus mi-am dat inima.
 Da, sunt fericit! :/
 
-[v2]
+[v2.1]
 Lui Isus mi-am dat inima
 Și sunt liniștit,
 El, în schimb, mi-a dat pacea Sa,
 El pentru mine-a murit.
+
+[v2.2]
 /: Am fost pierdut în păcat,
 Acum însă sunt salvat,
 Isus e-n inima mea.
 Da, sunt liniștit! :/
 
-[v3]
+[v3.1]
 Lui Isus mi-am dat inima
 Cât sunt de fericit!
 Lui Isus mi-am dat inima
 Da, sunt mântuit.
+
+[v3.2]
 /: De astăzi nu mai trăiesc eu,
 Ci, Isus trăiește în pieptul meu,
 Isus e-n inima mea.
