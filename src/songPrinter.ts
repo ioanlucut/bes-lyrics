@@ -105,6 +105,7 @@ export const print = ({
   author,
   contentHash,
   id,
+  rcId,
   sectionOrder,
   sectionsMap,
   sequence,
@@ -191,11 +192,13 @@ export const print = ({
             `${COLON}${EMPTY_SPACE}`,
           )
         : NULL,
+
       alternative
         ? [SongMeta.ALTERNATIVE, withMetaMarkup(alternative)].join(
             `${COLON}${EMPTY_SPACE}`,
           )
         : NULL,
+
       version
         ? [SongMeta.VERSION, withMetaMarkup(version)].join(
             `${COLON}${EMPTY_SPACE}`,
@@ -207,8 +210,13 @@ export const print = ({
             `${COLON}${EMPTY_SPACE}`,
           )
         : NULL,
+
       id
         ? [SongMeta.ID, withMetaMarkup(id)].join(`${COLON}${EMPTY_SPACE}`)
+        : NULL,
+
+      rcId
+        ? [SongMeta.RC_ID, withMetaMarkup(id)].join(`${COLON}${EMPTY_SPACE}`)
         : NULL,
     ]
       .filter(Boolean)

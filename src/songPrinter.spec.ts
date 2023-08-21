@@ -259,7 +259,7 @@ Israel nu s-a luptat,
 `);
   });
 
-  it.only('should correctly un-split a song with un-split makers', () => {
+  it('should correctly un-split a song with un-split makers', () => {
     expect(
       print(
         parse(SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_UN_SPLIT_MOCK_FILE_CONTENT),

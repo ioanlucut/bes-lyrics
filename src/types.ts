@@ -1,9 +1,33 @@
 export enum SequenceChar {
+  /**
+   * Simple verse section
+   */
   VERSE = 'v',
+
+  /**
+   * Pre-chorus section
+   */
   PRECHORUS = 'p',
+
+  /**
+   * Chorus section
+   */
   CHORUS = 'c',
+
+  /**
+   * Bridge section
+   */
   BRIDGE = 'b',
+
+  /**
+   * Ending section
+   */
   ENDING = 'e',
+
+  /**
+   * Recital section
+   */
+  RECITAL = 's',
 }
 
 /**
@@ -24,8 +48,12 @@ const C_START_INDEX = 1;
 /**
  * Bridge 1 will always be 1 (cannot be just `b`, thus `b,b2`)
  */
-
 const B_START_INDEX = 1;
+
+/**
+ * Recital 1 will always be 1 (cannot be just `s`, thus `s,s2`)
+ */
+const S_START_INDEX = 1;
 
 export const SongSection = {
   SEQUENCE: '[sequence]',
@@ -54,6 +82,12 @@ export const SongSection = {
         ? `${SequenceChar.BRIDGE}${index}`
         : SequenceChar.BRIDGE
     }]`,
+  RECITAL: (index = 0) =>
+    `[${
+      index > S_START_INDEX
+        ? `${SequenceChar.RECITAL}${index}`
+        : SequenceChar.RECITAL
+    }]`,
   ENDING: `[${SequenceChar.ENDING}]`,
 };
 
@@ -79,9 +113,14 @@ export enum SongMeta {
   CONTENT_HASH = 'contentHash',
 
   /**
-   * Song ID
+   * Own BES song ID
    */
   ID = 'id',
+
+  /**
+   * Resurse creștine song ID
+   */
+  RC_ID = 'rcId',
 }
 
 export type Section = {
@@ -107,6 +146,7 @@ export type SongAST = {
   author?: string;
   contentHash: string;
   id: string;
+  rcId?: string;
   sectionOrder: SongSectionOrder;
   sectionsMap: SongSectionsMap;
   sequence: string[];

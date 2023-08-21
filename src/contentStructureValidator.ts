@@ -19,6 +19,7 @@ import {
   getCharWithoutMarkup,
   getChorusRegex,
   getPrechorusRegex,
+  getRecitalRegex,
   getSongInSectionTuples,
   getUniqueCharsAndRelevantChars,
   getVerseRegex,
@@ -34,6 +35,7 @@ const REGEX_SUPPLIERS = {
   [SequenceChar.CHORUS]: () => getChorusRegex(),
   [SequenceChar.PRECHORUS]: () => getPrechorusRegex(),
   [SequenceChar.BRIDGE]: () => getBridgeRegex(),
+  [SequenceChar.RECITAL]: () => getRecitalRegex(),
 } as Record<SequenceChar, () => RegExp>;
 
 const assertIsCorrectSequence = (

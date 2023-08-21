@@ -78,6 +78,12 @@ export const getBridgeRegex = () =>
     'gi',
   );
 
+export const getRecitalRegex = () =>
+  new RegExp(
+    `${SequenceChar.RECITAL}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
+    'gi',
+  );
+
 export const getEndingRegex = () =>
   new RegExp(`${SequenceChar.ENDING}(?!1$)w$`, 'gi');
 
@@ -94,6 +100,7 @@ export const isKnownSongSequence = (sequenceChar: string | SequenceChar) => {
     getChorusRegex(),
     getBridgeRegex(),
     getEndingRegex(),
+    getRecitalRegex(),
   ].some((matcher) => matcher.test(sequenceChar));
 };
 
