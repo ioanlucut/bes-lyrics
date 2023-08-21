@@ -3,11 +3,15 @@ name: Auto approve JOB
 on:
   pull_request_target:
     types: [ labeled ]
+
 jobs:
-  AutoApprove:
+  auto-approve:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    if: github.actor == 'ioanlucut' && contains(github.event.pull_request.labels.*.name, 'bes-auto-merge')
     steps:
-      - uses: hmarr/auto-approve-action@v2.0.0
-        if: github.actor == 'ioanlucut' && contains(github.event.pull_request.labels.*.name, 'bes-auto-merge')
+      - uses: hmarr/auto-approve-action@v3
         with:
-          github-token: '${{ secrets.GITHUB_TOKEN }}'
+          github-token: '${{ secrets.AUTO_APPROVE_BES_PAT_TOKEN }}'
+          review-message: "Auto approved PR"
