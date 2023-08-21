@@ -29,7 +29,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -am '[Auto commit] Am adăugat meta informații despre conținutul cântecelor, etc.' && git push
+          git diff --quiet && git diff --staged --quiet || git commit -am '[Bot] Am adăugat eventualele meta informații despre conținutul cântecelor.' && git push
         env:
           CI: true
           FORCE_COLOR: 2
