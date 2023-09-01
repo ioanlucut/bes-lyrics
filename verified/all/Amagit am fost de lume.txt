@@ -1,5 +1,5 @@
 [title]
-Amăgit am fost de lume {contentHash: {a69755}, id: {iRrsKR3AbEDKNet7XjeqZJ}}
+Amăgit am fost de lume {contentHash: {e702ee}, id: {iRrsKR3AbEDKNet7XjeqZJ}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c
@@ -30,7 +30,7 @@ Dar îndur orice ocară
 
 [v4]
 Toți cei dragi m-au dat uitării
-Pentru simplul crez  al meu,
+Pentru simplul crez al meu,
 Dar eu am o mângâiere
 /: Nu mă uită Dumnezeu. :/
 

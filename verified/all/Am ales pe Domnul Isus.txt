@@ -1,5 +1,5 @@
 [title]
-Am ales pe Domnul Isus {contentHash: {e2c202}, id: {2xmRKYRRMsxgTaCatq6DD1}}
+Am ales pe Domnul Isus {contentHash: {f3ba84}, id: {2xmRKYRRMsxgTaCatq6DD1}}
 
 [sequence]
 v1,c,v2,c,v3,c

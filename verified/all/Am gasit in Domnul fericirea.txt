@@ -1,5 +1,5 @@
 [title]
-Am găsit în Domnul fericirea {contentHash: {64f93f}, id: {qrDMuWUXcBsWE19oTnTdUr}}
+Am găsit în Domnul fericirea {contentHash: {3d133b}, id: {qrDMuWUXcBsWE19oTnTdUr}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
