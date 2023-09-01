@@ -1,5 +1,5 @@
 [title]
-Un chip de lut Tu ai făcut {contentHash: {7a5569}, id: {oWDTqcESPZtxCbpFgTTAEK}}
+Un chip de lut Tu ai făcut {contentHash: {cda2e1}, id: {oWDTqcESPZtxCbpFgTTAEK}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c

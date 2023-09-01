@@ -1,5 +1,5 @@
 [title]
-Dumnezeul puternic {contentHash: {8ae389}, id: {oUgGVuw2XUBjqHKsG4PJ8D}}
+Dumnezeul puternic {contentHash: {44fe1e}, id: {oUgGVuw2XUBjqHKsG4PJ8D}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c,v2,c

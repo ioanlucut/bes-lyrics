@@ -24,6 +24,7 @@ export const parse = (songAsString: string) => {
     author: EMPTY_STRING,
     contentHash: EMPTY_STRING,
     id: EMPTY_STRING,
+    rcId: EMPTY_STRING,
     sectionOrder: [],
     sectionsMap: {},
     sequence: [],
@@ -48,10 +49,12 @@ export const parse = (songAsString: string) => {
     if ([SongSection.TITLE].includes(sectionIdentifier)) {
       songAST.title = getTitleWithoutMeta(sectionContent);
 
-      const { author, id, contentHash, version, alternative } =
-        getMetaSectionsFromTitle(sectionContent);
+      const metaSectionsFromTitle = getMetaSectionsFromTitle(sectionContent);
+      const { author, id,rcId, contentHash, version, alternative } =
+        metaSectionsFromTitle;
 
       songAST.id = id || getUniqueId();
+      songAST.rcId = rcId || '__NONE__'
       songAST.author = author;
 
       // Just a basic one, but should be updated after any potential changes

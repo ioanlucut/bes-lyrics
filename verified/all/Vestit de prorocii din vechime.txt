@@ -1,5 +1,5 @@
 [title]
-Vestit de prorocii din vechime {contentHash: {126423}, id: {cKLERKXSMWMTyiDim5yvCi}}
+Vestit de prorocii din vechime {contentHash: {fc5563}, id: {cKLERKXSMWMTyiDim5yvCi}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,c,v3,v4,c

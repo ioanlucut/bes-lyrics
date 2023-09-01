@@ -1,5 +1,5 @@
 [title]
-Schimbă-mi inima, fă-mă mai curat {contentHash: {300825}, id: {iykbCq2Ls5c5Zjnfgh6W9r}}
+Schimbă-mi inima, fă-mă mai curat {contentHash: {03c00d}, id: {iykbCq2Ls5c5Zjnfgh6W9r}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2

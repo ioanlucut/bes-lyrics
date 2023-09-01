@@ -53,8 +53,8 @@ describe('core', () => {
 
   describe('getUniqueCharsAndRelevantChars', () => {
     it('should work correctly', () => {
-      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT))
-        .toMatchInlineSnapshot(`
+      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
 [
   "
 ",
@@ -69,11 +69,14 @@ describe('core', () => {
   "7",
   "8",
   ":",
+  "A",
   "B",
   "C",
   "D",
   "E",
   "H",
+  "I",
+  "L",
   "M",
   "P",
   "R",
@@ -83,6 +86,7 @@ describe('core', () => {
   "Y",
   "[",
   "]",
+  "_",
   "a",
   "b",
   "c",
@@ -119,8 +123,8 @@ describe('core', () => {
   describe('computeUniqueContentHash', () => {
     it('should work correctly', () => {
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
-      ).toMatchInlineSnapshot(`"d4c950"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`"571f1d"`);
 
       expect(computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).toEqual(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
@@ -137,26 +141,26 @@ describe('core', () => {
 
     it('should update correctly', () => {
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' '),
-      ).toMatchInlineSnapshot(`"83c6a9"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' ')).
+toMatchInlineSnapshot(`"95f8df"`);
 
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X'),
-      ).toMatchInlineSnapshot(`"300764"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X')).
+toMatchInlineSnapshot(`"97e646"`);
 
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y'),
-      ).toMatchInlineSnapshot(`"6277d0"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y')).
+toMatchInlineSnapshot(`"79dcb1"`);
     });
   });
 
   describe('getSongInSectionTuples', () => {
     it('should work correctly', () => {
-      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT))
-        .toMatchInlineSnapshot(`
+      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
 [
   "[title]",
-  "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+  "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}, rcId: {REPLACE_ME}}",
   "[sequence]",
   "v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3",
   "[v1]",

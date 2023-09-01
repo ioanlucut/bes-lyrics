@@ -1,5 +1,5 @@
 [title]
-Ce bine e când frații {contentHash: {56d172}, id: {fd39R9H2BSap9BVNHD3hef}}
+Ce bine e când frații {contentHash: {a5064a}, id: {fd39R9H2BSap9BVNHD3hef}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,v3,v4

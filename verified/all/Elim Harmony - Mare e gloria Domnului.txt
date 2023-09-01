@@ -1,5 +1,5 @@
 [title]
-Mare e gloria Domnului! {author: {Elim Harmony}, contentHash: {09ffec}, id: {c49j6hUd8aWJWVoiFwB9Wn}}
+Mare e gloria Domnului! {author: {Elim Harmony}, contentHash: {3840ca}, id: {c49j6hUd8aWJWVoiFwB9Wn}, rcId: {__NONE__}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c,b,c,b2

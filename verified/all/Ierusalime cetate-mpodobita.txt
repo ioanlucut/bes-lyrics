@@ -1,5 +1,5 @@
 [title]
-Ierusalime, cetate-mpodobită {contentHash: {7b8a3c}, id: {ocA74Yi1RKHr5cmRcsNvy9}}
+Ierusalime, cetate-mpodobită {contentHash: {1d1a96}, id: {ocA74Yi1RKHr5cmRcsNvy9}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

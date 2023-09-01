@@ -1,5 +1,5 @@
 [title]
-Te-am găsit pe munții înalți {contentHash: {ac0599}, id: {4ojutbZhvDmCGy7EQGdZGH}}
+Te-am găsit pe munții înalți {contentHash: {059068}, id: {4ojutbZhvDmCGy7EQGdZGH}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-În fața Ta astăzi vin {contentHash: {ef897d}, id: {foVbT8pzsPWTbsDHhdnrYc}}
+În fața Ta astăzi vin {contentHash: {e8b6f9}, id: {foVbT8pzsPWTbsDHhdnrYc}, rcId: {__NONE__}}
 
 [sequence]
 v1,p,c,v2,p,c

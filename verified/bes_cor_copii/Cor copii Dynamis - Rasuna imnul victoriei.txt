@@ -1,5 +1,5 @@
 [title]
-Răsună imnul victoriei {author: {Cor copii Dynamis}, contentHash: {571cd2}, id: {oherHSoFFZj1G5eFXjd3R6}}
+Răsună imnul victoriei {author: {Cor copii Dynamis}, contentHash: {066b92}, id: {oherHSoFFZj1G5eFXjd3R6}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c,v2,v3,v4

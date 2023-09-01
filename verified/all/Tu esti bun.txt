@@ -1,5 +1,5 @@
 [title]
-Tu ești bun {contentHash: {bdbdec}, id: {sbaTXWKqxrwEPbBtpzF3v6}}
+Tu ești bun {contentHash: {30228c}, id: {sbaTXWKqxrwEPbBtpzF3v6}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c,v1,b,c

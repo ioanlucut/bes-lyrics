@@ -1,5 +1,5 @@
 [title]
-Atât cât voi trăi {author: {Otto Pascal}, contentHash: {f88d91}, id: {6eb1J2gyyjzS68Mb3eKAb3}}
+Atât cât voi trăi {author: {Otto Pascal}, contentHash: {fc3217}, id: {6eb1J2gyyjzS68Mb3eKAb3}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c

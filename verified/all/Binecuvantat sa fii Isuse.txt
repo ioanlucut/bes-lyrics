@@ -1,5 +1,5 @@
 [title]
-Binecuvântat să fii Isuse {contentHash: {6be4ae}, id: {1g7HTqBMU7bLQSbvV4FeXo}}
+Binecuvântat să fii Isuse {contentHash: {006597}, id: {1g7HTqBMU7bLQSbvV4FeXo}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v1,c

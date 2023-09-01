@@ -1,5 +1,5 @@
 [title]
-Ești minunat, Isuse {author: {Adi Hentea}, contentHash: {37e87f}, id: {ape5ET1Caswxr3BibxYUes}}
+Ești minunat, Isuse {author: {Adi Hentea}, contentHash: {b613d5}, id: {ape5ET1Caswxr3BibxYUes}, rcId: {__NONE__}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2,c1.1,c1.2

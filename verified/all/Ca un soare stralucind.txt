@@ -1,5 +1,5 @@
 [title]
-Ca un soare strălucind {contentHash: {af4f37}, id: {wRKGtF9EkLqkVBqxLNWVvA}}
+Ca un soare strălucind {contentHash: {7746f8}, id: {wRKGtF9EkLqkVBqxLNWVvA}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v1,c

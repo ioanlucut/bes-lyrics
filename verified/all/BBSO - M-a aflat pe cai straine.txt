@@ -1,5 +1,5 @@
 [title]
-M-a aflat pe căi străine {author: {BBSO}, contentHash: {ead7de}, id: {1cS3TdbyveEPni9yVWpTHC}}
+M-a aflat pe căi străine {author: {BBSO}, contentHash: {8b9a6f}, id: {1cS3TdbyveEPni9yVWpTHC}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,c,c2,v3,c2

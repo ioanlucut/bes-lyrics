@@ -1,5 +1,5 @@
 [title]
-Cântă Israel că Dumnezeu e Domnul {author: {Cor copii Dynamis}, contentHash: {367625}, id: {ihzCV1Ji34WW2PUVtBmSoa}}
+Cântă Israel că Dumnezeu e Domnul {author: {Cor copii Dynamis}, contentHash: {29f7dd}, id: {ihzCV1Ji34WW2PUVtBmSoa}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c2,c,v2,c2,e

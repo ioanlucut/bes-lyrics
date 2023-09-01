@@ -1,5 +1,5 @@
 [title]
-Dacă mâine {author: {Otto Pascal}, contentHash: {ff52c2}, id: {aRiGZp26edivmnMXLLhwnY}}
+Dacă mâine {author: {Otto Pascal}, contentHash: {148a6d}, id: {aRiGZp26edivmnMXLLhwnY}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c

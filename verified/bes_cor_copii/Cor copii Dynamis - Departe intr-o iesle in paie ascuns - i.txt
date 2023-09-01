@@ -1,5 +1,5 @@
 [title]
-Departe într-o iesle, în paie ascuns {author: {Cor copii Dynamis}, version: {i}, contentHash: {ea9e89}, id: {jv519GHovdrsRXkKxooC4w}}
+Departe într-o iesle, în paie ascuns {author: {Cor copii Dynamis}, version: {i}, contentHash: {67fa56}, id: {jv519GHovdrsRXkKxooC4w}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,v3

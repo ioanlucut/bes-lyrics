@@ -1,5 +1,5 @@
 [title]
-Vreau să te fac pescar de om {contentHash: {68ed07}, id: {i4sC1dJdgJxLtKxqren4mW}}
+Vreau să te fac pescar de om {contentHash: {08196b}, id: {i4sC1dJdgJxLtKxqren4mW}, rcId: {__NONE__}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2

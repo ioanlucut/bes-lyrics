@@ -1,5 +1,5 @@
 [title]
-Când pe marea vieții eu {contentHash: {be0bbd}, id: {qH5KHvc82k8sHFNc3PkJHt}}
+Când pe marea vieții eu {contentHash: {70f507}, id: {qH5KHvc82k8sHFNc3PkJHt}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,b,b2

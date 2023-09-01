@@ -1,5 +1,5 @@
 [title]
-Vino și-n casa mea {contentHash: {6b9f22}, id: {uo5QBzAjgMg3NRVCRBLP86}}
+Vino și-n casa mea {contentHash: {f920b5}, id: {uo5QBzAjgMg3NRVCRBLP86}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,e

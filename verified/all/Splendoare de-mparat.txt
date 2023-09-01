@@ -1,5 +1,5 @@
 [title]
-Splendoare de-mpărat {contentHash: {11ff7b}, id: {sLCA2jN3zUXH9VJDdhpYbY}}
+Splendoare de-mpărat {contentHash: {bd9c48}, id: {sLCA2jN3zUXH9VJDdhpYbY}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c,b,c

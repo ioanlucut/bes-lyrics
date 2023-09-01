@@ -1,5 +1,5 @@
 [title]
-Zidurile ’nalte de la Ierihon {contentHash: {2e227a}, id: {63BVx1sB4RXkkUtGDbAwgV}}
+Zidurile ’nalte de la Ierihon {contentHash: {d004b7}, id: {63BVx1sB4RXkkUtGDbAwgV}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

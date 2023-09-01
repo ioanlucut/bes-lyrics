@@ -1,5 +1,5 @@
 [title]
-Sfânt ești, nimeni nu-i ca Tine {author: {Matt Redman}, alternative: {Build My Life}, contentHash: {c18f87}, id: {vQ9VrucBegcLw3FdrDoWKQ}}
+Sfânt ești, nimeni nu-i ca Tine {author: {Matt Redman}, alternative: {Build My Life}, contentHash: {426a19}, id: {vQ9VrucBegcLw3FdrDoWKQ}, rcId: {__NONE__}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c

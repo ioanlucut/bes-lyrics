@@ -1,5 +1,5 @@
 [title]
-El îți dă eliberare! {author: {Jonathan Smith}, contentHash: {c51b47}, id: {mSRDYhZ7k8V87tw1bddMQi}}
+El îți dă eliberare! {author: {Jonathan Smith}, contentHash: {d0edd3}, id: {mSRDYhZ7k8V87tw1bddMQi}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c,b,c

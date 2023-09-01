@@ -13,7 +13,7 @@ describe('songPrinter', () => {
   it('should not adjust an already well structured song (w/o subsections)', () => {
     expect(print(parse(SIMPLE_SONG_MOCK_FILE_CONTENT))).toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {Betania Dublin}, alternative: {Când eram fără speranță}, version: {ii}, contentHash: {e9efbc}, id: {7RURbpko41pWYEgVkHD4Pq}}
+My custom title {author: {Betania Dublin}, alternative: {Când eram fără speranță}, version: {ii}, contentHash: {012786}, id: {7RURbpko41pWYEgVkHD4Pq}}
 
 [sequence]
 v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3

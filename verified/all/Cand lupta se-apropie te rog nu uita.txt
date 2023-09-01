@@ -1,5 +1,5 @@
 [title]
-Când lupta se-apropie, te rog, nu uita {contentHash: {e99fca}, id: {1oi2KDy6s2F7GCfUrNYnfh}}
+Când lupta se-apropie, te rog, nu uita {contentHash: {2bccb3}, id: {1oi2KDy6s2F7GCfUrNYnfh}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c,v3,c

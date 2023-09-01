@@ -1,5 +1,5 @@
 [title]
-Dumnezeu m-a creat cu iubire {contentHash: {16ba2c}, id: {rM3siFukVdKU5tur6fPF6y}}
+Dumnezeu m-a creat cu iubire {contentHash: {d46c70}, id: {rM3siFukVdKU5tur6fPF6y}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c,v3,c

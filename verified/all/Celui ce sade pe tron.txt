@@ -1,5 +1,5 @@
 [title]
-Celui ce șade pe tron {contentHash: {370bc8}, id: {9xHPHPzQA874Fj1uCuQoCJ}}
+Celui ce șade pe tron {contentHash: {85d7e6}, id: {9xHPHPzQA874Fj1uCuQoCJ}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v1,c

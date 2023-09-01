@@ -1,5 +1,5 @@
 [title]
-L-am întâlnit pe Domnul meu {contentHash: {da620f}, id: {ezz3ixmTTeVnuMzKz4e6AD}}
+L-am întâlnit pe Domnul meu {contentHash: {8f812e}, id: {ezz3ixmTTeVnuMzKz4e6AD}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12

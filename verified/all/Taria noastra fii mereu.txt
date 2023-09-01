@@ -1,5 +1,5 @@
 [title]
-Tăria noastră fii mereu {contentHash: {055142}, id: {vEHpKKJ9MmeaFA2mGV61z7}}
+Tăria noastră fii mereu {contentHash: {700b6b}, id: {vEHpKKJ9MmeaFA2mGV61z7}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,v3,v4,v5

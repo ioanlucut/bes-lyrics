@@ -1,5 +1,5 @@
 [title]
-Eu cunosc un loc un loc minunat {contentHash: {eec3ae}, id: {6kYbthwUWMjLPSGpts643i}}
+Eu cunosc un loc un loc minunat {contentHash: {1ad710}, id: {6kYbthwUWMjLPSGpts643i}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Suflă un Duh nou de viață {author: {Harvest Arad}, contentHash: {fb27e0}, id: {jzjQzvuq4LiKKtRqfQrm2D}}
+Suflă un Duh nou de viață {author: {Harvest Arad}, contentHash: {94d4da}, id: {jzjQzvuq4LiKKtRqfQrm2D}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,e

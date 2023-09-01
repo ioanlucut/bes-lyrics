@@ -1,5 +1,5 @@
 [title]
-Gândul meu spre Tine zboară, Tată Ceresc {contentHash: {6b9e43}, id: {eRVv9cBTDD7Q4qEZWqnYyS}}
+Gândul meu spre Tine zboară, Tată Ceresc {contentHash: {7c3a0c}, id: {eRVv9cBTDD7Q4qEZWqnYyS}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Oare cum va fi în Slavă? {author: {Damaris Căuneac}, contentHash: {870a2a}, id: {jdXETCLjpVsHQT6Jz5U3Mz}}
+Oare cum va fi în Slavă? {author: {Damaris Căuneac}, contentHash: {b41942}, id: {jdXETCLjpVsHQT6Jz5U3Mz}, rcId: {__NONE__}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

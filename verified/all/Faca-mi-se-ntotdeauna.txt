@@ -1,5 +1,5 @@
 [title]
-Facă-mi-se-ntotdeauna {contentHash: {3093db}, id: {oCeqZJwHxrK3vWEphmZ9Wj}}
+Facă-mi-se-ntotdeauna {contentHash: {1f1ac2}, id: {oCeqZJwHxrK3vWEphmZ9Wj}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,v3,v4

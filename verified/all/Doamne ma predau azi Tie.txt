@@ -1,5 +1,5 @@
 [title]
-Doamne, mă predau azi Ție {contentHash: {fe9a26}, id: {hqUZGhdbkiDMc6Y6TGpQjd}}
+Doamne, mă predau azi Ție {contentHash: {7c4c80}, id: {hqUZGhdbkiDMc6Y6TGpQjd}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c,v3,c

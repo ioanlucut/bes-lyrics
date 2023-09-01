@@ -1,5 +1,5 @@
 [title]
-Sfânt e Dumnezeu {author: {Otto Pascal}, contentHash: {ed7566}, id: {uELwQRuj1JZp3qmeFjZp8h}}
+Sfânt e Dumnezeu {author: {Otto Pascal}, contentHash: {66eb3a}, id: {uELwQRuj1JZp3qmeFjZp8h}, rcId: {__NONE__}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c

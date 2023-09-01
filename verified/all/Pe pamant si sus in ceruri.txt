@@ -1,5 +1,5 @@
 [title]
-Pe pământ și sus în ceruri {contentHash: {266c5d}, id: {tcFB6VHACm1xnGXwBEeBEq}}
+Pe pământ și sus în ceruri {contentHash: {a3b9c4}, id: {tcFB6VHACm1xnGXwBEeBEq}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

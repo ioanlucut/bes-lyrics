@@ -1,5 +1,5 @@
 [title]
-Tu ești Creatorul {contentHash: {6203e3}, id: {qFApZ95RgYRuhY4s73uZo8}}
+Tu ești Creatorul {contentHash: {d71223}, id: {qFApZ95RgYRuhY4s73uZo8}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c

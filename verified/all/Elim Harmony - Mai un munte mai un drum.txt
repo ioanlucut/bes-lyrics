@@ -1,5 +1,5 @@
 [title]
-Mai un munte, mai un drum {author: {Elim Harmony}, contentHash: {4de72f}, id: {we5cD3rZmoAEjMDsFgKEVD}}
+Mai un munte, mai un drum {author: {Elim Harmony}, contentHash: {3c4631}, id: {we5cD3rZmoAEjMDsFgKEVD}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Magii se-ntrebau cum Îl vor afla {contentHash: {ed97c7}, id: {ojUA14J7xEPrMgaTTCYX1t}}
+Magii se-ntrebau cum Îl vor afla {contentHash: {91527f}, id: {ojUA14J7xEPrMgaTTCYX1t}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Azi, eu Îți mulțumesc {author: {Elim Harmony}, contentHash: {234d35}, id: {4vubvsz3955uvUfnV8ZHpe}}
+Azi, eu Îți mulțumesc {author: {Elim Harmony}, contentHash: {708350}, id: {4vubvsz3955uvUfnV8ZHpe}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c,v2

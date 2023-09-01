@@ -1,5 +1,5 @@
 [title]
-Condu-mă, Doamne, ziua {contentHash: {0520ba}, id: {vbwfgC5YBRzJS64EDS3F6s}}
+Condu-mă, Doamne, ziua {contentHash: {450d17}, id: {vbwfgC5YBRzJS64EDS3F6s}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c,v2

@@ -1,5 +1,5 @@
 [title]
-Te cunosc {author: {Adi Kovaci}, contentHash: {6b3450}, id: {xrHkHLYZDwAi3NTdUqxCwP}}
+Te cunosc {author: {Adi Kovaci}, contentHash: {d3afbb}, id: {xrHkHLYZDwAi3NTdUqxCwP}, rcId: {__NONE__}}
 
 [sequence]
 v1,p,v2,c,c2

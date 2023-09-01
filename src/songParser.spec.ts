@@ -14,7 +14,7 @@ describe('Song parser', () => {
 {
   "alternative": "Când eram fără speranță",
   "author": "Betania Dublin",
-  "contentHash": "e9efbc",
+  "contentHash": "012786",
   "id": "7RURbpko41pWYEgVkHD4Pq",
   "sectionOrder": [
     "[v1]",
@@ -72,7 +72,7 @@ describe('Song parser', () => {
       "sectionIdentifier": "[sequence]",
     },
     "[title]": {
-      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}, rcId: {REPLACE_ME}}",
       "sectionIdentifier": "[title]",
     },
     "[v1]": {

@@ -1,5 +1,5 @@
 [title]
-Noi ridicăm către cer {contentHash: {bedc29}, id: {iQzrRSACY4RTSkqrwEBgAR}}
+Noi ridicăm către cer {contentHash: {f66f0b}, id: {iQzrRSACY4RTSkqrwEBgAR}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v1,c

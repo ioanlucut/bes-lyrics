@@ -1,5 +1,5 @@
 [title]
-Nu vă mai gândiți la ce a fost ’nainte {contentHash: {27945f}, id: {9hCRCwH45EQYapqs8Vo4bU}}
+Nu vă mai gândiți la ce a fost ’nainte {contentHash: {306201}, id: {9hCRCwH45EQYapqs8Vo4bU}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,c,v3,c,b,c

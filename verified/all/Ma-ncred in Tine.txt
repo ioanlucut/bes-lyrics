@@ -1,5 +1,5 @@
 [title]
-Mă-ncred în Tine {contentHash: {a2d716}, id: {a6rRL8CFodpVovL5bQNrge}}
+Mă-ncred în Tine {contentHash: {8aca72}, id: {a6rRL8CFodpVovL5bQNrge}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v1,c

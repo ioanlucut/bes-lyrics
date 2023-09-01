@@ -1,5 +1,5 @@
 [title]
-În prezența Ta {contentHash: {f6967e}, id: {v4VFGXYwXDXsnEvi52tF9N}}
+În prezența Ta {contentHash: {04409f}, id: {v4VFGXYwXDXsnEvi52tF9N}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c

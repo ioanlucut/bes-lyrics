@@ -1,5 +1,5 @@
 [title]
-Stau din nou gândindu-mă la jertfa Ta {contentHash: {3260e7}, id: {beGMdBTrR3CARHtBNcE9Gr}}
+Stau din nou gândindu-mă la jertfa Ta {contentHash: {d3094b}, id: {beGMdBTrR3CARHtBNcE9Gr}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c,b,c

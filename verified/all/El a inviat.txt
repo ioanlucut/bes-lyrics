@@ -1,5 +1,5 @@
 [title]
-El a înviat {contentHash: {4c5e1c}, id: {8vb3sr3XPutuh6SVdg9Xig}}
+El a înviat {contentHash: {1f44d2}, id: {8vb3sr3XPutuh6SVdg9Xig}, rcId: {__NONE__}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c

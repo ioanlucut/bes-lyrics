@@ -1,5 +1,5 @@
 [title]
-Nu există frică în iubire {contentHash: {9d46a2}, id: {tNKoJm4RbZ3HiZggZQe14F}}
+Nu există frică în iubire {contentHash: {f0437c}, id: {tNKoJm4RbZ3HiZggZQe14F}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c,v3,c

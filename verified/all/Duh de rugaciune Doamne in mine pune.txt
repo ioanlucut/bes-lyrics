@@ -1,5 +1,5 @@
 [title]
-Duh de rugăciune, Doamne, în mine pune {contentHash: {206d5e}, id: {h4KzyDqB1pGGSSq6rWqd6Y}}
+Duh de rugăciune, Doamne, în mine pune {contentHash: {71fe4e}, id: {h4KzyDqB1pGGSSq6rWqd6Y}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

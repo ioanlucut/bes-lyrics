@@ -1,5 +1,5 @@
 [title]
-Știu că Tu nu vrei nici jertfe și nici daruri {contentHash: {047861}, id: {47DyqYw4yL8uY7zodFFW4L}}
+Știu că Tu nu vrei nici jertfe și nici daruri {contentHash: {9d28d7}, id: {47DyqYw4yL8uY7zodFFW4L}, rcId: {__NONE__}}
 
 [sequence]
 v1.1,v1.2,c,v2,c

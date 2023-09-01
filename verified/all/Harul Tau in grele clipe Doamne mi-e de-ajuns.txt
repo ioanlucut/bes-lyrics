@@ -1,5 +1,5 @@
 [title]
-Harul Tău în grele clipe, Doamne, mi-e de-ajuns {contentHash: {737d59}, id: {rkSJF8FdH5ikXPymFRbSkg}}
+Harul Tău în grele clipe, Doamne, mi-e de-ajuns {contentHash: {183814}, id: {rkSJF8FdH5ikXPymFRbSkg}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,v3,v4

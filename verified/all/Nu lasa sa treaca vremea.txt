@@ -1,5 +1,5 @@
 [title]
-Nu lăsa să treacă vremea {contentHash: {2cb1db}, id: {fU5nuiXiFf1mBMqhdkHyrL}}
+Nu lăsa să treacă vremea {contentHash: {e85951}, id: {fU5nuiXiFf1mBMqhdkHyrL}, rcId: {__NONE__}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

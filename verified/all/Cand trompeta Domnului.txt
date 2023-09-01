@@ -1,5 +1,5 @@
 [title]
-Când trompeta Domnului {contentHash: {29b936}, id: {cef5MdR1Qe1VDcWXWh17ZE}}
+Când trompeta Domnului {contentHash: {374b91}, id: {cef5MdR1Qe1VDcWXWh17ZE}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c

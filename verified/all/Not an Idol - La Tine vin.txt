@@ -1,5 +1,5 @@
 [title]
-La Tine vin {author: {Not an Idol}, contentHash: {e26c4c}, id: {iWEYkGtBjCr5hL9qJoBPwU}}
+La Tine vin {author: {Not an Idol}, contentHash: {694151}, id: {iWEYkGtBjCr5hL9qJoBPwU}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c

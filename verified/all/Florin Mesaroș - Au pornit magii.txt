@@ -1,5 +1,5 @@
 [title]
-Au pornit magii {author: {Florin Mesaroș}, contentHash: {df39d7}, id: {3zUyyABbAXx8o9nTX7vn89}}
+Au pornit magii {author: {Florin Mesaroș}, contentHash: {7913ce}, id: {3zUyyABbAXx8o9nTX7vn89}, rcId: {__NONE__}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

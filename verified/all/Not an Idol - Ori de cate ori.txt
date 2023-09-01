@@ -1,5 +1,5 @@
 [title]
-Ori de câte ori {author: {Not an Idol}, contentHash: {f43420}, id: {ri32QLqri74U5rPyfA5J6x}}
+Ori de câte ori {author: {Not an Idol}, contentHash: {00b9f7}, id: {ri32QLqri74U5rPyfA5J6x}, rcId: {__NONE__}}
 
 [sequence]
 v1,b,c,v2,b2,c

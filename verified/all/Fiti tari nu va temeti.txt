@@ -1,5 +1,5 @@
 [title]
-Fiți tari, nu vă temeți {contentHash: {327327}, id: {8bQAQXmTsHhvd9hfShdrzg}}
+Fiți tari, nu vă temeți {contentHash: {85b166}, id: {8bQAQXmTsHhvd9hfShdrzg}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c,v2,c,v3

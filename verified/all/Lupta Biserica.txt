@@ -1,5 +1,5 @@
 [title]
-Luptă, Biserică! {contentHash: {fc1bf8}, id: {ssYT6H6iHX6cMG6PNyZn4E}}
+Luptă, Biserică! {contentHash: {443622}, id: {ssYT6H6iHX6cMG6PNyZn4E}, rcId: {__NONE__}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2

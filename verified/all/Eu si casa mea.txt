@@ -1,5 +1,5 @@
 [title]
-Eu și casa mea {contentHash: {e058f3}, id: {rxpvUYe886fqsVnqartWsf}}
+Eu și casa mea {contentHash: {51d4a0}, id: {rxpvUYe886fqsVnqartWsf}, rcId: {__NONE__}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,b,c

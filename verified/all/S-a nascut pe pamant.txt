@@ -1,5 +1,5 @@
 [title]
-S-a născut pe pământ {contentHash: {b24a38}, id: {3tiq8LUws6iFeTfXYw66rv}}
+S-a născut pe pământ {contentHash: {4364a1}, id: {3tiq8LUws6iFeTfXYw66rv}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,v3,v4,v5

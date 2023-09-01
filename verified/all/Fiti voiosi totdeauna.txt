@@ -1,5 +1,5 @@
 [title]
-Fiți voioși totdeauna {contentHash: {aa9ce7}, id: {sbcCALw6gXaFk94Pv6Q3nE}}
+Fiți voioși totdeauna {contentHash: {f99aad}, id: {sbcCALw6gXaFk94Pv6Q3nE}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2,v3,v4

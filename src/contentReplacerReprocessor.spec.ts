@@ -40,7 +40,7 @@ mesia
   it('should not do anything for a simple correct song w/o sub sections', () => {
     expect(reprocess(SIMPLE_SONG_MOCK_FILE_CONTENT)).toMatchInlineSnapshot(`
 "[title]
-My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}
+My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}, rcId: {REPLACE_ME}}
 
 [sequence]
 v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3

@@ -1,5 +1,5 @@
 [title]
-Revival {author: {Callatis Praise}, contentHash: {bfea2d}, id: {j5FdsuXmP9DWSshFPqNTjw}}
+Revival {author: {Callatis Praise}, contentHash: {e2e4f6}, id: {j5FdsuXmP9DWSshFPqNTjw}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c

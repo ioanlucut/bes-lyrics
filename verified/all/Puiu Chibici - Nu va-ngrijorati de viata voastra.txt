@@ -1,5 +1,5 @@
 [title]
-Nu vă-ngrijorați de viața voastră {author: {Puiu Chibici}, contentHash: {1c1916}, id: {nWJjm6ERqn6UBcWj4H1LtQ}}
+Nu vă-ngrijorați de viața voastră {author: {Puiu Chibici}, contentHash: {530456}, id: {nWJjm6ERqn6UBcWj4H1LtQ}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

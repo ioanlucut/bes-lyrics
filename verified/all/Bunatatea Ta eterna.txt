@@ -1,5 +1,5 @@
 [title]
-Bunătatea Ta eternă {contentHash: {0ff279}, id: {x9E55RH9hJgWeUU9oE3TQm}}
+Bunătatea Ta eternă {contentHash: {41ab79}, id: {x9E55RH9hJgWeUU9oE3TQm}, rcId: {__NONE__}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

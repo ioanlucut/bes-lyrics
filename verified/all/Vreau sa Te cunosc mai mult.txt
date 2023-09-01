@@ -1,5 +1,5 @@
 [title]
-Vreau să Te cunosc mai mult {contentHash: {76218a}, id: {99qvJiRRaHxkn4Y6jKLxUH}}
+Vreau să Te cunosc mai mult {contentHash: {8b41b6}, id: {99qvJiRRaHxkn4Y6jKLxUH}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v1,c

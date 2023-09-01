@@ -1,5 +1,5 @@
 [title]
-Această zi a făcut-o El {contentHash: {cfb4c4}, id: {2H1v93LFyrtGynLXGxbw3L}}
+Această zi a făcut-o El {contentHash: {8ff546}, id: {2H1v93LFyrtGynLXGxbw3L}, rcId: {__NONE__}}
 
 [sequence]
 v1,v2

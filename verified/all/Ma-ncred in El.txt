@@ -1,5 +1,5 @@
 [title]
-Mă-ncred în El {contentHash: {a1ab36}, id: {sQHxHgzDr36KdaH21hn9V5}}
+Mă-ncred în El {contentHash: {46f451}, id: {sQHxHgzDr36KdaH21hn9V5}, rcId: {__NONE__}}
 
 [sequence]
 c,v1,c,v2,c2,v3,c2

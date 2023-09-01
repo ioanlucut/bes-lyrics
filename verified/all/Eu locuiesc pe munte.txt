@@ -1,5 +1,5 @@
 [title]
-Eu locuiesc pe munte {contentHash: {70a290}, id: {dkcNxTnsr4Uh9XCtqsDssx}}
+Eu locuiesc pe munte {contentHash: {9634ce}, id: {dkcNxTnsr4Uh9XCtqsDssx}, rcId: {__NONE__}}
 
 [sequence]
 v1,c,v2,c,v3,c
