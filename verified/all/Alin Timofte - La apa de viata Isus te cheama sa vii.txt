@@ -1,5 +1,5 @@
 [title]
-La apa de viață Isus te cheamă să vii {author: {Alin Timofte}, contentHash: {2bc9e5}, id: {ftfPNdWxdLTVnBLCjPqYXW}}
+La apa de viață, Isus te cheamă să vii {author: {Alin Timofte}, contentHash: {2bc9e5}, id: {ftfPNdWxdLTVnBLCjPqYXW}}
 
 [sequence]
 v1,c,v2,c
@@ -18,6 +18,6 @@ Căci în palmele Sale, ești săpat pentru veci.
 
 [v2]
 Isuse bun, primește-mi, azi, inima!
-Fii bun Salvator și împlinire,
+Fii bun salvator și împlinire,
 Îți mulțumesc și mă închin, căci Tu ai promis
 S-așezi tronul Tău în inima mea.

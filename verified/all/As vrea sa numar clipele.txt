@@ -8,7 +8,7 @@ v1.1,v1.2,c,v2.1,v2.2,c,c2
 Aș vrea să număr clipele,
 Dar timpul trece-n grabă,
 Minute ce-au trecut le-am irosit.
-Am spus că sunt al Lui Hristos,
+Am spus că sunt al lui Hristos,
 
 [v1.2]
 Dar Domnul înc-așteaptă

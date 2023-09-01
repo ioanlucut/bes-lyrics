@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c,v4,c
 [v1]
 Astăzi, Doamne, eu Te rog să intri
 În grădina Ta ce-ai semănat,
-Să uzi florile ce-s ofilite
+Să uzi florile ce-s ofilite,
 Cu petale-n jos ce s-au lăsat.
 
 [c]
