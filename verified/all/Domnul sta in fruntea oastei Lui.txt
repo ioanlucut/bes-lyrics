@@ -1,5 +1,5 @@
 [title]
-Domnul stă în fruntea oastei Lui {contentHash: {f0e21d}, id: {xiKDdrdF93Wt4aat9JLATT}, rcId: {__NONE__}}
+Domnul stă în fruntea oastei Lui {contentHash: {f0e21d}, id: {xiKDdrdF93Wt4aat9JLATT}, rcId: {4897}}
 
 [sequence]
 v1,c,v2,c

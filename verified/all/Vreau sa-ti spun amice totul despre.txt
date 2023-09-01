@@ -1,5 +1,5 @@
 [title]
-Vreau să-ți spun, amice, totul despre {contentHash: {b6da9b}, id: {twAng8oPg76RcnDF5LAnxX}, rcId: {__NONE__}}
+Vreau să-ți spun, amice, totul despre {contentHash: {b6da9b}, id: {twAng8oPg76RcnDF5LAnxX}, rcId: {4195}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

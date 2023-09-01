@@ -1,5 +1,5 @@
 [title]
-Da, eu cred în Isus {contentHash: {caab2b}, id: {vEzm8dUQDA1ryXeEHb8jb6}, rcId: {__NONE__}}
+Da, eu cred în Isus {contentHash: {caab2b}, id: {vEzm8dUQDA1ryXeEHb8jb6}, rcId: {4874}}
 
 [sequence]
 v1,c,v2,c

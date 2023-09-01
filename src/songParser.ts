@@ -1,4 +1,3 @@
-import assert from 'node:assert';
 import { SongAST, SongSection } from './types.js';
 import {
   assertUniqueness,
@@ -8,7 +7,7 @@ import {
   getTitleWithoutMeta,
   getUniqueId,
 } from './core.js';
-import { COMMA, EMPTY_STRING } from './constants.js';
+import { COMMA, EMPTY_STRING, MISSING_RC_ID } from './constants.js';
 
 /**
  * Parses the content of a song to its basic AST structure.
@@ -50,11 +49,11 @@ export const parse = (songAsString: string) => {
       songAST.title = getTitleWithoutMeta(sectionContent);
 
       const metaSectionsFromTitle = getMetaSectionsFromTitle(sectionContent);
-      const { author, id,rcId, contentHash, version, alternative } =
+      const { author, id, rcId, contentHash, version, alternative } =
         metaSectionsFromTitle;
 
       songAST.id = id || getUniqueId();
-      songAST.rcId = rcId || '__NONE__'
+      songAST.rcId = rcId || MISSING_RC_ID;
       songAST.author = author;
 
       // Just a basic one, but should be updated after any potential changes

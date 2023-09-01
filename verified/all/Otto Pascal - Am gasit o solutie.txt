@@ -1,5 +1,5 @@
 [title]
-Am găsit o soluție {author: {Otto Pascal}, contentHash: {dbad09}, id: {fVe6YQ8gfc8r8mnQobmE4Q}, rcId: {__NONE__}}
+Am găsit o soluție {author: {Otto Pascal}, contentHash: {dbad09}, id: {fVe6YQ8gfc8r8mnQobmE4Q}, rcId: {112787}}
 
 [sequence]
 v1,c,v2,c,b,c

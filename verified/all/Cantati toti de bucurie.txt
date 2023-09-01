@@ -1,5 +1,5 @@
 [title]
-Cântați toți de bucurie {contentHash: {f9323f}, id: {21Aq4baL9UemxVqsoynTUt}, rcId: {__NONE__}}
+Cântați toți de bucurie {contentHash: {f9323f}, id: {21Aq4baL9UemxVqsoynTUt}, rcId: {222623}}
 
 [sequence]
 v1,v2,v3

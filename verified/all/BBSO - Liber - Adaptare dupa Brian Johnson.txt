@@ -1,5 +1,5 @@
 [title]
-Liber {author: {BBSO}, alternative: {Adaptare după Brian Johnson}, contentHash: {52e5ed}, id: {2Bmui4M4wzv7FuNSvb4U62}, rcId: {__NONE__}}
+Liber {author: {BBSO}, alternative: {Adaptare după Brian Johnson}, contentHash: {52e5ed}, id: {2Bmui4M4wzv7FuNSvb4U62}, rcId: {157507}}
 
 [sequence]
 v1,c,v2,b,c2

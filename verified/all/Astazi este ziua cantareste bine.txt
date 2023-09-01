@@ -1,5 +1,5 @@
 [title]
-Astăzi este ziua, cântărește bine! {contentHash: {22c759}, id: {i27127oo4haCmwQB5RD7w4}, rcId: {__NONE__}}
+Astăzi este ziua, cântărește bine! {contentHash: {22c759}, id: {i27127oo4haCmwQB5RD7w4}, rcId: {6240}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

@@ -1,5 +1,5 @@
 [title]
-Mireasmă de iertare la calvar, sus, pe o cruce {contentHash: {8d75bb}, id: {7rGjQSmpq9bAi29KChDr7C}, rcId: {__NONE__}}
+Mireasmă de iertare la calvar, sus, pe o cruce {contentHash: {8d75bb}, id: {7rGjQSmpq9bAi29KChDr7C}, rcId: {56019}}
 
 [sequence]
 v1,c,v2,c

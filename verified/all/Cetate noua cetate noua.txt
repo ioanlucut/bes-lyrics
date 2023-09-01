@@ -1,5 +1,5 @@
 [title]
-Cetate nouă, cetate nouă {contentHash: {b7d492}, id: {1w3Ym7ht4s3JDSzb9SeyUH}, rcId: {__NONE__}}
+Cetate nouă, cetate nouă {contentHash: {b7d492}, id: {1w3Ym7ht4s3JDSzb9SeyUH}, rcId: {2160}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2

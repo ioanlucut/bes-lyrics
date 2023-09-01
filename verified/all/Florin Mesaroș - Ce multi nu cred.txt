@@ -1,5 +1,5 @@
 [title]
-Ce mulți nu cred {author: {Florin Mesaroș}, contentHash: {8bdd18}, id: {c3bvNc673x5ATRea8tenRs}, rcId: {__NONE__}}
+Ce mulți nu cred {author: {Florin Mesaroș}, contentHash: {8bdd18}, id: {c3bvNc673x5ATRea8tenRs}, rcId: {158410}}
 
 [sequence]
 v1,c,b,c

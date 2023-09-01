@@ -32,3 +32,7 @@ export const CHARS_SEPARATORS = /[ !(),./:;?”„\n]+/;
 export const ALT_SONGS_FILE_SUFFIX = /(- i|- ii)/;
 
 export const TEST_ENV = 'test';
+
+export const RC_DASH = ' - ';
+
+export const MISSING_RC_ID = '__NONE__';

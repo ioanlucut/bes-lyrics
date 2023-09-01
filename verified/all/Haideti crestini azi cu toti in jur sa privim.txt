@@ -1,5 +1,5 @@
 [title]
-Haideți creștini azi cu toți în jur să privim {contentHash: {62380f}, id: {fYvkWc2LryNXVwErrWC4q7}, rcId: {__NONE__}}
+Haideți creștini azi cu toți în jur să privim {contentHash: {62380f}, id: {fYvkWc2LryNXVwErrWC4q7}, rcId: {66663}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2

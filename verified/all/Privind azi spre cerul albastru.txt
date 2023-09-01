@@ -1,5 +1,5 @@
 [title]
-Privind azi spre cerul albastru {contentHash: {9fb8b9}, id: {sfrbUk28VNjv3uqJJmBKCF}, rcId: {__NONE__}}
+Privind azi spre cerul albastru {contentHash: {9fb8b9}, id: {sfrbUk28VNjv3uqJJmBKCF}, rcId: {7036}}
 
 [sequence]
 v1,c,v2,c,v3,c

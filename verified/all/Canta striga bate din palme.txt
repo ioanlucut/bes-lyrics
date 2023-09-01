@@ -1,5 +1,5 @@
 [title]
-Cântă, strigă, bate din palme {contentHash: {a2c814}, id: {k9c89ZBJXxEv8UvPBpp5VJ}, rcId: {__NONE__}}
+Cântă, strigă, bate din palme {contentHash: {a2c814}, id: {k9c89ZBJXxEv8UvPBpp5VJ}, rcId: {773}}
 
 [sequence]
 c,v1,c,v1

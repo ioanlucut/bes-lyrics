@@ -1,5 +1,5 @@
 [title]
-Tu ești tare, ești puternic {contentHash: {0a0c2a}, id: {fZHvfUJdXQWrFt4bCFi1VA}, rcId: {__NONE__}}
+Tu ești tare, ești puternic {contentHash: {0a0c2a}, id: {fZHvfUJdXQWrFt4bCFi1VA}, rcId: {123311}}
 
 [sequence]
 v1,c,v2,c,e

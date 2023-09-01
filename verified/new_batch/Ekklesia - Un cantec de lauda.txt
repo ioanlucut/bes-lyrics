@@ -1,5 +1,5 @@
 [title]
-Un cântec de laudă {author: {Ekklesia}, contentHash: {15bc52}, id: {nYiNGfX9UX8pjzMcJPHqQG}, rcId: {__NONE__}}
+Un cântec de laudă {author: {Ekklesia}, contentHash: {15bc52}, id: {nYiNGfX9UX8pjzMcJPHqQG}, rcId: {62666}}
 
 [sequence]
 v1,v2,p,c1.1,c1.2,c2

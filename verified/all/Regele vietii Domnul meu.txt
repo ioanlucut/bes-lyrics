@@ -1,5 +1,5 @@
 [title]
-Regele vieții, Domnul meu {contentHash: {67cef1}, id: {rWeVAqUhwnJuyP8bXNJSxy}, rcId: {__NONE__}}
+Regele vieții, Domnul meu {contentHash: {67cef1}, id: {rWeVAqUhwnJuyP8bXNJSxy}, rcId: {1522}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

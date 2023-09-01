@@ -1,5 +1,5 @@
 [title]
-Golgota, Golgota, schimbă viața mea {contentHash: {ab7869}, id: {6kY7rWGUgZJx7rSZUJ7B3Q}, rcId: {__NONE__}}
+Golgota, Golgota, schimbă viața mea {contentHash: {ab7869}, id: {6kY7rWGUgZJx7rSZUJ7B3Q}, rcId: {7234}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

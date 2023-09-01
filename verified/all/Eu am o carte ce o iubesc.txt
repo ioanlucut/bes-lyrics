@@ -1,5 +1,5 @@
 [title]
-Eu am o carte ce o iubesc {contentHash: {46a462}, id: {qQAj7Q4pu5yi3n8kLbSBsQ}, rcId: {__NONE__}}
+Eu am o carte ce o iubesc {contentHash: {46a462}, id: {qQAj7Q4pu5yi3n8kLbSBsQ}, rcId: {4380}}
 
 [sequence]
 v1,c,v2,c,v3,c

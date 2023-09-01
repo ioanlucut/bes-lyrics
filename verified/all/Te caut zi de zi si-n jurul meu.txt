@@ -1,5 +1,5 @@
 [title]
-Te caut zi de zi și-n jurul meu {contentHash: {a2d704}, id: {iefMF36vcYYcnCfXaqm9LG}, rcId: {__NONE__}}
+Te caut zi de zi și-n jurul meu {contentHash: {a2d704}, id: {iefMF36vcYYcnCfXaqm9LG}, rcId: {90962}}
 
 [sequence]
 v1,c,v2,c

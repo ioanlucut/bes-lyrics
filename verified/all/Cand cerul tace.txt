@@ -1,5 +1,5 @@
 [title]
-Când cerul tace {contentHash: {7d8803}, id: {nzzRWsgcwu9LzMoHQGPnv5}, rcId: {__NONE__}}
+Când cerul tace {contentHash: {7d8803}, id: {nzzRWsgcwu9LzMoHQGPnv5}, rcId: {178672}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Lumină în noapte {contentHash: {e8c373}, id: {8RACgEq55NDfV1gGDJX1NK}, rcId: {__NONE__}}
+Lumină în noapte {contentHash: {e8c373}, id: {8RACgEq55NDfV1gGDJX1NK}, rcId: {198973}}
 
 [sequence]
 c,v1,c,v2

@@ -1,5 +1,5 @@
 [title]
-Rugă de seară {author: {Laud}, contentHash: {c4b25c}, id: {cvA7M5EgjAm6MrJW8ZskYU}, rcId: {__NONE__}}
+Rugă de seară {author: {Laud}, contentHash: {c4b25c}, id: {cvA7M5EgjAm6MrJW8ZskYU}, rcId: {123555}}
 
 [sequence]
 v1,c,v2,c

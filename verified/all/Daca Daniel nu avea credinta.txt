@@ -1,5 +1,5 @@
 [title]
-Dacă Daniel nu avea credință {contentHash: {3072f4}, id: {bjq6QqZHEkGAG37wXsHXiE}, rcId: {__NONE__}}
+Dacă Daniel nu avea credință {contentHash: {3072f4}, id: {bjq6QqZHEkGAG37wXsHXiE}, rcId: {3862}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

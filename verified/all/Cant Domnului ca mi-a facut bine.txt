@@ -1,5 +1,5 @@
 [title]
-Cânt Domnului că mi-a făcut bine {contentHash: {f7da8b}, id: {g9FxmVFqGHbFd5PVYMXUKh}, rcId: {__NONE__}}
+Cânt Domnului că mi-a făcut bine {contentHash: {f7da8b}, id: {g9FxmVFqGHbFd5PVYMXUKh}, rcId: {4121}}
 
 [sequence]
 v1,c,v2,c,v3,c

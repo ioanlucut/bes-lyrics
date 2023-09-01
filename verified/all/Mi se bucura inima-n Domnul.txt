@@ -1,5 +1,5 @@
 [title]
-Mi se bucură inima-n Domnul {contentHash: {0280bd}, id: {55DpDXhjvFngtup9AaS5AS}, rcId: {__NONE__}}
+Mi se bucură inima-n Domnul {contentHash: {0280bd}, id: {55DpDXhjvFngtup9AaS5AS}, rcId: {3973}}
 
 [sequence]
 v1,c,v2,c,v3,c

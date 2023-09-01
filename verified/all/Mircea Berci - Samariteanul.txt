@@ -1,5 +1,5 @@
 [title]
-Samariteanul {author: {Mircea Berci}, contentHash: {e00bfc}, id: {65uceNXD63o9bh2NanjjT8}, rcId: {__NONE__}}
+Samariteanul {author: {Mircea Berci}, contentHash: {e00bfc}, id: {65uceNXD63o9bh2NanjjT8}, rcId: {89566}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2

@@ -1,5 +1,5 @@
 [title]
-La început era Cuvântul {author: {Cor copii Dynamis}, contentHash: {02ac23}, id: {jEUQ3BFqHtqEHoDmVKoDPs}, rcId: {__NONE__}}
+La început era Cuvântul {author: {Cor copii Dynamis}, contentHash: {02ac23}, id: {jEUQ3BFqHtqEHoDmVKoDPs}, rcId: {144184}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

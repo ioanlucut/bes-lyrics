@@ -1,5 +1,5 @@
 [title]
-Frumusețea ce ne-nconjoară {author: {Elim Harmony}, contentHash: {e9ac73}, id: {1MLMtPS6JyCrtTa5B5gL7D}, rcId: {__NONE__}}
+Frumusețea ce ne-nconjoară {author: {Elim Harmony}, contentHash: {e9ac73}, id: {1MLMtPS6JyCrtTa5B5gL7D}, rcId: {100521}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2

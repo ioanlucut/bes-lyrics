@@ -1,5 +1,5 @@
 [title]
-O stâncă eu am {author: {Cor copii Dynamis}, contentHash: {5301d2}, id: {aeQWTShew4LKb6oHNd5XHW}, rcId: {__NONE__}}
+O stâncă eu am {author: {Cor copii Dynamis}, contentHash: {5301d2}, id: {aeQWTShew4LKb6oHNd5XHW}, rcId: {124513}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,e

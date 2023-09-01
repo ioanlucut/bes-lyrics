@@ -1,5 +1,5 @@
 [title]
-Dumnezeu minunat {contentHash: {38c69e}, id: {mxQSD1Sb2VtmGjGVNN2aHp}, rcId: {__NONE__}}
+Dumnezeu minunat {contentHash: {38c69e}, id: {mxQSD1Sb2VtmGjGVNN2aHp}, rcId: {1079}}
 
 [sequence]
 v1.1,v1.2,c,b,c

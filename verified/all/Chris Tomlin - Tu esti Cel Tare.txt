@@ -1,5 +1,5 @@
 [title]
-Tu ești Cel Tare! {author: {Chris Tomlin}, contentHash: {768571}, id: {gpHosp4Ydpn5HDpAHf5UVn}, rcId: {__NONE__}}
+Tu ești Cel Tare! {author: {Chris Tomlin}, contentHash: {768571}, id: {gpHosp4Ydpn5HDpAHf5UVn}, rcId: {167046}}
 
 [sequence]
 v1,c,v1,c,b,c

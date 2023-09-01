@@ -1,5 +1,5 @@
 [title]
-Într-o zi când viața voi sfârși, eu voi zbura {contentHash: {01ad08}, id: {4poMrSiSLjgnUru8NVZ1SD}, rcId: {__NONE__}}
+Într-o zi când viața voi sfârși, eu voi zbura {contentHash: {01ad08}, id: {4poMrSiSLjgnUru8NVZ1SD}, rcId: {1542}}
 
 [sequence]
 v1,c,v2,c,v3,c

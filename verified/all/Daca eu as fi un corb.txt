@@ -1,5 +1,5 @@
 [title]
-Dacă eu aș fi un corb {contentHash: {0ecd17}, id: {3GJEpS2Bj2ybfC3DXNZkLz}, rcId: {__NONE__}}
+Dacă eu aș fi un corb {contentHash: {0ecd17}, id: {3GJEpS2Bj2ybfC3DXNZkLz}, rcId: {61424}}
 
 [sequence]
 v1,c,v2,c,v3,c

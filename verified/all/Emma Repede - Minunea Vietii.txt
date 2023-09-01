@@ -1,5 +1,5 @@
 [title]
-Minunea Vieții {author: {Emma Repede}, contentHash: {550dae}, id: {wDbYAA7Dnq2K64uDkMLtGb}, rcId: {__NONE__}}
+Minunea Vieții {author: {Emma Repede}, contentHash: {550dae}, id: {wDbYAA7Dnq2K64uDkMLtGb}, rcId: {189551}}
 
 [sequence]
 v1,b,c,v2,c

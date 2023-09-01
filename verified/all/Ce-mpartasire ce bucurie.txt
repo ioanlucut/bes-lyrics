@@ -1,5 +1,5 @@
 [title]
-Ce-mpărtășire, ce bucurie {contentHash: {df8b82}, id: {qpqwG1oALQL7Y9YnUdip3R}, rcId: {__NONE__}}
+Ce-mpărtășire, ce bucurie {contentHash: {df8b82}, id: {qpqwG1oALQL7Y9YnUdip3R}, rcId: {78234}}
 
 [sequence]
 v1,c,v2,c,v3,c
