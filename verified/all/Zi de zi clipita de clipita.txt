@@ -1,5 +1,5 @@
 [title]
-Zi de zi, clipită de clipită {contentHash: {9c3d45}, id: {hGfVZWXfNJLVJ7cDNfhn72}, rcId: {__NONE__}}
+Zi de zi, clipită de clipită {contentHash: {9c3d45}, id: {hGfVZWXfNJLVJ7cDNfhn72}, rcId: {241057}}
 
 [sequence]
 v1,c,v2,c,v3,c

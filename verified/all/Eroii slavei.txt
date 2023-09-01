@@ -1,5 +1,5 @@
 [title]
-Eroii slavei {contentHash: {650dba}, id: {xwaTUHgkt6pcmSf33X4Hmi}, rcId: {__NONE__}}
+Eroii slavei {contentHash: {650dba}, id: {xwaTUHgkt6pcmSf33X4Hmi}, rcId: {6816}}
 
 [sequence]
 v1,c,v2,c,v3,c

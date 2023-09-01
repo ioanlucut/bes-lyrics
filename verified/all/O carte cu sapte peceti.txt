@@ -1,5 +1,5 @@
 [title]
-O carte cu șapte peceți {contentHash: {ff0f67}, id: {cmkVJkpHihy3vJYXeCA8F1}, rcId: {__NONE__}}
+O carte cu șapte peceți {contentHash: {ff0f67}, id: {cmkVJkpHihy3vJYXeCA8F1}, rcId: {90158}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

@@ -1,5 +1,5 @@
 [title]
-Eu Te iubesc și glasul mi-l înalț {contentHash: {b81d32}, id: {8NyHsj74nxGWA4ZMsFAsJr}, rcId: {__NONE__}}
+Eu Te iubesc și glasul mi-l înalț {contentHash: {b81d32}, id: {8NyHsj74nxGWA4ZMsFAsJr}, rcId: {4926}}
 
 [sequence]
 v1

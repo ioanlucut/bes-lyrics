@@ -1,5 +1,5 @@
 [title]
-Astăzi vin la Tine, Domnul meu {author: {Liviu Deac}, contentHash: {a2d781}, id: {hKzZBxj4XucFJMrQH4GJNH}, rcId: {__NONE__}}
+Astăzi vin la Tine, Domnul meu {author: {Liviu Deac}, contentHash: {a2d781}, id: {hKzZBxj4XucFJMrQH4GJNH}, rcId: {2782}}
 
 [sequence]
 v1,p,c,v2,p,c,e
