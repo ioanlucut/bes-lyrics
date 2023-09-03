@@ -1,5 +1,5 @@
 [title]
-Voi veți fi bucuroși, de pace însoțiți {author: {__A__}, contentHash: {fdda66}, id: {bz959wVVTkZSpCesuGDx2u}, rcId: {5123}}
+Voi veți fi bucuroși, de pace însoțiți {author: {__A__}, contentHash: {14627a}, id: {bz959wVVTkZSpCesuGDx2u}, rcId: {5123}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -8,7 +8,7 @@ v1.1,v1.2,c,v2.1,v2.2,c
 Voi veți fi bucuroși,
 De pace însoțiți,
 Chiar munții răsuna-vor
-’naintea voastră,
+’Naintea voastră.
 
 [v1.2]
 Când voi veți cânta,
