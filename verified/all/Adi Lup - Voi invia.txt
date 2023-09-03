@@ -1,5 +1,5 @@
 [title]
-Voi învia {author: {Adi Lup}, contentHash: {c83783}, id: {9vy9M168Fr1S7EEgQJeS2X}}
+Voi învia {author: {Adi Lup}, contentHash: {a955f8}, id: {9vy9M168Fr1S7EEgQJeS2X}}
 
 [sequence]
 v1,c,v2,c
@@ -8,20 +8,20 @@ v1,c,v2,c
 Când privesc la toate greșurile mele,
 Când mă gândesc de câte ori eu am căzut,
 Îmi plec genunchii și Îi mulțumesc de harul
-Și mila care am aflat-o la Calvar!
+Și mila pe care am aflat-o la Calvar!
 N-aș putea vreodat’ să Îi uit dragostea,
-Ce-o simt și-acuma în inima mea!
+Ce simt și acum în inima mea!
 
 [c]
 /: Voi învia, prin sfânt sângele Mielului!
 Voi învia, când va veni pe nori!
-Când privește-n min’, El vede rodul Crucii,
+Când privește la min’, El vede rodul Crucii,
 De-aceea-n viața mea, Îi voi cânta! :/
 
 [v2]
 Nu vrei tu ca să-L primești pe Isus?
 Nu vrei tu să guști din pacea Sa?
 El e-aici și stă cu mâinile întinse...
-Așteptând să te decizi și să spui: „Da!”
+Așteptând să decizi și să spui: „Da!”
 Toată viață ta El o va schimba,
 Redându-ți bucuria de-a cânta.

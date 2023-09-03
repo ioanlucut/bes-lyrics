@@ -1,5 +1,5 @@
 [title]
-Și mă ridic {author: {Album Toflea}, contentHash: {8accde}, id: {i9K59Zke2WBeS5DU8AShzE}}
+Și mă ridic {author: {Album Toflea}, contentHash: {fbfc2c}, id: {i9K59Zke2WBeS5DU8AShzE}}
 
 [sequence]
 c,v1,c,v2,c,v3,c
@@ -25,6 +25,6 @@ El așteaptă ca să spui: „Mă voi ridica!”
 [v3]
 Chiar dacă cei din jur mă vor prigoni,
 Eu știu că mâna Sa mă va sprijini.
-Doar brațul Său cel Sfânt,
-Doar brațul Său cel Sfânt,
-Doar brațul Său cel Sfânt mă va ridica.
+Doar brațul Său cel sfânt,
+Doar brațul Său cel sfânt,
+Doar brațul Său cel sfânt mă va ridica.

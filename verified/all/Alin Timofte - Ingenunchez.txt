@@ -1,11 +1,11 @@
 [title]
-Îngenunchez {author: {Alin Timofte}, contentHash: {7e88c3}, id: {7CTrDfwa6D3toKymPCRADK}}
+Îngenunchez {author: {Alin Timofte}, contentHash: {2da176}, id: {7CTrDfwa6D3toKymPCRADK}}
 
 [sequence]
 v1,b,c,v2,b,c
 
 [v1]
-Îngenunchez ’naintea cerului și-aștept,
+Îngenunchez ’naintea cerului și aștept,
 Clipele se scurg în etern,
 Iar cerul parcă tace acum.
 
@@ -22,6 +22,6 @@ Prezenta Ta să mă umple din nou.
 Cu Duhul Tău.
 
 [v2]
-O, Domnul meu, mă închin în fața Tronului Tău,
+O, Domnul meu, mă-nchin în fața tronului Tău,
 Văd mii de îngeri cum cântă
 Și plin de uimire m-aplec în fața Ta.

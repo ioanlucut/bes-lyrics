@@ -1,5 +1,5 @@
 [title]
-Aș vrea, Isuse scump, să fiu ca Tine {contentHash: {bee748}, id: {c3qmE1ANwCpE5TSfdmhtYg}}
+Aș vrea, Isuse scump, să fiu ca Tine {contentHash: {0d820f}, id: {c3qmE1ANwCpE5TSfdmhtYg}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -8,7 +8,7 @@ v1,c,v2,c,v3,c
 Aș vrea, Isuse scump, să fiu ca Tine,
 În pribegia mea pe-acest pământ.
 De-atâtea ori când grea ispită vine,
-S-o biruiesc prin sfântul Tău cuvânt.
+S-o biruiesc prin sfântul Tău Cuvânt.
 
 [c]
 Aș vrea, Isuse scump, a Ta comoară
@@ -26,4 +26,4 @@ Ce-mpiedică să-Ți văd mărirea Ta.
 Și câte n-aș mai vrea, o, scump Isuse,
 În pribegia mea pe-acest pământ!
 Dorințele ce îmi rămân nespuse
-Să le-mplinești prin sfântul Tău cuvânt!
+Le împlinește sfântul Tău Cuvânt!

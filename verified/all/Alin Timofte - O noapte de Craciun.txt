@@ -1,5 +1,5 @@
 [title]
-O noapte de Crăciun {author: {Alin Timofte}, contentHash: {89ee64}, id: {2Le2VHbs9vDat5mEyY3Kwn}}
+O noapte de Crăciun {author: {Alin Timofte}, contentHash: {918215}, id: {2Le2VHbs9vDat5mEyY3Kwn}}
 
 [sequence]
 v1,b,c,v2,b2,e
@@ -34,7 +34,7 @@ Dar n-o vei găsi, nu o vei afla.
 
 [b2]
 Vino la Isus și El îți va da
-Calde sărbători, te va îmbrățișa.
+Calde sărbători, te va-mbrățișa.
 
 [e]
 Lasă să se nască și în viața ta,

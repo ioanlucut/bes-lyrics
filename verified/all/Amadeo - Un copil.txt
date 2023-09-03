@@ -1,5 +1,5 @@
 [title]
-Un copil {author: {Amadeo}, contentHash: {bbaec7}, id: {eSgiG4REedx4c7MMUyS4Wm}}
+Un copil {author: {Amadeo}, contentHash: {8abaf5}, id: {eSgiG4REedx4c7MMUyS4Wm}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -8,7 +8,7 @@ v1,c,v2,c,v3,c
 Căci un Copil ni s-a născut,
 Cel ce n-are început.
 Căci un Fiu ni s-a dat,
-El e Marele Împărat.
+El e Marele-mpărat.
 
 [c]
 /: Îl vor numi sfetnic, minunat,

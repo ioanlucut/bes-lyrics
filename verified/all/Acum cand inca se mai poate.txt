@@ -1,5 +1,5 @@
 [title]
-Acum, când încă se mai poate {contentHash: {039397}, id: {saSgFbsBifDVs5Xv4TaWcz}}
+Acum, când încă se mai poate {contentHash: {bc2143}, id: {saSgFbsBifDVs5Xv4TaWcz}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -28,7 +28,7 @@ Fă-ți timp astăzi pentru Isus! :/
 Fă-ți timp pentru acei ce-n lume
 Aleargă din rău spre mai rău,
 Nu obosi, ci spune, spune
-De dragostea Lui Dumnezeu.
+De dragostea lui Dumnezeu.
 
 [v2.2]
 Fă-ți timp și mergi fără cârtire

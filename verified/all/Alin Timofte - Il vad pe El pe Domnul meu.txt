@@ -1,5 +1,5 @@
 [title]
-Îl văd pe El, pe Domnul meu {author: {Alin Timofte}, contentHash: {79b40d}, id: {48n1Dib2ANBH33zgHj47mL}}
+Îl văd pe El, pe Domnul meu {author: {Alin Timofte}, contentHash: {4b17ae}, id: {48n1Dib2ANBH33zgHj47mL}}
 
 [sequence]
 c,v1,c,v1,c,v1,c
@@ -17,4 +17,4 @@ Poala hainei Lui umple Templul,
 Mulțimile de-nchinători stau în jurul Său,
 Cu corul de îngeri,
 Cântând sfânt, sfânt, sfânt e Dumnezeu,
-E Sfânt doar El.
+E sfânt doar El.

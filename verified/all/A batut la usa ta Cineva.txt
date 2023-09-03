@@ -1,5 +1,5 @@
 [title]
-A bătut la ușa ta Cineva {contentHash: {400f8b}, id: {cixiKhqcyTtpAp2gQ2ZZFt}}
+A bătut la ușa ta Cineva {contentHash: {ebb5f8}, id: {cixiKhqcyTtpAp2gQ2ZZFt}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -8,7 +8,7 @@ v1,v2,v3,v4,v5
 /: A bătut la ușa ta Cineva
 Și n-a deschis nimenea. :/
 În tăcerea negrei nopți,
-Stă un om și plânge,
+Stă un Om și plânge,
 /: Fața Lui e numai răni,
 Pieptul numai sânge. :/
 

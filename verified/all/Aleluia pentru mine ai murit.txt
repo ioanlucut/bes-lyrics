@@ -1,5 +1,5 @@
 [title]
-Aleluia, pentru mine ai murit {contentHash: {00f1f3}, id: {kqtD4J54jfzn6tFr9C4qLY}}
+Aleluia, pentru mine ai murit {contentHash: {796281}, id: {kqtD4J54jfzn6tFr9C4qLY}}
 
 [sequence]
 v1,c,v1,c
@@ -10,4 +10,4 @@ Aleluia, pentru min’ ai biruit.
 
 [c]
 Domn peste-ntreg pământ, Regele înviat.
-Pe tron ești înălțat, Regele înviat.
+Pe tron ești înălțat, Rege înviat.

@@ -1,5 +1,5 @@
 [title]
-Arcuri încordate fi-vor îndreptate {contentHash: {4ac042}, id: {6i4SgWR3ePHXa5kAwxwN9S}}
+Arcuri încordate fi-vor îndreptate {contentHash: {e5f2a1}, id: {6i4SgWR3ePHXa5kAwxwN9S}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -17,7 +17,7 @@ Când pe Domnul Isus eu Îl chem.
 Căci El e același Dumnezeu. :/
 
 [v2]
-Piedici pe cărare știu c-o să apară,
+Piedici pe cărare știu că vor apare,
 Dar de Domnul Isus nu mă las.
 El îmi dă putere, har și mângâiere
 Și mă întărește pas cu pas.

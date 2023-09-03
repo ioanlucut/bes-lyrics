@@ -1,5 +1,5 @@
 [title]
-Am ales pe Domnul Isus {contentHash: {e2c202}, id: {2xmRKYRRMsxgTaCatq6DD1}}
+Am ales pe Domnul Isus {contentHash: {f3ba84}, id: {2xmRKYRRMsxgTaCatq6DD1}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -20,7 +20,7 @@ Este loc și pentru tine, vino, să fii fericit!
 Seara când răsare luna cheamă-L pe Isus!
 Spune-I Lui în rugăciune tot ce ai de spus!
 El te-ascultă, te iubește, ca pe fiul Său
-Și îți dă în dar iertare sufletului tău.
+Și îți dă în dar iertarea sufletului tău.
 
 [v3]
 Iar când zorii se arată pe cerul senin,
