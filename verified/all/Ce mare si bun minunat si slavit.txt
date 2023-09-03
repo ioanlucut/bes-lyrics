@@ -1,5 +1,5 @@
 [title]
-Ce mare și bun, minunat și slăvit {contentHash: {51ddb9}, id: {9o2bbCTGDNqodM211WXFoM}}
+Ce mare și bun, minunat și slăvit {author: {__A__}, contentHash: {70bf9d}, id: {9o2bbCTGDNqodM211WXFoM}, rcId: {74300}}
 
 [sequence]
 v1,c,v2,c,v3,c

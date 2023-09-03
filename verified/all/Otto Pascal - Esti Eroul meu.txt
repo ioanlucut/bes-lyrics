@@ -1,5 +1,5 @@
 [title]
-Ești Eroul meu {author: {Otto Pascal}, contentHash: {e3ec1c}, id: {gvR81Xjm3MZcgzJQJWqV1A}}
+Ești Eroul meu {author: {Otto Pascal}, contentHash: {1eacc2}, id: {gvR81Xjm3MZcgzJQJWqV1A}, rcId: {112904}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,e

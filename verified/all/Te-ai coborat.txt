@@ -1,5 +1,5 @@
 [title]
-Te-ai coborât {contentHash: {8ae5e7}, id: {7EygoTzdZqk1vZ2Qf4U2av}}
+Te-ai coborât {author: {__A__}, contentHash: {0bd787}, id: {7EygoTzdZqk1vZ2Qf4U2av}, rcId: {145564}}
 
 [sequence]
 v1,c,v2,c

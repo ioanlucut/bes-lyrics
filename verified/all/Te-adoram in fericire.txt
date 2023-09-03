@@ -1,5 +1,5 @@
 [title]
-Te-adorăm în fericire {contentHash: {47a045}, id: {8A5PUyVfCJourYjspZF6jb}}
+Te-adorăm în fericire {author: {__A__}, contentHash: {3a5368}, id: {8A5PUyVfCJourYjspZF6jb}, rcId: {1208}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2

@@ -1,5 +1,5 @@
 [title]
-Și frunzele s-au veștejit {contentHash: {165206}, id: {4rfmVLUG2CptXdjFVj2gaM}}
+Și frunzele s-au veștejit {author: {__A__}, contentHash: {6fe31f}, id: {4rfmVLUG2CptXdjFVj2gaM}, rcId: {5547}}
 
 [sequence]
 v1,c,v2,c2,v3,e

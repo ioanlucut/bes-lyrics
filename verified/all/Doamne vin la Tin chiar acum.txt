@@ -1,5 +1,5 @@
 [title]
-Doamne, vin la Tin’ chiar acum {contentHash: {b2976b}, id: {g1asgPW8KxLGcrYTD1UrVk}}
+Doamne, vin la Tin’ chiar acum {author: {__A__}, contentHash: {0fc31c}, id: {g1asgPW8KxLGcrYTD1UrVk}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,e

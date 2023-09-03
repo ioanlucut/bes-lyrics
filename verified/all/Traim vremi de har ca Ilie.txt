@@ -1,5 +1,5 @@
 [title]
-Trăim vremi de har ca Ilie {contentHash: {d01ae6}, id: {rsz3mHy43hi5WY5xVf5iUA}}
+Trăim vremi de har ca Ilie {author: {__A__}, contentHash: {5a87aa}, id: {rsz3mHy43hi5WY5xVf5iUA}, rcId: {780}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b1.1,b1.2,c

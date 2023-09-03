@@ -1,5 +1,5 @@
 [title]
-Lauda noastră și privirea {contentHash: {29808f}, id: {2xbznatXh4FkpVDae2S6mt}}
+Lauda noastră și privirea {author: {__A__}, contentHash: {f61105}, id: {2xbznatXh4FkpVDae2S6mt}, rcId: {__R__}}
 
 [sequence]
 v1,p,c,v2,p,c,e

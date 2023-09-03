@@ -1,5 +1,5 @@
 [title]
-Osana, sus în înălțimi {contentHash: {28abf5}, id: {j2genXiGKFHDTdC4XgzhgR}}
+Osana, sus în înălțimi {author: {__A__}, contentHash: {1ba965}, id: {j2genXiGKFHDTdC4XgzhgR}, rcId: {__R__}}
 
 [sequence]
 c,v1,c2,v2

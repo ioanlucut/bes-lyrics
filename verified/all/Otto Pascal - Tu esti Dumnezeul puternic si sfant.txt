@@ -1,5 +1,5 @@
 [title]
-Tu ești Dumnezeul puternic și sfânt {author: {Otto Pascal}, contentHash: {daa95a}, id: {cpTkrJj7yiUURQ8nxb2mqd}}
+Tu ești Dumnezeul puternic și sfânt {author: {Otto Pascal}, contentHash: {91a82e}, id: {cpTkrJj7yiUURQ8nxb2mqd}, rcId: {233638}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

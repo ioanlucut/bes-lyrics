@@ -1,5 +1,5 @@
 [title]
-Totul se învechește, totul este trecător {contentHash: {4ffe5c}, id: {h9YCcKQvAi1GFypYdbcPeM}}
+Totul se învechește, totul este trecător {author: {__A__}, contentHash: {31ca35}, id: {h9YCcKQvAi1GFypYdbcPeM}, rcId: {7176}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

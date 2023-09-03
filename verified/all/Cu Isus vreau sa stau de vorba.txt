@@ -1,5 +1,5 @@
 [title]
-Cu Isus vreau să stau de vorbă {contentHash: {5b533d}, id: {6Z4rwxjwHytvW5aD4LtNhq}}
+Cu Isus vreau să stau de vorbă {author: {__A__}, contentHash: {462f80}, id: {6Z4rwxjwHytvW5aD4LtNhq}, rcId: {2169}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2

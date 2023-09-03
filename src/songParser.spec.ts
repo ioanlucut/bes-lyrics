@@ -14,8 +14,9 @@ describe('Song parser', () => {
 {
   "alternative": "Când eram fără speranță",
   "author": "Betania Dublin",
-  "contentHash": "e9efbc",
+  "contentHash": "655954",
   "id": "7RURbpko41pWYEgVkHD4Pq",
+  "rcId": "__R__",
   "sectionOrder": [
     "[v1]",
     "[v2]",
@@ -109,13 +110,14 @@ describe('Song parser', () => {
     });
 
     it('should parse a song (w/ subsections) correctly', () => {
-      expect(parse(SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT))
-        .toMatchInlineSnapshot(`
+      expect(parse(SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
   "author": "Betania Dublin",
-  "contentHash": "a847c9",
+  "contentHash": "085aa8",
   "id": "7RURbpko41pWYEgVkHD4Pq",
+  "rcId": "__R__",
   "sectionOrder": [
     "[v1.1]",
     "[v1.2]",
@@ -195,13 +197,14 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
 
   describe('Mismatching content', () => {
     it('should throw if certain sections are missing', () => {
-      expect(parse(SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_CONTENT))
-        .toMatchInlineSnapshot(`
+      expect(parse(SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
   "author": "Betania Dublin",
-  "contentHash": "e4aa6d",
+  "contentHash": "529fb9",
   "id": "7RURbpko41pWYEgVkHD4Pq",
+  "rcId": "__R__",
   "sectionOrder": [
     "[v1]",
   ],
@@ -230,13 +233,14 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
     });
 
     it('should not throw if the issue can be fixed via this plugin (e.g. mismatching sequence)', () => {
-      expect(parse(SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT))
-        .toMatchInlineSnapshot(`
+      expect(parse(SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
   "author": "Betania Dublin",
-  "contentHash": "b5a3a0",
+  "contentHash": "302cb7",
   "id": "7RURbpko41pWYEgVkHD4Pq",
+  "rcId": "__R__",
   "sectionOrder": [
     "[v1]",
     "[v2]",
@@ -327,6 +331,7 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
   "author": "",
   "contentHash": "",
   "id": "",
+  "rcId": "",
   "sectionOrder": [],
   "sectionsMap": {},
   "sequence": [],

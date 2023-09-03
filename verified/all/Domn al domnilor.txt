@@ -1,5 +1,5 @@
 [title]
-Domn al domnilor {contentHash: {6620e5}, id: {jHkzDWRDrjxmiTgfx8w68f}}
+Domn al domnilor {author: {__A__}, contentHash: {240fd7}, id: {jHkzDWRDrjxmiTgfx8w68f}, rcId: {4221}}
 
 [sequence]
 v1,c,e

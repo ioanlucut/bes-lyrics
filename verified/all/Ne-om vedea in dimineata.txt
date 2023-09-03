@@ -1,5 +1,5 @@
 [title]
-Ne-om vedea în dimineața {contentHash: {0abefb}, id: {cgWuy3vb7AUunj9pt5NovA}}
+Ne-om vedea în dimineața {author: {__A__}, contentHash: {1da109}, id: {cgWuy3vb7AUunj9pt5NovA}, rcId: {5555}}
 
 [sequence]
 v1,c,v2,c,v3,c

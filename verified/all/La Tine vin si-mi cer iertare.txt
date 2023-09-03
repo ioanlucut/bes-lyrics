@@ -1,5 +1,5 @@
 [title]
-La Tine vin și-mi cer iertare {contentHash: {4653f4}, id: {s7MJQ2nPjMit9tZnoZPd2H}}
+La Tine vin și-mi cer iertare {author: {__A__}, contentHash: {5e0bde}, id: {s7MJQ2nPjMit9tZnoZPd2H}, rcId: {6295}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2,e

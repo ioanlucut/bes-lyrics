@@ -216,7 +216,7 @@ export const print = ({
         : NULL,
 
       rcId
-        ? [SongMeta.RC_ID, withMetaMarkup(id)].join(`${COLON}${EMPTY_SPACE}`)
+        ? [SongMeta.RC_ID, withMetaMarkup(rcId)].join(`${COLON}${EMPTY_SPACE}`)
         : NULL,
     ]
       .filter(Boolean)

@@ -1,5 +1,5 @@
 [title]
-Când mă gândesc la Golgota {contentHash: {998f12}, id: {1MeC4CbfpBD3LXkPFUnLnM}}
+Când mă gândesc la Golgota {author: {__A__}, contentHash: {e32412}, id: {1MeC4CbfpBD3LXkPFUnLnM}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c

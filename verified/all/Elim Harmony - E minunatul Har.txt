@@ -1,5 +1,5 @@
 [title]
-E minunatul Har {author: {Elim Harmony}, contentHash: {61c228}, id: {71NAD9m6pwrACBT3NqhR4r}}
+E minunatul Har {author: {Elim Harmony}, contentHash: {87d841}, id: {71NAD9m6pwrACBT3NqhR4r}, rcId: {195501}}
 
 [sequence]
 v1,c,v2,c,b,c

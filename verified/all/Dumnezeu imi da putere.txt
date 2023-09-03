@@ -1,5 +1,5 @@
 [title]
-Dumnezeu îmi dă putere {contentHash: {9f0f59}, id: {6CayFPkGtLPcULMJR8eXRv}}
+Dumnezeu îmi dă putere {author: {__A__}, contentHash: {354ebc}, id: {6CayFPkGtLPcULMJR8eXRv}, rcId: {__R__}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

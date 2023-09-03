@@ -1,5 +1,5 @@
 [title]
-Într-o noapte rece {contentHash: {5be8ab}, id: {8iV5svojkc6FhSbPc4Hr9j}}
+Într-o noapte rece {author: {__A__}, contentHash: {c1f109}, id: {8iV5svojkc6FhSbPc4Hr9j}, rcId: {131147}}
 
 [sequence]
 v1,c,v2,c

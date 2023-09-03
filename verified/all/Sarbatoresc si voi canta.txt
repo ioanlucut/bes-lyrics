@@ -1,5 +1,5 @@
 [title]
-Sărbătoresc și voi cânta {contentHash: {198d55}, id: {fuDUNRST5vSKNkbQ6wdJCo}}
+Sărbătoresc și voi cânta {author: {__A__}, contentHash: {aaadb0}, id: {fuDUNRST5vSKNkbQ6wdJCo}, rcId: {4162}}
 
 [sequence]
 v1,c,v1,c

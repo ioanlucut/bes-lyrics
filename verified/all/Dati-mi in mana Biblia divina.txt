@@ -1,5 +1,5 @@
 [title]
-Dați-mi în mână Biblia divină {contentHash: {b6b46f}, id: {w6TEF5C4Xp1xaoCddEJUx2}}
+Dați-mi în mână Biblia divină {author: {__A__}, contentHash: {a5f7e7}, id: {w6TEF5C4Xp1xaoCddEJUx2}, rcId: {1610}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Însă e Cineva {author: {Otto Pascal}, contentHash: {067303}, id: {cS6WG75wn5tEH6ApKwQY25}}
+Însă e Cineva {author: {Otto Pascal}, contentHash: {a8356f}, id: {cS6WG75wn5tEH6ApKwQY25}, rcId: {204203}}
 
 [sequence]
 v1,c,v2,b,c

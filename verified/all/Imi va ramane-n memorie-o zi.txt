@@ -1,5 +1,5 @@
 [title]
-Îmi va rămâne-n memorie-o zi {contentHash: {425799}, id: {sjyiYGrdbM3TBCTeppNKAw}}
+Îmi va rămâne-n memorie-o zi {author: {__A__}, contentHash: {16ff6b}, id: {sjyiYGrdbM3TBCTeppNKAw}, rcId: {66227}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

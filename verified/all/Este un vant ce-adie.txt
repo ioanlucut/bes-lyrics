@@ -1,5 +1,5 @@
 [title]
-Este un vânt ce-adie {contentHash: {3c0131}, id: {pTv7fGnmzkjF5LDjvDfatj}}
+Este un vânt ce-adie {author: {__A__}, contentHash: {eabe42}, id: {pTv7fGnmzkjF5LDjvDfatj}, rcId: {2838}}
 
 [sequence]
 v1,c,v2,c,v3,c

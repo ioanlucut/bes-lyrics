@@ -1,5 +1,5 @@
 [title]
-Domnul, steagul meu {contentHash: {96d253}, id: {o3gWRFbvrQPNQN9mc8e1Dy}}
+Domnul, steagul meu {author: {__A__}, contentHash: {f1127e}, id: {o3gWRFbvrQPNQN9mc8e1Dy}, rcId: {__R__}}
 
 [sequence]
 v1,p,c

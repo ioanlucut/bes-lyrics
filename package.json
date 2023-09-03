@@ -12,6 +12,7 @@
     "iconv": "^3.0.1",
     "lodash-es": "^4.17.21",
     "nspell": "^2.1.5",
+    "p-map": "^4.0.0",
     "recursive-readdir": "^2.2.3",
     "short-uuid": "^4.2.2",
     "string-similarity": "^4.0.4"
@@ -42,7 +43,7 @@
   },
   "type": "module",
   "scripts": {
-    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" {src,bin}/**/*.ts inventoryChangelog.json README.md",
+    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" {src,bin}/**/*.ts README.md",
     "test:ci": "NODE_ENV=test jest --runInBand --no-cache",
     "test:watch": "NODE_ENV=test TZ='Europe/Berlin' jest --watch --logHeapUsage --no-cache",
     "test": "is-ci-cli test:ci test:watch",

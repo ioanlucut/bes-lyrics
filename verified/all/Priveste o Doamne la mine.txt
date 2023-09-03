@@ -1,5 +1,5 @@
 [title]
-Privește, o, Doamne, la mine {contentHash: {ed10d6}, id: {ofdkhSXY12CcsESYWeoydH}}
+Privește, o, Doamne, la mine {author: {__A__}, contentHash: {56273e}, id: {ofdkhSXY12CcsESYWeoydH}, rcId: {5358}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

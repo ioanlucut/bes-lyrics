@@ -1,5 +1,5 @@
 [title]
-Mai presus de orice, de credință, de-avânt {contentHash: {5bd376}, id: {4nJreu3Rat4o9cQMWahKGb}}
+Mai presus de orice, de credință, de-avânt {author: {__A__}, contentHash: {989d35}, id: {4nJreu3Rat4o9cQMWahKGb}, rcId: {5385}}
 
 [sequence]
 v1,v2,v3,v4

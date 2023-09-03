@@ -1,5 +1,5 @@
 [title]
-Doamne-acum seara a sosit {contentHash: {54657b}, id: {b2Hb8fdAg8yPsXH3CxNesG}}
+Doamne-acum seara a sosit {author: {__A__}, contentHash: {ab9dc2}, id: {b2Hb8fdAg8yPsXH3CxNesG}, rcId: {5328}}
 
 [sequence]
 v1,v2,v3

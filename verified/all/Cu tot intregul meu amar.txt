@@ -1,5 +1,5 @@
 [title]
-Cu tot întregul meu amar {contentHash: {ae3ecd}, id: {neeidPbqXfT48kYzHHrvBQ}}
+Cu tot întregul meu amar {author: {__A__}, contentHash: {73fabe}, id: {neeidPbqXfT48kYzHHrvBQ}, rcId: {2173}}
 
 [sequence]
 v1,c,v2,c,v3,c

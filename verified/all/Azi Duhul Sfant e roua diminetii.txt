@@ -1,5 +1,5 @@
 [title]
-Azi Duhul Sfânt e roua dimineții {contentHash: {b3b4b1}, id: {k1cg9SvAme2iHis51VDbvG}}
+Azi Duhul Sfânt e roua dimineții {author: {__A__}, contentHash: {b42c2b}, id: {k1cg9SvAme2iHis51VDbvG}, rcId: {2128}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Hai, e timpul de-nchinare {contentHash: {60ebca}, id: {8NmnBxw6r8DejyVsNxxBq8}}
+Hai, e timpul de-nchinare {author: {__A__}, contentHash: {168860}, id: {8NmnBxw6r8DejyVsNxxBq8}, rcId: {__R__}}
 
 [sequence]
 v1,c,v1,c

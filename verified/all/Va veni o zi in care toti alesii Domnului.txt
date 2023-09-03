@@ -1,5 +1,5 @@
 [title]
-Va veni o zi în care toți aleșii Domnului {contentHash: {0e7428}, id: {bBLzuA3UhWRf4pwBfKt6bz}}
+Va veni o zi în care toți aleșii Domnului {author: {__A__}, contentHash: {3cd420}, id: {bBLzuA3UhWRf4pwBfKt6bz}, rcId: {1550}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2

@@ -1,5 +1,5 @@
 [title]
-Sunt un om nevrednic, dar El m-a iubit {contentHash: {9c24cb}, id: {7e3kThu2WtfbSTShUj4tjX}}
+Sunt un om nevrednic, dar El m-a iubit {author: {__A__}, contentHash: {822b4c}, id: {7e3kThu2WtfbSTShUj4tjX}, rcId: {1535}}
 
 [sequence]
 v1,c,v2,c,v3,c

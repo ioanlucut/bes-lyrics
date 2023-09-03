@@ -1,5 +1,5 @@
 [title]
-De păcat împovărat în lume pribegeam {contentHash: {19a77d}, id: {8sPKm5L17nFEUuEXQ4frz1}}
+De păcat împovărat în lume pribegeam {author: {__A__}, contentHash: {66a3c2}, id: {8sPKm5L17nFEUuEXQ4frz1}, rcId: {74420}}
 
 [sequence]
 v1,c,v2,c,v3,c

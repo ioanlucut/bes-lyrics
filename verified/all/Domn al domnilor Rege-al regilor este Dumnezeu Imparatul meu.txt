@@ -1,5 +1,5 @@
 [title]
-Domn al domnilor, Rege-al regilor este Dumnezeu, Împăratul meu {contentHash: {0d4880}, id: {pUTQdMUizHAi6TkzGh1Woz}}
+Domn al domnilor, Rege-al regilor este Dumnezeu, Împăratul meu {author: {__A__}, contentHash: {c66554}, id: {pUTQdMUizHAi6TkzGh1Woz}, rcId: {56710}}
 
 [sequence]
 v1,c,v1,c,e

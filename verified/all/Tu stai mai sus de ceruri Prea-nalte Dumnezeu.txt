@@ -1,5 +1,5 @@
 [title]
-Tu stai mai sus de ceruri, Prea-nalte Dumnezeu {contentHash: {21309a}, id: {tCiUFLnpsDYtp1Wja41cA8}}
+Tu stai mai sus de ceruri, Prea-nalte Dumnezeu {author: {__A__}, contentHash: {14c95f}, id: {tCiUFLnpsDYtp1Wja41cA8}, rcId: {4124}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,e

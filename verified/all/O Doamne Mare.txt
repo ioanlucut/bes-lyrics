@@ -1,5 +1,5 @@
 [title]
-O, Doamne Mare {contentHash: {14b043}, id: {7dRrBrYYHJrgjDvXPTvnqs}}
+O, Doamne Mare {author: {__A__}, contentHash: {c49393}, id: {7dRrBrYYHJrgjDvXPTvnqs}, rcId: {1630}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

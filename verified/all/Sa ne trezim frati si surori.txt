@@ -1,5 +1,5 @@
 [title]
-Să ne trezim, frați și surori {contentHash: {7e1381}, id: {xb6zfwuxwjRsjTfX8RzGws}}
+Să ne trezim, frați și surori {author: {__A__}, contentHash: {87c0b0}, id: {xb6zfwuxwjRsjTfX8RzGws}, rcId: {5611}}
 
 [sequence]
 v1,v2,v3,v4,v5

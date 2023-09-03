@@ -1,5 +1,5 @@
 [title]
-Lângă fântâna de la Sihar {contentHash: {21b969}, id: {2j663SuSonXSgthzBZGP8k}}
+Lângă fântâna de la Sihar {author: {__A__}, contentHash: {57885d}, id: {2j663SuSonXSgthzBZGP8k}, rcId: {192986}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

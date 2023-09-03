@@ -1,5 +1,5 @@
 [title]
-Ochii Domnului, plini de dragoste privesc {contentHash: {89ad62}, id: {rDSthPmVuLAMyYaHw51W1V}}
+Ochii Domnului, plini de dragoste privesc {author: {__A__}, contentHash: {d55b42}, id: {rDSthPmVuLAMyYaHw51W1V}, rcId: {57825}}
 
 [sequence]
 v1,c,v1,c

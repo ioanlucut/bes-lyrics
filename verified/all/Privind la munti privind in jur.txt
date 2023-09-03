@@ -1,5 +1,5 @@
 [title]
-Privind la munți, privind în jur {contentHash: {39aac2}, id: {dH5cgoWDEeUhJMCNKpihPx}}
+Privind la munți, privind în jur {author: {__A__}, contentHash: {005db1}, id: {dH5cgoWDEeUhJMCNKpihPx}, rcId: {5146}}
 
 [sequence]
 v1,c,v1,c

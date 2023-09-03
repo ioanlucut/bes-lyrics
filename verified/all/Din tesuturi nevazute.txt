@@ -1,5 +1,5 @@
 [title]
-Din țesuturi nevăzute {contentHash: {0904c3}, id: {f7xpmJ7iK13C2ZVHDeeVAi}}
+Din țesuturi nevăzute {author: {__A__}, contentHash: {77cdd7}, id: {f7xpmJ7iK13C2ZVHDeeVAi}, rcId: {5967}}
 
 [sequence]
 v1,c,v2,c,v3,c

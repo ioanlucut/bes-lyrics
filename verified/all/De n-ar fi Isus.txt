@@ -1,5 +1,5 @@
 [title]
-De n-ar fi Isus {contentHash: {48120a}, id: {ciM9yFUzwbdBdmmm189Va1}}
+De n-ar fi Isus {author: {__A__}, contentHash: {85bb8c}, id: {ciM9yFUzwbdBdmmm189Va1}, rcId: {__R__}}
 
 [sequence]
 c

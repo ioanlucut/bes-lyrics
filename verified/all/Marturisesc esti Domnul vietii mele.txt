@@ -1,5 +1,5 @@
 [title]
-Mărturisesc, ești Domnul vieții mele {contentHash: {2591be}, id: {q2MrAHSPEegHdTmJijsNwi}}
+Mărturisesc, ești Domnul vieții mele {author: {__A__}, contentHash: {c56b03}, id: {q2MrAHSPEegHdTmJijsNwi}, rcId: {158940}}
 
 [sequence]
 v1,c,v2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Sfânt mereu, sfânt mereu {contentHash: {191970}, id: {9nFB5B5wHfUAwK7JTJN4gp}}
+Sfânt mereu, sfânt mereu {author: {__A__}, contentHash: {3594b0}, id: {9nFB5B5wHfUAwK7JTJN4gp}, rcId: {6597}}
 
 [sequence]
 v1,c,v2,c,v3,c

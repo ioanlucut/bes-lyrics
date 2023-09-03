@@ -1,5 +1,5 @@
 [title]
-Mântuire am primit, fără nicio plată {contentHash: {3f64bd}, id: {e5jG7hghNQGpgbXCed3Nvb}}
+Mântuire am primit, fără nicio plată {author: {__A__}, contentHash: {cad54d}, id: {e5jG7hghNQGpgbXCed3Nvb}, rcId: {3972}}
 
 [sequence]
 v1,v2,v3

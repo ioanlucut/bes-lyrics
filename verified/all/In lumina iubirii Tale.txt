@@ -1,5 +1,5 @@
 [title]
-În lumina iubirii Tale {contentHash: {10c2db}, id: {7SgxdBxuW131eF8xu5t2ee}}
+În lumina iubirii Tale {author: {__A__}, contentHash: {3a69d0}, id: {7SgxdBxuW131eF8xu5t2ee}, rcId: {6796}}
 
 [sequence]
 v1,c,v2,c,v3,c

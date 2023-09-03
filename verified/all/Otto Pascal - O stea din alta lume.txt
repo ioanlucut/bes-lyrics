@@ -1,5 +1,5 @@
 [title]
-O stea din altă lume {author: {Otto Pascal}, contentHash: {54b3c7}, id: {wFduKHdA9z7aED5ieexu1E}}
+O stea din altă lume {author: {Otto Pascal}, contentHash: {9ca5e8}, id: {wFduKHdA9z7aED5ieexu1E}, rcId: {101437}}
 
 [sequence]
 v1,c,v2,c

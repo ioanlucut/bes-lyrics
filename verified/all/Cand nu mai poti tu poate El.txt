@@ -1,5 +1,5 @@
 [title]
-Când nu mai poți tu, poate El {contentHash: {77ceb6}, id: {2HV5ZfeC7WxwLXR2UijAzU}}
+Când nu mai poți tu, poate El {author: {__A__}, contentHash: {9ccb80}, id: {2HV5ZfeC7WxwLXR2UijAzU}, rcId: {125163}}
 
 [sequence]
 v1,c,v2,c,v3,c

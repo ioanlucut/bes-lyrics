@@ -1,5 +1,5 @@
 [title]
-În fiecare seară {contentHash: {7e4544}, id: {kVEqnrGoe9Gh7UMPJrYPLu}}
+În fiecare seară {author: {__A__}, contentHash: {bb9593}, id: {kVEqnrGoe9Gh7UMPJrYPLu}, rcId: {5343}}
 
 [sequence]
 v1,c,v2,c

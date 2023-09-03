@@ -1,5 +1,5 @@
 [title]
-Cântați o veste bună {contentHash: {dc216b}, id: {9uWTGbvv64J4TBxqXZovtm}}
+Cântați o veste bună {author: {__A__}, contentHash: {a6b848}, id: {9uWTGbvv64J4TBxqXZovtm}, rcId: {4524}}
 
 [sequence]
 v1,c,v2,c,v3,c

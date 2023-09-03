@@ -1,5 +1,5 @@
 [title]
-De n-ar fi Domnul {contentHash: {2c849d}, id: {uqp4XJwDSzNziyBgPDhM65}}
+De n-ar fi Domnul {author: {__A__}, contentHash: {4da1d6}, id: {uqp4XJwDSzNziyBgPDhM65}, rcId: {787}}
 
 [sequence]
 v1,c,v2,c

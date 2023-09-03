@@ -1,5 +1,5 @@
 [title]
-Pentru noi s-a ivit mântuirea {contentHash: {1e45fc}, id: {rjaoNFf2uJUZCZnsNwsPu3}}
+Pentru noi s-a ivit mântuirea {author: {__A__}, contentHash: {811c87}, id: {rjaoNFf2uJUZCZnsNwsPu3}, rcId: {3630}}
 
 [sequence]
 v1,c,v2,c,v3,c

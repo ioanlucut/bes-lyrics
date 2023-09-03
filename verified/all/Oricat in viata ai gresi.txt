@@ -1,5 +1,5 @@
 [title]
-Oricât în viață ai greși {contentHash: {d2420e}, id: {7MSQuWQZYxDxAVdKCpbq5y}}
+Oricât în viață ai greși {author: {__A__}, contentHash: {11512a}, id: {7MSQuWQZYxDxAVdKCpbq5y}, rcId: {114823}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Pot să scriu și să vorbesc de Tine {contentHash: {d42912}, id: {3avZ4xtHD47PNhMuLxE1qJ}}
+Pot să scriu și să vorbesc de Tine {author: {__A__}, contentHash: {3d55b2}, id: {3avZ4xtHD47PNhMuLxE1qJ}, rcId: {58944}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

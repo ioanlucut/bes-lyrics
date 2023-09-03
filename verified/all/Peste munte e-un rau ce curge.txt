@@ -1,5 +1,5 @@
 [title]
-Peste munte e-un râu ce curge {contentHash: {cdab84}, id: {m9BqqQrHVuzcQ5dZ2MwVi9}}
+Peste munte e-un râu ce curge {author: {__A__}, contentHash: {a5a34e}, id: {m9BqqQrHVuzcQ5dZ2MwVi9}, rcId: {786}}
 
 [sequence]
 v1,c,v2,c,v3,c

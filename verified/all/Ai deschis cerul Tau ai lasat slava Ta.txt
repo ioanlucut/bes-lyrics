@@ -1,5 +1,5 @@
 [title]
-Ai deschis cerul Tău, ai lăsat slava Ta {contentHash: {05fbba}, id: {vHNMkvx84838YFwgLjMnHk}}
+Ai deschis cerul Tău, ai lăsat slava Ta {author: {__A__}, contentHash: {d011a2}, id: {vHNMkvx84838YFwgLjMnHk}, rcId: {66236}}
 
 [sequence]
 v1,c1.1,c1.2,v1,c1.1,c1.2

@@ -1,5 +1,5 @@
 [title]
-La al trâmbiței răsunet când va fi {contentHash: {4cd091}, id: {tRbQXamxSkZVYCfqe3uxeX}}
+La al trâmbiței răsunet când va fi {author: {__A__}, contentHash: {2f6039}, id: {tRbQXamxSkZVYCfqe3uxeX}, rcId: {5745}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

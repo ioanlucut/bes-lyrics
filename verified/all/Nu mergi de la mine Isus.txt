@@ -1,5 +1,5 @@
 [title]
-Nu mergi de la mine, Isus {contentHash: {c3e171}, id: {ru2X2CBCbvvcmCAKcP5Dc5}}
+Nu mergi de la mine, Isus {author: {__A__}, contentHash: {8ee30a}, id: {ru2X2CBCbvvcmCAKcP5Dc5}, rcId: {4016}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

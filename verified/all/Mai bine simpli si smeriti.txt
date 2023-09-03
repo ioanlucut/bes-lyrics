@@ -1,5 +1,5 @@
 [title]
-Mai bine simpli și smeriți {contentHash: {865912}, id: {jNEAgZyiVEX7yu2rLBU5YB}}
+Mai bine simpli și smeriți {author: {__A__}, contentHash: {c36179}, id: {jNEAgZyiVEX7yu2rLBU5YB}, rcId: {6920}}
 
 [sequence]
 v1,c,v2,c,v3,c

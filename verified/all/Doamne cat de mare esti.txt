@@ -1,5 +1,5 @@
 [title]
-Doamne, cât de mare ești! {contentHash: {724568}, id: {au1F8Fmd2SZ5acC2eK5tjd}}
+Doamne, cât de mare ești! {author: {__A__}, contentHash: {fcaa3f}, id: {au1F8Fmd2SZ5acC2eK5tjd}, rcId: {4509}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

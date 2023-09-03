@@ -1,5 +1,5 @@
 [title]
-Nu ne lăsa să ne-ndoim {contentHash: {36cfc3}, id: {ewBRPSRVtUDoMZTz5XRJCi}}
+Nu ne lăsa să ne-ndoim {author: {__A__}, contentHash: {78d2d0}, id: {ewBRPSRVtUDoMZTz5XRJCi}, rcId: {3877}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

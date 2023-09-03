@@ -1,5 +1,5 @@
 [title]
-Tu n-ai sub soare asemănare, Tu ești iubirea mea {contentHash: {7a700d}, id: {dQ4NBQkE3PpebxPaHH3rsA}}
+Tu n-ai sub soare asemănare, Tu ești iubirea mea {author: {__A__}, contentHash: {3e1858}, id: {dQ4NBQkE3PpebxPaHH3rsA}, rcId: {230045}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

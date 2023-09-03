@@ -1,5 +1,5 @@
 [title]
-Este un loc plin de har și pace {contentHash: {0a3bff}, id: {qJDQXGf66mS25NWo1GQBAd}}
+Este un loc plin de har și pace {author: {__A__}, contentHash: {b8c88f}, id: {qJDQXGf66mS25NWo1GQBAd}, rcId: {__R__}}
 
 [sequence]
 v1.1,v1.2,p,c,v1.1,v1.2,p,c

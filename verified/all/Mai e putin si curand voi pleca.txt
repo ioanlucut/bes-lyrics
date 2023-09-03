@@ -1,5 +1,5 @@
 [title]
-Mai e puțin și curând voi pleca {contentHash: {b4b071}, id: {se4rmY683qBQjHXAKR8i9B}}
+Mai e puțin și curând voi pleca {author: {__A__}, contentHash: {ced82a}, id: {se4rmY683qBQjHXAKR8i9B}, rcId: {5748}}
 
 [sequence]
 v1,c,v2,c,v3,c

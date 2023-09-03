@@ -1,5 +1,5 @@
 [title]
-Da, chiar în curând {contentHash: {5eaac4}, id: {eNVb4ocLrcjop3Tu6xmqUb}}
+Da, chiar în curând {author: {__A__}, contentHash: {226098}, id: {eNVb4ocLrcjop3Tu6xmqUb}, rcId: {__R__}}
 
 [sequence]
 v1,v2,v3,v4,v5

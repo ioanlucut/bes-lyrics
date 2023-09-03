@@ -1,5 +1,5 @@
 [title]
-O, Sfinte Duh de viață darnic {contentHash: {b76a80}, id: {hdocbkYFUAYpK6ZaY4L35w}}
+O, Sfinte Duh de viață darnic {author: {__A__}, contentHash: {bef416}, id: {hdocbkYFUAYpK6ZaY4L35w}, rcId: {5505}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

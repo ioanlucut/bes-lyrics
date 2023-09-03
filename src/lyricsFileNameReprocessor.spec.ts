@@ -1,11 +1,11 @@
-import { ALLOWED_CHARS, EMPTY_STRING } from './constants.js';
+import { ALLOWED_CHARS, EMPTY_STRING, MISSING_AUTHOR } from './constants.js';
 import { deriveFromTitle } from './lyricsFileNameReprocessor.js';
 
 describe('lyricsFileNameReprocessor', () => {
   it('should work correctly by correctly mapping the existing allowed chars', () => {
     expect(
 deriveFromTitle(ALLOWED_CHARS.join(EMPTY_STRING))).
-toMatchInlineSnapshot(`"&()-.1234567890ABCDEFGHIJKLMNOPRSTUVWXZYQ[\\]abcdefghijklmnopqrstuvwxyzIaiaASsATt.txt"`);
+toMatchInlineSnapshot(`"_.txt"`);
   });
 
   it('should work correctly - when `alternative` and `author` is there', () => {
@@ -22,6 +22,10 @@ toMatchInlineSnapshot(`"&()-.1234567890ABCDEFGHIJKLMNOPRSTUVWXZYQ[\\]abcdefghijk
     expect(
       deriveFromTitle('Ce mare ești Tu {author: {Ekklesia}}'),
     ).toMatchInlineSnapshot(`"Ekklesia - Ce mare esti Tu.txt"`);
+  });
+
+  it(`should work correctly - when author is ${MISSING_AUTHOR}`, () => {
+    expect(deriveFromTitle(`Ce mare ești Tu {author: {${MISSING_AUTHOR}}}`)).toMatchInlineSnapshot(`"Ce mare esti Tu.txt"`);
   });
 
   it('should work correctly - when `version` is there', () => {

@@ -1,5 +1,5 @@
 [title]
-Un nume nou {contentHash: {229d16}, id: {brEUpFkLJYvdR4xUqTPuyu}}
+Un nume nou {author: {__A__}, contentHash: {46374e}, id: {brEUpFkLJYvdR4xUqTPuyu}, rcId: {__R__}}
 
 [sequence]
 v1.1,v1.2,p,c,v2.1,v2.2,p,c

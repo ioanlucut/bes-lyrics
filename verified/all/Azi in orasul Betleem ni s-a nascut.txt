@@ -1,5 +1,5 @@
 [title]
-Azi în orașul Betleem ni s-a născut {contentHash: {24b598}, id: {v26MF1VtFzDA5JQSWXDgdq}}
+Azi în orașul Betleem ni s-a născut {author: {__A__}, contentHash: {aa93d2}, id: {v26MF1VtFzDA5JQSWXDgdq}, rcId: {183037}}
 
 [sequence]
 v1,c,v2,c,v3,c

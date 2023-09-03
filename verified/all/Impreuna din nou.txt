@@ -1,5 +1,5 @@
 [title]
-Împreună din nou {contentHash: {b5b7d9}, id: {fugAqFCeLc2KVscLngtH3y}}
+Împreună din nou {author: {__A__}, contentHash: {90397f}, id: {fugAqFCeLc2KVscLngtH3y}, rcId: {4941}}
 
 [sequence]
 v1

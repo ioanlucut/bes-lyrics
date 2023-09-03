@@ -1,5 +1,5 @@
 [title]
-Noapte sfântă de Crăciun {contentHash: {53882f}, id: {1iMyNKZb3mmnhkamZyaUC7}}
+Noapte sfântă de Crăciun {author: {__A__}, contentHash: {f02e1a}, id: {1iMyNKZb3mmnhkamZyaUC7}, rcId: {64983}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

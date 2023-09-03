@@ -1,5 +1,5 @@
 [title]
-Într-o noapte-n Betleem {author: {Cor copii Dynamis}, contentHash: {167e25}, id: {8M6NWooo59CdVH4Pj9xwU4}}
+Într-o noapte-n Betleem {author: {Cor copii Dynamis}, contentHash: {109fa4}, id: {8M6NWooo59CdVH4Pj9xwU4}, rcId: {__R__}}
 
 [sequence]
 v1,v2,c,v3,v4,c,b,c,e

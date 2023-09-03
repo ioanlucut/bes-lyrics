@@ -1,5 +1,5 @@
 [title]
-De nu ar fi marele har {contentHash: {ba9f85}, id: {pmw2ByBCPUgMYWzAqNJqUv}}
+De nu ar fi marele har {author: {__A__}, contentHash: {279fe5}, id: {pmw2ByBCPUgMYWzAqNJqUv}, rcId: {179533}}
 
 [sequence]
 v1,c,v2,c,v3,c

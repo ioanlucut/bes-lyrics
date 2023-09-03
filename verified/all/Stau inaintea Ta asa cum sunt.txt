@@ -1,5 +1,5 @@
 [title]
-Stau înaintea Ta așa cum sunt {contentHash: {3cc109}, id: {fjCTUSf1pW8gAhMFUPZxcL}}
+Stau înaintea Ta așa cum sunt {author: {__A__}, contentHash: {043599}, id: {fjCTUSf1pW8gAhMFUPZxcL}, rcId: {__R__}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c

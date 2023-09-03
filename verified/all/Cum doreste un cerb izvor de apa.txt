@@ -1,5 +1,5 @@
 [title]
-Cum dorește un cerb izvor de apă {contentHash: {0cf3bc}, id: {sda6B9dxaxvwAdycuFzHJt}}
+Cum dorește un cerb izvor de apă {author: {__A__}, contentHash: {9a8c79}, id: {sda6B9dxaxvwAdycuFzHJt}, rcId: {4864}}
 
 [sequence]
 v1,c,v2,c

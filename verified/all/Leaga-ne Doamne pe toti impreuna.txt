@@ -1,5 +1,5 @@
 [title]
-Leagă-ne, Doamne, pe toți împreună {contentHash: {d31745}, id: {ijuhdgWcCKygQXqLh7wiG3}}
+Leagă-ne, Doamne, pe toți împreună {author: {__A__}, contentHash: {4be81d}, id: {ijuhdgWcCKygQXqLh7wiG3}, rcId: {4988}}
 
 [sequence]
 v1,c,v1,c

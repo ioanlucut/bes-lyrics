@@ -1,5 +1,5 @@
 [title]
-Ca un copil {contentHash: {65ffb5}, id: {q3vejaZNiayLcxCFxW2Bwp}}
+Ca un copil {author: {__A__}, contentHash: {bfa65c}, id: {q3vejaZNiayLcxCFxW2Bwp}, rcId: {121522}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2

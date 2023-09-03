@@ -1,5 +1,5 @@
 [title]
-Doar o colibă, aici jos, îmi ajunge {contentHash: {1d09cc}, id: {6LtVPNwWWThebTwsFWuzdX}}
+Doar o colibă, aici jos, îmi ajunge {author: {__A__}, contentHash: {bf4c6f}, id: {6LtVPNwWWThebTwsFWuzdX}, rcId: {850}}
 
 [sequence]
 v1,c,v2,c,v3,c

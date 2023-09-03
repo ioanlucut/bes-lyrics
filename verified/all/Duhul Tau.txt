@@ -1,5 +1,5 @@
 [title]
-Duhul Tău {contentHash: {61163d}, id: {7TmAUuRWx2x15cuhnTjHtb}}
+Duhul Tău {author: {__A__}, contentHash: {ef0602}, id: {7TmAUuRWx2x15cuhnTjHtb}, rcId: {126272}}
 
 [sequence]
 v1,c,v2,c

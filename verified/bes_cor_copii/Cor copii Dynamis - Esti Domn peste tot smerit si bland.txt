@@ -1,5 +1,5 @@
 [title]
-Ești Domn peste tot, smerit și blând {author: {Cor copii Dynamis}, contentHash: {5903d0}, id: {ti3xvwMCNoyGzFLkpVPC49}}
+Ești Domn peste tot, smerit și blând {author: {Cor copii Dynamis}, contentHash: {2c80ff}, id: {ti3xvwMCNoyGzFLkpVPC49}, rcId: {204897}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

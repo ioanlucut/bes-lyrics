@@ -1,5 +1,5 @@
 [title]
-Multă vreme eu am rătăcit {contentHash: {f00c4e}, id: {cf7dDaJNxB1xmgJDux4vZZ}}
+Multă vreme eu am rătăcit {author: {__A__}, contentHash: {72ffc5}, id: {cf7dDaJNxB1xmgJDux4vZZ}, rcId: {839}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

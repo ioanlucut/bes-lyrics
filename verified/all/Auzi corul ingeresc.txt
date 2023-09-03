@@ -1,5 +1,5 @@
 [title]
-Auzi corul îngeresc {contentHash: {7c3e0f}, id: {dhkZJGiYka1LmHdHtoWR5E}}
+Auzi corul îngeresc {author: {__A__}, contentHash: {7e7add}, id: {dhkZJGiYka1LmHdHtoWR5E}, rcId: {63943}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

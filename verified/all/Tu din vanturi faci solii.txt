@@ -1,5 +1,5 @@
 [title]
-Tu din vânturi faci solii {contentHash: {d2a552}, id: {7DdnGnrnzoHXEEvhg7xBN9}}
+Tu din vânturi faci solii {author: {__A__}, contentHash: {45952f}, id: {7DdnGnrnzoHXEEvhg7xBN9}, rcId: {4207}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

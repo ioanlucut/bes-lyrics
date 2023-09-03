@@ -1,5 +1,5 @@
 [title]
-Sângele lui Isus {contentHash: {1a8c12}, id: {eFq4q1HAo5W8kReML8bCD4}}
+Sângele lui Isus {author: {__A__}, contentHash: {a68616}, id: {eFq4q1HAo5W8kReML8bCD4}, rcId: {5082}}
 
 [sequence]
 v1,v2,v3

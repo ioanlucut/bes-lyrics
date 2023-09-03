@@ -1,5 +1,5 @@
 [title]
-Bucurați-vă în Domnul Sfânt {contentHash: {cafef9}, id: {isWU5t5LUK175R5E9Sci2S}}
+Bucurați-vă în Domnul Sfânt {author: {__A__}, contentHash: {5d2279}, id: {isWU5t5LUK175R5E9Sci2S}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-La miezul nopții va veni {contentHash: {a5b0c0}, id: {t5gFfm6gBrivKoK6b7HwNU}}
+La miezul nopții va veni {author: {__A__}, contentHash: {81b741}, id: {t5gFfm6gBrivKoK6b7HwNU}, rcId: {211673}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2

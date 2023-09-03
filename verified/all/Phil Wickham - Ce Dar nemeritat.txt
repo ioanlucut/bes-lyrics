@@ -1,5 +1,5 @@
 [title]
-Ce Dar nemeritat {author: {Phil Wickham}, contentHash: {7c5282}, id: {nHthZYKc8ivr5Km5APbsqf}}
+Ce Dar nemeritat {author: {Phil Wickham}, contentHash: {b60845}, id: {nHthZYKc8ivr5Km5APbsqf}, rcId: {157503}}
 
 [sequence]
 v1,c,v2,c,b,c

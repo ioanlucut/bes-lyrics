@@ -1,5 +1,5 @@
 [title]
-Înalț vocea mea {contentHash: {b46a39}, id: {92oNreLmXMii2CQcLddqZu}}
+Înalț vocea mea {author: {__A__}, contentHash: {d595e5}, id: {92oNreLmXMii2CQcLddqZu}, rcId: {6657}}
 
 [sequence]
 v1,c,v2,c

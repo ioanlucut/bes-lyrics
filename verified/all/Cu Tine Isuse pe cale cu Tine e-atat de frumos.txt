@@ -1,5 +1,5 @@
 [title]
-Cu Tine, Isuse, pe cale, cu Tine e-atât de frumos {contentHash: {4c3d63}, id: {8qUZupfvq7EvFCuBYoGDsH}}
+Cu Tine, Isuse, pe cale, cu Tine e-atât de frumos {author: {__A__}, contentHash: {2d4c6a}, id: {8qUZupfvq7EvFCuBYoGDsH}, rcId: {__R__}}
 
 [sequence]
 v1,v2,v3,v4

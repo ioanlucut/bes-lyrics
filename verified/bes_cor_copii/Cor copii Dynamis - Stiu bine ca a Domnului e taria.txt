@@ -1,5 +1,5 @@
 [title]
-Știu bine că a Domnului e tăria {author: {Cor copii Dynamis}, contentHash: {589d86}, id: {dxaN5cWWMSYgD35qBo9tQS}}
+Știu bine că a Domnului e tăria {author: {Cor copii Dynamis}, contentHash: {4bd772}, id: {dxaN5cWWMSYgD35qBo9tQS}, rcId: {74412}}
 
 [sequence]
 v1,v2,v3,v4,v2,c

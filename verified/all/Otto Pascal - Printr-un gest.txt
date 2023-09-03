@@ -1,5 +1,5 @@
 [title]
-Printr-un gest {author: {Otto Pascal}, contentHash: {6893b0}, id: {2s9hyeb64kCdHtoyq83DcR}}
+Printr-un gest {author: {Otto Pascal}, contentHash: {787556}, id: {2s9hyeb64kCdHtoyq83DcR}, rcId: {112789}}
 
 [sequence]
 v1,c,v2,c,v3,c

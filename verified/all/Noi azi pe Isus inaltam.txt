@@ -1,5 +1,5 @@
 [title]
-Noi azi pe Isus înălțăm {contentHash: {74106d}, id: {5zDbTeWwdw88xDYRZd9QeJ}}
+Noi azi pe Isus înălțăm {author: {__A__}, contentHash: {4af68c}, id: {5zDbTeWwdw88xDYRZd9QeJ}, rcId: {4775}}
 
 [sequence]
 v1,c,v2,c

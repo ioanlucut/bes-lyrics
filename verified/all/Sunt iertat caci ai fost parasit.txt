@@ -1,5 +1,5 @@
 [title]
-Sunt iertat, căci ai fost părăsit {contentHash: {30b41b}, id: {bXgTCi2kctEmZDfbjj2qmM}}
+Sunt iertat, căci ai fost părăsit {author: {__A__}, contentHash: {41f57e}, id: {bXgTCi2kctEmZDfbjj2qmM}, rcId: {2812}}
 
 [sequence]
 v1,c,v1,c

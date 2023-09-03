@@ -1,5 +1,5 @@
 [title]
-Vreau să spună cel ce-i slab {contentHash: {e0dc5a}, id: {4UYRPG5FEYSxNwaMqwSpwA}}
+Vreau să spună cel ce-i slab {author: {__A__}, contentHash: {b22f3e}, id: {4UYRPG5FEYSxNwaMqwSpwA}, rcId: {4288}}
 
 [sequence]
 v1,c,v2,c,v3,c

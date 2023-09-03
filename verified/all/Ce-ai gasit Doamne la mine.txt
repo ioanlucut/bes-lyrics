@@ -1,5 +1,5 @@
 [title]
-Ce-ai găsit, Doamne, la mine {contentHash: {a406d3}, id: {qwG3BV3k38pzWcpmaZF9jS}}
+Ce-ai găsit, Doamne, la mine {author: {__A__}, contentHash: {6b1f64}, id: {qwG3BV3k38pzWcpmaZF9jS}, rcId: {4182}}
 
 [sequence]
 v1,c,v2,c,v3,c

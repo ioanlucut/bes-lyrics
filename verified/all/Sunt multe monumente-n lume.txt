@@ -1,5 +1,5 @@
 [title]
-Sunt multe monumente-n lume {contentHash: {9473bf}, id: {rh8u81VK6Y3FiKQtsuAogN}}
+Sunt multe monumente-n lume {author: {__A__}, contentHash: {4e3af9}, id: {rh8u81VK6Y3FiKQtsuAogN}, rcId: {6606}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

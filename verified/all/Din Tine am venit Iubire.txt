@@ -1,5 +1,5 @@
 [title]
-Din Tine am venit, Iubire {contentHash: {6e4c43}, id: {uEnnWQiGnahLGivmnD86Mb}}
+Din Tine am venit, Iubire {author: {__A__}, contentHash: {4e76cb}, id: {uEnnWQiGnahLGivmnD86Mb}, rcId: {3002}}
 
 [sequence]
 v1,c,v2,c,v3,c

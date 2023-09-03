@@ -1,5 +1,5 @@
 [title]
-Fiți voioși {contentHash: {ac5f04}, id: {vjAPMvyCrc7XxuKBGTCPDm}}
+Fiți voioși {author: {__A__}, contentHash: {f70935}, id: {vjAPMvyCrc7XxuKBGTCPDm}, rcId: {5668}}
 
 [sequence]
 v1,c,v2,c,v3,c

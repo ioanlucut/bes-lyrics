@@ -1,5 +1,5 @@
 [title]
-Ce bucurie să mă știu copilul Tău {contentHash: {3d16e9}, id: {5roUwwnaMu46SyRn4XfC8x}}
+Ce bucurie să mă știu copilul Tău {author: {__A__}, contentHash: {fc1f6b}, id: {5roUwwnaMu46SyRn4XfC8x}, rcId: {2796}}
 
 [sequence]
 v1,c,v2,c

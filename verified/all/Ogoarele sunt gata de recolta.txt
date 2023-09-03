@@ -1,5 +1,5 @@
 [title]
-Ogoarele sunt gata de recoltă {contentHash: {f64065}, id: {2xV8TsbKuXt785yZGTLPXp}}
+Ogoarele sunt gata de recoltă {author: {__A__}, contentHash: {313a02}, id: {2xV8TsbKuXt785yZGTLPXp}, rcId: {891}}
 
 [sequence]
 v1,c,v2,c,v3,c

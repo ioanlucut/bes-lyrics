@@ -1,5 +1,5 @@
 [title]
-Azi vin să Te-ntâlnesc {author: {Cor copii Dynamis}, contentHash: {0893f6}, id: {fdBfCHLney61t7xswMSj87}}
+Azi vin să Te-ntâlnesc {author: {Cor copii Dynamis}, contentHash: {d2ee45}, id: {fdBfCHLney61t7xswMSj87}, rcId: {__R__}}
 
 [sequence]
 c,v1,c,v1

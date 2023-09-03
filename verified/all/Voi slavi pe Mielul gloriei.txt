@@ -1,5 +1,5 @@
 [title]
-Voi slăvi pe Mielul gloriei {contentHash: {75a172}, id: {hxiwr2QRkxAG91ETrGde4o}}
+Voi slăvi pe Mielul gloriei {author: {__A__}, contentHash: {47f8d4}, id: {hxiwr2QRkxAG91ETrGde4o}, rcId: {5147}}
 
 [sequence]
 v1,c1.1,c1.2,v1,c1.1,c1.2

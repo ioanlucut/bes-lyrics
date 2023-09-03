@@ -1,5 +1,5 @@
 [title]
-Evanghelia are putere {contentHash: {6f74b9}, id: {2Fp8apw5SGiP29vUBSVPc3}}
+Evanghelia are putere {author: {__A__}, contentHash: {ea028d}, id: {2Fp8apw5SGiP29vUBSVPc3}, rcId: {3916}}
 
 [sequence]
 v1,c,v2,c,v3,c

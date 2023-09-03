@@ -1,5 +1,5 @@
 [title]
-Binecuvântă-ne {contentHash: {521cde}, id: {9VAEW9PwuiQttyWZnNqTd1}}
+Binecuvântă-ne {author: {__A__}, contentHash: {4bcaf0}, id: {9VAEW9PwuiQttyWZnNqTd1}, rcId: {885}}
 
 [sequence]
 v1,c,v2,c

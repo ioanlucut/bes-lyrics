@@ -1,5 +1,5 @@
-import { trim } from 'lodash-es';
-import { COLON, COMMA, EMPTY_STRING, TXT_EXTENSION } from './constants.js';
+import { isEqual, trim } from 'lodash-es';
+import { COLON, COMMA, EMPTY_STRING, MISSING_AUTHOR, NULL, TXT_EXTENSION } from './constants.js';
 import { SongMeta } from './types.js';
 import { getTitleByRawSection } from './core.js';
 
@@ -58,8 +58,9 @@ export const deriveFromTitle = (titleContent: string) => {
         {},
       ) as Record<SongMeta, string>) || {};
 
+  const maybeAuthor = metaSections[SongMeta.AUTHOR];
   const maybeRenamedFile = [
-    metaSections[SongMeta.AUTHOR],
+    isEqual(maybeAuthor, MISSING_AUTHOR) ? NULL : maybeAuthor,
     trim(getCleanVersion(title)),
     getCleanVersion(metaSections[SongMeta.ALTERNATIVE]),
     metaSections[SongMeta.VERSION],

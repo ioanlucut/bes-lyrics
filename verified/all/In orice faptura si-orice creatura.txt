@@ -1,5 +1,5 @@
 [title]
-În orice făptură și-orice creatură {contentHash: {d14cd2}, id: {umd8b4JRyBbeLAcmtg6AiN}}
+În orice făptură și-orice creatură {author: {__A__}, contentHash: {0e234c}, id: {umd8b4JRyBbeLAcmtg6AiN}, rcId: {6772}}
 
 [sequence]
 v1,c,v2,c,v3,c

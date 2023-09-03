@@ -1,5 +1,5 @@
 [title]
-Râuri de iubire {contentHash: {95d5b4}, id: {gTpbXxEjDoC9jQk8Rsz7Ly}}
+Râuri de iubire {author: {__A__}, contentHash: {f61c75}, id: {gTpbXxEjDoC9jQk8Rsz7Ly}, rcId: {__R__}}
 
 [sequence]
 v1,v2,c

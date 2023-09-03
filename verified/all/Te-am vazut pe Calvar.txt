@@ -1,5 +1,5 @@
 [title]
-Te-am văzut pe Calvar {contentHash: {ec1578}, id: {2KiTqZSLaGrpZznretvPqn}}
+Te-am văzut pe Calvar {author: {__A__}, contentHash: {7768ab}, id: {2KiTqZSLaGrpZznretvPqn}, rcId: {115690}}
 
 [sequence]
 v1.1,v1.2,v1.3,v1.4,v1.5,c1.1,c1.2,v2.1,v2.2,v2.3,v2.4,c1.1,c1.2,b,c1.1,c1.2

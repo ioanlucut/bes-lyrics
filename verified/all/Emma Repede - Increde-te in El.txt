@@ -1,5 +1,5 @@
 [title]
-Încrede-te în El {author: {Emma Repede}, contentHash: {a7b0d1}, id: {7A9Px4hpssjKdCQdh5kk51}}
+Încrede-te în El {author: {Emma Repede}, contentHash: {90a166}, id: {7A9Px4hpssjKdCQdh5kk51}, rcId: {96582}}
 
 [sequence]
 v1,c,v2,c

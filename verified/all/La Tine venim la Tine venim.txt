@@ -1,5 +1,5 @@
 [title]
-La Tine venim, la Tine venim {contentHash: {2e96e8}, id: {5tjEq2u575o5exqntyCfWM}}
+La Tine venim, la Tine venim {author: {__A__}, contentHash: {4142fd}, id: {5tjEq2u575o5exqntyCfWM}, rcId: {1480}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c

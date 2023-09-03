@@ -1,5 +1,5 @@
 [title]
-Aș vrea, Isuse scump, să fiu ca Tine {contentHash: {0d820f}, id: {c3qmE1ANwCpE5TSfdmhtYg}}
+Aș vrea, Isuse scump, să fiu ca Tine {author: {__A__}, contentHash: {07ee91}, id: {c3qmE1ANwCpE5TSfdmhtYg}, rcId: {6993}}
 
 [sequence]
 v1,c,v2,c,v3,c

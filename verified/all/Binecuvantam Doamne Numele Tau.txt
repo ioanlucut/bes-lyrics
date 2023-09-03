@@ -1,5 +1,5 @@
 [title]
-Binecuvântăm, Doamne, Numele Tău {contentHash: {094c48}, id: {3cVLzWmquUqGnEVnUP5rzn}}
+Binecuvântăm, Doamne, Numele Tău {author: {__A__}, contentHash: {04df98}, id: {3cVLzWmquUqGnEVnUP5rzn}, rcId: {4300}}
 
 [sequence]
 v1,c,v1,c

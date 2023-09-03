@@ -53,8 +53,8 @@ describe('core', () => {
 
   describe('getUniqueCharsAndRelevantChars', () => {
     it('should work correctly', () => {
-      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT))
-        .toMatchInlineSnapshot(`
+      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
 [
   "
 ",
@@ -119,8 +119,8 @@ describe('core', () => {
   describe('computeUniqueContentHash', () => {
     it('should work correctly', () => {
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
-      ).toMatchInlineSnapshot(`"d4c950"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`"d4c950"`);
 
       expect(computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).toEqual(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
@@ -137,23 +137,23 @@ describe('core', () => {
 
     it('should update correctly', () => {
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' '),
-      ).toMatchInlineSnapshot(`"83c6a9"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' ')).
+toMatchInlineSnapshot(`"83c6a9"`);
 
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X'),
-      ).toMatchInlineSnapshot(`"300764"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X')).
+toMatchInlineSnapshot(`"300764"`);
 
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y'),
-      ).toMatchInlineSnapshot(`"6277d0"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y')).
+toMatchInlineSnapshot(`"6277d0"`);
     });
   });
 
   describe('getSongInSectionTuples', () => {
     it('should work correctly', () => {
-      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT))
-        .toMatchInlineSnapshot(`
+      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
 [
   "[title]",
   "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",

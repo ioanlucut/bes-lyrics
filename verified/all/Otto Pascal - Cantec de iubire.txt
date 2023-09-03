@@ -1,5 +1,5 @@
 [title]
-Cântec de iubire {author: {Otto Pascal}, contentHash: {189468}, id: {sJfYT5QQaVECFDLqFzxwzi}}
+Cântec de iubire {author: {Otto Pascal}, contentHash: {20ee08}, id: {sJfYT5QQaVECFDLqFzxwzi}, rcId: {177081}}
 
 [sequence]
 v1,c,v2,c,v3,c

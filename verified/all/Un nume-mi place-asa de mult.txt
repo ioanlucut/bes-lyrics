@@ -1,5 +1,5 @@
 [title]
-Un nume-mi place-așa de mult {contentHash: {0fb9b4}, id: {qt5ezFQmWcug93GkEa2nK4}}
+Un nume-mi place-așa de mult {author: {__A__}, contentHash: {a8fb19}, id: {qt5ezFQmWcug93GkEa2nK4}, rcId: {62793}}
 
 [sequence]
 v1,c,v2,c,v3,c

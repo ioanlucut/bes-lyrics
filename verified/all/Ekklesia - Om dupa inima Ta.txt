@@ -1,5 +1,5 @@
 [title]
-Om după inima Ta {author: {Ekklesia}, contentHash: {578318}, id: {haNxnUtCGefcLykX933keF}}
+Om după inima Ta {author: {Ekklesia}, contentHash: {b96e86}, id: {haNxnUtCGefcLykX933keF}, rcId: {97925}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,e

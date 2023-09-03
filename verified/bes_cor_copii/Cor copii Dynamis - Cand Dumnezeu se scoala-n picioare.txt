@@ -1,5 +1,5 @@
 [title]
-Când Dumnezeu se scoală-n picioare {author: {Cor copii Dynamis}, contentHash: {73c1ba}, id: {7bwNpopsJ6WJao9nFuut7W}}
+Când Dumnezeu se scoală-n picioare {author: {Cor copii Dynamis}, contentHash: {3924ce}, id: {7bwNpopsJ6WJao9nFuut7W}, rcId: {__R__}}
 
 [sequence]
 c,v1,v2

@@ -1,5 +1,5 @@
 [title]
-Voi fi cu tine {author: {Laud}, contentHash: {eb31f8}, id: {gCU5PrqL8Z3q4rURJEGFgk}}
+Voi fi cu tine {author: {Laud}, contentHash: {0c7d06}, id: {gCU5PrqL8Z3q4rURJEGFgk}, rcId: {2819}}
 
 [sequence]
 c,v1,c,v2

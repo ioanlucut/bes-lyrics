@@ -1,5 +1,5 @@
 [title]
-Vino la apa vieții {contentHash: {8d51be}, id: {po5RcAEg5wa1mQ36BXtkHj}}
+Vino la apa vieții {author: {__A__}, contentHash: {f00b5a}, id: {po5RcAEg5wa1mQ36BXtkHj}, rcId: {5512}}
 
 [sequence]
 v1,c,v2,c,v3,c

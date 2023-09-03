@@ -1,5 +1,5 @@
 [title]
-Să ne rugăm, să ne rugăm {contentHash: {95fa59}, id: {mo71PMRAExnJBtPiQecYmr}}
+Să ne rugăm, să ne rugăm {author: {__A__}, contentHash: {f6c7f6}, id: {mo71PMRAExnJBtPiQecYmr}, rcId: {239801}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

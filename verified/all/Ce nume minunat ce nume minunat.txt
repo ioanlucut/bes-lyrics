@@ -1,5 +1,5 @@
 [title]
-Ce nume minunat, ce nume minunat {contentHash: {e9868c}, id: {8Y8HXgGV39WoitjCtkRKCb}}
+Ce nume minunat, ce nume minunat {author: {__A__}, contentHash: {a743a8}, id: {8Y8HXgGV39WoitjCtkRKCb}, rcId: {__R__}}
 
 [sequence]
 v1,c,v1,c

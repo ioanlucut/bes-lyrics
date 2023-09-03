@@ -1,5 +1,5 @@
 [title]
-Haideți să cântăm {contentHash: {0d0b17}, id: {sRNJvBcsfubQFZLeb3DvWP}}
+Haideți să cântăm {author: {__A__}, contentHash: {69b2b2}, id: {sRNJvBcsfubQFZLeb3DvWP}, rcId: {4933}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2

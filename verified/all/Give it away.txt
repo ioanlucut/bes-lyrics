@@ -1,5 +1,5 @@
 [title]
-Give it away {contentHash: {2c9e95}, id: {5RrYo2VrKHVzPhzqZpG86C}}
+Give it away {author: {__A__}, contentHash: {50ab6c}, id: {5RrYo2VrKHVzPhzqZpG86C}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Eu voi spune mereu {author: {Otto Pascal}, contentHash: {b12614}, id: {oaFDgevbYmE5FUcjN7wS7d}}
+Eu voi spune mereu {author: {Otto Pascal}, contentHash: {79fba3}, id: {oaFDgevbYmE5FUcjN7wS7d}, rcId: {103980}}
 
 [sequence]
 v1,c,v2,c,v3,c2,b,c

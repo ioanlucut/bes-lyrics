@@ -1,5 +1,5 @@
 [title]
-Pribeag azi prin lumea de chin și dureri {contentHash: {51eaf0}, id: {iuqLGq1bkSm1WxJWhmzF8E}}
+Pribeag azi prin lumea de chin și dureri {author: {__A__}, contentHash: {7002a7}, id: {iuqLGq1bkSm1WxJWhmzF8E}, rcId: {3860}}
 
 [sequence]
 v1,c,v2,c2,v3,b,v4,e

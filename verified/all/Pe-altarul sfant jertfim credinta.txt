@@ -1,5 +1,5 @@
 [title]
-Pe-altarul sfânt jertfim credința {contentHash: {18b6d4}, id: {g525EdUuscczvAi45YMGsT}}
+Pe-altarul sfânt jertfim credința {author: {__A__}, contentHash: {2af169}, id: {g525EdUuscczvAi45YMGsT}, rcId: {5289}}
 
 [sequence]
 v1,c,v2,c,v3,c

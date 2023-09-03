@@ -1,5 +1,5 @@
 [title]
-Ce mă spală de păcat {contentHash: {d281ef}, id: {2EdpXo4exDaBEMLqGXaUQU}}
+Ce mă spală de păcat {author: {__A__}, contentHash: {9683ad}, id: {2EdpXo4exDaBEMLqGXaUQU}, rcId: {210732}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

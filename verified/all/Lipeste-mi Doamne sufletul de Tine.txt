@@ -1,5 +1,5 @@
 [title]
-Lipește-mi, Doamne, sufletul de Tine {contentHash: {782cfe}, id: {c2o9HeWnJmCC2GAawpWV8U}}
+Lipește-mi, Doamne, sufletul de Tine {author: {__A__}, contentHash: {cdada3}, id: {c2o9HeWnJmCC2GAawpWV8U}, rcId: {186215}}
 
 [sequence]
 v1,c,v2,c,v3,c

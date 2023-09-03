@@ -1,5 +1,5 @@
 [title]
-El e ’nălțat, Împăratul divin e ’nălțat {contentHash: {d0760a}, id: {5R9jpnJnMPkhTAYnTjtvSp}}
+El e ’nălțat, Împăratul divin e ’nălțat {author: {__A__}, contentHash: {29fd90}, id: {5R9jpnJnMPkhTAYnTjtvSp}, rcId: {1230}}
 
 [sequence]
 v1,c,v1,c

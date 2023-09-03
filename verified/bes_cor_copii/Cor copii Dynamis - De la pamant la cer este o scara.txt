@@ -1,5 +1,5 @@
 [title]
-De la pământ la cer este o scară {author: {Cor copii Dynamis}, contentHash: {4c74b7}, id: {9EpBN7bpsuiNXNXuY7gCvc}}
+De la pământ la cer este o scară {author: {Cor copii Dynamis}, contentHash: {a4ea7d}, id: {9EpBN7bpsuiNXNXuY7gCvc}, rcId: {4883}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,b,c

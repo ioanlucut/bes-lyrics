@@ -1,5 +1,5 @@
 [title]
-Dimineață {author: {Emma Repede}, contentHash: {5c4111}, id: {nafcbMCtdB9QnHjtef2guM}}
+Dimineață {author: {Emma Repede}, contentHash: {0ecd79}, id: {nafcbMCtdB9QnHjtef2guM}, rcId: {139936}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-De când noi am venit {contentHash: {ae1f58}, id: {m9zGF2bsXLwGJu9ngK8Kkn}}
+De când noi am venit {author: {__A__}, contentHash: {29a11c}, id: {m9zGF2bsXLwGJu9ngK8Kkn}, rcId: {140849}}
 
 [sequence]
 v1,p,c,v2,p,c

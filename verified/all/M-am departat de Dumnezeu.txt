@@ -1,5 +1,5 @@
 [title]
-M-am depărtat de Dumnezeu {contentHash: {053146}, id: {3KnenQDjWdjkbV6zbio6Hx}}
+M-am depărtat de Dumnezeu {author: {__A__}, contentHash: {6772a6}, id: {3KnenQDjWdjkbV6zbio6Hx}, rcId: {74382}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Sfințenia-i podoaba casei Tale {contentHash: {6fa311}, id: {uKb2B4nubpeP6kQMDy54Nk}}
+Sfințenia-i podoaba casei Tale {author: {__A__}, contentHash: {19d350}, id: {uKb2B4nubpeP6kQMDy54Nk}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Isus mă încred în tin {author: {Cor copii Dynamis}, contentHash: {6fc7af}, id: {rfzWKT9QhjvDhz7QQfZjBm}}
+Isus mă încred în tin {author: {Cor copii Dynamis}, contentHash: {a8c154}, id: {rfzWKT9QhjvDhz7QQfZjBm}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,v3,c,e

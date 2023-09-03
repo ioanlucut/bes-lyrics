@@ -1,4 +1,3 @@
-import assert from 'node:assert';
 import { SongAST, SongSection } from './types.js';
 import {
   assertUniqueness,
@@ -8,7 +7,12 @@ import {
   getTitleWithoutMeta,
   getUniqueId,
 } from './core.js';
-import { COMMA, EMPTY_STRING } from './constants.js';
+import {
+  COMMA,
+  EMPTY_STRING,
+  MISSING_AUTHOR,
+  MISSING_RC_ID,
+} from './constants.js';
 
 /**
  * Parses the content of a song to its basic AST structure.
@@ -24,6 +28,7 @@ export const parse = (songAsString: string) => {
     author: EMPTY_STRING,
     contentHash: EMPTY_STRING,
     id: EMPTY_STRING,
+    rcId: EMPTY_STRING,
     sectionOrder: [],
     sectionsMap: {},
     sequence: [],
@@ -48,15 +53,19 @@ export const parse = (songAsString: string) => {
     if ([SongSection.TITLE].includes(sectionIdentifier)) {
       songAST.title = getTitleWithoutMeta(sectionContent);
 
-      const { author, id, contentHash, version, alternative } =
-        getMetaSectionsFromTitle(sectionContent);
+      const metaSectionsFromTitle = getMetaSectionsFromTitle(sectionContent);
+      const { author, id, rcId, version, alternative } = metaSectionsFromTitle;
 
       songAST.id = id || getUniqueId();
-      songAST.author = author;
+      songAST.author = author || MISSING_AUTHOR;
+      songAST.rcId = rcId || MISSING_RC_ID;
 
       // Just a basic one, but should be updated after any potential changes
       songAST.contentHash = computeUniqueContentHash(
-        songAsString.replaceAll(contentHash, EMPTY_STRING),
+        songAsString.replaceAll(
+          songAST.sectionsMap[SongSection.TITLE].content,
+          songAST.title,
+        ),
       );
       songAST.version = version;
       songAST.alternative = alternative;

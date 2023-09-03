@@ -1,5 +1,5 @@
 [title]
-Eu voi lauda pe Domnul {contentHash: {5114f7}, id: {wqYsu86LUSNwSShuadLHq4}}
+Eu voi lauda pe Domnul {author: {__A__}, contentHash: {0607a4}, id: {wqYsu86LUSNwSShuadLHq4}, rcId: {__R__}}
 
 [sequence]
 v1,v2

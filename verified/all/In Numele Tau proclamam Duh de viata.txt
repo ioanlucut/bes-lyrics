@@ -1,5 +1,5 @@
 [title]
-În Numele Tău proclamăm Duh de viață {contentHash: {9ea5d4}, id: {agniFw2UN6JV556mANvqUD}}
+În Numele Tău proclamăm Duh de viață {author: {__A__}, contentHash: {0e4e64}, id: {agniFw2UN6JV556mANvqUD}, rcId: {197882}}
 
 [sequence]
 c,v1.1,v1.2,c

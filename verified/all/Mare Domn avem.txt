@@ -1,5 +1,5 @@
 [title]
-Mare Domn avem {contentHash: {668444}, id: {wFJGP21rDxqrgQxAWvyfmw}}
+Mare Domn avem {author: {__A__}, contentHash: {8929f3}, id: {wFJGP21rDxqrgQxAWvyfmw}, rcId: {61360}}
 
 [sequence]
 v1,c,v2,c

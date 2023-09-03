@@ -1,5 +1,5 @@
 [title]
-Nu sunt în ceruri lacrimi și griji {contentHash: {495eef}, id: {ofkau9HMridD66hr3vdrWe}}
+Nu sunt în ceruri lacrimi și griji {author: {__A__}, contentHash: {adf6ed}, id: {ofkau9HMridD66hr3vdrWe}, rcId: {235821}}
 
 [sequence]
 v1,c,v2,c,v3,c

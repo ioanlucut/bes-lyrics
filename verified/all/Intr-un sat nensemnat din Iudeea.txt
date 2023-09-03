@@ -1,5 +1,5 @@
 [title]
-Într-un sat ne’nsemnat din Iudeea {contentHash: {6f0d0e}, id: {uTkfmCq2McrszGSyoNNVKk}}
+Într-un sat ne’nsemnat din Iudeea {author: {__A__}, contentHash: {9d11c9}, id: {uTkfmCq2McrszGSyoNNVKk}, rcId: {157710}}
 
 [sequence]
 v1,c,v2,c

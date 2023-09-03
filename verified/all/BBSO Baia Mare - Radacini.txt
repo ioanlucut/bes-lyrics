@@ -1,5 +1,5 @@
 [title]
-Rădăcini {author: {BBSO Baia Mare}, contentHash: {696633}, id: {obYjyqPkQGbLf7MBArXCS9}}
+Rădăcini {author: {BBSO Baia Mare}, contentHash: {c11412}, id: {obYjyqPkQGbLf7MBArXCS9}, rcId: {247898}}
 
 [sequence]
 v1,b,c,v2,b,c,b

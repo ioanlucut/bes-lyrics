@@ -1,5 +1,5 @@
 [title]
-Lângă Tine vreau {contentHash: {619883}, id: {ozEswUrc1yYjYticPUXex4}}
+Lângă Tine vreau {author: {__A__}, contentHash: {b30b58}, id: {ozEswUrc1yYjYticPUXex4}, rcId: {5135}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c

@@ -1,5 +1,5 @@
 [title]
-Isus, izvor de mângâiere {contentHash: {c23fbb}, id: {4URRohFvNAFesA9EPvGZyH}}
+Isus, izvor de mângâiere {author: {__A__}, contentHash: {8424c6}, id: {4URRohFvNAFesA9EPvGZyH}, rcId: {68862}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

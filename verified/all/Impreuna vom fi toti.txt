@@ -1,5 +1,5 @@
 [title]
-Împreună vom fi toți {contentHash: {113465}, id: {7LWYsnDfMmGjkNx61JLM8X}}
+Împreună vom fi toți {author: {__A__}, contentHash: {87be82}, id: {7LWYsnDfMmGjkNx61JLM8X}, rcId: {__R__}}
 
 [sequence]
 c,b,c,b

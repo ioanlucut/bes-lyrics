@@ -1,5 +1,5 @@
 [title]
-Tu ești Cel ce-ntotdeauna luptă {contentHash: {94ddd3}, id: {r57QKj7PHxNBuMFqXgmYmJ}}
+Tu ești Cel ce-ntotdeauna luptă {author: {__A__}, contentHash: {e232b0}, id: {r57QKj7PHxNBuMFqXgmYmJ}, rcId: {161815}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c,e

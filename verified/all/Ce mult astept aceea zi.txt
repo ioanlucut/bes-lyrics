@@ -1,5 +1,5 @@
 [title]
-Ce mult aștept aceea zi {contentHash: {becd51}, id: {ngKTit8E3pSRzhsPUukkgH}}
+Ce mult aștept aceea zi {author: {__A__}, contentHash: {973b82}, id: {ngKTit8E3pSRzhsPUukkgH}, rcId: {6974}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

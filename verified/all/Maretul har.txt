@@ -1,5 +1,5 @@
 [title]
-Mărețul har {contentHash: {24b1a3}, id: {wNLnFnNqHd1WeHa1PhTnrz}}
+Mărețul har {author: {__A__}, contentHash: {572d0e}, id: {wNLnFnNqHd1WeHa1PhTnrz}, rcId: {1732}}
 
 [sequence]
 v1,v2,v3,v4

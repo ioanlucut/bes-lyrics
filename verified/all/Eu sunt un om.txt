@@ -1,5 +1,5 @@
 [title]
-Eu sunt un om {contentHash: {020aaf}, id: {twmdLkvMxLAij8dp9CCwUY}}
+Eu sunt un om {author: {__A__}, contentHash: {29928a}, id: {twmdLkvMxLAij8dp9CCwUY}, rcId: {3170}}
 
 [sequence]
 v1,c,v2,c

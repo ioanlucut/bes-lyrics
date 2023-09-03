@@ -1,5 +1,5 @@
 [title]
-Domnul e așa de bun {author: {Callatis Praise}, contentHash: {1a47dd}, id: {fMjAf9HjHcgLkAeJo6wG2b}}
+Domnul e așa de bun {author: {Callatis Praise}, contentHash: {7bf921}, id: {fMjAf9HjHcgLkAeJo6wG2b}, rcId: {6785}}
 
 [sequence]
 v1,v2,v3,v4

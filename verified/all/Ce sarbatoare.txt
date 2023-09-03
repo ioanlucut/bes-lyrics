@@ -1,5 +1,5 @@
 [title]
-Ce sărbătoare {contentHash: {74edd4}, id: {uZJdZoGSAKscbDRqZiqaNJ}}
+Ce sărbătoare {author: {__A__}, contentHash: {9ecb30}, id: {uZJdZoGSAKscbDRqZiqaNJ}, rcId: {86835}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

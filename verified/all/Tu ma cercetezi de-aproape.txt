@@ -1,5 +1,5 @@
 [title]
-Tu mă cercetezi de-aproape {contentHash: {b1935f}, id: {sndwaMn41QbgoMpQKkpzf4}}
+Tu mă cercetezi de-aproape {author: {__A__}, contentHash: {e0c780}, id: {sndwaMn41QbgoMpQKkpzf4}, rcId: {58041}}
 
 [sequence]
 v1,c,v2,c

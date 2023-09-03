@@ -1,5 +1,5 @@
 [title]
-Isus, eu Te iubesc mai mult {contentHash: {864c38}, id: {8EopjdjBGpZS5shB3LiqNr}}
+Isus, eu Te iubesc mai mult {author: {__A__}, contentHash: {de7316}, id: {8EopjdjBGpZS5shB3LiqNr}, rcId: {5136}}
 
 [sequence]
 v1,p,c

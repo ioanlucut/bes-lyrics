@@ -1,5 +1,5 @@
 [title]
-Dragostea-i din Dumnezeu {contentHash: {1e7086}, id: {du3N88cBHHPhiGRHwUNnWk}}
+Dragostea-i din Dumnezeu {author: {__A__}, contentHash: {5a1723}, id: {du3N88cBHHPhiGRHwUNnWk}, rcId: {__R__}}
 
 [sequence]
 v1,v2,v3,v4

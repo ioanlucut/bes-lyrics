@@ -1,5 +1,5 @@
 [title]
-O, ce dulce nume-i Isus {contentHash: {9fca9b}, id: {gbtz4mzswaeYeoiAbbA96x}}
+O, ce dulce nume-i Isus {author: {__A__}, contentHash: {bab042}, id: {gbtz4mzswaeYeoiAbbA96x}, rcId: {225414}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Sângele Tău m-a curățit {contentHash: {67b10d}, id: {3pkhEcQzBkLjcSQ4mEvW2g}}
+Sângele Tău m-a curățit {author: {__A__}, contentHash: {1a2f1f}, id: {3pkhEcQzBkLjcSQ4mEvW2g}, rcId: {71166}}
 
 [sequence]
 v1,c,v1,c

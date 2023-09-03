@@ -1,5 +1,5 @@
 [title]
-Domnul bate la ușa ta {contentHash: {c3eb6f}, id: {fJCAVNd8j6mN1qxpjtPYgF}}
+Domnul bate la ușa ta {author: {__A__}, contentHash: {ef6c0e}, id: {fJCAVNd8j6mN1qxpjtPYgF}, rcId: {4571}}
 
 [sequence]
 v1,c,v2,c,v3,c

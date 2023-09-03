@@ -1,5 +1,5 @@
 [title]
-Veniți, creștini, la rugăciune {contentHash: {03778f}, id: {oxQYfPd3h4rwLbgwqCmAW3}}
+Veniți, creștini, la rugăciune {author: {__A__}, contentHash: {021aaf}, id: {oxQYfPd3h4rwLbgwqCmAW3}, rcId: {__R__}}
 
 [sequence]
 v1,v2,v3,v4,v5

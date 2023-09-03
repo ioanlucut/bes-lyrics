@@ -1,5 +1,5 @@
 [title]
-Tu ești Lumina din zori de zi {contentHash: {08fcd5}, id: {kdGrVm1MeAdQ8vHoQHiWZH}}
+Tu ești Lumina din zori de zi {author: {__A__}, contentHash: {f2b2cc}, id: {kdGrVm1MeAdQ8vHoQHiWZH}, rcId: {111442}}
 
 [sequence]
 v1,c,b,c

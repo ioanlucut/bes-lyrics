@@ -1,5 +1,5 @@
 [title]
-Iubire din Tine {contentHash: {7283bd}, id: {8unAZ7XGWPXU8k3FYivxLn}}
+Iubire din Tine {author: {__A__}, contentHash: {7ea9c1}, id: {8unAZ7XGWPXU8k3FYivxLn}, rcId: {__R__}}
 
 [sequence]
 v1,c,v1,c

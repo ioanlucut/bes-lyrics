@@ -1,5 +1,5 @@
 [title]
-El e-n veci Stânca lui Israel {contentHash: {226774}, id: {1bTBKc5H9k8748uN2rCFca}}
+El e-n veci Stânca lui Israel {author: {__A__}, contentHash: {eaa716}, id: {1bTBKc5H9k8748uN2rCFca}, rcId: {61348}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Din gură-n gură salutul {contentHash: {4cf206}, id: {xaEGrtmVAAVdt7GpFShQin}}
+Din gură-n gură salutul {author: {__A__}, contentHash: {bc9f89}, id: {xaEGrtmVAAVdt7GpFShQin}, rcId: {4885}}
 
 [sequence]
 v1,v2,v3,v4,v5

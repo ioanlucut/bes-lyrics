@@ -1,5 +1,5 @@
 [title]
-Voi veți fi bucuroși, de pace însoțiți {contentHash: {e3f7ee}, id: {bz959wVVTkZSpCesuGDx2u}}
+Voi veți fi bucuroși, de pace însoțiți {author: {__A__}, contentHash: {fdda66}, id: {bz959wVVTkZSpCesuGDx2u}, rcId: {5123}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

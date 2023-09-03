@@ -1,5 +1,5 @@
 [title]
-Credincios ești să ne conduci {contentHash: {87d626}, id: {wPEhQwYpGCBzquKSUNXFoY}}
+Credincios ești să ne conduci {author: {__A__}, contentHash: {1dcffe}, id: {wPEhQwYpGCBzquKSUNXFoY}, rcId: {2801}}
 
 [sequence]
 c,v1,c,v1
