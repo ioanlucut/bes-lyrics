@@ -1,5 +1,5 @@
 [title]
-Turmă mică, nu te teme {author: {__A__}, contentHash: {a91531}, id: {pPB5Nx5NTJRch3BuvmA65o}, rcId: {5436}}
+Turmă mică, nu te teme {author: {__A__}, contentHash: {d25ffe}, id: {pPB5Nx5NTJRch3BuvmA65o}, rcId: {5436}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
@@ -12,10 +12,10 @@ Urle lupii-n orice vreme
 Dar de tine, nu te teme,
 
 [v1.2]
-/: Nu s-atinge nici un rău! :/
+/: Nu s-atinge niciun rău! :/
 Nu te teme, nu te teme,
-Nu se-atinge nici un rău,
-Nu se-atinge nici un rău.
+Nu se-atinge niciun rău,
+Nu se-atinge niciun rău.
 
 [v2.1]
 Căci puterea Lui e mare

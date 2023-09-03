@@ -1,5 +1,5 @@
 [title]
-Fiți voioși totdeauna {author: {__A__}, contentHash: {819973}, id: {sbcCALw6gXaFk94Pv6Q3nE}, rcId: {5668}}
+Fiți voioși totdeauna {author: {__A__}, contentHash: {260ae1}, id: {sbcCALw6gXaFk94Pv6Q3nE}, rcId: {5668}}
 
 [sequence]
 v1,v2,v3,v4
@@ -10,7 +10,7 @@ Fiți voioși totdeauna!
 Fiți voioși, fiți voioși totdeauna,
 Lăudându-L pe Domnul mereu!
 De ne-ncredem puternic în Domnul
-Nu ne-nvinge nicicând nici un rău.
+Nu ne-nvinge nicicând niciun rău.
 
 [v2]
 O, ce valuri, de-ndurare,

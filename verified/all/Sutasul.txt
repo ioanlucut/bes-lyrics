@@ -1,12 +1,12 @@
 [title]
-Sutașul {author: {__A__}, contentHash: {c1bbd7}, id: {kDfBWuyZsEpAwfkvfRC6uB}, rcId: {225535}}
+Sutașul {author: {__A__}, contentHash: {e5fbc5}, id: {kDfBWuyZsEpAwfkvfRC6uB}, rcId: {225535}}
 
 [sequence]
 v1,v2,v3,v4,v5
 
 [v1]
 Te priveam cu atâta dispreț,
-Te-am lovit fără nici un regret.
+Te-am lovit fără niciun regret.
 Suferința amară Te chinuia,
 Nu știu cum de-ai putut îndura.
 

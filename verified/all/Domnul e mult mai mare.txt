@@ -1,5 +1,5 @@
 [title]
-Domnul e mult mai mare {author: {__A__}, contentHash: {56deaa}, id: {n9PejijdMekpZgA8dXehqq}, rcId: {151242}}
+Domnul e mult mai mare {author: {__A__}, contentHash: {c2b1e3}, id: {n9PejijdMekpZgA8dXehqq}, rcId: {151242}}
 
 [sequence]
 c,v1,c,v2,c
@@ -17,7 +17,7 @@ Nici cea mai grea confuzie nu-L poate înfrunta,
 Orice munte oricât de tare se apleacă-n fața Sa.
 
 [v2]
-Nici un uriaș, vreodată, nu-L poate egala,
+Niciun uriaș, vreodată, nu-L poate egala,
 Orice munte-oricât de tare, se apleacă-n fața Sa.
 Domnul e cel mai mare, El poate tot ce vrea,
 Orice munte oricât de tare se apleacă-n fața Sa.

@@ -1,5 +1,5 @@
 [title]
-Pe-oceanul infinit, cu valuri {author: {__A__}, contentHash: {ab881a}, id: {sAJjZAfbwwXxjG9hgyzWTt}, rcId: {5288}}
+Pe-oceanul infinit, cu valuri {author: {__A__}, contentHash: {b57bfc}, id: {sAJjZAfbwwXxjG9hgyzWTt}, rcId: {5288}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -30,7 +30,7 @@ Sunt deznădăjduit.
 
 [v2.2]
 Privesc în noapte, singur sunt,
-N-am nici un ajutor.
+N-am niciun ajutor.
 Lovit de valuri sunt, Isus,
 Vino, fii Salvator!
 

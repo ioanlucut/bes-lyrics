@@ -1,18 +1,18 @@
 [title]
-Binecuvântează, suflete, pe Domnul tău {author: {__A__}, contentHash: {923728}, id: {xhzSneZF83aLhTZUHzvcLL}, rcId: {__R__}}
+Binecuvântează, suflete, pe Domnul tău {author: {__A__}, contentHash: {3c6a38}, id: {xhzSneZF83aLhTZUHzvcLL}, rcId: {__R__}}
 
 [sequence]
 v1,v2
 
 [v1]
 Binecuvântează, suflete, pe Domnul tău,
-Nu uita nici una din binefacerile Lui,
+Nu uita niciuna din binefacerile Lui,
 Căci El îți iartă făr’delegea ta,
 Îndurare-n dar îți dă și-n veci mântuirea.
 
 [v2]
 Binecuvântează, suflete, pe Domnul tău,
-Nu uita nici una din binefacerile Lui,
+Nu uita niciuna din binefacerile Lui,
 Căci El îți iartă făr’delegea ta,
 Îndurare-n dar îți dă și-n veci mântuirea.
 Binecuvântează, suflete, pe Domnul tău!

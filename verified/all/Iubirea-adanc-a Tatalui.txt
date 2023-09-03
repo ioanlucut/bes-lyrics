@@ -1,5 +1,5 @@
 [title]
-Iubirea-adânc-a Tatălui {author: {__A__}, contentHash: {19c47f}, id: {ha7S1bgvkFRt5Y8vyfmmrb}, rcId: {217294}}
+Iubirea-adânc-a Tatălui {author: {__A__}, contentHash: {539686}, id: {ha7S1bgvkFRt5Y8vyfmmrb}, rcId: {217294}}
 
 [sequence]
 v1,v2,v3,v4,b,v5,v6
@@ -42,6 +42,6 @@ Cu salvatoarea-I moarte.
 
 [v6]
 O, nu-s deajuns spre-a-Ți mulțumi,
-Nici cânt, nici osanale.
+Nici cânt, niciosanale.
 Hristos cu viața Sa plăti,
 A mea răscumparare!
