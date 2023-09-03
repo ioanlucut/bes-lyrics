@@ -37,6 +37,26 @@ mesia
     `);
   });
 
+  it('should correctly rewrite "nici o" & friends text', () => {
+    expect(
+reprocess(`
+Nici o
+Nici un
+nici o
+nici un
+…
+`)).
+toMatchInlineSnapshot(`
+"
+Nicio
+Niciun
+nicio
+niciun
+...
+"
+`);
+  });
+
   it('should not do anything for a simple correct song w/o sub sections', () => {
     expect(reprocess(SIMPLE_SONG_MOCK_FILE_CONTENT)).toMatchInlineSnapshot(`
 "[title]
