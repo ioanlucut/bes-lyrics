@@ -1,5 +1,5 @@
 [title]
-Eu sunt Domnul ce vindecă {contentHash: {c734d2}, id: {bKcqedvyC9cu2kEZ7JvFNY}, rcId: {__NONE__}}
+Eu sunt Domnul ce vindecă {contentHash: {c734d2}, id: {bKcqedvyC9cu2kEZ7JvFNY}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,v2,v1,v2

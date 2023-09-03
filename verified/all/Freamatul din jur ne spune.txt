@@ -1,5 +1,5 @@
 [title]
-Freamătul din jur ne spune {contentHash: {c50b14}, id: {t1jButJsqiUWZiQUfJ5Qu4}, rcId: {__NONE__}}
+Freamătul din jur ne spune {contentHash: {c50b14}, id: {t1jButJsqiUWZiQUfJ5Qu4}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,v4.1,v4.2,c,v5.1,v5.2,c

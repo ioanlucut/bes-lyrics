@@ -1,5 +1,5 @@
 [title]
-Viața-mea Ți-o dau Isus {author: {Cor copii Dynamis}, contentHash: {bcf25f}, id: {vyRSKspyaob1eEHmXPNTov}, rcId: {__NONE__}}
+Viața-mea Ți-o dau Isus {author: {Cor copii Dynamis}, contentHash: {bcf25f}, id: {vyRSKspyaob1eEHmXPNTov}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 p,c,c2,c

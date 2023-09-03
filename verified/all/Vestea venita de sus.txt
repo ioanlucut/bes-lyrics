@@ -1,5 +1,5 @@
 [title]
-Vestea venită de sus {contentHash: {7b7b87}, id: {4U4ugH4dVoKnZzy5rZZbti}, rcId: {__NONE__}}
+Vestea venită de sus {contentHash: {7b7b87}, id: {4U4ugH4dVoKnZzy5rZZbti}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 c,v1,c,v2,c

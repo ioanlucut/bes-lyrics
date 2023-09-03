@@ -1,5 +1,5 @@
 [title]
-Unde mergi Tu, merg {contentHash: {81603f}, id: {1BpXPer7uQPdvM5jACK7rY}, rcId: {__NONE__}}
+Unde mergi Tu, merg {contentHash: {81603f}, id: {1BpXPer7uQPdvM5jACK7rY}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 c,v1,c,v2,c,e

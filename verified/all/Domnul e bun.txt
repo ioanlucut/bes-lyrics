@@ -1,5 +1,5 @@
 [title]
-Domnul e bun {contentHash: {8dd433}, id: {sbREP6cNtGKJfig5fuoVWU}, rcId: {__NONE__}}
+Domnul e bun {contentHash: {8dd433}, id: {sbREP6cNtGKJfig5fuoVWU}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 c,v1,c,v1

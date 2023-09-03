@@ -1,5 +1,5 @@
 [title]
-Am așteptat un an întreg {contentHash: {464584}, id: {8RQofKRhFcbo2gtYZBM5iV}, rcId: {__NONE__}}
+Am așteptat un an întreg {contentHash: {464584}, id: {8RQofKRhFcbo2gtYZBM5iV}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c,v3,c

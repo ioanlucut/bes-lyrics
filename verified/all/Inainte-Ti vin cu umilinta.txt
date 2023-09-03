@@ -1,5 +1,5 @@
 [title]
-Înainte-Ți vin cu umilință {contentHash: {0f0d5c}, id: {w4zrLQv7w2aFCi8cXumXmR}, rcId: {__NONE__}}
+Înainte-Ți vin cu umilință {contentHash: {0f0d5c}, id: {w4zrLQv7w2aFCi8cXumXmR}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1.1,v1.2

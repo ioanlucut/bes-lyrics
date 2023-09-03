@@ -1,5 +1,5 @@
 [title]
-Ești aici - Way maker {contentHash: {1bd428}, id: {hUncXxeW3oMwsLnEKi4hwV}, rcId: {__NONE__}}
+Ești aici - Way maker {contentHash: {1bd428}, id: {hUncXxeW3oMwsLnEKi4hwV}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c,b,c

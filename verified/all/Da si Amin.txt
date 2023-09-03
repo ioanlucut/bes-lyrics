@@ -1,5 +1,5 @@
 [title]
-Da și Amin {contentHash: {6b7dd5}, id: {rDeg4mPg4JipLWewkpVH67}, rcId: {__NONE__}}
+Da și Amin {contentHash: {6b7dd5}, id: {rDeg4mPg4JipLWewkpVH67}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c,b,c

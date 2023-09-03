@@ -1,5 +1,5 @@
 [title]
-Vezi, pe o cruce la Calvar {contentHash: {10a051}, id: {cQK6U36afbrg7KjsPywBjY}, rcId: {__NONE__}}
+Vezi, pe o cruce la Calvar {contentHash: {10a051}, id: {cQK6U36afbrg7KjsPywBjY}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c,v3,c

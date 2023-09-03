@@ -1,5 +1,5 @@
 [title]
-În dimineața învierii {contentHash: {c95c9a}, id: {kY8Zfsk1a4bQoyBRw3Rzqt}, rcId: {__NONE__}}
+În dimineața învierii {contentHash: {c95c9a}, id: {kY8Zfsk1a4bQoyBRw3Rzqt}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c,v3,c

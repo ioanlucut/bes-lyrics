@@ -1,5 +1,5 @@
 [title]
-Cânt Aleluia, Domnului {contentHash: {c6c1e4}, id: {6Y6HkxcaUyjhZVkjjW1EUY}, rcId: {__NONE__}}
+Cânt Aleluia, Domnului {contentHash: {c6c1e4}, id: {6Y6HkxcaUyjhZVkjjW1EUY}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 c,v1,v2

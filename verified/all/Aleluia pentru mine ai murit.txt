@@ -1,5 +1,5 @@
 [title]
-Aleluia, pentru mine ai murit {contentHash: {796281}, id: {kqtD4J54jfzn6tFr9C4qLY}}
+Aleluia, pentru mine ai murit {contentHash: {e12e60}, id: {kqtD4J54jfzn6tFr9C4qLY}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Tu ești Rege, ești Mesia {contentHash: {a4a2f2}, id: {sc1ZrmF5JanPyNpJ5rXSqw}, rcId: {__NONE__}}
+Tu ești Rege, ești Mesia {contentHash: {a4a2f2}, id: {sc1ZrmF5JanPyNpJ5rXSqw}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c

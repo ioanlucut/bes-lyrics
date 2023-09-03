@@ -1,5 +1,5 @@
 [title]
-Ce ne poate curăți {contentHash: {443716}, id: {bm3kveTmo8TEmcYeTqsGwc}, rcId: {__NONE__}}
+Ce ne poate curăți {contentHash: {443716}, id: {bm3kveTmo8TEmcYeTqsGwc}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c

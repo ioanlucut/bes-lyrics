@@ -1,5 +1,5 @@
 [title]
-Să venim-naintea Lui {contentHash: {657e56}, id: {wowT2aFsXyg3A8G5VMDYcv}, rcId: {__NONE__}}
+Să venim-naintea Lui {contentHash: {657e56}, id: {wowT2aFsXyg3A8G5VMDYcv}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,v2,v3

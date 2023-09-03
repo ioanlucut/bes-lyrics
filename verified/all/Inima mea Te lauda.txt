@@ -1,5 +1,5 @@
 [title]
-Inima mea Te laudă {contentHash: {def87c}, id: {otGHA7oNZeAzM9Wvdv187M}, rcId: {__NONE__}}
+Inima mea Te laudă {contentHash: {def87c}, id: {otGHA7oNZeAzM9Wvdv187M}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v1,c

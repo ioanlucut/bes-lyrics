@@ -1,5 +1,5 @@
 [title]
-Isus, domn puternic {contentHash: {7c7acf}, id: {6KHQ9sYR8zFXWq7GXthaoo}, rcId: {__NONE__}}
+Isus, domn puternic {contentHash: {7c7acf}, id: {6KHQ9sYR8zFXWq7GXthaoo}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Când dis-de-dimineață {contentHash: {38141d}, id: {1gzDXHBgvNaZ3dqGAu9sms}, rcId: {__NONE__}}
+Când dis-de-dimineață {contentHash: {38141d}, id: {1gzDXHBgvNaZ3dqGAu9sms}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-În Isus găsești răspunsul {contentHash: {232e9f}, id: {ntYusEsdMGegQLEXGuNffh}, rcId: {__NONE__}}
+În Isus găsești răspunsul {contentHash: {232e9f}, id: {ntYusEsdMGegQLEXGuNffh}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c

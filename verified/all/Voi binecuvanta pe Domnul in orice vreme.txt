@@ -1,5 +1,5 @@
 [title]
-Voi binecuvânta pe Domnul în orice vreme {contentHash: {11452d}, id: {oYziNwp6UWYRxgqHRGHZ4Q}, rcId: {__NONE__}}
+Voi binecuvânta pe Domnul în orice vreme {contentHash: {11452d}, id: {oYziNwp6UWYRxgqHRGHZ4Q}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,v2,v3

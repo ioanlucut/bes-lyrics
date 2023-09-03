@@ -1,5 +1,5 @@
 [title]
-Domn al veșniciei {author: {Cor copii Dynamis}, version: {ii}, contentHash: {d0312f}, id: {3fEURzKcvCRhp5x1uaSoFZ}, rcId: {__NONE__}}
+Domn al veșniciei {author: {Cor copii Dynamis}, version: {ii}, contentHash: {d0312f}, id: {3fEURzKcvCRhp5x1uaSoFZ}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c,b,c

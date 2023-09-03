@@ -1,5 +1,5 @@
 [title]
-Atât timp cât voi trăi {contentHash: {eb568d}, id: {vU8DUVGLMd41ntAov2BmdB}, rcId: {__NONE__}}
+Atât timp cât voi trăi {contentHash: {eb568d}, id: {vU8DUVGLMd41ntAov2BmdB}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c

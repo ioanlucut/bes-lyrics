@@ -1,5 +1,5 @@
 [title]
-Glorie Celui din veșnicii {contentHash: {2ca877}, id: {5YMHB226fKEHA8mU6htJXv}, rcId: {__NONE__}}
+Glorie Celui din veșnicii {contentHash: {2ca877}, id: {5YMHB226fKEHA8mU6htJXv}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c

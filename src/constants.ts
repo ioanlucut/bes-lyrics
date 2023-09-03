@@ -35,4 +35,4 @@ export const TEST_ENV = 'test';
 
 export const RC_DASH = ' - ';
 
-export const MISSING_RC_ID = '__NONE__';
+export const MISSING_RC_ID = '__RC_ID_NONE__';

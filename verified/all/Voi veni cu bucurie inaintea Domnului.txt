@@ -1,5 +1,5 @@
 [title]
-Voi veni cu bucurie înaintea Domnului {contentHash: {836ccd}, id: {dMqpmLJeeLuyoioMgFDV7k}, rcId: {__NONE__}}
+Voi veni cu bucurie înaintea Domnului {contentHash: {836ccd}, id: {dMqpmLJeeLuyoioMgFDV7k}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c1.1,c1.2,v1,c1.1,c1.2

@@ -1,5 +1,5 @@
 [title]
-El poate, da, El poate {contentHash: {7ab15b}, id: {rxQbT6Mz8KZRKMbXTQjF3u}, rcId: {__NONE__}}
+El poate, da, El poate {contentHash: {7ab15b}, id: {rxQbT6Mz8KZRKMbXTQjF3u}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v1,c

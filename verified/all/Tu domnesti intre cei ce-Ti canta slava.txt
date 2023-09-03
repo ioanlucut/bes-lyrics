@@ -1,5 +1,5 @@
 [title]
-Tu domnești între cei ce-Ți cântă slavă {contentHash: {0dff1b}, id: {qVXGu25FTAwWxcGiwXrbUd}, rcId: {__NONE__}}
+Tu domnești între cei ce-Ți cântă slavă {contentHash: {0dff1b}, id: {qVXGu25FTAwWxcGiwXrbUd}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v1,c

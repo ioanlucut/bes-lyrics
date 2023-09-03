@@ -1,5 +1,5 @@
 [title]
-Fii glorificat {contentHash: {d74172}, id: {wthyjRqon4ae6Hm57p2pD2}, rcId: {__NONE__}}
+Fii glorificat {contentHash: {d74172}, id: {wthyjRqon4ae6Hm57p2pD2}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 c,v1,c,v1

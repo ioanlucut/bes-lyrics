@@ -1,5 +1,5 @@
 [title]
-O, Doamne, vreau să Te slujesc în viață cu folos {contentHash: {638e09}, id: {sKbyJ74XJbFWWYi5tMuGgs}, rcId: {__NONE__}}
+O, Doamne, vreau să Te slujesc în viață cu folos {contentHash: {638e09}, id: {sKbyJ74XJbFWWYi5tMuGgs}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2,c2,b,e

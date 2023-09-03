@@ -1,5 +1,5 @@
 [title]
-În veci să țină lauda Domnului {contentHash: {dd11ca}, id: {qUDzeV8EVQTwJB6iiNnmtk}, rcId: {__NONE__}}
+În veci să țină lauda Domnului {contentHash: {dd11ca}, id: {qUDzeV8EVQTwJB6iiNnmtk}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,v2

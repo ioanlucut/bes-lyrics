@@ -1,5 +1,5 @@
 [title]
-Condu-ne al nost’ Părinte {contentHash: {e29955}, id: {g4KcJXTVSPSi2bi6zspZSj}, rcId: {__NONE__}}
+Condu-ne al nost’ Părinte {contentHash: {e29955}, id: {g4KcJXTVSPSi2bi6zspZSj}, rcId: {__RC_ID_NONE__}}
 
 [sequence]
 v1,c,v2
