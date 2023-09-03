@@ -1,5 +1,5 @@
 [title]
-În acea zi, când boldul morții {contentHash: {03e52d}, id: {7VSrpVUxsYohi5XxZZ4QkS}, rcId: {__NONE__}}
+În acea zi, când boldul morții {contentHash: {03e52d}, id: {7VSrpVUxsYohi5XxZZ4QkS}, rcId: {213168}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,v3,c

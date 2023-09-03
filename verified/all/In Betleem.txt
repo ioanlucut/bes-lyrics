@@ -1,5 +1,5 @@
 [title]
-În Betleem {contentHash: {46e254}, id: {5dDA56tCjWL9R9wFPTjWyZ}, rcId: {__NONE__}}
+În Betleem {contentHash: {46e254}, id: {5dDA56tCjWL9R9wFPTjWyZ}, rcId: {1485}}
 
 [sequence]
 v1,c,v2,c,v3,c

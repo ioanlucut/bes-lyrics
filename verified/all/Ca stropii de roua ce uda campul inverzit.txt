@@ -1,5 +1,5 @@
 [title]
-Ca stropii de rouă ce udă câmpul înverzit {contentHash: {6f58c1}, id: {5Ad8RHPaeSxnMcuEoBGdp3}, rcId: {__NONE__}}
+Ca stropii de rouă ce udă câmpul înverzit {contentHash: {6f58c1}, id: {5Ad8RHPaeSxnMcuEoBGdp3}, rcId: {2132}}
 
 [sequence]
 v1,v2,v3,v4
