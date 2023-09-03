@@ -1,5 +1,5 @@
 [title]
-Nu pot să știu {author: {Adi Kovaci}, contentHash: {75c7db}, id: {nCxiVcSW3KgtaKfmnweEnc}, rcId: {71904}}
+Nu pot să știu {author: {Adi Kovaci}, contentHash: {a32061}, id: {nCxiVcSW3KgtaKfmnweEnc}, rcId: {71904}}
 
 [sequence]
 v1,c,v2,c,e

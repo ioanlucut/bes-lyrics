@@ -1,5 +1,5 @@
 [title]
-Mai mult acum ca niciodată {contentHash: {023bd1}, id: {rsDJdToejsQrkXwrsY3NzL}, rcId: {142682}}
+Mai mult acum ca niciodată {author: {__A__}, contentHash: {2ce7d6}, id: {rsDJdToejsQrkXwrsY3NzL}, rcId: {142682}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

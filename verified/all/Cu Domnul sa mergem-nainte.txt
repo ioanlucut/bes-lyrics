@@ -1,5 +1,5 @@
 [title]
-Cu Domnul să mergem-nainte {contentHash: {f6aaa7}, id: {xw6bLmyaWitAyj8BpBSmLx}, rcId: {74517}}
+Cu Domnul să mergem-nainte {author: {__A__}, contentHash: {4b353c}, id: {xw6bLmyaWitAyj8BpBSmLx}, rcId: {74517}}
 
 [sequence]
 v1,c,v2,c,v3,c

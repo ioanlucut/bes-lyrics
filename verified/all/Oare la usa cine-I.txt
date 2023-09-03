@@ -1,5 +1,5 @@
 [title]
-Oare la ușă cine-I {contentHash: {a14c41}, id: {giRZ9HR8i1LqXJGwhkfjoQ}, rcId: {202707}}
+Oare la ușă cine-I {author: {__A__}, contentHash: {ceb4e3}, id: {giRZ9HR8i1LqXJGwhkfjoQ}, rcId: {202707}}
 
 [sequence]
 v1,c,v2,c,v3,c

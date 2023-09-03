@@ -1,5 +1,5 @@
 [title]
-Cu umilință-n rugăciune {contentHash: {2e8ddb}, id: {muHAyNJWg35FWsjfFKLinJ}, rcId: {180813}}
+Cu umilință-n rugăciune {author: {__A__}, contentHash: {637aea}, id: {muHAyNJWg35FWsjfFKLinJ}, rcId: {180813}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2

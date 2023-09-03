@@ -1,5 +1,5 @@
 [title]
-Avem nevoie de Dumnezeu {contentHash: {c2b9b7}, id: {gQMH4dtbguzx1ra6JhYH3q}, rcId: {2124}}
+Avem nevoie de Dumnezeu {author: {__A__}, contentHash: {0c5a9c}, id: {gQMH4dtbguzx1ra6JhYH3q}, rcId: {2124}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4

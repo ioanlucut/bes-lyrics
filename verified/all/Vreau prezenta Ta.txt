@@ -1,5 +1,5 @@
 [title]
-Vreau prezența Ta {contentHash: {7b2210}, id: {o1EzHh7cnX9SbRogMRDmXy}, rcId: {5148}}
+Vreau prezența Ta {author: {__A__}, contentHash: {f65cb9}, id: {o1EzHh7cnX9SbRogMRDmXy}, rcId: {5148}}
 
 [sequence]
 v1,c,b,v2,c,v3,c

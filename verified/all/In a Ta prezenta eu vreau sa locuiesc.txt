@@ -1,5 +1,5 @@
 [title]
-În a Ta prezență eu vreau să locuiesc {contentHash: {f9aee9}, id: {u8YoauHdeP6WsKZ6VnG94G}, rcId: {__RC_ID_NONE__}}
+În a Ta prezență eu vreau să locuiesc {author: {__A__}, contentHash: {7f929b}, id: {u8YoauHdeP6WsKZ6VnG94G}, rcId: {__R__}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Acum, când încă se mai poate {contentHash: {56cfde}, id: {saSgFbsBifDVs5Xv4TaWcz}, rcId: {7194}}
+Acum, când încă se mai poate {author: {__A__}, contentHash: {9c754e}, id: {saSgFbsBifDVs5Xv4TaWcz}, rcId: {7194}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

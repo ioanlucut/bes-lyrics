@@ -1,5 +1,5 @@
 [title]
-Da, eu! Da, eu! Da, eu, Doamne {contentHash: {dc8753}, id: {b7uV4jTRFCHbeUZ6KzdQfW}, rcId: {57645}}
+Da, eu! Da, eu! Da, eu, Doamne {author: {__A__}, contentHash: {d5afb9}, id: {b7uV4jTRFCHbeUZ6KzdQfW}, rcId: {57645}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

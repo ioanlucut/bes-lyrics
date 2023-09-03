@@ -1,5 +1,5 @@
 [title]
-Jos la picioarele-Ți {contentHash: {a930c1}, id: {gq1j3inLxfunMNQiBE2avV}, rcId: {3799}}
+Jos la picioarele-Ți {author: {__A__}, contentHash: {2aacd5}, id: {gq1j3inLxfunMNQiBE2avV}, rcId: {3799}}
 
 [sequence]
 v1,c,v1,c

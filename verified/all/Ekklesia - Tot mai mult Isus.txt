@@ -1,5 +1,5 @@
 [title]
-Tot mai mult, Isus {author: {Ekklesia}, contentHash: {13d487}, id: {jRRMk1VDWE3YnAuyDsofR6}, rcId: {4159}}
+Tot mai mult, Isus {author: {Ekklesia}, contentHash: {a8a606}, id: {jRRMk1VDWE3YnAuyDsofR6}, rcId: {4159}}
 
 [sequence]
 v1,c,v1,c,c

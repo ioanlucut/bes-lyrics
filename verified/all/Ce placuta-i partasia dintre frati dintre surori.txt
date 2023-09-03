@@ -1,5 +1,5 @@
 [title]
-Ce plăcută-i părtășia dintre frați, dintre surori {contentHash: {29f31d}, id: {xy5rAzPbDrAg5HuQWHn3yv}, rcId: {95404}}
+Ce plăcută-i părtășia dintre frați, dintre surori {author: {__A__}, contentHash: {864371}, id: {xy5rAzPbDrAg5HuQWHn3yv}, rcId: {95404}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Victorios {author: {Dinu Onea & Marius Pop}, contentHash: {3bbe11}, id: {sQNhRhcHjBWXTrSmmnEEfo}, rcId: {158367}}
+Victorios {author: {Dinu Onea & Marius Pop}, contentHash: {18329f}, id: {sQNhRhcHjBWXTrSmmnEEfo}, rcId: {158367}}
 
 [sequence]
 v1,v2,c1.1,c1.2,b,c1.1,c1.2

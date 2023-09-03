@@ -1,5 +1,5 @@
 [title]
-Am stat de vorbă, astăzi, eu cu Domnul {contentHash: {95c64d}, id: {snyzLt8KNmrPQy9xmyezvK}, rcId: {172709}}
+Am stat de vorbă, astăzi, eu cu Domnul {author: {__A__}, contentHash: {19f24b}, id: {snyzLt8KNmrPQy9xmyezvK}, rcId: {172709}}
 
 [sequence]
 v1,c,v2,c,v3,c

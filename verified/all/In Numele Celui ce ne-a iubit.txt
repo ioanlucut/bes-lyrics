@@ -1,5 +1,5 @@
 [title]
-În Numele Celui ce ne-a iubit {contentHash: {ff53c7}, id: {q6NaWXd6FxX8SSkdVzRyEP}, rcId: {7013}}
+În Numele Celui ce ne-a iubit {author: {__A__}, contentHash: {751a19}, id: {q6NaWXd6FxX8SSkdVzRyEP}, rcId: {7013}}
 
 [sequence]
 v1,v2,v3

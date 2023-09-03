@@ -1,5 +1,5 @@
 [title]
-Calea, adevărul, viața {author: {The Messengers}, contentHash: {eddfde}, id: {m35SCdpx3CwDBnqYgM6o6m}, rcId: {6696}}
+Calea, adevărul, viața {author: {The Messengers}, contentHash: {e41a6c}, id: {m35SCdpx3CwDBnqYgM6o6m}, rcId: {6696}}
 
 [sequence]
 c,v1,c,v2,c

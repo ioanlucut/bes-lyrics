@@ -1,5 +1,5 @@
 [title]
-E drept că Isus a murit {contentHash: {388abe}, id: {d67LirghH3yaeSv8EQumAz}, rcId: {1687}}
+E drept că Isus a murit {author: {__A__}, contentHash: {9c45b2}, id: {d67LirghH3yaeSv8EQumAz}, rcId: {1687}}
 
 [sequence]
 v1,c,v2,c,v3,c

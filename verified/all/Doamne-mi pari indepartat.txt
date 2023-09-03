@@ -1,5 +1,5 @@
 [title]
-Doamne-mi pari îndepărtat {contentHash: {5fe6df}, id: {kGidXPzDUbSA1pAHbKYugJ}, rcId: {7384}}
+Doamne-mi pari îndepărtat {author: {__A__}, contentHash: {fbb345}, id: {kGidXPzDUbSA1pAHbKYugJ}, rcId: {7384}}
 
 [sequence]
 v1,p,c,v2,p,c

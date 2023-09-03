@@ -1,5 +1,5 @@
 [title]
-Domnului mulțumiți căci este bun {contentHash: {0341f8}, id: {2hx8XYYJeuS67HmDHrYDGD}, rcId: {__RC_ID_NONE__}}
+Domnului mulțumiți căci este bun {author: {__A__}, contentHash: {ead4fa}, id: {2hx8XYYJeuS67HmDHrYDGD}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c

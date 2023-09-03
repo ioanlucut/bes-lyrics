@@ -1,5 +1,5 @@
 [title]
-Până la moarte-Ți slujim cu credință {contentHash: {890922}, id: {dKiEnMHnLzWzc6rAyMbHKZ}, rcId: {5417}}
+Până la moarte-Ți slujim cu credință {author: {__A__}, contentHash: {daa479}, id: {dKiEnMHnLzWzc6rAyMbHKZ}, rcId: {5417}}
 
 [sequence]
 v1,c,v2,c,v3,c

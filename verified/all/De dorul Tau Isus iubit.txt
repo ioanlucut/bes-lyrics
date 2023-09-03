@@ -1,5 +1,5 @@
 [title]
-De dorul Tău, Isus iubit {contentHash: {84b666}, id: {vFko12o1zoz3J4sdyGBcbF}, rcId: {5725}}
+De dorul Tău, Isus iubit {author: {__A__}, contentHash: {3f9344}, id: {vFko12o1zoz3J4sdyGBcbF}, rcId: {5725}}
 
 [sequence]
 v1,v2,v3,v4,v5

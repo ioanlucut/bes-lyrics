@@ -1,5 +1,5 @@
 [title]
-Domnul în ceruri domnește {contentHash: {b7a41f}, id: {5YRW2hxZ1a8uofYt6McotC}, rcId: {2811}}
+Domnul în ceruri domnește {author: {__A__}, contentHash: {ea47bb}, id: {5YRW2hxZ1a8uofYt6McotC}, rcId: {2811}}
 
 [sequence]
 v1,p,c,v1,p,c

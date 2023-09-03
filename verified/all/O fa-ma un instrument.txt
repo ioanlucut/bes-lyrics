@@ -1,5 +1,5 @@
 [title]
-O, fă-mă un instrument {contentHash: {8091b1}, id: {x4TnkQgDWGQVNAH9toFpLn}, rcId: {5024}}
+O, fă-mă un instrument {author: {__A__}, contentHash: {2fa8a4}, id: {x4TnkQgDWGQVNAH9toFpLn}, rcId: {5024}}
 
 [sequence]
 v1,v2,v3

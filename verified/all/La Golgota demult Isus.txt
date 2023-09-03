@@ -1,5 +1,5 @@
 [title]
-La Golgota demult Isus {contentHash: {701960}, id: {5eXAmKXNC3ufdXhnmHT6LU}, rcId: {238939}}
+La Golgota demult Isus {author: {__A__}, contentHash: {d4a455}, id: {5eXAmKXNC3ufdXhnmHT6LU}, rcId: {238939}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,b,c2.1,c2.2

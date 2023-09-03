@@ -1,5 +1,5 @@
 [title]
-Din slava cerului sublim {contentHash: {93882a}, id: {14BC2WiNSZprd49Sj1QQak}, rcId: {59916}}
+Din slava cerului sublim {author: {__A__}, contentHash: {e1703c}, id: {14BC2WiNSZprd49Sj1QQak}, rcId: {59916}}
 
 [sequence]
 v1,v2,v3,v4,v5

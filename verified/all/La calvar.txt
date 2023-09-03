@@ -1,5 +1,5 @@
 [title]
-La calvar {contentHash: {2c1904}, id: {9ZwhmwjYL2E8dPqXVNY45u}, rcId: {4318}}
+La calvar {author: {__A__}, contentHash: {1302a3}, id: {9ZwhmwjYL2E8dPqXVNY45u}, rcId: {4318}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b1.1,b1.2,c

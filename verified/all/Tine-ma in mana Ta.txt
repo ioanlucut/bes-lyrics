@@ -1,5 +1,5 @@
 [title]
-Ține-mă în mâna Ta {contentHash: {df8937}, id: {hzrfayN781szTcei8FCEpG}, rcId: {4148}}
+Ține-mă în mâna Ta {author: {__A__}, contentHash: {dbe43c}, id: {hzrfayN781szTcei8FCEpG}, rcId: {4148}}
 
 [sequence]
 v1,c,v2,c

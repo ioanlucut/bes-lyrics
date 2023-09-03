@@ -1,5 +1,5 @@
 [title]
-A Ta e domnia și puterea {contentHash: {2c8525}, id: {akNSpndFuNmTry61pQDEeG}, rcId: {93393}}
+A Ta e domnia și puterea {author: {__A__}, contentHash: {2a08d7}, id: {akNSpndFuNmTry61pQDEeG}, rcId: {93393}}
 
 [sequence]
 v1,p,c,v1,p,c

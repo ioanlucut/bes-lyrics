@@ -1,5 +1,5 @@
 [title]
-Nu, nu suntem un vis și-o întâmplare {contentHash: {3f3176}, id: {j6AnEgYiRcRJrUNAPed5oZ}, rcId: {1802}}
+Nu, nu suntem un vis și-o întâmplare {author: {__A__}, contentHash: {819632}, id: {j6AnEgYiRcRJrUNAPed5oZ}, rcId: {1802}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

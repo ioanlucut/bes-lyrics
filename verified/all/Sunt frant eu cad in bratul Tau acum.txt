@@ -1,5 +1,5 @@
 [title]
-Sunt frânt, eu cad în brațul Tău acum {contentHash: {cfb2ef}, id: {v6DBgGHrwdkpSyxo5ESBtG}, rcId: {5142}}
+Sunt frânt, eu cad în brațul Tău acum {author: {__A__}, contentHash: {e936d8}, id: {v6DBgGHrwdkpSyxo5ESBtG}, rcId: {5142}}
 
 [sequence]
 v1,c,v1,c

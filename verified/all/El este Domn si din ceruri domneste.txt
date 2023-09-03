@@ -1,5 +1,5 @@
 [title]
-El este Domn și din ceruri domnește {contentHash: {36bccf}, id: {qQLkUUhK6kZfz4aQnZpuN1}, rcId: {4913}}
+El este Domn și din ceruri domnește {author: {__A__}, contentHash: {b65f25}, id: {qQLkUUhK6kZfz4aQnZpuN1}, rcId: {4913}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c2

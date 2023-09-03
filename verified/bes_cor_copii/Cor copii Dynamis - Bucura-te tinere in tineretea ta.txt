@@ -1,5 +1,5 @@
 [title]
-Bucură-te, tinere, în tinerețea ta {author: {Cor copii Dynamis}, contentHash: {e81f74}, id: {8ZaDsZjieraXzvgdAPsCnm}, rcId: {__RC_ID_NONE__}}
+Bucură-te, tinere, în tinerețea ta {author: {Cor copii Dynamis}, contentHash: {9b51c3}, id: {8ZaDsZjieraXzvgdAPsCnm}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c,b,c

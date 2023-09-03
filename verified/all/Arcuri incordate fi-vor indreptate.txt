@@ -1,5 +1,5 @@
 [title]
-Arcuri încordate fi-vor îndreptate {contentHash: {322f6e}, id: {6i4SgWR3ePHXa5kAwxwN9S}, rcId: {4828}}
+Arcuri încordate fi-vor îndreptate {author: {__A__}, contentHash: {0ee3c4}, id: {6i4SgWR3ePHXa5kAwxwN9S}, rcId: {4828}}
 
 [sequence]
 v1,c,v2,c,v3,c

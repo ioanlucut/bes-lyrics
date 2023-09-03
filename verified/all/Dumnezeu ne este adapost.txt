@@ -1,5 +1,5 @@
 [title]
-Dumnezeu ne este adăpost {contentHash: {086465}, id: {8K89ngamJdvJR42YvuBUJ2}, rcId: {__RC_ID_NONE__}}
+Dumnezeu ne este adăpost {author: {__A__}, contentHash: {e5687d}, id: {8K89ngamJdvJR42YvuBUJ2}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

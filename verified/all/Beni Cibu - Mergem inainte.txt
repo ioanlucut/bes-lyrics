@@ -1,5 +1,5 @@
 [title]
-Mergem înainte! {author: {Beni Cibu}, contentHash: {c0f404}, id: {xdKj5YtPvdHfzMcNqnwm4o}, rcId: {172538}}
+Mergem înainte! {author: {Beni Cibu}, contentHash: {e609c9}, id: {xdKj5YtPvdHfzMcNqnwm4o}, rcId: {172538}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

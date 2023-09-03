@@ -1,5 +1,5 @@
 [title]
-Aici e Duhul Domnului {contentHash: {934b03}, id: {aQVR8JfHVYnHnCQJ26HoUW}, rcId: {__RC_ID_NONE__}}
+Aici e Duhul Domnului {author: {__A__}, contentHash: {3e81d9}, id: {aQVR8JfHVYnHnCQJ26HoUW}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c

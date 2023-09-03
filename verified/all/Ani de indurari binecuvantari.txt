@@ -1,5 +1,5 @@
 [title]
-Ani de îndurări, binecuvântări {contentHash: {9a00bd}, id: {t1scPEJYmDj2HRQL7UQoNr}, rcId: {235603}}
+Ani de îndurări, binecuvântări {author: {__A__}, contentHash: {3f3abd}, id: {t1scPEJYmDj2HRQL7UQoNr}, rcId: {235603}}
 
 [sequence]
 v1,c,v2,c

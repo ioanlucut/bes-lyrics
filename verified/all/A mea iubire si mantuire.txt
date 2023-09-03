@@ -1,5 +1,5 @@
 [title]
-A mea iubire și mântuire {contentHash: {0f1a04}, id: {de8UGb2cKEsThEuMwFvjQq}, rcId: {2104}}
+A mea iubire și mântuire {author: {__A__}, contentHash: {fc132a}, id: {de8UGb2cKEsThEuMwFvjQq}, rcId: {2104}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

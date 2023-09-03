@@ -1,5 +1,5 @@
 [title]
-Bună seara, oameni buni {contentHash: {0df9fe}, id: {aZYazn1RP74QSsyKSszjTZ}, rcId: {100958}}
+Bună seara, oameni buni {author: {__A__}, contentHash: {0ca8ab}, id: {aZYazn1RP74QSsyKSszjTZ}, rcId: {100958}}
 
 [sequence]
 v1,c,v2,c,v3,c

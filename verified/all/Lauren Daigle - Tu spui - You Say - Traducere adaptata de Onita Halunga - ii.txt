@@ -1,5 +1,5 @@
 [title]
-Tu spui {author: {Lauren Daigle}, alternative: {You Say - Traducere adaptata de Onita Halunga}, version: {ii}, contentHash: {7233cb}, id: {7ZzbX5dNTtMuShFfGMXMH8}, rcId: {__RC_ID_NONE__}}
+Tu spui {author: {Lauren Daigle}, alternative: {You Say - Traducere adaptata de Onita Halunga}, version: {ii}, contentHash: {cde4e6}, id: {7ZzbX5dNTtMuShFfGMXMH8}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c

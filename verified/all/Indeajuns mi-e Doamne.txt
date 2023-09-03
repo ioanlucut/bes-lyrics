@@ -1,5 +1,5 @@
 [title]
-Îndeajuns mi-e, Doamne {contentHash: {211115}, id: {fvsCWcYcHrThuE2KLaQeWw}, rcId: {__RC_ID_NONE__}}
+Îndeajuns mi-e, Doamne {author: {__A__}, contentHash: {7ab664}, id: {fvsCWcYcHrThuE2KLaQeWw}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

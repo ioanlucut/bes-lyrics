@@ -1,5 +1,5 @@
 [title]
-După ploaie și furtună {contentHash: {546dd4}, id: {b5xNfw3Ctvw16vAYEmNmeA}, rcId: {3126}}
+După ploaie și furtună {author: {__A__}, contentHash: {43b409}, id: {b5xNfw3Ctvw16vAYEmNmeA}, rcId: {3126}}
 
 [sequence]
 v1,c,v2,c,v3,c

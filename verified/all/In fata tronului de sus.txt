@@ -1,5 +1,5 @@
 [title]
-În fața tronului de sus {contentHash: {260297}, id: {q53RVH4stWQfrbdT52rYz6}, rcId: {7307}}
+În fața tronului de sus {author: {__A__}, contentHash: {f65eb3}, id: {q53RVH4stWQfrbdT52rYz6}, rcId: {7307}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2

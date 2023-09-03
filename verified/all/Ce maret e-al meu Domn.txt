@@ -1,5 +1,5 @@
 [title]
-Ce măreț e-al meu Domn {contentHash: {79f6e4}, id: {e9Yq2gSBP5Zpjya2zVHp4S}, rcId: {4851}}
+Ce măreț e-al meu Domn {author: {__A__}, contentHash: {7a5981}, id: {e9Yq2gSBP5Zpjya2zVHp4S}, rcId: {4851}}
 
 [sequence]
 c,v1,c,v1

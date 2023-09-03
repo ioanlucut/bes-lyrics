@@ -1,5 +1,5 @@
 [title]
-Domnul să fie desfătarea ta {contentHash: {9cb02b}, id: {xnkgCP4BgRwtqw79R4Dgd4}, rcId: {__RC_ID_NONE__}}
+Domnul să fie desfătarea ta {author: {__A__}, contentHash: {62e135}, id: {xnkgCP4BgRwtqw79R4Dgd4}, rcId: {__R__}}
 
 [sequence]
 v1,c,v1,c

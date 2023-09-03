@@ -1,5 +1,5 @@
 [title]
-Păstori de douăzeci de veacuri {contentHash: {952686}, id: {wj3jtXwB8xye8DyQYUZndw}, rcId: {__RC_ID_NONE__}}
+Păstori de douăzeci de veacuri {author: {__A__}, contentHash: {58b9eb}, id: {wj3jtXwB8xye8DyQYUZndw}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c

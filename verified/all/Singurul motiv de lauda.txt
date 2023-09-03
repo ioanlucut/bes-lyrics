@@ -1,5 +1,5 @@
 [title]
-Singurul motiv de laudă {contentHash: {509276}, id: {fq1SCsWEwYNdKjNPynr7jK}, rcId: {__RC_ID_NONE__}}
+Singurul motiv de laudă {author: {__A__}, contentHash: {35d363}, id: {fq1SCsWEwYNdKjNPynr7jK}, rcId: {__R__}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c

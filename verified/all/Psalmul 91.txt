@@ -1,5 +1,5 @@
 [title]
-Psalmul 91 {contentHash: {0ff7fb}, id: {kUF4Swuq3aPL9PfvLo8vWb}, rcId: {4853}}
+Psalmul 91 {author: {__A__}, contentHash: {5aeb4d}, id: {kUF4Swuq3aPL9PfvLo8vWb}, rcId: {4853}}
 
 [sequence]
 c,v1,c,v2,c

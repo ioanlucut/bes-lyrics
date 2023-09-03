@@ -1,5 +1,5 @@
 [title]
-Rugă pentru generație {author: {Otto Pascal}, contentHash: {073038}, id: {jMz2GGNN1VALHQcwENTQef}, rcId: {218254}}
+Rugă pentru generație {author: {Otto Pascal}, contentHash: {9f43de}, id: {jMz2GGNN1VALHQcwENTQef}, rcId: {218254}}
 
 [sequence]
 v1,b,c,v2,b2,c

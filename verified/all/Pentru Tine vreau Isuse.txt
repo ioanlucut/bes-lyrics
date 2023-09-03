@@ -1,5 +1,5 @@
 [title]
-Pentru Tine vreau, Isuse {contentHash: {217fa0}, id: {vwCMZv59UMYPyq3HLc9rv9}, rcId: {4141}}
+Pentru Tine vreau, Isuse {author: {__A__}, contentHash: {f2d15f}, id: {vwCMZv59UMYPyq3HLc9rv9}, rcId: {4141}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

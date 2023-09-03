@@ -1,5 +1,5 @@
 [title]
-Nu ești învins cât timp credința {contentHash: {171f53}, id: {ehDGMi8pWkGPidRddgDZp6}, rcId: {__RC_ID_NONE__}}
+Nu ești învins cât timp credința {author: {__A__}, contentHash: {e3ff80}, id: {ehDGMi8pWkGPidRddgDZp6}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c2

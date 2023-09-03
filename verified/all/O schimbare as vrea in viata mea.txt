@@ -1,5 +1,5 @@
 [title]
-O schimbare aș vrea în viața mea {contentHash: {3e7902}, id: {dFFvf6sb4fm8sPueJuzNYZ}, rcId: {153187}}
+O schimbare aș vrea în viața mea {author: {__A__}, contentHash: {fe28d5}, id: {dFFvf6sb4fm8sPueJuzNYZ}, rcId: {153187}}
 
 [sequence]
 v1,c,v2,c

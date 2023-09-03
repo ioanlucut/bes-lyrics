@@ -1,5 +1,5 @@
 [title]
-Când raze apar {contentHash: {7680af}, id: {whES6XJ2UX5xuzPoLATUn6}, rcId: {7120}}
+Când raze apar {author: {__A__}, contentHash: {8529c4}, id: {whES6XJ2UX5xuzPoLATUn6}, rcId: {7120}}
 
 [sequence]
 v1,c,v2,c,v3,c

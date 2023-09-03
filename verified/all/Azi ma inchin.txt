@@ -1,5 +1,5 @@
 [title]
-Azi mă închin {contentHash: {952b08}, id: {bs2mAS4nAsP2MCwz3nMMe1}, rcId: {6923}}
+Azi mă închin {author: {__A__}, contentHash: {354e38}, id: {bs2mAS4nAsP2MCwz3nMMe1}, rcId: {6923}}
 
 [sequence]
 v1,c,v2,c

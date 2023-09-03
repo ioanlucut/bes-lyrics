@@ -1,5 +1,5 @@
 [title]
-Golgota de-ar vorbi, Golgota de-ar vorbi {contentHash: {a0ae34}, id: {nNCdgRx2k3YAdawphoagZm}, rcId: {5482}}
+Golgota de-ar vorbi, Golgota de-ar vorbi {author: {__A__}, contentHash: {a22de3}, id: {nNCdgRx2k3YAdawphoagZm}, rcId: {5482}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2

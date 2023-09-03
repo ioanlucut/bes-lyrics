@@ -1,5 +1,5 @@
 [title]
-Eu voi cânta {contentHash: {e60b91}, id: {vZqSHbH13TpcsZGdHHJMz3}, rcId: {67326}}
+Eu voi cânta {author: {__A__}, contentHash: {8d3128}, id: {vZqSHbH13TpcsZGdHHJMz3}, rcId: {67326}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

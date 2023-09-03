@@ -1,5 +1,5 @@
 [title]
-Spre țara luminii eterne {contentHash: {e2cf77}, id: {8CKevq1Hmuc7ErxkrpkD2i}, rcId: {75462}}
+Spre țara luminii eterne {author: {__A__}, contentHash: {bee3c2}, id: {8CKevq1Hmuc7ErxkrpkD2i}, rcId: {75462}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

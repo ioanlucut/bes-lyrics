@@ -1,5 +1,5 @@
 [title]
-Condu pașii mei {contentHash: {664a3f}, id: {t6HTHrGgAxxwYq4eT8qY8L}, rcId: {2800}}
+Condu pașii mei {author: {__A__}, contentHash: {7d5bcf}, id: {t6HTHrGgAxxwYq4eT8qY8L}, rcId: {2800}}
 
 [sequence]
 v1,c,v1,c,v1,c

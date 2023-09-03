@@ -1,5 +1,5 @@
 [title]
-Harul tău în încercarea grea {contentHash: {bc224e}, id: {mRyJm6D8iGLMZSKJqL71hi}, rcId: {5635}}
+Harul tău în încercarea grea {author: {__A__}, contentHash: {e532cc}, id: {mRyJm6D8iGLMZSKJqL71hi}, rcId: {5635}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

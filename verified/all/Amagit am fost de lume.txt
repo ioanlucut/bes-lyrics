@@ -1,5 +1,5 @@
 [title]
-Amăgit am fost de lume {contentHash: {2c8da0}, id: {iRrsKR3AbEDKNet7XjeqZJ}, rcId: {55778}}
+Amăgit am fost de lume {author: {__A__}, contentHash: {65f820}, id: {iRrsKR3AbEDKNet7XjeqZJ}, rcId: {55778}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

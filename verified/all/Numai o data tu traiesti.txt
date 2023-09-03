@@ -1,5 +1,5 @@
 [title]
-Numai o dată tu trăiești {contentHash: {68c540}, id: {8RhVRecBQCKHz4uxVqrEjr}, rcId: {5393}}
+Numai o dată tu trăiești {author: {__A__}, contentHash: {a6c8f2}, id: {8RhVRecBQCKHz4uxVqrEjr}, rcId: {5393}}
 
 [sequence]
 v1,v2,v3,v4

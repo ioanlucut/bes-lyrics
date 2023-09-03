@@ -1,5 +1,5 @@
 [title]
-În Betania Isus a fost chemat {contentHash: {1fc4f9}, id: {x6jxRmYQGnoB4MSwfphwtM}, rcId: {4308}}
+În Betania Isus a fost chemat {author: {__A__}, contentHash: {931817}, id: {x6jxRmYQGnoB4MSwfphwtM}, rcId: {4308}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Vreau, Doamne, iubirea {contentHash: {0a3fb0}, id: {3MaVPSZcoJ4RCHqgoWoKUR}, rcId: {2813}}
+Vreau, Doamne, iubirea {author: {__A__}, contentHash: {63188a}, id: {3MaVPSZcoJ4RCHqgoWoKUR}, rcId: {2813}}
 
 [sequence]
 v1,c,v1,c

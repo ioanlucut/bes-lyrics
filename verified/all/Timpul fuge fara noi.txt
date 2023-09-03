@@ -1,5 +1,5 @@
 [title]
-Timpul fuge fără noi {contentHash: {353851}, id: {rox1V48TgHV76nL6CJsBwB}, rcId: {7210}}
+Timpul fuge fără noi {author: {__A__}, contentHash: {2918fc}, id: {rox1V48TgHV76nL6CJsBwB}, rcId: {7210}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Inima mea, inima mea {contentHash: {9943f4}, id: {46GirbzJ1Lbf6i4BosDWa3}, rcId: {1663}}
+Inima mea, inima mea {author: {__A__}, contentHash: {77df7e}, id: {46GirbzJ1Lbf6i4BosDWa3}, rcId: {1663}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

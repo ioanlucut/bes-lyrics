@@ -1,5 +1,5 @@
 [title]
-Domnul secerișului întreabă {contentHash: {27e2aa}, id: {d8Lsr1PvZTdRYRKiTFS5mc}, rcId: {3109}}
+Domnul secerișului întreabă {author: {__A__}, contentHash: {b53414}, id: {d8Lsr1PvZTdRYRKiTFS5mc}, rcId: {3109}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

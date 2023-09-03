@@ -1,5 +1,5 @@
 [title]
-În zbuciumul vieții {contentHash: {dc2771}, id: {1fNixNTczSFgCdp4Ft82wc}, rcId: {1745}}
+În zbuciumul vieții {author: {__A__}, contentHash: {126933}, id: {1fNixNTczSFgCdp4Ft82wc}, rcId: {1745}}
 
 [sequence]
 v1,c,v2,c,v3,e

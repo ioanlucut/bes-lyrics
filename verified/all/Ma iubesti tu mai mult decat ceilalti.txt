@@ -1,5 +1,5 @@
 [title]
-Mă iubești tu mai mult decât ceilalți {contentHash: {502df7}, id: {wiopfcvnCanWxW99ZbwL7A}, rcId: {75312}}
+Mă iubești tu mai mult decât ceilalți {author: {__A__}, contentHash: {0a8391}, id: {wiopfcvnCanWxW99ZbwL7A}, rcId: {75312}}
 
 [sequence]
 v1.1,v1.2,v2,v3,v4

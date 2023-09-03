@@ -1,5 +1,5 @@
 [title]
-Cuvântul {contentHash: {13bc0c}, id: {w2Eo1NzCgddBY6TQ13WR67}, rcId: {194034}}
+Cuvântul {author: {__A__}, contentHash: {94c012}, id: {w2Eo1NzCgddBY6TQ13WR67}, rcId: {194034}}
 
 [sequence]
 v1,v2,v3,v4

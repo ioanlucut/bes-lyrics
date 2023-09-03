@@ -1,5 +1,5 @@
 [title]
-Nimic nu sunt {contentHash: {2f1c6d}, id: {hREBxi9dAPUHA6sKM4LCEe}, rcId: {6470}}
+Nimic nu sunt {author: {__A__}, contentHash: {aaabc6}, id: {hREBxi9dAPUHA6sKM4LCEe}, rcId: {6470}}
 
 [sequence]
 v1,c,v2,c2,v3,b,c

@@ -1,5 +1,5 @@
 [title]
-Doamne, dă-mi cuvânt pe buze {contentHash: {ec0e88}, id: {q65JQqCJQfeAFpqpCuZdUH}, rcId: {108410}}
+Doamne, dă-mi cuvânt pe buze {author: {__A__}, contentHash: {df2570}, id: {q65JQqCJQfeAFpqpCuZdUH}, rcId: {108410}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-El e Domn, El e Domn {contentHash: {98c29d}, id: {cur6LvZSByaX1rowhXXcRN}, rcId: {1247}}
+El e Domn, El e Domn {author: {__A__}, contentHash: {1c1cae}, id: {cur6LvZSByaX1rowhXXcRN}, rcId: {1247}}
 
 [sequence]
 v1,v2,v3

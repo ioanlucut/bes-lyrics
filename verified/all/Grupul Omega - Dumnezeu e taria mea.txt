@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e tăria mea {author: {Grupul Omega}, contentHash: {7b2335}, id: {syR2s9xDncwmcFTsMVcqk6}, rcId: {1053}}
+Dumnezeu e tăria mea {author: {Grupul Omega}, contentHash: {a5bbe5}, id: {syR2s9xDncwmcFTsMVcqk6}, rcId: {1053}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

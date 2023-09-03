@@ -1,5 +1,5 @@
 [title]
-El e vrednic {author: {BBSO}, alternative: {Medley}, contentHash: {474262}, id: {e8Q63B3NMA71592WwUbMsL}, rcId: {229897}}
+El e vrednic {author: {BBSO}, alternative: {Medley}, contentHash: {7f3d07}, id: {e8Q63B3NMA71592WwUbMsL}, rcId: {229897}}
 
 [sequence]
 v1,v2,b,c,v3,b,v4,v5,v6,v7,e,v8

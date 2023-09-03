@@ -1,5 +1,5 @@
 [title]
-Sunt un pribeag fără de țară {contentHash: {5efc5c}, id: {pE6SHkKF23UTJxJk33Meu1}, rcId: {6766}}
+Sunt un pribeag fără de țară {author: {__A__}, contentHash: {eccad4}, id: {pE6SHkKF23UTJxJk33Meu1}, rcId: {6766}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

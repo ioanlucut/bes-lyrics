@@ -1,5 +1,5 @@
 [title]
-Nu mai sunt al meu de-acuma {contentHash: {69f218}, id: {odZatA966piLv5z8BCChxB}, rcId: {5389}}
+Nu mai sunt al meu de-acuma {author: {__A__}, contentHash: {a4e299}, id: {odZatA966piLv5z8BCChxB}, rcId: {5389}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-El e fântâna cu ape vii {contentHash: {d38386}, id: {g6rKgAweS9xZu4b9fUYUS8}, rcId: {779}}
+El e fântâna cu ape vii {author: {__A__}, contentHash: {66c422}, id: {g6rKgAweS9xZu4b9fUYUS8}, rcId: {779}}
 
 [sequence]
 c,v1.1,v1.2,c,v2,c,v3,c

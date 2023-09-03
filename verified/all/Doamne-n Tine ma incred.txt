@@ -1,5 +1,5 @@
 [title]
-Doamne-n Tine mă încred {contentHash: {3f578d}, id: {mreFxv5Myv1Ze6YXwF58Mb}, rcId: {3115}}
+Doamne-n Tine mă încred {author: {__A__}, contentHash: {c8e4ee}, id: {mreFxv5Myv1Ze6YXwF58Mb}, rcId: {3115}}
 
 [sequence]
 v1,c,v2,c,v3,c

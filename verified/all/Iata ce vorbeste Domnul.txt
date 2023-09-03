@@ -1,5 +1,5 @@
 [title]
-Iată, ce vorbește Domnul {contentHash: {8b5f49}, id: {qe4MQFbsRoLp3UrjaJkDuQ}, rcId: {187408}}
+Iată, ce vorbește Domnul {author: {__A__}, contentHash: {c7f120}, id: {qe4MQFbsRoLp3UrjaJkDuQ}, rcId: {187408}}
 
 [sequence]
 v1,c,v2,c,v3,c

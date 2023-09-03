@@ -1,5 +1,5 @@
 [title]
-Domnul meu e viu {contentHash: {0e9784}, id: {3fX1uCzo5ATbKwrj7xVm7W}, rcId: {61332}}
+Domnul meu e viu {author: {__A__}, contentHash: {d751d6}, id: {3fX1uCzo5ATbKwrj7xVm7W}, rcId: {61332}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-O, noapte preasfințită {contentHash: {c5be36}, id: {e1TnXSwVG2DcqadpBq29Sb}, rcId: {5026}}
+O, noapte preasfințită {author: {__A__}, contentHash: {b47957}, id: {e1TnXSwVG2DcqadpBq29Sb}, rcId: {5026}}
 
 [sequence]
 v1,v2,v3

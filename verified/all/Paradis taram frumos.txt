@@ -1,5 +1,5 @@
 [title]
-Paradis, tărâm frumos {contentHash: {9d0cda}, id: {kUVJ5iWqeN1cwd4fSRUASR}, rcId: {177646}}
+Paradis, tărâm frumos {author: {__A__}, contentHash: {1f8f50}, id: {kUVJ5iWqeN1cwd4fSRUASR}, rcId: {177646}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

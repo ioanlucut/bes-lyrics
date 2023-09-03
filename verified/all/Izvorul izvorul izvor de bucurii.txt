@@ -1,5 +1,5 @@
 [title]
-Izvorul, izvorul, izvor de bucurii {contentHash: {d0cd7d}, id: {hVQCbxkTgQinLEFcYcsg8X}, rcId: {89758}}
+Izvorul, izvorul, izvor de bucurii {author: {__A__}, contentHash: {9b492a}, id: {hVQCbxkTgQinLEFcYcsg8X}, rcId: {89758}}
 
 [sequence]
 v1,c,v2,c,v3,c

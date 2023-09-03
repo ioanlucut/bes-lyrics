@@ -1,5 +1,5 @@
 [title]
-Poporașul Meu {contentHash: {42184a}, id: {bSiBUcq1HNvvTvyFW8xgD8}, rcId: {5042}}
+Poporașul Meu {author: {__A__}, contentHash: {08a654}, id: {bSiBUcq1HNvvTvyFW8xgD8}, rcId: {5042}}
 
 [sequence]
 v1,v2,v3,v4,v5

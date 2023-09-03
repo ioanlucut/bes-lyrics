@@ -1,5 +1,5 @@
 [title]
-E viu, e viu, Isus Hristos e viu {contentHash: {f2427e}, id: {uRJA9vk9RDCmYiBMZCirbU}, rcId: {872}}
+E viu, e viu, Isus Hristos e viu {author: {__A__}, contentHash: {fa1825}, id: {uRJA9vk9RDCmYiBMZCirbU}, rcId: {872}}
 
 [sequence]
 v1,c,v1,c

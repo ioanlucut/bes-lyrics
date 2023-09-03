@@ -1,5 +1,5 @@
 [title]
-Păstorii au alergat {contentHash: {c60fea}, id: {dRGYekB64jEdyEZmCE2saC}, rcId: {__RC_ID_NONE__}}
+Păstorii au alergat {author: {__A__}, contentHash: {b39c15}, id: {dRGYekB64jEdyEZmCE2saC}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,b,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ah, cât mă simt eu de bine {contentHash: {19b38d}, id: {5Z49rKMjsP9TxitLXq1tPD}, rcId: {2107}}
+Ah, cât mă simt eu de bine {author: {__A__}, contentHash: {7951c6}, id: {5Z49rKMjsP9TxitLXq1tPD}, rcId: {2107}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

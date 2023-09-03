@@ -1,5 +1,5 @@
 [title]
-Se aude clar în depărtări {contentHash: {c4ab86}, id: {gbU6VTUBhgiyJtsTbf3yBx}, rcId: {156993}}
+Se aude clar în depărtări {author: {__A__}, contentHash: {4f7965}, id: {gbU6VTUBhgiyJtsTbf3yBx}, rcId: {156993}}
 
 [sequence]
 v1,c,v2,c,v3,c2

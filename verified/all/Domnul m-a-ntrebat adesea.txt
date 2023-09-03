@@ -1,5 +1,5 @@
 [title]
-Domnul m-a-ntrebat adesea {contentHash: {7855a1}, id: {n5acRmP7ngC69TgucdQA2f}, rcId: {3107}}
+Domnul m-a-ntrebat adesea {author: {__A__}, contentHash: {084b82}, id: {n5acRmP7ngC69TgucdQA2f}, rcId: {3107}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

@@ -1,5 +1,5 @@
 [title]
-Câștigăm România {author: {Callatis Praise}, contentHash: {cc87d1}, id: {rAzYTD2vjjp2MyUEQx6E9C}, rcId: {6791}}
+Câștigăm România {author: {Callatis Praise}, contentHash: {3220b0}, id: {rAzYTD2vjjp2MyUEQx6E9C}, rcId: {6791}}
 
 [sequence]
 v1,c,v2,c

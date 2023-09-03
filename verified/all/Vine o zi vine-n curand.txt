@@ -1,5 +1,5 @@
 [title]
-Vine o zi, vine-n curând {contentHash: {8c68ef}, id: {wLtaPgWwyR1bKK6JjpAi5f}, rcId: {201854}}
+Vine o zi, vine-n curând {author: {__A__}, contentHash: {f04ae2}, id: {wLtaPgWwyR1bKK6JjpAi5f}, rcId: {201854}}
 
 [sequence]
 v1,c,v2,c,v3,c

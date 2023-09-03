@@ -1,5 +1,5 @@
 [title]
-Te caut, Doamne, caut fața Ta {contentHash: {62f7ae}, id: {8uX7oWn9X5g8cX1eT9avMM}, rcId: {__RC_ID_NONE__}}
+Te caut, Doamne, caut fața Ta {author: {__A__}, contentHash: {e4b964}, id: {8uX7oWn9X5g8cX1eT9avMM}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c

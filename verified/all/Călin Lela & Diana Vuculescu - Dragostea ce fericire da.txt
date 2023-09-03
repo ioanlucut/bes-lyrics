@@ -1,5 +1,5 @@
 [title]
-Dragostea, ce fericire dă! {author: {Călin Lela & Diana Vuculescu}, contentHash: {208cf9}, id: {p6jCoS3Q9DMhnxCAwgiAu7}, rcId: {__RC_ID_NONE__}}
+Dragostea, ce fericire dă! {author: {Călin Lela & Diana Vuculescu}, contentHash: {342d60}, id: {p6jCoS3Q9DMhnxCAwgiAu7}, rcId: {__R__}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,e

@@ -1,5 +1,5 @@
 [title]
-L-am căutat și L-am găsit {contentHash: {e52671}, id: {2QAqHiij5zSxSQeWmQYBki}, rcId: {214233}}
+L-am căutat și L-am găsit {author: {__A__}, contentHash: {04b138}, id: {2QAqHiij5zSxSQeWmQYBki}, rcId: {214233}}
 
 [sequence]
 v1,v2,c,v3,c,b,c,e

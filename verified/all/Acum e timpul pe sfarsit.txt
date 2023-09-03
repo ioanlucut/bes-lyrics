@@ -1,5 +1,5 @@
 [title]
-Acum e timpul pe sfârșit {contentHash: {b8d686}, id: {tJrKHbg25cCtAD1dgsJngj}, rcId: {1377}}
+Acum e timpul pe sfârșit {author: {__A__}, contentHash: {2dab01}, id: {tJrKHbg25cCtAD1dgsJngj}, rcId: {1377}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

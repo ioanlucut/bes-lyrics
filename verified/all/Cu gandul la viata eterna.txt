@@ -1,5 +1,5 @@
 [title]
-Cu gândul la viața eternă {contentHash: {27dd62}, id: {tN8mgbqzLDMHNCCmGeKy21}, rcId: {55658}}
+Cu gândul la viața eternă {author: {__A__}, contentHash: {907956}, id: {tN8mgbqzLDMHNCCmGeKy21}, rcId: {55658}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

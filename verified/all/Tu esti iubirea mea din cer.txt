@@ -1,5 +1,5 @@
 [title]
-Tu ești iubirea mea din cer {contentHash: {4453d4}, id: {ovcVkgJeZ3v3tsrotM5NXZ}, rcId: {__RC_ID_NONE__}}
+Tu ești iubirea mea din cer {author: {__A__}, contentHash: {459108}, id: {ovcVkgJeZ3v3tsrotM5NXZ}, rcId: {__R__}}
 
 [sequence]
 v1,v2,c

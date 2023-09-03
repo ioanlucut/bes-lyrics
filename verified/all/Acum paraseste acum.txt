@@ -1,5 +1,5 @@
 [title]
-Acum părăsește, acum {contentHash: {e6365f}, id: {nDiQPbqWWbtBzdAySPdUDA}, rcId: {184591}}
+Acum părăsește, acum {author: {__A__}, contentHash: {bb7bc9}, id: {nDiQPbqWWbtBzdAySPdUDA}, rcId: {184591}}
 
 [sequence]
 v1,c,v2,c

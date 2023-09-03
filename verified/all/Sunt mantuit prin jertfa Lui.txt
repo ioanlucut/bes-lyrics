@@ -1,5 +1,5 @@
 [title]
-Sunt mântuit prin jertfa Lui {contentHash: {e482f4}, id: {jG9EjuRBmCPmgqevpSjYP5}, rcId: {5078}}
+Sunt mântuit prin jertfa Lui {author: {__A__}, contentHash: {60ac23}, id: {jG9EjuRBmCPmgqevpSjYP5}, rcId: {5078}}
 
 [sequence]
 v1,v2,v3

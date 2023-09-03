@@ -1,5 +1,5 @@
 [title]
-Voi pierduți sub sarcini grele {contentHash: {9eeb80}, id: {kDcrG3YwfyrVuX96Hm45nw}, rcId: {6775}}
+Voi pierduți sub sarcini grele {author: {__A__}, contentHash: {ad980a}, id: {kDcrG3YwfyrVuX96Hm45nw}, rcId: {6775}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

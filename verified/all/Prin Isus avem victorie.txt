@@ -1,5 +1,5 @@
 [title]
-Prin Isus avem victorie {contentHash: {4a8bbe}, id: {1QGahus2ATTQrhwds7BRpG}, rcId: {75497}}
+Prin Isus avem victorie {author: {__A__}, contentHash: {bd9203}, id: {1QGahus2ATTQrhwds7BRpG}, rcId: {75497}}
 
 [sequence]
 v1,c,v2,c

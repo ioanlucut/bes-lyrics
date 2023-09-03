@@ -1,5 +1,5 @@
 [title]
-Ești necuprins și sfânt, ca nimeni altul {contentHash: {14913f}, id: {23YjXWiC4ZEM7gSbBrws9N}, rcId: {4921}}
+Ești necuprins și sfânt, ca nimeni altul {author: {__A__}, contentHash: {24387d}, id: {23YjXWiC4ZEM7gSbBrws9N}, rcId: {4921}}
 
 [sequence]
 v1,c,v2,c,v3,c

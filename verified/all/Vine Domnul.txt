@@ -1,5 +1,5 @@
 [title]
-Vine Domnul! {contentHash: {8b20ef}, id: {3DS2c5LVGi5y9q9TDb5dPo}, rcId: {103388}}
+Vine Domnul! {author: {__A__}, contentHash: {c80a59}, id: {3DS2c5LVGi5y9q9TDb5dPo}, rcId: {103388}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

@@ -1,5 +1,5 @@
 [title]
-A bătut la ușa ta Cineva {contentHash: {c43021}, id: {cixiKhqcyTtpAp2gQ2ZZFt}, rcId: {6774}}
+A bătut la ușa ta Cineva {author: {__A__}, contentHash: {72a99c}, id: {cixiKhqcyTtpAp2gQ2ZZFt}, rcId: {6774}}
 
 [sequence]
 v1,v2,v3,v4,v5

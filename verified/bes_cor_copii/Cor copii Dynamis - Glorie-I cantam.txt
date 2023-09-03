@@ -1,5 +1,5 @@
 [title]
-Glorie-I cântăm {author: {Cor copii Dynamis}, contentHash: {e4707b}, id: {aTn3EnL6mqDdcoKHzNjAWr}, rcId: {__RC_ID_NONE__}}
+Glorie-I cântăm {author: {Cor copii Dynamis}, contentHash: {fe5674}, id: {aTn3EnL6mqDdcoKHzNjAWr}, rcId: {__R__}}
 
 [sequence]
 v1,c,v1,c

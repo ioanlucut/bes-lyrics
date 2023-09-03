@@ -1,5 +1,5 @@
 [title]
-Emanuel, în veci pe Tron {author: {Betania Dublin}, alternative: {Born on that day}, contentHash: {6b914c}, id: {wGR3ZiHK6QxqKUfNtRbm9B}, rcId: {207888}}
+Emanuel, în veci pe Tron {author: {Betania Dublin}, alternative: {Born on that day}, contentHash: {734a2b}, id: {wGR3ZiHK6QxqKUfNtRbm9B}, rcId: {207888}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,b,c1.1,c1.2

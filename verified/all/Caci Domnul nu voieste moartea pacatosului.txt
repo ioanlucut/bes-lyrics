@@ -1,5 +1,5 @@
 [title]
-Căci Domnul nu voiește moartea păcătosului {contentHash: {fb9dc9}, id: {px6WFSkN8FeFoytKjBAME5}, rcId: {1606}}
+Căci Domnul nu voiește moartea păcătosului {author: {__A__}, contentHash: {cbbe31}, id: {px6WFSkN8FeFoytKjBAME5}, rcId: {1606}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

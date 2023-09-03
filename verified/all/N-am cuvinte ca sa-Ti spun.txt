@@ -1,5 +1,5 @@
 [title]
-N-am cuvinte ca să-Ți spun {contentHash: {41afd3}, id: {fe5TXqDW6EqxtoyYTBrSQ9}, rcId: {85668}}
+N-am cuvinte ca să-Ți spun {author: {__A__}, contentHash: {e4f5cd}, id: {fe5TXqDW6EqxtoyYTBrSQ9}, rcId: {85668}}
 
 [sequence]
 v1,c,v2,c,v3,c

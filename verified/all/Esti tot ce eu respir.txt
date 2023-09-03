@@ -1,5 +1,5 @@
 [title]
-Ești tot ce eu respir {contentHash: {1bf135}, id: {brdhTQc1x9p63wurp6t8TD}, rcId: {__RC_ID_NONE__}}
+Ești tot ce eu respir {author: {__A__}, contentHash: {5780c0}, id: {brdhTQc1x9p63wurp6t8TD}, rcId: {__R__}}
 
 [sequence]
 c,b,c

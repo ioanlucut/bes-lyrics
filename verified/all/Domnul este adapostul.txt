@@ -1,5 +1,5 @@
 [title]
-Domnul este adăpostul {contentHash: {3b6186}, id: {eVNo2kXRPE42SmnmqLGQ3i}, rcId: {__RC_ID_NONE__}}
+Domnul este adăpostul {author: {__A__}, contentHash: {ba3613}, id: {eVNo2kXRPE42SmnmqLGQ3i}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4

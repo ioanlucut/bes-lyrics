@@ -1,5 +1,5 @@
 [title]
-Lăudați pe Domnul cu iubire {contentHash: {f95373}, id: {gVFsYGCfR9DgfnaADadcyu}, rcId: {5279}}
+Lăudați pe Domnul cu iubire {author: {__A__}, contentHash: {e8ac9d}, id: {gVFsYGCfR9DgfnaADadcyu}, rcId: {5279}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

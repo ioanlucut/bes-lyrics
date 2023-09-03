@@ -1,5 +1,5 @@
 [title]
-Isus e viu, a biruit {contentHash: {0a6fab}, id: {6VCSsLDTZz7uXCDXK8LNRG}, rcId: {__RC_ID_NONE__}}
+Isus e viu, a biruit {author: {__A__}, contentHash: {76b1e0}, id: {6VCSsLDTZz7uXCDXK8LNRG}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c

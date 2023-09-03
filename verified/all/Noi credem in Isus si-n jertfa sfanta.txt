@@ -1,5 +1,5 @@
 [title]
-Noi credem în Isus și-n jertfa sfântă {contentHash: {46878b}, id: {3Etuyjy1H5DNDsi7tShxzF}, rcId: {4012}}
+Noi credem în Isus și-n jertfa sfântă {author: {__A__}, contentHash: {ca440e}, id: {3Etuyjy1H5DNDsi7tShxzF}, rcId: {4012}}
 
 [sequence]
 v1,c,v2,c,v3,c

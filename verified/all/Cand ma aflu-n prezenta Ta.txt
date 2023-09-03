@@ -1,5 +1,5 @@
 [title]
-Când mă aflu-n prezența Ta {contentHash: {78789e}, id: {qXJidot28gCSFvPmnAtX3X}, rcId: {180898}}
+Când mă aflu-n prezența Ta {author: {__A__}, contentHash: {c56296}, id: {qXJidot28gCSFvPmnAtX3X}, rcId: {180898}}
 
 [sequence]
 v1,c1.1,c1.2,v1,c1.1,c1.2

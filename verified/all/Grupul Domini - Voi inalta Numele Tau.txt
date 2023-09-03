@@ -1,5 +1,5 @@
 [title]
-Voi înălța Numele Tău {author: {Grupul Domini}, contentHash: {326a12}, id: {mRWDbk3CrmcdvoRRokWqg5}, rcId: {69330}}
+Voi înălța Numele Tău {author: {Grupul Domini}, contentHash: {6806d2}, id: {mRWDbk3CrmcdvoRRokWqg5}, rcId: {69330}}
 
 [sequence]
 v1,c,v2,c,b,c

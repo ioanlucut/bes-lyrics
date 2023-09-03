@@ -1,5 +1,5 @@
 [title]
-Domnu-i bun orișicând {contentHash: {11706e}, id: {7C9vZF3xKKxhPdscahjnrs}, rcId: {784}}
+Domnu-i bun orișicând {author: {__A__}, contentHash: {456a62}, id: {7C9vZF3xKKxhPdscahjnrs}, rcId: {784}}
 
 [sequence]
 v1,c,v2,c

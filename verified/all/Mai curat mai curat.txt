@@ -1,5 +1,5 @@
 [title]
-Mai curat, mai curat {contentHash: {dcb089}, id: {sD7Psru5P52nJ4UkP1tpSj}, rcId: {__RC_ID_NONE__}}
+Mai curat, mai curat {author: {__A__}, contentHash: {d3fdb5}, id: {sD7Psru5P52nJ4UkP1tpSj}, rcId: {__R__}}
 
 [sequence]
 v1,c,v1,c

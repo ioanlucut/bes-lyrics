@@ -1,5 +1,5 @@
 [title]
-Ce mare ești Tu, ce mare e mila Ta {contentHash: {0986bf}, id: {i7QYm7qeUVBvFHGESsaeuf}, rcId: {2817}}
+Ce mare ești Tu, ce mare e mila Ta {author: {__A__}, contentHash: {ba2b6f}, id: {i7QYm7qeUVBvFHGESsaeuf}, rcId: {2817}}
 
 [sequence]
 v1,c,v1,c

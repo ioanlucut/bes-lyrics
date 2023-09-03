@@ -1,5 +1,5 @@
 [title]
-Demult, Isus, Tu ai venit {contentHash: {3fbdd5}, id: {vfA47pXDR6zE2Dp2FY1uoT}, rcId: {1792}}
+Demult, Isus, Tu ai venit {author: {__A__}, contentHash: {7f4cce}, id: {vfA47pXDR6zE2Dp2FY1uoT}, rcId: {1792}}
 
 [sequence]
 v1,v2,v3,v4,v5

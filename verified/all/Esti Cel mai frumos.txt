@@ -1,5 +1,5 @@
 [title]
-Ești Cel mai frumos {contentHash: {647e70}, id: {auYh8rm7aRp5wg4cKCL7JS}, rcId: {7378}}
+Ești Cel mai frumos {author: {__A__}, contentHash: {19ee7f}, id: {auYh8rm7aRp5wg4cKCL7JS}, rcId: {7378}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2

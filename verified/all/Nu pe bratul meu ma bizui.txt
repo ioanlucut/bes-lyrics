@@ -1,5 +1,5 @@
 [title]
-Nu pe brațul meu mă bizui {contentHash: {fc993d}, id: {rxi2pJKrjfRyPQ4J6adKAB}, rcId: {5011}}
+Nu pe brațul meu mă bizui {author: {__A__}, contentHash: {a1d320}, id: {rxi2pJKrjfRyPQ4J6adKAB}, rcId: {5011}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

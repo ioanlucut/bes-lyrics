@@ -1,5 +1,5 @@
 [title]
-Astăzi un cântec răsună {contentHash: {81c3e3}, id: {fku6mRcqH3avGh4B88DGXv}, rcId: {207707}}
+Astăzi un cântec răsună {author: {__A__}, contentHash: {a3be81}, id: {fku6mRcqH3avGh4B88DGXv}, rcId: {207707}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Timpul cel din urmă a sosit acuma {contentHash: {630532}, id: {c9wquimxgbCRacDSnbpHtZ}, rcId: {5771}}
+Timpul cel din urmă a sosit acuma {author: {__A__}, contentHash: {23e39c}, id: {c9wquimxgbCRacDSnbpHtZ}, rcId: {5771}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

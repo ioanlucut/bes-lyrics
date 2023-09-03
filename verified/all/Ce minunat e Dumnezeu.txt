@@ -1,5 +1,5 @@
 [title]
-Ce minunat e Dumnezeu! {contentHash: {4f9fa2}, id: {qAa1dmnrR5R5giJteoZT9K}, rcId: {180424}}
+Ce minunat e Dumnezeu! {author: {__A__}, contentHash: {805360}, id: {qAa1dmnrR5R5giJteoZT9K}, rcId: {180424}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Aleluia, onoare și cinste {contentHash: {52bd75}, id: {iBwSXfgzGWPQEthw7KQRcF}, rcId: {__RC_ID_NONE__}}
+Aleluia, onoare și cinste {author: {__A__}, contentHash: {9a8983}, id: {iBwSXfgzGWPQEthw7KQRcF}, rcId: {__R__}}
 
 [sequence]
 c,v1,c,v2

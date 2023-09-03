@@ -1,5 +1,5 @@
 [title]
-O, ce har să știi că Domnul te iubește {contentHash: {a06f5c}, id: {29N6ta9NN96zdNrRAeJs7Z}, rcId: {1715}}
+O, ce har să știi că Domnul te iubește {author: {__A__}, contentHash: {850bbe}, id: {29N6ta9NN96zdNrRAeJs7Z}, rcId: {1715}}
 
 [sequence]
 v1,c,v2,c,v3,c

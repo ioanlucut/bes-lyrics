@@ -1,5 +1,5 @@
 [title]
-Hristos a înviat din morți {contentHash: {b3161a}, id: {eBDRW8PdTVjGqivayppCnL}, rcId: {1891}}
+Hristos a înviat din morți {author: {__A__}, contentHash: {44e8d4}, id: {eBDRW8PdTVjGqivayppCnL}, rcId: {1891}}
 
 [sequence]
 v1

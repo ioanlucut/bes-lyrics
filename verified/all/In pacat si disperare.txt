@@ -1,5 +1,5 @@
 [title]
-În păcat și disperare {contentHash: {498123}, id: {pf85GsCH6H42fs7AwE9e6w}, rcId: {2792}}
+În păcat și disperare {author: {__A__}, contentHash: {4dd0bc}, id: {pf85GsCH6H42fs7AwE9e6w}, rcId: {2792}}
 
 [sequence]
 v1,c,v2,c,v3,c

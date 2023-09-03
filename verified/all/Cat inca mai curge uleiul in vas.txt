@@ -1,5 +1,5 @@
 [title]
-Cât încă mai curge uleiul în vas {contentHash: {467b92}, id: {nVR8y3Xzikheztp1qBcx1a}, rcId: {137838}}
+Cât încă mai curge uleiul în vas {author: {__A__}, contentHash: {f8b9ff}, id: {nVR8y3Xzikheztp1qBcx1a}, rcId: {137838}}
 
 [sequence]
 v1,v2,v3

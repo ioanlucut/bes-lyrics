@@ -1,5 +1,5 @@
 [title]
-Doamne {contentHash: {b86817}, id: {hLkpFS6WuBkDqPdSNX3gfu}, rcId: {__RC_ID_NONE__}}
+Doamne {author: {__A__}, contentHash: {939281}, id: {hLkpFS6WuBkDqPdSNX3gfu}, rcId: {__R__}}
 
 [sequence]
 v1,v2,c

@@ -1,5 +1,5 @@
 [title]
-Nici nu mai știu de câte ori m-ai apărat {contentHash: {924ba1}, id: {oq9jSDhCeaLQaF4iojjgTS}, rcId: {55656}}
+Nici nu mai știu de câte ori m-ai apărat {author: {__A__}, contentHash: {e9d2f5}, id: {oq9jSDhCeaLQaF4iojjgTS}, rcId: {55656}}
 
 [sequence]
 v1,v2,v3,v4,v5,e

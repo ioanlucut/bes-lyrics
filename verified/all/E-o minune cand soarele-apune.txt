@@ -1,5 +1,5 @@
 [title]
-E-o minune când soarele-apune {contentHash: {54a9f8}, id: {gbo7z7Bwrgcgoi1ngHRWXB}, rcId: {4910}}
+E-o minune când soarele-apune {author: {__A__}, contentHash: {3d4d1e}, id: {gbo7z7Bwrgcgoi1ngHRWXB}, rcId: {4910}}
 
 [sequence]
 v1,c,v2,c,v3,c

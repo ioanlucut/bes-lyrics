@@ -1,5 +1,5 @@
 [title]
-În curând, noi vom pleca {contentHash: {cb520f}, id: {pFJNmqtfTjYEcDEXUrGviQ}, rcId: {3606}}
+În curând, noi vom pleca {author: {__A__}, contentHash: {fecbd4}, id: {pFJNmqtfTjYEcDEXUrGviQ}, rcId: {3606}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

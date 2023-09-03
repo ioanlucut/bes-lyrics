@@ -1,5 +1,5 @@
 [title]
-Dragostea {contentHash: {921e4f}, id: {dcuUvxNVJPbqnL616j11tw}, rcId: {__RC_ID_NONE__}}
+Dragostea {author: {__A__}, contentHash: {68ebd4}, id: {dcuUvxNVJPbqnL616j11tw}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3

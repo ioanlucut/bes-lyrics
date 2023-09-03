@@ -1,5 +1,5 @@
 [title]
-El Shaddai {contentHash: {a47f99}, id: {seoPa99DLemdBoLDpaJUfv}, rcId: {__RC_ID_NONE__}}
+El Shaddai {author: {__A__}, contentHash: {b45d92}, id: {seoPa99DLemdBoLDpaJUfv}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

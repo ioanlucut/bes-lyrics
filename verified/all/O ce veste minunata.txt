@@ -1,5 +1,5 @@
 [title]
-O, ce veste minunată {contentHash: {bf83ab}, id: {kn4sURoXpcxkSj7j9UAcun}, rcId: {1509}}
+O, ce veste minunată {author: {__A__}, contentHash: {5f1025}, id: {kn4sURoXpcxkSj7j9UAcun}, rcId: {1509}}
 
 [sequence]
 v1,v2,v3,v4

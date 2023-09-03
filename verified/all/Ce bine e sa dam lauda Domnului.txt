@@ -1,5 +1,5 @@
 [title]
-Ce bine e să dăm laudă Domnului {contentHash: {49105f}, id: {jLbqSRSdPbkAwJ9L2PAfsa}, rcId: {4850}}
+Ce bine e să dăm laudă Domnului {author: {__A__}, contentHash: {48e603}, id: {jLbqSRSdPbkAwJ9L2PAfsa}, rcId: {4850}}
 
 [sequence]
 v1,c,b,c

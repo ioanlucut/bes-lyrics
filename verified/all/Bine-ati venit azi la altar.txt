@@ -1,5 +1,5 @@
 [title]
-Bine-ați venit azi la altar {contentHash: {dbba94}, id: {aEvWNNrmTCs9WPbXM3Y9BM}, rcId: {59246}}
+Bine-ați venit azi la altar {author: {__A__}, contentHash: {91308a}, id: {aEvWNNrmTCs9WPbXM3Y9BM}, rcId: {59246}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

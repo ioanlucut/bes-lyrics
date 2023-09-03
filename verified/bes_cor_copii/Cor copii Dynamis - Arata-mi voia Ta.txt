@@ -1,5 +1,5 @@
 [title]
-Arată-mi voia Ta {author: {Cor copii Dynamis}, contentHash: {9d9b10}, id: {a3Df5v8Hwb1mBtvW2T4U23}, rcId: {__RC_ID_NONE__}}
+Arată-mi voia Ta {author: {Cor copii Dynamis}, contentHash: {629ada}, id: {a3Df5v8Hwb1mBtvW2T4U23}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c2

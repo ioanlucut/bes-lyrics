@@ -1,5 +1,5 @@
 [title]
-N-am să uit, o, Doamne, niciodată {contentHash: {475f84}, id: {qxQRZUhu4ditZqVcH3HNX8}, rcId: {63362}}
+N-am să uit, o, Doamne, niciodată {author: {__A__}, contentHash: {b78919}, id: {qxQRZUhu4ditZqVcH3HNX8}, rcId: {63362}}
 
 [sequence]
 v1,c,v2,c,v3,c

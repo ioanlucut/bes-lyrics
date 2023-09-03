@@ -1,5 +1,5 @@
 [title]
-Vrednic ești de cinste și-nchinare {contentHash: {3affab}, id: {j8B3ec6RTWrXyf7mS8Wz4F}, rcId: {6610}}
+Vrednic ești de cinste și-nchinare {author: {__A__}, contentHash: {c73c6b}, id: {j8B3ec6RTWrXyf7mS8Wz4F}, rcId: {6610}}
 
 [sequence]
 v1,c,v2,c2

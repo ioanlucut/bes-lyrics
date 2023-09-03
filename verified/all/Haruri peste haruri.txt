@@ -1,5 +1,5 @@
 [title]
-Haruri peste haruri {contentHash: {6fbcd0}, id: {jqrkZdUqQ5dtNAnDLMLQAQ}, rcId: {__RC_ID_NONE__}}
+Haruri peste haruri {author: {__A__}, contentHash: {4bdf40}, id: {jqrkZdUqQ5dtNAnDLMLQAQ}, rcId: {__R__}}
 
 [sequence]
 v1,c1.1,c1.2,v1,c1.1,c1.2

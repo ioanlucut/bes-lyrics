@@ -1,5 +1,5 @@
 [title]
-Și viața ta e ca o barcă pe ocean {contentHash: {8b85a5}, id: {ru1DJPshUk3zDeqsb3zsV2}, rcId: {5697}}
+Și viața ta e ca o barcă pe ocean {author: {__A__}, contentHash: {f46590}, id: {ru1DJPshUk3zDeqsb3zsV2}, rcId: {5697}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

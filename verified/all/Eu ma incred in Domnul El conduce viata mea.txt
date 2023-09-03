@@ -1,5 +1,5 @@
 [title]
-Eu mă încred în Domnul, El conduce viața mea {contentHash: {a28ef2}, id: {89kkfPeXkSBSZ5wFPNJqjn}, rcId: {99821}}
+Eu mă încred în Domnul, El conduce viața mea {author: {__A__}, contentHash: {5afbaa}, id: {89kkfPeXkSBSZ5wFPNJqjn}, rcId: {99821}}
 
 [sequence]
 v1,c,v2,c,v3,c

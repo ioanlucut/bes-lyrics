@@ -1,5 +1,5 @@
 [title]
-Doamne, Numele-Ți înalț {contentHash: {3e9d36}, id: {md4ytCNLvLtz5LsfrPygzN}, rcId: {2955}}
+Doamne, Numele-Ți înalț {author: {__A__}, contentHash: {8ce79d}, id: {md4ytCNLvLtz5LsfrPygzN}, rcId: {2955}}
 
 [sequence]
 v1,c,v1,c

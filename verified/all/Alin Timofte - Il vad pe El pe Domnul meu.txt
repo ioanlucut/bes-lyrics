@@ -1,5 +1,5 @@
 [title]
-Îl văd pe El, pe Domnul meu {author: {Alin Timofte}, contentHash: {8f8736}, id: {48n1Dib2ANBH33zgHj47mL}, rcId: {7232}}
+Îl văd pe El, pe Domnul meu {author: {Alin Timofte}, contentHash: {ccb471}, id: {48n1Dib2ANBH33zgHj47mL}, rcId: {7232}}
 
 [sequence]
 c,v1,c,v1,c,v1,c

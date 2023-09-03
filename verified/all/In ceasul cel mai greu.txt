@@ -1,5 +1,5 @@
 [title]
-În ceasul cel mai greu {contentHash: {311e7a}, id: {3pDK2VW5ry7gHnMC9v1y3g}, rcId: {200346}}
+În ceasul cel mai greu {author: {__A__}, contentHash: {68e1bf}, id: {3pDK2VW5ry7gHnMC9v1y3g}, rcId: {200346}}
 
 [sequence]
 v1,c,v2,c

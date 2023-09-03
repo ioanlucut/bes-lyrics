@@ -1,5 +1,5 @@
 [title]
-De n-ar fi El, aș fi singur {contentHash: {fe88d2}, id: {7P6pyfdwD5kxFFLQ41xcqi}, rcId: {__RC_ID_NONE__}}
+De n-ar fi El, aș fi singur {author: {__A__}, contentHash: {5bebe1}, id: {7P6pyfdwD5kxFFLQ41xcqi}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2

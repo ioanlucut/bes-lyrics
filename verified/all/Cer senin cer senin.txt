@@ -1,5 +1,5 @@
 [title]
-Cer senin, cer senin {contentHash: {a65222}, id: {dDTEdGjXBk84L1JWGcBix2}, rcId: {72097}}
+Cer senin, cer senin {author: {__A__}, contentHash: {929718}, id: {dDTEdGjXBk84L1JWGcBix2}, rcId: {72097}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

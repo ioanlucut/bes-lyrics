@@ -7,7 +7,12 @@ import {
   getTitleWithoutMeta,
   getUniqueId,
 } from './core.js';
-import { COMMA, EMPTY_STRING, MISSING_RC_ID } from './constants.js';
+import {
+  COMMA,
+  EMPTY_STRING,
+  MISSING_AUTHOR,
+  MISSING_RC_ID,
+} from './constants.js';
 
 /**
  * Parses the content of a song to its basic AST structure.
@@ -49,16 +54,18 @@ export const parse = (songAsString: string) => {
       songAST.title = getTitleWithoutMeta(sectionContent);
 
       const metaSectionsFromTitle = getMetaSectionsFromTitle(sectionContent);
-      const { author, id, rcId, contentHash, version, alternative } =
-        metaSectionsFromTitle;
+      const { author, id, rcId, version, alternative } = metaSectionsFromTitle;
 
       songAST.id = id || getUniqueId();
+      songAST.author = author || MISSING_AUTHOR;
       songAST.rcId = rcId || MISSING_RC_ID;
-      songAST.author = author;
 
       // Just a basic one, but should be updated after any potential changes
       songAST.contentHash = computeUniqueContentHash(
-        songAsString.replaceAll(contentHash, EMPTY_STRING),
+        songAsString.replaceAll(
+          songAST.sectionsMap[SongSection.TITLE].content,
+          songAST.title,
+        ),
       );
       songAST.version = version;
       songAST.alternative = alternative;

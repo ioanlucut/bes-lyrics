@@ -1,5 +1,5 @@
 [title]
-Voi cânta, Doamne-n veci! {author: {Tiffany Moldovan}, contentHash: {5d0a08}, id: {mQVVKa3hKrNj95tca72Que}, rcId: {__RC_ID_NONE__}}
+Voi cânta, Doamne-n veci! {author: {Tiffany Moldovan}, contentHash: {17b614}, id: {mQVVKa3hKrNj95tca72Que}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,b,c

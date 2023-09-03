@@ -1,5 +1,5 @@
 [title]
-Lui Isus mi-am dat inima {contentHash: {332a3b}, id: {fHgp5fpnsMkW6y5sq5Vabj}, rcId: {__RC_ID_NONE__}}
+Lui Isus mi-am dat inima {author: {__A__}, contentHash: {1997cc}, id: {fHgp5fpnsMkW6y5sq5Vabj}, rcId: {__R__}}
 
 [sequence]
 v1,v2,v3

@@ -69,14 +69,11 @@ toMatchInlineSnapshot(`
   "7",
   "8",
   ":",
-  "A",
   "B",
   "C",
   "D",
   "E",
   "H",
-  "I",
-  "L",
   "M",
   "P",
   "R",
@@ -86,7 +83,6 @@ toMatchInlineSnapshot(`
   "Y",
   "[",
   "]",
-  "_",
   "a",
   "b",
   "c",
@@ -124,7 +120,7 @@ toMatchInlineSnapshot(`
     it('should work correctly', () => {
       expect(
 computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`"571f1d"`);
+toMatchInlineSnapshot(`"d4c950"`);
 
       expect(computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).toEqual(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
@@ -142,15 +138,15 @@ toMatchInlineSnapshot(`"571f1d"`);
     it('should update correctly', () => {
       expect(
 computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' ')).
-toMatchInlineSnapshot(`"95f8df"`);
+toMatchInlineSnapshot(`"83c6a9"`);
 
       expect(
 computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X')).
-toMatchInlineSnapshot(`"97e646"`);
+toMatchInlineSnapshot(`"300764"`);
 
       expect(
 computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y')).
-toMatchInlineSnapshot(`"79dcb1"`);
+toMatchInlineSnapshot(`"6277d0"`);
     });
   });
 
@@ -160,7 +156,7 @@ toMatchInlineSnapshot(`"79dcb1"`);
 toMatchInlineSnapshot(`
 [
   "[title]",
-  "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}, rcId: {REPLACE_ME}}",
+  "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
   "[sequence]",
   "v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3",
   "[v1]",

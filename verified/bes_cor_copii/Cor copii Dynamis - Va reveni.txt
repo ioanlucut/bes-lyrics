@@ -1,5 +1,5 @@
 [title]
-Va reveni {author: {Cor copii Dynamis}, contentHash: {9a8bb8}, id: {a9EMLrrDZrNBANmhL9Uj7A}, rcId: {__RC_ID_NONE__}}
+Va reveni {author: {Cor copii Dynamis}, contentHash: {10b558}, id: {a9EMLrrDZrNBANmhL9Uj7A}, rcId: {__R__}}
 
 [sequence]
 v1,v2,v3,v4,v5,c,v6,v7,v8,c

@@ -1,5 +1,5 @@
 [title]
-Dis de dimineață, Doamne, îmi înalț {contentHash: {26ceb7}, id: {8FsNc8ho3a9JJ7rD54ZpgZ}, rcId: {6733}}
+Dis de dimineață, Doamne, îmi înalț {author: {__A__}, contentHash: {881ed6}, id: {8FsNc8ho3a9JJ7rD54ZpgZ}, rcId: {6733}}
 
 [sequence]
 v1,c,v2,c

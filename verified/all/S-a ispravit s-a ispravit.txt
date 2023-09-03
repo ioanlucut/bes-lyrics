@@ -1,5 +1,5 @@
 [title]
-S-a isprăvit, s-a isprăvit {contentHash: {31687e}, id: {166ESnU4nQWJ2hdZiRrtuc}, rcId: {111603}}
+S-a isprăvit, s-a isprăvit {author: {__A__}, contentHash: {ad5d35}, id: {166ESnU4nQWJ2hdZiRrtuc}, rcId: {111603}}
 
 [sequence]
 v1,c,v2,c,v3,c

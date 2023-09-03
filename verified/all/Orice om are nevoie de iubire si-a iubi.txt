@@ -1,5 +1,5 @@
 [title]
-Orice om are nevoie de iubire și-a iubi {contentHash: {3547af}, id: {kWDUTK9Go2i3UXhLDDKoLY}, rcId: {1514}}
+Orice om are nevoie de iubire și-a iubi {author: {__A__}, contentHash: {cda264}, id: {kWDUTK9Go2i3UXhLDDKoLY}, rcId: {1514}}
 
 [sequence]
 v1,c,v2,c,v3,c

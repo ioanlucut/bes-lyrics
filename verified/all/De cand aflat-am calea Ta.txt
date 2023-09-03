@@ -1,5 +1,5 @@
 [title]
-De când aflat-am calea Ta {contentHash: {a1a4a3}, id: {cSMTgJNyzuj4QdMpKd75iU}, rcId: {66523}}
+De când aflat-am calea Ta {author: {__A__}, contentHash: {837d95}, id: {cSMTgJNyzuj4QdMpKd75iU}, rcId: {66523}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

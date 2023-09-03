@@ -1,5 +1,5 @@
 [title]
-Duh de viață nouă să cobori {contentHash: {361eb5}, id: {siMebkc1yrAoEa5TwQhqDg}, rcId: {1901}}
+Duh de viață nouă să cobori {author: {__A__}, contentHash: {30eaf8}, id: {siMebkc1yrAoEa5TwQhqDg}, rcId: {1901}}
 
 [sequence]
 v1,c,v2,c

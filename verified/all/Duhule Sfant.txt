@@ -1,5 +1,5 @@
 [title]
-Duhule Sfânt {contentHash: {f4f217}, id: {1d9v1JUVcTmWFmx95kqJR7}, rcId: {__RC_ID_NONE__}}
+Duhule Sfânt {author: {__A__}, contentHash: {ca5e7c}, id: {1d9v1JUVcTmWFmx95kqJR7}, rcId: {__R__}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Când vom intra pe-ale tale porți de aur {contentHash: {4bbbd7}, id: {4wSoqpT5zUEnFUU6MBHuka}, rcId: {198102}}
+Când vom intra pe-ale tale porți de aur {author: {__A__}, contentHash: {108289}, id: {4wSoqpT5zUEnFUU6MBHuka}, rcId: {198102}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

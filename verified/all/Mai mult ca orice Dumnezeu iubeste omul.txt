@@ -1,5 +1,5 @@
 [title]
-Mai mult ca orice Dumnezeu iubește omul {contentHash: {2661d2}, id: {j5DLgrsnSotVxev9tMkYDS}, rcId: {6685}}
+Mai mult ca orice Dumnezeu iubește omul {author: {__A__}, contentHash: {1105a7}, id: {j5DLgrsnSotVxev9tMkYDS}, rcId: {6685}}
 
 [sequence]
 v1,c,v2,c

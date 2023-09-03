@@ -1,5 +1,5 @@
 [title]
-Amăgire {author: {Chris}, contentHash: {38d7d9}, id: {aMbKzXe8ivngKnbC55zwBQ}, rcId: {113120}}
+Amăgire {author: {Chris}, contentHash: {aedffe}, id: {aMbKzXe8ivngKnbC55zwBQ}, rcId: {113120}}
 
 [sequence]
 v1,c,v2,c

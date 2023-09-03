@@ -1,5 +1,5 @@
 [title]
-Pe Calvar eu am aflat o salvare {version: {ii}, contentHash: {87220e}, id: {7RURbpko41pWYEgVkHD4Pq}, rcId: {__RC_ID_NONE__}}
+Pe Calvar eu am aflat o salvare {author: {__A__}, version: {ii}, contentHash: {f0c9f4}, id: {7RURbpko41pWYEgVkHD4Pq}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5

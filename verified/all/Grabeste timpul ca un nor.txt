@@ -1,5 +1,5 @@
 [title]
-Grăbește timpul ca un nor {contentHash: {f48e01}, id: {b2tS8KXJX9wf2FsdeoRgXK}, rcId: {3254}}
+Grăbește timpul ca un nor {author: {__A__}, contentHash: {55c618}, id: {b2tS8KXJX9wf2FsdeoRgXK}, rcId: {3254}}
 
 [sequence]
 v1,c,v2,c,v3,c

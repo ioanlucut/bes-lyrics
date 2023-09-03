@@ -1,5 +1,5 @@
 [title]
-Ai promis c-ai să revii {contentHash: {791050}, id: {2qKunHxG3XvFnEKHmbiLSa}, rcId: {225851}}
+Ai promis c-ai să revii {author: {__A__}, contentHash: {29dd83}, id: {2qKunHxG3XvFnEKHmbiLSa}, rcId: {225851}}
 
 [sequence]
 v1,c,v2,c,v3,c

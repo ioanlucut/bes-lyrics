@@ -1,5 +1,5 @@
 [title]
-Un oraș frumos este pe munte {contentHash: {cdfc54}, id: {tpw1QK6TNVwMdh877u6xGF}, rcId: {__RC_ID_NONE__}}
+Un oraș frumos este pe munte {author: {__A__}, contentHash: {005f46}, id: {tpw1QK6TNVwMdh877u6xGF}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,v3,c

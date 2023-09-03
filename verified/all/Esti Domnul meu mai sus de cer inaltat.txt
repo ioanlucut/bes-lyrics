@@ -1,5 +1,5 @@
 [title]
-Ești Domnul meu, mai sus de cer înălțat {contentHash: {b5fdc6}, id: {5YN1KT7NqYPfEo6iWRpdhy}, rcId: {58052}}
+Ești Domnul meu, mai sus de cer înălțat {author: {__A__}, contentHash: {adf9c1}, id: {5YN1KT7NqYPfEo6iWRpdhy}, rcId: {58052}}
 
 [sequence]
 v1,c,v2,c,b,c,e

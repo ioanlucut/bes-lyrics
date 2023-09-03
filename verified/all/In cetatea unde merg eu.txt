@@ -1,5 +1,5 @@
 [title]
-În cetatea unde merg eu {contentHash: {ac8d2e}, id: {d49p4icZKmLUh2B59QK3My}, rcId: {59168}}
+În cetatea unde merg eu {author: {__A__}, contentHash: {1f6390}, id: {d49p4icZKmLUh2B59QK3My}, rcId: {59168}}
 
 [sequence]
 c,v1,c,v2,c,v3

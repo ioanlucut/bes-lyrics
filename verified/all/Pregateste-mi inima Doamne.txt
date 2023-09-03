@@ -1,5 +1,5 @@
 [title]
-Pregătește-mi inima, Doamne {contentHash: {cbc10d}, id: {dpsy4XzmX1mqdjnZ8Cvgdi}, rcId: {5161}}
+Pregătește-mi inima, Doamne {author: {__A__}, contentHash: {748607}, id: {dpsy4XzmX1mqdjnZ8Cvgdi}, rcId: {5161}}
 
 [sequence]
 c
