@@ -6,3 +6,5 @@ adr/*.fls
 adr/*.lg
 adr/*.gz
 adr/*.log
+temp-runners
+temp.txt
