@@ -1,5 +1,5 @@
 [title]
-Inima mea vrea să-Ți cânte {contentHash: {65bd07}, id: {kAkXYD17D7MMuzowF9DCrX}, rcId: {__NONE__}}
+Inima mea vrea să-Ți cânte {contentHash: {65bd07}, id: {kAkXYD17D7MMuzowF9DCrX}, rcId: {1010}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -19,17 +19,3 @@ Pentru tot ce ai făcut
 Vreau să-Ți mulțumesc
 Pentru tot ce ai schimbat
 Și pentru că mi-ai umplut inima! :/
-
-[v2]
-Pentru cântec, speranță
-Și rază de soare,
-Lumină și pace
-Pe-a mea cărare,
-Pentru tot ce Tu îmi dai, mulțumesc!
-
-[v3]
-Pentru zâmbetul Tău înscris printre stele,
-Mângâierea Ta în clipele grele,
-Pentru dragostea Ta revărsată în mine
-Mă-nchin, recunosc că ești Domn
-Și rostesc: Mulțumesc!
