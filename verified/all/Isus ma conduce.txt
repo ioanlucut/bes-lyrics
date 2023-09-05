@@ -1,5 +1,5 @@
 [title]
-Isus mă conduce {author: {__A__}, contentHash: {1c7ae2}, id: {oJiWWdmDcpecuG7doun17x}, rcId: {__R__}}
+Isus mă conduce {author: {__A__}, contentHash: {c721b6}, id: {oJiWWdmDcpecuG7doun17x}, rcId: {__R__}}
 
 [sequence]
 v1,v2,v3,v4
@@ -7,7 +7,7 @@ v1,v2,v3,v4
 [v1]
 Isus mă conduce spre cer zi de zi,
 El este păstorul cel bun și divin.
-Nu simt nici o lipsă, mă bucur nespus,
+Nu simt nicio lipsă, mă bucur nespus,
 Al vieții izvor e Isus.
 
 [v2]

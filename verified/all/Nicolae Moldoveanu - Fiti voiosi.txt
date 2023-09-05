@@ -1,5 +1,5 @@
 [title]
-Fiți voioși {author: {Nicolae Moldoveanu}, contentHash: {f70935}, id: {vjAPMvyCrc7XxuKBGTCPDm}, rcId: {5668}}
+Fiți voioși {author: {Nicolae Moldoveanu}, contentHash: {c7c35e}, id: {vjAPMvyCrc7XxuKBGTCPDm}, rcId: {5668}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -8,7 +8,7 @@ v1,c,v2,c,v3,c
 Fiți voioși, fiți voioși totdeauna,
 Lăudându-L pe Domnul mereu,
 De ne-ncredem puternic în Domnul,
-Nu ne-nvinge nicicând, nici un rău.
+Nu ne-nvinge nicicând, niciun rău.
 
 [c]
 Nu-i furtună să clatine stânca,

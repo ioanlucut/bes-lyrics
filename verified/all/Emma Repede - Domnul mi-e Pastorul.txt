@@ -1,5 +1,5 @@
 [title]
-Domnul mi-e Păstorul {author: {Emma Repede}, contentHash: {bda2f0}, id: {kNfmAEKuKghxd9oLcyRDp3}, rcId: {233607}}
+Domnul mi-e Păstorul {author: {Emma Repede}, contentHash: {263b54}, id: {kNfmAEKuKghxd9oLcyRDp3}, rcId: {233607}}
 
 [sequence]
 v1,c,v1,c,e
@@ -16,7 +16,7 @@ Din pricina Numelui Său.
 
 [c]
 /: Chiar de-ar fi să umblu-n valea umbrei morții,
-Nu mă tem de nici un rău căci Tu ești cu mine.
+Nu mă tem de niciun rău căci Tu ești cu mine.
 Toiagul și nuiaua Ta mă mângâie,
 De aceea îndurarea mă va însoți. :/
 

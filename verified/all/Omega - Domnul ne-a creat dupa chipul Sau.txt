@@ -1,5 +1,5 @@
 [title]
-Domnul ne-a creat după chipul Său {author: {Omega}, contentHash: {2dd04d}, id: {dd2M3YJm1QAbEEqPzPsJ14}, rcId: {4326}}
+Domnul ne-a creat după chipul Său {author: {Omega}, contentHash: {acdea3}, id: {dd2M3YJm1QAbEEqPzPsJ14}, rcId: {4326}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
@@ -8,7 +8,7 @@ v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
 Domnul ne-a creat după chipul Său,
 El ne-a învățat să urâm ce-i rău.
 Să nu ne mai întoarcem pe unde-am fost,
-Că n-are nici un rost.
+Că n-are niciun rost.
 
 [v1.2]
 Nu mai vrem în lume să rătăcim,

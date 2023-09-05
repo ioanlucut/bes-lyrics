@@ -1,5 +1,5 @@
 [title]
-Domnul îmi este adăpost {author: {Ira D. Sankey}, contentHash: {4fc755}, id: {1SUS3rJMwQDRe6NZYnPVGG}, rcId: {3105}}
+Domnul îmi este adăpost {author: {Ira D. Sankey}, contentHash: {2467aa}, id: {1SUS3rJMwQDRe6NZYnPVGG}, rcId: {3105}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -26,7 +26,7 @@ Ce strălucește-n noaptea grea.
 Cu-al Tău Cuvânt marea alini,
 Cetate tare-n vreme rea!
 Sufletu-mi l-acest scut să vii,
-Și nici un rău nu s-a-ntâmpla.
+Și niciun rău nu s-a-ntâmpla.
 
 [v4]
 Tu ești a mea mântuire,

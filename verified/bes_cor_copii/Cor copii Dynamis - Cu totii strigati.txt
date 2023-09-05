@@ -1,5 +1,5 @@
 [title]
-Cu toții strigați {author: {Cor copii Dynamis}, contentHash: {3afaa3}, id: {7kmwhcbPsjvLMCzgTbk9H7}, rcId: {__R__}}
+Cu toții strigați {author: {Cor copii Dynamis}, contentHash: {6d4507}, id: {7kmwhcbPsjvLMCzgTbk9H7}, rcId: {__R__}}
 
 [sequence]
 v1,c,c2,v2,c,b,c2
@@ -12,7 +12,7 @@ Ne-arată cărarea spre cer.
 
 [c]
 Îmi poartă de grijă Iehova Ihre
-Și n-am nici o lipsă cu El.
+Și n-am nicio lipsă cu El.
 Pentru cei bolnavi este vindecător,
 E Domnul lui Israel.
 
