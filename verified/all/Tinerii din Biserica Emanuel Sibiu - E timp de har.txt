@@ -1,5 +1,5 @@
 [title]
-E timp de har {author: {Tinerii din Biserica Emanuel Sibiu}, contentHash: {33c28e}, id: {9c5dqWg5pmZF4eEsSd2fZ9}, rcId: {__R__}}
+E timp de har {author: {Tinerii din Biserica Emanuel Sibiu}, contentHash: {c56908}, id: {9c5dqWg5pmZF4eEsSd2fZ9}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -12,7 +12,7 @@ Ca prin vorbă și prin faptă să, să Te urmăm!
 
 [c]
 /: Noi azi venim, stăm în fața Ta,
-Vrem să ne smerim, ca sa poți lucra.
+Vrem să ne smerim, ca să poți lucra.
 Pe deplin inima Ți-o dăm,
 Doamne Te rugăm să domnești în ea. :/
 
