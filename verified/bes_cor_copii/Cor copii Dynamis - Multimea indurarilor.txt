@@ -1,5 +1,5 @@
 [title]
-Mulțimea îndurărilor {author: {Cor copii Dynamis}, contentHash: {d0a79c}, id: {vZU6SdH66huDsZ9kEBNg38}, rcId: {7342}}
+Mulțimea îndurărilor {author: {Cor copii Dynamis}, contentHash: {1da101}, id: {vZU6SdH66huDsZ9kEBNg38}, rcId: {7342}}
 
 [sequence]
 v1,c,v2,c,v3,e
@@ -24,7 +24,7 @@ Putere, Doamne, Tu ne-ai dat.
 
 [v3]
 Prin valea morții de am fost
-De nici un rău nu ne-am temut,
+De niciun rău nu ne-am temut,
 Când umbrele-i ne-amenințau
 Lumina Sfânt-a apărut.
 

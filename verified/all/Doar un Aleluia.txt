@@ -1,5 +1,5 @@
 [title]
-Doar un Aleluia {author: {__A__}, contentHash: {60fb75}, id: {457FXbda4fpZiJ3Ybs6EyG}, rcId: {__R__}}
+Doar un Aleluia {author: {__A__}, contentHash: {49d0c3}, id: {457FXbda4fpZiJ3Ybs6EyG}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c
@@ -17,7 +17,7 @@ Nu am nimic vrednic de Tine, Isus,
 Mi-a mai rămas doar un Aleluia, Aleluia.
 
 [v2]
-Nu am nici un gând, am doar un răspuns,
+Nu am niciun gând, am doar un răspuns,
 Cu mâinile spre cer mă închin, Isus.
 Suflet al meu, înalță-ți glasul și Nu amâna,
 Leul din tine, e gata să strige: mare e Dumnezeu!

@@ -1,5 +1,5 @@
 [title]
-Doamne-n Tine mă încred {author: {__A__}, contentHash: {c8e4ee}, id: {mreFxv5Myv1Ze6YXwF58Mb}, rcId: {3115}}
+Doamne-n Tine mă încred {author: {__A__}, contentHash: {55c8d2}, id: {mreFxv5Myv1Ze6YXwF58Mb}, rcId: {3115}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -22,7 +22,7 @@ Chiar de ar fi eu ca să trec
 Prin a umbrei morții văi,
 Teamă de nimic nu îmi este.
 Căci cu Tine eu când merg,
-Nici un rău nu-mi poate fi,
+Niciun rău nu-mi poate fi,
 Cât de bine e lângă Tine.
 
 [v3]

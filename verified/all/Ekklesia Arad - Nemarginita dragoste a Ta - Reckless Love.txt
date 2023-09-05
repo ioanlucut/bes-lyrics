@@ -1,5 +1,5 @@
 [title]
-Nemărginită dragoste a Ta {author: {Ekklesia Arad}, alternative: {Reckless Love}, contentHash: {19c4ed}, id: {tYge5U4HULcS4JVL6f439m}, rcId: {215562}}
+Nemărginită dragoste a Ta {author: {Ekklesia Arad}, alternative: {Reckless Love}, contentHash: {bcacdc}, id: {tYge5U4HULcS4JVL6f439m}, rcId: {215562}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -25,5 +25,5 @@ Harul Tău mi-ai arătat.
 [b]
 /: Nu-i ceață prea deasă, vale prea joasă,
 Ca să mă găsești.
-Nici un zid nu-i prea tare, nu-i munte prea mare
+Niciun zid nu-i prea tare, nu-i munte prea mare
 Ca să mă găsești. :/ (4x)

@@ -1,5 +1,5 @@
 [title]
-Slăvesc pe Domnul, pacea mea {author: {Puiu Chibici}, contentHash: {5f65bc}, id: {8ES7VSaR6jJDh4FwHYwKeY}, rcId: {111999}}
+Slăvesc pe Domnul, pacea mea {author: {Puiu Chibici}, contentHash: {bde480}, id: {8ES7VSaR6jJDh4FwHYwKeY}, rcId: {111999}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,b,c
@@ -12,7 +12,7 @@ Sigur îmi vine-n ajutor.
 
 [c]
 Domnul este de partea mea,
-Nu mă tem de nici un rău,
+Nu mă tem de niciun rău,
 Numele Lui îl voi înălța,
 Nume sfânt de Dumnezeu.
 

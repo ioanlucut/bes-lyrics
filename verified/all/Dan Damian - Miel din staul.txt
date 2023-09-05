@@ -1,12 +1,12 @@
 [title]
-Miel din staul {author: {Dan Damian}, contentHash: {a737d4}, id: {iwah22JH8PYRjysRtEazDj}, rcId: {157003}}
+Miel din staul {author: {Dan Damian}, contentHash: {8c9de7}, id: {iwah22JH8PYRjysRtEazDj}, rcId: {157003}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
 N-a mai fost ca noaptea aceea
-Nici o noapte pe pământ,
+Nicio noapte pe pământ,
 Corul cerului în cântec a vestit,
 Nu vă temeți, vă zic vouă,
 Într-o iesle în Betleem
