@@ -1,0 +1,29 @@
+[title]
+Știi tu cine este Isus {author: {Erdei Erika}, contentHash: {10f186}, id: {kvXS4WHBo3Huj9ton4rLXM}, rcId: {66249}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Știi tu cine este Isus?
+Știi tu cine este El?
+Știi tu al cui Fiu este El?
+Știi că Tatăl Lui e Dumnezeu?
+
+[c]
+Iubește-L, o, iubește-L,
+Căci pentru tine El mult s-a jertfit.
+Cere-I și-ți va da viață în dar,
+Iubește-L, să fii mântuit.
+
+[v2]
+Știi că îngerii din slavă
+Sunt uimiți de jertfa Lui?
+Privind la crucea Golgotei,
+Vezi cum curge la toți harul Lui?
+
+[v3]
+Știi tu cine este Isus?
+Cin’ de moarte te-a salvat?
+Cine ți-a dat har și ție
+Ca să fii pe veci răscumpărat?

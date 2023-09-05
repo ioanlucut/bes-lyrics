@@ -1,0 +1,47 @@
+[title]
+O, Doamne Mare {author: {Carl Boberg}, contentHash: {c49393}, id: {7dRrBrYYHJrgjDvXPTvnqs}, rcId: {1630}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+O, Doamne mare, când privesc eu lumea,
+Ce ai creat-o prin al Tău Cuvânt
+Și ființele ce-mpodobesc natura,
+Cum le-ntreții cu brațul Tău cel sfânt.
+
+[c]
+/: Atunci Îți cânt,
+Măreț Stăpânitor:
+„Ce mare ești!
+Ce mare ești!” :/
+
+[v2]
+Privirea când mi-o-nalț și văd minunea,
+Mulțimea astrelor ce-alerg pe cer,
+Mărețul soare, cât și blânda lună,
+Ca mingi de aur plutind prin eter.
+
+[v3]
+Când întâlnesc pe Domnu-n Cartea Sfântă
+Și când zăresc mulțimea de-ndurări,
+Pe-ai Săi aleși cum i-a iubit întruna
+Și i-a condus prin binecuvântări.
+
+[v4]
+Și-L văd pe Isus pe pământu-acesta,
+Ca serv, dar plin de dragoste și har,
+Zăresc în duh amara-I suferință
+Și mântuirea ce mi-o dă în dar.
+
+[v5]
+Când mă apasă sarcini mari și grele,
+Când sufletu-mi e trist pân’ la mormânt,
+El Se apleacă, plin de mângâiere,
+Și-mi ia tot chinul și-orice legământ.
+
+[v6]
+Când Domnul bun mă va chema la Sine
+Și când voi sta uimit în fața Sa,
+Privind pe Domnul Sfânt al veșniciei,
+Căzând la tronu-I, mă voi închina.

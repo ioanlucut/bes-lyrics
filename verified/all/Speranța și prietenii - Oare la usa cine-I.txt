@@ -1,0 +1,29 @@
+[title]
+Oare la ușă cine-I {author: {Speranța și prietenii}, contentHash: {ceb4e3}, id: {giRZ9HR8i1LqXJGwhkfjoQ}, rcId: {202707}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Oare la ușă cine-I
+Și ce-o fi așteptând?
+Azi iarăși ocoli-vei
+Pe cel ce-L vezi bătând?
+
+[c]
+/: Dulce răsună-afară:
+„Lasă-Mă-n casa ta!
+Te rog, a câta oară,
+Spre fericirea ta.” :/
+
+[v2]
+O, ce pustiu e-n mine
+Fără de Dumnezeu!
+Sunt un orfan, văd bine,
+Unde e Tatăl meu?
+
+[v3]
+O, chiar acum, degrabă,
+Ușa-Ți deschid eu larg
+Hai, nu mai sta afară,
+Calcă al casei prag!

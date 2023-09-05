@@ -1,0 +1,41 @@
+[title]
+Chiar dacă vântul a vrut în zbor {author: {Costache Ioanid}, contentHash: {02a907}, id: {s2bM8MUq2RNLDMJXHh8Z6Z}, rcId: {246137}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Chiar dacă vântul a vrut în zbor
+În turme să ne-mpartă,
+/: Dar tot o cale, tot un dor
+Și tot un duh ne poartă. :/
+
+[v2]
+Chiar dacă azi pe orice plai
+Sunt oi împrăștiate,
+/: Dar tot un staul, sus, în Rai
+Și un Păstor au toate. :/
+
+[v3]
+Chiar dacă n-am păstrat măcar
+Un singur dulce nume,
+/: Dar tot o jertfă, tot un har
+Ne-a smuls pe toți din lume. :/
+
+[v4]
+Chiar dacă azi oftăm stingheri
+Că ne-a-mpărțit furtuna,
+/: Dar toți vom fi odată-n Cer
+Și-acolo vom fi una. :/
+
+[v5]
+Acum când pașii lui Isus
+Se-aud tot mai aproape,
+/: Să ne unim în dragoste,
+Iubind frate pe frate. :/
+
+[v6]
+Veniți în jurul lui Isus
+Să înfruntăm furtuna
+/: Căci El E singurul Păstor
+Iar turma Sfântă-i una. :/

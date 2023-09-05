@@ -1,0 +1,27 @@
+[title]
+Tu ești Lumina din zori de zi {author: {Dolores}, contentHash: {f2b2cc}, id: {kdGrVm1MeAdQ8vHoQHiWZH}, rcId: {111442}}
+
+[sequence]
+v1,c,b,c
+
+[v1]
+Tu ești Lumina din zori de zi,
+Tu ești motivul meu de-a trăi,
+Tu ești iubirea ce n-are sfârșit
+Tu ai mulțime de îndurări.
+Tu stai cu mine în încercări
+Și-mi dai noi aripi să zbor
+Spre alte zări - Isus
+
+[c]
+Vreau să fiu mai aproape de Tine,
+Vreau să fii lângă inima mea,
+Vreau să stau în prezența-Ți divină,
+Vreau mai mult ca orice fața Ta!
+
+[b]
+Vreau să fii mai aproape de mine,
+Vreau să fiu lângă inima Ta,
+Vreau să stau în prezența-Ți divină,
+Vreau mai mult ca orice fața Ta!
+Vreau mai mult ca orice fața Ta!

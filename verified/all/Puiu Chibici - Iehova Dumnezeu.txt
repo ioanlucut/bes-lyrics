@@ -1,0 +1,44 @@
+[title]
+Iehova, Dumnezeu {author: {Puiu Chibici}, contentHash: {3c117c}, id: {cKwBsKDDaaNevijZJZ9TwG}, rcId: {78700}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3,c
+
+[v1.1]
+Ești necuprins de timp și spațiu,
+De-orice gândire mai presus,
+Ești pretutindenea în toate
+Și totuși, cât de nepătruns.
+
+[v1.2]
+Deasupra tuturor, o, Doamne,
+Cu măreție strălucești,
+Cu-nțelepciunea-Ți fără margini
+În orice clipă mă uimești.
+
+[c]
+Din veșnicie ești același,
+Iehova e Numele Tău.
+Splendori cerești Te înconjoară,
+Din veșnicie-n veșnicie ești mereu,
+Iehova, Dumnezeu!
+
+[v2.1]
+Ești Dumnezeu din veșnicie,
+Izvorul tainice-i lumini,
+În cer Ți-e tronul de domnie
+Înconjurat de heruvimi.
+
+[v2.2]
+Ești Tatăl nostru bun și mare
+Ce ne dai pâine zi de zi
+Și adunarea-n sărbătoare
+Îți cântă sfinte melodii.
+
+[v3]
+În fața măreției Tale se-nchină orice muritor,
+Ți se înalță osanale, Atotputernic Creator.
+În toate voia Ta să fie,
+Sfințească-se Numele Tău,
+Vie a Ta Împărăție,
+Preasfânt și mare Dumnezeu.

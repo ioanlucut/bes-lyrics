@@ -1,0 +1,27 @@
+[title]
+Muzica-ncetat, totu-i nemișcat {author: {Matt Redman}, contentHash: {78a268}, id: {8LivoooMeoR7psgwwLautA}, rcId: {5138}}
+
+[sequence]
+v1,p,c,v1,p,c
+
+[v1]
+Muzica-ncetat, totu-i nemișcat,
+Dar eu vin spre Tin’!
+Doamne, m-a durut
+Tot ce n-am făcut
+Voia să-Ți ascult.
+
+[p]
+Mai mult de-un cântec Ți-aduc,
+Căci doar cântecul nu-i.
+Ceea ce Tu ai fi vrut,
+Tu cauți mult mai adânc decât se poate vedea,
+Te uiți în inima mea.
+
+[c]
+/: Mă-ntorc la inima închinării,
+Vreau să văd fața Ta,
+Doar fața Ta, Isus.
+Îmi pare rău de a mea greșeală:
+Că nu Te-am căutat
+Și nu m-am închinat destul. :/

@@ -1,0 +1,35 @@
+[title]
+Eu mă-ncred în Tin’ {author: {George Ciurdas}, contentHash: {a1d64e}, id: {wTZNQhY83ziHYJkGLH4QwC}, rcId: {164308}}
+
+[sequence]
+v1.1,v1.2,c,v2,c,v3,c
+
+[v1.1]
+Renunțând la orice vis al meu,
+La picioare Ți-l pun, Domnul meu.
+Nici un moment al meu de rătăciri
+Nu Te-a schimbat, la fel mă vei privi.
+
+[v1.2]
+Mărturisesc, am vrut singur să lupt,
+Am obosit, odihnă-n Tine caut.
+Măreț Războinic, Rege Neînfricat,
+Prin orice aș trece, ești de partea mea.
+
+[c]
+Când munții nu se mută, ajută-mă să-i urc,
+Când marea-mi stă în față, ajută-mă s-o-nfrunt,
+Când Tu nu-mi dai răspunsuri, deși plâng și suspin,
+Eu mă-ncred, eu mă-ncred, eu mă-ncred în Tin’!
+
+[v2]
+E-adevărat, Tu știi ce va veni,
+Nu ții nimic ascuns din ce va fi.
+Prin toate, fii al meu sfătuitor,
+Nu vreau nimic mai mult, ești în control.
+
+[v3]
+Tu ești a mea tărie, odihna Tu îmi ești!
+Ești brațul cel puternic, stânca-n furtuna ești.
+Căile Tale-s sfinte, planul Tău e perfect,
+Nu e vreun loc în care, să-jung și Tu nu ești.

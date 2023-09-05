@@ -1,0 +1,35 @@
+[title]
+Pe un deal, departe, stă o cruce veche {author: {George Bennard}, contentHash: {e3cdb1}, id: {etiJYFG8A82CuAx3ANPPRU}, rcId: {5488}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pe un deal, departe, stă o cruce veche
+Ca un semn al suferințelor
+Și iubesc eu crucea, unde scumpul Isus
+Muri ca al meu Mântuitor.
+
+[c]
+Voi iubi vechea tristă cruce
+Pân’ sfârșesc viața umană.
+Eu voi sta lângă vechea cruce
+Și-am s-o schimb cândva-ntr-o coroană.
+
+[v2]
+O, acea cruce de lume urâtă,
+Mă atrage pe mine la ea
+Căci Mielul blând Isus, lăsând gloria sus,
+A urcat crucea sus pe Calvar.
+
+[v3]
+În crucea lui Isus, stropită cu sânge,
+E glorioasa mea salvare
+Căci, de bună voie, pe ea murind, Isus
+Din păcat mi-a făcut scăpare.
+
+[v4]
+Deci, crucii lui Isus eu voi fi credincios
+Și orice suferințe voi răbda,
+Și cândva m-a chema, la locașul ceresc
+Unde-n glorie mă voi schimba.

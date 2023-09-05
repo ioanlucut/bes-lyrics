@@ -1,0 +1,44 @@
+[title]
+Bunătatea Ta eternă {author: {Nicolae Moldoveanu}, contentHash: {b42169}, id: {x9E55RH9hJgWeUU9oE3TQm}, rcId: {1583}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Bunătatea Ta eternă,
+Doamne, Dumnezeul meu,
+Ea mi-e cea mai dulce pernă
+De odihnă, când mi-e greu.
+
+[v1.2]
+Ea mă scapă de povară,
+Când mi-e sufletu-apăsat
+Și mă ușurează iarăși,
+/: Ca s-alerg mai avântat. :/
+
+[c]
+/: Bunătatea Ta, bunătatea Ta! :/
+
+[v2.1]
+Bunătatea Ta mă-ndeamnă
+Grabnic să mă pocăiesc,
+Ca să știu adânc ce-nseamnă
+Răul care-l săvârșesc.
+
+[v2.2]
+Ea mă-ndeamnă înspre cruce,
+Spre Isus cel răstignit,
+Să-nțeleg că El aduce
+/: Pace-n duhul meu trudit. :/
+
+[v3.1]
+Bunătatea Ta-mi gătește
+Un prea-dulce viitor,
+Căci ea zilnic se-nnoiește
+Și când urc și când cobor.
+
+[v3.2]
+Laudă și închinare
+Pentru bunătatea Ta,
+Îți aduc cu-nflăcărare,
+/: Doamne-acum și-n veac așa. :/

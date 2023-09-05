@@ -1,0 +1,35 @@
+[title]
+Iehova Elohim - Eternul Creator {author: {Marta Bergheaua}, contentHash: {a5044f}, id: {5LDL3NiAreJKvcyCWJxBuc}, rcId: {61958}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Iehova Elohim - Eternul Creator
+Iehova Adonai - Domnul Puternic
+El e Iehova Șhur - Stânca Veacurilor
+El e Iehova, Domnul ce m-a iubit.
+
+[c]
+/: Cânt Aleluia, cânt Aleluia,
+Cânt Aleluia, cânt Aleluia!
+El e Iehova, Domnul puternic,
+El e Iehova, Domnul ce m-a iubit. :/
+
+[v2]
+E marele „Eu Sunt” - Tatăl lui Avraam
+Iehova Șhalom - Domnul e pacea mea
+Domnul lui Israel, cel fără de sfârșit
+El e Iehova, Domnul ce m-a iubit.
+
+[v3]
+Iehova Iire - Poartă de grijă
+Iehova Rafa - Domnul mă vindecă
+Iehova Nissi - Domnul e steagul meu
+Iehova Șhama - Aici e Dumnezeu.
+
+[v4]
+Iehova Țidkhenu - Dreptul Judecător
+Iehova Savaoth - Domnul Oștirilor
+Iehova Hoșhenu - Al nostru Creator
+El e Iehova, al nostru Salvator.

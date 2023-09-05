@@ -1,0 +1,41 @@
+[title]
+În această oră, Doamne, Te rugăm {author: {Petrișor Bodea}, contentHash: {ded6ac}, id: {vqTeGxBuYKRGzSr2SyNbeV}, rcId: {1469}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,v4,c1.1,c1.2
+
+[v1]
+În această oră, Doamne, Te rugăm
+Să iei parte Tu cu noi,
+Să ne-asculți când Îți cântăm și Te lăudăm,
+Întotdeauna fii cu noi!
+
+[c1.1]
+Să nu ne lași părăsiți nicicând
+Căci noi trăim doar cu Tine-n gând.
+Doar pe Tine Te avem
+Și-n Tine ne-ncredem!
+
+[c1.2]
+Tu ești al nost’ Mântuitor,
+Minunat și bun Păstor,
+Doar cu Tine vrem să fim
+În cerul lin.
+
+[v2]
+Să ne porți de grijă, să nu ne lași nicicând
+Să mergem înapoi.
+Tot ’nainte să mergem cu Tine, Doamne,
+Deși-ncercările-s șuvoi!
+
+[v3]
+Când ispite mari apar în viața mea,
+N-am pe nimeni ajutor,
+Doar în Tine pururea să ne-ncredem noi,
+Veșnice Ocrotitor!
+
+[v4]
+Dar acuma, Doamne, noi Îți mulțumim
+Pentru bunătatea Ta,
+Pentru dragostea dintâi și iubirea Ta,
+Vrem în veci să-Ți mulțumim.

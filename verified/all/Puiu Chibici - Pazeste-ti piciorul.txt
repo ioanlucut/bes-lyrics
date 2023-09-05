@@ -1,0 +1,35 @@
+[title]
+Păzește-ți piciorul {author: {Puiu Chibici}, contentHash: {81778e}, id: {p698Kbqd3r8BF25H7u3eKD}, rcId: {192959}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Păzește-ți piciorul, străine, când vii
+În cortul întâlnirii.
+Aici este poarta Dumnezeului viu,
+Cetatea nemuririi.
+
+[c]
+Aici este poarta cerurilor,
+E calea ce duce în sus,
+Aici este Regele regilor,
+Aici domnește Isus.
+
+[v2]
+Aici vin copii săraci și orfani,
+Aici vin părinți cu durere,
+Aici vin bătrâni necăjiți și sărmani,
+Să simtă-n Isus mângâiere.
+
+[v3]
+Aici e puterea ce mișcă chiar munți,
+Puterea de la Rusalii.
+Biserica celor întâi născuți,
+Cântându-I Osanale!
+
+[v4]
+Aici vin bolnavi și acei disperați,
+Vin cei ce doresc vindecarea.
+Vin cei chinuiți de demoni necurați,
+Aici e-o scăldătoare.

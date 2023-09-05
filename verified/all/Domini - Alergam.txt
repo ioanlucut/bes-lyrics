@@ -1,0 +1,30 @@
+[title]
+Alergăm {author: {Domini}, contentHash: {dcbd4b}, id: {wS74rXw8njoz9CcVEVrMx1}, rcId: {65646}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Alergăm pe un drum fără de țintă,
+Navigăm spre un port fără de țărmuri.
+Ne-ndreptăm spre o lume fără vise, fără Tin’.
+Încercăm să iertăm fără iubire,
+Căutăm liniște și nemurire.
+Ne dorim să zburăm până la stele, fără Tin’.
+
+[c]
+/: Căci viața fără Tin’, nu are niciun rost,
+Pot să trăiesc sublim, dar fără de folos.
+Doar în iubirea Ta eu îmi găsesc un sens,
+Și înțeleg, Isus, că toate sunt prin Tin’. :/
+
+[v2]
+Anii trec, timpul nu se mai întoarce,
+Tot ce faci se notează într-o carte.
+Și trăim o iluzie frumoasă, fără Tin’.
+Mai apoi ne-ntrebăm ce-i fericirea,
+Negăsind un răspuns și împlinirea.
+Ne trăim viața într-un strop de toamnă, fără Tin’.
+
+[e]
+Și înțeleg, Isus, că toate sunt prin Tin’.

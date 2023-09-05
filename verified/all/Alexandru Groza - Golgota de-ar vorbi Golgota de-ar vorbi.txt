@@ -1,0 +1,29 @@
+[title]
+Golgota de-ar vorbi, Golgota de-ar vorbi {author: {Alexandru Groza}, contentHash: {a22de3}, id: {nNCdgRx2k3YAdawphoagZm}, rcId: {5482}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2
+
+[v1]
+Golgota de-ar vorbi, Golgota de-ar vorbi,
+Ar spune tragedia care-a fost pe ea.
+Ar spune Ghetsimani, grădina Ghetsimani,
+Cum, Hristos, în noapte, pentru tine S-a rugat.
+
+[c1.1]
+A fost, a fost atât de greu
+Să sufere în locul tău.
+Sudori de sânge-au curs pe fața lui Isus!
+Silit, batjocorit, cu crucea-n spate El mergea,
+
+[c1.2]
+Urcând pe Via Dolorosa-n sus,
+De multe ori a căzut Isus.
+O, Golgota, o, Golgota, loc de jale
+Unde Hristos Și-a dat viața Sa, la Golgota.
+
+[v2]
+Era disprețuit, era batjocorit,
+Corpul Său era doar răni și vânătăi.
+Din fruntea Sa curgea sânge nevinovat
+Pentru tine și-al meu păcat.

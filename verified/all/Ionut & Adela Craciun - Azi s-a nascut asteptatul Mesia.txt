@@ -1,0 +1,23 @@
+[title]
+Azi s-a născut așteptatul Mesia {author: {Ionut & Adela Craciun}, contentHash: {8602ae}, id: {mDfXfyus9MAAtygHwiTdMX}, rcId: {143197}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Astăzi, ca niciodată,
+Cerul întreg este mai luminos.
+Deodată, pe cer se arată o stea
+Ce vorbește despre Hristos.
+
+[c]
+Azi S-a născut așteptatul Mesia,
+Regele Sfânt, Emanuel.
+Să Îi cântăm toți, în cor, „Aleluia!”
+El este Fiul Lui Dumnezeu!
+
+[v2]
+Astăzi, ca niciodată,
+Mulțimi de îngeri se grăbesc toți în zbor.
+S-aducă o veste din slavă
+Căci azi se va naște un Salvator.

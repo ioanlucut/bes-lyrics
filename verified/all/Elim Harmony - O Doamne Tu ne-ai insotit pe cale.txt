@@ -1,0 +1,25 @@
+[title]
+O, Doamne, Tu ne-ai însoțit pe cale {author: {Elim Harmony}, contentHash: {84b9fb}, id: {5zyDe169yCZFv69U1uEJwp}, rcId: {195500}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: O, Doamne, Tu ne-ai însoțit pe cale,
+În lungul drum ce trece prin pustiu.
+Tu ne-ai condus prin lipsuri și belșug,
+Prin furtuni și foc, spre un loc mai bun!
+Tu ne-ai condus, până aici! :/
+
+[v1]
+Asupriți pe pământ străin,
+Mult prea slabi să ne-mpotrivim,
+Noi plăteam tribut celor de demult.
+Nicidecum locul nu-l găseam,
+Cântul frânt doar îl suspinam,
+Tu ne-ai auzit și ne-ai izbăvit.
+
+[v2]
+Ai zdrobit lanțuri și poveri,
+Moartea-i frânt și-ale ei puteri,
+Din deșert ne-ai scos la un loc frumos.

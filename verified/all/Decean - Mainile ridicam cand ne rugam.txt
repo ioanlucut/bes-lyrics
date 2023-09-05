@@ -1,0 +1,41 @@
+[title]
+Mâinile ridicăm când ne rugăm {author: {Decean}, contentHash: {0e5153}, id: {jsa2wDaH3LwvrtY8bCPzg6}, rcId: {4317}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,e
+
+[v1.1]
+Mâinile ridicăm când ne rugăm,
+Numele Tău chemăm, Ție ne-nchinăm.
+Am venit, Doamne, aici să Te-ntâlnim
+Dumnezeu plin de har ești doar Tu.
+
+[v1.2]
+Te-adorăm doar pe Tine, Te lăudăm,
+Numai Tu ești Dumnezeu,
+Numai Tu, numai Tu.
+
+[c1.1]
+/: Sfânt ești, sfânt ești,
+Doar Tu, Domnul meu!
+Sfânt e, sfânt e doar numele Tău! :/
+
+[c1.2]
+Numai Tu ești Dumnezeu,
+Numai Tu, numai Tu.
+
+[v2.1]
+Mâinile ridicăm, Numele Tău chemăm,
+Am venit, Doamne, aici Ție să ne-nchinăm!
+Ești doar Tu!
+
+[v2.2]
+Te-adorăm doar pe Tine, Te lăudăm,
+Numai Tu ești Dumnezeu,
+Numai Tu, numai Tu.
+
+[e]
+Ești doar Tu.
+Te-adorăm doar pe Tine, Te lăudăm,
+Numai Tu ești Dumnezeu,
+Numai Tu, numai Tu.

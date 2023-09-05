@@ -1,0 +1,35 @@
+[title]
+Cele mai frumoase momente din viață {author: {Vasile & Dani Bălan}, contentHash: {7a87a0}, id: {4pFwXSF4psQBhiMzhhWDRV}, rcId: {6588}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cele mai frumoase momente din viață
+Sunt atunci când ne întâlnim
+Și când lucrătorii din Cuvânt învață
+Cum pe Domnul Isus să-L slujim.
+
+[c]
+/: Noi ne bucurăm în cântare,
+În rugăciune și-n Cuvânt,
+Domnul e prezent în adunare
+Și ne bucurăm în Duhul Sfânt. :/
+
+[v2]
+Cea mai mare jertfă este ascultarea
+De Cuvântul Domnului cel Sfânt.
+Să ne dăm silința toată adunarea,
+Toți să-L împlinim pe-acest pământ.
+
+[v3]
+Cei care ascultă, ca și cei ce-nvață,
+Să-mplinească după cum e scris
+Căci prin împlinire vom avea viață
+Sus la Dumnezeu în paradis.
+
+[v4]
+Minunată, sfântă și adevărată
+Este umplerea cu Duhul Sfânt.
+Astăzi o dă Domnul ca și altădată
+S-avem biruință pe pământ.

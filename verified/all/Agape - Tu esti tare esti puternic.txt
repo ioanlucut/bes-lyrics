@@ -1,0 +1,30 @@
+[title]
+Tu ești tare, ești puternic {author: {Agape}, contentHash: {6ad6f6}, id: {fZHvfUJdXQWrFt4bCFi1VA}, rcId: {123311}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+O, dragoste, ce pentru noi
+Pe cruce sus s-a arătat!
+Ne-a scos din moarte și păcat,
+Isus din morți a înviat!
+Rămâi în toate credincios,
+În calea mea, furtuni oprești.
+Prin adevăr victorios,
+Isus, în mine locuiești!
+
+[c]
+Tu ești tare, ești puternic,
+Tu ești Sfântul Împărat!
+Ești Cuvântul viu și veșnic,
+Tu din morți ai înviat!
+
+[v2]
+Ești început și ești sfârșit,
+Isus, mă ții în mâna Ta!
+Prin harul Tău m-ai mântuit,
+Plătind pe cruce vina mea!
+
+[e]
+/: Tu din morți ai înviat! :/

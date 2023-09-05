@@ -1,0 +1,29 @@
+[title]
+Eroii slavei {author: {Otniel Stirb}, contentHash: {01f068}, id: {xwaTUHgkt6pcmSf33X4Hmi}, rcId: {6816}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se va cânta cântarea minunată,
+Mireasa-și va cânta imnul dorit
+Și se va-ncepe nunta așteptată
+Cu-acei ce-n luptă și-n prigoane-au biruit.
+
+[c]
+/: Eroii slavei vin acum acasă,
+Au biruit în marele necaz
+Și ei vor sta cu Domnul lor la masă,
+El le va șterge lacrima de pe obraz. :/
+
+[v2]
+Din orice neam, din orice seminție,
+Din orice limbă, din orice norod,
+O mare gloată, pentru-mpărăție,
+Isus va strânge-al suferinței rod.
+
+[v3]
+În fața scaunului de domnie,
+S-or apleca cu fața la pământ,
+Vor preamări, vor lăuda pe Domnul,
+Pe Cel ce este Sfânt, de trei ori Sfânt.

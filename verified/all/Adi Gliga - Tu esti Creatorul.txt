@@ -1,0 +1,28 @@
+[title]
+Tu ești Creatorul {author: {Adi Gliga}, contentHash: {9e8668}, id: {qFApZ95RgYRuhY4s73uZo8}, rcId: {6780}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tu ești Creatorul Universului întreg
+Tu ești început și întregire tuturor.
+Stelele și luna glasul Tău îl înțeleg,
+Marea și pământul, tot ce are viață
+Îți dedică existența lor.
+
+[c]
+/: Pe toate le-ai creat,
+Pe toate mâna Ta le ține,
+Toate-mi spun că Tu ești Dumnezeu.
+Ai trimis suflarea Ta și viață peste mine
+Și mai sus de tot ce ești
+Tu ești Tatăl meu. :/
+
+[v2]
+Împărat al slavei, Tu luminii ești Stăpân,
+Îngerii te laudă și oștirile cerești,
+Vin cu bucurie viața mea să Ți-o închin.
+Vreau să-Ți simt prezența,
+Să-Ți ascult cuvântul,
+Să Te-aud șoptind că mă iubești.

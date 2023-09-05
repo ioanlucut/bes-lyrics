@@ -1,0 +1,22 @@
+[title]
+Tu ești bun {author: {Ekklesia}, contentHash: {c32bc9}, id: {sbaTXWKqxrwEPbBtpzF3v6}, rcId: {2462}}
+
+[sequence]
+c,v1,c,v1,b,c
+
+[c]
+Unii spun că nu poți fi găsit,
+Alții spun că nu poți fi văzut,
+Dar știu că-n mine, Doamne, Tu trăiești
+Și-n inimă eu vreau să îmi vorbești.
+
+[v1]
+Tu ești bun și iubirea Ta e-n mine,
+Tu ești bun și iubirea Ta rămâne,
+Tu ești bun și iubirea Ta e-n mine,
+Tu ești bun, Tu ești bun.
+
+[b]
+Numai Tu, Isus,
+Numai Tu îmi ești de-ajuns,
+Numai Tu, Isus, ești Domn.

@@ -1,0 +1,28 @@
+[title]
+A Ta e domnia și puterea {author: {Ekklesia}, contentHash: {2a08d7}, id: {akNSpndFuNmTry61pQDEeG}, rcId: {93393}}
+
+[sequence]
+v1,p,c,v1,p,c
+
+[v1]
+A Ta e domnia și puterea
+Și gloria în veci e a Ta!
+Cer și pământ adoră
+Numele Tău sfânt.
+Moartea e-nfrântă, cerul cântă
+Și slava în veci e a Ta,
+Nu se compară nimic
+Cu numele Tău sfânt.
+
+[p]
+Domn peste domni,
+Tot pământul va cânta:
+„Veșnic Dumnezeu,
+/: Tu ești minunat!” :/
+
+[c]
+Și pământul întreg Te va-nălța,
+Pentru totdeauna,
+Numele Tău sfânt va fi lumină mereu
+Fiindcă slava e a Ta,
+Pentru totdeauna, slava e a Ta!

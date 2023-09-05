@@ -1,0 +1,29 @@
+[title]
+Noi avem o țară minunată {author: {Dan Istrate}, contentHash: {055a24}, id: {nefr4BCE9KXvqg9rzoa62k}, rcId: {220911}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi avem o țară minunată,
+Țara noastră nu-i de pe pământ,
+E acolo-n slava mult visată,
+În Ierusalimul nou și Sfânt.
+
+[c]
+Ierusalim cu temelii de iaspis,
+O, ce dor sfânt de Tine ne-a legat!
+Noi despre Tin’ cântăm și noaptea în vis,
+Ierusalime sfânt și minunat!
+
+[v2]
+Către Tine în continuu zboară
+Dorul nostru fără de sfârșit,
+Ah, ni-i dor de tine, a noastră țară,
+De Ierusalimul pregătit.
+
+[v3]
+Adu, Doamne, ziua minunată
+Când acas’ la Tine vom sosi,
+Să privim cetatea mult visată
+Pe care Tu ne-o vei dărui.

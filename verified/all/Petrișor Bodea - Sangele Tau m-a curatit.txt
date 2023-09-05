@@ -1,0 +1,18 @@
+[title]
+Sângele Tău m-a curățit {author: {Petrișor Bodea}, contentHash: {1a2f1f}, id: {3pkhEcQzBkLjcSQ4mEvW2g}, rcId: {71166}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Sângele Tău m-a curățit,
+Sângele Tău m-a mântuit,
+Sângele Tău viață mi-a dat,
+Ai murit ca eu să fiu iertat.
+
+[c]
+/: Îmi ridic azi mâinile,
+Mă închin în fața Ta,
+Doar Tu meriți să fii lăudat,
+Nimeni nu m-a iubit așa de mult
+Ca să moară pentru vina mea. :/

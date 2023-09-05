@@ -1,0 +1,43 @@
+[title]
+Spală viața mea, Doamne {author: {Speranța}, contentHash: {94a7ef}, id: {jTqDmsXeMcJsUxksxyRyd7}, rcId: {128816}}
+
+[sequence]
+v1,p,c,v2,p2,c2
+
+[v1]
+Spală viața mea, Doamne,
+Atinge-mi inima, Doamne,
+Îndură-Te și de mine!
+Iartă-al meu păcat, Doamne,
+Prin sângele-Ți vărsat, Doamne,
+Să pot privi înspre Tine!
+
+[p]
+Șterge, Doamne, vina mea,
+Să pot privi spre fața Ta!
+
+[c]
+/: Iartă-mă, iartă-mă,
+Mă întorc din drumul meu.
+Iartă-mă, iartă-mă,
+Fă-mă de azi copilul Tău! :/
+
+[v2]
+Atinge gândul meu, Doamne,
+Să aleg mereu, Doamne,
+Ceea ce-i sfânt și valoros.
+Unge ochii mei, Doamne,
+Să pot vedea cu ei, Doamne,
+Drumul ce duce spre Hristos!
+
+[p2]
+Azi mă-ntorc de la pierzare
+Și caut, Doamne, fața Ta.
+Primește-mă, o, Doamne mare,
+Primește-mă, nu mă lăsa!
+
+[c2]
+Iartă-mă, iartă-mă,
+Sfinte, Tată, Dumnezeu.
+Iartă-mă, iartă-mă,
+De astăzi sunt copilul Tău!

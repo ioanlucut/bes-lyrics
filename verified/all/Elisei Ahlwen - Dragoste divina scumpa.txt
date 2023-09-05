@@ -1,0 +1,35 @@
+[title]
+Dragoste divină, scumpă {author: {Elisei Ahlwen}, contentHash: {2e0375}, id: {gTmVRdkCLDNwPnsnXu6kLF}, rcId: {1438}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Dragoste divină, scumpă,
+Ce adânc te dăruiești
+Și, din inima lui Isus,
+Peste vremi, aceeași ești.
+
+[c]
+/: El în cer ne va deschide
+Poarta de mărgăritar
+Și spălați prin al Lui sânge,
+Vom păși salvați prin har. :/
+
+[v2]
+Ca o fiară urmărită,
+Ca un șoim lovit eram.
+Isus m-a scăpat de moarte,
+Peste răni a pus balsam.
+
+[v3]
+Dragoste divină, scumpă,
+Mi-ai iertat orice păcat.
+Vom cânta de fericire,
+Toată viața ne-ncetat.
+
+[v4]
+Iar în clipa înserării,
+Când trudit ajung în prag,
+Voi intra privind la Isus,
+Într-al sfinților șirag.

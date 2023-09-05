@@ -1,0 +1,35 @@
+[title]
+Nu-i prieten lui Isus asemenea {author: {George C. Hugg}, contentHash: {8d67d1}, id: {oe2fTQ4NgB7fgwJh4zDXQf}, rcId: {4026}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu-i prieten lui Isus asemenea,
+Nimenea, nimenea.
+Nimeni nu poate ca El vindeca
+Nimenea, nimenea.
+
+[c]
+Isus ne știe pe noi mai bine
+El poate să ne ajute,
+Nu-i prieten lui Isus asemenea,
+Nimenea, nimenea.
+
+[v2]
+Nu-i sfânt, nu-i tare ca El nimenea,
+Nimenea, nimenea.
+Nu e aproape ca El nimenea,
+Nimenea, nimenea.
+
+[v3]
+Cine ca El te va păstra așa?
+Nimenea, nimenea.
+Nu este cine a iubi așa
+Nimenea, nimenea.
+
+[v4]
+Lăsatu-i-a El pe ai Săi cândva?
+Nicicând nu, nicicând nu
+Scos-a El afară pe cineva?
+Nicicând nu, nicicând nu.

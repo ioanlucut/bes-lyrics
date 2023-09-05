@@ -1,0 +1,47 @@
+[title]
+La calvar {author: {The Messengers}, contentHash: {1302a3}, id: {9ZwhmwjYL2E8dPqXVNY45u}, rcId: {4318}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,b1.1,b1.2,c
+
+[v1.1]
+Uimit de-atâta bogăție
+Ce am găsit-o, Doamne-n Tin’,
+Mă-ntreb, ce-aș fi fără de Tine
+În viața-aceasta de suspin?
+
+[v1.2]
+Credința, pacea, dragostea
+Ce le-am primit din mâna Ta,
+Pentru nimic nu le-aș schimba,
+Isus, ești fericirea mea!
+
+[c]
+La calvar păcatul mi-e șters,
+La calvar eu har primesc,
+La calvar mântuire am în dar,
+Îți mulțumesc, Isus, pentru calvar!
+
+[v2.1]
+Cine sunt eu să pot intra,
+Doamne-n, împărăția Ta?
+Nu merit și nu voi putea
+Să-Ți răsplătesc iubirea Ta.
+
+[v2.2]
+Dar pot să spun la toți, Isus,
+De harul dragostei de sus
+Ce se găsește-n jertfa Ta.
+Veniți și voi la Golgota!
+
+[b1.1]
+De n-ar fi Golgota,
+N-am ști ce-i dragostea,
+N-am ști ce-s bucurii
+Și zâmbet de copii.
+
+[b1.2]
+Eram pierduți pe veci,
+Legați în lanțuri reci
+De moarte și păcat,
+Dar Isus ne-a salvat.

@@ -1,0 +1,31 @@
+[title]
+Câtă splendoare e-n jurul meu {author: {HY Choir}, contentHash: {76946e}, id: {dATYz7RwpPyhZY15pMb922}, rcId: {166195}}
+
+[sequence]
+v1,p,c,v2,p,c,e
+
+[v1]
+Câtă splendoare e-n jurul meu
+Când, Dumnezeu, Tu ești cu mine.
+În încercare uit de greu,
+Când, Domnul meu, Tu ești cu mine.
+
+[p]
+Daca nu ne ești alături, nu ne lăsa să mergem singuri.
+
+[c]
+Vino cu noi să pășim împreună
+Când sunt văi sau vin ploi,
+Te rog, mergi înainte.
+Când Tu ești cu noi, nu privim înapoi,
+Dar noi știm că e mai bine să pășim după Tine.
+Vino cu noi.
+
+[v2]
+Sub aripa-Ți tare de ne ascunzi,
+Știm că totul va fi bine.
+Vrem să-Ți auzim glasul, Păstor iubit,
+Să nu ne-ndepărtăm de Tine!
+
+[e]
+/:Vino cu noi!:/ (7x)

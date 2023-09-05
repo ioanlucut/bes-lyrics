@@ -1,0 +1,35 @@
+[title]
+Sutașul {author: {Cătălin Ciuculescu}, contentHash: {c1bbd7}, id: {kDfBWuyZsEpAwfkvfRC6uB}, rcId: {225535}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Te priveam cu atâta dispreț,
+Te-am lovit fără nici un regret.
+Suferința amară Te chinuia,
+Nu știu cum de-ai putut îndura.
+
+[v2]
+Eu sunt cel ce la moarte Te-a dus,
+Pe la spate tot eu Te-am străpuns.
+Ai căzut sub povara crucii de lemn,
+Drumul morții era mult prea greu.
+
+[v3]
+Eu sunt cel ce-a bătut cuiele,
+Eu sunt cel ce ți-a luat hainele.
+Se scurgeau stropi de sânge din trupul Tău,
+Ai strigat către Dumnezeu.
+
+[v4]
+„Tată, iartă-i căci nu știu ce fac!”
+Înspre cer fruntea Ți-ai ridicat,
+Te-ai uitat și la mine și m-ai iubit,
+Ți-ai închis ochii și ai murit.
+
+[v5]
+Sunt sutașul ce Te-a chinuit,
+Poți, Te rog, să mă ierți, am greșit.
+Îți ofer cu sfială sufletul meu,
+Cred că ești Fiul Lui Dumnezeu!

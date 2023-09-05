@@ -1,0 +1,29 @@
+[title]
+Un nume-mi place-așa de mult {author: {Frederik Whitfield}, contentHash: {a8fb19}, id: {qt5ezFQmWcug93GkEa2nK4}, rcId: {62793}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un nume-mi place-așa de mult,
+Îl pomenesc mereu.
+Aș vrea întruna să-L ascult,
+Chiar când drumul e greu.
+
+[c]
+El e Isus Hristos,
+Pe El eu Îl iubesc,
+El e cel mai frumos,
+E Mirele ceresc.
+
+[v2]
+Cuvântul Lui spune așa
+Către cel osândit,
+Căci Isus, sus pe Golgota,
+Pentru noi S-a jertfit.
+
+[v3]
+În numele Lui azi mă-nchin
+Și-L rog pe Tatăl sfânt,
+Să-mi dea din Duhul Său divin,
+Aici pe-acest pământ.

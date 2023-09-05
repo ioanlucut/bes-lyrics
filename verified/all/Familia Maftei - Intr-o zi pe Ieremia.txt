@@ -1,0 +1,47 @@
+[title]
+Într-o zi pe Ieremia {author: {Familia Maftei}, contentHash: {5e1aa4}, id: {eMFSBzpngKRHFZXtjsrenK}, rcId: {184006}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Într-o zi, pe Ieremia
+Domnul îl înștiințează,
+La olar să meargă-n casă,
+Ca să vadă cum lucrează.
+
+[v1.2]
+El s-a dus văzând pe roată,
+Vasul ce nu izbutise
+Și, luând o altă formă,
+Și-un alt vas din el făcuse.
+
+[c]
+/: Tot la fel noi suntem lutul,
+Însă Domnul e Olarul,
+Să lăsăm să prelucreze,
+Vasul ca să curgă harul. :/
+
+[v2.1]
+În castele și-n palate
+Nu sunt vase doar de aur,
+Sunt de-argint, de lemn, țărână,
+Ce nu-s toate din tezaur.
+
+[v2.2]
+Întrebuințate-s toate,
+Dar nu în aceleași zile,
+Sunt de cinste, de ocară,
+Lăudate sau umile.
+
+[v3.1]
+Dac-un vas se curățește,
+Domnul face vas de cinste.
+Îl albește, îl sfințește,
+S-aducă podoabe sfinte.
+
+[v3.2]
+Vasul nu-ntreabă Olarul
+Cum e prelucrat să-i spună,
+Domnul face-un vas destoinic,
+Pentru o lucrare bună.

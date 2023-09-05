@@ -1,0 +1,29 @@
+[title]
+Ca un copil {author: {Adi Calbajos}, contentHash: {bfa65c}, id: {q3vejaZNiayLcxCFxW2Bwp}, rcId: {121522}}
+
+[sequence]
+c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
+
+[v1]
+Ca un copil mă țin de brațul Tău,
+Tu mă cunoști, vezi pașii mei mereu.
+Cu bunătate mereu mă înconjori
+Și-mi amintești de mila Ta din zori.
+
+[c1.1]
+/: Vreau sufletul să mi-l înalți,
+Să mă inunde Duhul Tău,
+De dragoste vreau să fiu plin
+Doamne, Te rog!
+
+[c1.2]
+Lasă Cuvântul Tău sfințit
+Să schimbe inima mea acum,
+Viața să-mi fie ca un dar, pe-al Tău altar.
+Doamne, Te rog! :/
+
+[v2]
+Ești Tatăl meu, cu dragoste mă ții,
+Să Te slujesc vreau, Doamne, în orice zi!
+Mă-nchin cu drag acum, în fața Ta,
+Sunt fiul Tău și-mi place voia Ta!

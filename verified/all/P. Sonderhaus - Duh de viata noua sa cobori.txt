@@ -1,0 +1,25 @@
+[title]
+Duh de viață nouă să cobori {author: {P. Sonderhaus}, contentHash: {30eaf8}, id: {siMebkc1yrAoEa5TwQhqDg}, rcId: {1901}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Duh de viață nouă să cobori Focul sfânt,
+Eu Te rog, cu dor
+Și o viață sfântă Tu-mi vei da
+Azi și pururea.
+
+[c]
+/: Prin puterea Ta eu biruiesc,
+Clipe fericite eu trăiesc.
+De Hristos îmi amintesc mereu,
+Să-L port în pieptul meu mereu,
+Roada Ta bogată, pururea
+Umple viața mea. :/
+
+[v2]
+Pentru suflet ești mângâietor,
+Pentru viață-ndrumător,
+Inima și duhu-nflăcărezi
+Ție să-Ți lucrez.

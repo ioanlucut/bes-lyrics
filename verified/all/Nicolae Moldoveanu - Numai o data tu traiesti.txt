@@ -1,0 +1,29 @@
+[title]
+Numai o dată tu trăiești {author: {Nicolae Moldoveanu}, contentHash: {a6c8f2}, id: {8RhVRecBQCKHz4uxVqrEjr}, rcId: {5393}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Numai o dată tu trăiești
+Și cui ai vrea să îi slujești?
+/: Numai o inimă tu ai
+Și cui ai vrea să o predai? :/
+
+[v2]
+O, de-ai sluji tu lui Isus
+Și inima s-o-ndrepți în sus,
+/: Isus ar fi stăpânul tău,
+Iar tu ai fi copilul Său. :/
+
+[v3]
+El ți-ar aduce bucurii
+Pe care tu nici nu le știi,
+/: Și-n clipe grele de dureri
+El ți-ar aduce mângâieri. :/
+
+[v4]
+Atunci întreagă viața ta,
+Cu bucurie, ai cânta
+/: Și-ai spune pururea oricui
+Ce dulce-i fericirea Lui. :/

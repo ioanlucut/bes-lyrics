@@ -1,0 +1,11 @@
+[title]
+Hristos a înviat din morți {author: {Alexandru Podoleanu}, contentHash: {44e8d4}, id: {eBDRW8PdTVjGqivayppCnL}, rcId: {1891}}
+
+[sequence]
+v1
+
+[v1]
+Hristos a înviat din morți
+Cu moartea pe moarte câlcând
+Și celor din morminte,
+Viață dăruindu-le.

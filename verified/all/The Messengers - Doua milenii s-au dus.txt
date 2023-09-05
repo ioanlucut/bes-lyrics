@@ -1,0 +1,29 @@
+[title]
+Două milenii s-au dus {author: {The Messengers}, contentHash: {cc1f3f}, id: {qnrcrkEeh6NeM939GnY1Nd}, rcId: {111605}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Două milenii s-au dus,
+Soarele e la apus,
+A doua zi e pe sfârșit,
+El ce-a promis va-mplini.
+
+[c]
+/: Isus Hristos va reveni,
+Glorie mărire,
+Să-Și ia mireasa-n veșnicii.
+Maranata! Vine! :/
+
+[v2]
+Candela plină s-avem
+Și-n rugăciuni să veghem.
+La seceriș să lucrăm
+Cât mai mulți snopi s-adunăm.
+
+[e]
+Aleluia, Mărire Domnului!
+Aleluia, Se-aud pașii Lui!
+Aleluia, Osana Îți cântăm!
+Isus, Te așteptăm!

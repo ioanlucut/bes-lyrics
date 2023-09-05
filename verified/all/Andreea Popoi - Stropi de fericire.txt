@@ -1,0 +1,40 @@
+[title]
+Stropi de fericire {author: {Andreea Popoi}, contentHash: {f67a0b}, id: {bi2FkzFJ6SvhyhaVazJMLQ}, rcId: {2829}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Stropi de fericire,
+Lacrimi de iubire,
+Astăzi noi sărbătorim.
+Nuntă minunată, binecuvântată,
+Doamne, ce măreață zi!
+
+[c]
+Doar fericire
+În calea voastră să aveți,
+Râu de iubire
+Să inunde ale voastre vieți,
+De bucurie să aveți parte neîncetat,
+Cu Salvatorul și Mântuitorul nostru minunat.
+
+[v2]
+Mire, ai aleasă albă și frumoasă,
+Floare dalbă printre flori,
+Lacrimi de iubire,
+Stropi de fericire,
+Cer cu soare fără nor.
+
+[v3]
+Draga mea mireasă,
+Albă și frumoasă,
+Ai ajuns această zi.
+Zi de sărbătoare, unică sub soare,
+Plină doar de bucurii!
+
+[v4]
+Să trăiești smerită, să fii fericită
+Căci El este Domnul tău.
+Și în veșnicie, plină de bucurie
+Veți sta lângă Dumnezeu.

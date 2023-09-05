@@ -1,0 +1,33 @@
+[title]
+Acum e timpul pentru-o ungere nouă {author: {Decean}, contentHash: {8f104e}, id: {fgpVXXFk1G1P6h2ybYYFt7}, rcId: {6840}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Acum e timpul pentru-o ungere nouă,
+Acum e timpul pentru-o revărsare proaspătă.
+Ca fii și fiice ale Regelui,
+Noi azi ne ridicăm și declarăm:
+
+[c]
+/: Aceasta e :/ (3x)
+Ziua Domnului.
+/: Mă voi bucura: :/ (3x)
+Este ziua Ta.
+/: Aceasta e :/ (3x)
+Ziua Domnului.
+
+[v2]
+La început Domnul a creat
+Și pentru slava Lui creația cântă-n cor.
+Fiecare fiu și fiică,
+Domnul ne ridică, fiți lumini.
+Fiecare fiu și fiică,
+Domnul ne ridică-n acest neam.
+Declarăm:
+
+[e]
+Lasă gloria Ta să curgă acum
+Și să umple-ntreg pământ
+Declarăm:

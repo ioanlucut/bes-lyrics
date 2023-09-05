@@ -1,0 +1,29 @@
+[title]
+Ne-om scutura ca pomii primăverii {author: {Iuliana Leontiuc}, contentHash: {71b501}, id: {pVmPHPQ1JyKY3L7VU4R3mF}, rcId: {5001}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ne-om scutura ca pomii primăverii,
+Ca albe flori cădea-vom la pământ,
+/: Vasul de lut gusta-va ceața serii,
+Dar sufletul va fi la Cel Preasfânt. :/
+
+[v2]
+Ne-om odihni sub razele de soare,
+Ca grâul holdei proaspăt secerat,
+/: Va putrezi fărâma trecătoare,
+Dar grâul vei păstra părinte-nalt. :/
+
+[v3]
+Noi vom zbura ca păsările toamna
+Și frunze vechi cădea-vor pe cărări,
+/: Trup ostenit, uita-vei ce e teama
+Când sufletu-ți pleca-va spre-alte zări. :/
+
+[v4]
+Și vom dormi ca grâul sub zăpadă,
+Ne-om liniști de tot ce-am suferit,
+/: Nădejdea noastră-n El n-are să cadă,
+Vom învia cu primii ghiocei. :/

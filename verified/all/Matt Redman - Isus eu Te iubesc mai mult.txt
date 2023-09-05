@@ -1,0 +1,23 @@
+[title]
+Isus, eu Te iubesc mai mult {author: {Matt Redman}, contentHash: {de7316}, id: {8EopjdjBGpZS5shB3LiqNr}, rcId: {5136}}
+
+[sequence]
+v1,p,c
+
+[v1]
+Isus, eu Te iubesc mai mult
+Decât iubesc orice pe-acest pământ.
+Ești tot ce-mi doresc
+Și toată viața mea Ți-o-nchin.
+Cu tot ce sunt pe Tine Te slăvesc,
+Eu Te slăvesc.
+
+[p]
+Și îngerii Te adoră,
+Copiii Tăi Te laudă.
+
+[c]
+/: Ești tot ce am, ești Domnul meu,
+Mă-ncredințez în brațul Tău,
+Ești Domnul meu, ești Tatăl meu,
+Tu nu poți fi înlocuit. :/
