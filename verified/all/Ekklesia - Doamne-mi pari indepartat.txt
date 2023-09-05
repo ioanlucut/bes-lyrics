@@ -1,0 +1,32 @@
+[title]
+Doamne-mi pari îndepărtat {author: {Ekklesia}, contentHash: {fbb345}, id: {kGidXPzDUbSA1pAHbKYugJ}, rcId: {7384}}
+
+[sequence]
+v1,p,c,v2,p,c
+
+[v1]
+Doamne-mi pari îndepărtat,
+Chiar ani lumină sau un mai lung drum.
+Deși credința mi-am păstrat,
+Mărturisesc acum: „Nu mă mai simt ascultat.”
+
+[p]
+Dar nu știu ce să mai spun
+Și nu știu a-nainta,
+Însă harul ce-l primesc
+Îmi schimbă inima.
+
+[c]
+/: Voi cânta, Te voi lăuda,
+Chiar în ceasul cel mai rău.
+Prin durere și prin greu
+Voi cânta, Te voi lăuda.
+Mâinile le-am ridicat,
+Fiindcă ești adevărat,
+Voi cânta... :/
+
+[v2]
+Nu pot să întrezăresc
+Gândul Tău și planul cel ceresc.
+Doar în Tine-am să mă-ncred
+Știind că ai murit să mă salvezi.

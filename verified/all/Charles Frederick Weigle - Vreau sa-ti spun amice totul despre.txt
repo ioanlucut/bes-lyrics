@@ -1,0 +1,48 @@
+[title]
+Vreau să-ți spun, amice, totul despre {author: {Charles Frederick Weigle}, contentHash: {1e9373}, id: {twAng8oPg76RcnDF5LAnxX}, rcId: {4195}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Vreau să-ți spun, amice,
+Totul despre Isus.
+Cum în El aflat-am
+Prieten minunat.
+
+[v1.2]
+Vreau să spun cum Domnul
+Viața îmi schimbase
+Și a lucrat în chip
+Atât de minunat.
+
+[c]
+Nu există prieten ca și Isus,
+Numai El păcatul mi-a spălat.
+Chiar durerea mea
+Cea mare mi-o luase.
+O, ce prieten minunat!
+
+[v2.1]
+Păcătos am fost
+Când Isus mă găsise,
+Chinuit nespus
+De falsele plăceri.
+
+[v2.2]
+Dar Isus întinse
+Mâna-I salvatoare,
+Mi-a arătat apoi
+Un drum ce duce-n cer.
+
+[v3.1]
+Bucurii nespuse
+Vin când sunt cu Tine
+Și iubirea-I
+Tot mai mult o înțeleg.
+
+[v3.2]
+Pentru ce S-a coborât
+Să mă salveze,
+Nu pot ști,
+Dar sus în cer am să-L întreb.

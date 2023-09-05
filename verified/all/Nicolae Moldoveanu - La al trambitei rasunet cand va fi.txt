@@ -1,0 +1,33 @@
+[title]
+La al trâmbiței răsunet când va fi {author: {Nicolae Moldoveanu}, contentHash: {2f6039}, id: {tRbQXamxSkZVYCfqe3uxeX}, rcId: {5745}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+La al trâmbiței răsunet când va fi
+Și când Tu cu mare slavă vei veni,
+Cei ce-s astăzi în morminte s-or scula
+Și în fața Ta, Isuse, toți vor sta.
+
+[c]
+/: Adă, Doamne, ziua aceea mai curând,
+Ziua sfântă-a noului așezământ.:/
+
+[v2]
+Ce plăcut va fi atunci și frumos,
+Când domnia va fi dată Lui Hristos.
+El e soarele dreptății, El, Isus,
+Soarele ce strălucește făr-apus.
+
+[v3]
+Noaptea, de păcat, amară s-o sfârși,
+Când dreptatea lui Isus va străluci.
+El va șterge lacrimile c-un cuvânt,
+Aducând o pace sfântă pe pământ.
+
+[v4]
+Fi-va, Doamne, tot cuprinsul un Betel,
+Va tânji orice făptură după El.
+Toți, uniți într-o simțire vor servi
+Preamărind a Ta iubire Ți-om sluji.

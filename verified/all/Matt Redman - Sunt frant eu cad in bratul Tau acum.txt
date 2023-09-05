@@ -1,0 +1,15 @@
+[title]
+Sunt frânt, eu cad în brațul Tău acum {author: {Matt Redman}, contentHash: {e936d8}, id: {v6DBgGHrwdkpSyxo5ESBtG}, rcId: {5142}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+/: Sunt frânt, eu cad în brațul Tău acum,
+Am obosit de-al vieții lung drum.
+Eu vin acum, îngenunchez,
+Păcatul meu m-apasă greu. :/
+
+[c]
+/: În Tine mă încred, pe Tine Te caut,
+Povara să-mi iei. :/

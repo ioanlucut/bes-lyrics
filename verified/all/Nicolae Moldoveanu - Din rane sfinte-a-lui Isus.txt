@@ -1,0 +1,60 @@
+[title]
+Din rane sfinte-a-lui Isus {author: {Nicolae Moldoveanu}, contentHash: {72380f}, id: {mKaotBPqB4aHWaU77X8yjp}, rcId: {5496}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2,v5.1,v5.2
+
+[v1.1]
+Din rane sfinte-a-lui Isus,
+Izvor de sânge-a curs
+Și cine se scufundă-n El
+Deplin s-a curățit.
+
+[v1.2]
+/: Deplin s-a curățit,
+Și cine se scufundă-n El
+Deplin s-a curățit. :/
+
+[v2.1]
+Tâlharul pe cruce murind
+Prin El s-a mântuit
+Și-acum cei păcătoși, la fel,
+Deplin s-or curăți.
+
+[v2.2]
+/: Deplin s-or curăți :/
+Și-acum cei păcătoși, la fel,
+Deplin s-or curăți.
+
+[v3.1]
+De când și eu m-am încrezut
+În harul Lui cel sfânt,
+Mă duc mereu la Golgota,
+Pe Domnul lăudând.
+
+[v3.2]
+/: Pe Domnul lăudând :/
+Mă duc mereu la Golgota,
+Pe Domnul lăudând.
+
+[v4.1]
+Al Tău sfânt sânge, Mielule,
+Nicicând nu va scădea
+Până când cei ce-s mântuiți
+În cer Te vor vedea.
+
+[v4.2]
+/: În cer Te vor vedea, :/
+Până când cei ce-s mântuiți
+În cer Te vor vedea.
+
+[v5.1]
+Un cântec nou Îți voi cânta,
+Când ’colo voi sosi,
+Când trupul meu cel ostenit
+Eu îl voi părăsi.
+
+[v5.2]
+/: Eu îl voi părăsi, :/
+Când trupul meu cel ostenit
+Eu îl voi părăsi.

@@ -1,0 +1,41 @@
+[title]
+Amăgit am fost de lume {author: {Ovidiu Liteanu}, contentHash: {65f820}, id: {iRrsKR3AbEDKNet7XjeqZJ}, rcId: {55778}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Amăgit am fost de lume,
+Amăgit am fost mereu,
+Până-n ziua-aceea mare
+/: Când am fost salvat și eu. :/
+
+[c]
+/: M-a găsit, m-a salvat Dumnezeu!
+/: Mi-a iertat, :/ mi-a spălat păcatul meu!
+Lui Isus inima I-am predat,
+Aleluia-I cânt, sunt salvat! :/
+
+[v2]
+Banii mi-au fost amăgirea,
+Banii m-au orbit mereu
+Și cântam deșertăciunii,
+/: Morții sufletului meu. :/
+
+[v3]
+Cei ce nu-L cunosc pe Isus
+Astăzi mă batjocoresc,
+Dar îndur orice ocară
+/: Pentru Domnul meu ceresc. :/
+
+[v4]
+Toți cei dragi m-au dat uitării
+Pentru simplul crez al meu,
+Dar eu am o mângâiere
+/: Nu mă uită Dumnezeu. :/
+
+[v5]
+Nu mai am nicio îndoială,
+Isus este Domnul meu!
+Dându-și viața la Golgota
+/: Am primit viață și eu. :/

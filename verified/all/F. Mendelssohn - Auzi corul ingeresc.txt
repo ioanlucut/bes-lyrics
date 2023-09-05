@@ -1,0 +1,49 @@
+[title]
+Auzi corul îngeresc {author: {F. Mendelssohn}, contentHash: {7e7add}, id: {dhkZJGiYka1LmHdHtoWR5E}, rcId: {63943}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Auzi corul îngeresc,
+Dumnezeu din cer slăvesc!
+Cântă imnuri înălțând,
+Pace fie pe pământ!
+
+[v1.2]
+Dumnezeu ce a promis
+Pe-al Său Fiu El L-a trimis.
+/: Auzi corul îngeresc,
+Cântând Tatălui ceresc! :/
+
+[c]
+/: Bine ai venit, Isus!
+Bine ai venit, Isus!
+Lasă Gloria Ta
+Strălucind și azi, Rege minunat!
+Aleluia.
+Aleluia. :/
+
+[v2.1]
+Cel din cerul minunat,
+Preamărit și înălțat,
+Pe Pământ jos a venit
+Și ca noi trup a primit.
+
+[v2.2]
+S-a jertfit, a pătimit,
+Chiar și moarte-a suferit,
+/: De păcate ne-a spălat,
+Viață nouă El ne-a dat! :/
+
+[v3.1]
+Toate de la El primim,
+Când prin rugăciuni venim.
+Să-I deschidem inima,
+Ca să intre El în ea.
+
+[v3.2]
+Și ne va conduce sus,
+Unde-s fericiri nespus,
+/: Toți în cor Îi vom cânta:
+„Mare este slava Sa!” :/

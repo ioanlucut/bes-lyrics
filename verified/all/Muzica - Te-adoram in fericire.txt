@@ -1,0 +1,41 @@
+[title]
+Te-adorăm în fericire {author: {Muzica}, contentHash: {3a5368}, id: {8A5PUyVfCJourYjspZF6jb}, rcId: {1208}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
+
+[v1.1]
+Te-adorăm, în fericire,
+Domn al gloriei cerești,
+Ce cu raza-Ți de iubire
+Inimile ne-ncălzești.
+
+[v1.2]
+O, alungă nori și ceață
+De-ntuneric și păcat
+Și ne luminează viața,
+Cu Duhul Tău Sfânt, curat.
+
+[v2.1]
+Orice lucru mic sau mare,
+Ce de Tine-a fost creat
+Îți vestește-nțelepciunea
+Și puterea ne-ncetat.
+
+[v2.2]
+Munți și mare, deal și vale,
+Floarea în splendoarea sa,
+Toate lucrurile Tale,
+Ne vestesc iubirea Ta.
+
+[v3.1]
+Dătător de fericire
+Ești Tu, Doamne, tuturor,
+Râu de viață și iubire
+Curge din al Tău izvor.
+
+[v3.2]
+Tu ești Tatăl, Hristos - Frate,
+În Tine toți ne iubim.
+Învață-ne-a ierta toate
+Și ca frați noi să trăim.

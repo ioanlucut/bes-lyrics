@@ -1,0 +1,22 @@
+[title]
+La Tine, Doamne {author: {Nicolae Moldoveanu}, contentHash: {6205d2}, id: {u7TFcgtYjEcVfuTTFdnZCA}, rcId: {5278}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: La Tine, Doamne, Îmi înalț sufletul. :/
+
+[c]
+/: Domnul meu, mă-ncred în Tine,
+Să nu fiu dat de rușine,
+Cel rău să nu se bucure de mine! :/
+
+[v2]
+/: Nu-Ți aminti greșelile mele. :/
+
+[v3]
+/: Învață-mă cărările Tale. :/
+
+[v4]
+/: Cei credincioși sunt prieteni cu Domnul. :/

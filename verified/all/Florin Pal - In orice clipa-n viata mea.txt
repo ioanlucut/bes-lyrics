@@ -1,0 +1,35 @@
+[title]
+În orice clipă-n viața mea {author: {Florin Pal}, contentHash: {344fbf}, id: {uYKetKJuDiaCMEfXdbe4KK}, rcId: {59727}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În orice clipă-n viața mea
+Stau liniștit pe stâncă.
+Ca pasărea-n furtuna grea,
+În El am pace sfântă.
+
+[c]
+Și de ce oare să mă tem?
+Tu ești lângă mine când Te chem.
+Și de ce oare n-aș cânta?
+Căci Tu mi-ai salvat viața mea.
+
+[v2]
+În orice clipă-L voi chema,
+Să-mi aline durerea.
+Când singur sunt, îndurerat
+În El am mângâierea.
+
+[v3]
+Să spună toți din jurul meu,
+Că n-am aici dreptate.
+Eu cred în El, cuvântul sfânt,
+De-acum și pân’ la moarte.
+
+[v4]
+Ca orbu-n lacrimi eu Te chem,
+Condu-mă Tu prin toate.
+În orice clipă-n viața mea,
+Fii Domnul meu și Frate.

@@ -1,0 +1,27 @@
+[title]
+Pe calea îngustă e luptă {author: {Sanford F. Bennett}, contentHash: {32969e}, id: {w5zFuzq8EyE87jJLsntw9W}, rcId: {5036}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe calea îngustă e luptă,
+Plăceri, deșertăciuni, pe ea nu-s,
+Nu-i împodobită, da-i dreaptă
+Și e bună, că duce în sus.
+
+[c]
+/: Drept la cer conduce,
+A lupta este bine pe ea. :/
+
+[v2]
+Viața-aceasta nu ține-așa mult,
+Deci, n-o pierde fără de folos.
+Mergi pe calea-aceasta cu avânt
+Căci ea te duce pân’ la Hristos.
+
+[v3]
+Chin, dureri vei afla uneori,
+Piedici multe vei întâmpina,
+Dar vei fi însoțit de Isus
+Și vei merge spre cer parcă-n zbor.

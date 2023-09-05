@@ -1,0 +1,29 @@
+[title]
+Zic Betleem, zic și Golgota {author: {Puiu Chibici}, contentHash: {5648be}, id: {aSp9xQeWLBaU7bR29j6j5N}, rcId: {5501}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zic Betleem, zic și Golgota,
+Zic Ghetsimani și mă-nfior,
+Când zic Isus inima-mi plânge
+Și rănile parcă mă dor.
+
+[c]
+Pentru mine, pentru tine a răbdat,
+Pentru mine, pentru tine a plâns,
+Pentru mine, pentru tine a murit,
+El, Isus Hristos.
+
+[v2]
+De merg la iesle sau la cruce,
+E-un drum cu lacrimi presărat,
+Mă plec adânc cu umilință
+Spre locul unde m-ai salvat.
+
+[v3]
+Tu ai venit de bună voie
+Să mă răscumperi din păcat,
+Eu Te ador și Îți dau slavă
+Căci Tu ești Marele-Împărat.

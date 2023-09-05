@@ -1,0 +1,35 @@
+[title]
+Doamne ești bun {author: {Domini}, contentHash: {b21242}, id: {4xJT3zRivvXabmLjafZCoo}, rcId: {120642}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Doamne ești bun, Doamne ești sfânt,
+Și sfințenia Ta oglindească-se-n noi.
+Plin de-ndurare, gata să ierți
+Pe cei ce Te cheamă smeriți.
+
+[v1.2]
+Doamne ești mare, Doamne ești drept,
+Ești statornic în veci, răspunzi când Te chem.
+Îndurător, Doamne, ești milostiv,
+Tu ești nădejdea mea, stâncă tare!
+
+[c]
+Ești bucuria mea în orice-ncercare,
+Ești adăpostul meu când totul mi-e greu,
+Ești cetățuia mea, Tu-mi ești stâncă tare
+Și trăiesc Doamne-n Tin’, trăiesc pentru a Te lăuda.
+
+[v2.1]
+Făr’ de sfârșit și început,
+Îndelung răbdător, ești nemărginit,
+Îmbrăcat în lumină, atotștiutor,
+Făr’ de hotare Tu ești.
+
+[v2.2]
+Puternic în fapte și milostiv,
+A Ta bunătate m-a copleșit.
+Iubirea-ți perfectă m-a cucerit,
+La pieptul Tău găsesc azi scăpare!

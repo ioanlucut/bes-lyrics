@@ -1,0 +1,29 @@
+[title]
+Când încă nu eram Te-ai gândit la mine {author: {The Messengers}, contentHash: {f5763e}, id: {csBH1wvFc6raAE8tyB2JXW}, rcId: {7116}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când încă nu eram, Te-ai gândit la mine,
+Când nici nu existam, Isus, mă cunoșteai.
+Pe dealul Golgotei, pe via Dolorosa
+Purtai păcatul meu amar, pe cruce la Calvar.
+
+[c]
+Cuiele nu Te-au ținut pe cruce,
+Puteai atât de lesne să cobori,
+Dar dragostea Ta pentru omenire
+Te-a pironit, gândindu-Te la noi.
+
+[v2]
+Nu Te-am văzut, cum Te-a văzut Maria
+Și mâna nu mi-am pus-o în mâna Ta
+Ca pipăind să cred că ești Isus, Mesia,
+Cred c-ai murit și-ai înviat să fiu și eu salvat.
+
+[v3]
+Cu dragoste prin jertfă m-ai mântuit,
+Iertat sunt de păcate și-s fericit.
+În legământ am spus: „Te voi urma în viață
+Isus, ești Domnul meu ceresc, mă-nchin și Te slăvesc!”

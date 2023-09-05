@@ -1,0 +1,35 @@
+[title]
+Pentru Tine vreau, Isuse {author: {Mihaela Oancea}, contentHash: {f2d15f}, id: {vwCMZv59UMYPyq3HLc9rv9}, rcId: {4141}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Pentru Tine vreau, Isuse,
+Toată viața să trăiesc,
+Adevărul Tău în lume
+Și-al Tău Nume să-L vestesc!
+
+[c]
+/: Pentru Tine vreau, Isuse,
+Toată viața să mă lupt,
+Până-n clipa sfântă-n care
+Lanțul tare fi-va rupt! :/
+
+[v2]
+Pentru Tine vreau, Isuse,
+Să-nving orice suferințe.
+Am ales a jertfei Cale
+Pentru-ale Tale biruinți!
+
+[v3]
+Pentru Tine-aș vrea, Isuse,
+Să trăiesc, să cânt, să mor,
+Să vestesc ale Tale sfinte,
+Dulci cuvinte tuturor!
+
+[v4]
+Pentru tine, drag Isuse,
+Tot ce am, de mi-aș jertfi,
+N-am să-Ți pot, cu viața toată,
+Niciodată răsplăti!

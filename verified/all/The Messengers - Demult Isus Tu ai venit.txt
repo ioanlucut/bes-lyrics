@@ -1,0 +1,35 @@
+[title]
+Demult, Isus, Tu ai venit {author: {The Messengers}, contentHash: {7f4cce}, id: {vfA47pXDR6zE2Dp2FY1uoT}, rcId: {1792}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Demult, Isus, Tu ai venit,
+Pe-acest pământ Tu ne-ai găsit,
+/: În lumea noastră de păcat
+Și-n dragoste Tu ne-ai salvat. :/
+
+[v2]
+Sunt două mii de ani de-atunci,
+De când în Betleem, pe lunci,
+/: Păstorii-au auzit cântând
+„Slavă în cer și pe pământ!” :/
+
+[v3]
+O stea răsare-n Răsărit
+Pe cei trei magi călăuzind.
+/: Unde e Pruncul-Împărat
+În Betleemu-ndepărtat? :/
+
+[v4]
+Azi nu mai e în Betleem,
+Trăiește-I viu la Dumnezeu,
+/: Dar se coboară pe pământ
+În inima omului frânt! :/
+
+[v5]
+De-l ai pe El, pe Dumnezeu,
+Ce s-a născut în Betleem,
+/: Ai bogăția Cerului
+În așteptarea Mirelui! :/

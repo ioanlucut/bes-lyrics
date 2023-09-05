@@ -1,0 +1,29 @@
+[title]
+Vine o zi, vine-n curând {author: {Fratii Pal}, contentHash: {f04ae2}, id: {wLtaPgWwyR1bKK6JjpAi5f}, rcId: {201854}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vine o zi, vine-n curând,
+Când Cel ce-a înviat va reveni.
+Orice popor, din orice neam,
+Îl vor vedea, dar mulți vor amuți.
+
+[c]
+/: Isus Hristos, Luceafărul puternic,
+Va răsări din nou pentru cei sfinți
+Și-atunci acolo-n slava Sa cerească
+Îi va lua pe cei ce-s pregătiți. : /
+
+[v2]
+N-a mai rămas decât puțin
+Căci semnele acum ne prevestesc,
+Cuvântul sfânt se va-mplini:
+Isus Hristos din nou va reveni!
+
+[v3]
+Astăzi cu toți vă pregătiți,
+Căci ușa harului nu s-a închis.
+Mai este loc la nunta Sa,
+Nu neglija, c-atunci vei regreta!

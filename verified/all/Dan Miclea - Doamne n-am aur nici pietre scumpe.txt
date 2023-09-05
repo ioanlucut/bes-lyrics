@@ -1,0 +1,29 @@
+[title]
+Doamne, n-am aur, nici pietre scumpe {author: {Dan Miclea}, contentHash: {7da136}, id: {sf4iMnaXqJ9epR6Yx6G7vn}, rcId: {5319}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne, n-am aur, nici pietre scumpe,
+Dar am tot dreptul să fiu al Tău!
+/: Să spună-oricine, orice ar spune,
+Eu am tot dreptul să fiu al Tău. :/
+
+[v2]
+Chiar alungat de toți dacă aș fi,
+Eu am tot dreptul să fiu al Tău,
+/: Căci jertfa sfântă de pe Golgota
+Îmi dă tot dreptul să fiu al Tău. :/
+
+[v3]
+Doresc din suflet să-Ți slujesc Ție,
+Căci am tot dreptul să fiu al Tău!
+/: Aici în lume și-n veșnicie,
+Eu am tot dreptul să fiu al Tău. :/
+
+[v4]
+Inima-mi cântă de bucurie:
+„Eu am tot dreptul să fiu al Tău”
+/: Spre cer, întruna, El mă conduce,
+Căci mi-a dat dreptul să fiu al Său. :/

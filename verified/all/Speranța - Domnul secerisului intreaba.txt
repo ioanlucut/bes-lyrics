@@ -1,0 +1,35 @@
+[title]
+Domnul secerișului întreabă {author: {Speranța}, contentHash: {b53414}, id: {d8Lsr1PvZTdRYRKiTFS5mc}, rcId: {3109}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Domnul secerișului întreabă:
+„Cine pleacă azi cu-al Meu Cuvânt?
+Cine, la cei păcătoși, degrabă,
+Va vesti mesajul Meu cel sfânt?”
+
+[c]
+/: Doamne bun, iată-mă!
+Gata sunt acuma să-Ți răspund.
+Doamne bun, iată-mă!
+Doamne, iată-mă, trimite-mă! :/
+
+[v2]
+Din altar, când ai luat tăciune
+Și-ai sfințit, cu el, pe-al Tău profet,
+Plin de Duh, el a-nceput a spune:
+„Iată-mă, cuvântul Tău aștept!”
+
+[v3]
+Câte mii se pierd azi în păcate,
+N-auziți voi plânsul lor amar?
+Ei, de mântuire stau departe
+Mergeți și-i chemați, acuma chiar!
+
+[v4]
+Timpul secerișului se duce,
+Ușa harului se va-ncuia.
+Nu vreți voi toți oamenii să apuce
+Fericirea de-a intra pe ea?

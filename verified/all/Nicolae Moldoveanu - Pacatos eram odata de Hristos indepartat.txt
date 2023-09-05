@@ -1,0 +1,36 @@
+[title]
+Păcătos eram odată, de Hristos îndepărtat {author: {Nicolae Moldoveanu}, contentHash: {17e8a5}, id: {xkzSbV4XFRN7QtxukzEeB8}, rcId: {5286}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Păcătos eram odată,
+De Hristos îndepărtat,
+Dar El auzise plânsul meu amar.
+Pe-ale Lui brațe m-a luat,
+De păcate m-a iertat
+Și acum trăiesc cântând: „Aleluia!”
+
+[c]
+O, glorie lui Isus! Aleluia Îi cântăm,
+Numele Lui cel sfânt noi să Îl onorăm.
+Eu inima mi-am deschis-o
+Ție, Părinte ceresc,
+Și cântând: „Aleluia!”, acum trăiesc.
+
+[v2]
+Lumea ce-o-ntâlnesc adesea,
+Mă îndeamnă să-o iubesc,
+Dar eu pofta ei nu o mai doresc nicicând!
+Inima mi-e-ndreptată
+La dulcele meu Isus,
+Și acum trăiesc „Aleluia!” cântând.
+
+[v3]
+Sus pe străzile din glorie,
+Când la țărm voi fi ajuns,
+După ce-mi va spune c-am luptat de-ajuns,
+Domnul Isus m-a duce
+Și la dreapta Lui voi sta
+Unde voi trăi cântând: „Aleluia!”

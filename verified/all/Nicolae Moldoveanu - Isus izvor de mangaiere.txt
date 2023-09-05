@@ -1,0 +1,35 @@
+[title]
+Isus, izvor de mângâiere {author: {Nicolae Moldoveanu}, contentHash: {8424c6}, id: {4URRohFvNAFesA9EPvGZyH}, rcId: {68862}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isus, izvor de mângâiere,
+La Tine vin încrezător.
+Sunt copleșit de-o grea durere,
+Și mistuit de-al ei fior.
+
+[c]
+Isus, Isus, azi vin la Tine,
+Cu-adânci suspine, la Tine vin.
+Iubirea Ta să mă lumineze,
+Și să-mi aducă-al Tău alin!
+
+[v2]
+Isus, izvor de bucurie,
+Sunt întristat azi de vrăjmași.
+Să mă păzești, să-mi dai tărie,
+Și-n mâna lor să nu mă lași.
+
+[v3]
+Isus, izvor de har și pace,
+Adâncă pace Tu să-mi dai.
+Iar ființa de mi s-ar desface,
+Cu duhul meu doresc în rai.
+
+[v4]
+Ascunde viața mea în Tine,
+Atunci când lupte grele vin.
+Tu, numai Tu, să fii în mine,
+Izvorul harurilor plin.

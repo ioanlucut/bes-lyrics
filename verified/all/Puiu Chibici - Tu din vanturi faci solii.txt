@@ -1,0 +1,44 @@
+[title]
+Tu din vânturi faci solii {author: {Puiu Chibici}, contentHash: {45952f}, id: {7DdnGnrnzoHXEEvhg7xBN9}, rcId: {4207}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu din vânturi faci solii,
+Tu ai înălțat munții,
+Doamne, lăudat să fii!
+Faci din flăcări slujitori,
+Tu-aduci ploaie, Tu-aduci nori,
+Mare ești, sfânt Creator.
+
+[c]
+/: Ce mare ești! Ce mare ești!
+Și nimeni nu-i ca Tine, Doamne-n univers.
+Ce mare ești! Ce mare ești!
+O, Domnul meu! O, Domnul meu!
+O, Domnul meu! :/
+
+[v2]
+Tu-ai tras linia zărilor,
+Ai pus hotare mărilor,
+Tu ești Domnul domnilor.
+Chemi pe nume stelele,
+Tu ai creat soarele,
+Mari Îți sunt lucrările!
+
+[v3]
+Toate câte le-ai creat,
+Îți dau slavă ne-ncetat,
+Doamne, fii-n veci lăudat!
+Văi și dealuri și câmpii,
+Păsărele mii și mii,
+Toate-Ți spun slăvit să fii!
+
+[v4]
+Peste veacuri Tu domnești,
+În vecii același ești,
+Domn al slăvilor cerești!
+Tu, în glorii locuiești,
+Doar Tu, Domnul poruncești,
+Sfânt, sfânt, sfânt de trei ori ești!

@@ -1,0 +1,29 @@
+[title]
+Lipește-mi, Doamne, sufletul de Tine {author: {Nicolae Moldoveanu}, contentHash: {cdada3}, id: {c2o9HeWnJmCC2GAawpWV8U}, rcId: {186215}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Lipește-mi, Doamne, sufletul de Tine,
+Mai mult ca floarea veșnică de stânci,
+/: Să uit de ani, de lume și de mine
+Și să privesc adânc în ochii Tăi adânci. :/
+
+[c]
+/: Lipește-mi, Doamne, sufletul de Tine,
+Din visul meu să nu mă mai deștept,
+Să simt și slava zărilor senine
+Și inima de om ce-Ți bate-n piept. :/
+
+[v2]
+Lipește-mi, Doamne, sufletul de Tine,
+Ca pe-un levit de altarul său divin,
+/: Să n-am nici plug în văi, nici holde pline,
+Ci Tu să-mi fii și pâine-n veci și vin. :/
+
+[v3]
+Lipește-mi, Doamne, sufletul de Tine
+Ca pe-o ființă smulsă de la greu.
+/: Ridică-mă din valea de suspine
+Și ascunde-mă cu Tine-n Dumnezeu. :/

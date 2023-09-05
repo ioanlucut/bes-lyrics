@@ -1,0 +1,23 @@
+[title]
+Într-o zi când viața voi sfârși, eu voi zbura {author: {Spiritual Touch}, contentHash: {504548}, id: {4poMrSiSLjgnUru8NVZ1SD}, rcId: {1542}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Într-o zi când viața voi sfârși, eu voi zbura,
+Către albastrul și seninul cer, eu voi zbura.
+
+[c]
+/: Eu voi zbura spre glorii,
+Eu voi zbura
+Când viața jos voi termina,
+Eu voi zbura. :/
+
+[v2]
+Când pe țărmul mării de cristal eu voi sosi,
+Voi vedea pe sfinții Tatălui și pe Isus.
+
+[v3]
+Voi cânta la masa Mirelui, eu voi cânta
+Și voi sta la dreapta Mirelui, acol’ voi sta.

@@ -1,0 +1,53 @@
+[title]
+Eu pe Domnul iubesc, Numele-I preamăresc {author: {Alexandru Groza}, contentHash: {7e0ac8}, id: {q3nHNDc2QHbyd1Bjpj1NZw}, rcId: {7121}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
+
+[v1.1]
+Eu pe Domnul iubesc,
+Numele-I preamăresc
+Pentru că m-a creat
+Și lumină mi-a dat.
+
+[v1.2]
+Zi de zi voi cânta
+Și Îl voi lăuda
+Cu harfa iubirii
+Îi voi cânta.
+
+[c1.1]
+/: Cerul, pământul și marea
+Să-L laude ne-ncetat,
+Să-I cânte toată suflarea,
+Slavă Lui că ne-a creat.
+
+[c1.2]
+Cântă-I și tu azi mărire
+Celui ce viață ți-a dat
+Și a-nviat pentru tine
+Ca să fii răscumpărat. :/
+
+[v2.1]
+El nădejde mi-a dat,
+Fie-n veci lăudat,
+Numele Lui cel sfânt,
+Scutul meu pe pământ!
+
+[v2.2]
+Orișiunde-aș umbla,
+El nu mă va lăsa,
+La pășunea Lui verde
+Mă conduce.
+
+[v3.1]
+Tu mai ai doar un pas,
+Fă-l atunci spre Isus.
+Nu sta nepăsător
+De al tău Mântuitor.
+
+[v3.2]
+Încă azi nu-i târziu
+Mântuit ca să fii,
+Fă pasul acesta
+Spre veșnicii.

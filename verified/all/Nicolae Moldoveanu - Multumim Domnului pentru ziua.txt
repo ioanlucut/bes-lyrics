@@ -1,0 +1,29 @@
+[title]
+Mulțumim Domnului pentru ziua {author: {Nicolae Moldoveanu}, contentHash: {8fb4dd}, id: {4eQSJRido72fL88siJANNL}, rcId: {5282}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mulțumim Domnului pentru ziua,
+Pentru harul măreț ce ne-a dat!
+Pentru tot să-I aducem Osana!
+Până aici Domnul ne-a ajutat.
+
+[c]
+Curând vom fi iar împreună
+Și-n veci nu ne vom despărți,
+Pe cap ne va pune cunună,
+Hristos, pentru veci, va domni!
+
+[v2]
+Dacă azi ne desparte pământul,
+Mări, oceane sau granițe de fier,
+Mâine ne va uni legământul
+Prin Isus, Domnul, Emanuel!
+
+[v3]
+Mulțumim că-ntr-o zi vom fi iarăși
+Adunați într-un loc minunat,
+Îmbrăcați în veșminte de slavă,
+Vom cânta Celui ce ne-a salvat.

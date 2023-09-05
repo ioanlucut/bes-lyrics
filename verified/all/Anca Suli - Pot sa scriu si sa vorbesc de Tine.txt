@@ -1,0 +1,35 @@
+[title]
+Pot să scriu și să vorbesc de Tine {author: {Anca Suli}, contentHash: {3d55b2}, id: {3avZ4xtHD47PNhMuLxE1qJ}, rcId: {58944}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Pot să scriu și să vorbesc de Tine,
+Despre tot ce Tu ai scris și ai făcut,
+Cum cu pâini și pești ai săturat mulțimea
+Și în dragoste pe cruce ne-ai născut.
+
+[v1.2]
+Cum la toți cei orbi doar Tu le-ai dat vedere
+Și cum marea învolburată ai liniștit,
+Când eram eu singur și în deznădejde,
+Tu cu dragoste în brațe m-ai primit!
+
+[c]
+Tu ne-ai adus iubirea,
+Ca pe un veșmânt curat,
+Dar pentru acestea toate,
+Isus, eu ce Ți-am dat?
+
+[v2.1]
+Când umbra acestei lumi e peste tine
+Și-ntunericul e pe inima ta,
+Când tu simți că barca vieții e fără cârmă,
+Plutind singură în noaptea grea.
+
+[v2.2]
+Dar eu știu că-ntotdeauna ești cu mine,
+Doar eu Numele Tău trebuie să Îl rostesc,
+Știu ca Tu mă vei iubi întotdeauna,
+Dacă voia Ta, Isuse, o-mplinesc.

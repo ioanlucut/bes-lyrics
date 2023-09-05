@@ -1,0 +1,23 @@
+[title]
+În ceasul cel mai greu {author: {Otto Pascal}, contentHash: {68e1bf}, id: {3pDK2VW5ry7gHnMC9v1y3g}, rcId: {200346}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+M-am întrebat ce rost am pe pământ,
+Sunt uneori ca frunza luată-n vânt,
+Dar fă-mă să-nțeleg și-ajută-mă să cred
+Din nou în Tine.
+
+[c]
+A fost nevoie să mă prăbușesc
+Cu fața la pământ ca să-nțeleg
+Că Tu ești Dumnezeu, în ceasul cel mai greu
+Ai dat speranță sufletului meu.
+
+[v2]
+Acesta e de astăzi rostul meu,
+Să-mpart iubirea Ta de Dumnezeu
+Și-n jurul meu să spun că am în cer de-acum
+O moștenire.

@@ -1,0 +1,29 @@
+[title]
+Mărețul har {author: {John Newton}, contentHash: {572d0e}, id: {wNLnFnNqHd1WeHa1PhTnrz}, rcId: {1732}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Mărețul har m-a mântuit
+Pe mine din păcat.
+/: Pierdut eram, dar m-a găsit,
+De moarte m-a scăpat. :/
+
+[v2]
+Mărețul har m-a învățat
+S-o rup cu orice rău.
+/: Ce scump mi-e azi tot harul dat,
+Trăiesc prin El mereu. :/
+
+[v3]
+Dureri, batjocuri, prigoniri,
+Adesea-am întâlnit.
+/: Prin harul marii Lui iubiri,
+Eu toate-am biruit. :/
+
+[v4]
+Prin har, ajunge-voi în cer,
+Cu slavă îmbrăcat,
+/: Și voi slăvi, în veșnicii,
+Pe Cel ce har mi-a dat. :/

@@ -1,0 +1,25 @@
+[title]
+Doamne, n-am aur, nici argint {author: {Daniel Miclea}, contentHash: {f6d660}, id: {9BMBYbCrdu1c2uR3RPFETG}, rcId: {4076}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Doamne, n-am aur, nici argint
+Și știu că nu Ți-ar trebui,
+Dar am ceva mai prețios
+Inima mea Ți-o dau, Hristos,
+Ca să-Ți slujească Ție.
+
+[c]
+/: Doamne, ce-aș putea să-Ți dau
+În schimbul jertfei Tale?
+Inima mea Ți-o dau, Isus,
+Și-mi cer mereu iertare. :/
+
+[v2]
+De când în inimă-ai intrat,
+Viața, Tu, Doamne, mi-ai schimbat
+Și nu am cum să-Ți mulțumesc
+Pentru-al Tău, Doamne, har ceresc,
+Ci doar pe Tin’ să Te slăvesc.

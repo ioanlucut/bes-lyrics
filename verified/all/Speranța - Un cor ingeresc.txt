@@ -1,0 +1,28 @@
+[title]
+Un cor îngeresc {author: {Speranța}, contentHash: {9444c2}, id: {qTECSqdff2aPEK4XMEsdEp}, rcId: {1548}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: Un cor îngeresc
+Din cer se-aude cântând,
+„O, păcătos, vin’ la Isus,
+Vino, vino!”
+
+[c]
+Hai, hai la El, nu mai sta,
+Azi Isus te cheamă,
+„Vino, vino!”
+
+[v2]
+/: Străin tu dacă ești,
+De ce pribeag mai rătăcești?
+N-auzi chemarea lui Isus,
+„Vino, vino!” :/
+
+[v3]
+/: Urcând pe Calvar,
+Isus Și-a dat viața-n dar,
+De aceea, azi noi te chemăm:
+„Vino, vino!” :/

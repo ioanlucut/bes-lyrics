@@ -1,0 +1,35 @@
+[title]
+Cu dor aștept măreața zi {author: {Nicolae Moldoveanu}, contentHash: {64e163}, id: {6cr19woA6pAb4rMuYj1MC3}, rcId: {5712}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu dor aștept măreața zi
+Când iarăși o să vie,
+Isuse, scump și drag Isus,
+A Ta Împărăție.
+
+[c]
+Ființa mea suspină
+Și-atât de mult ar vrea
+Ca, mai curând, să vină
+Împărăția Ta!
+
+[v2]
+Pământu-ntreg va tresălta,
+Cântând de bucurie,
+Când Tu, Isuse, vei veni
+Cu-a Ta Împărăție.
+
+[v3]
+Adâncă pace va domni
+Și-adâncă armonie,
+Atunci când Tu vei reveni,
+Cu-a Ta Împărăție.
+
+[v4]
+Ajuta-mă ca să-Ți slujesc,
+O, Doamne, numai Ție,
+Ca-n ziua-aceea să primesc
+A Ta Împărăție.

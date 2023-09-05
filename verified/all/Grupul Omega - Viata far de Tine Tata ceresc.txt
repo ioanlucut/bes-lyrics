@@ -1,0 +1,29 @@
+[title]
+Viața făr’ de Tine, Tată ceresc {author: {Grupul Omega}, contentHash: {06231d}, id: {iwHJfFmH2ogji3DztzQtEG}, rcId: {1554}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Viața făr’ de Tine, Tată ceresc,
+Este doar deșertăciune,
+Numai Tu poți da vieții un sens,
+Ca să trăiesc pentru Tine.
+
+[c]
+Viața mea, Tu ai schimbat Isus,
+Și-ai făcut un om nou din mine,
+Ai pus în mine un dor nespus,
+Dorul de a fi lângă Tine.
+
+[v2]
+Duhul Tău Sfânt mi-a dat dragoste-n dar
+Și brațul Tău ocrotire,
+Numai în Tine, Isuse iubit,
+Pot să găsesc fericire.
+
+[c2]
+Viața Ta poate-a schimba, Isus,
+Poate face un om nou din tine,
+Astăzi îndreaptă-ți privirea în sus,
+Iată că Mirele vine.

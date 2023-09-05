@@ -1,0 +1,32 @@
+[title]
+Vine-o zi, vine-o zi {author: {Jim Hill}, contentHash: {197f02}, id: {v5tsQFXfhEXUh3MszKuJ1y}, rcId: {59189}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Vine-o zi, vine-o zi
+Când dureri nu vor mai fi.
+Nu vor fi nori pe cer,
+Lacrimi ochii n-or umbri.
+Va fi pace-n veci de veci,
+Când, în ceruri, ai să pleci
+O, ce zi, ce glorioasă va fi.
+
+[c]
+/: Oare-atunci cum va fi,
+Fața când Îi vom privi?
+Când pe Isus vom vedea,
+Chiar noi, salvați prin jertfa Sa.
+Când de mână ne va lua
+Și ne va duce-n țara Sa,
+O, ce zi, ce glorioasă va fi! :/
+
+[v2]
+Nu vor fi, nu vor fi
+Greutăți, dureri de dus,
+Nici necaz de-orice fel,
+Boli și lacrimi ’colo sus.
+Va fi pace-n veci de veci
+Când în ceruri ai să pleci,
+O, ce zi ce glorioasă va fi.

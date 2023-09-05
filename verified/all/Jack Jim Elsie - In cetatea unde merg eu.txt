@@ -1,0 +1,29 @@
+[title]
+În cetatea unde merg eu {author: {Jack Jim Elsie}, contentHash: {1f6390}, id: {d49p4icZKmLUh2B59QK3My}, rcId: {59168}}
+
+[sequence]
+c,v1,c,v2,c,v3
+
+[v1]
+În cetatea unde merg eu,
+Străzi de aur strălucesc,
+Pomul vieții acolo crește,
+Florile nu veștejesc.
+
+[c]
+Aici înfloresc o vreme,
+Dar curând se ofilesc.
+În cetatea unde merg eu
+Florile nu veștejesc.
+
+[v2]
+Multe lupte și necazuri
+În viață întâlnesc,
+N-or mai fi în Țara unde
+Florile nu veștejesc.
+
+[v3]
+Mulți iubiți s-au dus acolo
+Și în slavă strălucesc,
+Mă așteaptă acolo unde
+Florile nu veștejesc.

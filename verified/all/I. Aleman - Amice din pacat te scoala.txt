@@ -1,0 +1,35 @@
+[title]
+Amice, din păcat te scoală {author: {I. Aleman}, contentHash: {e03544}, id: {6ZuukXDguDrGjkTdXoYFqA}, rcId: {5367}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Amice, din păcat te scoală
+Și vino-n grabă la Isus!
+La inima ta bate-ntruna,
+Căci te iubește mult, nespus.
+
+[c]
+/: Să nu-L respingi.
+El te iubește neîncetat.
+Ci să-I deschizi
+Inima ta ne-ntârziat! :/
+
+[v2]
+Ce veșnică iubire are
+De tine bunul Salvator,
+Căci pentru-ale tale mari păcate
+Muri Sfântul Mântuitor.
+
+[v3]
+Din trupul Lui a curs mult sânge,
+Păcatele a le spăla.
+În locul nostru Se jertfise.
+Cum răsplătim noi jertfa Sa?
+
+[v4]
+O, frate, vino l-acest sânge,
+Iertare-n El tu vei afla
+Și sufletul ți-l liniștește,
+Când fericiri te vor umplea.

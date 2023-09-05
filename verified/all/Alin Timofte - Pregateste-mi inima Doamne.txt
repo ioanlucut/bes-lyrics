@@ -1,5 +1,5 @@
 [title]
-Pregătește-mi inima, Doamne {author: {Alin Timofte}, contentHash: {055f34}, id: {kciYaFanmHLZyHzsdvctNZ}, rcId: {5161}}
+Pregătește-mi inima, Doamne {author: {Alin Timofte}, contentHash: {748607}, id: {dpsy4XzmX1mqdjnZ8Cvgdi}, rcId: {5161}}
 
 [sequence]
 c
@@ -7,6 +7,6 @@ c
 [c]
 /: Pregătește-mi inima, Doamne,
 Să fie un templu sfânt și curat.
-Cu mulțumire, trăiesc pentru Tine,
+Cu mulțumire trăiesc pentru Tine.
 Te slăvesc, Isus!
 Fii lăudat! :/ (4x)

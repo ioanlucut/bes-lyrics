@@ -1,0 +1,29 @@
+[title]
+Cât va fi pământul sfânt, va răsuna {author: {Dan Istrate}, contentHash: {37b3c9}, id: {ayf37o4VoUQ6mKQkHUGhvE}, rcId: {220904}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cât va fi pământul sfânt, va răsuna
+Imnul adorării pentru slava Ta.
+Orice neam sau limbă Te va lăuda,
+Tu ești Creatorul, Tu-n veci vei rămânea.
+
+[c]
+Slavă, slavă, noi Te lăudăm
+Și din inimi închinare-ți dăm,
+Imnul laudei sfinte-n veci nu va-nceta,
+Toată veșnicia Doamne-ți vom cânta.
+
+[v2]
+Nu va fi vreodată-un colț de pe pământ
+Să nu-Ți cânte laudă, Ție, Doamne Sfânt!
+Dacă omenirea nu Te va lăuda
+Va cânta natura, aștrii vor cânta.
+
+[v3]
+Dacă unii astăzi nu Te vor slăvi
+Mâine regreta-vor când Te vor primi.
+Dacă azi ni-i gândul de tristețe nins
+Mâine va fi vesel sus în Paradis.

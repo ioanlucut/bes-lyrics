@@ -1,0 +1,29 @@
+[title]
+Tu mă cercetezi de-aproape {author: {The Messengers}, contentHash: {e0c780}, id: {sndwaMn41QbgoMpQKkpzf4}, rcId: {58041}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tu mă cercetezi de-aproape,
+Doamne, tu mă ocrotești.
+De departe-mi pătrunzi gândul,
+Căile-mi cunoști.
+Unde voi putea, o, Doamne,
+Să m-ascund de fața Ta,
+Când viața e-n mâna Ta?
+
+[c]
+/: Eu Te laud, Doamne pentru ce sunt,
+Pentru marea jertfă și iubirea Ta,
+Viața ce-am primit-o din mâna Ta
+O închin, ca laudă pentru slava Ta. :/
+
+[v2]
+Când cei răi mă înconjoară
+Și cu ură mă privesc,
+Pune dragostea Ta-n mine
+Ca să pot să îi iubesc.
+Eu nădăjduiesc în Tine
+Și-n făgăduința Ta,
+Căci viața e-n mâna Ta.

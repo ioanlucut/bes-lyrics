@@ -1,0 +1,29 @@
+[title]
+Când Isus Hristos m-a mântuit {author: {Nelu Muresan}, contentHash: {176431}, id: {g3PJ5fAKFXRTRPuCK7FDXe}, rcId: {1759}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când Isus Hristos m-a mântuit,
+Har din harul Său El mi-a dăruit.
+Pacea Lui mă face fericit
+Și mă-ndeamnă-ntruna să Îi cânt.
+
+[c]
+/: Doamne, Te slăvesc și Îți mulțumesc
+Pentru bunătatea-Ți mare,
+Pentru încercări, binecuvântări,
+Doamne, azi Îți mulțumesc. :/
+
+[v2]
+Viața mea-mpreună cu Isus
+E un cer senin, cer de soare plin.
+Frică, griji, nevoi, eu nu cunosc
+Căci de toate de la El primesc.
+
+[v3]
+Vreau să știe toți că-s fericit
+Cu Isus al meu ce m-a mântuit.
+Vreau de-acum doar Lui să Îi slujesc,
+Prin viața mea să-I mulțumesc.

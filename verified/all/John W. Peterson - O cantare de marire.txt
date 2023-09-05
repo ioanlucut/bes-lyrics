@@ -1,0 +1,43 @@
+[title]
+O cântare de mărire {author: {John W. Peterson}, contentHash: {a4cd9b}, id: {iNHj8obA9wUrJKDLz2rFYM}, rcId: {5014}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O cântare de mărire am în inimă mereu
+De când L-am aflat pe Isus la Calvar.
+El mi-a dat odihnă sfântă,
+Pace sufletului meu
+Și sunt liber,
+Fericit prin al Său har.
+
+[c]
+Inima mea cântă azi cântarea
+Plină de nespuse bucurii,
+Mai frumos nici îngerii nu cântă
+Ca acei din valea plângerii.
+
+[v2]
+Cât de mult doream să aflu
+Drumul cel adevărat,
+Cineva să-mi ia păcatul dureros!
+Am aflat că El osânda
+La Golgota a purtat
+Și-am venit atunci la cruce bucuros.
+
+[v3]
+Câtă frică și-ntuneric
+Pe cărarea mea erau,
+Când umblam rătăcitor fără Isus!
+Am adus la El povara
+Și de-atunci în viața mea
+Bucuria și iubirea au pătruns.
+
+[v4]
+Merg spre casa unde, veșnic,
+Fericirea voi gusta,
+În eternul strălucitul meu palat.
+Față-n față, în mărire,
+Pe Isus Îl voi vedea
+Și cu sfinții-I voi da slavă, neîncetat.

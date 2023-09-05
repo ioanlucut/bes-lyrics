@@ -1,0 +1,41 @@
+[title]
+De când aflat-am calea Ta {author: {Simona Rusu}, contentHash: {837d95}, id: {cSMTgJNyzuj4QdMpKd75iU}, rcId: {66523}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+De când aflat-am calea Ta,
+Mereu, mereu Te văd
+/: Pe crucea de pe Golgota
+Și dragostea vreau să-Ți arăt. :/
+
+[v2]
+Ești veșnic viu, ești veșnic sfânt,
+Cu Tine-am făcut legământ.
+/: Ajuta-mă la crucea grea,
+Să urc la Golgota cu ea. :/
+
+[v3]
+De-atâtea ori pe cale sunt
+Ispite și-ncercări,
+/: Dar cum să m-abat din ea
+Căci drum mai bun nu-i nicăieri. :/
+
+[v4]
+Când vin ispite și-ncercări,
+Atât de-aproape vii
+/: Și prin ale Tale dulci chemări,
+Ne scoți dintre morți între vii. :/
+
+[v5]
+Dar când odată va scădea
+Puterea, crucea-i grea,
+/: Te rog, să-mi întinzi mâna Ta,
+Căci Tu biruit-ai lumea. :/
+
+[v6]
+Acum, Isuse-Ți mulțumesc,
+Căci Tu mă luminezi
+/: Și mi-ai dat Duhul Tău cel Sfânt
+Lumină să-mi fie pe drum. :/

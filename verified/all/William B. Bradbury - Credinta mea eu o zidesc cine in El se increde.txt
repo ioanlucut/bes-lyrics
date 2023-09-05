@@ -1,0 +1,33 @@
+[title]
+Credința mea eu o zidesc, cine în El se încrede {author: {William B. Bradbury}, contentHash: {b54f3f}, id: {bRo4zvu2k7BhT5TdzUti45}, rcId: {1593}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Credința mea eu o zidesc,
+Pe Cuvântul sfânt și ceresc.
+Altceva trece ca spuma,
+Hristos, ca Stâncă-n veci, va sta!
+
+[c]
+Cine în El se încrede,
+/: Pe nisip nu mai zidește. :/
+
+[v2]
+Deși-i fața Lui ascunsă,
+Mila Lui mă înconjoară.
+Poate veni orice vifor,
+Pe-această stâncă sunt sigur.
+
+[v3]
+Legământul scump, sângele,
+Mă scutește-n primejdie.
+Chiar toate de s-ar risipi,
+Hristos în veci stă neclintit.
+
+[v4]
+Iar când Isus va judeca
+Și celor morți: „Sus!” va striga,
+Dreptatea Lui mie-mi va fi
+Haina în care voi luci.
