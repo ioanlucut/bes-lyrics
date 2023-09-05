@@ -44,6 +44,14 @@ Nici o
 Nici un
 nici o
 nici un
+
+'Nici o
+"Nici o
+
+Nici oX
+Nici unX
+nici oX
+nici unX
 …
 `)).
 toMatchInlineSnapshot(`
@@ -52,6 +60,14 @@ Nicio
 Niciun
 nicio
 niciun
+
+’Nicio
+”Nicio
+
+Nici oX
+Nici unX
+nici oX
+nici unX
 ...
 "
 `);
