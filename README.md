@@ -1,10 +1,10 @@
 ### Cântări Biserica Emanuel Sibiu (BES)
 
-Acest repository conține cântări scrise/folosite de trupele de laudă si închinare ale bisericii Emanuel Sibiu.
+Acest repository conține cântări scrise/folosite de trupele de laudă și închinare ale bisericii Emanuel Sibiu.
 
 #### Formatul
 
-_inspirat din `EasySlides`, `OpenSongs` si https://www.learnchordal.com/how-to-read-charts_.
+_inspirat din `EasySlides`, `OpenSongs` și https://www.learnchordal.com/how-to-read-charts_.
 
 Formatul folosit este unul simplu, similar cu cel din `OpenSong`, după cum urmează:
 
