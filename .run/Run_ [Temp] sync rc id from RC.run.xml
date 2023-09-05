@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run: [Temp] sync rc id from RC" type="NodeJSConfigurationType" node-parameters="--loader ts-node/esm --no-warnings=ExperimentalWarning" path-to-js-file="temp-runners/syncWithRcId.ts" working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>
