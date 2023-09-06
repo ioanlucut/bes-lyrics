@@ -1,5 +1,5 @@
 [title]
-Veghează-n zori {author: {Arangament Corneliu Radulescu}, contentHash: {6b6476}, id: {hdW7uLChTB9HSJGH8HxGWu}, rcId: {1862}}
+Veghează-n zori {author: {Corneliu Radulescu}, contentHash: {6b6476}, id: {hdW7uLChTB9HSJGH8HxGWu}, rcId: {1862}}
 
 [sequence]
 v1,c,v2,c,v3,c
