@@ -1,8 +1,8 @@
 [title]
-Mărețul har {author: {John Newton}, contentHash: {572d0e}, id: {wNLnFnNqHd1WeHa1PhTnrz}, rcId: {1732}}
+Mărețul har (Lanțul s-a frânt) {author: {John Newton}, contentHash: {85cc91}, id: {r9D7zp45VXBgajrY4dAUJU}, rcId: {4490}}
 
 [sequence]
-v1,v2,v3,v4
+v1,v2,c,v3,v4,c,e
 
 [v1]
 Mărețul har m-a mântuit
@@ -16,6 +16,12 @@ S-o rup cu orice rău.
 /: Ce scump mi-e azi tot harul dat,
 Trăiesc prin El mereu. :/
 
+[c]
+/: Lanțul s-a frânt, azi liber sunt,
+Răscumpărat prin sânge sfânt
+Și-n mila Sa, mi-a dat în dar,
+Iubirea Lui, Mărețul Har. :/
+
 [v3]
 Dureri, batjocuri, prigoniri,
 Adesea-am întâlnit.
@@ -27,3 +33,6 @@ Prin har, ajunge-voi în cer,
 Cu slavă îmbrăcat,
 /: Și voi slăvi, în veșnicii,
 Pe Cel ce har mi-a dat. :/
+
+[e]
+/: Iubirea Lui, Mărețul Har. :/
