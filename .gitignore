@@ -7,6 +7,4 @@ node_modules/
 **/*.log
 **/*.out
 **/*.thm
-temp-runners
-temp.txt
 /.idea/aws.xml

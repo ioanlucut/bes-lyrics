@@ -11,6 +11,7 @@
             <path value="file://$PROJECT_DIR$/candidates" />
             <path value="file://$PROJECT_DIR$/bin" />
             <path value="file://$PROJECT_DIR$/LaTeX/src" />
+            <path value="file://$PROJECT_DIR$/temp-runners" />
           </resourceRoots>
         </entryData>
       </entry>
