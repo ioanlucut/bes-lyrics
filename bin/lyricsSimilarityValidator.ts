@@ -59,9 +59,8 @@ const findSimilarities = async (
   potentialDuplicatesDir: string,
   againstDir: string,
 ) => {
-  const againstSongs = await readAllFilesAgainstTheChecksAreDoneOnce(
-    againstDir,
-  );
+  const againstSongs =
+    await readAllFilesAgainstTheChecksAreDoneOnce(againstDir);
 
   return (await recursive(potentialDuplicatesDir))
     .map((candidateFilePath) => {
