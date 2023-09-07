@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Songs" pattern="file[bes-lyrics]:verified//*||file[bes-lyrics]:candidates//*" />
+</component>

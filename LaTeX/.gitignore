@@ -9,4 +9,3 @@ node_modules/
 **/*.thm
 temp-runners
 temp.txt
-/.idea/aws.xml
