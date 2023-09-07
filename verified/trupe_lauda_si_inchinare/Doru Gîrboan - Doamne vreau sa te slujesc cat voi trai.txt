@@ -1,0 +1,35 @@
+[title]
+Doamne vreau sa te slujesc cat voi trai {author: {Doru Gîrboan}, contentHash: {2bad5e}, id: {8Yrxw9VBzTX6kAZF87vaaD}, rcId: {113750}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Când nu te cunoșteam Tu m-ai chemat,
+Cu dragoste M-ai ridicat.
+Prin Jertfa Ta, Isus, am fost sfințit
+Și haine noi mi-ai dăruit!
+
+[c]
+Doamne, vreau să te slujesc cât voi trăi,
+Drumul Tău să îl urmez în fiecare zi!
+Până-n ziua când la cer mă vei chema
+Sunt aici Isus la dispoziția Ta!
+
+[v2]
+Părinte mare har mi-ai dăruit:
+Ca să-ți slujesc, Domn, infinit.
+Eu doar un simplu rob neînsemnat,
+Tu - Domn al Vieții, Împărat!
+
+[v3]
+Cu tot ce am Isus mă dăruiesc
+Mireasma Ta s-o răspândesc
+Trăind mereu, cu zel, al Tău Cuvânt,
+Înaintând prin Duhul Sfânt!
+
+[e]
+Și prigoniri de vor veni,
+Și încercat voi fi,
+Vreau lângă Tine credincios sa râmăn,
+Pân’ la sfârșit.
