@@ -1,0 +1,28 @@
+[title]
+Bunătatea Ta {author: {Bbso Baia Mare}, contentHash: {82758a}, id: {odnhLxjCmVzBSvXCuhFo4h}, rcId: {233702}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Eu Te iubesc, mila Ta e nesfârșită
+Zi de zi Tu mă ții în mâna Ta.
+Din zorii dimineții Și până când adorm,
+Vreau să cânt bunătatea Ta.
+
+[c]
+Tu mereu ai fost cu mine,
+Doamne-ai fost mereu atât de bun!
+Și cât eu voi avea suflare
+Vreau să cânt bunătatea Ta.
+
+[v2]
+Cu vocea Ta m-ai condus prin încercare,
+Și-n noaptea grea lângă mine Tu ai fost.
+Noi te avem ca Tată, te știm ca Prieten bun,
+Am trăit în bunătatea Ta.
+
+[b]
+/: Isus, mă copleșești cu bunătatea Ta.
+Mă aplec acum, Ție mă închin, cu totul mă predau!
+Isus, mă copleșești cu bunătatea Ta! :/
