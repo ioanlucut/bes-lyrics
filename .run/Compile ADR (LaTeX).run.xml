@@ -8,7 +8,7 @@
       <viewer-command />
       <compiler-arguments />
       <envs />
-      <main-file>$PROJECT_DIR$/LaTeX/src/BES_Conduct_Afisaj.tex</main-file>
+      <main-file>$PROJECT_DIR$/LaTeX/conduct/BES_Conduct_Afisaj.tex</main-file>
       <output-path>$PROJECT_DIR$/adr</output-path>
       <auxil-path>{projectDir}/auxil</auxil-path>
       <compile-twice>false</compile-twice>
