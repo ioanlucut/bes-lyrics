@@ -1,5 +1,5 @@
 [title]
-Jos la picioarele-Ți {author: {Speranța}, contentHash: {2aacd5}, id: {gq1j3inLxfunMNQiBE2avV}, rcId: {3799}}
+Jos la picioarele-Ți {author: {Speranța}, contentHash: {f2c779}, id: {gq1j3inLxfunMNQiBE2avV}, rcId: {3799}}
 
 [sequence]
 v1,c,v1,c
@@ -13,6 +13,6 @@ Sunt îngenuncheat! :/
 [c]
 /: Nu-i chemare mai mare,
 Nu-i altă onoare
-Decât să  îngenunchez la tronul Tău.
+Decât să îngenunchez la tronul Tău.
 Copleșit de uimire, scăldat în iubire,
 Eu trăiesc doar pentru-a Te lăuda. :/
