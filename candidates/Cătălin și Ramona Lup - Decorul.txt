@@ -1,0 +1,23 @@
+[title]
+Decorul {author: {Cătălin și Ramona Lup}, contentHash: {7111f5}, id: {mk3TkKw7R5h2hufZDs9P5R}, rcId: {111581}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Aș vrea să mă rog dar nu pot
+Cuvinte nu am să pot spune tot
+Poate-ar fi mai bine să tac
+Un moment de tăcere să las
+
+[c]
+Îndepărtează, Doamne, norul
+Ce-asupra mea umbrește-așa des!
+Aranjează, Tu, Doamne decorul
+Luminos și frumos precum ești!
+
+[v2]
+Aștept acea pace deplină
+Pe care doar Tu o poți da
+Dar încă ființa mi-e plină
+De mare neliniștea mea

@@ -5,14 +5,16 @@ import fsExtra from 'fs-extra';
 import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
 import pMap from 'p-map';
+import stringSimilarity from 'string-similarity';
 import { parse } from '../src/songParser.js';
 import { print } from '../src/songPrinter.js';
 import {
   logFileWithLinkInConsole,
   logProcessingFile,
   NEW_LINE,
+  SLASH,
 } from '../src/index.js';
-import { flatten } from 'lodash-es';
+import { flatten, without } from 'lodash-es';
 
 import { fileURLToPath } from 'url';
 
@@ -22,13 +24,16 @@ dotenv.config();
 
 const RC_BASE = '/Users/ilucut/WORK/BES/bes-lyrics-parser';
 const RC_DIR = `${RC_BASE}/out/resurse_crestine`;
-const CANDIDATES_DIR = `/Users/ilucut/WORK/BES/bes-lyrics/candidates`;
+const L_I_DIR = 'trupe_lauda_si_inchinare';
+const L_AND_I = '/Users/ilucut/WORK/BES/bes-lyrics/verified/' + L_I_DIR;
 
-const rcAuthorPathsToProcess = fsExtra
-  .readFileSync(`${__dirname}/authors_to_process.txt`)
+const pickedPartialTitleSongs = fsExtra
+  .readFileSync(`${__dirname}/manual_picks.txt`)
   .toString()
   .split(NEW_LINE)
   .filter(Boolean);
+
+const getOneOrTwoMatches = (text: string) => text.split(' / ').filter(Boolean);
 
 const readFiles = async (dir: string) =>
   (await recursive(dir)).map((filePath) => {
@@ -39,43 +44,62 @@ const readFiles = async (dir: string) =>
     };
   });
 
-const runValidatorAndExitIfSimilar = async (songsDirs: string[]) => {
-  const allSongsInRepo = flatten(
-    await Promise.all(songsDirs.map(readFiles)),
-  ).map(({ contentAsString }) => parse(contentAsString));
-  const allRcIds = allSongsInRepo.map(({ rcId }) => rcId).filter(Boolean);
+const runFor = async (songsDirs: string[]) => {
+  const lines = [] as string[];
+  const rawSongs = flatten(await Promise.all(songsDirs.map(readFiles)));
 
-  await pMap(rcAuthorPathsToProcess, async (pathConfig) => {
-    const [counts, author, authorPath] = pathConfig.split(':');
-    const dirToImportFrom = `${RC_DIR}/${authorPath}`;
-    (await readFiles(dirToImportFrom)).forEach(
-      ({ contentAsString, filePath, fileName }) => {
-        const rcSongAST = parse(contentAsString);
-        logProcessingFile(
-          fileName,
-          `Import from RC from ${author}; Counts: ${counts}.`,
-        );
-        logFileWithLinkInConsole(filePath);
+  await pMap(pickedPartialTitleSongs, async (rawLine) => {
+    const [matchingTitle, maybeMatchingExtraText] = rawLine
+      .split(SLASH)
+      .filter(Boolean);
 
-        if (allRcIds.includes(rcSongAST.rcId)) {
+    rawSongs.forEach(({ contentAsString, fileName, filePath }) => {
+      const { title, sectionsMap } = parse(contentAsString);
+
+      const isAGreatHit =
+        stringSimilarity.compareTwoStrings(
+          title.toLowerCase(),
+          matchingTitle.toLowerCase(),
+        ) >= 0.9 ||
+        (!!maybeMatchingExtraText &&
+          stringSimilarity.compareTwoStrings(
+            title.toLowerCase(),
+            maybeMatchingExtraText.toLowerCase(),
+          ) >= 0.9) ||
+        (!!maybeMatchingExtraText &&
+          sectionsMap[0]?.content &&
+          stringSimilarity.compareTwoStrings(
+            sectionsMap[0]?.content?.toLowerCase(),
+            maybeMatchingExtraText.toLowerCase(),
+          ) >= 0.9);
+      const isAHit = title.includes(matchingTitle);
+
+      if (isAGreatHit || isAHit) {
+        lines.push(rawLine);
+
+        if (filePath.includes(L_I_DIR)) {
           console.log(
-            `Skip processing the song with RC ID ${rcSongAST.rcId} as we have it in our system.`,
+            `Skipping ${fileName} as it is already in the target dir.`,
           );
-          console.log(NEW_LINE);
 
           return;
         }
 
-        const authorDirTarget = `${CANDIDATES_DIR}/${rcSongAST.author}`;
+        console.log({
+          title,
+          matchingTitle,
+          isExactMatch: isAGreatHit,
+          contains: isAHit,
+        });
+        fsExtra.moveSync(filePath, `${L_AND_I}/${fileName}`);
+      }
+    });
 
-        fsExtra.ensureDirSync(authorDirTarget);
-        fs.writeFileSync(`${authorDirTarget}/${fileName}`, print(rcSongAST));
-      },
+    fs.writeFileSync(
+      `${__dirname}/manual_picks_rest.txt`,
+      without(pickedPartialTitleSongs, ...lines).join(NEW_LINE),
     );
   });
 };
 
-await runValidatorAndExitIfSimilar([
-  process.env.VERIFIED_DIR,
-  process.env.CANDIDATES_DIR,
-]);
+await runFor([process.env.VERIFIED_DIR]);

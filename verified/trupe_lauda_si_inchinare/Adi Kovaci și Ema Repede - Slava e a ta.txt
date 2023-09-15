@@ -1,0 +1,30 @@
+[title]
+Slava e a ta {author: {Adi Kovaci și Ema Repede}, contentHash: {0963c7}, id: {k7scbRYnuuQ5UvFMkKJSnN}, rcId: {201507}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ești necuprins, și gloria Ta,
+Nimeni n-o pătrunde.
+Dar te-ai jertfit, în locul meu,
+Vrednic e-al Tău Nume.
+
+[c]
+Slava e a Ța,
+Toată Gloria,
+Numai Ție ne-închinăm.
+Peste noi ești Domn,
+Noi te înălțam,
+Tu rămâi în veci pe tron.
+
+[v2]
+Acel ce ai fost,
+Ești și vei fii,
+Domn, în orice vreme.
+În veci pe tron, cel înălțat
+Sfânt doar Tu esti rege!
+
+[v3]
+/: Glorie în veci, ne închinăm!
+Vrednic este Mielul Sfânt, aleluia! :/

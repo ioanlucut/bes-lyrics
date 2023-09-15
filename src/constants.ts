@@ -10,6 +10,8 @@ export const COMMA = ',';
 
 export const COLON = ':';
 
+export const SLASH = '/';
+
 export const DOT = '.';
 
 export const TXT_EXTENSION = '.txt';
