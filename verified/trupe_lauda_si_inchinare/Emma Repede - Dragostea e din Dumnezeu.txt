@@ -1,5 +1,5 @@
 [title]
-Dragostea e din Dumnezeu {author: {Emma Repede}, contentHash: {3f8c9d}, id: {7EooN38fNqa7tLmyfXKegr}, rcId: {78305}}
+Dragostea e din Dumnezeu {author: {Emma Repede}, contentHash: {cb5273}, id: {7EooN38fNqa7tLmyfXKegr}, rcId: {78305}}
 
 [sequence]
 c,v1,c,v2,c,v3
@@ -14,7 +14,7 @@ Pentru noi, la fel să faceți și voi.
 Unul pe altul vă ajutați,
 La fapte bune să vă îndemnați
 Și atunci veți vedea ce-i iubirea.
-De Domnul Sfânt să ascultați,
+De Domnul sfânt să ascultați,
 Pe calea-ngustă să umblați
 Și așa veți avea fericirea.
 
@@ -28,4 +28,4 @@ Să rămâneți mereu în iubire.
 Dragostea adevărată
 În unitate este arătată.
 Pe genunchi, în rugăciune,
-Cu Isus să fiți la bine și la greu.
+Cu Isus să fiți la bine și greu.

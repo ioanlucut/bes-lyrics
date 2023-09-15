@@ -1,5 +1,5 @@
 [title]
-Mă-ncred în El {author: {__A__}, contentHash: {a18ac3}, id: {sQHxHgzDr36KdaH21hn9V5}, rcId: {4191}}
+Mă-ncred în El {author: {__A__}, contentHash: {f22cb7}, id: {sQHxHgzDr36KdaH21hn9V5}, rcId: {4191}}
 
 [sequence]
 c,v1,c,v2,c2,v3,c2
@@ -19,7 +19,7 @@ Cerescul Tată m-a călăuzi.
 [v2]
 Mă-ncred în El, oriunde aș fi dus,
 Chiar în cuptor de foc de aș fi pus.
-În suferințe și-n bucurii,
+În suferințe și în bucurii,
 Cerescul Tată m-a călăuzi.
 
 [v3]
