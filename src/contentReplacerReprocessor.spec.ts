@@ -56,10 +56,10 @@ nici unX
 `)).
 toMatchInlineSnapshot(`
 "
-Nicio
-Niciun
-nicio
-niciun
+Nici o
+Nici un
+nici o
+nici un
 
 ’Nicio
 ”Nicio
@@ -69,6 +69,50 @@ Nici unX
 nici oX
 nici unX
 ...
+"
+`);
+  });
+
+  it('should correctly rewrite "Lui Majuscula"', () => {
+    expect(
+reprocess(`
+Lui Dumnezeu
+Lui Isus
+Lui Hristos
+Lui Mesia
+
+a Lui Dumnezeu
+a Lui Isus
+a Lui Hristos
+a Lui Mesia
+
+’Lui Isus
+”Lui Isus
+
+Lui DumnezeuX
+Lui IsusX
+Lui HristosX
+Lui MesiaX
+`)).
+toMatchInlineSnapshot(`
+"
+Lui Dumnezeu
+Lui Isus
+Lui Hristos
+Lui Mesia
+
+a lui Dumnezeu
+a lui Isus
+a lui Hristos
+a lui Mesia
+
+’lui Isus
+”lui Isus
+
+Lui DumnezeuX
+Lui IsusX
+Lui HristosX
+Lui MesiaX
 "
 `);
   });
