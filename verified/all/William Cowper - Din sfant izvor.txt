@@ -1,5 +1,5 @@
 [title]
-Din sfânt izvor {author: {William Cowper}, contentHash: {4fe65b}, id: {arixiVWRQThW92BQoSwntx}, rcId: {1890}}
+Din sfânt izvor {author: {William Cowper}, contentHash: {253dcc}, id: {arixiVWRQThW92BQoSwntx}, rcId: {1890}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -19,7 +19,7 @@ Iertarea-n veci mi-ai dat!
 [v2]
 Acest izvor a fost aflat
 La cruce de tâlhar,
-Crezând în jertfa Lui Hristos
+Crezând în jertfa lui Hristos
 A fost salvat prin har.
 
 [v3]

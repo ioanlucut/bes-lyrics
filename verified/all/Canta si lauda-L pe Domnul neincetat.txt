@@ -1,5 +1,5 @@
 [title]
-Cântă și laudă-L pe Domnul neîncetat {author: {__A__}, contentHash: {8b42a2}, id: {feEfymEYDRyycowTrV2TPe}, rcId: {145592}}
+Cântă și laudă-L pe Domnul neîncetat {author: {__A__}, contentHash: {d4e8cb}, id: {feEfymEYDRyycowTrV2TPe}, rcId: {145592}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -26,7 +26,7 @@ Căci mare e Domnul și vrednic de lăudat.
 Cântă cu mine, nu sta nepăsător.
 El este Domnul viteaz, triumfător.
 Cântă azi, frate, și fii acum voios,
-Căci bucuria e darul Lui Hristos.
+Căci bucuria e darul lui Hristos.
 
 [v4]
 De ai în suflet din pacea lui Isus,

@@ -1,5 +1,5 @@
 [title]
-Când încercările prea grele ni se par {author: {Nicolae Moldoveanu}, contentHash: {cb4bbb}, id: {vB7wMr7hxjCaP7t68huFLf}, rcId: {5690}}
+Când încercările prea grele ni se par {author: {Nicolae Moldoveanu}, contentHash: {43d3d5}, id: {vB7wMr7hxjCaP7t68huFLf}, rcId: {5690}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -25,5 +25,5 @@ El vine printre valuri să-Și scape fiul Său.
 [v3]
 Curând se va sfârși al vieții greu suspin,
 Vom trece peste nori în țara de lumini.
-Acolo vom gusta din slava Lui Hristos,
+Acolo vom gusta din slava lui Hristos,
 Ispita va dispărea, vom pune crucea jos.

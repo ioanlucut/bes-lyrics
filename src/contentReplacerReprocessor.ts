@@ -1,3 +1,6 @@
+const getRegexNotMatchingStartOfALine = (text: string) =>
+  new RegExp(`(?<!^)(?<!/: )${text}(?!\\w)`, 'gm');
+
 /**
  * Reprocesses the song content by just replacing certain string sections.
  * This is useful for songs that have been processed with the old version
@@ -7,6 +10,15 @@
  */
 export const reprocess = (songContent: string) =>
   songContent
+    // Not at the beginning of the line
+    .replaceAll(getRegexNotMatchingStartOfALine('Nici o'), 'Nicio')
+    .replaceAll(getRegexNotMatchingStartOfALine('nici o'), 'nicio')
+    .replaceAll(getRegexNotMatchingStartOfALine('Nici un'), 'Niciun')
+    .replaceAll(getRegexNotMatchingStartOfALine('nici un'), 'niciun')
+    .replaceAll(getRegexNotMatchingStartOfALine('Lui Dumnezeu'), 'lui Dumnezeu')
+    .replaceAll(getRegexNotMatchingStartOfALine('Lui Isus'), 'lui Isus')
+    .replaceAll(getRegexNotMatchingStartOfALine('Lui Hristos'), 'lui Hristos')
+    .replaceAll(getRegexNotMatchingStartOfALine('Lui Mesia'), 'lui Mesia')
     .replaceAll('  ', ' ')
     .replaceAll(' .', '.')
     .replaceAll('ş', 'ș')
@@ -14,10 +26,6 @@ export const reprocess = (songContent: string) =>
     .replaceAll('ţ', 'ț')
     .replaceAll('Ţ', 'Ț')
     .replaceAll('doamne', 'Doamne')
-    .replaceAll(/((?!\W))Nici o((?!\w))/g, 'Nicio')
-    .replaceAll(/((?!\W))nici o((?!\w))/g, 'nicio')
-    .replaceAll(/((?!\W))Nici un((?!\w))/g, 'Niciun')
-    .replaceAll(/((?!\W))nici un((?!\w))/g, 'niciun')
     .replaceAll('domnul', 'Domnul')
     .replaceAll('dumnezeu', 'Dumnezeu')
     .replaceAll('golgota', 'Golgota')

@@ -1,5 +1,5 @@
 [title]
-Curățit ești de păcat și înnoit {author: {Elisha A. Hoffman}, contentHash: {30f4d6}, id: {eHaAoaqTEqujrykg9TGTnr}, rcId: {1589}}
+Curățit ești de păcat și înnoit {author: {Elisha A. Hoffman}, contentHash: {41ea7e}, id: {eHaAoaqTEqujrykg9TGTnr}, rcId: {1589}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -17,7 +17,7 @@ Vin’, te spală pe Golgota-n sânge sfânt
 Și-ascultă al lui Isus Cuvânt!
 
 [v2]
-Când sfințit ești prin sângele Lui Hristos,
+Când sfințit ești prin sângele lui Hristos,
 Îi cânți laudă Lui neîncetat,
 Nimic nu ți-e mai plăcut și mai frumos,
 Decât să te păzești de păcat!

@@ -1,5 +1,5 @@
 [title]
-Cred în Dumnezeu ca Tată {author: {__A__}, contentHash: {89c4af}, id: {szVrUGAz9ruYREzxrGnmR1}, rcId: {65663}}
+Cred în Dumnezeu ca Tată {author: {__A__}, contentHash: {a14982}, id: {szVrUGAz9ruYREzxrGnmR1}, rcId: {65663}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c,e
@@ -35,7 +35,7 @@ Cred Cuvântul care spune:
 Trebuie să te naști din nou,
 Viața veche e spălată
 Și totul este nou.
-Cred că dragostea Lui Dumnezeu
+Cred că dragostea lui Dumnezeu
 Te va descoperi,
 De aceea și mai mult Îl voi sluji.
 

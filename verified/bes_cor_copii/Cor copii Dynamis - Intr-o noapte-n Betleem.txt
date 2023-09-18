@@ -1,5 +1,5 @@
 [title]
-Într-o noapte-n Betleem {author: {Cor copii Dynamis}, contentHash: {109fa4}, id: {8M6NWooo59CdVH4Pj9xwU4}, rcId: {__R__}}
+Într-o noapte-n Betleem {author: {Cor copii Dynamis}, contentHash: {9d64e3}, id: {8M6NWooo59CdVH4Pj9xwU4}, rcId: {__R__}}
 
 [sequence]
 v1,v2,c,v3,v4,c,b,c,e
@@ -16,7 +16,7 @@ Duios el le vorbi de-un Mântuitor:
 Azi în Betleem un Prunc vi s-a născut!”
 
 [c]
-/: Slavă Lui Dumnezeu, slavă în locurile-nalte,
+/: Slavă lui Dumnezeu, slavă în locurile-nalte,
 Pace, pace între oameni plăcuți Domnului. :/
 (cântați-I)
 
@@ -36,4 +36,4 @@ Va reveni Emanuel! :/
 
 [e]
 Între oameni plăcuți Domnului
-Slavă Lui Dumnezeu!
+Slavă lui Dumnezeu!

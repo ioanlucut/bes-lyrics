@@ -1,11 +1,11 @@
 [title]
-Mă închin numai Lui Dumnezeu {author: {Otto Pascal}, contentHash: {7efb5c}, id: {fevg81F5UnEsSzB8Nf9Qty}, rcId: {231369}}
+Mă închin numai lui Dumnezeu {author: {Otto Pascal}, contentHash: {bfa02d}, id: {fevg81F5UnEsSzB8Nf9Qty}, rcId: {231369}}
 
 [sequence]
 v1,v2,v3,v4
 
 [v1]
-Mă închin numai Lui Dumnezeu,
+Mă închin numai lui Dumnezeu,
 Plin de dor, cu tot cugetul meu,
 /: Fără Tine aș fi doar un rob zdrențuit,
 Dar Tu-n brațe cu drag m-ai primit. :/

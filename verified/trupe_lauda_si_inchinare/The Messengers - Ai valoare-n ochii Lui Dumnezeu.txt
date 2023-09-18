@@ -1,5 +1,5 @@
 [title]
-Ai valoare-n ochii Lui Dumnezeu {author: {The Messengers}, contentHash: {417a42}, id: {mYZpjEjQVsczdZS7kaaFzy}, rcId: {4371}}
+Ai valoare-n ochii lui Dumnezeu {author: {The Messengers}, contentHash: {d5cf73}, id: {mYZpjEjQVsczdZS7kaaFzy}, rcId: {4371}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -13,7 +13,7 @@ Din suflet pacea și credința au plecat
 Lacrimi sunt multe, nădejdi pierdute.
 
 [c]
-Ai valoare-n ochii Lui Dumnezeu,
+Ai valoare-n ochii lui Dumnezeu,
 Pentru tine a murit Fiul Său,
 Pe o cruce ca să fii mântuit,
 Oricine-ai fi, de Dumnezeu ești iubit!
@@ -29,7 +29,7 @@ Cu îndurare, îți dă iertare.
 [b]
 Oricine-ai fi, tu ai valoare!
 Oricine-ai fi, primești iertare!
-Oricine-ai fi, tu ai valoare-n ochii Lui Dumnezeu!
+Oricine-ai fi, tu ai valoare-n ochii lui Dumnezeu!
 Oricine-ai fi, tu ai valoare!
 Oricine-ai fi, primești iertare!
 Oricine-ai fi, tu ai valoare-n ochii Lui!

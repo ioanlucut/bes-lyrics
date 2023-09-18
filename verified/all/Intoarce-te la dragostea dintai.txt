@@ -1,5 +1,5 @@
 [title]
-Întoarce-te la dragostea dintâi {author: {__A__}, contentHash: {743928}, id: {ryRSkfbFPQt8BrLMefRTXN}, rcId: {4488}}
+Întoarce-te la dragostea dintâi {author: {__A__}, contentHash: {f14d3d}, id: {ryRSkfbFPQt8BrLMefRTXN}, rcId: {4488}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -14,7 +14,7 @@ Iubirea ta, iubire din trecut!
 Celui ce va birui, celui ce va birui,
 /: Îi voi da să mănânce
 Din pomul vieții,
-Din raiul Lui Dumnezeu. :/
+Din raiul lui Dumnezeu. :/
 
 [v2]
 Întoarce-te, o, nu mai sta pe loc,

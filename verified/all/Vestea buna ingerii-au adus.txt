@@ -1,5 +1,5 @@
 [title]
-Vestea bună îngerii-au adus {author: {__A__}, contentHash: {2e841e}, id: {4rmCHH98MnztWBFxkDRJDY}, rcId: {59253}}
+Vestea bună îngerii-au adus {author: {__A__}, contentHash: {e079db}, id: {4rmCHH98MnztWBFxkDRJDY}, rcId: {59253}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -24,6 +24,6 @@ Domnul cerului fie slăvit.
 
 [v3]
 Cântați toți azi cu bucurie,
-Slavă în cer Lui Dumnezeu fie.
+Slavă în cer lui Dumnezeu fie.
 S-a născut al nost’ Mântuitor,
 Isus Domnul, Domnul tuturor!

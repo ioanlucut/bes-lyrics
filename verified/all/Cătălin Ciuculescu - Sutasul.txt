@@ -1,5 +1,5 @@
 [title]
-Sutașul {author: {Cătălin Ciuculescu}, contentHash: {e5fbc5}, id: {kDfBWuyZsEpAwfkvfRC6uB}, rcId: {225535}}
+Sutașul {author: {Cătălin Ciuculescu}, contentHash: {042d34}, id: {kDfBWuyZsEpAwfkvfRC6uB}, rcId: {225535}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -32,4 +32,4 @@ Te-ai uitat și la mine și m-ai iubit,
 Sunt sutașul ce Te-a chinuit,
 Poți, Te rog, să mă ierți, am greșit.
 Îți ofer cu sfială sufletul meu,
-Cred că ești Fiul Lui Dumnezeu!
+Cred că ești Fiul lui Dumnezeu!

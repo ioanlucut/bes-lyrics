@@ -1,5 +1,5 @@
 [title]
-Regele tău și-al meu {author: {Emma Repede}, contentHash: {85c259}, id: {1rbxzUWJktx3LNdjE9omDD}, rcId: {157369}}
+Regele tău și-al meu {author: {Emma Repede}, contentHash: {56ef6d}, id: {1rbxzUWJktx3LNdjE9omDD}, rcId: {157369}}
 
 [sequence]
 v1,c,v2,c
@@ -19,5 +19,5 @@ Aleluia, Aleluia!
 [v2]
 Veniți să ne închinăm, cu daruri să-L onorăm
 Toți acum, toți acum, plini de bucurie.
-E Fiul Lui Dumnezeu, e Regele tău și-al meu,
+E Fiul lui Dumnezeu, e Regele tău și-al meu,
 El e Domn, El e Domn din veșnicie!

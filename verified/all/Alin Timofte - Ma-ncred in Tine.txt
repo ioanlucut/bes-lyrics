@@ -1,5 +1,5 @@
 [title]
-Mă-ncred în Tine {author: {Alin Timofte}, contentHash: {713a51}, id: {a6rRL8CFodpVovL5bQNrge}, rcId: {59472}}
+Mă-ncred în Tine {author: {Alin Timofte}, contentHash: {62f363}, id: {a6rRL8CFodpVovL5bQNrge}, rcId: {59472}}
 
 [sequence]
 v1,c,v1,c
@@ -16,5 +16,5 @@ N-ascund nimic, comoara mi-e în Tine
 Isus, eu mă-ncred în Tin’ și am să merg
 Pân’ la margini de lumi,
 Pân’ la margini de lumi cu Tin’!
-Ești Fiul Lui Dumnezeu
+Ești Fiul lui Dumnezeu
 Și oamenii vor ști că Tu ești sfânt, Tu ești sfânt.

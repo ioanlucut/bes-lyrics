@@ -1,5 +1,5 @@
 [title]
-Armata măreață {author: {Elim Harmony}, contentHash: {9463b2}, id: {7t7Wr8JqMGxTVSLg3o48du}, rcId: {112856}}
+Armata măreață {author: {Elim Harmony}, contentHash: {9185b7}, id: {7t7Wr8JqMGxTVSLg3o48du}, rcId: {112856}}
 
 [sequence]
 v1,c,b,c
@@ -9,7 +9,7 @@ v1,c,b,c
 Pleacă la luptă din trâmbiță sunând. :/
 
 [c]
-/: Conduși sunt mereu de vocea Lui Dumnezeu! :/
+/: Conduși sunt mereu de vocea lui Dumnezeu! :/
 
 [b]
 /: Să răsune în Sion, Sion,

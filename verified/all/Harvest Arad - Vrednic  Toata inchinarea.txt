@@ -1,5 +1,5 @@
 [title]
-Vrednic / Toată închinarea {author: {Harvest Arad}, contentHash: {356f4c}, id: {wbbehm4snCB8DZ9ftpLgAq}, rcId: {219464}}
+Vrednic / Toată închinarea {author: {Harvest Arad}, contentHash: {fe5650}, id: {wbbehm4snCB8DZ9ftpLgAq}, rcId: {219464}}
 
 [sequence]
 v1,c,b,c2,b,c2,v2,v3
@@ -40,7 +40,7 @@ Speranță ne-ai dăruit!
 
 [v3]
 Rege etern, ce domnești sus, în ceruri,
-La dreapta Lui Dumnezeu,
+La dreapta lui Dumnezeu,
 În umilință venit-ai în lume,
 Din dragoste Te-ai jertfit.
 Cum să-nteleg cât Te-a costat

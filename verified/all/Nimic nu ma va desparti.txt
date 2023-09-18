@@ -1,12 +1,12 @@
 [title]
-Nimic nu mă va despărți {author: {__A__}, contentHash: {6e034e}, id: {6oFLZyJrB33iRC8hRPBQy4}, rcId: {161510}}
+Nimic nu mă va despărți {author: {__A__}, contentHash: {f5c1f6}, id: {6oFLZyJrB33iRC8hRPBQy4}, rcId: {161510}}
 
 [sequence]
 v1,v2,p,c,v3,v4,p,c,v5,v6,p,c
 
 [v1]
 Nimic nu mă va despărți
-De dragostea Lui Dumnezeu,
+De dragostea lui Dumnezeu,
 Căci la Golgota Fiul Său
 Muri pentru păcatul meu.
 
@@ -47,7 +47,7 @@ Venirea lui Isus curând
 Va răsuna pe-ntreg pământ.
 
 [v6]
-De dragostea Lui Dumnezeu,
+De dragostea lui Dumnezeu,
 De harul dat prin Fiul Său,
 Creștini să nu vă despărțiți,
 Pe Isus veșnic să-L iubiți.

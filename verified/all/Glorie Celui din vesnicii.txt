@@ -1,5 +1,5 @@
 [title]
-Glorie Celui din veșnicii {author: {__A__}, contentHash: {c424d9}, id: {5YMHB226fKEHA8mU6htJXv}, rcId: {__R__}}
+Glorie Celui din veșnicii {author: {__A__}, contentHash: {7f42b4}, id: {5YMHB226fKEHA8mU6htJXv}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c
@@ -8,13 +8,13 @@ v1,c,v2,c
 Lăudați numele Lui, pe Domnu-nălțați.
 Să-L mărim, să-L slăvim pe Domnul Isus.
 Regelui, regelui, ne-nchinăm,
-Toată slava și mărirea Lui Dumnezeu!
+Toată slava și mărirea lui Dumnezeu!
 Regelui, regelui, ne-nchinăm!
 Îl adorăm căci este demn să-L lăudăm.
 
 [c]
 Glorie Celui din veșnicii,
-Toată slava și mărirea Lui Dumnezeu!
+Toată slava și mărirea lui Dumnezeu!
 Glorie, e sărbătoare azi,
 Îl adorăm căci este Domn, să-L lăudăm.
 
@@ -22,6 +22,6 @@ Glorie, e sărbătoare azi,
 Lăudați numele Lui, pe Domnul înălțați.
 Să-L mărim, să-L slăvim pe Domnul Isus.
 Glorie Celui din veșnicii!
-Toată slava și mărirea Lui Dumnezeu,
+Toată slava și mărirea lui Dumnezeu,
 Glorie e sărbătoare azi,
 Îl adorăm căci este demn să-L lăudăm!

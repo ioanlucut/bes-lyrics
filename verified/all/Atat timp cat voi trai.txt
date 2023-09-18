@@ -1,5 +1,5 @@
 [title]
-Atât timp cât voi trăi {author: {__A__}, contentHash: {520236}, id: {vU8DUVGLMd41ntAov2BmdB}, rcId: {__R__}}
+Atât timp cât voi trăi {author: {__A__}, contentHash: {bb2da1}, id: {vU8DUVGLMd41ntAov2BmdB}, rcId: {__R__}}
 
 [sequence]
 v1,c,v2,c
@@ -19,7 +19,7 @@ Iubirea-Ți voi mărturisi.
 Când toată lumea va tăcea,
 Strigătul meu va răsuna.
 Și pentru orice zi
-Îi mulțumesc Lui Dumnezeu.
+Îi mulțumesc lui Dumnezeu.
 Atât timp cât voi trăi
 Iubirea voi mărturisi.
 
