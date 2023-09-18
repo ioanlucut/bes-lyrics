@@ -1,5 +1,5 @@
 [title]
-Nu este munte prea-nalt ca să nu-l miște {rcId: {4084}, id: {2iDgvwcxfxqe4zMQntX21S}, contentHash: {cd58a0}}
+Nu este munte prea-nalt ca să nu-l miște {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4084}, id: {2iDgvwcxfxqe4zMQntX21S}, contentHash: {cd58a0}}
 
 [sequence]
 v1,c,v1,c

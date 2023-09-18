@@ -1,5 +1,5 @@
 [title]
-Împreună din nou {rcId: {4941}, id: {fugAqFCeLc2KVscLngtH3y}, contentHash: {90397f}}
+Împreună din nou {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4941}, id: {fugAqFCeLc2KVscLngtH3y}, contentHash: {90397f}}
 
 [sequence]
 v1

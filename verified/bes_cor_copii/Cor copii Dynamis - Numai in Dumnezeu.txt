@@ -1,5 +1,5 @@
 [title]
-Numai în Dumnezeu {composer: {Cor copii Dynamis}, id: {uspR9XDcB8naw7NesKhKs6}, contentHash: {e23369}}
+Numai în Dumnezeu {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uspR9XDcB8naw7NesKhKs6}, contentHash: {e23369}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

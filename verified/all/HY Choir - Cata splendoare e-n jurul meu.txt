@@ -1,5 +1,5 @@
 [title]
-Câtă splendoare e-n jurul meu {composer: {HY Choir}, rcId: {166195}, id: {dATYz7RwpPyhZY15pMb922}, contentHash: {76946e}}
+Câtă splendoare e-n jurul meu {alternative: {*}, composer: {HY Choir}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {166195}, id: {dATYz7RwpPyhZY15pMb922}, contentHash: {76946e}}
 
 [sequence]
 v1,p,c,v2,p,c,e

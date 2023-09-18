@@ -1,5 +1,5 @@
 [title]
-M-am hotărât să-L urmez pe Isus {composer: {Aranjament Eugene Thomas}, rcId: {1915}, id: {erLavut1U9hmD4nw2mmoJ3}, contentHash: {58e3ad}}
+M-am hotărât să-L urmez pe Isus {alternative: {*}, composer: {Aranjament Eugene Thomas}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1915}, id: {erLavut1U9hmD4nw2mmoJ3}, contentHash: {58e3ad}}
 
 [sequence]
 v1,v2,v3,v4

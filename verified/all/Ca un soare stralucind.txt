@@ -1,5 +1,5 @@
 [title]
-Ca un soare strălucind {id: {wRKGtF9EkLqkVBqxLNWVvA}, contentHash: {2b30b6}}
+Ca un soare strălucind {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {wRKGtF9EkLqkVBqxLNWVvA}, contentHash: {2b30b6}}
 
 [sequence]
 v1,c,v1,c

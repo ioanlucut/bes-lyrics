@@ -1,5 +1,5 @@
 [title]
-Isus, în locul meu și-al tău {composer: {Nicolae Moldoveanu}, rcId: {5474}, id: {sZDxMLFzCweoHstRyLskzd}, contentHash: {f30610}}
+Isus, în locul meu și-al tău {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5474}, id: {sZDxMLFzCweoHstRyLskzd}, contentHash: {f30610}}
 
 [sequence]
 v1,c,v2,c,v3,c

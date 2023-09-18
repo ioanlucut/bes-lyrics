@@ -1,5 +1,5 @@
 [title]
-De n-ar fi Isus {id: {ciM9yFUzwbdBdmmm189Va1}, contentHash: {85bb8c}}
+De n-ar fi Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ciM9yFUzwbdBdmmm189Va1}, contentHash: {85bb8c}}
 
 [sequence]
 c

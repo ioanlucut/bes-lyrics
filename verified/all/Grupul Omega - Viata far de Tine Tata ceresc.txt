@@ -1,5 +1,5 @@
 [title]
-Viața făr’ de Tine, Tată ceresc {composer: {Grupul Omega}, rcId: {1554}, id: {iwHJfFmH2ogji3DztzQtEG}, contentHash: {06231d}}
+Viața făr’ de Tine, Tată ceresc {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1554}, id: {iwHJfFmH2ogji3DztzQtEG}, contentHash: {06231d}}
 
 [sequence]
 v1,c,v2,c2

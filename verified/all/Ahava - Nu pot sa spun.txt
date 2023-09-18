@@ -1,5 +1,5 @@
 [title]
-Nu pot să spun {composer: {Ahava}, rcId: {115034}, id: {gQdMfKVE7t9RGwu49AaNFr}, contentHash: {be21f0}}
+Nu pot să spun {alternative: {*}, composer: {Ahava}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {115034}, id: {gQdMfKVE7t9RGwu49AaNFr}, contentHash: {be21f0}}
 
 [sequence]
 v1,c,v2,c,e

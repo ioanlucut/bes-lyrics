@@ -1,5 +1,5 @@
 [title]
-L-am întâlnit pe Domnul meu {id: {ezz3ixmTTeVnuMzKz4e6AD}, contentHash: {2822ba}}
+L-am întâlnit pe Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ezz3ixmTTeVnuMzKz4e6AD}, contentHash: {2822ba}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12

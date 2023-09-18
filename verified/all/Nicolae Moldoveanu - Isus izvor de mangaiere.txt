@@ -1,5 +1,5 @@
 [title]
-Isus, izvor de mângâiere {composer: {Nicolae Moldoveanu}, rcId: {68862}, id: {4URRohFvNAFesA9EPvGZyH}, contentHash: {8424c6}}
+Isus, izvor de mângâiere {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {68862}, id: {4URRohFvNAFesA9EPvGZyH}, contentHash: {8424c6}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

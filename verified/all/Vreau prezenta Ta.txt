@@ -1,5 +1,5 @@
 [title]
-Vreau prezența Ta {rcId: {5148}, id: {o1EzHh7cnX9SbRogMRDmXy}, contentHash: {f65cb9}}
+Vreau prezența Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5148}, id: {o1EzHh7cnX9SbRogMRDmXy}, contentHash: {f65cb9}}
 
 [sequence]
 v1,c,b,v2,c,v3,c

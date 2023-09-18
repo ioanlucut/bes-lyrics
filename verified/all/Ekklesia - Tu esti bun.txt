@@ -1,5 +1,5 @@
 [title]
-Tu ești bun {composer: {Ekklesia}, rcId: {2462}, id: {sbaTXWKqxrwEPbBtpzF3v6}, contentHash: {c32bc9}}
+Tu ești bun {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2462}, id: {sbaTXWKqxrwEPbBtpzF3v6}, contentHash: {c32bc9}}
 
 [sequence]
 c,v1,c,v1,b,c

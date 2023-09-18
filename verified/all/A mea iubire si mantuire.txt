@@ -1,5 +1,5 @@
 [title]
-A mea iubire și mântuire {rcId: {2104}, id: {de8UGb2cKEsThEuMwFvjQq}, contentHash: {fc132a}}
+A mea iubire și mântuire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2104}, id: {de8UGb2cKEsThEuMwFvjQq}, contentHash: {fc132a}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Pribegim ca străini pentru-o vreme {rcId: {224151}, id: {aayiT2gyKUzQHjTVdE25b9}, contentHash: {47a5be}}
+Pribegim ca străini pentru-o vreme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {224151}, id: {aayiT2gyKUzQHjTVdE25b9}, contentHash: {47a5be}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-O, vin’, Emanuel {composer: {Lauren Daigle}, id: {9ZpQ7w8eLMhCSmPBchoqMy}, contentHash: {46ff22}}
+O, vin’, Emanuel {alternative: {*}, composer: {Lauren Daigle}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {9ZpQ7w8eLMhCSmPBchoqMy}, contentHash: {46ff22}}
 
 [sequence]
 v1,b,c,v2,c,b2,c

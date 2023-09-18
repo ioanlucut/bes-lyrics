@@ -1,5 +1,5 @@
 [title]
-Deschide-mi ochii inimii, Doamne {id: {3QF4eazZeuEE4uSs7AjrAa}, contentHash: {7c56c2}}
+Deschide-mi ochii inimii, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3QF4eazZeuEE4uSs7AjrAa}, contentHash: {7c56c2}}
 
 [sequence]
 v1,c,v1,c,b,c

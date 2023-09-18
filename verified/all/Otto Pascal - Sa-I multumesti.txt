@@ -1,5 +1,5 @@
 [title]
-Să-I mulțumești {composer: {Otto Pascal}, rcId: {172293}, id: {7iJiq82eQcUC5p5CcXWh7B}, contentHash: {baddfe}}
+Să-I mulțumești {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172293}, id: {7iJiq82eQcUC5p5CcXWh7B}, contentHash: {baddfe}}
 
 [sequence]
 v1,c,v2,c,b,c

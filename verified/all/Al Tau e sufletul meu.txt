@@ -1,5 +1,5 @@
 [title]
-Al Tău e sufletul meu {id: {45SEsnUDJ4S7yLyNW8EEyo}, contentHash: {c76110}}
+Al Tău e sufletul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {45SEsnUDJ4S7yLyNW8EEyo}, contentHash: {c76110}}
 
 [sequence]
 v1,c,v1,c

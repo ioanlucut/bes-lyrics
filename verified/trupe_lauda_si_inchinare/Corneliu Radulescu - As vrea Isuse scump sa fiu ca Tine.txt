@@ -1,5 +1,5 @@
 [title]
-Aș vrea, Isuse scump, să fiu ca Tine {composer: {Corneliu Radulescu}, rcId: {6993}, id: {c3qmE1ANwCpE5TSfdmhtYg}, contentHash: {07ee91}}
+Aș vrea, Isuse scump, să fiu ca Tine {alternative: {*}, composer: {Corneliu Radulescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6993}, id: {c3qmE1ANwCpE5TSfdmhtYg}, contentHash: {07ee91}}
 
 [sequence]
 v1,c,v2,c,v3,c

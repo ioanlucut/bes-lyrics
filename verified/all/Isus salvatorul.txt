@@ -1,5 +1,5 @@
 [title]
-Isus salvatorul {rcId: {6803}, id: {nwU6QXodxyKZKxQwzEPGJS}, contentHash: {fb4877}}
+Isus salvatorul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6803}, id: {nwU6QXodxyKZKxQwzEPGJS}, contentHash: {fb4877}}
 
 [sequence]
 v1.1,v1.2,p,c,v2,p,c

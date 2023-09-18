@@ -1,5 +1,5 @@
 [title]
-Doresc în inima mea {id: {fwAJyqUmCRxUchXNWRRghZ}, contentHash: {375c9c}}
+Doresc în inima mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fwAJyqUmCRxUchXNWRRghZ}, contentHash: {375c9c}}
 
 [sequence]
 v1,c,v2,c

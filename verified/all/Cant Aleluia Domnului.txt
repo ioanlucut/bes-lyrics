@@ -1,5 +1,5 @@
 [title]
-Cânt Aleluia, Domnului {id: {6Y6HkxcaUyjhZVkjjW1EUY}, contentHash: {e53654}}
+Cânt Aleluia, Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6Y6HkxcaUyjhZVkjjW1EUY}, contentHash: {e53654}}
 
 [sequence]
 c,v1,v2

@@ -1,5 +1,5 @@
 [title]
-Isus e viu, a biruit {id: {6VCSsLDTZz7uXCDXK8LNRG}, contentHash: {76b1e0}}
+Isus e viu, a biruit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6VCSsLDTZz7uXCDXK8LNRG}, contentHash: {76b1e0}}
 
 [sequence]
 v1,c,v2,c

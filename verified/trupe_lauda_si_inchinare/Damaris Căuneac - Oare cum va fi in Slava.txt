@@ -1,5 +1,5 @@
 [title]
-Oare cum va fi în Slavă? {composer: {Damaris Căuneac}, id: {jdXETCLjpVsHQT6Jz5U3Mz}, contentHash: {8d45c9}}
+Oare cum va fi în Slavă? {alternative: {*}, composer: {Damaris Căuneac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jdXETCLjpVsHQT6Jz5U3Mz}, contentHash: {8d45c9}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

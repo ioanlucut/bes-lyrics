@@ -1,5 +1,5 @@
 [title]
-Ești tot ce eu respir {id: {brdhTQc1x9p63wurp6t8TD}, contentHash: {5780c0}}
+Ești tot ce eu respir {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {brdhTQc1x9p63wurp6t8TD}, contentHash: {5780c0}}
 
 [sequence]
 c,b,c

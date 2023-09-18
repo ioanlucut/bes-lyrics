@@ -1,5 +1,5 @@
 [title]
-Eu mă încred în Domnul meu {composer: {Daniel Stauceanu}, rcId: {1629}, id: {qRfMSjxJPzeBCthSh3tTfM}, contentHash: {c3eacf}}
+Eu mă încred în Domnul meu {alternative: {*}, composer: {Daniel Stauceanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1629}, id: {qRfMSjxJPzeBCthSh3tTfM}, contentHash: {c3eacf}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Un nume nou {id: {brEUpFkLJYvdR4xUqTPuyu}, contentHash: {46374e}}
+Un nume nou {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {brEUpFkLJYvdR4xUqTPuyu}, contentHash: {46374e}}
 
 [sequence]
 v1.1,v1.2,p,c,v2.1,v2.2,p,c

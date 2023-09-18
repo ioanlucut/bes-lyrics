@@ -1,5 +1,5 @@
 [title]
-Auzi corul îngeresc {composer: {F. Mendelssohn}, rcId: {63943}, id: {dhkZJGiYka1LmHdHtoWR5E}, contentHash: {7e7add}}
+Auzi corul îngeresc {alternative: {*}, composer: {F. Mendelssohn}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {63943}, id: {dhkZJGiYka1LmHdHtoWR5E}, contentHash: {7e7add}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

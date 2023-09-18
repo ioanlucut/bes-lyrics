@@ -1,5 +1,5 @@
 [title]
-Nu ești învins cât timp credința {id: {ehDGMi8pWkGPidRddgDZp6}, contentHash: {e3ff80}}
+Nu ești învins cât timp credința {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ehDGMi8pWkGPidRddgDZp6}, contentHash: {e3ff80}}
 
 [sequence]
 v1,c,v2,c2

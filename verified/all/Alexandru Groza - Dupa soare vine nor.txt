@@ -1,5 +1,5 @@
 [title]
-După soare vine nor {composer: {Alexandru Groza}, rcId: {1445}, id: {15UDRQcw3NmLYbSuca6mia}, contentHash: {c7ed16}}
+După soare vine nor {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1445}, id: {15UDRQcw3NmLYbSuca6mia}, contentHash: {c7ed16}}
 
 [sequence]
 v1,c,v2,c,e

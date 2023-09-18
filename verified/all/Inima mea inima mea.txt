@@ -1,5 +1,5 @@
 [title]
-Inima mea, inima mea {rcId: {1663}, id: {46GirbzJ1Lbf6i4BosDWa3}, contentHash: {77df7e}}
+Inima mea, inima mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1663}, id: {46GirbzJ1Lbf6i4BosDWa3}, contentHash: {77df7e}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

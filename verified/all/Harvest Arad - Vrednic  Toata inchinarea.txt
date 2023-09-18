@@ -1,5 +1,5 @@
 [title]
-Vrednic / Toată închinarea {composer: {Harvest Arad}, rcId: {219464}, id: {wbbehm4snCB8DZ9ftpLgAq}, contentHash: {fe5650}}
+Vrednic / Toată închinarea {alternative: {*}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {219464}, id: {wbbehm4snCB8DZ9ftpLgAq}, contentHash: {fe5650}}
 
 [sequence]
 v1,c,b,c2,b,c2,v2,v3

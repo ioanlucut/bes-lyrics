@@ -1,5 +1,5 @@
 [title]
-Aleluia, mă iubește {id: {2wkTMnP6Sa5wAihQnAfNnp}, contentHash: {ab7ea6}}
+Aleluia, mă iubește {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2wkTMnP6Sa5wAihQnAfNnp}, contentHash: {ab7ea6}}
 
 [sequence]
 v1,v2

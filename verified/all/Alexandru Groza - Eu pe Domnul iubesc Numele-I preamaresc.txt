@@ -1,5 +1,5 @@
 [title]
-Eu pe Domnul iubesc, Numele-I preamăresc {composer: {Alexandru Groza}, rcId: {7121}, id: {q3nHNDc2QHbyd1Bjpj1NZw}, contentHash: {7e0ac8}}
+Eu pe Domnul iubesc, Numele-I preamăresc {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7121}, id: {q3nHNDc2QHbyd1Bjpj1NZw}, contentHash: {7e0ac8}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2

@@ -1,5 +1,5 @@
 [title]
-Tată din ceruri, noi Te iubim {rcId: {2765}, id: {ciTmPU5dU9YV7Xv67fNFSr}, contentHash: {7ae73d}}
+Tată din ceruri, noi Te iubim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2765}, id: {ciTmPU5dU9YV7Xv67fNFSr}, contentHash: {7ae73d}}
 
 [sequence]
 v1,c,v1,c

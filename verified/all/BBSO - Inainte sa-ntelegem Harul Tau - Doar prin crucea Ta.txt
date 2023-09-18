@@ -1,5 +1,5 @@
 [title]
-Înainte să-nțelegem Harul Tău {alternative: {Doar prin crucea Ta}, composer: {BBSO}, id: {nhY7UbNmLJbFMu17razmPN}, contentHash: {966630}}
+Înainte să-nțelegem Harul Tău {alternative: {Doar prin crucea Ta}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nhY7UbNmLJbFMu17razmPN}, contentHash: {966630}}
 
 [sequence]
 v1,b,c,v2,b,c,e

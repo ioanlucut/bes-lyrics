@@ -1,5 +1,5 @@
 [title]
-Bucuria-n Domnul este tăria mea {rcId: {4844}, id: {7MndvTmFpAtk7bUUETn2TG}, contentHash: {3808d6}}
+Bucuria-n Domnul este tăria mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4844}, id: {7MndvTmFpAtk7bUUETn2TG}, contentHash: {3808d6}}
 
 [sequence]
 v1,v2,v3,v4,v5

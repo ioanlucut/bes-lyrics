@@ -1,5 +1,5 @@
 [title]
-Isus ești speranța mea {alternative: {Living Hope}, composer: {Betania Dublin}, rcId: {234036}, id: {3vV8V6oFZ9eQKDD9HGU2JJ}, contentHash: {e44f29}}
+Isus ești speranța mea {alternative: {Living Hope}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {234036}, id: {3vV8V6oFZ9eQKDD9HGU2JJ}, contentHash: {e44f29}}
 
 [sequence]
 v1,v2,v3,v4,c,v5,c,e

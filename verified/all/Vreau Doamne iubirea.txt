@@ -1,5 +1,5 @@
 [title]
-Vreau, Doamne, iubirea {rcId: {2813}, id: {3MaVPSZcoJ4RCHqgoWoKUR}, contentHash: {63188a}}
+Vreau, Doamne, iubirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2813}, id: {3MaVPSZcoJ4RCHqgoWoKUR}, contentHash: {63188a}}
 
 [sequence]
 v1,c,v1,c

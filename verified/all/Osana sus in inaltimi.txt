@@ -1,5 +1,5 @@
 [title]
-Osana, sus în înălțimi {id: {j2genXiGKFHDTdC4XgzhgR}, contentHash: {1ba965}}
+Osana, sus în înălțimi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {j2genXiGKFHDTdC4XgzhgR}, contentHash: {1ba965}}
 
 [sequence]
 c,v1,c2,v2

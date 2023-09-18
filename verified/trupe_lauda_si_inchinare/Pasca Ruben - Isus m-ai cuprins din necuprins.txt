@@ -1,5 +1,5 @@
 [title]
-Isus, m-ai cuprins din necuprins {composer: {Pasca Ruben}, rcId: {190399}, id: {syEW13cmz1ovLhw5haYYjv}, contentHash: {c13244}}
+Isus, m-ai cuprins din necuprins {alternative: {*}, composer: {Pasca Ruben}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190399}, id: {syEW13cmz1ovLhw5haYYjv}, contentHash: {c13244}}
 
 [sequence]
 v1,v2,v3

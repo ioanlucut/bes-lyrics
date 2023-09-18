@@ -1,5 +1,5 @@
 [title]
-El poate, da, El poate {id: {rxQbT6Mz8KZRKMbXTQjF3u}, contentHash: {db3c10}}
+El poate, da, El poate {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rxQbT6Mz8KZRKMbXTQjF3u}, contentHash: {db3c10}}
 
 [sequence]
 v1,c,v1,c

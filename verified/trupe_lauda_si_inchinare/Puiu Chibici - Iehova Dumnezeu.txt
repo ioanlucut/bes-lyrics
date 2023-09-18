@@ -1,5 +1,5 @@
 [title]
-Iehova, Dumnezeu {composer: {Puiu Chibici}, rcId: {78700}, id: {cKwBsKDDaaNevijZJZ9TwG}, contentHash: {3c117c}}
+Iehova, Dumnezeu {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78700}, id: {cKwBsKDDaaNevijZJZ9TwG}, contentHash: {3c117c}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3,c

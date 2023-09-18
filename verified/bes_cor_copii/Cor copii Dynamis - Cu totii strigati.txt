@@ -1,5 +1,5 @@
 [title]
-Cu toții strigați {composer: {Cor copii Dynamis}, id: {7kmwhcbPsjvLMCzgTbk9H7}, contentHash: {6d4507}}
+Cu toții strigați {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7kmwhcbPsjvLMCzgTbk9H7}, contentHash: {6d4507}}
 
 [sequence]
 v1,c,c2,v2,c,b,c2

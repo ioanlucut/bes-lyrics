@@ -1,5 +1,5 @@
 [title]
-Astăzi vin și-mi plec genunchii {composer: {Gabi Ilut}, rcId: {241280}, id: {8BFEffXiaHj3mURXwuuAnV}, contentHash: {adf190}}
+Astăzi vin și-mi plec genunchii {alternative: {*}, composer: {Gabi Ilut}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {241280}, id: {8BFEffXiaHj3mURXwuuAnV}, contentHash: {adf190}}
 
 [sequence]
 v1,v2,v3,v4

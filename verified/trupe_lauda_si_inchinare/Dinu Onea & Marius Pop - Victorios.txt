@@ -1,5 +1,5 @@
 [title]
-Victorios {composer: {Dinu Onea & Marius Pop}, rcId: {158367}, id: {sQNhRhcHjBWXTrSmmnEEfo}, contentHash: {18329f}}
+Victorios {alternative: {*}, composer: {Dinu Onea & Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158367}, id: {sQNhRhcHjBWXTrSmmnEEfo}, contentHash: {18329f}}
 
 [sequence]
 v1,v2,c1.1,c1.2,b,c1.1,c1.2

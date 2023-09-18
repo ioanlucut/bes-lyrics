@@ -1,5 +1,5 @@
 [title]
-Eu știu că Domnul m-a creat {composer: {Alexandru Groza}, rcId: {3155}, id: {eqF62C3UoH6MR6MvpwMCpi}, contentHash: {50dab2}}
+Eu știu că Domnul m-a creat {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3155}, id: {eqF62C3UoH6MR6MvpwMCpi}, contentHash: {50dab2}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

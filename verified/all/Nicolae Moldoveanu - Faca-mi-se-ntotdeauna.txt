@@ -1,5 +1,5 @@
 [title]
-Facă-mi-se-ntotdeauna {composer: {Nicolae Moldoveanu}, rcId: {5336}, id: {oCeqZJwHxrK3vWEphmZ9Wj}, contentHash: {17e0e1}}
+Facă-mi-se-ntotdeauna {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5336}, id: {oCeqZJwHxrK3vWEphmZ9Wj}, contentHash: {17e0e1}}
 
 [sequence]
 v1,v2,v3,v4

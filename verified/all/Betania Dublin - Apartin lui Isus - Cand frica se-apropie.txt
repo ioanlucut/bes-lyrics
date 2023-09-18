@@ -1,5 +1,5 @@
 [title]
-Aparțin lui Isus {alternative: {Când frica se-apropie}, composer: {Betania Dublin}, id: {5vx6ucfCJnJsQpDEhidiFK}, contentHash: {711dcf}}
+Aparțin lui Isus {alternative: {Când frica se-apropie}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5vx6ucfCJnJsQpDEhidiFK}, contentHash: {711dcf}}
 
 [sequence]
 v1,c,v2,c,b,b2,c,b2,c,b2,c,e

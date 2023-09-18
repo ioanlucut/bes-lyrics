@@ -1,5 +1,5 @@
 [title]
-Dacă două mâini rebele {composer: {Ruben Andruș}, rcId: {4201}, id: {nXhLdGXf6PoaosKLgLduqt}, contentHash: {4384a9}}
+Dacă două mâini rebele {alternative: {*}, composer: {Ruben Andruș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4201}, id: {nXhLdGXf6PoaosKLgLduqt}, contentHash: {4384a9}}
 
 [sequence]
 v1,v2,v3,v4

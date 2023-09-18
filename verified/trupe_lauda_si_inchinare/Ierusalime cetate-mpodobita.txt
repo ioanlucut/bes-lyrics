@@ -1,5 +1,5 @@
 [title]
-Ierusalime, cetate-mpodobită {rcId: {3589}, id: {ocA74Yi1RKHr5cmRcsNvy9}, contentHash: {caa566}}
+Ierusalime, cetate-mpodobită {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3589}, id: {ocA74Yi1RKHr5cmRcsNvy9}, contentHash: {caa566}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

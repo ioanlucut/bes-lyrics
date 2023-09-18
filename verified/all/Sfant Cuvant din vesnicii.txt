@@ -1,5 +1,5 @@
 [title]
-Sfânt Cuvânt din veșnicii {rcId: {244209}, id: {oy4LMyJ5xLxfvXzDKgyMho}, contentHash: {02a780}}
+Sfânt Cuvânt din veșnicii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {244209}, id: {oy4LMyJ5xLxfvXzDKgyMho}, contentHash: {02a780}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

@@ -1,5 +1,5 @@
 [title]
-Conștient sunt, Doamne, bine {composer: {Elim Harmony}, rcId: {71704}, id: {ufVKdicWUieCeyoC6aRVru}, contentHash: {e8dfaf}}
+Conștient sunt, Doamne, bine {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71704}, id: {ufVKdicWUieCeyoC6aRVru}, contentHash: {e8dfaf}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

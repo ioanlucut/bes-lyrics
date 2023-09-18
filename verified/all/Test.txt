@@ -1,5 +1,5 @@
 [title]
-Test {id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {c75967}}
+Test {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {c75967}}
 
 [sequence]
 v1,v2,v3

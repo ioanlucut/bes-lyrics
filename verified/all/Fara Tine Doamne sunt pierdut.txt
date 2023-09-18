@@ -1,5 +1,5 @@
 [title]
-Fără Tine, Doamne, sunt pierdut {id: {2sLagnbK8yD4bANo5aSa49}, contentHash: {fcbd1a}}
+Fără Tine, Doamne, sunt pierdut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2sLagnbK8yD4bANo5aSa49}, contentHash: {fcbd1a}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c,b,c

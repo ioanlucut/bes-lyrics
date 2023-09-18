@@ -1,5 +1,5 @@
 [title]
-Chiar dacă vântul a vrut în zbor {composer: {Costache Ioanid}, rcId: {246137}, id: {s2bM8MUq2RNLDMJXHh8Z6Z}, contentHash: {02a907}}
+Chiar dacă vântul a vrut în zbor {alternative: {*}, composer: {Costache Ioanid}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {246137}, id: {s2bM8MUq2RNLDMJXHh8Z6Z}, contentHash: {02a907}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Isus mă încred în tin {composer: {Cor copii Dynamis}, id: {rfzWKT9QhjvDhz7QQfZjBm}, contentHash: {2e5e30}}
+Isus mă încred în tin {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rfzWKT9QhjvDhz7QQfZjBm}, contentHash: {2e5e30}}
 
 [sequence]
 v1,c,v2,v3,c,e

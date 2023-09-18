@@ -1,5 +1,5 @@
 [title]
-Iubirea-adânc-a Tatălui {rcId: {217294}, id: {ha7S1bgvkFRt5Y8vyfmmrb}, contentHash: {19c47f}}
+Iubirea-adânc-a Tatălui {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {217294}, id: {ha7S1bgvkFRt5Y8vyfmmrb}, contentHash: {19c47f}}
 
 [sequence]
 v1,v2,v3,v4,b,v5,v6

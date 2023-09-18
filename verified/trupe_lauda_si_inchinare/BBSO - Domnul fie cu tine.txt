@@ -1,5 +1,5 @@
 [title]
-Domnul fie cu tine {composer: {BBSO}, rcId: {202297}, id: {kWfzS8gCQHH6ZPgSEnBAec}, contentHash: {3b1338}}
+Domnul fie cu tine {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {202297}, id: {kWfzS8gCQHH6ZPgSEnBAec}, contentHash: {3b1338}}
 
 [sequence]
 v1,c,v1,c,v2,v3,v4,c2,c,v2,v3,v4,c2,c

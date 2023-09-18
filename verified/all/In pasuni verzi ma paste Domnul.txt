@@ -1,5 +1,5 @@
 [title]
-În pășuni verzi mă paște Domnul {id: {n9bysm1nVg1FkhCN7mnsLi}, contentHash: {b24a3b}}
+În pășuni verzi mă paște Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {n9bysm1nVg1FkhCN7mnsLi}, contentHash: {b24a3b}}
 
 [sequence]
 v1,c,v1,c

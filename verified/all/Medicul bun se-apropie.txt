@@ -1,5 +1,5 @@
 [title]
-Medicul bun se-apropie {id: {svxwbk5xw3iz2hvz62FUKP}, contentHash: {0b32ec}}
+Medicul bun se-apropie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {svxwbk5xw3iz2hvz62FUKP}, contentHash: {0b32ec}}
 
 [sequence]
 v1,c,v2,c,v3,c

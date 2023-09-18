@@ -7,7 +7,7 @@ import {
   getTitleWithoutMeta,
   getUniqueId,
 } from './core.js';
-import { COMMA, EMPTY_STRING } from './constants.js';
+import { COMMA, EMPTY_STRING, UNSET_META } from './constants.js';
 
 /**
  * Parses the content of a song to its basic AST structure.
@@ -54,7 +54,6 @@ export const parse = (songAsString: string) => {
         arranger,
         composer,
         band,
-        contentHash,
         genre,
         id,
         interpreter,
@@ -74,19 +73,19 @@ export const parse = (songAsString: string) => {
         ),
       );
 
-      songAST.alternative = alternative;
-      songAST.composer = composer;
-      songAST.writer = writer;
-      songAST.arranger = arranger;
-      songAST.interpreter = interpreter;
-      songAST.band = band;
-      songAST.genre = genre;
-      songAST.key = key;
-      songAST.tags = tags;
-      songAST.tempo = tempo;
-      songAST.version = version;
+      songAST.alternative = alternative || UNSET_META;
+      songAST.composer = composer || UNSET_META;
+      songAST.writer = writer || UNSET_META;
+      songAST.arranger = arranger || UNSET_META;
+      songAST.interpreter = interpreter || UNSET_META;
+      songAST.band = band || UNSET_META;
+      songAST.genre = genre || UNSET_META;
+      songAST.key = key || UNSET_META;
+      songAST.tags = tags || UNSET_META;
+      songAST.tempo = tempo || UNSET_META;
+      songAST.version = version || UNSET_META;
 
-      songAST.rcId = rcId;
+      songAST.rcId = rcId || UNSET_META;
       songAST.id = id || getUniqueId();
     }
 

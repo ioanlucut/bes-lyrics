@@ -1,5 +1,5 @@
 [title]
-Arată-mi voia Ta {composer: {Cor copii Dynamis}, id: {a3Df5v8Hwb1mBtvW2T4U23}, contentHash: {629ada}}
+Arată-mi voia Ta {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {a3Df5v8Hwb1mBtvW2T4U23}, contentHash: {629ada}}
 
 [sequence]
 v1,c,v2,c2

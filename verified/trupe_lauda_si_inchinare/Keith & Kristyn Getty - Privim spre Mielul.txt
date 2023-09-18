@@ -1,5 +1,5 @@
 [title]
-Privim spre Mielul {composer: {Keith & Kristyn Getty}, rcId: {133702}, id: {6vkqtu1VhfnGkhE8W4LUch}, contentHash: {77b50e}}
+Privim spre Mielul {alternative: {*}, composer: {Keith & Kristyn Getty}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {133702}, id: {6vkqtu1VhfnGkhE8W4LUch}, contentHash: {77b50e}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2

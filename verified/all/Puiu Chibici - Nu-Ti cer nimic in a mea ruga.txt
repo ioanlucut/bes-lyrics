@@ -1,5 +1,5 @@
 [title]
-Nu-Ți cer nimic în a mea rugă {composer: {Puiu Chibici}, rcId: {5774}, id: {jELAt5vv9eQDff2MvD1Bx8}, contentHash: {3e8ebd}}
+Nu-Ți cer nimic în a mea rugă {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5774}, id: {jELAt5vv9eQDff2MvD1Bx8}, contentHash: {3e8ebd}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

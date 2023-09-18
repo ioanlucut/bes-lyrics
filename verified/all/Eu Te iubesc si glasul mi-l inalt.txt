@@ -1,5 +1,5 @@
 [title]
-Eu Te iubesc și glasul mi-l înalț {rcId: {4926}, id: {8NyHsj74nxGWA4ZMsFAsJr}, contentHash: {7e3d06}}
+Eu Te iubesc și glasul mi-l înalț {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4926}, id: {8NyHsj74nxGWA4ZMsFAsJr}, contentHash: {7e3d06}}
 
 [sequence]
 v1

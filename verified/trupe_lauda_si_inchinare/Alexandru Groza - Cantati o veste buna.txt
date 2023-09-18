@@ -1,5 +1,5 @@
 [title]
-Cântați o veste bună {composer: {Alexandru Groza}, rcId: {4524}, id: {9uWTGbvv64J4TBxqXZovtm}, contentHash: {a6b848}}
+Cântați o veste bună {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4524}, id: {9uWTGbvv64J4TBxqXZovtm}, contentHash: {a6b848}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Doamne, Tu ce miști chiar munții {alternative: {Mighty to Save}, rcId: {225867}, id: {5osVKqjcDmjm3YVXps7YEJ}, contentHash: {597b89}}
+Doamne, Tu ce miști chiar munții {alternative: {Mighty to Save}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225867}, id: {5osVKqjcDmjm3YVXps7YEJ}, contentHash: {597b89}}
 
 [sequence]
 v1,c,v2,c,b,c

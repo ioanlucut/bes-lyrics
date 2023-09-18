@@ -1,5 +1,5 @@
 [title]
-În veci să țină lauda Domnului {id: {qUDzeV8EVQTwJB6iiNnmtk}, contentHash: {700f09}}
+În veci să țină lauda Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qUDzeV8EVQTwJB6iiNnmtk}, contentHash: {700f09}}
 
 [sequence]
 v1,v2

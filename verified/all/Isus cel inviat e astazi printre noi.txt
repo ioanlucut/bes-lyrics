@@ -1,5 +1,5 @@
 [title]
-Isus cel înviat e astăzi printre noi {rcId: {878}, id: {8Ks3D23VU5VrjKonyNXyXn}, contentHash: {fb1ec8}}
+Isus cel înviat e astăzi printre noi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {878}, id: {8Ks3D23VU5VrjKonyNXyXn}, contentHash: {fb1ec8}}
 
 [sequence]
 v1,c,v2,c

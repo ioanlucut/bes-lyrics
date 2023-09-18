@@ -1,5 +1,5 @@
 [title]
-Aceasta e ziua Domnului {composer: {Dan Istrate}, rcId: {228474}, id: {cxa91osa6vSy3MfpFhYcpT}, contentHash: {29018c}}
+Aceasta e ziua Domnului {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {228474}, id: {cxa91osa6vSy3MfpFhYcpT}, contentHash: {29018c}}
 
 [sequence]
 v1,v2,v3,v4

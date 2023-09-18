@@ -1,5 +1,5 @@
 [title]
-Dumnezeu minunat {composer: {Vitamina C}, rcId: {1079}, id: {mxQSD1Sb2VtmGjGVNN2aHp}, contentHash: {f9e178}}
+Dumnezeu minunat {alternative: {*}, composer: {Vitamina C}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1079}, id: {mxQSD1Sb2VtmGjGVNN2aHp}, contentHash: {f9e178}}
 
 [sequence]
 v1.1,v1.2,c,b,c

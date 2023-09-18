@@ -1,5 +1,5 @@
 [title]
-Și munții Te-nalță {composer: {Cor copii Dynamis}, id: {ruqTkCpV8fpmEqLubwPFP2}, contentHash: {93d205}}
+Și munții Te-nalță {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ruqTkCpV8fpmEqLubwPFP2}, contentHash: {93d205}}
 
 [sequence]
 p,c,v1,v2,c,v3

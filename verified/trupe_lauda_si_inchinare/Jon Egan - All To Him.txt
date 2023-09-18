@@ -1,5 +1,5 @@
 [title]
-All To Him {composer: {Jon Egan}, rcId: {188632}, id: {3TXJMxy2sswTt29GYLcBbb}, contentHash: {313e18}}
+All To Him {alternative: {*}, composer: {Jon Egan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188632}, id: {3TXJMxy2sswTt29GYLcBbb}, contentHash: {313e18}}
 
 [sequence]
 v1,c,v2,c,b,c

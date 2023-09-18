@@ -1,5 +1,5 @@
 [title]
-Ori de câte ori {composer: {Not an Idol}, rcId: {144681}, id: {ri32QLqri74U5rPyfA5J6x}, contentHash: {7e8f84}}
+Ori de câte ori {alternative: {*}, composer: {Not an Idol}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {144681}, id: {ri32QLqri74U5rPyfA5J6x}, contentHash: {7e8f84}}
 
 [sequence]
 v1,b,c,v2,b2,c

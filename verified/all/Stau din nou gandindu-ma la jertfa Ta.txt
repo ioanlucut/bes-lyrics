@@ -1,5 +1,5 @@
 [title]
-Stau din nou gândindu-mă la jertfa Ta {rcId: {2766}, id: {beGMdBTrR3CARHtBNcE9Gr}, contentHash: {48a163}}
+Stau din nou gândindu-mă la jertfa Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2766}, id: {beGMdBTrR3CARHtBNcE9Gr}, contentHash: {48a163}}
 
 [sequence]
 v1,c,v2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Doamne-mi pari îndepărtat {composer: {Ekklesia}, rcId: {7384}, id: {kGidXPzDUbSA1pAHbKYugJ}, contentHash: {fbb345}}
+Doamne-mi pari îndepărtat {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7384}, id: {kGidXPzDUbSA1pAHbKYugJ}, contentHash: {fbb345}}
 
 [sequence]
 v1,p,c,v2,p,c

@@ -1,5 +1,5 @@
 [title]
-Nu te teme {id: {hyBzmYBY8CBmsnACMV3fUb}, contentHash: {1af0f9}}
+Nu te teme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hyBzmYBY8CBmsnACMV3fUb}, contentHash: {1af0f9}}
 
 [sequence]
 v1,c,c2,v2,c2,c,e

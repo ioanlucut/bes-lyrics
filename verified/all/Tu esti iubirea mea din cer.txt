@@ -1,5 +1,5 @@
 [title]
-Tu ești iubirea mea din cer {id: {ovcVkgJeZ3v3tsrotM5NXZ}, contentHash: {459108}}
+Tu ești iubirea mea din cer {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ovcVkgJeZ3v3tsrotM5NXZ}, contentHash: {459108}}
 
 [sequence]
 v1,v2,c

@@ -1,5 +1,5 @@
 [title]
-Un cântec de laudă {composer: {Ekklesia}, rcId: {62666}, id: {nYiNGfX9UX8pjzMcJPHqQG}, contentHash: {863d8d}}
+Un cântec de laudă {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {62666}, id: {nYiNGfX9UX8pjzMcJPHqQG}, contentHash: {863d8d}}
 
 [sequence]
 v1,v2,p,c1.1,c1.2,c2

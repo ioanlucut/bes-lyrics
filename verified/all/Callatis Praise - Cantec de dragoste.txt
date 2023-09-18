@@ -1,5 +1,5 @@
 [title]
-Cântec de dragoste {composer: {Callatis Praise}, rcId: {6789}, id: {bBAsRvKQfirPn9qKabKq5h}, contentHash: {0e5688}}
+Cântec de dragoste {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6789}, id: {bBAsRvKQfirPn9qKabKq5h}, contentHash: {0e5688}}
 
 [sequence]
 v1,c

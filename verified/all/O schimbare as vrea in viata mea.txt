@@ -1,5 +1,5 @@
 [title]
-O schimbare aș vrea în viața mea {rcId: {153187}, id: {dFFvf6sb4fm8sPueJuzNYZ}, contentHash: {fe28d5}}
+O schimbare aș vrea în viața mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153187}, id: {dFFvf6sb4fm8sPueJuzNYZ}, contentHash: {fe28d5}}
 
 [sequence]
 v1,c,v2,c

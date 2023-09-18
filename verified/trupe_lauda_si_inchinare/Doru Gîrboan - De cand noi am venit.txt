@@ -1,5 +1,5 @@
 [title]
-De când noi am venit {composer: {Doru Gîrboan}, rcId: {140849}, id: {m9zGF2bsXLwGJu9ngK8Kkn}, contentHash: {29a11c}}
+De când noi am venit {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {140849}, id: {m9zGF2bsXLwGJu9ngK8Kkn}, contentHash: {29a11c}}
 
 [sequence]
 v1,p,c,v2,p,c

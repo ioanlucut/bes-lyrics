@@ -1,5 +1,5 @@
 [title]
-Pentru cruce-Ți mulțumesc {id: {4aGPJbrkSKxxYC2kkU7h2j}, contentHash: {42efa2}}
+Pentru cruce-Ți mulțumesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4aGPJbrkSKxxYC2kkU7h2j}, contentHash: {42efa2}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c,e

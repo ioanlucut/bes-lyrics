@@ -1,5 +1,5 @@
 [title]
-Râuri de iubire {id: {gTpbXxEjDoC9jQk8Rsz7Ly}, contentHash: {f61c75}}
+Râuri de iubire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gTpbXxEjDoC9jQk8Rsz7Ly}, contentHash: {f61c75}}
 
 [sequence]
 v1,v2,c

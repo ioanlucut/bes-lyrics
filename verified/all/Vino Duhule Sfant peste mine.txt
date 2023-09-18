@@ -1,5 +1,5 @@
 [title]
-Vino, Duhule Sfânt, peste mine {id: {nB5GBSviqGwxc5hmg3yujF}, contentHash: {518691}}
+Vino, Duhule Sfânt, peste mine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nB5GBSviqGwxc5hmg3yujF}, contentHash: {518691}}
 
 [sequence]
 v1

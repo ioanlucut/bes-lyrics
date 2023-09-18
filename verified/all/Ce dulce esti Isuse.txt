@@ -1,5 +1,5 @@
 [title]
-Ce dulce ești, Isuse {rcId: {6467}, id: {2LEe6NGX3oZBxWHR1Y1oL7}, contentHash: {44bd1f}}
+Ce dulce ești, Isuse {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6467}, id: {2LEe6NGX3oZBxWHR1Y1oL7}, contentHash: {44bd1f}}
 
 [sequence]
 v1,p,v2,c,v3,c2

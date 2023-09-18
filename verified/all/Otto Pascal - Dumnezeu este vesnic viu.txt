@@ -1,5 +1,5 @@
 [title]
-Dumnezeu este veșnic viu {composer: {Otto Pascal}, rcId: {190825}, id: {tGxeGmRxNDL15etAfQKPp3}, contentHash: {faf841}}
+Dumnezeu este veșnic viu {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190825}, id: {tGxeGmRxNDL15etAfQKPp3}, contentHash: {faf841}}
 
 [sequence]
 v1,c,v2,c,e

@@ -1,5 +1,5 @@
 [title]
-Isus e rege {composer: {Lari Muntean adaptare după Sinach}, rcId: {176028}, id: {uYRX5ELrooCvf582GLNAEg}, contentHash: {2bbce5}}
+Isus e rege {alternative: {*}, composer: {Lari Muntean adaptare după Sinach}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176028}, id: {uYRX5ELrooCvf582GLNAEg}, contentHash: {2bbce5}}
 
 [sequence]
 v1,c,v2,c,b,c2,c

@@ -1,5 +1,5 @@
 [title]
-Cerul e un loc minunat {id: {7MXHCtA3NZnjVdsRBQMbrU}, contentHash: {d3e63b}}
+Cerul e un loc minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7MXHCtA3NZnjVdsRBQMbrU}, contentHash: {d3e63b}}
 
 [sequence]
 c

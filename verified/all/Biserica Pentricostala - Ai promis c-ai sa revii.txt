@@ -1,5 +1,5 @@
 [title]
-Ai promis c-ai să revii {composer: {Biserica Pentricostala}, rcId: {225851}, id: {2qKunHxG3XvFnEKHmbiLSa}, contentHash: {29dd83}}
+Ai promis c-ai să revii {alternative: {*}, composer: {Biserica Pentricostala}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225851}, id: {2qKunHxG3XvFnEKHmbiLSa}, contentHash: {29dd83}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Mai adă Doamne-acele vremuri din trecut {composer: {Puiu Chibici}, rcId: {7335}, id: {exDK34G1PpzaEZcib3MW6G}, contentHash: {cf17ab}}
+Mai adă Doamne-acele vremuri din trecut {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7335}, id: {exDK34G1PpzaEZcib3MW6G}, contentHash: {cf17ab}}
 
 [sequence]
 v1,v2,v3,v4

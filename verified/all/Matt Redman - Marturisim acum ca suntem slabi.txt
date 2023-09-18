@@ -1,5 +1,5 @@
 [title]
-Mărturisim acum că suntem slabi {composer: {Matt Redman}, rcId: {778}, id: {u8vrpSWAGDcpmvcsFhJRiL}, contentHash: {98160c}}
+Mărturisim acum că suntem slabi {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {778}, id: {u8vrpSWAGDcpmvcsFhJRiL}, contentHash: {98160c}}
 
 [sequence]
 v1,p,c

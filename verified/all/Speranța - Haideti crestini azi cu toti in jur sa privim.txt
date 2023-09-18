@@ -1,5 +1,5 @@
 [title]
-Haideți creștini azi cu toți în jur să privim {composer: {Speranța}, rcId: {66663}, id: {fYvkWc2LryNXVwErrWC4q7}, contentHash: {7885d8}}
+Haideți creștini azi cu toți în jur să privim {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66663}, id: {fYvkWc2LryNXVwErrWC4q7}, contentHash: {7885d8}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2

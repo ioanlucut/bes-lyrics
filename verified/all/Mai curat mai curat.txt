@@ -1,5 +1,5 @@
 [title]
-Mai curat, mai curat {id: {sD7Psru5P52nJ4UkP1tpSj}, contentHash: {d3fdb5}}
+Mai curat, mai curat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sD7Psru5P52nJ4UkP1tpSj}, contentHash: {d3fdb5}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Mai mult decât o poveste {composer: {Cor copii Dynamis}, rcId: {143101}, id: {39nhqPjj4Lmn3DkoXC82Hd}, contentHash: {a18485}}
+Mai mult decât o poveste {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {143101}, id: {39nhqPjj4Lmn3DkoXC82Hd}, contentHash: {a18485}}
 
 [sequence]
 v1,c,v2,c,b,e

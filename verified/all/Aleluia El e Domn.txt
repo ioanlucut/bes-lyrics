@@ -1,5 +1,5 @@
 [title]
-Aleluia, El e Domn {rcId: {1016}, id: {8rStkjfxpZU58HiKs6RHJg}, contentHash: {65adb0}}
+Aleluia, El e Domn {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1016}, id: {8rStkjfxpZU58HiKs6RHJg}, contentHash: {65adb0}}
 
 [sequence]
 v1,c,v1,c

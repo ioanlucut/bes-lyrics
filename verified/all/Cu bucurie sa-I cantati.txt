@@ -1,5 +1,5 @@
 [title]
-Cu bucurie să-I cântați {id: {bEKtEBiobKtG12NdvFydX9}, contentHash: {197c2e}}
+Cu bucurie să-I cântați {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bEKtEBiobKtG12NdvFydX9}, contentHash: {197c2e}}
 
 [sequence]
 v1,v2,v3

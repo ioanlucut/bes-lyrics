@@ -1,5 +1,5 @@
 [title]
-Crucea-i ascultarea Domnului Isus {composer: {Nicolae Moldoveanu}, rcId: {1853}, id: {afEBYx2Y4VE9gRNbZPTVT5}, contentHash: {6917e7}}
+Crucea-i ascultarea Domnului Isus {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1853}, id: {afEBYx2Y4VE9gRNbZPTVT5}, contentHash: {6917e7}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

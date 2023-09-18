@@ -1,5 +1,5 @@
 [title]
-Ce scumpă-i ziua în care Isus v-a unit {composer: {Otto Pascal}, rcId: {111949}, id: {bRRcKZEhCeoB6g5xgcaYRJ}, contentHash: {9c20d8}}
+Ce scumpă-i ziua în care Isus v-a unit {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111949}, id: {bRRcKZEhCeoB6g5xgcaYRJ}, contentHash: {9c20d8}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Lângă fântâna de la Sihar {rcId: {192986}, id: {2j663SuSonXSgthzBZGP8k}, contentHash: {57885d}}
+Lângă fântâna de la Sihar {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {192986}, id: {2j663SuSonXSgthzBZGP8k}, contentHash: {57885d}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

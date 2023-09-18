@@ -1,5 +1,5 @@
 [title]
-Roagă-te dimineața {rcId: {57643}, id: {gDy5q6T1kutVShK49694un}, contentHash: {5c8d9a}}
+Roagă-te dimineața {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {57643}, id: {gDy5q6T1kutVShK49694un}, contentHash: {5c8d9a}}
 
 [sequence]
 v1,v2,v3,v4

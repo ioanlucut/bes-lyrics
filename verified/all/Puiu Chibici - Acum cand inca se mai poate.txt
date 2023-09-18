@@ -1,5 +1,5 @@
 [title]
-Acum, când încă se mai poate {composer: {Puiu Chibici}, rcId: {7194}, id: {saSgFbsBifDVs5Xv4TaWcz}, contentHash: {9c754e}}
+Acum, când încă se mai poate {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7194}, id: {saSgFbsBifDVs5Xv4TaWcz}, contentHash: {9c754e}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

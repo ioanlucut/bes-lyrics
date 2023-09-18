@@ -1,5 +1,5 @@
 [title]
-Domnul în ceruri domnește {composer: {Matt Redman}, rcId: {2811}, id: {5YRW2hxZ1a8uofYt6McotC}, contentHash: {ea47bb}}
+Domnul în ceruri domnește {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2811}, id: {5YRW2hxZ1a8uofYt6McotC}, contentHash: {ea47bb}}
 
 [sequence]
 v1,p,c,v1,p,c

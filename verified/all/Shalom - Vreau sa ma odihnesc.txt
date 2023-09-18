@@ -1,5 +1,5 @@
 [title]
-Vreau să mă odihnesc {composer: {Shalom}, rcId: {74775}, id: {h1jfS1Q6PNDocc9Mnz52Qx}, contentHash: {eff622}}
+Vreau să mă odihnesc {alternative: {*}, composer: {Shalom}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74775}, id: {h1jfS1Q6PNDocc9Mnz52Qx}, contentHash: {eff622}}
 
 [sequence]
 v1,v2,c,v3,c

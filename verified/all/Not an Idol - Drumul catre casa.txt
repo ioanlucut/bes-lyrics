@@ -1,5 +1,5 @@
 [title]
-Drumul către casă {composer: {Not an Idol}, rcId: {238035}, id: {euLzdj19faNsMMiS7RxMjL}, contentHash: {3bcafc}}
+Drumul către casă {alternative: {*}, composer: {Not an Idol}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238035}, id: {euLzdj19faNsMMiS7RxMjL}, contentHash: {3bcafc}}
 
 [sequence]
 v1,v2,c,v3,c

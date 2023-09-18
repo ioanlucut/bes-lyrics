@@ -1,5 +1,5 @@
 [title]
-Astăzi mă-nchin Domnului {rcId: {2120}, id: {uk8kGsK1iH1qvgM3sBoYYb}, contentHash: {406b26}}
+Astăzi mă-nchin Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2120}, id: {uk8kGsK1iH1qvgM3sBoYYb}, contentHash: {406b26}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c

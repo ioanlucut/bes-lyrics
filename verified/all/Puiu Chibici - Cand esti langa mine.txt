@@ -1,5 +1,5 @@
 [title]
-Când ești lângă mine {composer: {Puiu Chibici}, rcId: {7382}, id: {iVbAxudLUmwE2C76qyMtpr}, contentHash: {a0c950}}
+Când ești lângă mine {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7382}, id: {iVbAxudLUmwE2C76qyMtpr}, contentHash: {a0c950}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,v4,c1.1,c1.2

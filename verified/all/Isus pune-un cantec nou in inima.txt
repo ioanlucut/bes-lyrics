@@ -1,5 +1,5 @@
 [title]
-Isus pune-un cântec nou în inimă {rcId: {4960}, id: {fftqAkiDQCfKxdbcvPMR4f}, contentHash: {6db6ec}}
+Isus pune-un cântec nou în inimă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4960}, id: {fftqAkiDQCfKxdbcvPMR4f}, contentHash: {6db6ec}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Doamne, inima strigă către Tine {id: {cqykuMBYnpjyRfrWt1inwJ}, contentHash: {615975}}
+Doamne, inima strigă către Tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cqykuMBYnpjyRfrWt1inwJ}, contentHash: {615975}}
 
 [sequence]
 v1,c1.1,c1.2

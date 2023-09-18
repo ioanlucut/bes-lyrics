@@ -1,5 +1,5 @@
 [title]
-Am găsit în Domnul fericirea {composer: {Alexandru Groza}, rcId: {1381}, id: {qrDMuWUXcBsWE19oTnTdUr}, contentHash: {d2194b}}
+Am găsit în Domnul fericirea {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1381}, id: {qrDMuWUXcBsWE19oTnTdUr}, contentHash: {d2194b}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

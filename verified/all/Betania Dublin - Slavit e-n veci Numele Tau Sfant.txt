@@ -1,5 +1,5 @@
 [title]
-Slăvit e-n veci Numele Tău Sfânt {composer: {Betania Dublin}, rcId: {192865}, id: {8N5Jb7KwvVEAQKmUjoAQ2m}, contentHash: {4f1280}}
+Slăvit e-n veci Numele Tău Sfânt {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {192865}, id: {8N5Jb7KwvVEAQKmUjoAQ2m}, contentHash: {4f1280}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,v3,c

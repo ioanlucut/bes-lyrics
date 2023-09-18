@@ -1,5 +1,5 @@
 [title]
-Aleluia, laudă Lui {composer: {Otto Pascal}, rcId: {7246}, id: {rdrETD31sTE5B2GmHGXH6Y}, contentHash: {9ff8e7}}
+Aleluia, laudă Lui {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7246}, id: {rdrETD31sTE5B2GmHGXH6Y}, contentHash: {9ff8e7}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Iubire din Tine {id: {8unAZ7XGWPXU8k3FYivxLn}, contentHash: {7ea9c1}}
+Iubire din Tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8unAZ7XGWPXU8k3FYivxLn}, contentHash: {7ea9c1}}
 
 [sequence]
 v1,c,v1,c

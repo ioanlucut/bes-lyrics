@@ -1,5 +1,5 @@
 [title]
-Numai o dată tu trăiești {composer: {Nicolae Moldoveanu}, rcId: {5393}, id: {8RhVRecBQCKHz4uxVqrEjr}, contentHash: {a6c8f2}}
+Numai o dată tu trăiești {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5393}, id: {8RhVRecBQCKHz4uxVqrEjr}, contentHash: {a6c8f2}}
 
 [sequence]
 v1,v2,v3,v4

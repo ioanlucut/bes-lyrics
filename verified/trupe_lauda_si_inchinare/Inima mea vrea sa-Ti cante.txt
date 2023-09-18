@@ -1,5 +1,5 @@
 [title]
-Inima mea vrea să-Ți cânte {rcId: {1010}, id: {kAkXYD17D7MMuzowF9DCrX}, contentHash: {746ff8}}
+Inima mea vrea să-Ți cânte {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1010}, id: {kAkXYD17D7MMuzowF9DCrX}, contentHash: {746ff8}}
 
 [sequence]
 v1,c,v1,c

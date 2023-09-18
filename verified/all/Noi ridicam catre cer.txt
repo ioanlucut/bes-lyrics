@@ -1,5 +1,5 @@
 [title]
-Noi ridicăm către cer {id: {iQzrRSACY4RTSkqrwEBgAR}, contentHash: {2bdfa3}}
+Noi ridicăm către cer {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {iQzrRSACY4RTSkqrwEBgAR}, contentHash: {2bdfa3}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Te-ai coborât {composer: {Ami & Crista}, rcId: {145564}, id: {7EygoTzdZqk1vZ2Qf4U2av}, contentHash: {0bd787}}
+Te-ai coborât {alternative: {*}, composer: {Ami & Crista}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {145564}, id: {7EygoTzdZqk1vZ2Qf4U2av}, contentHash: {0bd787}}
 
 [sequence]
 v1,c,v2,c

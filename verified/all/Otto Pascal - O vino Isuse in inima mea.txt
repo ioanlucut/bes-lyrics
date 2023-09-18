@@ -1,5 +1,5 @@
 [title]
-O, vino, Isuse, în inima mea {composer: {Otto Pascal}, rcId: {216540}, id: {rUuMkG5r8ifSdUi3kauQ5f}, contentHash: {152368}}
+O, vino, Isuse, în inima mea {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {216540}, id: {rUuMkG5r8ifSdUi3kauQ5f}, contentHash: {152368}}
 
 [sequence]
 v1,v2,v3,v4

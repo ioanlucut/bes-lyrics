@@ -1,5 +1,5 @@
 [title]
-Nicidecum, nicidecum, niciodată {composer: {Costache Ioanid}, rcId: {5002}, id: {haZ1LC1pBZe7iMvTpGKsSJ}, contentHash: {f8faf6}}
+Nicidecum, nicidecum, niciodată {alternative: {*}, composer: {Costache Ioanid}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5002}, id: {haZ1LC1pBZe7iMvTpGKsSJ}, contentHash: {f8faf6}}
 
 [sequence]
 v1,v2,v3,v4,v5

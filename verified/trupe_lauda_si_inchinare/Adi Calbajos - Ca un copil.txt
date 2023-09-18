@@ -1,5 +1,5 @@
 [title]
-Ca un copil {composer: {Adi Calbajos}, rcId: {121522}, id: {q3vejaZNiayLcxCFxW2Bwp}, contentHash: {bfa65c}}
+Ca un copil {alternative: {*}, composer: {Adi Calbajos}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {121522}, id: {q3vejaZNiayLcxCFxW2Bwp}, contentHash: {bfa65c}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2

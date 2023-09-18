@@ -1,5 +1,5 @@
 [title]
-Numele Tău {composer: {Otto Pascal}, rcId: {188863}, id: {mNNTEGjvwrkar8iU8yLUU1}, contentHash: {53baa5}}
+Numele Tău {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188863}, id: {mNNTEGjvwrkar8iU8yLUU1}, contentHash: {53baa5}}
 
 [sequence]
 v1,c,v2,c

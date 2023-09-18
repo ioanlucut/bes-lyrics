@@ -1,5 +1,5 @@
 [title]
-Binecuvântarea iubirii {id: {hKc4Ym1GvShdUtjxuXpVZ1}, contentHash: {01c4ed}}
+Binecuvântarea iubirii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hKc4Ym1GvShdUtjxuXpVZ1}, contentHash: {01c4ed}}
 
 [sequence]
 v1,v2,v3

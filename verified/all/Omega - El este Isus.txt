@@ -1,5 +1,5 @@
 [title]
-El este Isus {composer: {Omega}, rcId: {6996}, id: {2ys6R9qdcyfzdLB16o8g4j}, contentHash: {4dc0c2}}
+El este Isus {alternative: {*}, composer: {Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6996}, id: {2ys6R9qdcyfzdLB16o8g4j}, contentHash: {4dc0c2}}
 
 [sequence]
 v1,c,v2,c

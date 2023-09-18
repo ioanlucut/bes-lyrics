@@ -1,5 +1,5 @@
 [title]
-Golgota de-ar vorbi, Golgota de-ar vorbi {composer: {Alexandru Groza}, rcId: {5482}, id: {nNCdgRx2k3YAdawphoagZm}, contentHash: {a22de3}}
+Golgota de-ar vorbi, Golgota de-ar vorbi {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5482}, id: {nNCdgRx2k3YAdawphoagZm}, contentHash: {a22de3}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2

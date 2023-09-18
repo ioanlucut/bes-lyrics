@@ -1,5 +1,5 @@
 [title]
-Aleluia, Tu ești Domn atotputernic {id: {jUS8UwuWsdmBkLX2cVAdzL}, contentHash: {38a5f5}}
+Aleluia, Tu ești Domn atotputernic {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jUS8UwuWsdmBkLX2cVAdzL}, contentHash: {38a5f5}}
 
 [sequence]
 v1,c,v1,c

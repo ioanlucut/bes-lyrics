@@ -1,5 +1,5 @@
 [title]
-El îți dă eliberare! {composer: {Jonathan Smith}, rcId: {172576}, id: {mSRDYhZ7k8V87tw1bddMQi}, contentHash: {e79b8d}}
+El îți dă eliberare! {alternative: {*}, composer: {Jonathan Smith}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172576}, id: {mSRDYhZ7k8V87tw1bddMQi}, contentHash: {e79b8d}}
 
 [sequence]
 v1,c,v2,c,b,c

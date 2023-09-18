@@ -1,5 +1,5 @@
 [title]
-Domn al domnilor {rcId: {4221}, id: {jHkzDWRDrjxmiTgfx8w68f}, contentHash: {240fd7}}
+Domn al domnilor {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4221}, id: {jHkzDWRDrjxmiTgfx8w68f}, contentHash: {240fd7}}
 
 [sequence]
 v1,c,e

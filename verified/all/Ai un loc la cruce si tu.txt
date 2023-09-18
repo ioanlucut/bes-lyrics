@@ -1,5 +1,5 @@
 [title]
-Ai un loc la cruce și tu {rcId: {74544}, id: {5G3EMXXLQE95J16RDj1jw5}, contentHash: {93f64b}}
+Ai un loc la cruce și tu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74544}, id: {5G3EMXXLQE95J16RDj1jw5}, contentHash: {93f64b}}
 
 [sequence]
 c,v1

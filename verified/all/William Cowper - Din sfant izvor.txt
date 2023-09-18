@@ -1,5 +1,5 @@
 [title]
-Din sfânt izvor {composer: {William Cowper}, rcId: {1890}, id: {arixiVWRQThW92BQoSwntx}, contentHash: {253dcc}}
+Din sfânt izvor {alternative: {*}, composer: {William Cowper}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1890}, id: {arixiVWRQThW92BQoSwntx}, contentHash: {253dcc}}
 
 [sequence]
 v1,c,v2,c,v3,c

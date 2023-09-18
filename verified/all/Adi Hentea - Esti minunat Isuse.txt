@@ -1,5 +1,5 @@
 [title]
-Ești minunat, Isuse {composer: {Adi Hentea}, rcId: {236318}, id: {ape5ET1Caswxr3BibxYUes}, contentHash: {bf9db6}}
+Ești minunat, Isuse {alternative: {*}, composer: {Adi Hentea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {236318}, id: {ape5ET1Caswxr3BibxYUes}, contentHash: {bf9db6}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2,c1.1,c1.2
