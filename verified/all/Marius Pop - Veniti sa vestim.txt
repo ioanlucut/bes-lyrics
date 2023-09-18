@@ -1,5 +1,5 @@
 [title]
-Veniți să vestim {author: {Marius Pop}, contentHash: {9a6b9b}, id: {6AkhB4rbNjoJr6jURJgoRP}, rcId: {157002}}
+Veniți să vestim {author: {Marius Pop}, contentHash: {9868a3}, id: {6AkhB4rbNjoJr6jURJgoRP}, rcId: {157002}}
 
 [sequence]
 v1,c,b,c
@@ -24,6 +24,6 @@ Ne-a-mpăcat cu Tatăl Dumnezeu!
 
 [b]
 S-a născut în iesle,
-Fiul Lui Dumnezeu a coborât.
+Fiul lui Dumnezeu a coborât.
 S-a dezbrăcat de glorie
 Și fiu al omului a devenit.

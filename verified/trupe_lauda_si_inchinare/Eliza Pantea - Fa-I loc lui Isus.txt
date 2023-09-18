@@ -1,5 +1,5 @@
 [title]
-Fă-I loc lui Isus {author: {Eliza Pantea}, contentHash: {38e577}, id: {jSG8FDoiN6jjYNB88GENEm}, rcId: {183503}}
+Fă-I loc lui Isus {author: {Eliza Pantea}, contentHash: {d62476}, id: {jSG8FDoiN6jjYNB88GENEm}, rcId: {183503}}
 
 [sequence]
 v1,c,v2,c,b,e
@@ -31,4 +31,4 @@ Te-ai îmbrăcat smerit,
 În haina mea de om.
 
 [e]
-Fă-I loc în inima ta Lui Mesia.
+Fă-I loc în inima ta lui Mesia.

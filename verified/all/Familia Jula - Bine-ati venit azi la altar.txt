@@ -1,5 +1,5 @@
 [title]
-Bine-ați venit azi la altar {author: {Familia Jula}, contentHash: {91308a}, id: {aEvWNNrmTCs9WPbXM3Y9BM}, rcId: {59246}}
+Bine-ați venit azi la altar {author: {Familia Jula}, contentHash: {9f00a3}, id: {aEvWNNrmTCs9WPbXM3Y9BM}, rcId: {59246}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -12,7 +12,7 @@ A rânduit pe pământ.
 
 [v1.2]
 Să vă iubiți și să trăiți
-Spre slava Lui Dumnezeu.
+Spre slava lui Dumnezeu.
 Trăind așa, de veți lupta,
 Veșnic vă veți bucura.
 

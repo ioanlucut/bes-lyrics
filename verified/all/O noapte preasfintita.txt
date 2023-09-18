@@ -1,5 +1,5 @@
 [title]
-O, noapte preasfințită {author: {__A__}, contentHash: {b47957}, id: {e1TnXSwVG2DcqadpBq29Sb}, rcId: {5026}}
+O, noapte preasfințită {author: {__A__}, contentHash: {17091c}, id: {e1TnXSwVG2DcqadpBq29Sb}, rcId: {5026}}
 
 [sequence]
 v1,v2,v3
@@ -23,7 +23,7 @@ Hristos ne mântuie!
 [v3]
 O, noapte preasfințită!
 Saltă, o, inimă,
-Acum Fiul Lui Dumnezeu
+Acum Fiul lui Dumnezeu
 Te mângâie prin Harul Său.
 Vezi, Hristos S-a născut!
 Vezi, Hristos S-a născut!

@@ -1,5 +1,5 @@
 [title]
-O, porumbel cu pene sfinte {author: {Dionisie Giuchici}, contentHash: {9e8a99}, id: {i7eq9c6MyWUCbssKGA7dpG}, rcId: {4541}}
+O, porumbel cu pene sfinte {author: {Dionisie Giuchici}, contentHash: {6efb03}, id: {i7eq9c6MyWUCbssKGA7dpG}, rcId: {4541}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c
@@ -38,4 +38,4 @@ Că și astăzi lucrezi la fel.
 Ni-e dor, ni-e dor de dimineața
 Când vom zbura în jurul Tău
 Și vom uita pe veci durerea,
-Sus la tronul Lui Dumnezeu.
+Sus la tronul lui Dumnezeu.

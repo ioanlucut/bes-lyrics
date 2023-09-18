@@ -1,5 +1,5 @@
 [title]
-Însă e Cineva {author: {Otto Pascal}, contentHash: {a8356f}, id: {cS6WG75wn5tEH6ApKwQY25}, rcId: {204203}}
+Însă e Cineva {author: {Otto Pascal}, contentHash: {4607ab}, id: {cS6WG75wn5tEH6ApKwQY25}, rcId: {204203}}
 
 [sequence]
 v1,c,v2,b,c
@@ -12,7 +12,7 @@ Nu mai știu să dăruiesc, nici să iert și să iubesc,
 
 [c]
 Însă e Cineva, ce-a iertat vina mea,
-E Isus, Fiul Lui Dumnezeu!
+E Isus, Fiul lui Dumnezeu!
 Am să-L chem, am să-L strig, să mă schimbe deplin,
 Să mă învețe să iert, să iubesc ca și El!
 

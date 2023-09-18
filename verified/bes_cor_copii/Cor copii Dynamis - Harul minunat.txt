@@ -1,12 +1,12 @@
 [title]
-Harul minunat {author: {Cor copii Dynamis}, contentHash: {268c2d}, id: {iTibMtu7q98pam9KshCgx1}, rcId: {__R__}}
+Harul minunat {author: {Cor copii Dynamis}, contentHash: {5dcb7e}, id: {iTibMtu7q98pam9KshCgx1}, rcId: {__R__}}
 
 [sequence]
 v1,v2,v3,v4,c,v5,v6,v7,v8,v9
 
 [v1]
 „Căci prin har ați fost mântuiți, prin credință.
-Și aceasta nu vine de la voi; ci este darul Lui Dumnezeu.
+Și aceasta nu vine de la voi; ci este darul lui Dumnezeu.
 Nu prin fapte ca să nu se laude nimeni.”
 Efeseni 2:8,9
 

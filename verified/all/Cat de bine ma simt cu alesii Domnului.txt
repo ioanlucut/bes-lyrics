@@ -1,5 +1,5 @@
 [title]
-Cât de bine mă simt cu aleșii Domnului {author: {__A__}, contentHash: {6a63b4}, id: {jiKDVJHadEAihVnTNHDgfx}, rcId: {74286}}
+Cât de bine mă simt cu aleșii Domnului {author: {__A__}, contentHash: {277331}, id: {jiKDVJHadEAihVnTNHDgfx}, rcId: {74286}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
@@ -18,7 +18,7 @@ O, ce popor, ce popor minunat!
 
 [v1]
 Ce plăcut și ce frumos
-E pe calea Lui Hristos,
+E pe calea lui Hristos,
 Când pe Domnul ei Îl laudă voios!
 Nu e loc mai fericit
 Ca acel unde-am găsit

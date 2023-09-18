@@ -1,5 +1,5 @@
 [title]
-E prezent aici {author: {__A__}, contentHash: {33734f}, id: {sHH2SduEMKPho4rZcWKrUF}, rcId: {6753}}
+E prezent aici {author: {__A__}, contentHash: {b24c79}, id: {sHH2SduEMKPho4rZcWKrUF}, rcId: {6753}}
 
 [sequence]
 v1,c,v2,c
@@ -14,7 +14,7 @@ Vreau să-Ți spun că El acum e prezent,
 Trebuie doar să-L atingi.
 
 [c]
-/: E prezent aici Fiul Lui Dumnezeu,
+/: E prezent aici Fiul lui Dumnezeu,
 E prezent și vrea să-ți dea mâna Sa,
 E prezent aici, Te așteaptă iubind,
 Trebuie doar să vrei, să-I dai inima. :/

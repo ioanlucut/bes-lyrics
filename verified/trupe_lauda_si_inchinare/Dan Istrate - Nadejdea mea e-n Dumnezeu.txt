@@ -1,5 +1,5 @@
 [title]
-Nădejdea mea e-n Dumnezeu {author: {Dan Istrate}, contentHash: {76afaf}, id: {amJzACT2RXHbvTYmgFtYyr}, rcId: {220908}}
+Nădejdea mea e-n Dumnezeu {author: {Dan Istrate}, contentHash: {1db616}, id: {amJzACT2RXHbvTYmgFtYyr}, rcId: {220908}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -41,7 +41,7 @@ Ființa mea plăpândă. :/
 Și-n vuietul de ape,
 /: În flori și-n tot ce-i mai frumos,
 În cei răscumpărați de jos,
-Iubirea sfânt-a Lui Hristos
+Iubirea sfânt-a lui Hristos
 O simt tot mai aproape. :/
 
 [v6]

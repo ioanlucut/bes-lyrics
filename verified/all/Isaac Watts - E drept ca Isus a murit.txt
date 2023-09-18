@@ -1,5 +1,5 @@
 [title]
-E drept că Isus a murit {author: {Isaac Watts}, contentHash: {9c45b2}, id: {d67LirghH3yaeSv8EQumAz}, rcId: {1687}}
+E drept că Isus a murit {author: {Isaac Watts}, contentHash: {1e0f99}, id: {d67LirghH3yaeSv8EQumAz}, rcId: {1687}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -8,7 +8,7 @@ v1,c,v2,c,v3,c
 E drept că Isus a murit,
 Purtând păcatul meu?
 Pe cruce cum a suferit,
-Fiul Lui Dumnezeu?
+Fiul lui Dumnezeu?
 
 [c]
 /: Da, crucea-i acel loc unde m-am luminat.

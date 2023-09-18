@@ -1,5 +1,5 @@
 [title]
-Duh Preasfânt {author: {Stuart Townend & Keith Getty}, contentHash: {25b221}, id: {wBgRB4jt51P94iLc7pFApf}, rcId: {211468}}
+Duh Preasfânt {author: {Stuart Townend & Keith Getty}, contentHash: {666e6e}, id: {wBgRB4jt51P94iLc7pFApf}, rcId: {211468}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
@@ -38,4 +38,4 @@ Fă-Ți de har poporul însetat.
 Înălțând mireasma rugilor,
 Ne condu pe calea jertfelor,
 Ca uniți să arătăm vădit,
-Fața Lui Hristos Cel proslăvit.
+Fața lui Hristos Cel proslăvit.

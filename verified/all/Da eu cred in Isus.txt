@@ -1,12 +1,12 @@
 [title]
-Da, eu cred în Isus {author: {__A__}, contentHash: {52598d}, id: {vEzm8dUQDA1ryXeEHb8jb6}, rcId: {4874}}
+Da, eu cred în Isus {author: {__A__}, contentHash: {6d6d6e}, id: {vEzm8dUQDA1ryXeEHb8jb6}, rcId: {4874}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
 Da, eu cred în Isus,
-Cred că El e Fiul Lui Dumnezeu,
+Cred că El e Fiul lui Dumnezeu,
 Cred că a murit și-a înviat,
 Prețul pentru noi a plătit.
 
@@ -18,6 +18,6 @@ Pe bolnavi vindecând
 
 [v2]
 Da, eu cred în Tine,
-Cred că Tu ești Fiul Lui Dumnezeu,
+Cred că Tu ești Fiul lui Dumnezeu,
 Cred că ai murit și-ai înviat,
 Prețul pentru noi ai plătit.

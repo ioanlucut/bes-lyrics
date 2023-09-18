@@ -1,5 +1,5 @@
 [title]
-În fiecare zi din viața mea {author: {__A__}, contentHash: {aa7563}, id: {4oSAfbe41Huz9392W15CRa}, rcId: {105747}}
+În fiecare zi din viața mea {author: {__A__}, contentHash: {97848c}, id: {4oSAfbe41Huz9392W15CRa}, rcId: {105747}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -24,7 +24,7 @@ Că-L am pe Dumnezeu! :/
 Chiar și greutăți dacă vor veni
 Eu îl am pe Dumnezeu.
 Sprijin și adăpost am găsit în El
-În Fiul Lui Dumnezeu.
+În Fiul lui Dumnezeu.
 
 [v3]
 Bucură-te, tu, azi, în inima ta
