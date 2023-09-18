@@ -1,5 +1,5 @@
 [title]
-Era odată-o tainică grădină {author: {Nicolae Moldoveanu}, contentHash: {5dffdd}, id: {8xgeauBEmTS5jXdGX2HbPS}, rcId: {5473}}
+Era odată-o tainică grădină {composer: {Nicolae Moldoveanu}, rcId: {5473}, id: {8xgeauBEmTS5jXdGX2HbPS}, contentHash: {5dffdd}}
 
 [sequence]
 v1,v2,v3,v4,v5

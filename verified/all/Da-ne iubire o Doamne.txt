@@ -1,5 +1,5 @@
 [title]
-Dă-ne iubire, o, Doamne {author: {__A__}, contentHash: {2b7b4c}, id: {aiTRfQ8Whj8CQPi5KYcHPH}, rcId: {__R__}}
+Dă-ne iubire, o, Doamne {id: {aiTRfQ8Whj8CQPi5KYcHPH}, contentHash: {2b7b4c}}
 
 [sequence]
 v1,v2

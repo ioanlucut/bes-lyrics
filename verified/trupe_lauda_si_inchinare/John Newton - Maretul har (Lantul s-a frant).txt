@@ -1,5 +1,5 @@
 [title]
-Mărețul har (Lanțul s-a frânt) {author: {John Newton}, contentHash: {85cc91}, id: {r9D7zp45VXBgajrY4dAUJU}, rcId: {4490}}
+Mărețul har (Lanțul s-a frânt) {composer: {John Newton}, rcId: {4490}, id: {r9D7zp45VXBgajrY4dAUJU}, contentHash: {85cc91}}
 
 [sequence]
 v1,v2,c,v3,v4,c,e

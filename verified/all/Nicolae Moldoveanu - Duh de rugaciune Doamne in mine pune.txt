@@ -1,5 +1,5 @@
 [title]
-Duh de rugăciune, Doamne, în mine pune {author: {Nicolae Moldoveanu}, contentHash: {5aa91a}, id: {h4KzyDqB1pGGSSq6rWqd6Y}, rcId: {5335}}
+Duh de rugăciune, Doamne, în mine pune {composer: {Nicolae Moldoveanu}, rcId: {5335}, id: {h4KzyDqB1pGGSSq6rWqd6Y}, contentHash: {5aa91a}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

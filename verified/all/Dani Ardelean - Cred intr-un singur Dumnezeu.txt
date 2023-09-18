@@ -1,5 +1,5 @@
 [title]
-Cred într-un singur Dumnezeu {author: {Dani Ardelean}, contentHash: {2aeacb}, id: {oWn3uuAD5nC5hNfaJcMUuZ}, rcId: {232883}}
+Cred într-un singur Dumnezeu {composer: {Dani Ardelean}, rcId: {232883}, id: {oWn3uuAD5nC5hNfaJcMUuZ}, contentHash: {2aeacb}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c,b,b2,b3

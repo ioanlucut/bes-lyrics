@@ -1,5 +1,5 @@
 [title]
-Cu Tine stau de vorbă {author: {Otto Pascal}, contentHash: {e23d29}, id: {dhPvTcC6wEfd5qMMGSXmHw}, rcId: {230546}}
+Cu Tine stau de vorbă {composer: {Otto Pascal}, rcId: {230546}, id: {dhPvTcC6wEfd5qMMGSXmHw}, contentHash: {e23d29}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,b,c1.1,c1.2

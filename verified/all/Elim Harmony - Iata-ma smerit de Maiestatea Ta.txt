@@ -1,5 +1,5 @@
 [title]
-Iată-mă, smerit de Maiestatea Ta {author: {Elim Harmony}, contentHash: {1165b6}, id: {t25mZ4dbzB3VpzAM24e72f}, rcId: {56491}}
+Iată-mă, smerit de Maiestatea Ta {composer: {Elim Harmony}, rcId: {56491}, id: {t25mZ4dbzB3VpzAM24e72f}, contentHash: {1165b6}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2,c1.1,c1.2,e

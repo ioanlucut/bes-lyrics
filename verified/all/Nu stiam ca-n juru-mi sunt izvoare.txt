@@ -1,5 +1,5 @@
 [title]
-Nu știam că-n juru-mi sunt izvoare {author: {__A__}, contentHash: {a44910}, id: {2wUsgnayPB9eVAqmpoazeL}, rcId: {4018}}
+Nu știam că-n juru-mi sunt izvoare {rcId: {4018}, id: {2wUsgnayPB9eVAqmpoazeL}, contentHash: {a44910}}
 
 [sequence]
 v1,v2,v3,v4,v5

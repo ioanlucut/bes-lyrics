@@ -1,5 +1,5 @@
 [title]
-Amice, din păcat te scoală {author: {I. Aleman}, contentHash: {e03544}, id: {6ZuukXDguDrGjkTdXoYFqA}, rcId: {5367}}
+Amice, din păcat te scoală {composer: {I. Aleman}, rcId: {5367}, id: {6ZuukXDguDrGjkTdXoYFqA}, contentHash: {e03544}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

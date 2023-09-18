@@ -1,5 +1,5 @@
 [title]
-Glorie, Osanale, către cer să privim {author: {Cor copii Dynamis}, contentHash: {64948e}, id: {mDVbCQ54SEgTErP6vYZrtJ}, rcId: {__R__}}
+Glorie, Osanale, către cer să privim {composer: {Cor copii Dynamis}, id: {mDVbCQ54SEgTErP6vYZrtJ}, contentHash: {64948e}}
 
 [sequence]
 c,v1,c,v2,c,e

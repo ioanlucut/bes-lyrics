@@ -1,5 +1,5 @@
 [title]
-Cât de bine mă simt cu aleșii Domnului {author: {__A__}, contentHash: {277331}, id: {jiKDVJHadEAihVnTNHDgfx}, rcId: {74286}}
+Cât de bine mă simt cu aleșii Domnului {rcId: {74286}, id: {jiKDVJHadEAihVnTNHDgfx}, contentHash: {277331}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2

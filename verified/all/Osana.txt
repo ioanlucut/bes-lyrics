@@ -1,5 +1,5 @@
 [title]
-Osana {author: {__A__}, contentHash: {bdd0fc}, id: {aFrSaoh4rhHHudtwQmYZjU}, rcId: {__R__}}
+Osana {id: {aFrSaoh4rhHHudtwQmYZjU}, contentHash: {bdd0fc}}
 
 [sequence]
 v1,v2,v3

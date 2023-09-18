@@ -1,5 +1,5 @@
 [title]
-Suntem aici, în prezența Ta {author: {Speranța}, contentHash: {0ecbf9}, id: {en82mt5VyeA3tgvGesSKMD}, rcId: {111296}}
+Suntem aici, în prezența Ta {composer: {Speranța}, rcId: {111296}, id: {en82mt5VyeA3tgvGesSKMD}, contentHash: {0ecbf9}}
 
 [sequence]
 v1,c,v1,c

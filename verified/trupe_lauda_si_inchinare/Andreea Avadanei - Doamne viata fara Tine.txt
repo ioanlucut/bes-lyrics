@@ -1,5 +1,5 @@
 [title]
-Doamne, viața fără Tine {author: {Andreea Avadanei}, contentHash: {9410e7}, id: {eiMzaGtWUAMJMTPwXcn1Z7}, rcId: {176807}}
+Doamne, viața fără Tine {composer: {Andreea Avadanei}, rcId: {176807}, id: {eiMzaGtWUAMJMTPwXcn1Z7}, contentHash: {9410e7}}
 
 [sequence]
 v1,c,v2,c

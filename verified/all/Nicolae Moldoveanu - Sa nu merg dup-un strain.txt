@@ -1,5 +1,5 @@
 [title]
-Să nu merg dup-un străin {author: {Nicolae Moldoveanu}, contentHash: {cf03cc}, id: {5WGAbB9x7nDPSdVFoW2X3Q}, rcId: {5877}}
+Să nu merg dup-un străin {composer: {Nicolae Moldoveanu}, rcId: {5877}, id: {5WGAbB9x7nDPSdVFoW2X3Q}, contentHash: {cf03cc}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Fața Ta, o, Doamne-o căutăm {author: {Matt Redman}, contentHash: {091c5b}, id: {xApF6qmuEzhnqVVUL1odWW}, rcId: {2458}}
+Fața Ta, o, Doamne-o căutăm {composer: {Matt Redman}, rcId: {2458}, id: {xApF6qmuEzhnqVVUL1odWW}, contentHash: {091c5b}}
 
 [sequence]
 v1,c,v2,c,b,c

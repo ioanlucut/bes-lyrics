@@ -1,5 +1,5 @@
 [title]
-Noi ridicăm către cer {author: {Ekklesia}, contentHash: {de754b}, id: {wJHcvPe267hJbNDKuMQAfZ}, rcId: {7190}}
+Noi ridicăm către cer {composer: {Ekklesia}, rcId: {7190}, id: {wJHcvPe267hJbNDKuMQAfZ}, contentHash: {de754b}}
 
 [sequence]
 v1,c,v2,c,v3,c

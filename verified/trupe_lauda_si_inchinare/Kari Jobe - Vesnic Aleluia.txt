@@ -1,5 +1,5 @@
 [title]
-Veșnic Aleluia {author: {Kari Jobe}, contentHash: {36d697}, id: {m41BEgL6GjxPS1rzR1NZ46}, rcId: {136138}}
+Veșnic Aleluia {composer: {Kari Jobe}, rcId: {136138}, id: {m41BEgL6GjxPS1rzR1NZ46}, contentHash: {36d697}}
 
 [sequence]
 v1.1,v1.2,p,c,p,c,b,c

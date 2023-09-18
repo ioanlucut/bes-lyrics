@@ -1,5 +1,5 @@
 [title]
-Pentru soare și ploaie, răsărit și amurg {author: {Elim Harmony}, contentHash: {7f1b13}, id: {8axqoqn5r8kyrxjoxChZxf}, rcId: {112858}}
+Pentru soare și ploaie, răsărit și amurg {composer: {Elim Harmony}, rcId: {112858}, id: {8axqoqn5r8kyrxjoxChZxf}, contentHash: {7f1b13}}
 
 [sequence]
 v1,c,v2,c,c2,e

@@ -1,5 +1,5 @@
 [title]
-Într-un loc liniștit și-ascuns {author: {Alin Timofte}, contentHash: {9389b6}, id: {7cZDtCK9W5EoWUFHQX1Uh5}, rcId: {3994}}
+Într-un loc liniștit și-ascuns {composer: {Alin Timofte}, rcId: {3994}, id: {7cZDtCK9W5EoWUFHQX1Uh5}, contentHash: {9389b6}}
 
 [sequence]
 v1,c,v2,c

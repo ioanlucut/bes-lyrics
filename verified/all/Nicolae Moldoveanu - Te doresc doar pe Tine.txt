@@ -1,5 +1,5 @@
 [title]
-Te doresc doar pe Tine {author: {Nicolae Moldoveanu}, contentHash: {6ceba6}, id: {jp8eczcNixcfDHzhqdjiu1}, rcId: {5442}}
+Te doresc doar pe Tine {composer: {Nicolae Moldoveanu}, rcId: {5442}, id: {jp8eczcNixcfDHzhqdjiu1}, contentHash: {6ceba6}}
 
 [sequence]
 v1,c,v2,c,v3,c

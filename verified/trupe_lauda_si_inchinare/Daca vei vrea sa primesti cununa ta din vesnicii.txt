@@ -1,5 +1,5 @@
 [title]
-Dacă vei vrea să primești cununa ta din veșnicii {author: {__A__}, contentHash: {f89590}, id: {t4HnGfmML4drXrtV3DuH2w}, rcId: {1414}}
+Dacă vei vrea să primești cununa ta din veșnicii {rcId: {1414}, id: {t4HnGfmML4drXrtV3DuH2w}, contentHash: {f89590}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2

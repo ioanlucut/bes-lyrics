@@ -1,5 +1,5 @@
 [title]
-Isus mă conduce {author: {__A__}, contentHash: {c721b6}, id: {oJiWWdmDcpecuG7doun17x}, rcId: {__R__}}
+Isus mă conduce {id: {oJiWWdmDcpecuG7doun17x}, contentHash: {c721b6}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Sunt multe monumente-n lume {author: {The Messengers}, contentHash: {4e3af9}, id: {rh8u81VK6Y3FiKQtsuAogN}, rcId: {6606}}
+Sunt multe monumente-n lume {composer: {The Messengers}, rcId: {6606}, id: {rh8u81VK6Y3FiKQtsuAogN}, contentHash: {4e3af9}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

@@ -1,5 +1,5 @@
 [title]
-Test {author: {__A__}, contentHash: {c75967}, id: {pkiA5akQix1n3JHo7VhgjQ}, rcId: {__R__}}
+Test {id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {c75967}}
 
 [sequence]
 v1,v2,v3

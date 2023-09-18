@@ -1,5 +1,5 @@
 [title]
-Regele vieții, Domnul meu {author: {William J. Kirkpatrick}, contentHash: {6e9b94}, id: {rWeVAqUhwnJuyP8bXNJSxy}, rcId: {1522}}
+Regele vieții, Domnul meu {composer: {William J. Kirkpatrick}, rcId: {1522}, id: {rWeVAqUhwnJuyP8bXNJSxy}, contentHash: {6e9b94}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Văd, Doamne, chipul Tău strălucitor {author: {Nicolae Moldoveanu}, contentHash: {bdb325}, id: {2vVpQBopaE2VndQejDh6Ya}, rcId: {5918}}
+Văd, Doamne, chipul Tău strălucitor {composer: {Nicolae Moldoveanu}, rcId: {5918}, id: {2vVpQBopaE2VndQejDh6Ya}, contentHash: {bdb325}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Te vom înălța {author: {BBSO}, contentHash: {ccfa47}, id: {giS7cdQ4BzNFi2ZPzsDUrB}, rcId: {214234}}
+Te vom înălța {composer: {BBSO}, rcId: {214234}, id: {giS7cdQ4BzNFi2ZPzsDUrB}, contentHash: {ccfa47}}
 
 [sequence]
 v1,v2,c,v3,c

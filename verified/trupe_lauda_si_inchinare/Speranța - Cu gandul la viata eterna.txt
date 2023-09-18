@@ -1,5 +1,5 @@
 [title]
-Cu gândul la viața eternă {author: {Speranța}, contentHash: {907956}, id: {tN8mgbqzLDMHNCCmGeKy21}, rcId: {55658}}
+Cu gândul la viața eternă {composer: {Speranța}, rcId: {55658}, id: {tN8mgbqzLDMHNCCmGeKy21}, contentHash: {907956}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

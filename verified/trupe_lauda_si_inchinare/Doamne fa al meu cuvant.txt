@@ -1,5 +1,5 @@
 [title]
-Doamne, fă al meu cuvânt {author: {__A__}, contentHash: {8cee63}, id: {vJNpDgD2D5rkG371ZH6vri}, rcId: {5257}}
+Doamne, fă al meu cuvânt {rcId: {5257}, id: {vJNpDgD2D5rkG371ZH6vri}, contentHash: {8cee63}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5

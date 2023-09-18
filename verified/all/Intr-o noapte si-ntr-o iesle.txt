@@ -1,5 +1,5 @@
 [title]
-Într-o noapte și-ntr-o iesle {author: {__A__}, contentHash: {5f40a8}, id: {tPJkkKUCjKTSHA4ThMtXk5}, rcId: {__R__}}
+Într-o noapte și-ntr-o iesle {id: {tPJkkKUCjKTSHA4ThMtXk5}, contentHash: {5f40a8}}
 
 [sequence]
 v1,v2,c,v3,v4,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Știi tu ce port în pieptul meu {author: {Nicolae Moldoveanu}, contentHash: {4ac7b0}, id: {xx5TnVbgKRFpJrdY1JQ9LL}, rcId: {5432}}
+Știi tu ce port în pieptul meu {composer: {Nicolae Moldoveanu}, rcId: {5432}, id: {xx5TnVbgKRFpJrdY1JQ9LL}, contentHash: {4ac7b0}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

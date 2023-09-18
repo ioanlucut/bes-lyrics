@@ -1,5 +1,5 @@
 [title]
-O cântare de mărire {author: {John W. Peterson}, contentHash: {111f6e}, id: {iNHj8obA9wUrJKDLz2rFYM}, rcId: {5014}}
+O cântare de mărire {composer: {John W. Peterson}, rcId: {5014}, id: {iNHj8obA9wUrJKDLz2rFYM}, contentHash: {111f6e}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

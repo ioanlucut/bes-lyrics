@@ -1,5 +1,5 @@
 [title]
-Fii binecuvântat! {author: {Ekklesia BN}, contentHash: {3d8351}, id: {ahELdKi2WUCEGNKDEP8BL1}, rcId: {66232}}
+Fii binecuvântat! {composer: {Ekklesia BN}, rcId: {66232}, id: {ahELdKi2WUCEGNKDEP8BL1}, contentHash: {3d8351}}
 
 [sequence]
 v1.1,v1.2,p,c,v2.1,v2.2,v2.3,p,c,b,b,c,e

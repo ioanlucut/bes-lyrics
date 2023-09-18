@@ -1,5 +1,5 @@
 [title]
-Păzește-ți piciorul {author: {Puiu Chibici}, contentHash: {81778e}, id: {p698Kbqd3r8BF25H7u3eKD}, rcId: {192959}}
+Păzește-ți piciorul {composer: {Puiu Chibici}, rcId: {192959}, id: {p698Kbqd3r8BF25H7u3eKD}, contentHash: {81778e}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

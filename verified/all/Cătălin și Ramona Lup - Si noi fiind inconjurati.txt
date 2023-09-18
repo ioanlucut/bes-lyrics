@@ -1,5 +1,5 @@
 [title]
-Și noi fiind înconjurați {author: {Cătălin și Ramona Lup}, contentHash: {1822cb}, id: {rfDkUZztPzBebwBdDY1gbX}, rcId: {190352}}
+Și noi fiind înconjurați {composer: {Cătălin și Ramona Lup}, rcId: {190352}, id: {rfDkUZztPzBebwBdDY1gbX}, contentHash: {1822cb}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

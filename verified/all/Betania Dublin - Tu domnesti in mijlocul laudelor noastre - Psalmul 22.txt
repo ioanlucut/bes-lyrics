@@ -1,5 +1,5 @@
 [title]
-Tu domnești în mijlocul laudelor noastre {author: {Betania Dublin}, alternative: {Psalmul 22}, contentHash: {559e22}, id: {mL52NHFz3ppgDiGEnUzDdp}, rcId: {230349}}
+Tu domnești în mijlocul laudelor noastre {alternative: {Psalmul 22}, composer: {Betania Dublin}, rcId: {230349}, id: {mL52NHFz3ppgDiGEnUzDdp}, contentHash: {559e22}}
 
 [sequence]
 v1,c,v2,b,c

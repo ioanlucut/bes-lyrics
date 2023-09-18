@@ -1,5 +1,5 @@
 [title]
-Cinste, onoare, glorie, splendoare {author: {__A__}, contentHash: {17547c}, id: {d5k4ywUCmQqRXr8WbsxqKH}, rcId: {4859}}
+Cinste, onoare, glorie, splendoare {rcId: {4859}, id: {d5k4ywUCmQqRXr8WbsxqKH}, contentHash: {17547c}}
 
 [sequence]
 v1,c,v1,c,b,c

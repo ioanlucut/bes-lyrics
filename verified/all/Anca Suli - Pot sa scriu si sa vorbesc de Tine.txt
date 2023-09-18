@@ -1,5 +1,5 @@
 [title]
-Pot să scriu și să vorbesc de Tine {author: {Anca Suli}, contentHash: {3d55b2}, id: {3avZ4xtHD47PNhMuLxE1qJ}, rcId: {58944}}
+Pot să scriu și să vorbesc de Tine {composer: {Anca Suli}, rcId: {58944}, id: {3avZ4xtHD47PNhMuLxE1qJ}, contentHash: {3d55b2}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

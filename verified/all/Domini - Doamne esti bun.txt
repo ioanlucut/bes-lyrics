@@ -1,5 +1,5 @@
 [title]
-Doamne ești bun {author: {Domini}, contentHash: {b21242}, id: {4xJT3zRivvXabmLjafZCoo}, rcId: {120642}}
+Doamne ești bun {composer: {Domini}, rcId: {120642}, id: {4xJT3zRivvXabmLjafZCoo}, contentHash: {b21242}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

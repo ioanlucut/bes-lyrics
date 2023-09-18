@@ -1,5 +1,5 @@
 [title]
-Lumină în noapte {author: {Teo Family}, contentHash: {2ed837}, id: {8RACgEq55NDfV1gGDJX1NK}, rcId: {198973}}
+Lumină în noapte {composer: {Teo Family}, rcId: {198973}, id: {8RACgEq55NDfV1gGDJX1NK}, contentHash: {2ed837}}
 
 [sequence]
 c,v1,c,v2

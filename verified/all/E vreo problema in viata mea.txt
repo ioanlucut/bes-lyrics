@@ -1,5 +1,5 @@
 [title]
-E vreo problemă în viața mea {author: {__A__}, contentHash: {bd3625}, id: {hwWimjQGCqmGTdiZ8zgjM7}, rcId: {__R__}}
+E vreo problemă în viața mea {id: {hwWimjQGCqmGTdiZ8zgjM7}, contentHash: {bd3625}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

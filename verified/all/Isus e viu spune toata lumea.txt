@@ -1,5 +1,5 @@
 [title]
-Isus e viu, spune toată lumea {author: {__A__}, contentHash: {7d8396}, id: {3A65gVecopgNZVTbuvxE9x}, rcId: {__R__}}
+Isus e viu, spune toată lumea {id: {3A65gVecopgNZVTbuvxE9x}, contentHash: {7d8396}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,b,c1.1,c1.2

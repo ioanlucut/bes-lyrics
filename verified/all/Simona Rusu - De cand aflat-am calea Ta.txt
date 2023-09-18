@@ -1,5 +1,5 @@
 [title]
-De când aflat-am calea Ta {author: {Simona Rusu}, contentHash: {837d95}, id: {cSMTgJNyzuj4QdMpKd75iU}, rcId: {66523}}
+De când aflat-am calea Ta {composer: {Simona Rusu}, rcId: {66523}, id: {cSMTgJNyzuj4QdMpKd75iU}, contentHash: {837d95}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

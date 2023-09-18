@@ -1,5 +1,5 @@
 [title]
-Miel din staul {author: {Dan Damian}, contentHash: {8c9de7}, id: {iwah22JH8PYRjysRtEazDj}, rcId: {157003}}
+Miel din staul {composer: {Dan Damian}, rcId: {157003}, id: {iwah22JH8PYRjysRtEazDj}, contentHash: {8c9de7}}
 
 [sequence]
 v1,c,v2,c,v3,c

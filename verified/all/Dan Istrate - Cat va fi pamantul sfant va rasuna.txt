@@ -1,5 +1,5 @@
 [title]
-Cât va fi pământul sfânt, va răsuna {author: {Dan Istrate}, contentHash: {37b3c9}, id: {ayf37o4VoUQ6mKQkHUGhvE}, rcId: {220904}}
+Cât va fi pământul sfânt, va răsuna {composer: {Dan Istrate}, rcId: {220904}, id: {ayf37o4VoUQ6mKQkHUGhvE}, contentHash: {37b3c9}}
 
 [sequence]
 v1,c,v2,c,v3,c

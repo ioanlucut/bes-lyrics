@@ -10,7 +10,19 @@ Formatul folosit este unul simplu, similar cu cel din `OpenSong`, după cum urme
 
 ```
 [title]
-Aceasta mi-e dorința să Te-onorez
+Aceasta mi-e dorința să Te-onorez: {
+  version: {..write here..},
+  rcId: {..write here..},
+  composer: {..write here..},
+  writer: {..write here..},
+  arranger: {..write here..},
+  interpreter: {..write here..},
+  band: {..write here..},
+  genre: {..write here..},
+  key: {..write here..},
+  tempo: {..write here..},
+  tags: {..write here..}
+}
 
 [sequence]
 v1,c,v2,c
@@ -38,13 +50,38 @@ Domn al veșniciei, în veci! Amin!
 #### Explicații ale formatului
 
 > **Notă**: Înainte de a continua, trebuie să știi că toate cântările trebuie să aibă un `[title]` și un `[sequence]`.
-> De asemenea, trebuie să știi că `[title]` trebuie să fie primul element din cântare iar `[sequence]` trebuie să fie al doilea element din cântare.
+> De asemenea, trebuie să știi că `[title]` trebuie să fie primul element din cântare iar `[sequence]` trebuie să fie al
+> doilea element din cântare.
 > Restul elementelor pot fi în orice ordine. De asemenea, nu este nevoie să folosești toate elementele.
-> De exemplu, dacă cântarea nu are bridge, nu este nevoie să folosești `[b]`.
 
 ##### `[title]`
 
 - Reprezintă titlul cântecului. Exemplu: `[title] Aceasta mi-e dorința să Te-onorez`.
+- Necesar? Da.
+
+###### `writer: {Any Writer}`
+
+- The person who single-handedly created the melody and wrote the lyrics is called a writer.
+- See https://en.wikipedia.org/wiki/Songwriter
+
+###### `composer: {Any Composer}`
+
+- The composer of the song. A person who creates the melody of a song is called a music composer.
+- See https://ro.wikipedia.org/wiki/Compozitor
+
+###### `arranger: {Any Arranger}`
+
+- Whoever arranged the song. An arranger is someone who takes an existing song and gives it new life.
+- See https://dexonline.ro/definitie/aranjor
+
+###### `interpreter: {Any Interpreter}`
+
+- The interpreter of the song.
+- See https://ro.wikipedia.org/wiki/C%C3%A2nt%C4%83re%C8%9B
+
+##### `[sequence]`
+
+- Reprezintă secvența cântării sau ordinea în care se cântă această cântare.
 - Necesar? Da.
 
 #### `[v#{numar}]`
@@ -55,7 +92,8 @@ Domn al veșniciei, în veci! Amin!
 
 #### `[b#{numar?}]`
 
-- Reprezintă bridge-ul 1 (sau singurul) al cântării. Bridge-ul este o secțiune a cântării care se află înaintea corului (dar nu neapărat întotdeauna).
+- Reprezintă bridge-ul 1 (sau singurul) al cântării. Bridge-ul este o secțiune a cântării care se află înaintea
+  corului (dar nu neapărat întotdeauna).
 - Exemplu: `[b]` reprezintă bridge-ul 1 al cântării.
 - Necesar? Nu.
 
@@ -70,11 +108,18 @@ Domn al veșniciei, în veci! Amin!
 - Reprezintă pre-chorus-ul (sau singurul) al cântării (care se cântă întotdeauna înaintea corului)
 - Exemplu: `[p]` reprezintă pre-chorus-ul 1 al cântării.
 - Necesar? Nu.
+- Necesar? Nu.
 
-##### `[sequence]`
+#### `[s#{numar?}]`
 
-- Reprezintă secvența cântării sau ordinea în care se cântă această cântare.
-- Necesar? Da.
+- Reprezintă o secțiune de recital
+- Exemplu: `[s]` reprezintă recitalul 1 al cântării.
+- Necesar? Nu.
+
+#### `[e]`
+
+- Reprezintă ending-ul cântecului
+- Necesar? Nu.
 
 #### Caractere
 

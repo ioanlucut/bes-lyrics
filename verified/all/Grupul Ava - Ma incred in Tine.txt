@@ -1,5 +1,5 @@
 [title]
-Mă încred în Tine {author: {Grupul Ava}, contentHash: {c3f26a}, id: {1NnY5u4w6jucArczypWtCY}, rcId: {127029}}
+Mă încred în Tine {composer: {Grupul Ava}, rcId: {127029}, id: {1NnY5u4w6jucArczypWtCY}, contentHash: {c3f26a}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

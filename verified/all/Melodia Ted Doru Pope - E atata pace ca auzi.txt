@@ -1,5 +1,5 @@
 [title]
-E atâta pace că auzi {author: {Melodia Ted Doru Pope}, contentHash: {4e2ce6}, id: {s9zLM6RhHRE8rsk5P1G2Bv}, rcId: {792}}
+E atâta pace că auzi {composer: {Melodia Ted Doru Pope}, rcId: {792}, id: {s9zLM6RhHRE8rsk5P1G2Bv}, contentHash: {4e2ce6}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

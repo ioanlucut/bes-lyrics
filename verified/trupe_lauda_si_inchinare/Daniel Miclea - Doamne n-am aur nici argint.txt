@@ -1,5 +1,5 @@
 [title]
-Doamne, n-am aur, nici argint {author: {Daniel Miclea}, contentHash: {f6d660}, id: {9BMBYbCrdu1c2uR3RPFETG}, rcId: {4076}}
+Doamne, n-am aur, nici argint {composer: {Daniel Miclea}, rcId: {4076}, id: {9BMBYbCrdu1c2uR3RPFETG}, contentHash: {f6d660}}
 
 [sequence]
 v1,c,v2,c

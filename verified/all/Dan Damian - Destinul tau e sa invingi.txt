@@ -1,5 +1,5 @@
 [title]
-Destinul tău e să învingi {author: {Dan Damian}, contentHash: {3424d6}, id: {sjyHimJ3d87VCJyC24RUmA}, rcId: {886}}
+Destinul tău e să învingi {composer: {Dan Damian}, rcId: {886}, id: {sjyHimJ3d87VCJyC24RUmA}, contentHash: {3424d6}}
 
 [sequence]
 v1,c,v2,c

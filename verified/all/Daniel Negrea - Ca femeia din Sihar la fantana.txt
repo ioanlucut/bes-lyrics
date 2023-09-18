@@ -1,5 +1,5 @@
 [title]
-Ca femeia din Sihar la fântână {author: {Daniel Negrea}, contentHash: {64f628}, id: {2V1oLN9HThHkyzc9egwuvS}, rcId: {835}}
+Ca femeia din Sihar la fântână {composer: {Daniel Negrea}, rcId: {835}, id: {2V1oLN9HThHkyzc9egwuvS}, contentHash: {64f628}}
 
 [sequence]
 v1,c,v2,c,v3,c

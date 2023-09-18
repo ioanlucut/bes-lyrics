@@ -1,5 +1,5 @@
 [title]
-Vreau să-nvăț să leg o rană {author: {Otto Pascal}, contentHash: {562ba6}, id: {aEyNL3Qid7e3eftkwsu63C}, rcId: {89513}}
+Vreau să-nvăț să leg o rană {composer: {Otto Pascal}, rcId: {89513}, id: {aEyNL3Qid7e3eftkwsu63C}, contentHash: {562ba6}}
 
 [sequence]
 v1,c,v2,c

@@ -6,15 +6,9 @@ import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
 import pMap from 'p-map';
 import stringSimilarity from 'string-similarity';
-import { parse } from '../src/songParser.js';
-import { print } from '../src/songPrinter.js';
-import {
-  logFileWithLinkInConsole,
-  logProcessingFile,
-  NEW_LINE,
-  SLASH,
-} from '../src/index.js';
 import { flatten, without } from 'lodash-es';
+import { parse } from '../src/songParser.js';
+import { NEW_LINE, SLASH } from '../src/index.js';
 
 import { fileURLToPath } from 'url';
 
@@ -22,8 +16,6 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 dotenv.config();
 
-const RC_BASE = '/Users/ilucut/WORK/BES/bes-lyrics-parser';
-const RC_DIR = `${RC_BASE}/out/resurse_crestine`;
 const L_I_DIR = 'trupe_lauda_si_inchinare';
 const L_AND_I = '/Users/ilucut/WORK/BES/bes-lyrics/verified/' + L_I_DIR;
 
@@ -32,8 +24,6 @@ const pickedPartialTitleSongs = fsExtra
   .toString()
   .split(NEW_LINE)
   .filter(Boolean);
-
-const getOneOrTwoMatches = (text: string) => text.split(' / ').filter(Boolean);
 
 const readFiles = async (dir: string) =>
   (await recursive(dir)).map((filePath) => {

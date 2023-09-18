@@ -1,5 +1,5 @@
 [title]
-Ce multe sunt ce nu-nțeleg {author: {__A__}, contentHash: {83d400}, id: {eL8PaMAaTTT4TKEDz3ZjoX}, rcId: {__R__}}
+Ce multe sunt ce nu-nțeleg {id: {eL8PaMAaTTT4TKEDz3ZjoX}, contentHash: {83d400}}
 
 [sequence]
 v1,c,v2,c,v3,c

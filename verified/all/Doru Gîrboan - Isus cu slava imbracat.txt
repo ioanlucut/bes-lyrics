@@ -1,5 +1,5 @@
 [title]
-Isus, cu slavă îmbrăcat {author: {Doru Gîrboan}, contentHash: {a77203}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}, rcId: {119094}}
+Isus, cu slavă îmbrăcat {composer: {Doru Gîrboan}, rcId: {119094}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}, contentHash: {a77203}}
 
 [sequence]
 v1,c,v2,c,v3,c,c2,c

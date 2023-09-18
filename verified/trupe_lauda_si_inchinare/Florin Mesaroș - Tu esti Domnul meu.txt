@@ -1,5 +1,5 @@
 [title]
-Tu ești Domnul meu {author: {Florin Mesaroș}, contentHash: {812fb1}, id: {vb5rTc3QWwev9WexwPJCnw}, rcId: {158157}}
+Tu ești Domnul meu {composer: {Florin Mesaroș}, rcId: {158157}, id: {vb5rTc3QWwev9WexwPJCnw}, contentHash: {812fb1}}
 
 [sequence]
 v1,c,v2,c

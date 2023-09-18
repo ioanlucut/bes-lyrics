@@ -1,5 +1,5 @@
 [title]
-Ce măreț e-al meu Domn {author: {Neiconi Nutzy}, contentHash: {7a5981}, id: {e9Yq2gSBP5Zpjya2zVHp4S}, rcId: {4851}}
+Ce măreț e-al meu Domn {composer: {Neiconi Nutzy}, rcId: {4851}, id: {e9Yq2gSBP5Zpjya2zVHp4S}, contentHash: {7a5981}}
 
 [sequence]
 c,v1,c,v1

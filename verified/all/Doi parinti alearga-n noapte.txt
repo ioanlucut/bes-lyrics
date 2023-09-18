@@ -1,5 +1,5 @@
 [title]
-Doi părinți aleargă-n noapte {author: {__A__}, contentHash: {adc8ff}, id: {oAQdqFhsuVrTfEtPbVek7U}, rcId: {1580}}
+Doi părinți aleargă-n noapte {rcId: {1580}, id: {oAQdqFhsuVrTfEtPbVek7U}, contentHash: {adc8ff}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

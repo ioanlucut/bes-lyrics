@@ -1,5 +1,5 @@
 [title]
-Vino, Duhule Sfânt, peste mine {author: {__A__}, contentHash: {518691}, id: {nB5GBSviqGwxc5hmg3yujF}, rcId: {__R__}}
+Vino, Duhule Sfânt, peste mine {id: {nB5GBSviqGwxc5hmg3yujF}, contentHash: {518691}}
 
 [sequence]
 v1

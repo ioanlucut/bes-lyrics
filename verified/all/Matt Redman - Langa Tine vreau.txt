@@ -1,5 +1,5 @@
 [title]
-Lângă Tine vreau {author: {Matt Redman}, contentHash: {b30b58}, id: {ozEswUrc1yYjYticPUXex4}, rcId: {5135}}
+Lângă Tine vreau {composer: {Matt Redman}, rcId: {5135}, id: {ozEswUrc1yYjYticPUXex4}, contentHash: {b30b58}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c

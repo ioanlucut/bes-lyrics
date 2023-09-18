@@ -1,5 +1,5 @@
 [title]
-Sunt uimit {author: {BBSO}, alternative: {Adaptare după The Brooklyn Tabernacle Choir}, contentHash: {b0c934}, id: {31A6Fxbdakh2LKRJv5roHE}, rcId: {159137}}
+Sunt uimit {alternative: {Adaptare după The Brooklyn Tabernacle Choir}, composer: {BBSO}, rcId: {159137}, id: {31A6Fxbdakh2LKRJv5roHE}, contentHash: {b0c934}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,c2

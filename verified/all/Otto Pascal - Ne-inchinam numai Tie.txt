@@ -1,5 +1,5 @@
 [title]
-Ne-închinăm numai Ție {author: {Otto Pascal}, contentHash: {e08315}, id: {pGy289MQvra72ySrQkNCzi}, rcId: {237513}}
+Ne-închinăm numai Ție {composer: {Otto Pascal}, rcId: {237513}, id: {pGy289MQvra72ySrQkNCzi}, contentHash: {e08315}}
 
 [sequence]
 v1,c,v2,c,v3,c

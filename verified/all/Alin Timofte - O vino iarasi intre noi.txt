@@ -1,5 +1,5 @@
 [title]
-O, vino iarăși între noi {author: {Alin Timofte}, contentHash: {ba0d24}, id: {q1RU1nb1GtSCjxNNtdzhB5}, rcId: {97660}}
+O, vino iarăși între noi {composer: {Alin Timofte}, rcId: {97660}, id: {q1RU1nb1GtSCjxNNtdzhB5}, contentHash: {ba0d24}}
 
 [sequence]
 v1,c,v2,c

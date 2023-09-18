@@ -1,5 +1,5 @@
 [title]
-Ești milă {author: {Harvest Arad}, contentHash: {48028c}, id: {uqL8iZxSESMjrncZ4gRhgC}, rcId: {203629}}
+Ești milă {composer: {Harvest Arad}, rcId: {203629}, id: {uqL8iZxSESMjrncZ4gRhgC}, contentHash: {48028c}}
 
 [sequence]
 v1,v2,c,v3,e

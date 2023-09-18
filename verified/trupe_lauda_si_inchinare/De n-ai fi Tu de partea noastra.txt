@@ -1,5 +1,5 @@
 [title]
-De n-ai fi Tu de partea noastră {author: {__A__}, contentHash: {830ea9}, id: {3jmRNKNe5w9sMx7dfkfBW9}, rcId: {225848}}
+De n-ai fi Tu de partea noastră {rcId: {225848}, id: {3jmRNKNe5w9sMx7dfkfBW9}, contentHash: {830ea9}}
 
 [sequence]
 v1,c,v2,c

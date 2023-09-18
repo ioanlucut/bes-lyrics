@@ -1,5 +1,5 @@
 [title]
-Azi cântă, frate, că tu ești salvat {author: {Nicolae Moldoveanu}, contentHash: {b51560}, id: {k7Hki5iMUctDZ7vfLyuspb}, rcId: {2126}}
+Azi cântă, frate, că tu ești salvat {composer: {Nicolae Moldoveanu}, rcId: {2126}, id: {k7Hki5iMUctDZ7vfLyuspb}, contentHash: {b51560}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

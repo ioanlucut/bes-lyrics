@@ -1,5 +1,5 @@
 [title]
-Ogoarele sunt gata de recoltă {author: {Chris Bowater}, contentHash: {313a02}, id: {2xV8TsbKuXt785yZGTLPXp}, rcId: {891}}
+Ogoarele sunt gata de recoltă {composer: {Chris Bowater}, rcId: {891}, id: {2xV8TsbKuXt785yZGTLPXp}, contentHash: {313a02}}
 
 [sequence]
 v1,c,v2,c,v3,c

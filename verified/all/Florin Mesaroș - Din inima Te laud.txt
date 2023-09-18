@@ -1,5 +1,5 @@
 [title]
-Din inimă Te laud {author: {Florin Mesaroș}, contentHash: {ab18e9}, id: {pi5bQFmT3BT8gJ6zyzQ7ux}, rcId: {158961}}
+Din inimă Te laud {composer: {Florin Mesaroș}, rcId: {158961}, id: {pi5bQFmT3BT8gJ6zyzQ7ux}, contentHash: {ab18e9}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Protector {author: {Sarah Handaric}, contentHash: {c92dac}, id: {4tjcPxCep3kJqoppnfRNXL}, rcId: {227002}}
+Protector {composer: {Sarah Handaric}, rcId: {227002}, id: {4tjcPxCep3kJqoppnfRNXL}, contentHash: {c92dac}}
 
 [sequence]
 v1,c,v2,b,c

@@ -1,5 +1,5 @@
 [title]
-Domn al domnilor, Rege-al regilor este Dumnezeu, Împăratul meu {author: {Speranța}, contentHash: {c66554}, id: {pUTQdMUizHAi6TkzGh1Woz}, rcId: {56710}}
+Domn al domnilor, Rege-al regilor este Dumnezeu, Împăratul meu {composer: {Speranța}, rcId: {56710}, id: {pUTQdMUizHAi6TkzGh1Woz}, contentHash: {c66554}}
 
 [sequence]
 v1,c,v1,c,e

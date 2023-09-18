@@ -1,5 +1,5 @@
 [title]
-Cât încă mai curge uleiul în vas {author: {Puiu Chibici}, contentHash: {f8b9ff}, id: {nVR8y3Xzikheztp1qBcx1a}, rcId: {137838}}
+Cât încă mai curge uleiul în vas {composer: {Puiu Chibici}, rcId: {137838}, id: {nVR8y3Xzikheztp1qBcx1a}, contentHash: {f8b9ff}}
 
 [sequence]
 v1,v2,v3

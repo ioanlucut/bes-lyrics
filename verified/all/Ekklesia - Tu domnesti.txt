@@ -1,5 +1,5 @@
 [title]
-Tu domnești {author: {Ekklesia}, contentHash: {99a706}, id: {5M5S4cKLdvueY1KG2toYZZ}, rcId: {113388}}
+Tu domnești {composer: {Ekklesia}, rcId: {113388}, id: {5M5S4cKLdvueY1KG2toYZZ}, contentHash: {99a706}}
 
 [sequence]
 v1,c,v2,c,e

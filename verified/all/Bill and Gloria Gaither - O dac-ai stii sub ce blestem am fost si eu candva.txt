@@ -1,5 +1,5 @@
 [title]
-O, dac-ai știi sub ce blestem am fost și eu cândva {author: {Bill and Gloria Gaither}, contentHash: {63bfde}, id: {svLpdaXZVJEJFmUKf6qrgj}, rcId: {163577}}
+O, dac-ai știi sub ce blestem am fost și eu cândva {composer: {Bill and Gloria Gaither}, rcId: {163577}, id: {svLpdaXZVJEJFmUKf6qrgj}, contentHash: {63bfde}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

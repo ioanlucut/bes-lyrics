@@ -1,5 +1,5 @@
 [title]
-Două mii de ani se împlinesc {author: {__A__}, contentHash: {144015}, id: {bj2x6thiD8dRhsDu3xfaf7}, rcId: {1620}}
+Două mii de ani se împlinesc {rcId: {1620}, id: {bj2x6thiD8dRhsDu3xfaf7}, contentHash: {144015}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2

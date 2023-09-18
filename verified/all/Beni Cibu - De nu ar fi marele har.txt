@@ -1,5 +1,5 @@
 [title]
-De nu ar fi marele har {author: {Beni Cibu}, contentHash: {279fe5}, id: {pmw2ByBCPUgMYWzAqNJqUv}, rcId: {179533}}
+De nu ar fi marele har {composer: {Beni Cibu}, rcId: {179533}, id: {pmw2ByBCPUgMYWzAqNJqUv}, contentHash: {279fe5}}
 
 [sequence]
 v1,c,v2,c,v3,c

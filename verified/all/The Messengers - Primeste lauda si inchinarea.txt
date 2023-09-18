@@ -1,5 +1,5 @@
 [title]
-Primește lauda și închinarea {author: {The Messengers}, contentHash: {c8b8db}, id: {7LvB7LrMs4hjMkpVAKYP4d}, rcId: {4443}}
+Primește lauda și închinarea {composer: {The Messengers}, rcId: {4443}, id: {7LvB7LrMs4hjMkpVAKYP4d}, contentHash: {c8b8db}}
 
 [sequence]
 c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Doamne, mai vreau Rusalii {author: {Callatis Praise}, contentHash: {d03b46}, id: {d7CL5n8SsKJcdTjgj9gYEH}, rcId: {4431}}
+Doamne, mai vreau Rusalii {composer: {Callatis Praise}, rcId: {4431}, id: {d7CL5n8SsKJcdTjgj9gYEH}, contentHash: {d03b46}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c

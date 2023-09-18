@@ -1,5 +1,5 @@
 [title]
-Nici nu mai știu de câte ori m-ai apărat {author: {Maria Someșan}, contentHash: {7f4688}, id: {oq9jSDhCeaLQaF4iojjgTS}, rcId: {55656}}
+Nici nu mai știu de câte ori m-ai apărat {composer: {Maria Someșan}, rcId: {55656}, id: {oq9jSDhCeaLQaF4iojjgTS}, contentHash: {7f4688}}
 
 [sequence]
 v1,v2,v3,v4,v5,e

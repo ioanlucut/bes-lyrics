@@ -1,5 +1,5 @@
 [title]
-Bine-ați venit azi la altar {author: {Familia Jula}, contentHash: {9f00a3}, id: {aEvWNNrmTCs9WPbXM3Y9BM}, rcId: {59246}}
+Bine-ați venit azi la altar {composer: {Familia Jula}, rcId: {59246}, id: {aEvWNNrmTCs9WPbXM3Y9BM}, contentHash: {9f00a3}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

@@ -1,5 +1,5 @@
 [title]
-Precum trec stelele strălucitoare {author: {__A__}, contentHash: {e38ec9}, id: {sFzQHaLSCDDcvc7sxjdhbr}, rcId: {5045}}
+Precum trec stelele strălucitoare {rcId: {5045}, id: {sFzQHaLSCDDcvc7sxjdhbr}, contentHash: {e38ec9}}
 
 [sequence]
 v1,c,v2,c,v3,c

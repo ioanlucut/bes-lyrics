@@ -1,5 +1,5 @@
 [title]
-Mai sus de oameni și de-mpărați {author: {__A__}, contentHash: {0c7555}, id: {gJt6hSVQwSPMMTJTJZBMkq}, rcId: {2851}}
+Mai sus de oameni și de-mpărați {rcId: {2851}, id: {gJt6hSVQwSPMMTJTJZBMkq}, contentHash: {0c7555}}
 
 [sequence]
 v1,c,v2,c

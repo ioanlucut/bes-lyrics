@@ -1,5 +1,5 @@
 [title]
-Celui ce șade pe tron {author: {Cristocentric}, contentHash: {c81937}, id: {9xHPHPzQA874Fj1uCuQoCJ}, rcId: {4854}}
+Celui ce șade pe tron {composer: {Cristocentric}, rcId: {4854}, id: {9xHPHPzQA874Fj1uCuQoCJ}, contentHash: {c81937}}
 
 [sequence]
 v1,c,v1,c

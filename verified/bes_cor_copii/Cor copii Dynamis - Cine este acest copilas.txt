@@ -1,5 +1,5 @@
 [title]
-Cine este acest copilaș {author: {Cor copii Dynamis}, contentHash: {c792cb}, id: {nN5bxYKTuKX8JAFFcqDhTc}, rcId: {__R__}}
+Cine este acest copilaș {composer: {Cor copii Dynamis}, id: {nN5bxYKTuKX8JAFFcqDhTc}, contentHash: {c792cb}}
 
 [sequence]
 v1,v2,c,c2,c,c2,v2

@@ -1,5 +1,5 @@
 [title]
-Mai presus de orice, de credință, de-avânt {author: {Nicolae Moldoveanu}, contentHash: {989d35}, id: {4nJreu3Rat4o9cQMWahKGb}, rcId: {5385}}
+Mai presus de orice, de credință, de-avânt {composer: {Nicolae Moldoveanu}, rcId: {5385}, id: {4nJreu3Rat4o9cQMWahKGb}, contentHash: {989d35}}
 
 [sequence]
 v1,v2,v3,v4

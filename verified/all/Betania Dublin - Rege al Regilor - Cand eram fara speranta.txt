@@ -1,5 +1,5 @@
 [title]
-Rege al Regilor {author: {Betania Dublin}, alternative: {Când eram fără speranță}, contentHash: {c569a8}, id: {oAkczBTZt1Qo1soYbdyNzv}, rcId: {197841}}
+Rege al Regilor {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, rcId: {197841}, id: {oAkczBTZt1Qo1soYbdyNzv}, contentHash: {c569a8}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,v3.3,v3.4,c

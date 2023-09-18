@@ -1,5 +1,5 @@
 [title]
-M-ai găsit pe un drum părăsit {author: {Ovidiu Liteanu}, contentHash: {0ef657}, id: {w52nZgRnebwa3cyDfi5vMb}, rcId: {66119}}
+M-ai găsit pe un drum părăsit {composer: {Ovidiu Liteanu}, rcId: {66119}, id: {w52nZgRnebwa3cyDfi5vMb}, contentHash: {0ef657}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

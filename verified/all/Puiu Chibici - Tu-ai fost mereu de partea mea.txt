@@ -1,5 +1,5 @@
 [title]
-Tu-ai fost mereu de partea mea {author: {Puiu Chibici}, contentHash: {5c6448}, id: {i5eqm9ngLJTRCGRsY8oyqo}, rcId: {113418}}
+Tu-ai fost mereu de partea mea {composer: {Puiu Chibici}, rcId: {113418}, id: {i5eqm9ngLJTRCGRsY8oyqo}, contentHash: {5c6448}}
 
 [sequence]
 v1,c,v2,c,v3,c

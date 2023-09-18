@@ -1,5 +1,5 @@
 [title]
-Pune, Doamne, dragoste-ntre frați {author: {Gabriel Gorcea și prietenii}, contentHash: {502429}, id: {gDqneXDhfg59mpgN4dvpWV}, rcId: {112875}}
+Pune, Doamne, dragoste-ntre frați {composer: {Gabriel Gorcea și prietenii}, rcId: {112875}, id: {gDqneXDhfg59mpgN4dvpWV}, contentHash: {502429}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

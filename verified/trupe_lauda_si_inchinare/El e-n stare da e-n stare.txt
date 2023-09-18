@@ -1,5 +1,5 @@
 [title]
-El e-n stare, da, e-n stare {author: {__A__}, contentHash: {ca04b6}, id: {3riDL34iUXMevEj24ybj2F}, rcId: {61358}}
+El e-n stare, da, e-n stare {rcId: {61358}, id: {3riDL34iUXMevEj24ybj2F}, contentHash: {ca04b6}}
 
 [sequence]
 v1,c,v1,c

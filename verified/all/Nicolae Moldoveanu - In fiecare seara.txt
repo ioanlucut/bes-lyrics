@@ -1,5 +1,5 @@
 [title]
-În fiecare seară {author: {Nicolae Moldoveanu}, contentHash: {bb9593}, id: {kVEqnrGoe9Gh7UMPJrYPLu}, rcId: {5343}}
+În fiecare seară {composer: {Nicolae Moldoveanu}, rcId: {5343}, id: {kVEqnrGoe9Gh7UMPJrYPLu}, contentHash: {bb9593}}
 
 [sequence]
 v1,c,v2,c

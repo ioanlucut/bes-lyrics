@@ -1,5 +1,5 @@
 [title]
-Te laud dis de dimineață {author: {Liliana Balcan}, contentHash: {06e18b}, id: {onpJU1zdqiHsSryZ5L4wKH}, rcId: {57651}}
+Te laud dis de dimineață {composer: {Liliana Balcan}, rcId: {57651}, id: {onpJU1zdqiHsSryZ5L4wKH}, contentHash: {06e18b}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

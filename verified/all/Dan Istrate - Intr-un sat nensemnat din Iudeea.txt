@@ -1,5 +1,5 @@
 [title]
-Într-un sat ne’nsemnat din Iudeea {author: {Dan Istrate}, contentHash: {9d11c9}, id: {uTkfmCq2McrszGSyoNNVKk}, rcId: {157710}}
+Într-un sat ne’nsemnat din Iudeea {composer: {Dan Istrate}, rcId: {157710}, id: {uTkfmCq2McrszGSyoNNVKk}, contentHash: {9d11c9}}
 
 [sequence]
 v1,c,v2,c

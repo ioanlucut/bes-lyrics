@@ -1,5 +1,5 @@
 [title]
-Sunt fericit {author: {Adi Hentea}, contentHash: {a7ea96}, id: {o2xDuSWuEPvCvk2J6ZEUPq}, rcId: {115723}}
+Sunt fericit {composer: {Adi Hentea}, rcId: {115723}, id: {o2xDuSWuEPvCvk2J6ZEUPq}, contentHash: {a7ea96}}
 
 [sequence]
 v1,c,v2,c

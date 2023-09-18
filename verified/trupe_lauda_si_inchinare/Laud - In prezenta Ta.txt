@@ -1,5 +1,5 @@
 [title]
-În prezența Ta {author: {Laud}, contentHash: {8f2fce}, id: {v4VFGXYwXDXsnEvi52tF9N}, rcId: {2814}}
+În prezența Ta {composer: {Laud}, rcId: {2814}, id: {v4VFGXYwXDXsnEvi52tF9N}, contentHash: {8f2fce}}
 
 [sequence]
 v1,c,v2,c

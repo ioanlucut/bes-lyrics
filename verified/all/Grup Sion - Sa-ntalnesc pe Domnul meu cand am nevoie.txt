@@ -1,5 +1,5 @@
 [title]
-Să-ntâlnesc pe Domnul meu când am nevoie {author: {Grup Sion}, contentHash: {33027b}, id: {newEiT4d8uZUn5Fs5xshbZ}, rcId: {2761}}
+Să-ntâlnesc pe Domnul meu când am nevoie {composer: {Grup Sion}, rcId: {2761}, id: {newEiT4d8uZUn5Fs5xshbZ}, contentHash: {33027b}}
 
 [sequence]
 c,v1,c,v2,c

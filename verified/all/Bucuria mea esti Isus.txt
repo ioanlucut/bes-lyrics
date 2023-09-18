@@ -1,5 +1,5 @@
 [title]
-Bucuria mea ești Isus {author: {__A__}, contentHash: {0d10e6}, id: {gUSPTsptEWdzwrTYG78uJT}, rcId: {1395}}
+Bucuria mea ești Isus {rcId: {1395}, id: {gUSPTsptEWdzwrTYG78uJT}, contentHash: {0d10e6}}
 
 [sequence]
 v1,v2,v3

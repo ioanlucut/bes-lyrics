@@ -1,5 +1,5 @@
 [title]
-Aceasta e ziua Domnului {author: {Dan Istrate}, contentHash: {29018c}, id: {cxa91osa6vSy3MfpFhYcpT}, rcId: {228474}}
+Aceasta e ziua Domnului {composer: {Dan Istrate}, rcId: {228474}, id: {cxa91osa6vSy3MfpFhYcpT}, contentHash: {29018c}}
 
 [sequence]
 v1,v2,v3,v4

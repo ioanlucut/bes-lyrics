@@ -1,5 +1,5 @@
 [title]
-Doar cu o praștie și cu o piatră {author: {Cor copii Dynamis}, contentHash: {e26539}, id: {mrjsXMudL34pigjMJjUG8Y}, rcId: {__R__}}
+Doar cu o praștie și cu o piatră {composer: {Cor copii Dynamis}, id: {mrjsXMudL34pigjMJjUG8Y}, contentHash: {e26539}}
 
 [sequence]
 c,v1,c2,v2,v3,c,e

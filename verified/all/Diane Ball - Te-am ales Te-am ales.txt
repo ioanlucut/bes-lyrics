@@ -1,5 +1,5 @@
 [title]
-Te-am ales, Te-am ales {author: {Diane Ball}, contentHash: {724734}, id: {obwjfnBdVLSE3ciCXy4B8L}, rcId: {858}}
+Te-am ales, Te-am ales {composer: {Diane Ball}, rcId: {858}, id: {obwjfnBdVLSE3ciCXy4B8L}, contentHash: {724734}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Când necazul apasă greu în viața mea {author: {Adonai}, contentHash: {a3e141}, id: {6y7V9D76DDj5VSudn9bJB3}, rcId: {149449}}
+Când necazul apasă greu în viața mea {composer: {Adonai}, rcId: {149449}, id: {6y7V9D76DDj5VSudn9bJB3}, contentHash: {a3e141}}
 
 [sequence]
 v1,c,v2,c

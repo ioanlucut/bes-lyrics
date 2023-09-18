@@ -1,5 +1,5 @@
 [title]
-Armata măreață {author: {Elim Harmony}, contentHash: {9185b7}, id: {7t7Wr8JqMGxTVSLg3o48du}, rcId: {112856}}
+Armata măreață {composer: {Elim Harmony}, rcId: {112856}, id: {7t7Wr8JqMGxTVSLg3o48du}, contentHash: {9185b7}}
 
 [sequence]
 v1,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Departe-ntr-o iesle, în paie ascuns {author: {__A__}, version: {ii}, contentHash: {586b33}, id: {2UqneUTP45jTCVjWLxdbmC}, rcId: {__R__}}
+Departe-ntr-o iesle, în paie ascuns {version: {ii}, id: {2UqneUTP45jTCVjWLxdbmC}, contentHash: {586b33}}
 
 [sequence]
 v1,v2,v3

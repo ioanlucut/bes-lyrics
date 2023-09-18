@@ -1,5 +1,5 @@
 [title]
-Înălțăm lauda noastră {author: {__A__}, contentHash: {47c44e}, id: {wSSLiCyYDb5AZTQCEkV9vK}, rcId: {__R__}}
+Înălțăm lauda noastră {id: {wSSLiCyYDb5AZTQCEkV9vK}, contentHash: {47c44e}}
 
 [sequence]
 v1,c,v2,c,b,b2,b,e

@@ -1,5 +1,5 @@
 [title]
-Eu am o călăuză {author: {__A__}, contentHash: {9da523}, id: {5NrDyMJ89DUnsk9LhsHwWT}, rcId: {__R__}}
+Eu am o călăuză {id: {5NrDyMJ89DUnsk9LhsHwWT}, contentHash: {9da523}}
 
 [sequence]
 v1,c,v2,c

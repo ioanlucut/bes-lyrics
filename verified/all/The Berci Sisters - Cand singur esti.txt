@@ -1,5 +1,5 @@
 [title]
-Când singur ești {author: {The Berci Sisters}, contentHash: {ed3a80}, id: {rrhoV7hHePkDKsXEehTNaa}, rcId: {149044}}
+Când singur ești {composer: {The Berci Sisters}, rcId: {149044}, id: {rrhoV7hHePkDKsXEehTNaa}, contentHash: {ed3a80}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -34,7 +34,7 @@ Row 1`),
     it('should allow alternative content', () => {
       expect(() =>
         verifyStructure(`[title]
-My custom title {alternative: {Alt, Altb}, author: {Author}, version: {ii}}
+My custom title {alternative: {Alt, Altb}, composer: {Author}, version: {ii}}
 
 [sequence]
 c

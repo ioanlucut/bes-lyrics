@@ -1,5 +1,5 @@
 [title]
-Noel {author: {Emma Repede}, contentHash: {4b8924}, id: {ujHzFTqFkGYYcXskzLsF6c}, rcId: {119089}}
+Noel {composer: {Emma Repede}, rcId: {119089}, id: {ujHzFTqFkGYYcXskzLsF6c}, contentHash: {4b8924}}
 
 [sequence]
 v1,c,v2,c

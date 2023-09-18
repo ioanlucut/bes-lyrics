@@ -1,5 +1,5 @@
 [title]
-Liber {author: {BBSO}, alternative: {Adaptare după Brian Johnson}, contentHash: {0b4efb}, id: {2Bmui4M4wzv7FuNSvb4U62}, rcId: {157507}}
+Liber {alternative: {Adaptare după Brian Johnson}, composer: {BBSO}, rcId: {157507}, id: {2Bmui4M4wzv7FuNSvb4U62}, contentHash: {0b4efb}}
 
 [sequence]
 v1,c,v2,b,c2

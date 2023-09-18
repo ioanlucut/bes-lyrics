@@ -1,5 +1,5 @@
 [title]
-Lacrimile de durere când se vor sfârși {author: {Speranța}, contentHash: {af8404}, id: {dKn4fwfkkShjU4mbT8QggG}, rcId: {3628}}
+Lacrimile de durere când se vor sfârși {composer: {Speranța}, rcId: {3628}, id: {dKn4fwfkkShjU4mbT8QggG}, contentHash: {af8404}}
 
 [sequence]
 v1,c,v2,c,v3,c

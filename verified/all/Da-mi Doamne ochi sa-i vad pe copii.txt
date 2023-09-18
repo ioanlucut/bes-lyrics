@@ -1,5 +1,5 @@
 [title]
-Dă-mi, Doamne, ochi să-i văd pe copii {author: {__A__}, contentHash: {20ae9f}, id: {x1oA3hbgZKhsSN6xQ4iH5K}, rcId: {__R__}}
+Dă-mi, Doamne, ochi să-i văd pe copii {id: {x1oA3hbgZKhsSN6xQ4iH5K}, contentHash: {20ae9f}}
 
 [sequence]
 v1,v2,v3,v4

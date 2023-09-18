@@ -1,5 +1,5 @@
 [title]
-Aleluia, mă iubește {author: {__A__}, contentHash: {ab7ea6}, id: {2wkTMnP6Sa5wAihQnAfNnp}, rcId: {__R__}}
+Aleluia, mă iubește {id: {2wkTMnP6Sa5wAihQnAfNnp}, contentHash: {ab7ea6}}
 
 [sequence]
 v1,v2

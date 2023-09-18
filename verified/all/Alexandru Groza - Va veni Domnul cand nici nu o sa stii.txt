@@ -1,5 +1,5 @@
 [title]
-Va veni Domnul când nici nu o să știi {author: {Alexandru Groza}, contentHash: {7e5d18}, id: {hYBdtk7vkUE9psNgqn1wwy}, rcId: {1549}}
+Va veni Domnul când nici nu o să știi {composer: {Alexandru Groza}, rcId: {1549}, id: {hYBdtk7vkUE9psNgqn1wwy}, contentHash: {7e5d18}}
 
 [sequence]
 v1,c,v2,c,v3,c

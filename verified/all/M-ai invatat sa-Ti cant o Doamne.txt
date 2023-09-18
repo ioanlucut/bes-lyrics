@@ -1,5 +1,5 @@
 [title]
-M-ai învățat să-Ți cânt, o, Doamne {author: {__A__}, contentHash: {b8ea23}, id: {9YPDAJz8zfKpYMAfJ99Wf6}, rcId: {__R__}}
+M-ai învățat să-Ți cânt, o, Doamne {id: {9YPDAJz8zfKpYMAfJ99Wf6}, contentHash: {b8ea23}}
 
 [sequence]
 v1,p,c,v2,p2,c2

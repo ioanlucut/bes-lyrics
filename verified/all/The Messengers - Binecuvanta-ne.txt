@@ -1,5 +1,5 @@
 [title]
-Binecuvântă-ne {author: {The Messengers}, contentHash: {4bcaf0}, id: {9VAEW9PwuiQttyWZnNqTd1}, rcId: {885}}
+Binecuvântă-ne {composer: {The Messengers}, rcId: {885}, id: {9VAEW9PwuiQttyWZnNqTd1}, contentHash: {4bcaf0}}
 
 [sequence]
 v1,c,v2,c

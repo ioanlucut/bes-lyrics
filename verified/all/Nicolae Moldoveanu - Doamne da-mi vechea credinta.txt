@@ -1,5 +1,5 @@
 [title]
-Doamne, dă-mi vechea credință {author: {Nicolae Moldoveanu}, contentHash: {5f170f}, id: {nLebss4A7Q2rtah53PnMKz}, rcId: {5910}}
+Doamne, dă-mi vechea credință {composer: {Nicolae Moldoveanu}, rcId: {5910}, id: {nLebss4A7Q2rtah53PnMKz}, contentHash: {5f170f}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

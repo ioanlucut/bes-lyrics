@@ -1,5 +1,5 @@
 [title]
-În umblarea mea prin lume {author: {Nicolae Moldoveanu}, contentHash: {937412}, id: {dB4qVZi76MN1yDbbv2dYgz}, rcId: {1738}}
+În umblarea mea prin lume {composer: {Nicolae Moldoveanu}, rcId: {1738}, id: {dB4qVZi76MN1yDbbv2dYgz}, contentHash: {937412}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

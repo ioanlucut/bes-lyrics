@@ -1,5 +1,5 @@
 [title]
-Vreau să am un suflet mai curat {author: {Elim Harmony}, contentHash: {18e571}, id: {jtP9bLLmUVWj9vNTYWhoJs}, rcId: {172355}}
+Vreau să am un suflet mai curat {composer: {Elim Harmony}, rcId: {172355}, id: {jtP9bLLmUVWj9vNTYWhoJs}, contentHash: {18e571}}
 
 [sequence]
 v1,c,v2,c,b,c

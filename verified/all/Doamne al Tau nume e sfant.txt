@@ -1,5 +1,5 @@
 [title]
-Doamne, al Tău nume e sfânt {author: {__A__}, contentHash: {b7fbb0}, id: {cq9PSabALC94S4xutBvuxX}, rcId: {__R__}}
+Doamne, al Tău nume e sfânt {id: {cq9PSabALC94S4xutBvuxX}, contentHash: {b7fbb0}}
 
 [sequence]
 v1,c

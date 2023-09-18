@@ -1,5 +1,5 @@
 [title]
-Laude, laude {author: {Otto Pascal}, contentHash: {20f485}, id: {qKmxGBuiW5oL9PGykLuDtv}, rcId: {228171}}
+Laude, laude {composer: {Otto Pascal}, rcId: {228171}, id: {qKmxGBuiW5oL9PGykLuDtv}, contentHash: {20f485}}
 
 [sequence]
 c,v1,b,v2,c,v3,c

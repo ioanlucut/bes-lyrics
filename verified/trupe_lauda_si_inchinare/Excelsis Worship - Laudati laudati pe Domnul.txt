@@ -1,5 +1,5 @@
 [title]
-Lăudați, lăudați pe Domnul {author: {Excelsis Worship}, contentHash: {7d22dc}, id: {g9gCWs2z4NMCh89xrHd3AV}, rcId: {104165}}
+Lăudați, lăudați pe Domnul {composer: {Excelsis Worship}, rcId: {104165}, id: {g9gCWs2z4NMCh89xrHd3AV}, contentHash: {7d22dc}}
 
 [sequence]
 v1,c,v2,c,v3,c,b,c

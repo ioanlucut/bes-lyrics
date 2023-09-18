@@ -1,5 +1,5 @@
 [title]
-Biruitor {author: {Dani Ardelean}, contentHash: {c1ac0d}, id: {2aHyv3KR1Ubc1ntAnRmoke}, rcId: {175967}}
+Biruitor {composer: {Dani Ardelean}, rcId: {175967}, id: {2aHyv3KR1Ubc1ntAnRmoke}, contentHash: {c1ac0d}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c

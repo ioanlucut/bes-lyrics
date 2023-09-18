@@ -1,5 +1,5 @@
 [title]
-Doamne, mă închin doar Ție {author: {Otto Pascal}, contentHash: {448415}, id: {7xc7cDBJoALHx7cycTghHG}, rcId: {112758}}
+Doamne, mă închin doar Ție {composer: {Otto Pascal}, rcId: {112758}, id: {7xc7cDBJoALHx7cycTghHG}, contentHash: {448415}}
 
 [sequence]
 c,v1,c,v2

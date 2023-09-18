@@ -1,5 +1,5 @@
 [title]
-Oare la ușă cine-I {author: {Speranța și prietenii}, contentHash: {ceb4e3}, id: {giRZ9HR8i1LqXJGwhkfjoQ}, rcId: {202707}}
+Oare la ușă cine-I {composer: {Speranța și prietenii}, rcId: {202707}, id: {giRZ9HR8i1LqXJGwhkfjoQ}, contentHash: {ceb4e3}}
 
 [sequence]
 v1,c,v2,c,v3,c

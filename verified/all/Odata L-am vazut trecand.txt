@@ -1,5 +1,5 @@
 [title]
-Odată L-am văzut trecând {author: {__A__}, contentHash: {5c6bff}, id: {9Y1g3ZqTK7kaTaCK8reuPh}, rcId: {210109}}
+Odată L-am văzut trecând {rcId: {210109}, id: {9Y1g3ZqTK7kaTaCK8reuPh}, contentHash: {5c6bff}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

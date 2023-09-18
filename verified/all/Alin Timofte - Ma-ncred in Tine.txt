@@ -1,5 +1,5 @@
 [title]
-Mă-ncred în Tine {author: {Alin Timofte}, contentHash: {62f363}, id: {a6rRL8CFodpVovL5bQNrge}, rcId: {59472}}
+Mă-ncred în Tine {composer: {Alin Timofte}, rcId: {59472}, id: {a6rRL8CFodpVovL5bQNrge}, contentHash: {62f363}}
 
 [sequence]
 v1,c,v1,c

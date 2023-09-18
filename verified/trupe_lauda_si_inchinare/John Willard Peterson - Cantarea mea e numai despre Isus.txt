@@ -1,5 +1,5 @@
 [title]
-Cântarea mea e numai despre Isus {author: {John Willard Peterson}, contentHash: {e6e1d7}, id: {isiLkEwu7VmHDDBaoTQ4xh}, rcId: {4870}}
+Cântarea mea e numai despre Isus {composer: {John Willard Peterson}, rcId: {4870}, id: {isiLkEwu7VmHDDBaoTQ4xh}, contentHash: {e6e1d7}}
 
 [sequence]
 v1,c,v2,c,v3,c

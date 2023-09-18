@@ -1,5 +1,5 @@
 [title]
-Aleluia, Agnus Dei {author: {__A__}, contentHash: {27e46c}, id: {5UrZjjSzaiJUuniVLTmcdz}, rcId: {__R__}}
+Aleluia, Agnus Dei {id: {5UrZjjSzaiJUuniVLTmcdz}, contentHash: {27e46c}}
 
 [sequence]
 v1,c,v1,c

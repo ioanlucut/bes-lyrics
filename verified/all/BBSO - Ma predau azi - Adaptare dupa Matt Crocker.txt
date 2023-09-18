@@ -1,5 +1,5 @@
 [title]
-Mă predau azi {author: {BBSO}, alternative: {Adaptare după Matt Crocker}, contentHash: {b39402}, id: {gdXo6PAK3bKVocvH8YePhu}, rcId: {157505}}
+Mă predau azi {alternative: {Adaptare după Matt Crocker}, composer: {BBSO}, rcId: {157505}, id: {gdXo6PAK3bKVocvH8YePhu}, contentHash: {b39402}}
 
 [sequence]
 v1,v2,b,c,b,c

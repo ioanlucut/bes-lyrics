@@ -1,5 +1,5 @@
 [title]
-Domnul să îi binecuvânteze vrea {author: {Charles H. Gabriel}, contentHash: {55a3cd}, id: {mtvx55LsrEpELRRr5voFMJ}, rcId: {5254}}
+Domnul să îi binecuvânteze vrea {composer: {Charles H. Gabriel}, rcId: {5254}, id: {mtvx55LsrEpELRRr5voFMJ}, contentHash: {55a3cd}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

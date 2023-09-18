@@ -1,5 +1,5 @@
 [title]
-Autentic {author: {Revive}, contentHash: {066f5d}, id: {aKHjYN4J8rSJ4uGqAqwNZR}, rcId: {206213}}
+Autentic {composer: {Revive}, rcId: {206213}, id: {aKHjYN4J8rSJ4uGqAqwNZR}, contentHash: {066f5d}}
 
 [sequence]
 v1,c,v2,c,b,c

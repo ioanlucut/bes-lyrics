@@ -1,5 +1,5 @@
 [title]
-Vine o zi {author: {Ionut Pop}, contentHash: {eb5e35}, id: {bhK4fpHBWicCYSUz1KX4Gg}, rcId: {190755}}
+Vine o zi {composer: {Ionut Pop}, rcId: {190755}, id: {bhK4fpHBWicCYSUz1KX4Gg}, contentHash: {eb5e35}}
 
 [sequence]
 v1,v2,c,v3,v4,c,v5,c

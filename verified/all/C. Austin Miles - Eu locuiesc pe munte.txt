@@ -1,5 +1,5 @@
 [title]
-Eu locuiesc pe munte {author: {C. Austin Miles}, contentHash: {2c8744}, id: {dkcNxTnsr4Uh9XCtqsDssx}, rcId: {7328}}
+Eu locuiesc pe munte {composer: {C. Austin Miles}, rcId: {7328}, id: {dkcNxTnsr4Uh9XCtqsDssx}, contentHash: {2c8744}}
 
 [sequence]
 v1,c,v2,c,v3,c

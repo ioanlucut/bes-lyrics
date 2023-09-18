@@ -1,5 +1,5 @@
 [title]
-În ziua de apoi când vor fi toți chemați {author: {Nicolae Moldoveanu}, contentHash: {891746}, id: {3KEXt49A95TGVsjvKCv7kS}, rcId: {5553}}
+În ziua de apoi când vor fi toți chemați {composer: {Nicolae Moldoveanu}, rcId: {5553}, id: {3KEXt49A95TGVsjvKCv7kS}, contentHash: {891746}}
 
 [sequence]
 v1,c,v2,c,v3,c

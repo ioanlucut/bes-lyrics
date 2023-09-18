@@ -1,5 +1,5 @@
 [title]
-Golgota, Golgota, schimbă viața mea {author: {Andreea Popoi}, contentHash: {a11956}, id: {6kY7rWGUgZJx7rSZUJ7B3Q}, rcId: {7234}}
+Golgota, Golgota, schimbă viața mea {composer: {Andreea Popoi}, rcId: {7234}, id: {6kY7rWGUgZJx7rSZUJ7B3Q}, contentHash: {a11956}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

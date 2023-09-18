@@ -1,5 +1,5 @@
 [title]
-Egipt {author: {Harvest Arad}, contentHash: {9e4864}, id: {327kNsFMJwPHAwu7dwPyGC}, rcId: {214228}}
+Egipt {composer: {Harvest Arad}, rcId: {214228}, id: {327kNsFMJwPHAwu7dwPyGC}, contentHash: {9e4864}}
 
 [sequence]
 v1,c,v2,c,b,c

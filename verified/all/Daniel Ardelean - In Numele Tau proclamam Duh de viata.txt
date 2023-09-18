@@ -1,5 +1,5 @@
 [title]
-În Numele Tău proclamăm Duh de viață {author: {Daniel Ardelean}, contentHash: {0e4e64}, id: {agniFw2UN6JV556mANvqUD}, rcId: {197882}}
+În Numele Tău proclamăm Duh de viață {composer: {Daniel Ardelean}, rcId: {197882}, id: {agniFw2UN6JV556mANvqUD}, contentHash: {0e4e64}}
 
 [sequence]
 c,v1.1,v1.2,c

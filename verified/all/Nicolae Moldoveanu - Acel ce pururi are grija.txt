@@ -1,5 +1,5 @@
 [title]
-Acel ce pururi are grijă {author: {Nicolae Moldoveanu}, contentHash: {8ac512}, id: {dSnn6EiqY6JY1ezkrcrDEN}, rcId: {5953}}
+Acel ce pururi are grijă {composer: {Nicolae Moldoveanu}, rcId: {5953}, id: {dSnn6EiqY6JY1ezkrcrDEN}, contentHash: {8ac512}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

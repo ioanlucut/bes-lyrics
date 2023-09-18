@@ -1,5 +1,5 @@
 [title]
-Du-mă dincolo de porți {author: {Adonia}, contentHash: {9bbf83}, id: {kwadF9dsAoQHt8fkTDoTFP}, rcId: {103391}}
+Du-mă dincolo de porți {composer: {Adonia}, rcId: {103391}, id: {kwadF9dsAoQHt8fkTDoTFP}, contentHash: {9bbf83}}
 
 [sequence]
 v1,c,v2,c,v3,c

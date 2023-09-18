@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e dragoste {author: {__A__}, contentHash: {f22430}, id: {eJ1iqRHWDPEymA7AstmMWT}, rcId: {__R__}}
+Dumnezeu e dragoste {id: {eJ1iqRHWDPEymA7AstmMWT}, contentHash: {f22430}}
 
 [sequence]
 v1,v2,v3,v4

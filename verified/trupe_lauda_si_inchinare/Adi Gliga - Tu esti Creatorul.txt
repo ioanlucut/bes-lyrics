@@ -1,5 +1,5 @@
 [title]
-Tu ești Creatorul {author: {Adi Gliga}, contentHash: {9e8668}, id: {qFApZ95RgYRuhY4s73uZo8}, rcId: {6780}}
+Tu ești Creatorul {composer: {Adi Gliga}, rcId: {6780}, id: {qFApZ95RgYRuhY4s73uZo8}, contentHash: {9e8668}}
 
 [sequence]
 v1,c,v2,c

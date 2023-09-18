@@ -1,5 +1,5 @@
 [title]
-Un copil {author: {Amadeo}, contentHash: {fe0dc1}, id: {eSgiG4REedx4c7MMUyS4Wm}, rcId: {132126}}
+Un copil {composer: {Amadeo}, rcId: {132126}, id: {eSgiG4REedx4c7MMUyS4Wm}, contentHash: {fe0dc1}}
 
 [sequence]
 v1,c,v2,c,v3,c

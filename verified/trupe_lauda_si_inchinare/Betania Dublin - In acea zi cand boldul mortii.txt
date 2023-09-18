@@ -1,5 +1,5 @@
 [title]
-În acea zi, când boldul morții {author: {Betania Dublin}, contentHash: {d85f89}, id: {7VSrpVUxsYohi5XxZZ4QkS}, rcId: {213168}}
+În acea zi, când boldul morții {composer: {Betania Dublin}, rcId: {213168}, id: {7VSrpVUxsYohi5XxZZ4QkS}, contentHash: {d85f89}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,v3,c

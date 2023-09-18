@@ -1,5 +1,5 @@
 [title]
-El a înviat {author: {Ioan Timofte}, contentHash: {57952f}, id: {8vb3sr3XPutuh6SVdg9Xig}, rcId: {7067}}
+El a înviat {composer: {Ioan Timofte}, rcId: {7067}, id: {8vb3sr3XPutuh6SVdg9Xig}, contentHash: {57952f}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c

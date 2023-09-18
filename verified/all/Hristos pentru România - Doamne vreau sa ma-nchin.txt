@@ -1,5 +1,5 @@
 [title]
-Doamne, vreau să mă-nchin {author: {Hristos pentru România}, contentHash: {469104}, id: {mrHZDUev1CynwRWhFzq9Bo}, rcId: {4513}}
+Doamne, vreau să mă-nchin {composer: {Hristos pentru România}, rcId: {4513}, id: {mrHZDUev1CynwRWhFzq9Bo}, contentHash: {469104}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c

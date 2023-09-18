@@ -1,5 +1,5 @@
 [title]
-Mai e puțin, tot mai puțin {author: {__A__}, contentHash: {d51355}, id: {mzxE5QamQLiDGNimqBkDHp}, rcId: {225075}}
+Mai e puțin, tot mai puțin {rcId: {225075}, id: {mzxE5QamQLiDGNimqBkDHp}, contentHash: {d51355}}
 
 [sequence]
 v1,c,v2,c,v3,c

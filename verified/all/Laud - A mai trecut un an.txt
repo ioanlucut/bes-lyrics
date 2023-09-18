@@ -1,5 +1,5 @@
 [title]
-A mai trecut un an {author: {Laud}, contentHash: {eec2ed}, id: {h8m3DZFrZ5xd1SqmpVF8DT}, rcId: {244309}}
+A mai trecut un an {composer: {Laud}, rcId: {244309}, id: {h8m3DZFrZ5xd1SqmpVF8DT}, contentHash: {eec2ed}}
 
 [sequence]
 v1,c,v2,c

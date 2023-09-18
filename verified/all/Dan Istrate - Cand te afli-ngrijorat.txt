@@ -1,5 +1,5 @@
 [title]
-Când te afli-ngrijorat {author: {Dan Istrate}, contentHash: {402ac9}, id: {reiTxDtUVmaBxesXT6xrxq}, rcId: {197878}}
+Când te afli-ngrijorat {composer: {Dan Istrate}, rcId: {197878}, id: {reiTxDtUVmaBxesXT6xrxq}, contentHash: {402ac9}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

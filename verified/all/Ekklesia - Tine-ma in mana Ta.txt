@@ -1,5 +1,5 @@
 [title]
-Ține-mă în mâna Ta {author: {Ekklesia}, contentHash: {dbe43c}, id: {hzrfayN781szTcei8FCEpG}, rcId: {4148}}
+Ține-mă în mâna Ta {composer: {Ekklesia}, rcId: {4148}, id: {hzrfayN781szTcei8FCEpG}, contentHash: {dbe43c}}
 
 [sequence]
 v1,c,v2,c

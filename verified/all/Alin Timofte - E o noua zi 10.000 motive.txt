@@ -1,5 +1,5 @@
 [title]
-E o nouă zi 10.000 motive {author: {Alin Timofte}, contentHash: {4591ee}, id: {9PVrCg4NmVmNvAbiPqKXya}, rcId: {164159}}
+E o nouă zi 10.000 motive {composer: {Alin Timofte}, rcId: {164159}, id: {9PVrCg4NmVmNvAbiPqKXya}, contentHash: {4591ee}}
 
 [sequence]
 c,v1,c,v2,c,v3

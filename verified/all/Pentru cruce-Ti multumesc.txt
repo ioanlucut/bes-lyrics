@@ -1,5 +1,5 @@
 [title]
-Pentru cruce-Ți mulțumesc {author: {__A__}, contentHash: {42efa2}, id: {4aGPJbrkSKxxYC2kkU7h2j}, rcId: {__R__}}
+Pentru cruce-Ți mulțumesc {id: {4aGPJbrkSKxxYC2kkU7h2j}, contentHash: {42efa2}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c,e

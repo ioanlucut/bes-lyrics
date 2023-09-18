@@ -1,5 +1,5 @@
 [title]
-Nu la întâmplare sunt {author: {__A__}, contentHash: {065506}, id: {kCA4Qj184DT9R6o66zYu3i}, rcId: {1500}}
+Nu la întâmplare sunt {rcId: {1500}, id: {kCA4Qj184DT9R6o66zYu3i}, contentHash: {065506}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

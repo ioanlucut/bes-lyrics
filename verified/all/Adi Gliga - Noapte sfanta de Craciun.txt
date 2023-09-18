@@ -1,5 +1,5 @@
 [title]
-Noapte sfântă de Crăciun {author: {Adi Gliga}, contentHash: {f02e1a}, id: {1iMyNKZb3mmnhkamZyaUC7}, rcId: {64983}}
+Noapte sfântă de Crăciun {composer: {Adi Gliga}, rcId: {64983}, id: {1iMyNKZb3mmnhkamZyaUC7}, contentHash: {f02e1a}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

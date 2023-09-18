@@ -1,5 +1,5 @@
 [title]
-De ziua ta {author: {Callatis Praise}, contentHash: {2ded0c}, id: {rXu1UZHKD6MPGJCLYKEgmw}, rcId: {4388}}
+De ziua ta {composer: {Callatis Praise}, rcId: {4388}, id: {rXu1UZHKD6MPGJCLYKEgmw}, contentHash: {2ded0c}}
 
 [sequence]
 v1,c,b,c

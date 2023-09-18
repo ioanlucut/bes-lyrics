@@ -1,5 +1,5 @@
 [title]
-Doamne, astăzi vin {author: {__A__}, contentHash: {e8734a}, id: {wRsz3ohzWbmf6xvBNyUXgu}, rcId: {2833}}
+Doamne, astăzi vin {rcId: {2833}, id: {wRsz3ohzWbmf6xvBNyUXgu}, contentHash: {e8734a}}
 
 [sequence]
 v1,c,v2,c

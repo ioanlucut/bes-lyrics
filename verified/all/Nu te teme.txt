@@ -1,5 +1,5 @@
 [title]
-Nu te teme {author: {__A__}, contentHash: {1af0f9}, id: {hyBzmYBY8CBmsnACMV3fUb}, rcId: {__R__}}
+Nu te teme {id: {hyBzmYBY8CBmsnACMV3fUb}, contentHash: {1af0f9}}
 
 [sequence]
 v1,c,c2,v2,c2,c,e

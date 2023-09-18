@@ -1,5 +1,5 @@
 [title]
-E drept că Isus a murit {author: {Isaac Watts}, contentHash: {1e0f99}, id: {d67LirghH3yaeSv8EQumAz}, rcId: {1687}}
+E drept că Isus a murit {composer: {Isaac Watts}, rcId: {1687}, id: {d67LirghH3yaeSv8EQumAz}, contentHash: {1e0f99}}
 
 [sequence]
 v1,c,v2,c,v3,c

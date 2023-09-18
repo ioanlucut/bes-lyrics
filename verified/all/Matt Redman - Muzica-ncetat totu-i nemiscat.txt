@@ -1,5 +1,5 @@
 [title]
-Muzica-ncetat, totu-i nemișcat {author: {Matt Redman}, contentHash: {78a268}, id: {8LivoooMeoR7psgwwLautA}, rcId: {5138}}
+Muzica-ncetat, totu-i nemișcat {composer: {Matt Redman}, rcId: {5138}, id: {8LivoooMeoR7psgwwLautA}, contentHash: {78a268}}
 
 [sequence]
 v1,p,c,v1,p,c

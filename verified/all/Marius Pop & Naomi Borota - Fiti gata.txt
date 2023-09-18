@@ -1,5 +1,5 @@
 [title]
-Fiți gata {author: {Marius Pop & Naomi Borota}, contentHash: {a426b0}, id: {4Jn4TbAH5pfPF9VJu6hRiz}, rcId: {158892}}
+Fiți gata {composer: {Marius Pop & Naomi Borota}, rcId: {158892}, id: {4Jn4TbAH5pfPF9VJu6hRiz}, contentHash: {a426b0}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,e

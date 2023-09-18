@@ -1,5 +1,5 @@
 [title]
-Într-o noapte rece {author: {Oana Fisca}, contentHash: {c1f109}, id: {8iV5svojkc6FhSbPc4Hr9j}, rcId: {131147}}
+Într-o noapte rece {composer: {Oana Fisca}, rcId: {131147}, id: {8iV5svojkc6FhSbPc4Hr9j}, contentHash: {c1f109}}
 
 [sequence]
 v1,c,v2,c

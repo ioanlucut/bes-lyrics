@@ -1,5 +1,5 @@
 [title]
-Ești atât de obosit, iubite călător {author: {Nicolae Moldoveanu}, contentHash: {7126da}, id: {9tbsrntT7oee3pRmcSFaV1}, rcId: {5829}}
+Ești atât de obosit, iubite călător {composer: {Nicolae Moldoveanu}, rcId: {5829}, id: {9tbsrntT7oee3pRmcSFaV1}, contentHash: {7126da}}
 
 [sequence]
 v1,v2,v3

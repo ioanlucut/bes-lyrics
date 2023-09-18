@@ -1,5 +1,5 @@
 [title]
-Sutașul {author: {Cătălin Ciuculescu}, contentHash: {042d34}, id: {kDfBWuyZsEpAwfkvfRC6uB}, rcId: {225535}}
+Sutașul {composer: {Cătălin Ciuculescu}, rcId: {225535}, id: {kDfBWuyZsEpAwfkvfRC6uB}, contentHash: {042d34}}
 
 [sequence]
 v1,v2,v3,v4,v5

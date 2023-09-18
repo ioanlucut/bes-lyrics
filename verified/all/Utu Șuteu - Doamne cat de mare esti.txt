@@ -1,5 +1,5 @@
 [title]
-Doamne, cât de mare ești! {author: {Utu Șuteu}, contentHash: {fcaa3f}, id: {au1F8Fmd2SZ5acC2eK5tjd}, rcId: {4509}}
+Doamne, cât de mare ești! {composer: {Utu Șuteu}, rcId: {4509}, id: {au1F8Fmd2SZ5acC2eK5tjd}, contentHash: {fcaa3f}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

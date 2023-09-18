@@ -1,5 +1,5 @@
 [title]
-Un cor îngeresc {author: {Speranța}, contentHash: {9444c2}, id: {qTECSqdff2aPEK4XMEsdEp}, rcId: {1548}}
+Un cor îngeresc {composer: {Speranța}, rcId: {1548}, id: {qTECSqdff2aPEK4XMEsdEp}, contentHash: {9444c2}}
 
 [sequence]
 v1,c,v2,c,v3,c

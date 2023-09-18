@@ -1,5 +1,5 @@
 [title]
-Cuvântul {author: {Teo Family}, contentHash: {94c012}, id: {w2Eo1NzCgddBY6TQ13WR67}, rcId: {194034}}
+Cuvântul {composer: {Teo Family}, rcId: {194034}, id: {w2Eo1NzCgddBY6TQ13WR67}, contentHash: {94c012}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Sunt iertat, căci ai fost părăsit {author: {Matt Redman}, contentHash: {41f57e}, id: {bXgTCi2kctEmZDfbjj2qmM}, rcId: {2812}}
+Sunt iertat, căci ai fost părăsit {composer: {Matt Redman}, rcId: {2812}, id: {bXgTCi2kctEmZDfbjj2qmM}, contentHash: {41f57e}}
 
 [sequence]
 v1,c,v1,c

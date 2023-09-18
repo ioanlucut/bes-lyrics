@@ -1,5 +1,5 @@
 [title]
-Bateți din palme toate popoarele {author: {__A__}, contentHash: {92f7a8}, id: {8Doh8bnQxRbAYgAcuJZd3x}, rcId: {5157}}
+Bateți din palme toate popoarele {rcId: {5157}, id: {8Doh8bnQxRbAYgAcuJZd3x}, contentHash: {92f7a8}}
 
 [sequence]
 c,v1,v2

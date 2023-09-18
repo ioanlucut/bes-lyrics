@@ -1,5 +1,5 @@
 [title]
-Te-am găsit pe munții înalți {author: {Grup Codlea}, contentHash: {e648ae}, id: {4ojutbZhvDmCGy7EQGdZGH}, rcId: {1541}}
+Te-am găsit pe munții înalți {composer: {Grup Codlea}, rcId: {1541}, id: {4ojutbZhvDmCGy7EQGdZGH}, contentHash: {e648ae}}
 
 [sequence]
 v1,v2,v3,v4

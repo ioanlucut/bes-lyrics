@@ -1,5 +1,5 @@
 [title]
-Habothim ba’hashem kehar tzion {author: {Cor copii Dynamis}, contentHash: {e3b611}, id: {vg7ZhGNtTdHRvrPp3aKNLS}, rcId: {109215}}
+Habothim ba’hashem kehar tzion {composer: {Cor copii Dynamis}, rcId: {109215}, id: {vg7ZhGNtTdHRvrPp3aKNLS}, contentHash: {e3b611}}
 
 [sequence]
 v1,b,v2,c,v3,b2,c

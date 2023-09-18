@@ -1,5 +1,5 @@
 [title]
-Nimic nu sunt {author: {Nicolae Moldoveanu}, contentHash: {aaabc6}, id: {hREBxi9dAPUHA6sKM4LCEe}, rcId: {6470}}
+Nimic nu sunt {composer: {Nicolae Moldoveanu}, rcId: {6470}, id: {hREBxi9dAPUHA6sKM4LCEe}, contentHash: {aaabc6}}
 
 [sequence]
 v1,c,v2,c2,v3,b,c

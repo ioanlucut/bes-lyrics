@@ -1,5 +1,5 @@
 [title]
-Hristos a înviat din morți {author: {Alexandru Podoleanu}, contentHash: {44e8d4}, id: {eBDRW8PdTVjGqivayppCnL}, rcId: {1891}}
+Hristos a înviat din morți {composer: {Alexandru Podoleanu}, rcId: {1891}, id: {eBDRW8PdTVjGqivayppCnL}, contentHash: {44e8d4}}
 
 [sequence]
 v1

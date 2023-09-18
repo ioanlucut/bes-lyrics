@@ -1,5 +1,5 @@
 [title]
-Bucură-te tinere, în tinerețea ta {author: {Marius Livanu}, contentHash: {b55449}, id: {aPAoaHhWM7aUL31Ttshf4f}, rcId: {178671}}
+Bucură-te tinere, în tinerețea ta {composer: {Marius Livanu}, rcId: {178671}, id: {aPAoaHhWM7aUL31Ttshf4f}, contentHash: {b55449}}
 
 [sequence]
 v1,c,v2,c,v3,c2

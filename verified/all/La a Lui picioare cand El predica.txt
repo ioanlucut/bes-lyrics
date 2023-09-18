@@ -1,5 +1,5 @@
 [title]
-La a Lui picioare când El predica {author: {__A__}, contentHash: {0b6289}, id: {cayQbwpjvaFnXbxX1pz8yj}, rcId: {__R__}}
+La a Lui picioare când El predica {id: {cayQbwpjvaFnXbxX1pz8yj}, contentHash: {0b6289}}
 
 [sequence]
 v1,v2,v3

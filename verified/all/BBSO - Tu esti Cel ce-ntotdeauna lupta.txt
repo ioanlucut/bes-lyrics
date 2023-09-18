@@ -1,5 +1,5 @@
 [title]
-Tu ești Cel ce-ntotdeauna luptă {author: {BBSO}, contentHash: {e232b0}, id: {r57QKj7PHxNBuMFqXgmYmJ}, rcId: {161815}}
+Tu ești Cel ce-ntotdeauna luptă {composer: {BBSO}, rcId: {161815}, id: {r57QKj7PHxNBuMFqXgmYmJ}, contentHash: {e232b0}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c,e

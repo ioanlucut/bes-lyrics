@@ -1,5 +1,5 @@
 [title]
-Te-aștept cu privirea spre cer {author: {Otto Pascal}, alternative: {Mi-e dor}, contentHash: {43ef11}, id: {35rgVZNxqSLJjL6SErL6Qj}, rcId: {210879}}
+Te-aștept cu privirea spre cer {alternative: {Mi-e dor}, composer: {Otto Pascal}, rcId: {210879}, id: {35rgVZNxqSLJjL6SErL6Qj}, contentHash: {43ef11}}
 
 [sequence]
 v1,c,v2,c

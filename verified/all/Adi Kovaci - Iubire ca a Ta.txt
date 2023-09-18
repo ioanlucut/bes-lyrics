@@ -1,5 +1,5 @@
 [title]
-Iubire ca a Ta {author: {Adi Kovaci}, contentHash: {d6711b}, id: {7uKuWpWa7faBCBjbhSyPMi}, rcId: {172418}}
+Iubire ca a Ta {composer: {Adi Kovaci}, rcId: {172418}, id: {7uKuWpWa7faBCBjbhSyPMi}, contentHash: {d6711b}}
 
 [sequence]
 v1,c,v2,c

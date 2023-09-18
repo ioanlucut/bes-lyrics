@@ -1,5 +1,5 @@
 [title]
-Acolo noapte nu va fi {author: {Emma Repede}, contentHash: {a59eb2}, id: {qtxFnQFk7iNrwSvokS3tME}, rcId: {66820}}
+Acolo noapte nu va fi {composer: {Emma Repede}, rcId: {66820}, id: {qtxFnQFk7iNrwSvokS3tME}, contentHash: {a59eb2}}
 
 [sequence]
 v1,c,v2,c2,v3,c

@@ -1,5 +1,5 @@
 [title]
-Cerul declară {author: {Noel}, contentHash: {8816f6}, id: {6UMYp9AtKHKXsBfKnt9hUq}, rcId: {4091}}
+Cerul declară {composer: {Noel}, rcId: {4091}, id: {6UMYp9AtKHKXsBfKnt9hUq}, contentHash: {8816f6}}
 
 [sequence]
 v1,c,v2,c

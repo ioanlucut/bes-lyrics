@@ -1,5 +1,5 @@
 [title]
-E putere, e putere {author: {Ionică Stoica}, contentHash: {cb4347}, id: {jfpnDQWwWGCKFrZLxQrN4F}, rcId: {56773}}
+E putere, e putere {composer: {Ionică Stoica}, rcId: {56773}, id: {jfpnDQWwWGCKFrZLxQrN4F}, contentHash: {cb4347}}
 
 [sequence]
 v1.1,v1.2,v1.3,c,v1.1,v1.2,v1.3,c

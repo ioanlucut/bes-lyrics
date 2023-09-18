@@ -1,5 +1,5 @@
 [title]
-Nimeni nu-i ca Tin’ {author: {__A__}, contentHash: {36bb7a}, id: {fKvfMLNN3Z3N7PHJGEHLy3}, rcId: {__R__}}
+Nimeni nu-i ca Tin’ {id: {fKvfMLNN3Z3N7PHJGEHLy3}, contentHash: {36bb7a}}
 
 [sequence]
 v1,c,v1,c,v1

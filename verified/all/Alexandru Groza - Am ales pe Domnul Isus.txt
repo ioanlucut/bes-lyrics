@@ -1,5 +1,5 @@
 [title]
-Am ales pe Domnul Isus {author: {Alexandru Groza}, contentHash: {a16603}, id: {2xmRKYRRMsxgTaCatq6DD1}, rcId: {1160}}
+Am ales pe Domnul Isus {composer: {Alexandru Groza}, rcId: {1160}, id: {2xmRKYRRMsxgTaCatq6DD1}, contentHash: {a16603}}
 
 [sequence]
 v1,c,v2,c,v3,c

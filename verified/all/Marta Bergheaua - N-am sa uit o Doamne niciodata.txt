@@ -1,5 +1,5 @@
 [title]
-N-am să uit, o, Doamne, niciodată {author: {Marta Bergheaua}, contentHash: {b78919}, id: {qxQRZUhu4ditZqVcH3HNX8}, rcId: {63362}}
+N-am să uit, o, Doamne, niciodată {composer: {Marta Bergheaua}, rcId: {63362}, id: {qxQRZUhu4ditZqVcH3HNX8}, contentHash: {b78919}}
 
 [sequence]
 v1,c,v2,c,v3,c

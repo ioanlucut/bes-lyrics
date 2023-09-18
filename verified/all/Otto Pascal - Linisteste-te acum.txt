@@ -1,5 +1,5 @@
 [title]
-Liniștește-te acum {author: {Otto Pascal}, contentHash: {0a148a}, id: {7Kide48hD8MRmyZDmtgNW3}, rcId: {112786}}
+Liniștește-te acum {composer: {Otto Pascal}, rcId: {112786}, id: {7Kide48hD8MRmyZDmtgNW3}, contentHash: {0a148a}}
 
 [sequence]
 v1,c,v2,c

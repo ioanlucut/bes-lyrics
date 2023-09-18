@@ -1,5 +1,5 @@
 [title]
-O, vino, Isuse, în inima mea {author: {Otto Pascal}, contentHash: {152368}, id: {rUuMkG5r8ifSdUi3kauQ5f}, rcId: {216540}}
+O, vino, Isuse, în inima mea {composer: {Otto Pascal}, rcId: {216540}, id: {rUuMkG5r8ifSdUi3kauQ5f}, contentHash: {152368}}
 
 [sequence]
 v1,v2,v3,v4

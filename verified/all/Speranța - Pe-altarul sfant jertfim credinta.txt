@@ -1,5 +1,5 @@
 [title]
-Pe-altarul sfânt jertfim credința {author: {Speranța}, contentHash: {2af169}, id: {g525EdUuscczvAi45YMGsT}, rcId: {5289}}
+Pe-altarul sfânt jertfim credința {composer: {Speranța}, rcId: {5289}, id: {g525EdUuscczvAi45YMGsT}, contentHash: {2af169}}
 
 [sequence]
 v1,c,v2,c,v3,c

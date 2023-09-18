@@ -1,5 +1,5 @@
 [title]
-Fraților, credința noastră s-o păzim! {author: {Nicolae Moldoveanu}, contentHash: {b9d5fc}, id: {bvu5fGZ2fd1JXdDsHDbLGT}, rcId: {5669}}
+Fraților, credința noastră s-o păzim! {composer: {Nicolae Moldoveanu}, rcId: {5669}, id: {bvu5fGZ2fd1JXdDsHDbLGT}, contentHash: {b9d5fc}}
 
 [sequence]
 v1,c,v2,c,v3,c

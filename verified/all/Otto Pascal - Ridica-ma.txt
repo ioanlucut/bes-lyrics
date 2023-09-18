@@ -1,5 +1,5 @@
 [title]
-Ridică-mă {author: {Otto Pascal}, contentHash: {bdb1d9}, id: {uqzgtydfMHeMzeW1o1PnN2}, rcId: {112788}}
+Ridică-mă {composer: {Otto Pascal}, rcId: {112788}, id: {uqzgtydfMHeMzeW1o1PnN2}, contentHash: {bdb1d9}}
 
 [sequence]
 v1,c,v2,c,v3,c

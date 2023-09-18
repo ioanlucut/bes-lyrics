@@ -1,5 +1,5 @@
 [title]
-Privind azi spre cerul albastru {author: {Simina}, contentHash: {849a5f}, id: {sfrbUk28VNjv3uqJJmBKCF}, rcId: {7036}}
+Privind azi spre cerul albastru {composer: {Simina}, rcId: {7036}, id: {sfrbUk28VNjv3uqJJmBKCF}, contentHash: {849a5f}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Inimi pline de speranță, mântuire, siguranță {author: {Andreea Mois}, contentHash: {b747bb}, id: {8Q6u9B8pDK8v7Pd3wUY86w}, rcId: {128137}}
+Inimi pline de speranță, mântuire, siguranță {composer: {Andreea Mois}, rcId: {128137}, id: {8Q6u9B8pDK8v7Pd3wUY86w}, contentHash: {b747bb}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Hristos din morți a înviat {author: {Alin Timofte}, contentHash: {c4b521}, id: {exBjeeyjeoL9X5SH3rDLRo}, rcId: {149085}}
+Hristos din morți a înviat {composer: {Alin Timofte}, rcId: {149085}, id: {exBjeeyjeoL9X5SH3rDLRo}, contentHash: {c4b521}}
 
 [sequence]
 v1,p,c,v2,p2,c2,e

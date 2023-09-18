@@ -1,5 +1,5 @@
 [title]
-Alerg, alerg {author: {Cor copii Dynamis}, contentHash: {fd10ad}, id: {swtv5bfF97T2fjaRdjPaDN}, rcId: {__R__}}
+Alerg, alerg {composer: {Cor copii Dynamis}, id: {swtv5bfF97T2fjaRdjPaDN}, contentHash: {fd10ad}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,b,c

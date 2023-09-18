@@ -1,5 +1,5 @@
 [title]
-Nu lăsa să treacă vremea {author: {Nicolae Moldoveanu}, contentHash: {fd156f}, id: {fU5nuiXiFf1mBMqhdkHyrL}, rcId: {5597}}
+Nu lăsa să treacă vremea {composer: {Nicolae Moldoveanu}, rcId: {5597}, id: {fU5nuiXiFf1mBMqhdkHyrL}, contentHash: {fd156f}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

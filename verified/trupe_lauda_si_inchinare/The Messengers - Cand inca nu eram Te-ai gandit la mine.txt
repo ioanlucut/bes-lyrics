@@ -1,5 +1,5 @@
 [title]
-Când încă nu eram Te-ai gândit la mine {author: {The Messengers}, contentHash: {f5763e}, id: {csBH1wvFc6raAE8tyB2JXW}, rcId: {7116}}
+Când încă nu eram Te-ai gândit la mine {composer: {The Messengers}, rcId: {7116}, id: {csBH1wvFc6raAE8tyB2JXW}, contentHash: {f5763e}}
 
 [sequence]
 v1,c,v2,c,v3,c
