@@ -7,7 +7,7 @@ v1.1,v1.2,c,v2,c,b,v3,c
 [v1.1]
 În acea zi, când boldul morții
 A fost frânt sub crucea lui Isus,
-Cutremurat, tot Ceru-ntreg
+Cutremurat, tot ceru-ntreg
 S-a-ntunecat.
 
 [v1.2]
@@ -35,7 +35,7 @@ Aleluia, Aleluia,
 El e înălțat!
 
 [v3]
-Într-o zi El se va-ntoarce,
+Într-o zi, El se va-ntoarce,
 Revelând deplin domnia Sa.
 Când Numele-I vom auzi
 Ne vom pleca!

@@ -1,16 +1,16 @@
 [title]
-Când vrei să vii, găsi-vei viața {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {148032}, id: {1wk96EaB1WyBESrTf4tApz}, contentHash: {b165ff}}
+Când vrei să vii, găsi-vei viață {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {148032}, id: {1wk96EaB1WyBESrTf4tApz}, contentHash: {73df4d}}
 
 [sequence]
 c,v1,c,v2
 
 [c]
-Când vrei să vii, găsi-vei viața,
+Când vrei să vii, găsi-vei viață,
 Ai căutat de mult o șansă.
 Azi Dumnezeu în cale ți-a ieșit,
-Nu-L ocoli cât timp mai este har.
-Viața ta e al Său har,
-De mult te așteaptă ca să vii.
+Nu-L ocoli, cât timp mai este har,
+Viața ta e al Său dar,
+Demult te așteaptă ca să vii.
 
 [v1]
 Doar Isus, ne-a iubit,
@@ -26,4 +26,4 @@ Pentru tot ce căutam,
 Ratăcit când eu eram
 Pe Isus l-am primit,
 A intrat în viața mea,
-Azi trăiesc prin Gloria Sa.
+Azi trăiesc spre gloria Sa.

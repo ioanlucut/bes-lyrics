@@ -1,5 +1,5 @@
 [title]
-Domnul fie cu tine {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {202297}, id: {kWfzS8gCQHH6ZPgSEnBAec}, contentHash: {3b1338}}
+Domnul fie cu tine {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {202297}, id: {kWfzS8gCQHH6ZPgSEnBAec}, contentHash: {28de87}}
 
 [sequence]
 v1,c,v1,c,v2,v3,v4,c2,c,v2,v3,v4,c2,c
@@ -27,10 +27,10 @@ Lângă tine și în tine
 E cu tine, e cu tine!
 
 [v4]
-De e zi sau de e noapte
+De e zi sau de e noapte,
 La plecare, la venire,
 În durere, bucurie
-Nu te lasă e cu tine!
+Nu te lasă, e cu tine!
 
 [c2]
 /: E cu tine, e cu tine, e cu tine! :/
