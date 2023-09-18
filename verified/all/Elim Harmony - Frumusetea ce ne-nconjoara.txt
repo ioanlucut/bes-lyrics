@@ -1,5 +1,5 @@
 [title]
-Frumusețea ce ne-nconjoară {composer: {Elim Harmony}, rcId: {100521}, id: {1MLMtPS6JyCrtTa5B5gL7D}, contentHash: {2cdb68}}
+Frumusețea ce ne-nconjoară {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {100521}, id: {1MLMtPS6JyCrtTa5B5gL7D}, contentHash: {2cdb68}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2

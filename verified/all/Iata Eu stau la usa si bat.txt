@@ -1,5 +1,5 @@
 [title]
-Iată, Eu stau la ușă și bat {id: {tYSsyjuCEk8VGuyZD7Wo6Z}, contentHash: {93f940}}
+Iată, Eu stau la ușă și bat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tYSsyjuCEk8VGuyZD7Wo6Z}, contentHash: {93f940}}
 
 [sequence]
 v1,v2,v3

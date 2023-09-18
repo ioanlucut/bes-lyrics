@@ -1,5 +1,5 @@
 [title]
-Căci este bun {id: {dwgfPZh7DS7JiT11kLPFkV}, contentHash: {25c3b8}}
+Căci este bun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dwgfPZh7DS7JiT11kLPFkV}, contentHash: {25c3b8}}
 
 [sequence]
 v1

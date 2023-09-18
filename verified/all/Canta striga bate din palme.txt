@@ -1,5 +1,5 @@
 [title]
-Cântă, strigă, bate din palme {rcId: {773}, id: {k9c89ZBJXxEv8UvPBpp5VJ}, contentHash: {b71298}}
+Cântă, strigă, bate din palme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {773}, id: {k9c89ZBJXxEv8UvPBpp5VJ}, contentHash: {b71298}}
 
 [sequence]
 c,v1,c,v1

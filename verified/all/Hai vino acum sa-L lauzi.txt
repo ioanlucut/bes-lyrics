@@ -1,5 +1,5 @@
 [title]
-Hai, vino acum să-L lauzi {rcId: {4512}, id: {qeYnxt76VdZ479kNPEhpSg}, contentHash: {ba6764}}
+Hai, vino acum să-L lauzi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4512}, id: {qeYnxt76VdZ479kNPEhpSg}, contentHash: {ba6764}}
 
 [sequence]
 v1,c,v1,c

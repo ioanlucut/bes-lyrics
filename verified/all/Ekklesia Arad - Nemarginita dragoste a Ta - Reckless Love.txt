@@ -1,5 +1,5 @@
 [title]
-Nemărginită dragoste a Ta {alternative: {Reckless Love}, composer: {Ekklesia Arad}, rcId: {215562}, id: {tYge5U4HULcS4JVL6f439m}, contentHash: {bcacdc}}
+Nemărginită dragoste a Ta {alternative: {Reckless Love}, composer: {Ekklesia Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {215562}, id: {tYge5U4HULcS4JVL6f439m}, contentHash: {bcacdc}}
 
 [sequence]
 v1,c,v2,c,b,c

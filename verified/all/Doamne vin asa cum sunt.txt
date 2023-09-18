@@ -1,5 +1,5 @@
 [title]
-Doamne, vin așa cum sunt {rcId: {6493}, id: {55K6tbqXKsVsULXLfTnTr8}, contentHash: {5a6b61}}
+Doamne, vin așa cum sunt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6493}, id: {55K6tbqXKsVsULXLfTnTr8}, contentHash: {5a6b61}}
 
 [sequence]
 v1,c,v1,c

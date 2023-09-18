@@ -1,5 +1,5 @@
 [title]
-Domnul mi-e Păstorul {composer: {Emma Repede}, rcId: {233607}, id: {kNfmAEKuKghxd9oLcyRDp3}, contentHash: {263b54}}
+Domnul mi-e Păstorul {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {233607}, id: {kNfmAEKuKghxd9oLcyRDp3}, contentHash: {263b54}}
 
 [sequence]
 v1,c,v1,c,e

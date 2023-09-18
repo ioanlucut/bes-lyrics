@@ -1,5 +1,5 @@
 [title]
-Am o pace ca o mare {composer: {Otto Pascal}, rcId: {3725}, id: {6zEVyGvj693J4sqYUMX5XP}, contentHash: {e1221b}}
+Am o pace ca o mare {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3725}, id: {6zEVyGvj693J4sqYUMX5XP}, contentHash: {e1221b}}
 
 [sequence]
 v1,v2,v3,v4,v5

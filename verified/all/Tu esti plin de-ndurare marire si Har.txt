@@ -1,5 +1,5 @@
 [title]
-Tu ești plin de-ndurare, mărire și Har {id: {83Vos2JX8Xe2weZds8qNrX}, contentHash: {b0b92e}}
+Tu ești plin de-ndurare, mărire și Har {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {83Vos2JX8Xe2weZds8qNrX}, contentHash: {b0b92e}}
 
 [sequence]
 v1,c,v2,c,v3,c

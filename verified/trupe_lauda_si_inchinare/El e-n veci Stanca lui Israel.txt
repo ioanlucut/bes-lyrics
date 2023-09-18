@@ -1,5 +1,5 @@
 [title]
-El e-n veci Stânca lui Israel {rcId: {61348}, id: {1bTBKc5H9k8748uN2rCFca}, contentHash: {eaa716}}
+El e-n veci Stânca lui Israel {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61348}, id: {1bTBKc5H9k8748uN2rCFca}, contentHash: {eaa716}}
 
 [sequence]
 v1,c,v2,c,v3,c

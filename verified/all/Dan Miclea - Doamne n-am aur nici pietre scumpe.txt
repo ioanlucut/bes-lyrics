@@ -1,5 +1,5 @@
 [title]
-Doamne, n-am aur, nici pietre scumpe {composer: {Dan Miclea}, rcId: {5319}, id: {sf4iMnaXqJ9epR6Yx6G7vn}, contentHash: {7da136}}
+Doamne, n-am aur, nici pietre scumpe {alternative: {*}, composer: {Dan Miclea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5319}, id: {sf4iMnaXqJ9epR6Yx6G7vn}, contentHash: {7da136}}
 
 [sequence]
 v1,v2,v3,v4

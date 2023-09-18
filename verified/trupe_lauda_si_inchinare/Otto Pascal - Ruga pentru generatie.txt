@@ -1,5 +1,5 @@
 [title]
-Rugă pentru generație {composer: {Otto Pascal}, rcId: {218254}, id: {jMz2GGNN1VALHQcwENTQef}, contentHash: {9f43de}}
+Rugă pentru generație {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {218254}, id: {jMz2GGNN1VALHQcwENTQef}, contentHash: {9f43de}}
 
 [sequence]
 v1,b,c,v2,b2,c

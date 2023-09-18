@@ -1,5 +1,5 @@
 [title]
-In numele tau {composer: {Daniel Ardelean}, rcId: {197882}, id: {6Pf43xdDrNYMT3o7B3hgEU}, contentHash: {870060}}
+In numele tau {alternative: {*}, composer: {Daniel Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197882}, id: {6Pf43xdDrNYMT3o7B3hgEU}, contentHash: {870060}}
 
 [sequence]
 c,v1,c,e

@@ -1,5 +1,5 @@
 [title]
-Ierusalim {composer: {Alin și Emima Timofte}, rcId: {74217}, id: {ePNeH8nA26XxRV5EVqfNBM}, contentHash: {dae812}}
+Ierusalim {alternative: {*}, composer: {Alin și Emima Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74217}, id: {ePNeH8nA26XxRV5EVqfNBM}, contentHash: {dae812}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,b,c,b2

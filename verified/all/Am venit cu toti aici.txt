@@ -1,5 +1,5 @@
 [title]
-Am venit cu toți aici {id: {8fitHkosmefPPcPxM6d4yC}, contentHash: {aecd3f}}
+Am venit cu toți aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8fitHkosmefPPcPxM6d4yC}, contentHash: {aecd3f}}
 
 [sequence]
 v1,v2,v3

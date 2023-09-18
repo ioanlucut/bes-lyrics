@@ -1,5 +1,5 @@
 [title]
-Mireasmă de iertare la calvar, sus, pe o cruce {composer: {Emma Repede}, rcId: {56019}, id: {7rGjQSmpq9bAi29KChDr7C}, contentHash: {f61df4}}
+Mireasmă de iertare la calvar, sus, pe o cruce {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {56019}, id: {7rGjQSmpq9bAi29KChDr7C}, contentHash: {f61df4}}
 
 [sequence]
 v1,c,v2,c

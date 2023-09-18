@@ -1,5 +1,5 @@
 [title]
-Dacă suntem însetați, să venim la El {composer: {Alina Havrisciuc}, rcId: {199101}, id: {k8MHnvNEnbPzQJGWxgGh2g}, contentHash: {c49c6b}}
+Dacă suntem însetați, să venim la El {alternative: {*}, composer: {Alina Havrisciuc}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {199101}, id: {k8MHnvNEnbPzQJGWxgGh2g}, contentHash: {c49c6b}}
 
 [sequence]
 v1,c,v2,c,v3,c

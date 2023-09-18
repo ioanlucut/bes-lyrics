@@ -1,5 +1,5 @@
 [title]
-Eu sunt un ostaș al crucii {composer: {Nicolae Moldoveanu}, rcId: {5667}, id: {hpLPRXqmTK4Qy4ZHxKnaHi}, contentHash: {72f217}}
+Eu sunt un ostaș al crucii {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5667}, id: {hpLPRXqmTK4Qy4ZHxKnaHi}, contentHash: {72f217}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2

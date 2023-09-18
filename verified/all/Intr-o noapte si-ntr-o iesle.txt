@@ -1,5 +1,5 @@
 [title]
-Într-o noapte și-ntr-o iesle {id: {tPJkkKUCjKTSHA4ThMtXk5}, contentHash: {5f40a8}}
+Într-o noapte și-ntr-o iesle {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tPJkkKUCjKTSHA4ThMtXk5}, contentHash: {5f40a8}}
 
 [sequence]
 v1,v2,c,v3,v4,c,b,c

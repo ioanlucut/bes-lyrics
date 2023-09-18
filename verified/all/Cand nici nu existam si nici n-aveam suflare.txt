@@ -1,5 +1,5 @@
 [title]
-Când nici nu existam și nici n-aveam suflare {rcId: {6965}, id: {xeKHSwePnJCrHZsZHGJawt}, contentHash: {ca4fb3}}
+Când nici nu existam și nici n-aveam suflare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6965}, id: {xeKHSwePnJCrHZsZHGJawt}, contentHash: {ca4fb3}}
 
 [sequence]
 v1,c,v2,c,v3,c

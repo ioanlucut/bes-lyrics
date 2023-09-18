@@ -1,5 +1,5 @@
 [title]
-Meriți toată slava, meriți toată cinstea {composer: {Speranța}, rcId: {6645}, id: {cdbfEbpcQ84fBmhrz6QXwK}, contentHash: {24b670}}
+Meriți toată slava, meriți toată cinstea {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6645}, id: {cdbfEbpcQ84fBmhrz6QXwK}, contentHash: {24b670}}
 
 [sequence]
 v1,c,b,v1,c,b,c

@@ -1,5 +1,5 @@
 [title]
-El e Domn, El e Domn {rcId: {1247}, id: {cur6LvZSByaX1rowhXXcRN}, contentHash: {1c1cae}}
+El e Domn, El e Domn {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1247}, id: {cur6LvZSByaX1rowhXXcRN}, contentHash: {1c1cae}}
 
 [sequence]
 v1,v2,v3

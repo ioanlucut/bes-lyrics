@@ -1,5 +1,5 @@
 [title]
-Nu lăsa să treacă vremea {composer: {Nicolae Moldoveanu}, rcId: {5597}, id: {fU5nuiXiFf1mBMqhdkHyrL}, contentHash: {fd156f}}
+Nu lăsa să treacă vremea {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5597}, id: {fU5nuiXiFf1mBMqhdkHyrL}, contentHash: {fd156f}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

@@ -1,5 +1,5 @@
 [title]
-Când vom intra pe-ale tale porți de aur {composer: {Dan Istrate}, rcId: {198102}, id: {4wSoqpT5zUEnFUU6MBHuka}, contentHash: {108289}}
+Când vom intra pe-ale tale porți de aur {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {198102}, id: {4wSoqpT5zUEnFUU6MBHuka}, contentHash: {108289}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

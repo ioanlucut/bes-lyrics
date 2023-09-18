@@ -1,5 +1,5 @@
 [title]
-Merg spre casă {composer: {Otto Pascal}, rcId: {112759}, id: {rTsAkT3unu6wGE1k6goYgj}, contentHash: {b11ed5}}
+Merg spre casă {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112759}, id: {rTsAkT3unu6wGE1k6goYgj}, contentHash: {b11ed5}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

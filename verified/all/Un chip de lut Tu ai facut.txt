@@ -1,5 +1,5 @@
 [title]
-Un chip de lut Tu ai făcut {rcId: {59240}, id: {oWDTqcESPZtxCbpFgTTAEK}, contentHash: {13ca37}}
+Un chip de lut Tu ai făcut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59240}, id: {oWDTqcESPZtxCbpFgTTAEK}, contentHash: {13ca37}}
 
 [sequence]
 v1,c,v2,c

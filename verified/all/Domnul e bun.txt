@@ -1,5 +1,5 @@
 [title]
-Domnul e bun {id: {sbREP6cNtGKJfig5fuoVWU}, contentHash: {842b8c}}
+Domnul e bun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sbREP6cNtGKJfig5fuoVWU}, contentHash: {842b8c}}
 
 [sequence]
 c,v1,c,v1

@@ -1,5 +1,5 @@
 [title]
-Isus {composer: {Chris Tomlin}, rcId: {186564}, id: {jhSY1xcynwKYsSonCJa5xN}, contentHash: {e0fda1}}
+Isus {alternative: {*}, composer: {Chris Tomlin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {186564}, id: {jhSY1xcynwKYsSonCJa5xN}, contentHash: {e0fda1}}
 
 [sequence]
 v1,v2,c,v3,c,b,c2

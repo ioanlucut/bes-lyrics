@@ -1,5 +1,5 @@
 [title]
-Lauda noastră și privirea {id: {2xbznatXh4FkpVDae2S6mt}, contentHash: {f61105}}
+Lauda noastră și privirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2xbznatXh4FkpVDae2S6mt}, contentHash: {f61105}}
 
 [sequence]
 v1,p,c,v2,p,c,e

@@ -1,5 +1,5 @@
 [title]
-Cine a crezut în ce ni se vestise {composer: {Rugul aprins}, rcId: {4411}, id: {5d29Bf3ST8CbfTBR73o1dz}, contentHash: {27907a}}
+Cine a crezut în ce ni se vestise {alternative: {*}, composer: {Rugul aprins}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4411}, id: {5d29Bf3ST8CbfTBR73o1dz}, contentHash: {27907a}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,e

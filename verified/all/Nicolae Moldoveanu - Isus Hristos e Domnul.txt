@@ -1,5 +1,5 @@
 [title]
-Isus Hristos e Domnul {composer: {Nicolae Moldoveanu}, rcId: {5272}, id: {i9urx3k34dqwfTxDJ63CEQ}, contentHash: {eb7801}}
+Isus Hristos e Domnul {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5272}, id: {i9urx3k34dqwfTxDJ63CEQ}, contentHash: {eb7801}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

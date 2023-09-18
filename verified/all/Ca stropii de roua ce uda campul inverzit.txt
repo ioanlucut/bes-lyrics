@@ -1,5 +1,5 @@
 [title]
-Ca stropii de rouă ce udă câmpul înverzit {rcId: {2132}, id: {5Ad8RHPaeSxnMcuEoBGdp3}, contentHash: {2c3f4c}}
+Ca stropii de rouă ce udă câmpul înverzit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2132}, id: {5Ad8RHPaeSxnMcuEoBGdp3}, contentHash: {2c3f4c}}
 
 [sequence]
 v1,v2,v3,v4

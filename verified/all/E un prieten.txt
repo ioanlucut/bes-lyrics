@@ -1,5 +1,5 @@
 [title]
-E un prieten {id: {hcmCB3i3gCov4bZ6NZgmwE}, contentHash: {98ac12}}
+E un prieten {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hcmCB3i3gCov4bZ6NZgmwE}, contentHash: {98ac12}}
 
 [sequence]
 v1,c,v2,c,b,c

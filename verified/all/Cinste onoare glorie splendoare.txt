@@ -1,5 +1,5 @@
 [title]
-Cinste, onoare, glorie, splendoare {rcId: {4859}, id: {d5k4ywUCmQqRXr8WbsxqKH}, contentHash: {17547c}}
+Cinste, onoare, glorie, splendoare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4859}, id: {d5k4ywUCmQqRXr8WbsxqKH}, contentHash: {17547c}}
 
 [sequence]
 v1,c,v1,c,b,c

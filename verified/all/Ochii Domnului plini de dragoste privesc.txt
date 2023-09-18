@@ -1,5 +1,5 @@
 [title]
-Ochii Domnului, plini de dragoste privesc {rcId: {57825}, id: {rDSthPmVuLAMyYaHw51W1V}, contentHash: {d55b42}}
+Ochii Domnului, plini de dragoste privesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {57825}, id: {rDSthPmVuLAMyYaHw51W1V}, contentHash: {d55b42}}
 
 [sequence]
 v1,c,v1,c

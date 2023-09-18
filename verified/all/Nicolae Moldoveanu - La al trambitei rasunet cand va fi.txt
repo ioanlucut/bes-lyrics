@@ -1,5 +1,5 @@
 [title]
-La al trâmbiței răsunet când va fi {composer: {Nicolae Moldoveanu}, rcId: {5745}, id: {tRbQXamxSkZVYCfqe3uxeX}, contentHash: {837f52}}
+La al trâmbiței răsunet când va fi {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5745}, id: {tRbQXamxSkZVYCfqe3uxeX}, contentHash: {837f52}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

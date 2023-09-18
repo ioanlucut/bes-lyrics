@@ -1,5 +1,5 @@
 [title]
-„Astăzi nu mai sunt minuni!” lumea va striga {rcId: {4120}, id: {bDNtLE1GKFvtXQUDmkkaYX}, contentHash: {88c47f}}
+„Astăzi nu mai sunt minuni!” lumea va striga {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4120}, id: {bDNtLE1GKFvtXQUDmkkaYX}, contentHash: {88c47f}}
 
 [sequence]
 v1,c,v2,c

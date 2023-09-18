@@ -1,5 +1,5 @@
 [title]
-Avem nevoie de Dumnezeu {composer: {Simina Palincas}, rcId: {2124}, id: {gQMH4dtbguzx1ra6JhYH3q}, contentHash: {0c5a9c}}
+Avem nevoie de Dumnezeu {alternative: {*}, composer: {Simina Palincas}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2124}, id: {gQMH4dtbguzx1ra6JhYH3q}, contentHash: {0c5a9c}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4

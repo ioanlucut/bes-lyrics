@@ -1,5 +1,5 @@
 [title]
-Pe calea îngustă e luptă {composer: {Sanford F. Bennett}, rcId: {5036}, id: {w5zFuzq8EyE87jJLsntw9W}, contentHash: {32969e}}
+Pe calea îngustă e luptă {alternative: {*}, composer: {Sanford F. Bennett}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5036}, id: {w5zFuzq8EyE87jJLsntw9W}, contentHash: {32969e}}
 
 [sequence]
 v1,c,v2,c,v3,c

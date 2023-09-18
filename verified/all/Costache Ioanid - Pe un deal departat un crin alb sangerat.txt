@@ -1,5 +1,5 @@
 [title]
-Pe un deal depărtat un crin alb sângerat {composer: {Costache Ioanid}, rcId: {98112}, id: {iDaKPVZ8iTb17g4qX71BWp}, contentHash: {1ab32d}}
+Pe un deal depărtat un crin alb sângerat {alternative: {*}, composer: {Costache Ioanid}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {98112}, id: {iDaKPVZ8iTb17g4qX71BWp}, contentHash: {1ab32d}}
 
 [sequence]
 v1,c,v2,c,v3,c

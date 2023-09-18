@@ -1,5 +1,5 @@
 [title]
-Doar o colibă, aici jos, îmi ajunge {rcId: {850}, id: {6LtVPNwWWThebTwsFWuzdX}, contentHash: {bf4c6f}}
+Doar o colibă, aici jos, îmi ajunge {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {850}, id: {6LtVPNwWWThebTwsFWuzdX}, contentHash: {bf4c6f}}
 
 [sequence]
 v1,c,v2,c,v3,c

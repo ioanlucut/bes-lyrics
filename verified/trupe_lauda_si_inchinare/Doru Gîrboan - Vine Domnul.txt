@@ -1,5 +1,5 @@
 [title]
-Vine Domnul! {composer: {Doru Gîrboan}, rcId: {103388}, id: {3DS2c5LVGi5y9q9TDb5dPo}, contentHash: {c80a59}}
+Vine Domnul! {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103388}, id: {3DS2c5LVGi5y9q9TDb5dPo}, contentHash: {c80a59}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

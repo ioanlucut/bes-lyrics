@@ -1,5 +1,5 @@
 [title]
-Tu nu pleci niciodată de la mine {rcId: {219901}, id: {jE9YSoRmPZjXqnpyja2XbJ}, contentHash: {7374eb}}
+Tu nu pleci niciodată de la mine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {219901}, id: {jE9YSoRmPZjXqnpyja2XbJ}, contentHash: {7374eb}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

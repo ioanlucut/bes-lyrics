@@ -1,5 +1,5 @@
 [title]
-Să ne trezim, frați și surori {composer: {Nicolae Moldoveanu}, rcId: {5611}, id: {xb6zfwuxwjRsjTfX8RzGws}, contentHash: {87c0b0}}
+Să ne trezim, frați și surori {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5611}, id: {xb6zfwuxwjRsjTfX8RzGws}, contentHash: {87c0b0}}
 
 [sequence]
 v1,v2,v3,v4,v5

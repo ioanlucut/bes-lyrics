@@ -1,5 +1,5 @@
 [title]
-Mâinile ridicăm când ne rugăm {composer: {Decean}, rcId: {4317}, id: {jsa2wDaH3LwvrtY8bCPzg6}, contentHash: {0e5153}}
+Mâinile ridicăm când ne rugăm {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4317}, id: {jsa2wDaH3LwvrtY8bCPzg6}, contentHash: {0e5153}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,e

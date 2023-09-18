@@ -1,5 +1,5 @@
 [title]
-Atât cât voi trăi {composer: {Otto Pascal}, rcId: {6815}, id: {6eb1J2gyyjzS68Mb3eKAb3}, contentHash: {7efa30}}
+Atât cât voi trăi {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6815}, id: {6eb1J2gyyjzS68Mb3eKAb3}, contentHash: {7efa30}}
 
 [sequence]
 v1,c,v2,c

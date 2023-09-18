@@ -1,5 +1,5 @@
 [title]
-Sfânt mereu {composer: {Ekklesia}, rcId: {6597}, id: {sdgHS6xZzfSjhiBR2CPYRu}, contentHash: {eb0d19}}
+Sfânt mereu {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6597}, id: {sdgHS6xZzfSjhiBR2CPYRu}, contentHash: {eb0d19}}
 
 [sequence]
 v1,c,v2,c,c

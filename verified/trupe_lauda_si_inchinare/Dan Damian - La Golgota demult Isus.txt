@@ -1,5 +1,5 @@
 [title]
-La Golgota demult Isus {composer: {Dan Damian}, rcId: {238939}, id: {5eXAmKXNC3ufdXhnmHT6LU}, contentHash: {d4a455}}
+La Golgota demult Isus {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238939}, id: {5eXAmKXNC3ufdXhnmHT6LU}, contentHash: {d4a455}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,b,c2.1,c2.2

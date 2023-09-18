@@ -1,5 +1,5 @@
 [title]
-Minunea Vieții {composer: {Emma Repede}, rcId: {189551}, id: {wDbYAA7Dnq2K64uDkMLtGb}, contentHash: {ad0f77}}
+Minunea Vieții {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {189551}, id: {wDbYAA7Dnq2K64uDkMLtGb}, contentHash: {ad0f77}}
 
 [sequence]
 v1,b,c,v2,c

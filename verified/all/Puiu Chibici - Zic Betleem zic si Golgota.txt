@@ -1,5 +1,5 @@
 [title]
-Zic Betleem, zic și Golgota {composer: {Puiu Chibici}, rcId: {5501}, id: {aSp9xQeWLBaU7bR29j6j5N}, contentHash: {5648be}}
+Zic Betleem, zic și Golgota {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5501}, id: {aSp9xQeWLBaU7bR29j6j5N}, contentHash: {5648be}}
 
 [sequence]
 v1,c,v2,c,v3,c

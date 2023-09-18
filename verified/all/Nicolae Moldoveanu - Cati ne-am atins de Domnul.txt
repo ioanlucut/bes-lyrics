@@ -1,5 +1,5 @@
 [title]
-Câți ne-am atins de Domnul {composer: {Nicolae Moldoveanu}, rcId: {5575}, id: {mpwoofGPFayVTE1mN3pMSr}, contentHash: {4e83c7}}
+Câți ne-am atins de Domnul {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5575}, id: {mpwoofGPFayVTE1mN3pMSr}, contentHash: {4e83c7}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

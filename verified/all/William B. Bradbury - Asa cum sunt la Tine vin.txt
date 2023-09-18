@@ -1,5 +1,5 @@
 [title]
-Așa cum sunt, la Tine vin {composer: {William B. Bradbury}, rcId: {56459}, id: {dr3wiLNdqcTTN8LwtUqzJ4}, contentHash: {bc3243}}
+Așa cum sunt, la Tine vin {alternative: {*}, composer: {William B. Bradbury}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {56459}, id: {dr3wiLNdqcTTN8LwtUqzJ4}, contentHash: {bc3243}}
 
 [sequence]
 v1,v2,v3,v4

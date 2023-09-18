@@ -1,5 +1,5 @@
 [title]
-Cu dor aștept măreața zi {composer: {Nicolae Moldoveanu}, rcId: {5712}, id: {6cr19woA6pAb4rMuYj1MC3}, contentHash: {64e163}}
+Cu dor aștept măreața zi {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5712}, id: {6cr19woA6pAb4rMuYj1MC3}, contentHash: {64e163}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

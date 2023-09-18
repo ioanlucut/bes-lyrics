@@ -1,5 +1,5 @@
 [title]
-Cu glasul meu {composer: {Shalom}, rcId: {7011}, id: {j6wadwksh5XVpU9FBm6pT2}, contentHash: {412717}}
+Cu glasul meu {alternative: {*}, composer: {Shalom}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7011}, id: {j6wadwksh5XVpU9FBm6pT2}, contentHash: {412717}}
 
 [sequence]
 v1.1,v1.2,c,v2,c

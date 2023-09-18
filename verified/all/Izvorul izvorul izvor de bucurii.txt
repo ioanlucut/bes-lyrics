@@ -1,5 +1,5 @@
 [title]
-Izvorul, izvorul, izvor de bucurii {rcId: {89758}, id: {hVQCbxkTgQinLEFcYcsg8X}, contentHash: {9b492a}}
+Izvorul, izvorul, izvor de bucurii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {89758}, id: {hVQCbxkTgQinLEFcYcsg8X}, contentHash: {9b492a}}
 
 [sequence]
 v1,c,v2,c,v3,c

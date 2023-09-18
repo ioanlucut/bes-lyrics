@@ -1,5 +1,5 @@
 [title]
-Tot mai frumoasă ești, Iubire {composer: {Nicolae Moldoveanu}, rcId: {5897}, id: {hrX4Vg69BtcqvyNrk8FzxB}, contentHash: {020167}}
+Tot mai frumoasă ești, Iubire {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5897}, id: {hrX4Vg69BtcqvyNrk8FzxB}, contentHash: {020167}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-În Tine este viața mea {rcId: {4945}, id: {feDqDfeLzRwHNq6iRGryw8}, contentHash: {eb057d}}
+În Tine este viața mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4945}, id: {feDqDfeLzRwHNq6iRGryw8}, contentHash: {eb057d}}
 
 [sequence]
 c,v1,c,v1,c

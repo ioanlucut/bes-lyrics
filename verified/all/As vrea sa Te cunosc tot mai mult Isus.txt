@@ -1,5 +1,5 @@
 [title]
-Aș vrea să Te cunosc tot mai mult, Isus {rcId: {1168}, id: {mNMnWauVfDnyca5CTYEyjp}, contentHash: {ed7ab3}}
+Aș vrea să Te cunosc tot mai mult, Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1168}, id: {mNMnWauVfDnyca5CTYEyjp}, contentHash: {ed7ab3}}
 
 [sequence]
 v1,c,v1,c,v1

@@ -1,5 +1,5 @@
 [title]
-Nădejdea mea e-n Dumnezeu {composer: {Dan Istrate}, rcId: {220908}, id: {amJzACT2RXHbvTYmgFtYyr}, contentHash: {1db616}}
+Nădejdea mea e-n Dumnezeu {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {220908}, id: {amJzACT2RXHbvTYmgFtYyr}, contentHash: {1db616}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

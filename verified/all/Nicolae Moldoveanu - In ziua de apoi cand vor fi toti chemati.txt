@@ -1,5 +1,5 @@
 [title]
-În ziua de apoi când vor fi toți chemați {composer: {Nicolae Moldoveanu}, rcId: {5553}, id: {3KEXt49A95TGVsjvKCv7kS}, contentHash: {891746}}
+În ziua de apoi când vor fi toți chemați {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5553}, id: {3KEXt49A95TGVsjvKCv7kS}, contentHash: {891746}}
 
 [sequence]
 v1,c,v2,c,v3,c

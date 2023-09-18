@@ -1,5 +1,5 @@
 [title]
-El e fântâna cu ape vii {rcId: {779}, id: {g6rKgAweS9xZu4b9fUYUS8}, contentHash: {66c422}}
+El e fântâna cu ape vii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {779}, id: {g6rKgAweS9xZu4b9fUYUS8}, contentHash: {66c422}}
 
 [sequence]
 c,v1.1,v1.2,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Pe cine sărbătorim? {composer: {Otto Pascal}, rcId: {100789}, id: {jBV1tKBhxZPeBahReEZD5m}, contentHash: {080cf6}}
+Pe cine sărbătorim? {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {100789}, id: {jBV1tKBhxZPeBahReEZD5m}, contentHash: {080cf6}}
 
 [sequence]
 v1,c,v2,c

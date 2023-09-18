@@ -1,5 +1,5 @@
 [title]
-Știu că Tu nu vrei nici jertfe și nici daruri {rcId: {6725}, id: {47DyqYw4yL8uY7zodFFW4L}, contentHash: {540977}}
+Știu că Tu nu vrei nici jertfe și nici daruri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6725}, id: {47DyqYw4yL8uY7zodFFW4L}, contentHash: {540977}}
 
 [sequence]
 v1.1,v1.2,c,v2,c

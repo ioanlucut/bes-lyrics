@@ -1,5 +1,5 @@
 [title]
-E bucurie-n Hristos {id: {1FeGCLWJkq9ZGEHxVc3AUc}, contentHash: {485c22}}
+E bucurie-n Hristos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1FeGCLWJkq9ZGEHxVc3AUc}, contentHash: {485c22}}
 
 [sequence]
 c,v1,c,v1

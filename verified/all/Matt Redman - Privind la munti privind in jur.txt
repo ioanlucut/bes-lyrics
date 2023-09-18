@@ -1,5 +1,5 @@
 [title]
-Privind la munți, privind în jur {composer: {Matt Redman}, rcId: {5146}, id: {dH5cgoWDEeUhJMCNKpihPx}, contentHash: {005db1}}
+Privind la munți, privind în jur {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5146}, id: {dH5cgoWDEeUhJMCNKpihPx}, contentHash: {005db1}}
 
 [sequence]
 v1,c,v1,c

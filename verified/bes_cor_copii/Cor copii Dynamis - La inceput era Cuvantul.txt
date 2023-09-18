@@ -1,5 +1,5 @@
 [title]
-La început era Cuvântul {composer: {Cor copii Dynamis}, rcId: {144184}, id: {jEUQ3BFqHtqEHoDmVKoDPs}, contentHash: {9550ba}}
+La început era Cuvântul {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {144184}, id: {jEUQ3BFqHtqEHoDmVKoDPs}, contentHash: {9550ba}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

@@ -1,5 +1,5 @@
 [title]
-Haideți să cântăm {rcId: {4933}, id: {sRNJvBcsfubQFZLeb3DvWP}, contentHash: {69b2b2}}
+Haideți să cântăm {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4933}, id: {sRNJvBcsfubQFZLeb3DvWP}, contentHash: {69b2b2}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2

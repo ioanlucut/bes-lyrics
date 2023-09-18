@@ -1,5 +1,5 @@
 [title]
-Doamne, mă predau azi Ție {id: {hqUZGhdbkiDMc6Y6TGpQjd}, contentHash: {232de8}}
+Doamne, mă predau azi Ție {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hqUZGhdbkiDMc6Y6TGpQjd}, contentHash: {232de8}}
 
 [sequence]
 v1,c,v2,c,v3,c

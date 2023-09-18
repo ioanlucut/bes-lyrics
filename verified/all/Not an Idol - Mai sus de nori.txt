@@ -1,5 +1,5 @@
 [title]
-Mai sus de nori {composer: {Not an Idol}, rcId: {238201}, id: {fBjkGLiWBZhPSEpyspNUJc}, contentHash: {62956f}}
+Mai sus de nori {alternative: {*}, composer: {Not an Idol}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238201}, id: {fBjkGLiWBZhPSEpyspNUJc}, contentHash: {62956f}}
 
 [sequence]
 v1,c,v2,c,b,b2,c

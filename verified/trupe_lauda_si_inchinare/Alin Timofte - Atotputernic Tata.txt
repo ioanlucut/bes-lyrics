@@ -1,5 +1,5 @@
 [title]
-Atotputernic Tată {composer: {Alin Timofte}, rcId: {164158}, id: {rK1ZtmNZn9rW171tb9W87g}, contentHash: {7806d2}}
+Atotputernic Tată {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164158}, id: {rK1ZtmNZn9rW171tb9W87g}, contentHash: {7806d2}}
 
 [sequence]
 v1,c,v2,c,b,c2

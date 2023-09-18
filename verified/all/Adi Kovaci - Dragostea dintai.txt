@@ -1,5 +1,5 @@
 [title]
-Dragostea dintâi {composer: {Adi Kovaci}, rcId: {229804}, id: {fB4QiaLhNnGxwJQSfU6MDf}, contentHash: {e173a8}}
+Dragostea dintâi {alternative: {*}, composer: {Adi Kovaci}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {229804}, id: {fB4QiaLhNnGxwJQSfU6MDf}, contentHash: {e173a8}}
 
 [sequence]
 v1,c,v2,c

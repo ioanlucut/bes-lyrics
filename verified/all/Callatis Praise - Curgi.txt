@@ -1,5 +1,5 @@
 [title]
-Curgi {composer: {Callatis Praise}, rcId: {6788}, id: {ipqQuiX6WwkqFKsQeKsNyD}, contentHash: {1b89fc}}
+Curgi {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6788}, id: {ipqQuiX6WwkqFKsQeKsNyD}, contentHash: {1b89fc}}
 
 [sequence]
 v1,c

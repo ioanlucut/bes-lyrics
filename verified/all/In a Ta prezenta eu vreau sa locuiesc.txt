@@ -1,5 +1,5 @@
 [title]
-În a Ta prezență eu vreau să locuiesc {id: {u8YoauHdeP6WsKZ6VnG94G}, contentHash: {7f929b}}
+În a Ta prezență eu vreau să locuiesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {u8YoauHdeP6WsKZ6VnG94G}, contentHash: {7f929b}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Fiindcă Duhul Domnului {id: {aBQMwKxaP6n37cLe9NZBeo}, contentHash: {a2d78a}}
+Fiindcă Duhul Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {aBQMwKxaP6n37cLe9NZBeo}, contentHash: {a2d78a}}
 
 [sequence]
 v1,v2,v3

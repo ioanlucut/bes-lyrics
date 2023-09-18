@@ -1,5 +1,5 @@
 [title]
-Poartă bunătatea și iubirea {composer: {Elim Harmony}, rcId: {172357}, id: {ooPP3sQARgvN8bV7Z6ii8B}, contentHash: {fbe9ee}}
+Poartă bunătatea și iubirea {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172357}, id: {ooPP3sQARgvN8bV7Z6ii8B}, contentHash: {fbe9ee}}
 
 [sequence]
 c,v1,c,v2

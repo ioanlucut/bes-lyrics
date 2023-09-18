@@ -1,5 +1,5 @@
 [title]
-Oceanele {composer: {Ekklesia}, rcId: {4148}, id: {8GqhRAkYY3eGAJY1NZUw6Z}, contentHash: {0b92e2}}
+Oceanele {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4148}, id: {8GqhRAkYY3eGAJY1NZUw6Z}, contentHash: {0b92e2}}
 
 [sequence]
 v1,c,v2,c,v2,c

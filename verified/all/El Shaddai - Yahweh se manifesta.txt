@@ -1,5 +1,5 @@
 [title]
-Yahweh se manifestă {composer: {El Shaddai}, rcId: {246232}, id: {peXRxdQLF63hGMvfKnozdW}, contentHash: {5114e2}}
+Yahweh se manifestă {alternative: {*}, composer: {El Shaddai}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {246232}, id: {peXRxdQLF63hGMvfKnozdW}, contentHash: {5114e2}}
 
 [sequence]
 c,v1,c,v1,c,b,c2,c

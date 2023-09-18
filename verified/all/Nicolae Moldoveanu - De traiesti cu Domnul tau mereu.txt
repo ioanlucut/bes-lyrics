@@ -1,5 +1,5 @@
 [title]
-De trăiești cu Domnul tău mereu {composer: {Nicolae Moldoveanu}, rcId: {5654}, id: {uxAtWHfHnR8yxeVkcxgaN9}, contentHash: {293bca}}
+De trăiești cu Domnul tău mereu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5654}, id: {uxAtWHfHnR8yxeVkcxgaN9}, contentHash: {293bca}}
 
 [sequence]
 v1,v2,v3

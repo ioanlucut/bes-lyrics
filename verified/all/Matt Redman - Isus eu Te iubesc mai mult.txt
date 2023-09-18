@@ -1,5 +1,5 @@
 [title]
-Isus, eu Te iubesc mai mult {composer: {Matt Redman}, rcId: {5136}, id: {8EopjdjBGpZS5shB3LiqNr}, contentHash: {de7316}}
+Isus, eu Te iubesc mai mult {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5136}, id: {8EopjdjBGpZS5shB3LiqNr}, contentHash: {de7316}}
 
 [sequence]
 v1,p,c

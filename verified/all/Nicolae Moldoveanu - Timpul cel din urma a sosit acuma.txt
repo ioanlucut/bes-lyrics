@@ -1,5 +1,5 @@
 [title]
-Timpul cel din urmă a sosit acuma {composer: {Nicolae Moldoveanu}, rcId: {5771}, id: {c9wquimxgbCRacDSnbpHtZ}, contentHash: {23e39c}}
+Timpul cel din urmă a sosit acuma {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5771}, id: {c9wquimxgbCRacDSnbpHtZ}, contentHash: {23e39c}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

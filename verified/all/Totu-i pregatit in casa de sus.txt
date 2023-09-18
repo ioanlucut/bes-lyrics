@@ -1,5 +1,5 @@
 [title]
-Totu-i pregătit în casa de sus {rcId: {74416}, id: {auin1pUpcHKjV1yNyMXnq2}, contentHash: {ab6639}}
+Totu-i pregătit în casa de sus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74416}, id: {auin1pUpcHKjV1yNyMXnq2}, contentHash: {ab6639}}
 
 [sequence]
 v1,v2,v3,v4,v5

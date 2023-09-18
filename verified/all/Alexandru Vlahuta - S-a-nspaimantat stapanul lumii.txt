@@ -1,5 +1,5 @@
 [title]
-S-a-nspăimântat stăpânul lumii {composer: {Alexandru Vlahuta}, rcId: {4139}, id: {onCd8egscxR8Taf8HgbbsD}, contentHash: {3d4297}}
+S-a-nspăimântat stăpânul lumii {alternative: {*}, composer: {Alexandru Vlahuta}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4139}, id: {onCd8egscxR8Taf8HgbbsD}, contentHash: {3d4297}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

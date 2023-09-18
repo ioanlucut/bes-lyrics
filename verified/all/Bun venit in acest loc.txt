@@ -1,5 +1,5 @@
 [title]
-Bun venit în acest loc {id: {riTcmvW59wbDWGzJwU8f1D}, contentHash: {5d0ae2}}
+Bun venit în acest loc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {riTcmvW59wbDWGzJwU8f1D}, contentHash: {5d0ae2}}
 
 [sequence]
 v1,c,v1,c

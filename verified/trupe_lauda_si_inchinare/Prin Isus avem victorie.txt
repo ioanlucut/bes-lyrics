@@ -1,5 +1,5 @@
 [title]
-Prin Isus avem victorie {rcId: {75497}, id: {1QGahus2ATTQrhwds7BRpG}, contentHash: {bd9203}}
+Prin Isus avem victorie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {75497}, id: {1QGahus2ATTQrhwds7BRpG}, contentHash: {bd9203}}
 
 [sequence]
 v1,c,v2,c

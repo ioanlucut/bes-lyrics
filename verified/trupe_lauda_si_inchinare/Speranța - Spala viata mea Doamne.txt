@@ -1,5 +1,5 @@
 [title]
-Spală viața mea, Doamne {composer: {Speranța}, rcId: {128816}, id: {jTqDmsXeMcJsUxksxyRyd7}, contentHash: {94a7ef}}
+Spală viața mea, Doamne {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {128816}, id: {jTqDmsXeMcJsUxksxyRyd7}, contentHash: {94a7ef}}
 
 [sequence]
 v1,p,c,v2,p2,c2

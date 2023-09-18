@@ -1,5 +1,5 @@
 [title]
-Vreau să Te cunosc mai mult {id: {99qvJiRRaHxkn4Y6jKLxUH}, contentHash: {35ced5}}
+Vreau să Te cunosc mai mult {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {99qvJiRRaHxkn4Y6jKLxUH}, contentHash: {35ced5}}
 
 [sequence]
 v1,c,v1,c

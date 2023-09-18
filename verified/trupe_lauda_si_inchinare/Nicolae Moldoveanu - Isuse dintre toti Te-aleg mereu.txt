@@ -1,5 +1,5 @@
 [title]
-Isuse dintre toți Te-aleg mereu {composer: {Nicolae Moldoveanu}, rcId: {3722}, id: {pv99d4ZAuiSXYJKs4jGczX}, contentHash: {09b7a6}}
+Isuse dintre toți Te-aleg mereu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3722}, id: {pv99d4ZAuiSXYJKs4jGczX}, contentHash: {09b7a6}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

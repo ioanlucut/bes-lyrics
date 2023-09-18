@@ -1,5 +1,5 @@
 [title]
-În orice făptură și-orice creatură {composer: {Puiu Chibici}, rcId: {6772}, id: {umd8b4JRyBbeLAcmtg6AiN}, contentHash: {0e234c}}
+În orice făptură și-orice creatură {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6772}, id: {umd8b4JRyBbeLAcmtg6AiN}, contentHash: {0e234c}}
 
 [sequence]
 v1,c,v2,c,v3,c

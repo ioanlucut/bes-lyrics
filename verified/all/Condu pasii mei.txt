@@ -1,5 +1,5 @@
 [title]
-Condu pașii mei {rcId: {2800}, id: {t6HTHrGgAxxwYq4eT8qY8L}, contentHash: {7d5bcf}}
+Condu pașii mei {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2800}, id: {t6HTHrGgAxxwYq4eT8qY8L}, contentHash: {7d5bcf}}
 
 [sequence]
 v1,c,v1,c,v1,c

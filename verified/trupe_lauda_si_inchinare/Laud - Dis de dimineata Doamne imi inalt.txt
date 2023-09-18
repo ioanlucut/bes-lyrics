@@ -1,5 +1,5 @@
 [title]
-Dis de dimineață, Doamne, îmi înalț {composer: {Laud}, rcId: {6733}, id: {8FsNc8ho3a9JJ7rD54ZpgZ}, contentHash: {881ed6}}
+Dis de dimineață, Doamne, îmi înalț {alternative: {*}, composer: {Laud}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6733}, id: {8FsNc8ho3a9JJ7rD54ZpgZ}, contentHash: {881ed6}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Noi suntem frați, ce mare bucurie {id: {rhWdQfMrZdN9kct6RBJPQj}, contentHash: {a5da66}}
+Noi suntem frați, ce mare bucurie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rhWdQfMrZdN9kct6RBJPQj}, contentHash: {a5da66}}
 
 [sequence]
 v1,v2,v3,v4

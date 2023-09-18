@@ -1,5 +1,5 @@
 [title]
-Aș vrea, Isuse-n viața mea {id: {vXyUq5kqATv4ATxJwn2SH3}, contentHash: {0bcf4a}}
+Aș vrea, Isuse-n viața mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {vXyUq5kqATv4ATxJwn2SH3}, contentHash: {0bcf4a}}
 
 [sequence]
 v1,v2,v3,v4

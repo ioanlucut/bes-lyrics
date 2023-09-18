@@ -1,5 +1,5 @@
 [title]
-Prin atâtea valuri grele am trecut {composer: {Frații Wagner}, rcId: {3754}, id: {gpbFYwaCH8PPM8u6uSB4q5}, contentHash: {3ab5a5}}
+Prin atâtea valuri grele am trecut {alternative: {*}, composer: {Frații Wagner}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3754}, id: {gpbFYwaCH8PPM8u6uSB4q5}, contentHash: {3ab5a5}}
 
 [sequence]
 v1,v2,v3,v4,v5

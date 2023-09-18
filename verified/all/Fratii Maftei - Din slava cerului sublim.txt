@@ -1,5 +1,5 @@
 [title]
-Din slava cerului sublim {composer: {Fratii Maftei}, rcId: {59916}, id: {14BC2WiNSZprd49Sj1QQak}, contentHash: {e1703c}}
+Din slava cerului sublim {alternative: {*}, composer: {Fratii Maftei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59916}, id: {14BC2WiNSZprd49Sj1QQak}, contentHash: {e1703c}}
 
 [sequence]
 v1,v2,v3,v4,v5

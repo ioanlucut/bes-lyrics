@@ -1,5 +1,5 @@
 [title]
-Doamne, știu de-o revărsare {composer: {William B. Bradbury}, rcId: {3116}, id: {dYvwx3bL2hMvu4Raddi5N4}, contentHash: {cc344d}}
+Doamne, știu de-o revărsare {alternative: {*}, composer: {William B. Bradbury}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3116}, id: {dYvwx3bL2hMvu4Raddi5N4}, contentHash: {cc344d}}
 
 [sequence]
 v1,v2,v3,v4,v5

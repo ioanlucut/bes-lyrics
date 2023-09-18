@@ -1,5 +1,5 @@
 [title]
-Duhul Tău {composer: {Doru Gîrboan}, rcId: {126272}, id: {7TmAUuRWx2x15cuhnTjHtb}, contentHash: {ef0602}}
+Duhul Tău {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {126272}, id: {7TmAUuRWx2x15cuhnTjHtb}, contentHash: {ef0602}}
 
 [sequence]
 v1,c,v2,c

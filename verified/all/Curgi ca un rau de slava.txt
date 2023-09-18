@@ -1,5 +1,5 @@
 [title]
-Curgi ca un râu de slavă {rcId: {783}, id: {ew3wnzuWQzTsptQV8Fjm3Z}, contentHash: {ef4cfb}}
+Curgi ca un râu de slavă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {783}, id: {ew3wnzuWQzTsptQV8Fjm3Z}, contentHash: {ef4cfb}}
 
 [sequence]
 c,v1

@@ -1,5 +1,5 @@
 [title]
-Acum e timpul pe sfârșit {rcId: {1377}, id: {tJrKHbg25cCtAD1dgsJngj}, contentHash: {2dab01}}
+Acum e timpul pe sfârșit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1377}, id: {tJrKHbg25cCtAD1dgsJngj}, contentHash: {2dab01}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

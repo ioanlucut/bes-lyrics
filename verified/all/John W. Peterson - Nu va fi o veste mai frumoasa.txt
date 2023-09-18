@@ -1,5 +1,5 @@
 [title]
-Nu va fi o veste mai frumoasă {composer: {John W. Peterson}, rcId: {3723}, id: {f6JtcoGsoz9G2Mznfd6m2i}, contentHash: {e39ac7}}
+Nu va fi o veste mai frumoasă {alternative: {*}, composer: {John W. Peterson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3723}, id: {f6JtcoGsoz9G2Mznfd6m2i}, contentHash: {e39ac7}}
 
 [sequence]
 v1,c,v2,c,v3,c

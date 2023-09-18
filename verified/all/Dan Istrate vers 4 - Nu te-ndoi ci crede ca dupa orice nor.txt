@@ -1,5 +1,5 @@
 [title]
-Nu te-ndoi, ci crede că după orice nor {composer: {Dan Istrate vers 4}, rcId: {187319}, id: {wHfMdnExtBV4yXoYk2yffy}, contentHash: {992cdf}}
+Nu te-ndoi, ci crede că după orice nor {alternative: {*}, composer: {Dan Istrate vers 4}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187319}, id: {wHfMdnExtBV4yXoYk2yffy}, contentHash: {992cdf}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2

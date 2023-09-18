@@ -1,5 +1,5 @@
 [title]
-Ascultă, Doamne, lauda mea {rcId: {1171}, id: {5wbK9gkc8LRhcF4w3U2xgJ}, contentHash: {9f85d9}}
+Ascultă, Doamne, lauda mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1171}, id: {5wbK9gkc8LRhcF4w3U2xgJ}, contentHash: {9f85d9}}
 
 [sequence]
 v1,c,v1,c

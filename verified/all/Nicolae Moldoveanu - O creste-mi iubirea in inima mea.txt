@@ -1,5 +1,5 @@
 [title]
-O, crește-mi iubirea, în inima mea {composer: {Nicolae Moldoveanu}, rcId: {5352}, id: {tGpZpwNJm4F9sgcWjjZkZC}, contentHash: {dd7e75}}
+O, crește-mi iubirea, în inima mea {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5352}, id: {tGpZpwNJm4F9sgcWjjZkZC}, contentHash: {dd7e75}}
 
 [sequence]
 v1,v2,v3,v4

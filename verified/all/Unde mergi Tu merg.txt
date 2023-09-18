@@ -1,5 +1,5 @@
 [title]
-Unde mergi Tu, merg {id: {1BpXPer7uQPdvM5jACK7rY}, contentHash: {7f0083}}
+Unde mergi Tu, merg {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1BpXPer7uQPdvM5jACK7rY}, contentHash: {7f0083}}
 
 [sequence]
 c,v1,c,v2,c,e

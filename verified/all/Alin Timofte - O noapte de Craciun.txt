@@ -1,5 +1,5 @@
 [title]
-O noapte de Crăciun {composer: {Alin Timofte}, rcId: {156242}, id: {2Le2VHbs9vDat5mEyY3Kwn}, contentHash: {26e1e0}}
+O noapte de Crăciun {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {156242}, id: {2Le2VHbs9vDat5mEyY3Kwn}, contentHash: {26e1e0}}
 
 [sequence]
 v1,b,c,v2,b2,e

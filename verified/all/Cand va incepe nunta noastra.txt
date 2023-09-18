@@ -1,5 +1,5 @@
 [title]
-Când va începe nunta noastră {rcId: {2142}, id: {6HNXvJRZSakZBigryPzoXT}, contentHash: {f35e53}}
+Când va începe nunta noastră {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2142}, id: {6HNXvJRZSakZBigryPzoXT}, contentHash: {f35e53}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

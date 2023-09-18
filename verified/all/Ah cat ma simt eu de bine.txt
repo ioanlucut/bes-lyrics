@@ -1,5 +1,5 @@
 [title]
-Ah, cât mă simt eu de bine {rcId: {2107}, id: {5Z49rKMjsP9TxitLXq1tPD}, contentHash: {7951c6}}
+Ah, cât mă simt eu de bine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2107}, id: {5Z49rKMjsP9TxitLXq1tPD}, contentHash: {7951c6}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-Binecuvântează, suflete, pe Domnul tău {id: {xhzSneZF83aLhTZUHzvcLL}, contentHash: {923728}}
+Binecuvântează, suflete, pe Domnul tău {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xhzSneZF83aLhTZUHzvcLL}, contentHash: {923728}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Duhul Domnului este putere {rcId: {4902}, id: {nFp78E4qGaiYNC7Lr77Her}, contentHash: {c99cc4}}
+Duhul Domnului este putere {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4902}, id: {nFp78E4qGaiYNC7Lr77Her}, contentHash: {c99cc4}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-Într-o zi pe Ieremia {composer: {Familia Maftei}, rcId: {184006}, id: {eMFSBzpngKRHFZXtjsrenK}, contentHash: {5e1aa4}}
+Într-o zi pe Ieremia {alternative: {*}, composer: {Familia Maftei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {184006}, id: {eMFSBzpngKRHFZXtjsrenK}, contentHash: {5e1aa4}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

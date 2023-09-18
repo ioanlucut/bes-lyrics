@@ -1,5 +1,5 @@
 [title]
-În ceasul cel mai greu {composer: {Otto Pascal}, rcId: {200346}, id: {3pDK2VW5ry7gHnMC9v1y3g}, contentHash: {68e1bf}}
+În ceasul cel mai greu {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {200346}, id: {3pDK2VW5ry7gHnMC9v1y3g}, contentHash: {68e1bf}}
 
 [sequence]
 v1,c,v2,c

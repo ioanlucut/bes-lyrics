@@ -1,5 +1,5 @@
 [title]
-Înainte-Ți vin cu umilință {id: {w4zrLQv7w2aFCi8cXumXmR}, contentHash: {14f3c4}}
+Înainte-Ți vin cu umilință {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {w4zrLQv7w2aFCi8cXumXmR}, contentHash: {14f3c4}}
 
 [sequence]
 v1.1,v1.2

@@ -1,5 +1,5 @@
 [title]
-Eu am o carte ce o iubesc {composer: {Dionisie Giuchici}, rcId: {4380}, id: {qQAj7Q4pu5yi3n8kLbSBsQ}, contentHash: {2130ac}}
+Eu am o carte ce o iubesc {alternative: {*}, composer: {Dionisie Giuchici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4380}, id: {qQAj7Q4pu5yi3n8kLbSBsQ}, contentHash: {2130ac}}
 
 [sequence]
 v1,c,v2,c,v3,c

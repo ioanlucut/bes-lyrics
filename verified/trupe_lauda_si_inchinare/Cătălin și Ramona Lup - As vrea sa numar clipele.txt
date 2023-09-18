@@ -1,5 +1,5 @@
 [title]
-Aș vrea să număr clipele {composer: {Cătălin și Ramona Lup}, rcId: {7188}, id: {tegss7d8W4ECq7fMpHxkrX}, contentHash: {b97f69}}
+Aș vrea să număr clipele {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7188}, id: {tegss7d8W4ECq7fMpHxkrX}, contentHash: {b97f69}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,c2

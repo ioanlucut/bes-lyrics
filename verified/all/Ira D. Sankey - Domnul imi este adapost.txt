@@ -1,5 +1,5 @@
 [title]
-Domnul îmi este adăpost {composer: {Ira D. Sankey}, rcId: {3105}, id: {1SUS3rJMwQDRe6NZYnPVGG}, contentHash: {2467aa}}
+Domnul îmi este adăpost {alternative: {*}, composer: {Ira D. Sankey}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3105}, id: {1SUS3rJMwQDRe6NZYnPVGG}, contentHash: {2467aa}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Te-am găsit pe munții înalți {composer: {Grup Codlea}, rcId: {1541}, id: {4ojutbZhvDmCGy7EQGdZGH}, contentHash: {e648ae}}
+Te-am găsit pe munții înalți {alternative: {*}, composer: {Grup Codlea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1541}, id: {4ojutbZhvDmCGy7EQGdZGH}, contentHash: {e648ae}}
 
 [sequence]
 v1,v2,v3,v4

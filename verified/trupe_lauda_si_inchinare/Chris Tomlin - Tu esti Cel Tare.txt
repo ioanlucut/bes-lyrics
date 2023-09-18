@@ -1,5 +1,5 @@
 [title]
-Tu ești Cel Tare! {composer: {Chris Tomlin}, rcId: {167046}, id: {gpHosp4Ydpn5HDpAHf5UVn}, contentHash: {ac89e3}}
+Tu ești Cel Tare! {alternative: {*}, composer: {Chris Tomlin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167046}, id: {gpHosp4Ydpn5HDpAHf5UVn}, contentHash: {ac89e3}}
 
 [sequence]
 v1,c,v1,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Sfânt e Dumnezeu {composer: {Otto Pascal}, rcId: {167302}, id: {uELwQRuj1JZp3qmeFjZp8h}, contentHash: {550363}}
+Sfânt e Dumnezeu {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167302}, id: {uELwQRuj1JZp3qmeFjZp8h}, contentHash: {550363}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c

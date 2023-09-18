@@ -1,5 +1,5 @@
 [title]
-Du-mă, Doamne, în sfânta-Ți prezență {rcId: {74552}, id: {mR5nHW5434NSej1kJfNHSn}, contentHash: {5fb5af}}
+Du-mă, Doamne, în sfânta-Ți prezență {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74552}, id: {mR5nHW5434NSej1kJfNHSn}, contentHash: {5fb5af}}
 
 [sequence]
 v1,v2

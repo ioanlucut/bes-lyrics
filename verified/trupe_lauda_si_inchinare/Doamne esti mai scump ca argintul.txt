@@ -1,5 +1,5 @@
 [title]
-Doamne, ești mai scump ca argintul {rcId: {1987}, id: {m9SrsH2H8AgN3gZXCR55ex}, contentHash: {9eb7ac}}
+Doamne, ești mai scump ca argintul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1987}, id: {m9SrsH2H8AgN3gZXCR55ex}, contentHash: {9eb7ac}}
 
 [sequence]
 c,b,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Vom pleca {composer: {Adi Lup}, rcId: {58067}, id: {oRC3Q2fUerBSxXZDb4gR89}, contentHash: {7fcbd8}}
+Vom pleca {alternative: {*}, composer: {Adi Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58067}, id: {oRC3Q2fUerBSxXZDb4gR89}, contentHash: {7fcbd8}}
 
 [sequence]
 v1,c,v2,c

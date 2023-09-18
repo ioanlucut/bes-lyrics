@@ -1,5 +1,5 @@
 [title]
-Pregătește-mi inima, Doamne {composer: {Alin Timofte}, rcId: {5161}, id: {dpsy4XzmX1mqdjnZ8Cvgdi}, contentHash: {748607}}
+Pregătește-mi inima, Doamne {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5161}, id: {dpsy4XzmX1mqdjnZ8Cvgdi}, contentHash: {748607}}
 
 [sequence]
 c

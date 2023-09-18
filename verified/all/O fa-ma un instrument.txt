@@ -1,5 +1,5 @@
 [title]
-O, fă-mă un instrument {rcId: {5024}, id: {x4TnkQgDWGQVNAH9toFpLn}, contentHash: {2fa8a4}}
+O, fă-mă un instrument {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5024}, id: {x4TnkQgDWGQVNAH9toFpLn}, contentHash: {2fa8a4}}
 
 [sequence]
 v1,v2,v3

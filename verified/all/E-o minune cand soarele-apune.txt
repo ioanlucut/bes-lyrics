@@ -1,5 +1,5 @@
 [title]
-E-o minune când soarele-apune {rcId: {4910}, id: {gbo7z7Bwrgcgoi1ngHRWXB}, contentHash: {3d4d1e}}
+E-o minune când soarele-apune {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4910}, id: {gbo7z7Bwrgcgoi1ngHRWXB}, contentHash: {3d4d1e}}
 
 [sequence]
 v1,c,v2,c,v3,c

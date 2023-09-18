@@ -1,5 +1,5 @@
 [title]
-Sunt frânt, eu cad în brațul Tău acum {composer: {Matt Redman}, rcId: {5142}, id: {v6DBgGHrwdkpSyxo5ESBtG}, contentHash: {e936d8}}
+Sunt frânt, eu cad în brațul Tău acum {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5142}, id: {v6DBgGHrwdkpSyxo5ESBtG}, contentHash: {e936d8}}
 
 [sequence]
 v1,c,v1,c

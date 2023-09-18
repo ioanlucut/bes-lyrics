@@ -1,5 +1,5 @@
 [title]
-Breakthrough {alternative: {Prezența-Ți divină}, composer: {El-Shaddai}, rcId: {216068}, id: {qiN7JJzhhJk68EyDYVx4o6}, contentHash: {3a2b34}}
+Breakthrough {alternative: {Prezența-Ți divină}, composer: {El-Shaddai}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {216068}, id: {qiN7JJzhhJk68EyDYVx4o6}, contentHash: {3a2b34}}
 
 [sequence]
 v1,v2,c,v3,b,c

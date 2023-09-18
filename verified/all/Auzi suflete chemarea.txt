@@ -1,5 +1,5 @@
 [title]
-Auzi, suflete, chemarea {rcId: {1573}, id: {f9Y9pD3eREbYbwFgsHg58e}, contentHash: {229cf9}}
+Auzi, suflete, chemarea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1573}, id: {f9Y9pD3eREbYbwFgsHg58e}, contentHash: {229cf9}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
