@@ -1,5 +1,5 @@
 [title]
-Bunule Păstor, Tu, singur {author: {__A__}, contentHash: {643684}, id: {jXjUE5qRG5K3SoVudyHGUd}, rcId: {1582}}
+Bunule Păstor, Tu, singur {rcId: {1582}, id: {jXjUE5qRG5K3SoVudyHGUd}, contentHash: {643684}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Hai, deschide inima ta {author: {Callatis Praise}, contentHash: {7674a6}, id: {5TPHQSZPCrydPQ3ExUG3BF}, rcId: {238552}}
+Hai, deschide inima ta {composer: {Callatis Praise}, rcId: {238552}, id: {5TPHQSZPCrydPQ3ExUG3BF}, contentHash: {7674a6}}
 
 [sequence]
 b,b2,c,v1,c,v2

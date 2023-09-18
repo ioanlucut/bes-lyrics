@@ -1,5 +1,5 @@
 [title]
-Laud numele Tău, Isus {author: {Hillsong}, contentHash: {9bd511}, id: {nh7fCEFogaPNUAn7vkF9LC}, rcId: {167752}}
+Laud numele Tău, Isus {composer: {Hillsong}, rcId: {167752}, id: {nh7fCEFogaPNUAn7vkF9LC}, contentHash: {9bd511}}
 
 [sequence]
 v1,c,v2,c,b1.1,b1.2,c

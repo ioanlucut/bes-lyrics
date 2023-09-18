@@ -1,5 +1,5 @@
 [title]
-Domn al veșniciei, al lumii Creator {author: {__A__}, version: {i}, contentHash: {0ab710}, id: {pVt9ghVL1jbwuuRzu36e49}, rcId: {__R__}}
+Domn al veșniciei, al lumii Creator {version: {i}, id: {pVt9ghVL1jbwuuRzu36e49}, contentHash: {0ab710}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2

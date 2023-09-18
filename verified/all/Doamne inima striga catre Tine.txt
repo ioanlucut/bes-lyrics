@@ -1,5 +1,5 @@
 [title]
-Doamne, inima strigă către Tine {author: {__A__}, contentHash: {615975}, id: {cqykuMBYnpjyRfrWt1inwJ}, rcId: {__R__}}
+Doamne, inima strigă către Tine {id: {cqykuMBYnpjyRfrWt1inwJ}, contentHash: {615975}}
 
 [sequence]
 v1,c1.1,c1.2

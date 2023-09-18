@@ -1,5 +1,5 @@
 [title]
-Te slăvesc, Isuse {author: {Grupul Paradis}, contentHash: {f6bb4d}, id: {8CDSaujnkMSLH4xje8TKFY}, rcId: {6703}}
+Te slăvesc, Isuse {composer: {Grupul Paradis}, rcId: {6703}, id: {8CDSaujnkMSLH4xje8TKFY}, contentHash: {f6bb4d}}
 
 [sequence]
 c,v1,c,v2,c

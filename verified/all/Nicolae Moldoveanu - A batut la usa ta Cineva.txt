@@ -1,5 +1,5 @@
 [title]
-A bătut la ușa ta Cineva {author: {Nicolae Moldoveanu}, contentHash: {72a99c}, id: {cixiKhqcyTtpAp2gQ2ZZFt}, rcId: {6774}}
+A bătut la ușa ta Cineva {composer: {Nicolae Moldoveanu}, rcId: {6774}, id: {cixiKhqcyTtpAp2gQ2ZZFt}, contentHash: {72a99c}}
 
 [sequence]
 v1,v2,v3,v4,v5

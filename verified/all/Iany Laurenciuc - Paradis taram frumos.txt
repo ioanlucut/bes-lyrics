@@ -1,5 +1,5 @@
 [title]
-Paradis, tărâm frumos {author: {Iany Laurenciuc}, contentHash: {1f8f50}, id: {kUVJ5iWqeN1cwd4fSRUASR}, rcId: {177646}}
+Paradis, tărâm frumos {composer: {Iany Laurenciuc}, rcId: {177646}, id: {kUVJ5iWqeN1cwd4fSRUASR}, contentHash: {1f8f50}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

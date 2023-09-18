@@ -1,5 +1,5 @@
 [title]
-Sfânt ești, sfânt ești, Domnul meu {author: {__A__}, contentHash: {6a6c82}, id: {5dfZW1SPxLJiDiVpYZhqY5}, rcId: {__R__}}
+Sfânt ești, sfânt ești, Domnul meu {id: {5dfZW1SPxLJiDiVpYZhqY5}, contentHash: {6a6c82}}
 
 [sequence]
 v1,p,c

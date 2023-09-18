@@ -1,5 +1,5 @@
 [title]
-Poala hainei Tale {author: {Cristocentric}, contentHash: {19ae87}, id: {gkWXw3K2wBzRF2b38zGgEK}, rcId: {111423}}
+Poala hainei Tale {composer: {Cristocentric}, rcId: {111423}, id: {gkWXw3K2wBzRF2b38zGgEK}, contentHash: {19ae87}}
 
 [sequence]
 v1,c,e

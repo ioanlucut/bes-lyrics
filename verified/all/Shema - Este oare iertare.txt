@@ -1,5 +1,5 @@
 [title]
-Este oare iertare {author: {Shema}, contentHash: {40de4d}, id: {9JaULhuohbvQhVpAjmrKrX}, rcId: {4342}}
+Este oare iertare {composer: {Shema}, rcId: {4342}, id: {9JaULhuohbvQhVpAjmrKrX}, contentHash: {40de4d}}
 
 [sequence]
 v1,c,v2,c2

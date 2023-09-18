@@ -1,5 +1,5 @@
 [title]
-Dacă te simțești vreodată trist și apăsat {author: {Nicolae Moldoveanu}, contentHash: {b1ca85}, id: {vYWN9VCDwHZMizm86GgWNA}, rcId: {5666}}
+Dacă te simțești vreodată trist și apăsat {composer: {Nicolae Moldoveanu}, rcId: {5666}, id: {vYWN9VCDwHZMizm86GgWNA}, contentHash: {b1ca85}}
 
 [sequence]
 v1,v2,v3,v4,v5

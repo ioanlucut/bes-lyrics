@@ -1,5 +1,5 @@
 [title]
-Nu vă mai gândiți la ce a fost ’nainte {author: {Nicu Clipa}, contentHash: {42f05a}, id: {9hCRCwH45EQYapqs8Vo4bU}, rcId: {195513}}
+Nu vă mai gândiți la ce a fost ’nainte {composer: {Nicu Clipa}, rcId: {195513}, id: {9hCRCwH45EQYapqs8Vo4bU}, contentHash: {42f05a}}
 
 [sequence]
 v1,v2,c,v3,c,b,c

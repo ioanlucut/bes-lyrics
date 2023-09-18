@@ -1,5 +1,5 @@
 [title]
-Pe cine sărbătorim? {author: {Otto Pascal}, contentHash: {080cf6}, id: {jBV1tKBhxZPeBahReEZD5m}, rcId: {100789}}
+Pe cine sărbătorim? {composer: {Otto Pascal}, rcId: {100789}, id: {jBV1tKBhxZPeBahReEZD5m}, contentHash: {080cf6}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Binecuvântăm, Doamne, Numele Tău {author: {Ierusalim}, contentHash: {04df98}, id: {3cVLzWmquUqGnEVnUP5rzn}, rcId: {4300}}
+Binecuvântăm, Doamne, Numele Tău {composer: {Ierusalim}, rcId: {4300}, id: {3cVLzWmquUqGnEVnUP5rzn}, contentHash: {04df98}}
 
 [sequence]
 v1,c,v1,c

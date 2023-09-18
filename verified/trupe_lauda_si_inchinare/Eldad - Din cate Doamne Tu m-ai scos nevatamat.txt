@@ -1,5 +1,5 @@
 [title]
-Din câte, Doamne, Tu m-ai scos nevătămat {author: {Eldad}, contentHash: {f8728f}, id: {beKxNWRE3xgdtow6LtLs1f}, rcId: {195725}}
+Din câte, Doamne, Tu m-ai scos nevătămat {composer: {Eldad}, rcId: {195725}, id: {beKxNWRE3xgdtow6LtLs1f}, contentHash: {f8728f}}
 
 [sequence]
 v1,c,v2,c

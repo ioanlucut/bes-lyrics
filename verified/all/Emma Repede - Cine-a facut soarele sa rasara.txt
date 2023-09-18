@@ -1,5 +1,5 @@
 [title]
-Cine-a făcut soarele să răsară {author: {Emma Repede}, contentHash: {3c9470}, id: {nwwbkWK2HfudZC9haLoZfV}, rcId: {229266}}
+Cine-a făcut soarele să răsară {composer: {Emma Repede}, rcId: {229266}, id: {nwwbkWK2HfudZC9haLoZfV}, contentHash: {3c9470}}
 
 [sequence]
 v1,c,v2,c

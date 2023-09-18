@@ -1,5 +1,5 @@
 [title]
-Evanghelia are putere {author: {Ionică Stoica}, contentHash: {ea028d}, id: {2Fp8apw5SGiP29vUBSVPc3}, rcId: {3916}}
+Evanghelia are putere {composer: {Ionică Stoica}, rcId: {3916}, id: {2Fp8apw5SGiP29vUBSVPc3}, contentHash: {ea028d}}
 
 [sequence]
 v1,c,v2,c,v3,c

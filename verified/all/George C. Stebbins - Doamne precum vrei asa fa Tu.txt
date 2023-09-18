@@ -1,5 +1,5 @@
 [title]
-Doamne, precum vrei, așa fă Tu {author: {George C. Stebbins}, contentHash: {c232ac}, id: {kf7tGN6vKKNjgf5orpoMBn}, rcId: {74341}}
+Doamne, precum vrei, așa fă Tu {composer: {George C. Stebbins}, rcId: {74341}, id: {kf7tGN6vKKNjgf5orpoMBn}, contentHash: {c232ac}}
 
 [sequence]
 v1,v2,v3

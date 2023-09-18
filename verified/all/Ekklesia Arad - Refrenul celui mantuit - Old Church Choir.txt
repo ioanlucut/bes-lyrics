@@ -1,5 +1,5 @@
 [title]
-Refrenul celui mântuit {author: {Ekklesia Arad}, alternative: {Old Church Choir}, contentHash: {7e941a}, id: {tg95yvCQtiy67spQDPHps8}, rcId: {215353}}
+Refrenul celui mântuit {alternative: {Old Church Choir}, composer: {Ekklesia Arad}, rcId: {215353}, id: {tg95yvCQtiy67spQDPHps8}, contentHash: {7e941a}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b

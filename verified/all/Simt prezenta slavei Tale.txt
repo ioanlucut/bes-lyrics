@@ -1,5 +1,5 @@
 [title]
-Simt prezența slavei Tale {author: {__A__}, contentHash: {bea7ae}, id: {fgnhDXogqzExh5gabGRJVa}, rcId: {__R__}}
+Simt prezența slavei Tale {id: {fgnhDXogqzExh5gabGRJVa}, contentHash: {bea7ae}}
 
 [sequence]
 v1,c,v1,c

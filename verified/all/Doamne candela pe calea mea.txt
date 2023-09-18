@@ -1,5 +1,5 @@
 [title]
-Doamne, candelă pe calea mea {author: {__A__}, contentHash: {3156f5}, id: {vC3v2yqYDtP2zKVsZ8RxJ1}, rcId: {151231}}
+Doamne, candelă pe calea mea {rcId: {151231}, id: {vC3v2yqYDtP2zKVsZ8RxJ1}, contentHash: {3156f5}}
 
 [sequence]
 c,v1,c,v2

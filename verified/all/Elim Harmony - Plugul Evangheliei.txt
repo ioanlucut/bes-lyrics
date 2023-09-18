@@ -1,5 +1,5 @@
 [title]
-Plugul Evangheliei {author: {Elim Harmony}, contentHash: {959e21}, id: {hbVzQCMQkgp2daEx5dWnEL}, rcId: {190761}}
+Plugul Evangheliei {composer: {Elim Harmony}, rcId: {190761}, id: {hbVzQCMQkgp2daEx5dWnEL}, contentHash: {959e21}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Nimic nu mă va despărți {author: {__A__}, contentHash: {f5c1f6}, id: {6oFLZyJrB33iRC8hRPBQy4}, rcId: {161510}}
+Nimic nu mă va despărți {rcId: {161510}, id: {6oFLZyJrB33iRC8hRPBQy4}, contentHash: {f5c1f6}}
 
 [sequence]
 v1,v2,p,c,v3,v4,p,c,v5,v6,p,c

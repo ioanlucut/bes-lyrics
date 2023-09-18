@@ -1,5 +1,5 @@
 [title]
-Jertfă de miros plăcut {author: {Ekklesia}, contentHash: {81d204}, id: {ickijpKhEgMiMbzFvQdSu5}, rcId: {81912}}
+Jertfă de miros plăcut {composer: {Ekklesia}, rcId: {81912}, id: {ickijpKhEgMiMbzFvQdSu5}, contentHash: {81d204}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,e

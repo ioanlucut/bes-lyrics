@@ -1,5 +1,5 @@
 [title]
-Ai un loc la cruce și tu {author: {__A__}, contentHash: {93f64b}, id: {5G3EMXXLQE95J16RDj1jw5}, rcId: {74544}}
+Ai un loc la cruce și tu {rcId: {74544}, id: {5G3EMXXLQE95J16RDj1jw5}, contentHash: {93f64b}}
 
 [sequence]
 c,v1

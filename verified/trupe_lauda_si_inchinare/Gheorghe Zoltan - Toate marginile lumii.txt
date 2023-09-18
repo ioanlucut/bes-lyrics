@@ -1,5 +1,5 @@
 [title]
-Toate marginile lumii {author: {Gheorghe Zoltan}, contentHash: {b431d5}, id: {hCgxs69SCqLUmDmfxkhK3c}, rcId: {153073}}
+Toate marginile lumii {composer: {Gheorghe Zoltan}, rcId: {153073}, id: {hCgxs69SCqLUmDmfxkhK3c}, contentHash: {b431d5}}
 
 [sequence]
 v1,c,v2,c

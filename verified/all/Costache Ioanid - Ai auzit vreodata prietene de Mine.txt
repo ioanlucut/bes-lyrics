@@ -1,5 +1,5 @@
 [title]
-Ai auzit vreodată, prietene, de Mine {author: {Costache Ioanid}, contentHash: {322993}, id: {sdxZ2W1VwHQrvP9iicHrNt}, rcId: {212194}}
+Ai auzit vreodată, prietene, de Mine {composer: {Costache Ioanid}, rcId: {212194}, id: {sdxZ2W1VwHQrvP9iicHrNt}, contentHash: {322993}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

@@ -1,5 +1,5 @@
 [title]
-O, vino iarăși ca pe vremuri {author: {Speranța}, contentHash: {c5924f}, id: {5oy3TCzDdjxDP6NNktcrDa}, rcId: {4304}}
+O, vino iarăși ca pe vremuri {composer: {Speranța}, rcId: {4304}, id: {5oy3TCzDdjxDP6NNktcrDa}, contentHash: {c5924f}}
 
 [sequence]
 v1,c,v2,c,v3,c

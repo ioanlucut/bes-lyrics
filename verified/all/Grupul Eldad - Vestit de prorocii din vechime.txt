@@ -1,5 +1,5 @@
 [title]
-Vestit de prorocii din vechime {author: {Grupul Eldad}, contentHash: {6a3e4d}, id: {cKLERKXSMWMTyiDim5yvCi}, rcId: {170192}}
+Vestit de prorocii din vechime {composer: {Grupul Eldad}, rcId: {170192}, id: {cKLERKXSMWMTyiDim5yvCi}, contentHash: {6a3e4d}}
 
 [sequence]
 v1,v2,c,v3,v4,c

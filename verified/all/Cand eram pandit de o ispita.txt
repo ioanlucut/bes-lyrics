@@ -1,5 +1,5 @@
 [title]
-Când eram pândit de o ispită {author: {__A__}, contentHash: {614b59}, id: {1xrNjyWU8E7d6Qamcv2mDs}, rcId: {4479}}
+Când eram pândit de o ispită {rcId: {4479}, id: {1xrNjyWU8E7d6Qamcv2mDs}, contentHash: {614b59}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

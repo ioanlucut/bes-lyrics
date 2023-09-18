@@ -1,5 +1,5 @@
 [title]
-Cerul e un loc minunat {author: {__A__}, contentHash: {d3e63b}, id: {7MXHCtA3NZnjVdsRBQMbrU}, rcId: {__R__}}
+Cerul e un loc minunat {id: {7MXHCtA3NZnjVdsRBQMbrU}, contentHash: {d3e63b}}
 
 [sequence]
 c

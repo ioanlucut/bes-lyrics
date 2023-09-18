@@ -1,5 +1,5 @@
 [title]
-Fii excelent {author: {__A__}, contentHash: {00698f}, id: {s2xLNmtEXDTtZXDgz5UhT1}, rcId: {__R__}}
+Fii excelent {id: {s2xLNmtEXDTtZXDgz5UhT1}, contentHash: {00698f}}
 
 [sequence]
 v1,v2,v3

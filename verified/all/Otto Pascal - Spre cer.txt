@@ -1,5 +1,5 @@
 [title]
-Spre cer {author: {Otto Pascal}, contentHash: {61f5da}, id: {htGvdrVR8JynaytoaKMJHG}, rcId: {163928}}
+Spre cer {composer: {Otto Pascal}, rcId: {163928}, id: {htGvdrVR8JynaytoaKMJHG}, contentHash: {61f5da}}
 
 [sequence]
 v1,c,v2,c

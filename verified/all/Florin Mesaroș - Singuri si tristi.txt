@@ -1,5 +1,5 @@
 [title]
-Singuri și triști {author: {Florin Mesaroș}, contentHash: {3c85d5}, id: {7aY1xJ6bEQM7vzHYUqFxD3}, rcId: {157389}}
+Singuri și triști {composer: {Florin Mesaroș}, rcId: {157389}, id: {7aY1xJ6bEQM7vzHYUqFxD3}, contentHash: {3c85d5}}
 
 [sequence]
 v1,c,v2,c

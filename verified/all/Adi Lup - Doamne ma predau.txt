@@ -1,5 +1,5 @@
 [title]
-Doamne, mă predau {author: {Adi Lup}, contentHash: {9b0cf9}, id: {7a2S6gZd5jecpWLNSbib6b}, rcId: {6734}}
+Doamne, mă predau {composer: {Adi Lup}, rcId: {6734}, id: {7a2S6gZd5jecpWLNSbib6b}, contentHash: {9b0cf9}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

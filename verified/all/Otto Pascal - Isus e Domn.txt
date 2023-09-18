@@ -1,5 +1,5 @@
 [title]
-Isus e Domn {author: {Otto Pascal}, contentHash: {648635}, id: {acuhpsz9Kk2xW87tzECMAt}, rcId: {112782}}
+Isus e Domn {composer: {Otto Pascal}, rcId: {112782}, id: {acuhpsz9Kk2xW87tzECMAt}, contentHash: {648635}}
 
 [sequence]
 v1,p,v2,c,v3,c2

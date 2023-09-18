@@ -1,5 +1,5 @@
 [title]
-Strig spre Tine, Dumnezeu {author: {__A__}, contentHash: {95797b}, id: {pBZkmcS4RZPvecgih6oHLk}, rcId: {__R__}}
+Strig spre Tine, Dumnezeu {id: {pBZkmcS4RZPvecgih6oHLk}, contentHash: {95797b}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c

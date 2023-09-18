@@ -1,5 +1,5 @@
 [title]
-În orice clipă-n viața mea {author: {Florin Pal}, contentHash: {344fbf}, id: {uYKetKJuDiaCMEfXdbe4KK}, rcId: {59727}}
+În orice clipă-n viața mea {composer: {Florin Pal}, rcId: {59727}, id: {uYKetKJuDiaCMEfXdbe4KK}, contentHash: {344fbf}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

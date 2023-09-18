@@ -1,5 +1,5 @@
 [title]
-Te du mereu mai sus, spre zările senine {author: {__A__}, contentHash: {9ddaa4}, id: {1VZfQZBBqz6Nkkzfy2Hdwi}, rcId: {3806}}
+Te du mereu mai sus, spre zările senine {rcId: {3806}, id: {1VZfQZBBqz6Nkkzfy2Hdwi}, contentHash: {9ddaa4}}
 
 [sequence]
 v1,c,v2,c,v3,c

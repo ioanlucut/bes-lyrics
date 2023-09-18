@@ -1,5 +1,5 @@
 [title]
-Bunătatea Ta {author: {Bbso Baia Mare}, contentHash: {82758a}, id: {odnhLxjCmVzBSvXCuhFo4h}, rcId: {233702}}
+Bunătatea Ta {composer: {Bbso Baia Mare}, rcId: {233702}, id: {odnhLxjCmVzBSvXCuhFo4h}, contentHash: {82758a}}
 
 [sequence]
 v1,c,v2,b,c

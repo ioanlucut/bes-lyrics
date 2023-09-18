@@ -1,5 +1,5 @@
 [title]
-Îți doresc {author: {Amalia Decean}, contentHash: {59c686}, id: {fvudc4xSBae4s4pAtGW8nH}, rcId: {__R__}}
+Îți doresc {composer: {Amalia Decean}, id: {fvudc4xSBae4s4pAtGW8nH}, contentHash: {59c686}}
 
 [sequence]
 c,v1.1,v1.2,p,c,v2.1,v2.2,p,c

@@ -1,5 +1,5 @@
 [title]
-Isus, viața noastră, noi pe Tine Te mărim {author: {__A__}, contentHash: {baf65c}, id: {wK3CLCGFsx5Nay66YVmysi}, rcId: {1466}}
+Isus, viața noastră, noi pe Tine Te mărim {rcId: {1466}, id: {wK3CLCGFsx5Nay66YVmysi}, contentHash: {baf65c}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

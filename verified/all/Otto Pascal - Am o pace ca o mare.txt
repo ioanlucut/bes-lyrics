@@ -1,5 +1,5 @@
 [title]
-Am o pace ca o mare {author: {Otto Pascal}, contentHash: {e1221b}, id: {6zEVyGvj693J4sqYUMX5XP}, rcId: {3725}}
+Am o pace ca o mare {composer: {Otto Pascal}, rcId: {3725}, id: {6zEVyGvj693J4sqYUMX5XP}, contentHash: {e1221b}}
 
 [sequence]
 v1,v2,v3,v4,v5

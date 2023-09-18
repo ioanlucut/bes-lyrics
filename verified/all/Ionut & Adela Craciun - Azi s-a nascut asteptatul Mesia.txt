@@ -1,5 +1,5 @@
 [title]
-Azi s-a născut așteptatul Mesia {author: {Ionut & Adela Craciun}, contentHash: {1098df}, id: {mDfXfyus9MAAtygHwiTdMX}, rcId: {143197}}
+Azi s-a născut așteptatul Mesia {composer: {Ionut & Adela Craciun}, rcId: {143197}, id: {mDfXfyus9MAAtygHwiTdMX}, contentHash: {1098df}}
 
 [sequence]
 v1,c,v2,c

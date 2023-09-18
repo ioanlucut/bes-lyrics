@@ -1,5 +1,5 @@
 [title]
-Ești tu gata de plecare {author: {Speranța și prietenii}, contentHash: {9f7a15}, id: {pcL8HLSiCUaB5XyjLCKZUr}, rcId: {1454}}
+Ești tu gata de plecare {composer: {Speranța și prietenii}, rcId: {1454}, id: {pcL8HLSiCUaB5XyjLCKZUr}, contentHash: {9f7a15}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

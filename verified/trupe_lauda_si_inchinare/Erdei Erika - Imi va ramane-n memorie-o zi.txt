@@ -1,5 +1,5 @@
 [title]
-Îmi va rămâne-n memorie-o zi {author: {Erdei Erika}, contentHash: {16ff6b}, id: {sjyiYGrdbM3TBCTeppNKAw}, rcId: {66227}}
+Îmi va rămâne-n memorie-o zi {composer: {Erdei Erika}, rcId: {66227}, id: {sjyiYGrdbM3TBCTeppNKAw}, contentHash: {16ff6b}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

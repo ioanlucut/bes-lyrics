@@ -1,5 +1,5 @@
 [title]
-În Numele Celui ce ne-a iubit {author: {Shalom}, contentHash: {751a19}, id: {q6NaWXd6FxX8SSkdVzRyEP}, rcId: {7013}}
+În Numele Celui ce ne-a iubit {composer: {Shalom}, rcId: {7013}, id: {q6NaWXd6FxX8SSkdVzRyEP}, contentHash: {751a19}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Decorul {author: {Cătălin și Ramona Lup}, contentHash: {7111f5}, id: {mk3TkKw7R5h2hufZDs9P5R}, rcId: {111581}}
+Decorul {composer: {Cătălin și Ramona Lup}, rcId: {111581}, id: {mk3TkKw7R5h2hufZDs9P5R}, contentHash: {7111f5}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-El este Domn și din ceruri domnește {author: {Excelsis Worship}, contentHash: {b65f25}, id: {qQLkUUhK6kZfz4aQnZpuN1}, rcId: {4913}}
+El este Domn și din ceruri domnește {composer: {Excelsis Worship}, rcId: {4913}, id: {qQLkUUhK6kZfz4aQnZpuN1}, contentHash: {b65f25}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c2

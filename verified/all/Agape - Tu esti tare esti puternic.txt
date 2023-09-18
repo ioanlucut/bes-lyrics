@@ -1,5 +1,5 @@
 [title]
-Tu ești tare, ești puternic {author: {Agape}, contentHash: {6ad6f6}, id: {fZHvfUJdXQWrFt4bCFi1VA}, rcId: {123311}}
+Tu ești tare, ești puternic {composer: {Agape}, rcId: {123311}, id: {fZHvfUJdXQWrFt4bCFi1VA}, contentHash: {6ad6f6}}
 
 [sequence]
 v1,c,v2,c,e

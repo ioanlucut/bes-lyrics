@@ -1,5 +1,5 @@
 [title]
-Îți mulțumim {author: {The Messengers}, contentHash: {93a36d}, id: {95EU8vtVr4BWhzAE7jrodh}, rcId: {98580}}
+Îți mulțumim {composer: {The Messengers}, rcId: {98580}, id: {95EU8vtVr4BWhzAE7jrodh}, contentHash: {93a36d}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c

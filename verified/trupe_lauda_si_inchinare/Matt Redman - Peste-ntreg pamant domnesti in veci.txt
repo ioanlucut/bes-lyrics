@@ -1,5 +1,5 @@
 [title]
-Peste-ntreg pământ domnești în veci {author: {Matt Redman}, contentHash: {9855fd}, id: {5W3WzrErNjHuNwCVn3RZe4}, rcId: {777}}
+Peste-ntreg pământ domnești în veci {composer: {Matt Redman}, rcId: {777}, id: {5W3WzrErNjHuNwCVn3RZe4}, contentHash: {9855fd}}
 
 [sequence]
 v1,c,v2,c

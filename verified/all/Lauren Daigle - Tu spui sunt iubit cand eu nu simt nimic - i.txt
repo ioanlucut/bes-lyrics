@@ -1,5 +1,5 @@
 [title]
-Tu spui sunt iubit, când eu nu simt nimic {author: {Lauren Daigle}, version: {i}, contentHash: {005c6c}, id: {gVhfgmk6hRKcBBfFqqCKEB}, rcId: {__R__}}
+Tu spui sunt iubit, când eu nu simt nimic {composer: {Lauren Daigle}, version: {i}, id: {gVhfgmk6hRKcBBfFqqCKEB}, contentHash: {005c6c}}
 
 [sequence]
 v1,c,v2,c,v3,c

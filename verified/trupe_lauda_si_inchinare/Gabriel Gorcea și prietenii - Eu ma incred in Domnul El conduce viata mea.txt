@@ -1,5 +1,5 @@
 [title]
-Eu mă încred în Domnul, El conduce viața mea {author: {Gabriel Gorcea și prietenii}, contentHash: {5afbaa}, id: {89kkfPeXkSBSZ5wFPNJqjn}, rcId: {99821}}
+Eu mă încred în Domnul, El conduce viața mea {composer: {Gabriel Gorcea și prietenii}, rcId: {99821}, id: {89kkfPeXkSBSZ5wFPNJqjn}, contentHash: {5afbaa}}
 
 [sequence]
 v1,c,v2,c,v3,c

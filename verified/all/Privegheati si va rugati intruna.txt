@@ -1,5 +1,5 @@
 [title]
-Privegheați și vă rugați întruna {author: {__A__}, contentHash: {35960e}, id: {oa896J84G12q4Qk3QquFTv}, rcId: {1306}}
+Privegheați și vă rugați întruna {rcId: {1306}, id: {oa896J84G12q4Qk3QquFTv}, contentHash: {35960e}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

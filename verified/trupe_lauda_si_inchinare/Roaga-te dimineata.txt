@@ -1,5 +1,5 @@
 [title]
-Roagă-te dimineața {author: {__A__}, contentHash: {5c8d9a}, id: {gDy5q6T1kutVShK49694un}, rcId: {57643}}
+Roagă-te dimineața {rcId: {57643}, id: {gDy5q6T1kutVShK49694un}, contentHash: {5c8d9a}}
 
 [sequence]
 v1,v2,v3,v4

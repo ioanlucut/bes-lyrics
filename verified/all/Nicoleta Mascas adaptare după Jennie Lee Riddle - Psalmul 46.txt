@@ -1,5 +1,5 @@
 [title]
-Psalmul 46 {author: {Nicoleta Mascas adaptare după Jennie Lee Riddle}, contentHash: {0d2ca7}, id: {wiCF5tfftf4VmX3hrsa4s4}, rcId: {181432}}
+Psalmul 46 {composer: {Nicoleta Mascas adaptare după Jennie Lee Riddle}, rcId: {181432}, id: {wiCF5tfftf4VmX3hrsa4s4}, contentHash: {0d2ca7}}
 
 [sequence]
 v1,v2,v3

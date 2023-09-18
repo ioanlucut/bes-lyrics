@@ -1,5 +1,5 @@
 [title]
-Ce-ar folosi {author: {Marius Pop & Naomi Borota}, contentHash: {fe22f6}, id: {7oTAFBFEL5LY8cjwUfVY5L}, rcId: {158396}}
+Ce-ar folosi {composer: {Marius Pop & Naomi Borota}, rcId: {158396}, id: {7oTAFBFEL5LY8cjwUfVY5L}, contentHash: {fe22f6}}
 
 [sequence]
 v1,c,v2,b,c2

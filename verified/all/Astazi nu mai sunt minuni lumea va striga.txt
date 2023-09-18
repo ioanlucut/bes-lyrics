@@ -1,5 +1,5 @@
 [title]
-„Astăzi nu mai sunt minuni!” lumea va striga {author: {__A__}, contentHash: {88c47f}, id: {bDNtLE1GKFvtXQUDmkkaYX}, rcId: {4120}}
+„Astăzi nu mai sunt minuni!” lumea va striga {rcId: {4120}, id: {bDNtLE1GKFvtXQUDmkkaYX}, contentHash: {88c47f}}
 
 [sequence]
 v1,c,v2,c

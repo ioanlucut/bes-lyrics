@@ -1,5 +1,5 @@
 [title]
-Auzi corul îngeresc {author: {F. Mendelssohn}, contentHash: {7e7add}, id: {dhkZJGiYka1LmHdHtoWR5E}, rcId: {63943}}
+Auzi corul îngeresc {composer: {F. Mendelssohn}, rcId: {63943}, id: {dhkZJGiYka1LmHdHtoWR5E}, contentHash: {7e7add}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

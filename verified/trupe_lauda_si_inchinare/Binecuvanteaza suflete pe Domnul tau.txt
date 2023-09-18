@@ -1,5 +1,5 @@
 [title]
-Binecuvântează, suflete, pe Domnul tău {author: {__A__}, contentHash: {923728}, id: {xhzSneZF83aLhTZUHzvcLL}, rcId: {__R__}}
+Binecuvântează, suflete, pe Domnul tău {id: {xhzSneZF83aLhTZUHzvcLL}, contentHash: {923728}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-El poate, El poate, Eu știu că poate {author: {Alexandru Groza}, contentHash: {941796}, id: {2jj2THv1C9YYL3DiGoSE99}, rcId: {4915}}
+El poate, El poate, Eu știu că poate {composer: {Alexandru Groza}, rcId: {4915}, id: {2jj2THv1C9YYL3DiGoSE99}, contentHash: {941796}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

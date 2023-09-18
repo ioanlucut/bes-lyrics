@@ -1,5 +1,5 @@
 [title]
-Biruitor in pustie {author: {Grupul Eldad}, contentHash: {c3abfc}, id: {hECwjFxyxAYKARJgxDaDJ7}, rcId: {187782}}
+Biruitor in pustie {composer: {Grupul Eldad}, rcId: {187782}, id: {hECwjFxyxAYKARJgxDaDJ7}, contentHash: {c3abfc}}
 
 [sequence]
 v1,v2,v3,v4,v5,c,v6,c,v7,c,e

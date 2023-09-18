@@ -1,5 +1,5 @@
 [title]
-Când nu mai poți tu, poate El {author: {Rugul aprins}, contentHash: {9ccb80}, id: {2HV5ZfeC7WxwLXR2UijAzU}, rcId: {125163}}
+Când nu mai poți tu, poate El {composer: {Rugul aprins}, rcId: {125163}, id: {2HV5ZfeC7WxwLXR2UijAzU}, contentHash: {9ccb80}}
 
 [sequence]
 v1,c,v2,c,v3,c

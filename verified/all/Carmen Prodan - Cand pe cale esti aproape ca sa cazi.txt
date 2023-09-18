@@ -1,5 +1,5 @@
 [title]
-Când pe cale ești aproape ca să cazi {author: {Carmen Prodan}, contentHash: {e48799}, id: {nLCvBMvW6RuMRoiLdbqmuk}, rcId: {168455}}
+Când pe cale ești aproape ca să cazi {composer: {Carmen Prodan}, rcId: {168455}, id: {nLCvBMvW6RuMRoiLdbqmuk}, contentHash: {e48799}}
 
 [sequence]
 v1,c,v2,v3,c2

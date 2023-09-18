@@ -1,5 +1,5 @@
 [title]
-Din Tine am venit, Iubire {author: {Nicolae Moldoveanu}, contentHash: {4e76cb}, id: {uEnnWQiGnahLGivmnD86Mb}, rcId: {3002}}
+Din Tine am venit, Iubire {composer: {Nicolae Moldoveanu}, rcId: {3002}, id: {uEnnWQiGnahLGivmnD86Mb}, contentHash: {4e76cb}}
 
 [sequence]
 v1,c,v2,c,v3,c

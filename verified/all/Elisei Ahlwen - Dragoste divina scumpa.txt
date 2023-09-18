@@ -1,5 +1,5 @@
 [title]
-Dragoste divină, scumpă {author: {Elisei Ahlwen}, contentHash: {2e0375}, id: {gTmVRdkCLDNwPnsnXu6kLF}, rcId: {1438}}
+Dragoste divină, scumpă {composer: {Elisei Ahlwen}, rcId: {1438}, id: {gTmVRdkCLDNwPnsnXu6kLF}, contentHash: {2e0375}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Trece Isus pe-aici {author: {__A__}, contentHash: {5fc43c}, id: {gx2mXwWG4dntZWxnzKxurZ}, rcId: {58795}}
+Trece Isus pe-aici {rcId: {58795}, id: {gx2mXwWG4dntZWxnzKxurZ}, contentHash: {5fc43c}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Doamne, Tu mă cercetezi {author: {Cor copii Dynamis}, contentHash: {fb546a}, id: {rZnKhpdEqwNPMLBzy52v78}, rcId: {__R__}}
+Doamne, Tu mă cercetezi {composer: {Cor copii Dynamis}, id: {rZnKhpdEqwNPMLBzy52v78}, contentHash: {fb546a}}
 
 [sequence]
 v1.1,v1.2,c,v2,v3,c2

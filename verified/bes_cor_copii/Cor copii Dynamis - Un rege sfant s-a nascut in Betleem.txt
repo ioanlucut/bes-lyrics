@@ -1,5 +1,5 @@
 [title]
-Un rege sfânt s-a născut în Betleem {author: {Cor copii Dynamis}, contentHash: {27ccf4}, id: {1PB8LpijefmN49HJaRoqKn}, rcId: {__R__}}
+Un rege sfânt s-a născut în Betleem {composer: {Cor copii Dynamis}, id: {1PB8LpijefmN49HJaRoqKn}, contentHash: {27ccf4}}
 
 [sequence]
 v1,c,v2,c,c2,b,c

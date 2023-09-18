@@ -1,5 +1,5 @@
 [title]
-Regele tău și-al meu {author: {Emma Repede}, contentHash: {56ef6d}, id: {1rbxzUWJktx3LNdjE9omDD}, rcId: {157369}}
+Regele tău și-al meu {composer: {Emma Repede}, rcId: {157369}, id: {1rbxzUWJktx3LNdjE9omDD}, contentHash: {56ef6d}}
 
 [sequence]
 v1,c,v2,c

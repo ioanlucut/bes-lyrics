@@ -1,5 +1,5 @@
 [title]
-În fața tronului de sus {author: {Cătălin și Ramona Lup}, contentHash: {f65eb3}, id: {q53RVH4stWQfrbdT52rYz6}, rcId: {7307}}
+În fața tronului de sus {composer: {Cătălin și Ramona Lup}, rcId: {7307}, id: {q53RVH4stWQfrbdT52rYz6}, contentHash: {f65eb3}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2

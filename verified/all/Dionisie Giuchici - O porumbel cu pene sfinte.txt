@@ -1,5 +1,5 @@
 [title]
-O, porumbel cu pene sfinte {author: {Dionisie Giuchici}, contentHash: {6efb03}, id: {i7eq9c6MyWUCbssKGA7dpG}, rcId: {4541}}
+O, porumbel cu pene sfinte {composer: {Dionisie Giuchici}, rcId: {4541}, id: {i7eq9c6MyWUCbssKGA7dpG}, contentHash: {6efb03}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

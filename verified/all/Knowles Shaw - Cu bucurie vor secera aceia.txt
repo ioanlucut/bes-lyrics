@@ -1,5 +1,5 @@
 [title]
-Cu bucurie vor secera aceia {author: {Knowles Shaw}, contentHash: {4e153c}, id: {oNiMLeWNTnE7dBo8dXgqYd}, rcId: {5946}}
+Cu bucurie vor secera aceia {composer: {Knowles Shaw}, rcId: {5946}, id: {oNiMLeWNTnE7dBo8dXgqYd}, contentHash: {4e153c}}
 
 [sequence]
 v1,c,v2,c,v3,c

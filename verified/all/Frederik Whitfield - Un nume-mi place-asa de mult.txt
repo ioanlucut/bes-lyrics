@@ -1,5 +1,5 @@
 [title]
-Un nume-mi place-așa de mult {author: {Frederik Whitfield}, contentHash: {a8fb19}, id: {qt5ezFQmWcug93GkEa2nK4}, rcId: {62793}}
+Un nume-mi place-așa de mult {composer: {Frederik Whitfield}, rcId: {62793}, id: {qt5ezFQmWcug93GkEa2nK4}, contentHash: {a8fb19}}
 
 [sequence]
 v1,c,v2,c,v3,c

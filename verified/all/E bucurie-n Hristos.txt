@@ -1,5 +1,5 @@
 [title]
-E bucurie-n Hristos {author: {__A__}, contentHash: {485c22}, id: {1FeGCLWJkq9ZGEHxVc3AUc}, rcId: {__R__}}
+E bucurie-n Hristos {id: {1FeGCLWJkq9ZGEHxVc3AUc}, contentHash: {485c22}}
 
 [sequence]
 c,v1,c,v1

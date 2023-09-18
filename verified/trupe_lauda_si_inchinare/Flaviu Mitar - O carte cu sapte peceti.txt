@@ -1,5 +1,5 @@
 [title]
-O carte cu șapte peceți {author: {Flaviu Mitar}, contentHash: {b979b9}, id: {cmkVJkpHihy3vJYXeCA8F1}, rcId: {90158}}
+O carte cu șapte peceți {composer: {Flaviu Mitar}, rcId: {90158}, id: {cmkVJkpHihy3vJYXeCA8F1}, contentHash: {b979b9}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

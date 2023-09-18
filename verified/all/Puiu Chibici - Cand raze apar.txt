@@ -1,5 +1,5 @@
 [title]
-Când raze apar {author: {Puiu Chibici}, contentHash: {8529c4}, id: {whES6XJ2UX5xuzPoLATUn6}, rcId: {7120}}
+Când raze apar {composer: {Puiu Chibici}, rcId: {7120}, id: {whES6XJ2UX5xuzPoLATUn6}, contentHash: {8529c4}}
 
 [sequence]
 v1,c,v2,c,v3,c

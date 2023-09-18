@@ -1,5 +1,5 @@
 [title]
-Din țesuturi nevăzute {author: {Puiu Chibici}, contentHash: {77cdd7}, id: {f7xpmJ7iK13C2ZVHDeeVAi}, rcId: {5967}}
+Din țesuturi nevăzute {composer: {Puiu Chibici}, rcId: {5967}, id: {f7xpmJ7iK13C2ZVHDeeVAi}, contentHash: {77cdd7}}
 
 [sequence]
 v1,c,v2,c,v3,c

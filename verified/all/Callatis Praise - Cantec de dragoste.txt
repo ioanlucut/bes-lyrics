@@ -1,5 +1,5 @@
 [title]
-Cântec de dragoste {author: {Callatis Praise}, contentHash: {0e5688}, id: {bBAsRvKQfirPn9qKabKq5h}, rcId: {6789}}
+Cântec de dragoste {composer: {Callatis Praise}, rcId: {6789}, id: {bBAsRvKQfirPn9qKabKq5h}, contentHash: {0e5688}}
 
 [sequence]
 v1,c

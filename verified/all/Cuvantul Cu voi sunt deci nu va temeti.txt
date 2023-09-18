@@ -1,5 +1,5 @@
 [title]
-Cuvântul: „Cu voi sunt, deci nu vă temeți” {author: {__A__}, contentHash: {9ace33}, id: {1Ae1WQxTppjaRN4cUi5xXc}, rcId: {4589}}
+Cuvântul: „Cu voi sunt, deci nu vă temeți” {rcId: {4589}, id: {1Ae1WQxTppjaRN4cUi5xXc}, contentHash: {9ace33}}
 
 [sequence]
 v1,c,v2,c,v3,c

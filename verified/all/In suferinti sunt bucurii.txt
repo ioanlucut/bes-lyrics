@@ -1,5 +1,5 @@
 [title]
-În suferinți sunt bucurii {author: {__A__}, contentHash: {b10914}, id: {jS1q8ThqgeRQRVVix2t8qj}, rcId: {198556}}
+În suferinți sunt bucurii {rcId: {198556}, id: {jS1q8ThqgeRQRVVix2t8qj}, contentHash: {b10914}}
 
 [sequence]
 v1,c,v2,c

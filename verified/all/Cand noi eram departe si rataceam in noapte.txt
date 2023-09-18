@@ -1,5 +1,5 @@
 [title]
-Când noi eram departe și rătăceam în noapte {author: {__A__}, contentHash: {ac1137}, id: {ni1Wb6TLy7bG4X3Skfi7Jo}, rcId: {59143}}
+Când noi eram departe și rătăceam în noapte {rcId: {59143}, id: {ni1Wb6TLy7bG4X3Skfi7Jo}, contentHash: {ac1137}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2

@@ -1,5 +1,5 @@
 [title]
-Planul mântuirii din vecii făcut {author: {The Messangers}, contentHash: {1ae19c}, id: {bomwHa6KN8uugBb9BnWeZf}, rcId: {229001}}
+Planul mântuirii din vecii făcut {composer: {The Messangers}, rcId: {229001}, id: {bomwHa6KN8uugBb9BnWeZf}, contentHash: {1ae19c}}
 
 [sequence]
 v1,c,v2,c,v3,c

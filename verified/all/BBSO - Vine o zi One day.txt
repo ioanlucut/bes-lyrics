@@ -1,5 +1,5 @@
 [title]
-Vine o zi, One day {author: {BBSO}, contentHash: {3d227b}, id: {eaZViwkEQULTnHhnFW2rGR}, rcId: {206026}}
+Vine o zi, One day {composer: {BBSO}, rcId: {206026}, id: {eaZViwkEQULTnHhnFW2rGR}, contentHash: {3d227b}}
 
 [sequence]
 v1,v2,c,v3,v4,c,b,c,c2

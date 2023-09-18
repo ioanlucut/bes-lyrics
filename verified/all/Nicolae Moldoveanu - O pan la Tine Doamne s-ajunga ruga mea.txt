@@ -1,5 +1,5 @@
 [title]
-O, pân’ la Tine, Doamne, s-ajungă ruga mea {author: {Nicolae Moldoveanu}, contentHash: {3fb6e0}, id: {wgkMg48sxuxkCDQStfvJDT}, rcId: {5348}}
+O, pân’ la Tine, Doamne, s-ajungă ruga mea {composer: {Nicolae Moldoveanu}, rcId: {5348}, id: {wgkMg48sxuxkCDQStfvJDT}, contentHash: {3fb6e0}}
 
 [sequence]
 v1,v2,v3,v4

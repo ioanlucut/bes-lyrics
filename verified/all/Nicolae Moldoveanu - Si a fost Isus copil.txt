@@ -1,5 +1,5 @@
 [title]
-Și a fost Isus copil {author: {Nicolae Moldoveanu}, contentHash: {926d04}, id: {9GF928STwj6GCUSwHDRhGY}, rcId: {4553}}
+Și a fost Isus copil {composer: {Nicolae Moldoveanu}, rcId: {4553}, id: {9GF928STwj6GCUSwHDRhGY}, contentHash: {926d04}}
 
 [sequence]
 v1,v2,v3,v4,v5

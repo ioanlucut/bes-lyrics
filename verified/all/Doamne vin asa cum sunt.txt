@@ -1,5 +1,5 @@
 [title]
-Doamne, vin așa cum sunt {author: {__A__}, contentHash: {5a6b61}, id: {55K6tbqXKsVsULXLfTnTr8}, rcId: {6493}}
+Doamne, vin așa cum sunt {rcId: {6493}, id: {55K6tbqXKsVsULXLfTnTr8}, contentHash: {5a6b61}}
 
 [sequence]
 v1,c,v1,c

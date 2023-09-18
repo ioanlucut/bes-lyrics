@@ -1,5 +1,5 @@
 [title]
-Cerul {author: {Otto Pascal}, contentHash: {4d0d65}, id: {guKwTyZxM4Fkwubuz2wUDW}, rcId: {214738}}
+Cerul {composer: {Otto Pascal}, rcId: {214738}, id: {guKwTyZxM4Fkwubuz2wUDW}, contentHash: {4d0d65}}
 
 [sequence]
 v1,c,v2,b,c

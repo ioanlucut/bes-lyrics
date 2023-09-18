@@ -1,5 +1,5 @@
 [title]
-O, ce veste minunată {author: {Dumitru G. Kiriac}, contentHash: {5f1025}, id: {kn4sURoXpcxkSj7j9UAcun}, rcId: {1509}}
+O, ce veste minunată {composer: {Dumitru G. Kiriac}, rcId: {1509}, id: {kn4sURoXpcxkSj7j9UAcun}, contentHash: {5f1025}}
 
 [sequence]
 v1,v2,v3,v4

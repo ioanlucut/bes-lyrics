@@ -1,5 +1,5 @@
 [title]
-Eu voi cânta {author: {Ioan Timofte}, contentHash: {8d3128}, id: {vZqSHbH13TpcsZGdHHJMz3}, rcId: {67326}}
+Eu voi cânta {composer: {Ioan Timofte}, rcId: {67326}, id: {vZqSHbH13TpcsZGdHHJMz3}, contentHash: {8d3128}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

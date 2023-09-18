@@ -7,12 +7,7 @@ import {
   getTitleWithoutMeta,
   getUniqueId,
 } from './core.js';
-import {
-  COMMA,
-  EMPTY_STRING,
-  MISSING_AUTHOR,
-  MISSING_RC_ID,
-} from './constants.js';
+import { COMMA, EMPTY_STRING } from './constants.js';
 
 /**
  * Parses the content of a song to its basic AST structure.
@@ -25,7 +20,7 @@ export const parse = (songAsString: string) => {
   const sectionTuples = getSongInSectionTuples(songAsString);
 
   const songAST = {
-    author: EMPTY_STRING,
+    composer: EMPTY_STRING,
     contentHash: EMPTY_STRING,
     id: EMPTY_STRING,
     rcId: EMPTY_STRING,
@@ -54,11 +49,22 @@ export const parse = (songAsString: string) => {
       songAST.title = getTitleWithoutMeta(sectionContent);
 
       const metaSectionsFromTitle = getMetaSectionsFromTitle(sectionContent);
-      const { author, id, rcId, version, alternative } = metaSectionsFromTitle;
-
-      songAST.id = id || getUniqueId();
-      songAST.author = author || MISSING_AUTHOR;
-      songAST.rcId = rcId || MISSING_RC_ID;
+      const {
+        alternative,
+        arranger,
+        composer,
+        band,
+        contentHash,
+        genre,
+        id,
+        interpreter,
+        key,
+        rcId,
+        tags,
+        tempo,
+        version,
+        writer,
+      } = metaSectionsFromTitle;
 
       // Just a basic one, but should be updated after any potential changes
       songAST.contentHash = computeUniqueContentHash(
@@ -67,8 +73,21 @@ export const parse = (songAsString: string) => {
           songAST.title,
         ),
       );
-      songAST.version = version;
+
       songAST.alternative = alternative;
+      songAST.composer = composer;
+      songAST.writer = writer;
+      songAST.arranger = arranger;
+      songAST.interpreter = interpreter;
+      songAST.band = band;
+      songAST.genre = genre;
+      songAST.key = key;
+      songAST.tags = tags;
+      songAST.tempo = tempo;
+      songAST.version = version;
+
+      songAST.rcId = rcId;
+      songAST.id = id || getUniqueId();
     }
 
     if ([SongSection.SEQUENCE].includes(sectionIdentifier)) {

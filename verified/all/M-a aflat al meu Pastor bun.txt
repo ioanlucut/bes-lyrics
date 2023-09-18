@@ -1,5 +1,5 @@
 [title]
-M-a aflat al meu Păstor bun {author: {__A__}, contentHash: {b6b119}, id: {wt1oqkEUhCRJp3gqmmRV1R}, rcId: {63204}}
+M-a aflat al meu Păstor bun {rcId: {63204}, id: {wt1oqkEUhCRJp3gqmmRV1R}, contentHash: {b6b119}}
 
 [sequence]
 v1,c,v2,c,v3,c

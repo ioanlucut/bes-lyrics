@@ -1,5 +1,5 @@
 [title]
-Atât am căutat rostul vieții {author: {Gloria & William J. Gaither}, contentHash: {ab3048}, id: {oR82zJjEsZpfirjpjVBfoN}, rcId: {2121}}
+Atât am căutat rostul vieții {composer: {Gloria & William J. Gaither}, rcId: {2121}, id: {oR82zJjEsZpfirjpjVBfoN}, contentHash: {ab3048}}
 
 [sequence]
 v1,c,v2,c,v3,c

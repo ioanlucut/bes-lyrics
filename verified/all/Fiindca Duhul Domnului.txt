@@ -1,5 +1,5 @@
 [title]
-Fiindcă Duhul Domnului {author: {__A__}, contentHash: {a2d78a}, id: {aBQMwKxaP6n37cLe9NZBeo}, rcId: {__R__}}
+Fiindcă Duhul Domnului {id: {aBQMwKxaP6n37cLe9NZBeo}, contentHash: {a2d78a}}
 
 [sequence]
 v1,v2,v3

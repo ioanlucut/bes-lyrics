@@ -1,5 +1,5 @@
 [title]
-Eu cred în vindecările divine {author: {Dionisie Giuchici}, contentHash: {ddc307}, id: {9tLDpWceXW8ixLBzfMGKi9}, rcId: {6870}}
+Eu cred în vindecările divine {composer: {Dionisie Giuchici}, rcId: {6870}, id: {9tLDpWceXW8ixLBzfMGKi9}, contentHash: {ddc307}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

@@ -1,5 +1,5 @@
 [title]
-În luptă, ca David, să fii ne-nfricat {author: {Dionisie Giuchici}, contentHash: {190284}, id: {34mYYweeQv4gNw8ygq8Pm2}, rcId: {6871}}
+În luptă, ca David, să fii ne-nfricat {composer: {Dionisie Giuchici}, rcId: {6871}, id: {34mYYweeQv4gNw8ygq8Pm2}, contentHash: {190284}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

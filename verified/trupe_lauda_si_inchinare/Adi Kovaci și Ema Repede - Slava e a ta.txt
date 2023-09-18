@@ -1,5 +1,5 @@
 [title]
-Slava e a ta {author: {Adi Kovaci și Ema Repede}, contentHash: {0963c7}, id: {k7scbRYnuuQ5UvFMkKJSnN}, rcId: {201507}}
+Slava e a ta {composer: {Adi Kovaci și Ema Repede}, rcId: {201507}, id: {k7scbRYnuuQ5UvFMkKJSnN}, contentHash: {0963c7}}
 
 [sequence]
 v1,c,v2,c,v3,c

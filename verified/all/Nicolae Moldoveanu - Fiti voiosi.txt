@@ -1,5 +1,5 @@
 [title]
-Fiți voioși {author: {Nicolae Moldoveanu}, contentHash: {c7c35e}, id: {vjAPMvyCrc7XxuKBGTCPDm}, rcId: {5668}}
+Fiți voioși {composer: {Nicolae Moldoveanu}, rcId: {5668}, id: {vjAPMvyCrc7XxuKBGTCPDm}, contentHash: {c7c35e}}
 
 [sequence]
 v1,c,v2,c,v3,c

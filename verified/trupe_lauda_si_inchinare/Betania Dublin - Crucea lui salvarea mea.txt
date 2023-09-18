@@ -1,5 +1,5 @@
 [title]
-Crucea lui, salvarea mea {author: {Betania Dublin}, contentHash: {821ac5}, id: {dnPaQeNTSBof9ftTwkjsyn}, rcId: {213168}}
+Crucea lui, salvarea mea {composer: {Betania Dublin}, rcId: {213168}, id: {dnPaQeNTSBof9ftTwkjsyn}, contentHash: {821ac5}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,c2,b,c,e

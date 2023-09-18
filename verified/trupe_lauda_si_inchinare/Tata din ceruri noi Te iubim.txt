@@ -1,5 +1,5 @@
 [title]
-Tată din ceruri, noi Te iubim {author: {__A__}, contentHash: {7ae73d}, id: {ciTmPU5dU9YV7Xv67fNFSr}, rcId: {2765}}
+Tată din ceruri, noi Te iubim {rcId: {2765}, id: {ciTmPU5dU9YV7Xv67fNFSr}, contentHash: {7ae73d}}
 
 [sequence]
 v1,c,v1,c

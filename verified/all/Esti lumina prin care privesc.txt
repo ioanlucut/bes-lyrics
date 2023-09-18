@@ -1,5 +1,5 @@
 [title]
-Ești lumina prin care privesc {author: {__A__}, contentHash: {39e51e}, id: {wbU3A5LtMDw76JvhNbPoWw}, rcId: {4484}}
+Ești lumina prin care privesc {rcId: {4484}, id: {wbU3A5LtMDw76JvhNbPoWw}, contentHash: {39e51e}}
 
 [sequence]
 c,v1,c,v2

@@ -1,5 +1,5 @@
 [title]
-Depind de Tine {author: {The Messengers}, contentHash: {063056}, id: {26rcNVaNoimsTcj4U93z1Q}, rcId: {177303}}
+Depind de Tine {composer: {The Messengers}, rcId: {177303}, id: {26rcNVaNoimsTcj4U93z1Q}, contentHash: {063056}}
 
 [sequence]
 v1,c,v2,c,v3,c

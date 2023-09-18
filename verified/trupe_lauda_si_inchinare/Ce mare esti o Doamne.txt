@@ -1,5 +1,5 @@
 [title]
-Ce mare ești, o, Doamne! {author: {__A__}, contentHash: {b26f9d}, id: {hWzbnrDPgE21tNdvHWUBtX}, rcId: {106401}}
+Ce mare ești, o, Doamne! {rcId: {106401}, id: {hWzbnrDPgE21tNdvHWUBtX}, contentHash: {b26f9d}}
 
 [sequence]
 v1,c,v2,c,v3,c

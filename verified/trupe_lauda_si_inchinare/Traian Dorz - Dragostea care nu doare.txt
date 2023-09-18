@@ -1,5 +1,5 @@
 [title]
-Dragostea care nu doare {author: {Traian Dorz}, contentHash: {49337f}, id: {bv2F9WhyicamLRL4MXBTGj}, rcId: {238523}}
+Dragostea care nu doare {composer: {Traian Dorz}, rcId: {238523}, id: {bv2F9WhyicamLRL4MXBTGj}, contentHash: {49337f}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v6,e

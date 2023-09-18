@@ -1,5 +1,5 @@
 [title]
-Isus e minunat, minunat, minunat {author: {__A__}, contentHash: {ac3bba}, id: {dR1UUZ3KEbzeWZCYEgEFv8}, rcId: {__R__}}
+Isus e minunat, minunat, minunat {id: {dR1UUZ3KEbzeWZCYEgEFv8}, contentHash: {ac3bba}}
 
 [sequence]
 v1,c,v2,c,v3,c

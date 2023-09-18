@@ -1,5 +1,5 @@
 [title]
-Cu Isus, în lumea asta, voi merge eu mereu {author: {Aranjament Corneliu Radulescu}, contentHash: {8a8c22}, id: {qeQmZcaH2WLKdLHTvCkKJB}, rcId: {1748}}
+Cu Isus, în lumea asta, voi merge eu mereu {composer: {Aranjament Corneliu Radulescu}, rcId: {1748}, id: {qeQmZcaH2WLKdLHTvCkKJB}, contentHash: {8a8c22}}
 
 [sequence]
 v1,c,v2,c,v3,c

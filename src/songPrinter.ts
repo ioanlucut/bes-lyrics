@@ -101,16 +101,24 @@ const getContentAndSequenceUnSplit = (
  * @param songAST The AST of the song
  */
 export const print = ({
-  alternative,
-  author,
-  contentHash,
-  id,
-  rcId,
   sectionOrder,
   sectionsMap,
   sequence,
+  alternative,
+  arranger,
+  band,
+  composer,
+  contentHash,
+  genre,
+  id,
+  interpreter,
+  key,
+  rcId,
+  tags,
+  tempo,
   title,
   version,
+  writer,
 }: SongAST) => {
   let newSequence = filter(cloneDeep(sequence), (sequenceItem) =>
     sectionOrder.map(getCharWithoutMarkup).includes(sequenceItem),
@@ -185,39 +193,32 @@ export const print = ({
     mapperWithSequenceSideEffectCollector,
   );
 
+  const printSongMetaContentIfTruthy = (
+    songMetaKey: SongMeta,
+    songMetaContent?: string,
+  ) =>
+    songMetaContent
+      ? [songMetaKey, withMetaMarkup(songMetaContent)].join(
+          `${COLON}${EMPTY_SPACE}`,
+        )
+      : NULL;
+
   const metaSection = withMetaMarkup(
     [
-      author
-        ? [SongMeta.AUTHOR, withMetaMarkup(author)].join(
-            `${COLON}${EMPTY_SPACE}`,
-          )
-        : NULL,
-
-      alternative
-        ? [SongMeta.ALTERNATIVE, withMetaMarkup(alternative)].join(
-            `${COLON}${EMPTY_SPACE}`,
-          )
-        : NULL,
-
-      version
-        ? [SongMeta.VERSION, withMetaMarkup(version)].join(
-            `${COLON}${EMPTY_SPACE}`,
-          )
-        : NULL,
-
-      contentHash
-        ? [SongMeta.CONTENT_HASH, withMetaMarkup(contentHash)].join(
-            `${COLON}${EMPTY_SPACE}`,
-          )
-        : NULL,
-
-      id
-        ? [SongMeta.ID, withMetaMarkup(id)].join(`${COLON}${EMPTY_SPACE}`)
-        : NULL,
-
-      rcId
-        ? [SongMeta.RC_ID, withMetaMarkup(rcId)].join(`${COLON}${EMPTY_SPACE}`)
-        : NULL,
+      printSongMetaContentIfTruthy(SongMeta.ALTERNATIVE, alternative),
+      printSongMetaContentIfTruthy(SongMeta.COMPOSER, composer),
+      printSongMetaContentIfTruthy(SongMeta.WRITER, writer),
+      printSongMetaContentIfTruthy(SongMeta.ARRANGER, arranger),
+      printSongMetaContentIfTruthy(SongMeta.INTERPRETER, interpreter),
+      printSongMetaContentIfTruthy(SongMeta.BAND, band),
+      printSongMetaContentIfTruthy(SongMeta.KEY, key),
+      printSongMetaContentIfTruthy(SongMeta.TEMPO, tempo),
+      printSongMetaContentIfTruthy(SongMeta.TAGS, tags),
+      printSongMetaContentIfTruthy(SongMeta.VERSION, version),
+      printSongMetaContentIfTruthy(SongMeta.GENRE, genre),
+      printSongMetaContentIfTruthy(SongMeta.RC_ID, rcId),
+      printSongMetaContentIfTruthy(SongMeta.ID, id),
+      printSongMetaContentIfTruthy(SongMeta.CONTENT_HASH, contentHash),
     ]
       .filter(Boolean)
       .join(`${COMMA}${EMPTY_SPACE}`),

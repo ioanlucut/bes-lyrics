@@ -1,5 +1,5 @@
 [title]
-N-am să te las niciodată {author: {__A__}, contentHash: {e157e6}, id: {9DjFN13zU1dBrVCKhc6Wad}, rcId: {__R__}}
+N-am să te las niciodată {id: {9DjFN13zU1dBrVCKhc6Wad}, contentHash: {e157e6}}
 
 [sequence]
 v1,c,v2,c,v3,c

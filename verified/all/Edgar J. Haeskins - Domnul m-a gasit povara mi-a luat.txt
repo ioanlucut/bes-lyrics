@@ -1,5 +1,5 @@
 [title]
-Domnul m-a găsit, povara mi-a luat {author: {Edgar J. Haeskins}, contentHash: {21e5c0}, id: {642Qtg7Kc2S4EvTpKAbtq3}, rcId: {1434}}
+Domnul m-a găsit, povara mi-a luat {composer: {Edgar J. Haeskins}, rcId: {1434}, id: {642Qtg7Kc2S4EvTpKAbtq3}, contentHash: {21e5c0}}
 
 [sequence]
 v1,c,v2,c,v3,c

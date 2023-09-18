@@ -1,5 +1,5 @@
 [title]
-Bunătatea Ta eternă {author: {Nicolae Moldoveanu}, contentHash: {b42169}, id: {x9E55RH9hJgWeUU9oE3TQm}, rcId: {1583}}
+Bunătatea Ta eternă {composer: {Nicolae Moldoveanu}, rcId: {1583}, id: {x9E55RH9hJgWeUU9oE3TQm}, contentHash: {b42169}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

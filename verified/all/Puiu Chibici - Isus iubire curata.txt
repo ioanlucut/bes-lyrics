@@ -1,5 +1,5 @@
 [title]
-Isus, iubire curată {author: {Puiu Chibici}, contentHash: {2314c9}, id: {jmVBaNDFQiZ82CqVv7Jt8K}, rcId: {57712}}
+Isus, iubire curată {composer: {Puiu Chibici}, rcId: {57712}, id: {jmVBaNDFQiZ82CqVv7Jt8K}, contentHash: {2314c9}}
 
 [sequence]
 v1,c,v2,c,v3,c

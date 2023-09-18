@@ -1,5 +1,5 @@
 [title]
-Binecuvântarea iubirii {author: {__A__}, contentHash: {01c4ed}, id: {hKc4Ym1GvShdUtjxuXpVZ1}, rcId: {__R__}}
+Binecuvântarea iubirii {id: {hKc4Ym1GvShdUtjxuXpVZ1}, contentHash: {01c4ed}}
 
 [sequence]
 v1,v2,v3

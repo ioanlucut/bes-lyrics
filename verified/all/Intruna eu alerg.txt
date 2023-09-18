@@ -1,5 +1,5 @@
 [title]
-Întruna eu alerg {author: {__A__}, contentHash: {28351c}, id: {hQhACd4a6ab2hCRsL8JnKy}, rcId: {4951}}
+Întruna eu alerg {rcId: {4951}, id: {hQhACd4a6ab2hCRsL8JnKy}, contentHash: {28351c}}
 
 [sequence]
 v1.1,v1.2,p,c,v1.1,v1.2,p,c,p,c

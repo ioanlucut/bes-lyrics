@@ -1,5 +1,5 @@
 [title]
-Isus cel înviat e astăzi printre noi {author: {__A__}, contentHash: {fb1ec8}, id: {8Ks3D23VU5VrjKonyNXyXn}, rcId: {878}}
+Isus cel înviat e astăzi printre noi {rcId: {878}, id: {8Ks3D23VU5VrjKonyNXyXn}, contentHash: {fb1ec8}}
 
 [sequence]
 v1,c,v2,c

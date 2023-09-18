@@ -1,5 +1,5 @@
 [title]
-Doamne, îndrumă-mi pașii {author: {Otto Pascal}, contentHash: {1938f0}, id: {rW4ruC6gC1NyhebjFAbNzU}, rcId: {193757}}
+Doamne, îndrumă-mi pașii {composer: {Otto Pascal}, rcId: {193757}, id: {rW4ruC6gC1NyhebjFAbNzU}, contentHash: {1938f0}}
 
 [sequence]
 v1,b,c,v2,c

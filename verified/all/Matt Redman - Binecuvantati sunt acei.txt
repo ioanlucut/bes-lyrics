@@ -1,5 +1,5 @@
 [title]
-Binecuvântați sunt acei {author: {Matt Redman}, contentHash: {19a648}, id: {d9Az8MfzB2uPThnsMBYvWQ}, rcId: {2810}}
+Binecuvântați sunt acei {composer: {Matt Redman}, rcId: {2810}, id: {d9Az8MfzB2uPThnsMBYvWQ}, contentHash: {19a648}}
 
 [sequence]
 c,v1,c,v1,c,e

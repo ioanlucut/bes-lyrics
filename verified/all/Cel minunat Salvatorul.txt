@@ -1,5 +1,5 @@
 [title]
-Cel minunat, Salvatorul {author: {__A__}, contentHash: {1079d9}, id: {qdGSdWzJWN2oZD2ESiCWgE}, rcId: {221861}}
+Cel minunat, Salvatorul {rcId: {221861}, id: {qdGSdWzJWN2oZD2ESiCWgE}, contentHash: {1079d9}}
 
 [sequence]
 v1,c,v2,c,v3,c

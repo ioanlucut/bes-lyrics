@@ -1,5 +1,5 @@
 [title]
-Dumnezeu, ce nume scump și minunat {author: {__A__}, contentHash: {309e46}, id: {uovUpuV7mxkCRx7po5uhqT}, rcId: {115581}}
+Dumnezeu, ce nume scump și minunat {rcId: {115581}, id: {uovUpuV7mxkCRx7po5uhqT}, contentHash: {309e46}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Mi-am pus nadejdea-n Tine {author: {Speranța}, contentHash: {59d5ec}, id: {vEt7AUteak56Z3FEsht4LK}, rcId: {6960}}
+Mi-am pus nadejdea-n Tine {composer: {Speranța}, rcId: {6960}, id: {vEt7AUteak56Z3FEsht4LK}, contentHash: {59d5ec}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

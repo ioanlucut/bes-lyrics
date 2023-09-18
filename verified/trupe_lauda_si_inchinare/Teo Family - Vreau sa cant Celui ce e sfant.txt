@@ -1,5 +1,5 @@
 [title]
-Vreau să cânt Celui ce e sfânt {author: {Teo Family}, contentHash: {f4bde1}, id: {vzQYcvx3x1cDevgXBuPTxT}, rcId: {190872}}
+Vreau să cânt Celui ce e sfânt {composer: {Teo Family}, rcId: {190872}, id: {vzQYcvx3x1cDevgXBuPTxT}, contentHash: {f4bde1}}
 
 [sequence]
 v1,c,v2,c,b,c

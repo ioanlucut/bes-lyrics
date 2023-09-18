@@ -1,5 +1,5 @@
 [title]
-Spre mine fața Ți-o întorci {author: {Messis}, contentHash: {382c40}, id: {vkqgA8ejCs8htaJsPLtpx8}, rcId: {881}}
+Spre mine fața Ți-o întorci {composer: {Messis}, rcId: {881}, id: {vkqgA8ejCs8htaJsPLtpx8}, contentHash: {382c40}}
 
 [sequence]
 v1,c,v2,c,e

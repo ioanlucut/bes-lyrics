@@ -1,5 +1,5 @@
 [title]
-Simțim încet cum harul de la neamuri se tot ia {author: {Nicolae Moldoveanu}, contentHash: {7081aa}, id: {guSzjsw3moHvwWmA83UNLa}, rcId: {5766}}
+Simțim încet cum harul de la neamuri se tot ia {composer: {Nicolae Moldoveanu}, rcId: {5766}, id: {guSzjsw3moHvwWmA83UNLa}, contentHash: {7081aa}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

@@ -1,5 +1,5 @@
 [title]
-Doamne, bunătatea Ta îmi cuprinde inima {author: {__A__}, contentHash: {004ba5}, id: {hKULC9TSNfk9apfK3gf4Qc}, rcId: {4887}}
+Doamne, bunătatea Ta îmi cuprinde inima {rcId: {4887}, id: {hKULC9TSNfk9apfK3gf4Qc}, contentHash: {004ba5}}
 
 [sequence]
 v1,c,v2,c,v3,c

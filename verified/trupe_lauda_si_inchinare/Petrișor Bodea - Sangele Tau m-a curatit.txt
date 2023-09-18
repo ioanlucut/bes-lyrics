@@ -1,5 +1,5 @@
 [title]
-Sângele Tău m-a curățit {author: {Petrișor Bodea}, contentHash: {1a2f1f}, id: {3pkhEcQzBkLjcSQ4mEvW2g}, rcId: {71166}}
+Sângele Tău m-a curățit {composer: {Petrișor Bodea}, rcId: {71166}, id: {3pkhEcQzBkLjcSQ4mEvW2g}, contentHash: {1a2f1f}}
 
 [sequence]
 v1,c,v1,c

@@ -1,5 +1,5 @@
 [title]
-De multe ori {author: {Ahava}, contentHash: {17686e}, id: {vB5NonpPzboTiy6YhVkqKC}, rcId: {115036}}
+De multe ori {composer: {Ahava}, rcId: {115036}, id: {vB5NonpPzboTiy6YhVkqKC}, contentHash: {17686e}}
 
 [sequence]
 v1,c,v2,c,b,c

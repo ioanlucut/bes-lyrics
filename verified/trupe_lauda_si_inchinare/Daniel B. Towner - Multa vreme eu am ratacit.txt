@@ -1,5 +1,5 @@
 [title]
-Multă vreme eu am rătăcit {author: {Daniel B. Towner}, contentHash: {72ffc5}, id: {cf7dDaJNxB1xmgJDux4vZZ}, rcId: {839}}
+Multă vreme eu am rătăcit {composer: {Daniel B. Towner}, rcId: {839}, id: {cf7dDaJNxB1xmgJDux4vZZ}, contentHash: {72ffc5}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

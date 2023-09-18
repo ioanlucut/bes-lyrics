@@ -1,5 +1,5 @@
 [title]
-Suntem duși și clătinați {author: {Charles A. Tindley}, contentHash: {c5644f}, id: {s9WZKuk677u3ouJ7GzJWbP}, rcId: {3905}}
+Suntem duși și clătinați {composer: {Charles A. Tindley}, rcId: {3905}, id: {s9WZKuk677u3ouJ7GzJWbP}, contentHash: {c5644f}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

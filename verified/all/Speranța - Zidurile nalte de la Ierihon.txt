@@ -1,5 +1,5 @@
 [title]
-Zidurile ’nalte de la Ierihon {author: {Speranța}, contentHash: {c6aaf5}, id: {63BVx1sB4RXkkUtGDbAwgV}, rcId: {61438}}
+Zidurile ’nalte de la Ierihon {composer: {Speranța}, rcId: {61438}, id: {63BVx1sB4RXkkUtGDbAwgV}, contentHash: {c6aaf5}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

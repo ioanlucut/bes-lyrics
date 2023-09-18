@@ -1,5 +1,5 @@
 [title]
-S-a născut pe pământ {author: {The Messengers}, contentHash: {9cabbc}, id: {3tiq8LUws6iFeTfXYw66rv}, rcId: {4403}}
+S-a născut pe pământ {composer: {The Messengers}, rcId: {4403}, id: {3tiq8LUws6iFeTfXYw66rv}, contentHash: {9cabbc}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-El s-a născut {author: {__A__}, contentHash: {f85de5}, id: {uSUs2USEWiU7gpYEUfi9ME}, rcId: {__R__}}
+El s-a născut {id: {uSUs2USEWiU7gpYEUfi9ME}, contentHash: {f85de5}}
 
 [sequence]
 v1,c,v2,c

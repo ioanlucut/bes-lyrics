@@ -1,5 +1,5 @@
 [title]
-O, ce veste minunată {author: {Cor copii Dynamis}, contentHash: {caf7fa}, id: {1DMwAD17L2hzp3dNAXPJNM}, rcId: {4956}}
+O, ce veste minunată {composer: {Cor copii Dynamis}, rcId: {4956}, id: {1DMwAD17L2hzp3dNAXPJNM}, contentHash: {caf7fa}}
 
 [sequence]
 v1,v2,v3

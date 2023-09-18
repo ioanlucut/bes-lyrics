@@ -1,5 +1,5 @@
 [title]
-Eroii slavei {author: {Otniel Stirb}, contentHash: {01f068}, id: {xwaTUHgkt6pcmSf33X4Hmi}, rcId: {6816}}
+Eroii slavei {composer: {Otniel Stirb}, rcId: {6816}, id: {xwaTUHgkt6pcmSf33X4Hmi}, contentHash: {01f068}}
 
 [sequence]
 v1,c,v2,c,v3,c

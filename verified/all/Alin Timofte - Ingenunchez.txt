@@ -1,5 +1,5 @@
 [title]
-Îngenunchez {author: {Alin Timofte}, contentHash: {274d4b}, id: {7CTrDfwa6D3toKymPCRADK}, rcId: {59811}}
+Îngenunchez {composer: {Alin Timofte}, rcId: {59811}, id: {7CTrDfwa6D3toKymPCRADK}, contentHash: {274d4b}}
 
 [sequence]
 v1,b,c,v2,b,c

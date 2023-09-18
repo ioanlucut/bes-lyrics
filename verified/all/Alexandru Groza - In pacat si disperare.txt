@@ -1,5 +1,5 @@
 [title]
-În păcat și disperare {author: {Alexandru Groza}, contentHash: {251cda}, id: {pf85GsCH6H42fs7AwE9e6w}, rcId: {2792}}
+În păcat și disperare {composer: {Alexandru Groza}, rcId: {2792}, id: {pf85GsCH6H42fs7AwE9e6w}, contentHash: {251cda}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Stropi de fericire {author: {Andreea Popoi}, contentHash: {f67a0b}, id: {bi2FkzFJ6SvhyhaVazJMLQ}, rcId: {2829}}
+Stropi de fericire {composer: {Andreea Popoi}, rcId: {2829}, id: {bi2FkzFJ6SvhyhaVazJMLQ}, contentHash: {f67a0b}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

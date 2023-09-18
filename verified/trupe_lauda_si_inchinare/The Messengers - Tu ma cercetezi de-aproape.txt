@@ -1,5 +1,5 @@
 [title]
-Tu mă cercetezi de-aproape {author: {The Messengers}, contentHash: {e0c780}, id: {sndwaMn41QbgoMpQKkpzf4}, rcId: {58041}}
+Tu mă cercetezi de-aproape {composer: {The Messengers}, rcId: {58041}, id: {sndwaMn41QbgoMpQKkpzf4}, contentHash: {e0c780}}
 
 [sequence]
 v1,c,v2,c

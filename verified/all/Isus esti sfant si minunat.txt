@@ -1,5 +1,5 @@
 [title]
-Isus ești sfânt și minunat {author: {__A__}, contentHash: {9bc67d}, id: {23fS26gdVdsUvfQtGGPQN1}, rcId: {__R__}}
+Isus ești sfânt și minunat {id: {23fS26gdVdsUvfQtGGPQN1}, contentHash: {9bc67d}}
 
 [sequence]
 v1,c,v2,c,v3,c

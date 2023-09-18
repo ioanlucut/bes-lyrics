@@ -1,5 +1,5 @@
 [title]
-Isus, al meu prieten scump {author: {Traian Dorz Nicolae Moldoveanu}, contentHash: {18e979}, id: {4PJhXj3Y36XhCWhkYB4SRJ}, rcId: {1805}}
+Isus, al meu prieten scump {composer: {Traian Dorz Nicolae Moldoveanu}, rcId: {1805}, id: {4PJhXj3Y36XhCWhkYB4SRJ}, contentHash: {18e979}}
 
 [sequence]
 v1,v2,v3,v4,v5

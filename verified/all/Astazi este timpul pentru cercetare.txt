@@ -1,5 +1,5 @@
 [title]
-Astăzi este timpul pentru cercetare {author: {__A__}, contentHash: {1a46ac}, id: {ksFUp2ZZURhgmmcLVFurLq}, rcId: {5640}}
+Astăzi este timpul pentru cercetare {rcId: {5640}, id: {ksFUp2ZZURhgmmcLVFurLq}, contentHash: {1a46ac}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

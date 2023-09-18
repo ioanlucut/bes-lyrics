@@ -1,5 +1,5 @@
 [title]
-În revărsatul zorilor, în mireasma crinilor {author: {The Messengers}, contentHash: {441638}, id: {ee3kFUVGYpGu7szSRiNN2w}, rcId: {111604}}
+În revărsatul zorilor, în mireasma crinilor {composer: {The Messengers}, rcId: {111604}, id: {ee3kFUVGYpGu7szSRiNN2w}, contentHash: {441638}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

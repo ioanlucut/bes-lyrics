@@ -1,5 +1,5 @@
 [title]
-Ne vom aduce mereu aminte {author: {Tommy Walker}, contentHash: {75bb06}, id: {pGw6wDG2zaDZkkL8PCL28Q}, rcId: {157566}}
+Ne vom aduce mereu aminte {composer: {Tommy Walker}, rcId: {157566}, id: {pGw6wDG2zaDZkkL8PCL28Q}, contentHash: {75bb06}}
 
 [sequence]
 c,v1,v2,c,v3,e,c,v4,c

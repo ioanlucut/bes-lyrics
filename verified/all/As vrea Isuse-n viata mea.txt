@@ -1,5 +1,5 @@
 [title]
-Aș vrea, Isuse-n viața mea {author: {__A__}, contentHash: {0bcf4a}, id: {vXyUq5kqATv4ATxJwn2SH3}, rcId: {__R__}}
+Aș vrea, Isuse-n viața mea {id: {vXyUq5kqATv4ATxJwn2SH3}, contentHash: {0bcf4a}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Mă iubești tu mai mult decât ceilalți {author: {Ioan Panican}, contentHash: {0a8391}, id: {wiopfcvnCanWxW99ZbwL7A}, rcId: {75312}}
+Mă iubești tu mai mult decât ceilalți {composer: {Ioan Panican}, rcId: {75312}, id: {wiopfcvnCanWxW99ZbwL7A}, contentHash: {0a8391}}
 
 [sequence]
 v1.1,v1.2,v2,v3,v4

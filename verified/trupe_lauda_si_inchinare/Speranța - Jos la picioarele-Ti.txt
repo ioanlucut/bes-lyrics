@@ -1,5 +1,5 @@
 [title]
-Jos la picioarele-Ți {author: {Speranța}, contentHash: {f2c779}, id: {gq1j3inLxfunMNQiBE2avV}, rcId: {3799}}
+Jos la picioarele-Ți {composer: {Speranța}, rcId: {3799}, id: {gq1j3inLxfunMNQiBE2avV}, contentHash: {f2c779}}
 
 [sequence]
 v1,c,v1,c

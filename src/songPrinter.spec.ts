@@ -13,7 +13,7 @@ describe('songPrinter', () => {
   it('should not adjust an already well structured song (w/o subsections)', () => {
     expect(print(parse(SIMPLE_SONG_MOCK_FILE_CONTENT))).toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {Betania Dublin}, alternative: {Când eram fără speranță}, version: {ii}, contentHash: {655954}, id: {7RURbpko41pWYEgVkHD4Pq}, rcId: {__R__}}
+My custom title {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, version: {ii}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}
 
 [sequence]
 v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3
@@ -63,10 +63,15 @@ Row for b3
     expect(parsedSong).toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
-  "author": "Betania Dublin",
+  "arranger": undefined,
+  "band": undefined,
+  "composer": "Betania Dublin",
   "contentHash": "085aa8",
+  "genre": undefined,
   "id": "7RURbpko41pWYEgVkHD4Pq",
-  "rcId": "__R__",
+  "interpreter": undefined,
+  "key": undefined,
+  "rcId": undefined,
   "sectionOrder": [
     "[v1.1]",
     "[v1.2]",
@@ -95,7 +100,7 @@ Cu puteri prin Duhul Sfânt! :/",
       "sectionIdentifier": "[sequence]",
     },
     "[title]": {
-      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
       "sectionIdentifier": "[title]",
     },
     "[v1.1]": {
@@ -137,14 +142,17 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
     "c1.1",
     "c1.2",
   ],
+  "tags": undefined,
+  "tempo": undefined,
   "title": "My custom title",
   "version": "ii",
+  "writer": undefined,
 }
 `);
 
     expect(print(parsedSong)).toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {Betania Dublin}, alternative: {Când eram fără speranță}, version: {ii}, contentHash: {085aa8}, id: {7RURbpko41pWYEgVkHD4Pq}, rcId: {__R__}}
+My custom title {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, version: {ii}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {085aa8}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
@@ -205,7 +213,7 @@ createAdvancedSongMock([
 
 toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {__A__}, contentHash: {b67f9e}, id: {yyy}, rcId: {__R__}}
+My custom title: {composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {d046df}}
 
 [sequence]
 v1.1,v1.2,v2,v3
@@ -232,7 +240,7 @@ parse(SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_SPLIT_MOCK_FILE_CONTENT))).
 
 toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {Betania Dublin}, alternative: {Când eram fără speranță}, version: {ii}, contentHash: {048898}, id: {7RURbpko41pWYEgVkHD4Pq}, rcId: {__R__}}
+My custom title {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, version: {ii}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {048898}}
 
 [sequence]
 c,v1.1,v1.2,c,v2
@@ -267,7 +275,7 @@ parse(SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_UN_SPLIT_MOCK_FILE_CONTENT))).
 
 toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {Betania Dublin}, alternative: {Când eram fără speranță}, version: {ii}, contentHash: {051e3c}, id: {7RURbpko41pWYEgVkHD4Pq}, rcId: {__R__}}
+My custom title {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, version: {ii}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {051e3c}}
 
 [sequence]
 c,v1,c,v2
@@ -307,7 +315,7 @@ createAdvancedSongMock(
 
 toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {__A__}, contentHash: {354af0}, id: {yyy}, rcId: {__R__}}
+My custom title: {composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {fc7723}}
 
 [sequence]
 v1.1,v1.2,c,v2,v1.1,v1.2,c
@@ -341,7 +349,7 @@ createAdvancedSongMock([
 
 toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {__A__}, contentHash: {aaf5f6}, id: {yyy}, rcId: {__R__}}
+My custom title: {composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {734aa4}}
 
 [sequence]
 b1.1,b1.2,b2,b3
@@ -375,7 +383,7 @@ createAdvancedSongMock([
 
 toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {__A__}, contentHash: {941c99}, id: {yyy}, rcId: {__R__}}
+My custom title: {composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {2a9d64}}
 
 [sequence]
 c1.1,c1.2,c2,c3
@@ -409,7 +417,7 @@ createAdvancedSongMock([
 
 toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {__A__}, contentHash: {c32940}, id: {yyy}, rcId: {__R__}}
+My custom title: {composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {b0afbb}}
 
 [sequence]
 p1.1,p1.2,p2,p3
@@ -440,7 +448,7 @@ createAdvancedSongMock([
 
 toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {__A__}, contentHash: {1e1a6a}, id: {yyy}, rcId: {__R__}}
+My custom title: {composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {0c90cd}}
 
 [sequence]
 e1.1,e1.2
@@ -472,7 +480,7 @@ createAdvancedSongMock(
 
 toMatchInlineSnapshot(`
 "[title]
-My custom title {author: {__A__}, contentHash: {a97456}, id: {yyy}, rcId: {__R__}}
+My custom title: {composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {f1b714}}
 
 [sequence]
 v1,c,v2,c

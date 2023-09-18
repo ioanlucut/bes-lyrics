@@ -1,5 +1,5 @@
 [title]
-Să faci, o, Isuse, din inima mea {author: {Nicolae Moldoveanu}, contentHash: {866787}, id: {hL8vDmo4UXcFhWvWduzqzi}, rcId: {5322}}
+Să faci, o, Isuse, din inima mea {composer: {Nicolae Moldoveanu}, rcId: {5322}, id: {hL8vDmo4UXcFhWvWduzqzi}, contentHash: {866787}}
 
 [sequence]
 v1,v2,v3,v4

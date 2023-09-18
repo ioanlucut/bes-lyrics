@@ -1,5 +1,5 @@
 [title]
-Pribeag azi prin lumea de chin și dureri {author: {Elena Poșa}, contentHash: {7002a7}, id: {iuqLGq1bkSm1WxJWhmzF8E}, rcId: {3860}}
+Pribeag azi prin lumea de chin și dureri {composer: {Elena Poșa}, rcId: {3860}, id: {iuqLGq1bkSm1WxJWhmzF8E}, contentHash: {7002a7}}
 
 [sequence]
 v1,c,v2,c2,v3,b,v4,e

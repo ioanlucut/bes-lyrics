@@ -1,5 +1,5 @@
 [title]
-E prezent aici {author: {__A__}, contentHash: {b24c79}, id: {sHH2SduEMKPho4rZcWKrUF}, rcId: {6753}}
+E prezent aici {rcId: {6753}, id: {sHH2SduEMKPho4rZcWKrUF}, contentHash: {b24c79}}
 
 [sequence]
 v1,c,v2,c

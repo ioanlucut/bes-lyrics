@@ -1,5 +1,5 @@
 [title]
-Cântă, suflet al meu, pentru Dumnezeu {author: {Alin Timofte}, contentHash: {2c170a}, id: {abCwAsZpAWGVzGNBWEfyhB}, rcId: {164159}}
+Cântă, suflet al meu, pentru Dumnezeu {composer: {Alin Timofte}, rcId: {164159}, id: {abCwAsZpAWGVzGNBWEfyhB}, contentHash: {2c170a}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

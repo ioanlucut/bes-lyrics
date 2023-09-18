@@ -1,5 +1,5 @@
 [title]
-Fii binecuvântat, Isuse! {author: {__A__}, contentHash: {d76524}, id: {dtJVsHpPDYzjv36bm5rWTs}, rcId: {3210}}
+Fii binecuvântat, Isuse! {rcId: {3210}, id: {dtJVsHpPDYzjv36bm5rWTs}, contentHash: {d76524}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

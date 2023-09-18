@@ -1,5 +1,5 @@
 [title]
-Totul ce este în lume {author: {Nicolae Moldoveanu}, contentHash: {8fcb38}, id: {7AsrxVpiGX6PTQSUEoBLbm}, rcId: {5440}}
+Totul ce este în lume {composer: {Nicolae Moldoveanu}, rcId: {5440}, id: {7AsrxVpiGX6PTQSUEoBLbm}, contentHash: {8fcb38}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

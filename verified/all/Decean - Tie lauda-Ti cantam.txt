@@ -1,5 +1,5 @@
 [title]
-Ție laudă-Ți cântăm {author: {Decean}, contentHash: {a590db}, id: {wMdYGKqEPyTT55BdY2uEFr}, rcId: {2467}}
+Ție laudă-Ți cântăm {composer: {Decean}, rcId: {2467}, id: {wMdYGKqEPyTT55BdY2uEFr}, contentHash: {a590db}}
 
 [sequence]
 v1,c,v1,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Cântăm voioși {author: {Speranța}, contentHash: {28b704}, id: {u6VaZsgiNVPskbEiRKMFvm}, rcId: {801}}
+Cântăm voioși {composer: {Speranța}, rcId: {801}, id: {u6VaZsgiNVPskbEiRKMFvm}, contentHash: {28b704}}
 
 [sequence]
 v1,c,v2,c,v3,c

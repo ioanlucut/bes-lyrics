@@ -1,5 +1,5 @@
 [title]
-Căci este bun {author: {__A__}, contentHash: {25c3b8}, id: {dwgfPZh7DS7JiT11kLPFkV}, rcId: {__R__}}
+Căci este bun {id: {dwgfPZh7DS7JiT11kLPFkV}, contentHash: {25c3b8}}
 
 [sequence]
 v1

@@ -1,5 +1,5 @@
 [title]
-Te cunosc {author: {Adi Kovaci}, contentHash: {c23a0b}, id: {xrHkHLYZDwAi3NTdUqxCwP}, rcId: {179901}}
+Te cunosc {composer: {Adi Kovaci}, rcId: {179901}, id: {xrHkHLYZDwAi3NTdUqxCwP}, contentHash: {c23a0b}}
 
 [sequence]
 v1,p,v2,c,c2

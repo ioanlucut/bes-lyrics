@@ -1,5 +1,5 @@
 [title]
-O stea pe cer se arată {author: {__A__}, contentHash: {c209a0}, id: {rDWNen779vhgSRQqXR8LiY}, rcId: {6461}}
+O stea pe cer se arată {rcId: {6461}, id: {rDWNen779vhgSRQqXR8LiY}, contentHash: {c209a0}}
 
 [sequence]
 v1,c,v2,c

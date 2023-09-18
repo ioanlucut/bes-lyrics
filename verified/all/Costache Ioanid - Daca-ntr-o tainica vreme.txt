@@ -1,5 +1,5 @@
 [title]
-Dacă-ntr-o tainică vreme {author: {Costache Ioanid}, contentHash: {7fcc0a}, id: {8u2EuVSdmdkMHRHR8tG7iS}, rcId: {58060}}
+Dacă-ntr-o tainică vreme {composer: {Costache Ioanid}, rcId: {58060}, id: {8u2EuVSdmdkMHRHR8tG7iS}, contentHash: {7fcc0a}}
 
 [sequence]
 v1,v2,v3,v4

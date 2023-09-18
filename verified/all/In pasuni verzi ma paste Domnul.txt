@@ -1,5 +1,5 @@
 [title]
-În pășuni verzi mă paște Domnul {author: {__A__}, contentHash: {b24a3b}, id: {n9bysm1nVg1FkhCN7mnsLi}, rcId: {__R__}}
+În pășuni verzi mă paște Domnul {id: {n9bysm1nVg1FkhCN7mnsLi}, contentHash: {b24a3b}}
 
 [sequence]
 v1,c,v1,c

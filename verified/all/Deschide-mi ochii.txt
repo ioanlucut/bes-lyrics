@@ -1,5 +1,5 @@
 [title]
-Deschide-mi ochii {author: {__A__}, contentHash: {8f07ec}, id: {7hAwor1nMr7XLzqx8xirNX}, rcId: {1422}}
+Deschide-mi ochii {rcId: {1422}, id: {7hAwor1nMr7XLzqx8xirNX}, contentHash: {8f07ec}}
 
 [sequence]
 v1,e

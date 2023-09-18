@@ -1,5 +1,5 @@
 [title]
-Te vreau pe Tine, Isuse {author: {Onisim Grab}, contentHash: {c5636d}, id: {7dTRi4vhaxaEQsnJpRQNyZ}, rcId: {230975}}
+Te vreau pe Tine, Isuse {composer: {Onisim Grab}, rcId: {230975}, id: {7dTRi4vhaxaEQsnJpRQNyZ}, contentHash: {c5636d}}
 
 [sequence]
 v1,c,v2,c,v3,c

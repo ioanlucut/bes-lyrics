@@ -1,5 +1,5 @@
 [title]
-Ce bine e să dăm laudă Domnului {author: {Neiconi Nutzy}, contentHash: {48e603}, id: {jLbqSRSdPbkAwJ9L2PAfsa}, rcId: {4850}}
+Ce bine e să dăm laudă Domnului {composer: {Neiconi Nutzy}, rcId: {4850}, id: {jLbqSRSdPbkAwJ9L2PAfsa}, contentHash: {48e603}}
 
 [sequence]
 v1,c,b,c

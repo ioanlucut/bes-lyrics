@@ -1,5 +1,5 @@
 [title]
-Cât de măreț e Dumnezeu {author: {__A__}, contentHash: {57dba5}, id: {56XNH378p5mc6DD7GTNdyF}, rcId: {1401}}
+Cât de măreț e Dumnezeu {rcId: {1401}, id: {56XNH378p5mc6DD7GTNdyF}, contentHash: {57dba5}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

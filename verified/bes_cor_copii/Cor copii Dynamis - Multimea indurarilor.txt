@@ -1,5 +1,5 @@
 [title]
-Mulțimea îndurărilor {author: {Cor copii Dynamis}, contentHash: {1da101}, id: {vZU6SdH66huDsZ9kEBNg38}, rcId: {7342}}
+Mulțimea îndurărilor {composer: {Cor copii Dynamis}, rcId: {7342}, id: {vZU6SdH66huDsZ9kEBNg38}, contentHash: {1da101}}
 
 [sequence]
 v1,c,v2,c,v3,e

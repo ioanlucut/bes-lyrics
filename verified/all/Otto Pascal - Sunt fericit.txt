@@ -1,5 +1,5 @@
 [title]
-Sunt fericit {author: {Otto Pascal}, contentHash: {5bda63}, id: {cJkg7aq6hVdoDNAQYFSynT}, rcId: {112820}}
+Sunt fericit {composer: {Otto Pascal}, rcId: {112820}, id: {cJkg7aq6hVdoDNAQYFSynT}, contentHash: {5bda63}}
 
 [sequence]
 v1,c,v1,c

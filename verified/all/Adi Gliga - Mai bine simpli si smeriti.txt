@@ -1,5 +1,5 @@
 [title]
-Mai bine simpli și smeriți {author: {Adi Gliga}, contentHash: {c36179}, id: {jNEAgZyiVEX7yu2rLBU5YB}, rcId: {6920}}
+Mai bine simpli și smeriți {composer: {Adi Gliga}, rcId: {6920}, id: {jNEAgZyiVEX7yu2rLBU5YB}, contentHash: {c36179}}
 
 [sequence]
 v1,c,v2,c,v3,c

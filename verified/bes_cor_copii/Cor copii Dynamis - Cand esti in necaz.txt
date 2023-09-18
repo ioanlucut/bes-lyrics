@@ -1,5 +1,5 @@
 [title]
-Când ești în necaz {author: {Cor copii Dynamis}, contentHash: {e16f66}, id: {9veAaLF7hMfSUiDP5VC8Zi}, rcId: {88049}}
+Când ești în necaz {composer: {Cor copii Dynamis}, rcId: {88049}, id: {9veAaLF7hMfSUiDP5VC8Zi}, contentHash: {e16f66}}
 
 [sequence]
 v1,c,v2,c

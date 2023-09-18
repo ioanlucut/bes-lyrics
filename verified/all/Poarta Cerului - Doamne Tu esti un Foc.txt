@@ -1,5 +1,5 @@
 [title]
-Doamne, Tu ești un Foc {author: {Poarta Cerului}, contentHash: {b28784}, id: {4WoZzPQnSyxcXumUgViJsk}, rcId: {173185}}
+Doamne, Tu ești un Foc {composer: {Poarta Cerului}, rcId: {173185}, id: {4WoZzPQnSyxcXumUgViJsk}, contentHash: {b28784}}
 
 [sequence]
 v1,c,v2,c,b,b2,c

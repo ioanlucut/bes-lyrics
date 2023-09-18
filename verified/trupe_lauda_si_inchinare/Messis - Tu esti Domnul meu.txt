@@ -1,5 +1,5 @@
 [title]
-Tu ești Domnul meu! {author: {Messis}, contentHash: {63737c}, id: {huAJ7nzdztunm7xoCPWEzi}, rcId: {158157}}
+Tu ești Domnul meu! {composer: {Messis}, rcId: {158157}, id: {huAJ7nzdztunm7xoCPWEzi}, contentHash: {63737c}}
 
 [sequence]
 v1,c,v2,c

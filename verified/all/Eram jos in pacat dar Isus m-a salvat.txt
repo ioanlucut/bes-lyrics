@@ -1,5 +1,5 @@
 [title]
-Eram jos în păcat, dar Isus m-a salvat {author: {__A__}, contentHash: {718439}, id: {h3ux486kmnyb1JF7QTizvu}, rcId: {208476}}
+Eram jos în păcat, dar Isus m-a salvat {rcId: {208476}, id: {h3ux486kmnyb1JF7QTizvu}, contentHash: {718439}}
 
 [sequence]
 v1,c,v2,c,v3,c

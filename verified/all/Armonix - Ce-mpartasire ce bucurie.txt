@@ -1,5 +1,5 @@
 [title]
-Ce-mpărtășire, ce bucurie {author: {Armonix}, contentHash: {b60307}, id: {qpqwG1oALQL7Y9YnUdip3R}, rcId: {78234}}
+Ce-mpărtășire, ce bucurie {composer: {Armonix}, rcId: {78234}, id: {qpqwG1oALQL7Y9YnUdip3R}, contentHash: {b60307}}
 
 [sequence]
 v1,c,v2,c,v3,c

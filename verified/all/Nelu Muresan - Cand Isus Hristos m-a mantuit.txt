@@ -1,5 +1,5 @@
 [title]
-Când Isus Hristos m-a mântuit {author: {Nelu Muresan}, contentHash: {176431}, id: {g3PJ5fAKFXRTRPuCK7FDXe}, rcId: {1759}}
+Când Isus Hristos m-a mântuit {composer: {Nelu Muresan}, rcId: {1759}, id: {g3PJ5fAKFXRTRPuCK7FDXe}, contentHash: {176431}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Orice pas Isus mi-l conduce {author: {__A__}, contentHash: {e900fa}, id: {vGRCqdPzeHC55iPUssDDtB}, rcId: {59190}}
+Orice pas Isus mi-l conduce {rcId: {59190}, id: {vGRCqdPzeHC55iPUssDDtB}, contentHash: {e900fa}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

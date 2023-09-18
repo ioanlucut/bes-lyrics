@@ -1,5 +1,5 @@
 [title]
-Veniți cu cântări înaintea lui {author: {Cor copii Dynamis}, contentHash: {166634}, id: {8jwqyqYa8PHwVvD6cmM2Sj}, rcId: {__R__}}
+Veniți cu cântări înaintea lui {composer: {Cor copii Dynamis}, id: {8jwqyqYa8PHwVvD6cmM2Sj}, contentHash: {166634}}
 
 [sequence]
 v1,v2,v3,v1,v2,c

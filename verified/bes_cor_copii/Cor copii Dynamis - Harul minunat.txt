@@ -1,5 +1,5 @@
 [title]
-Harul minunat {author: {Cor copii Dynamis}, contentHash: {5dcb7e}, id: {iTibMtu7q98pam9KshCgx1}, rcId: {__R__}}
+Harul minunat {composer: {Cor copii Dynamis}, id: {iTibMtu7q98pam9KshCgx1}, contentHash: {5dcb7e}}
 
 [sequence]
 v1,v2,v3,v4,c,v5,v6,v7,v8,v9

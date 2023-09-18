@@ -1,5 +1,5 @@
 [title]
-Te caut zi de zi și-n jurul meu {author: {Marius Pop}, contentHash: {ae1fc5}, id: {iefMF36vcYYcnCfXaqm9LG}, rcId: {90962}}
+Te caut zi de zi și-n jurul meu {composer: {Marius Pop}, rcId: {90962}, id: {iefMF36vcYYcnCfXaqm9LG}, contentHash: {ae1fc5}}
 
 [sequence]
 v1,c,v2,c

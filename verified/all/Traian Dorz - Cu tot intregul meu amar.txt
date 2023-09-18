@@ -1,5 +1,5 @@
 [title]
-Cu tot întregul meu amar {author: {Traian Dorz}, contentHash: {73fabe}, id: {neeidPbqXfT48kYzHHrvBQ}, rcId: {2173}}
+Cu tot întregul meu amar {composer: {Traian Dorz}, rcId: {2173}, id: {neeidPbqXfT48kYzHHrvBQ}, contentHash: {73fabe}}
 
 [sequence]
 v1,c,v2,c,v3,c

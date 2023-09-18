@@ -1,5 +1,5 @@
 [title]
-Nu, nu suntem un vis și-o întâmplare {author: {Costache Ioanid}, contentHash: {819632}, id: {j6AnEgYiRcRJrUNAPed5oZ}, rcId: {1802}}
+Nu, nu suntem un vis și-o întâmplare {composer: {Costache Ioanid}, rcId: {1802}, id: {j6AnEgYiRcRJrUNAPed5oZ}, contentHash: {819632}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

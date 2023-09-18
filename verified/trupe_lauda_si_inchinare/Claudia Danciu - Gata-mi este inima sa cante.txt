@@ -1,5 +1,5 @@
 [title]
-Gata-mi este inima să cânte {author: {Claudia Danciu}, contentHash: {a82c1c}, id: {oPLW6Babjk29eTLBcBDATh}, rcId: {7258}}
+Gata-mi este inima să cânte {composer: {Claudia Danciu}, rcId: {7258}, id: {oPLW6Babjk29eTLBcBDATh}, contentHash: {a82c1c}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

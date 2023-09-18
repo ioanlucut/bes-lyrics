@@ -1,5 +1,5 @@
 [title]
-Mama {author: {Amalia Preda}, contentHash: {b522a7}, id: {8N5uEjA346didDBf95AV4z}, rcId: {244334}}
+Mama {composer: {Amalia Preda}, rcId: {244334}, id: {8N5uEjA346didDBf95AV4z}, contentHash: {b522a7}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

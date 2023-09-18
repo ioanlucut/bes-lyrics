@@ -13,10 +13,15 @@ describe('Song parser', () => {
       expect(parse(SIMPLE_SONG_MOCK_FILE_CONTENT)).toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
-  "author": "Betania Dublin",
+  "arranger": undefined,
+  "band": undefined,
+  "composer": "Betania Dublin",
   "contentHash": "655954",
+  "genre": undefined,
   "id": "7RURbpko41pWYEgVkHD4Pq",
-  "rcId": "__R__",
+  "interpreter": undefined,
+  "key": undefined,
+  "rcId": undefined,
   "sectionOrder": [
     "[v1]",
     "[v2]",
@@ -73,7 +78,7 @@ describe('Song parser', () => {
       "sectionIdentifier": "[sequence]",
     },
     "[title]": {
-      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
       "sectionIdentifier": "[title]",
     },
     "[v1]": {
@@ -103,8 +108,11 @@ describe('Song parser', () => {
     "b2",
     "b3",
   ],
+  "tags": undefined,
+  "tempo": undefined,
   "title": "My custom title",
   "version": "ii",
+  "writer": undefined,
 }
 `);
     });
@@ -114,10 +122,15 @@ describe('Song parser', () => {
 toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
-  "author": "Betania Dublin",
+  "arranger": undefined,
+  "band": undefined,
+  "composer": "Betania Dublin",
   "contentHash": "085aa8",
+  "genre": undefined,
   "id": "7RURbpko41pWYEgVkHD4Pq",
-  "rcId": "__R__",
+  "interpreter": undefined,
+  "key": undefined,
+  "rcId": undefined,
   "sectionOrder": [
     "[v1.1]",
     "[v1.2]",
@@ -146,7 +159,7 @@ Cu puteri prin Duhul Sfânt! :/",
       "sectionIdentifier": "[sequence]",
     },
     "[title]": {
-      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
       "sectionIdentifier": "[title]",
     },
     "[v1.1]": {
@@ -188,8 +201,11 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
     "c1.1",
     "c1.2",
   ],
+  "tags": undefined,
+  "tempo": undefined,
   "title": "My custom title",
   "version": "ii",
+  "writer": undefined,
 }
 `);
     });
@@ -201,10 +217,15 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
 toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
-  "author": "Betania Dublin",
+  "arranger": undefined,
+  "band": undefined,
+  "composer": "Betania Dublin",
   "contentHash": "529fb9",
+  "genre": undefined,
   "id": "7RURbpko41pWYEgVkHD4Pq",
-  "rcId": "__R__",
+  "interpreter": undefined,
+  "key": undefined,
+  "rcId": undefined,
   "sectionOrder": [
     "[v1]",
   ],
@@ -214,7 +235,7 @@ toMatchInlineSnapshot(`
       "sectionIdentifier": "[sequence]",
     },
     "[title]": {
-      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
       "sectionIdentifier": "[title]",
     },
     "[v1]": {
@@ -226,8 +247,11 @@ toMatchInlineSnapshot(`
     "v1",
     "c",
   ],
+  "tags": undefined,
+  "tempo": undefined,
   "title": "My custom title",
   "version": "ii",
+  "writer": undefined,
 }
 `);
     });
@@ -237,10 +261,15 @@ toMatchInlineSnapshot(`
 toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
-  "author": "Betania Dublin",
+  "arranger": undefined,
+  "band": undefined,
+  "composer": "Betania Dublin",
   "contentHash": "302cb7",
+  "genre": undefined,
   "id": "7RURbpko41pWYEgVkHD4Pq",
-  "rcId": "__R__",
+  "interpreter": undefined,
+  "key": undefined,
+  "rcId": undefined,
   "sectionOrder": [
     "[v1]",
     "[v2]",
@@ -297,7 +326,7 @@ toMatchInlineSnapshot(`
       "sectionIdentifier": "[sequence]",
     },
     "[title]": {
-      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
       "sectionIdentifier": "[title]",
     },
     "[v1]": {
@@ -316,8 +345,11 @@ toMatchInlineSnapshot(`
   "sequence": [
     "v1",
   ],
+  "tags": undefined,
+  "tempo": undefined,
   "title": "My custom title",
   "version": "ii",
+  "writer": undefined,
 }
 `);
     });
@@ -328,7 +360,7 @@ toMatchInlineSnapshot(`
       expect(parse(EMPTY_STRING)).toMatchInlineSnapshot(`
 {
   "alternative": "",
-  "author": "",
+  "composer": "",
   "contentHash": "",
   "id": "",
   "rcId": "",

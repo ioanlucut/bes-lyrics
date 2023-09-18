@@ -1,5 +1,5 @@
 [title]
-Aș vrea să mă-ntâlnesc cu Domnul {author: {__A__}, contentHash: {844691}, id: {akiQc9LcbcnSjHbddqQxZf}, rcId: {2117}}
+Aș vrea să mă-ntâlnesc cu Domnul {rcId: {2117}, id: {akiQc9LcbcnSjHbddqQxZf}, contentHash: {844691}}
 
 [sequence]
 v1,c,v2,c,v3,c

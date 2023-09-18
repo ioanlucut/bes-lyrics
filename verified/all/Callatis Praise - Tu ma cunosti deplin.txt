@@ -1,5 +1,5 @@
 [title]
-Tu mă cunoști deplin {author: {Callatis Praise}, contentHash: {16a214}, id: {3em8mEbaL7U4NhzRCgNV51}, rcId: {6926}}
+Tu mă cunoști deplin {composer: {Callatis Praise}, rcId: {6926}, id: {3em8mEbaL7U4NhzRCgNV51}, contentHash: {16a214}}
 
 [sequence]
 v1,v2

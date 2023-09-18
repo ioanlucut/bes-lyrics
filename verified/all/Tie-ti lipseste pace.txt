@@ -1,5 +1,5 @@
 [title]
-Ție-ți lipsește pace {author: {__A__}, contentHash: {7f0b7d}, id: {d5JuFci87Cf8BmQkkpXCRf}, rcId: {6453}}
+Ție-ți lipsește pace {rcId: {6453}, id: {d5JuFci87Cf8BmQkkpXCRf}, contentHash: {7f0b7d}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

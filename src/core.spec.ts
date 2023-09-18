@@ -53,8 +53,8 @@ describe('core', () => {
 
   describe('getUniqueCharsAndRelevantChars', () => {
     it('should work correctly', () => {
-      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 [
   "
 ",
@@ -120,7 +120,7 @@ toMatchInlineSnapshot(`
     it('should work correctly', () => {
       expect(
 computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`"d4c950"`);
+toMatchInlineSnapshot(`"44c93b"`);
 
       expect(computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).toEqual(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
@@ -138,25 +138,25 @@ toMatchInlineSnapshot(`"d4c950"`);
     it('should update correctly', () => {
       expect(
 computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' ')).
-toMatchInlineSnapshot(`"83c6a9"`);
+toMatchInlineSnapshot(`"543f06"`);
 
       expect(
 computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X')).
-toMatchInlineSnapshot(`"300764"`);
+toMatchInlineSnapshot(`"c3c407"`);
 
       expect(
 computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y')).
-toMatchInlineSnapshot(`"6277d0"`);
+toMatchInlineSnapshot(`"2a48fa"`);
     });
   });
 
   describe('getSongInSectionTuples', () => {
     it('should work correctly', () => {
-      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 [
   "[title]",
-  "My custom title {version: {ii}, alternative: {Când eram fără speranță}, author: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+  "My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
   "[sequence]",
   "v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3",
   "[v1]",
@@ -192,7 +192,7 @@ describe('getTitleWithoutMeta', () => {
   it('should work correctly', () => {
     expect(
       getTitleWithoutMeta(
-        'Any title {alternative: {Any other title}, author: {CustomAuthor}, contentHash: {customHash}, id: {customId}}',
+        'Any title {alternative: {Any other title}, composer: {CustomAuthor}, contentHash: {customHash}, id: {customId}}',
       ),
     ).toMatchInlineSnapshot(`"Any title"`);
 
@@ -205,15 +205,26 @@ describe('getTitleWithoutMeta', () => {
 describe('getMetaSectionsFromTitle', () => {
   it('should work correctly', () => {
     expect(
-      getMetaSectionsFromTitle(
-        'Any title {alternative: {Any other title}, author: {CustomAuthor}, contentHash: {customHash}, id: {customId}}',
-      ),
-    ).toMatchInlineSnapshot(`
+getMetaSectionsFromTitle(
+'Any title {alternative: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, title: {ANY_title}, version: {ANY_version}, writer: {ANY_writer}}')).
+
+toMatchInlineSnapshot(`
 {
-  "alternative": "Any other title",
-  "author": "CustomAuthor",
-  "contentHash": "customHash",
-  "id": "customId",
+  "alternative": "ANY_alternative",
+  "arranger": "ANY_arranger",
+  "band": "ANY_band",
+  "composer": "ANY_composer",
+  "contentHash": "ANY_contentHash",
+  "genre": "ANY_genre",
+  "id": "ANY_id",
+  "interpreter": "ANY_interpreter",
+  "key": "ANY_key",
+  "rcId": "ANY_rcId",
+  "tags": "ANY_tags",
+  "tempo": "ANY_tempo",
+  "title": "ANY_title",
+  "version": "ANY_version",
+  "writer": "ANY_writer",
 }
 `);
   });

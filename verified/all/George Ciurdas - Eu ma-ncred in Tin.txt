@@ -1,5 +1,5 @@
 [title]
-Eu mă-ncred în Tin’ {author: {George Ciurdas}, contentHash: {17fac7}, id: {wTZNQhY83ziHYJkGLH4QwC}, rcId: {164308}}
+Eu mă-ncred în Tin’ {composer: {George Ciurdas}, rcId: {164308}, id: {wTZNQhY83ziHYJkGLH4QwC}, contentHash: {17fac7}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,v3,c

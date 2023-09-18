@@ -46,14 +46,14 @@ const runFor = async (songsDirs: string[]) => {
   const allRcIds = allSongsInRepo.map(({ rcId }) => rcId).filter(Boolean);
 
   await pMap(rcAuthorPathsToProcess, async (pathConfig) => {
-    const [counts, author, authorPath] = pathConfig.split(':');
+    const [counts, composer, authorPath] = pathConfig.split(':');
     const dirToImportFrom = `${RC_DIR}/${authorPath}`;
     (await readFiles(dirToImportFrom)).forEach(
       ({ contentAsString, filePath, fileName }) => {
         const rcSongAST = parse(contentAsString);
         logProcessingFile(
           fileName,
-          `Import from RC from ${author}; Counts: ${counts}.`,
+          `Import from RC from ${composer}; Counts: ${counts}.`,
         );
         logFileWithLinkInConsole(filePath);
 
@@ -66,7 +66,7 @@ const runFor = async (songsDirs: string[]) => {
           return;
         }
 
-        const authorDirTarget = `${CANDIDATES_DIR}/${rcSongAST.author}`;
+        const authorDirTarget = `${CANDIDATES_DIR}/${rcSongAST.composer}`;
 
         fsExtra.ensureDirSync(authorDirTarget);
         fs.writeFileSync(`${authorDirTarget}/${fileName}`, print(rcSongAST));

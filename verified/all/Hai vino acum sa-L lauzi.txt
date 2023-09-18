@@ -1,5 +1,5 @@
 [title]
-Hai, vino acum să-L lauzi {author: {__A__}, contentHash: {ba6764}, id: {qeYnxt76VdZ479kNPEhpSg}, rcId: {4512}}
+Hai, vino acum să-L lauzi {rcId: {4512}, id: {qeYnxt76VdZ479kNPEhpSg}, contentHash: {ba6764}}
 
 [sequence]
 v1,c,v1,c

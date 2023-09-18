@@ -1,5 +1,5 @@
 [title]
-Numa Tu ești Cel ce poate ridica {author: {Otto Pascal}, contentHash: {54d962}, id: {eXFGHS6RA2K9Ac92bB1RqE}, rcId: {112784}}
+Numa Tu ești Cel ce poate ridica {composer: {Otto Pascal}, rcId: {112784}, id: {eXFGHS6RA2K9Ac92bB1RqE}, contentHash: {54d962}}
 
 [sequence]
 v1,p,c,v2,p,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Se aude clar în depărtări {author: {Florin Mesaroș}, contentHash: {4f7965}, id: {gbU6VTUBhgiyJtsTbf3yBx}, rcId: {156993}}
+Se aude clar în depărtări {composer: {Florin Mesaroș}, rcId: {156993}, id: {gbU6VTUBhgiyJtsTbf3yBx}, contentHash: {4f7965}}
 
 [sequence]
 v1,c,v2,c,v3,c2

@@ -1,5 +1,5 @@
 [title]
-Alinare și-ndurare {author: {Cor copii Dynamis}, contentHash: {1ec2a7}, id: {eA9PRhc4x2ZsuHfYUjkk8F}, rcId: {__R__}}
+Alinare și-ndurare {composer: {Cor copii Dynamis}, id: {eA9PRhc4x2ZsuHfYUjkk8F}, contentHash: {1ec2a7}}
 
 [sequence]
 v1,c,v2,c
