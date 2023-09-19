@@ -5,16 +5,16 @@ E timp de har {alternative: {*}, composer: {Tinerii din Biserica Emanuel Sibiu},
 v1,c,v2,c,b,c
 
 [v1]
-E timp de har: Ne întoarcem!
+E timp de har: ne întoarcem!
 Prea mult am rătăcit în noapte.
 Și, Doamne, Te rugăm, Tu să schimbi viața noastră,
-Ca prin vorbă și prin faptă să, să Te urmăm!
+Ca prin vorbă și prin faptă noi să Te urmăm!
 
 [c]
 /: Noi azi venim, stăm în fața Ta,
 Vrem să ne smerim, ca să poți lucra.
-Pe deplin inima Ți-o dăm,
-Doamne Te rugăm să domnești în ea. :/
+Pe deplin inima-Ți dăm,
+Doamne, Te rugăm, să domnești în ea. :/
 
 [v2]
 Știm, Doamne, fără Tine n-are cum să fie bine.
@@ -23,6 +23,6 @@ Doar Tu ești speranța noastră,
 Cel care ne arată cum aici jos să trăim.
 
 [b]
-Transformă viața mea!
-Modelează-mi inima!
-Doar Cuvântul Tău cel sfânt vreau să-L ascult.
+Transformă viața noastră!
+Modelează-ne inima!
+Doar Cuvântul Tău cel sfânt vrem să-L ascultăm.

@@ -4,24 +4,26 @@ La început era Cuvântul {alternative: {Cuvântul întrupat}, composer: {Iolu C
 [sequence]
 v1,c,v1,c,e,c
 
-[v1]
+[v1.1]
 La început era Cuvântul.
 Cuvântul era Dumnezeu.
 Prin El au luat ființă toate
-Și toate azi se țin prin El
-El e Alfa și Omega
-E Fiul lui Dumnezeu
+Și toate azi se țin prin El.
+El e Alfa și Omega,
+
+[v1.2]
+E Fiul lui Dumnezeu,
 E Cuvântul întrupat printre noi
-Plin de har și adevăr
+Plin de har și adevăr.
 
 [c]
-/: El e Domnul domnilor, Împăratul Cerului
-El-Șadai din veșnicii, El Isus
-El e mana cea din cer, El e piatra din Betel
-E Mielul lui Dumnezeu, El Isus :/
+/: El e Domnul domnilor, Împăratul cerului,
+El-Șadai din veșnicii, El Isus.
+El e mana cea din cer, El e piatra din Betel,
+E Mielul lui Dumnezeu, El Isus. :/
 
 [e]
-/: El e Domnul, Împăratul
-Din veșnicii El e Isus
-E mana, e piatra
-El este Mielul El Isus :/
+/: E Domnul, Împăratul
+Din veșnicii, El e Isus.
+E mana, e piatra,
+El este Mielul, El Isus. :/
