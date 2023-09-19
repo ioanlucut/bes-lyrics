@@ -1,5 +1,5 @@
 [title]
-Domnu-i bun orișicând {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {784}, id: {7C9vZF3xKKxhPdscahjnrs}, contentHash: {456a62}}
+Domnu-i bun orișicând {alternative: {God is Good All The Time}, composer: {Don Moen}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {784}, id: {7C9vZF3xKKxhPdscahjnrs}, contentHash: {456a62}}
 
 [sequence]
 v1,c,v2,c
@@ -20,7 +20,7 @@ Chiar și-n noaptea grea mă va lumina.
 Domnu-i bun, Domnu-i bun orișicând!
 
 [v2]
-Când trăiam cu toți în noapte,
+Când trăiam cu toții-n noapte,
 Dragostea și-a arătat.
 Tatăl bun, Cel Sfânt din ceruri,
 Pe Isus, jertfă L-a dat.

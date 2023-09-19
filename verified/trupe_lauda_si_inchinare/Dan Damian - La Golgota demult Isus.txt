@@ -1,5 +1,5 @@
 [title]
-La Golgota demult Isus {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238939}, id: {5eXAmKXNC3ufdXhnmHT6LU}, contentHash: {d4a455}}
+La Golgota demult Isus {alternative: {Biserica biruitoare}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238939}, id: {5eXAmKXNC3ufdXhnmHT6LU}, contentHash: {d4a455}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,b,c2.1,c2.2
@@ -23,13 +23,13 @@ Să ne doboare, să ne oprească,
 Cu noi e Domnul sfânt.
 
 [v2]
-A înviat, s-a înălțat,
+A înviat, S-a înălțat,
 La Cincizecimi a revărsat
 Duhul Cel Sfânt, biserica Lui botezând,
 Plini de putere cu El umblând.
 
 [v3]
-Trecut-au regi și-npărății
+Trecut-au regi și-mpărății
 Stăpâni și vremi cu oameni mii,
 Biserica triumfătoare a rămas
 Cu ea e Domnul, pas cu pas.
@@ -37,13 +37,13 @@ Cu ea e Domnul, pas cu pas.
 [c2.1]
 Isus revine, pe nori ca Mire
 Să-și ia la cer Biserica
-Sfântă curată, fără de pată,
+Sfântă, curată, fără de pată,
 El a promis!
 
 [c2.2]
 Ce întâlnire, în strălucire
 Când fața Lui o vom vedea,
-Cu adorare, în închinare
+Cu adorare, în închinare,
 Isus Te-om lăuda!
 
 [b]

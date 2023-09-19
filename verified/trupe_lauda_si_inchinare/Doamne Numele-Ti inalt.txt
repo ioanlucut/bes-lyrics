@@ -1,11 +1,11 @@
 [title]
-Doamne, Numele-Ți înalț {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {8ce79d}}
+Doamne, numele-Ți înalț {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {8ce79d}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Doamne, Numele-Ți înalț,
+Doamne, numele-Ți înalț,
 Doamne, laudă-Ți cânt Ție,
 Fericit sunt că Te am,
 Fericit de-a Ta iubire.
