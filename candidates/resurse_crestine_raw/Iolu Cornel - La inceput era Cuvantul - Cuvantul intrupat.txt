@@ -1,0 +1,27 @@
+[title]
+La început era Cuvântul {alternative: {Cuvântul întrupat}, composer: {Iolu Cornel}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {212152}, id: {6u6gGhJNfi1gd46hjrMTDc}, contentHash: {b1e8e5}}
+
+[sequence]
+v1,c,v1,c,e,c
+
+[v1]
+La început era Cuvântul.
+Cuvântul era Dumnezeu.
+Prin El au luat ființă toate
+Și toate azi se țin prin El
+El e Alfa și Omega
+E Fiul lui Dumnezeu
+E Cuvântul întrupat printre noi
+Plin de har și adevăr
+
+[c]
+/: El e Domnul domnilor, Împăratul Cerului
+El-Șadai din veșnicii, El Isus
+El e mana cea din cer, El e piatra din Betel
+E Mielul lui Dumnezeu, El Isus :/
+
+[e]
+/: El e Domnul, Împăratul
+Din veșnicii El e Isus
+E mana, e piatra
+El este Mielul El Isus :/

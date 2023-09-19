@@ -60,6 +60,8 @@
     "dictionary:update": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary",
     "reprocess:content": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsTextReprocessorRunner.ts",
     "reprocess:filename": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsFileNameReprocessorRunner.ts",
+    "import:rc:by-authors": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./temp-runners/importSongsFromRcByAuthors.ts",
+    "import:rc:by-ids": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./temp-runners/importSongsFromRcByIds.ts",
     "build:ci": "npm run lint && npm run test && npm run verify",
     "meta:ci": "npm run reprocess:filename && npm run reprocess:content && npm run verify"
   },
