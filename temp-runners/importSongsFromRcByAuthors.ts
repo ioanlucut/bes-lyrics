@@ -25,7 +25,7 @@ const RC_DIR = `${RC_BASE}/out/resurse_crestine`;
 const CANDIDATES_DIR = `/Users/ilucut/WORK/BES/bes-lyrics/candidates`;
 
 const rcAuthorPathsToProcess = fsExtra
-  .readFileSync(`${__dirname}/authors_to_process.txt`)
+  .readFileSync(`${__dirname}/rc_authors_to_process.txt`)
   .toString()
   .split(NEW_LINE)
   .filter(Boolean);
