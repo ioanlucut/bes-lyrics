@@ -5,31 +5,31 @@ Fii binecuvântat, Isuse! {alternative: {*}, composer: {*}, writer: {*}, arrange
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Fii binecuvântat, Isuse!
+Fii binecuvântat, Isuse,
 În veci, fii binecuvântat,
 Căci ai lucrat în viața noastră
-În chip așa de minunat.
+În chip așa de minunat!
 
 [c]
 Abia acum gustăm dulceața
 Și harul noii Tale vieți,
-Când Tu ne porți din slavă-n slavă
+Când Tu ne porți din slavă-n slava
 Atâtor mii de frumuseți.
 
 [v2]
-Am fost căzuți în fărdelege,
+Am fost căzuți în făr’delege,
 Mergeam din ce în ce mai jos.
-Tu ne-ai scăpat - și-abia acuma
+Tu ne-ai scăpat și-abia acuma
 Vedem din ce adânc ne-ai scos.
 
 [v3]
 Din văi adânci și din tristețe,
-Mereu în jurul Tău ne-aduni.
+Mereu în jurul Tău ne-aduni;
 Noi Te urmăm și-abia acuma
-Vedem pe ce-nălțimi ne sui.
+Vedem pe ce-nălțimi ne pui.
 
 [v4]
-Abia acum când fericirea-Ți
+Abia acum,când fericirea-Ți
 Ne-nalță-n cerul minunat,
-Cântăm, plângând de fericire,
+Cântăm, plângând de fericire:
 Isus, fii binecuvântat!

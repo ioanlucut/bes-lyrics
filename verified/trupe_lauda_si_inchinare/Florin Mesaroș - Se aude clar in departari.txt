@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c2
 [v1]
 Se aude clar în depărtări,
 Sunt ale cerului cântări,
-Care ne spun ca S-a născut,
+Care ne spun că S-a născut,
 Acel ce n-are început.
 
 [c]
@@ -25,7 +25,7 @@ Nu-i bucurie pe pământ.
 Un Prunc din slăvi, trimis să știi,
 El a făcut din noapte zi.
 Un cântec pentru cel salvat,
-Au pace cei ce l-au aflat!
+Au pace cei ce L-au aflat!
 
 [c2]
 Din înalt răsună: Glorie Lui!
