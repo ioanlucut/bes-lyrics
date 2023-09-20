@@ -1,5 +1,5 @@
 [title]
-L-am căutat și L-am găsit {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214233}, id: {2QAqHiij5zSxSQeWmQYBki}, contentHash: {04b138}}
+L-am căutat și L-am găsit {alternative: {Psalmul 34; Psalm 34}, composer: {Shane Barnard & Joe Rigney}, writer: {Nicoleta Mascaș}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214233}, id: {2QAqHiij5zSxSQeWmQYBki}, contentHash: {67bb70}}
 
 [sequence]
 v1,v2,c,v3,c,b,c,e
@@ -19,8 +19,8 @@ El face scut peste-ai Lui sfinți,
 
 [c]
 /: Laudă-L pe El, acum
-Să-nălțăm al Său Sfânt Nume!
-Toată Gloria este a Lui,
+Să-nălțăm al Său sfânt nume!
+Toată gloria este a Lui,
 Să-i cântăm o veșnicie. :/
 
 [v3]
