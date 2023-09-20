@@ -5,10 +5,10 @@ Vine Domnul! {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Haideți cu toți azi spre cer să privim
+Haideți cu toții azi spre cer să privim
 Căci negura vremii se lasă.
 Pământul întreg de păcate e plin,
-Ah, Doamne mi-e dor de acasă!
+Ah, Doamne îmi e dor de casă!
 
 [v1.2]
 Desfrâul și ura azi lumea-au cuprins,
@@ -19,16 +19,16 @@ Altarele sunt dărâmate.
 [c]
 Vine Domnul, vine Domnul!
 Haideți toți să veghem,
-Undelemn zi de zi să avem!
+Untdelemn zi de zi să avem!
 
 [v2.1]
 De astăzi cu toții-n veghere să stăm,
-În rugă să cerem iertare
+În rugă să cerem iertare.
 Și haine murdare să nu mai purtăm,
 Să-alegem îngusta cărare.
 
 [v2.2]
-Cu-o inimă-ntreagă să Îl așteptăm,
+Cu inima-ntreagă să Îl așteptăm,
 Pământul să nu ne mai lege.
 A noastră privire spre cer să-ndreptăm,
 Pe nori se arat-al nost’ Rege.

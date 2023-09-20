@@ -7,7 +7,7 @@ c,v1.1,v1.2,c,v2,c,v3,c
 [v1.1]
 Astăzi cânt voios că Dumnezeu
 E Stăpânul vieții mele, El e Domnul meu!
-Cine pe Pământ, cine-n ceruri sus
+Cine pe pământ, cine-n ceruri sus
 E ca Domnul meu, Isus?
 
 [v1.2]
@@ -29,7 +29,7 @@ El e mai de preț decât tot ce am,
 El e slava mea, e comoara mea în veci!
 
 [v3]
-Chiar de n-ar mai fi râuri pe Pământ,
+Chiar de n-ar mai fi râuri pe pământ,
 El e râul vieții mele, limpede și sfânt.
 Niciodată El nu va seca
 Și voi bea din El, eu voi bea din El mereu!

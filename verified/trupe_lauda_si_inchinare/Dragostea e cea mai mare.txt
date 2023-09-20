@@ -1,25 +1,25 @@
 [title]
-Dragostea e cea mai mare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3112}, id: {i8nsPcurUtpdJChUBnMyrD}, contentHash: {83887b}}
+Dragostea e cel mai mare dintre daruri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3112}, id: {i8nsPcurUtpdJChUBnMyrD}, contentHash: {83887b}}
 
 [sequence]
 v1,v2,v3,v4
 
 [v1]
-Dragostea e cea mai mare,
+Dragostea e cel mai mare,
 Dintre daruri pe pământ,
 /: Cu ea viețuiești în lume
 Și nu vei cădea nicicând. :/
 
 [v2]
 Dragostea, cine o are,
-I se pare viața-n vis,
+I se pare viața vis,
 /: Îi servește de-aripioare,
 Pentru-a merge-n Paradis. :/
 
 [v3]
 Cine zice că iubește
 Pe Domnul Isus Hristos
-/: Și pe-un frate-l urăște,
+/: Și pe-un frate îl urăște,
 El este un mincinos. :/
 
 [v4]
