@@ -2,7 +2,7 @@
 La început era Cuvântul {alternative: {Cuvântul întrupat}, composer: {Iolu Cornel}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {212152}, id: {6u6gGhJNfi1gd46hjrMTDc}, contentHash: {b1e8e5}}
 
 [sequence]
-v1,c,v1,c,e,c
+v1.1,v1.2,c,v1.1,v1.2,c,e,c
 
 [v1.1]
 La început era Cuvântul.
