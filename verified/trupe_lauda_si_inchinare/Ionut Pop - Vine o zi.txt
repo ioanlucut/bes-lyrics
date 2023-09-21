@@ -1,5 +1,5 @@
 [title]
-Vine o zi {alternative: {*}, composer: {Ionut Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190755}, id: {bhK4fpHBWicCYSUz1KX4Gg}, contentHash: {eb5e35}}
+Vine o zi {alternative: {One Day; When We All Get to Heaven}, composer: {Beth Redman, Matt Redman & Leonard Jarman}, writer: {Beth Redman, Matt Redman & Leonard Jarman; Salomeea Handaric si BBSO, trad.}, arranger: {Heather Sorenson}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190755}, id: {bhK4fpHBWicCYSUz1KX4Gg}, contentHash: {eb5e35}}
 
 [sequence]
 v1,v2,c,v3,v4,c,v5,c
@@ -36,7 +36,7 @@ O ce zi!
 
 [v5]
 Într-o zi Îl vom întâlni pe Isus,
-Copleșiți de-al Său mare har
+Copleșiți de-al Său mare har.
 Și într-o clipă vom fi schimbați!
 Da, într-o clipă vom fi schimbați!
 Într-o clipă vom fi schimbați: O, ce zi!

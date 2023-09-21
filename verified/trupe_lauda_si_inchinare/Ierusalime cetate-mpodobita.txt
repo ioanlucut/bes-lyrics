@@ -7,14 +7,14 @@ v1,c,v2,c,v3,c,v4,c
 [v1]
 Ierusalime, cetate-mpodobită
 Cu străzi de aur, argint și cristal,
-De pe pământ, al meu dor se ridică
+De pe pământ, al meu dor se ridică:
 S-ajung la tine, să scap de orice val.
 
 [c]
 /: Aș vrea s-ajung la tine,
 Să scap de-orice suspine
 Și să mă uit la frumusețea ta!
-Căci, tot ce-i pe pământ,
+Căci tot ce-i pe pământ
 Este goană după vânt,
 Și nu pot să-mi găsesc fericirea. :/
 
@@ -33,5 +33,5 @@ De-a lungul cetății curge liniștit.
 [v4]
 Aș vrea să văd pururi a ta splendoare,
 Să umblu pe-ntinsul tău minunat.
-Apoi, să rămân cu Tine pe vecie,
+Apoi, să rămân cu tine pe vecie,
 Slăvind totdeauna pe-al meu Împărat.

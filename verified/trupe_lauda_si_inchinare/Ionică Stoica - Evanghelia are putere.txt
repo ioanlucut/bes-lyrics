@@ -5,7 +5,7 @@ Evanghelia are putere {alternative: {*}, composer: {Ionică Stoica}, writer: {*}
 v1,c,v2,c,v3,c
 
 [v1]
-Cerul și pământul, ne spune Cuvântul, vor pieri,
+Cerul și Pământul, ne spune Cuvântul, vor pieri,
 Un lucru rămâne, peste timp și lume pe vecii.
 Ne-a fost dăruită, cu sânge stropită la Calvar,
 N-are-asemănare sub întregul soare sau hotar.
@@ -18,7 +18,7 @@ Evanghelia nicicând nu piere. :/
 
 [v2]
 Cine o-mplinește, fericit trăiește tot mereu
-Și-n clipe grele, îți dă mângâiere Dumnezeu.
+Și în clipe grele, îți dă mângâiere Dumnezeu.
 Ea ne este harul, ne-alungă amarul și ne dă,
 Prin credința-n Domnul, o viață-n ceruri veșnică.
 

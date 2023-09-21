@@ -1,5 +1,5 @@
 [title]
-Mări se despart {alternative: {*}, composer: {Hillsong}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7sjTsqVCWayZyPL7Ci8mCN}, contentHash: {c671e1}}
+Mări se despart {alternative: {Oceans Will Part}, composer: {Ben Fielding}, writer: {Ben Fielding}, arranger: {*}, interpreter: {Hillsong}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7sjTsqVCWayZyPL7Ci8mCN}, contentHash: {c671e1}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -18,7 +18,7 @@ Să-nțeleg ce-ai făcut. :/
 
 [c]
 Mări se despart, neamuri vin
-La chemarea Ta Isus.
+La chemarea Ta, Isus.
 Viața mea Ți-o închin,
 În Tine speranța-mi pun.
 

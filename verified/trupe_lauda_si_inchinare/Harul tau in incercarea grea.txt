@@ -1,5 +1,5 @@
 [title]
-Harul tău în încercarea grea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5635}, id: {mRyJm6D8iGLMZSKJqL71hi}, contentHash: {e532cc}}
+Harul Tău în încercarea grea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5635}, id: {mRyJm6D8iGLMZSKJqL71hi}, contentHash: {e532cc}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -18,7 +18,7 @@ O, Doamne, prin puterea Ta învingem noi
 
 [v2]
 Ajută-ne ca să purtăm cu cinste
-Numele-Ți Sfânt, așa cum ne-ai chemat
+Numele-Ți sfânt, așa cum ne-ai chemat
 Să oglindim în ale noastre fapte,
 Isuse, chipul Tău sfânt și curat.
 
