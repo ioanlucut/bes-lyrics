@@ -1,5 +1,5 @@
 [title]
-Sunt iertat, căci ai fost părăsit {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2812}, id: {bXgTCi2kctEmZDfbjj2qmM}, contentHash: {41f57e}}
+Sunt iertat, căci ai fost părăsit {alternative: {Amazing Love; You Are My King}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2812}, id: {bXgTCi2kctEmZDfbjj2qmM}, contentHash: {41f57e}}
 
 [sequence]
 v1,c,v1,c
