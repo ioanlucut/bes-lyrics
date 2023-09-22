@@ -1,23 +1,35 @@
 [title]
-Vreau să mă închin doar Ție {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2875}, id: {5nEoFHQmCcSuxDdPSgZsLD}, contentHash: {97d4a6}}
+Vreau să mă închin doar Ție {alternative: {I Will Give You All my Worship}, composer: {David Ruia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2875}, id: {5nEoFHQmCcSuxDdPSgZsLD}, contentHash: {21182d}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
-Eu Te laud (eu Te laud)
-Cu inima mea, (cu inima mea)
-Eu Te laud (eu Te laud)
-Cu sufletul meu. (cu sufletul meu)
+[v1.1]
+/: Eu Te laud, :/
+/: Cu inima mea. :/
+/: Eu Te laud, :/
+/: Cu sufletul meu. :/
 
-[v2]
-Eu Te caut, (eu Te caut)
-Te caut mereu. (Te caut mereu)
-Vreau pe Tine, (vreau pe Tine)
-Doamne, să Te urmez. (să Te urmez)
+[v1.2]
+/: Eu Te caut, :/
+/: Te caut mereu. :/
+/: Vreau pe Tine, :/
+/: Doamne, să Te urmez. :/
 
 [c]
 /: Vreau să mă închin doar Ție,
 Să Te laud, Domnul meu,
 Tot ce am Îți aparține,
 Tu ești vrednic, Domnul meu! :/
+
+[v2.1]
+/: Mă închin, :/
+/: Ești Regele meu, :/
+/: Cu iubire, :/
+/: Vreau să Te slujesc. :/
+
+[v2.2]
+/: Îmi înalț, :/
+/: Ochii spre cer, :/
+/: Eu cu Tine, :/
+/: Doamne vreau să trăiesc. :/
