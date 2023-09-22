@@ -1,5 +1,5 @@
 [title]
-Isus e rege {alternative: {*}, composer: {Lari Muntean adaptare după Sinach}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176028}, id: {uYRX5ELrooCvf582GLNAEg}, contentHash: {2bbce5}}
+Isus e rege {alternative: {The Name of Jesus}, composer: {Sinach}, writer: {Sinach; BBSO, trad.}, arranger: {Lari Muntean}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176028}, id: {uYRX5ELrooCvf582GLNAEg}, contentHash: {2bbce5}}
 
 [sequence]
 v1,c,v2,c,b,c2,c
@@ -29,10 +29,10 @@ El e Domnul vieții înălțat,
 Prin moarte ne-a răscumpărat,
 Fie lăudat!
 Orice genunchi se va pleca,
-De aceea aleșii Îi vor cânta:
+De aceea, veșnic vom cânta:
 Isus Hristos e Domn!
 
 [c2]
 /: Isus, Domn Preasfânt!
-Isus, Tu ești Sfânt!
+Isus, Tu ești sfânt!
 Isus, Isus! :/

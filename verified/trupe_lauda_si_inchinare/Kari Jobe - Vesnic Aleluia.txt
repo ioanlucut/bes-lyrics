@@ -1,5 +1,5 @@
 [title]
-Veșnic Aleluia {alternative: {*}, composer: {Kari Jobe}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {136138}, id: {m41BEgL6GjxPS1rzR1NZ46}, contentHash: {36d697}}
+Veșnic aleluia {alternative: {Forever We Sing Hallelujah}, composer: {Jenn Johnson, Joel Taylor, Christa Black Gifford, Kari Jobe, Gabriel Wilson & Brian Johnson}, writer: {Jenn Johnson, Joel Taylor, Christa Black Gifford, Kari Jobe, Gabriel Wilson & Brian Johnson; Dani Criste, trad.}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {136138}, id: {m41BEgL6GjxPS1rzR1NZ46}, contentHash: {36d697}}
 
 [sequence]
 v1.1,v1.2,p,c,p,c,b,c
@@ -28,7 +28,7 @@ Prin sângele salvării!
 În veci de veci, Isuse, ai înviat, ai înviat!
 
 [b]
-Veșnic Aleluia, veșnic Aleluia,
-Veșnic Aleluia, în veci îți vom cânta!
-Veșnic Aleluia, veșnic Aleluia,
-Veșnic Aleluia, din morți ai înviat!
+Veșnic aleluia, veșnic aleluia,
+Veșnic aleluia, în veci Îți vom cânta!
+Veșnic aleluia, veșnic aleluia,
+Veșnic aleluia, din morți ai înviat!

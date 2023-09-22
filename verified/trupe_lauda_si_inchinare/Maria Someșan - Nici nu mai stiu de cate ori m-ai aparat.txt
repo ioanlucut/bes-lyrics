@@ -1,5 +1,5 @@
 [title]
-Nici nu mai știu de câte ori m-ai apărat {alternative: {*}, composer: {Maria Someșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {55656}, id: {oq9jSDhCeaLQaF4iojjgTS}, contentHash: {7f4688}}
+Nici nu mai știu de câte ori m-ai apărat {alternative: {*}, composer: {Maria Someșan}, writer: {Maria Someșan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {55656}, id: {oq9jSDhCeaLQaF4iojjgTS}, contentHash: {7f4688}}
 
 [sequence]
 v1,v2,v3,v4,v5,e
@@ -40,6 +40,6 @@ Nici nu mai știu câte furtuni Tu ai oprit,
 Și niciun val nu mă va lua din mâna Ta! :/
 
 [e]
-Te ’nalț și Te slăvesc mereu,
+Te ‘nalț și Te slăvesc mereu,
 Când mi-e ușor și când mi-e greu,
 Mă-nchin și Te slăvesc Isuse, Domnul meu!
