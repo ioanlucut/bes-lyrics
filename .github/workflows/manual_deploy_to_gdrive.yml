@@ -1,0 +1,42 @@
+on:
+  workflow_dispatch:
+    inputs:
+      deploy-all:
+        type: boolean
+        description: Do you want to trigger a full re-deploy of all PP7 songs in GDrive? Defaults fo false.
+        default: false
+        required: true
+
+jobs:
+  ManualReDeployToGDrive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout bes-lyrics repo
+        uses: actions/checkout@v3
+        with:
+          path: bes-lyrics
+          sparse-checkout: |
+            verified
+
+      - name: Checkout bes-migrator repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_BES_PROJECTS }}
+          repository: ioanlucut/bes-propres7-migrator
+          path: bes-propres7-migrator
+
+      - name: Use Node.js 20.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20.x
+
+      - name: Run GDrive remote deployment from bes-propres7-migrator
+        working-directory: ./bes-propres7-migrator
+        run: |
+          npm i && npm run convert:remote
+        env:
+          FORCE_RELEASE_OF_ALL_SONGS: ${{ github.event.inputs.deploy-all }}
+          GDRIVE_BES_CLIENT_ID: ${{ secrets.GDRIVE_BES_CLIENT_ID }}
+          GDRIVE_BES_CLIENT_SECRET: ${{ secrets.GDRIVE_BES_CLIENT_SECRET }}
+          GDRIVE_BES_CLIENT_REFRESH_TOKEN: ${{ secrets.GDRIVE_BES_CLIENT_REFRESH_TOKEN }}
+          CI: true
