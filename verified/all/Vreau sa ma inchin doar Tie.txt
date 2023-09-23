@@ -1,5 +1,5 @@
 [title]
-Vreau să mă închin doar Ție {alternative: {I Will Give You All my Worship}, composer: {David Ruia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2875}, id: {5nEoFHQmCcSuxDdPSgZsLD}, contentHash: {21182d}}
+Vreau să mă închin doar Ție {alternative: {I Will Give You All my Worship}, composer: {David Ruia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2875}, id: {5nEoFHQmCcSuxDdPSgZsLD}, contentHash: {7943ce}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -30,6 +30,6 @@ Tu ești vrednic, Domnul meu! :/
 
 [v2.2]
 /: Îmi înalț, :/
-/: Ochii spre cer, :/
+/: Ochii înspre cer, :/
 /: Eu cu Tine, :/
 /: Doamne vreau să trăiesc. :/
