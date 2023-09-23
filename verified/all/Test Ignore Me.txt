@@ -1,5 +1,5 @@
 [title]
-Test Ignore Me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {30359b}}
+Test Ignore Me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {71e5a0}}
 
 [sequence]
 v1.1,v1.2,v2,v3
