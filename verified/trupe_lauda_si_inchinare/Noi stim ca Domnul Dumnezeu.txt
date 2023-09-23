@@ -1,5 +1,5 @@
 [title]
-Noi știm că Domnul Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {i82fwFspY5dvQZu8ebTeZv}, contentHash: {ece6d0}}
+Noi știm că Domnul Dumnezeu {alternative: {A Mighty Fortress is our God; Cetate tarei-i Dumnezeu}, composer: {Christy & Nathan Nockels}, writer: {Christy & Nathan Nockels}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {i82fwFspY5dvQZu8ebTeZv}, contentHash: {ece6d0}}
 
 [sequence]
 v1,p,c,v2,p,c,b,v3,c

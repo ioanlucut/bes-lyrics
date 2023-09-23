@@ -1,5 +1,5 @@
 [title]
-Nimic nu sunt {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6470}, id: {hREBxi9dAPUHA6sKM4LCEe}, contentHash: {aaabc6}}
+Nimic nu sunt {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Costache Ioanid}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6470}, id: {hREBxi9dAPUHA6sKM4LCEe}, contentHash: {aaabc6}}
 
 [sequence]
 v1,c,v2,c2,v3,b,c
@@ -29,7 +29,7 @@ O luminiță fumegândă
 Ce mâine fi-va o stea pe cer.
 
 [v3]
-Nimic nu sunt, doar Tu ești totul
+Nimic nu sunt, dar Tu ești totul
 Și Tu te-ai dat ca preț al meu
 Făcând din pieptul meu, chivotul
 Ce-L poartă în el pe Dumnezeu.
@@ -38,4 +38,4 @@ Ce-L poartă în el pe Dumnezeu.
 Nimic nu sunt, nimic sub soare,
 Dar Tu Te-ai dat pentru nimic.
 În veci să fii mereu mai mare,
-Iar eu în veci, mereu mai mic.
+Iar eu în veci mereu mai mic.

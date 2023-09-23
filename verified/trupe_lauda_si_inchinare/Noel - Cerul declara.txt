@@ -7,7 +7,7 @@ v1,c,v2,c
 [v1]
 Cerul declară
 Gloria Celui înviat.
-Cine se compară
+Ce se compară
 Cu frumusețea Domnului?
 
 [c]
@@ -19,5 +19,5 @@ Genunchii îmi aplec
 [v2]
 Vom proclama,
 Gloria Celui înviat,
-Ce-a fost junghiat
+Ce-a fost ‘junghiat
 Să ne împace cu Dumnezeu!

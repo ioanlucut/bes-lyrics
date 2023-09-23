@@ -5,7 +5,7 @@ Tu ești Dumnezeul puternic și sfânt {alternative: {*}, composer: {Otto Pascal
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Tu ești Dumnezeul puternic și Sfânt,
+Tu ești Dumnezeul puternic și sfânt,
 Desparți chiar și marea, cu un singur cuvânt.
 Cinci mii de persoane Tu poți să hrănești,
 Făcând o minune cu cinci pâini și doi pești.
@@ -24,7 +24,7 @@ Striga printre lacrimi „Isus m-a vindecat!”
 
 [v3]
 În barcă, pe mare, dormeai liniștit,
-Dar vântul năpraznic furtun-a întețit,
+Dar vântul năpraznic furtun-a-ntețit,
 Strigau ucenicii speriați să îi scapi,
 La un singur cuvânt vântul Te-a ascultat.
 

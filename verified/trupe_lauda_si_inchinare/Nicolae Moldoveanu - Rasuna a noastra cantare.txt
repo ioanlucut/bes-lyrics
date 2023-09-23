@@ -1,11 +1,11 @@
 [title]
-Răsună a noastră cântare {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5291}, id: {b5qd2NZ8q3FYDXR2PKwZup}, contentHash: {b04efc}}
+Răsune a noastră cântare {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5291}, id: {b5qd2NZ8q3FYDXR2PKwZup}, contentHash: {b04efc}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,v4.1,v4.2,c
 
 [v1.1]
-Răsună a noastră cântare,
+Răsune a noastră cântare,
 Un imn de adânci mulțumiri,
 Să fie și ceru-n serbare,
 Ca-n ziua de mari fericiri!
@@ -17,14 +17,14 @@ Căci slava ce-o are e mare,
 În gloria unde-a ajuns.
 
 [c]
-/: Osana lui Isus, Osana lui Isus,
+/: Osana lui Isus, osana lui Isus,
 Osana lui Isus,
 De-acum și până-n veac. :/
 
 [v2.1]
 Pe Isus Îl simți în natură
 Căci toate prin El s-au creat
-Și cine-I ca El de statură?
+Și cine-i ca El de statură?
 Nu-i nimeni ca-l meu Împărat!
 
 [v2.2]
@@ -36,7 +36,7 @@ Mulțimi de popor însetat.
 [v3.1]
 Prin câte puterea Lui se-arată?
 Prin câte dovezi Îl cunoști?
-Privește la ceruri și, iată,
+Privește spre ceruri și, iată,
 În toate pe El recunoști.
 
 [v3.2]
