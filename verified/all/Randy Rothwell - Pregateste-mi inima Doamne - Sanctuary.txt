@@ -1,10 +1,10 @@
 [title]
-Pregătește-mi inima, Doamne {alternative: {Sanctuary}, composer: {Randy Rothwell}, writer: {Randy Rothwell}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5161}, id: {dpsy4XzmX1mqdjnZ8Cvgdi}, contentHash: {748607}}
+Pregătește-mi inima, Doamne {alternative: {Sanctuary}, composer: {Randy Rothwell}, writer: {Randy Rothwell}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5161}, id: {dpsy4XzmX1mqdjnZ8Cvgdi}, contentHash: {41fe51}}
 
 [sequence]
-c
+v1
 
-[c]
+[v1]
 /: Pregătește-mi inima, Doamne,
 Să fie un templu sfânt și curat.
 Cu mulțumire trăiesc pentru Tine.
