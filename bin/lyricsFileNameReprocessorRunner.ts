@@ -1,4 +1,4 @@
-import fs from 'fs';
+import fs from 'fs-extra';
 import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
@@ -42,11 +42,11 @@ const run = async (dir: string) => {
         return;
       }
 
+      fs.unlinkSync(filePath);
       fs.writeFileSync(
         path.join(path.dirname(filePath), newFileName),
         existingContent,
       );
-      fs.unlinkSync(filePath);
 
       console.log(chalk.green(`Renamed to "${newFileName}"`));
       console.log();
