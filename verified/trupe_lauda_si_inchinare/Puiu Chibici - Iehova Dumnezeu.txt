@@ -7,7 +7,7 @@ v1.1,v1.2,c,v2.1,v2.2,c,v3,c
 [v1.1]
 Ești necuprins de timp și spațiu,
 De-orice gândire mai presus,
-Ești pretutindenea în toate
+Ești pretutindeni și în toate
 Și totuși, cât de nepătruns.
 
 [v1.2]
@@ -18,7 +18,7 @@ Cu-nțelepciunea-Ți fără margini
 
 [c]
 Din veșnicie ești același,
-Iehova e Numele Tău.
+Iehova e numele Tău.
 Splendori cerești Te înconjoară,
 Din veșnicie-n veșnicie ești mereu,
 Iehova, Dumnezeu!
@@ -37,7 +37,7 @@ Ce ne dai pâine zi de zi
 
 [v3]
 În fața măreției Tale se-nchină orice muritor,
-Ți se înalță osanale, Atotputernic Creator.
+Ți se înalță osanale, atotputernic Creator.
 În toate voia Ta să fie,
 Sfințească-se Numele Tău,
 Vie a Ta Împărăție,

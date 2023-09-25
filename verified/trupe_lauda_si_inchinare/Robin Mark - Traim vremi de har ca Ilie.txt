@@ -1,5 +1,5 @@
 [title]
-Trăim vremi de har ca Ilie {alternative: {*}, composer: {Robin Mark}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {780}, id: {rsz3mHy43hi5WY5xVf5iUA}, contentHash: {5a87aa}}
+Trăim vremi de har ca Ilie {alternative: {Days of Elijah}, composer: {Robin Mark}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {780}, id: {rsz3mHy43hi5WY5xVf5iUA}, contentHash: {5a87aa}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b1.1,b1.2,c
