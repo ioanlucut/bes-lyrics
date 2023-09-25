@@ -1,4 +1,4 @@
-import fs from 'fs';
+import fs from 'fs-extra';
 import path from 'path';
 import * as process from 'process';
 import dotenv from 'dotenv';
@@ -19,7 +19,11 @@ const run = async (dir: string) => {
   console.log(`"Reprocessing file names from ${dir} directory.."`);
 
   (await recursive(dir))
-    .filter((filePath) => path.extname(filePath) === TXT_EXTENSION)
+    .filter(
+      (filePath) =>
+        path.extname(filePath) === TXT_EXTENSION &&
+        filePath.includes('A lui Isus venire curand se apropie'),
+    )
     .forEach((filePath) => {
       const existingContent = fs.readFileSync(filePath).toString();
       const fileName = path.basename(filePath);
@@ -42,11 +46,11 @@ const run = async (dir: string) => {
         return;
       }
 
+      fs.unlinkSync(filePath);
       fs.writeFileSync(
         path.join(path.dirname(filePath), newFileName),
         existingContent,
       );
-      fs.unlinkSync(filePath);
 
       console.log(chalk.green(`Renamed to "${newFileName}"`));
       console.log();
