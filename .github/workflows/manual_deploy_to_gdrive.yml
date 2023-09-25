@@ -3,7 +3,7 @@ on:
     inputs:
       deploy-all:
         type: boolean
-        description: Do you want to trigger a full re-deploy of all PP7 songs in GDrive? Defaults fo false.
+        description: Do you want to trigger a full re-deploy of all PP7 songs in GDrive? Defaults fo "false".
         default: false
         required: true
 
