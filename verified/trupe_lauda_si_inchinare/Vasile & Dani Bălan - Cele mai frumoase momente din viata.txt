@@ -6,8 +6,8 @@ v1,c,v2,c,v3,c,v4,c
 
 [v1]
 Cele mai frumoase momente din viață
-Sunt atunci când ne întâlnim
-Și când lucrătorii din Cuvânt învață
+Sunt atunci când noi ne întâlnim
+Și când lucrătorii din Cuvânt ne-nvață
 Cum pe Domnul Isus să-L slujim.
 
 [c]
