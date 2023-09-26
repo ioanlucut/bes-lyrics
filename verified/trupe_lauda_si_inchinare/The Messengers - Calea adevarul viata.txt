@@ -6,7 +6,7 @@ c,v1,c,v2,c
 
 [v1]
 Calea, adevărul, viața
-E Isus Hristos cel Sfânt.
+E Isus Hristos cel sfânt.
 A venit trimis de Tatăl pe Pământ,
 Răstignit a fost pe cruce
 Pentru-al tău și-al meu păcat,

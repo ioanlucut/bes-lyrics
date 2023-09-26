@@ -1,5 +1,5 @@
 [title]
-La calvar {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4318}, id: {9ZwhmwjYL2E8dPqXVNY45u}, contentHash: {1302a3}}
+La Calvar {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4318}, id: {9ZwhmwjYL2E8dPqXVNY45u}, contentHash: {1302a3}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b1.1,b1.2,c
@@ -17,10 +17,10 @@ Pentru nimic nu le-aș schimba,
 Isus, ești fericirea mea!
 
 [c]
-La calvar păcatul mi-e șters,
-La calvar eu har primesc,
-La calvar mântuire am în dar,
-Îți mulțumesc, Isus, pentru calvar!
+La Calvar păcatul mi-e șters,
+La Calvar eu har primesc,
+La Calvar mântuire am în dar,
+Îți mulțumesc, Isus, pentru Calvar!
 
 [v2.1]
 Cine sunt eu să pot intra,

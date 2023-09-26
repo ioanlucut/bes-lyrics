@@ -1,5 +1,5 @@
 [title]
-Tată din ceruri, da, noi Te iubim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3htK9wgrnhE87bLMbyWKJ6}, contentHash: {d0be76}}
+Tată din ceruri, da, noi Te iubim {alternative: {Father in Heaven, How We Love You}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3htK9wgrnhE87bLMbyWKJ6}, contentHash: {d0be76}}
 
 [sequence]
 v1,c,v1,c

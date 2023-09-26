@@ -1,5 +1,5 @@
 [title]
-Duh Preasfânt {alternative: {*}, composer: {Stuart Townend & Keith Getty}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {211468}, id: {wBgRB4jt51P94iLc7pFApf}, contentHash: {666e6e}}
+Duh Preasfânt {alternative: {Holy Spirit Living Breath of God}, composer: {Stuart Townend & Keith Getty}, writer: {Stuart Townend & Keith Getty}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {211468}, id: {wBgRB4jt51P94iLc7pFApf}, contentHash: {666e6e}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
@@ -26,7 +26,7 @@ Să troneze-n al meu trai și gând.
 Bun cu cel semeț și cel supus,
 Blând să semăn pacea ca Isus.
 Pune-n loc de trudă har bogat,
-Doar Cristos să fie înălțat!
+Doar Hristos să fie înălțat!
 
 [v3.1]
 Duh Preasfânt, când lumea a-nceput,

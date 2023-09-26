@@ -6,7 +6,7 @@ v1,c,v2,c
 
 [v1]
 Tu mă cercetezi de-aproape,
-Doamne, tu mă ocrotești.
+Doamne, Tu mă ocrotești.
 De departe-mi pătrunzi gândul,
 Căile-mi cunoști.
 Unde voi putea, o, Doamne,
@@ -14,7 +14,7 @@ Să m-ascund de fața Ta,
 Când viața e-n mâna Ta?
 
 [c]
-/: Eu Te laud, Doamne pentru ce sunt,
+/: Eu Te laud, Doamne, pentru ce sunt,
 Pentru marea jertfă și iubirea Ta,
 Viața ce-am primit-o din mâna Ta
 O închin, ca laudă pentru slava Ta. :/
