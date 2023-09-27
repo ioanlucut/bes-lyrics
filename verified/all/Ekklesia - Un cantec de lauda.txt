@@ -5,7 +5,7 @@ Un cântec de laudă {alternative: {*}, composer: {Ekklesia}, writer: {*}, arran
 v1,v2,p,c1.1,c1.2,c2
 
 [v1]
-Un cântec de laudă în inima mea
+Un cântec de laudă e-n inima mea
 Un cântec ce Tu l-ai pus
 Mi-ai dat libertate,
 Ca să pot cânta din nou
