@@ -1,11 +1,11 @@
 [title]
-Un nume-mi place-așa de mult {alternative: {*}, composer: {Frederik Whitfield}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {62793}, id: {qt5ezFQmWcug93GkEa2nK4}, contentHash: {a8fb19}}
+Un Nume-mi place-așa de mult {alternative: {*}, composer: {Frederik Whitfield}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {62793}, id: {qt5ezFQmWcug93GkEa2nK4}, contentHash: {a8fb19}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Un nume-mi place-așa de mult,
+Un Nume-mi place-așa de mult,
 Îl pomenesc mereu.
 Aș vrea întruna să-L ascult,
 Chiar când drumul e greu.
@@ -23,7 +23,7 @@ Căci Isus, sus pe Golgota,
 Pentru noi S-a jertfit.
 
 [v3]
-În numele Lui azi mă-nchin
+În Numele Lui azi mă-nchin
 Și-L rog pe Tatăl sfânt,
 Să-mi dea din Duhul Său divin,
 Aici pe-acest pământ.

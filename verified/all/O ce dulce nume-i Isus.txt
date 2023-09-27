@@ -1,11 +1,11 @@
 [title]
-O, ce dulce nume-i Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225414}, id: {gbtz4mzswaeYeoiAbbA96x}, contentHash: {bab042}}
+O, ce dulce Nume-i Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225414}, id: {gbtz4mzswaeYeoiAbbA96x}, contentHash: {bab042}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-O, ce dulce nume-i Isus
+O, ce dulce Nume-i Isus
 Rănile cum vindecă,
 Pace, bucurie-aduce,
 Inimii credincioase.
@@ -15,19 +15,19 @@ Inimii credincioase.
 Când despre El se cântă. :/
 
 [v2]
-Să mergem în numele Lui,
+Să mergem în Numele Lui,
 El este bun adăpost,
 În Isus noi vom învinge
 Groaza păcatului nost’.
 
 [v3]
-Ce iubit nume e Isus,
+Ce iubit Nume e Isus,
 O, ce fericire dă!
 Poporul Său cel mântuit
 Înaintea Lui cântă.
 
 [v4]
-Sus, în numele lui Isus,
+Sus, în Numele lui Isus,
 De-a Lui mărire cântați,
 Pân-ajungem la cei sfinți, sus,
 Care-i cântă-ncoronați.

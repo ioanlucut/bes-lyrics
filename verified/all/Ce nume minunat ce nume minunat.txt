@@ -1,14 +1,14 @@
 [title]
-Ce nume minunat, ce nume minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8Y8HXgGV39WoitjCtkRKCb}, contentHash: {a743a8}}
+Ce Nume minunat, ce Nume minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8Y8HXgGV39WoitjCtkRKCb}, contentHash: {a743a8}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Ce nume minunat, ce nume minunat,
-Ce nume minunat este Isus!
+Ce Nume minunat, ce Nume minunat,
+Ce Nume minunat este Isus!
 El este Domnul meu, a toate Creator,
-Ce nume minunat este Isus!
+Ce Nume minunat este Isus!
 
 [c]
 El e Păstorul, e Stânca cea tare,

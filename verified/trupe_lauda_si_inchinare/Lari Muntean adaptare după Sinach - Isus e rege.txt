@@ -5,7 +5,7 @@ Isus e rege {alternative: {The Name of Jesus}, composer: {Sinach}, writer: {Sina
 v1,c,v2,c,b,c2,c
 
 [v1]
-Al Tău nume e-nălțat,
+Al Tău Nume e-nălțat,
 Isus, pe-ntreg pământ!
 Nume puternic și măreț,
 Plin de glorie și sfânt,
@@ -20,7 +20,7 @@ Alfa, Omega, nimeni nu este ca El! :/
 [v2]
 Nume de viață plin,
 Tu trăiești în noi!
-În al Său nume biruim,
+În al Său Nume biruim,
 Prin El victoria primim,
 Ce Nume minunat!
 

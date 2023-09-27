@@ -5,7 +5,7 @@ Glorie Celui din veșnicii {alternative: {*}, composer: {*}, writer: {*}, arrang
 v1,c,v2,c
 
 [v1]
-Lăudați numele Lui, pe Domnu-nălțați.
+Lăudați Numele Lui, pe Domnu-nălțați.
 Să-L mărim, să-L slăvim pe Domnul Isus.
 Regelui, regelui, ne-nchinăm,
 Toată slava și mărirea lui Dumnezeu!
@@ -19,7 +19,7 @@ Glorie, e sărbătoare azi,
 Îl adorăm căci este Domn, să-L lăudăm.
 
 [v2]
-Lăudați numele Lui, pe Domnul înălțați.
+Lăudați Numele Lui, pe Domnul înălțați.
 Să-L mărim, să-L slăvim pe Domnul Isus.
 Glorie Celui din veșnicii!
 Toată slava și mărirea lui Dumnezeu,

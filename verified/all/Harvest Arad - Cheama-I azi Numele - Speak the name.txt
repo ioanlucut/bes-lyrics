@@ -1,5 +1,5 @@
 [title]
-Cheamă-I azi Numele {alternative: {Speak the name}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230421}, id: {iKoxiaqYd5oAGfuqZv5G2t}, contentHash: {7e9f1a}}
+Cheamă-I azi Numele {alternative: {Speak the Name}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230421}, id: {iKoxiaqYd5oAGfuqZv5G2t}, contentHash: {7e9f1a}}
 
 [sequence]
 v1,b,c,v2,c2,e
