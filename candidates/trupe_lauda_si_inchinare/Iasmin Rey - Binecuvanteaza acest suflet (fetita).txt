@@ -1,44 +1,43 @@
 [title]
-Binecuvanteaza acest suflet (fetita) {alternative: {*}, composer: {Iasmin Rey}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221299}, id: {igHe54hyvESsHNSQoMXYqj}, contentHash: {bfd409}}
+Binecuvântează acest suflet (fetita) {alternative: {*}, composer: {Iasmin Rey}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221299}, id: {igHe54hyvESsHNSQoMXYqj}, contentHash: {bfd409}}
 
 [sequence]
 v1,v2,c,v3,c,v4,b,c
 
 [v1]
 Binecuvântează acest suflet frumos
-Să-l urmeze veșnic pe Isus Hristos
-Să rămână pe deplin sub aripa Ta
-Binecuvintează-l cu toată dragostea
+Să-l urmeze veșnic pe Isus Hristos!
+Să rămână pe deplin sub aripa Ta,
+Binecuvântează-l cu toată dragostea!
 
 [v2]
-Înaintea ta Isuse, azi noi ne rugăm
-Pentru darul Tău primit, mulțumire-Ți dăm
-Te rugăm pe numele fetiței, s-o păzești mereu
-Drumul ei să fie croit de Dumnezeu
+Înaintea Ta, Isuse, azi noi ne rugăm
+Pentru darul Tău primit, mulțumire-Ți dăm,
+Te rugăm pe numele fetiței, s-o păzești mereu,
+Drumul ei să fie croit de Dumnezeu!
 
 [c]
 EL să te binecuvânteze!
 Domnul Isus să te păzească!
-Să-și înalțe Fața peste tine!
+Să-și înalțe fața peste tine!
 Să-ți dea pacea Lui cerească!
-Îndurarea lui să crească!
-Lumina Lui să te însoțească
+Îndurarea Lui să crească!
+Lumina Lui să te însoțească!
 
 [v3]
-Ia-o-n brațul Tău de Tată de rău
-s-ocrotești
-Pașii ei în lumea aceasta să-i călăuzești
-Fă-o Tată o lumină pentru cei din jur
-Să se vadă bunătatea-Ți în-sufletul ei pur
+Ia-o-n brațul Tău de Tată, de rău s-ocrotești,
+Pașii ei în lumea-aceasta să-i călăuzești!
+Fă-o, Tată, o lumină pentru cei din jur,
+Să se vadă bunătatea-Ți în sufletul ei pur!
 
 [v4]
-Dă-i înțelepciune să aleagă calea Ta
-S-o înveți o Doamne ce înseamnă Dragostea
-O-ncredințăm Isuse, azi în brațul Tău
+Dă-i înțelepciune să aleagă calea Ta,
+S-o înveți, o, Doamne ce înseamnă dragostea!
+O-ncredințăm, Isuse, azi în brațul Tău,
 Numele fetiței să asculte de părinți, de Dumnezeu!
 
 [b]
-Tu să fii mereu cu ea
-Revarsă acum iubirea Ta
-Îti mulțumim și Te slăvim
-Căci ne-ai dat-o în dar
+Tu să fii mereu cu ea,
+Revarsă acum iubirea Ta!
+Îti mulțumim și Te slăvim,
+Căci ne-ai dat-o în dar!

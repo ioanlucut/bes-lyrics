@@ -5,29 +5,29 @@ Dumnezeu peste toate {alternative: {*}, composer: {Alin Timofte}, writer: {*}, a
 v1,c,v2,c,e,c
 
 [v1]
-Ești vrednic
-Puternic, al lumii Creator
-Statornic
-Din veci de veci Tu domnești pe tron
+Ești vrednic,
+Puternic, al lumii Creator,
+Statornic.
+Din veci de veci Tu domnești pe tron,
 De-aceea Îți cânt
-Cu-ntregul pământ
-Natura declară măreția Ta
+Cu-ntregul pământ.
+Natura declară măreția Ta,
 
 [c]
-Tu ești Dumnezeu peste toate
-Atotputernic Rege, ești inălțat
+Tu ești Dumnezeu peste toate,
+Atotputernic Rege, ești inălțat.
 Nimic de Tine nu ne desparte
-Prin Fiul Tău pe veci ne-ai răscumpărat
-Fii Lăudat! Glorificat!
+Prin Fiul Tău pe veci ne-ai răscumpărat,
+Fii lăudat! Glorificat!
 
 [v2]
 Nu merit
-Iertarea ce am primit-o-n dar
+Iertarea ce am primit-o-n dar,
 Iar pacea
 Ce mă inundă prin al Tău har
 Ma-ndeamnă sa-Ți cânt
 Cu-ntregul pământ
-Să stie oricine de iubirea Ta
+Să stie oricine de iubirea Ta.
 
 [e]
 /: Chiar de ar cădea
