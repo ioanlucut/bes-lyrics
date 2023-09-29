@@ -1,0 +1,38 @@
+[title]
+Dați de veste {alternative: {*}, composer: {Anonim}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157330}, id: {3LEqtpDXFqjzzwgeFDm77T}, contentHash: {ac48d2}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Soarele-a apus ca-n orice zi,
+Dar neștiind lumea a adormit.
+Era o noapte obișnuită
+Pentru cei nepăsători,
+Însă cei ce-au așteptat demult
+Așa au auzit:
+
+[c]
+Dați de veste, îngerii cântă
+Glorie, glorie, Rege S-a născut!
+Dați de veste, îngerii cântă
+Glorie Regelui de sus,
+Glorie Regelui Isus.
+
+[v2]
+Vestea era purtată ca de vânt:
+„Nu vă temeți, pace pe pământ!”
+Bucurie mare aduce
+S-a născut un Salvator,
+Vestea bună-a mântuirii
+Spuneți tuturor.
+
+[e]
+/: Să-I cântăm, glorie, glorie
+Regelui, glorie, glorie!
+Răspândiți peste tot:
+Isus S-a născut, e salvator.
+Să-I cântăm, glorie, glorie
+Regelui, glorie, glorie!
+Veniți cu toții să ne-nchinăm
+Înaintea Lui, să-L adorăm. :/
