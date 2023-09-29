@@ -5,7 +5,8 @@ import {
   SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT,
   SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT,
 } from '../mocks/index.js';
-import { EMPTY_STRING } from './constants.js';
+import { ALLOWED_CHARS, EMPTY_STRING } from './constants.js';
+import { createAdvancedSongMock } from './core.js';
 
 describe('Song parser', () => {
   describe('Well structured', () => {
@@ -118,8 +119,8 @@ describe('Song parser', () => {
     });
 
     it('should parse a song (w/ subsections) correctly', () => {
-      expect(parse(SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(parse(SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
   "arranger": "*",
@@ -213,8 +214,8 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
 
   describe('Mismatching content', () => {
     it('should throw if certain sections are missing', () => {
-      expect(parse(SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(parse(SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
   "arranger": "*",
@@ -257,8 +258,8 @@ toMatchInlineSnapshot(`
     });
 
     it('should not throw if the issue can be fixed via this plugin (e.g. mismatching sequence)', () => {
-      expect(parse(SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(parse(SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
   "arranger": "*",
@@ -369,6 +370,73 @@ toMatchInlineSnapshot(`
   "sequence": [],
   "title": "",
   "version": "",
+}
+`);
+    });
+  });
+
+  describe('All the allowed chars', () => {
+    it('should throw if is not parsable', () => {
+      expect(parse(EMPTY_STRING)).toMatchInlineSnapshot(`
+{
+  "alternative": "",
+  "composer": "",
+  "contentHash": "",
+  "id": "",
+  "rcId": "",
+  "sectionOrder": [],
+  "sectionsMap": {},
+  "sequence": [],
+  "title": "",
+  "version": "",
+}
+`);
+    });
+  });
+
+  describe('Chars', () => {
+    it('should correctly allow the chars', () => {
+      expect(
+        parse(
+          createAdvancedSongMock([['v1', ALLOWED_CHARS.join(EMPTY_STRING)]]),
+        ),
+      ).toMatchInlineSnapshot(`
+{
+  "alternative": "*",
+  "arranger": "ANY_arranger",
+  "band": "ANY_band",
+  "composer": "ANY_composer",
+  "contentHash": "4cf5d1",
+  "genre": "ANY_genre",
+  "id": "ANY_id",
+  "interpreter": "ANY_interpreter",
+  "key": "ANY_key",
+  "rcId": "ANY_rcId",
+  "sectionOrder": [
+    "[v1]",
+  ],
+  "sectionsMap": {
+    "[sequence]": {
+      "content": "v1",
+      "sectionIdentifier": "[sequence]",
+    },
+    "[title]": {
+      "content": "My custom title: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, title: {ANY_title}, version: {ANY_version}, writer: {ANY_writer}",
+      "sectionIdentifier": "[title]",
+    },
+    "[v1]": {
+      "content": "*_{}&!()][\\,-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„",
+      "sectionIdentifier": "[v1]",
+    },
+  },
+  "sequence": [
+    "v1",
+  ],
+  "tags": "ANY_tags",
+  "tempo": "ANY_tempo",
+  "title": "My custom title:",
+  "version": "ANY_version",
+  "writer": "ANY_writer",
 }
 `);
     });
