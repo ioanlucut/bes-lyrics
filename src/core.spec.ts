@@ -5,6 +5,7 @@ import {
   getTitleWithoutMeta,
   getUniqueCharsAndRelevantChars,
   isKnownSongSequence,
+  multiToSingle,
 } from './core.js';
 import { SIMPLE_SONG_MOCK_FILE_CONTENT } from '../mocks/index.js';
 import { ALLOWED_CHARS, EMPTY_STRING } from './constants.js';
@@ -54,8 +55,8 @@ describe('core', () => {
 
   describe('getUniqueCharsAndRelevantChars', () => {
     it('should work correctly', () => {
-      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 [
   "
 ",
@@ -127,8 +128,8 @@ toMatchInlineSnapshot(`
   describe('computeUniqueContentHash', () => {
     it('should work correctly', () => {
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`"ebf330"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
+      ).toMatchInlineSnapshot(`"ebf330"`);
 
       expect(computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).toEqual(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
@@ -145,23 +146,23 @@ toMatchInlineSnapshot(`"ebf330"`);
 
     it('should update correctly', () => {
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' ')).
-toMatchInlineSnapshot(`"600497"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' '),
+      ).toMatchInlineSnapshot(`"600497"`);
 
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X')).
-toMatchInlineSnapshot(`"c4d132"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X'),
+      ).toMatchInlineSnapshot(`"c4d132"`);
 
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y')).
-toMatchInlineSnapshot(`"931d7a"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y'),
+      ).toMatchInlineSnapshot(`"931d7a"`);
     });
   });
 
   describe('getSongInSectionTuples', () => {
     it('should work correctly', () => {
-      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 [
   "[title]",
   "My custom title {alternative: { ALT1; ALT2 }, composer: {COMPOSER1; COMPOSER2}, writer: {WRITER1; WRITER2}, arranger: {ARRANGER1;ARRANGER2}, interpreter: {INTERPRETER1;INTERPRETER2}, band: {BAND1;BAND2}, key: {*}, tempo: {*}, tags: {T1;T2}, version: {ii}, genre: {A;B}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}",
@@ -223,26 +224,45 @@ describe('getMetaSectionsFromTitle', () => {
   it('should work correctly', () => {
     expect(
       getMetaSectionsFromTitle(
-        'Any title {alternative: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, title: {ANY_title}, version: {ANY_version}, writer: {ANY_writer}}',
+        'My custom title {alternative: { ALT1; ALT2 }, composer: {COMPOSER1; COMPOSER2}, writer: {WRITER1; WRITER2}, arranger: {ARRANGER1;ARRANGER2}, interpreter: {INTERPRETER1;INTERPRETER2}, band: {BAND1;BAND2}, key: {*}, tempo: {*}, tags: {T1;T2}, version: {ii}, genre: {A;B}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}',
       ),
     ).toMatchInlineSnapshot(`
 {
-  "alternative": "ANY_alternative",
-  "arranger": "ANY_arranger",
-  "band": "ANY_band",
-  "composer": "ANY_composer",
-  "contentHash": "ANY_contentHash",
-  "genre": "ANY_genre",
-  "id": "ANY_id",
-  "interpreter": "ANY_interpreter",
-  "key": "ANY_key",
-  "rcId": "ANY_rcId",
-  "tags": "ANY_tags",
-  "tempo": "ANY_tempo",
-  "title": "ANY_title",
-  "version": "ANY_version",
-  "writer": "ANY_writer",
+  "alternative": "ALT1; ALT2",
+  "arranger": "ARRANGER1;ARRANGER2",
+  "band": "BAND1;BAND2",
+  "composer": "COMPOSER1; COMPOSER2",
+  "contentHash": "655954",
+  "genre": "A;B",
+  "id": "7RURbpko41pWYEgVkHD4Pq",
+  "interpreter": "INTERPRETER1;INTERPRETER2",
+  "key": "*",
+  "rcId": "*",
+  "tags": "T1;T2",
+  "tempo": "*",
+  "version": "ii",
+  "writer": "WRITER1; WRITER2",
 }
 `);
+  });
+});
+
+describe('multiToSingle', () => {
+  it('should work correctly with ":"', () => {
+    expect(
+      multiToSingle('ANY_alternative;ANY_alternative2;ANY_alternative3'),
+    ).toMatchInlineSnapshot(
+      `"ANY_alternative; ANY_alternative2; ANY_alternative3"`,
+    );
+  });
+
+  it('should work correctly with ":" and "," in the text', () => {
+    expect(
+      multiToSingle(
+        'ANY_alternative;ANY_alternative part1, part2;ANY_alternative3',
+      ),
+    ).toMatchInlineSnapshot(
+      `"ANY_alternative; ANY_alternative part1, part2; ANY_alternative3"`,
+    );
   });
 });
