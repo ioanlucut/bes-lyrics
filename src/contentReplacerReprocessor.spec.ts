@@ -44,14 +44,20 @@ Nici o
 Nici un
 nici o
 nici un
+nici una
 
-'Nici o
-"Nici o
+‘Nici o
+‘Nici un
+‘nici o
+‘nici un
+‘nici una
 
 Nici oX
 Nici unX
+Nici unaX
 nici oX
 nici unX
+nici unaX
 …
 `)).
 toMatchInlineSnapshot(`
@@ -60,14 +66,20 @@ Nici o
 Nici un
 nici o
 nici un
+nici una
 
-’Nicio
-”Nicio
+‘Nicio
+‘Niciun
+‘nicio
+‘niciun
+‘niciuna
 
 Nici oX
 Nici unX
+Nici unaX
 nici oX
 nici unX
+nici unaX
 ...
 "
 `);
@@ -75,7 +87,7 @@ nici unX
 
   it('should correctly rewrite "Lui Majuscula"', () => {
     expect(
-reprocess(`
+      reprocess(`
 Lui Dumnezeu
 Lui Isus
 Lui Hristos
@@ -93,8 +105,8 @@ Lui DumnezeuX
 Lui IsusX
 Lui HristosX
 Lui MesiaX
-`)).
-toMatchInlineSnapshot(`
+`),
+    ).toMatchInlineSnapshot(`
 "
 Lui Dumnezeu
 Lui Isus

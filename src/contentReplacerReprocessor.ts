@@ -15,6 +15,8 @@ export const reprocess = (songContent: string) =>
     .replaceAll(getRegexNotMatchingStartOfALine('nici o'), 'nicio')
     .replaceAll(getRegexNotMatchingStartOfALine('Nici un'), 'Niciun')
     .replaceAll(getRegexNotMatchingStartOfALine('nici un'), 'niciun')
+    .replaceAll(getRegexNotMatchingStartOfALine('nici una'), 'niciuna')
+    .replaceAll(getRegexNotMatchingStartOfALine('Nici una'), 'Niciuna')
     .replaceAll(getRegexNotMatchingStartOfALine('Lui Dumnezeu'), 'lui Dumnezeu')
     .replaceAll(getRegexNotMatchingStartOfALine('Lui Isus'), 'lui Isus')
     .replaceAll(getRegexNotMatchingStartOfALine('Lui Hristos'), 'lui Hristos')
