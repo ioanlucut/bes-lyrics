@@ -42,6 +42,14 @@ describe('lyricsFileNameReprocessor', () => {
     ).toMatchInlineSnapshot(`"Domn al vesniciei al lumii Creator.txt"`);
   });
 
+  it('should work correctly - with ; as separators', () => {
+    expect(
+deriveFromTitle(
+'Iubirea-adânc-a Tatălui {alternative: {A; B; C}, composer: {Stuart Townend}, writer: {Stuart Townend; Carmen Gavril}, arranger: {Bryn Haworth}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {217294}, id: {ha7S1bgvkFRt5Y8vyfmmrb}, contentHash: {7cf15f}}')).
+
+toMatchInlineSnapshot(`"Stuart Townend - Iubirea-adanc-a Tatalui - A -  B -  C.txt"`);
+  });
+
   it('should work correctly - when all meta fields are there with missing data', () => {
     expect(
       deriveFromTitle(

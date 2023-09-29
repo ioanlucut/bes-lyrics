@@ -2,6 +2,8 @@ export const EMPTY_STRING = '';
 
 export const EMPTY_SPACE = ' ';
 
+export const NAME_SEPARATOR = ' - ';
+
 export const NULL = null;
 
 export const ERROR_CODE = 1;
@@ -9,6 +11,8 @@ export const ERROR_CODE = 1;
 export const COMMA = ',';
 
 export const COLON = ':';
+
+export const SEMICOLON = ';';
 
 export const SLASH = '/';
 

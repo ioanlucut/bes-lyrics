@@ -3,7 +3,9 @@ import {
   COLON,
   COMMA,
   EMPTY_STRING,
+  NAME_SEPARATOR,
   NULL,
+  SEMICOLON,
   TXT_EXTENSION,
   UNSET_META,
 } from './constants.js';
@@ -73,11 +75,14 @@ export const deriveFromTitle = (titleContent: string) => {
     trim(getCleanVersion(title)),
     isEqual(metaSections[SongMeta.ALTERNATIVE], UNSET_META)
       ? NULL
-      : getCleanVersion(metaSections[SongMeta.ALTERNATIVE]),
+      : metaSections[SongMeta.ALTERNATIVE]
+          ?.split(SEMICOLON)
+          ?.map(getCleanVersion)
+          .join(NAME_SEPARATOR),
     isEqual(metaSections[SongMeta.VERSION], UNSET_META)
       ? NULL
       : metaSections[SongMeta.VERSION],
   ]
     .filter(Boolean)
-    .join(' - ')}${TXT_EXTENSION}`;
+    .join(NAME_SEPARATOR)}${TXT_EXTENSION}`;
 };
