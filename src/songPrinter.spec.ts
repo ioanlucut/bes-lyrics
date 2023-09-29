@@ -198,20 +198,20 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!
 
   it('should correctly add the sub sections of a song (for verse)', () => {
     expect(
-print(
-parse(
-createAdvancedSongMock([
-[
-'v1',
-['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE)],
+      print(
+        parse(
+          createAdvancedSongMock([
+            [
+              'v1',
+              ['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE),
+            ],
 
-
-['v2', 'Section 2'],
-['v3', 'Section 3']])))).
-
-
-
-toMatchInlineSnapshot(`
+            ['v2', 'Section 2'],
+            ['v3', 'Section 3'],
+          ]),
+        ),
+      ),
+    ).toMatchInlineSnapshot(`
 "[title]
 My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {d046df}}
 
@@ -235,10 +235,10 @@ Section 3
 
   it('should correctly split a song with split makers', () => {
     expect(
-print(
-parse(SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_SPLIT_MOCK_FILE_CONTENT))).
-
-toMatchInlineSnapshot(`
+      print(
+        parse(SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_SPLIT_MOCK_FILE_CONTENT),
+      ),
+    ).toMatchInlineSnapshot(`
 "[title]
 My custom title {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {048898}}
 
@@ -270,10 +270,10 @@ Israel nu s-a luptat,
 
   it('should correctly un-split a song with un-split makers', () => {
     expect(
-print(
-parse(SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_UN_SPLIT_MOCK_FILE_CONTENT))).
-
-toMatchInlineSnapshot(`
+      print(
+        parse(SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_UN_SPLIT_MOCK_FILE_CONTENT),
+      ),
+    ).toMatchInlineSnapshot(`
 "[title]
 My custom title {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {051e3c}}
 
@@ -296,24 +296,24 @@ Verse 2 row 2
 
   it('should correctly add the sub sections of a song by updating the non-unique occurrences in the song sequence', () => {
     expect(
-print(
-parse(
-createAdvancedSongMock(
-[
-[
-'v1',
-['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE)],
+      print(
+        parse(
+          createAdvancedSongMock(
+            [
+              [
+                'v1',
+                ['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE),
+              ],
 
+              ['c', 'Chorus'],
+              ['v2', 'Section 3'],
+            ],
 
-['c', 'Chorus'],
-['v2', 'Section 3']],
-
-
-['v1', 'c', 'v2', 'v1', 'c'])))).
-
-
-
-toMatchInlineSnapshot(`
+            ['v1', 'c', 'v2', 'v1', 'c'],
+          ),
+        ),
+      ),
+    ).toMatchInlineSnapshot(`
 "[title]
 My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {fc7723}}
 
@@ -337,17 +337,17 @@ Section 3
 
   it('should correctly add the sub sections of a song (for bridge)', () => {
     expect(
-print(
-parse(
-createAdvancedSongMock([
-['b', ['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE)],
+      print(
+        parse(
+          createAdvancedSongMock([
+            ['b', ['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE)],
 
-['b2', 'Section 2'],
-['b3', 'Section 3']])))).
-
-
-
-toMatchInlineSnapshot(`
+            ['b2', 'Section 2'],
+            ['b3', 'Section 3'],
+          ]),
+        ),
+      ),
+    ).toMatchInlineSnapshot(`
 "[title]
 My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {734aa4}}
 
@@ -371,17 +371,17 @@ Section 3
 
   it('should correctly add the sub sections of a song (for chorus)', () => {
     expect(
-print(
-parse(
-createAdvancedSongMock([
-['c', ['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE)],
+      print(
+        parse(
+          createAdvancedSongMock([
+            ['c', ['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE)],
 
-['c2', 'Section 2'],
-['c3', 'Section 3']])))).
-
-
-
-toMatchInlineSnapshot(`
+            ['c2', 'Section 2'],
+            ['c3', 'Section 3'],
+          ]),
+        ),
+      ),
+    ).toMatchInlineSnapshot(`
 "[title]
 My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {2a9d64}}
 
@@ -405,17 +405,17 @@ Section 3
 
   it('should correctly add the sub sections of a song (for prechorus)', () => {
     expect(
-print(
-parse(
-createAdvancedSongMock([
-['p', ['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE)],
+      print(
+        parse(
+          createAdvancedSongMock([
+            ['p', ['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE)],
 
-['p2', 'Section 2'],
-['p3', 'Section 3']])))).
-
-
-
-toMatchInlineSnapshot(`
+            ['p2', 'Section 2'],
+            ['p3', 'Section 3'],
+          ]),
+        ),
+      ),
+    ).toMatchInlineSnapshot(`
 "[title]
 My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {b0afbb}}
 
@@ -439,14 +439,14 @@ Section 3
 
   it('should correctly not add the sub sections of a song (for ending)', () => {
     expect(
-print(
-parse(
-createAdvancedSongMock([
-['e', ['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE)]])))).
-
-
-
-toMatchInlineSnapshot(`
+      print(
+        parse(
+          createAdvancedSongMock([
+            ['e', ['Subsection 1.1', 'Subsection 1.2'].join(DOUBLE_LINE_TUPLE)],
+          ]),
+        ),
+      ),
+    ).toMatchInlineSnapshot(`
 "[title]
 My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {0c90cd}}
 
@@ -464,21 +464,21 @@ Subsection 1.2
 
   it('should correctly add only the unique sections of a song', () => {
     expect(
-print(
-parse(
-createAdvancedSongMock(
-[
-['v1', 'Verse 1'],
+      print(
+        parse(
+          createAdvancedSongMock(
+            [
+              ['v1', 'Verse 1'],
 
-['c', 'Chorus'],
-['v2', 'Section 3']],
+              ['c', 'Chorus'],
+              ['v2', 'Section 3'],
+            ],
 
-
-['v1', 'c', 'v2', 'c'])))).
-
-
-
-toMatchInlineSnapshot(`
+            ['v1', 'c', 'v2', 'c'],
+          ),
+        ),
+      ),
+    ).toMatchInlineSnapshot(`
 "[title]
 My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {f1b714}}
 

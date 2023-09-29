@@ -1,32 +1,27 @@
 [title]
-Test Ignore me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {4fbf0b}}
+Test Ignore me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {c8f057}}
 
 [sequence]
-v1.1,v1.2,v1.3,v2,v3
+v1.1,v1.2,v1.3
 
 [v1.1]
-space-not-expected-before țtext
 space-not-expected-before Îtext
 space-not-expected-before âtext
 space-not-expected-before îtext
 space-not-expected-before ătext
 space-not-expected-before Âtext
 space-not-expected-before Ștext
-
-[v1.2]
 space-not-expected-before ștext
 space-not-expected-before Ătext
 space-not-expected-before Țtext
 space-not-expected-before țtext
-
-[v1.3]
 space-not-expected-before -text
 space-not-expected-before ’text
+space-not-expected-before ‘text
 space-not-expected-before ”text
 space-not-expected-before „text
 
-[v2]
-textț single-space-expected-after-this
+[v1.2]
 textÎ single-space-expected-after-this
 textâ single-space-expected-after-this
 textî single-space-expected-after-this
@@ -39,11 +34,11 @@ textȚ single-space-expected-after-this
 textț single-space-expected-after-this
 text- single-space-expected-after-this
 text’ single-space-expected-after-this
+text‘ single-space-expected-after-this
 text” single-space-expected-after-this
 text„ single-space-expected-after-this
 
-[v3]
-end-of-line-works-without-extra-space-textț
+[v1.3]
 end-of-line-works-without-extra-space-textÎ
 end-of-line-works-without-extra-space-textâ
 end-of-line-works-without-extra-space-textî
@@ -56,5 +51,6 @@ end-of-line-works-without-extra-space-textȚ
 end-of-line-works-without-extra-space-textț
 end-of-line-works-without-extra-space-text-
 end-of-line-works-without-extra-space-text’
+end-of-line-works-without-extra-space-text‘
 end-of-line-works-without-extra-space-text”
 end-of-line-works-without-extra-space-text„

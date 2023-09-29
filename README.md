@@ -6,7 +6,7 @@ Acest repository conține cântări scrise/folosite de trupele de laudă și în
 
 _inspirat din `EasySlides`, `OpenSongs` și https://www.learnchordal.com/how-to-read-charts_.
 
-Formatul folosit este unul simplu, similar cu cel din `OpenSong`, după cum urmează:
+Formatul folosit este unul simplu, după cum urmează:
 
 ```
 [title]
@@ -123,24 +123,24 @@ Domn al veșniciei, în veci! Amin!
 
 #### Caractere
 
-Caracterele pe care le putem folosi sunt foarte importante, așa că am definit o listă pe care o putem folosi:
+Caracterele pe care le putem folosi sunt foarte importante, așa că am definit o listă:
 
 ```
- !(),-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZY[\]abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț’”„
+ *_{}&!(),-./][1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„\n
 ```
 
 Întrucât sunt foarte multe versiuni ale caracterelor e.g. `ş` în loc de `ș`, e nevoie să folosim aceleași caractere cu
 același format unicode. Un exemplu de variațiuni poate fi văzut aici: https://www.compart.com/en/unicode/U+201D.
+> Detalii despre `‘’` poți să găsești și aici: https://github.com/ioanlucut/bes-lyrics/issues/105.
 
 #### Dacă vrei să imporți cântece din resurse creștine
 
 - Asigură-te că ultima versiune a repo-ului https://github.com/ioanlucut/bes-lyrics-parser este instalată in același
   folder părinte cu acest repository.
-- Copiază ID-ul din URL. E.g. https://www.resursecrestine.ro/cantece/212152/cuvantul-intrupat (-> **212152**)
+- Copiază `ID`-ul din `URL`. E.g. https://www.resursecrestine.ro/cantece/212152/cuvantul-intrupat (-> **212152**)
 - Adaugă-l în fișierul `temp_runners/rc_ids_to_process.txt` într-o linie nouă.
 - Rulează scriptul `npm run import:rc:by-ids`
-- Rulează scriptul `npm run meta:ci`
-- Commit, push & branch nou.
+- Branch nou, commit, push și `PR`.
 
 #### Cum poți să te implici altfel?
 

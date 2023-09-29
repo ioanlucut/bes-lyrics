@@ -7,6 +7,7 @@ import {
   isKnownSongSequence,
 } from './core.js';
 import { SIMPLE_SONG_MOCK_FILE_CONTENT } from '../mocks/index.js';
+import { ALLOWED_CHARS, EMPTY_STRING } from './constants.js';
 
 describe('core', () => {
   describe('isKnownSongSequence', () => {
@@ -119,8 +120,8 @@ describe('core', () => {
   describe('computeUniqueContentHash', () => {
     it('should work correctly', () => {
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`"44c93b"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
+      ).toMatchInlineSnapshot(`"44c93b"`);
 
       expect(computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).toEqual(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
@@ -137,16 +138,16 @@ toMatchInlineSnapshot(`"44c93b"`);
 
     it('should update correctly', () => {
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' ')).
-toMatchInlineSnapshot(`"543f06"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' '),
+      ).toMatchInlineSnapshot(`"543f06"`);
 
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X')).
-toMatchInlineSnapshot(`"c3c407"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X'),
+      ).toMatchInlineSnapshot(`"c3c407"`);
 
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y')).
-toMatchInlineSnapshot(`"2a48fa"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y'),
+      ).toMatchInlineSnapshot(`"2a48fa"`);
     });
   });
 
@@ -186,6 +187,15 @@ toMatchInlineSnapshot(`"2a48fa"`);
 ]
 `);
     });
+
+    it('should work correctly', () => {
+      expect(getSongInSectionTuples(ALLOWED_CHARS.join(EMPTY_STRING)))
+        .toMatchInlineSnapshot(`
+[
+  "*_{}&!()][\\,-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„",
+]
+`);
+    });
   });
 });
 describe('getTitleWithoutMeta', () => {
@@ -205,10 +215,10 @@ describe('getTitleWithoutMeta', () => {
 describe('getMetaSectionsFromTitle', () => {
   it('should work correctly', () => {
     expect(
-getMetaSectionsFromTitle(
-'Any title {alternative: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, title: {ANY_title}, version: {ANY_version}, writer: {ANY_writer}}')).
-
-toMatchInlineSnapshot(`
+      getMetaSectionsFromTitle(
+        'Any title {alternative: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, title: {ANY_title}, version: {ANY_version}, writer: {ANY_writer}}',
+      ),
+    ).toMatchInlineSnapshot(`
 {
   "alternative": "ANY_alternative",
   "arranger": "ANY_arranger",
