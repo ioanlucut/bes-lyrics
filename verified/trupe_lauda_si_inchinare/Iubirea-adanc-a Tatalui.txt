@@ -1,5 +1,5 @@
 [title]
-Iubirea-adânc-a Tatălui {alternative: {How Deep the Father's Love for Us}, composer: {Stuart Townend}, writer: {Stuart Townend; Carmen Gavril, trad.}, arranger: {Bryn Haworth}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {217294}, id: {ha7S1bgvkFRt5Y8vyfmmrb}, contentHash: {19c47f}}
+Iubirea-adânc-a Tatălui {alternative: {How Deep the Father’s Love for Us}, composer: {Stuart Townend}, writer: {Stuart Townend; Carmen Gavril}, arranger: {Bryn Haworth}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {217294}, id: {ha7S1bgvkFRt5Y8vyfmmrb}, contentHash: {7cf15f}}
 
 [sequence]
 v1,v2,v3,v4,b,v5,v6
