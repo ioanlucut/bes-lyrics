@@ -45,7 +45,7 @@
   },
   "type": "module",
   "scripts": {
-    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" \"./candidates/**/*.txt\" {src,bin,mocks,temp-runners}/**/*.ts README.md \"./LaTeX/**/*.tex\"",
+    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" {src,bin,mocks,temp-runners}/**/*.ts README.md \"./LaTeX/**/*.tex\"",
     "test:ci": "NODE_ENV=test jest --runInBand --no-cache",
     "test:watch": "NODE_ENV=test TZ='Europe/Berlin' jest --watch --logHeapUsage --no-cache",
     "test": "is-ci-cli test:ci test:watch",
