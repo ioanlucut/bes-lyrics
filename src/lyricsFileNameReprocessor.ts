@@ -68,20 +68,24 @@ export const deriveFromTitle = (titleContent: string) => {
         {},
       ) as Record<SongMeta, string>) || {};
 
-  return `${[
-    isEqual(metaSections[SongMeta.COMPOSER], UNSET_META)
+  const getSectionBy = (metaKey: SongMeta) =>
+    isEqual(metaSections[metaKey], UNSET_META)
       ? NULL
-      : metaSections[SongMeta.COMPOSER],
-    trim(getCleanVersion(title)),
-    isEqual(metaSections[SongMeta.ALTERNATIVE], UNSET_META)
-      ? NULL
-      : metaSections[SongMeta.ALTERNATIVE]
+      : metaSections[metaKey]
           ?.split(SEMICOLON)
           ?.map(getCleanVersion)
-          .join(NAME_SEPARATOR),
-    isEqual(metaSections[SongMeta.VERSION], UNSET_META)
-      ? NULL
-      : metaSections[SongMeta.VERSION],
+          ?.map(trim)
+          .join(NAME_SEPARATOR);
+
+  return `${[
+    getSectionBy(SongMeta.COMPOSER),
+    getSectionBy(SongMeta.WRITER),
+    getSectionBy(SongMeta.ARRANGER),
+    getSectionBy(SongMeta.BAND),
+    getSectionBy(SongMeta.INTERPRETER),
+    trim(getCleanVersion(title)),
+    getSectionBy(SongMeta.ALTERNATIVE),
+    getSectionBy(SongMeta.VERSION),
   ]
     .filter(Boolean)
     .join(NAME_SEPARATOR)}${TXT_EXTENSION}`;

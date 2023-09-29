@@ -45,18 +45,16 @@ describe('lyricsFileNameReprocessor', () => {
   it('should work correctly - with ; as separators', () => {
     expect(
 deriveFromTitle(
-'Iubirea-adânc-a Tatălui {alternative: {A; B; C}, composer: {Stuart Townend}, writer: {Stuart Townend; Carmen Gavril}, arranger: {Bryn Haworth}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {217294}, id: {ha7S1bgvkFRt5Y8vyfmmrb}, contentHash: {7cf15f}}')).
+'My main title {alternative: { alternative 1; alternative 2 }, composer: {composer 1; composer 2}, writer: {writer 1; writer 2}, arranger: {arranger 1;arranger 2}, interpreter: {interpreter 1;interpreter 2}, band: {band 1;band 2}, key: {*}, tempo: {*}, tags: {tags 1; tags 2}, version: {ii}, genre: {genre 1; genre 2}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}')).
 
-toMatchInlineSnapshot(`"Stuart Townend - Iubirea-adanc-a Tatalui - A -  B -  C.txt"`);
+toMatchInlineSnapshot(`"composer 1 - composer 2 - writer 1 - writer 2 - arranger 1 - arranger 2 - band 1 - band 2 - interpreter 1 - interpreter 2 - My main title - alternative 1 - alternative 2 - ii.txt"`);
   });
 
   it('should work correctly - when all meta fields are there with missing data', () => {
     expect(
-      deriveFromTitle(
-        'Any title {alternative: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, title: {ANY_title}, version: {ANY_version}, writer: {ANY_writer}}',
-      ),
-    ).toMatchInlineSnapshot(
-      `"ANY_composer - Any title - ANY_alternative - ANY_version.txt"`,
-    );
+deriveFromTitle(
+'Any title {alternative: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, title: {ANY_title}, version: {ANY_version}, writer: {ANY_writer}}')).
+
+toMatchInlineSnapshot(`"ANY_composer - ANY_writer - ANY_arranger - ANY_band - ANY_interpreter - Any title - ANY_alternative - ANY_version.txt"`);
   });
 });

@@ -21,6 +21,7 @@ export const reprocess = (songContent: string) =>
     .replaceAll(getRegexNotMatchingStartOfALine('Lui Isus'), 'lui Isus')
     .replaceAll(getRegexNotMatchingStartOfALine('Lui Hristos'), 'lui Hristos')
     .replaceAll(getRegexNotMatchingStartOfALine('Lui Mesia'), 'lui Mesia')
+    // Always
     .replaceAll('doamne', 'Doamne')
     .replaceAll('domnul', 'Domnul')
     .replaceAll('dumnezeu', 'Dumnezeu')
@@ -29,6 +30,7 @@ export const reprocess = (songContent: string) =>
     .replaceAll('isuse', 'Isuse')
     .replaceAll('mesia', 'Mesia')
     .replaceAll('miel', 'Miel')
+    // Special chars
     .replaceAll('ş', 'ș')
     .replaceAll('Ş', 'Ș')
     .replaceAll('ţ', 'ț')
