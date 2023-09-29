@@ -13,7 +13,7 @@ describe('songPrinter', () => {
   it('should not adjust an already well structured song (w/o subsections)', () => {
     expect(print(parse(SIMPLE_SONG_MOCK_FILE_CONTENT))).toMatchInlineSnapshot(`
 "[title]
-My custom title {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}
+My custom title {alternative: {ALT1; ALT2}, composer: {COMPOSER1; COMPOSER2}, writer: {WRITER1; WRITER2}, arranger: {ARRANGER1; ARRANGER2}, interpreter: {INTERPRETER1; INTERPRETER2}, band: {BAND1; BAND2}, key: {*}, tempo: {*}, tags: {T1; T2}, version: {ii}, genre: {A; B}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}
 
 [sequence]
 v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3

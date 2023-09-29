@@ -54,12 +54,13 @@ describe('core', () => {
 
   describe('getUniqueCharsAndRelevantChars', () => {
     it('should work correctly', () => {
-      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT))
-        .toMatchInlineSnapshot(`
+      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
 [
   "
 ",
   " ",
+  "*",
   ",",
   "1",
   "2",
@@ -68,16 +69,25 @@ describe('core', () => {
   "5",
   "6",
   "7",
-  "8",
+  "9",
   ":",
+  ";",
+  "A",
   "B",
   "C",
   "D",
   "E",
+  "G",
   "H",
+  "I",
+  "L",
   "M",
+  "N",
+  "O",
   "P",
   "R",
+  "S",
+  "T",
   "U",
   "V",
   "W",
@@ -109,9 +119,6 @@ describe('core', () => {
   "y",
   "{",
   "}",
-  "â",
-  "ă",
-  "ț",
 ]
 `);
     });
@@ -120,8 +127,8 @@ describe('core', () => {
   describe('computeUniqueContentHash', () => {
     it('should work correctly', () => {
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
-      ).toMatchInlineSnapshot(`"44c93b"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`"ebf330"`);
 
       expect(computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).toEqual(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
@@ -138,26 +145,26 @@ describe('core', () => {
 
     it('should update correctly', () => {
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' '),
-      ).toMatchInlineSnapshot(`"543f06"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' ')).
+toMatchInlineSnapshot(`"600497"`);
 
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X'),
-      ).toMatchInlineSnapshot(`"c3c407"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X')).
+toMatchInlineSnapshot(`"c4d132"`);
 
       expect(
-        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y'),
-      ).toMatchInlineSnapshot(`"2a48fa"`);
+computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y')).
+toMatchInlineSnapshot(`"931d7a"`);
     });
   });
 
   describe('getSongInSectionTuples', () => {
     it('should work correctly', () => {
-      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT))
-        .toMatchInlineSnapshot(`
+      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
 [
   "[title]",
-  "My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+  "My custom title {alternative: { ALT1; ALT2 }, composer: {COMPOSER1; COMPOSER2}, writer: {WRITER1; WRITER2}, arranger: {ARRANGER1;ARRANGER2}, interpreter: {INTERPRETER1;INTERPRETER2}, band: {BAND1;BAND2}, key: {*}, tempo: {*}, tags: {T1;T2}, version: {ii}, genre: {A;B}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}",
   "[sequence]",
   "v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3",
   "[v1]",

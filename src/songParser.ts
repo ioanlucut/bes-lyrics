@@ -6,6 +6,7 @@ import {
   getSongInSectionTuples,
   getTitleWithoutMeta,
   getUniqueId,
+  multiToSingle,
 } from './core.js';
 import { COMMA, EMPTY_STRING, UNSET_META } from './constants.js';
 
@@ -73,16 +74,16 @@ export const parse = (songAsString: string) => {
         ),
       );
 
-      songAST.alternative = alternative || UNSET_META;
-      songAST.composer = composer || UNSET_META;
-      songAST.writer = writer || UNSET_META;
-      songAST.arranger = arranger || UNSET_META;
-      songAST.interpreter = interpreter || UNSET_META;
-      songAST.band = band || UNSET_META;
-      songAST.genre = genre || UNSET_META;
-      songAST.key = key || UNSET_META;
-      songAST.tags = tags || UNSET_META;
-      songAST.tempo = tempo || UNSET_META;
+      songAST.alternative = multiToSingle(alternative) || UNSET_META;
+      songAST.composer = multiToSingle(composer) || UNSET_META;
+      songAST.writer = multiToSingle(writer) || UNSET_META;
+      songAST.arranger = multiToSingle(arranger) || UNSET_META;
+      songAST.interpreter = multiToSingle(interpreter) || UNSET_META;
+      songAST.band = multiToSingle(band) || UNSET_META;
+      songAST.genre = multiToSingle(genre) || UNSET_META;
+      songAST.key = multiToSingle(key) || UNSET_META;
+      songAST.tags = multiToSingle(tags) || UNSET_META;
+      songAST.tempo = multiToSingle(tempo) || UNSET_META;
       songAST.version = version || UNSET_META;
 
       songAST.rcId = rcId || UNSET_META;

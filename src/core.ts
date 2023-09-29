@@ -18,8 +18,10 @@ import {
   COLON,
   COMMA,
   DOUBLE_LINE_TUPLE,
+  EMPTY_SPACE,
   EMPTY_STRING,
   NEW_LINE_TUPLE,
+  SEMICOLON,
   TEST_ENV,
 } from './constants.js';
 import assert from 'node:assert';
@@ -195,3 +197,6 @@ export const getMetaSectionsFromTitle = (titleContent: string) => {
       return { ...accumulator, [sequence]: trim(content) };
     }, {}) as Record<SongMeta, string>;
 };
+
+export const multiToSingle = (text: string) =>
+  text?.split(SEMICOLON)?.map(trim).join(`${SEMICOLON}${EMPTY_SPACE}`);

@@ -13,14 +13,14 @@ describe('Song parser', () => {
     it('should parse a song (w/o subsections) correctly', () => {
       expect(parse(SIMPLE_SONG_MOCK_FILE_CONTENT)).toMatchInlineSnapshot(`
 {
-  "alternative": "Când eram fără speranță",
-  "arranger": "*",
-  "band": "*",
-  "composer": "Betania Dublin",
+  "alternative": "ALT1; ALT2",
+  "arranger": "ARRANGER1; ARRANGER2",
+  "band": "BAND1; BAND2",
+  "composer": "COMPOSER1; COMPOSER2",
   "contentHash": "655954",
-  "genre": "*",
+  "genre": "A; B",
   "id": "7RURbpko41pWYEgVkHD4Pq",
-  "interpreter": "*",
+  "interpreter": "INTERPRETER1; INTERPRETER2",
   "key": "*",
   "rcId": "*",
   "sectionOrder": [
@@ -79,7 +79,7 @@ describe('Song parser', () => {
       "sectionIdentifier": "[sequence]",
     },
     "[title]": {
-      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+      "content": "My custom title {alternative: { ALT1; ALT2 }, composer: {COMPOSER1; COMPOSER2}, writer: {WRITER1; WRITER2}, arranger: {ARRANGER1;ARRANGER2}, interpreter: {INTERPRETER1;INTERPRETER2}, band: {BAND1;BAND2}, key: {*}, tempo: {*}, tags: {T1;T2}, version: {ii}, genre: {A;B}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}",
       "sectionIdentifier": "[title]",
     },
     "[v1]": {
@@ -109,11 +109,11 @@ describe('Song parser', () => {
     "b2",
     "b3",
   ],
-  "tags": "*",
+  "tags": "T1; T2",
   "tempo": "*",
   "title": "My custom title",
   "version": "ii",
-  "writer": "*",
+  "writer": "WRITER1; WRITER2",
 }
 `);
     });
