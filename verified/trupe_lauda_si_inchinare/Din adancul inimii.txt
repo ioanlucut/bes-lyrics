@@ -1,5 +1,5 @@
 [title]
-Din adâncul inimii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74510}, id: {3RJ6DXTii41wKamgxDCtUx}, contentHash: {8a7d81}}
+Din adâncul inimii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74510}, id: {3RJ6DXTii41wKamgxDCtUx}, contentHash: {1bf44a}}
 
 [sequence]
 v1,c,v1,c

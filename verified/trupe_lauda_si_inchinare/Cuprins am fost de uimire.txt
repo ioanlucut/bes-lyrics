@@ -1,5 +1,5 @@
 [title]
-Cuprins am fost de uimire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7301}, id: {9wGAaLtf8hruHhqG9e5FDm}, contentHash: {37e543}}
+Cuprins am fost de uimire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7301}, id: {9wGAaLtf8hruHhqG9e5FDm}, contentHash: {847958}}
 
 [sequence]
 v1,c,v2,c,v3,c

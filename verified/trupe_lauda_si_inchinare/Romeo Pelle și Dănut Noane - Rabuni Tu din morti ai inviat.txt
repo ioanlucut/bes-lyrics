@@ -1,5 +1,5 @@
 [title]
-Rabuni, Tu din morți ai înviat! {alternative: {*}, composer: {Romeo Pelle și Dănut Noane}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5053}, id: {7jUhFG5GPuLQf6DKjo68Pq}, contentHash: {f66463}}
+Rabuni, Tu din morți ai înviat! {alternative: {*}, composer: {Romeo Pelle și Dănut Noane}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5053}, id: {7jUhFG5GPuLQf6DKjo68Pq}, contentHash: {acd509}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ce dar măreț e Isus Salvatorul {alternative: {*}, composer: {Corneliu Matei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188896}, id: {tJxG51TYMYD9wuJ7be4ZVF}, contentHash: {b56ea9}}
+Ce dar măreț e Isus Salvatorul {alternative: {*}, composer: {Corneliu Matei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188896}, id: {tJxG51TYMYD9wuJ7be4ZVF}, contentHash: {17655a}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,e

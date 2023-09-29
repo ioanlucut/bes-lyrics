@@ -1,5 +1,5 @@
 [title]
-Ierusalime {alternative: {*}, composer: {Grupul Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {185940}, id: {cjpPZithnpRwn9q7Ag4uZY}, contentHash: {a01bf5}}
+Ierusalime {alternative: {*}, composer: {Grupul Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {185940}, id: {cjpPZithnpRwn9q7Ag4uZY}, contentHash: {518416}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c2

@@ -1,5 +1,5 @@
 [title]
-Mi-am pus nadejdea-n Tine {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6960}, id: {vEt7AUteak56Z3FEsht4LK}, contentHash: {59d5ec}}
+Mi-am pus nadejdea-n Tine {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6960}, id: {vEt7AUteak56Z3FEsht4LK}, contentHash: {1ad678}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

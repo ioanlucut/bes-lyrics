@@ -1,5 +1,5 @@
 [title]
-Dar din Paradis {alternative: {*}, composer: {Cristi și Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uzkzbfEph8e7ZqiWx3omrC}, contentHash: {a0f125}}
+Dar din Paradis {alternative: {*}, composer: {Cristi și Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uzkzbfEph8e7ZqiWx3omrC}, contentHash: {55ec95}}
 
 [sequence]
 p,v1,p,c,v2,p,c,p

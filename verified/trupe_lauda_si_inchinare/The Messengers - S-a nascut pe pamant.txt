@@ -1,5 +1,5 @@
 [title]
-S-a născut pe pământ {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4403}, id: {3tiq8LUws6iFeTfXYw66rv}, contentHash: {9cabbc}}
+S-a născut pe pământ {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4403}, id: {3tiq8LUws6iFeTfXYw66rv}, contentHash: {7fb75a}}
 
 [sequence]
 v1,v2,v3,v4,v5

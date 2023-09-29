@@ -1,5 +1,5 @@
 [title]
-Calea, adevărul, viața {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6696}, id: {m35SCdpx3CwDBnqYgM6o6m}, contentHash: {e41a6c}}
+Calea, adevărul, viața {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6696}, id: {m35SCdpx3CwDBnqYgM6o6m}, contentHash: {e23fad}}
 
 [sequence]
 c,v1,c,v2,c

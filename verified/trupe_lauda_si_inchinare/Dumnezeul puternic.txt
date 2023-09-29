@@ -1,5 +1,5 @@
 [title]
-Dumnezeul puternic {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {96602}, id: {oUgGVuw2XUBjqHKsG4PJ8D}, contentHash: {5e830a}}
+Dumnezeul puternic {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {96602}, id: {oUgGVuw2XUBjqHKsG4PJ8D}, contentHash: {aa09d1}}
 
 [sequence]
 c,v1,c,v2,c

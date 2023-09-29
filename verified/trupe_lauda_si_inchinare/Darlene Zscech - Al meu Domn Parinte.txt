@@ -1,5 +1,5 @@
 [title]
-Al meu Domn, Părinte {alternative: {*}, composer: {Darlene Zscech}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1014}, id: {4FZxKr6tDnhLF9xikKGocN}, contentHash: {45cfed}}
+Al meu Domn, Părinte {alternative: {*}, composer: {Darlene Zscech}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1014}, id: {4FZxKr6tDnhLF9xikKGocN}, contentHash: {6a3cfc}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v1.1,v1.2,c1.1,c1.2,e

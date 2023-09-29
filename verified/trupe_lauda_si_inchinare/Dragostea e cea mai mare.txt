@@ -1,5 +1,5 @@
 [title]
-Dragostea e cel mai mare dintre daruri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3112}, id: {i8nsPcurUtpdJChUBnMyrD}, contentHash: {83887b}}
+Dragostea e cel mai mare dintre daruri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3112}, id: {i8nsPcurUtpdJChUBnMyrD}, contentHash: {c0fee6}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-E război, frate, n-ai uitat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4344}, id: {eAK8NGwXe7B62GYXsMQBHo}, contentHash: {fe2732}}
+E război, frate, n-ai uitat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4344}, id: {eAK8NGwXe7B62GYXsMQBHo}, contentHash: {781d2e}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

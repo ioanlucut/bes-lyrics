@@ -1,5 +1,5 @@
 [title]
-Domnul este adăpostul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eVNo2kXRPE42SmnmqLGQ3i}, contentHash: {ba3613}}
+Domnul este adăpostul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eVNo2kXRPE42SmnmqLGQ3i}, contentHash: {785166}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4

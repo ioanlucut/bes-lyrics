@@ -1,5 +1,5 @@
 [title]
-Mai mult acum ca niciodată {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {142682}, id: {rsDJdToejsQrkXwrsY3NzL}, contentHash: {2ce7d6}}
+Mai mult acum ca niciodată {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {142682}, id: {rsDJdToejsQrkXwrsY3NzL}, contentHash: {e1bd60}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

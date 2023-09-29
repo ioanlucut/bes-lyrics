@@ -1,5 +1,5 @@
 [title]
-O carte cu șapte peceți {alternative: {*}, composer: {Flaviu Mitar}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {90158}, id: {cmkVJkpHihy3vJYXeCA8F1}, contentHash: {b979b9}}
+O carte cu șapte peceți {alternative: {*}, composer: {Flaviu Mitar}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {90158}, id: {cmkVJkpHihy3vJYXeCA8F1}, contentHash: {7c265b}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

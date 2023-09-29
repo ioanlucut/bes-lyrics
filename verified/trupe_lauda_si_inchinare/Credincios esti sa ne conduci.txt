@@ -1,5 +1,5 @@
 [title]
-Credincios ești să ne conduci {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2801}, id: {wPEhQwYpGCBzquKSUNXFoY}, contentHash: {1dcffe}}
+Credincios ești să ne conduci {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2801}, id: {wPEhQwYpGCBzquKSUNXFoY}, contentHash: {d218d7}}
 
 [sequence]
 c,v1,c,v1

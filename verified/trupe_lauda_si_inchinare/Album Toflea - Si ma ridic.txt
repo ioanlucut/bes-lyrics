@@ -1,5 +1,5 @@
 [title]
-Și mă ridic {alternative: {*}, composer: {Album Toflea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {133873}, id: {i9K59Zke2WBeS5DU8AShzE}, contentHash: {178eeb}}
+Și mă ridic {alternative: {*}, composer: {Album Toflea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {133873}, id: {i9K59Zke2WBeS5DU8AShzE}, contentHash: {939a62}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

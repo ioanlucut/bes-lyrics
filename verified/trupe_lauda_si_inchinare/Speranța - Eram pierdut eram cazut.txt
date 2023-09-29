@@ -1,5 +1,5 @@
 [title]
-Eram pierdut, eram căzut {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6673}, id: {uNtbRPeeKuQnCbRJd4FRqt}, contentHash: {a0695a}}
+Eram pierdut, eram căzut {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6673}, id: {uNtbRPeeKuQnCbRJd4FRqt}, contentHash: {989174}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

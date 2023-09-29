@@ -1,5 +1,5 @@
 [title]
-În revărsatul zorilor, în mireasma crinilor {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111604}, id: {ee3kFUVGYpGu7szSRiNN2w}, contentHash: {441638}}
+În revărsatul zorilor, în mireasma crinilor {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111604}, id: {ee3kFUVGYpGu7szSRiNN2w}, contentHash: {5b8f50}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

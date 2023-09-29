@@ -1,5 +1,5 @@
 [title]
-În cetatea unde merg eu {alternative: {Where Roses Never Fade}, composer: {Jim & Jack Elsie}, writer: {Jim & Jack Elsie; Valentin Popovici, trad.}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59168}, id: {d49p4icZKmLUh2B59QK3My}, contentHash: {1f6390}}
+În cetatea unde merg eu {alternative: {Where Roses Never Fade}, composer: {Jim & Jack Elsie}, writer: {Jim & Jack Elsie; Valentin Popovici}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59168}, id: {d49p4icZKmLUh2B59QK3My}, contentHash: {1f6390}}
 
 [sequence]
 c,v1,c,v2,c,v3

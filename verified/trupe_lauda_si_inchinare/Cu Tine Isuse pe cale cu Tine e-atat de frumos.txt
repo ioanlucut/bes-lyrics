@@ -1,5 +1,5 @@
 [title]
-Cu Tine, Isuse, pe cale, cu Tine e-atât de frumos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8qUZupfvq7EvFCuBYoGDsH}, contentHash: {2d4c6a}}
+Cu Tine, Isuse, pe cale, cu Tine e-atât de frumos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8qUZupfvq7EvFCuBYoGDsH}, contentHash: {edf90e}}
 
 [sequence]
 v1,v2,v3,v4

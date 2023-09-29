@@ -1,5 +1,5 @@
 [title]
-E putere în Numele Isus {alternative: {*}, composer: {Cornel Cuibus}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {72709}, id: {cFJFdUXVtkaU5sVHUfVVdP}, contentHash: {d97c38}}
+E putere în Numele Isus {alternative: {*}, composer: {Cornel Cuibus}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {72709}, id: {cFJFdUXVtkaU5sVHUfVVdP}, contentHash: {4e101a}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

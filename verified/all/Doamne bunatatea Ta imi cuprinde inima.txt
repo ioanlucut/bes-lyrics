@@ -1,5 +1,5 @@
 [title]
-Doamne, bunătatea Ta îmi cuprinde inima {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4887}, id: {hKULC9TSNfk9apfK3gf4Qc}, contentHash: {0caa33}}
+Doamne, bunătatea Ta îmi cuprinde inima {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4887}, id: {hKULC9TSNfk9apfK3gf4Qc}, contentHash: {268ff2}}
 
 [sequence]
 v1,c,v2,c,v3,c

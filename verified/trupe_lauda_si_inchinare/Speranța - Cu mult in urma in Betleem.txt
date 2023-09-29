@@ -1,5 +1,5 @@
 [title]
-Cu mult în urmă-n Betleem {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1713}, id: {an76SuYBktB1oLxaZy1npQ}, contentHash: {72d7f3}}
+Cu mult în urmă-n Betleem {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1713}, id: {an76SuYBktB1oLxaZy1npQ}, contentHash: {db8354}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

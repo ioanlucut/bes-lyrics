@@ -1,5 +1,5 @@
 [title]
-Gata-mi este inima să cânte {alternative: {*}, composer: {Claudia Danciu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7258}, id: {oPLW6Babjk29eTLBcBDATh}, contentHash: {f6afd7}}
+Gata-mi este inima să cânte {alternative: {*}, composer: {Claudia Danciu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7258}, id: {oPLW6Babjk29eTLBcBDATh}, contentHash: {5493e4}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

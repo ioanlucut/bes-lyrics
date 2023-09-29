@@ -1,5 +1,5 @@
 [title]
-Sfânt, sfânt e Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {i6k9HVan8ryCYYcy9R6okH}, contentHash: {6c59a5}}
+Sfânt, sfânt e Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {i6k9HVan8ryCYYcy9R6okH}, contentHash: {d8803b}}
 
 [sequence]
 v1,v2,v3,v4

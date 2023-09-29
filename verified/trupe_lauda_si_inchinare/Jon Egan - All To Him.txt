@@ -1,5 +1,5 @@
 [title]
-Numai Lui {alternative: {All to Him}, composer: {Mia Fieldes, Jon Egan & Jason Ingram}, writer: {Emil Cuc, trad.}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188632}, id: {3TXJMxy2sswTt29GYLcBbb}, contentHash: {313e18}}
+Numai Lui {alternative: {All to Him}, composer: {Mia Fieldes}, writer: {Emil Cuc}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188632}, id: {3TXJMxy2sswTt29GYLcBbb}, contentHash: {3ebc1e}}
 
 [sequence]
 v1,c,v2,c,b,c

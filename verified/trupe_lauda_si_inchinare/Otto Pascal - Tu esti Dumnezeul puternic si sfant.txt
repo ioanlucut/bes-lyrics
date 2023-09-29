@@ -1,5 +1,5 @@
 [title]
-Tu ești Dumnezeul puternic și sfânt {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {233638}, id: {cpTkrJj7yiUURQ8nxb2mqd}, contentHash: {91a82e}}
+Tu ești Dumnezeul puternic și sfânt {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {233638}, id: {cpTkrJj7yiUURQ8nxb2mqd}, contentHash: {ce1739}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

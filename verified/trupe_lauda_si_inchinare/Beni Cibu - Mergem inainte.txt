@@ -1,5 +1,5 @@
 [title]
-Mergem înainte! {alternative: {*}, composer: {Beni Cibu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172538}, id: {xdKj5YtPvdHfzMcNqnwm4o}, contentHash: {e609c9}}
+Mergem înainte! {alternative: {*}, composer: {Beni Cibu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172538}, id: {xdKj5YtPvdHfzMcNqnwm4o}, contentHash: {2ffdf8}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

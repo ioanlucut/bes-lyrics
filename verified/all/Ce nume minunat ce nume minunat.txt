@@ -1,5 +1,5 @@
 [title]
-Ce Nume minunat, ce Nume minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8Y8HXgGV39WoitjCtkRKCb}, contentHash: {a743a8}}
+Ce Nume minunat, ce Nume minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8Y8HXgGV39WoitjCtkRKCb}, contentHash: {fede44}}
 
 [sequence]
 v1,c,v1,c

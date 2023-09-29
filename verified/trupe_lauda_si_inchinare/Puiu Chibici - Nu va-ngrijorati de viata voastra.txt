@@ -1,5 +1,5 @@
 [title]
-Nu vă-ngrijorați de viața voastră {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {107771}, id: {nWJjm6ERqn6UBcWj4H1LtQ}, contentHash: {57b827}}
+Nu vă-ngrijorați de viața voastră {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {107771}, id: {nWJjm6ERqn6UBcWj4H1LtQ}, contentHash: {a546c7}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Doar harul Tău m-a mântuit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {Teo Family}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {p4JF3qJJGxtJoZYwUdUX4X}, contentHash: {edb9ae}}
+Doar harul Tău m-a mântuit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {Teo Family}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {p4JF3qJJGxtJoZYwUdUX4X}, contentHash: {e55a4a}}
 
 [sequence]
 v1,c,v2,v3,v4
