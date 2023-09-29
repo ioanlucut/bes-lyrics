@@ -1,8 +1,8 @@
 [title]
-Test Ignore me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {aab24e}}
+Test Ignore me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {4fbf0b}}
 
 [sequence]
-v1.1,v1.2,v2,v3
+v1.1,v1.2,v1.3,v2,v3
 
 [v1.1]
 space-not-expected-before țtext
@@ -18,6 +18,8 @@ space-not-expected-before ștext
 space-not-expected-before Ătext
 space-not-expected-before Țtext
 space-not-expected-before țtext
+
+[v1.3]
 space-not-expected-before -text
 space-not-expected-before ’text
 space-not-expected-before ”text
