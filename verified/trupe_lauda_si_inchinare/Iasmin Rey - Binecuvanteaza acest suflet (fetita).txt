@@ -1,5 +1,5 @@
 [title]
-Binecuvântează acest suflet (fetita) {alternative: {*}, composer: {Iasmin Rey}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221299}, id: {igHe54hyvESsHNSQoMXYqj}, contentHash: {bfd409}}
+Binecuvântează acest suflet (fetita) {alternative: {*}, composer: {Iasmin Rey}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221299}, id: {igHe54hyvESsHNSQoMXYqj}, contentHash: {da6e23}}
 
 [sequence]
 v1,v2,c,v3,c,v4,b,c

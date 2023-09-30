@@ -23,6 +23,7 @@ const getCleanVersion = (title: string) => {
     .replaceAll(';', EMPTY_STRING)
     .replaceAll('?', EMPTY_STRING)
     .replaceAll('’', EMPTY_STRING)
+    .replaceAll('‘', EMPTY_STRING)
     .replaceAll('”', EMPTY_STRING)
     .replaceAll('„', EMPTY_STRING)
     .replaceAll('„', EMPTY_STRING)
