@@ -1,5 +1,5 @@
 [title]
-Nu vă mai gândiți la ce a fost ‘nainte {alternative: {*}, composer: {Nicu Clipa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195513}, id: {9hCRCwH45EQYapqs8Vo4bU}, contentHash: {42f05a}}
+Nu vă mai gândiți la ce a fost ‘nainte {alternative: {*}, composer: {Nicu Clipa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195513}, id: {9hCRCwH45EQYapqs8Vo4bU}, contentHash: {cb78d7}}
 
 [sequence]
 v1,v2,c,v3,c,b,c
@@ -40,4 +40,4 @@ Eu voi face lucruri noi!
 /: Atunci șchiopii vor sări,
 Orbii vor vedea,
 Surzii vor auzi,
-Iar cu glasul lor cei muți va cânta! :/
+Iar glasul celor muți va cânta! :/
