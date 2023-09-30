@@ -1,0 +1,36 @@
+[title]
+Doamne, Tu ce miști chiar munții {alternative: {Mighty to Save; Măreț Salvator}, composer: {Ben Fielding & Reuben Morgan}, writer: {Ben Fielding & Reuben Morgan}, arranger: {*}, interpreter: {*}, band: {Hillsong Worship}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225867}, id: {5osVKqjcDmjm3YVXps7YEJ}, contentHash: {597b89}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Toți avem nevoie
+De dragoste curată,
+Prin mila Ta de sus.
+Cu toții vrem iertare
+Și bunătatea-Ți mare,
+Speranța lumii
+
+[c]
+Doamne, Tu ce miști chiar munții,
+Ești un măreț Salvator,
+Ești măreț Salvator!
+Veșnic, ai dat salvare lumii
+Și-ai înviat dintre morți,
+Înviat dintre morți.
+
+[v2]
+Primește-mă cum sunt,
+Eu las la Crucea Ta
+Povara mea cea grea.
+Îți dau viața-ntreagă,
+Tot ce eu trăiesc,
+Mă dăruiesc azi.
+
+[b]
+Lasă gloria peste-ntreg pământ,
+Cântă pentru slava
+Celui veșnic sfânt, Doamne!
+Lasă gloria peste-ntreg pământ,
+Cântă pentru slava Celui veșnic sfânt.

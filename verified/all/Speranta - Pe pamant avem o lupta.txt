@@ -1,0 +1,53 @@
+[title]
+Pe pământ avem o luptă {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6314}, id: {kp881qCrkLwF4SJKHAWRut}, contentHash: {b36798}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
+
+[v1.1]
+Pe pământ avem o luptă
+Ce-n Cuvânt e arătată,
+Lupta credinței sfântă
+Ce de Domnul e trasată.
+
+[v1.2]
+Să luptăm cu râvnă mare
+Până Domnul va veni
+Căci prin orice încercare,
+Doar luptând vom birui.
+
+[c1.1]
+/: Hai, luptă, frate, luptă,
+Mai luptă, nu te da bătut!
+Spre țara luminii, înainte,
+Cu râvnă și avânt.
+
+[c1.2]
+Stai treaz și veghează întruna,
+Până în zori de zi.
+Atunci primi-vei cununa
+Când Domnul va veni. :/
+
+[v2.1]
+Pregătiți să fim de luptă,
+Scutul credinței să-l avem,
+Cu sabia Duhului ’nainte,
+În Domnul să ne-ncredem.
+
+[v2.2]
+Platoșa neprihănirii
+Să fie de-a pururi cu noi.
+Pe cap coiful mântuirii
+Și râvna Evangheliei.
+
+[v3.1]
+În slavă eternă vor fi
+Acei ce au învins
+Și Domnul ne va da răsplata,
+Așa cum ne-a promis.
+
+[v3.2]
+Veșnicia e aproape,
+Curând Isus va reveni.
+Când zorile vor apărea,
+Lupta se va sfârși.

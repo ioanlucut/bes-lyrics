@@ -1,0 +1,34 @@
+[title]
+Dragostea, ce fericire dă! {alternative: {*}, composer: {Călin Lela & Diana Vuculescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {p6jCoS3Q9DMhnxCAwgiAu7}, contentHash: {342d60}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,e
+
+[v1]
+Un răspuns dorit-am să primesc:
+„De ce-i dragostea lăsată pe pământ?”
+Am început în juru-mi să privesc,
+Dar parcă toate au tăcut mormânt.
+
+[c]
+Ea e dragostea, ce fericire dă
+/: Și-un sens în viața noastră. :/
+Nu se mânie, nu se laudă,
+/: Nimic în schimb nu o să ceară. :/
+
+[v2]
+Vedem ca într-o oglindă
+În chip întunecos și doar în parte,
+Când a apărut ea, dragostea,
+Pe culmi de fericire să mă poarte.
+
+[v3]
+Ea e dragostea, ce crede totul,
+Ce nu se umflă de mândrie,
+Când toate vor vedea sfârșitul.
+Ea, dragostea, va domni în veșnicie.
+
+[e]
+Dragostea,
+/: Nimic nu o să ceară, :/
+Dragostea!

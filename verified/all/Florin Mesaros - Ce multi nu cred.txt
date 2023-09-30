@@ -1,0 +1,29 @@
+[title]
+Ce mulți nu cred {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158410}, id: {c3bvNc673x5ATRea8tenRs}, contentHash: {77e14f}}
+
+[sequence]
+v1,c,b,c
+
+[v1]
+Ce mulți nu cred în Tine, Doamne,
+Ce mulți nu cred că Tu exiști,
+Ce mulți au vorbele deșarte,
+Ce mulți au ochii tot închiși.
+Dar eu le spun, că sus, în ceruri,
+O, Doamne, Tu ești veghetor.
+Le spun că mi-ai dat mântuirea,
+Tu ești al lumii Creator.
+
+[b]
+E Domnul meu, ce mă iubește,
+Cum aș putea eu, să nu cred?
+
+[c]
+/: Când peste ochi El toarnă lacrimi,
+Când pune-n inimă fior
+Și dragostea Lui, îmi dă aripi,
+El îmi dă pacea din izvor!
+Și soarele răsare, iarăși,
+Și-n jurul meu e plin de flori,
+Cum să nu cred ce spune cerul?
+Cum să nu cred ce-i scris în nori? :/

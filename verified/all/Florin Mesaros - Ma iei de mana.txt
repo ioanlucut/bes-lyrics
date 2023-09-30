@@ -1,0 +1,43 @@
+[title]
+Mă iei de mână {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158385}, id: {hnkHUAWZ68piMShJNkqbmC}, contentHash: {7dde15}}
+
+[sequence]
+v1.1,v1.2,v1.3,c,v2.1,v2.2,c
+
+[v1.1]
+În toate se vede-a Ta îndurare,
+Și dragostea-Ți, toate o șoptesc.
+Iar stelele-mi spun, ce mare și bun,
+Ești, Tu, Doamne!
+
+[v1.2]
+În mâna Ta stă tot pământul,
+În fața Ta totul e gol.
+Tu toate le știi, dureri, bucurii,
+Tu-mi știi gândul!
+
+[v1.3]
+Tu ești mereu cu mine, mereu pe drumul meu.
+Și-atunci când totul pare greu,
+Totul pare greu și-atunci când parcă simt,
+Că Doamne, nu mai pot.
+
+[c]
+/: Mă iei de mână,
+Mă duci în Casa Ta, Doamne Sfânt!
+Mă ții de mână,
+Îmi spui că prin Tine voi birui! :/
+
+[v2.1]
+Și peste anii ce-au trecut,
+Mereu cu mine ai fost,
+Când rătăcit băteam ades,
+La porți ce nu aveau rost.
+
+[v2.2]
+În vremuri grele ce-au trecut,
+Mereu m-ai mângâiat,
+Doar lângă Tine, m-ai ținut,
+Că Doamne, Tu ai vrut.
+Și-n fiecare clipă, o, Doamne, Tu mă pui,
+În brațul Tău, cum altul nu-i!

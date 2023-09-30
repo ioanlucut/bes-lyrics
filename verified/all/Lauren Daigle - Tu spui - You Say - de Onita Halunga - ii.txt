@@ -1,0 +1,27 @@
+[title]
+Tu spui {alternative: {You Say - de Onita Halunga}, composer: {Lauren Daigle}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {7ZzbX5dNTtMuShFfGMXMH8}, contentHash: {cde4e6}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Voci deșarte-n jur mereu îmi spun că nu aș fi-ndeajuns.
+Sunt minciuni ce vor să cred că n-o să mă ridic nicicum.
+Însumând orice suiș, cu-orice cădere-n care-am fost,
+Amintește-mi, înc-odată, cine sunt, nu mă cunosc.
+
+[c]
+Tu spui că sunt iubit, când nu mai simt nimic,
+Tu spui că sunt viteaz atunci când sunt slăbit.
+Când gata sunt să cad, mâna Ta e-n prag,
+Când nu-mi mai aparțin, al Tău voiești să fiu.
+Și da, eu cred, da, eu cred ceea ce-mi vorbești!
+Da, eu cred!
+
+[v2]
+Tot ce vreau și ce contează-i ce crezi, Isus, despre min’,
+După-asemănarea-Ți m-ai creat, valoarea Tu mi-o știi.
+
+[v3]
+Tot ce am și tot ce sunt la picioare Îți aduc
+Și-n eșec prin voia Ta, Doamne-mi dai victoria!

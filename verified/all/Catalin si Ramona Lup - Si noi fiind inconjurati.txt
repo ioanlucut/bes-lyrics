@@ -1,0 +1,61 @@
+[title]
+Și noi fiind înconjurați {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190352}, id: {rfDkUZztPzBebwBdDY1gbX}, contentHash: {1822cb}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Și noi, fiind înconjurați
+De-un nor așa de martori
+/: Să-nlăturăm orice păcat,
+Privind spre malul celălalt,
+Așa creștinii au luptat,
+Ei nu s-au dat în lături. :/
+
+[v2]
+Să le urmăm c-un dor nespus
+Credința lor supremă,
+/: Căci au luptat și au învins,
+Creștinii noștri ce s-au stins,
+De dorul Lui au fost cuprinși,
+Mergeau cântând pe-arene. :/
+
+[v3]
+Când legile i-amenințau
+Și-atunci ei n-aveau frică.
+/: Când fiarele le slobozeau,
+Pe mici și mari îi sfâșiau,
+Dar ei de dor mai mult ardeau,
+Nici de-asta n-aveau frică. :/
+
+[v4]
+De foame istoviți, de frig,
+Ei pribegeau departe.
+/: Prin munți și peșteri alungați,
+Prin temniță în fier legați,
+Lovit mai crud și-amenințați,
+De Domnul nu-i desparte. :/
+
+[v5]
+Cântau al mântuirii cânt,
+Mergând pe orice cale
+/: Și-atuncea când intrau pe rând,
+În subterane toți cântând,
+Celui ce zice „Vin curând,
+Vegheați în așteptare”! :/
+
+[v6]
+Căci am să vin ca și un hoț
+În noaptea cea târzie.
+/: Vegheați, păziți ale Mele porți
+Și atunci Eu n-am să vin ca hoț
+Când voi striga la voi, la toți:
+„Mireasa Mea să vină!” :/
+
+[v7]
+În vremea ce ne-a mai rămas
+Să stăm în așteptare
+/: Și înapoi, nu, niciun pas!
+’Nainte!, să nu dăm răgaz,
+Căci vine Mirele, chiar azi
+Să Îi cântăm Osana. :/

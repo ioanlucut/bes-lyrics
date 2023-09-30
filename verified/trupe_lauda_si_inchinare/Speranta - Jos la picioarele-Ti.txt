@@ -1,0 +1,18 @@
+[title]
+Jos la picioarele-Ți {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3799}, id: {gq1j3inLxfunMNQiBE2avV}, contentHash: {f2c779}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+/: Jos la picioarele-Ți
+Stau adânc plecat,
+În prezența Ta sunt îngenuncheat,
+Sunt îngenuncheat! :/
+
+[c]
+/: Nu-i chemare mai mare,
+Nu-i altă onoare
+Decât să îngenunchez la tronul Tău.
+Copleșit de uimire, scăldat în iubire,
+Eu trăiesc doar pentru-a Te lăuda. :/

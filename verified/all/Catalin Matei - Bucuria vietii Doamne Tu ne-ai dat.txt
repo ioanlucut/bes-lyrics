@@ -1,0 +1,41 @@
+[title]
+Bucuria vieții, Doamne, Tu ne-ai dat {alternative: {*}, composer: {Cătălin Matei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59400}, id: {dKanb4waNvh9v9MRHahY3q}, contentHash: {7c2de6}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Bucuria vieții, Doamne, Tu ne-ai dat.
+Prin jertfa Ta sfântă, ne-ai răscumpărat.
+Multe suferințe, chinuri și dureri
+Le-ai schimbat, Isuse-n sfinte mângâieri.
+
+[c]
+Să vindece rana, să ridice povara,
+Nu-i nimeni așa ca Isus!
+Cu mâna Sa bună, pe-oricine alină,
+Nu-i nimeni așa ca Isus.
+
+[v2]
+Lacrimi de durere fața Ți-au brăzdat
+Când răbdai pe cruce sus, crucificat,
+Sfântă mulțumire lumii ai adus,
+Pace și iertare oricărui păcătos.
+
+[v3]
+Sufletul îmi plânge de iubirea Ta,
+Mulțumiri Ți-aducem azi și pururea,
+Orice clipă-n viață să o folosim
+Și-n lucrarea sfântă toți să ne unim.
+
+[v4]
+Pân-atunci, Isuse, când vei reveni,
+Ajută-ne, Doamne, să ne pregătim,
+Când pe nori de slavă Tu vei apărea
+Să răpești la Tine, sus, Mireasa Ta.
+
+[v5]
+Bucurie mare va fi-atunci în cer
+Căci vom fi tot timpul cu Emanuel.
+N-o mai fi durere, n-o mai fi suspin,
+Căci va fi tot timpul pace pe deplin.

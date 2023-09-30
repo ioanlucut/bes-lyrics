@@ -1,0 +1,41 @@
+[title]
+Mereu ești cu mine, Isus {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {159315}, id: {ocXPy4TP3U4AWt1g3fbK8R}, contentHash: {6a7476}}
+
+[sequence]
+v1,b,c,v2,b2,c,e
+
+[v1]
+Lângă Domnul aș vrea să rămân pe vecie,
+El e pur adăpost pentru viața mea!
+Eu adorm liniștit, știu că El e cu mine,
+Mă trezesc căutând iar prezența Sa!
+
+[b]
+Prin valea umbrei morții ești cu mine,
+Dar și în Cer cu Tine voi umbla!
+
+[c]
+În orice zi, la orice pas,
+Vreau să fiu mai aproape de inima Ta!
+Când Tu ești tot ce mi-a rămas,
+Harul Tău îmi este-ndeajuns!
+Mi-ai dat curaj să nu mă las,
+Chiar când lupta e mare, aud vocea Ta,
+Mă sprijinești în clipa grea,
+Mereu ești cu mine, Isus!
+
+[v2]
+Gândul meu e mereu să m-apropii de Tine,
+Să-nțeleg planul Tău pentru viața mea!
+Dintre mii de păreri, vreau să-aleg ce e bine,
+Călăuză Tu ești pe cărarea mea!
+
+[b2]
+Revarsă astăzi Duhul Tău în mine,
+Și calea Ta, eu bine voi vedea!
+
+[e]
+/: Chiar lovit de-aș fi, nimic nu mă va despărți
+De mare dragostea Ta!
+Prin Valea Plângerii privirea mi-o voi ridica,
+Tu ești de partea mea! :/
