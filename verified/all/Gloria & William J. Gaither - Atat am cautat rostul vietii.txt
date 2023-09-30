@@ -5,7 +5,7 @@ Atât am căutat rostul vieții {alternative: {*}, composer: {Gloria & William J
 v1,c,v2,c,v3,c
 
 [v1]
-Atât am căutat rostul vieții.
+Atât am căutat rostul vieții
 C-am ajuns rob acestei căutări,
 Dar Isus mi-a deschis orizont spre Calvar,
 Loc de har și de mari îndurări.
