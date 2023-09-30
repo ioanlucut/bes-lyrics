@@ -1,5 +1,5 @@
 [title]
-Test Ignore me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {c8f057}}
+Test Ignore me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {1482a1}}
 
 [sequence]
 v1.1,v1.2,v1.3
@@ -17,7 +17,7 @@ space-not-expected-before Țtext
 space-not-expected-before țtext
 space-not-expected-before -text
 space-not-expected-before ’text
-space-not-expected-before ‘text
+space-not-expected-before ’text
 space-not-expected-before ”text
 space-not-expected-before „text
 
@@ -34,7 +34,7 @@ textȚ single-space-expected-after-this
 textț single-space-expected-after-this
 text- single-space-expected-after-this
 text’ single-space-expected-after-this
-text‘ single-space-expected-after-this
+text’ single-space-expected-after-this
 text” single-space-expected-after-this
 text„ single-space-expected-after-this
 
@@ -51,6 +51,6 @@ end-of-line-works-without-extra-space-textȚ
 end-of-line-works-without-extra-space-textț
 end-of-line-works-without-extra-space-text-
 end-of-line-works-without-extra-space-text’
-end-of-line-works-without-extra-space-text‘
+end-of-line-works-without-extra-space-text’
 end-of-line-works-without-extra-space-text”
 end-of-line-works-without-extra-space-text„

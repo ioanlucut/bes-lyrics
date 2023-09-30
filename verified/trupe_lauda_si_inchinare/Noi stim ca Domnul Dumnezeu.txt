@@ -1,5 +1,5 @@
 [title]
-Noi știm că Domnul Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {i82fwFspY5dvQZu8ebTeZv}, contentHash: {f71cd1}}
+Noi știm că Domnul Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {i82fwFspY5dvQZu8ebTeZv}, contentHash: {ece6d0}}
 
 [sequence]
 v1,p,c,v2,p,c,b,v3,c
@@ -12,7 +12,7 @@ Bun și-ndurător, din cer ne-ascultă.
 
 [p]
 Către El noi vom privi,
-Ochii ni-i vom aținti.
+Ochii ne vom aținti.
 
 [c]
 Cetate tare-i Dumnezeu,
@@ -28,7 +28,7 @@ Mai sus de ceruri e-ntronat,
 
 [b]
 Către El noi vom privi,
-Ochii ni-i vom aținti,
+Ochii ne vom aținti,
 Inimile vom lăsa
 Cuprinse de iubirea Sa.
 

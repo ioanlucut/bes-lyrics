@@ -1,5 +1,5 @@
 [title]
-Nu vă mai gândiți la ce a fost ’nainte {alternative: {*}, composer: {Nicu Clipa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195513}, id: {9hCRCwH45EQYapqs8Vo4bU}, contentHash: {42f05a}}
+Nu vă mai gândiți la ce a fost ’nainte {alternative: {*}, composer: {Nicu Clipa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195513}, id: {9hCRCwH45EQYapqs8Vo4bU}, contentHash: {7d0d37}}
 
 [sequence]
 v1,v2,c,v3,c,b,c
@@ -29,8 +29,8 @@ Națiuni vor cunoaște căile Mele.
 Iată, Eu voi face, Eu voi face lucruri noi!
 
 [v3]
-Spuneți celor slabi,
-Fiți tari și nu vă temeți,
+Spuneți celor slabi:
+„Fiți tari și nu vă temeți!”
 Mâinile-ntăriți,
 În Mine vă încredeți,
 Iată, Eu voi face,

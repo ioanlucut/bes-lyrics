@@ -131,6 +131,7 @@ Caracterele pe care le putem folosi sunt foarte importante, așa că am definit 
 
 Întrucât sunt foarte multe versiuni ale caracterelor e.g. `ş` în loc de `ș`, e nevoie să folosim aceleași caractere cu
 același format unicode. Un exemplu de variațiuni poate fi văzut aici: https://www.compart.com/en/unicode/U+201D.
+
 > Detalii despre `‘’` poți să găsești și aici: https://github.com/ioanlucut/bes-lyrics/issues/105.
 
 #### Dacă vrei să imporți cântece din resurse creștine

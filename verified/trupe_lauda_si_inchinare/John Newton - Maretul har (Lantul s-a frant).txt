@@ -1,5 +1,5 @@
 [title]
-Mărețul har (Lanțul s-a frânt) {alternative: {*}, composer: {John Newton}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4490}, id: {r9D7zp45VXBgajrY4dAUJU}, contentHash: {85cc91}}
+Mărețul har (Lanțul s-a frânt) {alternative: {*}, composer: {John Newton}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4490}, id: {r9D7zp45VXBgajrY4dAUJU}, contentHash: {73b1ea}}
 
 [sequence]
 v1,v2,c,v3,v4,c,e
@@ -20,7 +20,7 @@ Trăiesc prin El mereu. :/
 /: Lanțul s-a frânt, azi liber sunt,
 Răscumpărat prin sânge sfânt
 Și-n mila Sa, mi-a dat în dar,
-Iubirea Lui, Mărețul Har. :/
+Iubirea Lui, mărețul har. :/
 
 [v3]
 Dureri, batjocuri, prigoniri,
@@ -35,4 +35,4 @@ Cu slavă îmbrăcat,
 Pe Cel ce har mi-a dat. :/
 
 [e]
-/: Iubirea Lui, Mărețul Har. :/
+/: Iubirea Lui, mărețul har. :/

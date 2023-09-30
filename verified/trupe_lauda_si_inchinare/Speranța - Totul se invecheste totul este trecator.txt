@@ -1,5 +1,5 @@
 [title]
-Totul se învechește, totul este trecător {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7176}, id: {h9YCcKQvAi1GFypYdbcPeM}, contentHash: {27cabd}}
+Totul se învechește, totul este trecător {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7176}, id: {h9YCcKQvAi1GFypYdbcPeM}, contentHash: {76aa54}}
 
 [sequence]
 c,v1,c,v2,c,v3,c
@@ -19,7 +19,7 @@ Dumnezeu în veci va domni!
 [v2]
 Se duce avuția repede ca vântul,
 Se duce bogăția ca gândul.
-Mai iute că săgeata anii au zburat,
+Mai iute ca săgeata anii au zburat,
 Dar Dumnezeu rămâne neschimbat!
 
 [v3]
