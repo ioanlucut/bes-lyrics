@@ -1,5 +1,5 @@
 [title]
-Biruitor in pustiu {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187782}, id: {hECwjFxyxAYKARJgxDaDJ7}, contentHash: {9038f3}}
+Biruitor in pustiu {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187782}, id: {hECwjFxyxAYKARJgxDaDJ7}, contentHash: {2b8d87}}
 
 [sequence]
 v1,v2,v3,v4,v5,c,v6,c,v7,c,e
@@ -45,7 +45,7 @@ El încă e-n pustiu cu noi.
 În sângele Mielului.
 
 [v6]
-Astăzi și tu ești în pustu,
+Astăzi și tu ești în pustiu,
 Ai flămânzit și simți că pleci.
 Domnul putere-ți dă și ție
 Și celui rău poți să îi poruncești!

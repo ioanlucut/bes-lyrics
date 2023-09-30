@@ -1,5 +1,5 @@
 [title]
-Slava e a Ta {alternative: {Yours}, composer: {Chris Brown}, writer: {Chris Brown}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {201507}, id: {k7scbRYnuuQ5UvFMkKJSnN}, contentHash: {1baf06}}
+Slava e a Ta {alternative: {Yours}, composer: {Chris Brown}, writer: {Chris Brown}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {201507}, id: {k7scbRYnuuQ5UvFMkKJSnN}, contentHash: {cca266}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -23,7 +23,7 @@ Acel ce-ai fost,
 Ești și vei fii,
 Domn, în orice vreme.
 În veci pe tron, Cel Înălțat
-Sfânt doar Tu esti Rege!
+Sfânt doar Tu ești Rege!
 
 [v3]
 /: Glorie în veci, ne închinăm!

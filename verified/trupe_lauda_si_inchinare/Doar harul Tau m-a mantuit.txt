@@ -1,5 +1,5 @@
 [title]
-Doar harul Tău m-a mântuit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {Teo Family}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {p4JF3qJJGxtJoZYwUdUX4X}, contentHash: {e55a4a}}
+Doar harul Tău m-a mântuit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {Teo Family}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {p4JF3qJJGxtJoZYwUdUX4X}, contentHash: {9428b6}}
 
 [sequence]
 v1,c,v2,v3,v4
@@ -13,7 +13,7 @@ Cu braț puternic, m-a dezlegat.
 [c]
 Doar harul Tău mi-a adus
 Mântuire, vindecare prin Isus,
-Doar harul Tău mia-a adus,
+Doar harul Tău mi-a adus,
 În Numele lui Isus iertare.
 
 [v2]
