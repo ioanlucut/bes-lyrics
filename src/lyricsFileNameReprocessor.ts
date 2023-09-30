@@ -1,4 +1,4 @@
-import { isEqual, trim, uniq } from 'lodash-es';
+import { find, isEmpty, isEqual, negate, trim, uniq } from 'lodash-es';
 import {
   COLON,
   COMMA,
@@ -79,11 +79,16 @@ export const deriveFromTitle = (titleContent: string) => {
 
   return `${uniq(
     [
-      getSectionBy(SongMeta.BAND),
-      getSectionBy(SongMeta.INTERPRETER),
-      getSectionBy(SongMeta.COMPOSER),
-      getSectionBy(SongMeta.WRITER),
-      getSectionBy(SongMeta.ARRANGER),
+      find(
+        [
+          getSectionBy(SongMeta.BAND),
+          getSectionBy(SongMeta.INTERPRETER),
+          getSectionBy(SongMeta.COMPOSER),
+          getSectionBy(SongMeta.WRITER),
+          getSectionBy(SongMeta.ARRANGER),
+        ],
+        negate(isEmpty),
+      ),
       trim(getCleanVersion(title)),
       getSectionBy(SongMeta.ALTERNATIVE),
       getSectionBy(SongMeta.VERSION),

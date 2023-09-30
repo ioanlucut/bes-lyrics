@@ -1,5 +1,5 @@
 [title]
-Te-am văzut pe Calvar {alternative: {*}, composer: {Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {115690}, id: {2KiTqZSLaGrpZznretvPqn}, contentHash: {08ced6}}
+Te-am văzut pe Calvar {alternative: {*}, composer: {Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {115690}, id: {2KiTqZSLaGrpZznretvPqn}, contentHash: {2ba233}}
 
 [sequence]
 v1.1,v1.2,v1.3,v1.4,v1.5,c1.1,c1.2,v2.1,v2.2,v2.3,v2.4,c1.1,c1.2,b,c1.1,c1.2
@@ -19,7 +19,7 @@ De-o povară ce nimeni
 N-o poate lua.
 
 [v1.3]
-Când blând, smerit ca un miel
+Când blând, smerit ca un Miel
 Ai fost ‘junghiat,
 Te-am văzut, Isuse,
 Te-am văzut mergând.
