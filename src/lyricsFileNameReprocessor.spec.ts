@@ -47,14 +47,22 @@ describe('lyricsFileNameReprocessor', () => {
 deriveFromTitle(
 'My main title {alternative: { alternative 1; alternative 2 }, composer: {composer 1; composer 2}, writer: {writer 1; writer 2}, arranger: {arranger 1;arranger 2}, interpreter: {interpreter 1;interpreter 2}, band: {band 1;band 2}, key: {*}, tempo: {*}, tags: {tags 1; tags 2}, version: {ii}, genre: {genre 1; genre 2}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}')).
 
-toMatchInlineSnapshot(`"composer 1 - composer 2 - writer 1 - writer 2 - arranger 1 - arranger 2 - band 1 - band 2 - interpreter 1 - interpreter 2 - My main title - alternative 1 - alternative 2 - ii.txt"`);
+toMatchInlineSnapshot(`"band 1 - band 2 - interpreter 1 - interpreter 2 - composer 1 - composer 2 - writer 1 - writer 2 - arranger 1 - arranger 2 - My main title - alternative 1 - alternative 2 - ii.txt"`);
   });
 
   it('should work correctly - when all meta fields are there with missing data', () => {
     expect(
 deriveFromTitle(
-'Any title {alternative: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, title: {ANY_title}, version: {ANY_version}, writer: {ANY_writer}}')).
+'Any title {alternative: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, version: {ANY_version}, writer: {ANY_writer}}')).
 
-toMatchInlineSnapshot(`"ANY_composer - ANY_writer - ANY_arranger - ANY_band - ANY_interpreter - Any title - ANY_alternative - ANY_version.txt"`);
+toMatchInlineSnapshot(`"ANY_band - ANY_interpreter - ANY_composer - ANY_writer - ANY_arranger - Any title - ANY_alternative - ANY_version.txt"`);
+  });
+
+  it('should remove duplicates', () => {
+    expect(
+deriveFromTitle(
+'Any title {alternative: {Any title}, arranger: {SAME}, band: {ANY_band}, composer: {SAME}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {SAME}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, version: {ANY_version}, writer: {ANY_writer}}')).
+
+toMatchInlineSnapshot(`"ANY_band - SAME - ANY_writer - Any title - ANY_version.txt"`);
   });
 });
