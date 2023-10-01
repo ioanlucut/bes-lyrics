@@ -10,6 +10,7 @@ const getRegexNotMatchingStartOfALine = (text: string) =>
  */
 export const reprocess = (songContent: string) =>
   songContent
+
     // Not at the beginning of the line
     .replaceAll(getRegexNotMatchingStartOfALine('Nici o'), 'Nicio')
     .replaceAll(getRegexNotMatchingStartOfALine('nici o'), 'nicio')
@@ -21,6 +22,7 @@ export const reprocess = (songContent: string) =>
     .replaceAll(getRegexNotMatchingStartOfALine('Lui Isus'), 'lui Isus')
     .replaceAll(getRegexNotMatchingStartOfALine('Lui Hristos'), 'lui Hristos')
     .replaceAll(getRegexNotMatchingStartOfALine('Lui Mesia'), 'lui Mesia')
+
     // Always
     .replaceAll('doamne', 'Doamne')
     .replaceAll('domnul', 'Domnul')
@@ -30,6 +32,9 @@ export const reprocess = (songContent: string) =>
     .replaceAll('isuse', 'Isuse')
     .replaceAll('mesia', 'Mesia')
     .replaceAll('miel', 'Miel')
+    .replaceAll('Cristosul', 'Hristosul')
+    .replaceAll('Cristos', 'Hristos')
+
     // Special chars
     .replaceAll('ş', 'ș')
     .replaceAll('Ş', 'Ș')

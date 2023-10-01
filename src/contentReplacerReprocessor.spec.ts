@@ -21,25 +21,25 @@ mesia
 …
 `),
     ).toMatchInlineSnapshot(`
-      "
-      ș
-      ț
-      Doamne
-      Domnul
-      duhul
-      Dumnezeu
-      Golgota
-      Isus
-      Isuse
-      Mesia
-      ...
-      "
-    `);
+"
+ș
+ț
+Doamne
+Domnul
+duhul
+Dumnezeu
+Golgota
+Isus
+Isuse
+Mesia
+...
+"
+`);
   });
 
   it('should correctly rewrite "nici o" & friends text', () => {
     expect(
-reprocess(`
+      reprocess(`
 Nici o
 Nici un
 nici o
@@ -59,8 +59,8 @@ nici oX
 nici unX
 nici unaX
 …
-`)).
-toMatchInlineSnapshot(`
+`),
+    ).toMatchInlineSnapshot(`
 "
 Nici o
 Nici un
