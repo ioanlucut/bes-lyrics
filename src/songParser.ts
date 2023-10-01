@@ -16,8 +16,17 @@ import { COMMA, EMPTY_STRING, UNSET_META } from './constants.js';
  * It's important to note that the song should be valid.
  *
  * @param songAsString The content of the song
+ * @param ignoreUniquenessErrors if the uniqueness errors should be ignored
+ * if
  */
-export const parse = (songAsString: string) => {
+export const parse = (
+  songAsString: string,
+  {
+    ignoreUniquenessErrors,
+  }: {
+    ignoreUniquenessErrors?: boolean;
+  } = {},
+) => {
   const sectionTuples = getSongInSectionTuples(songAsString);
 
   const songAST = {
@@ -101,7 +110,9 @@ export const parse = (songAsString: string) => {
     }
   }
 
-  assertUniqueness(songAST.sectionOrder);
+  if (!ignoreUniquenessErrors) {
+    assertUniqueness(songAST.sectionOrder);
+  }
 
   return songAST;
 };

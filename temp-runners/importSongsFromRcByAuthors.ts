@@ -5,6 +5,8 @@ import fsExtra from 'fs-extra';
 import dotenv from 'dotenv';
 import recursive from 'recursive-readdir';
 import pMap from 'p-map';
+import { flatten } from 'lodash-es';
+import { fileURLToPath } from 'url';
 import { parse } from '../src/songParser.js';
 import { print } from '../src/songPrinter.js';
 import {
@@ -12,9 +14,6 @@ import {
   logProcessingFile,
   NEW_LINE,
 } from '../src/index.js';
-import { flatten } from 'lodash-es';
-
-import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -42,7 +41,11 @@ const readFiles = async (dir: string) =>
 const runFor = async (songsDirs: string[]) => {
   const allSongsInRepo = flatten(
     await Promise.all(songsDirs.map(readFiles)),
-  ).map(({ contentAsString }) => parse(contentAsString));
+  ).map(({ contentAsString }) =>
+    parse(contentAsString, {
+      ignoreUniquenessErrors: true,
+    }),
+  );
   const allRcIds = allSongsInRepo.map(({ rcId }) => rcId).filter(Boolean);
 
   await pMap(rcAuthorPathsToProcess, async (pathConfig) => {
@@ -50,12 +53,14 @@ const runFor = async (songsDirs: string[]) => {
     const dirToImportFrom = `${RC_DIR}/${authorPath}`;
     (await readFiles(dirToImportFrom)).forEach(
       ({ contentAsString, filePath, fileName }) => {
-        const rcSongAST = parse(contentAsString);
         logProcessingFile(
           fileName,
           `Import from RC from ${composer}; Counts: ${counts}.`,
         );
         logFileWithLinkInConsole(filePath);
+        const rcSongAST = parse(contentAsString, {
+          ignoreUniquenessErrors: true,
+        });
 
         if (allRcIds.includes(rcSongAST.rcId)) {
           console.log(
