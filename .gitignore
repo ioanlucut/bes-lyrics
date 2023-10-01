@@ -8,3 +8,5 @@ node_modules/
 **/*.out
 **/*.thm
 /.idea/aws.xml
+/.idea/cssdialects.xml
+/.idea/nx-console.xml
