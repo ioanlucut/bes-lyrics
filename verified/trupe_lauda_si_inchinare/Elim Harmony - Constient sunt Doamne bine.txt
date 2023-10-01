@@ -1,5 +1,5 @@
 [title]
-Conștient sunt, Doamne, bine {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71704}, id: {ufVKdicWUieCeyoC6aRVru}, contentHash: {fb2e57}}
+Conștient sunt, Doamne, bine {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71704}, id: {ufVKdicWUieCeyoC6aRVru}, contentHash: {54c309}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -18,7 +18,7 @@ Inima de Tin’ mi-e plină,
 Duhul Tău mi-alină orice dureri.
 Cu blândețe-mi ierți păcatul,
 Știu că mijlocești la Tatăl
-În acest an poate voi face rod.
+Acest an poate voi face rod.
 
 [c]
 /: Nu-nțeleg câtă iubire

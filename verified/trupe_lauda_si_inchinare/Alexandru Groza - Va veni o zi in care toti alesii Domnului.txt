@@ -1,5 +1,5 @@
 [title]
-Va veni o zi în care toți aleșii Domnului {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1550}, id: {bBLzuA3UhWRf4pwBfKt6bz}, contentHash: {6e3b2a}}
+Va veni o zi în care toți aleșii Domnului {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1550}, id: {bBLzuA3UhWRf4pwBfKt6bz}, contentHash: {0325be}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
@@ -7,35 +7,27 @@ v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
 [v1.1]
 Va veni o zi în care
 Toți aleșii Domnului
-Vor cânta un imn
-De slavă Mielului.
+Vor cânta un imn de slavă Mielului.
 
 [v1.2]
 Ziua aceea nu-i departe,
 Pregătiți-vă acum!
-Nu uitați că
-Ziua aceea e pe drum!
+Nu uitați că ziua aceea e pe drum!
 
 [c1.1]
-/: Ce minune va fi
-Când Domnul va veni
-Toți aleșii Domnului
-Cu El vor fi.
+/: Ce minune va fi când Domnul va veni,
+Toți aleșii Domnului cu El vor fi.
 
 [c1.2]
-Vei fi și tu acol’
-La masa Domnului?
-Pregătește-te,
-Că ziua e pe drum! :/
+Vei fi și tu acol’ la masa Domnului?
+Pregătește-te, că ziua e pe drum! :/
 
 [v2.1]
 După toată alergarea,
 Fericit vei fi și tu,
-Vei primi cununa
-Slavei lui Isus.
+Vei primi cununa slavei lui Isus.
 
 [v2.2]
 Deci, grăbește-te acuma,
 Până când mai este har,
-Nu lăsa să treacă
-Timpul în zadar.
+Nu lăsa să treacă timpul în zadar.

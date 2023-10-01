@@ -1,12 +1,12 @@
 [title]
-Gata-mi este inima să cânte {alternative: {*}, composer: {Claudia Danciu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7258}, id: {oPLW6Babjk29eTLBcBDATh}, contentHash: {5493e4}}
+Gata-mi este inima să cânte {alternative: {*}, composer: {Claudia Danciu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7258}, id: {oPLW6Babjk29eTLBcBDATh}, contentHash: {a82c1c}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
 Gata-mi este inima să cânte:
-Nu e nimeni ca Dumnezeu.
+Nu e nimenea ca Dumnezeu.
 Sufletul mi-e plin de bucurie,
 Laude Lui Îi voi cânta mereu.
 
