@@ -1,5 +1,5 @@
 [title]
-Sfânt Cuvânt din veșnicii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {244209}, id: {oy4LMyJ5xLxfvXzDKgyMho}, contentHash: {02a780}}
+Sfânt Cuvânt din veșnicii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {244209}, id: {oy4LMyJ5xLxfvXzDKgyMho}, contentHash: {47e47a}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -26,7 +26,7 @@ Să ascultăm de vocea Ta. :/
 Sfânt Cuvânt credincios,
 Toarnă-Ți harul glorios,
 Să purtăm victorios
-Chipul sfânt a lui Cristos.
+Chipul sfânt a lui Hristos.
 
 [v2.2]
 Sfânt Cuvânt, de viață plin,

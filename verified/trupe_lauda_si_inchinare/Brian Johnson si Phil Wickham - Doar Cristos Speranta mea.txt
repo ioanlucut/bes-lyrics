@@ -1,5 +1,5 @@
 [title]
-Doar Cristos, Speranța mea! {alternative: {*}, composer: {Brian Johnson și Phil Wickham}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {199137}, id: {uTxhLyXe6cYKc4mLNGs2v7}, contentHash: {abc980}}
+Doar Hristos, Speranța mea! {alternative: {*}, composer: {Brian Johnson și Phil Wickham}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {199137}, id: {uTxhLyXe6cYKc4mLNGs2v7}, contentHash: {101704}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c

@@ -1,5 +1,5 @@
 [title]
-Iubiți-vă unii pe alții {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {179563}, id: {8uPTwWTx9FFTfa7EMaGiLX}, contentHash: {578696}}
+Iubiți-vă unii pe alții {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {179563}, id: {8uPTwWTx9FFTfa7EMaGiLX}, contentHash: {1e77b3}}
 
 [sequence]
 v1,b,c,v2,b,c
@@ -25,4 +25,4 @@ Să spunem un sincer: te iubesc!
 Când un prieten cade sub povara grea,
 Nu-l privi cu silă, nu-l descuraja,
 Ci mai degrabă îmbracă haina de samaritean milos,
-Ca să fii cum e Cristos!
+Ca să fii cum e Hristos!
