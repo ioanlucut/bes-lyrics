@@ -47,7 +47,11 @@ const readFiles = async (dir: string) =>
 const runFor = async (songsDirs: string[]) => {
   const allSongsInRepo = flatten(
     await Promise.all(songsDirs.map(readFiles)),
-  ).map(({ contentAsString }) => parse(contentAsString));
+  ).map(({ contentAsString }) =>
+    parse(contentAsString, {
+      ignoreUniquenessErrors: true,
+    }),
+  );
   const allExistingRcIds = allSongsInRepo
     .map(({ rcId }) => rcId)
     .filter(Boolean);

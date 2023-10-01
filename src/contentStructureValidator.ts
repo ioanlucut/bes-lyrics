@@ -28,7 +28,7 @@ import {
 import assert from 'node:assert';
 
 const EXPECTED_SUB_SECTIONS_LENGTH = 2;
-const MAX_ALLOWED_SECTION_SIZE = 43;
+const MAX_ALLOWED_SECTION_SIZE = 50;
 
 const REGEX_SUPPLIERS = {
   [SequenceChar.VERSE]: () => getVerseRegex(),
