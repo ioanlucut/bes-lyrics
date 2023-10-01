@@ -1,5 +1,5 @@
 [title]
-Iehova, Dumnezeu {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78700}, id: {cKwBsKDDaaNevijZJZ9TwG}, contentHash: {3c117c}}
+Iehova, Dumnezeu {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78700}, id: {cKwBsKDDaaNevijZJZ9TwG}, contentHash: {14afb7}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3,c
@@ -7,7 +7,7 @@ v1.1,v1.2,c,v2.1,v2.2,c,v3,c
 [v1.1]
 Ești necuprins de timp și spațiu,
 De-orice gândire mai presus,
-Ești pretutindenea în toate
+Ești pretutindeni și în toate
 Și totuși, cât de nepătruns.
 
 [v1.2]
@@ -37,7 +37,7 @@ Ce ne dai pâine zi de zi
 
 [v3]
 În fața măreției Tale se-nchină orice muritor,
-Ți se înalță osanale, Atotputernic Creator.
+Ți se înalță osanale, atotputernic Creator.
 În toate voia Ta să fie,
 Sfințească-se Numele Tău,
 Vie a Ta Împărăție,

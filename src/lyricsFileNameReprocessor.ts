@@ -1,9 +1,11 @@
-import { isEqual, trim } from 'lodash-es';
+import { find, isEmpty, isEqual, negate, trim, uniq } from 'lodash-es';
 import {
   COLON,
   COMMA,
   EMPTY_STRING,
+  NAME_SEPARATOR,
   NULL,
+  SEMICOLON,
   TXT_EXTENSION,
   UNSET_META,
 } from './constants.js';
@@ -66,18 +68,30 @@ export const deriveFromTitle = (titleContent: string) => {
         {},
       ) as Record<SongMeta, string>) || {};
 
-  return `${[
-    isEqual(metaSections[SongMeta.COMPOSER], UNSET_META)
+  const getSectionBy = (metaKey: SongMeta) =>
+    isEqual(metaSections[metaKey], UNSET_META)
       ? NULL
-      : metaSections[SongMeta.COMPOSER],
-    trim(getCleanVersion(title)),
-    isEqual(metaSections[SongMeta.ALTERNATIVE], UNSET_META)
-      ? NULL
-      : getCleanVersion(metaSections[SongMeta.ALTERNATIVE]),
-    isEqual(metaSections[SongMeta.VERSION], UNSET_META)
-      ? NULL
-      : metaSections[SongMeta.VERSION],
-  ]
-    .filter(Boolean)
-    .join(' - ')}${TXT_EXTENSION}`;
+      : metaSections[metaKey]
+          ?.split(SEMICOLON)
+          ?.map(getCleanVersion)
+          ?.map(trim)
+          .join(NAME_SEPARATOR);
+
+  return `${uniq(
+    [
+      find(
+        [
+          getSectionBy(SongMeta.BAND),
+          getSectionBy(SongMeta.INTERPRETER),
+          getSectionBy(SongMeta.COMPOSER),
+          getSectionBy(SongMeta.WRITER),
+          getSectionBy(SongMeta.ARRANGER),
+        ],
+        negate(isEmpty),
+      ),
+      trim(getCleanVersion(title)),
+      getSectionBy(SongMeta.ALTERNATIVE),
+      getSectionBy(SongMeta.VERSION),
+    ].filter(Boolean),
+  ).join(NAME_SEPARATOR)}${TXT_EXTENSION}`;
 };

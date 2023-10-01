@@ -1,5 +1,5 @@
 [title]
-Cât de măreț e Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1401}, id: {56XNH378p5mc6DD7GTNdyF}, contentHash: {57dba5}}
+Cât de măreț e Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1401}, id: {56XNH378p5mc6DD7GTNdyF}, contentHash: {e4e127}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -31,7 +31,7 @@ La Tronul Alb se strâng sfielnic
 Voievozi de foc din Empireu.
 Și heruvimii vin cucernic,
 Slăvind Eternul Vistiernic.
-Și-acest Stăpân Atotputernic
+Și-acest Stăpân atotputernic
 /: E Tatăl meu! :/
 
 [v5]
@@ -45,6 +45,6 @@ Dar cine în Isus rămâne
 Și-n fața slavei sclipitoare,
 În ceasul lumii cel mai greu,
 Acei ce-au dat pe sfinți la fiare
-Vedea-vor Forța Creatoare.
+Vedea-vor forța creatoare.
 Eu voi șopti cu adorare:
 /: E Tatăl meu! :/

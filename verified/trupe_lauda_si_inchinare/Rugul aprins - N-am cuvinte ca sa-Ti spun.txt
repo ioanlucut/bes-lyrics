@@ -1,5 +1,5 @@
 [title]
-N-am cuvinte ca să-Ți spun {alternative: {*}, composer: {Rugul aprins}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {85668}, id: {fe5TXqDW6EqxtoyYTBrSQ9}, contentHash: {e4f5cd}}
+N-am cuvinte ca să-Ți spun {alternative: {*}, composer: {Rugul aprins}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {85668}, id: {fe5TXqDW6EqxtoyYTBrSQ9}, contentHash: {1d876e}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -9,7 +9,7 @@ N-am cuvinte ca să-Ți spun,
 Cât ești, Tu, Doamne, de bun,
 Te-ai plecat spre min’, m-ai mântuit,
 Mi-ai luat povara grea,
-Mi-ai dus-o la Golgota
+Ai dus-o la Golgota
 Și mi-ai dat în schimb pacea Ta.
 
 [c]
@@ -31,7 +31,7 @@ Sunt pe brațul Tău, Isus,
 M-ai luat pe veci în mâna Ta.
 
 [v3]
-Isuse ’naintea Ta,
+Isuse ‘naintea Ta,
 Îmi aduc azi inima,
 Fă de-acum ce vrei, Doamne, cu ea!
 Ești izbăvitorul meu,

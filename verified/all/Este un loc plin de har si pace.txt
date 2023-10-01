@@ -1,5 +1,5 @@
 [title]
-Este un loc plin de har și pace {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qJDQXGf66mS25NWo1GQBAd}, contentHash: {b8c88f}}
+Este un loc plin de har și pace {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qJDQXGf66mS25NWo1GQBAd}, contentHash: {f1f2da}}
 
 [sequence]
 v1.1,v1.2,p,c,v1.1,v1.2,p,c
@@ -24,6 +24,6 @@ De dragul Fiului Tău.
 
 [c]
 Orice zid vom dărâma (3x)
-Doar în numele Lui.
+Doar în Numele Lui.
 Orice zid vom dărâma
 Și una vom fi.

@@ -1,5 +1,5 @@
 [title]
-Ne-ai fost, Doamne, ajutor {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195799}, id: {2THsvs3dqogqb5sWWUgnAz}, contentHash: {6b5768}}
+Ne-ai fost, Doamne, ajutor {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195799}, id: {2THsvs3dqogqb5sWWUgnAz}, contentHash: {493b02}}
 
 [sequence]
 v1,v2,v3,v4
@@ -38,7 +38,7 @@ Ești un har pentru pământ
 Ne-ai fost, Doamne, ne-ncetat
 Sfântă mângâiere,
 Și pe oricine-ai învățat
-În Tine ca să spere.
+În Tine să spere.
 /: Pentru-aceasta Te slăvim
 Noi, cu bucurie,
 Și de toate-Ți mulțumim

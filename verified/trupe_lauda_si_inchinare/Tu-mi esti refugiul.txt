@@ -1,5 +1,5 @@
 [title]
-Tu-mi ești refugiul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4291}, id: {662kRy77cLwEwr7MxEErtr}, contentHash: {b7e8de}}
+Tu-mi ești refugiul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4291}, id: {662kRy77cLwEwr7MxEErtr}, contentHash: {75ea77}}
 
 [sequence]
 v1,c,v2,c
@@ -16,7 +16,7 @@ Tu ești în toate Domn.
 /: Isus, Miel preasfânt,
 Ție mă închin.
 Isus, Miel preasfânt,
-Dumnezeu Divin. :/
+Dumnezeu divin. :/
 
 [v2]
 Tu ai luat rușinea mea,

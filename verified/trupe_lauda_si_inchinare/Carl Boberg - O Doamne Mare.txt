@@ -1,5 +1,5 @@
 [title]
-O, Doamne Mare {alternative: {*}, composer: {Carl Boberg}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1630}, id: {7dRrBrYYHJrgjDvXPTvnqs}, contentHash: {c49393}}
+O, Doamne mare {alternative: {*}, composer: {Carl Boberg}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1630}, id: {7dRrBrYYHJrgjDvXPTvnqs}, contentHash: {e80308}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
@@ -36,12 +36,12 @@ Zăresc în duh amara-I suferință
 
 [v5]
 Când mă apasă sarcini mari și grele,
-Când sufletu-mi e trist pân’ la mormânt,
+Când sufletul mi-e trist pân’ la mormânt,
 El Se apleacă, plin de mângâiere,
 Și-mi ia tot chinul și-orice legământ.
 
 [v6]
 Când Domnul bun mă va chema la Sine
 Și când voi sta uimit în fața Sa,
-Privind pe Domnul Sfânt al veșniciei,
+Privind pe Domnul sfânt al veșniciei,
 Căzând la tronu-I, mă voi închina.

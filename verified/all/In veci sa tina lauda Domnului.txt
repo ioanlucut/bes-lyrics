@@ -1,5 +1,5 @@
 [title]
-În veci să țină lauda Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qUDzeV8EVQTwJB6iiNnmtk}, contentHash: {700f09}}
+În veci să țină lauda Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qUDzeV8EVQTwJB6iiNnmtk}, contentHash: {ad1b3f}}
 
 [sequence]
 v1,v2
@@ -11,7 +11,7 @@ Să se bucure El de lucrările Lui.
 Voi lăuda pe Dumnezeu atât timp cât voi fi! :/
 
 [v2]
-Făliți-vă cu numele Lui cel Sfânt,
+Făliți-vă cu Numele Lui cel Sfânt,
 Bucurați-vă inimi, pe Domnul lăudând.
 /: Alergați la Domnul, la sprijinul Lui,
 Căutați, căutați necurmat fața Lui. :/

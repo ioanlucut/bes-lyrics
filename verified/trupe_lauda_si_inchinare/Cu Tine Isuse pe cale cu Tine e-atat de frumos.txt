@@ -1,5 +1,5 @@
 [title]
-Cu Tine, Isuse, pe cale, cu Tine e-atât de frumos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8qUZupfvq7EvFCuBYoGDsH}, contentHash: {2d4c6a}}
+Cu Tine, Isuse, pe cale, cu Tine e-atât de frumos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8qUZupfvq7EvFCuBYoGDsH}, contentHash: {edf90e}}
 
 [sequence]
 v1,v2,v3,v4
@@ -13,17 +13,17 @@ Pe Tine Te laud, Isuse, căci viața mea Tu o păzești,
 [v2]
 Tu nu mă lași dat de rușine, m-ajuți în necazul cel greu,
 Când sunt istovit ești cu mine, o, cât mă iubești, Domnul meu!
-Slăvită să-Ți fie puterea și-al Tău nume sfânt, lăudat.
+Slăvită să-Ți fie puterea și-al Tău Nume sfânt, lăudat.
 Iubirea Ta-I dulce ca mierea și-al Tău sfânt Cuvânt e bogat.
 
 [v3]
 Mireasma Ta plină de pace o simt și tresar, Domnul meu,
 Și când cei răi vor să m-atace, pe Tine Te laud mereu.
-Căci nu e putere mai mare și nu e un nume mai sfânt
+Căci nu e putere mai mare și nu e un Nume mai sfânt
 Ce poate aduce salvare atunci când un suflet e frânt.
 
 [v4]
 De-aceea natura se-nchină și cerul Îți cântă în cor
-Căci Tu ai adus o lumină la omul ce e muritor.
+Căci Tu ai adus o lumină omului ce e muritor.
 Osana și glorie doar Ție, Stăpân peste tot ce-ai creat,
-Puterea Ta sfântă e vie și-al Tău nume sfânt, adorat.
+Puterea Ta sfântă e vie și-al Tău Nume sfânt, adorat.

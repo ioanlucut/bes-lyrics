@@ -1,5 +1,5 @@
 [title]
-Binecuvântează acest suflet (fetita) {alternative: {*}, composer: {Iasmin Rey}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221299}, id: {igHe54hyvESsHNSQoMXYqj}, contentHash: {da6e23}}
+Binecuvântează acest suflet (fetita) {alternative: {*}, composer: {Iasmin Rey}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221299}, id: {igHe54hyvESsHNSQoMXYqj}, contentHash: {f570cd}}
 
 [sequence]
 v1,v2,c,v3,c,v4,b,c
@@ -39,5 +39,5 @@ Numele fetiței să asculte de părinți, de Dumnezeu!
 [b]
 Tu să fii mereu cu ea,
 Revarsă acum iubirea Ta!
-Îti mulțumim și Te slăvim,
+Îți mulțumim și Te slăvim,
 Căci ne-ai dat-o în dar!

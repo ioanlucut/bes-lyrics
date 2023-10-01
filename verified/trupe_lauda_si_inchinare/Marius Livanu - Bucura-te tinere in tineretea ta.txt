@@ -1,5 +1,5 @@
 [title]
-Bucură-te tinere, în tinerețea ta {alternative: {*}, composer: {Marius Livanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {178671}, id: {aPAoaHhWM7aUL31Ttshf4f}, contentHash: {b55449}}
+Bucură-te tinere, în tinerețea ta {alternative: {*}, composer: {Marius Livanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {178671}, id: {aPAoaHhWM7aUL31Ttshf4f}, contentHash: {67dd79}}
 
 [sequence]
 v1,c,v2,c,v3,c2
@@ -32,4 +32,4 @@ Pe căile Lui de vei umbla, te vei bucura!
 /: Bucură-te, tinere, în tinerețea ta,
 Umblă-n căile Domnului, în lumina Sa,
 Fii plăcut doar Domnului, vesel vei cânta
-Când pentru slava cea de sus, El te va chema! :/
+Când în slava cea de sus, El te va chema! :/

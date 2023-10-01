@@ -1,38 +1,38 @@
 [title]
-Mare e gloria Domnului! {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103349}, id: {c49j6hUd8aWJWVoiFwB9Wn}, contentHash: {c5255c}}
+Mare e gloria Domnului! {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103349}, id: {c49j6hUd8aWJWVoiFwB9Wn}, contentHash: {2b83f7}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c,b,c,b2
 
 [v1.1]
 Domnul pentru mine a murit,
-Amin, Amin,
+Amin, amin,
 În sânge sfânt Isus a biruit,
-Amin, Amin.
+Amin, amin.
 
 [v1.2]
 A fost mort, dar azi e viu,
-Amin, Amin,
-Stă la dreapta Tatălui Divin,
-Amin, Amin.
+Amin, amin,
+Stă la dreapta Tatălui divin,
+Amin, amin.
 
 [c]
 /: Mare e gloria Domnului puternic,
-Mare e gloria Domnului,
+Mare e gloria Domnului!
 Îl voi lăuda cu tot ce sunt pe Cel Puternic,
 Mare e gloria Lui. :/
 
 [v2.1]
 Pe nedrept a fost batjocorit,
-Amin, Amin,
+Amin, amin,
 Dar n-a rămas pe cruce pironit,
-Amin, Amin.
+Amin, amin.
 
 [v2.2]
 Azi, iubirea Lui e peste noi,
-Amin, Amin,
+Amin, amin,
 Aleluia, El va reveni,
-Amin, Amin.
+Amin, amin.
 
 [b]
 /: Tu ești Acel ce-a fost,

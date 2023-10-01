@@ -1,5 +1,5 @@
 [title]
-Când nici nu existam și nici n-aveam suflare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6965}, id: {xeKHSwePnJCrHZsZHGJawt}, contentHash: {ca4fb3}}
+Când nici nu existam și nici n-aveam suflare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6965}, id: {xeKHSwePnJCrHZsZHGJawt}, contentHash: {420a98}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -20,7 +20,7 @@ Te laud, căci numai Tu ești Dumnezeu! :/
 Mă cercetezi ’n-ascuns, m-acoperi cu-ndurare
 Și ești cu mine-atunci când mă trezesc.
 O, cât de nepătruns ești în a Ta lucrare,
-De-aceea, Doamne, numele-Ți slăvesc.
+De-aceea, Doamne, Numele-Ți slăvesc.
 
 [v3]
 Oriunde aș pleca, Tu ești mereu cu mine

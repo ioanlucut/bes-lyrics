@@ -1,5 +1,5 @@
 [title]
-Credința mea eu o zidesc, cine în El se încrede {alternative: {*}, composer: {William B. Bradbury}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1593}, id: {bRo4zvu2k7BhT5TdzUti45}, contentHash: {b54f3f}}
+Credința mea eu o zidesc, cine în El se încrede {alternative: {*}, composer: {William B. Bradbury}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1593}, id: {bRo4zvu2k7BhT5TdzUti45}, contentHash: {af57e6}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -8,7 +8,7 @@ v1,c,v2,c,v3,c,v4,c
 Credința mea eu o zidesc,
 Pe Cuvântul sfânt și ceresc.
 Altceva trece ca spuma,
-Hristos, ca Stâncă-n veci, va sta!
+Hristos, ca stâncă-n veci, va sta!
 
 [c]
 Cine în El se încrede,

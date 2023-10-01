@@ -1,5 +1,5 @@
 [title]
-Primește lauda și închinarea {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4443}, id: {7LvB7LrMs4hjMkpVAKYP4d}, contentHash: {c8b8db}}
+Primește lauda și închinarea {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4443}, id: {7LvB7LrMs4hjMkpVAKYP4d}, contentHash: {2445cb}}
 
 [sequence]
 c,v1,c
@@ -15,5 +15,5 @@ Cu tot ce-avem ne-nchinăm
 În fața Ta, Stăpâne,
 Onoare și mărire Ție-Ți dăm
 Prin Duhul Sfânt să lucrezi.
-Fă-Ți numele de slavă,
+Fă-Ți Numele de slavă,
 Prezența Ta s-o vadă toți cei ce cred.

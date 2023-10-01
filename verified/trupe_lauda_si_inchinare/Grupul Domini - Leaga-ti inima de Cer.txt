@@ -1,11 +1,11 @@
 [title]
-Leagă-ți inima de Cer {alternative: {*}, composer: {Grupul Domini}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158891}, id: {qpJzqyiDCuLbtkZqn5Ru2f}, contentHash: {199342}}
+Leagă-ți inima de cer {alternative: {*}, composer: {Grupul Domini}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158891}, id: {qpJzqyiDCuLbtkZqn5Ru2f}, contentHash: {88d8df}}
 
 [sequence]
 c,v1,c,b,c
 
 [c]
-Leagă-ți inima de Cer,
+Leagă-ți inima de cer,
 Leagă-ți viața ta de Dumnezeu,
 Viitorul tău este în mâna Sa!
 Prin credință-naintezi,

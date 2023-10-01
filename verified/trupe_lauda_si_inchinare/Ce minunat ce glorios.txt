@@ -1,5 +1,5 @@
 [title]
-Ce minunat, ce glorios {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8dKHetReCqn2frwTVzrm7K}, contentHash: {7b8b6d}}
+Ce minunat, ce glorios {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8dKHetReCqn2frwTVzrm7K}, contentHash: {d8e994}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -24,6 +24,6 @@ Tot chinul El l-a-ndurat.
 
 [v3]
 Cândva, în cer voi ajunge,
-Iar Eu fața Îi voi vedea.
+Și fața Îi voi vedea.
 Bucuros cu El peste veacuri,
 Iubirea Îi voi cânta.

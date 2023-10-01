@@ -1,5 +1,5 @@
 [title]
-Haideți, lăudați cu toții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4934}, id: {qrgn5nyoiEUqxJttwSLMpJ}, contentHash: {2b8d03}}
+Haideți, lăudați cu toții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4934}, id: {qrgn5nyoiEUqxJttwSLMpJ}, contentHash: {5c0b00}}
 
 [sequence]
 c,v1,c,v2.1,v2.2
@@ -7,7 +7,7 @@ c,v1,c,v2.1,v2.2
 [c]
 /: Haideți, lăudați cu toții
 Pe Dumnezeul Sfânt al lui Israel! :/
-/: Ridică-ți mâinile și cântă-I numele
+/: Ridică-ți mâinile și cântă-I Numele
 Căci Dumnezeu te-a ridicat. :/
 
 [v1]

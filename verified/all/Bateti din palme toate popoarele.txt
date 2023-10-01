@@ -1,5 +1,5 @@
 [title]
-Bateți din palme toate popoarele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5157}, id: {8Doh8bnQxRbAYgAcuJZd3x}, contentHash: {92f7a8}}
+Bateți din palme toate popoarele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5157}, id: {8Doh8bnQxRbAYgAcuJZd3x}, contentHash: {eade5f}}
 
 [sequence]
 c,v1,v2
@@ -20,4 +20,4 @@ Veniți cu toții să-L lăudăm!
 El ne supune toate popoarele
 Și neamurile El ni le-a dat,
 Cântați din inimi cu bucurie
-Doar al Său nume e înălțat.
+Doar al Său Nume e înălțat.

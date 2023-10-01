@@ -1,5 +1,5 @@
 [title]
-De-atâtea ori {alternative: {N-ai fost dator}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111602}, id: {mCnE9TYrrrqaKE9jy4yrsa}, contentHash: {52c660}}
+De-atâtea ori {alternative: {N-ai fost dator}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111602}, id: {mCnE9TYrrrqaKE9jy4yrsa}, contentHash: {c12ace}}
 
 [sequence]
 v1,c,v2,c
@@ -12,7 +12,7 @@ N-ai fost dator Tu cu nimic, cu nimic.
 
 [c]
 /: N-ai fost dator să mă iubești,
-N-ai fost să Te jertfești,
+N-ai fost dator să Te jertfești,
 N-ai fost dator să-mi dai iertare,
 Dar Tu mi-ai dat.
 N-ai fost dator Tu cu nimic,

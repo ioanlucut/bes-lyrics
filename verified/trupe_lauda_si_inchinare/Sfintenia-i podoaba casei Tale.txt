@@ -1,5 +1,5 @@
 [title]
-Sfințenia-i podoaba casei Tale {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uKb2B4nubpeP6kQMDy54Nk}, contentHash: {19d350}}
+Sfințenia-i podoaba casei Tale {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uKb2B4nubpeP6kQMDy54Nk}, contentHash: {a4dc39}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -19,7 +19,7 @@ Sfânt, sfânt, sfânt e Domnul oștirilor! :/
 [v2]
 Sfințenia e să fii pus deoparte
 De lume și de tot ce e firesc,
-Iar chipul lui Cristos să-ți fie-n toate
+Iar chipul lui Hristos să-ți fie-n toate
 Desăvârșire prin harul ceresc.
 
 [v3]

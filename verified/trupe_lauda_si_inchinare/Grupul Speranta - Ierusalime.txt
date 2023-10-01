@@ -1,0 +1,64 @@
+[title]
+Ierusalime {alternative: {*}, composer: {Grupul Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {185940}, id: {cjpPZithnpRwn9q7Ag4uZY}, contentHash: {518416}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c2
+
+[v1.1]
+Pe drumul cel de piatră
+De pe-o colină ‘naltă,
+Isus, cu fața tristă, privea,
+Privea înspre cetate,
+Cetatea mult iubită.
+Văzându-i nepăsarea, El plângea:
+
+[v1.2]
+„Ce n-am făcut Eu oare pentru tine
+Ca să Mă crezi că am venit de sus?
+Te-am vindecat și ți-am făcut doar bine,
+Dar tu ai refuzat harul adus!”
+
+[c]
+Ierusalime, te-am iubit,
+Ierusalime, la tine am venit!
+/: O, de-ai fi cunoscut tu astăzi
+Vremea cercetării tale
+Și lucrurile care puteau să-ți dea salvare. :/
+
+[v2.1]
+Pe drumul cel de piatră,
+Pe o colină ‘naltă,
+Isus, cu fața tristă, mergea,
+Mergea cu crucea în spate
+Înconjurat de gloate,
+Purtând a lumii povară grea.
+
+[v2.2]
+O, lume, cum n-ai văzut în Mine
+O stea care din Iacov răsărea?
+Lumina care luminează lumea,
+Pe-Acel’ care voia să-ți dea viața.
+
+[v3.1]
+Pe drumul vieții tale,
+Isus trece și astăzi,
+Privind în urma ta, ce ai lăsat?
+Privește-L dacă plânge
+Și are fața tristă
+Văzându-ți faptele ce ai urmat.
+
+[v3.2]
+Căci anii petrecuți în lumea-aceasta
+Sunt scriși acolo sus în cartea Sa.
+Dacă-ai umblat în căile dreptății
+Isus te va chema în slava Sa.
+
+[c2]
+Ierusalime, tu ești iubit,
+Ierusalime, la tine am venit!
+Deschide-ți astăzi inima ta,
+Să intre Împăratu-n ea
+Căci mâine poate fi-va prea târziu.
+Ești gata de-a-L întâmpina
+Sau plânge pentru starea ta?
+Întoarce-te cât nu e prea târziu!

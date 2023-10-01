@@ -1,5 +1,5 @@
 [title]
-A Ta e domnia și puterea {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {93393}, id: {akNSpndFuNmTry61pQDEeG}, contentHash: {2a08d7}}
+A Ta e domnia și puterea {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {93393}, id: {akNSpndFuNmTry61pQDEeG}, contentHash: {70d719}}
 
 [sequence]
 v1,p,c,v1,p,c
@@ -12,7 +12,7 @@ Numele Tău sfânt.
 Moartea e-nfrântă, cerul cântă
 Și slava în veci e a Ta,
 Nu se compară nimic
-Cu numele Tău sfânt.
+Cu Numele Tău sfânt.
 
 [p]
 Domn peste domni,

@@ -1,5 +1,5 @@
 [title]
-Vino azi {alternative: {*}, composer: {Doru Girboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nuzj9m9Fax2ZHDRgPF4VP7}, contentHash: {86ac7d}}
+Vino azi {alternative: {*}, composer: {Doru Girboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nuzj9m9Fax2ZHDRgPF4VP7}, contentHash: {8ac85b}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -8,7 +8,7 @@ v1,c,v2,c,b,c
 Oare câtă vreme vrei să rătăcești
 Până când chemarea Lui nesocotești?
 Și pentru tine Domnul Isus a murit
-A suferit că te-a iubit.
+A suferit căci te-a iubit.
 
 [c]
 /: Vino azi, vino azi,

@@ -1,5 +1,5 @@
 [title]
-Când vrei să vii? {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6692}, id: {6RQupJv7v12kCw4PcaUUAq}, contentHash: {c19a00}}
+Când vrei să vii? {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6692}, id: {6RQupJv7v12kCw4PcaUUAq}, contentHash: {1ad1a8}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -18,9 +18,9 @@ E poate ultima chemare.
 
 [v2]
 Când vrei să vii, când vrei să spui,
-Acum vreau să vin și eu.
+„Acum vreau să vin și eu.
 Acum vreau și eu să-ntorc,
-Nu vreau să mai amân mereu!
+Nu vreau să mai amân mereu!”
 
 [v3]
 Mai este loc, mai este har,

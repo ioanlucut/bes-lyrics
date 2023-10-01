@@ -1,5 +1,5 @@
 [title]
-Cu umilință-n rugăciune {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180813}, id: {muHAyNJWg35FWsjfFKLinJ}, contentHash: {637aea}}
+Cu umilință-n rugăciune {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180813}, id: {muHAyNJWg35FWsjfFKLinJ}, contentHash: {9521da}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
@@ -26,11 +26,11 @@ Cu tine-i Domnul, nu uita.
 [v2]
 În ziua de necaz mă sprijini,
 Scut și adăpost îmi ești mereu.
-Ești cetățenia mea în care
+Ești cetățuia mea în care
 M-adăpostesc, o, Domnul meu.
 
 [v3]
-Sunt copleșit de a Ta iubire.
+Sunt copleșit de-a Ta iubire.
 Tu ești izvor de bucurie.
 Cu Tine voi trăi, o, Doamne
 Eternitatea în veșnicii.

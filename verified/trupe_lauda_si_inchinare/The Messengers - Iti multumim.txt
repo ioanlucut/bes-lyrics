@@ -1,5 +1,5 @@
 [title]
-Îți mulțumim {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {98580}, id: {95EU8vtVr4BWhzAE7jrodh}, contentHash: {93a36d}}
+Îți mulțumim {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {98580}, id: {95EU8vtVr4BWhzAE7jrodh}, contentHash: {07d024}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c
@@ -19,7 +19,7 @@ Ne-nchinăm în fața Ta.
 [c]
 /: Îți mulțumim, Îți mulțumim
 Doamne bun, Te slăvim.
-Pentru harul tău și dragostea Ta,
+Pentru harul Tău și dragostea Ta,
 /: Doamne bun, Îți mulțumim! :/
 
 [v2.1]

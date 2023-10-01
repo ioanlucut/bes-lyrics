@@ -1,5 +1,5 @@
 [title]
-Trece Isus pe-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58795}, id: {gx2mXwWG4dntZWxnzKxurZ}, contentHash: {5fc43c}}
+Trece Isus pe-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58795}, id: {gx2mXwWG4dntZWxnzKxurZ}, contentHash: {97c3ce}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -8,22 +8,22 @@ v1,c,v2,c,v3,c,v4,c
 De ești trudit și ți-e grea povara,
 Nu vrei chiar astăzi să te ridici?
 Astăzi e clipa hotărâtoare,
-Trece Isus pe aici.
+Trece Isus pe-aici.
 
 [c]
-Trece Isus pe aici,
-Trece Isus pe aici,
+Trece Isus pe-aici,
+Trece Isus pe-aici,
 Cheamă-L și cere-I îndurare,
-Trece Isus pe aici.
+Trece Isus pe-aici.
 
 [v2]
 Vei refuza marea Sa iubire
 Sau vei veni după har să strigi?
 Iată că alții găsesc salvare,
-Trece Isus pe aici.
+Trece Isus pe-aici.
 
 [v3]
-„Ce vrei să îți fac?” azi Isus te-ntreabă,
+„Ce vrei să-ți fac?” azi Isus te-ntreabă,
 A auzit tristul tău oftat,
 Vino și spune-I ce te apasă,
 Să fii eliberat.
@@ -32,4 +32,4 @@ Să fii eliberat.
 Trece Isus prin adunare
 Nu vrei de haina Lui să te atingi?
 Are putere de vindecare
-Trece Isus pe aici.
+Trece Isus pe-aici.

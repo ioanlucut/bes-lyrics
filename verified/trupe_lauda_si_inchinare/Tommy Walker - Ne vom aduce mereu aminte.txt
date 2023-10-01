@@ -1,5 +1,5 @@
 [title]
-Ne vom aduce mereu aminte {alternative: {*}, composer: {Tommy Walker}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157566}, id: {pGw6wDG2zaDZkkL8PCL28Q}, contentHash: {75bb06}}
+Ne vom aduce mereu aminte {alternative: {*}, composer: {Tommy Walker}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157566}, id: {pGw6wDG2zaDZkkL8PCL28Q}, contentHash: {95d016}}
 
 [sequence]
 c,v1,v2,c,v3,e,c,v4,c
@@ -7,8 +7,8 @@ c,v1,v2,c,v3,e,c,v4,c
 [c]
 /: Ne vom aduce mereu aminte,
 Vom spune lumii lucrările-Ți mari,
-Vom striga: ”
-O, cât de mare,
+Vom striga:
+„O, cât de mare,
 E credincioșia Ta!” :/
 
 [v1]
@@ -26,8 +26,8 @@ Ne-ai dat viață fără sfârșit.
 [v3]
 Când drumul nostru, prin văi coboară,
 Vom privi, la tot ce-ai făcut,
-Și vom striga: ”
-Ce bun e Domnul!
+Și vom striga:
+„Ce bun e Domnul!
 El e mereu credincios!”
 
 [e]
@@ -38,6 +38,6 @@ Celui ce ne-a răscumpărat!
 
 [v4]
 Mi-aduc aminte, de-a Ta chemare,
-De ziua când, mi-ai spus sunt salvat.
+De ziua când, mi-ai spus că-s salvat.
 Că niciodată, nu voi fi singur,
 Pe veci viața Tu mi-ai schimbat.

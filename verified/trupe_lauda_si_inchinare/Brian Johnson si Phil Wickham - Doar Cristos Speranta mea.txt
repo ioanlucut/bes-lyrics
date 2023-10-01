@@ -1,0 +1,42 @@
+[title]
+Doar Cristos, Speranța mea! {alternative: {*}, composer: {Brian Johnson și Phil Wickham}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {199137}, id: {uTxhLyXe6cYKc4mLNGs2v7}, contentHash: {abc980}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,b,c
+
+[v1.1]
+Cât de departe eram de Tine,
+Un munte ce nu-l puteam urca.
+În disperare priveam spre ceruri,
+Numele Tău l-am chemat.
+
+[v1.2]
+În întuneric, iubirea-Ți mare
+A spulberat păcatul greu.
+Murind pe cruce, a scris sfârșitul
+Doar Hristos, speranța mea.
+
+[c]
+Aleluia! Isus m-a eliberat!
+Aleluia! Moartea nu a triumfat!
+Lanțurile au căzut, m-a iertat de-al meu trecut,
+Doar Hristos, speranța mea.
+
+[v2.1]
+Cine-ar putea să-I cuprindă mila,
+Și bogăția harului Său,
+Al slavei Rege gloria-a lăsat-o
+Să ia păcatul meu și-al tău.
+
+[v2.2]
+Crucea proclamă iertarea noastră
+El ne-a ales să fim ai Săi.
+Mântuitor bun, al Tău pe veci sunt,
+Doar Hristos, speranța mea.
+
+[b]
+/: În dimineața promisiunii,
+Când din mormânt El a înviat,
+Leul din Iuda a-nvins păcatul
+Prin moartea Sa ne-a răscumpărat. :/
+Isus, Tu ne-ai răscumpărat!

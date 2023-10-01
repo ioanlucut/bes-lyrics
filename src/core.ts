@@ -18,8 +18,10 @@ import {
   COLON,
   COMMA,
   DOUBLE_LINE_TUPLE,
+  EMPTY_SPACE,
   EMPTY_STRING,
   NEW_LINE_TUPLE,
+  SEMICOLON,
   TEST_ENV,
 } from './constants.js';
 import assert from 'node:assert';
@@ -137,7 +139,7 @@ export const createSongMock = (
   desiredSections: string[],
   desiredSequence: string[] = desiredSections,
 ) => `[title]
-My custom title: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, title: {ANY_title}, version: {ANY_version}, writer: {ANY_writer}
+My custom title: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, version: {ANY_version}, writer: {ANY_writer}
 
 [sequence]
 ${desiredSequence.join(COMMA)}
@@ -150,7 +152,7 @@ export const createAdvancedSongMock = (
   tuples: string[][],
   desiredSequence?: string[],
 ) => `[title]
-My custom title: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, title: {ANY_title}, version: {ANY_version}, writer: {ANY_writer}
+My custom title: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, version: {ANY_version}, writer: {ANY_writer}
 
 [sequence]
 ${
@@ -195,3 +197,6 @@ export const getMetaSectionsFromTitle = (titleContent: string) => {
       return { ...accumulator, [sequence]: trim(content) };
     }, {}) as Record<SongMeta, string>;
 };
+
+export const multiToSingle = (text: string) =>
+  text?.split(SEMICOLON)?.map(trim).join(`${SEMICOLON}${EMPTY_SPACE}`);

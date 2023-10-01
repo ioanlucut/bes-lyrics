@@ -1,5 +1,5 @@
 [title]
-Inima mea tânjește după curțile Tale {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4276}, id: {swfMGwVSgR21fK6XhXZsWt}, contentHash: {e6bf41}}
+Inima mea tânjește după curțile Tale {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4276}, id: {swfMGwVSgR21fK6XhXZsWt}, contentHash: {f066b0}}
 
 [sequence]
 v1.1,v1.2,c
@@ -19,6 +19,6 @@ Vino, nu-ntârzia!
 
 [c]
 /: Te voi binecuvânta, dar, toată viața mea,
-Și în numele Tău voi ridica mâinile,
+Și în Numele Tău voi ridica mâinile,
 Lauda Ta va fi mereu în gura mea,
 Te iubesc, o, Domnul meu! :/

@@ -1,5 +1,5 @@
 [title]
-Strig spre Tine, Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pBZkmcS4RZPvecgih6oHLk}, contentHash: {95797b}}
+Strig spre Tine, Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pBZkmcS4RZPvecgih6oHLk}, contentHash: {527a5a}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c
@@ -11,7 +11,7 @@ Vreau să mă-nchin în duh și-adevăr.
 M-a adus aici.
 
 [v1.2]
-Și liber stau ’naintea Ta,
+Și liber stau ‘naintea Ta,
 Îți dau acum viața mea,
 Mâini spre cer am ridicat
 Fiindcă Tu, Isus, m-ai eliberat.

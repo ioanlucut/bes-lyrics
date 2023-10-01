@@ -1,5 +1,5 @@
 [title]
-S-a-nspăimântat stăpânul lumii {alternative: {*}, composer: {Alexandru Vlahuta}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4139}, id: {onCd8egscxR8Taf8HgbbsD}, contentHash: {3d4297}}
+S-a-nspăimântat stăpânul lumii {alternative: {*}, composer: {Alexandru Vlahuta}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4139}, id: {onCd8egscxR8Taf8HgbbsD}, contentHash: {90fe10}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -14,7 +14,7 @@ Dulgherului din Nazaret. :/
 El n-a venit să răzvrătească,
 Nu vrea pierirea nimănui,
 /: Desculț, pe jos, colindă lumea,
-Și mulți hulesc numele Lui. :/
+Și mulți hulesc Numele Lui. :/
 
 [v3]
 Urască-L cei fără-de-lege,

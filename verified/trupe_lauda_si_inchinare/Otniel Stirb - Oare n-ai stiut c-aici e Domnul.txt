@@ -1,11 +1,11 @@
 [title]
-Oare n-ai știut c-aici e Domnul? {alternative: {*}, composer: {Otniel Stirb}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {145697}, id: {i721dvcjFhnydDx24NgXpa}, contentHash: {f571e7}}
+Oare n-ai știut c-aici e Domnul? {alternative: {*}, composer: {Otniel Stirb}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {145697}, id: {i721dvcjFhnydDx24NgXpa}, contentHash: {ed1985}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Cât de înfricoșat e locul unde
+Cât de-nfricoșat e locul unde
 Domnul ne vorbește prin Cuvânt,
 Iar pe scara cerului coboară
 Îngeri aducând mesajul sfânt.
@@ -26,7 +26,7 @@ Astăzi poți cu El să te-ntâlnești.
 [v3]
 Căci așa ne-a spus Mântuitorul
 Când era la noi jos pe pământ:
-Dacă doi sau trei vor fi împreună
+Dacă doi sau trei vor fi-mpreună
 Sunt și Eu prezent prin Duhul Sfânt.
 
 [v4]

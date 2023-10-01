@@ -1,5 +1,5 @@
 [title]
-Eu și casa mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rxpvUYe886fqsVnqartWsf}, contentHash: {7b3c17}}
+Eu și casa mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rxpvUYe886fqsVnqartWsf}, contentHash: {d9738e}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,b,c
@@ -18,9 +18,9 @@ Doar pe Tin’.
 
 [c]
 Tu ești sfânt, sfânt,
-Nu e nimenea ca Tin’.
+Nu e nimeni ca Tin’.
 Tu ești sfânt, sfânt în veci,
-Nu e nimenea ca Tin’.
+Nu e nimeni ca Tin’.
 
 [v2.1]
 Da, eu și casa mea
@@ -31,7 +31,7 @@ Dumnezeului atotputernic.
 Cu inimi curățite
 Mâini vom ridica
 Și vom proclama
-În veci, Domnia Ta!
+În veci, domnia Ta!
 
 [b]
 /: Alege azi cui vei sluji! :/

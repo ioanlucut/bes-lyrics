@@ -1,5 +1,5 @@
 [title]
-Vrednic Miel e Domnul slavei {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {76203}, id: {4mXSe9wrJBwpFguAJqp5BC}, contentHash: {5ed72a}}
+Vrednic Miel e Domnul slavei {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {76203}, id: {4mXSe9wrJBwpFguAJqp5BC}, contentHash: {87ea47}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -12,7 +12,7 @@ Pe al milei tron.
 
 [c]
 Sfânt e, sfânt e, sfânt e,
-Domnul Atotputernic!
+Domnul atotputernic!
 Ce-a fost și este și va fi.
 Îi cântă Universul:
 Slăvit să fii, Isus!
@@ -24,7 +24,7 @@ Prin cântec, Te laud.
 Ne umpli viața cu măreție,
 Putere, onoare, glorie,
 Lauda a Ta va fi!
-Ești rege azi și-n veșnicii.
+Ești Rege azi și-n veșnicii.
 
 [v3]
 Cuprins de teamă și de uimire

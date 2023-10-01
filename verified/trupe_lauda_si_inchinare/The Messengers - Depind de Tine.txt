@@ -1,5 +1,5 @@
 [title]
-Depind de Tine {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {177303}, id: {26rcNVaNoimsTcj4U93z1Q}, contentHash: {063056}}
+Depind de Tine {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {177303}, id: {26rcNVaNoimsTcj4U93z1Q}, contentHash: {6e7cef}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -12,7 +12,7 @@ Doamne, Tatăl meu, Îți mulțumesc.
 
 [c]
 Depind de Tine, Domnul meu,
-Prin tot ce fac doresc să-nalț numele Tău.
+Prin tot ce fac doresc să-nalț Numele Tău.
 /: Tot ce am e-un dar primit din mâna Ta.
 Te iubesc, mă închin și-Ți mulțumesc. :/
 

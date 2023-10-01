@@ -1,5 +1,5 @@
 [title]
-Te slăvesc, Isuse {alternative: {*}, composer: {Grupul Paradis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6703}, id: {8CDSaujnkMSLH4xje8TKFY}, contentHash: {f6bb4d}}
+Te slăvesc, Isuse {alternative: {*}, composer: {Grupul Paradis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6703}, id: {8CDSaujnkMSLH4xje8TKFY}, contentHash: {6dead7}}
 
 [sequence]
 c,v1,c,v2,c
@@ -8,7 +8,7 @@ c,v1,c,v2,c
 Te slăvesc, Isuse, pentru tot ce Tu mi-ai dat
 Cu binecuvântări m-ai binecuvântat,
 Pace în inimă, mereu ai revărsat,
-Ce mare bucurie e să fii salvat.
+Ce mare bucurie e să fii salvat!
 
 [c]
 /: Îți mulțumesc pentru speranța

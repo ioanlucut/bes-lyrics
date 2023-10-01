@@ -1,5 +1,5 @@
 [title]
-Tu n-ai sub soare asemănare, Tu ești iubirea mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230045}, id: {dQ4NBQkE3PpebxPaHH3rsA}, contentHash: {3e1858}}
+Tu n-ai sub soare asemănare, Tu ești iubirea mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230045}, id: {dQ4NBQkE3PpebxPaHH3rsA}, contentHash: {3289cf}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -12,7 +12,7 @@ Pe drept, Isuse, Tu ești iubit.
 
 [c]
 /: Tu ești iubirea mea,
-Tu-mi ești Comoara vieții,
+Tu-mi ești comoara vieții,
 Soarele meu frumos
 Din zorii dimineții. :/
 
@@ -23,7 +23,7 @@ Căci Tu ești Calea și-Adevărul,
 Ești cel mai frumos din univers.
 
 [v3]
-Tu ești iubirea, Neprihănirea,
+Tu ești iubirea, neprihănirea,
 Pe-a Tale buze e-un râu de har.
 Tu locuiești sus în strălucire,
 Tu ești cel mai scump mărgăritar.
@@ -31,5 +31,5 @@ Tu ești cel mai scump mărgăritar.
 [v4]
 Ești sprijin tare, în încercare,
 Ești ușurare în ceasul greu.
-În strâmtorare, Turn de scăpare,
+În strâmtorare, turn de scăpare,
 Din veșnicii ești Dumnezeu.

@@ -13,14 +13,14 @@ describe('Song parser', () => {
     it('should parse a song (w/o subsections) correctly', () => {
       expect(parse(SIMPLE_SONG_MOCK_FILE_CONTENT)).toMatchInlineSnapshot(`
 {
-  "alternative": "Când eram fără speranță",
-  "arranger": "*",
-  "band": "*",
-  "composer": "Betania Dublin",
-  "contentHash": "655954",
-  "genre": "*",
+  "alternative": "alternative 1; alternative 2",
+  "arranger": "arranger 1; arranger 2",
+  "band": "band 1; band 2",
+  "composer": "composer 1; composer 2",
+  "contentHash": "0173a1",
+  "genre": "genre 1; genre 2",
   "id": "7RURbpko41pWYEgVkHD4Pq",
-  "interpreter": "*",
+  "interpreter": "interpreter 1; interpreter 2",
   "key": "*",
   "rcId": "*",
   "sectionOrder": [
@@ -79,7 +79,7 @@ describe('Song parser', () => {
       "sectionIdentifier": "[sequence]",
     },
     "[title]": {
-      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+      "content": "My main title {alternative: { alternative 1; alternative 2 }, composer: {composer 1; composer 2}, writer: {writer 1; writer 2}, arranger: {arranger 1;arranger 2}, interpreter: {interpreter 1;interpreter 2}, band: {band 1;band 2}, key: {*}, tempo: {*}, tags: {tags 1; tags 2}, version: {ii}, genre: {genre 1; genre 2}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}",
       "sectionIdentifier": "[title]",
     },
     "[v1]": {
@@ -109,11 +109,11 @@ describe('Song parser', () => {
     "b2",
     "b3",
   ],
-  "tags": "*",
+  "tags": "tags 1; tags 2",
   "tempo": "*",
-  "title": "My custom title",
+  "title": "My main title",
   "version": "ii",
-  "writer": "*",
+  "writer": "writer 1; writer 2",
 }
 `);
     });
@@ -421,7 +421,7 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
       "sectionIdentifier": "[sequence]",
     },
     "[title]": {
-      "content": "My custom title: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, title: {ANY_title}, version: {ANY_version}, writer: {ANY_writer}",
+      "content": "My custom title: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, composer: {ANY_composer}, contentHash: {ANY_contentHash}, genre: {ANY_genre}, id: {ANY_id}, interpreter: {ANY_interpreter}, key: {ANY_key}, rcId: {ANY_rcId}, tags: {ANY_tags}, tempo: {ANY_tempo}, version: {ANY_version}, writer: {ANY_writer}",
       "sectionIdentifier": "[title]",
     },
     "[v1]": {

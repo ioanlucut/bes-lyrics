@@ -1,5 +1,5 @@
 [title]
-Mergem înainte! {alternative: {*}, composer: {Beni Cibu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172538}, id: {xdKj5YtPvdHfzMcNqnwm4o}, contentHash: {e609c9}}
+Mergem înainte! {alternative: {*}, composer: {Beni Cibu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172538}, id: {xdKj5YtPvdHfzMcNqnwm4o}, contentHash: {2ffdf8}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c
@@ -10,22 +10,22 @@ Al nostru, Doamne, din vecie
 Și sub al aripii umbrar
 Noi am găsit credincioșie.
 Ce minunat, ce minunat,
-Să ai o stâncă-n vremuri grele,
+Să ai o Stâncă-n vremuri grele,
 Ce minunat, ce minunat!
 
 [c]
 Mergem înainte cu Tine, Doamne,
 Orice ar veni, orice s-ar întâmpla!
 Mergem înainte cu Tine, Doamne,
-Nu ne clătinăm, suntem în Mâna Ta!
+Nu ne clătinăm, suntem în mâna Ta!
 
 [v2]
 S-a ridicat al mării val
 Peste corabie deodată
 Și când credeam că norii grei
-Îmi vor umbri viața toată.
-M-ai întărit, m-ai întărit
-Ca să rămân pe stânca tare,
+Îmi vor umbri viața toată
+M-ai întărit, m-ai întărit.
+Ca să rămân pe Stânca tare,
 M-ai întărit, m-ai întărit!
 
 [v3]
@@ -34,7 +34,7 @@ Cu Tine am rămas mereu
 Căci mare este harul Tău
 Ce l-am cântat și-l cânt întruna.
 Te voi slăvi, Te voi slăvi,
-Tu, dorul dorurilor mele,
+Pe Tine, dorul dorurilor mele,
 Te voi slăvi, Te voi slăvi!
 
 [v4]

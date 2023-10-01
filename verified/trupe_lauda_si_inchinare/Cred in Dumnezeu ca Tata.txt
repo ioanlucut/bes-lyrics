@@ -1,5 +1,5 @@
 [title]
-Cred în Dumnezeu ca Tată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {65663}, id: {szVrUGAz9ruYREzxrGnmR1}, contentHash: {a14982}}
+Cred în Dumnezeu ca Tată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {65663}, id: {szVrUGAz9ruYREzxrGnmR1}, contentHash: {12551a}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c,e
@@ -36,7 +36,7 @@ Trebuie să te naști din nou,
 Viața veche e spălată
 Și totul este nou.
 Cred că dragostea lui Dumnezeu
-Te va descoperi,
+Se va descoperi,
 De aceea și mai mult Îl voi sluji.
 
 [v2.2]
@@ -49,4 +49,4 @@ Pe mulți El ne-a salvat,
 De aceea credință I-am jurat.
 
 [e]
-Voi sluji mereu prin Harul Său divin.
+Voi sluji mereu prin harul Său divin.

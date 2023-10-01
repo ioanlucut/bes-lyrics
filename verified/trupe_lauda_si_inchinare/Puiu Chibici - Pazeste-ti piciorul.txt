@@ -1,5 +1,5 @@
 [title]
-Păzește-ți piciorul {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {192959}, id: {p698Kbqd3r8BF25H7u3eKD}, contentHash: {81778e}}
+Păzește-ți piciorul {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {192959}, id: {p698Kbqd3r8BF25H7u3eKD}, contentHash: {26a79f}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -17,7 +17,7 @@ Aici este Regele regilor,
 Aici domnește Isus.
 
 [v2]
-Aici vin copii săraci și orfani,
+Aici vin copiii săraci și orfani,
 Aici vin părinți cu durere,
 Aici vin bătrâni necăjiți și sărmani,
 Să simtă-n Isus mângâiere.
@@ -26,7 +26,7 @@ Să simtă-n Isus mângâiere.
 Aici e puterea ce mișcă chiar munți,
 Puterea de la Rusalii.
 Biserica celor întâi născuți,
-Cântându-I Osanale!
+Cântându-I osanale!
 
 [v4]
 Aici vin bolnavi și acei disperați,

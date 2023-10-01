@@ -1,0 +1,18 @@
+[title]
+Sunt iertat, căci ai fost părăsit {alternative: {Amazing Love; You Are My King}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2812}, id: {bXgTCi2kctEmZDfbjj2qmM}, contentHash: {41f57e}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Sunt iertat, căci ai fost părăsit,
+Sunt acceptat, ai fost condamnat
+Și viață am acum, căci Duhul Tău e-n mine,
+Căci ai murit și-ai înviat. :/
+
+[c]
+/: Ce dragoste de Dumnezeu,
+Să moară un Rege-n locul meu.
+Ce dragoste, uimit privesc
+Cu bucurie Te slăvesc. :/
+/: Cu tot ce am Te preamăresc. :/

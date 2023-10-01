@@ -1,5 +1,5 @@
 [title]
-Veghează-n zori {alternative: {*}, composer: {Corneliu Radulescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1862}, id: {hdW7uLChTB9HSJGH8HxGWu}, contentHash: {6b6476}}
+Veghează-n zori {alternative: {*}, composer: {Corneliu Radulescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1862}, id: {hdW7uLChTB9HSJGH8HxGWu}, contentHash: {29fbc5}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -12,7 +12,7 @@ Vreo umbră neagră, plină de păcat.
 
 [c]
 Iar în amurg, când totul se-odihnește,
-Tu îndreaptă-ți gândul iarăși spre Isus.
+Tu-ndreaptă-ți gândul iarăși spre Isus.
 Îi cântă laudă și Îi mulțumește:
 Pe a Lui cărare Domnul iarăși te-a adus.
 
@@ -23,7 +23,7 @@ Căci firea ta e rea din cale-afară
 Și-n jurul tău e un dușman hain.
 
 [v3]
-Și la amiază, în munca grea a zilei,
+Și la amiază-n munca grea a zilei,
 Și în vâltoarea ei tu să veghezi.
 În rugăciunea dragostei și-a milei,
 Doar cu Isus rămâi și să lucrezi.

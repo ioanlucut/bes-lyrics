@@ -1,5 +1,5 @@
 [title]
-Tată, noi vrem ca slava Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6683}, id: {tX1BjFhqFhf94S5XEdVGpq}, contentHash: {831ce0}}
+Tată, noi vrem ca slava Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6683}, id: {tX1BjFhqFhf94S5XEdVGpq}, contentHash: {c4029d}}
 
 [sequence]
 v1,c,v1,c
@@ -12,7 +12,7 @@ Inimile noastre să devină doar o inimă
 
 [c]
 /: Fă-ne doar un glas
-Ce-Ți înalță numele.
+Ce-Ți înalță Numele.
 Fă-ne doar un glas
 Ce Te preamărește.
 Fă-ne doar un glas,

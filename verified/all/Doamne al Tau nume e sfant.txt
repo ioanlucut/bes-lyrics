@@ -1,17 +1,17 @@
 [title]
-Doamne, al Tău nume e sfânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cq9PSabALC94S4xutBvuxX}, contentHash: {b7fbb0}}
+Doamne, al Tău Nume e sfânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cq9PSabALC94S4xutBvuxX}, contentHash: {96ed1b}}
 
 [sequence]
 v1,c
 
 [v1]
-Doamne, al Tău nume e sfânt!
-Doamne, al Tău nume e sfânt!
+Doamne, al Tău Nume e sfânt!
+Doamne, al Tău Nume e sfânt!
 Sfinte Domn, Tu ești sfânt,
 Doamne, Tu ești sfânt!
 
 [c]
 Sfinte Domn, Eu Te iubesc!
 Eu Îți slăvesc
-Și laud numele,
+Și laud Numele,
 Sfinte Domn!

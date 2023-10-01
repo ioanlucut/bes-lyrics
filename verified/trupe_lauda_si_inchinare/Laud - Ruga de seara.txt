@@ -1,11 +1,11 @@
 [title]
-Rugă de seară {alternative: {*}, composer: {Laud}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {123555}, id: {cvA7M5EgjAm6MrJW8ZskYU}, contentHash: {b96afd}}
+Rugă de seară {alternative: {*}, composer: {Laud}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {123555}, id: {cvA7M5EgjAm6MrJW8ZskYU}, contentHash: {2dd2b3}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Deseori, privind ’napoi, zboară frunze printre noi,
+Deseori, privim ‘napoi, zboară frunze printre noi,
 Iar iubirea e departe.
 Ploaia trece, vine iarăși, dar în suflet suntem goi.
 Uneori suntem chiar triști,

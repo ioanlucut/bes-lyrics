@@ -1,5 +1,5 @@
 [title]
-Mai mult acum ca niciodată {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {142682}, id: {rsDJdToejsQrkXwrsY3NzL}, contentHash: {2ce7d6}}
+Mai mult acum ca niciodată {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {142682}, id: {rsDJdToejsQrkXwrsY3NzL}, contentHash: {e1bd60}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -33,7 +33,7 @@ Deci să-ncercăm să fim mai buni.
 Să ne oprim din alergare,
 Să stăm o clipă să privim
 La ce se-ntâmplă în lumea mare
-Și sinceri să ne pocăim.
+Și sincer să ne pocăim.
 
 [v3.1]
 Mai face Domnul iar chemare,

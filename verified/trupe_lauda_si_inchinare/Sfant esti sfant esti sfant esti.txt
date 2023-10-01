@@ -1,5 +1,5 @@
 [title]
-Sfânt ești, sfânt ești, sfânt ești {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5062}, id: {nqs6PGXDSfLUogGGWdxjQD}, contentHash: {40cfa7}}
+Sfânt ești, sfânt ești, sfânt ești {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5062}, id: {nqs6PGXDSfLUogGGWdxjQD}, contentHash: {15ff65}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
@@ -35,14 +35,14 @@ Ochiul celui păcătos
 Nu poate-a Te vedea.
 
 [v3.2]
-Sfânt, Atotputernic
+Sfânt, atotputernic
 Ești din veșnicie,
 Doamne, Iehova,
 Tu ești dragostea.
 
 [v4.1]
 Sfânt ești, sfânt ești, sfânt ești,
-Domn Atotputernic,
+Domn atotputernic,
 Tot ce ai creat
 Te laudă-n cer și pe pământ
 

@@ -1,5 +1,5 @@
 [title]
-Hristos din morți a înviat {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {149085}, id: {exBjeeyjeoL9X5SH3rDLRo}, contentHash: {c4b521}}
+Hristos din morți a înviat {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {149085}, id: {exBjeeyjeoL9X5SH3rDLRo}, contentHash: {86e7b2}}
 
 [sequence]
 v1,p,c,v2,p2,c2,e
@@ -26,7 +26,7 @@ El mă iubea, mă iubea!
 [v2]
 Cu o cruce în spate, alungat din cetate,
 Ei L-au condamnat.
-Printre lacrimi cu sânge, ce inima-ți frânge,
+Printre lacrimi cu sânge, ce inima-ți frâng,
 El n-a renunțat.
 
 [p2]

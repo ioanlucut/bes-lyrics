@@ -1,0 +1,41 @@
+[title]
+În bunătatea Ta ne-asculți {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae moldoveanu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64780}, id: {6PKrCYS663hmE1cVZMRQA8}, contentHash: {7519ec}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
+
+[v1.1]
+În bunătatea Ta ne-asculți
+A noastră rugăciune
+Și inima ne-o ușurezi
+De orice-amărăciune.
+
+[v1.2]
+/: Ne-ntorci privirile mereu
+Spre Tine, sfinte Tată,
+Și prin Cuvânt ne întărești
+De fiecare dată. :/
+
+[v2.1]
+Nădejdea Tu ne-o-mprospătezi
+Când vezi că se-ofilește
+Și nicio piedică pe drum
+Spre noi nu Te oprește.
+
+[v2.2]
+/: Căci bunătatea Ta oricând
+Cu mult mai mult întrece
+Căderea-n care-am fost târâți
+Și starea noastră rece. :/
+
+[v3.1]
+Ești pentru vecii nesfârșiți
+Izvorul mântuirii
+Și peste noi mereu Ți-ntinzi
+Veșmintele iubirii.
+
+[v3.2]
+/: În bunătatea Ta răspunzi
+Cu-a harului comoară,
+Nicicând Tu nu ne-depărtezi
+Și nu ne scoți afară. :/

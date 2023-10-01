@@ -1,5 +1,5 @@
 [title]
-Domn al veșniciei, al lumii Creator {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {i}, genre: {*}, rcId: {*}, id: {pVt9ghVL1jbwuuRzu36e49}, contentHash: {0ab710}}
+Domn al veșniciei, al lumii Creator {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {i}, genre: {*}, rcId: {*}, id: {pVt9ghVL1jbwuuRzu36e49}, contentHash: {5a3caf}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
@@ -22,9 +22,9 @@ Rege pe-ntreg pământ (în veci Rege).
 [v2]
 Domn al veșniciei, al lumii Creator,
 În glas de dor și de-adorare,
-Numele sfânt lăudăm.
+Numele-Ți sfânt lăudăm.
 
 [v3]
-Dis de dimineață voi chema lumina Ta.
+Dis-de-dimineață voi chema lumina Ta.
 Ca un far prin bezna nopții,
 Drumul mi-L vei lumina.

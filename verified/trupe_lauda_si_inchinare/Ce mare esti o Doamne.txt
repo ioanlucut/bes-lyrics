@@ -1,5 +1,5 @@
 [title]
-Ce mare ești, o, Doamne! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {106401}, id: {hWzbnrDPgE21tNdvHWUBtX}, contentHash: {b26f9d}}
+Ce mare ești, o, Doamne! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {106401}, id: {hWzbnrDPgE21tNdvHWUBtX}, contentHash: {f4a467}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -20,7 +20,7 @@ Cât de mare ești, Doamne, cât de sfânt!
 
 [v2]
 O, de-ar cunoaște, Doamne, toți oamenii ce sfânt,
-Puternic e-al Tău nume și sfântul Tău Cuvânt.
+Puternic e-al Tău Nume și sfântul Tău Cuvânt.
 De-ar auzi chemarea și glasul Tău cel sfânt,
 Te-ar preamări de-a pururi, ce mare ești și sfânt!
 

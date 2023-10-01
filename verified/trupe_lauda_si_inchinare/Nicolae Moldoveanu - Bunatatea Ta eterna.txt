@@ -1,5 +1,5 @@
 [title]
-Bunătatea Ta eternă {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1583}, id: {x9E55RH9hJgWeUU9oE3TQm}, contentHash: {b42169}}
+Bunătatea Ta eternă {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1583}, id: {x9E55RH9hJgWeUU9oE3TQm}, contentHash: {1373b9}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -23,7 +23,7 @@ Când mi-e sufletu-apăsat
 Bunătatea Ta mă-ndeamnă
 Grabnic să mă pocăiesc,
 Ca să știu adânc ce-nseamnă
-Răul care-l săvârșesc.
+Răul ce îl săvârșesc.
 
 [v2.2]
 Ea mă-ndeamnă înspre cruce,

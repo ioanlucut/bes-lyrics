@@ -1,5 +1,5 @@
 [title]
-Mai un munte, mai un drum {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {104322}, id: {we5cD3rZmoAEjMDsFgKEVD}, contentHash: {59b82c}}
+Mai un munte, mai un drum {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {104322}, id: {we5cD3rZmoAEjMDsFgKEVD}, contentHash: {f3bb3e}}
 
 [sequence]
 c,v1,c,v2,c
@@ -11,7 +11,7 @@ Mai o vale am de trecut,
 Până mă vei muta în casa mea. :/
 
 [v1]
-În vremuri sumbre m-ai veselit,
+În vremuri sumbre m-ai înveselit,
 Chiar dacă toți se clatină, Tu nu Te schimbi.
 Zilele-s tot mai grele, dar nu renunț
 Căci Tu mă conduci spre casa mea.

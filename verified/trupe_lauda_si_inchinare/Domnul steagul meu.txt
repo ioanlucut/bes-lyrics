@@ -1,5 +1,5 @@
 [title]
-Domnul, steagul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {o3gWRFbvrQPNQN9mc8e1Dy}, contentHash: {f1127e}}
+Domnul, steagul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {o3gWRFbvrQPNQN9mc8e1Dy}, contentHash: {ff7bfa}}
 
 [sequence]
 v1,p,c
@@ -16,5 +16,5 @@ Te voi înălța, toată viața mea.
 
 [c]
 Ne vom bucura de biruința Ta,
-În numele Tău, spre slava Ta,
+În Numele Tău, spre slava Ta,
 Steagul vom flutura.
