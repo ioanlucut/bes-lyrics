@@ -1,9 +1,9 @@
-name: 'CI (Continuous Integration) & Auto Update Songs Meta'
+name: 'CI & Auto Scripts'
 
 on: [ pull_request ]
 
 jobs:
-  PathsFilter:
+  ChangedCodePathsFilter:
     runs-on: ubuntu-latest
     outputs:
       rcOutput: ${{ steps.filter.outputs.rcImportsHaveChanged }}
@@ -22,7 +22,7 @@ jobs:
               - 'temp-runners/rc_ids_to_process.txt'
 
   Build:
-    needs: PathsFilter
+    needs: ChangedCodePathsFilter
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
@@ -44,10 +44,10 @@ jobs:
           CI: true
           FORCE_COLOR: 2
 
-  AutoImportFromRC:
-    needs: [ PathsFilter, Build ]
+  ImportFromRCBasedOnAuthorsOrIds:
+    needs: [ ChangedCodePathsFilter, Build ]
     runs-on: ubuntu-latest
-    if: needs.PathsFilter.outputs.rcOutput == 'true'
+    if: needs.ChangedCodePathsFilter.outputs.rcOutput == 'true'
     steps:
       - name: Clone repository
         uses: actions/checkout@v3
@@ -83,7 +83,7 @@ jobs:
           FORCE_COLOR: 2
 
   AutoUpdateMeta:
-    needs: AutoImportFromRC
+    needs: [ Build ]
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
