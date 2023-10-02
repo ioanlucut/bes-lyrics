@@ -10,12 +10,13 @@ import { isEmpty, isEqual, negate } from 'lodash-es';
 import fsExtra from 'fs-extra';
 import dotenv from 'dotenv';
 import stringSimilarity from 'string-similarity';
-import recursive from 'recursive-readdir';
 import chalk from 'chalk';
 import {
   ALT_SONGS_FILE_SUFFIX,
-  NEW_LINE,
   logFileWithLinkInConsole,
+  NEW_LINE,
+  parse,
+  readTxtFilesRecursively,
 } from '../src/index.js';
 
 dotenv.config();
@@ -23,13 +24,27 @@ dotenv.config();
 const THRESHOLD = 0.65;
 
 const readAllFilesAgainstTheChecksAreDoneOnce = async (againstDir: string) =>
-  (await recursive(againstDir)).map((filePath) => {
+  (await readTxtFilesRecursively(againstDir)).map((filePath) => {
     return {
       contentAsString: fs.readFileSync(filePath).toString(),
       fileName: path.basename(filePath),
       filePath,
     };
   });
+
+const getRelevantContentOnly = (contentAsString: string) => {
+  const { sectionOrder, sectionsMap } = parse(contentAsString, {
+    ignoreUniquenessErrors: true,
+  });
+
+  return sectionOrder
+    .map(
+      (verseSongSectionIdentifier) =>
+        sectionsMap[verseSongSectionIdentifier].content,
+    )
+    .join(NEW_LINE)
+    .toLowerCase();
+};
 
 const computeSimilarity =
   (candidateFilePath: string) =>
@@ -42,10 +57,9 @@ const computeSimilarity =
     fileName: string;
     filePath: string;
   }) => {
-    const candidateContent = fs.readFileSync(candidateFilePath).toString();
     const similarity = stringSimilarity.compareTwoStrings(
-      contentAsString.toLowerCase(),
-      candidateContent.toLowerCase(),
+      getRelevantContentOnly(contentAsString),
+      getRelevantContentOnly(fs.readFileSync(candidateFilePath).toString()),
     );
 
     return {
@@ -62,7 +76,7 @@ const findSimilarities = async (
   const againstSongs =
     await readAllFilesAgainstTheChecksAreDoneOnce(againstDir);
 
-  return (await recursive(potentialDuplicatesDir))
+  return (await readTxtFilesRecursively(potentialDuplicatesDir))
     .map((candidateFilePath) => {
       const candidateFileName = path.basename(candidateFilePath);
 

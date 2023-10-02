@@ -3,7 +3,6 @@ import path from 'path';
 import * as process from 'process';
 import fsExtra from 'fs-extra';
 import dotenv from 'dotenv';
-import recursive from 'recursive-readdir';
 import pMap from 'p-map';
 import { flatten } from 'lodash-es';
 import { fileURLToPath } from 'url';
@@ -14,6 +13,7 @@ import {
   NEW_LINE,
   parse,
   print,
+  readTxtFilesRecursively,
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -35,7 +35,7 @@ const rcAuthorPathsToProcess = fsExtra
   .filter(Boolean);
 
 const readFiles = async (dir: string) =>
-  (await recursive(dir)).map((filePath) => {
+  (await readTxtFilesRecursively(dir)).map((filePath) => {
     return {
       contentAsString: fs.readFileSync(filePath).toString(),
       fileName: path.basename(filePath),

@@ -3,9 +3,8 @@ import path from 'path';
 import * as process from 'process';
 import fsExtra from 'fs-extra';
 import dotenv from 'dotenv';
-import recursive from 'recursive-readdir';
 import pMap from 'p-map';
-import { first, flatten } from 'lodash-es';
+import { first, flatten, isEqual } from 'lodash-es';
 import { fileURLToPath } from 'url';
 import {
   COLON,
@@ -14,6 +13,7 @@ import {
   NEW_LINE,
   parse,
   print,
+  readTxtFilesRecursively,
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -29,7 +29,15 @@ const RC_IDS_TO_PROCESS = fsExtra
   .readFileSync(`${__dirname}/rc_ids_to_process.txt`)
   .toString()
   .split(NEW_LINE)
-  .filter(Boolean);
+  .filter(Boolean)
+  .map((rcSongIdLine) => first(rcSongIdLine.split(COLON)) as string);
+
+const RC_IDS_TO_IGNORE = fsExtra
+  .readFileSync(`${__dirname}/rc_ids_to_ignore.txt`)
+  .toString()
+  .split(NEW_LINE)
+  .filter(Boolean)
+  .map((rcSongIdLine) => first(rcSongIdLine.split(COLON)) as string);
 
 const RC_INDEX = JSON.parse(
   fsExtra
@@ -38,35 +46,29 @@ const RC_INDEX = JSON.parse(
 );
 
 const readFiles = async (dir: string) =>
-  (await recursive(dir)).map((filePath) => {
+  (await readTxtFilesRecursively(dir)).map((filePath) => {
+    const contentAsString = fs.readFileSync(filePath).toString();
+
     return {
-      contentAsString: fs.readFileSync(filePath).toString(),
+      contentAsString,
       fileName: path.basename(filePath),
       filePath,
+      songAST: parse(contentAsString, { ignoreUniquenessErrors: true }),
     };
   });
 
 const runFor = async (songsDirs: string[]) => {
-  const allSongsInRepo = flatten(
-    await Promise.all(songsDirs.map(readFiles)),
-  ).map(({ contentAsString }) =>
-    parse(contentAsString, {
-      ignoreUniquenessErrors: true,
-    }),
-  );
-  const allExistingRcIds = allSongsInRepo
-    .map(({ rcId }) => rcId)
-    .filter(Boolean);
+  const allSongsInRepo = flatten(await Promise.all(songsDirs.map(readFiles)));
+  const allExistingRcIds = allSongsInRepo.map(({ songAST: { rcId } }) => rcId);
 
-  await pMap(RC_IDS_TO_PROCESS, async (rcSongIdLine) => {
-    const rcSongIdToImport = first(rcSongIdLine.split(COLON)) as string;
+  await pMap(RC_IDS_TO_PROCESS, async (rcSongIdToImport) => {
     const filePath = RC_INDEX[rcSongIdToImport] as string;
     const contentAsString = fsExtra
       .readFileSync(filePath.replace('./', `${IN_LYRICS_PARSER}/`))
       .toString();
     const fileName = path.basename(filePath);
 
-    const rcSongAST = parse(contentAsString);
+    const rcSongAST = parse(contentAsString, { ignoreUniquenessErrors: true });
     logProcessingFile(fileName, `Import from RC with ID ${rcSongIdToImport}.`);
     logFileWithLinkInConsole(filePath);
 
@@ -78,6 +80,18 @@ const runFor = async (songsDirs: string[]) => {
     }
 
     fs.writeFileSync(`${OUT_CANDIDATES_RC_DIR}/${fileName}`, print(rcSongAST));
+  });
+
+  await pMap(RC_IDS_TO_IGNORE, async (rcSongIdToIgnore) => {
+    const found = allSongsInRepo.find(({ songAST: { rcId } }) =>
+      isEqual(rcId, rcSongIdToIgnore),
+    );
+
+    if (!found) {
+      return;
+    }
+
+    fs.unlinkSync(found.filePath);
   });
 };
 

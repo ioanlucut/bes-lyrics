@@ -1,5 +1,5 @@
 [title]
-Ce scumpa-i mama mea {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {91028}, id: {9rixW7qeA1x1jgvukSJs2E}, contentHash: {7934cf}}
+Ce scumpa-i mama mea {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {91028}, id: {rYr7YndYB4kFD87Hq3PQwm}, contentHash: {7934cf}}
 
 [sequence]
 v1,c,v2,c
