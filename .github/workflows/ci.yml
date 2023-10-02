@@ -19,6 +19,7 @@ jobs:
           filters: |
             rcImportsHaveChanged:
               - 'temp-runners/rc_authors_to_process.txt'
+              - 'temp-runners/rc_ids_to_ignore.txt'
               - 'temp-runners/rc_ids_to_process.txt'
 
   Build:

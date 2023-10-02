@@ -29,7 +29,15 @@ const RC_IDS_TO_PROCESS = fsExtra
   .readFileSync(`${__dirname}/rc_ids_to_process.txt`)
   .toString()
   .split(NEW_LINE)
-  .filter(Boolean);
+  .filter(Boolean)
+  .map((rcSongIdLine) => first(rcSongIdLine.split(COLON)) as string);
+
+const RC_IDS_TO_IGNORE = fsExtra
+  .readFileSync(`${__dirname}/rc_ids_to_ignore.txt`)
+  .toString()
+  .split(NEW_LINE)
+  .filter(Boolean)
+  .map((rcSongIdLine) => first(rcSongIdLine.split(COLON)) as string);
 
 const RC_INDEX = JSON.parse(
   fsExtra
@@ -58,8 +66,7 @@ const runFor = async (songsDirs: string[]) => {
     .map(({ rcId }) => rcId)
     .filter(Boolean);
 
-  await pMap(RC_IDS_TO_PROCESS, async (rcSongIdLine) => {
-    const rcSongIdToImport = first(rcSongIdLine.split(COLON)) as string;
+  await pMap(RC_IDS_TO_PROCESS, async (rcSongIdToImport) => {
     const filePath = RC_INDEX[rcSongIdToImport] as string;
     const contentAsString = fsExtra
       .readFileSync(filePath.replace('./', `${IN_LYRICS_PARSER}/`))
@@ -78,6 +85,27 @@ const runFor = async (songsDirs: string[]) => {
     }
 
     fs.writeFileSync(`${OUT_CANDIDATES_RC_DIR}/${fileName}`, print(rcSongAST));
+  });
+
+  await pMap(RC_IDS_TO_IGNORE, async (rcSongIdToIgnore) => {
+    const filePath = RC_INDEX[rcSongIdToIgnore] as string;
+    const contentAsString = fsExtra
+      .readFileSync(filePath.replace('./', `${IN_LYRICS_PARSER}/`))
+      .toString();
+    const fileName = path.basename(filePath);
+
+    const rcSongAST = parse(contentAsString);
+    logProcessingFile(fileName, `Import from RC with ID ${rcSongIdToIgnore}.`);
+    logFileWithLinkInConsole(filePath);
+
+    if (!allExistingRcIds.includes(rcSongAST.rcId)) {
+      console.log(
+        `Skip removing the song with RC ID ${rcSongAST.rcId} as we do not have it in our system.`,
+      );
+      return;
+    }
+
+    fs.unlinkSync(`${OUT_CANDIDATES_RC_DIR}/${fileName}`);
   });
 };
 
