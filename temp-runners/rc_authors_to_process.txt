@@ -6,39 +6,20 @@
 14:Emma Repede:Emma_repede
 18:Ekklesia:Ekklesia
 18:Grupul Eldad:Grupul_eldad
-2:Armonix:Armonix
 2:Bbso Baia Mare:Bbso_baia_mare
 3:Adi Lup:Adi_lup
 3:Ahava:Ahava
 3:Alin, Emima Timofte:Alin_emima_timofte
-3:Avalon:Avalon
-3:Biserica Betania Dublin:Biserica_betania_dublin
-3:Grupul Ava:Grupul_ava
-3:Ioan Panican:Ioan_panican
 3:Kari Jobe:Kari_jobe
-4:Born again:Born_again
-4:Casting Crowns:Casting_crowns
-4:Damaris Cauneac:Damaris_cauneac
 4:Elim Harmony Band:Elim_harmony_band
 4:Harvest Arad:Harvest_arad
 4:Iovan Miclea:Iovan_miclea
-4:Sanctus Pro Deo:Sanctus_pro_deo
 5:Adi Kovaci:Adi_kovaci
 5:Agape:Agape
-5:Betania Worship Dublin:Betania_worship_dublin
-5:Contrast:Contrast
 5:Eliza Pirosca:Eliza_pirosca
 5:Marius Pop, Naomi Borota:Marius_pop_naomi_borota
 5:Marius Pop:Marius_pop
-5:Ruben Filoti:Ruben_filoti
 5:Samuel Bratu:Samuel_bratu
-5:Speranța_pentru_copii:Sperantapentrucopii
-5:Utu Şuteu:Utu_suteu
-5:William H.Doane:William_hdoane
-6:Chris Tomlin:Chris_tomlin
 6:Ekklesia Arad:Ekklesia_arad
-6:Flaviu Mitar:Flaviu_mitar
 6:Shalom:Shalom
 7:Laud:Laud
-9:Chris:Chris
-9:Dan Muncaciu:Dan_muncaciu
