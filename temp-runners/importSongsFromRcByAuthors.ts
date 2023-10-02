@@ -7,21 +7,26 @@ import recursive from 'recursive-readdir';
 import pMap from 'p-map';
 import { flatten } from 'lodash-es';
 import { fileURLToPath } from 'url';
-import { parse } from '../src/songParser.js';
-import { print } from '../src/songPrinter.js';
 import {
+  COLON,
   logFileWithLinkInConsole,
   logProcessingFile,
   NEW_LINE,
+  parse,
+  print,
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 dotenv.config();
 
-const RC_BASE = '/Users/ilucut/WORK/BES/bes-lyrics-parser';
-const RC_DIR = `${RC_BASE}/out/resurse_crestine`;
-const CANDIDATES_DIR = `/Users/ilucut/WORK/BES/bes-lyrics/candidates`;
+const RC_DIR = `${path.join(
+  __dirname,
+  '../../',
+  'bes-lyrics-parser',
+)}/out/resurse_crestine`;
+
+const CANDIDATES_DIR = './candidates';
 
 const rcAuthorPathsToProcess = fsExtra
   .readFileSync(`${__dirname}/rc_authors_to_process.txt`)
@@ -49,7 +54,7 @@ const runFor = async (songsDirs: string[]) => {
   const allRcIds = allSongsInRepo.map(({ rcId }) => rcId).filter(Boolean);
 
   await pMap(rcAuthorPathsToProcess, async (pathConfig) => {
-    const [counts, composer, authorPath] = pathConfig.split(':');
+    const [counts, composer, authorPath] = pathConfig.split(COLON);
     const dirToImportFrom = `${RC_DIR}/${authorPath}`;
     (await readFiles(dirToImportFrom)).forEach(
       ({ contentAsString, filePath, fileName }) => {
@@ -66,8 +71,6 @@ const runFor = async (songsDirs: string[]) => {
           console.log(
             `Skip processing the song with RC ID ${rcSongAST.rcId} as we have it in our system.`,
           );
-          console.log(NEW_LINE);
-
           return;
         }
 
