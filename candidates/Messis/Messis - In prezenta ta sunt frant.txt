@@ -1,0 +1,24 @@
+[title]
+In prezenta ta sunt frant {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {160699}, id: {dnUkE9iuCAd2GcjMLuSoYZ}, contentHash: {0f14da}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+În prezența Ta sunt frânt,
+Ca un vas cu mir turnat,
+Tot ce am, cu tot ce sunt,
+Frânt mă plec-naintea Ta!
+
+[c]
+Eu pun viața mea
+În mâna Ta,
+În mâna Ta,
+Cuvinte n-am s-aduc,
+Dar voia mea e voia Ta!
+
+[v2]
+Doamne măreția Ta,
+Mă aduce pe genunchi,
+Nu voi fi nicicând la fel,
+În Hristos nădejdea-mi pun!

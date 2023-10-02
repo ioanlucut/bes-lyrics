@@ -1,0 +1,40 @@
+[title]
+Din dragoste {alternative: {*}, composer: {Grup Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176814}, id: {tk4h1oh6SXCBFcScdP8det}, contentHash: {79b452}}
+
+[sequence]
+v1,c,v2,b,c,e
+
+[v1]
+Viața cu Dumnezeu e-un dar venit de sus,
+Din dragoste, din dragoste.
+Fiindcă ne-a iubit, trimis-a pe Isus să se jertfească
+Din dragoste...
+
+[c]
+Să ne iubim, cât timp trăim,
+În dragoste frați toți să fim.
+Să ne iubim, cât timp trăim,
+Ca viața veșnică s-o moștenim.
+Să ne iubim, cât timp trăim,
+În dragoste, frați toți să fim.
+Să ne iubim, cât timp trăim,
+Ca viața veșnică s-o moștenim.
+
+[v2]
+Pe cruce la Calvar, Domnul a dovedit
+Doar dragoste, doar dragoste.
+Și chiar dacă nu înțeleg, prin harul Său azi eu trăiesc,
+Prin dragoste, prin dragoste...
+
+[b]
+Poți să dai orice, chiar trupul ca să-ți fie ars,
+De n-ai dragoste, toate-s în zadar...
+Poți fi-nvățător, ades’ pe alții să-i înveți,
+Dar ne-mplinitor, în ură să trăiești...
+
+[e]
+Căci dragostea Sa, e nesfârșită,
+El e Domnul Vieții pe pământ.
+În dragostea Sa nemărginită,
+El ne iubește pe toți la fel,
+El ne iubește pe toți la fel!

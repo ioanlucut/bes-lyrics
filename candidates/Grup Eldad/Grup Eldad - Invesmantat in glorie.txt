@@ -1,0 +1,31 @@
+[title]
+Invesmantat in glorie {alternative: {*}, composer: {Grup Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176810}, id: {pRDnYwRguN18sGHEcawsEh}, contentHash: {569e16}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Înveșmântat în glorie, domnești pe tron
+Îți cântă heruvimii, căci Tu ești Domn.
+Bătrânii se pleacă cu adorare,
+Aruncă cununi pentru-a Ta splendoare,
+Căci mare ești!
+
+[c]
+Sfânt e, sfânt e, în veci e sfânt,
+Lauda Lui cuprinde-ntreg pământ.
+Uniți cu cerul, în duh ne închinăm
+Și-n adevăr un cânt nou Îi cântăm, /x2
+Prin Duhul Sfânt!
+/ Sfânt e, sfânt e, în veci e sfânt,
+Lauda Lui cuprinde-ntreg pământ.
+Uniți cu cerul, în duh ne închinăm
+Și-n adevăr un cânt nou Îi cântăm, /x3
+Prin Duhul Sfânt!
+
+[v2]
+Tu meriți toată lauda, Miel înjunghiat,
+Creația-ntregă-Ți cânta, ești Împărat.
+Prin al meu vers nu pot să exprim
+Puterea Ta și-al Tău har divin,
+Ești necuprins!

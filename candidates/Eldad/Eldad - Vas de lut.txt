@@ -1,0 +1,46 @@
+[title]
+Vas de lut {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195759}, id: {xeMFUjrWsdBa35Y55R4V9L}, contentHash: {d6eaa3}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+/: Vas de lut, sunt doar un slujnic,
+Azi umplut, mâine vărsat,
+De stăpânul meu puternic
+Ce, cu drag m-a modelat. :/
+x2
+
+[c]
+Voi striga in gloată mare,
+Că Isus e Domn măreț,
+Să nu tacă robii Lui,
+Pe care El i-a ales.
+Voi cânta cu glas puternic,
+De războinic neînfricat,
+Cred in Tatăl ce promite,
+Biruința neîncetat.
+/: Voi striga in gloată mare,
+Că Isus e Domn măreț,
+Să nu tacă robii Lui,
+Pe care El i-a ales.
+Voi cânta cu glas puternic,
+De războinic neînfricat,
+Cred in Tatăl ce promite,
+Biruința, neîncetat. :/ x2
+
+[v2]
+Boabe de muștar credință,
+Semănată prin Isus,
+El e Fiul ce pe cruce,
+Mai multă credință a pus.
+Sună-n cântec o putere,
+Revărsată prin Duh sfânt,
+Se coboară peste mine,
+Și mă scoate din mormânt.
+
+[e]
+Vas de lut, sunt doar un slujnic,
+Azi umplut, mâine vărsat,
+De stăpânul meu puternic
+Ce, cu drag m-a modelat.

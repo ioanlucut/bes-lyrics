@@ -1,0 +1,35 @@
+[title]
+Biruitor {alternative: {*}, composer: {Ekklesia Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {246079}, id: {uUNCLQwEiE9dU3oxtLCmrU}, contentHash: {8b28d6}}
+
+[sequence]
+v1,v2,c,v3,c,e
+
+[v1]
+Pe câmpul de război Tu ești cu mine
+Mă-mbărbătezi să lupt ca un viteaz
+Îmi pui în mână sabia și scutul
+Și îmi promiți că singur nu mă lași
+
+[v2]
+Mă ține tare a Ta făgăduință
+Că lupta după ce-o voi termina
+Că voi primi din mâna Ta cununa
+Și-n carul biruinței voi umbla
+
+[c]
+Biruitor eu voi umbla,
+Nu e dușman împotrivă să-mi stea
+Tu mă conduci cu dreapta Ta
+Isuse a Ta e victoria.
+
+[v3]
+Pe marea-nvolburată ești cu mine
+Cuvântul Tău mi-e ancoră și far
+Mă ține tare a Ta promisiune
+Că-n zori de zi ajunge-vom la mal
+
+[e]
+De-i lupta încrâncenată
+Și vin săgeți arzând
+Nu tremur nu mi-e teamă
+Știu lângă cine lupt

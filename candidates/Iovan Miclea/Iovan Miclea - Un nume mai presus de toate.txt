@@ -1,0 +1,29 @@
+[title]
+Un nume mai presus de toate {alternative: {*}, composer: {Iovan Miclea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {208668}, id: {tj1c1DD1WQ8cBsreBLFnHL}, contentHash: {af3b6a}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pentru mine, pentru tine,
+Pentru tot ce-i păcătos,
+A venit din cer anume
+Domnul sfânt, Isus Hristos.
+
+[c]
+/: Un nume mai presus de toate
+E numele ce-l poartă El.
+Cu inimi și sfințiri curate
+Lăudați-L pe Emanuel! :/
+
+[v2]
+Să ne scape de pierzare
+El pe cruce a murit.
+În iubirea Lui cea mare
+Pace-n veci ne-a dăruit.
+
+[v3]
+Fericită ne e viața,
+Însorită de Isus.
+El ne-a întărit credința
+Că vom merge-n ceruri sus.

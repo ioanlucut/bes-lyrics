@@ -1,0 +1,29 @@
+[title]
+Tie iti cantam {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {204289}, id: {xkqbhyJ3ocxC6ZQZaSR6Gx}, contentHash: {226be1}}
+
+[sequence]
+c,s,c,s2,c,s3,c
+
+[c]
+Ție Îți cântăm, pe Tine Te-adorăm
+Tu ești Domn, în veci de veci
+Ne-ai răscumpărat, viață Tu ne-ai dat
+Doamne-n veci fii lăudat
+
+[s]
+Bucuroși la Tine, Doamne, noi venim
+Noi venim și-Ți mulțumim
+Pentru harul Tău ceresc și minunat
+Tu să fii glorificat
+
+[s2]
+În prezența Ta, Isus, noi astăzi stăm
+Astăzi stăm și ne-nchinăm
+Te glorificăm, al nostru Împărat
+Tu ești cel mai minunat
+
+[s3]
+Aleluia, slavă, glorie-Ți cântăm
+Noi Îți cântăm, Te lăudăm
+Pentru bunătatea Ta, Isus iubit
+Tu, pe noi ne-ai mântuit
