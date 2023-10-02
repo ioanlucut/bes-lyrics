@@ -36,7 +36,7 @@ jobs:
           node-version: 20.x
 
       - name: Run GDrive remote deployment from bes-propres7-migrator
-        working-directory: ./bes-propres7-migrator
+        working-directory: bes-propres7-migrator
         run: |
           npm i && npm run convert:remote
         env:

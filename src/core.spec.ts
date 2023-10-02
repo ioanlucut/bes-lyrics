@@ -55,8 +55,8 @@ describe('core', () => {
 
   describe('getUniqueCharsAndRelevantChars', () => {
     it('should work correctly', () => {
-      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 [
   "
 ",
@@ -119,8 +119,8 @@ toMatchInlineSnapshot(`
   describe('computeUniqueContentHash', () => {
     it('should work correctly', () => {
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`"852906"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
+      ).toMatchInlineSnapshot(`"852906"`);
 
       expect(computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT)).toEqual(
         computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT),
@@ -137,23 +137,23 @@ toMatchInlineSnapshot(`"852906"`);
 
     it('should update correctly', () => {
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' ')).
-toMatchInlineSnapshot(`"61c9c6"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + ' '),
+      ).toMatchInlineSnapshot(`"61c9c6"`);
 
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X')).
-toMatchInlineSnapshot(`"f440c8"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'X'),
+      ).toMatchInlineSnapshot(`"f440c8"`);
 
       expect(
-computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y')).
-toMatchInlineSnapshot(`"5673cf"`);
+        computeUniqueContentHash(SIMPLE_SONG_MOCK_FILE_CONTENT + 'Y'),
+      ).toMatchInlineSnapshot(`"5673cf"`);
     });
   });
 
   describe('getSongInSectionTuples', () => {
     it('should work correctly', () => {
-      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(getSongInSectionTuples(SIMPLE_SONG_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 [
   "[title]",
   "My main title {alternative: { alternative 1; alternative 2 }, composer: {composer 1; composer 2}, writer: {writer 1; writer 2}, arranger: {arranger 1;arranger 2}, interpreter: {interpreter 1;interpreter 2}, band: {band 1;band 2}, key: {*}, tempo: {*}, tags: {tags 1; tags 2}, version: {ii}, genre: {genre 1; genre 2}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}",
