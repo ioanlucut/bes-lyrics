@@ -1,5 +1,5 @@
 [title]
-El e vrednic (medley) {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {229898}, id: {cV1z1czk475jquryPNvHqW}, contentHash: {30f257}}
+El e vrednic (medley) {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {229898}, id: {cV1z1czk475jquryPNvHqW}, contentHash: {4ed8d8}}
 
 [sequence]
 v1,v2,b,c,v3,b,c,e,c,c,e

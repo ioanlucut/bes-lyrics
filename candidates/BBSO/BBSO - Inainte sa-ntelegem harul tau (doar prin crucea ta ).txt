@@ -1,5 +1,5 @@
 [title]
-Inainte sa-ntelegem harul tau (doar prin crucea ta ) {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {234970}, id: {aecVsNWxsx52dwz8CvivEU}, contentHash: {a429f1}}
+Inainte sa-ntelegem harul tau (doar prin crucea ta ) {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {234970}, id: {aecVsNWxsx52dwz8CvivEU}, contentHash: {f4440d}}
 
 [sequence]
 v1,b,c,v2,b,c,e
