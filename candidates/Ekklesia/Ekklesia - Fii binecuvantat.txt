@@ -1,0 +1,47 @@
+[title]
+Fii binecuvantat {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2824}, id: {2xYMmY6TzuwmSNuWrCaaKX}, contentHash: {027015}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Fii binecuvantat
+Cand pamantul e saturat
+Cand ploaia da peste el
+Fii binecuvantat
+Fii binecuvantat
+Cand ma aflu pe pamant uscat
+Si pasesc singur prin pustiu
+Fii binecuvantat
+
+[c]
+Fiecare lauda Tie ti-o dau
+Cand noaptea se apropie
+Te voi lauda
+Binecuvantat fie El
+Binecuvantat
+Binecuvantat fie El
+Binecuvantam numele Sau
+Fiecare lauda Tie ti-o dau
+Cand noaptea se apropie
+Te voi lauda
+/: Binecuvantat fie El
+Binecuvantat
+Binecuvantat fie El
+Binecuvantam numele Sau :/
+
+[v2]
+Fii binecuvantat
+Cand soarele-i din nou pe cer
+Cand toate sunt cum le-ai creat
+Fii binecuvantat
+Fii binecuvantat
+Cand umblu printre suferinti
+Chiar daca plang si-m este greu
+Fii binecuvantat
+
+[e]
+/: Primeste lauda
+Esti vredinc Dumnezeu
+Imi canta inima
+Fii binecuvantat :/

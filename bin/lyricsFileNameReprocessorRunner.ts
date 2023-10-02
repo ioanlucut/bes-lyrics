@@ -32,10 +32,7 @@ const run = async (dir: string) => {
       const hasNoChange = isEqual(fileName, newFileName);
 
       if (hasNoChange) {
-        if (!process.env.CI) {
-          console.log(chalk.yellow(`Skipped the ${fileName} file.`));
-        }
-
+        console.log(chalk.yellow(`Skipped the ${fileName} file.`));
         console.log();
         console.groupEnd();
 

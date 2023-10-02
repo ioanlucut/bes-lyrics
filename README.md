@@ -132,16 +132,18 @@ Caracterele pe care le putem folosi sunt foarte importante, așa că am definit 
 Întrucât sunt foarte multe versiuni ale caracterelor e.g. `ş` în loc de `ș`, e nevoie să folosim aceleași caractere cu
 același format unicode. Un exemplu de variațiuni poate fi văzut aici: https://www.compart.com/en/unicode/U+201D.
 
-> Detalii despre `‘’` poți să găsești și aici: https://github.com/ioanlucut/bes-lyrics/issues/105.
+> Detalii despre `‘’` poți să găsești și [aici](https://github.com/ioanlucut/bes-lyrics/issues/105).
 
 #### Dacă vrei să imporți cântece din resurse creștine
 
-- Asigură-te că ultima versiune a repo-ului https://github.com/ioanlucut/bes-lyrics-parser este instalată in același
-  folder părinte cu acest repository.
-- Copiază `ID`-ul din `URL`. E.g. https://www.resursecrestine.ro/cantece/212152/cuvantul-intrupat (-> **212152**)
-- Adaugă-l în fișierul `temp_runners/rc_ids_to_process.txt` într-o linie nouă.
-- Rulează scriptul `npm run import:rc:by-ids`
-- Branch nou, commit, push și `PR`.
+- Caută cantecul din resurse crestine si copiază `ID`-ul din `URL`.
+  E.g. [Cuvantul intrupat](https://www.resursecrestine.ro/cantece/212152/cuvantul-intrupat) (-> **212152**)
+- Ori: adaugă-l în fișierul `temp_runners/rc_ids_to_process.txt` într-o linie nouă asa cum este gasit aici,
+  in [authors_ids.txt](https://github.com/ioanlucut/bes-lyrics-parser/blob/main/out/resurse_crestine/authors_ids.txt).
+- Ori (sau si) adaugă autorul si fișierul `temp_runners/rc_authors_to_process.txt` într-o linie nouă asa cum este gasit
+  aici,
+  in [authors.txt](https://github.com/ioanlucut/bes-lyrics-parser/blob/main/out/resurse_crestine/authors.txt).
+- Adauga un `PR`.
 
 #### Cum poți să te implici altfel?
 

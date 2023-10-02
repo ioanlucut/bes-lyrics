@@ -76,7 +76,10 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -am "[Bot] I have imported the resurse crestine songs based on the rc_authors_to_process.txt and rc_ids_to_process.txt."
+          git diff --quiet && git diff --staged --quiet || git commit -am "[Bot] I have imported the resurse crestine songs based on the rc_authors_to_process.txt and rc_ids_to_process.txt.
+          >
+          >
+          skip-checks: true"
           git push
         env:
           CI: true

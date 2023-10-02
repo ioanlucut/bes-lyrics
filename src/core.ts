@@ -29,18 +29,10 @@ import assert from 'node:assert';
 const MISSING_SEQUENCE_NUMBER = 1;
 
 export const logFileWithLinkInConsole = (filePath: string) => {
-  if (process.env.CI) {
-    return;
-  }
-
   console.log(`at ${filePath}:1:1`);
 };
 
 export const logProcessingFile = (fileName: string, workType: string) => {
-  if (process.env.CI) {
-    return;
-  }
-
   console.log(chalk.cyan(`Processing (${workType}): "${fileName}".`));
 };
 

@@ -1,0 +1,35 @@
+[title]
+Slava ta o cant isuse {alternative: {*}, composer: {Iovan Miclea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1265}, id: {kfMaJE63JYnSLfnRV97MGn}, contentHash: {b6e8a2}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Slava Ta o cânt, Isuse,
+Pentru că m--ai mântuit,
+Prin jertfirea Ta pe cruce
+M--ai iertat, m--ai curățit.
+
+[c]
+Slăvit Miel divin,
+Slăvit Miel divin,
+Slăvit Miel divin,
+Aici și--n veșnicii.
+
+[v2]
+Tu povara de păcate
+Mi--ai luat-o, m--ai scăpat,
+Și în schimbul remușcării,
+Pace sfântă Tu mi--ai dat.
+
+[v3]
+Și de ce să nu cânt oare
+Când Tu viață--mi dăruiești?
+N--am pe nimenea sub soare
+Mai măreț decât Tu ești!
+
+[v4]
+Sunt al Tău în întregime,
+Bunule Păstor divin!
+Cu ce am și sunt, de--a pururi,
+Ție, Doamne, mă închin!

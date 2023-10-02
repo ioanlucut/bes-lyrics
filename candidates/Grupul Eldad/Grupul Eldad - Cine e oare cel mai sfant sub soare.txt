@@ -1,0 +1,42 @@
+[title]
+Cine e oare cel mai sfant sub soare? {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {168119}, id: {uuiiqXSzecepd79DW83srY}, contentHash: {fc1fcd}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cine e oare, cel mai sfânt sub soare?
+Se strigă astazi în Sion.
+Cine e-n stare să vindece boala,
+Cine e singurul Domn?
+E Dumnezeu, e Dumnezeu!
+Să-L laude pământul, să-L laude și marea,
+El este Domn și în ceruri domnește in veci!
+
+[c]
+Veniți să lăudăm pe cel Atotputernic!
+Veniți să ridicăm mâinile spre cer,
+Osana să se-audă în zările albastre,
+Și cântul nostru azi să ajungă pân’ la cer!
+
+[v2]
+Haideți cu toții s-aducem mărire,
+Și glorie Sfântului Miel,
+El pentru mine ca și pentru tine,
+A murit răstignit pe un lemn.
+El Dumnezeu, El Dumnezeu,
+Suferind ocara lumii
+Ca dar să putem avea,
+Viață eternă și mântuire în dar!
+
+[v3]
+Tu drag prieten
+Ce asculți azi chemarea,
+Te-ntreb astăzi de Îl cunoști
+Pe Cel ce-i Sfânt,
+Ce aduce salvarea,
+Oare-L cunoști pe Hristos?
+Pe Dumnezeu, pe Dumnezeu!
+Azi predă-ți viața Lui,
+Bucurie vei avea
+Și viață eterna primi-vei în dar!

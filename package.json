@@ -62,7 +62,7 @@
     "reprocess:filename": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsFileNameReprocessorRunner.ts",
     "import:rc:by-authors": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./temp-runners/importSongsFromRcByAuthors.ts",
     "import:rc:by-ids": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./temp-runners/importSongsFromRcByIds.ts",
-    "import:rc:ci": "npm run import:rc:by-authors && npm run import:rc:by-ids && npm run reprocess:filename && npm run reprocess:content && npm run format",
+    "import:rc:ci": "npm run import:rc:by-authors && npm run import:rc:by-ids && npm run reprocess:filename && npm run format",
     "build:ci": "npm run lint && npm run test && npm run verify",
     "meta:ci": "npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format"
   },

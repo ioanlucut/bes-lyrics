@@ -1,0 +1,45 @@
+[title]
+Plecam astazi la lupta {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {192706}, id: {2C11jWG7UU58jrALNYCAdb}, contentHash: {84dc21}}
+
+[sequence]
+v1,c,v2,c,v3,c,c
+
+[v1]
+Plecam astazi la lupta
+Ne-ntalnim cu uriasii
+Dar nu ne este frica
+Îl avem pe Isus
+/: Sabiile îsi ridica
+Ne ameninta viata
+Mica le e puterea
+Pacea noastra Isus :/
+
+[c]
+Ne-ai dus si prin pustie
+Sa biruim cuptorul
+Ne-ai descoperit Apa
+Ca fara ea, suntem morti
+Ne-ai invatat ce e rabdarea
+Cand nu aveam siguranta
+Numele Tau puternic
+A zdrobit orice lanț
+
+[v2]
+Cu o prastie si-o piatra
+Mergem tot înainte
+Stim in fata e Goliat
+Dar in in jur e Isus
+/: Ne curg caldele lacrimi
+Fiindca vrem sa învingem
+Dumnezeu toarna-n taina
+Peste noi ulei sfant :/
+
+[v3]
+Iar cand lupta e gata
+Vom merge țintă acasa
+Rodul Domnul îl strânge
+Rasplateste-nsutit
+/: Pace si bucurie
+Noi avem in bagaje
+Calatori fi de Rege
+Zburam spre infinit :/

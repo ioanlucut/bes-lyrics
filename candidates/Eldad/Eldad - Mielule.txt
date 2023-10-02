@@ -1,0 +1,33 @@
+[title]
+Mielule {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188101}, id: {85h9J9DhH7yVUyR8Ajwh5m}, contentHash: {ed6169}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Dragostea pentru noi pan’ la moarte
+L-a condus pentru-a noastre pacate
+Ai murit rastignit
+Cuie-n maini ti-au batut pentru mine
+Ai murit in prea mare suspine
+Dar a treia zi ai inviat.
+
+[c]
+/: Mielule, oare cum sa-Ti multumesc?
+Caci prin jertfa de pe cruce astazi eu traiesc
+Eliberat, al Tau sange m-a spalat
+Speranta mantuirii Tu mi-ai dat. :/
+
+[v2]
+Chinuit pe un lemn pentru mine
+Pentru noi, pentru toti, pentru tine
+Ai murit rastignit
+Dezbracat de-a Sa slava cereasca
+S-a smerit lumea sa mantuiasca
+Sa fie-a Lui in veci de veci.
+
+[e]
+Prin trairea mea astazi vreau sa-Ti multumesc
+Si zi de zi spre ceruri sa inaintez
+Pasind frumos vreau sa merg pe calea Ta
+Facand doar voia Ta, nu voia mea.
