@@ -72,7 +72,6 @@ jobs:
       - name: Import from RC (if not exists already)
         working-directory: bes-lyrics
         run: |
-          ls -la
           npm i && npm run import:rc:ci
           git config user.name github-actions
           git config user.email github-actions@github.com
