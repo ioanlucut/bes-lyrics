@@ -13,6 +13,9 @@ import {
 import * as crypto from 'crypto';
 import chalk from 'chalk';
 import short from 'short-uuid';
+import assert from 'node:assert';
+import recursive from 'recursive-readdir';
+import path from 'path';
 import { SequenceChar, SongMeta, SongSection } from './types.js';
 import {
   COLON,
@@ -23,8 +26,8 @@ import {
   NEW_LINE_TUPLE,
   SEMICOLON,
   TEST_ENV,
+  TXT_EXTENSION,
 } from './constants.js';
-import assert from 'node:assert';
 
 const MISSING_SEQUENCE_NUMBER = 1;
 
@@ -192,3 +195,8 @@ export const getMetaSectionsFromTitle = (titleContent: string) => {
 
 export const multiToSingle = (text: string) =>
   text?.split(SEMICOLON)?.map(trim).join(`${SEMICOLON}${EMPTY_SPACE}`);
+
+export const readTxtFilesRecursively = async (dir: string) =>
+  (await recursive(dir)).filter((filePath) =>
+    isEqual(TXT_EXTENSION, path.extname(filePath)),
+  );

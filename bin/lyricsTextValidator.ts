@@ -3,30 +3,29 @@ import path from 'path';
 import * as process from 'process';
 import { flattenDeep, isEmpty, negate, uniq } from 'lodash-es';
 import dotenv from 'dotenv';
-import recursive from 'recursive-readdir';
 import chalk from 'chalk';
 import {
   assemblyCharsStats,
   ERROR_CODE,
   logFileWithLinkInConsole,
   logProcessingFile,
-  TXT_EXTENSION,
+  readTxtFilesRecursively,
   verifyStructure,
 } from '../src/index.js';
 
 dotenv.config();
 
 const runValidationForDir = async (dir: string) => {
-  const arrayOfFileNameAndContent = (await recursive(dir))
-    .filter((filePath) => filePath.endsWith(TXT_EXTENSION))
-    .map((filePath) => {
+  const arrayOfFileNameAndContent = (await readTxtFilesRecursively(dir)).map(
+    (filePath) => {
       const fileName = path.basename(filePath);
       const fileContent = fs.readFileSync(filePath).toString();
       logProcessingFile(fileName, 'content validation');
       logFileWithLinkInConsole(filePath);
 
       return { filePath, fileName, fileContent };
-    });
+    },
+  );
 
   // ---
   // Chars problems

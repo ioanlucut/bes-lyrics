@@ -8,7 +8,6 @@ import path from 'path';
 import * as process from 'process';
 import * as util from 'util';
 import { parseArgs } from 'node:util';
-import recursive from 'recursive-readdir';
 import {
   first,
   flatten,
@@ -30,6 +29,7 @@ import {
   getTitleByRawSection,
   NEW_LINE,
   NEW_LINE_TUPLE,
+  readTxtFilesRecursively,
   SongSection,
   TEST_FILE,
   TXT_EXTENSION,
@@ -44,7 +44,7 @@ dotenv.config();
 const analyzeAndGet = async (dir: string, speller: NSpell) => {
   const incorrectWords = [] as string[];
 
-  (await recursive(dir))
+  (await readTxtFilesRecursively(dir))
     .filter((file) => !includes(file, TEST_FILE))
     .filter((filePath) => path.extname(filePath) === TXT_EXTENSION)
     .forEach((filePath) => {

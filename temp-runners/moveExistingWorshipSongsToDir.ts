@@ -3,14 +3,16 @@ import path from 'path';
 import * as process from 'process';
 import fsExtra from 'fs-extra';
 import dotenv from 'dotenv';
-import recursive from 'recursive-readdir';
 import pMap from 'p-map';
 import stringSimilarity from 'string-similarity';
 import { flatten, without } from 'lodash-es';
-import { parse } from '../src/songParser.js';
-import { NEW_LINE, SLASH } from '../src/index.js';
-
 import { fileURLToPath } from 'url';
+import {
+  NEW_LINE,
+  parse,
+  readTxtFilesRecursively,
+  SLASH,
+} from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -26,7 +28,7 @@ const pickedPartialTitleSongs = fsExtra
   .filter(Boolean);
 
 const readFiles = async (dir: string) =>
-  (await recursive(dir)).map((filePath) => {
+  (await readTxtFilesRecursively(dir)).map((filePath) => {
     return {
       contentAsString: fs.readFileSync(filePath).toString(),
       fileName: path.basename(filePath),
