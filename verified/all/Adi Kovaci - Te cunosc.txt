@@ -6,7 +6,7 @@ v1,p,v2,c,c2
 
 [v1]
 Văd cum te-ndepărtezi
-De la ce-ți spun în Cuvânt...
+De la ce-ți spun în Cuvânt.
 De ce nu vrei s-asculți,
 Când ce îți spun, e spre binele tău?
 
@@ -18,7 +18,7 @@ Vino la Mine!
 
 [v2]
 Tu nu mai vrei să crezi
-În Adevăr, în Fiul Meu...
+În Adevăr, în Fiul Meu.
 Ești creat pentru mai mult
 Decât ce vezi, jos pe pământ!
 
