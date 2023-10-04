@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c
 [v1]
 Noapte de Crăciun preasfințită ești,
 Cu lumini strălucitoare bucurii vestești.
-Că în Betleem s-a născut Isus,
+Că în Betleem S-a născut Isus,
 Fiul Tatălui din ceruri, Pruncul Sfânt.
 
 [c]
