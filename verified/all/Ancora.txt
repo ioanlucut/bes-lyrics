@@ -1,5 +1,5 @@
 [title]
-Ancora {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {166751}, id: {pQ6SxwNG7zRVCQEitPV57V}, contentHash: {64b943}}
+Ancora {alternative: {}, composer: {Kari Jobe, Brian Johnson & Cody Carne}, writer: {traducerea: Fiona Barbosu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {166751}, id: {pQ6SxwNG7zRVCQEitPV57V}, contentHash: {64b943}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -17,7 +17,7 @@ A vieții ancoră, Tată, Tu ești neschimbat,
 Te ador, Te iubesc!
 
 [v2]
-Mântuitorul, Prieten constant, ești aici.
+Mântuitor bun, Prieten constant, ești aici.
 Tată din ceruri, Tu m-ai primit, ești aici.
 Ești pacea-n furtuni, un glas ce mă cheamă.
 Să înaintez, știind că susții lumea mea.
@@ -25,5 +25,5 @@ Să înaintez, știind că susții lumea mea.
 [v3]
 Și pot să fiu sigur: Îți ții promisiunea!
 Ești tare, mă aperi, Tu-mi ești ancora.
-Tu ești salvatorul, speranța, refugiul!
+Tu ești Salvatorul, speranța, refugiul!
 Iubire eternă, Tu-mi ești ancora.

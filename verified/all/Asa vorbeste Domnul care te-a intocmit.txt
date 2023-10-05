@@ -5,25 +5,25 @@ Așa vorbește Domnul care te-a întocmit {alternative: {*}, composer: {*}, writ
 v1,c,v2,c,v3,c
 
 [v1]
-Așa vorbește Domnul care te-a întocmit,
-Sfântul lui Israel, care a biruit,
-Prin ape de vei trece, Eu te voi salva.
-Focul nu te arde, când lupta este grea.
+Așa vorbește Domnul care te-a-ntocmit,
+Sfântul lui Israel, care a biruit:
+„Prin ape de vei trece, Eu te voi salva.
+Focul nu te arde, când lupta este grea.”
 
 [c]
-/: Te-am purtat pe brațe și vreau să Te mai port,
+/: „Te-am purtat pe brațe și vreau să Te mai port”,
 Așa vorbește Domnul puternic, Savaot.
-De-ar veni furtuna și vânturi de-ar urla,
-Eu îți sunt salvarea, când lupta este grea. :/
+„De-ar veni furtuna și vânturi de-ar urla,
+Eu îți sunt salvarea, când lupta este grea.” :/
 
 [v2]
 Așa vorbește Domnul, marele-mpărat,
-Puternicul lui Iacov, cel glorificat,
-Oameni și popoare, dau pentru viața ta,
-Pentru răscumpărarea și izbăvirea ta.
+Puternicul lui Iacov, Cel glorificat:
+„Oameni și popoare, dau pentru viața ta,
+Pentru răscumpărarea și izbăvirea ta.”
 
 [v3]
-Acum rămâi statornic, Israel iubit
+Acum rămâi statornic, Israel iubit,
 Căci ziua e aproape, timpul-i pe sfârșit.
 Vom cânta cântarea de biruitor
 Când trâmbița suna-va și va veni pe nori.

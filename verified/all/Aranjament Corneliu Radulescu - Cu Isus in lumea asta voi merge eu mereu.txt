@@ -6,8 +6,8 @@ v1,c,v2,c,v3,c
 
 [v1]
 Cu Isus, în lumea asta, voi merge eu mereu,
-Înainte-I țara mea, înainte-I Dumnezeu.
-Deși calea e îngustă și-i plină de-ncercări,
+Înainte-i țara mea, înainte-i Dumnezeu.
+Deși calea e îngustă și plină de-ncercări,
 Cu Isus ajunge-voi în veșnicii.
 
 [c]
@@ -19,12 +19,12 @@ Crede-n El și-n veci tu fi-vei mântuit.
 
 [v2]
 Când durerea te doboară, amice, nu uita,
-Înainte-I țara ta, înainte-I Dumnezeu.
-Atunci ochii ți-i ridică și cere mila Sa,
-Căci prin harul Său El te va ajuta.
+Înainte-i țara ta, înainte-i Dumnezeu.
+Atunci ochii îți ridică și cere mila Sa,
+Căci prin harul Său, El te va ajuta.
 
 [v3]
-Niciodată pe-a ta cale, să nu te uiți ’napoi!
-Înainte-I țara ta, înainte-I Dumnezeu!
+Niciodată pe-a ta cale, să nu te uiți ‘napoi!
+Înainte-i țara ta, înainte-i Dumnezeu!
 Vrednic tu vei fi, acolo, la dreapta Lui vei sta,
 O mireasă când vei fi în țara Sa.

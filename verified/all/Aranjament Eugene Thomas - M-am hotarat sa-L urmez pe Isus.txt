@@ -13,7 +13,7 @@ v1,v2,v3,v4
 /: Și înapoi eu nu voi da. :/
 
 [v3]
-/: În urmă-i lumea, ’nainte-i crucea, :/ (3x)
+/: În urmă-i lumea, ‘nainte-i crucea, :/ (3x)
 /: Și înapoi eu nu voi da. :/
 
 [v4]
