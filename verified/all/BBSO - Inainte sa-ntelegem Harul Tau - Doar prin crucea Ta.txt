@@ -1,12 +1,12 @@
 [title]
-Înainte să-nțelegem Harul Tău {alternative: {Doar prin crucea Ta}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nhY7UbNmLJbFMu17razmPN}, contentHash: {966630}}
+Înainte să-nțelegem harul Tău {alternative: {Doar prin crucea Ta}, composer: {BBSO}, writer: {Răzvan Rește, Salomeea Handaric, Sarah Handaric & Sergiu Strete}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nhY7UbNmLJbFMu17razmPN}, contentHash: {966630}}
 
 [sequence]
 v1,b,c,v2,b,c,e
 
 [v1]
 Înainte să-nțelegem harul Tău bogat,
-Tu, cuvântul viu din Tatăl sfânt și adorat,
+Tu, Cuvântul viu din Tatăl sfânt și adorat,
 Ne-ai deschis cărarea vieții
 Să pășim spre cer.
 Ne-ai zdrobit din suflet moartea,
@@ -22,7 +22,7 @@ Ai murit să-mi dai viață, m-ai făcut al Tău! (2x)
 
 [v2]
 Noaptea lumii se destramă, ești lumina mea.
-Viață nouă azi renaște prin iubirea Ta.
+Viața nouă azi renaște prin iubirea Ta.
 
 [e]
 Te iubesc, Isus, Te iubesc, Isus, Te iubesc, Isus!

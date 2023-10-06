@@ -7,23 +7,23 @@ v1,c1.1,c1.2,v2,c1.1,c1.2,b,c1.1,c1.2
 [v1]
 Ai rupt tăcerea și ai venit pe pământ,
 Luând chipul nostru, ca om de rând Te-ai născut,
-Planul Divin cuprins e-ntr-un Nume de-acum.
+Planul divin cuprins e-ntr-un Nume de-acum.
 
 [c1.1]
-Emanuel în veci pe Tron,
+Emanuel, în veci pe tron,
 Suntem salvați, căci Dumnezeu este cu noi!
-Emanuel ce Nume Sfânt,
-Slavă în cer și pace-ntre oameni, jos pe pământ
+Emanuel, ce Nume sfânt,
+Slavă în cer și pace-ntre oameni, jos pe pământ.
 
 [c1.2]
-/: Astăzi, Isus s-a născut, ne bucurăm, Îl lăudăm! :/ (2x)
-(Final: Astăzi Isus s-a născut...)
+/: Astăzi, Isus S-a născut, ne bucurăm, Îl lăudăm! :/ (2x)
+(Final: Astăzi Isus S-a născut...)
 
 [v2]
 Isus Mesia, Tu ești Cuvântu-mplinit
-În umilință, din Glorie ai coborât.
+În umilință, din glorie ai coborât.
 Ne-ai dat iertare și-atât de mult ne-ai iubit.
 
 [b]
 Ne închinăm, Îl lăudăm, e Dumnezeu cu noi,
-Ni s-a născut un Salvator, e Dumnezeu cu noi! (e Dumnezeu...)
+Ni S-a născut un Salvator, e Dumnezeu cu noi! (e Dumnezeu...)

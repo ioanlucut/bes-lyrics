@@ -1,5 +1,5 @@
 [title]
-Only Jesus {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230791}, id: {m4JufWGSfjn8Tt8gECZDQE}, contentHash: {6bfb59}}
+Numai Isus {alternative: {Only Jesus}, composer: {Casting Crowns}, writer: {Mark Hall, Matthew West, Bernie Herms; traducere și adaptare: Nicoleta Mașcaș}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230791}, id: {m4JufWGSfjn8Tt8gECZDQE}, contentHash: {6bfb59}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -11,7 +11,7 @@ Pentru-a lumii neuitare.
 Dar lumea-i un pustiu și tot ce-mi poate da
 Sunt amăgiri, ce spun că stă-n puterea mea
 Să-mi făuresc un nume mare
-Căci Isus este singurul ce rămâne...
+Dar Isus este singurul ce rămâne!
 
 [c]
 Și vreau tot ce voi lăsa în urma mea

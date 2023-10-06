@@ -1,5 +1,5 @@
 [title]
-Liber {alternative: {Adaptare după Brian Johnson}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157507}, id: {2Bmui4M4wzv7FuNSvb4U62}, contentHash: {0b4efb}}
+Liber {alternative: {Adaptare după Brian Johnson; No Longer Slaves}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157507}, id: {2Bmui4M4wzv7FuNSvb4U62}, contentHash: {0b4efb}}
 
 [sequence]
 v1,c,v2,b,c2
@@ -34,5 +34,5 @@ Să cântăm azi liberi!
 [c2]
 /: Marea despici, să pot să trec prin ape
 Și orice frică-ai înecat.
-Tu m-ai salvat și astăzi încă sunt:
+Tu m-ai salvat și astăzi cânt că sunt
 Copil de Dumnezeu! :/

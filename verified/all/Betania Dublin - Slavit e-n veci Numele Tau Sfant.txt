@@ -1,5 +1,5 @@
 [title]
-Slăvit e-n veci Numele Tău Sfânt {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {192865}, id: {8N5Jb7KwvVEAQKmUjoAQ2m}, contentHash: {4f1280}}
+Slăvit e-n veci Numele Tău sfânt {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {192865}, id: {8N5Jb7KwvVEAQKmUjoAQ2m}, contentHash: {4f1280}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,v3,c
@@ -17,7 +17,7 @@ O piatră grea au prăvălit
 Și în mormânt L-au părăsit.
 
 [c]
-Slăvit e-n veci Numele Tău Sfânt!
+Slăvit e-n veci Numele Tău sfânt!
 Slăvit Isus, ești Domnul meu!
 În veci de veci Te vom înălța,
 Ești Domn și Dumnezeu!
@@ -26,10 +26,10 @@ Ești Domn și Dumnezeu!
 Dar a venit a treia zi,
 Când din mormânt, El, Fiul Sfânt,
 A înviat triumfător!
-Isus E Domn biruitor!
+Isus e Domn biruitor!
 
 [v3]
 Și știu că va veni o zi,
 Din nou pe nori, El va veni
 Cu sfinții-atunci mă voi-nălța,
-Privind pe veci la fața Sa!
+Privind pe veci spre fața Sa!

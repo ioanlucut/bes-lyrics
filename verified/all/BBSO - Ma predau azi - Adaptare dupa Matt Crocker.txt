@@ -5,7 +5,7 @@ Mă predau azi {alternative: {Adaptare după Matt Crocker}, composer: {BBSO}, wr
 v1,v2,b,c,b,c
 
 [v1]
-Doamne, vin, ’naintea Ta mă-nchin,
+Doamne, vin, ‘naintea Ta mă-nchin,
 /: Azi mă predau. :/
 Sunt aici, doar Tu poți să mă ridici,
 /: Sunt doar al Tău. :/
@@ -23,10 +23,10 @@ E să Te cunosc mai mult! :/
 
 [c]
 /: Lasă Duhul Tău
-Să sufle peste noi,
+Să sufle peste mine,
 Să fiu umplut,
 Să fiu umplut, deplin!
-Prin Puterea Ta,
+Prin puterea Ta,
 Schimbă viața mea,
 Să fiu al Tău,
 Să fiu al Tău, deplin! :/ (2x)

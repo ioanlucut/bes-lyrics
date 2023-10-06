@@ -1,5 +1,5 @@
 [title]
-El e vrednic {alternative: {Medley}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {229897}, id: {e8Q63B3NMA71592WwUbMsL}, contentHash: {7f3d07}}
+El e vrednic {alternative: {Medley; Is He Worthy?}, composer: {}, writer: {Andrew Peterson & Ben Shive; traducerea și adaptarea: Nicoleta Mașcaș}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {229897}, id: {e8Q63B3NMA71592WwUbMsL}, contentHash: {7f3d07}}
 
 [sequence]
 v1,v2,b,c,v3,b,v4,v5,v6,v7,e,v8
@@ -51,13 +51,13 @@ El e vrednic, El e vrednic
 El e vrednic în veci.
 
 [v6]
-Tu rămâi sigur, rămâi un Adăpost,
+Tu rămâi sigur, rămâi un adăpost,
 Tu rămâi mare când viața-i fără rost.
 Tu rămâi Stăpân
 Când simt că nu mai pot.
 
 [v7]
-Rămâi Comoara mea,
+Rămâi comoara mea,
 Rămâi al vieții tot.
 
 [e]
