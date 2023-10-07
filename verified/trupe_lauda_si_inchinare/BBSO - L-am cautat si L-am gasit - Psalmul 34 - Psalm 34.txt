@@ -1,5 +1,5 @@
 [title]
-L-am căutat și L-am găsit {alternative: {Psalmul 34; Psalm 34}, composer: {Shane Barnard & Joe Rigney}, writer: {Nicoleta Mascaș}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214233}, id: {2QAqHiij5zSxSQeWmQYBki}, contentHash: {3dccb6}}
+L-am căutat și L-am găsit {alternative: {Psalmul 34; Psalm 34}, composer: {Shane Barnard & Joe Rigney}, writer: {Nicoleta Mascaș}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214233}, id: {2QAqHiij5zSxSQeWmQYBki}, contentHash: {7a06e6}}
 
 [sequence]
 v1,v2,c,v3,c,b,c,e
@@ -27,7 +27,7 @@ Să-i cântăm o veșnicie. :/
 Gustă și vezi, Domnul este bun,
 Eu mă-ncred în El și sunt izbăvit.
 Când sfinții Lui de El se tem,
-El Îi va îngriji, El Îi va îngriji.
+El îi va îngriji, El îi va îngriji.
 
 [b]
 /: Binecuvântat fii de noi mereu!
