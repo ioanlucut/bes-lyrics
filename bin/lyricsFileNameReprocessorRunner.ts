@@ -48,5 +48,4 @@ const run = async (dir: string) => {
   });
 };
 
-await run(process.env.CANDIDATES_DIR);
 await run(process.env.VERIFIED_DIR);
