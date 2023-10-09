@@ -6,7 +6,7 @@ v1,c,v2,c,v3,c
 
 [v1]
 Uniți în templul Tău sfânt ne-am adunat, Isuse, Te chemăm!
-Dorim a Ta prezență, să fie în permanență între noi.
+Dorim a Ta prezență, să fie-n permanență între noi.
 Să fii cu noi pe cale, chiar și în încercare să ne ții
 Curați pe calea Ta, până la revenirea Ta
 Când la Tine vom pleca!
@@ -27,7 +27,7 @@ Chiar și când drumu-i greu.
 
 [v3]
 Când va suna trompeta și pe nori va apărea al nostru Domn,
-Cei morți vor învia și spre cer vor zbura în paradis
+Cei morți vor învia și spre cer vor zbura în Paradis
 Transformați de Domnul, și la ceruri ridicați vom fi și noi,
 Ce bucurii vor fi, când El va reveni
 Și la cer ne va răpi!

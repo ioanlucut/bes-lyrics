@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c,v4,c
 [v1]
 Lumea se întreabă ce-i cu noi
 De trăim mereu biruitori.
-Ei nu știu de locul minunat,
+Ea nu știe de locul minunat,
 În Golgota frica ne-a lăsat.
 
 [c]

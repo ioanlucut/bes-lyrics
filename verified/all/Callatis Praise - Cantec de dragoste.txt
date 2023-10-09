@@ -5,8 +5,8 @@ Cântec de dragoste {alternative: {*}, composer: {Callatis Praise}, writer: {*},
 v1,c
 
 [v1]
-Mă plimbam printre Ceruri, te visam
-C-un Cuvânt pentru tine am creat:
+Mă plimbam printre ceruri, te visam
+C-un cuvânt pentru tine am creat:
 Soarele să-ți încălzească zilele,
 Luna să îți lumineze nopțile.
 Te iubesc și să știi, s-a meritat

@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c,v4,c,v5,c
 [v1]
 Bunule Păstor, Tu, singur,
 În prăpăstii m-ai găsit.
-Rătăcit am fost, de turmă,
+Rătăcit am fost de turmă,
 Dar Tu, Doamne, ai venit!
 
 [c]
