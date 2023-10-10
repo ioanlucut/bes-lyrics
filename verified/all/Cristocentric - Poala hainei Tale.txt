@@ -5,7 +5,7 @@ Poala hainei Tale {alternative: {*}, composer: {Cristocentric}, writer: {*}, arr
 v1,c,e
 
 [v1]
-/: Poala hainei Tale, umple Templul Sfânt,
+/: Poala hainei Tale, umple templul sfânt,
 Mă-nchin cu reverență, cu fața la pământ. :/
 
 [c]
