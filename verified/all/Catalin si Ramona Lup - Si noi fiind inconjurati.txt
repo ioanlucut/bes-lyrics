@@ -1,19 +1,19 @@
 [title]
-Și noi fiind înconjurați {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190352}, id: {rfDkUZztPzBebwBdDY1gbX}, contentHash: {1822cb}}
+Și noi fiind înconjurați {alternative: {Eroii credinței}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190352}, id: {rfDkUZztPzBebwBdDY1gbX}, contentHash: {1822cb}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7
 
 [v1]
 Și noi, fiind înconjurați
-De-un nor așa de martori
+De-un nor mare de martori
 /: Să-nlăturăm orice păcat,
 Privind spre malul celălalt,
 Așa creștinii au luptat,
 Ei nu s-au dat în lături. :/
 
 [v2]
-Să le urmăm c-un dor nespus
+Să le urmăm cu dor nespus
 Credința lor supremă,
 /: Căci au luptat și au învins,
 Creștinii noștri ce s-au stins,
@@ -33,8 +33,8 @@ De foame istoviți, de frig,
 Ei pribegeau departe.
 /: Prin munți și peșteri alungați,
 Prin temniță în fier legați,
-Lovit mai crud și-amenințați,
-De Domnul nu-i desparte. :/
+Loviți mai crunt și-amenințați,
+La Domnul ei nu renunțau. :/
 
 [v5]
 Cântau al mântuirii cânt,

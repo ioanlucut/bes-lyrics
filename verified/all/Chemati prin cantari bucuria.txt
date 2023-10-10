@@ -20,7 +20,7 @@ Te umple de sfinte puteri. :/
 Trezește-te azi, tu, țărână!
 Și suflet și duh vă treziți
 Și harfă și tu alăută,
-Cu toate-ntr-un glas vă uniți.
+Cu toate-ntr-un glas vă uniți!
 
 [v2.2]
 /: Căci Tatăl găsește plăcere
@@ -43,7 +43,7 @@ Cântarea va pune pe fugă
 [v4.1]
 Mereu bucurați-vă-n toate
 Că-n toate afla-veți cântări
-Și-n ele-aripi ca să vă poarte
+Și-n ele-aripi să vă poarte
 Spre tot mai seninele zări.
 
 [v4.2]

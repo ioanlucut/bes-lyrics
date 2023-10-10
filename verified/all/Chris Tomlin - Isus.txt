@@ -7,19 +7,19 @@ v1,v2,c,v3,c,b,c2
 [v1]
 Isus a zis că El e adevărul
 Și ne-a promis că lucruri noi vor fi.
-El s-a născut să biruie păcatul,
+El S-a născut să biruie păcatul,
 Isus.
 
 [v2]
 Lumina Lui a-nvins în neagra noapte,
-E Împărat ce va domni în veci.
+E Împăratul ce va domni în veci.
 Și doar Hristos aduce libertate,
 Isus, Isus.
 
 [c]
 El umblă pe ape, El mării-a vorbit,
 În foc El e alături de mine,
-E Leu din Iuda, e Mielul jertfit.
+E Leul din Iuda, e Mielul jertfit.
 În mâini poartă a mea vindecare,
 Isus.
 
@@ -39,7 +39,7 @@ Sfânt Isus!
 [c2]
 /: El umblă pe ape, El mării-a vorbit,
 În foc, El e alături de mine.
-E Leu din Iuda, e Mielul jertfit,
+E Leul din Iuda, e Mielul jertfit,
 În mâini poartă a mea vindecare. :/
 Isus, nimeni nu-i ca Tine!
 Isus, nimeni nu-i ca Tine, Isus!
