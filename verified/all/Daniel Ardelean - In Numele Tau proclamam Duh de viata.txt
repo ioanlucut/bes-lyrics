@@ -1,11 +1,11 @@
 [title]
-În Numele Tău proclamăm Duh de viață {alternative: {*}, composer: {Daniel Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197882}, id: {agniFw2UN6JV556mANvqUD}, contentHash: {0e4e64}}
+În Numele Tău proclamăm duh de viață {alternative: {*}, composer: {Daniel Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197882}, id: {agniFw2UN6JV556mANvqUD}, contentHash: {0e4e64}}
 
 [sequence]
 c,v1.1,v1.2,c
 
 [c]
-În Numele Tău proclamăm Duh de viață!
+În Numele Tău proclamăm duh de viață!
 În Numele Tău se ridică o armată!
 Din oase moarte Îți ridici,
 Un popor să Te slujească,
@@ -19,6 +19,6 @@ Fără viață, scop și țel.
 
 [v1.2]
 Da, m-ai chemat să chem viață,
-Duhul Celui Sfânt de sus,
+Duhul Celui-Sfânt-de-sus,
 Să vestesc eliberare
-Celor ce-s în lanțuri puși!
+Celor ce-s în lanțuri puși.

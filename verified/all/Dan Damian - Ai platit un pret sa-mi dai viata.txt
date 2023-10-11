@@ -13,7 +13,7 @@ Cât de drag îmi ești și-s fericit.
 [v1.2]
 Numele mi-e scris în Cartea Vieții
 Și, Te rog, Isus, cu orice preț,
-Să rămân statornic în credință
+Să rămân statornic în credință,
 Să Te laud și să Te slăvesc.
 
 [c1.1]
@@ -37,5 +37,5 @@ Orice-ar fi să pot mereu să-Ți cânt.
 [v2.2]
 Numele mi-e scris în Cartea Vieții
 Și, Te rog, Isus, cu orice preț,
-Să rămân statornic în credință
+Să rămân statornic în credință,
 Să Te laud și să Te slăvesc.
