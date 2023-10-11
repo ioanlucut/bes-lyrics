@@ -1,0 +1,47 @@
+[title]
+Ma iubesti tu mai mult decat ceilalti {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {203635}, id: {4vNUPwBz2t2XS7RkeDA6u3}, contentHash: {52afda}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mă iubești tu mai mult decât ceilalți,
+Mă iubești ca pe-un frate ceresc,
+Mă iubești tu, ca rod din iubire?
+/: Eu așa, Eu așa te iubesc! :/
+
+[c]
+Mă iubești tu, când sunt lângă tine,
+Dar și-atunci când te simți părăsit?
+Mă iubești și-ntre flori și-ntre suliți?!
+/: Eu așa, Eu așa te-am iubit! :/
+Mă iubești tu, când sunt lângă tine,
+Dar și-atunci când te simți părăsit?
+Mă iubești și-ntre flori și-ntre suliți?!
+/: Eu așa, Eu așa te-am iubit! :/
+Mă iubești tu, când sunt lângă tine,
+Dar și-atunci când te simți părăsit?
+Mă iubești și-ntre flori și-ntre suliți?!
+/: Eu așa, Eu așa te-am iubit! :/
+Mă iubești tu, când sunt lângă tine,
+Dar și-atunci când te simți părăsit?
+Mă iubești și-ntre flori și-ntre suliți?!
+/: Eu așa, Eu așa te-am iubit! :/
+
+[v2]
+Mă iubești tu mai mult decât ceilalți,
+Mai presus de-orice gând pământesc,
+Mai presus de-orice dragoste-a firii,
+/: Eu așa, Eu așa te iubesc! :/
+
+[v3]
+Mă iubești tu, mai mult decât ceilalți,
+Decât cei ce arar Mă-nsoțesc,
+Mă iubești, tu, privind veșnicia?!
+/: Eu așa, Eu așa te iubesc! :/
+
+[v4]
+Simți că-n lume străine-ți sunt toate,
+Simți că-n Mine-ți sunt totu-mplinit,
+Mă iubești, tu, mai mult ca pe tine?!
+/: Eu așa, Eu așa te-am iubit! :/
