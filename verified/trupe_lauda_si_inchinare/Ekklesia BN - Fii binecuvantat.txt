@@ -17,7 +17,7 @@ Când mă aflu pe pământ uscat
 Fii binecuvântat!
 
 [p]
-Fiecare laudă Ție ți-o dau
+Fiecare laudă Ție Ți-o dau
 Când noaptea se apropie,
 Te voi lăuda!
 
@@ -40,7 +40,7 @@ Chiar dacă plâng și-mi este greu,
 Fii binecuvântat!
 
 [v2.3]
-Fiecare laudă Ție ți-o dau
+Fiecare laudă Ție Ți-o dau
 Când noaptea se apropie,
 Te voi lăuda!
 
