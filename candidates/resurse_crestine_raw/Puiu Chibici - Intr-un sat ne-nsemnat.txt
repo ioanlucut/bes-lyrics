@@ -1,5 +1,5 @@
 [title]
-Intr-un sat ne-nsemnat {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {60417}, id: {u8SYWFhZ4T7dC1bFEW8qZt}, contentHash: {968872}}
+Intr-un sat ne-nsemnat {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {60417}, id: {u8SYWFhZ4T7dC1bFEW8qZt}, contentHash: {f9c19b}}
 
 [sequence]
 v1,v2,v3,v4

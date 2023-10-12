@@ -1,5 +1,5 @@
 [title]
-Ce este viata fara el? {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197729}, id: {jT2VhKfv5KfWsKoSa1DeBb}, contentHash: {b1f9e1}}
+Ce este viata fara el? {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197729}, id: {jT2VhKfv5KfWsKoSa1DeBb}, contentHash: {0d2607}}
 
 [sequence]
 v1,c

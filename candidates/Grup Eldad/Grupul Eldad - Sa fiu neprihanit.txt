@@ -1,5 +1,5 @@
 [title]
-Sa fiu neprihanit- (placute-ti sunt o doamne faptele curate ) {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {216500}, id: {2VPa3M9htAL42xb69CgBfy}, contentHash: {b91ac3}}
+Sa fiu neprihanit {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {216500}, id: {2VPa3M9htAL42xb69CgBfy}, contentHash: {dcdb0e}}
 
 [sequence]
 v1,c,v2,c,v3,c

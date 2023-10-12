@@ -1,5 +1,5 @@
 [title]
-Fara dumnezeu {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195915}, id: {wDJSBBAQEM59yz43gR7Vgy}, contentHash: {90e552}}
+Fara Dumnezeu {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195915}, id: {wDJSBBAQEM59yz43gR7Vgy}, contentHash: {17f1c7}}
 
 [sequence]
 v1,c,v2,c

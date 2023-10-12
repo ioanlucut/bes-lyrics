@@ -1,5 +1,5 @@
 [title]
-Doamne bun {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230300}, id: {9RxMXToh69yvtBSKqmm1aF}, contentHash: {a6b9b0}}
+Doamne bun {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230300}, id: {9RxMXToh69yvtBSKqmm1aF}, contentHash: {9240fe}}
 
 [sequence]
 v1,v2,e
@@ -15,7 +15,7 @@ Nădejdea dragostea credința
 La fel până la moarte
 
 [v2]
-Doar prin Cristos, puternic sunt
+Doar prin Hristos, puternic sunt
 Și crucea am so port
 Aici jos lacrimile-a șters
 Și ma-nvațat să lupt

@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Cântări pentru Biserica Emanuel Sibiu",
   "dependencies": {
+    "@types/is-ci": "^3.0.2",
     "@types/nspell": "^2.1.4",
     "@types/string-similarity": "^4.0.0",
     "chalk": "^4.1.2",
@@ -10,6 +11,7 @@
     "dotenv": "^16.3.1",
     "fs-extra": "^11.1.1",
     "iconv": "^3.0.1",
+    "is-ci": "^3.0.1",
     "lodash-es": "^4.17.21",
     "nspell": "^2.1.5",
     "p-map": "^4.0.0",
@@ -64,7 +66,8 @@
     "import:rc:by-ids": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./temp-runners/importSongsFromRcByIds.ts",
     "import:rc:ci": "npm run import:rc:by-authors && npm run import:rc:by-ids && npm run reprocess:filename && npm run format",
     "build:ci": "npm run lint && npm run test && npm run verify",
-    "meta:ci": "npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format"
+    "meta:ci": "npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format",
+    "meta:local": "NODE_ENV=local npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format"
   },
   "author": "Ioan Lucuț",
   "license": "ISC"

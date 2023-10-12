@@ -4,6 +4,7 @@ import * as process from 'process';
 import dotenv from 'dotenv';
 import { isEqual } from 'lodash-es';
 import chalk from 'chalk';
+import isCI from 'is-ci';
 import {
   getRawTitleBySong,
   logFileWithLinkInConsole,
@@ -49,3 +50,6 @@ const run = async (dir: string) => {
 };
 
 await run(process.env.VERIFIED_DIR);
+if (!isCI) {
+  await run(process.env.CANDIDATES_DIR);
+}

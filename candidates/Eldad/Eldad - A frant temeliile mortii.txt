@@ -1,5 +1,5 @@
 [title]
-A frant temeliile mortii {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {191607}, id: {wxKJfgNZw8bGwiTmw6HXpt}, contentHash: {5423a6}}
+A frant temeliile mortii {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {191607}, id: {wxKJfgNZw8bGwiTmw6HXpt}, contentHash: {0568b7}}
 
 [sequence]
 v1,c,v2,c,v3,c,e,c

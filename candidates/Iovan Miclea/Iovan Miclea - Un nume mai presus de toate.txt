@@ -1,5 +1,5 @@
 [title]
-Un nume mai presus de toate {alternative: {*}, composer: {Iovan Miclea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {208668}, id: {tj1c1DD1WQ8cBsreBLFnHL}, contentHash: {af3b6a}}
+Un nume mai presus de toate {alternative: {*}, composer: {Iovan Miclea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {208668}, id: {tj1c1DD1WQ8cBsreBLFnHL}, contentHash: {4a697c}}
 
 [sequence]
 v1,c,v2,c,v3,c

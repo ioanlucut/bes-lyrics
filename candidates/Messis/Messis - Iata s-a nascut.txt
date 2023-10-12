@@ -1,5 +1,5 @@
 [title]
-Iata s-a nascut {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {237516}, id: {8FbjV5S6JTdRP6FanaYAYS}, contentHash: {2f43d3}}
+Iata s-a nascut {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {237516}, id: {8FbjV5S6JTdRP6FanaYAYS}, contentHash: {a998f9}}
 
 [sequence]
 v1,c,v2,c,e

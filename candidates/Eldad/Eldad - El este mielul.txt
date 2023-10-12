@@ -1,5 +1,5 @@
 [title]
-El este mielul {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238290}, id: {hdHFThBPLKktDdWSJcq9VS}, contentHash: {f5d050}}
+El este Mielul {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238290}, id: {hdHFThBPLKktDdWSJcq9VS}, contentHash: {547317}}
 
 [sequence]
 c,v1,c,v2,c

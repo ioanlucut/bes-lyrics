@@ -1,5 +1,5 @@
 [title]
-Al cui esti? {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {174125}, id: {5GQmBUD5KfbtrdNx82zBJt}, contentHash: {34c409}}
+Al cui esti? {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {174125}, id: {5GQmBUD5KfbtrdNx82zBJt}, contentHash: {e78a87}}
 
 [sequence]
 v1,c,v2,c

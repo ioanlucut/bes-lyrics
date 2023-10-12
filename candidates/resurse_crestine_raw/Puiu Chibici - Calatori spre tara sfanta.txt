@@ -1,5 +1,5 @@
 [title]
-Calatori spre tara sfanta {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {57626}, id: {am8RLwDpqpZAbSzi6K99mj}, contentHash: {60a3a7}}
+Calatori spre tara sfanta {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {57626}, id: {am8RLwDpqpZAbSzi6K99mj}, contentHash: {ff7042}}
 
 [sequence]
 v1,v2,v3,v4

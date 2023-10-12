@@ -1,5 +1,5 @@
 [title]
-M-ating de tine dar nu oricum {alternative: {*}, composer: {Grup Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {228227}, id: {gbJvjwbpfeNyAEq9nNnLkW}, contentHash: {ba6782}}
+M-ating de Tine dar nu oricum {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {228227}, id: {gbJvjwbpfeNyAEq9nNnLkW}, contentHash: {fad1de}}
 
 [sequence]
 v1,c,v2,c,e,c

@@ -1,5 +1,5 @@
 [title]
-In fata regelui {alternative: {*}, composer: {Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158876}, id: {jJmdWbsGdQ38QDL72sXUa9}, contentHash: {6c42e2}}
+In fata regelui {alternative: {*}, composer: {Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158876}, id: {jJmdWbsGdQ38QDL72sXUa9}, contentHash: {e92b71}}
 
 [sequence]
 v1,v2,c,v2,c,e,c

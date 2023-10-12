@@ -1,5 +1,5 @@
 [title]
-De ce stai mut {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6571}, id: {4H5g9M9GTKrPQFknWZXBLt}, contentHash: {c0c9ad}}
+De ce stai mut {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6571}, id: {4H5g9M9GTKrPQFknWZXBLt}, contentHash: {1ecb33}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -19,7 +19,7 @@ Dar știu că-I mare harul Tău.
 
 [v2]
 De-atâta vreme-s în cuptor,
-Ard și n-am nici un ajutor,
+Ard și n-am niciun ajutor,
 Vrei oare să mă curățești,
 Sau poate să mă nimicești,
 Sau așa-mi spui că mă iubești?

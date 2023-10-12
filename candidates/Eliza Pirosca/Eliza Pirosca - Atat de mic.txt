@@ -1,5 +1,5 @@
 [title]
-Atat de mic {alternative: {*}, composer: {Eliza Pirosca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {94107}, id: {a4RkbFuQEWSxFc5t1UVtRj}, contentHash: {e1e258}}
+Atat de mic {alternative: {*}, composer: {Eliza Pirosca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {94107}, id: {a4RkbFuQEWSxFc5t1UVtRj}, contentHash: {f801bb}}
 
 [sequence]
 v1,c,e

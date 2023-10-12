@@ -1,5 +1,5 @@
 [title]
-Imparte-ti painea {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225478}, id: {rxLeT7Qe3QJnbXK5XN3kZh}, contentHash: {c6c1fd}}
+Imparte-ti painea {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225478}, id: {rxLeT7Qe3QJnbXK5XN3kZh}, contentHash: {a6be04}}
 
 [sequence]
 v1,c,v2,c,v3,c

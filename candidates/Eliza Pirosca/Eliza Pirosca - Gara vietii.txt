@@ -1,8 +1,8 @@
 [title]
-Gara vietii {alternative: {*}, composer: {Eliza Pirosca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {113287}, id: {hTUtFdazzX3hg4Yj2AJkx7}, contentHash: {f49191}}
+Gara vietii {alternative: {*}, composer: {Eliza Pirosca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {113287}, id: {hTUtFdazzX3hg4Yj2AJkx7}, contentHash: {82b7b6}}
 
 [sequence]
-v1,c,v2,c,c
+v1,c,v2,b,c
 
 [v1]
 Sunt în Gara Vieții și aștept cam de mult
@@ -31,7 +31,7 @@ M-a facut atât de fericit.
 Mi-e dor de viață și de soare, mi-e dor de infinit...
 Trenuri nu mai opresc, oare ce trebuie să fac?
 Mi-e teamă că voi rămâne singur pentru totdeauna.
->Aștept, aștept, iată Cineva se ivește
+Aștept, aștept, iată Cineva se ivește
 Îl recunosc, are o privire atât de blândă!
 Mă strânge la piept și-apoi mă ia de mâna
 Nu-mi mai este frig și nici teamă.

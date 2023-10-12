@@ -1,5 +1,5 @@
 [title]
-Hai veniti la betleem {alternative: {*}, composer: {Iovan Miclea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1460}, id: {uAApTk7ib3BCxB9vX3bEs8}, contentHash: {cf1142}}
+Hai veniti la betleem {alternative: {*}, composer: {Iovan Miclea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1460}, id: {uAApTk7ib3BCxB9vX3bEs8}, contentHash: {0840f3}}
 
 [sequence]
 v1,c,v2,c,v3,c

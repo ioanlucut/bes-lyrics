@@ -1,5 +1,5 @@
 [title]
-Spui ca tu cauti viata {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225313}, id: {ksCKVyCFF5a6VCFZWjmfmg}, contentHash: {985eb9}}
+Spui ca tu cauti viata {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225313}, id: {ksCKVyCFF5a6VCFZWjmfmg}, contentHash: {757d3d}}
 
 [sequence]
 v1,c,v2,c
@@ -7,7 +7,7 @@ v1,c,v2,c
 [v1]
 Te-ai oprit doar o clipă
 Să te-ntrebi unde te duci
-Poate n-ai nici o țintă dar alergi
+Poate n-ai nicio țintă dar alergi
 Te-ai pornit cu așa grabă
 Insa oare unde ajungi
 E acesta sfârșitul ce-l alegi?

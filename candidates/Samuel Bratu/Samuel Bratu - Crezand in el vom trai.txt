@@ -1,5 +1,5 @@
 [title]
-Crezand in el vom trai {alternative: {*}, composer: {Samuel Bratu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {202974}, id: {21A8T31FvVsyazpiHU2i9H}, contentHash: {862c6e}}
+Crezand in el vom trai {alternative: {*}, composer: {Samuel Bratu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {202974}, id: {21A8T31FvVsyazpiHU2i9H}, contentHash: {c51e2b}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Luptam {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {232879}, id: {eHeNewuHiSu5hy3fKpcLEL}, contentHash: {93a06e}}
+Luptam {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {232879}, id: {eHeNewuHiSu5hy3fKpcLEL}, contentHash: {1953bc}}
 
 [sequence]
 v1,b,c,v2,b,c,e,c

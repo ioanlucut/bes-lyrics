@@ -1,5 +1,5 @@
 [title]
-Aici te astept azi {alternative: {*}, composer: {Agape}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1013}, id: {pgzbysuo7F9LH8PusFSVV6}, contentHash: {4478f7}}
+Aici te astept azi {alternative: {*}, composer: {Agape}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1013}, id: {pgzbysuo7F9LH8PusFSVV6}, contentHash: {3bbd8f}}
 
 [sequence]
 v1,c

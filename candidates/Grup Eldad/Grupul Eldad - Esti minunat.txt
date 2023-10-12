@@ -1,8 +1,8 @@
 [title]
-Esti minunat {alternative: {*}, composer: {Grup Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176805}, id: {xxixjAynWsYjKJtXecA6hP}, contentHash: {2f7fb8}}
+Esti minunat {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176805}, id: {xxixjAynWsYjKJtXecA6hP}, contentHash: {0a7b02}}
 
 [sequence]
-v1,c,c
+v1,c,b,c
 
 [v1]
 Laudă, cinste, mărire

@@ -1,5 +1,5 @@
 [title]
-Da-i inima ta lui isus {alternative: {*}, composer: {Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157187}, id: {82K3WAWyMJtb3p7tt5AgUw}, contentHash: {4014b7}}
+Da-i inima ta lui Isus {alternative: {*}, composer: {Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157187}, id: {82K3WAWyMJtb3p7tt5AgUw}, contentHash: {b1b384}}
 
 [sequence]
 v1,c,e

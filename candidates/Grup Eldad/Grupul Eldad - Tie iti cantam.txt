@@ -1,5 +1,5 @@
 [title]
-Tie iti cantam {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {204289}, id: {xkqbhyJ3ocxC6ZQZaSR6Gx}, contentHash: {226be1}}
+Tie iti cantam {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {204289}, id: {xkqbhyJ3ocxC6ZQZaSR6Gx}, contentHash: {6a32bd}}
 
 [sequence]
 c,s,c,s2,c,s3,c

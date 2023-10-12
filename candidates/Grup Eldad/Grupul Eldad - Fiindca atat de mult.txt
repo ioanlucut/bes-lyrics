@@ -1,5 +1,5 @@
 [title]
-Fiindca atat de mult {alternative: {*}, composer: {Grup Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176808}, id: {r1aNDg37wxxfPxYx2Z6SMN}, contentHash: {b81975}}
+Fiindca atat de mult {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176808}, id: {r1aNDg37wxxfPxYx2Z6SMN}, contentHash: {14430d}}
 
 [sequence]
 v1,c,v2,c,v3,c

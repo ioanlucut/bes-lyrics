@@ -1,5 +1,5 @@
 [title]
-Cand nici nu existam si nici n-aveam suflare {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {137840}, id: {31usBoayLwBP7Vo645ePdr}, contentHash: {8d317a}}
+Cand nici nu existam si nici n-aveam suflare {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {137840}, id: {31usBoayLwBP7Vo645ePdr}, contentHash: {06d7f2}}
 
 [sequence]
 v1,c,v2,c,v3,c

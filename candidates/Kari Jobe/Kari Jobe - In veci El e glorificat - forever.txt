@@ -1,8 +1,8 @@
 [title]
-In veci el e glorificat (traducere kari jobe - forever) {alternative: {*}, composer: {Kari Jobe}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {130377}, id: {bUcCtBd46ojEkjqfXqD69a}, contentHash: {bf37c1}}
+In veci El e glorificat {alternative: {Forever}, composer: {Kari Jobe}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {130377}, id: {bUcCtBd46ojEkjqfXqD69a}, contentHash: {b9a442}}
 
 [sequence]
-v1,v2,c,c
+v1,v2,c,b,c
 
 [v1]
 Intreg pamant a plans

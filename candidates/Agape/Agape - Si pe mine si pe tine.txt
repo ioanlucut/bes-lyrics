@@ -1,5 +1,5 @@
 [title]
-Si pe mine si pe tine {alternative: {*}, composer: {Agape}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5066}, id: {e7XfxjREiZGnzsuaH61whW}, contentHash: {f31057}}
+Si pe mine si pe tine {alternative: {*}, composer: {Agape}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5066}, id: {e7XfxjREiZGnzsuaH61whW}, contentHash: {9e1c78}}
 
 [sequence]
 c,v1,c
