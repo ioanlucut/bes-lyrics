@@ -1,22 +1,22 @@
 [title]
-Din cer îngeri cobor cântând {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7259}, id: {5vtKRxjRfAXpGpbiGsxUPg}, contentHash: {2942d0}}
+Din cer îngeri coboară cântând {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7259}, id: {5vtKRxjRfAXpGpbiGsxUPg}, contentHash: {2942d0}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Din cer îngeri cobor cântând
+Din cer îngeri coboară cântând
 La păstori veste aducând,
-/: Căci s-a născut Mântuitor,
+/: Căci S-a născut Mântuitor,
 Veselie în popor, în lumea aceasta. :/
 
 [c]
-La iesle am aflat pe al Păcii Împărat
-/: Și lui ne închinăm, slavă în veci să-i dăm! :/
+La iesle am aflat pe al păcii Împărat
+/: Și Lui ne închinăm, slavă în veci să-I dăm! :/
 
 [v2]
 Îngerul e vestitor,
-În cete ei cântă în cor:
+În cete ei cântă-n cor:
 /: „Slavă în ceruri Tatălui
 Pace între oameni plăcuți Lui, în lumea aceasta! :/
 
@@ -30,4 +30,4 @@ Bucuroși s-au închinat, înaintea Sa. :/
 Prieten drag vin’ la Isus,
 Dă-I inima că-i de ajuns.
 /: Lasă-L pe El să intre în ea
-Și pace veșnică-ți va da, în veci, Aleluia ! :/
+Și pace veșnică-ți va da, în veci, aleluia! :/
