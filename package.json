@@ -66,8 +66,7 @@
     "import:rc:by-ids": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./temp-runners/importSongsFromRcByIds.ts",
     "import:rc:ci": "npm run import:rc:by-authors && npm run import:rc:by-ids && npm run reprocess:filename && npm run format",
     "build:ci": "npm run lint && npm run test && npm run verify",
-    "meta:ci": "npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format",
-    "meta:local": "NODE_ENV=local npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format"
+    "meta:ci": "npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format"
   },
   "author": "Ioan Lucuț",
   "license": "ISC"
