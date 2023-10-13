@@ -6,11 +6,11 @@ v1,c,e
 
 [v1]
 /: Domn al domnilor, Rege-al regilor,
-Glorie, Aleluia! :/
+Glorie, aleluia! :/
 
 [c]
 /: Isus, Prinț al păcii,
-Glorie, Aleluia! :/
+Glorie, aleluia! :/
 
 [e]
-Glorie, Aleluia!
+Glorie, aleluia!
