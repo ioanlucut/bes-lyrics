@@ -1,14 +1,16 @@
 [title]
-Este un Nume {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227000}, id: {wBdZzQc5cwG9u3fVs7Q7Kq}, contentHash: {742274}}
+Este un Nume {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227000}, id: {wBdZzQc5cwG9u3fVs7Q7Kq}, contentHash: {e1854b}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
-[v1]
-Este un Nume, ce rupe orice lanț când Îl rostești
+[v1.1]
+Este un Nume, ce rupe orice lanț când Îl rostești,
 Și dacă-L chemi salvare-n El primești.
 O, ce Nume!
-Este un Nume, din fața Lui înfrânți vrăjmașii fug
+
+[v1.2]
+Este un Nume, din fața Lui înfrânți vrăjmașii fug,
 Puternic ca să rupă orice jug.
 O, ce Nume!
 
@@ -16,18 +18,16 @@ O, ce Nume!
 Isus, Isus, ce puternic Domn!
 Isus, Isus, Rege-n veci pe tron!
 
-[v2]
+[v2.1]
 Este o cruce, un lemn de suferință și dispreț,
-Puterea ce și azi salvează vieți
-La cruce.
-Este un sânge, ce striga până azi: „S-a isprăvit!”
-Întregul preț la cruce a fost plătit
-Cu sânge.
+Puterea ce și azi salvează vieți, la cruce.
+
+[v2.2]
+Este un sânge, ce striga până azi: „S-a isprăvit!”,
+Întregul preț la cruce a fost plătit, cu sânge.
 
 [b]
 În Numele lui Isus să cadă legături,
-Adicții, frici, depresii
-Și orice-ntărituri.
-Vieți sunt restaurate,
-Se-ntorc fiice și fii,
+Adicții, frici, depresii și orice-ntărituri.
+Vieți sunt restaurate, se-ntorc fiice și fii,
 Popoare vin la viață prin Duhul Celui Viu.
