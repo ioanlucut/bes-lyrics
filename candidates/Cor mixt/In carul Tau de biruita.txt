@@ -1,0 +1,36 @@
+[title]
+În carul Tău de biruință {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {1b70c9}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4
+
+[v1]
+Prin lunga noastră pribegie
+Cu tine, Doamne, am umblat
+Și-n întristări și-n bucurie
+Mereu ne-ai binecuvântat.
+
+[c]
+În carul Tău, în carul Tău de biruință,
+Cu braț puternic, Tu ne-ai condus, Păstor iubit,
+Ne-ai izbăvit întotdeauna prin credință
+Și ne-ai iertat, Doamne, de câte ori Ți-am mai greșit.
+
+[v2]
+Cu har și multă îndurare,
+Aici Tu ne-ai înconjurat,
+Ai fost cu noi în strâmtorare
+Și-n încercări ne-ai ajutat.
+
+[v3]
+Ca pe Israel în vechime
+De mari primejdii ne-ai ferit,
+La pajiști verzi și ape line,
+Isuse ne-ai călăuzit.
+
+[v4]
+Ne-om vedea la răpire,
+Sus la mare întâlnire,
+Îmbrăcați în nemurire,
+/: Cu Isus, Preasfântul Mire :/
+Ne-om vedea!
