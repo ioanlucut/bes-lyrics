@@ -1,0 +1,25 @@
+[title]
+Ce scumpa-i mama mea {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {91028}, id: {w8pRrXWmf7tk66ahxX2meP}, contentHash: {7934cf}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Stau și privesc cu drag în urmă,
+O, ce dulce-i amintirea a doi ochi
+Ce nicicând n-am să-i uit!
+Când eram în nesiguranță
+Ea îmi vorbea despre speranță,
+Glasul ei blând nicicând n-am să-l uit.
+
+[c]
+/: Ce scumpă-i mama mea, mama mea,
+Nu-i pot uita iubirea ce blând mă alina!
+Mama mea, mama mea,
+Prin tine, Dumnezeu viață mi-a dat. :/
+
+[v2]
+Știu că sacrificiul mare, plin de lacrimi si sudoare,
+Va fi răsplătit odată de Isus.
+Îți aud și acum glasul, ce îmi spunea să las păcatul,
+Povața ta mi-a dat aripi spre cer.
