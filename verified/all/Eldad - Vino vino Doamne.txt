@@ -1,5 +1,5 @@
 [title]
-Vino vino Doamne {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {174960}, id: {hVgtqQV1DcsEYrxikU527R}, contentHash: {978134}}
+Vino, vino, Doamne {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {174960}, id: {hVgtqQV1DcsEYrxikU527R}, contentHash: {8ea562}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -12,7 +12,7 @@ Urmând întregile noastre dureri.
 La Cortul Întâlnirii azi Isuse,
 Noi te-așteptăm să vii ca și-nvechime
 Te cheamă sufletele de durere,
-O vino să le dai azi mângâiere.
+O, vino să le dai azi mângâiere.
 
 [c]
 Vino, vino Doamne
