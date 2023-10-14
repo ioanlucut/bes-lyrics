@@ -1,5 +1,5 @@
 [title]
-Doamne, ești bun cu min’ {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gDw7uS9enyBSRkFhkv8N48}, contentHash: {06a290}}
+Doamne, ești bun cu min’ {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gDw7uS9enyBSRkFhkv8N48}, contentHash: {7c5d02}}
 
 [sequence]
 c,v1,c2,c,v2,e,c
@@ -9,8 +9,8 @@ c,v1,c2,c,v2,e,c
 Tu-mi dai mai mult decât mi-am dorit. :/
 
 [v1]
-Mi-ai dat o mamă și un tată iubitor,
-Ei grija mea o poartă, sunt copilul lor.
+Mâncare Tu îmi dai și haine să mă-mbrac,
+Pe față zâmbet pui și fericit eu sunt.
 Pentru toate vreau să-Ți spun:
 
 [c2]
