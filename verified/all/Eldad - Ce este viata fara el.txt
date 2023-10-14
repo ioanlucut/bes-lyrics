@@ -1,0 +1,23 @@
+[title]
+Ce este viața fără El? {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197729}, id: {jT2VhKfv5KfWsKoSa1DeBb}, contentHash: {0d2607}}
+
+[sequence]
+v1,c
+
+[v1]
+Ce este viața fără El? E disperare.
+Un șir de zile fără sens, cu nopți amare.
+Fericit nu ești, chiar dacă tu zâmbești
+Și soare nu-i, chiar dacă vrei să-mi spui.
+Ce este viața fără El? O căutare,
+Un vis pe care îl plătești cu-n preț prea mare.
+Plânsul tău ascuns, îți poate fi răspuns.
+Dar viață fără Isus este de nepătruns:
+Dacă nu respiri prin El, degeaba tu trăiești,
+Dacă nu e bucuria ta, degeaba tu zâmbești.
+
+[c]
+/: Fără El nu ai viață, bucurie și speranță,
+Fără El nu cunoști ce-nseamnă a iubi,
+Fără El nu ai soare, nu ai zâmbet, nici culoare,
+Fără El e imposibil, mă intreb cum poți trăi :/

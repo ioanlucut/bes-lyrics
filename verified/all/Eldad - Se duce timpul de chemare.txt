@@ -5,17 +5,16 @@ Se duce timpul de chemare {alternative: {*}, composer: {Eldad}, writer: {*}, arr
 v1,c,v2,c,v3,c
 
 [v1]
-Se duce timpul de chemare
+Se duce timpul de chemare,
 Iar tu rămâi în stare grea.
 Vin zile când în plâns și jale
-’
-Naintea Domnului vei sta.
+‘Naintea Domnului vei sta.
 
 [c]
 /: Că totul trece-n astă lume
 Și omu-i, omu-i trecător
 Dumnezeu mereu rămâne
-Ca Domn Atotstăpânitor. :/
+Ca Domn atotstăpânitor. :/
 
 [v2]
 Răpi-va Domnul pe ai săi
