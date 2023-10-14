@@ -1,5 +1,5 @@
 [title]
-Binecuvântat fie Domnul {alternative: {Cor Mixt}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {bb5014}}
+Binecuvântat fie Domnul {alternative: {Cor Mixt}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {iiP7BKV7KprxYa81WeqxAy}, contentHash: {bb5014}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
