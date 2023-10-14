@@ -1,5 +1,5 @@
 [title]
-Doamne bun {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230300}, id: {9RxMXToh69yvtBSKqmm1aF}, contentHash: {9240fe}}
+Doamne bun {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230300}, id: {9RxMXToh69yvtBSKqmm1aF}, contentHash: {ab1784}}
 
 [sequence]
 v1,v2,e

@@ -1,5 +1,5 @@
 [title]
-Ce este viața fără El? {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197729}, id: {jT2VhKfv5KfWsKoSa1DeBb}, contentHash: {0d2607}}
+Ce este viața fără El? {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197729}, id: {jT2VhKfv5KfWsKoSa1DeBb}, contentHash: {95bed3}}
 
 [sequence]
 v1,c
