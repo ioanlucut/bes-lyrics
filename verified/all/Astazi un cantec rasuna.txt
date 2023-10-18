@@ -5,7 +5,7 @@ Astăzi un cântec răsună {alternative: {*}, composer: {*}, writer: {*}, arran
 v1,c,v2,c,v3,c
 
 [v1]
-Astăzi un cântec răsună:
+Astăzi un cântec răsună
 O, Duhule Preasfânt,
 Căci S-a născut Mesia
 În ieslea din Betleem.
@@ -19,7 +19,7 @@ Soarele Emanuel! :/
 [v2]
 Isus cerul a lăsat
 Și ca noi trup a-mbrăcat,
-A venit jos să se nască,
+A venit jos să Se nască,
 Lumea să o mântuiască.
 
 [v3]

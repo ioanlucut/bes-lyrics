@@ -5,10 +5,10 @@ Aleluia, Tu ești Domn atotputernic {alternative: {*}, composer: {*}, writer: {*
 v1,c,v1,c
 
 [v1]
-Aleluia, Aleluia,
+Aleluia, aleluia,
 Tu ești Domn atotputernic
 Și domnești în veci.
-Cu putere și în slavă
+Cu putere și în slavă,
 Biruind mereu peste toate.
 
 [c]

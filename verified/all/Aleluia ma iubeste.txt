@@ -5,8 +5,8 @@ Aleluia, mă iubește {alternative: {*}, composer: {*}, writer: {*}, arranger: {
 v1,v2
 
 [v1]
-/: Aleluia, Aleluia, Aleluia, Aleluia :/
-Aleluia, Aleluia, Aleluia, Aleluia
+/: Aleluia, aleluia, aleluia, aleluia :/
+Aleluia, aleluia, aleluia, aleluia
 
 [v2]
 /: Mă iubește, mă iubește,
