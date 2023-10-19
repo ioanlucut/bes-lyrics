@@ -1,5 +1,5 @@
 [title]
-Ce mare ești Tu, ce mare e mila Ta {alternative: {*}, composer: {Bethania’s}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2817}, id: {i7QYm7qeUVBvFHGESsaeuf}, contentHash: {ba2b6f}}
+Ce mare ești Tu, ce mare e mila Ta {alternative: {*}, composer: {Bethania’s}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2817}, id: {i7QYm7qeUVBvFHGESsaeuf}, contentHash: {3e857c}}
 
 [sequence]
 v1,c,v1,c
