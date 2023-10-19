@@ -5,7 +5,7 @@ Aleluia, Agnus Dei {alternative: {*}, composer: {*}, writer: {*}, arranger: {*},
 v1,c,v1,c
 
 [v1]
-/: Aleluia, Aleluia,
+/: Aleluia, aleluia,
 Domnul nostru domnește în veci. :/
 
 [c]
