@@ -1,13 +1,13 @@
 [title]
-Tu-mi știi viitorul {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {149624}, id: {3SuRmELRZcbMFsaMB8Hq47}, contentHash: {40e962}}
+Tu-mi știi viitorul {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {149624}, id: {3SuRmELRZcbMFsaMB8Hq47}, contentHash: {4de0e4}}
 
 [sequence]
 v1,c,v2,c,v3,c,e
 
 [v1]
 /: Când eram doar un plod fără chip,
-Ochii tăi mă vedeau!
-În cartea ta de mult erau scrise
+Ochii Tăi mă vedeau!
+În cartea Ta demult erau scrise
 Zilele ce m-așteptau! :/
 
 [c]
