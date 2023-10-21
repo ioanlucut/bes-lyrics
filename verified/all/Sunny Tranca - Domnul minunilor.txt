@@ -1,0 +1,45 @@
+[title]
+Domnul minunilor {alternative: {*}, composer: {Sunny Tranca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sDshVdHvKXtynFGW7K4vrZ}, contentHash: {7fe602}}
+
+[sequence]
+v1.1,v1.2,p,c,v2.1,v2.2,b
+
+[v1.1]
+Tu Te numești Atotputernic,
+Prin fapte mari ești cunoscut,
+Tu poți lucra în imposibil,
+Când totul pare că-i pierdut.
+
+[v1.2]
+Și-acolo unde nu-i o cale,
+Tu poți deschide din nou uși
+Și înaintea feței Tale
+Sunt bucurii de nedescris.
+
+[p]
+Deschideți porțile, să intre Regele,
+Să intre Împăratul slavei!
+Deschideți porțile, neteziți cărările,
+El e gata să lucreze și azi!
+
+[c]
+/:Tu ești Domnul minunilor! :/x3
+Tu mereu același ești, ești gata să lucrezi!
+
+[v2.1]
+Tu Te numești Vindecătorul
+Și prin minuni, Tu ne răspunzi,
+Tu ne asiguri viitorul,
+Sub aripa Ta ne ascunzi.
+
+[v2.2]
+Tu ne porți mereu de grijă
+Și prin minuni, Tu ne răspunzi,
+Tu poți să dai și azi odihnă
+Și din necaz să izbăvești.
+
+[b]
+Pașii Tăi toarnă belșugul și, în bunătatea Ta,
+Tată, ne ieși înainte și ne dai victoria.
+Pașii Tăi toarnă belșugul și, în bunătatea Ta,
+Tată, ne ieși înainte și ne dai victoria Ta!
