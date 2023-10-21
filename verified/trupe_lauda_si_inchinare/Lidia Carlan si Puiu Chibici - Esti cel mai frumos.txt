@@ -5,13 +5,13 @@ Ești cel mai frumos {alternative: {*}, composer: {Lidia Cârlan și Puiu Chibic
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
 
 [v1.1]
-Privind la bolta-albastră
+Privind la bolta-albastră,
 Nu pot să nu-Ți slăvesc
 Lucrarea Ta măreață,
 O, Creator ceresc!
 
 [v1.2]
-‘N-atâta armonie
+‘N-atâta armonie,
 Eu grijile-mi destram
 Și plin de bucurie,
 Cu dragoste exclam:
@@ -25,12 +25,12 @@ Te-adoră zorile!
 [c1.2]
 Ești cel mai frumos!
 Ești cel mai frumos, măreț și înălțat,
-Prin tot ce ai creat, ești Doamne minunat,
+Prin tot ce ai creat, ești, Doamne, minunat,
 Ești cel mai frumos!
 
 [v2.1]
 De-atâta măreție sunt,
-Doamne, copleșit
+Doamne, copleșit!
 Și-Ți cânt mereu doar Ție,
 O, Tatăl meu iubit!
 
@@ -50,4 +50,4 @@ De Tine plămădit.
 M-avânt dorind fierbinte
 Să zbor să Te-ntâlnesc,
 Pe Tine, drag Părinte,
-Și-n taină să-Ți șoptesc.
+Și-n taină să-Ți șoptesc:
