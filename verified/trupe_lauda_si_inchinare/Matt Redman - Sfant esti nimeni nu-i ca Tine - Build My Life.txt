@@ -1,5 +1,5 @@
 [title]
-Sfânt ești, nimeni nu-i ca Tine {alternative: {Build My Life}, composer: {Matt Redman}, writer: {Matt Redman}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {189324}, id: {vQ9VrucBegcLw3FdrDoWKQ}, contentHash: {13bd5a}}
+Sfânt ești, nimeni nu-i ca Tine {alternative: {Build My Life}, composer: {Matt Redman}, writer: {Matt Redman}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {189324}, id: {vQ9VrucBegcLw3FdrDoWKQ}, contentHash: {137098}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c

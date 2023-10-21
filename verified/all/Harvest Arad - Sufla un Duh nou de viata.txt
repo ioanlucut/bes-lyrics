@@ -1,5 +1,5 @@
 [title]
-Suflă un Duh nou de viață {alternative: {*}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {239445}, id: {jzjQzvuq4LiKKtRqfQrm2D}, contentHash: {781a2c}}
+Suflă un Duh nou de viață {alternative: {*}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {239445}, id: {jzjQzvuq4LiKKtRqfQrm2D}, contentHash: {84f6f8}}
 
 [sequence]
 v1,c,e
