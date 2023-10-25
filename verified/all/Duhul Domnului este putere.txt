@@ -5,7 +5,7 @@ Duhul Domnului este putere {alternative: {*}, composer: {*}, writer: {*}, arrang
 v1,c,v1,c
 
 [v1]
-Cel Ce e-n noi e mai tare
+Cel ce e-n noi e mai tare
 Decât duhul veacului,
 Suntem mai mult decât biruitori
 Prin puterea Domnului,

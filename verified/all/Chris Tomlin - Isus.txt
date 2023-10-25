@@ -5,7 +5,7 @@ Isus {alternative: {*}, composer: {Chris Tomlin}, writer: {*}, arranger: {*}, in
 v1,v2,c,v3,c,b,c2
 
 [v1]
-Isus a zis că El e adevărul
+Isus a zis că El e Adevărul
 Și ne-a promis că lucruri noi vor fi.
 El S-a născut să biruie păcatul,
 Isus.
@@ -27,7 +27,7 @@ Isus.
 Un Nume chem în vremuri de-ncercare,
 Un cântec am spre mângâierea mea.
 O voce știu, calmând furtuni pe mare,
-E Isus, Isus.
+E a lui Isus, Isus.
 
 [b]
 /: Mesia, salvare,

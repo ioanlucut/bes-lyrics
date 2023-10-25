@@ -1,14 +1,14 @@
 [title]
-Cânt Aleluia, Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6Y6HkxcaUyjhZVkjjW1EUY}, contentHash: {e53654}}
+Cânt aleluia, Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6Y6HkxcaUyjhZVkjjW1EUY}, contentHash: {e53654}}
 
 [sequence]
 c,v1,v2
 
 [c]
-Cânt Aleluia, Domnului,
-Cânt Aleluia, Domnului,
-/: Cânt Aleluia, cânt Aleluia,
-Cânt Aleluia, Domnului! :/
+Cânt aleluia, Domnului,
+Cânt aleluia, Domnului,
+/: Cânt aleluia, cânt aleluia,
+Cânt aleluia, Domnului! :/
 
 [v1]
 Slavă-I aducem lui Isus,

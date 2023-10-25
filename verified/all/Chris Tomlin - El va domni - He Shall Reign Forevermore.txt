@@ -7,7 +7,7 @@ v1,c,v2,c,b,e
 [v1]
 Într-o noapte sumbră, totul se frământă,
 Lumea-n întuneric, împietrită stă.
-Și-atunci în iesle, smerit se naște Mielul Sfânt.
+Și-atunci în iesle, smerit Se naște Mielul Sfânt.
 
 [c]
 El va domni /: în veci de veci, :/

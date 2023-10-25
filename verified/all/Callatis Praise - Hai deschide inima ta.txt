@@ -5,15 +5,15 @@ Hai, deschide inima ta {alternative: {*}, composer: {Callatis Praise}, writer: {
 b,b2,c,v1,c,v2
 
 [b]
-Laudă fie adusă celui ce S-a născut la Betleem,
-Laudă fie adusă celui ce S-a născut la Betleem!
-Aleluia, Aleluia, Aleluia, la Betleem!
-Aleluia, Aleluia, Aleluia, la Betleem!
+Laudă fie adusă Celui ce S-a născut la Betleem,
+Laudă fie adusă Celui ce S-a născut la Betleem!
+Aleluia, aleluia, aleluia, la Betleem!
+Aleluia, aleluia, aleluia, la Betleem!
 
 [b2]
-Aleluia, Salvatorul nostru Rege
+Aleluia, Salvatorul nostru-i Rege
 S-a născut la Betleem.
-Aleluia, Salvatorul nostru Rege
+Aleluia, Salvatorul nostru-i Rege
 S-a născut la Betleem.
 
 [c]
@@ -29,7 +29,7 @@ Sărbători de vis, cu Hristos născut în inimă,
 Veșnicia s-o trăiești, eu te colind!
 
 [v2]
-Veșnicia Lui și de toată slava S-a lăsat,
+Veșnicia Lui și toată slava Și-a lăsat,
 Pe pământ S-a întrupat Pruncul Isus.
 Să fii fericit, mântuit și liber să trăiești,
 An de an pe Isus să-L iubești, eu te colind!

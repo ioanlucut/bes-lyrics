@@ -1,5 +1,5 @@
 [title]
-Emanuel, în veci pe Tron {alternative: {Born on that day}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {207888}, id: {wGR3ZiHK6QxqKUfNtRbm9B}, contentHash: {b8c360}}
+Emanuel, în veci pe tron {alternative: {Born on that day}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {207888}, id: {wGR3ZiHK6QxqKUfNtRbm9B}, contentHash: {b8c360}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,b,c1.1,c1.2

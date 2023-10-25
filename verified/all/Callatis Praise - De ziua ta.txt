@@ -1,5 +1,5 @@
 [title]
-De ziua ta {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4388}, id: {rXu1UZHKD6MPGJCLYKEgmw}, contentHash: {2ded0c}}
+De ziua Ta {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4388}, id: {rXu1UZHKD6MPGJCLYKEgmw}, contentHash: {2ded0c}}
 
 [sequence]
 v1,c,b,c
@@ -20,5 +20,5 @@ Din nemurire pe pământ ai venit,
 De ziua Ta, Îți urăm „Bun venit!”
 
 [b]
-Scump copil, pe pământ întrupat,
+Scump Copil, pe pământ întrupat,
 Bucurie și viață mi-ai dat.

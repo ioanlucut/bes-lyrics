@@ -1,15 +1,15 @@
 [title]
-Domnul stă în fruntea oastei Lui {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4897}, id: {xiKDdrdF93Wt4aat9JLATT}, contentHash: {d0b6d2}}
+Domnul stă în fruntea oștii Lui {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4897}, id: {xiKDdrdF93Wt4aat9JLATT}, contentHash: {d0b6d2}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Domnul stă în fruntea oastei Lui,
+Domnul stă în fruntea oștii Lui,
 Nimeni nu o poate birui.
 Pretutindeni slava Lui se va vedea.
 Tu să porți al biruinței steag,
-Slavă Lui, Isus a câștigat.
+Slavă Lui, Isus a câștigat!
 Nicio armă nu-i mai tare ca a Lui.
 
 [c]
@@ -18,7 +18,7 @@ Noi Îl urmăm unde ne duce.
 Vrăjmașii nu se pot împotrivi. :/
 
 [v2]
-Domnul stă în fruntea oastei Lui,
+Domnul stă în fruntea oștii Lui,
 Nimeni nu o poate birui.
 Pretutindeni slava Lui se va vedea.
 Stăm în oastea biruinței Lui,

@@ -1,17 +1,17 @@
 [title]
-Tu ești Lumina din zori de zi {alternative: {*}, composer: {Dolores}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111442}, id: {kdGrVm1MeAdQ8vHoQHiWZH}, contentHash: {f2b2cc}}
+Tu ești lumina din zori de zi {alternative: {*}, composer: {Dolores}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111442}, id: {kdGrVm1MeAdQ8vHoQHiWZH}, contentHash: {f2b2cc}}
 
 [sequence]
 v1,c,b,c
 
 [v1]
-Tu ești Lumina din zori de zi,
+Tu ești lumina din zori de zi,
 Tu ești motivul meu de-a trăi,
 Tu ești iubirea ce n-are sfârșit
 Tu ai mulțime de îndurări.
 Tu stai cu mine în încercări
 Și-mi dai noi aripi să zbor
-Spre alte zări - Isus
+Spre alte zări - Isus.
 
 [c]
 Vreau să fiu mai aproape de Tine,
