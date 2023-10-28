@@ -1,5 +1,5 @@
 [title]
-Cred în Dumnezeu ca Tată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {65663}, id: {szVrUGAz9ruYREzxrGnmR1}, contentHash: {12551a}}
+Cred în Dumnezeu ca Tată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {65663}, id: {szVrUGAz9ruYREzxrGnmR1}, contentHash: {e9776d}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c,e
@@ -19,7 +19,7 @@ Pe un lemn crucificat,
 Și-n mormânt, lângă Golgota,
 Trupul I-a fost îngropat.
 Cred că a-nviat, precum a zis,
-Și viu s-a arătat,
+Și viu S-a arătat,
 De aceea, la El am alergat.
 
 [c]
