@@ -6,24 +6,24 @@ v1,v2,v3,v4
 
 [v1]
 /: Dumnezeu e dragoste. :/
-Dumnezeu Cel veșnic,
+Dumnezeu cel veșnic,
 Domnul vieții,
 Dumnezeu e dragoste.
 
 [v2]
 /: Dumnezeu e adevăr. :/
-Dumnezeu Cel veșnic,
+Dumnezeu cel veșnic,
 Domnul vieții,
 Dumnezeu e adevăr.
 
 [v3]
 /: Dumnezeu e lumina mea. :/
-Dumnezeu Cel veșnic,
+Dumnezeu cel veșnic,
 Domnul vieții,
 Dumnezeu e lumina mea.
 
 [v4]
 /: Viață El mi-a dăruit. :/
-Dumnezeu Cel veșnic,
+Dumnezeu cel veșnic,
 Domnul vieții,
 Viață El mi-a dăruit.

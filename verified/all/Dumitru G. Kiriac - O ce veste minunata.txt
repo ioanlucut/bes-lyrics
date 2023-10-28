@@ -7,7 +7,7 @@ v1,v2,v3,v4
 [v1]
 O, ce veste minunată
 În Betleem ni s-arată,
-/: Astăzi s-a născut
+/: Astăzi S-a născut
 Cel făr’ de-nceput,
 Cum au spus prorocii. :/
 
@@ -16,7 +16,7 @@ Că la Betleem Maria
 Săvârșind călătoria,
 /: Într-un mic sălaș
 Lângă acel oraș,
-S-a născut Mesia. :/
+Naște pe Mesia. :/
 
 [v3]
 Pe Fiul Cel din vecie,

@@ -5,14 +5,14 @@ Armata măreață {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arra
 v1,c,b,c
 
 [v1]
-/: Armata măreață a Domnului sfânt,
+/: Armata măreață a Domnului Sfânt,
 Pleacă la luptă din trâmbiță sunând. :/
 
 [c]
-/: Conduși sunt mereu de vocea lui Dumnezeu! :/
+/: Condusă e mereu de vocea lui Dumnezeu! :/
 
 [b]
 /: Să răsune în Sion, Sion,
 Să se cutremure Sfântul Munte!
 Să răsune în Sion, Sion:
-„Domnul e Sfânt!”. :/ (3x)
+„Domnul e sfânt!”. :/ (3x)
