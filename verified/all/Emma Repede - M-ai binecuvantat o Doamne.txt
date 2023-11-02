@@ -7,13 +7,13 @@ v1,v2,v3,v4
 [v1]
 M-ai binecuvântat, o, Doamne!
 Cuvântul Tău cu mine ai împlinit.
-/: Mi-ai dat și mie harul jertfei tale,
+/: Mi-ai dat și mie harul jertfei Tale,
 Să fiu răscumpărat și mântuit. :/
 
 [v2]
 Ești cetățuia mea și medic,
 Privirea Ta o ai asupra mea.
-/: Te îngrijești de mine, Bun Stăpâne,
+/: Te îngrijești de mine, bun Stăpâne,
 Cum nimeni niciodată n-ar putea. :/
 
 [v3]
@@ -26,4 +26,4 @@ Te laud, Te slăvesc, o, Doamne,
 Te voi urma, Isuse Doamne,
 În ascultare voia-Ți voi împlini.
 /: Ca ucenic, mereu smerit, slujindu-Ți
-Glorificat, să fii Isus iubit. :/
+Glorificat, să fii Isus iubit! :/

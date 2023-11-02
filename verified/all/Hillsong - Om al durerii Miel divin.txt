@@ -12,7 +12,7 @@ Asupra Lui a luat.
 
 [v1.2]
 Bătut, zdrobit, batjocorit,
-El nu s-a apărat.
+El nu S-a apărat.
 „Voia Ta, nu voia Mea!”,
 A spus când s-a rugat.
 
@@ -20,13 +20,13 @@ A spus când s-a rugat.
 M-ai salvat la vechea cruce,
 Dragostea Ta mi-ai arătat,
 Sufletu-mi strigă „Aleluia!”
-Slavă celui înălțat!
+Slavă Celui înălțat!
 
 [v2]
 Dumnezeu venit din cer,
 Tu ne-ai răscumpărat.
 Vrei să te-mpaci cu cei ce sus,
-Pe cruce Te-au urcat?
+Pe cruce Te-au urcat.
 
 [b]
 /: Datoria mea a plătit-o El,

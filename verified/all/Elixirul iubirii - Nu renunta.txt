@@ -14,7 +14,7 @@ Când ai căzut și soarta te-a lovit necruțător.
 /: Nu renunța, nu te da bătut,
 Prietene, îți spun: dacă lupți vei câștiga,
 Nu renunța, nu te da bătut,
-Lasă dragostea să strălucească-n viața ta. :/
+Lasă dragostea să strălucească-n viața ta! :/
 
 [v2]
 E timpul să începi să lupți,
@@ -37,7 +37,7 @@ Dar dacă vei lupta, hai, luptă înc-o zi
 [v5]
 Și orice drum ai apuca
 Mai târziu tu vei vedea,
-Căci toate după planul Său
+Că toate după planul Său
 Au fost în avantajul tău.
 
 [v6]

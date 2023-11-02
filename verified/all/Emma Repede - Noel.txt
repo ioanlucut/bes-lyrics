@@ -5,18 +5,18 @@ Noel {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, int
 v1,c,v2,c
 
 [v1]
-Primul Noel, un înger din cer
+De primul Noel, un înger din cer
 A venit la păstorii, ce în câmp ei stăteau,
 Să le spună cu dor că-n al nopții fior
 S-a născut, într-o iesle, un Mântuitor!
 
 [c]
-/: Noel, Noel, :/
+/: Noel, noel, :/
 Azi S-a născut
 Regele-n Israel!
 
 [v2]
 Spre cer au privit și o stea au zărit,
-Strălucind luminos, arătând pe Hristos!
+Strălucind luminos, arătând spre Hristos!
 Ce mult ne-a iubit, El cu drag S-a smerit,
 Fără-un preț ne-a dat harul, ce ne-a mântuit!

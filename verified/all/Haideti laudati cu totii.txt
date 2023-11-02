@@ -2,32 +2,19 @@
 Haideți, lăudați cu toții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4934}, id: {qrgn5nyoiEUqxJttwSLMpJ}, contentHash: {5c0b00}}
 
 [sequence]
-c,v1,c,v2.1,v2.2
+c,v1,c
 
 [c]
 /: Haideți, lăudați cu toții
 Pe Dumnezeul Sfânt al lui Israel! :/
-/: Ridică-ți mâinile și cântă-I Numele
-Căci Dumnezeu te-a ridicat. :/
+/: Ridicați-vă mâinile și cântați-I Numele
+Căci Dumnezeu va ridicat. :/
 
 [v1]
 Haideți, haideți,
-Să urcăm pe muntele sfânt,
+Să urcăm pe Muntele Sfânt,
 Unde-i veselie și cânt,
 Să cântăm în fața Lui.
 Să strigăm în fața Lui:
 El e Domn sus în cer
 Unde-i tronul Său.
-
-[v2.1]
-Hawa, naghila hawa,
-Naghila hawa, naghila weeni smeha
-Hawa neranena, hawa neranena
-Hawa neranena weeni smeha.
-
-[v2.2]
-Uru, uru ahim belev sameah,
-Uru ahim belev sameah,
-Uru ahim belev sameah,
-Uru ahim, uru ahim,
-Uru ahim belev sameah.

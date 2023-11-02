@@ -7,17 +7,17 @@ v1,c,v2,c2,v3,e
 [v1]
 În lumea aceasta toate-s trecătoare.
 Se duc întruna, toate vor pieri
-Și lucruri car’ fac inima să doară,
+Și lucruri ce fac ca inima să doară,
 Acolo sus vor fi doar amintiri.
 
 [c]
 Dar pân-atunci voi lăuda pe Domnul
 Și ruga mea spre El se va-ndrepta.
-Până-n ’cea zi când în cer voi ajunge,
+Până-n ‘cea zi când în cer voi ajunge,
 În ziua când Îl voi vedea.
 
 [v2]
-În lumea aceasta, toate-s trecătoare.
+În lumea aceasta toate-s trecătoare.
 Durerile-s doar trepte tot mai sus,
 De-a lungul drumului ce mă conduce,
 L-al meu Mântuitor iubit, Isus.
@@ -25,7 +25,7 @@ L-al meu Mântuitor iubit, Isus.
 [c2]
 Dar pân-atunci inima mea să cânte,
 Până atunci cu drag voi aștepta,
-Până-n ’cea zi când în cer voi ajunge,
+Până-n ‘cea zi când în cer voi ajunge,
 În ziua când mă va chema.
 
 [v3]
@@ -37,5 +37,5 @@ Ce Domnu-n ceruri mie îmi va da.
 [e]
 Dar pân-atunci cu Domnul voi rămâne,
 Viața voi trăi-o-n înălțimi,
-Până-n ’cea zi când voi ajunge-n ceruri,
+Până-n ‘cea zi când voi ajunge-n ceruri,
 În ziua când L-oi întâlni.

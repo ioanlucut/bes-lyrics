@@ -17,9 +17,9 @@ Cine e Leul din Iuda,
 Scutul, tăria mea?
 
 [c]
-/: Aleluia, Aleluia, Aleluia,
+/: Aleluia, aleluia, aleluia,
 Isus este Domn!
-Aleluia, Aleluia, Aleluia,
+Aleluia, aleluia, aleluia,
 Isus este Domn! :/
 
 [v2.1]
@@ -32,4 +32,4 @@ Glorie doar Regelui!
 Spune-mi, cine-ntr-o zi se va-ntoarce
 În fruntea oștirii Lui?
 El va primi închinarea,
-Pământul și cerul e-al Lui!
+Pământul și ceru-s a Lui!

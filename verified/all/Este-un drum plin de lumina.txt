@@ -18,11 +18,11 @@ La tronul lui Dumnezeu.
 
 [c]
 /: Eu sunt călător, pe pământ străin,
-Înspre țara sfântă, peregrin. :/
+Înspre țara sfântă peregrin. :/
 
 [v2.1]
 Azi, orașul este templu
-Pentru Dumnezeul sfânt,
+Pentru Dumnezeul Sfânt,
 Dar curând el se va umple
 Cu oameni de pe pământ.
 

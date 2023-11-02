@@ -6,7 +6,7 @@ v1,c,v1,c
 
 [v1]
 Hai, e timpul de-nchinare!
-Hai, e timpul să-i dai inima!
+Hai, e timpul să-I dai inima!
 Hai, să cânte fiecare!
 Hai, așa cum ești, cu starea ta, hai!
 

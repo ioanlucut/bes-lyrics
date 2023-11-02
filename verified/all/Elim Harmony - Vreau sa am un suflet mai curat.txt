@@ -5,7 +5,7 @@ Vreau să am un suflet mai curat {alternative: {*}, composer: {Elim Harmony}, wr
 v1,c,v2,c,b,c
 
 [v1]
-Viața-i trecătoare, drumul unei frunze spre Pământ,
+Viața-i trecătoare, drumul unei frunze spre pământ,
 Păsări călătoare ne învață drumul spre Cel Sfânt.
 Ce lăsăm în urmă? Suntem noi exemple de urmat?
 Ceea ce rămâne poate fi un dar înmiresmat?
@@ -14,7 +14,7 @@ Ceea ce rămâne poate fi un dar înmiresmat?
 Vreau să am un suflet mai curat,
 Cugetul să îmi fie nepătat
 Și să iert pe acel ce mi-a greșit, să ajut pe cel lipsit,
-Să împart în jurul meu mireasma lui Dumnezeu.
+Să răspândesc în jurul meu mireasma lui Dumnezeu.
 
 [v2]
 Încercări, ispite mă-mpresoară, adesea, ca un vânt,

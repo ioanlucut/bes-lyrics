@@ -6,7 +6,7 @@ v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
 Auzi corul îngeresc,
-Dumnezeu din cer slăvesc!
+Pe Dumnezeu din cer slăvesc!
 Cântă imnuri înălțând,
 Pace fie pe pământ!
 
@@ -19,15 +19,15 @@ Cântând Tatălui ceresc! :/
 [c]
 /: Bine ai venit, Isus!
 Bine ai venit, Isus!
-Lasă Gloria Ta
-Strălucind și azi, Rege minunat!
-Aleluia.
-Aleluia. :/
+Lasă gloria Ta
+Să străluciască și azi, Rege minunat!
+Aleluia!
+Aleluia! :/
 
 [v2.1]
 Cel din cerul minunat,
 Preamărit și înălțat,
-Pe Pământ jos a venit
+Pe pământ jos a venit
 Și ca noi trup a primit.
 
 [v2.2]
@@ -44,6 +44,6 @@ Ca să intre El în ea.
 
 [v3.2]
 Și ne va conduce sus,
-Unde-s fericiri nespus,
+Unde-s fericiri nespuse,
 /: Toți în cor Îi vom cânta:
 „Mare este slava Sa!” :/

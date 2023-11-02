@@ -26,13 +26,13 @@ El în sânge te sfințește,
 Mântuire îți va da.
 
 [v2.2]
-Duhul Sfânt mai bate-odată
+Duhul Sfânt mai bate o dată
 Și apoi te va lăsa.
 Astăzi încă te așteaptă,
-Spune-ți hotărârea ta.
+Spune-I hotărârea ta.
 
 [v3.1]
-Cineva îți dorește bine:
+Cineva-ți dorește bine:
 Cel ce te-a adus aici!
 Duhul Sfânt lucrează în tine,
 Vrea de rău să te dezici.
@@ -41,28 +41,28 @@ Vrea de rău să te dezici.
 Duhul Sfânt mai bate o dată
 Și apoi te va lăsa.
 Astăzi încă te așteaptă,
-Spune-ți hotărârea ta!
+Spune-I hotărârea ta!
 
 [v4.1]
-Harul într-o zi se va lua,
+Harul într-o zi se va sfârși,
 Bucurii nu vor mai fi.
 Vai de cel ce zăbovește
 Să rămână în al său viciu!
 
 [v4.2]
-Revenirea nu e departe,
+Revenirea nu-i departe,
 Chiar de nu poți să crezi.
 Însă, după Sfânta Carte,
-În curând, tu ai să Îl vezi!
+În curând, tu ai să-L vezi!
 
 [v5.1]
-Frate, ce ai făcut cu Domnul
-Legământ că Îl vei urma,
+Frate ce-ai făcut cu Domnul
+Legământ că-L vei urma,
 Luptă și învinge somnul,
-Azi cât stai înaintea Sa!
+Azi cât stai ‘naintea Sa!
 
 [v5.2]
-Un mesaj răsună în lume:
-„Iată, că Eu vin curând!”
-Tu, un „Aleluia!” spune,
+Un mesaj răsună-n lume:
+„Iată că Eu vin curând!”
+Tu, un „aleluia!” spune,
 „Vino, Doamne, mai curând!”

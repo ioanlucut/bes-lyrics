@@ -7,7 +7,7 @@ v1,c,v2,c,c
 [v1]
 Închizi pumnii goi și te vezi în noroi,
 Te întrebi de mai are rost viața...
-Mereu te-ai luptat, oare ce-ai câștigat,
+Mereu te-ai luptat, oare ce-ai câștigat?
 Ți-a rămas, cu-al ei ceas, îndoiala.
 
 [c]

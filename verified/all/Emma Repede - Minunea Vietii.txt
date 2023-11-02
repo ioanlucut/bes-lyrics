@@ -1,5 +1,5 @@
 [title]
-Minunea Vieții {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {189551}, id: {wDbYAA7Dnq2K64uDkMLtGb}, contentHash: {ad0f77}}
+Minunea vieții {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {189551}, id: {wDbYAA7Dnq2K64uDkMLtGb}, contentHash: {ad0f77}}
 
 [sequence]
 v1,b,c,v2,c
@@ -9,7 +9,7 @@ Ca o floare, cu un nou parfum,
 În așteptarea primăverii dulci,
 Și eu, și eu Te așteptam.
 Doamne, oare tot ce mi-ai promis
-E o imaginație sau un vis distant?
+E o închipuire sau un vis distant?
 Uneori mă întrebam.
 
 [b]
@@ -21,13 +21,13 @@ Orice lucru îl faci frumos.
 [c]
 Trăiesc minunea vieții pline
 De dragoste și har,
-Doamne, tot ce am, e de la Tine și pentru Tine!
+Doamne, tot ce am e de la Tine și pentru Tine!
 Inima mea bate să Te laude!
 
 [v2]
 Mi-ai arătat ce-nseamnă dragostea,
-Când sus pe cruce Tu la mine te-ai gândit.
+Când sus pe cruce Tu la mine Te-ai gândit.
 Mi-ai dat în dar un nou destin
 Și-acum mă las de Tine modelat.
 În așteptarea mea, Tu îmi mărești credința,
-Ca lutul sunt în Mâna Ta.
+Ca lutul sunt în mâna Ta.

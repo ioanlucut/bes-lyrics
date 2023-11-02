@@ -6,13 +6,13 @@ v1,b,c,v2,b2,c,e
 
 [v1]
 Lângă Domnul aș vrea să rămân pe vecie,
-El e pur adăpost pentru viața mea!
+El e bun adăpost pentru viața mea!
 Eu adorm liniștit, știu că El e cu mine,
 Mă trezesc căutând iar prezența Sa!
 
 [b]
 Prin valea umbrei morții ești cu mine,
-Dar și în Cer cu Tine voi umbla!
+Dar și în cer cu Tine voi umbla!
 
 [c]
 În orice zi, la orice pas,
@@ -21,7 +21,7 @@ Când Tu ești tot ce mi-a rămas,
 Harul Tău îmi este-ndeajuns!
 Mi-ai dat curaj să nu mă las,
 Chiar când lupta e mare, aud vocea Ta,
-Mă sprijinești în clipa grea,
+Mă întăresc în clipa grea,
 Mereu ești cu mine, Isus!
 
 [v2]
@@ -37,5 +37,5 @@ Revarsă astăzi Duhul Tău în mine,
 [e]
 /: Chiar lovit de-aș fi, nimic nu mă va despărți
 De mare dragostea Ta!
-Prin Valea Plângerii privirea mi-o voi ridica,
+Din Valea Plângerii privirea mi-o voi ridica,
 Tu ești de partea mea! :/
