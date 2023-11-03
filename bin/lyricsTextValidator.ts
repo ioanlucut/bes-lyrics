@@ -61,7 +61,7 @@ const runValidationForDir = async (dir: string) => {
         if (!isEmpty(differenceInContent)) {
           console.log(
             `The difference between the allowed chars and found in content are: "${chalk.yellow(
-              differenceInContent,
+              JSON.stringify(differenceInContent),
             )}"`,
           );
         }

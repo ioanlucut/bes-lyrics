@@ -1,5 +1,5 @@
 [title]
-Voi veni cu bucurie înaintea Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dMqpmLJeeLuyoioMgFDV7k}, contentHash: {c97109}}
+Voi veni cu bucurie înaintea Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dMqpmLJeeLuyoioMgFDV7k}, contentHash: {ffb0b9}}
 
 [sequence]
 v1,c1.1,c1.2,v1,c1.1,c1.2

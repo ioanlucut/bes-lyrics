@@ -1,0 +1,35 @@
+[title]
+M-a scos din groapa pieirii {alternative: {Psalmul 40}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1593}, id: {bRo4zvu2k7BhT5TdzUti45}, contentHash: {17c8b5}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Îmi pusesem nădejdea în Domnul
+Și El spre mine S-a-aplecat.
+El mi-a ascultat rugăciunea
+Și m-a izbăvit de păcat.
+
+[c]
+/: M-a scos din groapa pieirii,
+Din fundul mocirlei m-a scos.
+Eu vreau să-I aduc mereu slavă
+Căci El este Domnul meu Hristos! :/
+
+[v2]
+Mi-a pus o cântare nouă-n gură,
+O laudă pentru Cel-de-sus.
+Mi-a pus și picioarele pe Stâncă
+Căci Stânca aceasta e Isus.
+
+[v3]
+Ferice va fi de-orișicine
+Se-ncrede în Domnul mereu,
+El nu se va-ncrede în oameni,
+Se va încrede doar în Dumnezeu.
+
+[v4]
+Prietenii toti mă văzură,
+Cei ce-n viață m-au știut
+Au fost și ei cuprinși de frică
+De ce Domnul cu mine-a făcut.
