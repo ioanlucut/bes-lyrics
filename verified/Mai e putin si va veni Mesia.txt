@@ -1,0 +1,35 @@
+[title]
+Mai e puțin și va veni Mesia {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1593}, id: {bRo4zvu2k7BhT5TdzUti45}, contentHash: {af57e6}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mai e puțin și va veni Mesia,
+Acel ce pentru noi pe cruce S-a jertfit.
+De la-ntuneric, ne-a scos la lumină,
+O țară sfântă pentru noi a pregătit.
+
+[c]
+Va veni-n curând Isus, va veni!
+Va veni-n curând Mesia!
+Să ne ducă-n țara Sa,
+Unde veșnic vom cânta!
+
+[v2]
+Și toți acei ce vor să intre-acolo,
+Acolo unde lacrimi nicicând n-or mai fi,
+Ei au ieșit cu toți din lume-aceasta,
+Și pentru țara Lui cu drag se pregătesc.
+
+[v3]
+N-ai vrea să fii și tu în țara-aceea?
+Unde cu îngerii în coruri vom cânta?
+Căci toate lucrurile de aicea,
+Toate de-s noi, aici curând vor rămânea.
+
+[v4]
+Te-așteaptă-ai Tăi copii să vii Isuse,
+Ajută-ne, o, Doamne, să ne pregătim!
+Căci Tu Te-ai dus să pregătești o țară,
+Unde dorim și noi cu Tine-acol’ să fim.
