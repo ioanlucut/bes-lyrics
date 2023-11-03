@@ -1,5 +1,5 @@
 [title]
-Mare e Domnul meu {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1593}, id: {bRo4zvu2k7BhT5TdzUti45}, contentHash: {fa8f17}}
+Mare e Domnul meu {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1593}, id: {xnwkA2GHnCdMNMBme1ea8w}, contentHash: {fa8f17}}
 
 [sequence]
 v1,v2,v3,v4,v5.1,v5.2,v6
