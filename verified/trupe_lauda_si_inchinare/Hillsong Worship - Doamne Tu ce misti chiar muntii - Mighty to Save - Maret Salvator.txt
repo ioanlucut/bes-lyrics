@@ -1,5 +1,5 @@
 [title]
-Doamne, Tu ce miști chiar munții {alternative: {Mighty to Save; Măreț Salvator}, composer: {Ben Fielding & Reuben Morgan}, writer: {Ben Fielding & Reuben Morgan}, arranger: {*}, interpreter: {*}, band: {Hillsong Worship}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225867}, id: {5osVKqjcDmjm3YVXps7YEJ}, contentHash: {597b89}}
+Doamne, Tu ce miști chiar munții {alternative: {Mighty to Save; Măreț Salvator}, composer: {Ben Fielding & Reuben Morgan}, writer: {Ben Fielding & Reuben Morgan}, arranger: {*}, interpreter: {*}, band: {Hillsong Worship}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225867}, id: {5osVKqjcDmjm3YVXps7YEJ}, contentHash: {b0d19e}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -18,11 +18,11 @@ Ești un măreț Salvator,
 Ești măreț Salvator!
 Veșnic, ai dat salvare lumii
 Și-ai înviat dintre morți,
-Înviat dintre morți.
+Ai înviat dintre morți.
 
 [v2]
 Primește-mă cum sunt,
-Eu las la Crucea Ta
+Eu las la crucea Ta
 Povara mea cea grea.
 Îți dau viața-ntreagă,
 Tot ce eu trăiesc,
@@ -30,7 +30,6 @@ Mă dăruiesc azi.
 
 [b]
 Lasă gloria peste-ntreg pământ,
-Cântă pentru slava
-Celui veșnic sfânt, Doamne!
-Lasă gloria peste-ntreg pământ,
-Cântă pentru slava Celui veșnic sfânt.
+Cântăm azi pentru slava Celui veșnic sfânt
+Doamne, lasă-Ți gloria peste-ntreg pământ,
+Cântăm azi pentru slava Celui veșnic sfânt.
