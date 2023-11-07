@@ -1,5 +1,5 @@
 [title]
-Tu spui sunt iubit, când eu nu simt nimic {alternative: {*}, composer: {Lauren Daigle}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {i}, genre: {*}, rcId: {*}, id: {gVhfgmk6hRKcBBfFqqCKEB}, contentHash: {005c6c}}
+Tu spui că sunt iubit, când eu nu simt nimic {alternative: {*}, composer: {Lauren Daigle}, writer: {Alin Jivan, trad.}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {i}, genre: {*}, rcId: {*}, id: {gVhfgmk6hRKcBBfFqqCKEB}, contentHash: {005c6c}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -7,22 +7,22 @@ v1,c,v2,c,v3,c
 [v1]
 Mă lupt cu voci, în minte, ce-mi spun că sunt insuficient,
 Aud minciuni care îmi spun că sigur n-am să reușesc.
-Și mai întreb, oare însemn ceva sau oare ce pot fi?
+Și mai întreb: oare însemn ceva sau oare ce pot fi?
 Mai amintește-mi înc-odat’ cine sunt,
-Am nevoie să știu, o-oo...
+Că nu mai știu.
 
 [c]
-Tu spui sunt iubit, când eu nu simt nimic,
-Îmi spui sunt puternic când eu mă simt slăbit.
+Tu spui că sunt iubit, când eu nu simt nimic,
+Îmi spui că sunt puternic când eu mă simt slăbit.
 Atunci când sunt căzut, pe brațe Tu mă ții,
 Și când mă simt respins, îmi spui că-Ți aparțin.
-Și eu cred, ooo, da, eu cred
-Cred ce Tu îmi spui, eu cred.
+Și eu cred, o, da, eu cred,
+Cred ce Tu îmi spui, eu cred!
 
 [v2]
-Tot ce contează acum e doar ceea ce crezi Tu de min’,
+Tot ce contează acum e doar ceea ce crezi Tu despre min’,
 În Tine îmi găsesc identitatea și al meu destin, o-oo...
 
 [v3]
 Îți pun azi la picioare tot ce am și tot ceea ce sunt,
-Îmi plâng orice cădere, Doamne, și-ai orice victorie, o-oo...
+Îmi plâng orice cădere și orice victorie-Ți supun o-oo...

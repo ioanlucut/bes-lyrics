@@ -6,21 +6,21 @@ v1,v2,v3,v4,v5
 
 [v1]
 Neprihănită dragoste dintâi,
-Eu nu pot fără Tine!
+Eu nu pot fără tine!
 /: Nu pot iubi, nu pot răbda,
-Nu pot cunoaște pacea Ta,
+Nu pot cunoaște pacea ta,
 De nu rămâi în mine. :/
 
 [v2]
 Neprihănită dragoste dintâi,
-Iubirea mea de sine
-/: M-a depărtat, m-a rătăcit,
-Din clipa când Te-am părăsit,
-Dar azi mă-ntorc la Tine. :/
+Iubirea ta mă ține
+/: M-am depărtat, m-am rătăcit
+Din clipa când te-am părăsit,
+Dar azi mă-ntorc la tine. :/
 
 [v3]
 Neprihănită dragoste dintâi,
-Ce dor de Tin’ mă leagă.
+Ce dor de tin’ mă leagă.
 /: Te chem, cu plânsul meu amar,
 Mai vino iar cu sfântu-ți har,
 Cuprinde-mi viața-ntreagă. :/
@@ -30,7 +30,7 @@ Neprihănită dragoste dintâi,
 Eu nu găsesc în mine
 /: Putere să pot suferi,
 Iertare să pot dărui,
-Nimic sunt fără Tine. :/
+Nimic sunt fără tine. :/
 
 [v5]
 Neprihănită dragoste dintâi,

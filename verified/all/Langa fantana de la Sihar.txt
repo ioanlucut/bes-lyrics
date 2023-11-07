@@ -1,13 +1,13 @@
 [title]
-Lângă fântâna de la Sihar {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {192986}, id: {2j663SuSonXSgthzBZGP8k}, contentHash: {57885d}}
+Lângă fântâna din Sihar {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {192986}, id: {2j663SuSonXSgthzBZGP8k}, contentHash: {57885d}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Lângă fântâna de la Sihar,
+Lângă fântâna din Sihar,
 Stă Salvatorul și-așteaptă iar.
-Amurgul este spre asfințit,
+Soarele este spre asfințit,
 I-ai auzit glasul și nu ai venit.
 /: Veniți la ape! :/
 

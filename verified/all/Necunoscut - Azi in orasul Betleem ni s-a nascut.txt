@@ -1,5 +1,5 @@
 [title]
-Azi în orașul Betleem ni s-a născut {alternative: {*}, composer: {Necunoscut}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {183037}, id: {v26MF1VtFzDA5JQSWXDgdq}, contentHash: {61b83a}}
+Azi în orașul Betleem ni S-a născut {alternative: {*}, composer: {Necunoscut}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {183037}, id: {v26MF1VtFzDA5JQSWXDgdq}, contentHash: {61b83a}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -13,7 +13,7 @@ Pe Fiul de-mpărat, Emanuel.
 [c]
 Să Îi cântăm, să-L lăudăm,
 Pe Fiul de-mpărat, Isus.
-Lui să-i cântăm, să-l lăudăm
+Lui să-I cântăm, să-L lăudăm
 Căci nouă pace ne-a adus.
 
 [v2]

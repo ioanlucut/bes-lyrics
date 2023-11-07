@@ -13,7 +13,7 @@ Raza ta, raza ta,
 [c]
 Cer senin, cer senin,
 De lumină ești plin,
-Vin în viața mea, vin,
+Vin’ în viața mea, vin’,
 După Tine suspin,
 Cer senin, cer senin.
 
@@ -25,7 +25,7 @@ Loc de-odihnă pe vecii.
 
 [v3]
 Cer divin, cer divin,
-În viața mea vin,
+În viața mea vin’,
 Chiar acum, chiar acum,
 Când alerg pe-al vieții drum.
 
@@ -39,4 +39,4 @@ Slava Ta s-o moștenesc.
 Cer frumos, cer frumos,
 Loc al Domnului Hristos,
 Voi fi dus, voi fi dus,
-În curând, la Tine sus.
+În curând, la tine sus.

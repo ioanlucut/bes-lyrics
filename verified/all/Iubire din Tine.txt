@@ -5,7 +5,7 @@ Iubire din Tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, in
 v1,c,v1,c
 
 [v1]
-Iubire, din Tine,
+Iubire din Tine,
 Pune Tu în viața mea
 Putere, răbdare,
 Plin de Duh să fiu aș vrea.

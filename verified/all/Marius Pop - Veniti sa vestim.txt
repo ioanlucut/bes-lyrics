@@ -6,7 +6,7 @@ v1,c,b,c
 
 [v1]
 Este scris în Cuvânt
-Că Cel ce-avea să se nască,
+Că Cel ce-avea să Se nască,
 Să mântuie lumea,
 E singurul vrednic
 Să poată ispăși
@@ -15,7 +15,7 @@ Păcatul greu ce ne-a legat.
 Acesta este Fiul meu preaiubit!
 
 [c]
-Veniți să vestim: s-a născut Isus!
+Veniți să vestim: S-a născut Isus!
 Să cântăm: viață ne-a adus!
 Să strigăm: Domnul păcii a venit!
 El ne-a adus mântuirea-n dar,
