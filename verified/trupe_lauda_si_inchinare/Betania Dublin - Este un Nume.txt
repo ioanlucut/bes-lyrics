@@ -1,5 +1,5 @@
 [title]
-Este un Nume {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227000}, id: {wBdZzQc5cwG9u3fVs7Q7Kq}, contentHash: {e1854b}}
+Este un Nume {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227000}, id: {wBdZzQc5cwG9u3fVs7Q7Kq}, contentHash: {d59d55}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c
