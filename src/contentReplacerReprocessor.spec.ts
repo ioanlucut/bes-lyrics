@@ -7,7 +7,8 @@ import {
 describe('contentReplacerReprocessor', () => {
   it('should correctly rewrite certain text', () => {
     expect(
-      reprocess(`
+  reprocess(`
+\r
 ş
 ţ
 doamne
@@ -19,9 +20,10 @@ isus
 isuse
 mesia
 …
-`),
-    ).toMatchInlineSnapshot(`
+`)
+).toMatchInlineSnapshot(`
 "
+
 ș
 ț
 Doamne

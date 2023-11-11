@@ -1,3 +1,5 @@
+import { EMPTY_STRING } from './constants.js';
+
 const getRegexNotMatchingStartOfALine = (text: string) =>
   new RegExp(`(?<!^)(?<!/: )${text}(?!\\w)`, 'gm');
 
@@ -11,6 +13,7 @@ const getRegexNotMatchingStartOfALine = (text: string) =>
 export const reprocess = (songContent: string) =>
   songContent
 
+    .replaceAll(/\r/gi, EMPTY_STRING)
     // Not at the beginning of the line
     .replaceAll(getRegexNotMatchingStartOfALine('Nici o'), 'Nicio')
     .replaceAll(getRegexNotMatchingStartOfALine('nici o'), 'nicio')
