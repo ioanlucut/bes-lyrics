@@ -1,11 +1,11 @@
 [title]
-Este un Nume {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227000}, id: {wBdZzQc5cwG9u3fVs7Q7Kq}, contentHash: {e1854b}}
+Este un Nume {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227000}, id: {wBdZzQc5cwG9u3fVs7Q7Kq}, contentHash: {d59d55}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
 [v1.1]
-Este un Nume, ce rupe orice lanț când Îl rostești,
+Este un Nume ce rupe orice lanț când Îl rostești,
 Și dacă-L chemi salvare-n El primești.
 O, ce Nume!
 
@@ -23,7 +23,7 @@ Este o cruce, un lemn de suferință și dispreț,
 Puterea ce și azi salvează vieți, la cruce.
 
 [v2.2]
-Este un sânge, ce striga până azi: „S-a isprăvit!”,
+Este un sânge, ce strigă până azi: „S-a isprăvit!”,
 Întregul preț la cruce a fost plătit, cu sânge.
 
 [b]

@@ -1,5 +1,5 @@
 [title]
-Cine-a făcut soarele să răsară {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {229266}, id: {nwwbkWK2HfudZC9haLoZfV}, contentHash: {3c9470}}
+Cine-a făcut soarele să răsară {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {229266}, id: {nwwbkWK2HfudZC9haLoZfV}, contentHash: {25c2eb}}
 
 [sequence]
 v1,c,v2,c
@@ -7,8 +7,8 @@ v1,c,v2,c
 [v1]
 Cine-a făcut soarele să răsară
 Și cine a pus țărmul lângă ocean?
-Și cum știe luna, soarele să ascundă
-Și cum a scris, cu stele ceru-ntreg?
+Și cum știe luna ziua să se-ascundă
+Și cine a scris cu stele ceru-ntreg?
 
 [c]
 /: Da, eu știu, Domnul meu e viu!
@@ -18,7 +18,7 @@ El poate viață da,
 Eu știu, Domnul meu e viu! :/
 
 [v2]
-Același Domn, care toate le știe,
+Același Domn, ce pe toate le știe,
 Se-apleacă spre cei ce strigă spre El
 Și le dă mâna Sa, ce-a fost cândva străpunsă,
-Și tot ce-atinge, viață prinde iar!
+Și tot ce-atinge viață prinde iar!
