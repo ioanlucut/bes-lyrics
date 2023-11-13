@@ -124,8 +124,8 @@ describe('Song parser', () => {
     });
 
     it('should parse a song (w/o correct ID) correctly', () => {
-      expect(parse(SIMPLE_SONG_WO_ID__MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(parse(SIMPLE_SONG_WO_ID__MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 {
   "alternative": "alternative 1; alternative 2",
   "arranger": "arranger 1; arranger 2",

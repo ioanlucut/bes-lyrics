@@ -1,5 +1,5 @@
 [title]
-Este oare iertare {alternative: {*}, composer: {Shema}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4342}, id: {9JaULhuohbvQhVpAjmrKrX}, contentHash: {40de4d}}
+Este oare iertare {alternative: {*}, composer: {Shema}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4342}, id: {9JaULhuohbvQhVpAjmrKrX}, contentHash: {1a7903}}
 
 [sequence]
 v1,c,v2,c2
@@ -9,24 +9,24 @@ Este oare iertare
 Pentru tot ce-am făcut?
 Doamne, pot eu oare
 Să vin așa cum sunt?
-’Naintea Ta? (’Naintea Ta?)
-În fața Ta? (În fața Ta?)
+/: ‘Naintea Ta,
+În fața Ta? :/
 
 [c]
 /: Știu, Domnul meu, sunt un om așa rău
 Și Te-am întristat mereu.
 Știu, Domnul meu,
 Te-am răstignit chiar eu
-Când am spus nu este Dumnezeu. :/
-/: Oare mă poți ierta? (mă poți ierta?) :/
+Când am spus nu este Dumnezeu.
+/: Oare mă poți ierta? (x2) :/
 
 [v2]
 Cred că este iertare
 Pentru tot ce-am făcut.
 Cred c-acum e momentul
 S-o iau de la-nceput.
-’Naintea Ta? (’Naintea Ta?)
-În fața Ta? (În fața Ta?)
+/: ‘Naintea Ta,
+În fața Ta? :/
 
 [c2]
 /: Știu, Domnul meu, vei veni în curând
