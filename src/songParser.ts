@@ -9,6 +9,7 @@ import {
   multiToSingle,
 } from './core.js';
 import { COMMA, EMPTY_STRING, UNSET_META } from './constants.js';
+import { isEqual } from 'lodash-es';
 
 /**
  * Parses the content of a song to its basic AST structure.
@@ -96,7 +97,7 @@ export const parse = (
       songAST.version = version || UNSET_META;
 
       songAST.rcId = rcId || UNSET_META;
-      songAST.id = id || getUniqueId();
+      songAST.id = id && !isEqual(id, UNSET_META) ? id : getUniqueId();
     }
 
     if ([SongSection.SEQUENCE].includes(sectionIdentifier)) {

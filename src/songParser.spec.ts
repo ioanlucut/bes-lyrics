@@ -1,6 +1,7 @@
 import { parse } from './songParser.js';
 import {
   SIMPLE_SONG_MOCK_FILE_CONTENT,
+  SIMPLE_SONG_WO_ID__MOCK_FILE_CONTENT,
   SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_CONTENT,
   SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT,
   SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT,
@@ -80,6 +81,116 @@ describe('Song parser', () => {
     },
     "[title]": {
       "content": "My main title {alternative: { alternative 1; alternative 2 }, composer: {composer 1; composer 2}, writer: {writer 1; writer 2}, arranger: {arranger 1;arranger 2}, interpreter: {interpreter 1;interpreter 2}, band: {band 1;band 2}, key: {*}, tempo: {*}, tags: {tags 1; tags 2}, version: {ii}, genre: {genre 1; genre 2}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {655954}}",
+      "sectionIdentifier": "[title]",
+    },
+    "[v1]": {
+      "content": "Row for v1",
+      "sectionIdentifier": "[v1]",
+    },
+    "[v2]": {
+      "content": "Row for v2",
+      "sectionIdentifier": "[v2]",
+    },
+    "[v3]": {
+      "content": "Row for v3",
+      "sectionIdentifier": "[v3]",
+    },
+  },
+  "sequence": [
+    "v1",
+    "v2",
+    "v3",
+    "p",
+    "p2",
+    "p3",
+    "c",
+    "c2",
+    "c3",
+    "b",
+    "b2",
+    "b3",
+  ],
+  "tags": "tags 1; tags 2",
+  "tempo": "*",
+  "title": "My main title",
+  "version": "ii",
+  "writer": "writer 1; writer 2",
+}
+`);
+    });
+
+    it('should parse a song (w/o correct ID) correctly', () => {
+      expect(
+  parse(SIMPLE_SONG_WO_ID__MOCK_FILE_CONTENT)
+).toMatchInlineSnapshot(`
+{
+  "alternative": "alternative 1; alternative 2",
+  "arranger": "arranger 1; arranger 2",
+  "band": "band 1; band 2",
+  "composer": "composer 1; composer 2",
+  "contentHash": "0173a1",
+  "genre": "genre 1; genre 2",
+  "id": "iKi6xsDjgpFEVwrfdumTA4",
+  "interpreter": "interpreter 1; interpreter 2",
+  "key": "*",
+  "rcId": "*",
+  "sectionOrder": [
+    "[v1]",
+    "[v2]",
+    "[v3]",
+    "[p]",
+    "[p2]",
+    "[p3]",
+    "[c]",
+    "[c2]",
+    "[c3]",
+    "[b]",
+    "[b2]",
+    "[b3]",
+  ],
+  "sectionsMap": {
+    "[b2]": {
+      "content": "Row for b2",
+      "sectionIdentifier": "[b2]",
+    },
+    "[b3]": {
+      "content": "Row for b3",
+      "sectionIdentifier": "[b3]",
+    },
+    "[b]": {
+      "content": "Row for b",
+      "sectionIdentifier": "[b]",
+    },
+    "[c2]": {
+      "content": "Row for c2",
+      "sectionIdentifier": "[c2]",
+    },
+    "[c3]": {
+      "content": "Row for c3",
+      "sectionIdentifier": "[c3]",
+    },
+    "[c]": {
+      "content": "Row for c",
+      "sectionIdentifier": "[c]",
+    },
+    "[p2]": {
+      "content": "Row for p2",
+      "sectionIdentifier": "[p2]",
+    },
+    "[p3]": {
+      "content": "Row for p3",
+      "sectionIdentifier": "[p3]",
+    },
+    "[p]": {
+      "content": "Row for p",
+      "sectionIdentifier": "[p]",
+    },
+    "[sequence]": {
+      "content": "v1,v2,v3,p,p2,p3,c,c2,c3,b,b2,b3",
+      "sectionIdentifier": "[sequence]",
+    },
+    "[title]": {
+      "content": "My main title {alternative: { alternative 1; alternative 2 }, composer: {composer 1; composer 2}, writer: {writer 1; writer 2}, arranger: {arranger 1;arranger 2}, interpreter: {interpreter 1;interpreter 2}, band: {band 1;band 2}, key: {*}, tempo: {*}, tags: {tags 1; tags 2}, version: {ii}, genre: {genre 1; genre 2}, rcId: {*}, id: {*}, contentHash: {655954}}",
       "sectionIdentifier": "[title]",
     },
     "[v1]": {
