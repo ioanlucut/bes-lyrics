@@ -9,6 +9,10 @@ import {
 import { ALLOWED_CHARS, EMPTY_STRING } from './constants.js';
 import { createAdvancedSongMock } from './core.js';
 
+jest.mock('short-uuid', () => ({
+  generate: () => 'ANY_id',
+}));
+
 describe('Song parser', () => {
   describe('Well structured', () => {
     it('should parse a song (w/o subsections) correctly', () => {
@@ -120,9 +124,8 @@ describe('Song parser', () => {
     });
 
     it('should parse a song (w/o correct ID) correctly', () => {
-      expect(
-  parse(SIMPLE_SONG_WO_ID__MOCK_FILE_CONTENT)
-).toMatchInlineSnapshot(`
+      expect(parse(SIMPLE_SONG_WO_ID__MOCK_FILE_CONTENT)).
+toMatchInlineSnapshot(`
 {
   "alternative": "alternative 1; alternative 2",
   "arranger": "arranger 1; arranger 2",
@@ -130,7 +133,7 @@ describe('Song parser', () => {
   "composer": "composer 1; composer 2",
   "contentHash": "0173a1",
   "genre": "genre 1; genre 2",
-  "id": "iKi6xsDjgpFEVwrfdumTA4",
+  "id": "ANY_id",
   "interpreter": "interpreter 1; interpreter 2",
   "key": "*",
   "rcId": "*",
