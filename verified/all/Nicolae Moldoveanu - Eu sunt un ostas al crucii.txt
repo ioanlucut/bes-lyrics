@@ -11,16 +11,16 @@ Eu nu mă tem, ci voi vesti,
 Slăvit Numele Lui.
 
 [c1.1]
-Când lupta s-ar sfârși,
+Când lupta s-a sfârși,
 /: Cunună vom primi. :/ (3x)
-Când lupta s-ar sfârși,
+Când lupta s-a sfârși,
 Cunună vom primi
 În Ierusalimul nou.
 
 [c1.2]
 Cunună vom primi,
 Cununa de-nvingător!
-Când lupta s-ar sfârși,
+Când lupta s-a sfârși,
 Cunună vom primi
 În Ierusalimul nou.
 
@@ -33,5 +33,5 @@ Chiar viața și-au dat.
 [v3]
 Trebuie să lupt, să înving.
 Doamne, ajută-mă,
-Orice atac vrăjmaș să-l sting,
+Orice atac vrăjmaș să sting,
 Când voi fi în luptă.

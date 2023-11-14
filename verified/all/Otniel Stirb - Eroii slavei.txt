@@ -8,7 +8,7 @@ v1,c,v2,c,v3,c
 Se va cânta cântarea minunată,
 Mireasa-și va cânta imnul dorit
 Și se va-ncepe nunta așteptată
-Cu-acei ce-n luptă și-n prigoane-au biruit.
+Cu-acei ce-n lupte și-n prigoane-au biruit.
 
 [c]
 /: Eroii slavei vin acum acasă,
@@ -26,4 +26,4 @@ Isus va strânge-al suferinței rod.
 În fața scaunului de domnie,
 S-or apleca cu fața la pământ,
 Vor preamări, vor lăuda pe Domnul,
-Pe Cel ce este Sfânt, de trei ori Sfânt.
+Pe Cel ce este sfânt, de trei ori sfânt.

@@ -5,21 +5,21 @@ Păstorii au alergat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*
 v1,c,v2,c,b,c,v3,c
 
 [v1]
-Păstorii au alergat să vadă pruncul
+Păstorii au alergat să vadă Pruncul
 Cel care-a fost vestit,
 Născut în iesle, Domn din vecie,
 /: Ce minunat Împărat! :/
 
 [c]
-Aud cum cântă îngeri:
-Aleluia, lauda Regelui Isus!
+Aud cum cântă îngerii:
+Aleluia, laudă Regelui Isus!
 Căci a venit la noi, din iubire
 /: S-a născut Isus! :/
 
 [v2]
 Păstori s-au grăbit să ducă vestea
-Căci Isus s-a născut,
-Slăveau pe Dumnezeu, căci a venit din cer
+Căci Isus S-a născut.
+Slăveau pe Dumnezeu, căci a venit din cer,
 /: Ce minunat Împărat! :/
 
 [b]

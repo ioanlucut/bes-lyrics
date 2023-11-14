@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c
 [v1]
 Isus, în locul meu și-al tău
 Pe cruce a murit
-Și către-un om, cum am fost eu,
+Și către-un om cum am fost eu,
 S-a-ntors și m-a mântuit.
 
 [c]
@@ -26,4 +26,4 @@ Luptând El cu moartea.
 De aș ascunde fața mea
 De rușine pe veci
 Și de aș plânge, cât aș vrea,
-Așa, să-I mulțumesc.
+Așa să-I mulțumesc.

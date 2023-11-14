@@ -5,7 +5,7 @@ La Tine vin {alternative: {*}, composer: {Not an Idol}, writer: {*}, arranger: {
 v1,c,v2,c
 
 [v1]
-Dis de dimineață ruga mea se-nalță
+Dis-de-dimineață ruga mea se-nalță
 Către Tine, Domnul meu pe tron.
 Vreau ca să-Ți vorbesc, cuprins de dor,
 Pe a Ta cărare e-a mea desfătare,

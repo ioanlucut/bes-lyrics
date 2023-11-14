@@ -1,11 +1,11 @@
 [title]
-Totul ce este în lume {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5440}, id: {7AsrxVpiGX6PTQSUEoBLbm}, contentHash: {8fcb38}}
+Tot ce este în lume {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5440}, id: {7AsrxVpiGX6PTQSUEoBLbm}, contentHash: {8fcb38}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c
 
 [v1]
-Totul ce este în lume
+Tot ce este în lume
 Este un vis trecător.
 Cât ai căuta, străine,
 Nu vei găsi ajutor.

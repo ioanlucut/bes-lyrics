@@ -5,8 +5,8 @@ Eu sunt cale-a zis Domnul Isus {alternative: {*}, composer: {Nicu Puscau}, write
 v1,c,v2,c,v3,c2
 
 [v1]
-Eu sunt cale-a zis Domnul Isus,
-Eu sunt calea care duce sus.
+Eu sunt Cale-a zis Domnul Isus,
+Eu sunt Calea care duce sus.
 Să pășiți cu-ncredere pe ea,
 Chiar dacă adesea va fi grea.
 
@@ -33,7 +33,7 @@ Loc să fim de-a pururea cu El.
 [c2]
 /: Ce frumos va fi odată,
 Sus în țara mult visată.
-Cu Isus mirele nost’ iubit
+Cu Isus Mirele nost’ iubit
 Vom uita de plâns și jale
-Și de lacrimi amare,
-Cât vom fi cu El în infinit. :/
+Și de lacrimile-amare,
+Când vom fi cu El în infinit. :/

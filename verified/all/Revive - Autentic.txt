@@ -5,19 +5,19 @@ Autentic {alternative: {*}, composer: {Revive}, writer: {*}, arranger: {*}, inte
 v1,c,v2,c,b,c
 
 [v1]
-Tot ce am aduc acum ’naintea Ta,
+Tot ce am aduc acum ‘naintea Ta,
 Cu tot ce sunt mă-nchin, Isus, în fața Ta.
-Tot ce am aduc acum ’naintea Ta,
+Tot ce am aduc acum ‘naintea Ta,
 Cu tot ce sunt mă-nchin, Isus, în fața Ta.
 
 [c]
 Și Îți cânt, Domnul meu cel viu,
-Viata nouă Tu mi-ai dat.
+Viață nouă Tu mi-ai dat.
 Și Îți cânt, Domnul meu cel viu,
 Numai Tu m-ai eliberat.
 
 [v2]
-Tot ce am aduc acum ’naintea Ta.
+Tot ce am aduc acum ‘naintea Ta.
 Cu tot ce sunt mă-nchin, Isus, în fața Ta.
 
 [b]

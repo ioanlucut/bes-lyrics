@@ -5,7 +5,7 @@ Duh de viață nouă să cobori {alternative: {*}, composer: {P. Sonderhaus}, wr
 v1,c,v2,c
 
 [v1]
-Duh de viață nouă să cobori Focul sfânt,
+Duh de viață nouă să cobori focul sfânt,
 Eu Te rog, cu dor
 Și o viață sfântă Tu-mi vei da
 Azi și pururea.

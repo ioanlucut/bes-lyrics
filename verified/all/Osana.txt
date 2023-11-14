@@ -5,16 +5,16 @@ Osana {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter:
 v1,v2,v3
 
 [v1]
-Osana, Amin, Osana!
-O, Aleluia, Maranata!
+Osana, amin, osana!
+O, aleluia, maranata!
 Isus e Domn! (8x)
 
 [v2]
 El a-nviat! (8x)
-Osana, Amin, Osana!
-O, Aleluia, Maranata!
+Osana, amin, osana!
+O, aleluia, maranata!
 
 [v3]
 El va veni! (8x)
-Osana, Amin, Osana!
-O, Aleluia, Maranata!
+Osana, amin, osana!
+O, aleluia, maranata!

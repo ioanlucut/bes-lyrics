@@ -7,7 +7,7 @@ v1,p,v2,c,v3,c2
 [v1]
 Isus e Domn, El tronează de pe cruce
 Și dragostea e împărăția Lui!
-Ca jertfă Mielul lui Dumnezeu aduce
+Jertfa Mielului lui Dumnezeu aduce
 Viață veșnică în dar oricui.
 
 [p]
@@ -19,7 +19,7 @@ Dând viață veșnică în dar oricui.
 [v2]
 Isus e medic, alină suferința,
 El e mereu lângă mine în necaz.
-În încercare-mi păstrează El credința
+În încercare-mi păstrează credința
 Și-mi șterge lacrima de pe obraz.
 
 [c]
@@ -30,7 +30,7 @@ Isus e medic, alină suferința
 
 [v3]
 Isus curând va veni să-i ia la Sine
-Pe toți ai Săi, după cum El ne-a promis.
+Pe toți ai Săi, după cum ne-a promis.
 Eu știu că El mă cunoaște și pe mine
 Căci numele în cartea Lui mi-a scris.
 

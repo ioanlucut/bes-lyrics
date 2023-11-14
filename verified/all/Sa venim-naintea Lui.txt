@@ -1,12 +1,12 @@
 [title]
-Să venim-naintea Lui {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {wowT2aFsXyg3A8G5VMDYcv}, contentHash: {d3055a}}
+Să venim ‘naintea Lui {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {wowT2aFsXyg3A8G5VMDYcv}, contentHash: {d3055a}}
 
 [sequence]
 v1,v2,v3
 
 [v1]
-Să venim-naintea Lui,
-Smeriți și umiliți să-I mulțumim.
+Să venim ‘naintea Lui,
+Smeriți și umili să-I mulțumim.
 O, spuneți cum să Îi mulțumim!
 
 [v2]

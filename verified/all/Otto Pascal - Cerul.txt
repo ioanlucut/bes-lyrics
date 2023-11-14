@@ -6,8 +6,8 @@ v1,c,v2,b,c
 
 [v1]
 Tot ce-mi doresc, tot ce visez,
-Să moștenesc cu tine cerul.
-Jos pe Pământ mă pregătesc
+Să moștenesc cu Tine cerul.
+Jos pe pământ mă pregătesc
 Pentru-a vedea cu Tine cerul.
 
 [c]
@@ -18,8 +18,8 @@ Să moștenesc, aș vrea, cerul.
 
 [v2]
 Să luminez, să oglindesc
-Iubirea ta mai înaltă ca cerul.
-Vreau să rodesc cuvântul Tău
+Iubirea Ta mai înaltă ca cerul.
+Vreau să rodesc Cuvântul Tău
 Pentru-a vedea cu Tine cerul.
 
 [b]

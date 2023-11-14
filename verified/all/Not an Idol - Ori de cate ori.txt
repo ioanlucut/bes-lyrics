@@ -6,7 +6,7 @@ v1,b,c,v2,b2,c
 
 [v1]
 Am, în sufletul meu, bucurii
-De când te-am întâlnit.
+De când Te-am întâlnit.
 Lumină, speranță Tu mi-ai dat,
 Mă simt din nou iubit.
 

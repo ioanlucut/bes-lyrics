@@ -1,11 +1,11 @@
 [title]
-Din rane sfinte-a-lui Isus {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5496}, id: {mKaotBPqB4aHWaU77X8yjp}, contentHash: {72380f}}
+Din rănile sfinte-a-lui Isus {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5496}, id: {mKaotBPqB4aHWaU77X8yjp}, contentHash: {72380f}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2,v5.1,v5.2
 
 [v1.1]
-Din rane sfinte-a-lui Isus,
+Din rănile sfinte-a-lui Isus,
 Izvor de sânge-a curs
 Și cine se scufundă-n El
 Deplin s-a curățit.
@@ -50,7 +50,7 @@ Până când cei ce-s mântuiți
 
 [v5.1]
 Un cântec nou Îți voi cânta,
-Când ’colo voi sosi,
+Când ‘colo voi sosi,
 Când trupul meu cel ostenit
 Eu îl voi părăsi.
 

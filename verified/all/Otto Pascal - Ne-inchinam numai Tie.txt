@@ -1,5 +1,5 @@
 [title]
-Ne-închinăm numai Ție {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {237513}, id: {pGy289MQvra72ySrQkNCzi}, contentHash: {e08315}}
+Ne-nchinăm numai Ție {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {237513}, id: {pGy289MQvra72ySrQkNCzi}, contentHash: {e08315}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -8,10 +8,10 @@ v1,c,v2,c,v3,c
 Mulțumesc, Isuse, pentru a Ta lucrare!
 Mulțumesc că ai venit în lumea mea!
 Tu ai adus, în schimbul vieții trecătoare,
-Mântuire și o viață Veșnică.
+Mântuire și o viață veșnică.
 
 [c]
-Ne-închinăm numai Ție
+Ne-nchinăm numai Ție
 Căci din dragoste-ai ales să ne salvezi.
 Tu ești din veșnicie,
 Lumea noastră cu iubire-o luminezi. (2x)
@@ -20,10 +20,10 @@ Lumea noastră cu iubire-o luminezi. (2x)
 Mulțumesc, Isus, de binecuvântare!
 Mulțumesc că mă păzești la orice pas!
 Cu-n cuvânt poți liniști și vânt și mare,
-Vreau să stau cu tine, e dorința mea.
+Vreau să stau cu Tine, e dorința mea.
 
 [v3]
 Harul Tău e steaua ce îmi poartă pașii
 Spre căminul ce cu drag mi-ai pregătit.
 Nu va fi o iesle dincolo de aștrii,
-Ci un tron din care veșnic vei domnii.
+Ci un tron pe care veșnic vei domnii.

@@ -6,7 +6,7 @@ v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,v4,c1.1,c1.2
 
 [v1]
 Când ești lângă mine, nu mă tem de niciun rău
-Căci mă-ncred în Tine, Mare Dumnezeu!
+Căci mă-ncred în Tine, mare Dumnezeu!
 
 [c1.1]
 Numai lângă Tine, Doamne, mă simt bine!
@@ -22,7 +22,7 @@ Lângă mine-alături ești!
 
 [v2]
 Valurile vieții, barca când mi-au clătinat,
-Ca și de-altădată, Tu, Isuse, le-ai mustrat!
+Ca și altădată, Tu, Isuse, le-ai mustrat!
 
 [v3]
 Meriți pe vecie, Doamne, să fii lăudat

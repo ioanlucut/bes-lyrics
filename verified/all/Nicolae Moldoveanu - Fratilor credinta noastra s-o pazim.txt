@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c
 [v1]
 Fraților, credința noastră s-o păzim!
 De pe drumul crucii să nu rătăcim,
-De pe calea sfântă, să nu dăm ’napoi,
+De pe calea sfântă, să nu dăm ‘napoi,
 Facă Domnul ce-o vrea să facă cu noi.
 
 [c]
@@ -26,4 +26,4 @@ Cu Avraam și Iacov, ai noștri părinți.
 Dacă ne-ar închide ca pe Daniel,
 Ne va scăpa Domnul sfânt, Emanuel,
 Chiar în strâmtoare El va fi cu noi,
-Ne face scăpare din orice nevoi.
+Ne va fi alături în orice nevoi.

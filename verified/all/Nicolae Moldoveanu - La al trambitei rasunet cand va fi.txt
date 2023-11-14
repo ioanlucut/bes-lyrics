@@ -12,7 +12,7 @@ Cei ce-s astăzi în morminte s-or scula
 
 [c]
 /: Adă, Doamne, ziua aceea mai curând,
-Ziua sfântă-a noului așezământ.:/
+Ziua sfântă-a noului așezământ. :/
 
 [v2]
 Ce plăcut va fi atunci și frumos,
