@@ -11,7 +11,7 @@ Trăit-am în păcatul meu,
 Azi vin acasă.
 
 [c]
-Doamne vin acasă,
+Doamne, vin acasă,
 Nu mai rătăcesc,
 Brațul Tău este deschis,
 Azi vin acasă.
@@ -25,5 +25,5 @@ Azi vin acasă.
 [v3]
 M-am dezgustat de viața mea,
 Azi vin acasă.
-Mă-ncred numai-n iubirea Ta,
+Mă-ncred numa-n iubirea Ta,
 Azi vin acasă.

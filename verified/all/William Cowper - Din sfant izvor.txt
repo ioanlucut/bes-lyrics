@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c
 [v1]
 Din sfânt izvor pe Golgota,
 Mult sânge s-a vărsat,
-Izvorul-acesta minunat
+Izvoru-acesta minunat
 Ne spală de păcat.
 
 [c]

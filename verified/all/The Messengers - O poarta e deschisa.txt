@@ -6,11 +6,11 @@ v1,c,v2,c
 
 [v1]
 O poartă e deschisă
-S-ajungi în cerul sus,
-Numele ei e Golgota
-De vrei să-L vezi pe Isus.
+S-ajungi în ceruri sus,
+Numele ei e Golgota.
+De vrei să-L vezi pe Isus,
 Să fi al Lui de-acum,
-O, vino azi la Golgota.
+O, vino azi la Golgota!
 
 [c]
 Mai este loc la cruce pentru tine,
@@ -23,5 +23,5 @@ Oricine-ai fi în lume
 Și orice nume porți,
 Tu ai nevoie de Isus.
 Hai, vino și-ntâlneste-L,
-La cruce stă și-acum.
-Te va primi căci El e bun.
+La cruce stă și-acum,
+Te va primi, căci El e bun.

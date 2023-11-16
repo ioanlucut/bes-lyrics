@@ -6,8 +6,8 @@ v1,c,v2,c,v3,c
 
 [v1]
 S-a isprăvit, s-a isprăvit,
-Pe o cruce Domnul a murit
-Și sânge sfânt nevinovat
+Pe-o cruce Domnul a murit
+Și sânge sfânt, nevinovat
 La Golgota Domnul a vărsat.
 
 [c]

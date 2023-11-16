@@ -1,11 +1,11 @@
 [title]
-Tu ești plin de-ndurare, mărire și Har {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {83Vos2JX8Xe2weZds8qNrX}, contentHash: {b0b92e}}
+Tu ești plin de-ndurare, mărire și har {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {83Vos2JX8Xe2weZds8qNrX}, contentHash: {b0b92e}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Tu ești plin de-ndurare, mărire și Har,
+Tu ești plin de-ndurare, mărire și har,
 Dumnezeu minunat și slăvit.
 Să Te văd față-n față, într-o zi, eu doresc,
 Vreau cu Tine în veci să trăiesc,
@@ -25,8 +25,8 @@ Tu domnești azi și pururea,
 Doamne-n veci te voi lăuda!
 
 [v3]
-Lăudam Numele Celui Sfânt pururea,
+Lăudăm Numele Celui Sfânt pururea,
 Laudăm pe Acel ce e viu
-Pentru tot ce-a creat glorie să Îi dăm,
+Pentru tot ce-a creat, glorie să Îi dăm,
 Doamne-n veci noi Te onorăm,
 Doamne-n veci Te glorificăm.

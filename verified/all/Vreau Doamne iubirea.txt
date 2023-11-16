@@ -7,7 +7,7 @@ v1,c,v1,c
 [v1]
 Vreau, Doamne, iubirea,
 Tu să fii în viața mea!
-VREAU, Doamne, puterea,
+Vreau, Doamne, puterea,
 Tu să fii în viața mea!
 
 [c]
