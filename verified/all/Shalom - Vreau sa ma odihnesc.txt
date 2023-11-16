@@ -5,13 +5,13 @@ Vreau să mă odihnesc {alternative: {*}, composer: {Shalom}, writer: {*}, arran
 v1,v2,c,v3,c
 
 [v1]
-Vreau să mă odihnesc la umbra aripilor Tale...
-Primește-mă ’naintea Ta!
+Vreau să mă odihnesc la umbra aripilor Tale,
+Primește-mă ‘naintea Ta!
 Te rog, din nou, să-mi umpli inima de pace
 Și dă-mi nădejde prin Cuvântul Tău!
 
 [v2]
-Vreau să mă odihnesc la umbra aripilor Tale...
+Vreau să mă odihnesc la umbra aripilor Tale,
 Primește-mă așa cum sunt!
 Dă-mi din nou speranță, har, iubire și viață,
 Putere din Duhul Sfânt!
@@ -27,7 +27,7 @@ Suspinul meu adânc
 Și rana mea cea grea!
 
 [v3]
-Vreau să mă odihnesc la umbra aripilor Tale...
+Vreau să mă odihnesc la umbra aripilor Tale,
 Scut să-mi fii, tăria mea!
 Vreau să mă-nconjori cu brațele Tale,
 Adăpost să-mi fii în vreme rea!

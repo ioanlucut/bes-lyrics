@@ -7,22 +7,22 @@ v1,c,v2,c,v3,c,e
 [v1]
 Vine o zi când vom pleca,
 Spre Canaan ne-om îndrepta.
-Da, vine-o zi, da, vine-o zi.
-O trâmbiță va răsuna
-De pe pământ ne-om înălța
+Da, vine-o zi, da, vine-o zi!
+O trâmbiță va răsuna,
+De pe pământ ne-om înălța,
 Noi vom zbura, da, vom zbura.
 
 [c]
-Ce sărbătoare atunci va fi,
-Când mirele-și va întâlni
-Mireasa lui, pe nori de slavă în văzduh.
+Ce sărbătoare-atunci va fi,
+Când Mirele-și va întâlni
+Mireasa Lui, pe nori de slavă în văzduh.
 Cu mintea nu poți a gândi
-Ce întâlnire atunci va fi,
-Vei fi acolo și tu sau nu vei fi.
+Ce întâlnire-atunci va fi,
+Vei fi acolo și tu sau nu vei fi?
 
 [v2]
 Tot universul va privi,
-Fără de număr, galaxii
+Fără de număr galaxii
 Vor asculta, vor asculta
 Cântarea celor mântuiți.
 Iertați prin har, neprihăniți,
@@ -37,4 +37,4 @@ Să ai o viață și-un nou drum
 Cu Dumnezeu, cu Dumnezeu.
 
 [e]
-Să fii și tu acolo, nu lipsi...nu lipsi
+Să fii și tu acolo, nu lipsi, nu lipsi!

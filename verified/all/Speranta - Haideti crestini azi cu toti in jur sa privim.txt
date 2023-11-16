@@ -1,12 +1,12 @@
 [title]
-Haideți creștini azi cu toți în jur să privim {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66663}, id: {fYvkWc2LryNXVwErrWC4q7}, contentHash: {7885d8}}
+Haideți creștini azi cu toții în jur să privim {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66663}, id: {fYvkWc2LryNXVwErrWC4q7}, contentHash: {7885d8}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
 
 [v1.1]
 Haideți creștini azi
-Cu toți în jur să privim,
+Cu toții în jur să privim,
 Care e timpul și
 Locul în care trăim.
 
@@ -23,7 +23,7 @@ Acel ce prin cruce
 În lume viața-adus.
 
 [c1.2]
-Ca și un Rege,
+Ca și un rege,
 Cu slavă pe nori va veni,
 Cum ne-a promis,
 Isus din nou va veni! :/

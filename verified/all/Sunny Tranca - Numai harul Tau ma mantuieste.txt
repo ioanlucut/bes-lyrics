@@ -7,7 +7,7 @@ v1,c,v2,c
 [v1]
 Vrem să Te vedem, vrem să Te-auzim
 Vrem prezența Ta, Doamne, Te iubim!
-Despărțiți de Tine, nimic nu va fi
+Despărțiți de Tine, nimic nu vom fi
 Alături de Tine, noi vom birui.
 
 [c]
@@ -18,6 +18,6 @@ Harul Tău, Isus, îmi e-ndeajuns! :/
 
 [v2]
 Orice-aș face eu, nu merit harul Tău.
-Azi eu mă smeresc, să-L pot primi din nou.
+Azi eu mă smeresc, să-l pot primi din nou.
 Eu mă-ntorc acasă, alerg la pieptul Tău,
 Știu că ce mă ține, este harul Tău.

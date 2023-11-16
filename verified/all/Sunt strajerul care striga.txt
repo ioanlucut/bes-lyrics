@@ -14,7 +14,7 @@ S-aveți candela aprinsă
 Nu mai este mult din noapte
 Și Luceafărul pe cer va răsări
 Strig acum întâia oară:
-„Ascultați-mă, din somn să vă treziți!”
+Ascultați-mă, din somn să vă treziți!
 
 [c]
 /: Vine Domnul, vine iarăși,
@@ -24,12 +24,12 @@ Să ne ia și să ne ducă sus în cer. :/
 
 [v2.1]
 Glasul meu răsună-n noapte,
-Să audă vreau creștinii peste tot
-Iată, Împăratul vine!
-Pașii Lui se-aud tot mai clar în depărtări.
+Să audă-l vreau creștinii peste tot:
+Iată, Împăratul vine,
+Pașii Lui se-aud mai clar în depărtări.
 
 [v2.2]
 Lăsați lumea și păcatul,
 In curat să fie haina ce-o purtați,
 Strig acum a doua oară:
-„Ascultați-mă, din somn să vă treziți!”
+Ascultați-mă, din somn să vă treziți!
