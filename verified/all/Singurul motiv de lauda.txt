@@ -1,5 +1,5 @@
 [title]
-Singurul motiv de laudă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fq1SCsWEwYNdKjNPynr7jK}, contentHash: {35d363}}
+Singurul motiv de laudă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fq1SCsWEwYNdKjNPynr7jK}, contentHash: {c04092}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c
@@ -19,5 +19,5 @@ Tu ești dragostea, ești iubirea mea
 [c]
 /: Atotputernic peste popoare,
 Ești măreț, ești plin de splendoare.
-În valul greu ești, ești stâncă tare
+În valul greu ești, ești Stâncă tare
 Și nu e nimeni cum ești Tu. :/
