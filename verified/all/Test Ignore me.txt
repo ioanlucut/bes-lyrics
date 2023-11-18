@@ -1,11 +1,11 @@
 [title]
-Test Ignore me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {1482a1}}
+Test Ignore me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {a342bb}}
 
 [sequence]
 v1.1,v1.2,v1.3
 
 [v1.1]
-space-not-expected-before Îtext
+sspace-not-expected-before Îtext
 space-not-expected-before âtext
 space-not-expected-before îtext
 space-not-expected-before ătext
