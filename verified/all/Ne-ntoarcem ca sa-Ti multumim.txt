@@ -1,5 +1,5 @@
 [title]
-Ne-ntoarcem ca să-Ți mulțumim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4005}, id: {8AhN6cqEvxsVH8riKb3Lo1}, contentHash: {d6437a}}
+Ne-ntoarcem ca să-Ți mulțumim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4005}, id: {8AhN6cqEvxsVH8riKb3Lo1}, contentHash: {ebd827}}
 
 [sequence]
 v1,v2,c,v3,v4

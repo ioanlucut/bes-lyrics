@@ -1,5 +1,5 @@
 [title]
-Îngeri mii în ceruri cântă {alternative: {*}, composer: {Colin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4237}, id: {1pKQusDQ5NPNyHJkA5gbGd}, contentHash: {becee4}}
+Îngeri mii în ceruri cântă {alternative: {*}, composer: {Colin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4237}, id: {1pKQusDQ5NPNyHJkA5gbGd}, contentHash: {ec6bd7}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

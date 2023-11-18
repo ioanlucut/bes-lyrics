@@ -1,0 +1,24 @@
+[title]
+Mireasmă de iertare la Calvar, sus, pe o cruce {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {56019}, id: {7rGjQSmpq9bAi29KChDr7C}, contentHash: {16506c}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+M-ai născut în lacrimi și durere,
+Cu un dor de iertare în pieptul Tău.
+Zbor înfrânt și-a găsit alinare
+În Cuvântul întrupat, în Dumnezeu.
+
+[c]
+La Calvar, sus, pe o cruce,
+Iubirea a fost jertfă și altar,
+Împăcând toată omenirea
+Cu Creatorul Său, cu Tatăl Dumnezeu
+Pentru veșnicie!
+
+[v2]
+M-ai cuprins cu mâinile-amândouă
+Ce purtau semnele că mă iubești
+Și-am simțit o mireasmă de iertare,
+Ce mi-a umplut inima cu Dumnezeu.

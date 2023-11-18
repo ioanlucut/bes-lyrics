@@ -1,5 +1,5 @@
 [title]
-Veniți, creștini, la rugăciune {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oxQYfPd3h4rwLbgwqCmAW3}, contentHash: {021aaf}}
+Veniți, creștini, la rugăciune {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oxQYfPd3h4rwLbgwqCmAW3}, contentHash: {0e6fd2}}
 
 [sequence]
 v1,v2,v3,v4,v5

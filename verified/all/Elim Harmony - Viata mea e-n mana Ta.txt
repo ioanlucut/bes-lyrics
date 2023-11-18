@@ -1,5 +1,5 @@
 [title]
-Viața mea e-n mâna Ta {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61826}, id: {1mcUUFQWEp7igbPBZu6iKm}, contentHash: {03e911}}
+Viața mea e-n mâna Ta {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61826}, id: {1mcUUFQWEp7igbPBZu6iKm}, contentHash: {fcaf74}}
 
 [sequence]
 v1,c,v2,c

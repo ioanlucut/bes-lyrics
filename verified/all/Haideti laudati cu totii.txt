@@ -1,5 +1,5 @@
 [title]
-Haideți, lăudați cu toții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4934}, id: {qrgn5nyoiEUqxJttwSLMpJ}, contentHash: {5c0b00}}
+Haideți, lăudați cu toții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4934}, id: {qrgn5nyoiEUqxJttwSLMpJ}, contentHash: {b1686e}}
 
 [sequence]
 c,v1,c

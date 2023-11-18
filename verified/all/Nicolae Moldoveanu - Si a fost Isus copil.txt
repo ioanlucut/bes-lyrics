@@ -1,5 +1,5 @@
 [title]
-Și a fost Isus copil {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4553}, id: {9GF928STwj6GCUSwHDRhGY}, contentHash: {926d04}}
+Și a fost Isus copil {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4553}, id: {9GF928STwj6GCUSwHDRhGY}, contentHash: {56c854}}
 
 [sequence]
 v1,v2,v3,v4,v5

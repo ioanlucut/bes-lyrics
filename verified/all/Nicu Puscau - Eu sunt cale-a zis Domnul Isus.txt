@@ -1,5 +1,5 @@
 [title]
-Eu sunt cale-a zis Domnul Isus {alternative: {*}, composer: {Nicu Puscau}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61925}, id: {1tMTXqTfP67qRuXBkNg1zR}, contentHash: {d8d7a4}}
+Eu sunt cale-a zis Domnul Isus {alternative: {*}, composer: {Nicu Puscau}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61925}, id: {1tMTXqTfP67qRuXBkNg1zR}, contentHash: {2fa859}}
 
 [sequence]
 v1,c,v2,c,v3,c2

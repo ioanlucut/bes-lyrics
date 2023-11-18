@@ -1,5 +1,5 @@
 [title]
-Intrat-ai în grădină să vezi rodirea mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6534}, id: {m8MPWwxbAyXWmePsEeT4HZ}, contentHash: {01e3da}}
+Intrat-ai în grădină să vezi rodirea mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6534}, id: {m8MPWwxbAyXWmePsEeT4HZ}, contentHash: {4dc70f}}
 
 [sequence]
 v1.1,v1.2,v1.3,v1.4,v2.1,v2.2,v2.3,v2.4,v3.1,v3.2,v3.3,v3.4,v4.1,v4.2,v4.3,v4.4

@@ -1,5 +1,5 @@
 [title]
-Nu renunța {alternative: {*}, composer: {Elixirul iubirii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {84662}, id: {cUb223S4yJ5d9dwDPyADsj}, contentHash: {6cf2a5}}
+Nu renunța {alternative: {*}, composer: {Elixirul iubirii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {84662}, id: {cUb223S4yJ5d9dwDPyADsj}, contentHash: {d52acd}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

@@ -1,5 +1,5 @@
 [title]
-Eu voi lăuda pe Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {wqYsu86LUSNwSShuadLHq4}, contentHash: {0607a4}}
+Eu voi lăuda pe Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {wqYsu86LUSNwSShuadLHq4}, contentHash: {7e5fcb}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Amice, din păcat te scoală {alternative: {*}, composer: {I. Aleman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5367}, id: {6ZuukXDguDrGjkTdXoYFqA}, contentHash: {e03544}}
+Amice, din păcat te scoală {alternative: {*}, composer: {I. Aleman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5367}, id: {6ZuukXDguDrGjkTdXoYFqA}, contentHash: {33a041}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

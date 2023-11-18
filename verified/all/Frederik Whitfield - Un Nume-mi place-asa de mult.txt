@@ -1,5 +1,5 @@
 [title]
-Un Nume-mi place-așa de mult {alternative: {*}, composer: {Frederik Whitfield}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {62793}, id: {qt5ezFQmWcug93GkEa2nK4}, contentHash: {92b43b}}
+Un Nume-mi place-așa de mult {alternative: {*}, composer: {Frederik Whitfield}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {62793}, id: {qt5ezFQmWcug93GkEa2nK4}, contentHash: {b53ac2}}
 
 [sequence]
 v1,c,v2,c,v3,c

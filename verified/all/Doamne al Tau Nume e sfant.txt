@@ -1,5 +1,5 @@
 [title]
-Doamne, al Tău Nume e sfânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cq9PSabALC94S4xutBvuxX}, contentHash: {96ed1b}}
+Doamne, al Tău Nume e sfânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cq9PSabALC94S4xutBvuxX}, contentHash: {4751c6}}
 
 [sequence]
 v1,c

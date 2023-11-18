@@ -1,5 +1,5 @@
 [title]
-Vine o zi, One day {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {206026}, id: {eaZViwkEQULTnHhnFW2rGR}, contentHash: {3d227b}}
+Vine o zi, One day {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {206026}, id: {eaZViwkEQULTnHhnFW2rGR}, contentHash: {a7f221}}
 
 [sequence]
 v1,v2,c,v3,v4,c,b,c,c2

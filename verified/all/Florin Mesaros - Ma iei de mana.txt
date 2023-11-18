@@ -1,5 +1,5 @@
 [title]
-Mă iei de mână {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158385}, id: {hnkHUAWZ68piMShJNkqbmC}, contentHash: {7dde15}}
+Mă iei de mână {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158385}, id: {hnkHUAWZ68piMShJNkqbmC}, contentHash: {1b7318}}
 
 [sequence]
 v1.1,v1.2,v1.3,c,v2.1,v2.2,c

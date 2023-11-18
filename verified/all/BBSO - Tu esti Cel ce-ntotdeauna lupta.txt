@@ -1,5 +1,5 @@
 [title]
-Tu ești Cel ce-ntotdeauna luptă {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {161815}, id: {r57QKj7PHxNBuMFqXgmYmJ}, contentHash: {e232b0}}
+Tu ești Cel ce-ntotdeauna luptă {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {161815}, id: {r57QKj7PHxNBuMFqXgmYmJ}, contentHash: {af0e5a}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c,e

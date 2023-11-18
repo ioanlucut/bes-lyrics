@@ -1,5 +1,5 @@
 [title]
-E prezent aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6753}, id: {sHH2SduEMKPho4rZcWKrUF}, contentHash: {b24c79}}
+E prezent aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6753}, id: {sHH2SduEMKPho4rZcWKrUF}, contentHash: {b7bebd}}
 
 [sequence]
 v1,c,v2,c

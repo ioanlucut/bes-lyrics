@@ -1,5 +1,5 @@
 [title]
-Eu Te iubesc, Isuse, eu Te iubesc, Isuse {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {215585}, id: {bRsSDyrDiAqf7yWNUscL4N}, contentHash: {2dc77d}}
+Eu Te iubesc, Isuse, eu Te iubesc, Isuse {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {215585}, id: {bRsSDyrDiAqf7yWNUscL4N}, contentHash: {863681}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Isus e viu, spune toată lumea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3A65gVecopgNZVTbuvxE9x}, contentHash: {7d8396}}
+Isus e viu, spune toată lumea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3A65gVecopgNZVTbuvxE9x}, contentHash: {27fc6d}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,b,c1.1,c1.2

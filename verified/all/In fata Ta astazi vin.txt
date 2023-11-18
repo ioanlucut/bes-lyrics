@@ -1,5 +1,5 @@
 [title]
-În fața Ta astăzi vin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {foVbT8pzsPWTbsDHhdnrYc}, contentHash: {7a40bc}}
+În fața Ta astăzi vin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {foVbT8pzsPWTbsDHhdnrYc}, contentHash: {5a3ba9}}
 
 [sequence]
 v1,p,c,v2,p,c

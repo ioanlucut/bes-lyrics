@@ -1,5 +1,5 @@
 [title]
-Eu cred în vindecările divine {alternative: {*}, composer: {Dionisie Giuchici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6870}, id: {9tLDpWceXW8ixLBzfMGKi9}, contentHash: {ddc307}}
+Eu cred în vindecările divine {alternative: {*}, composer: {Dionisie Giuchici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6870}, id: {9tLDpWceXW8ixLBzfMGKi9}, contentHash: {83820d}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

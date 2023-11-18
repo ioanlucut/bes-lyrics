@@ -1,5 +1,5 @@
 [title]
-Caută pacea-ntotdeauna {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {60996}, id: {3QGHmUrvSHne12ZYA59SMv}, contentHash: {a65335}}
+Caută pacea-ntotdeauna {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {60996}, id: {3QGHmUrvSHne12ZYA59SMv}, contentHash: {35c8d0}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

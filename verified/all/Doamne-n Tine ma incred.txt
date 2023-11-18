@@ -1,5 +1,5 @@
 [title]
-Doamne-n Tine mă încred {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3115}, id: {mreFxv5Myv1Ze6YXwF58Mb}, contentHash: {55c8d2}}
+Doamne-n Tine mă încred {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3115}, id: {mreFxv5Myv1Ze6YXwF58Mb}, contentHash: {2e0e14}}
 
 [sequence]
 v1,c,v2,c,v3,c

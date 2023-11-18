@@ -1,5 +1,5 @@
 [title]
-Dați-mi în mână Biblia divină {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1610}, id: {w6TEF5C4Xp1xaoCddEJUx2}, contentHash: {a5f7e7}}
+Dați-mi în mână Biblia divină {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1610}, id: {w6TEF5C4Xp1xaoCddEJUx2}, contentHash: {f4f482}}
 
 [sequence]
 v1,c,v2,c,v3,c

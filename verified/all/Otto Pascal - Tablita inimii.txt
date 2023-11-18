@@ -1,5 +1,5 @@
 [title]
-Tăblița inimii {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {242578}, id: {231cu6HhK5Nb5e5GfoUBB8}, contentHash: {67a5e7}}
+Tăblița inimii {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {242578}, id: {231cu6HhK5Nb5e5GfoUBB8}, contentHash: {4ec075}}
 
 [sequence]
 v1,c,v2,b,c

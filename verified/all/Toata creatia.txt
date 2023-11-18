@@ -1,5 +1,5 @@
 [title]
-Toată creația {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188982}, id: {ixmtt24GBPGwP8h1mSGFR1}, contentHash: {0f3220}}
+Toată creația {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188982}, id: {ixmtt24GBPGwP8h1mSGFR1}, contentHash: {d21fbd}}
 
 [sequence]
 v1,c,v2,c,e

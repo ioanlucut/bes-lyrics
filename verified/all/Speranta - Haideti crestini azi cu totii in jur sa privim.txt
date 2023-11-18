@@ -1,0 +1,53 @@
+[title]
+Haideți creștini azi cu toții în jur să privim {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66663}, id: {fYvkWc2LryNXVwErrWC4q7}, contentHash: {d52041}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
+
+[v1.1]
+Haideți creștini azi
+Cu toții în jur să privim,
+Care e timpul și
+Locul în care trăim.
+
+[v1.2]
+Orișiunde privim azi
+Întâlnim semne vii,
+Toate ne spun
+Că Isus va veni.
+
+[c1.1]
+/: Milioane de oameni
+Așteaptă să vină Isus,
+Acel ce prin cruce
+În lume viața-adus.
+
+[c1.2]
+Ca și un rege,
+Cu slavă pe nori va veni,
+Cum ne-a promis,
+Isus din nou va veni! :/
+
+[v2.1]
+Astăzi, în țări car’ deloc
+Nu vorbeau de Isus,
+Pe străzi, în parcuri,
+În școli credința-a-ajuns.
+
+[v2.2]
+Suntem acum
+În preajma anului două mii,
+Toate ne spun
+Că Isus va veni.
+
+[v3.1]
+Chiar și păcatul
+În lume la culme-a ajuns,
+Cei depravați
+În locuri de frunte-au pătruns.
+
+[v3.2]
+Ca pe vremea lui Lot,
+Pământu-i robit de cel rău,
+E-aproape să vină
+Pe nori al nost’ Dumnezeu.

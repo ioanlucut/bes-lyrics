@@ -1,5 +1,5 @@
 [title]
-E drept că Isus a murit {alternative: {*}, composer: {Isaac Watts}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1687}, id: {d67LirghH3yaeSv8EQumAz}, contentHash: {1e0f99}}
+E drept că Isus a murit {alternative: {*}, composer: {Isaac Watts}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1687}, id: {d67LirghH3yaeSv8EQumAz}, contentHash: {f233bb}}
 
 [sequence]
 v1,c,v2,c,v3,c

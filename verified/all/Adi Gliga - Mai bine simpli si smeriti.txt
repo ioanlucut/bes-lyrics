@@ -1,5 +1,5 @@
 [title]
-Mai bine simpli și smeriți {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6920}, id: {jNEAgZyiVEX7yu2rLBU5YB}, contentHash: {c36179}}
+Mai bine simpli și smeriți {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6920}, id: {jNEAgZyiVEX7yu2rLBU5YB}, contentHash: {f919e2}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Harul ce curge din Golgota {alternative: {*}, composer: {Tabita Ianc}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2825}, id: {812gnSFCgbUgfcTSFdwBYv}, contentHash: {04141f}}
+Harul ce curge din Golgota {alternative: {*}, composer: {Tabita Ianc}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2825}, id: {812gnSFCgbUgfcTSFdwBYv}, contentHash: {c37120}}
 
 [sequence]
 v1,c,v2,c,v3,c

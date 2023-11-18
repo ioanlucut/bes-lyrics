@@ -1,5 +1,5 @@
 [title]
-Binecuvântăm, Doamne, Numele Tău {alternative: {*}, composer: {Ierusalim}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4300}, id: {3cVLzWmquUqGnEVnUP5rzn}, contentHash: {04df98}}
+Binecuvântăm, Doamne, Numele Tău {alternative: {*}, composer: {Ierusalim}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4300}, id: {3cVLzWmquUqGnEVnUP5rzn}, contentHash: {5b4548}}
 
 [sequence]
 v1,c,v1,c

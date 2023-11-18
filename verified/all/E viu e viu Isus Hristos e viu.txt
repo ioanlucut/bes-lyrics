@@ -1,5 +1,5 @@
 [title]
-E viu, e viu, Isus Hristos e viu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {872}, id: {uRJA9vk9RDCmYiBMZCirbU}, contentHash: {fa1825}}
+E viu, e viu, Isus Hristos e viu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {872}, id: {uRJA9vk9RDCmYiBMZCirbU}, contentHash: {9c033d}}
 
 [sequence]
 v1,c,v1,c

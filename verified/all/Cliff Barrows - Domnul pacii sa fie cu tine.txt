@@ -1,5 +1,5 @@
 [title]
-Domnul păcii să fie cu tine {alternative: {*}, composer: {Cliff Barrows}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1929}, id: {fCdammpndL9qjzn4RVxYHi}, contentHash: {9e5920}}
+Domnul păcii să fie cu tine {alternative: {*}, composer: {Cliff Barrows}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1929}, id: {fCdammpndL9qjzn4RVxYHi}, contentHash: {287f84}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Ce bine e când frații {alternative: {*}, composer: {F.G. Wetzel}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1590}, id: {fd39R9H2BSap9BVNHD3hef}, contentHash: {4d5b78}}
+Ce bine e când frații {alternative: {*}, composer: {F.G. Wetzel}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1590}, id: {fd39R9H2BSap9BVNHD3hef}, contentHash: {79fcbd}}
 
 [sequence]
 v1,v2,v3,v4

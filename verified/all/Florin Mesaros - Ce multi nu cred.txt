@@ -1,5 +1,5 @@
 [title]
-Ce mulți nu cred {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158410}, id: {c3bvNc673x5ATRea8tenRs}, contentHash: {77e14f}}
+Ce mulți nu cred {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158410}, id: {c3bvNc673x5ATRea8tenRs}, contentHash: {c6b827}}
 
 [sequence]
 v1,c,b,c

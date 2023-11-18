@@ -1,5 +1,5 @@
 [title]
-Cum Te-ai oprit de mult {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4188}, id: {aUnhXzcPLUTiTPvtwE5Nie}, contentHash: {752b95}}
+Cum Te-ai oprit de mult {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4188}, id: {aUnhXzcPLUTiTPvtwE5Nie}, contentHash: {b08dd4}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2

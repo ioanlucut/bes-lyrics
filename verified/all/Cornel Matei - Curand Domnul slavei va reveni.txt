@@ -1,5 +1,5 @@
 [title]
-Curând Domnul slavei va reveni {alternative: {*}, composer: {Cornel Matei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {99843}, id: {8LvEkw59QVoUoeD4bteNji}, contentHash: {c5fe53}}
+Curând Domnul slavei va reveni {alternative: {*}, composer: {Cornel Matei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {99843}, id: {8LvEkw59QVoUoeD4bteNji}, contentHash: {e08e0b}}
 
 [sequence]
 v1,c,v2,c,v3,c

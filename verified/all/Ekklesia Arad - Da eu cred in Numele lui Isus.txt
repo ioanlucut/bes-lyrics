@@ -1,5 +1,5 @@
 [title]
-Da, eu cred în Numele lui Isus {alternative: {*}, composer: {Ekklesia Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164492}, id: {giYK7HMxuC6hc95Wnda7st}, contentHash: {5a31b8}}
+Da, eu cred în Numele lui Isus {alternative: {*}, composer: {Ekklesia Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164492}, id: {giYK7HMxuC6hc95Wnda7st}, contentHash: {898321}}
 
 [sequence]
 v1,c,v2,c,b,e,b2

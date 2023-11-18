@@ -1,5 +1,5 @@
 [title]
-Sunt ca frunza {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213127}, id: {eQuS4MXi8ZhMao4kuoe3Kk}, contentHash: {d1d4e0}}
+Sunt ca frunza {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213127}, id: {eQuS4MXi8ZhMao4kuoe3Kk}, contentHash: {cd3e8f}}
 
 [sequence]
 v1,c,v2,c

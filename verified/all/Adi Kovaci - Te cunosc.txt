@@ -1,5 +1,5 @@
 [title]
-Te cunosc {alternative: {*}, composer: {Adi Kovaci}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {179901}, id: {xrHkHLYZDwAi3NTdUqxCwP}, contentHash: {c23a0b}}
+Te cunosc {alternative: {*}, composer: {Adi Kovaci}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {179901}, id: {xrHkHLYZDwAi3NTdUqxCwP}, contentHash: {f3b5bd}}
 
 [sequence]
 v1,p,v2,c,c2

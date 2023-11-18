@@ -1,5 +1,5 @@
 [title]
-Celui ce șade pe tron {alternative: {*}, composer: {Cristocentric}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4854}, id: {9xHPHPzQA874Fj1uCuQoCJ}, contentHash: {c81937}}
+Celui ce șade pe tron {alternative: {*}, composer: {Cristocentric}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4854}, id: {9xHPHPzQA874Fj1uCuQoCJ}, contentHash: {200e37}}
 
 [sequence]
 v1,c,v1,c

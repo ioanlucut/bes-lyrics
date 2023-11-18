@@ -1,5 +1,5 @@
 [title]
-Ești milă {alternative: {*}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {203629}, id: {uqL8iZxSESMjrncZ4gRhgC}, contentHash: {48028c}}
+Ești milă {alternative: {*}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {203629}, id: {uqL8iZxSESMjrncZ4gRhgC}, contentHash: {e910de}}
 
 [sequence]
 v1,v2,c,v3,e

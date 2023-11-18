@@ -1,5 +1,5 @@
 [title]
-O stea pe cer se arată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6461}, id: {rDWNen779vhgSRQqXR8LiY}, contentHash: {c209a0}}
+O stea pe cer se arată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6461}, id: {rDWNen779vhgSRQqXR8LiY}, contentHash: {1cf932}}
 
 [sequence]
 v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Chemați, prin cântări, bucuria! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2161}, id: {3KmpRPScTKp3LUriVn9PzL}, contentHash: {0ee17b}}
+Chemați, prin cântări, bucuria! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2161}, id: {3KmpRPScTKp3LUriVn9PzL}, contentHash: {1b7997}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2

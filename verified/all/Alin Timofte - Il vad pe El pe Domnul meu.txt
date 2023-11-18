@@ -1,5 +1,5 @@
 [title]
-Îl văd pe El, pe Domnul meu {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7232}, id: {48n1Dib2ANBH33zgHj47mL}, contentHash: {ccb471}}
+Îl văd pe El, pe Domnul meu {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7232}, id: {48n1Dib2ANBH33zgHj47mL}, contentHash: {56d703}}
 
 [sequence]
 c,v1,c,v1,c,v1,c

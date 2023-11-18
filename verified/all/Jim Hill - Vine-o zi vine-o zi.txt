@@ -1,5 +1,5 @@
 [title]
-Vine-o zi, vine-o zi {alternative: {*}, composer: {Jim Hill}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59189}, id: {v5tsQFXfhEXUh3MszKuJ1y}, contentHash: {197f02}}
+Vine-o zi, vine-o zi {alternative: {*}, composer: {Jim Hill}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59189}, id: {v5tsQFXfhEXUh3MszKuJ1y}, contentHash: {f5db91}}
 
 [sequence]
 v1,c,v2,c

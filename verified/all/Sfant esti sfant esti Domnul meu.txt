@@ -1,5 +1,5 @@
 [title]
-Sfânt ești, sfânt ești, Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5dfZW1SPxLJiDiVpYZhqY5}, contentHash: {6a6c82}}
+Sfânt ești, sfânt ești, Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5dfZW1SPxLJiDiVpYZhqY5}, contentHash: {c9f26a}}
 
 [sequence]
 v1,p,c

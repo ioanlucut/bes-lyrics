@@ -1,5 +1,5 @@
 [title]
-El îți dă eliberare! {alternative: {Chain Braker}, composer: {Jonathan Smith}, writer: {Jonathan Smith}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172576}, id: {mSRDYhZ7k8V87tw1bddMQi}, contentHash: {e79b8d}}
+El îți dă eliberare! {alternative: {Chain Braker}, composer: {Jonathan Smith}, writer: {Jonathan Smith}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172576}, id: {mSRDYhZ7k8V87tw1bddMQi}, contentHash: {df8e3c}}
 
 [sequence]
 v1,c,v2,c,b,c

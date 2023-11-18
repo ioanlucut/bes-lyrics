@@ -1,5 +1,5 @@
 [title]
-Dumnezeu îmi dă putere {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6CayFPkGtLPcULMJR8eXRv}, contentHash: {354ebc}}
+Dumnezeu îmi dă putere {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6CayFPkGtLPcULMJR8eXRv}, contentHash: {367f8e}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

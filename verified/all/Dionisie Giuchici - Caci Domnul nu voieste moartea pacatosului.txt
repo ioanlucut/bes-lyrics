@@ -1,5 +1,5 @@
 [title]
-Căci Domnul nu voiește moartea păcătosului {alternative: {*}, composer: {Dionisie Giuchici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1606}, id: {px6WFSkN8FeFoytKjBAME5}, contentHash: {cbbe31}}
+Căci Domnul nu voiește moartea păcătosului {alternative: {*}, composer: {Dionisie Giuchici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1606}, id: {px6WFSkN8FeFoytKjBAME5}, contentHash: {652455}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

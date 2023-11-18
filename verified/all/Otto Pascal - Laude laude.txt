@@ -1,5 +1,5 @@
 [title]
-Laude, laude {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {228171}, id: {qKmxGBuiW5oL9PGykLuDtv}, contentHash: {20f485}}
+Laude, laude {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {228171}, id: {qKmxGBuiW5oL9PGykLuDtv}, contentHash: {db3b39}}
 
 [sequence]
 c,v1,b,v2,c,v3,c

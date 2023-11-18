@@ -1,5 +1,5 @@
 [title]
-O, cât mă simt de fericit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4786}, id: {a9tUiZAXbTvXYqSKYqLnWb}, contentHash: {98fefc}}
+O, cât mă simt de fericit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4786}, id: {a9tUiZAXbTvXYqSKYqLnWb}, contentHash: {0a9f8f}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

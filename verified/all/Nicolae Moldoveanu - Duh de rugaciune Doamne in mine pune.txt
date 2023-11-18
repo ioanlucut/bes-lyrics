@@ -1,5 +1,5 @@
 [title]
-Duh de rugăciune, Doamne, în mine pune {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5335}, id: {h4KzyDqB1pGGSSq6rWqd6Y}, contentHash: {5aa91a}}
+Duh de rugăciune, Doamne, în mine pune {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5335}, id: {h4KzyDqB1pGGSSq6rWqd6Y}, contentHash: {4f50e3}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

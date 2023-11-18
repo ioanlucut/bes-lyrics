@@ -1,5 +1,5 @@
 [title]
-Poala hainei Tale {alternative: {*}, composer: {Cristocentric}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111423}, id: {gkWXw3K2wBzRF2b38zGgEK}, contentHash: {19ae87}}
+Poala hainei Tale {alternative: {*}, composer: {Cristocentric}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111423}, id: {gkWXw3K2wBzRF2b38zGgEK}, contentHash: {8881c7}}
 
 [sequence]
 v1,c,e

@@ -1,5 +1,5 @@
 [title]
-Jertfa Ta {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {60808}, id: {idknJBEWo1NvLzCnuV47Dm}, contentHash: {c35e0d}}
+Jertfa Ta {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {60808}, id: {idknJBEWo1NvLzCnuV47Dm}, contentHash: {322831}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

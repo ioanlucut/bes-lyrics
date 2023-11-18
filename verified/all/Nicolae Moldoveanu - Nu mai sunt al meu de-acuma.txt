@@ -1,5 +1,5 @@
 [title]
-Nu mai sunt al meu de-acuma {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5389}, id: {odZatA966piLv5z8BCChxB}, contentHash: {a4e299}}
+Nu mai sunt al meu de-acuma {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5389}, id: {odZatA966piLv5z8BCChxB}, contentHash: {2db22c}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

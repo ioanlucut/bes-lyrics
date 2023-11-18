@@ -1,5 +1,5 @@
 [title]
-Domnul e așa de bun {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6785}, id: {fMjAf9HjHcgLkAeJo6wG2b}, contentHash: {7bf921}}
+Domnul e așa de bun {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6785}, id: {fMjAf9HjHcgLkAeJo6wG2b}, contentHash: {3af858}}
 
 [sequence]
 v1,v2,v3,v4

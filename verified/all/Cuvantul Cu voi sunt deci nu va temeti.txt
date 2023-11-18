@@ -1,5 +1,5 @@
 [title]
-Cuvântul: „Cu voi sunt, deci nu vă temeți!” {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4589}, id: {1Ae1WQxTppjaRN4cUi5xXc}, contentHash: {9ace33}}
+Cuvântul: „Cu voi sunt, deci nu vă temeți!” {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4589}, id: {1Ae1WQxTppjaRN4cUi5xXc}, contentHash: {5a1d60}}
 
 [sequence]
 v1,c,v2,c,v3,c

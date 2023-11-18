@@ -1,5 +1,5 @@
 [title]
-Doamne, vin la Tin’ chiar acum {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {g1asgPW8KxLGcrYTD1UrVk}, contentHash: {0fc31c}}
+Doamne, vin la Tin’ chiar acum {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {g1asgPW8KxLGcrYTD1UrVk}, contentHash: {1e556e}}
 
 [sequence]
 v1,c,v2,c,e

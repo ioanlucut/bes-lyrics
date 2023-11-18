@@ -1,5 +1,5 @@
 [title]
-Când trompeta Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cef5MdR1Qe1VDcWXWh17ZE}, contentHash: {ef8fbb}}
+Când trompeta Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cef5MdR1Qe1VDcWXWh17ZE}, contentHash: {c4e711}}
 
 [sequence]
 v1,c,v2,c

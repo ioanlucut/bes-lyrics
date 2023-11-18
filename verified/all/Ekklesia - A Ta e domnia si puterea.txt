@@ -1,5 +1,5 @@
 [title]
-A Ta e domnia și puterea {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {93393}, id: {akNSpndFuNmTry61pQDEeG}, contentHash: {70d719}}
+A Ta e domnia și puterea {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {93393}, id: {akNSpndFuNmTry61pQDEeG}, contentHash: {c335e7}}
 
 [sequence]
 v1,p,c,v1,p,c

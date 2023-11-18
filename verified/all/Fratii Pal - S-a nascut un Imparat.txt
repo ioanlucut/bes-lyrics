@@ -1,5 +1,5 @@
 [title]
-S-a născut un Împărat {alternative: {*}, composer: {Fratii Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4444}, id: {wNgqDUcFqWMSwJy15zXCro}, contentHash: {27845e}}
+S-a născut un Împărat {alternative: {*}, composer: {Fratii Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4444}, id: {wNgqDUcFqWMSwJy15zXCro}, contentHash: {8ee52d}}
 
 [sequence]
 v1,c,v2,c,v3,c

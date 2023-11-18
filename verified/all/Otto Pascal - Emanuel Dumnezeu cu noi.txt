@@ -1,5 +1,5 @@
 [title]
-Emanuel, Dumnezeu cu noi {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {207989}, id: {2XM8JtJS5s83ZTSMmXWvyv}, contentHash: {5008ed}}
+Emanuel, Dumnezeu cu noi {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {207989}, id: {2XM8JtJS5s83ZTSMmXWvyv}, contentHash: {81edd9}}
 
 [sequence]
 v1,c,v2,c,v3,c

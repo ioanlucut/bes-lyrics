@@ -1,5 +1,5 @@
 [title]
-Bine-ați venit azi la altar {alternative: {*}, composer: {Familia Jula}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59246}, id: {aEvWNNrmTCs9WPbXM3Y9BM}, contentHash: {9f00a3}}
+Bine-ați venit azi la altar {alternative: {*}, composer: {Familia Jula}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59246}, id: {aEvWNNrmTCs9WPbXM3Y9BM}, contentHash: {bb9c78}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

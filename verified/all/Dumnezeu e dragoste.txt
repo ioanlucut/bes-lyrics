@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e dragoste {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eJ1iqRHWDPEymA7AstmMWT}, contentHash: {f22430}}
+Dumnezeu e dragoste {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eJ1iqRHWDPEymA7AstmMWT}, contentHash: {a5d11e}}
 
 [sequence]
 v1,v2,v3,v4

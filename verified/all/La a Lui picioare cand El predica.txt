@@ -1,5 +1,5 @@
 [title]
-La a Lui picioare când El predica {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cayQbwpjvaFnXbxX1pz8yj}, contentHash: {0b6289}}
+La a Lui picioare când El predica {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cayQbwpjvaFnXbxX1pz8yj}, contentHash: {127234}}
 
 [sequence]
 v1,v2,v3

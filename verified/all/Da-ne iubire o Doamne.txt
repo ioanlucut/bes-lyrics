@@ -1,5 +1,5 @@
 [title]
-Dă-ne iubire, o, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {aiTRfQ8Whj8CQPi5KYcHPH}, contentHash: {2b7b4c}}
+Dă-ne iubire, o, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {aiTRfQ8Whj8CQPi5KYcHPH}, contentHash: {708660}}
 
 [sequence]
 v1,v2

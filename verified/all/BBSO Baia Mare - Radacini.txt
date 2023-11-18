@@ -1,5 +1,5 @@
 [title]
-Rădăcini {alternative: {*}, composer: {BBSO Baia Mare}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {247898}, id: {obYjyqPkQGbLf7MBArXCS9}, contentHash: {c11412}}
+Rădăcini {alternative: {*}, composer: {BBSO Baia Mare}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {247898}, id: {obYjyqPkQGbLf7MBArXCS9}, contentHash: {bb8588}}
 
 [sequence]
 v1,b,c,v2,b,c,b

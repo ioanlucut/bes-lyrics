@@ -1,5 +1,5 @@
 [title]
-De păcat împovărat în lume pribegeam {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74420}, id: {8sPKm5L17nFEUuEXQ4frz1}, contentHash: {90cce5}}
+De păcat împovărat în lume pribegeam {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74420}, id: {8sPKm5L17nFEUuEXQ4frz1}, contentHash: {adc853}}
 
 [sequence]
 v1,c,v2,c,v3,c

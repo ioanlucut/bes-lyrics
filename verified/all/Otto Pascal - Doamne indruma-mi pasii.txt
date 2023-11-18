@@ -1,5 +1,5 @@
 [title]
-Doamne, îndrumă-mi pașii {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {193757}, id: {rW4ruC6gC1NyhebjFAbNzU}, contentHash: {1938f0}}
+Doamne, îndrumă-mi pașii {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {193757}, id: {rW4ruC6gC1NyhebjFAbNzU}, contentHash: {acf706}}
 
 [sequence]
 v1,b,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-Bucuria mea ești Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1395}, id: {gUSPTsptEWdzwrTYG78uJT}, contentHash: {0d10e6}}
+Bucuria mea ești Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1395}, id: {gUSPTsptEWdzwrTYG78uJT}, contentHash: {08657c}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Astăzi este ziua, cântărește bine! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6240}, id: {i27127oo4haCmwQB5RD7w4}, contentHash: {045e78}}
+Astăzi este ziua, cântărește bine! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6240}, id: {i27127oo4haCmwQB5RD7w4}, contentHash: {4f9bdf}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

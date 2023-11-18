@@ -1,5 +1,5 @@
 [title]
-Regele tău și-al meu {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157369}, id: {1rbxzUWJktx3LNdjE9omDD}, contentHash: {56ef6d}}
+Regele tău și-al meu {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157369}, id: {1rbxzUWJktx3LNdjE9omDD}, contentHash: {0098e3}}
 
 [sequence]
 v1,c,v2,c

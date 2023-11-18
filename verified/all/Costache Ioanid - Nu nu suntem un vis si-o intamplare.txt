@@ -1,5 +1,5 @@
 [title]
-Nu, nu suntem un vis și-o întâmplare {alternative: {*}, composer: {Costache Ioanid}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1802}, id: {j6AnEgYiRcRJrUNAPed5oZ}, contentHash: {819632}}
+Nu, nu suntem un vis și-o întâmplare {alternative: {*}, composer: {Costache Ioanid}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1802}, id: {j6AnEgYiRcRJrUNAPed5oZ}, contentHash: {2fe942}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

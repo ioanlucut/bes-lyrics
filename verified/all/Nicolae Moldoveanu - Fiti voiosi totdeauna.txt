@@ -1,5 +1,5 @@
 [title]
-Fiți voioși totdeauna {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5668}, id: {sbcCALw6gXaFk94Pv6Q3nE}, contentHash: {260ae1}}
+Fiți voioși totdeauna {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5668}, id: {sbcCALw6gXaFk94Pv6Q3nE}, contentHash: {fc8972}}
 
 [sequence]
 v1,v2,v3,v4

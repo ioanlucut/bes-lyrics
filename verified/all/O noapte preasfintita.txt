@@ -1,5 +1,5 @@
 [title]
-O, noapte preasfințită {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5026}, id: {e1TnXSwVG2DcqadpBq29Sb}, contentHash: {17091c}}
+O, noapte preasfințită {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5026}, id: {e1TnXSwVG2DcqadpBq29Sb}, contentHash: {28ca7a}}
 
 [sequence]
 v1,v2,v3

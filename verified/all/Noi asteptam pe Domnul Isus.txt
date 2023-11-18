@@ -1,5 +1,5 @@
 [title]
-Noi așteptăm pe Domnul Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4009}, id: {aDPYXtWmSYhb1AijCtfFAs}, contentHash: {f3d6df}}
+Noi așteptăm pe Domnul Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4009}, id: {aDPYXtWmSYhb1AijCtfFAs}, contentHash: {73234c}}
 
 [sequence]
 v1,v2,v3,v4

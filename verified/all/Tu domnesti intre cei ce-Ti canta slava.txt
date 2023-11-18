@@ -1,5 +1,5 @@
 [title]
-Tu domnești între cei ce-Ți cântă slavă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qVXGu25FTAwWxcGiwXrbUd}, contentHash: {e770fc}}
+Tu domnești între cei ce-Ți cântă slavă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qVXGu25FTAwWxcGiwXrbUd}, contentHash: {646f24}}
 
 [sequence]
 v1,c,v1,c

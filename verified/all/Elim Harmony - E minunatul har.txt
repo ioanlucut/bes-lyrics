@@ -1,0 +1,35 @@
+[title]
+E minunatul har {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195501}, id: {71NAD9m6pwrACBT3NqhR4r}, contentHash: {790951}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Cine învinge păcat și noapte
+Și cine pune iubire în toate?
+Regele gloriei, domnește peste regi!
+Cu tunet mișcă întreaga zare,
+Ne umple viața cu încântare.
+Regele gloriei, domnește peste regi!
+
+[c]
+E minunatul har, eterna dragoste,
+Tu locul meu ai luat
+Și crucea mi-ai purtat!
+Viața Tu Ți-ai dat
+Să fiu eliberat,
+Isuse, eu cânt pentru tot ce ai făcut!
+
+[v2]
+Aduce pacea când este luptă,
+Pentru orfan El e veșnic Tată,
+Regele gloriei, Regele gloriei!
+Peste popoare El stăpânește
+Ca astrul zilei El strălucește,
+Regele gloriei, domnește peste regi!
+
+[b]
+/: Vrednic este Mielul ‘junghiat,
+Vrednic este Cel ce a înviat! : / (3x)
+Vrednic este Mielul ‘junghiat,
+Vrednic, vrednic, vrednic!

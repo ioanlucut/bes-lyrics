@@ -1,5 +1,5 @@
 [title]
-Mă iubești tu mai mult decât ceilalți {alternative: {*}, composer: {Ioan Panican}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {75312}, id: {wiopfcvnCanWxW99ZbwL7A}, contentHash: {0a8391}}
+Mă iubești tu mai mult decât ceilalți {alternative: {*}, composer: {Ioan Panican}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {75312}, id: {wiopfcvnCanWxW99ZbwL7A}, contentHash: {95cc44}}
 
 [sequence]
 v1.1,v1.2,v2,v3,v4

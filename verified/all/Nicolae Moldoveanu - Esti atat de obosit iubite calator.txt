@@ -1,5 +1,5 @@
 [title]
-Ești atât de obosit, iubite călător {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5829}, id: {9tbsrntT7oee3pRmcSFaV1}, contentHash: {7126da}}
+Ești atât de obosit, iubite călător {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5829}, id: {9tbsrntT7oee3pRmcSFaV1}, contentHash: {0ddbe6}}
 
 [sequence]
 v1,v2,v3

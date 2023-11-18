@@ -1,5 +1,5 @@
 [title]
-M-a aflat pe căi străine {alternative: {*}, composer: {BBSO}, writer: {Robert Robinson & John Wyeth}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197722}, id: {1cS3TdbyveEPni9yVWpTHC}, contentHash: {706460}}
+M-a aflat pe căi străine {alternative: {*}, composer: {BBSO}, writer: {Robert Robinson & John Wyeth}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197722}, id: {1cS3TdbyveEPni9yVWpTHC}, contentHash: {7c93a6}}
 
 [sequence]
 v1,v2,c,c2,v3,c2

@@ -1,5 +1,5 @@
 [title]
-Am stat de vorbă, astăzi, eu cu Domnul {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172709}, id: {snyzLt8KNmrPQy9xmyezvK}, contentHash: {19f24b}}
+Am stat de vorbă, astăzi, eu cu Domnul {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172709}, id: {snyzLt8KNmrPQy9xmyezvK}, contentHash: {4e59f4}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ne-om scutura ca pomii primăverii {alternative: {*}, composer: {Iuliana Leontiuc}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5001}, id: {pVmPHPQ1JyKY3L7VU4R3mF}, contentHash: {71b501}}
+Ne-om scutura ca pomii primăverii {alternative: {*}, composer: {Iuliana Leontiuc}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5001}, id: {pVmPHPQ1JyKY3L7VU4R3mF}, contentHash: {6d4ede}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Bateți din palme toate popoarele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5157}, id: {8Doh8bnQxRbAYgAcuJZd3x}, contentHash: {eade5f}}
+Bateți din palme toate popoarele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5157}, id: {8Doh8bnQxRbAYgAcuJZd3x}, contentHash: {cbfe61}}
 
 [sequence]
 c,v1,v2

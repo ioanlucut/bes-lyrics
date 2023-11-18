@@ -1,5 +1,5 @@
 [title]
-Iertare {alternative: {*}, composer: {Not an Idol}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {191417}, id: {pBrRh9VgSbsTz52aSMt1MT}, contentHash: {5ce5d9}}
+Iertare {alternative: {*}, composer: {Not an Idol}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {191417}, id: {pBrRh9VgSbsTz52aSMt1MT}, contentHash: {148c1f}}
 
 [sequence]
 v1,c,v2,c,c
@@ -12,7 +12,7 @@ Lasă mila Ta peste viața mea.
 
 [c]
 Păcatele toate vreau, rând pe rând, să cadă,
-Doamne, mă iartă și fă-mă  alb ca zăpada.
+Doamne, mă iartă și fă-mă alb ca zăpada.
 
 [v2]
 Tu îmi ceri ca adevărul Tău

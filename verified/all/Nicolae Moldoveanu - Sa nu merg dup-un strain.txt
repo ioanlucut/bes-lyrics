@@ -1,5 +1,5 @@
 [title]
-Să nu merg dup-un străin {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5877}, id: {5WGAbB9x7nDPSdVFoW2X3Q}, contentHash: {cf03cc}}
+Să nu merg dup-un străin {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5877}, id: {5WGAbB9x7nDPSdVFoW2X3Q}, contentHash: {b66355}}
 
 [sequence]
 v1,v2,v3,v4

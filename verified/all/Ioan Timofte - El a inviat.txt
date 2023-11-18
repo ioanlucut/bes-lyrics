@@ -1,5 +1,5 @@
 [title]
-El a înviat {alternative: {*}, composer: {Ioan Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7067}, id: {8vb3sr3XPutuh6SVdg9Xig}, contentHash: {57952f}}
+El a înviat {alternative: {*}, composer: {Ioan Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7067}, id: {8vb3sr3XPutuh6SVdg9Xig}, contentHash: {c5874b}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c

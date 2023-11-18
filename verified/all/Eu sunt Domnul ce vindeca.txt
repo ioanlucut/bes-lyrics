@@ -1,5 +1,5 @@
 [title]
-Eu sunt Domnul ce vindecă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bKcqedvyC9cu2kEZ7JvFNY}, contentHash: {8e4082}}
+Eu sunt Domnul ce vindecă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bKcqedvyC9cu2kEZ7JvFNY}, contentHash: {956fdb}}
 
 [sequence]
 v1,v2,v1,v2

@@ -1,5 +1,5 @@
 [title]
-De neclintit {alternative: {*}, composer: {BBSO}, writer: {Răzvan Rește & Sergiu Strete}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {198165}, id: {4npE7TGdUnzJ2tEpbvs2xF}, contentHash: {b5c534}}
+De neclintit {alternative: {*}, composer: {BBSO}, writer: {Răzvan Rește & Sergiu Strete}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {198165}, id: {4npE7TGdUnzJ2tEpbvs2xF}, contentHash: {58e7e0}}
 
 [sequence]
 v1,v2,b,c,v3,e

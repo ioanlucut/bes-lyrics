@@ -1,5 +1,5 @@
 [title]
-Dragostea-i din Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {du3N88cBHHPhiGRHwUNnWk}, contentHash: {5a1723}}
+Dragostea-i din Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {du3N88cBHHPhiGRHwUNnWk}, contentHash: {e59924}}
 
 [sequence]
 v1,v2,v3,v4

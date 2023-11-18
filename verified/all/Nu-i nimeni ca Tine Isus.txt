@@ -1,5 +1,5 @@
 [title]
-Nu-i nimeni ca Tine, Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225847}, id: {eyVWGDr7PiUePk9xytunXZ}, contentHash: {036d70}}
+Nu-i nimeni ca Tine, Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225847}, id: {eyVWGDr7PiUePk9xytunXZ}, contentHash: {f6c5e2}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Hai, spune-mi, cine a biruit moartea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {151288}, id: {kiAQQvvhYopcyGMxXS1WHb}, contentHash: {c79bf7}}
+Hai, spune-mi, cine a biruit moartea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {151288}, id: {kiAQQvvhYopcyGMxXS1WHb}, contentHash: {4f5703}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

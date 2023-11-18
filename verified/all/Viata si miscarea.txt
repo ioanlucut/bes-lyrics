@@ -1,5 +1,5 @@
 [title]
-Viața și mișcarea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5114}, id: {71HAUf9tJyQbgnQHfLYwBh}, contentHash: {4c9d0e}}
+Viața și mișcarea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5114}, id: {71HAUf9tJyQbgnQHfLYwBh}, contentHash: {4af7b7}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Mă predau azi {alternative: {Adaptare după Matt Crocker}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157505}, id: {gdXo6PAK3bKVocvH8YePhu}, contentHash: {b39402}}
+Mă predau azi {alternative: {Adaptare după Matt Crocker}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157505}, id: {gdXo6PAK3bKVocvH8YePhu}, contentHash: {9b8df7}}
 
 [sequence]
 v1,v2,b,c,b,c

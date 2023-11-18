@@ -1,5 +1,5 @@
 [title]
-Era odată-o tainică grădină {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5473}, id: {8xgeauBEmTS5jXdGX2HbPS}, contentHash: {5dffdd}}
+Era odată-o tainică grădină {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5473}, id: {8xgeauBEmTS5jXdGX2HbPS}, contentHash: {b28521}}
 
 [sequence]
 v1,v2,v3,v4,v5

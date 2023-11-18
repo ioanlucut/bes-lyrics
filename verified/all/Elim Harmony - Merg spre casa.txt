@@ -1,5 +1,5 @@
 [title]
-Merg spre casă {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {155677}, id: {tkjr1MarKiec3LMrwPKidv}, contentHash: {23c251}}
+Merg spre casă {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {155677}, id: {tkjr1MarKiec3LMrwPKidv}, contentHash: {6fdf0f}}
 
 [sequence]
 c1.1,c1.2,v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,b,c1.1,c1.2

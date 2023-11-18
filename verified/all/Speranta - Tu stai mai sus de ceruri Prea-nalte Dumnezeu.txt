@@ -1,5 +1,5 @@
 [title]
-Tu stai mai sus de ceruri, Prea-nalte Dumnezeu {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4124}, id: {tCiUFLnpsDYtp1Wja41cA8}, contentHash: {14c95f}}
+Tu stai mai sus de ceruri, Prea-nalte Dumnezeu {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4124}, id: {tCiUFLnpsDYtp1Wja41cA8}, contentHash: {62ba61}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,e

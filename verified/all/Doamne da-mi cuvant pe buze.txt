@@ -1,5 +1,5 @@
 [title]
-Doamne, dă-mi cuvânt pe buze {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {108410}, id: {q65JQqCJQfeAFpqpCuZdUH}, contentHash: {df2570}}
+Doamne, dă-mi cuvânt pe buze {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {108410}, id: {q65JQqCJQfeAFpqpCuZdUH}, contentHash: {91077f}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

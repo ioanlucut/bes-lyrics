@@ -1,5 +1,5 @@
 [title]
-O, pân’ la Tine, Doamne, s-ajungă ruga mea {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5348}, id: {wgkMg48sxuxkCDQStfvJDT}, contentHash: {3fb6e0}}
+O, pân’ la Tine, Doamne, s-ajungă ruga mea {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5348}, id: {wgkMg48sxuxkCDQStfvJDT}, contentHash: {0b6c65}}
 
 [sequence]
 v1,v2,v3,v4
