@@ -1,4 +1,3 @@
-import { parse } from './songParser.js';
 import {
   SIMPLE_SONG_MOCK_FILE_CONTENT,
   SIMPLE_SONG_WO_ID__MOCK_FILE_CONTENT,
@@ -8,6 +7,7 @@ import {
 } from '../mocks/index.js';
 import { ALLOWED_CHARS, EMPTY_STRING } from './constants.js';
 import { createAdvancedSongMock } from './core.js';
+import { parse } from './songParser.js';
 
 jest.mock('short-uuid', () => ({
   generate: () => 'ANY_id',

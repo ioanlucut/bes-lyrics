@@ -17,7 +17,6 @@ import {
   NEW_LINE_TUPLE,
   NULL,
 } from './constants.js';
-import { SongAST, SongMeta, SongSection } from './types.js';
 import {
   assertUniqueness,
   convertSequenceToNumber,
@@ -25,6 +24,7 @@ import {
   getCharWithoutMarkup,
   withMetaMarkup,
 } from './core.js';
+import { SongAST, SongMeta, SongSection } from './types.js';
 
 const getContentAndSequenceSplitInSubSections = (
   songSectionContent: string,

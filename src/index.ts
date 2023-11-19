@@ -1,10 +1,10 @@
-export * as contentReplacerReprocessor from './contentReplacerReprocessor.js';
-export * as contentStructureReprocessor from './contentStructureReprocessor.js';
-export * as lyricsFileNameReprocessor from './lyricsFileNameReprocessor.js';
 export * from './charsStatsCollector.js';
 export * from './constants.js';
+export * as contentReplacerReprocessor from './contentReplacerReprocessor.js';
+export * as contentStructureReprocessor from './contentStructureReprocessor.js';
 export * from './contentStructureValidator.js';
 export * from './core.js';
+export * as lyricsFileNameReprocessor from './lyricsFileNameReprocessor.js';
 export * from './songParser.js';
 export * from './songPrinter.js';
 export * from './types.js';

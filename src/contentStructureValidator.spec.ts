@@ -1,10 +1,10 @@
-import { verifyStructure } from './contentStructureValidator.js';
 import {
   SIMPLE_SONG_MOCK_FILE_CONTENT,
   SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_CONTENT,
   SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT,
   SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT,
 } from '../mocks/index.js';
+import { verifyStructure } from './contentStructureValidator.js';
 import { createSongMock } from './core.js';
 
 describe('contentStructureValidator', () => {

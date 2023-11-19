@@ -9,8 +9,8 @@ import {
   TXT_EXTENSION,
   UNSET_META,
 } from './constants.js';
-import { SongMeta } from './types.js';
 import { getTitleByRawSection } from './core.js';
+import { SongMeta } from './types.js';
 
 const getCleanVersion = (title: string) => {
   if (!title) {

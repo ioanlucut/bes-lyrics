@@ -1,13 +1,13 @@
-import { print } from './songPrinter.js';
-import { parse } from './songParser.js';
 import {
   SIMPLE_SONG_MOCK_FILE_CONTENT,
   SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_SPLIT_MOCK_FILE_CONTENT,
   SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_UN_SPLIT_MOCK_FILE_CONTENT,
   SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT,
 } from '../mocks/index.js';
-import { createAdvancedSongMock } from './core.js';
 import { DOUBLE_LINE_TUPLE } from './constants.js';
+import { createAdvancedSongMock } from './core.js';
+import { parse } from './songParser.js';
+import { print } from './songPrinter.js';
 
 describe('songPrinter', () => {
   it('should not adjust an already well structured song (w/o subsections)', () => {

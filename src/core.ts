@@ -1,3 +1,5 @@
+import chalk from 'chalk';
+import * as crypto from 'crypto';
 import {
   filter,
   first,
@@ -10,13 +12,10 @@ import {
   trim,
   uniq,
 } from 'lodash-es';
-import * as crypto from 'crypto';
-import chalk from 'chalk';
-import short from 'short-uuid';
 import assert from 'node:assert';
-import recursive from 'recursive-readdir';
 import path from 'path';
-import { SequenceChar, SongMeta, SongSection } from './types.js';
+import recursive from 'recursive-readdir';
+import short from 'short-uuid';
 import {
   COLON,
   COMMA,
@@ -28,6 +27,7 @@ import {
   TEST_ENV,
   TXT_EXTENSION,
 } from './constants.js';
+import { SequenceChar, SongMeta, SongSection } from './types.js';
 
 const MISSING_SEQUENCE_NUMBER = 1;
 
