@@ -1,5 +1,5 @@
 [title]
-Doamne bun {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230300}, id: {9RxMXToh69yvtBSKqmm1aF}, contentHash: {ab1784}}
+Doamne bun {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230300}, id: {9RxMXToh69yvtBSKqmm1aF}, contentHash: {7df1c9}}
 
 [sequence]
 v1,v2,e
@@ -18,7 +18,7 @@ La fel până la moarte.
 Doar prin Hristos, puternic sunt
 Și crucea am s-o port
 Aici jos lacrimile-a șters
-Și ma-nvățat să lupt.
+Și m-a-nvățat să lupt.
 Înțelepciune îmi va da,
 Căci Dumnezeul ce mă ține
 Iubește ai Săi copii.

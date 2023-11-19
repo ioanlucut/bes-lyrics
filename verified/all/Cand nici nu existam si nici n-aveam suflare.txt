@@ -1,12 +1,12 @@
 [title]
-Când nici nu existam și nici n-aveam suflare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6965}, id: {xeKHSwePnJCrHZsZHGJawt}, contentHash: {44c1d7}}
+Când nici nu existam și nici n-aveam suflare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6965}, id: {xeKHSwePnJCrHZsZHGJawt}, contentHash: {540de0}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
 Când nici nu existam și nici n-aveam suflare,
-Din cer, încă de-atuncia, mă vedeai.
+Din cer, încă de-atuncea, mă vedeai.
 Când nici chip nu aveam și nici vreo zi sub soare,
 În Cartea Sfântă numele-mi scriai.
 

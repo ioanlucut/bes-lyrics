@@ -1,5 +1,5 @@
 [title]
-Prezența-Ți divină {alternative: {Breakthrough}, composer: {Red Rocks Worship}, writer: {Jake Espy}, arranger: {*}, interpreter: {El-Shaddai}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {216068}, id: {qiN7JJzhhJk68EyDYVx4o6}, contentHash: {0c24d0}}
+Prezența-Ți divină {alternative: {Breakthrough}, composer: {Red Rocks Worship}, writer: {Jake Espy}, arranger: {*}, interpreter: {El-Shaddai}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {216068}, id: {qiN7JJzhhJk68EyDYVx4o6}, contentHash: {e5d084}}
 
 [sequence]
 v1,v2,c,v3,b,c
@@ -27,7 +27,7 @@ Ia ce-i frânt și fă-mă-ntreg din nou!
 
 [b]
 Tu zgudui munții, dărâmi întărituri,
-Deschizi chair cerul, puternic Domn Tu ești!
+Deschizi chiar cerul, puternic Domn Tu ești!
 Apărătorul sufletului meu,
 Cu-a Ta putere oceane se despart,
 Focul coboară unind cer și pământ,

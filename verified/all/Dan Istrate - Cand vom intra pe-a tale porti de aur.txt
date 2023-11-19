@@ -1,5 +1,5 @@
 [title]
-Când vom intra pe-a tale porți de aur {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {198102}, id: {4wSoqpT5zUEnFUU6MBHuka}, contentHash: {c4f5d6}}
+Când vom intra pe-a tale porți de aur {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {198102}, id: {4wSoqpT5zUEnFUU6MBHuka}, contentHash: {663fa8}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -30,7 +30,7 @@ De dragostea cu care ne-ai uimit. :/
 
 [v5]
 Ierusalime, vei auzi cântarea,
-Ce îngerii niciând nu ți-au cântat
+Ce îngerii nicicând nu ți-au cântat
 /: Atunci, în ziua când va fi salvarea
 Poporului pe veci răscumpărat :/
 

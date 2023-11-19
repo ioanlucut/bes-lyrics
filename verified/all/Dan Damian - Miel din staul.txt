@@ -1,5 +1,5 @@
 [title]
-Miel din staul {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157003}, id: {iwah22JH8PYRjysRtEazDj}, contentHash: {345fb4}}
+Miel din staul {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157003}, id: {iwah22JH8PYRjysRtEazDj}, contentHash: {d5c58b}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -19,7 +19,7 @@ Pentru mine, un păcătos, Te-ai născut. :/
 
 [v2]
 O mulțime de cadouri
-Poti primi iar de Crăciun,
+Poți primi iar de Crăciun,
 Fără darul nașterii rămâi pierdut.
 El la inima ta bate,
 Vrea să-Și facă tron din ea,

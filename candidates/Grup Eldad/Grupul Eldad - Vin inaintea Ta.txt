@@ -1,5 +1,5 @@
 [title]
-Vin inaintea Ta {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176813}, id: {rAs3t9HKUosfxKG6uYDahs}, contentHash: {92ccde}}
+Vin inaintea Ta {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176813}, id: {rAs3t9HKUosfxKG6uYDahs}, contentHash: {ef6b70}}
 
 [sequence]
 v1,c,v2,c,v3,c,e
@@ -28,7 +28,7 @@ Cuvinte caut, să Te-nduplec
 Imi plâng din nou starea grea
 Mă lupt cu gândurile mele
 Și parcă incep să simt ceva.
-Iți multumesc acum Părinte
+Iți mulțumesc acum Părinte
 Că Tu veghezi asupra mea
 Chiar și atunci când mi se pare
 Că m-ai lăsat din mâna Ta
@@ -53,5 +53,5 @@ Dispare orice-ngrijorare
 Tu credincios rămai in toate
 Chiar de multe eu nu sunt
 Cuvintele le simt sarace
-Sa-Ți multumesc că al Tău sunt,
-Iți multumesc că al Tău sunt.
+Sa-Ți mulțumesc că al Tău sunt,
+Iți mulțumesc că al Tău sunt.

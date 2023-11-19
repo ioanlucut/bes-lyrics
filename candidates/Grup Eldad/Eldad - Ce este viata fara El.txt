@@ -1,5 +1,5 @@
 [title]
-Ce este viața fără El? {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197729}, id: {jT2VhKfv5KfWsKoSa1DeBb}, contentHash: {95bed3}}
+Ce este viața fără El? {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197729}, id: {jT2VhKfv5KfWsKoSa1DeBb}, contentHash: {d1cdeb}}
 
 [sequence]
 v1,c
@@ -20,4 +20,4 @@ Dacă nu e bucuria ta, degeaba tu zâmbești.
 /: Fără El nu ai viață, bucurie și speranță,
 Fără El nu cunoști ce-nseamnă a iubi,
 Fără El nu ai soare, nu ai zâmbet, nici culoare,
-Fără El e imposibil, mă intreb cum poți trăi :/
+Fără El e imposibil, mă întreb cum poți trăi :/

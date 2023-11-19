@@ -1,5 +1,5 @@
 [title]
-Eu locuiesc pe munte {alternative: {*}, composer: {C. Austin Miles}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {145948}, id: {t76hcfJDC5vVBU5n1KaVCg}, contentHash: {e26d23}}
+Eu locuiesc pe munte {alternative: {*}, composer: {C. Austin Miles}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {145948}, id: {t76hcfJDC5vVBU5n1KaVCg}, contentHash: {43442a}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -8,7 +8,7 @@ v1,c,v2,c,v3,c
 Când aud în depărtare-al luptei zgomot mare,
 Atunci știu că mulți sunt prinși de păcatul viclean.
 Îndoiala și frica-n zadar îmi fac chemare,
-Nimic nu mă scaote din Canaan!
+Nimic nu mă scoate din Canaan!
 
 [c]
 Eu locuiesc pe munte,
