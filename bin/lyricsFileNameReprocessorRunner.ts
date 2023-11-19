@@ -1,10 +1,10 @@
+import chalk from 'chalk';
+import dotenv from 'dotenv';
 import fs from 'fs-extra';
+import isCI from 'is-ci';
+import { isEqual } from 'lodash-es';
 import path from 'path';
 import * as process from 'process';
-import dotenv from 'dotenv';
-import { isEqual } from 'lodash-es';
-import chalk from 'chalk';
-import isCI from 'is-ci';
 import {
   getRawTitleBySong,
   logFileWithLinkInConsole,

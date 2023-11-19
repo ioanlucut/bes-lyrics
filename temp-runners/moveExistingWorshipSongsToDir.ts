@@ -1,17 +1,17 @@
+import dotenv from 'dotenv';
 import fs from 'fs';
+import fsExtra from 'fs-extra';
+import { flatten, without } from 'lodash-es';
+import pMap from 'p-map';
 import path from 'path';
 import * as process from 'process';
-import fsExtra from 'fs-extra';
-import dotenv from 'dotenv';
-import pMap from 'p-map';
 import stringSimilarity from 'string-similarity';
-import { flatten, without } from 'lodash-es';
 import { fileURLToPath } from 'url';
 import {
   NEW_LINE,
+  SLASH,
   parse,
   readTxtFilesRecursively,
-  SLASH,
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));

@@ -1,10 +1,10 @@
+import dotenv from 'dotenv';
 import fs from 'fs';
+import fsExtra from 'fs-extra';
+import { flatten } from 'lodash-es';
+import pMap from 'p-map';
 import path from 'path';
 import * as process from 'process';
-import fsExtra from 'fs-extra';
-import dotenv from 'dotenv';
-import pMap from 'p-map';
-import { flatten } from 'lodash-es';
 import { fileURLToPath } from 'url';
 import {
   COLON,

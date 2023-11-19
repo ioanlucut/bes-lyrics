@@ -2,12 +2,12 @@
 // This is to be used sporadically for different use cases where we want to
 // adjust the content of the candidates slides.
 // ---
+import dotenv from 'dotenv';
 import fs from 'fs';
+import isCI from 'is-ci';
+import { flow } from 'lodash-es';
 import path from 'path';
 import * as process from 'process';
-import dotenv from 'dotenv';
-import { flow } from 'lodash-es';
-import isCI from 'is-ci';
 import {
   contentReplacerReprocessor,
   contentStructureReprocessor,
