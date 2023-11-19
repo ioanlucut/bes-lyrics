@@ -1,4 +1,5 @@
-import { SongAST, SongSection } from './types.js';
+import { isEqual } from 'lodash-es';
+import { COMMA, EMPTY_STRING, UNSET_META } from './constants.js';
 import {
   assertUniqueness,
   computeUniqueContentHash,
@@ -8,8 +9,7 @@ import {
   getUniqueId,
   multiToSingle,
 } from './core.js';
-import { COMMA, EMPTY_STRING, UNSET_META } from './constants.js';
-import { isEqual } from 'lodash-es';
+import { SongAST, SongSection } from './types.js';
 
 /**
  * Parses the content of a song to its basic AST structure.

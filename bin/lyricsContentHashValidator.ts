@@ -1,18 +1,18 @@
+import chalk from 'chalk';
+import dotenv from 'dotenv';
+import fs from 'fs';
+import { filter, includes, isEmpty } from 'lodash-es';
+import assert from 'node:assert';
 import path from 'path';
 import * as process from 'process';
-import { filter, includes, isEmpty } from 'lodash-es';
-import dotenv from 'dotenv';
-import chalk from 'chalk';
-import assert from 'node:assert';
-import fs from 'fs';
 import {
   ERROR_CODE,
+  SongMeta,
   getMetaSectionsFromTitle,
   getSongInSectionTuples,
   logFileWithLinkInConsole,
   logProcessingFile,
   readTxtFilesRecursively,
-  SongMeta,
 } from '../src/index.js';
 
 dotenv.config();

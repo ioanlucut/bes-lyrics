@@ -2,19 +2,19 @@
 // This validator tries to avoid duplicates (`candidates` against the `verified` directory)
 // ---
 
+import chalk from 'chalk';
+import dotenv from 'dotenv';
 import fs from 'fs';
+import fsExtra from 'fs-extra';
+import { isEmpty, isEqual, negate } from 'lodash-es';
+import { parseArgs } from 'node:util';
 import path from 'path';
 import * as process from 'process';
-import { parseArgs } from 'node:util';
-import { isEmpty, isEqual, negate } from 'lodash-es';
-import fsExtra from 'fs-extra';
-import dotenv from 'dotenv';
 import stringSimilarity from 'string-similarity';
-import chalk from 'chalk';
 import {
   ALT_SONGS_FILE_SUFFIX,
-  logFileWithLinkInConsole,
   NEW_LINE,
+  logFileWithLinkInConsole,
   parse,
   readTxtFilesRecursively,
 } from '../src/index.js';

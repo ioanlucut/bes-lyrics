@@ -1,3 +1,4 @@
+import chalk from 'chalk';
 import {
   difference,
   first,
@@ -8,9 +9,8 @@ import {
   uniq,
   without,
 } from 'lodash-es';
-import chalk from 'chalk';
+import assert from 'node:assert';
 import { COMMA, DOT, EMPTY_STRING } from './constants.js';
-import { SequenceChar, SongSection } from './types.js';
 import {
   assertUniqueness,
   convertSequenceToNumber,
@@ -25,7 +25,7 @@ import {
   getVerseRegex,
   isKnownSongSequence,
 } from './core.js';
-import assert from 'node:assert';
+import { SequenceChar, SongSection } from './types.js';
 
 const EXPECTED_SUB_SECTIONS_LENGTH = 2;
 const MAX_ALLOWED_SECTION_SIZE = 50;

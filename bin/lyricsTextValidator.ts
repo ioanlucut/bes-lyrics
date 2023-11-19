@@ -1,12 +1,12 @@
+import chalk from 'chalk';
+import dotenv from 'dotenv';
 import fs from 'fs';
+import { flattenDeep, isEmpty, negate, uniq } from 'lodash-es';
 import path from 'path';
 import * as process from 'process';
-import { flattenDeep, isEmpty, negate, uniq } from 'lodash-es';
-import dotenv from 'dotenv';
-import chalk from 'chalk';
 import {
-  assemblyCharsStats,
   ERROR_CODE,
+  assemblyCharsStats,
   logFileWithLinkInConsole,
   logProcessingFile,
   readTxtFilesRecursively,

@@ -20,8 +20,6 @@ const jestConfig: JestConfigWithTsJest = {
       },
     ],
   },
-  // https://github.com/jestjs/jest/issues/14305#issuecomment-1627346697
-  prettierPath: null,
 };
 
 export default jestConfig;

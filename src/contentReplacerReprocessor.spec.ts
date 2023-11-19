@@ -1,8 +1,8 @@
-import { reprocess } from './contentReplacerReprocessor.js';
 import {
   SIMPLE_SONG_MOCK_FILE_CONTENT,
   SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT,
 } from '../mocks/index.js';
+import { reprocess } from './contentReplacerReprocessor.js';
 
 describe('contentReplacerReprocessor', () => {
   it('should correctly rewrite certain text', () => {

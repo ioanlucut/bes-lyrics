@@ -1,3 +1,5 @@
+import { SIMPLE_SONG_MOCK_FILE_CONTENT } from '../mocks/index.js';
+import { ALLOWED_CHARS, EMPTY_STRING } from './constants.js';
 import {
   computeUniqueContentHash,
   getMetaSectionsFromTitle,
@@ -7,8 +9,6 @@ import {
   isKnownSongSequence,
   multiToSingle,
 } from './core.js';
-import { SIMPLE_SONG_MOCK_FILE_CONTENT } from '../mocks/index.js';
-import { ALLOWED_CHARS, EMPTY_STRING } from './constants.js';
 
 describe('core', () => {
   describe('isKnownSongSequence', () => {

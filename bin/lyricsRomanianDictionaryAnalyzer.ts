@@ -3,11 +3,9 @@
 // 100% reliable thus it cannot be used as a validator per se
 // ---
 
+import dictionaryRo, { Dictionary } from 'dictionary-ro';
+import dotenv from 'dotenv';
 import fs from 'fs';
-import path from 'path';
-import * as process from 'process';
-import * as util from 'util';
-import { parseArgs } from 'node:util';
 import {
   first,
   flatten,
@@ -17,22 +15,23 @@ import {
   uniq,
   without,
 } from 'lodash-es';
-import dictionaryRo, { Dictionary } from 'dictionary-ro';
-import nspell from 'nspell';
-import NSpell from 'nspell';
-import dotenv from 'dotenv';
+import { parseArgs } from 'node:util';
+import { default as NSpell, default as nspell } from 'nspell';
+import path from 'path';
+import * as process from 'process';
 import { fileURLToPath } from 'url';
+import * as util from 'util';
 import {
   CHARS_SEPARATORS,
   ERROR_CODE,
-  getSongInSectionTuples,
-  getTitleByRawSection,
   NEW_LINE,
   NEW_LINE_TUPLE,
-  readTxtFilesRecursively,
   SongSection,
   TEST_FILE,
   TXT_EXTENSION,
+  getSongInSectionTuples,
+  getTitleByRawSection,
+  readTxtFilesRecursively,
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));

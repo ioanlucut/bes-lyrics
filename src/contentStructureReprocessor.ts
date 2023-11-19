@@ -1,8 +1,8 @@
+import { flow } from 'lodash-es';
+import assert from 'node:assert';
+import { verifyStructure } from './contentStructureValidator.js';
 import { parse } from './songParser.js';
 import { print } from './songPrinter.js';
-import { flow } from 'lodash-es';
-import { verifyStructure } from './contentStructureValidator.js';
-import assert from 'node:assert';
 
 /**
  * Reprocess the content of a song to add the basic structure.
