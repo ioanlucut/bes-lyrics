@@ -1,0 +1,32 @@
+name: 'Release Scripts'
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'LaTeX/conduct/**'
+
+jobs:
+  LaTeXConductRelease:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Compile BES Conduct LaTeX doc
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: BES_Conduct_Afisaj.tex
+          working_directory: LaTeX/conduct/
+          latexmk_shell_escape: true
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: 'LaTeX/conduct/BES_Conduct_Afisaj.pdf'
+          fail_on_unmatched_files: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
