@@ -1,4 +1,4 @@
-name: 'LaTeX BES Conduct Release'
+name: 'LaTeX Release Conduct'
 
 on:
   push:
@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'LaTeX/conduct/**'
+  workflow_dispatch:
 
 jobs:
   LaTeXConductRelease:

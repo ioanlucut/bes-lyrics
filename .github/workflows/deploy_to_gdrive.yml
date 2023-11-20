@@ -1,3 +1,5 @@
+name: 'Deploy Assets to GDrive'
+
 on:
   push:
     branches:
