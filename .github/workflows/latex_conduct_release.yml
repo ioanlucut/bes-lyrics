@@ -1,4 +1,4 @@
-name: 'Release Scripts'
+name: 'LaTeX BES Conduct Release'
 
 on:
   push:
@@ -23,10 +23,16 @@ jobs:
           working_directory: LaTeX/conduct/
           latexmk_shell_escape: true
 
+      - name: Generate Release Tag
+        id: tag
+        run: |
+          echo "::set-output name=release_tag::BES_$(date +"%Y.%m.%d_%H-%M")"
+
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
           files: 'LaTeX/conduct/BES_Conduct_Afisaj.pdf'
+          tag_name: ${{ steps.tag.outputs.release_tag }}
           fail_on_unmatched_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
