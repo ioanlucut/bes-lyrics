@@ -1,5 +1,5 @@
 [title]
-Crucea Lui salvarea mea {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213168}, id: {dnPaQeNTSBof9ftTwkjsyn}, contentHash: {f145a1}}
+Crucea Lui salvarea mea {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213168}, id: {dnPaQeNTSBof9ftTwkjsyn}, contentHash: {a1a9e5}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,c2,b,c,e
