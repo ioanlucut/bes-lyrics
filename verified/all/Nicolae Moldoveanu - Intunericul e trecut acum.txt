@@ -1,5 +1,5 @@
 [title]
-Întunericul e trecut acum {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5375}, id: {k7LorwdbojnXefYgQNRqjd}, contentHash: {5edaee}}
+Întunericul e trecut acum {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5375}, id: {k7LorwdbojnXefYgQNRqjd}, contentHash: {c94acf}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
@@ -36,18 +36,18 @@ Viață din al Său izvor.
 
 [v5]
 În momentul când vei veni plângând
-La Isus ca un greșit,
+La Isus ca un om ce a greșit,
 Cerul va cânta, se va bucura
 Că și tu te-ai mântuit.
 
 [v6]
 Astfel mântuit vei fi fericit,
 În această lume rea.
-Cu Isus al tău duci orice rău,
+Cu Isus al tău înduri orice rău,
 Viețuind spre slava Sa.
 
 [v7]
 În al morții ceas, auzi acest glas:
-„Vino, fiule iubit!
+„Vino, fiu iubit!
 Te-ai luptat viteaz, fără de răgaz,
 Loc în cer ți-am pregătit.”

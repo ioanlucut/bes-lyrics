@@ -1,5 +1,5 @@
 [title]
-Nu lăsa să treacă vremea {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5597}, id: {fU5nuiXiFf1mBMqhdkHyrL}, contentHash: {fd156f}}
+Nu lăsa să treacă vremea {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5597}, id: {fU5nuiXiFf1mBMqhdkHyrL}, contentHash: {676a7d}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -11,7 +11,7 @@ Se apropie și timpul,
 Socoteală când vei da.
 
 [v1.2]
-Trece ziua cea de azi,
+Trece ziua cea de astăzi,
 Mai în jos cu-o treaptă cazi,
 Sau cu una te ridici
 Căci nu poți sta tot aici.
@@ -20,7 +20,7 @@ Căci nu poți sta tot aici.
 Te ridici sau cobori?
 Te ridici sau cobori?
 Te întreb de două ori:
-„Te ridici sau te cobori?”
+Te ridici sau cobori?
 
 [v2.1]
 Oare banii-ți sunt căderea,
@@ -36,12 +36,12 @@ Celor ce rămân aici!
 
 [v3.1]
 Nu căuta mărirea lumii,
-Nu căuta să fii ’nălțat,
+Nu căuta să fii ‘nălțat,
 Căci Domnul Isus ne spune:
 „Totul va fi spulberat!”
 
 [v3.2]
 Dumnezeu a lepădat
 Ce la oameni e-nălțat,
-Umilința de-o păzești,
+Modestia de-o păzești,
 Află că pe-un bun drum ești.

@@ -1,5 +1,5 @@
 [title]
-Au pornit magii {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157287}, id: {3zUyyABbAXx8o9nTX7vn89}, contentHash: {df25e1}}
+Au pornit magii {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157287}, id: {3zUyyABbAXx8o9nTX7vn89}, contentHash: {100c52}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -12,8 +12,8 @@ E o stea așa cum nu s-a mai văzut.
 
 [v1.2]
 Piedici multe-n calea lor și primejdii mari
-Le-au ieșit ’nainte pentru a-i opri,
-Dumnezeu, cel veghetor, S-a îngrijit de pașii lor
+Le-au ieșit ‘nainte pentru a-i opri,
+Dumnezeu, cel vegheator, S-a îngrijit de pașii lor
 Și răspunsul El le-a dat, chiar când ei s-au întrebat.
 
 [c]
@@ -30,6 +30,6 @@ Tot așa cum și pe magi i-a îndrumat.
 
 [v2.2]
 Piedici multe-n calea lor și primejdii mari
-Le-au ieșit ’nainte pentru a-i opri.
-Dumnezeu, cel veghetor, S-a îngrijit de pașii lor
+Le-au ieșit ‘nainte pentru a-i opri.
+Dumnezeu, cel vegheator, S-a îngrijit de pașii lor
 Și răspunsul El le-a dat, chiar când ei s-au întrebat.

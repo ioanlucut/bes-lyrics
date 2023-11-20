@@ -1,5 +1,5 @@
 [title]
-Eu eram în lume pierdut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2790}, id: {qqg6nwLAbhS5KD2sCHx8YC}, contentHash: {ae62ce}}
+Eu eram în lume pierdut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2790}, id: {qqg6nwLAbhS5KD2sCHx8YC}, contentHash: {74252c}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -17,7 +17,7 @@ De mii de ori Tu m-ai scăpat
 Și mi-ai dat ajutor.
 
 [v2]
-De multe ori mi s-a întâmplat
+De multe ori mi s-a-ntâmplat
 Să fiu făr-ajutor,
 De atâtea ori Tu m-ai scăpat,
 De aceea-Ți sunt dator.
@@ -26,4 +26,4 @@ De aceea-Ți sunt dator.
 Eu sunt dator să-Ți mulțumesc
 Pentru iubirea Ta,
 Isuse, ce mult Te iubesc
-Iubesc venirea Ta.
+Iubesc venirea Ta!

@@ -1,5 +1,5 @@
 [title]
-În dimineața învierii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kY8Zfsk1a4bQoyBRw3Rzqt}, contentHash: {1909fd}}
+În dimineața învierii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kY8Zfsk1a4bQoyBRw3Rzqt}, contentHash: {44f9c5}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -21,7 +21,7 @@ Când Isus Hristos ne-a chema,
 
 [v2]
 În dimineața învierii,
-Cu întâlnire va fi!
+Ce întâlnire va fi!
 /: Ne-om scula :/
 Toți îmbrăcați în glorie,
 Toți plini de fericire,

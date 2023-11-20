@@ -1,12 +1,12 @@
 [title]
-Iubiți-vă unii pe alții {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {179563}, id: {8uPTwWTx9FFTfa7EMaGiLX}, contentHash: {1e77b3}}
+Iubiți-vă unii pe alții {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {179563}, id: {8uPTwWTx9FFTfa7EMaGiLX}, contentHash: {38650e}}
 
 [sequence]
 v1,b,c,v2,b,c
 
 [v1]
 Doamne, iartă-mi vina, prin nepăsarea mea
-N-am iubit pe semeni așa cum ne-ai iubit și Tu,
+N-am iubit pe semeni așa cum ne-ai iubit Tu,
 În goana mea pe-acest pământ n-am vegheat și m-am pierdut,
 Sunt un bulgăre de lut...
 

@@ -1,11 +1,11 @@
 [title]
-Dragostea-i din Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {du3N88cBHHPhiGRHwUNnWk}, contentHash: {5a1723}}
+Dragostea-i din Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {du3N88cBHHPhiGRHwUNnWk}, contentHash: {e59924}}
 
 [sequence]
 v1,v2,v3,v4
 
 [v1]
-Chiar când toate s-o sfârși,
+Chiar când toate s-or sfârși,
 Cunoștința de-ar muri,
 Ea, dragostea, va rămânea,
 Veșnic, pururea.
@@ -31,4 +31,4 @@ Tot ce-i rău, în jurul tău,
 Nu va mai exista.
 Ceața se va risipi
 Și un glas îți va șopti:
-Sunt aici, aici mereu voi fi.
+„Sunt aici, aici mereu voi fi!”

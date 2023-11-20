@@ -1,5 +1,5 @@
 [title]
-Și a fost Isus copil {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4553}, id: {9GF928STwj6GCUSwHDRhGY}, contentHash: {926d04}}
+Și a fost Isus copil {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4553}, id: {9GF928STwj6GCUSwHDRhGY}, contentHash: {56c854}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -31,8 +31,8 @@ Cu-ai lor ochi înlăcrimați.
 [v4]
 Și a fost Isus un Miel
 Ce-L pândeau pe-afară leii.
-Și din culmile Iudeii
-Și-n pustiul arzător...
+Și pe culmile Iudeii
+Și-n pustiul arzător.
 Și a fost Isus un Miel,
 /: Ca să aibă-n El toți mieii un Păstor. :/
 

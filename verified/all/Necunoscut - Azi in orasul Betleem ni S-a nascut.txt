@@ -1,0 +1,29 @@
+[title]
+Azi în orașul Betleem ni S-a născut {alternative: {*}, composer: {Necunoscut}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {183037}, id: {v26MF1VtFzDA5JQSWXDgdq}, contentHash: {528a90}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi în orașul Betleem ni S-a născut
+Un Prunc al cărui Nume sfânt este Isus.
+Profeții din vechime L-au vestit pe El,
+Pe Fiul de-mpărat, Emanuel.
+
+[c]
+Să Îi cântăm, să-L lăudăm,
+Pe Fiul de-mpărat, Isus.
+Lui să-I cântăm, să-L lăudăm
+Căci nouă pace ne-a adus.
+
+[v2]
+În noaptea-aceea ceru-ntreg s-a luminat
+De slava îngerilor, ce Lui I-au cântat.
+Osana, S-a născut Mesia așteptat,
+Al lumii singur, veșnic Împărat!
+
+[v3]
+Noi n-avem daruri, ca și magii, ca să-I dăm,
+Dar vrem întreaga viață Lui să I-o predăm.
+Nici aur, smirnă, nici tămâie noi n-avem,
+În schimb dorim ca veșnic să-L lăudăm.

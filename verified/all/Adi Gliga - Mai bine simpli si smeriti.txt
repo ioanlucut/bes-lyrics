@@ -1,14 +1,14 @@
 [title]
-Mai bine simpli și smeriți {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6920}, id: {jNEAgZyiVEX7yu2rLBU5YB}, contentHash: {c36179}}
+Mai bine simpli și smeriți {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6920}, id: {jNEAgZyiVEX7yu2rLBU5YB}, contentHash: {f919e2}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
 Nu doresc să fiu decât un simplu om
-Și să fiu plăcut Înaintea Ta.
-/: Dacă cei din jur m-au părăsit,
-Tu rămâi mereu Tăria mea. :/
+Și să fiu plăcut ‘naintea Ta.
+/: Dacă cei din jur m-ar părăsi,
+Tu rămâi mereu tăria mea. :/
 
 [c]
 /: Mai bine simpli și smeriți
@@ -22,6 +22,6 @@ M-ai iubit și încă mă iubești. :/
 
 [v3]
 Niciodată, Doamne, nu m-ai părăsit,
-Ai fost lângă mine în încercări.
-/: M-ai iertat și atunci când Ți-am greșit,
-Am văzut ale Tale îndurări.
+Ai fost lângă mine-n încercări.
+/: M-ai iertat și-atunci când Ți-am greșit,
+Am văzut a Tale îndurări.

@@ -1,5 +1,5 @@
 [title]
-În mărire, când „Osana!” vom cânta {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5275}, id: {tyEn1FuUqg3UqY1GZ8dFAG}, contentHash: {8713e8}}
+În mărire, când „Osana!” vom cânta {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5275}, id: {tyEn1FuUqg3UqY1GZ8dFAG}, contentHash: {c1a65a}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -12,13 +12,13 @@ Din cereasca fericire vom gusta
 
 [c]
 /: Mare ești Tu, Doamne, Creator!
-Mare ești și Atotțiitor!
+Mare ești și atotțiitor!
 Mare ești și mare e slava Ta!
 Mare-n veci va rămâne. :/
 
 [v2]
 Când în ceata sfântă o să ne vedem
-Cu toți, împreună, noi să cântăm,
+Cu toții-mpreună, noi să cântăm,
 Lacrimi pe fața noastră nu vor mai fi
 Și cu cei sfinți toți în cer vom locui.
 

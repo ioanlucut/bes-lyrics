@@ -1,5 +1,5 @@
 [title]
-Voi învia {alternative: {*}, composer: {Adi Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {107334}, id: {9vy9M168Fr1S7EEgQJeS2X}, contentHash: {433b1e}}
+Voi învia {alternative: {*}, composer: {Adi Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {107334}, id: {9vy9M168Fr1S7EEgQJeS2X}, contentHash: {8466d6}}
 
 [sequence]
 v1,c,v2,c
@@ -21,7 +21,7 @@ De-aceea-n viața mea, Îi voi cânta! :/
 [v2]
 Nu vrei tu ca să-L primești pe Isus?
 Nu vrei tu să guști din pacea Sa?
-El e-aici și stă cu mâinile întinse...
+El e-aici și stă cu mâinile întinse
 Așteptând să decizi și să spui: „Da!”
 Toată viață ta El o va schimba,
 Redându-ți bucuria de-a cânta.

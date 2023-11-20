@@ -1,12 +1,12 @@
 [title]
-Crucea-i ascultarea Domnului Isus {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1853}, id: {afEBYx2Y4VE9gRNbZPTVT5}, contentHash: {8789ef}}
+Crucea-i ascultarea Domnului Isus {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1853}, id: {afEBYx2Y4VE9gRNbZPTVT5}, contentHash: {152393}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
 Crucea-i ascultarea Domnului Isus,
-Cea mai ’naltă jertfă care s-a adus,
+Cea mai ‘naltă jertfă care s-a adus,
 Darul cel mai mare, prețul ne-ntrecut,
 Ca să mântuiască ce era pierdut!
 
@@ -18,18 +18,18 @@ Slavă lui Hristos, slavă lui Isus!
 
 [v2]
 Crucea e iubirea Domnului Isus,
-Nu-i cuvânt să ’nalțe dragostea mai sus,
+Nu-i cuvânt să ‘nalțe dragostea mai sus,
 Nu-i nimic s-arate-atât de strălucit,
 Dragostea cu care Tatăl ne-a iubit!
 
 [v3]
 Crucea-i biruința Domnului Isus,
-El a-nvins când singur morții s-a supus
-Și-a zdrobit vrăjmașul când s-a umilit,
-Preamărit e Mielul fiindcă s-a jerfit.
+El a-nvins când singur morții S-a supus
+Și-a zdrobit vrăjmașul când S-a umilit,
+Preamărit e Mielul fiindcă S-a jerfit.
 
 [v4]
 Crucea este slava Domnului Isus,
-Prin ea și-a ’nălțat El Numele-I mai sus.
+Prin ea și-a ‘nălțat El Numele-I mai sus.
 Rănile Lui sfinte veșnic vor purta,
 Mântuirea noastră și mărirea Sa!

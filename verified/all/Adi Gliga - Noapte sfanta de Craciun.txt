@@ -1,5 +1,5 @@
 [title]
-Noapte sfântă de Crăciun {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64983}, id: {1iMyNKZb3mmnhkamZyaUC7}, contentHash: {f02e1a}}
+Noapte sfântă de Crăciun {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64983}, id: {1iMyNKZb3mmnhkamZyaUC7}, contentHash: {e39a3b}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -25,9 +25,9 @@ Pace și bună vestire,
 Să-I cântăm cu îngerii.
 
 [v5]
-Să-i aducem toți în dar
+Să-I aducem toți în dar
 Inima cu bucurie,
-Să-i aducem toți în dar.
+Să-I aducem toți în dar.
 
 [v6]
 Aleluia, să-I cântăm,

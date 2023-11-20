@@ -1,5 +1,5 @@
 [title]
-Cu bucurie vor secera aceia {alternative: {*}, composer: {Knowles Shaw}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5946}, id: {oNiMLeWNTnE7dBo8dXgqYd}, contentHash: {4e153c}}
+Cu bucurie vor secera aceia {alternative: {*}, composer: {Knowles Shaw}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5946}, id: {oNiMLeWNTnE7dBo8dXgqYd}, contentHash: {614ab5}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -18,9 +18,9 @@ Fericiți nespus, fericiți nespus,
 
 [v2]
 Puneți dimineața sămânța cea bună,
-Nu-ncetați și chiar de-ar fi, la miez de zi,
+Nu-ncetați și chiar de-ar fi la miez de zi,
 Semănați și dacă seara se apropie
-Că-n sfârșit un mare seceriș va fi.
+Că la sfârșit un mare seceriș va fi.
 
 [v3]
 Semănați în inimi și de-ar fi ca stânca

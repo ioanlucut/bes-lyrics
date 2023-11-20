@@ -1,5 +1,5 @@
 [title]
-Give it away {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5RrYo2VrKHVzPhzqZpG86C}, contentHash: {50ab6c}}
+Give it away {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5RrYo2VrKHVzPhzqZpG86C}, contentHash: {98d2b7}}
 
 [sequence]
 v1,c,v2,c
@@ -10,7 +10,7 @@ Căci azi le ai la bancă, mâine nu mai sunt.
 Dolari, franci, yeni sau lei, sunt praf în vânt.
 Ascultă aici: să-ți strângi comoara în cer,
 Acolo nu sunt molii, hoți, rugină de fier
-Îți spun, nu poți sluji la doi stăpâni,
+Îți spun: nu poți sluji la doi stăpâni,
 Dacă vrei să ai, învață să dai tot ce ai.
 
 [c]

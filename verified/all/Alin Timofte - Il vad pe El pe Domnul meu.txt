@@ -1,5 +1,5 @@
 [title]
-Îl văd pe El, pe Domnul meu {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7232}, id: {48n1Dib2ANBH33zgHj47mL}, contentHash: {ccb471}}
+Îl văd pe El, pe Domnul meu {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7232}, id: {48n1Dib2ANBH33zgHj47mL}, contentHash: {56d703}}
 
 [sequence]
 c,v1,c,v1,c,v1,c
@@ -7,14 +7,14 @@ c,v1,c,v1,c,v1,c
 [c]
 /: Îl văd pe El, pe Domnul meu,
 Înălțat în închinarea
-Ce i-o dă poporul Său.
+Ce I-o dă poporul Său.
 Îl văd pe El, pe Domnul meu,
 În fața ochilor văd Mielul, stând pe tron,
 Ce-n veci de veci, e Domn. :/
 
 [v1]
-Poala hainei Lui umple Templul,
+Poala hainei Lui umple templul,
 Mulțimile de-nchinători stau în jurul Său,
 Cu corul de îngeri,
-Cântând sfânt, sfânt, sfânt e Dumnezeu,
+Cântând „Sfânt, sfânt, sfânt e Dumnezeu!”
 E sfânt doar El.

@@ -1,5 +1,5 @@
 [title]
-Demult, Isus, Tu ai venit {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1792}, id: {vfA47pXDR6zE2Dp2FY1uoT}, contentHash: {7f4cce}}
+Demult, Isus, Tu ai venit {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1792}, id: {vfA47pXDR6zE2Dp2FY1uoT}, contentHash: {0bbfea}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -24,12 +24,12 @@ Pe cei trei magi călăuzind.
 
 [v4]
 Azi nu mai e în Betleem,
-Trăiește-I viu la Dumnezeu,
+Trăiește-i viu la Dumnezeu,
 /: Dar se coboară pe pământ
 În inima omului frânt! :/
 
 [v5]
 De-l ai pe El, pe Dumnezeu,
-Ce s-a născut în Betleem,
-/: Ai bogăția Cerului
+Ce S-a născut în Betleem,
+/: Ai bogăția cerului
 În așteptarea Mirelui! :/

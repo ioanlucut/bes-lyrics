@@ -1,11 +1,11 @@
 [title]
-Viața și mișcarea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5114}, id: {71HAUf9tJyQbgnQHfLYwBh}, contentHash: {4c9d0e}}
+Viața și mișcarea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5114}, id: {71HAUf9tJyQbgnQHfLYwBh}, contentHash: {4af7b7}}
 
 [sequence]
 v1,v2
 
 [v1]
-Viața și mișcarea, și suflarea
+Viața și mișcarea și suflarea
 Sunt în Tine, Doamne!
 Numai Tu ești sursa vieții mele,
 Fiecare pas Tu mi-l conduci,
@@ -16,4 +16,4 @@ Viața-ntreagă este-n mâna Ta.
 Harul și-ndurarea Ta,
 Când mă uit zăresc privirea Ta.
 Uimit de-a Ta iubire,
-Te doresc Isus numai pe Tin’.
+Te doresc Isus numai pe Tine.

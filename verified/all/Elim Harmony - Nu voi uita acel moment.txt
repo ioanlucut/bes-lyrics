@@ -1,5 +1,5 @@
 [title]
-Nu voi uita acel moment {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112854}, id: {qtBPdmo95p5CUpAZ5mpJAp}, contentHash: {018485}}
+Nu voi uita acel moment {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112854}, id: {qtBPdmo95p5CUpAZ5mpJAp}, contentHash: {040099}}
 
 [sequence]
 v1,c,v2,c
@@ -8,14 +8,14 @@ v1,c,v2,c
 /: Cândva trăiam :/ /: în mult păcat, :/
 /: Eram hoinar :/ /: și tulburat, :/
 /: Dar în genunchi :/ /: m-am prăbușit, :/
-Când l-am chemat, Domnul Dumnezeu m-a mântuit.
+Când L-am chemat, Domnul Dumnezeu m-a mântuit.
 
 [c]
 Nu voi uita acel moment
 Când al meu suflet de povară a scăpat.
 Da, a scăpat!
 Acum sunt liber, fericit,
-Îi cânt și-I strig:
+Îi cânt și strig:
 El este tot ce mi-am dorit!
 
 [v2]

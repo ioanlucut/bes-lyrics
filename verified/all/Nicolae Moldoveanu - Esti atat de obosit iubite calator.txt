@@ -1,5 +1,5 @@
 [title]
-Ești atât de obosit, iubite călător {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5829}, id: {9tbsrntT7oee3pRmcSFaV1}, contentHash: {7126da}}
+Ești atât de obosit, iubite călător {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5829}, id: {9tbsrntT7oee3pRmcSFaV1}, contentHash: {0ddbe6}}
 
 [sequence]
 v1,v2,v3
@@ -17,13 +17,13 @@ Ostenită ți-e privirea, capul ți-e plecat,
 Soarta crud-ai cunoscut-o, fiu nemângâiat.
 Că ai vrut să afli calea
 Unde-i plânsul, unde-i jalea,
-N-ai știut de Cel de sus.
+N-ai știut de Cel-de-sus.
 Auzi, cum răsună valea numai de Isus!
 
 [v3]
-Îți trimite astăzi Domnul, un cuvânt de har,
+Îți trimite astăzi Domnul un cuvânt de har,
 Că îți dă cununa vieții, ca mărgăritar.
 Inima să-ți fie plină
 De a Domnului lumină!
 Te ferește de păcat!
-Să nu fii în grâu, neghină, Domnul te-a iertat.
+Să nu fii în grâu neghină, Domnul te-a iertat.

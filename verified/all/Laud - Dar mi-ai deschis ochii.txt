@@ -1,5 +1,5 @@
 [title]
-Dar mi-ai deschis ochii {alternative: {*}, composer: {Laud}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2816}, id: {jPvj37M7E2V2AoZFReo68W}, contentHash: {76398a}}
+Dar mi-ai deschis ochii {alternative: {*}, composer: {Laud}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2816}, id: {jPvj37M7E2V2AoZFReo68W}, contentHash: {595bdf}}
 
 [sequence]
 v1,c,v2,c2
@@ -7,19 +7,19 @@ v1,c,v2,c2
 [v1]
 Eu nu Te cunoșteam Isus,
 Nu știam că-n astă lume
-Pentru mine cineva demult muri...
-Eu nu voiam că să ascult
-De cuvântul vieții Tale,
+Pentru mine Cineva demult muri.
+Eu nu voiam ca să ascult
+De Cuvântul ce dă viață
 Care-mi spune că Isus mult m-a iubit.
 
 [c]
 /: Dar mi-ai deschis ochii, Doamne,
 Și lumina a intrat în viața mea,
 Dar mi-ai deschis ochii, Doamne,
-Sunt mântuit și eu prin Golgota... :/
+Sunt mântuit și eu prin Golgota! :/
 
 [v2]
-O, Doamne, cum să-ți mulțumesc
+O, Doamne, cum să-Ți mulțumesc
 Pentru ce-ai făcut în mine,
 Pentru sângele ce-a curs pe Golgota?
 O, Doamne, ce-aș putea să-Ți dau?
@@ -30,4 +30,4 @@ De azi e doar a Ta.
 /: Dar mi-ai deschis ochii, Doamne,
 Și lumina a intrat în viața mea,
 Dar mi-ai deschis ochii, Doamne,
-Sunt mântuit și eu prin Golgota... :/ (3x)
+Sunt mântuit și eu prin Golgota! :/ (3x)

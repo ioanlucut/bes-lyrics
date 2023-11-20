@@ -1,5 +1,5 @@
 [title]
-Te vom înălța {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214234}, id: {giS7cdQ4BzNFi2ZPzsDUrB}, contentHash: {ccfa47}}
+Te vom înălța {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214234}, id: {giS7cdQ4BzNFi2ZPzsDUrB}, contentHash: {b028b2}}
 
 [sequence]
 v1,v2,c,v3,c
@@ -7,7 +7,7 @@ v1,v2,c,v3,c
 [v1]
 E un glas, o voce din ceruri
 Ce ne cheamă să mergem,
-Proclamând iubirea printre neamuri.
+Proclamând iubirea-I printre neamuri.
 
 [v2]
 Plini de credință vrem să spunem,

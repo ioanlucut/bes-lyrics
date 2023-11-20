@@ -1,5 +1,5 @@
 [title]
-Dacă-ți spune cineva {alternative: {*}, composer: {Simida și Dina}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2758}, id: {1fipPgqeZ5aMuGY2ZmBv4N}, contentHash: {f0f9d4}}
+Dacă-ți spune cineva {alternative: {*}, composer: {Simida și Dina}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2758}, id: {1fipPgqeZ5aMuGY2ZmBv4N}, contentHash: {168802}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
@@ -44,9 +44,9 @@ Dar din toate mai presus,
 Îl ai prieten pe Isus. :/
 
 [v4.1]
-Dacă-ți spune cineva:
+Dacă-ți spune cineva
 Că într-o carte sfântă numele ți-e scris,
-Că un loc ți-e pregătit în Paradis,
+Că un loc ți-e pregătit în Paradis
 Ca răsplată pentru tot ce-ai suferit,
 Tu să știi că Domnul Isus ți-a vorbit.
 

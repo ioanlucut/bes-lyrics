@@ -1,5 +1,5 @@
 [title]
-Ai ajuns mântuit prin Domnul Isus {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1576}, id: {nJQ52BqdAd7Q3f1uqkciwc}, contentHash: {a0f7aa}}
+Ai ajuns mântuit prin Domnul Isus? {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1576}, id: {nJQ52BqdAd7Q3f1uqkciwc}, contentHash: {c1e3b7}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -12,7 +12,7 @@ Ai ajuns de Duhul Sfânt călăuzit?
 
 [c]
 Eu te-ntreb dacă știi ce-i mântuirea,
-Dacă n-ai uitat că Isus a murit?
+Dacă n-ai uitat că Isus a murit.
 Ai tu timp să meditezi, să te rogi și să lucrezi?
 Nu cumva îngrijorări te-au năpădit?
 
@@ -25,5 +25,5 @@ Harul tainicei puteri prin care-nvingi?
 [v3]
 Este-un loc unde chemi a Lui prezență,
 Locul unde grija nu te-ar tulbura;
-Adunarea-i locul de închinăciune,
+Adunarea-i locul de-nchinare,
 Unde-n duh și adevăr te poți ruga!

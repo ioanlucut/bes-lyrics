@@ -1,5 +1,5 @@
 [title]
-Cu Tine stau de vorbă {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230546}, id: {dhPvTcC6wEfd5qMMGSXmHw}, contentHash: {e23d29}}
+Cu Tine stau de vorbă {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230546}, id: {dhPvTcC6wEfd5qMMGSXmHw}, contentHash: {c6d827}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,b,c1.1,c1.2
@@ -12,7 +12,7 @@ Mă închin cu toată ființa
 
 [c1.1]
 Domnul meu, pășește cu mine,
-Oricine ce-ar spune,
+Oricine orice-ar spune,
 Eu vreau să Te urmez.
 Șoapte reci mă mint că tu ești învechit,
 
@@ -25,7 +25,7 @@ Când cu mine stai de vorbă
 [v2]
 Vremuri noi, ei vor fără Tine,
 Ei Te scot din școli și biserici,
-Dar nicicând nu pot stinge dorul,
+Dar nicicum nu pot stinge dorul,
 Ce-mi arde în suflet, Isuse iubit!
 
 [b]

@@ -1,5 +1,5 @@
 [title]
-Binecuvântarea iubirii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hKc4Ym1GvShdUtjxuXpVZ1}, contentHash: {01c4ed}}
+Binecuvântarea iubirii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hKc4Ym1GvShdUtjxuXpVZ1}, contentHash: {a2268f}}
 
 [sequence]
 v1,v2,v3
@@ -16,13 +16,13 @@ Dumnezeul meu, Te binecuvântez!
 Binecuvântarea credinței
 Fie-mi orișicând
 Trai, cuvânt și gând.
-Ție /: pavăză-mi ființei, :/
+Pe Tine /: pavăza ființei mele :/
 /: Te binecuvântez, :/
 Dumnezeul meu, Te binecuvântez!
 
 [v3]
 Binecuvântarea nădejdii
-Ție-Ți cânt curat Tată minunat,
+Ție-Ți cânt curat, Tată minunat,
 Turnul meu, când vin primejdii.
 Turn, /: când vin primejdii, :/
 /: Te binecuvântez, :/

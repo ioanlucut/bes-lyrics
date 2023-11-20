@@ -1,5 +1,5 @@
 [title]
-Azi S-a născut {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {101436}, id: {nccDCvgkMoEizPWoKh3bb1}, contentHash: {917bde}}
+Azi S-a născut {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {101436}, id: {nccDCvgkMoEizPWoKh3bb1}, contentHash: {897121}}
 
 [sequence]
 v1,c,v2,c
@@ -14,7 +14,7 @@ M-alătur lor cu osanale, vreau să cânte fiecare.
 /: Azi S-a născut, într-o iesle cu paie,
 Prunc umil, venit din slavă pentru-a ne salva.
 Haideți să-I cântăm, să-I aducem ca daruri
-Inima ca-n loc de iesle să se nască-n ea. :/
+Inima ca-n loc de iesle să Se nască-n ea. :/
 
 [v2]
 Nu am nici aur și nici smirnă să Îi dau,

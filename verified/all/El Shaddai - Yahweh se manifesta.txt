@@ -1,5 +1,5 @@
 [title]
-Yahweh se manifestă {alternative: {*}, composer: {El Shaddai}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {246232}, id: {peXRxdQLF63hGMvfKnozdW}, contentHash: {5114e2}}
+Yahweh se manifestă {alternative: {*}, composer: {El Shaddai}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {246232}, id: {peXRxdQLF63hGMvfKnozdW}, contentHash: {ef50aa}}
 
 [sequence]
 c,v1,c,v1,c,b,c2,c
@@ -13,15 +13,15 @@ Puterea Ta se-arată în noi!
 /: Yahweh, Rafa,
 Elohim, Shaddai,
 Iireh, Adonai,
-Se manifest-acum! :/
+Se manifestă acum! :/
 
 [b]
 Când Îl cauți, El se va lăsa găsit,
 Când Îl chemi, El se va manifesta,
-Când Îl lauzi, El coboară printre noi.
+Când Îl lauzi, El va coborî-ntre noi.
 
 [c2]
-/: Yahweh, puterea Sa vedem,
-Iireh, ne-a răscumpărat.
-Rafa, prin El sunt vindecat,
-El ne-a eliberat! :/
+/: Yahweh, puterea Ta vedem,
+Iireh, ne-ai răscumpărat.
+Rafa, prin Tine sunt vindecat,
+Tu ne-ai eliberat! :/

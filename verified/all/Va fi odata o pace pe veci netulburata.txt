@@ -1,5 +1,5 @@
 [title]
-Va fi odată o pace pe veci netulburată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5701}, id: {nDyhh7Ks8JAsUnBthaGR6P}, contentHash: {3f2949}}
+Va fi odată o pace pe veci netulburată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5701}, id: {nDyhh7Ks8JAsUnBthaGR6P}, contentHash: {fa4460}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
@@ -47,7 +47,7 @@ Cu inima și ochii
 Desprinși de tot ce-i jos.
 
 [v4.2]
-Să ai pentru totdeauna
+Să am pentru totdeauna
 Tot sufletul din mine,
 /: Aprins ca o mireasmă
 Pe calea lui Hristos. :/

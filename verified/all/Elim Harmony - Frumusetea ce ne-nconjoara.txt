@@ -1,5 +1,5 @@
 [title]
-Frumusețea ce ne-nconjoară {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {100521}, id: {1MLMtPS6JyCrtTa5B5gL7D}, contentHash: {2cdb68}}
+Frumusețea ce ne-nconjoară {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {100521}, id: {1MLMtPS6JyCrtTa5B5gL7D}, contentHash: {777c20}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2
@@ -22,7 +22,7 @@ Din pădure până la deșert.
 Ape limpezi de izvor, lanuri aurii,
 Stropi de ploaie caldă,
 Copilași ce-aleargă în miez de vară,
-Pe câmp cu flori.
+Pe câmpul cu flori.
 
 [v2]
 Mergi pe munte și privește zarea,
@@ -31,4 +31,4 @@ Stai și admiră un amurg
 În nuanțe vii,
 Vântul să îți cânte,
 Cerul să te-aline și să-ți dea
-Liniștea sa.
+Liniștea Sa.

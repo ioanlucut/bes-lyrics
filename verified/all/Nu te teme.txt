@@ -1,5 +1,5 @@
 [title]
-Nu te teme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hyBzmYBY8CBmsnACMV3fUb}, contentHash: {1af0f9}}
+Nu te teme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hyBzmYBY8CBmsnACMV3fUb}, contentHash: {920ade}}
 
 [sequence]
 v1,c,c2,v2,c2,c,e
@@ -31,9 +31,9 @@ Eu sunt Domnul tău, sunt Vegheatorul tău:
 Nu te teme!
 
 [v2]
-Când boala și necazul, vin asupra ta,
+Când boala și necazul vin asupra ta,
 Nu te teme!
-Sunt Iehova, Rafa, Vindecătorul tău:
+Sunt Iehova Rafa, Vindecătorul tău:
 Nu te teme!
 Te voi lua de mână, prin valea morții reci:
 Nu te teme!

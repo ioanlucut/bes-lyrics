@@ -1,5 +1,5 @@
 [title]
-Ridică-mă {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112788}, id: {uqzgtydfMHeMzeW1o1PnN2}, contentHash: {bdb1d9}}
+Ridică-mă {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112788}, id: {uqzgtydfMHeMzeW1o1PnN2}, contentHash: {5aafcf}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -12,7 +12,7 @@ Nu știu, Doamne, unde să mă duc.
 
 [c]
 Ridică-mă, că singur nu pot,
-Ține-mă ascuns în Palma Ta,
+Ține-mă ascuns în palma Ta,
 Că sunt rănit, pustiu și gol,
 Doar Tu poți tărie să-mi dai.
 
@@ -20,7 +20,7 @@ Doar Tu poți tărie să-mi dai.
 Lovit sunt și fără speranță,
 Rătăcit sunt, departe, stingher.
 Tânjesc, Doamne, după siguranță,
-Vreau să găsesc drumul către Cer.
+Vreau să găsesc drumul către cer.
 
 [v3]
 Aud șoapte tot mai confuze

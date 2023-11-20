@@ -1,5 +1,5 @@
 [title]
-Domnul este adăpostul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eVNo2kXRPE42SmnmqLGQ3i}, contentHash: {785166}}
+Domnul este adăpostul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eVNo2kXRPE42SmnmqLGQ3i}, contentHash: {9bf235}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4
@@ -17,13 +17,13 @@ Mă mângâie mereu,
 Nu mă tem de niciun rău :/
 
 [v2]
-Îmi înviorează Duhul,
+Îmi înviorează duhul,
 E Păstorul meu, Dumnezeul meu.
 Pe cărări drepte-mi conduce zilnic pasul meu,
-Din pricina Numelui Său
+Din pricina Numelui Său.
 
 [v3]
-Untdelemnul Sfânt îmi unge zilnic capul meu,
+Cu untdelemnul sfânt îmi unge zilnic capul meu,
 Dumnezeul meu.
 Sunt fericit, voi locui mereu în cortul Său,
 Mereu cu Domnul meu, mereu în cortul Său.

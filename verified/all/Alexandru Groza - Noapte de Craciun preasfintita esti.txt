@@ -1,5 +1,5 @@
 [title]
-Noapte de Crăciun, preasfințită ești {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7281}, id: {o8Ta2VuEdiKe6ShbZvCjC6}, contentHash: {f26e8b}}
+Noapte de Crăciun, preasfințită ești {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7281}, id: {o8Ta2VuEdiKe6ShbZvCjC6}, contentHash: {4a33f3}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c
 [v1]
 Noapte de Crăciun preasfințită ești,
 Cu lumini strălucitoare bucurii vestești.
-Că în Betleem s-a născut Isus,
+Că în Betleem S-a născut Isus,
 Fiul Tatălui din ceruri, Pruncul Sfânt.
 
 [c]
@@ -23,7 +23,7 @@ Dumnezeu a dat ce-a avut mai scump,
 Fiul Lui, răscumpărare pe pământ.
 
 [v3]
-Magii îl vestesc pe Fiul ceresc,
+Magii Îl vestesc pe Fiul ceresc,
 Păstorii îngenunchează, cu drag Îl privesc.
 Cinstește-L și tu în viața ta
 Cu credință și iubire, nu uita!

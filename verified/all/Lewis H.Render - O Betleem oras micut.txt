@@ -1,5 +1,5 @@
 [title]
-O, Betleem oraș micuț {alternative: {*}, composer: {Lewis H.Render}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1506}, id: {61Wwo3PMntr9bg7uYh1QoE}, contentHash: {a4e48f}}
+O, Betleem, oraș micuț {alternative: {*}, composer: {Lewis H.Render}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1506}, id: {61Wwo3PMntr9bg7uYh1QoE}, contentHash: {f194e1}}
 
 [sequence]
 v1,v2,v3
@@ -10,7 +10,7 @@ Cum dormi de liniștit
 În timp ce mii de stele sus,
 Aleargă-n infinit.
 La Tine-n întuneric,
-Lumina s-a născut,
+Lumina S-a născut,
 O iesle-n staul doar ai dat,
 Celui făr-de-nceput.
 
@@ -20,7 +20,7 @@ Mesia a venit
 Și oști cerești slăveau în cor
 Pe Cel ce ne-a iubit.
 O, steaua dimineții,
-Vestește-i nașterea
+Vestește-I nașterea
 Pământu-ntreg să răsune,
 Acum de slava Sa.
 

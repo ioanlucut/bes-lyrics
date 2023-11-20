@@ -1,5 +1,5 @@
 [title]
-Refrenul celui mântuit {alternative: {Old Church Choir}, composer: {Ekklesia Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {215353}, id: {tg95yvCQtiy67spQDPHps8}, contentHash: {7e941a}}
+Refrenul celui mântuit {alternative: {Old Church Choir}, composer: {Ekklesia Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {215353}, id: {tg95yvCQtiy67spQDPHps8}, contentHash: {67c325}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b
@@ -7,14 +7,14 @@ v1.1,v1.2,c,v2,c,b
 [v1.1]
 E un cântec al speranței,
 Ce-ți cuprinde inima.
-Sună simplu, Aleluia,
+Sună simplu, aleluia,
 Dar El schimbă viața ta.
 
 [v1.2]
 Stai și-ascultă, hai și cântă,
 E refrenul celui mântuit.
 Când în suflet porți credința,
-Poți să fii liber, să cânți astăzi spre iubirea Lui.
+Poți să fii liber, să cânți astăzi despre iubirea Lui.
 
 [c]
 Eu port în suflet refrenul celui mântuit,
@@ -24,8 +24,8 @@ Inima-mi cântă, plină de iubirea Sa,
 Doar în El e toată bucuria mea!
 
 [v2]
-Când în valul vieții mele
-Se ridică munți de ne-ntrecut,
+Când în drumul vieții mele
+Se ridică munți de netrecut,
 Nu pot singur, ești cu mine.
 Pot să fiu liber, să spun lumii că sunt fericit.
 

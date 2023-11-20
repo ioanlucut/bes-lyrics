@@ -1,0 +1,41 @@
+[title]
+Tot ce este în lume {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5440}, id: {7AsrxVpiGX6PTQSUEoBLbm}, contentHash: {73cb05}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Tot ce este în lume
+Este un vis trecător.
+Cât ai căuta, străine,
+Nu vei găsi ajutor.
+
+[c]
+O, /: azi, :/ de ce nu vii?
+/: Azi, :/ de ce nu vii?
+/: Azi, :/ de ce nu vii?
+Vino, la Domnul Tău!
+
+[v2]
+Fragedă-ți mai este viața
+Și nu știi cum s-o trăiești.
+Zile, una după alta,
+Au trecut, dar și tu treci.
+
+[v3]
+Nu mai sta în nepăsare!
+Șoapta rea să n-o primești!
+Azi, prin a Lui bunătate,
+Fericirea dobândești.
+
+[v4]
+Te-ai gândit ce-ți stă în față?
+Seama de toate vei da!
+După faptele făcute,
+Plata tu o vei lua!
+
+[v5]
+Știi ce-nseamnă fericirea?
+Să te-mpaci cu Dumnezeu!
+El îți este Creatorul
+Ființei sufletului tău.

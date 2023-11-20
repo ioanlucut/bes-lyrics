@@ -1,5 +1,5 @@
 [title]
-Pe pământ avem o luptă {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6314}, id: {kp881qCrkLwF4SJKHAWRut}, contentHash: {b36798}}
+Pe pământ avem o luptă {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6314}, id: {kp881qCrkLwF4SJKHAWRut}, contentHash: {0d3de1}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
@@ -31,7 +31,7 @@ Când Domnul va veni. :/
 [v2.1]
 Pregătiți să fim de luptă,
 Scutul credinței să-l avem,
-Cu sabia Duhului ’nainte,
+Cu sabia Duhului ‘nainte,
 În Domnul să ne-ncredem.
 
 [v2.2]
@@ -41,7 +41,7 @@ Pe cap coiful mântuirii
 Și râvna Evangheliei.
 
 [v3.1]
-În slavă eternă vor fi
+În slava eternă vor fi
 Acei ce au învins
 Și Domnul ne va da răsplata,
 Așa cum ne-a promis.

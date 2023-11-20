@@ -1,5 +1,5 @@
 [title]
-Cred {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227954}, id: {crFB5M2cUB1iP1P9onxMCd}, contentHash: {2c04c3}}
+Cred {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227954}, id: {crFB5M2cUB1iP1P9onxMCd}, contentHash: {8e737e}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -26,4 +26,4 @@ Domnul meu, Tu, pe cale lumină-mi vei fi!
 La pieptul Tău mă liniștesc,
 Mă ierți și atunci când greșit pășesc.
 Mă porți cu drag și-mi dai curaj
-Să merg înainte prin Har!
+Să merg înainte prin har!

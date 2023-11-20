@@ -1,5 +1,5 @@
 [title]
-Ne-om vedea în dimineața {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5555}, id: {cgWuy3vb7AUunj9pt5NovA}, contentHash: {f10900}}
+Ne-om vedea în dimineața {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5555}, id: {cgWuy3vb7AUunj9pt5NovA}, contentHash: {853a73}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -20,7 +20,7 @@ Cu toți cei ce-au ascultat ce El a zis.
 Candela aprinsă ține-o!
 Pe Hristos Îl așteaptă,
 Căci El a promis că vine
-Deci, fii treaz și te gată!
+Deci, fii treaz și stai gata!
 
 [v3]
 Ce fericiți noi o să fim

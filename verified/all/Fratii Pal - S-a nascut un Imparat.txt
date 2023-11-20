@@ -1,5 +1,5 @@
 [title]
-S-a născut un Împărat {alternative: {*}, composer: {Fratii Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4444}, id: {wNgqDUcFqWMSwJy15zXCro}, contentHash: {27845e}}
+S-a născut un Împărat {alternative: {*}, composer: {Fratii Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4444}, id: {wNgqDUcFqWMSwJy15zXCro}, contentHash: {8ee52d}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -20,10 +20,10 @@ Lui Mesia inima I-o dăm!
 Cum profeții-au profețit,
 Astăzi totul s-a-mplinit,
 Cel fără de început
-Astăzi s-a născut.
+Astăzi S-a născut.
 
 [v3]
 Să răsune-n largul zării
-Vestea Bună a-ndurării:
+Vestea bună a-ndurării:
 Întunericul s-a dus,
-S-a născut Isus.
+S-a născut Isus!

@@ -1,5 +1,5 @@
 [title]
-Doar pentru Hristos {alternative: {The Cause Of Christ}, composer: {Kari Jobe}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176155}, id: {rx9DnvRrMJCiLCfiV1BUgP}, contentHash: {0192a0}}
+Doar pentru Hristos {alternative: {The Cause Of Christ}, composer: {Kari Jobe}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176155}, id: {rx9DnvRrMJCiLCfiV1BUgP}, contentHash: {2e3499}}
 
 [sequence]
 v1,c,v2,b,v3
@@ -7,7 +7,7 @@ v1,c,v2,b,v3
 [v1]
 Un lucru vreau cu dor nespus
 E dragostea pentru Isus.
-Să fiu un stâlp în Casa Lui,
+Să fiu un stâlp în casa Lui,
 Să răspândesc mireasma Lui.
 
 [c]
@@ -20,7 +20,7 @@ Bucuria mea e-n Isus Hristos.
 În El găsesc doar împliniri
 În încercări sau bucurii.
 Când îndoieli mă copleșesc,
-La Isus, ajutor găsesc.
+La Isus ajutor găsesc.
 
 [b]
 Isus, scumpe Isus,
@@ -32,4 +32,4 @@ Isus, scumpe Isus,
 Și nu mă laud cu ce sunt,
 Smerit pășesc pe-acest pământ.
 Mă rog, ca-n viața ce-o trăiesc,
-Să ’nalț al Tău Nume ceresc.
+Să ‘nalț al Tău Nume ceresc.

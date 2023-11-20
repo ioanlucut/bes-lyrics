@@ -1,5 +1,5 @@
 [title]
-Lui Isus mi-am dat inima {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fHgp5fpnsMkW6y5sq5Vabj}, contentHash: {1997cc}}
+Lui Isus mi-am dat inima {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fHgp5fpnsMkW6y5sq5Vabj}, contentHash: {70bf4b}}
 
 [sequence]
 v1,v2,v3
@@ -28,8 +28,8 @@ Da, sunt liniștit! :/
 Lui Isus mi-am dat inima
 Cât sunt de fericit!
 Lui Isus mi-am dat inima
-Da, sunt mântuit.
+Da, sunt mântuit!
 /: De astăzi nu mai trăiesc eu,
-Ci, Isus trăiește în pieptul meu,
+Ci Isus trăiește în pieptul meu,
 Isus e-n inima mea.
 Da, sunt fericit! :/

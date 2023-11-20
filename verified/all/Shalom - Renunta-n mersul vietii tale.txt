@@ -1,5 +1,5 @@
 [title]
-Renunță-n mersul vieții tale {alternative: {*}, composer: {Shalom}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7014}, id: {d389nHyPSjy1AngdHnQzxD}, contentHash: {0c3416}}
+Renunță-n mersul vieții tale {alternative: {*}, composer: {Shalom}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7014}, id: {d389nHyPSjy1AngdHnQzxD}, contentHash: {13266e}}
 
 [sequence]
 v1,v2,v3,v4
@@ -18,9 +18,9 @@ Decât un veșnic prea târziu.
 
 [v3]
 Atât de greu îți este oare
-Să spui - „O, Doamne, astăzi știu”?
+Să spui: „O, Doamne, astăzi știu
 Că dacă azi nu vin la Tine
-Va fi un veșnic prea târziu.
+Va fi un veșnic prea târziu”?
 
 [v4]
 Și știu că mersul vieții mele,

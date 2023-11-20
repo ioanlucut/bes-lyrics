@@ -1,11 +1,11 @@
 [title]
-Adonai {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {102813}, id: {h6rrZQmsHUHtqSqSr3suyi}, contentHash: {50163e}}
+Adonai {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {102813}, id: {h6rrZQmsHUHtqSqSr3suyi}, contentHash: {cbc256}}
 
 [sequence]
 v1,c,v2,c,e
 
 [v1]
-Doamne în veci vei fi, misterul ce-L voi iubi,
+Doamne în veci vei fi misterul ce-L voi iubi,
 Domn peste cer și pământ, Dumnezeu minunat.
 Vino-n lumina Ta, îmbrăcat în onoarea Ta,
 Strigă acum inima: „Vino, Rege, din nou!”

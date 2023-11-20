@@ -1,5 +1,5 @@
 [title]
-S-a-nspăimântat stăpânul lumii {alternative: {*}, composer: {Alexandru Vlahuta}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4139}, id: {onCd8egscxR8Taf8HgbbsD}, contentHash: {90fe10}}
+S-a-nspăimântat stăpânul lumii {alternative: {*}, composer: {Alexandru Vlahuta}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4139}, id: {onCd8egscxR8Taf8HgbbsD}, contentHash: {92bb39}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -7,7 +7,7 @@ v1,v2,v3,v4,v5,v6
 [v1]
 S-a-nspăimântat stăpânul lumii
 La glasul blândului profet
-/: Și un dușman văzu în fiul
+/: Și un dușman văzu în Fiul
 Dulgherului din Nazaret. :/
 
 [v2]
@@ -17,7 +17,7 @@ Nu vrea pierirea nimănui,
 Și mulți hulesc Numele Lui. :/
 
 [v3]
-Urască-L cei fără-de-lege,
+Urască-L cei fărădelege,
 Ce-i pasă Lui de ura lor?
 /: El a venit s-aducă pace
 Și înfrățire tuturor. :/

@@ -1,5 +1,5 @@
 [title]
-Fii glorificat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {wthyjRqon4ae6Hm57p2pD2}, contentHash: {36a6c0}}
+Fii glorificat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {wthyjRqon4ae6Hm57p2pD2}, contentHash: {5600e6}}
 
 [sequence]
 c,v1,c,v1
@@ -13,5 +13,5 @@ Fii glorificat!
 [v1]
 Fii glorificat în ceruri,
 Fii glorificat pe pământ,
-Fii glorificat în Templu,
+Fii glorificat în templu,
 Isus, Isus, fii glorificat!

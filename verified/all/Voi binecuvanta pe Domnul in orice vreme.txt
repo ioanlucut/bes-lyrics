@@ -1,5 +1,5 @@
 [title]
-Voi binecuvânta pe Domnul în orice vreme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oYziNwp6UWYRxgqHRGHZ4Q}, contentHash: {7ce931}}
+Voi binecuvânta pe Domnul în orice vreme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oYziNwp6UWYRxgqHRGHZ4Q}, contentHash: {9e3524}}
 
 [sequence]
 v1,v2,v3
@@ -18,6 +18,6 @@ Să lăudăm cu toții Numele Lui.
 
 [v3]
 Gustați și vedeți ce bun este Domnul,
-Ferice de omul care se încrede-n el.
+Ferice de omul care se încrede-n El.
 Înălțați pe Domnul împreună cu mine,
 Să lăudăm cu toții Numele Lui.

@@ -1,5 +1,5 @@
 [title]
-Vestit de prorocii din vechime {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {170192}, id: {cKLERKXSMWMTyiDim5yvCi}, contentHash: {6a3e4d}}
+Vestit de prorocii din vechime {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {170192}, id: {cKLERKXSMWMTyiDim5yvCi}, contentHash: {032f57}}
 
 [sequence]
 v1,v2,c,v3,v4,c
@@ -13,7 +13,7 @@ Nici pietre scumpe, aur sau argint.
 [v2]
 Tu n-ai avut un loc de poposire,
 Doar grajdul din Iudeea l-au găsit,
-Ca să te naști acolo jos în paie,
+Ca să Te naști acolo, jos în paie,
 Un Fiu de Rege, Prințul cel vestit!
 
 [c]
@@ -27,7 +27,7 @@ Căci ne-ai salvat! Da, da!
 Pe cer, o lumină se arată,
 Un înger minunat a apărut,
 Păstorilor s-aducă vestea bună:
-Mesia așteptat azi s-a născut!
+Mesia așteptat azi S-a născut!
 
 [v4]
 În Betleem grăbiți-vă acuma,

@@ -1,16 +1,16 @@
 [title]
-Cântă, strigă, bate din palme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {773}, id: {k9c89ZBJXxEv8UvPBpp5VJ}, contentHash: {b71298}}
+Cântă, strigă, bate din palme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {773}, id: {k9c89ZBJXxEv8UvPBpp5VJ}, contentHash: {b99422}}
 
 [sequence]
 c,v1,c,v1
 
 [c]
+/: Cântă, strigă, bate din palme,
+Stăpânului dă-I laudă,
+Pleacă-te ‘naintea Domnului,
 Cântă, strigă, bate din palme,
 Stăpânului dă-I laudă,
-Pleacă-te ’naintea Domnului,
-Cântă, strigă, bate din palme,
-Stăpânului dă-I laudă,
-Căci El e un mare Dumnezeu. (2x)
+Căci El e un mare Dumnezeu. :/
 
 [v1]
 Astăzi e zi de sărbătoare,

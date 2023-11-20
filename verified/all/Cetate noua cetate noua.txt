@@ -1,5 +1,5 @@
 [title]
-Cetate nouă, cetate nouă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2160}, id: {1w3Ym7ht4s3JDSzb9SeyUH}, contentHash: {ffb0a0}}
+Cetate nouă, cetate nouă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2160}, id: {1w3Ym7ht4s3JDSzb9SeyUH}, contentHash: {92c43a}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
@@ -29,17 +29,17 @@ Locaș iubit, de noi dorit,
 Din pietre vii e tare construit.
 
 [v3.2]
-/: Chiar vânturi și furtuna de ar lovi,
+/: Chiar vânturi și furtuni de ar lovi,
 Această temelie n-ar pieri
 Căci meșter ziditor este Hristos,
 Iar zidul este tare și stâncos. :/
 
 [v4.1]
-La muncă, haidem cu toți acuma,
+La muncă, haidem cu toții-acuma,
 Ca să zidim ce este de zidit.
 
 [v4.2]
 /: Când locuința se va termina,
 Acolo nunta noi o vom serba
-A meșterului nostru ziditor,
-Isus Hristos, al nost’ Mântuitor. :/
+A Meșterului nostru ziditor,
+Isus Hristos, al nost’ mântuitor. :/

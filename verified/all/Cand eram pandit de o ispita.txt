@@ -1,5 +1,5 @@
 [title]
-Când eram pândit de o ispită {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4479}, id: {1xrNjyWU8E7d6Qamcv2mDs}, contentHash: {614b59}}
+Când eram pândit de o ispită {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4479}, id: {1xrNjyWU8E7d6Qamcv2mDs}, contentHash: {ae2aea}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -25,7 +25,7 @@ O, Doamne ceresc. :/
 [v2.1]
 În necazuri nenumărate,
 Mi-ai fost tată și mi-ai fost frate.
-M-ai scos din noroi și amar
+M-ai scos din noroi și-amar
 Prin sfântul Tău har.
 
 [v2.2]
@@ -37,7 +37,7 @@ Mi-ai răspuns neîntârziat,
 [v3.1]
 Când eram cuprins de întristare,
 Doamne, Tu mi-ai dat alinare.
-Niciodată nu m-ai ocolit
+Niciodată nu m-ai ocolit,
 Ci m-ai întărit.
 
 [v3.2]

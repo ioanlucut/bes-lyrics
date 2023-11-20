@@ -1,5 +1,5 @@
 [title]
-Tu ești iubirea mea din cer {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ovcVkgJeZ3v3tsrotM5NXZ}, contentHash: {459108}}
+Tu ești iubirea mea din cer {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ovcVkgJeZ3v3tsrotM5NXZ}, contentHash: {235dd1}}
 
 [sequence]
 v1,v2,c
@@ -23,4 +23,4 @@ Eu cu dor le-aștept.
 Tu ești și soarele
 Ce-mi încălzește inima,
 Doar lângă Tine,
-Prin iubire eu pot exista.
+Prin iubire, eu pot exista.

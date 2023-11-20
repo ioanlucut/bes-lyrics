@@ -1,5 +1,5 @@
 [title]
-Mai adă Doamne-acele vremuri din trecut {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7335}, id: {exDK34G1PpzaEZcib3MW6G}, contentHash: {cf17ab}}
+Mai adă Doamne-acele vremuri din trecut {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7335}, id: {exDK34G1PpzaEZcib3MW6G}, contentHash: {7a414f}}
 
 [sequence]
 v1,v2,v3,v4
@@ -36,10 +36,10 @@ Ne adunam l-al Tău izvor
 
 [v4]
 Mai adă, Doamne, și azi semne și minuni,
-Ce le făceai Tu altă dată,
+Ce le făceai Tu altădată,
 Căci de vei zice un cuvânt,
 Bolnavii vor sări cântând
 Și-Ți vor aduce osanale
 Și-oricât ar fi boala de grea,
-La glasul Tău s-or vindeca.
+La glasul Tău s-a vindeca.
 Mai vino iar, Isuse-n vale!

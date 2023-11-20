@@ -1,5 +1,5 @@
 [title]
-Vreau, Doamne, iubirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2813}, id: {3MaVPSZcoJ4RCHqgoWoKUR}, contentHash: {63188a}}
+Vreau, Doamne, iubirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2813}, id: {3MaVPSZcoJ4RCHqgoWoKUR}, contentHash: {ac4a73}}
 
 [sequence]
 v1,c,v1,c
@@ -7,7 +7,7 @@ v1,c,v1,c
 [v1]
 Vreau, Doamne, iubirea,
 Tu să fii în viața mea!
-VREAU, Doamne, puterea,
+Vreau, Doamne, puterea,
 Tu să fii în viața mea!
 
 [c]

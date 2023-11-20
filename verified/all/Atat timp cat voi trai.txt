@@ -1,5 +1,5 @@
 [title]
-Atât timp cât voi trăi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {vU8DUVGLMd41ntAov2BmdB}, contentHash: {bb2da1}}
+Atât timp cât voi trăi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {vU8DUVGLMd41ntAov2BmdB}, contentHash: {5f2c2e}}
 
 [sequence]
 v1,c,v2,c
@@ -21,13 +21,13 @@ Strigătul meu va răsuna.
 Și pentru orice zi
 Îi mulțumesc lui Dumnezeu.
 Atât timp cât voi trăi
-Iubirea voi mărturisi.
+Iubirea-I voi mărturisi.
 
 [v2]
 Minunatul curcubeu,
 Armonia vântului,
 Orice vis ce se înalță
 Să vadă unde-ncepe dragostea.
-Orice vers din poezie,
+Orice vers de poezie,
 Orice astru de pe cer,
 Orice colț din creațiune va mărturisi.

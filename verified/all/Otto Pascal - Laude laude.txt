@@ -1,5 +1,5 @@
 [title]
-Laude, laude {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {228171}, id: {qKmxGBuiW5oL9PGykLuDtv}, contentHash: {20f485}}
+Laude, laude {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {228171}, id: {qKmxGBuiW5oL9PGykLuDtv}, contentHash: {db3b39}}
 
 [sequence]
 c,v1,b,v2,c,v3,c
@@ -22,12 +22,12 @@ Ca orice om să poată fi salvat.
 
 [v2]
 Când Te chem, Isus, vii neîntârziat
-Și-mi vorbești prin sfântul Tău cuvânt.
+Și-mi vorbești prin sfântul Tău Cuvânt.
 Cu povața Ta am crescut curat,
 Doar prin Tine sunt ceea ce sunt.
 
 [v3]
 Poate cauți un loc unde pace e,
-Poate cauți un brat vindecător.
+Poate cauți un braț vindecător.
 Cu Isus dispar toate grijile,
 Dacă-L chemi El vine-n ajutor.

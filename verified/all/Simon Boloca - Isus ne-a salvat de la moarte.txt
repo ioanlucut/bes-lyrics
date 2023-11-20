@@ -1,5 +1,5 @@
 [title]
-Isus ne-a salvat de la moarte {alternative: {*}, composer: {Simon Boloca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153364}, id: {oNENdD5JqQNB1dWk54oYdV}, contentHash: {909eed}}
+Isus ne-a salvat de la moarte {alternative: {*}, composer: {Simon Boloca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153364}, id: {oNENdD5JqQNB1dWk54oYdV}, contentHash: {fba9d6}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -7,23 +7,23 @@ v1,c,v2,c,v3,c
 [v1]
 Isus ne-a salvat de la moarte,
 De ce vrei să dai înapoi?
-Privește ’nainte-i cununa,
+Privește ‘nainte-i cununa,
 Și-i doar pentru biruitori.
 
 [c]
-/: Mai luptă, mai rabdă, nu da ’napoi,
+/: Mai luptă, mai rabdă, nu da ‘napoi,
 Isus te-ntărește și-ți dă puteri noi,
 El și-a dat viața să fii mântuit.
 Nu-ți pierde chemarea ce ai primit. :/
 
 [v2]
 Venirea Lui e foarte aproape,
-Și mulți stau, că au obosit,
-Biserica-i timpul trezirii,
-Că ceasul e chiar pe sfârșit.
+Și mulți stau, că au obosit.
+Biserică-i timpul trezirii,
+Că ceasul e chiar pe sfârșit!
 
 [v3]
 Pe calea aceasta e luptă,
-Sunt lacrimi, suspini, sunt dureri...
+Sunt lacrimi, suspine, sunt dureri,
 Dar ea este calea ce duce
 La Domnul Hristos, sus în cer.

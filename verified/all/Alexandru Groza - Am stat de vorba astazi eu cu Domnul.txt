@@ -1,5 +1,5 @@
 [title]
-Am stat de vorbă, astăzi, eu cu Domnul {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172709}, id: {snyzLt8KNmrPQy9xmyezvK}, contentHash: {19f24b}}
+Am stat de vorbă, astăzi, eu cu Domnul {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172709}, id: {snyzLt8KNmrPQy9xmyezvK}, contentHash: {4e59f4}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -40,6 +40,6 @@ Am stat de vorbă, astăzi, eu cu Domnul
 El îmi revarsă binecuvântare
 Și viața mea-i frumoasă doar cu El.
 Credința mea e-n Domnul ancorată,
-Cuvântul Lui Îl strâng în inimă,
+Cuvântul Lui îl strâng în inimă,
 Îl preamăresc în cântecele mele,
 Sunt fericit cu Domnul meu mereu!

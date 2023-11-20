@@ -1,5 +1,5 @@
 [title]
-Eu știu că Domnul m-a creat {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3155}, id: {eqF62C3UoH6MR6MvpwMCpi}, contentHash: {50dab2}}
+Eu știu că Domnul m-a creat {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3155}, id: {eqF62C3UoH6MR6MvpwMCpi}, contentHash: {dc506f}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
 [v1]
 Eu știu că Domnul m-a creat
 După făptura Sa,
-El e olarul inimii,
+El e Olarul inimii,
 El știe ce e-n ea.
 
 [c]
@@ -40,7 +40,7 @@ El e Păstorul meu.
 El poartă grija mea.
 
 [v6]
-Când viața mi se va sfârși,
-Voi trece-n veșnicii
+Când viața ni se va sfârși,
+Vom trece-n veșnicii.
 Atuncea noi Îl vom vedea,
-Când mântuiți vom fi.
+De mântuiți vom fi.

@@ -1,5 +1,5 @@
 [title]
-O, Sfinte Duh de viață darnic {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5505}, id: {hdocbkYFUAYpK6ZaY4L35w}, contentHash: {bef416}}
+O, Sfinte Duh de viață darnic {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5505}, id: {hdocbkYFUAYpK6ZaY4L35w}, contentHash: {e6991b}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c
@@ -8,7 +8,7 @@ v1,c,v2,c,v3,c,v4,c,v5,c
 O, Sfinte Duh de viață darnic,
 Ce inimile le-ncălzești,
 Poporul Tău Te cheamă dornic,
-Lumina Ta să o dăruiești.
+Lumina Ta să dăruiești.
 
 [c]
 Noi Te rugăm, revars-acuma,

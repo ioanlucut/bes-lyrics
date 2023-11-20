@@ -1,5 +1,5 @@
 [title]
-Sfânt, sfânt e Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {i6k9HVan8ryCYYcy9R6okH}, contentHash: {d8803b}}
+Sfânt, sfânt e Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {i6k9HVan8ryCYYcy9R6okH}, contentHash: {ad5b40}}
 
 [sequence]
 v1,v2,v3,v4
@@ -7,7 +7,7 @@ v1,v2,v3,v4
 [v1]
 Sfânt, sfânt e Domnul,
 Sfânt, sfânt e Domnul!
-Sfânt e Domnul și-Atotputernic
+Sfânt e Domnul și-atotputernic
 Vrednic de toată cinstea.
 
 [v2]
@@ -18,12 +18,12 @@ Laudă, în veci de veci dă-I slavă.
 
 [v3]
 Mare ești, Rege în veci de veci,
-Pământul, cerul, marea toate le-ai creat,
+Pământul, cerul, marea, pe toate le-ai creat,
 Mare ești, Rege în veci de veci,
-Ești stânca mântuirii, salvat mi-e sufletul.
+Ești Stânca mântuirii, salvat mi-e sufletul.
 
 [v4]
-Numele-Ți vom ’nălța, Isuse,
+Numele-Ți vom ‘nălța, Isuse,
 Toți se vor pleca în fața Ta,
-Numele-Ți vom ’nălța, Isuse,
+Numele-Ți vom ‘nălța, Isuse,
 Mare ești în veci, ca Tine nimeni nu-i.

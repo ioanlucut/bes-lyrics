@@ -1,5 +1,5 @@
 [title]
-Este un loc plin de har și pace {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qJDQXGf66mS25NWo1GQBAd}, contentHash: {f1f2da}}
+Este un loc plin de har și pace {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qJDQXGf66mS25NWo1GQBAd}, contentHash: {19b869}}
 
 [sequence]
 v1.1,v1.2,p,c,v1.1,v1.2,p,c
@@ -17,7 +17,7 @@ Una prin Duhul Tău Sfânt, ce ne ține
 Până la sfârșit.
 
 [p]
-Azi te rugăm prin Isus, sfinte Tată,
+Azi Te rugăm prin Isus, sfinte Tată,
 Una ca Tatăl și Fiul să fim,
 Toți într-un gând, cu iubire curată,
 De dragul Fiului Tău.

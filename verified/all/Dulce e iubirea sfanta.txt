@@ -1,5 +1,5 @@
 [title]
-Dulce e iubirea sfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3114}, id: {m9W9VopXLYPk6QkqdSgc9f}, contentHash: {c766db}}
+Dulce e iubirea sfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3114}, id: {m9W9VopXLYPk6QkqdSgc9f}, contentHash: {2625a0}}
 
 [sequence]
 v1,c,v2,c,v3,c2
@@ -13,7 +13,7 @@ Când cu Domnul biruim.
 [c]
 /: Pot să se sfărâme munții,
 În adâncul mărilor,
-De nimica nu ne temem
+De nimic noi nu ne temem
 Cu al nostru Salvator. :/
 
 [v2]
@@ -24,12 +24,12 @@ Pentru cel neprihănit.
 
 [v3]
 Haidem, să cântăm cu toții,
-Despre-ale noastre biruinți,
+Despre-a noastre biruinți,
 Pân’ nu vine clipa morții
 Și cuptoarele fierbinți.
 
 [c2]
 Pot să se sfărâme munții,
 Marea-n clocot să tot stea,
-De nimica nu ne temem
-Căci, spre ceruri, vom zbura.
+De nimic noi nu ne temem
+Căci spre ceruri vom zbura.

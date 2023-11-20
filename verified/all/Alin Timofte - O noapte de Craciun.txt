@@ -1,5 +1,5 @@
 [title]
-O noapte de Crăciun {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {156242}, id: {2Le2VHbs9vDat5mEyY3Kwn}, contentHash: {26e1e0}}
+O noapte de Crăciun {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {156242}, id: {2Le2VHbs9vDat5mEyY3Kwn}, contentHash: {fb22bc}}
 
 [sequence]
 v1,b,c,v2,b2,e
@@ -10,21 +10,21 @@ Pe care mama, an de an, lângă șemineu mi-o amintea.
 La fereastră cad fulgi de omăt,
 S-a născut Isus, o ce minunat!
 Colindători afară cântă neîncetat,
-Slavă, sus în cer, pentru împărat.
+Slavă, sus în cer, pentru Împărat.
 
 [b]
-Iau chitară în mâna și pornesc pe străzi, totu-i luminat
+Iau chitara în mâna și pornesc pe străzi, totu-i luminat,
 Copii se joacă în zăpadă, oameni fericiți că sunt salvați.
 
 [c]
 Îngerii din cer vestea bună au adus,
-Că în Betleem s-a născut Isus.
+Că în Betleem S-a născut Isus.
 Într-o iesle rece Dumnezeu a venit,
 A lăsat cerul Său fiindcă ne-a iubit.
 
 [v2]
 Și suntem bucuroși că Isus ne-a salvat,
-Și suntem curajoși că Isus e împărat.
+Și suntem curajoși că Isus e Împărat.
 Iarăși e Crăciun, dar singur pe drum tu rătăcești,
 N-ai povestea ta, nu ai cui s-o spui, tot singur ești.
 Lacrimile tale sunt ca fulgii de nea,
@@ -37,6 +37,6 @@ Vino la Isus și El îți va da
 Calde sărbători, te va-mbrățișa.
 
 [e]
-Lasă să se nască și în viața ta,
+Lasă-L să Se nască și în viața ta,
 Hai, vino cu noi, haide, nu mai sta,
 Hai, vino cu noi, să ai povestea ta!

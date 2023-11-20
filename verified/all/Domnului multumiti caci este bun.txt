@@ -1,5 +1,5 @@
 [title]
-Domnului mulțumiți căci este bun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2hx8XYYJeuS67HmDHrYDGD}, contentHash: {ece93f}}
+Domnului mulțumiți căci este bun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2hx8XYYJeuS67HmDHrYDGD}, contentHash: {8c5731}}
 
 [sequence]
 v1,c,v2,c
@@ -8,15 +8,15 @@ v1,c,v2,c
 Domnului mulțumiți căci este bun,
 Domnului mulțumiți căci este bun,
 Că adevărul Său ține-n veci de veci,
-Cheamă-i Numele Său Cel Sfânt.
+Cheamă-I Numele Său cel sfânt.
 
 [c]
-Bucurați-vă, bucurați-vă,
+Bucurați-vă, bucurați-vă!
 Cei ce-L caută pe Isus
-Să se bucure.
+Să se bucure!
 
 [v2]
 Spune-ți popoarelor ce a făcut,
 Spune-ți popoarelor ce a făcut,
-De lucrarea Sa, de-ale Sale lucrări,
-Glorie numelui Său Cel Sfânt!
+De lucrarea Sa, de-ale Sale minuni,
+Glorie Numelui Său cel sfânt!

@@ -1,5 +1,5 @@
 [title]
-Ești Domnul meu, mai sus de cer înălțat {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58052}, id: {5YN1KT7NqYPfEo6iWRpdhy}, contentHash: {adf9c1}}
+Ești Domnul meu, mai sus de cer înălțat {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58052}, id: {5YN1KT7NqYPfEo6iWRpdhy}, contentHash: {8be0d7}}
 
 [sequence]
 v1,c,v2,c,b,c,e
@@ -24,7 +24,7 @@ Al meu Împărat, vrednic să fii lăudat!
 
 [b]
 /: Ești Regele meu! :/
-/: Azi mă predau și Ție-ți dau
+/: Azi mă predau și Ție-Ți dau
 Tot ce sunt eu, Regele meu! :/ (3x)
 
 [e]

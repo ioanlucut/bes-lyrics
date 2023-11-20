@@ -1,12 +1,12 @@
 [title]
-Magii se-ntrebau cum Îl vor afla {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ojUA14J7xEPrMgaTTCYX1t}, contentHash: {aabf88}}
+Magii se-ntrebau cum Îl vor afla {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ojUA14J7xEPrMgaTTCYX1t}, contentHash: {ed453b}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
 Magii se-ntrebau cum Îl vor afla
-Căci în Betleem un Rege ni s-a dat,
+Căci în Betleem un Rege ni S-a dat,
 Un Rege, e Isus!
 Dar iată, o stea din Răsărit
 Spre ieslea cu paie pe magi îi conducea,
@@ -24,5 +24,5 @@ El din slavă a venit. :/
 În noaptea senină pe Isus lăudau
 Pe Isus lăudau,
 Păstorii-ntr-un gând turma și-au lăsat
-Spre staul alergând la micul împărat,
-La micul împărat.
+Spre staul alergând la micul Împărat,
+La micul Împărat.

@@ -1,5 +1,5 @@
 [title]
-Dragoste divină, scumpă {alternative: {*}, composer: {Elisei Ahlwen}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1438}, id: {gTmVRdkCLDNwPnsnXu6kLF}, contentHash: {2e0375}}
+Dragoste divină, scumpă {alternative: {*}, composer: {Elisei Ahlwen}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1438}, id: {gTmVRdkCLDNwPnsnXu6kLF}, contentHash: {7c85cd}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -25,7 +25,7 @@ Peste răni a pus balsam.
 [v3]
 Dragoste divină, scumpă,
 Mi-ai iertat orice păcat.
-Vom cânta de fericire,
+Voi cânta de fericire,
 Toată viața ne-ncetat.
 
 [v4]

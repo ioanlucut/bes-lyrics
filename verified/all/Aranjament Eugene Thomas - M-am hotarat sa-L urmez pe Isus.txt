@@ -1,5 +1,5 @@
 [title]
-M-am hotărât să-L urmez pe Isus {alternative: {*}, composer: {Aranjament Eugene Thomas}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1915}, id: {erLavut1U9hmD4nw2mmoJ3}, contentHash: {58e3ad}}
+M-am hotărât să-L urmez pe Isus {alternative: {*}, composer: {Aranjament Eugene Thomas}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1915}, id: {erLavut1U9hmD4nw2mmoJ3}, contentHash: {07e560}}
 
 [sequence]
 v1,v2,v3,v4
@@ -13,7 +13,7 @@ v1,v2,v3,v4
 /: Și înapoi eu nu voi da. :/
 
 [v3]
-/: În urmă-i lumea, ’nainte-i crucea, :/ (3x)
+/: În urmă-i lumea, ‘nainte-i crucea, :/ (3x)
 /: Și înapoi eu nu voi da. :/
 
 [v4]

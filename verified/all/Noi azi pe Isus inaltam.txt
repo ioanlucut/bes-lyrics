@@ -1,5 +1,5 @@
 [title]
-Noi azi pe Isus înălțăm {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4775}, id: {5zDbTeWwdw88xDYRZd9QeJ}, contentHash: {4af68c}}
+Noi azi pe Isus înălțăm {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4775}, id: {5zDbTeWwdw88xDYRZd9QeJ}, contentHash: {a7c33d}}
 
 [sequence]
 v1,c,v2,c
@@ -12,7 +12,7 @@ El este calea către cer.
 
 [c]
 /: Noi proclamăm, noi proclamăm
-Noi proclamăm Isus e ’nălțat! :/
+Noi proclamăm Isus e ‘nălțat! :/
 
 [v2]
 Pas cu pas mergem-nainte,

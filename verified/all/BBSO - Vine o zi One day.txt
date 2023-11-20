@@ -1,13 +1,13 @@
 [title]
-Vine o zi, One day {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {206026}, id: {eaZViwkEQULTnHhnFW2rGR}, contentHash: {3d227b}}
+Vine o zi, One day {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {206026}, id: {eaZViwkEQULTnHhnFW2rGR}, contentHash: {a7f221}}
 
 [sequence]
 v1,v2,c,v3,v4,c,b,c,c2
 
 [v1]
 Într-o zi va fi totul nou, Isus.
-Rănile, ce dor, vei lega.
-Toate trec doar Tu-n-veci rămâi, Domnul meu!
+Rănile ce dor vei lega.
+Toate trec, dar Tu-n-veci rămâi, Domnul meu!
 
 [v2]
 Totul voi pricepe-ntr-o zi, Isus.
@@ -26,7 +26,7 @@ Copleșiți de-al Său mare har
 Și într-o clipă vom fi schimbați. O, ce zi!
 
 [v4]
-Vine o zi când liberi vom fi, Isus...
+Vine o zi când liberi vom fi, Isus.
 Când lupta noastră se va sfârși,
 Gloria Ta atunci vom vedea. O ce zi!
 

@@ -1,12 +1,12 @@
 [title]
-Bun venit în acest loc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {riTcmvW59wbDWGzJwU8f1D}, contentHash: {5d0ae2}}
+Bun venit în acest loc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {riTcmvW59wbDWGzJwU8f1D}, contentHash: {3673d1}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
 Bun venit în acest loc,
-Bun venit în Templul sfânt!
+Bun venit în templul sfânt!
 Dorim să ne-nchinăm
 În locașul Tău cel sfânt.
 

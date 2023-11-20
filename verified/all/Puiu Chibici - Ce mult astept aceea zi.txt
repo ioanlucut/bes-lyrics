@@ -1,5 +1,5 @@
 [title]
-Ce mult aștept aceea zi {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6974}, id: {ngKTit8E3pSRzhsPUukkgH}, contentHash: {973b82}}
+Ce mult aștept aceea zi {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6974}, id: {ngKTit8E3pSRzhsPUukkgH}, contentHash: {5f6f9f}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -12,7 +12,7 @@ Când Tu din slavă vei veni,
 Și să nu ne mai despărțim. :/
 
 [v2]
-Să ne-ntâlnim cu toții în nor,
+Să ne-ntâlnim cu toții-n nor,
 Împreună frați și surori.
 /: Și să zburăm spre veșnicii
 Către eterne bucurii,

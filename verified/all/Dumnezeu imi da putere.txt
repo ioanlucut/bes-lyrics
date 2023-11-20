@@ -1,5 +1,5 @@
 [title]
-Dumnezeu îmi dă putere {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6CayFPkGtLPcULMJR8eXRv}, contentHash: {354ebc}}
+Dumnezeu îmi dă putere {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6CayFPkGtLPcULMJR8eXRv}, contentHash: {367f8e}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8
@@ -8,7 +8,7 @@ v1,v2,v3,v4,v5,v6,v7,v8
 Dumnezeu îmi dă putere,
 Harul Său și mângâiere,
 Dar dator sunt acum eu
-Să-I slujesc prin Harul Său.
+Să-I slujesc prin harul Său.
 
 [v2]
 Căci va veni foametea
@@ -38,7 +38,7 @@ Va fi timpul pe sfârșit
 Dar acum Domnul ne spune:
 „Căutați-Mă pe Mine!”
 Până Mă puteți afla
-Căci Harul se va lua.
+Căci harul se va lua.
 
 [v7]
 La Israel va fi dat,

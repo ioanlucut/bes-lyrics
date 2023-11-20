@@ -1,5 +1,5 @@
 [title]
-Isus e viu, a biruit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6VCSsLDTZz7uXCDXK8LNRG}, contentHash: {76b1e0}}
+Isus e viu, a biruit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6VCSsLDTZz7uXCDXK8LNRG}, contentHash: {a5e548}}
 
 [sequence]
 v1,c,v2,c
@@ -8,7 +8,7 @@ v1,c,v2,c
 Isus e viu, a biruit,
 Satan e înfrânt.
 În luptă El a fost învins,
-Isus e viu, o, Aleluia!
+Isus e viu, o, aleluia!
 Pe tronul slavei în veci El va domni.
 
 [c]
@@ -19,5 +19,5 @@ Isus este viu!
 Isus e Domn, a biruit,
 Satan e înfrânt.
 În luptă El a fost învins
-Isus e viu, o, Aleluia!
+Isus e viu, o, aleluia!
 Pe tronul slavei în veci El va domni.

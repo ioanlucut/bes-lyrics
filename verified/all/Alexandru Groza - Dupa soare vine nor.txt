@@ -1,5 +1,5 @@
 [title]
-După soare vine nor {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1445}, id: {15UDRQcw3NmLYbSuca6mia}, contentHash: {c7ed16}}
+După soare vine nor {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1445}, id: {15UDRQcw3NmLYbSuca6mia}, contentHash: {de9f08}}
 
 [sequence]
 v1,c,v2,c,e
@@ -12,15 +12,15 @@ Rugăciunea orișicând poate aduce rezolvare.
 
 [c]
 /: Când la cârma vieții e zi de zi numai Isus,
-Nu ne clătinăm de fel, nu ne poticnim pe cale.
+Nu ne clătinăm defel, nu ne poticnim pe cale.
 Căci la timp și ne la timp noi să ridicăm altare
-Presărându-le mereu, zi de zi pe a noastră cale. :/
+Presărându-le mereu, zi de zi pe-a noastră cale. :/
 
 [v2]
-Omul bun și în zile rele e tot bun ca în zile bune,
+Omul bun și-n zile rele e tot bun ca-n zile bune,
 Fața lui e tot senină, de e ploaie sau furtună.
-Fiindcă temelia lui nu îi zidită pe minciună
-Nu se clatină de fel, ea pe stâncă e zidită.
+Fiindcă temelia lui nu-i zidită pe minciună
+Nu se clatină defel, ea pe stâncă e zidită.
 
 [e]
 Amin!

@@ -1,5 +1,5 @@
 [title]
-Pe un deal, departe, stă o cruce veche {alternative: {*}, composer: {George Bennard}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5488}, id: {etiJYFG8A82CuAx3ANPPRU}, contentHash: {e3cdb1}}
+Pe un deal, departe, stă o cruce veche {alternative: {*}, composer: {George Bennard}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5488}, id: {etiJYFG8A82CuAx3ANPPRU}, contentHash: {6e0d68}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -26,10 +26,10 @@ A urcat crucea sus pe Calvar.
 În crucea lui Isus, stropită cu sânge,
 E glorioasa mea salvare
 Căci, de bună voie, pe ea murind, Isus
-Din păcat mi-a făcut scăpare.
+Din păcat m-a scăpat
 
 [v4]
 Deci, crucii lui Isus eu voi fi credincios
 Și orice suferințe voi răbda,
 Și cândva m-a chema, la locașul ceresc
-Unde-n glorie mă voi schimba.
+Unde-n glorie mă voi bucura.

@@ -1,5 +1,5 @@
 [title]
-Ca femeia din Sihar la fântână {alternative: {*}, composer: {Daniel Negrea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {835}, id: {2V1oLN9HThHkyzc9egwuvS}, contentHash: {64f628}}
+Ca femeia din Sihar la fântână {alternative: {*}, composer: {Daniel Negrea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {835}, id: {2V1oLN9HThHkyzc9egwuvS}, contentHash: {7aa223}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -8,22 +8,22 @@ v1,c,v2,c,v3,c
 Ca femeia din Sihar la fântână,
 Venit-am apă ca să scot,
 Dar vocea lui Isus răsună:
-„Din apa vieții ca să-ți dau, Eu pot!”
+„Din apa vieții ca să-ți dau Eu pot!”
 
 [c]
 /: Dă-mi, Isuse, apă vie,
 Stâmpără-mi Tu sufletul arzând!
-Cred, o, Doamne, că Tu ești profetul
+Cred, o, Doamne, că Tu ești Profetul
 Ce-ai adus iubirea pe pământ! :/
 
 [v2]
 Unde-i, Doamne, locul sfânt de-nchinare,
-În văi umbrite sau la munți?
+În văi umbrite sau în munți?
 O, nu, ci-n suflete smerite
 Și-n jertfa unei aplecate frunți!
 
 [v3]
-Prieten drag care cauți fericirea,
+Prieten drag ce cauți fericirea,
 Izvorul e-n Domnul Sfânt,
 Isus, divinul nostru Mire,
 Ce, din înalt, veni jos pe pământ.

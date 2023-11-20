@@ -1,5 +1,5 @@
 [title]
-Du-mă dincolo de porți {alternative: {*}, composer: {Adonia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103391}, id: {kwadF9dsAoQHt8fkTDoTFP}, contentHash: {9bbf83}}
+Du-mă dincolo de porți {alternative: {*}, composer: {Adonia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103391}, id: {kwadF9dsAoQHt8fkTDoTFP}, contentHash: {779233}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -25,8 +25,8 @@ Du-mă dincolo de oameni și de tot ce este rău,
 Tu ești Sfântul Dumnezeu!
 
 [v3]
-Tu ești sfânt, sfânt, sfânt și atotputernic,
-Înaintea Ta, Doamne mă-nchin,
-Tu ești sfânt, sfânt, sfânt și atotputernic!
+Tu ești sfânt, sfânt, sfânt și-atotputernic,
+Înaintea Ta, Doamne, mă-nchin,
+Tu ești sfânt, sfânt, sfânt și-atotputernic!
 /: Doamne, iartă-mă, Te rog primește-mă,
 Iartă-mă! :/

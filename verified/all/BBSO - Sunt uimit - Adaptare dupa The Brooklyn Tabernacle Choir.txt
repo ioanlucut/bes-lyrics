@@ -1,5 +1,5 @@
 [title]
-Sunt uimit {alternative: {Adaptare după The Brooklyn Tabernacle Choir}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {159137}, id: {31A6Fxbdakh2LKRJv5roHE}, contentHash: {b0c934}}
+Sunt uimit {alternative: {Adaptare după The Brooklyn Tabernacle Choir}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {159137}, id: {31A6Fxbdakh2LKRJv5roHE}, contentHash: {aa265c}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,c2
@@ -7,7 +7,7 @@ v1.1,v1.2,c,v2.1,v2.2,c,c2
 [v1.1]
 Cât de trist și pustiu era drumul
 Și durerea-n suflet nimeni n-o știa,
-Chiar de-am vrut să merg ’nainte fără Tine,
+Chiar de-am vrut să merg ‘nainte fără Tine,
 M-ascundeam atunci când Tu mă căutai.
 
 [v1.2]
@@ -32,7 +32,7 @@ Mă asculți când strig și lacrima o ștergi.
 [v2.2]
 Neclintit, rămâi cu mine, drag Isuse!
 Spui că-mi ești și prieten bun oricând.
-Eu nu mă tem să merg ’nainte prin furtună,
+Eu nu mă tem să merg ‘nainte prin furtună,
 Când mi-e greu, sunt ocrotit de mâna Ta!
 
 [c2]

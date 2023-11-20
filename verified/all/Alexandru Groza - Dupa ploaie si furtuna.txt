@@ -1,5 +1,5 @@
 [title]
-După ploaie și furtună {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3126}, id: {b5xNfw3Ctvw16vAYEmNmeA}, contentHash: {43b409}}
+După ploaie și furtună {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3126}, id: {b5xNfw3Ctvw16vAYEmNmeA}, contentHash: {312e64}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -35,4 +35,4 @@ Sufletu-ți înviorează,
 Dumnezeu te cercetează chiar acum.
 Nu lăsa să treacă clipa,
 Clipa mântuirii tale!
-Dă-I a ta viață, astăzi, cu Isus!
+Dă-I a ta viață, astăzi, lui Isus!

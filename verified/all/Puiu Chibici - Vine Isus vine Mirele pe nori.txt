@@ -1,5 +1,5 @@
 [title]
-Vine Isus, vine Mirele pe nori {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74238}, id: {cN9Zz3CMvFJznoWdTuvjvp}, contentHash: {392fb8}}
+Vine Isus, vine Mirele pe nori {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74238}, id: {cN9Zz3CMvFJznoWdTuvjvp}, contentHash: {7314d5}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -20,7 +20,7 @@ Cu oastea Sa din cer.
 /: Vine Isus, vine Mirele pe nori,
 Sunteți gata voi fecioare?
 Stați mereu în așteptare,
-Gata pentru întâmpinare. :/
+Gata pentru-ntâmpinare. :/
 
 [v2.1]
 E pregătire mare,
@@ -36,7 +36,7 @@ Te așteptăm cu dor!”
 
 [v3.1]
 Căci semnele ne-arată,
-Căci mult nu este,
+Că mult nu este,
 Curând se-arată zorii,
 Iar noaptea s-a sfârșit.
 

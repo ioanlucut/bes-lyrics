@@ -1,5 +1,5 @@
 [title]
-Când va începe nunta noastră {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2142}, id: {6HNXvJRZSakZBigryPzoXT}, contentHash: {f35e53}}
+Când va începe nunta noastră {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2142}, id: {6HNXvJRZSakZBigryPzoXT}, contentHash: {448d9f}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -9,7 +9,7 @@ Când va începe nunta noastră,
 În dimineața fără nori,
 O, când va-ncepe nunta noastră,
 Pe-ntreaga-ntindere albastră
-/: Va fi lumină și splendori. :/
+/: Vor fi lumină și splendori. :/
 
 [v2]
 Când fața Ta strălucitoare,
@@ -37,7 +37,7 @@ Ah, bucuriile-ntâlnirii
 Ce-n suflet, Doamne, vom simți,
 Ca bucuriile-ntâlnirii
 Și fericirea fericirii,
-/: N-a fost și nici nu va mai fi. :/
+/: N-au fost și nici nu vor mai fi. :/
 
 [v6]
 O, adu clipa așteptată

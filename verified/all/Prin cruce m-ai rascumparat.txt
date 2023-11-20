@@ -1,19 +1,19 @@
 [title]
-Prin cruce m-ai răscumpărat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hfMWgGd7chUi7oAsmY354f}, contentHash: {0fa884}}
+Prin cruce m-ai răscumpărat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hfMWgGd7chUi7oAsmY354f}, contentHash: {2aba97}}
 
 [sequence]
 v1,c,v2,c,e
 
 [v1]
 Fiu de om, fiu de Dumnezeu, Tu m-ai iubit.
-Miel preasfânt, prin ale Tale răni m-ai mântuit,
+Miel Preasfânt, prin ale Tale răni m-ai mântuit,
 În veci de veci ești înălțat!
 
 [c]
 Prin cruce m-ai răscumpărat,
 Prin sângele ce s-a vărsat
 Tu ai spălat și vina mea,
-Sunt mântuit prin crucea Ta!
+Sunt mântuit prin jertfa Ta!
 
 [v2]
 Ai plătit prețu-ntreg pentru păcatul greu,
@@ -21,5 +21,5 @@ Liber sunt, viață am primit, ești Domnul meu,
 În veci de veci ești înălțat!
 
 [e]
-Tu ești Mielul sfânt care-a fost zdrobit,
+Tu ești Mielul Sfânt care-a fost zdrobit,
 Tot ce am e al Tău, m-ai mântuit!

@@ -1,5 +1,5 @@
 [title]
-Sutașul {alternative: {*}, composer: {Cătălin Ciuculescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225535}, id: {kDfBWuyZsEpAwfkvfRC6uB}, contentHash: {042d34}}
+Sutașul {alternative: {*}, composer: {Cătălin Ciuculescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225535}, id: {kDfBWuyZsEpAwfkvfRC6uB}, contentHash: {e6859f}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -23,7 +23,7 @@ Se scurgeau stropi de sânge din trupul Tău,
 Ai strigat către Dumnezeu.
 
 [v4]
-„Tată, iartă-i căci nu știu ce fac!”
+„Tată, iartă-i, căci nu știu ce fac!”
 Înspre cer fruntea Ți-ai ridicat,
 Te-ai uitat și la mine și m-ai iubit,
 Ți-ai închis ochii și ai murit.

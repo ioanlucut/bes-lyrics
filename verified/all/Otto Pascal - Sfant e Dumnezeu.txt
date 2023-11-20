@@ -1,5 +1,5 @@
 [title]
-Sfânt e Dumnezeu {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167302}, id: {uELwQRuj1JZp3qmeFjZp8h}, contentHash: {550363}}
+Sfânt e Dumnezeu {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167302}, id: {uELwQRuj1JZp3qmeFjZp8h}, contentHash: {522f6c}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c
@@ -8,13 +8,13 @@ v1.1,v1.2,c,v2.1,v2.2,c,b,c
 Mă aplec în închinare,
 Vreau să Te-ntâlnesc Isus.
 Eu sunt slab, dar Tu ești tare
-Și sfânt, ești Sfânt!
+Și sfânt, ești sfânt!
 
 [v1.2]
 Ia-mă-n brațul Tău de tată,
 Când sunt urmărit de rău
 Și cu vocea tremurândă
-Să-Ți spun: ești Sfânt!
+Să-Ți spun: ești sfânt!
 
 [c]
 Cerul e deschis când Ție mă închin,
@@ -29,7 +29,7 @@ Duhul Tău să mă îndrume
 Noapte și zi!
 
 [v2.2]
-Înconjoară-mă cu Brațul
+Înconjoară-mă cu brațul
 Ce s-a-ntins pe crucea grea
 Și revarsă peste mine
 Prezența Ta!
@@ -38,4 +38,4 @@ Prezența Ta!
 Cerul s-a deschis, nu-s povești, nu-i vis,
 Inima El mi-a atins!
 Vreau cu îngerii să Îi cânt și eu:
-Sfânt e, Sfânt e Dumnezeu!
+Sfânt e, sfânt e Dumnezeu!

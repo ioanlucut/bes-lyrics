@@ -1,5 +1,5 @@
 [title]
-Nimic nu mă va despărți {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {161510}, id: {6oFLZyJrB33iRC8hRPBQy4}, contentHash: {f5c1f6}}
+Nimic nu mă va despărți {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {161510}, id: {6oFLZyJrB33iRC8hRPBQy4}, contentHash: {2f340d}}
 
 [sequence]
 v1,v2,p,c,v3,v4,p,c,v5,v6,p,c
@@ -26,7 +26,7 @@ Pe Isus Îl vom iubi.
 Nu-i nimic și nimeni în lume
 Să ne poată despărți,
 Vrem cu Isus să fim în slavă,
-Adă, Doamne-acea zi!
+Adu, Doamne-acea zi!
 
 [v3]
 În viață cânt și-s fericit

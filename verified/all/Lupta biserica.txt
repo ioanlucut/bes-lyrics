@@ -1,0 +1,35 @@
+[title]
+Luptă, biserică! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61629}, id: {ssYT6H6iHX6cMG6PNyZn4E}, contentHash: {9583ff}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
+
+[v1]
+/: Luptă biserică,
+Luptă, nu da înapoi!
+Plină de Duhul Sfânt
+Înainte, cu avânt. :/
+
+[c1.1]
+Luptați, luptați, rugați-vă,
+De Duhul Sfânt umpleți-vă!
+Pe Domnul Isus așteptați,
+Cu dragoste vă îmbrăcați!
+
+[c1.2]
+Luptați, luptați, rugați-vă,
+De Duhul Sfânt umpleți-vă!
+În Domnul Isus vă-ntăriți,
+În rugăciune stăruiți!
+
+[v2]
+/: Luptă biserică,
+Prin vânt, furtună grea,
+Isus este cu noi,
+Un pas nu da ‘napoi! :/
+
+[v3]
+/: Luptă biserică,
+Spre cer mereu privește
+Chiar dacă lupta-i grea,
+Înapoi niciodată nu da. :/

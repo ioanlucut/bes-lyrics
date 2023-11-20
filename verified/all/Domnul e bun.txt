@@ -1,5 +1,5 @@
 [title]
-Domnul e bun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sbREP6cNtGKJfig5fuoVWU}, contentHash: {842b8c}}
+Domnul e bun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sbREP6cNtGKJfig5fuoVWU}, contentHash: {4a1265}}
 
 [sequence]
 c,v1,c,v1
@@ -13,5 +13,5 @@ Domnul e bun, în veci de veci.
 [v1]
 Când mă gândesc la iubirea Sa
 În inima mea este mare bucurie,
-Căci pentru mine El s-a jertfit
+Căci pentru mine El S-a jertfit
 Și atât de mult m-a iubit.

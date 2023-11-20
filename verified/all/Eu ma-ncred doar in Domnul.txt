@@ -1,5 +1,5 @@
 [title]
-Eu mă-ncred doar în Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3840}, id: {prBBRn6cmNDEZY42xSRmw7}, contentHash: {fdd34e}}
+Eu mă-ncred doar în Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3840}, id: {prBBRn6cmNDEZY42xSRmw7}, contentHash: {190a26}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -17,7 +17,7 @@ Eu mă-ncred doar în Domnul,
 Pe Domnul slăvesc, ajutorul meu,
 El e slava mea și când drumu-i greu,
 Toate popoarele lumii să se-ncreadă-n El!
-Eu mă încred doar în Domnul,
+Eu mă-ncred doar în Domnul,
 Știu că nu greșesc.
 
 [v2]
@@ -31,7 +31,7 @@ Eu mă-ncred doar în Domnul,
 
 [v3]
 Eu mă-ncred doar în Domnul,
-În Duhul Său sfânt!
+În Duhul Său Sfânt!
 Eu mă-ncred doar în Domnul,
 Aici pe pământ!
 El e al meu turn în care la necaz alerg,

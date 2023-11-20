@@ -1,5 +1,5 @@
 [title]
-L-am întâlnit pe Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ezz3ixmTTeVnuMzKz4e6AD}, contentHash: {2822ba}}
+L-am întâlnit pe Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ezz3ixmTTeVnuMzKz4e6AD}, contentHash: {71baa0}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12
@@ -31,7 +31,7 @@ Nici sângele divin vărsat.
 [v5]
 M-a mângâiat duios pe frunte
 Și mi-a zâmbit, apoi mi-a zis:
-„Doar cine crede-n Înviere
+„Doar cine crede-n înviere
 Va fi cu Mine-n Paradis.”
 
 [v6]
@@ -53,7 +53,7 @@ Prin moarte lentă va produce
 Un rod de hrană însutit.
 
 [v9]
-Apoi s-a dus. Erau și alții
+Apoi S-a dus. Erau și alții
 Ce așteptau să fie-atinși
 De-a Lui privire dulce, caldă,
 Să poat-apoi fi neînvinși.
@@ -66,8 +66,8 @@ Unde fusese îngropat
 
 [v11]
 Nicicând nu voi uita-ntâlnirea
-Ce am avut-o, doar în gând,
-În dimineața Învierii
+Ce am avut-o doar în gând,
+În dimineața învierii
 Cu Cel ce mi-e Păstorul blând.
 
 [v12]

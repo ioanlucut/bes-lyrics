@@ -1,5 +1,5 @@
 [title]
-Prețuiește timpul {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180471}, id: {cP1TJa4eoCnUbkx13Arhn6}, contentHash: {f49d67}}
+Prețuiește timpul {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180471}, id: {cP1TJa4eoCnUbkx13Arhn6}, contentHash: {19d8f5}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -11,7 +11,7 @@ Clipele sublime vin din cer!
 Dumnezeu cel Sfânt în dar ți-a dat.
 
 [c]
-Prețuiește timpul care l-ai primit,
+Prețuiește timpul pe care l-ai primit,
 Nu îl irosi cu lucruri de nimic!
 Nu-ngropa talantul, împarte zâmbetul
 Zi de zi la cei din jur!
@@ -24,6 +24,6 @@ Vei ajunge-n veci cu Dumnezeu!
 
 [b]
 Tot ce ești și tot ce ai, nu-i al tău!
-Nici măcar secunda ce clipești,
+Nici măcar secunda în care clipești,
 Nu ai vrea ca timpul tău să-l dăruiești
-Acelui ce te-a creat?
+Aceluia ce te-a creat?

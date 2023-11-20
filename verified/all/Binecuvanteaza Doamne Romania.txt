@@ -1,5 +1,5 @@
 [title]
-Binecuvântează, Doamne, România! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2785}, id: {hdMoDm9oyBr4CbCbhQjLbT}, contentHash: {81316e}}
+Binecuvântează, Doamne, România! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2785}, id: {hdMoDm9oyBr4CbCbhQjLbT}, contentHash: {369350}}
 
 [sequence]
 c,v1,c,v2,c
@@ -17,7 +17,7 @@ Ajută-ne să Te cunoaștem,
 Să Te-ascultăm, Doamne, să Te iubim.
 
 [v2]
-Suntem flămânzi, Doamne, de Tine!
+Suntem flămânzi, Doamne, după Tine!
 Pâinea vieții doar Tu ne-o poți da.
-Suntem setoși de neprihănire,
+Suntem setoși după neprihănire,
 Lasă să plouă apa vieții-n țara mea.

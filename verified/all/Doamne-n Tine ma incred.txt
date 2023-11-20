@@ -1,5 +1,5 @@
 [title]
-Doamne-n Tine mă încred {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3115}, id: {mreFxv5Myv1Ze6YXwF58Mb}, contentHash: {55c8d2}}
+Doamne-n Tine mă încred {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3115}, id: {mreFxv5Myv1Ze6YXwF58Mb}, contentHash: {2e0e14}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -10,7 +10,7 @@ Căci Tu ești al meu Păstor,
 Lipsă de nimic nu voi duce
 Căci prin Tine hrană am.
 Ești singurul ajutor,
-Cel ce viață dă la oricine.
+Cel ce viață dă oricui.
 
 [c]
 /: Eu mă las acum, Isus,
@@ -18,15 +18,15 @@ Pe brațul Tău sfânt,
 Mă las în a Ta-ngrijire. :/
 
 [v2]
-Chiar de ar fi eu ca să trec
+Chiar de-ar fi eu ca să trec
 Prin a umbrei morții văi,
-Teamă de nimic nu îmi este.
+Teamă de nimic nu-mi este.
 Căci cu Tine eu când merg,
 Niciun rău nu-mi poate fi,
 Cât de bine e lângă Tine.
 
 [v3]
-Când cel rău ’nainte-mi stă
+Când cel rău ‘nainte-mi stă
 Eu la Tine apelez.
 Știu că Tu asculți a mea rugă,
 Viața mea Tu o lungești,

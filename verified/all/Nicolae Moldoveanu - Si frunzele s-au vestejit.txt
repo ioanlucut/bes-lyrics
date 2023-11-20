@@ -1,5 +1,5 @@
 [title]
-Și frunzele s-au veștejit {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5547}, id: {4rfmVLUG2CptXdjFVj2gaM}, contentHash: {6fe31f}}
+Și frunzele s-au veștejit {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5547}, id: {4rfmVLUG2CptXdjFVj2gaM}, contentHash: {cf449b}}
 
 [sequence]
 v1,c,v2,c2,v3,e
@@ -13,7 +13,7 @@ Toate se duc în viitor.
 [c]
 Și tu ești o floare, să știi,
 Oricine în lume ai fi,
-Odată în praf la pământ
+Odată în praf, la pământ,
 Cădea-vei ca frunza în vânt.
 
 [v2]

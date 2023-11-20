@@ -1,5 +1,5 @@
 [title]
-Dar trece noaptea {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6674}, id: {bC7qymb1ocSoqTpkTdeVr4}, contentHash: {472744}}
+Dar trece noaptea {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6674}, id: {bC7qymb1ocSoqTpkTdeVr4}, contentHash: {b63804}}
 
 [sequence]
 v1,c,v2,c
@@ -7,14 +7,14 @@ v1,c,v2,c
 [v1]
 Cu toții sunt triști, nu spun nimic căci visul măreț s-a sfârșit.
 Prietenul lor, iubitul Isus, a fost de curând răstignit.
-Și tot ce-a făcut, tot ce-a promis, s-au dus spulberate în vânt,
+Și tot ce-a făcut, tot ce a promis, s-a dus spulberat în vânt,
 Ce groaznic sfârșit, coșmar de ne-nvins,
 Ah, cât este noaptea de grea!
 
 [c]
 Dar trece noaptea, zorii se ivesc,
 Hristos a înviat pentru vecii!
-Speranța vieții, răsare pentru nou
+Speranța vieții răsare pentru noi
 Căci viața a biruit în zori de zi.
 
 [v2]

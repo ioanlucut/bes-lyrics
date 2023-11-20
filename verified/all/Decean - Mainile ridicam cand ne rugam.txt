@@ -1,5 +1,5 @@
 [title]
-Mâinile ridicăm când ne rugăm {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4317}, id: {jsa2wDaH3LwvrtY8bCPzg6}, contentHash: {d780a5}}
+Mâinile ridicăm când ne rugăm {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4317}, id: {jsa2wDaH3LwvrtY8bCPzg6}, contentHash: {43ae7a}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,e
@@ -27,7 +27,7 @@ Numai Tu, numai Tu.
 [v2.1]
 Mâinile ridicăm, Numele Tău chemăm,
 Am venit, Doamne, aici Ție să ne-nchinăm!
-Ești doar Tu!
+Sfânt ești doar Tu!
 
 [v2.2]
 Te-adorăm doar pe Tine, Te lăudăm,
@@ -35,7 +35,7 @@ Numai Tu ești Dumnezeu,
 Numai Tu, numai Tu.
 
 [e]
-Ești doar Tu.
+Sfânt ești doar Tu.
 Te-adorăm doar pe Tine, Te lăudăm,
 Numai Tu ești Dumnezeu,
 Numai Tu, numai Tu.

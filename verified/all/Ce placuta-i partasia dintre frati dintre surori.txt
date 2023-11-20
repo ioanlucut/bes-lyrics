@@ -1,5 +1,5 @@
 [title]
-Ce plăcută-i părtășia dintre frați, dintre surori {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {95404}, id: {xy5rAzPbDrAg5HuQWHn3yv}, contentHash: {864371}}
+Ce plăcută-i părtășia dintre frați, dintre surori {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {95404}, id: {xy5rAzPbDrAg5HuQWHn3yv}, contentHash: {598741}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -25,7 +25,7 @@ Unitate e acolo, bucurie-n Duhul Sfânt
 [v3]
 Ce plăcută-i părtășia când lipsește-orice păcat,
 Iar pe față bucuria radiază ne-ncetat.
-Când simțim prezența vie a tot ce-i Dumnezeiesc,
+Când simțim prezența vie a tot ce-i dumnezeiesc,
 Părtășia se transformă în ceva sublim, ceresc.
 
 [v4]

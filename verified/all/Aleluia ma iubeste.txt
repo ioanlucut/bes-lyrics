@@ -1,12 +1,12 @@
 [title]
-Aleluia, mă iubește {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2wkTMnP6Sa5wAihQnAfNnp}, contentHash: {ab7ea6}}
+Aleluia, mă iubește {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2wkTMnP6Sa5wAihQnAfNnp}, contentHash: {857438}}
 
 [sequence]
 v1,v2
 
 [v1]
-/: Aleluia, Aleluia, Aleluia, Aleluia :/
-Aleluia, Aleluia, Aleluia, Aleluia
+/: Aleluia, aleluia, aleluia, aleluia :/
+Aleluia, aleluia, aleluia, aleluia
 
 [v2]
 /: Mă iubește, mă iubește,

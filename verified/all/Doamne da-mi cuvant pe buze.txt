@@ -1,5 +1,5 @@
 [title]
-Doamne, dă-mi cuvânt pe buze {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {108410}, id: {q65JQqCJQfeAFpqpCuZdUH}, contentHash: {df2570}}
+Doamne, dă-mi cuvânt pe buze {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {108410}, id: {q65JQqCJQfeAFpqpCuZdUH}, contentHash: {91077f}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -13,13 +13,13 @@ La care-nsetat eu vin.
 [c]
 /: Nici chiar picurul de miere,
 Ce din faguri e luat,
-N-are el dulceața care
+N-are-n el dulceața care
 În Cuvânt eu am aflat. :/
 
 [v2]
 Am atâta bucurie
 Când trăiesc Cuvântul Tău.
-El mă apropie de Tine
+El m-apropie de Tine
 Mă ferește de-orice rău.
 
 [v3]

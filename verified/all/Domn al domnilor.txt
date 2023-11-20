@@ -1,16 +1,16 @@
 [title]
-Domn al domnilor {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4221}, id: {jHkzDWRDrjxmiTgfx8w68f}, contentHash: {240fd7}}
+Domn al domnilor {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4221}, id: {jHkzDWRDrjxmiTgfx8w68f}, contentHash: {f7c105}}
 
 [sequence]
 v1,c,e
 
 [v1]
 /: Domn al domnilor, Rege-al regilor,
-Glorie, Aleluia! :/
+Glorie, aleluia! :/
 
 [c]
 /: Isus, Prinț al păcii,
-Glorie, Aleluia! :/
+Glorie, aleluia! :/
 
 [e]
-Glorie, Aleluia!
+Glorie, aleluia!

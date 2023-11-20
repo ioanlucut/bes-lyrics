@@ -1,5 +1,5 @@
 [title]
-Chemați, prin cântări, bucuria! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2161}, id: {3KmpRPScTKp3LUriVn9PzL}, contentHash: {0ee17b}}
+Chemați, prin cântări, bucuria! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2161}, id: {3KmpRPScTKp3LUriVn9PzL}, contentHash: {1b7997}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
@@ -20,7 +20,7 @@ Te umple de sfinte puteri. :/
 Trezește-te azi, tu, țărână!
 Și suflet și duh vă treziți
 Și harfă și tu alăută,
-Cu toate-ntr-un glas vă uniți.
+Cu toate-ntr-un glas vă uniți!
 
 [v2.2]
 /: Căci Tatăl găsește plăcere
@@ -43,7 +43,7 @@ Cântarea va pune pe fugă
 [v4.1]
 Mereu bucurați-vă-n toate
 Că-n toate afla-veți cântări
-Și-n ele-aripi ca să vă poarte
+Și-n ele-aripi să vă poarte
 Spre tot mai seninele zări.
 
 [v4.2]

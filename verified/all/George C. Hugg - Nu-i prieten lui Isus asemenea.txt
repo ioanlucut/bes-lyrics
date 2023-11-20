@@ -1,12 +1,12 @@
 [title]
-Nu-i prieten lui Isus asemenea {alternative: {*}, composer: {George C. Hugg}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4026}, id: {oe2fTQ4NgB7fgwJh4zDXQf}, contentHash: {8d67d1}}
+Nu-i prieten lui Isus asemenea {alternative: {*}, composer: {George C. Hugg}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4026}, id: {oe2fTQ4NgB7fgwJh4zDXQf}, contentHash: {cad3c0}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
 Nu-i prieten lui Isus asemenea,
-Nimenea, nimenea.
+Nimeni nu-i, nimeni nu-i.
 Nimeni nu poate ca El vindeca
 Nimenea, nimenea.
 
@@ -14,22 +14,22 @@ Nimenea, nimenea.
 Isus ne știe pe noi mai bine
 El poate să ne ajute,
 Nu-i prieten lui Isus asemenea,
-Nimenea, nimenea.
+Nimeni nu-i, nimeni nu-i.
 
 [v2]
 Nu-i sfânt, nu-i tare ca El nimenea,
-Nimenea, nimenea.
+Nimeni nu-i, nimeni nu-i.
 Nu e aproape ca El nimenea,
-Nimenea, nimenea.
+Nimeni nu-i, nimeni nu-i.
 
 [v3]
 Cine ca El te va păstra așa?
 Nimenea, nimenea.
 Nu este cine a iubi așa
-Nimenea, nimenea.
+Nimeni nu-i, nimeni.
 
 [v4]
 Lăsatu-i-a El pe ai Săi cândva?
-Nicicând nu, nicicând nu
+Nicicând nu, nicicând nu.
 Scos-a El afară pe cineva?
 Nicicând nu, nicicând nu.

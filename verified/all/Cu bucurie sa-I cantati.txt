@@ -1,5 +1,5 @@
 [title]
-Cu bucurie să-I cântați {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bEKtEBiobKtG12NdvFydX9}, contentHash: {197c2e}}
+Cu bucurie să-I cântați {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bEKtEBiobKtG12NdvFydX9}, contentHash: {00b21e}}
 
 [sequence]
 v1,v2,v3
@@ -20,7 +20,7 @@ Cu drag El să-și găsească loc!
 
 [v3]
 În măreție va domni
-Cu-ai Săi răscumpărați!
+Cu-ai săi răscumpărați!
 Veniți cu toți să-L adorăm
 /: Și să-L slujim pe El! :/
 Veniți, să Îl slujim pe El.

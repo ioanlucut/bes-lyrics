@@ -1,5 +1,5 @@
 [title]
-Eu voi cânta {alternative: {*}, composer: {Ioan Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {67326}, id: {vZqSHbH13TpcsZGdHHJMz3}, contentHash: {8d3128}}
+Eu voi cânta {alternative: {*}, composer: {Ioan Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {67326}, id: {vZqSHbH13TpcsZGdHHJMz3}, contentHash: {c33124}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -36,5 +36,5 @@ De necaz nu mă tem, eu mă-ncred în El,
 [v2.2]
 De aceea Îi cânt și-L urmez doar pe El,
 Lumea nu mă va mai schimba
-Și în slava voi sta
-Și ÎL voi lăuda, pe regele Emanuel!
+Și în slavă voi sta
+Și Îl voi lăuda, pe Regele Emanuel!

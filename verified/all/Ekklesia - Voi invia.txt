@@ -1,5 +1,5 @@
 [title]
-Voi învia {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214230}, id: {mpG58KMZETaa7cv1QTqzRK}, contentHash: {d83996}}
+Voi învia {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214230}, id: {mpG58KMZETaa7cv1QTqzRK}, contentHash: {28a466}}
 
 [sequence]
 v1,b,c,v2,c,e
@@ -18,7 +18,7 @@ Victoria e-a Lui, înviat e dintre morți!
 Și din mormânt, când mă va chema,
 Fără lacrimi, făr’ dureri,
 Voi ieși să-ngenunchez,
-Să zbor spre El, ’naintea Lui,
+Să zbor spre El, ‘naintea Lui,
 Spălat, înviat!
 
 [v2]

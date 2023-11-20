@@ -1,5 +1,5 @@
 [title]
-În Isus găsești răspunsul {alternative: {Come to Jesus}, composer: {Carol Cymbala}, writer: {Carol Cymbala}, arranger: {BBSO}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ntYusEsdMGegQLEXGuNffh}, contentHash: {b09260}}
+În Isus găsești răspunsul {alternative: {Come to Jesus}, composer: {Carol Cymbala}, writer: {Carol Cymbala}, arranger: {BBSO}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ntYusEsdMGegQLEXGuNffh}, contentHash: {287187}}
 
 [sequence]
 v1,c,v2,c
@@ -18,7 +18,7 @@ Te așteaptă în mila Sa!
 Hai la El, nu amâna!
 
 [v2]
-Spune-i Lui a ta durere,
+Spune-I Lui a ta durere,
 El te poate ajuta.
 Îți va da din nou speranță,
 Îți va șterge lacrima!

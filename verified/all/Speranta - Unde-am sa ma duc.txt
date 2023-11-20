@@ -1,5 +1,5 @@
 [title]
-Unde-am să mă duc {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {81307}, id: {o3Q7z2cZakzvk2BiQ1iEd9}, contentHash: {443339}}
+Unde-am să mă duc {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {81307}, id: {o3Q7z2cZakzvk2BiQ1iEd9}, contentHash: {71ab17}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -25,5 +25,5 @@ Unde-am să mă duc, decât la Hristos?
 [v3]
 Nu-i nimeni ca Tine, o Doamne!
 Nu-i nimeni ca Tine, mereu!
-Ești Dumnezeu din veșnicii! Ești Rege al Cerului!
-Împărat al Universului! În veci de veci vei stăpâni.
+Ești Dumnezeu din veșnicii! Ești Rege al cerului!
+Împărat al Universului, în veci de veci vei stăpâni.

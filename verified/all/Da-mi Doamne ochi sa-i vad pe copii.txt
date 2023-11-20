@@ -1,5 +1,5 @@
 [title]
-Dă-mi, Doamne, ochi să-i văd pe copii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {x1oA3hbgZKhsSN6xQ4iH5K}, contentHash: {20ae9f}}
+Dă-mi, Doamne, ochi să-i văd pe copii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {x1oA3hbgZKhsSN6xQ4iH5K}, contentHash: {8aa74c}}
 
 [sequence]
 v1,v2,v3,v4
@@ -14,7 +14,7 @@ Al Tău serv credincios să fiu tot mai mult.
 Dă-mi, Doamne, suflet, un dor nesecat,
 Să îi învăț pe copii neîncetat,
 Să le fiu martor prin tot ce rostesc,
-Dă-mi, Tu, putere, prin Duhul ceresc.
+Dă-mi, Tu, putere, prin Duhul Ceresc.
 
 [v3]
 Arată-mi calea pe care s-alerg,

@@ -1,5 +1,5 @@
 [title]
-A bătut la ușa ta Cineva {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6774}, id: {cixiKhqcyTtpAp2gQ2ZZFt}, contentHash: {72a99c}}
+A bătut la ușa ta Cineva {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6774}, id: {cixiKhqcyTtpAp2gQ2ZZFt}, contentHash: {21220b}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -22,16 +22,16 @@ Rana de pe umăr? :/
 
 [v3]
 /: Eu sunt Robul ce slujesc tuturor,
-Un om al durerilor. :/
+Un Om al durerilor. :/
 Nimeni plată nu Mi-a dat,
 Decât spini și ură.
 /: Numai roșii trandafiri,
 Pieptul Mi-l umplură. :/
 
 [v4]
-/: Eu sunt Pâinea ce s-a frânt lumii-ntregi
+/: Eu sunt Pâinea ce S-a frânt lumii-ntregi
 Și sunt Vinul noii legi. :/
-N-am venit să plâng în drum
+N-am venit să-Mi plâng în drum
 Răni usturătoare,
 /: Plâng pe-acei ce pierd acum
 Ultima chemare. :/

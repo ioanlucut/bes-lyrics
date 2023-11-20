@@ -1,5 +1,5 @@
 [title]
-Stropi de fericire {alternative: {*}, composer: {Andreea Popoi}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2829}, id: {bi2FkzFJ6SvhyhaVazJMLQ}, contentHash: {f67a0b}}
+Stropi de fericire {alternative: {*}, composer: {Andreea Popoi}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2829}, id: {bi2FkzFJ6SvhyhaVazJMLQ}, contentHash: {9a1aed}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -24,7 +24,7 @@ Mire, ai aleasă albă și frumoasă,
 Floare dalbă printre flori,
 Lacrimi de iubire,
 Stropi de fericire,
-Cer cu soare fără nor.
+Cer cu soare fără nori.
 
 [v3]
 Draga mea mireasă,
@@ -37,4 +37,4 @@ Plină doar de bucurii!
 Să trăiești smerită, să fii fericită
 Căci El este Domnul tău.
 Și în veșnicie, plină de bucurie
-Veți sta lângă Dumnezeu.
+Vei sta lângă Dumnezeu.

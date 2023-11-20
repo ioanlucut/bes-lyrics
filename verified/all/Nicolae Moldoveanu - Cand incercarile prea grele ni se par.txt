@@ -1,5 +1,5 @@
 [title]
-Când încercările prea grele ni se par {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5690}, id: {vB7wMr7hxjCaP7t68huFLf}, contentHash: {43d3d5}}
+Când încercările prea grele ni se par {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5690}, id: {vB7wMr7hxjCaP7t68huFLf}, contentHash: {aeaea0}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c
 [v1]
 Când încercările prea grele ni se par
 Și zilele prea lungi, poverile prea mari,
-Ne mângâie Isus, El se va arăta
+Ne mângâie Isus, El Se va arăta
 Să-și ia pe nori Mireasa, să-i șteargă lacrima.
 
 [c]
@@ -19,7 +19,7 @@ Deci, luptător fii treaz, nu dispera! :/
 [v2]
 Sub cerul furtunos, când rănile mă dor,
 De valuri încercat când stau făr’ ajutor,
-E cineva în cer ce știe gândul meu.
+E Cineva în cer ce știe gândul meu.
 El vine printre valuri să-Și scape fiul Său.
 
 [v3]

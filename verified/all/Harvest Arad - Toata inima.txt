@@ -1,5 +1,5 @@
 [title]
-Toată inima {alternative: {*}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {161200}, id: {8CqF87M3sUm677Pzt1fVxc}, contentHash: {36e712}}
+Toată inima {alternative: {*}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {161200}, id: {8CqF87M3sUm677Pzt1fVxc}, contentHash: {5c6e8f}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -10,7 +10,7 @@ Tot ce-ai promis adu-mi aminte.
 Teama să o-nfrunt cu-al Tău Cuvânt!
 Spulberă bezna-n jurul meu!
 Când trec prin văi, ridică-mi fruntea,
-Printre lacrimi, fii Plăcerea mea!
+Printre lacrimi, fii plăcerea mea!
 
 [c]
 Toată inima eu o las în grija Ta!
@@ -25,6 +25,6 @@ Chiar aici, chiar acum!
 
 [b]
 Nu e nimic să poată să mă frângă,
-Ești Nădejdea mea!
+Ești nădejdea mea!
 Orice-ar veni în cale, neclintit sunt:
-Ești Nădejdea mea!
+Ești nădejdea mea!

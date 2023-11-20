@@ -1,5 +1,5 @@
 [title]
-A mai trecut un an {alternative: {*}, composer: {Laud}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {244309}, id: {h8m3DZFrZ5xd1SqmpVF8DT}, contentHash: {eec2ed}}
+A mai trecut un an {alternative: {*}, composer: {Laud}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {244309}, id: {h8m3DZFrZ5xd1SqmpVF8DT}, contentHash: {17903c}}
 
 [sequence]
 v1,c,v2,c
@@ -27,5 +27,5 @@ Toate erau în mâna Ta.
 Iubire Tu mi-ai arătat,
 Inima mi-ai înălțat!
 În toate Tu m-ai binecuvântat,
-Vreau acum la sfârșit de an,
+Vreau acum, la sfârșit de an,
 O rugă să-Ți înalț și să-Ți spun:

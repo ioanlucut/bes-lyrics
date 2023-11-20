@@ -1,5 +1,5 @@
 [title]
-Golgota de-ar vorbi, Golgota de-ar vorbi {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5482}, id: {nNCdgRx2k3YAdawphoagZm}, contentHash: {a22de3}}
+Golgota de-ar vorbi, Golgota de-ar vorbi {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5482}, id: {nNCdgRx2k3YAdawphoagZm}, contentHash: {439036}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2
@@ -26,4 +26,4 @@ Unde Hristos Și-a dat viața Sa, la Golgota.
 Era disprețuit, era batjocorit,
 Corpul Său era doar răni și vânătăi.
 Din fruntea Sa curgea sânge nevinovat
-Pentru tine și-al meu păcat.
+Pentru al tău și-al meu păcat.

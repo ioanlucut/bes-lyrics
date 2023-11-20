@@ -1,0 +1,31 @@
+[title]
+Doamne bun {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230300}, id: {9RxMXToh69yvtBSKqmm1aF}, contentHash: {7df1c9}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Cum pot să bat cu pumnu-n piept
+Să spun ca sunt creștin
+Când țin departe legământul
+Ce mă leagă de Țin’.
+De încercat aș fii ca Iov
+De-aș ține în picioare
+Nădejdea, dragostea, credința
+La fel până la moarte.
+
+[v2]
+Doar prin Hristos, puternic sunt
+Și crucea am s-o port
+Aici jos lacrimile-a șters
+Și m-a-nvățat să lupt.
+Înțelepciune îmi va da,
+Căci Dumnezeul ce mă ține
+Iubește ai Săi copii.
+
+[e]
+Doar Domnul îmi da puteri
+Si-n necaz eu voi biruii
+Minunat e Cel cea fost
+Și este din veșnicii
+Din veșnicii

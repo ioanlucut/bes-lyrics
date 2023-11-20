@@ -1,5 +1,5 @@
 [title]
-A Ta e domnia și puterea {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {93393}, id: {akNSpndFuNmTry61pQDEeG}, contentHash: {70d719}}
+A Ta e domnia și puterea {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {93393}, id: {akNSpndFuNmTry61pQDEeG}, contentHash: {c335e7}}
 
 [sequence]
 v1,p,c,v1,p,c
@@ -22,7 +22,7 @@ Tot pământul va cânta:
 
 [c]
 Și pământul întreg Te va-nălța,
-Pentru totdeauna,
+Pentru totdeauna.
 Numele Tău sfânt va fi lumină mereu
 Fiindcă slava e a Ta,
 Pentru totdeauna, slava e a Ta!

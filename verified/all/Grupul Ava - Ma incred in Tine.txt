@@ -1,5 +1,5 @@
 [title]
-Mă încred în Tine {alternative: {*}, composer: {Grupul Ava}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {127029}, id: {1NnY5u4w6jucArczypWtCY}, contentHash: {c3f26a}}
+Mă încred în Tine {alternative: {*}, composer: {Grupul Ava}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {127029}, id: {1NnY5u4w6jucArczypWtCY}, contentHash: {7dfd69}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -7,19 +7,19 @@ v1.1,v1.2,c,v2.1,v2.2,c
 [v1.1]
 La Tine vin, o, Doamne,
 Să îmi plâng păcatul meu
-Că prin puterea-Ți mare,
+Căci prin puterea-Ți mare,
 Mă păzești pe drumul greu.
 
 [v1.2]
-O, vina mi-a fost mare!
-Tu mult ai suferit
-Să pot primi iertarea.
+O, vina mi-a fost mare,
+Tu mult ai suferit!
+Să pot primi iertarea,
 Tu fost-ai răstignit.
 
 [c]
 Mă încred în Tine, Doamne,
 Al meu Mântuitor,
-Că la nevoi și bine
+Căci la nevoi și bine
 Tu ești al meu Păstor.
 
 [v2.1]
@@ -30,6 +30,6 @@ Doresc mereu să zbor.
 
 [v2.2]
 Eliberat sunt pe vecie
-Prin al Tău Sânge sfânt,
+Prin al Tău sânge sfânt,
 Slăvită jertfa-Ți fie
 În cer și pe pământ.

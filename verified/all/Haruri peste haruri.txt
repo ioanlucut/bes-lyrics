@@ -1,5 +1,5 @@
 [title]
-Haruri peste haruri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jqrkZdUqQ5dtNAnDLMLQAQ}, contentHash: {4bdf40}}
+Haruri peste haruri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jqrkZdUqQ5dtNAnDLMLQAQ}, contentHash: {6bfe66}}
 
 [sequence]
 v1,c1.1,c1.2,v1,c1.1,c1.2
@@ -18,6 +18,6 @@ Spre Tine mâini întinse ridicăm
 
 [c1.2]
 Haruri peste haruri,
-Haruri se revarsă
+Haruri se revarsă,
 Curgând peste noi toți,
 Haruri peste haruri.

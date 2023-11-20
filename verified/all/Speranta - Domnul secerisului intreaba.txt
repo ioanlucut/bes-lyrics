@@ -1,5 +1,5 @@
 [title]
-Domnul secerișului întreabă {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3109}, id: {d8Lsr1PvZTdRYRKiTFS5mc}, contentHash: {b53414}}
+Domnul secerișului întreabă {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3109}, id: {d8Lsr1PvZTdRYRKiTFS5mc}, contentHash: {acfe59}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -31,5 +31,5 @@ Mergeți și-i chemați, acuma chiar!
 [v4]
 Timpul secerișului se duce,
 Ușa harului se va-ncuia.
-Nu vreți voi toți oamenii să apuce
+Nu vreți voi toți oamenii s-apuce
 Fericirea de-a intra pe ea?

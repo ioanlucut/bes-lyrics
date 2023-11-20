@@ -1,5 +1,5 @@
 [title]
-Isus, viața noastră, noi pe Tine Te mărim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1466}, id: {wK3CLCGFsx5Nay66YVmysi}, contentHash: {baf65c}}
+Isus, viața noastră, noi pe Tine Te mărim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1466}, id: {wK3CLCGFsx5Nay66YVmysi}, contentHash: {f3fd8e}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -17,10 +17,10 @@ De-aceea Îți cântăm:
 Aleluia!
 
 [c]
-Glorie, glorie, Aleluia!
-Glorie, glorie, Aleluia!
-Glorie, glorie, Aleluia!
-Părintelui ceresc, Aleluia!
+Glorie, glorie, aleluia!
+Glorie, glorie, aleluia!
+Glorie, glorie, aleluia!
+Părintelui ceresc, aleluia!
 
 [v2.1]
 Din clipa când în viața noastră

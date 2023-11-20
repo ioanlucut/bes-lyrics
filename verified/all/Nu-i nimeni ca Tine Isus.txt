@@ -1,5 +1,5 @@
 [title]
-Nu-i nimeni ca Tine, Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225847}, id: {eyVWGDr7PiUePk9xytunXZ}, contentHash: {036d70}}
+Nu-i nimeni ca Tine, Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225847}, id: {eyVWGDr7PiUePk9xytunXZ}, contentHash: {f6c5e2}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -7,29 +7,29 @@ v1,v2,v3,v4,v5
 [v1]
 /: Nu-i nimeni ca Tine, Isus :/
 /: În nopți de durere
-Să dai mângâiere,
-Nu-i nimeni ca Tine, Isus. :/
+Să dea mângâiere,
+Nu-i nimeni ca Tine, Isus! :/
 
 [v2]
 /: Nu-i nimeni ca Tine, Isus, :/
 /: Nu-i nimeni ca Tine
 Să șteargă suspine,
-Nu-i nimeni ca Tine, Isus. :/
+Nu-i nimeni ca Tine, Isus! :/
 
 [v3]
 /: Nu-i nimeni ca Tine, Isus, :/
 /: S-aducă iertare
 Și eliberare,
-Nu-i nimeni ca tine, Isus. :/
+Nu-i nimeni ca tine, Isus! :/
 
 [v4]
 /: Nu-i nimeni ca Tine, Isus, :/
 /: S-aducă lumina,
 Să mustre furtuna,
-Nu-I nimeni ca Tine, Isus. :/
+Nu-i nimeni ca Tine, Isus! :/
 
 [v5]
 /: Nu-i nimeni ca Tine, Isus, :/
 /: S-aducă credință,
 Să dea biruință,
-Nu-i nimeni ca Tine, Isus. :/
+Nu-i nimeni ca Tine, Isus! :/

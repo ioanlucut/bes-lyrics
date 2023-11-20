@@ -1,5 +1,5 @@
 [title]
-Vestea bună îngerii-au adus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59253}, id: {4rmCHH98MnztWBFxkDRJDY}, contentHash: {e079db}}
+Vestea bună îngerii-au adus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59253}, id: {4rmCHH98MnztWBFxkDRJDY}, contentHash: {faf0fa}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -18,7 +18,7 @@ Numele Lui fie lăudat! :/
 
 [v2]
 Saltă, Betleeme, mic oraș,
-Azi în Tin’ se naște-un Copilaș.
+Azi în Tin’ Se naște-un Copilaș.
 Mântuirea la noi a venit,
 Domnul cerului fie slăvit.
 

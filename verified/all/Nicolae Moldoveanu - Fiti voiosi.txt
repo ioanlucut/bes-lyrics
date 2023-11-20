@@ -1,5 +1,5 @@
 [title]
-Fiți voioși {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5668}, id: {vjAPMvyCrc7XxuKBGTCPDm}, contentHash: {c7c35e}}
+Fiți voioși {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5668}, id: {vjAPMvyCrc7XxuKBGTCPDm}, contentHash: {d890ec}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -8,10 +8,10 @@ v1,c,v2,c,v3,c
 Fiți voioși, fiți voioși totdeauna,
 Lăudându-L pe Domnul mereu,
 De ne-ncredem puternic în Domnul,
-Nu ne-nvinge nicicând, niciun rău.
+Nu ne-nvinge nicicând niciun rău.
 
 [c]
-Nu-i furtună să clatine stânca,
+Nu-i furtună să clatine Stânca,
 Cea pe care noi suntem zidiți,
 Fiți voioși, noi suntem totdeauna
 De Isus, de Isus ocrotiți.
@@ -20,10 +20,10 @@ De Isus, de Isus ocrotiți.
 Fiți voioși chiar și-atunci când necazul
 Și-ncercarea în voi va lovi,
 Mai frumoasă-i cântarea cu lacrimi,
-Mai ceresc e răbdând, a trăi.
+Mai ceresc e răbdând a trăi.
 
 [v3]
-Fiți voioși că-n curând pe vecie
+Fiți voioși că-n curând, pe vecie,
 Veți uita c-ați mai plâns pe pământ,
 Fiți voioși că-n curând cerul slavei
 Răsuna-va și de-al vostru cânt.

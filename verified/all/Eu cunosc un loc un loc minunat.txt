@@ -1,12 +1,12 @@
 [title]
-Eu cunosc un loc un loc minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6kYbthwUWMjLPSGpts643i}, contentHash: {e384be}}
+Eu cunosc un loc, un loc minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6kYbthwUWMjLPSGpts643i}, contentHash: {7210d2}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
 Eu cunosc un loc, un loc minunat
-Unde noi, acuzații găsim milă și har
+Unde noi acuzații găsim milă și har
 Pentru tot ce-am făcut, greșeli și păcate,
 Au fost țintuite pe cruce cu El.
 

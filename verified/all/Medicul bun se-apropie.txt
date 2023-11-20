@@ -1,5 +1,5 @@
 [title]
-Medicul bun se-apropie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {svxwbk5xw3iz2hvz62FUKP}, contentHash: {0b32ec}}
+Medicul bun se-apropie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {svxwbk5xw3iz2hvz62FUKP}, contentHash: {79695a}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -19,11 +19,11 @@ Isus, Isus, Isus.
 [v2]
 Cel ce a șters al nost’ păcat,
 Acela e numai Isus.
-Și la cer El s-a înălțat,
+Și la cer El S-a înălțat,
 Să ne cunune, El Isus.
 
 [v3]
 Pentru noi a răbdat crucea,
 Laudă fie lui Isus,
-Și credem în EL ca-mpărat
+Și credem în El ca-mpărat
 Căci Îl iubim pe Isus!

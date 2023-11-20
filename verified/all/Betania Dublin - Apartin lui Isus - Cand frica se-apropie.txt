@@ -1,5 +1,5 @@
 [title]
-Aparțin lui Isus {alternative: {Când frica se-apropie}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5vx6ucfCJnJsQpDEhidiFK}, contentHash: {711dcf}}
+Aparțin lui Isus {alternative: {Când frica se-apropie}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5vx6ucfCJnJsQpDEhidiFK}, contentHash: {f00486}}
 
 [sequence]
 v1,c,v2,c,b,b2,c,b2,c,b2,c,e
@@ -13,7 +13,7 @@ Isus, îmi ești de-ajuns.
 [c]
 Ești cu mine, îmi ești alături,
 Frica nu va câștiga, îi aparțin lui Isus!
-Nu sunt părăsit, nici când nu sunt singur.
+Nu sunt părăsit, nicicând nu sunt singur.
 Frica nu va câștiga, îi aparțin lui Isus!
 
 [v2]
@@ -32,7 +32,7 @@ Ești cu mine, ești la fiecare pas. :/ (2x)
 [b2]
 Ești Păstorul, Păzitorul, Cel ce luptă pentru mine!
 Ești alături, ești la fiecare pas,
-Dumnezeul Stâncă tare, Credincios ești, Apărare!
+Dumnezeul Stâncă tare, credincios ești, apărare!
 Ești cu mine, ești la fiecare pas.
 
 [e]

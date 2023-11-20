@@ -1,5 +1,5 @@
 [title]
-Psalmul 46 {alternative: {*}, composer: {Nicoleta Mascas adaptare după Jennie Lee Riddle}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {181432}, id: {wiCF5tfftf4VmX3hrsa4s4}, contentHash: {0d2ca7}}
+Psalmul 46 {alternative: {*}, composer: {Nicoleta Mascas adaptare după Jennie Lee Riddle}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {181432}, id: {wiCF5tfftf4VmX3hrsa4s4}, contentHash: {414b40}}
 
 [sequence]
 v1,v2,v3
@@ -16,9 +16,9 @@ Tu cu foc le-ai mistuit.
 
 [v2]
 Tu ești Adăpostul,
-Sprijin și Nădejde,
+Sprijin și nădejde,
 În furtuni sau flăcări,
-Veșnic Ajutor.
+Veșnic ajutor.
 Tatăl nostru,
 Ne conduci în luptă,
 Ești de partea noastră,

@@ -1,5 +1,5 @@
 [title]
-Doamne ești bun {alternative: {*}, composer: {Domini}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {120642}, id: {4xJT3zRivvXabmLjafZCoo}, contentHash: {b21242}}
+Doamne ești bun {alternative: {*}, composer: {Domini}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {120642}, id: {4xJT3zRivvXabmLjafZCoo}, contentHash: {ded28c}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -31,5 +31,5 @@ Făr’ de hotare Tu ești.
 [v2.2]
 Puternic în fapte și milostiv,
 A Ta bunătate m-a copleșit.
-Iubirea-ți perfectă m-a cucerit,
+Iubirea-Ți perfectă m-a cucerit,
 La pieptul Tău găsesc azi scăpare!

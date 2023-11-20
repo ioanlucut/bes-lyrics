@@ -1,0 +1,47 @@
+[title]
+Sunt pe calea Domnului și sunt bucuros {alternative: {Psalmul 40}, composer: {Carmen Prodan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1593}, id: {nU3mWFUp6bSXTyGyoeaetq}, contentHash: {471073}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Sunt pe calea Domnului
+Și sunt bucuros,
+Mântuit prin harul Lui,
+De Isus Hristos.
+
+[c]
+Cine oare, cine mă va clinti
+De pe calea Domnului?
+Nimeni nu mă poate despărți
+De mare iubirea Lui!
+
+[v2]
+Am aflat în El izvor
+De sfinte bucurii
+Ce dă astăzi tuturor
+Viață-n veșnicii.
+
+[v3]
+Când am fost eu încercat,
+Domnului m-am rugat.
+Ruga El mi-a ascultat,
+Eu am fost salvat.
+
+[v4]
+El e Domn în viața mea,
+Inima I-am dat,
+El o umple zi de zi
+Cu dragostea Sa.
+
+[v5]
+Vreau ca să mărturisesc
+Domnului Isus
+Că în inimă Îl simt
+Și-L iubesc nespus.
+
+[v6]
+Pentru cerul Său frumos,
+Pentru harul Său,
+Vreau să rămân credincios,
+Lângă Domnul meu.

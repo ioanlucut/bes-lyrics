@@ -1,5 +1,5 @@
 [title]
-Păstori de douăzeci de veacuri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {wj3jtXwB8xye8DyQYUZndw}, contentHash: {58b9eb}}
+Păstori de douăzeci de veacuri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {wj3jtXwB8xye8DyQYUZndw}, contentHash: {354a64}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -24,6 +24,6 @@ Comemorăm cu bucurie
 
 [v3]
 Noi Te slăvim, Copil din iesle,
-Cu toți Ți-aducem Osanale
+Cu toți Ți-aducem osanale
 Și vrem ca inimile noastre
 /: Să fie darurile Tale. :/

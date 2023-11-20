@@ -1,5 +1,5 @@
 [title]
-Astăzi este timpul pentru cercetare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5640}, id: {ksFUp2ZZURhgmmcLVFurLq}, contentHash: {1a46ac}}
+Astăzi este timpul pentru cercetare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5640}, id: {ksFUp2ZZURhgmmcLVFurLq}, contentHash: {27f172}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -17,15 +17,15 @@ Cu miresme-n haine albe
 Acolo și noi vom fi.
 
 [c]
-/: În cer, în cer, în cer, Aleluia, Amin!
+/: În cer, în cer, în cer, aleluia, amin!
 Cu Isus acolo ne vom întâlni sus
-În cer. Aleluia, Amin! :/
+În cer, aleluia, amin! :/
 
 [v2.1]
 Rugăciunea este arma pocăinței.
 Ne-ncetat să ne rugăm!
 Vine Domnul în curând, cu slavă mare.
-Cu toții să-L așteptam!
+Cu toții să-L așteptăm!
 
 [v2.2]
 Să ne îndemnăm mereu la fapte bune,

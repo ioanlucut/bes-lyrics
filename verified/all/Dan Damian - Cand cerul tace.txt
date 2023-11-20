@@ -1,18 +1,18 @@
 [title]
-Când cerul tace {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {178672}, id: {nzzRWsgcwu9LzMoHQGPnv5}, contentHash: {0f533f}}
+Când cerul tace {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {178672}, id: {nzzRWsgcwu9LzMoHQGPnv5}, contentHash: {c0bda1}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Când Cerul tace și norii sunt de plumb,
+Când cerul tace și norii sunt de plumb,
 Când orice rugă se pierde în văzduh,
-Când n-auzi glasul Iubitului Isus,
+Când n-auzi glasul iubitului Isus,
 Prin încercare nu ai niciun răspuns.
 
 [c]
-Există o Ancoră, e crucea din Calvar,
-Catarg în valuri, Cuvântul plin de Har!
+Există-o ancoră, e crucea din Calvar,
+Catarg în valuri, Cuvântul plin de har!
 E lângă tine, e în cuptorul tău,
 El totul face spre-un și mai bine-al tău!
 

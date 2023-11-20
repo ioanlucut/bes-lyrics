@@ -1,5 +1,5 @@
 [title]
-Simt iubirea Ta {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112785}, id: {qksFJYhspGAQWCdDF8CGVb}, contentHash: {710ab4}}
+Simt iubirea Ta {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112785}, id: {qksFJYhspGAQWCdDF8CGVb}, contentHash: {5780ca}}
 
 [sequence]
 v1,b,c,v2,c
@@ -11,7 +11,7 @@ Dar în ochii stinși dor adânc era
 După Dumnezeu și iubirea Sa.
 
 [b]
-Căutăm ades pe pământ iubirea
+Căutăm ades’ pe pământ iubirea
 Și tânjim să ne iubească cineva.
 
 [c]

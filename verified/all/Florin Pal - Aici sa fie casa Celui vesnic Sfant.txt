@@ -1,5 +1,5 @@
 [title]
-Aici să fie casa Celui veșnic Sfânt {alternative: {*}, composer: {Florin Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59845}, id: {hUBaG1fuuEYxTEUSbA32qA}, contentHash: {27ae09}}
+Aici să fie casa Celui veșnic Sfânt {alternative: {*}, composer: {Florin Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59845}, id: {hUBaG1fuuEYxTEUSbA32qA}, contentHash: {d0d7dd}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
@@ -38,4 +38,4 @@ Cu rugăciuni, cu laude, vor veni!
 Atunci când va veni aici străinul,
 Din pricina Numelui Tău sfânt,
 Să fie ascultat, să-i dai alinul,
-Că Tu ești Dumnezeu și Tu ești sfânt!
+Căci Tu ești Dumnezeu și Tu ești sfânt!

@@ -1,5 +1,5 @@
 [title]
-Azi e zi mare {alternative: {*}, composer: {Ionut Luncan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {75571}, id: {uTKrfAii3L7e8WZmubs4Aw}, contentHash: {17af5a}}
+Azi e zi mare {alternative: {*}, composer: {Ionut Luncan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {75571}, id: {uTKrfAii3L7e8WZmubs4Aw}, contentHash: {2e5ea7}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -17,5 +17,5 @@ Fraților, surorilor, /: bine :/ (3x) ați venit!
 Ca la un frate, cu drag noi am venit. :/
 
 [v3]
-/: Masa e cântul, pâinea e cuvântul
-Și Duhul Sfânt ne dă tot ce noi dorim. :/
+/: Masa e cântul, pâinea e Cuvântul
+Și Duhul Sfânt ne dă tot ce dorim. :/

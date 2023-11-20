@@ -1,5 +1,5 @@
 [title]
-Cine a crezut în ce ni se vestise {alternative: {*}, composer: {Rugul aprins}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4411}, id: {5d29Bf3ST8CbfTBR73o1dz}, contentHash: {27907a}}
+Cine a crezut în ce ni se vestise {alternative: {*}, composer: {Rugul aprins}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4411}, id: {5d29Bf3ST8CbfTBR73o1dz}, contentHash: {666753}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,e
@@ -8,7 +8,7 @@ v1,c1.1,c1.2,v2,c1.1,c1.2,e
 Cine a crezut în ce ni se vestise?
 Cine a cunoscut brațul Domnului?
 Când priveai la fața Lui,
-Te îngrozeai de atâta chin.
+Te îngrozeai de-atâta chin.
 
 [c1.1]
 Mii de răni I-au făcut,
@@ -20,10 +20,10 @@ Om al durerii, Miel curat
 Atât de mult El te-a iubit,
 Din dragoste S-a dăruit.
 Ți-a deschis ușa spre cer,
-Spre Dumnezeu, spre Raiul Său.
+Spre Dumnezeu, spre raiul Său.
 
 [v2]
-Sângele șiroi curgea
+Sângele șuvoi curgea
 Când străzile El le colinda.
 La Golgota când au ajuns,
 Sus pe cruce, ei L-au străpuns.

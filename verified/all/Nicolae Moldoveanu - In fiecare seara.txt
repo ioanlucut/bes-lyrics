@@ -1,5 +1,5 @@
 [title]
-În fiecare seară {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5343}, id: {kVEqnrGoe9Gh7UMPJrYPLu}, contentHash: {bb9593}}
+În fiecare seară {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5343}, id: {kVEqnrGoe9Gh7UMPJrYPLu}, contentHash: {520997}}
 
 [sequence]
 v1,c,v2,c
@@ -7,8 +7,8 @@ v1,c,v2,c
 [v1]
 În fiecare seară,
 Când trupul meu e frânt,
-Mă uit spre cer și cânt,
-În fiecare seară.
+Mă uit spre cer și cânt.
+În fiecare seară
 La sclipirea stelelor mă uit
 Și cânt cu ele în cor
 În fiecare seară.
@@ -22,7 +22,7 @@ Să-I spui tu numai Lui
 
 [v2]
 Prin munți și prin câmpii,
-Pe dealuri și păduri
+Pe dealuri și prin păduri
 Sunt numai bucurii
 În fiecare seară.
 Dacă vrei să dormi mai liniștit

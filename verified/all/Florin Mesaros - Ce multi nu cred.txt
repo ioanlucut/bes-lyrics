@@ -1,5 +1,5 @@
 [title]
-Ce mulți nu cred {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158410}, id: {c3bvNc673x5ATRea8tenRs}, contentHash: {77e14f}}
+Ce mulți nu cred {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158410}, id: {c3bvNc673x5ATRea8tenRs}, contentHash: {c6b827}}
 
 [sequence]
 v1,c,b,c
@@ -10,7 +10,7 @@ Ce mulți nu cred că Tu exiști,
 Ce mulți au vorbele deșarte,
 Ce mulți au ochii tot închiși.
 Dar eu le spun, că sus, în ceruri,
-O, Doamne, Tu ești veghetor.
+O, Doamne, Tu ești vegheator.
 Le spun că mi-ai dat mântuirea,
 Tu ești al lumii Creator.
 

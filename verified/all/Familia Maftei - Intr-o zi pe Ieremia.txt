@@ -1,5 +1,5 @@
 [title]
-Într-o zi pe Ieremia {alternative: {*}, composer: {Familia Maftei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {184006}, id: {eMFSBzpngKRHFZXtjsrenK}, contentHash: {5e1aa4}}
+Într-o zi pe Ieremia {alternative: {*}, composer: {Familia Maftei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {184006}, id: {eMFSBzpngKRHFZXtjsrenK}, contentHash: {1390c9}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -19,7 +19,7 @@ Vasul ce nu izbutise
 [c]
 /: Tot la fel noi suntem lutul,
 Însă Domnul e Olarul,
-Să lăsăm să prelucreze,
+Să-L lăsăm să prelucreze,
 Vasul ca să curgă harul. :/
 
 [v2.1]
@@ -36,7 +36,7 @@ Lăudate sau umile.
 
 [v3.1]
 Dac-un vas se curățește,
-Domnul face vas de cinste.
+Domnu-l face vas de cinste.
 Îl albește, îl sfințește,
 S-aducă podoabe sfinte.
 

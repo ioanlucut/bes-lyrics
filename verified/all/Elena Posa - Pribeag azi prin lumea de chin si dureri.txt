@@ -1,5 +1,5 @@
 [title]
-Pribeag azi prin lumea de chin și dureri {alternative: {*}, composer: {Elena Poșa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3860}, id: {iuqLGq1bkSm1WxJWhmzF8E}, contentHash: {7002a7}}
+Pribeag azi prin lumea de chin și dureri {alternative: {*}, composer: {Elena Poșa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3860}, id: {iuqLGq1bkSm1WxJWhmzF8E}, contentHash: {3eaff1}}
 
 [sequence]
 v1,c,v2,c2,v3,b,v4,e
@@ -7,13 +7,13 @@ v1,c,v2,c2,v3,b,v4,e
 [v1]
 Pribeag azi prin lumea de chin și dureri,
 Eu merg cântând pe cale.
-Prin viscol, furtună și valuri mereu,
-Ți-aducem „Osanale!”
+Prin viscol, furtună și valuri,
+Ți-aduc mereu osanale!
 
 [c]
 /: Te cânt, Te ador, Te slăvesc, Te măresc
 Și spun tuturor ce mult Te iubesc.
-Din zori până-n seară, Te laud mereu!
+Din zori până-n seară, Te laud mereu,
 Trăiască Domnul! :/
 
 [v2]

@@ -1,0 +1,32 @@
+[title]
+Cum Domnul ne-a iubit {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {169062}, id: {7JdsmQnVHGkTh796VJmyBP}, contentHash: {d00b58}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Un simplu om, îngândurat și apăsat,
+Își amintea de tot ce a greșit.
+În viața lui, atât de multe ar schimba
+De-ar fi acum s-o ia de la-nceput.
+Dar nu e gata nici pe sine-a se ierta,
+Deși din cer iertare a primit.
+
+[c]
+Cum Domnul ne-a iubit când noi Îl răstigneam,
+Privind la ce vom fi, uitând ce noi eram.
+Cum a plătit cu sânge vina mea și-a ta,
+Pe noi să ne învețe-a ne ierta.
+Vom ierta!
+
+[v2]
+Au fost și vremuri când atâția m-au rănit
+Și mult-amărăciune am adunat.
+N-am știut să iert atunci când alții mi-au greșit,
+O nouă șansă nimănui n-am dat.
+Dar chiar Isus ne-a spus noi să nu judecăm,
+Să dea cu piatra cel neprihănit.
+
+[e]
+A fost lovit și părăsit, trădat chiar de ai săi,
+Chiar pe cruce răstignit a spus: „Tată, te rog iartă-i!”

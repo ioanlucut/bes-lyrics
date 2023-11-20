@@ -1,5 +1,5 @@
 [title]
-În păcat și disperare {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2792}, id: {pf85GsCH6H42fs7AwE9e6w}, contentHash: {251cda}}
+În păcat și disperare {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2792}, id: {pf85GsCH6H42fs7AwE9e6w}, contentHash: {8477ac}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c
 [v1]
 În păcat și disperare
 Mulți trăiesc pe-acest pământ,
-Mulți nu știu de dragoste ce ni s-a dat.
+Mulți nu știu de dragostea ce ni s-a dat.
 Într-o lume-ntunecată ce trăiește în păcat,
 Isus e răspunsul lumii, singur El.
 
@@ -20,7 +20,7 @@ Precum și marea-i dragoste,
 E adevăr, e un răspuns, Isus Hristos. :/
 
 [v2]
-Într-o lume tulburată cu probleme și necaz,
+Într-o lume tulburată de probleme și necazuri,
 Într-o lume cu dureri și-amenințări
 El este nădejdea noastră,
 Pace doar la El găsim,

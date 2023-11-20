@@ -1,5 +1,5 @@
 [title]
-Când urmez Isuse, Ție {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1603}, id: {2ckrbJZjrdzoRoDfdzZvLL}, contentHash: {554c83}}
+Când urmez Isuse, Ție {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1603}, id: {2ckrbJZjrdzoRoDfdzZvLL}, contentHash: {4bb88b}}
 
 [sequence]
 v1,p,v2,p,v3,c,v4,c2
@@ -40,5 +40,5 @@ Mă simt fericit nespus.
 
 [c2]
 /: Mă simt fericit! :/
-Că în cer voi fi cu tine,
+Că în cer voi fi cu Tine,
 În veci nedespărțit.

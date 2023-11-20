@@ -1,5 +1,5 @@
 [title]
-Cuvântul {alternative: {*}, composer: {Teo Family}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {194034}, id: {w2Eo1NzCgddBY6TQ13WR67}, contentHash: {94c012}}
+Cuvântul {alternative: {*}, composer: {Teo Family}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {194034}, id: {w2Eo1NzCgddBY6TQ13WR67}, contentHash: {c210c7}}
 
 [sequence]
 v1,v2,v3,v4
@@ -20,10 +20,10 @@ Ce L-au iubit întotdeauna! :/
 De ce ascundeți azi Lumina?
 De ce vă temeți de Irod?
 /: Iată și cerul I se-nchină
-Iar noi ne stingem fără rod... :/
+Iar noi ne stingem fără rod. :/
 
 [v4]
 S-au zguduit împărății
 Și s-a cutremurat pământul.
-/: Suntem salvați pentru vecii
+/: Suntem salvați pentru vecii,
 Căci este viu în veci Cuvântul!

@@ -1,5 +1,5 @@
 [title]
-Puternicul lui Israel {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112852}, id: {qg9pN5yuZDQ3BCW64zA7Ff}, contentHash: {a26c20}}
+Puternicul lui Israel {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112852}, id: {qg9pN5yuZDQ3BCW64zA7Ff}, contentHash: {27f9e6}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -8,12 +8,12 @@ v1,c,v2,c,v3,c,v4,c
 Când toți vor auzi vocea Lui în văzduh,
 Un cânt în noapte va răsuna,
 Vino la muntele Lui sfânt
-Ca să vezi puterea Sa.
+Ca să vezi puterea Sa!
 
 [c]
 E Puternicul lui Israel,
 Puternicul lui Israel!
-Din cer, Vocea Sa măreț va răsuna,
+Din cer, vocea Sa măreț va răsuna,
 Puternicul lui Israel!
 
 [v2]
@@ -26,10 +26,10 @@ Cei muți într-un glas vor cânta.
 Când lumea va vedea frumusețea Domnului,
 Viața-n deșert va-nflori.
 Spuneți atunci celor care se tem:
-„Fiți tari și credeți vocea Lui!”
+„Fiți tari și credeți Cuvântul Lui!”
 
 [v4]
 Când toți vor auzi vocea Lui în văzduh,
 Un cânt în noapte va răsuna.
 Vino la muntele Lui sfânt
-Ca să vezi puterea Sa.
+Ca să vezi puterea Sa!

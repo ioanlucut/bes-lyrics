@@ -1,0 +1,53 @@
+[title]
+De când Domnul m-a găsit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qm29LKW3ndbLfA6VEJwBKN}, contentHash: {e11e56}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+De când Domnul m-a găsit
+Laudă Domnului!
+Inima mi s-a albit
+Laudă Domnului!
+
+[v1.2]
+Inima El mi-a sfințit,
+De păcat m-a curățit,
+Laudă Lui, laudă Lui,
+Laudă Domnului!
+
+[v2.1]
+El prin sângele-I vărsat
+Laudă Domnului!
+M-a spălat și m-a salvat
+Laudă Domnului!
+
+[v2.2]
+Sufletul mi-e vindecat
+Căci păcatul mi-a iertat
+Laudă Lui, laudă Lui,
+Laudă Domnului!
+
+[v3.1]
+Muții-ncep azi a vorbi,
+Laudă Domnului!
+Șchiopii încep a sări,
+Laudă Domnului!
+
+[v3.2]
+Duhuri rele ies acum
+Căci putere n-au, nicicum
+Laudă Lui, laudă Lui,
+Laudă Domnului!
+
+[v4.1]
+O, auzi tu, frate drag,
+Laudă Domnului!
+Să nu stai nicicând pribeag
+Laudă Domnului!
+
+[v4.2]
+Ci grăbește-te să vii,
+Mâine nu știi de-i mai fi
+Laudă Lui, laudă Lui,
+Laudă Domnului!

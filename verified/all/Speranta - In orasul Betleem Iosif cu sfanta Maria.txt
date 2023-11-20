@@ -1,5 +1,5 @@
 [title]
-În orașul Betleem, Iosif cu sfânta Maria {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4402}, id: {hmL7tdTtQth86kkSN77HrX}, contentHash: {fc2651}}
+În orașul Betleem, Iosif cu sfânta Maria {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4402}, id: {hmL7tdTtQth86kkSN77HrX}, contentHash: {e9d911}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
@@ -8,7 +8,7 @@ v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 În orașul Betleem, Iosif cu sfânta Maria,
 Osteniți de-atâta drum, caută loc de găzduire.
 Nimenea nu a dorit să-i primească-n casa lor,
-Doar un staul au găsit ca să nască-un pruncușor.
+Doar un staul au găsit ca să nască-un Pruncușor.
 
 [v1.2]
 /: Acolo în iesle, jos, S-a născut Isus Hristos,
@@ -18,7 +18,7 @@ Doar un staul au găsit ca să nască-un pruncușor.
 Dar, deodată pe pământ, o lumină se ivește
 La păstorii de pe câmp, îngerul le glăsuiește:
 „Nu vă temeți, căci aduc vestea bună în popor:
-Astăzi s-a născut un Prunc, S-a născut Mântuitor!”
+Astăzi S-a născut un Prunc, S-a născut Mântuitor!”
 
 [v2.2]
 /: Acolo în iesle, jos, S-a născut Isus Hristos,

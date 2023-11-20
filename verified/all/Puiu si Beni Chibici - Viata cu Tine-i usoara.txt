@@ -1,5 +1,5 @@
 [title]
-Viața cu Tine-i ușoară {alternative: {*}, composer: {Puiu și Beni Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187590}, id: {4zYoziNs1HLULrS8wWdEGj}, contentHash: {1ca38b}}
+Viața cu Tine-i ușoară {alternative: {*}, composer: {Puiu și Beni Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187590}, id: {4zYoziNs1HLULrS8wWdEGj}, contentHash: {4f3c36}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -9,7 +9,7 @@ Viața cu Tine-i ușoară,
 Crucea de dus nu-i povară,
 Drumul cu Tine-i un cânt,
 Harul Tău îmi dă avânt.
-Doamne, cu Tine eu sunt:
+Doamne, cu Tine eu sunt
 
 [c]
 Mai aproape de cer,
@@ -22,11 +22,11 @@ Chiar de-ncercări mă doboară,
 Dragostea Ta mă-nconjoară.
 Știu că așa-i pe pământ,
 Valuri, furtună și vânt.
-Dar eu cu Tine mă simt:
+Dar eu cu Tine mă simt
 
 [v3]
 Rabd și dureri și ocară
 Ca o-nțeleaptă fecioară,
 Flacără vie eu sunt.
-Cu-al Tău cuvânt mă alint,
-Doamne cu Tine eu sunt.
+Cu-al Tău Cuvânt mă alint,
+Doamne, cu Tine eu sunt.

@@ -1,24 +1,24 @@
 [title]
-Te cunosc {alternative: {*}, composer: {Adi Kovaci}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {179901}, id: {xrHkHLYZDwAi3NTdUqxCwP}, contentHash: {c23a0b}}
+Te cunosc {alternative: {*}, composer: {Adi Kovaci}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {179901}, id: {xrHkHLYZDwAi3NTdUqxCwP}, contentHash: {f3b5bd}}
 
 [sequence]
 v1,p,v2,c,c2
 
 [v1]
 Văd cum te-ndepărtezi
-De la ce-ți spun în Cuvânt...
+De la ce-ți spun în Cuvânt.
 De ce nu vrei s-asculți,
-Când ce îți spun, e spre binele tău?
+Când ce îți spun e spre binele tău?
 
 [p]
-Te-ascunzi dar, mâna Mea te-a creat,
+Te-ascunzi, dar mâna Mea te-a creat,
 Nu ești o întâmplare!
 Da, te văd și te chem înapoi,
 Vino la Mine!
 
 [v2]
 Tu nu mai vrei să crezi
-În Adevăr, în Fiul Meu...
+În Adevăr, în Fiul Meu.
 Ești creat pentru mai mult
 Decât ce vezi, jos pe pământ!
 

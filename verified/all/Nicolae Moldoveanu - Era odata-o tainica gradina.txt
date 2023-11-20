@@ -1,17 +1,17 @@
 [title]
-Era odată-o tainică grădină {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5473}, id: {8xgeauBEmTS5jXdGX2HbPS}, contentHash: {5dffdd}}
+Era odată-o tainică grădină {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5473}, id: {8xgeauBEmTS5jXdGX2HbPS}, contentHash: {b28521}}
 
 [sequence]
 v1,v2,v3,v4,v5
 
 [v1]
 Era odată-o tainică grădină
-În care Domnul Se ruga plângând
+În care Domnul se ruga plângând
 /: Și fața Lui cea plină de lumină
 Era-ntristată până la mormânt. :/
 
 [v2]
-De multe ori, pe fața Lui, căzuse
+De multe ori, pe față El căzuse
 Și se ruga cu mult amar, nespus:
 /: „Să treacă, Tată, să nu beau paharul!”
 Paharul suferinței lui Isus. :/
@@ -25,7 +25,7 @@ O, Ghetsimani, grădina suferinței,
 [v4]
 O, Ghetsimani, grădină neuitată,
 Tu ai văzut durerea lui Isus
-/: Și Iuda când L-a sărutat o dată
+/: Pe Iuda când L-a sărutat o dată
 Pe Domnul strălucirilor de sus. :/
 
 [v5]

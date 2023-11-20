@@ -1,5 +1,5 @@
 [title]
-Venim în a Ta prezență {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6798}, id: {tXprLKeNPsgQm8eZ4BybKi}, contentHash: {127c46}}
+Venim în a Ta prezență {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6798}, id: {tXprLKeNPsgQm8eZ4BybKi}, contentHash: {4deaec}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v1.1,v1.2,c1.1,c1.2
@@ -18,7 +18,7 @@ O, Doamne, Te iubim!
 
 [c1.1]
 /: Tu ești Tatăl creațiunii,
-Mielul sfânt ce-ai înviat.
+Mielul Sfânt ce-ai înviat.
 Ești singurul ce-ai biruit
 Și mormântu-ai lepădat.
 

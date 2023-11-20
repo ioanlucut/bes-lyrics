@@ -1,5 +1,5 @@
 [title]
-Nu, nu suntem un vis și-o întâmplare {alternative: {*}, composer: {Costache Ioanid}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1802}, id: {j6AnEgYiRcRJrUNAPed5oZ}, contentHash: {819632}}
+Nu, nu suntem un vis și-o întâmplare {alternative: {*}, composer: {Costache Ioanid}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1802}, id: {j6AnEgYiRcRJrUNAPed5oZ}, contentHash: {2fe942}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -18,7 +18,7 @@ Gonite de un bici ne-nduplecat,
 /: Căci noi avem un duh și-o libertate
 Și-o inimă ce pentru ceruri bate.
 Există Dumnezeu,
-Există Dumnezeu cu-adevărat !:/
+Există Dumnezeu cu-adevărat!:/
 
 [v3]
 N-ar fi simțit în veci de veci țărâna
@@ -46,7 +46,7 @@ Există Dumnezeu cu-adevărat! :/
 
 [v6]
 Nu, nu suntem neant! Ce fericire!
-Supremul adevăr s-a revelat.
+Supremul adevăr S-a revelat.
 /: Isus e-n noi lumină și iubire,
 Iar moartea-i doar un zbor spre nemurire,
 Există Dumnezeu,

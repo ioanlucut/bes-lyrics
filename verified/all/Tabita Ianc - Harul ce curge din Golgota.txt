@@ -1,5 +1,5 @@
 [title]
-Harul ce curge din Golgota {alternative: {*}, composer: {Tabita Ianc}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2825}, id: {812gnSFCgbUgfcTSFdwBYv}, contentHash: {04141f}}
+Harul ce curge din Golgota {alternative: {*}, composer: {Tabita Ianc}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2825}, id: {812gnSFCgbUgfcTSFdwBYv}, contentHash: {c37120}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -20,10 +20,10 @@ Pe veci cu Dumnezeu m-a-mpăcat. :/
 Am fost robit de al meu păcat,
 Ce m-apăsat, m-a chinuit,
 Dar la Isus eu am alergat,
-El mi-a dat pacea, m-a izbăvit.
+El mi-a dat pace, m-a izbăvit.
 
 [v3]
 Tu, dragul meu, astăzi ești chemat,
-La acest har ce este-n dar,
+La acest har, ce este-n dar,
 Pleacă-ți genunchii și inima,
 Întinde mâna că e al tău.

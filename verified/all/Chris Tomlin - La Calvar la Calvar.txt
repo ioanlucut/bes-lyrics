@@ -1,5 +1,5 @@
 [title]
-La Calvar, la Calvar {alternative: {*}, composer: {Chris Tomlin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187301}, id: {kHyq4db9BbT2Q8jrKhbb9N}, contentHash: {b01afe}}
+La Calvar, la Calvar {alternative: {*}, composer: {Chris Tomlin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187301}, id: {kHyq4db9BbT2Q8jrKhbb9N}, contentHash: {cd60ea}}
 
 [sequence]
 v1,c,v2,b,c
@@ -11,7 +11,7 @@ Iubirea Lui fără sfârșit
 E ca un râu - m-a copleșit.
 
 [c]
-La calvar, la Calvar Îți predau viața mea.
+La Calvar, la Calvar Îți predau viața mea.
 Te iubesc, Isus!
 Te iubesc, Isus!
 Tu ești Dragostea ce-a plătit vina mea.

@@ -1,5 +1,5 @@
 [title]
-Prin mâna Ta sfântă primim ocrotirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5297}, id: {2XHPX5kTRHxhFagWcE2KGY}, contentHash: {0324b1}}
+Prin mâna Ta sfântă primim ocrotirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5297}, id: {2XHPX5kTRHxhFagWcE2KGY}, contentHash: {324965}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -7,7 +7,7 @@ v1,v2,v3,v4,v5,v6
 [v1]
 Prin mâna Ta sfântă primim ocrotirea,
 Din orice-ncercare Tu ne izbăvești.
-/: Ești stânca de veacuri ce dai nemurirea,
+/: Ești Stânca de veacuri ce dai nemurirea,
 Când totul va trece, doar Tu dăinuiești! /
 
 [v2]

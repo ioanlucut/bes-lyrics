@@ -1,5 +1,5 @@
 [title]
-Eu mă-ncred în Tin’ {alternative: {*}, composer: {George Ciurdas}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164308}, id: {wTZNQhY83ziHYJkGLH4QwC}, contentHash: {17fac7}}
+Eu mă-ncred în Tin’ {alternative: {*}, composer: {George Ciurdas}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164308}, id: {wTZNQhY83ziHYJkGLH4QwC}, contentHash: {b7fea5}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,v3,c
@@ -13,7 +13,7 @@ Nu Te-a schimbat, la fel mă vei privi.
 [v1.2]
 Mărturisesc, am vrut singur să lupt,
 Am obosit, odihnă-n Tine caut.
-Măreț Războinic, Rege Neînfricat,
+Măreț Războinic, Rege neînfricat,
 Prin orice aș trece, ești de partea mea.
 
 [c]
@@ -30,6 +30,6 @@ Nu vreau nimic mai mult, ești în control.
 
 [v3]
 Tu ești a mea tărie, odihna Tu îmi ești!
-Ești brațul cel puternic, stânca-n furtuna ești.
+Ești brațul cel puternic, stânca-n furtună ești.
 Căile Tale-s sfinte, planul Tău e perfect,
-Nu e vreun loc în care, să-jung și Tu nu ești.
+Nu e vreun loc în care, să-ajung și Tu nu ești.

@@ -1,5 +1,5 @@
 [title]
-Atât am căutat rostul vieții {alternative: {*}, composer: {Gloria & William J. Gaither}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2121}, id: {oR82zJjEsZpfirjpjVBfoN}, contentHash: {e41db4}}
+Atât am căutat rostul vieții {alternative: {*}, composer: {Gloria & William J. Gaither}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2121}, id: {oR82zJjEsZpfirjpjVBfoN}, contentHash: {ae15fd}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -14,7 +14,7 @@ Loc de har și de mari îndurări.
 /: Mi-e șters pentru veci tot trecutul
 Prin sângele curs pe Calvar,
 Am schimbat temerile într-un cânt glorios.
-Sunt liber acum, o, ce har. :/
+Sunt liber acum, o, ce har! :/
 
 [v2]
 Acum de trecut eu sunt liber,
@@ -23,7 +23,7 @@ Bucurii am în inima mea ne-ncetat,
 O cântare spre lauda Sa.
 
 [v3]
-Iar acum, Isus este în ceruri,
+Iar acum, Isus este-n ceruri,
 Unde locul El ne-a pregătit,
 În curând vom fi duși toți în slavă
 Unde-n veci cu El vom locui.

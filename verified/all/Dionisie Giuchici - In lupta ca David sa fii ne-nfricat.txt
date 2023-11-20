@@ -1,5 +1,5 @@
 [title]
-În luptă, ca David, să fii ne-nfricat {alternative: {*}, composer: {Dionisie Giuchici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6871}, id: {34mYYweeQv4gNw8ygq8Pm2}, contentHash: {190284}}
+În luptă, ca David, să fii ne-nfricat {alternative: {*}, composer: {Dionisie Giuchici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6871}, id: {34mYYweeQv4gNw8ygq8Pm2}, contentHash: {e86438}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c
@@ -17,9 +17,9 @@ Cu o praștie și-o piatră
 L-a învins pe Goliat. :/
 
 [v2]
-Să nu te înfrice scuturile lui,
+Să nu ne înfrice scuturile lui,
 Sulița și spada filisteanului,
-Căci cu noi e focul și le vom topi,
+Căci cu noi e Focul și le vom topi,
 Cu Domnul Dumnezeu noi vom birui.
 
 [v3]
@@ -31,7 +31,7 @@ Goliat, Goliat a fost nimicit.
 [v4]
 Știi că Saul a bătut miile lui,
 Iar David a învins zecile de mii,
-În numele Domnului, oștirilor,
+În Numele Domnului oștirilor,
 Luptă-te, luptă-te, și vei birui!
 
 [v5]

@@ -1,5 +1,5 @@
 [title]
-Domnul e așa de bun {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6785}, id: {fMjAf9HjHcgLkAeJo6wG2b}, contentHash: {7bf921}}
+Domnul e așa de bun {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6785}, id: {fMjAf9HjHcgLkAeJo6wG2b}, contentHash: {3af858}}
 
 [sequence]
 v1,v2,v3,v4
@@ -7,23 +7,23 @@ v1,v2,v3,v4
 [v1]
 Domnul e-așa de bun, da,
 E așa de bun, e așa de bun!
-Glorie îți cânt Osana!
+Glorie Îi cânt, osana!
 Domnul e așa de bun!
 
 [v2]
 Domnul e credincios, e credincios,
 Așa de credincios,
-Glorie îți cânt, Osana!
+Glorie Îi cânt, osana!
 Domnul e credincios!
 
 [v3]
 Domnul e minunat, e minunat,
 Așa de minunat,
-Glorie îți cânt, Osana!
+Glorie Îi cânt, osana!
 Domnul e minunat!
 
 [v4]
 El viața mi-a scăpat,
 Prin sânge sfânt am fost spălat.
-Glorie îți cânt, Osana!
+Glorie Îi cânt, osana!
 Prin jerfa Lui sunt salvat!

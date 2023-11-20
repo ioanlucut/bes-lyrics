@@ -1,5 +1,5 @@
 [title]
-Într-o noapte rece {alternative: {*}, composer: {Oana Fisca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {131147}, id: {8iV5svojkc6FhSbPc4Hr9j}, contentHash: {c1f109}}
+Într-o noapte rece {alternative: {*}, composer: {Oana Fisca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {131147}, id: {8iV5svojkc6FhSbPc4Hr9j}, contentHash: {c9ecf4}}
 
 [sequence]
 v1,c,v2,c
@@ -9,23 +9,23 @@ v1,c,v2,c
 Stau la geamuri și privesc
 Stelele sclipind pe cer
 Și-atunci mă gândesc,
-Că într-o așa, o noapte
-În Betleem s-a născut
+Că într-o așa noapte
+În Betleem S-a născut
 Domnul nostru al tuturor,
 Cel făr’ de-nceput.
 
 [c]
-Isus s-a născut!
+Isus S-a născut!
 Stelele sclipesc
 Și prin graiul lor
 Tuturor vestesc.
 
 [v2]
 În satul singuratic,
-Domnul nostru s-a-ntrupat.
+Domnul nostru S-a-ntrupat.
 Era un prunc în iesle
 Cu magi înconjurat.
 Cel ce omenirii
 Mântuire a adus,
-Purtând pe frunte spinii
-Și-n coastă fiind străpuns.
+Purtând pe frunte spini
+Și-n coastă fiind împuns.

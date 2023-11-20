@@ -1,5 +1,5 @@
 [title]
-De unde veniți și unde plecați {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74921}, id: {nftLKXXUrRNn46PfiZMPch}, contentHash: {142c76}}
+De unde veniți și unde plecați {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74921}, id: {nftLKXXUrRNn46PfiZMPch}, contentHash: {9f77f6}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2,v5.1,v5.2
@@ -24,7 +24,7 @@ Decât una-n cerul slăvit.
 
 [v2.2]
 Pe dealul Golgotei izvor am aflat
-Și hainele noastre acolo le-am spălat.
+Și hainele noastre acol’ le-am spălat.
 Prin sângele Mielului nevinovat,
 În sângele Lui cel curat.
 
@@ -48,7 +48,7 @@ De dorul Celui iubit.
 
 [v4.2]
 În al Său Cuvânt El așa ne-a promis,
-Că vom fi cu El cu toții în paradis.
+Că vom fi cu El cu toții în Paradis.
 Pe-acest Isus noi Îl căutăm
 Căci vrem să Îl lăudăm.
 
@@ -60,6 +60,6 @@ Apare în slavă Isus.
 
 [v5.2]
 O, vino, o, vino, iubit Salvator!
-O, vino să te vadă-ntregul popor.
-Căci anii s-au scurs mai mult de două mii
-De când Te-așteptăm să vii.
+O, vino să Te vadă-ntregul popor.
+Căci ani s-au scurs mai mult de două mii
+De când Te-așteptăm să revii.

@@ -1,5 +1,5 @@
 [title]
-Departe-ntr-o iesle, în paie ascuns {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {2UqneUTP45jTCVjWLxdbmC}, contentHash: {586b33}}
+Departe-ntr-o iesle, în paie ascuns {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {2UqneUTP45jTCVjWLxdbmC}, contentHash: {e0078e}}
 
 [sequence]
 v1,v2,v3
@@ -7,13 +7,13 @@ v1,v2,v3
 [v1]
 Departe-ntr-o iesle, în paie ascuns,
 Culcat printre vite, stă pruncul Isus.
-Îi cântă și-L leagănă stele de argint
-/: Și-ncet copilașul adoarme zâmbind. :/
+Îi cântă și-L leagănă stele de-argint
+/: Și-ncet Copilașul adoarme zâmbind. :/
 
 [v2]
 Doar vitele-n grajd, zgomotos Îl trezesc,
 Duios le privește și se liniștesc.
-O, prunc minunat, Te slăvim c-ai venit
+O, Prunc minunat, Te slăvim c-ai venit
 /: Și-n ieslea săracă adânc Te-ai smerit. :/
 
 [v3]

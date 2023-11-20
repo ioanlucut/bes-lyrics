@@ -1,5 +1,5 @@
 [title]
-Înainte-Ți vin cu umilință {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {w4zrLQv7w2aFCi8cXumXmR}, contentHash: {14f3c4}}
+Înainte-Ți vin cu umilință {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {w4zrLQv7w2aFCi8cXumXmR}, contentHash: {816383}}
 
 [sequence]
 v1.1,v1.2
@@ -8,8 +8,8 @@ v1.1,v1.2
 Înainte-Ți vin cu umilință,
 La Tine vin cu o inima curată!
 Înainte-Ți vin să Te proslăvesc
-Înainte-Ți vin lăudând!
+Înainte-Ți vin cu laude!
 
 [v1.2]
 Aleluia! (3x)
-Înainte-Ți vin lăudând!
+Înainte-Ți vin cu laude!

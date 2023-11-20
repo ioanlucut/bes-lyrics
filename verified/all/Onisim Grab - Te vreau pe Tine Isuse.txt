@@ -1,12 +1,12 @@
 [title]
-Te vreau pe Tine, Isuse {alternative: {*}, composer: {Onisim Grab}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230975}, id: {7dTRi4vhaxaEQsnJpRQNyZ}, contentHash: {c5636d}}
+Te vreau pe Tine, Isuse {alternative: {*}, composer: {Onisim Grab}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230975}, id: {7dTRi4vhaxaEQsnJpRQNyZ}, contentHash: {4920ca}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
 Te vreau pe Tine, Isuse!
-Mângâie-mi viața pribeagă,
+Mângâie-mi ființa pribeagă,
 Condu-mă Tu-n orice vreme,
 Să Îți aud vocea-Ți caldă.
 Vreau să Te simt lângă mine

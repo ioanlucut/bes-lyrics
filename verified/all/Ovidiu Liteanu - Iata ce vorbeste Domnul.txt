@@ -1,5 +1,5 @@
 [title]
-Iată, ce vorbește Domnul {alternative: {*}, composer: {Ovidiu Liteanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187408}, id: {qe4MQFbsRoLp3UrjaJkDuQ}, contentHash: {c7f120}}
+Iată ce vorbește Domnul {alternative: {*}, composer: {Ovidiu Liteanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187408}, id: {qe4MQFbsRoLp3UrjaJkDuQ}, contentHash: {4c1356}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -8,12 +8,12 @@ v1,c,v2,c,v3,c
 Unde oare este pacea?
 Unde s-o găsesc?
 Unde să mă odihnesc?
-Ca o pasăre rănită nu mai pot zbura,
+Sunt ca pasărea rănită: nu mai pot zbura,
 Cine mă va mângâia?
 
 [c]
-Iată, ce vorbește Domnul,
-Iată, ce vorbește Domnul:
+Iată ce vorbește Domnul,
+Iată ce vorbește Domnul:
 /: „Dacă m-ai căuta cu toată inima,
 N-ai fi lipsit de slava mea.” :/
 

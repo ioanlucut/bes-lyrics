@@ -1,12 +1,12 @@
 [title]
-Isus mă conduce {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oJiWWdmDcpecuG7doun17x}, contentHash: {c721b6}}
+Isus mă conduce {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oJiWWdmDcpecuG7doun17x}, contentHash: {84af4b}}
 
 [sequence]
 v1,v2,v3,v4
 
 [v1]
 Isus mă conduce spre cer zi de zi,
-El este păstorul cel bun și divin.
+El este Păstorul cel bun și divin.
 Nu simt nicio lipsă, mă bucur nespus,
 Al vieții izvor e Isus.
 

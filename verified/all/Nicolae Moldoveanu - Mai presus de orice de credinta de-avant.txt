@@ -1,5 +1,5 @@
 [title]
-Mai presus de orice, de credință, de-avânt {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5385}, id: {4nJreu3Rat4o9cQMWahKGb}, contentHash: {989d35}}
+Mai presus de orice, de credință, de-avânt {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5385}, id: {4nJreu3Rat4o9cQMWahKGb}, contentHash: {de676d}}
 
 [sequence]
 v1,v2,v3,v4
@@ -29,7 +29,7 @@ Se cutremură toată zidirea.
 Mai presus de orice e iubirea! :/
 
 [v4]
-Pregătiți-vă, stânci,
+Pregătiți-vă stânci,
 Pentru templul etern!
 Orice piatră își are menirea.
 /: Chiar pământu-i primit,

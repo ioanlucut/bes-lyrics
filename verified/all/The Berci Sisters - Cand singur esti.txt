@@ -1,5 +1,5 @@
 [title]
-Când singur ești {alternative: {*}, composer: {The Berci Sisters}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {149044}, id: {rrhoV7hHePkDKsXEehTNaa}, contentHash: {ed3a80}}
+Când singur ești {alternative: {*}, composer: {The Berci Sisters}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {149044}, id: {rrhoV7hHePkDKsXEehTNaa}, contentHash: {cc9c37}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -11,7 +11,7 @@ Ai vrea să strigi: „Destul! S-a terminat!”
 Dar Eu cu tine am un alt plan.
 
 [c]
-Căci Eu cunosc gândurile Mele,
+Căci Eu cunosc gândurile Mele;
 Un viitor pentru tine am,
 Sunt o nădejde în mijlocul furtunii
 Și un izvor din care să te-adapi.
@@ -19,11 +19,11 @@ Sunt o nădejde în mijlocul furtunii
 [v2]
 Când M-ai chemat, Eu te-am ascultat;
 Erai căzut, dar Eu te-am ridicat;
-Acum îți spun: „Mereu voi fi cu tine!”
-Și niciodată singur nu te las!
+Acum îți spun: „Mereu voi fi cu tine
+Și niciodată singur nu te las!”
 
 [v3]
 Te-am încercat prin foc și prin pustiu,
 Te-am îndemnat: „Caută fața Mea!”
-Tu M-ai căutat și M-am lăsat găsit
+Tu M-ai căutat și M-am lăsat găsit,
 Căci ai venit cu toată inima.

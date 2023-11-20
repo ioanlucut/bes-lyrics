@@ -1,5 +1,5 @@
 [title]
-A mea iubire și mântuire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2104}, id: {de8UGb2cKEsThEuMwFvjQq}, contentHash: {fc132a}}
+A mea iubire și mântuire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2104}, id: {de8UGb2cKEsThEuMwFvjQq}, contentHash: {0cdb68}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c
@@ -22,7 +22,7 @@ Prin a Lui moarte m-a mântuit!
 
 [v4]
 A Lui iubire, întreaga-mi fire
-În fericire El mi-a schimbat.
+În fericire mi-a preschimbat.
 
 [v5]
 Și în răbdare, cu ascultare,

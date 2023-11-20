@@ -1,5 +1,5 @@
 [title]
-Azi cântă, frate, că tu ești salvat {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2126}, id: {k7Hki5iMUctDZ7vfLyuspb}, contentHash: {b51560}}
+Azi cântă, frate, că tu ești salvat {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2126}, id: {k7Hki5iMUctDZ7vfLyuspb}, contentHash: {7dd5da}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -12,7 +12,7 @@ Domnul pe tine
 
 [c]
 Cântece să răsune, să se ducă vestea-n lume
-Că Domnul e Mântuitorul tău și-al meu
+Că Domnul e Mântuitorul tău și-al meu.
 El te călăuzește, zi și noapte te-nsoțește
 Stai dar acum, o, stai pe brațul Său.
 
@@ -24,7 +24,7 @@ Căci ai aflat prin har
 
 [v3]
 Azi cântă, frate,
-/: Și nu te-ntrista. :/
+/: Și nu te-ntrista, :/
 Căci Domnul Isus
 /: Nu te va lăsa. :/
 

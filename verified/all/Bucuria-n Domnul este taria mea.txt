@@ -1,5 +1,5 @@
 [title]
-Bucuria-n Domnul este tăria mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4844}, id: {7MndvTmFpAtk7bUUETn2TG}, contentHash: {3808d6}}
+Bucuria-n Domnul este tăria mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4844}, id: {7MndvTmFpAtk7bUUETn2TG}, contentHash: {b6ae12}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -17,9 +17,9 @@ El mă iubește și acum sunt fericit, (3x)
 Bucuria-n Domnul e tăria mea.
 
 [v4]
-Isus e stânca mea de-aceea nu mă tem, (3x)
+Isus e stânca mea, de-aceea nu mă tem, (3x)
 Bucuria-n Domnul e tăria mea.
 
 [v5]
-Eu vrea să merg cu El toată viața mea, (3x)
+Eu vreau să merg cu El toată viața mea, (3x)
 Bucuria-n Domnul e tăria mea.

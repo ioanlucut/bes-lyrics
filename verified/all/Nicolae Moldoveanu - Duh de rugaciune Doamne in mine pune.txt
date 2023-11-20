@@ -1,5 +1,5 @@
 [title]
-Duh de rugăciune, Doamne, în mine pune {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5335}, id: {h4KzyDqB1pGGSSq6rWqd6Y}, contentHash: {5aa91a}}
+Duh de rugăciune, Doamne, în mine pune {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5335}, id: {h4KzyDqB1pGGSSq6rWqd6Y}, contentHash: {4f50e3}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -11,7 +11,7 @@ Ca să pot cânta pentru slava Ta. :/
 
 [v2]
 Duh de rugăciune, Doamne, în mine pune,
-/: Ca să zbor mai lin, într-un cer senin,
+/: Ca să zbor mai lin, spre cerul senin,
 Ca să fiu ne-nfrânt de-al ispitei gând. :/
 
 [v3]
@@ -22,11 +22,11 @@ Ca să înțeleg adevăru-ntreg. :/
 [v4]
 Duh de rugăciune, Doamne, în mine pune,
 /: Ca să fiu altar, cu-al iubirii jar,
-Ca să îmbrac ceresc traiul pământesc. :/
+Ca să-mbrac ceresc traiul pământesc. :/
 
 [v5]
 Duh de rugăciune, Doamne, în mine pune,
-/: Ca să pot să ascult voia Ta mai mult,
+/: Ca să pot s-ascult voia Ta mai mult,
 Ca să port, curat, chipu-Ți minunat. :/
 
 [v6]

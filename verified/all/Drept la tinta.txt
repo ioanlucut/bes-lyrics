@@ -1,5 +1,5 @@
 [title]
-Drept la țintă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {q29oCWtStYwxUmVCab64DM}, contentHash: {ec4c79}}
+Drept la țintă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {q29oCWtStYwxUmVCab64DM}, contentHash: {4985c9}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c
@@ -11,9 +11,9 @@ La Cuvântul Său puternic
 Tot ce-a spus El s-a făcut.
 
 [v1.2]
-Doamne, vreau să fiu cum este scris,
-Drept, smerit și bun,
-Într-o lume rea cu Tin’ pășesc
+Doamne, vreau să fiu cum este scris:
+Drept, smerit și bun.
+Într-o lume rea cu Tin’ pășesc,
 Spre țintă alerg acum.
 
 [c]

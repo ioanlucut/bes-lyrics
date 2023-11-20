@@ -1,14 +1,14 @@
 [title]
-Aleluia, Tu ești Domn atotputernic {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jUS8UwuWsdmBkLX2cVAdzL}, contentHash: {38a5f5}}
+Aleluia, Tu ești Domn atotputernic {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jUS8UwuWsdmBkLX2cVAdzL}, contentHash: {90c08e}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Aleluia, Aleluia,
+Aleluia, aleluia,
 Tu ești Domn atotputernic
 Și domnești în veci.
-Cu putere și în slavă
+Cu putere și în slavă,
 Biruind mereu peste toate.
 
 [c]

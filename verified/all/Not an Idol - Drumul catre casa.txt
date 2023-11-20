@@ -1,12 +1,12 @@
 [title]
-Drumul către casă {alternative: {*}, composer: {Not an Idol}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238035}, id: {euLzdj19faNsMMiS7RxMjL}, contentHash: {3bcafc}}
+Drumul către casă {alternative: {*}, composer: {Not an Idol}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238035}, id: {euLzdj19faNsMMiS7RxMjL}, contentHash: {c7ea90}}
 
 [sequence]
 v1,v2,c,v3,c
 
 [v1]
 Se aude în ceruri, parcă răsunând,
-Versul unui popor, azi încă mai cântând,
+Versul unui popor, ce azi încă mai cântă,
 E-o rugă ce-și face drumul, uneori,
 Rătăcind printre nori.
 

@@ -1,12 +1,12 @@
 [title]
-Mărturisim acum că suntem slabi {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {778}, id: {u8vrpSWAGDcpmvcsFhJRiL}, contentHash: {98160c}}
+Mărturisim acum că suntem slabi {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {778}, id: {u8vrpSWAGDcpmvcsFhJRiL}, contentHash: {9e0f2c}}
 
 [sequence]
 v1,p,c
 
 [v1]
 Mărturisim acum că suntem slabi,
-Așa de slabi, dar Tu ești Domn,
+Așa de slabi, dar Tu ești Domn.
 Chiar dacă n-avem nimic să-Ți oferim,
 Venim și Îți spunem: Doamne-ajută-ne!
 
