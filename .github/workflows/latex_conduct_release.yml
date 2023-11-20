@@ -26,13 +26,14 @@ jobs:
 
       - name: Generate Release Tag
         id: tag
-        run: echo "{name}={release_tag::BES_$(date +"%Y.%m.%d_%H-%M")}" >> $GITHUB_OUTPUT
+        run: echo "{name}={release_tag::BES_Conduct_$(date +"%Y.%m.%d_%H-%M")}" >> $GITHUB_OUTPUT
 
-      - name: Create Release
+      - name: Release
         uses: softprops/action-gh-release@v1
         with:
           files: 'LaTeX/conduct/BES_Conduct_Afisaj.pdf'
           tag_name: ${{ steps.tag.outputs.release_tag }}
           fail_on_unmatched_files: true
+          draft: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
