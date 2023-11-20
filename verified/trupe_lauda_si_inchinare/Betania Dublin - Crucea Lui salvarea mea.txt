@@ -1,5 +1,5 @@
 [title]
-Crucea Lui, salvarea mea {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213168}, id: {dnPaQeNTSBof9ftTwkjsyn}, contentHash: {f145a1}}
+Crucea Lui salvarea mea {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213168}, id: {dnPaQeNTSBof9ftTwkjsyn}, contentHash: {f145a1}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,c2,b,c,e
@@ -30,7 +30,7 @@ Am fost salvați, descătușați, eliberați.
 [c2]
 Aleluia, aleluia, Isus a înviat!
 Aleluia, aleluia, El e înălțat.
-Ai biruit, Isus, în tine avem victorie.
+Ai biruit, Isus, în Tine avem victorie.
 
 [b]
 Într-o zi, El se va-ntoarce,
