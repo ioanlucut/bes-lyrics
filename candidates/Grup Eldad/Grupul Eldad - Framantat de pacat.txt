@@ -1,5 +1,5 @@
 [title]
-Framantat de pacat {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176809}, id: {ky9dTGB3Zk6urK9XfYh7X4}, contentHash: {e58913}}
+Framantat de pacat {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176809}, id: {ky9dTGB3Zk6urK9XfYh7X4}, contentHash: {1ccd75}}
 
 [sequence]
 v1,v2,e
