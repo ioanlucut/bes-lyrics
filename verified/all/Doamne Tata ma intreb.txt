@@ -1,5 +1,5 @@
 [title]
-Doamne, Tată mă întreb {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hLkpFS6WuBkDqPdSNX3gfu}, contentHash: {e86916}}
+Doamne, Tată mă întreb {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hLkpFS6WuBkDqPdSNX3gfu}, contentHash: {9bd216}}
 
 [sequence]
 v1,v2,c

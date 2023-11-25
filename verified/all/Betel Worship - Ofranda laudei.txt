@@ -1,11 +1,11 @@
 [title]
-Ofranda laudei {alternative: {*}, composer: {Betel Worship}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Ofranda laudei {alternative: {*}, composer: {Betel Worship}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {h1pn4YmA5vP3vvMwN3ss3C}, contentHash: {ef8b6b}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Mai mult ca soarele strălucește gloaria Ta,
+Mai mult ca soarele strălucește gloria Ta,
 Nu-i umbră în a Ta prezență!
 Nu-i muritor să se ridice-n fața Ta,
 ‘Naintea Celui Sfânt din ceruri.
