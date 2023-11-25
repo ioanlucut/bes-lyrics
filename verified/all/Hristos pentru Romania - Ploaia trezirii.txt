@@ -1,5 +1,5 @@
 [title]
-Ploaia trezirii {alternative: {*}, composer: {Hristos pentru România}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mQsFhMVw6GtA9MqwFTB4Vb}, contentHash: {e5ef81}}
+Ploaia trezirii {alternative: {*}, composer: {Hristos pentru România}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mQsFhMVw6GtA9MqwFTB4Vb}, contentHash: {d6757a}}
 
 [sequence]
 v1,c,v2,c
