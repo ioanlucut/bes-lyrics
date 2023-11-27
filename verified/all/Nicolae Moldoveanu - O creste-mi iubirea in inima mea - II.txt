@@ -1,0 +1,53 @@
+[title]
+O, crește-mi iubirea, în inima mea {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {II}, genre: {*}, rcId: {*}, id: {rNYaekDHMdp5iKMUFEgQXd}, contentHash: {f57b3e}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+O, crește-mi iubirea, în inima mea,
+Isuse, Isuse, mereu Te-aș ruga!
+/: Îmi umple cu dorul pe care-l aștept
+Și ochii și glasul și inima-n piept! :/
+
+[v2]
+O, crește-mi iubirea, Isuse iubit,
+Să fiu de-a ei haruri mereu copleșit!
+/: Revarsă-mi-o-n suflet, cu val după val,
+Ca râul ce crește și dă peste mal! :/
+
+[v3]
+O, crește-mi iubirea, iubite Isus,
+În starea și locul în care m-ai pus!
+/: Să port pretutindeni belșugu-i de har
+Și-a ei revărsare să n-aibă hotar! :/
+
+[v4]
+O, crește-mi iubirea, cu focu-i sfințit,
+Și chiar de m-ar arde, să fiu mistuit!
+/: Flămând de iubire, mereu Te-aș ruga:
+O, crește-mi iubirea, în inima mea! :/
+
+[v5]
+O, crește-mi iubirea, cu rodu-i sfințit,
+Chiar numai cu ură de-aș fi răsplătit!
+/: Să nu pot, Isuse, trăi fără ea,
+O, crește-mi iubirea, în inima mea! :/
+
+[v6]
+O, crește-mi iubirea, Isuse iubit,
+Căci Tu pe Golgota ai fost răstignit!
+/: Când fiere amară să bei ei Ți-au dat
+Și nimeni, din milă, nu Te-a ajutat. :/
+
+[v7]
+O, crește-mi iubirea, iubite Isus,
+Credința și pacea s-o am până sus!
+/: Alină-mi durerea și inima-n piept
+Cu dorul Tău, Doamne, pe care-l aștept! :/
+
+[v8]
+Grăbește-Ți venirea, Isuse iubit,
+Și nu ne mai lăsa în chinul cumplit!
+/: Suntem dornici, Doamne, de venirea Ta,
+Până când, Isuse, Te vom revedea! :/

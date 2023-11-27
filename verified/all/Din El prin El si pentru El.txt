@@ -1,15 +1,15 @@
 [title]
-Din El, prin El și pentru El {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3880}, id: {4zjVTMgQ9ys2a9BTFkAFaV}, contentHash: {f65fdf}}
+Din El, prin El și pentru El {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3880}, id: {4zjVTMgQ9ys2a9BTFkAFaV}, contentHash: {bf7f40}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
 /: Din El, prin El și pentru El
-Sunt toate lucrurile. :/ (3x)
+Sunt toate lucrurile. :/ (x3)
 
 [c]
 A Lui să fie gloria,
 A Lui să fie gloria,
 A Lui să fie gloria,
-În veci de veci, Amin!
+În veci de veci, amin!
