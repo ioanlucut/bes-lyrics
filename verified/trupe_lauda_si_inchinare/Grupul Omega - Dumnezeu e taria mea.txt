@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e tăria mea {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1053}, id: {syR2s9xDncwmcFTsMVcqk6}, contentHash: {2cd378}}
+Dumnezeu e tăria mea {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1053}, id: {syR2s9xDncwmcFTsMVcqk6}, contentHash: {a73219}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -7,7 +7,7 @@ v1.1,v1.2,c,v2.1,v2.2,c
 [v1.1]
 Când în zare se ivește solul celui necurat,
 Dumnezeu e tăria mea!
-Când oștirile de demoni cerul au întunecat,
+Când armatele de duhuri cerul au întunecat,
 Dumnezeu e tăria mea!
 
 [v1.2]
