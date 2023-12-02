@@ -1,0 +1,22 @@
+[title]
+România {alternative: {*}, composer: {The Messangers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dSjigubWKDovJeogD3kABA}, contentHash: {67b614}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Am văzut lumina zilei într-o casă-ntre Carpați,
+Pe pământul României, cu oameni buni și minunați.
+Am venit acum acasă, să vă spunem tuturor
+Dumnezeul nostru mare, vă iubește cu mult dor.
+
+[c]
+Românie, țara mea, Dumnezeul veșnic vrea
+Să-I deschizi Lui inima ta,
+El mântuire îți va da.
+
+[v2]
+Dumnezeu L-a dăruit pe Isus pentru oricine
+Dacă crezi ești mântuit, te iubește și pe tine.
+Doar în El tu vei avea, Românie, țara mea,
+Fericirea pe pământ și-o viață veșnică-n curând.
