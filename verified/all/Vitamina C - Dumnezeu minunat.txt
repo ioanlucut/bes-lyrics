@@ -1,5 +1,5 @@
 [title]
-Dumnezeu minunat {alternative: {*}, composer: {Vitamina C}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1079}, id: {mxQSD1Sb2VtmGjGVNN2aHp}, contentHash: {67d578}}
+Dumnezeu minunat {alternative: {*}, composer: {Vitamina C}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1079}, id: {mxQSD1Sb2VtmGjGVNN2aHp}, contentHash: {7e3e46}}
 
 [sequence]
 v1.1,v1.2,c,b,c
@@ -12,7 +12,7 @@ Toate cântă pentru Creator.
 
 [v1.2]
 Planetele se mișcă la porunca Ta,
-Pământul liniștit toarce-n axa sa
+Pământul liniștit toarce-n axa sa,
 Galaxii ce fredonează toate-n cor:
 Vrednic este al nostru Creator.
 
@@ -20,10 +20,8 @@ Vrednic este al nostru Creator.
 Dumnezeu minunat, în palma Ta am fost săpat,
 Înainte să văd lumea eram un vis în inima Ta,
 Dumnezeu minunat, în palma Ta am fost săpat!
-Tu ești Stănca pe care stau, Tu ești apa din care beau.
+Tu ești Stânca pe care stau, Tu ești apa din care beau.
 
 [b]
-E un mister, e o minune
-Ce nu se poate explica.
-Cu tot ce este Doamne-n mine
-Eu Îți voi cânta.
+E un mister, e o minune ce nu se poate explica.
+Cu tot ce este Doamne-n mine eu Îți voi cânta.

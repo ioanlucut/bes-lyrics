@@ -1,5 +1,5 @@
 [title]
-El e fântâna cu ape vii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {779}, id: {g6rKgAweS9xZu4b9fUYUS8}, contentHash: {af72b3}}
+El e fântâna cu ape vii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {779}, id: {g6rKgAweS9xZu4b9fUYUS8}, contentHash: {191f95}}
 
 [sequence]
 c,v1.1,v1.2,c,v2,c,v3,c
@@ -7,8 +7,7 @@ c,v1.1,v1.2,c,v2,c,v3,c
 [v1.1]
 Astăzi cânt voios că Dumnezeu
 E Stăpânul vieții mele, El e Domnul meu!
-Cine pe pământ, cine-n ceruri sus
-E ca Domnul meu, Isus?
+Cine pe pământ, cine-n ceruri sus e ca Domnul meu, Isus?
 
 [v1.2]
 Fără El, flămând și însetat,

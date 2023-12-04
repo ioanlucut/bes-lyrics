@@ -1,0 +1,29 @@
+[title]
+Promisiuni {alternative: {*}, composer: {Joe L Barnes}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {9wbxAYnsuNcEwyKSC4RmTF}, contentHash: {035ac3}}
+
+[sequence]
+v1,b,c,v2,b,c,e
+
+[v1]
+Dumnezeul lui Avraam, credincios prin legământ
+Și prin Cuvântul scris
+De-atâtea ori, Tu ai dovedit că faci ce ai promis.
+
+[b]
+De-ar veni furtuni, vânturi mari în jur, nu mă voi clinti,
+În inima mea, știu că voia Ta se va împlini!
+De-ar veni furtuni, vânturi mari în jur, nu mă voi clinti,
+În inima mea, știu că voia Ta se va împlini!
+
+[c]
+O, cât de credincios ești Tu, o, cât de credincios ești Tu,
+De la răsărit, până la apus Te voi lăuda!
+O, cât de credincios ești Tu!
+
+[v2]
+Domn din veșnicii, chiar pământul de-ar pieri, Isus va dăinui.
+Fără de-nceput, „Eu-sunt-cel-ce-sunt” în veci va domni.
+
+[e]
+Mi-am pus nădejdea-n Isus, El mi-este ancora,
+Speranța neclintită, El nu mă va lăsa.

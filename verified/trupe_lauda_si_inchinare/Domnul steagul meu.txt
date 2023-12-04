@@ -1,20 +1,17 @@
 [title]
-Domnul, steagul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {o3gWRFbvrQPNQN9mc8e1Dy}, contentHash: {ff7bfa}}
+Domnul, steagul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {o3gWRFbvrQPNQN9mc8e1Dy}, contentHash: {fb067b}}
 
 [sequence]
 v1,p,c
 
 [v1]
-Știu că Tu mă asculți,
-Când Te chem mă ajuți.
-În necaz mă ocrotești,
-Mă sprijinești. (2x)
+Știu că Tu mă asculți, când Te chem mă ajuți,
+În necaz mă ocrotești, mă sprijinești. (x2)
 
 [p]
 Chiar de voi cădea, mă vei ridica,
 Te voi înălța, toată viața mea.
 
 [c]
-Ne vom bucura de biruința Ta,
-În Numele Tău, spre slava Ta,
+Ne vom bucura de biruința Ta, în Numele Tău, spre slava Ta,
 Steagul vom flutura.

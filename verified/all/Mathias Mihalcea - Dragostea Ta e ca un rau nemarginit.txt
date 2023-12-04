@@ -1,0 +1,36 @@
+[title]
+Dragostea Ta e ca un râu nemărginit {alternative: {*}, composer: {Mathias Mihalcea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kNtNNXiWbBCDFyGekfMRTN}, contentHash: {804f5f}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c
+
+[v1]
+Dragostea Ta e ca un râu nemărginit,
+Ce curge zilnic de la tronul Tău divin.
+Prin jertfa Ta, Isus și eu am fost sfințit,
+Cu Tine mă laud, în Tine mă laud.
+
+[v2]
+Dragostea Ta e ca un foc mistuitor,
+Omul cel vechi e ars și azi sunt un om nou.
+Un Tată bun ai fost, în brațul Tău mă ții,
+Cu Tine mă laud, în Tine mă laud!
+
+[c]
+/: Nu sunt vrednic să fiu azi iubit
+De Regele ce pe cruce-a murit,
+Dar dragostea Ta m-a iertat
+Și sunt pe veci salvat!
+Fii înălțat, Domn minunat! :/
+
+[v3]
+Dragostea Ta e ca un turn nestrămutat,
+În care stau și nu voi fi nicicând mutat.
+Chiar de necaz și teamă mă vor copleși,
+Cu Tine mă laud, în Tine mă laud!
+
+[v4]
+Hai și tu să vezi ce bun este Isus!
+Dragostea Sa pe-o cruce grea de lemn L-a pus,
+Ca noi astăzi să putem liberi să fim,
+În ceruri să mergem, în cer noi să mergem!
