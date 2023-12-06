@@ -1,0 +1,21 @@
+[title]
+Cântă îngerii voios {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {9D34uESSzCuphDDM4Xt9RR}, contentHash: {a6e7ff}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cântă îngerii voios că ni S-a născut Hristos,
+El e Fiul lui Dumnezeu, a venit din cerul Său.
+
+[c]
+/: Mii de îngeri cântă-n cor, ei colindă cântul lor
+Împărat și Rege mare, slavă-n veci și onoare! :/
+
+[v2]
+A lăsat cerul slăvit pe pământ venind smerit,
+Născut prin fecioară sfântă, jos în ieslea cea măruntă.
+
+[v3]
+Hai cu toții să-L slăvim, în colind să ne unim,
+Slavă-n cer și pe pământ cu îngerii lăudând.

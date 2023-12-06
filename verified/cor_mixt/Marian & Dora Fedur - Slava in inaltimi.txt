@@ -1,5 +1,5 @@
 [title]
-Slavă în înălțimi {alternative: {*}, composer: {Marian & Dora Fedur}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gc4akwmouS91jHVWEttV8s}, contentHash: {208115}}
+Slavă în înălțimi {alternative: {*}, composer: {Marian & Dora Fedur}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {gc4akwmouS91jHVWEttV8s}, contentHash: {208115}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c2

@@ -1,5 +1,5 @@
 [title]
-Un Copil ni S-a născut {alternative: {*}, composer: {Marian Fedur}, writer: {Marian Fedur}, arranger: {Lucian Mârza}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corurile reuinte ale BES}, genre: {*}, rcId: {*}, id: {1y9BHg4dNhh9cvzmrsy5Sw}, contentHash: {c9bf63}}
+Un Copil ni S-a născut {alternative: {*}, composer: {Marian Fedur}, writer: {Marian Fedur}, arranger: {Lucian Mârza}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corurile reuinte ale BES}, genre: {*}, rcId: {*}, id: {1y9BHg4dNhh9cvzmrsy5Sw}, contentHash: {c9bf63}}
 
 [sequence]
 v1,v2,c,b,c2

@@ -1,5 +1,5 @@
 [title]
-Departe-ntr-o iesle, în paie ascuns {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {2UqneUTP45jTCVjWLxdbmC}, contentHash: {e0078e}}
+Departe-ntr-o iesle, în paie ascuns {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {ii}, genre: {*}, rcId: {*}, id: {2UqneUTP45jTCVjWLxdbmC}, contentHash: {8c9e9a}}
 
 [sequence]
 v1,v2,v3
@@ -18,6 +18,6 @@ O, Prunc minunat, Te slăvim c-ai venit
 
 [v3]
 Rămâi, drag Isuse, cu noi, Te rugăm!
-N-avem bogății, dar tot ce avem Îți dăm,
+N-avem bogății, dar tot ce-avem Îți dăm,
 Iar, Tu, dă-ne binecuvântarea Ta
 /: Și viața întreagă la iesle vom sta. :/

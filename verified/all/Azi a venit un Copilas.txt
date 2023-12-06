@@ -1,0 +1,29 @@
+[title]
+Azi a venit un Copilaș {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {62EQu5AbBGm8x6Bq6qhp6N}, contentHash: {e277ae}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Azi a venit un Copilaș,
+Frumos și dulce și gingaș.
+El din Fecioară S-a născut,
+Ce bucurie ne-a făcut!
+
+[v2]
+Acesta e Isus Hristos,
+E Domnul nostru cel milos
+Ce vine ca Mântuitor,
+Iubind tot neamul muritor.
+
+[v3]
+El fericirea ne-a adus
+De la Părintele-de-sus
+Spre a putea să ne suim
+În rai și veșnic să trăim.
+
+[v4]
+Cu toții să ne bucurăm
+Și laude-n veci de veci să-I dăm,
+Căci azi din ceruri Domnul Sfânt
+Trimis-a Fiul pe pământ.

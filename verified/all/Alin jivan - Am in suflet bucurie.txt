@@ -1,5 +1,5 @@
 [title]
-Am în suflet bucurie {alternative: {*}, composer: {Alin jivan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3K4Q1Caoyz7nksQFASxzz5}, contentHash: {89a1e3}}
+Am în suflet bucurie {alternative: {*}, composer: {Alin jivan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {hMpSL4miHdQEcnJd4EskB8}, contentHash: {89a1e3}}
 
 [sequence]
 c,v1,c,v2,c,v3,c

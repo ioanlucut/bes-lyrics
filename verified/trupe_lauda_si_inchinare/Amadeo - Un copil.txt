@@ -1,23 +1,23 @@
 [title]
-Un copil {alternative: {*}, composer: {Amadeo}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {132126}, id: {eSgiG4REedx4c7MMUyS4Wm}, contentHash: {4a6b3d}}
+Un Copil {alternative: {*}, composer: {Amadeo}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {132126}, id: {eSgiG4REedx4c7MMUyS4Wm}, contentHash: {016fc6}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Căci un Copil ni s-a născut,
+Căci un Copil ni S-a născut,
 Cel ce n-are început.
-Căci un Fiu ni s-a dat,
+Căci un Fiu ni S-a dat,
 El e Marele-mpărat.
 
 [c]
-/: Îl vor numi sfetnic, minunat,
+/: Îl vor numi Sfetnic, Minunat,
 Domn al păcii, adorat,
 Dumnezeu tare, Savaot,
 Părinte-al veșniciilor. :/
 
 [v2]
-El, Dumnezeul nevăzut
+El, Dumnezeul nevăzut,
 S-a făcut azi cunoscut.
 A venit din veșnicii
 Să ne aducă bucurii.
