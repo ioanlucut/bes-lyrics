@@ -1,17 +1,19 @@
 [title]
-Azi vin să Te-ntâlnesc {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fdBfCHLney61t7xswMSj87}, contentHash: {d2ee45}}
+Azi vin să Te-ntâlnesc {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fdBfCHLney61t7xswMSj87}, contentHash: {70546b}}
 
 [sequence]
-c,v1,c,v1
+c,v1.1,v1.2,c,v1.1,v1.2
 
 [c]
 Azi vin să Te-ntâlnesc
 Cu Tine să vorbesc.
 Azi vin să Te găsesc, să-Ți spun cât Te iubesc!
 
-[v1]
+[v1.1]
 Și aștept să mă întărești
-Cu-al Tău braț să mă spijinești,
+Cu-al Tău braț să mă sprijinești,
 Să cobori Duhul Tău cel Sfânt.
+
+[v1.2]
 Laude, laude, Doamne, să îți cânt!
 /: Vino azi, vino azi, umple-acest loc sfânt. :/
