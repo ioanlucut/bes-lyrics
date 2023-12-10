@@ -5,7 +5,7 @@ Azi vin să Te-ntâlnesc {alternative: {*}, composer: {Cor copii Dynamis}, write
 c,v1.1,v1.2,c,v1.1,v1.2
 
 [c]
-Azi vin să Te-ntâlnesc
+Azi vin să Te-ntâlnesc,
 Cu Tine să vorbesc.
 Azi vin să Te găsesc, să-Ți spun cât Te iubesc!
 
@@ -15,5 +15,5 @@ Cu-al Tău braț să mă sprijinești,
 Să cobori Duhul Tău cel Sfânt.
 
 [v1.2]
-Laude, laude, Doamne, să îți cânt!
+Laude, laude, Doamne, să Îți cânt!
 /: Vino azi, vino azi, umple-acest loc sfânt. :/
