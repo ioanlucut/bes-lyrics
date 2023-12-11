@@ -1,0 +1,31 @@
+[title]
+Te lăudăm {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din durere și păcat
+Oameni noi ai ridicat,
+Ce mare ești!
+Harul Tău ne-a dezrobit,
+Viață veșnică-am primit,
+Ce mare ești!
+
+[c]
+/: Te lăudăm, puternic Domn,
+Ești vrednic! :/
+
+[v2]
+O veșnicie să-Ți cântăm,
+Nu-i de-ajuns să Te-nălțăm,
+Ce mare ești!
+Rege veșnic, întrupat,
+Plata vinei noastre-ai luat,
+Ce mare ești!
+
+[v3]
+Tu ești Alfa,
+Ești Omega,
+Început ești și sfârșit,
+Ești calea spre viața de veci!
