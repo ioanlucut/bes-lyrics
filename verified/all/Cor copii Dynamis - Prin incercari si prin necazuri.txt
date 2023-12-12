@@ -1,0 +1,28 @@
+[title]
+Prin încercări și prin necazuri {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fUkAoRAYAY7e3AHMTZ9jjp}, contentHash: {5629f5}}
+
+[sequence]
+v1,c,v2,c,p,c
+
+[v1]
+Prin încercări și prin necazuri
+Domnul Isus a fost cu noi,
+Ne-a sprijinit, ne-a dat putere
+Prin dureri și prin nevoi, și cântăm:
+
+[c]
+O, ooo, ne va conduce,
+O, ooo și ne va duce
+Înspre țara Sa ude-I vom cânta:
+O, oo, aleluia!
+
+[v2]
+Tot ce-a promis El împlinește
+Și Își arată dragostea,
+E Dumnezeu și ne iubește,
+I se cuvine lauda și cântăm:
+
+[p]
+/: În veci El a fost
+Și-n veci El va fi,
+El e vrednic, El e credincios. :/ (x4)
