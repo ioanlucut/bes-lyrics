@@ -1,5 +1,5 @@
 [title]
-O, ce veste minunată {alternative: {*}, composer: {Dumitru G. Kiriac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1509}, id: {kn4sURoXpcxkSj7j9UAcun}, contentHash: {c64ef4}}
+O, ce veste minunată {alternative: {*}, composer: {Dumitru G. Kiriac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1509}, id: {kn4sURoXpcxkSj7j9UAcun}, contentHash: {83c7c4}}
 
 [sequence]
 v1,v2,v3,v4
