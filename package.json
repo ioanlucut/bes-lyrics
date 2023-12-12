@@ -9,6 +9,7 @@
     "@types/nspell": "^2.1.6",
     "@types/string-similarity": "^4.0.2",
     "chalk": "^4.1.2",
+    "crlf-normalize": "^1.0.19",
     "dictionary-ro": "^2.1.0",
     "dotenv": "^16.3.1",
     "fs-extra": "^11.1.1",

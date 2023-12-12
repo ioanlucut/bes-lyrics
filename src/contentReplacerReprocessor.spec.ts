@@ -39,6 +39,15 @@ Mesia
 `);
   });
 
+  it('should rewrite CLRF to LF', () => {
+    expect(reprocess('foo\r\nbar\nbaz\r')).toMatchInlineSnapshot(`
+"foo
+bar
+baz
+"
+`);
+  });
+
   it('should correctly rewrite "nici o" & friends text', () => {
     expect(
       reprocess(`

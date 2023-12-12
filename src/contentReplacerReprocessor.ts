@@ -1,3 +1,4 @@
+import { crlf, LF } from 'crlf-normalize';
 import { EMPTY_STRING } from './constants.js';
 
 const getRegexNotMatchingStartOfALine = (text: string) =>
@@ -11,8 +12,7 @@ const getRegexNotMatchingStartOfALine = (text: string) =>
  * @param songContent The song content to be reprocessed
  */
 export const reprocess = (songContent: string) =>
-  songContent
-
+  crlf(songContent, LF)
     .replaceAll(/\r/gi, EMPTY_STRING)
     // Not at the beginning of the line
     .replaceAll(getRegexNotMatchingStartOfALine('Nici o'), 'Nicio')
