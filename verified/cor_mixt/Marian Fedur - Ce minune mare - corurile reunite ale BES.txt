@@ -1,0 +1,37 @@
+[title]
+Ce minune mare {alternative: {*}, composer: {Marian Fedur}, writer: {Marian Fedur}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corurile reunite ale BES}, genre: {*}, rcId: {*}, id: {v6wWjmWWcrqX4sAhgsQSx5}, contentHash: {60838f}}
+
+[sequence]
+v1.1,v1.2,c,b,v2,c,e
+
+[v1.1]
+Ce minune mare, mare sărbătoare,
+În Betleem în noaptea rece, un Prunc ni S-a născut
+Ce măreață veste, nu e o poveste,
+Lumina lumii, în bezna nopții la noi S-a coborât.
+Ce minune, ce minune!
+
+[v1.2]
+Ce minune mare, mare sărbătoare,
+În Betleem în noaptea rece, un Prunc ni S-a născut
+Ce măreață veste, nu e o poveste,
+Lumina lumii, în bezna nopții la noi S-a coborât.
+
+[c]
+Sunați din nou cântări, sunați din depărtări:
+Mesia S-a născut!
+Cu cerul vă-nchinați, pe Domnul lăudați,
+Căci ne-a adus salvare!
+
+[b]
+Ce minune, ce minune!
+
+[v2]
+Peste tot răsună astăzi vestea bună
+Cu îngeri, cu păstori și magi veniți să ne-nchinăm
+Copilului din iesle,
+Celui ce domnește în inimi sfinte,
+Să-I dăm cinste și în veci să Îi slujim.
+
+[e]
+Ce minune!

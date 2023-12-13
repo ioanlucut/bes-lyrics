@@ -1,0 +1,35 @@
+[title]
+Și azi pe străzi de iarnă {alternative: {*}, composer: {*}, writer: {Genova Sfatcu}, arranger: {Emanuel Bălăceanu}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cGsqZKBYQPWuVk1qJ5MGuy}, contentHash: {a90ef9}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Și azi pe străzi de iarnă
+Și azi pe la ferestre ninse,
+Domnul Isus coboară
+Să bată la porțile-nchise.
+
+[v1.2]
+Și tu deschizi fereastra
+Să vezi cum bate seara la inima ta.
+Iată acum ce simt
+Să te întreb: care-ți este al tău gând?
+
+[c]
+Vei spune da, sau vei spune nu,
+Va trece iar pe lângă tine colindul?
+Îl vei primi pe Isus ca Domn?
+Cum să-ți spun cât este de bun?
+
+[v2.1]
+Și azi pe străzi de iarnă
+Și azi pe la ferestre ninse,
+Domnul Isus coboară
+Să bată la inimi închise.
+
+[v2.2]
+Și tu-i auzi bătaia
+Și-n preajma ta Îl simți, și-Ți bate inima,
+Îți știu îndoiala,
+Primește-L azi și-ți va schimba viața!

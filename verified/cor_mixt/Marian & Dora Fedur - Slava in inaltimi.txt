@@ -1,0 +1,41 @@
+[title]
+Slavă în înălțimi {alternative: {*}, composer: {Marian & Dora Fedur}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gc4akwmouS91jHVWEttV8s}, contentHash: {208115}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,b,c2
+
+[v1.1]
+Într-o noapte-n Betleem păstorii își păzeau
+Turmele în câmp, de strajă ei făceau.
+Un înger străluci împrejurul lor
+
+[v1.2]
+Duios el le vorbi de-un Mântuitor:
+„Nu vă înfricați căci v-aduc o veste:
+Azi în Betleem un Prunc vi S-a născut!”
+
+[c]
+Slavă lui Dumnezeu, slavă în locurile ‘nalte,
+Pace, pace între oameni plăcuți Domnului!
+Cântați-I slavă lui Dumnezeu, slavă în locurile ‘nalte,
+Pace, pace între oameni plăcuți Domnului!
+
+[v2.1]
+Spuneți tuturor că S-a născut Isus,
+Cântați cu îngerii, cântați cu cei de sus!
+El, Regele Isus, cerul a lăsat,
+
+[v2.2]
+Pentru mine a venit să fiu pe veci salvat.
+Îl voi lăuda întreagă viața mea
+Și-L voi mărturisi ca Domn și Împărat!
+
+[b]
+/: Săltați, cântați în Israel va reveni Emanuel! :/
+
+[c2]
+Slavă lui Dumnezeu, slavă în locurile ‘nalte,
+Pace, pace între oameni plăcuți Domnului!
+Cântați-I slavă lui Dumnezeu, slavă în locurile ‘nalte,
+Pace, pace /: între oameni plăcuți Domnului! :/
+Cântați-I slavă lui Dumnezeu!
