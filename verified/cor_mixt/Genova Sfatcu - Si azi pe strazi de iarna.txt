@@ -1,5 +1,5 @@
 [title]
-Și azi pe străzi de iarnă {alternative: {*}, composer: {*}, writer: {Genova Sfatcu, adaptare}, arranger: {Emanuel Bălăceanu}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Și azi pe străzi de iarnă {alternative: {*}, composer: {*}, writer: {Genova Sfatcu}, arranger: {Emanuel Bălăceanu}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cGsqZKBYQPWuVk1qJ5MGuy}, contentHash: {a90ef9}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -21,7 +21,6 @@ Vei spune da, sau vei spune nu,
 Va trece iar pe lângă tine colindul?
 Îl vei primi pe Isus ca Domn?
 Cum să-ți spun cât este de bun?
-
 
 [v2.1]
 Și azi pe străzi de iarnă
