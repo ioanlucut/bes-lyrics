@@ -1,0 +1,33 @@
+[title]
+Un Copil ni S-a născut {alternative: {*}, composer: {Marian Fedur}, writer: {Marian Fedur}, arranger: {Lucian Mârza}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corurile reuinte ale BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,c,b,c2
+
+[v1]
+Un Copil ni S-a născut,
+Azi un Fiu ni S-a dat.
+El va domni, va fi-mpărat,
+A venit să fim salvați.
+
+[v2]
+Sfânt Copil trimis de sus,
+Viață-n dar Tu ne-ai adus,
+Iubirea Ta ne-a copleșit,
+Mulțumim că ai venit!
+
+[c]
+/: Minunat, Sfetnic bun, Dumnezeu puternic,
+Veșnicia e a Lui,
+Pace-n dar ne-aduce! :/
+
+[b]
+Glorie în înălțimi,
+Pace jos pe-ntreg pământ!
+
+[c2]
+Minunat, Sfetnic bun, Dumnezeu puternic,
+Veșnicia e a Lui,
+Pace-n dar ne-aduce!
+Emanuel, rămâi cu noi azi prin lumea rece,
+Fii al nostru rege!

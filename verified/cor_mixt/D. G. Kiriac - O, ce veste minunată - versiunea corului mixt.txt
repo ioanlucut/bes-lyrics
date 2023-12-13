@@ -1,0 +1,25 @@
+[title]
+O, ce veste minunată {alternative: {*}, composer: {D. G. Kiriac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corurile reunite ale BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+O, ce veste minunată:
+În Betleem ni se-arată
+/: Că a născut Prunc,
+Prunc din Duhul Sfânt,
+Fecioara Maria. :/
+
+[v2]
+Că la Betleem Maria
+Săvârșind călătoria
+/: În sărac sălaș,
+Lâng-acel oraș,
+Naște pe Mesia. :/
+
+[v3]
+Pe Fiul Cel din vecie
+Ce L-a trimis Tatăl mie
+/: Să Se nască și să crească,
+Să ne mântuiască :/
