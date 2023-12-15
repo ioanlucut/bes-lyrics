@@ -1,0 +1,24 @@
+[title]
+Sublimă stea {alternative: {*}, composer: {Nelu Mureșan}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Sublimă stea ce-ai coborât la mine,
+Pentru că m-ai iubit, mi-ai arătat ce-nseamnă umilința,
+Mi-ai arătat ce-nseamnă pocăința.
+Iubindu-mă, Tu mi-ai primit căința, apoi m-ai mântuit.
+
+[v2]
+Sublimă stea ce strălucești în noapte
+Pentru păcatul meu, în Tine-mi pot vedea oricând făptura,
+Îmi pot spăla oricând tina și zgura,
+Pot fi curat acum și-n totdeauna
+Căci ești Dumnezeu.
+
+[v3]
+Sublimă stea, izvor sfânt de nădejde al celor mulți și goi,
+Deschide ochii tuturor să vadă, zdrobește inimi tari ca să Te creadă,
+Ne dă putere să-Ți urmăm și-n slavă revino iar la noi,
+Sublimă stea!
