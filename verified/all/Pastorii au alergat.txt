@@ -1,5 +1,5 @@
 [title]
-Păstorii au alergat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dRGYekB64jEdyEZmCE2saC}, contentHash: {1fab44}}
+Păstorii au alergat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dRGYekB64jEdyEZmCE2saC}, contentHash: {89cc37}}
 
 [sequence]
 v1,c,v2,c,b,c,v3,c
@@ -13,11 +13,11 @@ Născut în iesle, Domn din vecie,
 [c]
 Aud cum cântă îngerii:
 Aleluia, laudă Regelui Isus!
-Căci a venit la noi, din iubire
+Că a venit la noi, din iubire,
 /: S-a născut Isus! :/
 
 [v2]
-Păstori s-au grăbit să ducă vestea
+Păstorii s-au grăbit să ducă vestea
 Căci Isus S-a născut.
 Slăveau pe Dumnezeu, căci a venit din cer,
 /: Ce minunat Împărat! :/
