@@ -1,5 +1,5 @@
 [title]
-Măreața veste-a dragostei {alternative: {*}, composer: {Williams J. Gather & J. D. Miller}, writer: {Dorin Giurgiu, adaptare}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Măreața veste-a dragostei {alternative: {*}, composer: {Williams J. Gather & J. D. Miller}, writer: {Dorin Giurgiu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {piBTW3E8gB2YvZqQpFb1MQ}, contentHash: {2bcc34}}
 
 [sequence]
 v1,c,v2,c

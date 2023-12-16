@@ -1,5 +1,5 @@
 [title]
-Sublimă stea {alternative: {*}, composer: {Nelu Mureșan}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Sublimă stea {alternative: {*}, composer: {Nelu Mureșan}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1PMbBjYUuP7djeZPJq5hNw}, contentHash: {4e6832}}
 
 [sequence]
 v1,v2,v3

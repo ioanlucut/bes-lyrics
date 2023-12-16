@@ -1,5 +1,5 @@
 [title]
-Glorie în înălțime {alternative: {*}, composer: {Daryl Williams}, writer: {Dinu Fedur, adaptare}, arranger: {Jay Rouse}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Glorie în înălțime {alternative: {*}, composer: {Daryl Williams}, writer: {Dinu Fedur}, arranger: {Jay Rouse}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {h7m4wBZLo27fSaCpuHwGVJ}, contentHash: {3cdb0e}}
 
 [sequence]
 v1.1,v1.2,v2,v1.2,e
