@@ -1,5 +1,5 @@
 [title]
-Și azi pe străzi de iarnă {alternative: {*}, composer: {*}, writer: {Genova Sfatcu}, arranger: {Emanuel Bălăceanu}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cGsqZKBYQPWuVk1qJ5MGuy}, contentHash: {a90ef9}}
+Și azi pe străzi de iarnă {alternative: {*}, composer: {*}, writer: {Genova Sfatcu}, arranger: {Emanuel Bălăceanu}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cGsqZKBYQPWuVk1qJ5MGuy}, contentHash: {677f7d}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -31,5 +31,5 @@ Să bată la inimi închise.
 [v2.2]
 Și tu-i auzi bătaia
 Și-n preajma ta Îl simți, și-Ți bate inima,
-Îți știu îndoiala,
+Deschide-I ușa larg,
 Primește-L azi și-ți va schimba viața!
