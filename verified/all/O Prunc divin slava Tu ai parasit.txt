@@ -1,5 +1,5 @@
 [title]
-O, Prunc divin, slava Tu ai părăsit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+O, Prunc divin, slava Tu ai părăsit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jrk7Z8YfLtydCY244nSPyU}, contentHash: {6347ea}}
 
 [sequence]
 v1,c,v2,c

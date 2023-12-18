@@ -1,5 +1,5 @@
 [title]
-Maria, te-ai gândit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Maria, te-ai gândit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xyHKMm4RMynzZa4mrxQ49N}, contentHash: {2c1395}}
 
 [sequence]
 v1,v2,v3,v4
