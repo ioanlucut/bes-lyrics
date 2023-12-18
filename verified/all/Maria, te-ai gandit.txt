@@ -2,7 +2,7 @@
 Maria, te-ai gândit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
 
 [sequence]
-v1,v2,c,v3
+v1,v2,v3,v4
 
 [v1]
 Maria, te-ai gândit că Fiul tău va fi cânva un Rege?
