@@ -1,5 +1,5 @@
 [title]
-Nu există cruce fără iesle {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rRzpzTdemBCaD5agyjkcMU}, contentHash: {1cb9e0}}
+Nu există cruce fără iesle {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {rRzpzTdemBCaD5agyjkcMU}, contentHash: {1cb9e0}}
 
 [sequence]
 v1,c,v2,c2,c

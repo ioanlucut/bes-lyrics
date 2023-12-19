@@ -1,5 +1,5 @@
 [title]
-Azi S-a născut așteptatul Mesia {alternative: {*}, composer: {Ionut & Adela Craciun}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {143197}, id: {mDfXfyus9MAAtygHwiTdMX}, contentHash: {509c27}}
+Azi S-a născut așteptatul Mesia {alternative: {*}, composer: {Ionuț & Adela Crăciun}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {143197}, id: {mDfXfyus9MAAtygHwiTdMX}, contentHash: {9f202a}}
 
 [sequence]
 v1,c,v2,c
@@ -13,11 +13,11 @@ Ce vorbește despre Hristos.
 [c]
 Azi S-a născut așteptatul Mesia,
 Regele Sfânt, Emanuel.
-Să Îi cântăm toți, în cor, „Aleluia!”
+Să Îi cântăm toți, în cor, „Aleluia!”,
 El este Fiul lui Dumnezeu!
 
 [v2]
 Astăzi, ca niciodată,
 Mulțimi de îngeri se grăbesc toți în zbor.
 S-aducă o veste din slavă
-Căci azi se va naște un Salvator.
+Căci azi Se va naște un Salvator.

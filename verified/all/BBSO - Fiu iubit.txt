@@ -1,5 +1,5 @@
 [title]
-Fiu iubit {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {9PjsUyuZyWhdim8N4Ux23j}, contentHash: {4ce9ab}}
+Fiu iubit {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {9PjsUyuZyWhdim8N4Ux23j}, contentHash: {4ce9ab}}
 
 [sequence]
 v1,c,v2,c,e

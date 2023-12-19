@@ -1,0 +1,23 @@
+[title]
+Din strălucire, ce istorisire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {qm3geRCpvXxNYGA2PtodmV}, contentHash: {b962a3}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Din stălucire, ce istorisire:
+Jos, Domnul a venit, Isus El s-a numit.
+Născut în paie, în umile straie,
+Om al durerii și de chin zdrobit.
+
+[c]
+/: O, ce-ndurare, o, Doamne mare,
+Ești al meu Soare și Te iubesc!
+Tu, Creatorul, ești Salvatorul,
+Cum pot, o, Doamne, să-Ți mulțumesc?
+
+[v2]
+Ce bunătate! M-a iertat de toate
+Și-n bezna nopții grea, eu am lumina Sa!
+Să-mi dea iertarea, a lăsat splendoarea,
+A răbdat chinul, pentru vina mea. :/

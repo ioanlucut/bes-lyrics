@@ -1,5 +1,5 @@
 [title]
-Isus Se naște azi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7ktGTfxayr6B47kidDaSyQ}, contentHash: {1bea91}}
+Isus Se naște azi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {7ktGTfxayr6B47kidDaSyQ}, contentHash: {8bfae7}}
 
 [sequence]
 v1,c,v2,c,c2,c
@@ -15,7 +15,7 @@ Vestea bună de Crăciun o colindăm:
 Isus Se naște azi.
 Ca-n fiecare an, e sărbătoare,
 Din inimi noi Îi dăm onoare.
-El, din veșnicie azi, în dar, cu bucrie,
+El, din veșnicie azi, în dar, cu bucurie,
 Lumii-aduce mântuire!
 
 [v2]

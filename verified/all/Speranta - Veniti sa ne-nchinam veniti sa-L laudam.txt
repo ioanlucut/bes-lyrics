@@ -1,0 +1,29 @@
+[title]
+Veniți să ne-nchinăm, veniți să-L lăudăm {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {9vCWdUnLHgNopCdQ9aaYjs}, contentHash: {384798}}
+
+[sequence]
+v1,c,v2,c,v3
+
+[v1]
+Afară este frig, păstorii-s pe câmpie,
+Iar îngerul din cer le spune
+Că-n iesle-n Betleem e mare bucurie:
+A venit Isus în astă lume!
+
+[c]
+/: Veniți să ne-nchinăm, veniți să-L lăudăm,
+Veniți cu toții-n fața Lui!
+El este Împărat, e Rege minunat,
+Veniți să ne-nchinăm azi Domnului! :/
+
+[v2]
+O stea pe cer răsare, iar magii o zăresc
+Și înspre ea ea au mers cu zor,
+Pe Prunc l-au găsit, I s-au închinat,
+El este Domnul domnilor.
+
+[v3]
+Hristos S-a născut pentru omenire
+Ca cei ce cred să trăiască
+O viață din belșug, viață veșnică
+Să aibă cei ce vor să-L primească.

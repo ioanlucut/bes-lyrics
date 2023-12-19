@@ -1,0 +1,21 @@
+[title]
+O, cine este-acest Copil {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {ir4Vpm6mVUuvVVm6YNNSq3}, contentHash: {8b016e}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, cine este-acest Copil ce stă culcat pe paie
+În timp ce îngerii din cer Îi cântă-n adorare?
+
+[c]
+/: El e Hristos Isus, e Regele trimis de sus,
+Veniți și-L căutați pe Cel născut în iesle! :/
+
+[v2]
+El doarme-n ieslea boilor, pe brațele Mariei,
+Păstori și magi aduc cu ei prinosul bucuriei.
+
+[v3]
+Veniți la El bogați, săraci cu daruri și-nchinare
+Căci e nădejdea tuturor, la toți ne e salvare!

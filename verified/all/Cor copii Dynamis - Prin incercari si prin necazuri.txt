@@ -1,5 +1,5 @@
 [title]
-Prin încercări și prin necazuri {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fUkAoRAYAY7e3AHMTZ9jjp}, contentHash: {5629f5}}
+Prin încercări și prin necazuri {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {fUkAoRAYAY7e3AHMTZ9jjp}, contentHash: {d48f1d}}
 
 [sequence]
 v1,c,v2,c,p,c
@@ -13,7 +13,7 @@ Prin dureri și prin nevoi, și cântăm:
 [c]
 O, ooo, ne va conduce,
 O, ooo și ne va duce
-Înspre țara Sa ude-I vom cânta:
+Înspre țara Sa unde-I vom cânta:
 O, oo, aleluia!
 
 [v2]

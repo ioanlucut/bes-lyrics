@@ -1,5 +1,5 @@
 [title]
-Vestea bună a păcii {alternative: {*}, composer: {Marian Fedur}, writer: {Alexandra-Ligia Negru}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gtvwfchtZoqtWxPZ4sm5zZ}, contentHash: {b402bc}}
+Vestea bună a păcii {alternative: {*}, composer: {Marian Fedur}, writer: {Alexandra-Ligia Negru}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {gtvwfchtZoqtWxPZ4sm5zZ}, contentHash: {b402bc}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c2.1,c2.2
