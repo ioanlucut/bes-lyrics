@@ -1,5 +1,5 @@
 [title]
-Harul minunat {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {iTibMtu7q98pam9KshCgx1}, contentHash: {5dcb7e}}
+Harul minunat {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {iTibMtu7q98pam9KshCgx1}, contentHash: {e509b8}}
 
 [sequence]
 v1,v2,v3,v4,c,v5,v6,v7,v8,v9
@@ -8,7 +8,7 @@ v1,v2,v3,v4,c,v5,v6,v7,v8,v9
 „Căci prin har ați fost mântuiți, prin credință.
 Și aceasta nu vine de la voi; ci este darul lui Dumnezeu.
 Nu prin fapte ca să nu se laude nimeni.”
-Efeseni 2:8,9
+Efeseni 2:8-9
 
 [v2]
 O dragoste nemeritată ai turnat în mine,
@@ -17,7 +17,7 @@ M-ai eliberat!
 /: O, ce minunat este al Tău har! :/
 
 [v3]
-Din crucea Ta iertare zi de zi în mine curge
+Din crucea Ta iertare zi de zi în mine curge.
 Nicicând nu aș putea uita,
 Isus de bunătatea Ta.
 /: O, ce minunat este al Tău har! :/
@@ -36,35 +36,33 @@ Doar prin harul Tău.
 [v5]
 În fiecare zi reverși
 Doar binecuvântări cerești.
-/: O, ce minunat este al Tău har! :/ (E harul minunat)
-/: O, ce minunat este al Tău har! :/ (Harul, numai harul)
-/: O, ce minunat este al Tăăăău har! :/ Final
+/: O, ce minunat este al Tău har! :/ E harul minunat!
+/: O, ce minunat este al Tău har! :/ Harul, numai harul!
+/: O, ce minunat este al Tău har! :/
 
 [v6]
-”Ferice de cel cu fărădelegea iertată și de
-cel cu păcatul acoperit.
-Ferice de cel căruia nu-i ține în seamă
-Domnul nelegiuirea”
-Ps. 32:1,2
+„Ferice de cel cu fărădelegea iertată și de cel cu păcatul acoperit.
+Ferice de cel căruia nu-i ține în seamă Domnul nelegiuirea.”
+Ps. 32:1-2
 
 [v7]
 Ce dragoste și ce sfânt har
-Ai revărsat în mine iar
+Ai revărsat în mine iar!
 Din palmele ce pe cruce-au sângerat
 Prin harul Tău eu sunt iertat.
 Eu sunt iertat! Da, sunt iertat!
 Eu sunt iertat, eu sunt iertat!
 
 [v8]
-Mărețul har m-a mântuit pe mine din păcat
+Mărețul har m-a mântuit pe mine din păcat,
 Pierdut eram, dar m-a găsit,
-De moarte m-a scăpat.
+De moarte m-a scăpat
 Și sunt iertat! Eu sunt iertat!
 
 [v9]
 Mărețul har m-a învățat
-S-o rup cu orice rău
-Ce scump mi-e azi tot harul dat
-Trăiesc prin el mereu!
+S-o rup cu orice rău.
+Ce scump mi-e azi tot harul dat,
+Trăiesc prin el mereu,
 Căci sunt iertat!
-/: Eu sunt iertat! :/ (3x)
+/: Eu sunt iertat! :/ (x3)

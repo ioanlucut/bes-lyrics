@@ -1,5 +1,5 @@
 [title]
-Din colind se-aude corul {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qXMsZbsDoHsiPZddshQr2V}, contentHash: {a0e9c0}}
+Din colind se-aude corul {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qXMsZbsDoHsiPZddshQr2V}, contentHash: {31ac49}}
 
 [sequence]
 v1,c,v2,c
@@ -8,12 +8,12 @@ v1,c,v2,c
 Din colind se-aude corul,
 Copilașii se trezesc,
 S-a născut Mântuitorul,
-Pruncul cel Dumnezeiesc.
+Pruncul cel dumnezeiesc!
 
 [c]
 /: S-a născut sărac,
 Cel ce este mai avut.
-Într-o iesle înfășat,
+Într-o iesle, înfășat,
 Cel făr’ de-nceput. :/
 
 [v2]

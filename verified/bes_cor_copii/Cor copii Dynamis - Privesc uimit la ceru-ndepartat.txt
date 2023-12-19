@@ -1,5 +1,5 @@
 [title]
-Privesc uimit la ceru-ndepărtat {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {te4V3N4HXdP1C9LNwdL5Py}, contentHash: {7ec470}}
+Privesc uimit la ceru-ndepărtat {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {te4V3N4HXdP1C9LNwdL5Py}, contentHash: {c83e11}}
 
 [sequence]
 v1,c,c2,c,b,c
@@ -10,7 +10,7 @@ Să număr stelele am încercat și eu,
 Dar n-o să termin niciodată.
 Întinsul lor este fără sfârșit
 Precum iubirea ce ne-a întocmit pe noi,
-Dragostea Sa de Tată:
+Dragostea Sa de Tată.
 
 [c]
 /: Aleluia, Domnul m-a creat
@@ -23,7 +23,7 @@ Dar are timp să poarte grija mea
 Și El cunoaște totul despre mine. :/
 
 [b]
-/:El e Alfa, Omega,
+/: El e Alfa, Omega,
 Sfârșit și început.
 E Rege și Tată,
 Prieten ne-ntrecut. :/

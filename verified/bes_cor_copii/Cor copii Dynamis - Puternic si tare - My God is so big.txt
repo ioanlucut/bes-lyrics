@@ -1,5 +1,5 @@
 [title]
-My God is so big {alternative: {Puternic și tare}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {923c9vf229E99oayuLJSXT}, contentHash: {e150fa}}
+Puternic și tare {alternative: {My God is so big}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {923c9vf229E99oayuLJSXT}, contentHash: {ac0e62}}
 
 [sequence]
 c,v1,c,v2,c,e,c
@@ -22,12 +22,12 @@ Despre puterea Numelui Său!
 Și eu și tu, toți zăceam în păcat,
 El ne-a iertat și valoare ne-a dat.
 Celor bolnavi vindecare le-a dat,
-Și ochii orbilor o luminat.
+Și ochii orbilor a luminat.
 Sus pe o cruce a fost răstignit,
 În locul nostru Isus a murit.
-Dar a-nviat și la cer s-a-nălțat,
+Dar a-nviat și la cer S-a-nălțat,
 Va reveni, Domnul fie lăudat!
 
 [e]
 /: Dumnezeul Tată, Fiul și Duhul Sfânt:
-1 plus 1 plus 1 fac 1! :/
+Unu plus unu plus unu fac unu! :/

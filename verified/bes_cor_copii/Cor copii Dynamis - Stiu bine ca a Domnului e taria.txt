@@ -1,5 +1,5 @@
 [title]
-Știu bine că a Domnului e tăria {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74412}, id: {dxaN5cWWMSYgD35qBo9tQS}, contentHash: {4bd772}}
+Știu bine că a Domnului e tăria {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74412}, id: {dxaN5cWWMSYgD35qBo9tQS}, contentHash: {bcc5c7}}
 
 [sequence]
 v1,v2,v3,v4,v2,c
@@ -12,7 +12,7 @@ Minuni fără sfârșit!
 
 [v2]
 El mută deodată munții
-Și-i răstoarnă dacă vrea
+Și-i răstoarnă dacă vrea.
 Soarele se-ntunecă la porunca Sa!
 Oo, dacă El vrea să-mi facă bine
 Cine-L poate opri?
@@ -21,7 +21,7 @@ Cine-L poate opri?
 Domnul meu poruncește zorilor
 Când s-alunge noaptea
 Și-i arată dimineții locul pe cer.
-În mâna Lui El ține Universul
+În mâna Lui El ține universul
 Și eu-s în mâna Lui!
 
 [v4]

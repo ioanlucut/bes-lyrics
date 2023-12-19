@@ -1,0 +1,29 @@
+[title]
+Un Copil ni S-a născut, un Fiu astăzi ni S-a dat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {iKeozGuHUeTwKEr1vX52CG}, contentHash: {aa81cd}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Un Copil ni S-a născut,
+Un Fiu astăzi ni S-a dat,
+Domn al domnilor e El,
+Se va numi Emanuel. /:
+
+[v1]
+Îngeri cântă-n cor și în versul lor
+Ne spun că în Betleem
+Un Mântuitor avem,
+Isus Hristos, Fiul lui Dumnezeu.
+
+[v2]
+Nu vă-nfricoșați, Pruncul căutați
+Căci la iesle-n Betleem
+Un Mântuitor avem,
+Isus Hristos, Fiul lui Dumnezeu.
+
+[v3]
+Să ne-nchinăm, laudă-n veci să-I dăm
+Căci la iesle-n Betleem
+Un Mântuitor avem,
+Isus, Hristos, Fiul lui Dumnezeu.

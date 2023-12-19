@@ -1,0 +1,33 @@
+[title]
+Iată cum veni la noi Domnul Isus {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {vs2CHRTgZDozqwfkqtQm1P}, contentHash: {3be816}}
+
+[sequence]
+v1,c,v2,c,b,c2
+
+[v1]
+Iată cum veni la noi Domnul Isus,
+Pruncul Sfânt venit de sus.
+Cum Fiul lui Dumnezeu S-a coborât,
+Ca să ne salveze de iad.
+
+[c]
+/: El S-a născut la miezul nopții
+Aducând cu El lumina.
+El a venit ca zorii zilei,
+Întunericul risipind. :/
+
+[v2]
+Păstorașii L-au căutat și L-au găsit
+Și la iesle s-au închinat.
+Și de-atunci cine pe El L-a căutat
+Prin credință L-a găsit.
+
+[b]
+/: S-a născut, S-a născut
+La miezul nopții :/ (x4)
+
+[c2]
+/: El S-a născut la miezul nopții
+Aducând cu El lumina.
+El a venit ca zorii zilei,
+/: Întunericul risipind. :/ (x3)

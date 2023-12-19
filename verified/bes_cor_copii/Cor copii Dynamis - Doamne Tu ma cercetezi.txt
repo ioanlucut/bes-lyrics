@@ -1,5 +1,5 @@
 [title]
-Doamne, Tu mă cercetezi {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rZnKhpdEqwNPMLBzy52v78}, contentHash: {fb546a}}
+Doamne, Tu mă cercetezi {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rZnKhpdEqwNPMLBzy52v78}, contentHash: {3c695c}}
 
 [sequence]
 v1.1,v1.2,c,v2,v3,c2
@@ -22,9 +22,9 @@ Mă-nconjori cu dragoste
 
 [v2]
 Unde mă voi duce departe de Duhul Tău
-Și unde voi fugi departe de Fața Ta?
+Și unde voi fugi departe de fața Ta?
 /: Oriunde aș merge, Te găsesc, Doamne, pe Tine
-Și Mâna Ta caldă e mereu alături de mine. :/
+Și mâna Ta caldă e mereu alături de mine. :/
 
 [v3]
 M-ai țesut în chip ciudat într-un loc foarte tainic,
@@ -33,7 +33,7 @@ Mulțumesc că m-ai creat ca pe-o făptură măreață,
 Mulțumesc că mă iubești și sufletul mi-l primești!
 
 [c2]
-/: Cercetează-mă și cunoaște-mi inima
+/: Cercetează-mă și cunoaște-mi inima,
 Încearcă-mă și cunoaște-mi gândul meu.
 Dacă sunt pe o cale care nu-Ți place Ție,
 Du-mă pe calea cea bună a veșniciei! :/

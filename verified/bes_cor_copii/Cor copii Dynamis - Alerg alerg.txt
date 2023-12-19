@@ -1,5 +1,5 @@
 [title]
-Alerg, alerg {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {swtv5bfF97T2fjaRdjPaDN}, contentHash: {fd10ad}}
+Alerg, alerg {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {swtv5bfF97T2fjaRdjPaDN}, contentHash: {dd32c7}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,b,c
@@ -29,4 +29,4 @@ Domnul e cu mine,
 Cânt, alerg și sper!
 
 [b]
-Alerg, alerg !
+Alerg, alerg!

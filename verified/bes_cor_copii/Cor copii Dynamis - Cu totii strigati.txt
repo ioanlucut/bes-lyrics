@@ -1,5 +1,5 @@
 [title]
-Cu toții strigați {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7kmwhcbPsjvLMCzgTbk9H7}, contentHash: {6d4507}}
+Cu toții strigați {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7kmwhcbPsjvLMCzgTbk9H7}, contentHash: {8f1589}}
 
 [sequence]
 v1,c,c2,v2,c,b,c2
@@ -13,7 +13,7 @@ Ne-arată cărarea spre cer.
 [c]
 Îmi poartă de grijă Iehova Ihre
 Și n-am nicio lipsă cu El.
-Pentru cei bolnavi este vindecător,
+Pentru cei bolnavi este Vindecător,
 E Domnul lui Israel.
 
 [c2]
@@ -29,4 +29,4 @@ Alături de El voi fi biruitor,
 Măreț este-al meu Dumnezeu.
 
 [b]
-Aleluia! (4x)
+Aleluia! (x4)

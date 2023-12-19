@@ -1,5 +1,5 @@
 [title]
-Povestea Crăciunului {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {vaKYja6HS46P1rfsbq64im}, contentHash: {ebda83}}
+Povestea Crăciunului {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {vaKYja6HS46P1rfsbq64im}, contentHash: {916052}}
 
 [sequence]
 v1,v2,v3.1,v3.2,v4.1,v4.2,v4.3,v5,v6,v7.1,v7.2
@@ -8,23 +8,23 @@ v1,v2,v3.1,v3.2,v4.1,v4.2,v4.3,v5,v6,v7.1,v7.2
 Cum piesele-ntr-un puzzle toate se potrivesc
 Planul de mântuire e perfect.
 Prin profeții și îngeri Isus a fost promis
-De Tatăl ce în lume L-a trimis:
+De Tatăl ce în lume L-a trimis.
 
 [v2]
-Azi e sărbătoare, Isus s-a născut,
+Azi e sărbătoare, Isus S-a născut,
 Glorie în ceruri, pace pe pământ.
 Toți să-I cântăm azi Pruncului cel sfânt,
-Azi e sărbătoare, Isus s-a născut.
+Azi e sărbătoare, Isus S-a născut.
 
 [v3.1]
 Îngerii, în ceruri, naștere-au anunțat
 Și păstorii-n grabă spre iesle au plecat.
-Au găsit pe pruncul în fașă îmbrăcat,
+Au găsit pe Pruncul în fașă îmbrăcat,
 De Maria și de Iosif adorat.
 
 [v3.2]
 Toți să-I cântăm azi Pruncului cel sfânt
-Azi e sărbătoare Isus s-a născut.
+Azi e sărbătoare, Isus S-a născut.
 
 [v4.1]
 Magi din depărtare la Isus au venit,
@@ -34,25 +34,25 @@ Aur și tămâie, smirnă I-au dăruit
 
 [v4.2]
 Toți să-I cântăm azi Pruncului cel sfânt
-Azi e sărbătoare Isus s-a născut!
+Azi e sărbătoare, Isus S-a născut!
 
 [v4.3]
-Azi e sărbătoare Isus s-a născut!
+Azi e sărbătoare, Isus S-a născut!
 
 [v5]
-Cântați toți de bucurie căci Hristos s-a născut,
+Cântați toți de bucurie căci Hristos S-a născut,
 Să-I cânte spre-a Lui mărire
 Cerul și pământul, cerul și pământul,
-/: Cerul, cerul :/ (3x) și pământul!
+/: Cerul, cerul :/ (x3) și pământul!
 
 [v6]
-/: Veniți să ne-nchinăm Lui:/ (3x) Dumnezeu.
+/: Veniți să ne-nchinăm Lui :/ (x3) Dumnezeu.
 
 [v7.1]
 Căci planul Lui este perfect,
-Să cântăm cu cerul și cu îngerii.
+Să cântăm cu cerul și cu îngerii!
 Planul Lui este perfect,
-Pace printre oameni jos și sus, slavă sus în cer.
+Pace printre oameni jos și sus, slavă sus în cer!
 
 [v7.2]
-Veniți să ne-nchinăm Domnului....... Isus!
+Veniți să ne-nchinăm Domnului Isus!
