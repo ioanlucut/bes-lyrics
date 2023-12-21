@@ -1,5 +1,5 @@
 [title]
-O, ce veste minunată {alternative: {*}, composer: {D. G. Kiriac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corurile reunite ale BES}, genre: {*}, rcId: {*}, id: {m1iqaZWwHU36SMx9JRQNMC}, contentHash: {fbb466}}
+O, ce veste minunată {alternative: {*}, composer: {D. G. Kiriac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corurile reunite ale BES}, genre: {*}, rcId: {*}, id: {m1iqaZWwHU36SMx9JRQNMC}, contentHash: {673da8}}
 
 [sequence]
 v1,v2,v3
@@ -22,4 +22,4 @@ Naște pe Mesia. :/
 Pe Fiul Cel din vecie
 Ce L-a trimis Tatăl mie
 /: Să Se nască și să crească,
-Să ne mântuiască :/
+Să ne mântuiască. :/
