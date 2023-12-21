@@ -1,5 +1,5 @@
 [title]
-Nu a fost și nu va fi vreodată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {4JLmMdH5hT4amCJNmiQAFv}, contentHash: {f66b66}}
+Nu a fost și nu va fi vreodată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {4JLmMdH5hT4amCJNmiQAFv}, contentHash: {07c3ca}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

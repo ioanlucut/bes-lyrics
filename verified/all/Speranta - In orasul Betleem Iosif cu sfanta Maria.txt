@@ -1,5 +1,5 @@
 [title]
-În orașul Betleem, Iosif cu sfânta Maria {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {4402}, id: {hmL7tdTtQth86kkSN77HrX}, contentHash: {391846}}
+În orașul Betleem, Iosif cu sfânta Maria {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {4402}, id: {hmL7tdTtQth86kkSN77HrX}, contentHash: {f83321}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2

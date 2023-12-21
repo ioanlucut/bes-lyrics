@@ -1,5 +1,5 @@
 [title]
-O, ce veste îmbucurătoare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1231}, id: {vxrRguzCCsA2hekuccZcvY}, contentHash: {c2a33b}}
+O, ce veste îmbucurătoare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1231}, id: {vxrRguzCCsA2hekuccZcvY}, contentHash: {de7942}}
 
 [sequence]
 v1,c,v2,c,v3,c
