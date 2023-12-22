@@ -1,5 +1,5 @@
 [title]
-A venit iarna din depărtări {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {g13ioaNFXZEnEaG8FiAcdT}, contentHash: {3dd925}}
+A venit iarna din depărtări {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {g13ioaNFXZEnEaG8FiAcdT}, contentHash: {f0046a}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
