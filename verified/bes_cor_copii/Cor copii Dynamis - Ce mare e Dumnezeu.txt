@@ -1,5 +1,5 @@
 [title]
-Ce mare e Dumnezeu {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {159212}, id: {mqxJ615bYFDbMJZ3hwMoty}, contentHash: {ae59e1}}
+Ce mare e Dumnezeu {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {159212}, id: {mqxJ615bYFDbMJZ3hwMoty}, contentHash: {5b225b}}
 
 [sequence]
 c,v1,v2,c
@@ -18,6 +18,6 @@ Conduce-ntregul univers
 
 [v2]
 El mă știe, mă iubește,
-Mai ’nainte să fi fost.
+Mai ‘nainte să fi fost.
 Ce minunat e planul Său
 Căci mare e Dumnezeu!

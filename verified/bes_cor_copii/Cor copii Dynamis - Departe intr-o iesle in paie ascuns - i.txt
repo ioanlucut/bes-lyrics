@@ -1,23 +1,23 @@
 [title]
-Departe într-o iesle, în paie ascuns {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {i}, genre: {*}, rcId: {*}, id: {jv519GHovdrsRXkKxooC4w}, contentHash: {8bd0d8}}
+Departe într-o iesle, în paie ascuns {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {i}, genre: {*}, rcId: {*}, id: {jv519GHovdrsRXkKxooC4w}, contentHash: {1448a2}}
 
 [sequence]
 v1,v2,v3
 
 [v1]
 Departe într-o iesle, în paie ascuns,
-Culcat printre vite stă Pruncul Isus.
+Culcat printre vite stă pruncul Isus.
 Îi cântă și-L leagănă stele de-argint
-/: Și-ncet copilașul adoarme zâmbind. :/
+/: Și-ncet Copilașul adoarme zâmbind. :/
 
 [v2]
 Departe-ntr-un staul de nimeni știut,
-La vremea-mplinită, Isus s-a născut.
+La vremea-mplinită, Isus S-a născut.
 Și stele pe ceruri luciră mai viu
 Și îngeri cântară pe dealul pustiu.
 
 [v3]
 Rămâi, drag Isuse, cu noi, Te rugăm!
-N-avem bogății, dar tot ce avem Îți dăm
+N-avem bogății, dar tot ce-avem Îți dăm
 Iar, Tu, dă-ne binecuvântarea Ta
-/: Și viața întreagă la iesle-Ți vom sta. :/
+/: Și viața întreagă la ieslea-Ți vom sta. :/

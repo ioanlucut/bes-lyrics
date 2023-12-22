@@ -1,5 +1,5 @@
 [title]
-Doar cu o praștie și cu o piatră {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mrjsXMudL34pigjMJjUG8Y}, contentHash: {e26539}}
+Doar cu o praștie și cu o piatră {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mrjsXMudL34pigjMJjUG8Y}, contentHash: {c667d2}}
 
 [sequence]
 c,v1,c2,v2,v3,c,e
@@ -16,7 +16,7 @@ Domnul e de partea mea.
 Nu mă tem de niciun rău!
 Da, da, da,
 Domnul e de partea mea
-Fiindcă sunt copilul Său
+Fiindcă sunt copilul Său.
 De-aceea:
 
 [c2]

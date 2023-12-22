@@ -1,39 +1,29 @@
 [title]
-Răsună imnul victoriei {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oherHSoFFZj1G5eFXjd3R6}, contentHash: {1969fd}}
+Răsună imnul victoriei {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oherHSoFFZj1G5eFXjd3R6}, contentHash: {8876b6}}
 
 [sequence]
 c,v1,c,v2,v3,v4
 
 [c]
-Răsună imnul victoriei,
-Isus a-nviat!
-Îngerii-n ceruri cântă și ei,
-Isus a-nviat!
+Răsună imnul victoriei, Isus a-nviat!
+Îngerii-n ceruri cântă și ei, Isus a-nviat!
 
 [v1]
-Noaptea El a risipit,
-Lanțurile le-a zdrobit.
-Din mormânt s-a ridicat
-Isus a-nviat, Isus a-nviat, a-nviat,
-Isus a-nviat!
+Noaptea El a risipit, lanțurile le-a zdrobit.
+Din mormânt S-a ridicat, Isus a-nviat,
+Isus a-nviat, a-nviat, Isus a-nviat!
 
 [v2]
-Cei ce sunt răscumpărați
-În al lui sânge spălați,
-Împreună să cântați:
-Isus a-nviat, Isus a-nviat, a-nviat,
-Isus a-nviat!
+Cei ce sunt răscumpărați, în al Lui sânge spălați,
+Împreună să cântați: Isus a-nviat,
+Isus a-nviat, a-nviat, Isus a-nviat!
 
 [v3]
-Astăzi cânt și-s fericit,
-Isus a-nviat!
-Căci prin El sunt mântuit,
-Isus a-nviat!
+Astăzi cânt și-s fericit, Isus a-nviat!
+Căci prin El sunt mântuit, Isus a-nviat!
 
 [v4]
-Noaptea El a risipit
-Lanțurile le-a zdrobit,
-Din mormânt s-a ridicat,
-Isus a-nviat, Isus a-nviat, a-nviat
-Isus a-nviat!
+Noaptea El a risipit, lanțurile le-a zdrobit,
+Din mormânt S-a ridicat, Isus a-nviat,
+Isus a-nviat, a-nviat, Isus a-nviat!
 Ooo, Isus a-nviat!

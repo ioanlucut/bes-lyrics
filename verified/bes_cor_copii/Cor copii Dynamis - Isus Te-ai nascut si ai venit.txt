@@ -1,0 +1,35 @@
+[title]
+Isus, Te-ai născut și ai venit {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {itu2ZTFg2xX64bK2HQi2rj}, contentHash: {88509b}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+De n-ai fi venit jos pe pământ
+Viața ar sfârși la un mormânt.
+Mântuire-n dar nu am avea,
+Nu știam nicicând de iubirea Ta.
+
+[c]
+Isus, Te-ai născut și ai venit,
+Un staul rece, jos, Te-a primit.
+În Betleem, printre păstori,
+Isus, Mesia, Tu ești Domn!
+
+[v2]
+De n-ai fi venit, în staul jos,
+Nu Te cunoșteam Isus Hristos,
+Nu am fi știut de Golgota,
+De jertfa sfântă și de crucea Ta.
+
+[v3]
+Dar Tu ai venit și ne-ai adus
+Slava Ta, Preasfinte Domn Isus,
+Domn al domnilor, Emanuel!
+Viață, Adevăr, Cale spre cer.
+
+[c2]
+Isus, Te-ai născut și ai venit,
+Un staul rece, jos, Te-a primit.
+În Betleem, printre păstori,
+/: Isus, Mesia, Tu ești Domn! :/
