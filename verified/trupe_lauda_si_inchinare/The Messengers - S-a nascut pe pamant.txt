@@ -5,34 +5,22 @@ S-a născut pe pământ {alternative: {*}, composer: {The Messengers}, writer: {
 v1,v2,v3,v4,v5
 
 [v1]
-S-a născut pe pământ
-Un Mântuitor
-E Isus, pruncul sfânt,
-Domn triumfător.
+S-a născut pe pământ un Mântuitor
+E Isus, pruncul sfânt, Domn triumfător.
 
 [v2]
-Au venit trei magi
-Și s-au închinat.
-Aur, smirnă și tămâie
-Lui Isus I-au dat.
+Au venit cei trei magi și s-au închinat,
+Aur, smirnă și tămâie lui Isus I-au dat.
 
 [v3]
-Domnul meu, vin și eu
-Să-ți aduc în dar
-Viața și inima mea.
-Este tot ce am.
+Domnul meu, vin și eu să-ți aduc în dar
+Viața și inima mea este tot ce am.
 
 [v4]
-Noaptea-n câmp păstorii
-Rând pe rând veghează.
-O lumină mare, îi înfricoșează,
-Dar din cer un înger
-Vine cu solia,
-„Bucurați-vă cu toții
-S-a născut Mesia!”
+Noaptea-n câmp păstorii rând pe rând veghează.
+O lumină mare, îi înfricoșează, dar din cer un înger
+Vine cu solia: „Bucurați-vă cu toții, S-a născut Mesia!”
 
 [v5]
-Să-I cântăm glorie,
-În veci lui Isus.
-Pentru noi S-a născut
-Pace ne-a adus!
+Să-I cântăm glorie în veci lui Isus
+Pentru noi S-a născut, pace ne-a adus!

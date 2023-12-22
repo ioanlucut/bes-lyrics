@@ -5,25 +5,17 @@ O stea pe cer se arată {alternative: {*}, composer: {*}, writer: {*}, arranger:
 v1,c,v2,c
 
 [v1]
-Un Copil ni S-a născut,
-O stea pe cer se-arată.
-Fiu de Rege ni S-a dat,
-Să ne-nchinăm venim îndată.
-Îl vor numi Cel Minunat,
-Sfetnic, Domn și Împărat,
+Un Copil ni S-a născut, o stea pe cer se-arată.
+Fiu de Rege ni S-a dat, să ne-nchinăm venim îndată.
+Îl vor numi Cel Minunat, Sfetnic, Domn și Împărat,
 Mesia, Cel Așteptat.
 
 [v2]
-Ca și magii Îl căutăm,
-O stea pe cer se-arată.
-Într-o iesle să-L aflăm,
-Să ne-nchinăm venim îndată.
-Pe Isus, Pruncul cel Sfânt,
-Mântuire pe pământ,
-Bucurie, Îi colindăm.
+Ca și magii Îl căutăm, o stea pe cer se-arată.
+Într-o iesle să-L aflăm, să ne-nchinăm venim îndată.
+Pe Isus, Pruncul cel Sfânt, mântuire pe pământ,
+Bucurie, Îl colindăm.
 
 [c]
-O stea pe cer se-arată,
-Să ne-nchinăm îndată,
-Inima în dar să-I dăm,
-Regelui Emanuel.
+O stea pe cer se-arată, să ne-nchinăm îndată,
+Inima în dar să-I dăm, Regelui Emanuel.

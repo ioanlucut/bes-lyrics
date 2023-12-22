@@ -5,19 +5,13 @@ Un înger din cer {alternative: {*}, composer: {Speranța}, writer: {*}, arrange
 c,v1,c,v2,c
 
 [v1]
-Un înger din cer veni la păstori
-Și spuse cu glas blând: „Să nu vă temeți!
-Azi în ieslea din Betleem,
-Cel din vecie a luat chip de om.”
+Un înger din cer veni la păstori Și spuse cu glas blând: „Să nu vă temeți!
+Azi în ieslea din Betleem, Cel din vecie a luat chip de om.”
 
 [c]
-S-a născut Cel făr’ de-nceput,
-Din iubire la noi a venit,
-Veniți, dar la iesle să ne închinăm,
-Inima în dar să Îi dăm!
+S-a născut Cel făr’ de-nceput, din iubire la noi a venit,
+Veniți, dar la iesle să ne închinăm, inima în dar să Îi dăm!
 
 [v2]
-În grabă s-au dus găsind pe Isus,
-Un Prunc înfășat și culcat într-o iesle,
-S-au închinat și au mărturisit
-Ce le-a spus îngerul despre Isus.
+În grabă s-au dus găsind pe Isus, un Prunc înfășat și culcat într-o iesle,
+S-au închinat și au mărturisit ce le-a spus îngerul despre Isus.
