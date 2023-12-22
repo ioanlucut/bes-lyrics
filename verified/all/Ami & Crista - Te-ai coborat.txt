@@ -5,21 +5,13 @@ Te-ai coborât {alternative: {*}, composer: {Ami & Crista}, writer: {*}, arrange
 v1,c,v2,c
 
 [v1]
-Te-ai coborât
-În ieslea cea săracă,
-Isuse, Prunc Divin,
-Iar corul îngerilor cântă,
-Pace lumii vestind!
+Te-ai coborât în ieslea cea săracă, Isuse, prunc divin,
+Iar corul îngerilor cântă, pace lumii vestind.
 
 [c]
-/: O, Prunc Ceresc, Copil Divin,
-O lume-Ți cântă ne-ncetat.
-Ai coborât în noaptea sfântă,
-Tu, Fiul Celui Preaînalt. :/
+/: O, Prunc ceresc, Copil divin, o lume-Ți cântă ne-ncetat.
+Ai coborât în noaptea sfântă, Tu, Fiul Celui Preaînalt. :/
 
 [v2]
-Un cor măreț
-De mii și mii de îngeri
-Vestesc venirea Ta.
-Păstorii duc a lor vestire,
-Slăvind venirea Ta!
+Un cor măreț de mii și mii de îngeri vestesc venirea Ta,
+Păstorii duc a lor vestire, slăvind venirea Ta.
