@@ -1,32 +1,38 @@
 [title]
-A venit iarna din depărtări {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {g13ioaNFXZEnEaG8FiAcdT}, contentHash: {a0abab}}
+A venit iarna din depărtări {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {g13ioaNFXZEnEaG8FiAcdT}, contentHash: {3dd925}}
 
 [sequence]
-v1,v2,v3
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
-[v1]
+[v1.1]
 A venit iarna din depărtări,
 A venit iarna ninsă de sărbători
 S-aducă bucurie-n orice casă,
 Pe Domnul Isus în orice inimă.
+
+[v1.2]
 Azi e Crăciun, azi e Crăciun,
 A venit iarna și-n acest an,
 Iar e Crăciun.
 
-[v2]
+[v2.1]
 A venit Domnul din depărtări,
 A venit din cerul nins de sărbători
 S-aducă bucurie-n orice casă,
 S-aducă multă pace în inimă.
+
+[v2.2]
 Domnul e bun, Domnul e bun!
 Stele de zăpadă și daruri mii
 Pentru copii.
 
-[v3]
+[v3.1]
 A venit Domnul din depărtări
 Și ninge, ninge peste mări și țări
 Și ninge, ninge și peste casa mea
 Și ninge, ninge, ninsă-i cărarea mea.
+
+[v3.2]
 Azi S-a născut Domnul cel Sfânt!
 Colindați s-audă-ntregul pământ:
 Isus S-a născut!
