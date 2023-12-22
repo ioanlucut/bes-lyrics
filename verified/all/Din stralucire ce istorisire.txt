@@ -5,7 +5,7 @@ Din strălucire, ce istorisire {alternative: {*}, composer: {*}, writer: {*}, ar
 v1,c,v2,c
 
 [v1]
-Din stălucire, ce istorisire:
+Din strălucire, ce istorisire:
 Jos, Domnul a venit, Isus El s-a numit.
 Născut în paie, în umile straie,
 Om al durerii și de chin zdrobit.

@@ -5,29 +5,20 @@
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Îngeri mii în ceruri cântă
-Pe deasupra văilor.
-Munții bucuroși repetă
-Armonia, cântul lor.
+Îngeri mii în ceruri cântă pe deasupra văilor.
+Munții bucuroși repetă armonia, cântul lor.
 
 [c]
-Glorie, S-a născut Mesia!
-Glorie, S-a născut Mesia!
+Glorie, S-a născut Mesia! Glorie, S-a născut Mesia!
 
 [v2]
-Ce-i cu bucuria voastră,
-Voi, păstori, ce auziți?
-Ce anunță coru-n slavă?
-Ce-ascultați așa uimiți?
+Ce-i cu bucuria voastră, voi, păstori, ce auziți?
+Ce anunță coru-n slavă, ce-ascultați așa uimiți?
 
 [v3]
-Pruncul sfânt cu chip de soare
-E nespus de luminos.
-Sfinți părinți cu adorare
-Îl veghează pe Hristos.
+Pruncul sfânt cu chip de soare e nespus de luminos,
+Sfinți părinți cu adorare Îl veghează pe Hristos.
 
 [v4]
-Vino azi la ieslea sfântă,
-Laudă să-I aduci smerit.
-Viața ta doar Lui predată
-Pentru El e-un dar dorit.
+Vino azi la ieslea sfântă, laudă să-I aduci smerit.
+Viața ta doar Lui predată pentru El e-un dar dorit.

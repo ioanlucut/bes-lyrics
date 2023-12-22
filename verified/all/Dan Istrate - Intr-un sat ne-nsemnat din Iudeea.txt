@@ -5,19 +5,13 @@
 v1,c,v2,c
 
 [v1]
-Într-un sat ne-nsemnat din Iudeea,
-Într-o iesle din Betleem,
-S-a născut așteptatul Mesia.
-Să-I cântăm cu îngerii în cor!
+Într-un sat ne-nsemnat din Iudeea, într-o iesle din Betleem,
+S-a născut așteptatul Mesia, să-I cântăm cu îngerii în cor!
 
 [c]
-Cânt „osana!”, cânt „osana!”,
-Cânt „osana!”, Rege-al regilor!
-Cânt „osana!”, cânt „osana!”,
-Cânt „osana!” lui Isus!
+Cânt „osana!”, cânt „osana!”, cânt „osana!”, Rege-al regilor!
+Cânt „osana!”, cânt „osana!”, cânt „osana!” lui Isus!
 
 [v2]
-Părăsiți turma voastră-n câmpie,
-Alergați umili la El!
-El e singura bucurie,
-Pentru prinț și pentru cerșetor!
+Părăsiți turma voastră-n câmpie, alergați umili la El!
+El e singura bucurie pentru prinț și pentru cerșetor!

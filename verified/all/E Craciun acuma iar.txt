@@ -5,30 +5,20 @@ E Crăciun acuma iar {alternative: {*}, composer: {*}, writer: {*}, arranger: {*
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-E Crăciun acuma iar,
-Ca și la-nceput,
-Munți și văi a străbătut
-Vestea „S-a născut!”
+E Crăciun acuma iar, ca și la-nceput,
+Munți și văi a străbătut vestea „S-a născut!”
 
 [c]
-Mesia, Mesia,
-E nădejdea vieții noastre
-În lume-aceasta.
+Mesia, Mesia, e nădejdea vieții noastre în lume-aceasta.
 
 [v2]
-N-avem daruri ca să-I dăm:
-Ce-ar putea primi?
-Dar, în loc de daruri, vrem
-Veșnic a-L sluji.
+N-avem daruri ca să-I dăm ce-ar putea primi?
+Dar, în loc de daruri, vrem veșnic a-L sluji.
 
 [v3]
-Azi din inimă-I cântăm,
-Precum îngerii,
-Mic și mare, să-L lăudăm
-Din cer a venit.
+Azi din inimă-I cântăm, precum îngerii,
+Mic și mare, să-L lăudăm din cer a venit.
 
 [v4]
-Veniți toți să ne-nchinăm
-Copilului sfânt,
-Viață, pace să avem
-Pe acest pământ.
+Veniți toți să ne-nchinăm Copilului sfânt,
+Viață, pace să avem pe acest pământ.
