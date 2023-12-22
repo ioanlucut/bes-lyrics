@@ -5,29 +5,17 @@ O, ce veste minunată {alternative: {*}, composer: {Dumitru G. Kiriac}, writer: 
 v1,v2,v3,v4
 
 [v1]
-O, ce veste minunată
-În Betleem ni s-arată,
-/: Astăzi S-a născut
-Cel făr’ de-nceput,
-Cum au spus prorocii. :/
+O, ce veste minunată în Betleem ni s-arată:
+/: Astăzi S-a născut Cel făr-de-nceput, cum au spus prorocii. :/
 
 [v2]
-Că la Betleem Maria
-Săvârșind călătoria,
-/: Într-un mic sălaș
-Lângă acel oraș,
-Naște pe Mesia. :/
+Că la Betleem Maria săvârșind călătoria,
+/: Într-un mic sălaș lângă-acel oraș, naște pe Mesia. :/
 
 [v3]
-Pe Fiul Cel din vecie,
-Ce L-a trimis Tatăl, mie
-/: Să se nască,
-Și să crească
-Să ne mântuiască. :/
+Pe Fiul Cel din vecie, ce L-a trimis Tatăl mie
+/: Să se nască, și să crească să ne mântuiască. :/
 
 [v4]
-E Isus, Păstorul mare,
-Turmă ca El nimeni n-are.
-/: Noi Îl lăudăm
-Și ne închinăm
-Cu credință mare. :/
+E Isus, Păstorul mare, turmă ca El nimeni n-are.
+/: Noi Îl lăudăm și ne închinăm cu credință mare. :/

@@ -5,25 +5,17 @@ Au intrat în Betleem {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arr
 v1,c,v2,c,v3,c
 
 [v1]
-Au intrat în Betleem
-Către asfințit,
-Doi drumeți străini și cer
-Loc de găzduit.
+Au intrat în Betleem, către asfințit,
+Doi drumeți străini și cer loc de găzduit.
 
 [c]
-/: Nicio vatră, niciun foc,
-Frigul i-a pătruns.
-„N-avem, n-avem, n-avem loc!”
-Singurul răspuns. :/
+/: Nicio vatră, niciun foc, frigul i-a pătruns.
+„N-avem, n-avem, n-avem loc!” singurul răspuns. :/
 
 [v2]
-Și-a născut în grajd de boi
-Maica Domnului,
-Vin păstorii de la oi
-Să se-nchine Lui.
+Și-a născut în grajd de boi Maica Domnului,
+Vin păstorii de la oi să se-nchine Lui.
 
 [v3]
-Prin al timpului șuvoi,
-Tot spre asfințit,
-Caută iar Isus la noi
-Loc de găzduit.
+Prin al timpului șuvoi, tot spre asfințit,
+Caută iar Isus la noi loc de găzduit.

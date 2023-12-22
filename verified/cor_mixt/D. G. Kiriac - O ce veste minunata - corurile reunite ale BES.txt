@@ -5,12 +5,12 @@ O, ce veste minunată {alternative: {*}, composer: {D. G. Kiriac}, writer: {*}, 
 v1,v2,v3
 
 [v1]
-O, ce veste minunată: În Betleem ni se-arată
+O, ce veste minunată: în Betleem ni se-arată
 /: Că a născut Prunc, prunc din Duhul Sfânt, fecioara Maria. :/
 
 [v2]
 Că la Betleem Maria săvârșind călătoria
-/: În sărac sălaș, lâng-acel oraș, naște pe Mesia. :/
+/: În sărac sălaș, lângă-acel oraș, naște pe Mesia. :/
 
 [v3]
 Pe Fiul Cel din vecie ce L-a trimis Tatăl mie
