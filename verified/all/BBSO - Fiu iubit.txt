@@ -8,7 +8,7 @@ v1.1,v1.2,c,v2,c,e
 Dumnezeu venit de sus
 Mântuirea mi-ai adus în chip de rob.
 Pân’ la moarte-ai ascultat
-Domnul vieții întrupat și-ai suferit.
+Domn al vieții întrupat și-ai suferit.
 
 [v1.2]
 Ca să vindeci rana grea
@@ -24,7 +24,7 @@ Toată slava e a Ta! :/
 
 [v2]
 Pân’ la moarte-ai ascultat,
-Domnul vieții întrupat,
+Domn al vieții întrupat,
 Cât m-ai iubit, cât m-ai iubit!
 
 [e]

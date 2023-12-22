@@ -1,5 +1,5 @@
 [title]
-Maria, te-ai gândit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {xyHKMm4RMynzZa4mrxQ49N}, contentHash: {80aa37}}
+Maria, te-ai gândit? {alternative: {*}, composer: {Mark Lowry}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {xyHKMm4RMynzZa4mrxQ49N}, contentHash: {80aa37}}
 
 [sequence]
 v1,v2,v3,v4
@@ -23,7 +23,7 @@ Oare te-ai gândit?
 Maria, te-ai gândit?
 
 [v4]
-Maria te-ai gândit că Fiul tău va fi un Miel de jertfă?
+Maria, te-ai gândit că Fiul tău va fi un Miel de jertfă?
 Oare te-ai gândit că Fiul tău, trăi-va pentru moarte?
 Te-ai gândit că-acest Fiu al Tău va răspândi lumina?
 Și că viața Și-o va da pentru-a ta?
