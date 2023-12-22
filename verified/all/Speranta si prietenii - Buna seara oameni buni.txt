@@ -2,30 +2,26 @@
 Bună seara, oameni buni {alternative: {*}, composer: {Speranța și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {100958}, id: {aZYazn1RP74QSsyKSszjTZ}, contentHash: {0ca8ab}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
 
 [v1]
-Bună seara, oameni buni!
-Am venit să colindăm,
-Am venit cu bucurie
-Gânduri bune să urăm.
+Bună seara, oameni buni! Am venit să colindăm.
+Am venit cu bucurie gânduri bune să urăm.
 
-[c]
+[c1.1]
 Că-ntr-o seară ca aceasta
 S-a născut Isus Hristos,
 Pe pământ, la oameni a venit.
+
+[c1.2]
 Că-ntr-o seară ca aceasta
 S-a născut Isus Hristos,
 Cerul cu pământul s-au unit.
 
 [v2]
-Bună seara, oameni buni!
-Am venit din depărtare,
-Am venit cu drag la voi
-Să v-aducem vestea mare.
+Bună seara, oameni buni! Am venit din depărtare,
+Am venit cu drag la voi să v-aducem vestea mare.
 
 [v3]
-Bună seara, oameni buni!
-De-aici mergem mai departe,
-Vrem cu drag și noi să ducem
-Vestea bună-n alte sate.
+Bună seara, oameni buni! De-aici mergem mai departe,
+Vrem cu drag și noi să ducem vestea bună-n alte sate.
