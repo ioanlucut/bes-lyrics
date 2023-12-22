@@ -1,5 +1,5 @@
 [title]
-Aceasta este vestea bună {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {7vnCyKPWKKNSb5dL2BaeGP}, contentHash: {869e35}}
+Aceasta este vestea bună {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {7vnCyKPWKKNSb5dL2BaeGP}, contentHash: {e636ac}}
 
 [sequence]
 v1,c,v2,c,v3,c2
@@ -11,12 +11,9 @@ Din ceruri, pe pământ răsună
 Ce s-a-ntâmplat la Betleem.
 
 [c]
-Acum și noi ca dar
-Ți-aducem la altar,
-Aici la ieslea Ta,
-Ți-aducem inima
-Ca Tu s-o curățești
-Și-n ea să locuiești,
+Acum și noi ca dar, ți-aducem la altar,
+Aici la ieslea Ta, ți-aducem inima
+Ca Tu s-o curățești, și-n ea să locuiești,
 Să faci din ea tot ce dorești.
 
 [v2]
@@ -32,10 +29,7 @@ Isus poporu-Și pregătește
 Să-l ducă-n cer la Dumnezeu.
 
 [c2]
-Atunci și noi în cor
-Cu îngerii din cer
-În casa Tatălui,
-La nunta Mielului,
-Vom cânta ne-ncetat
-Lui Dumnezeu Prea-nalt
+Atunci și noi în cor cu îngerii din cer
+În casa Tatălui, la nunta Mielului,
+Vom cânta ne-ncetat lui Dumnezeu Prea-nalt
 Căci, prin Isus, El ne-a salvat.

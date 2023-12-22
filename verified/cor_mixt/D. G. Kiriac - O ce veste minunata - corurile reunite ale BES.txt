@@ -1,25 +1,17 @@
 [title]
-O, ce veste minunată {alternative: {*}, composer: {D. G. Kiriac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corurile reunite ale BES}, genre: {*}, rcId: {*}, id: {m1iqaZWwHU36SMx9JRQNMC}, contentHash: {673da8}}
+O, ce veste minunată {alternative: {*}, composer: {D. G. Kiriac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corurile reunite ale BES}, genre: {*}, rcId: {*}, id: {m1iqaZWwHU36SMx9JRQNMC}, contentHash: {89ffde}}
 
 [sequence]
 v1,v2,v3
 
 [v1]
-O, ce veste minunată:
-În Betleem ni se-arată
-/: Că a născut Prunc,
-Prunc din Duhul Sfânt,
-Fecioara Maria. :/
+O, ce veste minunată: În Betleem ni se-arată
+/: Că a născut Prunc, prunc din Duhul Sfânt, fecioara Maria. :/
 
 [v2]
-Că la Betleem Maria
-Săvârșind călătoria
-/: În sărac sălaș,
-Lâng-acel oraș,
-Naște pe Mesia. :/
+Că la Betleem Maria săvârșind călătoria
+/: În sărac sălaș, lâng-acel oraș, naște pe Mesia. :/
 
 [v3]
-Pe Fiul Cel din vecie
-Ce L-a trimis Tatăl mie
-/: Să Se nască și să crească,
-Să ne mântuiască. :/
+Pe Fiul Cel din vecie ce L-a trimis Tatăl mie
+/: Să Se nască și să crească, să ne mântuiască. :/

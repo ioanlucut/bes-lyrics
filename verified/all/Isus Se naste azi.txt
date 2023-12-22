@@ -1,34 +1,29 @@
 [title]
-Isus Se naște azi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {7ktGTfxayr6B47kidDaSyQ}, contentHash: {8bfae7}}
+Isus Se naște azi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {7ktGTfxayr6B47kidDaSyQ}, contentHash: {024470}}
 
 [sequence]
 v1,c,v2,c,c2,c
 
 [v1]
 Azi, fulgi de nea se-aștern pe drum,
-Ceru-ncântă cu-al lui gând
-Și pace-i pe pământ.
+Ceru-ncântă cu-al lui gând și pace-i pe pământ.
 Noi lângă foc toți ne-adunăm,
 Vestea bună de Crăciun o colindăm:
 
 [c]
-Isus Se naște azi.
-Ca-n fiecare an, e sărbătoare,
+Isus Se naște azi. Ca-n fiecare an, e sărbătoare,
 Din inimi noi Îi dăm onoare.
 El, din veșnicie azi, în dar, cu bucurie,
 Lumii-aduce mântuire!
 
 [v2]
 Azi, de pe drum mai rătăcești,
-Hai la El, așa cum ești!
-Iertare să primești,
+Hai la El, așa cum ești, iertare să primești.
 Hai, cântă-I Lui cu noi acum,
 Amintește-Ți de venirea Pruncului!
 
 [c2]
 /: Glorie, în veci noi Te-adorăm,
 În fața Ta azi ne plecăm!
-Isuse mare, din splendoare,
-Ceru-ai lăsat, Te-ai întrupat,
-Din dragoste, Tu ne-ai salvat,
-În veci fii lăudat! :/
+Isuse mare, din splendoare, ceru-ai lăsat, Te-ai întrupat,
+Din dragoste, Tu ne-ai salvat, în veci fii lăudat! :/
