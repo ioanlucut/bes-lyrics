@@ -1,5 +1,5 @@
 [title]
-E Crăciun acuma iar {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2155}, id: {eCHicdVHHQALjhHpf22Frg}, contentHash: {8af3d8}}
+E Crăciun acuma iar {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2155}, id: {eCHicdVHHQALjhHpf22Frg}, contentHash: {625a7e}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

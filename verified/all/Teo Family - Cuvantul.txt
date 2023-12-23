@@ -1,5 +1,5 @@
 [title]
-Cuvântul {alternative: {*}, composer: {Teo Family}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {194034}, id: {w2Eo1NzCgddBY6TQ13WR67}, contentHash: {c210c7}}
+Cuvântul {alternative: {*}, composer: {Teo Family}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {194034}, id: {w2Eo1NzCgddBY6TQ13WR67}, contentHash: {d725d0}}
 
 [sequence]
 v1,v2,v3,v4

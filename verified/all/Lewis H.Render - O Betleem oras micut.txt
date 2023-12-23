@@ -1,5 +1,5 @@
 [title]
-O, Betleem, oraș micuț {alternative: {*}, composer: {Lewis H.Render}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1506}, id: {61Wwo3PMntr9bg7uYh1QoE}, contentHash: {f194e1}}
+O, Betleem, oraș micuț {alternative: {*}, composer: {Lewis H.Render}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1506}, id: {61Wwo3PMntr9bg7uYh1QoE}, contentHash: {42f485}}
 
 [sequence]
 v1,v2,v3

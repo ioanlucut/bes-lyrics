@@ -1,5 +1,5 @@
 [title]
-Astăzi un cântec răsună {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {207707}, id: {fku6mRcqH3avGh4B88DGXv}, contentHash: {0c75b4}}
+Astăzi un cântec răsună {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {207707}, id: {fku6mRcqH3avGh4B88DGXv}, contentHash: {a7a5e5}}
 
 [sequence]
 v1,c,v2,c,v3,c

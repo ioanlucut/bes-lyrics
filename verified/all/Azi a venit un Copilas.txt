@@ -1,5 +1,5 @@
 [title]
-Azi a venit un Copilaș {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {62EQu5AbBGm8x6Bq6qhp6N}, contentHash: {e277ae}}
+Azi a venit un Copilaș {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {62EQu5AbBGm8x6Bq6qhp6N}, contentHash: {df16b4}}
 
 [sequence]
 v1,v2,v3,v4

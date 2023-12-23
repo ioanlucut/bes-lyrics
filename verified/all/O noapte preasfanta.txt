@@ -1,5 +1,5 @@
 [title]
-O noapte preasfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {qxi2C5U5aDdpUACxV29CTn}, contentHash: {8777e1}}
+O noapte preasfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {qxi2C5U5aDdpUACxV29CTn}, contentHash: {7b7e2d}}
 
 [sequence]
 v1,v2,v3,v4,v5

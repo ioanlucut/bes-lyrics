@@ -1,5 +1,5 @@
 [title]
-Veniți să vestim {alternative: {*}, composer: {Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157002}, id: {6AkhB4rbNjoJr6jURJgoRP}, contentHash: {65cba7}}
+Veniți să vestim {alternative: {*}, composer: {Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157002}, id: {6AkhB4rbNjoJr6jURJgoRP}, contentHash: {53e564}}
 
 [sequence]
 v1,c,b,c

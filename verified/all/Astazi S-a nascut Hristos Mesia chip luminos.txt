@@ -1,5 +1,5 @@
 [title]
-Astăzi S-a născut Hristos, Mesia, chip luminos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {4T9oXfYRuAzMDRWcpojvs5}, contentHash: {ae0f33}}
+Astăzi S-a născut Hristos, Mesia, chip luminos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {4T9oXfYRuAzMDRWcpojvs5}, contentHash: {dba437}}
 
 [sequence]
 v1,v2,v3,v4
