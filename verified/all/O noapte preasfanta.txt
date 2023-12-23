@@ -1,5 +1,5 @@
 [title]
-O noapte preasfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {qxi2C5U5aDdpUACxV29CTn}, contentHash: {7b7e2d}}
+O noapte preasfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {qxi2C5U5aDdpUACxV29CTn}, contentHash: {9c809a}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -14,7 +14,7 @@ E noaptea în care se naște Isus lăsând pentru noi strălucirea.
 
 [v3]
 Străbate prin inimi fiorul divin și mâini se înalță în cânt,
-Venit ești din slavă, iubit Copilaș șă fii Împărat pe pământ!
+Venit ești din slavă, iubit Copilaș să fii Împărat pe pământ!
 
 [v4]
 Dar tu, ce azi asculți colindul, ești gata pe El să-L primești?
