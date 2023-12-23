@@ -1,0 +1,23 @@
+[title]
+A venit Isus pe lume într-o noapte minunată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pQVrEUAYNxTLNDWxVXg6ax}, contentHash: {41c6cc}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+A venit Isus pe lume într-o noapte minunată,
+În Betleemul din Iudeea, o stea pe cer se-arată,
+Magii după stea pornesc plini de bucurie
+Să se-nchine Celui care a coborât din veșnicie.
+
+[c]
+Ne-nchinăm și noi cu ei pruncului Isus,
+Inima I-o dăruim că ne-a iubit nespus!
+A coborât din strălucire să ne ofere mântuire,
+Binecuvântat să fie în veci de veci!
+
+[v2]
+Îngerii au coborât plini de bucurie
+Să aducă vestea bună celor din câmpie.
+Păstorii au rămas uimiți de această minune
+Și spre iesle au pornit și ei ca să I se-nchine.

@@ -1,17 +1,17 @@
 [title]
-S-a-mplinit Scriptura {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {u1wqRqs59i86QMAeqgWFoL}, contentHash: {72ecb4}}
+S-a-mplinit Scriptura {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {u1wqRqs59i86QMAeqgWFoL}, contentHash: {c7fa75}}
 
 [sequence]
 v1,v2,v3
 
 [v1]
-S-a-mplinit Scriptura
+S-a-mplinit Scriptura:
 /: În lume a venit Pruncul Sfânt vestit,
 Prunc dumnezeiesc, Pruncul Sfânt ceresc. :/
 
 [v2]
 S-a născut în Betleem, hai, veniți la El!
-Veniți la Betleem, maica a născut
+/: Veniți la Betleem, maica a născut
 Prunc din Duhul Sfânt. :/
 
 [v3]

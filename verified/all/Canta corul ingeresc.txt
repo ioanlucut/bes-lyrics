@@ -1,0 +1,24 @@
+[title]
+Cântă corul îngeresc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mfeRemqsNeA4xWfMSuvZxA}, contentHash: {7bb67f}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+S-a născut Mesia!
+Cântă corul îngeresc: „Slavă Tatălui ceresc,
+Pace fie pe pământ!”, S-a născut Copilul sfânt!
+Fiul sfânt demult promis, a venit de sus trimis!
+/: Cântă corul îngeresc: „Slavă Tatălui ceresc!” :/
+
+[v2]
+Cel din cerul minunat, preamărit și înălțat,
+Pe pământ jos a venit și ca noi trup a primit.
+S-a jertfit, a pătimit, chiar și moartea-a suferit,
+/: De păcate ne-a spălat, viață nouă El ne-a dat! :/
+
+[v3]
+Totul noi avem în El, Dumnezeu, Emanuel,
+Bucuros El vrea să dea pacea și iertarea Sa.
+Cerul Său cel strălucit chiar de El e pregătit,
+/: Pentru cei răscumpărați și cei binecuvântați. :/

@@ -1,0 +1,20 @@
+[title]
+O, vino azi Emanuel {alternative: {*}, composer: {Lauren Daigle}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {wBBrTmFjzxKqEAEtu1XXEz}, contentHash: {fc9255}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, vino azi, Emanuel, răscumpără pe Israel!
+Din jale și robie grea, o vino azi, Mesia!
+
+[c]
+/: Cântați, cântați, Emanuel va reveni în Israel! :/
+
+[v2]
+O, vino, vino, stea din Răsărit, ne mângâie, destul cât am trudit,
+Al nopții văl alungă dar și umbrei morții pune Tu hotar!
+
+[v3]
+O, vino Fiu din David, Tu poți deschide larg a cerurilor porți,
+O cale luminează pentru-acei ce din robie urcă spre cer!

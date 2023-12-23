@@ -1,15 +1,15 @@
 [title]
-Astăzi S-a născut Hristos, Mesia, chip luminos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {4T9oXfYRuAzMDRWcpojvs5}, contentHash: {ae0f33}}
+Astăzi S-a născut Hristos, Mesia, chip luminos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {4T9oXfYRuAzMDRWcpojvs5}, contentHash: {dba437}}
 
 [sequence]
 v1,v2,v3,v4
 
 [v1]
-Astăzi S-a născut Hristos, Mesia, chip luminos.
+Astăzi S-a născut Hristos, Mesia, chip luminos,
 Lăudați și cântați și vă bucurați!
 
 [v2]
-Mititel, înfășețel, în scutec de bumbăcel.
+Mititel, înfășețel, în scutec de bumbăcel,
 Lăudați și cântați și vă bucurați!
 
 [v3]

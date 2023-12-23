@@ -1,5 +1,5 @@
 [title]
-Nu există cruce fără iesle {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {rRzpzTdemBCaD5agyjkcMU}, contentHash: {7c4980}}
+Nu există cruce fără iesle {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {rRzpzTdemBCaD5agyjkcMU}, contentHash: {721f24}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2,c2.1,c2.2,c1.1,c1.2
@@ -11,10 +11,10 @@ Peste suflet ura biruia,
 Întunericul îl stăpânea.
 
 [v1.2]
-Dar pe cer o stea dodat’ apare
+Dar pe cer o stea deodat’ apare
 Pentru orice suflet dând scăpare,
 Prevestind întregii lumi iertare.
-Cei pierduți găsesc eliberare,
+Cei robiți găsesc eliberare,
 E Isus, ce viața-a adus.
 
 [c1.1]
@@ -42,6 +42,6 @@ Așezat fiind de toți pe cruce, nu în iesle.
 Aur, smirnă, tămâie n-a vrut nimeni să-I ofere, ci bătăi.
 
 [c2.2]
-Și prin jertfa de-atunci astăzi dă eliberare
+Și prin jertfa de-atunci astăzi dă eliberare,
 Iar prin rănile Lui iertare, vindecare.
 Căci un Rege, nu un prunc a venit ca să găsească ce-i pierdut.

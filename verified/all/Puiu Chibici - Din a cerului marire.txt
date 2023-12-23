@@ -1,35 +1,25 @@
 [title]
-Din a cerului mărire {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {4211}, id: {uNRYW4KLbbWuBScKrJXYeZ}, contentHash: {633f60}}
+Din a cerului mărire {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {4211}, id: {uNRYW4KLbbWuBScKrJXYeZ}, contentHash: {10ce51}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Din a cerului mărire
-Pentru omul păcătos,
-Să ne aduci mântuire,
-Ai venit, Isus Hristos!
+Din a cerului mărire pentru omul păcătos,
+Să ne aduci mântuire, ai venit, Isus Hristos!
 
 [c]
-/: Îți aducem închinare,
-Cu iubire Te lăudăm.
-În această sărbătoare,
-Rege sfânt, Te adorăm! :/
+/: Îți aducem închinare, cu iubire Te lăudăm.
+În această sărbătoare, Rege sfânt, Te adorăm! :/
 
 [v2]
-N-avem smirnă, nici tămâie
-Și nici aur ca să-Ți dăm,
-Dar dorim pentru vecie,
-Mesia, să Îți cântăm!
+N-avem smirnă, nici tămâie și nici aur ca să-Ți dăm,
+Dar dorim pentru vecie, Mesia, să Îți cântăm!
 
 [v3]
-Stea ce-ai răsărit odată,
-Peste țara Israel,
-Ne sfințește viața toată,
-Mesia, Emanuel.
+Stea ce-ai răsărit odată, peste țara Israel,
+Ne sfințește viața toată, Mesia, Emanuel.
 
 [v4]
-De aproape sau departe,
-Tineri, vârstnici sau copii,
-Te chemăm Isus ca frate,
-Domn și Rege să ne fii.
+De aproape sau departe, tineri, vârstnici sau copii,
+Te chemăm Isus ca frate, Domn și Rege să ne fii.

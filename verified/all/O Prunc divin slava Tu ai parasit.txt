@@ -1,5 +1,5 @@
 [title]
-O, Prunc divin, slava Tu ai părăsit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {jrk7Z8YfLtydCY244nSPyU}, contentHash: {6347ea}}
+O, Prunc divin, slava Tu ai părăsit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {jrk7Z8YfLtydCY244nSPyU}, contentHash: {e27936}}
 
 [sequence]
 v1,c,v2,c
@@ -11,13 +11,13 @@ O, de la Răsărit magii-n grabă au venit
 Să se-nchine Regelui demult vestit.
 
 [c]
-Ai venit pe pământ, lumea-ntreagă schimbând
+Ai venit pe pământ lumea-ntreagă schimbând
 Și la toți ne-ai dăruit viață-n dar.
-Ooo, ce Copil nouă astăzi ni S-a dat!
+Ooo, ce Copil nouă astăzi ni S-a dat,
 Să-I cântăm, să-L slăvim neîncetat!
 
 [v2]
-În Betleem, într-un sat neînsemnat
+În Betleem, într-un sat neînsemnat,
 S-a născut cel mai mare Împărat.
 Ooo, slavă din înalt, cor de îngeri a cântat
 Când Isus, în miez de noapte, S-a-ntrupat!

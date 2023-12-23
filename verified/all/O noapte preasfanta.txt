@@ -1,35 +1,25 @@
 [title]
-O noapte preasfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {qxi2C5U5aDdpUACxV29CTn}, contentHash: {8777e1}}
+O noapte preasfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {qxi2C5U5aDdpUACxV29CTn}, contentHash: {9c809a}}
 
 [sequence]
 v1,v2,v3,v4,v5
 
 [v1]
-Strălucește pământul în stele-mbrăcat
-Și-n inimi e azi sărbătoare
-Din cerul sublim coboară Isus
-În ieslea cu miros de floare.
+Strălucește pământul în stele-mbrăcat și-n inimi e azi sărbătoare:
+Din cerul sublim coboară Isus în ieslea cu miros de floare.
 
 [v2]
-Se-aude în zare un cor îngeresc
-Ți cântă cu el omenirea.
-E noaptea în care se naște Isus
-Lăsând pentru noi strălucirea
+Se-aude în zare un cor îngeresc și cântă cu el omenirea,
+E noaptea în care se naște Isus lăsând pentru noi strălucirea.
 
 [v3]
-Străbate prin inimi fiorul divin
-Și mâini se înalță în cânt,
-Venit ești din slavă, iubit Copilaș
-Să fii Împărat pe pământ!
+Străbate prin inimi fiorul divin și mâini se înalță în cânt,
+Venit ești din slavă, iubit Copilaș să fii Împărat pe pământ!
 
 [v4]
-Dar tu, ce azi asculți colindul,
-Ești gata pe El să-L primești?
-De frigul și ceața de-afară
-Pe Pruncul divin să-ncălzești?
+Dar tu, ce azi asculți colindul, ești gata pe El să-L primești?
+De frigul și ceața de-afară pe Pruncul divin să-ncălzești?
 
 [v5]
-O, noapte preasfântă revarsă
-În inimi iubire și dor
-Acolo cu drag să Se nască
-Al lumii etern Salvator!
+O, noapte preasfântă revarsă în inimi iubire și dor
+Acolo cu drag să Se nască al lumii etern Salvator!
