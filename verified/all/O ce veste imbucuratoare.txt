@@ -5,7 +5,7 @@ O, ce veste îmbucurătoare {alternative: {*}, composer: {*}, writer: {*}, arran
 v1,c,v2,c,v3,c
 
 [v1]
-O, ce veste îmbucurătoare care îngerii ne-au adus.
+O, ce veste îmbucurătoare care îngerii ne-au adus:
 Vestea despre marea îndurare care Dumnezeu ne-a trimis de sus.
 
 [c]
