@@ -1,34 +1,26 @@
 [title]
-Fă-I loc lui Isus {alternative: {*}, composer: {Eliza Pantea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {183503}, id: {jSG8FDoiN6jjYNB88GENEm}, contentHash: {acb7c4}}
+Fă-I loc lui Isus {alternative: {*}, composer: {Eliza Pantea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {183503}, id: {jSG8FDoiN6jjYNB88GENEm}, contentHash: {5426a5}}
 
 [sequence]
 v1,c,v2,c,b,e
 
 [v1]
-Astăzi e Crăciun și oamenii spun
-Că e ziua Ta,
-Casa și-o-mpodobesc, toate strălucesc,
-Este ziua Ta.
+Astăzi e Crăciun și oamenii spun că e ziua Ta,
+Casa și-o-mpodobesc, toate strălucesc, este ziua Ta.
 
 [c]
 În bucuria lor, uită pe Mântuitor,
-Fă-I loc lui Isus în inima ta.
-La ușă nu-L lăsa,
-Primește-L în casa ta.
-Fă-I loc în inima ta
-/: Lui Mesia. : /
+Fă-I loc lui Isus în inima ta!
+La ușă nu-L lăsa, primește-L în casa ta.
+Fă-I loc în inima ta /: Lui Mesia! : /
 
 [v2]
-Unii se veselesc, alții daruri primesc,
-Este ziua Ta,
-Ei dau tot ce-au mai bun celor ce-i iubesc,
-Este ziua Ta.
+Unii se veselesc, alții daruri primesc, este ziua Ta,
+Ei dau tot ce-au mai bun celor ce-i iubesc, este ziua Ta.
 
 [b]
-Tu simplu ai venit
-Și dezbrăcat de slavă,
-Te-ai îmbrăcat smerit,
-În haina mea de om.
+Tu simplu ai venit și dezbrăcat de slavă,
+Te-ai îmbrăcat smerit, în haina mea de om.
 
 [e]
-Fă-I loc în inima ta lui Mesia.
+Fă-I loc în inima ta lui Mesia!

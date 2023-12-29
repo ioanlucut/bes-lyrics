@@ -1,29 +1,20 @@
 [title]
-Cântați toți de bucurie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {222623}, id: {21Aq4baL9UemxVqsoynTUt}, contentHash: {823eb0}}
+Cântați toți de bucurie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {222623}, id: {21Aq4baL9UemxVqsoynTUt}, contentHash: {66cda5}}
 
 [sequence]
 v1,v2,v3
 
 [v1]
-Cântați toți de bucurie
-Căci Hristos S-a născut!
-Să cânte spre-a Lui mărire
-Cerul și pământul,
-Cerul și pământul,
-Cerul, cerul și pământul!
+Cântați toți de bucurie căci Hristos S-a născut!
+Să cânte spre-a Lui mărire cerul și pământul,
+Cerul și pământul, cerul, cerul și pământul!
 
 [v2]
-Omenirea să-L primească
-Pe Regele suprem,
-Iar inima omenească
-Lui să-I găsească loc,
-Lui să-I găsească loc,
-Lui să-I, Lui să-I găsească loc!
+Omenirea să-L primească pe Regele suprem,
+Iar inima omenească Lui să-I gătească loc,
+Lui să-I gătească loc, Lui să-I, Lui să-I gătească loc!
 
 [v3]
-El va domni-n mărire
-Peste-ntreaga lume.
-Popoarele cu dreptate
-Îl vor servi pe El,
-Îl vor servi pe El,
-Îl vor, Îl vor servi pe El!
+El va domni-n mărire peste-ntreaga lume.
+Popoarele cu dreptate Îl vor servi pe El,
+Îl vor servi pe El, Îl vor, Îl vor servi pe El!
