@@ -5,20 +5,14 @@ Nu vă mai gândiți la ce a fost ‘nainte {alternative: {Lucruri noi}, compose
 v1,v2,c,v3,c,b,c
 
 [v1]
-Nu vă mai gândiți
-La ce a fost ‘nainte,
-Nu vă mai uitați
-La lucruri vechi, trecute.
-Iată, Eu voi face,
-Eu voi face lucruri noi!
+Nu vă mai gândiți la ce a fost ‘nainte,
+Nu vă mai uitați la lucruri vechi, trecute.
+Iată, Eu voi face, Eu voi face lucruri noi!
 
 [v2]
-Lucrări mari veți vedea,
-Mai mult decât ‘nainte,
-Am lucruri noi să fac
-Și-s gata să se-ntâmple,
-Iată, Eu voi face,
-Eu voi face lucruri noi!
+Lucrări mari veți vedea mai mult decât ‘nainte,
+Am lucruri noi să fac și-s gata să se-ntâmple,
+Iată, Eu voi face, Eu voi face lucruri noi!
 
 [c]
 Voi face un drum, chiar prin pustie,
@@ -29,15 +23,10 @@ Națiuni vor cunoaște căile Mele.
 Iată, Eu voi face, Eu voi face lucruri noi!
 
 [v3]
-Spuneți celor slabi:
-„Fiți tari și nu vă temeți!”
-Mâinile-ntăriți,
-În Mine vă încredeți,
-Iată, Eu voi face,
-Eu voi face lucruri noi!
+Spuneți celor slabi: „Fiți tari și nu vă temeți!”
+Mâinile-ntăriți, în Mine vă încredeți,
+Iată, Eu voi face, Eu voi face lucruri noi!
 
 [b]
-/: Atunci șchiopii vor sări,
-Orbii vor vedea,
-Surzii vor auzi,
-Iar glasul celor muți va cânta! :/
+/: Atunci șchiopii vor sări, orbii vor vedea,
+Surzii vor auzi, iar glasul celor muți va cânta! :/

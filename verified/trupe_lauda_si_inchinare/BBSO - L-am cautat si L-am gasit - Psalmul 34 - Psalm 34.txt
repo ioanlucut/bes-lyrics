@@ -5,34 +5,25 @@ L-am căutat și L-am găsit {alternative: {Psalmul 34; Psalm 34}, composer: {Sh
 v1,v2,c,v3,c,b,c,e
 
 [v1]
-L-am căutat și L-am găsit,
-De temeri El m-a izbăvit.
+L-am căutat și L-am găsit, de temeri El m-a izbăvit.
 Când privești spre El te luminezi.
-Rușinea El mi-a șters,
-Rușinea El mi-a șters.
+Rușinea El mi-a șters, rușinea El mi-a șters.
 
 [v2]
-Când am strigat, El m-a auzit,
-Necazul meu l-a risipit
-El face scut peste-ai Lui sfinți,
-Îi va elibera, îi va elibera.
+Când am strigat, El m-a auzit, necazul meu l-a risipit,
+El face scut peste-ai Lui sfinți, îi va elibera, îi va elibera.
 
 [c]
-/: Laudă-L pe El, acum
-Să-nălțăm al Său sfânt Nume!
-Toată gloria este a Lui,
-Să-i cântăm o veșnicie. :/
+/: Laudă-L pe El, acum să-nălțăm al Său sfânt Nume!
+Toată gloria este a Lui, să-I cântăm o veșnicie! :/
 
 [v3]
-Gustă și vezi, Domnul este bun,
-Eu mă-ncred în El și sunt izbăvit.
-Când sfinții Lui de El se tem,
-El îi va îngriji, El îi va îngriji.
+Gustă și vezi, Domnul este bun, eu mă-ncred în El și sunt izbăvit.
+Când sfinții Lui de El se tem, El îi va îngriji, El îi va îngriji.
 
 [b]
 /: Binecuvântat fii de noi mereu!
-Veșnic vom cânta pentru al nost’ Domn! :/ (4x)
+Veșnic vom cânta pentru al nost’ Domn! :/ (x4)
 
 [e]
-Gustă și vezi, Domnul este bun,
-El te va îngriji, El te va îngriji.
+Gustă și vezi, Domnul este bun, El te va îngriji, El te va îngriji.

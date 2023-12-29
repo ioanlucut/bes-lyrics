@@ -11,12 +11,9 @@ Pace în inimă, mereu ai revărsat,
 Ce mare bucurie e să fii salvat!
 
 [c]
-/: Îți mulțumesc pentru speranța
-Ce o am în această viață
-Că-ntr-o zi voi fi în cer
-Unde lacrimile pier
-Și Te voi vedea în față,
-Voi vedea slava măreață,
+/: Îți mulțumesc pentru speranța ce o am în această viață
+Că-ntr-o zi voi fi în cer unde lacrimile pier
+Și Te voi vedea în față, voi vedea slava măreață,
 Îți mulțumesc, Îți mulțumesc! :/
 
 [v2]
