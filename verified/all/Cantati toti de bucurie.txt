@@ -1,5 +1,5 @@
 [title]
-Cântați toți de bucurie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {222623}, id: {21Aq4baL9UemxVqsoynTUt}, contentHash: {823eb0}}
+Cântați toți de bucurie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {222623}, id: {21Aq4baL9UemxVqsoynTUt}, contentHash: {66cda5}}
 
 [sequence]
 v1,v2,v3
