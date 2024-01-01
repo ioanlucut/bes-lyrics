@@ -1,5 +1,5 @@
 [title]
-Cât de bine mă simt cu aleșii Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74286}, id: {jiKDVJHadEAihVnTNHDgfx}, contentHash: {277331}}
+Cât de bine mă simt cu aleșii Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74286}, id: {jiKDVJHadEAihVnTNHDgfx}, contentHash: {d3ec0e}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
