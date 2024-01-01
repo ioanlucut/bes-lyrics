@@ -5,10 +5,8 @@ Cât de bine mă simt cu aleșii Domnului {alternative: {*}, composer: {*}, writ
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [c1.1]
-Cât de bine mă simt cu aleșii Domnului,
-Poporul minunat!
-O, ce bine mă simt cu aleșii Domnului,
-Poporul minunat!
+Cât de bine mă simt cu aleșii Domnului, poporul minunat!
+O, ce bine mă simt cu aleșii Domnului, poporul minunat!
 
 [c1.2]
 Strălucesc fețele, cântă adunarea,
@@ -17,17 +15,13 @@ O, ce bine mă simt cu aleșii Domnului!
 O, ce popor, ce popor minunat!
 
 [v1]
-Ce plăcut și ce frumos
-E pe calea lui Hristos,
+Ce plăcut și ce frumos e pe calea lui Hristos,
 Când pe Domnul ei Îl laudă voios!
-Nu e loc mai fericit
-Ca acel unde-am găsit
+Nu e loc mai fericit ca acel unde-am găsit
 Pe toți sfinții ce-mpreună s-au unit.
 
 [v2]
-O, ce bine-atunci va fi
-Când pe nori El va veni
+O, ce bine-atunci va fi când pe nori El va veni
 Și în slava Lui pe veci ne va uni!
-Lângă El ne-om aduna
-Și plângând Îi vom cânta
+Lângă El ne-om aduna și plângând Îi vom cânta,
 Împreună fericiți cu El vom sta!
