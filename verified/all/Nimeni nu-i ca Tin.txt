@@ -1,17 +1,13 @@
 [title]
-Nimeni nu-i ca Tin’ {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fKvfMLNN3Z3N7PHJGEHLy3}, contentHash: {92a859}}
+Nimeni nu-i ca Tin’ {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fKvfMLNN3Z3N7PHJGEHLy3}, contentHash: {2d2cd1}}
 
 [sequence]
 v1,c,v1,c,v1
 
 [v1]
-/: Nimeni nu-i ca Tin’,
-Nimeni n-a putut viața-mi schimba,
-Oricât de mult aș căuta, n-aș găsi,
-Nimeni nu-i ca Tin’. :/
+/: Nimeni nu-i ca Tin’, nimeni n-a putut viața-mi schimba,
+Oricât de mult aș căuta, n-aș găsi, nimeni nu-i ca Tin’. :/
 
 [c]
-Căci dragostea-Ți fără de margini m-a atins
-Și inima mi-a copleșit.
-Sunt în siguranță sub brațul Tău sfânt,
-Nimeni nu-i ca Tin’.
+Căci dragostea-Ți fără de margini inima mi-a copleșit,
+Sunt în siguranță sub brațul Tău sfânt, nimeni nu-i ca Tin’.
