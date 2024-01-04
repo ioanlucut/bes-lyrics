@@ -1,35 +1,27 @@
 [title]
-Azi cântă, frate, că tu ești salvat {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2126}, id: {k7Hki5iMUctDZ7vfLyuspb}, contentHash: {7dd5da}}
+Azi cântă, frate, că tu ești salvat {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2126}, id: {k7Hki5iMUctDZ7vfLyuspb}, contentHash: {4859b8}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Azi cântă, frate,
-/: Că tu ești salvat. :/
-Domnul pe tine
-/: Te-a răscumpărat. :/
+Azi cântă, frate, /: că tu ești salvat, :/
+Domnul pe tine /: te-a răscumpărat! :/
 
 [c]
 Cântece să răsune, să se ducă vestea-n lume
-Că Domnul e Mântuitorul tău și-al meu.
-El te călăuzește, zi și noapte te-nsoțește
-Stai dar acum, o, stai pe brațul Său.
+Că Domnul e Mântuitorul tău.
+El te călăuzește, zi și noapte te-nsoțește,
+Stai dar acum, o, stai pe brațul Său!
 
 [v2]
-Azi cântă, frate,
-/: Și fii bucuros, :/
-Căci ai aflat prin har
-/: Pace în Hristos. :/
+Azi cântă, frate, /: și fii bucuros, :/
+Căci ai aflat prin har /: pace-n Hristos! :/
 
 [v3]
-Azi cântă, frate,
-/: Și nu te-ntrista, :/
-Căci Domnul Isus
-/: Nu te va lăsa. :/
+Azi cântă, frate, /: și nu te-ntrista, :/
+Căci Domnul Isus /: nu te va lăsa! :/
 
 [v4]
-Azi cântă, frate,
-/: Dar cântă așa: :/
-Plin de credință,
-/: De dragostea Sa. :/
+Azi cântă, frate, /: dar cântă așa :/
+Plin de credință, /: de dragostea Sa! :/
