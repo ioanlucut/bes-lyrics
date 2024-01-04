@@ -1,0 +1,37 @@
+[title]
+Iată ce vorbește Domnul prin prorocul Său Ioel {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Iată ce vorbește Domnul prin prorocul Său Ioel
+Pentru vremea de pe urmă, pentru noul Israel:
+
+[c]
+/: Peste orișice făptură slava Mea va străluci,
+Și atunci prin a lor gură Numele-Mi voi proslăvi. :/
+
+[v2]
+În zilele de pe urmă voi turna din Duhul Meu
+Peste a Mea sfântă turmă, Zice Domnul Dumnezeu.
+
+[c2]
+/: Fiicele și fiii voștri, bătrânii și tinerii
+Vor avea visuri, vedenii și chiar mulți vor proroci. :/
+
+[v3]
+Peste robi și peste roabe din Duh Sfânt Eu voi turna,
+Pe pământ și sus în ceruri semne mari s-or arăta.
+
+[c3]
+/: Adu, Doamne, cincizecimea azi în adunarea Ta,
+Să strigăm toți: Maranata, vino, Doamne, aleluia! :/
+
+[v4]
+Și în cor de osanale să-Ți cântăm că vrednic ești,
+Să vorbim ca la Rusalii limbi cerești și îngerești.
+
+[c4]
+/: Ca pământul din pustie noi Te așteptăm cu dor
+S-aduci ploaia cea târzie, Doamne, peste-al Tău popor. :/
