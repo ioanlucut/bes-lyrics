@@ -1,8 +1,8 @@
 [title]
-Nu există cruce fără iesle {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {rRzpzTdemBCaD5agyjkcMU}, contentHash: {e7118f}}
+Nu există cruce fără iesle {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {rRzpzTdemBCaD5agyjkcMU}, contentHash: {265677}}
 
 [sequence]
-v1.1,v1.2,c1.1,c1.2,v2,c2.1,c2.2,c1.1,c1.2
+v1.1,v1.2,c1.1,c1.2,v2,c1.1,c1.2,c2.1,c2.2,c2.1,c2.2,c1.1,c1.2,c1.1,c1.2
 
 [v1.1]
 Omenirea în păcat zăcea,
@@ -27,7 +27,7 @@ Dezbrăcându-Și slava de Fiu nefăcut.
 Dar Hristos a venit nu pentru iesle
 Și nici laude sau daruri El nu a dorit
 Ci-Și făcu un tron din a Sa cruce
-Ca de cuie slujit eu să fiu mântuit.
+Ca prin sângele Lui eu să fiu mântuit.
 
 [v2]
 Pentru orice suflet ce nu moare

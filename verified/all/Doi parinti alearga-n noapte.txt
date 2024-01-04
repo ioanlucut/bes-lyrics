@@ -1,5 +1,5 @@
 [title]
-Doi părinți aleargă-n noapte {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1580}, id: {oAQdqFhsuVrTfEtPbVek7U}, contentHash: {a999e9}}
+Doi părinți aleargă-n noapte {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1580}, id: {oAQdqFhsuVrTfEtPbVek7U}, contentHash: {05b735}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -14,12 +14,12 @@ Astăzi mai ai o încăpere, Isuse drag, inima mea.
 
 [v2]
 Multe daruri sunt făcute pentru oameni pe pământ,
-Fă un dar azi și lui Isus inima ta să-I dai zicând:
+Fă un dar și pentru Isus, inima ta să-I dai zicând:
 
 [v3]
-Pământ și ceruri cântă-mpreună mă-nchin și eu și Te slăvesc,
-O, sfinte Domn, ce pentru mine, azi Te-ai născut, Îți mulțumesc.
+Isus Se naște, slavă, mărire cu îngerii Îi cânt și eu,
+Tu Te-ai născut și pentru mine Îți mulțumesc, o, Domnul meu
 
 [v4]
-Isus Se naște, slavă, mărire cu îngerii Îi cânt și eu,
-Tu Te-ai născut și pentru mine Îți mulțumesc, o, Domnul meu.
+Pământ și ceruri cântă-mpreună mă-nchin și eu și Te slăvesc,
+O, sfinte Domn, ce pentru mine, azi Te-ai născut, Îți mulțumesc.

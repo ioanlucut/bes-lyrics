@@ -1,5 +1,5 @@
 [title]
-Ce minune mare {alternative: {*}, composer: {Marian Fedur}, writer: {Marian Fedur}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corurile reunite ale BES}, genre: {*}, rcId: {*}, id: {v6wWjmWWcrqX4sAhgsQSx5}, contentHash: {60838f}}
+Ce minune mare {alternative: {*}, composer: {Marian Fedur}, writer: {Marian Fedur}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corurile reunite ale BES}, genre: {*}, rcId: {*}, id: {v6wWjmWWcrqX4sAhgsQSx5}, contentHash: {23dc51}}
 
 [sequence]
 v1.1,v1.2,c,b,v2,c,e
@@ -34,4 +34,4 @@ Celui ce domnește în inimi sfinte,
 Să-I dăm cinste și în veci să Îi slujim.
 
 [e]
-Ce minune!
+O, ce minune!
