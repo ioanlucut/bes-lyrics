@@ -1,5 +1,5 @@
 [title]
-Rugăciune, rugăciune, ești un dar dumnezeiesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Rugăciune, rugăciune, ești un dar dumnezeiesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sj2nSH1NwHueCy6prL4GT8}, contentHash: {e1486d}}
 
 [sequence]
 v1,v2,v3
