@@ -5,32 +5,23 @@ O laudă e cântarea mea {alternative: {*}, composer: {Puiu Chibici}, writer: {*
 c,v1,c,v2,c,v3,c,v4,c
 
 [c]
-Sfânt, sfânt, sfânt,
-E Numele Lui mare,
+Sfânt, sfânt, sfânt, e Numele Lui mare,
 Sfânt a fost și e din veșnicii,
 Sfânt și bun, alin și desfătare
 Este Domnul pentru-ai Săi copii.
 
 [v1]
-O laudă e cântarea mea,
-Un imn frumos de bucurie,
-O laudă îmi cântă inima,
-Mărit să fie Domnul pe vecie.
+O laudă e cântarea mea, un imn frumos de bucurie,
+O laudă îmi cântă inima, mărit să fie Domnul pe vecie.
 
 [v2]
-Căci Domnul e tăria mea,
-Să știe azi întreaga lume
-Și-o viață-ntreagă-I voi cânta,
-Mărească-I-se al Său Nume.
+Că Domnul e tăria mea, să știe azi întreaga lume
+Și-o viață-ntreagă-I voi cânta, mărească-I-se al Său Nume.
 
 [v3]
-Ostroave, dealuri și câmpii
-Ce dați privirii încântare,
-Spuneți oricui v-ar întâlni
-Că n-are Domnu-asemănare.
+Ostroave, dealuri și câmpii ce dați privirii încântare,
+Spuneți oricui v-ar întâlni că n-are Domnu-asemănare.
 
 [v4]
-El mi-e pricina laudelor
-Căci prin El toate au fost create,
-El este Domnul domnilor,
-Prin El și pentru El sunt toate.
+El mi-e pricina laudelor căci prin El toate au fost create,
+El este Domnul domnilor, prin El și pentru El sunt toate.

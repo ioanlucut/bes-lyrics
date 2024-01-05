@@ -1,0 +1,29 @@
+[title]
+Rugăciune, rugăciune, ești un dar dumnezeiesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Rugăciune, rugăciune ești un dar dumnezeiesc,
+Care și pe câmp de luptă mă-ntărește când slăbesc.
+/: Nopți întregi, eu nu dormeam, pe genunchi mă aplecam,
+Ruga să mi-o-nalț spre Dumnezeu.
+Mă ajută să nu cad când puterile îmi scad,
+Mă condu pe calea Ta spre cer! :/
+
+[v2]
+Vânt de îndoială bate, vin ispite și-ncercări,
+Inima mi se tot zbate, iar în suflet am dureri.
+/: Dar cu lacrimi m-am rugat și la Domnul am strigat
+Să m-ajute-n clipe de nevoi.
+Doamne, numai Tu mă vezi când în suflet lăcrimez,
+Numai Tu poți să mă întărești! :/
+
+[v3]
+Domnul meu-n această viață fericire nu-mi găsesc,
+De mi-e drumul plin de lacrimi, eu măreața zi doresc!
+/: Una, Doamne, Îți cer eu: mâna Ta s-o simt mereu
+Și să-mi fi Tu ajutorul meu!
+Când în luptă cad rănit și de toți sunt părăsit,
+Mă condu pe calea Ta spre cer! :/
