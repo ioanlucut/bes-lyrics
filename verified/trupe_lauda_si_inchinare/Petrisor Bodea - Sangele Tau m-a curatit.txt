@@ -1,5 +1,5 @@
 [title]
-Sângele Tău m-a curățit {alternative: {*}, composer: {Petrișor Bodea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71166}, id: {3pkhEcQzBkLjcSQ4mEvW2g}, contentHash: {1a2f1f}}
+Sângele Tău m-a curățit {alternative: {*}, composer: {Petrișor Bodea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71166}, id: {3pkhEcQzBkLjcSQ4mEvW2g}, contentHash: {7af357}}
 
 [sequence]
 v1,c,v1,c

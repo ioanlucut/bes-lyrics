@@ -1,5 +1,5 @@
 [title]
-El ne-a iubit venind în lume {alternative: {*}, composer: {Gloria & William J. Gaither}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {218241}, id: {cxD2ntSHWyA7bF7qvYZSwu}, contentHash: {e43bfa}}
+El ne-a iubit venind în lume {alternative: {*}, composer: {Gloria & William J. Gaither}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {218241}, id: {cxD2ntSHWyA7bF7qvYZSwu}, contentHash: {8e79b1}}
 
 [sequence]
 v1,c,v2,c,v3,c
