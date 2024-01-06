@@ -1,5 +1,5 @@
 [title]
-Când El vorbește, pământul se clatină {alternative: {*}, composer: {Dani Cîmpean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {173082}, id: {3pZEH7eFi5YYUZgZXD2K7j}, contentHash: {cdac46}}
+Când El vorbește, pământul se clatină {alternative: {*}, composer: {Dani Cîmpean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {173082}, id: {3pZEH7eFi5YYUZgZXD2K7j}, contentHash: {591e5d}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c
@@ -17,20 +17,16 @@ Când El vorbește și timpul rămâne-n loc,
 Coboară Duh Sfânt și foc, când El vorbește!
 
 [c]
-El e Isus,
-/: Cel mai frumos
-Și cel mai minunat! :/
+El e Isus, /: cel mai frumos și cel mai minunat! :/
 
 [v2.1]
-La glasul Lui aruncă-ți și grijile,
-Uită-ți problemele când El vorbește.
+La glasul Lui aruncă și grijile,
+Uită problemele când El vorbește.
 La glasul Lui pășește pe mare
 Și-n furtună, și-n soare, așa vorbește El!
 
 [v2.2]
-Noi Îi cântăm, Îl lăudăm,
-Îl preamărim pe-al nostru Împărat!
+Noi Îi cântăm, Îl lăudăm, Îl preamărim pe-al nostru Împărat!
 
 [b]
-/: Cel mai frumos
-Și cel mai minunat! :/ (4x)
+/: Cel mai frumos și cel mai minunat! :/ (x4)

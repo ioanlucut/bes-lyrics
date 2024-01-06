@@ -1,0 +1,27 @@
+[title]
+Inima mea vrea să-Ți cânte {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Karis}, genre: {*}, rcId: {*}, id: {3u2VArPCecbkD4eiRFc4va}, contentHash: {8a522c}}
+
+[sequence]
+v1,c,v2.1,c,v2.2,c
+
+[v1]
+Inima mea vrea să-Ți cânte, vrea să Te înalțe, în fiecare zi.
+Tu ne-ai adus bucurie și-atâta bunătate cum n-am putut gândi.
+
+[c]
+/: Vreau să-Ți mulțumesc pentru tot ce ai făcut
+Și pentru tot ce-nsemni în viața mea.
+Vreau să-Ți mulțumesc pentru tot ce ai schimbat
+Și pentru că mi-ai umplut inima! :/
+
+[v2.1]
+Pentru cântec, speranță și rază de soare,
+Lumină și pace pe-a mea cărare,
+Pentru tot ce Tu îmi dai, mulțumesc!
+
+[v2.2]
+Pentru zâmbetul Tău înscris printre stele,
+Mângâierea Ta în clipele grele,
+Pentru dragostea Ta revărsată în mine
+Mă-nchin, recunosc că ești Domn
+Și rostesc: „mulțumesc!”

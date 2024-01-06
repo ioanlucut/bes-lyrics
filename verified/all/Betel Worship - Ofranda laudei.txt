@@ -1,5 +1,5 @@
 [title]
-Ofranda laudei {alternative: {*}, composer: {Betel Worship}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {h1pn4YmA5vP3vvMwN3ss3C}, contentHash: {ef8b6b}}
+Ofranda laudei {alternative: {*}, composer: {Betel Worship}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {h1pn4YmA5vP3vvMwN3ss3C}, contentHash: {ead967}}
 
 [sequence]
 v1,c,v2,c
@@ -11,8 +11,7 @@ Nu-i muritor să se ridice-n fața Ta,
 ‘Naintea Celui Sfânt din ceruri.
 
 [c]
-Doar prin sângele
-Și prin mila Ta cea mare, Doamne vin.
+Doar prin sângele și prin mila Ta cea mare, Doamne, vin.
 
 [v2]
 Ofranda laudei aduc ‘naintea Ta,
