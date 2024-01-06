@@ -1,33 +1,23 @@
 [title]
-Doamne, dă-ne-nțelepciune {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153833}, id: {4TH1uuLGEMF83rRHat42An}, contentHash: {3a9b8c}}
+Doamne, dă-ne-nțelepciune {alternative: {Doamne, atinge-ne din nou}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153833}, id: {4TH1uuLGEMF83rRHat42An}, contentHash: {3a9b8c}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Doamne, dă-ne-nțelepciune,
-Și putere și iubire,
+Doamne, dă-ne-nțelepciune și putere și iubire,
 Doamne, vrem să ascultăm Cuvântul Tău.
-Azi venim în fața Ta,
-Dă-ne, Doamne, harul Tău,
-Să fim vii pentru Împărăția Ta,
-Trezește-ne din nou!
+Azi venim în fața Ta, dă-ne, Doamne, harul Tău,
+Să fim vii pentru Împărăția Ta, trezește-ne din nou!
 
 [c]
-Doamne, atinge-ne din nou,
-Peste noi Tu mâna Ta s-o pui
-Și lumina Ta să ardă-n noi
-Prin puterea Duhului.
-Pune-o, dar nu pentru-o zi,
-Ci să ardă în veșnicii, în noi,
-Cu-adierea Duhului Tău Sfânt,
-Doamne-atinge-ne din nou!
+Doamne, atinge-ne din nou, peste noi Tu mâna Ta s-o pui
+Și lumina Ta să ardă-n noi prin puterea Duhului.
+Pune-o, dar nu pentru-o zi, ci să ardă în veșnicii, în noi,
+Cu-adierea Duhului Tău Sfânt, Doamne-atinge-ne din nou!
 
 [v2]
-Doamne, mulți au obosit
-Și în inimi sunt răniți,
+Doamne, mulți au obosit și în inimi sunt răniți,
 Vindecarea lor e doar în mâna Ta.
-Să ne atingi pe fiecare,
-Cu puterea jertfei Tale,
-Să fim vii pentru Împărăția Ta,
-Trezește-ne din nou!
+Să ne atingi pe fiecare Cu puterea jertfei Tale,
+Să fim vii pentru Împărăția Ta, trezește-ne din nou!

@@ -1,29 +1,21 @@
 [title]
-Vreau să spună cel ce-i slab {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4288}, id: {4UYRPG5FEYSxNwaMqwSpwA}, contentHash: {17ff95}}
+Vreau să spună cel ce-i slab {alternative: {What the Lord Has Done in Me}, composer: {Reuben Morgan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4288}, id: {4UYRPG5FEYSxNwaMqwSpwA}, contentHash: {17ff95}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Vreau să spună cel ce-i slab:
-„Eu sunt tare în Hristos!”
-Cel sărac: „eu sunt bogat!”
-Iar cel orb: „sunt sănătos!”.
+Vreau să spună cel ce-i slab: „eu sunt tare în Hristos!”
+Cel sărac: „eu sunt bogat!”, iar cel orb: „sunt sănătos!”
 
 [c]
-/: Osana, osana!
-Mielului ce-a fost ‘junghiat!
-Osana, osana!
-Celui mort și înviat! :/
+/: Osana, osana Mielului ce-a fost ‘junghiat!
+Osana, osana Celui mort și înviat! :/
 
 [v2]
-Tot ce-a fost rău și murdar
-Mi-ai iertat prin al Tău har.
-Ca un râu iubirea Ta,
-Umple azi inima mea.
+Tot ce-a fost rău și murdar mi-ai iertat prin al Tău har.
+Ca un râu iubirea Ta umple azi inima mea.
 
 [v3]
-Știu că mă vei ridica
-Chiar de-aș fi-n adânc de mări.
-Bucuros Te voi slăvi
-Cântarea mea Te va mări.
+Știu că mă vei ridica chiar de-aș fi-n adânc de văi.
+Bucuros Te voi slăvi, cântarea mea Te va mări.
