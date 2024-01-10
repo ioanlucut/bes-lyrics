@@ -1,0 +1,29 @@
+[title]
+Domnul meu, lumina mea {alternative: {My Lighthouse}, composer: {Rend Collective}, writer: {Naomi Borota}, arranger: {*}, interpreter: {Andrei și George Ciurdaș}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {c6xFybBdzrFcptnLCVNNFw}, contentHash: {878d52}}
+
+[sequence]
+v1.1,v1.2,c,v2,b,c
+
+[v1.1]
+În încercare sau luptă grea, în îndoială Tu nu mă lași,
+Cu dragostea Ta mă conduci, ești pacea mea când sunt în furtuni.
+Doamne, ești pacea mea când sunt în furtuni.
+
+[v1.2]
+Din eșecuri mă ridici, la întrebări răspuns aduci,
+În adevăru-Ți mă conduci, ești pacea mea când sunt în furtuni.
+Doamne, ești pacea mea când sunt în furtuni.
+
+[c]
+Domnul meu, lumina mea, far în întuneric, eu Te voi urma,
+Domnul meu, lumina mea, cred promisiunea că Tu mă vei purta.
+/: Pân’ la mal. :/ (x4)
+
+[v2]
+Nu mi-e frică orice-ar veni, ești cu mine în fiecare zi,
+Cu dragostea Ta mă conduci, ești pacea mea când sunt în furtuni,
+Doamne, ești pacea mea când sunt furtuni.
+
+[b]
+/: Stâlp de foc ești, Sfânt puternic
+Ne conduci prin încercări. :/ (x4)

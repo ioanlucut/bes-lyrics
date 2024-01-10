@@ -1,27 +1,25 @@
 [title]
-Tu-mi ești refugiul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4291}, id: {662kRy77cLwEwr7MxEErtr}, contentHash: {75ea77}}
+Tu-mi ești refugiul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4291}, id: {662kRy77cLwEwr7MxEErtr}, contentHash: {4f7c34}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2,c
 
-[v1]
+[v1.1]
 Tu-mi ești refugiul când sunt slab,
 Tu ești scăparea ce o am,
 Tu ești în toate Domn.
+
+[v1.2]
 Mâna-mi întinzi atunci când cad,
 Când sunt setos, Tu apă-mi dai,
 Tu ești în toate Domn.
 
 [c]
-/: Isus, Miel preasfânt,
-Ție mă închin.
-Isus, Miel preasfânt,
-Dumnezeu divin. :/
+/: Isus, Miel preasfânt, Ție mă închin.
+Isus, Miel preasfânt, Dumnezeu divin. :/
 
 [v2]
-Tu ai luat rușinea mea,
-M-ai ridicat în slava Ta,
+Tu ai luat rușinea mea, m-ai ridicat în slava Ta,
 Tu ești în toate Domn.
-Inima mea Ție Ți-o dau,
-Îmbracă-mă cu al Tău har,
+Inima mea Ție Ți-o dau, îmbracă-mă cu al Tău har,
 Fii Tu în toate Domn.

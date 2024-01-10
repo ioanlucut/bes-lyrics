@@ -1,5 +1,5 @@
 [title]
-Ploaia trezirii {alternative: {*}, composer: {Hristos pentru România}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mQsFhMVw6GtA9MqwFTB4Vb}, contentHash: {d6757a}}
+Ploaia trezirii {alternative: {*}, composer: {Hristos pentru România}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mQsFhMVw6GtA9MqwFTB4Vb}, contentHash: {fa3370}}
 
 [sequence]
 v1,c,v2,c
@@ -12,7 +12,7 @@ Tu dorești s-aduci la viață-orice român.
 Peste-acest popor întinde mâna Ta
 Și adu trezirea când Te vom ruga!
 Vrem să vină fiii risipitori ‘napoi,
-Doamne, vrem trezire pentru ei și pentru noi!
+Doamne, vrem trezire astăzi pentru noi!
 
 [c]
 /: Pot s-aud la distanță un tunet,
@@ -26,6 +26,6 @@ Pân’ la ultimul pe stradă trecător,
 De la tânărul ce-și caută-al vieții drum
 Pân’ la văduva ce plânge chiar acum
 Peste orice oameni, tineri și bătrâni,
-Doamne, adu trezire astăzi pentru noi!
+Doamne, adu trezire azi peste români!
 Vrem să vină fiii risipitori ‘napoi,
-Doamne, adu trezire pentru ei și pentru noi!
+Doamne, vrem viață astăzi pentru noi!

@@ -1,5 +1,5 @@
 [title]
-Ce mare ești Tu, ce mare e mila Ta {alternative: {*}, composer: {Bethania’s}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2817}, id: {i7QYm7qeUVBvFHGESsaeuf}, contentHash: {3e857c}}
+Ce mare ești Tu, ce mare e mila Ta {alternative: {*}, composer: {Bethania’s}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2817}, id: {i7QYm7qeUVBvFHGESsaeuf}, contentHash: {f9954b}}
 
 [sequence]
 v1,c,v1,c
@@ -11,7 +11,5 @@ Ce mare ești Tu, și bunătatea Ta
 Mă umple atunci când Îți cânt, ce mare ești Tu!
 
 [c]
-/: Căci dragostea Ta
-Ajunge pân’ la ceruri,
-Iar inima Ta
-M-a găsit și m-a salvat! :/
+/: Căci dragostea Ta ajunge pân’ la ceruri,
+Iar inima Ta n-a găsit și m-a salvat! :/

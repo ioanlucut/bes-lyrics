@@ -1,33 +1,26 @@
 [title]
-Cel minunat, Salvatorul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221861}, id: {qdGSdWzJWN2oZD2ESiCWgE}, contentHash: {1079d9}}
+Cel minunat, Salvatorul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221861}, id: {qdGSdWzJWN2oZD2ESiCWgE}, contentHash: {356345}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Cel minunat, Salvatorul,
-Sfântul Prieten și Domn,
-Cine-a crezut că e Mielul
-Ce moare pentru om?
-O, da, ce moare pentru om.
+Cel minunat, Salvatorul, Sfântul Prieten și Domn,
+Cine-a crezut că e Mielul ce moare pentru om?
+O, da, ce moare pentru om!
 
 [c]
-Tu ești Cel vrednic de slavă,
-Cel vrednic de-a fi iubit.
-Noi însetăm după Tine,
-Viață ne-ai dăruit,
+Tu ești Cel vrednic de slavă, Cel vrednic de-a fi iubit.
+Noi însetăm după Tine, viață ne-ai dăruit,
 O, da, viață ne-ai dăruit!
 
 [v2]
-Mângâietor și Lumină,
-Duh după care tânjim
+Mângâietor și Lumină, Duh după care tânjim
 Când ne luptăm plini de temeri.
 Ne-ai dat nădejdi și-alin,
-O, da, ne-ai dat nădejdi și-alin.
+O, da, ne-ai dat nădejdi și-alin!
 
 [v3]
-Atotputernic Părinte,
-Tu ne-ai iubit din vecii.
-Din slăbiciune și moarte
-Ne-ai înălțat ca fii.
-O, da, ne-ai înălțat ca fii.
+Atotputernic Părinte, Tu ne-ai iubit din vecii.
+Din slăbiciune și moarte, ne-ai înălțat ca fii.
+O, da, ne-ai înălțat ca fii!
