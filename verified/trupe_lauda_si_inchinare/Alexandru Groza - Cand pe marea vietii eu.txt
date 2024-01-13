@@ -1,0 +1,41 @@
+[title]
+Când pe marea vieții eu {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6676}, id: {qH5KHvc82k8sHFNc3PkJHt}, contentHash: {7ffd6b}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,b,b2
+
+[v1]
+Când pe marea vieții eu trecut-am grele încercări,
+Când necazul s-a ivit, Domnul, El, m-a smerit mai mult.
+
+[v2]
+/: În singurătatea grea, plângea inima mea de dor
+După harul Domnului, să-mi vină în ajutor :/ chiar El.
+
+[v3]
+Când în largul mării am fost, malul eu l-am dorit mereu,
+Dar furtuna s-a ivit, Domnul, El, m-a smerit.
+
+[v4]
+/: Când aproape-am fost de mal, a mai venit un val din larg
+Ce m-a dus în depărtări prin alte încercări :/ mai mari.
+
+[v5]
+Dar în tot necazul meu, Domnul m-a ocrotit mereu,
+El m-a scos cu mâna Sa din încercarea grea, chiar El.
+
+[v6]
+/: Brațul Său mântuitor m-a ridicat din valul greu,
+Sufletul El mi-a salvat din marea de păcat :/ doar El.
+
+[v7]
+Când spre Domnul am strigat, din val m-a ridicat chiar El,
+Valul mării furios Domnul l-a liniștit pe loc.
+
+[b]
+Câte zile voi avea în toate-L voi lăuda pe El,
+El m-a scos cu mâna Sa din încercarea grea, chiar El.
+
+[b2]
+Brațul Său mântuitor m-a ridicat din valul greu,
+Sufletul El mi-a salvat din marea de păcat.

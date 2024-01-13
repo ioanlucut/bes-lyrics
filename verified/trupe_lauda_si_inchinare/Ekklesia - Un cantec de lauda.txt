@@ -5,29 +5,20 @@ Un cântec de laudă {alternative: {*}, composer: {Ekklesia}, writer: {*}, arran
 v1,v2,p,c,c2
 
 [v1]
-Un cântec de laudă e-n inima mea,
-Un cântec ce Tu l-ai pus.
-Mi-ai dat libertate,
-Ca să pot cânta din nou.
+Un cântec de laudă e-n inima mea, un cântec ce Tu l-ai pus,
+Mi-ai dat libertate, ca să pot cânta din nou.
 
 [v2]
-Ai rupt întunericul din viața mea,
-Mi-ai dat bucuria Ta.
-Acum eu sunt liber
-Ca să pot cânta din nou.
+Ai rupt întunericul din viața mea, mi-ai dat bucuria Ta,
+Acum eu sunt liber ca să pot cânta din nou.
 
 [p]
-Isus, Tu m-ai răscumpărat,
-Duhul Tău Sfânt m-a eliberat!
+Isus, Tu m-ai răscumpărat, Duhul Tău Sfânt m-a eliberat!
 
 [c]
-Dragostea Ta îmi dă curaj
-Să alerg către țintă neîncetat.
-Doar Tu ești Domnul meu,
-Te voi binecuvânta!
+Dragostea Ta îmi dă curaj să alerg către țintă neîncetat,
+Doar Tu ești Domnul meu, Te voi binecuvânta!
 
 [c2]
-Isus, ești fericirea mea,
-Eu cânt de bucurie în fața Ta.
-Doar Tu ești Domnul meu,
-Te voi binecuvânta!
+Isus, ești fericirea mea, eu cânt de bucurie în fața Ta,
+Doar Tu ești Domnul meu, Te voi binecuvânta!
