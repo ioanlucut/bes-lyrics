@@ -1,5 +1,5 @@
 [title]
-Când pe marea vieții eu {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6676}, id: {qH5KHvc82k8sHFNc3PkJHt}, contentHash: {7ffd6b}}
+Când pe marea vieții eu {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6676}, id: {qH5KHvc82k8sHFNc3PkJHt}, contentHash: {56eae1}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,b,b2

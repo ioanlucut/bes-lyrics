@@ -1,5 +1,5 @@
 [title]
-L-am căutat și L-am găsit {alternative: {Psalmul 34; Psalm 34}, composer: {Shane Barnard & Joe Rigney}, writer: {Nicoleta Mascaș}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214233}, id: {2QAqHiij5zSxSQeWmQYBki}, contentHash: {f2f879}}
+L-am căutat și L-am găsit {alternative: {Psalmul 34; Psalm 34}, composer: {Shane Barnard & Joe Rigney}, writer: {Nicoleta Mascaș}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214233}, id: {2QAqHiij5zSxSQeWmQYBki}, contentHash: {e84915}}
 
 [sequence]
 v1,v2,c,v3,c,b,c,e

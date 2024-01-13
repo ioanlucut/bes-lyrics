@@ -1,5 +1,5 @@
 [title]
-El e-n stare, da, e-n stare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61358}, id: {3riDL34iUXMevEj24ybj2F}, contentHash: {c9026f}}
+El e-n stare, da, e-n stare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61358}, id: {3riDL34iUXMevEj24ybj2F}, contentHash: {bd1430}}
 
 [sequence]
 v1,c,v1,c
