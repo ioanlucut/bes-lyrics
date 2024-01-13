@@ -1,5 +1,5 @@
 [title]
-Tu te-ai oprit, Isuse, lângă mine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Tu te-ai oprit, Isuse, lângă mine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7YwNWKbSfm5iLAwMeaFkhA}, contentHash: {4d6fba}}
 
 [sequence]
 v1,v2,v3,v4,v5
