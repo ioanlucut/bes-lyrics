@@ -20,6 +20,9 @@ export const DOT = '.';
 
 export const TXT_EXTENSION = '.txt';
 
+export const DS_STORE_FILE = '.DS_Store';
+export const GIT_KEEP_FILE = '.gitkeep';
+
 export const TEST_FILE = 'TEMPLATE.txt';
 
 export const ALLOWED_CHARS =
