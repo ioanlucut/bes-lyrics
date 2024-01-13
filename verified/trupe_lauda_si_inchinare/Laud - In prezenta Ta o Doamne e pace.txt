@@ -1,23 +1,22 @@
 [title]
-În prezența Ta, o, Doamne, e pace {alternative: {*}, composer: {Laud}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2814}, id: {atXsq8pQrM6Mp8E9kj1SQS}, contentHash: {97ea70}}
+În prezența Ta, o, Doamne, e pace {alternative: {*}, composer: {Laud}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2814}, id: {atXsq8pQrM6Mp8E9kj1SQS}, contentHash: {b34a72}}
 
 [sequence]
 v1,c,v2,v2,c
 
 [v1]
-În prezența Ta, o, Doamne, e pace.
+În prezența Ta, o, Doamne, e pace,
 În prezența Ta, o, Doamne-i liniște,
 În prezența Ta, o, Doamne-mi dai putere
 Ca să trec prin încercare mai ușor.
 
 [c]
 Domnul meu, mă-ncred în Tine,
-Tu ești stânca mea și ajutorul meu.
-Domnul meu, Te am numai pe Tine!
-Doamne, ești al meu și eu sunt tot al Tău.
+Tu ești Stânca mea și ajutorul meu!
+Domnul meu, Te am numai pe Tine,
+Doamne, ești al meu și eu sunt tot al Tău!
 
 [v2]
-/: Doamne, fă-mă, în prezența Ta, să intru,
-Doamne, fă-mă să iubesc prezența Ta.
-Vreau de-acuma numai Ție
-Și prezenței Tale glorie să-i dau. :/
+/: Doamne, fă-mă în prezența Ta să intru,
+Doamne, fă-mă să iubesc prezența Ta,
+Vreau de-acuma numai Ție și prezenței Tale glorie să-i dau! :/

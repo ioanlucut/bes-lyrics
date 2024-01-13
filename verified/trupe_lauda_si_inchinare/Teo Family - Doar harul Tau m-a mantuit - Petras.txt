@@ -1,0 +1,30 @@
+[title]
+Doar harul Tău m-a mântuit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {Teo Family}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {hyKBeo2PNWPgh1Whz1mpYS}, contentHash: {fa7423}}
+
+[sequence]
+v1,c,v2,v3,v4,c2
+
+[v1]
+Doar harul Tău m-a mântuit, am fost pierdut, dar m-a găsit,
+Cu dragoste m-a căutat, cu braț puternic, m-a dezlegat.
+
+[c]
+/: Doar harul Tău mi-a adus mântuire, vindecare, prin Isus,
+Doar harul Tău mi-a adus, în Numele lui Isus, iertare. :/
+
+[v2]
+Doar harul Tău m-a învățat să las în urmă al meu păcat,
+Cu dragoste m-a ridicat, mi-a dat vedere, m-a vindecat.
+
+[v3]
+Isus, m-ai cuprins din necuprins, Isus, viață-n mine ai aprins,
+Isus, m-ai iubit și m-ai salvat, să fii veșnic, veșnic lăudat!
+
+[v4]
+Isus, pentru orbi lumină ai, Isus, celor muți Tu le dai grai,
+Isus, șchiopii iarăși au umblat, Tu ești medic, medic minunat!
+
+[c2]
+/: Doar harul Tău mi-a adus mântuire, vindecare prin Isus,
+Doar harul Tău mi-a adus, în Numele lui Isus, iertare,
+Mântuire, vindecare prin Isus, în Numele lui Isus iertare. :/

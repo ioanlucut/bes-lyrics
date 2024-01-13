@@ -1,18 +1,13 @@
 [title]
-El e-n stare, da, e-n stare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61358}, id: {3riDL34iUXMevEj24ybj2F}, contentHash: {c9026f}}
+El e-n stare, da, e-n stare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61358}, id: {3riDL34iUXMevEj24ybj2F}, contentHash: {bd1430}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-/: El e-n stare, da, e-n stare
-Să rezolve-ngrijorarea ce o am.
-El e-n stare, da, e-n stare
-Să-mi atingă inima cu-al Lui balsam. :/
+/: El e-n stare, da, e-n stare să rezolve-ngrijorarea ce o am,
+El e-n stare, da, e-n stare să-mi atingă inima cu-al Lui balsam. :/
 
 [c]
-/: El e-n stare, da, e-n stare
-Să-mplinească dincolo de orice vis.
-El e-n stare, da, e-n stare
-Să îmi schimbe astăzi viața ca prin vis; :/
-Să îți schimbe astăzi viața ca prin vis.
+/: El e-n stare, da, e-n stare să-mplinească dincolo de orice vis,
+El e-n stare, da, e-n stare să îmi schimbe astăzi viața ca prin vis. :/
