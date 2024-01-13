@@ -1,0 +1,35 @@
+[title]
+Mă lupt să trăiesc adevărul {alternative: {*}, composer: {Florin Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tGLpW6EqVMngxZRxsBX7dT}, contentHash: {f22014}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mă lupt să trăiesc adevărul,
+Pe calea sfântă tot mai mult, mai mult,
+Și tot mai limpede mi-e starea
+Cu cât mai mult în ea pătrund,
+
+[c]
+/: Cuvântul Sfânt îmi dă credință
+Și-mi urcă sufletul în sus.
+Cu orice pas spre cer mă duce
+Tot mai aproape de Isus :/
+
+[v2]
+În drumul meu suspin adesea
+Și-n gândul meu mă-ntreb mereu, mereu,
+O, Doamne, când va fi sfârșitul,
+Când am să-L văd pe Dumnezeu?
+
+[c2]
+/: M-am săturat de tot ce lumea aicea jos mi-a oferit,
+Vreau mai degrabă sus la Tine, în cerul sfânt să fiu răpit. :/
+
+[v3]
+Nu mă lăsa nicicând vreodată să murmur înaintea Ta, deloc
+Și mă sfințește pe-a Ta cale să văd împărăția Ta!
+
+[c3]
+/: Eu simt că focul încercării să mă doboare mult ar vrea
+Dar tu ești Domnul îndurării și nu mă lași când lupta-i grea. :/
