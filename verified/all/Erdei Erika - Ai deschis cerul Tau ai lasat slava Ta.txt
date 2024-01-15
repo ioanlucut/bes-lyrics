@@ -2,7 +2,7 @@
 Ai deschis cerul Tău, ai lăsat slava Ta {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66236}, id: {vHNMkvx84838YFwgLjMnHk}, contentHash: {d6639f}}
 
 [sequence]
-v1,c1.1,c1.2,v1,c1.1,c1.2
+v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [v1]
 Ai deschis cerul Tău, ai lăsat slava Ta
@@ -21,3 +21,9 @@ Mângâierea Ta în clipele grele,
 Pentru dragostea Ta revărsată în mine
 Mă-nchin, recunosc că ești Domn
 Și rostesc: „mulțumesc!”
+
+[v2]
+Când la Tine am venit cu povara mea grea,
+M-ai primit, sufletul mi-ai mântuit.
+De atunci viața mea Ți-am predat, o, Isus,
+Fiul Celui Preaînalt m-ai făcut prin sânge sfânt.
