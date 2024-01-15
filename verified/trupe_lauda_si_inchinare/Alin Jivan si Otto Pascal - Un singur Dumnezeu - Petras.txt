@@ -1,5 +1,5 @@
 [title]
-Un singur Dumnezeu {alternative: {*}, composer: {Alin Jivan și Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+Un singur Dumnezeu {alternative: {*}, composer: {Alin Jivan și Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {1rwDuxeYUcp4K1RJrn1Zhy}, contentHash: {0bf085}}
 
 [sequence]
 v1,c,b,v2,c2,b2,v3
