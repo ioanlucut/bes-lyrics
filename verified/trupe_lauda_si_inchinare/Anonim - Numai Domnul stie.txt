@@ -1,5 +1,5 @@
 [title]
-Numai Domnul știe {alternative: {*}, composer: {Anonim}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195608}, id: {mub65Lmkeuk5VBVgxyw7YV}, contentHash: {8b9bf0}}
+Numai Domnul știe {alternative: {*}, composer: {Anonim}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195608}, id: {mub65Lmkeuk5VBVgxyw7YV}, contentHash: {434a70}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
@@ -16,7 +16,7 @@ Numai El te înțelege, poate lanțuri să dezlege.
 
 [c1.2]
 Doar El te-a purtat pe brațe, cel viclean să nu te-atace,
-El te-a smuls din întuneric, Domnul Cel Atotputernic.
+El te-a smuls din întuneric, Domnul, Cel Atotputernic.
 
 [v2]
 Numai Domnul ascultă rugăciunea în taină,

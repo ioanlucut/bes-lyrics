@@ -1,0 +1,23 @@
+[title]
+Vreau să Te cunosc mai mult {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {99qvJiRRaHxkn4Y6jKLxUH}, contentHash: {0a89c0}}
+
+[sequence]
+v1,c1.1,c1.2,v1,c1.1,c1.2
+
+[v1]
+Vreau să Te cunosc mai mult, să Te-onorez cu tot ce sunt,
+Vreau să fac doar voia Ta, să fac doar voia Ta!
+Vreau să văd lumina Ta, să pot s-o dau și altora,
+Vreau să fiu ca Tine, Isus, să fiu ca Tine, Isus!
+
+[c1.1]
+Transformă viața mea, Domnul meu!
+Înnoiește mintea mea, Tatăl meu!
+Să fiu ca Tine eu îmi doresc,
+Să Te urmez, să Te urmez!
+
+[c1.2]
+O inimă curată eu vreau,
+Pe care zi de zi să Ți-o dau.
+Să fiu ca Tine eu îmi doresc,
+Să Te urmez, să Te urmez!
