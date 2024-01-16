@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e tăria mea {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1053}, id: {syR2s9xDncwmcFTsMVcqk6}, contentHash: {a73219}}
+Dumnezeu e tăria mea {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1053}, id: {syR2s9xDncwmcFTsMVcqk6}, contentHash: {ad2a27}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -17,10 +17,8 @@ Mă aplec în rugăciune și-aștept ajutorul slavei,
 Dumnezeu e tăria mea!
 
 [c]
-/: Dumnezeu e tăria mea,
-Adăpost pentru sufletul meu,
-Ajutor când povara e grea,
-Dumnezeu e scăparea mea! :/
+/: Dumnezeu e tăria mea, adăpost pentru sufletul meu,
+Ajutor când povara e grea, Dumnezeu e scăparea mea! :/
 
 [v2.1]
 Dumnezeu are putere ca în cer și pe pământ,
