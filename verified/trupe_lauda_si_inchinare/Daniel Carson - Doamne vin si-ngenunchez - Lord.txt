@@ -1,29 +1,29 @@
 [title]
-Doamne, vin și-ngenunchez {alternative: {Lord}, composer: {Daniel Carson}, writer: {Daniel Carson}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {133941}, id: {je2ZX9jyuBcFxt7EE9L44C}, contentHash: {c6e57d}}
+Doamne, vin și-ngenunchez {alternative: {Lord I Need You}, composer: {Daniel Carson}, writer: {Daniel Carson}, arranger: {*}, interpreter: {Grupul Pro Deo}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {133941}, id: {je2ZX9jyuBcFxt7EE9L44C}, contentHash: {c6e57d}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1,c,v2,c,v3,c2,e
 
 [v1]
-Doamne, vin și-ngenunchez,
-Ție Îți mărturisesc:
-Fără Tine, aș cădea,
-Doar Tu ești odihna mea.
+Doamne, vin și-ngenunchez, Ție Îți mărturisesc:
+Fără Tine aș cădea, doar Tu ești tăria mea!
 
 [c]
-Eu de Tine am nevoie,
-Am nevoie mare,
-Tu ești neprihănirea mea,
-Și-a mea apărare.
+Eu de Tine am nevoie, am nevoie, Doamne,
+Tu ești neprihănirea mea și-a mea apărare!
 
 [v2]
-Acolo unde-i mult păcat,
-E har mai mult, nemăsurat!
-Hristos în mine asta e,
-Prin harul Lui, sfințenie.
+Ai fost străpuns de-al meu păcat, pe Golgota crucificat,
+Doamne, vreau să-Ți mulțumesc, căci prin harul Tău trăiesc.
 
-[b]
-Să mă-nveți cântări să-nalț,
-Când ispite-n cale vin,
-Eu mă las, Isus, pe al Tău braț,
-Ești speranță și alin.
+[v3]
+Azi smerit, la Tine vin, Doamne, Ție mă închin,
+Doar Tu ești speranța mea, cu Tine am victoria.
+
+[c2]
+/: Eu de Tine am nevoie, am nevoie, Doamne,
+Tu ești neprihănirea mea și-a mea apărare! :/
+
+[e]
+Tu ești neprihănirea mea și-a mea apărare!
+
