@@ -5,29 +5,20 @@
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Îți dau inima mea
-Și tot ce am aduc
-Acum ‘naintea Ta,
-De dragul Tău, Isus.
+Îți dau inima mea și tot ce am aduc
+Acum ‘naintea Ta, de dragul Tău, Isus.
 
 [v1.2]
-Tot ce eu visez,
-Mândria mea Ți-o dau,
-Renunț la dreptul meu,
-Ca viața Ta s-o am.
+Tot ce eu visez, mândria mea Ți-o dau,
+Renunț la dreptul meu ca viața Ta s-o am.
 
 [c]
-/: Și Ție Îți dau
-Tot ce sunt, tot ce am! :/
+/: Și Ție Îți dau tot ce sunt, tot ce am! :/
 
 [v2.1]
-Îți dau cântecul meu,
-Aștept la crucea Ta,
-Renunț la ce-i lumesc,
-Căci pe Tine Te doresc.
+Îți dau cântecul meu, aștept la crucea Ta,
+Renunț la ce-i lumesc, căci pe Tine Te doresc.
 
 [v2.2]
-Să Te cunosc mai mult,
-Să-nalț Numele Tău,
-Să știu bucuria Ta
-Chiar și-atunci când mi-este greu.
+Să Te cunosc mai mult, să-nalț Numele Tău,
+Să știu bucuria Ta chiar și-atunci când mi-este greu.
