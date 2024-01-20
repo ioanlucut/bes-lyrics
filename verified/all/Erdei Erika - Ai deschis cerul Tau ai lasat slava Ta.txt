@@ -1,5 +1,5 @@
 [title]
-Ai deschis cerul Tău, ai lăsat slava Ta {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66236}, id: {vHNMkvx84838YFwgLjMnHk}, contentHash: {d6639f}}
+Ai deschis cerul Tău, ai lăsat slava Ta {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66236}, id: {vHNMkvx84838YFwgLjMnHk}, contentHash: {a2e8a8}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2

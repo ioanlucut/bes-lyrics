@@ -1,5 +1,5 @@
 [title]
-Muzica a-ncetat, totu-i nemișcat {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5138}, id: {8LivoooMeoR7psgwwLautA}, contentHash: {5efd8e}}
+Muzica a-ncetat, totu-i nemișcat {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5138}, id: {8LivoooMeoR7psgwwLautA}, contentHash: {95f726}}
 
 [sequence]
 v1,p,c,v2,p,c
