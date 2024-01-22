@@ -1,0 +1,25 @@
+[title]
+Ierusalim {alternative: {*}, composer: {Surorile Onofrei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Multe neamuri și popoare vor veni din depărtări,
+Vor veni ca să se-nchine chiar din cele patru zări.
+
+[c]
+Ierusalim, orașul sfânt, e bucuria întregului pământ,
+Ierusalim, vei străluci când chiar Isus în tine va domni.
+
+[v2]
+Vor veni ca să învețe neamurile calea Ta,
+Să umble pe-a Ta cărare, să cunoască slava Ta.
+
+[v3]
+Cu toiagul judecății, Domnul le va păstori
+Și adevărata-ți față prin Isus va înflori.
+
+[v4]
+Ziua-aceea nu-i departe și deplin se va-mplini
+Tot ce este scris în Carte în atâtea profeții.

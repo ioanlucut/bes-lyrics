@@ -1,0 +1,25 @@
+[title]
+Printre atâtea lumini {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Printre atâtea lumini ce-n noapte pe cer se ivesc
+/: Pe Tine Te caut, Isus, și numai pe Tin’ Te doresc! :/
+
+[v2]
+Dintre atâtea dorințe ce-n inima mea se ivesc
+/: Ajută-mi în rugă s-aduc pe-acelea ce Tu le voiești! :/
+
+[v3]
+Dintre atâtea cărări pe care-aș putea să pășesc
+/: Cărarea ce duce spre cer ajută-mi Isus s-o iubesc! :/
+
+[v4]
+Dintre atâtea cântări ce-aș vrea să le cânt pe pământ
+/: Prin Duhul, Te rog să m-ajuți cântarea iubirii s-o cânt! :/
+
+[v5]
+Iar când pe nori vei veni în slavă pe-ai Tăi să-i ridici
+/: O, fă-mă, Isuse, să fiu cu-acei ce pe nume-ai să-i strigi! :/

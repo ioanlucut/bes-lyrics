@@ -1,0 +1,29 @@
+[title]
+Nu-i greu ce dăm noi pentru Domnul {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Nu-i greu ce dăm noi pentru Domnul, ce-a dat El pentru noi e greu,
+Nu Dumnezeu pe noi ne lasă, ci noi lăsăm pe Dumnezeu!
+
+[v2]
+Nu-s prea multe cântări cu lacrimi, ci lacrimi fără de cântări,
+Nu-s prea multe-adunări în lume, prea multă-i lumea-n adunări!
+
+[v3]
+Nu-i prea mult harul în vorbire, vorbiri prea multe-s fără har,
+Nu-i prea puțină alergarea, ci e prea multă în zadar!
+
+[v4]
+Nu spun prea mult despre iubire acei ce-o au și o trăiesc,
+Ci prea puțin o au aceea ce-o prea tot cântă și-o vorbesc!
+
+[v5]
+Nu-i prea mult preț pentru credință, ci-i prea puțină cea de preț,
+Nu-s rare scrierile sfinte, sunt rare sfintele vieți!
+
+[v6]
+Prea gol e drumul mântuirii, iar drumul iadului prea plin,
+Și ziua de-azi e-atât de scumpă, dar noi, o, facem prea puțin!
