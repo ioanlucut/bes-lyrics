@@ -1,0 +1,40 @@
+[title]
+Ai fost tu să-L vezi cum se roagă-n grădină {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ai fost tu să-L vezi cum se roagă-n grădină,
+Cum plânge cu amar, cum se roagă Isus?
+Ai fost tu să-L vezi cât de greu El suspină,
+/: Ce lacrimi au curs, ce grea-i crucea de dus
+Cum a dus-o Isus? :/
+
+[v2]
+Ai fost tu să plângi în grădina durerii,
+S-auzi cum se roagă cu strigăte mari,
+Simțit-ai tu oare fiorul iertării?
+/: Căci și tu ai fost un tâlhar păcătos,
+Mântuit de Hristos. :/
+
+[v3]
+Ai fost tu să-L vezi cum Își suie Calvarul,
+Cum cade sub cruce în arșița grea?
+Ai fost tu să-L vezi cum Își bea El paharul
+/: Pentru vina mea, pentru vina ta,
+Sus la Golgota? :/
+
+[v4]
+Ai fost tu să-L vezi cum străpuns e de cuie
+În mâini și picioare, pe lemn atârnat?
+Ce versuri putea-vor vreodată să spună
+/: Tot ce a-ndurat, tot ce a răbdat,
+El, nevinovat? :/
+
+[v5]
+Ai fost tu măcar doar cu gândul, străine,
+La cruce pe deal să te rogi și să plângi,
+Să-I spui rana ta printre mii de suspine,
+/: Să-I simți mâna Sa și mângâierea
+Ce poate să-ți dea? :/
