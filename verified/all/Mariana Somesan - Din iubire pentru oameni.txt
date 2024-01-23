@@ -1,0 +1,35 @@
+[title]
+Din iubire pentru oameni {alternative: {*}, composer: {Mariana Someșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Din iubire pentru oameni cerul sfânt l-ai părăsit,
+Și-ai venit în lumea noastră, Rege sfânt și preaiubit.
+/: Ce puțini Te-au cunoscut, ce puțini Te-au căutat,
+Dar ce mare bucurie au avut când Te-au aflat! :/
+
+[v2]
+Ce puțini au fost aceia care Te-au recunoscut,
+Căci în ieslea cea săracă strălucire n-ai avut.
+/: Ce puțini Te-au cunoscut, ce puțini Te-au căutat,
+Dar în sfântă adorare ceru-ntreg Ți s-a-nchinat! :/
+
+[v3]
+Au intrat apoi în staul magii de la Răsărit,
+Aur, smirnă și tămâie ei cu drag Ți-au dăruit.
+/: Ce-Ți dăm astăzi noi, Isuse, când viața Ta Ți-ai dat
+Și vărsându-Ți al Tău sânge, Tu din moarte ne-ai salvat? :/
+
+[v4]
+De-atunci stai la ușa noastră și aștepți să Te primim,
+Fă prin Duhul să-Ți deschidem și-apoi să Te preamărim!
+/: Inima va fi a Ta, cerul se va bucura,
+Oști în ceruri vor cânta lăudând puterea Ta. :/
+
+[v5]
+Doamne, lasă-Ți îndurarea pe pământul românesc,
+Orice suflet să-Ți șoptească: „Sfânt Isus, Îți mulțumesc!”
+/: Ca și magii mai demult Ție să ne închinăm,
+Pentru totdeauna, Doamne, Numele să-Ți înălțăm! :/
