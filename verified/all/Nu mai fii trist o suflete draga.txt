@@ -1,5 +1,5 @@
 [title]
-Nu mai fii trist, o, suflete dragă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Nu mai fii trist, o, suflete dragă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {fyzBNDzPVRbShBGAZJtYDU}, contentHash: {a4b6fc}}
 
 [sequence]
 v1,v2,v3,v4

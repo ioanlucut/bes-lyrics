@@ -1,5 +1,5 @@
 [title]
-Din iubire pentru oameni {alternative: {*}, composer: {Mariana Someșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Din iubire pentru oameni {alternative: {*}, composer: {Mariana Someșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {wpmQKxEgzMm341N5GATxTJ}, contentHash: {b5081d}}
 
 [sequence]
 v1,v2,v3,v4,v5

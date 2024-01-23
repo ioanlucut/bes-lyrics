@@ -1,5 +1,5 @@
 [title]
-Ierusalim {alternative: {*}, composer: {Surorile Onofrei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Ierusalim {alternative: {*}, composer: {Surorile Onofrei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {i3LUF8LFvCtvhMNEe6cQEC}, contentHash: {26f58f}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

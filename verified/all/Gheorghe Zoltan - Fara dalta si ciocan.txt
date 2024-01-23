@@ -1,5 +1,5 @@
 [title]
-Fără daltă și ciocan {alternative: {*}, composer: {Gheorghe Zoltan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Fără daltă și ciocan {alternative: {*}, composer: {Gheorghe Zoltan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gznm5sd48ds33F16ra8sK3}, contentHash: {d133db}}
 
 [sequence]
 v1,c,v2,c,v3,c

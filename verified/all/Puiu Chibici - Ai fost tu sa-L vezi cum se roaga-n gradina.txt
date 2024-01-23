@@ -1,5 +1,5 @@
 [title]
-Ai fost tu să-L vezi cum se roagă-n grădină {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Ai fost tu să-L vezi cum se roagă-n grădină {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tqRaPr17ENr1Rb5zQSNZSN}, contentHash: {08172f}}
 
 [sequence]
 v1,v2,v3,v4,v5

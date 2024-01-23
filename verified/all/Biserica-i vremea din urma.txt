@@ -1,5 +1,5 @@
 [title]
-Biserică-i vremea din urmă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Biserică-i vremea din urmă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5EgSSAmcjxxaQ4qdpnHVNz}, contentHash: {93ff1b}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

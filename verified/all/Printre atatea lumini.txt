@@ -1,5 +1,5 @@
 [title]
-Printre atâtea lumini {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Printre atâtea lumini {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ehhxpYmLtYqDdHmuiwFo1M}, contentHash: {04cced}}
 
 [sequence]
 v1,v2,v3,v4,v5

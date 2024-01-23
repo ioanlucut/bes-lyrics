@@ -1,5 +1,5 @@
 [title]
-Nu-i greu ce dăm noi pentru Domnul {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Nu-i greu ce dăm noi pentru Domnul {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {iQJBec9BhU2MjgXno5jdDY}, contentHash: {3f7474}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

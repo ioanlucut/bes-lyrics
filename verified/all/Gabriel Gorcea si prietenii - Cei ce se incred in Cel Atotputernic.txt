@@ -1,5 +1,5 @@
 [title]
-Cei ce se încred în Cel Atotputernic {alternative: {*}, composer: {Gabriel Gorcea și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Cei ce se încred în Cel Atotputernic {alternative: {*}, composer: {Gabriel Gorcea și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {k3SAVqnrpXDyzo9ipWiEfj}, contentHash: {0f5d1d}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -20,7 +20,7 @@ Tu-mi trimiți ajutorul ca lui Ilie.
 Cei ce-n orice zi spre Domnul se îndreaptă
 Nu vor duce lipsă de pâine și de apă,
 Care înspre El se-dreaptă cu rugăciune
-Nu vor duce lipsă de nici un bine.
+Nu vor duce lipsă de niciun bine.
 
 [v3]
 Uită-te pe geam, privește la vrăbioară
