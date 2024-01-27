@@ -1,18 +1,15 @@
 [title]
-Doamne, Numele-Ți înalț {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {8ce79d}}
+Doamne, Numele-Ți înalț {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {775f29}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Doamne, Numele-Ți înalț,
-Doamne, laudă-Ți cânt Ție,
-Fericit sunt că Te am,
-Fericit de-a Ta iubire.
+Doamne, Numele-Ți înalț, Doamne, laudă-Ți cânt Ție,
+Fericit sunt că Te am, fericit de-a Ta iubire.
 
 [c]
-/: Tu ai venit pe pământ să ne salvezi.
-Sus pe cruce Te-ai jertfit, iertați să fim!
-De pe cruce în mormânt,
-Din mormânt sus la cer.
+/: Tu ai venit pe pământ să ne salvezi,
+Sus pe cruce Te-ai jertfit iertați să fim!
+De pe cruce în mormânt, din mormânt sus la cer,
 Să fii înălțat mereu! :/

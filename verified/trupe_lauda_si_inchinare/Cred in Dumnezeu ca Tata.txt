@@ -1,51 +1,37 @@
 [title]
-Cred în Dumnezeu ca Tată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {65663}, id: {szVrUGAz9ruYREzxrGnmR1}, contentHash: {e9776d}}
+Cred în Dumnezeu ca Tată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {65663}, id: {szVrUGAz9ruYREzxrGnmR1}, contentHash: {83ab7b}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c,e
 
 [v1.1]
-Cred în Dumnezeu ca Tată,
-În Isus Hristos ca Fiu,
-Cred în Duhul Sfânt că este,
-Cred Cuvântul că e viu.
-Cred că mai este iertare
-Pentru tot trecutul meu,
+Cred în Dumnezeu ca Tată, în Isus Hristos ca Fiu,
+Cred în Duhul Sfânt că este, cred Cuvântul că e viu.
+Cred că mai este iertare pentru tot ce-am făcut rău,
 De aceea alerg la tronul Său.
 
 [v1.2]
-Cred că Isus a fost jertfă,
-Pe un lemn crucificat,
-Și-n mormânt, lângă Golgota,
-Trupul I-a fost îngropat.
-Cred că a-nviat, precum a zis,
-Și viu S-a arătat,
+Cred că Isus a fost jertfă, pe un lemn crucificat,
+Și-n mormânt, lângă Golgota, trupul I-a fost îngropat.
+Cred că a-nviat precum a zis și viu S-a arătat,
 De aceea, la El am alergat.
 
 [c]
 /: Am luat hotărârea, înapoi nu voi da!
-Cu privirea doar la cruce,
-Lumea-n spate-o voi lăsa.
-Nu-mi va fi deloc rușine
-Să afirm că sunt creștin.
+Cu privirea doar la cruce, lumea-n spate-o voi lăsa.
+Nu-mi va fi deloc rușine să afirm că sunt creștin.
 Voi sluji mereu prin harul Său divin. :/
 
 [v2.1]
-Cred Cuvântul care spune:
-Trebuie să te naști din nou,
-Viața veche e spălată
-Și totul este nou.
-Cred că dragostea lui Dumnezeu
-Se va descoperi,
+Cred Cuvântul care spune: trebuie să te naști din nou,
+Viața veche e spălată și totul-i făcut nou.
+Cred că dragostea lui Dumnezeu se va descoperi,
 De aceea și mai mult Îl voi sluji.
 
 [v2.2]
-Cred că este-un bine și un rău,
-Te naști și apoi mori.
-Cred că Biblia este harta
-Spre-ale cerului comori,
-Cred că nu sunt singur în Hristos,
-Pe mulți El ne-a salvat,
+Cred că este-un bine și un rău, te naști și apoi mori.
+Cred că Biblia este harta spre-ale cerului comori,
+Cred că nu sunt singur în Hristos, pe mulți El ne-a salvat,
 De aceea credință I-am jurat.
 
 [e]

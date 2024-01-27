@@ -1,5 +1,5 @@
 [title]
-Suntem din neam de Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153270}, id: {2ZHr2F5n5C62DudwS7mzw5}, contentHash: {ca11ef}}
+Suntem din neam de Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153270}, id: {2ZHr2F5n5C62DudwS7mzw5}, contentHash: {cc89b6}}
 
 [sequence]
 c,v1,c,v2,c,b,c
@@ -11,8 +11,7 @@ Suntem prin har moștenitori ai cerului,
 Prin Duhul Sfânt biruitori!
 
 [c]
-/: Nimeni nu e ca El,
-Mare e Dumnezeu,
+/: Nimeni nu e ca El, mare e Dumnezeu
 Al lui Avraam, Isaac și Israel. :/
 
 [v2]
@@ -22,5 +21,4 @@ Să Îl iubim, spre slava Lui noi să trăim.
 Eliberați și vindecați noi proclamăm.
 
 [b]
-A Tatălui e-mpărăția,
-Puterea și slava-n veci! (4x)
+A Tatălui e-mpărăția, puterea și slava-n veci! (x4)

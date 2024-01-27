@@ -1,5 +1,5 @@
 [title]
-Sfârșitul veacului trăim {alternative: {*}, composer: {V. Popovici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5064}, id: {xiSnU9WK8aeYqfgVfLwHp8}, contentHash: {6dc0f1}}
+Sfârșitul veacului trăim {alternative: {*}, composer: {V. Popovici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5064}, id: {xiSnU9WK8aeYqfgVfLwHp8}, contentHash: {9eecf2}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -19,7 +19,7 @@ Căci Domnul vine iar. :/
 [v2]
 E cerul și pământul plin
 De semnele venirii Lui,
-Cuvântul Lui e da, amin,
+Cuvântul Său e da, amin,
 În El nicio umbră de schimbare nu-i.
 
 [v3]
