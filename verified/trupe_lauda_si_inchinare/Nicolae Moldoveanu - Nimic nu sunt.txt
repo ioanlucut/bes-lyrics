@@ -2,7 +2,7 @@
 Nimic nu sunt {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Costache Ioanid}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6470}, id: {hREBxi9dAPUHA6sKM4LCEe}, contentHash: {a63446}}
 
 [sequence]
-v1,c,v2,c2,v3,b,c
+v1,c,v2,c2,v3,c3
 
 [v1]
 Nimic nu sunt, un strop de tină
@@ -31,10 +31,10 @@ Ce mâine fi-va o stea pe cer.
 [v3]
 Nimic nu sunt, dar Tu ești totul
 Și Tu te-ai dat ca preț al meu
-Făcând din pieptul meu, chivotul
+Făcând din pieptul meu chivotul
 Ce-L poartă în el pe Dumnezeu.
 
-[b]
+[c3]
 Nimic nu sunt, nimic sub soare,
 Dar Tu Te-ai dat pentru nimic.
 În veci să fii mereu mai mare,
