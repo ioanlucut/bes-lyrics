@@ -1,5 +1,5 @@
 [title]
-Binecuvântează suflete {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4839}, id: {tEDQKctgofKcj1tqLTPMDH}, contentHash: {ce3f11}}
+Binecuvântează suflete {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4839}, id: {tEDQKctgofKcj1tqLTPMDH}, contentHash: {a42502}}
 
 [sequence]
 c,v1,c,v1
