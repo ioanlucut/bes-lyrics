@@ -2,7 +2,7 @@
 Pribegind printre străini {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
 
 [sequence]
-v1,c,v2,c2,v3,c3
+v1,c,v2,c2,v3,c3,v4,c4
 
 [v1]
 Pribegind printre străini, Isuse,
@@ -29,7 +29,7 @@ Să strigăm un aleluia din inimă Domnului! :/
 Astăzi iar un glas duios și dulce ne tot cheamă și ne spune că-i puțin
 Să ne-apropiem dar azi de Domnul, inima și viața să le pregătim.
 
-[c4]
+[c3]
 Noi Te rugăm /: fă dar clipa mântuirii azi cu toți s-o retrăim,
 Să facem din nou iubirii loc în inimi pe deplin! :/
 
@@ -39,7 +39,7 @@ Când de oboseală vom cădea
 Prin ocări e-aici salvarea noastră
 Ești doar Tu și în veci vei rămânea.
 
-[c3]
+[c4]
 Noi Te rugăm /: umple-ne din nou candela
 Cu puteri prin Duhul Sfânt,
 Fă să avem bucuria, umple-ne cu Duh Sfânt! :/
