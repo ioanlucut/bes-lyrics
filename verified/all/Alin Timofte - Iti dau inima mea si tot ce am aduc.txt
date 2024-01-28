@@ -1,5 +1,5 @@
 [title]
-Îți dau inima mea și tot ce am aduc {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2466}, id: {3n5vUUr8XiXnJivR5ziZuA}, contentHash: {e60b12}}
+Îți dau inima mea și tot ce am aduc {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2466}, id: {3n5vUUr8XiXnJivR5ziZuA}, contentHash: {b01c50}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
