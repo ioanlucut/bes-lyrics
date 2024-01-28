@@ -1,0 +1,53 @@
+[title]
+Un cântec răsună în inima mea {alternative: {*}, composer: {L. Kings}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fAavTwypdwEGx3pD2TzN3Q}, contentHash: {11c9f2}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Un cântec răsună în inima mea,
+E dragostea pentru Isus!
+Și arde, ca flacăra, neîncetat,
+Și mă fericește nespus.
+
+[c]
+Orice suferinți și lacrimi fierbinți,
+Ce-mi pasă de sunt pe-a mea cale
+Când știu că Isus mă iubește nespus
+Și m-așteaptă în ceruri sus.
+
+[v2]
+Un cântec de dragoste am făurit,
+Cu el, Doamne, vreau să-Ți slujesc
+Și din zori de zi până-n noapte târziu
+Să-Ți spun vreau mereu: Te iubesc!
+
+[c2]
+Nicicând n-oi uita de dragostea Ta,
+Căci jertfă Te-ai dat pentru mine,
+Cumplitu-mi păcat pe veci mi l-a spălat
+Al Tău sânge nevinovat.
+
+[v3]
+Un cântec răsună prin munți și prin văi
+Și chiar peste mări s-a întins,
+Răsună voios și se-ntinde mereu,
+Întreg pământul l-a cuprins.
+
+[c3]
+Cu toții aflați și vă bucurați
+Iertată vă e orice vină!
+O, fie slăvit al meu Domn preaiubit
+C-al meu suflet a mântuit!
+
+[v4]
+Isuse, Isuse, ce mult Te iubesc,
+Te cheamă tot sufletul meu!
+Păstrează-mă veșnic la sânu-Ți iubit,
+Păstrează-mă-ntruna, mereu!
+
+[c4]
+Isuse divin, cununa de spini
+Mă lasă s-o port pentru Tine,
+Să-Ți pot arăta dorul și dragostea
+Care cântă în inima mea.
