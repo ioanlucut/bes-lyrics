@@ -1,0 +1,17 @@
+[title]
+România, timpul tău este aproape {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dknheVxWLecitHARXNkEpY}, contentHash: {d93aca}}
+
+[sequence]
+v1,c
+
+[v1]
+/: Româ^{D}nia, timpul ^{A}tău este aproa^{Bm}pe,
+Domnul ^{G}nostru Își re^{D}varsă unge^{A}rea.
+Îi a^{F#m}uzi chemarea ^{G}sfântă, El să ^{Bm}te ridice ^{G}vrea
+Și să ^{D/A}duci în lumea-n^{A}treagă dragostea ^{D}Sa. :/
+
+[c]
+/: ^{D}Români^{Bm}a, ^{G}hai, ridică-^{A}te,
+Peste ^{D}ti^{Bm}ne El ^{Em}străluceș^{A}te!
+Româ^{G}ni^{A}a, ^{F#m}timpul tău e-a^{Bm}cum,
+Te do^{G}rește ^{A}Dumne^{D}zeu! :/

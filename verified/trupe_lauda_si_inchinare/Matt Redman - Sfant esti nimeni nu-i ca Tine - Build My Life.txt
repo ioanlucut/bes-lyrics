@@ -1,37 +1,32 @@
 [title]
-Sfânt ești, nimeni nu-i ca Tine {alternative: {Build My Life}, composer: {Matt Redman}, writer: {Matt Redman}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {189324}, id: {vQ9VrucBegcLw3FdrDoWKQ}, contentHash: {137098}}
+Sfânt ești, nimeni nu-i ca Tine {alternative: {Build My Life}, composer: {Matt Redman}, writer: {Matt Redman}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {189324}, id: {vQ9VrucBegcLw3FdrDoWKQ}, contentHash: {3194bd}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c
 
 [v1.1]
-Vrednic de lauda ce o pot cânta,
-Vrednic ești Tu în veci de-nchinarea mea,
-Vrednic de tot ce sunt toată viața mea
-/: Ești Tu, Isus! :/
+^{E}Vrednic de lau^{A2}da ce o pot cânta,
+^{E}Vrednic ești Tu în ^{A2}veci de-nchinarea mea,
+^{E}Vrednic de tot ce ^{A2}sunt toată viața mea
+Ești Tu, {E/G#}Isus, ești Tu, I^{A2}sus!
 
 [v1.2]
-Isus e Numele cel mai minunat,
-Isus e singurul care m-a salvat,
-Vrednic de tot ce sunt toată viața mea,
-/: Ești Tu, Isus! :/
+^{E}Isus e Numele ^{E4}cel mai minunat,
+^{E}Isus e singu^{E4}rul care m-a salvat,
+^{E}Vrednic de tot ce ^{E4}sunt toată viața mea,
+Ești Tu, I^{E}sus, ești Tu, I^{E4}sus!
 
 [c]
-Sfânt ești, nimeni nu-i ca Tine,
-Totu-Ți aparține.
-Luminează Tu, prin mine,
-Vreau să Te cunosc mai bine,
-Vreau a Ta iubire
-Pentru cei de lângă mine.
+^{A2}Sfânt ești, nimeni nu-i ca ^{E4/F#}Tine, totu-Ți apar^{E}ține.
+Luminează {C#m7}Tu, prin mine, ^{A2}vreau să Te cunosc mai ^{E4/F#}bine,
+Vreau a Ta iu^{E/B}bire pentru cei de ^{C#m7}lângă mine.
 
 [v2]
-Vrednic de lauda ce o pot cânta,
-Vrednic ești Tu în veci de-nchinarea mea,
-Vrednic de tot ce sunt toată viața mea,
-/: Ești Tu, Isus! :/
+^{E}Vrednic de lau^{A2}da ce o pot cânta,
+^{E}Vrednic ești Tu în ^{A2}veci de-nchinarea mea,
+^{E}Vrednic de tot ce ^{A2}sunt toată viața mea,
+Ești Tu, I^{E/G#}sus, ești Tu, I^{A2}sus!
 
 [b]
-/: Voi zidi pe-a Ta iubire,
-E o temelie tare.
-Voi trăi doar prin credință,
-Neclintit în orice vreme. :/
+/: ^{A2}Voi zidi pe-a ^{B4}Ta iubire, ^{C#m7}e o temelie ^{E/G#}tare.
+^{A2}Voi trăi doar ^{B4}prin credință, ^{C#m7}neclintit în ^{E/G#}orice vreme! :/

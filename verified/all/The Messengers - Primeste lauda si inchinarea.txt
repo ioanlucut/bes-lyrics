@@ -1,15 +1,17 @@
 [title]
-Primește lauda și închinarea {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4443}, id: {7LvB7LrMs4hjMkpVAKYP4d}, contentHash: {96456d}}
+Primește lauda și închinarea {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4443}, id: {7LvB7LrMs4hjMkpVAKYP4d}, contentHash: {4a8dce}}
 
 [sequence]
 c,v1,c
 
 [c]
-/: Primește lauda și închinarea, Tată din ceruri, Te slăvim,
-Primește lauda și închinarea, Tată din ceruri, Te iubim! :/
+/: ^{C}Primește ^{G/E}lauda ^{F}și închi^{C}narea,
+^{F}Tată din ^{C}ceruri, Te slă^{G}vim, ^{G2}
+Pri^{C}mește ^{G/E}lauda ^{F}și închi^{C}narea,
+^{F}Tată din ^{C}ceruri, Te iu^{C}bim! ^{C2} :/
 
 [v1]
-Cu tot ce-avem ne-nchinăm în fața Ta, Stăpâne,
-Onoare și mărire Ție-Ți dăm.
-Prin Duhul Sfânt să lucrezi, fă-Ți Numele de slavă,
-Prezența Ta s-o vadă toți cei ce cred.
+^{C} Cu tot ce-avem ne-nchi^{G}năm ^{F/A}în fața Ta, Stăpâ^{C}ne,
+^{F} Onoare și mă^{C}rire Ție-Ți ^{G G2}dăm.
+^{C} Prin Duhul Sfânt să lu^{G}crezi, ^{F/A}fă-Ți Numele de sla^{C}vă,
+^{F} Prezența Ta s-o ^{C}vadă toți ^{G7}cei ce ^{C}cred.

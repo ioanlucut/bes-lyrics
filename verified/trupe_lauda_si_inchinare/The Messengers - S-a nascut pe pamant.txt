@@ -1,12 +1,12 @@
 [title]
-S-a născut pe pământ {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4403}, id: {3tiq8LUws6iFeTfXYw66rv}, contentHash: {7447ad}}
+S-a născut pe pământ {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4403}, id: {3tiq8LUws6iFeTfXYw66rv}, contentHash: {eb8210}}
 
 [sequence]
 v1,v2,v3,v4,v5
 
 [v1]
-S-a născut pe pământ un Mântuitor
-E Isus, pruncul sfânt, Domn triumfător.
+^{E}S-a născut pe pământ un Mântui^{E7}tor
+^{A}E Isus, ^{E}Pruncul Sfânt, ^{F (B7)}Domn triumfă^{B (E)}tor.
 
 [v2]
 Au venit cei trei magi și s-au închinat,

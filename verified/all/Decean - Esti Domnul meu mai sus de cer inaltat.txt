@@ -1,20 +1,20 @@
 [title]
-Ești Domnul meu, mai sus de cer înălțat {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58052}, id: {5YN1KT7NqYPfEo6iWRpdhy}, contentHash: {8be0d7}}
+Ești Domnul meu, mai sus de cer înălțat {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58052}, id: {5YN1KT7NqYPfEo6iWRpdhy}, contentHash: {80f7e7}}
 
 [sequence]
 v1,c,v2,c,b,c,e
 
 [v1]
-Ești Domnul meu, mai sus de cer înălțat,
-Ești sfânt și drept, vrednic să fii lăudat.
-Ești Domnul meu, calea Tu mi-ai arătat,
-Ești neschimbat, vrednic să fii lăudat!
+Ești Domnul ^{Em}meu, ^{F}mai sus de cer înăl^{C-G/C}țat,
+Ești sfânt și ^{Em}drept, ^{F}vrednic să fii lău^{Dm-G}dat.
+Ești Domnul ^{Em}meu, ^{F}calea Tu mi-ai ară^{C-G/C}tat,
+Ești neschim^{Em}bat, ^{F}vrednic să fii lău^{Dm-G}dat!
 
 [c]
-/: Mâini către cer azi eu ridic
-Și mă predau Ție, Doamne.
-Cu vocea mea Îți cânt mereu:
-Doar Tu ești Domnul meu! :/
+/: Mâini către ^{C}cer azi eu ri^{Dm}dic
+Și mă pre^{C/E}dau Ție, Doam^{G}ne.
+Cu vocea ^{Am}mea Îți cânt me^{Dm}reu,
+Doar ^{F}Tu ești Domnul ^{G}meu! :/
 
 [v2]
 Rege etern, cer și pământ Te slăvesc,
@@ -23,9 +23,9 @@ Ești Creator, în tot ce faci minunat,
 Al meu Împărat, vrednic să fii lăudat!
 
 [b]
-/: Ești Regele meu! :/
-/: Azi mă predau și Ție-Ți dau
-Tot ce sunt eu, Regele meu! :/ (3x)
+/: Ești Regele ^{Am-F-C-G}meu! :/
+/: Azi mă pre^{Am-F}dau și Ție-Ți ^{C-G}dau
+Tot ce sunt ^{Am-F}eu, Regele ^{C-G}meu! :/ (3x)
 
 [e]
-/: Ești Regele meu, Tu, Domnul meu! :/
+/: Ești Regele ^{Am}meu, ^{F}Tu, Domnul ^{C-G}meu! ^{C}:/

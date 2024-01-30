@@ -1,20 +1,20 @@
 [title]
-Doamne, viața fără Tine {alternative: {*}, composer: {Andreea Avadanei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176807}, id: {eiMzaGtWUAMJMTPwXcn1Z7}, contentHash: {fcc578}}
+Doamne, viața fără Tine {alternative: {*}, composer: {Andreea Avadanei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176807}, id: {eiMzaGtWUAMJMTPwXcn1Z7}, contentHash: {4b667b}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Nu vreau să trăiesc în alt loc
-Căci viața mi-a spus că e greu
-Să stau separat de Hristos
-Și altfel nu vreau să trăiesc!
+Nu v^{Bb}reau să trăiesc în alt ^{F}loc
+Căci ^{F7}viața mi-a spus că e ^{Bb}greu
+^{Bb/G}Să stau separat de Hris^{Eb}tos
+Și ^{Bb/G}altfel nu vreau să tră^{F}iesc!
 
 [c]
-Doamne, viața fără Tine n-are sens.
-Să mă ai, să Te am, îmi doresc!
-Dacă ar fi să trăiesc înc-un veac
-Mi-aș lăsa sufletul în mâna Ta!
+Doamne, vi^{Eb}ața fără Tine n-are ^{Bb}sens.
+Să mă ai, ^{Bb/G}să Te am, îmi do^{F}resc!
+Dacă ar fi ^{Eb}să trăiesc înc-un ^{Bb}veac
+Mi-aș lă^{Bb/G}sa sufletul ^{Eb}în mâna ^{F}Ta!
 
 [v2]
 Eu știu că Tu ești Hristosul.

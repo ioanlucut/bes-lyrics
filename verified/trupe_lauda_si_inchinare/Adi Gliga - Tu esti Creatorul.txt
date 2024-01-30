@@ -1,23 +1,22 @@
 [title]
-Tu ești Creatorul {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6780}, id: {qFApZ95RgYRuhY4s73uZo8}, contentHash: {5aea1d}}
+Tu ești Creatorul {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6780}, id: {qFApZ95RgYRuhY4s73uZo8}, contentHash: {dd2630}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Tu ești Creatorul Universului întreg
-Tu ești început și întregire tuturor.
-Stelele și luna glasul Tău îl înțeleg,
-Marea și pământul, tot ce are viață
-Îți dedică existența lor.
+^{E}Tu ești Creato^{B4}rul univer^{F#m7}sului în^{E/G#}treg
+^{A2}Tu ești început ^{E/G#}și întregi^{F#m7}re tutu^{B4}ror. ^{B}
+^{E}Stelele și ^{B4}luna glasul ^{F#m7}Tău îl înțe^{E/G#}leg,
+^{B4}Marea și pă^{C#m}mântul, ^{B4}tot ce are ^{C#m}viață
+^{B4}Îți dedică ^{A2}existența ^{E}lor.
 
 [c]
-/: Pe toate le-ai creat,
-Pe toate mâna Ta le ține,
-Toate-mi spun că Tu ești Dumnezeu.
-Ai trimis suflarea Ta și viață peste mine
-Și mai sus de tot ce ești
-Tu ești Tatăl meu. :/
+/: Pe ^{E}toate le-ai cre^{B}at,
+Pe toate ^{A2/C#}mâna Ta le ^{E}ține,
+^{A}Toate-mi spun că ^{B}Tu ești Dumne^{E}zeu.
+^{E}Ai trimis su^{B}flarea Ta și ^{A2/C#}viață peste ^{E}mine
+^{A2}Și mai sus de ^{B4}tot ce ^{B}ești ^{A2}Tu ești ^{B}Tatăl ^{E}meu. :/
 
 [v2]
 Împărat al slavei, Tu luminii ești stăpân,

@@ -1,20 +1,20 @@
 [title]
-Dragostea, ce fericire dă! {alternative: {*}, composer: {Călin Lela & Diana Vuculescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {p6jCoS3Q9DMhnxCAwgiAu7}, contentHash: {342d60}}
+Dragostea, ce fericire dă! {alternative: {*}, composer: {Călin Lela & Diana Vuculescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {p6jCoS3Q9DMhnxCAwgiAu7}, contentHash: {482854}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,e
 
 [v1]
-Un răspuns dorit-am să primesc:
-„De ce-i dragostea lăsată pe pământ?”
-Am început în juru-mi să privesc,
-Dar parcă toate au tăcut mormânt.
+^{Bm}Un răspuns dorit-am să pri^{G}mesc:
+„De ce-i dragos^{D}tea lăsată pe pă^{A}mânt?”
+/: ^{Bm}Am început în juru-mi să pri^{G}vesc,
+Dar parcă ^{D}toate au tăcut mor^{A}mânt. :/
 
 [c]
-Ea e dragostea, ce fericire dă
-/: Și-un sens în viața noastră. :/
-Nu se mânie, nu se laudă,
-/: Nimic în schimb nu o să ceară. :/
+^{Bm}Ea e dragostea, ce fericire {G}dă
+/: Și-un sens în viața ^{D}noas{(A)}tră. :/
+^{Bm}Nu se mânie, nu se lau^{G}dă,
+/: Nimic în schimb nu o să ^{D}cea^{(A)}ră. :/
 
 [v2]
 Vedem ca într-o oglindă
@@ -29,6 +29,6 @@ Când toate vor vedea sfârșitul.
 Ea, dragostea, va domni în veșnicie.
 
 [e]
-Dragostea,
-/: Nimic nu o să ceară, :/
-Dragostea!
+Dragos^{Bm G}Bmtea,
+/: Nimic nu o să ^{D}cea^{(A)}ră, :/
+Dragos^{Bm}tea!

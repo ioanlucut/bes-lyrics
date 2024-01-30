@@ -1,13 +1,13 @@
 [title]
-Nu vă mai gândiți la ce a fost ‘nainte {alternative: {Lucruri noi}, composer: {Nicu Clipa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195513}, id: {9hCRCwH45EQYapqs8Vo4bU}, contentHash: {f117f1}}
+Nu vă mai gândiți la ce a fost ‘nainte {alternative: {Lucruri noi}, composer: {Nicu Clipa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195513}, id: {9hCRCwH45EQYapqs8Vo4bU}, contentHash: {511fa3}}
 
 [sequence]
 v1,v2,c,v3,c,b,c
 
 [v1]
-Nu vă mai gândiți la ce a fost ‘nainte,
-Nu vă mai uitați la lucruri vechi, trecute.
-Iată, Eu voi face, Eu voi face lucruri noi!
+^{D}Nu vă mai gândiți la ce a fost ‘nainte,
+^{D/B}Nu vă mai uitați la lucruri vechi, trecute.
+^{G}Iată, Eu voi face, Eu voi face lucruri ^{D}noi!
 
 [v2]
 Lucrări mari veți vedea mai mult decât ‘nainte,
@@ -15,12 +15,12 @@ Am lucruri noi să fac și-s gata să se-ntâmple,
 Iată, Eu voi face, Eu voi face lucruri noi!
 
 [c]
-Voi face un drum, chiar prin pustie,
-În locuri uscate va curge apă vie.
-Iată, Eu voi face, Eu voi face lucruri noi!
-Vă dau Duhul Meu, vă-mbrac în putere,
-Națiuni vor cunoaște căile Mele.
-Iată, Eu voi face, Eu voi face lucruri noi!
+Voi ^{D}face un drum, chiar prin pustie,
+În lo^{D/B}curi uscate va curge apă vie.
+^{G}Iată, Eu voi face, Eu voi face lucruri ^{D}noi!
+^{D}Vă dau Duhul Meu, vă-mbrac în putere,
+Na^{D/B}țiuni vor cunoaște căile Me^{G}le.
+^{D}Iată, Eu voi face, Eu voi face lucruri noi!
 
 [v3]
 Spuneți celor slabi: „Fiți tari și nu vă temeți!”
@@ -28,5 +28,5 @@ Mâinile-ntăriți, în Mine vă încredeți,
 Iată, Eu voi face, Eu voi face lucruri noi!
 
 [b]
-/: Atunci șchiopii vor sări, orbii vor vedea,
-Surzii vor auzi, iar glasul celor muți va cânta! :/
+/: A^{A}tunci șchiopii vor sări, ^{G}orbii vor vedea,
+^{A}Surzii vor auzi, iar gla^{G}sul celor muți va ^{A4 A}cânta! :/

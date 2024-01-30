@@ -1,24 +1,24 @@
 [title]
-Dumnezeu e tăria mea {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1053}, id: {syR2s9xDncwmcFTsMVcqk6}, contentHash: {ad2a27}}
+Dumnezeu e tăria mea {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1053}, id: {syR2s9xDncwmcFTsMVcqk6}, contentHash: {199c0f}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Când în zare se ivește solul celui necurat,
-Dumnezeu e tăria mea!
-Când armatele de duhuri cerul au întunecat,
-Dumnezeu e tăria mea!
+^{Em}Când în zare se ivește solul celui necurat,
+Dum^{C}nezeu e tă^{D}ria ^{Em}mea!
+Când ar^{D}matele de duhuri cerul au întune^{Em}cat,
+Dumne^{C}zeu e tă^{D}ria ^{Em}mea!
 
 [v1.2]
-Când tot iadul stă-n picioare, pregătit pentru război
-Și simt că sufletu-mi se zbate, prins în cursa grea,
-Mă aplec în rugăciune și-aștept ajutorul slavei,
-Dumnezeu e tăria mea!
+Când tot ia^{Am}dul stă-n picioare, pregătit pentru război
+Și simt că ^{B}sufletu-mi se zbate, prins în ^{Em/B}cur^{B}sa ^{Em}grea,
+^{Am}Mă aplec în rugăciune și-aștept ajutorul slavei,
+Dumne^{C}zeu e tă^{D}ria ^{Em}mea!
 
 [c]
-/: Dumnezeu e tăria mea, adăpost pentru sufletul meu,
-Ajutor când povara e grea, Dumnezeu e scăparea mea! :/
+/: Dumne^{C}zeu e tă^{G}ria mea, adă^{D}post pentru ^{Em}sufle^{B}tul ^{Em}meu,
+Aju^{C}tor când po^{G}vara e grea, Dumne^{Am}zeu e ^{Em/B}}scăpa^{B}rea ^{Em}mea! :/
 
 [v2.1]
 Dumnezeu are putere ca în cer și pe pământ,

@@ -1,25 +1,24 @@
 [title]
-Doamne, vreau să mă-nchin {alternative: {*}, composer: {Hristos pentru România}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4513}, id: {mrHZDUev1CynwRWhFzq9Bo}, contentHash: {469104}}
+Doamne, vreau să mă-nchin {alternative: {*}, composer: {Hristos pentru România}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4513}, id: {mrHZDUev1CynwRWhFzq9Bo}, contentHash: {738a46}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c
 
 [v1.1]
-Doamne, vreau să mă-nchin
-Și cu inima mea înaintea Ta vin.
-Când mă rog, mă asculți,
-De păcate mă ierți,
-Numai Tu mă-nțelegi.
+{E}Doamne, vreau să mă-n^{B}chin
+Și cu ^{A2}inima mea înaintea Ta vin.
+Când mă ^{E}rog, mă asculți,
+De păcate mă ^{A2}ierți, numai Tu mă-nțelegi.
 
 [v1.2]
-Credincios îmi răspunzi,
-Iar sub aripa Ta de furtuni mă ascunzi.
-Mâna Ta mă atinge
-Și îmi dă libertatea prin har să trăiesc.
-Nici nu pot să exprim cât Te doresc!
+Credin^{E}cios îmi răs^{B}punzi,
+Iar sub ^{C#m}aripa Ta de fur^{A}tuni mă ascunzi.
+Mâna ^{E}Ta mă a^{B}tinge
+Și îmi ^{A2}dă libertatea prin har să trăiesc.
+Nici nu ^{E}pot să ex^{A2}prim cât Te do^{B4 B}resc!
 
 [c]
-Inima mea îți spune iubire,
-Inima mea îți dă mulțumire,
-Inima mea pe Tine Te caută,
-Inima mea, căci Tu ești cel mai minunat!
+{E}Inima mea îți ^{B}spune iubire,
+^{C#m}Inima mea îți ^{A}dă mulțumire,
+^{E}Inima mea pe ^{B}Tine Te caută,
+^{C#m}Inima mea, căci ^{E}Tu ești cel mai minu^{E B}nat! ^{C#m A}

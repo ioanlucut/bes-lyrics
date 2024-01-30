@@ -1,21 +1,21 @@
 [title]
-În orice suflet e-un tainic dor {alternative: {*}, composer: {Continental}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2860}, id: {4V9wwnRZkf7CTYbJLKcCDT}, contentHash: {e70d98}}
+În orice suflet e-un tainic dor {alternative: {*}, composer: {Continental}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2860}, id: {4V9wwnRZkf7CTYbJLKcCDT}, contentHash: {493ad3}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-În orice suflet e-un tainic dor
-Aprins în noapte sau stins și gol,
-Dor de lumină, de veșnicie,
-Ascuns în inimi de Dumnezeu.
+În orice ^{G2}suflet e-un tainic ^{D2}dor
+^{C2}Aprins în noapte sau stins și ^{G-D4}gol,
+Dor de lu^{G2}mină, de veșni^{D2}cie,
+Ascuns în ^{C2}inimi de Dumne^{G}zeu.
 
 [c]
-/: Poartă-ți lumina prin întuneric
-În noaptea făr’ de nădejdi pe drum.
-Far neclintit să-ți fie viața,
-Pași să-ndrepte pe drumul bun,
-Lasă-n inimi un dor de cer. :/
+/: ^{D4}Poartă-ți lu^{G}mina prin întu^{C}neric
+În noaptea ^{G/D}făr’ de nădejdi pe ^{D}drum.
+Far neclin^{G}tit să-ți fie ^{C}viața,
+Pași să-n^{G/D}drepte pe ^{D7}drumul ^{G}bun,
+^{G}Lasă-n ^{G/D}inimi un ^{D7}dor de ^{G}cer. :/
 
 [v2]
 Pe calea noastră mereu găsim

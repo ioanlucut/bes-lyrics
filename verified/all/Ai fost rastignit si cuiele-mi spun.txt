@@ -1,19 +1,19 @@
 [title]
-Ai fost răstignit și cuiele-mi spun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2775}, id: {vX9ZNnT1qwmam2T8xhpdBN}, contentHash: {b70056}}
+Ai fost răstignit și cuiele-mi spun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2775}, id: {vX9ZNnT1qwmam2T8xhpdBN}, contentHash: {4225a7}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Ai fost răstignit și cuiele-mi spun
-Ce mare Ți-a fost iubirea!
-Cununa de spini îmi spune și ea
-Ce mare Ți-a fost iubirea!
+Ai ^{E}fost răstignit și cu^{C#m}iele-mi spun
+Ce ^{A}mare Ți-a fost iubi^{B}rea!
+Cu^{E}nuna de spini îmi ^{C#m}spune și ea
+Ce ^{A}mare Ți-a fost iubi^{B}rea!
 
 [c]
-/: Când cer și stele vor pieri,
-Semnele vor dăinui
-Și pe veci îmi vor șopti cât m-ai iubit.
-De-aceea vreau să spun:
-/: „În veci inima, în veci dragostea,
-În veci viața mea este-a Ta!” :/
+/: Când cer și ^{G#m}stele vor pie^{A}ri,
+Semne^{G#m}le vor dăi^{A}nui
+Și pe ^{G#m}veci îmi vor șop^{A}ti cât m-ai iu^{B}bit.
+De-aceea ^{A}vreau să ^{B}spun:
+/: „În ^{E}veci inima, ^{C#m}în veci dragostea,
+În ^{A}veci viața mea este-a ^{B}Ta!” :/

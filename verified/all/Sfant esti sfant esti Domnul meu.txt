@@ -1,21 +1,18 @@
 [title]
-Sfânt ești, sfânt ești, Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5dfZW1SPxLJiDiVpYZhqY5}, contentHash: {c9f26a}}
+Sfânt ești, sfânt ești, Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5dfZW1SPxLJiDiVpYZhqY5}, contentHash: {941db2}}
 
 [sequence]
 v1,p,c
 
 [v1]
-Sfânt ești, sfânt ești, Domnul meu!
-Pământul e plin de slava Ta,
-Numele Tău e-nălțat,
-Pe-ntregul pământ ești Domn!
+^{C}Sfânt ești, ^{F/C}sfânt ^{C}ești, ^{G7}Domnul ^{C}meu!
+Pă^{F}mântul e ^{C/E}plin de ^{Dm}sla^{C/E}va ^{G}Ta,
+^{C}Nume^{F/C}le ^{C}Tău ^{G7}e-^{C}nălțat,
+Pe-n^{F}tregul pă^{C/E}mânt ești ^{E}Domn!
 
 [p]
-Luminezi viața mea
-Și prin Tine strălucesc.
+^{Am}Lumi^{D}nezi vi^{G}ața ^{C}mea și prin ^{F}Ti^{C/E}ne ^{Dm}stră^{G4lu^{G}cesc.
 
 [c]
-Cerul cântă laude,
-Minunat e Domnul!
-Ești Rege-n Univers.
-Aleluia, și-n viața mea!
+^{C}Cerul cântă ^{Em}lau^{F}de, ^{Am}minunat e ^{G}Domnul!
+Ești ^{Em}Rege-n uni^{Am}vers, ale^{F}lu^{C/E}ia, și-n ^{C/G}via^{G}ța ^{C}mea!

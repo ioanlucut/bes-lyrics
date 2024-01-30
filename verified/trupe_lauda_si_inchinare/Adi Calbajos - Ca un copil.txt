@@ -1,26 +1,26 @@
 [title]
-Ca un copil {alternative: {*}, composer: {Adi Calbajos}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {121522}, id: {q3vejaZNiayLcxCFxW2Bwp}, contentHash: {9d81fc}}
+Ca un copil {alternative: {*}, composer: {Adi Calbajos}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {121522}, id: {q3vejaZNiayLcxCFxW2Bwp}, contentHash: {76a29e}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [v1]
-Ca un copil mă țin de brațul Tău,
-Tu mă cunoști, vezi pașii mei mereu.
-Cu bunătate mereu mă înconjori
-Și-mi amintești de mila Ta din zori.
+^{B}Ca un co^{G#m}pil mă ^{F#}țin de brațul ^{B}Tău,
+Tu mă cu^{G#m}noști, vezi ^{F#7}pașii mei me^{B}reu.
+Cu bună^{G#m}tate me^{F#}reu mă încon^{B}jori
+Și-mi amin^{G#m}tești de ^{F#7}mila Ta din ^{B}zori.
 
 [c1.1]
-/: Vreau sufletul să mi-l înalți,
-Să mă inunde Duhul Tău,
-De dragoste vreau să fiu plin
-Doamne, Te rog!
+/: Vreau sufle^{E/B}tul să mi-l î^{B}nalți,
+Să mă i^{E}nunde Du^{F#}hul ^{G#m}Tău,
+De dragos^{E/B}te vreau să fiu ^{B}plin
+Doamne, Te ^{F#4F#}rog!
 
 [c1.2]
-Lasă Cuvântul Tău sfințit
-Să-mi schimbe inima acum,
-Viața să-mi fie ca un dar, pe-al Tău altar.
-Doamne, Te rog! :/
+Lasă Cu^{E/B}vântul Tău sfin^{B}țit
+Să-mi schimbe i^{E}nima ^{F#}mea ^{G#m}acum,
+Viața să-mi ^{E/B}fie ca un ^{B}dar, pe-al Tău al{F#}tar.
+Doamne, Te ^{E/B-B}rog! :/
 
 [v2]
 Ești Tatăl meu, cu dragoste mă ții,

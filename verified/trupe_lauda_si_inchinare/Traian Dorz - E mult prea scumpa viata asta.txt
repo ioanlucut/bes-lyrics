@@ -1,14 +1,14 @@
 [title]
-E mult prea scumpă viața asta {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58039}, id: {tRVAjoWmjpsNGgiQH6bCdv}, contentHash: {2fc3b1}}
+E mult prea scumpă viața asta {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58039}, id: {tRVAjoWmjpsNGgiQH6bCdv}, contentHash: {8857ae}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
 
 [v1]
-E mult prea scumpă viața asta
-Ca s-o petreci nepăsător.
-/: E mult prea scumpă orice clipă
-S-o lași să treacă fără spor. :/
+^{E}E mult prea scumpă ^{F#m7}viața asta
+Ca ^{B7}s-o petreci nepăsă^{E}tor.
+/: E mult prea scumpă ^{E7}orice cli^{A}pă
+S-o ^{B7}lași să treacă fără ^{E}spor. :/
 
 [v2]
 E mult prea scump Cuvântul vieții

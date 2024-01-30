@@ -1,26 +1,25 @@
 [title]
-O lume întreagă stă în nepăsare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1511}, id: {m7rByqHXyGxwSquRyPW93n}, contentHash: {ed7d2e}}
+O lume întreagă stă în nepăsare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1511}, id: {m7rByqHXyGxwSquRyPW93n}, contentHash: {ebca43}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-O lume întreagă stă în nepăsare
-Și caută adăpost când vine o-ncercare,
-Dar eu nu mă tem, dar eu nu mă tem.
+^{B}O lume în^{E}treagă stă în nepă^{E7}sare
+Și caută adă^{A}post când vine o-ncer^{E}care,
+Dar eu nu mă tem, ^{C#m}dar eu nu mă ^{B}tem.
 
 [v1.2]
-În ceasul cel bun e stăpână pe toate,
-Când Domnul îi vorbește, i-e frică de moarte
-Dar eu nu mă tem, dar eu nu mă tem!
+În ceasul cel ^{E}bun e stăpână pe ^{E7}toate,
+Când Domnul îi vor^{A}bește, i-e frică de ^{A}moarte
+Dar eu nu mă ^{C#m}tem, ^{B}dar eu nu mă ^{E}tem!
 
 [c]
-Dar eu nu mă tem, chiar dacă
-Cei din jur mă părăsesc.
-Dar eu nu mă tem, orice-ar veni,
-Viața mea e-n mâna
-Celui ce-a murit pe lemn,
-Cu mine Îl chem, și eu nu mă tem!
+^{E}Dar eu nu mă tem,
+^{E7}chiar dacă cei din {A}jur mă pără^{E}sesc.
+Dar eu nu mă tem, orice-ar ve^{F#-B}ni,
+Viața ^{E-E7}mea e-n mâna Celui ^{A}ce-a murit pe ^{E}lemn,
+Cu mine Îl ^{C#m}chem, ^{B}și eu nu mă ^{E}tem!
 
 [v2.1]
 Ades’ vine-ncercarea, năvalnic ca marea

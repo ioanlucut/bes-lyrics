@@ -1,33 +1,27 @@
 [title]
-Voi veți fi bucuroși, de pace însoțiți {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5123}, id: {bz959wVVTkZSpCesuGDx2u}, contentHash: {70a02e}}
+Voi veți fi bucuroși, de pace însoțiți {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5123}, id: {bz959wVVTkZSpCesuGDx2u}, contentHash: {935e53}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Voi veți fi bucuroși,
-De pace însoțiți,
-Chiar munții răsuna-vor
-‘Naintea voastră.
+^{Em}Voi veți fi bucuroși, de pace însoțiți,
+Chiar munții ^{G}răsuna-vor ‘na^{D}intea ^{B}voastră.
 
 [v1.2]
-Când voi veți cânta,
-Chiar pomii aflați pe drum
-Din palme vor bătea!
+Când voi ^{Em}veți cânta, chiar pomii aflați pe drum
+Din ^{B7}palme vor bă^{Em}tea!
 
 [c]
-/: Și-atuncea pomii din palme vor bătea,
-Pomii din palme vor bătea,
-Pomii din palme vor bătea,
-Când vă veți bucura! :/
+/: Și-atuncea ^{G}pomii din palme ^{D}vor bătea,
+Pomii din palme ^{EM}vor bătea,
+^{G}Pomii din palme ^{D}vor bătea,
+Când ^{B7}vă veți bucu^{Em}ra! :/
 
 [v2.1]
-Deschideți inima,
-Cântați-I laudă
-Și preamăriți cu toții
-Pe Domnul slavei,
+Deschideți inima, cântați-I laudă
+Și preamăriți cu toții pe Domnul slavei,
 
 [v2.2]
-Când voi veți cânta
-Chiar pomii aflați pe drum
+Când voi veți cânta, chiar pomii aflați pe drum
 Din palme vor bătea!

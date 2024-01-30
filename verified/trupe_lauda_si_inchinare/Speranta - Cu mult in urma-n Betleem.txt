@@ -1,35 +1,35 @@
 [title]
-Cu mult în urmă-n Betleem {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1713}, id: {an76SuYBktB1oLxaZy1npQ}, contentHash: {db8354}}
+Cu mult în urmă-n Betleem {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1713}, id: {an76SuYBktB1oLxaZy1npQ}, contentHash: {fb1614}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Cu mult în urmă-n Betleem,
-Sfânta Biblie spune,
-Maria a născut un Fiu
-În seara de Crăciun.
+^{G}Cu mult în urmă-n ^{C}Betleem,
+^{Am7}Sfânta ^{D}Biblie ^{G}spune,
+^{G}Maria a ^{C}născut un ^{Am7}Fiu
+În ^{D}seara de Cră^{G}ciun.
 
 [v1.2]
-Și mii de îngeri s-au unit,
-Cerul s-a înseninat,
-Universul s-a umplut
-De slavă și cântat.
+^{G}Și mii de îngeri ^{C}s-au unit,
+^{Am7}Cerul ^{D}s-a ^{G}înseninat,
+^{G}Universul ^{C}s-a umplut
+^{Am7}De ^{D}slavă și cân{G}tări.
 
 [c]
-Să-I cântăm cu toți în cor,
-Noul Rege S-a născut
-Și viață El ne-a dăruit
-Și astăzi iar e Crăciun.
+^{G}Să-I cân^{C}tăm ^{D}cu toți-^{G}n cor,
+^{Em}Noul Rege ^{Am}S-a năs^{D}cut
+Și vi^{G}ață El ne-a ^{C}dăru^{Am}it
+Și ^{D}astăzi iar e Cră^{G}ciun.
 
 [v2.1]
-Păstorii s-au înfricoșat,
-Cerul când a izbucnit
-Și într-un gând au alergat
-Către Pruncul iubit.
+^{G}Păstorii s-au în^{C}fricoșat,
+^{Am}Cerul ^{D}când a izbuc^{G}nit
+^{C}Și într-un gând au a^C}ler^{Am}gat
+^{D}Către Pruncul iu^{G}bit.
 
 [v2.2]
-Cu mult în urmă în Betleem
-O stea mare-a răsărit,
-Ea ne spunea că ceru-ntreg
-La noi s-a coborât.
+^{G}Cu mult în urmă în ^{C}Betleem
+^{Am}O stea ^{D}mare-a răsă^{G}rit,
+^{G}Ea ne spunea că ^{C}ceru-nt^{Am}reg
+La ^{D}noi s-a cobo^{G}rât.

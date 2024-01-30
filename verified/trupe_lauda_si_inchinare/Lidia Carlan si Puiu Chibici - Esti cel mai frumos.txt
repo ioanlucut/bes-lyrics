@@ -1,53 +1,39 @@
 [title]
-Ești cel mai frumos {alternative: {*}, composer: {Lidia Cârlan și Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7378}, id: {auYh8rm7aRp5wg4cKCL7JS}, contentHash: {5591e9}}
+Ești cel mai frumos {alternative: {*}, composer: {Lidia Cârlan și Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7378}, id: {auYh8rm7aRp5wg4cKCL7JS}, contentHash: {c41c4e}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
 
 [v1.1]
-Privind la bolta-albastră,
-Nu pot să nu-Ți slăvesc
-Lucrarea Ta măreață,
-O, Creator ceresc!
+^{D}Privind la bolta-albastră, ^{G}nu pot să nu-Ți slă^{D}vesc
+^{G}Lucrarea Ta mă^{D}iastră, ^{E7/9}o, Creator ce^{Em7}resc! ^{A7}
 
 [v1.2]
-‘N-atâta armonie,
-Eu grijile-mi destram
-Și plin de bucurie,
-Cu dragoste exclam:
+‘N-atâta armo^{D}nie, ^{G}eu grijile-mi des^{G}tram
+^{G}Și plin de bucu^{F#m}rie, ^{Bm}cu ^{Em7}dragos^{A7}te ex^{D}clam:
 
 [c1.1]
-Ești cel mai frumos
-Și nimeni nu-i ca Tine!
-Îți cântă florile,
-Te-adoră zorile!
+^{G/A}Ești cel mai fru^{D}mos și nimeni nu-i ^{A7}ca Tine!
+Îți ^{A7}cântă florile, Te-adoră zorile!
 
 [c1.2]
-Ești cel mai frumos!
-Ești cel mai frumos, măreț și înălțat,
-Prin tot ce ai creat, ești, Doamne, minunat,
-Ești cel mai frumos!
+Ești cel mai fru^{D}mos!
+^{G/A}Ești cel mai fru^{D}mos ^{D7}, măreț și înăl^{G}țat, ^{Em7}
+Prin tot ce ai ^{D/A}creat, ești, Doamne, minu^{A7}nat,
+Ești cel mai fru^{D}mos!
 
 [v2.1]
-De-atâta măreție sunt,
-Doamne, copleșit!
-Și-Ți cânt mereu doar Ție,
-O, Tatăl meu iubit!
+De-atâta măreție sunt, Doamne, copleșit!
+Și-Ți cânt mereu doar Ție, o, Tatăl meu iubit!
 
 [v2.2]
-Când razele de soare zâmbind
-Îmi bat în geam,
-M-alint-n-acea splendoare
-Și fericit exclam:
+Când razele de soare zâmbind îmi bat în geam,
+M-alint-n-acea splendoare și fericit exclam:
 
 [v3.1]
-Spre bolta cea senină,
-Spre cerul infinit,
-Un pumn firav de tină
-De Tine plămădit.
+Spre bolta cea senină, spre cerul infinit,
+Un pumn firav de tină de Tine plămădit.
 
 [v3.2]
-M-avânt dorind fierbinte
-Să zbor să Te-ntâlnesc,
-Pe Tine, drag Părinte,
-Și-n taină să-Ți șoptesc:
+M-avânt dorind fierbinte să zbor să Te-ntâlnesc,
+Pe Tine, drag Părinte, și-n taină să-Ți șoptesc:

@@ -1,23 +1,21 @@
 [title]
-Veniți să Îi mulțumim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4GeGmvG3PDDA6vXe27WTF2}, contentHash: {1276e4}}
+Veniți să Îi mulțumim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4GeGmvG3PDDA6vXe27WTF2}, contentHash: {d4a721}}
 
 [sequence]
 v1,c,v2,c2,e
 
 [v1]
-/: Veniți să Îi mulțumim,
-Veniți să Îl preamărim,
-Pe Cel Atotputernic,
-Dumnezeu minunat! :/
+/: ^{F}Veniți să Îi ^{C/E}mulțumim, ve^{Dm}niți să Îl ^{Am}preamărim,
+Pe ^{Bb}Cel Atotpu^{F}ternic, Dumne^{Eb}zeu minu^{C4-C}nat! :/
 
 [c]
-Când sunt slab, El e tare,
-Când sunt mic, El e mare,
-Zi de zi prezența Lui
-O simt în viața mea.
-De aceea acum să Îi cântăm,
-Al Său Nume să-nălțăm,
-Pe Isus-L preamărim cu toți!
+Când sunt ^{Am}slab, El e ^{Dm}tare,
+Când sunt ^{Gm}mic, El e ^{C}mare,
+Zi de ^{F}zi prezența ^{Dm}Lui
+O simt în ^{Eb}viața ^{C7}mea.
+De a^{Am}ceea a^{Dm}cum să Îi cân^{Gm}tăm,
+Al Său ^{C}Nume să-năl^{F}țăm,
+Pe I^{Dm}sus-L preamă^{Eb}rim cu ^{C}toți!
 
 [v2]
 /: Pe-altar înaintea Ta,

@@ -1,14 +1,14 @@
 [title]
-Mărețul har (Lanțul s-a frânt) {alternative: {Amazing Grace; My Chains Are Gone}, composer: {John Newton}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4490}, id: {r9D7zp45VXBgajrY4dAUJU}, contentHash: {73b1ea}}
+Mărețul har (Lanțul s-a frânt) {alternative: {Amazing Grace; My Chains Are Gone}, composer: {John Newton}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4490}, id: {r9D7zp45VXBgajrY4dAUJU}, contentHash: {4da702}}
 
 [sequence]
 v1,v2,c,v3,v4,c,e
 
 [v1]
-Mărețul har m-a mântuit
-Pe mine din păcat.
-/: Pierdut eram, dar m-a găsit,
-De moarte m-a scăpat. :/
+Mă^{D}rețul har m-a ^{G}mântu^{D}it
+^{D/A}Pe mine din pă^{A}cat.
+/: Pier^{D/F#}dut eram, dar ^{G}m-a ^{D}găsit,
+De ^{D/B}moarte ^{A7}m-a scă^{D}pat. :/
 
 [v2]
 Mărețul har m-a învățat
@@ -17,10 +17,10 @@ S-o rup cu orice rău.
 Trăiesc prin El mereu. :/
 
 [c]
-/: Lanțul s-a frânt, azi liber sunt,
-Răscumpărat prin sânge sfânt
-Și-n mila Sa, mi-a dat în dar,
-Iubirea Lui, mărețul har. :/
+/: Lan^{D/F#}țul s-a ^{G}frânt, azi liber ^{D}sunt,
+Răscum^{G/D}pă^{D}rat prin sânge ^{A}sfânt
+Și-n ^{D/F#}mila ^{G}Sa, mi-a dat în ^{D/B}dar,
+Iubirea ^{Em7}Lui, ^{A7}mărețul ^{D}har. :/
 
 [v3]
 Dureri, batjocuri, prigoniri,
@@ -35,4 +35,4 @@ Cu slavă îmbrăcat,
 Pe Cel ce har mi-a dat. :/
 
 [e]
-/: Iubirea Lui, mărețul har. :/
+/: Iubirea ^{Em7}Lui, ^{A7}mărețul ^{D}har. :/

@@ -1,23 +1,23 @@
 [title]
-Singurul motiv de laudă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fq1SCsWEwYNdKjNPynr7jK}, contentHash: {8d062c}}
+Singurul motiv de laudă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fq1SCsWEwYNdKjNPynr7jK}, contentHash: {e35d3d}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c
 
 [v1.1]
-Singurul motiv de laudă
-Ești doar Tu, Domnul meu.
-Singur, înălțat pe pământ și în cer,
-Ești Isus tot mereu.
+^{Am}Singurul motiv de ^{F}laudă,
+^{C}Ești doar Tu, Domnul ^{G}meu.
+^{Am}Singur, înălțat pe pă^{F}mânt și în cer,
+^{C}Ești Isus tot me^{G}reu.
 
 [v1.2]
-Adevărul Tău e salvarea mea,
-Ești lumină în noaptea cea grea.
-Tu ești dragostea, ești iubirea mea
-Și în veci Îți voi cânta.
+Ade^{Am}vărul Tău e sal^{F}varea mea,
+Ești ^{C}lumină în noaptea cea ^{G}grea.
+Tu ești ^{Am}dragostea, ești iu^{F}birea mea
+Și în ^{C}veci Îți voi cân^{G}ta.
 
 [c]
-/: Atotputernic peste popoare,
-Ești măreț, ești plin de splendoare.
-În valul greu, ești Stâncă tare
-Și nu e nimeni cum ești Tu. :/
+/: Atotpu^{Am}ternic peste po^{F}poare,
+Ești mă^{F}reț, ești plin de splen^{G}doare.
+În valul ^{Am}greu ești Stâncă ^{F}tare
+Și nu e ^{C}nimeni cum ești ^{G}Tu. ^{-Am} :/

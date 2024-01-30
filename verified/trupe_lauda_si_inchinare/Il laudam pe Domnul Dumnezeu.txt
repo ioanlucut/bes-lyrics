@@ -1,25 +1,22 @@
 [title]
-Îl lăudăm pe Domnul Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {e9ZdvbjqRHa2znLJPStruY}, contentHash: {ac4e62}}
+Îl lăudăm pe Domnul Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {e9ZdvbjqRHa2znLJPStruY}, contentHash: {a38380}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Îl lăudăm pe Domnul Dumnezeu,
-Îi slăvim azi Numele
-Căci tăria noastră e.
-Doar prin El în duh ne înnoim,
-Putere noi primim
-Când în El nădăjduim.
+^{A}Îl lăudăm ^{D/A}pe Domnul ^{A}Dumnezeu,
+Îi slă^{D/A}vim azi Nume^{A}le
+Căci ^{D/A}tăria noastră ^{A}e.
+^{A}Doar prin El ^{D/A}în duh ne în^{A}noim,
+Pu^{D/A}tere noi pri^{A}mim când în ^{D/A}El nădăj^{A}duim.
 
 [c]
-Ești Domn pe veci în ceruri,
-Al nost’ Mântuitor.
+^{A/C#}Ești ^{D}Domn ^{A/C#}pe ^{D}veci ^{E}în ^{F#m}ce^{E}ruri,
+{A/C#}Al ^{D}nost’ {A/C#}Mân^{D}tu^{E}i^{F#m}tor! ^{E}
 
 [v2]
-Tu ești Eternul Dumnezeu,
-Ești veșnic Dumnezeu.
-Nu obosești Tu niciodată.
-Apărător al celor slabi,
-Tu ești Mângâietor,
-Ne-nalți pe aripi ca de vultur.
+^{A}Tu ești Eternul Dum^{D}nezeu, ^{D}ești veșnic Dum^{F#m}nezeu.
+^{F#m}Nu obosești ^{D}Tu ^{E}ni^{F#m}cio^{E/G#}dată.
+^{A}Apărător al ce^{D}lor slabi, ^{D}Tu ești Mângâ^{F#m}ietor,
+^{F#m}Ne-nalți pe ari^{D}pi ^{E}ca ^{F#m}de ^{E/G#}vultur.

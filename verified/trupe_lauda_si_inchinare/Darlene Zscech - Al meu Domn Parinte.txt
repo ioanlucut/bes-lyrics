@@ -1,26 +1,26 @@
 [title]
-Al meu Domn, Părinte {alternative: {*}, composer: {Darlene Zscech}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1014}, id: {4FZxKr6tDnhLF9xikKGocN}, contentHash: {30ad78}}
+Al meu Domn, Părinte {alternative: {*}, composer: {Darlene Zscech}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1014}, id: {4FZxKr6tDnhLF9xikKGocN}, contentHash: {8a2d2f}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v1.1,v1.2,c1.1,c1.2,e
 
 [v1.1]
-Al meu Domn, Părinte, nimeni ca Tine nu e.
-Cât voi trăi, Îți voi slăvi lucrarea mâinilor Tale.
+^{A}Al meu Domn, ^{E}Părinte, ^{F#m}nimeni ca ^{E}Tine nu ^{D}e.
+Cât voi ^{A}trăi, ^{D}Îți voi slă^{A}vi lucrarea mâi^{G}nilor ^{D/F#}Ta^{E4-E}le.
 
 [v1.2]
-Refugiu, scăpare, în brațul Tău eu găsesc.
-Cu viața mea, cu tot ce am totdeauna laudă-Ți voi da.
+^{A}Refugiu, ^{E}scăpare, ^{F#m}în brațul ^{E}Tău eu gă^{D}sesc.
+Cu viața ^{A}mea, ^{D/F#}cu tot ce ^{A/E}am, ^{F#m}totdeauna ^{G}la^{Bm/F#}udă-Ți voi ^{E4-E}da.
 
 [c1.1]
-Strig către Tine, o, Doamne, Te caut,
-Tu ești Împăratul, puterea Ți-o laud.
-Munții se pleacă și mările tac când rostim Numele Tău.
+^{A}Strig către ^{F#m}Tine, o, ^{D}Doamne, Te ^{D/E}caut,
+Tu ^{A}ești Împă^{F#m}ratul, pu^{Dmaj7}terea Ți-o ^{E4}la{E}ud.
+^{F#m}Munții se pleacă și ^{D}mările tac când ros^{E}tim ^{D/F#}Numele {E/G#}Tău.
 
 [c1.2]
-Tot ce-ai creat în splendoare azi stă,
-Eu veșnic mă-nchin și Îți dau laudă.
-Prin Tine exist și prin harul Tău sfânt eu sunt.
+^{A}Tot ce-ai ^{F#m}creat în splen^{D}doare azi ^{D/E}stă,
+Eu veș^{A}nic mă-^{F#m}nchin și Îți ^{D}dau la^{E4-E}udă.
+^{F#m}Prin Tine exist și prin ^{D}harul Tău sfânt ^{E}eu ^{A}sunt.
 
 [e]
-Prin Tine exist și prin harul Tău sfânt eu sunt.
+^{F#m}Prin Tine exist și prin ^{D}harul Tău sfânt ^{E}eu ^{A}sunt.

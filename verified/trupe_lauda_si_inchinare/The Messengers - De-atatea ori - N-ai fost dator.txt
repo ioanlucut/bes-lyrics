@@ -1,29 +1,29 @@
 [title]
-De-atâtea ori {alternative: {N-ai fost dator}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111602}, id: {mCnE9TYrrrqaKE9jy4yrsa}, contentHash: {ce7737}}
+De-atâtea ori {alternative: {N-ai fost dator}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111602}, id: {mCnE9TYrrrqaKE9jy4yrsa}, contentHash: {cb653f}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [v1]
-De-atâtea ori eu sunt uimit de planul Tău
-Cu oameni buni, cu oameni răi, cu-mprejurări,
-De voia Ta, de harul Tău, de tot ce faci,
-N-ai fost dator Tu cu nimic, cu nimic.
+De-atâtea ^{C}ori eu sunt ui^{e}mit de planul ^{a}Tău
+Cu oameni ^{d}buni, cu oameni răi, cu-mpreju^{G}rări,
+De voia ^{C}Ta, de harul ^{e}Tău, de tot ce ^{a}faci
+N-ai fost da^{d}tor Tu cu nimic, cu ni^{G}mic.
 
 [c1.1]
-/: N-ai fost dator să mă iubești,
-N-ai fost dator să Te jertfești,
-N-ai fost dator să-mi dai iertare,
-Dar Tu mi-ai dat.
+/: N-^{C}ai fost dator să mă iubești,
+^{Am}N-ai fost dator să Te jertfești,
+N-^{G}ai fost dator să-mi dai iertare,
+Dar Tu mi-^{G}ai dat.
 
 [c1.2]
-N-ai fost dator Tu cu nimic,
-Dar totul în dar am primit.
-Te laud, o, Doamne, mă-nchin
-Și-Ți mulțumesc! :/
+N-ai ^{F}fost dator Tu cu nimic,
+Dar ^{Fm}totul în dar am primit.
+Te la^{G}ud, o, Doamne, mă-nchin
+Și-Ți mulțu^{C}mesc! :/
 
 [v2]
 La ce-ai făcut, la tot ce faci, e un răspuns.
 Atât de mult tu ne-ai iubit, încât ai spus:
-„Pe Fiul meu Îl dau să moară pentru voi,
+„Pe Fiul meu îl dau să moară pentru voi,
 Cine va crede să nu piară, să aibă viață apoi.”

@@ -1,20 +1,19 @@
 [title]
-Doamne, cât de mare ești! {alternative: {*}, composer: {Utu Șuteu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4509}, id: {au1F8Fmd2SZ5acC2eK5tjd}, contentHash: {fcaa3f}}
+Doamne, cât de mare ești! {alternative: {*}, composer: {Utu Șuteu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4509}, id: {au1F8Fmd2SZ5acC2eK5tjd}, contentHash: {aef287}}
 
 [sequence]
 c,v1,c,v2,c,v3,c
 
 [c]
-/: Doamne, cât de mare ești!
-Doamne, cât de mare ești!
-Doamne, cât de mare ești
-Și cât ne iubești! :/
+/: {F}Doamne, cât de mare ^{Gm}ești!
+^{C7}Doamne, ^{C7/E}cât de mare ^{F-C/E}ești!
+^{Dm}Doamne, ^{F-C/E}cât de mare ^{Gm}ești
+Și cât ^{C7}ne iu^{F}bești! :/
 
 [v1]
-Munți înalți, semeți,
-Cu brazi plini de nămeți,
-Vântu-i adia
-Și parcă așa spunea:
+^{F}Munți î^{Am}nalți, se^{Bb}meți,
+Cu ^{F/A}brazi plini de nă^{Gm}meți,
+^{C7}Vântu-i adia și ^{C7/E}parcă așa spu^{F//-Gm/F}nea:
 
 [v2]
 Oceane-n depărtări

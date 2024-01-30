@@ -1,25 +1,24 @@
 [title]
-Pleacă-ți genunchii, Isus e-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1520}, id: {f49RDfY39wBG1gyUDKXCwj}, contentHash: {08982c}}
+Pleacă-ți genunchii, Isus e-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1520}, id: {f49RDfY39wBG1gyUDKXCwj}, contentHash: {285666}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Pleacă-ți genunchii, Isus e-aici,
-Ridică mâini curate spre cer.
-Tronul de mărire e-n fața ta,
-Slava se coboară din cer.
+^{A}Pleacă-ți genunchii, Isus e-aici,
+Ri^{Bm}dică mâini curate spre cer.
+^{D}Tronul de mărire e-n fața ta,
+^{E}Slava se coboară din ^{A}cer.
 
 [v1.2]
-Îndrăznește de intră în locul sfânt,
-Spălat prin sângele Mielului.
-Vino, cu cântări de mărire,
-Osana, Mielului Preasfânt!
+^{A}Îndrăznește de intră în locul sfânt,
+Spă^{Bm}lat prin sângele Mielului.
+^{D}Vino, cu cântări de mărire,
+O^{E}sana, Mielului Preasfânt!
 
 [c]
-/: Rege-al regilor,
-Domn al domnilor,
-Isus, Isus, Isus, Isus! :/
+/: ^{A}Rege-al ^{A/C#}regi^{D}lor, ^{C#}Domn al domni^{F#m}lor,
+I^{Bm}sus, ^{E/A}Isus, I^{Bm}sus, ^{E/A}Isus! :/
 
 [v2.1]
 Vino cu povara din viața ta,

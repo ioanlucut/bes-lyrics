@@ -1,15 +1,15 @@
 [title]
-În Ghetsimani Isus venea în noaptea grea {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5Ccbscon3u6Yaid9Xjc2hm}, contentHash: {8fb64f}}
+În Ghetsimani Isus venea în noaptea grea {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5Ccbscon3u6Yaid9Xjc2hm}, contentHash: {de55b2}}
 
 [sequence]
 v1,v2,v3
 
 [v1]
-În Ghetsimani Isus venea în noaptea grea,
-Cu glasul stins El se ruga în noaptea grea.
-Este-al lumii noastre Izbăvitor,
-Divinul Miel și Mântuitor!
-Noi pe El vrem să-L iubim, să Îl preamărim.
+^{Fm}În Ghetsimani Isus ve^{Ab}nea în noap^{Eb}tea grea,
+^{Fm}Cu glasul stins El se ruga ^{Ab}în noap^{C}tea grea.
+^{Ab}Este-al lumii noas^{Eb}tre Izbăvitor,
+^{Fm}Divinul Miel și ^{C}Mântuitor!
+Noi pe ^{Ab}El ^{Bb}vrem ^{Fm/C}să-L iu^{C}bim, ^{Fm}să Îl preamărim.
 
 [v2]
 Pe drumul greu urca Isus la Golgota

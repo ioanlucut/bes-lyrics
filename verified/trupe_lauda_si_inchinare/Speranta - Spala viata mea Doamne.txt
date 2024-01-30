@@ -1,26 +1,26 @@
 [title]
-Spală viața mea, Doamne {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {128816}, id: {jTqDmsXeMcJsUxksxyRyd7}, contentHash: {94a7ef}}
+Spală viața mea, Doamne {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {128816}, id: {jTqDmsXeMcJsUxksxyRyd7}, contentHash: {2830d6}}
 
 [sequence]
 v1,p,c,v2,p2,c2
 
 [v1]
-Spală viața mea, Doamne,
-Atinge-mi inima, Doamne,
-Îndură-Te și de mine!
-Iartă-al meu păcat, Doamne,
-Prin sângele-Ți vărsat, Doamne,
-Să pot privi înspre Tine!
+^{A}Spală viața mea, Doamne,
+A^{b}tinge-mi inima, Doamne,
+În^{f#}dură-^{D}Te și de mi^{A}ne!
+^{A}Iartă-al meu păcat, Doamne,
+Prin ^{b}sângele-Ți vărsat, Doamne,
+Să ^{F#}pot pri^{D}vi înspre Ti^{A}ne!
 
 [p]
-Șterge, Doamne, vina mea,
-Să pot privi spre fața Ta!
+^{D}Șterge, Doamne, vina ^{E}mea,
+Să ^{D}pot privi spre fața ^{E}Ta!
 
 [c]
-/: Iartă-mă, iartă-mă,
-Mă întorc din drumul meu.
-Iartă-mă, iartă-mă,
-Fă-mă de azi copilul Tău! :/
+/: ^{A}Iartă-mă, ^{D}iartă-mă,
+^{E}Mă întorc din drumul ^{A}meu.
+^{A}Iartă-mă, ^{b}iartă-mă,
+^{E}Fă-mă de azi copilul ^{A}Tău! :/
 
 [v2]
 Atinge gândul meu, Doamne,
@@ -31,10 +31,10 @@ Să pot vedea cu ei, Doamne,
 Drumul ce duce spre Hristos!
 
 [p2]
-Azi mă-ntorc de la pierzare
-Și caut, Doamne, fața Ta.
-Primește-mă, o, Doamne mare,
-Primește-mă, nu mă lăsa!
+^{C#7}Azi mă-ntorc de la pier^{F#}zare
+Și ^{D}caut, ^{E}Doamne, fața ^{A}Ta.
+Pri^{C#7}mește-mă, o, Doamne ma^{f#}re,
+^{D}Primeș^{b}te-mă, nu mă ^{E}lăsa!
 
 [c2]
 Iartă-mă, iartă-mă,

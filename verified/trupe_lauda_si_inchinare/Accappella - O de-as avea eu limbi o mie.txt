@@ -1,18 +1,18 @@
 [title]
-O, de-aș avea eu limbi o mie {alternative: {*}, composer: {Accappella}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5274}, id: {fTZhWkScPs81e8xSsk7aMa}, contentHash: {c963bd}}
+O, de-aș avea eu limbi o mie {alternative: {*}, composer: {Accappella}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5274}, id: {fTZhWkScPs81e8xSsk7aMa}, contentHash: {7aef2b}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
 
 [v1.1]
-O, de-aș avea eu limbi o mie
-Și mii de buze să cuvânt
-Pe tonuri mii, o armonie,
-Spre slava Celui pururi Sfânt!
+O, de-aș a^{D}vea ^{G}eu ^{D/A}limbi ^{A7}o ^{D}mie
+Și ^{G}mii de ^{A7}buze să cu^{D}vânt
+Pe tonuri ^{D}mii, ^{G}o ^{D/A}armo^{A7}ni^{D}e,
+Spre ^{G}slava ^{A7}Celui pururi ^{D}Sfânt!
 
 [v1.2]
-/: I-aș mulțumi de ce-a făcut,
-Cu mine, fiul cel pierdut. :/
+/: I-aș ^{D/F#}mulțumi de ce-a ^{G/E-D}făcut,
+Cu ^{G}mi^{D/A}ne, ^{A7}fiul cel pier^{D}dut. :/
 
 [v2.1]
 O, de-ar suna glasul meu tare,

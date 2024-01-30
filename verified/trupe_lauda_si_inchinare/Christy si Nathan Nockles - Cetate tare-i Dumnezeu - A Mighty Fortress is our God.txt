@@ -1,31 +1,38 @@
 [title]
-Cetate tare-i Dumnezeu {alternative: {A Mighty Fortress is our God}, composer: {Christy și Nathan Nockles}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6tNcBS6XiQ6TAnMZHJDZzz}, contentHash: {4c25f5}}
+Cetate tare-i Dumnezeu {alternative: {A Mighty Fortress is our God}, composer: {Christy și Nathan Nockles}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6tNcBS6XiQ6TAnMZHJDZzz}, contentHash: {b7b307}}
 
 [sequence]
 v1,p,c,v2,p,c,b,c,c2
 
 [v1]
-Noi știm că Domnul Dumnezeu
-E-un foc mistuitor, o flacără sfântă,
-E-al nostru drept Judecător,
-Bun și-ndurător, din cer ne ascultă.
+Noi ^{Bm}știm că Domnul ^{A/C#}Dumne^{D}zeu,
+E-un foc mistui^{Em}tor, o ^{D}flacără ^{A}sfântă,
+E-al ^{Bm}nostru drept ^{A/C#}Judecă^{D}tor,
+Bun și-ndură^{Em}tor, din ^{D}cer ne as^{A}cultă.
 
 [p]
-Către El noi vom privi, ochii ni vom aținti.
+Către El noi ^{D/F#}vom pri^{Gmaj9}vi,
+Ochii ni vom ^{Em7}a^{D}țin{A}ti.
 
 [c]
-Cetate tare-i Dumnezeu, un sfânt refugiu este El,
-Cu Tine, Doamne, vom domni, căci veșnic vei împărăți.
+^{D}Cetate tare-i Dumne^{G}zeu,
+^{Em}un sfânt refu^{Bm/D}giu este ^{A}El,
+^{D}Cu Tine, Doamne, vom dom^{G}ni,
+^{Em}Căci veșnic ^{Bm/D}vei împără^{A}ți.
 
 [v2]
-Noi știm că Domnul e gelos pe ai Săi copii în sfântă iubire,
-Mai sus de ceruri e-ntronat, în slavă îmbrăcat și-n strălucire.
+Noi ^{Bm}știm că Domnul ^{A/C#}e ge^{D}los
+Pe ai ^{Em}Săi copii ^{D}în sfântă ^{A}iubire,
+Mai ^{Bm}sus de ceruri e-^{A/C#}ntro^{D}nat,
+În sla^{Em}vă îmbră^{D}cat și-n ^{A}strălucire.
 
 [b]
-Către El noi vom privi, ochii ni vom aținti,
-Inimile vom lăsa cuprinse de iubirea Sa.
+Către El noi ^{D/F#}vom pri^{G2}vi,
+Ochii ni vom ^{Em7}ațin^{A4}ti,
+Inimile ^{D/F#}vom lă^{G}sa cuprinse de iu^{Em7}birea ^{A4}Sa.
 
 [c2]
-Căci veșnic vei împărăți, cu Tine, Doamne, vom domni,
-Noi știm că Domnul Dumnezeu
-E-un foc mistuitor, o flacără sfântă.
+^{Em}Căci veșnic ^{Bm/D}vei împără^{A}ți,
+^{Em}Cu Tine, ^{Bm/D}Doamne, vom dom^{A}ni,
+^{Bm}Noi știm că Dom^{A/C#}nul ^{D}Dumnezeu
+E-un foc mistui^{Em}tor, o ^{D}flacără {A}sfântă. ^{D}

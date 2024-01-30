@@ -1,21 +1,27 @@
 [title]
-Doamne, Tu ești Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4127}, id: {42epgtxZEVk5jdjJbm6vA4}, contentHash: {07283b}}
+Doamne, Tu ești Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4127}, id: {42epgtxZEVk5jdjJbm6vA4}, contentHash: {05d814}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Doamne, Tu ești Dumnezeu și vei domni în veci,
-Întreg pământul este plin de slava Ta!
-Ești Creator desăvârșit, dreptatea Ta vedem,
-Cum se-mplinește zi de zi tot ce ai promis.
+^{E}Doamne, Tu ^{F#m}ești Dumne^{B}zeu
+Și vei dom^{C#m}ni în ^{C#m}veci!
+Întreg pă^{F#m}mântul este ^{B}plin de slava ^{E}Ta,
+Ești Crea^{F#m}tor desăvâr^{B}șit,
+Dreptatea ^{G#m}Ta ve^{C#m}dem
+Cum se-mpli^{F#m}nește zi de ^{B}zi pe-acest pă^{E}mânt.
 
 [c]
-/: Să fii înălțat, să fii înălțat,
-Domn al dragostei, Împărat. :/
+^{B}Să fii ^{E}înălțat, să fii ^{G#m}înălțat,
+Domn al ^{A}dragostei, ^{F#m} Împă^{E-B}rat.
+Să fii ^{E}înălțat, să fii ^{G#m}înălțat,
+Domn al ^{A}dragostei, ^{F#m-B} Împă^{E}rat.
 
 [v2]
-Doamne, Tu ești Dumnezeu și vei domni în veci,
-Întreg pământul este plin de slava Ta!
-Mereu veghezi să-mplinești Cuvântul Tău cel sfânt,
+Doamne, Tu ești Dumnezeu
+Și vei domni în veci,
+Întreg pământul este plin de slava Ta,
+Mereu veghezi să-mplinești
+Cuvântul Tău cel sfânt,
 Prin dragoste ne conduci pe-al vieții drum.

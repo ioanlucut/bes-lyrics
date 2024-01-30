@@ -1,20 +1,20 @@
 [title]
-Știi tu cine este Isus {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66249}, id: {kvXS4WHBo3Huj9ton4rLXM}, contentHash: {10f186}}
+Știi tu cine este Isus {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66249}, id: {kvXS4WHBo3Huj9ton4rLXM}, contentHash: {bcd9fa}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Știi tu cine este Isus?
-Știi tu cine este El?
-Știi tu al cui Fiu este El?
-Știi că Tatăl Lui e Dumnezeu?
+^{A}Știi tu cine ^{F#m/A-A7}este I^{D}sus?
+^{A7}Știi de ^{F#m/A-A7}unde veni ^{D}El?
+^{G}Știi tu al cui Fiu este ^{D}El?
+^{A}Știi că Tatăl {G/E}Lui e ^{A7}Dumne^{D}zeu?
 
 [c]
-Iubește-L, o, iubește-L,
-Căci pentru tine El mult s-a jertfit.
-Cere-I și-ți va da viață în dar,
-Iubește-L, să fii mântuit.
+Iu^{A}bește-L, ^{A7}o, iu^{D}bește-L,
+Căci ^{G}pentru tine ^{D}El mult S-a ^{E7}jert^{A7}fit.
+^{D}Cere-I și-ți va ^{Em7}da via^{D7}ță în ^{G}dar,
+Iu^{D}bește-L, să ^{D/A}fii fe^{A7}ri^{D}cit.
 
 [v2]
 Știi că îngerii din slavă

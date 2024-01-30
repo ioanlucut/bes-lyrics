@@ -1,24 +1,24 @@
 [title]
-De când noi am venit {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {140849}, id: {m9zGF2bsXLwGJu9ngK8Kkn}, contentHash: {e4000f}}
+De când noi am venit {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {140849}, id: {m9zGF2bsXLwGJu9ngK8Kkn}, contentHash: {a838c0}}
 
 [sequence]
 v1,p,c,v2,p,c
 
 [v1]
-De când noi am venit în lumea-aceasta
-Atâtea ploi și vânturi, Doamne, au bătut,
-Dar Tu în toate ne-ai purtat de grijă,
-Ne-ai ridicat cu milă atunci când am căzut.
+^{A}De când noi am venit în lumea-a^{E}ceasta
+Atâtea ^{f#}ploi și vânturi, Doamne, au bă^{D}tut,
+Dar ^{A}Tu în toate ne-ai purtat de ^{E}grijă,
+Ne-ai ridi^{f#}cat cu milă a^{E}tunci când am că^{D}zut.
 
 [p]
-Și-acum venim să-Ți mulțumim, Isuse,
-Acum venim să-ngenunchem cântând.
+Și-a^{b}cum venim să-Ți mulțumim, I^{E}suse,
+A^{b}cum venim să-n^{D}genunchem cân^{E}tând.
 
 [c]
-Azi ne-nchinăm în fața Ta, cu mulțumire,
-Și-Ți dăruim cu bucurie inima.
-Căci Tu ne porți de grijă, Doamne, cu iubire
-Și ne lăsăm, Isus, purtați pe palma Ta.
+Azi ne-nchi^{A}năm în fața Ta, cu mulțu^{D}mire,
+Și-Ți dăru^{f#}im cu bucurie ini^{E}ma.
+Căci Tu ne ^{A}porți de grijă, Doamne, cu iu^{D}bire
+Și ne lă^{f#}săm, Isus, pur^{E}tați pe palma ^{A}Ta.
 
 [v2]
 Noi nu dorim nimic din lumea acesta

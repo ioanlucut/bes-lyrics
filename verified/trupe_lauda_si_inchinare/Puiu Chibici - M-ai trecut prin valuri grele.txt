@@ -1,20 +1,20 @@
 [title]
-M-ai trecut prin valuri grele {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6303}, id: {sDsEGD8pVQbuPW8UF9sxvB}, contentHash: {0d7811}}
+M-ai trecut prin valuri grele {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6303}, id: {sDsEGD8pVQbuPW8UF9sxvB}, contentHash: {7c4313}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
 
 [v1.1]
-M-ai trecut prin valuri grele,
-Prin furtuni și prin cuptor,
-Am strigat spre cer, spre stele,
-Te-am chemat în ajutor.
+M-ai tre^{D}cut prin va^{G/D}luri ^{D}grele,
+Prin fur^{A7}tuni și prin cup^{D}tor,
+Am stri^{D}gat spre ^{G/D}cer, spre ^{D}stele,
+Te-am che^{D7}mat în aju^{D}tor.
 
 [v1.2]
-/: Am crezut că m-ai lăsat,
-Am crezut că m-ai uitat,
-Dar Tu, Doamne, m-ai vegheat
-Că ai vrut să fiu curat. :/
+Am cre^{G}zut că m-ai uitat,
+/: ^{A}Am cre^{G}zut că m-ai lă^{D}sat,
+Dar Tu, ^{D}Doamne, ^{G/D}m-ai veg^{D}heat
+Că ai ^{Em7}vrut să ^{A7}fiu ^{D}curat. :/
 
 [v2.1]
 Iar atunci când disperarea

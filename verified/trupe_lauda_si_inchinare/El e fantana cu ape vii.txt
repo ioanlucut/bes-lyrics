@@ -1,26 +1,27 @@
 [title]
-El e fântâna cu ape vii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {779}, id: {g6rKgAweS9xZu4b9fUYUS8}, contentHash: {4a4d51}}
+El e fântâna cu ape vii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {779}, id: {g6rKgAweS9xZu4b9fUYUS8}, contentHash: {147050}}
 
 [sequence]
 c,v1.1,v1.2,c,v2,c,v3,c
 
 [v1.1]
-Astăzi cânt voios că Dumnezeu
-E Stăpânul vieții mele, El e Domnul meu!
-Cine pe pământ, cine-n ceruri sus e ca Domnul meu,
-E ca Domnul meu, Isus?
+{B}Astăzi cânt vo^{D#m}ios că ^{E}Dumnezeu
+^{B}E Stăpânul ^{D#m}vieții mele, ^{E}El e Domnul ^{F#4-F#}meu!
+^{B}Cine pe pă^{B7}mânt, cine-n ^{E}ceruri ^{Em}sus ^{B}e ca Domnul ^{D#m}meu,
+^{G#m}E ca Domnul ^{B/F#}meu, ^{F#4-F#}Isus?
 
 [v1.2]
-Fără El, flămând și însetat,
-Rătăceam în lumea largă, neajutorat,
-Dar când m-a găsit, El m-a săturat
-Și mi-a dat să beau, El mi-a dat să beau, din harul Său.
+^{B}Fără El, flă^{F#m}mând și ^{E}însetat,
+^{B}Rătăceam în ^{F#m}lumea largă, ^{E}neaju^{F#4-F#}torat,
+^{B}Dar când m-a ^{B7}găsit, El m-a ^{E}sătu^{Em}rat
+^{B}Și mi-a dat să ^{D#m}beau,
+^{G#m}El mi-a dat să ^{B/F#}beau din harul ^{F#4-F#}Său.
 
 [c]
-El e fântâna cu ape vii,
-Nimic în lume nu-L poate-nlocui,
-Stânca de veacuri, Păstorul meu,
-Râul vieții, de-a pururi Dumnezeu!
+^{B}El e fântâ^{B-F#/A#-G#m}na cu ape vii,
+^{E}Nimic în ^{B}lume nu-L ^{C#m}poate-n^{F#4-F#}locui,
+^{B}Stânca de vea^{B-F#/A#-G#m}curi, Păstorul meu,
+^{E}Râul vie^{B}ții, de-a ^{C#m-F/D#-E-F#-B4-B}pururi Dumnezeu!
 
 [v2]
 O, ce fericit sunt cu Domnul meu,

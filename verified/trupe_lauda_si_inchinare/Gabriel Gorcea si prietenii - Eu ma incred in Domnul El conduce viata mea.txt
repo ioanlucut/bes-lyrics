@@ -1,31 +1,36 @@
 [title]
-Eu mă încred în Domnul, El conduce viața mea {alternative: {*}, composer: {Gabriel Gorcea și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {99821}, id: {89kkfPeXkSBSZ5wFPNJqjn}, contentHash: {2b2c96}}
+Eu mă încred în Domnul, El conduce viața mea {alternative: {*}, composer: {Gabriel Gorcea și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {99821}, id: {89kkfPeXkSBSZ5wFPNJqjn}, contentHash: {5aa76e}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Eu mă încred în Domnul, El conduce viața mea.
-Mă-ncred în Domnul meu, El îmi conduce inima.
-Mă-ncred în El în orice ceas din zi,
-Mă-ncred în El orice ar veni!
+^{g}Eu mă încred în Domnul,
+El con^{c}duce viața mea.
+^{F}Mă-ncred în Domnul meu,
+El îmi con^{Bb}duce ini^{D7}ma.
+Mă-n^{g}cred în El în orice ceas din ^{c}zi,
+Mă-ncred în ^{F7}El orice ar ve^{g}ni!
 
 [c]
-/: Mă-ncred în Dumnezeu, :/ (x4)
-Domnul, Domnul, El e scăparea mea,
-El e stânca tare, e cetățuia mea!
-Domnul, Domnul, îmi e ocrotitor,
-Mă-ncred în El, El e Domnul domnilor!
+/: Mă-ncred în Dumnezeu, :/ (4x)
+/: ^{g}Domnul, Domnul, El ^{D7}e scăparea mea,
+El e stânca tare, E ^{g}cetățuia mea!
+^{g}Domnul, Domnul, Îmi ^{c}e ocrotitor,
+Mă-ncred în ^{g}El, El e ^{D7}Domnul domni^{g}lor. :/
 
 [v2]
 Eu mă-ncred în Domnul când îmi spune:
 „Sunt cu tine!”
-Mă-ncred în Domnul meu, El e alături de mine.
-Mă-ncred în Domnul meu, El mă izbăvește,
+Mă-ncred în Domnul meu,
+El e alături de mine.
+Mă-ncred în Domnul meu, El mă izbăvește.
 Mă-ncred în El, că nu mă părăsește!
 
 [v3]
-Eu mă-ncred în Domnul, El mă conduce pe pământ.
-Mă-ncred în Domnul meu, El e Adevărul sfânt!
+Eu mă-ncred în Domnul,
+El mă conduce pe pământ.
+Mă-ncred în Domnul meu,
+El e Adevărul sfânt!
 Mă-ncred în El, e Calea către cer,
 În orice zi, mă încred în El.

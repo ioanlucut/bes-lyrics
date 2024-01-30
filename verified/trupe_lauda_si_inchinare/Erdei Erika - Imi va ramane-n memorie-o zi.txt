@@ -1,26 +1,26 @@
 [title]
-Îmi va rămâne-n memorie-o zi {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66227}, id: {sjyiYGrdbM3TBCTeppNKAw}, contentHash: {16ff6b}}
+Îmi va rămâne-n memorie-o zi {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66227}, id: {sjyiYGrdbM3TBCTeppNKAw}, contentHash: {c5ca2a}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-Îmi va rămâne-n memorie-o zi
-Când s-a schimbat viața mea.
-Ziua aceea, mereu o voi ști:
-Semnul iubirii e-n ea!
+^{D}Îmi va rămâne-n memorie-o zi
+^{Bm}Când s-a schimbat viața ^{A}mea.
+^{Em}Ziua aceea, mereu o voi ști:
+^{A}Semnul iubirii ^{D}e-n {A}ea!
 
 [v1.2]
-Prieten bun, minunat, iubitor,
-Dorul mi l-a împlinit!
-Vesel voi spune măreața minune
-Cum Domnul meu m-a mântuit!
+^{D}Prieten bun, minunat, iubitor,
+^{D7}Dorul mi l-a împli^{G}nit!
+^{Em}Vesel voi spune mă^{D}reața minune
+Cum {A}Domnul meu m-a mântu^{D}it! ^{A7}
 
 [c]
-/: Glorii din cer în mine s-au revărsat
-Când, la Calvar, Isus m-a eliberat.
-Povara mi s-a dus prin harul lui Isus,
-Glorii din cer în mine s-au revărsat. :/
+/: ^{D}Glorii din ^{D/B}cer în ^{Em}mine ^{A7}s-au revăr^{D}sat
+{D}Când, la Cal^{D/m}var, I^{Em}sus m-a ^{A7}elibe^{D}rat.
+^{Em}Povara mi s-a ^{G}dus prin ^{A}harul lui ^{D-A}Isus,
+^{D}Glorii din ^{D/Bm}cer în ^{Em}mine s-au ^{A7}revăr^{D}sat. :/
 
 [v2.1]
 Domnul sigiliul pe inimă-a pus,

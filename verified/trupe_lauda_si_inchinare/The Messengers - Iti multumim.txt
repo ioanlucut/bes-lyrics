@@ -1,21 +1,25 @@
 [title]
-Îți mulțumim {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {98580}, id: {95EU8vtVr4BWhzAE7jrodh}, contentHash: {063197}}
+Îți mulțumim {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {98580}, id: {95EU8vtVr4BWhzAE7jrodh}, contentHash: {836d26}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Ne-ai ales ca să trăim, ne-ai chemat să Te slujim,
-Înnoiți de-al Tău Cuvânt în purtare și în gând.
+^{G}Ne-ai ales ca să ^{Am7}tră^{G}im,
+^{G}Ne-ai chemat să ^{Am7}Te slu^{Bm7}jim,
+^{Em7}Înnoiți de-al Tău Cu^{Am7}vânt ^{Em7}în purtare și în ^{D4 D}gând.
 
 [v1.2]
-Ne-ai iertat orice păcat, moștenire-am căpătat,
-Prin credința-n jertfa Ta, ne-nchinăm în fața Ta.
+^{G}Ne-ai iertat ori^{Am7}ce pă^{G}cat,
+^{G}Moștenire-am ^{Am7}căpă^{Bm7}tat,
+^{Em7}Prin credința-n jertfa ^{Am7}Ta,
+^{Em7}Ne-nchinăm în fața ^{D4 D}Ta.
 
 [c]
-/: Îți mulțumim, Îți mulțumim, Doamne bun, Te slăvim.
-Pentru harul Tău și dragostea Ta,
-/: Doamne bun, Îți mulțumim! :/
+/: ^{D}Îți ^{G/D}mul^{D}țu^{G}mim, Îți mul^{D/Fâ}țu^{Em7}mim
+Doamne ^{C}bun, Te ^{D4}slă^{D}vim.
+^{D}Pentru ^{D/G}ha^{D}rul ^{G}Tău și dra^{D/F#}gostea {Em7}Ta,
+/: Doamne ^{C D}bun, Îți mulțu^{G}mim! :/
 
 [v2.1]
 Te-ai lăsat batjocorit, pe o cruce răstignit,

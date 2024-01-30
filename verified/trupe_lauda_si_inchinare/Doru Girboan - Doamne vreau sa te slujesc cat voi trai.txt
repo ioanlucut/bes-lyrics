@@ -1,20 +1,20 @@
 [title]
-Doamne, vreau să te slujesc cât voi trăi {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {113750}, id: {8Yrxw9VBzTX6kAZF87vaaD}, contentHash: {e7d0fc}}
+Doamne, vreau să te slujesc cât voi trăi {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {113750}, id: {8Yrxw9VBzTX6kAZF87vaaD}, contentHash: {8244fd}}
 
 [sequence]
 v1,c,v2,c,v3,c,e
 
 [v1]
-Când nu te cunoșteam, Tu m-ai chemat,
-Cu dragoste m-ai ridicat.
-Prin jertfa Ta, Isus, am fost sfințit
-Și haine noi mi-ai dăruit!
+^{F}Când nu te cunoșteam Tu m-ai che^{C}mat,
+Cu drago^{B}ste m-ai ridi^{C}cat.
+Prin ^{F}jertfa Ta, Isus, am fost sfin^{G}țit
+Și haine ^{Bb}noi ^{Gm}mi-ai dăru^{C}it!
 
 [c]
-Doamne, vreau să te slujesc cât voi trăi,
-Drumul Tău să îl urmez în fiecare zi!
-Până-n ziua când la cer mă vei chema
-Sunt aici Isus la dispoziția Ta!
+Doamne, ^{F}vreau să te slujesc cât voi tră^{C}i,
+Drumul ^{Dm}Tău să îl urmez în fie^{Bb}care zi!
+Până-n ^{F}ziua când la cer mă vei che{C}ma,
+Sunt ^{Dm}aici, I^{C}sus, la ^{Bb}dispo^{C}ziția ^{F}Ta!
 
 [v2]
 Părinte, mare har mi-ai dăruit:
@@ -29,7 +29,7 @@ Trăind mereu, cu zel, al Tău Cuvânt,
 Înaintând prin Duhul Sfânt!
 
 [e]
-Și prigoniri de vor veni,
-Și încercat voi fi,
-Vreau lângă Tine credincios să rămăn,
-Pân’ la sfârșit.
+^{Gm} Și prigo^{F/A}niri de vor ve^{C}ni,
+^{Gm} Și încer^{F/A}cat voi ^{C}fi,
+^{Gm} Vreau lângă ^{F/A}Tine credin^{Dm}cios să râ^{C/E}măn,
+Pân’ la sfâr^{Bb}șit, ^{F/A} pân’ la sfâr^{C}șit,

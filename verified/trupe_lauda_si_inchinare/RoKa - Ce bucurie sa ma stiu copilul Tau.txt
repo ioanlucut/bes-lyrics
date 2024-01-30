@@ -1,20 +1,20 @@
 [title]
-Ce bucurie să mă știu copilul Tău {alternative: {*}, composer: {RoKa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2796}, id: {5roUwwnaMu46SyRn4XfC8x}, contentHash: {fc1f6b}}
+Ce bucurie să mă știu copilul Tău {alternative: {*}, composer: {RoKa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2796}, id: {5roUwwnaMu46SyRn4XfC8x}, contentHash: {7c2920}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Ce bucurie să mă știu copilul Tău
-Și să fiu păzit mereu de mâna Ta.
-Glorie Ție, ai spălat păcatul meu
-Prin Isus crucificat la Golgota.
+^{F}Ce bucu^{Bb2}rie să mă ^{F}știu copilul ^{Bb2}Tău
+Și să ^{Gm7}fiu păzit me^{F/A}reu de mâna ^{C4C}Ta.
+^{F}Glorie ^{Bb2}Ție, ai spă^{F}lat păcatul ^{Bb2}meu
+Prin ^{Gm7}Isus cruci^{F/A}ficat la Gol^{C4}go{C}ta.
 
 [c]
-Tot ce este-n mine Te glorifică
-Și cu tot ce am Te preamăresc.
-Viața mea Ți-o dau în mâna Ta de Tată
-Și-am să-Ți cânt mereu cât Te iubesc.
+^{Bb2}Tot ce este-n ^{C7}mine Te glori^{F}fică
+^{Bb2}Și cu tot ce ^{C7}am Te preamă^{F}resc.
+^{Bb2}Viața mea Ți-o ^{C}dau în mâna ^{A7}Ta de ^{Dm}Tată
+^{Gm7}Și-am să-Ți cânt me^{F/C}reu cât {Bb2}Te iu{F}besc.
 
 [v2]
 Cu ce blândețe mă înveți să Te urmez,

@@ -1,20 +1,20 @@
 [title]
-Orice om are nevoie de iubire și-a iubi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1514}, id: {kWDUTK9Go2i3UXhLDDKoLY}, contentHash: {a6e07b}}
+Orice om are nevoie de iubire și-a iubi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1514}, id: {kWDUTK9Go2i3UXhLDDKoLY}, contentHash: {7718df}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Orice om are nevoie de iubire și-a iubi,
-Orice viață, fără ea, n-are destin.
-Nu se poate viața mea, fără de iubirea Sa
-Oare Cine și ce este Dragostea?
+^{G}Orice om are nevoie de iu^{C6}bire ^{C}și-a iubi,
+Orice ^{Am}viață, fără ^{D7}ea, n-are ^{G}destin.
+Nu se poate viața ^{G/F}mea, fără ^{C6}de iu^{C}birea Sa
+Oare ^{Am}Cine și ce ^{D7}este Dragos^{G}tea?
 
 [c]
-/: Cineva, sus în cer, mă iubește,
-Cineva mă păzește mereu.
-Și sunt sigur că-n orice vreme,
-Sunt iubit de însuși Dumnezeu. :/
+/: Cineva, sus în cer, mă iu^{D7}bește,
+Cine^{Am}va mă pă^{G/B}zeș^{D}te me^{G}reu.
+Și sunt sigur că-n ^{G/F}orice ^{C/E-Cm/Eb}vreme,
+Sunt pă^{G/D}zit de ^{D7}însuși Dumne^{G}zeu. :/
 
 [v2]
 De nu m-ar iubi în lume nici copii și nici părinți

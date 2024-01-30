@@ -1,20 +1,20 @@
 [title]
-Bucură-te tinere, în tinerețea ta {alternative: {*}, composer: {Marius Livanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {178671}, id: {aPAoaHhWM7aUL31Ttshf4f}, contentHash: {67dd79}}
+Bucură-te tinere, în tinerețea ta {alternative: {*}, composer: {Marius Livanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {178671}, id: {aPAoaHhWM7aUL31Ttshf4f}, contentHash: {8822c0}}
 
 [sequence]
 v1,c,v2,c,v3,c2
 
 [v1]
-Cât ești tânăr, tu poți s-alegi cum vrei să trăiești,
-Pasul vieții să îl îndrepți înspre ce iubești.
-Poți necazul din inima ta să îl izgonești,
-Doar bucurie poți căuta și tot ce-ți dorești.
+^{G}Cât ești tânăr, tu ^{Em}poți s-alegi ^{Bm}cum vrei să tră^{Am}iești,
+^{D}Pasul vieții să îl îndrepți ^{D9}înspre ce iu^{G}bești.
+Poți necazul din ^{Em}inima ta ^{Bm}să îl izgo^{Am}nești,
+^{D7}Doar bucurie poți căuta și tot ce-ți do^{G}rești.
 
 [c]
-/: Bucură-te, tinere, în tinerețea ta,
-Umblă în căile-alese de inima ta
-Și plăcute ochilor tăi, dar nu uita
-Că, pentru toate, Dumnezeu te va judeca! :/
+/: ^{G}Bucură-^{D7}te, ti^{G}nere, în tinerețea ^{Am7}ta,
+^{D7}Umblă în că^{C}ile-ale^{D7}se de ^{Am7}i^{D7}nima {G}ta
+^{G}Și plăcu^{D7}te o^{G}chilor tăi, dar nu ui^{C}ta
+Că, ^{C/A}pentru toate, ^{G/D}Dumnezeu ^{D7}te va ^{D9}judeca!^{G} :/
 
 [v2]
 Dar fericirea ce-o poți avea trece în zbor,
@@ -23,13 +23,13 @@ Tot ce lumea îți poate da, este trecător,
 Fără speranțe tu vei pleca înspre viitor.
 
 [v3]
-Adu-ți aminte că ești doar om, om muritor,
-Că doar Isus îți poate fi Domn și Mântuitor,
-Primește-L azi în viața ta, pace-ți va da
-Pe căile Lui de vei umbla, te vei bucura!
+A^{G}du-ți aminte că ^{Em}ești doar om, ^{Bm}om muri^{Am}tor,
+Că doar Isus îți poate fi Domn {Am6}și Mântui^{G}tor,
+Primește-L azi în ^{C}viața ta, ^{D}pace-ți va ^{Am}da
+Pe căile Lui de vei umbla, ^{D7}te vei bucu^{G}ra!
 
 [c2]
-/: Bucură-te, tinere, în tinerețea ta,
-Umblă-n căile Domnului, în lumina Sa,
-Fii plăcut doar Domnului, vesel vei cânta
-Când în slava cea de sus, El te va chema! :/
+/: ^{G}Bucură-^{D7}te, ti^{G}nere, în tinerețea ^{Am7}ta,
+^{D7}Umblă-n că^{C}ile Dom^{D7}nului, ^{Am7}în lu^{D7}mina ^{G}Sa,
+^{G}Fii plăcut ^{D7}doar Domnu^{G}lui, vesel vei ^{C}cânta
+Când ^{C/A}în slava ^{G/D}cea de sus, ^{D7}El te ^{D9}va chema! :/

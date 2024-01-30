@@ -1,28 +1,23 @@
 [title]
-Un cor îngeresc {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1548}, id: {qTECSqdff2aPEK4XMEsdEp}, contentHash: {f9f7f4}}
+Un cor îngeresc {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1548}, id: {qTECSqdff2aPEK4XMEsdEp}, contentHash: {18e03c}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-/: Un cor îngeresc
-Din cer se-aude cântând,
-„O, păcătos, vin’ la Isus,
-Vino, vino!”
+/: ^{Em}Un cor îngeresc din cer se-a^{D}ude cântând:
+„O, păcă^{C}tos, vin’ la Isus, vino, vi^{B4-B7}no!” :/
 
 [c]
-Hai, hai la El, nu mai sta,
-Azi Isus te cheamă,
-Vino, vino!
+^{G}Hai, hai la ^{D}El, nu mai sta,
+Azi I^{C}sus te cheamă, vino, vi^{B7}no!
 
 [v2]
 /: Străin tu dacă ești,
 De ce pribeag mai rătăcești?
-N-auzi chemarea lui Isus,
-Vino, vino! :/
+N-auzi chemarea lui Isus, vino, vino! :/
 
 [v3]
 /: Urcând pe Calvar,
 Isus Și-a dat viața-n dar,
-De aceea, azi noi te chemăm:
-Vino, vino! :/
+De aceea, azi noi te chemăm: vino, vino! :/

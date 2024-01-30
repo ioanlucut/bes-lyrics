@@ -1,21 +1,21 @@
 [title]
-Din nou la altar venim, fără putere {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7375}, id: {xcB3qgXyXQeNn5mYwwarwr}, contentHash: {6155e3}}
+Din nou la altar venim, fără putere {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7375}, id: {xcB3qgXyXQeNn5mYwwarwr}, contentHash: {0d191f}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Din nou la altar venim, fără putere,
-În suflete săraci, să-Ți cerem iertare.
-De-atâtea ori Ți-am spus că vom umbla-n lumină,
-Dar azi din nou venim să-Ți cerem milă.
+^{E}Din nou la al^{F#m}tar ^{B7} venim, fără pu^{E}tere,
+În su^{F#m}flete săraci, ^{B7} să-Ți cerem ier^{E}tare.
+De-atâtea ^{F#m}ori Ți-am spus ^{B7}că vom umbla-n lu^{E}mină,
+Dar azi din ^P{F#m}nou venim ^{b&} să-Ți cerem ^{E}milă.
 
 [c]
-/: Iartă-ne, iartă-ne,
-Iartă-ne, Dumnezeule. :/
+/: Iartă-^{F#m}ne, ^{B7}iartă-^{E}ne,
+Iartă-^{F#m}ne, Dumne^{B7}zeu^{E}le. :/
 
 [v2]
-Din nou la altar Te cheamă poporul,
-Trimite-ne din nou pe Mângâietorul.
-Recunoaștem azi că fără de Tine
-Suntem săraci și reci, ai milă Stăpâne!
+Din nou la al^{F#m}tar ^{B7} Te cheamă po^{E}porul,
+Trimite-^{F#m}ne din nou ^{B7} pe Mângâie^{E}torul.
+Recunoaștem ^{F#m}azi ^{B7} că fără de ^{E}Tine
+Suntem să^{F#m}raci și reci, ^{B7} ai milă, Stă^{E}pâne!

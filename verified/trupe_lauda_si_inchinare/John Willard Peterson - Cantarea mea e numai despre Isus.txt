@@ -1,20 +1,20 @@
 [title]
-Cântarea mea e numai despre Isus {alternative: {*}, composer: {John Willard Peterson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4870}, id: {isiLkEwu7VmHDDBaoTQ4xh}, contentHash: {a23e67}}
+Cântarea mea e numai despre Isus {alternative: {*}, composer: {John Willard Peterson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4870}, id: {isiLkEwu7VmHDDBaoTQ4xh}, contentHash: {570c70}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Cântarea mea e numai despre Isus,
-Cerescul Fiu al Tatălui slăvit.
-El a venit păcatul să mi-l șteargă
-Când, la Calvar, pe cruce a murit.
+^{C}Cântarea mea e numai despre ^{Dm}Isus,
+Cerescul ^{G7}Fiu al Tatălui slă^{C}vit.
+El a ve^{C}nit păcatul să mi-l ^{Dm}șteargă
+Când, la ^{G7}Calvar, pe cruce a mu^{C}rit.
 
 [c]
-Cântarea mea e numai despre Isus,
-Ce-n locul meu pedeapsa a purtat
-Și-n versul ei, cântarea mea va spune,
-Ce fericiri și bogății mi-a dat.
+^{Am}Cântarea {G/B}mea e nu^{F/C}mai des^{C}pre ^{Dm/C}I^{C}sus,
+^{A7}Ce-n locul ^{Dm7}meu pe^{G7}deapsa a pur^{C}tat
+^{Am}Și-n versul ^{G/B}ei, cânta^{F/C}rea ^{C}mea va ^{Dm/C}spu^{C}ne,
+^{A7}Ce feri^{Dm7}ciri și ^{G7}bogății mi-ai ^{D}dat!
 
 [v2]
 Cămașa Lui, stropită-n sfântul sânge,
@@ -24,6 +24,6 @@ Despre aceasta voi cânta mereu.
 
 [v3]
 Cântarea mea va fi doar despre Isus,
-Chiar peste râu, odată-n veșnicii,
+Chiar peste rău, odată-n veșnicii,
 Cu imnul sfânt al miilor de îngeri
 Cântarea mea atunci se va uni.

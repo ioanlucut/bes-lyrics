@@ -1,19 +1,17 @@
 [title]
-Din adâncul inimii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74510}, id: {3RJ6DXTii41wKamgxDCtUx}, contentHash: {1bf44a}}
+Din adâncul inimii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74510}, id: {3RJ6DXTii41wKamgxDCtUx}, contentHash: {2bd2c8}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Din adâncul inimii,
-Pe Isus vreau a-L vesti
-Și să-I cânt mereu un mare aleluia!
-Vreau să spun întregii lumi,
-Dumnezeu cât e de bun,
-Împreună să-I cântăm toți aleluia!
+^{C}Din adâncul inimii, pe I^{F}sus vreau a-L ves^{C}ti
+Și să-I ^{G}cânt mereu un ^{G7}mare ale^{C}luia!
+^{C}Vreau să spun întregii lumi Dumne^{F}zeu cât e de ^{C}bun,
+Împre^{G}ună să-I cân^{G7}tăm toți ale^{C}luia!
 
 [c]
-Aleluia, Te laudă al meu suflet,
-Aleluia, Te laudă gura mea mereu.
-Aleluia, vreau să spun tuturor,
-Ce măreț ești Doamne, Dumnezeul meu!
+Ale^{F}lu^{C}ia, Te laudă ^{G}al meu ^{Am}suflet,
+Ale^{F}lu^{C}ia, Te laudă ^{D}gura mea me^{G}reu.
+Ale^{F}lu^{C}ia, vreau să spun ^{E}tutu^{Am}ror,
+Ce mă^{F}reț ești ^{C}Doamne, ^{F}Dumnezeul ^{G}meu!

@@ -1,35 +1,32 @@
 [title]
-M-a eliberat! {alternative: {*}, composer: {Ben Fielding și Reuben Morgan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dcMLKtB1BYLuqguedEWtSX}, contentHash: {cf9075}}
+M-a eliberat! {alternative: {*}, composer: {Ben Fielding și Reuben Morgan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dcMLKtB1BYLuqguedEWtSX}, contentHash: {91fadb}}
 
 [sequence]
 v1,c,v2,c2,b,c2,b,c2
 
 [v1]
-Nu sunt vrednic de Dumnezeu să fiu primit.
-Fără țintă, pierdut eram, dar El m-a găsit,
-Dar El m-a găsit.
+^{G}Nu sunt vrednic de Dumnezeu să ^{Em}fiu ^{D}pri^{G}mit.
+^{G}Fără țintă, pierdut eram, dar El ^{Em}m-a ^{D}gă^{C}sit,
+Dar El ^{Em}m-a ^{D}gă^{C}sit.
 
 [c]
-M-a eliberat, viața mi-a schimbat,
-Sunt copilul Său,
-Da, eu sunt.
+M-a e^{G}liberat, viața ^{D}mi-a schimbat,
+Sunt co^{Em}pi^{D}lul ^{C}Său, da, eu ^{G}sunt!
 
 [v2]
-Liber sunt doar prin harul Său nemărginit,
-Ca eu să pot fi iertat, Isus a murit,
-Isus a murit.
+^{G}Liber sunt doar prin harul Său ^{Em}nemăr^{D}gi^{G}nit,
+^{G}Ca eu să pot fi iertat, Isus ^{Em}a ^{D}mu^{G}rit,
+Isus ^{Em}a ^{D}mu^{G}rit.
 
 [c2]
-M-a eliberat, viața mi-a schimbat,
-Sunt copilul Său,
-Da, eu sunt.
-Lângă Tatăl meu am un loc și eu
-Sunt copilul Său,
-Da, eu sunt.
+M-a e^{G}liberat, viața ^{D}mi-a schimbat,
+Sunt co^{Em}pi^{D}lul ^{C}Său, da, eu ^{G}sunt!
+Lângă ^{G}Tatăl meu am un ^{D}loc și eu
+Sunt co^{Em}pi^{D}lul ^{C}Său, da, eu ^{G}sunt!
 
 [b]
-/: M-ai ales doar pentru Tine,
-Mă-ncred în Cuvântul Tău.
-Doamne, Tu lupți pentru mine,
-Mă-ncred în Cuvântul Tău, :/
-Mă-ncred în Cuvântul Tău.
+/: M-ai a^{Em}les doar pentru ^{D/F#}Tine,
+Mă-n^{G}cred în Cuvântul ^{C}Tău.
+Doamne, ^{Em}Tu lupți pentru ^{D/F#}mine,
+Mă-n^{G}cred în Cuvântul ^{G}Tău, :/
+Mă-n^{C}cred în Cuvântul ^{G}Tău.

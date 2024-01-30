@@ -1,26 +1,26 @@
 [title]
-Ai deschis cerul Tău, ai lăsat slava Ta {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66236}, id: {vHNMkvx84838YFwgLjMnHk}, contentHash: {a2e8a8}}
+Ai deschis cerul Tău, ai lăsat slava Ta {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66236}, id: {vHNMkvx84838YFwgLjMnHk}, contentHash: {74665b}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [v1]
-Ai deschis cerul Tău, ai lăsat slava Ta
-Și-ai venit pentru mine, un biet păcătos.
-M-ai iubit așa mult c-ai murit la Calvar,
-Să deschizi ochii mei, să-nțeleg și să Te slăvesc.
+Ai des^{A}chis cerul Tău, ai lă^{C#m}sat slava Ta
+Și-ai ve^{F#m}nit pentru ^{D}mine, un ^{Bm7}biet păcă^{E4-E}tos.
+M-ai iu^{A}bit așa mult c-ai mu^{C#m}rit la Cal^{F#m}var,
+Să des^{C}chizi ochii mei, să-nțe^{B7}leg și să Te slă^{E}vesc.
 
 [c1.1]
-Pentru cântec, speranță și rază de soare,
-Lumină și pace pe-a mea cărare,
-Pentru tot ce Tu îmi dai, mulțumesc!
+^{E4}Pen^{-E}tru ^{A}cântec, speranță și ^{E/G#}rază de soare,
+Lu^{F#m}mină și pace pe-a ^{F#m/E}mea cărare,
+Pentru ^{D}tot ce Tu îmi ^{Bm7}dai, mulțu^{E}mesc!
 
 [c1.2]
-Pentru zâmbetul Tău înscris printre stele,
-Mângâierea Ta în clipele grele,
-Pentru dragostea Ta revărsată în mine
-Mă-nchin, recunosc că ești Domn
-Și rostesc: „mulțumesc!”
+^{E4}Pen{-E}tru ^{A}zâmbetul Tău în^{E/G#}scris printre stele,
+Mân^{F#m}gâierea Ta în ^{F#m/E}clipele grele,
+Pentru ^{D}dragostea Ta revăr^{Bm7}sată în mine
+Mă-n^{E}chin, recunosc ^{F#m/E}că ești ^{E}Domn
+Și rostesc: „^{E/A}mul^{E}țu^A}mesc!”
 
 [v2]
 Când la Tine am venit cu povara mea grea,

@@ -1,24 +1,24 @@
 [title]
-Stau și privesc ochii adânci {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238761}, id: {gUa8wMaKQwnLNy14sBZ2Cs}, contentHash: {fb368c}}
+Stau și privesc ochii adânci {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238761}, id: {gUa8wMaKQwnLNy14sBZ2Cs}, contentHash: {29de0b}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
 [v1.1]
-Stau și privesc ochii adânci
-Care m-au descătușat
-Când eram lovit de stânci.
-Azi simt o lacrimă de foc
-Ce a curs din ochii Tăi.
-Te iubesc, Domnul meu!
+^{Am}Stau și pri^{Dm}vesc ochii a^{G}dânci
+Care ^{C}m-au descătu^{F}șat
+Când e^{Dm}ram lovit de ^{E}stânci.
+^{Am}Azi simt o ^{Dm}lacrimă de ^{G}foc
+Ce a ^{C}curs din ochii ^{F}Tăi.
+Te iu^{E}besc, Domnul ^{Am-G}meu!
 
 [v1.2]
-/: Tu ești iubirea mea dintâi,
-Primul pas mi l-ai schimbat
-Într-un zbor adevărat.
-Azi vreau să fiu în palma Ta
-Perla care-Ți va cânta:
-Te iubesc, Domnul meu! :/
+/: ^{F}Tu ești iu^{G}birea mea din^{C}tâi,
+Primul ^{F}pas mi l-ai schim^{Dm}bat
+Într-un ^{G}zbor adevă^{C-E}rat.
+^{F}Eu vreau să ^{G}fiu în palma ^{C}Ta
+Perla ^{F}care-Ți va cân^{Dm}ta:
+Te iu^{F}besc, Domnul ^{Am}meu! :/
 
 [v2.1]
 Vreau flori de cais să-mi presar

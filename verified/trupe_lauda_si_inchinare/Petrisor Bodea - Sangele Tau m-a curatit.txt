@@ -1,14 +1,17 @@
 [title]
-Sângele Tău m-a curățit {alternative: {*}, composer: {Petrișor Bodea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71166}, id: {3pkhEcQzBkLjcSQ4mEvW2g}, contentHash: {7af357}}
+Sângele Tău m-a curățit {alternative: {*}, composer: {Petrișor Bodea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71166}, id: {3pkhEcQzBkLjcSQ4mEvW2g}, contentHash: {ea9537}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Sângele Tău m-a curățit, sângele Tău m-a mântuit,
-Sângele Tău viață mi-a dat, ai murit ca eu să fiu iertat.
+^{D}Sângele Tău m-a cură^{A}țit,
+Sângele ^{Em}Tău ^{A4} m-a mântu^{D-A}it,
+Sângele ^{D}Tău viață mi-a ^{A}dat,
+Ai mu^{Em}rit ^{D/F#}ca ^{A7}eu să fiu ier^{D}tat.
 
 [c]
-/: Îmi ridic azi mâinile, mă închin în fața Ta,
-Doar Tu meriți să fii lăudat,
-Nimeni nu m-a iubit așa de mult ca să moară pentru vina mea. :/
+/: Îmi ri^{Bm}dic azi mâinile, mă în^{G}chin în fața ^{D}Ta,
+^{G}Doar Tu meriți ^{D/A}să fii lău^{A4-A}dat,
+^{Bm}imeni nu m-a iu^{G}bit așa de ^{D}mult
+Ca să ^{Em}moa^{D/F#}ră ^{A}pentru vina ^{D}mea. :/

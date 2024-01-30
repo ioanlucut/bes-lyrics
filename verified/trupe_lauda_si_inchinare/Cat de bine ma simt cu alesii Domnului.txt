@@ -1,26 +1,24 @@
 [title]
-Cât de bine mă simt cu aleșii Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74286}, id: {jiKDVJHadEAihVnTNHDgfx}, contentHash: {2037c9}}
+Cât de bine mă simt cu aleșii Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74286}, id: {jiKDVJHadEAihVnTNHDgfx}, contentHash: {d7fd8d}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [c1.1]
-Cât de bine mă simt cu aleșii Domnului,
-Poporul minunat!
-O, ce bine mă simt cu aleșii Domnului,
-Poporul minunat!
+{D}Cât de bine mă simt cu aleșii Domnului, poporul minu^{A}nat!
+O, ce ^{Em}bine mă simt cu aleșii Domnului, ^{A}poporul minu^{D}nat!
 
 [c1.2]
-Strălucesc fețele, cântă adunarea,
-Cerul stă și-ascultă cântarea.
-O, ce bine mă simt cu aleșii Domnului!
-O, ce popor, ce popor minunat!
+^{D}Strălucesc fețele, cântă ^{D7}adunarea,
+^{G}Cerul stă și-as^^{Gm6}cultă cântarea.
+O, ^{D}ce bine mă simt cu aleșii Domnului!
+O, ce po^{A}por, ^{G}ce po^{D/A}por ^{A}minu^{D}nat!
 
 [v1]
-Ce plăcut și ce frumos e pe calea lui Hristos,
-Când pe Domnul ei Îl laudă voios!
-Nu e loc mai fericit ca acel unde-am găsit
-Pe toți sfinții ce-mpreună s-au unit.
+^{D}Ce plăcut și ce frumos e pe calea lui Hristos,
+Când pe ^{F#m}Domnul ei Îl ^{Bm7}laudă vo^{A}ios!
+Nu e ^{Em}loc mai feri^{A}cit ^{A6}ca ^{A}a^{D}cel’ un^{A/C#}de-am gă^{Bm}sit
+Pe toți ^{Em}sfinții ce-mpre^{A7}ună s-au u^{D}nit.
 
 [v2]
 O, ce bine-atunci va fi când pe nori El va veni

@@ -1,20 +1,20 @@
 [title]
-La miezul nopții va veni {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {211673}, id: {t5gFfm6gBrivKoK6b7HwNU}, contentHash: {81b741}}
+La miezul nopții va veni {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {211673}, id: {t5gFfm6gBrivKoK6b7HwNU}, contentHash: {61d919}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
 [v1.1]
-La miezul nopții va veni
-Isus, cu pas domol,
-Și vai de cel ce-l va găsi
-Pierdut, cu suflet gol.
+La ^{E}miezul nopții va ^{B7}veni
+I^{E}sus, ^{A}cu ^{E/B}pas ^{B7}do^{E}mol,
+Și ^{E}vai de cel ce-l ^{B7}va găsi
+Pier^{E}dut, ^{A}cu ^{E/B}su^{B7}flet ^{E}gol.
 
 [v1.2]
-O, lumea asta de nevoi
-Cum a orbit acum,
-Crezând că ziua de apoi
-A-ntârziat pe drum.
+O, ^{E/G#}lumea asta de ^{A2}nevoi
+Cum ^{E/B}a orbit a^{B7}cum,
+Cre^{C#m}zând că ziua de ^{F#m7}apoi
+A-n^{E/B}târziat ^{B7}pe ^{E}drum.
 
 [v2.1]
 Și fiecare-n lucrul lui,

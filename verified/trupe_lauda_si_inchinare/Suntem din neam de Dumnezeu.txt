@@ -1,18 +1,18 @@
 [title]
-Suntem din neam de Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153270}, id: {2ZHr2F5n5C62DudwS7mzw5}, contentHash: {cc89b6}}
+Suntem din neam de Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153270}, id: {2ZHr2F5n5C62DudwS7mzw5}, contentHash: {7946f3}}
 
 [sequence]
 c,v1,c,v2,c,b,c
 
 [v1]
-Suntem din neam de Dumnezeu,
-Ne-a înfiat și ne-a iertat prin Fiul Său.
-Suntem prin har moștenitori ai cerului,
-Prin Duhul Sfânt biruitori!
+Suntem din ^{B}neam de Dumne^{C#m}zeu,
+Ne-a în^{A}fiat și ne-a ier^{B}tat prin Fiul ^{E}Său.
+Suntem prin ^{B4-B}har moștenito^{C#m}ri ai ce^{A}rului,
+Prin Duhul ^{B7}Sfânt bi^{E}ruitori!
 
 [c]
-/: Nimeni nu e ca El, mare e Dumnezeu
-Al lui Avraam, Isaac și Israel. :/
+/: Nimeni nu ^{E}e ca ^{B}El, mare e ^{C#m}Dumne^{A}zeu
+Al lui A^{E}vraam, ^{B}Isaac și Isra^{A2}el. :/
 
 [v2]
 El ne-a creat să Îl slujim,
@@ -21,4 +21,4 @@ Să Îl iubim, spre slava Lui noi să trăim.
 Eliberați și vindecați noi proclamăm.
 
 [b]
-A Tatălui e-mpărăția, puterea și slava-n veci! (x4)
+A ^{A}Tatălui e-mpă^{E/C#m}răția, pute^{B}rea și slava-n ^{C#m (E) -a doua oară}veci! (x4)

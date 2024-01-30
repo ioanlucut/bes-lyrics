@@ -1,47 +1,33 @@
 [title]
-Pe-oceanul infinit, cu valuri {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5288}, id: {sAJjZAfbwwXxjG9hgyzWTt}, contentHash: {b57bfc}}
+Pe-oceanul infinit, cu valuri {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5288}, id: {sAJjZAfbwwXxjG9hgyzWTt}, contentHash: {0c969e}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-Pe-oceanul infinit, cu valuri,
-Grija m-a cuprins.
-Plutesc spre casă obosit
-Cu catargul zdrențuit.
+^{E}Pe-oceanul infinit, cu valuri, ^{A}grija m-a cu^{B7}prins.
+Plutesc spre casă obosit, cu ^{F#m}catargul ^{B7}zdrențu^{E}it.
 
 [v1.2]
-Lovit de valuri sunt mereu,
-Dar mai nădăjduiesc
-În Tine, Doamne, mă încred,
-Pe Tine Te iubesc!
+Lovit de valuri sunt mereu, dar ^{A}mai nădăjdu^{B7}iesc
+În Tine, Doamne, mă încred, pe ^{F#m}Tine ^{B7}Te iu^{E}besc!
 
 [c]
-Mă încred în Tine, Doamne,
-Orișice s-ar întâmpla.
-Toată viața mea, Isuse,
-Te voi binecuvânta.
+^{E}Mă încred în Tine, ^{C#m}Doamne, ^{B7}orișice s-ar întâm^{E}pla, ^{B7}
+^{E}Toată viața mea, I^{C#m}suse, ^{B7}Te voi binecuvân^{E}ta!
 
 [v2.1]
-Pe-oceanul infinit, cu valuri,
-Noaptea m-a cuprins.
-Plutesc spre casă obosit,
-Sunt deznădăjduit.
+Pe-oceanul infinit cu valuri noaptea m-a cuprins,
+Plutesc spre casă obosit, sunt deznădăjduit.
 
 [v2.2]
-Privesc în noapte, singur sunt,
-N-am niciun ajutor.
-Lovit de valuri sunt, Isus,
-Vino, fii Salvator!
+Privesc în noapte, singur sunt, n-am niciun ajutor,
+Lovit de valuri sunt, Isus, vino, fii Salvator!
 
 [v3.1]
-Din depărtări zăresc lumina,
-Acolo eu plutesc.
-Acolo vreau să ancorez,
-Pe malul Tău ceresc.
+Din depărtări zăresc lumina, acolo eu plutesc,
+Acolo vreau să ancorez, pe malul Tău ceresc.
 
 [v3.2]
-Voi înfrunta orice necaz,
-Eu nu mă îndoiesc
-Căci Tu ești Salvatorul meu,
-Prin Tine eu trăiesc.
+Voi înfrunta orice necaz, eu nu mă îndoiesc,
+Căci Tu ești Salvatorul meu, prin Tine eu trăiesc.

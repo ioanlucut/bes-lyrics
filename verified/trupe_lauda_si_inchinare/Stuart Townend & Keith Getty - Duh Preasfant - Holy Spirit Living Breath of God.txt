@@ -1,20 +1,20 @@
 [title]
-Duh Preasfânt {alternative: {Holy Spirit Living Breath of God}, composer: {Stuart Townend & Keith Getty}, writer: {Stuart Townend & Keith Getty}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {211468}, id: {wBgRB4jt51P94iLc7pFApf}, contentHash: {312aaf}}
+Duh Preasfânt {alternative: {Holy Spirit Living Breath of God}, composer: {Stuart Townend & Keith Getty}, writer: {Stuart Townend & Keith Getty}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {211468}, id: {wBgRB4jt51P94iLc7pFApf}, contentHash: {b914b2}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
 [v1.1]
-Duh Preasfânt, suflarea Celui Viu
-Suflă viață-n sufletu-mi uscat,
-Înnoit și întregit să fiu
-De prezența Celui înviat.
+^{D}Duh Prea^{G}sfânt, suflarea ^{D/B}Celui ^{A}Viu
+^{D/F#}Suflă ^{G}viață-n ^{D/A}sufle{A7}tu-mi us^{D}cat,
+^{D}Înno^{G}it și între^{D/B}git să ^{A}fiu
+^{D/F#}De pre^{G}zen^{D}ța ^{D/A}Celui ^{A7}învi^{D}at.
 
 [v1.2]
-Prin Cuvânt trezește mintea mea,
-Dă-mi credință când nu pot vedea,
-Toarnă zel pentru sfințenia Ta,
-Duh Preasfânt, inundă-mi inima!
+^{G/D-D}Prin Cuvânt trezește {G/D-D}mintea ^{A}mea,
+^{Bm}Dă-mi ^{A/C#}cre^{D}dință când nu ^{Em7}pot ^{Bm}ve^{A}dea,
+^{D/F#}Toarnă ^{G}zel pentru sfin^{D/B}țenia ^{A}Ta,
+^{D/F#}Duh Prea^{G}sfânt, ^{D}i^nun^{D/A}dă-mi ^{A7}ini^{D}ma!
 
 [v2.1]
 Duh Preasfânt de roade umple-mă,

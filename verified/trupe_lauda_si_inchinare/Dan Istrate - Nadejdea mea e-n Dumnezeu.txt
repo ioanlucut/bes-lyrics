@@ -1,16 +1,16 @@
 [title]
-Nădejdea mea e-n Dumnezeu {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {220908}, id: {amJzACT2RXHbvTYmgFtYyr}, contentHash: {7d9c9a}}
+Nădejdea mea e-n Dumnezeu {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {220908}, id: {amJzACT2RXHbvTYmgFtYyr}, contentHash: {645cb9}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
 
 [v1]
-Nădejdea mea e Dumnezeu,
-Puterea Lui e mare!
-/: Prin dragostea și harul Său,
-Nădăjduiesc și cânt mereu,
-Căci a salvat sufletul meu,
-Din veșnica pierzare. :/
+^{C}Nădejdea mea e Dumnezeu,
+^{F}Pute^{C/G}rea ^{G7}Lui e ma^{C}re!
+/: Prin ^{C}dragostea și ha^{F/C}rul ^{C}Său,
+^{F}Nă^{C}dăjduiesc și cânt me^{G7}reu,
+Căci ^{C}a salvat sufletul meu,
+^{F}Din ^{C/G}veșni^{G7}ca pierza^{C}re. :/
 
 [v2]
 O licărire-n infinit

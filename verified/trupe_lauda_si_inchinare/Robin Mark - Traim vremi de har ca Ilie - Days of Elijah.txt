@@ -1,42 +1,40 @@
 [title]
-Trăim vremi de har ca Ilie {alternative: {Days of Elijah}, composer: {Robin Mark}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {780}, id: {rsz3mHy43hi5WY5xVf5iUA}, contentHash: {82de2e}}
+Trăim vremi de har ca Ilie {alternative: {Days of Elijah}, composer: {Robin Mark}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {780}, id: {rsz3mHy43hi5WY5xVf5iUA}, contentHash: {71c92e}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b1.1,b1.2,c
 
 [v1.1]
-Trăim vremi de har ca Ilie,
-Cuvântul divin proclamând,
-Trăim ca în vremea lui Moise, profetul,
-Neprihănire primind.
+{G}Trăim vremi de har ca I^{C}lie,
+Cu^{G}vântul di^{D7}vin procla^{G}mând,
+Tră^{G}im ca în vremea lui ^{C}Moise, profetul,
+^{G}Neprihă^{D7}nire pri^{G}mind.
 
 [v1.2]
-Deși zi de zi încercări vin,
-E foame, întuneric, război,
-Rămânem un glas care strigă-n pustie:
-„Pregătiți calea Domnului sfânt!”
+De^{Bm}și zi de zi încer^{Em}cări vin,
+E ^{C}foame, ‘ntuneric, răz6{D}boi,
+Ră^{G}mânem un glas care ^{C}strigă-n pustie:
+„Pregă^{G}tiți calea ^{D}Domnului ^{G}sfânt!”
 
 [c]
-/: El vine iar, peste nori pășind,
-Trâmbițe vestesc un soare strălucind.
-Să-L slăvim, e-al îndurării an,
-Din Sion El ne-a mântuit. :/
+/: El ^{D6}vi^{D}ne ^{G}iar, peste nori pă^{C}șind,
+Trâmbițe ves^{Em}tesc un soare strălu^{D7}cind.
+^{D6}Să-L ^{D}slă^{G}vim, e-al îndurării ^{C}an,
+Din ^{G/D}Sion, El ^{D7}ne-a mântu^{G}it. :/
 
 [v2.1]
-Sunt zilele lui Ezechiel
-Când oasele prind viață iar,
+Sunt zilele lui Ezechiel când oasele prind viață iar.
 Sunt zilele-n care, ca David, psalmistul,
 Un templu de laudă zidim.
 
 [v2.2]
-Sunt zilele de seceriș sfânt,
-Sunt holdele coapte pe câmp,
-Suntem lucrătorii din via Ta, Doamne,
-Cuvântul divin proclamând.
+Sunt zilele de seceriș sfânt, sunt holdele coapte pe câmp,
+Suntem lucrătorii din via Ta, Doamne, cuvântul divin proclamând.
 
 [b1.1]
-/: Nimeni nu este ca Tine! Nimeni nu este ca Tine!
-Nimeni nu este ca Tine! Nimeni nu este ca Tine! :/ (x3)
+/: ^{G}Nimeni nu este ca Tine! ^{C}Nimeni nu este ca Tine!
+^{G}Nimeni nu este ca Tine! ^{D}Nimeni nu este ca Tine! :/ (x3)
 
 [b1.2]
-/: Nimeni nu este ca Tine! :/ (x3)
+^{G}Nimeni nu este ca Tine! ^{C}Nimeni nu este ca Tine!
+{G}Nimeni nu este ca Ti^{D///}ne!

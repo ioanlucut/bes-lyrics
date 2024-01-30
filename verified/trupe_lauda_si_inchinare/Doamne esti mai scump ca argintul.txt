@@ -1,14 +1,14 @@
 [title]
-Doamne, ești mai scump ca argintul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1987}, id: {m9SrsH2H8AgN3gZXCR55ex}, contentHash: {9eb7ac}}
+Doamne, ești mai scump ca argintul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1987}, id: {m9SrsH2H8AgN3gZXCR55ex}, contentHash: {6fdfed}}
 
 [sequence]
 c,b,c,b,c
 
 [c]
-/: Doamne, ești mai scump ca argintul,
-Doamne, ești mai scump ca aurul.
-Nu-i nimic în lume să îmi placă,
-Tot ce vreau, Isuse, ești doar Tu! :/
+/: ^{E}Doamne, ^{B/D#}ești mai ^{A/C#}scump ca ar^{F}gintul,
+^{E}Doamne, ^{B/D#}ești mai ^{A/C#}scump ca ^{B4-B}aurul.
+^{E}Nu-i ^{B/D#}nimic în ^{A/C#}lume să îmi ^{E}placă,
+^{F#m}Și tot ce ^{E/G#}vreau, I^{B4}suse, ești doar ^{E}Tu! :/
 
 [b]
 /: Și cine poate a măsura iubirea Ta

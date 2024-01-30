@@ -1,20 +1,20 @@
 [title]
-Numai în Domnul este a mea nădejde {alternative: {*}, composer: {Damaris Căuneac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {104321}, id: {tYPDeeDL8gTCRzPaGCXeWQ}, contentHash: {d2bcec}}
+Numai în Domnul este a mea nădejde {alternative: {*}, composer: {Damaris Căuneac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {104321}, id: {tYPDeeDL8gTCRzPaGCXeWQ}, contentHash: {0c56ce}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,e
 
 [v1.1]
-Numai în Domnul este a mea nădejde
-Când lupta-i grea.
-Chiar și în strâmtorare
-Îmi dă scăpare tăria Sa.
+^{B}Numai în Domnul ^{C#m}este a mea nă^{E}dejde
+Când ^{F#}lupta-i ^{B}grea.
+^{B}Chiar și în strâmto^{C#m}rare
+Îmi dă scăpa^{E}re tă^{F#}ria ^{B}Sa.
 
 [v1.2]
-/: În așteptare, când nu e zare
-Pe-a mea cărare îmi face soare
-Și-mi stă aproape, când valul bate
-A Sa putere, tăria mea. :/
+/: ^{G#m}În aștepta^{F#}re, când nu e ^{E/B}za^{B}re
+Pe-a mea că^{F#}rare îmi ^{C#}face soa^{F#}re
+^{G#m}Și-mi stă a^{F#}proape, când valul ^{E/B}ba^{B}te
+A Sa pu^{F#}tere, tă^{E}ria ^{B}mea. ^{B///}:/
 
 [v2.1]
 Nu e nicio durere

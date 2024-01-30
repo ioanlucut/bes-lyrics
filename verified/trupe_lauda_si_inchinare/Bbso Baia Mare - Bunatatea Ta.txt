@@ -1,20 +1,20 @@
 [title]
-Bunătatea Ta {alternative: {*}, composer: {Bbso Baia Mare}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {233702}, id: {odnhLxjCmVzBSvXCuhFo4h}, contentHash: {72621d}}
+Bunătatea Ta {alternative: {*}, composer: {Bbso Baia Mare}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {233702}, id: {odnhLxjCmVzBSvXCuhFo4h}, contentHash: {5416ad}}
 
 [sequence]
 v1,c,v2,b,c
 
 [v1]
-Eu Te iubesc, mila Ta e nesfârșită
-Zi de zi Tu mă ții în mâna Ta.
-Din zorii dimineții și până când adorm,
-Vreau să cânt bunătatea Ta.
+^{A}Eu Te iubesc, mila ^{D}Ta e nesfâr^{A}șită
+Zi de ^{F#m}zi Tu mă ^{D}ții în mâna ^{E4/E}Ta.
+Din zorii dimi^{A}neții ^{D}și până când ^{A}adorm,
+Vreau să ^{D}cânt bunăta^{E}tea ^{A}Ta.
 
 [c]
-Tu mereu ai fost cu mine,
-Doamne-ai fost mereu atât de bun!
-Și cât eu voi avea suflare
-Vreau să cânt bunătatea Ta.
+^{D}Tu mereu ai fost cu ^{A}mine,
+^{D}Doamne-ai fost mereu ^{A}atât de ^{E}bun!
+^{D}Și cât eu voi avea ^{A}sufla^{F#m}}re
+Vreau să ^{D}cânt bună^{E}tatea ^{A}Ta.
 
 [v2]
 Cu vocea Ta m-ai condus prin încercare,
@@ -23,6 +23,6 @@ Noi Te avem ca Tată, Te știm ca Prieten bun,
 Am trăit în bunătatea Ta.
 
 [b]
-/: Isus, mă copleșești cu bunătatea Ta.
-Mă aplec acum, Ție mă închin, cu totul mă predau!
-Isus, mă copleșești cu bunătatea Ta! :/
+/: ^{C#/A}Isus, mă ^{D}copleșești ^{E}cu bună^{A}tatea Ta.
+^{A}Mă aplec a^{D}cum, Ție mă închin, ^{E}cu totul mă ^{A}predau!
+^{C#/A}Isus, mă ^{D}copleșești ^{E}cu bună^{A}tatea Ta! :/

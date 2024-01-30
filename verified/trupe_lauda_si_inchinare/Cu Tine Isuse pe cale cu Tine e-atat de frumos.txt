@@ -1,14 +1,14 @@
 [title]
-Cu Tine, Isuse, pe cale, cu Tine e-atât de frumos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8qUZupfvq7EvFCuBYoGDsH}, contentHash: {edf90e}}
+Cu Tine, Isuse, pe cale, cu Tine e-atât de frumos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8qUZupfvq7EvFCuBYoGDsH}, contentHash: {7254d1}}
 
 [sequence]
 v1,v2,v3,v4
 
 [v1]
-Cu Tine, Isuse, pe cale, cu Tine e-atât de frumos,
-Cu Tine, aici jos în vale, cu Tine, eu sunt bucuros.
-Pe Tine Te laud, Isuse, căci viața mea Tu o păzești,
-Îmi dai bucurii ce-s nespuse și sufletul meu Îl iubești.
+^{Dm}Cu Tine, Isuse, pe ^{Gm-Dm}cale, cu ^{A7}Tine e-atât de fru^{Dm}mos,
+^{Dm}Cu Tine, aici jos în ^{Gm-Dm}vale, cu ^{A7}Tine, eu sunt bu^{Dm}curos.
+Pe ^{Dm}Tine Te laud, ^{Gm-Dm}Isuse, căci vi^{Bb}ața mea Tu o pă^{A}zești,
+Îmi ^{Gm}dai bucurii ce-s ne^{Dm}spuse și ^{A}sufletul meu Îl iu^{Dm}bești.
 
 [v2]
 Tu nu mă lași dat de rușine, m-ajuți în necazul cel greu,

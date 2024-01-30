@@ -1,20 +1,20 @@
 [title]
-Cineva se-ngrijește de mine mereu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1338}, id: {v2AvUcfZ4x7SLHxV1vVLkb}, contentHash: {39578e}}
+Cineva se-ngrijește de mine mereu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1338}, id: {v2AvUcfZ4x7SLHxV1vVLkb}, contentHash: {b2c83b}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Cineva se-ngrijește de mine mereu!
-Nu-i deloc întâmplarea, e-al meu Dumnezeu.
-Zilnic toarnă asupra mea daruri din plin,
-Mulțumire-I aduc și mă-nchin.
+^{G}Cineva se-ngri^{C}jește de ^{G}mine ^{Am/G}me^{G}reu!
+Nu-i de^{G/D}loc întâmpla{D7}rea, e-al ^{Am/G}meu Dum^{C/G}ne^{G}zeu.
+Zilnic ^{G}toarnă a^{C}supra mea ^{G}daruri ^{Am7}din ^{G/B}plin,
+Mulțu^{D7}mire-I aduc și mă-n^{G-C/G-G7}chin.
 
 [c]
-/: E Cineva! Și Îi mulțumesc (Știu că)
-E Cineva! Este Tatăl ceresc!
-Darul nespus e Domnul Isus.
-Ce măreț e-al meu Dumnezeu! :/
+/: ^{C}E Cineva și ^{G}Îi mulțumesc,
+^{D7}E Cineva, este ^{Am/G}Tatăl ce^{G7}resc!
+^{C}Darul nespus e ^{G}Domnul Isus,
+Ce mă^{D7}reț e-al meu Dumne^{G-C/G-G}zeu! :/
 
 [v2]
 Mulți nu cred azi în Domnul, slăvit Creator,

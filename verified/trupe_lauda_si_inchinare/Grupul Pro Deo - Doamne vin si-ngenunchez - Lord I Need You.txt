@@ -1,16 +1,18 @@
 [title]
-Doamne, vin și-ngenunchez {alternative: {Lord I Need You}, composer: {Daniel Carson}, writer: {Daniel Carson}, arranger: {*}, interpreter: {Grupul Pro Deo}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {133941}, id: {je2ZX9jyuBcFxt7EE9L44C}, contentHash: {6d0b17}}
+Doamne, vin și-ngenunchez {alternative: {Lord I Need You}, composer: {Daniel Carson}, writer: {Daniel Carson}, arranger: {*}, interpreter: {Grupul Pro Deo}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {133941}, id: {je2ZX9jyuBcFxt7EE9L44C}, contentHash: {0a12b9}}
 
 [sequence]
 v1,c,v2,c,v3,c2,e
 
 [v1]
-Doamne, vin și-ngenunchez, Ție Îți mărturisesc:
-Fără Tine aș cădea, doar Tu ești tăria mea!
+^{E}Doamne, vin și-n^{A/E}genun^{E}chez,
+Ție ^{E/C#}Îți mărturi^{A2}sesc:
+^{E}Fără ^{A/E}Tine aș că^{E}dea,
+oar Tu ^{E/C#}ești tăria ^{A2}mea!
 
 [c]
-Eu de Tine am nevoie, am nevoie, Doamne,
-Tu ești neprihănirea mea și-a mea apărare!
+Eu de ^{E}Tine ^{A}am ^{E}nevo^{B}ie, ^{E/C#}am ne^{A}voie, ^{E/B}Doam^{B}ne,
+^{E}Tu ești ^{F#m}neprihă^{E/G#}nirea ^{A}mea și-a ^{E/B}mea apă^{B7}ra^{E}re!
 
 [v2]
 Ai fost străpuns de-al meu păcat, pe Golgota crucificat,

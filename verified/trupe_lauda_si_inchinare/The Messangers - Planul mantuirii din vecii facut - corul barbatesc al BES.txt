@@ -1,20 +1,20 @@
 [title]
-Planul mântuirii din vecii făcut {alternative: {*}, composer: {The Messangers}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {229001}, id: {bomwHa6KN8uugBb9BnWeZf}, contentHash: {74685e}}
+Planul mântuirii din vecii făcut {alternative: {*}, composer: {The Messangers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {229001}, id: {bomwHa6KN8uugBb9BnWeZf}, contentHash: {cdfd09}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Planul mântuirii din vecii făcut,
-Se apropie de un mormânt.
-Când părea că totu-i un sfârșit pierdut,
-S-a-mplinit ce-ai spus Tu în Cuvânt!
+^{E}Planul mântuirii ^{B}din vecii făcut,
+^{Em}Se apropi^{E}e de un mor^{E}mânt.
+^{E}Când părea că totu-i ^{B}un sfârșit pierdut,
+^{F#m}S-a-mplinit ce-ai ^{B}spus Tu în Cu^{E}vânt!
 
 [c]
-A-nviat Isus, mormântul Lui e gol,
-Cu moartea pe moarte călcând și viață aducând.
-Domnește sus, pe tron, cu slavă îmbrăcat,
-Aleluia, Hristos a înviat!
+^{E}A-nviat Isus, mormântul Lui e gol,
+Cu ^{A}moartea pe moarte călcând și ^{F#}viață adu^{B}când.
+Dom^{E}nește sus, pe tron, cu slavă îmbră^{A}cat,
+A^{B}leluia, Hristos a învi^{E}at!
 
 [v2]
 Zorii învierii vremi de har aduc

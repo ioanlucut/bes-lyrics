@@ -1,0 +1,35 @@
+[title]
+Se-aude clar în depărtări {alternative: {I Heard the Bells on Christmas Day}, composer: {Casting Crowns}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gcp1aDxe1HN5Br6QAAhWB8}, contentHash: {56ca2e}}
+
+[sequence]
+v1,c,v2,c,e,v3
+
+[v1]
+^{C}Se-aude clar în de^{Dm}părtări
+^{Bb}Sunt ale cerului ^{C}cân^{F}tări,
+Care ne spun că S-a ^{Dm}născut
+^{Bb}Acel ce n-are înce^{C-F}put.
+
+[c]
+^{C}Din î^{C4}nalt ră^{C}sună: ^{Bb-Bb2}glorie ^{F}Lui!
+^{F}Ce frumos ^{F4}răsu^{F}nă: ^{Bb-Bb2}glorie ^{F}Lui!
+^{F}Îngeri ^{F4}mii cum cân^{F}tă: ^{Bb-Bb2}glorie!
+Glorie ^{F/Dm}Lui și pace-n ^{C}dar!
+
+[v2]
+Dar azi eu fruntea mi-am ple^{Dm}cat,
+^{Bb}E lumea plină de ^{F C}păcat.
+^{C}Nu e nici pace, nu-i ^{Dm}nici cânt,
+^{C}Nu-i bucurie pe pă^{F-C///}mânt.
+
+[e]
+^{Bb}Iar îngeri tare au strigat
+^{Bb2}Că Dumnezeu nu ne-a ^{F-C}uitat,
+^{Bb}Că binele va birui ^{Bb2}și prin credință vom ^{F/D}trăi,
+Da, vom ^{C///}trăi!
+
+[v3]
+Un Prunc din slăvi trimis, ^{Dm}să știi,
+^{Bb}El a făcut din noapte ^{F C}zi,
+Un cântec ăentru cel ^{Dm}salvat,
+^{Bb}Au pace cei ce l-au ^{F-C///}aflat.

@@ -1,18 +1,19 @@
 [title]
-Cel minunat, Salvatorul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221861}, id: {qdGSdWzJWN2oZD2ESiCWgE}, contentHash: {356345}}
+Cel minunat, Salvatorul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221861}, id: {qdGSdWzJWN2oZD2ESiCWgE}, contentHash: {caff07}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Cel minunat, Salvatorul, Sfântul Prieten și Domn,
-Cine-a crezut că e Mielul ce moare pentru om?
-O, da, ce moare pentru om!
+^{C}Cel minu^{F}nat, Salva^{C}to^{F}rul, ^{Em}Sfântul ^{F}Prieten și ^{G}Domn,
+^{Am}Cine-a crezut că e ^{F}Mielul ^{C}ce moare ^{G}pentru ^{C}om?
+^{F}O, da, ^{C}ce moare ^{G}pentru ^{C}om!
 
 [c]
-Tu ești Cel vrednic de slavă, Cel vrednic de-a fi iubit.
-Noi însetăm după Tine, viață ne-ai dăruit,
-O, da, viață ne-ai dăruit!
+^{Am}Tu ești Cel vrednic de ^{F}sla^{G}vă,
+^{Am}Cel vrednic de-a fi iu^{F-G}bit.
+^{Am}Noi însetăm după ^{F}Tine, ^{C}viață ne-ai ^{G}dăru^{Am}it,
+^{F}O, da, ^{C}viață ne-ai ^{G}dăru^{C}it!
 
 [v2]
 Mângâietor și Lumină, Duh după care tânjim

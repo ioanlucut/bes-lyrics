@@ -1,23 +1,30 @@
 [title]
-Cântă Israel că Dumnezeu e Domnul {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ihzCV1Ji34WW2PUVtBmSoa}, contentHash: {e701c0}}
+Cântă Israel că Dumnezeu e Domnul {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ihzCV1Ji34WW2PUVtBmSoa}, contentHash: {b94c1c}}
 
 [sequence]
 c,v1,c2,c,v2,c2,e
 
 [c]
-/: Cântă Israel că Dumnezeu e Domnul, aleluia!:/
+^{Cm}Cântă Israel că Dumne^{Bb}zeu e Domnul, a^{G}le^{Bb}lu^{Cm}ia!
+Cântă Israel că Dumne^{Bb}zeu e ^{Cm}Domnul, aleluia!
 
 [v1]
-Să Îl iubești pe Domnul Dumnezeul tău cu toată inima
-Și viața ta să Îi aducă toată gloria.
+Să Îl iu^{Eb}bești pe Domnul
+Dumne^{Bb}zeul tău ^{Cm}cu toată ^{Eb Bb} inima
+Și vi^{Eb}ața ta să ^{Bb}Îi aducă ^{Cm}toată gloria. ^{Cm/G G}
 
 [c2]
-El este-al nostru Rege și prin pustiu ne trece.
-‘Naintea Lui noi ne plecăm și jertfa noastră Îi închinăm.
+^{Cm}El este-al nostru ^{Bb}Rege
+^{Cm}Și prin pustiu ^{Bb}ne tre^{Cm}ce.
+^{Cm}‘Naintea Lui noi ^{Bb}ne ple^{Cm}căm
+^{Ab}Și jertfa noas^{G}tră Îi închinăm.
 
 [v2]
-Călăuzirea Lui în stâlp de nor și stâlp de foc ne-a apărat,
-Pe drumul greu doar mâna Sa mereu ne-a protejat!
+Călăuzirea Lui în stâlp de nor
+Și stâlp de foc ne-a apărat,
+Pe drumul greu doar mâna Sa
+Mereu ne-a protejat!
 
 [e]
-/: Cântă Israel că Dumnezeu e Domnul, aleluia! :/ (x3)
+/: ^{Cm}Cântă Israel că Dumne^{Bb}zeu e veș^{Cm}nic, aleluia!
+^{Cm}Cântă Israel că Dumne^{Bb}zeu e veș^{Cm}nic, a^{Cm}lelu^{Bb-Cm}ia! :/

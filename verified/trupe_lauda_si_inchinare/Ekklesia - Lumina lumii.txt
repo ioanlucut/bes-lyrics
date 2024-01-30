@@ -1,19 +1,20 @@
 [title]
-Lumina lumii {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2848}, id: {6UyaXPU1eiMxXgxN5M6dnn}, contentHash: {191fd5}}
+Lumina lumii {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2848}, id: {6UyaXPU1eiMxXgxN5M6dnn}, contentHash: {7e06bf}}
 
 [sequence]
 v1,c,v2,c,e
 
 [v1]
-Lumina lumii, prezență divină, ajută-mă să-nțeleg
-Cât de frumos ne-ai creat pentru Tine,
-Speranță ne-ai dăruit.
+^{E}Lumina {B4}lumii, pre^{F#m7}zență di^{A2}vină.
+^{E}Ajută-^{B4}mă să-nțe^{A2}leg
+^{E}Cât de fru^{B4}mos ne-ai ^{F#m7}creat pentru ^{A2}Tine,
+^{E}Speranță ^{B4}ne-ai dăru{A2}it.
 
 [c]
-Toată închinarea, toată adorarea,
-Ție-Ți dăruiesc, o, Domnul meu!
-Numai Tu ești vrednic, numai Tu ești veșnic,
-Doamne, numai Tu ești minunat!
+Toată închi^{E}narea, toată ado^{B4}ra^{B}rea,
+Ție-Ți dăru{C#m}iesc, o, Domnul ^{A2}meu!
+Numai Tu ești ^{E}vrednic, numai Tu ești ^{B4}veș^{B}nic,
+Doamne, numai ^{E/G#}Tu ești minu^{A2}nat!
 
 [v2]
 Rege etern, ce domnești sus în ceruri,
@@ -22,5 +23,5 @@ La dreapta lui Dumnezeu,
 Din dragoste Te-ai jertfit.
 
 [e]
-Cum să-nțeleg cât Te-a costat
-Să ierți deplin al meu păcat?
+Cum ^{B}să-nțe^{C#m}leg cât ^{A2}Te-a costat
+Să ^{B}ierți de^{C#m}plin al ^{A}meu păcat?

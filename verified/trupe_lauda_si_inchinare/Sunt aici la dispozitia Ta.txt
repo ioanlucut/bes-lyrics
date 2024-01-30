@@ -1,0 +1,21 @@
+[title]
+Sunt aici, la dispoziția Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2RGZmKgDBQjGMDybvfxCfP}, contentHash: {4805d3}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+^{D}Sunt ^{A}a^{Bm}ici, la dis^{G2}pozi^{Bm}ția ^{A4A}Ta,
+^{D}Chea^{A}mă-^{Bm}mă, ^{G2}Te ^{D/A}voi as^{A7}cul^{D}ta!
+
+[v1]
+E ^{D}timpul potri^{A}vit pentru po^{D/B}poare,
+Mai ^{G2}sunt în zgură ^{A}încă mari co^{D}mori,
+I^{D}sus mai cheamă ^{A}oameni în lucra^{D/B}re
+^{G2}Să fie toți cu ^{A}El birui^{D}tori
+
+[v2]
+Suntem noi sare pentru lumea-aceasta,
+În întuneric, suntem noi lumini?
+Trăim ca Domnu-n vorbă și în faptă,
+Să știe lumea că suntem creștini?

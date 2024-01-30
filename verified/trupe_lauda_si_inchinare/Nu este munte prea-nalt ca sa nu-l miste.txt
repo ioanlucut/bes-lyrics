@@ -1,15 +1,15 @@
 [title]
-Nu este munte prea-nalt ca să nu-l miște {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4084}, id: {2iDgvwcxfxqe4zMQntX21S}, contentHash: {4c4f1c}}
+Nu este munte prea-nalt ca să nu-l miște {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4084}, id: {2iDgvwcxfxqe4zMQntX21S}, contentHash: {950b2e}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Nu este munte prea-nalt ca să nu-l miște,
-Nu e problemă prea grea să n-o rezolve,
-Nu e furtună prea rea să n-o liniștească,
-Nu e durere prea rea să n-o aline.
+^{G}Nu este munte prea-nalt ca să nu-l mi^{Am}ște,
+^{C}Nu e problemă prea ^{D}grea să n-o re^{G}zolve,
+Nu e furtună prea grea să n-o liniș^{Am}tească,
+^{C}Nu e durere prea ^{D}grea să n-o a^{G}line.
 
 [c]
-/: El purtat-a pe umerii Săi povara lumii,
-El poate lua chiar acum povara ta. :/
+/: ^{D4}El pur^{G}tat-a pe umerii Săi povara ^{A}lumii,
+El ^{D}poate lua chiar ^{D/F#}acum povara ^{G}ta. :/

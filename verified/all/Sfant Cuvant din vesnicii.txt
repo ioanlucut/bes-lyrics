@@ -1,35 +1,25 @@
 [title]
-Sfânt Cuvânt din veșnicii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {244209}, id: {oy4LMyJ5xLxfvXzDKgyMho}, contentHash: {05a713}}
+Sfânt Cuvânt din vecii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {244209}, id: {oy4LMyJ5xLxfvXzDKgyMho}, contentHash: {bd6c61}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Sfânt Cuvânt din veșnicii
-Ne conduci, ne susții,
-Inima lui Dumnezeu,
-Ne-arăți în versul tău mereu.
+^^{B7}Sfânt Cu^{E}vânt ^{B}din ve^{E}cii ne con^{A}duci, ne sus^{B}ții,
+Ini^{Cm#}ma lui ^{B/D#}Dumne^{E}zeu ne-a^{E/G£}răți în ^{A}versul ^{B4}tău ^{B}me^{E/-A/E-E/}reu.
 
 [v1.2]
-Sfânt Cuvânt, la noi venit,
-Tu ni Te-ai descoperit
-În viața lui Isus,
-Ce pentru noi a fost străpuns.
+Sfânt Cuvânt, la noi venit, Tu ni Te-ai descoperit
+În viața lui Isus, ce pentru noi a fost străpuns.
 
 [c]
-/: Sfânt Cuvânt, neschimbat,
-Viața Tu ne-ai transformat,
-Ne deschidem inima
-S-ascultăm de vocea Ta. :/
+/: Sfânt ^{E}Cuvânt, neschim^{B}bat, viața ^{F£m}Tu ne-ai ^{E/G£}transfor^{A}mat,
+^{B}Ne des^{Cm#}chidem ^{B/D#}ini^{E}ma S-as^{E/G#}cu^{A}ltăm iar ^{B4}vo^{B}cea ^{E}Ta. :/
 
 [v2.1]
-Sfânt Cuvânt credincios,
-Toarnă-Ți harul glorios,
-Să purtăm victorios
-Chipul sfânt al lui Hristos.
+Sfânt Cuvânt credincios toarnă-Ți harul glorios,
+Să purtăm victorios chipul sfânt al lui Hristos.
 
 [v2.2]
-Sfânt Cuvânt, de viață plin,
-Dă-ne ajutor deplin,
-Să pășim pe calea Ta
-Până în ceruri vom intra.
+Sfânt Cuvânt de viață plin dă-ne ajutor deplin,
+Să pășim pe calea Ta până în ceruri vom intra.

@@ -1,19 +1,19 @@
 [title]
-Stau din nou gândindu-mă la jertfa Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2766}, id: {beGMdBTrR3CARHtBNcE9Gr}, contentHash: {48a163}}
+Stau din nou gândindu-mă la jertfa Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2766}, id: {beGMdBTrR3CARHtBNcE9Gr}, contentHash: {afe4c8}}
 
 [sequence]
 v1,c,v2,c,b,c
 
 [v1]
-Stau din nou, gândindu-mă la jertfa Ta,
-Sângele curs, trupul străpuns,
-În locul meu pedeapsa morții ai luat.
-Ce dar nemeritat, Doamne, Tu m-ai salvat.
+^{D}Stau din ^{F#m/C#}nou, gân^{Bm}dindu-mă la ^{D/A}jertfa Ta,
+^{G}Sângele ^{D}curs, ^{G}trupul stră^{AsusA}puns,
+^{D}În locul ^{F#m/C#}meu pe^{Bm}deapsa morții ^{D/A}ai luat.
+^{G}Ce dar ne^{D}meri^{Bm}tat, ^{G}Doamne, Tu ^{A}m-ai sal^{D}vat.
 
 [c]
-Privesc către crucea unde ai suferit,
-Smerit de-ndurarea ce mi-ai oferit,
-Mulțumesc, Isuse, viață nouă mi-ai dăruit!
+Privesc către ^{D/F#}crucea unde ^{Bm7}ai sufe^{Asus}rit,
+Sme^{D}rit de-ndu^{D/F#}rarea ce ^{Bm7}mi-ai ofe^{A}rit,
+^{G}Mulțu^{D}mesc, Isu^{A}se, ^{D}viață nouă ^{A}mi-ai dăru^{G}it!
 
 [v2]
 Acum ești înălțat în slavă,
@@ -22,5 +22,5 @@ Pân-atunci, uimit fiind de harul Tău,
 Inima-mi va cânta, pe veci dragostea Ta.
 
 [b]
-Doamne-Ți mulțumesc pentru Golgota,
-Viața-Ți dăruiesc, e-a Ta!
+^{G}Doamne-Ți mulțu^{A}mesc ^{D/F#}pentru Golgo^{G}ta,
+^{Em}Viața-Ți dăru^{A}iesc, e-a ^{D}Ta!

@@ -1,26 +1,26 @@
 [title]
-Spre mine fața Ți-o întorci {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {881}, id: {vkqgA8ejCs8htaJsPLtpx8}, contentHash: {887770}}
+Spre mine fața Ți-o întorci {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {881}, id: {vkqgA8ejCs8htaJsPLtpx8}, contentHash: {015afb}}
 
 [sequence]
 v1,c,v2,c,e
 
 [v1]
-Spre mine fața Ți-o întorci,
-Și sufletul meu Te slăvește,
-Speranță-mi dai și mă-ntărești
-Și sufletul meu Te mărește.
+^{D}Spre mine fața {G2/C}Ți-o în^{G/B}torci,
+Și sufle^{D/A}tul meu ^{A}Te slă^{G2}vește,
+Spe^{D}ranță-mi dai și ^{G2/C}mă-ntă^{G/B}rești
+Și sufle^{D/A}tul meu ^{A}Te mă^{G2}rește.
 
 [c]
-/: Prin încercări voi sta,
-Căci am un preț în fața Ta,
-Și-n brațul Tău voi sta,
-Plăcerea mea e-n calea Ta. :/
+/: Prin în^{D}cer^{A}cări voi ^{Em7}sta,
+Căci am un ^{D/F#}preț în fața ^{G2}Ta,
+^{D2/F#}Și-n brațul Tău voi ^{Em7}sta,
+Plăcerea ^{D/F#}mea e-n ^{A}calea ^{D}Ta. :/
 
 [v2]
-Zi de zi mă-nviorezi
-Și sufletul meu Te slăvește,
-Speranță-mi dai și mă-ntărești
-Și sufletul meu Te mărește.
+^{E}Zi de zi mă-n^{A2/D}viore^{A/C#}zi
+Și sufle^{E/B}tul meu ^{B}Te slă^{A2}vește,
+Spe^{E}ranță-mi dai și ^{C}mă-n^{D}tă^{E}rești
+Și sufle^{E/B}tul meu ^{B}Te mă^{E}rește.
 
 [e]
-Plăcerea mea e-n calea Ta.
+Plăcerea ^{E/B}mea e-n ^{B}calea ^{E}Ta.

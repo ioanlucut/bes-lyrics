@@ -1,19 +1,17 @@
 [title]
-Curgi ca un râu de slavă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {783}, id: {ew3wnzuWQzTsptQV8Fjm3Z}, contentHash: {ef4cfb}}
+Curgi ca un râu de slavă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {783}, id: {ew3wnzuWQzTsptQV8Fjm3Z}, contentHash: {1a21be}}
 
 [sequence]
 c,v1
 
 [c]
-Curgi ca un râu de slavă,
-Cu brațul Tău dezleagă,
-Tu, cu putere, viața mea!
-În ceasul de pe urmă
-Vreau Duhul Tău să curgă
-Și să inunde viața mea!
+^{D}Curgi ca un râu de slavă, ^{Bm}cu brațul Tău dezleagă,
+^{G}Tu, cu putere, vi^{A4}ața ^{A}mea!
+^{D}În ceasul de pe urmă, ^{Bm}vreau Duhul Tău să curgă
+^{G}Și să inunde via^{A4}ța ^{A}mea!
 
 [v1]
-Este un râu ce curge peste noi,
-Vindecare el aduce pe pământ.
-Totul ia ființă unde curge el
-Îmi alină setea sufletului meu.
+^{G}Este un ^{A}râu ce curge ^{D}pe^{A/C}ste ^{Bm}noi,
+Vinde^{C}care el a^{A}duce pe pă^{D}mânt.
+^{G}Totul ia fi^{A}ință unde ^{F#m}curge ^{Bm}el
+Îmi a^{G}lină setea sufletului ^{A}meu.

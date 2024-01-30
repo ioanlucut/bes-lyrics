@@ -1,15 +1,15 @@
 [title]
-Zidește în mine o inimă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1562}, id: {eYGfk4XgcPUwU9uK1h6Qs7}, contentHash: {9160d1}}
+Zidește în mine o inimă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1562}, id: {eYGfk4XgcPUwU9uK1h6Qs7}, contentHash: {37133d}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Zidește în mine o inimă curată, Dumnezeule,
-Și pune în mine un duh nou, statornic, Dumnezeule!
+^{F}Zidește în ^{C}mine ^{Bb}o ini^{F}mă ^{Dm} curată, ^{C}Dumnezeu^{F}le,
+Și pune în ^{C}mine ^{Bb} un duh ^{F}nou, ^{Dm}statornic, ^{C}Dumnezeu^{F}le!
 
 [c]
-Nu mă lepăda de la fața Ta
-Și nu lua de la mine Duhul Tău cel Sfânt!
-Dă-mi iarăși bucuria mântuirii Tale,
-Umple-mă cu Duhul Tău cel Sfânt!
+^{Bb}Nu mă lepă^{C}da de la ^{F}fața ^{Dm}Ta
+Și ^{Bb}nu lua de la ^{C}mine Duhul ^{F}Tău cel ^{F}Sfânt.
+^{Bb} Dă-mi iarăși ^{C}bucuria ^{A}mântuirii ^{Dm}Tale,
+^{Bb}Umple-mă cu ^{C}Duhul Tău cel ^{F}Sfânt.

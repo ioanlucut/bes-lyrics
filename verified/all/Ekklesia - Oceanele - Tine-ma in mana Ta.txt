@@ -1,17 +1,19 @@
 [title]
-Oceanele {alternative: {Ține-mă în mâna Ta}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4148}, id: {8GqhRAkYY3eGAJY1NZUw6Z}, contentHash: {4c9a6d}}
+Oceanele {alternative: {Ține-mă în mâna Ta}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4148}, id: {8GqhRAkYY3eGAJY1NZUw6Z}, contentHash: {9d13bf}}
 
 [sequence]
 v1,c,v2,c,v2,c
 
 [v1]
-Ține-mă în mâna Ta, să m-ascunzi întinde-Ți aripa.
+^{C}Ți^{G/B}ne-^{Am}mă în ^{F}mâ^{D/F#}na ^{G}Ta,
+^{C}Să ^{G/B}m-as^{Am}cunzi în^{F}tinde-Ți ^{Dm}ari^{G}pa.
 
 [c]
-/: Când oceanele cumplit vuiesc,
-Doamne, dă-mi puteri să biruiesc.
-Tată, știu că Tu ești veghetor,
-Stau liniștit, știu că ești Domn. :/
+/: ^{C}Când o^{C/E}ceane^{F}le cum^{G}plit vu^{C}iesc,
+Doamne, ^{C/E}dă-mi pu^{F}teri să ^{G}biru^{Am}iesc.
+^{C}Tată, ^{C/E}știu că ^{F}Tu ești ^{G}veghe^{C}tor,
+^{G/B}Stau liniș^{F/A}tit, știu ^{G}că ești ^{C}Domn.
+Stau liniș^{F/A}tit, știu ^{G}că ești ^{C}Domn. :/
 
 [v2]
 Doar în Hristos mă odihnesc,

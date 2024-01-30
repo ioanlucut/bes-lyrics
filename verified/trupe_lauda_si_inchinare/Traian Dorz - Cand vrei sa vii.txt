@@ -1,20 +1,20 @@
 [title]
-Când vrei să vii? {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6692}, id: {6RQupJv7v12kCw4PcaUUAq}, contentHash: {1ad1a8}}
+Când vrei să vii? {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6692}, id: {6RQupJv7v12kCw4PcaUUAq}, contentHash: {b578ba}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Când vrei să vii, când vrei să-ntorci,
-Când vrei să vii la Dumnezeu,
-Când vrei să-ntorci din calea rea,
-De ce tot vrei s-amâni mereu?
+Când vrei să ^{A}vii, când vrei să-n^{F#m7}torci,
+Când vrei să ^{D/B}vii ^{D/E}la Dumne^{A}zeu,
+Când vrei să-n^{D}torci din calea ^{Bm}rea,
+De ce tot ^{A/E}vrei s-a{E7}mâni me^{A}reu?
 
 [c]
-O, vino, o, vino,
-Te-ntoarce să scapi de la pierzare.
-Nu amâna, nu amâna,
-E poate ultima chemare.
+^{A}O, vino, o, {E7}vino,
+Te-n^{A}toarce să ^{D/B}scapi de ^{D/E}la pier^{A}zare.
+Nu amâ^{D}na, nu a^{A}mâ^{F#m}na,
+E poate ^{A/E}ultima che^{E7}ma^{A}re.
 
 [v2]
 Când vrei să vii, când vrei să spui,
@@ -23,7 +23,7 @@ Acum vreau și eu să-ntorc,
 Nu vreau să mai amân mereu!”
 
 [v3]
-Mai este loc, mai este har,
-O, vin’ acum la Dumnezeu.
-Căci s-ar putea să pieri pe veci,
-Dacă și azi amâni mereu!
+Mai este ^{B}loc, mai este ^{G#m7}har,
+O, vin’ ^{E/C#}acum ^{E/F#}la Dumne^{B}zeu.
+Căci s-ar pu^{E}tea să pieri pe ^{C#m}veci,
+Dacă și ^{B/F#}azi a^{F#7}mâni me^{B}reu!

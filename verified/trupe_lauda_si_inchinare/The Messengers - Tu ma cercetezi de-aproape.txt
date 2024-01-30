@@ -1,20 +1,20 @@
 [title]
-Tu mă cercetezi de-aproape {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58041}, id: {sndwaMn41QbgoMpQKkpzf4}, contentHash: {9ba8de}}
+Tu mă cercetezi de-aproape {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58041}, id: {sndwaMn41QbgoMpQKkpzf4}, contentHash: {b00246}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Tu mă cercetezi de-aproape, Doamne, Tu mă ocrotești.
-De departe-mi pătrunzi gândul, căile-mi cunoști.
-Unde voi putea, o, Doamne să m-ascund de fața Ta,
-Căci viața e-n mâna Ta?
+^{G}Tu mă cercetezi de-a^{Bm}proape, Doamne, ^{C}Tu mă ocro^{G}tești.
+De departe-mi pătrunzi ^{Em}gândul, ^{A}căile-mi cu^{D}noști.
+Unde ^{G}voi putea, o, ^{Bm}Doamne să m-as^{G}cund de fața Ta,
+Căci via^{Am}ța e-n mâna ^{D4-D}Ta?
 
 [c]
-/: Eu Te laud, Doamne, pentru ce sunt,
-Pentru marea jertfă și iubirea Ta,
-Viața ce-am primit-o din mâna Ta
-O închin ca laudă pentru slava Ta. :/
+/: Eu Te ^{G}laud, Doamne, ^{C}pentru ce ^{G}sunt,
+^{G}Pentru marea ^{Em}jertfă ^{A}și iubirea ^{D}Ta!
+Viața ^{G}ce-am primit-o ^{C}din mâna ^{G}Ta
+O în^{Em}chin ca laudă ^{D}pentru slava ^{G}Ta. :/
 
 [v2]
 Când cei răi mă înconjoară și cu ură mă privesc,

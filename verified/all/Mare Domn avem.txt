@@ -1,23 +1,18 @@
 [title]
-Mare Domn avem {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61360}, id: {wFJGP21rDxqrgQxAWvyfmw}, contentHash: {8929f3}}
+Mare Domn avem {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61360}, id: {wFJGP21rDxqrgQxAWvyfmw}, contentHash: {713685}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-/: Mare Domn avem,
-Mare Dumnezeu,
-Mare Împărat,
-Pe toate le-ai creat. :/
+/: ^{G}Mare ^{Bm}Domn a^{C (C-D)}vem,
+^{G}Mare ^{Bm}Dumne^{C (C-D)}zeu,
+^{G}Mare ^{Bm}Împă^{C (C-D)}rat, ^{Em}pe toate ^{D}le-ai cre^{G}at. :/
 
 [v2]
-/: Glorie Domnului,
-Glorie numai Lui,
-El e Împărat,
-Pe toate le-a creat. :/
+/: Glorie Domnului, glorie numai Lui,
+El e Împărat, pe toate le-a creat! :/
 
 [c]
-/: Numele Lui e pe-ntreg
-Pământul înălțat.
-Atotputernic,
-El lumea-ntreagă a creat. :/
+/: Numele ^{F}Lui e ^{C}pe-ntreg pământul î^{G}nălțat.
+Atotpu^{F}ternic, El ^{C}lumea-ntreagă a ^{D}creat. :/

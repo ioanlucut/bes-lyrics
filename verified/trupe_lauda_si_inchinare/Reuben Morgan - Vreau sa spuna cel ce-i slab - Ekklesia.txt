@@ -1,0 +1,21 @@
+[title]
+Vreau să spună cel ce-i slab {alternative: {What the Lord Has Done in Me}, composer: {*}, writer: {Reuben Morgan}, arranger: {*}, interpreter: {Hillsong Worship}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Ekklesia}, genre: {*}, rcId: {*}, id: {nnHZwAHTXdh2BcFtrZWfDh}, contentHash: {b279fe}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vreau să ^{C}spună ^{G/B}cel ce-i ^{Am}slab: „Eu sunt ^{F}tare ^{G}în Hris^{Am}tos!”
+Cel ^{G/B}să^{C}rac: „eu ^{G}sunt bo^{Am}gat!”, iar cel ^{F}orb: „sunt ^{G}sănă^{C}tos!”
+
+[c]
+/: O^{G}sana, o^{Am}sana Mielu^{F}lui ce-a fost ‘jun^{C}ghiat!
+O^{G}sana, o^{Am}sana ^{G/B}Celui ^{C}mort și ^{G}învi^{C}at! :/
+
+[v2]
+Tot ce-a fost rău și murdar mi-ai iertat prin al Tău har.
+Ca un râu iubirea Ta umple azi inima mea.
+
+[v3]
+Știu că mă vei ridica chiar de-aș fi-n adânc de mări.
+Bucuros Te voi slăvi, cântarea mea Te va mări.

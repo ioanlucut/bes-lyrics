@@ -1,18 +1,18 @@
 [title]
-Aleluia, Agnus Dei {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5UrZjjSzaiJUuniVLTmcdz}, contentHash: {60654c}}
+Aleluia, Agnus Dei {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5UrZjjSzaiJUuniVLTmcdz}, contentHash: {d91d2b}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-/: Aleluia, aleluia,
-Domnul nostru domnește în veci. :/
+/: ^{G}A^{G4}a^{G}le^{C}lu^{G}ia, ^{G4}a^{G}le^{C}lu^{D}u^{Em}ia,
+Domnul ^{D}nostru dom{C}nește în ^{G}veci. :/
 
 [c]
-Aleluia,
-Tu ești sfânt, ești sfânt,
-Domnul nostru din ceruri,
-/: Vrednic ești în veci, :/
-Căci Tu doar ești sfânt, ești sfânt,
-Domnul nostru din ceruri
-/: Vrednic ești în veci, :/ Amin!
+^{G}A^{G4}a^{G}le^{C D}lu^{Em}ia,
+^{C/E}Tu ^{D/F#}ești ^{G}sfânt, ^{D}ești ^{G}sfânt,
+Domnul ^{C}nos^{G}tru din ^{Em}ce^{D}ruri,
+/: ^{Am}Vrednic ^{G/B}ești în ^{C}veci, :/
+Căci Tu doar ești {G}sfânt, ^{D}ești ^{G}sfânt,
+Domnul ^{C}nos^{G}tru din ^{Em}ce^{D}ruri
+/: ^{Am}Vrednic ^{G/B}ești în ^{C}veci, :/ ^{A}A{D G}min!

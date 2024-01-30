@@ -1,22 +1,22 @@
 [title]
-Cânt Domnului căci mi-a făcut bine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4121}, id: {g9FxmVFqGHbFd5PVYMXUKh}, contentHash: {90a18f}}
+Cânt Domnului căci mi-a făcut bine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4121}, id: {g9FxmVFqGHbFd5PVYMXUKh}, contentHash: {873dcf}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Cânt Domnului căci mi-a făcut bine,
-Lui Dumnezeu glorie!
-Mi se bucură inima-n mine,
-Lui Dumnezeu glorie!
+^{G}Cânt Domnului căci mi-a făcut ^{C/G}bi^{G}ne,
+^{Em}Lui Dumnezeu glori^{D7}e!
+Mi se ^{G}bucură inima-n ^{C/G}mi^{G}ne,
+^{Em}Lui Dumnezeu ^{G/D}glo^{D7}ri^{G}e!
 
 [c]
-/: Cânt lui Dumnezeu glorie!
-Și tot pământul să-I cânte
-Lui Dumnezeu glorie!
-El mi-a adus mântuire,
-De-aceea cânt pe vecie
-Lui Dumnezeu glorie! :/
+/: ^{G}Cânt lui Dumnezeu glo^{G7}rie!
+^{C}Și tot pământul să-I cân^{G}te
+^{Em}Lui Dumnezeu glo^{D7}rie!
+^{G}El mi-a adus mântui^{G7}re,
+De-a^{C}ceea cânt pe veci^{G}e
+^{Em}Lui Dumnezeu ^{G/D}glo^{D7}ri^{G}e!  :/
 
 [v2]
 Cu natura-ntreagă să cânt și eu,

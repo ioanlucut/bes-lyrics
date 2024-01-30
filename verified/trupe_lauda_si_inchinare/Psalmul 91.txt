@@ -1,21 +1,21 @@
 [title]
-Psalmul 91 {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4853}, id: {kUF4Swuq3aPL9PfvLo8vWb}, contentHash: {5aeb4d}}
+Psalmul 91 {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4853}, id: {kUF4Swuq3aPL9PfvLo8vWb}, contentHash: {a2398a}}
 
 [sequence]
 c,v1,c,v2,c
 
 [v1]
-Cel ce stă sub ocrotirea Celui Prea-nalt,
-La umbra Celui Atotputernic,
-Face din El loc de scăpare
-Căci Domnul sfânt
-/: E Dumnezeul meu în care mă-ncred. :/
+Cel ce ^{A}stă sub ocro^{D}tirea Celui Preaî{A}nalt,
+La umbra ^{Bm}Celui Atotpu^{E4}ter^{E}nic,
+Face din ^{A}El loc de scă^{D}pare, căci Domnul ^{A}sfânt
+E Dumne^{F#m}zeul meu în ^{E7}care mă-n^{A D/A}cred.
+E Dumne^{A}zeul meu ^{E7}în care mă-n^{A}cred.
 
 [c]
-/: O mie să cadă alături de tine
-Și zece mii la dreapta ta de vor cădea,
-Cu ochii privește să vezi răsplătirea
-Acelui rău, doar harul Său te va salva. :/
+/: O ^{A}mie să cadă ală^{F#m}turi de tine
+Și zece ^{D}mii la dreapta ta de vor ^{A/E}că^{E}dea,
+Cu ^{A}ochii privește să ^{F#m}vezi răsplătirea
+Acelui ^{D}rău, doar ha^{E7}rul Său te va ^{A}salva. :/
 
 [v2]
 Să nu te temi de groaza din

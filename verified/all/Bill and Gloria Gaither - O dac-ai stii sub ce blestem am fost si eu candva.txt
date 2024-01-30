@@ -1,28 +1,28 @@
 [title]
-O, dac-ai știi sub ce blestem am fost și eu cândva {alternative: {*}, composer: {Bill and Gloria Gaither}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {163577}, id: {svLpdaXZVJEJFmUKf6qrgj}, contentHash: {63bfde}}
+O, dac-ai știi sub ce blestem am fost și eu cândva {alternative: {*}, composer: {Bill and Gloria Gaither}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {163577}, id: {svLpdaXZVJEJFmUKf6qrgj}, contentHash: {d3a2d2}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-O, dac-ai știi sub ce blestem
-Am fost și eu cândva,
-O, de-ai simți ce deznădejdi
-Muncit-au ființa mea,
+{D}O, dac-ai ^{G}știi sub ce blestem
+Am ^{D}fost și ^{Bm}eu ^{A/C#}când^{D}va,
+O, ^{Gmaj7}de-ai sim^{Em7}ți ce ^{Bm/A}deznă^{A}dejdi
+Mun^{G}cit-au ființa ^{D}mea,
 
 [v1.2]
-Te-ai întreba ce sfânt mister
-Viața mi-a schimbat
-Făcând din tristul condamnat
-Un păcătos iertat.
+^{D}Te-ai întreba ce ^{C/A}sfânt mis^{D/B}ter
+Vi^{C}ața mi-a schim^{Em}bat
+Fă^{Em/G}când din ^{Bm}tristul ^{A}condam^{G}nat
+Un ^{D/A}pă^{G}că^{F#m}tos ^{A7}ier^{D}tat.
 
 [c]
-/: Sunt păcătosul salvat prin har,
-Eliberat prin jertfa de pe Calvar.
-Și trăiesc în libertate,
-Izbăvit de-al meu trecut,
-Sunt păcătosul salvat din moarte
-Iertat de toate prin al Său har. :/
+/: ^{G/A}Sunt păcă^{D}tosul ^{G}salvat prin ^{D}har,
+Elibe^{G/D}rat prin ^{D}jertfa de pe Cal^{A-E/B-A7}var.
+Și tră^{D}iesc în liber^{G}tate,
+Izbă^{F#}vit de-al meu tre^{Bm}cut,
+^{G}Sunt păcă^{D}tosul sal^{G}vat din ^{D}moarte
+^{G}Iertat de ^{D/A}toa^{Bm}te ^{Em}prin ^{A7}al Său ^{D}har. :/
 
 [v2.1]
 Salvarea mea s-a scris

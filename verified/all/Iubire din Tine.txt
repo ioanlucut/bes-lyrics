@@ -1,17 +1,15 @@
 [title]
-Iubire din Tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8unAZ7XGWPXU8k3FYivxLn}, contentHash: {c21a27}}
+Iubire din Tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8unAZ7XGWPXU8k3FYivxLn}, contentHash: {72aa54}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Iubire din Tine,
-Pune Tu în viața mea
-Putere, răbdare,
-Plin de Duh să fiu aș vrea.
+^{Em}Iubire ^{C}din Tine ^{D}pune Tu în viața ^{Em}mea,
+^{Em}Putere, ^{C}răbdare, ^{D}plin de Duh să fiu aș ^{Em}vrea.
 
 [c]
-/: Și mă voi închina cu viața mea,
-Și mă voi închina cu sufletul meu,
-Și mă voi închina cu viața mea,
-Tu ești Domnul meu, ești Domnul meu! :/
+/: Și mă voi închi^{Am}na cu viața ^{Em}mea,
+Și mă voi închi^{Am}na cu sufletul ^{Em}meu,
+Și mă voi închi^{Am}na cu viața ^{Em}mea,
+Tu ești Domnul ^{C//}meu, ^{D/} ^{Em}ești Domnul ^{C}meu! :/

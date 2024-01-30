@@ -1,15 +1,15 @@
 [title]
-În Numele Celui ce ne-a iubit {alternative: {*}, composer: {Shalom}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7013}, id: {q6NaWXd6FxX8SSkdVzRyEP}, contentHash: {751a19}}
+În Numele Celui ce ne-a iubit {alternative: {*}, composer: {Shalom}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7013}, id: {q6NaWXd6FxX8SSkdVzRyEP}, contentHash: {399812}}
 
 [sequence]
 v1,v2,v3
 
 [v1]
-În Numele Celui ce ne-a iubit pe cruce,
-În Numele Fiului Tău ne-nchinăm.
-/: Suntem aici, n-avem ce spune,
-Vrem să fim fiii Tăi în lume,
-Vrem glorie și-onoare-n veci să Îți dăm. :/
+În Nume^{B}le Celui ce ^{C#m7}ne-a {F#7}iubit pe ^{B}cruce,
+În Nu^{D#m}mele Fiului ^{E}Tău ne-nchi^{F#4-F#}năm.
+/: Suntem a^{G#m}ici, n-avem ce ^{E}spune,
+Vrem să fim ^{D#m7}fiii Tăi în ^{G#m}lume,
+Vrem glo^{B/F#}rie și-onoare-n ^{E/F#}veci ^{F#7}ca să Îți ^{B}dăm. :/
 
 [v2]
 Te rog să mai reverși spre noi puțină milă,

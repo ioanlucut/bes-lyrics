@@ -1,41 +1,36 @@
 [title]
-Mâinile ridicăm când ne rugăm {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4317}, id: {jsa2wDaH3LwvrtY8bCPzg6}, contentHash: {43ae7a}}
+Mâinile ridicăm când ne rugăm {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4317}, id: {jsa2wDaH3LwvrtY8bCPzg6}, contentHash: {3431bb}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,e
 
 [v1.1]
-Mâinile ridicăm când ne rugăm,
-Numele Tău chemăm, Ție ne-nchinăm.
-Am venit, Doamne, aici să Te-ntâlnim
-Dumnezeu plin de har ești doar Tu.
+^{Am}Mâini^{F}le ridi^{G}căm când ne ru^{Am}găm,
+Nume^{F}le Tău che^{G}măm, Ție ne-nchi^{Am}năm.
+Am ven^{F}it, Doamne, ^{G}aici să Te-ntâl^{Am}nim
+Dumne^{F}zeu plin de ^{G}har ești doar ^{C}Tu.
 
 [v1.2]
-Te-adorăm doar pe Tine, Te lăudăm,
-Numai Tu ești Dumnezeu,
-Numai Tu, numai Tu.
+^{C}Te-ado^{F}răm doar pe ^{C/F}Tine, Te lău^{F}dăm,
+Numai ^{C}Tu ești ^{F}Dumnezeu, ^{C}numai Tu, numai ^{F}Tu.
 
 [c1.1]
-/: Sfânt ești, sfânt ești,
-Doar Tu, Domnul meu!
-Sfânt e, sfânt e doar Numele Tău! :/
+/: ^{G}Sfânt ești, sfânt ești doar Tu, ^{F}Domnul meu!
+^{G}Sfânt e, sfânt e doar Nu^{F}mele ^{C}Tău! :/
 
 [c1.2]
-Numai Tu ești Dumnezeu,
-Numai Tu, numai Tu.
+Numai ^{C}Tu ești Dumne^{F}zeu, numai ^{C/E}Tu, numai ^{F}Tu.
 
 [v2.1]
-Mâinile ridicăm, Numele Tău chemăm,
-Am venit, Doamne, aici Ție să ne-nchinăm!
-Sfânt ești doar Tu!
+Mâini^{G}le ridicăm, Nume^{F}le Tău che^{C}măm,
+Am ve^{G}nit, Doamne, aici Ție ^{F}să ne-nchi^{C}năm!
+Sfânt ești doar ^{C}Tu!
 
 [v2.2]
-Te-adorăm doar pe Tine, Te lăudăm,
-Numai Tu ești Dumnezeu,
-Numai Tu, numai Tu.
+^{C}Te-ado^{F}răm doar pe ^{C}Tine, Te lău^{F}dăm,
+Numai ^{C}Tu ești Dumne^{F}zeu, numai ^{C}Tu, numai ^{F}Tu.
 
 [e]
 Sfânt ești doar Tu.
 Te-adorăm doar pe Tine, Te lăudăm,
-Numai Tu ești Dumnezeu,
-Numai Tu, numai Tu.
+Numai Tu ești Dumnezeu, numai Tu, numai Tu.

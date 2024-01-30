@@ -1,17 +1,16 @@
 [title]
-Tată, Te slăvesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {whyn4aVjCqX4JyqzB5YoZP}, contentHash: {d73e74}}
+Tată, Te slăvesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {whyn4aVjCqX4JyqzB5YoZP}, contentHash: {42ebc2}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Tată, Te slăvesc,
-Te ador și-Ți mulțumesc,
-Fii glorificat în veci de veci!
+^{A}Tată, Te slă^{Bm}vesc, Te a^{E7}dor și-Ți mulțu^{A}mesc,
+Fii glorifi^{D}cat în veci de ^{E4-E}veci!
 
 [c]
-/: Fii glorificat, fii glorificat,
-Fii glorificat în veci de veci! :/
+/: ^{A/C#}Fii glorifi^{D}cat, ^{C#7}fii glorifi^{F#m}cat,
+^{D/B}Fii glorifi^{E7}cat în veci de ^{A}veci! :/
 
 [v2]
 Isus Te slăvesc,

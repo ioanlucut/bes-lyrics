@@ -1,32 +1,32 @@
 [title]
-Dacă vei vrea să primești cununa ta din veșnicii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1414}, id: {t4HnGfmML4drXrtV3DuH2w}, contentHash: {f89590}}
+Dacă vei vrea să primești cununa ta din veșnicii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1414}, id: {t4HnGfmML4drXrtV3DuH2w}, contentHash: {66e414}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
 
 [v1.1]
-Dacă vei vrea să primești
-Cununa ta din veșnicii,
-Caută-L pe Dumnezeu,
-Fiul Său de azi vei fi.
+Dacă vei ^{A}vrea să pri^{(F#m7}mești
+Cununa ^{D/Bm}ta din ^{E}veșnicii, ^{A}
+Caută-L pe Dumne^{(F#m7)}zeu,
+Fiul Său de ^{E}azi vei fi. ^{A}
 
 [v1.2]
-Isus din cer a venit,
-Pe Golgota El S-a jertfit,
-Orice păcat ți-a spălat,
-Ca să fii azi mântuit.
+Isus ^{A}din cer a ^{(F#m7)}venit,
+Pe Golgota ^{D/Bm}El ^{E}S-a jert^{A}fit,
+Orice păcat ți-a ^{(F#m7)}spălat,
+Ca să fii ^{E}azi mântu{A}it.
 
 [c1.1]
-Aur, argint și palate
-Nu te-or scăpa de la moarte.
-Timpul aproape-i trecut,
-Cu viața ta ce-ai făcut?
+^{A}Aur, argint și pa^{E}late
+^{Bm}Nu te-or scă^{E7}pa de la ^{A}moarte.
+Timpul ^{A/F#7m}aproape-i trecut,
+^{E}Cu ^{D/Bm}viața ^{E}ta ce-ai făcut? ^{A}
 
 [c1.2]
-Din tine, ce-o să rămână?
-Ești doar un pumn de țărână,
-Sufletul e tot ce ai,
-Oare cui vrei să-l predai?
+Din tine, ce-o să ră^{E}mână?
+^{Bm}Ești doar un ^{E7}pumn de ță^{A}rână,
+Sufletul e tot ce ^{F#7m}ai,
+Oa^{E}re cui vrei să-l predai? ^{A}
 
 [v2.1]
 Sângele care a curs

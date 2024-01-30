@@ -1,25 +1,24 @@
 [title]
-Glorie, osanale, către cer să privim {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mDVbCQ54SEgTErP6vYZrtJ}, contentHash: {73f0eb}}
+Glorie, osanale, către cer să privim {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mDVbCQ54SEgTErP6vYZrtJ}, contentHash: {455b2b}}
 
 [sequence]
 c,v1,c,v2,c,e
 
 [c]
-/: Glorie, osanale, către cer să privim,
-Domnului închinare, Aleluia, Amin! :/
+/: ^{E}Glorie, o^{A}sa^{B}nale, către cer să ^{A}pri^{B}vim,
+^{E}Domnului în^{A}chi^{B}nare, ^{E}aleluia, amin! :/
 
 [v1]
-Trupul Său sfânt, pe-acest pământ
-L-a jertfit pe cruce răstingnit,
-Dar a-nviat, S-a înălțat,
-Hristos domnește ca-mpărat!
+^{A}Trupul Său sfânt, ^{E}pe-acest pământ,
+L-a jert^{A}fit pe cruce răsting^{E}nit,
+Dar ^{A}a-nviat, S-a ^{E/G#}înălțat,
+^{A}Hristos domnește ca-^{E}mpărat!
 
 [v2]
-Ne bucurăm, slavă Îi dăm
-Pentru veci, iubirea Sa cântăm,
-A înviat, S-a înălțat,
-Da, Hristos e Împărat!
+^{Bb}Ne bucurăm, ^{F}slavă Îi dăm
+Pentru ^{Bb}veci, iubirea Sa cân^{F}tăm,
+^{Bb}A înviat, ^{F/A}S-a înălțat,
+^{Bb}Da, Hristos e Împă^{F}rat!
 
 [e]
-Aleluia, Amin!
-Aleluia, Amin!
+^{G}Aleluia, amin! (x3)

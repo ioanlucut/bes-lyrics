@@ -1,47 +1,33 @@
 [title]
-Pentru noi e taină mare {alternative: {*}, composer: {Speranța și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5545}, id: {jpUBuZE21LekLdWZUKoLz9}, contentHash: {3355aa}}
+Pentru noi e taină mare {alternative: {*}, composer: {Speranța și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5545}, id: {jpUBuZE21LekLdWZUKoLz9}, contentHash: {de63be}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-Pentru noi e taină mare
-Ce va fi în viitor,
-Poate e o zi cu soare,
-Poate e o zi cu nor.
+Pentru ^{A}noi e taină mare ce va ^{D}fi în vii^{A}tor,
+Poate ^{D}e o zi cu ^{A}soare, poate ^{F#m}e o zi cu ^{E/G#}nor.
 
 [v1.2]
-Însă știu că-ngrijorarea
-Să o las va trebui,
-Dumnezeu și îndurarea,
-În etern, vor dăinui.
+Însă ^{A}știu că-ngrijorarea să o ^{D}las va tre^{A}bui,
+Dumne^{D}zeu și îndu^{A}rarea în ^{F#m}etern ^{E7}vor dăi^{A}nui.
 
 [c]
-/: Nu pot ști ce fi-va mâine,
-Însă știu că Dumnezeu
-Îngrijește și de mine
-Căci și eu sunt fiul Său. :/
+/: Nu pot ^{D}ști ce fi-va ^{A}mâine, însă ^{B7}știu că Dumne^{E}zeu
+Îngri^{A}jește și de ^{D}mine căci și ^{A/E}eu sunt ^{E7}fiul ^{A}Său. :/
 
 [v2.1]
-Parcă urc trepte de aur,
-Către culmi de har ceresc
-Și zăresc măreț tezaur,
-Oare când îl dobândesc?
+Parcă urc trepte de aur, către culmi de har ceresc
+Și zăresc măreț tezaur, oare când îl dobândesc?
 
 [v2.2]
-E un loc de strălucire,
-Curcubeu multicolor.
-Când voi fi în nemurire
-Cu al meu Mântuitor?
+E un loc de strălucire, curcubeu multicolor.
+Când voi fi în nemurire cu al meu Mântuitor?
 
 [v3.1]
-Ce va fi, e taină mare
-S-ar putea s-ajung sărac,
-S-ar putea să n-am mâncare,
-Sau să n-am ce să îmbrac.
+Ce va fi e taină mare, s-ar putea s-ajung sărac,
+S-ar putea să n-am mâncare, sau să n-am ce să îmbrac.
 
 [v3.2]
-Pentru flori și păsărele,
-Dumnezeu e Tată bun,
-Însă vrea, prin orice rele,
-Eul meu să i-L supun.
+Pentru flori și păsărele, Dumnezeu e Tată bun,
+Însă vrea, prin orice rele, eul meu să i-L supun.

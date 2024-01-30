@@ -1,23 +1,23 @@
 [title]
-Meriți toată slava, meriți toată cinstea {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6645}, id: {cdbfEbpcQ84fBmhrz6QXwK}, contentHash: {24b670}}
+Meriți toată slava, meriți toată cinstea {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6645}, id: {cdbfEbpcQ84fBmhrz6QXwK}, contentHash: {c1664b}}
 
 [sequence]
 v1,c,b,v1,c,b,c
 
 [v1]
-Meriți toată slava, meriți toată cinstea,
-Meriți lauda și închinarea,
-Meriți toată slava, meriți toată cinstea,
-Meriți lauda și închinarea, Dumnezeule!
+^{A}Meriți toată slava, ^{C#m7}meriți toată cinstea,
+^{D}Meriți lau^{Bm}da și închi^{E4}na^{E7}rea,
+^{A}Meriți toată slava, ^{C#m}meriți toată cinstea,
+^{D}Meriți lau^{Bm}da și închi^{E4}na^{E7}rea, Dumnezeu^{A}le!
 
 [c]
-/: Pentru mine, un păcătos,
-L-ai trimis pe Hristos
-Sus pe dealul Golgota
-Ca să poarte vina mea. :/
-Să fiu salvat, să fiu iertat,
-Prin Isus, răscumpărat.
+/: Pentru mine, un păcătos, L-ai tri^{D}mis pe Hristos
+Sus pe ^{F}dealul Golgota ca să ^{A}poarte vina mea. :/
+Să fiu sal^{D}vat, să fiu ier^{E7}tat,
+Prin I^{D}sus, ^{E7}răscumpă^{A}rat.
 
 [b]
-/: Cântăm glorie, cântăm glorie,
-Osana Domnului, slavă și mărire! :/
+Cântăm glorie, cân^{F#m}tăm glorie,
+O^{D}sana Domnu^{E7}lui, ^{D/F#}slavă și mă^{E/G#}rire!
+Cân^{A}tăm glorie, cân^{F#m}tăm glorie,
+O^{D}sana Domnu^{E7}lui, slavă și mă^{A}rire!

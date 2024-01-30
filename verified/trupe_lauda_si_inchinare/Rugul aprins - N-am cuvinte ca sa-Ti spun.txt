@@ -1,26 +1,21 @@
 [title]
-N-am cuvinte ca să-Ți spun {alternative: {*}, composer: {Rugul aprins}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {85668}, id: {fe5TXqDW6EqxtoyYTBrSQ9}, contentHash: {1d876e}}
+N-am cuvinte ca să-Ți spun {alternative: {*}, composer: {Rugul aprins}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {85668}, id: {fe5TXqDW6EqxtoyYTBrSQ9}, contentHash: {f91d91}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-N-am cuvinte ca să-Ți spun,
-Cât ești, Tu, Doamne, de bun,
-Te-ai plecat spre min’, m-ai mântuit,
-Mi-ai luat povara grea,
-Ai dus-o la Golgota
-Și mi-ai dat în schimb pacea Ta.
+^{Em}N-am cuvinte ca să-Ți spun,
+^{Em}Cât ești, Tu, Doamne, de bun,
+^{B7}Te-ai plecat spre min’, m-ai mân^{Em}tuit,
+^{Em}Mi-ai luat povara grea, ^{Em}mi-ai dus-o la Golgota
+^{B7}Și mi-ai dat în schimb mântui^{Em}rea ^{Em-D-Em-D/F#}
 
 [c]
-Tu ești Cel mai minunat,
-Ești al lumii Împărat,
-De aceea eu Îți cânt,
-Slavă ne-ncetat!
-Dai lumină zorilor,
-Strălucire stelelor,
-Nimeni-n lume nu-i ca Tine,
-Puternic, Dumnezeu!
+^{G}Tu ești Cel mai mi^{D}nunat, ^{Em}ești al lumii ^{B7}Împărat,
+^{G}De aceea ^{D}eu Îți ^{C}cânt ^{C}slavă ^{D}ne-^{G}ncetat!
+^{G}Dai lumină ^{D}zorilor, ^{Em}strălucire ^{B7}stelelor,
+^{G}Nimeni-n ^{Am}lume nu-i ca Tine, ^{E/B}Puternic, ^{B7}Dumne^{Em}zeu!
 
 [v2]
 Fericit eu am să-Ți cânt,

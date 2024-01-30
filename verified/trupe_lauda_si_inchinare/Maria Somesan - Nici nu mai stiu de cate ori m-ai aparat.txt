@@ -1,15 +1,15 @@
 [title]
-Nici nu mai știu de câte ori m-ai apărat {alternative: {*}, composer: {Maria Someșan}, writer: {Maria Someșan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {55656}, id: {oq9jSDhCeaLQaF4iojjgTS}, contentHash: {efb683}}
+Nici nu mai știu de câte ori m-ai apărat {alternative: {*}, composer: {Maria Someșan}, writer: {Maria Someșan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {55656}, id: {oq9jSDhCeaLQaF4iojjgTS}, contentHash: {43094f}}
 
 [sequence]
 v1,v2,v3,v4,v5,e
 
 [v1]
-Nici nu mai știu de câte ori m-ai apărat,
-Nici nu mai știu din ce primejdii m-ai scăpat,
-/: Nici nu m-ai știu cât m-am temut,
-Dar Tu pe brațe m-ai ținut,
-Și știu sigur că fără Tine-aș fi pierdut! :/
+Nici nu mai ^{C}știu de câte ori m-ai apărat,
+Nici nu mai știu din ce pri^{G}mejdii ^{D7}m-ai scă{G}pat,
+/: Nici ^{G7}nu m-ai ^{C}știu cât m-am te^{G}mut,
+Dar ^{F}Tu pe brațe m-ai ținut,
+Și ^{C}știu sigur că fără Tine-aș fi pierdut! :/
 
 [v2]
 Nici nu mai știu de câte ori m-ai ridicat,

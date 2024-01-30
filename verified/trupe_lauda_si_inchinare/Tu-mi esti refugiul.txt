@@ -1,22 +1,24 @@
 [title]
-Tu-mi ești refugiul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4291}, id: {662kRy77cLwEwr7MxEErtr}, contentHash: {4f7c34}}
+Tu-mi ești refugiul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4291}, id: {662kRy77cLwEwr7MxEErtr}, contentHash: {69a1f8}}
 
 [sequence]
 v1.1,v1.2,c,v2,c
 
 [v1.1]
-Tu-mi ești refugiul când sunt slab,
-Tu ești scăparea ce o am,
-Tu ești în toate Domn.
+^{D}Tu-mi ești ^{A}refugiul când sunt ^{Bm}slab,
+Tu ești scă^{D/F#}parea ce o ^{G2}am,
+Tu ești în ^{A4}toa{A}te ^{D}Domn. ^{A4 A}
 
 [v1.2]
-Mâna-mi întinzi atunci când cad,
-Când sunt setos, Tu apă-mi dai,
-Tu ești în toate Domn.
+^{D}Mâna-mi în^{A}tinzi atunci când ^{Bm}cad,
+Când sunt ^{D/F#}setos, Tu apă-mi ^{G2}dai,
+Tu ești în ^{A4}toa^{A}te ^{D}Domn.
 
 [c]
-/: Isus, Miel preasfânt, Ție mă închin.
-Isus, Miel preasfânt, Dumnezeu divin. :/
+/: ^{D}I^{A}sus, ^{Bm}Miel ^{A/C#}prea^{D}sfânt,
+^{G}Ție ^{D/A}mă ^{A7}în^{D}chin ^{A4 A}.
+^{D}I^{A}sus, ^{Bm}Miel ^{A/C#}prea^{D}sfânt,
+^{G}Dumne^{D/A}zeu ^{A7}di^{D}vin. :/
 
 [v2]
 Tu ai luat rușinea mea, m-ai ridicat în slava Ta,

@@ -1,23 +1,23 @@
 [title]
-Dați de veste {alternative: {*}, composer: {Anonim}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157330}, id: {3LEqtpDXFqjzzwgeFDm77T}, contentHash: {7a9365}}
+Dați de veste {alternative: {*}, composer: {Anonim}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157330}, id: {3LEqtpDXFqjzzwgeFDm77T}, contentHash: {893896}}
 
 [sequence]
 v1,c,v2,c,e
 
 [v1]
-Soarele-a apus ca-n orice zi,
-Dar neștiind lumea a adormit.
-Era o noapte obișnuită
-Pentru cei nepăsători,
-Însă cei ce-au așteptat demult
-Așa au auzit:
+^{Eb}Soarele-a a^{Db}pus ca-n ^{Ab}orice zi,
+Dar ne^{Eb}știind lu^Db}mea a a^{Bb}dormit.
+^{Eb}Era o noapte obișnu^{Ab}ită
+Pentru ^{G}cei nepăsă^{Cm}tori,
+Însă cei ^{Em7}ce-au aș^{Eb}teptat demult
+A^{Ab}șa au auzit:
 
 [c]
-Dați de veste, îngerii cântă
-Glorie, glorie, Rege S-a născut!
-Dați de veste, îngerii cântă
-Glorie Regelui de sus,
-Glorie Regelui Isus.
+^{Ab}Dați de veste, îngerii ^{Bb}cântă
+^{Bb}Glorie, ^{Cm}glorie, ^{Bb}Rege S-a născut!
+^{Ab}Dați de veste, îngerii ^{Bb}cântă
+^{Bb}Glorie Rege^{Ab}lui ^{Bb}de sus,
+^{Eb}Glorie ^{Ab}Regelui ^{Bb}I^{Eb}sus. ^{Ab}
 
 [v2]
 Vestea era purtată ca de vânt:
@@ -28,11 +28,11 @@ Vestea bună-a mântuirii
 Spuneți tuturor.
 
 [e]
-/: Să-I cântăm, glorie, glorie
-Regelui, glorie, glorie!
-Răspândiți peste tot:
-Isus S-a născut, e salvator.
-Să-I cântăm, glorie, glorie
-Regelui, glorie, glorie!
-Veniți cu toții să ne-nchinăm
-Înaintea Lui, să-L adorăm. :/
+/: ^{Cm}Să-I cântăm, ^{G}glorie, glorie
+^{Eb}Rege^{G}lui, glorie, glorie!
+^{Cm}Răspândiți ^{G}peste tot:
+I^{Ab}sus S-a născut, ^{Bb}e salvator.
+^{Cm}Să-I cântăm, ^{G}glorie, glorie
+^{Eb}Rege&{G}lui, glorie, glorie!
+^{Cm}Veniți cu toții să ^{G}ne-nchinăm
+Î^{Ab}naintea Lui, să-L ^{Bb}adorăm. :/

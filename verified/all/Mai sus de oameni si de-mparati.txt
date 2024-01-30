@@ -1,24 +1,23 @@
 [title]
-Mai sus de oameni și de-mpărați {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2851}, id: {gJt6hSVQwSPMMTJTJZBMkq}, contentHash: {0c7555}}
+Mai sus de oameni și de-mpărați {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2851}, id: {gJt6hSVQwSPMMTJTJZBMkq}, contentHash: {31836f}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Mai sus de oameni și de-mpărați,
-Mai sus de toate pe care le-ai creat,
-Mai sus de lume, mai sus de înțelepți,
-Tu ai fost, rămâi în veci de veci.
+^{G}Mai sus de ^{C}oameni ^{D}și de-mpă^{G}rați,
+Mai sus de ^{C}toate pe ^{D}care le-ai cre^{G}at,
+Mai sus de ^{Em}lume, mai ^{G}sus de în^{G}țe^{G/B}lepți,
+^{Am}Tu ai fost, ră^{C}mâi în veci de ^{D}veci.
 
 [v2]
-Mai sus de tronuri și-mpărății,
-Mai sus de-a lumii mari minunății,
-Mai sus de aur și tot ce-i valoros,
-Tu rămâi în veci cel mai prețios.
+^{G}Mai sus de ^{C}tronuri ^{D}și-mpără^{G}ții,
+Mai sus de-a ^{C}lumii ^{D}mari minună^{G}ții,
+Mai sus de ^{Em}aur și ^{G}tot ce-i valo^{C}ros, ^{G/B}
+^{Am}Tu rămâi în ^{C}veci cel mai preți^{B}os.
 
 [c]
-Răstignit și pus într-un mormânt
-Ca să mori venit-ai pe pământ.
-Și zdrobit ca un trandafir
-Tu ai căzut și Te-ai gândit
-Doar la min’!
+^{G}Răstig^{Am}nit și ^{D}pus într-un mor^{G}mânt
+Ca să ^{Am}mori ve^{D}nit-ai pe pă^{G}mânt.
+Și zdro^{Em}bit ^{G/D}ca un tranda^{C-G}fir
+Tu ai că^{Am}zut ^{G/B}și Te-ai gân^{C2-D}dit doar la ^{G}min’!

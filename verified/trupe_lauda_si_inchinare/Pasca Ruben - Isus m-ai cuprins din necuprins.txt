@@ -1,14 +1,14 @@
 [title]
-Isus, m-ai cuprins din necuprins {alternative: {*}, composer: {Pasca Ruben}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190399}, id: {syEW13cmz1ovLhw5haYYjv}, contentHash: {c13244}}
+Isus, m-ai cuprins din necuprins {alternative: {*}, composer: {Pasca Ruben}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190399}, id: {syEW13cmz1ovLhw5haYYjv}, contentHash: {f3ae33}}
 
 [sequence]
 v1,v2,v3
 
 [v1]
-Isus, m-ai cuprins din necuprins,
-Isus, viață-n mine ai aprins.
-Isus, m-ai iubit și m-ai salvat,
-Să fii veșnic, veșnic lăudat!
+^{D}Isus, m-ai cuprins din necu^{Em}prins,
+^{A}Isus, viață-n mine ai a^{D}prins. ^{A/C#}
+^{Bm}Isus, m-ai iubit și m-ai sal^{Em}vat,
+Să fii veș^{A}nic, veșnic lău^{D}dat!
 
 [v2]
 Isus, pentru orbi lumină ai,

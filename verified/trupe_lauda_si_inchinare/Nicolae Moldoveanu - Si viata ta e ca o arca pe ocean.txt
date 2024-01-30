@@ -1,20 +1,20 @@
 [title]
-Și viața ta e ca o arcă pe ocean {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5697}, id: {ru1DJPshUk3zDeqsb3zsV2}, contentHash: {674121}}
+Și viața ta e ca o barcă pe ocean {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5697}, id: {ru1DJPshUk3zDeqsb3zsV2}, contentHash: {af2b60}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Și viața ta e ca o arcă pe ocean,
-Ce zi și noapte merge întruna spre liman.
-Deci, nu dormi, fii totdeauna veghetor,
-Căci poți cădea în val foarte ușor!
+Și vi^{b}ața ta e ca o arcă pe oce^{D}an,
+Ce ^{b}zi și noapte merge întruna ^{e}spre li^{F#}man.
+Deci, ^{b}nu dormi, fii totdeauna veghe^{D}tor,
+Căci ^{e}poți cădea în ^{F#}val foarte u^{b}șor!
 
 [c]
-/: Chiar dacă oceanele toate
-Ar fierbe în val după val,
-Nu-ți pierde credința, o, frate!
-Tu mergi înainte spre mal. :/
+/: Chiar ^{G}dacă oceanele toate
+Ar ^{D}fierbe în val după ^{f#}val,
+Nu-ți ^{e}pierde credința, o, ^{b}frate!
+Tu mergi îna^{F#}inte spre ^{b}mal. :/
 
 [v2]
 Și viața ta e-o viață plină de-ncercări,

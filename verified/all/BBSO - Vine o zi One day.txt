@@ -1,0 +1,44 @@
+[title]
+Vine o zi, One day {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {206026}, id: {eaZViwkEQULTnHhnFW2rGR}, contentHash: {06f1f3}}
+
+[sequence]
+v1,v2,c,v3,v4,c,b,c,c2
+
+[v1]
+^{G}Într-o zi va ^{C/G}fi totul ^{G}nou, ^{G2}I^{G}sus.
+^{C}Rănile ce ^{C2}dor vei ^{D4 D}lega.
+^{C}Toate trec, dar ^{D}Tu-n-veci ră^{Em}mâi, ^{D}Dom^{D4}nul ^{D}meu!
+
+[v2]
+^{G}Totul voi pri^{C|G}cepe-^{G}ntr-o ^{G2}zi, I^{G}sus.
+^{C}Orice în^{C2}doieli vor ^{D4 D}muri,
+^{G}Toată teama ^{D}o voi lă^{Em}sa în ^{C}urma ^{D4 D}mea.
+
+[c]
+Când în ^{G}cer ^{C/G}vom a^{G}junge,
+O, ce ^{G/E}zi glorioasă-atunci ^{D4}va ^{D}fi,
+Când vom ^{G}fi ^{G7}cu I^{C}sus, ^{G/D}fața ^{D}lui o vom pri^{G}vi.
+
+[v3]
+^{G}Într-o zi Îl ^{C/G}vom întâl^{G}ni ^{G2}pe I^{G}sus,
+Copleșiți ^{C2}de-al Său ^{D4 D}mare har
+^{C}Și într-o clipă ^{D}vom fi schim^{Em}bați. ^{C}O, ce ^{D4 D}zi!
+
+[v4]
+^{G}Vine o zi ^{C/G}când li^{G}beri ^{G2}vom ^{G}fi, I^{C}sus.
+Când ^{C2}lupta noas^{D4 D}tră se va sfârși,
+^{G}Gloria Ta a^{D}tunci vom ve^{Em}dea. ^{C}O ce ^{D4 D}zi!
+
+[b]
+^{G}Într-o zi Îl ^{C/G}vom în^{G}tâlni ^{G2}pe ^{G}I^{C}sus,
+Copleșiți ^{C2}de-al Său ^{D4 D}mare har
+^{C}Și într-o clipă ^{D}vom fi schim^{Em}bați.
+^{C}Da, într-o ^{D}clipă vom fi ^{Em}schimbați!
+^{C}Într-o clipă ^{D}vom fi schim^{Em}bați. ^{C}O, ce ^{D4 D}zi!
+
+[c2]
+Când în cer vom ajunge,
+O, ce zi glorioasă-atunci va fi!
+Când vom fi cu Isus,
+Fața Lui o vom privi,
+Fața Lui o vom privi.

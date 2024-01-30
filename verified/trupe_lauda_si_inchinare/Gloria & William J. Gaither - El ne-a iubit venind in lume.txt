@@ -1,20 +1,20 @@
 [title]
-El ne-a iubit venind în lume {alternative: {*}, composer: {Gloria & William J. Gaither}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {218241}, id: {cxD2ntSHWyA7bF7qvYZSwu}, contentHash: {8e79b1}}
+El ne-a iubit venind în lume {alternative: {*}, composer: {Gloria & William J. Gaither}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {218241}, id: {cxD2ntSHWyA7bF7qvYZSwu}, contentHash: {db2499}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-El ne-a iubit, venind în lume,
-Ca noi, pierduți, să fim salvați.
-Prin sângele vărsat pe cruce,
-La Golgota, Isus Hristos ne-a mântuit.
+^{G}El ne-a iubit, ve^{G7}nind în lu^{C}me,
+Ca noi, pier^{G}duți, să fim ^{Am-D}salvați.
+^{G}Prin sângele văr^{G7}sat pe cru^{C-Am}ce,
+La Golgo^{G}ta, Isus Hris^{D}tos ne-a mân^{G}tuit.
 
 [c]
-/: Știind că-i viu, pot învinge teama!
-Și eu sunt viu, căci m-a salvat!
-Și, când ispita grea mă va ajunge,
-Prin harul Său mă simt pe veci eliberat! :/
+/: ^{G}Știind că-i viu, pot învinge ^{C}teama!
+Și eu sunt ^{G}viu, căci m-a ^{Am-D}salvat!
+Și, când is^{G}pi^{Am}ta ^{B}grea mă va a^{C}junge,
+Prin harul ^{G}Său mă simt me^{D}reu învingă^{G}tor! :/
 
 [v2]
 Ca un copil ce se încrede

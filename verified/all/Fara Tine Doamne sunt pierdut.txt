@@ -1,28 +1,28 @@
 [title]
-Fără Tine, Doamne, sunt pierdut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2sLagnbK8yD4bANo5aSa49}, contentHash: {fcbd1a}}
+Fără Tine, Doamne, sunt pierdut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2sLagnbK8yD4bANo5aSa49}, contentHash: {c12965}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c,b,c
 
 [v1.1]
-Fără Tine, Doamne, sunt pierdut,
-Fără Tine-aș fi murit demult.
-Sunt al Tău, doar Ție-Ți aparțin,
-Mântuit prin harul Tău divin.
+Fără ^{Bm}Tine, Doamne, ^{A}sunt pier^{D}dut,
+Fără ^{G}Tine-aș fi mu^{D}rit de^{A}mult.
+Sunt al ^{Em}Tău, doar Ție-Ți apar^{Bm}țin,
+Mântu^{F#m}it prin harul Tău di^{G-A}vin.
 
 [v1.2]
-Jertfa Ta îmi este îndeajuns
-Să pot sta în fața Ta, Isus.
-Harul îmi conduce inima
-Astăzi, Tată, în prezența Ta.
+Jertfa ^{Bm}Ta îmi este ^{A}îndea^{D}juns
+Să pot ^{G}sta în fața ^{D}Ta, I^{A}sus.
+Harul ^{Em}îmi conduce ini^{Bm}ma,
+Astăzi, ^{F#m}Tată, în prezența ^{G-A}Ta.
 
 [c]
-/: Tu ești Rege peste inima mea,
-Tu ești Rege peste sufletul meu,
-Tu ești Rege peste viața mea, Isus! :/
+/: Tu ești ^{D}Rege peste inima mea,
+Tu ești ^{Bm}Rege peste sufletul meu,
+Tu ești ^{F#m}Rege peste ^{G}viața mea, I^{D}sus! :/
 
 [b]
-Fără Tine eu sunt doar țărână,
-Fără Tine viață nu am, Isus.
-Fără Tine nu știu ce-i iubirea,
-Tu ești tot ce am.
+^{C}Fără Tine eu ^{D}sunt doar țărâ^{A}nă, ^{G}
+Fără Tine via^{D}ță nu ^{A}am, I^{G}sus.
+Fără Tine nu ^{D}știu ce-i iubi^{A}rea, ^{Em}
+Tu ești tot ce ^{G-A}am.

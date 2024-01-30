@@ -1,20 +1,20 @@
 [title]
-Viața făr’ de Tine, Tată ceresc {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1554}, id: {iwHJfFmH2ogji3DztzQtEG}, contentHash: {27ac19}}
+Viața făr’ de Tine, Tată ceresc {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1554}, id: {iwHJfFmH2ogji3DztzQtEG}, contentHash: {5188bc}}
 
 [sequence]
 v1,c,v2,c2
 
 [v1]
-Viața făr’ de Tine, Tată ceresc,
-Este doar deșertăciune,
-Numai Tu poți da vieții un sens,
-Ca să trăiesc pentru Tine.
+^{C}Viața făr’ ^{Dm}de Tine, ^{Em}Tată ce^{F}resc,
+^{Dm}Este doar ^{G}deșertă^{C}ciune,
+^{C}Numai Tu ^{Dm}poți da vi^Em}eții un ^{F}sens,
+Ca să tră^{G}iesc pentru ^{C}Tine.
 
 [c]
-Viața mea, Tu ai schimbat, Isus,
-Și-ai făcut un om nou din mine,
-Ai pus în mine un dor nespus,
-Dorul de-a fi lângă Tine.
+^{G/C C}Viața mea, ^{Em}Tu ai schim^{F}bat, Isus,
+^{Dm}Și-ai făcut un ^{G}om nou din ^{C2}mi^{C}ne,
+^{C/C C}Ai pus în ^{Em}mine un ^{F}dor nespus,
+^{Dm}Dorul de-a ^{G}fi lângă ^{C}Tine.
 
 [v2]
 Duhul Tău Sfânt mi-a dat dragoste-n dar

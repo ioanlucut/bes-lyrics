@@ -1,34 +1,28 @@
 [title]
-Lauda noastră și privirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2xbznatXh4FkpVDae2S6mt}, contentHash: {9f3d2e}}
+Lauda noastră și privirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2xbznatXh4FkpVDae2S6mt}, contentHash: {4dc831}}
 
 [sequence]
 v1,p,c,v2,p,c,e
 
 [v1]
-Lauda noastră și privirea
-Spre cer le îndreptăm,
-După Tine inimile tânjesc,
-Te căutăm.
+^{E}Lau^{B/E}da ^{F#m/E}noas^{E}tră
+^{F#m/E}și pri^{A}vi^{E}rea spre ^{A2}cer le îndrep^{E E2}tăm,
+^{E}Du^{B/E}pă ^{F#m/E}Ti^{E}ne ^{F#m/E}inimi^{E}le tân^{A2}jesc,
+Te cău^{E E2}tăm.
 
 [p]
-Căci lângă Tine
-Noi găsim încrederea
-Și orice teamă,
-Tu, Isus, vei alunga, alunga.
+Căci lângă Ti^{B}ne noi gă^{A2}sim încrede^{E E2}rea
+Și orice ^{B}teamă, Tu, I^{A2}sus, vei alun^{E}ga, vei alun^{B4 b}ga.
 
 [c]
-Osana, Osana,
-Domn înălțat în slavă,
-Vrednic de-a noastră laudă,
-Osana, Osana,
-Inimile-s deschise
-Cu drag Te primim, Isuse.
+^{F#m/E}Osa^{E}na, osa^{A2}na,
+Domn înălțat în sla^{C#m}vă, vrednic de-a ^{A2}noastră lau^{B B4}dă,
+^{F#m/E}Osa^{E}na, Osa^{A2}na,
+Inimile-s deschi^{C#m}se, Cu drag Te pri^{A2}mim, Isu^{A2/F#}se!
 
 [v2]
-Ne întoarcem,
-Căutăm fața Ta, prezența Ta
-Vieți înfrânte numai Tu poți schimba,
-Poți ridica.
+Ne întoarcem, căutăm fața Ta, prezența Ta,
+Vieți înfrânte numai Tu poți schimba, poți ridica.
 
 [e]
-Osana, Osana! (3x)
+^{F#m/E}Osa^{E}na, Osa^{A2}na! (x3) ^{Final(E)}

@@ -1,20 +1,20 @@
 [title]
-Vrei tu să scapi {alternative: {*}, composer: {Lewis E.Jones}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4438}, id: {sQTr6Xt4oUPqAwDMhMhHYi}, contentHash: {8a8030}}
+Vrei tu să scapi {alternative: {*}, composer: {Lewis E.Jones}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4438}, id: {sQTr6Xt4oUPqAwDMhMhHYi}, contentHash: {710def}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Vrei tu să scapi de păcat, sarcină,
-Prin sângele sfânt al lui Isus?
-Vrei tu să-nvingi răul din inimă,
-Prin sfânt sânge al lui Isus?
+^{G}Vrei tu să scapi de pă^{C}cat, sarci^{G}nă,
+Prin ^{D7}sângele sfânt ^{G}al lui Isus?
+^{G}Vrei tu să-nvingi răul ^{C}din ini^{G}mă,
+Prin ^{D7}sfânt sânge al lui I^{G}sus?
 
 [c]
-E puterea ce minuni face,
-Sângele Mielului!
-E puterea ce minuni face
-În scump sângele al Mielului.
+E pu^{G}te^{G7}rea ^{C}ce minuni fa^{G}ce,
+Sânge^{D7}le Mielu^{G}lui!
+E pu^{G}te^{G7}rea ^{C}ce minuni fa^{G}ce
+În scump ^{Am}sângele ^{D7}al Mielu^{G}lui.
 
 [v2]
 Vrei să fii liber de patimi, păcat,

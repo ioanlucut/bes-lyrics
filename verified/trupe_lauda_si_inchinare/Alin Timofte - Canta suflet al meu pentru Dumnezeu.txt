@@ -1,20 +1,20 @@
 [title]
-Cântă, suflet al meu, pentru Dumnezeu {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {Alin Timofte}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164159}, id: {abCwAsZpAWGVzGNBWEfyhB}, contentHash: {d06195}}
+Cântă, suflet al meu, pentru Dumnezeu {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {Alin Timofte}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164159}, id: {abCwAsZpAWGVzGNBWEfyhB}, contentHash: {1befcd}}
 
 [sequence]
 c,v1,c,v2,c,v3,c
 
 [c]
-Cântă, suflet al meu, pentru Dumnezeu
-Cel binecuvântat.
-Al Lui Nume e sfânt, cânt-acum,
-Cum nu ai mai cântat.
+^{D}Cântă, ^{G}suflet al ^{D}meu,
+^{A}pentru Dumne^{Bm}zeu, ^{G}Cel bine^{D}cuvân^{A4-A}tat!
+Al Lui ^{G}Nume e ^{Bm}sfânt, ^{G}cân^{A}ta-a^{Bm}cum,
+Cum ^{G}nu ai ^{A}mai cân^{Dsus-D}tat.
 
 [v1]
-E o nouă zi, soarele răsare,
-E timp să cânt spre slava Ta.
-Orice-ar veni, orice-n față mi-ar apare
-Eu vreau să cânt și seara laude.
+E o ^{G}nouă ^{D}zi, soare^{A}le ră^{Bm}sare,
+^{G}E timp să ^{D}cânt spre ^{A}slava ^{Bm}Ta.
+Orice-^{G}ar ve^{D}ni, orice-n ^{A}față mi-ar a^{Bm}pare
+^{G}Eu vreau să ^{D}cânt și seara ^{A6}la^{A}u^{D}de.
 
 [v2]
 Încet Tu ești, Doamne, la mânie,

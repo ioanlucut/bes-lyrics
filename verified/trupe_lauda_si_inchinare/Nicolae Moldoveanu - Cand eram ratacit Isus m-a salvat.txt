@@ -1,20 +1,20 @@
 [title]
-Când eram rătăcit, Isus m-a salvat {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5808}, id: {pq6UsgGG9nfCBmP4Hj86hT}, contentHash: {91cdb9}}
+Când eram rătăcit, Isus m-a salvat {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5808}, id: {pq6UsgGG9nfCBmP4Hj86hT}, contentHash: {c51faa}}
 
 [sequence]
 c,v1,c,v2,c,v3
 
 [v1]
-Când eram rătăcit, Isus m-a salvat
-Din păcat, El m-a ridicat.
-Viața El mi-a schimbat, El m-a luminat,
-Isus, prietenul meu minunat.
+Când e^{G}ram rătă^{Am}cit, Isus ^{D}m-a salvat
+Din păcat, El m-a ridi^{G}cat.
+Viața ^{G}El mi-a schim^{Am}bat, El m-a luminat,
+Isus, ^{D}prietenul meu minu^{G}nat.
 
 [c]
-/: Ce frumos, ce plăcut e să fii creștin,
-Să trăiești prin credință mereu,
-Să te simți un copil al lui Dumnezeu,
-Ce plăcut e să fii creștin! :/
+/: Ce fru^{G}mos, ce plăcut e să fii creștin,
+Să tră^{D}iești prin credință me^{G}reu,
+Să te ^{G}simți un copil al lui ^{C}Dumne^{Am}zeu,
+Ce plă^{G}cut e să ^{D}fii creș^{G}tin! :/
 
 [v2]
 Zi de zi, ceas cu ceas, eu mă simt iubit
