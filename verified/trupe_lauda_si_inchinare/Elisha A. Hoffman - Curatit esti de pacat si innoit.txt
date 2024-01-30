@@ -1,19 +1,19 @@
 [title]
-Curățit ești de păcat și înnoit {alternative: {*}, composer: {Elisha A. Hoffman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1589}, id: {eHaAoaqTEqujrykg9TGTnr}, contentHash: {dde07b}}
+Curățit ești de păcat și înnoit {alternative: {*}, composer: {Elisha A. Hoffman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1589}, id: {eHaAoaqTEqujrykg9TGTnr}, contentHash: {4c8dc3}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Curățit ești de păcat și înnoit
-Prin sfânt sângele al lui Isus?
-Ești născut din nou, de patimi mântuit,
-Prin sfânt sângele al lui Isus?
+^{A}Curățit ești de păcat și î{D}nno^{A}it
+Prin sfânt sângele al lui I^{E7}sus?
+Ești năs^{A}cut din ^{A7}nou, de patimi ^{D}mântuit,
+Prin sfânt ^{A/E}sângele ^{E7}al lui I^{A}sus?
 
 [c]
-Vrei să fii mântuit și de tot păcatul curățit?
-Vin’, te spală pe Golgota-n sânge sfânt
-Și-ascultă al lui Isus Cuvânt!
+^{E7}Vrei să ^{A}fii ^{A7}mântu^{D}it și de ^{A/E}tot păcatul cu^{E7}rățit?
+Vin’, te ^{A}spală ^{A7}pe Golgota-n ^{D}sânge sfânt
+Și-ascul^{A/E}tă al lui I^{E7}sus Cu^{A}vânt!
 
 [v2]
 Când sfințit ești prin sângele lui Hristos,

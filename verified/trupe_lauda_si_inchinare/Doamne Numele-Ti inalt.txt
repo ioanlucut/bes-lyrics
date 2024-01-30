@@ -1,15 +1,17 @@
 [title]
-Doamne, Numele-Ți înalț {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {775f29}}
+Doamne, Numele-Ți înalț {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {3d4d96}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Doamne, Numele-Ți înalț, Doamne, laudă-Ți cânt Ție,
-Fericit sunt că Te am, fericit de-a Ta iubire.
+^{G}Doamne, ^{C}Numele-Ți î^{D/-C2/}nalț,
+^{G}Doamne, ^{C}laudă-Ți cânt ^{D/-C2/}Ție,
+^{G}Feri^{C}cit sunt că Te ^{D/-C2/}am,
+^{G}feri^{C}cit de-a Ta iu^{F}bire. ^{C/E-D/F#-G}
 
 [c]
-/: Tu ai venit pe pământ să ne salvezi,
-Sus pe cruce Te-ai jertfit iertați să fim!
-De pe cruce în mormânt, din mormânt sus la cer,
-Să fii înălțat mereu! :/
+/: ^{G}Tu ai ve^{C}nit ^{G/C}pe pământ să ^{C}ne sal^{G}vezi,
+Sus pe ^{C}cruce ^{G/C} ai mu^{D}rit ier^{C}tați să ^{D}fim!
+De pe ^{Am7}cruce în mor^{D}mânt, din mor^{Em7}mânt sus la ^{Am7}cer,
+Să fii ^{C/D}înăl^{D}țat me^{G}reu! :/ ^{C/E-D/F#-G}

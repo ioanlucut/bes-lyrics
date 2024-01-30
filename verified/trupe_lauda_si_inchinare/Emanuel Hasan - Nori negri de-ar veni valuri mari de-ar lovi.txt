@@ -1,20 +1,20 @@
 [title]
-Nori negri de-ar veni, valuri mari de-ar lovi {alternative: {*}, composer: {Emanuel Hasan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {159018}, id: {uKGUaCm6329jimC5bicLPx}, contentHash: {817534}}
+Nori negri de-ar veni, valuri mari de-ar lovi {alternative: {*}, composer: {Emanuel Hasan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {159018}, id: {uKGUaCm6329jimC5bicLPx}, contentHash: {e9573a}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Nori negri de-ar veni, valuri mari de-ar lovi,
-Știu că nu mă vor clinti.
-Mulți mă vor întreba: de unde-i puterea ta?
-Eu le voi spune așa:
+^{Em}Nori negri de-ar veni, ^{C}valuri mari de-ar lovi,
+^{D}Știu că nu mă vor clin^{Em}ti.
+^{Em}Mulți mă vor întreba: ^{G}de unde-i puterea ta?
+^{Am}Eu le voi spune a^{B}șa:
 
 [c]
-/: El e Stânca mea, El e pacea mea,
-El e ocrotirea, eu nu mă tem!
-El e El-Shaddai, Sfântul Adonai,
-El mi-aude glasul, oricând Îl chem! Nu mă tem! :/
+/: El e Stânca ^{Em}mea, El e pacea ^{C}mea,
+El e ocro^{G}tirea, eu nu mă ^{D}tem!
+El e El-Sha^{Em}ddai, Sfântul Ado^{C}nai,
+El mi-aude ^{G}glasul, oricând Îl ^{D}chem! Nu mă ^{Em}tem! :/
 
 [v2]
 Singur și-mpresurat, slab și-abandonat

@@ -1,21 +1,21 @@
 [title]
-Ce bine e să dăm laudă Domnului {alternative: {*}, composer: {Neiconi Nutzy}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4850}, id: {jLbqSRSdPbkAwJ9L2PAfsa}, contentHash: {48e603}}
+Ce bine e să dăm laudă Domnului {alternative: {*}, composer: {Neiconi Nutzy}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4850}, id: {jLbqSRSdPbkAwJ9L2PAfsa}, contentHash: {41adb2}}
 
 [sequence]
 v1,c,b,c
 
 [v1]
-Ce bine e să dăm laudă Domnului,
-Ce bine e să-I dăm laudă numai Lui!
-El captivi eliberează, inimi vindecă,
-Binecuvântăm Numele Lui.
+Ce bine ^{E}e să dăm la^{A}udă Dom^{E}nu^{D}lui,
+Ce bine ^{E}e să-I dăm ^{A}laudă numai ^{B4-B}Lui!
+El cap^{A}tivi elibe^{B}rează, ^{G#m}inimi vinde^{C#m}că,
+^{A/F#-E/G#-A-A/B}Binecuvântăm Nu^{B}mele ^{E}Lui. ^{(D)}}
 
 [c]
-Îți mulțumim, ești Salvatorul,
-Cu inimi de recunoștință ne-nchinăm,
-Îndurarea Ta va ține veșnic,
-Eu Te voi lăuda toată viața mea.
+Îți mulțu^{B}mim, ești Sal^{A/E-E}vatorul,
+Cu inimi ^{B}de recunoștință ne-^{A/E-E}nchinăm,
+Îndurarea ^{B}Ta va ține ^{C#m}veșnic,
+^{D}Eu Te voi lăuda toată viața ^{B4-B}mea.
 
 [b]
-Vreau să-L slăvesc pe El!
-Vreau să-L slăvesc pe El!
+^{D}Vreau să-L slăvesc pe ^{E}El!
+^{D}Vreau să-L slăvesc pe ^{E}El!

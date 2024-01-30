@@ -1,59 +1,48 @@
 [title]
-Ce mare ești {alternative: {*}, composer: {Dan Muncaciu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {199070}, id: {v5jKun8tqoXXPss83JiQ3B}, contentHash: {d7bb84}}
+Ce mare ești {alternative: {În Tine una suntem}, composer: {Dan Muncaciu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {199070}, id: {v5jKun8tqoXXPss83JiQ3B}, contentHash: {f9c963}}
 
 [sequence]
 v1.1,v1.2,p,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,b1.1,b1.2,p,c1.1,c1.2
 
 [v1.1]
-În Tine una suntem,
-Un Tată noi avem.
-O putere ne-a fost dată,
-Cu El înaintăm.
+În ^{F#4}Tine una ^{B}suntem, un Tată noi a^{G#m}vem,
+O putere ^{F#/D#}ne-a fost da^{E}tă, cu ^{E/C#}El înain^{F#4}tăm.
 
 [v1.2]
-Un sânge ne e iertarea
-Și dragostea de El,
-Pe noi de cer ne leagă,
-Isus este cu noi.
+Un sânge ni-e ier^{B}tarea
+Și dragostea de ^{G#m}El pe noi de ^{F#/D#}cer ne lea^{E2}gă,
+I^{E/C#}sus este cu ^{F#4-F#}noi.
 
 [p]
-Minunat ești, Domnul nostru,
-Tu pe nume ne-ai chemat,
-Slava Ta azi umple templul,
-Doamne mare, fii lăudat!
+Mi^{E2/G#}nunat ești, Domnul ^{F#/A#}nostru,
+Tu pe ^{G#/m}nume ne-ai che^{F#/D#}mat,
+Sla^{E2/G#}va Ta azi umple ^{F#/A#}templul,
+Doamne ^{G#m}mare, fii lău^{F#}dat!
 
 [c1.1]
-Ce mare ești, ce mare ești,
-Tu meriți toată gloria,
-A Ta e toată slava.
-Ce mare ești,
+Ce mare ^{B}ești, ce ma^{F#/A#}re ești,
+Tu ^{G#m}meriți toată ^{F#/D#}gloria,
+A ^{E2}Ta e toată ^{E/F#}slava.
 
 [c1.2]
-Ce mare ești,
-În fața Ta se pleacă toate.
-Ești Domnul nostru drag,
-Ce mare ești.
+Ce mare ^{B}ești, ce ma^{F#/A#}re ești,
+În fața ^{G#m}Ta se plea^{F#/D#}că toate.
+Ești ^{E2}Domnul nostru ^{E/F#}drag,
+Ce ma^{B//-C#m-G#m//}re ești.
 
 [v2.1]
-Puterea Ta cea mare
-Și Numele Tău sfânt,
-Ne dau azi biruința,
-Pân’ la capăt să pășim.
+Pute^{G4}rea Ta cea ^{C}mare și Numele Tău ^{Am}sfânt,
+Ne dau azi ^{G/E}biruin^{F2}ța, pân’ la ^{F/D}capăt să pă^{G4}șim.
 
 [v2.2]
-Credința noastră stă
-În cuvântul ce l-ai spus:
-„Voi fi cu voi în lume,
-Pân’ la capăt eu vă-ndrum.”
+Credința noastră ^{C}stă în cuvântul ce l-ai ^{Am}spus:
+„Voi fi cu ^{G/E}voi în ^{F2}lume, pân’ la ^{F/D}capăt eu vă-n^{G4-G}drum.”
 
 [b1.1]
-/: În picioare noi vom sta,
-Prin Numele Tău mare, Doamne!
-Ne vom ancora
-În tot ce ne-ai promis.
+/: În ^{C}picioare noi vom sta,
+Prin ^{G}Numele Tău ^{Am}mare, ^{F2}Doam^{C}ne!
+Ne vom ancora în ^{G}tot ce ne-ai ^{F/G}promis.
 
 [b1.2]
-Împreună toți vom sta,
-Aproape toți de Tine, Doamne!
-Nu vom renunța,
-Cu noi ești Tu, Isus. :/
+Împre^{C}ună toți vom sta a^{G}proape toți de ^{Am}Tine, ^{F2}Doam^{C}ne!
+Nu vom renunța, cu ^{G}noi ești Tu, ^{F/G}Isus! :/

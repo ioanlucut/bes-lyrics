@@ -1,17 +1,17 @@
 [title]
-Ce Nume minunat, ce Nume minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8Y8HXgGV39WoitjCtkRKCb}, contentHash: {099f34}}
+Ce Nume minunat, ce Nume minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8Y8HXgGV39WoitjCtkRKCb}, contentHash: {612541}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Ce Nume minunat, ce Nume minunat,
-Ce Nume minunat este Isus!
-El este Domnul meu, a toate Creator,
-Ce Nume minunat este Isus!
+^{D}Ce Nume ^{Em/D}minu^{D}nat, ^{B6}ce Nume ^{Em}minunat,
+^{A}Ce Nume ^{G/D}min^{D}unat ^{E7-9}este I^{A7}sus!
+^{D}El este ^{Em/D}Domnul ^{D}meu, ^{B6}a toate ^{Em}Creator,
+^{A}Ce Nume ^{G/D}minu^{D}nat ^{A7}es^{F#m/A}te ^{A7}I^{D}sus!
 
 [c]
-El e Păstorul, e Stânca cea tare,
-Atotputernic e!
-Să-I dăm cinstire, slavă, mărire.
-Numele lui Isus e minunat!
+^{A7}El e ^{D/A}Păs^{A7}torul, e ^{D}Stânca ^{A7/E}cea ^{D/F#}ta^{D}re,
+^{A7}Atotpu^{D/E}ter^{E7}nic ^{A-A7}e!
+^{D}Să-I dăm cin^{Em/D}sti^{D}re, ^{B6}slavă, mă^{Em}rire.
+^{A}Numele ^{G/D}lui I^{D}sus ^{A7}e ^{F#m/A}mi^{A7}nu^{D}nat!

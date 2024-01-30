@@ -1,25 +1,25 @@
 [title]
-În fața tronului de sus {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7307}, id: {q53RVH4stWQfrbdT52rYz6}, contentHash: {951df2}}
+În fața tronului de sus {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7307}, id: {q53RVH4stWQfrbdT52rYz6}, contentHash: {8f85ac}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
 [v1.1]
-În fața tronului de sus,
-Eu am un bun Apărător,
-Un mare Preot, pe Isus,
-La care aflu ajutor.
+În fața ^{C}tronu^{F/C}lui de ^{C}sus
+Eu am un bun Apără^{Em}tor,
+Un mare ^{F}Preot, pe I^{Am}sus,
+La care ^{F}aflu aju^{C}tor.
 
 [v1.2]
-Săpat eu sunt în mâna Sa
-Și pe-a Lui inimă sunt scris,
-Iar cât în ceruri El va sta,
-/: Pârâșul meu va fi învins. :/
+Săpat eu ^{F}sunt în mâna ^{G}Sa
+Și pe-a Lui ^{F}inimă sunt ^{Am}scris,
+Iar cât în ^{F}ceruri El va ^{Am}sta,
+/: Pârâșul ^{F}meu va fi ^{G}în^{Am}vins. :/
 
 [v2.1]
 Satan când mă va acuza,
 Spunându-mi că sunt vinovat,
-Privesc la Domnul, Stânca mea,
+Privesc la Domnul, stânca mea,
 Ce-a șters pe cruce-al meu păcat.
 
 [v2.2]

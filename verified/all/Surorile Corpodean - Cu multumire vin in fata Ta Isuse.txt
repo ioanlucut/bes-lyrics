@@ -1,26 +1,26 @@
 [title]
-Cu mulțumire vin în fața Ta, Isuse {alternative: {*}, composer: {Surorile Corpodean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74504}, id: {7DmtiUS5RfR4NCexevtUiL}, contentHash: {dc5a6a}}
+Cu mulțumire vin în fața Ta, Isuse {alternative: {*}, composer: {Surorile Corpodean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74504}, id: {7DmtiUS5RfR4NCexevtUiL}, contentHash: {7420d9}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c2.1,c2.2
 
 [v1]
-Cu mulțumire vin în fața Ta, Isuse,
-Și vreau să-Ți cânt, c-atâta bine mi-ai făcut!
-Mi-ai dat iertare, pace-adâncă, fericire,
-Și mult mai mult decât vreodată am cerut.
+Cu mulțu^{D}mire vin în fața Ta, I^{A}suse,
+Și vreau să-Ți ^{A7}cânt c-atâta bine mi-ai fă^{D-D7}cut!
+Mi-ai dat ier^{G}tare, pace-adâncă, feri^{D/F#}cire,
+Și mult mai ^{E}mult decât vreo^{E7}dată am ce^{A-A7}rut.
 
 [c1.1]
-/: Nu merit, Doamne, :/
-Toată binecuvântarea Ta.
-/: Nu merit, Doamne, :/
-Tot ce ai lucrat în viața mea.
+^{D}Nu merit, Doamne, ^{Em}nu merit, Doamne,
+^{A7}Toată binecuvântarea ^{D/A}Ta.
+^{D}Nu merit, Doamne, ^{Em}nu merit, Doamne,
+^{A7}Tot ce ai lucrat în viața ^{D-D7}mea.
 
 [c1.2]
-Mare-ndurare pentru mine-ai arătat
-Și mult mai mult decât am meritat.
-Nu pot, Isuse, îndeajuns să-Ți mulțumesc,
-Dar Te slăvesc, căci Te iubesc!
+^{G}Mare-ndurare pentru ^{D/F#}mine-ai arătat
+^{Em}Și mult mai ^{A}mult decât am ^{G}meri^{D}tat.
+^{G}Nu pot, Isuse, îndea^{D/F#}juns să-Ți mulțumesc,
+^{Em}Dar Te slă^{A}vesc, căci Te iu^{D}besc!
 
 [v2]
 Voi fi dator să-Ți mulțumesc o veșnicie,
@@ -42,6 +42,7 @@ Căci ai lucrat în viața mea.
 
 [c2.2]
 Chiar mii de buze de-aș avea,
-Tot n-aș putea să-Ți mulțumesc pentru iubirea Ta.
+Tot n-aș putea să-Ți mulțumesc
+Pentru iubirea Ta.
 Inima mea ca mulțumire-Îți dăruiesc
 /: Și Te slăvesc, căci Te iubesc! :/

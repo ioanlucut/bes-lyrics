@@ -1,0 +1,35 @@
+[title]
+Stânca mea e Hristos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1KHtNpwfFoMFfwEucvq1D1}, contentHash: {66d524}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+^{A}Credința mea eu o zidesc
+^{D}Pe-al Domnului Cu^{E4}vânt ceresc.
+^{A}Ca spuma toate ^{E/G#}vor pie^{F#m}rii,
+{D}Hristos ca ^{E}Stâncă-n veci ^{A}va fi.
+
+[v2]
+Deși-I ascunsă fața Sa,
+Cu milă mă va-nconjura,
+Și orice vifor de-ar veni,
+Pe Stâncă sigur eu voi fi!
+
+[c]
+{A}Stânca ^{D}mea e ^{Bm}Hris^{E}tos,
+^{A}Lui ^{E/C#}ră^{D}mân veșnic ^{Bm}credin^{E}cios,
+^{A/C#}Prin fur^{D}tună, Tu ră^{E}mâi veșnic ^{A}Domn!
+
+[v3]
+Când vin primejdii pe pământ, eu sunt scutit prin legământ,
+Chiar toate de s-ar clătina, Hristos rămâne Stânca mea!
+
+[v4]
+Iar când Isus va judeca
+Și celor morți „Sus!” va striga,
+Neprihănirea Lui va fi
+Chiar haina-n care voi luci!
+
+[b]
+/: El e Domn, veșnic Domn! :/

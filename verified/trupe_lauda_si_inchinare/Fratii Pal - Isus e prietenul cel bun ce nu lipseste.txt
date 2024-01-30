@@ -1,21 +1,21 @@
 [title]
-Isus e prietenul cel bun ce nu lipsește {alternative: {*}, composer: {Fratii Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4466}, id: {u5ffRxhPe65KWWGyCrtbtB}, contentHash: {074326}}
+Isus e prietenul cel bun ce nu lipsește {alternative: {*}, composer: {Fratii Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4466}, id: {u5ffRxhPe65KWWGyCrtbtB}, contentHash: {bf570e}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Isus e prietenul cel bun ce nu lipsește
-De orișiunde, orișicând este chemat
-El te ascultă, cu-ai Lui ochi El te privește
-Și, zi de zi, pe brațul Lui tu ești purtat.
+Isus e ^{D}prietenul cel bun ^{e}ce nu lipsește
+De oriși^{A}unde, oriși^{A7}când este ^{D}chemat
+El te as^{D}cultă, cu-ai Lui ochi El ^{e}te privește
+Și, zi de ^{A}zi, pe brațul ^{A7}Lui tu ești ^{D}purtat.
 
 [c]
-Ce fericire când șoptești:
-„Isus mi-e prieten și-L iubesc,
-Pe El Îl chem în ajutor când calea-i grea,
-Nimeni în lume nu-i la fel în bunătate ca și El
-Căci El e soarele vieții, Emanuel.”
+Ce ^{G}fericire când ^{F#m}șoptești:
+„Isus ^{e}mi-e prieten ^{D}și-L iubesc,
+Pe El Îl ^{D/Bm}chem în ajutor când ^{A4-A}calea-i grea,
+Nimeni în ^{G}lume nu-i la ^{F#m}fel în bu^{e}nătate ^{D}ca și El
+Căci El e ^{A}soa^{A7}rele vie{D}ții, Emanuel.”
 
 [v2]
 Isus e prietenul cel bun ce nu lipsește

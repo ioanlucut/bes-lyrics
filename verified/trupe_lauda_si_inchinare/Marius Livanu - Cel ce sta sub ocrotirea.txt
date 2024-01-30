@@ -1,20 +1,20 @@
 [title]
-Cel ce stă sub ocrotirea {alternative: {*}, composer: {Marius Livanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {104098}, id: {7RCDZ7ekA7Maz6oBjPZMgx}, contentHash: {c1f318}}
+Cel ce stă sub ocrotirea {alternative: {*}, composer: {Marius Livanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {104098}, id: {7RCDZ7ekA7Maz6oBjPZMgx}, contentHash: {08e363}}
 
 [sequence]
 c,v1,c,v2,c
 
 [v1]
-Cel ce stă sub ocrotirea Celui Preaînalt de sus,
-Și se odihnește-n umbra Celui tare de nespus,
-Zice pururi despre Domnul: „El e cetățuia mea,
-Dumnezeul meu în care mă încred și voi scăpa.”
+Cel ce ^{B}stă sub ocrotirea Celui ^{C#m}Preaînalt de sus,
+Și se ^{E}odihnește-n um^{F#}bra Celui ^{F#7}tare de ne^{B}spus,
+Zice ^{B}pururi despre Domnul: „El e ^{C#m}cetățuia mea,
+Dumne^{E}zeul meu în ^{F#}care mă în^{F#7}cred și voi scă^{B}pa.”
 
 [c]
-/: Mii să cadă lângă tine, zeci de mii la dreapta ta,
-Nu te teme, căci de tine nu se va apropia.
-Doar vei sta și cât privi-vei împrejur cu ochii tăi,
-Vei vedea nenorocirea și răsplata celor răi. :/
+/: Mii să ^{G#m}cadă lângă tine, zeci de ^{D#m}mii la dreapta ta,
+Nu te ^{E}teme, căci de tine nu se ^{C#m}va apropi^{F#}a.
+Doar vei ^{B}sta și cât privi-vei împre^{C#m}jur cu ochii tăi,
+Vei ve^{E}dea nenoroci^{F#7}rea și răsplata celor ^{B}răi. :/
 
 [v2]
 Nu te teme nici de groaza din a nopții negre vremi

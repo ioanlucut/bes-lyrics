@@ -1,23 +1,23 @@
 [title]
-Tu din vânturi faci solii {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4207}, id: {7DdnGnrnzoHXEEvhg7xBN9}, contentHash: {37b156}}
+Tu din vânturi faci solii {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4207}, id: {7DdnGnrnzoHXEEvhg7xBN9}, contentHash: {f74e74}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Tu din vânturi faci solii,
-Tu ai înălțat munții,
-Doamne, lăudat să fii!
+Tu din ^{C}vânturi ^{F}faci so^{C}lii,
+Tu ai înăl^{F}țat mun^{C}ții,
+^{F}Doam^{C}ne, ^{F}lău^{G}dat să fii! ^{C}
 Faci din flăcări slujitori,
 Tu-aduci ploaie, Tu-aduci nori,
 Mare ești, sfânt Creator.
 
 [c]
-/: Ce mare ești! Ce mare ești!
-Și nimeni nu-i ca Tine, Doamne-n Univers.
-Ce mare ești! Ce mare ești!
-O, Domnul meu! O, Domnul meu!
-O, Domnul meu! :/
+/: Ce mare ^{C-F}ești! Ce mare ^{C-F}ești!
+Și nimeni nu-^{C}i ca ^{F}Tine, ^{C}Doamne-n Uni^{D-G}vers.
+Ce mare ^{C-F}ești! Ce mare ^{C-F}ești!
+O, Domnul ^{C}meu, o, ^{F}Domnul ^{G}meu,
+O, Domnul ^{C}meu! :/
 
 [v2]
 Tu-ai tras linia zărilor,

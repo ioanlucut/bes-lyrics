@@ -1,22 +1,22 @@
 [title]
-Pentru soare și ploaie, răsărit și amurg {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112858}, id: {8axqoqn5r8kyrxjoxChZxf}, contentHash: {98d115}}
+Pentru soare și ploaie, răsărit și amurg {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112858}, id: {8axqoqn5r8kyrxjoxChZxf}, contentHash: {51b6b9}}
 
 [sequence]
 v1,c,v2,c,c2,e
 
 [v1]
-Pentru soare și ploaie, răsărit și amurg,
-Zâmbet și lacrimi, pentru tot ce primim,
-Îți mulțumim, Îți mulțumim!
-Pentru dulcea chemare și harul primit,
-Clipe sublime ce-n veci n-au sfârșit,
-Îți mulțumim, Îți mulțumim!
+Pentru ^{E}soare și ploaie, răsă^{B4}rit și a^{B}murg,
+^{C#m}Zâmbet și lacrimi, pentru ^{A2}tot ce primim,
+{E}Îți mulțu^{B4-B}mim, ^{C#m}Îți mulțu^{A2}mim!
+^{E}Pentru dulcea chemare și ^{B4}harul pri^{B}mit,
+^{C#m}Clipe sublime ce-n ^{A2}veci n-au sfârșit,
+^{E}Îți mulțu^{B4-b}mim, ^{E}Îți mulțu^{A2}mim!
 
 [c]
-Îți mulțumim, Te lăudăm!
-Harul iertării și viaț-am primit.
-Cerul ni l-ai deschis, în veci fii slăvit,
-Îți mulțumim, Te lăudăm!
+^{E}Îți mulțu^{B4-B}mim, ^{C#m7}Te lău^{A2}dăm!
+^{E}Harul iertării și ^{B4}via^{B}ța-am pri^{A2}mit.
+^{B/A}Ce^{A7}rul ni l-ai des^{B4-B}chis, în ^{C#m7}veci fii slă^{A2}vit,
+^{E}Îți mulțu^{B4-B}mim, ^{E}Te lău^{A2}dăm!
 
 [v2]
 Pentru focul sfințirii și dulce Cuvânt,
@@ -27,12 +27,12 @@ Drumul spre ceruri și nu spre mormânt,
 Îți mulțumim, Îți mulțumim!
 
 [c2]
-Îți mulțumim, Te lăudăm!
-Recunoștință din inimă-Ți dăm!
-Vrednic ești și vei fi, în veci fii slăvit!
-/: Îți mulțumim, o, Doamne-n veci, :/
-Îți mulțumim!
+^{E}Îți mulțu^{B4-B}mim, ^{E}Te lău^{A2}dăm!
+^{E}Recunoștință din ^{B4}i^{B}nimă-Ți ^{A2}dăm!
+^{B/A}Vre^{A7}dnic ^{E}ești și vei ^{B4-B}fi, în ^{C#m7}veci fii slă^{A2}vit!
+/: ^{E}Îți mulțu^{B}mim, o, Doamne-n ^{E-E2-E4}veci, :/
+^{E}Îți mulțu^{A2}mim!
 
 [e]
-Pentru tot ce în slavă curând vom primi,
-Mulțumire e tot ce de-acum Îți jertfim.
+Pentru ^{E}tot ce în slavă cu^{B4}rând vom pri^{B}mi,
+Mulțu^{C#m}mire e tot ce de-a^{A2}cum Îți jertfim.

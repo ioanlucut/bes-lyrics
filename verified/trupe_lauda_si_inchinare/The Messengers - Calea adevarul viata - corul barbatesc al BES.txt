@@ -1,22 +1,22 @@
 [title]
-Calea, adevărul, viața {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {6696}, id: {m35SCdpx3CwDBnqYgM6o6m}, contentHash: {07e676}}
+Calea, adevărul, viața {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6696}, id: {m35SCdpx3CwDBnqYgM6o6m}, contentHash: {fe7117}}
 
 [sequence]
 c,v1,c,v2,c
 
 [v1]
-Calea, adevărul, viața
-E Isus Hristos cel sfânt.
-A venit trimis de Tatăl pe pământ,
-Răstignit a fost pe cruce
-Pentru-al tău și-al meu păcat,
-A-nviat a treia zi și-a triumfat.
+^{A}Calea, adevărul, viața
+E ^{Bm}Isus Hristos cel sfânt.
+A ve^{D}nit trimis de Tatăl pe pă^{E}mânt,
+Răstig^{A}nit a fost pe cruce
+Pentru-al ^{Bm}tău și-al meu păcat,
+A-n^{D}viat a treia zi și-a trium^{E}fat.
 
 [c]
-Ai biruit mormântul și moartea ai învins,
-Oricine prin credință salvat e de abis,
-Ai dăruit iertare oricărui pământean
-Prin pocăință, mântuire-n dar.
+Ai ^{A}biruit mormântul și ^{D}moartea ai învins,
+Ori^{A}cine prin credință sal^{E7}vat e de abis,
+Ai ^{A}dăruit iertare ori^{D}cărui pământean
+Prin ^{A/E}pocăință, ^{E7}mântuire-n ^{A}dar.
 
 [v2]
 Poate astăzi, înc-odată,

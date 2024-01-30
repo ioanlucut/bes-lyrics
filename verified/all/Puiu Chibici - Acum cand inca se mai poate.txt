@@ -1,28 +1,28 @@
 [title]
-Acum, când încă se mai poate {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7194}, id: {saSgFbsBifDVs5Xv4TaWcz}, contentHash: {9c754e}}
+Acum, când încă se mai poate {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7194}, id: {saSgFbsBifDVs5Xv4TaWcz}, contentHash: {4e2588}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-Acum, când încă se mai poate,
-Lucrează, frate, cu folos,
-Că nu-i mai prețios din toate
-Decât ce faci pentru Hristos.
+^{A}Acum, când încă se mai poate,
+^{D}Lucrează, frate, cu fo^{A}los,
+^{D}Că nu-i mai prețios din ^{A}toate
+^{Bm}Decât ce faci pentru Hris^{E}tos.
 
 [v1.2]
-Cât încă ai suflare-n tine,
-Mai poți ofrande să-I aduci,
-Dar s-ar putea ziua de mâine,
-Amicul meu, să n-o apuci!
+^{A}Cât încă ai suflare-n tine,
+^{D}Mai poți ofrande să-I a^{A}duci,
+^{D}Dar s-ar putea ziua de ^{A}mâine,
+^{D}Amicul meu, să ^{E}n-o a{E}puci!
 
 [c]
-/: Fă-ți timp pentru El,
-Fă-ți timp pentru cer,
-Din toate aceasta-i mai presus.
-Fă-ți timp să iubești,
-Fă-ți timp să te jertfești,
-Fă-ți timp astăzi pentru Isus! :/
+/: ^{A}Fă-ți timp pentru ^{E}El,
+Fă-ți ^{D}timp pentru {A}cer,
+Din ^{D}toate a^{A}ceasta-i mai pre^{E}sus.
+Fă-ți ^{A}timp să iu^{E}bești,
+Fă-ți ^{D}timp să te jert^{A}fești,
+Fă-ți ^{D}timp astăzi ^{E}pentru I^{A}sus! :/
 
 [v2.1]
 Fă-ți timp pentru acei ce-n lume

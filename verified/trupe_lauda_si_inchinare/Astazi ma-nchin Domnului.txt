@@ -1,37 +1,29 @@
 [title]
-Astăzi mă-nchin Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2120}, id: {uk8kGsK1iH1qvgM3sBoYYb}, contentHash: {6d054a}}
+Astăzi mă-nchin Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2120}, id: {uk8kGsK1iH1qvgM3sBoYYb}, contentHash: {7183ab}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c
 
 [c]
-/: Astăzi mă-nchin Domnului
-Și-I cânt slavă, căci El,
-Mult bine mi-a făcut.
-Când eram în strâmtorare
-Către El eu am strigat
-Și El mâna și-a întins și m-a salvat. :/
+/: A^{E}stăzi mă-n^{A}chin Domnu^{E}lui
+^{C#m}și-I cânt slavă, ^{F#m}căci El, mult ^{B}bine mi-a ^{E}făcut.
+Când eram în strâmto^{D}rare, către ^{A}El eu am stri^{E}gat
+Și El ^{F£m}mâna și-a în{B}tins și m-a sal^{E}vat. :/
 
 [v1.1]
-Mi-amintesc de ziua-n care
-Dumnezeu m-a încercat,
-A fost ziua-n care Domnul
-De-L iubesc m-a întrebat.
+Mi-a^{E}mintesc de ziua-n ^{A}care Dum^{B}nezeu m-a încer6{E}cat,
+A fost ^{A}ziua-n care ^{E/G#}Domnul de-L iu^{D}besc m-a între^{B}bat.
 
 [v1.2]
-A fost o zi deosebită,
-Abia acum am înțeles;
-Că Isus mult m-a iubit
-Și prin moartea Sa pe cruce m-a ales.
+A fost o ^{G#m}zi deose^{C#m}bită, abia a^{A}cum am înțe^{E}les
+Că ^{A}Isus mult m-a iu^{Fm#}bit
+Și prin ^{A}moartea Sa pe ^{B}cruce ^{B7}m-a a^{E}les.
 
 [v2.1]
-Încercări mereu vin, valuri
-Dar le birui prin Isus.
-Doar în El mi-am pus nădejdea
-Ca s-ajung în ceruri sus.
+Încercări mereu vin, valuri, dar le birui prin Isus.
+Doar în El mi-am pus nădejdea ca s-ajung în ceruri sus.
 
 [v2.2]
-Încercările să vină,
-Prin ele mă întăresc
+Încercările să vină, prin ele mă întăresc
 Și-ntr-o zi, pe nori de slavă,
 Printre miile de sfinți o să-L zăresc.

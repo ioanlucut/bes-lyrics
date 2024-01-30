@@ -1,29 +1,26 @@
 [title]
-Doamne-mi pari îndepărtat {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7384}, id: {kGidXPzDUbSA1pAHbKYugJ}, contentHash: {fbb345}}
+Doamne-mi pari îndepărtat {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7384}, id: {kGidXPzDUbSA1pAHbKYugJ}, contentHash: {7c7abd}}
 
 [sequence]
 v1,p,c,v2,p,c
 
 [v1]
-Doamne-mi pari îndepărtat,
-Chiar ani lumină sau un mai lung drum.
-Deși credința mi-am păstrat,
-Mărturisesc acum: „Nu mă mai simt ascultat.”
+^{Am}Doamne-mi pari îndepărtat,
+Chiar ^{F}ani lumină ^{C}sau un mai lung ^{C}drum.
+^{Am}Deși credința mi-am păstrat,
+Măr^{F}turisesc a^{C}cum: „Nu mă mai simt ascul^{G}tat.”
 
 [p]
-Dar nu știu ce să mai spun
-Și nu știu a-nainta,
-Însă harul ce-l primesc
-Îmi schimbă inima.
+Dar nu ^{F}știu ce să mai spun și nu ^{C}pot a-nainta,
+Însă ^{F}harul ce-l primesc îmi ^{G}schimbă inima.
 
 [c]
-/: Voi cânta, Te voi lăuda,
-Chiar în ceasul cel mai rău.
-Prin durere și prin greu
-Voi cânta, Te voi lăuda.
-Mâinile le-am ridicat,
-Fiindcă ești adevărat,
-Voi cânta... :/
+/: Voi cân^{C}ta, Te voi lău^{F}da,
+Chiar în ^{Am}ceasul cel mai ^{Em}rău.
+Prin du^{F}rere și prin ^{G}greu,
+Voi cân^{C}ta, Te voi lău^{F}da.
+Mâi^{Am}nile le-am ridicat,
+Fiindcă ^{F}ești adevă^{G}rat, voi cân^{C}ta! :/
 
 [v2]
 Nu pot să întrezăresc

@@ -1,26 +1,26 @@
 [title]
-Am găsit în Domnul fericirea {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1381}, id: {qrDMuWUXcBsWE19oTnTdUr}, contentHash: {f4ccdf}}
+Am găsit în Domnul fericirea {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1381}, id: {qrDMuWUXcBsWE19oTnTdUr}, contentHash: {ba0125}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-Am găsit în Domnul fericirea,
-Am găsit mărețul har divin,
-Am găsit în Isus mântuirea
-Ce-am căutat-o de-atâta timp.
+Am gă^{C}sit în ^{Dm/C}Domnul fer^{C}icirea,
+Am gă^{F}sit mărețul har di^{C}vin,
+Am gă^{F}sit în Isus mântui^{C}rea
+Ce-am cău^{D7/9}tat-o de-atâta ^{G7}timp.
 
 [v1.2]
-Am găsit, în Isus, adevărul,
-Când inima mi-am deschis;
-Pace sfântă, binecuvântare
-De la Domnul am primit.
+Am gă^{C}sit, în ^{Dm/C}Isus, ade^{C}vărul,
+Când i^{F}nima mi-am des^{C}chis;
+Pace ^{F}sfântă, binecuvân^{C}tare ^{Am}
+De la ^{C/G}Domnul ^{G7}am pri^{C}mit.
 
 [c]
-/: Glorie, Isuse, Ție!
-Aleluia-n veci, mărire!
-Tu ești a mea fericire!
-Aleluia, Aleluia! :/
+/: ^{F}Glorie, Isuse, ^{C}Ție!
+Ale^{G7}luia-n veci, mă^{C}rire!
+^{F}Tu ești a mea feri^{C}cire!
+Ale^{G7}luia, alelu^{C}ia! :/
 
 [v2.1]
 Când furtuna vine peste mare

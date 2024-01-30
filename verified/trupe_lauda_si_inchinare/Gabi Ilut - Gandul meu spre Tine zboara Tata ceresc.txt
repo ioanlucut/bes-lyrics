@@ -1,29 +1,29 @@
 [title]
-Gândul meu spre Tine zboară, Tată ceresc {alternative: {*}, composer: {Gabi Iluț}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {241236}, id: {eRVv9cBTDD7Q4qEZWqnYyS}, contentHash: {947677}}
+Gândul meu spre Tine zboară, Tată ceresc {alternative: {*}, composer: {Gabi Ilut}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {241236}, id: {eRVv9cBTDD7Q4qEZWqnYyS}, contentHash: {be0083}}
 
 [sequence]
 v1,c,v2,c,b,c
 
 [v1]
-Gândul meu spre Tine zboară, Tată ceresc,
-N-am cuvinte îndeajuns să Îți mulțumesc.
-Eu mi-am pus numai în Tine-ncrederea,
-Fă ce vrei, Doamne, cu viața mea.
+^{Fm}Gândul meu spre ^{Bbm}Tine zboară, Tată ceresc,
+^{Eb}N-am cuvinte în^{Ab}deajuns ^{C}să Îți mulțumesc.
+^{Fm}Eu mi-am pus numai ^{Bbm}în Tine-ncrederea,
+Fă ^{C}ce vrei, Doamne, cu viața mea.
 
 [c]
-/: Pentru fiecare clipă vreau să-Ți mulțumesc,
-Pentru fiecare zi din viață Te slăvesc
-Și în fiecare clipă, Doamne, eu Îți cânt,
-Ești tot ce-am mai scump pe pământ. :/
+/: Pentru ^{Fm}fiecare clipă vreau ^{Bbm}să-Ți mulțumesc,
+Pen^{Eb}tru fiecare zi ^{Ab}din via^{C}ță Te slăvesc
+Și în ^{Fm}fiecare clipă, ^{Bbm}Doamne, eu Îți cânt,
+Ești tot ce-^{Fm}am mai scump pe pământ.
 
 [v2]
 Mă închin cu mulțumire-n fața Ta,
 Chiar de nu îmi dăruiești tot ce aș vrea.
 Dacă voia mea nu este și planul Tău,
-Mă dezleg de tot ce-mi doresc eu.
+Renunț la tot ce vreau eu.
 
 [b]
-Iubirea Ta îmi umple inima,
-Nu mai este loc de altceva în viața mea.
-Iubirea Ta, vreau să rămân în ea,
-S-o trăiesc deplin, Ție mă închin.
+Iu^{Bbm}birea Ta îmi um^{Fm}ple inima,
+^{Bbm}Nu mai este ^{Fm}loc de altceva în viața mea.
+Iu^{Bbm}birea Ta, vreau ^{Fm}să rămân în ea,
+S-o ^{Bbm}trăiesc deplin, ^{C}Ție mă închin.

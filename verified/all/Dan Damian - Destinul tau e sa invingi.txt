@@ -1,22 +1,22 @@
 [title]
-Destinul tău e să învingi {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {886}, id: {sjyHimJ3d87VCJyC24RUmA}, contentHash: {96a026}}
+Destinul tău e să învingi {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {886}, id: {sjyHimJ3d87VCJyC24RUmA}, contentHash: {ef128f}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Destinul tău e să învingi,
-Când ești căzut să te ridici,
-Destinul tău l-a scris cândva Isus.
-Numele tău demult e scris
-În Cartea Vieții, în Paradis,
-Destinul tău e cerul Său, să știi.
+^{C#m}Destinul ^{F#m}tău e să în^{B/D#}vingi,
+Când ești că^{E}zut să te ri^{A}dici,
+Destinul ^{F#m}tău l-a scris când^{B7}va I^{E}sus.
+^{C#m}Numele ^{F#m}tău demult e ^{B/D#}scris
+În Cartea ^{E}Vieții din Para^{A}dis,
+Destinul ^{F#m}tău e cerul ^{B7}Său, să ^{E}știi.
 
 [c]
-/: Nu suntem aici statornici,
-O țara-avem și ea e sus,
-Calea se sfârșește-acolo,
-Când vom vedea toți pe Isus. :/
+/: ^{A/B}Nu sun^{E}tem aici sta^{B/D£}tornici,
+O țara-a^{A}vem și ea e ^{B}sus,
+Calea {E}se sfârșește-a^{B/D#}colo,
+Când vom ve^{A}dea ^{B}toți pe I^{E}sus. :/
 
 [v2]
 Deci să te porți cum e cinstit,

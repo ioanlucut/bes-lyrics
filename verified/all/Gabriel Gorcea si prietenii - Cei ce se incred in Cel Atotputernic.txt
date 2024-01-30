@@ -1,20 +1,20 @@
 [title]
-Cei ce se încred în Cel Atotputernic {alternative: {*}, composer: {Gabriel Gorcea și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {k3SAVqnrpXDyzo9ipWiEfj}, contentHash: {0f5d1d}}
+Cei ce se încred în Cel Atotputernic {alternative: {*}, composer: {Gabriel Gorcea și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {k3SAVqnrpXDyzo9ipWiEfj}, contentHash: {6bb152}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Cei ce se încred în Cel Atotputernic,
-Cei ce-și pun nădejdea în Cel ce este veșnic,
-Cei ce se încred în Domnul Dumnezeu,
-Nu vor fi lăsați în voia celui rău.
+^{Em}Cei ce se încred în ^{Am}Cel Atotputernic,
+Cei ce-și pun nădej^{B7}dea în Cel ce este veș^{Em}nic,
+Cei ce se încred în ^{Am}Domnul Dumne^{Em}zeu,
+Nu vor fi ^{B7}lăsați în voia celui ^{Em}rău.
 
 [c]
-În Tine mă încred orice s-ar întâmpla,
-Chiar de pământul rodul nu-și va da.
-Chiar de nu va fi ploaie pe câmpie,
-Tu-mi trimiți ajutorul ca lui Ilie.
+^{Em}În Tine ^{Am}mă încred orice s-ar în^{Em}tâmpla,
+Chiar de pă^{B7}mântul rodul nu-și va ^{Em}da.
+Chiar de nu ^{Am}va fi ploaie pe câm^{Em}pie,
+Tu-mi trimiți ajuto^{B6}rul ca lui I^{Em}lie.
 
 [v2]
 Cei ce-n orice zi spre Domnul se îndreaptă

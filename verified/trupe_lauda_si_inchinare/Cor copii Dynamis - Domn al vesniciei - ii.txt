@@ -1,22 +1,20 @@
 [title]
-Domn al veșniciei {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {3fEURzKcvCRhp5x1uaSoFZ}, contentHash: {35c8ac}}
+Domn al veșniciei {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {3fEURzKcvCRhp5x1uaSoFZ}, contentHash: {e7be0c}}
 
 [sequence]
 v1,c,v2,c,b,c
 
 [v1]
-Domn al veșniciei,
-Ce pământul ai creat,
-Cerul este al Tău templu,
-Glorie Celui Înălțat!
+^{G2}Domn al veșni^{C2}ciei ^{G2}ce pământul ai cre^{C2}at,
+^{D}Cerul ^{Em}este al Tău ^{C2}templu, ^{Em}Glorie Celui ^{C2}înălțat!
 
 [c]
-Domn al slavei mai sus de galaxii
-Tu ești vrednic, vrednic!
-Universul în veci Te va slăvi
-Tu ești vrednic, vrednic!
-Domn în cer și pe pământ,
-Domn în cer și pe pământ.
+^{G2}Domn al slavei, mai sus de gala^{D4-D}xii,
+Tu ești ^{Em}vrednic, ^{C2}vrednic!
+U^{G2}niversul în veci Te va slă^{D4-D}vi,
+Tu ești ^{Em}vrednic, ^{C2}vrednic!
+^{G2}Domn în cer și pe pă^{C2}mânt,
+^{G2}Ești Domn în cer și pe pă^{C2}mânt.
 
 [v2]
 Dis-de-dimineața Lumina voi întâmpina
@@ -24,4 +22,4 @@ Dis-de-dimineața Lumina voi întâmpina
 Al Tău Nume voi chema:
 
 [b]
-/: Aleluia, ești Domn, ai fost și vei fi ! :/ (3x)
+/: ^{Em}Aleluia, ești ^{C2}Domn, ai fost și vei fi! :/ (3x)

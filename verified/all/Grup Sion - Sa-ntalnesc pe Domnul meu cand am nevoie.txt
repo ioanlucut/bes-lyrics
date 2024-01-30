@@ -1,20 +1,20 @@
 [title]
-Să-ntâlnesc pe Domnul meu când am nevoie {alternative: {*}, composer: {Grup Sion}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2761}, id: {newEiT4d8uZUn5Fs5xshbZ}, contentHash: {2aeca7}}
+Să-ntâlnesc pe Domnul meu când am nevoie {alternative: {*}, composer: {Grup Sion}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2761}, id: {newEiT4d8uZUn5Fs5xshbZ}, contentHash: {29b28c}}
 
 [sequence]
 c,v1,c,v2,c
 
 [v1]
-Să-ntâlnesc pe Domnul meu când am nevoie,
-Pe genunchi în rugăciune-L voi căuta,
-El prin Duhul Său cel Sfânt îmi va răspunde,
-Și oricând vocea Lui voi asculta.
+{D}Să-ntâlnesc pe Domnul ^{G}meu când am ne^{D}voie,
+Pe genunchi în rugă^{A}ciune-L ^{A}voi cău^{D}ta,
+^{D}El ^{Em}prin ^{D/F#}Duhul Său cel ^{G}Sfânt îmi va răs^{D}pun^{Bm}de,
+Și ^{A/C#}ori^{D}când vocea ^{A7}Lui voi ascul^{D}ta.
 
 [c]
-Vocea Lui se aude,
-Ea îmi dă har deplin și bucurii.
-Este vocea care îmi dă siguranță
-Și o voi asculta zi de zi.
+^{D}Vocea {G}Lui se {D}aude,
+Ea îmi ^{Bm}dă har de^{A}plin și ^{G}bucu^{D}rii.
+Este vocea care îmi ^{G}dă sigu^{D/F#}ran^{Bm}ță
+Și ^{A/C#}o ^{D}voi ascul^{A7}ta zi de ^{D}zi.
 
 [v2]
 Vocea Lui e un turn mare și puternic,

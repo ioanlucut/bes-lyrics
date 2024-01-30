@@ -1,20 +1,20 @@
 [title]
-Multă vreme eu am rătăcit {alternative: {*}, composer: {Daniel B. Towner}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {839}, id: {cf7dDaJNxB1xmgJDux4vZZ}, contentHash: {3bdb0c}}
+Multă vreme eu am rătăcit {alternative: {*}, composer: {Daniel B. Towner}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {839}, id: {cf7dDaJNxB1xmgJDux4vZZ}, contentHash: {0ae5cd}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Multă vreme eu am rătăcit,
-Neștiind că Isus m-a iubit,
-Pentru mine că S-a răstignit,
-Pe Golgota.
+^{A}Multă vreme eu am ră^{D-A}tăcit,
+Ne^{E7}știind că I^{A}sus m-a iubit,
+Pen^{A}tru mine că S-a răs^{D-A}tignit,
+Pe ^{E7}Golgo^{A}ta.
 
 [c]
-Sus pe cruce al Său sânge-a curs
-Trupul, inima I le-au străpuns.
-Dar pentru păcatul meu muri,
-Pe Golgota.
+^{D}Sus pe cruce al Său ^{A}sânge-a curs
+^{E7}Trupul, inima I ^{A}le-au străpuns.
+^{D}Dar pentru păcatul ^{A}meu muri,
+Pe ^{E7}Golgo^{A}ta.
 
 [v2]
 Din Cuvântul Domnului cunosc

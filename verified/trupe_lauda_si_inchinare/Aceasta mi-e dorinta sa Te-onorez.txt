@@ -1,21 +1,21 @@
 [title]
-Aceasta mi-e dorința, să Te-onorez {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59763}, id: {8ipLZddXG3Zy7Hbbo93Vm7}, contentHash: {418384}}
+Aceasta mi-e dorința, să Te-onorez {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59763}, id: {8ipLZddXG3Zy7Hbbo93Vm7}, contentHash: {2cb6ce}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Aceasta mi-e dorința, să Te-onorez,
-Cu ființa-ntreagă să Te slăvesc.
+A^{D}ceasta mi-e do^{Bm}rința, să ^{G}Te-o^{D}no^{A}rez,
+^{Bm}Cu ființa-nt^{D}reagă să Te ^{C}slă^{A}vesc.
 Te ador, Stăpâne, și mă închin,
 Lauda și onoarea Ți se cuvin!
 
 [c]
-Ție-Ți dau inima și sufletul meu,
-Pentru Tine vreau să trăiesc!
-Domnul meu, Te iubesc!
-Zi de zi vreau să-mplinesc
-Doar sfântă voia Ta!
+^{D}Ție-Ți dau ini^{A}ma și sufletul ^{Bm}meu,
+Pentru ^{G}Tine ^{A}vreau să tră^{D}iesc!
+Domnul meu, Te iu^{A}besc!
+Zi de zi vreau să-mpli^{Bm}nesc
+Doar ^{G}sfântă ^{A}voia ^{D}Ta!
 
 [v2]
 Vrednic ești de cinste, fii lăudat!

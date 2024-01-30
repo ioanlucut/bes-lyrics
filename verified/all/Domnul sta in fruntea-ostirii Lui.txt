@@ -1,21 +1,24 @@
 [title]
-Domnul stă în fruntea-oștirii Lui {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4897}, id: {xiKDdrdF93Wt4aat9JLATT}, contentHash: {11871b}}
+Domnul stă în fruntea oștii Lui {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4897}, id: {xiKDdrdF93Wt4aat9JLATT}, contentHash: {cf9fb6}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Domnul stă în fruntea-oștirii Lui, nimeni nu o poate birui,
-Pretutindeni slava Lui se va vedea.
-Tu să porți al biruinței steag, slavă Lui, Isus a câștigat!
-Nicio armă nu-i mai tare ca a Lui.
+^{Bm}Domnul stă în fruntea ^{Em}oștii ^{Bm}Lui,
+Nimeni nu o poate ^{Em}biru6{Bm}i.
+Pretu^{G}tindeni slava ^{A}Lui se va ve^{Bm}dea.
+^{Bm}Tu să porți al biru^{Em}inței ^{Bm}steag,
+Slavă Lui, Isus a ^{Em}câști^{Bm}gat,
+Nicio a^{G}rmă nu-i mai ^{A}tare ca a ^{Bm}Lui!
 
 [c]
-/: Un Domn triumfător e Isus, noi Îl urmăm unde ne duce.
-Vrăjmașii nu se pot împotrivi. :/
+/: Un ^{G}Domn triumfător e ^{D}Isus,
+Noi ^{G}Îl urmăm unde ne ^{D}duce,
+Vrăj^{G}mașii nu se ^{A}pot împotri^{Bm}vi. :/
 
 [v2]
-Domnul stă în fruntea-oștirii Lui, nimeni nu o poate birui,
+Domnul stă în fruntea oștii Lui, nimeni nu o poate birui.
 Pretutindeni slava Lui se va vedea.
 Stăm în oastea biruinței Lui, se descoperă domnia Lui,
 Să intrăm în țara care ne-a promis.

@@ -1,0 +1,20 @@
+[title]
+Înaintea Ta, Isuse, azi în rugă îndrăznim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {aLQaQ5eD6rvZ8rcbwB78nf}, contentHash: {717c0d}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+^{Cm#}Înaintea Ta, I^{A}suse, ^{B}azi în rugă îndrăz^{E}nim,
+A^{C#m}ducând pe-a noastre ^{A}brațe ^{Cm#}copilaș, ce dar su^{B}bli!
+
+[C]
+/: ^{E}Doamne, binecuvân^{A}tare ^{E}peste-a^{C#m}cest copil ^{A}să lași,
+^{E}Fața Ta să-l lu^{A}mineze, ^{E/Cm#}să-l pă^{B}zești la orice ^{E}pas! :/
+
+[v2]
+Ia-^{Cm#}l în brațul Tău de ^{A}Tată, ^{B}de-orice rău să-l ocro^{E}tești,
+^{Cm#}Până vom ajunge-n ^{A}slavă ^{Cm#}pașii să-i călău^{B}zești!
+
+[e]
+Să-l păzești la ^{E}orice pas!

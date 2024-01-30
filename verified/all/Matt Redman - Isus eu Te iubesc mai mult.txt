@@ -1,20 +1,21 @@
 [title]
-Isus, eu Te iubesc mai mult {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5136}, id: {8EopjdjBGpZS5shB3LiqNr}, contentHash: {a36291}}
+Isus, eu Te iubesc mai mult {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5136}, id: {8EopjdjBGpZS5shB3LiqNr}, contentHash: {8c8f8a}}
 
 [sequence]
 v1,p,c
 
 [v1]
-Isus, eu Te iubesc mai mult
-Decât iubesc orice pe-acest pământ.
-Ești tot ce-mi doresc și toată viața mea Ți-o-nchin.
-Cu tot ce sunt pe Tine Te slăvesc, eu Te slăvesc.
+^{Em}Isus, eu Te iubesc mai mult
+De^{C}cât iubesc orice pe-acest pă^{G}mânt.
+Ești tot ce-mi do^{G}resc și ^{Em}toată viața mea Ți-o-nchin.
+Cu ^{C}tot ce sunt pe Tine Te slă^{G}vesc, eu Te slă^{D}vesc.
 
 [p]
-Și îngerii Te adoră, copiii Tăi Te laudă.
+Și ^{Am7}înge^{G}rii Te a^{G}do^{D}ră,
+Co^{Am}piii ^{C}Tăi Te lau^{D4}dă. ^{D}
 
 [c]
-/: Ești tot ce am, ești Domnul meu,
-Mă-ncredințez în brațul Tău,
-Ești Domnul meu, ești Tatăl meu,
-Tu nu poți fi înlocuit. :/
+/: Ești tot ce ^{G}am, ești Domnul ^{D}meu,
+Mă-ncredin^{Am}țez în brațul ^{D}Tău,
+Ești Domnul ^{G}meu, ești Tatăl ^{D}meu,
+Tu nu poți ^{Am}fi în^{G/B}locu^{D}it. :/

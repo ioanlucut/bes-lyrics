@@ -1,18 +1,18 @@
 [title]
-O, Doamne mare {alternative: {*}, composer: {Carl Boberg}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1630}, id: {7dRrBrYYHJrgjDvXPTvnqs}, contentHash: {e001b3}}
+O, Doamne mare {alternative: {*}, composer: {Carl Boberg}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1630}, id: {7dRrBrYYHJrgjDvXPTvnqs}, contentHash: {83c843}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
 
 [v1]
-O, Doamne mare, când privesc eu lumea,
-Ce ai creat-o prin al Tău Cuvânt
-Și ființele ce-mpodobesc natura,
-Cum le-ntreții cu brațul Tău cel sfânt.
+^{E7}O, Doamne ^{A}mare, când pri^{A7}vesc eu ^{D}lumea,
+Ce ai cre^{A}at-o ^{E7}prin al Tău Cu^{A}vânt
+^{E7}Și ființele ^{A}ce-m^{A7}podobesc na^{D}tura,
+Cum le-ntre^{A}ții cu ^{E7}brațul Tău cel ^{A}sfânt.
 
 [c]
-/: Atunci Îți cânt, măreț Stăpânitor:
-Ce mare ești! Ce mare ești! :/
+/: Atunci Îți ^{A}cânt, Mă^{D}reț Stăpâni^{A}tor:
+„Ce mare ^{Bm}ești, ce ^{E7}mare ^{A}ești!” :/
 
 [v2]
 Privirea când mi-o-nalț și văd minunea,

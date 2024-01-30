@@ -1,17 +1,17 @@
 [title]
-Hai, vino acum să-L lauzi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4512}, id: {qeYnxt76VdZ479kNPEhpSg}, contentHash: {4e9e1e}}
+Hai, vino acum să-L lauzi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4512}, id: {qeYnxt76VdZ479kNPEhpSg}, contentHash: {ddea6c}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Hai, vino acum să-L lauzi!
-Hai, vino să-I dai Lui inima!
-Hai, așa cum ești să-L lauzi,
-Hai, așa cum ești ‘naintea Sa, hai!
+^{D}Hai, vino acum să-L ^{G}lau^{D}zi!
+^{A}Hai, vino să-I dai Lui ^{Em}i^{D/F#}ni^{G}ma!
+^{D}Hai, așa cum ești să-L ^{G}lau^{D}zi,
+^{A}Hai, așa cum ești ‘na^{Em}in^{D/F#}tea ^{G}Sa, ^{D}hai!
 
 [c]
-Vor mărturisi toți că doar Tu ești Domn,
-Toți genunchii se vor pleca,
-Binecuvântați vor fi toți cei ce
-Acum Te vor căuta! :/
+^{G}Vor mărturisi toți că ^{D}doar Tu ești Domn,
+^{G}Toți genunchii se vor ple^{D}ca,
+^{G}Binecuvântați vor fi ^{Bm}toți cei ce
+A^{G}cum Te vor cău^{A4}ta! :/ ^{A}

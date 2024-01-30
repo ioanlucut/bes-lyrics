@@ -1,39 +1,29 @@
 [title]
-Eu mă-ncred doar în Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3840}, id: {prBBRn6cmNDEZY42xSRmw7}, contentHash: {190a26}}
+Eu mă-ncred doar în Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3840}, id: {prBBRn6cmNDEZY42xSRmw7}, contentHash: {c986be}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Eu mă-ncred doar în Domnul,
-El mă ajută!
-Eu mă-ncred doar în Domnul,
-El e-a mea stâncă!
-El e-al meu turn în care la necaz alerg,
-Eu mă-ncred doar în Domnul,
-Știu că nu greșesc.
+^{B/A}Eu mă-ncred ^{E}doar în Domnul, El mă aju^{B2}tă!
+Eu mă-ncred ^{A/F#}doar în Domnul, ^{A} El e-a ^{E/B}mea ^{B6}Stân^{E}că!
+El e-al meu turn în care ^{E7}la necaz ^{A-A/F#}alerg,
+Eu mă-ncred ^{B7}doar în Domnul, știu că nu gre^{E}șesc.
 
 [c]
-Pe Domnul slăvesc, ajutorul meu,
-El e slava mea și când drumu-i greu,
-Toate popoarele lumii să se-ncreadă-n El!
-Eu mă-ncred doar în Domnul,
-Știu că nu greșesc.
+Pe Domnul slă^{B7}vesc, ajutorul ^{E}meu,
+El e slava ^{B7}mea și când drumu-i ^{E}greu,
+Toate popoarele lumii ^{E7}să se-ncreadă-n El!
+Eu ^{A/F#}mă-ncred ^{B7}doar în Domnul, ^{B/A}știu că ^{E/B}nu ^{B7}gre^{E}șesc.
 
 [v2]
-Eu mă-ncred doar în Domnul,
-El revarsă har!
-Eu mă-ncred doar în Domnul,
-Viață-mi dă în dar!
+Eu mă-ncred doar în Domnul, El revarsă har!
+Eu mă-ncred doar în Domnul, viață-mi dă în dar!
 El e al meu turn în care la necaz alerg,
-Eu mă-ncred doar în Domnul,
-Știu că nu greșesc.
+Eu mă-ncred doar în Domnul, știu că nu greșesc.
 
 [v3]
-Eu mă-ncred doar în Domnul,
-În Duhul Său Sfânt!
-Eu mă-ncred doar în Domnul,
-Aici pe pământ!
+Eu mă-ncred doar în Domnul, în Duhul Său Sfânt!
+Eu mă-ncred doar în Domnul aici pe pământ!
 El e al meu turn în care la necaz alerg,
-Eu mă-ncred doar în Domnul,
-Știu că nu greșesc.
+Eu mă-ncred doar în Domnul, știu că nu greșesc.

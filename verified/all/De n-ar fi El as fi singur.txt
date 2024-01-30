@@ -1,20 +1,21 @@
 [title]
-De n-ar fi El, aș fi singur {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7P6pyfdwD5kxFFLQ41xcqi}, contentHash: {5bebe1}}
+De n-ar fi El, aș fi singur {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7P6pyfdwD5kxFFLQ41xcqi}, contentHash: {312df4}}
 
 [sequence]
 v1,c,v2
 
 [v1]
-De n-ar fi El, aș fi singur,
-Pierdut aș fi fără El!
-Nici drumul nu mi-ar fi sigur,
-N-aș putea să ajung la țel.
+^{E}De n-ar fi El, aș fi ^{B7}singur,
+Pierd^{B9}ut aș fi fără ^{E}El!
+Nici drumul ^{E7}nu mi-ar fi ^{A}si^{Am}gur, ^{F#}
+^{E/B}N-aș putea să a^{B7}jung la ^{E}țel.
 
 [c]
-Isus, o, Isus.
-Îl cunoști, tu, acum, pe Păstorul meu bun?
-Isus, scump Isus,
-Cu Tine mă simt fericit!
+I^{E}sus, ^{A}o, ^{E/B}Isus. ^{E}
+Îl cu^{B7}noști, tu, acum,
+Pe Păs^{E}torul meu ^{E7}bun?
+^{A}Isus, scump ^{E\B}Isus ^{C/M},
+cu ^{E/B}Tine mă ^{B7}simt feri^{E}cit!
 
 [v2]
 De n-ar fi El, n-ar fi soare,

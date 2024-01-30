@@ -1,20 +1,18 @@
 [title]
-Te caut, Doamne, caut fața Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8uX7oWn9X5g8cX1eT9avMM}, contentHash: {e4b964}}
+Te caut, Doamne, caut fața Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8uX7oWn9X5g8cX1eT9avMM}, contentHash: {e5729c}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Te caut, Doamne, caut fața Ta,
-Te caut, Doamne, caut voia Ta.
-Tu ești stânca și ajutorul meu,
-Mă-ncred în Tine, căci Tu ești Dumnezeu.
+^{G}Te caut, ^{G/C}Doam^{G}ne, ^{Bm}caut fața Ta,
+Te caut, ^{C}Doamne, ^{Am}caut voia ^{D}Ta.
+Tu ești ^{G/C}stân^{G}ca și aju^{Bm}torul meu,
+Mă-ncred în ^{C}Tine, căci ^{Am}Tu ești Dum^{D}nezeu.
 
 [c]
-/: Arată-mi slava Ta,
-Arată-mi iubirea Ta, (Doamne)
-Întinde-Ți brațul Tău
-Că sunt copilul Tău. :/
+/: ^{G}Arată-mi slava ^{Am}Ta, ^{D7}arată-mi iubirea ^{G}Ta,
+În^{G}tinde-Ți brațul ^{Am}Tău că ^{D7}sunt copilul ^{G}Tău! :/
 
 [v2]
 Ascultă, Doamne, rugăciunea mea,

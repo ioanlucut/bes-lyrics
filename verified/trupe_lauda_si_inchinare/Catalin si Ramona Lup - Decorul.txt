@@ -1,23 +1,23 @@
 [title]
-Decorul {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111581}, id: {mk3TkKw7R5h2hufZDs9P5R}, contentHash: {4f70b1}}
+Decorul {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111581}, id: {mk3TkKw7R5h2hufZDs9P5R}, contentHash: {b5599b}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Aș vrea să mă rog, dar nu pot,
-Cuvinte nu am să pot spune tot.
-Poate-ar fi mai bine să tac;
-Un moment de tăcere să las.
+^{D}Aș vrea să ^{E}mă rog, dar nu ^{F#m}pot,
+Cu^{D}vinte nu ^{E}am să pot spune {F#m7}tot.
+Poate-ar ^{D}fi mai bi^{E}ne să tac;
+Un mo^{D}ment de tă^{E}cere să ^{A}las.
 
 [c]
-Îndepărtează, Doamne, norul
-Ce-asupra mea umbrește-așa des!
-Aranjează, Tu, Doamne decorul
-Luminos și frumos precum ești!
+Îndepăr^{D}tează, Doam^{E}ne, ^{F#m7}norul
+^{F#m7}Ce-asupra ^{D}mea um^{E}brește-așa ^{A}des!
+Aran^{D}jează, Tu, Doam^{E}ne de^{F#m7}corul
+Lumi^{D}nos și fru^{A}mos precum ^{A}ești!
 
 [v2]
-Aștept acea pace deplină
-Pe care doar Tu o poți da,
-Dar încă ființa mi-e plină
-De mare neliniștea mea.
+Aș^{D}tept acea ^{E}pace de^{F#m}plină
+Pe care ^{D}doar ^{E}Tu o poți ^{F#m}da,
+^{D}Dar încă fi^{E}ința mi-e pli^{F#m7}nă
+De ^{D}mare neli^{E}niștea ^{A}mea.

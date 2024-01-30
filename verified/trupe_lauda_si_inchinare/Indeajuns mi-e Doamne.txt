@@ -1,27 +1,21 @@
 [title]
-Îndeajuns mi-e, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fvsCWcYcHrThuE2KLaQeWw}, contentHash: {7ab664}}
+Îndeajuns mi-e, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fvsCWcYcHrThuE2KLaQeWw}, contentHash: {2bbd36}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-/: Îndeajuns mi-e, Doamne,
-Doar harul Tău! :/
+/: ^{E}Îndeajuns mi-e, ^{(B7)}Doamne, doar harul ^{F#m7}Tău! ^{(E)}:/
 
 [c]
-/: Te laud, Doamne!
-Te preamăresc!
-Îmi ridic mâinile spre cer
-Și Te slăvesc! :/
+/: ^{E}Te laud, Doamne, Te ^{E7}prea^{A}măresc, ^{Am/F#}
+Îmi ridic ^{E/B}mâinile spre ^{B7}cer și Te slă^{E}vesc! :/
 
 [v2]
-/: Îndeajuns mi-e, Doamne,
-Cuvântul Tău! :/
+/: Îndeajuns mi-e, Doamne, Cuvântul Tău! :/
 
 [v3]
-/: Îndeajuns mi-e, Doamne,
-Dragostea Ta! :/
+/: Îndeajuns mi-e, Doamne, dragostea Ta! :/
 
 [v4]
-/: Mă-nchin în fața
-Tronului Tău! :/
+/: Mă-nchin în fața tronului Tău! :/

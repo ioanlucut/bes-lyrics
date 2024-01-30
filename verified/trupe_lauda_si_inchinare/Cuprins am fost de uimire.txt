@@ -1,29 +1,21 @@
 [title]
-Cuprins am fost de uimire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7301}, id: {9wGAaLtf8hruHhqG9e5FDm}, contentHash: {847958}}
+Cuprins am fost de uimire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7301}, id: {9wGAaLtf8hruHhqG9e5FDm}, contentHash: {c5d44f}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Cuprins am fost de uimire,
-De ce Isus m-a iubit,
-Un păcătos rău din fire
-Și vrednic de osândit.
+^{E}Cuprins am fost de uimire, de ^{B}ce Isus m-a iu^{E}bit,
+Fiind ^{A}păcătos rău din ^{E}fi^{C#/m}re și ^{E}vrednic de ^{B}osân^{E}dit.
 
 [c]
-Ce minunat! Ce glorios!
-Neîncetat eu voi cânta:
-Ce minunat! Ce glorios!
-E Domnu-n iubirea Sa.
+^{E}Ce minunat! Ce glorios! ^{B}Neîncetat eu voi cânta:
+^{E}Ce minunat! Ce glorios! ^{F#m}E Dom^{E}nu-n iubi^{B}rea ^{E}Sa.
 
 [v2]
-El cu sudoare de sânge,
-În Ghetsimani S-a rugat.
-Ce chin, ce plâns, și ce luptă
-Pentru mine a purtat.
+El cu sudoare de sânge, ]n Ghetsimani S-a rugat.
+Ce chin, ce plâns, și ce luptă pentru mine a purtat.
 
 [v3]
-Păcatul și-a mea osândă,
-Asupra Sa le-a luat
-Ca să-mi dea mie izbândă
-Muri El crucificat.
+Păcatul și-a mea osândă asupra Sa le-a luat
+Ca să-mi dea mie izbândă muri El crucificat.

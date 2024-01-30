@@ -1,20 +1,20 @@
 [title]
-Păcatul mi-a luat El, Cel Preasfânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hMVCEBJLiLeKjL6K5mJDqD}, contentHash: {0b2178}}
+Păcatul mi-a luat El, Cel Preasfânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hMVCEBJLiLeKjL6K5mJDqD}, contentHash: {88fad0}}
 
 [sequence]
 v1,c,v2,b,c,e
 
 [v1]
-Păcatul mi-a luat El, cel Preasfânt,
-Ca eu să devin neprihănit.
-Umil S-a-ntrupat și-a luat crucea grea
-Ce dragoste mare, dragoste mare.
+Pă^{F}catul mi-a luat El, ^{G#m}Cel Preasfânt,
+Ca ^{F/A}eu să devin ne^{Bb2}prihănit.
+U^{F}mil S-a-ntrupat și-a ^{Gm7}luat crucea grea
+Ce ^{F/C}dragoste ^{Bb2}mare, d^{F/C}ragoste ^{Bb2}mare.
 
 [c]
-/: Isus Mesia, Nume puternic,
-Mântuitorul, Emanuel,
-El e Adevărul, Calea spre viață,
-Isus Mesia, Domnul tuturor. :/
+/: Isus Me^{F}sia, Nume pu^{Bb2}ternic,
+Mântui^{F/A-F}torul, Emanu^{Csus-C}el,
+El e Ade^{F}vărul, Calea spre ^{Bb2}viață,
+Isus Me^{F/A}sia, ^{C}Domnul tutu^{F}ror. :/
 
 [v2]
 Prin trupul Său frânt și sângele curs,
@@ -23,11 +23,9 @@ Răscumpărare am primit
 Ce jertfă măreață, jertfă măreață!
 
 [b]
-Pacea noastră ești Tu,
-Viața noastră ești Tu,
-Domnul nostru ești Tu,
-Măreț Dumnezeu!
+Pacea noastră ești Tu, viața noastră ești Tu,
+Domnul nostru ești Tu, măreț Dumnezeu!
 
 [e]
-Isus Mesia, Domnul tuturor,
-El, Isus, Domnul tuturor!
+^{Bb2}Isus Me^{F/A}sia, ^{C}Domnul tutu^{F}ror,
+^{Bb2}El, I^{C}sus, Domnul ^{Bb/C}tutu^{F}ror!

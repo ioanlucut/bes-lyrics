@@ -1,20 +1,20 @@
 [title]
-În această noapte sfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3604}, id: {g5NmByFdTVaYFnsjgan383}, contentHash: {d4bedd}}
+În această noapte sfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3604}, id: {g5NmByFdTVaYFnsjgan383}, contentHash: {436d7a}}
 
 [sequence]
 c,v1,c,v2
 
 [c]
-În această noapte sfântă, S-a născut Mesia,
-Prin fecioară preacurată, S-a născut Mesia.
-Într-o iesle-ndepărtată, S-a născut Mesia,
-Darul cel promis de Dumnezeu, osana!
+^{Em}În această noapte sfântă, ^{B7}S-a născut Mesia,
+^{B7}Prin fecioară preacurată, ^{Em}S-a născut Mesia.
+^{G}Într-o iesle-ndepărtată, ^{Am}S-a născut Mesia,
+^{B}Darul cel promis de Dumne^{Em}zeu!
 
 [v1]
-Magii din Răsărit I-aduc slavă
-Și Pruncului atunci s-au închinat.
-Îngeri pe pământ și sus în ceruri
-Cântă slavă Celui Preaînalt, osana.
+^{G}Magii din Răsărit I-aduc ^{A}daruri
+^{D}Și Pruncului atunci s-au în^{G-B}chinat.
+^{Em}Îngeri pe pământ și sus în ^{Am}ceruri
+^{B}Cântă slavă Celui Preaînalt, ^{B-Am-Em-B7}osana.
 
 [v2]
 Cu îngerii, păstorii și cu magii

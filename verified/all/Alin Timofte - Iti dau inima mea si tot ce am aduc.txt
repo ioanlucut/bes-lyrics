@@ -1,19 +1,19 @@
 [title]
-Îți dau inima mea și tot ce am aduc {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2466}, id: {3n5vUUr8XiXnJivR5ziZuA}, contentHash: {b01c50}}
+Îți dau inima mea și tot ce am aduc {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2466}, id: {3n5vUUr8XiXnJivR5ziZuA}, contentHash: {920cdd}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Îți dau inima mea și tot ce am aduc
-Acum ‘naintea Ta, de dragul Tău, Isus.
+^{E}Îți dau ^{B}inima mea și tot ce am a^{A}duc
+Acum ‘naintea ^{C#m}Ta, de dragul ^{B/D£}Tău, I^{E}sus.
 
 [v1.2]
-Tot ce eu visez, mândria mea Ți-o dau,
-Renunț la dreptul meu ca viața Ta s-o am.
+Tot ce eu vi^{B}sez, mândria mea Ți-o ^{A}dau,
+Renunț la dreptul ^{C#m}meu ca viața ^{B}Ta s-o ^{E}am.
 
 [c]
-/: Și Ție Îți dau tot ce sunt, tot ce am! :/
+/: Și ^{C#m}Ți^{B}e Îți ^{E}dau ^{A}tot ce ^{E/G}sunt, ^{C#m}tot ce ^{B}am! :/
 
 [v2.1]
 Îți dau cântecul meu, aștept la crucea Ta,

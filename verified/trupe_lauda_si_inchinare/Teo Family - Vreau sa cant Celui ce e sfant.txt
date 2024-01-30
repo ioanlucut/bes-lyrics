@@ -1,22 +1,22 @@
 [title]
-Vreau să cânt Celui ce e sfânt {alternative: {*}, composer: {Teo Family}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190872}, id: {vzQYcvx3x1cDevgXBuPTxT}, contentHash: {f4bde1}}
+Vreau să cânt Celui ce e sfânt {alternative: {*}, composer: {Teo Family}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190872}, id: {vzQYcvx3x1cDevgXBuPTxT}, contentHash: {8fa623}}
 
 [sequence]
 v1,c,v2,c,b,c
 
 [v1]
-Vreau să cânt Celui ce e sfânt
-În cer și pe pământ.
-Să-L slăvesc, cu fiecare vers,
-Mai mult să-L prețuiesc!
+^{E}Vreau să cânt Celui ^{E/C#}ce e sfânt
+În ^{A}cer și pe pă^{B}mânt.
+Să-L ^{E}slăvesc, cu fi^{E/C#}ecare vers,
+Mai ^{A}mult să-L prețu^{B-B4}iesc!
 
 [c]
-/: Speranța mea, bucuria mea,
-Sprijin pe cărare,
-El mi-aduce vindecare!
-Adăpostul meu, Tatăl meu,
-Încercarea niciodată nu-i prea mare :/
-Când mă-ncred deplin în El!
+/: ^{E}Speranța mea, bu^{E/C#}curia mea,
+^{A}Sprijin pe cărare,
+El mi-^{E/C#}aduce vinde^{B}care!
+Adă^{E}postul meu, ^{E/C#}Tatăl meu,
+Încer^{A/F#}carea niciodată nu-i prea ^{B}mare :/
+^{B}Când mă-ncred deplin în ^{E}El!
 
 [v2]
 Vreau să cânt cum n-am mai cântat,
@@ -25,7 +25,7 @@ Să-L iubesc și să-I mulțumesc
 Pentru fiecare clipă ce trăiesc!
 
 [b]
-/: În mâna Ta e viața mea,
-În mâna Ta, în mâna Ta!
-În mâna Ta e viața mea,
-În mâna Ta... :/
+/: ^{E}În mâna ^{A}Ta e viața ^{E}mea,
+În mâna ^{B}Ta, în mâna ^{C#m}Ta!
+În mâna ^{A}Ta e viața ^{E}mea,
+În mâna ^{B}Ta. :/

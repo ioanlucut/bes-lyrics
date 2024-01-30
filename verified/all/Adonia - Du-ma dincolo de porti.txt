@@ -1,5 +1,5 @@
 [title]
-Du-mă dincolo de porți {alternative: {*}, composer: {Adonia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103391}, id: {kwadF9dsAoQHt8fkTDoTFP}, contentHash: {779233}}
+Du-mă dincolo de porți {alternative: {*}, composer: {Adonia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103391}, id: {kwadF9dsAoQHt8fkTDoTFP}, contentHash: {f95e38}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -11,11 +11,10 @@ Du-mă dincolo de oameni și de cei ce Te-au văzut,
 Să fiu flămând și însetat, după Tine, Domn Preasfânt!
 
 [c]
-Du-mă, Doamne, în sfânta-Ți prezență,
-Du-mă, Doamne, prin sângele sfânt,
-Du-mă, Doamne, în sfânta-Ți prezență!
-/: Ia cărbunele, atinge-mi buzele,
-Iartă-mă! :/
+^{Dm}Du-mă, Doamne, în sfânta-Ți pre^{G}zență,
+Du-mă, ^{Gm}Doamne, prin ^{Dm}sângele ^{Dm//-A7/}sfânt,
+Du-mă, ^{Dm}Doamne, în sfânta-Ți pre^{G}zență!
+/: Ia căr^{Bb}bunele, atinge-mi ^{C}buzele, iartă-^{Dm}mă! :/
 
 [v2]
 Du-mă dincolo de gânduri, dincolo de nori,

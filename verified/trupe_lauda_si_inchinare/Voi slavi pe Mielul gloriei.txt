@@ -1,23 +1,22 @@
 [title]
-Voi slăvi pe Mielul gloriei {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5147}, id: {hxiwr2QRkxAG91ETrGde4o}, contentHash: {47f8d4}}
+Voi slăvi pe Mielul gloriei {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5147}, id: {hxiwr2QRkxAG91ETrGde4o}, contentHash: {8f85b3}}
 
 [sequence]
 v1,c1.1,c1.2,v1,c1.1,c1.2
 
 [v1]
-/: Voi slăvi pe Mielul gloriei,
-Regelui regilor mă-nchin.
-Voi slăvi pe Mielul gloriei,
-Regelui eu mă-nchin. :/
+/: ^{D}Voi slăvi pe Mie^{A}lul gloriei,
+^{Bm}Regelui regi^{A}lor mă-nchin.
+^{D}Voi slăvi pe Mie^{Em}lul gloriei,
+^{G}Rege^{A}lui eu mă-n^{D}chin. :/
 
 [c1.1]
-/: Și mâinile mi le-nalț
-Și-naintea Ta vin,
-Mâinile mi le-nalț
-Și mă bucur în Tin’.
+/: Și mâinile mi le-^{A}nalț
+Și-na^{G}intea Ta ^{D}vin,
+Mâinile mi le-^{A}nalț
+Și mă ^{G}bucur în ^{D}Tin’.
 
 [c1.2]
-Îmi înalț mâinile către cer,
-Lumea-ntreabă: „De ce?”
-Eu le spun
-Că-mi iubesc Regele. :/
+Îmi înalț mâini^{G}le către ^{F#m}cer,
+Lumea-n^{Em}treabă: „De ^{Bm}ce?”
+Eu le ^{G}spun că-mi iu^{A}besc Re^{D}gele. :/

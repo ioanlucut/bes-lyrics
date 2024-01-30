@@ -1,14 +1,14 @@
 [title]
-Domnul e mult mai mare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {151242}, id: {n9PejijdMekpZgA8dXehqq}, contentHash: {c2b1e3}}
+Domnul e mult mai mare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {151242}, id: {n9PejijdMekpZgA8dXehqq}, contentHash: {b8592e}}
 
 [sequence]
 c,v1,c,v2,c
 
 [c]
-Domnul e mult mai mare decât problema mea,
-Orice munte-oricât de tare, se apleacă-n fața Sa.
-Semnele de întrebare nu Îi pot rezista,
-Orice munte-oricât de tare se apleacă-n fața Sa.
+^{C}Domnul e mult mai mare de^{F}cât problema ^{C}mea,
+Orice munte-oricât de tare, se apleacă-n fața ^{G}Sa.
+^{C}Semnele de întrebare nu ^{F}Îi pot rezis^{C}ta,
+Orice munte-oricât de tare se a^{G}pleacă-n fața ^{C}Sa.
 
 [v1]
 Umbrele mă înconjoară, dar El e prezent,

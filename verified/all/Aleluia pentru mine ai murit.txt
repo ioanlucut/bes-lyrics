@@ -1,13 +1,13 @@
 [title]
-Aleluia, pentru mine ai murit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kqtD4J54jfzn6tFr9C4qLY}, contentHash: {df9c35}}
+Aleluia, pentru mine ai murit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kqtD4J54jfzn6tFr9C4qLY}, contentHash: {2ecb9e}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Aleluia, pentru mine ai murit,
-Aleluia, pentru min’ ai biruit.
+^{C#m}A^{B/D#}lelu^{E}ia, pentru ^{A}mine ai ^{C#m}mu^{B}rit,
+^{C#m}A^{B/D#lelu^{E}ia, pentru ^{A}min’ ai ^{C#m}biru^{B}it.
 
 [c]
-Domn peste-ntreg pământ, Regele înviat.
-Pe tron ești înălțat, Rege înviat.
+Domn peste-n^{A}treg pă^{C#m-B}mânt, Regele în^{A}vi^{C#m-B}at.
+Pe tron ești înălțat, Rege în^{A}vi^{C#m-B}at.

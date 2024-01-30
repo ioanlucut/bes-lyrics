@@ -1,29 +1,29 @@
 [title]
-Doar Hristos, Speranța mea! {alternative: {*}, composer: {Brian Johnson și Phil Wickham}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {199137}, id: {uTxhLyXe6cYKc4mLNGs2v7}, contentHash: {101704}}
+Doar Hristos, Speranța mea! {alternative: {*}, composer: {Brian Johnson și Phil Wickham}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {199137}, id: {uTxhLyXe6cYKc4mLNGs2v7}, contentHash: {1f9cc9}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
 [v1.1]
-Cât de departe eram de Tine,
-Un munte ce nu-l puteam urca.
-În disperare priveam spre ceruri,
-Numele Tău l-am chemat.
+Cât de de^{A}parte eram de ^{E4}Tine,
+Un munte ^{D2}ce nu-l ^{F#m7}puteam ur^{E4}ca.
+În dispe^{A}rare priveam spre ^{E4}ceruri,
+Nume^{D2}le Tău ^{E4}l-am che^{A}mat.
 
 [v1.2]
-În întuneric, iubirea-Ți mare
-A spulberat păcatul greu.
-Murind pe cruce, a scris sfârșitul
-Doar Hristos, speranța mea.
+În întu^{D2}neric, iubirea-Ți ^{A}mare
+A spulbe^{Fm#7}rat păcatul ^{E}greu.
+Murind pe ^{A}cruce, a scris sfâr^{E4}șitul
+Doar Hris^{D}tos, spe^{E4}ranța ^{A///}mea.
 
 [c]
-Aleluia! Isus m-a eliberat!
-Aleluia! Moartea nu a triumfat!
-Lanțurile au căzut, m-a iertat de-al meu trecut,
-Doar Hristos, speranța mea.
+Ale^{D2}lu^{A}ia, Isus ^{E}m-a elibe^{F#m7}rat!
+Ale^{D2}lu^{A}ia, moartea ^{E}nu a trium^{F#m7}fat!
+Lanțu^{D2}rile au că^{A}zut, m-a ier^{E}tat de-al meu tre^{F#m7}cut,
+^{A/E}Doar Hris^{D2}tos, spe^{E4}ran^{E}ța ^{(A///)-F#m//}mea.
 
 [v2.1]
-Cine-ar putea să-I cuprindă mila,
+^{D2//}Cine-ar putea să-I cuprindă mila,
 Și bogăția harului Său,
 Al slavei Rege gloria-a lăsat-o
 Să ia păcatul meu și-al tău.
@@ -35,8 +35,11 @@ Mântuitor bun, al Tău pe veci sunt,
 Doar Hristos, speranța mea.
 
 [b]
-/: În dimineața promisiunii,
-Când din mormânt El a înviat,
-Leul din Iuda a-nvins păcatul
-Prin moartea Sa ne-a răscumpărat. :/
-Isus, Tu ne-ai răscumpărat!
+/: În dimi^{A}neața promisi^{E4}unii,
+Când din mor^{D2}mânt El ^{F#m7}a învi^{E4}at,
+Leul din ^{A}Iuda a-nvins pă^{E4}catul
+Prin moartea ^{D2}Sa ne-a răs^{E4}cumpă^{(A)-F#m}-rat. :/
+Isus, ^{D2}Tu ne-ai e^{E4}libe^{A}rat!
+
+[e]
+/: ^{A/E}Doar Hris^{D2}tos, spe^{E4}ran^{E}ța ^{(F#m)-A}mea. :/

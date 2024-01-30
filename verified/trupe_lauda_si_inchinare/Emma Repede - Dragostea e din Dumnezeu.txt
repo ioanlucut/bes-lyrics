@@ -1,22 +1,22 @@
 [title]
-Dragostea e din Dumnezeu {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78305}, id: {7EooN38fNqa7tLmyfXKegr}, contentHash: {cb5273}}
+Dragostea e din Dumnezeu {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78305}, id: {7EooN38fNqa7tLmyfXKegr}, contentHash: {a57336}}
 
 [sequence]
 c,v1,c,v2,c,v3
 
 [v1]
-Dragostea e din Dumnezeu
-Și ne-a arătat-o prin Fiul Său,
-Ce S-a jertfit și s-a dăruit
-Pentru noi, la fel să faceți și voi.
+^{F}Dragostea e din Dumne^{C}zeu
+^{Bb}Și ne-a ară^{F}tat-o {Dm}prin Fiul ^{C}Său,
+^{Bb}Ce S-a jertfit și S-a dăru^{F}it
+Pentru ^{C4C}noi, la ^{Bb}fel să ^{C}faceți și ^{F}voi.
 
 [c]
-Unul pe altul vă ajutați,
-La fapte bune să vă îndemnați
-Și atunci veți vedea ce-i iubirea.
-De Domnul sfânt să ascultați,
-Pe calea-ngustă să umblați
-Și așa veți avea fericirea.
+^{Bb}Unul pe altul vă ajutați,
+La fapte ^{F}bune să vă îndemnați
+Și a^{C}tunci veți vedea ^{Bb}ce-i iubi^{F}rea.
+De {Bb}Domnul sfânt să ascultați,
+Pe calea-n^{F}gustă să umblați
+Și a^{C}șa veți avea feri^{F}cirea.
 
 [v2]
 Iubirea să vă fie scut,

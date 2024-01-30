@@ -1,25 +1,25 @@
 [title]
-Cinste, onoare, glorie, splendoare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4859}, id: {d5k4ywUCmQqRXr8WbsxqKH}, contentHash: {17547c}}
+Cinste, onoare, glorie, splendoare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4859}, id: {d5k4ywUCmQqRXr8WbsxqKH}, contentHash: {9016b2}}
 
 [sequence]
 v1,c,v1,c,b,c
 
 [v1]
-Cinste, onoare, glorie, splendoare
-Fie Celui din veșnicii!
-Orice națiune, întreaga lume
-Cântă Celui din veșnicii.
+^{C}Cinste, ^{Dm/C}onoa^{C}re, glorie, ^{Dm/C}splendoa^{C}re
+^{C}Fie Celui ^{F}din ^{C/G}veș^{Dm/G}ni^{C}cii!
+^{C}Orice ^{Dm/C}națiu^{C}ne, întreaga ^{Dm/C}lu^{C}me
+^{Am}Cântă Celui ^{F}din ^{C/G}veș^{Dm/G}ni^{C}cii.
 
 [c]
-/: Orice limbă-n cer, pe pământ,
+/: ^{F}Orice limbă-n cer, pe pă^{G}mânt,
 Îți declară gloria!
-Orice ființă în fața Ta să cadă.
-Tu vei fi pe veci înălțat
-Și vei împărăți peste noi,
-Cel din veșnicii. :/
+^{F}Orice ființă în fața ^{G}Ta să ^{C/G}ca^{G}dă.
+^{F}Tu vei fi pe veci înăl^{G}țat
+^{C/G}Și ^{G}vei ^{F}împărăți peste ^{G}noi,
+Cel ^{F/G}din ^{C/G}veș^{G}ni^{C}cii. :/
 
 [b]
-/: Pământul așteaptă venirea Ta,
-Glorie Celui din veșnicii!
-Să cânte tot cerul spre slava Ta,
-Glorie Celui din veșnicii! :/
+/: ^{C}Pământul ^{Gm/C}aș^{C}teaptă ^{F}ve^{C}nirea Ta,
+^{Bb}Glorie Celui ^{F}din veșni^{G4-G}cii!
+Să ^{C}cânte ^{Dm/C}tot cerul ^{F}spre ^{C}slava Ta,
+^{Bb}Glorie Celui ^{F}din veșni^{G4-G}cii! :/

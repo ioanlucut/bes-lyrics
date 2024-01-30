@@ -1,21 +1,20 @@
 [title]
-Oare n-ai știut c-aici e Domnul? {alternative: {*}, composer: {Otniel Stirb}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {145697}, id: {i721dvcjFhnydDx24NgXpa}, contentHash: {ed1985}}
+Oare n-ai știut c-aici e Domnul? {alternative: {*}, composer: {Otniel Stirb}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {145697}, id: {i721dvcjFhnydDx24NgXpa}, contentHash: {9bf09d}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Cât de-nfricoșat e locul unde
-Domnul ne vorbește prin Cuvânt,
-Iar pe scara cerului coboară
-Îngeri aducând mesajul sfânt.
+^{Em}Cât de-nfricoșat e locul ^{Am/Em}unde ^{Em}
+^{Em}Domnul ne vorbește prin ^{B7}Cuvânt,
+^{Em}Iar pe scara cerului co^{Am/Em}boară ^{E}
+^{B7}Îngeri aducând mesajul ^{Em}sfânt. ^{D7}
 
 [c]
-Oare n-ai știut c-aici e Domnul
-Oare n-ai știut c-aici e El?
-Dumnezeu din slăvi ne cercetează
-Căci aici e casa Lui,
-Poarta cerului, Betel.
+^{G}Oare n-ai știut c-aici e Dom^{Am}nul
+^{D7}Oare n-ai știut c-aici e ^{Em/B}El? ^{B7}
+^{Em}Dumnezeu din slăvi ne cer^{Em7}cetea^{Am}ză
+^{B7}Căci aici e ^{Am/C}casa Lui, ^{Em/B}poarta cerului, ^{B7}Be^{Em}tel.
 
 [v2]
 Ca și Iacov prin acea pustie,

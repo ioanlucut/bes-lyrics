@@ -1,35 +1,29 @@
 [title]
-Hai, spune-mi, cine a biruit moartea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {151288}, id: {kiAQQvvhYopcyGMxXS1WHb}, contentHash: {4f5703}}
+Hai, spune-mi, cine a biruit moartea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {151288}, id: {kiAQQvvhYopcyGMxXS1WHb}, contentHash: {433569}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Hai, spune-mi, cine a biruit moartea,
-Cine-a călcat peste ea?
-Cine e Leul din Iuda,
-Scutul, tăria mea?
+^{Em}Hai, spune-mi, cine a biruit moartea,
+^{C}Cine-a călcat peste ^{G}ea?
+^{Em}Cine e Leul din Iuda, ^{C}Scutul, tă^{D}ria ^{Em}mea?
 
 [v1.2]
-Spune-mi, cine a biruit frica,
-Cine-a călcat peste ea?
-Cine e Leul din Iuda,
-Scutul, tăria mea?
+^{Em}Spune-mi, cine a biruit frica,
+^{C}Cine-a călcat peste ^{G}ea?
+^{Em}Cine e Leul din Iuda, ^{C}Scutul, tă^{D}ria ^{Em}mea?
 
 [c]
-/: Aleluia, aleluia, aleluia,
-Isus este Domn!
-Aleluia, aleluia, aleluia,
-Isus este Domn! :/
+/: Alelu^{C}ia, alelu^{G}ia, alelu^{D}ia, Isus este ^{Em}Domn!
+Alelu^{C}ia, alelu^{G}ia, alelu^{D}ia, Isus este ^{Em-D-Em}Domn! :/
 
 [v2.1]
 Hai, spune-mi, cine a murit pentru mine,
-Cine-a murit pentru noi?
-Cine-a murit pentru lume?
+Cine-a murit pentru noi? Cine-a murit pentru lume?
 Glorie doar Regelui!
 
 [v2.2]
 Spune-mi, cine-ntr-o zi se va-ntoarce
 În fruntea oștirii Lui?
-El va primi închinarea,
-Pământul și ceru-s a Lui!
+El va primi închinarea, pământul și ceru-s a Lui!

@@ -1,37 +1,38 @@
 [title]
-Laud Numele Tău, Isus {alternative: {What A Beautiful Name}, composer: {Ben Fielding & Brooke Ligertwood}, writer: {Ben Fielding & Brooke Ligertwood; Florin Mesaroș & BBSO}, arranger: {*}, interpreter: {Hillsong; BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167752}, id: {nh7fCEFogaPNUAn7vkF9LC}, contentHash: {d318e1}}
+Laud Numele Tău, Isus {alternative: {What A Beautiful Name}, composer: {Ben Fielding & Brooke Ligertwood}, writer: {Ben Fielding & Brooke Ligertwood; Florin Mesaroș & BBSO}, arranger: {*}, interpreter: {Hillsong; BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167752}, id: {nh7fCEFogaPNUAn7vkF9LC}, contentHash: {305a42}}
 
 [sequence]
 v1,c,v2,c,b1.1,b1.2,c
 
 [v1]
-La început a fost Cuvântul
-Și Cuvântul S-a-ntrupat,
-Gloria Sa nemărginită
-Printre noi s-a arătat.
+^{D}La început a ^{D2}fost Cuv^{D}ântul
+Și Cu^{G}vântul S-a-n^{A4}tru^{A}pat,
+^{B#m}Gloria Sa ne^{A}mărgi^{D}nită
+Printre ^{G}noi s-a ară^{A}tat.
 
 [c]
-/: Laud Numele Tău, Isus,
-Ești al meu Rege înălțat.
-Laud Numele Tău, Isus,
-Ești Mielul ce-a fost străpuns.
-Laud Numele Tău, Isus,
-Al slavei Rege! :/
+Laud ^{Em/D}Numele Tău, I^{D}sus,
+Laud ^{Bm}Numele Tău, I^{A}sus,
+^{Em}Ești al meu Re^{D}ge înăl^{G2}țat.
+Laud ^{Em/D}Numele Tău, I^{D}sus,
+Ești ^{D/B}Mielul ce-a fost stră^{A}puns.
+^{Em}Laud Numele Tău, I^{D}sus,
+Al ^{A}slavei Re^{G}ge! ^{G2///}
 
 [v2]
-Iar pentru a fi în veci cu Tine,
+^{D}Iar pentru a fi în veci cu Tine,
 Printre oameni ai umblat.
 N-ai renunțat nicicând la mine,
 Te-ai smerit să fii ‘nălțat.
 
 [b1.1]
-A Ta lucrare e desăvârșită,
-Până la capăt ne-ai iubit.
-Viața domnește, iar moartea e-nvinsă,
-Isus Hristos a biruit!
+A Ta ^{D}lucrare e desăvâr^{A}șită,
+Până la ^{D/B}capăt ne-ai iu^{A}bit.
+Viața dom^{D}nește, iar moartea e-n^{A}vinsă,
+Isus Hris^{D/B}tos a bi^{A}ruit!
 
 [b1.2]
 Orice putere, orice domnie,
-Domnul meu toate le-a zdrobit.
+Domnul meu pe toate le-a zdrobit.
 Din a Sa cruce curge iubire,
 Viață prin El eu am primit!

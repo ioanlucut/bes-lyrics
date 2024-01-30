@@ -1,22 +1,22 @@
 [title]
-Este un Nume {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227000}, id: {wBdZzQc5cwG9u3fVs7Q7Kq}, contentHash: {d59d55}}
+Este un Nume {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227000}, id: {wBdZzQc5cwG9u3fVs7Q7Kq}, contentHash: {3f38ba}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
 [v1.1]
-Este un Nume ce rupe orice lanț când Îl rostești,
-Și dacă-L chemi salvare-n El primești.
-O, ce Nume!
+^{D}Este un Nume ce ^{G}rupe orice lanț când Îl ro^{D}stești,
+Și ^{G}dacă-L chemi salvare-n El ^{D/B}primești.
+^{A4}O, ce Nume!
 
 [v1.2]
-Este un Nume, din fața Lui înfrânți vrăjmașii fug,
-Puternic ca să rupă orice jug.
-O, ce Nume!
+Este un ^{D}Nume, din ^{G}fața Lui înfrânți vrăjmașii ^{D}fug,
+Pu^{G}ternic ca să rupă orice ^{D/B}jug.
+^{A4}O, ce Nume!
 
 [c]
-Isus, Isus, ce puternic Domn!
-Isus, Isus, Rege-n veci pe tron!
+^{G}I^{D}sus, ^{Bm}I^{A}sus, ^{G}ce ^{D}puternic ^{A4/A}Domn!
+^{G}I^{D}sus, ^{Bm}I^{A}sus, ^{G}Re^{D}ge-n veci pe ^{A4/A}tron!
 
 [v2.1]
 Este o cruce, un lemn de suferință și dispreț,
@@ -27,7 +27,7 @@ Este un sânge, ce strigă până azi: „S-a isprăvit!”,
 Întregul preț la cruce a fost plătit, cu sânge.
 
 [b]
-În Numele lui Isus să cadă legături,
-Adicții, frici, depresii și orice-ntărituri.
-Vieți sunt restaurate, se-ntorc fiice și fii,
-Popoare vin la viață prin Duhul Celui Viu.
+^{G}În Numele lui Isus ^{A}să cadă legături,
+^{Bm}Adicții, frici, depresii ^{D/F#}și orice-ntărituri.
+^{G}Vieți sunt restaurate, ^{A}se-ntorc fiice și fii,
+^{Bm}Popoare vin la viață ^{D/F#}prin Duhul Celui Viu.

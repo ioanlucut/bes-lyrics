@@ -1,21 +1,25 @@
 [title]
-Un Copil {alternative: {*}, composer: {Amadeo}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {132126}, id: {eSgiG4REedx4c7MMUyS4Wm}, contentHash: {12e245}}
+Un Copil {alternative: {*}, composer: {Amadeo}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {132126}, id: {eSgiG4REedx4c7MMUyS4Wm}, contentHash: {000e3f}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Căci un Copil ni S-a născut, Cel ce n-are început.
-Căci un Fiu ni S-a dat, El e Marele-mpărat.
+^{Bm}Căci un ^{G}Copil ni S-a năs^{D}cut^{A},
+^{Bm}Cel ce ^{G}n-are înce^{D}put.^{A}
+^{Em7}Căci un ^{Bm7}Fiu ni S-a ^{A-A4-A}dat,
+^{Em7}El e ^{Em7}Marele-m^{A-A4-A}părat.
 
 [c]
-/: Îl vor numi Sfetnic, Minunat, Domn al păcii, adorat,
-Dumnezeu tare, Savaot, Părinte-al veșniciilor. :/
+/: Îl vor numi ^{D}Sfet^{G}nic, Mi^{D}nunat^{G},
+Domn al ^{D}păcii, ado^{A-A4-A}rat,
+Dumnezeu ^{D}tare, ^{G}Sava^{D}ot^{G},
+Părinte-al ^{A}veșnici^{D}i^{G}lor.^{A} :/ (Bm direct în strofă)
 
 [v2]
 El, Dumnezeul nevăzut, S-a făcut azi cunoscut.
 A venit din veșnicii să ne aducă bucurii.
 
 [v3]
-Plăcerea Lui va fi mereu frica de Dumnezeu.
-Și Duhul Domnului cel Sfânt se va odihni în El.
+^{Bm}Plăcerea ^{G}Lui va fi ^{D}mereu frica ^{A}de ^{Bm}Dumne^{G}zeu^{D A}.
+^{Bm}Și Duhul ^{G}Domnului cel ^{D}Sfânt se va ^{A}odihni în ^{Bm}El.^{G D A}

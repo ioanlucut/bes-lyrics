@@ -1,32 +1,29 @@
 [title]
-O inimă-nțeleaptă {alternative: {*}, composer: {Adriana Stoica}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7237}, id: {pDhMqbNUDGq5msJWfDiDvu}, contentHash: {efbd69}}
+O inimă-nțeleaptă {alternative: {*}, composer: {Adriana Stoica}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7237}, id: {pDhMqbNUDGq5msJWfDiDvu}, contentHash: {0262c5}}
 
 [sequence]
 c,v1,c,v2,c,v3,c
 
 [v1]
-O inimă curată, de Tine-a fost schimbată,
-M-ai curățit, Isuse, de păcat.
-/: Eu am venit la Tine,
-Tu mă cunoști prea bine
-Și știu că Tu de toate m-ai iertat. :/
+O ^{F}inimă curată, de Tine-a fost schimbată,
+M-ai curățit, ^{F/A}Isuse, de pă^{Gm7}cat.
+/: Eu ^{Bb}am venit la Ti^{F}ne, Tu ^{F/C}mă cunoști prea bi^{C7}ne
+Și știu că Tu de toate m-ai ier^{F}tat. {(F7)} :/
 
 [c]
-/: O inimă-nțeleaptă și plină de iubire
-Să locuiască-n mine, la bine și la greu.
-O inimă zdrobită, dar plină de povețe,
-Pe mulți ca să-i îndrume spre Tine, Dumnezeu! :/
+/: O inimă-nțe^{Bb}leaptă și plină de iu^{F}bi^{Dm}re
+Să locuiască-n ^{C7}mine, la bine și la ^{F}greu. ^{F7}
+O inimă zdro^{Bb}bită, dar plină de po^{F}ve^{Dm}țe,
+Pe mulți ca să-i în^{C7}drume spre Tine, Dumne^{F}zeu! ^{F4 F} :/
 
 [v2]
 O inimă smerită, de multe ori lovită,
 Ea nu se schimbă, Doamne, niciodat’.
-/: Rămâne credincioasă
-Căci Domnul, El, veghează,
+/: Rămâne credincioasă, căci Domnul, El, veghează,
 Căci tu cu Dumnezeu te-ai împăcat. :/
 
 [v3]
 Eu vreau să merg pe cale, dar Tu să-mi dai răbdare
 Să trec cu bine, Doamne, tot ce-i rău.
-/: La Tine e puterea
-Ce alină-oricând durerea,
+/: La Tine e puterea ce alină-oricând durerea,
 Căci Tu ești Doamne, Dumnezeul meu. :/

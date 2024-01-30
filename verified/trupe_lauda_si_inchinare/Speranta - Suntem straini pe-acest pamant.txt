@@ -1,19 +1,22 @@
 [title]
-Suntem străini pe-acest pământ {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64198}, id: {3pcatYkq727LDSFVi9BdY3}, contentHash: {d67f13}}
+Suntem străini pe-acest pământ {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64198}, id: {3pcatYkq727LDSFVi9BdY3}, contentHash: {7a6b1e}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Suntem străini pe-acest pământ, suntem pribegi în lumea aceasta,
-Călătorim înspre Canaan, avem cu toții o nădejde
-Și știm că vine ziua când ne vom vedea dincolo de Iordan.
+Sun^{G}tem străini pe-acest pământ,
+Sun^{C}tem pribegi în lumea a^{a}ceasta,
+Călăto^{G}rim înspre Ca^{D7}naan,
+A^{G}vem cu toții o nădejde
+Și ^{C}știm că vine ziua ^{a}când
+Ne vom ve^{G}dea din^{D7}colo de Ior^{G}dan.
 
 [c]
-Ne vom vedea acolo, sus, pe nori de slavă.
-Ne-om întâlni când trâmbița va răsuna.
-Ne vom vedea pe acele plaiuri minunate.
-În Paradis, în cerul sfânt ne vom vedea.
+Ne vom ve^{C}dea acolo, sus, pe nori de ^{G}slavă.
+Ne-om întâl^{A}ni când trâmbița va răsu^{D7}na.
+Ne vom ve^{G}dea pe acele ^{G7}plaiuri minuna^{C-a}te.
+În Para^{G}dis, în cerul ^{D}sfânt ne vom ve^{G}dea.
 
 [v2]
 Din orice neam și orice popor,cei ce L-am slujit pe Domnul

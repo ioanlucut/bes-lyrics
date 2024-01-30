@@ -1,19 +1,19 @@
 [title]
-Deschide-mi ochii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1422}, id: {7hAwor1nMr7XLzqx8xirNX}, contentHash: {8f07ec}}
+Deschide-mi ochii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1422}, id: {7hAwor1nMr7XLzqx8xirNX}, contentHash: {ac5d81}}
 
 [sequence]
 v1,e
 
 [v1]
-/: Deschide-mi ochii,
-Vreau să Te văd, Isus!
-Să Te-ating cu mâna,
-Să-Ți spun că Te iubesc,
-Și fă-mi urechea,
-Cu dor să Te-asculte.
-Deschide-mi ochii,
-Vreau să Te văd, Isus. :/
+/: ^{D}Des^{G/D}chi^{A/D}de-mi ^{A/G}o^{G//}chii, ^{A7sus}
+^{A}Vreau ^{D/A}să ^{A7}Te ^{D4}văd, I^{D-A/C#-Bm}sus!
+Să ^{Bm/A}Te-ating cu ^{Gmaj7}mâ^{Em//-A7}na,
+^{A}Să-Ți ^{D/A}spun ^{A7}că ^{Em/D}Te iu^{D}besc,
+^{G}Și ^{G/D}fă-mi ^{A/D}u^{A/G}re^{G//-Asus}chea
+Cu ^{A}dor ^{D/A}să ^{A7}Te-as^{D4}cul^{D-A/C#-Bm}te!
+^{Bm/A}Deschide-mi ^{Gmaj7}o^{Em//-A7}chii,
+^{A7}Vreau ^{G/A}să ^{A7}Te ^{Em/D}văd, I^{D}sus! :/
 
 [e]
-Deschide-mi ochii,
-Vreau să Te văd, Isus. :/
+^{Bm/A}Deschide-mi ^{Gmaj7}o{Em//-A7}chii,
+^{A7}Vreau ^{G/A}să ^{A7}Te ^{Em/D}văd, I^{D}sus! :/

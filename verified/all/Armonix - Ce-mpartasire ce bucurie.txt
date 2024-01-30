@@ -1,20 +1,18 @@
 [title]
-Ce-mpărtășire, ce bucurie {alternative: {*}, composer: {Armonix}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78234}, id: {qpqwG1oALQL7Y9YnUdip3R}, contentHash: {b60307}}
+Ce-mpărtășire, ce bucurie {alternative: {*}, composer: {Armonix}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78234}, id: {qpqwG1oALQL7Y9YnUdip3R}, contentHash: {b7ad18}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Ce-mpărtășire, ce bucurie,
-Când mă las pe brațul Domnului.
-Ce fericire, pace-mi dă mie,
-Când mă las pe brațul Domnului.
+^{G}Ce-mpărtășire, ^{C6}ce bucuri^{C}e,
+^{G/B}Când mă ^{Em}las pe brațul ^{G/D}Domnu^{D}lui.
+^{G}Ce fericire, ^{C6}pace-mi dă ^{C}mie,
+^{G/B}Când mă ^{Em}las pe brațul ^{G/D}Dom^{D}nu^{G}lui.
 
 [c]
-Eu sunt scutit
-Prin grația Părintelui,
-Eu sunt scutit
-Când mă las pe brațul Domnului.
+^{G}Eu sunt ^{C}scutit ^{G}prin grați^{Em}a Pă^{G/D}rinte^{D}lui,
+^{G}Eu sunt ^{C}scutit ^{G/B}când mă ^{Em}las pe brațul ^{G/D}Dom^{G}nu^{D}lui.
 
 [v2]
 De ce să mă tem? Ce să mă-nfrice?

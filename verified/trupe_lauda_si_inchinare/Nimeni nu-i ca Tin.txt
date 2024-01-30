@@ -1,13 +1,17 @@
 [title]
-Nimeni nu-i ca Tin’ {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fKvfMLNN3Z3N7PHJGEHLy3}, contentHash: {ee7cc4}}
+Nimeni nu-i ca Tin’ {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fKvfMLNN3Z3N7PHJGEHLy3}, contentHash: {f77c93}}
 
 [sequence]
 v1,c,v1,c,v1
 
 [v1]
-/: Nimeni nu-i ca Tin’, nimeni n-a putut viața-mi schimba,
-Oricât de mult aș căuta, n-aș găsi, nimeni nu-i ca Tin’. :/
+/: ^{E}Nimeni ^{B7}nu-i ca ^{C#m}Tin’,
+^{A2}Nimeni n-a putut ^{E/B}viața-mi schim^{B}ba,
+^{E}Oricât de ^{E7}mult aș cău^{A}ta, n-aș gă^{Am6}si,
+^{A/F#}Nimeni ^{A2}nu-i ca ^{B4-B}Tin’. :/
 
 [c]
-Dragostea-Ți fără de margini inima mi-a copleșit,
-Sunt în siguranță sub brațul Tău sfânt, nimeni nu-i ca Tin’.
+Căci ^{C#m}dragostea-Ți fără ^{B4}margini m-a a^{E}tins
+Și i^{A2}nima-^{B4}mi cople^{E}și
+^{C#m}Sunt în sigu^{A2}ranță sub ^{E}brațul Tău sfânt,
+^{A/F#}Nimeni ^{A2}nu-i ca ^{B4-B}Tin’.

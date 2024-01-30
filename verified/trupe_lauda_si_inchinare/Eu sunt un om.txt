@@ -1,24 +1,20 @@
 [title]
-Eu sunt un om {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3170}, id: {twmdLkvMxLAij8dp9CCwUY}, contentHash: {29928a}}
+Eu sunt un om {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3170}, id: {twmdLkvMxLAij8dp9CCwUY}, contentHash: {7acd4a}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Eu sunt un om, sunt doar un om.
-Ajută-mi, Te rog,
-Să cred mai mult ce pot a fi!
-Să cred mai mult în al meu Domn!
-Ajută-mă să Te slujesc timp de o zi!
+^{A}Eu sunt un om, sunt doar un ^{E}om.
+Ajută-mi, Te ^{E}rog, să cred mai ^{E7}mult ce pot a ^{A}fi!
+Să cred mai ^{A}mult în ^{A7}al meu ^{D}Domn,
+Ajută-^{A/E}mă să Te slu^{E7}jesc timp de o ^{A}zi!
 
 [c]
-/: Un timp de o zi, Isuse,
-Atât este tot ce-mi doresc.
-O, dă-mi Tu puteri,
-Ce-am de făcut să-nfăptuiesc!
-Căci mâine nu știu, Isuse,
-Dacă va mai fi înc-o zi,
-Nu știu timpul când viața mea se va sfârși. :/
+/: ^{A7}Un timp de o ^{D}zi, Isuse, atât este tot ce-mi do^{A}resc.
+O, dă-mi Tu ^{E/B}puteri ce-am de făcut să-nfăp^{E7}tu^{A}iesc!
+^{A7}Căci mâine nu ^{D}știu, Isuse, dacă va mai fi înc-o ^{A}zi,
+Nu știu timpul ^{E/B}când viața ^{E7}mea se va sfâr^{A}și. :/
 
 [v2]
 Îți amintești când pe pământ

@@ -1,22 +1,22 @@
 [title]
-Numai Domnul știe {alternative: {*}, composer: {Anonim}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195608}, id: {mub65Lmkeuk5VBVgxyw7YV}, contentHash: {434a70}}
+Numai Domnul știe {alternative: {*}, composer: {Anonim}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195608}, id: {mub65Lmkeuk5VBVgxyw7YV}, contentHash: {d87d1e}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
 
 [v1]
-Numai Domnul știe gândurile tale,
-Numai Domnul, numai Domnul.
-Numai El îți șterge lacrimile tale,
-Numai Domnul, numai Domnul.
+^{Am}Numai Domnul știe gândurile ^{F}tale,
+Numai ^{C}Domnul, numai ^{G}Domnul.
+Numai ^{Am}El îți șterge lacrimile ^{F}tale,
+Numai ^{C}Domnul, numai ^{E}Domnul.
 
 [c1.1]
-Numai El te înțelege, poate lanțuri să dezlege.
-Și transformă-n biruință clipe lungi de suferință.
+Numai ^{Am}El te înțelege, poate ^{F}lanțuri să dezlege.
+Și trans^{C}formă-n biruință clipe ^{G}lungi de suferință.
 
 [c1.2]
-Doar El te-a purtat pe brațe, cel viclean să nu te-atace,
-El te-a smuls din întuneric, Domnul, Cel Atotputernic.
+Doar El ^{Am}te-a purtat pe brațe, cel vi^{F}clean să nu te-atace,
+El te-a ^{C}smuls din întuneric, Domnul, ^{E}Cel Atotpu^{Am}ternic.
 
 [v2]
 Numai Domnul ascultă rugăciunea în taină,

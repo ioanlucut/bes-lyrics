@@ -1,23 +1,23 @@
 [title]
-Voi cânta, Doamne-n veci! {alternative: {*}, composer: {Tiffany Moldovan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mQVVKa3hKrNj95tca72Que}, contentHash: {17b614}}
+Voi cânta, Doamne-n veci! {alternative: {*}, composer: {Tiffany Moldovan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mQVVKa3hKrNj95tca72Que}, contentHash: {04fde9}}
 
 [sequence]
 v1,c,v2,c,b,c
 
 [v1]
-De bucurie-s plin și-Ți voi cânta,
-Speranța-n inima mea doar Tu mi-ai dat.
-Doamne-n veci doar Ție-ți voi cânta.
-Cărarea vieții Tu mi-o luminezi,
-Și pacea-n suflet mereu mi-o dăruiești,
-De aceea Doamne-n veci îți voi cânta.
+^{D}De bucurie-s plin și-Ți voi ^{D/B}cânta,
+Speranța-n inima mea doar Tu mi-ai ^{G}dat.
+Doamne-n veci doar ^{A}Ție-Ți voi cân^{D}ta. ^{G-A}
+^{D}Cărarea vieții Tu mi-o lumi^{D/B}nezi,
+Și pacea-n suflet mereu mi-o dăru^{G}iești,
+De aceea Doamne-n ^{A}veci îți voi cân^{D}ta. ^{A}
 
 [c]
-Voi cânta Doamne-n veci,
-Voi vesti cât de mult ai lucrat,
-Ajutor Tu mi-ai dat
-Când în rugă smerit Te-am chemat.
-Vrednic ești, în veci voi cânta.
+Voi cân^{D}ta Doamne-n ^{A/F#}veci,
+Voi ves^{Bm}ti cât de ^{D/F#}mult ai lu^{G}crat,
+Aju^{D}tor Tu mi-ai ^{A/F#}dat
+Când în ru^{Bm}gă sme{D/F#}rit Te-am che^{G}mat.
+^{Em}Vrednic ^{A4}ești, ^{A}în veci voi cân^{D}ta. ^{A}
 
 [v2]
 Lacrima Tu mi-ai șters și m-ai primit,
@@ -28,9 +28,8 @@ Vreau mereu să-mplinesc Cuvântul Tău
 Învață-mă să-Ți cânt, o, Domnul meu.
 
 [b]
-/: Ne vom bizui pe Domnul,
-Vom chema Numele Lui,
-Nu ne temem, nu ni-e frică,
-Dumnezeu este cu noi!
-Brațul Lui e puternic, nimeni nu este ca El.
-Cântă Celui care veșnic vine când Îl chemi! :/
+/: ^{Bm}Ne vom bizui pe Domnul, ^{G}Vom chema Numele Lui,
+^{D}Nu ne temem, nu ni-e frică, ^{A}Dumnezeu este cu noi!
+^{Bm}Brațul Lui e puternic, ^{G}nimeni nu este ca El.
+^{D (C)}Cântă Celui care ^{D (G)}veșnic
+^{D/A}vine când Îl ^{A4}che^{A}mi! :/

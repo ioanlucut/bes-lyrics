@@ -1,0 +1,44 @@
+[title]
+Căci mare-i bunătatea Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {57HFH93CBC6W5ojU58LMRX}, contentHash: {7e5652}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,b,v3.1,v3.2
+
+[v1.1]
+^{D}Gata-mi-e inima să ^{Em/D}cânte, ^{A7}gata mi-e sufletul ar^{D}zând,
+Sunt gata să sun din instru^{Em/D}mente,
+A^{A7}ceasta mi-e slava pe pă^{D}mânt.
+
+[v1.2]
+^{D}Gata-mi-e inima să-Ți ^{E/D}cânte, ^{A7}Ție Dumnezeul ^{D}meu,
+^{D}Sunt gata să-ntrec chiar zorii ^{E/D}zilei,
+Să ^{A7}strig de bucurie și să-Ți ^{D}cânt!
+
+[c]
+Căci ^{G}mare-i ^{Em7}bunătatea ^{D/A}Ta și se î^{Bm}nalță
+^{Em7}Mai pre^{A7}sus de ceruri, ^{D}Dumne^{Am/F#}zeule,
+Iar cre^{G}dincio^{Em7}șia Ta stră^{F#m}bate orice ^{D/B}cea^{B7}ță,
+Ea ^{Em7}se ridică ^{D/A}mai pre^{A7}sus de ^{D}nori.
+
+[v2.1]
+Gata doresc să fiu în noapte, gata în orice ceas din zi,
+Iar lauda nicicând să nu-mi apună,
+Pe buze să-mi fie ea oricând.
+
+[v2.2]
+Gata să strig când lupta-i mare: „Lăudat fie Dumnezeu!”,
+Izbăvirea, știu, e foarte-aproape,
+Mă voi încrede-n Tine, Domnul meu!
+
+[b]
+/: ^{D/A}Peste ^{A}ceruri ^{G/A}să fii ^{A}înăl^{D}țat,
+^{D}Peste păm^{A}ânt ^{Em7}fii ^{F#m/A}glori^{A7}fi^{D}cat! :/
+
+[v3.1]
+Doresc să fiu ^{E}gata să-Ți cânt o veș^{F#m/E}nicie,
+^{B7}Gata să Te revăd pe ^{E}nori.
+
+[v3.2]
+Doresc să fiu ^{E}gata să port un nume-n ^{F#m/E}slavă,
+/: În^{B7}cununat ca birui^{E}tor, :/
+Do^{F#m}resc să fiu ^{B4}gata ^{B}ori^{E-A/E-E}când!

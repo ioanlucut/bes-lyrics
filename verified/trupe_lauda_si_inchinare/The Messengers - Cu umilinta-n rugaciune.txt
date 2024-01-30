@@ -1,27 +1,27 @@
 [title]
-Cu umilință-n rugăciune {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180813}, id: {muHAyNJWg35FWsjfFKLinJ}, contentHash: {9521da}}
+Cu umilință-n rugăciune {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180813}, id: {muHAyNJWg35FWsjfFKLinJ}, contentHash: {fb7108}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
 
 [v1]
-Cu umilință-n rugăciune,
-Smerit m-aplec la tronul Tău!
-În fiecare zi și seară,
-De vorbă stau cu Dumnezeu.
+^{C}Cu umilință-n rugă^{G}ciune,
+Smerit m-aplec la tronul ^{C}Tău!
+^{C}În fieca^{d}re zi ^{C/E}și sea^{F}ră,
+^{G}De vorbă ^{G7}stau cu Dumne^{C}zeu.
 
 [c1.1]
-Încredințează-ți soarta-n mâna
-Celui ce te-a săpat în Ea.
-El nu te va lăsa vreodată,
-În El tu sprijin vei avea.
+^{C}Încredin^{d}țează-ți ^{C/E}soarta-n mâna
+Celui ce te-a să^{C}pat în ea.
+El nu te va lăsa vre^{G}odată,
+În El tu spri^{C}jin vei avea.
 
 [c1.2]
-Nu va lăsa nicicând furtuna
-Să-ți clatine ființa ta.
-Răscumpărat al Domnului,
-Neprihănit în ochii Lui,
-Cu tine-i Domnul, nu uita.
+^{C}Nu va lă^{d}sa nici^{C/E}când furtuna
+Să-ți clatine ^{C}ființa ta.
+^{C}Răscumpărat al Dom^{G}nului,
+Ne^{d}prihănit în ^{G}ochii Lui,
+^{G7}Cu tine-i Domnul, nu ^{C}uita.
 
 [v2]
 În ziua de necaz mă sprijini,

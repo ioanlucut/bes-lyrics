@@ -1,59 +1,59 @@
 [title]
-Va reveni {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {a9EMLrrDZrNBANmhL9Uj7A}, contentHash: {10b558}}
+Va reveni {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {a9EMLrrDZrNBANmhL9Uj7A}, contentHash: {bbb074}}
 
 [sequence]
 v1,v2,v3,v4,v5,c,v6,v7,v8,c
 
 [v1]
-În așteptare ești, un loc îți pregătesc
-Să fii cu Mine-acolo sus în ceruri
-Așa El ne-a promis,
-În Sfânta Carte e scris.
+^{C}În așteptare ești, ^{G}un loc îți pregătesc
+^{Am7}Să fii cu Mine-acolo ^{F-F6-F}sus în ceruri
+^{C}Așa El ne-a promis,
+^{G}În Sfânta Carte e ^{F-F2}scris.
 
 [v2]
-În așteptare ești, voi reveni din cer
-Biruitor pe nori cu toată slava.
-Așa El ne-a promis
-Și sigur va reveni.
+^{C}În așteptare ești, ^{G}voi reveni din cer
+^{Am7}Biruitor pe nori cu ^{F-F6-F}toată slava.
+^{C}Așa El ne-a promis
+^{G}Și sigur va ^{F-F2}reveni.
 
 [v3]
-„Iar pe acei ce M-au ascultat
-Și au avut credință-n Mine
-Îi voi lua la cer,
-În locul cel mult așteptat.”
+„^{Dm7}Iar pe acei ce M-au ^{Am-G}ascultat
+^{C}Și au avut credință-n ^[F}Mine
+^{Am/D}Îi voi lua la cer,
+În locul ^{G}cel mult ^{C}așteptat.”
 
 [v4]
-În așteptare ești, un loc îți pregătesc,
-Iar pașii Mei se-aud foarte aproape.
-Ți-am spus că voi veni
-Și-n cer cu Mine o să fii.
+^{Db}În așteptare ești, ^{Ab}un loc îți pregătesc,
+^{Bbm7}Iar pașii Mei se-aud ^{Gb-Gb6-Gb}foarte aproape.
+^{Db}Ți-am spus că voi veni
+^{Ab}Și-n cer cu Mine o să ^{Gb-Gb2}fii.
 
 [v5]
-Pe toți acei care Mă iubesc
-Și-au suferit pentru Mine
-Îi voi lua la cer,
-În locul cel demult promis.
+^{Ebm7}Pe toți acei care ^{Bbm-Am}Mă iubesc
+^{Db}Și-au suferit pentru ^{Gb}Mine
+^{Bbm/Eb}Îi voi lua la cer,
+În locul cel ^{Ab}demult ^{Db}promis.
 
 [c]
-Oare ești gata să mergi când Isus va veni?
-Oare ești gata să-L vezi în orice ceas din zi?
-El va veni, așa a promis demult
-Și clipa-i aproape.
-Cu îngerii din cer El în curând va reveni.
+Oare ești ^{Gb}gata să mergi când ^{Db}Isus va ve^{Ab}ni?
+Oare ești ^{Gb}gata să-L vezi în ^{Db}orice ceas din ^{Ab}zi?
+^{Gb}El va veni, așa a ^{Bbm}promis ^{ABbdemult
+^{Db}Și clipa-i a^{Gb}proape.
+^{Bbm}Cu îngerii din cer El ^{Ab}în curând va ^{Dbm}reveni.
 
 [v6]
-În așteptare ești, un loc îți pregătesc.
-Eu voi veni cu slavă și cu glorie
-Așa El ne-a promis
-Și sigur va reveni.
+^{D}În așteptare ești, ^{A}un loc îți pregătesc.
+^{Bm7}Eu voi veni cu slavă și cu ^{G-G6-G}glorie
+^{D}Așa El ne-a promis
+^{A}Și sigur va ^{G-G2}reveni.
 
 [v7]
-În așteptare ești, în dragoste să crești.
-Nădejdea ta numai în El să fie,
-Va împlini ce-a zis,
-La dreapta Lui oare vei fi?
+^{D}În așteptare ești, ^{A}în dragoste să crești.
+^{Bm7}Nădejdea ta numai în El ^{G-G6-G}să fie,
+^{D}Va împlini ce-a zis,
+^{A}La dreapta Lui oare vei ^{G-G2}fi?
 
 [v8]
-Iar pe acei ce M-au ascultat
-Și au avut credință-n Mine
-Îi voi lua la cer, în locul cel mult așteptat.
+^{Em}Iar pe acei ce M-au ^{Bm-A}ascultat
+^{D}Și au avut credință-n ^{G}Mine
+^{Bm/E}Îi voi lua la cer, în locul cel ^{A}mult aș^{D}teptat.

@@ -1,26 +1,26 @@
 [title]
-Cred în Dumnezeu ca Tată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {65663}, id: {szVrUGAz9ruYREzxrGnmR1}, contentHash: {83ab7b}}
+Cred în Dumnezeu ca Tată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {65663}, id: {szVrUGAz9ruYREzxrGnmR1}, contentHash: {b5f51b}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c,e
 
 [v1.1]
-Cred în Dumnezeu ca Tată, în Isus Hristos ca Fiu,
-Cred în Duhul Sfânt că este, cred Cuvântul că e viu.
-Cred că mai este iertare pentru tot ce-am făcut rău,
-De aceea alerg la tronul Său.
+^{D}Cred în Dumnezeu ca Tată, în ^{F#m}Isus Hristos ca ^{Bm}Fiu,
+Cred în ^{G}Duhul Sfânt că ^{D}este, cred Cu^{Em}vântul că e ^{A}viu.
+Cred că ^{D}mai este iertare pentru ^{F#m}tot ce-am făcut rău,
+De a^{G}ceea a^{Em}lerg la ^{A}tronul ^{D}Său.
 
 [v1.2]
-Cred că Isus a fost jertfă, pe un lemn crucificat,
-Și-n mormânt, lângă Golgota, trupul I-a fost îngropat.
-Cred că a-nviat precum a zis și viu S-a arătat,
-De aceea, la El am alergat.
+Cred că ^{D}Isus a fost jertfă, pe un ^{F#m}lemn crucifi^{Bm}cat,
+Și-n mor^{G}mânt, lângă Gol^{D}gota, trupul ^{Em}I-a fost îngro^{A}pat.
+Cred că ^{D}a-nviat precum a zis și ^{F#m}viu S-a ară^{Bm}tat,
+De a^{G}ceea, la ^{Em}El am ^{A}aler^{D-D2-D}gat.
 
 [c]
-/: Am luat hotărârea, înapoi nu voi da!
-Cu privirea doar la cruce, lumea-n spate-o voi lăsa.
-Nu-mi va fi deloc rușine să afirm că sunt creștin.
-Voi sluji mereu prin harul Său divin. :/
+/: Am lu^{A}at hotărârea, îna^{G}poi nu voi {D}da!
+Cu pri^{G}virea doar la ^{D}cruce, lumea-n spa^{Em}te-o voi lă^{A}sa.
+{D/A}Nu-mi va ^{A}fi deloc rușine să a^{G}firm că sunt creș^{D}tin.
+Voi slu^{Bm}ji me^{F#m}reu prin ^{G}harul ^{A}Său ^{D-D2-D}divin. :/
 
 [v2.1]
 Cred Cuvântul care spune: trebuie să te naști din nou,
@@ -35,4 +35,4 @@ Cred că nu sunt singur în Hristos, pe mulți El ne-a salvat,
 De aceea credință I-am jurat.
 
 [e]
-Voi sluji mereu prin harul Său divin.
+Voi ^{Bm}sluji me^{F#m}reu prin ^{G}harul ^{A}Său ^{D-D2-D}divin.

@@ -1,24 +1,22 @@
 [title]
-Mărturisim acum că suntem slabi {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {778}, id: {u8vrpSWAGDcpmvcsFhJRiL}, contentHash: {9e0f2c}}
+Mărturisim acum că suntem slabi {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {778}, id: {u8vrpSWAGDcpmvcsFhJRiL}, contentHash: {3b2e82}}
 
 [sequence]
 v1,p,c
 
 [v1]
-Mărturisim acum că suntem slabi,
-Așa de slabi, dar Tu ești Domn.
-Chiar dacă n-avem nimic să-Ți oferim,
-Venim și Îți spunem: Doamne-ajută-ne!
+^{A}Mărturisim acum că ^{D}suntem ^{A}slabi,
+A^{D}șa de ^{A}slabi, dar ^{E}Tu ești ^{A}Domn.
+Chiar dacă n-avem nimic ^{D}să-Ți ofe^{A}rim,
+Ve^{D}nim și Îți ^{A/C#}spunem: Doamne-a^{E}jută-^{A}ne!
 
 [p]
-O inimă care e zdrobită,
-Nicicând n-o vei refuza,
-Inima Ta bate plină de milă pentru noi,
-Să curgă râul din Duhul Tău,
-Doamne, Te rugăm!
+^{Bm}O inimă care e ^{A/C#}zdrobită,
+^{D} Nicicând n-o vei refu^{E}za,
+^{Bm}Inima Ta bate plină de mi^{A/C}lă pentru noi,
+^{D} Să curgă râul din ^{E}Duhul Tău,
+^{A/E}Doamne, Te rugăm! ^{A}
 
 [c]
-/: Lasă mila Ta să cadă,
-Să curgă mila Ta din cer,
-E nouă zi de zi,
-O, las-o să cadă peste noi! :/
+/: ^{A}Lasă mila Ta să cadă, să curgă ^{D}mila Ta din ^{E}cer,
+E nouă zi de zi, o, ^{F#m}las-o să cadă ^{D}peste ^{A}noi! :/

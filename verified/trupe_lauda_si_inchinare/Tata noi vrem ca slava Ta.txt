@@ -1,20 +1,17 @@
 [title]
-Tată, noi vrem ca slava Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6683}, id: {tX1BjFhqFhf94S5XEdVGpq}, contentHash: {c4029d}}
+Tată, noi vrem ca slava Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6683}, id: {tX1BjFhqFhf94S5XEdVGpq}, contentHash: {6143df}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Tată, noi vrem ca slava Ta
-Să poată fi văzută-n noi.
-Inimile noastre să devină doar o inimă
-Și-atunci lumea va ști că Isus este Domn.
+^{E}Tată, noi ^{B}vrem ca slava ^{C#m}Ta
+Să ^{A}poată ^{E}fi văzută-n ^{B4-B}noi.
+Ini^{F#m7}mile ^{B}noastre să de^{E}vină doar o ^{C#m}inimă
+Și-a^{A}tunci lumea va ^{E}ști că ^{A}Isus este ^{B4-B}Domn.
 
 [c]
-/: Fă-ne doar un glas
-Ce-Ți înalță Numele.
-Fă-ne doar un glas
-Ce Te preamărește.
-Fă-ne doar un glas,
-Un gând și-o inimă
-Leagă-ne pe toți împreună. :/
+/: Fă-ne doar ^{E}un {G#m7}glas ce-Ți î^{A}nalță Nu^{B}mele,
+Fă-ne doar ^{E}un {G#m7}glas ce Te ^{A}preamăreș^{B}te!
+Fă-ne doar un ^{Ab}glas, un ^{C/m}gând și-o ini^{F#7}mă,
+Leagă-^{A}ne pe toți ^{E/B}împre^{B7}u^{E/-E4/}nă! :/

@@ -1,22 +1,22 @@
 [title]
-Dis-de-dimineață, Doamne, îmi înalț {alternative: {*}, composer: {Dan Muncaciu}, writer: {Dan Muncaciu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6733}, id: {8FsNc8ho3a9JJ7rD54ZpgZ}, contentHash: {423279}}
+Dis-de-dimineață, Doamne, îmi înalț {alternative: {*}, composer: {Dan Muncaciu}, writer: {Dan Muncaciu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6733}, id: {8FsNc8ho3a9JJ7rD54ZpgZ}, contentHash: {2ab2ca}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Dis-de-dimineață, Doamne, îmi înalț
-Inima spre Tine și aștept.
-Dis-de-dimineață sufletu-mi înalț
-Pacea Ta, o, Doamne-o simt în piept.
+^{A}Dis-de-diminea^{E}ță, ^{B}Doamne, îmi î^{C#m}nalț
+^{A}Inima spre Ti^{E}ne și aș^{B}tept.
+^{B}Dis-de-diminea^{E}ță ^{B}sufletu-mi î^{C#m}nalț
+^{A}Pacea Ta, o, ^{E}Doamne-o simt în ^{B}piept.
 
 [c]
-Încă o zi mai am, o, Doamne de la Tine.
-Mi-ai dat încă o zi, o zi să mă întorc la Tine.
-/: Doamne, încearcă-mă,
-Vezi dacă sunt pe drumul Tău,
-Du-mă pe calea veșniciei,
-Umple-mă cu Duhul Tău cel Sfânt! :/
+Încă o ^{C}zi mai ^{G}am, o, Doamne ^{D}de la Tine.
+Mi-ai dat încă o ^{C}zi, o ^{G}zi să mă în^{D}torc la Tine.
+/: ^{A}Doam^{E}ne, în^{B}cearcă-^{C#m}mă,
+^{A}Vezi dacă ^{E}sunt pe drumul ^{B}Tău,
+^{A}Du-^{E}mă pe ^{B}calea veșni^{C#m}ciei,
+^{A}Umple-mă cu ^{E}Duhul ^{B}Tău! :/
 
 [v2]
 În fiecare clipă, Doamne, mă conduci,

@@ -1,28 +1,28 @@
 [title]
-Aș vrea să număr clipele {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7188}, id: {tegss7d8W4ECq7fMpHxkrX}, contentHash: {b97f69}}
+Aș vrea să număr clipele {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7188}, id: {tegss7d8W4ECq7fMpHxkrX}, contentHash: {9b9137}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,c2
 
 [v1.1]
-Aș vrea să număr clipele,
-Dar timpul trece-n grabă,
-Minute ce-au trecut le-am irosit.
-Am spus că sunt al lui Hristos,
+Aș ^{d}vrea să număr ^{a}clipele,
+^{Bb}Dar timpul trece-n ^{F}grabă,
+Mi^{d}nute ce-au tre^{a}cut le-am i^{Bb}rosit.
+^{d}Am spus că sunt al ^{a}lui Hristos,
 
 [v1.2]
-Dar Domnul înc-așteaptă
-Să fiu al Lui cu totul dăruit.
-Și câte, Doamne, nu Ți-am spus
-Și câte nu Ți-am promis?
+^{Bb}Dar Domnul înc-aș^{F}teaptă
+Să ^{d}fiu al Lui cu ^{a}totul dăru^{Bb}it.
+Și câ^{C}te, Doamne, ^{Bb}nu Ți-am spus
+Și câ^{F}te nu Ți-am pro^{C4-C}mis?
 
 [c]
-Dar ce voi spune când pe nori
-Tu vei veni în slavă învelit?
-Am fost un laș și am fugit?
-Mereu m-ai binecuvântat,
-Și totuși doar la mine m-am gândit
-Și Te-am uitat, și m-am ferit.
+Dar ^{F}ce voi spune ^{C}când pe nori
+Tu ^{d}vei veni în ^{Bb}slavă înve^{F}lit?
+Am fost un ^{C}laș și am ^{Bb}fugit?
+^{F}Mereu m-ai ^{C}binecuvântat,
+Și to^{D}tuși doar la ^{Bb}mine m-am gân^{F}dit
+Și Te-am ui^{C}tat, și m-am fe^{Bb}rit.
 
 [v2.1]
 O lume-ntreagă zace-n chin

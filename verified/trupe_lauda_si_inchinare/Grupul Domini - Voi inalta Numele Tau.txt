@@ -1,20 +1,24 @@
 [title]
-Voi înălța Numele Tău {alternative: {*}, composer: {Grupul Domini}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {69330}, id: {mRWDbk3CrmcdvoRRokWqg5}, contentHash: {06c687}}
+Voi înălța Numele Tău {alternative: {*}, composer: {Grupul Domini}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {69330}, id: {mRWDbk3CrmcdvoRRokWqg5}, contentHash: {f14162}}
 
 [sequence]
 v1,c,v2,c,b,c
 
 [v1]
-Numele Tău e-nălțat, printre neamuri e lăudat,
-Puterea Ta este vestită pe-ntreg pământ.
-Vrednic de cinste ești Tu, se cuvine să ne-nchinăm
-Înaintea Ta, în fața Ta, Doamne!
+^{E}Numele Tău e-năl^{B}țat,
+Printre {F#m}neamuri e lău^{A2}dat,
+^{E}Puterea Ta este vesti^{B}tă pe-ntreg pă^{A2}mânt.
+^{E}Vrednic de cinste ești ^{B}Tu,
+Se cu^{F#m}vine să ne-nchi^{A2}năm
+^{E}Înaintea Ta, în ^{B}fața Ta, Doam^{A2}ne!
 
 [c]
-Voi înălța Numele Tău, voi proclama domnia-Ți pe pământ,
-Voi arăta puterea sângelui Tău sfânt!
-Dorința mea va fi a Ta, voi face, Doamne, numai voia Ta,
-Cât voi trăi pe-acest pământ să Te slujesc!
+Voi înăl^{E}ța Numele ^{B}Tău,
+voi procla^{C#m}ma domnia-Ți pe ^{A2}pământ,
+Voi ară^{E}ta puterea ^{B}sângelui Tău ^{A2}sfânt!
+Dorința ^{E}mea va fi a ^{B}Ta,
+Voi face, ^{C#m}Doamne, numai ^{A}voia Ta,
+Cât voi tră^{E}i pe-acest pă^{B}mânt să Te slu^{A}jesc!
 
 [v2]
 În glorie și-n slavă-ntronat, în splendoare ești îmbrăcat,
@@ -23,5 +27,5 @@ Căci nimeni nu este ca Tin’, Dumnezeule divin,
 Creația-ntreagă pe Tine Te laudă!
 
 [b]
-/: Numele Tău e sfânt, Numele Tău e drept,
-Numele Tău e mare pe-ntreg pământ! :/
+/: ^{E}Numele Tău e ^{B}sfânt, ^{C#m}Numele Tău e ^{A}drept,
+^{E}Numele Tău e ^{B}mare pe-ntreg pă^{A}mânt! :/

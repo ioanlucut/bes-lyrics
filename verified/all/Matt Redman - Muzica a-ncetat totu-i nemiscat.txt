@@ -1,24 +1,26 @@
 [title]
-Muzica a-ncetat, totu-i nemișcat {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5138}, id: {8LivoooMeoR7psgwwLautA}, contentHash: {95f726}}
+Muzica a-ncetat, totu-i nemișcat {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5138}, id: {8LivoooMeoR7psgwwLautA}, contentHash: {945371}}
 
 [sequence]
 v1,p,c,v2,p,c
 
 [v1]
-Muzica a-ncetat, totu-i nemișcat, dar eu vin spre Tin’!
-Doamne, m-a durut tot ce n-am făcut voia să-Ți ascult.
+^{D}Muzica a-nce^{A}tat, totu-i nemiș^{Em7}cat,
+Dar eu vin spre ^{Asus A}Tin’!
+^{D}Doamne, m-a du^{A}rut tot ce n-am fă^{Em7}cut
+Voia să-Ți as^{Asus A}cult.
 
 [p]
-Mai mult de-un cântec Ți-aduc,
-Căci doar cântecul nu-i ceea ce Tu ai fi vrut,
-Tu cauți mult mai adânc decât se poate vedea,
-Te uiți în inima mea.
+^{Em}Mai mult de-un ^{D/F#}cântec Ți-a^{A}duc,
+Căci doar cântecul nu-^{Em}i ceea ce ^{D/F#}Tu ai fi ^{A}vrut,
+^{Em}Tu cauți ^{D/F#}mult mai a^{A}dânc decât se poate ve^{Em}dea,
+Te uiți în ^{D/F#}inima ^{A}mea.
 
 [c]
-/: Mă-ntorc la inima închinării, vreau să văd fața Ta,
-Doar fața Ta, Isus.
-Îmi pare rău de a mea greșeală: că nu Te-am căutat
-Și nu m-am închinat destul. :/
+/: ^{D}Mă-ntorc la inima ^{A}închinării,
+Vreau să ^{Em}văd fața Ta, ^{G}doar fața Ta, ^{A}I^{D}sus.
+Îmi pare rău de a ^{A}mea greșeală: că nu ^{Em}Te-am căutat
+Și nu ^{G}m-am închinat ^{A}des^{D}tul. :/
 
 [v2]
 Oamenii nu pot înțelege tot ce Tu ai jertfit,

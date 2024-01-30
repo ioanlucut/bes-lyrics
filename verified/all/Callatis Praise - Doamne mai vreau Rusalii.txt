@@ -1,26 +1,26 @@
 [title]
-Doamne, mai vreau Rusalii {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4431}, id: {d7CL5n8SsKJcdTjgj9gYEH}, contentHash: {909029}}
+Doamne, mai vreau Rusalii {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4431}, id: {d7CL5n8SsKJcdTjgj9gYEH}, contentHash: {073b1b}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
 [v1.1]
-Doamne, mai vreau Rusalii
-Cu limbi de foc,
-Să le împrăștii pe fiecare,
-Să ne atingi cu Duhul Tău.
+^{F}Doamne, mai vreau Ru^{C}salii
+Cu limbi de ^{Dm}foc,
+Să le îm^{Bb}prăștii pe fie^{F/A}care,
+Să ne a^{C}tingi cu Duhul ^{Bb}Tău. ^{C}
 
 [v1.2]
-Doamne, vreau o trezire
-Și într-un gând și o simțire
-Să fim cu toții
-Și să cântăm în limbi o mie.
+^{F}Doamne, vreau o tre^{C}zire
+Și într-un ^{Dm}gând și o ^{Bb}simțire
+Să fim cu ^{F}toții
+Și să cân^{C7}tăm în limbi o ^{Bb}mie.
 
 [c]
-/: Tu faci cerul să coboare,
-Naști în inimă izvoare.
-O, Duh Preasfânt, dă-ne Rusalii,
-O, Duh Preasfânt! :/
+/: Tu faci cerul să co^{F}boa^{C}re,
+Naști în inimă iz^{Dm}voa^{Bb}re.
+O, Duh Prea^{F}sfânt, dă-ne Ru^{C}salii,
+O, Duh Prea^{Bb}sfânt! :/
 
 [v2.1]
 Doamne, dă-mi bucurie

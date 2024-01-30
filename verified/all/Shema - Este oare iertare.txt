@@ -1,24 +1,21 @@
 [title]
-Este oare iertare {alternative: {*}, composer: {Shema}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4342}, id: {9JaULhuohbvQhVpAjmrKrX}, contentHash: {b69790}}
+Este oare iertare {alternative: {*}, composer: {Shema}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4342}, id: {9JaULhuohbvQhVpAjmrKrX}, contentHash: {4b29cb}}
 
 [sequence]
 v1,c,v2,c2
 
 [v1]
-Este oare iertare
-Pentru tot ce-am făcut?
-Doamne, pot eu oare
-Să vin așa cum sunt?
-/: ‘Naintea Ta,
-În fața Ta? :/
+^{Am}Este oare ier^{F}tare pentru ^{C}tot ce-am fă^{G}cut?
+Doamne, ^{Am}pot eu ^{F}oare să ^{C}vin așa cum ^{G}sunt?
+‘Naintea ^{Am}Ta, ‘na^{F}intea ^{C G}Ta,
+În fața ^{Am}Ta, în fa^{F}ța ^{C G}Ta? :/
 
 [c]
-/: Știu, Domnul meu, sunt un om așa rău
-Și Te-am întristat mereu.
-Știu, Domnul meu,
-Te-am răstignit chiar eu
-Când am spus nu este Dumnezeu.
-/: Oare mă poți ierta? (x2) :/
+/: ^{F}Știu, Domnul ^{C}meu, sunt un ^{G}om așa ^{Am}rău
+^{F}Și Te-am întris^{C}tat me^{G}reu.
+^{F}Știu, Domnul ^{C}meu, Te-am răstig^{G}nit chiar ^{Am}eu
+^{F}Când am spus nu ^{C}este Dumne^{G}zeu.
+/: Oare mă poți ^{Am}ierta, mă ^{F}poți ier^{C-G}ta? (x2) :/
 
 [v2]
 Cred că este iertare

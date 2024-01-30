@@ -1,21 +1,21 @@
 [title]
-Miel din staul {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157003}, id: {iwah22JH8PYRjysRtEazDj}, contentHash: {d5c58b}}
+Miel din staul {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157003}, id: {iwah22JH8PYRjysRtEazDj}, contentHash: {612f95}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-N-a mai fost ca noaptea aceea
-Nicio noapte pe pământ,
-Corul cerului în cântec a vestit:
-„Nu vă temeți, vă zic vouă,
-Într-o iesle în Betleem
-Prințul păcii S-a născut, Emanuel!”
+^{D}N-a mai fost ca noaptea aceea
+Nicio ^{D/B}noapte pe pământ,
+Corul ce^{G}rului în cântec a ves^{A}tit:
+„Nu vă ^{D}temeți, vă zic vouă,
+Într-o ^{Em}iesle în Betleem
+Prințul ^{A}păcii S-a născut, Ema^{D}nuel!”
 
 [c]
-/: Miel din staul, Miel divin,
-Ai venit smerit, umil,
-Pentru mine, un păcătos, Te-ai născut. :/
+/: ^{D}Miel din staul, Miel divin,
+Ai ^{D/B}venit smerit, umil,
+Pentru ^{G}mine, un păcă^{A}tos, Te-ai năs^{D}cut. :/
 
 [v2]
 O mulțime de cadouri

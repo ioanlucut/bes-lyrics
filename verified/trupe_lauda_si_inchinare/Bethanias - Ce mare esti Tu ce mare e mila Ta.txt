@@ -1,15 +1,15 @@
 [title]
-Ce mare ești Tu, ce mare e mila Ta {alternative: {*}, composer: {Bethania’s}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2817}, id: {i7QYm7qeUVBvFHGESsaeuf}, contentHash: {01d271}}
+Ce mare ești Tu, ce mare e mila Ta {alternative: {*}, composer: {Bethania’s}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2817}, id: {i7QYm7qeUVBvFHGESsaeuf}, contentHash: {b09b61}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Ce mare ești Tu, ce mare e mila Ta,
-Ce mare e tot ce faci Tu pentru mine!
-Ce mare ești Tu, și bunătatea Ta
-Mă umple atunci când Îți cânt, ce mare ești Tu!
+^{C}Ce mare ești Tu, ce mare e ^{Dm}mila Ta,
+Ce mare e ^{F}tot ce ^{G}faci Tu pentru ^{C}mine!
+^{C}Ce mare ești Tu, și bunăta^{Dm}tea Ta
+Mă umple a^{F}tunci când Îți ^{G}cânt, ce mare ești ^{G}Tu!
 
 [c]
-/: Căci dragostea Ta ajunge pân’ la ceruri,
-Iar inima Ta m-a găsit și m-a salvat! :/
+/: Căci ^{Am}dragostea Ta a^{F}junge pân’ la ^{C}ceruri,
+Iar inima ^{Am}Ta n-a gă^{F}sit și m-a sal^{G4-G}vat! :/

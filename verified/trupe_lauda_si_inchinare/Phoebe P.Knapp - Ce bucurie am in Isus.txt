@@ -1,20 +1,20 @@
 [title]
-Ce bucurie am în Isus! {alternative: {*}, composer: {Phoebe P.Knapp}, writer: {Liviu Avasiloai}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1764}, id: {kSe3QK2meSjRD6VGj1NLQd}, contentHash: {82ed32}}
+Ce bucurie am în Isus! {alternative: {*}, composer: {Phoebe P.Knapp}, writer: {Liviu Avasiloai}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1764}, id: {kSe3QK2meSjRD6VGj1NLQd}, contentHash: {5557b0}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Ce bucurie am în Isus!
-O viață nouă El mi-a adus.
-Pentru vecie m-a mântuit
-Și moștenire mi-a dăruit.
+Ce ^{C}bucurie ^{E}am în I^{B}sus!
+O viață ^{G#m/F#/C#}nouă El mi-a a^{F#}dus.
+^{B}Pentru vecie ^{E}m-a mântu^{B}it
+^{B}Și moș^{C#m/F#}tenire mi-a dă^{B}ruit.
 
 [c]
-În veci cânta-voi că-s fericit:
-Acum prin Isus sunt mântuit!
-În veci, aceasta voi cânta eu:
-„Laud pe Isus că e al meu!”
+^{F#}În veci cân^{B}ta-^{E}voi că-s fe^{B}ricit:
+Acum prin ^{G#m/C#}Isus sunt mân^{F#-F#7}tuit!
+În veci, a^{B}ceasta ^{E}voi cânta ^{B}eu:
+„^{B}Laud pe ^{C#m}Isus ^{F#}că e al ^{B}meu!”
 
 [v2]
 Cu bucurie inima mea,

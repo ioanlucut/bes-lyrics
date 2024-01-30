@@ -1,35 +1,30 @@
 [title]
-Mări se despart {alternative: {Oceans Will Part}, composer: {Ben Fielding}, writer: {Ben Fielding}, arranger: {*}, interpreter: {Hillsong}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7sjTsqVCWayZyPL7Ci8mCN}, contentHash: {894132}}
+Mări se despart {alternative: {Oceans Will Part}, composer: {Ben Fielding}, writer: {Ben Fielding}, arranger: {*}, interpreter: {Hillsong}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7sjTsqVCWayZyPL7Ci8mCN}, contentHash: {5c7ba9}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Când tristă mi-e inima,
-Tu-Ți arăți dragostea
-Și deschizi ochii mei
-Ca să văd ce-ai făcut.
+Când tristă ^{A}mi-e ini^{D2/A}ma, Tu-Ți a^{A}răți dra^{D2/A}gostea
+Și ^{F#m}deschizi ochii ^{E}mei să-nțe^{D}leg ce-ai fă^{E}cut.
 
 [v1.2]
-Când nu văd drumul meu,
-Sprijin mi-e brațul Tău.
-/: Și deschizi ochii mei
-Să-nțeleg ce-ai făcut. :/
+Când nu ^{A}văd drumul ^{D2/A}meu,
+Sprijin ^{A}mi-e brațul ^{D2/A}Tău.
+/: Și des^{F#m}chizi ochii ^{E}mei să-nțe^{D}leg ce-ai fă^{E}cut. :/
 
 [c]
-Mări se despart, neamuri vin
-La chemarea Ta, Isus.
-Viața mea Ți-o închin,
-În Tine speranța-mi pun.
+Mări se des^{A}part, nea^{E/G#}muri ^{F#m7}vin
+La che^{D2}marea Ta, I^{E4-E}sus.
+Viața ^{A}mea Ți-o ^{E/G#}în^{F#m7}chin,
+În Ti^{D2}ne speran^{E}ța-mi {A}pun. (Intro 2 /: F#m-E/G#-A-D2:/)
 
 [v2.1]
-Și de sufăr acum
-Mila Ta e pe drum.
-Când deschizi ochii mei
-Să-nțeleg planul Tău.
+Și de ^{A}sufăr ^{D2/A}acum mila ^{A}Ta e pe ^{D2/A}drum,
+Când des^{F#m}chizi ochii ^{E}mei să-n^{D}țeleg planul ^{E}Tău.
 
 [v2.2]
-Și mă voi bucura
-Sigur pe calea Ta.
-/: Când deschizi ochii mei
-Să-nțeleg planul Tău. :/
+Și mă ^{A}voi bu^{D2/A}cura
+Sigur ^{A}pe calea ^{D2/A}Ta.
+/: Când des^{F#m}chizi ochii ^{E}mei
+Să-nțe^{D}leg planul ^{E}Tău. :/

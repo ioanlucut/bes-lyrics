@@ -1,20 +1,19 @@
 [title]
-Eu eram în lume pierdut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2790}, id: {qqg6nwLAbhS5KD2sCHx8YC}, contentHash: {74252c}}
+Eu eram în lume pierdut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2790}, id: {qqg6nwLAbhS5KD2sCHx8YC}, contentHash: {c6b23e}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Eu eram în lume pierdut
-Și fără adăpost,
-Dar când în față mi-ai apărut
-Eu mi-am găsit un rost.
+^{G}Eu eram în ^{C}lume pierdut
+Și ^{D}fără adă^{G}post,
+Dar când în față mi-ai ^{Am}apărut
+Eu mi-^{D}am găsit un ^{G}rost.
 
 [c]
-Îți mulțumesc din inimă,
-Iubite Salvator,
-De mii de ori Tu m-ai scăpat
-Și mi-ai dat ajutor.
+^{G}Îți mulțumesc din ^{Am}inimă, Iubite ^{C}Salva^{G}tor,
+De mii de ori Tu ^{Am}m-ai scăpat
+^{D}Și mi-ai dat aju^{G}tor.
 
 [v2]
 De multe ori mi s-a-ntâmplat

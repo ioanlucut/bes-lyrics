@@ -1,20 +1,20 @@
 [title]
-Mă-ncred în El {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4191}, id: {sQHxHgzDr36KdaH21hn9V5}, contentHash: {f22cb7}}
+Mă-ncred în El {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4191}, id: {sQHxHgzDr36KdaH21hn9V5}, contentHash: {f2391e}}
 
 [sequence]
 c,v1,c,v2,c2,v3,c2
 
 [v1]
-Mă-ncred în El, orice s-ar întâmpla
-Pe drumul meu sau în viața mea.
-Fie ce-o fi, în orice zi,
-Cerescul Tată m-a călăuzi.
+Mă-ncred în ^{G}El, orice s-ar întâm^{Am}pla
+Pe drumul ^{D}meu sau în viața ^{G}mea.
+Fie ce-o ^{G}fi, în ^{G7}orice ^{C}zi,
+Cerescul ^{G/D}Tată m-a că^{D4}lă^{D}u^{G}zi.
 
 [c]
-Mă-ncred în El, El știe soarta mea
-Pe stâncă sus sau în adânc de văi,
-Lovit de val ajung la mal,
-Cerescul Tată m-a călăuzi.
+Mă-ncred în ^{D7}El, El știe soarta ^{G}mea
+Pe stâncă ^{C}sus sau ^{A7}în adânc de ^{D7}văi,
+Lovit de ^{G}val a^{G7}jung la ^{C}mal,
+Cerescul ^{G/D}Tată m-a că^{D4}lă^{D}u^{G}zi.
 
 [v2]
 Mă-ncred în El, oriunde aș fi dus,

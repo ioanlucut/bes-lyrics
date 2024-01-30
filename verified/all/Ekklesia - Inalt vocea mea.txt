@@ -1,27 +1,20 @@
 [title]
-Înalț vocea mea {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6657}, id: {92oNreLmXMii2CQcLddqZu}, contentHash: {d595e5}}
+Înalț vocea mea {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6657}, id: {92oNreLmXMii2CQcLddqZu}, contentHash: {572117}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Înalț vocea mea
-Către Tin’ Rege-al gloriei.
-Ridic mâinile către Cel ce e vrednic,
-Tânjesc după Tine,
-Atinge-mi, Doamne, inima.
+{E}Înalț vocea ^{A}mea către ^{C#m}Tin’ Rege-al ^{B}gloriei,
+Ri^{E}dic mâini^{A}le către ^{C#m}Cel ce e ^{B}vrednic,
+Tân^{F#m}jesc după Ti^{B}ne, ^{F#m}atinge-mi, Doamne, ini^{B}ma.
 
 [c]
-/: Umple, Doamne, și viața mea
-Cu prezența-Ți divină.
-Tu ești dorința mea,
-Revarsă Duhul Sfânt azi din nou,
-Tânjesc după Tine,
-Tu ești dorința mea. :/
+/: ^{E}Umple, Doamne, și viața ^{A}mea cu prezența-Ți di^{C#m}vină,
+Tu ești do^{B}rința mea, re^{E}varsă Duhul Sfânt azi din ^{A}nou,
+^{C#m}Tânjesc după Tine, Tu ești do^{B}rința mea! :/
 
 [v2]
-Tânjesc să mă speli,
-În voia milei Tale.
-Tânjesc să m-aprinzi,
-Cu focul gloriei Tale
-Și inima mea să simtă mângâierea Ta.
+Tânjesc să mă speli în voia milei Tale,
+Tânjesc să m-aprinzi cu focul gloriei Tale
+Și inima mea să simtă mângâierea Ta!

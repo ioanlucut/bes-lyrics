@@ -1,14 +1,14 @@
 [title]
-Biruitor in pustiu {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187782}, id: {hECwjFxyxAYKARJgxDaDJ7}, contentHash: {2b8d87}}
+Biruitor in pustiu {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187782}, id: {hECwjFxyxAYKARJgxDaDJ7}, contentHash: {ae2728}}
 
 [sequence]
 v1,v2,v3,v4,v5,c,v6,c,v7,c,e
 
 [v1]
-Sunt în pustiu, cel rău se-arată,
+Sunt în ^{b}pustiu, cel rău se-arată,
 Mă simt flămând de glasul Domnului.
-Mă copleșește așteptarea,
-Dar nu renunț, strig către El!
+Mă cople^{e}șește așteptarea,
+Dar nu re^{F#}nunț, strig către El!
 
 [v2]
 Mi-am ridicat fruntea crestată,
@@ -35,29 +35,29 @@ I-am spus lui: „Pleacă de la Mine!
 În Numele Tatălui te biruiesc!”
 
 [c]
-Isus e Domn și-n curând vine,
-El încă e-n pustiu cu noi.
-Știm însă că avem puterea
-Prin sângele Mielului.
+Isus e ^{D}Domn și-n curând vine,
+El încă ^{A}e-n pustiu cu noi.
+Știm însă ^{e}că avem puterea
+Prin ^{F#}sângele Mielului.
 Isus e Domn și-n curând vine,
 El încă e-n pustiu cu noi.
 Știm însă că avem puterea
 În sângele Mielului.
 
 [v6]
-Astăzi și tu ești în pustiu,
-Ai flămânzit și simți că pleci.
-Domnul putere-ți dă și ție
-Și celui rău poți să îi poruncești!
+Astăzi și tu ^{b-b-f#-A-b}ești în pustiu,
+Ai flămân ^{b-b-f#-A-b}zit și simți că pleci.
+Dom^{e-e-b-De}nul putere-ți dă și ție
+Și celui ^{e-e-b-D-e}rău poți să îi poruncești!
 
 [v7]
-Adună-ți lacrimile-n palme,
-Strânge-ți puterea-n rugăciuni!
-Caută să vezi cine ți-e Tată
-Și vei avea atunci belșug!
+Adună-{A-b-b-A-b}ți lacrimile-n palme,
+Strânge-ți {A-b-b-A-b}puterea-n rugăciuni!
+Caută {D-e-e-D-e}să vezi cine ți-e Tată
+Și vei a^{F#}vea atunci belșug!
 
 [e]
-Numai Tu, Isus, ești iubirea mea.
-Nimeni n-ar putea să mă ia din mâna Ta!
-Numai Tu-ai putere rana s-o legi,
-Să ridici din morminte, taine să vorbești!
+Numai ^{D}Tu, Isus, ești iubirea mea.
+Nimeni ^{A}n-ar putea să mă ia din mâna Ta!
+Numai Tu-^{e}ai putere rana s-o legi,
+Să ri^{F#}dici din morminte, taine să vorbești!

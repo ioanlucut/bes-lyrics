@@ -1,18 +1,18 @@
 [title]
-O, cât de bun {alternative: {God You’re so Good}, composer: {Kristian Stanfill}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {esbTYP4rb9anye2iVxD6pJ}, contentHash: {77c737}}
+O, cât de bun {alternative: {God You’re so Good}, composer: {Kristian Stanfill}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {esbTYP4rb9anye2iVxD6pJ}, contentHash: {efa130}}
 
 [sequence]
 v1,c,v2,c,b,v3,c
 
 [v1]
-E uimitor ce dragoste
-Arăți pentru mine.
-Ai hotărât să fiu al Tău,
-Plătind cu-al Tău sânge.
+^{D}E uimitor ^{G}ce drago^{D}ste
+Arăți pentru ^{A4}mi^{A}ne,
+^{D/Bm}Ai hotă^{G}rât să fiu al ^{D}Tău,
+Plătind cu-al Tău ^{A4}sân^{A}ge.
 
 [c]
-/: O, cât de bun, :/ (3x)
-Doamne ești cu min’!
+^{D}O, cât de ^{A}bun, O, cât ^{A7}de ^{D}bun,
+^{Bm}O, cât ^{Bm7}de bun, ^{G}Doamne ^{D/A}ești ^{A}cu ^{D}min’!
 
 [v2]
 Privesc, Isus, vechiul lemn
@@ -21,12 +21,11 @@ Puterea Ta și azi o văd,
 Salvând de la moarte.
 
 [b]
-Sunt salvat, întregit,
-Pe deplin acceptat.
-În Isus sunt vindecat,
-Tatăl mi-a dat favoare,
-Sunt fiul Său,
-Toată viața-L voi lăuda.
+Sunt salvat, ^{A}întregit,
+Pe de^{Bm}plin acceptat.
+În Isus ^{G}sunt vinde^{D}cat,
+Tatăl mi-a ^{A}dat favoare, sunt fiul ^{Bm}Său,
+Toată via^{G}ța-L voi lău^{D}da.
 
 [v3]
 Iar încercări când vor veni,

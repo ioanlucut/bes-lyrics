@@ -1,20 +1,19 @@
 [title]
-Trece Isus pe-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58795}, id: {gx2mXwWG4dntZWxnzKxurZ}, contentHash: {97c3ce}}
+Trece Isus pe-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58795}, id: {gx2mXwWG4dntZWxnzKxurZ}, contentHash: {53c07c}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-De ești trudit și ți-e grea povara,
-Nu vrei chiar astăzi să te ridici?
-Astăzi e clipa hotărâtoare,
-Trece Isus pe-aici.
+^{C}De ești trudit și ți-e ^{F/C}grea ^{C}povara,
+^{Am}Nu vrei chiar ^{G/B}astăzi să ^{C}te ri^{G7}dici?
+^{C}Iată, e clipa ^{F/C}hotărâ^{C}toare,
+^{Am}trece ^{C/G}Isus ^{G7}pe-a^{C}ici!
 
 [c]
-Trece Isus pe-aici,
-Trece Isus pe-aici,
-Cheamă-L și cere-I îndurare,
-Trece Isus pe-aici.
+^{C}Trece ^{Dm7}Isus pe-aici, ^{G7}trece ^{C}Isus pe-aici,
+Cheamă-L și ^{F/C}cere-^{C}I îndurare,
+^{Am}Trece ^{C/G}Isus ^{G7}pe-^{C}aici!
 
 [v2]
 Vei refuza marea Sa iubire

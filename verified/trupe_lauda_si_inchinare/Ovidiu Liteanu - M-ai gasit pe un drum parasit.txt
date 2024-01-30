@@ -1,22 +1,22 @@
 [title]
-M-ai găsit pe un drum părăsit {alternative: {*}, composer: {Ovidiu Liteanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66119}, id: {w52nZgRnebwa3cyDfi5vMb}, contentHash: {0ef657}}
+M-ai găsit pe un drum părăsit {alternative: {*}, composer: {Ovidiu Liteanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66119}, id: {w52nZgRnebwa3cyDfi5vMb}, contentHash: {d90a7d}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-M-ai găsit pe un drum părăsit,
-În al lumii noroi prăbușit.
-Brațul Tău, sfânt Isus, m-a luat
-Din păcat, de noroi m-ai spălat.
+M-ai ^{F}găsit pe un ^{Dm/F}drum pără^{Bb}sit,
+În al ^{Gm}lumii no^{C7}roi prăbu^{F-C}șit.
+Brațul ^{F}Tău, sfânt ^{Dm/F}Isus, m-a luat ^{Bb}
+Din pă^{C}cat, de no^{C7}roi m-ai spă^{F}lat.
 
 [c]
-Ce sunt eu să privești Tu la mine?
-Am iubit doar păcatul în lume.
-Pentru mine, Isus, Te-ai jertfit,
-Domnul meu, cât de mult m-ai iubit!
-/: Sunt o mână de țărână,
-Dar Te laud, Doamne! :/
+Ce sunt ^{F}eu să pri^{Am}vești Tu la mi^{Dm}ne?
+Am iu^{C}bit doar pă^{C7}catul în ^{F}lume.
+Pentru ^{F}mine, ^{Dm/F}Isus, Te-ai jert^{Bb}fit,
+Domnul ^{Gm}meu, cât de ^{C7}mult m-ai iubit! ^{F}
+/: ^{F}Sunt o mâ^{Dm/F}nă de țărâ^{Bb}nă,
+^{F}Dar Te ^{Dm/F}laud, Doam^{C7}ne! :/ ^{C/F C7 F}
 
 [v2]
 Numai Tu m-ai văzut prăbușit

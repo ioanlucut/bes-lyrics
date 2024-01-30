@@ -1,17 +1,23 @@
 [title]
-De n-ar fi Domnul {alternative: {*}, composer: {Shalom}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {787}, id: {uqp4XJwDSzNziyBgPDhM65}, contentHash: {66a90f}}
+De n-ar fi Domnul {alternative: {*}, composer: {Shalom}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {787}, id: {uqp4XJwDSzNziyBgPDhM65}, contentHash: {b3e758}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-De n-ar fi Domnul ajutorul meu în clipele grele ale vieții,
-Cât de curând sufletul meu ar locui-n tăcerea morții.
+De n-^{A}ar fi Domnul ^{Esus4}ajutorul ^{E}meu
+În ^{G}clipele grele ale vi^{D}eții,
+Cât ^{Dm7}de curând ^{A}sufletul ^{F#m}meu
+Ar ^{Bm}locui-n tăcerea ^{E}morții.
 
 [c]
-/: Ori de câte ori am zis: „Mi se clatină piciorul.”
-Bunătatea Ta, Doamne, sprijin mi-a fost. :/
+/: ^{D}Ori de ^{E}câte ori am ^{A A7}zis:
+„^{D}Mi se ^{E}clatină ^{A}picio^{A7}rul.”
+^{D}Bună^{E}tatea Ta, ^{C#m}Doam^{F#m}ne,
+^{Bm}Sprijin mi-a ^{E(A)}fost. :/
 
 [v2]
-Când gânduri negre se frământă cu grămada înlăuntrul meu,
-Bunătatea Ta, Doamne, îmi desfătează sufletul.
+^{B}Când gânduri negre se ^{F#sus4}frămân^{F#}tă
+Cu ^{A}grămada înlăun^{E}trul meu,
+Bu^{Em7}nătatea Ta, ^{B}Doam^{G#m}ne,
+Îmi ^{C#m}desfătează sufle^{F#}tul.

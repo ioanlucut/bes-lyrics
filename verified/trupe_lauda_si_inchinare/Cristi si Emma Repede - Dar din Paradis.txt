@@ -1,33 +1,27 @@
 [title]
-Dar din Paradis {alternative: {*}, composer: {Cristi și Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uzkzbfEph8e7ZqiWx3omrC}, contentHash: {55ec95}}
+Dar din Paradis {alternative: {*}, composer: {Cristi și Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uzkzbfEph8e7ZqiWx3omrC}, contentHash: {e57a7b}}
 
 [sequence]
 p,v1,p,c,v2,p,c,p
 
 [v1]
-Sunt fericit, cerul mi-a dăruit,
-Tot ce eu am dorit în viață.
-Îmi amintesc, când eu te-am întâlnit,
-Soarele mi-a zâmbit frumos.
+^{Ab}Sunt fericit, cerul mi-a ^{Ebm}dăruit,
+Tot ce eu ^{Db}am do^{Dbm}rit în ^{Ab}via^{Eb}ță.
+Îmi ^{Ab}amintesc, când eu te-am ^{Ebm}întâlnit,
+Soarele ^{Db}mi-a zâm^{Dbm}bit ^{Ab}fru^{C7}mos.
 
 [p]
-Printre miile de flori,
-Curcubeul în culori
-Am privit, te-am zărit.
-Nu știam că tu erai
-Darul meu trimis din rai.
-Darul meu, tu erai.
+^{Fm}Printre miile de flori, curcu^{Db}beul în culori,
+Am pri^{Ab}vit, te-am ză^{Eb}rit.
+^{C7}Nu ști^{Fm}am că tu erai darul ^{Db}meu trimis din rai.
+Darul ^{Ab}meu, tu e^{Eb}rai!
 
 [c]
-Iubirea ta e un dar din Paradis
-Spre o lume minunată,
-Porți de aur a deschis.
-Vom străbate amândoi
-Prin furtună și prin ploi
-Dumnezeu este cu noi, El e cu noi.
+Iubi^{Ab}rea ^{Eb}ta e un {Db}dar din Para^{Ab}dis
+Spre o ^{Bbm}lume minuna^{Ab}tă, porți de ^{Bb7}aur a des^{Eb}chis.
+Vom stră^{Db}bate amândoi prin fur^{Db}tună și prin ploi,
+Dumne^{Ab}zeu este cu ^{Eb}noi, El e cu ^{Fm}noi.
 
 [v2]
-În ochii tăi cerul a strălucit
-Și-n șoaptă mi-a vorbit, duios,
-Dragostea e de la Dumnezeu
-Acesta-i darul Său pentru noi.
+În ochii tăi cerul a strălucit și-n șoaptă mi-a vorbit, duios,
+Dragostea e de la Dumnezeu acesta-i darul Său pentru noi.

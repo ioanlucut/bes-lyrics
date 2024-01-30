@@ -1,23 +1,23 @@
 [title]
-E viu, e viu, mormântul Lui e gol {alternative: {*}, composer: {Jean Staneschi}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {3134}, id: {uoG3YqjGmt5zGxw6oUxcrh}, contentHash: {646a4b}}
+E viu, e viu, mormântul Lui e gol {alternative: {*}, composer: {Jean Staneschi}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3134}, id: {uoG3YqjGmt5zGxw6oUxcrh}, contentHash: {46ec5d}}
 
 [sequence]
 c,v1,c,v2,c
 
 [c]
-/: E viu, e viu, mormântul Lui e gol,
-E viu, e viu, a-nviat Domnul meu!
-E viu, e viu în toată splendoarea,
-Ne duce la fericire. :/
+/: ^{D}E viu, e viu, mor^{G}mântul Lui e ^{A7}gol,
+^{A7}E viu, e viu, a-n^{G}viat ^{A7}Domnul ^{D}meu!
+^{D}E viu, e viu în ^{G}toată strălu^{A}cirea,
+Ne ^{G}duce ^{D/A}la feri^{A7}ci^{D}re. :/
 
 [v1]
-Maria, ucenicii grăbesc, alerg la El,
-În zori de dimineață le zice îngerul:
-„Mergeți, vestiți tuturor din morți El a-nviat,
-Credeți și să vă bucurați!”
+^{D}Maria, ucenicii ^{G}grăbesc, alerg la ^{A7}El,
+^{A7}În zori, de dimineață, le zi^{G}ce înge^{D}rul:
+„^{D}Mergeți, vestiți tuturor din ^{G}morți El a-n^{A}viat,
+^{G}Credeți și ^{A}să vă bucu^{D}rați!”
 
 [v2]
 Maria stă și plânge ar vrea să știe ce-i,
 Dar, iată o minune, Isus-naintea ei!
-Ce mare fericire! „Rabbuni!” - Îi zice ea,
+Ce mare fericire! „Rabuni!” - Îi zice ea,
 Și noi în cer Îl vom vedea.

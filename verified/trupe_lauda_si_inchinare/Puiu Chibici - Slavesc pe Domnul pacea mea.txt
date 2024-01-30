@@ -1,20 +1,20 @@
 [title]
-Slăvesc pe Domnul, pacea mea {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111999}, id: {8ES7VSaR6jJDh4FwHYwKeY}, contentHash: {390159}}
+Slăvesc pe Domnul, pacea mea {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111999}, id: {8ES7VSaR6jJDh4FwHYwKeY}, contentHash: {4a15b6}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,b,c
 
 [v1]
-Slăvesc pe Domnul, pacea mea,
-În El sunt încrezător.
-Știu că oricând de L-aș chema,
-Sigur îmi vine-n ajutor.
+^{E}Slăvesc pe ^{A/E}Dom^{E}nul, pa^{B7}cea ^{E}mea,
+^{A}În El ^{B7}sunt în^{A}cre^{B7}ză^{E}tor.
+^{E}Știu că ori^{A/E}când ^{E}de L-^{E}aș ^{B7}che{^E}ma,
+^{A}Sigur îmi ^{B7}vine-n ^{A4}a^{B7}ju^{E}tor.
 
 [c]
-Domnul este de partea mea,
-Nu mă tem de niciun rău,
-Numele Lui îl voi înălța,
-Nume sfânt de Dumnezeu.
+^{A}Domnul este de ^{B}partea ^{B7}mea,
+^{B}Nu mă tem de nici^{A/B}un ^{A/E E}rău,
+^{A}Numele Lui îl voi ^{B}înăl^{B7}ța,
+^{B}Nume ^{G#m/B}sfânt ^{B9}de ^{G#m/B}Dum^{B7}ne^{E}zeu.
 
 [v2]
 El se înalță din Sion
@@ -35,8 +35,7 @@ El este-un foc mistuitor,
 Nimeni nu-i ca Dumnezeu.
 
 [b]
-Căci în veac ține îndurarea Lui!
-Căci în veac ține îndurarea Lui!
-Căci în veac ține îndurarea Lui!
-Lăudați pe Domnul!
-Lăudați pe Domnul!
+^{F}Căci în ^{C7}veac ține ^{F}îndu^{C7}ra^{F}rea ^{Bb}Lui!
+Căci în veac ^{F}ți^{Bb}ne ^{C}îndurarea ^{Bb/C}Lui!
+^{F}Căci în ^{C7}veac ține ^{F}îndu^{C7}ra^{F}rea ^{Bb}Lui!
+^{Bb/G}Lău^{F/C}dați pe ^{C7}Dom^{F}nul! ^{Bb/G}Lău^{F/C}dați pe ^{C}Domn{F}ul!

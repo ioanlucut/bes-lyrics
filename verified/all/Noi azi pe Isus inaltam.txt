@@ -1,22 +1,22 @@
 [title]
-Noi azi pe Isus înălțăm {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4775}, id: {5zDbTeWwdw88xDYRZd9QeJ}, contentHash: {08a6b7}}
+Noi azi pe Isus înălțăm {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4775}, id: {5zDbTeWwdw88xDYRZd9QeJ}, contentHash: {17f688}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Noi azi pe Isus înălțăm,
-Ca un drapel pe-acest oraș,
-Toți să cunoască-n adevăr,
-El este Calea către cer.
+{G}Noi azi pe ^{D}Isus înăl^{Em}țăm,
+Ca un dra^{C}pel pe-a^{D}cest o^{G}raș,
+Toți să cu^{D}noască-n ade^{Em}văr,
+El este ^{C}Calea ^{D}către ^{G}cer.
 
 [c]
-/: Noi proclamăm, noi proclamăm
-Noi proclamăm: Isus e ‘nălțat! :/
+/: Noi proclamăm, ^{D}noi proclamăm ^{Em}
+Noi proclamăm: ^{C}Isus ^{D}e ‘năl^{G}țat! :/
 
 [v2]
-Pas cu pas mergem-nainte,
-Tot mai mult cucerim teren,
-Arma noastră-i rugăciunea,
-Ziduri cad, continuu cad
-Și cad și cad și cad.
+^{G}Pas cu ^{D}pas mergem-na^{Em}inte,
+Tot mai ^{D}mult cuce^{Em}rim teren,
+Arma ^{D}noastră-i rugă^{Em}ciunea,
+Ziduri ^{C}cad, continuu ^{D}cad
+Și cad și cad și ^{G}cad.

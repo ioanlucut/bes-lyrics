@@ -1,26 +1,26 @@
 [title]
-Biruitor {alternative: {*}, composer: {Dani Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {175967}, id: {2aHyv3KR1Ubc1ntAnRmoke}, contentHash: {3cac42}}
+Biruitor {alternative: {*}, composer: {Dani Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {175967}, id: {2aHyv3KR1Ubc1ntAnRmoke}, contentHash: {4b6576}}
 
 [sequence]
-v1.1,v1.2,c,v2,c,b,c
+v1.1,v1.2,c,v2,c,b,b2,c
 
 [v1.1]
-Pe câmpul de război Tu ești cu mine,
-Mă-mbărbătezi să lupt ca un viteaz,
-Îmi pui în mână sabia și scutul
-Și îmi promiți că singur nu mă lași!
+^{D}Pe câmpul de război Tu ești cu mine,
+Mă-m^{D/Bm}bărbătezi să lupt ca un viteaz,
+Îmi ^{D/G}pui în mână sabia și scutul
+Și ^{A4}îmi promiți că singur nu mă ^{A}lași!
 
 [v1.2]
-Mă ține tare-a Ta făgăduință,
-Că lupta după ce-o voi termina,
-Îmi voi primi din mâna Ta cununa
-Și-n carul biruinței voi umbla!
+Mă ^{D}ține tare-a Ta făgăduință,
+Că ^{D/B}lupta după ce-o voi termina,
+Îmi ^{D/G}voi primi din mâna Ta cununa
+Și-n ^{A4}carul biruinței voi um^{A}bla!
 
 [c]
-/: Biruitor eu voi umbla,
-Nu e dușman împotrivă să-mi stea!
-Tu mă conduci cu dreapta Ta,
-Isuse, a Ta e victoria! :/
+/: Birui^{G}tor eu voi um^{D}bla,
+Nu e ^{Bm}dușman împotrivă să-mi ^{A}stea!
+Tu mă con^{G}duci cu dreapta ^{D}Ta,
+Isuse, a ^{Bm}Ta e victo^{A}ria! :/ ^{(A///)}
 
 [v2]
 Pe marea-nvolburată ești cu mine,
@@ -29,7 +29,13 @@ Mă ține tare-a Ta promisiune,
 Că-n zori de zi ajunge-vom la mal!
 
 [b]
-/: De-i lupta-ncrâncenată
-Și vin săgeți arzând,
-Nu tremur, nu mi-e teamă,
-Știu lângă cine lupt! :/ (x3)
+/: ^{Em}De-i lupta-ncrâncenată
+^{D/B}Și vin săgeți arzând,
+^{D}Nu tremur, nu mi-e teamă,
+{A}Știu lângă cine lupt! :/ (3x)
+
+[b2]
+^{Em}De-i lupta-ncrâncenată
+^{D/B}Și vin săgeți arzând,
+^{D}Nu tremur, nu mi-e tea^{A}mă,
+^{A}Știu lângă cine lupt!

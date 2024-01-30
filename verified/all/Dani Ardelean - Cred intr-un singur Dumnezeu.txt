@@ -1,53 +1,41 @@
 [title]
-Cred într-un singur Dumnezeu {alternative: {*}, composer: {Dani Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {232883}, id: {oWn3uuAD5nC5hNfaJcMUuZ}, contentHash: {7b9d41}}
+Cred într-un singur Dumnezeu {alternative: {*}, composer: {Dani Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {232883}, id: {oWn3uuAD5nC5hNfaJcMUuZ}, contentHash: {0fc33c}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c,b,b2,b3
 
 [v1.1]
-Cred într-un singur Dumnezeu,
-Creatorul a toate,
-Cred în Isus ce-a murit
-Pentru-ale mele păcate.
+^{E}Cred într-un singur Dumnezeu, Crea^{A/E}torul a ^{E}toate,
+^{B}Cred în Isus ce-a murit pentru-ale mele pă^{E}cate.
 
 [v1.2]
-Cred în Duhul Sfânt trimis,
-El e-a mea îndrumare,
-Cred în viața veșnică
-Ce o am după moarte.
+^{E}Cred în Duhul Sfânt trimis, El e-a ^{A/E}mea îndru^{E}mare,
+^{B}Cred în viața veșnică ce o am după ^{E}moarte.
 
 [c]
-Credincios pân’ la capăt voi fi
-Regelui ce pe cruce-a murit.
-El prin sângele curs a plătit prețul pus,
-El e vrednic să fie-onorat.
+Credin^{A}cios pân’ la capăt voi ^{E}fi
+Rege^{C#m}lui ce pe cruce-a mu^{B}rit.
+El prin ^{A}sângele curs a plăt^{E}it prețul pus,
+El e ^{E/C#}vrednic să fie-ono^{B4-B}rat.
 
 [v2.1]
-Domnul luptă pentru noi,
-Cine va sta împotrivă?
-Pentru cei răscumpărați,
-Cine acuze ridică?
+Domnul luptă pentru noi, cine va sta împotrivă?
+Pentru cei răscumpărați cine acuze ridică?
 
 [v2.2]
-Domnul Isus a murit
-Pentru-a noastră-nfiere
-Și la dreapta Tatălui
-Pentru noi mijlocește.
+Domnul Isus a murit pentru-a noastră-nfiere
+Și la dreapta Tatălui pentru noi mijlocește.
 
 [b]
-Vrednic este Mielul ‘junghiat
-El prin moarte ne-a răscumpărat
-Și prin sângele curs a plătit prețul pus
-El e vrednic să fie-onorat.
+^{A}Vrednic este Mielul ^{E}‘junghiat
+El prin ^{C#m}moarte ne-a răscumpă^{B}rat
+Și prin ^{A}sângele curs a plă^{E}tit prețul pus,
+El e ^{E/C#}vrednic să fie-ono^{B4-B}rat.
 
 [b2]
-Prigoană, lipsuri sau sabie,
-De El nu m-ar despărți.
-Eu am victorie deplină prin Cel,
-Ce nespus de mult m-a iubit.
+^{G#m}Prigoană, lipsuri sau ^{C#m}sabie ^{A2}de El nu m-ar despăr^{E}ți,
+^{B}Eu am victorie de^{C#m}plină prin Cel ce ^{A1}nespus de mult m-a iu^{C#m}bit.
 
 [b3]
-Nici îngeri, demoni sau moarte
-Nu m-ar putea clătina
-Știu cui slujesc și cui mă închin,
-În dragoste sunt ancorat.
+^{Gm}Nici îngeri, demoni sau ^{C#m}moarte ^{A2}nu m-ar putea clă^{E}tina
+^{B}Știu cui slujesc și ^{C#m}cui mă închin, ^{A2}în dragoste sunt anco^{G#4-G#}rat.

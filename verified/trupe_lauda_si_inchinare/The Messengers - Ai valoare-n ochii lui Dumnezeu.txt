@@ -1,0 +1,34 @@
+[title]
+Ai valoare-n ochii lui Dumnezeu {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1GWLUYEjn8R9uDVN7oFQdV}, contentHash: {01d4e3}}
+
+[sequence]
+v1.1,v1.2,c,v2,c,c,b,c,c
+
+[v1.1]
+Dacă ^{Gm}sufletul îți e apă^{C}sat
+De po^{F}vara grea și de pă^{Dm}cat,
+Simți condam^{C}nare, dorești ^{Gm/F}ierta{F}re,
+
+[v1.2]
+Dacă ^{Gm}prin decizii ai dărâ^{C}mat,
+Din suflet ^{F}pacea și credința au ple^{Dm}cat
+Lacrimi sunt ^{C}multe, nădejdi ^{Gm/F}pierdu^{F}te.
+
+[c]
+^{Bb/C}Ai va^{F}loare-n ochii lui Dumne^{F/A}zeu,
+Pentru ^{Bb/G}tine a murit Fiul ^{Bb}Său
+Pe o ^{Gm}cruce ca să fii mântu^{C7}it,
+Oricine-ai ^{F}fi de Dumne^{F4}zeu ești iu^{F}bit!
+
+[v2]
+De Mesia Petru s-a lepădat,
+Niciodată Domnul nu l-a certat,
+Prin pocăință, El l-a iertat.
+Firimituri zdrobite Domnul și-acum
+În coșul dragostei ridică din drum,
+Cu îndurare îți dă iertare.
+
+[b]
+^{Gm}Oricine-ai fi, tu ai valoare!
+^{Gm/Bb}Oricine-ai fi, primești iertare!
+^{Gm}Oricine-ai fi, tu ai valoare-n ochii ^{F}Lui!

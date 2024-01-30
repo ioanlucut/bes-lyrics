@@ -1,20 +1,20 @@
 [title]
-Ce dar măreț e Isus, Salvatorul {alternative: {Yet Not I But through Christ In Me}, composer: {Jonny Robinson}, writer: {Corneliu Matei}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188896}, id: {tJxG51TYMYD9wuJ7be4ZVF}, contentHash: {523f00}}
+Ce dar măreț e Isus, Salvatorul {alternative: {Yet Not I But Through Christ In Me}, composer: {Jonny Robinson}, writer: {Corneliu Matei}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188896}, id: {tJxG51TYMYD9wuJ7be4ZVF}, contentHash: {fa13d7}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,e
 
 [v1]
-Ce dar măreț e Isus, Salvatorul!
-E tot ce poate cerul să îmi dea,
-E bucurie și neprihănire,
-E-o dragoste ce-mi umple inima.
+^{C}Ce dar măreț e Isus, Salva^{F2}torul!
+E tot ce ^{C}poate cerul să îmi ^{G4-G}dea,
+E bucu^{C}rie și neprihă^{F2}nire,
+E-o drago^{C/G}ste ce-mi ump^{G7}le ini^{C}ma.
 
 [v2]
-Speranța mea e doar în Domnul Isus,
-Viața mea-i legată doar de El.
-Pot să spun că Isus pace-n dar mi-a adus,
-Tot ce sunt, sunt prin harul Său.
+Speranța ^{F}mea ^{Em/G}e doar în Dom^{G7}nul ^{C}Isus,
+Viața ^{F}mea-i le^{C/G}gată doar de ^{G4-G}El.
+^{Em/G}Pot ^{G7}să ^{C}spun că I^{Dm7}sus pace-n ^{C/E}dar mi-a a^{F}dus,
+^{Em/G}Tot ^{G7}ce ^{C/G}sunt, sunt prin ^{G7}harul ^{C}Său.
 
 [v3]
 Chiar dacă noaptea-n jurul meu se lasă,
@@ -41,7 +41,7 @@ Pot acum să declar: „Liber sunt în Hristos,
 Tot ce sunt, sunt prin harul Său!”
 
 [v7]
-Cu tot ce am, Îl voi urma pe Isus,
+Cu tot ce am Îl voi urma pe Isus,
 El mi-a promis că mă va duce-n cer
 Și zi de zi mă va-ntări, știu bine,
 Pân’ voi ajunge-n fața tronului.

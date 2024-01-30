@@ -1,16 +1,20 @@
 [title]
-Cum dorește un cerb izvor de apă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4864}, id: {sda6B9dxaxvwAdycuFzHJt}, contentHash: {e93514}}
+Cum dorește un cerb izvor de apă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4864}, id: {sda6B9dxaxvwAdycuFzHJt}, contentHash: {f41f7c}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Cum dorește un cerb izvor de apă așa eu Te doresc.
-Tu ești singura mea dorință, să Te laud eu tânjesc.
+^{C}Cum do^{G/B}rește un ^{Am}cerb iz^{C/G}vor de apă
+A^{F}șa eu ^{Gsus G}Te do^{C}resc. ^{F2 Gsus-G}
+^{C}Tu ești ^{G/B}singura ^{Am}mea do^{C/G}rință,
+Să Te ^{F2}laud ^{Gsus G}eu tân^{C}jesc.
 
 [c]
-/: Tu ești scut și tăria mea și Ție-Ți dau toată inima,
-Tu ești singura mea dorință, să Te laud eu tânjesc. :/
+/: ^{Am}Tu ești ^{Am/G}scut și tă^{F}ria ^{C2/E}mea
+Și ^{F}Ție-Ți dau toa^{C/E}tă ^{Dm7}ini^{Esus-E}ma,
+^{C}Tu ești ^{G/B}singura ^{Am}mea do^{G/C}rință,
+Să Te ^{F2}laud ^{Gsus G}eu tân^{C}jesc. :/
 
 [v2]
 Sufletul meu Te caută zi și noapte, ești Dumnezeul viu,

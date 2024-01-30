@@ -1,29 +1,32 @@
 [title]
-L-am căutat și L-am găsit {alternative: {Psalmul 34; Psalm 34}, composer: {Shane Barnard & Joe Rigney}, writer: {Nicoleta Mascaș}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214233}, id: {2QAqHiij5zSxSQeWmQYBki}, contentHash: {e84915}}
+L-am căutat și L-am găsit {alternative: {Psalmul 34; Psalm 34}, composer: {Shane Barnard & Joe Rigney}, writer: {Nicoleta Mascaș}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214233}, id: {2QAqHiij5zSxSQeWmQYBki}, contentHash: {8017b6}}
 
 [sequence]
 v1,v2,c,v3,c,b,c,e
 
 [v1]
-L-am căutat și L-am găsit, de temeri El m-a izbăvit.
-Când privești spre El te luminezi.
-Rușinea El mi-a șters, rușinea El mi-a șters.
+^{C}L-am căutat și ^{F}L-am gă^{C}sit,
+De temeri ^{G}El m-a izbă^{C}vit.
+^{C}Când privești spre El te ^{F}lumi^{C}nezi.
+Rușinea El mi-a ^{G}șters, ^{F}rușinea El mi-a ^{C}șters.
 
 [v2]
 Când am strigat, El m-a auzit, necazul meu l-a risipit,
 El face scut peste-ai Lui sfinți, îi va elibera, îi va elibera.
 
 [c]
-/: Laudă-L pe El, acum, să-nălțăm al Său sfânt Nume!
-Toată gloria este-a Lui, să-I cântăm o veșnicie! :/
+/: Lau^{Am}dă-L pe ^{F}El, a^{C}cum,
+Să-năl^{Am}țăm al ^{F}Său ^{C/G}sfânt Nu^{G}me!
+Toată ^{Am}gloria ^{F}este-a ^{C}Lui,
+Să-I cân^{Am}tăm o ^{F}veș^{C/G}nicie! ^{G} :/
 
 [v3]
 Gustă și vezi, Domnul este bun, eu mă-ncred în El și sunt izbăvit.
 Când sfinții Lui de El se tem, El îi va îngriji, El îi va îngriji.
 
 [b]
-/: Binecuvântat fii de noi mereu,
-Veșnic vom cânta pentru Dumnezeu! :/ (x4)
+/: Bi^{Am}necuvântat fii de ^{F}noi mereu,
+Veșnic ^{C}vom cânta pentru ^{G}Dumnezeu! :/ (x4)
 
 [e]
 Gustă și vezi, Domnul este bun, eu mă încred în El, eu mă încred în El!

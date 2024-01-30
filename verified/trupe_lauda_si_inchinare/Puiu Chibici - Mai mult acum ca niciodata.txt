@@ -1,27 +1,27 @@
 [title]
-Mai mult acum ca niciodată {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {142682}, id: {rsDJdToejsQrkXwrsY3NzL}, contentHash: {e1bd60}}
+Mai mult acum ca niciodată {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {142682}, id: {rsDJdToejsQrkXwrsY3NzL}, contentHash: {121f62}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-Mai mult acum, ca niciodată,
-E drumul mai alunecos.
-Credința-i parcă mai uitată,
-Tot mai în umbră-i pus Hristos.
+^{G}Mai mult acum, ca ^{C}nicio^{G}dată,
+E drumul ^{D7}mai alune{G}cos.
+Credința-i parcă ^{C}pmai ui^{G}tată,
+Tot mai în ^{D7}umbră-i pus Hris{G}tos.
 
 [v1.2]
-E timpul azi pentru trezire,
-E timpu-aproape spre apus,
-Acum întreaga omenire
-Are nevoie de Isus.
+^{B}E timpul azi pentru trezire, ^{Em}
+E timpu-a^{A7}proape spre apus, ^{D7}
+Acum în^{G}treaga omeni^{C}re
+Are ne^{G}voie ^{D7}de I^{G}sus.
 
 [c]
-/: Mai mult acum (mai mult acum),
-Ca niciodată (mai mult acum),
-E vremea să ne ridicăm
-Să Îl chemăm, ca altădată,
-Și îndeaproape să Îl urmăm. :/
+/: ^{C}Mai mult acum (mai mult acum),
+Ca nicio^{G}dată (mai mult acum),
+E vremea ^{D7}să ne ridi^{G}căm
+Să Îl che^{C}măm, ca altă^{G}dată,
+Și îndea^{D7}proape să Îl ur^{G}măm. :/
 
 [v2.1]
 E timpul pentru apropiere,

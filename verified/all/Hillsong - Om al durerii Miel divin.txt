@@ -1,32 +1,39 @@
 [title]
-Om al durerii, Miel divin {alternative: {*}, composer: {Hillsong}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {177094}, id: {wN9XtcZRjMpobM3Dvf4Lco}, contentHash: {b37f9e}}
+Om al durerii, Miel divin {alternative: {*}, composer: {Hillsong}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {177094}, id: {wN9XtcZRjMpobM3Dvf4Lco}, contentHash: {2fa7a5}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c,v3,c
 
 [v1.1]
-Om al durerii, Miel divin, părăsit de toți,
-Păcatul omenirii-ntregi asupra Lui a luat.
+^{C}Om al durerii, ^{F}Miel di^{C}vin,
+^{F}Pără^{C}sit de ^{G}toți,
+Pă^{Am}catul ^{C/G}ome^{F}nirii-n^{Am}tregi,
+A^{F}supra ^{G}Lui a ^{C}luat.
 
 [v1.2]
-Bătut, zdrobit, batjocorit, El nu S-a apărat.
-„Voia Ta, nu voia Mea!” a spus când s-a rugat.
+Bătut, zdrobit, batjocorit,
+El nu S-a apărat.
+„Voia Ta, nu voia Mea!”,
+A spus când s-a rugat.
 
 [c]
-M-ai salvat la vechea cruce,
-Dragostea Ta mi-ai arătat,
-Sufletu-mi strigă „Aleluia, slavă Celui înălțat!”
+M-ai sal^{Am}vat la ^{F}vechea ^{C}cru^{G}ce,
+Dragos^{Am}tea Ta ^{F}mi-ai ară^{G}tat,
+Sufle^{F}tu-mi stri^{C}gă „Ale^{G}lu^{Am}ia,
+Slavă ^{F}Celui ^{G}înăl^{C}țat!”
 
 [v2]
-Dumnezeu venit din cer, Tu ne-ai răscumpărat,
-Vrei să te-mpaci cu cei ce sus, pe cruce Te-au urcat.
+Dumnezeu venit din cer,
+Tu ne-ai răscumpărat.
+Vrei să te-mpaci cu cei ce sus,
+Pe cruce Te-au urcat.
 
 [b]
-/: Datoria mea a plătit-o El,
-Sângele ce-a curs este-al lui Isus.
-De blestem, păcat, nu mai sunt legat
-Fiul a plătit, sunt eliberat! :/
+/: Dato^{Am}ria ^{F}mea a plă^{C}tit-o ^{G}El,
+Sânge^{Am}le ce-a ^{F}curs este-al ^{C}lui I^{G}sus.
+De bles^{Am}tem, pă^{F}cat, nu mai ^{C}sunt le^{G}gat
+Fiul ^{A}a plă^{F}tit, sunt ^{C}elibe^{G}rat! :/
 
 [v3]
-Piatra s-a rostogolit, mormântul este gol.
+Piatra s-a rostogolit, mormântul este gol!
 Aleluia, fii-nălțat, din morți ai înviat!

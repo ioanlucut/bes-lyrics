@@ -1,14 +1,14 @@
 [title]
-Doamne ești bun {alternative: {*}, composer: {Domini}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {120642}, id: {4xJT3zRivvXabmLjafZCoo}, contentHash: {ded28c}}
+Doamne ești bun {alternative: {*}, composer: {Domini}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {120642}, id: {4xJT3zRivvXabmLjafZCoo}, contentHash: {ebb24b}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Doamne ești bun, Doamne ești sfânt,
-Și sfințenia Ta oglindească-se-n noi.
-Plin de-ndurare, gata să ierți
-Pe cei ce Te cheamă smeriți.
+^{C#}Doamne ești bun, Doamne ești ^{B}sfânt,
+Și sfin^{E}țenia Ta oglin^{A}dească-se-n noi.
+^{C#}Plin de-ndurare, ^{B}gata să ierți
+Pe ^{A}cei ce Te cheamă sme^{B}riți.
 
 [v1.2]
 Doamne ești mare, Doamne ești drept,
@@ -17,10 +17,10 @@ Ești statornic în veci, răspunzi când Te chem.
 Tu ești nădejdea mea, stâncă tare!
 
 [c]
-Ești bucuria mea în orice-ncercare,
-Ești adăpostul meu când totul mi-e greu,
-Ești cetățuia mea, Tu-mi ești stâncă tare
-Și trăiesc Doamne-n Tin’, trăiesc pentru a Te lăuda.
+^{E}Ești bucu^{A}ria mea în ^{C#}orice-ncer^{B}care,
+^{E}Ești adă^{A}postul meu când ^{C#}totul mi-e ^{B}greu,
+^{E}Ești cetă^{A}țuia mea, Tu-mi ^{C#}ești stâncă ^{B}tare
+Și tră^{D}iesc Doamne-n Tin’, tră^{A}iesc pentru a ^{B}Te lău^{E}da.
 
 [v2.1]
 Făr’ de sfârșit și început,

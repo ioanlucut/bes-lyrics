@@ -1,21 +1,20 @@
 [title]
-Ne vom aduce mereu aminte {alternative: {*}, composer: {Tommy Walker}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157566}, id: {pGw6wDG2zaDZkkL8PCL28Q}, contentHash: {95d016}}
+Ne vom aduce mereu aminte {alternative: {*}, composer: {Tommy Walker}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157566}, id: {pGw6wDG2zaDZkkL8PCL28Q}, contentHash: {6a54e6}}
 
 [sequence]
 c,v1,v2,c,v3,e,c,v4,c
 
 [c]
-/: Ne vom aduce mereu aminte,
-Vom spune lumii lucrările-Ți mari,
-Vom striga:
-„O, cât de mare,
-E credincioșia Ta!” :/
+/: ^{D}Ne vom aduce ^{G}mereu aminte,
+^{D}Vom spune lumii lu^{Bm}crările-Ți ^{Am7}mari,
+^{D}Vom striga: „^{G}O, cât de mare
+E ^{D/A}credincio^{A7}șia ^{D}Ta!” :/ ^{G-F#m-Em-D}
 
 [v1]
-Ești Creatorul, Susținătorul,
-Mângâietorul, iubit Salvator!
-Și peste vremuri, ne-ai fost scăpare,
-Ne-ai dat pace, chiar în furtuni.
+^{D}Ești Creatorul, ^{G}Susținătorul,
+^{D}Mângâietorul, iu^{Bm}bit Salva^{A}tor!
+^{D}Și peste vremuri, ^{G}ne-ai fost scăpare,
+Ne-ai ^{D/A}dat pace, ^{A7}chiar în fur^{D}tuni. ^{G-F#m-Em-D}
 
 [v2]
 Prin multe semne, Ți-arăți puterea,
@@ -24,20 +23,17 @@ Ne-ai fost alături, sprijin în toate,
 Ne-ai dat viață fără sfârșit.
 
 [v3]
-Când drumul nostru, prin văi coboară,
-Vom privi, la tot ce-ai făcut,
-Și vom striga:
-„Ce bun e Domnul!
+Când drumul nostru prin văi coboară,
+Vom privi la tot ce-ai făcut,
+Și vom striga: „Ce bun e Domnul!
 El e mereu credincios!”
 
 [e]
-Aleluia, aleluia,
-Celui ce ne-a binecuvântat!
-Aleluia, aleluia,
-Celui ce ne-a răscumpărat!
+^{A}Aleluia, ^{Bm}aleluia, Celui ^{G}ce ne-a ^{D}binecu^{A}vân^{E7}tat!
+^{A}Aleluia, ^{Bm}aleluia, Celui ^{G}ce ne-a ^{D/A}răscumpă^{A}rat!
 
 [v4]
-Mi-aduc aminte, de-a Ta chemare,
-De ziua când, mi-ai spus că-s salvat.
-Că niciodată, nu voi fi singur,
+Mi-aduc aminte de-a Ta chemare,
+De ziua când mi-ai spus că-s salvat,
+Că niciodată nu voi fi singur,
 Pe veci viața Tu mi-ai schimbat.

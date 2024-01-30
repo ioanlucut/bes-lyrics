@@ -1,20 +1,20 @@
 [title]
-Nu vă-ngrijorați de viața voastră {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {107771}, id: {nWJjm6ERqn6UBcWj4H1LtQ}, contentHash: {a546c7}}
+Nu vă-ngrijorați de viața voastră {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {107771}, id: {nWJjm6ERqn6UBcWj4H1LtQ}, contentHash: {47e9dc}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Nu vă-ngrijorați de viața voastră,
-Căci de grijă Domnul va purta,
-El de toate-n lume se-ngrijește,
-Cereți, credeți și veți căpăta.
+^{G}Nu vă-ngrijorați de viața ^{Am}voastră,
+^{C}Căci de grijă ^{D7}Domnul va pur{G}ta,
+^{G}El de toate-n lume se-ngri^{Am}jește,
+^{D7}Cereți, credeți și veți căpă^{G}ta.
 
 [c]
-Ajunge zilei necazul ei,
-Deci, Domnului vă-ncredințați,
-Și chiar de-ați fi și-n gropi cu lei,
-Să nu vă-ngrijorați.
+A^{G}junge zilei ne^{C}cazul ^{G}ei,
+Deci, ^{C}Domnului vă-ncredin^{G}țați,
+Și ^{C}chiar de-ați ^{G}fi și-n ^{Em}gropi ^{D7}cu ^{G}lei,
+Să ^{C}nu vă-n^{G/D}gri^{D7}jo^{G}rați.
 
 [v2]
 Atunci când ‘ș-întinde Domnul mâna,

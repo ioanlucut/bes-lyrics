@@ -1,25 +1,25 @@
 [title]
-O, Doamne, Tu ne-ai însoțit pe cale {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195500}, id: {5zyDe169yCZFv69U1uEJwp}, contentHash: {84b9fb}}
+O, Doamne, Tu ne-ai însoțit pe cale {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195500}, id: {5zyDe169yCZFv69U1uEJwp}, contentHash: {efa7aa}}
 
 [sequence]
 c,v1,c,v2,c
 
 [c]
-/: O, Doamne, Tu ne-ai însoțit pe cale,
-În lungul drum ce trece prin pustiu.
-Tu ne-ai condus prin lipsuri și belșug,
-Prin furtuni și foc, spre un loc mai bun!
-Tu ne-ai condus, până aici! :/
+/: O, ^{D}Doamne, Tu ne-ai înso^{G}țit pe ^{D}cale,
+În ^{G}lungul ^{D}drum ce trece ^{Bm}prin pus^{A}tiu.
+Tu ^{D}ne-ai condus prin lipsuri ^{G}și bel^{D}șug,
+Prin fur^{G}tuni și ^{D}foc, spre un ^{Bm}loc mai ^{A}bun!
+Tu ne-ai con^{G}dus, până a^{D}ici! :/ ^{D4-D}
 
 [v1]
-Asupriți pe pământ străin,
-Mult prea slabi să ne-mpotrivim,
-Noi plăteam tribut celor de demult.
-Nicidecum locul nu-l găseam,
-Cântul frânt doar îl suspinam,
-Tu ne-ai auzit și ne-ai izbăvit.
+Asu^{A}priți pe pă^{G/D}mânt stră^{D}in,
+Mult prea ^{A}slabi să ne-m^{G/D}potri^{D}vim,
+Noi plă^{Bm}team ^{A}tri^{D}but celor ^{Bm}de de^{A}mult.
+Nicide^{A}cum locul ^{G/D}nu-l gă^{D}seam,
+Cântul ^{A}frânt doar îl ^{G/D}suspi^{D}nam,
+Tu ne-ai ^{Bm}a^{A}u^{D}zit și ne-ai ^{Bm}izbă^{A}vit.
 
 [v2]
-Ai zdrobit lanțuri și poveri,
-Moartea-i frânt și-ale ei puteri,
-Din deșert ne-ai scos la un loc frumos.
+^{A}Ai zdrobit lanțuri și ^{G/D}po^{D}veri,
+Moartea-i ^{A}frânt și-ale ei ^{G/D}pu^{D}teri,
+Din de^{Bm}șert ^{A}ne-ai ^{D}scos la un ^{Bm}loc ^{A}fru^{B4-B}mos.
