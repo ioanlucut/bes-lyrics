@@ -1,5 +1,5 @@
 [title]
-Este-n cer o țară, un sfânt paradis {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Este-n cer o țară, un sfânt paradis {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nufeqzsJ9Br9afmwGbDo4J}, contentHash: {871dc4}}
 
 [sequence]
 v1,v2,v3

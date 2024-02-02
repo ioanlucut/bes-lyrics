@@ -1,5 +1,5 @@
 [title]
-Ești Soarele ce strălucești deasupra tuturor {alternative: {*}, composer: {Dorel Breabăn}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Ești Soarele ce strălucești deasupra tuturor {alternative: {*}, composer: {Dorel Breabăn}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {r9b6to7z6Zd9TodMg8FC68}, contentHash: {df3f96}}
 
 [sequence]
 v1,c,v2,c,v3,c
