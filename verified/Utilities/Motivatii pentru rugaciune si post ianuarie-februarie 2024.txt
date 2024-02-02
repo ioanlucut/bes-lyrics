@@ -1,5 +1,5 @@
 [title]
-Motivații post și rugăciune februarie 2024 {alternative: {Veniți să ne întoarcem la Dumnezeu - 21 de zile de post și rugăciune}, composer: {Biserica Emanuel Sibiu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {spiritual disciplines}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Motivații pentru post și rugăciune ianuarie-februarie 2024 {alternative: {Veniți să ne întoarcem la Dumnezeu - 21 de zile de post și rugăciune}, composer: {Biserica Emanuel Sibiu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {spiritual disciplines}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
 
 [sequence]
 v1.1,v1.2,v1.3,v1.4,v1.5,v2.1,v2.2,v2.3,v2.4,v2.5,v2.6,v3.1,v3.2,v3.3,v3.4,v3.5,v4.1,v4.2,v4.3,v4.4,v4.5,v5.1,v5.2,v5.3,v5.4,v6.1,v6.2,v6.3,v6.4,v6.5,v6.6,v6.7,v7.1,v7.2,v7.3,v7.4,v7.5
@@ -7,10 +7,10 @@ v1.1,v1.2,v1.3,v1.4,v1.5,v2.1,v2.2,v2.3,v2.4,v2.5,v2.6,v3.1,v3.2,v3.3,v3.4,v3.5,
 [v1.1]
 Veniți să ne întoarcem la Dumnezeu!
 21 de zile de post și rugăciune
-(29 ianuarie – 18 februarie 2024)
+(29 ianuarie – 18 februarie)
 
 [v1.2]
-Smerire profundă și pocăință înaintea lui Dumnezeu
+1. Smerire profundă și pocăință înaintea lui Dumnezeu
 
 [v1.3]
 Să ne cercetăm starea spirituală înaintea Domnului:
@@ -25,7 +25,7 @@ Mărturisirea păcatelor personale, ale adunării noastre
 Biruință asupra păcatului și trăirea în sfințenie.
 
 [v2.1]
-Trezirea spirituală în biserică
+2. Trezirea spirituală în biserică
 
 [v2.2]
 Pasiune pentru rugăciune, Scriptură și părtășia cu biserica;
@@ -34,26 +34,29 @@ Pasiune pentru rugăciune, Scriptură și părtășia cu biserica;
 Păstrarea integrității morale și spirituale a fiecărui membru
 al bisericii, în special a slujitorilor ordinați;
 
+
 [v2.4]
 Protejarea spirituală a Bisericii Emanuel în fața atacurilor
 spirituale venite din partea duhurilor de dezbinare;
 
 [v2.5]
-Protejarea învățăturii sănătoase și a standardelor morale biblice
-în biserică și la fiecare dintre membrii ei;
+Protejarea învățăturii sănătoase și a standardelor morale
+biblice în Biserică și la fiecare dintre membrii ei;
+
 
 [v2.6]
 Trezirea spirituală a adolescenților și a tinerilor.
 
 [v3.1]
-Umplerea cu Duhul Sfânt și primirea darurilor duhovnicești
+3. Umplerea cu Duhul Sfânt și primirea darurilor duhovnicești
 
 [v3.2]
 Împuternicire spirituală prin botezul cu Duhul Sfânt
 și reumplerea cu Duhul;
 
 [v3.3]
-Primirea de daruri spirituale în vederea evanghelizării și misiunii;
+Primirea de daruri spirituale în vederea evanghelizării
+și misiunii;
 
 [v3.4]
 Ungerea Duhului Sfânt peste fiecare slujitor;
@@ -62,10 +65,12 @@ Ungerea Duhului Sfânt peste fiecare slujitor;
 Ridicarea și formarea de lucrători pentru Evanghelie.
 
 [v4.1]
-Întoarcerea la credință a oamenilor și a întregii noastre familii
+Întoarcerea la credință a oamenilor și a întregii noastre
+familii
 
 [v4.2]
-Ruperea legăturilor spirituale care țin pe oameni departe de Dumnezeu;
+Ruperea legăturilor spirituale care țin pe oameni departe de
+Dumnezeu;
 
 [v4.3]
 Cercetare specială făcută de Duhul Sfânt fiecărei persoane;
@@ -93,7 +98,7 @@ O închinare vie și plină de putere,
 prezența Domnului în cadrul slujbelor de închinare.
 
 [v6.1]
-Mijlocire pentru familiile prezente și viitoare,
+6. Mijlocire pentru familiile prezente și viitoare,
 în special pentru familiile tinere
 
 [v6.2]
@@ -119,7 +124,7 @@ Protecția familiilor tinere în fața problemelor contemporane
 binecuvântarea locului de muncă al fiecărei familii.
 
 [v7.1]
-Mijlocire pentru viziunea bisericii în generația noastră
+7. Mijlocire pentru viziunea bisericii în generația noastră
 
 [v7.2]
 Viziunea Bisericii Emanuel este propovăduirea Evangheliei,
@@ -131,11 +136,11 @@ Identificarea proiectelor concrete în care trebuie să ne
 implicăm;
 
 [v7.4]
-Evanghelizarea în afara bisericii;
+Evangelizarea în afara bisericii;
 
 [v7.5]
 Binecuvântare pentru fiecare departament al Bisericii:
-Evanghelizare și Misiune, Rugăciune, Muzică, Învățătură,
-Întâmpinare, Colegiul Biblic, Biserici zonă, Grupe de casă,
+Evanghelizare și misiune, Rugăciune, Muzică, Învățătură,
+Întâmpinare, Colegiul biblic, Bisericii zonă, Grupe de casă,
 Consiliere spirituală, Copii, Tineret, Familii, Ajutorare,
 Tehnic, Administrație.
