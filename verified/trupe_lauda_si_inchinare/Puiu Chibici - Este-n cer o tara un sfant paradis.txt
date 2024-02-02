@@ -1,0 +1,23 @@
+[title]
+Este-n cer o țară, un sfânt paradis {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Este-n cer o țară, un sfânt paradis,
+Țară minunată, rai de nedescris,
+/: Patrie dorită, patrie de sus,
+Țară pregătită în veci de Isus! :/
+
+[v2]
+Dincolo de zare este țara mea,
+Unde-i veșnic soare, veșnic voi cânta,
+/: Peste zări albastre, sus la tronul Său,
+Dincolo de astre, sus la Dumnezeu! :/
+
+[v3]
+Mai presus de toate, Doamne, Tu domnești
+În slăvi minunate, în splendori cerești.
+/: Sfânt și-atotputernic, drept și-adevărat,
+Doamne, Tu ești vrednic să fii lăudat! :/
