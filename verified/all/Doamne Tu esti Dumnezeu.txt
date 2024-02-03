@@ -5,21 +5,17 @@ Doamne, Tu ești Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arrange
 v1,c,v2,c
 
 [v1]
-Doamne, Tu ești Dumnezeu
-Și vei domni în veci,
-Întreg pământul este plin de slava Ta,
-Ești Creator desăvârșit,
-Dreptatea Ta vedem
-Cum se-mplinește zi de zi pe-acest pământ.
+Doamne, Tu ești Dumnezeu și vei domni în veci,
+Întreg pământul este plin de slava Ta!
+Ești Creator desăvârșit, dreptatea Ta vedem,
+Cum se-mplinește zi de zi tot ce ai promis.
 
 [c]
 /: Să fii înălțat, să fii înălțat,
 Domn al dragostei, Împărat. :/
 
 [v2]
-Doamne, Tu ești Dumnezeu
-Și vei domni în veci,
-Întreg pământul este plin de slava Ta,
-Mereu veghezi să-mplinești
-Cuvântul Tău cel sfânt,
+Doamne, Tu ești Dumnezeu și vei domni în veci,
+Întreg pământul este plin de slava Ta!
+Mereu veghezi să-mplinești Cuvântul Tău cel sfânt,
 Prin dragoste ne conduci pe-al vieții drum.
