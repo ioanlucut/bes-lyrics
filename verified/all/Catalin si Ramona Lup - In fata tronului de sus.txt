@@ -5,7 +5,7 @@
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
 [v1.1]
-În fața tronului de sus
+În fața tronului de sus,
 Eu am un bun Apărător,
 Un mare Preot, pe Isus,
 La care aflu ajutor.
@@ -19,7 +19,7 @@ Iar cât în ceruri El va sta,
 [v2.1]
 Satan când mă va acuza,
 Spunându-mi că sunt vinovat,
-Privesc la Domnul, stânca mea,
+Privesc la Domnul, Stânca mea,
 Ce-a șters pe cruce-al meu păcat.
 
 [v2.2]

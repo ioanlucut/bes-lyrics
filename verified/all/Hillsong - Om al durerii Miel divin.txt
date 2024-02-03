@@ -5,28 +5,20 @@ Om al durerii, Miel divin {alternative: {*}, composer: {Hillsong}, writer: {*}, 
 v1.1,v1.2,c,v2,c,b,c,v3,c
 
 [v1.1]
-Om al durerii, Miel divin,
-Părăsit de toți,
-Păcatul omenirii-ntregi,
-Asupra Lui a luat.
+Om al durerii, Miel divin, părăsit de toți,
+Păcatul omenirii-ntregi asupra Lui a luat.
 
 [v1.2]
-Bătut, zdrobit, batjocorit,
-El nu S-a apărat.
-„Voia Ta, nu voia Mea!”,
-A spus când s-a rugat.
+Bătut, zdrobit, batjocorit, El nu S-a apărat.
+„Voia Ta, nu voia Mea!” a spus când s-a rugat.
 
 [c]
-M-ai salvat la vechea cruce,
-Dragostea Ta mi-ai arătat,
-Sufletu-mi strigă „Aleluia!”
-Slavă Celui înălțat!
+M-ai salvat la vechea cruce, dragostea Ta mi-ai arătat,
+Sufletu-mi strigă „Aleluia, slavă Celui înălțat!”
 
 [v2]
-Dumnezeu venit din cer,
-Tu ne-ai răscumpărat.
-Vrei să te-mpaci cu cei ce sus,
-Pe cruce Te-au urcat.
+Dumnezeu venit din cer, Tu ne-ai răscumpărat,
+Vrei să te-mpaci cu cei ce sus, pe cruce Te-au urcat.
 
 [b]
 /: Datoria mea a plătit-o El,
@@ -35,7 +27,5 @@ De blestem, păcat, nu mai sunt legat
 Fiul a plătit, sunt eliberat! :/
 
 [v3]
-Piatra s-a rostogolit,
-Mormântul este gol.
-Aleluia, fii-nălțat,
-Din morți ai înviat!
+Piatra s-a rostogolit, mormântul este gol.
+Aleluia, fii-nălțat, din morți ai înviat!
