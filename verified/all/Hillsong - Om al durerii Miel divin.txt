@@ -1,5 +1,5 @@
 [title]
-Om al durerii, Miel divin {alternative: {*}, composer: {Hillsong}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {177094}, id: {wN9XtcZRjMpobM3Dvf4Lco}, contentHash: {62a309}}
+Om al durerii, Miel divin {alternative: {*}, composer: {Hillsong}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {177094}, id: {wN9XtcZRjMpobM3Dvf4Lco}, contentHash: {d2575a}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c,v3,c

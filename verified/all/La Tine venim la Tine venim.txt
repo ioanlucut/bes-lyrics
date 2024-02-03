@@ -1,5 +1,5 @@
 [title]
-La Tine venim, la Tine venim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1480}, id: {5tjEq2u575o5exqntyCfWM}, contentHash: {4142fd}}
+La Tine venim, la Tine venim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1480}, id: {5tjEq2u575o5exqntyCfWM}, contentHash: {2454b8}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v1.1,v1.2,c1.1,c1.2

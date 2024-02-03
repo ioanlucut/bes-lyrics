@@ -1,5 +1,5 @@
 [title]
-Tăria noastră fii mereu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {85365}, id: {vEHpKKJ9MmeaFA2mGV61z7}, contentHash: {dfa26e}}
+Tăria noastră fii mereu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {85365}, id: {vEHpKKJ9MmeaFA2mGV61z7}, contentHash: {b261fd}}
 
 [sequence]
 v1,v2,v3,v4,v5
