@@ -1,28 +1,25 @@
 [title]
-La Tine venim, la Tine venim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1480}, id: {5tjEq2u575o5exqntyCfWM}, contentHash: {4142fd}}
+La Tine venim, la Tine venim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1480}, id: {5tjEq2u575o5exqntyCfWM}, contentHash: {2454b8}}
 
 [sequence]
-v1.1,v1.2,c,v1.1,v1.2,c
+v1.1,v1.2,c1.1,c1.2,v1.1,v1.2,c1.1,c1.2
 
 [v1.1]
-La Tine venim, la Tine venim,
-Mântuiți în fața Ta noi stăm,
-Cu capul sus, inima plină de laudă,
-Ție ne închinăm.
+La Tine venim, la Tine venim, mântuiți în fața Ta noi stăm,
+Cu capul sus, inima plină de laudă,Ție ne închinăm.
 
 [v1.2]
-Te preamărim, Te preamărim,
-Îndurarea Ta o înălțăm
-Căci ne-ai eliberat,
-Lanțurile le-ai rupt,
-Care ne-au robit.
+Te preamărim, Te preamărim, îndurarea Ta o înălțăm,
+Căci ne-ai eliberat, lanțurile le-ai rupt, care ne-au robit.
 
-[c]
+[c1.1]
 /: Noi Te iubim, noi Te iubim,
 Al Tău Nume mare-L înălțăm
 Căci în Tine e puterea, în Tine-i măreția
 Prin care suntem biruitori.
+
+[c1.2]
 Ție ne-nchinăm, Ție ne-nchinăm,
 Cu podoabe sfinte-n fața Ta stăm,
 Doar pe Tine Te-nălțăm,
-Domnește Tu printre noi. :/
+Domnește Tu printre noi! :/

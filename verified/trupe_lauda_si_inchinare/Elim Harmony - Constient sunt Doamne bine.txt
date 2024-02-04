@@ -1,46 +1,35 @@
 [title]
-Conștient sunt, Doamne, bine {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71704}, id: {ufVKdicWUieCeyoC6aRVru}, contentHash: {54c309}}
+Conștient sunt, Doamne, bine {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71704}, id: {ufVKdicWUieCeyoC6aRVru}, contentHash: {f694ad}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Conștient sunt, Doamne, bine,
-Dacă n-ai fi lângă mine
+Conștient sunt, Doamne, bine, dacă n-ai fi lângă mine,
 Totu-n jurul meu s-ar nărui.
-Soarele pe cer s-ar stinge,
-Luna ar pieri și-ar plânge,
+Soarele pe cer s-ar stinge, luna ar pieri și-ar plânge,
 Stelele n-ar mai luci frumos.
 
 [v1.2]
-Dar atunci când ești cu mine,
-Inima de Tin’ mi-e plină,
+Dar atunci când ești cu mine, inima de Tine-i plină,
 Duhul Tău mi-alină orice dureri.
-Cu blândețe-mi ierți păcatul,
-Știu că mijlocești la Tatăl
+Cu blândețe-mi ierți păcatul, știu că mijlocești la Tatăl,
 Acest an poate voi face rod.
 
 [c]
-/: Nu-nțeleg câtă iubire
-Poți să ai Tu pentru mine,
+/: Nu-nțeleg câtă iubire poți să ai Tu pentru mine,
 Nu merit nimic din mila Ta.
-Eu eram pierdut pe cale,
-Tu cu ultima-Ți suflare
+Eu eram pierdut pe cale, Tu cu ultima-Ți suflare
 M-ai salvat pe cruce, la Calvar. :/
-(final: Isuse, m-ai salvat pe cruce, la Calvar)
 
 [v2.1]
-Mă închin cu mulțumire,
-Dăruindu-Ți pe vecie,
+Mă închin cu mulțumire, dăruindu-Ți pe vecie,
 Inima e tot ce mi-a rămas.
-Vin în sfântă umilință
-Și Te rog să-mi dai credință
+Vin în sfântă umilință și Te rog să-mi dai credință
 Să-nțeleg, Isuse, voia Ta.
 
 [v2.2]
-Vreau să-nvăț ce e iubirea
-Și răbdarea și jertfirea,
+Vreau să-nvăț ce e iubirea și răbdarea și jertfirea,
 Vreau și eu să plâng la Golgota.
-Știu că-n șoapta înserării
-Vei purta spre largul zării
+Știu că-n șoapta înserării vei purta spre largul zării
 Pe acei ce voia Ți-au făcut.

@@ -1,5 +1,5 @@
 [title]
-Astăzi vin la Tine, Domnul meu {alternative: {*}, composer: {Liviu Deac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2782}, id: {hKzZBxj4XucFJMrQH4GJNH}, contentHash: {f86eb0}}
+Astăzi vin la Tine, Domnul meu {alternative: {*}, composer: {Liviu Deac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2782}, id: {hKzZBxj4XucFJMrQH4GJNH}, contentHash: {b4888c}}
 
 [sequence]
 v1,p,c,v2,p,c,e
@@ -11,10 +11,8 @@ Fiindcă m-ai făcut copilul Tău
 Ca să pot trăi o veșnicie.
 
 [p]
-Sunt atât de fericit,
-Domnul meu iubit,
-De minunea ce-ai făcut-o
-În viața mea.
+Sunt atât de fericit, Domnul meu iubit,
+De minunea ce-ai făcut-o-n viața mea.
 
 [c]
 /: Vreau să Îți cânt, vreau să Te laud,
