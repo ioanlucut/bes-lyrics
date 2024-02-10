@@ -1,0 +1,25 @@
+[title]
+Cu Tine mă laud mereu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cu Tine mă laud mereu, cu Tine, Isuse, cu Tine, Isuse,
+/: Pe drumul vieții cel greu, cu Tine mă laud mereu,
+Cu Tine, cu Tine, Isuse! :/
+
+[v2]
+Cu Tine spre ceruri m-avânt, cu Tine, Isuse, cu Tine, Isuse,
+/: Lumină mi-e sfântu-Ți Cuvânt oriunde și-oricând pe pământ,
+Cu Tine spre ceruri m-avânt, cu Tine, Isuse, cu Tine, Isuse! :/
+
+[v3]
+De Tine mi-e sufletul plin, de Tine, Isuse, de Tine, Isuse,
+/: Tu-mi ești adevărul deplin și pace când plec sau când vin,
+De Tine mi-e sufletul plin, de Tine, Isuse, de Tine, Isuse! :/
+
+[v4]
+Cu Tine am har după har, cu Tine Isuse, cu Tine, Isuse,
+/: Mi-e inima templu și-altar și jertfă al dragostei jar,
+Cu Tine pe orice hotar, cu Tine, Isuse, cu Tine, Isuse! :/

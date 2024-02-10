@@ -1,0 +1,35 @@
+[title]
+Cu Tine, Doamne Isuse, străbat drumul mereu {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {Gabriel Gorcea}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Cu Tine, Doamne Isuse, străbat drumul mereu
+Și merg cu bucurie, chiar când urcușu-i greu.
+Cu Tine cânt cântarea ce-n inimă mi-ai pus
+Și strig de bucurie, căci m-ai salvat, Isus.
+
+[c]
+/: Când eu rătăceam, pace nu găseam,
+Eram singur pe lume, străin.
+Dar, când m-ai găsit, pacea Ta am primit
+Și har din haru-Ți divin. :/
+
+[v2]
+Cu Tine viața-i dulce, chiar de-i mereu amar,
+În Tine-i fericire, chiar lacrimi de apar.
+Cu Tine-i zi senină, chiar de e înnorat,
+Cu Tine-i fericire, chiar când sunt întristat.
+
+[v3]
+Tot ce-am găsit în Tine lumea nu-mi poate da,
+Căci veșnica viață e doar în mâna Ta.
+Sub raza-Ți de iubire ține-mă tot mereu
+Și-n toate-Ți voi da slavă, căci Tu-mi ești Dumnezeu.
+
+[c2]
+/: Ești Regele iubirii, un Prinț al fericirii,
+Ești tot ce se cuprinde-n univers!
+Ești marele-mpărat, un Meșter minunat,
+Mă-nchin și-Ți mulțumesc! :/
