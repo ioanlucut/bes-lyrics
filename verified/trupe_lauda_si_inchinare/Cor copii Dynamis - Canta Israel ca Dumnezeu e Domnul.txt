@@ -5,26 +5,19 @@ Cântă Israel că Dumnezeu e Domnul {alternative: {*}, composer: {Cor copii Dyn
 c,v1,c2,c,v2,c2,e
 
 [c]
-/: Cântă Israel că Dumnezeu e Domnul,
-Aleluia!:/
+/: Cântă Israel că Dumnezeu e Domnul, aleluia!:/
 
 [v1]
-Să Îl iubești pe Domnul
-Dumnezeul tău cu toată inima
+Să Îl iubești pe Domnul Dumnezeul tău cu toată inima
 Și viața ta să Îi aducă toată gloria.
 
 [c2]
-El este-al nostru Rege
-Și prin pustiu ne trece.
-‘Naintea Lui noi ne plecăm
-Și jertfa noastră Îi închinăm.
+El este-al nostru Rege și prin pustiu ne trece.
+‘Naintea Lui noi ne plecăm și jertfa noastră Îi închinăm.
 
 [v2]
-Călăuzirea Lui în stâlp de nor
-Și stâlp de foc ne-a apărat,
-Pe drumul greu doar mâna Sa
-Mereu ne-a protejat!
+Călăuzirea Lui în stâlp de nor și stâlp de foc ne-a apărat,
+Pe drumul greu doar mâna Sa mereu ne-a protejat!
 
 [e]
-/: Cântă Israel că Dumnezeu e Domnul,
-Aleluia! :/ (3x)
+/: Cântă Israel că Dumnezeu e Domnul, aleluia! :/ (x3)
