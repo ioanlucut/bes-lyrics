@@ -1,0 +1,25 @@
+[title]
+Slavă lui Isus sus în cer {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Slavă lui Isus, slavă lui Isus,
+Slavă lui Isus sus în cer, aleluia, aleluia!
+Slavă lui Isus sus în cer!
+
+[v2]
+El a biruit, El a biruit,
+El a biruit, pe Satan aleluia, aleluia!
+El a biruit pe Satan!
+
+[v3]
+Sângele Lui sfânt, sângele Lui sfânt,
+Sângele Lui sfânt m-a spălat, aleluia, aleluia!
+Sângele Lui sfânt m-a spălat!
+
+[v4]
+Și m-a sigilat și m-a sigilat,
+Și m-a sigilat cu Duh Sfânt, aleluia, aleluia!
+Și m-a sigilat cu Duh Sfânt!

@@ -1,0 +1,27 @@
+[title]
+Regele vieții {alternative: {*}, composer: {Jonny Daraban}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Regele vieții m-a salvat de la moarte, din păcat,
+Mi-a arătat iubirea Sa, prin jertfa de la Golgota.
+Din păcat și făr’delege brațul Domnului m-a scos
+Și m-a pus sub noua lege: jertfa lui Isus Hristos.
+
+[c]
+Pentru dragostea de Tată, astăzi vin să-Ți mulțumesc,
+Pentru jertfa minunată, mă aplec și-ngenunchez.
+Te lăudăm pe Tine, Doamne, căci păcatul ne-ai iertat
+Și ne-ai dat o viață nouă, să fim fii de Împărat.
+
+[v2]
+Nu am merit și nici fapte, am doar viața ce mi-ai dat,
+Ți-o aduc acum, Isuse, Te proclam ca Împărat.
+Pune Tu în mine, Doamne, Duhul Tău să înțeleg
+Dragostea Ta nepătrunsă arătată-n Golgota!
+
+[b]
+Veniți să-I cântăm aleluia Acelui ce viața și-a dat,
+Căci jertfa Domnului nostru cu Tatăl ceresc ne-a-mpăcat.
