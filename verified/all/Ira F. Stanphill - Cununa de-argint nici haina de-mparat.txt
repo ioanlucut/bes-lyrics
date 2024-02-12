@@ -1,0 +1,27 @@
+[title]
+Cunună de-argint, nici haină de-mpărat {alternative: {*}, composer: {Ira F. Stanphill}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1hG1ZEVD8siPQhERg7ebBc}, contentHash: {32c6d8}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cunună de-argint, nici haină de-mpărat
+Isus pe-acest pământ nu a purtat,
+Într-o manta de purpură L-au îmbrăcat
+Și cu dispreț cu Domnul s-au purtat.
+
+[c]
+Tronul I-a fost o cruce grea cununi de spini, diadema,
+Dragostea Sa de salvator răscumpără al Său popor.
+
+[v2]
+N-a stat pe tron de fildeș ca un domnitor,
+Pe Golgota a fost Mântuitor.
+Pe cei pierduți din lumea plină de păcat
+Ca un păstor, cu drag i-a căutat.
+
+[v3]
+Cu martori falși L-au acuzat și condamnat
+Pe lemn, în chin, a fost crucificat,
+Din rana Lui a curs sângele-I scump și sfânt
+Spre mântuirea noastră pe pământ.

@@ -1,0 +1,43 @@
+[title]
+Tu, cel fără pace-n suflet, ești chemat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7YsfzJyYiT27jpSobRgQDE}, contentHash: {792633}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2,v5,c2,v6,c3
+
+[v1]
+Tu, cel fără pace-n suflet, /: ești chemat :/
+La Isus, Mântuitorul, căci prin El poți fi salvat.
+
+[c]
+/: Poți să ai chiar lumea-ntreagă, lauri, glorii, bogății,
+De nu-L ai pe Domnul Isus ești pierdut, pierdut pentru vecii! :/
+
+[v2]
+Ai căutat în lumea largă /: pacea ta, :/
+Făr’ să știi c-aici în viață pacea ta e Golgota.
+
+[v3]
+Mulți din cei ce-n lumea asta fericire-au căutat
+În plăcerile de-o clipă, doar regretele-au urmat.
+
+[v4]
+Domnul astăzi te întreabă /: dacă vrei :/
+Să lași lumea și păcatul, să-L urmezi, da, să-L urmezi.
+
+[c2]
+/: Nu-amâna de azi pe mâine, vino chiar acum la El,
+Ușa încă-i tot deschisă, pentru tine, dragul meu! :/
+
+[v5]
+Poate-i ultima chemare ce-o auzi astăzi din nou
+Și pe urmă judecata /: cea de-apoi. :/
+
+[v6]
+Iar cei ce-au primit pe Domnul /: sunt salvați, :/
+Căci în trupuri noi de slavă-or fi schimbați,
+Vor fi schimbați.
+
+[c3]
+/: Și cânta-vor în mărire:
+„Glorie Mielului preasfânt, osanale, osanale, osanale
+Celui sfânt, sfânt, sfânt, de trei ori sfânt!” :/

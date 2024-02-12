@@ -1,0 +1,29 @@
+[title]
+Când în calea-mi spre pierzare alergam neștiutor {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oLvS624rJaJVEKsRXhiK3J}, contentHash: {45bf33}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când în calea-mi spre pierzare alergam neștiutor,
+M-ai chemat, plin de iubire, scumpul meu Mântuitor!
+
+[c]
+/: Tu m-ai smuls din valul lumii și din mâna celui rău
+Și, din rob al rătăcirii, m-ai făcut copilul Tău! :/
+
+[v2]
+Binecuvântat fii veșnic Cel ce-atâta m-ai iubit,
+Binecuvântată fie jertfa ce m-a mântuit!
+
+[v3]
+Binecuvântată fie dragostea ce m-a chemat
+Și cuvântul și blândețea inimii ce m-a-ndemnat!
+
+[v4]
+Binecuvântată fie ziua-n care Te-am aflat,
+Căci cu orice zi mi-e drumul tot mai binecuvântat!
+
+[v5]
+Binecuvântat să fie vasul ce l-ai folosit
+Să mă cheme, să mă-ntoarcă de pe drumul rătăcit!

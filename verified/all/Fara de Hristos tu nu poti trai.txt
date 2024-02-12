@@ -1,0 +1,29 @@
+[title]
+Fără de Hristos tu nu poți trăi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {9qxv6zf6fvWafYrqnsZx8x}, contentHash: {ea20bd}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Fără de Hristos tu nu poți trăi,
+Fără Domnul meu tu nu poți viețui!
+Vei avea în lume-un chin obositor,
+Fără de Hristos în lume ai să mori!
+
+[c]
+/: Nu poți fi în lume fericit
+Dacă de El nu ești mântuit!
+Viața ta e-un chin obositor,
+Fără de Hristos în lume ai să mori! :/
+
+[v2]
+Poți umbla cât vrei în lumea de păcat,
+Dar să știi: odată vei fi judecat!
+Plata-ți vei primi și vei fi condamnat,
+Fără de Hristos în lume ai să mori!
+
+[v3]
+Poți să spui ce vrei, tu nu ești mântuit,
+Dacă nu-L urmezi, pe veci tu ești pierdut!
+Iadul e al tău, un foc mistuitor,
+Fără de Hristos în lume ai să mori!
