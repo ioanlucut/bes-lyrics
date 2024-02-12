@@ -1,12 +1,12 @@
 [title]
-Să nu pot, Doamne, să mă las de Tine niciodată {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Să nu pot, Doamne, să mă las de Tine niciodată {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mRYURUiRGbcdbxZqYusieZ}, contentHash: {c9c30c}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
 
 [v1]
 /: Să nu pot, Doamne, să mă las :/
-De Tine niciodată!
+De Tine, niciodată!
 /: Chiar de-aș lăsa la orice pas :/
 /: O dragoste-ngropată. :/
 

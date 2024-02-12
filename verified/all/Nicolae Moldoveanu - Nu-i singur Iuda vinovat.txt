@@ -1,5 +1,5 @@
 [title]
-Nu-i singur Iuda vinovat {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Nu-i singur Iuda vinovat {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nu6NXLuSWkaS2M4mqZkV5f}, contentHash: {3a2604}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7

@@ -1,5 +1,5 @@
 [title]
-Sună harfa laudei mele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Sună harfa laudei mele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {9153GB5JcJKeLGmoxpGnHH}, contentHash: {df53c8}}
 
 [sequence]
 v1,v2,v3,v4

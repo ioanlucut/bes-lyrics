@@ -1,5 +1,5 @@
 [title]
-Slavă lui Isus sus în cer {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Slavă lui Isus sus în cer {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {on3daKfNAUgHntvi9r3YGL}, contentHash: {8c34dc}}
 
 [sequence]
 v1,v2,v3,v4

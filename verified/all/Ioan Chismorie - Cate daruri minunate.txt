@@ -1,5 +1,8 @@
 [title]
-Câte daruri minunate {alternative: {*}, composer: {Ioan Chismorie}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Câte daruri minunate {alternative: {*}, composer: {Ioan Chismorie}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gkEREC27ddnsU7HAQHLS1A}, contentHash: {57076f}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
 
 [v1]
 Câte daruri minunate, Isus, nouă Tu ne-ai dat

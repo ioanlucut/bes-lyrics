@@ -1,5 +1,5 @@
 [title]
-Cunună de-argint, nici haină de-mpărat {alternative: {*}, composer: {Ira F. Stanphill}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Cunună de-argint, nici haină de-mpărat {alternative: {*}, composer: {Ira F. Stanphill}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1hG1ZEVD8siPQhERg7ebBc}, contentHash: {32c6d8}}
 
 [sequence]
 v1,c,v2,c,v3,c

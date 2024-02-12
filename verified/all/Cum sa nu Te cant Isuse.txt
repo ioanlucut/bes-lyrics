@@ -1,8 +1,8 @@
 [title]
-Cum să nu Te cânt, Isuse? {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3889}, id: {qvuH4rSk2AZ5ZUB4QCN92y}, contentHash: {a7f03d}}
+Cum să nu Te cânt, Isuse? {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3889}, id: {qvuH4rSk2AZ5ZUB4QCN92y}, contentHash: {baae43}}
 
 [sequence]
-v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c,v8,c
 
 [v1]
 Cum să nu Te cânt, Isuse? Cum să nu Îți cânt?

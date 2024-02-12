@@ -1,5 +1,5 @@
 [title]
-Fără de Hristos tu nu poți trăi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Fără de Hristos tu nu poți trăi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {9qxv6zf6fvWafYrqnsZx8x}, contentHash: {ea20bd}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Hai și laudă-L pe Domnul sfânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Hai și laudă-L pe Domnul sfânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ix1RCtcBjudqX6an7bvNyk}, contentHash: {2e1a7d}}
 
 [sequence]
 v1,v2,v3,v4

@@ -1,5 +1,5 @@
 [title]
-Când credincioșii-aceia s-au rugat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Când credincioșii-aceia s-au rugat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {31MsGhYhx8CcMfrnwz2bxd}, contentHash: {b8a5c7}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

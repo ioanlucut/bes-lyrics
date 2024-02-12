@@ -1,5 +1,5 @@
 [title]
-Cu haina iubirii s-acopăr mereu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Cu haina iubirii s-acopăr mereu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4CwP7FHEakDxXkT5A5h3Xz}, contentHash: {6a941a}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Tu, cel fără pace-n suflet, ești chemat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Tu, cel fără pace-n suflet, ești chemat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7YsfzJyYiT27jpSobRgQDE}, contentHash: {792633}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2,v5,c2,v6,c3

@@ -1,5 +1,5 @@
 [title]
-În această lume sunt multe drumuri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+În această lume sunt multe drumuri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {34Gc4P62KAXfqW3qDiwjgb}, contentHash: {9fe75d}}
 
 [sequence]
 v1,c,v2,c,v3,c
