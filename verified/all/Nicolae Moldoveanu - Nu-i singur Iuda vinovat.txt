@@ -1,0 +1,54 @@
+[title]
+Nu-i singur Iuda vinovat {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Nu-i singur Iuda vinovat
+De sângele ce se dădu,
+/: Nici marii preoți, nici Pilat,
+Ci lumea-ntreagă prin păcat,
+Și eu și tu, și eu și tu! :/
+
+[v2]
+Nu-i drumul greu spre Golgota
+Nici biciul, când Isus căzu
+/: Și-atât nici crucea nu-L durea
+Cât noi, povara cea mai grea,
+Și eu și tu, și eu și tu! :/
+
+[v3]
+Nu patru cuie L-au împuns
+Când trupul silnic se zbătu,
+/: Ci noi, cu sufletul ascuns,
+Cu mii de patimi L-am străpuns,
+Și eu și tu, și eu și tu! :/
+
+[v4]
+Nu farisei și cărturari,
+Nu preoții de frunte, nu!
+/: Și noi am râs cu ochi murdari,
+Și noi suntem cei doi tâlhari,
+Și eu și tu, și eu și tu! :/
+
+[v5]
+Și nu ostașilor, prin sorți,
+Cămașa albă și-o dădu,
+/: Ci tuturor! - Dar tu, o porți?
+Și fără ea toți suntem morți,
+Și eu și tu, și eu și tu! :/
+
+[v6]
+Nu-n stâncă printre lilieci
+Și nu sub lespede zăcu.
+/: L-am îngropat ca pentru veci,
+Sub piatra unor forme reci
+Și eu și tu, și eu și tu! :/
+
+[v7]
+Și-acum Isus cel judecat
+Azi El te-ntreabă Da ori Nu?
+/: Ești tu sau nu ești vinovat?
+Eu am spus da! Și-am fost iertat!
+Eu am spus da: dar tu, dar tu? :/

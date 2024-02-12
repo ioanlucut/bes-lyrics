@@ -1,0 +1,39 @@
+[title]
+Cu haina iubirii s-acopăr mereu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cu haina iubirii s-acopăr mereu
+Pe cel dezgolit de ispită
+Și rău să nu-l judec în cugetul meu,
+Rostind o sentință grăbită.
+
+[c]
+Iubirea, iubirea să-mi umple de-a pururi trăirea,
+Iubirea, iubirea ‘plinească-și în mine menirea.
+
+[v2]
+Nici piatra osândei cea rece și grea
+În mine s-o am ridicată.
+Ci dragostea dulce, cu focul din ea,
+Să facă deplin judecată.
+
+[v3]
+Iar sabia sfânt-a dreptății de sus,
+Nicicând să n-o scot cu grăbire.
+Ci pururi să-nvăț de la Domnul Isus,
+Dreptatea născută-n iubire.
+
+[v4]
+Cu plugul iubirii să scot ne-ncetat,
+Păcatul cu-a lui rădăcină.
+Că-n dragoste sufletul este curat,
+Prin ea se păstrează-n lumină!
+
+[v5]
+În răni de păcate să torn nesfârșit
+Balsamul iubirii divine,
+Căci dragostea-i semnul că Domnul slăvit
+Născutu-m-a nou pentru Sine!

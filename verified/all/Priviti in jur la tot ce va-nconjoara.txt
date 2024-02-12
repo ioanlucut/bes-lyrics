@@ -1,0 +1,53 @@
+[title]
+Priviți în jur la tot ce vă-nconjoară {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c
+
+[v1]
+Priviți în jur la tot ce vă-nconjoară
+Și vă-ntrebați în voi cin’ le-a făcut!
+Priviți în jur la Cel cu ochi de pară,
+Care pătrunde-n tot ce-i nevăzut!
+
+[c]
+/: E Dumnezeu :/ ce stă mai sus de stele
+Și ține totul prin al Său cuvânt,
+/: El le-a creat :/ și-a pus viață-n ele,
+În tot ce este-n cer și pe pământ.
+
+[v2]
+O, cine a-ntins oceane, zări albastre,
+Senine-așa ca fața unei bolți?
+Și cine face-n ele ca să crească
+Atâta furnicar de vietăți?
+
+[v3]
+O, cine face câmpul să rodească
+În miez de vară lanuri aurii?
+Și cine face pomii să-nflorească,
+Și cine crește iarba pe câmpii?
+
+[v4]
+O, cine a pus parfum în floricele,
+Și cine-n păsărele-a pus cântări?
+Și cine toamna pune gând în ele,
+Ca de la noi să plece-n alte țări?
+
+[v5]
+O, cine-mbracă munții cu pădure,
+Și cine-nalță uriașe stânci?
+Și cine-n fiare atât curaj le pune,
+Ca să petreacă noaptea-n văi adânci?
+
+[v6]
+O, cine-n mame a sădit iubirea,
+Ca să iubească pe copiii lor?
+Ca să-i sărute, să îi îmbrățișeze,
+Cu atâta dragoste, cu atâta dor?
+
+[v7]
+O, câți luceferi, soare, lună, stele,
+Care-și revarsă raza pe pământ!
+Te-ai întrebat ce e mai sus de ele,
+La mari ‘nălțimi, la El în cerul sfânt?

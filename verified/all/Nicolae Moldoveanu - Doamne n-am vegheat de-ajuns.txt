@@ -1,0 +1,28 @@
+[title]
+Doamne, n-am vegheat de-ajuns {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Doamne, n-am vegheat de-ajuns și vrăjmașul m-a străpuns,
+N-am luptat cum mi-ai vorbit și vrăjmașul m-a lovit.
+
+[c]
+/: Doamne, iar dă-mi Tu har ca să nu lupt În zadar! :/
+
+[v2]
+N-am încins mijlocul meu cu-adevărul Tău cel greu,
+N-am luat credința scut și vrăjmașul m-a căzut.
+
+[v3]
+Rugăciunea nu mi-a fost locul sfânt de adăpost,
+Strajă, cum mi-ai spus, n-am stat și vrăjmașul m-a culcat.
+
+[v4]
+Haina cea de in curat astăzi nu am îmbrăcat,
+N-am scos spada-al Tău Cuvânt și vrăjmașul m-a înfrânt.
+
+[v5]
+Doamne, prin eternu-Ți har, fă-mă cum Îți place iar,
+Steagul Tău și lupta Ta să le pot curat purta.

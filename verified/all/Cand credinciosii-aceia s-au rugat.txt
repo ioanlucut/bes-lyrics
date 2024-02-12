@@ -1,0 +1,41 @@
+[title]
+Când credincioșii-aceia s-au rugat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Când credincioșii-aceia s-au rugat
+Și locu-acela s-a cutremurat,
+Ei au crezut atunci în rugăciuni
+Să facă Domnul semne și minuni.
+
+[c]
+/: Cu ajutorul Duhului Sfânt :/
+Biserica se înmulțea
+Și tot mai tare ea creștea
+Prin semne și prin mărturii în fiecare zi.
+
+[v2]
+La poarta cea „Frumoasă” când s-au dus,
+Și au chemat Numele lui Isus.
+Ologul în picioare a sărit
+Și-n fața lor el s-a tămăduit.
+
+[v3]
+Isus Hristos i-a binecuvântat
+Și mulți bolnavi prin ei s-au vindecat
+Căci până și în umbra lor era
+Puterea și dumnezeirea Sa.
+
+[v4]
+Prin Duhul Sfânt când Petru a predicat
+Trei mii aproape-odată s-au predat.
+Iar după-aceea, într-o altă zi,
+Se mai predară încă două mii.
+
+[v5]
+Iar când prigoana s-a dezlănțuit
+Ei prin cetăți au mers și au vestit,
+Au străbătut pe ape și uscat
+Și la Hristos pe oameni i-au chemat.
