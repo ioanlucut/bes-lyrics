@@ -1,5 +1,5 @@
 [title]
-Pierdut în lume, după apă însetam {alternative: {*}, composer: {John W. Peterson}, writer: {V. Popovici, traducere}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Pierdut în lume, după apă însetam {alternative: {*}, composer: {John W. Peterson}, writer: {V. Popovici}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {9pMUAbwUbjobH9pCoit9ET}, contentHash: {9e01f4}}
 
 [sequence]
 v1,c,v2,c,v3,c
