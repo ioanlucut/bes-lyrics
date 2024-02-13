@@ -1,0 +1,21 @@
+[title]
+O, ce bucurie am {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, ce bucurie am că păcatul mi-e spălat,
+Când întruna însetam, apă vie am aflat!
+
+[c]
+/: Am aflat apa vie, o, cât sunt de fericit,
+Astăzi cânt cu tărie că Isus m-a mântuit! :/
+
+[v2]
+Prin Hristos crucificat merg pe calea Domnului,
+Haru-I sfânt doar El mi-a dat, slavă-I cânt azi, slavă Lui!
+
+[v3]
+Stau pe brațul lui Isus pân’ necazurile trec,
+Eu prin harul Lui de sus doar cu El am să petrec!
