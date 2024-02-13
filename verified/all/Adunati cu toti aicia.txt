@@ -1,0 +1,25 @@
+[title]
+Adunați cu toți aicia {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cUS67L8pkepUnCHXQBRbcA}, contentHash: {805c6b}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Adunați cu toți aicea, azi lângă sfântul Cuvânt,
+/: Binecuvântează, Doamne, pe toți care aicea sunt! :/
+
+[v2]
+Și privește cu-ndurare spre creștinii-ascultători,
+/: Binecuvântează, Doamne, și pe frați și pe surori! :/
+
+[v3]
+O, treci azi prin adunare, Isus, Mielule divin,
+/: Ridică orice-ntristare și șterge orice suspin! :/
+
+[v4]
+Căci curând a Sa venire se va arăta pe nori,
+/: Pune-ți astăzi întrebarea cum L-aștepți pe Salvator! :/
+
+[v5]
+Dacă haina ți-e murdară sau pătată de păcat
+/: Spală-ți-o astăzi, nu mâine, dacă vrei să fii salvat! :/
