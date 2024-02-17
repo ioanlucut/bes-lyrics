@@ -1,0 +1,33 @@
+[title]
+Cum să nu Te cânt, Isuse? {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Karis}, genre: {*}, rcId: {*}, id: {jJWy6qtesNThGNqQNBAZ6o}, contentHash: {274580}}
+
+[sequence]
+v1,v2,c,v3,v4,c,v5,v6,c
+
+[v1]
+Cum să nu Te cânt, Isuse? Cum să nu Te cânt?
+Cum să nu-Ți slăvesc eu oare, Numele Tău sfânt?
+
+[v2]
+Cum să tac acum că-mi vine lumii-ntregi să spun
+Cât de bun ai fost cu mine, ah, cât ești de bun!
+
+[c]
+/: Am strigat, am strigat, la Tine, Doamne, Doamne,
+Și m-ai ascultat bucuria și lumina mie mi le-ai dat. :/
+
+[v3]
+Până-n veci voi spune, Doamne, cât de-adevărat,
+Ce puternic e-al Tău Nume, scump și minunat!
+
+[v4]
+Fă să strig de bucurie, fă să strig voios,
+Căci din moarte și pieire prin jertfă m-ai scos!
+
+[v5]
+Și m-ai scos din astă lume, la lumina Ta,
+Multe lacrimi, pentru mine, au curs pe fața Ta.
+
+[v6]
+Fă să cânt și azi, Isuse, Ție ne-ncetat,
+Să-mi aduc mereu aminte din ce m-ai scăpat!
