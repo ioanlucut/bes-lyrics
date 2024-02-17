@@ -1,11 +1,11 @@
 [title]
-Și viața ta e ca o barcă pe ocean {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5697}, id: {ru1DJPshUk3zDeqsb3zsV2}, contentHash: {9c8d3b}}
+Și viața ta e ca o arcă pe ocean {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5697}, id: {ru1DJPshUk3zDeqsb3zsV2}, contentHash: {9c8d3b}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Și viața ta e ca o barcă pe ocean,
+Și viața ta e ca o arcă pe ocean,
 Ce zi și noapte merge întruna spre liman.
 Deci, nu dormi, fii totdeauna veghetor,
 Căci poți cădea în val foarte ușor!
