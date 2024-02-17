@@ -1,5 +1,5 @@
 [title]
-Eu și casa mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rxpvUYe886fqsVnqartWsf}, contentHash: {d9738e}}
+Eu și casa mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rxpvUYe886fqsVnqartWsf}, contentHash: {f4c134}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,b,c
