@@ -1,5 +1,5 @@
 [title]
-Atinge-ne din nou Isus {alternative: {*}, composer: {Florin Modog}, writer: {*}, arranger: {*}, interpreter: {*}, band: {Maranata Oradea}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {131309}, id: {fU3B3b16HvEoFQbUXMDkis}, contentHash: {6462db}}
+Atinge-ne din nou Isus {alternative: {*}, composer: {Florin Modog}, writer: {*}, arranger: {*}, interpreter: {*}, band: {Maranata Oradea}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {131309}, id: {fU3B3b16HvEoFQbUXMDkis}, contentHash: {b01b72}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Mai presus de orice, de credință, de-avânt {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5385}, id: {4nJreu3Rat4o9cQMWahKGb}, contentHash: {de676d}}
+Mai presus de orice, de credință, de-avânt {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5385}, id: {4nJreu3Rat4o9cQMWahKGb}, contentHash: {167f7e}}
 
 [sequence]
 v1,v2,v3,v4

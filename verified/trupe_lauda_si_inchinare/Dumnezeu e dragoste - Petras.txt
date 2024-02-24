@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e dragoste {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+Dumnezeu e dragoste {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {7QZ88ogoJC5u8BMKfSWgdi}, contentHash: {79efde}}
 
 [sequence]
 v1,v2,v3,v4,v5

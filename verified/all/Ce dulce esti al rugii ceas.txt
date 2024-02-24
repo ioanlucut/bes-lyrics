@@ -1,5 +1,5 @@
 [title]
-Ce dulce ești, al rugii ceas {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1595}, id: {qNYRvRt3qhERWPQTM8uyaS}, contentHash: {234b40}}
+Ce dulce ești, al rugii ceas {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1595}, id: {qNYRvRt3qhERWPQTM8uyaS}, contentHash: {e4606d}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
