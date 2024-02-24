@@ -1,37 +1,29 @@
 [title]
-Mai presus de orice, de credință, de-avânt {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5385}, id: {4nJreu3Rat4o9cQMWahKGb}, contentHash: {de676d}}
+Mai presus de orice, de credință, de-avânt {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5385}, id: {4nJreu3Rat4o9cQMWahKGb}, contentHash: {167f7e}}
 
 [sequence]
 v1,v2,v3,v4
 
 [v1]
-Mai presus de orice,
-De credință, de-avânt,
+Mai presus de orice, de credință, de-avânt,
 De-orice dar care biruie firea.
-/: Mai presus de minuni,
-De puteri, de cununi,
+/: Mai presus de minuni, de puteri, de cununi,
 Mai presus de orice e iubirea. :/
 
 [v2]
-Prin credință răstorni
-Munți înalți și cetăți
+Prin credință răstorni munți înalți și cetăți
 Și-ți arunci peste veacuri privirea.
-/: Dar, în cele cerești,
-Ești atât cât iubești,
+/: Dar, în cele cerești, ești atât cât iubești,
 Mai presus de orice e iubirea! :/
 
 [v3]
-Dumnezeu e măreț,
-Gem în cale-I furtuni,
+Dumnezeu e măreț, gem în cale-I furtuni,
 Se cutremură toată zidirea.
-/: Dar, în susurul blând,
-Îl auzi murmurând:
+/: Dar, în susurul blând,Îl auzi murmurând:
 Mai presus de orice e iubirea! :/
 
 [v4]
-Pregătiți-vă stânci,
-Pentru templul etern!
+Pregătiți-vă stânci, pentru templul etern!
 Orice piatră își are menirea.
-/: Chiar pământu-i primit,
-Căci Isus l-a sfințit
+/: Chiar pământu-i primit, căci Isus l-a sfințit
 Când a scris pe pământ ce-i iubirea! :/

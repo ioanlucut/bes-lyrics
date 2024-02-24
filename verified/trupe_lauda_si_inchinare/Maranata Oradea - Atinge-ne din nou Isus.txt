@@ -1,5 +1,5 @@
 [title]
-Atinge-ne din nou Isus {alternative: {*}, composer: {Florin Modog}, writer: {*}, arranger: {*}, interpreter: {*}, band: {Maranata Oradea}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {131309}, id: {fU3B3b16HvEoFQbUXMDkis}, contentHash: {6462db}}
+Atinge-ne din nou Isus {alternative: {*}, composer: {Florin Modog}, writer: {*}, arranger: {*}, interpreter: {*}, band: {Maranata Oradea}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {131309}, id: {fU3B3b16HvEoFQbUXMDkis}, contentHash: {b01b72}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -13,14 +13,14 @@ Cu un cărbune-aprins atinge gura ta
 [c]
 Atinge-ne din nou, Isus,
 Și, cu puterea Ta divină,
-Revarsă-n noi din Duhul Tău
-Și fă-ne acum lumină!
+/: Revarsă-n noi din Duhul Tău
+Și fă-ne acum lumină! :/
 
 [v2]
 /: E lângă tine iar, :/
 Isus se-apropie de tine,
 Blândul Samaritean îți leagă rana iar
-Și nu te lasă-n drum, străine,
+Și nu te lasă-n drum, străine!
 
 [v3]
 /: E lângă tine iar, :/
