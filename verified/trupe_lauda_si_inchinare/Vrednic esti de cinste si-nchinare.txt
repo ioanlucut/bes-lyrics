@@ -6,22 +6,17 @@ v1,c,v2,c2
 
 [v1]
 /: Vrednic ești de cinste și-nchinare,
-Ridicăm mâinile noastre,
-Înălțăm Numele Tău! :/
+Ridicăm mâinile noastre, înălțăm Numele Tău! :/
 
 [c]
-Ce mare ești!
-Și ce mari minuni faci Tu!
-/: Și ca Tine altul nu-i! :/
-Ce mare ești!
+Ce mare ești și ce mari minuni faci Tu!
+/: Și ca Tine altul nu-i! :/ Ce mare ești!
 
 [v2]
 /: Vrem să spunem lumii despre Tine,
 Cum prin moartea Ta pe cruce
-Tuturor le-ai arătat :/
+Tuturor ne-ai arătat :/
 
 [c2]
-Că Tu ești Domn,
-Tu ești Domn cu-adevărat!
-/: Și ca Tine altul nu-i! :/
-Ce mare ești!
+Că Tu ești Domn, Tu ești Domn cu-adevărat!
+/: Și ca Tine altul nu-i! :/ Ce mare ești!

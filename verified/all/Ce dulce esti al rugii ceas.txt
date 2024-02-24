@@ -5,37 +5,25 @@ Ce dulce ești, al rugii ceas {alternative: {*}, composer: {*}, writer: {*}, arr
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
 [v1.1]
-Ce dulce ești, al rugii ceas
-Când, cu lacrimi pe obraz,
-Stau la tronul lui Dumnezeu
-Și-mi pot plânge necazul meu.
+Ce dulce ești al rugii ceas când, cu lacrimi pe obraz,
+Stau la tronul lui Dumnezeu și-mi pot plânge necazul meu.
 
 [v1.2]
-Oricând durerea e mare,
-Isus îmi dă iar scăpare;
-/: La mine slab, ia aminte,
-Când Lui mă rog eu fierbinte. :/
+Oricând durerea e mare, Isus îmi dă iar scăpare,
+/: La mine slab, ia aminte, când Lui mă rog eu fierbinte. :/
 
 [v2.1]
-Al rugii ceas, ce dulce e,
-Când Domnului mărturisești
-Păcatu-ntreg, amarul tot,
-Și spui: „Isuse, nu mai pot!”
+Al rugii ceas, ce dulce ești, când Domnului mărturisești
+Păcatu-ntreg, amarul tot și spui: „Isuse, nu mai pot!”
 
 [v2.2]
-El zice: „Mie vă rugați,
-Cu-al Meu Cuvânt vă mângâiați!”
-/: Tot ce m-apasă-I voi spune
-În timpul de rugăciune. :/
+El zice: „Mie vă rugați, cu-al Meu Cuvânt vă mângâiați!”
+/: Tot ce m-apasă-I voi spune în timpul de rugăciune. :/
 
 [v3.1]
-Al rugii ceas, ce dulce-mi ești,
-În orice zi mă liniștești.
-Cât timp aici călătoresc,
-Eu către cer cu drag privesc.
+Al rugii ceas, ce dulce-mi ești, în orice zi mă liniștești,
+Cât timp aici călătoresc, eu către cer cu drag privesc.
 
 [v3.2]
-Când acest corp, de pe pământ,
-Îl voi depune în mormânt,
-/: Atunci, în veci voi fi voios
-Că m-am rugat, aicea, jos. :/
+Când acest corp, de pe pământ, îl voi depune în mormânt,
+/: Atunci, în veci voi fi voios că m-am rugat aicea jos. :/

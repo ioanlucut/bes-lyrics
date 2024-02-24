@@ -1,0 +1,30 @@
+[title]
+Dumnezeu e dragoste {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Dumnezeu e dragoste. :/
+Dumnezeu cel veșnic, Domn al păcii,
+Dumnezeu e dragoste.
+
+[v2]
+/: Dumnezeu e adevăr. :/
+Dumnezeu cel veșnic, Domn al păcii,
+Dumnezeu e adevăr.
+
+[v3]
+/: Dumnezeu e lumina mea. :/
+Dumnezeu cel veșnic, Domn al păcii,
+Dumnezeu e lumina mea.
+
+[v4]
+/: Dumnezeu e-al meu Salvator :/
+Dumnezeu cel veșnic, Domn al păcii,
+Dumnezeu e-al meu Salvator.
+
+[v5]
+/: În curând El vine pe nori :/
+Dumnezeu cel veșnic, Domn al păcii,
+În curând El vine pe nori.
