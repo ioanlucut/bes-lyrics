@@ -1,55 +1,40 @@
 [title]
-Fii binecuvântat! {alternative: {*}, composer: {Ekklesia BN}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66232}, id: {ahELdKi2WUCEGNKDEP8BL1}, contentHash: {502541}}
+Fii binecuvântat! {alternative: {*}, composer: {Ekklesia BN}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66232}, id: {ahELdKi2WUCEGNKDEP8BL1}, contentHash: {d53d3f}}
 
 [sequence]
 v1.1,v1.2,p,c,v2.1,v2.2,v2.3,p,c,b,b,c,e
 
 [v1.1]
-Fii binecuvântat
-Când pământul e săturat,
-Când ploaia dă peste el,
-Fii binecuvântat!
+Fii binecuvântat când pământul e săturat,
+Când ploaia dă peste el, fii binecuvântat!
 
 [v1.2]
-Fii binecuvântat
-Când mă aflu pe pământ uscat
-Și pășesc singur prin pustiu,
-Fii binecuvântat!
+Fii binecuvântat când mă aflu pe pământ uscat
+Și pășesc singur prin pustiu, fii binecuvântat!
 
 [p]
 Fiecare laudă Ție Ți-o dau
-Când noaptea se apropie,
-Te voi lăuda!
+Când noaptea se apropie, Te voi lăuda!
 
 [c]
-Binecuvântat fie El,
-Binecuvântat,
-Binecuvântat fie El,
+Binecuvântat fie El, binecuvântat, binecuvântat fie El,
 Binecuvântăm Numele Său!
 
 [v2.1]
-Fii binecuvântat
-Când soarele-i din nou pe cer
-Și când toate sunt cum le-ai creat,
-Fii binecuvântat!
+Fii binecuvântat când soarele-i din nou pe cer
+Și când toate sunt cum le-ai creat, fii binecuvântat!
 
 [v2.2]
-Fii binecuvântat
-Când drumu-i plin de suferințe,
-Chiar dacă plâng și-mi este greu,
-Fii binecuvântat!
+Fii binecuvântat când drumu-i plin de suferințe,
+Chiar dacă plâng și-mi este greu, fii binecuvântat!
 
 [v2.3]
-Fiecare laudă Ție Ți-o dau
-Când noaptea se apropie,
-Te voi lăuda!
+Fiecare laudă Ție Ți-o dau,
+Când noaptea se apropie, Te voi lăuda!
 
 [b]
-/: Primește lauda,
-Ești vrednic Dumnezeu,
-Îmi cântă inima,
-Fii binecuvântat! :/
+/: Primește lauda, ești vrednic Dumnezeu,
+Îmi cântă inima, fii binecuvântat! :/
 
 [e]
-Binecuvântăm,
-Al Său Nume sfânt!
+Binecuvântăm al Său Nume sfânt!
