@@ -1,5 +1,5 @@
 [title]
-La crucea de la Golgota {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3778}, id: {9267uocXLwPytTmGeeazh3}, contentHash: {1f2992}}
+La crucea de la Golgota {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3778}, id: {9267uocXLwPytTmGeeazh3}, contentHash: {aaabe5}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2
@@ -12,7 +12,7 @@ Sufletul mi-e-ndurerat, ajută-mă!
 
 [c1.1]
 Trimite-mi, Doamne, har din cer,
-Dă-mi mângâiere, să nu pier.
+Dă-mi mângâiere, să nu pier,
 Primește viața mea în dar, la cruce la Calvar!
 
 [c1.2]

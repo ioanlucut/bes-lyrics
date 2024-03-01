@@ -1,11 +1,11 @@
 [title]
-Doamne, vreau să te slujesc cât voi trăi {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {113750}, id: {8Yrxw9VBzTX6kAZF87vaaD}, contentHash: {08e7df}}
+Doamne, vreau să te slujesc cât voi trăi {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {113750}, id: {8Yrxw9VBzTX6kAZF87vaaD}, contentHash: {e7d0fc}}
 
 [sequence]
 v1,c,v2,c,v3,c,e
 
 [v1]
-Când nu te cunoșteam Tu m-ai chemat,
+Când nu te cunoșteam, Tu m-ai chemat,
 Cu dragoste m-ai ridicat.
 Prin jertfa Ta, Isus, am fost sfințit
 Și haine noi mi-ai dăruit!
@@ -31,5 +31,5 @@ Trăind mereu, cu zel, al Tău Cuvânt,
 [e]
 Și prigoniri de vor veni,
 Și încercat voi fi,
-Vreau lângă Tine credincios să râmăn,
+Vreau lângă Tine credincios să rămăn,
 Pân’ la sfârșit.

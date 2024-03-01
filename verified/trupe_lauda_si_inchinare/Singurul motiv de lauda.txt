@@ -1,11 +1,11 @@
 [title]
-Singurul motiv de laudă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fq1SCsWEwYNdKjNPynr7jK}, contentHash: {fab641}}
+Singurul motiv de laudă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fq1SCsWEwYNdKjNPynr7jK}, contentHash: {8d062c}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c
 
 [v1.1]
-Singurul motiv de laudă,
+Singurul motiv de laudă
 Ești doar Tu, Domnul meu.
 Singur, înălțat pe pământ și în cer,
 Ești Isus tot mereu.
@@ -19,5 +19,5 @@ Tu ești dragostea, ești iubirea mea
 [c]
 /: Atotputernic peste popoare,
 Ești măreț, ești plin de splendoare.
-În valul greu ești Stâncă tare
+În valul greu, ești Stâncă tare
 Și nu e nimeni cum ești Tu. :/
