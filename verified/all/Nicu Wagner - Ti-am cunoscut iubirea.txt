@@ -1,0 +1,41 @@
+[title]
+Ți-am cunoscut iubirea {alternative: {*}, composer: {Nicu Wagner}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Ți-am cunoscut iubirea, acolo, la fântână,
+Când, plin de bunătate, Tu mi-ai întins o mână.
+Mi-ai spus atunci ce nimeni nu mi-a mai spus vreodată,
+Văzut-am că Tu, Doamne, îmi știi viața toată.
+
+[c]
+/: De-atuncea au trecut vremi de îndurare,
+Ani buni de propășire și binecuvântare.
+Mă simt legat de Tine, Isuse, prin credință,
+Și simt cum ai Tăi îngeri păzesc a mea ființă. :/
+
+[v2]
+Tu faci ca să răsară al dimineții soare,
+Și orice zi cu Tine e zi de sărbătoare,
+E un prilej de laudă, de cânt și bucurie,
+Căci Tu reverși în toate, Isuse, armonie.
+
+[c2]
+/: Te simt așa de-aproape în ceasuri de-ncercare,
+Mă simt în siguranță pe brațul Tău cel tare.
+În dragostea Ta mare, îmi dai belșug de pâine,
+Mi-alungi din viață teama de ziua cea de mâine. :/
+
+[v3]
+Te simt în bucurie, dar și în suferință,
+Când sunt pe culmi de slavă, dar și în umilință.
+Se-ntunecă tot cerul când Îți ascunzi privirea,
+Căci mă cufund în noapte de nu-Ți simțesc iubirea.
+
+[c3]
+/: Mă-ntreb adesea-n taină ce-aș face fără Tine
+Și fără bucuria ce-ai pus-o Tu în mine,
+Căci nu va fi în lume nimic să mă despartă
+De marea Ta iubire, ce-n sânul ei mă poartă. :/

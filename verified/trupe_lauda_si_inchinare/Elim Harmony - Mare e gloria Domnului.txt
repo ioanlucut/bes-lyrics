@@ -5,16 +5,12 @@ Mare e gloria Domnului! {alternative: {*}, composer: {Elim Harmony}, writer: {*}
 c,v1.1,v1.2,c,v2.1,v2.2,c,b,c,b2
 
 [v1.1]
-Domnul pentru mine a murit,
-Amin, amin,
-În sânge sfânt Isus a biruit,
-Amin, amin.
+Domnul pentru mine a murit, amin, amin,
+În sânge sfânt Isus a biruit, amin, amin.
 
 [v1.2]
-A fost mort, dar azi e viu,
-Amin, amin,
-Stă la dreapta Tatălui divin,
-Amin, amin.
+A fost mort, dar azi e viu, amin, amin,
+Stă la dreapta Tatălui divin, amin, amin.
 
 [c]
 /: Mare e gloria Domnului puternic,
@@ -23,20 +19,15 @@ Mare e gloria Domnului!
 Mare e gloria Lui. :/
 
 [v2.1]
-Pe nedrept a fost batjocorit,
-Amin, amin,
-Dar n-a rămas pe cruce pironit,
-Amin, amin.
+Pe nedrept a fost batjocorit, amin, amin,
+Dar n-a rămas pe cruce pironit, amin, amin.
 
 [v2.2]
-Azi, iubirea Lui e peste noi,
-Amin, amin,
-Aleluia, El va reveni,
-Amin, amin.
+Azi, iubirea Lui e peste noi, amin, amin,
+Aleluia, El va reveni, amin, amin.
 
 [b]
-/: Tu ești Acel ce-a fost,
-Tu ești Acel ce ești,
+/: Tu ești Acel ce-a fost, Tu ești Acel ce ești,
 Tu ești Acel ce va veni. :/ Cântă!
 
 [b2]

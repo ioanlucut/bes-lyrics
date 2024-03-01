@@ -6,10 +6,10 @@ v1,c,v2,c
 
 [v1]
 /: De n-ai fi Tu de partea noastră am fi ca praful luat de vânt.
-Am fi făpturi fără de viață rătăcitoare pe pământ. :/
+Am fi făpturi fără de viață, rătăcitoare pe pământ. :/
 
 [c]
-Dar noi venim cu toți la Tine și tot ce-avem Îți dăruim
+Dar noi venim cu toți la Tine și tot ce-avem Îți dăruim,
 Căci nimeni, Doamne, nu-i ca Tine, îngenunchem și ne smerim.
 
 [v2]

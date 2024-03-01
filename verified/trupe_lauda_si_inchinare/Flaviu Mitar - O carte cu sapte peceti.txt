@@ -5,10 +5,8 @@ O carte cu șapte peceți {alternative: {*}, composer: {Flaviu Mitar}, writer: {
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-O carte cu șapte peceți,
-O carte stă închisă,
-În Mâna Dumnezeului sfânt,
-În Mâna Sa întinsă.
+O carte cu șapte peceți, o carte sta închisă,
+În Mâna Dumnezeului sfânt, în Mâna Sa întinsă.
 
 [v1.2]
 Și un înger din ceruri puternic strigă:
@@ -17,16 +15,12 @@ Dar nimeni în ceruri, nici jos pe pământ,
 N-a fost vrednic s-o poată lua.
 
 [c]
-Vrednic este Mielul,
-Ce-a fost junghiat
-Să primească slava,
-Slavă ne-ncetat.
+Vrednic este Mielul ce-a fost ‘junghiat
+Să primească slava, slava ne-ncetat!
 
 [v2.1]
-Nici îngeri din cerul înalt,
-Nici sfinții care cântă,
-Niciunul vrednic nu s-a găsit
-Să ceară Cartea Sfântă.
+Nici îngeri din cerul înalt, nici sfinții care cântă,
+Niciunul vrednic nu s-a găsit să ceară Cartea Sfântă.
 
 [v2.2]
 Dar deodată-n picioare apare un Miel,
@@ -35,10 +29,8 @@ Cu ochii în lacrimi, de dragoste plini,
 Pentru noi a murit răstignit.
 
 [v3.1]
-Din ceruri Isus a venit,
-Lăsat-a slava toată
-Și-n lume, pentru că ne-a iubit,
-Ne-a căutat odată.
+Din ceruri Isus a venit, lăsat-a slava toată
+Și-n lume, pentru că ne-a iubit, ne-a căutat odată.
 
 [v3.2]
 Să ne spună că este un cer minunat
