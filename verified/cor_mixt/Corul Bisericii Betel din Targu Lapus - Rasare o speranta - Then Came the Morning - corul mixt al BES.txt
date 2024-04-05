@@ -1,0 +1,248 @@
+[title]
+Răsare o speranță {alternative: {Then Came the Morning}, composer: {Sue C. Smith}, writer: {Eugen Drăgoiu}, arranger: {Russell Mauldin}, interpreter: {Corul Bisericii Betel din Târgu Lăpuș}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {cantata}, rcId: {*}, id: {bTJhQ8wk6cnA3fwiP3vMBg}, contentHash: {d39707}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,b,v11,b2,v12,v13,v14,v15,v16,v17,v18,v19,v20,v21,v22,v23,v24,v25,v26,v27,v28,v29,v30,v31,v32,v33,v34,v35,v36,v37
+
+[v1]
+Și iată, zorii noaptea au învins,
+Speranțele renasc, mormântu-i deschis!
+Da, iată zorii, trece noaptea, e soare iar,
+E-a învierii zi și zorii răsar!
+
+[v2]
+Isus, Tu ești a noastră nădejde,
+Ne bucurăm c-ai înviat, Îți cântăm,
+Te lăudăm, căci astăzi știm cu toții că Tu ești viu,
+Tu ești viu, de aceea-Ți cântăm în veci de veci!
+
+[v3]
+Nici mormântul, nici moartea nu Te-au învins,
+Iertare și pace ne-ai dat,
+Prin cruce pe toți deplin ne-ai schimbat,
+Iubire, ‘ndurare, har ne-ai arătat!
+
+[v4]
+Isus, Tu ești a noastră nădejde,
+Ne bucurăm c-ai înviat, Îți cântăm,
+Te lăudăm, căci astăzi știm cu toții că Tu ești viu,
+Tu ești viu, de aceea-Ți cântăm în veci de veci,
+De aceea-Ți cântăm: viu ești în veci!
+
+[v5]
+Lăudați puterea lui Isus, voi îngeri vă-nchinați,
+Coroana de-mpărat luați și Îl încoronați!
+Coroana de-mpărat luați și Îl încoronați,
+El e Domn!
+
+[v6]
+Iar voi, martiri de sub altar, cu toți vă închinați,
+Odrasla lui Isai lăudați și Îl încoronați!
+Odrasla lui Isai lăudați și Îl încoronați,
+El e Domn, El e Domn, Isus este Domn!
+
+[v7]
+Unde este Isus, Învățătorul?
+Ce dulce-mi sună vocea Sa!
+Unde este El, Tămăduitorul
+Ce poate viața mea schimba?
+Eu vreau să merg pe calea Sa,
+A Sa privire nădejde-mi dă!
+
+[v8]
+Și-n orice încercare, nevoie sau mister în El am rezolvare,
+Cu toate-alerg la El!
+E-atâta siguranță pe brațul Lui purtat;
+Eu nu I-am dat nimica, El dragoste mi-a dat!
+
+[v9]
+Unde este Acel ce dă iertarea?
+În El am fost răscumpărat.
+Unde este Cel Viu, Biruitorul?
+Nu-i niciun altul ca și El,
+Nu-i nici în cer, nici pe pământ,
+E-nvingătorul, Rege Preasfânt!
+
+[v10]
+Și orice întrebare, nevoie sau mister în El au rezolvare,
+Cu toate-alerg la El!
+E-atâta siguranță pe brațul Lui purtat;
+Eu nu I-am dat nimica, El dragoste mi-a dat!
+
+[b]
+Știu că este iubire pentru neamul omenesc,
+În ea sunt și eu, de-aceea-ndrăznesc!
+
+[v11]
+Vin cu orice întrebare, nevoie sau mister, la El am rezolvare,
+Cu toate-alerg la El!
+E-atâta siguranță pe brațul Lui purtat;
+Eu nu I-am dat nimica, El dragoste mi-a dat,
+Isus mi-a dat!
+
+[b2]
+Isuse, cu Tine-s fericit!
+
+[v12]
+Când zăceam sub grea povară și simțeam că-s vinovat,
+Mâna lui Isus m-atinse, de-al meu păcat m-a eliberat!
+Isuse, o, Isuse, iubirea Ta m-a copleșit,
+Viața toată mi s-a-nnoit, cu Tine sunt fericit!
+
+[v13]
+Pentru că mi-a dat salvarea, sufletul mi l-a spălat,
+Îl voi lăuda pe Domnul, aici și-n cer când voi fi chemat.
+Isuse, o, Isuse, iubirea Ta m-a copleșit,
+Viața toată mi s-a-nnoit, cu Tine sunt fericit!
+
+[v14]
+Când gândim la trupul frânt pe cruce
+Și la picurii de sânge curs,
+Nu putem lua ușor lucrarea
+Jertfei Tale sfinte, scump Isus.
+
+[v15]
+În genunchi plecați, cu reverență,
+Cu inima deschisă ne-nchinăm,
+Aducându-ne smeriți aminte iar de jertfa Ta,
+Pe care-o onorăm.
+
+[v16]
+Fie timpu-acesta părtășie, timp de binecuvântare plin,
+Să-nțelegem iar că locul nostru l-ai luat pe lemn, Tu, Fiu divin.
+Pocăința fie-ne ofranda, să-Ți stăm ‘nainte recunoscători,
+Aducându-ne de Tine-aminte și de jertfa Ta fiind mulțumitori.
+
+[v17]
+O, Pâinea vieții, o cum Te-ai frânt,
+Izvor de preț cum Te-ai deschis!
+La masa Ta stăm azi ca semn
+A tot ce Tu atunci ai suferit.
+
+[v18]
+Să nu dăm uitării niciodată datoria noastră de-a vesti
+Tuturor iubirea arătată de Părintele din veșnicii!
+Să vedem mereu ce îndurare și ce mare preț a fost plătit,
+Aducându-ne de Tine-aminte și de jertfa Ta
+Ce-n dar ne-a mântuit, în dar ne-a mântuit!
+Să nu dăm uitării niciodată!
+
+[v19]
+Privit-am soldații cum în spate crucea grea I-au pus
+Și stropii de sânge care pe drum de pe frunte i-au curs.
+Și-apoi am văzut cum în palme și picioare piroane-au pătruns,
+Ca un Miel pentru jertfa din templu, benevol S-a lăsat străpuns.
+
+[v20]
+O, cum să nu vezi suferința? O, cum să n-auzi glasul Său?
+Ce clipe cumplite și grele a trăit Fiul lui Dumnezeu!
+Nu voi da niciodată uitării imaginea de pe Calvar,
+Știu că tot chinu-ndurat de Isus era partea mea, prețul amar.
+
+[v21]
+Nicicând răsplătită nu poate să fie lucrarea Sa,
+Nici toată a mea slujire nu poate plăti jertfa Sa.
+Întreaga viață mi-aș da-o, dator aș rămâne mereu,
+Nu există vreun dar pe măsură, cât de mare e prețul său.
+
+[v22]
+Cum să nu vezi atunci suferința și cum să n-auzi glasul Său?
+Ce clipe cumplite și grele a trăit Fiul lui Dumnezeu!
+Nu voi da niciodată uitării imaginea de pe Calvar,
+Știu că tot chinu-ndurat de Isus era partea mea, prețul amar.
+
+[v23]
+Isus a plătit totu-n locul meu,
+Cum să nu vin cu-a mea mulțumire
+Și cum al Său har să nu-l cânt?
+Pentru mine, om fără merit,
+Pe o cruce S-a dat Domnul Sfânt!
+
+[v24]
+Nu voi da niciodată uitării imaginea de pe Calvar,
+Știu că tot chinu-ndurat de Isus era partea mea, prețul amar.
+Da, știu că tot chinu-ndurat de Isus mi-arată supremul Său har,
+Mare, sfânt har, sfânt har!
+
+[v25]
+Spre casă s-au dus, nimic nu și-au spus, al lor Preaiubit s-a stins,
+Tot ce le-a spus pare apus, iar drumul ‘nainte-i închis.
+Și tot ce-au visat părea destrămat, nu sperau să fie-așa:
+Grădina, trădat, Gabata, Pilat, ce noapte lungă și grea.
+
+[v26]
+Dar iată, zorii noaptea au învins,
+Speranțele renasc, mormântu-i deschis!
+Da, iată zorii, trece noaptea, e soare iar,
+E a învierii zi și zorii răsar!
+
+[v27]
+Un înger, o stea, păstori, niște magi, minunea cu apă și vin,
+Cei ce-L urmau nu-nțelegeau cum totul s-a sfârșit.
+A fost oare El, Mesia așteptat, un om ce-n groapă-i așezat?
+Cu toți se-ntrebau și nu-și aminteau că a promis: „Voi învia!”
+
+[v28]
+Și iată, zorii noaptea au învins,
+Speranțele renasc, mormântu-i deschis!
+Da, iată zorii, dați de veste: Isus e viu!
+Boldul morții a fost frânt căci zorii-au venit!
+Da, iată zorii, umbre nu-s, e soare iar,
+E-a învierii zi și zorii răsar! Zorii răsar!
+
+[v29]
+Ești întristat și greu apăsat, în credință ești încercat?
+Înalță ochii spre ajutor: El, Isus, al tău Salvator!
+Ridică-te, ești salvat prin Isus, tu poți să fii fericit!
+Ridică-te, ești salvat prin Isus, mântuirea ți-a oferit!
+
+[v30]
+Poți prin credință la El să vii, cu drag Isus te va primi,
+El va răspunde când vei striga, Isus te va elibera!
+Ridică-te, ești salvat prin Isus, tu poți să fii fericit!
+Ridică-te, ești salvat prin Isus, mântuirea ți-a oferit!
+Ești salvat prin Isus, da ești salvat, ridică-te!
+
+[v31]
+Ție-mpăratul meu, slavă Îți cânt mereu,
+Zi de zi Te preamăresc, sunt fiu al Tău, ceresc!
+Ție, o, Domnul meu, Îți mulțumesc mereu,
+Cuvântul Tău - lumina mea, vreau să fac doar voia Ta!
+
+[v32]
+Glorie, o, Miel divin, toate Ție Ți se-nchin’,
+Al Tău Nume Ți-l cinstim și Domnia Ta vestim!
+Slavă Leu din Iuda, mare-i puterea Ta,
+Slavă Leu din Iuda, mare-i puterea Ta și măreția Ta,
+Ce minunat ești Tu!
+
+[v33]
+Isus, Tu ești a noastră nădejde,
+Ne bucurăm c-ai înviat, Îți cântăm,
+Te lăudăm, căci astăzi știm cu toții că Tu ești viu,
+Tu ești viu, de aceea-Ți cântăm în veci de veci!
+
+[v34]
+Nici mormântul, nici moartea nu Te-au învins,
+Iertare și pace ne-ai dat.
+în Cartea Vieții un nume ne-ai scris
+Și loc în mărire prin Tine-am aflat!
+
+[v35]
+Isus, Tu ești a noastră nădejde,
+Ne bucurăm c-ai înviat, Îți cântăm,
+Te lăudăm, căci astăzi știm cu toții că Tu ești viu,
+Tu ești viu, de aceea-Ți cântăm în veci de veci,
+De aceea-Ți cântăm: viu ești în veci!
+
+[v36]
+Voi, cei aleși de Dumnezeu, de El răscumpărați,
+Lăudați-L pe Emanuel și Îl încoronați!
+Lăudați-L pe Emanuel și Îl încoronați,
+El e Domn!
+
+[v37]
+Dați slavă Domnului Isus, aduceți sfânt onor
+Și veșnic să-L încoronăm ca Domn al tuturor
+Și veșnic să-L încoronăm ca Domn al tuturor,
+El e Domn, El e Domn, Isus este Domn!
