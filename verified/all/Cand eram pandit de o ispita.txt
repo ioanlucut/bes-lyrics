@@ -5,10 +5,9 @@ Când eram pândit de o ispită {alternative: {*}, composer: {*}, writer: {*}, a
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-Când eram pândit de o ispită,
+Când eram pândit de-o ispită,
 Tu mi-ai dat putere înzecită.
-Curățit de vechiul veșmânt
-Prin sângele sfânt.
+Curățit e vechiul veșmânt, prin sângele sfânt.
 
 [v1.2]
 Când Satan a vrut să lovească,
@@ -18,9 +17,9 @@ Scut mi-ai fost, îmi ești,
 
 [c]
 /: Isuse, pe Tine Te știu,
-Cel ce ești drept, sfânt și viu!
+Cel ce ești drept, sfânt și viu,
 Ochii mei spre Tine privesc,
-O, Doamne ceresc. :/
+O, Doamne ceresc! :/
 
 [v2.1]
 În necazuri nenumărate,
@@ -31,17 +30,14 @@ Prin sfântul Tău har.
 [v2.2]
 Când, pe patul de suferință,
 Te-am chemat mereu, cu credință,
-Mi-ai răspuns neîntârziat,
-Și m-ai vindecat.
+Mi-ai răspuns neîntârziat și m-ai vindecat.
 
 [v3.1]
-Când eram cuprins de întristare,
+Când eram cuprins de-ntristare,
 Doamne, Tu mi-ai dat alinare.
-Niciodată nu m-ai ocolit,
-Ci m-ai întărit.
+Niciodat’ nu m-ai ocolit, ci m-ai întărit.
 
 [v3.2]
 Șansă când n-aveam de scăpare,
 Doamne, Tu mi-ai dat vindecare,
-Să fiu mădular sănătos,
-Prin Tine, Hristos.
+Să fiu mădular sănătos, prin Tine, Hristos.
