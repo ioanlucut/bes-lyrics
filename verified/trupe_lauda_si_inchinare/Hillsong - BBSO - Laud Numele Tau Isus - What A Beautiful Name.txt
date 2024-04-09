@@ -11,12 +11,12 @@ Gloria Sa nemărginită
 Printre noi s-a arătat.
 
 [c]
-Laud Numele Tău, Isus,
+/: Laud Numele Tău, Isus,
 Ești al meu Rege înălțat.
 Laud Numele Tău, Isus,
 Ești Mielul ce-a fost străpuns.
 Laud Numele Tău, Isus,
-Al slavei Rege!
+Al slavei Rege! :/
 
 [v2]
 Iar pentru a fi în veci cu Tine,
@@ -32,6 +32,6 @@ Isus Hristos a biruit!
 
 [b1.2]
 Orice putere, orice domnie,
-Domnul meu pe toate le-a zdrobit.
+Domnul meu toate le-a zdrobit.
 Din a Sa cruce curge iubire,
 Viață prin El eu am primit!
