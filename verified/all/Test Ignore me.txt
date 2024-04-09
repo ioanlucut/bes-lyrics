@@ -1,5 +1,5 @@
 [title]
-Test Ignore me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {313c09}}
+Test Ignore me {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pkiA5akQix1n3JHo7VhgjQ}, contentHash: {0fc17a}}
 
 [sequence]
 v1.1,v1.2,v1.3
@@ -54,4 +54,4 @@ end-of-line-works-without-extra-space-text’
 end-of-line-works-without-extra-space-text’
 end-of-line-works-without-extra-space-text”
 end-of-line-works-without-extra-space-text„
-Version 12
+Version 13
