@@ -5,8 +5,10 @@ Cât de bine mă simt cu aleșii Domnului {alternative: {*}, composer: {*}, writ
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [c1.1]
-Cât de bine mă simt cu aleșii Domnului, poporul minunat!
-O, ce bine mă simt cu aleșii Domnului, poporul minunat!
+Cât de bine mă simt cu aleșii Domnului,
+Poporul minunat!
+O, ce bine mă simt cu aleșii Domnului,
+Poporul minunat!
 
 [c1.2]
 Strălucesc fețele, cântă adunarea,

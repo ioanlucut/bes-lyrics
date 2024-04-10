@@ -1,0 +1,29 @@
+[title]
+Al meu ești Isuse, ce mult Te iubesc {alternative: {}, composer: {}, writer: {}, arranger: {}, interpreter: {}, band: {}, key: {}, tempo: {}, tags: {}, version: {}, genre: {}, rcId: {}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Al meu ești Isuse, ce mult Te iubesc!
+A lumii plăcere eu n-o mai doresc.
+Tu ești Salvatorul și Te prețuiesc,
+De-acum, o, Isuse, nespus Te iubesc!
+
+[v2]
+Ca să mă răscumperi pe cruce-ai murit
+Și spinii a Ta frunte adânc au rănit.
+Întâi m-ai iubit Tu, în veci Te slăvesc,
+De-acum, o, Isuse, nespus Te iubesc!
+
+[v3]
+În viață și-n moarte, Isus Te doresc,
+Slăvesc al Tău Nume atât cât trăiesc.
+Sudorile morții când mă copleșesc,
+Voi zice: Isuse, și-acum Te iubesc!
+
+[v4]
+În fața măririi, la tronul de sus,
+Uita-voi de jalea ce-n urma-a apus.
+Cununa de slavă atunci o primesc,
+Și vesel voi spune: Isus, Te iubesc!

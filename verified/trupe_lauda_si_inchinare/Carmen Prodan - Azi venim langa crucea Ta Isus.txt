@@ -1,0 +1,29 @@
+[title]
+Azi venim lângă crucea Ta, Isus {alternative: {}, composer: {Carmen Prodan}, writer: {}, arranger: {}, interpreter: {}, band: {}, key: {}, tempo: {}, tags: {}, version: {}, genre: {}, rcId: {}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi venim lângă crucea Ta, Isus,
+Ne smerim și Îți mulțumim nespus
+Pentru tot ce-ai făcut Tu pentru noi,
+Căci ne-ai scos din pierzare și noroi!
+
+[c]
+/: Mulțumim pentru suferința grea,
+Mulțumim că suntem comoara Ta!
+Pentru noi chiar prin moarte ai trecut,
+Mulțumim, Domn preasfânt! :/
+
+[v2]
+Ochii Tăi plâng și astăzi pentru noi,
+Ne iubești chiar și-atunci când suntem răi!
+Ce am fi fără Tine, Doamne sfânt?
+Călători fără țintă pe pământ.
+
+[v3]
+Te rugăm să ne ierți de vina grea,
+Să putem sta cu toți la masa Ta!
+Să vestim moartea Ta pân’ vei veni
+Să ne duci sus, cu Tine-n veșnicii!

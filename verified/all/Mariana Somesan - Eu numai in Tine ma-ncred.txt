@@ -5,7 +5,7 @@ Eu numai în Tine mă-ncred {alternative: {*}, composer: {Mariana Someșan}, wri
 v1,v2,v3
 
 [v1]
-Eu numai în Tine mă-ncred, eu numai pe Tine te-aștept,
+Eu numai în Tine mă-ncred, eu numai pe Tine Te-aștept,
 O, vino Isuse iubit și mă-mbracă, cum mi-ai promis!
 /: Căci fără de Tine, Isus, eu nu pot să fac niciun pas,
 Te chem, Te aștept și Te rog să umpli deplin al meu vas! :/

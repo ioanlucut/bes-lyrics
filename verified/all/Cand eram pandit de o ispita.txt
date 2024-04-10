@@ -1,12 +1,12 @@
 [title]
-Când eram pândit de o ispită {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4479}, id: {1xrNjyWU8E7d6Qamcv2mDs}, contentHash: {82eaf7}}
+Când eram pândit de-o ispită {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4479}, id: {1xrNjyWU8E7d6Qamcv2mDs}, contentHash: {82eaf7}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
 Când eram pândit de-o ispită,
-Tu mi-ai dat putere înzecită.
+Tu mi-ai dat putere-nzecită.
 Curățit e vechiul veșmânt, prin sângele sfânt.
 
 [v1.2]
@@ -24,8 +24,7 @@ O, Doamne ceresc! :/
 [v2.1]
 În necazuri nenumărate,
 Mi-ai fost tată și mi-ai fost frate.
-M-ai scos din noroi și-amar
-Prin sfântul Tău har.
+M-ai scos din noroi și-amar, prin sfântul Tău har.
 
 [v2.2]
 Când, pe patul de suferință,
