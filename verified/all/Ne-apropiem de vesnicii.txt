@@ -1,0 +1,25 @@
+[title]
+Ne-apropiem de veșnicii {alternative: {*}, composer: {Frații Pall}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ne-apropiem de veșnicii cu fiecare pas grăbit,
+În orice ceas tu ești silit să te desparți de ce-ai iubit.
+
+[c]
+O, nu uita că-n urma ta îți lași amprenta-n toate
+Și ne-ncetat cu viața ta tu scrii mereu o carte!
+
+[v2]
+În anii ce se sting pe rând, ca vii făclii apuse,
+Dragostea ta e tot arzând sau e doar un vis dulce?
+
+[v3]
+Tu ești chemat, trecând prin timp, să ai credința vie,
+Privirea ta și drumul tău spre Dumnezeu să-ți fie!
+
+[v4]
+În orice loc te vei afla, pe munte sau în vale,
+Să Îl păstrezi pe Dumnezeu în cartea vieții tale!

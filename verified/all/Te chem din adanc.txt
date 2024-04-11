@@ -1,0 +1,29 @@
+[title]
+Te chem din adânc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Te chem din adânc, Doamne, auzi glasul meu,
+Și ascultă cererea mea!
+Dacă Tu ai păstra ale noastre greșeli
+Oare cine ar mai sta-n fața Ta?
+
+[c]
+Dar la Tine-i iertare ca să fii de temut,
+Te slăvesc, Domnul meu, pururea.
+Nădejdea întreagă în Tine mi-o pun
+Și aștept făgăduința Ta.
+
+[v2]
+Te-așteaptă al meu suflet, o, Domnul meu drag,
+Ca străjile ai zilei zori.
+Eu Te laud mereu și aștept acea zi
+Când vei veni pe nori.
+
+[v3]
+Nădejdea ți-o pune în Domnul mereu,
+Israele, o, nu te-ntrista,
+Din a tale dureri și necazuri
+Cel Sfânt te va răscumpăra!
