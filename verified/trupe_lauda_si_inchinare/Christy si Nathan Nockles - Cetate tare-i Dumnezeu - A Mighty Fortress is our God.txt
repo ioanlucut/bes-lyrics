@@ -1,5 +1,5 @@
 [title]
-Cetate tare-i Dumnezeu {alternative: {A Mighty Fortress is our God}, composer: {Christy și Nathan Nockles}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6tNcBS6XiQ6TAnMZHJDZzz}, contentHash: {7c3313}}
+Cetate tare-i Dumnezeu {alternative: {A Mighty Fortress is our God}, composer: {Christy și Nathan Nockles}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6tNcBS6XiQ6TAnMZHJDZzz}, contentHash: {4c25f5}}
 
 [sequence]
 v1,p,c,v2,p,c,b,c,c2

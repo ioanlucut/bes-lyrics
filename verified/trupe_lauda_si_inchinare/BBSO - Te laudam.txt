@@ -1,5 +1,5 @@
 [title]
-Te lăudăm {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fQFNR7Cc8akFmUUySsazsy}, contentHash: {54fab0}}
+Te lăudăm {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fQFNR7Cc8akFmUUySsazsy}, contentHash: {17a06f}}
 
 [sequence]
 v1,c,v2,c,v3,c

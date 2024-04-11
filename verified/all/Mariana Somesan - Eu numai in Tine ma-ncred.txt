@@ -1,5 +1,5 @@
 [title]
-Eu numai în Tine mă-ncred {alternative: {*}, composer: {Mariana Someșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xnemcp2bN2BRjLQTJGM1Ja}, contentHash: {e18b21}}
+Eu numai în Tine mă-ncred {alternative: {*}, composer: {Mariana Someșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xnemcp2bN2BRjLQTJGM1Ja}, contentHash: {6e94b9}}
 
 [sequence]
 v1,v2,v3

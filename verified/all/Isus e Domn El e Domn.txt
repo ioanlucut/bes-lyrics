@@ -1,5 +1,5 @@
 [title]
-Isus e Domn, El e Domn {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Isus e Domn, El e Domn {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nQ79NWV1jut6o3M7yAjcED}, contentHash: {f674eb}}
 
 [sequence]
 v1,v2

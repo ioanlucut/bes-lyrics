@@ -1,5 +1,5 @@
 [title]
-Te chem din adânc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Te chem din adânc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {auRgFVgWn924aAC5mejh8z}, contentHash: {e66455}}
 
 [sequence]
 v1,c,v2,c,v3,c

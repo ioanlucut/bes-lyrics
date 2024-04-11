@@ -1,5 +1,5 @@
 [title]
-Ne-apropiem de veșnicii {alternative: {*}, composer: {Frații Pall}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Ne-apropiem de veșnicii {alternative: {*}, composer: {Frații Pall}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1851MY144U5mkLBwi3BiEa}, contentHash: {9534da}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
