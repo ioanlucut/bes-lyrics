@@ -1,0 +1,41 @@
+[title]
+Revarsă azi o binecuvântare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hjUmdQFwi8p2y4WkjAgDAW}, contentHash: {85621a}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Revarsă azi o binecuvântare
+Spre-al Tău popor, o, Doamne, Te rugăm!
+Cu milă să privești spre-a Ta lucrare,
+Căci înspre Tine ruga ne-o-ndreptăm!
+
+[c]
+A Ta este slava, în veci Te-nălțăm,
+Ești mare și puternic Dumnezeu!
+La Tine venim, cu toții Te rugăm
+Să binecuvântezi locașul Tău.
+
+[v2]
+Așa cum Solomon odinioară
+Spre ceruri rugăciunea a-nălțat,
+Și noi venim la Tine, sfinte Tată,
+Că ce sfințești Tu-i binecuvântat.
+
+[v3]
+O, Tată, ochii Tăi mereu privească
+Asupra casei Tale pururea,
+Ascultă astăzi rugăciunea noastră,
+Dă, Doamne, binecuvântarea Ta!
+
+[v4]
+Îți mulțumim, o, bunule Părinte
+Că Tu-nspre noi cu milă vei privi!
+La ruga ce-o-nălțăm de-aici spre Tine
+Răspuns prin harul Tău noi vom primi.
+
+[v5]
+Iar când pe nori, cu glorie și slavă,
+Vei reveni să-Ți iei ai Tăi copii,
+Cu toți vrem să plecăm cu Tine-acasă,
+În sfântul Tău locaș din veșnicii.

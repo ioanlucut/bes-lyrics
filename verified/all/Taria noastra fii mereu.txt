@@ -1,5 +1,5 @@
 [title]
-Tăria noastră fii mereu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {85365}, id: {vEHpKKJ9MmeaFA2mGV61z7}, contentHash: {b261fd}}
+Tăria noastră fii mereu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {85365}, id: {vEHpKKJ9MmeaFA2mGV61z7}, contentHash: {988b88}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -23,10 +23,10 @@ Păstreaz-o-n inimă mereu
 Revarsă pace, pace, pace, peste noi! :/
 
 [v4]
-Aproape fi de cei sărmani,
+Aproape fii de cei sărmani,
 Fii mângâiere la orfani!
 /: Și unde sunt lacrimi și-amar,
-Revarsă, pace, pace, pace și-al Tău har! :/
+Revarsă pace, pace, pace și-al Tău har! :/
 
 [v5]
 Păstrează-ne sub scutul Tău!

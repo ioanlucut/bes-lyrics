@@ -1,5 +1,5 @@
 [title]
-Doamne, astăzi vin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2833}, id: {wRsz3ohzWbmf6xvBNyUXgu}, contentHash: {100dd6}}
+Doamne, astăzi vin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2833}, id: {wRsz3ohzWbmf6xvBNyUXgu}, contentHash: {21969c}}
 
 [sequence]
 v1,c,v2,c
@@ -23,5 +23,5 @@ Doamne, vreau să fiu
 În stare să-nțeleg cum ești
 Și care-i calea Ta, ca să merg pe ea.
 Și din pacea Ta
-În suflet să-mi picuri un strop
+În suflet să-mi reverși un strop
 Ca cei din jur să bea și să stea în iubirea Ta.
