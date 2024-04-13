@@ -1,0 +1,29 @@
+[title]
+Cel care S-a dat pe Sine {alternative: {}, composer: {The Messengers}, writer: {The Messengers}, arranger: {}, interpreter: {}, band: {}, key: {}, tempo: {}, tags: {}, version: {}, genre: {}, rcId: {}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă-asculți de Dumnezeu ești binecuvântat de El
+Omule, aici, pe-acest pământ.
+Crucea Lui de la Calvar, răspândește milă, har
+Și iertare dă oricui, oricând.
+
+[c]
+Cel care S-a dat pe Sine ca să moară pentru tine
+E Isus Hristos din Nazaret.
+Astăzi în a Lui iubire îți oferă mântuire,
+Omule ce-asculți, fii înțelept!
+
+[v2]
+Lumea de ar fi a ta, ce folos tu ai avea,
+Dacă sufletul pierdut ți-ar fi?
+Viața trece ca un vis, te-ai gândit la paradis
+Sau la iadul veșnic din abis?
+
+[v3]
+Într-o zi și eu am spus: „Te urmez, Doamne Isus!”
+De atunci El viața mi-a schimbat.
+De Isus nu mă despart, El îmi este cel mai drag,
+În poarta cerului m-așteaptă-n prag.
