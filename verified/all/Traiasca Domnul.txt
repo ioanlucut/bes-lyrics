@@ -1,5 +1,5 @@
 [title]
-Trăiască Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {235991}, id: {7szfb9ZMz8UPSKRx8C5n8C}, contentHash: {fb055a}}
+Trăiască Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {235991}, id: {7szfb9ZMz8UPSKRx8C5n8C}, contentHash: {476d63}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -16,8 +16,7 @@ E iubirea arătată omului!
 
 [c]
 /: Trăiască Domnul,
-El este Stânca mea
-În care mă încred!
+El este Stânca mea în care mă încred!
 Trăiască Domnul,
 El este Stânca mea și Cetățuia mea! :/
 
