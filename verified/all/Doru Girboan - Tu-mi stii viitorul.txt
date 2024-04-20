@@ -6,9 +6,9 @@ v1,c,v2,c,v3,c,e
 
 [v1]
 /: Când eram doar un plod fără chip,
-Ochii Tăi mă vedeau!
+Ochii Tăi mă vedeau.
 În cartea Ta demult erau scrise
-Zilele ce m-așteptau! :/
+Zilele ce m-așteptau. :/
 
 [c]
 /: Tu-mi știi viitorul și ești lângă mine,
@@ -19,7 +19,7 @@ Nicicând n-ai să mă părăsești. :/
 [v2]
 /: De-aș încerca să m-ascund de Tine
 Nu voi reuși, oriunde m-aș duce,
-Chiar la marginea mării
+Chiar la marginea mării,
 Mâna Ta mă va călăuzi! :/
 
 [v3]
