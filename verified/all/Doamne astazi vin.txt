@@ -1,5 +1,5 @@
 [title]
-Doamne, astăzi vin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2833}, id: {wRsz3ohzWbmf6xvBNyUXgu}, contentHash: {21969c}}
+Doamne, astăzi vin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2833}, id: {wRsz3ohzWbmf6xvBNyUXgu}, contentHash: {eaf462}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
