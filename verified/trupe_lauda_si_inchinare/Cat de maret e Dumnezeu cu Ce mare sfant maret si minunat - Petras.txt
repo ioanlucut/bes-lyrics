@@ -1,5 +1,5 @@
 [title]
-Cât de măreț e Dumnezeu cu Ce mare, sfânt, măreț și minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined worship songs}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+Cât de măreț e Dumnezeu cu Ce mare, sfânt, măreț și minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined worship songs}, version: {Petras}, genre: {*}, rcId: {*}, id: {9HXj6rpUzLnKgNVQX9FR2h}, contentHash: {68053f}}
 
 [sequence]
 v1,v2,c,v3,v4,c,v5,c

@@ -1,5 +1,5 @@
 [title]
-Din El, prin El și pentru El {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+Din El, prin El și pentru El {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {pKXHkFoJe3hizneqJTAS1v}, contentHash: {639a1d}}
 
 [sequence]
 v1,c,v2,c,v3,c
