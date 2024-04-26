@@ -1,0 +1,21 @@
+[title]
+Din El, prin El și pentru El {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {pKXHkFoJe3hizneqJTAS1v}, contentHash: {639a1d}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din El, prin El și pentru El sunt toate lucrurile,
+Din El, prin El și pentru El sunt toate lucrurile.
+
+[c]
+/: A Lui să fie gloria, a Lui să fie gloria,
+În veci de veci, amin! :/
+
+[v2]
+Viață din viața Sa la Golgota ne-a dat,
+A îndurat El răstignit al lumii-ntregi păcat.
+
+[v3]
+Din inimă vrem să-I cântăm noi laudă în veci,
+Căci El a biruit și e triumfător, în veci.
