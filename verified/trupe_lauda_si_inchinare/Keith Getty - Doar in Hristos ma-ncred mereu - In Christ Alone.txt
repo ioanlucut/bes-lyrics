@@ -7,7 +7,7 @@ v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
 [v1.1]
 Doar în Hristos mă-ncred mereu,
 Lumina și tăria mea,
-O stânca tare-i Dumnezeu
+O stâncă tare-i Dumnezeu
 Când e furtună-n viața mea.
 
 [v1.2]
@@ -29,7 +29,7 @@ S-a potolit la Golgota.
 Iar eu trăiesc prin moartea Sa!
 
 [v3.1]
-Au pus lumina în mormânt,
+Au pus Lumina în mormânt,
 În întuneric L-au lăsat,
 Dar nu s-a stins, căci Domnul sfânt
 A treia zi a înviat!
@@ -42,7 +42,7 @@ Cu sânge m-a răscumpărat.
 
 [v4.1]
 În fața morții când voi sta,
-Doar în Hristos mă-ncred mereu
+Doar în Hristos mă-ncred mereu,
 Căci orice pas din viața mea
 Îl hotărăște Dumnezeu.
 

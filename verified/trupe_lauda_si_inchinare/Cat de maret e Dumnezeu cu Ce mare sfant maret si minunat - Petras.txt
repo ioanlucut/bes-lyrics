@@ -1,0 +1,49 @@
+[title]
+Cât de măreț e Dumnezeu cu Ce mare, sfânt, măreț și minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined worship songs}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,c,v3,v4,c,v5,c
+
+[v1]
+Cât de măreț e Dumnezeu!
+Văd marea cu talazuri grele,
+Mă-nalț pe munții de bazalt
+Și-mi zboară gândul printre stele,
+Tot mai înalt.
+
+[v2]
+Ce împărat își duce-oștirea
+Spre un gigantic apogeu?
+Acel ce-a pus în goluri firea,
+Acel ce-a scris oricui menirea,
+Mai mult decât nemărginirea,
+E Tatăl meu!
+
+[c]
+/: Ce mare, sfânt, măreț și minunat
+Ești Doamne, Dumnezeule prea-nalt.
+Înconjurat cu slavă și splendoare
+În țara unde veșnic e sărbătoare. :/
+
+[v3]
+La Tronul Alb se strâng sfielnic
+Voievozi de foc din Empireu.
+Și heruvimii vin cucernic,
+Slăvind Eternul Vistiernic.
+Și-acest Stăpân atotputernic
+E Tatăl meu!
+
+[v4]
+Și cât de bun e Dumnezeu!
+Chiar dacă stelele bătrâne
+Tot au o vreme când se-aștern,
+Dar cine în Isus rămâne
+E-un fiu etern.
+
+[v5]
+Și-n fața slavei sclipitoare,
+În ceasul lumii cel mai greu,
+Acei ce-au dat pe sfinți la fiare
+Vedea-vor forța creatoare.
+Eu voi șopti cu adorare:
+E Tatăl meu!
