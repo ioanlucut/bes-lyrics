@@ -2,7 +2,7 @@
 Stânca mea e Hristos {alternative: {Cornerstone with Mighty To Save}, composer: {Edward Mote, Eric Liljero, Jonas Myrin, Reuben Morgan, William B. Bradbury}, writer: {Florin Mearoș, traducere și adaptare}, arranger: {Bradley Knight}, interpreter: {BBSO și colaboratorii}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
 
 [sequence]
-v1,c,v2,c,v3,c,v4,c
+v1,c,v2,c,v3,c,v4,c,b
 
 [v1]
 Credința mea eu o zidesc
