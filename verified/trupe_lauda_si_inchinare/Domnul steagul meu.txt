@@ -1,5 +1,5 @@
 [title]
-Domnul, steagul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {o3gWRFbvrQPNQN9mc8e1Dy}, contentHash: {fb067b}}
+Domnul, steagul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {o3gWRFbvrQPNQN9mc8e1Dy}, contentHash: {a55dbe}}
 
 [sequence]
 v1,p,c
