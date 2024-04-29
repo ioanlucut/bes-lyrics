@@ -1,0 +1,28 @@
+[title]
+Cercetează-mă, Te rog {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,b,c,b
+
+[v1]
+Cercetează-mă, Te rog, vorbește-mi Tu cu dragoste,
+Vreau să aud doar vocea Ta, Dumnezeul meu!
+Vezi dacă sunt pe calea rea, adu-mă iar în prezența Ta,
+Să privesc frumusețea Ta, Dumnezeul meu!
+
+[c]
+/: Sufletul meu Te dorește,
+Inima mea azi caută fața Ta,
+Tu ești Domnul meu și Dumnezeul meu.
+Vreau să m-ascund la umbra aripilor Tale,
+Să mă odihnesc doar în prezența Ta. :/
+
+[v2]
+Întinde mâna Ta, te rog, alină Tu durerea mea,
+Vreau mângâierea Ta să simt, Dumnezeul meu!
+Ascultă, Doamne, ruga mea, Te rog răspunde când Te chem,
+Mă-ncred doar în Cuvântul Tău, Dumnezeul meu!
+
+[b]
+/: Ești iubirea mea, ești totul în viața mea,
+Tu ești Domnul meu, ești Dumnezeul meu. :/
