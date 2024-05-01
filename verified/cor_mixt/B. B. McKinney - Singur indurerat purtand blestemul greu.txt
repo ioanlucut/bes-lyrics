@@ -1,0 +1,21 @@
+[title]
+Singur, îndurerat, purtând blestemul greu {alternative: {For Me}, composer: {B. B. McKinney}, writer: {Nelu Mureșan, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Singur, îndurerat, purtând blestemul greu,
+Isus murea zdrobit pentru mine.
+
+[v2]
+Încununat cu spini, cu trupul plin de răni,
+Isus murea smerit pentru mine.
+
+[v3]
+Batjocorit, hulit, pe cruce pironit,
+Isus tăcea, murind pentru mine.
+
+[v4]
+Pe-al dragostei altar, Isus s-a mistuit
+Ca Miel făr’ de cusur, pentru mine.

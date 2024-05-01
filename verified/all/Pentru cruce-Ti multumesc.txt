@@ -1,5 +1,5 @@
 [title]
-Pentru cruce-Ți mulțumesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4aGPJbrkSKxxYC2kkU7h2j}, contentHash: {42efa2}}
+Vrednic ești Isus {alternative: {Worthy is the Lamb; Pentru cruce-Ți mulțumesc}, composer: {Darlene Zschech}, writer: {Valeriu M. Trufin, traducerea și adaptarea}, arranger: {Carol Cymbala}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {4aGPJbrkSKxxYC2kkU7h2j}, contentHash: {42efa2}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c,e
@@ -18,10 +18,8 @@ Sunt spălat cu sânge sfânt
 
 [c]
 /: Vrednic ești, Isus, să fii încoronat.
-Pe pământ și-n ceruri sus,
-Domnești victorios.
-Să fii înălțat, Rege preaînalt.
-Tu mântuire ne-ai adus,
+Pe pământ și-n ceruri sus, domnești victorios.
+Să fii înălțat, Rege preaînalt, Tu mântuire ne-ai adus,
 Vrednic ești, Isus, vrednic ești, Isus! :/
 
 [e]

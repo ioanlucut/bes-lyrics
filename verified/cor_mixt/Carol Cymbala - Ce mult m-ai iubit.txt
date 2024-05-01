@@ -1,0 +1,33 @@
+[title]
+Ce mult m-ai iubit {alternative: {How Great Is Your Love}, composer: {Carol Cymbala, Onaje Jefferson și Jason Michael Webb}, writer: {Carol Cymbala, Onaje Jefferson și Jason Michael Webb; Eugen Drăgoiu și Claudiu Lulciuc, traducerea și adaptarea}, arranger: {Carol Cymbala și Jason Michael Webb}, interpreter: {Brooklyn Tabernacle Choir}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c1,v2,c2,c3,e
+
+[v1]
+La cruce Te-ai dus, pentru mine-ai murit,
+Păcatu-mi cumplit cu-al Tău sânge l-ai plătit,
+Azi înțeleg ce mult m-ai iubit.
+
+[c]
+Ce dragoste și har minunat Isus mi-ai dăruit,
+În locul meu pe cruce-ai murit, în veci să fii slăvit!
+Isus, Isus, ce mult m-ai iubit!
+
+[v2]
+Din crucea Ta curge-un izvor divin,
+Sângele-Ți sfânt mă spală deplin,
+Azi înțeleg ce mult m-ai iubit!
+
+[c2]
+/: Ce dragoste și har minunat Isus mi-ai dăruit,
+În locul meu pe cruce-ai murit, în veci să fii slăvit,
+Isus, Isus, Isus Isus! :/
+
+[c3]
+Ce dragoste și har minunat Isus mi-ai dăruit,
+În locul meu pe cruce-ai murit, în veci să fii slăvit,
+Isus, Isus, Isus Isus!
+
+[e]
+/: Ce mult m-ai iubit! :/ (x3)
