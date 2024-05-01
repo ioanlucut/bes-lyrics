@@ -1,0 +1,29 @@
+[title]
+Isus e viu {alternative: {*}, composer: {Carmen Gavril}, writer: {Carmen Gavril}, arranger: {Mike Speck, Larry Goss și Danny Zaloudik}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+În zorii zilei, la mormânt când au venit,
+Să îmbălsămeze trupul lui Isus cel răstignit,
+Un înger sfânt s-a arătat, grăind femeilor:
+N-aveți teamă și spuneți ca-ți văzut mormântul gol!
+
+[c]
+Mormântu-i gol, Domnul moartea a învins,
+Piatra-i dată la o parte, a-nviat cum a promis!
+Duceți vestea mai departe, să răsune tot mai viu:
+Mormântu-i gol și Domnul pentru veci e viu!
+
+[v2]
+Frânt e boldul morții, șters greul păcat,
+Iad s-a dus puterea ta,
+căci Cel ce te-a răpus e-n slăvi împărat!
+
+[c2]
+Mormântu-i gol acum, Domnul moartea a învins,
+Piatra-i dată la o parte, a-nviat cum a promis!
+Duceți vestea mai departe, să răsune tot mai viu:
+Mormântu-i gol, mormântu-i gol, mormântu-i gol
+Și Domnul pentru veci e viu, da, Isus e viu!

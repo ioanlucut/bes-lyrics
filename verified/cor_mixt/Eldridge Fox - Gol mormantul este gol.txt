@@ -1,0 +1,27 @@
+[title]
+Gol, mormântul este gol {alternative: {Gone}, composer: {Eldridge Fox}, writer: {Eldridge Fox, Dorin Giurgiu, traducere și adaptare}, arranger: {Geron Davis și Jay Rouse}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Maria-n zori de zi vine-n grădină,
+Ducând miresme pentru-mbălsămat.
+Un înger sfânt venit din zări senine
+I-a spus: Isus din morți a înviat!
+
+[c]
+Gol, mormântul este gol!
+Ce măreață veste: El din morți a înviat!
+Dați lumii-ntregi de știre, s-audă orișicine,
+Că Isus a înviat!
+
+[v2]
+Nu vrei să vii și tu azi în grădină
+Să-L întâlnești pe Domnul înviat?
+Oricât de mult te-apasă a ta vină,
+Prin moartea Lui la viață ești chemat.
+
+[e]
+Dăm lumii-ntregi de știre că Isus a înviat!
+Da, a-nviat!

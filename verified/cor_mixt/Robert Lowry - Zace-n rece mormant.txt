@@ -1,0 +1,24 @@
+[title]
+Zace-n rece mormânt {alternative: {Low in the Grave He Lay}, composer: {Robert Lowry}, writer: {Robert Lowry}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Zace-n rece mormânt, Mântuitorul,
+Zi de-nviere, vin, Doamne Isus!
+
+[c]
+Luați piatra de pe mormânt
+căci Isus din morți a înviat!
+El fusese răstignit nevinovat,
+dar murind puterea morții a surpat,
+A-nviat, a-nviat, aleluia, a-nviat!
+
+[v2]
+Mormântul sigilat, o, Doamne sfinte,
+Pe Rege-ntemnițați, Doamne Isus!
+
+[v3]
+Al morții bold ai frânt, o, Prinț al vieții,
+Învins-ai suferind, o, Doamne Isus.

@@ -1,11 +1,11 @@
 [title]
-Hristos a înviat din morți {alternative: {*}, composer: {Alexandru Podoleanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1891}, id: {eBDRW8PdTVjGqivayppCnL}, contentHash: {44e8d4}}
+Hristos a înviat din morți {alternative: {*}, composer: {Alexandru Podoleanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {*}, genre: {*}, rcId: {1891}, id: {eBDRW8PdTVjGqivayppCnL}, contentHash: {44e8d4}}
 
 [sequence]
 v1
 
 [v1]
-Hristos a înviat din morți
-Cu moartea pe moarte câlcând
-Și celor din morminte,
+Hristos a înviat din morți,
+Cu moartea pe moarte călcând
+Și celor din morminte
 Viață dăruindu-le.
