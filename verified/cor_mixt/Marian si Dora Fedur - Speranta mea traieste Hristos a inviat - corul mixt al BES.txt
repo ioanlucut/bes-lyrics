@@ -1,5 +1,5 @@
 [title]
-Speranța mea trăiește, Hristos a înviat {alternative: {*}, composer: {Marian și Dora Fedur}, writer: {Marian și Dora Fedur}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: { Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Speranța mea trăiește, Hristos a înviat {alternative: {*}, composer: {Marian și Dora Fedur}, writer: {Marian și Dora Fedur}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {kh8RSve9px8f4AWeJAavif}, contentHash: {8c16d4}}
 
 [sequence]
 v1,v2,c,v3,c

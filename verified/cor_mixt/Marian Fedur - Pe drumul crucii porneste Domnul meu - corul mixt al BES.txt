@@ -1,5 +1,5 @@
 [title]
-Pe drumul crucii pornește Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Pe drumul crucii pornește Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {mGTYZpvmq41J3HgP1qcTTc}, contentHash: {a011a9}}
 
 [sequence]
 v1,c,v2,c,v3

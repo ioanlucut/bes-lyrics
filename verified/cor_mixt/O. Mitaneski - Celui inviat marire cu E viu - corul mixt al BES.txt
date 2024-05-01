@@ -1,5 +1,5 @@
 [title]
-Celui înviat mărire cu E viu {alternative: {*}, composer: {O. Mitaneski}, writer: {Jean Staneschi}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs; Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Celui înviat mărire cu E viu {alternative: {*}, composer: {O. Mitaneski}, writer: {Jean Staneschi}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs; Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {vJcqdC3aCNhAceckPEXh7A}, contentHash: {02927f}}
 
 [sequence]
 v1,c,v2,c,v3,c,c2,v4,c2,v5,c2,e

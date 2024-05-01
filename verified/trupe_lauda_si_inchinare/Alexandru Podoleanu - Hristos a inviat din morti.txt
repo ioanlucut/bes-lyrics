@@ -1,5 +1,5 @@
 [title]
-Hristos a înviat din morți {alternative: {*}, composer: {Alexandru Podoleanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {*}, genre: {*}, rcId: {1891}, id: {eBDRW8PdTVjGqivayppCnL}, contentHash: {44e8d4}}
+Hristos a înviat din morți {alternative: {*}, composer: {Alexandru Podoleanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {*}, genre: {*}, rcId: {1891}, id: {eBDRW8PdTVjGqivayppCnL}, contentHash: {3df10d}}
 
 [sequence]
 v1

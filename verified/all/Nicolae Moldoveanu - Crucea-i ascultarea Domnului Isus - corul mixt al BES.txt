@@ -1,5 +1,5 @@
 [title]
-Crucea-i ascultarea Domnului Isus {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Traian Dorz}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {1853}, id: {afEBYx2Y4VE9gRNbZPTVT5}, contentHash: {152393}}
+Crucea-i ascultarea Domnului Isus {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Traian Dorz}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {1853}, id: {afEBYx2Y4VE9gRNbZPTVT5}, contentHash: {db0e99}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

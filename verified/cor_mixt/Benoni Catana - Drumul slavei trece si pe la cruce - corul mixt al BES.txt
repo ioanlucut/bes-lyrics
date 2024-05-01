@@ -1,5 +1,5 @@
 [title]
-Drumul slavei trece și pe la cruce {alternative: {*}, composer: {*}, writer: {Benoni Catană}, arranger: {V. A. Jguliov}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {}, rcId: {}, contentHash: {*}}
+Drumul slavei trece și pe la cruce {alternative: {*}, composer: {*}, writer: {Benoni Catană}, arranger: {V. A. Jguliov}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {vSTUGzeQxjhVCvTAnP2rSD}, contentHash: {066605}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

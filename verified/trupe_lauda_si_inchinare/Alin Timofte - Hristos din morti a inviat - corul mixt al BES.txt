@@ -1,5 +1,5 @@
 [title]
-Hristos din morți a înviat {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {149085}, id: {exBjeeyjeoL9X5SH3rDLRo}, contentHash: {86e7b2}}
+Hristos din morți a înviat {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {149085}, id: {exBjeeyjeoL9X5SH3rDLRo}, contentHash: {59e010}}
 
 [sequence]
 v1,p,c,v2,p2,c2,e
