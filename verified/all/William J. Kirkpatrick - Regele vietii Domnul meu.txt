@@ -1,5 +1,5 @@
 [title]
-Regele vieții, Domnul meu {alternative: {*}, composer: {William J. Kirkpatrick}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1522}, id: {rWeVAqUhwnJuyP8bXNJSxy}, contentHash: {51e4b1}}
+Regele vieții, Domnul meu {alternative: {*}, composer: {William J. Kirkpatrick}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {1522}, id: {rWeVAqUhwnJuyP8bXNJSxy}, contentHash: {51e4b1}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

@@ -1,5 +1,5 @@
 [title]
-Hristos din morți a înviat {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {149085}, id: {exBjeeyjeoL9X5SH3rDLRo}, contentHash: {86e7b2}}
+Hristos din morți a înviat {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {149085}, id: {exBjeeyjeoL9X5SH3rDLRo}, contentHash: {86e7b2}}
 
 [sequence]
 v1,p,c,v2,p2,c2,e
@@ -13,8 +13,7 @@ Unde s-a ascuns?
 [p]
 Se-ntărâtă oamenii, se-nspăimântă demonii,
 Printre bice-nsângerat, ochii Săi au luminat.
-Cine oare a știut că acel sărman bătut
-E Isus?
+Cine oare a știut că acel sărman bătut e Isus?
 
 [c]
 Credeam atunci că e lovit,
@@ -37,10 +36,9 @@ Dar a înviat!
 
 [c2]
 /: Hristos din morți a înviat,
-Iubirea Lui a triumfat, cu adevărat.
+Iubirea Lui a triumfat cu-adevărat.
 E viu și astăzi printre noi,
 Ridică oameni din nevoi, Isus Hristos. :/
 
 [e]
-E cu noi, e cu noi,
-A-nviat!
+E cu noi, e cu noi, a-nviat!

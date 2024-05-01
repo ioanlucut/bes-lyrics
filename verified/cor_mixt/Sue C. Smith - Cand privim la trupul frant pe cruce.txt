@@ -1,5 +1,5 @@
 [title]
-Când gândim la trupul frânt pe cruce {alternative: {The Breaking of the Bread}, composer: {Sue C. Smith}, writer: {Eugen Drăgoiu, traducerea și adaptarea}, arranger: {Russell Mauldin}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs; part of Then Came the Morning cantata}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Când gândim la trupul frânt pe cruce {alternative: {The Breaking of the Bread; Neprețuită amintire}, composer: {Sue C. Smith}, writer: {Eugen Drăgoiu, traducerea și adaptarea}, arranger: {Russell Mauldin}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs; part of Then Came the Morning cantata}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
 
 [sequence]
 v1,v2,v3.1,v3.2,v4,v5.1,v5.2,e
