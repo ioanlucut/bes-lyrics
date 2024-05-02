@@ -1,0 +1,44 @@
+[title]
+Isaia 53 {alternative: {*}, composer: {Paul Johnson}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {5N5QgdT7UdHUMbPhbFJH3H}, contentHash: {b654ba}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,e
+
+[v1.1]
+Cine-a crezut în ceea ce ni se vestise,
+Cine-a crezut cele prezise:
+Fiul măririi pe pământ să se coboare,
+Prețul durerii să-l măsoare?
+
+[v1.2]
+Și văzându-L printre oameni prea disprețuit,
+Am zis că e lovit de Dumnezeu și pedepsit,
+Dar El era zdrobit de-al nostru păcat
+Și Fiul povara ne-a purtat.
+
+[v2.1]
+Noi rătăceam cu toții-n noaptea lumii grea,
+Pierduți prin beznă tot mai departe.
+Și vina toată a căzut asupra Sa,
+Prin moartea Lui ne-a izbăvit de moarte.
+
+[v2.2]
+Printre cei răi o groapă lumea I-a săpat,
+Mormântul Lui alături-a fost pus de cel bogat.
+Nimeni n-a crezut că poate fi nevinovat
+Și-atunci la moarte toți L-am condamnat.
+
+[v3.1]
+Cine-a crezut că vom primi prin Isus
+Atâta revărsare de iubire,
+Cine-a crezut în ceea ce demult s-a spus:
+Că-n jertfa Lui afla-vom mântuire?
+
+[v3.2]
+Astăzi credem toți în ceea ce ni s-a vestit
+Că Domnul pentru noi pe cruce fost-a răstignit.
+El pregătește-n cer loc orișicui,
+Vom fi și noi rodul jertfei Lui.
+
+[e]
+Vom fi și noi rodul jertfei Lui.

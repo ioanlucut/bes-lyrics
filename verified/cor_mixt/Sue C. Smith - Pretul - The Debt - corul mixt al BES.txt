@@ -1,0 +1,60 @@
+[title]
+Prețul {alternative: {The Debt}, composer: {Sue C. Smith}, writer: {Eugen Drăgoiu}, arranger: {Russell Mauldin}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs; part of Then Came the Morning cantata}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {tkTpVzUWJJFATwzGUHmtrx}, contentHash: {d6d673}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3,v4.1,v4.2,v5,v6.1,v6.2
+
+[v1.1]
+Privit-am soldații cum în spate
+Crucea grea I-au pus
+Și stropii de sânge care pe drum
+De pe frunte au curs.
+
+[v1.2]
+Și-apoi am văzut cum în palme și picioare
+Piroane-au pătruns,
+Ca un Miel pentru jertfa din templu,
+Benevol S-a lăsat străpuns.
+
+[v2.1]
+O, cum să nu vezi suferința?
+O, cum să n-auzi glasul Său?
+Ce clipe cumplite și grele a trăit Fiul lui Dumnezeu!
+
+[v2.2]
+Nu voi da niciodată uitării imaginea de pe Calvar,
+Știu că tot chinu-ndurat de Isus
+Era partea mea, prețul amar.
+
+[v3]
+Nicicând răsplătită nu poate să fie lucrarea Sa,
+Nici toată a mea slujire nu poate plăti jertfa Sa.
+Întreaga viață mi-aș da-o, dator aș rămâne mereu,
+Nu există vreun dar pe măsură, cât de mare e prețul său.
+
+[v4.1]
+Cum să nu vezi atunci suferința
+Și cum să n-auzi glasul Său?
+Ce clipe cumplite și grele a trăit Fiul lui Dumnezeu!
+
+[v4.2]
+Nu voi da niciodată uitării imaginea de pe Calvar,
+Știu că tot chinu-ndurat de Isus
+Era partea mea, prețul amar.
+
+[v5]
+Isus a plătit totu-n locul meu,
+Cum să nu vin cu-a mea mulțumire
+Și cum al Său har să nu-l cânt?
+Pentru mine, om fără merit,
+Pe o cruce S-a dat Domnul Sfânt!
+
+[v6.1]
+Nu voi da niciodată uitării imaginea de pe Calvar,
+Știu că tot chinu-ndurat de Isus
+Era partea mea, prețul amar.
+
+[v6.2]
+Da, știu că tot chinu-ndurat de Isus
+Mi-arată supremul Său har,
+Mare, sfânt har, sfânt har!

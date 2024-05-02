@@ -1,0 +1,23 @@
+[title]
+Mărire Ție, Isuse {alternative: {O for a Thousand Tongues}, composer: {Thomas Jarman}, writer: {Charles Wesley}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {gke59NLmQTSHCtsr4GTV62}, contentHash: {a4e708}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Mărire Ție, Isuse,
+/: Cel ce ai înviat, :/ (x2)
+Al Tău popor Te mărește
+/: Că l-ai răscumpărat! :/ (x3)
+
+[v2]
+Soare frumos al dreptății
+/: Măreț ni Te ivești, :/ (x2)
+Cel ce alungi noaptea morții,
+/: Acum Tu strălucești! :/ (x3)
+
+[v3]
+Doamne, odată Te vom vedea
+/: Pe tronul Tău regesc, :/ (x2)
+Și-n haine albe Te-om lăuda
+/: Cu corul cel ceresc. :/ (x3)

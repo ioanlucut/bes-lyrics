@@ -1,0 +1,29 @@
+[title]
+Cerul declară cu Isus e Mielul sfânt {alternative: {All Heaven Declare și Crown Him with Many Crowns}, composer: {Noel și Tricia Richards & Matthew Bridges}, writer: {Noel și Tricia Richards & Matthew Bridges}, arranger: {Jay Rouse}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs; Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {g4YYxXtEntgjih4jep9aYG}, contentHash: {e5c8b5}}
+
+[sequence]
+v1,c,v2,v3
+
+[v1]
+/: Cerul declară gloria Celui înviat,
+Cine se compară cu frumusețea Domnului?
+În veci de veci ești Tu, divinul Miel pe tron,
+Genunchii îmi aplec și Ție mă închin. :/
+
+[c]
+Isus e Mielul sfânt, cel demn de-ncoronat,
+Cântați voi ceruri și pământ pe marele-mpărat!
+Nu-i nimenia sub cer ca el de proslăvit,
+Coroana slavei este-a Lui, căci El a biruit.
+
+[v2]
+El este-al vieții Domn, cel demn de-ncoronat,
+Prin învierea Sa, în veci El moartea-a triumfat.
+Cântăm mărirea Lui, osana Mielului,
+Prin moarte, viață ne-a adus să fim în ceruri sus.
+
+[v3]
+Voi proclama gloria Celui înviat,
+Ce-a fost ‘junghiat să ne-mpace cu Dumnezeu.
+În veci de veci ești Tu, divinul Miel pe tron,
+Genunchii îmi aplec și Ție mă închin.
