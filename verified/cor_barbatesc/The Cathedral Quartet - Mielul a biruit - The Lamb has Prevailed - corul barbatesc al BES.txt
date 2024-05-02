@@ -1,5 +1,5 @@
 [title]
-Mielul a biruit {alternative: {The Lamb has Prevailed}, composer: {Phill și Carolyn Cross}, writer: {Claudiu Lulciuc, traducerea și adaptarea}, arranger: {Dinu Fedur}, interpreter: {The Cathedral Quartet}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {}, rcId: {}, contentHash: {*}}
+Mielul a biruit {alternative: {The Lamb has Prevailed}, composer: {Phill și Carolyn Cross}, writer: {Claudiu Lulciuc}, arranger: {Dinu Fedur}, interpreter: {The Cathedral Quartet}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {6SEzn86Xm1muVBJ9u3JrYn}, contentHash: {8b6f3e}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,e

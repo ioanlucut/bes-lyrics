@@ -1,5 +1,5 @@
 [title]
-Planul salvării {alternative: {*}, composer: {Ruby Woody}, writer: {Ruby Woody; Adi Mura, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Planul salvării {alternative: {*}, composer: {Ruby Woody}, writer: {Ruby Woody; Adi Mura}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {bBKHH3tJHeebGyG65AQRc9}, contentHash: {750450}}
 
 [sequence]
 c,v1,c2,v2,c2,e
@@ -30,4 +30,3 @@ A-nviat și trăiește, haideți să-I mulțumim!
 
 [e]
 Ne-nchinăm numai Ție și-Ți cântăm slavă-n veci.
-

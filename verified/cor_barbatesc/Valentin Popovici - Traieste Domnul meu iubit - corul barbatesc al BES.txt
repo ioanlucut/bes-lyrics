@@ -1,5 +1,5 @@
 [title]
-Trăiește Domnul meu iubit {alternative: {*}, composer: {*}, writer: {Valentin Popovici}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Trăiește Domnul meu iubit {alternative: {*}, composer: {*}, writer: {Valentin Popovici}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {mgpK6dAed581NLyvLpqA9c}, contentHash: {94b4b9}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Isus este viu, din morți El a-nviat {alternative: {Spun la orișicine că a biruit}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Isus este viu, din morți El a-nviat {alternative: {Spun la orișicine că a biruit}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {sSp6VYGRgutzkNCDUg9hbs}, contentHash: {b9a0e7}}
 
 [sequence]
 v1,c,v2,c
@@ -21,4 +21,3 @@ Spun și ucenicii, spune și Maria,
 Spun de-a rândul veacuri despre a Sa-nviere,
 El e viu, trăiește, la Tatăl s-a dus
 Și azi îți pregătește un loc în ceruri sus.
-

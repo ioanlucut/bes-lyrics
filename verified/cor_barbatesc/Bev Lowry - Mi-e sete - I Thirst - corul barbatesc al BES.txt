@@ -1,5 +1,5 @@
 [title]
-Mi-e sete {alternative: {I Thirst}, composer: {Bev Lowry}, writer: {Bev Lowry; Adi Mura, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Mi-e sete {alternative: {I Thirst}, composer: {Bev Lowry}, writer: {Bev Lowry; Adi Mura}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {7gTjTiqN4fBspeK1Gr3q8s}, contentHash: {e2e8a4}}
 
 [sequence]
 v1,c,v2,c
