@@ -1,0 +1,29 @@
+[title]
+El a-nviat și azi trăiește {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {}, rcId: {}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Durerea se mai zbate doar prin ecoul stins,
+Pe străzile pustii-n Ierusalim.
+Dar zorii dimineții a treia zi-au strigat:
+Isus Hristos din morți a înviat!
+
+[c]
+/: El a-nviat și azi trăiește
+În fiecare inimă ce L-a primit.
+Și hainele de doliu-au fost schimbate pe veci,
+Îmbrăcați în alb cânta-vom sus în cer. :/
+
+[v2]
+Va fi o dimineață când toți aleșii Lui
+O destinație nouă vor avea
+Și urmele durerii lăsa-vom pe pământ
+Și-n locul lor vom înălța un cânt.
+
+[e]
+Îmbrăcați în alb cânta-vom sus în cer,
+Îmbrăcați în alb, îmbrăcați în alb,
+Îmbrăcați în alb cânta-vom sus în cer,
+Îmbrăcați în alb cânta-vom sus în cer.

@@ -1,0 +1,24 @@
+[title]
+Isus este viu, din morți El a-nviat {alternative: {Spun la orișicine că a biruit}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Spun la orișicine că a biruit,
+Marea Sa lucrare Isus a-mplinit.
+Nici mormântul rece, nici chiar piatra grea,
+N-au putut să-L țină când a înviat.
+
+[c]
+/: Isus este viu, din morți El a-nviat,
+Azi al Lui mormânt gol El la lăsat!
+Isus este viu și-n veci El va trăi,
+Marea mea speranță El o va-mplini! :/
+
+[v2]
+Spun și ucenicii, spune și Maria,
+Spun de-a rândul veacuri despre a Sa-nviere,
+El e viu, trăiește, la Tatăl s-a dus
+Și azi îți pregătește un loc în ceruri sus.
+

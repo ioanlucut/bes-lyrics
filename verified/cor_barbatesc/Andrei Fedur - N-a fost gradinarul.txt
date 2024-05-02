@@ -1,0 +1,30 @@
+[title]
+N-a fost grădinarul {alternative: {*}, composer: {Andrei Fedur}, writer: {Andrei Fedur}, arranger: {Andrei Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v3,c,e
+
+[v1]
+Dis-de-dimineață, toate într-un gând,
+Trei femei se-ndreaptă grabnic spre mormânt.
+Au adus miresme pentru-nbălsămat,
+Dar Hristos din morți a înviat.
+
+[c]
+/: N-a fost grădinarul cel care L-a luat,
+N-au fost ucenicii, nu a fost Pilat,
+Cântă omenirea, cântă ne-ncetat,
+Căci Hristos din morți a înviat! :/
+
+[v2]
+Mergi și spune lumii tot ce s-a-ntâmplat,
+Cum Isus pe cruce morții a fost dat.
+Țintuit în cuie, Mielul înjunghiat,
+Dar prin înviere ne-a salvat.
+
+[v3]
+A-nviat, a-nviat, aleluia, a-nviat,
+A-nviat, a-nviat, aleluia, a-nviat!
+
+[e]
+/: Căci Hristos din morți a înviat! :/

@@ -1,0 +1,33 @@
+[title]
+Planul salvării {alternative: {*}, composer: {Ruby Woody}, writer: {Ruby Woody; Adi Mura, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+c,v1,c2,v2,c2,e
+
+[c]
+Mulțumim, o, Isuse, pentru planul salvării,
+Ne-ai salvat de la moarte, murind pentru noi.
+Prin jertfa-Ți măreață ne-ai adus mântuire,
+Ne-nchinăm numai Ție și-Ți cântăm slavă-n veci.
+
+[v1]
+Într-o dimineață amară și tristă,
+O mulțime de oameni Te-nsoțeau spre Calvar.
+Tot păcatul lumii îl urcai la Golgota
+Și în marea-Ți iubire ai murit pentru noi.
+
+[c2]
+/: Mulțumim, o, Isuse, pentru planul salvării,
+Ne-ai salvat de la moarte, murind pentru noi.
+Prin jertfa-Ți măreață ne-ai adus mântuire,
+Ne-nchinăm numai Ție și-Ți cântăm slavă-n veci. :/
+
+[v2]
+Într-o dimineață în veci neuitată
+Inimile trudite din nou renășteau,
+Că Mântuitorul, Hristos, Domnul vieții,
+A-nviat și trăiește, haideți să-I mulțumim!
+
+[e]
+Ne-nchinăm numai Ție și-Ți cântăm slavă-n veci.
+
