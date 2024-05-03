@@ -1,12 +1,12 @@
 [title]
-Ai ales piroane și spini {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4301}, id: {sJ5MB61Q5RtW5AuhBJjgvx}, contentHash: {6eff8e}}
+Ai ales piroane și spini {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4301}, id: {sJ5MB61Q5RtW5AuhBJjgvx}, contentHash: {0932d6}}
 
 [sequence]
 v1,c,v2,b,b2
 
 [v1]
 Judecata suverană s-a-ntâlnit
-Cu iubirea dragostei făr’ de sfârșit,
+Cu iubirea dragostei fără sfârșit,
 Pe o cruce într-o jertfă de Sfânt Miel,
 Să pot alege-al meu destin pentru etern.
 
@@ -19,8 +19,8 @@ Să pot alege și eu acum
 [v2]
 Omule, ești liber cui vrei să-i slujești,
 Păcatului și celui rău, sau să primești
-Pe Isus și viața veșnică în dar
-Dragostea lui Dumnezeu făr’ de hotar.
+Pe Isus și viața veșnică în dar,
+Dragostea lui Dumnezeu fără hotar.
 
 [b]
 Decât să trăiești fără mine,
@@ -29,5 +29,5 @@ Ai ales să mori pentru mine,
 Dar a treia zi, ai înviat, ai înviat, ai înviat.
 
 [b2]
-Hai, alege chiar acum cerul Său minunat
+Hai, alege chiar acum cerul Său minunat,
 Da, alege chiar acum cerul Său minunat.

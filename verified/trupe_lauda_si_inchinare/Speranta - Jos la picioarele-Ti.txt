@@ -1,12 +1,13 @@
 [title]
-Jos la picioarele-Ți {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3799}, id: {gq1j3inLxfunMNQiBE2avV}, contentHash: {1b22e1}}
+Jos la picioarele-Ți {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3799}, id: {gq1j3inLxfunMNQiBE2avV}, contentHash: {63adce}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
 /: Jos la picioarele-Ți stau adânc plecat,
-În prezența Ta, sunt îngenuncheat, sunt îngenuncheat! :/
+În prezența Ta, sunt îngenuncheat,
+Sunt îngenuncheat! :/
 
 [c]
 /: Nu-i chemare mai mare, nu-i altă onoare

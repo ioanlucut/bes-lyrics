@@ -1,5 +1,5 @@
 [title]
-Golgota, Golgota, schimbă viața mea {alternative: {*}, composer: {Andreea Popoi}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7234}, id: {6kY7rWGUgZJx7rSZUJ7B3Q}, contentHash: {a11956}}
+Golgota, Golgota, schimbă viața mea {alternative: {*}, composer: {Andreea Popoi}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7234}, id: {6kY7rWGUgZJx7rSZUJ7B3Q}, contentHash: {4aeef2}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -32,4 +32,4 @@ S-a jerfit pe Calvar
 Voi pleca-n cerul Său
 Cu Hristos, Domnul meu.
 Voi cânta slavă Lui,
-Osanele Mielului.
+Osanale Mielului.
