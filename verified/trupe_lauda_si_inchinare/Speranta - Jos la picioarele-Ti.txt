@@ -6,7 +6,8 @@ v1,c,v1,c
 
 [v1]
 /: Jos la picioarele-Ți stau adânc plecat,
-În prezența Ta, sunt îngenuncheat, sunt îngenuncheat! :/
+În prezența Ta, sunt îngenuncheat,
+Sunt îngenuncheat! :/
 
 [c]
 /: Nu-i chemare mai mare, nu-i altă onoare
