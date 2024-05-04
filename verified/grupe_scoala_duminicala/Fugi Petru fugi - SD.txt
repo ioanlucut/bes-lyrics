@@ -5,31 +5,31 @@ Fugi, Petru, fugi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, 
 v1,c,v2,c,v3,v1,c2
 
 [v1]
-Fugi, Petru, fugi, fugi la mormânt
-Fugi, Petru, fugi, de nu crezi pe cuvânt
-Fugi ca să vezi că-i adevărat
+Fugi, Petru, fugi, fugi la mormânt!
+Fugi, Petru, fugi, de nu crezi pe cuvânt!
+Fugi ca să vezi că-i adevărat,
 Mormântul e gol, Isus a înviat!
 
 [c]
-A-nviat, a-nviat
-Mormântul e pustiu
-A-nviat, a-nviat
+A-nviat, a-nviat,
+Mormântul e pustiu!
+A-nviat, a-nviat,
 Isus Hristos e viu!
 
 [v2]
 Fugi, Petru, fugi, spune la toți
-Cum Isus Hristos nu e între morți.
-Fugi, Petru, fugi, să spui ce-ai aflat,
+Cum Isus Hristos nu e între morți!
+Fugi, Petru, fugi, să spui ce-ai aflat;
 Mormântul e gol, Isus a-nviat!
 
 [v3]
-La fel ca și Petru când s-a lepădat
-Și astăzi sunt mulți ce spun
-Pe-acest om eu nu-L cunosc
-Ca și lui petru și ție îți spun!
+La fel ca și Petru când s-a lepădat,
+Și astăzi sunt mulți ce spun:
+Pe-acest om eu nu-L cunosc!
+Ca și lui Petru, și ție îți spun:
 
 [c2]
-A-nviat, a-nviat
-Mormântul e pustiu
-A-nviat, a-nviat
+A-nviat, a-nviat,
+Mormântul e pustiu!
+A-nviat, a-nviat,
 /: Isus Hristos e viu! :/ (x3)
