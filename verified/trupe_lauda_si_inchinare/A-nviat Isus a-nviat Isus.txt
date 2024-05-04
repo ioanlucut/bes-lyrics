@@ -1,0 +1,33 @@
+[title]
+A-nviat Isus, a-nviat Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+c,v1.1,v1,2,c,v2.1,v2.2,c
+
+[c]
+/: A-nviat Isus, a-nviat Isus, nu mai este mort,
+A-nviat a treia zi, după Scripturi,
+A-nviat Isus, a-nviat Isus,
+A-nviat și stă la dreapta Tatălui. :/
+
+[v1.1]
+Într-o zi, pe un deal,
+Răstignit pe cruce, între doi tâlhari,
+E un Fiu de Dumnezeu, fără de păcat.
+
+[v1.2]
+Pironit, batjocorit,
+Și durerile de moarte suferind,
+Către cer El a strigat:
+„Tată, iartă-i, că nu știu ce fac!”
+
+[v2.1]
+A treia zi, la mormânt,
+Piatra dată la o parte ei văzând,
+Și Sheolul era gol, a-nviat Isus.
+
+[v2.2]
+Noi cu toții am fost salvați,
+prin suferințele ce a răbdat,
+Încrede-te în jertfa Sa
+Și viață veșnică vei căpăta.

@@ -5,16 +5,23 @@ Să-nalț jertfa Ta, Isuse {alternative: {*}, composer: {Nicolae Moldoveanu}, wr
 v1,c,v2,c,v3,c
 
 [v1]
-Să-nalț jertfa Ta, Isuse, mai întâi și mai deplin,
-Harurile ei aduse și comorile-i nespuse.
+Să-nalț jertfa Ta, Isuse,
+Mai întâi și mai deplin,
+Harurile ei aduse
+Și comorile-i nespuse.
 
 [c]
-/: Iată ce doresc, iată ce doresc, iată ce doresc, amin! :/
+/: Iată ce doresc, iată ce doresc,
+Iată ce doresc, amin! :/
 
 [v2]
-Să spun despre crucea-Ți sfântă, despre darul ei divin,
-Azi, când lumea se frământă, și pe-a morții căi se-avântă.
+Să spun despre crucea-Ți sfântă,
+Despre darul ei divin,
+Azi, când lumea se frământă,
+Și pe-a morții căi se-avântă.
 
 [v3]
-Să cânt Golgota măreață într-un cântec mai senin,
-Spre-o eternă dimineață, Doamne, aprinde-a mea viață!
+Să cânt Golgota măreață
+Într-un cântec mai senin,
+Spre-o eternă dimineață,
+Doamne, aprinde-a mea viață!
