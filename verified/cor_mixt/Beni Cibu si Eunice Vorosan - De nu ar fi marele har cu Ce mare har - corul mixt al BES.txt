@@ -1,0 +1,51 @@
+[title]
+De nu ar fi marele har cu Ce mare har {alternative: {*}, composer: {Beni Cibu și Eunice Voroșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {corul mixt al BES}, genre: {*}, rcId: {179533}, id: {pmw2ByBCPUgMYWzAqNJqUv}, contentHash: {f3a92e}}
+
+[sequence]
+v1,c,v2,c,v3,c,b,v4,v5,e
+
+[v1]
+De nu ar fi marele har
+Ca să mă țină în umblare,
+Aș fi un mal mutat de val,
+Aș fi o stea rătăcitoare.
+
+[c]
+/: Dar harul minunat mă ține să nu cad
+Și știu că nu mă uiți în vale.
+Vâslesc neîncetat, dar nu pot niciodat’
+De nu ar fi al Tău har mare. :/
+
+[v2]
+De nu ar fi nădejdea sfântă
+Și Duhul Sfânt în viață-mi jar,
+De nu ar fi o voce blândă,
+Așa aș fi: doar un hoinar.
+
+[v3]
+De n-ar fi fost jertfa iubirii,
+Adusă ca prinos pe-altar,
+Eram un fiu al rătăcirii,
+Pierdut eram, Tu mi-ai dat har.
+
+[b]
+De nu ar fi al Tău har mare.
+
+[v4]
+Ce mare har să poți vedea
+Cu ochii tăi lumina,
+Dar mult mai mare har tu ai
+Când ți-e iertată vina.
+Ce mare har, ce mare har,
+Să ai iertată vina.
+
+[v5]
+Ce mare har să poți s-auzi
+Cu-a ta ureche cântul,
+Dar mult mai mare har tu ai
+Să poți s-auzi Cuvântul.
+Ce mare har, ce mare har,
+/:S-auzi tu azi Cuvântul. :/
+
+[e]
+Ce mare har, mare har!

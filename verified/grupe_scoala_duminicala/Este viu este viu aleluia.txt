@@ -1,0 +1,20 @@
+[title]
+Este viu, este viu, aleluia {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qCT7qX1b6vRF49xnQpXjK1}, contentHash: {0733eb}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Este viu, este viu, aleluia,
+Domnul Isus e viu, aleluia!
+Sărbătoare e în toată lumea.
+Azi din morți a-nviat nemurirea
+
+[c]
+/: Aleluia, aleluia! :/
+
+[v2]
+Este viu Domnul meu, aleluia,
+L-a văzut chiar cu ochii Maria
+Și-n Numele Lui azi se-mparte
+Înviere la oricine crede.
