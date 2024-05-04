@@ -1,0 +1,35 @@
+[title]
+Ce mă spală de păcat? {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce mă spală de păcat?
+Doar Isus prin sfântu-I sânge!
+Cine mă va vindeca?
+Doar Isus prin sfântu-I sânge!
+
+[c]
+O, fluviu minunat
+Ce spală de păcat;
+Cu Tatăl m-a-mpăcat
+Doar Isus prin sfântu-I sânge!
+
+[v2]
+Cine mă va curăți?
+Doar Isus prin sfântu-I sânge!
+Viața mi-o va înnoi,
+Doar Isus prin sfântu-I sânge!
+
+[v3]
+Cine vina-mi va ierta?
+Doar Isus prin sfântu-I sânge!
+Și necazul cine-mi ia?
+Doar Isus prin sfântu-I sânge!
+
+[v4]
+Cine mă va-ndreptăți?
+Doar Isus prin sfântu-I sânge!
+Tatălui plăcut a fi?
+Doar Isus prin sfântu-I sânge!
