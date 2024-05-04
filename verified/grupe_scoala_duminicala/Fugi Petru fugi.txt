@@ -1,5 +1,5 @@
 [title]
-Fugi, Petru, fugi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Fugi, Petru, fugi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7ihE6BXQoDDUyUZK6p1cs8}, contentHash: {24bfcc}}
 
 [sequence]
 v1,c,v2,c,v3,v1,c2

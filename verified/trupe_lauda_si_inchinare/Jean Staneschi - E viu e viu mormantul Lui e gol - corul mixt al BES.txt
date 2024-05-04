@@ -1,5 +1,5 @@
 [title]
-E viu, e viu, mormântul Lui e gol {alternative: {*}, composer: {Jean Staneschi}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {3134}, id: {uoG3YqjGmt5zGxw6oUxcrh}, contentHash: {25d640}}
+E viu, e viu, mormântul Lui e gol {alternative: {*}, composer: {Jean Staneschi}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {3134}, id: {uoG3YqjGmt5zGxw6oUxcrh}, contentHash: {646a4b}}
 
 [sequence]
 c,v1,c,v2,c

@@ -1,5 +1,5 @@
 [title]
-A-nviat Isus, a-nviat Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+A-nviat Isus, a-nviat Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eeDqh6vGyXRquH2xRVPRUe}, contentHash: {b646d2}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c

@@ -1,5 +1,5 @@
 [title]
-Cu Isus vreau să stau de vorbă și Spun doar Isus {alternative: {*}, composer: {Ioan Chișmorie și D. Smith, J. Reeves, C. Prince}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {corul mixt al BES}, genre: {}, rcId: {}, contentHash: {*}}
+Cu Isus vreau să stau de vorbă și Spun doar Isus {alternative: {*}, composer: {Ioan Chișmorie și D. Smith}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {uCovDU3dPgE8XP8YGHQrRq}, contentHash: {2ef51a}}
 
 [sequence]
 v1,v2,v3,c,v4,c,c,v5,v6,v7,e

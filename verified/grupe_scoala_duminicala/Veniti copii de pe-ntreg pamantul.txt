@@ -1,5 +1,5 @@
 [title]
-Veniți copii de pe-ntreg pământul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Veniți copii de pe-ntreg pământul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5eWs1PDz3cNQNkVV5E5jmR}, contentHash: {70c85b}}
 
 [sequence]
 v1,v2,v3,v1
