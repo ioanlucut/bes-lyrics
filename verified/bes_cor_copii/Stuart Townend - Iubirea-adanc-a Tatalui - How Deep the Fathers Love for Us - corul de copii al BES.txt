@@ -1,0 +1,68 @@
+[title]
+Iubirea-adânc-a Tatălui {alternative: {How Deep the Father’s Love for Us}, composer: {Stuart Townend}, writer: {Stuart Townend; Carmen Gavril}, arranger: {Bryan Haworth}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul de copii al BES}, genre: {*}, rcId: {217294}, id: {tT8fRWrFXUB1tdTmmp7bvU}, contentHash: {8288f6}}
+
+[sequence]
+v1,v2,v3,v4,c,v5,c,v6,v7,v8,v9,e
+
+[v1]
+Iubirea-adânc-a Tatălui,
+Nimic nu o măsoară,
+Ce-avea mai scump El dărui,
+Făcând din noi comoară.
+
+[v2]
+Durere de neînchipuit,
+Căci Tatăl și-a-ntors fața
+Pe Cel Ales L-a părăsit,
+Iar nouă ne-a dat viața!
+
+[v3]
+La Fiul răstignit privesc,
+Păcatul cum Îl frânge,
+În rând cu cei ce Îl hulesc
+Și vocea mea-L străpunge.
+
+[v4]
+Pe cruce eu Te-am țintuit,
+Dar când Ți-ai dat suflarea,
+Al nopții chin s-a risipit
+Și mi-ai adus iertarea!
+
+[c]
+Nu e dragoste mai mare decât dragostea lui Isus,
+Nu e dragoste mai mare decât a Lui,
+Nu e pace mai adâncă decât pacea lui Isus,
+Nu e pace mai adâncă decât a Lui!
+
+[v5]
+Te lăudăm sfânt izvor nesfârșit de dragoste,
+Tu ești Cel ce-acoperi tot păcatul meu,
+Tu-mi dai puterea să pot birui în lupta grea,
+Tu ești tot în viața mea!
+
+[v6]
+Doamne, astăzi vin, în fața Ta să mă închin,
+Vreau să fiu umplut de har divin,
+În lumina Ta aș vrea mai mult
+Să îmi cunosc slăbiciunile și să cresc în iubirea Ta!
+
+[v7]
+Cheamă-mă și voi veni la Tine,
+Când sunt slab, Tu mă întărești,
+Ca vulturul spre ceruri mă voi înălța
+Și veșnic voi trăi, mereu voi locui în iubirea Ta.
+
+[v8]
+Doamne, vreau să fiu în stare să-nțeleg cum ești
+Și care-i calea Ta, ca să merg pe ea,
+Și din pacea Ta în suflet să-mi reverși un strop
+Ca cei din jur să bea și să stea în iubirea Ta
+
+[v9]
+Cheamă-mă și voi veni la Tine,
+Când sunt slab, Tu mă întărești,
+Ca vulturul spre ceruri mă voi înălța
+Și veșnic voi trăi, mereu voi locui în iubirea Ta.
+
+[e]
+În iubirea Ta.

@@ -1,5 +1,5 @@
 [title]
-Tu ești Cel ce-ntotdeauna luptă {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {161815}, id: {r57QKj7PHxNBuMFqXgmYmJ}, contentHash: {af0e5a}}
+Tu ești Cel ce-ntotdeauna luptă {alternative: {Victor’s Crown; Tu ai biruit}, composer: {Darlene Zschech}, writer: {Darlene Zschech}, arranger: {Dan Galbraith și Shane Ohlson}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {161815}, id: {r57QKj7PHxNBuMFqXgmYmJ}, contentHash: {b92301}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c,e
@@ -21,7 +21,7 @@ Aleluia, Tu ai biruit, Tu ai biruit!
 Aleluia, Isus, lumea Tu ai biruit!
 
 [v2]
-Pentru oameni ești la Tatăl, singurul mijlocitor,
+Pentru oameni ești la Tatăl, singurul Mijlocitor,
 Cei pierduți găsesc salvare, doar Tu ești Mântuitor,
 Ești Isus Hristos, Mesia, ești speranța-ntregii lumi,
 Tu ești Cel ce porți pe cap multe cununi.

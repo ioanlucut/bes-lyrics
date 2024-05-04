@@ -1,0 +1,37 @@
+[title]
+A înviat Isus Hristos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {53DwaCXYrnmGqgD6sEZbrm}, contentHash: {b70233}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+A înviat Isus Hristos, El, începutul vieții!
+La dreapta Tatălui ceresc stă azi ca Prinț al păcii.
+A înviat Isus Hristos, Cuvântul sfânt ne spune,
+Mormântul gol și piatra grea ne stau azi mărturie.
+
+[c]
+E veselie pe pământ se bucură-omenirea
+Că a-nviat Isus Hristos, osana, aleluia!
+Prin El suntem răscumpărați,
+Prin El avem iertare,
+Slăvim și binecuvântăm ziua-nvierii Sale!
+
+[v2]
+A înviat Isus Hristos, ce mare bucurie!
+De azi prin har suntem chemați cu toți la mântuire,
+A înviat Isus Hristos în slavă și putere,
+Veniți, cântați cu noi în cor despre a Sa-nviere!
+
+[v3]
+A înviat Isus Hristos! Din moarte la viață,
+Va trece orice păcătos prin jertfa Sa măreață.
+A înviat Isus Hristos! El boldul morții frânt-a!
+De astăzi orice credincios în veci prin El trăi-va.
+
+[c2]
+E veselie pe pământ se bucură-omenirea
+Că a-nviat Isus Hristos, osana, aleluia!
+Prin El suntem răscumpărați,
+Prin El avem iertare,
+/: Slăvim și binecuvântăm :/ ziua-nvierii Sale!

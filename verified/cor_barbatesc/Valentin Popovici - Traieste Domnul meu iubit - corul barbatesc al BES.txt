@@ -1,0 +1,29 @@
+[title]
+Trăiește Domnul meu iubit {alternative: {*}, composer: {*}, writer: {Valentin Popovici}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {dRBa1xMRuxfqDoYg4zbkAD}, contentHash: {94b4b9}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Trăiește Domnul meu iubit,
+Măreț cuvânt, sublim, duios,
+Mormântul gol stă părăsit,
+În veci e viu Isus Hristos.
+
+[c]
+/: Nu-L căutați printre cei morți,
+El a-nviat cu-adevărat!
+Isus e Domn al lumii-ntregi,
+El e Stăpân în veci și Rege peste regi. :/
+
+[v2]
+Trăiește Domnul meu iubit,
+Adie vântul răcoros,
+Ne spune codrul înflorit:
+Că-n veci e viu Isus Hristos!
+
+[v3]
+În haine albe îngerii
+Cărarea Ți-au împodobit.
+Te-așteaptă gărzi de heruvimi,
+Isus, biruitor iubit.
