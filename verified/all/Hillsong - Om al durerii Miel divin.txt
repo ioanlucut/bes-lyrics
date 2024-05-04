@@ -1,5 +1,5 @@
 [title]
-Om al durerii, Miel divin {alternative: {*}, composer: {Hillsong}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {177094}, id: {wN9XtcZRjMpobM3Dvf4Lco}, contentHash: {d2575a}}
+Om al durerii, Miel divin {alternative: {*}, composer: {Hillsong}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {177094}, id: {wN9XtcZRjMpobM3Dvf4Lco}, contentHash: {b37f9e}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c,v3,c
@@ -13,7 +13,8 @@ Bătut, zdrobit, batjocorit, El nu S-a apărat.
 „Voia Ta, nu voia Mea!” a spus când s-a rugat.
 
 [c]
-M-ai salvat la vechea cruce, dragostea Ta mi-ai arătat,
+M-ai salvat la vechea cruce,
+Dragostea Ta mi-ai arătat,
 Sufletu-mi strigă „Aleluia, slavă Celui înălțat!”
 
 [v2]
