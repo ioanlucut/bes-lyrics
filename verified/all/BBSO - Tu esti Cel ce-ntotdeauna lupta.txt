@@ -1,5 +1,5 @@
 [title]
-Tu ești Cel ce-ntotdeauna luptă {alternative: {Victor's Crown; Tu ai biruit}, composer: {Darlene Zschech, Israel Houghton, Kari Jobe}, writer: {Darlene Zschech, Israel Houghton, Kari Jobe; Emil Cuc, traducerea și adaptarea}, arranger: {Dan Galbraith și Shane Ohlson}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {161815}, id: {r57QKj7PHxNBuMFqXgmYmJ}, contentHash: {af0e5a}}
+Tu ești Cel ce-ntotdeauna luptă {alternative: {Victor’s Crown; Tu ai biruit}, composer: {Darlene Zschech, Israel Houghton, Kari Jobe}, writer: {Darlene Zschech, Israel Houghton, Kari Jobe; Emil Cuc, traducerea și adaptarea}, arranger: {Dan Galbraith și Shane Ohlson}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {161815}, id: {r57QKj7PHxNBuMFqXgmYmJ}, contentHash: {af0e5a}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c,e
