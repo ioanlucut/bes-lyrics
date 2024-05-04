@@ -1,0 +1,32 @@
+[title]
+Mielul a biruit {alternative: {The Lamb has Prevailed}, composer: {Phill și Carolyn Cross}, writer: {Claudiu Lulciuc}, arranger: {Dinu Fedur}, interpreter: {The Cathedral Quartet}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {6SEzn86Xm1muVBJ9u3JrYn}, contentHash: {8b6f3e}}
+
+[sequence]
+v1.1,v1.2,c,v2,c,e
+
+[v1.1]
+Mii de îngeri în văzduh sunt martori vii
+Când spre cruce Tatăl Său din cer n-a mai privit.
+Lacrimi cădeau din cer peste pământ,
+Când priveau spre Mielul Sfânt din Golgota.
+
+[v1.2]
+Un strigăt de sfârșit, pieptul Său cade frânt,
+Îngerii lacrima-n zbor și-o șterg,
+Spre tronul sfânt se-ndreaptă-acum în slavă, lângă Tatăl,
+Preamărind în cântec sfânt pe Fiul Său.
+
+[c]
+Aleluia, aleluia, sfânt e Mielul nostru,
+Dușmanu-a fost înfrânt!
+Aleluia, aleluia, salvarea e deplină,
+Isus a învins!
+
+[v2]
+Spre cer aș vrea să mă înalț, să cuprind întreg pământul,
+Jertfa Lui în imn preasfânt s-o cânt.
+Dacă-n cântul meu eu aș putea iubirea Lui cuprinde,
+Omenirea ar intona cântarea mea.
+
+[e]
+Salvarea e deplină, Isus a învins!
