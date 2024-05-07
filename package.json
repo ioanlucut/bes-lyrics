@@ -61,6 +61,7 @@
     "lint:fix": "eslint --ext .ts --fix .",
     "verify": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsTextValidator.ts",
     "verify:file-extensions": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsFileExtensionValidator.ts",
+    "verify:uniqueness-of-ids": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsIdUniquenessValidator.ts",
     "verify:similarity": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsSimilarityValidator.ts",
     "verify:similarity:mv": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsSimilarityValidator.ts --overwrite",
     "verify:similarity:rm": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsSimilarityValidator.ts --removeDuplicates",
@@ -71,7 +72,7 @@
     "import:rc:by-authors": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./temp-runners/importSongsFromRcByAuthors.ts",
     "import:rc:by-ids": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./temp-runners/importSongsFromRcByIds.ts",
     "import:rc:ci": "npm run import:rc:by-authors && npm run import:rc:by-ids && npm run reprocess:filename && npm run format",
-    "build:ci": "npm run lint && npm run test && npm run verify:file-extensions && npm run verify",
-    "meta:ci": "npm run verify:file-extensions && npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format"
+    "build:ci": "npm run lint && npm run test && npm run verify:file-extensions && npm run verify:uniqueness-of-ids && npm run verify",
+    "meta:ci": "npm run verify:file-extensions && npm run verify:uniqueness-of-ids && npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format"
   }
 }
