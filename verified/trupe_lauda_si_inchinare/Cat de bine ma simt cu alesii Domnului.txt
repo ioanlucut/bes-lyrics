@@ -1,5 +1,5 @@
 [title]
-Cât de bine mă simt cu aleșii Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74286}, id: {jiKDVJHadEAihVnTNHDgfx}, contentHash: {d7fd8d}}
+Cât de bine mă simt cu aleșii Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74286}, id: {jiKDVJHadEAihVnTNHDgfx}, contentHash: {9da126}}
 
 [sequence]
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
@@ -10,7 +10,7 @@ O, ce ^{Em}bine mă simt cu aleșii Domnului, ^{A}poporul minu^{D}nat!
 
 [c1.2]
 ^{D}Strălucesc fețele, cântă ^{D7}adunarea,
-^{G}Cerul stă și-as^^{Gm6}cultă cântarea.
+^{G}Cerul stă și-as^{Gm6}cultă cântarea.
 O, ^{D}ce bine mă simt cu aleșii Domnului!
 O, ce po^{A}por, ^{G}ce po^{D/A}por ^{A}minu^{D}nat!
 

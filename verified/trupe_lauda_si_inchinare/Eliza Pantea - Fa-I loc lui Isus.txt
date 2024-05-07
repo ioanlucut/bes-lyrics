@@ -1,5 +1,5 @@
 [title]
-Fă-I loc lui Isus {alternative: {*}, composer: {Eliza Pantea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {183503}, id: {jSG8FDoiN6jjYNB88GENEm}, contentHash: {1f45bc}}
+Fă-I loc lui Isus {alternative: {*}, composer: {Eliza Pantea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {183503}, id: {jSG8FDoiN6jjYNB88GENEm}, contentHash: {6e8bb4}}
 
 [sequence]
 v1,c,v2,c,b,e
@@ -12,7 +12,7 @@ v1,c,v2,c,b,e
 ^{Dm}În bucuria ^{Am}lor, ^{F}uită pe Mântui^{G}tor,
 Fă-I ^{C}loc lui I^{G}sus în ^{Am}inima ^{F}ta!
 ^{C}La u^{G}șă ^{Am}nu-L lă^{F}sa, ^{C}primește-L în ^{G}casa ^{Am F}ta.
-^{C}Fă-I ^{G}loc în inima ^^{F}ta /: Lui ^{C}Mesia! : /
+^{C}Fă-I ^{G}loc în inima ^{F}ta /: Lui ^{C}Mesia! : /
 
 [v2]
 Unii se veselesc, alții daruri primesc, este ziua Ta,

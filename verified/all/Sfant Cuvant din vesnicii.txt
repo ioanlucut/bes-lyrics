@@ -1,11 +1,11 @@
 [title]
-Sfânt Cuvânt din vecii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {244209}, id: {oy4LMyJ5xLxfvXzDKgyMho}, contentHash: {bd6c61}}
+Sfânt Cuvânt din vecii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {244209}, id: {oy4LMyJ5xLxfvXzDKgyMho}, contentHash: {1c0561}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-^^{B7}Sfânt Cu^{E}vânt ^{B}din ve^{E}cii ne con^{A}duci, ne sus^{B}ții,
+^{B7}Sfânt Cu^{E}vânt ^{B}din ve^{E}cii ne con^{A}duci, ne sus^{B}ții,
 Ini^{Cm#}ma lui ^{B/D#}Dumne^{E}zeu ne-a^{E/G£}răți în ^{A}versul ^{B4}tău ^{B}me^{E/-A/E-E/}reu.
 
 [v1.2]
