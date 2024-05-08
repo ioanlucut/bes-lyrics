@@ -1,5 +1,5 @@
 [title]
-Când încă nu eram, Te-ai gândit la mine {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7116}, id: {csBH1wvFc6raAE8tyB2JXW}, contentHash: {31d865}}
+Când încă nu eram, Te-ai gândit la mine {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7116}, id: {csBH1wvFc6raAE8tyB2JXW}, contentHash: {321b1a}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -25,5 +25,5 @@ Cred c-ai murit și-ai înviat să fiu și eu salvat.
 [v3]
 Cu dragoste prin jertfă m-ai mântuit,
 Iertat sunt de păcate și-s fericit.
-În legământ am spus: „Te voi urma în viață
+În legământ am spus: „Te voi urma în viață,
 Isus, ești Domnul meu ceresc, mă-nchin și Te slăvesc!”
