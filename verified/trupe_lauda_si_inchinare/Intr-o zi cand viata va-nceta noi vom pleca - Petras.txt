@@ -1,0 +1,25 @@
+[title]
+Într-o zi, când viața va-nceta, noi vom pleca {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {1BaEB3fx9SonkqQpZJZ1rr}, contentHash: {a96ff9}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Într-o zi, când viața va-nceta, noi vom pleca,
+Către malul mării de cristal, noi vom pleca.
+
+[c]
+/: Noi vom pleca în glorie, noi vom pleca,
+Într-o zi, nimeni nu ne va opri, noi vom zbura! :/
+
+[v2]
+Și cu drag în cer ne vom vedea, noi vom pleca,
+Sfărâmate lanțuri vor cădea, noi vom pleca.
+
+[v3]
+Umbra vieții când se va topi, noi vom zbura,
+Dezlegați, ca o pasăre vom fi, noi vom zbura.
+
+[v4]
+În curând spre ceruri vom porni, noi vom zbura,
+Unde numai bucurii vor fi, noi vom zbura.

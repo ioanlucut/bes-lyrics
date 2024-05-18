@@ -1,0 +1,17 @@
+[title]
+Da, chiar în curând vom vedea toți pe Regele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {j6QFBuPPhAy7VBmsEeixVc}, contentHash: {c3b85d}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Da, chiar în curând vom vedea toți pe Regele, (x3)
+Aleluia, aleluia, pe Rege Îl vom vedea!
+
+[v2]
+Lacrimi nu vor fi, vom vedea toți pe Regele, (x3)
+Aleluia, aleluia, pe Rege Îl vom vedea!
+
+[v3]
+Moarte nu va fi, vom vedea toți pe Regele, (x3)
+Aleluia, aleluia, pe Rege Îl vom vedea!

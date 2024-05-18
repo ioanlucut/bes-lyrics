@@ -1,35 +1,26 @@
 [title]
-Se cuvine să Te laud, Domnul meu {alternative: {*}, composer: {Mirel Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4449}, id: {o5jUmXThSQ6XTT2qm2CYG7}, contentHash: {5c1457}}
+Se cuvine să Te laud, Domnul meu {alternative: {*}, composer: {Mirel Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4449}, id: {o5jUmXThSQ6XTT2qm2CYG7}, contentHash: {cda3eb}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Se cuvine să Te laud,
-Domnul meu,
-Se cuvine să Te laud
-Tot mereu.
+Se cuvine să Te laud, Domnul meu,
+Se cuvine să Te laud tot mereu.
 
 [c]
 /: Sunt dator și se cuvine,
 Cine altul decât Tine,
-M-a iubit
-Și mă iubește tot mereu. :/
+M-a iubit și mă iubește tot mereu. :/
 
 [v2]
-Zi de zi vreau să Te laud,
-Domnul meu,
-Zi de zi vreau
-Să Te laud tot mereu.
+Zi de zi vreau să Te laud, Domnul meu,
+Zi de zi vreau să Te laud, tot mereu.
 
 [v3]
-În tot timpul să Te laud,
-Domnul meu,
-În tot timpul să Te laud
-Tot mereu.
+În tot timpul să Te laud, Domnul meu,
+În tot timpul să Te laud, tot mereu.
 
 [v4]
-Se cuvine să Te laud,
-Domnul meu,
-Sunt dator să Te laud
-Tot mereu.
+Se cuvine să Te laud, Domnul meu,
+Sunt dator ca să Te laud, tot mereu.
