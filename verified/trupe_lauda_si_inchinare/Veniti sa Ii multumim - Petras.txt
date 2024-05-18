@@ -10,11 +10,13 @@ Veniți să Îl preamărim,
 Pe Cel Atotputernic,
 Dumnezeu minunat! :/
 
-[c]
-Când sunt slab, El e tare,
+[c1.1]
+/: Când sunt slab, El e tare,
 Când sunt mic, El e mare,
 Zi de zi prezența Lui
 O simt în viața mea.
+
+[c1.2]
 De aceea acum să Îi cântăm,
 Al Său Nume să-nălțăm,
-Lui Isus să-I mulțumim cu toții! Veniți!
+Lui Isus să-I mulțumim cu toții! Veniți! :/
