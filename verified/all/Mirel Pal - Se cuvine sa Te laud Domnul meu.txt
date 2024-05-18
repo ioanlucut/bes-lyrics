@@ -1,5 +1,5 @@
 [title]
-Se cuvine să Te laud, Domnul meu {alternative: {*}, composer: {Mirel Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4449}, id: {o5jUmXThSQ6XTT2qm2CYG7}, contentHash: {5c1457}}
+Se cuvine să Te laud, Domnul meu {alternative: {*}, composer: {Mirel Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4449}, id: {o5jUmXThSQ6XTT2qm2CYG7}, contentHash: {cda3eb}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

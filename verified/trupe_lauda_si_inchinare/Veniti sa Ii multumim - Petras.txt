@@ -1,5 +1,5 @@
 [title]
-Veniți să Îi mulțumim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {kPqLcNiSeD8yjtmZVbMYcD}, contentHash: {f5f9ad}}
+Veniți să Îi mulțumim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {kPqLcNiSeD8yjtmZVbMYcD}, contentHash: {f7fecf}}
 
 [sequence]
 v1,c1.1,c1.2

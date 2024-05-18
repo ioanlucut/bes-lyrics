@@ -1,5 +1,5 @@
 [title]
-Da, chiar în curând vom vedea toți pe Regele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+Da, chiar în curând vom vedea toți pe Regele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {j6QFBuPPhAy7VBmsEeixVc}, contentHash: {c3b85d}}
 
 [sequence]
 v1,v2,v3
