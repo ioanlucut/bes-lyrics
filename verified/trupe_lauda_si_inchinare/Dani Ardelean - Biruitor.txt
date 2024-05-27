@@ -1,5 +1,5 @@
 [title]
-Biruitor {alternative: {*}, composer: {Dani Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {175967}, id: {2aHyv3KR1Ubc1ntAnRmoke}, contentHash: {c1ac0d}}
+Biruitor {alternative: {*}, composer: {Dani Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {175967}, id: {2aHyv3KR1Ubc1ntAnRmoke}, contentHash: {3cac42}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c
@@ -32,4 +32,4 @@ Că-n zori de zi ajunge-vom la mal!
 /: De-i lupta-ncrâncenată
 Și vin săgeți arzând,
 Nu tremur, nu mi-e teamă,
-Știu lângă cine lupt! :/ (3x)
+Știu lângă cine lupt! :/ (x3)
