@@ -1,0 +1,36 @@
+[title]
+Tu ai fost mereu de partea mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eU7w7KzRHAoYB9cD8twtmr}, contentHash: {4a3017}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3,c
+
+[v1.1]
+Tu ai fost mereu de partea mea,
+O, Domnul meu cel bun,
+Cetate de scăpare în care să m-ascund.
+
+[v1.2]
+Când valea umbrei morții reci ființa-mi chinuia,
+Schimbându-mi cursul sorții,
+Tu ai fost salvarea mea.
+
+[c]
+De-aceea Te laud, Domnul meu,
+De-aceea Te voi slăvi mereu!
+Ești mare, ești sfânt, ești bun, ești minunat!
+O, Domnul meu, fii binecuvântat!
+
+[v2.1]
+Doar Tu ai fost de partea mea
+Când toți m-au părăsit,
+Când gheara disperării mă sfâșia cumplit.
+
+[v2.2]
+În încercarea cea mai grea, doar Tu m-ai mângâiat
+Și m-ai luat în brațe, Părinte minunat!
+
+[v3]
+De n-ar fi fost dragostea Ta să spele-al meu păcat
+Cu sânge la Golgota, o, Miel nevinovat,
+Eram pentru vecii pierdut, dar Tu m-ai căutat,
+Iubire minunată, fii veșnic lăudat!

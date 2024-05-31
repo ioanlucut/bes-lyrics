@@ -1,0 +1,35 @@
+[title]
+Ești chema să fii sprijin la nevoie {alternative: {*}, composer: {Eldad Kids}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {voLfd7zfM3UdTXoVCrZoy3}, contentHash: {870f72}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+/: Ești chemat să fii sprijin la nevoie,
+Dăruind un zâmbet cald oricui e trist.
+Nu uita, un ne-nsemnat pahar de apă
+Nu va rămâne nicicând nerăsplătit! :/
+
+[c]
+/: Poți să fii o mână întinsă,
+O făclie ce stă mereu aprinsă,
+Luminând cărarea către Dumnezeu.
+Poți să ai o inimă mare,
+Să dăruiești o binecuvântare
+Zi de zi, oricărui om din jurul tău. :/
+
+[v2]
+/: Într-o lume ce e tot mai tulburată
+Dă din pacea ta celui îngrijorat!
+În inimă dragostea ți-a fost turnată
+Să iubești pe toți cum Tatăl ne-a-nvățat. :/
+
+[c2]
+Poți să fii o mână întinsă,
+O făclie ce stă mereu aprinsă,
+Luminând cărarea către Dumnezeu.
+Poți să ai o inimă mare,
+Să dăruiești o binecuvântare
+Zi de zi, oricărui om din jurul tău,
+Oricărui om din jurul tău,
+Oricărui om din jurul tău.

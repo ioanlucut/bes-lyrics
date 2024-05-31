@@ -1,0 +1,29 @@
+[title]
+În zare, spre noi se îndreaptă un ecou {alternative: {Treziți-vă azi cât încă e har}, composer: {Frații Sfara}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {paH5cDXkBGtyXRuzGotT4V}, contentHash: {e4c808}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În zare, spre noi se îndreaptă un ecou,
+E atât de aproape venirea!
+Azi Domnul ne cheamă, ne cheamă din nou,
+Curând va începe răpirea!
+
+[c]
+Treziți-vă azi cât încă e har,
+La noapte se poate să vină!
+Trezirea-ți târzie va fi în zadar,
+Acum ești chemat la lumină!
+
+[v2]
+Cetățile lumii sunt gata să cadă,
+Cel rău lovește mereu.
+Popoare întregi au căzut sub osândă,
+Păcatul apasă din greu.
+
+[v3]
+Mândria, minciuna domnește acum,
+Satan pregătește pieirea.
+Dar Domnul mai cheamă, oprește din drum,
+Veniți, e-aproape răpirea!
