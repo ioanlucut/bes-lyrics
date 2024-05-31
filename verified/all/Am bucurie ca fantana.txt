@@ -1,3 +1,4 @@
+[title]
 Am bucurie ca fântâna {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Școala Duminicală a BES}, genre: {*}, rcId: {*}, contentHash: {*}}
 
 [sequence]
