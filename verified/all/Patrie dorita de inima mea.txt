@@ -1,5 +1,5 @@
 [title]
-Patrie dorită de inima mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Patrie dorită de inima mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3LUq7uoSB4U7rF7zDLkiSo}, contentHash: {4bbc8b}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2
