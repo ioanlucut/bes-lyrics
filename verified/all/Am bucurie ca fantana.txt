@@ -1,0 +1,24 @@
+Am bucurie ca fântâna {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Școala Duminicală a BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Am bucurie ca fântâna, am bucurie ca fântâna,
+Am bucurie ca fântâna în inima mea. :/
+
+[v2]
+/: Eu am o pace ca o mare, eu am o pace ca o mare,
+Eu am o pace ca o mare în inima mea. :/
+
+[v3]
+/: Eu am iubire ca un fluviu, eu am iubire ca un fluviu,
+Eu am iubire ca un fluviu în inima mea. :/
+
+[v4]
+/: Fiindcă Isus este-n mine, fiindcă Isus este-n mine,
+Fiindcă Isus este-n mine, în inima mea. :/
+
+[v5]
+/: Am bucurie ca fântâna, pace ca o mare,
+Iubire ca un fluviu în inima mea. :/
