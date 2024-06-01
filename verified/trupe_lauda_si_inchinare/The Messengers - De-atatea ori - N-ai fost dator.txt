@@ -1,5 +1,5 @@
 [title]
-De-atâtea ori {alternative: {N-ai fost dator}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111602}, id: {mCnE9TYrrrqaKE9jy4yrsa}, contentHash: {c4fb26}}
+De-atâtea ori {alternative: {N-ai fost dator}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111602}, id: {mCnE9TYrrrqaKE9jy4yrsa}, contentHash: {ce7737}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2
