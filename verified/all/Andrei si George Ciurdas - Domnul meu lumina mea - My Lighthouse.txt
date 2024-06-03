@@ -1,5 +1,5 @@
 [title]
-Domnul meu, lumina mea {alternative: {My Lighthouse}, composer: {Rend Collective}, writer: {Naomi Borota, traducerea și adaptarea}, arranger: {*}, interpreter: {Andrei și George Ciurdaș}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {c6xFybBdzrFcptnLCVNNFw}, contentHash: {878d52}}
+Domnul meu, lumina mea {alternative: {My Lighthouse}, composer: {Rend Collective}, writer: {Naomi Borota}, arranger: {*}, interpreter: {Andrei și George Ciurdaș}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {c6xFybBdzrFcptnLCVNNFw}, contentHash: {5bb1f6}}
 
 [sequence]
 v1.1,v1.2,c,v2,b,c

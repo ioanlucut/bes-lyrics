@@ -1,5 +1,5 @@
 [title]
-Chiar dacă munții {alternative: {*}, composer: {Diana Scridon}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {210581}, id: {mSrCgCUxHZWWxjJZe36LWE}, contentHash: {ddea49}}
+Chiar dacă munții {alternative: {*}, composer: {Diana Scridon}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {210581}, id: {mSrCgCUxHZWWxjJZe36LWE}, contentHash: {713379}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

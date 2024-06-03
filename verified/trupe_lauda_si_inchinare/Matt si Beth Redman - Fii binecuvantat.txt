@@ -1,5 +1,5 @@
 [title]
-Fii binecuvântat! {alternative: {*}, composer: {Matt și Beth Redman}, writer: {*}, arranger: {Marry Parks}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66232}, id: {ahELdKi2WUCEGNKDEP8BL1}, contentHash: {d206f6}}
+Fii binecuvântat! {alternative: {*}, composer: {Matt și Beth Redman}, writer: {*}, arranger: {Marry Parks}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66232}, id: {ahELdKi2WUCEGNKDEP8BL1}, contentHash: {7b062b}}
 
 [sequence]
 v1.1,v1.2,p,c,v2.1,v2.2,v2.3,p,c,b,b,c2,e
