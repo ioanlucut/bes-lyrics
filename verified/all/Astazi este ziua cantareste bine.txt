@@ -5,28 +5,28 @@ Astăzi este ziua, cântărește bine! {alternative: {*}, composer: {*}, writer:
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-Astăzi este ziua, cântărește bine!
-Vezi cum stai cu Dumnezeu,
+Astăzi este ziua, cântărește bine,
+Vezi cum stai cu Dumnezeu!
 Dacă ai uleiul, candela ți-e plină,
 Verifică, dragul meu!
 
 [v1.2]
 Haina ți-e încinsă, ai încălțămintea,
 Duhul adevărului?
-Căci se-aud-n zare lupte, zgomot mare,
+Căci se-aud în zare lupte, zgomot mare,
 Care prevestesc:
 
 [c]
 /: Vine Isus! Vine Isus!
-Mai e puțin și zice-vom deplin
+Mai e puțin și zice-vom deplin:
 Vine Isus! Vine Isus!
 Și vom zbura spre-un cer senin. :/
 
 [v2.1]
-Domnul îți vorbește: „Azi te pregătește,
-Ceasul este pe sfârșit.
-Stai în rugăciune, jertfe, fapte bune
-Să fii aur curățit!”
+Domnul îți vorbește: Azi te pregătește,
+Ceasul este pe sfârșit!
+Stai în rugăciune, jertfe, fapte bune,
+Să fii aur curățit!
 
 [v2.2]
 Strânge în hambare lacrimi și sudoare,
@@ -38,7 +38,7 @@ Care prevestesc:
 Priveghează, turmă, că-n vremea din urmă
 Vor fi glasuri de-amăgire,
 Dacă-i cu putință să strice-n credință
-Chiar poporul cel ales.
+Chiar poporul cel ales!
 
 [v3.2]
 Cere, dar, putere, să ai înfiere
