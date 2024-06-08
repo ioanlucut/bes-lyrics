@@ -1,30 +1,30 @@
 [title]
-Sunt străjerul care strigă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74496}, id: {994j5x3taqjNZqR1bKQxeQ}, contentHash: {aee71d}}
+Sunt străjerul care strigă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74496}, id: {994j5x3taqjNZqR1bKQxeQ}, contentHash: {fab283}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
 Sunt străjerul care strigă,
-Glasul meu răsună astăzi pentru voi.
+Glasul meu răsună astăzi pentru voi:
 S-aveți candela aprinsă
 Și talanții-acuma să vi-i pregătiți.
 
 [v1.2]
 Nu mai este mult din noapte
-Și Luceafărul pe cer va răsări
+Și Luceafărul pe cer va răsări.
 Strig acum întâia oară:
 Ascultați-mă, din somn să vă treziți!
 
 [c]
-/: Vine Domnul, vine iarăși,
-Vine iar Acela ce ne-a mântuit.
-Vine Domnul, vine iarăși
-Să ne ia și să ne ducă sus în cer. :/
+/: Vine Domnul, vine iară,
+Vine iar Acela ce ne-a mântuit!
+Vine Domnul, vine iară
+Să ne ia și să ne ducă sus în cer! :/
 
 [v2.1]
 Glasul meu răsună-n noapte,
-Să audă-l vreau creștinii peste tot:
+Să-l audă vreau creștinii peste tot:
 Iată, Împăratul vine,
 Pașii Lui se-aud mai clar în depărtări.
 

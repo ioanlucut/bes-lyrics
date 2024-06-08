@@ -1,0 +1,32 @@
+[title]
+Aduceți ca jertfă mulțumiri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {wWzeVqQwkw5PeEd571XcRv}, contentHash: {58f25c}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Aduceți ca jertfă mulțumiri!
+În veci e-a Lui iubire,
+El stăpânește peste-ntreg pământ,
+În veci e-a Lui iubire,
+Cântați laude, cântați laude!
+
+[v2]
+Cu brațul Lui, El ne-a condus,
+În veci e-a Lui iubire.
+El e viața cea de sus,
+În veci e-a Lui iubire,
+Cântați laude, cântați laude!
+
+[c]
+/: În veci El e puternic,
+În veci e credincios,
+În veci cu noi rămâne,
+În veci de veci, în veci! :/
+
+[v3]
+Din zorii zilei până la apus
+În veci e-a Lui iubire.
+Purta-vom mesajul iubirii de sus,
+În veci e-a Lui iubire,
+Cântați laude, cântați laude!
