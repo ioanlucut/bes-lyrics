@@ -1,0 +1,24 @@
+[title]
+El e Domn, El e Domn {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+
+[v1]
+El e Domn, El e Domn,
+El e Domnul vieții noastre, El e Domn,
+/: Toți se vor pleca, vor mărturisi:
+Isus Hristos e Domn! :/
+
+[v2]
+El e Domn, El e Domn,
+El la cer S-a înălțat și este Domn.
+/: Toți se vor pleca, vor mărturisi:
+Isus Hristos e Domn! :/
+
+[v3]
+El e Domn, El e Domn,
+El cu slavă va veni căci este Domn.
+/: Toți se vor pleca, vor mărturisi:
+Isus Hristos e Domn! :/
