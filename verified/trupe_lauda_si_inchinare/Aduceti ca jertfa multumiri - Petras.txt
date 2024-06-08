@@ -1,5 +1,5 @@
 [title]
-Aduceți ca jertfă mulțumiri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+Aduceți ca jertfă mulțumiri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {wWzeVqQwkw5PeEd571XcRv}, contentHash: {58f25c}}
 
 [sequence]
 v1,v2,c,v3,c

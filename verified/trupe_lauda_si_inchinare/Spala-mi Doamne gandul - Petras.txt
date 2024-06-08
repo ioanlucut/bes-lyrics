@@ -1,5 +1,5 @@
 [title]
-Spală-mi, Doamne, gândul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+Spală-mi, Doamne, gândul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {bCr1T3zjo9TC6EsQhnvMda}, contentHash: {8754fa}}
 
 [sequence]
 v1,v2,v3
@@ -9,7 +9,6 @@ Spală-mi, Doamne, gândul, spală-mi, Doamne, viața,
 Vreau să fiu curat și plăcut în fața Ta!
 Numai Tu urci zorii și împrăștii ceața,
 Numai Tu ești scutul și răsplata mea.
-
 
 [v2]
 Spală-mi, Doamne, gândul, spală-mi, Doamne, viața,

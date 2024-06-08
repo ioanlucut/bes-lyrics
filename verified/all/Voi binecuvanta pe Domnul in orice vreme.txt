@@ -1,5 +1,5 @@
 [title]
-Voi binecuvânta pe Domnul în orice vreme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oYziNwp6UWYRxgqHRGHZ4Q}, contentHash: {9e3524}}
+Voi binecuvânta pe Domnul în orice vreme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oYziNwp6UWYRxgqHRGHZ4Q}, contentHash: {cc4d88}}
 
 [sequence]
 v1,v2,v3

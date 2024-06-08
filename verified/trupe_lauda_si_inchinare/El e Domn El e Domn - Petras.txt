@@ -1,9 +1,8 @@
 [title]
-El e Domn, El e Domn {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+El e Domn, El e Domn {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {5pGu9UYGmt9NGAwZF6Cn9x}, contentHash: {e3213e}}
 
 [sequence]
 v1,v2,v3
-
 
 [v1]
 El e Domn, El e Domn,
