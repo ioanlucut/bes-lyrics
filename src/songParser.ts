@@ -1,15 +1,16 @@
-import { isEqual } from 'lodash-es';
-import { COMMA, EMPTY_STRING, UNSET_META } from './constants.js';
+import { first, isEqual } from 'lodash-es';
+import { COMMA, DOT, EMPTY_STRING, UNSET_META } from './constants.js';
 import {
   assertUniqueness,
   computeUniqueContentHash,
+  getCharWithoutMarkup,
   getMetaSectionsFromTitle,
   getSongInSectionTuples,
   getTitleWithoutMeta,
   getUniqueId,
   multiToSingle,
 } from './core.js';
-import { SongAST, SongSection } from './types.js';
+import { SequenceChar, SongAST, SongSection } from './types.js';
 
 /**
  * Parses the content of a song to its basic AST structure.
@@ -51,8 +52,21 @@ export const parse = (
     const sectionContent = sectionTuples[sectionIndex + 1];
     const sectionIdentifier = sectionTuples[sectionIndex] as string;
 
+    const maybeSectionSequenceType = first(
+      getCharWithoutMarkup(sectionIdentifier)
+        .replaceAll('[^a-zA-Z0-9 -]', EMPTY_STRING)
+        .replace(DOT, EMPTY_STRING),
+    ) as SequenceChar;
+
+    const sectionSequenceType = Object.values(SequenceChar).includes(
+      maybeSectionSequenceType,
+    )
+      ? maybeSectionSequenceType
+      : (EMPTY_STRING as SequenceChar);
+
     songAST.sectionsMap[sectionIdentifier] = {
       sectionIdentifier,
+      sectionSequenceType,
       content: sectionContent,
     };
 

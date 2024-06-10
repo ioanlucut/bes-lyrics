@@ -7,6 +7,7 @@ node_modules/
 **/*.log
 **/*.out
 **/*.thm
+**/*.xdv
 /.idea/aws.xml
 /.idea/cssdialects.xml
 /.idea/nx-console.xml

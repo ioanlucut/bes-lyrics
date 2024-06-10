@@ -13,9 +13,9 @@ import {
   COMMA,
   DOT,
   DOUBLE_LINE_TUPLE,
-  EMPTY_SPACE,
-  NEW_LINE_TUPLE,
+  NEW_LINE,
   NULL,
+  SPACE_CHAR,
 } from './constants.js';
 import {
   assertUniqueness,
@@ -50,7 +50,7 @@ const getContentAndSequenceSplitInSubSections = (
       subSectionSequence.push(subSectionIdentifier);
 
       return [getCharWithMarkup(subSectionIdentifier), subSections[index]].join(
-        NEW_LINE_TUPLE,
+        NEW_LINE,
       );
     }),
   ).join(DOUBLE_LINE_TUPLE);
@@ -79,7 +79,7 @@ const getContentAndSequenceUnSplit = (
   const updatedSongSectionContent = [
     identifierWitMarkup,
     songSectionContent,
-  ].join(NEW_LINE_TUPLE);
+  ].join(NEW_LINE);
 
   const updatedSequence = existingSequence.map((sequenceIteratee) => {
     if (isEqual(sequenceIteratee, verseSongSectionIdentifierWithoutMarkup)) {
@@ -167,9 +167,7 @@ export const print = ({
     // ---
     // If no split is required
     if (!hasContentThatCouldBeSubSections) {
-      return [verseSongSectionIdentifier, songSectionContent].join(
-        NEW_LINE_TUPLE,
-      );
+      return [verseSongSectionIdentifier, songSectionContent].join(NEW_LINE);
     }
 
     // ---
@@ -199,7 +197,7 @@ export const print = ({
   ) =>
     songMetaContent
       ? [songMetaKey, withMetaMarkup(songMetaContent)].join(
-          `${COLON}${EMPTY_SPACE}`,
+          `${COLON}${SPACE_CHAR}`,
         )
       : NULL;
 
@@ -221,17 +219,15 @@ export const print = ({
       printSongMetaContentIfTruthy(SongMeta.CONTENT_HASH, contentHash),
     ]
       .filter(Boolean)
-      .join(`${COMMA}${EMPTY_SPACE}`),
+      .join(`${COMMA}${SPACE_CHAR}`),
   );
   // ---
   // Reassemble the song
   const flattenContent = flatten([
-    [SongSection.TITLE, [title, metaSection].join(EMPTY_SPACE)].join(
-      NEW_LINE_TUPLE,
-    ),
-    [SongSection.SEQUENCE, newSequence.join(COMMA)].join(NEW_LINE_TUPLE),
+    [SongSection.TITLE, [title, metaSection].join(SPACE_CHAR)].join(NEW_LINE),
+    [SongSection.SEQUENCE, newSequence.join(COMMA)].join(NEW_LINE),
     songBodySections,
   ]).join(DOUBLE_LINE_TUPLE);
 
-  return `${trim(flattenContent)}${NEW_LINE_TUPLE}`;
+  return `${trim(flattenContent)}${NEW_LINE}`;
 };
