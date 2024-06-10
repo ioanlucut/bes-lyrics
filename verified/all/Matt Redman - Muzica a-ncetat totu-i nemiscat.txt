@@ -6,9 +6,9 @@ v1,p,c,v2,p,c
 
 [v1]
 ^{D}Muzica a-nce^{A}tat, totu-i nemiș^{Em7}cat,
-Dar eu vin spre ^{Asus A}Tin’!
+Dar eu vin spre ^{Asus-A}Tin’!
 ^{D}Doamne, m-a du^{A}rut tot ce n-am fă^{Em7}cut
-Voia să-Ți as^{Asus A}cult.
+Voia să-Ți as^{Asus-A}cult.
 
 [p]
 ^{Em}Mai mult de-un ^{D/F#}cântec Ți-a^{A}duc,

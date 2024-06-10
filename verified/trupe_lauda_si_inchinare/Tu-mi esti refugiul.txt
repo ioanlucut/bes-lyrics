@@ -7,7 +7,7 @@ v1.1,v1.2,c,v2,c
 [v1.1]
 ^{D}Tu-mi ești ^{A}refugiul când sunt ^{Bm}slab,
 Tu ești scă^{D/F#}parea ce o ^{G2}am,
-Tu ești în ^{A4}toa{A}te ^{D}Domn. ^{A4 A}
+Tu ești în ^{A4}toa{A}te ^{D}Domn. ^{A4} ^{A}
 
 [v1.2]
 ^{D}Mâna-mi în^{A}tinzi atunci când ^{Bm}cad,
@@ -16,7 +16,7 @@ Tu ești în ^{A4}toa^{A}te ^{D}Domn.
 
 [c]
 /: ^{D}I^{A}sus, ^{Bm}Miel ^{A/C#}prea^{D}sfânt,
-^{G}Ție ^{D/A}mă ^{A7}în^{D}chin ^{A4 A}.
+^{G}Ție ^{D/A}mă ^{A7}în^{D}chin ^{A4} ^{A}.
 ^{D}I^{A}sus, ^{Bm}Miel ^{A/C#}prea^{D}sfânt,
 ^{G}Dumne^{D/A}zeu ^{A7}di^{D}vin. :/
 

@@ -12,7 +12,7 @@ Bun și-ndură^{Em}tor, din ^{D}cer ne as^{A}cultă.
 
 [p]
 Către El noi ^{D/F#}vom pri^{Gmaj9}vi,
-Ochii ni vom ^{Em7}a^{D}țin{A}ti.
+Ochii ni vom ^{Em7}a^{D}țin^{A}ti.
 
 [c]
 ^{D}Cetate tare-i Dumne^{G}zeu,
@@ -35,4 +35,4 @@ Inimile ^{D/F#}vom lă^{G}sa cuprinse de iu^{Em7}birea ^{A4}Sa.
 ^{Em}Căci veșnic ^{Bm/D}vei împără^{A}ți,
 ^{Em}Cu Tine, ^{Bm/D}Doamne, vom dom^{A}ni,
 ^{Bm}Noi știm că Dom^{A/C#}nul ^{D}Dumnezeu
-E-un foc mistui^{Em}tor, o ^{D}flacără {A}sfântă. ^{D}
+E-un foc mistui^{Em}tor, o ^{D}flacără ^{A}sfântă. ^{D}

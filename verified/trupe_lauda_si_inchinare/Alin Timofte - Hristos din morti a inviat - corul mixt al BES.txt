@@ -10,7 +10,7 @@ v1,p,c,v2,p2,c2,e
 
 [p]
 ^{Bm}Se-ntărâtă oa^{D}menii, se-nspăimântă demo^{A}nii,
-^{D}Printre bice-n{Em/D}sânge^{Em}rat,
+^{D}Printre bice-n ^{Em/D}sânge^{Em}rat,
 Ochii Săi au ^{D/F#}lumi^{G}nat.
 Cine oare a ^{Bm}știut că acel sărman ^{D}bătut e ^{Bm7/E-E}Isus?
 

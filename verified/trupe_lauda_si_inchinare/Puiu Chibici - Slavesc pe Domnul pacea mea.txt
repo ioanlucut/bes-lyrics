@@ -12,7 +12,7 @@ v1,c,v2,c,v3,c,v4,c,b,c
 
 [c]
 ^{A}Domnul este de ^{B}partea ^{B7}mea,
-^{B}Nu mă tem de nici^{A/B}un ^{A/E E}rău,
+^{B}Nu mă tem de nici^{A/B}un ^{A/E} ^{E}rău,
 ^{A}Numele Lui îl voi ^{B}înăl^{B7}ța,
 ^{B}Nume ^{G#m/B}sfânt ^{B9}de ^{G#m/B}Dum^{B7}ne^{E}zeu.
 

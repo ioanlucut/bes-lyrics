@@ -6,7 +6,7 @@ v1,c,v2,c,v3,c
 
 [v1]
 ^{G}Cineva se-ngri^{C}jește de ^{G}mine ^{Am/G}me^{G}reu!
-Nu-i de^{G/D}loc întâmpla{D7}rea, e-al ^{Am/G}meu Dum^{C/G}ne^{G}zeu.
+Nu-i de^{G/D}loc întâmpla^{D7}rea, e-al ^{Am/G}meu Dum^{C/G}ne^{G}zeu.
 Zilnic ^{G}toarnă a^{C}supra mea ^{G}daruri ^{Am7}din ^{G/B}plin,
 Mulțu^{D7}mire-I aduc și mă-n^{G-C/G-G7}chin.
 

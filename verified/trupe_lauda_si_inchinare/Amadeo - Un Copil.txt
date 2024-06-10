@@ -21,5 +21,5 @@ El, Dumnezeul nevăzut, S-a făcut azi cunoscut.
 A venit din veșnicii să ne aducă bucurii.
 
 [v3]
-^{Bm}Plăcerea ^{G}Lui va fi ^{D}mereu frica ^{A}de ^{Bm}Dumne^{G}zeu^{D A}.
-^{Bm}Și Duhul ^{G}Domnului cel ^{D}Sfânt se va ^{A}odihni în ^{Bm}El.^{G D A}
+^{Bm}Plăcerea ^{G}Lui va fi ^{D}mereu frica ^{A}de ^{Bm}Dumne^{G}zeu^{D-A}.
+^{Bm}Și Duhul ^{G}Domnului cel ^{D}Sfânt se va ^{A}odihni în ^{Bm}El.^{G-D-A}

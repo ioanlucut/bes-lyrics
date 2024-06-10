@@ -34,7 +34,7 @@ Isus ți-a dat și ție un dar, deci fii folositor.
 /: Și ^{A}ce-ar folosi unui ^{E}om să câștige?
 ^{B7}Chiar toată lumea ^{C#m}de i se ^{B/S#}va ^{E}da,
 ^{E7}De ^{A}nu ar avea el ^{E}sufletul curat,
-^{F#m}Ar fi pe ^{A}veci pier^{E/B}dut și ^{b7}lepă^{E}dat, :/ ^{a doua oară modulație}
+^{F#m}Ar fi pe ^{A}veci pier^{E/B}dut și ^{b7}lepă^{E}dat, :/
 ^{F#m}Ar fi pe ^{A}veci pier^{E/B}dut și lepă^{B7}dat. ^{C#}
 
 [e]

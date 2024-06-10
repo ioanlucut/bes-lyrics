@@ -8,7 +8,7 @@ v1.1,v1.2,c,v2,c,c2,b,c,e
 ^{G}În acea zi, când boldul morții
 ^{Em}A fost frânt sub crucea lui Isus,
 Cutre^{D}murat, tot ^{C}ceru-ntreg
-^{G-C-D Bm-C-D}S-a-ntunecat.
+^{G-C-D} ^{Bm-C-D}S-a-ntunecat.
 
 [v1.2]
 ^{G}Fruntea Lui purta coroana

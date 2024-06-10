@@ -5,7 +5,7 @@ Cât de bine mă simt cu aleșii Domnului {alternative: {*}, composer: {*}, writ
 c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [c1.1]
-{D}Cât de bine mă simt cu aleșii Domnului, poporul minu^{A}nat!
+^{D}Cât de bine mă simt cu aleșii Domnului, poporul minu^{A}nat!
 O, ce ^{Em}bine mă simt cu aleșii Domnului, ^{A}poporul minu^{D}nat!
 
 [c1.2]

@@ -6,15 +6,15 @@ v1,c,v2,c
 
 [v1]
 ^{C}Cum do^{G/B}rește un ^{Am}cerb iz^{C/G}vor de apă
-A^{F}șa eu ^{Gsus G}Te do^{C}resc. ^{F2 Gsus-G}
+A^{F}șa eu ^{Gsus-G}Te do^{C}resc. ^{F2} ^{Gsus-G}
 ^{C}Tu ești ^{G/B}singura ^{Am}mea do^{C/G}rință,
-Să Te ^{F2}laud ^{Gsus G}eu tân^{C}jesc.
+Să Te ^{F2}laud ^{Gsus-G}eu tân^{C}jesc.
 
 [c]
 /: ^{Am}Tu ești ^{Am/G}scut și tă^{F}ria ^{C2/E}mea
 Și ^{F}Ție-Ți dau toa^{C/E}tă ^{Dm7}ini^{Esus-E}ma,
 ^{C}Tu ești ^{G/B}singura ^{Am}mea do^{G/C}rință,
-Să Te ^{F2}laud ^{Gsus G}eu tân^{C}jesc. :/
+Să Te ^{F2}laud ^{Gsus-G}eu tân^{C}jesc. :/
 
 [v2]
 Sufletul meu Te caută zi și noapte, ești Dumnezeul viu,

@@ -11,8 +11,8 @@ c,v1,c,v2,c,v3,c,e
 Dar parcă ^{D}toate au tăcut mor^{A}mânt. :/
 
 [c]
-^{Bm}Ea e dragostea, ce fericire {G}dă
-/: Și-un sens în viața ^{D}noas{(A)}tră. :/
+^{Bm}Ea e dragostea, ce fericire ^{G}dă
+/: Și-un sens în viața ^{D}noas^{A}tră. :/
 ^{Bm}Nu se mânie, nu se lau^{G}dă,
 /: Nimic în schimb nu o să ^{D}cea^{(A)}ră. :/
 
@@ -29,6 +29,6 @@ Când toate vor vedea sfârșitul.
 Ea, dragostea, va domni în veșnicie.
 
 [e]
-Dragos^{Bm G}Bmtea,
+Dragos^{Bm-G}Bmtea,
 /: Nimic nu o să ^{D}cea^{(A)}ră, :/
 Dragos^{Bm}tea!

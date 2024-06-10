@@ -1,3 +1,4 @@
+import chalk from 'chalk';
 import { isEmpty, isEqual, trim } from 'lodash-es';
 import {
   COMMA,
@@ -7,7 +8,7 @@ import {
   SPACE_CHAR,
   UNSET_META,
 } from './constants.js';
-import { padForTex } from './core.js';
+import { isTestEnv, padForTex } from './core.js';
 import { SequenceChar, SongAST } from './types.js';
 
 const LEADSHEET_ENV_MAP = {
@@ -28,6 +29,33 @@ const getSongContentWithRightPadding = (entireContent: string) =>
 const wrapAsStart = (songEnvironment: string) => `\\begin{${songEnvironment}}`;
 
 const wrapAsEnd = (songEnvironment: string) => `\\end{${songEnvironment}}`;
+
+const warnIfIsNotProperlyPrependedAndReplace = (singleWord: string): string => {
+  const maybeRegExpMatchArrays = Array.from(
+    singleWord.matchAll(/(?<!\^)\{/gim),
+  );
+
+  if (isEmpty(maybeRegExpMatchArrays)) {
+    return singleWord;
+  }
+  if (!isTestEnv()) {
+    console.warn(`The ${chalk.red(singleWord)} is not correct.`);
+  }
+
+  return singleWord.replaceAll(/(?<!\^)\{/gim, '^{');
+};
+
+const warnIfIsNotProperlyFormatted = (singleWord: string): string => {
+  const maybeRegExpMatchArrays = Array.from(
+    singleWord.matchAll(/\^\{\s*[^}]*\s+[^}]*\s*}/gim),
+  );
+
+  if (isEmpty(maybeRegExpMatchArrays)) {
+    return singleWord;
+  }
+
+  throw new Error(`The ${chalk.red(singleWord)} is not correct.`);
+};
 
 const rewriteWordWithRightMusicalNotationSyntaxIfNeeded = (
   singleWord: string,
@@ -69,7 +97,7 @@ const rewriteNotationsWithDashForChordsWithBass = (
   singleWord: string,
 ): string => {
   const maybeRegExpMatchArrays = Array.from(
-    singleWord.matchAll(/\^\{.*\/\w+}/gim),
+    singleWord.matchAll(/\^\{.*\/.*}/gim),
   );
 
   if (isEmpty(maybeRegExpMatchArrays)) {
@@ -83,8 +111,10 @@ export const getNormalizedContent = (sectionAsContent: string) => {
   return sectionAsContent
     .split(/\n/g)
     .map((verseLineOfARow: string) =>
-      verseLineOfARow
+      warnIfIsNotProperlyFormatted(verseLineOfARow)
         .split(/ /gi)
+        .map(warnIfIsNotProperlyPrependedAndReplace)
+        .map(warnIfIsNotProperlyFormatted)
         .map(rewriteWordWithRightMusicalNotationSyntaxIfNeeded)
         .map(rewriteNotationsWithDashForChordsWithBass)
         .join(SPACE_CHAR),

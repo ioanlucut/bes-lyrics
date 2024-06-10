@@ -18,7 +18,7 @@ Glorie ^{F/Dm}Lui și pace-n ^{C}dar!
 
 [v2]
 Dar azi eu fruntea mi-am ple^{Dm}cat,
-^{Bb}E lumea plină de ^{F C}păcat.
+^{Bb}E lumea plină de ^{F-C}păcat.
 ^{C}Nu e nici pace, nu-i ^{Dm}nici cânt,
 ^{C}Nu-i bucurie pe pă^{F-C}mânt.
 
@@ -30,6 +30,6 @@ Da, vom ^{C}trăi!
 
 [v3]
 Un Prunc din slăvi trimis, ^{Dm}să știi,
-^{Bb}El a făcut din noapte ^{F C}zi,
+^{Bb}El a făcut din noapte ^{F-C}zi,
 Un cântec ăentru cel ^{Dm}salvat,
 ^{Bb}Au pace cei ce l-au ^{F-C}aflat.

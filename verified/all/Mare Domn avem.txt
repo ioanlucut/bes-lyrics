@@ -5,9 +5,9 @@ Mare Domn avem {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, int
 v1,c,v2,c
 
 [v1]
-/: ^{G}Mare ^{Bm}Domn a^{C (C-D)}vem,
-^{G}Mare ^{Bm}Dumne^{C (C-D)}zeu,
-^{G}Mare ^{Bm}Împă^{C (C-D)}rat, ^{Em}pe toate ^{D}le-ai cre^{G}at. :/
+/: ^{G}Mare ^{Bm}Domn a^{C-D}vem,
+^{G}Mare ^{Bm}Dumne^{C-D}zeu,
+^{G}Mare ^{Bm}Împă^{C-D}rat, ^{Em}pe toate ^{D}le-ai cre^{G}at. :/
 
 [v2]
 /: Glorie Domnului, glorie numai Lui,

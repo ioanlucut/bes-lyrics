@@ -6,7 +6,7 @@ v1,v2,v3,v4,v5
 
 [v1]
 ^{E}S-a născut pe pământ un Mântui^{E7}tor
-^{A}E Isus, ^{E}Pruncul Sfânt, ^{F (B7)}Domn triumfă^{B (E)}tor.
+^{A}E Isus, ^{E}Pruncul Sfânt, ^{F-B7}Domn triumfă^{B-E}tor.
 
 [v2]
 Au venit cei trei magi și s-au închinat,
