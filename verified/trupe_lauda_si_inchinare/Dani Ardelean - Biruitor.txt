@@ -32,7 +32,7 @@ Că-n zori de zi ajunge-vom la mal!
 /: ^{Em}De-i lupta-ncrâncenată
 ^{D/B}Și vin săgeți arzând,
 ^{D}Nu tremur, nu mi-e teamă,
-{A}Știu lângă cine lupt! :/ (3x)
+^{A}Știu lângă cine lupt! :/ (3x)
 
 [b2]
 ^{Em}De-i lupta-ncrâncenată

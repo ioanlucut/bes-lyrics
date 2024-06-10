@@ -13,7 +13,7 @@ Pu^{D/A}tere noi pri^{A}mim când în ^{D/A}El nădăj^{A}duim.
 
 [c]
 ^{A/C#}Ești ^{D}Domn ^{A/C#}pe ^{D}veci ^{E}în ^{F#m}ce^{E}ruri,
-{A/C#}Al ^{D}nost’ {A/C#}Mân^{D}tu^{E}i^{F#m}tor! ^{E}
+^{A/C#}Al ^{D}nost’ {A/C#}Mân^{D}tu^{E}i^{F#m}tor! ^{E}
 
 [v2]
 ^{A}Tu ești Eternul Dum^{D}nezeu, ^{D}ești veșnic Dum^{F#m}nezeu.

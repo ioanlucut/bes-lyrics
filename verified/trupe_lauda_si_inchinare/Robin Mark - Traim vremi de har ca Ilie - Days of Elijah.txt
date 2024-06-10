@@ -37,4 +37,4 @@ Suntem lucrătorii din via Ta, Doamne, cuvântul divin proclamând.
 
 [b1.2]
 ^{G}Nimeni nu este ca Tine! ^{C}Nimeni nu este ca Tine!
-{G}Nimeni nu este ca Ti^{D///}ne!
+^{G}Nimeni nu este ca Ti^{D///}ne!

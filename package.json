@@ -73,6 +73,11 @@
     "import:rc:by-ids": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./import-songs-temp-runners/importSongsFromRcByIds.ts",
     "import:rc:ci": "npm run import:rc:by-authors && npm run import:rc:by-ids && npm run reprocess:filename && npm run format",
     "build:ci": "npm run lint && npm run test && npm run verify:file-extensions && npm run verify:uniqueness-of-ids && npm run verify",
-    "meta:ci": "npm run verify:file-extensions && npm run verify:uniqueness-of-ids && npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format"
+    "meta:ci": "npm run verify:file-extensions && npm run verify:uniqueness-of-ids && npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format",
+    "leadsheets:clean:aux": "latexmk -xelatex -quiet -output-directory=./convert-songs-to-tex/ ./convert-songs-to-tex/bes-songbook.tex -c",
+    "leadsheets:clean:all": "latexmk -xelatex -quiet -output-directory=./convert-songs-to-tex/ ./convert-songs-to-tex/bes-songbook.tex -C",
+    "leadsheets:compile": "npm run leadsheets:clean:all && latexmk -pdf -xelatex -quiet -interaction=nonstopmode -output-directory=./convert-songs-to-tex/ ./convert-songs-to-tex/bes-songbook.tex -gg -f",
+    "leadsheets:compile:watch": "npm run leadsheets:clean:all && latexmk -pdf -xelatex -quiet -interaction=nonstopmode -output-directory=./convert-songs-to-tex/ ./convert-songs-to-tex/bes-songbook.tex --preview -gg -f",
+    "leadsheets:dist": "npm run leadsheets:clean:all && npm run leadsheets:compile"
   }
 }

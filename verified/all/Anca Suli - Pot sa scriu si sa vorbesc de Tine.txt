@@ -5,7 +5,7 @@ Pot să scriu și să vorbesc de Tine {alternative: {*}, composer: {Anca Suli}, 
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-{G}Pot să scriu și ^{D/F#}să vorbesc de ^{Em}Tine,
+^{G}Pot să scriu și ^{D/F#}să vorbesc de ^{Em}Tine,
 Despre ^{C}tot ce Tu ai ^{Am}spus și ai fă^{D}cut,
 Cum cu ^{G}pâini și pești ai ^{D/F#}săturat mulți^{Em}mea
 Și în ^{C}dragoste pe ^{Am}cruce ne-ai năs^{D}cut.

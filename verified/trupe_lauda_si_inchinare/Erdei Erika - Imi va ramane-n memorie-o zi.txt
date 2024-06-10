@@ -18,7 +18,7 @@ Cum {A}Domnul meu m-a mântu^{D}it! ^{A7}
 
 [c]
 /: ^{D}Glorii din ^{D/B}cer în ^{Em}mine ^{A7}s-au revăr^{D}sat
-{D}Când, la Cal^{D/m}var, I^{Em}sus m-a ^{A7}elibe^{D}rat.
+^{D}Când, la Cal^{D/m}var, I^{Em}sus m-a ^{A7}elibe^{D}rat.
 ^{Em}Povara mi s-a ^{G}dus prin ^{A}harul lui ^{D-A}Isus,
 ^{D}Glorii din ^{D/Bm}cer în ^{Em}mine s-au ^{A7}revăr^{D}sat. :/
 
