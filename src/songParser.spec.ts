@@ -138,8 +138,8 @@ describe('Song parser', () => {
     });
 
     it('should parse a song (w/o correct ID) correctly', () => {
-      expect(parse(SIMPLE_SONG_WO_ID__MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(parse(SIMPLE_SONG_WO_ID__MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 {
   "alternative": "alternative 1; alternative 2",
   "arranger": "arranger 1; arranger 2",
@@ -261,8 +261,8 @@ toMatchInlineSnapshot(`
     });
 
     it('should parse a song (w/ subsections) correctly', () => {
-      expect(parse(SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(parse(SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
   "arranger": "*",
@@ -364,8 +364,8 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
 
   describe('Mismatching content', () => {
     it('should throw if certain sections are missing', () => {
-      expect(parse(SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(parse(SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
   "arranger": "*",
@@ -411,8 +411,8 @@ toMatchInlineSnapshot(`
     });
 
     it('should not throw if the issue can be fixed via this plugin (e.g. mismatching sequence)', () => {
-      expect(parse(SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT)).
-toMatchInlineSnapshot(`
+      expect(parse(SONG_WITH_MISMATCHING_SEQUENCE_MOCK_FILE_CONTENT))
+        .toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
   "arranger": "*",
@@ -564,10 +564,10 @@ toMatchInlineSnapshot(`
   describe('Chars', () => {
     it('should correctly allow the chars', () => {
       expect(
-  parse(
-    createAdvancedSongMock([['v1', ALLOWED_CHARS.join(EMPTY_STRING)]])
-  )
-).toMatchInlineSnapshot(`
+        parse(
+          createAdvancedSongMock([['v1', ALLOWED_CHARS.join(EMPTY_STRING)]]),
+        ),
+      ).toMatchInlineSnapshot(`
 {
   "alternative": "*",
   "arranger": "ANY_arranger",
