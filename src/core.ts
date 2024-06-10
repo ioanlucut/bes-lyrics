@@ -1,6 +1,7 @@
 import chalk from 'chalk';
 import * as crypto from 'crypto';
 import {
+  constant,
   filter,
   first,
   flattenDeep,
@@ -8,6 +9,7 @@ import {
   isEqual,
   last,
   parseInt,
+  range,
   size,
   trim,
   uniq,
@@ -20,10 +22,10 @@ import {
   COLON,
   COMMA,
   DOUBLE_LINE_TUPLE,
-  EMPTY_SPACE,
   EMPTY_STRING,
-  NEW_LINE_TUPLE,
+  NEW_LINE,
   SEMICOLON,
+  SPACE_CHAR,
   TEST_ENV,
   TXT_EXTENSION,
 } from './constants.js';
@@ -140,7 +142,7 @@ My custom title: {ANY_alternative}, arranger: {ANY_arranger}, band: {ANY_band}, 
 ${desiredSequence.join(COMMA)}
 
 ${desiredSections
-  .map((sequence) => `[${sequence}]${NEW_LINE_TUPLE}Content for ${sequence}`)
+  .map((sequence) => `[${sequence}]${NEW_LINE}Content for ${sequence}`)
   .join(DOUBLE_LINE_TUPLE)}`;
 
 export const createAdvancedSongMock = (
@@ -157,7 +159,7 @@ ${
 }
 
 ${tuples
-  .map(([sequence, content]) => `[${sequence}]${NEW_LINE_TUPLE}${content}`)
+  .map(([sequence, content]) => `[${sequence}]${NEW_LINE}${content}`)
   .join(DOUBLE_LINE_TUPLE)}`;
 
 export const convertSequenceToNumber = (sequenceOrderQualifier: string) =>
@@ -194,9 +196,12 @@ export const getMetaSectionsFromTitle = (titleContent: string) => {
 };
 
 export const multiToSingle = (text: string) =>
-  text?.split(SEMICOLON)?.map(trim).join(`${SEMICOLON}${EMPTY_SPACE}`);
+  text?.split(SEMICOLON)?.map(trim).join(`${SEMICOLON}${SPACE_CHAR}`);
 
 export const readTxtFilesRecursively = async (dir: string) =>
   (await recursive(dir)).filter((filePath) =>
     isEqual(TXT_EXTENSION, path.extname(filePath)),
   );
+
+export const padForTex = (chars: number) => (content?: string) =>
+  `${range(0, chars).map(constant(SPACE_CHAR)).join(EMPTY_STRING)}${content}`;

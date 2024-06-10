@@ -52,7 +52,7 @@
   },
   "type": "module",
   "scripts": {
-    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" {src,bin,mocks,temp-runners}/**/*.ts README.md \"./LaTeX/**/*.tex\"",
+    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" {src,bin,mocks,import-songs-temp-runners}/**/*.ts README.md \"./LaTeX/**/*.tex\"",
     "test:ci": "NODE_ENV=test jest --runInBand --no-cache",
     "test:watch": "NODE_ENV=test TZ='Europe/Berlin' jest --watch --logHeapUsage --no-cache",
     "test": "is-ci-cli test:ci test:watch",
@@ -69,10 +69,15 @@
     "dictionary:update": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsRomanianDictionaryAnalyzer.ts --saveToDictionary",
     "reprocess:content": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsTextReprocessorRunner.ts",
     "reprocess:filename": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./bin/lyricsFileNameReprocessorRunner.ts",
-    "import:rc:by-authors": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./temp-runners/importSongsFromRcByAuthors.ts",
-    "import:rc:by-ids": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./temp-runners/importSongsFromRcByIds.ts",
+    "import:rc:by-authors": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./import-songs-temp-runners/importSongsFromRcByAuthors.ts",
+    "import:rc:by-ids": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./import-songs-temp-runners/importSongsFromRcByIds.ts",
     "import:rc:ci": "npm run import:rc:by-authors && npm run import:rc:by-ids && npm run reprocess:filename && npm run format",
     "build:ci": "npm run lint && npm run test && npm run verify:file-extensions && npm run verify:uniqueness-of-ids && npm run verify",
-    "meta:ci": "npm run verify:file-extensions && npm run verify:uniqueness-of-ids && npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format"
+    "meta:ci": "npm run verify:file-extensions && npm run verify:uniqueness-of-ids && npm run reprocess:filename && npm run reprocess:content && npm run verify && npm run format",
+    "leadsheets:clean:aux": "latexmk -xelatex -quiet -output-directory=./leadsheet/ ./leadsheet/bes-songbook.tex -c",
+    "leadsheets:clean:all": "latexmk -xelatex -quiet -output-directory=./leadsheet/ ./leadsheet/bes-songbook.tex -C",
+    "leadsheets:compile": "npm run leadsheets:clean:all && latexmk -pdf -xelatex -quiet -interaction=nonstopmode -output-directory=./leadsheet/ ./leadsheet/bes-songbook.tex -gg -f",
+    "leadsheets:compile:watch": "npm run leadsheets:clean:all && latexmk -pdf -xelatex -quiet -interaction=nonstopmode -output-directory=./leadsheet/ ./leadsheet/bes-songbook.tex --preview -gg -f",
+    "leadsheets:dist": "npm run leadsheets:clean:all && npm run leadsheets:compile"
   }
 }

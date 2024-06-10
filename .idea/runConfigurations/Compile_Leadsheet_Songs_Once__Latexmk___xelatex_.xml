@@ -1,0 +1,24 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Compile Leadsheet Songs Once (Latexmk + xelatex)" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" focusToolWindowBeforeRun="true">
+    <texify>
+      <compiler>LATEXMK</compiler>
+      <compiler-path />
+      <sumatra-path />
+      <pdf-viewer>BUILT-IN-PDF-VIEWER</pdf-viewer>
+      <viewer-command />
+      <compiler-arguments>-pdf -xelatex -f -gg -interaction=nonstopmode</compiler-arguments>
+      <envs />
+      <before-run-command />
+      <main-file>$PROJECT_DIR$/leadsheet/bes-songbook.tex</main-file>
+      <output-path>$PROJECT_DIR$/leadsheet</output-path>
+      <auxil-path>{projectDir}/auxil</auxil-path>
+      <compile-twice>false</compile-twice>
+      <output-format>PDF</output-format>
+      <latex-distribution>TEXLIVE</latex-distribution>
+      <has-been-run>true</has-been-run>
+      <bib-run-config>[]</bib-run-config>
+      <makeindex-run-config>[]</makeindex-run-config>
+    </texify>
+    <method v="2" />
+  </configuration>
+</component>

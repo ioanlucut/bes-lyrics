@@ -25,7 +25,6 @@ import {
   CHARS_SEPARATORS,
   ERROR_CODE,
   NEW_LINE,
-  NEW_LINE_TUPLE,
   SongSection,
   TEST_FILE,
   TXT_EXTENSION,
@@ -126,7 +125,7 @@ const speller = nspell(romanianDictionary).personal(
 );
 
 const rawWords = await analyzeAndGet(process.env.VERIFIED_DIR, speller);
-const unknownOrIncorrectWords = without(uniq(rawWords).sort(), NEW_LINE_TUPLE);
+const unknownOrIncorrectWords = without(uniq(rawWords).sort(), NEW_LINE);
 
 if (!isEmpty(unknownOrIncorrectWords)) {
   console.log(
