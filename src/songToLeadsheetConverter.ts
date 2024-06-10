@@ -1,7 +1,14 @@
-import {isEmpty, isEqual, trim} from 'lodash-es';
-import {COMMA, DOUBLE_LINE_TUPLE, EMPTY_STRING, NEW_LINE, SPACE_CHAR, UNSET_META,} from './constants.js';
-import {padForTex} from './core.js';
-import {SequenceChar, SongAST} from './types.js';
+import { isEmpty, isEqual, trim } from 'lodash-es';
+import {
+  COMMA,
+  DOUBLE_LINE_TUPLE,
+  EMPTY_STRING,
+  NEW_LINE,
+  SPACE_CHAR,
+  UNSET_META,
+} from './constants.js';
+import { padForTex } from './core.js';
+import { SequenceChar, SongAST } from './types.js';
 
 const LEADSHEET_ENV_MAP = {
   [SequenceChar.VERSE]: 'verse',
@@ -22,11 +29,9 @@ const wrapAsStart = (songEnvironment: string) => `\\begin{${songEnvironment}}`;
 
 const wrapAsEnd = (songEnvironment: string) => `\\end{${songEnvironment}}`;
 
-const splitAndReassembleWords = (verseLineOfARow: string) => verseLineOfARow.split(/ /gi)
-  .map(rewriteWordWithRightMusicalNotationSyntaxIfNeeded)
-  .join(SPACE_CHAR);
-
-const rewriteWordWithRightMusicalNotationSyntaxIfNeeded = (singleWord: string): string => {
+const rewriteWordWithRightMusicalNotationSyntaxIfNeeded = (
+  singleWord: string,
+): string => {
   const maybeRegExpMatchArrays = Array.from(
     singleWord.matchAll(
       /((\^)({[A-Z]+\d*})([^\\^ ]*))(?=[^ ]*\^{[A-Z]+\d*}\b)(.*)/gim,
@@ -37,51 +42,76 @@ const rewriteWordWithRightMusicalNotationSyntaxIfNeeded = (singleWord: string): 
     return singleWord;
   }
 
-  const rewrittenWordWithSpaceBetween = trim(maybeRegExpMatchArrays
-    .map((regExpMatch) => {
-      const chordSyntaxPrefix = regExpMatch[2];
-      const chordInformation = regExpMatch[3];
-      const contentForChord = regExpMatch[4];
-      const maybeTrailingContent = regExpMatch[5];
+  const rewrittenWordWithSpaceBetween = trim(
+    maybeRegExpMatchArrays
+      .map((regExpMatch) => {
+        const chordSyntaxPrefix = regExpMatch[2];
+        const chordInformation = regExpMatch[3];
+        const contentForChord = regExpMatch[4];
+        const maybeTrailingContent = regExpMatch[5];
 
-      return `${chordSyntaxPrefix}*${chordInformation}${contentForChord}${SPACE_CHAR}${maybeTrailingContent}`;
-    })
-    .join(EMPTY_STRING));
+        return `${chordSyntaxPrefix}*${chordInformation}${contentForChord}${SPACE_CHAR}${maybeTrailingContent}`;
+      })
+      .join(EMPTY_STRING),
+  );
 
   if (rewrittenWordWithSpaceBetween.includes(SPACE_CHAR)) {
-    return splitAndReassembleWords(rewrittenWordWithSpaceBetween);
+    return rewrittenWordWithSpaceBetween
+      .split(/ /gi)
+      .map(rewriteWordWithRightMusicalNotationSyntaxIfNeeded)
+      .join(SPACE_CHAR);
   }
 
   return rewrittenWordWithSpaceBetween;
 };
 
+const rewriteNotationsWithDashForChordsWithBass = (
+  singleWord: string,
+): string => {
+  const maybeRegExpMatchArrays = Array.from(
+    singleWord.matchAll(/\^\{.*\/\w+}/gim),
+  );
+
+  if (isEmpty(maybeRegExpMatchArrays)) {
+    return singleWord;
+  }
+
+  return singleWord.replaceAll(/\//gi, '-');
+};
+
 export const getNormalizedContent = (sectionAsContent: string) => {
   return sectionAsContent
     .split(/\n/g)
-    .map(splitAndReassembleWords)
+    .map((verseLineOfARow: string) =>
+      verseLineOfARow
+        .split(/ /gi)
+        .map(rewriteWordWithRightMusicalNotationSyntaxIfNeeded)
+        .map(rewriteNotationsWithDashForChordsWithBass)
+        .join(SPACE_CHAR),
+    )
     .join(NEW_LINE);
 };
 
 export const convertSongToLeadsheet = ({
-                                         sectionOrder,
-                                         sectionsMap,
-                                         sequence,
-                                         alternative,
-                                         arranger,
-                                         band,
-                                         composer,
-                                         contentHash,
-                                         genre,
-                                         id,
-                                         interpreter,
-                                         key,
-                                         rcId,
-                                         tags,
-                                         tempo,
-                                         title,
-                                         version,
-                                         writer,
-                                       }: SongAST) => {
+  sectionOrder,
+  sectionsMap,
+  sequence,
+  alternative,
+  arranger,
+  band,
+  composer,
+  contentHash,
+  genre,
+  id,
+  interpreter,
+  key,
+  rcId,
+  tags,
+  tempo,
+  title,
+  version,
+  writer,
+}: SongAST) => {
   const maybeGetSongMetaContent = (key: string, songMetaContent?: string) => {
     const shouldRenderContent =
       songMetaContent && !isEqual(songMetaContent, UNSET_META);
@@ -94,7 +124,7 @@ export const convertSongToLeadsheet = ({
   };
 
   const sectionMapper = (verseSongSectionIdentifier: string) => {
-    const {content, sectionSequenceType} =
+    const { content, sectionSequenceType } =
       sectionsMap[verseSongSectionIdentifier];
 
     const songEnvironment = LEADSHEET_ENV_MAP[sectionSequenceType];

@@ -6,7 +6,7 @@ v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
 ^{B7}Sfânt Cu^{E}vânt ^{B}din ve^{E}cii ne con^{A}duci, ne sus^{B}ții,
-Ini^{Cm#}ma lui ^{B/D#}Dumne^{E}zeu ne-a^{E/G£}răți în ^{A}versul ^{B4}tău ^{B}me^{E/-A/E-E/}reu.
+Ini^{Cm#}ma lui ^{B/D#}Dumne^{E}zeu ne-a^{E/G£}răți în ^{A}versul ^{B4}tău ^{B}me^{E-A/E-E}reu.
 
 [v1.2]
 Sfânt Cuvânt, la noi venit, Tu ni Te-ai descoperit

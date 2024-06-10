@@ -5,10 +5,10 @@ Noi ridicăm către cer {alternative: {*}, composer: {Ekklesia}, writer: {*}, ar
 v1,c,v2,c,v3,c
 
 [v1]
-^{F}Noi ridi^{Bb2}căm către ^{C4/-C/}cer
-Mâini cu^{Dm7}rate spre ^{Bb2}singurul ^{C4/-C/}Miel,
+^{F}Noi ridi^{Bb2}căm către ^{C4-C}cer
+Mâini cu^{Dm7}rate spre ^{Bb2}singurul ^{C4-C}Miel,
 ^{F}Numai ^{Bb2}El e ^{C4}Domn minu^{C}nat,
-Ce ^{Dm7}bun, ce ^{bb}mare ^{C4/}e!
+Ce ^{Dm7}bun, ce ^{bb}mare ^{C4}e!
 
 [c]
 /: Sfânt e ^{C/Bb}Dumne^{F/A}zeu, ^{Bb2}Domn peste ^{C}toate,

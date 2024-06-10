@@ -190,13 +190,20 @@ Ori zece mii de ani și-n veșnicii.",
     });
 
     it('should normalise word with more than three chord notations correctly', () => {
-      expect(getNormalizedContent('^{G}Te-o^{D}no^{A}rez')).toEqual('^*{G}Te-o ^*{D}no ^{A}rez');
+      expect(getNormalizedContent('^{G}Te-o^{D}no^{A}rez')).toEqual(
+        '^*{G}Te-o ^*{D}no ^{A}rez',
+      );
     });
 
     it('should normalise words that have more than one chord', () => {
       expect(getNormalizedContent('^{G4}th^{G}is ^{G4}th^{G}is')).toEqual(
         '^*{G4}th ^{G}is ^*{G4}th ^{G}is',
       );
+    });
+
+    it('should normalise words that have more than one chord', () => {
+      expect(getNormalizedContent('^{Ab/C}th')).toEqual('^{Ab-C}th');
+      expect(getNormalizedContent('/: th :/')).toEqual('/: th :/');
     });
   });
 });

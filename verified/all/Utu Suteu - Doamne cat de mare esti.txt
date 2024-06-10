@@ -13,7 +13,7 @@ c,v1,c,v2,c,v3,c
 [v1]
 ^{F}Munți î^{Am}nalți, se^{Bb}meți,
 Cu ^{F/A}brazi plini de nă^{Gm}meți,
-^{C7}Vântu-i adia și ^{C7/E}parcă așa spu^{F//-Gm/F}nea:
+^{C7}Vântu-i adia și ^{C7/E}parcă așa spu^{F-Gm/F}nea:
 
 [v2]
 Oceane-n depărtări

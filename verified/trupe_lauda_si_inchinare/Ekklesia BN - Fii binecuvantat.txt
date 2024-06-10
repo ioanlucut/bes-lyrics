@@ -8,7 +8,7 @@ v1.1,v1.2,p,c,v2.1,v2.2,v2.3,p,c,b,b,c,e
 ^{A}Fii bine^{E}cuvântat
 Când ^{F#m}pământul e să^{D}turat,
 Când ^{A}ploaia dă ^{E}peste el,
-^{F#m}Fii binecuvân^{D///}tat! ^{E///}
+^{F#m}Fii binecuvân^{D}tat! ^{E}
 
 [v1.2]
 ^{A}Fii bine^{E}cuvântat
@@ -18,11 +18,11 @@ Când mă ^{F#m}aflu pe pă^{D}mânt uscat
 
 [p]
 ^{A}Fiecare ^{E}laudă ^{F#m}Ție Ți-o ^{D}dau
-^{A}Când noaptea ^{E}se apropie, ^{F#m}Te voi lău^{D/}da!
+^{A}Când noaptea ^{E}se apropie, ^{F#m}Te voi lău^{D}da!
 
 [c]
 Binecuvântat ^{A}fie El, ^{E}
-Binecuvân^{F#m///D/}tat,
+Binecuvân^{F#m/D}tat,
 Binecuvân^{A}tat fie ^{E}El,
 Binecuvân^{F#m}tăm Numele ^{D}Său!
 

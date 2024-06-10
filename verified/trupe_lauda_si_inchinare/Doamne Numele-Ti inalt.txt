@@ -5,9 +5,9 @@ Doamne, Numele-Ți înalț {alternative: {*}, composer: {*}, writer: {*}, arrang
 v1,c,v1,c
 
 [v1]
-^{G}Doamne, ^{C}Numele-Ți î^{D/-C2/}nalț,
-^{G}Doamne, ^{C}laudă-Ți cânt ^{D/-C2/}Ție,
-^{G}Feri^{C}cit sunt că Te ^{D/-C2/}am,
+^{G}Doamne, ^{C}Numele-Ți î^{D-C2}nalț,
+^{G}Doamne, ^{C}laudă-Ți cânt ^{D-C2}Ție,
+^{G}Feri^{C}cit sunt că Te ^{D-C2}am,
 ^{G}feri^{C}cit de-a Ta iu^{F}bire. ^{C/E-D/F#-G}
 
 [c]
