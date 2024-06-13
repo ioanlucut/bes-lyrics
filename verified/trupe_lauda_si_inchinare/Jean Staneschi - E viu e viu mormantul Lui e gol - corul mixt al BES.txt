@@ -7,7 +7,7 @@ c,v1,c,v2,c
 [c]
 /: E viu, e viu, mormântul Lui e gol,
 E viu, e viu, a-nviat Domnul meu!
-E viu, e viu în toată splendoarea,
+E viu, e viu în toată strălucirea,
 Ne duce la fericire. :/
 
 [v1]
@@ -19,5 +19,5 @@ Credeți și să vă bucurați!”
 [v2]
 Maria stă și plânge ar vrea să știe ce-i,
 Dar, iată o minune, Isus-naintea ei!
-Ce mare fericire! „Rabbuni!” - Îi zice ea,
+Ce mare fericire! „Rabbuni!” zise ea,
 Și noi în cer Îl vom vedea.
