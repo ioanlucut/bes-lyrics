@@ -1,0 +1,34 @@
+[title]
+Ce frumos va fi în cer {alternative: {*}, composer: {Ioan Chișmorie}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Ce frumos va fi în cer,
+Unde vreau s-ajung și eu,
+Unde n-or mai fi dureri,
+Ci eterne mângâieri.
+
+[c]
+Ce glorii, ce frumuseți
+Sunt în jurul tronului,
+Splendoarea-aceasta măreaţă
+Nimeni s-o descrie nu-i.
+
+[v2]
+Lipsă-acolo nu-i de soare,
+Noapte-acolo nicicând nu-i.
+Cântă toţi sfinţii-n splendoare,
+Glorie fie Mielului.
+
+[v3]
+Cântă îngeri în splendoare,
+Cântă mii de heruvimi.
+Nu-nţeleg a lor cântare,
+Numai cei din înălţimi.
+
+[v4]
+Ce frumos va fi acolo-n cer,
+Ce frumos va fi în cer!
+Amin!
