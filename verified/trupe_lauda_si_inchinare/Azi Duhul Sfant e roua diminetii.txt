@@ -1,5 +1,5 @@
 [title]
-Azi Duhul Sfânt e roua dimineții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2128}, id: {k1cg9SvAme2iHis51VDbvG}, contentHash: {2febdd}}
+Azi Duhul Sfânt e roua dimineții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2128}, id: {k1cg9SvAme2iHis51VDbvG}, contentHash: {de3d39}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -23,7 +23,7 @@ Ne curățește să primim arvuna,
 Cununa slavei, haina cerului.
 
 [v3]
-Azi Duhul Sfânt ne-nflăcărează dorul.
+Azi Duhul Sfânt ne-nflăcărează dorul:
 Să-L preamărim pe Răscumpărător.
 Ne umple de putere Creatorul,
 Putere din izvor strălucitor!
