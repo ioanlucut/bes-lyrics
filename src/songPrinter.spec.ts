@@ -61,94 +61,102 @@ describe('songPrinter', () => {
     const parsedSong = parse(SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT);
 
     expect(parsedSong).toMatchInlineSnapshot(`
-      {
-        "alternative": "Când eram fără speranță",
-        "arranger": "*",
-        "band": "*",
-        "composer": "Betania Dublin",
-        "contentHash": "085aa8",
-        "genre": "*",
-        "id": "7RURbpko41pWYEgVkHD4Pq",
-        "interpreter": "*",
-        "key": "*",
-        "rcId": "*",
-        "sectionOrder": [
-          "[v1.1]",
-          "[v1.2]",
-          "[c1.1]",
-          "[c1.2]",
-          "[v2.1]",
-          "[v2.2]",
-        ],
-        "sectionsMap": {
-          "[c1.1]": {
-            "content": "/: Din cântare în cântare,
-      Să se-aprindă-n adunare
-      Jertfa laudei de-nchinare
-      Ca pe muntele cel Sfânt!",
-            "sectionIdentifier": "[c1.1]",
-          },
-          "[c1.2]": {
-            "content": "Să cunoască fiecare
-      Că Tu ești în adunare
-      Și-nsoțești a Ta lucrare
-      Cu puteri prin Duhul Sfânt! :/",
-            "sectionIdentifier": "[c1.2]",
-          },
-          "[sequence]": {
-            "content": "v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2",
-            "sectionIdentifier": "[sequence]",
-          },
-          "[title]": {
-            "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
-            "sectionIdentifier": "[title]",
-          },
-          "[v1.1]": {
-            "content": "Aici să fie casa Celui veșnic Sfânt,
-      Aici s-aducem laudă și-nchinare,
-      Acelui care este veșnic viu și Sfânt
-      Și merită doar cinste și onoare!",
-            "sectionIdentifier": "[v1.1]",
-          },
-          "[v1.2]": {
-            "content": "Aici să fie casa unde frații mei
-      Cădea-vor în genunchi în fața Ta,
-      Cu mâinile întinse către ceruri, ei
-      Un legământ cu Tine vor avea!",
-            "sectionIdentifier": "[v1.2]",
-          },
-          "[v2.1]": {
-            "content": "Aici să fie casa unde ochii Tăi,
-      Zi și noapte, zilnic, vor privi,
-      Aici să fie casa unde frații mei
-      Cu rugăciuni, cu laude, vor veni!",
-            "sectionIdentifier": "[v2.1]",
-          },
-          "[v2.2]": {
-            "content": "Atunci când va veni aici străinul,
-      Din pricina Numelui Tău Sfânt,
-      Să fie ascultat, să-i dai alinul,
-      Că Tu ești Dumnezeu și Tu ești Sfânt!",
-            "sectionIdentifier": "[v2.2]",
-          },
-        },
-        "sequence": [
-          "v1.1",
-          "v1.2",
-          "c1.1",
-          "c1.2",
-          "v2.1",
-          "v2.2",
-          "c1.1",
-          "c1.2",
-        ],
-        "tags": "*",
-        "tempo": "*",
-        "title": "My custom title",
-        "version": "ii",
-        "writer": "*",
-      }
-    `);
+{
+  "alternative": "Când eram fără speranță",
+  "arranger": "*",
+  "band": "*",
+  "composer": "Betania Dublin",
+  "contentHash": "085aa8",
+  "genre": "*",
+  "id": "7RURbpko41pWYEgVkHD4Pq",
+  "interpreter": "*",
+  "key": "*",
+  "rcId": "*",
+  "sectionOrder": [
+    "[v1.1]",
+    "[v1.2]",
+    "[c1.1]",
+    "[c1.2]",
+    "[v2.1]",
+    "[v2.2]",
+  ],
+  "sectionsMap": {
+    "[c1.1]": {
+      "content": "/: Din cântare în cântare,
+Să se-aprindă-n adunare
+Jertfa laudei de-nchinare
+Ca pe muntele cel Sfânt!",
+      "sectionIdentifier": "[c1.1]",
+      "sectionSequenceType": "c",
+    },
+    "[c1.2]": {
+      "content": "Să cunoască fiecare
+Că Tu ești în adunare
+Și-nsoțești a Ta lucrare
+Cu puteri prin Duhul Sfânt! :/",
+      "sectionIdentifier": "[c1.2]",
+      "sectionSequenceType": "c",
+    },
+    "[sequence]": {
+      "content": "v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2",
+      "sectionIdentifier": "[sequence]",
+      "sectionSequenceType": "s",
+    },
+    "[title]": {
+      "content": "My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}",
+      "sectionIdentifier": "[title]",
+      "sectionSequenceType": "",
+    },
+    "[v1.1]": {
+      "content": "Aici să fie casa Celui veșnic Sfânt,
+Aici s-aducem laudă și-nchinare,
+Acelui care este veșnic viu și Sfânt
+Și merită doar cinste și onoare!",
+      "sectionIdentifier": "[v1.1]",
+      "sectionSequenceType": "v",
+    },
+    "[v1.2]": {
+      "content": "Aici să fie casa unde frații mei
+Cădea-vor în genunchi în fața Ta,
+Cu mâinile întinse către ceruri, ei
+Un legământ cu Tine vor avea!",
+      "sectionIdentifier": "[v1.2]",
+      "sectionSequenceType": "v",
+    },
+    "[v2.1]": {
+      "content": "Aici să fie casa unde ochii Tăi,
+Zi și noapte, zilnic, vor privi,
+Aici să fie casa unde frații mei
+Cu rugăciuni, cu laude, vor veni!",
+      "sectionIdentifier": "[v2.1]",
+      "sectionSequenceType": "v",
+    },
+    "[v2.2]": {
+      "content": "Atunci când va veni aici străinul,
+Din pricina Numelui Tău Sfânt,
+Să fie ascultat, să-i dai alinul,
+Că Tu ești Dumnezeu și Tu ești Sfânt!",
+      "sectionIdentifier": "[v2.2]",
+      "sectionSequenceType": "v",
+    },
+  },
+  "sequence": [
+    "v1.1",
+    "v1.2",
+    "c1.1",
+    "c1.2",
+    "v2.1",
+    "v2.2",
+    "c1.1",
+    "c1.2",
+  ],
+  "tags": "*",
+  "tempo": "*",
+  "title": "My custom title",
+  "version": "ii",
+  "writer": "*",
+}
+`);
 
     expect(print(parsedSong)).toMatchInlineSnapshot(`
       "[title]
