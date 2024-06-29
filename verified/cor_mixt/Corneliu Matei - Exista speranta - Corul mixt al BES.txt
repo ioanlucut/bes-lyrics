@@ -1,0 +1,44 @@
+[title]
+Există speranță {alternative: {*}, composer: {Corneliu Matei}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {o7qwvBY19RErsBb7Bdz4m5}, contentHash: {52d766}}
+
+[sequence]
+v1.1,v1.2,c,v2,c2,b,c2,e
+
+[v1.1]
+Într-o lume plină de durere
+Și cuprinsă-n a păcatului miraj,
+Când totul în jurul nostru-apune,
+Vrem să-ți spunem acum acest mesaj:
+
+[v1.2]
+Evanghelia-i Cuvântul ce-ți dă viață,
+Vestea bună ce te poate transforma,
+Un izvor ceresc de apă vie
+Pentru orice suflet însetat.
+
+[c]
+Există speranță! Există viață veșnică!
+Trebuie doar să crezi în Dumnezeu din toată inima!
+Există salvare! Există iertare de păcat!
+Doar prin jertfa de pe cruce poți să fii eliberat!
+Există speranță!
+
+[v2]
+Prieten drag, de nu mai ai nădejde
+Și de rătăcești lipsit de ajutor,
+Noi îți spunem acum:
+Tu ai nevoie de un Tată, de-un Mântuitor!
+
+[c2]
+Există speranță! Există viață veșnică!
+Trebuie doar să crezi în Dumnezeu din toată inima!
+Există salvare! Există iertare de păcat!
+Doar prin jertfa de pe cruce poți să fii eliberat!
+
+[b]
+Astăzi îți spunem: există viață veșnică,
+Crede în Evanghelie și cerul întreg vei moșteni!
+
+[e]
+Există speranță! Există o cale!
+Și ea e Hristos! E vestea bună!

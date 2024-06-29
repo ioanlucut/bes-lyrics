@@ -1,0 +1,32 @@
+[title]
+Celui înviat mărire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {ar1k4RVrfi2uxXYJZK7Vu2}, contentHash: {3eb3af}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+„Celui înviat mărire!” noi strigăm cu toți cântând,
+El trezi din mormânt lumea, viață și putere dând.
+Soare, Tu, sol al dreptății, cum răsari măreț din nori,
+Bezna morții risipit-ai când Te urci strălucitor!
+
+[c]
+Isus e viu! Isus e viu!
+Laudă și onoare Lui, amin!
+
+[v2]
+Isprăvit-ai Tu în groapă greul Tău calvar și sfânt,
+Multe lacrimi și suspine sfințind al Tău mormânt.
+Peste groapa Ta deschisă trec toți îngerii în zbor
+Și binecuvântând cântă cu al învierii cor.
+
+[v3]
+Ce măreț ai izbăvit Tu tot ce fac dușmanii Tăi,
+S-au distrus, s-au nimicit ei ca să nu mai fie răi.
+Doamne, Tu trăiește-n mine, eu prin Tine voi urca,
+Doamne, fă ca prin mormânt eu să ajung la dreapta Ta!
+
+[e]
+Isus e viu! Isus e viu!
+Laudă și onoare Lui, amin!
+Laudă și-onoare Lui!

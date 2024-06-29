@@ -1,5 +1,5 @@
 [title]
-Vrednic ești Isus {alternative: {Worthy is the Lamb; Pentru cruce-Ți mulțumesc}, composer: {Darlene Zschech}, writer: {Valeriu M. Trufin}, arranger: {Carol Cymbala}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {4aGPJbrkSKxxYC2kkU7h2j}, contentHash: {ea23ea}}
+Vrednic ești Isus {alternative: {Worthy is the Lamb; Pentru cruce-Ți mulțumesc}, composer: {Darlene Zschech}, writer: {Valeriu M. Trufin}, arranger: {Carol Cymbala}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {4aGPJbrkSKxxYC2kkU7h2j}, contentHash: {ea23ea}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c,e

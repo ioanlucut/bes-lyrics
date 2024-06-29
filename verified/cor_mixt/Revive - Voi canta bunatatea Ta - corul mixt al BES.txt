@@ -1,0 +1,42 @@
+[title]
+Voi cânta bunătatea Ta {alternative: {*}, composer: {Revive}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {rfVbpD4btCAazzxnzTBq7h}, contentHash: {fa7cd6}}
+
+[sequence]
+v1,v2,c,c2,c,v3,c3,e
+
+[v1]
+Voi cânta a Ta îndurare,
+Voi vesti, Doamne, a Ta lucrare,
+Credincios Tu rămâi din veșnicii!
+
+[v2]
+Ceru-ntreg e uimit de Tine,
+În univers totu-Ți aparține,
+Tu ești de necuprins!
+
+[c]
+/: Voi cânta bunătatea Ta,
+Voi vesti minunile Tale,
+Voi lăuda credincioșia Ta din neam în neam! :/
+
+[c2]
+Atunci Îți cânt, măreț Stăpânitor:
+Ce mare ești, ce mare ești!
+Atunci Îți cânt, măreț Stăpânitor:
+Ce mare ești, ce mare ești!
+
+[v3]
+Domnul mi-e Păstorul și eu lipsă de nimic nu voi duce,
+El mă paște la pășune și la ape de odihnă El mă duce.
+Îmi înviorează sufletul
+Și mă povățuiește pe cărările Lui drepte
+Din pricina Numelui Său.
+
+[c3]
+/: Chiar de-ar fi să umblu-n valea umbrei morții
+Nu mă tem de niciun rău, căci Tu ești cu mine.
+Toiagul și nuiaua Ta mă mângâie,
+De aceea îndurarea mă va însoți :/
+
+[e]
+Domnul mi-e Păstorul și eu lipsă de nimic nu voi duce.

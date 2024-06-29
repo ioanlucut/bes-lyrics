@@ -1,0 +1,50 @@
+[title]
+Ne-ntoarcem azi să-Ți mulțumim {alternative: {*}, composer: {Eugen Pall}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {w3ffYD8zzdrvuqJn2DNeb9}, contentHash: {e26d18}}
+
+[sequence]
+v1,v2,c,v3,v4,c,v5,v6,c,e
+
+[v1]
+Ne-ntoarcem azi să-Ți mulțumim,
+Părinte veșnic și divin,
+Căci Tu prin harul minunat,
+Mereu ne-ai binecuvântat.
+
+[v2]
+Ne-ntoarcem azi să-Ți mulțumim,
+Căci de la Tine noi primim,
+Viață din izvor ceresc,
+Lumină-n ochii ce privesc.
+
+[c]
+/: Îți mulțumim, Îți mulțumim,
+Căci Tu ne dai, iar noi primim,
+Îți mulțumim, Îți mulțumim,
+De-acum și-n veci de veci, amin! :/
+
+[v3]
+Ne-ntoarcem azi să-Ți mulțumim,
+Cu mic, cu mare, toți venim,
+Că-n fiecare ceas sau zi,
+Cu mâna Ta ne vei păzi.
+
+[v4]
+Ne-ntoarcem azi să-Ți mulțumim,
+Căci ne iubești și Te iubim.
+Tu singur, Doamne, ne poți da
+Ce lumea-ntreagă n-ar putea.
+
+[v5]
+Ne-ntoarcem azi să-Ți mulțumim
+De mântuirea ce-o primim,
+Noi prin Isus am fost salvați
+Și de păcat eliberați.
+
+[v6]
+Ne-ntoarcem azi să-Ți mulțumim,
+Pe Tine noi ne bizuim,
+Numele Tău e minunat
+Și-n veci e binecuvântat.
+
+[e]
+Îți mulțumim de-acum și-n veci de veci, amin!

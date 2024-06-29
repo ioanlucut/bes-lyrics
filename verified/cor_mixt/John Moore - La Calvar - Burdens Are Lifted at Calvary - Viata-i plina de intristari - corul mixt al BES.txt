@@ -1,5 +1,5 @@
 [title]
-La Calvar {alternative: {Burdens Are Lifted at Calvary; Viața-i plină de întristări}, composer: {John Moore}, writer: {John Moore; Valentin Popovici}, arranger: {W. J. Gaither și Larry Goss}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {5zxTDqihRBJoipqggE6VvB}, contentHash: {ea524d}}
+La Calvar {alternative: {Burdens Are Lifted at Calvary; Viața-i plină de întristări}, composer: {John Moore}, writer: {John Moore; Valentin Popovici}, arranger: {W. J. Gaither și Larry Goss}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {5zxTDqihRBJoipqggE6VvB}, contentHash: {ea524d}}
 
 [sequence]
 v1,c,v2,c,v3,c

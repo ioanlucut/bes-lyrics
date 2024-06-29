@@ -1,0 +1,33 @@
+[title]
+Dacă ne-adunăm în Domnul {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {iitXw7ejKKfuD6wTrmX9Yx}, contentHash: {67d46e}}
+
+[sequence]
+v1,v2,v3,v4,e
+
+[v1]
+Dacă ne-adunăm în Domnul, dacă-avem al Lui Duh Sfânt,
+Dacă inimile noastre una-n părtășie sunt,
+Dacă-avem a Lui iubire, dacă-avem a Lui sfânt țel,
+Atunci orișicând ne strângem este între noi și El.
+
+[v2]
+Atunci Tatăl ne ascultă tot ce-I cerem fericit,
+Atunci Fiul ne-nsoțește prin Cuvântul Lui sfințit,
+Atunci Duhul ne îndrumă în tot lucrul Său deplin
+Și-ntre noi se vede rodul mult și dulce și divin.
+
+[v3]
+Dar când fără unitate și iubire ne-adunăm,
+Când nici dor, nici părtășie nu avem și nu căutăm,
+Când trăim păcate-ascunse, când ni-e gândul mânios,
+În zadar atunci ne strângem, ne-adunăm fără Hristos!
+
+[v4]
+Dumnezeule ai milă, nu lăsa-ntre noi nicicând
+Lipsa Ta și nelucrarea Duhului ceresc și blând,
+Nu lăsa-ntâlnirea noastră fără dragoste și har
+Ca să nu ne fie lupta și-alergarea în zadar!
+
+[e]
+Nu lăsa-ntâlnirea noastră fără dragoste și har
+Ca să nu ne fie lupta și-alergarea în zadar!

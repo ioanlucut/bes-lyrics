@@ -1,0 +1,30 @@
+[title]
+Domnul e-n acest loc sfânt {alternative: {Surely the Presence of the Lord is in this Place}, composer: {Lanny Wofle}, writer: {Lanny Wofle; Claudiu Lulciuc}, arranger: {Camp Kirkland}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {edgKG5ZZaLwXoh5gLEHnAL}, contentHash: {5db7d7}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+Cu-adevărat Domnul e-n acest loc sfânt,
+Pot să-I simt sfânta prezență și-al Său har.
+Văd cum cerul se deschide,
+Văd chiar tronul Său ceresc,
+Cu-adevărat Domnul e-n acest loc sfânt!
+
+[v1]
+Dacă-aici ne vom strânge uniți pentru-a-L slăvi,
+El ne-a promis că rămâne lângă noi, oricâți am fi.
+Și din nou în piept simt Duhul,
+Duhul Sfânt trimis de sus,
+Doamne-Ți mulțumesc pentru-acest loc ceresc!
+
+[v2]
+Serafimi și îngeri, iată, strigă:
+„Sfânt, sfânt, sfânt e El!”
+În templul sfânt se coboară poalele mantiei Lui,
+Plin de teamă și uimire, mă închin ‘naintea Lui.
+Doamne, cu-adevărat ești prezent în acest loc!
+
+[e]
+Cu-adevărat Domnul e în acest loc sfânt,
+Domnul e-aici!

@@ -1,0 +1,36 @@
+[title]
+Tu ai venit ca un copil {alternative: {*}, composer: {Adi Tișe}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {c4gck9r1Vs3GRCp5hCZZVn}, contentHash: {5ca88a}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Tu ai venit ca un copil în lumea noastră,
+Ne-ai învățat să Te urmăm în orice zi.
+Din tinerețe să umblăm pe-a Tale urme,
+Să Te primim în inimi ca niște copii.
+
+[v1.2]
+Astăzi venim la Tine, binecuvântarea,
+Te implorăm, revars-o peste-acest copil!
+Din tinerețe fă-i de cunoscut chemarea,
+Să Te cunoască, să Te-asculte-n orice zi!
+
+[c]
+/: Doamne, Tu ești fericirea vieții, zorii dimineții,
+Lângă Tine totdeauna ține-l Tu,
+Căci Tu ești binecuvântarea, pacea și iertarea,
+Ia-l de azi în brațul Tău puternic, :/
+Te rugăm! Te rugăm! Te rugăm! Amin!
+
+[v2.1]
+La Tine, Doamne, sunt izvoarele vieții,
+Cu Tine, orice om în lume-i fericit.
+Tu ești speranța noastră-n zile de-ncercare,
+La Tine, Doamne sfinte, astăzi am venit.
+
+[v2.2]
+Binecuvântă, Doamne-ntreaga adunare,
+Binecuvântă-l, Doamne, pe acest copil!
+Din tinerețe fă-i de cunoscut chemarea,
+Să Te cunoască, să Te-asculte-n orice zi!

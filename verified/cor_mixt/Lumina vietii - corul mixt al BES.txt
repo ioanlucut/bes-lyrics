@@ -1,0 +1,23 @@
+[title]
+Lumina vieții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {t4pns2CHg6oVPmDjdUqjex}, contentHash: {f27a84}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Lumină ești Tu, Doamne,
+Ești calea noastră a tuturor.
+Îndreaptă pașii noștri
+Pe drumul care duce către Tatăl!
+
+[v2]
+Tu ești Lumina noastră,
+Ești Lumina vieții.
+Cu-ndurare ierți păcatul,
+Ierți păcatul tuturor.
+
+[v3]
+Putere dă-mi Tu, Doamne,
+Putere dă-mi, să-nving ce-i rău!
+Să fiu și eu lumină,
+Lumină pentru cei din jurul meu!

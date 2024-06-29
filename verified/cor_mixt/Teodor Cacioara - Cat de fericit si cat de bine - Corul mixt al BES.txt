@@ -1,0 +1,29 @@
+[title]
+Cât de fericit și cât de bine {alternative: {*}, composer: {*}, writer: {*}, arranger: {Teodor Cacioara}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {79ppJULF5jXLL34LY6FWGh}, contentHash: {b08675}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cât de fericit și cât de bine,
+Cât de fericit sunt lângă Tine!
+Cât îmi e de drag, Isuse, Domnul meu,
+Cuvântul să-Ți păzesc mereu.
+
+[c]
+Nu poți fi pe lume fericit
+Fără Domnul Tău ce te-a iubit.
+Vei avea belșug de bucurii
+Când El, Hristos, amicul tău va fi.
+
+[v2]
+N-am dorit nicicând să am onoruri,
+N-am dorit nicicând să am favoruri,
+Mie mi-e de-ajuns să știu că-s mântuit
+De Domnul cel mai prețuit.
+
+[v3]
+Doamne-aș vrea să crești a mea credință
+Și să mă conduci spre biruință,
+Sufletu-mi tresaltă veșnic împlinit,
+În Domnul meu cel preaiubit!

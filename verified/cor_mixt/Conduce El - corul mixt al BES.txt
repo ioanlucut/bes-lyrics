@@ -1,0 +1,29 @@
+[title]
+Conduce El {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {fxbQK5PNw3HsGm4qePgiSp}, contentHash: {b32a52}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Valuri izbesc în jurul meu,
+Dar nu mă tem cu Domnul meu.
+Eu pace am la infinit
+De la Isus, Domnul iubit.
+
+[c]
+Conduce El și vasul meu,
+Ce liniștit pot fi mereu!
+Și nu mă tem când valuri vin,
+Mâ-ncred în El, mă-ncred în Domnul pe deplin.
+
+[v2]
+Sunt multe stânci ce mă pândesc,
+Dar nu mă tem, eu tot vâslesc,
+Încrezător și liniștit
+Sunt cu Isus, Domnul iubit.
+
+[v3]
+Furtunile revin și trec,
+Eu liniștit-nainte merg.
+Oricât de mult voi fi izbit,
+Sunt cu Isus, Domnul iubit.

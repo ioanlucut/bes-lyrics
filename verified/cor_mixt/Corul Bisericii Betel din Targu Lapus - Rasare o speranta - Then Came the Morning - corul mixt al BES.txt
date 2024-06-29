@@ -1,5 +1,5 @@
 [title]
-Răsare o speranță {alternative: {Then Came the Morning}, composer: {Sue C. Smith}, writer: {Eugen Drăgoiu}, arranger: {Russell Mauldin}, interpreter: {Corul Bisericii Betel din Târgu Lăpuș}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {cantata}, rcId: {*}, id: {bTJhQ8wk6cnA3fwiP3vMBg}, contentHash: {d39707}}
+Răsare o speranță {alternative: {Then Came the Morning}, composer: {Sue C. Smith}, writer: {Eugen Drăgoiu}, arranger: {Russell Mauldin}, interpreter: {Corul Bisericii Betel din Târgu Lăpuș}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {cantata}, rcId: {*}, id: {bTJhQ8wk6cnA3fwiP3vMBg}, contentHash: {d39707}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,b,v11,b2,v12,v13,v14,v15,v16,v17,v18,v19,v20,v21,v22,v23,v24,v25,v26,v27,v28,v29,v30,v31,v32,v33,v34,v35,v36,v37

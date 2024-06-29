@@ -1,0 +1,38 @@
+[title]
+Ție-Ți cânt Dumnezeul meu și Slăvit fii Isuse {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {uHmFaJbd9SEuxQUN33dJVd}, contentHash: {59d12e}}
+
+[sequence]
+v1,v2,v3,c,v4,c,e
+
+[v1]
+Ție-Ți cânt Dumnezeul meu, Ție-Ți cânt Dumnezeul meu,
+Pentru bunătatea Ta, pentru harul Tău cel mare,
+Te voi binecuvânta și în șoaptă și-n strigare,
+/: Te voi binecuvânta :/ și în șoaptă și-n strigare!
+
+[v2]
+Ție-Ți cânt Dumnezeul meu, Ție-Ți cânt Dumnezeul meu,
+Pentru toate ce mi-ai dat, pentru dulcea Ta-ngrijire,
+Pentru tot ce mi-ai luat, mă închin cu mulțumire,
+/: Pentru tot ce mi-ai luat, :/ mă închin cu mulțumire!
+
+[v3]
+Ție-Ți cânt Dumnezeul meu, Ție-Ți cânt Dumnezeul meu,
+Și nu vorbe vreau să-Ți spun ci cântarea mea să-Ți ardă
+Ție bunul cel mai bun și-n iubire să se piardă,
+/: Ție bunul cel mai bun :/ și-n iubire să se piardă.
+
+[c]
+/: Îl slăviți pe Isus, slava Lui o cântați,
+Îl slăviți pe Isus și pe veci Lui vă dați!
+La Tatăl veniți prin Isus, Fiul Său,
+Primind mântuirea, primind harul Său! :/
+
+[v4]
+Ce mare iubire venită de sus
+Și ce fericire să fii cu Isus,
+Dar cea mai slăvită trăire va fi
+Când veșnic pe Domnul în cer vom sluji!
+
+[e]
+Îl slăviți pe Isus!

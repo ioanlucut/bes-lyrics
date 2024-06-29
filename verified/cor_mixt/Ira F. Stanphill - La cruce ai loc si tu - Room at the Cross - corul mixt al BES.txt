@@ -1,5 +1,5 @@
 [title]
-La cruce ai loc și tu {alternative: {Room at the Cross}, composer: {Ira F. Stanphill}, writer: {Ira F. Stanphill; Eugen Drăgoiu}, arranger: {Russell Mauldin}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {sDiNFhxD4vgDnDVzQWnZe7}, contentHash: {c5b703}}
+La cruce ai loc și tu {alternative: {Room at the Cross}, composer: {Ira F. Stanphill}, writer: {Ira F. Stanphill; Eugen Drăgoiu}, arranger: {Russell Mauldin}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {sDiNFhxD4vgDnDVzQWnZe7}, contentHash: {c5b703}}
 
 [sequence]
 v1,c,v2,c,v3,c

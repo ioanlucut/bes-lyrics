@@ -1,0 +1,28 @@
+[title]
+Numai dragostea {alternative: {*}, composer: {Joseph M. Martin}, writer: {Charlotte Elliot}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {rEAxdcruniijx4YiUU7N4N}, contentHash: {9fb9e5}}
+
+[sequence]
+v1.1,v1.2,c,v2,c
+
+[v1.1]
+De câte ori cu albe flori
+Din cer coboară zvon de sărbători,
+De-atâtea ori, frumoasă ca o stea,
+Se-nalță dragostea.
+
+[v1.2]
+De câte ori se strâng și nori,
+Întunecând ai dragostei fiori,
+De-atâtea ori, Isus va lumina frumoasă dragostea.
+
+[c]
+Doar dragostea, doar dragostea
+Deschide cerul, schimbă inima,
+Doar dragostea, doar dragostea
+Va lumina, numai dragostea.
+
+[v2]
+Isuse bun le ești de-acum
+Domn și prieten pe al vieții drum,
+Tu să le dai mereu iubirea Ta, doar ea va lumina,
+În veci doar dragostea, amin!

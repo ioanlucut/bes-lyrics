@@ -1,5 +1,5 @@
 [title]
-Singur, îndurerat, purtând blestemul greu {alternative: {For Me}, composer: {B. B. McKinney}, writer: {Nelu Mureșan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {o9c5oDXMNz1scbzE65h8UG}, contentHash: {3f4547}}
+Singur, îndurerat, purtând blestemul greu {alternative: {For Me}, composer: {B. B. McKinney}, writer: {Nelu Mureșan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {o9c5oDXMNz1scbzE65h8UG}, contentHash: {3f4547}}
 
 [sequence]
 v1,v2,v3,v4

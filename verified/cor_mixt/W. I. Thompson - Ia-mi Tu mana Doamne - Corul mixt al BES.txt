@@ -1,0 +1,25 @@
+[title]
+Ia-mi Tu mâna, Doamne {alternative: {*}, composer: {W. I. Thompson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {93bcKvofHQKg85TyFiQPNF}, contentHash: {68f682}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Ia-mi Tu mâna, o, Doamne, Tu ești pacea mea,
+Ești a vieții Stâncă tare și nădejdea mea.
+Să nu cad mă ține, dă-mi tăria Ta,
+Să-Ți urmez pe-a vieții cale cât ar fi de grea!
+
+[c]
+Ia-mi Tu mâna, o, Doamne, ia-mi Tu mâna,
+Să-Ți urmez pe-a vieții cale, ia-mi Tu mâna mea!
+
+[v2]
+Doamne-ntinde-mi mâna în lumea asta rea,
+Tu să-mi fii stea luminoasă pe cărarea mea,
+Să veghez m-ajută, râvnă dă-mi și zel,
+Întărește-mi Doamne pașii pân’ ajung la țel!
+
+[c2]
+Ia-mi Tu mâna mea, ia-mi Tu mâna,
+Întărește-mi, Doamne, pașii pân’ ajung la țel!

@@ -1,0 +1,39 @@
+[title]
+Să fim gata {alternative: {*}, composer: {Nicu Rusu}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {7EZZHhvrrccPDvaxdVtLkF}, contentHash: {9e198a}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+Timpul este pe sfârșite, dar puțini azi iau aminte,
+La mesajul ce răzbate prin eter:
+Deșteptarea sus, creștine, Dumnezeul nostru vine,
+Este timpul să fim gata pentru cer!
+
+[c]
+Să fim gata, vine Domnul, maranata!
+Pregătit ești să-L întâmpini bucuros?
+Paradisul e răsplata pentru cel ce este gata,
+Și trăiește în așteptarea lui Hristos.
+
+[v2]
+Mulți își părăsesc credința și resping azi pocăința,
+Împietriți fiind, în nepăsare pier.
+Deșteptarea sus, creștine, Dumnezeul nostru vine,
+Este timpul să fim gata pentru cer!
+
+[v3]
+Răul parcă ia amploare, e răceală-n adunare,
+Și sfințenia-i uitată într-un ungher.
+Deșteptarea sus, creștine, Dumnezeul nostru vine,
+Este timpul să fim gata pentru cer!
+
+[v4]
+Duhul lumii tot mai tare vrea să intre-n adunare
+Și cel sfânt se simte astfel mai stingher.
+Deșteptarea sus, creștine, Dumnezeul nostru vine,
+Este timpul să fim gata pentru cer!
+
+[e]
+Și trăiește-n așteptarea lui Hristos,
+Să fim gata!

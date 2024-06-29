@@ -1,0 +1,54 @@
+[title]
+Dimineață cu Apocalipsa 22 {alternative: {*}, composer: {Dan Muncaciu și Andrei Fedur}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {k9HZmscfnR3CBYmsuFYZSn}, contentHash: {1d8fd7}}
+
+[sequence]
+v1,c,v2,v3,v4,c2.1,c2.2,e
+
+[v1]
+E liniște, e noapte-afară, totul s-a oprit,
+Dar luna, ea, veghează cerul, ce a adormit.
+Privesc înspre Tine, mi-e sufletul pustiu,
+Aștept să treacă noaptea și nu știu.
+
+[c]
+Poate dimineață vei apărea pe nori,
+Dimineață mă vei trezi în zori,
+Dimineață va fi o nouă zi,
+Dimineață poate vei veni.
+
+[v2]
+Noaptea a trecut, o, Doamne, totuși n-ai venit,
+E o nouă zi în care Te aștept să vii.
+Privesc înspre Tine, mi-e dor să Te-ntâlnesc,
+Să-Ți spun: o, Doamne, Te iubesc!
+
+[v3]
+Acolo noapte nu va fi,
+În cer va fi numai lumină,
+Căci Dumnezeu va-mpărăți
+Cu cei ce I se-nchină.
+
+[v4]
+Apoi L-am auzit strigând, cu glasul Lui puternic:
+„Și iată că Eu vin curând, ferice de cel vrednic!”
+Va fi ferice de voi toți cu haina pregătită,
+Când veți intra atunci pe porți,
+La marea cea de sticlă!
+
+[c2.1]
+Și Duhul și Mireasa zic:
+„O, vino, vino, Doamne Isuse!”
+Iar ochii către cer ridic,
+Privind cu brațele deschise.
+
+[c2.2]
+Te-așteptăm ca să revii,
+Isus, iubitul nostru mire,
+Să zburăm spre veșnicii,
+Spre-acele zări senine!
+
+[e]
+Iar ochii către cer ridic
+Privind cu brațele deschise,
+Și Duhul și Mireasa zic
+„Vino, Doamne Isuse!”

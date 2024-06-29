@@ -1,0 +1,25 @@
+[title]
+Trei în Unu, Unu-n Trei {alternative: {*}, composer: {F. Filitz}, writer: {Lucian Hord}, arranger: {Kenneth Tucker}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {rhL2TP2hEQt8o9D3XNHF65}, contentHash: {6b2096}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Trei în Unu‘, Unu-n Trei,
+Sfânt, de trei ori sfânt Tu ești,
+Tată, Fiu, Duh Sfânt lăudăm: un Dumnezeu.
+
+[v1]
+Tu ești singurul „Eu sunt”,
+Domn etern, neschimbător,
+Necuprins și nevăzut, Tată-Dumnezeu.
+
+[v2]
+Tu, al nostru Creator,
+Cale, Viață și-Adevăr,
+Preot și Mântuitor, Fiu-Dumnezeu.
+
+[v3]
+Tu ne ești Mângâietor,
+Al puterii sfânt izvor,
+Vrednic călăuzitor, Spirit-Dumnezeu.

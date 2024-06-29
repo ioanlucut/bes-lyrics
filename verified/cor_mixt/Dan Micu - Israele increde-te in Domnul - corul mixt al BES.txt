@@ -1,0 +1,43 @@
+[title]
+Israele, încrede-te în Domnul {alternative: {*}, composer: {Dan Micu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {pYUnQkNxX5EeTzhg5Jm6hV}, contentHash: {eeb468}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,e
+
+[v1]
+Israele, încrede-te în Domnul,
+Israele, încrede-te în Domnul,
+Așa vorbește Domnul, Cel care te-a făcut:
+Israele, încrede-te în Domnul,
+Căci Dumnezeu ce te-a creat, israele, e Domnul Tău!
+
+[v2]
+Te chem pe nume, ești al meu,
+Te izbăvesc Eu, Dumnezeu,
+Că te iubesc, israele, și legământul înnoiesc
+Și pentru tine dau popoare, viața să ți-o izbăvesc!
+
+[v3]
+Când ape adânci în cale-ți vor ieși,
+Voi fi cu tine și te voi păzi!
+Și râurile mari nu te vor îneca,
+Căci Eu sunt Domnul, sunt la dreapta ta!
+
+[v4]
+Și chiar prin flăcări de va fi să treci,
+Israele, cu tine sunt în veci, în veci de veci
+Și focul cel aprins nu te va-nspăimânta
+Căci eu sunt Domnul, sunt la dreapta ta!
+
+[v5]
+Israele, poporul Meu, încrede-te în Dumnezeu,
+Te chem pe nume, ești al Meu, căci Eu sunt Creatorul Tău.
+Israele cu Dumnezeu tu vei învinge orice greu,
+Așa vorbește Dumnezeu, încrede-te în Dumnezeu!
+
+[v6]
+Că Domnul e izbăvitor, e singurul mântuitor,
+Alege-L dar ca Domn al tău și fericit vei fi mereu!
+
+[e]
+Fericit vei fi mereu!

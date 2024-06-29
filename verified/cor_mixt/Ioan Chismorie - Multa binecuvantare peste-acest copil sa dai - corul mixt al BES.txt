@@ -1,0 +1,25 @@
+[title]
+Multă binecuvântare peste-acest copil să dai {alternative: {*}, composer: {Ioan Chișmorie}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {gdowosL1yToTYqCF8BwhdH}, contentHash: {aee7cf}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2
+
+[v1]
+Multă binecuvântare peste-acest copil să dai,
+Luminează-a lui cărare, sub privirea Ta să-l ai!
+
+[c1.1]
+/: O, Doamne sfânt ce ești în ceruri,
+Tu mâna sfântă să-i întinzi!
+Și, când vin ispite grele,
+Tu în brațe să-l cuprinzi! :/
+
+[c1.2]
+/: Să dai din cer ca el în veci
+Să rămână lângă Tine credincios,
+Să fii slăvit căci Tu ne-ai dat bucurii,
+O, Doamne sfânt să fii lăudat! :/
+
+[v2]
+Fă ca-n viața lui, o, Doamne, să-Ți rămână credincios,
+Și în via Ta de-a pururi el să fie de folos!

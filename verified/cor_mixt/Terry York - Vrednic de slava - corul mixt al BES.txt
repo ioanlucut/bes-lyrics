@@ -1,0 +1,28 @@
+[title]
+Vrednic de slavă {alternative: {*}, composer: {Terry York}, writer: {Mark Blankenship}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {4P5MtEZZvkvxqFjtVREKgR}, contentHash: {bcc90d}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Vrednic de slavă și laudă,
+Vrednic de cinste și glorie,
+Demn de cântări și de voci preamărit,
+Vrednic de totul ce noi dăruim.
+
+[c]
+Tu ești vrednic. Tată din ceruri,
+Tu ești vrednic, Tu Salvatorul!
+Tu ești vrednic sfântă-nchinare și slavă
+Doar Ție să-Ți dăm!
+
+[v2]
+Vrednic de teamă și dragoste,
+Vrednic de-a noastră-nchinare.
+Vrednic să-mi plec genunchiu-n pământ,
+Vrednic de totul ești Tu, Doamne sfânt.
+
+[v3]
+Atotputernic Tată și Domn, Rege al regilor,
+Salvator, Sfetnic, Prieten și Mângâietor,
+Tu, mântuirea și-al vieții izvor.

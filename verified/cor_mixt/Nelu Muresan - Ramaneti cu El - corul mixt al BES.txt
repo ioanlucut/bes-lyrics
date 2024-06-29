@@ -1,0 +1,29 @@
+[title]
+Rămâneți cu El {alternative: {*}, composer: {Nelu Mureșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {nGJ3TsVQ2Uz2eoch9zA2B8}, contentHash: {bda6c8}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Voi azi ați decis în iubire să fiți
+Uniți ne-ncetat, toată viața,
+Și-acum de la Domnul doriți să primiți
+Belșugul de har și povață.
+
+[c]
+Rămâneți cu El, Cel ce toate-a zidit,
+El, unic izvor de iubire,
+Cu El, drumul vostru va fi, negreșit,
+Frumos, plin de har și-mplinire!
+
+[v2]
+Să puneți poverile-n sarcina Lui,
+A Celui ce toate le știe,
+Căci niciun suspin, nicio sarcină nu-i
+Să nu-și afle-n El tălmăcire.
+
+[v3]
+Aduceți cu voi pe al rugii altar
+Un sincer prinos: mulțumire!
+Știind că Isus vă trimite-orice dar,
+La El veți găsi fericirea.

@@ -1,0 +1,21 @@
+[title]
+Tatăl nostru care ne ești în ceruri {alternative: {*}, composer: {Emil Simon}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {6roGj1qKznf6fdiCo7oEhz}, contentHash: {9a0c26}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Tatăl nostru care ne ești în ceruri,
+Sfințească-se numele Tău, vie-mpărăția Ta,
+Fie voia Ta, precum în cer așa și pe pământ.
+
+[v2]
+Pâinea noastră cea de toate zilele
+Dă-ne-o nouă astăzi
+Și ne iartă păcatele noastre
+Precum și noi iertăm greșiților noștri
+
+[v3]
+Și nu ne duce pe noi în ispită
+Ci mântuiește de cel rău.
+Amin!

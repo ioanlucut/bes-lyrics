@@ -1,5 +1,5 @@
 [title]
-Am fost răstignit cu Hristos {alternative: {Crucified with Christ}, composer: {Rachel N. Costin}, writer: {Claudiu Lulciuc}, arranger: {Marian Fedur}, interpreter: {corul evanghelic Laudate Dominum}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {xtqVVmDsxxW2YoCxdKh8x5}, contentHash: {b2025c}}
+Am fost răstignit cu Hristos {alternative: {Crucified with Christ}, composer: {Rachel N. Costin}, writer: {Claudiu Lulciuc}, arranger: {Marian Fedur}, interpreter: {corul evanghelic Laudate Dominum}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {xtqVVmDsxxW2YoCxdKh8x5}, contentHash: {b2025c}}
 
 [sequence]
 v1,c,v2,c,b,b2,c2,e

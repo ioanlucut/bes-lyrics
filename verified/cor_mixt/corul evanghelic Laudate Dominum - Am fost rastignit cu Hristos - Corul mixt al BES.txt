@@ -1,0 +1,44 @@
+[title]
+Am fost răstignit cu Hristos {alternative: {*}, composer: {Rachel N. Costin}, writer: {Claudiu Lulciuc}, arranger: {Marian Fedur}, interpreter: {corul evanghelic Laudate Dominum}, band: {*}, key: {*}, tempo: {Easter songs}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {92r62dwkwRnAXfR3mKB5An}, contentHash: {e33a3c}}
+
+[sequence]
+v1,c,v2,c,b,b2,c2,e
+
+[v1]
+Trecutul meu l-a șters,
+Azi nu mai sunt cel de ieri
+Și-n lume locul nu-mi mai găsesc,
+Pentru cer eu trăiesc.
+
+[c]
+Am fost răstignit cu Hristos,
+Nu mai trăiesc eu, ci El în min’!
+Viața o închin doar lui Isus,
+Ce pentru mine S-a jertfit.
+
+[v2]
+Credința-n jertfa Sa
+O viața nouă mi-a dat
+Și fie lupta cât de grea,
+Prin Hristos am victoria!
+
+[b]
+Precum Hristos am murit,
+Precum Hristos am înviat,
+Prin Hristos viața am aflat,
+Prin jertfa Lui am fost iertat.
+
+[b2]
+/: Iar prin Hristos voi trăi
+Și pentru El voi muri,
+‘Naintea Lui mă închin,
+Glorie în veci, amin! :/
+
+[c2]
+Am fost răstignit cu Hristos,
+Nu mai trăiesc eu, ci El în min’!
+Viața o închin /: Doar lui Isus,
+Ce m-a iubit nespus! :/
+
+[e]
+Doar lui Isus, ce pentru mine S-a jertfit.

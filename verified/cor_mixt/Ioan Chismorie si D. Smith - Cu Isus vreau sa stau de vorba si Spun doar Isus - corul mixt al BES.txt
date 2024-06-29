@@ -1,5 +1,5 @@
 [title]
-Cu Isus vreau să stau de vorbă și Spun doar Isus {alternative: {*}, composer: {Ioan Chișmorie și D. Smith}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {33iJjcRJBHJjwjvAkY2McR}, contentHash: {2ef51a}}
+Cu Isus vreau să stau de vorbă și Spun doar Isus {alternative: {*}, composer: {Ioan Chișmorie și D. Smith}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {2i2Qy2hyBAnBW4Q3MV8sre}, contentHash: {4c4627}}
 
 [sequence]
 v1,v2,v3,c,v4,c,c,v5,v6,v7,e
@@ -23,8 +23,10 @@ Declar aici speranță-n libertate,
 Spun doar Isus.
 
 [c]
-Ești Cel puternic, ești Cel ce vindeci, ești viață-n noi,
-Rupi orice zid greu, aduci lumina și foc în noi.
+Ești Cel puternic,
+Ești Cel ce vindeci, ești viață-n noi,
+Rupi orice zid greu,
+Aduci lumina și foc în noi.
 
 [v4]
 Eu voi rosti doar numele lui Isus
@@ -46,7 +48,7 @@ Nu L-aș mai lăsa nicicând din inima mea
 [v7]
 Nu L-aș mai lăsa nicicând din inima mea
 Și tot ce-aș avea mai scump lui Isus I-aș da,
-Lui Isus i-aș da.
+Lui Isus I-aș da.
 
 [e]
 Voi rosti doar numele lui Isus!

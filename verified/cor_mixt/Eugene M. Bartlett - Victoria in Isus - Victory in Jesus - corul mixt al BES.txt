@@ -1,5 +1,5 @@
 [title]
-Victoria în Isus {alternative: {Victory in Jesus}, composer: {Eugene M. Bartlett}, writer: {Eugene M. Bartlett; Eugenia Posa}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {wSvEgpWpKqf319fUHw7QAy}, contentHash: {537bd7}}
+Victoria în Isus {alternative: {Victory in Jesus}, composer: {Eugene M. Bartlett}, writer: {Eugene M. Bartlett; Eugenia Posa}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {pajn7xD6gufVxu6o65qEHa}, contentHash: {537bd7}}
 
 [sequence]
 v1,c,v2,c,v3,c

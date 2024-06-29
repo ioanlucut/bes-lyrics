@@ -1,0 +1,19 @@
+[title]
+O, Tată bun și sfânt {alternative: {*}, composer: {*}, writer: {Costache Ioanid}, arranger: {J. A. Dasch}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {g8ZcGFwgAEbq3eEVt1ZHpS}, contentHash: {20d704}}
+
+[sequence]
+v1,v2
+
+[v1]
+O, Tată bun și sfânt, o, Tată milostiv,
+Spre tronul Tău a noastră rugă înălțăm:
+Tot mai curați să fim, mai sfinți să Te slujim.
+Tată, Tată, fața-Ți umili căutăm,
+Tată, Tată, dă-ne din harul Tău!
+
+[v2]
+Gând, dor și inimă Tu să le-ndrumi mereu,
+Când suntem ispitiți, ne dă puterea Ta!
+În ceas de mari dureri, trimite sfânt balsam,
+Revarsă astăzi din îndurarea Ta,
+Iar lauda noastră nu va-nceta cât vom trăi! Amin!
