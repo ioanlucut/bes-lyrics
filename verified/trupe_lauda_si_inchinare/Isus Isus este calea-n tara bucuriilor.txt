@@ -1,0 +1,29 @@
+[title]
+Isus, Isus este calea-n țara bucuriilor {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gSz7gxyscp48ocAUw9ZQQv}, contentHash: {546290}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu Isus în lumea asta voi merge eu mereu,
+Înainte-i țara mea, înainte-i Dumnezeu.
+Chiar de calea Lui e-ngustă și plină de încercări,
+Cu Isus ajunge-voi în veșnicii.
+
+[c]
+/: Isus, Isus este calea-n țara bucuriilor,
+El e jertfa ce ne poartă spre limanul mult dorit!
+Isus, Isus este calea-n țara bucuriilor,
+Crede-n El și-n veci tu fi-vei fericit! :/
+
+[v2]
+Când durerea te doboară, amice, nu uita,
+Înainte-i țara ta, înainte-i Dumnezeu!
+Atunci ochii îți ridică și cere mila Sa,
+Căci prin harul Său El te va ajuta!
+
+[v3]
+Niciodată pe-a ta cale să nu te uiți ‘napoi,
+Înainte-i țara ta, înainte-i Dumnezeu!
+Veșnicia te așteaptă, la dreapta Lui vei sta,
+Căci El te va duce sus, în țara Sa!

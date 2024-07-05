@@ -1,11 +1,11 @@
 [title]
-Fiindcă atât de mult a iubit Dumnezeu lumea {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3971}, id: {6eLSdNz3d7ze6gA62UAoR8}, contentHash: {e0ad8e}}
+Fiindcă atât de mult a iubit Dumnezeu lumea {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3971}, id: {6eLSdNz3d7ze6gA62UAoR8}, contentHash: {08fde0}}
 
 [sequence]
 c,v1,c,v2,c,v3,c
 
 [c]
-Fiindcă atât de mult a iubit Dumnezeu lumea
+Fiindcă-atât de mult a iubit Dumnezeu lumea
 Că a dat pe singurul Lui Fiu.
 Ca oricine crede-n El să nu piară,
 Ci să aibă viață veșnică.

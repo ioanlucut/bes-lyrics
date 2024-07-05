@@ -1,5 +1,5 @@
 [title]
-Te du mereu mai sus, spre zările senine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3806}, id: {1VZfQZBBqz6Nkkzfy2Hdwi}, contentHash: {8576d6}}
+Te du mereu mai sus, spre zările senine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3806}, id: {1VZfQZBBqz6Nkkzfy2Hdwi}, contentHash: {d567ae}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -7,21 +7,21 @@ v1,c,v2,c,v3,c
 [v1]
 Te du mereu mai sus, spre zările senine!
 Acolo-i fericire pentru tine.
-Cu sfinții-ai întâlnire pe albele coline
+Cu sfinții-ai întâlnire pe albele coline,
 Isus, ca Sfântul Mire, văd că vine.
 
 [c]
-/: Acolo-i pace dulce și lacrimile pier.
+/: Acolo-i pace dulce și lacrimile pier,
 Odihnă îți aduce Divinul Miel! :/
 
 [v2]
 Te du și spune-I Lui că-n mila-I jertfitoare,
-Găsit-ai alinare, acum să-I spui
+Găsit-ai alinare, acum să-I spui!
 Și de-ar veni furtuna, te du mai sus întruna,
 Și vei primi cununa de la Isus!
 
 [v3]
-Orfan de ești în lume, nu dispera, ci-I spune,
+Orfan de ești în lume, nu dispera, ci-I spune!
 El poartă grija ta, nu dispera!
 Îți dă putere-ntruna, să-nvingi oricând furtuna,
 Isus întinde mâna, când crucea-i grea!

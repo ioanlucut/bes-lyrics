@@ -1,5 +1,5 @@
 [title]
-Sunt străjerul care strigă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74496}, id: {994j5x3taqjNZqR1bKQxeQ}, contentHash: {fab283}}
+Sunt străjerul care strigă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74496}, id: {994j5x3taqjNZqR1bKQxeQ}, contentHash: {8129a8}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -17,9 +17,9 @@ Strig acum întâia oară:
 Ascultați-mă, din somn să vă treziți!
 
 [c]
-/: Vine Domnul, vine iară,
+/: Vine Domnul, vine iarăși,
 Vine iar Acela ce ne-a mântuit!
-Vine Domnul, vine iară
+Vine Domnul, vine iarăși
 Să ne ia și să ne ducă sus în cer! :/
 
 [v2.1]

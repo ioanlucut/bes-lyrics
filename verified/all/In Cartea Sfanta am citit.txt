@@ -1,5 +1,5 @@
 [title]
-În Cartea Sfântă am citit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ienr43P7wdtUNtQWBYRyPF}, contentHash: {cdbb74}}
+În Cartea Sfântă am citit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ienr43P7wdtUNtQWBYRyPF}, contentHash: {f0c484}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -7,19 +7,18 @@ v1,c,v2,c,v3,c
 [v1]
 În Cartea Sfântă am citit pe-acest pământ că a trăit
 Un Om care făcea minuni și numai bine-ntregii lumi.
-Mulțimea Îl înconjura, El cu blândețe le vorbea,
+Mulțimea Îi înconjura, El cu blândețe le vorbea,
 Vestind mereu Cuvântul Lui, de-o patrie cum alta nu-i,
 De-o patrie cum alta nu-i.
 
 [c]
 /: Era un Om cum alții nu-s, era un Om din cer de sus,
-Era Isus, era Isus,
-Era un Om c-o-nfățișare de nespus.
+Era Isus, era Isus, era un Om c-o-nfățișare de nespus.
 Și oamenii la El veneau și pe bolnavi îi vindeca,
 Plini de credință pe Isus ei Îl urmau. :/
 
 [v2]
-Isus cheama pe cei trudiți, pe cei de patimi chinuiți
+Isus chema pe cei trudiți, pe cei de patimi chinuiți
 Din trup El boala le-alunga și-n suflet pace revărsa,
 Vedere orbilor le-a dat, iertându-le al lor păcat,
 Putere celor slăbănogi și vindecare la ologi.
