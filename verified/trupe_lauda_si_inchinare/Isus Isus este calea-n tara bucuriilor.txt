@@ -1,5 +1,5 @@
 [title]
-Isus, Isus este calea-n țara bucuriilor {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Isus, Isus este calea-n țara bucuriilor {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gSz7gxyscp48ocAUw9ZQQv}, contentHash: {546290}}
 
 [sequence]
 v1,c,v2,c,v3,c
