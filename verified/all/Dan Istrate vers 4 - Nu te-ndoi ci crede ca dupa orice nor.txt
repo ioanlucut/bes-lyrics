@@ -18,7 +18,7 @@ Nici la vrăjmașul care te-ar nimici degrab’.
 
 [v2.2]
 /: Nu te uita la ziduri, la porțile de fier,
-La ura ce scrâșnește, Ci uită-te la cer. :/
+La ura ce scrâșnește, ci uită-te la cer. :/
 
 [v3.1]
 Nu te-ndoi, ci crede că dincolo de tot,
