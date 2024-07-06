@@ -1,5 +1,5 @@
 [title]
-Te-aștept, Isuse, privind spre ceruri {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1543}, id: {cGyetHZJ2pUA8sWPrDuyji}, contentHash: {42b606}}
+Te-aștept, Isuse, privind spre ceruri {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1543}, id: {cGyetHZJ2pUA8sWPrDuyji}, contentHash: {df4cef}}
 
 [sequence]
 v1,c,v2,c2,v3,e
@@ -19,7 +19,7 @@ Ce fac eu dacă vii?
 [v2]
 Te-aștept și ziua și-mi este teamă
 Că Tu vei apărea.
-O, dă-mi putere, când simt durere
+O, dă-mi putere, când simt durere,
 Ca să mă pot lupta.
 
 [c2]
@@ -32,10 +32,10 @@ Numai Tu poți ierta.
 Când, dimineața, dispare ceața,
 Din pat am tresărit.
 Mă scol în grabă, privesc afară
-Să văd dac-ai venit.
+Să văd daca-ai venit.
 
 [e]
-Ca orișicare, în așteptare,
+Ca orișicare, în așteptare
 De-acum eu stau mereu.
 Viața mea toată Îți e predată,
 De-acum eu sunt al Tău.

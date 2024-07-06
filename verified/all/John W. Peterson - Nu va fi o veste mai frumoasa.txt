@@ -1,5 +1,5 @@
 [title]
-Nu va fi o veste mai frumoasă {alternative: {*}, composer: {John W. Peterson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3723}, id: {f6JtcoGsoz9G2Mznfd6m2i}, contentHash: {c512d0}}
+Nu va fi o veste mai frumoasă {alternative: {*}, composer: {John W. Peterson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3723}, id: {f6JtcoGsoz9G2Mznfd6m2i}, contentHash: {a89282}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -11,7 +11,8 @@ Nici iubire care să jertfească
 Pentru noi cât a jertfit Isus.
 
 [c]
-Dragostea Lui e lucrul cel mai minunat, minunat, minunat,
+Dragostea Lui e lucrul cel mai minunat,
+Minunat, o, ce minunat,
 O, dragostea Lui e lucrul cel mai minunat,
 Minunat și pentru noi!
 
