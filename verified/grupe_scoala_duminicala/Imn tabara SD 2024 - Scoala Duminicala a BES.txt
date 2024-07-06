@@ -1,5 +1,5 @@
 [title]
-Imn tabăra SD 2024 {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Școala Duminicală a BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Imn tabăra SD 2024 {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Școala Duminicală a BES}, genre: {*}, rcId: {*}, id: {sAktJWYEFUHAYixWho6gUS}, contentHash: {6020bc}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,e
