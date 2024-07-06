@@ -5,7 +5,7 @@ Să-nalț jertfa Ta, Isuse {alternative: {*}, composer: {Nicolae Moldoveanu}, wr
 v1,c,v2,c,v3,c
 
 [v1]
-Să-nalț jertfa Ta, Isuse,
+Să ‘nalț jertfa Ta, Isuse,
 Mai întâi și mai deplin,
 Harurile ei aduse
 Și comorile-i nespuse.

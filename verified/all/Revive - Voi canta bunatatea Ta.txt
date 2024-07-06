@@ -5,29 +5,37 @@ Voi cânta bunătatea Ta {alternative: {*}, composer: {Revive}, writer: {*}, arr
 v1,v2,c,v3,v4,c2,b,c2
 
 [v1]
-Voi cânta a Ta îndurare, voi vesti, Doamne, a Ta lucrare,
+Voi cânta a Ta îndurare,
+Voi vesti, Doamne, a Ta lucrare,
 Credincios Tu rămâi din veșnicii!
 
 [v2]
-Ceru-ntreg e uimit de Tine, în univers totu-Ți aparține,
+Ceru-ntreg e uimit de Tine,
+În univers totu-Ți aparține,
 Tu ești necuprins!
 
 [c]
-Voi cânta bunătatea Ta, voi vesti minunile Tale,
+Voi cânta bunătatea Ta,
+Voi vesti minunile Tale,
 Voi lăuda credincioșia Ta din neam în neam!
 
 [v3]
-Tu ești bun, judeci cu dreptate, fața Ta luminează în noapte,
+Tu ești bun, judeci cu dreptate,
+Fața Ta luminează în noapte,
 Credincios, împlinești ce ai promis.
 
 [v4]
 Domnul meu, cine e ca Tine?
-Stăpânești peste omenire, știu, Tu rămâi pe tron!
+Stăpânești peste omenire,
+Știu, Tu rămâi pe tron!
 
 [c2]
-/: Voi cânta bunătatea Ta, voi vesti minunile Tale,
+/: Voi cânta bunătatea Ta,
+Voi vesti minunile Tale,
 Voi lăuda credincioșia Ta din neam în neam! :/
 
 [b]
-Atunci Îți cânt, Măreț Stăpânitor, ce mare ești, ce mare ești!
-Atunci Îți cânt, Măreț Stăpânitor, ce mare ești, ce mare ești!
+Atunci Îți cânt, Măreț Stăpânitor,
+Ce mare ești, ce mare ești!
+Atunci Îți cânt, Măreț Stăpânitor,
+Ce mare ești, ce mare ești!

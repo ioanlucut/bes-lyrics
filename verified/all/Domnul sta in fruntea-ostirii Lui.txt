@@ -2,20 +2,29 @@
 Domnul stă în fruntea-oștirii Lui {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4897}, id: {xiKDdrdF93Wt4aat9JLATT}, contentHash: {11871b}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
-Domnul stă în fruntea-oștirii Lui, nimeni nu o poate birui,
+[v1.1]
+Domnul stă în fruntea-oștirii Lui,
+Nimeni nu o poate birui,
 Pretutindeni slava Lui se va vedea.
-Tu să porți al biruinței steag, slavă Lui, Isus a câștigat!
+
+[v1.2]
+Tu să porți al biruinței steag,
+Slavă Lui, Isus a câștigat!
 Nicio armă nu-i mai tare ca a Lui.
 
 [c]
-/: Un Domn triumfător e Isus, noi Îl urmăm unde ne duce.
+/: Un Domn triumfător e Isus,
+Noi Îl urmăm unde ne duce.
 Vrăjmașii nu se pot împotrivi. :/
 
-[v2]
-Domnul stă în fruntea-oștirii Lui, nimeni nu o poate birui,
+[v2.1]
+Domnul stă în fruntea-oștirii Lui,
+Nimeni nu o poate birui,
 Pretutindeni slava Lui se va vedea.
-Stăm în oastea biruinței Lui, se descoperă domnia Lui,
-Să intrăm în țara care ne-a promis.
+
+[v2.2]
+Stăm în oastea biruinței Lui,
+Se descoperă domnia Lui,
+Să intrăm în țara care ne-a promis!
