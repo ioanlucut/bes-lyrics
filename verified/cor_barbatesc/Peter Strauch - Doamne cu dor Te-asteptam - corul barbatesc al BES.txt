@@ -1,0 +1,32 @@
+[title]
+Doamne, cu dor Te-așteptăm {alternative: {*}, composer: {Peter Strauch}, writer: {*}, arranger: {Doru Niculescu}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,e
+
+[v1]
+Doamne, căutăm voia Ta,
+Mâna Ta să ne călăuzească
+Pe cărările Tale ne crească,
+Doamne, căutăm voia Ta!
+
+[v2]
+Doamne, primim sfatul Tău,
+Înainte de-a merge spre casă,
+Viața-aceasta-i cu Tine frumoasă,
+Doamne, primim sfatul Tău!
+
+[v3]
+Doamne, fii azi lăudat,
+Tu ne-ai dat pâinea Ta de lumină
+Și o cupă de dragoste plină,
+Doamne, fii azi lăudat!
+
+[v4]
+Doamne, cu dor Te-așteptăm,
+Ne-ai promis că vom fi împreună
+Și pe cap ne vei pune cunună,
+Doamne, cu dor Te-așteptăm!
+
+[e]
+Doamne, cu dor Te-așteptăm!
