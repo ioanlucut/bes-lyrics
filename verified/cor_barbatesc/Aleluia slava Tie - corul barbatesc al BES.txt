@@ -1,0 +1,10 @@
+[title]
+Aleluia, slavă Ție {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1
+
+[v1]
+Aleluia, slavă Ție, aleluia, amin,
+Aleluia, slavă Ție, Te lăudăm în veci.
+Te lăudăm, Te lăudăm în veci!

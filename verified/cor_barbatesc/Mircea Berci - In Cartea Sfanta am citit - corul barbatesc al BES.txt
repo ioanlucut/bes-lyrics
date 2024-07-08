@@ -1,0 +1,39 @@
+[title]
+În Cartea Sfântă am citit {alternative: {*}, composer: {Mircea Berci}, writer: {Mircea Berci}, arranger: {Adi Mura}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3.1,v3.2,c,e
+
+[v1]
+În Cartea Sfântă am citit pe-acest pământ că a trăit
+Un Om care făcea minuni și numai bine-ntregii lumi.
+Mulțimea Îl înconjura, El cu blândețe îi vorbea,
+Vestind mereu Cuvântul sfânt,
+De-o patrie, de-un alt pământ.
+
+[c]
+/: Era un Om cum alții nu-s, era un Om din cer de sus,
+Era Isus, era Isus, era un Om c-o-nfățișare de nespus.
+Și oamenii la El veneau, pacea în suflet o primeau,
+Plini de credință pe Isus ei Îl urmau. :/
+
+[v2]
+Isus chema pe cei trudiți, pe cei de patimi chinuiți,
+Din trup El boala alunga și-n suflet pace revărsa,
+Iar pentru cei ce L-au hulit la Tatăl Sfânt a mijlocit,
+Să-i ierte de al lor păcat, să-i ierte că nu știu ce fac.
+
+[v3.1]
+Și azi Isus ca și-n trecut
+Lucrează, poate, chiar mai mult,
+Minuni vedem la orice pas
+Când El veghează-al vieții ceas.
+
+[v3.2]
+Dar nu mai e jos pe pământ,
+La dreapta Tatălui Cel Sfânt
+S-a înălțat și ne-a promis:
+Vom fi cu El în paradis.
+
+[e]
+Plini de credință pe Isus vrem să-L urmăm!
