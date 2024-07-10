@@ -1,0 +1,11 @@
+[title]
+În haine de nunta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1
+
+[v1]
+Ce măreață va fi clipa când trompeta va suna,
+În haine de nuntă către cer noi vom pleca,
+Vom uita deplin durerea ce aici a fost cândva,
+În haine de nuntă noi vom pleca.
