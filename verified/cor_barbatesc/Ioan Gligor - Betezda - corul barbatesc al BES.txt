@@ -1,0 +1,41 @@
+[title]
+Betezda {alternative: {*}, composer: {Ioan Gligor}, writer: {Ioan Gligor}, arranger: {Daniel Moțocan}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c1,v2,c2,v3,c3
+
+[v1]
+Așa de mult m-a chinuit setea
+Și patul nu-l părăseam,
+Degeaba apa a fost tulburată,
+Eu fără nădejde eram.
+
+[c1]
+/: Cum să trăiesc eu fără nădejde,
+Puternice Dumnezeu?
+Degeaba apa a fost tulburată,
+Căci altul se vindecă. :/
+
+[v2]
+Dar într-o zi spre mine se-apleacă
+Să mă ridice-un Străin,
+Și mâna-mi rece duios mi-o prinde,
+Cu lacrimi el mi-a vorbit.
+
+[c2]
+/: O sfântă putere-a pătruns în mine
+Și patul l-am părăsit.
+Betezda azi era luminată
+De-al meu scump Mântuitor. :/
+
+[v3]
+Acum tresaltă, căci ai putere
+Tu care olog erai,
+Și părăsește acum Betezda,
+Unde-ai stat atâția ani!
+
+[c3]
+/: O, Tu ești a mea slăvită nădejde
+Și pentru Tine trăiesc,
+Căci pentru mine L-ai dat pe Isus,
+Slăvitul Mântuitor! :/

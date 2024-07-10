@@ -1,0 +1,26 @@
+[title]
+Nu e mult și vine dimineața {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,e
+
+[v1]
+/: Se apropie judecata în curând, în curând, :/
+/: Pregătește-te să fii gata, în curând, în curând! :/
+/: Nu e mult și vine dimineața în curând, în curând, :/
+/: Va apare răsăritul, în curând, în curând! :/
+
+[v2]
+/: Vom străbate-ntreg întinsul, în curând, în curând :/
+/: Nu e mult și vine dimineața, în curând, în curând, :/
+Ce măreață sărbătoare, auzi-vom o strigare:
+Iată, Mirele apare să ieșiți spre-ntâmpinare!
+
+[v3]
+/: Spre cer vom zbura, spre cer vom zbura, :/
+/: Ce har minunat, spre ceruri noi vom pleca! :/
+Haine albe vom purta, haine albe vom purta,
+Nu e mult și vine dimineața, în curând, în curând!
+
+[e]
+Nu e mult și vine dimineața, în curând, în curând! (x3)

@@ -1,0 +1,42 @@
+[title]
+Sus în slavă {alternative: {*}, composer: {Dorin Mihai}, writer: {Dorin Mihai}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2,e
+
+[v1]
+Ne-apropiem de venirea lui Isus,
+Curând, curând în strălucire ne-om bucura,
+Dar pân’ atunci fii veghetor și nu murmura
+Și fericit vei fi când pe nume te va chema!
+
+[c1.1]
+Sus în slavă, în mărire,
+Va fi pe veci doar fericire,
+Dureri, necaz vor dispărea,
+În veci iubirea va trona.
+
+[c1.2]
+Dar pân’ atunci fii veghetor
+și Domnul îți va da ajutor!
+Cheamă mereu prezența Sa
+În viața Ta!
+
+[v2]
+Adeseori ai fost lovit de cel viclean,
+Dar Dumnezeu cel plin de milă te-a ridicat.
+El și pe tine sus pe cruce te-a răscumpărat
+Și-ar vrea să fii și tu în cerul minunat.
+
+[v3.1]
+Vino chiar azi la Domnul, hai, vino, vino, nu mai amâna,
+Haide, vino, vino, vino chiar azi la Domnul,
+Predă-I inima ta!
+
+[v3.2]
+Hai, vino, vino, vino chiar azi la Domnul,
+Hai vino, nu mai zăbovi,
+Dacă vrei să fii și tu cu El în cer, în veșnicii!
+
+[e]
+Cheamă mereu prezența Sa în viața ta!

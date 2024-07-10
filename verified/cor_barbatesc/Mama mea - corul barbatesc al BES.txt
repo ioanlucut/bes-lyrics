@@ -1,0 +1,31 @@
+[title]
+Mama mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,c,v2,c,v3,c,e
+
+
+[v1.1]
+Stau și privesc cu drag în urmă,
+O, ce dulce-i amintirea
+Unor ochi ce nicicând n-am să-i uit.
+
+[v1.2]
+Când eram în nesiguranță,
+Ea îmi vorbea despre speranță,
+Glasul ei blând nicicând n-am să-l uit.
+
+[c]
+Mama mea, mama mea,
+Nu pot uita iubirea ce blând mă alina,
+Mama mea, mama mea,
+Prin tine Dumnezeu viață mi-a dat.
+
+[v2]
+Știu că sacrificiul mare, plin de lacrimi și sudoare,
+Va fi răsplătit odată de Isus.
+Îți aud și-acuma glasul ce îmi spunea să las păcatul,
+Povața ta mi-a dat aripi spre cer.
+
+[e]
+Prin tine Dumnezeu viață mi-a dat.
