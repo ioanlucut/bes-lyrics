@@ -1,0 +1,29 @@
+[title]
+Vine Domnul, vine Domnul {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae Moldoveanu; Dinu Fedur, prelucrare}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Vine Domnul, vine Domnul, e cuvântul mare
+Pentru cei ce cred și-așteaptă sfânta-I arătare.
+
+[c]
+Vine Domnul, vine Domnul,
+/: Suflete, te-ntreabă astăzi ce va fi cu tine! :/
+
+[v2]
+Vine Domnul, vine Domnul, gata-i să sosească,
+Aurora dimineții prinde să mijească!
+
+[v3]
+Vine Domnul, vine Domnul, sus avem privirea,
+Căci de-acolo ni se-aduce nouă izbăvirea.
+
+[v4]
+Vine Domnul, vine Domnul, iată se ivește,
+S-aruncăm orice povară ce ne copleșește!
+
+[v5]
+Vine Domnul, vine Domnul, suflete, fecioare,
+Să-I ieșim în haine albe în întâmpinare!

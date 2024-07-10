@@ -1,0 +1,34 @@
+[title]
+Vestit-au îngerii din cer {alternative: {*}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,v2,v3.1,v3.2,e
+
+[v1.1]
+Vestit-au îngerii din cer în câmp, jos, la păstorI:
+Acum vi S-a născut Hristos, la lume de folos!
+Cu îngerii toți să-I cântăm, cu îngerii toți să-i cântăm
+Și cu oastea cea cerească laude-i dăm lui Dumnezeu!
+
+[v1.2]
+/:  Glorie, glorie lui Dumnezeu,
+Slavă-n înălțimi și pace pe pământ! :/
+
+[v2]
+Când îngerii la cer s-au dus, atunci păstorii au zis:
+Să mergem dar la Betleem, pe Prunc ca să-L vedem!
+Cu îngerii toți să-I cântăm, cu îngerii toți să-i cântăm
+Și cu oastea cea cerească laude-i dăm lui Dumnezeu!
+
+[v3.1]
+Să alergăm și noi cu toți la ieslea lui Hristos
+Și ca păstorii de demult în inimi să-L primim!
+Cu îngerii toți să-I cântăm, cu îngerii toți să-i cântăm
+Și cu oastea cea cerească laude-i dăm lui Dumnezeu!
+
+[v3.2]
+/:  Glorie, glorie lui Dumnezeu,
+Slavă-n înălțimi și pace pe pământ! :/
+
+[e]
+Glorie, glorie!

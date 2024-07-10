@@ -1,0 +1,30 @@
+[title]
+Nuntă binecuvântată {alternative: {*}, composer: {Michel Sykes}, writer: {A. Paul, adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E zi de sărbătoare azi, doi tineri au venit,
+În fața Ta, o, Doamne sfânt, destinul și-au unit.
+E dragostea ce i-a legat,
+E iubirea ce acum prin legământ și-o dăruiesc,
+Pornind pe un nou drum.
+
+[c]
+Binecuvântată fie ziua-aceasta pentru voi!
+Doamne, din a Ta iubire să reverși peste-amândoi
+Și de azi înainte Tu să fii în al lor drum,
+Mâna Ta, Doamne, peste ei să fie-acum!
+
+[v2]
+E ziua sfântă-n care voi cuvântul vi-l veți da,
+E un drum plin de taine noi pe care veți intra.
+Vă va conduce Duhul Sfânt, darul cel mai minunat,
+Ce Tatăl din mărire peste voi L-a revărsat.
+
+[v3]
+În casa voastră vă dorim binecuvântări cerești,
+Pe Domnul slavei să-L urmați, doar Lui să Îi slujiți!
+În unitate să trăiți, ascultând de vocea Lui,
+Și veți ajunge într-o zi la nunta Mielului.

@@ -1,0 +1,24 @@
+[title]
+Dormi în pace Betleem {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Dormi în pace Betleem, zorii zilei noi vedem,
+Îngeri mii Îți cântă-n cor preaslăvit Mântuitor,
+
+[c]
+Domnului să-I dăm mărire, S-a născut Mântuitor,
+Pace, bună-învoire cântă îngerii în cor!
+
+[v2]
+Te ridică Betleem, scoală-te tu suflete,
+Și ascultă fermecat corul cel mai minunat.
+
+[v3]
+Te ridică din ruini lume amorțită-n chin,
+Ia și-aruncă zei tăi, Isus a venit la-ai Săi!
+
+[e]
+Cântă îngerii în cor, cântă îngerii în cor.
