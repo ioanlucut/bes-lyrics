@@ -1,0 +1,46 @@
+[title]
+Binecuvântat să fie Domnul {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {Andrei și Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Binecuvântat să fie Domnul,
+Cel ce-i vrednic, sfânt și-adevărat,
+Întărit să-I fie pe veci tronul,
+Dumnezeului cel sfânt și minunat.
+
+[v1.2]
+Lăudată fie-a Sa putere,
+Căci El universul a creat,
+El a fost și este-a mea plăcere,
+Numele Lui fie lăudat!
+
+[c]
+Fie lăudat, fie lăudat,
+Slava să-L împodobească,
+Fie-I Numele glorificat!
+
+[v2.1]
+Preamărit să fie pe vecie,
+Preaputernicul lui Israel,
+Stânca ce aduce apă vie,
+Regele Isus, Emanuel.
+
+[v2.2]
+Mă aplec cu multă reverență
+Înaintea tronului preasfânt,
+Simt în orice loc a Sa prezență,
+De aceea ne-ncetat Îi cânt.
+
+[v3]
+Înălțat să fie pe vecie scutul
+Și toiagul Celui Sfânt,
+El e oaza mea de bucurie
+În umblarea mea pe-acest pământ.
+
+[v3.2]
+Voi trăi cu El în armonie,
+Mulțumindu-I toată viața mea,
+Căci, deși sunt rău, mi-a dat și mie
+Mântuire sus la Golgota.

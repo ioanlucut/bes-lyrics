@@ -1,0 +1,32 @@
+[title]
+De-a lungul vieții tale {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {Marian și Dinu Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,e
+
+[v1]
+De-a lungul vieții tale, la geam ca și acum,
+Copii cu voci firave ți-au spus că e Crăciun.
+În timp ce-ai stat la sobă și te-ai încălzit
+Ți-au amintit că Domnul în case n-a fost primit.
+
+[v2]
+/: Doar într-un grajd cu animale,
+Pătuț din paie I-au făcut,
+El nu a fost primit de oameni,
+Acolo Domnul S-a născut. /:
+
+[v3]
+De-a lungul vieții tale, trecut-au sărbători
+Ce ți-au lăsat în suflet atâtea întrebări,
+Și azi un glas te-ntreabă, te-ntreabă blând duios
+De ai un loc în suflet pentru Isus Hristos.
+
+[v4]
+Că nu știi dacă va mai trece o sărbătoare în viața ta
+Și cineva să te întrebe de vrei pe Isus a-L lăsa
+Să intre-n viața ta cu pace, să simți că tu ești mântuit.
+Prietene, gândește bine, pentru noi Domnul a venit.
+
+[e]
+Pentru noi Domnul a venit.

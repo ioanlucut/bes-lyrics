@@ -1,0 +1,52 @@
+[title]
+Mai avem puțin de mers {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae Moldoveanu}, arranger: {Daniel Moțocan}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2,e
+
+[v1.1]
+Mai avem puțin de mers
+Pân’ la ținta mult dorită.
+Plânsul nostru va fi șters
+De lumina-nveșnicită.
+
+[v1.2]
+/: Plânsul nostru va fi șters,
+Plânsul nostru va fi șters
+De lumina-nveșnicită. :/
+
+[v2.1]
+Mai avem puțin de stat
+Pe pământul fără pace,
+Și, în cerul minunat,
+Un etern popas vom face.
+
+[v2.2]
+/: Și, în cerul minunat,
+Și, în cerul minunat,
+Un etern popas vom face. :/
+
+[v3.1]
+Mai avem puțin de dus
+Crucea pregătirii noastre,
+Și zbura-vom, mult mai sus,
+De tăriile albastre.
+
+[v3.2]
+/: Și zbura-vom, mult mai sus,
+Și zbura-vom, mult mai sus,
+De tăriile albastre. :/
+
+[v4.1]
+Mai avem puțin, puțin,
+Pân’ la sfânta întâlnire,
+În văzduhul cristalin
+Cu Isus, Preascumpul Mire.
+
+[v4.2]
+/: În văzduhul cristalin,
+În văzduhul cristalin
+Cu Isus, Preascumpul Mire. :/
+
+[e]
+Mai avem puțin, puțin pân’ la sfânta întâlnire!

@@ -1,0 +1,17 @@
+[title]
+Lăudați puterea lui Isus {alternative: {*}, composer: {Oliver Holden}, writer: {Edward Perronet}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Lăudați puterea lui Isus, voi îngeri vă-nchinați,
+/: Coroana de-mpărat luați și Îl încoronați! :/
+
+[v2]
+ Iar voi, martiri de sub altar, cu toți vă închinați,
+/: Odrasla Lui Isai lăudați și Îl încoronați! :/
+
+[v3]
+Voi cei aleși de Dumnezeu, de El răscumpărați,
+/: Lăudați-L pe Emanuel și Îl încoronați! :/

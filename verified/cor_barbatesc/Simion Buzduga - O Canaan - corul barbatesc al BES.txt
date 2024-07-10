@@ -1,0 +1,32 @@
+[title]
+O, Canaan {alternative: {*}, composer: {Simion Buzduga}, writer: {Simion Buzduga}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Noi mergem spre țara făgăduinței,
+Pe calea sfântă a biruinței.
+Isus cu drag ne călăuzește
+Ca vulturul ce puii-și păzește.
+
+[c]
+O, Canaan, o, Canaan,
+Ești mai aproape an de an!
+O, paradis, o, țara mea,
+Curând în tine voi intra!
+
+[v2]
+Furtuni de nisip ne împresoară,
+Iar arșița pustiei doboară,
+Dar din Stânca Vieții mai curge apă,
+Cine-nsetează se adapă.
+
+[v3]
+E-atât de aproape azi Canaanul,
+Mulți nu departe zărim Iordanul,
+Nu-i mult, va dispare-n urmă pustia
+Și vom intra, trăind veșnicia!
+
+[e]
+Curând în tine voi intra!

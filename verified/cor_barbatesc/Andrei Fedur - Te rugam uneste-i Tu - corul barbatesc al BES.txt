@@ -1,0 +1,33 @@
+[title]
+Te rugăm unește-i Tu {alternative: {*}, composer: {Andrei Fedur}, writer: {Andrei Fedur}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Voioși venim ‘naintea Ta, Isuse,
+Cu-acești doi tineri astăzi la altar,
+Să binecuvântezi Tu legământul
+Și viața-ntreagă să-i păstrezi sub har!
+
+[c]
+Te rugăm unește-i Tu,
+Pentru totdeauna fi-le-nsoțitor!
+Pe cerul vieții lor să fie soare
+Și-alungă norii grei din drumul lor!
+
+[v2]
+În viața-aceasta fi-le călăuză
+Și-n drumul lor să-i însoțești mereu!
+Ascultă-le din ceruri rugăciunea,
+Când vântul va sufla și va fi greu!
+
+[v3]
+Veghează-i Tu când răul stă la pândă,
+Cu mâna Ta le vino-n ajutor
+În orice încercare cât de mare,
+Rămâi pe veci al lor ocrotitor!
+
+[e]
+Pe cerul vieții lor să fie soare
+Și-alungă norii grei din drumul lor!

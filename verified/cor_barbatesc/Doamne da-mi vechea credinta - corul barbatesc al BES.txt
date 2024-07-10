@@ -1,0 +1,35 @@
+[title]
+Doamne, dă-mi vechea credință {alternative: {*}, composer: {*}, writer: {*}, arranger: {Wayne Hooper}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Doamne, dă-mi vechea credință,
+Doamne, dă-mi vechea credință,
+Doamne, dă-mi vechea credință,
+În ea vreau să cred și eu.
+
+[v1]
+A crezut în ea și Moise,
+A crezut în ea și David,
+Au crezut în ea profeții,
+În ea vreau să cred și eu.
+
+[v2]
+A crezut în ea și Pavel,
+A crezut în ea și Sila,
+Au crezut în ea toți sfinții,
+În ea vreau să cred și eu.
+
+[v3]
+A crezut în ea și mama,
+A crezut în ea și tata,
+Au crezut în ea străbunii,
+În ea vreau să cred și eu.
+
+[v4]
+Credința în Sfântul Tată,
+Credința în Domnul Isus,
+Credința în Duhul slavei,
+În ea vreau să cred și eu!

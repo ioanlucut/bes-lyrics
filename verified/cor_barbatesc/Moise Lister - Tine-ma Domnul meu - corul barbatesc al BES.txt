@@ -1,0 +1,25 @@
+[title]
+Ține-mă Domnul meu {alternative: {*}, composer: {Moise Lister}, writer: {Moise Lister; Dinu Fedur, adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,e
+
+[v1]
+Părăsit și înfrânt, de păcat legat,
+Rătăcit, zăceam în păcat.
+Dar un glas iubitor mi-a șoptit duios:
+Vin’ acas’ fiu rătăcitor!
+
+[v2]
+Domnul meu, ține-mă-n orice ceas cât de greu,
+Vreau de azi cu Tine să merg!
+Mâna mea fie mereu în palma Ta, Domnul meu.
+
+[v3]
+Fericit merg cântând cu-al meu drag Isus,
+Bogăție în cer îmi va da,
+Pân-atunci viața mea o închin doar Lui,
+Cântând spre slava Sa.
+
+[e]
+O, mâna mea fie mereu în palma Ta, Domnul meu!

@@ -1,0 +1,41 @@
+[title]
+Eu sunt Domnul {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae Moldoveanu}, arranger: {Daniel Moțocan}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Eu sunt Domnul, sunt Mântuitorul Tău,
+Eu Te chem pe nume, ești al Meu!
+Nu te teme de nimic, de niciun rău,
+Eu te izbăvesc, Eu Dumnezeu!
+
+[c]
+Nu te teme, nu te teme,
+Eu veghez asupra Ta mereu!
+Nu te teme, nu te teme,
+Eu te izbăvesc, Eu Dumnezeu!
+
+[v2]
+Dacă treci prin ape cu talazuri mari,
+Eu voi fi cu tine-n orice greu,
+Bată vânturi, bată cât ar fi de tari,
+Eu te izbăvesc, Eu Dumnezeu!
+
+[v3]
+De vei merge-n focul cel de ură-aprins,
+Adăpost și pavăză sunt Eu,
+Viața nu-ți va arde, nu vei fi atins,
+Eu te izbăvesc, Eu Dumnezeu!
+
+[v4]
+Pentru tine-n lume dau popoare-ntregi,
+Tu ai preț nespus în ochii Mei,
+Te iubesc de-a pururi, asta să-n-țelegi,
+Eu te izbăvesc, Eu Dumnezeu!
+
+[v5]
+Eu sunt Domnul, sunt Mântuitorul tău,
+Tu-Mi poți numele mereu, mereu,
+Nu te teme, Eu lucrez și niciun rău
+Nu-ți va fi, am zis Eu, Dumnezeu!

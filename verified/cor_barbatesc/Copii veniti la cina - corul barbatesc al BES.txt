@@ -1,0 +1,37 @@
+[title]
+Copii veniți la cină {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,v3,v4,c2
+
+[v1]
+Și mama ne-a chemat pe toți în casă,
+Iar noi copiii afară ne jucam.
+Ne amintim de vocea ei duioasă
+Din vremea când noi toți copii eram.
+
+[c]
+Copii, veniți la cină, iar seara a sosit,
+În casă e lumină și paturile vi le-am pregătit!
+
+[v2]
+Dar vremea-aceea a trecut și iată
+Doar amintirea ei păstrăm de-atunci,
+A mamei noastre-atât de calde șoapte
+Și-a ei atât de severe porunci.
+
+[v3]
+Aici noi vom lăsa copilăria
+Și jocurile-n care am crescut,
+Acolo vom începe veșnicia,
+În bucuria fără de sfârșit.
+
+[v4]
+Atunci vei auzi și tu chemarea,
+Prietene ce-afară rătăcești,
+Privește cum se lasă înserarea
+Și tu prin lume încă pribegești!
+
+[c2]
+Lumina e aprinsă în casa Tatălui de sus
+Și masa e întinsă: Copii, veniți la Regele Isus!

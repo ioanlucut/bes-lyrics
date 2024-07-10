@@ -1,0 +1,45 @@
+[title]
+Dragostea {alternative: {*}, composer: {Bill Gaither}, writer: {Bill Gaither; Paul Asoltanei, adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+c1.1,c1.2,v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,e
+
+[c1.1]
+Eu vreau să cânt Celui Sfânt
+Că ne-a dat prin Cuvânt și dragostea
+Ce ne-a unit pe pământ prin acest legământ
+Ca să fim mereu așa.
+
+[c1.2]
+Ea e-ndelung răbdătoare, plină de bunătate,
+Nu caută folosul său.
+Se vor sfârși prorociile, toate vor trece,
+Dar dragostea va fi mereu.
+
+[v1.1]
+Chiar daca-și vorbi în limbi îngerești
+Sau daca-și proroci,
+Chair toate tainele dacă le-aș cunoaște,
+Știința de-aș descoperi,
+
+[v1.2]
+Să am chiar și credința să mut și munții
+Eu tot nimic n-aș fi,
+Căci fără dragoste nimic nu suntem
+Și fără ea n-am dăinui.
+
+[v2.1]
+Și dragostea să fie neprefăcută,
+Lipiți-vă tare de ea,
+În dragoste să faceți orice lucru
+Căci Dumnezeu vrea așa.
+
+[v2.2]
+Să vă iubiți cu dragostea lui Isus,
+În ea să rămâneți mereu!
+Da, dragostea nu va pieri niciodată,
+căci dragostea e Dumnezeu.
+
+[e]
+Se vor sfârși prorociile, toate vor trece,
+Dar dragostea va fi mereu!

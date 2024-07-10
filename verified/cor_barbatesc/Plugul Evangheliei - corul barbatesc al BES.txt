@@ -1,0 +1,33 @@
+[title]
+Plugul Evangheliei {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Noi am fost chemați de Domnul în sfântul Său ogor
+Și lucrăm cu sârguință, chiar de-i obositor.
+Iar când vom sfârși lucrarea cu-al Evangheliei plug,
+Vrem să-ntâmpinăm pe Domnul, cu mâinile pe plug.
+
+[c]
+Ține strâns de plugul sfânt,
+Nu privi-napoi, jos spre pământ!
+Căci în curând vom isprăvi,
+Ține strâns și nu obosi!
+
+[v2]
+Ținta noastră este cerul, noi vrem să-l moștenim,
+Domnul ne-a promis izbânda, dar să nu obosim,
+În curând apare Domnul, Îl vom vedea pe nori,
+Și-I vom saluta venirea, vom fi învingători.
+
+[v3]
+Domnul ne va da răsplata de vom lucra acum,
+Chiar de arșrșița e mare, rămânem lângă plug.
+Ceru-ntreg va fi-n serbare, cu toții vom cânta,
+Iar cu Domnul în mărire acasă vom cina.
+
+[e]
+Ține strâns și nu obosi,
+Și nu obosi!

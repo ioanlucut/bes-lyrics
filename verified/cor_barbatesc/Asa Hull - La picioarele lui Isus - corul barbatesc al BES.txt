@@ -1,0 +1,35 @@
+[title]
+La picioarele lui Isus {alternative: {*}, composer: {Asa Hull}, writer: {Asa Hull}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,e
+
+[v1]
+La picioarele lui Isus e loc sfânt și fericit
+Unde aud a Lui Cuvânt sfânt și tot ce am de păzit.
+
+[v2]
+La picioarele lui Isus tot necazul s-a sfârși
+Căci iubirea-I grațioasă eu acolo am primit.
+
+[v3]
+La picioarele-Ți, Isuse, binecuvântări adun
+Și mereu m-apropi,
+Doamne, întristarea mea să-Ți spun.
+
+[v4]
+La picioarele-Ți, Isuse, o să stau neîncetat
+Să-Ți primesc iubirea-adâncă,
+Harul Tău sfânt și bogat.
+
+[v5]
+Doamne, binecuvântează când ‘naintea Ta mă plec,
+Mă ajută Tu pe-aicia fericit cu Tin’ să trec!
+
+[v6]
+Tată, dă-mi a Ta sfințire, ca Isus doresc să fiu
+Și mă-mbracă în iubire până nu e prea târziu!
+
+[e]
+Până nu e prea târziu,
+Până nu e prea târziu!

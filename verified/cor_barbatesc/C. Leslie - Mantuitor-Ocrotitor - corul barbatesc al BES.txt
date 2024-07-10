@@ -1,0 +1,24 @@
+[title]
+Mântuitor-Ocrotitor {alternative: {*}, composer: {C. Leslie}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c1,v2,c2
+
+[v1]
+Mântuitor, Ocrotitor,
+Isus la Tine eu grăbesc ca liniștire să găsesc.
+
+[c1]
+O, Doamne mare, îndurat, păzește-mă Tu de păcat,
+/: Conducător spre veșnicii
+Din tinerețe vreau să-mi fii! :/
+
+[v2]
+Spre slava Ta cântarea mea
+Astăzi înalț spre Domnul meu,
+Fiindcă al Tău de-acum sunt eu.
+
+[c2]
+Din inimă Îți mulțumesc și vreau ca Ție să-Ți servesc,
+/: De la pierzare m-ai scăpat,
+Cu-al Tău sânge m-ai spălat. :/

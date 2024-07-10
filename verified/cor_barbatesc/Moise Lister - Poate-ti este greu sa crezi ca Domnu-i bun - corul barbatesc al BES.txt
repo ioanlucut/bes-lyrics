@@ -1,0 +1,31 @@
+[title]
+Poate-ți este greu să crezi că Domnu-i bun {alternative: {*}, composer: {Moise Lister}, writer: {Moise Lister}, arranger: {Joseph Linn}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Poate-ți este greu să crezi că Domnu-i bun,
+Poate te-ndoiești de mărturia ce ți-o spun,
+Însă, pentru mine, El e-al meu Isus,
+Mă cuprinde-n brațul Său și-mi este îndeajuns.
+
+[c]
+Niciodată El nu m-a lăsat singur,
+Fiecare pas e-n mâna Sa
+Și chiar de-ar fi să cad pe drum,
+Domnul meu în dragostea-I m-a-nfășura.
+Pot să simt prezența Sa acum și pururea.
+
+[v2]
+Chiar amicii mei mă părăsesc pe rând,
+Ei nu pot să-mi șteargă lacrima din ochi când plâng,
+Dar Isus îmi ia povara mea cea grea,
+El îmi șterge lacrima din ochi cu mâna Sa
+
+[c2]
+Niciodată El nu m-a lăsat singur,
+Fiecare pas e-n mâna Sa.
+Și chiar de-ar fi să cad pe drum
+El m-a ridica spre cer, la Dumnezeu,
+Căci în mâna Sa eu m-am predat: copil al Său.

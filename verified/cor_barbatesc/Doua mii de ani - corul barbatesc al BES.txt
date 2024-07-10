@@ -1,0 +1,32 @@
+[title]
+Două mii de ani {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Două mii de ani în urmă Domnul nostru a vestit
+Și la ucenici le spuse ce avea de suferit.
+Ucenicii se-ntristară auzind de Golgota,
+De paharul suferinței și la cer că va pleca.
+
+[c]
+Nu mai e mult, Isus revine,
+Nu mai e mult, ne ia la Sine!
+Îl vom vedea pe nor de slavă,
+Isus revine în mărire cum a zis!
+
+[v2]
+Viața-aceasta-i trecătoare, nu vă faceți țel din ea,
+Lepădați-vă de lume și luați azi crucea Sa,
+Ce-i din Dumnezeu e veșnic, sufletul nemuritor,
+Pentru el căutați degrabă, pregătiți-i viitor!
+
+[v3]
+Domnul Isus fericește pe poporul Său ales
+Care azi se pregătește pentru locul cel ceresc.
+Moartea nu mai e stăpână peste-ai Domnului copii,
+Căci în ceasul cel din urmă Domnul Isus va veni!
+
+[e]
+Vine în mărire cum a zis!

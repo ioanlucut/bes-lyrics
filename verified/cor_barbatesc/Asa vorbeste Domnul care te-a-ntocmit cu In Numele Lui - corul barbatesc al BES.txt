@@ -1,0 +1,38 @@
+[title]
+Așa vorbește Domnul care te-a-ntocmit cu În Numele Lui {alternative: {*}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c2,v3,c2,e
+
+[v1]
+Așa vorbește Domnul care te-a-ntocmit,
+Sfântul lui Israel, care a biruit:
+„Ape de vei trece, Eu te voi salva
+Și focul nu va arde când lupta este grea!”
+
+[c]
+/: „Te-am purtat pe brațe și vreau să te mai port”,
+Așa vorbește Domnul puternic, Savaot.
+„De-ar veni furtuna și vântul de-ar urla,
+Eu îți sunt salvarea când lupta este grea!” :/
+
+[v2]
+Așa vorbește Domnul, marele-mpărat,
+Puternicul lui Iacov, Cel glorificat:
+„Oameni și popoare pentru tine dau,
+Pentru răscumpărarea și izbăvirea ta!”
+
+[c2]
+/: În Numele Lui ești vindecat,
+În Numele Lui poți fi iertat,
+În Numele Lui ești mântuit,
+În Numele Lui ești fericit. :/
+
+[v3]
+Eu cred în vindecările divine,
+Căci El mă vindecase și pe mine.
+Isus e doctorul cel bun și mare,
+La El găsești alin și vindecare.
+
+[e]
+În Numele Lui ești fericit, fericit!

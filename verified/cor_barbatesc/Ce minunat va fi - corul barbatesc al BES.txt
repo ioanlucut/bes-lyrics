@@ -1,0 +1,21 @@
+Ce minunat va fi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Viața deseori e ca un cer cu nori,
+Parcă te temi privind spre viitor.
+Tu însă de-acum să știi: drumul se va sfârși,
+Liber vei păși în veșnicii.
+
+[c]
+Ce minunat va fi, Isus va reveni,
+Trâmbița va răsuna, morții vor fi treziți,
+Sfinții vor fi răpiți, Isus în slava Sa îi va lua!
+
+[v2]
+Nu va mai fi necaz pe-obraz,
+Ci numai bucurii, numai extaz,
+Clipa va fi un salt pe malul celălalt,
+Unde ne-așteaptă-n prag cerul înalt.
