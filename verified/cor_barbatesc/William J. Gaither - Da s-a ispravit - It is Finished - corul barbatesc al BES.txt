@@ -1,5 +1,5 @@
 [title]
-Da, s-a isprăvit {alternative: {It is Finished}, composer: {William J. Gaither}, writer: {William J. și Gloria Gaither}, arranger: {Camp Kirkland}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {gK39dbrRJgmN3BESUoaPyT}, contentHash: {11ba11}}
+Da, s-a isprăvit {alternative: {It is Finished}, composer: {William J. Gaither}, writer: {William J. și Gloria Gaither}, arranger: {Camp Kirkland}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {gK39dbrRJgmN3BESUoaPyT}, contentHash: {11ba11}}
 
 [sequence]
 v1.1,v1.2,v1.3,c,v2.1,v2.2,c2,e

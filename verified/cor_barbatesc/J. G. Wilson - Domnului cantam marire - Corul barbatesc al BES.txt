@@ -1,0 +1,23 @@
+[title]
+Domnului cântăm mărire {alternative: {*}, composer: {J. G. Wilson}, writer: {E. E. Hewitt; Eugen Drăgoiu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {h3AVDznFFN2NEmhAJZC6Rq}, contentHash: {db3c91}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Domnului cântăm mărire pentru îndurarea Sa,
+În cereasca-mpărăție loc de slavă vom avea.
+
+[c]
+Când în cer vom ajunge,
+O, ce zi, minunată zi va fi!
+Vom vedea pe Isus
+Și-n veci pe El Îl vom slăvi!
+
+[v2]
+Pe pământ, aici, adesea cerul este plin de nori,
+Dar trecând aceste zile, vor veni ai slavei zori.
+
+[v3]
+Țintă spre cerescul premiu ne conduce mâna Sa,
+Iar când poarta s-a deschide, fața Lui o vom vedea.

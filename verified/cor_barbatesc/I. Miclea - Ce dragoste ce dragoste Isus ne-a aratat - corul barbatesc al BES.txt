@@ -1,5 +1,5 @@
 [title]
-Ce dragoste, ce dragoste Isus ne-a arătat {alternative: {*}, composer: {I. Miclea}, writer: {I. Miclea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {dm5Jc6YNhNxtM1isWX7aF9}, contentHash: {9311bb}}
+Ce dragoste, ce dragoste Isus ne-a arătat {alternative: {*}, composer: {I. Miclea}, writer: {I. Miclea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {dm5Jc6YNhNxtM1isWX7aF9}, contentHash: {9311bb}}
 
 [sequence]
 v1,c,v2,c,v3,c

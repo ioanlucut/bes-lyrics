@@ -1,5 +1,5 @@
 [title]
-El a-nviat în Ierusalim {alternative: {*}, composer: {Ioan Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {1p7Z2hAnFX5Ec3chN8jqKp}, contentHash: {f5e53b}}
+El a-nviat în Ierusalim {alternative: {*}, composer: {Ioan Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {1p7Z2hAnFX5Ec3chN8jqKp}, contentHash: {f5e53b}}
 
 [sequence]
 v1,c,v2,c,e

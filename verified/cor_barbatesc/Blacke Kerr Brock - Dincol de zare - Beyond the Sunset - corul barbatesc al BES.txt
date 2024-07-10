@@ -1,5 +1,5 @@
 [title]
-Dincol’ de zare {alternative: {Beyond the Sunset}, composer: {Blacke Kerr Brock}, writer: {Blacke Kerr Brock; Valentin Popovici}, arranger: {Adi Mura}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {brT1KnmK2qcjbuHCVAckyF}, contentHash: {5072fa}}
+Dincol’ de zare {alternative: {Beyond the Sunset}, composer: {Blacke Kerr Brock}, writer: {Blacke Kerr Brock; Valentin Popovici}, arranger: {Adi Mura}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {brT1KnmK2qcjbuHCVAckyF}, contentHash: {5072fa}}
 
 [sequence]
 v1,v2,v3,v4,e

@@ -1,0 +1,28 @@
+[title]
+În ziua de apoi {alternative: {*}, composer: {Kem. G. Bottorf}, writer: {J. Oatman jr.}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {tGDni2ZQwQa2M4fixmQkEL}, contentHash: {a642d8}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În ziua de-apoi, când vom fi toți chemați,
+Când cei sfinți întâlnesc pe Domnul lor,
+Când străinul va-ajunge-n patria sa,
+Laudă Domnului, vom fi acolo!
+
+[c]
+Noi vom fi acolo în marea zi de-apoi,
+Când cei sfinți toți vin acasă,
+Laudă Domnului, vom fi acolo!
+
+[v2]
+Când cei răscumpărați vor cânta toți uniți
+În cântul cel măreț al sfinților,
+Când măreața cântare cu-a lor s-a uni,
+Laudă Domnului vom fi acolo!
+
+[v3]
+Nu ne-om mai despărți în casa cerească,
+N-or mai fi nici dureri în acel loc.
+Iar când Isus va zice: Vin’ la Domnul Tău!
+Laudă Domnului, vom fi acolo!

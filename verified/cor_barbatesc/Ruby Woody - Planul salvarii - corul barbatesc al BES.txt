@@ -1,5 +1,5 @@
 [title]
-Planul salvării {alternative: {*}, composer: {Ruby Woody}, writer: {Ruby Woody; Adi Mura}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {9NUZoELyWzwpXR8hnakBZa}, contentHash: {750450}}
+Planul salvării {alternative: {*}, composer: {Ruby Woody}, writer: {Ruby Woody; Adi Mura}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {9NUZoELyWzwpXR8hnakBZa}, contentHash: {750450}}
 
 [sequence]
 c,v1,c2,v2,c2,e

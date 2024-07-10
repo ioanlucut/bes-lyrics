@@ -1,0 +1,27 @@
+[title]
+În noaptea sfântă {alternative: {*}, composer: {*}, writer: {Adi Mura}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {7P2Wdb7RnJ64e2Y5qfvHce}, contentHash: {8537bd}}
+
+[sequence]
+v1,v2,v3,e
+
+[v1]
+În noaptea rece din trecut, în iesle înfășat,
+Umil și simplu S-a născut al păcii Împărat.
+Salvare lumii a adus prin harul Său divin,
+O, haideți cu toți să-L preamărim, să-L preamărim!
+
+[v2]
+În miez de noapte îngerii păstorilor au spus:
+„Vi S-a născut Mântuitor, Emanuel, Isus!”
+Și astăzi noi ca îngerii pe Isus Îl vestim,
+O, haideți cu toți să-L preamărim, să-L preamărim!
+
+[v3]
+În Betleem Mesia veni jos pe pământ
+S-aducă mântuire și pentru cel înfrânt,
+Să ne-nchinăm să-I mulțumim
+Pentru-al Său dar sublim,
+O, haideți cu toți să-L preamărim, să-L preamărim!
+
+[e]
+O, haideți cu toți să-L preamărim!

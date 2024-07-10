@@ -1,5 +1,5 @@
 [title]
-Planul mântuirii din vecii făcut {alternative: {*}, composer: {The Messangers}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {229001}, id: {bomwHa6KN8uugBb9BnWeZf}, contentHash: {74685e}}
+Planul mântuirii din vecii făcut {alternative: {*}, composer: {The Messangers}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {229001}, id: {bomwHa6KN8uugBb9BnWeZf}, contentHash: {74685e}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Calea, adevărul, viața {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {6696}, id: {m35SCdpx3CwDBnqYgM6o6m}, contentHash: {07e676}}
+Calea, adevărul, viața {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {6696}, id: {m35SCdpx3CwDBnqYgM6o6m}, contentHash: {07e676}}
 
 [sequence]
 c,v1,c,v2,c

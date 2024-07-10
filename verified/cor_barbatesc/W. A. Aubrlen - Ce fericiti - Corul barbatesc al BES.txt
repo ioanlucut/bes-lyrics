@@ -1,0 +1,29 @@
+[title]
+Ce fericiți {alternative: {*}, composer: {W. A. Aubrlen}, writer: {J. Staneschi}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {qFmHyNiUYuAm9wRD4bptzP}, contentHash: {ad344b}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ce fericiți, fără de nicio teamă,
+Cu Tine mergem oriunde ne duci,
+O, sfinte Miel, care-n moarte pe cruce
+Tu, ne-ai chemat să Îți fim ucenici.
+
+[v2]
+La crucea Ta ne-am găsit împreună,
+Aici, o, Doamne, la moarte te-ai dat.
+Până la moarte, dar și pe vecie suntem ai Tăi,
+Doamne, ne-ai ‘liberat!
+
+[v3]
+Și când primejdii, ispite ne-ncearcă,
+Tu ne ții tare și nu vom cădea,
+Biruitori chiar în moarte și-n viață
+Suntem, Isuse, doar prin dreapta Ta!
+
+[v4]
+Până la moarte, Isuse, credință,
+Iubire sfântă mereu Ți-om păstra!
+Până la moarte rămâi Tu, Isuse,
+Al nostru Domn și noi Te vom urma!

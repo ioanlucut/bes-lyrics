@@ -1,5 +1,5 @@
 [title]
-Vrednic e Mielul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {gRC8Ex57sf7zaLvdfddcED}, contentHash: {2aafeb}}
+Vrednic e Mielul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {gRC8Ex57sf7zaLvdfddcED}, contentHash: {2aafeb}}
 
 [sequence]
 v1,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Victoria în Isus {alternative: {Victory in Jesus}, composer: {Eugene M. Bartlett}, writer: {Eugene M. Bartlett; Eugenia Posa}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {wSvEgpWpKqf319fUHw7QAy}, contentHash: {3c4212}}
+Victoria în Isus {alternative: {Victory in Jesus}, composer: {Eugene M. Bartlett}, writer: {Eugene M. Bartlett; Eugenia Posa}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {wSvEgpWpKqf319fUHw7QAy}, contentHash: {537bd7}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -26,4 +26,4 @@ Eu am strigat: O, Doamne, Te-ndură și de mine!
 Am auzit că Domnul mi-a zidit o casă-n ceruri
 Și-n acel locaș de străluciri, la masa Lui voi sta,
 Cu îngerii în coruri, în mărire-I vom da slavă
-Și cântecul victoriei atunci Î vom cânta.
+Și cântecul victoriei atunci Îl vom cânta.

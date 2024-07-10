@@ -1,5 +1,5 @@
 [title]
-N-a fost grădinarul {alternative: {*}, composer: {Andrei Fedur}, writer: {Andrei Fedur}, arranger: {Andrei Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {dwYr9z1biuGHXtyvLQWrNV}, contentHash: {4fda77}}
+N-a fost grădinarul {alternative: {*}, composer: {Andrei Fedur}, writer: {Andrei Fedur}, arranger: {Andrei Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {dwYr9z1biuGHXtyvLQWrNV}, contentHash: {4fda77}}
 
 [sequence]
 v1,c,v2,c,v3,c,v3,c,e
