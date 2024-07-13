@@ -1,0 +1,41 @@
+[title]
+Cu Tine nu sunt singur, Doamne, orice-ar fi {alternative: {Psalmul 139}, composer: {Benoni Catană}, writer: {*}, arranger: {Iulian Teodorescu}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {oNFrX35Q4yX5zVT9ed9mDK}, contentHash: {8b0d76}}
+
+[sequence]
+v1,v2,b,c,v3,b2,c
+
+[v1]
+Cu Tine nu sunt singur, Doamne, orice-ar fi,
+Căci Tu mă cercetezi de-aproape și mă știi,
+Tu știi când stau pe loc sau când la drum pornesc,
+Pătrunzi în gândul meu cu Duhul Tău ceresc.
+
+[v2]
+Tu știi cuvântul meu ‘nainte de-al rosti,
+Cu drag mă înconjori, prin har să pot trăi.
+Eu nu pot să cuprind înțelepciunea Ta,
+Dar vreau să Te slăvesc cât viață voi avea.
+
+[b]
+Unde pot fugi să m-ascund de fața Ta?
+În munte sau la margine de mare?
+Chiar și-n ceruri sus de-aș zbura, mă vei afla,
+În bezna lumii, Tu ești al meu soare.
+
+[c]
+Tu m-ai întocmit, Tu m-ai zămislit,
+Tu ai fost mereu cu mine Dumnezeu și Tată.
+Fii în veci slăvit, veșnic preamărit
+Căci Tu m-ai zidit o făptură minunată!
+
+[v3]
+Când nu eram născut, știai viața mea,
+Cu dragoste de-atunci m-ai scris în cartea Ta.
+O, cât de nepătruns e planul Tău divin,
+A Ta e viața mea și Ție Ți-o închin!
+
+[b2]
+Nimicește, Doamne, tot planul celui rău
+Și ura ce-o arată pentru Tine!
+Preamărit în veci fie Numele Tău,
+Dreptatea Ta și faptele-Ți divine!

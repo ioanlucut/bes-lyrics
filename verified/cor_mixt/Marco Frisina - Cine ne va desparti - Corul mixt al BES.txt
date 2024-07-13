@@ -1,0 +1,22 @@
+[title]
+Cine ne va despărți {alternative: {*}, composer: {Marco Frisina}, writer: {Mircea Păduraru}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {rgxXhBp2ya43DiRiMCtF43}, contentHash: {1dcedc}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cine ne va despărți de-a Sa iubire?
+Oare strâmtorarea, grija, nevoia, viața sau moartea,
+Cum ne vor despărți de marea iubire a Domnului?
+
+[v2]
+Cine ne va despărți de a Sa pace?
+Noaptea sau prigoana, spaima, durerea?
+Nicio putere nu ne va despărți
+De marea iubire a Domnului.
+
+[v3]
+Cine ne va depărta de-a Sa lumină
+Și iertarea-I sfântă cine ne-o va lua?
+Nimeni în lume nu ne va depărta
+De marea iubire a Domnului.

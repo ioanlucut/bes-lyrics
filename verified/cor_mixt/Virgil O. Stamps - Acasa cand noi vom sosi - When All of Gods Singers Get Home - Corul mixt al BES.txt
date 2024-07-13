@@ -1,0 +1,27 @@
+[title]
+Acasă când noi vom sosi {alternative: {When All of God’s Singers Get Home}, composer: {Virgil O. Stamps}, writer: {Luther G. Presley; Mihaela Cintan}, arranger: {Dinu Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {dw4ZkJfYLVUYG7AVU1KCDY}, contentHash: {75e732}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În ce cor minunat, în cerescul palat,
+Vom cânta îngerești melodii.
+Când noi, răscumpărați, în Isus înviați,
+Acasă în cer vom sosi.
+
+[c]
+Acasă când noi vom sosi durere și lacrimi n-or fi,
+Pe Isus vom slăvi acasă când noi vom sosi!
+
+[v2]
+Dar aici pe pământ lăudăm Mielul Sfânt,
+Pentru tot ce prin har am primit.
+Și ni-e dor de nespus ca să fim cu Isus
+În cerul ce ne-a pregătit.
+
+[v3]
+Astăzi noi preamărim, al Său Nume cinstim,
+Și cu Domnul în veci vom trăi.
+Al Său Nume cântăm și cu drag Îl lăudăm
+Pân’ acasă-n cer vom sosi.

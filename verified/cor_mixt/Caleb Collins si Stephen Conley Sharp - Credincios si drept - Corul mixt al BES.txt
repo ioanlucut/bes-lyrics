@@ -1,0 +1,44 @@
+[title]
+Credincios și drept {alternative: {*}, composer: {Caleb Collins și Stephen Conley Sharp}, writer: {Caleb Collins și Stephen Conley Sharp; Claudiu Lulciuc}, arranger: {Carol Cymbala și Jason Michael Webb}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {9VrUzRnKtS1T6QVDRRqcQn}, contentHash: {a33713}}
+
+[sequence]
+v1,c,v2.1,v2.2,c2.1,c2.2,e
+
+[v1]
+Grijuri când mă cuprind și-ndoieli de-orice fel
+Și-orice plan pare-a fi castel de nisip,
+Când cerul nu-l mai zăresc și iar și iar și iar aștept,
+Mă-ncred în Domnul Cel credincios și drept.
+
+[c]
+Cel ce e veșnic sfânt va fi
+Apărătorul meu mereu,
+Nu mă voi teme, cu mine-i Dumnezeu!
+El sprijin-mi va fi, chiar de am să pierd,
+În dragostea Lui am să mă încred,
+Nu mă voi teme, cu mine-i Dumnezeu!
+
+[v2.1]
+M-a condus plin de milă,
+Când credeam c-am să pier,
+Mi-a iertat orice vină, doar El!
+
+[v2.2]
+O, Doamne, sfânta-Ți iubire
+Mi-ai dăruit-o mereu.
+Inima mea Te-nalță,
+Ești credincios și drept.
+
+[c2.1]
+Cel ce e veșnic sfânt va fi
+Apărătorul tău mereu,
+O, nu te teme, cu tine-i Dumnezeu!
+
+[c2.2]
+El sprijin-ți va fi, chiar de ai să pierzi,
+În dragostea Lui dar să te-ncrezi,
+/: O, nu te teme, cu tine-i Dumnezeu! :/
+El nicicând nu te lasă, cu tine este Dumnezeu
+
+[e]
+O, nu te teme, cu tine-i Dumnezeu!

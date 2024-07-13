@@ -1,0 +1,58 @@
+[title]
+Am găsit la Tine adăpost {alternative: {*}, composer: {P. Craiovan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {9NqVtPo22DptAchENnu59F}, contentHash: {aa3a46}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2,e
+
+[v1.1]
+Am găsit la Tine adăpost
+În ziua grea, în ceasuri grele,
+Când valul vieții furtunos
+Ne-amenința cu grea durere.
+
+[v1.2]
+Am alergat atunci la Tine,
+Stăpân al lumii, Creator,
+Iar Tu, din slăvile senine,
+Ai ascultat al Tău popor.
+
+[c1.1]
+Azi cu toții Îți cântăm,
+Adunând, din an în an,
+Voci și inimi, tot ce-avem,
+Le jertfim pe-al Tău altar.
+
+[c1.2]
+Să răsune a noastre glasuri
+Peste cerul însorit,
+Acelui ce, peste veacuri,
+Cu har bogat ne-a însoțit!
+
+[v2.1]
+Am găsit la Tine adăpost
+În noaptea grea a încercării,
+Când toți urmașii Tăi au fost
+Cuprinși de valul disperării,
+
+[v2.2]
+Ne-ai dăruit atunci putere,
+Ai fost alături în strâmtori
+Și-n clipe grele de durere,
+Prin Tine, am fost biruitori!
+
+[v3.1]
+Am găsit la Tine adăpost
+Când inima plângea zdrobită,
+Izbăvitor doar Tu ne-ai fost
+În ceasuri grele de ispită.
+
+[v3.2]
+Ai fost cu noi atunci, o, Doamne,
+Ne-ai învățat cum să răbdăm,
+Ne-ai ajutat să ducem crucea,
+De-aceea, astăzi, Îți cântăm!
+
+[e]
+Acelui ce, peste veacuri,
+Cu har bogat ne-a însoțit!
+Ne-a însoțit.

@@ -1,0 +1,29 @@
+[title]
+Psalmul 23 {alternative: {*}, composer: {Lina Sandell Berg}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {oAknBpqPgAhedsNa5dpxzB}, contentHash: {52fff3}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Domnul este Păstorul meu,
+nicicând lipsă nu voi duce,
+La pășuni mă poartă El
+Și la ape mă conduce.
+
+[v2]
+Drepte sunt a Lui cărări,
+Căci puternic e-al Său Nume,
+Chiar de merg prin întristări,
+El mă ține să n-alunec.
+
+[v3]
+Mă conduce-al Său toiag
+Și mă unge ca pe-un rege,
+Toții dușmanii-n față-I cad,
+Căci ‘naintea turmei merge.
+
+[v4]
+În iubire voi trăi
+Și-n bogata Sa-ndurare,
+Fericit voi locui
+Lângă Domnul meu cel mare!

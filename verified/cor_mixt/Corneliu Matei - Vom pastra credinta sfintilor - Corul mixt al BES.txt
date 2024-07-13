@@ -1,0 +1,30 @@
+[title]
+Vom păstra credința sfinților {alternative: {*}, composer: {Corneliu Matei}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {94BfTxHNdG79vfBG2pYvxs}, contentHash: {bf6d6e}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2
+
+[v1]
+Necazuri, prigoane și strâmtorare în viață de vor veni
+Cu siguranță de Tine, o, Doamne,
+Noi nu ne vom despărți,
+Știm că-orice lucru ce ni se întâmplă
+Aici pe acest pământ
+Lucrează-mpreună spre binele veșnic,
+căci suntem iubiți de Cel Sfânt.
+
+[c1.1]
+Chiar dacă prea des vom fi de valuri loviți,
+Vom rămâne cu Tine, mereu neclintiți,
+Ești turn de scăpare pentru toți acei părăsiți.
+
+[c1.2]
+Chiar dacă prea des vom fi de toți alungați,
+Vom rămâne cu Tine, vom fi ne-nfricați,
+Ești Stânca de veacuri în care ne-am pus încrederea.
+
+[v2]
+Noi știm că-i aproape ziua măreață,
+Când Tu din nou vei veni
+Să-Ți iei mireasa să o duci în slavă,
+Sus pe nori, în veșnicii.

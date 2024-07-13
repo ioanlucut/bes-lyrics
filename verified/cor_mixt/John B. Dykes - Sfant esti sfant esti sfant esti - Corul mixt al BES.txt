@@ -1,0 +1,29 @@
+[title]
+Sfânt ești, sfânt ești, sfânt ești {alternative: {*}, composer: {John B. Dykes}, writer: {Reginald Heber}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {sNbnNt9paKDT6MfYC7v8AF}, contentHash: {98806a}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Sfânt ești, sfânt ești, sfânt ești, Dumnezeu puternic,
+Chiar din zorii dimineții Te slăvesc și-Ți cânt.
+Sfânt ești, sfânt ești, sfânt ești, bun, milos și darnic,
+Doamne ești veșnic, Tată, Fiu, Duh Sfânt.
+
+[v2]
+Sfânt ești, sfânt ești, sfânt ești, sfinții toți Îți cântă
+Și-nainte-Ți pun coroana de învingător.
+Heruvimi și îngeri Ție Ți se-nchină,
+Ieri, azi și veșnic ești biruitor.
+
+[v3]
+Sfânt ești, sfânt ești, sfânt ești, norul Te ascunde,
+Ochiul păcătosului nu poate-a Te vedea.
+Sfânt, atotputernic ești din veșnicie,
+Doamne, Iehova, Tu ești dragostea.
+
+[v4]
+Sfânt ești, sfânt ești, sfânt ești, Domn atotputernic,
+Tot ce-ai creat Te laudă-n cer și pe pământ.
+Sfânt ești, sfânt ești, sfânt ești, bun, milos și darnic,
+Doamne, ești veșnic: Tată, Fiu, Duh Sfânt.

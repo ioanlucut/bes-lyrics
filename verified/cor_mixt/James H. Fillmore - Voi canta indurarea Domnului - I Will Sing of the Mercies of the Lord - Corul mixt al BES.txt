@@ -1,0 +1,23 @@
+[title]
+Voi cânta îndurarea Domnului {alternative: {I Will Sing of the Mercies of the Lord}, composer: {James H. Fillmore}, writer: {*}, arranger: {J. W. Peterson}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {i9SxhhAb8BKPfobZ1ifttP}, contentHash: {f1a92c}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Voi cânta îndurarea Domnului meu veșnic,
+Voi cânta, voi cânta.
+Voi cânta îndurarea Domnului meu veșnic,
+Voi cânta îndurarea Domnului.
+
+[v1]
+Voi vesti că Domnul Dumnezeu
+E minunat, e minunat,
+Voi vesti că Domnul Dumnezeu
+În veac Își ține credincioșia.
+
+[v2]
+Fericit, o, da, e-acel popor
+Ce L-a ales pe Dumnezeu,
+Fericit, o, da, e-acel popor
+Ce L-a ales pe Domnul ca Rege.

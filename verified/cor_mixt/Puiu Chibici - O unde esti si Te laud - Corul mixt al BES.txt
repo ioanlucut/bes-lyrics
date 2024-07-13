@@ -1,0 +1,43 @@
+[title]
+O, unde ești? și Te laud {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {hjiZVe6eM6cB7hAhea9cEV}, contentHash: {96d21d}}
+
+[sequence]
+v1,v2,c,v3,c,v4,e
+
+[v1]
+De ce stai mut când îți vorbesc
+Și nu mă mustri când greșesc?
+De ce mi-e cerul nepătruns,
+De ce de mine Te-ai ascuns,
+De ce nu-mi dai Tu un răspuns?
+
+[v2]
+De-atâta vreme-s în cuptor,
+Ard și n-am niciun ajutor,
+Vrei oare să mă curățești,
+Sau poate să mă nimicești,
+Sau vrei să-mi spui cât mă iubești?
+
+[c]
+/: O, unde ești, o, unde ești?
+De ce nu poți să mă privești?
+Știu c-am greșit, știu că sunt rău,
+Dar știu că-i mare harul Tău.
+Da, știu că-i mare harul Tău! :/
+
+[v3]
+Te rog frumos, Stăpânul meu,
+Preasfânt și mare Dumnezeu,
+Smerit, plecat, umil, supus,
+În al Tău Nume vin, Isus,
+Fă ruga mea s-ajungă sus!
+
+[v4]
+Te laud, Te laud,
+Te laud căci ai iubit sufletul meu!
+Ești sfânt, ești drept, ești bun, ești mare,
+Te laud căci ai iubit sufletul meu!
+
+[e]
+Te laud căci ai iubit sufletul meu!
+O, unde ești?

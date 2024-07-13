@@ -1,0 +1,33 @@
+[title]
+Mormântul e gol {alternative: {*}, composer: {Geron Davis}, writer: {Doru Butaș}, arranger: {Dave Williamson}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {xiBgvHmztsK5bAQvTDWQsw}, contentHash: {827fe4}}
+
+[sequence]
+v1,c,v2,c2,c,e
+
+[v1]
+Sus pe dealul Golgotei Domnul meu muri,
+Răstignit pe-o cruce grea, păcatul a-mi plăti.
+Când în mormânt L-au coborât ai Săi n-au mai sperat,
+Dar îngerii vestea-au adus: „Domnul a înviat!”
+
+[c]
+Mormântul e gol, a-nviat Isus.
+A zdrobit al morții bold, viață ne-a adus!
+Să-I cântăm cu toții Domnului Isus,
+Mormântul e gol, a-nviat Isus!
+
+[v2]
+Hristos de-ar fi murit și n-ar fi înviat,
+Omul tot pierdut ar fi în al său păcat.
+Dar când El din mormânt în glorie a-nviat,
+Ne-a adus prin harul Său salvare din păcat.
+
+[c2]
+Mormântul e gol, a-nviat Isus,
+A zdrobit al morții bold, viață ne-a adus!
+Să-I cântăm cu toții Domnului Isus,
+Mormântul e gol, în veci de veci e viu!
+
+[e]
+Mormântul e gol, a-nviat Isus!
+E viu!

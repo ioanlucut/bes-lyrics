@@ -1,0 +1,32 @@
+[title]
+Privește la Isus {alternative: {Still}, composer: {Keith și Kristyn Getty & Stuart Townend}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {mtadJcQ87iNjDGWqE3CFoq}, contentHash: {715dc0}}
+
+[sequence]
+v1,c,v2,c,v3,c,b,c
+
+[v1]
+Privește la Isus,
+Să nu te temi când încercări îți vin în cale!
+Domnul te-a condus și te-a scăpat
+Chiar din văpăi, cu mână tare.
+
+[c]
+Tu mi-ești Dumnezeu,
+În Tine-mi pun speranța mea de-a pururi.
+Stâncă de granit, fără de margini m-ai iubit,
+Cu Tine-s liniștit!
+
+[v2]
+Privește la Isus, nu te-ndoi!
+Când strâmtorările te-apasă,
+crede-n harul Său: o stea pe cer,
+Un far la mal când ceața-i deasă.
+
+[v3]
+Crede în Isus și nu uita
+Cum te-a condus și te păzește!
+Azi, ca și-n trecut, îți este scut,
+Tot ce-a promis El împlinește.
+
+[b]
+/: Privește la Isus! :/

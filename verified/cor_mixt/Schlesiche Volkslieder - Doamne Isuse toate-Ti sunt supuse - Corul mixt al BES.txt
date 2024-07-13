@@ -1,0 +1,27 @@
+[title]
+Doamne Isuse, toate-Ți sunt supuse {alternative: {*}, composer: {Schlesiche Volkslieder}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {4nGBztfzvTaW8Wee4ARjdM}, contentHash: {c7064e}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne Isuse, toate-Ți sunt supuse,
+Singur Fiu de Dumnezeu, Ție iubire,
+Ție mărire, cununa sufletului meu,
+
+[v2]
+Codrii, câmpie,
+Dulce renvie raza blândei primăveri,
+Mai blând, mai dulce,
+Isus aduce în triste inimi mângâieri.
+
+[v3]
+Lună și soare, stele lucitoare,
+Sunt frumoase de nespus,
+Mai minunată, mai luminată e frumusețea Ta, Isus!
+
+[v4]
+Cuprins e-n Tine tot ce este bine,
+Tot ce e desăvârșit,
+Ființa mea toată fie-nchinată
+Doar Ție, Domnul meu iubit.

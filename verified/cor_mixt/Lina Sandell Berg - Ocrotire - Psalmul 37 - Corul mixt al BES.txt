@@ -1,0 +1,29 @@
+[title]
+Ocrotire {alternative: {Psalmul 37}, composer: {Lina Sandell Berg}, writer: {Valentin Popovici}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {2nc7AvyhLX2mJ4EavsmTub}, contentHash: {c433b7}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+N-are nimeni ocrotire
+Ca-n a Domnului iubire,
+Nicio stea strălucitoare,
+Nicio pasăre sau floare.
+
+[v2]
+El pe-ai Săi îi îngrijește
+Și în casa Lui îi crește,
+Îi păstrează ca un Tată
+Și pe brațul Lui îi poartă.
+
+[v3]
+Nici în viață, nici în moarte,
+Pe ei nimeni nu-i desparte,
+Căci iubirea Lui divină
+Orice-ngrijorări alină.
+
+[v4]
+Turmă mică, n-avea teamă,
+El mereu te are-n seamă,
+Când răsare-al nostru Soare,
+Cad vrăjmașii la picioare.

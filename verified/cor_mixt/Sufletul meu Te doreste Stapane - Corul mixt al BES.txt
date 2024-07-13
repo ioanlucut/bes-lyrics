@@ -1,0 +1,23 @@
+[title]
+Sufletul meu Te dorește, Stăpâne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {n7rvb5XKUeykQqofQjnoZQ}, contentHash: {9f761c}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Sufletul meu Te dorește, Stăpâne
+Ca pe-o fântână ascunsă-n deșert.
+Sunt însetat de iubirea Ta,
+/: Aștept cu sete ziua când Te voi vedea. :/
+
+[v2]
+Tot ce rămâne în mine-i speranța
+Că într-o zi voi vedea chipul Tău.
+Voi fi iertat, lacrimi nu vor fi,
+:/ Voi merge și eu, Doamne. în lăcașul Tău. :/
+
+[v3]
+Vin și eu azi la altarul Tău, Doamne,
+Și bucuros mă hrănesc cu-al Tău trup.
+Vin la Tine iar, ultimul popas,
+:/ Ești călăuza mea pe drumul către zori. :/

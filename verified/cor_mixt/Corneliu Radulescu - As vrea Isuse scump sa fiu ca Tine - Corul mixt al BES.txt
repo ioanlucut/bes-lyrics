@@ -1,0 +1,29 @@
+[title]
+Aș vrea, Isuse scump, să fiu ca Tine {alternative: {*}, composer: {Corneliu Rădulescu}, writer: {Cristian Vasile Roske}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {9oYiW9e7DU8KTvpVLKugzF}, contentHash: {9713c4}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Aș vrea, Isuse scump, să fiu ca Tine,
+În pribegia mea pe-acest pământ.
+De-atâtea ori când grea ispită-mi vine,
+S-o biruiesc prin sfântul Tău Cuvânt.
+
+[c]
+Aș vrea, Isuse scump, a Ta comoară
+De mângâieri, pe veci să-mi dăruiești.
+Aș vrea ca-n mine tot ce-i vechi să moară
+Ca Tu să faci din mine ce dorești.
+
+[v2]
+Aș vrea, Isuse scump, a Ta viață
+Să se-oglindească pururi în a mea
+Și să dispară negura de ceață
+Ce-mpiedică să-Ți văd mărirea Ta.
+
+[v3]
+Și câte n-aș mai vrea, o, scump Isuse,
+În pribegia mea pe-acest pământ!
+Dorințele ce îmi rămân nespuse
+Le împlinește sfântul Tău Cuvânt!

@@ -1,0 +1,64 @@
+[title]
+Mai este har și Ce har, ce har {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {eB6XfxcvMJbU2cRV5xTpXQ}, contentHash: {e21935}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4,v5,v6,e
+
+[v1.1]
+Cât încă mai curge uleiul în vas,
+Când încă ard jertfe pe altar,
+Cât încă se-aude, o, Doamne, al Tău glas,
+Eu știu că mai este har.
+
+[v1.2]
+Mai este har, mai este har,
+Cât încă mai curge al vieții râu,
+Cât încă se strâng în grânar snopi de grâu,
+Mai este har, mai este har.
+
+[v2.1]
+Cât încă mai curge al vieții izvor
+Și-o jertfă mai este-n Calvar,
+Cât încă se simte al iubirii fior,
+Eu știu că mai este har.
+
+[v2.2]
+Mai este har, mai este har,
+Cât încă mai este un Mântuitor
+Și-n ceruri un Tată bun și iertător,
+Mai este har, mai este har.
+
+[v3.1]
+Cât încă ai viață, iubit muritor,
+Să n-o irosești în zadar!
+Cât încă mai este Isus Salvator,
+Să știi că mai este har,
+Mai este har, mai este har.
+
+[v3.2]
+Cât încă chemarea răsună și azi,
+Smerit și supus la picioare să-I cazi,
+Cât mai e har, cât mai e har,
+Cât încă iertarea se capătă-n dar,
+Albește-ți acuma veșmântul murdar,
+Cât mai e har, cât mai e har.
+
+[v4]
+Ce har, ce har să poți să crezi, ce har, ce har!
+Ce har pe Domnul să-L urmezi, ce har, ce har!
+Ce har deplin să te predai, ce har, ce har!
+Ce har s-o rupi cu-al lumii trai, ce har, ce har!
+
+[v5]
+Ce har să poți să spui mereu, ce har, ce har!
+Isus, Mântuitorul meu, ce har, ce har!
+Ce har să poți s-asculți de El, ce har, ce har!
+Să ai blândețea Lui de Miel, ce har, ce har!
+
+[v6]
+Ce har să mergi pe calea Sa, ce har, ce har!
+Ce har curat să-I poți cânta, ce har, ce har!
+
+[e]
+Ce har să fii umplut deplin, cu har, cu har!
+Viața s-o trăiești deplin, în har, în har!

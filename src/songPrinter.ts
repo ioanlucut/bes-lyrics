@@ -3,11 +3,13 @@ import {
   filter,
   first,
   flatten,
+  isEmpty,
   isEqual,
   range,
   size,
   trim,
 } from 'lodash-es';
+import assert from 'node:assert';
 import {
   COLON,
   COMMA,
@@ -131,6 +133,12 @@ export const print = ({
     const verseSongSectionIdentifierWithoutMarkup = getCharWithoutMarkup(
       verseSongSectionIdentifier,
     );
+
+    assert.ok(
+      !isEmpty(songSectionContent),
+      `The song section content is not empty: "${songSectionContent}"."`,
+    );
+
     const hasContentThatCouldBeSubSections =
       songSectionContent.includes(DOUBLE_LINE_TUPLE);
 

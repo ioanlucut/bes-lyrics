@@ -1,0 +1,31 @@
+[title]
+Și Dumnezeul meu să-ngrijească {alternative: {*}, composer: {Marian Fedur}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {tbcQmw23NXL5wc7G5S4HDU}, contentHash: {e110b8}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Voi preaiubiților, copii ai cerului,
+Rămâneți astfel tari în harul Domnului,
+Să nu vă-ngrijorați de ziua cea de mâine,
+Ci-n pace să trăiți, cu mulțumire-n suflet!
+Și pacea lui Hristos ce-ntrece orice gând
+Inima să v-o păzească, de orice rău să fiți feriți
+
+[c]
+Și Dumnezeul meu să îngrijească
+De-orice nevoi, de tot ce vă doriți,
+El să vă dea belșugul pâinii și-o moștenire veșnică!
+
+[v2]
+Încolo fraților, tot ce e adevărat,
+Orice faptă bună și orice gând curat
+Să vă-nsoțească oricând și-oriunde bucuroși,
+Să spuneți tot mereu: Pot totul în Hristos!
+
+[v3]
+Cinste, slavă și mărire,
+Ție, Doamne, Îți cântăm,
+Doamne-n veci Te proclamăm,
+Amin, amin, aleluia!
+amin, amin, aleluia!

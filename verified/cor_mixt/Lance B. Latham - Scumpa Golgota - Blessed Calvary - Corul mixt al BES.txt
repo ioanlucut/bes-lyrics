@@ -1,0 +1,29 @@
+[title]
+Scumpă Golgota {alternative: {Blessed Calvary}, composer: {Lance B. Latham}, writer: {A. B. Christiansen; Valentin Popovici}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {4ZyGgk85tgHpstBAqpVoCn}, contentHash: {0e3b41}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Văd crucea lui Isus la Golgota,
+Izvorul de har minunat,
+Acolo Isus prin moartea Sa
+Un loc pe veci în cer mi-a dat.
+
+[c]
+Scumpă Golgota, sfântă Golgota
+Eu voi sta veșnic la umbra ta.
+Scumpă Golgota, sfântă Golgota,
+Isus a plătit vina mea.
+
+[v2]
+Găsesc biruință în încercări,
+Primesc mângâiere și har,
+La cruce povara mea o las
+Și pacea o primesc în dar.
+
+[v3]
+Speranțele întregii veșnicii
+În crucea lui Isus le-am pus,
+Prin sângele Lui vărsat pe lemn
+Eu pot intra în ceruri, sus.

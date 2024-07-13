@@ -1,0 +1,57 @@
+[title]
+El ne-a condus {alternative: {He Leadeth Us}, composer: {Mary McDonald}, writer: {Mary McDonald; Eugen Drăgoiu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {uk3k7akDQkUuReTSBa6y6A}, contentHash: {e66b29}}
+
+[sequence]
+v1,v2,c1.1,c1.2,c1.3,v3,c2.1,c2.2,e
+
+[v1]
+Da, El ne-a condus peste veacuri,
+Prin vremi pân-aici ne-a adus.
+Pe căile neprihănirii Lui
+Prin har și iubire ne-a dus,
+El ne-a condus, El ne-a condus.
+
+[v2]
+Când pasul ne-a fost șovăielnic
+Și când n-am privit doar în sus,
+El totuși ne-a mers înainte,
+Prin har pân-aici am ajuns,
+El ne-a condus, El ne-a condus.
+
+[c1.1]
+Cu brațul Său El ne-a condus
+Și peste ani până azi ne-a adus.
+
+[c1.2]
+La orice pas, orice popas,
+Stând sub a Sa privire
+Vrem să rămânem ne-ncetat
+Că-n ale Lui palme ne-a săpat.
+
+[c1.3]
+Și-n slava Sa Îi vom cânta
+Că-aici ne-a-nsoțit cu-a Sa iubire!
+
+[v3]
+Divina-ndurare ce-ntrece
+Cu mult orice dar omenesc
+Ne va însoți până la sfârșit,
+În drum spre lăcașul ceresc.
+Și-atunci așa Îi vom cânta:
+
+[c2.1]
+Cu brațul Tău, Tu ne-ai condus
+Și până-n glorie ne-ai adus,
+Haru-Ți nespus ne-a fost de-ajuns,
+Stând sub a Ta privire.
+
+[c2.2]
+Slavă eternă, veșnică, Îți vom aduce din inimă
+Ție, Stăpân și Dumnezeu,
+În veci preamărind a Ta iubire!
+
+[e]
+El ne-a condus cu brațul Său,
+Statornic, credincios mereu,
+Îl vom urma neîncetat pe Domnul nostru minunat,
+El ne-a condus!

@@ -1,0 +1,36 @@
+[title]
+Iată, Eu stau la ușă și bat {alternative: {*}, composer: {Tiffany E. Moldovan}, writer: {Claudiu Lulciuc}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {r6NDUZjaL4kJZ3KjNDjU6i}, contentHash: {fd10be}}
+
+[sequence]
+v1,c,v2,c,b,c,e
+
+[v1]
+Vino-acum așa cum ești în prezența Celui Sfânt,
+Nu amâna, prieten drag, timpul este pe sfârșit.
+O, de-ai știi că într-o zi, judecat și tu vei fi.
+Dumnezeu te vrea cu El, sus în cer pe veci să fii,
+Vino așa cum ești, Dumnezeu te cheamă acum.
+
+[c]
+Iată, Eu stau la ușă și bat chiar acum,
+Dacă ușa-mi vei deschide, voi intra și vom cina,
+Îți voi da în dar iertare sfântă și mult har,
+Vei gusta din fericirea și odihna mea prin har.
+Hai, deschide-ți inima! Vreau viață-n dar să-ți dau.
+
+[v2]
+Prieten drag, nu zăbovi, pentru tine am venit,
+Pentru tine-am suferit pe o cruce răstignit.
+Vreau iertarea-n dar să-ți dau, inima să-ți pot sfinți,
+Vreau să fii copilul Meu, lângă Mine-n cer să vii.
+Nu mai este mult, să știi, pân’ pe nori voi reveni.
+
+[b]
+Celui ce M-aude și inima-și deschide larg
+Îi voi da viață-n dar, Îi voi da lumina mea!
+Crede-al Meu Cuvânt, cu iubire Eu te chem,
+Spune da pentru cer, spune vreau să fiu iertat!
+
+[e]
+Vreau viață-n dar să-ți dau,
+Iată, eu stau la ușă și bat chiar acum!

@@ -1,0 +1,21 @@
+[title]
+Vreau să mă-ntorc azi acasă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {u5RBSnGw7HWiPZd3HEDCkw}, contentHash: {783c96}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Vreau să mă-ntorc azi acasă, casa iubirii de sus,
+Dorul pe inimă-apasă, vreau să-ntâlnesc pe Isus!
+
+[v2]
+Domnul e gata să vină, inima-mi cântă de dor,
+Vreau să mă-ntorc azi acasă, sunt pe pământ trecător.
+
+[v3]
+Cerul e plin de lumină, mult prea frumos și curat,
+Domnul e gata să vină, încă puțin de-așteptat!
+
+[v4]
+Vreau să mă-ntorc azi acasă, inima-i plină de dor,
+Liber de tot ce m-apasă, vreau către ceruri să zbor!

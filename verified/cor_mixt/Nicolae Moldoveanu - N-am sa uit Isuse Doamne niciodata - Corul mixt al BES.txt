@@ -1,0 +1,32 @@
+[title]
+N-am să uit, Isuse Doamne, niciodată {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Traian Dorz}, arranger: {Emanuel Bălăceanu}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {pVMAMaUVvLjWn7iiu8TyV5}, contentHash: {b47daa}}
+
+[sequence]
+v1,v2,v3,e
+
+[v1]
+N-am să uit, Isuse, Doamne, niciodată
+Din ce greu, prin ce minune m-ai scăpat,
+N-am să uit iubirea Ta nemăsurată,
+Dragostea și grija Ta cea minunată,
+C-am fost mort, și dintre morți m-ai înviat,
+Dintre morți m-ai înviat.
+
+[v2]
+N-am să uit cum când durerea era mare
+Și-am strigat să nu mă lași că nu mai pot,
+N-am să uit cum mi-ai răspuns, cu ce-ndurare,
+Când în noaptea cea neagră de-ntristare,
+Mi-ai umplut de strălucire cerul tot,
+Strălucire cerul tot.
+
+[v3]
+Astăzi am, Isuse Doamne-o primăvară,
+Fără nori și fără plâns și fără chin;
+Și-Ți aduc a mulțumirii floare rară,
+Revărsând întreaga inimii comoară
+Din potirul sfânt al rugăciunii, plin,
+Sfânt al rugăciunii, plin.
+
+[e]
+N-am să uit, Isuse Doamne, niciodată!

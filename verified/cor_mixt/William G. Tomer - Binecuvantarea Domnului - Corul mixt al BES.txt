@@ -1,0 +1,25 @@
+[title]
+Binecuvântarea Domnului {alternative: {*}, composer: {William G. Tomer}, writer: {Jeremiah E. Rankin}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {xk6hNDpainFpR51ZNA7EH6}, contentHash: {3907ac}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Binecuvântarea Domnului zilnic să vă însoțească,
+Calea să v-o netezească binecuvântarea Domnului.
+
+[c]
+Până când ne-om vedea și-naintea Lui vom sta,
+Să avem ne-ncetat binecuvântarea Domnului.
+
+[v2]
+Binecuvântarea Domnului pe-aripi sfinte să vă poarte,
+Pâinea vieții să v-o-mpartă binecuvântarea Domnului.
+
+[v3]
+Binecuvântarea Domnului prin furtuni să vă-ntărească,
+De căderi să vă scutească binecuvântarea Domnului.
+
+[v4]
+Binecuvântarea Domnului în iubirea Lui vă țină,
+Să vă dea prin har lumină binecuvântarea Domnului.
