@@ -1,5 +1,5 @@
 [title]
-Bunătatea Ta {alternative: {*}, composer: {Bbso Baia Mare}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {233702}, id: {odnhLxjCmVzBSvXCuhFo4h}, contentHash: {72621d}}
+Bunătatea Ta {alternative: {*}, composer: {Bbso Baia Mare}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {233702}, id: {odnhLxjCmVzBSvXCuhFo4h}, contentHash: {7373b8}}
 
 [sequence]
 v1,c,v2,b,c
