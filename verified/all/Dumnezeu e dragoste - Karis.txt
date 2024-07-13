@@ -1,0 +1,25 @@
+[title]
+Dumnezeu e dragoste {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Karis}, genre: {*}, rcId: {*}, id: {eJ1iqRHWDPEymA7AstmMWT}, contentHash: {a5d11e}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Dumnezeu e dragoste. :/
+Dumnezeu cel veșnic, Domnul vieții,
+Dumnezeu e dragoste.
+
+[v2]
+/: Dumnezeu e adevăr. :/
+Dumnezeu cel veșnic, Domnul vieții,
+Dumnezeu e adevăr.
+
+[v3]
+/: Dumnezeu e lumina mea. :/
+Dumnezeu cel veșnic, Domnul vieții,
+Dumnezeu e lumina mea.
+
+[v4]
+/: Viață El mi-a dăruit. :/
+Dumnezeu cel veșnic, Domnul vieții,
+Viață El mi-a dăruit.
