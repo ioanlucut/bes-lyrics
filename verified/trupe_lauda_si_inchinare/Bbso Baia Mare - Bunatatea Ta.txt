@@ -1,5 +1,5 @@
 [title]
-Bunătatea Ta {alternative: {*}, composer: {Bbso Baia Mare}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {233702}, id: {odnhLxjCmVzBSvXCuhFo4h}, contentHash: {72621d}}
+Bunătatea Ta {alternative: {*}, composer: {Bbso Baia Mare}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {233702}, id: {odnhLxjCmVzBSvXCuhFo4h}, contentHash: {7373b8}}
 
 [sequence]
 v1,c,v2,b,c
@@ -11,7 +11,7 @@ Din zorii dimineții și până când adorm,
 Vreau să cânt bunătatea Ta.
 
 [c]
-Tu mereu ai fost cu mine,
+Căci Tu mereu ai fost cu mine,
 Doamne-ai fost mereu atât de bun!
 Și cât eu voi avea suflare
 Vreau să cânt bunătatea Ta.
