@@ -1,0 +1,35 @@
+[title]
+Spune-I lui Isus {alternative: {*}, composer: {Edmumd S. Lorenz}, writer: {Jeremiah E. Rankin}, arranger: {Adi Mura}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {cRya6MEeErX7oFJtBByBT4}, contentHash: {96a566}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ești trudit și-n suflet ai durere?
+Spune-I lui Isus, spune-I lui Isus!
+Vrei să ai deplină mângâiere?
+Spune-I lui Isus! Doar Lui!
+
+[c]
+Spune-i lui Isus, spune-i lui Isus,
+Nu-i alt prieten mai bun!
+În necazuri El îți este frate,
+Spune-i lui Isus acum!
+
+[v2]
+Când obrazul ți-e scăldat în lacrimi,
+Spune-I lui Isus, spune-i lui Isus!
+Când te lupți cu ale lumii patimi,
+Spune-I lui Isus! Doar Lui!
+
+[v3]
+Când furtuna groaznic se pornește
+Spune-I lui Isus, spune-I lui Isus!
+Când vrăjmașul inima-ți lovește
+Spune-I lui Isus! Doar Lui!
+
+[v4]
+Gândul morții te neliniștește,
+Spune-I lui Isus, spune-I lui Isus,
+De-orice teamă El te izbăvește,
+Spune-i lui Isus! Doar Lui!

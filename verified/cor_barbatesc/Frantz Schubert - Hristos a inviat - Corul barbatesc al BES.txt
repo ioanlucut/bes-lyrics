@@ -1,0 +1,23 @@
+[title]
+Hristos a înviat {alternative: {*}, composer: {Frantz Schubert}, writer: {Valentin Popovici}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {iEy78k8WVRwhxZ4Cpf1St3}, contentHash: {d38783}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Din lanțul morții și mormânt, Hristos a înviat,
+Cu moartea Lui moartea călcând, Hristos a înviat!
+Trăiește El, Cel răstignit ce moartea-n veci a biruit,
+Slăviți-L ne-ncetat, Hristos a înviat!
+
+[v2]
+Maria vine-n zori de zi cu sufletu-ntristat,
+Mormântu-i gol, ce poate fi? Hristos a înviat!
+Și iată corul îngeresc, pe Isus toți Îl preamăresc,
+Slăviți-L ne-ncetat, Hristos a înviat!
+
+[v3]
+Prin moartea Lui în greul chin Hristos a înviat
+Și-n viața Lui acum trăim, Hristos a înviat!
+Ce har măreț ne-a dăruit, credința-n El ne-a mântuit,
+Slăviți-L ne-ncetat, Hristos a înviat!

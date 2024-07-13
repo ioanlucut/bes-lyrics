@@ -1,0 +1,40 @@
+[title]
+Este-un drum ce duce-n ceruri {alternative: {Honly Highway}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {gjE4pCckbzgF6rB7jmRDGU}, contentHash: {5da69c}}
+
+[sequence]
+v1,v2,v3.1,v3.2,v4,v1,e
+
+[v1]
+Este-un drum ce duce-n ceruri,
+Un drum plin de încercări,
+Dar curând va umple largul zării
+Bucuria va cuprinde universul așteptând
+Când spre Sion, țara sfântă,
+Noi vom zbura toți cântând.
+
+[v2]
+Tu ești vrednic, Domnul slavei,
+Pentru lupta ce s-a dat,
+Omenirea se închină,
+De la moarte ne-ai salvat.
+
+[v3.1]
+E un drum ce duce-n ceruri,
+Unde veșnic vom cânta,
+Nu va fi acolo noapte,
+Vom vedea doar fața Sa.
+
+[v3.2]
+Sărbătoarea va începe lângă marele Stăpân,
+Când spre Sion, țara sfântă,
+Noi vom zbura toți cântând.
+
+[v4]
+Sfânt e, sfânt e, Domn atotputernic,
+Sfânt e, sfânt e, sfânt e Domnul Dumnezeu!
+Aleluia, aleluia!
+
+[e]
+Când spre Sion, țara sfântă,
+Noi vom zbura toți cântând,
+Noi vom zbura cântând!

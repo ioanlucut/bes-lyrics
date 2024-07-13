@@ -1,0 +1,27 @@
+[title]
+Calea, adevărul, viața {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {6696}, id: {m35SCdpx3CwDBnqYgM6o6m}, contentHash: {07e676}}
+
+[sequence]
+c,v1,c,v2,c
+
+[v1]
+Calea, adevărul, viața
+E Isus Hristos cel sfânt.
+A venit trimis de Tatăl pe pământ,
+Răstignit a fost pe cruce
+Pentru-al tău și-al meu păcat,
+A-nviat a treia zi și-a triumfat.
+
+[c]
+Ai biruit mormântul și moartea ai învins,
+Oricine prin credință salvat e de abis,
+Ai dăruit iertare oricărui pământean
+Prin pocăință, mântuire-n dar.
+
+[v2]
+Poate astăzi, înc-odată,
+Tu auzi iar de Isus
+Și la inima ta bate să-I deschizi.
+Nu te va sili vreodată
+Dragostea Lui s-o primești.
+Omule, fii înțelept, ca să trăiești!

@@ -1,0 +1,33 @@
+[title]
+Imn tabăra SD 2024 {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Școala Duminicală a BES}, genre: {*}, rcId: {*}, id: {sAktJWYEFUHAYixWho6gUS}, contentHash: {6020bc}}
+
+[sequence]
+v1.1,v1.2,c,v2,c,e
+
+[v1.1]
+Tot ce Domnul Isus a promis
+În Cuvântul sfânt de El e scris,
+Credincios va împlini mereu,
+Pentru El nimic nu-i prea greu.
+
+[v1.2]
+Tatăl ne-a promis pe Mesia,
+Singur Fiu, Mielul din Golgota.
+Viață veșnică-n Isus avem,
+Într-un glas așa să spunem:
+
+[c]
+Pregătiți calea Domnului, neteziți cărările,
+Pregătiți calea Domnului, El va reveni!
+Ești tu gata de plecare?
+Poți să fii salvat!
+Domnul vine în curând!
+
+[v2]
+Domnul pentru mine a murit,
+Păcatul meu pe cruce a plătit.
+El e Domn și pentru mine azi,
+Pot să spun și eu cu al meu glas:
+
+[e]
+Domnul vine în curând!
