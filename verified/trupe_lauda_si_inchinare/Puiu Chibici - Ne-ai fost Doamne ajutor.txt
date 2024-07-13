@@ -1,5 +1,5 @@
 [title]
-Ne-ai fost, Doamne, ajutor {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195799}, id: {2THsvs3dqogqb5sWWUgnAz}, contentHash: {493b02}}
+Ne-ai fost, Doamne, ajutor {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195799}, id: {2THsvs3dqogqb5sWWUgnAz}, contentHash: {6b2c5e}}
 
 [sequence]
 v1,v2,v3,v4

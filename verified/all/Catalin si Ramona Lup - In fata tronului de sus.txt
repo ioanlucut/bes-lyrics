@@ -1,5 +1,5 @@
 [title]
-În fața tronului de sus {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7307}, id: {q53RVH4stWQfrbdT52rYz6}, contentHash: {951df2}}
+În fața tronului de sus {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7307}, id: {q53RVH4stWQfrbdT52rYz6}, contentHash: {b6f98d}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2

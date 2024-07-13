@@ -1,5 +1,5 @@
 [title]
-Pân’ aici Dumnezeu ne-a ajutat {alternative: {*}, composer: {Elena Gorcea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61291}, id: {nue8ja6Y7mfyJs3KdD3jDx}, contentHash: {08f91c}}
+Pân’ aici Dumnezeu ne-a ajutat {alternative: {*}, composer: {Elena Gorcea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61291}, id: {nue8ja6Y7mfyJs3KdD3jDx}, contentHash: {018beb}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c2.1,c2.2

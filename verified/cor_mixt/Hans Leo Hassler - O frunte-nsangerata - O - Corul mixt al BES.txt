@@ -1,5 +1,5 @@
 [title]
-O, frunte-nsângerată {alternative: {O}, composer: {Hans Leo Hassler}, writer: {*}, arranger: {Johann Sebastian Bach}, interpreter: {*}, band: {*}, key: {*}, tempo: {Easter songs}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {798hHvHepymNuCLoAzsJqG}, contentHash: {d8cbc4}}
+O, frunte-nsângerată {alternative: {O}, composer: {Hans Leo Hassler}, writer: {*}, arranger: {Johann Sebastian Bach}, interpreter: {*}, band: {*}, key: {*}, tempo: {Easter songs}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {798hHvHepymNuCLoAzsJqG}, contentHash: {572b0b}}
 
 [sequence]
 v1,v2,v3

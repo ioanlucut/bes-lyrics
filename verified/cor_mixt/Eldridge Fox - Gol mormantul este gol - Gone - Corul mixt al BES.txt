@@ -1,5 +1,5 @@
 [title]
-Gol, mormântul este gol {alternative: {Gone}, composer: {Eldridge Fox}, writer: {Eldridge Fox}, arranger: {Geron Davis și Jay Rouse}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {oKNxCDReyeDLeW2TsQTcVV}, contentHash: {af5f9d}}
+Gol, mormântul este gol {alternative: {Gone}, composer: {Eldridge Fox}, writer: {Eldridge Fox}, arranger: {Geron Davis și Jay Rouse}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {oKNxCDReyeDLeW2TsQTcVV}, contentHash: {7360db}}
 
 [sequence]
 v1,c,v2,c,e

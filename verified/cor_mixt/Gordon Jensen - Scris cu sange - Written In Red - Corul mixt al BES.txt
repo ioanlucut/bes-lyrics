@@ -1,5 +1,5 @@
 [title]
-Scris cu sânge {alternative: {Written In Red}, composer: {Gordon Jensen}, writer: {*}, arranger: {Camp Kirkland}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter Songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {nGj3UZiADafKFHYVRJghcC}, contentHash: {2e23dd}}
+Scris cu sânge {alternative: {Written In Red}, composer: {Gordon Jensen}, writer: {*}, arranger: {Camp Kirkland}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter Songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {nGj3UZiADafKFHYVRJghcC}, contentHash: {ef2eab}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

@@ -1,5 +1,5 @@
 [title]
-Isus e viu {alternative: {*}, composer: {Carmen Gavril}, writer: {Carmen Gavril}, arranger: {Mike Speck}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {t6oJpQ9YfkNEgADQTnTiSz}, contentHash: {aaa2e1}}
+Isus e viu {alternative: {*}, composer: {Carmen Gavril}, writer: {Carmen Gavril}, arranger: {Mike Speck}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {t6oJpQ9YfkNEgADQTnTiSz}, contentHash: {35ce48}}
 
 [sequence]
 v1,c,v2,c2

@@ -1,5 +1,5 @@
 [title]
-Ce mare ești {alternative: {*}, composer: {Dan Muncaciu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {199070}, id: {v5jKun8tqoXXPss83JiQ3B}, contentHash: {d7bb84}}
+Ce mare ești {alternative: {*}, composer: {Dan Muncaciu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {199070}, id: {v5jKun8tqoXXPss83JiQ3B}, contentHash: {528f59}}
 
 [sequence]
 v1.1,v1.2,p,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,b1.1,b1.2,p,c1.1,c1.2

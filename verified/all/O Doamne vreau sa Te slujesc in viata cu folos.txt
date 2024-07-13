@@ -1,5 +1,5 @@
 [title]
-O, Doamne, vreau să Te slujesc în viață cu folos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sKbyJ74XJbFWWYi5tMuGgs}, contentHash: {65b543}}
+O, Doamne, vreau să Te slujesc în viață cu folos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sKbyJ74XJbFWWYi5tMuGgs}, contentHash: {d39537}}
 
 [sequence]
 v1,c,v2,c2,b,e
