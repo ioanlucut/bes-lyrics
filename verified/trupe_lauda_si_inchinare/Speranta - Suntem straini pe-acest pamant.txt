@@ -2,12 +2,17 @@
 Suntem străini pe-acest pământ {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64198}, id: {3pcatYkq727LDSFVi9BdY3}, contentHash: {d67f13}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3,2,c
 
-[v1]
-Suntem străini pe-acest pământ, suntem pribegi în lumea aceasta,
-Călătorim înspre Canaan, avem cu toții o nădejde
-Și știm că vine ziua când ne vom vedea dincolo de Iordan.
+[v1.1]
+Suntem străini pe-acest pământ,
+Suntem pribegi în lumea aceasta,
+Călătorim înspre Canaan.
+
+[v1.2]
+Avem cu toții o nădejde
+Și știm că vine ziua când
+Ne vom vedea dincolo de Iordan.
 
 [c]
 Ne vom vedea acolo, sus, pe nori de slavă.
@@ -15,14 +20,22 @@ Ne-om întâlni când trâmbița va răsuna.
 Ne vom vedea pe acele plaiuri minunate.
 În Paradis, în cerul sfânt ne vom vedea.
 
-[v2]
-Din orice neam și orice popor,cei ce L-am slujit pe Domnul
+[v2.1]
+Din orice neam și orice popor,
+Cei ce L-am slujit pe Domnul
 Vom fi atunci la marea sărbătoare.
-Mai sus de cerul înstelat, mai sus de galaxii și astre,
+
+[v2.2]
+Mai sus de cerul înstelat,
+Mai sus de galaxii și astre,
 Ne vom vedea cu Domnul în ziua mare.
 
-[v3]
-Și vom petrece veșnicia, vom fi în țara glorioasă
+[v3.1]
+Și vom petrece veșnicia,
+Vom fi în țara glorioasă
 Cu Isus ce ne-a răscumpărat.
-El ne-a promis că ne va duce în locul pregătit de El
+
+[v3.2]
+El ne-a promis că ne va duce
+În locul pregătit de El
 Să fim pe veci cu Domnul Preaînalt!

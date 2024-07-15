@@ -5,22 +5,31 @@
 c,v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Ne-ai ales ca să trăim, ne-ai chemat să Te slujim,
-Înnoiți de-al Tău Cuvânt în purtare și în gând.
+Ne-ai ales ca să trăim,
+Ne-ai chemat să Te slujim,
+Înnoiți de-al Tău Cuvânt
+În purtare și în gând.
 
 [v1.2]
-Ne-ai iertat orice păcat, moștenire-am căpătat,
-Prin credința-n jertfa Ta, ne-nchinăm în fața Ta.
+Ne-ai iertat orice păcat,
+Moștenire-am căpătat,
+Prin credința-n jertfa Ta,
+Ne-nchinăm în fața Ta.
 
 [c]
-/: Îți mulțumim, Îți mulțumim, Doamne bun, Te slăvim.
+/: Îți mulțumim, Îți mulțumim,
+Doamne bun, Te slăvim.
 Pentru harul Tău și dragostea Ta,
-/: Doamne bun, Îți mulțumim! :/
+Doamne bun, Îți mulțumim! :/
 
 [v2.1]
-Te-ai lăsat batjocorit, pe o cruce răstignit,
-Ai purtat osânda grea, Doamne, pentru vina mea.
+Te-ai lăsat batjocorit,
+Pe o cruce răstignit,
+Ai purtat osânda grea,
+Doamne, pentru vina mea.
 
 [v2.2]
-Tu ești calea către cer, adevăr ești și-un mister,
-Lăudăm de pe pământ al Golgotei legământ.
+Tu ești calea către cer,
+Adevăr ești, un mister,
+Lăudăm de pe pământ
+Al Golgotei legământ.

@@ -11,10 +11,10 @@ Ce-avea mai scump El dărui,
 Făcând din noi comoară.
 
 [v2]
-Durere de neînchipuit,
+/: Durere de neînchipuit,
 Căci Tatăl și-a-ntors fața
 Pe Cel Ales L-a părăsit,
-Iar nouă ne-a dat viața!
+Iar nouă ne-a dat viața! :/
 
 [v3]
 La Fiul răstignit privesc,
@@ -23,10 +23,10 @@ Păcatu-mi cum Îl frânge,
 Și vocea mea-L străpunge.
 
 [v4]
-Pe cruce Eu Te-am țintuit,
+/: Pe cruce Eu Te-am țintuit,
 Dar când Ți-ai dat suflarea,
 Al nopții chin s-a risipit
-Și mi-ai adus iertarea!
+Și mi-ai adus iertarea! :/
 
 [b]
 Osana, Osana!
@@ -41,7 +41,7 @@ Cu învierea-I mă fălesc,
 Cu salvatoarea-I moarte.
 
 [v6]
-O, nu-s deajuns spre-a-Ți mulțumi,
+/: O, nu-s deajuns spre-a-Ți mulțumi,
 Nici cânt, nici osanale.
 Hristos cu viața Sa plăti,
-A mea răscumparare!
+A mea răscumparare! :/

@@ -5,8 +5,10 @@ Inima mea vrea să-Ți cânte {alternative: {*}, composer: {*}, writer: {*}, arr
 v1,c,v2.1,c,v2.2,c
 
 [v1]
-Inima mea vrea să-Ți cânte, vrea să Te înalțe, în fiecare zi.
-Tu ne-ai adus bucurie și-atâta bunătate cum n-am putut gândi.
+Inima mea vrea să-Ți cânte,
+Vrea să Te înalțe, în fiecare zi.
+Tu ne-ai adus bucurie și-atâta bunătate
+Cum n-am putut gândi.
 
 [c]
 /: Vreau să-Ți mulțumesc pentru tot ce ai făcut

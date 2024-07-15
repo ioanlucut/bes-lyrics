@@ -5,19 +5,13 @@ Eu am un Creator {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, i
 v1,v2,v3
 
 [v1]
-Eu am un Creator
-Ce viață mi-a dat.
-‘Nainte să fi fost,
-Eram în mâna Sa.
+Eu am un Creator ce viață mi-a dat.
+‘Nainte să fi fost, eram în mâna Sa.
 
 [v2]
-Îmi știe numele,
-Îmi știe orice gând,
-Îmi vede lacrima,
-M-aude atunci când strig.
+Îmi știe numele, îmi știe orice gând,
+Îmi vede lacrima, m-aude atunci când strig.
 
 [v3]
-Eu am un Tată bun,
-Ce m-a salvat
-Și niciodată El
-Nu mă va lăsa.
+Eu am un Tată bun ce m-a salvat
+Și niciodată El nu mă va lăsa.

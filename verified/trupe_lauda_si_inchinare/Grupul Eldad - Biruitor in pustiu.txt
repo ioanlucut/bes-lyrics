@@ -2,7 +2,7 @@
 Biruitor in pustiu {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187782}, id: {hECwjFxyxAYKARJgxDaDJ7}, contentHash: {2b8d87}}
 
 [sequence]
-v1,v2,v3,v4,v5,c,v6,c,v7,c,e
+v1,v2,v3,v4,v5,c1.1,c1.2,v6,c,v7,c1.1,c1.1,c1.2,e
 
 [v1]
 Sunt în pustiu, cel rău se-arată,
@@ -34,11 +34,13 @@ Nici nu mi-a luat mult să gândesc,
 I-am spus lui: „Pleacă de la Mine!
 În Numele Tatălui te biruiesc!”
 
-[c]
+[c1.1]
 Isus e Domn și-n curând vine,
 El încă e-n pustiu cu noi.
 Știm însă că avem puterea
 Prin sângele Mielului.
+
+[c1.2]
 Isus e Domn și-n curând vine,
 El încă e-n pustiu cu noi.
 Știm însă că avem puterea
