@@ -2,7 +2,7 @@
 Mi-e dor, mi-e dor de casa mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6988}, id: {bbGS76rDZZAc3ugNumujFQ}, contentHash: {aa6097}}
 
 [sequence]
-v1,c,v2,c,v3,c,v4,c,v5,c
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
 
 [v1]
 Mi-e dor, mi-e dor de casa mea,
@@ -14,28 +14,34 @@ Aș vrea să văd pe Fiul Său.
 Eu nu sunt de pe pământ,
 Eu nu sunt de aici de jos,
 Țara mea-i acolo sus,
-Eu mă duc după Isus.
+Eu mă duc după Isus!
 
 [v2]
 Aș vrea, aș vrea s-ajung degrab’,
-Să mă aplec, la piept să-i cad,
-Să-I spun atunci c-am biruit,
+Să mă aplec, la piept să-I cad,
+Să-I spun atunci că-am biruit,
 Să-I mulțumesc că m-a iubit.
 
 [v3]
 Să plec, să plec de aici de jos,
-S-ajung în țara lui Hristos,
+S-ajung în țara lui Hristos
 Că eu aici am suspinat,
 Acolo voi fi mângâiat.
 
 [v4]
-Mai ai puțin, mai ai puțin
-Și după tine am să vin.
-Mai rabdă până se vor împlini
-Cuvintele din prorocii.
+Eu simt, eu simt pe Cineva:
+E Domnul în inima mea.
+Îi simt susurul Lui cel blând,
+Îi simt fiorul Lui cel Sfânt.
 
 [v5]
+Mai ai puțin, mai ai puțin
+Și după tine Eu vin!
+Mai rabdă până s-a-mplini
+Cuvântul sfânt din prorocii!
+
+[v6]
 Nu sunt, nu sunt de pe pământ,
 Eu sunt din oastea Celui Sfânt.
-Acolo lacrimi nu-s pe veci
-Și de necazuri nu mă tem.
+Am ochii ațintiți spre cer
+Și de necazuri nu mă tem!

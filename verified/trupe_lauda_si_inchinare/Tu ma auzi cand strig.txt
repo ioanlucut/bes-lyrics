@@ -5,42 +5,30 @@ Tu mă auzi când strig {alternative: {*}, composer: {*}, writer: {*}, arranger:
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,b,c1.1,c1.2
 
 [v1]
-Tu mă auzi când strig,
-Îți cânt din zori de zi.
-Chiar dacă noaptea-i grea,
-Eu văd lumina Ta.
+Tu mă auzi când strig, Îți cânt din zori de zi,
+Chiar dacă noaptea-i grea, eu văd lumina Ta.
 Cum să mă tem?
 
 [v2]
-Dușmanul l-ai zdrobit,
-E sub picioare-nvins.
-Mi-ești sabie și scut,
-Chiar în necaz de lupt.
+Dușmanul l-ai zdrobit, e sub picioare-nvins,
+Mi-ești sabie și scut, chiar în necaz de lupt.
 Cum să mă tem?
 
 [c1.1]
-Știu cine mă conduce
-Și e de partea mea.
-Armate-ntregi de îngeri
-Stau sub comanda Sa.
+Știu cine mă conduce și e de partea mea,
+Armate-ntregi de îngeri stau sub comanda Sa.
 
 [c1.2]
-Cel ce îmi e prieten,
-Domnește-n veci pe tron,
-El e mereu cu mine,
-Domnul Oștirilor.
+Cel ce îmi e prieten domnește-n veci pe tron,
+El e mereu cu mine, Domnul Oștirilor.
 
 [v3]
-Tu ești tăria mea,
-Doar Tu mă poți salva,
-Ești izbăvirea mea,
-Victoria e a Ta!
+Tu ești tăria mea, doar Tu mă poți salva,
+Ești izbăvirea mea, victoria e a Ta!
 Cum să mă tem, cum să mă tem?
 
 [b]
 /: Orice împotrivă-mi va sta,
-Nu mă va lua din mâna Ta.
-Ești credincios
-Și-n Cuvântul Tău
-Eu voi crede,
-Eu voi crede! :/
+Nu mă va lua din mâna Ta!
+Ești credincios și-n Cuvântul Tău
+Eu voi crede, eu voi crede! :/

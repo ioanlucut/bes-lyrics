@@ -2,7 +2,7 @@
 Multă pace am găsit {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214230}, id: {k5Tzbg3F2WupWLUGvcoX9f}, contentHash: {7754fc}}
 
 [sequence]
-v1,p,c,v2,p,c,b,p,c
+v1,p,c,v2,p,c,b,p,c,e
 
 [v1]
 Multă pace am găsit
@@ -34,3 +34,6 @@ Prin Isus toți vom trăi!
 Dau glorie Mielului,
 Și voi auzi cum mii de credincioși
 Zic: „Vrednic este El!” :/
+
+[e]
+Vrednic este El!

@@ -13,7 +13,7 @@ Vrăjmașii mei să nu se bucure de mine!
 [c]
 În Tine e nădejdea mea,
 În Tine e speranța mea!
-Doar prin Tine, izbăvire voi primi
+Doar prin Tine izbăvire voi primi
 Cu Tine ne-ncetat voi birui,
 Domnul meu!
 
@@ -24,9 +24,9 @@ Adăpost când îmi este greu!
 Tu ești Dumnezeul meu!
 
 [v3]
-/: Ești steag de biruință! :/
+/: Ești steag de biruință :/
 În lupta-nverșunată!
-/: Ești steag de biruință! :/
+/: Ești steag de biruință, :/
 Cu Tine lupta-i câștigată!
 
 [e]

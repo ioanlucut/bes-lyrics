@@ -6,7 +6,7 @@ v1,c,v2,c,v3,c
 
 [v1]
 În fiecare dimineață, Doamne-Ți înnoiești
-Bunătatea Ta, și-ndurarea Ta,
+Bunătatea Ta și-ndurarea Ta,
 Sănătate, viață-mi dai, zi de zi primesc,
 Doamne, Tatăl meu, Îți mulțumesc.
 
@@ -18,7 +18,7 @@ Te iubesc, mă închin și-Ți mulțumesc. :/
 
 [v2]
 Cu brațul Tău divin de Tată, Tu mă ocrotești
-Zi de zi, mereu, Doamne Dumnezeu,
+Zi de zi, mereu, Doamne Dumnezeu.
 De grijă-mi porți cum nimeni altul n-ar putea nicicând,
 Domnul meu iubit, credincios și sfânt.
 
@@ -26,4 +26,4 @@ Domnul meu iubit, credincios și sfânt.
 Atât cât voi avea suflare, Te voi lăuda
 Cu viața mea, prin purtarea mea.
 Calea către Tine, Doamne, o voi mărturisi
-Și-ntr-o zi în cer, Tu mă vei primi.
+Și-ntr-o zi în cer Tu mă vei primi.
