@@ -6,13 +6,13 @@ v1,c,v2,c,v3,c
 
 [v1]
 Sfârșitul veacului trăim,
-Cu luptă, ură și război
-Dar, fericiți, la cer privim,
+Cu luptă, ură și război,
+Dar fericiți la cer privim,
 Nu e mult și vine Domnul iar la noi.
 
 [c]
 /: El vine iar, El vine iar,
-Ce fericire negrăită,
+Ce fericire negrăită!
 Se va sfârși al nopții chin amar
 Căci Domnul vine iar. :/
 
@@ -26,4 +26,4 @@ Cuvântul Său e da, amin,
 Ce zi măreață, ce splendori,
 Când trâmbița va răsuna,
 Și Domnul va veni pe nori,
-Fără murmur, plini de slavă-I vom cânta.
+Fără murmur, plini de slavă-I vom cânta!

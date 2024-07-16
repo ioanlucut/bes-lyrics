@@ -11,13 +11,10 @@ Sunt ca Petru, ce pornit pe val se scufunda.
 Mâna mea, vreau s-o țin în mâna Ta.
 
 [c]
-Mâna Ta, Doamne,
-M-a scăpat din noaptea rea.
-Mâna Ta, Doamne,
-Mă păzește-n noaptea grea.
-Și poate fi valul ‘nalt,
-Tu ții corabia mea.
-Mâna Ta, Doamne, mă va purta.
+Mâna Ta, Doamne, m-a scăpat din noaptea rea.
+Mâna Ta, Doamne, mă păzește-n noaptea grea.
+/: Și poate fi valul ‘nalt, Tu ții corabia mea.
+Mâna Ta, Doamne, mă va purta. :/
 
 [v2]
 Când șuvoaiele-nspumate vin asupra mea
@@ -26,7 +23,7 @@ Deși inima-mi se oprește-n loc, eu nu mă tem,
 Mâna mea, vreau s-o țin în mâna Ta.
 
 [v3]
-Mâine dincolo de noapte, în ai zilei zori,
+Mâine, dincolo de noapte, în ai zilei zori,
 Voi deschide ochii printre galaxii
-Și-am să strig „Slăvit să fii și azi și-n veșnicii”,
+Și-am să strig: „Slăvit să fii și azi și-n veșnicii!”,
 Mâna mea, vreau s-o țin în mâna Ta.

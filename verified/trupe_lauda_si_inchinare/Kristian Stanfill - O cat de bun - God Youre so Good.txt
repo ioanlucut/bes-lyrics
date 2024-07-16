@@ -5,8 +5,7 @@ O, cât de bun {alternative: {God You’re so Good}, composer: {Kristian Stanfil
 v1,c,v2,c,b,v3,c
 
 [v1]
-E uimitor ce dragoste
-Arăți pentru mine.
+E uimitor ce dragoste arăți pentru mine,
 Ai hotărât să fiu al Tău,
 Plătind cu-al Tău sânge.
 
@@ -15,18 +14,14 @@ Plătind cu-al Tău sânge.
 Doamne ești cu min’!
 
 [v2]
-Privesc, Isus, vechiul lemn
-Ce veacuri străbate.
-Puterea Ta și azi o văd,
-Salvând de la moarte.
+Privesc, Isus, vechiul lemn ce veacuri străbate.
+Puterea Ta și azi o văd, salvând de la moarte.
 
 [b]
-Sunt salvat, întregit,
-Pe deplin acceptat.
-În Isus sunt vindecat,
-Tatăl mi-a dat favoare,
-Sunt fiul Său,
-Toată viața-L voi lăuda.
+/: Sunt salvat, întregit, pe deplin acceptat.
+În Isus sunt vindecat.
+Tatăl mi-a dat favoare, sunt fiul Său,
+Toată viața-L voi lăuda.:/
 
 [v3]
 Iar încercări când vor veni,

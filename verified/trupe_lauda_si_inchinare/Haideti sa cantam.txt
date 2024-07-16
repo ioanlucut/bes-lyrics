@@ -8,13 +8,11 @@ c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
 Haideți să cântăm cu veselie Domnului
 Și să strigăm de bucurie
 Către Stânca mântuirii noastre,
-Înaintea Lui să mergem toți cu laude.
+Înaintea Lui să mergem toți cu laude!
 
 [c1.2]
-Cântați-I cântece,
-Cântați-I cântece,
-Cântați-I cântece,
-O, în cinstea Lui.
+Cântați-I cântece, cântați-I cântece,
+Cântați-I cântece, o, în cinstea Lui!
 
 [v1]
 Domnul este un mare Împărat,
@@ -24,6 +22,6 @@ Lui mă-nchin, e Creatorul meu.
 
 [v2]
 Să ne-nchinăm, să ne smerim,
-Să plecăm genunchii, să-L slăvim.
+Să plecăm genunchii, să-L slăvim!
 Noi suntem poporul Domnului,
 Nu putem fi smulși din mâna Lui.
