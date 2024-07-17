@@ -18,12 +18,12 @@ Isus, ești fericirea mea!
 
 [c]
 La Calvar păcatul mi-e șters,
-La Calvar eu har primesc,
-La Calvar mântuire am în dar,
-Îți mulțumesc, Isus, pentru Calvar!
+La Calvar eu har primesc.
+/: La Calvar mântuire am în dar,
+Îți mulțumesc, Isus, pentru Calvar! :/
 
 [v2.1]
-Cine sunt eu să pot intra,
+Cine sunt eu să pot intra
 Doamne-n, împărăția Ta?
 Nu merit și nu voi putea
 Să-Ți răsplătesc iubirea Ta.

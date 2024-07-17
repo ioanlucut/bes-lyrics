@@ -2,32 +2,22 @@
 Va veni o zi în care toți aleșii Domnului {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1550}, id: {bBLzuA3UhWRf4pwBfKt6bz}, contentHash: {0325be}}
 
 [sequence]
-v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
+v1,c,v2,c
 
-[v1.1]
-Va veni o zi în care
-Toți aleșii Domnului
+[v1]
+Va veni o zi în care toți aleșii Domnului
 Vor cânta un imn de slavă Mielului.
-
-[v1.2]
-Ziua aceea nu-i departe,
-Pregătiți-vă acum!
+Ziua aceea nu-i departe, pregătiți-vă acum,
 Nu uitați că ziua aceea e pe drum!
 
-[c1.1]
+[c]
 /: Ce minune va fi când Domnul va veni,
 Toți aleșii Domnului cu El vor fi.
-
-[c1.2]
 Vei fi și tu acol’ la masa Domnului?
 Pregătește-te, că ziua e pe drum! :/
 
-[v2.1]
-După toată alergarea,
-Fericit vei fi și tu,
+[v2]
+După toată alergarea fericit vei fi și tu,
 Vei primi cununa slavei lui Isus.
-
-[v2.2]
-Deci, grăbește-te acuma,
-Până când mai este har,
-Nu lăsa să treacă timpul în zadar.
+Deci, grăbește-te acuma, până când mai este har,
+Nu lăsa să treacă timpul în zadar!

@@ -6,7 +6,7 @@ c,v1,c,v1
 
 [c]
 /: Binecuvântează, suflete, pe Domnul tău,
-Nu uita niciuna din binefacerile Lui. :/
+Nu uita niciuna din binefacerile Lui! :/
 
 [v1]
 /: Căci El îți iartă făr’delegea ta,

@@ -5,32 +5,24 @@ Domnul fie cu tine {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {
 v1,c,v1,c,v2,v3,v4,c2,c,v2,v3,v4,c2,c
 
 [v1]
-/: Domnul fie cu tine
-Fața Lui să lumineze
-Mereu ființa ta.
-Să-ți umple viața
-Cu pacea Sa! :/
+/: Domnul fie cu tine,
+Fața Lui să lumineze mereu ființa ta,
+Să-ți umple viața cu pacea Sa! :/
 
 [c]
 /: Amin, amin, amin! :/
 
 [v2]
-/: Harul Lui să se reverse
-Peste mii de generații,
-Binecuvântați să fie
-Și părinții, și copiii! :/
+/: Harul Lui să se reverse peste mii de generații,
+Binecuvântați să fie și părinții și copiii! :/
 
 [v3]
-Iar prezența Lui să fie
-Și ‘nainte, și în urmă
-Lângă tine și în tine
-E cu tine, e cu tine!
+Iar prezența Lui să fie și ‘nainte, și în urmă
+Lângă tine și în tine, e cu tine, e cu tine!
 
 [v4]
-De e zi sau de e noapte,
-La plecare, la venire,
-În durere, bucurie
-Nu te lasă, e cu tine!
+De e zi sau de e noapte, la plecare, la venire,
+În durere, bucurie, nu te lasă, e cu tine!
 
 [c2]
 /: E cu tine, e cu tine, e cu tine! :/
