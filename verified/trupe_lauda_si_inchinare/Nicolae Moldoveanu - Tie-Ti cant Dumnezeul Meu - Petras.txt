@@ -1,5 +1,5 @@
 [title]
-Ție-Ți cânt Dumnezeul meu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+Ție-Ți cânt Dumnezeul meu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {fVrZec1rLJes2Rm51GHqE6}, contentHash: {ade9e1}}
 
 [sequence]
 v1,v2,v3,v4
