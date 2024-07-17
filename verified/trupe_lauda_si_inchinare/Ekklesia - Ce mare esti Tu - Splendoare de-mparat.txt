@@ -5,7 +5,7 @@ Ce mare ești Tu {alternative: {Splendoare de-mpărat}, composer: {Ekklesia}, wr
 v1,c,v2,c,e
 
 [v1]
-Splendoare de-mpărat, cu slavă îmbrăcat,
+Splendoare de-mpărat în slavă îmbrăcat,
 /: Pământul va cânta! :/
 Lumină-i haina Sa și noaptea nu va sta,
 /: Fugind din fața Sa. :/
@@ -22,5 +22,5 @@ Triunic Dumnezeu, Tată, Fiu și Duh,
 /: El este Leu și Miel. :/
 
 [e]
-/: Numele lui sfânt, Îl înălțăm cântând,
-Ce mare e al nost’ Dumnezeu! :/
+/: Numele lui sfânt Îl înălțăm cântând,
+Ce mare e al meu Dumnezeu! :/
