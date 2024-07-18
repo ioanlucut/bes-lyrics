@@ -5,15 +5,13 @@ Doamne, mai vreau Rusalii {alternative: {*}, composer: {Callatis Praise}, writer
 v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
 [v1.1]
-Doamne, mai vreau Rusalii
-Cu limbi de foc,
-Să le împrăștii pe fiecare,
-Să ne atingi cu Duhul Tău.
+Doamne, mai vreau Rusalii,
+Cu limbi de foc să le împrăștii
+Pe fiecare să ne atingi cu Duhul Tău.
 
 [v1.2]
 Doamne, vreau o trezire
-Și într-un gând și o simțire
-Să fim cu toții
+Și într-un gând și o simțire să fim cu toții
 Și să cântăm în limbi o mie.
 
 [c]
@@ -24,18 +22,15 @@ O, Duh Preasfânt! :/
 
 [v2.1]
 Doamne, dă-mi bucurie
-Și să mă legi strâns în iubire.
-Doamne, vreau tot mai mult
-Din Duhul Tău.
+Și să mă legi strâns în iubire
+Doamne, eu vreau, vreau tot mai mult din Duhul Tău.
 
 [v2.2]
 Doamne, mai vreau sfințire
 Și-un foc adânc să ardă-n mine,
-Pe veci să fiu al Tău
-În nemurire.
+Pe veci să fiu al Tău în nemurire.
 
 [b]
 Doamne, vreau o trezire
 Și într-un gând și o simțire
-Să fim cu toții și să cântăm
-În nemurire.
+Să fim cu toții și să cântăm în nemurire.

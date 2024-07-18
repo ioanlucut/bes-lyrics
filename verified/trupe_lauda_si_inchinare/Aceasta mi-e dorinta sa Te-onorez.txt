@@ -5,7 +5,7 @@ Aceasta mi-e dorința, să Te-onorez {alternative: {*}, composer: {*}, writer: {
 v1,c,v2,c
 
 [v1]
-Aceasta mi-e dorința, să Te-onorez,
+Aceasta mi-e dorința: să Te-onorez,
 Cu ființa-ntreagă să Te slăvesc.
 Te ador, Stăpâne, și mă închin,
 Lauda și onoarea Ți se cuvin!

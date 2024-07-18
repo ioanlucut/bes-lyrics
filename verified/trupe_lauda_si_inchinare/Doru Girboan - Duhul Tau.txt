@@ -8,16 +8,20 @@ v1,c,v2,c
 Orice-am face, Doamne, orice-am spune,
 Fără Duhul Tău e goană după vânt
 Și orice viață fără Tine-apune,
-Umple-ne, Isus, cu Duhul Tău cel Sfânt.
+Umple-ne, Isus, cu Duhul Tău cel Sfânt!
 
 [c]
-Duhul Tău ne călăuzește, Doamne-n orice zi,
+/: Duhul Tău ne călăuzește, Doamne-n orice zi,
 Duhul Tău mângâiere dă în vremile târzii,
 Duhul Tău ne învață cum plăcut să ne rugăm,
-Duhul Tău, o, Doamne, așteptăm.
+Duhul Tău, o, Doamne, așteptăm. :/
 
 [v2]
 Și cum vom sta noi oare în picioare
 Când ziua judecății va veni?
 În încercări cum n-au mai fost sub soare
 Numai Duhul Tău ne poate întări.
+
+[b]
+/: Stăm ‘naintea Ta așteptând susurul blând,
+Umple-ne, Isus, cu Duhul Sfânt! :/

@@ -2,23 +2,19 @@
 Îți dau inima mea și tot ce am aduc {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2466}, id: {3n5vUUr8XiXnJivR5ziZuA}, contentHash: {b01c50}}
 
 [sequence]
-v1.1,v1.2,c,v2.1,v2.2,c
+v1,c,v2,c
 
-[v1.1]
+[v1]
 Îți dau inima mea și tot ce am aduc
 Acum ‘naintea Ta, de dragul Tău, Isus.
-
-[v1.2]
 Tot ce eu visez, mândria mea Ți-o dau,
 Renunț la dreptul meu ca viața Ta s-o am.
 
 [c]
-/: Și Ție Îți dau tot ce sunt, tot ce am! :/
+/: Ție Îți dau tot ce sunt, tot ce am! :/
 
-[v2.1]
+[v2]
 Îți dau cântecul meu, aștept la crucea Ta,
 Renunț la ce-i lumesc, căci pe Tine Te doresc.
-
-[v2.2]
 Să Te cunosc mai mult, să-nalț Numele Tău,
 Să știu bucuria Ta chiar și-atunci când mi-este greu.

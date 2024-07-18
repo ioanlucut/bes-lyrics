@@ -6,7 +6,7 @@ v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
 Pot să scriu și să vorbesc de Tine,
-Despre tot ce Tu ai scris și ai făcut,
+Despre tot ce Tu ai spus și ai făcut,
 Cum cu pâini și pești ai săturat mulțimea
 Și în dragoste pe cruce ne-ai născut.
 
@@ -17,10 +17,8 @@ Când eram eu singur și în deznădejde,
 Tu cu dragoste în brațe m-ai primit!
 
 [c]
-Tu ne-ai adus iubirea,
-Ca pe-un veșmânt curat,
-Dar pentru acestea toate,
-Isus, noi ce Ți-am dat?
+/: Tu ne-ai adus iubirea ca pe-un veșmânt curat,
+Dar pentru acestea toate, Isus, noi ce Ți-am dat? :/
 
 [v2.1]
 Când umbra acestei lumi e peste tine

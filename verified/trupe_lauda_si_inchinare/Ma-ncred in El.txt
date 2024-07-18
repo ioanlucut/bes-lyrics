@@ -5,7 +5,7 @@ Mă-ncred în El {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, i
 c,v1,c,v2,c2,v3,c2
 
 [v1]
-Mă-ncred în El, orice s-ar întâmpla
+Mă-ncred în El orice s-ar întâmpla
 Pe drumul meu sau în viața mea.
 Fie ce-o fi, în orice zi,
 Cerescul Tată m-a călăuzi.
@@ -17,14 +17,14 @@ Lovit de val ajung la mal,
 Cerescul Tată m-a călăuzi.
 
 [v2]
-Mă-ncred în El, oriunde aș fi dus,
+Mă-ncred în El oriunde aș fi dus,
 Chiar în cuptor de foc de aș fi pus.
 În suferințe și în bucurii,
 Cerescul Tată m-a călăuzi.
 
 [v3]
-Mă-ncred în El, chiar și când nu-nțeleg
-Eu, voia Lui, întotdeauna-aleg,
+Mă-ncred în El chiar și când nu-nțeleg
+Eu voia Lui întotdeauna-aleg,
 Căci doar așa, în slava Sa,
 Cerescul Tată m-a călăuzi.
 

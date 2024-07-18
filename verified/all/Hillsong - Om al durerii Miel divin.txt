@@ -15,11 +15,13 @@ Bătut, zdrobit, batjocorit, El nu S-a apărat.
 [c]
 M-ai salvat la vechea cruce,
 Dragostea Ta mi-ai arătat,
-Sufletu-mi strigă „Aleluia, slavă Celui înălțat!”
+Sufletu-mi strigă:
+„Aleluia, slavă Celui înălțat!”
 
 [v2]
 Dumnezeu venit din cer, Tu ne-ai răscumpărat,
-Vrei să te-mpaci cu cei ce sus, pe cruce Te-au urcat.
+Vrei să te-mpaci cu cei ce sus,
+Pe cruce Te-au urcat.
 
 [b]
 /: Datoria mea a plătit-o El,
@@ -28,5 +30,5 @@ De blestem, păcat, nu mai sunt legat
 Fiul a plătit, sunt eliberat! :/
 
 [v3]
-Piatra s-a rostogolit, mormântul este gol.
+Piatra s-a rostogolit, mormântul este gol,
 Aleluia, fii-nălțat, din morți ai înviat!

@@ -6,9 +6,15 @@ v1,c,v2,c,v3,c
 
 [v1]
 Cerul și Pământul, ne spune Cuvântul, vor pieri,
-Un lucru rămâne, peste timp și lume pe vecii.
+Un lucru rămâne, peste timp și lume, pe vecii.
 Ne-a fost dăruită, cu sânge stropită la Calvar,
 N-are-asemănare sub întregul soare sau hotar.
+
+[v2]
+Vremuri de prigoană, să strecoare teamă, n-au lipsit,
+Temelia sfântă nu a fost zidită pe nisip.
+Unde-a fost vestită, ea a fost primită ca un dar,
+În inimi păstrată și la alții dată ca un jar.
 
 [c]
 /: Evanghelia, Evanghelia,
@@ -16,14 +22,14 @@ Evanghelia are putere,
 Evanghelia, Evanghelia,
 Evanghelia nicicând nu piere. :/
 
-[v2]
-Cine o-mplinește, fericit trăiește tot mereu
-Și în clipe grele, îți dă mângâiere Dumnezeu.
-Ea ne este harul, ne-alungă amarul și ne dă,
-Prin credința-n Domnul, o viață-n ceruri veșnică.
-
 [v3]
+Cine o-mplinește fericit trăiește tot mereu
+Și în clipe grele îi dă mângâiere Dumnezeu.
+Ea ne este harul, ne-alungă amarul și ne dă,
+Prin credința-n Domnul, o viață-n ceruri, veșnică.
+
+[v4]
 Ea mereu ne-nvață și ne dă povață cum trăim,
 Calea ne arată, jertfa Domnului s-o prețuim.
-Nu-i carte în lume care să ne-ndrume spre Isus.
+Nu-i carte în lume care să ne-ndrume spre Isus,
 Ea te luminează și îți dă viață-n ceruri sus.
