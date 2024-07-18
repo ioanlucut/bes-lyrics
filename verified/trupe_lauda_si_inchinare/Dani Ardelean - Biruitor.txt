@@ -2,7 +2,7 @@
 Biruitor {alternative: {*}, composer: {Dani Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {175967}, id: {2aHyv3KR1Ubc1ntAnRmoke}, contentHash: {3cac42}}
 
 [sequence]
-v1.1,v1.2,c,v2,c,b,c
+v1.1,v1.2,c,v2,c,b,c,e
 
 [v1.1]
 Pe câmpul de război Tu ești cu mine,
@@ -33,3 +33,7 @@ Că-n zori de zi ajunge-vom la mal!
 Și vin săgeți arzând,
 Nu tremur, nu mi-e teamă,
 Știu lângă cine lupt! :/ (x3)
+
+[e]
+De-i lupta-ncrâncenată și vin săgeți arzând
+Nu tremur, nu mi-e teamă!

@@ -5,14 +5,14 @@ Aș vrea, Isuse scump, să fiu ca Tine {alternative: {*}, composer: {Corneliu R�
 v1,c,v2,c,v3,c
 
 [v1]
-Aș vrea, Isuse scump, să fiu ca Tine,
+Aș vrea, Isuse scump, să fiu ca Tine
 În pribegia mea pe-acest pământ.
-De-atâtea ori când grea ispită-mi vine,
+De-atâtea ori când grea ispită-mi vine
 S-o biruiesc prin sfântul Tău Cuvânt.
 
 [c]
 Aș vrea, Isuse scump, a Ta comoară
-De mângâieri, pe veci să-mi dăruiești.
+De mângâieri pe veci să-mi dăruiești.
 Aș vrea ca-n mine tot ce-i vechi să moară
 Ca Tu să faci din mine ce dorești.
 
@@ -24,6 +24,6 @@ Ce-mpiedică să-Ți văd mărirea Ta.
 
 [v3]
 Și câte n-aș mai vrea, o, scump Isuse,
-În pribegia mea pe-acest pământ!
+În pribegia mea pe-acest pământ,
 Dorințele ce îmi rămân nespuse
 Le împlinește sfântul Tău Cuvânt!
