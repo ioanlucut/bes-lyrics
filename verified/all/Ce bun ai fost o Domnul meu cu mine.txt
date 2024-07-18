@@ -1,5 +1,5 @@
 [title]
-Ce bun ai fost, o, Domnul meu cu mine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Ce bun ai fost, o, Domnul meu cu mine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jjvB12WzJeWLE1rr4czjem}, contentHash: {ba87f2}}
 
 [sequence]
 v1,c,v2,c,v3,c
