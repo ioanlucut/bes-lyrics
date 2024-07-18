@@ -1,5 +1,5 @@
 [title]
-Când mă aflu-n prezența Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180898}, id: {qXJidot28gCSFvPmnAtX3X}, contentHash: {fae8ef}}
+Când mă aflu-n prezența Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180898}, id: {qXJidot28gCSFvPmnAtX3X}, contentHash: {272fb5}}
 
 [sequence]
 v1
