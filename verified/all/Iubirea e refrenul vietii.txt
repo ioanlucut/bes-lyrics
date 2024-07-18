@@ -1,0 +1,31 @@
+[title]
+Iubirea e refrenul vieții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {r76JmBWCpgN9v5PwuTxNJv}, contentHash: {9650cd}}
+
+[sequence]
+v1,c,v2,c,v3,v4
+
+[v1]
+Aș vrea să cânt iubirea în versul ei duios,
+Ea este împlinirea, darul cel mai frumos
+De la Hristos – iubirea.
+
+[c]
+/: Iubirea e refrenul vieții, întruparea frumuseții,
+Melodie în acorduri cerești.
+Se-ascund în tainele-mplinirii
+Melodiile iubirii, puritatatea crinilor crești. :/
+
+[v2]
+Revarsă în torente iubirea pe pământ,
+Trăiri și sentimente ascunse-ntr-un cuvânt
+Ne-a dat Cel Sfânt – iubirea.
+
+[v3]
+Cea mai frumoasă floare ce ne-a lăsat Isus
+Aduce sărbătoare și-n sufletul răpus,
+Ne-a dat Isus – iubirea.
+
+[v4]
+Iubirea-i mângâiere, alin în ceasul greu,
+Iubirea este darul lăsat de Dumnezeu,
+S-avem mereu iubirea!
