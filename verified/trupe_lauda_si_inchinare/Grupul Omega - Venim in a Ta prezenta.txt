@@ -1,17 +1,29 @@
 [title]
-Venim în a Ta prezență {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6798}, id: {tXprLKeNPsgQm8eZ4BybKi}, contentHash: {0809b7}}
+Venim în a Ta prezență {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6798}, id: {tXprLKeNPsgQm8eZ4BybKi}, contentHash: {4deaec}}
 
 [sequence]
-v1,c,v1,c
+v1.1,v1.2,c1.1,c1.2,v1.1,v1.2,c1.1,c1.2
 
-[v1]
-Venim în a Ta prezență cu toții să-Ți cântăm
-Un cântec de mărire și venim să ne-nchinăm.
-Ne-ai dat o viață nouă să putem să Te iubim,
-Venim cu mulțumire, o, Doamne, Te iubim!
+[v1.1]
+Venim în a Ta prezență,
+Cu toții să-Ți cântăm
+Un cântec de mărire
+Și venim să ne-nchinăm.
 
-[c]
-/: Tu ești Tatăl creațiunii, Mielul Sfânt ce-ai înviat,
-Ești singurul ce-ai biruit și mormântu-ai lepădat.
-Tu pe toți ne-ai eliberat de la moarte și ne-ai dat
-Libertatea să venim ca-n prezența Ta să fim. :/
+[v1.2]
+Ne-ai dat o viață nouă,
+Să putem să Te iubim,
+Venim cu mulțumire,
+O, Doamne, Te iubim!
+
+[c1.1]
+/: Tu ești Tatăl creațiunii,
+Mielul Sfânt ce-ai înviat.
+Ești singurul ce-ai biruit
+Și mormântu-ai lepădat.
+
+[c1.2]
+Tu pe toți ne-ai eliberat
+De la moarte și ne-ai dat
+Libertatea să venim
+Ca-n prezența Ta să fim. :/
