@@ -23,10 +23,10 @@ Nu e-n soare, ci e-n ceață,
 Nu-ncălzește, ci îngheață.
 
 [v4]
-Dragostea ce nu-i curată
+/: Dragostea ce nu-i curată
 Nu trezește, ci îmbată,
 Nu rămâne, ci trădează,
-Nu-nălbește, ci-ntinează.
+Nu-nălbește, ci-ntinează. :/
 
 [v5]
 Numai dragostea divină

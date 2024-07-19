@@ -11,12 +11,13 @@ v1,c,v2,v2,c
 Ca să trec prin încercare mai ușor.
 
 [c]
-Domnul meu, mă-ncred în Tine,
+/: Domnul meu, mă-ncred în Tine,
 Tu ești Stânca mea și ajutorul meu!
 Domnul meu, Te am numai pe Tine,
-Doamne, ești al meu și eu sunt tot al Tău!
+Doamne, ești al meu și eu sunt tot al Tău! :/
 
 [v2]
-/: Doamne, fă-mă în prezența Ta să intru,
+Doamne, fă-mă în prezența Ta să intru,
 Doamne, fă-mă să iubesc prezența Ta,
-Vreau de-acuma numai Ție și prezenței Tale glorie să-i dau! :/
+Vreau de-acuma numai Ție
+Și prezenței Tale glorie să-i dau!

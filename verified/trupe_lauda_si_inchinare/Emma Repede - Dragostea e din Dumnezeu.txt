@@ -2,30 +2,32 @@
 Dragostea e din Dumnezeu {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78305}, id: {7EooN38fNqa7tLmyfXKegr}, contentHash: {cb5273}}
 
 [sequence]
-c,v1,c,v2,c,v3
+c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2,v3
 
 [v1]
 Dragostea e din Dumnezeu
 Și ne-a arătat-o prin Fiul Său,
-Ce S-a jertfit și s-a dăruit
+Ce S-a jertfit și S-a dăruit
 Pentru noi, la fel să faceți și voi.
 
-[c]
+[c1.1]
 Unul pe altul vă ajutați,
-La fapte bune să vă îndemnați
-Și atunci veți vedea ce-i iubirea.
+La fapte bune să vă-ndemnați
+Și atunci veți vedea ce-i iubirea!
+
+[c1.2]
 De Domnul sfânt să ascultați,
 Pe calea-ngustă să umblați
-Și așa veți avea fericirea.
+Și așa veți avea fericirea!
 
 [v2]
-Iubirea să vă fie scut,
-În viață să mergeți cu avânt,
-Dacă veți vrea să aveți fericire,
-Să rămâneți mereu în iubire.
-
-[v3]
 Dragostea adevărată
 În unitate este arătată.
 Pe genunchi, în rugăciune,
 Cu Isus să fiți la bine și greu.
+
+[v3]
+Iubirea să vă fie scut,
+În viață să mergeți cu avânt,
+Dacă veți vrea să aveți fericire,
+Să rămâneți mereu în iubire.
