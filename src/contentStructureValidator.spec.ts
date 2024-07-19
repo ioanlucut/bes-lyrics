@@ -71,6 +71,29 @@ Row 1`),
         `"The [31m[c][39m is defined in the sequence but missing as a [31m[c][39m section."`,
       );
     });
+
+    it('should throw if the sequence is not right', () => {
+      expect(() =>
+        verifyStructure(`[title]
+Când mă aflu-n prezența Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180898}, id: {qXJidot28gCSFvPmnAtX3X}, contentHash: {272fb5}}
+
+[sequence]
+v1
+
+[v1]
+Când mă aflu-n prezența Ta pace găsesc,
+Când mă aflu-n prezența Ta știu că Tu cunoști.
+
+[c1]
+/: Tu-mi cunoști numele, Tu cunoști viața mea,
+Încă mă mai iubești, încă-Ți pasă de mine.
+Eu sunt visul ce-l porți ascuns în inimă,
+Când mă aflu-n prezența Ta știu că Tu cunoști. :/
+`),
+      ).toThrowErrorMatchingInlineSnapshot(
+        `"The [c1] tags are present in the content but not in the sequence."`,
+      );
+    });
   });
 
   describe('content', () => {

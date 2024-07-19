@@ -1,0 +1,30 @@
+[title]
+Ție-Ți cânt Dumnezeul meu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {fVrZec1rLJes2Rm51GHqE6}, contentHash: {ade9e1}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ție-Ți cânt Dumnezeul meu, Ție-Ți cânt Dumnezeul meu,
+Pentru bunătatea Ta, pentru harul Tău cel mare,
+Te voi binecuvânta și în șoaptă și-n strigare,
+/: Te voi binecuvânta :/ și în șoaptă și-n strigare!
+
+[v2]
+Ție-Ți cânt Dumnezeul meu, Ție-Ți cânt Dumnezeul meu,
+Pentru toate ce mi-ai dat, pentru dulcea Ta-ngrijire,
+Pentru tot ce mi-ai luat, mă închin cu mulțumire,
+/: Pentru tot ce mi-ai luat, :/ mă închin cu mulțumire!
+
+[v3]
+Ție-Ți cânt Dumnezeul meu, Ție-Ți cânt Dumnezeul meu,
+Și nu vorbe vreau să-Ți spun
+Ci cântarea mea să-Ți ardă
+Ție bunul cel mai bun și-n iubire să se piardă,
+/: Ție bunul cel mai bun :/ și-n iubire să se piardă.
+
+[v4]
+Ție-Ți cânt Dumnezeul meu, Ție-Ți cânt Dumnezeul meu,
+Nu că eu aș ști să cânt sau că am vreo vrednicie,
+Dar iubirea-mi dă avânt ca să-Ți cânt mărire Ție,
+/: Dar iubirea-mi dă avânt :/ ca să-Ți cânt mărire Ție.
