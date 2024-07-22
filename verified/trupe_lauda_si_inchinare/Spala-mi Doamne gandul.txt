@@ -5,33 +5,25 @@ Spală-mi, Doamne, gândul {alternative: {*}, composer: {*}, writer: {*}, arrang
 c,v1,c,v2,c,v3
 
 [v1]
-Spală-mi, Doamne, gândul,
-Spală-mi, Doamne, viața,
+Spală-mi, Doamne, gândul, spală-mi, Doamne, viața,
 Vreau să fiu curat și plăcut în fața Ta.
-Numai Tu urci zorii
-Și împrăștii ceața,
+Numai Tu urci zorii și împrăștii ceața,
 Numai Tu ești scutul și răsplata mea.
 
 [c]
-Spală-mi, Doamne, gândul,
-Spală-mi, Doamne, viața,
+Spală-mi, Doamne, gândul, spală-mi, Doamne, viața,
 Și mă fă asemeni cu Tine mereu.
-Numai Tu urci zorii
-Și împrăștii ceața,
+Numai Tu urci zorii și împrăștii ceața,
 Numai Tu ești scutul sufletului meu.
 
 [v2]
-Spală-mi, Doamne, gândul,
-Spală-mi, Doamne, viața,
+Spală-mi, Doamne, gândul, spală-mi, Doamne, viața,
 Ia din mintea mea orice gând al celui rău.
-Fă să fiu ca Tine,
-Să-Ți ascult povața,
+Fă să fiu ca Tine, să-Ți ascult povața,
 Și să pot privi tot mereu în ochii Tăi.
 
 [v3]
-Spală-mi, Doamne, gândul,
-Spală-mi, Doamne, viața,
-Când troiene reci
-Fac să-mi pară noaptea grea.
+Spală-mi, Doamne, gândul, spală-mi, Doamne, viața,
+Când troiene reci fac să-mi pară noaptea grea.
 Adu primăvara și topește gheața
 Ca să merg spre cer doar pe calea Ta.

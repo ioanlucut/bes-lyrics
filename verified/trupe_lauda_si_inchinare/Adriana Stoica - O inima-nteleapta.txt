@@ -5,7 +5,7 @@ O inimă-nțeleaptă {alternative: {*}, composer: {Adriana Stoica}, writer: {*},
 c,v1,c,v2,c,v3,c
 
 [v1]
-O inimă curată, de Tine-a fost schimbată,
+O inimă curată de Tine-a fost schimbată,
 M-ai curățit, Isuse, de păcat.
 /: Eu am venit la Tine,
 Tu mă cunoști prea bine

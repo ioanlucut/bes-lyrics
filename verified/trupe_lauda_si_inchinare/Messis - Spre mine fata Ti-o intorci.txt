@@ -1,5 +1,5 @@
 [title]
-Spre mine fața Ți-o întorci {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {881}, id: {vkqgA8ejCs8htaJsPLtpx8}, contentHash: {887770}}
+„Ți-o întorci {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {881}, id: {vkqgA8ejCs8htaJsPLtpx8}, contentHash: {887770}}
 
 [sequence]
 v1,c,v2,c,e

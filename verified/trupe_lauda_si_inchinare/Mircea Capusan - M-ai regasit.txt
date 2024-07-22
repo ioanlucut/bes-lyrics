@@ -2,7 +2,7 @@
 M-ai regăsit {alternative: {*}, composer: {Mircea Căpușan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {62451}, id: {osNpzgszPTbNuNcP9TKK9t}, contentHash: {998e78}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c,v2,c,v3,c,e
 
 [v1]
 M-ai regăsit când eu, pierdut în mine,
@@ -27,3 +27,6 @@ Iar dac-adesea cad sub greul crucii
 Și mă pândesc ispitele-n ascuns,
 Atunci eu mulțumiri Ți-aduc, Isuse,
 Căci harul Tău îmi este îndeajuns.
+
+[e]
+În dragostea Mea pururi să rămâi!
