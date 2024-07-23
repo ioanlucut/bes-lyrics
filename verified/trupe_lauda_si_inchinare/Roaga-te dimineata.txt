@@ -5,25 +5,17 @@ Roagă-te dimineața {alternative: {*}, composer: {*}, writer: {*}, arranger: {*
 v1,v2,v3,v4
 
 [v1]
-Roagă-te dimineața,
-Roagă-te și la prânz,
-/: Roagă-te pe-nserate,
-Roagă-te orișicând. :/
+Roagă-te dimineața roagă-te și la prânz,
+/: Roagă-te pe-nserate, roagă-te orișicând! :/
 
 [v2]
-Ascultă dimineața,
-Ascultă și la prânz,
-/: Ascultă pe-nserate,
-Ascultă orișicând. :/
+Ascultă dimineața, ascultă și la prânz,
+/: Ascultă pe-nserate, ascultă orișicând! :/
 
 [v3]
-Fă bine dimineața,
-Fă bine și la prânz,
-/: Fă bine pe-nserate,
-Fă bine orișicând. :/
+Fă bine dimineața, fă bine și la prânz,
+/: Fă bine pe-nserate, fă bine orișicând. :/
 
 [v4]
-Dă-I slavă dimineața,
-Dă-I slavă și la prânz,
-/: Dă-I slavă pe-nserate,
-Dă-I slavă orișicând! :/
+Dă-I slavă dimineața, dă-I slavă și la prânz,
+/: Dă-I slavă pe-nserate, dă-I slavă orișicând! :/

@@ -2,7 +2,7 @@
 Pe-oceanul infinit, cu valuri {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5288}, id: {sAJjZAfbwwXxjG9hgyzWTt}, contentHash: {b57bfc}}
 
 [sequence]
-v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c2
 
 [v1.1]
 Pe-oceanul infinit, cu valuri,
@@ -45,3 +45,9 @@ Voi înfrunta orice necaz,
 Eu nu mă îndoiesc
 Căci Tu ești Salvatorul meu,
 Prin Tine eu trăiesc.
+
+[c2]
+Ești speranța mea, Iususe,
+Chiar de simt că sunt înfrânt,
+Te rog, nu mă lăsa singur,
+Salvatorul meu iubit!
