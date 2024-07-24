@@ -2,7 +2,7 @@
 Vine Domnul! {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103388}, id: {3DS2c5LVGi5y9q9TDb5dPo}, contentHash: {66b9ea}}
 
 [sequence]
-v1.1,v1.2,c,v2.1,v2.2,c
+v1.1,v1.2,c,v2.1,v2.2,c,e
 
 [v1.1]
 Haideți cu toții azi spre cer să privim
@@ -23,12 +23,15 @@ Untdelemn zi de zi să avem!
 
 [v2.1]
 De astăzi cu toții-n veghere să stăm,
-În rugă să cerem iertare.
+În rugă să cerem iertare
 Și haine murdare să nu mai purtăm,
-Să-alegem îngusta cărare.
+Să-alegem îngusta cărare!
 
 [v2.2]
 Cu inima-ntreagă să Îl așteptăm,
 Pământul să nu ne mai lege.
 A noastră privire spre cer să-ndreptăm,
-Pe nori se arat-al nost’ Rege.
+Pe nori se arată-al nost’ Rege!
+
+[e]
+Haideți cu toți azi spre cer să privim!

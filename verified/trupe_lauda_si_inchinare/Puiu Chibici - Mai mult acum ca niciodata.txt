@@ -2,7 +2,7 @@
 Mai mult acum ca niciodată {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {142682}, id: {rsDJdToejsQrkXwrsY3NzL}, contentHash: {e1bd60}}
 
 [sequence]
-v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,e
 
 [v1.1]
 Mai mult acum, ca niciodată,
@@ -45,4 +45,7 @@ Fă-ți azi și tu o cercetare
 Tot mai aproape e sfârșitul,
 Curând, curând El va veni.
 Prinde, prietene, momentul
-Și fericit pe veci poți fi.
+Și fericit pe veci poți fi!
+
+[e]
+Și îndeaproape să Îl urmărm
