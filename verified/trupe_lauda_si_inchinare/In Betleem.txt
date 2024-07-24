@@ -2,17 +2,22 @@
 În Betleem {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1485}, id: {5dDA56tCjWL9R9wFPTjWyZ}, contentHash: {33756d}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c,v2,c,v3,c,v4,c
 
 [v1]
 /: În Betleem, da, în Betleem e o mare minune. :/
 
 [c]
-Hristos se naște, Domnul coboară, îngerii cântă, magii Îl adoră,
-Păstori aleargă, ieslea o-nconjoară, mari minuni se întâmplară.
+Hristos se naște, Domnul coboară,
+Îngerii cântă, magii Îl adoră,
+Păstori aleargă, ieslea o-nconjoară,
+Mari minuni se întâmplară.
 
 [v2]
 /: Căci El a venit, căci El a venit să mântuie tot omul. :/
 
 [v3]
+/: Îngeri și oameni, îngeri și oameni cântă împreună. :/
+
+[v4]
 /: Toți să-I dăm loc, dar, toți să-I dăm loc în inimi să se nască. :/

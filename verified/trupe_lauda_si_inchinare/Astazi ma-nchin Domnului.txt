@@ -5,11 +5,9 @@ Astăzi mă-nchin Domnului {alternative: {*}, composer: {*}, writer: {*}, arrang
 c,v1.1,v1.2,c,v2.1,v2.2,c
 
 [c]
-/: Astăzi mă-nchin Domnului
-Și-I cânt slavă, căci El,
-Mult bine mi-a făcut.
-Când eram în strâmtorare
-Către El eu am strigat
+/: Astăzi mă-nchin Domnului și-I cânt slavă,
+Căci El mult bine mi-a făcut.
+Când eram în strâmtorare către El eu am strigat
 Și El mâna și-a întins și m-a salvat. :/
 
 [v1.1]

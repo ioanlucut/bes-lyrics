@@ -11,11 +11,11 @@ Lăudați pe Dumnezeu!
 Lăudați pe Dumnezeu!
 
 [c]
-Glorie Ție, Părinte din ceruri,
-Tu ești Domn în veci de veci!
+/: Glorie Ție, Părinte din ceruri,
+Tu ești Domn în veci de veci! :/
 
 [v2]
-Tu ești Doamne, stânca mea,
+Tu ești Doamne stânca mea,
 Scutul meu în vreme grea,
 Tu mă aperi de dușmani
 Și-mi ridici povara grea.
@@ -27,4 +27,4 @@ Voi lăuda pe Dumnezeu!
 Voi lăuda pe Dumnezeu!
 
 [b]
-Tu ești Domn în veci! (3x)
+Tu ești Domn în veci! (x4)

@@ -7,14 +7,12 @@ v1.1,v1.2,c,v2,c,c2,b,c,e
 [v1.1]
 În acea zi, când boldul morții
 A fost frânt sub crucea lui Isus,
-Cutremurat, tot ceru-ntreg
-S-a-ntunecat.
+Cutremurat, tot ceru-ntreg s-a-ntunecat.
 
 [v1.2]
 Fruntea Lui purta coroana
-Regelui, ce-a luat pedeapsa mea,
-N-a spus nimic, iubind nespus
-Murea Isus.
+Regelui ce-a luat pedeapsa mea,
+N-a spus nimic, iubind nespus murea Isus.
 
 [c]
 Crucea Lui salvarea mea,

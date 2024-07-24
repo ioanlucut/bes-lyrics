@@ -2,7 +2,7 @@
 În Numele Tău {alternative: {*}, composer: {Daniel Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197882}, id: {6Pf43xdDrNYMT3o7B3hgEU}, contentHash: {aad56a}}
 
 [sequence]
-c,v1,c,e
+c,v1.1,v1.2,c,e
 
 [c]
 În Numele Tău proclamăm duh de viață!
@@ -10,15 +10,15 @@ c,v1,c,e
 Din oase moarte Îți ridici un popor să Te slujească,
 Acolo unde-i Duhul Tău curge viață.
 
-[v1]
+[v1.1]
 M-ai chemat să trec prin vale,
 Printr-un loc pustiu și sterp,
-Plin de oase ce-s uscate,
-Fără viață, scop și țel.
+Plin de oase ce-s uscate, fără viață, scop și țel.
+
+[v1.2]
 Da, m-ai chemat să chem viață,
 Duhul Celui Sfânt de sus,
-Să vestesc eliberarea
-Celor ce-s în lanțuri puși!
+Să vestesc eliberare celor ce-s în lanțuri puși
 
 [e]
 Din oase moarte Îți ridici un popor să Te slujească,

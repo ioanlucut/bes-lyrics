@@ -5,13 +5,10 @@ Suntem aici, în prezența Ta {alternative: {*}, composer: {Speranța}, writer: 
 v1,c,v1,c
 
 [v1]
-Suntem aici, în prezența Ta,
-O, Doamne, vrem să Te-ascultăm,
-Să Te lăudăm, o, Doamne!
-Duhul Tău cel Sfânt
-Revarsă-L peste noi, Isuse,
-Pacea Ta cerească,
-În inimi să locuiască, Isuse.
+Suntem aici, în prezența Ta, o, Doamne,
+Vrem să Te-ascultăm, să Te lăudăm, o, Doamne!
+Duhul Tău cel Sfânt revarsă-L peste noi, Isuse,
+Pacea Ta cerească în inimi să locuiască, Isuse.
 
 [c]
 /: Ce mare, sfânt, măreț și minunat

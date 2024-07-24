@@ -2,34 +2,20 @@
 În revărsatul zorilor, în mireasma crinilor {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111604}, id: {ee3kFUVGYpGu7szSRiNN2w}, contentHash: {5b8f50}}
 
 [sequence]
-v1.1,v1.2,c,v2.1,v2.2,c
+v1,c,v2,c
 
-[v1.1]
-În revărsatul zorilor,
-În mireasma crinilor,
-Un înger a venit,
-Piatra-a rostogolit.
-
-[v1.2]
-Și Duhul Sfânt
-Din Dumnezeu Te-a înviat.
-Ești viu, ești cel dintâi,
-Isus, cununa vieții porți.
+[v1]
+În revărsatul zorilor, în mireasma crinilor,
+Un înger a venit, piatra-a rostogolit.
+Și Duhul Sfânt din Dumnezeu Te-a înviat din morți,
+Ești viu, ești cel dintâi, Isus, cununa vieții porți.
 
 [c]
-A înviat Isus,
-Viață-am primit
-Să pot fi mântuit,
-Fii în veci slăvit!
+A înviat Isus, viață-am primit
+Să pot fi mântuit, fii în veci slăvit!
 
-[v2.1]
-Prin înviere ai învins!
-Ești Domn al domnilor,
-Stăpân biruitor,
-Rege al regilor.
-
-[v2.2]
-Ai înviat, te-ai înălțat
-Și-ai să revii, Isus,
-Curând, așa cum ai promis,
-Să ne iei de pe pământ!
+[v2]
+Prin înviere ai învins! Ești Domn al domnilor!
+Stăpân biruitor, Rege al regilor!
+Ai înviat, te-ai înălțat și-ai să revii, Isus,
+Curând, așa cum ai promis, să ne iei de pe pământ!

@@ -1,5 +1,5 @@
 [title]
-Doamne, dă-ne-nțelepciune {alternative: {Doamne}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153833}, id: {4TH1uuLGEMF83rRHat42An}, contentHash: {d4d215}}
+Doamne, dă-ne-nțelepciune {alternative: {Doamne, atinge-ne din nou}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153833}, id: {4TH1uuLGEMF83rRHat42An}, contentHash: {d4d215}}
 
 [sequence]
 v1,c,v2,c
@@ -13,7 +13,7 @@ Să fim vii pentru Împărăția Ta, trezește-ne din nou!
 [c]
 Doamne, atinge-ne din nou, peste noi Tu mâna Ta s-o pui
 Și lumina Ta să ardă-n noi prin puterea Duhului.
-Pune-o, dar nu pentru-o zi, ci să ardă în veșnicii, în noi,
+Pune-o dar nu pentru-o zi ci să ardă în veșnicii, în noi,
 Cu-adierea Duhului Tău Sfânt, Doamne-atinge-ne din nou!
 
 [v2]

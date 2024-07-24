@@ -2,7 +2,7 @@
 S-a născut pe pământ {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4403}, id: {3tiq8LUws6iFeTfXYw66rv}, contentHash: {7447ad}}
 
 [sequence]
-v1,v2,v3,v4,v5
+v1,v2,v3,v4
 
 [v1]
 S-a născut pe pământ un Mântuitor
@@ -17,10 +17,5 @@ Domnul meu, vin și eu să-ți aduc în dar
 Viața și inima mea este tot ce am.
 
 [v4]
-Noaptea-n câmp păstorii rând pe rând veghează.
-O lumină mare, îi înfricoșează, dar din cer un înger
-Vine cu solia: „Bucurați-vă cu toții, S-a născut Mesia!”
-
-[v5]
 Să-I cântăm glorie în veci lui Isus
 Pentru noi S-a născut, pace ne-a adus!

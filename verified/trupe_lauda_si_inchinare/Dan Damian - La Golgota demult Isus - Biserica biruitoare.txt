@@ -6,7 +6,7 @@ v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,b,c2.1,c2.2
 
 [v1]
 La Golgota demult Isus
-Prin sânge sfânt, plăti de-ajuns
+Cu sânge sfânt, plăti de-ajuns
 Darul divin al mântuirii prin Hristos
 Har pentru omul, mort păcătos.
 
@@ -48,4 +48,4 @@ Isus Te-om lăuda!
 
 [b]
 /: Glorie Tatălui, glorie Fiului,
-Glorie Duhului Cel Sfânt, Amin! :/
+Glorie Duhului Cel Sfânt, amin! :/

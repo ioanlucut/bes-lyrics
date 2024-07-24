@@ -5,16 +5,12 @@ Vreau să cânt Celui ce e sfânt {alternative: {*}, composer: {Teo Family}, wri
 v1,c,v2,c,b,c
 
 [v1]
-Vreau să cânt Celui ce e sfânt
-În cer și pe pământ.
-Să-L slăvesc, cu fiecare vers,
-Mai mult să-L prețuiesc!
+Vreau să cânt Celui ce e sfânt în cer și pe pământ.
+Să-L slăvesc, cu fiecare vers, mai mult să-L prețuiesc!
 
 [c]
-/: Speranța mea, bucuria mea,
-Sprijin pe cărare,
-El mi-aduce vindecare!
-Adăpostul meu, Tatăl meu,
+/: Speranța mea, bucuria mea, sprijin pe cărare,
+El mi-aduce vindecare, adăpostul meu, Tatăl meu.
 Încercarea niciodată nu-i prea mare :/
 Când mă-ncred deplin în El!
 
@@ -26,6 +22,5 @@ Pentru fiecare clipă ce trăiesc!
 
 [b]
 /: În mâna Ta e viața mea,
-În mâna Ta, în mâna Ta!
-În mâna Ta e viața mea,
-În mâna Ta... :/
+În mâna Ta, în mâna Ta,
+În mâna Ta e viața mea! :/

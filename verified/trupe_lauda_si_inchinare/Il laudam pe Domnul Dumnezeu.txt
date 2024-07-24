@@ -2,24 +2,23 @@
 Îl lăudăm pe Domnul Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {e9ZdvbjqRHa2znLJPStruY}, contentHash: {ac4e62}}
 
 [sequence]
-v1,c,v2,c
+v1,c,v2,c,e
 
 [v1]
-Îl lăudăm pe Domnul Dumnezeu,
-Îi slăvim azi Numele
-Căci tăria noastră e.
+/: Îl lăudăm pe Domnul Dumnezeu,
+Îi slăvim azi Numele căci tăria noastră e. :/
 Doar prin El în duh ne înnoim,
-Putere noi primim
-Când în El nădăjduim.
+Putere noi primim când în El nădăjduim.
 
 [c]
-Ești Domn pe veci în ceruri,
-Al nost’ Mântuitor.
+Ești Domn pe veci în ceruri Al nost’ Mântuitor.
 
 [v2]
-Tu ești Eternul Dumnezeu,
-Ești veșnic Dumnezeu.
+Tu ești Eternul Dumnezeu, ești veșnic Dumnezeu.
 Nu obosești Tu niciodată.
-Apărător al celor slabi,
-Tu ești Mângâietor,
+Apărător al celor slabi, Tu ești Mângâietor,
 Ne-nalți pe aripi ca de vultur.
+
+[e]
+Îl lăudăm pe Domnul Dumnezeu,
+Îi slăvim azi Numele căci tăria noastră e.
