@@ -2,7 +2,7 @@
 Victorios {alternative: {*}, composer: {Dinu Onea & Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158367}, id: {sQNhRhcHjBWXTrSmmnEEfo}, contentHash: {18329f}}
 
 [sequence]
-v1,v2,c1.1,c1.2,b,c1.1,c1.2
+v1,v2,c1.1,c1.2,b1,b2,c1.1,c1.2
 
 [v1]
 Domnul, steagul meu,
@@ -28,6 +28,9 @@ Ești un turn de adăpost,
 Brațul Tău îl chem în ajutor,
 Sunt victorios.
 
-[b]
+[b1]
 /: Revarsă-acum ungerea Ta,
 Viață din prezența Ta. :/
+
+[b2]
+Vreau harul Tău în viața mea.

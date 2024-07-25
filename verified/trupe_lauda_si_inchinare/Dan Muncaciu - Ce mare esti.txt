@@ -9,7 +9,7 @@ v1.1,v1.2,p,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,b1.1,b1.2,p,c1.1,c1.2
 O putere ne-a fost dată, Cu El înaintăm.
 
 [v1.2]
-Un sânge ne e iertarea
+Un sânge ni-e iertarea
 Și dragostea de El pe noi de cer ne leagă,
 Isus este cu noi.
 
@@ -20,7 +20,7 @@ Slava Ta azi umple templul, Doamne mare, fii lăudat!
 [c1.1]
 Ce mare ești, ce mare ești,
 Tu meriți toată gloria, a Ta e toată slava,
-Ce mare ești, Ce mare ești!
+Ce mare ești, ce mare ești!
 
 [c1.2]
 în fața Ta se pleacă toate,

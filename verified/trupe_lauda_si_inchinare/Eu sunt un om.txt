@@ -7,17 +7,14 @@ v1,c,v2,c
 [v1]
 Eu sunt un om, sunt doar un om.
 Ajută-mi, Te rog,
-Să cred mai mult ce pot a fi!
+Să văd mai mult ce pot a fi!
 Să cred mai mult în al meu Domn!
 Ajută-mă să Te slujesc timp de o zi!
 
 [c]
-/: Un timp de o zi, Isuse,
-Atât este tot ce-mi doresc.
-O, dă-mi Tu puteri,
-Ce-am de făcut să-nfăptuiesc!
-Căci mâine nu știu, Isuse,
-Dacă va mai fi înc-o zi,
+/: Un timp de o zi, Isuse, atât este tot ce-mi doresc.
+O, dă-mi Tu puteri, ce-am de făcut să-nfăptuiesc!
+Căci mâine nu știu, Isuse, dacă va mai fi înc-o zi,
 Nu știu timpul când viața mea se va sfârși. :/
 
 [v2]

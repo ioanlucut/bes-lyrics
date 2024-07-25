@@ -2,7 +2,7 @@
 Mai mult din Tine vreau, Isus {alternative: {*}, composer: {Marius Pop & Naomi Borota}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158959}, id: {6vXiv6yBKxmCuw8G8CqiHe}, contentHash: {b195db}}
 
 [sequence]
-c,v1,v2,b,c
+c,v1,v2,b,c,e
 
 [v1]
 Mai mult din Tine vreau Isus,
@@ -25,3 +25,6 @@ Voia Ta să împlinesc! :/
 [b]
 /: Bun ca Tine, drept ca Tine,
 Sfânt ca Tine, vreau să fiu! :/
+
+[e]
+Voia Ta să împlșinesc.

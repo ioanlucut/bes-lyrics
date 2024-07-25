@@ -11,14 +11,14 @@ Sunt obosit de-al meu păcat,
 Sufletul mi-e-ndurerat, ajută-mă!
 
 [c1.1]
-Trimite-mi, Doamne, har din cer,
+/: Trimite-mi, Doamne, har din cer,
 Dă-mi mângâiere, să nu pier,
 Primește viața mea în dar, la cruce la Calvar!
 
 [c1.2]
 Sfințește, Doamne, ființa mea,
 Să pot să stau ‘naintea Ta,
-Să-Ți mulțumesc că m-ai răscumpărat!
+Să-Ți mulțumesc că m-ai răscumpărat! :/
 
 [v2]
 Sunt călător pe-acest pământ,

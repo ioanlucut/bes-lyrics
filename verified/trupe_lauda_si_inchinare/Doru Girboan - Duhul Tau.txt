@@ -2,7 +2,7 @@
 Duhul Tău {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {126272}, id: {7TmAUuRWx2x15cuhnTjHtb}, contentHash: {640979}}
 
 [sequence]
-v1,c,v2,c
+v1,c,v2,c,e
 
 [v1]
 Orice-am face, Doamne, orice-am spune,
@@ -22,6 +22,6 @@ Când ziua judecății va veni?
 În încercări cum n-au mai fost sub soare
 Numai Duhul Tău ne poate întări.
 
-[b]
+[e]
 /: Stăm ‘naintea Ta așteptând susurul blând,
 Umple-ne, Isus, cu Duhul Sfânt! :/

@@ -5,7 +5,7 @@ O, Doamne, vreau să Te slujesc în viață cu folos {alternative: {*}, composer
 v1,c,v2,c2,b,e
 
 [v1]
-O, Doamne, vreau să Te slujesc în viață cu folos
+O, Doamne, vreau să Te slujesc în viață cu folos,
 Să Te urmez în orice zi smerit și credincios.
 Ajută-mă să spun la toți cât bine mi-ai făcut,
 Cum jertfa Ta m-a eliberat și-acum eu pot cânta.
@@ -16,9 +16,9 @@ Cum jertfa Ta m-a eliberat și-acum eu pot cânta.
 
 [v2]
 Trăiește-ți viața cu folos și tu, amicul meu,
-Să fii în toate credincios trăind ca El mereu,
+Să fii în toate credincios trăind ca El mereu!
 Trăiește-ți viața ta arzând, nu sta neroditor,
-Isus ți-a dat și ție un dar, deci fii folositor.
+Isus ți-a dat și ție un dar, deci fii folositor!
 
 [c2]
 /: Și pentru tine a trăi să fie Hristos
@@ -33,6 +33,6 @@ Ar fi pe veci pierdut și lepădat.
 
 [e]
 Da, pentru noi a trăi va fi Hristos
-Și vom trăi viața cu folos.
+Și vom trăi viața cu folos!
 Da, pentru noi a trăi va fi Hristos
-/: Și vom trăi viața cu folos. :/
+/: Și vom trăi viața cu folos! :/
