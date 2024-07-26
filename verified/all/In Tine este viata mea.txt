@@ -7,11 +7,10 @@ c,v1,c,v1,c
 [c]
 /: În Tine este viața mea,
 În Tine e tăria mea,
-În Tine e speranța mea,
-În Tine! :/
+În Tine e speranța mea, în Tine! :/
 
 [v1]
-Te laud toată viața mea,
+Te laud cu toată viața mea,
 Te laud cu toată puterea mea,
 Cu viața mea, tăria mea,
 Toată speranța mi-este-n Tine.

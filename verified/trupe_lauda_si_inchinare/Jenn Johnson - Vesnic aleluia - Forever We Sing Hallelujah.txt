@@ -11,7 +11,7 @@ Prin sângele vărsat, prin trupul Său străpuns
 A luat asupra Lui blestemu-ntreg.
 
 [v1.2]
-Suflarea când și-a dat, spre Tatăl a strigat.
+Suflarea când și-a dat, spre Tatăl a strigat,
 Părăsit de toți Isus era.
 Dar lupta n-a sfârșit și-acolo în mormânt
 A iadului puteri El le-a zdrobit.
@@ -24,11 +24,11 @@ Prin sângele salvării!
 
 [c]
 În veci vei fi glorificat,
-În veci de veci ești înălțat!
+În veci de veci ești înălțat,
 În veci de veci, Isuse, ai înviat, ai înviat!
 
 [b]
-Veșnic aleluia, veșnic aleluia,
+/: Veșnic aleluia, veșnic aleluia,
 Veșnic aleluia, în veci Îți vom cânta!
 Veșnic aleluia, veșnic aleluia,
-Veșnic aleluia, din morți ai înviat!
+Veșnic aleluia, din morți ai înviat! :/

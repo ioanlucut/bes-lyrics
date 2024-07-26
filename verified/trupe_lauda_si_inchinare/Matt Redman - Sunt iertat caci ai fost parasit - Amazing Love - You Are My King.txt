@@ -2,7 +2,7 @@
 Sunt iertat, căci ai fost părăsit {alternative: {Amazing Love; You Are My King}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2812}, id: {bXgTCi2kctEmZDfbjj2qmM}, contentHash: {41f57e}}
 
 [sequence]
-v1,c,v1,c
+v1,c,v1,c,b
 
 [v1]
 /: Sunt iertat, căci ai fost părăsit,
@@ -14,5 +14,11 @@ Căci ai murit și-ai înviat. :/
 /: Ce dragoste de Dumnezeu,
 Să moară un Rege-n locul meu.
 Ce dragoste, uimit privesc
-Cu bucurie Te slăvesc. :/
-/: Cu tot ce am Te preamăresc. :/
+Cu bucurie Te slăvesc.
+Cu tot ce am Te preamăresc. :/
+
+[b]
+/: Când îmi vorbești cu-al Tău sfânt Cuvânt
+Ochi-mi deschizi să văd cât ești de sfânt.
+Știu, ești aici, în Tin’ mă-odihnesc,
+Sunt liniștit când îmi vorbești. :/

@@ -5,7 +5,7 @@ Tu mă cercetezi de-aproape {alternative: {*}, composer: {The Messengers}, write
 v1,c,v2,c
 
 [v1]
-Tu mă cercetezi de-aproape, Doamne, Tu mă ocrotești.
+Tu mă cercetezi de-aproape, Doamne, Tu mă ocrotești,
 De departe-mi pătrunzi gândul, căile-mi cunoști.
 Unde voi putea, o, Doamne să m-ascund de fața Ta,
 Căci viața e-n mâna Ta?

@@ -5,19 +5,19 @@ Doamne, viața fără Tine {alternative: {*}, composer: {Andreea Avadanei}, writ
 v1,c,v2,c
 
 [v1]
-Nu vreau să trăiesc în alt loc
+/: Nu vreau să trăiesc în alt loc
 Căci viața mi-a spus că e greu
 Să stau separat de Hristos
-Și altfel nu vreau să trăiesc!
+Și altfel nu vreau să trăiesc! :/
 
 [c]
-Doamne, viața fără Tine n-are sens.
+/: Doamne, viața fără Tine n-are sens.
 Să mă ai, să Te am, îmi doresc!
 Dacă ar fi să trăiesc înc-un veac
-Mi-aș lăsa sufletul în mâna Ta!
+Mi-aș lăsa sufletul în mâna Ta! :/
 
 [v2]
-Eu știu că Tu ești Hristosul.
+/: Eu știu că Tu ești Hristosul.
 Sunt astăzi liber prin Tine,
 Comori de-aș avea pe pământ
-N-aș fi fericit fără Tine!
+N-aș fi fericit fără Tine! :/
