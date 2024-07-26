@@ -5,9 +5,12 @@ Nimeni nu-i ca Tin’ {alternative: {*}, composer: {*}, writer: {*}, arranger: {
 v1,c,v1,c,v1
 
 [v1]
-/: Nimeni nu-i ca Tin’, nimeni n-a putut viața-mi schimba,
-Oricât de mult aș căuta, n-aș găsi, nimeni nu-i ca Tin’. :/
+/: Nimeni nu-i ca Tin’,
+Nimeni n-a putut viața-mi schimba,
+Oricât de mult aș căuta, n-aș găsi,
+Nimeni nu-i ca Tin’. :/
 
 [c]
 Dragostea-Ți fără de margini inima mi-a copleșit,
-Sunt în siguranță sub brațul Tău sfânt, nimeni nu-i ca Tin’.
+Sunt în siguranță sub brațul Tău sfânt,
+Nimeni nu-i ca Tin’.
