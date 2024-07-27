@@ -1,5 +1,5 @@
 [title]
-Duhul Tău {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {126272}, id: {7TmAUuRWx2x15cuhnTjHtb}, contentHash: {640979}}
+Duhul Tău {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {126272}, id: {7TmAUuRWx2x15cuhnTjHtb}, contentHash: {e8d561}}
 
 [sequence]
 v1,c,v2,c
@@ -11,13 +11,13 @@ Fără Duhul Tău e goană după vânt
 Umple-ne, Isus, cu Duhul Tău cel Sfânt.
 
 [c]
-Duhul Tău ne călăuzește, Doamne-n orice zi,
+/: Duhul Tău ne călăuzește, Doamne-n orice zi,
 Duhul Tău mângâiere dă în vremile târzii,
 Duhul Tău ne învață cum plăcut să ne rugăm,
-Duhul Tău, o, Doamne, așteptăm.
+Duhul Tău, o, Doamne, așteptăm. :/
 
 [v2]
-Și cum vom sta noi oare în picioare
+Cum vom sta noi oare în picioare
 Când ziua judecății va veni?
 În încercări cum n-au mai fost sub soare
 Numai Duhul Tău ne poate întări.

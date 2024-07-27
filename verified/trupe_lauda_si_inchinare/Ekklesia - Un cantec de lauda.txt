@@ -1,24 +1,29 @@
 [title]
-Un cântec de laudă {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {62666}, id: {nYiNGfX9UX8pjzMcJPHqQG}, contentHash: {e35392}}
+Un cântec de laudă {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {62666}, id: {nYiNGfX9UX8pjzMcJPHqQG}, contentHash: {b31927}}
 
 [sequence]
-v1,v2,p,c,c2
+v1,v2,p,c1.1,c1.2,v1
 
 [v1]
-Un cântec de laudă e-n inima mea, un cântec ce Tu l-ai pus,
+Un cântec de laudă e-n inima mea,
+Un cântec ce Tu l-ai pus,
 Mi-ai dat libertate, ca să pot cânta din nou.
 
 [v2]
-Ai rupt întunericul din viața mea, mi-ai dat bucuria Ta,
+Ai rupt întunericul din viața mea,
+Mi-ai dat bucuria Ta,
 Acum eu sunt liber ca să pot cânta din nou.
 
 [p]
-Isus, Tu m-ai răscumpărat, Duhul Tău Sfânt m-a eliberat!
+Isus, Tu m-ai răscumpărat,
+Duhul Tău Sfânt m-a eliberat!
 
-[c]
-Dragostea Ta îmi dă curaj să alerg către țintă neîncetat,
+[c1.1]
+Dragostea Ta îmi dă curaj
+Să alerg către țintă neîncetat,
 Doar Tu ești Domnul meu, Te voi binecuvânta!
 
-[c2]
-Isus, ești fericirea mea, eu cânt de bucurie în fața Ta,
+[c1.2]
+Isus, ești fericirea mea,
+Eu cânt de bucurie în fața Ta,
 Doar Tu ești Domnul meu, Te voi binecuvânta!
