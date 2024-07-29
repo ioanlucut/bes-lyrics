@@ -9,10 +9,10 @@ v1,p,c
 În necaz mă ocrotești, mă sprijinești. (x2)
 
 [p]
-Chiar de voi cădea, mă vei ridica,
-Te voi înălța, toată viața mea.
+/: Chiar de voi cădea, mă vei ridica,
+Te voi înălța, toată viața mea. :/
 
 [c]
-Ne vom bucura de biruința Ta,
+/: Ne vom bucura de biruința Ta,
 În Numele Tău, spre slava Ta,
-Steagul vom flutura.
+Steagul vom flutura. :/

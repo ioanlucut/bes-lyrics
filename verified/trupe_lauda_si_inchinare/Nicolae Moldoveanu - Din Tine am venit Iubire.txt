@@ -2,7 +2,7 @@
 Din Tine am venit, Iubire {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3002}, id: {uEnnWQiGnahLGivmnD86Mb}, contentHash: {01c795}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c,v2,c,v3,c,v4,c
 
 [v1]
 Din Tine am venit, Iubire,
@@ -27,3 +27,9 @@ Fă clipele vieții mele
 Izvoare proaspete de har,
 Ca să țâșnești doar Tu din ele
 Îmbelșugat pe-orice hotar.
+
+[v4]
+Din Tine am venit, Iubire,
+Și merg spre Tine necurmat
+Că-n binecuvântata-ți fire
+E Dumnezeu cu-adevărat.

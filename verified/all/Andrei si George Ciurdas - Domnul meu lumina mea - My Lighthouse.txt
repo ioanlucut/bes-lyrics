@@ -5,7 +5,8 @@ Domnul meu, lumina mea {alternative: {My Lighthouse}, composer: {Rend Collective
 v1.1,v1.2,c,v2,b,c
 
 [v1.1]
-În încercare sau luptă grea, în îndoială Tu nu mă lași,
+În încercare sau luptă grea,
+În îndoială Tu nu mă lași,
 Cu dragostea Ta mă conduci,
 Ești pacea mea când sunt în furtuni.
 Doamne, ești pacea mea când sunt în furtuni.
