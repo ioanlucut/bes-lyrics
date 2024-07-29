@@ -15,9 +15,9 @@ Ceru-ntreg e uimit de Tine,
 Tu ești necuprins!
 
 [c]
-Voi cânta bunătatea Ta,
+/: Voi cânta bunătatea Ta,
 Voi vesti minunile Tale,
-Voi lăuda credincioșia Ta din neam în neam!
+Voi lăuda credincioșia Ta din neam în neam! :/
 
 [v3]
 Tu ești bun, judeci cu dreptate,

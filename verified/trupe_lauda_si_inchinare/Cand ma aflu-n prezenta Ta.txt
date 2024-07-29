@@ -5,19 +5,15 @@ Când mă aflu-n prezența Ta {alternative: {*}, composer: {*}, writer: {*}, arr
 v1,c1.1,c1.2,v1,c1.1,c1.2
 
 [v1]
-Când mă aflu-n prezența Ta,
-Pace găsesc.
-Când mă aflu-n prezența Ta,
-Știu că Tu cunoști.
+Când mă aflu-n prezența Ta, pace găsesc,
+Când mă aflu-n prezența Ta, îmi vezi inima.
+Când mă aflu-n prezența Ta, pace găsesc,
+Când mă aflu-n prezența Ta știu că Tu cunoști.
 
 [c1.1]
-Tu-mi cunoști numele,
-Tu cunoști viața mea,
-Încă mă mai iubești,
-Încă-Ți pasă de mine.
+Tu-mi cunoști numele, Tu cunoști viața mea,
+Încă mă mai iubești, încă-Ți pasă de mine.
 
 [c1.2]
-Eu sunt visul ce-l porți
-Ascuns în inimă,
-Când mă aflu-n prezența Ta
-Știu că Tu cunoști.
+Eu sunt visul ce-l porți ascuns în inimă,
+Când mă aflu-n prezența Ta știu că Tu cunoști.

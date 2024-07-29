@@ -2,7 +2,7 @@
 Nori negri de-ar veni, valuri mari de-ar lovi {alternative: {*}, composer: {Emanuel Hasan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {159018}, id: {uKGUaCm6329jimC5bicLPx}, contentHash: {817534}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c,v2,c,v3,c,e
 
 [v1]
 Nori negri de-ar veni, valuri mari de-ar lovi,
@@ -27,3 +27,6 @@ Nu, nu mă-ngrijorez, ci spre liman vâslesc,
 Până la capăt sosesc.
 Ziua chiar de s-a scurs și soarele e-apus,
 Lumina mea e Isus.
+
+[e]
+Nu mă tem!

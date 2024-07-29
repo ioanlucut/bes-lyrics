@@ -15,7 +15,7 @@ Azi Isus te cheamă, vino, vino!
 [v2]
 /: Străin tu dacă ești,
 De ce pribeag mai rătăcești?
-N-auzi chemarea lui Isus, vino, vino! :/
+N-auzi chemarea lui Isus: vino, vino! :/
 
 [v3]
 /: Urcând pe Calvar,

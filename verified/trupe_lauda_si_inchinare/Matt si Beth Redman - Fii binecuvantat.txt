@@ -2,7 +2,7 @@
 Fii binecuvântat! {alternative: {*}, composer: {Matt și Beth Redman}, writer: {*}, arranger: {Marry Parks}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66232}, id: {ahELdKi2WUCEGNKDEP8BL1}, contentHash: {7b062b}}
 
 [sequence]
-v1.1,v1.2,p,c,v2.1,v2.2,v2.3,p,c,b,b,c2,e
+v1.1,v1.2,p,c,v2.1,v2.2,p,c,b,b,c2,e
 
 [v1.1]
 Fii binecuvântat când pământul e săturat,
@@ -17,21 +17,17 @@ Fiecare laudă Ție Ți-o dau,
 Când noaptea se apropie, Te voi lăuda!
 
 [c]
-Binecuvântat fie El, binecuvântat,
+/: Binecuvântat fie El, binecuvântat,
 Binecuvântat fie El,
-Binecuvântăm Numele Său!
+Binecuvântăm Numele Său! :/
 
 [v2.1]
 Fii binecuvântat când soarele-i din nou pe cer
-Și când toate sunt cum le-ai creat, fii binecuvântat!
+Când toate sunt cum le-ai creat, fii binecuvântat!
 
 [v2.2]
 Fii binecuvântat când drumu-i plin de suferinți,
 Chiar dacă plâng și-mi este greu, fii binecuvântat!
-
-[v2.3]
-Fiecare laudă Ție Ți-o dau,
-Când noaptea se apropie, Te voi lăuda!
 
 [b]
 /: Primește lauda, ești vrednic Dumnezeu,

@@ -16,7 +16,7 @@ Din veșnica pierzare. :/
 O licărire-n infinit
 E viața mea întreagă,
 /: Dar pentru mine S-a jertfit
-Isus din cer, m-a mântuit,
+Isus din cer m-a mântuit,
 Și-o viață fără de sfârșit
 De veșnicii mă leagă. :/
 
@@ -32,7 +32,7 @@ Dincolo-n strălucire. :/
 Sunt călător spre Țara mea,
 Cu Domnul am izbândă.
 /: Mi-e călăuză dreapta Sa,
-O, Doamne, Tu nu vei lăsa,
+O, Doamne, Tu nu vei lăsa
 Nicicând să cadă-n lupta grea
 Ființa mea plăpândă. :/
 
@@ -41,7 +41,7 @@ Ființa mea plăpândă. :/
 Și-n vuietul de ape,
 /: În flori și-n tot ce-i mai frumos,
 În cei răscumpărați de jos,
-Iubirea sfânt-a lui Hristos
+Iubirea sfânta-a lui Hristos
 O simt tot mai aproape. :/
 
 [v6]
