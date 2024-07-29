@@ -5,19 +5,16 @@ Lângă Tine vreau {alternative: {*}, composer: {Matt Redman}, writer: {*}, arra
 v1.1,v1.2,c,v1.1,v1.2,c
 
 [v1.1]
-Lângă Tine vreau
-Să fiu aproape iar
-Și pentru prietenia Ta
-Renunț la orice altceva.
+Lângă Tine vreau să fiu aproape iar
+Și pentru prietenia Ta renunț la orice altceva.
 
 [v1.2]
 Ești iubirea mea, cine altcineva?
 Tu nu poți fi înlocuit,
-Nici caldă-mbrățișarea Ta,
+Nici caldă-mbrățișare a Ta,
 Adu-mă înapoi, Doamne, lângă Tin’!
 
 [c]
 /: Ești tot ce vreau,
 Tot ce am dorit vreodată,
-Vreau să-nțeleg
-Cât de aproape-mi ești. :/
+Vreau să-nțeleg cât de aproape-mi ești. :/

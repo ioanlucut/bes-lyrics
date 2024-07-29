@@ -6,14 +6,14 @@ v1,c,v2,c,e
 
 [v1]
 Lumina lumii, prezență divină, ajută-mă să-nțeleg
-Cât de frumos ne-ai creat pentru Tine,
-Speranță ne-ai dăruit.
+Cât de frumos m-ai creat pentru Tine,
+Speranță mi-ai dăruit.
 
 [c]
-Toată închinarea, toată adorarea,
+/: Toată închinarea, toată adorarea,
 Ție-Ți dăruiesc, o, Domnul meu!
 Numai Tu ești vrednic, numai Tu ești veșnic,
-Doamne, numai Tu ești minunat!
+Doamne, numai Tu ești minunat! :/
 
 [v2]
 Rege etern, ce domnești sus în ceruri,
@@ -22,5 +22,5 @@ La dreapta lui Dumnezeu,
 Din dragoste Te-ai jertfit.
 
 [e]
-Cum să-nțeleg cât Te-a costat
-Să ierți deplin al meu păcat?
+/: Cum să-nțeleg cât Te-a costat
+Să ierți deplin al meu păcat? :/

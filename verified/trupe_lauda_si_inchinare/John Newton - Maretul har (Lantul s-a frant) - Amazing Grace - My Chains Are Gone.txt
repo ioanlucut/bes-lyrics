@@ -19,7 +19,7 @@ Trăiesc prin El mereu. :/
 [c]
 /: Lanțul s-a frânt, azi liber sunt,
 Răscumpărat prin sânge sfânt
-Și-n mila Sa, mi-a dat în dar,
+Și-n mila Sa, mi-a dat în dar
 Iubirea Lui, mărețul har. :/
 
 [v3]
@@ -29,9 +29,9 @@ Adesea-am întâlnit.
 Eu toate-am biruit. :/
 
 [v4]
-Prin har, ajunge-voi în cer,
+Prin har ajunge-voi în cer,
 Cu slavă îmbrăcat,
-/: Și voi slăvi, în veșnicii,
+/: Și voi slăvi în veșnicii
 Pe Cel ce har mi-a dat. :/
 
 [e]

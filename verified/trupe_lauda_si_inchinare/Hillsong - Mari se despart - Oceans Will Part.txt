@@ -11,11 +11,14 @@ Când nu văd drumul meu, sprijin mi-e brațul Tău.
 /: Și deschizi ochii mei să-nțeleg ce-ai făcut. :/
 
 [c]
-Mări se despart, neamuri vin la chemarea Ta, Isus.
-Viața mea Ți-o închin, în Tine speranța-mi pun.
+/: Mări se despart, neamuri vin la chemarea Ta, Isus.
+Viața mea Ți-o închin, în Tine speranța-mi pun. :/
 
 [v2]
 Și de sufăr acum mila Ta e pe drum,
 Când deschizi ochii mei să-nțeleg planul Tău
 Și mă voi bucura sigur pe calea Ta
 /: Când deschizi ochii mei să-nțeleg planul Tău. :/
+
+[e]
+/: Și deschizi ochii mei să-nțeleg ce-ai făcut. :/

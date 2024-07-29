@@ -5,11 +5,9 @@
 v1,c,v2,c,b,b2,b,e
 
 [v1]
-Înălțăm lauda noastră,
-Prin cântări Te chemăm,
+Înălțăm lauda noastră, prin cântări Te chemăm,
 /: Stăm în fața Ta! :/
-Peste noi toarnă viață,
-Umple-ne, Te rugăm,
+Peste noi toarnă viață, umple-ne, Te rugăm,
 /: Stăm în fața Ta! :/
 
 [c]
@@ -19,25 +17,18 @@ Vino și revarsă peste viața noastră
 Din focul Tău de sus.
 
 [v2]
-Proclamăm al Tău Nume,
-Îți vestim gloria,
+Proclamăm al Tău Nume, Îți vestim gloria,
 /: Stăm în fața Ta! :/
-Prin Cuvânt ai putere,
-Tot ce-i mort va-nvia,
+Prin Cuvânt ai putere, tot ce-i mort va-nvia,
 /: Stăm în fața Ta! :/
 
 [b]
-/: Cu laude Te chemăm,
-Cu laude Te chemăm,
-Puternic Dumnezeu
-Pe Tine Te-așteptăm! :/
+/: Cu laude Te chemăm, cu laude Te chemăm,
+Puternic Dumnezeu Ppe Tine Te-așteptăm! :/
 
 [b2]
-O inimă și-un gând,
-Din suflet Îți cântăm,
-Puternic Dumnezeu,
-Pe Tine Te-așteptăm!
+O inimă și-un gând, din suflet Îți cântăm,
+Puternic Dumnezeu pe Tine Te-așteptăm!
 
 [e]
-Puternic Dumnezeu,
-Pe Tine Te-așteptăm.
+Puternic Dumnezeu pe Tine Te-așteptăm!

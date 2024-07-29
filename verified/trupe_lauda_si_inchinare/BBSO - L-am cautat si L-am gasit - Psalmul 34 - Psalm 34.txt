@@ -5,18 +5,22 @@ L-am căutat și L-am găsit {alternative: {Psalmul 34; Psalm 34}, composer: {Sh
 v1,v2,c,v3,c,b,c,e
 
 [v1]
-L-am căutat și L-am găsit, de temeri El m-a izbăvit.
+L-am căutat și L-am găsit,
+De temeri El m-a izbăvit.
 Când privești spre El te luminezi.
 Rușinea El mi-a șters, rușinea El mi-a șters.
 
 [v2]
-Când am strigat, El m-a auzit, necazul meu l-a risipit,
+Când am strigat, El m-a auzit,
+Necazul meu l-a risipit,
 El face scut peste-ai Lui sfinți,
 Îi va elibera, îi va elibera.
 
 [c]
-/: Laudă-L pe El, acum, să-nălțăm al Său sfânt Nume!
-Toată gloria este-a Lui, să-I cântăm o veșnicie! :/
+/: Laudă-L pe El, acum,
+Să-nălțăm al Său sfânt Nume!
+Toată gloria este-a Lui,
+Să-I cântăm o veșnicie! :/
 
 [v3]
 Gustă și vezi, Domnul este bun,
@@ -29,4 +33,5 @@ El îi va îngriji, El îi va îngriji.
 Veșnic vom cânta pentru Dumnezeu! :/ (x4)
 
 [e]
-Gustă și vezi, Domnul este bun, eu mă încred în El, eu mă încred în El!
+Gustă și vezi, Domnul este bun,
+Eu mă încred în El, eu mă încred în El!

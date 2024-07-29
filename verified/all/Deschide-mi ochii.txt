@@ -5,15 +5,10 @@ Deschide-mi ochii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, 
 v1,e
 
 [v1]
-/: Deschide-mi ochii,
-Vreau să Te văd, Isus!
-Să Te-ating cu mâna,
-Să-Ți spun că Te iubesc,
-Și fă-mi urechea,
-Cu dor să Te-asculte.
-Deschide-mi ochii,
-Vreau să Te văd, Isus. :/
+/: Deschide-mi ochii, vreau să Te văd, Isus,
+Să Te-ating cu mâna, să-Ți spun că Te iubesc,
+Și fă-mi urechea cu dor să Te-asculte.
+Deschide-mi ochii, vreau să Te văd, Isus! :/
 
 [e]
-Deschide-mi ochii,
-Vreau să Te văd, Isus. :/
+/: Deschide-mi ochii, vreau să Te văd, Isus. :/

@@ -5,19 +5,13 @@ Schimbă-mi inima, fă-mă mai curat {alternative: {*}, composer: {*}, writer: {
 v1,c,v2
 
 [v1]
-/: Schimbă-mi inima,
-Fă-mă mai curat,
-Mai real, mai sfânt,
-Mai adevărat. :/
+/: Schimbă-mi inima, fă-mă mai curat,
+Mai real, mai sfânt, mai adevărat. :/
 
 [c]
-Tu ești Olarul,
-Iar eu lutul,
-Fă-mă să semăn,
-Doamne, cu Tine.
+Tu ești Olarul, iar eu lutul,
+Fă-mă să semăn, Doamne, cu Tine.
 
 [v2]
-/: Schimbă-mi inima,
-Fă-o ca a Ta,
-Schimbă-mi inima,
-Asta-i ruga mea! :/
+/: Schimbă-mi inima, fă-o ca a Ta,
+Schimbă-mi inima, asta-i ruga mea! :/

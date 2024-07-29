@@ -19,10 +19,10 @@ Ca eu să pot fi iertat Isus a murit,
 Isus a murit.
 
 [c2]
-M-a eliberat, viața mi-a schimbat,
+/: M-a eliberat, viața mi-a schimbat,
 Sunt copilul Său, da, eu sunt.
 Lângă Tatăl meu am un loc și eu
-Sunt copilul Său, da, eu sunt.
+Sunt copilul Său, da, eu sunt. :/
 
 [b]
 /: M-ai ales doar pentru Tine,
