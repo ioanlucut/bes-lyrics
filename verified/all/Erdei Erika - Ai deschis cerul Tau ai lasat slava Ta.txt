@@ -11,7 +11,7 @@ M-ai iubit așa mult c-ai murit la Calvar,
 Să deschizi ochii mei, să-nțeleg și să Te slăvesc.
 
 [c1.1]
-Pentru cântec, speranță și rază de soare,
+/: Pentru cântec, speranță și rază de soare,
 Lumină și pace pe-a mea cărare,
 Pentru tot ce Tu îmi dai, mulțumesc!
 
@@ -20,7 +20,7 @@ Pentru zâmbetul Tău înscris printre stele,
 Mângâierea Ta în clipele grele,
 Pentru dragostea Ta revărsată în mine
 Mă-nchin, recunosc că ești Domn
-Și rostesc: „mulțumesc!”
+Și rostesc: „mulțumesc!” :/
 
 [v2]
 Când la Tine am venit cu povara mea grea,

@@ -6,16 +6,19 @@ v1.1,v1.2,c1.1,c1.2,v1.1,v1.2,c1.1,c1.2,e
 
 [v1.1]
 Al meu Domn, Părinte, nimeni ca Tine nu e.
-Cât voi trăi, Îți voi slăvi lucrarea mâinilor Tale.
+Cât voi trăi, Îți voi slăvi
+Lucrarea mâinilor Tale.
 
 [v1.2]
 Refugiu, scăpare, în brațul Tău eu găsesc.
-Cu viața mea, cu tot ce am totdeauna laudă-Ți voi da.
+Cu viața mea, cu tot ce am
+Totdeauna laudă-Ți voi da.
 
 [c1.1]
 Strig către Tine, o, Doamne, Te caut,
 Tu ești Împăratul, puterea Ți-o laud.
-Munții se pleacă și mările tac când rostim Numele Tău.
+Munții se pleacă și mările tac
+Când rostim Numele Tău.
 
 [c1.2]
 Tot ce-ai creat în splendoare azi stă,

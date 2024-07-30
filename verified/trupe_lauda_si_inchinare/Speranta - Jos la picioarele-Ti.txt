@@ -2,7 +2,7 @@
 Jos la picioarele-Ți {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3799}, id: {gq1j3inLxfunMNQiBE2avV}, contentHash: {63adce}}
 
 [sequence]
-v1,c,v1,c
+v1,c,v1,c,e
 
 [v1]
 /: Jos la picioarele-Ți stau adânc plecat,
@@ -14,3 +14,6 @@ Sunt îngenuncheat! :/
 Decât să îngenunchez la tronul Tău.
 Copleșit de uimire, scăldat în iubire,
 Eu trăiesc doar pentru-a Te lăuda. :/
+
+[e]
+Eu trăiesc doar pentru a Te lăuda.

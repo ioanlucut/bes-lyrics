@@ -2,7 +2,7 @@
 Ține-mă în mâna Ta {alternative: {*}, composer: {Haidaciuc Guțu și Stelică Strugariu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {amr6rZs4SoLDKchb3kBwQ9}, contentHash: {0a66bf}}
 
 [sequence]
-v1,c,v2,c,v3,c,c
+v1,c,v2,c,v3.1,v3.2,c
 
 [v1]
 Ține-mă în mâna Ta, Domnul meu, comoara mea
@@ -11,19 +11,25 @@ Câte vânturi ar sufla, ține-mi Tu corabia,
 Prin orice furtuni ar fi să trec!
 
 [c]
-Tu minuni mai poți să faci, poruncește-i mării: „Taci!”,
+Tu minuni mai poți să faci,
+Poruncește-i mării: „Taci!”,
 Te va asculta furtuna, vântul,
 Te-ascultă ploile, se-opresc valurile,
 Se supune-n fața Ta pământul.
 
 [v2]
-Drumul cât ar fi de greu, știu, cu Tine, Domnul meu,
+Drumul cât ar fi de greu,
+Știu, cu Tine, Domnul meu,
 Voi păși ca Petru peste val,
 Mâna mea în mâna Ta peste val mă va purta
 Să ajung biruitor la mal.
 
-[v3]
-Dar când Tu Te-ai ridicat, marea, vântul ai certat
+[v3.1]
+Dar când Tu Te-ai ridicat,
+Marea, vântul ai certat
 Liniște deplină s-a lăsat.
-Cine ești se-ntreabă toți, Tu ești Domnul care poți
+
+[v3.2]
+Cine ești se-ntreabă toți,
+Tu ești Domnul care poți
 Să ne duci la țărmul mult visat.
