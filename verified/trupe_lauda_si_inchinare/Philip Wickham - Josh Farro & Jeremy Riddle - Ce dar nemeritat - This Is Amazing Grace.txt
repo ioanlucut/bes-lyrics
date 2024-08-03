@@ -1,5 +1,5 @@
 [title]
-Ce dar nemeritat {alternative: {This Is Amazing Grace}, composer: {Philip Wickham; Josh Farro & Jeremy Riddle}, writer: {Philip Wickham; Josh Farro & Jeremy Riddle; Florin Mesaroș & BBSO}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157503}, id: {nHthZYKc8ivr5Km5APbsqf}, contentHash: {bf1860}}
+Ce dar nemeritat {alternative: {This Is Amazing Grace}, composer: {Philip Wickham; Josh Farro & Jeremy Riddle}, writer: {Philip Wickham; Josh Farro & Jeremy Riddle; Florin Mesaroș & BBSO}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157503}, id: {nHthZYKc8ivr5Km5APbsqf}, contentHash: {854dfc}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -7,7 +7,7 @@ v1,c,v2,c,b,c
 [v1]
 Cine transformă în soare veșnic
 Orice fărâmă de întuneric?
-E Domnul gloriei, e Domnul domnilor
+E Domnul gloriei, e Domnul domnilor!
 Cine vorbește și-a Lui vorbire
 Zguduie munții din temelie?
 E Domnul gloriei, e Domnul domnilor!
