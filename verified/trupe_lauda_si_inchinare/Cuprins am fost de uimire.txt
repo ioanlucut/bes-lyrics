@@ -1,8 +1,8 @@
 [title]
-Cuprins am fost de uimire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7301}, id: {9wGAaLtf8hruHhqG9e5FDm}, contentHash: {847958}}
+Cuprins am fost de uimire {alternative: {*}, composer: {C. H. Gabriel}, writer: {Pitt Popovici, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7301}, id: {9wGAaLtf8hruHhqG9e5FDm}, contentHash: {847958}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c,v2,c,v3,c,v4
 
 [v1]
 Cuprins am fost de uimire,
@@ -17,7 +17,7 @@ Ce minunat, ce glorios
 E Domnu-n iubirea Sa!
 
 [v2]
-El cu sudoare de sânge,
+El cu sudori ca de sânge,
 În Ghetsimani S-a rugat.
 Ce chin, ce plâns și ce luptă
 Pentru mine a purtat.
@@ -25,5 +25,5 @@ Pentru mine a purtat.
 [v3]
 Păcatul și-a mea osândă,
 Asupra Sa le-a luat
-Ca să-mi dea mie izbândă
+Și să-mi dea mie izbândă
 Muri El crucificat.
