@@ -146,6 +146,9 @@ export type Section = {
 
   // E.g. strophe/chorus content
   content: string;
+
+  // E.g. v, p, c, b, e, s
+  sectionSequenceType: SequenceChar;
 };
 
 /**

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectTasksOptions">
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="--loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write $FilePathRelativeToProjectRoot$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -41,7 +41,7 @@
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="--loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write $FilePathRelativeToProjectRoot$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -55,6 +55,26 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/.nvm/versions/node/v20.8.1/bin/node" />
+      <option name="runOnExternalChanges" value="false" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="-file-line-error -interaction=nonstopmode -synctex=1 -quiet -output-directory=/Users/ilucut/WORK/BES/bes-lyrics/convert-songs-to-tex -aux-directory=/Users/ilucut/WORK/BES/bes-lyrics/debug bes-songbook.tex" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="fileExtension" value="tex" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Compile leadsheets TEX songs on change (BES)" />
+      <option name="output" value="$FileDirRelativeToProjectRoot$" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="true" />
+      <option name="program" value="/Library/TeX/texbin/xelatex" />
       <option name="runOnExternalChanges" value="false" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
