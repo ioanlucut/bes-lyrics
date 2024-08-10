@@ -1,5 +1,5 @@
 [title]
-Al meu ești Isuse, ce mult Te iubesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fxNboznLZ5BopBX1WHhSMm}, contentHash: {88f492}}
+Al meu ești Isuse, ce mult Te iubesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fxNboznLZ5BopBX1WHhSMm}, contentHash: {74780f}}
 
 [sequence]
 v1,v2,v3,v4
@@ -19,8 +19,8 @@ De-acum, o, Isuse, nespus Te iubesc!
 [v3]
 În viață și-n moarte, Isus Te doresc,
 Slăvesc al Tău Nume atât cât trăiesc.
-Sudorile morții când mă copleșesc,
-Voi zice: Isuse, și-acum Te iubesc!
+Când umbrele morții mă vor copleși
+Și-atunci, o, Isuse, eu te voi iubi
 
 [v4]
 În fața măririi, la tronul de sus,

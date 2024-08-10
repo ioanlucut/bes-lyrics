@@ -1,5 +1,5 @@
 [title]
-Poporașul Meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5042}, id: {bSiBUcq1HNvvTvyFW8xgD8}, contentHash: {08a654}}
+Poporașul Meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5042}, id: {bSiBUcq1HNvvTvyFW8xgD8}, contentHash: {d2303c}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -14,7 +14,7 @@ Iată, iată, vine Mirele! :/
 /: Ia-ți haina curată,
 Duhul cel din slavă, Duhul Sfânt, :/
 /: Căci de mult Eu tot aștept
-A Mea nuntă să o încep. :/
+A Mea nuntă ca să o încep. :/
 
 [v3]
 /: Și-am să stau la masă,
