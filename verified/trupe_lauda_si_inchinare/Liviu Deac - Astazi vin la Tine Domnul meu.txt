@@ -1,5 +1,5 @@
 [title]
-Astăzi vin la Tine, Domnul meu {alternative: {*}, composer: {Liviu Deac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2782}, id: {hKzZBxj4XucFJMrQH4GJNH}, contentHash: {b4888c}}
+Astăzi vin la Tine, Domnul meu {alternative: {*}, composer: {Liviu Deac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2782}, id: {hKzZBxj4XucFJMrQH4GJNH}, contentHash: {3af8bf}}
 
 [sequence]
 v1,p,c,v2,p,c,e
