@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c,v4,c,v5,c
 [v1]
 Știi tu ce port în pieptul meu?
 Pace, fericire,
-Mi-a șters păcatul cel mai greu,
+Mi-e șters păcatul cel mai greu,
 Pace, fericire!
 
 [c]
