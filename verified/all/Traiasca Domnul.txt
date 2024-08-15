@@ -1,5 +1,5 @@
 [title]
-Trăiască Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {235991}, id: {7szfb9ZMz8UPSKRx8C5n8C}, contentHash: {476d63}}
+Trăiască Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {235991}, id: {7szfb9ZMz8UPSKRx8C5n8C}, contentHash: {812df6}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
