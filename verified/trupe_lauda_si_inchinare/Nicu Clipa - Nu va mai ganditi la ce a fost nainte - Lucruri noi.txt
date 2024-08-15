@@ -2,7 +2,7 @@
 Nu vă mai gândiți la ce a fost ‘nainte {alternative: {Lucruri noi}, composer: {Nicu Clipa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195513}, id: {9hCRCwH45EQYapqs8Vo4bU}, contentHash: {f117f1}}
 
 [sequence]
-v1,v2,c,v3,c,b,c
+v1,v2,c1.1,c1.2,v3,c1.1,c1.2,b,c1.1,c1.2
 
 [v1]
 Nu vă mai gândiți la ce a fost ‘nainte,
@@ -14,10 +14,12 @@ Lucrări mari veți vedea mai mult decât ‘nainte,
 Am lucruri noi să fac și-s gata să se-ntâmple,
 Iată, Eu voi face, Eu voi face lucruri noi!
 
-[c]
+[c1.1]
 Voi face un drum, chiar prin pustie,
 În locuri uscate va curge apă vie.
 Iată, Eu voi face, Eu voi face lucruri noi!
+
+[c1.2]
 Vă dau Duhul Meu, vă-mbrac în putere,
 Națiuni vor cunoaște căile Mele.
 Iată, Eu voi face, Eu voi face lucruri noi!
