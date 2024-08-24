@@ -1,5 +1,5 @@
 [title]
-Sfințenia-i podoaba casei Tale {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uKb2B4nubpeP6kQMDy54Nk}, contentHash: {45ce6c}}
+Sfințenia-i podoaba casei Tale {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uKb2B4nubpeP6kQMDy54Nk}, contentHash: {a4dc39}}
 
 [sequence]
 v1,c,v2,c,v3,c
