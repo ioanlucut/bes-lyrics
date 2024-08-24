@@ -1,5 +1,5 @@
 [title]
-Sfințenia-i podoaba casei Tale {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uKb2B4nubpeP6kQMDy54Nk}, contentHash: {45ce6c}}
+Sfințenia-i podoaba casei Tale {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uKb2B4nubpeP6kQMDy54Nk}, contentHash: {a4dc39}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -11,9 +11,9 @@ Ne-ai spus să fim ca Tine, sfinți, o, Doamne,
 Așa doar vom ajunge-n cerul sfânt.
 
 [c]
-/: Sfânt e Domnul, sfânt e Dumnezeu,
+Sfânt e Domnul, sfânt e Dumnezeu,
 Tot pământul e plin de harul Său.
-Serafimii din cer spun tuturor:
+/: Serafimii din cer spun tuturor:
 Sfânt, sfânt, sfânt e Domnul oștirilor! :/
 
 [v2]
