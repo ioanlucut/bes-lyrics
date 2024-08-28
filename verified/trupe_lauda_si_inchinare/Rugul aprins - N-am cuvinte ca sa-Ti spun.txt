@@ -6,24 +6,24 @@ v1,c,v2,c,v3,c
 
 [v1]
 N-am cuvinte ca să-Ți spun,
-Cât ești, Tu, Doamne, de bun,
+Cât ești Tu, Doamne, de bun,
 Te-ai plecat spre min’, m-ai mântuit,
 Mi-ai luat povara grea,
 Ai dus-o la Golgota
 Și mi-ai dat în schimb pacea Ta.
 
 [c]
-Tu ești Cel mai minunat,
+/: Tu ești Cel mai minunat,
 Ești al lumii Împărat,
 De aceea eu Îți cânt,
 Slavă ne-ncetat!
 Dai lumină zorilor,
 Strălucire stelelor,
 Nimeni-n lume nu-i ca Tine,
-Puternic, Dumnezeu!
+Puternic, Dumnezeu! :/
 
 [v2]
-Fericit eu am să-Ți cânt,
+Fericit eu am să-Ți cânt
 Cât voi trăi pe pământ,
 De iubirea ce mi-ai arătat.
 Niciodată singur nu-s,
@@ -31,9 +31,7 @@ Sunt pe brațul Tău, Isus,
 M-ai luat pe veci în mâna Ta.
 
 [v3]
-Isuse ‘naintea Ta,
-Îmi aduc azi inima,
+Isuse ‘naintea Ta, îmi aduc azi inima,
 Fă de-acum ce vrei, Doamne, cu ea!
-Ești izbăvitorul meu,
-Unic Fiu de Dumnezeu,
-Ție am să-Ți cânt, Doamne, mereu!
+Ești izbăvitorul meu, unic Fiu de Dumnezeu,
+Ție vreau să-Ți cânt, Doamne, pe veci.

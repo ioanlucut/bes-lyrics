@@ -11,11 +11,11 @@ Iar pe scara cerului coboară
 Îngeri aducând mesajul sfânt.
 
 [c]
-Oare n-ai știut c-aici e Domnul
-Oare n-ai știut c-aici e El?
+/: Oare n-ai știut că-aici e Domnul
+Oare n-ai știut că-aici e El?
 Dumnezeu din slăvi ne cercetează
 Căci aici e casa Lui,
-Poarta cerului, Betel.
+Poarta cerului, Betel. :/
 
 [v2]
 Ca și Iacov prin acea pustie,
