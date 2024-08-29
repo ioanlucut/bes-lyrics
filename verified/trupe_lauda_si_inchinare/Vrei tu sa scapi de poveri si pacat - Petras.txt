@@ -1,5 +1,5 @@
 [title]
-Vrei tu să scapi de poveri și păcat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, contentHash: {*}}
+Vrei tu să scapi de poveri și păcat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {m6R8EeDg67uaBphCAEstaZ}, contentHash: {7da322}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -8,7 +8,7 @@ v1,c,v2,c,v3,c
 Vrei tu să scapi de poveri și păcat
 Prin Mielul divin ce-a fost străpuns?
 Vrei tu să-nvingi răul ce te-a legat
-Prin sfânt sânge a Lui Isus?
+Prin sfânt sânge a lui Isus?
 
 [c]
 /: E puterea sângelui vărsat,

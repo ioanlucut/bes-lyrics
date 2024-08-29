@@ -1,5 +1,5 @@
 [title]
-Dumnezeu e tăria mea {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1053}, id: {syR2s9xDncwmcFTsMVcqk6}, contentHash: {ad2a27}}
+Dumnezeu e tăria mea {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1053}, id: {syR2s9xDncwmcFTsMVcqk6}, contentHash: {ebce2f}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
