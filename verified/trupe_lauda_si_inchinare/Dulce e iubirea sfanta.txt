@@ -1,5 +1,5 @@
 [title]
-Dulce e iubirea sfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3114}, id: {m9W9VopXLYPk6QkqdSgc9f}, contentHash: {2625a0}}
+Dulce e iubirea sfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3114}, id: {m9W9VopXLYPk6QkqdSgc9f}, contentHash: {a74659}}
 
 [sequence]
 v1,c,c2,v2,c,c2,v3,c,c2
