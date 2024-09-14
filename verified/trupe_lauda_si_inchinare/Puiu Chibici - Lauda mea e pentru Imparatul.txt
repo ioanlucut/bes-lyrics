@@ -1,5 +1,5 @@
 [title]
-Lauda mea e pentru Împăratul {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6741}, id: {cvSwXBdakq4tF7evR5xYt3}, contentHash: {ee4a94}}
+Lauda mea e pentru Împăratul {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6741}, id: {cvSwXBdakq4tF7evR5xYt3}, contentHash: {b3dbf8}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

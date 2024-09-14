@@ -1,5 +1,5 @@
 [title]
-Cât va fi pământul, sfânt va răsuna {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {220904}, id: {ayf37o4VoUQ6mKQkHUGhvE}, contentHash: {daca4d}}
+Cât va fi pământul, sfânt va răsuna {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {220904}, id: {ayf37o4VoUQ6mKQkHUGhvE}, contentHash: {b765e2}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -14,7 +14,7 @@ Tu ești Creatorul, Tu-n veci vei rămânea.
 Slavă, slavă, noi Te lăudăm
 Și din inimi închinare-Ți dăm,
 Imnul laudei sfinte-n veci nu va-nceta,
-Toată veșnicia Doamne-Ți vom cânta. 
+Toată veșnicia Doamne-Ți vom cânta.
 
 [v2]
 Nu va fi vreodată-un colț de pe pământ
