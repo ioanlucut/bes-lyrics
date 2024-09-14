@@ -1,5 +1,5 @@
 [title]
-O, ce prieten am în Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {60627}, id: {51L7bh6QF2hxrHGkf2phra}, contentHash: {c9ef75}}
+O, ce prieten am în Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {60627}, id: {51L7bh6QF2hxrHGkf2phra}, contentHash: {0c8965}}
 
 [sequence]
 v1,c,v2,c2
@@ -23,7 +23,7 @@ Calea, adevărul, viața
 Le găsesc în Domnul meu.
 
 [c2]
-/: O, ce prieten bun e Isus,
+/: O, ce prieten bun mi-e Isus,
 El e Salvatorul meu.
 Schimbă inima mea, Doamne,
 Fă-mă după placul Tău. :/

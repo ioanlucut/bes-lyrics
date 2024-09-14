@@ -1,5 +1,5 @@
 [title]
-Lauda mea e pentru Împăratul {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6741}, id: {cvSwXBdakq4tF7evR5xYt3}, contentHash: {ee4a94}}
+Lauda mea e pentru Împăratul {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6741}, id: {cvSwXBdakq4tF7evR5xYt3}, contentHash: {b3dbf8}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -8,13 +8,13 @@ v1,c,v2,c,v3,c,v4,c
 Sunt un mesager rătăcitor prin lume,
 Sunt un călător spre patria de sus.
 Mi-am pus harfa mea în slujba unui Nume,
-Nume înălțat și minunat Isus.
+Nume înălțat și minunat, Isus.
 
 [c]
 Lauda mea e pentru Împăratul,
 Nimeni nu-i ca El așa frumos,
-Sfânt și bun a fost și nu e altul,
-C-al meu Mire drag, Isus Hristos.
+Sfânt și bun a fost și nu e altul
+Ca-al meu Mire drag, Isus Hristos.
 
 [v2]
 Cum să nu Îi cânt, când cu atâta milă,
@@ -25,11 +25,11 @@ El m-a ridicat cu drag, căci m-a iubit.
 [v3]
 Voi cânta mereu cât voi avea suflare
 Și-L voi preamări, căci m-a iubit nespus.
-Când mi-a fost mai greu, în foc și-n încercare
+Când mi-a fost mai greu, în foc și-n încercare,
 Lângă mine-a stat aproape doar Isus.
 
 [v4]
 Spuneți tuturor, să știe orișicine,
-De iubirea Lui și-al Său belșug de har.
+De iubirea Lui și-al Său belșug de har!
 Orice muritor ce sincer la El vine,
 Are viață-n veci și mântuire-n dar.
