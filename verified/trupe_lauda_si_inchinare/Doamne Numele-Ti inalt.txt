@@ -1,5 +1,5 @@
 [title]
-Doamne, Numele-Ți înalț {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {775f29}}
+Doamne, Numele-Ți înalț {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {55d702}}
 
 [sequence]
 v1,c,v1,c

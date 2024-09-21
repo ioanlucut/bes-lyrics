@@ -1,5 +1,5 @@
 [title]
-Sprijin mi-e Hristos {alternative: {He Will Hold Me Fast}, composer: {Ada Ruth Habershon}, writer: {Ada Ruth Habershon}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Sprijin mi-e Hristos {alternative: {He Will Hold Me Fast}, composer: {Ada Ruth Habershon}, writer: {Ada Ruth Habershon}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6RqzD1uysWKmudkQTQpp88}, contentHash: {28508d}}
 
 [sequence]
 v1,c,v2,c,v3,c
