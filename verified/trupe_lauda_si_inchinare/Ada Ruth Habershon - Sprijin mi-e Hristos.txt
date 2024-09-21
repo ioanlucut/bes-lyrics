@@ -1,0 +1,27 @@
+[title]
+Sprijin mi-e Hristos {alternative: {He Will Hold Me Fast}, composer: {Ada Ruth Habershon}, writer: {Ada Ruth Habershon}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când credința-mi s-ar clinti, sprijin mi-e Hristos,
+Când cel rău ar izbuti, sprijin mi-e Hristos.
+Cum să pot înainta când e-ntunecos,
+Când mi-e rece dragostea, sprijin mi-e Hristos.
+
+[c]
+/: Sprijin mi-e Hristos, sprijin mi-e Hristos,
+Sunt iubit în chip nespus, sprijin mi-e Isus! :/
+
+[v2]
+Domnul se desfată-n sfinți, sprijin mi-e Hristos,
+Înaintea Lui sunt scumpi, sprijin mi-e Hristos.
+Sufletu-mi va fi păzit, va-mplini ce-a spus,
+Cu preț mare m-a plătit, sprijin mi-e Hristos.
+
+[v3]
+Pentru mine a murit, sprijin mi-e Hristos,
+El dreptatea a-mplinit, sprijin mi-e Hristos.
+El e învierea mea, sprijin mi-e Hristos,
+Ce-am crezut voi și vedea la venirea Sa!

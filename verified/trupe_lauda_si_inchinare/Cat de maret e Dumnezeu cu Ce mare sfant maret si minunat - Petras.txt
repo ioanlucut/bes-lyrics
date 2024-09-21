@@ -17,7 +17,7 @@ Spre un gigantic apogeu?
 Acel ce-a pus în goluri firea,
 Acel ce-a scris oricui menirea,
 Mai mult decât nemărginirea,
-E Tatăl meu!
+E Tatăl meu, e Tatăl meu!
 
 [c]
 /: Ce mare, sfânt, măreț și minunat
@@ -38,7 +38,7 @@ E Tatăl meu!
 Chiar dacă stelele bătrâne
 Tot au o vreme când se-aștern,
 Dar cine în Isus rămâne
-E-un fiu etern.
+E-un fiu etern, e-un fiu etern.
 
 [v5]
 Și-n fața slavei sclipitoare,
@@ -46,4 +46,8 @@ E-un fiu etern.
 Acei ce-au dat pe sfinți la fiare
 Vedea-vor forța creatoare.
 Eu voi șopti cu adorare:
-E Tatăl meu!
+E Tatăl meu, e Tatăl meu!
+
+[e]
+Eu voi șopti cu adorare:
+E Tatăl meu! (x3)
