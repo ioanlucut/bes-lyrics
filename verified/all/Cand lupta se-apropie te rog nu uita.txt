@@ -1,5 +1,5 @@
 [title]
-Când lupta se-apropie, te rog, nu uita {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {202119}, id: {1oi2KDy6s2F7GCfUrNYnfh}, contentHash: {638607}}
+Când lupta se-apropie, te rog, nu uita {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {202119}, id: {1oi2KDy6s2F7GCfUrNYnfh}, contentHash: {82d77b}}
 
 [sequence]
 v1,c,v2,c,v3,c
