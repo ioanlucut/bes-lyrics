@@ -1,5 +1,5 @@
 [title]
-Renunțând la gândurile mele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2771}, id: {7s9u2ekANupW1efx2oEPvK}, contentHash: {94bc73}}
+Renunțând la gândurile mele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2771}, id: {7s9u2ekANupW1efx2oEPvK}, contentHash: {263606}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v1.1,v1.2,c
@@ -19,7 +19,7 @@ Mă închin și Te voi lăuda.
 [c]
 /: Privesc la Tin’ Cel ce-mi dai viață,
 Tu începi și duci la bun sfârșit,
-Tu-mi inspiri ființa și lucrarea,
+Tu îmi inspiri ființa și lucrarea,
 Doar iubirea Ta m-a împlinit. :/
 
 [v2.1]

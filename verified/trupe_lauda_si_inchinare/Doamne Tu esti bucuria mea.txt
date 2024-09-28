@@ -1,0 +1,33 @@
+[title]
+Doamne, Tu ești bucuria mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1f4fjamJZgFMRCsd4VnFMV}, contentHash: {ea4cd2}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Doamne, Tu ești bucuria mea,
+Doamne, Tu ești izbăvirea mea,
+Cuvântul Tău este o lumină pe calea mea.
+
+[v1.2]
+Îmi pun nădejdea în Dumnezeu,
+Numai Tu ești ajutorul meu,
+Ești mântuirea, ești adăpostul, ești Domnul meu.
+
+[c]
+/: O mie să cadă în jurul meu,
+Eu merg cu Tine, o, Domnul meu,
+Toată viața îmi pun nădejdea în brațul Tău!
+Nu mă voi teme de noaptea grea,
+Nici de săgețile ce vor cădea,
+De orice rău mă ocrotește doar mâna Ta! :/
+
+[v2.1]
+Când sunt căzut, Tu mă întărești,
+Când sunt pierdut, nu mă părăsești,
+Numai în Tine nădăjduiește inima mea!
+
+[v2.2]
+Aripa Ta mă va ocroti,
+De orice rău mă va izbăvi,
+Căci Tu ești în toate, ești ocrotirea, ești Stânca mea!
