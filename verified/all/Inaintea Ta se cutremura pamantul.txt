@@ -1,5 +1,5 @@
 [title]
-Înaintea Ta se cutremură pământul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Înaintea Ta se cutremură pământul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tzC2eZiKY9HsHisbT4Zd1C}, contentHash: {da4b99}}
 
 [sequence]
 v1,v2,v3,v4

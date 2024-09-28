@@ -1,5 +1,5 @@
 [title]
-Tu m-ai făcut din țărână {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Teo Family}, genre: {*}, rcId: {*}, contentHash: {*}}
+Tu m-ai făcut din țărână {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Teo Family}, genre: {*}, rcId: {*}, id: {fHnKmot4GzZaGK2MJ38R28}, contentHash: {91db49}}
 
 [sequence]
 v1,v2,v3,v4

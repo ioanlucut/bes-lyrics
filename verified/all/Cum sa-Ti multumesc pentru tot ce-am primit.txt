@@ -1,5 +1,5 @@
 [title]
-Cum să-Ți mulțumesc pentru tot ce-am primit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Cum să-Ți mulțumesc pentru tot ce-am primit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3EiUdggu1DaShea3nFPdgN}, contentHash: {296067}}
 
 [sequence]
 v1,v2,v3,v4

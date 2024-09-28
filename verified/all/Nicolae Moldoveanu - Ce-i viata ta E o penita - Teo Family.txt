@@ -1,5 +1,5 @@
 [title]
-Ce-i viața ta? E o peniță {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae Moldoveanu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Teo Family}, genre: {*}, rcId: {*}, contentHash: {*}}
+Ce-i viața ta? E o peniță {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae Moldoveanu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Teo Family}, genre: {*}, rcId: {*}, id: {r3THmcqesnW1EttXB3r7qH}, contentHash: {1e4e26}}
 
 [sequence]
 v1,v2,v3,v4,v5

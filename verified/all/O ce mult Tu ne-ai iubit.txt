@@ -1,5 +1,5 @@
 [title]
-O ce mult Tu ne-ai iubit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+O ce mult Tu ne-ai iubit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5vcpikMNjww7Dss1BpDBaw}, contentHash: {36c154}}
 
 [sequence]
 v1,v2,v3,v4
