@@ -1,0 +1,40 @@
+[title]
+Ce-i viața ta? E o peniță {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae Moldoveanu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Teo Family}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Ce-i viața Ta? E o peniță
+Cu care-i scris mereu pe-un drum
+Și-apoi, la ultima portiță,
+Ce-ai scris pe-a drumului tăbliță
+/: Nu se mai șterge nicidecum! :/
+
+[v2]
+Și vorbe-n vânt și fapte rele
+Se scriu pe veci ca-ntr-un album,
+Păzit e scrisul tău de stele,
+De-ai pune mări întregi să spele,
+/: Nu se mai șterge nicidecum! :/
+
+[v3]
+Să nu te minți că-n veșnicie
+Trecutul se preface-n scrum
+Căci Dumnezeu stă mărturie
+Și tot ce-n fața Lui se scrie
+/: Nu se mai șterge nicidecum! :/
+
+[v4]
+Nu poate șterge decât sânge
+Și sânge sfânt, dar nu oricum.
+Ce înger trupul și-l va frânge?
+Și-astfel, ce-ai scris, oricât ai plânge,
+/: Nu se mai șterge nicidecum! :/
+
+[v5]
+Azi adu-ți vina ta și greșul,
+Hristos îți șterge-al vieții drum
+Cum trece pe nisip vârtejul!
+Dar, dacă azi nu prinzi prilejul,
+/: Nu se mai șterge nicidecum! :/
