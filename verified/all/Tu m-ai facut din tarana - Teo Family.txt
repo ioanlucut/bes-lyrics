@@ -1,0 +1,29 @@
+[title]
+Tu m-ai făcut din țărână {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Teo Family}, genre: {*}, rcId: {*}, id: {fHnKmot4GzZaGK2MJ38R28}, contentHash: {91db49}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Tu m-ai făcut din țărână
+Și-n adânc mi-ai turnat veșnicia,
+Dar în mine-o făptură păgână
+Zi și noapte își cere simbria.
+
+[v2]
+Nu sunt, Doamne, decât o suflare,
+Decât carne cu viermi și păcate
+Și Te caut în dor și-n oftare
+Să-mi dai forma trăirii curate.
+
+[v3]
+Ce-aș ajunge tot singur pe ape,
+Într-o lume de răni și suspine,
+Dacă nu Te-aș simți pe aproape,
+Dacă nu Te-aș avea lângă mine?
+
+[v4]
+Eu sunt scurgerea, aburul, clipa,
+Sunt doar lutul, iar Tu ești Olarul.
+Ocrotește-mă, Doamne, cu-aripa,
+Dăltuiește-mi făptura cu harul!

@@ -1,0 +1,23 @@
+[title]
+Cum să-Ți mulțumesc pentru tot ce-am primit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3EiUdggu1DaShea3nFPdgN}, contentHash: {296067}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Cum să-Ți mulțumesc pentru tot ce-am primit?
+Eu n-am meritat, Isus iubit!
+
+[v2]
+Prin rănile Tale sunt vindecat, eliberat,
+Tu m-ai salvat!
+Prin rănile Tale viață am primit,
+Sunt mântuit prin har!
+
+[v3]
+Domnul meu, Lumina mea,
+Cerul ai deschis prin Golgota.
+
+[v4]
+Vin să-Ți mulțumesc pentru tot ce mi-ai dat,
+Eu n-am meritat, o, Miel nevinovat.
