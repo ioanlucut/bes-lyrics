@@ -17,14 +17,12 @@ De aceea-ntotdeauna,
 Cântă-I ne-ncetat.
 
 [c1.1]
-/: Cântă, cântă,
-Cântă ca David,
-Cântă, cântă,
-Cântă așa
+/: Cântă, cântă, cântă ca David,
+Cântă, cântă, cântă așa!
 
 [c1.2]
 Tot iadul, când cânți tu,
-Să se înfioare,
+Să se-nfioare,
 Să fugă vrăjmașul
 Cu toată-armata sa. :/
 
@@ -50,4 +48,4 @@ Până-n depărtări.
 Pentru Împăratul nostru
 Care-a biruit.
 Să-I cântăm cu toții:
-„Mărire”, El ne-a mântuit.
+Mărire, El ne-a mântuit.
