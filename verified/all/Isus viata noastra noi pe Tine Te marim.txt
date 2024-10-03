@@ -5,8 +5,8 @@ Isus, viața noastră, noi pe Tine Te mărim {alternative: {*}, composer: {*}, w
 v1,c,v2,c,v3,c
 
 [v1]
-Isus, viața noastră, Noi pe Tine Te mărim
-Căci prin jertfirea Ta pe cruce Noi voioși trăim!
+Isus, viața noastră, noi pe Tine Te mărim
+Căci prin jertfirea Ta pe cruce noi voioși trăim!
 Ne-ai dat în dar iertarea pentru vina ce-o purtăm,
 De-aceea Îți cântăm: aleluia!
 
