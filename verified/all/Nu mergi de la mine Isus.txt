@@ -1,5 +1,5 @@
 [title]
-Nu mergi de la mine, Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4016}, id: {ru2X2CBCbvvcmCAKcP5Dc5}, contentHash: {8ee30a}}
+Nu mergi de la mine, Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4016}, id: {ru2X2CBCbvvcmCAKcP5Dc5}, contentHash: {ca08a7}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -11,9 +11,9 @@ Spre alții verși milă de sus,
 Fă-mi și mie-așa!
 
 [c]
-„Isus, Isus!” strigă inima,
+/: „Isus, Isus!” strigă inima,
 Spre alții verși milă de sus
-Fă-mi și mie-așa!
+Fă-mi și mie-așa! :/
 
 [v2]
 Stâmpără-mă la tronul Tău,

@@ -1,5 +1,5 @@
 [title]
-Mi-am pus nadejdea-n Tine {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6960}, id: {vEt7AUteak56Z3FEsht4LK}, contentHash: {1ad678}}
+Mi-am pus nadejdea-n Tine {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6960}, id: {vEt7AUteak56Z3FEsht4LK}, contentHash: {7da7aa}}
 
 [sequence]
 v1,c,v2,c,v3,c,e
@@ -13,7 +13,7 @@ Vrăjmașii mei să nu se bucure de mine!
 [c]
 În Tine e nădejdea mea,
 În Tine e speranța mea!
-Doar prin Tine, izbăvire voi primi
+Doar prin Tine, izbăvire voi primi,
 Cu Tine ne-ncetat voi birui,
 Domnul meu!
 
@@ -24,9 +24,9 @@ Adăpost când îmi este greu!
 Tu ești Dumnezeul meu!
 
 [v3]
-/: Ești steag de biruință! :/
+/: Ești steag de biruință :/
 În lupta-nverșunată!
-/: Ești steag de biruință! :/
+/: Ești steag de biruință, :/
 Cu Tine lupta-i câștigată!
 
 [e]

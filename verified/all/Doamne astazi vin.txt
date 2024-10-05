@@ -1,5 +1,5 @@
 [title]
-Doamne, astăzi vin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2833}, id: {wRsz3ohzWbmf6xvBNyUXgu}, contentHash: {eaf462}}
+Doamne, astăzi vin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2833}, id: {wRsz3ohzWbmf6xvBNyUXgu}, contentHash: {978fb6}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -18,7 +18,7 @@ Slăbiciunile, și să cresc în iubirea Ta.
 Cheamă-mă și voi veni la Tine,
 Când sunt slab, Tu mă sprijinești.
 Ca vulturul spre ceruri mă voi înălța
-Și veșnic voi trăi, mereu voi locui prin iubirea Ta.
+Și veșnic voi trăi, mereu voi locui în iubirea Ta.
 
 [v2.1]
 Doamne, vreau să fiu
