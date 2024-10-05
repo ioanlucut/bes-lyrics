@@ -1,11 +1,11 @@
 [title]
-Când eram pândit de-o ispită {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4479}, id: {1xrNjyWU8E7d6Qamcv2mDs}, contentHash: {0e75c6}}
+Când eram pândit de ispită {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4479}, id: {1xrNjyWU8E7d6Qamcv2mDs}, contentHash: {0e75c6}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-Când eram pândit de-o ispită,
+Când eram pândit de ispită,
 Tu mi-ai dat putere-nzecită.
 Curățit e vechiul veșmânt, prin sângele sfânt.
 
