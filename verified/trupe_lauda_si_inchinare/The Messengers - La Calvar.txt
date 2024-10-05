@@ -6,7 +6,7 @@ v1.1,v1.2,c,v2.1,v2.2,c,b1.1,b1.2,c
 
 [v1.1]
 Uimit de-atâta bogăție
-Ce am găsit-o, Doamne-n Tin’,
+Ce am găsit, o, Doamne-n Tin’,
 Mă-ntreb, ce-aș fi fără de Tine
 În viața-aceasta de suspin?
 
@@ -19,8 +19,8 @@ Isus, ești fericirea mea!
 [c]
 La Calvar păcatul mi-e șters,
 La Calvar eu har primesc,
-La Calvar mântuire am în dar,
-Îți mulțumesc, Isus, pentru Calvar!
+/: La Calvar mântuire am în dar,
+Îți mulțumesc, Isus, pentru Calvar! :/
 
 [v2.1]
 Cine sunt eu să pot intra,
@@ -38,10 +38,10 @@ Veniți și voi la Golgota!
 De n-ar fi Golgota,
 N-am ști ce-i dragostea,
 N-am ști ce-s bucurii
-Și zâmbet de copii.
+Nici zâmbet de copii.
 
 [b1.2]
 Eram pierduți pe veci,
-Legați în lanțuri reci
-De moarte și păcat,
+Legați în lanțuri reci,
+În moarte și păcat,
 Dar Isus ne-a salvat.
