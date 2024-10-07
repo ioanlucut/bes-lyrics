@@ -1,5 +1,5 @@
 [title]
-În Numele Tău {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {c5fkw4Vd2Zyk2FKQWMj7HY}, contentHash: {25fe32}}
+În Numele Tău {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {c5fkw4Vd2Zyk2FKQWMj7HY}, contentHash: {a8ea13}}
 
 [sequence]
 v1,c,v2,c
