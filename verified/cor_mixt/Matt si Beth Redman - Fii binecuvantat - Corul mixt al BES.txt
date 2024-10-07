@@ -2,7 +2,7 @@
 Fii binecuvântat! {alternative: {*}, composer: {Matt și Beth Redman}, writer: {*}, arranger: {Marry Parks}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {gEyBTfrwaULJRSmYX97AcH}, contentHash: {2668d4}}
 
 [sequence]
-v1.1,v1.2,p,c,v2.1,v2.2,v2.3,p,c,b,b,c2,e
+v1.1,v1.2,v1.3,c,v2.1,v2.2,v2.3,c,b,c2,e
 
 [v1.1]
 Fii binecuvântat când pământul e săturat,
@@ -12,7 +12,7 @@ Când ploaia dă peste el, fii binecuvântat!
 Fii binecuvântat când mă aflu pe pământ uscat
 Și pășesc singur prin pustiu, fii binecuvântat!
 
-[p]
+[v1.3]
 Fiecare laudă Ție Ți-o ‘nalț,
 Când noaptea se apropie, Te voi lăuda!
 
@@ -23,7 +23,7 @@ Binecuvântăm Numele Său!
 
 [v2.1]
 Fii binecuvântat când soarele-i din nou pe cer,
-Când toate sunt cum le-ai creat, fii binecuvântat!
+Și când toate sunt cum le-ai creat, fii binecuvântat!
 
 [v2.2]
 Fii binecuvântat când drumu-i plin de suferinți,
