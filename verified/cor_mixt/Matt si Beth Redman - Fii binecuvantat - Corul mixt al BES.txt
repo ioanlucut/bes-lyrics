@@ -1,5 +1,5 @@
 [title]
-Fii binecuvântat! {alternative: {*}, composer: {Matt și Beth Redman}, writer: {*}, arranger: {Marry Parks}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {gEyBTfrwaULJRSmYX97AcH}, contentHash: {2668d4}}
+Fii binecuvântat! {alternative: {*}, composer: {Matt și Beth Redman}, writer: {*}, arranger: {Marry Parks}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {gEyBTfrwaULJRSmYX97AcH}, contentHash: {9a470c}}
 
 [sequence]
 v1.1,v1.2,v1.3,c,v2.1,v2.2,v2.3,c,b,c2,e
