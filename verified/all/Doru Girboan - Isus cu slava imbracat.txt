@@ -1,5 +1,5 @@
 [title]
-Isus, cu slavă îmbrăcat {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {119094}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}, contentHash: {7a2537}}
+Isus, cu slavă îmbrăcat {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {119094}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}, contentHash: {d18cd4}}
 
 [sequence]
 v1,c,v2,c,v3,c,c2.1,c2.2,c

@@ -1,5 +1,5 @@
 [title]
-Gustați și vedeți cât de bun este Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {4Bg3pSsLvL5ts8fCQ8tgxX}, contentHash: {2e437a}}
+Gustați și vedeți cât de bun este Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {4Bg3pSsLvL5ts8fCQ8tgxX}, contentHash: {f35a9c}}
 
 [sequence]
 v1,v2,c1.1,c1.2,v3,v4,c1.1,c1.2
