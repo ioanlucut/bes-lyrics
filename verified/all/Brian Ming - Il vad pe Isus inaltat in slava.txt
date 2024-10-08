@@ -2,7 +2,7 @@
 Îl văd pe Isus, înălțat în slavă {alternative: {Onto the Lamb}, composer: {Brian Ming}, writer: {*}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
 
 [sequence]
-v1,c1,c2,v1,c1,c3,b,v2,b,c3,e
+v1,c,c2,v1,c1,c3,b,v2,b,c3,e
 
 [v1]
 Îl văd pe Isus, înălțat în slavă,
@@ -10,7 +10,7 @@ Ochii mei spre El privesc și fața Lui o zăresc.
 Îl văd pe Isus, îmbrăcat în slavă,
 Pe tron El e înălțat, iar mantia-I umple Templul.
 
-[c1]
+[c]
 Și îngerii-n cor Îi cântă glorie,
 Toți cei sfinți Îi cântă glorie,
 Tot pământu-I cântă glorie,
