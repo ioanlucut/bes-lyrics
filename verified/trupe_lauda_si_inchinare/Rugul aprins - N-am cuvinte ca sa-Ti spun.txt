@@ -8,26 +8,19 @@ v1,c,v2,c,v3,c
 N-am cuvinte ca să-Ți spun,
 Cât ești Tu, Doamne, de bun,
 Te-ai plecat spre min’, m-ai mântuit,
-Mi-ai luat povara grea,
-Ai dus-o la Golgota
+Mi-ai luat povara grea, ai dus-o la Golgota
 Și mi-ai dat în schimb pacea Ta.
 
 [c]
-/: Tu ești Cel mai minunat,
-Ești al lumii Împărat,
-De aceea eu Îți cânt,
-Slavă ne-ncetat!
-Dai lumină zorilor,
-Strălucire stelelor,
-Nimeni-n lume nu-i ca Tine,
-Puternic, Dumnezeu! :/
+/: Tu ești Cel mai minunat, ești al lumii Împărat,
+De aceea eu Îți cânt slavă ne-ncetat!
+Dai lumină zorilor, strălucire stelelor,
+Nimeni-n lume nu-i ca Tine, puternic, Dumnezeu! :/
 
 [v2]
-Fericit eu am să-Ți cânt
-Cât voi trăi pe pământ,
+Fericit eu am să-Ți cânt cât voi trăi pe pământ,
 De iubirea ce mi-ai arătat.
-Niciodată singur nu-s,
-Sunt pe brațul Tău, Isus,
+Niciodată singur nu-s, sunt pe brațul Tău, Isus,
 M-ai luat pe veci în mâna Ta.
 
 [v3]

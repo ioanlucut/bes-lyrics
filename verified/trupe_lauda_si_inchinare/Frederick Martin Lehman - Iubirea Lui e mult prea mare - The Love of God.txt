@@ -5,7 +5,8 @@ Iubirea Lui e mult prea mare {alternative: {The Love of God}, composer: {Frederi
 v1,c,v2,c,v3,c
 
 [v1]
-Iubirea Lui e mult prea mare în vorbe simple s-o descrii,
+Iubirea Lui e mult prea mare
+În vorbe simple s-o descrii,
 Mai sus de orice stea răsare și-n adâncimi o poți găsi.
 ‘Naintea Lui când vii și-I spui păcatul tău murdar,
 El, prin Isus, îți dă de sus iertare-n al Său har.
@@ -16,12 +17,14 @@ Cântarea noastră minunată în veci lui Dumnezeu. :/
 
 [v2]
 Coroane, tronuri au să cadă când ziua mare va suna
-Și cei ce azi nu vor să creadă la munți atunci vor alerga.
+Și cei ce azi nu vor să creadă
+La munți atunci vor alerga.
 Dar dragostea în veci va sta! O, Doamne, Tu nu treci!
 Și-n al Tău har fără hotar noi vom trăi în veci.
 
 [v3]
 Cu apa mării de am scrie iubirea Lui pe ceru-ntins
-Și orice om de-ar vrea să fie-un scrib pe-al slavei necuprins,
+Și orice om de-ar vrea să fie-un scrib
+Pe-al slavei necuprins,
 Dar tot n-ar fi destul să scrii, căci mările-ar seca,
 Din veșnicii în veșnicii se-ntinde dragostea.
