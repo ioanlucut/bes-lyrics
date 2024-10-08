@@ -1,5 +1,5 @@
 [title]
-În valea cu umbrele morții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2PfyerRigC7NwzwVqUbqrJ}, contentHash: {057340}}
+În valea cu umbrele morții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2PfyerRigC7NwzwVqUbqrJ}, contentHash: {b6fd95}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -23,7 +23,7 @@ Mi-e dor de-al meu Părinte, ce-n cer mă va primi,
 Mi-e dor de noua casă în care voi locui!
 
 [v2.1]
-Chair dacă trăiesc într-o lume
+Chiar dacă trăiesc într-o lume
 Ce-i plină de-amar și păcat,
 În inimă am fericirea
 Ce Isus prin moartea-I mi-a dat.

@@ -1,8 +1,8 @@
 [title]
-Îl văd pe Isus, înălțat în slavă {alternative: {Onto the Lamb}, composer: {Brian Ming}, writer: {*}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Îl văd pe Isus, înălțat în slavă {alternative: {Onto the Lamb}, composer: {Brian Ming}, writer: {*}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6ENAHaVFuaWc7pdFhf3rSK}, contentHash: {a19955}}
 
 [sequence]
-v1,c,c2,v1,c1,c3,b,v2,b,c3,e
+v1,c,c2,v1,c,c3,b,v2,b,c3,e
 
 [v1]
 Îl văd pe Isus, înălțat în slavă,

@@ -1,5 +1,5 @@
 [title]
-Te prind fiori, te simți murdar {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Te prind fiori, te simți murdar {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bknGWQXJrM2c1ek7mNzucC}, contentHash: {e34641}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
