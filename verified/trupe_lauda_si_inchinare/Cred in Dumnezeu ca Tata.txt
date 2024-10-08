@@ -1,5 +1,5 @@
 [title]
-Cred în Dumnezeu ca Tată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {65663}, id: {szVrUGAz9ruYREzxrGnmR1}, contentHash: {e13f64}}
+Cred în Dumnezeu ca Tată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {65663}, id: {szVrUGAz9ruYREzxrGnmR1}, contentHash: {0c0135}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c,e
@@ -12,7 +12,8 @@ De aceea alerg la tronul Său.
 
 [v1.2]
 Cred că Isus a fost jertfă, pe un lemn crucificat,
-Și-n mormânt, lângă Golgota, trupul I-a fost îngropat.
+Și-n mormânt, lângă Golgota,
+Trupul I-a fost îngropat.
 Cred că a-nviat precum a zis și viu S-a arătat,
 De aceea, la El am alergat.
 
@@ -23,7 +24,8 @@ Nu-mi va fi deloc rușine să afirm că sunt creștin.
 Voi sluji mereu prin harul Său divin. :/
 
 [v2.1]
-Cred Cuvântul care spune: trebuie să te naști din nou,
+Cred Cuvântul care spune:
+Trebuie să te naști din nou,
 Viața veche e spălată și totul este nou.
 Cred că dragostea lui Dumnezeu se va descoperi,
 De aceea și mai mult Îl voi sluji.
@@ -31,7 +33,8 @@ De aceea și mai mult Îl voi sluji.
 [v2.2]
 Cred că este-un bine și un rău, te naști și apoi mori.
 Cred că Biblia este harta spre-ale cerului comori,
-Cred că nu sunt singur în Hristos, pe mulți El ne-a salvat,
+Cred că nu sunt singur în Hristos,
+Pe mulți El ne-a salvat,
 De aceea credință I-am jurat.
 
 [e]

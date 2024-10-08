@@ -1,5 +1,5 @@
 [title]
-Doamne, Tu ești bucuria mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1f4fjamJZgFMRCsd4VnFMV}, contentHash: {ea4cd2}}
+Doamne, Tu ești bucuria mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1f4fjamJZgFMRCsd4VnFMV}, contentHash: {eeb48c}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -10,7 +10,7 @@ Doamne, Tu ești izbăvirea mea,
 Cuvântul Tău este o lumină pe calea mea.
 
 [v1.2]
-Îmi pun nădejdea în Dumnezeu,
+Îmi pun nădejdea în Tine mereu,
 Numai Tu ești ajutorul meu,
 Ești mântuirea, ești adăpostul, ești Domnul meu.
 

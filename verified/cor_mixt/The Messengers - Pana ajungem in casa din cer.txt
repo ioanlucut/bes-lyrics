@@ -1,5 +1,5 @@
 [title]
-Până ajungem în casa din cer {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {The Messengers}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {83eDPJSXG5DLbm3cH25Dws}, contentHash: {4bda46}}
+Până ajungem în casa din cer {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {The Messengers}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {83eDPJSXG5DLbm3cH25Dws}, contentHash: {cc3ae5}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -23,5 +23,7 @@ Firul de păr știe când nu-l mai ai,
 Gândul și teama ce-o ai.
 
 [v3]
-Pacea divină, venită de sus, în inimă, de la Isus,
-Domnească-n mintea și sufletul tău, copil iubit al Său.
+Pacea divină, venită de sus,
+În inimă, de la Isus,
+Domnească-n mintea și sufletul tău,
+Copil iubit al Său.
