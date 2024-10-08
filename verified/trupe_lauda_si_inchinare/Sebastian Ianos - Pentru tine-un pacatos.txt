@@ -1,5 +1,5 @@
 [title]
-Pentru tine-un păcătos {alternative: {*}, composer: {Sebastian Ianoș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jZUXVuHpicurhnx6oF8mKM}, contentHash: {45abc4}}
+Pentru tine-un păcătos {alternative: {*}, composer: {Sebastian Ianoș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jZUXVuHpicurhnx6oF8mKM}, contentHash: {fffe33}}
 
 [sequence]
 v1,c,v2,c
@@ -11,10 +11,10 @@ A murit pe lemnul crucii ca noi toți să fim salvați
 De-ale noastre păcate.
 
 [c]
-Este greu, da, este greu să trăiești făr’ Dumnezeu,
+/: Este greu, da, este greu să trăiești făr’ Dumnezeu,
 Dar, te rog, nu te uita la viața ta cea grea,
 Uită-te doar la Isus, ce pe cruce a fost pus
-Ca să moară pentru tine!
+Ca să moară pentru tine! :/
 
 [v2]
 Căci acum, când tu dorești, pe Isus ca să-L primești,

@@ -1,5 +1,5 @@
 [title]
-Un cântec răsună în inima mea {alternative: {*}, composer: {L. Kings}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fAavTwypdwEGx3pD2TzN3Q}, contentHash: {11c9f2}}
+Un cântec răsună în inima mea {alternative: {*}, composer: {L. Kings}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fAavTwypdwEGx3pD2TzN3Q}, contentHash: {2bdd16}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4
@@ -24,7 +24,7 @@ Să-Ți spun vreau mereu: Te iubesc!
 
 [c2]
 Nicicând n-oi uita de dragostea Ta,
-Căci jertfă Te-ai dat pentru mine,
+Ca jertfă Te-ai dat pentru mine,
 Cumplitu-mi păcat pe veci mi l-a spălat
 Al Tău sânge nevinovat.
 

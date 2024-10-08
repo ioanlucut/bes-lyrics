@@ -1,0 +1,53 @@
+[title]
+Te prind fiori, te simți murdar {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bknGWQXJrM2c1ek7mNzucC}, contentHash: {e34641}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Te prind fiori, te simți murdar,
+Te-a prins păcatul la răscruce.
+/: Și tu nu știi, copil fugar,
+Că-am fost lovit cu-atât amar
+Și-am stat, în locul tău, pe cruce?
+Și-am stat, în locul tău, pe cruce? :/
+
+[v2]
+Te uiți la cer, te simți zdrobit,
+Nu-i nimenea să te-nțeleagă!
+/: Și tu nu știi, n-ai auzit
+Că, pentru tot ce-ai săvârșit,
+Eu am plătit pedeapsa-ntreagă?
+Eu am plătit pedeapsa-ntreagă? :/
+
+[v3]
+O, cât ai vrea să fii curat
+Și să începi o viață nouă!
+/: Și tu nu știi, tu n-ai aflat
+Că pentru tine Mi-am lăsat
+Străpunse mâinile-amândouă?
+Străpunse mâinile-amândouă? :/
+
+[v4]
+Ți-a spus un duh neînțelept
+Că nu mai poți găsi iubire.
+/: Și tu nu știi că tot ce-aștept
+E doar să vii, să-mi cazi la piept
+Cu un cuvânt de mulțumire?
+Cu un cuvânt de mulțumire? :/
+
+[v5]
+Ce fericiți sunt frații mei,
+Toți cei iertați de fapte rele!
+/: Și tu nu știi și tu nu vrei
+Să-ntinzi doar mâna și să iei
+Ofranda îndurării mele!
+Ofranda îndurării mele! :/
+
+[v6]
+O, vino, dar, te chem să vii,
+Să-ți iei din mâna Mea cununa!
+/: Și-atunci vei știi ce azi nu știi:
+Că-ai fost al Meu din veșnicii,
+Și ești al Meu pe totdeauna!
+Și ești al Meu pe totdeauna! :/

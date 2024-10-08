@@ -1,5 +1,5 @@
 [title]
-Să știe tot pământul {alternative: {*}, composer: {Vali Pentea Sava}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5203}, id: {7fZ37f5s79AxDZ4KecJKWZ}, contentHash: {9bc861}}
+Să știe tot pământul {alternative: {*}, composer: {Vali Pentea Sava}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5203}, id: {7fZ37f5s79AxDZ4KecJKWZ}, contentHash: {01e45f}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -12,7 +12,7 @@ Că are-un Creator. :/
 
 [c]
 Și acest Stăpân este Dumnezeu,
-Care pe toate le-a creat prin puterea Sa.
+Care toate le-a creat prin puterea Sa.
 Și acest Stăpân este Dumnezeu,
 De aceea Lui mă-nchin
 Și-L preamăresc!

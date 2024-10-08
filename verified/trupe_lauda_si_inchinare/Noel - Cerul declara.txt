@@ -1,5 +1,5 @@
 [title]
-Cerul declară {alternative: {*}, composer: {Noel}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4091}, id: {6UMYp9AtKHKXsBfKnt9hUq}, contentHash: {b2b508}}
+Cerul declară {alternative: {*}, composer: {Noel}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4091}, id: {6UMYp9AtKHKXsBfKnt9hUq}, contentHash: {c411c6}}
 
 [sequence]
 v1,c,v2,c
@@ -9,8 +9,8 @@ Cerul declară gloria Celui înviat.
 Ce se compară cu frumusețea Domnului?
 
 [c]
-În veci de veci ești Tu, Divinul Miel pe tron,
-Genunchii îmi aplec și Ție mă închin.
+/: În veci de veci ești Tu, Divinul Miel pe tron,
+Genunchii îmi aplec și Ție mă închin. :/
 
 [v2]
 Voi proclama gloria Celui înviat,
