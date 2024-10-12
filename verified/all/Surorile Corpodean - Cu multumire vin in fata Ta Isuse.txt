@@ -1,12 +1,12 @@
 [title]
-Cu mulțumire vin în fața Ta, Isuse {alternative: {*}, composer: {Surorile Corpodean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74504}, id: {7DmtiUS5RfR4NCexevtUiL}, contentHash: {dc5a6a}}
+Cu mulțumire vin în fața Ta, Isuse {alternative: {*}, composer: {Surorile Corpodean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74504}, id: {7DmtiUS5RfR4NCexevtUiL}, contentHash: {2a9dda}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c2.1,c2.2
 
 [v1]
 Cu mulțumire vin în fața Ta, Isuse,
-Și vreau să-Ți cânt, c-atâta bine mi-ai făcut!
+Și vreau să-Ți cânt, că-atâta bine mi-ai făcut!
 Mi-ai dat iertare, pace-adâncă, fericire,
 Și mult mai mult decât vreodată am cerut.
 

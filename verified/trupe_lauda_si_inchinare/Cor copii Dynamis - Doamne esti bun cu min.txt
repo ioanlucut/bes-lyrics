@@ -1,8 +1,8 @@
 [title]
-Doamne, ești bun cu min’ {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gDw7uS9enyBSRkFhkv8N48}, contentHash: {7c5d02}}
+Doamne, ești bun cu min’ {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gDw7uS9enyBSRkFhkv8N48}, contentHash: {d0e0d4}}
 
 [sequence]
-c,v1,c2,c,v2,e,c
+c,v1,c2,c,v2,v3,e
 
 [c]
 /: Doamne, ești bun cu min’,
@@ -24,9 +24,13 @@ De la Tine mântuire am primit
 Fiindc-atât de mult Isuse m-ai iubit!
 Pentru toate vreau să-Ți spun:
 
-[e]
+[v3]
 /: Mulțumesc pentru ce mi-ai dat!
 Mulțumesc pentru ce îmi dai!
 Un zâmbet am pe chipul meu
 De-aceea-Ți voi cânta mereu! :/ (4x)
 /: Voi cânta mereu! :/
+
+[e]
+Doamne, ești bun cu min’,
+Tu-mi dai mai mult decât mi-am dorit.

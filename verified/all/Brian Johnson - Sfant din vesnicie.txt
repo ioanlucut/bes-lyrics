@@ -1,5 +1,5 @@
 [title]
-Sfânt din veșnicie {alternative: {*}, composer: {Brian Johnson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eTZVV7JmFf5WnH5XVyGfr4}, contentHash: {a0bb91}}
+Sfânt din veșnicie {alternative: {*}, composer: {Brian Johnson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eTZVV7JmFf5WnH5XVyGfr4}, contentHash: {dcf95c}}
 
 [sequence]
 v1,p,c,v2,c,c2,p,p,c2,c2,e
@@ -17,8 +17,9 @@ De orice-mpărăție, de orice stăpânire,
 Tu ești mai presus de toți.
 
 [c]
-Cântă îngerii: sfânt ești, universu-ntreg: sfânt ești,
-Tu ești înălțat, sfânt ești din veșnicie!
+/: Cântă îngerii: sfânt ești,
+Universu-ntreg: sfânt ești,
+Tu ești înălțat, sfânt ești din veșnicie! :/
 
 [v2]
 Dacă ai primit iertarea și ai fost răscumpărat,
@@ -28,8 +29,9 @@ Cântă azi cântarea Mielului!
 Vom cânta pe veci cântarea Mielului!
 
 [c2]
-Noi cântăm acum: sfânt ești, Rege-al regilor, sfânt ești,
-Tu ești înălțat, sfânt ești, din veșnicie!
+/: Noi cântăm acum: sfânt ești,
+Rege-al regilor, sfânt ești,
+Tu ești înălțat, sfânt ești, din veșnicie! :/
 
 [e]
 Tu ești înălțat, sfânt ești, din veșnicie!
