@@ -1,5 +1,5 @@
 [title]
-Chiar daca muntii {alternative: {*}, composer: {Diana Scridon}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {210581}, id: {mSrCgCUxHZWWxjJZe36LWE}, contentHash: {693aab}}
+Chiar daca muntii {alternative: {*}, composer: {Diana Scridon}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {210581}, id: {mSrCgCUxHZWWxjJZe36LWE}, contentHash: {b2ec05}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

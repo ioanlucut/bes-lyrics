@@ -1,5 +1,5 @@
 [title]
-Mai bine simpli și smeriți {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6920}, id: {jNEAgZyiVEX7yu2rLBU5YB}, contentHash: {f919e2}}
+Mai bine simpli și smeriți {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6920}, id: {jNEAgZyiVEX7yu2rLBU5YB}, contentHash: {8aa1a3}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -24,4 +24,4 @@ M-ai iubit și încă mă iubești. :/
 Niciodată, Doamne, nu m-ai părăsit,
 Ai fost lângă mine-n încercări.
 /: M-ai iertat și-atunci când Ți-am greșit,
-Am văzut a Tale îndurări.
+Am văzut a Tale îndurări. :/

@@ -1,5 +1,5 @@
 [title]
-Ai ales piroane și spini {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4301}, id: {sJ5MB61Q5RtW5AuhBJjgvx}, contentHash: {e00687}}
+Ai ales piroane și spini {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4301}, id: {sJ5MB61Q5RtW5AuhBJjgvx}, contentHash: {51ec6b}}
 
 [sequence]
 v1,c,v2,c,b,c,e
@@ -30,4 +30,4 @@ Dar a treia zi, ai înviat, ai înviat, ai înviat.
 
 [e]
 Hai, alege chiar acum cerul Său minunat,
-Da, alege chiar acum cerul Său minunat.
+Da, alege chiar acum cerul Său minunat!

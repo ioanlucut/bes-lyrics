@@ -1,5 +1,5 @@
 [title]
-Isus, iubire curată {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {57712}, id: {jmVBaNDFQiZ82CqVv7Jt8K}, contentHash: {279ffa}}
+Isus, iubire curată {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {57712}, id: {jmVBaNDFQiZ82CqVv7Jt8K}, contentHash: {06b9c3}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c
 [v1]
 Să am tot ce privirea mi-ar cere și-ar pofti
 Și toată strălucirea atâtor bogății,
-Să fiu ‘n-orice privință în viață împlinit
+Să fiu ‘n-orice privință în viață împlinit,
 De n-aș avea credință aș fi un nenorocit.
 
 [c]
