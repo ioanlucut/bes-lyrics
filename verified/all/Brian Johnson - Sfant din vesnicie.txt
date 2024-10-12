@@ -17,8 +17,9 @@ De orice-mpărăție, de orice stăpânire,
 Tu ești mai presus de toți.
 
 [c]
-Cântă îngerii: sfânt ești, universu-ntreg: sfânt ești,
-Tu ești înălțat, sfânt ești din veșnicie!
+/: Cântă îngerii: sfânt ești,
+Universu-ntreg: sfânt ești,
+Tu ești înălțat, sfânt ești din veșnicie! :/
 
 [v2]
 Dacă ai primit iertarea și ai fost răscumpărat,
@@ -28,8 +29,9 @@ Cântă azi cântarea Mielului!
 Vom cânta pe veci cântarea Mielului!
 
 [c2]
-Noi cântăm acum: sfânt ești, Rege-al regilor, sfânt ești,
-Tu ești înălțat, sfânt ești, din veșnicie!
+/: Noi cântăm acum: sfânt ești,
+Rege-al regilor, sfânt ești,
+Tu ești înălțat, sfânt ești, din veșnicie! :/
 
 [e]
 Tu ești înălțat, sfânt ești, din veșnicie!

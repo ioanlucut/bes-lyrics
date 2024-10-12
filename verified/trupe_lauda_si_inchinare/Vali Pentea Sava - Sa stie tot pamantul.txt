@@ -5,26 +5,19 @@ Să știe tot pământul {alternative: {*}, composer: {Vali Pentea Sava}, writer
 v1,c,v2,c,v3,c
 
 [v1]
-/: Să știe tot pământul
-Că are un Stăpân,
-Să știe-ntreaga lume
-Că are-un Creator. :/
+/: Să știe tot pământul că are un Stăpân,
+Să știe-ntreaga lume că are-un Creator. :/
 
 [c]
+/: Și acest Stăpân este Dumnezeu,
+Care toate le-a creat prin puterea Sa.
 Și acest Stăpân este Dumnezeu,
-Care pe toate le-a creat prin puterea Sa.
-Și acest Stăpân este Dumnezeu,
-De aceea Lui mă-nchin
-Și-L preamăresc!
+De aceea Lui mă-nchin și-L preamăresc! :/
 
 [v2]
-/: Să știi chiar și tu, omule,
-Că ai un Creator,
-Ce grija ta o poartă
-Și-ți vine-n ajutor. :/
+/: Să știi chiar și tu, omule, că ai un Creator,
+Ce grija ta o poartă și-ți vine-n ajutor. :/
 
 [v3]
-/: Oare Îi mulțumești de-ajuns
-Acestui bun Stăpân?
-Prin viața ta Îi dovedești
-Că Îl iubești și tu? :/
+/: Oare Îi mulțumești de-ajuns Acestui bun Stăpân?
+Prin viața ta Îi dovedești că Îl iubești și tu? :/
