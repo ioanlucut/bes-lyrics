@@ -1,0 +1,35 @@
+[title]
+Venim, venim cu jertfa bucuriei {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Venim, venim cu jertfa bucuriei,
+Venim să Te slăvim,
+Cu toți cei dragi în fața măreției,
+Preasfinte Domn divin.
+
+[c]
+Cântări de laudă, cântări de slavă
+Pentru Domnul că ne-a mântuit,
+Cântări de laudă, cântări de slavă,
+Mare-i Domnul nostru preaiubit!
+
+[v2]
+Ești Domn, ești Domn și meriți mulțumirea,
+Osana, glorie, amin!
+Nu vom tăcea și-Ți vom cânta mărirea
+Și-n mulțumiri Te proslăvim!
+
+[v3]
+Privim, privim cum se-mplinește Biblia,
+E forfotă și teamă de război,
+Ne chemi și azi să nu se-nchidă ușa,
+Să fim la nunta sfântă, sus în nori.
+
+[v4]
+Curând, curând pleca-vom către soare,
+Pământule, vei rămânea!
+Cu imnuri sfinte vom intra în slavă,
+Pe marea cea de sticlă vom cânta!
