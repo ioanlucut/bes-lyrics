@@ -1,5 +1,5 @@
 [title]
-La Tine, Doamne {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5278}, id: {u7TFcgtYjEcVfuTTFdnZCA}, contentHash: {73a449}}
+La Tine, Doamne {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5278}, id: {u7TFcgtYjEcVfuTTFdnZCA}, contentHash: {2c5c5a}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -8,7 +8,8 @@ v1,c,v2,c,v3,c,v4,c
 /: La Tine, Doamne, îmi înalț sufletul. :/
 
 [c]
-/: Domnul meu, mă-ncred în Tine să nu fiu dat de rușine,
+/: Domnul meu, mă-ncred în Tine
+Să nu fiu dat de rușine,
 Cel rău să nu se bucure de mine! :/
 
 [v2]

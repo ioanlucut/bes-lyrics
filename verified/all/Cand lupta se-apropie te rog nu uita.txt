@@ -1,5 +1,5 @@
 [title]
-Când lupta se-apropie, te rog, nu uita {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {202119}, id: {1oi2KDy6s2F7GCfUrNYnfh}, contentHash: {82d77b}}
+Când lupta se-apropie, te rog, nu uita {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {202119}, id: {1oi2KDy6s2F7GCfUrNYnfh}, contentHash: {1c2856}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -14,7 +14,7 @@ Războiul e al Domnului!
 Tu cântă-I glorie, laudă,
 Puterea e numai a Lui!
 Tu cântă-I glorie, laudă,
-Onoare și cinste adui!
+Onoare și cinste adu-I!
 
 [v2]
 Armură de slavă să-mbraci, dar să știi:
@@ -25,5 +25,5 @@ Războiul e al Domnului!
 [v3]
 În mijlocul luptei, tu cântă mereu:
 „Războiul e al Domnului!”,
-Căci în fruntea oștirii e chiar Dumnezeu,
+Că în fruntea oștirii e chiar Dumnezeu,
 Războiul e al Domnului!

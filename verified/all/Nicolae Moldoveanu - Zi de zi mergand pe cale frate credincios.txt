@@ -1,5 +1,5 @@
 [title]
-Zi de zi, mergând pe cale, frate credincios {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4132}, id: {eUFMwkdDsGLoEG8VhH7iEs}, contentHash: {eced39}}
+Zi de zi, mergând pe cale, frate credincios {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4132}, id: {eUFMwkdDsGLoEG8VhH7iEs}, contentHash: {91e7e1}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
@@ -17,14 +17,12 @@ De aceea-ntotdeauna,
 Cântă-I ne-ncetat.
 
 [c1.1]
-/: Cântă, cântă,
-Cântă ca David,
-Cântă, cântă,
-Cântă așa
+/: Cântă, cântă, cântă ca David,
+Cântă, cântă, cântă așa!
 
 [c1.2]
 Tot iadul, când cânți tu,
-Să se înfioare,
+Să se-nfioare,
 Să fugă vrăjmașul
 Cu toată-armata sa. :/
 
@@ -50,4 +48,4 @@ Până-n depărtări.
 Pentru Împăratul nostru
 Care-a biruit.
 Să-I cântăm cu toții:
-„Mărire”, El ne-a mântuit.
+Mărire, El ne-a mântuit.
