@@ -1,5 +1,5 @@
 [title]
-Ne vom aduce mereu aminte {alternative: {*}, composer: {Tommy Walker}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157566}, id: {pGw6wDG2zaDZkkL8PCL28Q}, contentHash: {27e25c}}
+Ne vom aduce mereu aminte {alternative: {*}, composer: {Tommy Walker}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157566}, id: {pGw6wDG2zaDZkkL8PCL28Q}, contentHash: {f36363}}
 
 [sequence]
 c,v1,v2,c,v3,b,c,v4,c

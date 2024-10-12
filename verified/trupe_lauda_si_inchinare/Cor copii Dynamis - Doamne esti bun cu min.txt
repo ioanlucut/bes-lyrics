@@ -1,5 +1,5 @@
 [title]
-Doamne, ești bun cu min’ {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gDw7uS9enyBSRkFhkv8N48}, contentHash: {7c5d02}}
+Doamne, ești bun cu min’ {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gDw7uS9enyBSRkFhkv8N48}, contentHash: {d0e0d4}}
 
 [sequence]
 c,v1,c2,c,v2,v3,e
