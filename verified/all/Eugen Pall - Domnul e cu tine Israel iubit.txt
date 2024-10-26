@@ -1,0 +1,35 @@
+[title]
+Domnul e cu tine, Israel iubit {alternative: {*}, composer: {Eugen Pall}, writer: {Eugen Pall}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5656}, id: {pPvhuuPYuCtfz5euRJEYRo}, contentHash: {c74a35}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+Domnul e cu tine, Israel iubit,
+Ce-a promis El duce până la sfârșit!
+Mâna Lui vei vedea cum lucra-va azi,
+Mergi cu El înainte, mergi ca un viteaz!
+
+[v1]
+Ce putere poartă sub pecetea Sa?
+Cuvântul ce îl spune sfântă Biblia.
+Tu vei crede pe deplin convins,
+Vei vedea pe Domnul, Cel ce e neînvins.
+
+[v2]
+Prin furtuni, în viață, oamenii-s învinși,
+Și în dureri și grijuri lumea i-a cuprins.
+Cei ce sunt în lume privesc disperați,
+Noi privim la Domnul și suntem salvați.
+
+[v3]
+Bizuiți pe Domnul, pe Sfântul Cuvânt,
+Bazați pe credința în sfântul legământ,
+Tot ce Îi cerem, El azi ne va da,
+Căci la El sunt toate, sunt în mâna Sa.
+
+[v4]
+Toți să îmi stea împotrivă, marea în spume chiar,
+Nu mă tem, căci astăzi sunt sub dreapta Sa.
+El mă ocrotește, El îmi e ajutor,
+Tot El mă va scoate în veci biruitor.

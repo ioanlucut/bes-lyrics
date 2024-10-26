@@ -1,5 +1,5 @@
 [title]
-Destinul tău e să învingi {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {886}, id: {sjyHimJ3d87VCJyC24RUmA}, contentHash: {96a026}}
+Destinul tău e să învingi {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {886}, id: {sjyHimJ3d87VCJyC24RUmA}, contentHash: {ee7527}}
 
 [sequence]
 v1,c,v2,c
@@ -20,7 +20,7 @@ Când vom vedea toți pe Isus. :/
 
 [v2]
 Deci să te porți cum e cinstit,
-De Tatăl tău ce te-a iubit
+Cu Tatăl tău ce te-a iubit
 Și te-a plătit cu mare preț, să știi.
 „Pe brațul Meu Eu te-am purtat
 Și-am să te port neîncetat.”,
