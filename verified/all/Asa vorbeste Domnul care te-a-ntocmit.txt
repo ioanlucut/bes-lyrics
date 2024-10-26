@@ -1,5 +1,5 @@
 [title]
-Așa vorbește Domnul care te-a-ntocmit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2118}, id: {tZrgGhyg44saaEBmK4xLYp}, contentHash: {43d7a8}}
+Așa vorbește Domnul care te-a-ntocmit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2118}, id: {tZrgGhyg44saaEBmK4xLYp}, contentHash: {cf411a}}
 
 [sequence]
 v1,c,v2,c,v3,c

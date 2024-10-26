@@ -1,5 +1,5 @@
 [title]
-Sunt un bulgăraș prea mic {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {icsGfFmdrP3eAWXE2iEvZt}, contentHash: {00a02f}}
+Sunt un bulgăraș prea mic {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {icsGfFmdrP3eAWXE2iEvZt}, contentHash: {62dc88}}
 
 [sequence]
 v1,v2,v3,v4,v5
