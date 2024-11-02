@@ -1,5 +1,5 @@
 [title]
-Ce dar nemeritat {alternative: {This Is Amazing Grace}, composer: {Philip Wickham; Josh Farro & Jeremy Riddle}, writer: {Philip Wickham; Josh Farro & Jeremy Riddle; Florin Mesaroș & BBSO}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157503}, id: {nHthZYKc8ivr5Km5APbsqf}, contentHash: {854dfc}}
+Ce dar nemeritat {alternative: {This Is Amazing Grace}, composer: {Philip Wickham; Josh Farro & Jeremy Riddle}, writer: {Philip Wickham; Josh Farro & Jeremy Riddle; Florin Mesaroș & BBSO}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157503}, id: {nHthZYKc8ivr5Km5APbsqf}, contentHash: {5d233a}}
 
 [sequence]
 v1,c,v2,c,b,c
@@ -16,7 +16,7 @@ E Domnul gloriei, e Domnul domnilor!
 Ce dar nemeritat să pot să fiu salvat!
 În ceasul cel mai greu ai luat păcatul meu,
 Moartea ai biruit ca eu să fiu sfințit.
-Astăzi cânt liber, Isus m-a mântuit!
+Astăzi cânt liber, Isus m-ai mântuit!
 
 [v2]
 Cine mai poate azi să ridice

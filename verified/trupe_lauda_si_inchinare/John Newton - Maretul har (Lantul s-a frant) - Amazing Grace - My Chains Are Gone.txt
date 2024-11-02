@@ -1,5 +1,5 @@
 [title]
-Mărețul har (Lanțul s-a frânt) {alternative: {Amazing Grace; My Chains Are Gone}, composer: {John Newton}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4490}, id: {r9D7zp45VXBgajrY4dAUJU}, contentHash: {73b1ea}}
+Mărețul har (Lanțul s-a frânt) {alternative: {Amazing Grace; My Chains Are Gone}, composer: {John Newton}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4490}, id: {r9D7zp45VXBgajrY4dAUJU}, contentHash: {d5fe58}}
 
 [sequence]
 v1,v2,c,v3,v4,c,e
@@ -14,7 +14,7 @@ De moarte m-a scăpat. :/
 Mărețul har m-a învățat
 S-o rup cu orice rău.
 /: Ce scump mi-e azi tot harul dat,
-Trăiesc prin El mereu. :/
+Trăiesc prin el mereu. :/
 
 [c]
 /: Lanțul s-a frânt, azi liber sunt,
