@@ -1,0 +1,53 @@
+[title]
+Biserica-i zidită pe o Stâncă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Biserica-i zidită pe o Stâncă,
+Nu poate niciun rău să o înfrângă.
+/: Apostolii, prorocii-s temelia,
+Iar piatra unghiulară e Mesia. :/
+
+[v2]
+Biserica e turma ce de veacuri
+A triumfat indiferent de-atacuri.
+/: Nici leii, leoparzii sau vreo fiară
+N-au reușit s-o facă să dispară. :/
+
+[v3]
+Hristos e cap, Biserica e trupul,
+E-un tot unit așa precum e trupul.
+/: Prin post, prin rugăciune și smerire
+Lucrarea e urmată de zidire. :/
+
+[v4]
+Biserica-i oștirea ce se luptă,
+Adeseori de lupte pare-nfrântă.
+/: Făclia ei nicicând nu se va stinge,
+Nici poarta iadului n-o poate-nvinge. :/
+
+[v5]
+/: Biserica-i un far luminător,
+Biserica e via, e ogorul.
+Ea trebuie de sus să lumineze
+Ca mulți pe Domnul vieții să-L urmeze. :/
+
+[v6]
+Arena, jugul, lagărul, tortura
+N-au reușit să-i ia din mâini Scriptura.
+/: De două mii de ani cu ea-i Păstorul,
+Domnul Isus Hristos, biruitorul. :/
+
+[v7]
+Biserica e scumpa Lui mireasă,
+De-aceea prin tărie e aleasă.
+/: Cu drag așteaptă Mirele să vină
+S-o ducă-n strălucirea Lui divină. /:
+
+[v8]
+Biserică fii sfântă în trăire,
+Păstrează legământul cu iubire
+/: Prin tot ce faci, prin rugă și prin cânt,
+Căci vine al tău Mire în curând! /:

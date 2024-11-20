@@ -1,0 +1,41 @@
+[title]
+Dacă sufletul îți e apăsat {alternative: {*}, composer: {The Messengers}, writer: {Dan Damian}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,c2.1,c2.2,c
+
+[v1.1]
+Dacă sufletul îți e apăsat
+De povara grea și de păcat,
+Simți condamnare, dorești iertare.
+
+[v1.2]
+Dacă prin decizii ai dărâmat,
+Din suflet pacea și credința-au plecat,
+Lacrimi sunt multe, nădejdi pierdute.
+
+[c]
+/: Ai valoare-n ochii lui Dumnezeu!
+Pentru tine a murit Fiul Său
+Pe o cruce ca să fii mântuit!
+Oricine-ai fi de Dumnezeu ești iubit! :/
+
+[v2.1]
+De Mesia Petru s-a lepădat,
+Niciodată Domnul nu l-a certat,
+Prin pocăință El l-a iertat.
+
+[v2.2]
+Firimituri zdrobite Domnul și-acum
+În coșul dragostei ridică din drum.
+Cu îndurare îți dă iertare.
+
+[c2.1]
+Oricine-ai fi tu ai valoare,
+Oricine-ai fi primești iertare,
+Oricine-ai fi tu ai valoare-n ochii lui Dumnezeu!
+
+[c2.2]
+Oricine-ai fi tu ai valoare,
+Oricine-ai fi primești iertare,
+Oricine-ai fi tu ai valoare-n ochii Lui!

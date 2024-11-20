@@ -1,0 +1,59 @@
+[title]
+Eu am fost altoit cu viță bună {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c2,v3.1,v3.2,c3
+
+[v1.1]
+Eu am fost altoit cu viță bună,
+Dar rădăcina este firea-mi rea
+Ce ne-ncetat încearcă să răpună
+Lăstarii buni ce cresc în viața mea.
+
+[v1.2]
+Înșelătoare sunt acele șoapte
+Urzite în al răului năvod
+Ce fac să crească-n viață peste noapte
+Lăstari sălbatici cu sălbatic rod.
+
+[c]
+Eu vreau să moștenesc în slavă cerul,
+Nu vreau să-mi fie alergarea în zadar
+De-aceea rabd în pace când Vierul
+Mai taie-n viața mea câte-un lăstar.
+
+[v2.1]
+N-am stat destul de veghe în lumină
+Și gândul rău încet s-a strecurat
+Și-a semănat sămânță de neghină
+În holdă printre grâul cel curat.
+
+[v2.2]
+N-am pus întotdeauna strajă gurii,
+Să rabd mai mult, să iert și să iubesc
+Și n-am văzut la timp lăstarii urii
+Ce din a firii rădăcină cresc.
+
+[c2]
+Dar vreau să moștenesc în slavă cerul,
+Nu vreau să-mi fie alergarea în zadar
+De-aceea rabd în pace când Vierul
+Mai taie-n viața mea câte-un lăstar.
+
+[v3.1]
+Sunt măgulit de voci amăgitoare
+Ce vin să mă ridice tot mai sus
+Și-mi dă târcoale gândul de-nălțare
+Ce-atâtea vieți în lume a răpus.
+
+[v3.2]
+Când simt a biruinței bucurie
+Și uit în umilință să trăiesc
+Lăstari ce poartă-n seva lor mândrie
+Din nesupusa-mi fire iarăși cresc.
+
+[c3]
+Eu vreau să moștenesc în slavă cerul,
+Nu vreau să-mi fie alergarea în zadar
+De-aceea rabd în pace când Vierul
+Mai taie-n viața mea câte-un lăstar.
