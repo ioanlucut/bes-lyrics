@@ -1,13 +1,13 @@
 [title]
-O, Doamne mare {alternative: {*}, composer: {Carl Boberg}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1630}, id: {7dRrBrYYHJrgjDvXPTvnqs}, contentHash: {e001b3}}
+O, Doamne mare {alternative: {How Great Thou Art}, composer: {Carl Gustave Boberg}, writer: {Stuart K. Hine}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1630}, id: {7dRrBrYYHJrgjDvXPTvnqs}, contentHash: {e001b3}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
 
 [v1]
-O, Doamne mare, când privesc eu lumea,
+O, Doamne mare, când privesc eu lumea
 Ce ai creat-o prin al Tău Cuvânt
-Și ființele ce-mpodobesc natura,
+Și ființele ce-mpodobesc natura
 Cum le-ntreții cu brațul Tău cel sfânt.
 
 [c]
@@ -15,7 +15,7 @@ Cum le-ntreții cu brațul Tău cel sfânt.
 Ce mare ești! Ce mare ești! :/
 
 [v2]
-Privirea când mi-o-nalț și văd minunea,
+Privirea când mi-o-nalț și văd minunea:
 Mulțimea astrelor ce-alerg pe cer,
 Mărețul soare, cât și blânda lună,
 Ca mingi de aur plutind prin eter.
@@ -35,11 +35,11 @@ Zăresc în duh amara-I suferință
 [v5]
 Când mă apasă sarcini mari și grele,
 Când sufletul mi-e trist pân’ la mormânt,
-El Se apleacă, plin de mângâiere,
-Și-mi ia tot chinul și-orice legământ.
+El se apleacă plin de mângâiere,
+Și-mi ia tot chinul de-orice legământ.
 
 [v6]
 Când Domnul bun mă va chema la Sine
 Și când voi sta uimit în fața Sa,
 Privind pe Domnul sfânt al veșniciei,
-Căzând la tronu-I, mă voi închina.
+Căzând la tronu-I mă voi închina.

@@ -2,12 +2,12 @@
 Pe-oceanul infinit, cu valuri {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5288}, id: {sAJjZAfbwwXxjG9hgyzWTt}, contentHash: {b57bfc}}
 
 [sequence]
-v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,e
 
 [v1.1]
-Pe-oceanul infinit, cu valuri,
+Pe-oceanul infinit cu valuri,
 Grija m-a cuprins.
-Plutesc spre casă obosit
+Plutesc spre casă obosit,
 Cu catargul zdrențuit.
 
 [v1.2]
@@ -23,7 +23,7 @@ Toată viața mea, Isuse,
 Te voi binecuvânta.
 
 [v2.1]
-Pe-oceanul infinit, cu valuri,
+Pe-oceanul infinit cu valuri,
 Noaptea m-a cuprins.
 Plutesc spre casă obosit,
 Sunt deznădăjduit.
@@ -45,3 +45,9 @@ Voi înfrunta orice necaz,
 Eu nu mă îndoiesc
 Căci Tu ești Salvatorul meu,
 Prin Tine eu trăiesc.
+
+[e]
+Ești speranța mea, Isuse,
+Chiar când simt că sunt înfrânt.
+Te rog nu mă lăsa singur,
+Salvatorul meu iubit!

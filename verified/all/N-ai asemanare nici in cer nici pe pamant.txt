@@ -1,0 +1,21 @@
+[title]
+N-ai asemănare nici în cer, nici pe pământ {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1216}, id: {6SHQw6qqNTjyjqeHBCivXK}, contentHash: {9cdc68}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-ai asemănare, nici în cer, nici pe pământ,
+Nici în măreție, nici în fapte și cuvânt.
+
+[c]
+/: Îți cântăm osana, Dumnezeule slăvit,
+Pentru mântuirea ce-n Isus ne-ai dăruit. :/
+
+[v2]
+Orișicine crede și renunță la păcat
+În Isus găsește un prieten minunat.
+
+[v3]
+Orișicine vine nu va fi respins nicicând,
+Are mântuire și-o nădejde pe pământ.
