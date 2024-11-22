@@ -1,0 +1,71 @@
+[title]
+Îmi ridic ochii spre Tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11
+
+[v1]
+Îmi ridic ochii spre Tine
+Și Te chem cu dor, Isus,
+/: Fața mea în jos se-apleacă,
+Dorul se înalță-n sus. :/
+
+[v2]
+Se înalță către ceruri
+Până dincolo de nori
+/: Căci Te chem cu dor, Isuse,
+Cu lacrimi de-atâtea ori. :/
+
+[v3]
+Vino și alină-mi dorul
+Ce îmi arde inima,
+/: Vino, adu-mi mângâierea,
+Vino și nu-ntârzia! :/
+
+[v4]
+Căci se-ntinde ca o mreajă
+Al ispitelor vârtej,
+/: Vino Tu la cârma vieții,
+Căci pierim, o, nu ne vezi? :/
+
+[v5]
+Vino și scoală-Ți poporul
+Care stă nepăsător,
+/: Dă-i din Duhul Tău putere
+Să fie mai veghetor! :/
+
+[v6]
+Căci a obosit pe cale
+Abătut pe alte căi,
+/: Vino, fă să ardă iarăși
+Focul dragostei dintâi! :/
+
+[v7]
+Vino și adună-Ți turma
+De prin văile adânci!
+/: Vino, cheamă-Ți porumbița
+Ce-i ascunsă printre stânci! :/
+
+[v8]
+Vino să-Ți auzim glasul,
+Vino Mire minunat!
+/: Căci în piept ne arde dorul
+De atâta așteptat! :/
+
+[v9]
+Vino și-mbracă-Ți mireasa
+Ce-ai ales-o pe pământ,
+/: O, îmbrac-o cu putere,
+Să tresalte-n Duhul Sfânt! :/
+
+[v10]
+Ca în ziua minunată
+Când trâmbița va suna,
+/: Să o poți răpi la Tine,
+Sus în cer, în slava Ta. :/
+
+[v11]
+Unde veșnic o să-Ți cânte
+C-ai scăpat-o de la chin,
+/: Fii slăvit al nostru Mire
+Până-n veci de veci, amin! :/

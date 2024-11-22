@@ -1,0 +1,35 @@
+[title]
+Oare știi ce-nseamnă părtășia {alternative: {*}, composer: {Beni Cibu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Oare știi ce-nseamnă părtășia
+Și bucuriile prin Duhul Sfânt?
+Oare-ai aflat ce-nseamnă adunarea
+Și ce sunt părtășiile-n Cuvânt?
+
+[c]
+Pleacă-ți genunchii azi cât încă e zi,
+Vino la crucea Lui, nu zăbovi!
+Să înțelegi, om pribeag, cât har ai primit,
+Prin Golgota, la Calvar de vrei să știi!
+
+[v2]
+Oare știi ce-nseamnă rugăciunea
+Când sunt bolnavi atâția printre noi?
+Oare-ai aflat ce-nseamnă stăruința,
+Postul și lupta când apar nevoi?
+
+[v3]
+Oare știi ce-nseamnă Adevărul
+Ce e rostit și-a toate-i creator?
+Oare-ai aflat că Răscumpărătorul
+A câștigat prin moartea-al Său popor?
+
+[v4]
+De nu știi, iubitul meu, ce-nseamnă
+Iubirea arătată pe Calvar,
+De n-ai aflat că viața ta pribeagă
+A căpătat nou orizont prin har

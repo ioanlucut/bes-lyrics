@@ -1,0 +1,29 @@
+[title]
+La Tine, Doamne, vin mereu {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La Tine, Doamne, vin mereu, Mântuitorul meu,
+Cu sufletul, cu inima și cu viața mea!
+Tu rugăciunea mi-o asculți în fiecare zi,
+Ca drept răspuns Tu-mi dăruiești nespuse bucurii.
+
+[c]
+Doamne, Tu îmi ești izvorul meu de bucurii,
+Tu ești Soarele iubirii mele zi de zi!
+Doamne, Tu îmi ești viața și lumina mea,
+Tu mă ocrotești întruna prin iubirea Ta!
+
+[v2]
+Mi-ajunge numai să-Ți rostesc Numele Tău, Isus,
+Cu Duhul Sfânt mă înconjori și m-ocrotești nespus,
+Cum soarele răsare-n zori cu dragoste ne ții,
+Cu raza lui Tu-mi dăruiești nespuse bucurii.
+
+[v3]
+La Tine, Doamne, vin mereu, Mântuitorul meu,
+Tu-mi ești Alesul inimii și-așa vei fi mereu!
+Te simt prezent în viața mea în fiecare zi,
+De-aceea, Doamne, Tu-mi rămâi izvor de bucurii!

@@ -1,0 +1,29 @@
+[title]
+Se va serba odată-n cer o nuntă minunată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se va serba odată-n cer o nuntă minunată,
+Isus va fi încoronat ca Mire slăvit.
+Mireasa Lui este acum la nuntă chemată
+Și pentru ziua de atunci tot ceru-i pregătit.
+
+[c]
+/: Chemați suntem și așteptați la nunta-aceea,
+Ne-a logodit Isus cu El pe cruce-n Calvar
+Și va veni foarte curând, iar noi, frați, de-aceea,
+Să ne sfințim ca să primim al mântuirii har! :/
+
+[v2]
+Privim acum pe-aceștia doi ce fac legământul,
+La nunta lor am fost chemați să fim martori vii.
+Este chemat chiar și Isus ce Și-a dat cuvântul
+Și a promis de la-nceput: „Cu voi Eu voi fi!”
+
+[v3]
+Și dacă-aici pentru-acești doi ce și-au spus iubirea
+Ne bucurăm și le dorim să fie fericiți,
+Când va începe nunta-n cer, vedea-vom strălucirea,
+La întâlnirea lui Isus cu cei mântuiți.

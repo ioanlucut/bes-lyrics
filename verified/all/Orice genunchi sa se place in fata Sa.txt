@@ -1,0 +1,35 @@
+[title]
+Orice genunchi să se plece în fața Sa {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+/: Orice genunchi să se plece în fața sa,
+În fața regelui să strige aleluia! :/
+Întreaga lume să strige-acum:
+
+[c]
+Glorie Regelui, glorie Regelui,
+Glorie Regelui sfânt,
+Glorie, glorie, glorie!
+
+[v2]
+/: Isus Hristos este Mielul lui Dumnezeu,
+Mielul cel sfânt ce a zis: O, Tatăl meu, /:
+Mă duc pe pământ să răscumpăr lumea.
+
+[c2]
+Glorie Mielului, glorie Mielului,
+Glorie Mielului sfânt,
+Glorie, glorie, glorie!
+
+[v3]
+/: Orice făptură să zică celui divin:
+Glorie, glorie, glorie sfintei treimi! /:
+Întreaga lume să spună-acum:
+
+[c3]
+Glorie Tatălui, glorie Fiului,
+Glorie Sfântului Duh,
+Glorie, glorie, glorie!

@@ -1,0 +1,35 @@
+[title]
+Nu știu ce să-Ți spun, o, Doamne mare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Nu știu ce să-Ți spun, o Doamne mare,
+Pe genunchi eu mă pun și stau când doare
+Și gânduri adun în mintea mea plină
+Și lacrimi îmi curg și vocea-mi suspină.
+
+[v1.2]
+Știu greșeli ce-am făcut și știu că Te doare,
+Vreau să lupt zi de zi, dar parcă firea nu moare.
+Aș zbura de aici către bolta senină,
+Vreau să merg spre lumină!
+
+[c]
+Privesc spre ceruri zi de zi, ce am în inimă Tu știi,
+Vrei Tu, o, Doamne, să mă ierți?
+O, ține-mă la piept cum știi, ridică-mă între cei vii,
+Leagă-mi tu rănile ce dor!
+
+[v2.1]
+Nu mă duc nicăieri,
+Eu Te am doar pe Tine,
+Doamne, Tu m-ai creat,
+Tu ești Cel ce mă ține!
+
+[v2.2]
+Nu lăsa Tu nimic, Doamne, să ne despartă,
+Vreau să-Ți dau viața toată,
+Ești Domnul meu, mă-nchin doar Ție,
+Mă leg te Tine pe vecie!

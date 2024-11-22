@@ -1,0 +1,29 @@
+[title]
+Domnul este bun și sfânt {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Domnul este bun și sfânt, El lucrează pe pământ.
+/: Bunătatea Lui cea mare să o simtă fiecare! :/
+
+[v2]
+Celor de pe calea Sa le-a adus mântuirea,
+/: Pe bolnavi i-a vindecat, morților viață le-a dat. :/
+
+[v3]
+Isus nouă ne-a promis că ne duce-n paradis
+/: Și vom sta la masa sfântă unde îngerii toți cântă. :/
+
+[v4]
+El din nou va reveni să-și adune-ai Săi copii.
+/: Sus la El ne va lua când va suna trâmbița. :/
+
+[v5]
+Deci cu toții să-L slăvim și mereu să-I mulțumim
+/: Pentru marea Sa iubire ce ne-a adus mântuire! :/
+
+[v6]
+Doamne sfinte-Ți mulțumim pentru harul Tău divin
+/: Și pentru a Ta lucrare ce o faci în adunare! :/

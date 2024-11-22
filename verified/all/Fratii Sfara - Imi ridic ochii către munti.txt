@@ -1,0 +1,47 @@
+[title]
+Îmi ridic ochii către munți {alternative: {*}, composer: {Frații Sfara}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Îmi ridic ochii către munți
+Căci știu: acolo Tu odată
+Te coborai ca să vorbești
+Și să Te-arăți în a Ta slavă.
+
+[v1.2]
+Dar astăzi munții sunt doar stânci
+Și plini de fiare-nfometate,
+Nu-mi dau curaj, nu-mi dau avânt
+Atunci când sufletu-mi se zbate.
+
+[c]
+Dar ajutorul meu vine de la Dumnezeu,
+Spre El ochii mi ridic, nu mi-e frică de nimic,
+Căci ajutorul meu vine de la Dumnezeu!
+Spre El ochii mi ridic, nu mi-e frică de nimic!
+
+[v2.1]
+Eu vreau ca să privesc în sus,
+Nu la-nălțimi ce pot să cadă
+Și nici spre mâini ce pot să-mi dea
+Un ajutor, dar și-o ocară.
+
+[v2.2]
+Nădejdea vreau ca să mi-o pun
+În Cel ce toate le adapă,
+În Dumnezeu, în Dumnezeu,
+E cetățuia ce mă scapă.
+
+[v3.1]
+Nu-i o poveste tot ce spun,
+Există-un Dumnezeu ce poate
+Să facă totul din nimic,
+Iar munții-n mare să-i îngroape.
+
+[v3.2]
+El se descoperă și azi
+Acelor ce doresc să-L vadă,
+Dar nu pe munți, ci-n duhul lor
+Și prin credință, nu-n tăgadă.
