@@ -2,7 +2,7 @@
 Tu aparții de marea-mpărăție {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
 
 [sequence]
-v1.1,v1.2,c,v2.1,v2.2,,c2,v3.1,v3.2,c3,e
+v1.1,v1.2,c,v2.1,v2.2,c2,v3.1,v3.2,c3,e
 
 [v1.1]
 Tu aparții de marea-mpărăție
