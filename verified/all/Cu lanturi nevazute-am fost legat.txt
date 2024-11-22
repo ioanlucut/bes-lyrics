@@ -1,5 +1,5 @@
 [title]
-Cu lanțuri nevăzute-am fost legat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Cu lanțuri nevăzute-am fost legat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ojgVe2SxbP2zpen9oTnpBF}, contentHash: {983697}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

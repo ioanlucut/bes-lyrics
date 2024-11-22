@@ -1,5 +1,5 @@
 [title]
-Stau și mă gândesc că ai murit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Stau și mă gândesc că ai murit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ts8d1p3Jrdp9qxbMM8YykJ}, contentHash: {d70812}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c

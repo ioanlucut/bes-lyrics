@@ -1,5 +1,5 @@
 [title]
-Tu aparții de marea-mpărăție {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Tu aparții de marea-mpărăție {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ePhBox1kM3wE87xSGVzwCa}, contentHash: {d9346e}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c2,v3.1,v3.2,c3,e

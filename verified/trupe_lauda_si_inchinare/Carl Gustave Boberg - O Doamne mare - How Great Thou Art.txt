@@ -1,5 +1,5 @@
 [title]
-O, Doamne mare {alternative: {How Great Thou Art}, composer: {Carl Gustave Boberg}, writer: {Stuart K. Hine}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1630}, id: {7dRrBrYYHJrgjDvXPTvnqs}, contentHash: {e001b3}}
+O, Doamne mare {alternative: {How Great Thou Art}, composer: {Carl Gustave Boberg}, writer: {Stuart K. Hine}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1630}, id: {7dRrBrYYHJrgjDvXPTvnqs}, contentHash: {0f8a37}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c,v6,c

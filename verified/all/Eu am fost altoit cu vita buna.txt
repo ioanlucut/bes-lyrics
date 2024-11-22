@@ -1,5 +1,5 @@
 [title]
-Eu am fost altoit cu viță bună {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Eu am fost altoit cu viță bună {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rvKP4duAN26LuX3GaVRdD1}, contentHash: {fd2ffe}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c2,v3.1,v3.2,c3

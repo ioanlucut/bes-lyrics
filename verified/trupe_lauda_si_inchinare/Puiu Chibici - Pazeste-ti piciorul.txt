@@ -1,5 +1,5 @@
 [title]
-Păzește-ți piciorul {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {192959}, id: {p698Kbqd3r8BF25H7u3eKD}, contentHash: {26a79f}}
+Păzește-ți piciorul {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {192959}, id: {p698Kbqd3r8BF25H7u3eKD}, contentHash: {e9a0f1}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

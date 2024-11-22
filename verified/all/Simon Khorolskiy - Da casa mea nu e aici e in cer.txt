@@ -1,5 +1,5 @@
 [title]
-Da, casa mea nu e aici, e în cer {alternative: {*}, composer: {Simon Khorolskiy}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Da, casa mea nu e aici, e în cer {alternative: {*}, composer: {Simon Khorolskiy}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {f3YSEA4S5swZpC79RUckGq}, contentHash: {3f3bb2}}
 
 [sequence]
 v1,v2,v3,v4

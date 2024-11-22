@@ -1,5 +1,5 @@
 [title]
-Te-ai sfărâmat, tu, vasule-ncercat {alternative: {*}, composer: {Ionică Stoica}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Te-ai sfărâmat, tu, vasule-ncercat {alternative: {*}, composer: {Ionică Stoica}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xsxKFwXC5gEEvRh596An4d}, contentHash: {f0020c}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c

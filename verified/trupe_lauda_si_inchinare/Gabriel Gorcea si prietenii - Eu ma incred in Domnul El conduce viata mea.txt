@@ -1,5 +1,5 @@
 [title]
-Eu mă încred în Domnul, El conduce viața mea {alternative: {*}, composer: {Gabriel Gorcea și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {99821}, id: {89kkfPeXkSBSZ5wFPNJqjn}, contentHash: {2b2c96}}
+Eu mă încred în Domnul, El conduce viața mea {alternative: {*}, composer: {Gabriel Gorcea și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {99821}, id: {89kkfPeXkSBSZ5wFPNJqjn}, contentHash: {147305}}
 
 [sequence]
 v1,c,v2,c,v3,c

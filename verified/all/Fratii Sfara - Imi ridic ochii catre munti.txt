@@ -1,5 +1,5 @@
 [title]
-Îmi ridic ochii către munți {alternative: {*}, composer: {Frații Sfara}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Îmi ridic ochii către munți {alternative: {*}, composer: {Frații Sfara}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {x2zYyohruY36uHVjhZsKzB}, contentHash: {65f6b4}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

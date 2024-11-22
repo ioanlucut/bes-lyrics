@@ -1,5 +1,5 @@
 [title]
-El va rămâne credincios {alternative: {Faithful to the End}, composer: {Caleb Collins, Stephan Conley Sharp}, writer: {*}, arranger: {Phillip Keveren}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+El va rămâne credincios {alternative: {Faithful to the End}, composer: {Caleb Collins}, writer: {*}, arranger: {Phillip Keveren}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {o4Wk9ZYJKkEP8bZZJRahDa}, contentHash: {14785b}}
 
 [sequence]
 v1,c,v2,c2

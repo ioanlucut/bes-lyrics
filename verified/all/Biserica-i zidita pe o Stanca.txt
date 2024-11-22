@@ -1,5 +1,5 @@
 [title]
-Biserica-i zidită pe o Stâncă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Biserica-i zidită pe o Stâncă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bFtVFWRbRp1bkh4cpdRnC5}, contentHash: {924ec6}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8

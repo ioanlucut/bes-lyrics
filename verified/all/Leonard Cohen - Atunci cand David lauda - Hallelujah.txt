@@ -1,5 +1,5 @@
 [title]
-Atunci când David lăuda {alternative: {Hallelujah}, composer: {Leonard Cohen}, writer: {Leonard Cohen}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Atunci când David lăuda {alternative: {Hallelujah}, composer: {Leonard Cohen}, writer: {Leonard Cohen}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eypDVGEpsopjYD2HLQMb7d}, contentHash: {e12ec7}}
 
 [sequence]
 v1,c,v2,c,v3,c

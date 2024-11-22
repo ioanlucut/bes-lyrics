@@ -1,5 +1,5 @@
 [title]
-Te-adorăm în fericire {alternative: {Joyful, Joyful, We Adore Thee}, composer: {Ludwig van Beethoven}, writer: {John van Dyke}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1208}, id: {8A5PUyVfCJourYjspZF6jb}, contentHash: {3a5368}}
+Te-adorăm în fericire {alternative: {Joyful}, composer: {Ludwig van Beethoven}, writer: {John van Dyke}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1208}, id: {8A5PUyVfCJourYjspZF6jb}, contentHash: {819e03}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2

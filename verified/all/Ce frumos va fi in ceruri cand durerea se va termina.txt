@@ -1,5 +1,5 @@
 [title]
-Ce frumos va fi în ceruri când durerea se va termina {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Ce frumos va fi în ceruri când durerea se va termina {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oLZ7EMKnSwUZMCz5xGcUnW}, contentHash: {484888}}
 
 [sequence]
 v1,c,v2,c,v3,c

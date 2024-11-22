@@ -1,5 +1,5 @@
 [title]
-Unde mă voi duce departe de Duhul Tău {alternative: {*}, composer: {Vlad Popescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Unde mă voi duce departe de Duhul Tău {alternative: {*}, composer: {Vlad Popescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {15WdnJ3XLv9NcQrRswfmwG}, contentHash: {63cefc}}
 
 [sequence]
 v1,v2,v3

@@ -1,5 +1,5 @@
 [title]
-Dacă sufletul îți e apăsat {alternative: {*}, composer: {The Messengers}, writer: {Dan Damian}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Dacă sufletul îți e apăsat {alternative: {*}, composer: {The Messengers}, writer: {Dan Damian}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2PinaR5X6j6LZwgYBKpdET}, contentHash: {bf32a1}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,c2.1,c2.2,c

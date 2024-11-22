@@ -1,5 +1,5 @@
 [title]
-La Tine, Doamne, vin mereu {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+La Tine, Doamne, vin mereu {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jvyzSBHaU218DVGX48UWnf}, contentHash: {ffda63}}
 
 [sequence]
 v1,c,v2,c,v3,c
