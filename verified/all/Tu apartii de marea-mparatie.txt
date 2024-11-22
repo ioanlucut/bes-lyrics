@@ -34,7 +34,7 @@ Tu ești ostaș la marele-mpărat.
 
 [c2]
 /: Tu ești ostaș, tu ești ostaș,
-Tu ești ostaș la marele-mpărat.  :/
+Tu ești ostaș la marele-mpărat. :/
 
 [v3.1]
 Stai pregătit de luptă și în toate

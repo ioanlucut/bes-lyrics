@@ -2,7 +2,7 @@
 Cine-i oare Meșter mare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hxPxvHe4Hy1zf3qnozHvqV}, contentHash: {046584}}
 
 [sequence]
-v1,c1.1,c1.2,v2,c1.1,c1.2,v3,v1.1,v1.2
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
 
 [v1]
 Cine-i oare Meșter mare
