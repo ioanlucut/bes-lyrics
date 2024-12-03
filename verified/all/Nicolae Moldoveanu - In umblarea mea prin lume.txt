@@ -5,25 +5,37 @@
 v1,c,v2,c,v3,c,v4,c,v5,c
 
 [v1]
-În umblarea mea prin lume, prin ispitele haine,
-Peste tot, Isuse, Doamne, numai harul Tău mă ține.
+În umblarea mea prin lume,
+Prin ispitele haine,
+Peste tot, Isuse, Doamne,
+Numai harul Tău mă ține.
 
 [c]
-/: Numai harul, Doamne, numai harul mă păstrează ne-ncetat,
-El mă face, el mă ține credincios cu-adevărat. :/
+/: Numai harul, Doamne, numai harul
+Mă păstrează ne-ncetat,
+El mă face, el mă ține
+Credincios cu-adevărat. :/
 
 [v2]
-Pe cărarea curăției și în lupta spre mai bine,
-Să mă țin nu pot, ci-ntruna numai harul Tău mă ține.
+Pe cărarea curăției
+Și în lupta spre mai bine,
+Să mă țin nu pot, ci-ntruna
+Numai harul Tău mă ține.
 
 [v3]
-În lucrarea Ta preasfântă, unde m-ai chemat pe mine,
-Cât e de puțină roadă, numai harul Tău mă ține.
+În lucrarea Ta preasfântă,
+Unde m-ai chemat pe mine,
+Cât e de puțină roadă,
+Numai harul Tău mă ține.
 
 [v4]
-Când aș vrea s-ascult Cuvântul, să-mplinesc cum se cuvine,
-Văd cum totu-mi stă-mpotrivă, numai harul Tău mă ține.
+Când aș vrea s-ascult Cuvântul,
+Să-mplinesc cum se cuvine,
+Văd cum totu-mi stă-mpotrivă,
+Numai harul Tău mă ține.
 
 [v5]
-Orișicând și-n orice stare, Doamne, îndrăznesc la Tine
-Și-n cădere și-n ‘nălțare, numai harul Tău mă ține.
+Orișicând și-n orice stare,
+Doamne, îndrăznesc la Tine
+Și-n cădere și-nălțare,
+Numai harul Tău mă ține.
