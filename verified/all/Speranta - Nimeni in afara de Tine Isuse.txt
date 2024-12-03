@@ -1,0 +1,35 @@
+[title]
+Nimeni în afară de Tine, Isuse {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+/: Nimeni în afară de Tine, Isuse,
+Nu mă poate izbăvi,
+Nimeni în afară de Tine, Isuse,
+Nu mă poate liniști. :/
+
+[v1]
+Când sufletul îmi plânge,
+Doamne, eu privesc spre cer.
+Mă rog mereu la Tine
+/: Și ajutor Îți cer. :/
+
+[v2]
+Pe acest pământ, Isuse,
+Eu sunt ca și un străin,
+Iar durerile nespuse
+/: Mă apasă pe deplin. :/
+
+[v3]
+Doamne, când ești lângă mine
+Nu-i nimica mai frumos!
+Eu mă rog mereu la Tine
+/: Să-mi faci viața cu folos. :/
+
+[v4]
+Ce frumoasă-i tinerețea
+Petrecută cu Isus,
+Căci în țara mult dorită
+/: Ne vom bucura nespus! :/
