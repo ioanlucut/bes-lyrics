@@ -1,0 +1,57 @@
+[title]
+Mulțumim, mulțumim, Ție, Părinte divin {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eei7tjjhUJRMobNCLCod2P}, contentHash: {12e17b}}
+
+[sequence]
+c,v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,v4.1,v4.2,c
+
+[c]
+Mulțumim, mulțumim, Ție, Părinte divin,
+Mulțumim, mulțumim, azi și pururea, amin!
+
+[v1.1]
+Pentru pâine, pentru apă,
+Pentru hrana-mbelșugată,
+Pentru sfântul Tău prinos,
+Doamne-Ți mulțumim frumos!
+
+[v1.2]
+Pentru Sfântul Tău Cuvânt,
+Pentru pace pe pământ,
+Pentru harul Tău bogat,
+Doamne, să fii lăudat!
+
+[v2.1]
+Pentru nori, pentru senin,
+Pentru flori și pentru spini,
+Pentru bine, pentru greu,
+Fii lăudat, sfânt Dumnezeu!
+
+[v2.2]
+Pentru lacrimi și dureri,
+Pentru sfinte mângâieri,
+Pentru cerul cel slăvit,
+Doamne, să fii preamărit!
+
+[v3.1]
+Pentru apa Ta cea vie,
+Pentru sfânta părtășie,
+Pentru Fiul Tău jertfit,
+Doamne, fii în veci slăvit!
+
+[v3.2]
+Pentru veșnica iubire,
+Pentru sfânta mântuire,
+Pentru ploaia cea târzie,
+Slavă Ție, slavă Ție!
+
+[v4.1]
+Pentru veșnica iertare,
+Pentru jertfa de-mpăcare,
+Pentru sângele vărsat,
+Doamne, fii glorificat!
+
+[v4.2]
+Pentru minunata casă,
+pentru haina de mireasă,
+Pentru toate Te slăvim,
+Azi și pururea, amin!

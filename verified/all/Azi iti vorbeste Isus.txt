@@ -1,0 +1,30 @@
+[title]
+Azi îți vorbește Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pXHGnsJVR6AcQY5vyuyD7s}, contentHash: {f67456}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Azi îți vorbește Isus: Fiul Meu, nu te teme,
+Glasul ți-aud când mă chemi în durerea cea grea!
+/: Nopțile tale-n genunchi și în lacrimi amare
+Te-am ascultat fiul Meu și-n curând ți-oi răspunde! :/
+
+[c]
+/: Singur Eu nu te-am lăsat,
+Când tu plângeai Eu plângeam!
+Astăzi îți spun: Nu te teme, răspuns vei primi!
+Nu mai e mult și-ntr-o zi în brațele Mele vei fi,
+Cerul întreg cu cântări te va întâmpina! :/
+
+[v2]
+Domnul ți-aude suspinul când nu ai cuvinte!
+Perna-ți absoarbe mulțimea de lacrimi fierbinți.
+/: Din pat când te scoli, te întrebi: Ce rost are viața?
+Să ai tot ce vrei dar să pierzi pe-ai tăi dragi copii. :/
+
+[v3]
+Nu dispera când răspuns nu primești în durere!
+Cerul îți pare închis, nu te simți ascultat.
+/: Strigi către cer, către bolta cea plină de stele:
+Vino Isuse, o, vino al meu Salvator! :/

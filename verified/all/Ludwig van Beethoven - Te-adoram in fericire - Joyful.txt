@@ -1,11 +1,11 @@
 [title]
-Te-adorăm în fericire {alternative: {*}, composer: {Muzica}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1208}, id: {8A5PUyVfCJourYjspZF6jb}, contentHash: {3a5368}}
+Te-adorăm în fericire {alternative: {Joyful}, composer: {Ludwig van Beethoven}, writer: {John van Dyke}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1208}, id: {8A5PUyVfCJourYjspZF6jb}, contentHash: {819e03}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
 
 [v1.1]
-Te-adorăm, în fericire,
+Te-adorăm în fericire,
 Domn al gloriei cerești,
 Ce cu raza-Ți de iubire
 Inimile ne-ncălzești.
@@ -17,15 +17,15 @@ De-ntuneric și păcat
 Cu Duhul Tău Sfânt, curat.
 
 [v2.1]
-Orice lucru mic sau mare,
-Ce de Tine-a fost creat
-Îți vestește-nțelepciunea
-Și puterea ne-ncetat.
+Orice lucruri, mari sau mici,
+Ce prin Tine s-au creat,
+Stele, îngeri, cântă-n juru-Ți
+Laudă Ție ne-ncetat!
 
 [v2.2]
 Munți și mare, deal și vale,
 Floarea în splendoarea sa,
-Toate lucrurile Tale,
+Toate lucrurile Tale
 Ne vestesc iubirea Ta.
 
 [v3.1]

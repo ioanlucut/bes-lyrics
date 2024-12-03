@@ -1,5 +1,5 @@
 [title]
-Cântarea mea e numai despre Isus {alternative: {*}, composer: {John Willard Peterson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4870}, id: {isiLkEwu7VmHDDBaoTQ4xh}, contentHash: {a23e67}}
+Cântarea mea e numai despre Isus {alternative: {*}, composer: {John Willard Peterson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4870}, id: {isiLkEwu7VmHDDBaoTQ4xh}, contentHash: {b834e7}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -20,10 +20,10 @@ Ce fericiri și bogății mi-a dat.
 Cămașa Lui, stropită-n sfântul sânge,
 Crucea și spinii cu păcatul meu,
 Mormântul gol, speranța revederii,
-Despre aceasta voi cânta mereu.
+Despre aceastea voi cânta mereu.
 
 [v3]
 Cântarea mea va fi doar despre Isus,
-Chiar peste râu, odată-n veșnicii,
+Iar peste ani, odată-n veșnicii,
 Cu imnul sfânt al miilor de îngeri
 Cântarea mea atunci se va uni.

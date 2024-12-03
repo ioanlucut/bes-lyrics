@@ -1,0 +1,21 @@
+[title]
+Se așterne pretutindeni {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kRjq46XkhUZnEr8UYMGXBK}, contentHash: {25dd16}}
+
+[sequence]
+v1,c1.1,c1.2,v1
+
+[v1]
+Se așterne pretutindeni
+Stratul proaspăt de omăt.
+Pe la case s-au pornit copiii,
+Astăzi iarăși e Crăciun!
+
+[c1.1]
+Ne bucurăm că El S-a născut
+Ca să ne dea-n dar pacea Sa
+Și-n inimi azi să toarne dragostea!
+
+[c1.2]
+Strada-i plină de colinde,
+Iar în iesle înfășat este Pruncul,
+Salvatorul nostru, veșnic Fiu de Împărat!

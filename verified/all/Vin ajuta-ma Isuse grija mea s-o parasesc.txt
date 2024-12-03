@@ -1,0 +1,35 @@
+[title]
+Vin ajută-mă, Isuse, grija mea s-o părăsesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8eeuLMns2kPALmuqxtgc5Z}, contentHash: {c2d88c}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Vin ajută-mă, Isuse,
+Grija mea s-o părăsesc,
+Fără ură, ci-n iubire,
+Lângă Tine să trăiesc!
+
+[c]
+Nu vreau, Doamne, de la Tine,
+Nu vreau decât pacea Ta,
+Viață sfântă și iubire
+Și să pot în cer intra!
+
+[v2]
+Dă-mi, Isuse, zel în rugă,
+Lacrime să pot vărsa,
+Nu-mi da nicio bogăție
+Prin cari să Te pot uita!
+
+[v3]
+De mi-ai da inimi o mie,
+Multe vieți să Te măresc,
+Pentru dragostea-Ți sublimă
+N-am să pot să-Ți mulțumesc!
+
+[v4]
+Nu vreau aur, nici argint,
+Nici comoară pe pământ,
+Doar un singur lucru vreau:
+Lângă-al meu Isus să stau!

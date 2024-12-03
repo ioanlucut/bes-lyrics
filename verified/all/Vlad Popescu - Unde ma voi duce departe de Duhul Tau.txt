@@ -1,0 +1,23 @@
+[title]
+Unde mă voi duce departe de Duhul Tău {alternative: {*}, composer: {Vlad Popescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {15WdnJ3XLv9NcQrRswfmwG}, contentHash: {63cefc}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Unde mă voi duce departe de Duhul Tău
+Și unde voi fugi departe de fața Ta?
+Dacă mă voi sui în cer, Tu ești acolo;
+Dacă mă voi culca sub pământ, iată-Te și acolo.
+
+[v2]
+Dacă voi zice-ntunericului: mă vei acoperi
+Și se va face noapte lumina-mprejurul meu,
+Iată că nici întunericul nu-i întunecos pentru Tin‘,
+Se face lumină în prezența Ta și noaptea se face zi.
+
+[v3]
+Când nu aveam chip, ochii Tăi mă vedeau,
+Căci Tu m-ai întocmit în pântecul mamei mele.
+:/ Te laud că sunt o făptura așa de minunată,
+Doamne, cât de minunate sunt toate lucrările Tale! /:

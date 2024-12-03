@@ -1,5 +1,5 @@
 [title]
-Binecuvântată-i viața împreună cu Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xgaWhRHsbKuaayvDxCCJqW}, contentHash: {be8d0d}}
+Binecuvântată-i viața împreună cu Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xgaWhRHsbKuaayvDxCCJqW}, contentHash: {8234fd}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -13,12 +13,12 @@ Pocăință, pocăință tu ne-apropi către cer
 Unde dragostea-i deplină și-unde lacrimile pier.
 
 [v2]
-Ce frumoasă-i tinerețea împreună cu Isus
-Când prin El orice ispită poți mereu să biruiești.
-
-[v3]
 Nu este copilărie mai plăcută Domnului
 Ca aceea unde-s pruncii nelipsiți din casa Lui.
+
+[v3]
+Ce frumoasă-i tinerețea împreună cu Isus
+Când prin El orice ispită poți mereu să biruiești.
 
 [v4]
 Când apare bătrânețea vrea să te apese-n jos

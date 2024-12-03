@@ -1,0 +1,27 @@
+[title]
+Tu din cenușă ne-ai scos la lumină {alternative: {To Our God}, composer: {Bethel Music}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jwgjkf8qaa1wuKSouQMw9s}, contentHash: {8327e3}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Tu din cenușă, ne-ai scos la lumină,
+Azi clar vedem prin dragostea Ta
+Purtând vina noastră,
+De orice ocară ne-ai eliberat.
+
+[c]
+/: Către Tine laude-nălțăm,
+Doar pe Tine Te adorăm!
+Într-un glas noi toți Îți cântăm:
+Aleluia! :/
+
+[v2]
+Lanțuri sunt frânte, juguri sunt rupte,
+Oasele prind viață-n Numele Tău,
+Moartea e-nvinsă și-n biruință,
+Ne ridicăm!
+
+[e]
+Tu ești Domn glorios, Dumnezeu glorios,
+Nume sfânt glorios, Dumnezeu glorios!

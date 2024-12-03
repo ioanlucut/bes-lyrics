@@ -1,0 +1,32 @@
+[title]
+Atunci când David lăuda {alternative: {Hallelujah}, composer: {Leonard Cohen}, writer: {Leonard Cohen}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eypDVGEpsopjYD2HLQMb7d}, contentHash: {e12ec7}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Atunci când David lăuda
+Văzduhu-ntreg se bucura,
+Căci pacea din înalt venea în inimi.
+Acorduri calde, sunet lin,
+Prindea contur al său cânt divin:
+Un dulce, dar puternic aleluia!
+
+[c]
+/: Aleluia :/ (x4)
+
+[v2]
+Credința lui nu se-asemăna
+Cu-a nimănui altcineva
+Și totuși a gustat din rodul vinei,
+Cu duh zdrobit, adânc plecat,
+Cu suflet trist, gândul zbuciumat
+Și-a strâns puteri să-I cânte aleluia!
+
+[v3]
+Dumnezeu e neschimbat,
+Și vrednic de-a fi lăudat,
+Când sufletul surâde sau când plânge,
+Când drumu-i drept și-i luminat,
+Când ceru-i greu și-ntunecat,
+E demn să I se cânte aleluia!

@@ -1,0 +1,31 @@
+[title]
+Da, casa mea nu e aici, e în cer {alternative: {*}, composer: {Simon Khorolskiy}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {f3YSEA4S5swZpC79RUckGq}, contentHash: {3f3bb2}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Da, casa mea nu e aici, e în cer,
+Da, Tatăl meu ceresc și sfânt e în cer.
+/: Eu sunt străin pe-acest pământ,
+Dar mă-ndrept spre cer cântând,
+Casa mea nu e aici, e în cer. :/
+
+[v2]
+Chiar dacă drumul este greu, nu mă tem,
+Stau lângă Domnul Dumnezeu și aștept.
+/: Căci și Hristos a suferit și-a promis c-a pregătit
+Un cămin ceresc și sfânt, sus în cer. :/
+
+[v3]
+Cât de mult aș vrea să fiu sus în cer,
+Cu toți sfinții Domnului, lângă El,
+/: Și atunci ne vom bucura
+Și cu toții vom cânta:
+„Casa noastră nu-i aici, e în cer!” :/
+
+[v4]
+Da, într-o zi noi vom pleca sus în cer,
+Chiar dacă viața este grea, nu disper,
+/: Căci lupta se va termina, într-o zi Îl voi vedea,
+Casa mea nu e aici, e în cer. :/

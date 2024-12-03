@@ -1,0 +1,34 @@
+[title]
+Stau și mă gândesc că ai murit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ts8d1p3Jrdp9qxbMM8YykJ}, contentHash: {d70812}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Stau și mă gândesc că ai murit,
+Vreau să pot iubi cum m-ai iubit.
+Vreau să iert așa cum m-ai iertat,
+M-ai iertat.
+
+[v1.2]
+Vreau să înțeleg clar voia Ta
+Într-o lume care-i tot mai rea.
+Doamne-așa cum Tu m-ai vrut
+Aș vrea să fiu!
+
+[c]
+Eu n-am meritat să-mi răspunzi cu iubire.
+Viața mea era ruină, dar Tu m-ai iertat.
+Doamne, eu n-am meritat!
+
+[v2.1]
+Sângele curgea pe fruntea Ta,
+Eu primeam, în schimb, iertarea Ta.
+Tu ai murit pentru că m-ai iubit,
+M-ai iubit.
+
+[v2.2]
+Viața Ta ai dat pentru a mea
+Și dorești să stau în palma Ta.
+Doamne, știu că mă iubești,
+Da, mă iubești.

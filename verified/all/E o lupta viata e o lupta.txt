@@ -1,0 +1,45 @@
+[title]
+E o luptă, viața e o luptă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jNGZ29VGk5SpCh7GyZJaNY}, contentHash: {84e998}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+E o luptă, viața e o luptă
+Și noi ne luptăm zi de zi
+Cu dor să-ajungem la țintă,
+Să-ajungem la Domnul Isus!
+
+[v1.2]
+E o luptă, viața e o luptă
+Și-n luptă privim către cer.
+Luptăm să primim o cunună
+În cerul sfânt, la Dumnezeu.
+
+[c]
+/: Acolo la Domnul, la țărmul dincolo de râu,
+Acolo e raiul, acolo vrem și noi să fim. :/
+
+[v2.1]
+E o luptă, viața e o luptă,
+Creștinii se luptă mereu
+Să ducă stindardul iubirii,
+Credința sfântă-n Dumnezeu.
+
+[v2.2]
+De veacuri luptat-au creștinii
+Și-n luptă ei au biruit.
+Chiar dacă au fost arși pe ruguri,
+Cântând ei de-aici au trecut.
+
+[v3.1]
+E o luptă, viața e o luptă,
+E o luptă și-n veacul de-acum
+Când în lume e atâta ură
+Și dragostea rar o găsim.
+
+[v3.2]
+Luptăm să rămânem pe calea
+Ce duce înspre paradis,
+Căci numai luptând vom ajunge
+Acolo unde Isus s-a dus.

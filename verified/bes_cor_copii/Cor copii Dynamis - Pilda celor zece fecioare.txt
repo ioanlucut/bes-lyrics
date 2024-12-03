@@ -1,5 +1,5 @@
 [title]
-Pilda celor zece fecioare {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mDHtvcPLeYkQqmpwSNanUx}, contentHash: {3ea5aa}}
+Pilda celor zece fecioare {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mDHtvcPLeYkQqmpwSNanUx}, contentHash: {cfb366}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8
@@ -42,7 +42,7 @@ Le spuse mirele că nu le cunoaște
 
 [v7]
 Domnul ne spune pilda aceasta,
-Să învățăm oricând să fim gata,
+Să învățăm ca oricând să fim gata,
 Că nu știm ziua, ceasul și clipa
 Când Domnul slavei pe nori va veni.
 

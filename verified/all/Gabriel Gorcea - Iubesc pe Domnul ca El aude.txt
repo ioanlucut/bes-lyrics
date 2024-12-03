@@ -1,0 +1,29 @@
+[title]
+Iubesc pe Domnul că El aude {alternative: {*}, composer: {Gabriel Gorcea}, writer: {Gabriel Gorcea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {h4wsBqHHfxXQahtokz94Mo}, contentHash: {315e40}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iubesc pe Domnul că el aude rugăciunea mea,
+Îmi ușurează viața când povara-i grea.
+El e cu mine-n încercare, e cu mine-n strâmtorare,
+Mă-ajută să-naintez pe cale!
+
+[c]
+Merită, merită, merită să-L iubesc,
+Merită pe Isus să Îl slujesc!
+Să trăiesc pentru El, să trăiesc pentru cer,
+Pentru Isus ce m-a salvat, pentru Isus ce m-a iertat!
+
+[v2]
+Domnul meu m-a ridicat când am fost căzut,
+Mi-a dăruit speranță când am fost pierdut.
+Trecutul meu l-a iertat prin sângele ce și-a vărsat
+Și-o haină nouă mi-a dat.
+
+[v3]
+Nu e prieten ca Isus, nimeni nu-i ca El,
+E singurul ce poate să mă ducă-n cer.
+Isus Hristos m-a mântuit, un loc în cer mi-a pregătit
+Să fiu pe veci fericit.
