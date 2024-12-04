@@ -1,0 +1,19 @@
+[title]
+Umil în ieslea rece {alternative: {*}, composer: {Nelu Mureșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2
+
+[v1]
+Umil în ieslea rece, Doamne, Te-ai născut
+Și nimeni nu Te-a așteptat.
+Doar din ceruri ‘nalte coruri minunate
+/: Cântau spre slava Ta, Isuse,
+Imnuri îngerești mărețe. :/
+
+[v2]
+Din dragoste curată, Doamne-ai coborât,
+Lăsând a cerului splendori,
+Ai venit în lume, aducând cu Tine
+/: Mult har și pace sfântă-n inimi,
+Bucurii cerești, iertare. :/

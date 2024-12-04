@@ -1,0 +1,43 @@
+[title]
+Betleem {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,c,v4,v5,e
+
+[v1]
+O, Betleem, oraș micuț cum dormi de liniștit
+În timp ce mii de stele sus aleargă-n infinit.
+La Tine-n întuneric Lumina S-a născut,
+O iesle-n staul doar ai dat Celui făr-de-nceput.
+
+[v2]
+Pe când dormeai nepăsător, Mesia a venit
+Și oști cerești slăveau în cor pe Cel ce ne-a iubit.
+O, stele-a dimineții, vestiți venirea Sa,
+Pământu-ntreg răsune-acum și-n veci de slava Sa!
+
+[v3]
+Betleem, oraș mic și ne-nsemnat,
+Tu astăzi vezi minuni,
+Har bogat în tine s-a revărsat
+Prin Păstoru-acestei lumi!
+
+[c]
+Aleluia răsună pe pământ,
+Aleluia sus în cer,
+Betleeme ești binecuvântat,
+Ai primit pe Pruncul sfânt!
+
+[v4]
+Doar un loc umil, doar o iesle jos
+Tu Domnului I-ai dat,
+Totuși, veșnicul Dumnezeu a vrut
+Să vezi darul minunat.
+
+[v5]
+/: Glorie, glorie, îngerii laudă,
+Cântă-n cor: ni S-a născut Mântuitor!
+Glorie, glorie, glorie lui Dumnezeu! :/
+
+[e]
+Glorie Lui, glorie Lui, glorie lui Dumnezeu!

@@ -1,0 +1,20 @@
+[title]
+Laudă fie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Laudă fie adusă
+Celui ce S-a născut la Betleem,
+Aleluia Salvatorului nostru,
+Regelui născut la Betleem!
+
+[v2]
+/: Hai, deschide inima ta
+Să găsești minunea din ea,
+Într-o iesle și-n viața ta
+S-a născut Mesia! :/
+
+[e]
+S-a născut Mesia, S-a născut Mesia!

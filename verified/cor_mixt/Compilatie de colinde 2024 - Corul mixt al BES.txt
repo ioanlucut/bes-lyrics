@@ -1,0 +1,58 @@
+[title]
+Compilație de colinde 2024 {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,c2,v3,v4,v5,v6,v7,v8,e
+
+[v1]
+/: În Betleem azi, în Betleem, e o mare minune! :/
+
+[c]
+/:  Hristos Se naște, Domnul coboară,
+Îngerii cântă, magii Îl adoră.
+Păstori aleargă, ieslea o-nconjoară,
+Mari minuni se întâmplară. :/
+
+[v2]
+/: Toți să-I dăm loc dar, toți să-I dăm loc dar,
+În inimi să Se nască! :/
+
+[c2]
+/: El S-a născut, a venit, El S-a născut în grajd,
+În ieslea din Betleem, Soarele Emanuel! :/
+
+[v3]
+În această noapte sfântă S-a născut Mesia,
+Dintr-o fecioară preacurată S-a născut Mesia!
+Într-o iesle-ntunecată S-a născut Mesia,
+Darul sfânt promis de Dumnezeu!
+
+[v4]
+Magi din Răsărit I-au adus daruri
+Și la Prunc adânc s-au închinat.
+Îngeri pe pământ și sus în ceruri
+Cântă slavă Celui Preaînalt, osana!
+
+[v5]
+Cu îngerii, păstorii și cu magii
+Venim și noi la ieslea lui Isus,
+Îl urmăm mereu pe calea crucii
+Pe Cel ce mântuire ne-a adus, osana!
+
+[v6]
+Cu bucurie să cântați: Mesia S-a născut,
+Vă închinați, Îl lăudați, pământ și cer de sus,
+Pământ și cer de sus, cântați pământ și cer de sus!
+
+[v7]
+Cu bucurie să primiți pe Regele ceresc,
+În inimă, cu dragoste, El să-Și găsească loc,
+Cu drag El să-Și găsească loc!
+
+[v8]
+În măreție va domni cu-ai Săi răscumpărați,
+Veniți cu toți să-L adorăm și să-L servim pe El,
+Veniți să Îl servim pe El!
+
+[e]
+Îl servim pe El!

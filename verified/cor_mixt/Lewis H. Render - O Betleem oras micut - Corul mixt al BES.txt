@@ -1,0 +1,23 @@
+[title]
+O, Betleem, oraș micuț {alternative: {O Little Town of Bethlehem}, composer: {Lewis H. Render}, writer: {Phillips Brooks; Petru Popovici, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+O, Betleem, oraș micuț, cum dormi de liniștit
+În timp ce mii de stele sus aleargă-n infinit.
+La Tine-n întuneric Lumina S-a născut,
+O iesle-n staul doar ai dat Celui făr-de-nceput.
+
+[v2]
+Pe când dormeai nepăsător, Mesia a venit
+Și oști cerești slăveau în cor pe Cel ce ne-a iubit.
+O, stele-a dimineții, vestiți venirea Sa,
+Pământu-ntreg răsune-acum și-n veci de slava Sa!
+
+[v3]
+Azi Te rugăm cobori la noi, Copil din Betleem,
+Ne spală de orice păcat, pe Tine doar Te vrem!
+Ne îndulcește viața în lumea de nevoi,
+O, scumpe Domn Emanuel, de-acum rămâi cu noi!

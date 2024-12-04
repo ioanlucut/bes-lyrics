@@ -1,0 +1,23 @@
+[title]
+Departe-ntr-un staul {alternative: {Away in a Manger}, composer: {William J. Kirkpatrick}, writer: {John Thomas McFarland; Benone Burtescu, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Departe-ntr-un staul de nimeni știut,
+La vremea-mplinită, Isus s-a născut
+Și stele pe ceruri luciră mai viu,
+Și îngeri cântară pe dealul pustiu.
+
+[v2]
+Departe de Tatăl, de tronul ceresc,
+Culcat într-o iesle, păstorii-L găsesc.
+Să vadă Copilul născut ca-mpărat
+Adus-au și magii prinos de-nchinat.
+
+[v3]
+Departe ca ieslea e inima mea,
+Dar vino, Isuse, Te naște în ea,
+S-aud cor de îngeri la mine sosit
+Cu vestea cea bună că sunt mântuit!

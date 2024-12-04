@@ -1,0 +1,17 @@
+[title]
+O noapte senină {alternative: {*}, composer: {Florin Modog}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Vine Isus, vine Isus!
+
+[v2]
+/: O, Prunc minunat Te-ai născut
+Din cerul etern pe pământ
+Și plin de lumină, căldură și pace, smerit ai venit,
+În inimi sărace umil Te-ai născut, Prunc preasfânt! :/
+
+[e]
+Prunc preasfânt!

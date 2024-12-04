@@ -1,0 +1,26 @@
+[title]
+Să-L slăvim, să-I cântăm {alternative: {Born in Bethlehem}, composer: {Randy Vader & Jay Rouse}, writer: {Randy Vader & Jay Rouse; Andrei Fedur, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+/: Să-L slăvim, să-I cântăm cu toții-n cor:
+Glorie, aleluia noului Salvator!
+Rege sfânt, Copil minunat,
+A venit în lume pentru-a fi și eu salvat! :/
+
+[v1]
+Magi din Răsărit spre iesle au pornit,
+Urmând măreața stea, toți împreună vin grăbiți,
+Daruri I-au dat și Lui s-au închinat,
+Cu toții-mpreună pe El L-au lăudat!
+
+[v2]
+Prietene drag, nu vrei pace să ai,
+Inima ta Lui pe veci să I-o predai?
+Te va iubii, să știi, și-n veci te va ierta,
+Dacă Îl primești să intre-n viața ta!
+
+[e]
+A venit aici pentru-a fi și eu salvat!

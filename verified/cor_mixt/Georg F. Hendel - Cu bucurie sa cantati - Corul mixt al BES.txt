@@ -1,0 +1,23 @@
+[title]
+Cu bucurie să cântați {alternative: {Joy to the World}, composer: {Georg F. Hendel}, writer: {Isaac Wats}, arranger: {Lowell Mason}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cu bucurie să cântați, Mesia S-a născut,
+Vă închinați, Îl lăudați în cer și pe pământ!
+În cer și pe pământ, în cer și pe pământ,
+Cântați în cer și pe pământ!
+
+[v2]
+Cu bucurie să primiți pe Regele de sus,
+În inimă, cu dragoste, El să găsească loc,
+El să găsească loc, El să găsească loc,
+Cu drag El să găsească loc!
+
+[v3]
+În măreție va domni cu-ai Săi răscumpărați,
+Veniți cu toți să-L adorăm și să-L servim pe El,
+Și să-L servim pe El și să-L servim pe El,
+Veniți să Îl servim pe El!

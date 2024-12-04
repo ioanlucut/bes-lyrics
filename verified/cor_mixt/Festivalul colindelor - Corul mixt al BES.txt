@@ -1,0 +1,37 @@
+[title]
+Festivalul colindelor {alternative: {*}, composer: {*}, writer: {*}, arranger: {Lary Goss}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3.1,v3.2,v4,e
+
+[v1]
+Cu bucurie să cântați: Mesia S-a născut,
+Vă închinați, Îl lăudați în cer și pe pământ,
+În cer și pe pământ, cântați în cer și pe pământ!
+
+[v2]
+Veniți cu credință, plini de bucurie,
+Veniți, o, veniți toți la Betleem!
+Iată-L în paie, Rege al măririi,
+/: Veniți să ne-nchinăm Lui, :/
+El e Domn!
+
+[v3.1]
+Sfântă e noaptea de har, totul e calm și clar,
+Numai sfinții părinți stau veghind
+Lângă pruncul ce doarme zâmbind.
+Dormi Copile divin, dormi Copile divin!
+
+[v3.2]
+Cântă corul îngeresc: slavă Tatălui ceresc,
+Pace fie pe pământ, S-a născut Copilul sfânt!
+Fiul sfânt demult promis a venit de sus trimis,
+/: Cântă corul îngeresc: slavă Tatălui ceresc. :/
+
+[v4]
+În măreție va domni cu-ai Săi răscumpărați,
+Veniți cu toți să-L adorăm și să-L servim pe El,
+Și să-L servim pe El, veniți să Îl servim pe El!
+
+[e]
+Aleluia!

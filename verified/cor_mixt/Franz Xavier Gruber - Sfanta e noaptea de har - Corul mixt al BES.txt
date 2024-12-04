@@ -1,0 +1,23 @@
+[title]
+Sfântă e noaptea de har {alternative: {Silent Night, Holy Night!}, composer: {Franz Xavier Gruber}, writer: {Joseph Mohr; Eugenia Posa, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Sfântă e noaptea de har, totul e calm și clar,
+Numai sfinții părinți stau veghind
+Lângă Pruncul ce doarme zâmbind.
+Dormi Copile divin, dormi Copile divin!
+
+[v2]
+Sfântă e noaptea de har, cerul tresaltă iar,
+Cântă corul ceresc, minunat:
+Prințul slavei acum S-a-ntrupat,
+Salvatorul Isus, Salvatorul Isus.
+
+[v3]
+Sfântă e noaptea de har, Fiul trimis în dar,
+Mântuire din cer ne-a adus,
+Împăcare cu Tatăl de sus,
+Azi Hristos S-a născut, azi Hristos S-a născut!
