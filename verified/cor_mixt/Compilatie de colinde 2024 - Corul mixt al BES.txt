@@ -8,7 +8,7 @@ v1,c,v2,c,c2,v3,v4,v5,v6,v7,v8,e
 /: În Betleem azi, în Betleem, e o mare minune! :/
 
 [c]
-/:  Hristos Se naște, Domnul coboară,
+/: Hristos Se naște, Domnul coboară,
 Îngerii cântă, magii Îl adoră.
 Păstori aleargă, ieslea o-nconjoară,
 Mari minuni se întâmplară. :/
