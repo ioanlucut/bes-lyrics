@@ -1,5 +1,5 @@
 [title]
-Cu bucurie să cântați {alternative: {Joy to the World}, composer: {Georg F. Hendel}, writer: {Isaac Wats}, arranger: {Lowell Mason}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Cu bucurie să cântați {alternative: {Joy to the World}, composer: {Georg F. Hendel}, writer: {Isaac Wats}, arranger: {Lowell Mason}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {auHRrNCqGkRoTybdtqNcCS}, contentHash: {ce654a}}
 
 [sequence]
 v1,v2,v3

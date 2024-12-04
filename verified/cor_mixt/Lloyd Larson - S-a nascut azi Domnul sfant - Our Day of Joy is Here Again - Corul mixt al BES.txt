@@ -1,5 +1,5 @@
 [title]
-S-a născut azi Domnul sfânt {alternative: {Our Day of Joy is Here Again}, composer: {Lloyd Larson}, writer: {Andrew L. Skoog; Eugenia Posa, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+S-a născut azi Domnul sfânt {alternative: {Our Day of Joy is Here Again}, composer: {Lloyd Larson}, writer: {Andrew L. Skoog; Eugenia Posa}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {46J7yXEVvsHUSYVLg4APEA}, contentHash: {167bd9}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

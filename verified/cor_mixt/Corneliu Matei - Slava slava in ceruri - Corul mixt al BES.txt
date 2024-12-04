@@ -1,5 +1,5 @@
 [title]
-Slavă, slavă în ceruri {alternative: {*}, composer: {Corneliu Matei}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Slavă, slavă în ceruri {alternative: {*}, composer: {Corneliu Matei}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {2yeamtyUTsEnpktNCZM2RB}, contentHash: {bc8a95}}
 
 [sequence]
 v1,c,v2,c,c2,e

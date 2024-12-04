@@ -1,5 +1,5 @@
 [title]
-Laudă fie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Laudă fie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {aPVVJhigjQ2cjXHBei8a63}, contentHash: {98593e}}
 
 [sequence]
 v1,v2,e

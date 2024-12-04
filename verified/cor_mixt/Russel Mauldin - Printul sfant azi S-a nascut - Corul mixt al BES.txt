@@ -1,5 +1,5 @@
 [title]
-Prințul sfânt azi S-a născut {alternative: {*}, composer: {*}, writer: {*}, arranger: {Russel Mauldin}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Prințul sfânt azi S-a născut {alternative: {*}, composer: {*}, writer: {*}, arranger: {Russel Mauldin}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {8U76JiYWzJws9KddMBuPNt}, contentHash: {23d7af}}
 
 [sequence]
 v1,v2,v3

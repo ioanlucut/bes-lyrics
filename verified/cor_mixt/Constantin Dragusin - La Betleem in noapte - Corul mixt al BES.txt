@@ -1,5 +1,5 @@
 [title]
-La Betleem, în noapte {alternative: {*}, composer: {Constantin Drăgușin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+La Betleem, în noapte {alternative: {*}, composer: {Constantin Drăgușin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {5eTCya2rWQF2dxKMybPJra}, contentHash: {e8af8a}}
 
 [sequence]
 v1,v2

@@ -1,5 +1,5 @@
 [title]
-Este-acum pace pe pământ {alternative: {Let There Be Peace on Earth}, composer: {Jay Rouse}, writer: {Randy Vader; Andrei Fedur}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Este-acum pace pe pământ {alternative: {Let There Be Peace on Earth}, composer: {Jay Rouse}, writer: {Randy Vader; Andrei Fedur}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {9pzfcRa3UoAd9Dyia3Hsmf}, contentHash: {4d7805}}
 
 [sequence]
 v1.1,v1.2,v1.1,v1.2,v2,v1.1,v1.2,e

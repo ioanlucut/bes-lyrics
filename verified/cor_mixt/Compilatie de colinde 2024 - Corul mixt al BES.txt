@@ -1,5 +1,5 @@
 [title]
-Compilație de colinde 2024 {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Compilație de colinde 2024 {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {ir68V9W8v5VhejHLqZgmZ3}, contentHash: {5723c7}}
 
 [sequence]
 v1,c,v2,c,c2,v3,v4,v5,v6,v7,v8,e

@@ -1,5 +1,5 @@
 [title]
-O, noapte sfântă, binecuvântată {alternative: {O, Holly Night}, composer: {Placide Cappeau}, writer: {Adolphe Adam; Valentin Popovici, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+O, noapte sfântă, binecuvântată {alternative: {O}, composer: {Placide Cappeau}, writer: {Adolphe Adam; Valentin Popovici}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {nPQ9yPhQmPCSM1cysbBHMp}, contentHash: {e1d99e}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,e
@@ -15,7 +15,6 @@ Speranța-n sufletul trudit răsare,
 A zorilor lumini ne strălucesc,
 Îngenunchiați, e ceru-n sărbătoare,
 /: Mulțimi de îngeri azi Îl preamăresc! :/
-
 
 [v2.1]
 Conduși de stea spre ieslea Lui săracă

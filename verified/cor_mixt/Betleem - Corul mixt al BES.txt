@@ -1,5 +1,5 @@
 [title]
-Betleem {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Betleem {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {q3tmWHw7QrnWM6eb9jUQJy}, contentHash: {ffcd22}}
 
 [sequence]
 v1,v2,v3,c,v4,v5,e

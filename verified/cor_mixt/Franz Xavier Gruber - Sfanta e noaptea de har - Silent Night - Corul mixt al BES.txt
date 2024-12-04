@@ -1,5 +1,5 @@
 [title]
-Sfântă e noaptea de har {alternative: {Silent Night, Holy Night!}, composer: {Franz Xavier Gruber}, writer: {Joseph Mohr; Eugenia Posa, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Sfântă e noaptea de har {alternative: {Silent Night}, composer: {Franz Xavier Gruber}, writer: {Joseph Mohr; Eugenia Posa}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {uWSbtzf46n36B1eh6Lernc}, contentHash: {df9aba}}
 
 [sequence]
 v1,v2,v3

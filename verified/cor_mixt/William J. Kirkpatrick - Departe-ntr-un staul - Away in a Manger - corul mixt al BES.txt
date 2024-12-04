@@ -1,5 +1,5 @@
 [title]
-Departe-ntr-un staul {alternative: {Away in a Manger}, composer: {William J. Kirkpatrick}, writer: {John Thomas McFarland; Benone Burtescu, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Departe-ntr-un staul {alternative: {Away in a Manger}, composer: {William J. Kirkpatrick}, writer: {John Thomas McFarland; Benone Burtescu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {mtyUUri7jeKEcKg1MxevEr}, contentHash: {0de3cc}}
 
 [sequence]
 v1,v2,v3

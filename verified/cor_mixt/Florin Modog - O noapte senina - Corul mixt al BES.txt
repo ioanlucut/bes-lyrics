@@ -1,5 +1,5 @@
 [title]
-O noapte senină {alternative: {*}, composer: {Florin Modog}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+O noapte senină {alternative: {*}, composer: {Florin Modog}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {jQngLRQdvB4fVDMdMGUFUy}, contentHash: {929398}}
 
 [sequence]
 v1,v2,e

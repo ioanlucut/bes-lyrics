@@ -1,5 +1,5 @@
 [title]
-Umil în ieslea rece {alternative: {*}, composer: {Nelu Mureșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Umil în ieslea rece {alternative: {*}, composer: {Nelu Mureșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {kZqdYEYJ7e9S2H68rG9ciJ}, contentHash: {f76030}}
 
 [sequence]
 v1,v2

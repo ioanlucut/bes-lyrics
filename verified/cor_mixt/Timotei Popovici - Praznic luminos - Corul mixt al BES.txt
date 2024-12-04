@@ -1,5 +1,5 @@
 [title]
-Praznic luminos {alternative: {*}, composer: {Timotei Popovici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Praznic luminos {alternative: {*}, composer: {Timotei Popovici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {rqpNdunnZbErbzcEfBTJxG}, contentHash: {2e4625}}
 
 [sequence]
 v1,v2,v3,v4

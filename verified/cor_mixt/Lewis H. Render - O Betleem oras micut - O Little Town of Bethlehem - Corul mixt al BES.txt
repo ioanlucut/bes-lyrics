@@ -1,5 +1,5 @@
 [title]
-O, Betleem, oraș micuț {alternative: {O Little Town of Bethlehem}, composer: {Lewis H. Render}, writer: {Phillips Brooks; Petru Popovici, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+O, Betleem, oraș micuț {alternative: {O Little Town of Bethlehem}, composer: {Lewis H. Render}, writer: {Phillips Brooks; Petru Popovici}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {qxK9F6PzVguLp25kSBbx8b}, contentHash: {f30dab}}
 
 [sequence]
 v1,v2,v3
