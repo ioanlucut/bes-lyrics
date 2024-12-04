@@ -1,5 +1,5 @@
 [title]
-Colindul îngerilor {alternative: {Angels' Carol}, composer: {John Rutter}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
+Colindul îngerilor {alternative: {Angels’ Carol}, composer: {John Rutter}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, contentHash: {*}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
