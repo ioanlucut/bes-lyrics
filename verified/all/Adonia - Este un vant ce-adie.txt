@@ -1,5 +1,5 @@
 [title]
-Este un vânt ce-adie {alternative: {*}, composer: {Adonia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2838}, id: {pTv7fGnmzkjF5LDjvDfatj}, contentHash: {a856de}}
+Este un vânt ce-adie {alternative: {*}, composer: {Adonia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2838}, id: {pTv7fGnmzkjF5LDjvDfatj}, contentHash: {f02cdf}}
 
 [sequence]
 v1,c,v2,c,v3,c

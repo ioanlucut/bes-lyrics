@@ -1,5 +1,5 @@
 [title]
-Mai cheamă-mi, Isuse, al meu duh zdrobit {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Mai cheamă-mi, Isuse, al meu duh zdrobit {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {a5ZzBAoDsrX31DVHUa2t5e}, contentHash: {705a30}}
 
 [sequence]
 v1,c,v2,c2,v3,c3
