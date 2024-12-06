@@ -1,5 +1,5 @@
 [title]
-Ai plătit un preț să-mi dai viață {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1379}, id: {a8qnn6ny1zT5PkBZyRaWHo}, contentHash: {08c189}}
+Ai plătit un preț să-mi dai viață {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1379}, id: {a8qnn6ny1zT5PkBZyRaWHo}, contentHash: {e618df}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
@@ -12,7 +12,7 @@ Cât de drag îmi ești și-s fericit.
 
 [v1.2]
 Numele mi-e scris în Cartea Vieții
-Și, Te rog, Isus, cu orice preț,
+Și doresc, Isus, cu orice preț
 Să rămân statornic în credință,
 Să Te laud și să Te slăvesc.
 

@@ -1,53 +1,29 @@
 [title]
-Eu pe Domnul iubesc, Numele-I preamăresc {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7121}, id: {q3nHNDc2QHbyd1Bjpj1NZw}, contentHash: {7746da}}
+Eu pe Domnul iubesc, Numele-I preamăresc {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7121}, id: {q3nHNDc2QHbyd1Bjpj1NZw}, contentHash: {856c33}}
 
 [sequence]
-v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
+v1,c,v2,c,v3,c
 
-[v1.1]
-Eu pe Domnul iubesc,
-Numele-I preamăresc
-Pentru că m-a creat
-Și lumină mi-a dat.
+[v1]
+Eu pe Domnul iubesc, Numele-I preamăresc
+Pentru că m-a creat și lumină mi-a dat.
+Zi de zi voi cânta și Îl voi lăuda,
+Cu harfa iubirii Îi voi cânta!
 
-[v1.2]
-Zi de zi voi cânta
-Și Îl voi lăuda
-Cu harfa iubirii
-Îi voi cânta.
+[c]
+/: Cerul, pământul și marea să-L laude ne-ncetat,
+Să-I cânte toată suflarea: slavă Lui că ne-a creat!
+Cântă-I și tu azi mărire Celui ce viață ți-a dat
+Și a-nviat pentru tine ca să fii răscumpărat! :/
 
-[c1.1]
-/: Cerul, pământul și marea
-Să-L laude ne-ncetat,
-Să-I cânte toată suflarea,
-Slavă Lui că ne-a creat.
+[v2]
+El nădejde mi-a dat, fie-n veci lăudat,
+Numele Lui cel sfânt, scutul meu pe pământ!
+Orișiunde-aș umbla, El nu mă va lăsa,
+La pășunea Lui verde mă conduce.
 
-[c1.2]
-Cântă-I și tu azi mărire
-Celui ce viață ți-a dat
-Și a-nviat pentru tine
-Ca să fii răscumpărat. :/
-
-[v2.1]
-El nădejde mi-a dat,
-Fie-n veci lăudat,
-Numele Lui cel sfânt,
-Scutul meu pe pământ!
-
-[v2.2]
-Orișiunde-aș umbla,
-El nu mă va lăsa,
-La pășunea Lui verde
-Mă conduce.
-
-[v3.1]
-Tu mai ai doar un pas,
-Fă-l atunci spre Isus.
-Nu fii nepăsător
-Cu-al tău Mântuitor.
-
-[v3.2]
-Încă azi nu-i târziu
-Mântuit ca să fii,
-Fă pasul acesta
-Spre veșnicii.
+[v3]
+Tu mai ai doar un pas, Fă-l acum spre Isus.
+Nu fii nepăsător Cu-al tău Mântuitor!
+Încă azi nu-i târziu mântuit ca să fii,
+Fă pasul acesta spre veșnicii!

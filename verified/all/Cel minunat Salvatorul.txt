@@ -1,5 +1,5 @@
 [title]
-Cel minunat, Salvatorul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221861}, id: {qdGSdWzJWN2oZD2ESiCWgE}, contentHash: {356345}}
+Cel minunat, Salvatorul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {221861}, id: {qdGSdWzJWN2oZD2ESiCWgE}, contentHash: {a88332}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -10,7 +10,8 @@ Cine-a crezut că e Mielul ce moare pentru om?
 O, da, ce moare pentru om!
 
 [c]
-Tu ești Cel vrednic de slavă, Cel vrednic de-a fi iubit.
+Tu ești Cel vrednic de slavă,
+Cel vrednic de-a fi iubit.
 Noi însetăm după Tine, viață ne-ai dăruit,
 O, da, viață ne-ai dăruit!
 
@@ -21,6 +22,6 @@ Ne-ai dat nădejdi și-alin,
 O, da, ne-ai dat nădejdi și-alin!
 
 [v3]
-Atotputernic Părinte, Tu ne-ai iubit din vecii.
-Din slăbiciune și moarte, ne-ai înălțat ca fii.
+Atotputernic Părinte, Tu ne-ai iubit din vecii,
+Din slăbiciune și moarte, ne-ai înălțat ca fii,
 O, da, ne-ai înălțat ca fii!

@@ -1,8 +1,8 @@
 [title]
-Ne-ntoarcem ca să-Ți mulțumim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4005}, id: {8AhN6cqEvxsVH8riKb3Lo1}, contentHash: {ebd827}}
+Ne-ntoarcem ca să-Ți mulțumim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4005}, id: {8AhN6cqEvxsVH8riKb3Lo1}, contentHash: {927c55}}
 
 [sequence]
-v1,v2,c,v3,v4
+v1,v2,c,v3,v4,v5
 
 [v1]
 Ne-ntoarcem ca să-Ți mulțumim,
@@ -33,3 +33,9 @@ Ne-ntoarcem ca să-Ți mulțumim,
 Căci ne iubești și Te iubim.
 Tu singur, Doamne, ne poți da
 Ce lumea-ntreagă n-ar putea.
+
+[v5]
+Ne-ntoarcem ca să-Ți mulțumim
+Căci de la Tine noi primim
+Viață veșnică în dar
+Și bucurii fără hotar.

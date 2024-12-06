@@ -1,15 +1,15 @@
 [title]
-Ai un loc la cruce și tu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74544}, id: {5G3EMXXLQE95J16RDj1jw5}, contentHash: {93f64b}}
+Ai un loc la cruce și tu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74544}, id: {5G3EMXXLQE95J16RDj1jw5}, contentHash: {c39cf8}}
 
 [sequence]
 c,v1
 
 [c]
-/: Ai un loc la cruce și tu! :/
-Unde mulți au venit
-Și tu poți fi primit.
+/: Ai un loc la cruce și tu,
+Ai un loc la cruce și tu,
+Unde mulți au venit și tu poți fi primit,
 Ai un loc la cruce și tu! :/
 
 [v1]
-/: Îl iubesc pe Isus :/ (3x)
-Că-ntâi El m-a iubit! :/ (3x)
+/: Îl iubesc pe Isus, Îl iubesc pe Isus,
+Îl iubesc pe Isus că-ntâi El m-a iubit! :/

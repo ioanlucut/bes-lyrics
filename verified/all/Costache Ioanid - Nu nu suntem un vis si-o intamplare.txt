@@ -1,5 +1,5 @@
 [title]
-Nu, nu suntem un vis și-o întâmplare {alternative: {*}, composer: {Costache Ioanid}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1802}, id: {j6AnEgYiRcRJrUNAPed5oZ}, contentHash: {2fe942}}
+Nu, nu suntem un vis și-o întâmplare {alternative: {*}, composer: {Costache Ioanid}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1802}, id: {j6AnEgYiRcRJrUNAPed5oZ}, contentHash: {c2eccc}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -29,7 +29,7 @@ Există Dumnezeu,
 Există Dumnezeu cu-adevărat! :/
 
 [v4]
-Avem cu noi Scriptura, ca dovadă,
+Avem cu noi Scriptura ca dovadă
 Avem minuni și semne ne-ncetat.
 /: Și cine vrea pe Dumnezeu să-L vadă,
 Să stea în fața Lui pe baricadă!

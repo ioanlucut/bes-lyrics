@@ -1,41 +1,34 @@
 [title]
-Doamne, mai vreau Rusalii {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4431}, id: {d7CL5n8SsKJcdTjgj9gYEH}, contentHash: {909029}}
+Doamne, mai vreau Rusalii {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4431}, id: {d7CL5n8SsKJcdTjgj9gYEH}, contentHash: {01857a}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c
 
 [v1.1]
-Doamne, mai vreau Rusalii
-Cu limbi de foc,
+Doamne, mai vreau Rusalii cu limbi de foc,
 Să le împrăștii pe fiecare,
-Să ne atingi cu Duhul Tău.
+Să ne atingi cu Duhul Tău!
 
 [v1.2]
 Doamne, vreau o trezire
 Și într-un gând și o simțire
-Să fim cu toții
-Și să cântăm în limbi o mie.
+Să fim cu toții și să cântăm în limbi o mie!
 
 [c]
-/: Tu faci cerul să coboare,
-Naști în inimă izvoare.
-O, Duh Preasfânt, dă-ne Rusalii,
-O, Duh Preasfânt! :/
+/: Tu faci cerul să coboare, naști în inimă izvoare,
+O, Duh preasfânt, dă-ne Rusalii, O, Duh preasfânt! :/
 
 [v2.1]
 Doamne, dă-mi bucurie
-Și să mă legi strâns în iubire.
-Doamne, vreau tot mai mult
-Din Duhul Tău.
+Și să mă legi strâns în iubire!
+Doamne, vreau tot mai mult din Duhul Tău!
 
 [v2.2]
 Doamne, mai vreau sfințire
 Și-un foc adânc să ardă-n mine,
-Pe veci să fiu al Tău
-În nemurire.
+Pe veci să fiu al Tău în nemurire!
 
 [b]
 Doamne, vreau o trezire
 Și într-un gând și o simțire
-Să fim cu toții și să cântăm
-În nemurire.
+Să fim cu toții și să cântăm în nemurire!

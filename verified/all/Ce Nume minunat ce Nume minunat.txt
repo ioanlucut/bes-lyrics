@@ -1,5 +1,5 @@
 [title]
-Ce Nume minunat, ce Nume minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8Y8HXgGV39WoitjCtkRKCb}, contentHash: {099f34}}
+Ce Nume minunat, ce Nume minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8Y8HXgGV39WoitjCtkRKCb}, contentHash: {506fd9}}
 
 [sequence]
 v1,c,v1,c
@@ -13,5 +13,5 @@ Ce Nume minunat este Isus!
 [c]
 El e Păstorul, e Stânca cea tare,
 Atotputernic e!
-Să-I dăm cinstire, slavă, mărire.
+Să-I dăm cinstire, slavă, mărire,
 Numele lui Isus e minunat!
