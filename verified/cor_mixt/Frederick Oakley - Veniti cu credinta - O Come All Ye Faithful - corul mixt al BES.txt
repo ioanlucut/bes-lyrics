@@ -1,0 +1,28 @@
+[title]
+Veniți cu credință {alternative: {O Come All Ye Faithful}, composer: {Frederick Oakley}, writer: {John Francis Wade}, arranger: {W. H. Monk}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {s9bUgLwnuxtUeREA3qm83W}, contentHash: {47a220}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Veniți cu credință, plini de bucurie,
+Veniți, o, veniți toți la Betleem!
+Iată-L în paie, Rege al măririi!
+
+[c]
+/: Veniți să ne-nchinăm Lui, :/ (x3)
+El e Domn!
+
+[v2]
+Voi, coruri de îngeri, glorie aduceți
+Acelui ce-n iesle umil S-a născut!
+Slavă lui Dumnezeu în înălțime!
+
+[v3]
+O, Doamne, Îți spunem bun venit în lume,
+Isuse, a Ta fie slava-n veci!
+Tu ești Cuvântul vieții printre oameni!
+
+[c2]
+/: Te adorăm, Isuse, :/ (x3)
+Tu ești Domn!

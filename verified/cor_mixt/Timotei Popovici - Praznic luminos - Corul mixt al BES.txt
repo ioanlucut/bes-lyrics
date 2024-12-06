@@ -1,0 +1,29 @@
+[title]
+Praznic luminos {alternative: {*}, composer: {Timotei Popovici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {rqpNdunnZbErbzcEfBTJxG}, contentHash: {2e4625}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Praznic luminos, strălucit, frumos,
+Astăzi ne-a sosit și ne-a-nveselit
+Că Mântuitorul și Izbăvitorul
+/: Cu trup S-a născut. :/
+
+[v2]
+Raiul cel închis azi iar s-a deschis,
+Șarpelui cumplit capul s-a zdrobit
+Și strămoșii iară, prin sfânta fecioară,
+/: Iar s-au înnoit. :/
+
+[v3]
+Îngerii cântau, păstori fluierau,
+Magii se-nchinau, toți se bucurau,
+Dar Irod era și se tulbura
+/: De nașterea Sa. :/
+
+[v4]
+El Îl căuta, voind morții-a-L da,
+Dar Pruncul Isus din țară s-a dus,
+Fie lăudat, binecuvântat
+/: De-a pururi, amin! :/

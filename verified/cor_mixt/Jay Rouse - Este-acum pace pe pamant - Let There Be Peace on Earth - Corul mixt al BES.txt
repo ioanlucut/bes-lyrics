@@ -1,0 +1,24 @@
+[title]
+Este-acum pace pe pământ {alternative: {Let There Be Peace on Earth}, composer: {Jay Rouse}, writer: {Randy Vader; Andrei Fedur}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {9pzfcRa3UoAd9Dyia3Hsmf}, contentHash: {4d7805}}
+
+[sequence]
+v1.1,v1.2,v1.1,v1.2,v2,v1.1,v1.2,e
+
+[v1.1]
+Este-acum pace pe pământ,
+Dragostea-ntrece orice gând,
+Te bucură azi: Isus a venit,
+Profețiile s-au împlinit!
+
+[v1.2]
+Este-acum pace pe pământ,
+Cerul tresaltă-ntr-un gând,
+Lumina a venit cum profeții au vestit,
+E din plin pace pe pământ!
+
+[v2]
+Minunat, Sfetnic bun, Preaînalt, Tatăl veșniciei,
+Rege-n veci, Împărat, Prinț al păcii, Domn.
+
+[e]
+/: E din plin pace pe pământ! :/

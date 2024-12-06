@@ -1,0 +1,30 @@
+[title]
+Slavă, slavă în ceruri {alternative: {*}, composer: {Corneliu Matei}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; cântări combinate}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {2yeamtyUTsEnpktNCZM2RB}, contentHash: {bc8a95}}
+
+[sequence]
+v1,c,v2,c,c2,e
+
+[v1]
+O stea luminează o iesle-aici jos,
+Totul e-n freamăt e-atât de frumos!
+Întregul văzduh de îngeri e plin,
+Se-aude cântând azi primul colind:
+
+[c]
+/: Slavă, slavă în ceruri
+Și pace între oameni pe pământ! :/
+
+[v2]
+Din ceruri coboară azi Prințul divin,
+În lumea noastră atât de umil,
+Să ne-aducă pace, iertare în dar,
+La toți mântuire prin sfântul Său har!
+
+[c2]
+/: Aleluia, aleluia, aleluia! :/
+
+[e]
+El este Domn, Hristos în veci e Rege,
+Iubirea, slava Lui o preamărim,
+Iubirea, slava Lui o preamărim,
+Amin, în veci amin!

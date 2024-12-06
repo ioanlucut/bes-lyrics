@@ -1,0 +1,51 @@
+[title]
+S-a-ntrupat Cuvântul {alternative: {*}, composer: {Nicu Rusu}, writer: {Nicu Rusu}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {jGuJsBob9cqqbwV1hZBcvR}, contentHash: {ac900c}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,e
+
+[v1.1]
+La început era Cuvântul,
+Cuvântul sfânt ce-i Dumnezeu,
+El e viața și lumina,
+speranța sufletului meu.
+
+[v1.2]
+El a venit lăsându-Și slava
+Și a luat un trup ca noi
+Să-avem cu toți lumina vieții,
+Speranță-n ziua de apoi.
+
+[c]
+/: S-a întrupat Cuvântul, Lumina a venit,
+S-a-nfiorat pământul pe el când a pășit,
+S-a încheiat robia păcatului adamic,
+Pe tron e azi Lumina și ea domnește-n veci. :/
+
+[v2.1]
+Lumina a venit în lume
+În miez de noapte-n Betleem,
+Căci pe pământ întunecimea
+Lega pământul sub blestem.
+
+[v2.2]
+Cu toții pribegeam prin noapte,
+Eram pierduți, morți în păcat,
+Aveam nevoie de Lumină,
+Ea a venit și ne-a salvat.
+
+[v3.1]
+Isus, Lumina din vecie,
+A coborât până la noi,
+A biruit întunecimea
+Și ne-a schimbat în oameni noi.
+
+[v3.2]
+Ne-a dăruit o viață nouă,
+Păcatul nostru e iertat,
+Trăim prin har o viață sfântă,
+În noi Lumina a intrat.
+
+[e]
+Pe tron e azi Lumina, pe tron e azi Lumina
+Și ea domnește-n veci!

@@ -1,0 +1,26 @@
+[title]
+S-a născut azi Domnul sfânt {alternative: {Our Day of Joy is Here Again}, composer: {Lloyd Larson}, writer: {Andrew L. Skoog; Eugenia Posa}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {46J7yXEVvsHUSYVLg4APEA}, contentHash: {167bd9}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Frumoasă zi de bucurii la noi iar a sosit,
+În coruri sfinte cu îngerii cântarea ne-am unit.
+
+[c]
+Slavă lui Dumnezeu cântăm,
+Regelui nostru ne-nchinăm,
+Pace fie pe pământ:
+S-a născut azi Domnul sfânt!
+
+[v2]
+Când întunericul domnea, Lumina a venit,
+Căci Dumnezeu ne oferea un dar neprețuit.
+
+[v3]
+Acum la ieslea Ta venim, la Cel glorificat,
+Umilul Prunc ce azi privim e Domn și Împărat.
+
+[e]
+S-a născut azi Domnul sfânt!
