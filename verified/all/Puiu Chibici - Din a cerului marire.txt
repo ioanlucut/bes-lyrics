@@ -5,8 +5,8 @@ Din a cerului mărire {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, 
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Din a cerului mărire pentru omul păcătos,
-Să ne aduci mântuire, ai venit, Isus Hristos!
+Din a cerului mărire, pentru omul păcătos,
+Să aducă mântuire, a venit, Isus Hristos.
 
 [c]
 /: Îți aducem închinare, cu iubire Te lăudăm.
@@ -18,8 +18,8 @@ Dar dorim pentru vecie, Mesia, să Îți cântăm!
 
 [v3]
 Stea ce-ai răsărit odată, peste țara Israel,
-Ne sfințește viața toată, Mesia, Emanuel.
+Ne sfințește viața toată, Mesia, Emanuel!
 
 [v4]
 De aproape sau departe, tineri, vârstnici sau copii,
-Te chemăm Isus ca frate, Domn și Rege să ne fii.
+Te chemăm Isus ca frate, Domn și Rege să ne fii!

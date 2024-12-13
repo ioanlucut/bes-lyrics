@@ -5,17 +5,25 @@ Astăzi vin și-mi plec genunchii {alternative: {*}, composer: {Nicolae Moldovea
 v1,v2,v3,v4
 
 [v1]
-Astăzi vin și-mi plec genunchii, înaintea ieslei Tale,
-/: Copilaș din altă lume, obosit de frig și cale. :/
+Astăzi vin și-mi plec genunchii,
+Înaintea ieslei Tale,
+/: Copilaș din altă lume,
+Obosit de frig și cale. :/
 
 [v2]
-Și-mi plec inima și fața, Copilaș din zare-albastră,
-/: Și mă-nchin, cu umilință, Călător în lumea noastră. :/
+Și-mi plec inima și fața,
+Copilaș din zare-albastră,
+/: Și mă-nchin cu umilință,
+Călător în lumea noastră. :/
 
 [v3]
-Nu am smirnă ca și magii, Nici tămâie și nici aur,
-/: Lacrimile pocăinței îmi sunt singurul tezaur. :/
+Nu am smirnă ca și magii,
+Nici tămâie și nici aur,
+/: Lacrimile pocăinței
+Îmi sunt singurul tezaur. :/
 
 [v4]
-Ți le-aduc acum-nainte, cu sfială și rușine,
-/: Copilaș venit din ceruri să porți crucea pentru mine. :/
+Ți le-aduc acum-nainte,
+Cu sfială și rușine,
+/: Copilaș venit din ceruri
+Să porți crucea pentru mine. :/

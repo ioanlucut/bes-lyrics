@@ -5,11 +5,12 @@ E Crăciun acuma iar {alternative: {*}, composer: {*}, writer: {*}, arranger: {*
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-E Crăciun acuma iar, ca și la-nceput,
-Munți și văi a străbătut vestea „S-a născut!”
+/: E Crăciun acuma iar, ca și la-nceput,
+Munți și văi a străbătut vestea „S-a născut!” :/
 
 [c]
-Mesia, Mesia, e nădejdea vieții noastre în lume-aceasta.
+Mesia, Mesia,
+E nădejdea vieții noastre în lume-aceasta.
 
 [v2]
 N-avem daruri ca să-I dăm ce-ar putea primi?
