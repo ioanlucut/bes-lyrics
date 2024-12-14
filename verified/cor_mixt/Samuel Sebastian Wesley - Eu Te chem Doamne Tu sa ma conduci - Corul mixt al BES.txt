@@ -1,5 +1,5 @@
 [title]
-Eu Te chem, Doamne, Tu să mă conduci {alternative: {*}, composer: {Samuel Sebastian Wesley}, writer: {Fred Bock}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {5sXHRqiPaoT53X4vQjdJGV}, contentHash: {124bf2}}
+Eu Te chem, Doamne, Tu să mă conduci {alternative: {*}, composer: {Samuel Sebastian Wesley}, writer: {Fred Bock}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {5sXHRqiPaoT53X4vQjdJGV}, contentHash: {58942f}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -10,7 +10,7 @@ Fă-mi drumul neted printre stânci!
 
 [c]
 Stai lângă mine, Te implor, o, Doamne,
-Tu, numai Tu, ești sprijinul meu! Amin!
+Tu, numai Tu, ești sprijinul meu!
 
 [v2]
 Eu Te-aștept, Doamne, Tu să mă înveți,

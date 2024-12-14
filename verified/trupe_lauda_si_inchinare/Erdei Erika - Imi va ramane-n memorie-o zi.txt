@@ -1,5 +1,5 @@
 [title]
-Îmi va rămâne-n memorie-o zi {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66227}, id: {sjyiYGrdbM3TBCTeppNKAw}, contentHash: {16ff6b}}
+Îmi va rămâne-n memorie-o zi {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66227}, id: {sjyiYGrdbM3TBCTeppNKAw}, contentHash: {2a25c8}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -7,12 +7,12 @@ v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 [v1.1]
 Îmi va rămâne-n memorie-o zi
 Când s-a schimbat viața mea.
-Ziua aceea, mereu o voi ști:
-Semnul iubirii e-n ea!
+Ziua aceea mereu o voi ști,
+Semnul iubirii e-n ea.
 
 [v1.2]
 Prieten bun, minunat, iubitor,
-Dorul mi l-a împlinit!
+Dorul mi l-a împlinit,
 Vesel voi spune măreața minune
 Cum Domnul meu m-a mântuit!
 
@@ -25,7 +25,7 @@ Glorii din cer în mine s-au revărsat. :/
 [v2.1]
 Domnul sigiliul pe inimă-a pus,
 Fiu în familia Sa.
-Sunt curățit de păcat prin Isus
+Sunt curățit de păcat prin Isus,
 O, cât e de bine așa!
 
 [v2.2]

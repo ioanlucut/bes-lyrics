@@ -1,5 +1,5 @@
 [title]
-Cântați toți de bucurie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {222623}, id: {21Aq4baL9UemxVqsoynTUt}, contentHash: {66cda5}}
+Cântați toți de bucurie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {222623}, id: {21Aq4baL9UemxVqsoynTUt}, contentHash: {0328fa}}
 
 [sequence]
 v1,v2,v3
@@ -11,8 +11,8 @@ Cerul și pământul, cerul, cerul și pământul!
 
 [v2]
 Omenirea să-L primească pe Regele suprem,
-Iar inima omenească Lui să-I gătească loc,
-Lui să-I gătească loc, Lui să-I, Lui să-I gătească loc!
+Iar inima omenească Lui să-I găsească loc,
+Lui să-I găsească loc, Lui să-I, Lui să-I găsească loc!
 
 [v3]
 El va domni-n mărire peste-ntreaga lume.

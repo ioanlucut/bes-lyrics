@@ -1,5 +1,5 @@
 [title]
-Din adâncul inimii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74510}, id: {3RJ6DXTii41wKamgxDCtUx}, contentHash: {1bf44a}}
+Din adâncul inimii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74510}, id: {3RJ6DXTii41wKamgxDCtUx}, contentHash: {15672e}}
 
 [sequence]
 v1,c,v1,c
@@ -15,5 +15,5 @@ Dumnezeu cât e de bun,
 [c]
 Aleluia, Te laudă al meu suflet,
 Aleluia, Te laudă gura mea mereu.
-Aleluia, vreau să spun tuturor,
+Aleluia, vreau să spun tuturora,
 Ce măreț ești Doamne, Dumnezeul meu!

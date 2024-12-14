@@ -1,0 +1,35 @@
+[title]
+Urare {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {uVtiFmAWF8jbo4UzbgE6pQ}, contentHash: {4e647a}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Am venit din depărtare să vă-aducem o urare
+Și un dar la fiecare:
+Să aveți un an frumos
+Și o viață cu folos!
+
+[c]
+Un an de fericire, un an cu iubire
+/: Dumnezeu să vă dea la toată familia,
+Prin Isus Hristos, Mesia, :/
+O viață cu Hristos!
+
+[v2]
+Har și pace vă dorim, bucurie și alin
+Și credință pe deplin,
+Îndurarea Domnului, binecuvântarea Lui
+Și arvuna cerului!
+
+[v3]
+Astăzi noi v-am colindat, sfaturi bune v-am lăsat,
+Mulțumim că-ați ascultat!
+Iar de-o fi să dați de greu amintiți-vă mereu
+Că există Dumnezeu!
+
+[v4]
+Să rămâneți cu Isus, ținta să vă fie sus,
+După cum Domnul a spus!
+Iar de nu ne-om mai vedea, în împărăția Sa
+Veșnic ne vom bucura.

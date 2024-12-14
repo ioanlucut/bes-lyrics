@@ -1,5 +1,5 @@
 [title]
-Nu există cruce fără iesle {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {rRzpzTdemBCaD5agyjkcMU}, contentHash: {265677}}
+Nu există cruce fără iesle {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {rRzpzTdemBCaD5agyjkcMU}, contentHash: {825352}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2,c1.1,c1.2,c2.1,c2.2,c2.1,c2.2,c1.1,c1.2,c1.1,c1.2
@@ -44,4 +44,5 @@ Aur, smirnă, tămâie n-a vrut nimeni să-I ofere, ci bătăi.
 [c2.2]
 Și prin jertfa de-atunci astăzi dă eliberare,
 Iar prin rănile Lui iertare, vindecare.
-Căci un Rege, nu un prunc a venit ca să găsească ce-i pierdut.
+Căci un Rege, nu un prunc
+A venit ca să găsească ce-i pierdut.
