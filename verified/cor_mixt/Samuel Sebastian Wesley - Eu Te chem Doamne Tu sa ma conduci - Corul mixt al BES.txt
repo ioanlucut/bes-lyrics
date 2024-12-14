@@ -1,5 +1,5 @@
 [title]
-Eu Te chem, Doamne, Tu să mă conduci {alternative: {*}, composer: {Samuel Sebastian Wesley}, writer: {Fred Bock}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {5sXHRqiPaoT53X4vQjdJGV}, contentHash: {124bf2}}
+Eu Te chem, Doamne, Tu să mă conduci {alternative: {*}, composer: {Samuel Sebastian Wesley}, writer: {Fred Bock}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {5sXHRqiPaoT53X4vQjdJGV}, contentHash: {58942f}}
 
 [sequence]
 v1,c,v2,c,v3,c

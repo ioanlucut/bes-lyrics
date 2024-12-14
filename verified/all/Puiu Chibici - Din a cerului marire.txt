@@ -1,5 +1,5 @@
 [title]
-Din a cerului mărire {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {4211}, id: {uNRYW4KLbbWuBScKrJXYeZ}, contentHash: {10ce51}}
+Din a cerului mărire {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {4211}, id: {uNRYW4KLbbWuBScKrJXYeZ}, contentHash: {287238}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

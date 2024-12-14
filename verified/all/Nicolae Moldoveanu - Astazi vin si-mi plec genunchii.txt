@@ -1,5 +1,5 @@
 [title]
-Astăzi vin și-mi plec genunchii {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Simion Cure}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {241280}, id: {8BFEffXiaHj3mURXwuuAnV}, contentHash: {03fc42}}
+Astăzi vin și-mi plec genunchii {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Simion Cure}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {241280}, id: {8BFEffXiaHj3mURXwuuAnV}, contentHash: {16415a}}
 
 [sequence]
 v1,v2,v3,v4

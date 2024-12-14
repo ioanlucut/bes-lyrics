@@ -1,5 +1,5 @@
 [title]
-Urare {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Urare {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {uVtiFmAWF8jbo4UzbgE6pQ}, contentHash: {4e647a}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
