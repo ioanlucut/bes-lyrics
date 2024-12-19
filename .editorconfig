@@ -10,3 +10,6 @@ insert_final_newline = true
 
 [{*.js,*.ts(x)}]
 insert_final_newline = true
+
+[*.tex]
+insert_final_newline = false
