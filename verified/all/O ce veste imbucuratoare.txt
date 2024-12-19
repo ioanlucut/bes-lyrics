@@ -11,8 +11,8 @@ Vestea despre marea îndurare
 Care Dumnezeu ne-a trimis de sus.
 
 [c]
-Iată, S-a născut Isus, mântuire ne-a adus,
-El ne scapă din nevoi, Dumnezeu este cu noi!
+/: Iată, S-a născut Isus, mântuire ne-a adus,
+El ne scapă din nevoi, Dumnezeu este cu noi! :/
 
 [v2]
 O, ce veste îmbucurătoare,

@@ -8,7 +8,7 @@ v1.1,v1.2,c,v2.1,v2.2,c,b,c,b,b2,b3
 Cred într-un singur Dumnezeu,
 Creatorul a toate,
 Cred în Isus ce-a murit
-Pentru-ale mele păcate.
+Pentru-a mele păcate.
 
 [v1.2]
 Cred în Duhul Sfânt trimis,
@@ -24,8 +24,8 @@ El e vrednic să fie-onorat.
 
 [v2.1]
 Domnul luptă pentru noi,
-Cine va sta împotrivă?
-Pentru cei răscumpărați,
+Cine va sta-mpotrivă?
+Pentru cei răscumpărați
 Cine acuze ridică?
 
 [v2.2]
@@ -37,7 +37,7 @@ Pentru noi mijlocește.
 [b]
 Vrednic este Mielul ‘junghiat,
 El prin moarte ne-a răscumpărat
-Și prin sângele curs a plătit prețul pus
+Și prin sângele curs a plătit prețul pus,
 El e vrednic să fie-onorat.
 
 [b2]
@@ -48,6 +48,6 @@ Ce nespus de mult m-a iubit.
 
 [b3]
 Nici îngeri, demoni sau moarte
-Nu m-ar putea clătina
+Nu m-ar putea clătina,
 Știu cui slujesc și cui mă închin,
 În dragoste sunt ancorat.

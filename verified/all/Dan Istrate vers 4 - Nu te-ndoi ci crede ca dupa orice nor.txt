@@ -5,8 +5,8 @@ Nu te-ndoi, ci crede că după orice nor {alternative: {*}, composer: {Dan Istra
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
 
 [v1.1]
-Nu te-ndoi, ci crede că după orice nor
-E-un soare și mai dulce și mai strălucitor.
+Nu te-ndoi, ci crede că dicnolo de nori
+E-un soare și mai dulce și mai strălucitor!
 
 [v1.2]
 /: Nu norul este veșnic, ci soarele-i acel
@@ -14,19 +14,19 @@ Ce-nvinge și rămâne stăpân în urmă el. :/
 
 [v2.1]
 Nu te uita la tine că ești atât de slab,
-Nici la vrăjmașul care te-ar nimici degrab’.
+Nici la vrăjmașul care te-ar nimici degrab’!
 
 [v2.2]
 /: Nu te uita la ziduri, la porțile de fier,
-La ura ce scrâșnește, ci uită-te la cer. :/
+La ura ce scrâșnește, ci uită-te la cer! :/
 
 [v3.1]
 Nu te-ndoi, ci crede că dincolo de tot,
-Veghează Dumnezeul puternic, Savaot.
+Veghează Dumnezeul puternic, Savaot!
 
 [v3.2]
 /: Că niciun păr nu-ți cade, că nicio clipă nu-i,
-Că nu-i nicio-ncercare decât prin voia Lui. :/
+Că nu-i nicio-ncercare decât prin voia Lui! :/
 
 [v4.1]
 Și dacă crezi puternic, nimic nu e spre rău,
