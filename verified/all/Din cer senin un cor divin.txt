@@ -1,0 +1,39 @@
+[title]
+Din cer senin un cor divin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {pR6nhErNT8ygTokNf4gi41}, contentHash: {67178f}}
+
+[sequence]
+v1,v2,v3,v4,v5,e
+
+[v1]
+/: Din cer senin un cor divin
+Se-aude lin cântând, :/
+/: Păstori cu har pe culmi apar
+Albi miei în dar ducând. :/
+
+[v2]
+/: O stea din zări veghind,
+Cărări spre depărtări arzând, :/
+/: Conduce magi cu daruri dragi
+În albi desagi ducând. :/
+
+[v3]
+/: Și-un Prunc plăpând, cu chipul blând,
+Stă surâzând, tăcând, :/
+/: Iar maică-sa Îl legăna
+Și toți se bucurau. :/
+
+[v4]
+/: Și cerul sfânt și-acest pământ
+S-au luminat prin Prunc :/
+/: Și s-au sfințit și L-au slăvit
+Acei ce L-au primit. :/
+
+[v5]
+/: Iar noi văzând ne închinăm
+Și chipu-I sărutăm, :/
+/: Cu dor voind ai Lui să fim
+Și-n veci să Îl slăvim. :/
+
+[e]
+/: Din cer senin un cor divin
+Se-aude lin cântând. :/

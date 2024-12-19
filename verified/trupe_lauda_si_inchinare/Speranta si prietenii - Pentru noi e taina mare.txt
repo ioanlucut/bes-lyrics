@@ -1,5 +1,5 @@
 [title]
-Pentru noi e taină mare {alternative: {*}, composer: {Speranța și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5545}, id: {jpUBuZE21LekLdWZUKoLz9}, contentHash: {3355aa}}
+Pentru noi e taină mare {alternative: {*}, composer: {Speranța și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5545}, id: {jpUBuZE21LekLdWZUKoLz9}, contentHash: {4b2693}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -13,8 +13,8 @@ Poate e o zi cu nor.
 [v1.2]
 Însă știu că-ngrijorarea
 Să o las va trebui,
-Dumnezeu și îndurarea,
-În etern, vor dăinui.
+Dumnezeu și îndurarea
+În etern vor dăinui.
 
 [c]
 /: Nu pot ști ce fi-va mâine,
@@ -23,7 +23,7 @@ Dumnezeu și îndurarea,
 Căci și eu sunt fiul Său. :/
 
 [v2.1]
-Parcă urc trepte de aur,
+Parcă urc trepte de aur
 Către culmi de har ceresc
 Și zăresc măreț tezaur,
 Oare când îl dobândesc?
@@ -35,13 +35,13 @@ Când voi fi în nemurire
 Cu al meu Mântuitor?
 
 [v3.1]
-Ce va fi, e taină mare
-S-ar putea s-ajung sărac,
+Ce va fi e taină mare,
+S-ar putea să-ajung sărac,
 S-ar putea să n-am mâncare,
 Sau să n-am ce să îmbrac.
 
 [v3.2]
-Pentru flori și păsărele,
+Pentru flori și păsărele
 Dumnezeu e Tată bun,
-Însă vrea, prin orice rele,
+Însă vrea prin orice rele
 Eul meu să i-L supun.

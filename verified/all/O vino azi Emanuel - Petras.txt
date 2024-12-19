@@ -1,0 +1,26 @@
+[title]
+O, vino azi Emanuel {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {wBBrTmFjzxKqEAEtu1XXEz}, contentHash: {ff162b}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, vino azi, Emanuel,
+Răscumpără pe Israel!
+Din jale și robie grea,
+O vino astăzi, Mesia!
+
+[c]
+/: Cântați, cântați, Emanuel va reveni în Israel! :/
+
+[v2]
+O, vino, vino, stea din Răsărit,
+Ne mângâie, destul cât am trudit,
+Al nopții văl alungă dar
+Și umbrei morții pune Tu hotar!
+
+[v3]
+O, vino Fiu din David, Tu poți
+Deschide larg a cerurilor porți,
+O cale luminează pentru-acei
+Ce din robie urcă spre cer!

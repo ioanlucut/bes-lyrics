@@ -1,0 +1,25 @@
+[title]
+Veniți, lăudați nașterea Pruncului {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {k6qfbJg9BVuJkxyrxGnRFW}, contentHash: {cdae63}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Veniți, lăudați nașterea Pruncului cel sfânt,
+Cântați voi popoare,
+Lăudați-L pe Cel ce a venit pe pământ!
+
+[c]
+Cântați, lăudați, slăviți pe Isus,
+El a venit căci ne-a iubit,
+Lăudați-L pe El!
+
+[v2]
+Azi sunt fericit că Isus m-a mântuit,
+Onoare și glorie să-I aducem
+Cu toții Regelui slăvit!
+
+[e]
+Veniți, lăudați nașterea Pruncului cel sfânt,
+Onoare și glorie /: să-I aducem cu toți, :/
+Să-I aducem cu toții Regelui slăvit!
