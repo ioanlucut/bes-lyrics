@@ -1,5 +1,5 @@
 [title]
-Tu ești Domnul istoriei {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Tu ești Domnul istoriei {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {wwGn94W6nfyhgpYWzi9pEf}, contentHash: {365b09}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Din cer senin un cor divin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Din cer senin un cor divin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {pR6nhErNT8ygTokNf4gi41}, contentHash: {67178f}}
 
 [sequence]
 v1,v2,v3,v4,v5,e

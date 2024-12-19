@@ -1,5 +1,5 @@
 [title]
-De dorul Tău, Isus iubit {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5725}, id: {vFko12o1zoz3J4sdyGBcbF}, contentHash: {1cb768}}
+De dorul Tău, Isus iubit {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5725}, id: {vFko12o1zoz3J4sdyGBcbF}, contentHash: {4b3ad7}}
 
 [sequence]
 v1,v2,v3,v4,v5

@@ -1,5 +1,5 @@
 [title]
-Laud Numele Tău, Isus {alternative: {What A Beautiful Name}, composer: {Ben Fielding & Brooke Ligertwood}, writer: {Ben Fielding & Brooke Ligertwood; Florin Mesaroș & BBSO}, arranger: {*}, interpreter: {Hillsong; BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167752}, id: {nh7fCEFogaPNUAn7vkF9LC}, contentHash: {cc02bf}}
+Laud Numele Tău, Isus {alternative: {What A Beautiful Name}, composer: {Ben Fielding & Brooke Ligertwood}, writer: {Ben Fielding & Brooke Ligertwood; Florin Mesaroș & BBSO}, arranger: {*}, interpreter: {Hillsong; BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167752}, id: {nh7fCEFogaPNUAn7vkF9LC}, contentHash: {ddffea}}
 
 [sequence]
 v1,c,v2,c,b1.1,b1.2,c
