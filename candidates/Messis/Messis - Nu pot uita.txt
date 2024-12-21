@@ -1,25 +1,1 @@
-[title]
-Nu pot uita {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {240061}, id: {n2BKUiV1D6wmCjQwXu1gBt}, contentHash: {66c496}}
-
-[sequence]
-v1,c,v2,c
-
-[v1]
-Gândul meu sus la cruce se îndreaptă,
-Spre-acel loc, unde sânge a curs.
-Îmi înalț azi privirea spre cruce,
-Ca să văd pe-al meu Domn răstignit.
-Văd și azi cum Acel fără vină e lovit!
-
-[c]
-Nu pot uita cum pe crucea grea,
-Mureai pentru mine! Dureri și suspine
-Adânc sufereai! Și-atunci mă iubeai
-Tu pe mine!
-
-[v2]
-Ostenit duce crucea spre Golgota.
-Al meu Domn varsă lacrimi, părăsit.
-Ca un Miel poartă a mea povară,
-Fără glas, chiar și când e lovit.
-În smerenie deschis-a El calea. Fii slăvit!
+[title]Nu pot uita {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {240061}, id: {n2BKUiV1D6wmCjQwXu1gBt}, contentHash: {66c496}}[sequence]v1,c,v2,c[v1]Gândul meu sus la cruce se îndreaptă,Spre-acel loc, unde sânge a curs.Îmi înalț azi privirea spre cruce,Ca să văd pe-al meu Domn răstignit.Văd și azi cum Acel fără vină e lovit![c]Nu pot uita cum pe crucea grea,Mureai pentru mine! Dureri și suspineAdânc sufereai! Și-atunci mă iubeaiTu pe mine![v2]Ostenit duce crucea spre Golgota.Al meu Domn varsă lacrimi, părăsit.Ca un Miel poartă a mea povară,Fără glas, chiar și când e lovit.În smerenie deschis-a El calea. Fii slăvit!

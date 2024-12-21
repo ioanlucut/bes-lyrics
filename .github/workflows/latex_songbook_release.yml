@@ -1,0 +1,68 @@
+name: 'LaTeX Songbook (no chords)'
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'verified/trupe_lauda_si_inchinare/**'
+      - 'LaTeX/songbook/**'
+  workflow_dispatch:
+
+jobs:
+  LaTeXSongbookRelease:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Install Fonts
+        run: |
+          sudo apt-get update
+          echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
+          sudo apt-get install --reinstall ttf-mscorefonts-installer
+          sudo fc-cache -fv # Refresh the font cache
+
+      - name: Verify Font Installation
+        run: |
+          fc-list | grep -i "georgia"
+
+      - name: Use Node.js 20.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20.x
+
+      - name: Run Build songbook TEX
+        run: |
+          npm i && npm run songbook:convert
+        env:
+          CI: true
+
+      - name: Compile BES Songbook LaTeX doc
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: bes-songbook.tex
+          working_directory: LaTeX/songbook/
+          latexmk_shell_escape: true
+          latexmk_use_xelatex: true
+
+      - name: Generate Release Tag
+        id: tag
+        run: |
+          release_tag="BES_Songbook_$(date +"%Y_%B_%d_%H-%M")"
+          echo "release_tag=$release_tag" >> $GITHUB_OUTPUT
+
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: 'LaTeX/songbook/bes-songbook.pdf'
+          tag_name: ${{ steps.tag.outputs.release_tag }}
+          fail_on_unmatched_files: true
+          draft: false
+          make_latest: true
+          generate_release_notes: true
+          body: Release al caietului de cântece BES ale trupelor de laudă și închinare (se face incremental, după fiecare schimbare în repository).
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

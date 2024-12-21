@@ -1,29 +1,1 @@
-[title]
-Glorie {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {249920}, id: {rV8gQoGVg4btY3N5FjFaWq}, contentHash: {9bfd23}}
-
-[sequence]
-c,v1,c,v2,c,e
-
-[c]
-/: Glorie, glorie, mărire
-Cinste, onoare doar Ție
-Ești viu și în veci de veci domnești
-Regele nostru etern :/
-
-[v1]
-/: A înviat, nu este-aici
-Boldul morții El l-a învins
-Viața și har noi am primit
-Prin Isus cel răstignit :/
-
-[v2]
-/: Să-L preamărim, să-L proslăvim
-Să-I dăm slavă căci mult ne-a iubit
-Și-a dat viața pentru mine și tin’
-Ca să fim iertați și mântuiți :/
-
-[e]
-/: A înviat, a înviat
-Isus este cel mai minunat :/
-A înviat, a înviat
-El nu e mort, trăiește cu-adevărat!
+[title]Glorie {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {249920}, id: {rV8gQoGVg4btY3N5FjFaWq}, contentHash: {9bfd23}}[sequence]c,v1,c,v2,c,e[c]/: Glorie, glorie, mărireCinste, onoare doar ȚieEști viu și în veci de veci domneștiRegele nostru etern :/[v1]/: A înviat, nu este-aiciBoldul morții El l-a învinsViața și har noi am primitPrin Isus cel răstignit :/[v2]/: Să-L preamărim, să-L proslăvimSă-I dăm slavă căci mult ne-a iubitȘi-a dat viața pentru mine și tin’Ca să fim iertați și mântuiți :/[e]/: A înviat, a înviatIsus este cel mai minunat :/A înviat, a înviatEl nu e mort, trăiește cu-adevărat!

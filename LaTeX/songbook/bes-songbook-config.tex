@@ -1,0 +1,128 @@
+%See https://tex.stackexchange.com/questions/718798/leadsheets-package-for-songs-height-prop-undefined
+\ExplSyntaxOn
+\UseName{prop_new:c}{l__leadsheets_songs_height_prop}
+\ExplSyntaxOff
+
+\usepackage{tocloft} % For customizing ToC
+% TOC customize
+\setlength{\cftsecnumwidth}{2em} % Adjust width for section numbers in ToC
+
+% Adjust the font size of section entries in the ToC
+\renewcommand{\cftsecfont}{\normalsize} % Normal size for sections
+\renewcommand{\cftsecpagefont}{\normalsize} % Normal size for page numbers
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}} % Use dotted leaders
+
+% Adjust vertical spacing between section entries in the ToC
+\setlength{\cftbeforesecskip}{0.3em} % Space before each section
+\setlength{\cftbeforesubsecskip}{0.15em} % Space before each subsection
+
+% Translations
+\newversetype{prechorus}
+
+\DeclareTranslation{English}{leadsheets/major}{Major}
+\DeclareTranslation{English}{leadsheets/minor}{Minor}
+\DeclareTranslation{English}{leadsheets/composer}{Compozitor}
+\DeclareTranslation{English}{leadsheets/lyrics}{Versuri}
+\DeclareTranslation{English}{leadsheets/key}{Gama}
+\DeclareTranslation{English}{leadsheets/capo}{Capo}
+\DeclareTranslation{English}{leadsheets/fret}{Fret}
+\DeclareTranslation{English}{leadsheets/interpret}
+  {interpretat de \printsongpropertylist{interpret}{ \& }{, }{ \& }}
+\DeclareTranslation{English}{leadsheets/intro}{Intro}
+\DeclareTranslation{English}{leadsheets/interlude}{Interludiu}
+\DeclareTranslation{English}{leadsheets/bridge}{Bridge}
+\DeclareTranslation{English}{leadsheets/chorus}{Refren}
+% Hack - We use it for the ending
+\DeclareTranslation{English}{leadsheets/outro}{End}
+\DeclareTranslation{English}{leadsheets/prechorus}{Prerefren}
+\DeclareTranslation{English}{leadsheets/solo}{Solo}
+\DeclareTranslation{English}{leadsheets/verse}{Vers}
+
+\defineversetypetemplate{framed}
+{%
+	\expandcode{%
+		\noexpand\mdframed[
+			\ifversestarred{}{%
+				frametitle={%
+					\noexpand\tikz[baseline=(current bounding box.east),outer sep=0pt]
+					\noexpand\node[anchor=east,rectangle,fill=gray!20,rounded corners=2pt]
+					{\noexpand\strut\noexpand\verselabel};
+				}%
+			},
+			roundcorner = 5pt ,
+			linecolor = gray!20 ,
+			linewidth = 2pt,
+			topline = true,
+			frametitleaboveskip = \dimexpr-\ht\strutbox\relax ,
+		]%
+	}%
+	\setlength\parindent{0pt}
+	\setlength\parskip{\parsep}
+	\ifobeylines
+		{\setleadsheets{ obey-lines-parskip=\parskip }\setlength\parskip{0pt}}
+		{\vspace*{-\parskip}}%
+}
+{%
+	\endmdframed
+	\addvspace{\baselineskip}%
+}
+
+% Redefine section titles
+\usepackage{titlesec}
+% Section with custom fonts for number and title
+\titleformat{\section}
+  {\large\bfseries\color{darkgray}} % Custom font, bold, dark gray
+  {Nr. \thesection} % Include the number
+  {1.5em}
+  {} % Convert title to uppercase
+
+\definesongtitletemplate{bes-title-template}{
+  \ifsongmeasuring
+  {\section*}
+  {\section}%
+  {\songproperty{title}}
+  \begingroup\footnotesize
+  \begin{tabular}{
+    @{}
+      >{\raggedright\arraybackslash}p{.5\linewidth}
+    @{}
+      >{\raggedleft\arraybackslash}p{.5\linewidth}
+    @{}
+  }
+    \ifsongproperty{interpret}
+    {\GetTranslation{leadsheets/interpret}}
+    {}%
+    \ifsongproperty{composer}
+    {%
+      &
+      \GetTranslation{leadsheets/composer}: %
+      \printsongpropertylist{composer}{ \& }{, }{ \& }
+      \ifsongproperty{lyrics}
+      {
+        \\ &
+        \GetTranslation{leadsheets/lyrics}: %
+        \printsongpropertylist{lyrics}{ \& }{, }{ \& }
+      }
+      {}%
+    }
+    {}%
+    \ifsongproperty{interpret}{\\}{\ifsongproperty{composer}{\\}{}}%
+    \ifsongproperty{genre}
+    {& Genre: \songproperty{genre} \\}
+    {}%
+    \ifsongproperty{tempo}
+    {& Tempo: \songproperty{tempo} \\}
+    {}%
+    \ifsongproperty{key}
+    {%
+      & \setchords{
+        major = -\GetTranslation{leadsheets/major} ,
+        minor = -\GetTranslation{leadsheets/minor}
+      }%
+      \GetTranslation{leadsheets/key}: %
+      \expandcode{\writechord{\songproperty{key}}} \\%
+    }
+    {}%
+  \end{tabular}
+  \par\endgroup
+}

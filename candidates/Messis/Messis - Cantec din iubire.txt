@@ -1,31 +1,1 @@
-[title]
-Cantec din iubire {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {114825}, id: {3XUfHKzWH8KyeBzcLcxRo5}, contentHash: {f6530a}}
-
-[sequence]
-v1,c,v2,c,e
-
-[v1]
-E un cântec ce-a fost scris doar din iubire
-E o taină ce ne poartă în zbor semeț
-Și un cântec ce ne-nvață că iubirea
-/: Pe pământ dar și în ceruri e de preț. :/
-Sunt atâția care caută fericirea
-Și voi știți care e calea s-o aveți
-Voi în dragoste-ați aflat că viața-aceasta
-/: E frumoasă dacă în Domnul vă-ncredeți. :/
-
-[c]
-/: Dar voi nu, nu vă îngrijorați
-Voi în Domnul viața voastr-o ancorați
-Prin furtună și prin ploi veți vedea că e cu voi
-Veți fi tari în mâna-I tare amândoi. :/
-
-[v2]
-Veți afla că-n viață totul e credința
-Și că dragostea-i al slavei dar măreț
-Și-mpreună veți afla că biruința
-/: E atunci când unul pe-altul vă aveți. :/
-
-[e]
-Prin furtună și prin ploi veți vedea că e cu voi
-Veți fi tari în mâna-I tare amândoi.
+[title]Cantec din iubire {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {114825}, id: {3XUfHKzWH8KyeBzcLcxRo5}, contentHash: {f6530a}}[sequence]v1,c,v2,c,e[v1]E un cântec ce-a fost scris doar din iubireE o taină ce ne poartă în zbor semețȘi un cântec ce ne-nvață că iubirea/: Pe pământ dar și în ceruri e de preț. :/Sunt atâția care caută fericireaȘi voi știți care e calea s-o avețiVoi în dragoste-ați aflat că viața-aceasta/: E frumoasă dacă în Domnul vă-ncredeți. :/[c]/: Dar voi nu, nu vă îngrijorațiVoi în Domnul viața voastr-o ancorațiPrin furtună și prin ploi veți vedea că e cu voiVeți fi tari în mâna-I tare amândoi. :/[v2]Veți afla că-n viață totul e credințaȘi că dragostea-i al slavei dar mărețȘi-mpreună veți afla că biruința/: E atunci când unul pe-altul vă aveți. :/[e]Prin furtună și prin ploi veți vedea că e cu voiVeți fi tari în mâna-I tare amândoi.

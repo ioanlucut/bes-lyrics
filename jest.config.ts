@@ -1,7 +1,9 @@
-import type { JestConfigWithTsJest } from 'ts-jest';
+import { createDefaultEsmPreset, type JestConfigWithTsJest } from 'ts-jest';
+
+const defaultEsmPreset = createDefaultEsmPreset();
 
 const jestConfig: JestConfigWithTsJest = {
-  preset: 'ts-jest/presets/default-esm',
+  ...defaultEsmPreset,
   moduleDirectories: ['<rootDir>', 'node_modules'],
   moduleNameMapper: {
     '^(\\.{1,2}/.*)\\.js$': '$1',
@@ -19,9 +21,9 @@ const jestConfig: JestConfigWithTsJest = {
         useESM: true,
       },
     ],
+    '^.+.tsx?$': ['ts-jest', {}],
   },
   // https://github.com/jestjs/jest/issues/14305#issuecomment-1627346697
   prettierPath: null,
 };
-
 export default jestConfig;

@@ -16,7 +16,7 @@ on:
 
 jobs:
   DeployToGDrive:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout bes-lyrics repo
         uses: actions/checkout@v3

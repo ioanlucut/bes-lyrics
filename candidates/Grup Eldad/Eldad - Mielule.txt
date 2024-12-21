@@ -1,33 +1,1 @@
-[title]
-Mielule {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188101}, id: {85h9J9DhH7yVUyR8Ajwh5m}, contentHash: {cbc6cf}}
-
-[sequence]
-v1,c,v2,c,e
-
-[v1]
-Dragostea pentru noi pân’ la moarte
-L-a condus pentru-a noastre păcate
-Ai murit răstignit.
-Cuie-n mâini i-au batut pentru mine
-Ai murit în prea mare suspine
-Dar a treia zi ai inviat.
-
-[c]
-/: Mielule, oare cum să-Ți mulțumesc?
-Caci prin jertfa de pe cruce astazi eu traiesc.
-Eliberat, al Tău sânge m-a spălat
-Speranța mântuirii Tu mi-ai dat. :/
-
-[v2]
-Chinuit pe un lemn pentru mine
-Pentru noi, pentru toți, pentru tine
-Ai murit răstignit
-Dezbrăcat de-a Sa slava cerească
-S-a smerit lumea să mântuiască
-Să fie-a Lui în veci de veci.
-
-[e]
-Prin trăirea mea astazi vreau să-Ți mulțumesc
-Și zi de zi spre ceruri să înaintez,
-Pășind frumos vreau să merg pe calea Ta
-Făcând doar voia Ta, nu voia mea.
+[title]Mielule {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188101}, id: {85h9J9DhH7yVUyR8Ajwh5m}, contentHash: {cbc6cf}}[sequence]v1,c,v2,c,e[v1]Dragostea pentru noi pân’ la moarteL-a condus pentru-a noastre păcateAi murit răstignit.Cuie-n mâini i-au batut pentru mineAi murit în prea mare suspineDar a treia zi ai inviat.[c]/: Mielule, oare cum să-Ți mulțumesc?Caci prin jertfa de pe cruce astazi eu traiesc.Eliberat, al Tău sânge m-a spălatSperanța mântuirii Tu mi-ai dat. :/[v2]Chinuit pe un lemn pentru minePentru noi, pentru toți, pentru tineAi murit răstignitDezbrăcat de-a Sa slava cereascăS-a smerit lumea să mântuiascăSă fie-a Lui în veci de veci.[e]Prin trăirea mea astazi vreau să-Ți mulțumescȘi zi de zi spre ceruri să înaintez,Pășind frumos vreau să merg pe calea TaFăcând doar voia Ta, nu voia mea.
