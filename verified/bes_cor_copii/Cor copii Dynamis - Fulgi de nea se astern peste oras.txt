@@ -1,5 +1,5 @@
 [title]
-Fulgi de nea se aștern peste oraș {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {9sw5dbQFZwXmY4BEBpejqN}, contentHash: {f5501e}}
+Fulgi de nea se aștern peste oraș {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {9sw5dbQFZwXmY4BEBpejqN}, contentHash: {3a653e}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,e
@@ -13,7 +13,7 @@ El e Steaua magilor și al lumii Salvator.
 [v2]
 S-a-ntrupat ființa Lui prin puterea Domnului,
 Din seninul cerului S-a arătat,
-N-are haine de-mprăcat, dar e-al lumii Împărat,
+N-are haine de-mbrăcat, dar e-al lumii Împărat,
 Firul vieții îl ține în mână ne-ncetat.
 
 [v3]
@@ -32,7 +32,7 @@ Căci Hristos e Împărat.
 [v5]
 S-a-ntrupat ființa Lui prin puterea Domnului,
 Din seninul cerului S-a arătat,
-N-are haine de-mprăcat, dar e-al lumii Împărat,
+N-are haine de-mbrăcat, dar e-al lumii Împărat,
 Firul vieții îl ține în mână ne-ncetat.
 
 [v6]
