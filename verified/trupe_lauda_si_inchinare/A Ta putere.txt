@@ -1,12 +1,12 @@
 [title]
-A Ta putere {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {scWTuMwxqs5s4L6xkfHKet}, contentHash: {c00703}}
+A Ta putere {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {scWTuMwxqs5s4L6xkfHKet}, contentHash: {4f4673}}
 
 [sequence]
 v1,c,v2,c,b,c
 
 [v1]
 Valuri zi de zi lovesc, obosit mă prăbușesc,
-Domn al milei, poți să mă salvezi!
+Domn al milei, poți să mă salvezi.
 Te rog, Doamne, să-mi vorbești,
 În furtuni blând să-mi șoptești,
 Tată, știu, Tu nu mă părăsești!
