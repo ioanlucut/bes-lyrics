@@ -80,7 +80,7 @@ jobs:
           git diff --quiet && git diff --staged --quiet || git commit --cleanup=verbatim -am "[Bot] I have imported the resurse crestine songs based on the rc_authors_to_process.txt and rc_ids_to_process.txt.
           >
           >
-          request-checks: true"
+          skip-checks: true"
           git push
         env:
           CI: true
@@ -109,11 +109,8 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A
-          git diff --quiet && git diff --staged --quiet || git commit --cleanup=verbatim -am "[Bot] I have added all of the meta information about the content to it.
-          >
-          >
-          request-checks: true"
-          git push
+          git diff --quiet && git diff --staged --quiet || git commit --amend --no-edit --cleanup=verbatim
+          git push --force-with-lease
         env:
           CI: true
           FORCE_COLOR: 2
