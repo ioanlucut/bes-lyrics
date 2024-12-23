@@ -1,0 +1,38 @@
+[title]
+Merg spre casă {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112759}, id: {rTsAkT3unu6wGE1k6goYgj}, contentHash: {b11ed5}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Merg spre casă, înspre ceruri,
+Unde Tu m-aștepți în prag,
+Prin furtună și prin valuri
+Se ajunge la liman.
+
+[v1.2]
+Înserarea, blând se lasă,
+Mă învăluie zâmbind,
+Vin ecouri dinspre casă,
+Sunt pașii Tăi, Mire iubit!
+
+[c]
+Te-aștept cu dor, privind spre cer,
+Să văd dacă nu vii
+Și în genunchi, sub ceruri ce se sting,
+Eu cânt și plâng,
+Dar știu că nu mai este mult
+Și vei veni pe nori în slavă iar.
+Stau pe genunchi și Te-aștept.
+
+[v2.1]
+Fii lumină pe-a mea cale,
+Călăuză-n noaptea grea.
+Frica să nu mă-mpresoare,
+Vreau să-mi torni ulei în vas.
+
+[v2.2]
+Salt întruna pentru Tine,
+Luminând în jurul meu.
+Vreau s-ajung în strălucire,
+Unde-Ți voi cânta mereu:

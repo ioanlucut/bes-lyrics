@@ -1,0 +1,24 @@
+[title]
+Îngeri mii în ceruri cântă {alternative: {*}, composer: {Colin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4237}, id: {1pKQusDQ5NPNyHJkA5gbGd}, contentHash: {ee3294}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Îngeri mii în ceruri cântă pe deasupra văilor.
+Munții bucuroși repetă armonia, cântul lor.
+
+[c]
+Glorie, S-a născut Mesia! Glorie, S-a născut Mesia!
+
+[v2]
+Ce-i cu bucuria voastră, voi, păstori, ce auziți?
+Ce anunță coru-n slavă, ce-ascultați așa uimiți?
+
+[v3]
+Pruncul sfânt cu chip de soare e nespus de luminos,
+Sfinți părinți cu adorare Îl veghează pe Hristos.
+
+[v4]
+Vino azi la ieslea sfântă, laudă să-I aduci smerit.
+Viața ta doar Lui predată pentru El e-un dar dorit.

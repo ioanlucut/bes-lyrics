@@ -1,0 +1,53 @@
+[title]
+Cu lanțuri nevăzute-am fost legat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ojgVe2SxbP2zpen9oTnpBF}, contentHash: {983697}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Cu lanțuri nevăzute-am fost legat
+Dar glasul Tău pe nume m-a chemat.
+Deși eram atât de ne-nsemnat,
+Privirea Ta spre mine s-a-ndreptat.
+
+[c]
+Ai fi putut să nu mă bagi în seamă,
+Ai fi putut să nu mă mai aștepți,
+Căci eu eram țărână trecătoare,
+Iar Tu Stăpânul slăvilor cerești.
+
+[v2]
+Atâția ani, Isus, m-ai așteptat
+Și-atât de multe, Doamne, mi-ai iertat!
+Nici astăzi nu-nțeleg cum ai lucrat,
+Dar m-am trezit la cruce-ngenunchiat.
+
+[c2]
+Ai fi putut să nu mai ai răbdare,
+Ai fi putut să treci nepăsător,
+Căci eu eram un abur care trece,
+Iar Tu erai a toate creator.
+
+[v3]
+M-ai îmbrăcat cu Duhul Tău cel Sfânt
+Și m-ai hrănit cu sfântul Tău Cuvânt.
+Pe brațe m-ai purtat neîncetat
+Și-atâtea răni, o, Doamne, mi-ai legat!
+
+[c3]
+Aș fi putut să caut orișiunde,
+Aș fi putut pământul să-l străbat,
+Dar nicăieri n-aș fi găsit sub soare
+Un Dumnezeu atât de minunat!
+
+[v4]
+Sub al Tău sânge stau și astăzi, Doamne,
+De orice rău să pot fi protejat.
+La adăpostul Numelui Tău mare
+Să pot lucra cu ceea ce mi-ai dat.
+
+[c4]
+Tot ce-mi doresc e harul Tău, Isuse,
+Să lași mereu peste ființa mea.
+Puțin sau mult de-aș face pentru Tine,
+Mărirea, slava-n veci să fie-a Ta!

@@ -1,0 +1,35 @@
+[title]
+În lumina iubirii Tale {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6796}, id: {7SgxdBxuW131eF8xu5t2ee}, contentHash: {3a69d0}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În lumina iubirii Tale,
+Întunericul va dispărea.
+Tu, Lumină a lumii coboară,
+Peste noi adevărul Tău iară,
+Să strălucești, să strălucești.
+
+[c]
+/: Să strălucești,
+Slava Ta să cuprindă țara,
+Tu ce-ncălzești inimile cu foc,
+Vino la noi
+Și ne umple de har și pace,
+Al Tău Cuvânt,
+Soare fă-l pe pământ! :/
+
+[v2]
+Prin lumina prezenței Tale,
+Să spun lumii de-a Ta chemare,
+Prin al Tău sânge mă curățește,
+Încearcă-mi inima și mă sfințește,
+Să strălucești, să strălucești.
+
+[v3]
+Prezența Ta e atât de mare,
+Pe pământ n-are asemănare,
+Chipul Tău oglindește-l în mine,
+Schimbă-mă să mă aseamăn cu Tine,
+Să strălucești, să strălucești.

@@ -1,0 +1,35 @@
+[title]
+Auzi ciocanele cum bat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {198942}, id: {riZM8m3w15DZ9ymhhcwp9T}, contentHash: {8e2b68}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Auzi ciocanele cum bat,
+Acolo sus, pe deal, ciudat.
+Și bat ciocanele mereu
+În Fiul Sfânt de Dumnezeu.
+
+[c]
+/: Pentru mine, pentru tine,
+Pentru noi, la Golgota, ciocanele bat.
+Pentru mine, pentru tine,
+Pentru noi, Domnul Isus viața Și-a dat. :/
+
+[v2]
+Când crucea grea au ridicat,
+Cu Cel ce-a fost nevinovat,
+Cu sulița-n coastă I-au dat
+Și sânge-a curs nevinovat.
+
+[v3]
+Sfinții în cer toți s-au unit
+Și la Golgota au privit
+Cu ei și bunul Dumnezeu
+Privea cum moare Fiul Său.
+
+[v4]
+Așa pe cruce cum a stat
+La Tatăl Sfânt El a strigat:
+„Iartă-i, Tu, Tată Preaînalt,
+Căci ei nu știu astăzi ce fac.”

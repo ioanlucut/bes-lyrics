@@ -1,0 +1,29 @@
+[title]
+Singuri și triști {alternative: {*}, composer: {Florin Mesaroș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157389}, id: {7aY1xJ6bEQM7vzHYUqFxD3}, contentHash: {298bab}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Singuri și triști, de teamă cuprinși,
+Cu inimi de gheață, fără speranță,
+Treceam prin viață.
+Dar ai venit, Prunc mult dorit,
+Să aduci lumină, să iei a noastră vină,
+Să speli a noastră tină.
+
+[c]
+Mântuitor ce dai viață tuturor,
+Te-ai născut în Betleem,
+Ca să iei al nost’ blestem.
+Tu veșnic Fiu, al eternului Domn viu,
+Te-ai făcut precum un Miel,
+Să scrii calea către cer.
+
+[v2]
+La noi ai venit, dar nu Te-am primit.
+Am fugit de lumină, n-am mai vrut zi senină,
+Am vrut ploi ca să vină.
+Dar Tu ne-ai iubit până la sfârșit,
+Ne-ai iubit ca un frate, suferind rele toate,
+Până la moarte.

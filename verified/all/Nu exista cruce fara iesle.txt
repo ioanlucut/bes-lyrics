@@ -1,0 +1,48 @@
+[title]
+Nu există cruce fără iesle {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {rRzpzTdemBCaD5agyjkcMU}, contentHash: {825352}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2,c1.1,c1.2,c2.1,c2.2,c2.1,c2.2,c1.1,c1.2,c1.1,c1.2
+
+[v1.1]
+Omenirea în păcat zăcea,
+Nici lumină nici viață nu era.
+Peste suflet ura biruia,
+Întunericul îl stăpânea.
+
+[v1.2]
+Dar pe cer o stea deodat’ apare
+Pentru orice suflet dând scăpare,
+Prevestind întregii lumi iertare.
+Cei robiți găsesc eliberare,
+E Isus, ce viața-a adus.
+
+[c1.1]
+Nu există cruce fără iesle
+Căci și Omul Hristos a avut început
+Îmbrăcând umana mea natură,
+Dezbrăcându-Și slava de Fiu nefăcut.
+
+[c1.2]
+Dar Hristos a venit nu pentru iesle
+Și nici laude sau daruri El nu a dorit
+Ci-Și făcu un tron din a Sa cruce
+Ca prin sângele Lui eu să fiu mântuit.
+
+[v2]
+Pentru orice suflet ce nu moare
+În Hristos există azi salvare
+Căci din El se varsă împăcare.
+Pentru veci primind glorificare,
+E Isus, ce viața-a adus.
+
+[c2.1]
+Căci un Rege, nu un prunc a venit să ne salveze,
+Așezat fiind de toți pe cruce, nu în iesle.
+Aur, smirnă, tămâie n-a vrut nimeni să-I ofere, ci bătăi.
+
+[c2.2]
+Și prin jertfa de-atunci astăzi dă eliberare,
+Iar prin rănile Lui iertare, vindecare.
+Căci un Rege, nu un prunc
+A venit ca să găsească ce-i pierdut.

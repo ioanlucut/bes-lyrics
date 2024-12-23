@@ -1,0 +1,30 @@
+[title]
+O, ce har să știi că Domnul te iubește {alternative: {*}, composer: {Nicu Rusu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1715}, id: {29N6ta9NN96zdNrRAeJs7Z}, contentHash: {840ba5}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, ce har să știi că Domnul te iubește,
+O, ce har să știi că ești în brațul Său.
+Chiar când simți că tot în jur se năruiește.
+Tu să ai pace în inima ta mereu.
+
+[c]
+/: Să ai pace în mijlocul necazului tău,
+Să ai pace căci tu ești fiu de Dumnezeu.
+Când cei din jur te vor privi,
+Cu pacea ta îi vei uimi
+Când plin de pace vei birui. :/
+
+[v2]
+O, ce har să știi că Domnul te iubește,
+O, ce har să știi că Lui îi aparții.
+Și să simți în orice zi că-ți dăruiește
+Când treci prin necaz, pace și bucurii.
+
+[v3]
+O, ce har să știi că Domnul te iubește,
+O, ce har să știi că ești copilul Său.
+Zi de zi prezența Lui te însoțește
+Și-ți dă pace în necazul cel mai greu.

@@ -1,0 +1,29 @@
+[title]
+După ploaie și furtună {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3126}, id: {b5xNfw3Ctvw16vAYEmNmeA}, contentHash: {11cb72}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+După ploaie și furtună, va veni o zi mai bună,
+Soarele va străluci mai luminos.
+După norul plin de ceață, o lumină se arată,
+E lumina Domnului Isus Hristos.
+
+[c]
+/: Cine se încrede-n Domnul are viața mai frumoasă
+Căci lumina Lui pătrunde și o luminează-ndată.
+Dumnezeu de sus veghează, El le binecuvântează
+Sufletele-acelor ce se-ncred în El. :/
+
+[v2]
+Când avem probleme-n viață, cerem o lumină mare
+De la Domnul nostru scump, Isus Hristos.
+Rugăciunea schimbă totul, schimbă mersul vieții noastre,
+Zi de zi, înspre mai bine, cu Isus.
+
+[v3]
+Stai o clipă, meditează, sufletu-ți înviorează,
+Dumnezeu te cercetează chiar acum.
+Nu lăsa să treacă clipa, clipa mântuirii tale,
+Dă-I a ta viață, astăzi, lui Isus!

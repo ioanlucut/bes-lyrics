@@ -1,0 +1,30 @@
+[title]
+Dumnezeu este-adăpost și sprijin {alternative: {Ești cu mine mereu}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2841}, id: {mWtgP4fKB8grtNVBmAZzPy}, contentHash: {329a6e}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Dumnezeu este-adăpost și sprijin,
+Un ajutor ce nu lipsește niciodată-n nevoi,
+El este locul meu de scăpare
+Și cetățuia mea, în care mă încred.
+
+[c]
+/: Ești cu mine mereu,
+Ești cu mine mereu,
+Orice ar veni, pe brațul Tău voi fi,
+Ești cu mine mereu. :/
+
+[v2]
+„Fiindcă mă iubește”, zice Domnul,
+„Voi fi cu el în strâmtorare, îl voi izbăvi.
+Când mă va chema, îi voi răspunde
+Sunt Emanuel, Eu sunt Dumnezeu”.
+
+[b]
+O mie să cadă alături de tine
+Și zece mii la dreapta ta,
+Doar vei privi cu ochii
+Răsplătirea celor răi,
+Dar de tine nu se va apropia.

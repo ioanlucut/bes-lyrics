@@ -1,0 +1,37 @@
+[title]
+Stânca mea e Hristos {alternative: {Cornerstone with Mighty To Save}, composer: {Edward Mote}, writer: {Florin Mearoș}, arranger: {Bradley Knight}, interpreter: {BBSO și colaboratorii}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2ghL29ftGhQ3sEVDtFPysR}, contentHash: {eb5caa}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,b
+
+[v1]
+Credința mea eu o zidesc
+Pe-al Domnului Cuvânt ceresc.
+Ca spuma toate vor pierii,
+Hristos ca Stâncă-n veci va fi.
+
+[v2]
+Deși-I ascunsă fața Sa,
+Cu milă mă va-nconjura,
+Și orice vifor de-ar veni,
+Pe Stâncă sigur eu voi fi!
+
+[c]
+Stânca mea e Hristos,
+Lui rămân veșnic credincios,
+Prin furtună, Tu rămâi veșnic Domn!
+
+[v3]
+Când vin primejdii pe pământ,
+Eu sunt scutit prin legământ,
+Chiar toate de s-ar clătina,
+Hristos rămâne Stânca mea!
+
+[v4]
+Iar când Isus va judeca
+Și celor morți „Sus!” va striga,
+Neprihănirea Lui va fi
+Chiar haina-n care voi luci!
+
+[b]
+/: El e Domn, veșnic Domn! :/

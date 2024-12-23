@@ -1,0 +1,24 @@
+[title]
+Un singur Nume pentru care vreau să cânt {alternative: {*}, composer: {Selah}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {owhjLwY21JUu4dDeze792F}, contentHash: {889f82}}
+
+[sequence]
+v1,c,v2,c,e,c
+
+[v1]
+Un singur Nume pentru care vreau să cânt,
+Vreau să-L laud, vreau să-I spun:
+
+[c]
+Tu ești al meu Salvator, bun Prieten pe drum,
+Pace îmi ești în furtuni, Isus, ai fost și rămâi.
+Tu ești al meu Salvator, bun prieten pe drum,
+Pace îmi ești în furtuni, Isus, ai fost și rămâi.
+
+[v2]
+Ești Mijlocitor la dreapta Tatălui zi și noapte,
+În afara timpului.
+
+[e]
+Isus, orice-ar fi, Tu mă iubești,
+Când sunt obosit mă întărești, pace îmi dai în furtuni,
+Isus, o faci chiar și-acum, Isus, o faci chiar și-acum.

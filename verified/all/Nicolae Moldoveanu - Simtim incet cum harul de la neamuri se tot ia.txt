@@ -1,0 +1,46 @@
+[title]
+Simțim încet cum harul de la neamuri se tot ia {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5766}, id: {guSzjsw3moHvwWmA83UNLa}, contentHash: {7081aa}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Simțim încet cum harul de la neamuri se tot ia,
+Aproape gata-i ușa a se-ncuia.
+Mai mici sunt bucuriile
+De-acum un sfert de veac,
+
+[v1.2]
+Lucrările acum mai mici se fac.
+Poporule, păstrează dar
+Credința ce-ai primit,
+Păstrează nostalgia cercetării ce-ai primit!
+
+[c]
+Fecioară, așteptarea,
+În curând se va sfârși.
+Veghează, că-n curând El va veni!
+
+[v2.1]
+Smochinul care,
+Două mii de ani a fost uscat,
+Smochinul blestemat iar rod a dat.
+Copacii, de asemeni, cu putere înfrunzesc,
+
+[v2.2]
+Venirea primăverii o vestesc.
+A nașterii durere simte omenirea iar,
+Dar iarăși fericirea
+Vine dup-acest amar.
+
+[v3.1]
+Uleiul și candela să veghezi ca să le ai
+Și doctorie pentru ochi să-ți iei.
+Fecioară, îți ridic-apoi
+Privirea ta în sus,
+
+[v3.2]
+Așteaptă-n orice clipă pe Isus!
+Să-Ți pui apoi nădejdea-n
+Harul ce-ți va fi adus
+Cu slavă când, pe nori, veni-va Mirele Isus.

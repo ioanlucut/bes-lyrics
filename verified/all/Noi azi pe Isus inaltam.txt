@@ -1,0 +1,22 @@
+[title]
+Noi azi pe Isus înălțăm {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4775}, id: {5zDbTeWwdw88xDYRZd9QeJ}, contentHash: {08a6b7}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Noi azi pe Isus înălțăm,
+Ca un drapel pe-acest oraș,
+Toți să cunoască-n adevăr,
+El este Calea către cer.
+
+[c]
+/: Noi proclamăm, noi proclamăm
+Noi proclamăm: Isus e ‘nălțat! :/
+
+[v2]
+Pas cu pas mergem-nainte,
+Tot mai mult cucerim teren,
+Arma noastră-i rugăciunea,
+Ziduri cad, continuu cad
+Și cad și cad și cad.

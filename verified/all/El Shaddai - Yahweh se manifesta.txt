@@ -1,0 +1,27 @@
+[title]
+Yahweh se manifestă {alternative: {*}, composer: {El Shaddai}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {246232}, id: {peXRxdQLF63hGMvfKnozdW}, contentHash: {ef50aa}}
+
+[sequence]
+c,v1,c,v1,c,b,c2,c
+
+[v1]
+Se simte gloria-Ți în acest loc,
+Cum ne umpli de-al Tău foc,
+Puterea Ta se-arată în noi!
+
+[c]
+/: Yahweh, Rafa,
+Elohim, Shaddai,
+Iireh, Adonai,
+Se manifestă acum! :/
+
+[b]
+Când Îl cauți, El se va lăsa găsit,
+Când Îl chemi, El se va manifesta,
+Când Îl lauzi, El va coborî-ntre noi.
+
+[c2]
+/: Yahweh, puterea Ta vedem,
+Iireh, ne-ai răscumpărat.
+Rafa, prin Tine sunt vindecat,
+Tu ne-ai eliberat! :/

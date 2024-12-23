@@ -1,0 +1,18 @@
+[title]
+Armata măreață {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112856}, id: {7t7Wr8JqMGxTVSLg3o48du}, contentHash: {d49028}}
+
+[sequence]
+v1,c,b,c
+
+[v1]
+/: Armata măreață a Domnului Sfânt,
+Pleacă la luptă din trâmbiță sunând. :/
+
+[c]
+/: Condusă e mereu de vocea lui Dumnezeu! :/
+
+[b]
+/: Să răsune în Sion, Sion,
+Să se cutremure Sfântul Munte!
+Să răsune în Sion, Sion:
+„Domnul e sfânt!”. :/ (3x)

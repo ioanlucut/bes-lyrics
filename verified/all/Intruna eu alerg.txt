@@ -1,0 +1,29 @@
+[title]
+Întruna eu alerg {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4951}, id: {hQhACd4a6ab2hCRsL8JnKy}, contentHash: {28351c}}
+
+[sequence]
+v1.1,v1.2,p,c,v1.1,v1.2,p,c,p,c
+
+[v1.1]
+Întruna eu alerg,
+Cu tot ce am în min’,
+Chiar viața mea o dau
+Doar pentru Tine.
+
+[v1.2]
+Nimic nu-mi poate lua
+Ce Tu mi-ai pregătit,
+Mereu Tu mă ridici,
+Ești al meu Domn.
+
+[p]
+Mai mare e Cel ce-n mine e viu
+Decât duhul veacului.
+
+[c]
+Cred! Pot să mut și munții,
+Pot să fac tot în Hristos
+Da, știu! Cred!
+Stau și neclintit sunt,
+Întărit doar prin Hristos.
+Da, știu că pot!

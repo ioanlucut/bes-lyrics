@@ -1,0 +1,46 @@
+[title]
+Nu te teme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hyBzmYBY8CBmsnACMV3fUb}, contentHash: {920ade}}
+
+[sequence]
+v1,c,c2,v2,c2,c,e
+
+[v1]
+Așa vorbește Domnul, Cel care te-a creat:
+Nu te teme!
+Sunt Dumnezeul tău, ce te-a răscumpărat,
+Nu te teme!
+Eu te izbăvesc, pe nume Eu te chem:
+Nu te teme!
+Tu nu te îngrijora dar pentru viața ta,
+Nu te teme!
+
+[c]
+Nu te teme,
+O, nu te teme,
+Eu sunt Domnul tău,
+Sunt Vegheatorul tău:
+Nu te teme!
+
+[c2]
+Pentru tine dau popoare,
+Oameni pentru viața ta.
+Sunt cu tine și prin ape, te voi ajuta.
+Când cuptorul se va-ncinge,
+Focul nu te va atinge,
+Eu sunt Domnul tău, sunt Vegheatorul tău:
+Nu te teme!
+
+[v2]
+Când boala și necazul vin asupra ta,
+Nu te teme!
+Sunt Iehova Rafa, Vindecătorul tău:
+Nu te teme!
+Te voi lua de mână, prin valea morții reci:
+Nu te teme!
+Încrede-te în Mine, în promisiunea Mea:
+Nu te teme!
+
+[e]
+Eu sunt Domnul tău,
+Sunt Vegheatorul tău:
+Nu te teme!

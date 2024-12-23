@@ -1,0 +1,47 @@
+[title]
+Oceane {alternative: {*}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {217539}, id: {2soGth1jRxmimmGi7wc4x3}, contentHash: {d373b8}}
+
+[sequence]
+v1,c,v2,c,v3,c,v3,c,v3,c,v3,c,v3,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Mă chemi să umblu peste ape,
+Necunoscutul să-l străbat.
+Acolo Te găsesc pe Tine,
+În ape adânci voi-nainta.
+
+[c]
+/: Și Numele Îți voi striga, Isus!
+Oceanele de-ar spumega
+În brațul Tău mă odihnesc și nu mă tem,
+Eu sunt al Tău, iar Tu al meu. :/
+
+[v2]
+Al Tău har peste mări abundă,
+Cu braț puternic mă ghidezi
+Și-atunci când frica mă-nconjoară
+Tu ești cu mine, nu mă tem!
+(Tu ești al meu, doar Tu,
+Isuse, ești cu mine mereu.)
+
+[v3]
+Duh Sfânt, dă-mi credință fără de hotare,
+Vreau să umblu pe ape.
+Să Te urmez, o, Doamne!
+Du-mă dincolo de unde eu pot merge
+Și credința mea va crește
+În prezența ta, Isuse. (6x)
+
+[v4]
+O, Doamne, condu-ne
+În prezența Ta!
+
+[v5]
+Și Numele Îți voi striga,
+Oceanele de-ar spumega,
+În brațul Tău mă odihnesc și nu mă tem,
+Eu sunt al Tău, iar Tu al meu!
+
+[v6]
+Tu ești al meu, sunt al Tău
+Isuse, Tu ești al meu!

@@ -1,0 +1,35 @@
+[title]
+O, cât de bun {alternative: {God You’re so Good}, composer: {Kristian Stanfill}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {esbTYP4rb9anye2iVxD6pJ}, contentHash: {8765c4}}
+
+[sequence]
+v1,c,v2,c,b,v3,c
+
+[v1]
+E uimitor ce dragoste
+Arăți pentru mine.
+Ai hotărât să fiu al Tău,
+Plătind cu-al Tău sânge.
+
+[c]
+/: O, cât de bun, :/ (3x)
+Doamne ești cu min’!
+
+[v2]
+Privesc, Isus, la crucea Ta
+Ce veacuri străbate.
+Puterea Ta și azi o văd,
+Salvând de la moarte.
+
+[b]
+Sunt salvat, întregit,
+Pe deplin acceptat.
+În Isus sunt vindecat,
+Tatăl mi-a dat favoare,
+Sunt fiul Său,
+Toată viața-L voi lăuda.
+
+[v3]
+Iar încercări când vor veni,
+Doamne, adu-mi aminte:
+Destinul meu e-n mâna Ta,
+Te-ai dat pentru mine.

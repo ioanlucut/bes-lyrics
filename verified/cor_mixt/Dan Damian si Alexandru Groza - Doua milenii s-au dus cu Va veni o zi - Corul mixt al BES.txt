@@ -1,0 +1,38 @@
+[title]
+Două milenii s-au dus cu Va veni o zi {alternative: {*}, composer: {Dan Damian și Alexandru Groza}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {a3zBYGG9eC8DHrAaiVpvC3}, contentHash: {431123}}
+
+[sequence]
+v1,c,v2,c,b,c2,v3,c,b,e
+
+[v1]
+Două milenii s-au dus, soarele e la apus,
+A doua zi s-a sfârșit, El ce-a promis a-mplinit.
+
+[c]
+/: Isus Hristos va reveni, glorie, mărire,
+Să-și ia Mireasa-n veșnicii!
+Maranata! Vine! :/
+
+[v2]
+Candela plină s-avem și-n rugăciuni să veghem,
+La seceriș să lucrăm, cât mai mulți snopi s-adunăm!
+
+[b]
+Aleluia, mărire Domnului, aleluia, se-aud pașii Lui!
+Aleluia, osana Îți cântăm!
+Aleluia!
+
+[c2]
+/: Ce minune va fi când Domnul va veni,
+Toți aleșii Domnului cu El vor fi!
+Vei fi și tu acol’ la masa Domnului?
+Pregătește-te, căci ziua e pe drum! :/
+
+[v3]
+Va veni o zi în care toți aleșii Domnului
+Vor cânta un imn de slavă Mielului.
+Ziua aceea nu-i departe, pregătiți-vă acum!
+Nu uitați că ziua aceea e pe drum!
+
+[e]
+Aleluia, vine!

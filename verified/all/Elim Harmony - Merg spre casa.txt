@@ -1,0 +1,47 @@
+[title]
+Merg spre casă {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {155677}, id: {tkjr1MarKiec3LMrwPKidv}, contentHash: {6fdf0f}}
+
+[sequence]
+c1.1,c1.2,v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,b,c1.1,c1.2
+
+[c1.1]
+/: Eu cu Domnul plec acasă,
+Într-o clipă mă va lua.
+Eu știu: locul meu e-n ceruri,
+Unde-i și comoara mea.
+
+[c1.2]
+Și chiar de nu știu ziua,
+Nici momentul când va fi.
+Știu că voi pleca acasă
+Când mireasa-Și va răpi. :/ (2x)
+
+[v1.1]
+Tot aștept s-aud trompeta,
+Oricând poate suna
+Și cununa mă așteaptă
+Curând va fi a mea.
+
+[v1.2]
+Invitația mi-a făcut-o,
+Chiar Isus, la Golgota.
+Mi-a plătit călătoria
+Cu însăși viața Sa.
+
+[v2.1]
+Corabia-i pregătită,
+Ne așteaptă să urcăm.
+Destinația mea e-n ceruri,
+În glorie ancorăm.
+
+[v2.2]
+Ne așteaptă Salvatorul
+Și cei dragi care-au ajuns,
+O eternitate vom trăi
+În cer lângă Isus.
+
+[b]
+Și chiar de nu știu ziua,
+Nici momentul când va fi.
+Știu că voi pleca acasă
+Când mireasa-Și va răpi.

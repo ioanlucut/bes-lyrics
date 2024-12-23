@@ -1,0 +1,23 @@
+[title]
+Haruri peste haruri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jqrkZdUqQ5dtNAnDLMLQAQ}, contentHash: {6bfe66}}
+
+[sequence]
+v1,c1.1,c1.2,v1,c1.1,c1.2
+
+[v1]
+Haruri peste haruri, haruri peste haruri,
+Cu mâini ridicate stăm în fața Ta.
+Haruri peste haruri, haruri peste haruri,
+Harul se revarsă, curge peste noi.
+
+[c1.1]
+Pătrundem toți în haruri, Doamne,
+Haruri peste haruri,
+Spre Tine mâini întinse ridicăm
+Și astfel.
+
+[c1.2]
+Haruri peste haruri,
+Haruri se revarsă,
+Curgând peste noi toți,
+Haruri peste haruri.

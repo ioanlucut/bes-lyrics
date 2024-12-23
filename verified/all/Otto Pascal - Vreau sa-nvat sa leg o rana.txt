@@ -1,0 +1,26 @@
+[title]
+Vreau să-nvăț să leg o rană {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {89513}, id: {aEyNL3Qid7e3eftkwsu63C}, contentHash: {88d0ad}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+De multe ori în urma mea, prin gestul meu necugetat,
+Rănit-am oameni, rănit-am oameni,
+Dar nu prin arme sau cuțit, ci prin ceea ce-am vorbit,
+Am dărâmat templul care trebuia zidit.
+
+[c]
+/: Vreau ca gura mea, de acum, să rostească
+Tot ce-aduce un zâmbet pe față,
+Tânjesc să iubesc, ca și Sfântul Miel,
+Vreau să-învăț să leg o rană,
+Să conduc privirea oarbă către ceruri,
+Nu pot uita că și eu am fost condus cândva de Sfântul Miel. :/
+
+[v2]
+Aș vrea ca rănile să leg,
+Celor ce-n drumul vieții merg.
+Fără speranță, fără speranță,
+Am fost și eu cândva, dar Isus m-a salvat și m-a condus
+Către cer, ca să fiu cu El acolo, sus.

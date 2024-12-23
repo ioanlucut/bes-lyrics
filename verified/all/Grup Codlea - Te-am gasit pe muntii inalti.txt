@@ -1,0 +1,29 @@
+[title]
+Te-am găsit pe munții înalți {alternative: {*}, composer: {Grup Codlea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1541}, id: {4ojutbZhvDmCGy7EQGdZGH}, contentHash: {e648ae}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Te-am găsit pe munții înalți,
+Te-am găsit pe margini de râu,
+/: Te-am găsit în parfumul din flori,
+Te-am găsit, Isuse, Te-am găsit! :/
+
+[v2]
+Te-am găsit pe cerul senin,
+Te-am găsit pe dealuri și stânci,
+/: Te-am găsit în pădurea-nverzită,
+Te-am găsit, Isuse, Te-am găsit! :/
+
+[v3]
+Te-am găsit în fulgul de nea,
+Te-am găsit în stele și nori,
+/: Te-am găsit în stropii de ploaie,
+Te-am găsit, Isuse, Te-am găsit! :/
+
+[v4]
+Te-am găsit sus pe Golgota,
+Te-am găsit și-atunci mi-ai vorbit,
+/: Te-am găsit, fericirea mi-ai dat,
+Te-am găsit, Isuse, Te-am găsit! :/

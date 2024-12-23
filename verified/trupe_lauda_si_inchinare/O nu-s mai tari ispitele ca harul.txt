@@ -1,0 +1,41 @@
+[title]
+O, nu-s mai tari ispitele ca harul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bv611CF7a77pYLq9Bs2fbj}, contentHash: {a647e0}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+O, nu-s mai tari ispitele ca harul
+Ce l-ai primit ca să le poți răbda,
+Căci nu se cere-ntâi să urci Calvarul,
+Întâi primești putere de-a răbda.
+
+[c]
+Credință se cere, credință
+Și orice ispită-ai să-nvingi!
+Credință de-avea-vei, credință,
+Puterea ispitei o stingi!
+
+[v2]
+O, nu-s mai tari durerile-ntâlnite
+Decât puterea care-o vei primi,
+Căci nu-s întâi poverile sporite,
+Ci-ntâi primești putere-a suferi.
+
+[c2]
+Nădejde se cere, nădejde,
+Și orice durere învingi!
+Nădejde de-avea-vei, nădejde,
+Puterea durerii o stingi!
+
+[v3]
+O, nu-s mai tari vrăjmașii niciodată
+Decât iubirea gata a ierta,
+Că-ntâi nu vine ura-nverșunată,
+Ci-ntâi se va mări iubirea ta.
+
+[c3]
+Iubire se cere, iubire,
+Și orice vrăjmaș ai să-nvingi!
+Iubire de-avea-vei, iubire,
+Jertfind ura-ntreagă o stingi!

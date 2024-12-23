@@ -1,0 +1,48 @@
+[title]
+Câtă vreme-am trăit în păcat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6aodrCGbgyRae4fhY5sHeq}, contentHash: {46807d}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Câtă vreme-am trăit în păcat,
+Câtă vreme nu Te-am căutat,
+Până când eu Te-am întâlnit
+Eram un om nenorocit.
+
+[v1.2]
+Dar de când Te-am aflat, scump Isus,
+Și în viață lumină mi-ai adus,
+Simt mereu puterea-Ți în piept
+Și-ntâlnirea cu Tine o aștept.
+
+[c]
+/: Osana, osana, slăvim pe Dumnezeu,
+Osana, mărim numele Tău,
+Isus în veci să fii-nălțat!
+Vrem să Îți cântăm, în veci să Te lăudăm,
+Mare Împărat! :/
+
+[v2.1]
+Așteptăm să Te-ntorci, Doamne, acum,
+Te simțim, ești aproape pe drum.
+Vino, vrem să vedem fața Ta,
+Te-așteaptă jos Biserica!
+
+[v2.2]
+Noi cântarea spre Tine o înălțăm,
+Mai aproape de Tine să stăm.
+Întărește pe cei obosiți,
+Vrem să fim cu toții mântuiți!
+
+[v3.1]
+Eu la Tine, Isuse-am găsit
+Mângâiere și sunt fericit,
+Vreau să-Ți cânt, să Te laud mereu,
+Slăvesc în veci Numele Tău!
+
+[v3.2]
+Vreau să-ajung odată să cânt
+Lângă Tine, Păstorul cel blând,
+Să Te-nalț, să Te laud, Isus,
+La slăvita-ntâlnire de sus!

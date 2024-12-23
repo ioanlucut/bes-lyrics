@@ -1,0 +1,20 @@
+[title]
+Haideți, lăudați cu toții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4934}, id: {qrgn5nyoiEUqxJttwSLMpJ}, contentHash: {b1686e}}
+
+[sequence]
+c,v1,c
+
+[c]
+/: Haideți, lăudați cu toții
+Pe Dumnezeul Sfânt al lui Israel! :/
+/: Ridicați-vă mâinile și cântați-I Numele
+Căci Dumnezeu va ridicat. :/
+
+[v1]
+Haideți, haideți,
+Să urcăm pe Muntele Sfânt,
+Unde-i veselie și cânt,
+Să cântăm în fața Lui.
+Să strigăm în fața Lui:
+El e Domn sus în cer
+Unde-i tronul Său.

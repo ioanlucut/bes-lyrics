@@ -1,0 +1,30 @@
+[title]
+Grăiți: Isus în locul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2tm3hN2eDRhkJHQUB4aKUD}, contentHash: {da3dff}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Grăiți: Isus în locul meu pe cruce a murit
+Și către-un pierdut cum sunt eu
+S-a-ntors că m-a iubit.
+
+[c]
+/: Și în locul meu, și în locul tău,
+Murit-a Domnul pentru toți,
+Veniți să-I mulțumim! :/
+
+[v2]
+Soarele se întunecă ascunzând raza sa,
+Când Isus răbdă pe cruce,
+Luptând El cu moartea.
+
+[v3]
+De-aș ascunde fața mea de rușine pe veci
+Și de-aș plânge cât aș vrea
+Așa să-I mulțumesc.
+
+[v4]
+Dar nimic nu m-ar astâmpăra oricum aș suferi,
+Inima-mi Tu poți vindeca,
+Ție Ți-o voi jertfi.

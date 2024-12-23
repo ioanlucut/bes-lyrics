@@ -1,0 +1,29 @@
+[title]
+Planul mântuirii din vecii făcut {alternative: {*}, composer: {The Messangers}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {229001}, id: {bomwHa6KN8uugBb9BnWeZf}, contentHash: {74685e}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Planul mântuirii din vecii făcut,
+Se apropie de un mormânt.
+Când părea că totu-i un sfârșit pierdut,
+S-a-mplinit ce-ai spus Tu în Cuvânt!
+
+[c]
+A-nviat Isus, mormântul Lui e gol,
+Cu moartea pe moarte călcând și viață aducând.
+Domnește sus, pe tron, cu slavă îmbrăcat,
+Aleluia, Hristos a înviat!
+
+[v2]
+Zorii învierii vremi de har aduc
+Ca oricine crede să aibă-n dar
+Viață după moarte în eternul rai,
+Dacă viața ta Lui I-o predai.
+
+[v3]
+Te-ai înălțat la Tatăl și-ai spus: „Voi reveni!”
+Domn al domnilor, mire Isus,
+În văzduh Mireasa o vei întâlni,
+Adă mai curând aceea zi!

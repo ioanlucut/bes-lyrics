@@ -1,0 +1,28 @@
+[title]
+Doamne, inima strigă către Tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cqykuMBYnpjyRfrWt1inwJ}, contentHash: {fc4278}}
+
+[sequence]
+v1,c1.1,c1.2
+
+[v1]
+Doamne, inima strigă către Tine:
+Tu ești dragostea
+Ce o simt în mine!
+Glorie, glorie, glorie Regelui!
+Vreau vocea să-Ți ascult
+Și să recunosc dulcele Tău Cuvânt,
+O, ce susur blând!
+Glorie, glorie, glorie Regelui!
+
+[c1.1]
+Tu ești Tată pentru cei orfani
+Și mângâierea mea.
+Încununat cu slavă,
+Eu dau glorie Regelui!
+Durerea mea Tu o alini
+
+[c1.2]
+Și capul mi-l ridici,
+Lacrima de pe-obraz alungi.
+/: Eu dau glorie, glorie,
+Eu dau glorie Regelui! :/

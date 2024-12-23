@@ -1,0 +1,19 @@
+[title]
+Din adâncul inimii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74510}, id: {3RJ6DXTii41wKamgxDCtUx}, contentHash: {15672e}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Din adâncul inimii,
+Pe Isus vreau a-L vesti
+Și să-I cânt mereu un mare aleluia!
+Vreau să spun întregii lumi,
+Dumnezeu cât e de bun,
+Împreună să-I cântăm toți aleluia!
+
+[c]
+Aleluia, Te laudă al meu suflet,
+Aleluia, Te laudă gura mea mereu.
+Aleluia, vreau să spun tuturora,
+Ce măreț ești Doamne, Dumnezeul meu!

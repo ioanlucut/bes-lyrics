@@ -1,0 +1,53 @@
+[title]
+Dumnezeu îmi dă putere {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6CayFPkGtLPcULMJR8eXRv}, contentHash: {367f8e}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Dumnezeu îmi dă putere,
+Harul Său și mângâiere,
+Dar dator sunt acum eu
+Să-I slujesc prin harul Său.
+
+[v2]
+Căci va veni foametea
+Și nu vom putea lucra
+Domnul ne spune frumos
+În Scriptură la Amos:
+
+[v3]
+Căci va fi foamete-n lume
+Nu de apă sau de pâine
+Ci de auzirea Lui,
+De Cuvântul Domnului.
+
+[v4]
+Vor plânge și vor umbla
+De la o mare la alta,
+De la răsărit l-apus
+Să-l găsească pe Isus.
+
+[v5]
+Orișicât vor căuta
+Pe Isus nu-L vor afla.
+Va fi timpul pe sfârșit
+Și rămâi nemântuit.
+
+[v6]
+Dar acum Domnul ne spune:
+„Căutați-Mă pe Mine!”
+Până Mă puteți afla
+Căci harul se va lua.
+
+[v7]
+La Israel va fi dat,
+De la el a fost
+Ca să ni-L dea Domnul nouă
+Să trăim o viață nouă.
+
+[v8]
+Ca și sfinții din trecut,
+Ce pe Domnul L-au crezut,
+Prin dragoste și credință
+Au ajuns la biruință.

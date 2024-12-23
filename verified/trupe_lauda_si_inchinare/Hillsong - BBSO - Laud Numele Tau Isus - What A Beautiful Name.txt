@@ -1,0 +1,36 @@
+[title]
+Laud Numele Tău, Isus {alternative: {What A Beautiful Name}, composer: {Ben Fielding & Brooke Ligertwood}, writer: {Ben Fielding & Brooke Ligertwood; Florin Mesaroș & BBSO}, arranger: {*}, interpreter: {Hillsong; BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167752}, id: {nh7fCEFogaPNUAn7vkF9LC}, contentHash: {ddffea}}
+
+[sequence]
+v1,c,v2,c,b1.1,b1.2,c
+
+[v1]
+La început a fost Cuvântul
+Și Cuvântul S-a-ntrupat,
+Gloria Sa nemărginită
+Printre noi s-a arătat.
+
+[c]
+/: Laud Numele Tău, Isus, laud Numele Tău, Isus,
+Ești al meu Rege înălțat.
+Laud Numele Tău, Isus,
+Ești Mielul ce-a fost străpuns.
+Laud Numele Tău, Isus, al slavei Rege! :/
+
+[v2]
+Iar pentru a fi în veci cu Tine,
+Printre oameni ai umblat.
+N-ai renunțat nicicând la mine,
+Te-ai smerit să fii ‘nălțat.
+
+[b1.1]
+A Ta lucrare e desăvârșită,
+Până la capăt ne-ai iubit.
+Viața domnește, iar moartea e-nvinsă,
+Isus Hristos a biruit!
+
+[b1.2]
+Orice putere, orice domnie,
+Domnul meu toate le-a zdrobit.
+Din a Sa cruce curge iubire,
+Viață prin El eu am primit!

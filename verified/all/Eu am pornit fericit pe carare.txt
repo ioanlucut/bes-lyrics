@@ -1,0 +1,29 @@
+[title]
+Eu am pornit fericit pe cărare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1631}, id: {oXQyiu9bp4SdxgXE55hCBS}, contentHash: {024e51}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu am pornit fericit pe cărare
+Cu Isus, bunul meu Salvator,
+Deși spinos deseori drumu-mi pare,
+Eu mă prind de Isus stăruitor.
+
+[c]
+Brațul Său iubitor mă conduce,
+Zi de zi, prin ‘cercări de-orice fel.
+Harul Său minunat mă va duce
+Prin credință s-ajung sus în cer.
+
+[v2]
+Eu am predat zdrobitoarea-mi povară
+Lui Isus și-am luat-o pe-a Sa.
+Sunt fericit că-i așa de ușoară,
+Vreau s-o port pe pământ cât voi sta.
+
+[v3]
+Lângă Isus am aflat fericirea,
+Sunt voios să-L slăvesc ne-ncetat
+Prin harul Lui voi primi nemurirea
+Când intra-voi pe porți de smarald.

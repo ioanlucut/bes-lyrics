@@ -1,0 +1,31 @@
+[title]
+Doamne, astăzi vin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2833}, id: {wRsz3ohzWbmf6xvBNyUXgu}, contentHash: {978fb6}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Doamne, astăzi vin
+În fața Ta să mă închin,
+Ca să fiu umplut de har divin.
+
+[v1.2]
+Prin lumina Ta
+Aș vrea mai mult să îmi cunosc
+Slăbiciunile, și să cresc în iubirea Ta.
+
+[c]
+Cheamă-mă și voi veni la Tine,
+Când sunt slab, Tu mă sprijinești.
+Ca vulturul spre ceruri mă voi înălța
+Și veșnic voi trăi, mereu voi locui în iubirea Ta.
+
+[v2.1]
+Doamne, vreau să fiu
+În stare să-nțeleg cum ești
+Și care-i calea Ta, ca să merg pe ea.
+
+[v2.2]
+Și din pacea Ta
+În suflet să-mi reverși un strop
+Ca cei din jur să bea și să stea în iubirea Ta.

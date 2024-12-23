@@ -1,0 +1,35 @@
+[title]
+Tăria noastră fii mereu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {85365}, id: {vEHpKKJ9MmeaFA2mGV61z7}, contentHash: {988b88}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Tăria noastră fii mereu,
+Să trecem astăzi drumul greu!
+/: Și-n clipe grele și nevoi
+Revarsă pace, pace, pace, peste noi! :/
+
+[v2]
+Ascultă-ne când Te rugăm!
+Răspunde-ne când Te chemăm!
+/: Și dacă vom fi, Doamne, doi,
+Revarsă pace, pace, pace, peste noi! :/
+
+[v3]
+Iubirea Ta de Dumnezeu,
+Păstreaz-o-n inimă mereu
+/: Și până-n ziua de apoi
+Revarsă pace, pace, pace, peste noi! :/
+
+[v4]
+Aproape fii de cei sărmani,
+Fii mângâiere la orfani!
+/: Și unde sunt lacrimi și-amar,
+Revarsă pace, pace, pace și-al Tău har! :/
+
+[v5]
+Păstrează-ne sub scutul Tău!
+Noi Te rugăm în gând mereu
+/: Și inima Ție Îți dăm,
+Revarsă pace, pace, pace să avem. :/

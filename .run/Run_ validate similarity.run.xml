@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run: validate similarity" type="NodeJSConfigurationType" node-parameters="--loader ts-node/esm --no-warnings=ExperimentalWarning" path-to-js-file="bin/lyricsSimilarityValidator.ts" working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>

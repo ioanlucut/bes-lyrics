@@ -1,0 +1,26 @@
+[title]
+Pune-mă ca o pecete pe inima ta {alternative: {*}, composer: {Emanuel Fedur}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {fK4Rt7p9fHndto1WddDaYJ}, contentHash: {a97d0c}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Pune-mă ca o pecete pe inima ta,
+Ca o rugă nerostită-n suflet de cleștar.
+Pune-mă să-ți fiu în noapte gândul veghetor,
+Un străjer neadormit în turn de vis și dor.
+
+[c]
+Ape în talaz de vuiet de-or urla,
+Râuri mari nu vor putea îneca.
+Dragostea e flacără a Domnului,
+Jar de pe altarul cerului.
+
+[v2]
+Veacurile se vor stinge, toate au sfârșit,
+Cunoștința, prorocia fi-vor doar un mit.
+Nici credința, nici nădejdea nu vor dăinui,
+Doar iubirea va răzbate înspre veșnicii.
+
+[e]
+Pune-mă ca o pecete pe inima ta!

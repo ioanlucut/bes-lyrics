@@ -1,0 +1,17 @@
+[title]
+Isus e Domn, El e Domn {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nQ79NWV1jut6o3M7yAjcED}, contentHash: {f674eb}}
+
+[sequence]
+v1,v2
+
+[v1]
+Isus e Domn, El e Domn,
+El e Domnul vieții noastre, El e Domn,
+Toți să-L preamărim, să-L mărturisim,
+Căci Isus este Domn!
+
+[v2]
+El e Domn, El e Domn,
+El e Domnul vieții noastre, El e Domn,
+Toți să-L preamărim, să-L mărturisim,
+Căci Isus este Domn!

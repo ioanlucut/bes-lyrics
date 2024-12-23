@@ -1,0 +1,29 @@
+[title]
+Așa de-aproape de Tin’ {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {879}, id: {fSGxqfrDBuNA5FhUnEaj3v}, contentHash: {5f6ee1}}
+
+[sequence]
+c,v1,c,v2,c2
+
+[c]
+/: Așa de-aproape de Tin’,
+Simt cum Te bucuri sau suspini,
+Strâns legat sunt de inima Ta,
+Aproape de ea. :/
+
+[v1]
+Mă gândesc mereu la vremea-n care
+Cu brațul Tău Tu m-ai ridicat.
+Planurile Tale acuma-mi sunt clare
+Căci prin har viața mea ai schimbat.
+
+[v2]
+Acum când inimile bat împreună
+Și iubirea Ta străpunge viața mea,
+Privesc prin ochii Tăi și văd mila Ta
+Căci sunt așa de-aproape de Tin’.
+
+[c2]
+Așa de-aproape de Tin’
+Simt cum Te bucuri sau suspini,
+Strâns legat sunt de inima Ta,
+/: Aproape de ea. :/

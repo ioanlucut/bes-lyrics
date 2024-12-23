@@ -1,0 +1,23 @@
+[title]
+Doamne-acum seara a sosit {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5328}, id: {b2Hb8fdAg8yPsXH3CxNesG}, contentHash: {a4600c}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Doamne-acum seara a sosit,
+Ție ne-ncredințăm!
+/: Lucrul zilei am împlinit,
+Laudă-Ți aducem. :/
+
+[v2]
+De vezi cumva că am greșit,
+Prin vorbe sau fapte,
+/: O, Domnul nostru mult iubit,
+Ne iartă de toate. :/
+
+[v3]
+Și ne-ajută mai departe
+Să nu păcătuim,
+/: Să facem tot mai bune fapte,
+Până în veci, amin! :/

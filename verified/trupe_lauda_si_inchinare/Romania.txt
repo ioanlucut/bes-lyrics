@@ -1,0 +1,31 @@
+[title]
+România {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bTUMDd1EP5aGfNADVfzK6D}, contentHash: {644eae}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Atâtea lacrimi și durere,
+Atâta lipsă de mângâiere,
+Văd la orice pas, în țara mea.
+Atâtea familii destrămate,
+Atâția copii fără mamă și tată,
+Stau și mă întreb de ce-i așa
+Și mă doare, mă doare inima
+Când mă gândesc, când mă gândesc la țara mea.
+
+[c]
+România, ai nevoie de Dumnezeu!
+România, ai nevoie de Fiul Său!
+România, acum e timpul să te trezești,
+Să te întorci cu-adevărat la Dumnezeu!
+
+[v2]
+Atâta freamăt și-ncordare,
+Atâta lipsă de alinare,
+Văd acum în țara mea.
+Atâta hulă și minciună,
+Păcatul se-nalță, a ajuns la culme,
+Mă întreb de ce-i așa
+Și mă doare, mă doare inima
+Când mă gândesc, când mă gândesc la țara mea.

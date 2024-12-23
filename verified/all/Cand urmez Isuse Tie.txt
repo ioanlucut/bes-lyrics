@@ -1,0 +1,44 @@
+[title]
+Când urmez Isuse, Ție {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1603}, id: {2ckrbJZjrdzoRoDfdzZvLL}, contentHash: {4bb88b}}
+
+[sequence]
+v1,p,v2,p,v3,c,v4,c2
+
+[v1]
+Când urmez Isuse, Ție,
+Tu să nu mă lași nicicând.
+Îndoieli când vor să-mi vie,
+Tu să nu mă lași nicicând.
+
+[p]
+/: Tu să nu mă lași! :/
+Eu în Tine mă încred,
+Deci, să nu mă lași!
+
+[v2]
+Când ispita mă muncește,
+Tu să nu mă lași nicicând.
+Când credința-mi șovăiește,
+Tu să nu mă lași nicicând.
+
+[v3]
+Când am clipe fericite,
+Tu să mă susții mereu
+Când mă aflu în ispite,
+Tu să mă susții mereu.
+
+[c]
+/: Tu să mă susții! :/
+Isuse, eu Te iubesc,
+Tu să mă susții!
+
+[v4]
+Mâna Ta de mă conduce,
+Mă simt fericit nespus.
+Sigur că în cer mă duce,
+Mă simt fericit nespus.
+
+[c2]
+/: Mă simt fericit! :/
+Că în cer voi fi cu Tine,
+În veci nedespărțit.

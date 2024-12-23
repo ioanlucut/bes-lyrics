@@ -1,0 +1,29 @@
+[title]
+E prezent aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6753}, id: {sHH2SduEMKPho4rZcWKrUF}, contentHash: {b7bebd}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Poate ești lovit de vânt,
+Poate ești lovit de ploi
+Și crezi că nu mai ai un rost pe pământ.
+Poate, tu te rogi demult
+Și aștepți din cer răspuns.
+Vreau să-ți spun că El acum e prezent,
+Trebuie doar să-L atingi.
+
+[c]
+/: E prezent aici Fiul lui Dumnezeu,
+E prezent și vrea să-ți dea mâna Sa,
+E prezent aici, te așteaptă iubind,
+Trebuie doar să vrei, să-I dai inima. :/
+
+[v2]
+Dacă ești căzut în drum,
+Dacă pașii-ți rătăcesc
+Și azi te-așteaptă să vii, nu-i târziu.
+Viața dacă vrei să-ți schimbi
+Și să umbli în adevăr,
+Vreau să îți spun că El acum e prezent,
+Trebuie doar să-L atingi.

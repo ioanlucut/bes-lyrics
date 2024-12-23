@@ -1,0 +1,21 @@
+[title]
+Ce bine e să dăm laudă Domnului {alternative: {*}, composer: {Neiconi Nutzy}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4850}, id: {jLbqSRSdPbkAwJ9L2PAfsa}, contentHash: {48e603}}
+
+[sequence]
+v1,c,b,c
+
+[v1]
+Ce bine e să dăm laudă Domnului,
+Ce bine e să-I dăm laudă numai Lui!
+El captivi eliberează, inimi vindecă,
+Binecuvântăm Numele Lui.
+
+[c]
+Îți mulțumim, ești Salvatorul,
+Cu inimi de recunoștință ne-nchinăm,
+Îndurarea Ta va ține veșnic,
+Eu Te voi lăuda toată viața mea.
+
+[b]
+Vreau să-L slăvesc pe El!
+Vreau să-L slăvesc pe El!

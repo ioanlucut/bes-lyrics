@@ -1,0 +1,46 @@
+[title]
+Ierusalime, cetate-mpodobită și Când va-ncepe nunta noastră {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {csYn2bs8tsFg4x3tCn67Cp}, contentHash: {fae337}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,v4,e
+
+[v1]
+Ierusalime, cetate-mpodobită
+Cu străzi de aur, argint și de cristal,
+De pe pământ, al meu dor se ridică:
+S-ajung la tine, să scap de orice necaz.
+
+[c1.1]
+/: Aș vrea s-ajung la tine,
+Să scap de-orice suspine
+Și să mă uit la frumusețea ta!
+
+[c1.2]
+Căci tot ce-i pe pământ
+Este goană după vânt
+Și nu pot să-mi găsesc fericirea. :/
+
+[v2]
+Aș vrea să văd pururi a ta splendoare,
+Să umblu pe-ntinsul tău minunat.
+Apoi, pe veci să rămân tot cu tine,
+Slăvind pe veci Numele-Ți de-mpărat.
+
+[v3]
+Când va începe nunta noastră,
+În dimineața fără nori,
+O, când va-ncepe nunta noastră,
+Pe-ntreaga-ntindere albastră
+/: Vor fi lumină și splendori. :/
+
+[v4]
+Când fața Ta strălucitoare,
+Isuse drag, se va ivi,
+De fața Ta strălucitoare,
+S-or stinge stele, lună, soare,
+/: Lumina Ta le-ar copleși. :/ (x3)
+
+[e]
+Cât mai bate o inimă-n mine,
+Îl doresc, Îl iubesc, Îl aștept
+Pân‘ va-ncepe nunta noastră.

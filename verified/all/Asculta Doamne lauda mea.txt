@@ -1,0 +1,21 @@
+[title]
+Ascultă, Doamne, lauda mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1171}, id: {5wbK9gkc8LRhcF4w3U2xgJ}, contentHash: {9f85d9}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Ascultă, Doamne, lauda mea
+Când mă gândesc la Tine-n ruga mea.
+Te iubesc, Doamne, Te iubesc!
+Purtat pe aripi în prezența Ta,
+Sufletu-mi cântă și în inima mea,
+Te iubesc, Doamne, Te iubesc!
+
+[c]
+Iar acum eu doresc
+Să mă-nchin întotdeauna
+În puterea Numelui Tău.
+Îmi ridic mâinile
+Și-mi înalț vocea spre ceruri
+Căci Tu ești lumina mea.

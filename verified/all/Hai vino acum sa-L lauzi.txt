@@ -1,0 +1,17 @@
+[title]
+Hai, vino acum să-L lauzi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4512}, id: {qeYnxt76VdZ479kNPEhpSg}, contentHash: {4e9e1e}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Hai, vino acum să-L lauzi!
+Hai, vino să-I dai Lui inima!
+Hai, așa cum ești să-L lauzi,
+Hai, așa cum ești ‘naintea Sa, hai!
+
+[c]
+Vor mărturisi toți că doar Tu ești Domn,
+Toți genunchii se vor pleca,
+Binecuvântați vor fi toți cei ce
+Acum Te vor căuta! :/

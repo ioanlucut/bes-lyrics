@@ -1,0 +1,29 @@
+[title]
+Doamne, mă predau azi Ție {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hqUZGhdbkiDMc6Y6TGpQjd}, contentHash: {18cd7f}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, mă predau azi Ție
+Cu întreagă ființa mea.
+Doamne, nu lăsa pe nimeni
+Să mă ia din mâna Ta.
+
+[c]
+O, ce har nespus,
+O, ce har nespus
+Să-mi predau ființa-ntreagă
+Domnului Isus.
+
+[v2]
+Tu mă știi, Doamne, mai bine
+Mă cunoști, căci al Tău sunt.
+Fericirea mea supremă
+Mi-ești Tu, Doamne, pe pământ.
+
+[v3]
+Domnul vieții mele Tu-mi ești,
+Mi-ai dat mântuirea-n dar.
+Sunt al Tău pe totdeauna,
+Zi de zi trăiesc prin har.

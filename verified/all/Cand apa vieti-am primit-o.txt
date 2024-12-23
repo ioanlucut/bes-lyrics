@@ -1,0 +1,30 @@
+[title]
+Când apa vieți-am primit-o {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1596}, id: {hsVyFGNv2SRU6UvYCDHFTX}, contentHash: {63709f}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când apa vieți-am primit-o,
+Cătușe și lanțuri s-au frânt
+Căci apa năvalnic lovit-a,
+O, apă, tu, Râule Sfânt!
+
+[c]
+O apă vie ni s-a dat
+Prin harul sfânt.
+Și cel mai minunat,
+Isus, izvor de mângâieri,
+Din zi în zi ne dai puteri.
+
+[v2]
+Ai pus sub talazuri robia,
+Ai pus o pecete în noi,
+Iar dragostea fost-a întâia
+Petală din crinii de soi.
+
+[v3]
+Puterea de viață ne-ai dat-o
+Atunci când am fost încercați
+Și azi ni-e privirea purtată
+Spre cerul măreț, minunat.

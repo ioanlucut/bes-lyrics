@@ -1,0 +1,37 @@
+[title]
+Cheamă-I azi Numele {alternative: {Speak the Name}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230421}, id: {iKoxiaqYd5oAGfuqZv5G2t}, contentHash: {991859}}
+
+[sequence]
+v1,b,c,v2,c2,e
+
+[v1]
+Când stăm în rugăciune, nimic nu e la fel,
+Cerul așteaptă să rostim azi Numele.
+Duhul Sfânt mișcă, coboară ca un foc,
+Inimi frânte vindecate sunt pe loc.
+
+[b]
+Cheamă-I azi Numele,
+Lanțuri cad, munți clintești prin laude.
+
+[c]
+Proclamăm doar Numele Isus Hristos,
+Proclamăm pe Cel ce peste toate-i Domn.
+Cerul se coboară-acum, glorios răsună când
+Proclamăm Numele Isus.
+
+[v2]
+Orice îndoială, Tu o risipești,
+Minunile nu-ntârzie, când rostim azi Numele.
+Tu ne aduci lumină, mila Ta vedem,
+Râul vindecării peste noi azi îl reverși.
+
+[c2]
+/: Lanțuri sunt frânte, sunt liber azi,
+Nu-mi mai e teamă, căci sunt iertat. :/
+
+[e]
+Tu ești iertare, Tu ești putere,
+Tu ești sfințenie, turn de scăpare.
+Ești minunat, ești glorios,
+Plin de putere ești, Isus, Isus!

@@ -1,0 +1,23 @@
+[title]
+Alinare și-ndurare {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eA9PRhc4x2ZsuHfYUjkk8F}, contentHash: {9801b0}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Alinare și-ndurare,
+Iertare deplină prin sângele Său.
+Sufletu-mi plânge, ajută-mă, Doamne!
+Ești tot ce am, cer izbăvire!
+
+[c]
+/: Iartă-mă, iartă-mă,
+Spală-mă și voi fi mai alb ca neaua!
+Primește-mă, primește-mă,
+Ajută-mă să pot zbura, spre veșnicia Ta! :/
+
+[v2]
+Alinare și-ndurare,
+Iertare deplină prin sângele Său.
+Sufletu-mi plânge, ajută-mă, Doamne!
+Ești tot ce am, cer izbăvire!

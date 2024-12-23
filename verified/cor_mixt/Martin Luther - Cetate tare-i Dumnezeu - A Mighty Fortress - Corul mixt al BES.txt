@@ -1,0 +1,34 @@
+[title]
+Cetate tare-i Dumnezeu {alternative: {A Mighty Fortress}, composer: {Martin Luther}, writer: {Carmen Gavril}, arranger: {Dan Hart}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {97rwQTUViFEHpcs8Pq35r2}, contentHash: {bc919a}}
+
+[sequence]
+v1,v2,c,v3,c,e
+
+[v1]
+Cetate tare-i Dumnezeu, puternic zid, de neclintit,
+E adăpost în orice greu, scut pentru sufletul trudit.
+Hristos Miel, Împărat, prin moarte-a triumfat,
+Pe robi i-a izbăvit, de iad ne-a mântuit,
+Pe-al nopții domn l-a nimicit.
+
+[v2]
+În luptă cruntă am intrat vrășmașul să îl biruim,
+În frunte-i Mielu-njunghiat și-ai Săi aleși în urmă vin.
+În Templul Sfânt pe tron stă al oștirii Domn
+Viteazul luptător, în veci neschimbător,
+Hristos e-a tot biruitor.
+
+[c]
+Cetate tare, cetate tare-i Dumnezeu,
+Cetate tare, cetate tare-i Dumnezeu!
+
+[v3]
+Al Său Cuvânt va dăinui deasupra-a tot ce-i pământesc
+Prin El tărie vom primi și harul Său dumnezeiesc
+Hristos e lângă noi, nicicând n-om da ‘napoi,
+Și chiar de vom muri noi tot vom birui
+Isus e Rege-n veșnicii
+
+[e]
+Cetate tare-i Dumnezeu, (x3)
+Doar El!

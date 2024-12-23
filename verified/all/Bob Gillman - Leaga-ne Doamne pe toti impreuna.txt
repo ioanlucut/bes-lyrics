@@ -1,0 +1,17 @@
+[title]
+Leagă-ne, Doamne, pe toți împreună {alternative: {*}, composer: {Bob Gillman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4988}, id: {ijuhdgWcCKygQXqLh7wiG3}, contentHash: {4be81d}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Leagă-ne, Doamne, pe toți împreună
+Cu lanțuri ce nu pot fi rupte.
+Leagă-ne, Doamne, pe toți împreună!
+O, leagă-ne prin dragoste.
+
+[c]
+/: Este-un singur Domn,
+Este-un singur Fiu,
+Este-un singur Duh
+Și Acela-i viu! :/

@@ -1,0 +1,27 @@
+[title]
+La crucea de la Golgota {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3778}, id: {9267uocXLwPytTmGeeazh3}, contentHash: {aaabe5}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2
+
+[v1]
+La crucea de la Golgota,
+Doamne, vin să-ngenunchez cu viața mea.
+Sunt obosit de-al meu păcat,
+Sufletul mi-e-ndurerat, ajută-mă!
+
+[c1.1]
+Trimite-mi, Doamne, har din cer,
+Dă-mi mângâiere, să nu pier,
+Primește viața mea în dar, la cruce la Calvar!
+
+[c1.2]
+Sfințește, Doamne, ființa mea,
+Să pot să stau ‘naintea Ta,
+Să-Ți mulțumesc că m-ai răscumpărat!
+
+[v2]
+Sunt călător pe-acest pământ,
+Nu fi tristă, inimă, nu dispera,
+Stai lângă cruce, nu uita,
+Isus te va mângâia, inima mea!

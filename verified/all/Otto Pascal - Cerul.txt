@@ -1,0 +1,29 @@
+[title]
+Cerul {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {214738}, id: {guKwTyZxM4Fkwubuz2wUDW}, contentHash: {0844c9}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Tot ce-mi doresc, tot ce visez,
+Să moștenesc cu Tine cerul.
+Jos pe pământ mă pregătesc
+Pentru-a vedea cu Tine cerul.
+
+[c]
+Spre seninul, ce e dincolo de nori,
+Vreau cu Tine-ntr-o zi să zbor.
+Nu vor fi lacrimi, nici poveri de dus,
+Să moștenesc, aș vrea, cerul.
+
+[v2]
+Să luminez, să oglindesc
+Iubirea Ta mai înaltă ca cerul.
+Vreau să rodesc Cuvântul Tău
+Pentru-a vedea cu Tine cerul.
+
+[b]
+Cerul este locul pregătit,
+Unde vom trăi în infinit.
+Ziduri nu vor fi acolo, sus,
+Va fi doar slava lui Isus.

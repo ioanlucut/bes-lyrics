@@ -1,0 +1,35 @@
+[title]
+Grajd sau cer {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238328}, id: {3hXBuU4Xo15dvJXZfVtAuS}, contentHash: {060422}}
+
+[sequence]
+v1,c,v2,c,v3,c,b,c
+
+[v1]
+Magi, păstori și ucenici, tâlharul,
+Au crezut în Tine și s-au închinat.
+Milioane Te-au urmat de veacuri
+Evanghelia mereu a triumfat.
+
+[c]
+O iesle-n Betleem, un Domn Emanuel,
+O cruce și-un Calvar, o mântuire-n dar.
+Cuvântul plin de har, mormântul gol rămas,
+Ne spune ceas de ceas.
+El vine să ne ia, în cer în slava Sa,
+De unde nu vom mai pleca.
+
+[v2]
+Ai venit în grajdul vieții mele
+Și mi-ai spus că vrei în cer să mă duci.
+Jertfa Ta a despicat mormântul,
+De păcate-n care stam atunci.
+
+[v3]
+Ascultă azi mesajul de iubire,
+Isus născut în Betleemul din câmpii,
+Răstignit, murind pe cruce pentru Tine,
+A-nviat, s-a înălțat, va reveni!
+
+[b]
+/: Dă grajdul tău, pe cerul Său
+Al tău abis, pe Paradis. :/

@@ -1,0 +1,20 @@
+[title]
+Privim spre ceruri {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4475}, id: {ufMVpXRbC6h5JMTy1qj8iB}, contentHash: {f889c5}}
+
+[sequence]
+c,v1,c,v1
+
+[c]
+/: Privim spre ceruri plini de dor
+Și cu nădejde-L așteptăm.
+Și pe nori va apărea
+Ceru-n slavă va-mbrăca. :/
+
+[v1]
+/: În curând va suna,
+Va suna trâmbița.
+Și pe loc transformați
+Cu Isus vom zbura
+Și cu toții vom cânta,
+Într-un glas vom striga:
+Aleluia, maranata! :/

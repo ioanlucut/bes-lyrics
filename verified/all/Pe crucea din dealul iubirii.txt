@@ -1,0 +1,41 @@
+[title]
+Pe crucea din dealul iubirii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225854}, id: {mxV9KHgn3KstJB3gPqWXq6}, contentHash: {e9481f}}
+
+[sequence]
+v1,c,v2,c2,v3,e
+
+[v1]
+Pe crucea din dealul iubirii,
+Pe culmea lipsită de flori,
+Se stinge Făclia iubirii,
+Privind spre albastrele zări.
+
+[c]
+/: Te plânge izvorul din vale
+Și raza de soare-n amurg,
+Se scutură florile-n cale
+Și stelele toate se-ascund. :/
+
+[v2]
+Ce mulți am aflat în iubire,
+Izvorul de dulci mângâieri,
+Iar astăzi privirea-mi spre culme
+Îl caută și nu-i nicăieri.
+
+[c2]
+/: Dar mama aleargă la cruce,
+Privește spre cer suspinând,
+În locu-I să rabde s-ar duce,
+Pe lemnul de groază murind. :/
+
+[v3]
+Iar ochii ce-au plâns în grădină
+Se-ndreaptă spre cer rugători.
+Spre Cel ce durerile-alină,
+Se-ndreaptă al meu Salvator.
+
+[e]
+/: Părinte-al iubirii sublime,
+O, iartă cumplitul păcat!
+Al Meu duh se-ndreaptă spre Tine,
+O, iartă-i, căci nu știu ce fac! :/

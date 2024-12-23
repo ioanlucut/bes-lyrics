@@ -1,0 +1,15 @@
+[title]
+Împreună vom fi toți {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7LWYsnDfMmGjkNx61JLM8X}, contentHash: {87be82}}
+
+[sequence]
+c,b,c,b
+
+[c]
+/: Împreună vom fi toți,
+În prezența Domnului
+Și vom cânta: „Aleluia,
+Rege-al regilor!” :/
+
+[b]
+/: Strigăm: „Sfânt, sfânt, sfânt
+Este Domnul nostru, Atotputernicul!” :/

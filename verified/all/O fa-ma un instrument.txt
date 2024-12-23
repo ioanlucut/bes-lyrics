@@ -1,0 +1,20 @@
+[title]
+O, fă-mă un instrument {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5024}, id: {x4TnkQgDWGQVNAH9toFpLn}, contentHash: {2fa8a4}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+O, fă-mă un instrument,
+Un instrument de laudă,
+Isuse, să Te preamăresc.
+
+[v2]
+O, fă-mă o harfă,
+O harfă de laudă,
+Isuse, eu laudă să-Ți cânt.
+
+[v3]
+O, dă-ne iubirea,
+Iubirea ce-ai vrut-o,
+Isuse, să fie-ntre noi.

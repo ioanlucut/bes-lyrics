@@ -1,0 +1,33 @@
+[title]
+Ca femeia din Sihar la fântână {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {qdwPdrLMGkSdjHxR7uJn5y}, contentHash: {2a91af}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Ca femeia din Sihar la fântână,
+Dorit-am apă ca să scot,
+Dar vocea lui Isus răsună:
+„Din apa vieții ca să-ți dau Eu pot!”
+
+[c]
+Dă-mi, Isuse, apă vie,
+Stâmpără-mi Tu sufletul arzând!
+Cred, o Doamne, că Tu ești Profetul
+Ce-a adus iubirea pe pământ!
+
+[v2]
+Unde-i, Doamne, locul sfânt de-nchinare,
+În văi umbrite sau la munți?
+O, nu, ci-n suflete smerite
+Și-n jertfa unei aplecate frunți.
+
+[v3]
+Drag prieten care cauți fericirea,
+Izvorul ei e-n Domnul sfânt,
+Isus, divinul nostru Mire,
+Ce din înalt veni jos pe pământ!
+
+[e]
+Cred, o, Doamne, că Tu ești Profetul
+Ce-a adus iubirea pe pământ.

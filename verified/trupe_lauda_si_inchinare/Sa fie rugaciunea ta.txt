@@ -1,0 +1,43 @@
+[title]
+Să fie rugăciunea ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1gm7tQdojcAKAQWCL4AeUW}, contentHash: {61deb4}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Să fie rugăciunea ta
+O jertfă pentru slava Sa,
+De laudă și adorare!
+Când stai plecat ‘naintea Lui,
+Dă-I mulțumire Domnului
+Și spune: „Doamne, Tu ești mare!”
+
+[c]
+/: Rugăciunea te poartă printre stele,
+Te-ajută când treci prin clipe grele.
+Rugăciunea, când treci prin încercare,
+Te ridică și vezi că Domnu-i mare. :/
+
+[v2]
+Prin rugăciune tu găsești
+Alese bucurii cerești
+Când vine Domnu-n cercetare.
+Prin Duhul Sfânt tu mijlocești
+Și uiți de cele pământești
+Cu Duhul Sfânt la rugăciune.
+
+[v3]
+Și Domnul Isus s-a rugat,
+Din chin, durere, a strigat:
+„O, Tată, iartă a lor vină!”
+Te roagă, frate, ca Isus,
+Și vei primi din cer răspuns,
+Durerea Domnul îți alină!
+
+[v4]
+Veniți, voi frați, să ne rugăm,
+Spre Stânca vieții să strigăm,
+Doar El ne dă din apa vie!
+Puțin mai e și vom pleca,
+Acolo nu ne-om mai ruga,
+Ci vom cânta de bucurie!

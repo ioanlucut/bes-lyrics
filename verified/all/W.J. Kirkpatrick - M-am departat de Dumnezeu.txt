@@ -1,0 +1,29 @@
+[title]
+M-am depărtat de Dumnezeu {alternative: {*}, composer: {W.J. Kirkpatrick}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74382}, id: {3KnenQDjWdjkbV6zbio6Hx}, contentHash: {0ed2ae}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+M-am depărtat de Dumnezeu,
+Azi vin acasă.
+Trăit-am în păcatul meu,
+Azi vin acasă.
+
+[c]
+Doamne, vin acasă,
+Nu mai rătăcesc,
+Brațul Tău este deschis,
+Azi vin acasă.
+
+[v2]
+Pierdut-am mulți ani prețioși,
+Azi vin acasă,
+Cu lacrimi, ca un păcătos,
+Azi vin acasă.
+
+[v3]
+M-am dezgustat de viața mea,
+Azi vin acasă.
+Mă-ncred numa-n iubirea Ta,
+Azi vin acasă.

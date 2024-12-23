@@ -1,0 +1,51 @@
+[title]
+Da, într-o zi vom ajunge toți acasă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {vCxdH8vux8QGMMV8oR22MA}, contentHash: {0e93ce}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,c,v3.1,v3.2,c,e
+
+[v1.1]
+Da, într-o zi vom ajunge toți acasă,
+Sus în țara pregătită de Isus!
+Vom uita cât de grea a fost durerea
+Și necazul cât de greu a fost de dus.
+
+[v1.2]
+El ne va șterge orice lacrimă vărsată
+Și vom fi pentru veci nedespărțiți!
+Ce cămin, ce splendori ne așteaptă,
+Vom serba cu Isus fericiți.
+
+[v2.1]
+Pe-acel tărâm ne vom revedea cu toții,
+La-ntâlnirea glorioasă cu Isus.
+Cu cei dragi ce-au plecat în veșnicie
+Ne vom saluta în casa cea de sus!
+
+[v2.2]
+Întreg văzduhul va fi plin de osanale,
+Soarele străluci-va-așa frumos
+Când va-ncepe serbarea minunată
+Și ospățul mirelui Isus Hristos!
+
+[c]
+/: Ce minunat, ce bucurie:
+Vom cânta în cor cu sfinții cerului!
+În paradis, în Canaan,
+Vrem să-ajungem toți acasă, la liman! :/
+
+[v3.1]
+De nu-L primești pe Isus și jertfa sfântă
+Vei rămâne-afară, prietene iubit!
+Dacă nu te-ntorci din lumea de păcate
+Nu vei merge cu ai Săi în paradis!
+
+[v3.2]
+El încă te așteaptă-n marea Sa iubire
+Și îți iartă tot trecutul păcătos.
+Vino azi, nu mai sta în nepăsare,
+Veșnicia s-o petreci cu Hristos!
+
+[e]
+Vrem să-ajungem toți acasă, la liman!
+Amin!

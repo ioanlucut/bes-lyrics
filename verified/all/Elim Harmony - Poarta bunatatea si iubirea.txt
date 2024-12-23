@@ -1,0 +1,25 @@
+[title]
+Poartă bunătatea și iubirea {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172357}, id: {ooPP3sQARgvN8bV7Z6ii8B}, contentHash: {fbe9ee}}
+
+[sequence]
+c,v1,c,v2
+
+[c]
+Poartă bunătatea și iubirea,
+Nicidecum să nu te-atingă ura,
+Poartă, să se vadă bucuria în privirea ta.
+Cântă și în zile fără soare,
+Fii un prieten bun în strâmtorare,
+Doar așa va fii mai bună lumea ta.
+
+[v1]
+Nu uita (nu uita) să zâmbești (să zâmbești),
+Peste tot sunt oameni singuri și întristați,
+Să-i iubești (să-i iubești), să-i ajuți (să-i ajuți)
+Și din disperare vor fi ridicați.
+
+[v2]
+Ajutor (ajutor) să oferi (să oferi)
+Când observi descurajare în drumul tău.
+Pe cei slabi (pe cei slabi) să-i susții (să-i susții)
+Căci pe mulți coroana vieții apasă greu.

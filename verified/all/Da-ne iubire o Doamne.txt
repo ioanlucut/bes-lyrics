@@ -1,0 +1,17 @@
+[title]
+Dă-ne iubire, o, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {aiTRfQ8Whj8CQPi5KYcHPH}, contentHash: {708660}}
+
+[sequence]
+v1,v2
+
+[v1]
+Dă-ne iubire, o, Doamne,
+Să o purtăm în priviri.
+Dragostea Ta printre oameni
+Să ne-nsoțească mereu.
+
+[v2]
+Dă-ne-o-nțelegere nouă
+Să ne iubim ca și frații,
+Dragostea Ta printre oameni
+Fie mereu.

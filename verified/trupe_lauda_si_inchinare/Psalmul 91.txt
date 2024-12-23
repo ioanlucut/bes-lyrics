@@ -1,0 +1,25 @@
+[title]
+Psalmul 91 {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4853}, id: {kUF4Swuq3aPL9PfvLo8vWb}, contentHash: {5aeb4d}}
+
+[sequence]
+c,v1,c,v2,c
+
+[v1]
+Cel ce stă sub ocrotirea Celui Prea-nalt,
+La umbra Celui Atotputernic,
+Face din El loc de scăpare
+Căci Domnul sfânt
+/: E Dumnezeul meu în care mă-ncred. :/
+
+[c]
+/: O mie să cadă alături de tine
+Și zece mii la dreapta ta de vor cădea,
+Cu ochii privește să vezi răsplătirea
+Acelui rău, doar harul Său te va salva. :/
+
+[v2]
+Să nu te temi de groaza din
+Noaptea cea grea,
+Nici de săgeata ce zboară ziua,
+De ciuma rea din întuneric, să nu te temi
+/: Căci Domnul-Ți va păzi cărarea de ea. :/

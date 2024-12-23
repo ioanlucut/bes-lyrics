@@ -1,0 +1,27 @@
+[title]
+Unde mergi Tu, merg {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1BpXPer7uQPdvM5jACK7rY}, contentHash: {8b9eaf}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+Unde mergi Tu, merg.
+Ce spui Tu, rostesc, Isus.
+Cum Te rogi, mă rog.
+Cum Te rogi, mă rog. (2x)
+
+[v1]
+Isus a-mplinit tot ce Tu I-ai spus,
+Isus a vorbit doar al Tău Cuvânt,
+La fiecare pas cu Tine a umblat
+Duhul Tău cel Sfânt L-a călăuzit.
+
+[v2]
+Cum să merg, Isuse, fără Tine?
+Când orice pas al Tău a fost supus?
+Iar, viața fără Tine sens nu are,
+Căci numai Tu ești vrednic
+Și de-a pururi bun!
+
+[e]
+Cum să merg, Isuse, fără Tine?

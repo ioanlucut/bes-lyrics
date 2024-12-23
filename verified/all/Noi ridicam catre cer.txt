@@ -1,0 +1,18 @@
+[title]
+Noi ridicăm către cer {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {iQzrRSACY4RTSkqrwEBgAR}, contentHash: {2bdfa3}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Noi ridicăm către cer
+Mâini curate spre singurul Miel.
+Numai El e-un Domn minunat
+Ce bun, ce mare e El!
+
+[c]
+/: Sfânt e Dumnezeu, Domn peste toate,
+Întreg pământul Îl laudă,
+Sfânt e Dumnezeu, Domn peste toate,
+Întreg pământul Îl laudă, :/
+/: Întreg pământul Îl laudă! :/

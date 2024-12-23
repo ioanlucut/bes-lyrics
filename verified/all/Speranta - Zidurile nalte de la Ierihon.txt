@@ -1,0 +1,29 @@
+[title]
+Zidurile ‘nalte de la Ierihon {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61438}, id: {63BVx1sB4RXkkUtGDbAwgV}, contentHash: {5ea35a}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Zidurile ‘nalte de la Ierihon,
+Ierihon, Ierihon,
+Zidurile ‘nalte de la Ierihon
+Nu se vor zidi din nou. :/
+
+[v1]
+În cetatea Ierihon trăia
+Un popor care nu se temea
+De Domnul și a trebuit
+Să fie nimicit.
+
+[v2]
+Israel nu s-a luptat,
+Într-un glas cu toții au strigat.
+În Dumnezeu ei s-au încrezut
+Și zidurile-au căzut.
+
+[v3]
+N-am dărâmat noi zidurile,
+Am strigat: „O, Doamne!”,
+În Domnul noi ne-am încrezut
+Și zidurile-au căzut.

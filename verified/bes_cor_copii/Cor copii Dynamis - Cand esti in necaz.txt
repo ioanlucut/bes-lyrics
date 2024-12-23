@@ -1,0 +1,20 @@
+[title]
+Când ești în necaz {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {88049}, id: {9veAaLF7hMfSUiDP5VC8Zi}, contentHash: {4e5452}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Când ești în necaz și îți este greu,
+Și ești apăsat în sufletul tău,
+/: Nu uita, nu uita, :/ nu uita!
+
+[c]
+/: Căci cei ce se încred în Domnul
+Vor avea putere din belșug
+Și vor zbura ca vulturii spre cer. :/
+
+[v2]
+/: Bucurie e-acum în viața ta,
+Pacea-ți inundă inima,
+/: Inima, inima, :/ inima!

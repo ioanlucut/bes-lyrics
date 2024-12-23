@@ -1,0 +1,29 @@
+[title]
+Vreau să am un suflet mai curat {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172355}, id: {jtP9bLLmUVWj9vNTYWhoJs}, contentHash: {c272f5}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Viața-i trecătoare, drumul unei frunze spre pământ,
+Păsări călătoare ne învață drumul spre Cel Sfânt.
+Ce lăsăm în urmă? Suntem noi exemple de urmat?
+Ceea ce rămâne poate fi un dar înmiresmat?
+
+[c]
+Vreau să am un suflet mai curat,
+Cugetul să îmi fie nepătat
+Și să iert pe acel ce mi-a greșit, să ajut pe cel lipsit,
+Să răspândesc în jurul meu mireasma lui Dumnezeu.
+
+[v2]
+Încercări, ispite mă-mpresoară, adesea, ca un vânt,
+Pe genunchi în taină chem cu lacrimi ajutorul sfânt,
+Vreau să spun ca Pavel: „Am luptat aici pentru Hristos,
+Voi primi cununa, dacă în luptă am fost victorios!”
+
+[b]
+Ce lăsăm în urma noastră,
+Până vom ajunge acasă?
+Împlinire vom avea,
+De vom semăna iubire.

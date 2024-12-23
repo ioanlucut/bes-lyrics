@@ -1,0 +1,45 @@
+[title]
+O, de-aș avea eu limbi o mie {alternative: {*}, composer: {Accappella}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5274}, id: {fTZhWkScPs81e8xSsk7aMa}, contentHash: {c963bd}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+O, de-aș avea eu limbi o mie
+Și mii de buze să cuvânt
+Pe tonuri mii, o armonie,
+Spre slava Celui pururi Sfânt!
+
+[v1.2]
+/: I-aș mulțumi de ce-a făcut,
+Cu mine, fiul cel pierdut. :/
+
+[v2.1]
+O, de-ar suna glasul meu tare,
+Să se audă pân’ la cer!
+Căci sângele-mi ca-ntr-o vâltoare,
+Se zbate, Doamne, când Te cer.
+
+[v2.2]
+/: De-ar fi toată suflarea mea,
+Un imn spre închinarea Ta! :/
+
+[v3.1]
+De ce tăceți, puteri a mele?
+Mai sus, mai sus, zburați mai sus!
+Aduceți veșnică cinstire
+Și mulțumire lui Isus.
+
+[v3.2]
+/: Și sufletul și trupul meu
+Servească-n veci pe Dumnezeu. :/
+
+[v4.1]
+Cânta-voi imnuri Ție, Doamne,
+Cât voi putea rosti cuvânt.
+Și jertfa bucuriei mele,
+Ți-aduc cât voi fi pe pământ.
+
+[v4.2]
+/: Când buzele-mi n-or mai putea,
+Suspinul meu Te-a lăuda. :/

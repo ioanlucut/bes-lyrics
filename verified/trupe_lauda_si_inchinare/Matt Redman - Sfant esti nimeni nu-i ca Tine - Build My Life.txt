@@ -1,0 +1,37 @@
+[title]
+Sfânt ești, nimeni nu-i ca Tine {alternative: {Build My Life}, composer: {Matt Redman}, writer: {Matt Redman}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {189324}, id: {vQ9VrucBegcLw3FdrDoWKQ}, contentHash: {137098}}
+
+[sequence]
+v1.1,v1.2,c,v2,c,b,c
+
+[v1.1]
+Vrednic de lauda ce o pot cânta,
+Vrednic ești Tu în veci de-nchinarea mea,
+Vrednic de tot ce sunt toată viața mea
+/: Ești Tu, Isus! :/
+
+[v1.2]
+Isus e Numele cel mai minunat,
+Isus e singurul care m-a salvat,
+Vrednic de tot ce sunt toată viața mea,
+/: Ești Tu, Isus! :/
+
+[c]
+Sfânt ești, nimeni nu-i ca Tine,
+Totu-Ți aparține.
+Luminează Tu, prin mine,
+Vreau să Te cunosc mai bine,
+Vreau a Ta iubire
+Pentru cei de lângă mine.
+
+[v2]
+Vrednic de lauda ce o pot cânta,
+Vrednic ești Tu în veci de-nchinarea mea,
+Vrednic de tot ce sunt toată viața mea,
+/: Ești Tu, Isus! :/
+
+[b]
+/: Voi zidi pe-a Ta iubire,
+E o temelie tare.
+Voi trăi doar prin credință,
+Neclintit în orice vreme. :/

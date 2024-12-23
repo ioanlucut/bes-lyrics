@@ -1,0 +1,35 @@
+[title]
+Mulțimea îndurărilor {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7342}, id: {vZU6SdH66huDsZ9kEBNg38}, contentHash: {1da101}}
+
+[sequence]
+v1,c,v2,c,v3,e
+
+[v1]
+Când eu privesc în urma mea,
+Văd, Doamne sfinte, pașii Tăi
+Cum m-au purtat pe munți înalți,
+Dar și-n prăpăstii și în văi.
+
+[c]
+Lucrarea Tu-Ți însuflețești,
+O, Doamne-n cursul anilor,
+Ajută-ne să nu uităm
+Mulțimea îndurărilor!
+
+[v2]
+Când prin cuptoare ne-ai trecut
+Ca pe cei trei, Tu ne-ai vegheat.
+Focul nu ne-a atins,
+Putere, Doamne, Tu ne-ai dat.
+
+[v3]
+Prin valea morții de am fost
+De niciun rău nu ne-am temut,
+Când umbrele-i ne-amenințau
+Lumina Sfânt-a apărut.
+
+[e]
+Lucrarea Tu-Ți însuflețești,
+O, Doamne-n cursul anilor,
+/: Ajută-ne să nu uităm
+Mulțimea îndurărilor! :/

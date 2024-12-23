@@ -1,0 +1,22 @@
+[title]
+Ești lumina prin care privesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4484}, id: {wbU3A5LtMDw76JvhNbPoWw}, contentHash: {3fda8a}}
+
+[sequence]
+c,v1,c,v2
+
+[c]
+/: Ești lumina prin care privesc,
+Ești limanul pe care-l doresc,
+Mângâiere și-alin în Tine găsesc. :/
+
+[v1]
+Ești apusul de soare-n amurg,
+Stelele-n noapte-nchinare Ți-aduc,
+Sufletul îmi trezești dimineața
+Când spui: „Te iubesc!”
+
+[v2]
+Pentru Tine înalț cântecul meu,
+Pașii mei vor conduce spre Tine mereu,
+Pentru Tine trăiesc zi de zi,
+Te iubesc, Domnul meu!

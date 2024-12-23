@@ -1,0 +1,59 @@
+[title]
+Grăbind venirea lui Hristos cu În curând noi vom pleca {alternative: {*}, composer: {Andrei Fedur}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {5qyfs6r3AjACM1CeN64nrg}, contentHash: {59c4a7}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,b,v3.1,v3.2,c2,e
+
+[v1.1]
+Ziua Domnului știm va veni,
+Va apare ca un hoț.
+Cer, pământ, toate se vor topi
+Și vor trece cu trosnet și foc.
+
+[v1.2]
+Și tot ce-a fost pe pământ vom lăsa,
+Uita-vom de greul de jos.
+Iar mirele drag se va arăta
+Să-și ia biserica-n slava Sa.
+
+[c]
+/: Deci fiindcă toate acestea vor pieri,
+Ce fel de oameni ar trebui să fim?
+Trăind ca sfinți în chip evlavios,
+Grăbind venirea lui Hristos. :/
+
+[v2.1]
+Vom pleca cu Isus în curând
+Spre locașul așteptat.
+Iar cu îngeri în stoluri zburând
+Vom cânta Celui ce ne-a salvat.
+
+[v2.2]
+Ce întâlnire măreață va fi,
+Cei dragi ne vor întâmpina.
+Necazuri, griji și-ncercări vor pieri,
+Doar fața lui Isus vom vedea.
+
+[b]
+/: Grăbind venirea lui Hristos :/
+
+[v3.1]
+În curând noi vom pleca
+O, ce fericită zi!
+Pe cei dragi vom revedea
+Când ne vom reîntâlni.
+
+[v3.2]
+La picioarele-I vom sta
+O, ce fericită zi!
+Toți un cântec vom cânta
+Când ne vom reîntâlni.
+
+[c2]
+/: Vine ziua fericită,
+Toți vom părăsi pământul,
+Aleluia-n cor cânta-vom
+Când ne vom reîntâlni. :/
+
+[e]
+Aleluia-n cor cânta-vom când ne-om întâlni.

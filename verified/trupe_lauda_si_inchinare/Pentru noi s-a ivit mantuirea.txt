@@ -1,0 +1,29 @@
+[title]
+Pentru noi s-a ivit mântuirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3630}, id: {rjaoNFf2uJUZCZnsNwsPu3}, contentHash: {616ce5}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pentru noi s-a ivit mântuirea,
+Pentru noi Cel-de-Sus a murit.
+/: Pentru noi s-a ivit izbăvirea,
+Pentru noi Cel-de-Sus S-a jertfit. :/
+
+[c]
+/: Lăsați Duhul Sfânt să lucreze,
+Să ne elibereze de blestem și păcat!
+Lăsați pe pământ fericirea, dragostea și iubirea
+Ce Isus a lăsat! :/
+
+[v2]
+Cu Isus vom zbura către stele,
+Cu Isus spre o lume de vis,
+/: Cu Isus trec ispitele grele,
+Cu Isus vom zbura-n Paradis. :/
+
+[v3]
+Te-așteptăm ca să vii Tu, Isuse,
+Așteptăm slava Ta pe pământ,
+/: Așteptăm profețiile scrise,
+Te-așteptăm, Domnul nostru Preasfânt. :/

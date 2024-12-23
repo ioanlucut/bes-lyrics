@@ -1,0 +1,40 @@
+[title]
+Noel {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {34GZb5JDtPUrTJemioWi4q}, contentHash: {4a1b11}}
+
+[sequence]
+v1,c,v2,c,b1.1,b1.2,c2,c
+
+[v1]
+Mult aș fi dorit să pot să Te privesc
+Când inima-nceput să-Ți bată pentru noi.
+Dacă aș fi văzut micul Betleem,
+În noaptea-n care raiul l-ai adus pe pământ,
+Aș fi cântat cu îngerii.
+
+[c]
+Noel, noel, Mesia a venit,
+Emanuel, Cuvântul s-a-mplinit.
+Deci spuneți lumii: El moartea a răpus,
+Mesia a venit, Mesia a venit!
+
+[v2]
+Cel ce-a suflat viața peste noi
+În chip umil ne-aduce-mpărăția Lui.
+O, cât de mare har e-n planul înțelept,
+Istoria se schimbă-n seara de Crăciun!
+Deci, să cântăm:
+
+[b1.1]
+Nu mai e păcat, iadul e învins
+Blestemul nu mai are putere asupra noastră
+Căci Fiul lui Dumnezeu, El, singuri nu ne-a lăsat!
+
+[b1.2]
+Trăind, murind și înviind speranța El ne-a dat.
+Toate cele vechi s-au dus, viață nouă am primit!
+Voioși și liberi înspre cer ne îndreptăm.
+
+[c2]
+Noel, noel, Mesia a venit,
+Emanuel, Cuvântul s-a-mplinit
+Deci, să vestim: El, moartea a răpus.

@@ -1,0 +1,11 @@
+[title]
+Eu Te iubesc și glasul mi-l înalț {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4926}, id: {8NyHsj74nxGWA4ZMsFAsJr}, contentHash: {7e3d06}}
+
+[sequence]
+v1
+
+[v1]
+Eu Te iubesc și glasul mi-l înalț,
+Să Te slăvesc, Domnul meu Isus!
+Primește acum lauda ce-o cânt
+Către Tine, Doamne bun, Doamne sfânt!

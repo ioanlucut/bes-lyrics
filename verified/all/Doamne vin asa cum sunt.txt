@@ -1,0 +1,17 @@
+[title]
+Doamne, vin așa cum sunt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6493}, id: {55K6tbqXKsVsULXLfTnTr8}, contentHash: {5a6b61}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Doamne, vin așa cum sunt,
+Din inimă vreau să Îți cânt,
+Cu tot ce am Te preamăresc
+Și sufletul ți-L dăruiesc.
+
+[c]
+Vorbește-mi, Tu, prin Duhul Tău,
+Vindecă prin cuvântul Tău,
+Du-mă-n templul Tău cel sfânt,
+Domnul meu!

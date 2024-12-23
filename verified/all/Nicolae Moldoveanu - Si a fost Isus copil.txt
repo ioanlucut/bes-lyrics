@@ -1,0 +1,60 @@
+[title]
+Și a fost Isus copil {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4553}, id: {9GF928STwj6GCUSwHDRhGY}, contentHash: {7ff370}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2,v5.1,v5.2
+
+[v1.1]
+Și a fost Isus copil
+Fără leagăn, fără slavă
+Și-n ființa Lui firavă
+Au pătruns fiori de ger.
+
+[v1.2]
+Și a fost Isus copil
+/: Ca să aibă toți copiii,
+Să aibă toți copiii Tată-n cer. :/
+
+[v2.1]
+Și a fost Isus sărac,
+Se uitau cu milă bacii
+Cum I-ardeau pe față macii,
+Cel mai trist dintre copii.
+
+[v2.2]
+Și a fost Isus sărac,
+/: Ca să aibă toți săracii,
+Să aibă toți săracii bogății. :/
+
+[v3.1]
+Și a fost Isus flămând
+Și plângea din albul pânzei
+Cum plâng mieii-n zori plăpânzii,
+Cu-ai lor ochi înlăcrimați.
+
+[v3.2]
+Și a fost Isus flămând,
+/: Ca să fie toți flămânzii,
+Să fie toți flămânzii săturați. :/
+
+[v4.1]
+Și a fost Isus un Miel
+Ce-L pândeau pe-afară leii
+Și pe culmile Iudeii
+Și-n pustiul arzător.
+
+[v4.2]
+Și a fost Isus un Miel,
+/: Ca să aibă-n El toți mieii
+Să aibă-n El toți mieii un Păstor. :/
+
+[v5.1]
+Și a fost un rob Isus
+Sus slujind Împărăția,
+Jos la Iosif și Maria;
+Lumii-ntregi S-a dat răpus.
+
+[v5.2]
+Și a fost un rob Isus
+/: Ca să-avem și noi robia,
+Robia și-nfierea lui Isus. :/

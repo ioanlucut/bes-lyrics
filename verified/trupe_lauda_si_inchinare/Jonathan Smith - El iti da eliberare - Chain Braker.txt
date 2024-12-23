@@ -1,0 +1,28 @@
+[title]
+El îți dă eliberare! {alternative: {Chain Braker}, composer: {Jonathan Smith}, writer: {Jonathan Smith}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172576}, id: {mSRDYhZ7k8V87tw1bddMQi}, contentHash: {94fea9}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Când vezi că drumul tău nu duce nicăieri,
+Când șoapte vechi îți spun că nu mai poți să speri,
+Dacă simți un gol în suflet și ți-e greu
+Nu descuraja, nu descuraja!
+
+[c]
+/: Durerea ta poate s-o aline,
+Când rătăcești El e lângă tine!
+Vrei libertate, salvare, El îți dă eliberare,
+Lanțul greu, mâna Lui zdrobește! :/
+
+[v2]
+În noaptea grea din jur, lumina-o căutam
+Și de aceleași lupte vechi răpus cădeam.
+Am alergat la porți închise-adeseori,
+Fiindcă nu știam, da, eu nu știam!
+
+[b]
+/: Când ai credință primești iertare,
+Isus e Calea! Să spunem tuturor! :/
+/: El e Domn! :/

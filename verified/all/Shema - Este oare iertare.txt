@@ -1,0 +1,36 @@
+[title]
+Este oare iertare {alternative: {*}, composer: {Shema}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4342}, id: {9JaULhuohbvQhVpAjmrKrX}, contentHash: {b69790}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Este oare iertare
+Pentru tot ce-am făcut?
+Doamne, pot eu oare
+Să vin așa cum sunt?
+/: ‘Naintea Ta,
+În fața Ta? :/
+
+[c]
+/: Știu, Domnul meu, sunt un om așa rău
+Și Te-am întristat mereu.
+Știu, Domnul meu,
+Te-am răstignit chiar eu
+Când am spus nu este Dumnezeu.
+/: Oare mă poți ierta? (x2) :/
+
+[v2]
+Cred că este iertare
+Pentru tot ce-am făcut.
+Cred c-acum e momentul
+S-o iau de la-nceput.
+/: ‘Naintea Ta,
+În fața Ta? :/
+
+[c2]
+/: Știu, Domnul meu, vei veni în curând
+Și pe norii cerului vei sta.
+Știu, Domnul meu, vei veni în curând
+Nu voi mai pleca din casa Ta. :/
+/: Eu voi sta la dreapta Ta. (x2):/

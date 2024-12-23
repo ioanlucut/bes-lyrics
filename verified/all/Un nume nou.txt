@@ -1,0 +1,41 @@
+[title]
+Un nume nou {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {brEUpFkLJYvdR4xUqTPuyu}, contentHash: {f038b1}}
+
+[sequence]
+v1.1,v1.2,p,c,v2.1,v2.2,p,c
+
+[v1.1]
+Rătăcit eram și
+În păcat trăiam,
+Dar Domnul m-a chemat.
+Nu mai sunt același!
+
+[v1.2]
+Bezna m-a cuprins,
+Dar Isus a învins,
+Robia a zdrobit.
+Nu mai sunt același!
+
+[p]
+Azi sunt o făptură nouă-n Hristos.
+Cele vechi s-au dus,
+Totu-i nou și
+Prin credință trăiesc.
+
+[c]
+Un nume nou s-a scris în veșnicie
+Și e-al meu, da, e-al meu.
+A scris povestea vieții mele
+Domnul meu, Dumnezeu.
+
+[v2.1]
+Păcatul m-a orbit,
+Dar ochii El mi-a deschis
+Să văd lumina Sa.
+Nu mai sunt același!
+
+[v2.2]
+Astăzi liber sunt,
+Victoria e-n Isus,
+El e cetatea mea.
+Nu mai sunt același!

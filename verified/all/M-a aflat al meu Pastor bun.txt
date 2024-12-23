@@ -1,0 +1,29 @@
+[title]
+M-a aflat al meu Păstor bun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {63204}, id: {wt1oqkEUhCRJp3gqmmRV1R}, contentHash: {47d455}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+M-a aflat al meu Păstor bun
+Și pe brațele-I m-a pus,
+Din adânc, unde zăceam eu,
+La lumină m-a adus.
+
+[c]
+/: Aleluia, aleluia,
+Sună azi cântarea mea.
+Fie Domnului mărire
+Că mi-a dat iertarea-n dar. :/
+
+[v2]
+Doamne, Tu mi-ai dat iubire
+Și m-ai pus pe calea Ta.
+Simt cum mâna Ta mă poartă
+Fericit spre țara mea.
+
+[v3]
+M-a spălat în al Său sânge
+O, cât sunt de fericit!
+Harul Său mă va susține
+Credincios pân’ la sfârșit.

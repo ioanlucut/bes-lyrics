@@ -1,0 +1,41 @@
+[title]
+Jertfă de miros plăcut {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {81912}, id: {ickijpKhEgMiMbzFvQdSu5}, contentHash: {095277}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,e
+
+[v1]
+Jertfă de miros plăcut vreau, Doamne,
+Să fie ruga mea ‘naintea Ta.
+Vreau spre mine să-Ți întorci privirea,
+Doresc, o, mare Preot, mila Ta.
+
+[c]
+Doar Tu ești Dumnezeu
+Și veșnic Te voi lăuda,
+Doar Tu ești Domnul meu
+Și gloria Ta o voi cânta.
+
+[v2]
+Iubirea Ta mă ține azi aproape,
+În inimă eu strâng Cuvântul Tău,
+Păzește-mi sufletul de fărdelege
+Ca voia mea să fie voia Ta.
+
+[v3]
+Puterea Ta este desăvârșită,
+Ești mai presus de orice muritor.
+De aceea gândul mi-e îndreptat spre Tine
+În orice zi, de-i soare sau sunt nori.
+
+[v4]
+Credincioșia Ta mă însoțește,
+Pe calea-ngustă sarcina nu-i grea
+Căci Tu iubești o inimă smerită,
+Vin să-mi las acum mândria mea.
+
+[e]
+Și în zori mă-ndrept spre Tine,
+Calea Ta mă-nvață s-o urmez
+Și pas cu pas, condu-mă,
+Să-ajung în slavă e tot ce-mi doresc.

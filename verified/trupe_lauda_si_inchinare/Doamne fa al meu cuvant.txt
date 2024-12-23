@@ -1,0 +1,39 @@
+[title]
+Doamne, fă al meu cuvânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5257}, id: {vJNpDgD2D5rkG371ZH6vri}, contentHash: {8cee63}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5
+
+[v1]
+/: Doamne, fă al meu cuvânt
+Și al minții mele gând
+Ție, Doamne, să le-nchin,
+Domnul meu. :/
+
+[c]
+Stânca mea Tu ești,
+Salvator pe veci!
+
+[v2]
+/: Doamne, fă viața mea
+Sfântă înaintea Ta,
+Ție-ntreagă să Ți-o-nchin,
+Domnul meu. :/
+
+[v3]
+/: Doamne, rugăciunea mea
+Fă-o cum a fost a Ta,
+Totul Ție să Îți spun,
+Domnul meu. :/
+
+[v4]
+/: Doamne, fă lumina mea
+Să lucească ca o stea,
+Far în noapte Tu mă fă,
+Domnul meu. :/
+
+[v5]
+/: Doamne, fă iubirea mea
+Ca să fie ca a Ta,
+Toți să fie prinși în ea,
+Domnul meu. :/

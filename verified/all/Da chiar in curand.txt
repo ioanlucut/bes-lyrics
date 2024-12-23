@@ -1,0 +1,25 @@
+[title]
+Da, chiar în curând {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eNVb4ocLrcjop3Tu6xmqUb}, contentHash: {bc3ceb}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Da, chiar în curând, vom vedea toți pe Mirele, (x3)
+Aleluia, aleluia, pe Mire Îl vom vedea!
+
+[v2]
+Noapte nu va fi când vom vedea toți pe Mirele, (x3)
+Aleluia, aleluia, pe Mire Îl vom vedea!
+
+[v3]
+Moarte nu va fi când vom vedea toți pe Mirele, (x3)
+Aleluia, aleluia, pe Mire Îl vom vedea!
+
+[v4]
+Lacrimi nu vor fi când vom vedea toți pe Mirele, (x3)
+Aleluia, aleluia, pe Mire Îl vom vedea!
+
+[v5]
+Ne vom bucura când vom vedea toți pe Mirele, (x3)
+Aleluia, aleluia, pe Mire Îl vom vedea!

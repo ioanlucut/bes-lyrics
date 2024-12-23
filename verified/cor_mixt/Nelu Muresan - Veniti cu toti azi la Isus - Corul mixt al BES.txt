@@ -1,0 +1,41 @@
+[title]
+Veniți cu toți azi la Isus {alternative: {*}, composer: {Nelu Mureșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {b7cbe9UBxKenA9XwRkca7w}, contentHash: {401a10}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Veniți cu toți azi la Isus,
+Voi cei înfrânți în nădejde!
+Nădejdea lumii azi s-a-mplinit,
+Sprijin al celui ce crede.
+
+[v2]
+Din îndoieli și frământări
+‘Nălțați privirea spre-ntinsele zări!
+Noaptea s-a dus și pe cer sus,
+Iată, apare lumina!
+
+[v3]
+Veniți cu toți azi la Isus,
+Voi cei căzuți sub osândă!
+În bezna grea, o mână ar vrea
+Domnul Isus să vă-ntindă.
+
+[v4]
+Doar pentru voi, cei în nevoi,
+Ceru-și trimise buchetul de flori,
+Din înălțimi prin serafimi
+Sună de veacuri chemarea!
+
+[v5]
+Veniți cu toți azi la Isus,
+Voi cei curați prin iubire,
+Veniți și-aduceți sufletul
+Plin de cânt și de mulțumire!
+
+[v6]
+Podoabe noi prin har aveți,
+Viața v-o umple minuni, biruinți,
+Sunteți azi fii de Dumnezeu,
+Născuți în sfântul Lui sânge.

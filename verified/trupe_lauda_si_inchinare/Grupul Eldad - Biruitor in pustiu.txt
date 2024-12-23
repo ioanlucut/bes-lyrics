@@ -1,0 +1,63 @@
+[title]
+Biruitor in pustiu {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {187782}, id: {hECwjFxyxAYKARJgxDaDJ7}, contentHash: {2b8d87}}
+
+[sequence]
+v1,v2,v3,v4,v5,c,v6,c,v7,c,e
+
+[v1]
+Sunt în pustiu, cel rău se-arată,
+Mă simt flămând de glasul Domnului.
+Mă copleșește așteptarea,
+Dar nu renunț, strig către El!
+
+[v2]
+Mi-am ridicat fruntea crestată,
+Satan Mi-a spus că e stăpân
+Pe lumea asta și că toate
+Mie Mi-ar da de îl ascult.
+
+[v3]
+În glasul lui e viclenie,
+De-atâtea ori M-a tulburat
+Din pietre pâine-mi cere Mie
+Știa că-S flămând, dar în zadar!
+
+[v4]
+Am fost urcat și sus pe stâncă
+Știa că Eu nu pot muri,
+Că-n jurul Meu îngeri sunt cete
+Dar nu s-a gândit că îl voi birui!
+
+[v5]
+N-am fost înfrânt de-acea privire,
+Nici nu mi-a luat mult să gândesc,
+I-am spus lui: „Pleacă de la Mine!
+În Numele Tatălui te biruiesc!”
+
+[c]
+Isus e Domn și-n curând vine,
+El încă e-n pustiu cu noi.
+Știm însă că avem puterea
+Prin sângele Mielului.
+Isus e Domn și-n curând vine,
+El încă e-n pustiu cu noi.
+Știm însă că avem puterea
+În sângele Mielului.
+
+[v6]
+Astăzi și tu ești în pustiu,
+Ai flămânzit și simți că pleci.
+Domnul putere-ți dă și ție
+Și celui rău poți să îi poruncești!
+
+[v7]
+Adună-ți lacrimile-n palme,
+Strânge-ți puterea-n rugăciuni!
+Caută să vezi cine ți-e Tată
+Și vei avea atunci belșug!
+
+[e]
+Numai Tu, Isus, ești iubirea mea.
+Nimeni n-ar putea să mă ia din mâna Ta!
+Numai Tu-ai putere rana s-o legi,
+Să ridici din morminte, taine să vorbești!

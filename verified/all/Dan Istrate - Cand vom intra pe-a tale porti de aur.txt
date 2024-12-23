@@ -1,0 +1,41 @@
+[title]
+Când vom intra pe-a tale porți de aur {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {198102}, id: {4wSoqpT5zUEnFUU6MBHuka}, contentHash: {663fa8}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Când vom intra pe-a tale porți de aur,
+Ierusalime, loc iubit și sfânt,
+/: Tot cerul fi-va plin de osanale,
+Spre slava Celui pururi drag și sfânt. :/
+
+[v2]
+Uimiți de-atâta sfântă măreție,
+Scăpați de totul ce ne-a frământat,
+/: În veci de veci, cânta-vom numai Ție
+Și sângelui ce ne-a răscumpărat. :/
+
+[v3]
+Cu ochii-n lacrimi de bucurie sfântă,
+Scăldați în raza Soarelui dorit,
+/: Nesăturați de fața Lui cea blândă,
+Îi vom cânta pe veci, că ne-a iubit! :/
+
+[v4]
+Pe străzi de aur ca sticla străvezie,
+Cu toți cei dragi și scumpi ce i-am iubit,
+/: Cânta-vom veșnic slavă, numai Ție,
+De dragostea cu care ne-ai uimit. :/
+
+[v5]
+Ierusalime, vei auzi cântarea,
+Ce îngerii nicicând nu ți-au cântat
+/: Atunci, în ziua când va fi salvarea
+Poporului pe veci răscumpărat :/
+
+[v6]
+Când întristarea din inimi va fi ștearsă
+Și fericirea veșnică va fi,
+/: Dorita noastră, scumpa noastră casă,
+Ierusalime, când te vom zări. :/

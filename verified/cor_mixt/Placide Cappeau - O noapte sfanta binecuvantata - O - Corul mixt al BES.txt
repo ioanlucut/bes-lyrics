@@ -1,0 +1,44 @@
+[title]
+O, noapte sfântă, binecuvântată {alternative: {O}, composer: {Placide Cappeau}, writer: {Adolphe Adam; Valentin Popovici}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {nPQ9yPhQmPCSM1cysbBHMp}, contentHash: {e1d99e}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,e
+
+[v1.1]
+O, noapte sfântă, binecuvântată,
+Isus în iesle umil S-a născut,
+În lumea de păcate frământată
+Mântuitorul azi a coborât!
+
+[v1.2]
+Speranța-n sufletul trudit răsare,
+A zorilor lumini ne strălucesc,
+Îngenunchiați, e ceru-n sărbătoare,
+/: Mulțimi de îngeri azi Îl preamăresc! :/
+
+[v2.1]
+Conduși de stea spre ieslea Lui săracă
+Și noi ca magii adânc ne smerim,
+Vrem darul nostru Pruncului să placă,
+Întreaga viață Lui o dăruim!
+
+[v2.2]
+El, Rege-al regilor stă într-o iesle,
+Simțind din plin necazul nostru greu,
+Glorie Lui, El printre noi trăiește
+/: Și chiar în iesle El e Dumnezeu! :/
+
+[v3.1]
+Ne-a arătat iubirea jertfitoare,
+Cu pace El a venit pe pământ.
+Nu vor fi robi, nici lanțurile-amare,
+Nici asuprire-n al Său Nume sfânt.
+
+[v3.2]
+Cântări de mulțumire să-I aducem,
+Slăvitu-I Nume veșnic să cinstim!
+El este Domn, Hristos în veci e Rege,
+/: Iubirea, slava Lui o preamărim! :/
+
+[e]
+Iubirea, slava Lui o preamărim!

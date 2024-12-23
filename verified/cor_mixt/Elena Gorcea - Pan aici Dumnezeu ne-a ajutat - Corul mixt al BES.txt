@@ -1,0 +1,39 @@
+[title]
+Pân’ aici Dumnezeu ne-a ajutat {alternative: {*}, composer: {Elena Gorcea}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {11Eqz3oqNeTVzmYGxiofTP}, contentHash: {7e89a6}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,e
+
+[v1]
+Pân’ aici Dumnezeu ne-a ajutat,
+Ne-a cinstit cu-atâta bine și ne-a apărat.
+Și-a întins cu îndurare mâna sfântă peste noi,
+Și ne-a-nconjurat pe dinainte și pe dinapoi.
+
+[c1.1]
+Ai simțit și tu în viața ta iubirea Lui?
+Poți și tu să cânți osana Domnului?
+Poți să spui cu mine astăzi:
+„Cu adevărat, pân’ aici Dumnezeu ne-a ajutat”?
+
+[c1.2]
+Pân’ aici Dumnezeu ne-a ajutat,
+Fie-I Numele slăvit, fie-I Numele-onorat,
+/: Dacă ți-a făcut mult bine,
+‘Nalță-ți glasul tău spre cer,
+Și să strigi din toată inima „Eben-Ezer!” :/
+
+[v2]
+Pân-aici Dumnezeu ne-a ajutat,
+Și-a ținut promisiunea cu adevărat,
+El rămâne credincios, Cuvântul Lui se va-mplini,
+Ce-a spus El în veci rămâne, lumea-ntreagă de-ar pieri.
+
+[v3]
+Pân’ aici Dumnezeu ne-a ajutat,
+De te-ncrezi în El puternic vei fi apărat
+Și te vei adăposti la umbra aripilor Lui
+Căci în veac ține credincioșia, mila Domnului.
+
+[e]
+Eben-Ezer, Eben-Ezer!

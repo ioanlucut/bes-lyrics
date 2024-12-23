@@ -1,0 +1,26 @@
+[title]
+Sună harfa laudei mele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {9153GB5JcJKeLGmoxpGnHH}, contentHash: {df53c8}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Sună harfa laudei mele numai pentru Dumnezeu,
+La nevoi și la durere „aleluia” Îi cânt eu.
+/: Toată viața cât trăiesc pe Isus Îl preamăresc. :/
+
+[v2]
+A creat tot universul;
+Domnul, prin al Său cuvânt, pe bolnavi îi vindecase
+Cât trăise pe pământ.
+/: Și pe mine m-a creat, mântuire-apoi mi-a dat. :/
+
+[v3]
+Fericit e cine are pe Isus în ajutor,
+Cine Lui I se supune și Îi e ascultător.
+/: Fie bine, fie rău, Domnul este scutul meu. :/
+
+[v4]
+Aleluia, aleluia să răsune ne-ncetat
+Până Domnul vine-n slavă, astfel cum a cuvântat.
+/: Să Îi cânte inima până când Îl va vedea! :/

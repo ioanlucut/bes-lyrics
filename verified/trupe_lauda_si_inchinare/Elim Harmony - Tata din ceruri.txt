@@ -1,0 +1,22 @@
+[title]
+Tată din ceruri {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {218892}, id: {3AggKppCRz4fUsRm8U5qYT}, contentHash: {db8f48}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tată din ceruri, al meu Părinte,
+Viața întreagă Ți-o închin!
+Cu adorare aduc mulțumire!
+A mea salvare, Isus.
+
+[c]
+Rege sfânt, Te slăvim
+Neîncetat, Îți mulțumim!
+Fii lăudat, Isus!
+
+[v2]
+Domnul salvării, Rege puternic,
+Iehova, veșnic e Numele Tău.
+Alerg la Tine cu mulțumire!
+A mea salvare, Isus!

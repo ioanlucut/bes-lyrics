@@ -1,0 +1,53 @@
+[title]
+Eu multe lucruri nu-nțeleg, o, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {17pNc9HNkqbHg4wnVK2fAH}, contentHash: {1eb4d1}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Eu multe lucruri nu-nțeleg, o, Doamne,
+În mersul meu pribeag pe-acest pământ,
+/: Dar Tu ai spus: Aveți credință-n Mine,
+Căci Eu am fost și voi fi Cel ce sunt! :/
+
+[c]
+/: Atâtea piedici astăzi se ridică
+Să-ngreuneze mersul meu spre cer
+Și deseori corabia-n derivă
+Îmi înspăimântă duhul meu stingher. :/
+
+[v2]
+O, Tu, Acel ce dăinui, Aurora,
+Tu, Ziditorule din temelii,
+/: Vino și ascultă-mi astăzi rugăciunea
+Și omul din lăuntru să-l învii! :/
+
+[c2]
+/: Dă-mi iar tăria ca să trec cu bine
+Dureri, ispite, lupte, stăruinți!
+Fă să tresalte sufletul în mine
+Și rugile să-mi fie mai fierbinți! :/
+
+[v3]
+Căci am uitat, urcând cu greu cărarea,
+Că Tu ești totul, Tu le programezi
+/: Și când de bunăvoie nu vrea robul
+Prin suferință Tu îl modelezi. :/
+
+[c3]
+/: Și-ngădui peste el și vorbe grele
+Și pietre, chiar desprinse dintre stânci,
+Și boale și suspine și necazuri,
+Căci viața trece și prin văi adânci. :/
+
+[v4]
+O, iartă-mi necredința și orgoliul,
+Nesăbuința de-alege eu!
+/: Ajută-mă ca-n orice-mprejurare
+Să las ca să alegă Dumnezeu! :/
+
+[c4]
+/: Dă-mi iar tăria ca să trec cu bine
+Dureri, ispite, lupte, stăruinți!
+Fă să tresalte sufletul în mine
+Și rugile să-mi fie mai fierbinți! :/

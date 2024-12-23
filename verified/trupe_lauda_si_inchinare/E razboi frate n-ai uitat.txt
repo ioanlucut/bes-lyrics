@@ -1,0 +1,35 @@
+[title]
+E război, frate, n-ai uitat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4344}, id: {eAK8NGwXe7B62GYXsMQBHo}, contentHash: {781d2e}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E război, frate, n-ai uitat
+Să ieșim afară din păcat.
+Chiar de lumea nu ne înțelege,
+Noi fideli pe cale-aici vom merge.
+
+[c]
+/: Noi triumfăm în luptă-acum
+Conduși de Duhul Domnului.
+Dușmanul strigă, dar să n-ai frică,
+Spre cer privirea ți-o ridică! :/
+
+[v2]
+Cuvântul, ca sabie ni-i dat,
+Slava lumii noi am lepădat.
+Drumul L-a deschis Isus prin luptă,
+Iar acum, puternic ne ajută.
+
+[v3]
+Să faci binele nu obosi,
+Veșnică răsplată vei primi,
+Luptă contra nebuniei lumii,
+Caută comoara-nțelepciunii.
+
+[v4]
+Te-ntărește și nu te-ntrista,
+Când suferința se-abate-asupra ta.
+Alergarea în curând sfârșește,
+Mirele vine, nu zăbovește.

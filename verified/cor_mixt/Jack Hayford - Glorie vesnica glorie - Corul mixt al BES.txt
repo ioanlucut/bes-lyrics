@@ -1,0 +1,17 @@
+[title]
+Glorie, veșnică glorie {alternative: {*}, composer: {Jack Hayford}, writer: {Teodor Cacioara}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {95aEF9k3kLU8zcSgJRz9JG}, contentHash: {3ac599}}
+
+[sequence]
+v1,c
+
+[v1]
+Glorie, veșnică glorie Îți aducem,
+Isuse, în veci de veci,
+Preamărim împărăția Ta, slavă-Ți cântăm
+Și înălțăm gloria Ta!
+
+[c]
+/: Înălțăm Numele Tău în veci, Isuse,
+Ne-nchinăm, Te onorăm, ești Rege etern!
+Glorie, veșnică glorie, slavă-Ți cântăm
+Și înălțăm gloria Ta! :/

@@ -1,0 +1,29 @@
+[title]
+Din adâncul iernii grele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {17kQFC4eLwJ7tRMyMffrtJ}, contentHash: {6d66e5}}
+
+[sequence]
+v1.1,v1.2,c,v2,c
+
+[v1.1]
+Din adâncul iernii grele, primăvara o aud
+Deși timpul pare atât de lung.
+Știu că soarele lucește, deși nu văd decât nori,
+Și mă-ntreb: oare cât va mai fi?
+
+[v1.2]
+Oceanul oglindește licărirea zorilor
+Și eu văd că ziua va veni.
+Simt că soarele-ncălzește în pofida vremilor,
+Clipa-aceea când va veni?
+
+[c]
+Ochii îmi ridic și mă uit către cer,
+El va veni, Isus, Salvatorul!
+Nu mai este mult, căci semnele sunt tot mai clare,
+El va veni!
+
+[v2]
+Când privesc întreg pământul, pot să spun nu mai e mult
+Fiindcă timpul s-a apropiat.
+Peste tot în jur e foame, auzi doar despre război,
+Și spui: Doamne, oare când vi la noi?

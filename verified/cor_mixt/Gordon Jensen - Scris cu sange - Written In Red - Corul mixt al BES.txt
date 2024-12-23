@@ -1,0 +1,25 @@
+[title]
+Scris cu sânge {alternative: {Written In Red}, composer: {Gordon Jensen}, writer: {*}, arranger: {Camp Kirkland}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter Songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {nGj3UZiADafKFHYVRJghcC}, contentHash: {2e23dd}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu lacrimi de sânge, El, Dumnezeu,
+Și-a scris dragostea la Calvar,
+Ca noi să trăim, El muri și jertfa Sa ne-a spus:
+
+[c]
+„Eu te iubesc, Eu te iubesc!
+Vezi, calvarul ți-a spus: Eu te iubesc,
+Eu te iubesc, cu sânge scris!”
+
+[v2]
+Și peste veacuri mâinile Lui
+Ne vorbesc cât de mult ne-a iubit,
+El a dat tot ce-a avut, mesaju-i ușor de citit:
+
+[v3]
+O, fluviu minunat ce spală de păcat
+și cu Tatăl m-a-mpăcat
+Doar Isus prin sfântu-I sânge.

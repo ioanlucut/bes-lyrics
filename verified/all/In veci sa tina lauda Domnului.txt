@@ -1,0 +1,17 @@
+[title]
+În veci să țină lauda Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qUDzeV8EVQTwJB6iiNnmtk}, contentHash: {6529c3}}
+
+[sequence]
+v1,v2
+
+[v1]
+În veci să țină lauda Domnului,
+Să se bucure El de lucrările Lui.
+/: Voi cânta Domnului cât voi trăi,
+Voi lăuda pe Dumnezeu atât timp cât voi fi! :/
+
+[v2]
+Făliți-vă cu Numele Lui cel sfânt,
+Bucurați-vă inimi, pe Domnul lăudând.
+/: Alergați la Domnul, la sprijinul Lui,
+Căutați, căutați necurmat fața Lui. :/

@@ -1,0 +1,32 @@
+[title]
+Dumnezeu este veșnic viu {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190825}, id: {tGxeGmRxNDL15etAfQKPp3}, contentHash: {2ba729}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Timpul meu se scurge,
+Va rămâne doar în amintiri.
+În curând știința lumii se va prăbuși.
+Tot ce-ai strâns e doar deșertăciune
+Pe acest pământ,
+Veșnic viu e doar Acela ce-I sfânt!
+
+[c]
+Dumnezeu este veșnic viu,
+El veghează din ceruri omul!
+El e Rege, și bine știu,
+E și Regele meu!
+
+[v2]
+Faptele ce le-am făcut
+Vor răsuna ca un ecou,
+Sufletul va fi-nălțat atunci în cerul nou.
+Vom uita dureri și lacrimi
+Ce-am vărsat pe-acest pământ,
+Ne vom bucura, cu-Acela ce-I Sfânt!
+
+[e]
+Vino, Doamne, mai curând să ne răpești la cer,
+Noi Te-așteptăm cu dragoste!
+Hainele ni le-a spălat în sânge, Sfântul Miel!

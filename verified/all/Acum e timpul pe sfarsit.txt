@@ -1,0 +1,43 @@
+[title]
+Acum e timpul pe sfârșit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1377}, id: {tJrKHbg25cCtAD1dgsJngj}, contentHash: {8afd9c}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Acum e timpul pe sfârșit
+Nu sta, suflet nepregătit,
+Că trec așa de multe zilele șirag!
+Dar totuși noi Îți mulțumim,
+Deși suntem printre străini
+Și Te rugăm, Isus iubit, la noi să vii!
+
+[c]
+Și iubirea Ta nemărginită să ne-o dai,
+Și credința, pacea, care tinde înspre rai!
+Fă să ne iubim în viața noastră pe pământ,
+Isuse drag, pân’ la mormânt!
+
+[v2]
+Acum vrem viața să Ți-o dăm
+Și din iubire să gustăm,
+Căci viața-i a iubitului Mântuitor.
+Căci va veni o clipă când
+Vom sta în fața Lui cântând
+Și vom primi răsplata toți din mâna Lui.
+
+[v3]
+Și-n timpu-acesta, ne-ncetat,
+Hai să rodim, rod mai bogat,
+Ca și sămânța în pământu-al patrulea.
+Să nu dăm niciun pas ‘napoi,
+Să nu fie ură-ntre noi
+Și la necaz să zicem: „Doamne, fii cu noi!”
+
+[v4]
+O, Grădinar ceresc și sfânt,
+Mai lasă pomul pe pământ
+Căci poate anu-acesta o s-aducă rod.
+Îl voi săpa și-l voi uda
+Și-un an întreg m-oi ocupa,
+Iar dacă nu, în celălalt îl voi tăia.

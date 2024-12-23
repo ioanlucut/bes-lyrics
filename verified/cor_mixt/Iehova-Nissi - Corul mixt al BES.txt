@@ -1,0 +1,36 @@
+[title]
+Iehova-Nissi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {iK487X6y9wCigqaMEERKYZ}, contentHash: {e0de2e}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+„Deșteptare!”, strigă glasul Domnului,
+Ridicați-vă străjeri și sunați din trâmbiți!
+Laudă Domnului, Dumnezeu ne dă puteri.
+
+[c]
+Iehova-Nissi, aleluia și Dumnezeu este cu noi,
+Să strige iadul și să geamă, Satan curând va fi legat,
+Căci Dumnezeu din cer domnește,
+Domnia Lui va ține-n veci,
+În veci, cu slavă, în veci, cu slavă,
+Iehova-Nissi, slavă Lui!
+
+[v2]
+„Deșteptare!”, strigă glasul Domnului,
+Și în luptă să porniți,
+Oastea celui rău prin Isus s-o zdrobiți!
+Dumnezeu dă biruinți.
+
+[v3]
+„Deșteptarea!”, strigă glasul Domnului,
+Verifică-te popor,
+Mâini curate ridică-ți spre Dumnezeu,
+Căci El vine-n ajutor!
+
+[v4]
+„Deșteptare”, strigă glasul Domnului,
+Evanghelia vestiți!
+Rugăciunea-i arma credinciosului,
+Ce dă-n lupte biruinți.

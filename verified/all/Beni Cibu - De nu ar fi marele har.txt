@@ -1,0 +1,29 @@
+[title]
+De nu ar fi marele har {alternative: {*}, composer: {Beni Cibu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {179533}, id: {pmw2ByBCPUgMYWzAqNJqUv}, contentHash: {6cdef8}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+De nu ar fi marele har
+Ca să mă țină în umblare,
+Aș fi un mal mutat de val,
+Aș fi o stea rătăcitoare.
+
+[c]
+/: Dar harul minunat mă ține să nu cad
+Și știu că nu mă uiți în vale.
+Vâslesc neîncetat, dar nu pot niciodat’
+De nu ar fi al Tău har mare. :/
+
+[v2]
+De nu ar fi nădejdea sfântă
+Și Duhul Sfânt în viață-mi jar,
+De nu ar fi vocea Ta blândă,
+Aș fi, aș fi doar un hoinar.
+
+[v3]
+De n-ar fi fost jertfa iubirii,
+Adusă ca prinos pe-altar,
+Eram un fiu al rătăcirii,
+Pierdut eram, dar mi-ai dat har.

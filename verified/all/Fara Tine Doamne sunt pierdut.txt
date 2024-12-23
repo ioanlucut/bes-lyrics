@@ -1,0 +1,28 @@
+[title]
+Fără Tine, Doamne, sunt pierdut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2sLagnbK8yD4bANo5aSa49}, contentHash: {fcbd1a}}
+
+[sequence]
+v1.1,v1.2,c,v1.1,v1.2,c,b,c
+
+[v1.1]
+Fără Tine, Doamne, sunt pierdut,
+Fără Tine-aș fi murit demult.
+Sunt al Tău, doar Ție-Ți aparțin,
+Mântuit prin harul Tău divin.
+
+[v1.2]
+Jertfa Ta îmi este îndeajuns
+Să pot sta în fața Ta, Isus.
+Harul îmi conduce inima
+Astăzi, Tată, în prezența Ta.
+
+[c]
+/: Tu ești Rege peste inima mea,
+Tu ești Rege peste sufletul meu,
+Tu ești Rege peste viața mea, Isus! :/
+
+[b]
+Fără Tine eu sunt doar țărână,
+Fără Tine viață nu am, Isus.
+Fără Tine nu știu ce-i iubirea,
+Tu ești tot ce am.

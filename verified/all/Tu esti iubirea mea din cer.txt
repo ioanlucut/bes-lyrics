@@ -1,0 +1,26 @@
+[title]
+Tu ești iubirea mea din cer {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ovcVkgJeZ3v3tsrotM5NXZ}, contentHash: {235dd1}}
+
+[sequence]
+v1,v2,c
+
+[v1]
+Tu m-ai dus, sus, spre lumină,
+Tu m-ai învățat să sper.
+În Tine-am găsit odihnă,
+Și-o speranță către cer.
+
+[v2]
+Tu-ai trimis Cuvântul vieții,
+Când departe rătăceam.
+Tu ești roua dimineții, Doamne,
+Tu ești tot ce am.
+
+[c]
+Tu ești iubirea mea din cer,
+Și diminețile pe care
+Eu cu dor le-aștept.
+Tu ești și soarele
+Ce-mi încălzește inima,
+Doar lângă Tine,
+Prin iubire, eu pot exista.

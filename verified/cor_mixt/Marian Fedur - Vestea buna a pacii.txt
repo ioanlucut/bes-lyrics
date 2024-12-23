@@ -1,0 +1,66 @@
+[title]
+Vestea bună a păcii {alternative: {*}, composer: {Marian Fedur}, writer: {Alexandra-Ligia Negru}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {gtvwfchtZoqtWxPZ4sm5zZ}, contentHash: {b402bc}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c2.1,c2.2
+
+[v1.1]
+Peste pământul adâncit în bezne,
+Se-aștern fiorii reci dinspre apus,
+Vești de războaie se-mprăștie lesne,
+Iar pacea-n lume ca prin vis s-a dus.
+
+[v1.2]
+Dar cufundați în adâncimi de noapte,
+Ne zboară gândul înspre alt decor,
+Dintr-un tablou, plutind prin timp, departe,
+Cu magi, un staul rece și păstori.
+
+[c1.1]
+El, Prințul păcii, pacea ne vestise,
+Umil la Betleem când S-a-ntrupat,
+Adeverind ce prin profeți promise,
+De-a lungul vremii Domnul minunat.
+
+[c1.2]
+El pacea Lui ne-o dă cu-ndestulare,
+Dar nu ca lumea cu al ei miraj,
+Ci clocotind în inimile care
+Înving necazul lumii prin curaj.
+
+[v2.1]
+El Rege-Pace pentr-un ceas al urii,
+El, duh zdrobit pentru un trist destin,
+Copil umil prin zgomotele lumii
+Și Domn și Rob și Frate, dar și Fiu.
+
+[v2.2]
+Prin dragoste îngenunchează ura,
+Prin viață rupe-al morții trist drapel
+Căci Prințul păcii biruiește lumea
+Și îndrăznind noi biruim prin El.
+
+[v3.1]
+Ce Fiu al slavei a ales Calvarul,
+Când blând la Betleem S-a-ntrupat!
+Purtând rușinea și sorbind paharul
+Întregii lumi cu suflet vinovat.
+
+[v3.2]
+Ce pace ne coboară în tăcere
+În sufletul cuprins de ațipiri
+Când medităm acum a câta oară
+La Betleemul dulcii amintiri.
+
+[c2.1]
+El, Prințul păcii, pacea ne vestise,
+Umil la Betleem când S-a-ntrupat,
+Adeverind ce prin profeți promise,
+De-a lungul vremii Domnul minunat.
+
+[c2.2]
+El pacea Lui ne-o dă cu-ndestulare,
+Dar nu ca lumea cu al ei miraj,
+Ci clocotind în inimile care
+/:Înving necazul lumii prin curaj :/
+Să ai curaj!

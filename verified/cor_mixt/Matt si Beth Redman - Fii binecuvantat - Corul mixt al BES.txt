@@ -1,0 +1,46 @@
+[title]
+Fii binecuvântat! {alternative: {*}, composer: {Matt și Beth Redman}, writer: {*}, arranger: {Marry Parks}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {gEyBTfrwaULJRSmYX97AcH}, contentHash: {9a470c}}
+
+[sequence]
+v1.1,v1.2,v1.3,c,v2.1,v2.2,v2.3,c,b,c2,e
+
+[v1.1]
+Fii binecuvântat când pământul e săturat,
+Când ploaia dă peste el, fii binecuvântat!
+
+[v1.2]
+Fii binecuvântat când mă aflu pe pământ uscat
+Și pășesc singur prin pustiu, fii binecuvântat!
+
+[v1.3]
+Fiecare laudă Ție Ți-o ‘nalț,
+Când noaptea se apropie, Te voi lăuda!
+
+[c]
+Binecuvântat fie El, binecuvântat,
+Binecuvântat fie El,
+Binecuvântăm Numele Său!
+
+[v2.1]
+Fii binecuvântat când soarele-i din nou pe cer,
+Și când toate sunt cum le-ai creat, fii binecuvântat!
+
+[v2.2]
+Fii binecuvântat când drumu-i plin de suferinți,
+Chiar dacă plâng și-mi este greu, fii binecuvântat!
+
+[v2.3]
+Fiecare laudă Ție Ți-o ‘nalț,
+Când noaptea se apropie, Te voi lăuda!
+
+[b]
+/: Primește lauda, ești vrednic Dumnezeu,
+Îmi cântă inima, fii binecuvântat! :/
+
+[c2]
+/: Binecuvântat fie El, binecuvântat,
+Binecuvântat fie El,
+Binecuvântăm Numele Său!:/
+
+[e]
+Binecuvântăm al Tău Nume sfânt!

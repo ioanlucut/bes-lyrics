@@ -1,0 +1,29 @@
+[title]
+Doamne, bunătatea Ta îmi cuprinde inima {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4887}, id: {hKULC9TSNfk9apfK3gf4Qc}, contentHash: {f6636d}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, bunătatea Ta îmi cuprinde inima
+Și mă face fericit, Domnul meu iubit.
+De cu zori până-n apus numai harul Tău, Isus,
+Îmi sfințește inima și viața mea.
+
+[c]
+/: N-ai în lume-asemănare, nu e nimenea sub soare,
+Nici în cer, nici pe pământ cum ești Tu de sfânt.
+Dragostea-Ți mă copleșește, pacea Ta mă liniștește,
+Harul Tău îmi dă avânt tot mai mult să-Ți cânt. :/
+
+[v2]
+Norii negri când apar, Tu îmi ești un veșnic far,
+Drumul mi-l călăuzești și mă ocrotești.
+Și prin arșiță Îți cânt, numai Ție, Doamne sfânt,
+Că-n izvorul Tău ceresc sufletu-mi sfințesc.
+
+[v3]
+Doamne, pune-n gura mea totdeauna lauda Ta,
+Numai Ție să Îți cânt pe acest pământ.
+Până-n zori, când vei veni, Numele Tău voi slăvi,
+Asta-i fericirea mea: să cânt lauda Ta.

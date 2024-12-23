@@ -1,0 +1,29 @@
+[title]
+El e-n veci Stânca lui Israel {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61348}, id: {1bTBKc5H9k8748uN2rCFca}, contentHash: {eaa716}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ca tunetul din cer e al Domnului glas,
+E cântec ce umple noaptea.
+Să mergem cu toții la muntele Lui,
+Puterea și-o va arăta.
+
+[c]
+El e-n veci Stânca lui Israel,
+În veci Stânca lui Israel,
+Vom trăi prin puterea Cuvântului Său,
+El e-n veci Stânca lui Israel.
+
+[v2]
+Cei orbi vor vedea și cei surzi vor auzi,
+Captivi El va elibera.
+Cei șchiopi vor sări ca și mieii pe câmpii,
+Cu limba lor cei muți vor cânta.
+
+[v3]
+Vom vedea frumusețea și gloria Sa,
+El râuri va turna în pustii.
+Vestiți tuturor să se știe în veci,
+Că Domnul e biruitor.

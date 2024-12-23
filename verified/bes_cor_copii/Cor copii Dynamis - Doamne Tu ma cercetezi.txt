@@ -1,0 +1,41 @@
+[title]
+Doamne, Tu mă cercetezi {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rZnKhpdEqwNPMLBzy52v78}, contentHash: {3c695c}}
+
+[sequence]
+v1.1,v1.2,c,v2,v3,c2
+
+[v1.1]
+Doamne, Tu mă cercetezi
+Și-mi ești aproape tot mereu,
+Știi când stau și când mă scol
+Și gândul meu Tu mi-l cunoști.
+
+[v1.2]
+Știi când merg și când adorm
+Și cunoști căile mele,
+Mă-nconjori cu dragoste
+Și mâna Ta e-asupra mea.
+
+[c]
+/: O mare știință e mai presus de puterile mele
+Și e prea înaltă, prea înaltă ca s-o pot ajunge. :/
+
+[v2]
+Unde mă voi duce departe de Duhul Tău
+Și unde voi fugi departe de fața Ta?
+/: Oriunde aș merge, Te găsesc, Doamne, pe Tine
+Și mâna Ta caldă e mereu alături de mine. :/
+
+[v3]
+M-ai țesut în chip ciudat într-un loc foarte tainic,
+De la-nceput m-ai cunoscut căci ochii Tăi m-au văzut!
+Mulțumesc că m-ai creat ca pe-o făptură măreață,
+Mulțumesc că mă iubești și sufletul mi-l primești!
+
+[c2]
+/: Cercetează-mă și cunoaște-mi inima,
+Încearcă-mă și cunoaște-mi gândul meu.
+Dacă sunt pe o cale care nu-Ți place Ție,
+Du-mă pe calea cea bună a veșniciei! :/
+Doamne, Tu mă cercetezi
+Și-mi ești aproape tot mereu.

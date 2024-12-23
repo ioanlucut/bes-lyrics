@@ -1,0 +1,15 @@
+[title]
+Inima mea vrea să-Ți cânte {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1010}, id: {kAkXYD17D7MMuzowF9DCrX}, contentHash: {0cee5a}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Inima mea vrea să-Ți cânte, vrea să Te înalțe, în fiecare zi.
+Tu ne-ai adus bucurie și-atâta bunătate cum n-am putut gândi.
+
+[c]
+/: Vreau să-Ți mulțumesc pentru tot ce ai făcut
+Și pentru tot ce-nsemni în viața mea.
+Vreau să-Ți mulțumesc pentru tot ce ai schimbat
+Și pentru că mi-ai umplut inima! :/

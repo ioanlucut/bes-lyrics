@@ -1,0 +1,23 @@
+[title]
+Frumoasă zi de bucurii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carrols}, version: {*}, genre: {*}, rcId: {*}, id: {eEDymizNMH4WT3NQnprGc7}, contentHash: {fe14a5}}
+
+[sequence]
+v1,b,v2,v3
+
+[v1]
+Frumoasă zi de bucurii la noi iar a sosit,
+În coruri sfinte cu îngerii cântarea ne-a unit.
+
+[b]
+Slavă lui Dumnezeu cântăm,
+Regelui nostru ne-nchinăm,
+Pace fie pe pământ:
+S-a născut azi Domnul sfânt!
+
+[v2]
+Când întunericul domnea, Lumina a venit,
+Căci Dumnezeu ne oferea un dar neprețuit.
+
+[v3]
+Acum la ieslea Ta venim, la Cel glorificat,
+Umilul Prunc ce azi privim e Domn și Împărat.

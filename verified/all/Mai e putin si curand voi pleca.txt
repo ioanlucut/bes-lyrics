@@ -1,0 +1,27 @@
+[title]
+Mai e puțin și curând voi pleca {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5748}, id: {se4rmY683qBQjHXAKR8i9B}, contentHash: {34ad23}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai e puțin și curând voi pleca
+Spre orașul divin, unde e moștenirea mea,
+Cu El în cer e divinul meu țel,
+Să fiu veșnic cu El, scumpul Emanuel.
+
+[c]
+/: Suflete, laudă-L pe Domnul, (3x)
+Ziua-aceea-n curând va veni. :/
+
+[v2]
+A zis Isus și eu cred tot ce-a spus,
+Că în cer nu vor fi nici dureri, nici urgii,
+Mâna Sa va șterge lacrima mea
+Și atunci voi uita că a fost greu cândva.
+
+[v3]
+Mai e puțin de trăit în suspin
+Și atunci vom cânta pentru veci slava Sa.
+O, scump Isus, Te rugăm du-ne sus,
+Ca Mireasă să-Ți fim și pe veci să trăim.

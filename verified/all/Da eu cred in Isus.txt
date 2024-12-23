@@ -1,0 +1,23 @@
+[title]
+Da, eu cred în Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4874}, id: {vEzm8dUQDA1ryXeEHb8jb6}, contentHash: {6d6d6e}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Da, eu cred în Isus,
+Cred că El e Fiul lui Dumnezeu,
+Cred că a murit și-a înviat,
+Prețul pentru noi a plătit.
+
+[c]
+Cred că El e prezent
+Între noi aici,
+Pe bolnavi vindecând
+Și păcate iertând.
+
+[v2]
+Da, eu cred în Tine,
+Cred că Tu ești Fiul lui Dumnezeu,
+Cred că ai murit și-ai înviat,
+Prețul pentru noi ai plătit.

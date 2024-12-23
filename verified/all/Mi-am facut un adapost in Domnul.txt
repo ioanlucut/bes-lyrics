@@ -1,0 +1,34 @@
+[title]
+Mi-am făcut un adăpost în Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {9S8Zoay7rmL7cdPBYbopLF}, contentHash: {c3c217}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mi-am făcut un adăpost în Domnul,
+Când furtuna bântuia cumplit,
+Turnul de scăpare și-ajutorul,
+Prin Cuvântul sfânt făgăduit.
+
+[c]
+/: Domnul, Dumnezeu Atotputernic
+Va rămâne același, neschimbat,
+Temelia Lui e adevărul și Cuvântul Lui e încercat! :/
+
+[v2]
+Mi-am ‘nălțat spre ceruri rugăciunea,
+Când problemele mă-nconjurau;
+El mi-a dat atunci înțelepciunea
+Și-am văzut mâna-I asupra mea!
+
+[v3]
+Zi de zi Isus mă întărește,
+Simt în orice ceas iubirea Lui,
+El pe orice drum mă însoțește,
+Nu e mult și vine în curând!
+
+[v4]
+Tot ce pot să spun este că Domnul,
+Și-a ținut a Lui promisiuni,
+El rămâne credincios de-a pururi,
+Fie Numele-I slăvit, amin!

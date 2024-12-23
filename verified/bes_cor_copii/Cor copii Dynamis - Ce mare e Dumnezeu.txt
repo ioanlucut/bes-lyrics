@@ -1,0 +1,23 @@
+[title]
+Ce mare e Dumnezeu {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {159212}, id: {mqxJ615bYFDbMJZ3hwMoty}, contentHash: {5b225b}}
+
+[sequence]
+c,v1,v2,c
+
+[c]
+Ce mare e Dumnezeu,
+Ce mare și bun e El!
+Ce mare e Dumnezeu!
+El mă Ține-n mâna Sa.
+
+[v1]
+Mai sus decât soarele,
+Mai adânc decât un submarin.
+Conduce-ntregul univers
+Și pătrunde gândul meu.
+
+[v2]
+El mă știe, mă iubește,
+Mai ‘nainte să fi fost.
+Ce minunat e planul Său
+Căci mare e Dumnezeu!

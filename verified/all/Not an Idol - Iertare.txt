@@ -1,0 +1,21 @@
+[title]
+Iertare {alternative: {*}, composer: {Not an Idol}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {191417}, id: {pBrRh9VgSbsTz52aSMt1MT}, contentHash: {148c1f}}
+
+[sequence]
+v1,c,v2,c,c
+
+[v1]
+Doamne, ascultă astăzi ruga mea,
+Duhul e mâhnit, frântă-i inima,
+Ia al meu suspin, ia povara grea,
+Lasă mila Ta peste viața mea.
+
+[c]
+Păcatele toate vreau, rând pe rând, să cadă,
+Doamne, mă iartă și fă-mă alb ca zăpada.
+
+[v2]
+Tu îmi ceri ca adevărul Tău
+Să pătrundă în sufletul meu,
+Să rămână în ființa mea,
+Să-mi dea iarăși bucuria Ta.

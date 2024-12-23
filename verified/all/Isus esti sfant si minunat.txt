@@ -1,0 +1,29 @@
+[title]
+Isus, ești sfânt și minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {23fS26gdVdsUvfQtGGPQN1}, contentHash: {3ed531}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Prin Isus am primit siguranța
+Că de păcat eu sunt iertat,
+Prin Isus am primit și viața
+Și-acum știu că sunt salvat.
+
+[c]
+/: Isus, ești sfânt și minunat,
+Isus, fii binecuvântat!
+Isus, doresc să Te slăvesc
+Și Numele să-Ți preamăresc. :/
+
+[v2]
+Prin Isus am primit și nădejde,
+Ce nimeni nu a putut să-mi dea
+Și-atunci când eu treceam prin noapte
+El a fost lumina mea.
+
+[v3]
+Prin Isus am primit eu voința
+Să pot mai mult să-nfăptuiesc,
+Prin Isus am primit și puterea
+Pe-a Sa cale să pășesc.

@@ -1,0 +1,17 @@
+[title]
+Mai curat, mai curat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sD7Psru5P52nJ4UkP1tpSj}, contentHash: {d3fdb5}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Mai curat, mai curat,
+De păcat eu sunt spălat.
+Doamne știu, Doamne știu,
+Sunt curat și iertat.
+
+[c]
+Prin puterea sângelui,
+Prin misterul dragostei,
+Prin credința-n Tine, Doamne,
+Eu pot fi mai curat, mai curat.

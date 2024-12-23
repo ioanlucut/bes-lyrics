@@ -1,0 +1,47 @@
+[title]
+Fiți gata {alternative: {*}, composer: {Marius Pop & Naomi Borota}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158892}, id: {4Jn4TbAH5pfPF9VJu6hRiz}, contentHash: {aabf92}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,e
+
+[v1.1]
+Pregătiți-vă popoare,
+Pentru ziua Domnului!
+În curând, El Se va-ntoarce,
+Pentru cei ce sunt ai Lui!
+
+[v1.2]
+Cei ce-s sfinți, să se sfințească
+Și să stea ‘naintea Sa,
+Aducând o jertfă vie,
+Pregătiți de nunta Sa!
+
+[c1.1]
+Fiți gata să-L întâmpinați!
+Fiți gata, când trâmbița răsună!
+Fiți gata viața să vă dați!
+Urmați calea, mergeți în lumină!
+
+[c1.2]
+Fiți gata, să spuneți tuturor,
+Evanghelia, Vestea cea bună!
+Vestind moartea și-nvierea Lui,
+Câștigați oameni pentru-mpărăție!
+
+[v2.1]
+Într-o clipită ne-om transforma,
+Și trup de slavă ne vei da!
+Să fim cu Tine-o veșnicie,
+Iar lacrima va dispărea!
+
+[v2.2]
+Vom sta cu Tine, Isuse, la masă,
+La pieptul Tău ne-om alina!
+Și tot ce-a fost în viața noastră,
+Uitat va fi, când Te-om vedea!
+
+[e]
+/: Vie-mpărăția Ta,
+Precum în cer și pe pământ,
+Facă-se doar voia Ta
+În viața noastră, Domn Preasfânt! :/

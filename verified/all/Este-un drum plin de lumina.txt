@@ -1,0 +1,57 @@
+[title]
+Este-un drum plin de lumină {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1452}, id: {idtiXk6ara5M3dSAgemXZV}, contentHash: {de0374}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,v4.1,v4.2,c
+
+[v1.1]
+Este-un drum plin de lumină
+Spre-un oraș îndepărtat,
+Unde-i glorie, mărire,
+Fericire ne-ncetat.
+
+[v1.2]
+Zilnic merg pe drumu-acesta,
+Ca să pot intra și eu
+În orașul sfânt din ceruri,
+La tronul lui Dumnezeu.
+
+[c]
+/: Eu sunt călător, pe pământ străin,
+Înspre țara sfântă peregrin. :/
+
+[v2.1]
+Azi, orașul este templu
+Pentru Dumnezeul Sfânt,
+Dar curând el se va umple
+Cu oameni de pe pământ.
+
+[v2.2]
+Și iubirea ce ne-o poartă
+Ne ajută să simțim
+Dorul pentru noua casă,
+Unde vrem și noi să fim.
+
+[v3.1]
+Orașu-acesta e gata,
+Pregătită-i casa ta.
+Dumnezeu așteaptă clipa
+Când ești gata să te ia.
+
+[v3.2]
+Deci, nu dispera pe cale
+Și nu fi îngrijorat!
+Tu, doar laudă-L pe Isus
+Și iubește-L ne-ncetat.
+
+[v4.1]
+Este-un drum plin de lumină
+Spre-un oraș îndepărtat,
+Unde-i glorie, mărire,
+Fericire, ne-ncetat.
+
+[v4.2]
+Hai cu toți pe drumu-acesta
+Care duce-n ceruri, sus.
+Vom trăi o veșnicie
+Împreună cu Isus!

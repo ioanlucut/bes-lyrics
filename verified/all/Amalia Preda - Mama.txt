@@ -1,0 +1,37 @@
+[title]
+Mama {alternative: {*}, composer: {Amalia Preda}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {244334}, id: {8N5uEjA346didDBf95AV4z}, contentHash: {0fe7cd}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Chipul senin și doi ochi îngerești
+Cuprind în iubire, ca un răsărit
+Întreg universul nemărginit.
+Și lumea, prin ei, înveți s-o privești
+
+[v1.2]
+Aripi în zbor, două brațe se-ntind,
+Caldă-i mereu a lor mângâiere.
+Orice suspin, ascuns în tăcere,
+Se stinge-n iubire când el e cuprins.
+
+[c]
+E mama, cu dulcea lumină-n privire,
+Cu har și tărie-n trăire,
+Și cu bunătate, mai presus de toate
+În dar, e mama, cu farmec și cu frumusețe,
+Cu glasul ei plin de blândețe și ruga-nălțată
+Mereu pentru noi la altar.
+
+[v2.1]
+Lacrimi ascunse, în palmele moi,
+Teamă, neliniște sau bucurie,
+Multe dureri, pe care le știe,
+Doar ea, amintindu-și în taină de noi,
+
+[v2.2]
+Neobosită, se-apleacă mereu,
+Pașii pierduți, cu dor să-i găsească,
+Inima frântă să liniștească
+Ș-apoi s-o îndrepte spre Dumnezeu.

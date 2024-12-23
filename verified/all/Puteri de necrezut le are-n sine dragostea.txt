@@ -1,0 +1,41 @@
+[title]
+Puteri de necrezut le are-n sine dragostea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1780}, id: {oCJsBwiW5HEVHS1qnMKbSe}, contentHash: {6f1313}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
+
+[v1.1]
+Puteri de necrezut
+Le are-n sine dragostea,
+Înseninează frunți
+Și voie bună-ți dă tot ea.
+
+[v1.2]
+/: Să rabzi, să te jertfești,
+Să ierți ce alții îți greșesc,
+Puteri de necrezut
+Le are-n sine dragostea. :/
+
+[v2.1]
+Speranțe multe, mari,
+Își face-adesea dragostea.
+Mereu nădăjduind,
+Mereu sperând trăiește ea.
+
+[v2.2]
+/: Dar mulți nu o cunosc
+Și-n inimă nu o primesc.
+Iluzii multe, mari,
+Își face-adesea dragostea. :/
+
+[v3.1]
+Credința se va-ncheia,
+Nădejdea va avea sfârșit,
+Doar dragostea va sta,
+Doar ea va fi la infinit.
+
+[v3.2]
+Iubirea-i Dumnezeu
+Și tot ce-i bun e de la El,
+Când toate s-or sfârși,
+Va fi doar una: dragostea.

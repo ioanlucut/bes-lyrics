@@ -1,0 +1,30 @@
+[title]
+Emanuel, Dumnezeu cu noi {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {207989}, id: {2XM8JtJS5s83ZTSMmXWvyv}, contentHash: {81edd9}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un semn vom primi cu toții, fecioara Prunc născând,
+Un Fiu de om purtând în El vecia Celui Sfânt.
+El este slava lumii, lumină-n orice greu,
+Speranță pentru cei ce Îl primesc ca Dumnezeu.
+
+[c]
+Emanuel, Dumnezeu cu noi,
+Și când El ne sprijină
+Cine-ar sta-mpotrivă?
+Căci El e cu noi, Emanuel.
+
+[v2]
+Pentru toți cei ce stau în negura grea,
+Lumina de sus S-a ivit.
+Pentru toți ce-așteaptă în credință,
+Priviți, ce dar am primit!
+
+[v3]
+Deci tu ce vei răspunde de-auzi chemarea Sa,
+Acelui care ne-a salvat murind pe Golgota?
+Nu este înălțime și nici vreun loc adânc,
+În care să n-ajungă brațul Său
+Și glasu-I blând.

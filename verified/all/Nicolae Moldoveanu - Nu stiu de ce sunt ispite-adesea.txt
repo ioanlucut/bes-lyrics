@@ -1,0 +1,35 @@
+[title]
+Nu știu de ce sunt ispite-adesea {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4019}, id: {7j7NcLKmQU8gVGGQ9VgEZ1}, contentHash: {cbc1ba}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu știu de ce sunt ispite-adesea
+Și încercări vin în orice zi,
+Când lângă noi sunt atâția alții,
+Ce hărțuiți nu par a fi.
+
+[c]
+Mereu ‘nainte și vom învinge,
+Mereu ‘nainte și vom afla!
+Te-ncurajează, mergi în lumină!
+Vom înțelege de ce-i așa.
+
+[v2]
+Când vine moartea, pe drag răpește
+Și lasă locul gol și pustiu,
+Iar mulți din cei răi pot să prospere
+Cum de-i așa eu nu pot să știu.
+
+[v3]
+Fii credincios dar, până la moarte!
+Câteva zile doar mai avem.
+Atunci tot greul va fi nimica,
+Cununa vieții când vei primi.
+
+[v4]
+Noi știm că Isus, pe nori, cu slavă,
+Curând veni-va și ne va lua
+Și, lângă Sine, în strălucire,
+Dureri, ispite, tot vom uita.

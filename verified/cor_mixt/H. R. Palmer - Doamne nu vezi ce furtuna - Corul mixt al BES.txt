@@ -1,0 +1,37 @@
+[title]
+Doamne, nu vezi ce furtună {alternative: {*}, composer: {H. R. Palmer}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {qaSebv2DtX5s26yeCGb7Ri}, contentHash: {4097ab}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, nu vezi ce furtună, ce vifor îngrozitor?
+Ce nor des, ce întunecime, scăpare nu-i și-ajutor,
+Chiar de pierim, nu Îți pasă? Cum poți să dormi adânc?
+Tot momentul ne-amenință moartea,
+Umblând peste-acest adânc.
+
+[c]
+S-asculte furtuna de glasul Meu: „Liniște să fie!”
+Pagubă nu poate provoca,
+Nici om, nici demon, sau altcineva,
+Nu poate să piară corabia
+Al cerului Domn când se află-n ea!
+Căci toate Mi se supun Mie: „Liniște, să fie!”
+Căci toate Mi se supun Mie: „Deci, liniște!”
+
+[v2]
+Doamne, ce nori, ce furtună,
+și azi ca și-atunci se strâng,
+Ce ură puterea-și adună, ce valuri din nou se frâng,
+Astăzi strigăm către Domnul, noi, ca și cei de atunci.
+Iar Isus mustră iarăși furtuna
+Cu-aceleași cerești porunci.
+
+[v3]
+Doamne, ce nori de furtună
+Sunt încă pe-acest pământ,
+Ce zgomot de arme răsună, ce vuiet se-nalță-n vânt,
+Însă noi știm că Tu, Doamne, vei reveni curând,
+Așezând pentru veci pacea lumii,
+Furtuna de foc mustrând.

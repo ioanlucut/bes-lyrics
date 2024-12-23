@@ -1,0 +1,35 @@
+[title]
+Când Te-am chemat Tu ai venit {alternative: {*}, composer: {Coțan Corneliu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4oteBVEAUC3Vy9J8aa1VjZ}, contentHash: {31e37e}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
+
+[v1]
+Când Te-am chemat Tu ai venit,
+Căci ești un Dumnezeu ce-aude.
+/: Nu ești ca idolul cel mut,
+Să strigi la el și nu-ți răspunde! :/
+
+[c1.1]
+/: Ești viu și-n slavă locuiești,
+Dar vii când strigă un sărac.
+La un nenorocit Te-apleci,
+Ești Dumnezeu adevărat!
+
+[c1.2]
+Ești viu și-n slavă locuiești, (Tu domnești)
+Dar vii când strigă un sărac, (Aproape ești)
+La un nenorocit Te-apleci, (Tu, doar Tu)
+Ești Dumnezeu adevărat! :/
+
+[v2]
+Nu-Ți place omul îngâmfat,
+Cel ce se bizuie pe sine,
+/: Ci Tu iubești pe cel smerit,
+Tu har îi torni, cu Tine-i bine! :/
+
+[v3]
+De-aceea-Ți voi mări puterea,
+Din groapă Tu m-ai ridicat,
+/: Credeam că-al morții eu voi fi,
+Dar, Doamne, Tu nu m-ai lăsat! :/

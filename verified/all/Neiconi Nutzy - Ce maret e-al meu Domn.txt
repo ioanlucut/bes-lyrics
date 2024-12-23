@@ -1,0 +1,17 @@
+[title]
+Ce măreț e-al meu Domn {alternative: {*}, composer: {Neiconi Nutzy}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4851}, id: {e9Yq2gSBP5Zpjya2zVHp4S}, contentHash: {353a6f}}
+
+[sequence]
+c,v1,c,v1
+
+[c]
+Ce măreț e-al meu Domn,
+Minunat este El,
+Plin de glorie domnește în slavă,
+Minunat este El!
+
+[v1]
+Să-nălțăm Numele Lui
+Căci El ne-a salvat,
+Ne-a răscumpărat prin har
+El e Domn, e Domn Prea-nalt.

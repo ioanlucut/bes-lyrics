@@ -1,0 +1,47 @@
+[title]
+Timpul cel din urmă a sosit acuma {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5771}, id: {c9wquimxgbCRacDSnbpHtZ}, contentHash: {074cd0}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c
+
+[v1]
+Timpul cel din urmă a sosit acuma,
+Fraților, ca să ne pocăim.
+Firea pământească vrea să ne robească,
+Dar cu toți din somn să ne trezim!
+
+[c]
+Iată, Domnul, frate, la inimă-ți bate,
+Deschide-I și nu Îl refuza.
+Lumea și trufia, pofta și mândria
+Alungă-le din inima ta!
+
+[v2]
+Domnul cercetează și apoi lucrează
+În fiii Săi care I se supun.
+Care se umilește și se pocăiește,
+Îl conduce pe-al vieții drum.
+
+[v3]
+Dar să știi, amice, cel rău vrea să strice
+Credința ta, ca să dai ‘napoi,
+Dar te roagă tare, cu credință mare,
+Și strigă: „Ah, Doamne, fii cu noi!”
+
+[v4]
+Azi, se profețește că-n curând sosește
+Al lumii mare Judecător.
+Biblia arată că cel fără pată
+Va fi ca al nost’ scump Mântuitor.
+
+[v5]
+Azi, mulți se-nspăimântă de lucrarea sfântă,
+Zicând ca nu-i lucru-adevărat.
+Auzind vorbire-n multe limbi străine,
+Prin cel ce-i cu Duh Sfânt botezat.
+
+[v6]
+Dar Ioel arată vestea adevărată,
+Lucru mare, clar și lămurit.
+Despre profeție și de limbi străine
+Pe care azi cu toți le-am auzit.

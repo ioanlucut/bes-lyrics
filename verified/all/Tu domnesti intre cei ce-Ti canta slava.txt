@@ -1,0 +1,17 @@
+[title]
+Tu domnești între cei ce-Ți cântă slavă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qVXGu25FTAwWxcGiwXrbUd}, contentHash: {646f24}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Tu domnești între cei ce-Ți cântă slavă,
+În mărire și cinste-ncoronat,
+Și toți îngerii din jur se unesc cu noi
+Și-Ți cântă-acum Numelui Tău sfânt.
+
+[c]
+Sfânt Ți-e, Doamne Numele,
+Sfânt Ți-e Numele!
+Cer și pământ Îți cântă slavă,
+Sfânt Ți-e Numele!

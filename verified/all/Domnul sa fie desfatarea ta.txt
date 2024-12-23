@@ -1,0 +1,17 @@
+[title]
+Domnul să fie desfătarea ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xnkgCP4BgRwtqw79R4Dgd4}, contentHash: {f86dc6}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Domnul să fie desfătarea ta
+Și la El să îți fie inima.
+În căile Domnului să rămâi
+Și El îți va da bucurii!
+
+[c]
+Niciodată nu se vor sfârși
+În Domnul Isus bucurii.
+În căile Domnului să rămâi
+Și El îți va da bucurii!

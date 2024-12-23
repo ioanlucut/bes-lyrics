@@ -1,0 +1,20 @@
+[title]
+Mă-ncred în Tine {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59472}, id: {a6rRL8CFodpVovL5bQNrge}, contentHash: {07d2ce}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Isus, Domnul meu, inima mi-ai spălat în sânge sfânt,
+Pace am acum, Te iubesc doar pe Tin’.
+Dau tot ce am să spun acum la lume
+Că doar Tu m-ai salvat, Tu m-ai salvat!
+N-ascund nimic, comoara mi-e în Tine
+Și declar, și declar:
+
+[c]
+Isus, eu mă-ncred în Tin’ și am să merg
+Pân’ la margini de lume,
+Pân’ la margini de lume cu Tin’!
+Ești Fiul lui Dumnezeu
+Și oamenii vor ști că Tu ești sfânt, Tu ești sfânt.

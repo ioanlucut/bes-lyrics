@@ -1,0 +1,32 @@
+[title]
+Mâna Ta, Doamne {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4319}, id: {tRhMCBnwdSqacDgwGz2f1w}, contentHash: {009190}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[v1]
+Când privesc bolta-nstelată ce-i întinsă sus,
+Mă cuprinde-un dor să merg înspre Isus.
+Sunt ca Petru, ce pornit pe val se scufunda.
+Mâna mea, vreau s-o țin în mâna Ta.
+
+[c]
+Mâna Ta, Doamne,
+M-a scăpat din noaptea rea.
+Mâna Ta, Doamne,
+Mă păzește-n noaptea grea.
+Și poate fi valul ‘nalt,
+Tu-mi ții corabia mea.
+Mâna Ta, Doamne, mă va purta.
+
+[v2]
+Când șuvoaiele-nspumate vin asupra mea
+Și când vântul rău m-aruncă la pământ,
+Deși inima-mi se oprește-n loc, eu nu mă tem,
+Mâna mea, vreau s-o țin în mâna Ta.
+
+[v3]
+Mâine dincolo de noapte, în ai zilei zori,
+Voi deschide ochii printre galaxii
+Și-am să strig „Slăvit să fii și azi și-n veșnicii”,
+Mâna mea, vreau s-o țin în mâna Ta.

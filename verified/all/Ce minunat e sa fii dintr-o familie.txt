@@ -1,0 +1,17 @@
+[title]
+Ce minunat e să fii dintr-o familie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1600}, id: {pUSFx1nUVsbH9kLG8QpnvN}, contentHash: {4e0046}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+/: Ce minunat e
+Să fii dintr-o familie,
+Familia sfântă
+A Domnului Isus! :/
+
+[c]
+/: Suntem o familie unită,
+Suntem o familie reală.
+Familia care iubește,
+Familia Domnului Isus. :/

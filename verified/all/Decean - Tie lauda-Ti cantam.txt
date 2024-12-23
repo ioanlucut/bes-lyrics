@@ -1,0 +1,22 @@
+[title]
+Ție laudă-Ți cântăm {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2467}, id: {wMdYGKqEPyTT55BdY2uEFr}, contentHash: {7fb1d4}}
+
+[sequence]
+v1,c,v1,c,b,c
+
+[v1]
+Ție laudă-Ți cântăm,
+Pe Tine Te adorăm,
+Numele Tău înălțăm.
+În prezența tronului plin de slavă,
+În prezența Ta noi vrem să stăm.
+
+[c]
+Venim, mâinile ridicăm,
+Venim, pe genunchi ne plecâm,
+Venim, Ție să ne-nchinăm,
+Inima să-Ți dăm.
+
+[b]
+Inima și mintea mea
+Îți dăruiesc, toată viața mea.

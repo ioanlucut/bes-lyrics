@@ -1,0 +1,77 @@
+[title]
+Prin multe țări frumoase în viață am trecut {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5871}, id: {vZKLiVdkWet2dx6D4hE4nq}, contentHash: {ce8c7c}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2,v5.1,v5.2,v6.1,v6.2
+
+[v1.1]
+Prin multe țări frumoase
+În viață am trecut
+Și-atâtea văi și dealuri
+Frumoase am văzut,
+
+[v1.2]
+Dar niciun deal din lume
+Nu m-a atras așa
+/: Ca dealul, ce, pe nume
+Se cheamă Golgota.:/
+
+[v2.1]
+Acesta nu se-nalță
+Cu vârful pân’ la nori,
+Pe culmea lui, zăpada
+Nu cerne albe flori,
+
+[v2.2]
+Dar nici pe-un deal din lume
+/: Nu m-am simțit așa
+De Dumnezeu aproape,
+Ca sus pe Golgota. :/
+
+[v3.1]
+Nu-s brazi înalți acolo,
+Nici iarbă verde jos,
+Dar este, sus pe munte,
+Un lucru prețios.
+
+[v3.2]
+E crucea răstignirii
+/: Și jertfa de pe ea,
+Ne-a dăruit viața -
+Aceasta-i Golgota. :/
+
+[v4.1]
+Acolo nu-s izvoare de apă,
+Cât privești,
+Nici râuri curgătoare
+De ape pământești,
+
+[v4.2]
+Dar iese de sub cruce
+/: Izvorul minunat
+Ce tot păcatul lumii
+L-a șters și l-a spălat. :/
+
+[v5.1]
+De-acolo și tâlharul
+Se-ntoarce credincios
+Și mântuit se-ntoarce
+Căitul păcătos.
+
+[v5.2]
+Acolo-L vezi pe Domnul
+/: Când plângi sub crucea Sa.
+Acolo-i har și pace,
+Aceasta-i Golgota. :/
+
+[v6.1]
+Tu, omule, ce-n lume
+Suspini nemângâiat,
+Înalță-te spre locul
+Acela minunat!
+
+[v6.2]
+Acolo, mântuirea
+/: Și pacea vei afla,
+Acolo-i fericirea -
+Aceasta-i Golgota! :/

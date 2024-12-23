@@ -1,0 +1,20 @@
+[title]
+Tată, noi vrem ca slava Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6683}, id: {tX1BjFhqFhf94S5XEdVGpq}, contentHash: {c4029d}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Tată, noi vrem ca slava Ta
+Să poată fi văzută-n noi.
+Inimile noastre să devină doar o inimă
+Și-atunci lumea va ști că Isus este Domn.
+
+[c]
+/: Fă-ne doar un glas
+Ce-Ți înalță Numele.
+Fă-ne doar un glas
+Ce Te preamărește.
+Fă-ne doar un glas,
+Un gând și-o inimă
+Leagă-ne pe toți împreună. :/

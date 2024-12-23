@@ -1,0 +1,29 @@
+[title]
+Curg valuri de-ndurare {alternative: {*}, composer: {Daniel Stăuceanu}, writer: {Petre Gaiu}, arranger: {Emanuel Bălăceanu}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {nAPhJdL8KKtJEpxNqyLiyw}, contentHash: {1351f1}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+În dragostea-ȚI fierbinte ai șters al meu păcat,
+Mi-ai dăruit, Părinte, veșmânt de in curat.
+Curg valuri de-ndurare din crucea Ta, Isus,
+Ea n-are-asemănare, nici pe pământ, nici sus.
+
+[v2]
+Iubirea să mă poarte din zori în asfințit,
+M-ai izbăvit de moarte, pe drept Tu ești iubit.
+Curg valuri de-ndurare din crucea Ta, Isus,
+Ea n-are-asemănare, nici pe pământ, nici sus.
+
+[v3]
+Urc zările senine din treaptă-n treaptă-n sus,
+Iubirea Ta mă ține și asta mi-e de-ajuns.
+Curg valuri de-ndurare din crucea Ta, Isus,
+Ea n-are-asemănare, nici pe pământ, nici sus.
+
+[v4]
+Mă mistuie iubirea când Te urmez supus,
+Îngeamănă-mi trăirea cu viața Ta, Isus!
+/: Curg valuri de-ndurare din crucea Ta, Isus,
+Ea n-are-asemănare, nici pe pământ, nici sus. :/

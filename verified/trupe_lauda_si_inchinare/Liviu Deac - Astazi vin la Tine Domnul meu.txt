@@ -1,0 +1,31 @@
+[title]
+Astăzi vin la Tine, Domnul meu {alternative: {*}, composer: {Liviu Deac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2782}, id: {hKzZBxj4XucFJMrQH4GJNH}, contentHash: {b4888c}}
+
+[sequence]
+v1,p,c,v2,p,c,e
+
+[v1]
+Astăzi vin la Tine, Domnul meu.
+Sufletul mi-e plin de bucurie,
+Fiindcă m-ai făcut copilul Tău
+Ca să pot trăi o veșnicie.
+
+[p]
+Sunt atât de fericit, Domnul meu iubit,
+De minunea ce-ai făcut-o-n viața mea.
+
+[c]
+/: Vreau să Îți cânt, vreau să Te laud,
+Să Îți mulțumesc că ești în viața mea.
+Cu putere m-ai luat din întuneric
+Și mi-ai arătat înțelepciunea Ta. :/
+
+[v2]
+Astăzi vin la Tine, Domnul meu,
+Să Îți mulțumesc de-a Ta iertare.
+Sunt răscumpărat prin harul Tău
+Și trăiesc prin a Ta îndurare.
+
+[e]
+Cu putere m-ai luat din întuneric
+Și mi-ai arătat înțelepciunea Ta.

@@ -1,0 +1,30 @@
+[title]
+Plecăm astăzi la luptă {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1L39YXWhHua8YffrNrLeFW}, contentHash: {aac26f}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Plecăm astăzi la luptă, ne-ntâlnim cu uriașii,
+Dar nu ne este frică, Îl avem pe Isus!
+/: Săbiile își ridică, ne amenință viața,
+Mică le e puterea, pacea noastră-i Isus! :/
+
+[c]
+Ne-ai dus și prin pustie să biruim cuptorul,
+Ne-ai descoperit apa, că fără ea suntem morți,
+Ne-ai învățat ce e răbdarea.
+Când nu aveam siguranță, Numele Tău puternic
+A zdrobit orice lanț.
+
+[v2]
+Cu o praștie și-o piatră mergem tot înainte,
+Știm, în față e Goliat, dar în jur e Isus!
+/: Ne curg caldele lacrimi fiindcă vrem să învingem,
+Dumnezeu toarnă-n taină peste noi ulei sfânt. :/
+
+[v3]
+Iar când lupta e gata, vom merge țintă acasă,
+Rodul Domnul îl strânge, răsplătește-nsutit.
+/: Pace și bucurie noi avem în bagaje,
+Călători, fii de Rege, zburăm spre infinit. :/

@@ -1,0 +1,29 @@
+[title]
+Harul ce curge din Golgota {alternative: {*}, composer: {Tabita Ianc}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2825}, id: {812gnSFCgbUgfcTSFdwBYv}, contentHash: {af9d0f}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Harul ce curge din Golgota,
+M-a mântuit, m-a fericit,
+Aici Isus a fost morții dat,
+Păcatul meu El mi-a ispășit.
+
+[c]
+/: Harul, harul,
+Harul e darul nemeritat,
+Harul, harul,
+Pe veci cu Dumnezeu m-a-mpăcat. :/
+
+[v2]
+Am fost robit de al meu păcat,
+Ce m-apăsat, m-a chinuit,
+Dar la Isus eu am alergat,
+El mi-a dat pace, m-a izbăvit.
+
+[v3]
+Tu, dragul meu, astăzi ești chemat,
+La acest har, ce este în dar,
+Pleacă-ți genunchii și inima,
+Întinde mâna că e al tău.

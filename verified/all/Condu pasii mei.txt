@@ -1,0 +1,17 @@
+[title]
+Condu pașii mei {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2800}, id: {t6HTHrGgAxxwYq4eT8qY8L}, contentHash: {7d5bcf}}
+
+[sequence]
+v1,c,v1,c,v1,c
+
+[v1]
+Condu pașii mei
+Să nu mai rătăcesc.
+Condu pașii mei
+Să pot să Te urmez.
+
+[c]
+Inima-mi strigă spre Tine,
+Rămâi lângă mine mereu.
+O, Domnul meu,
+Condu pașii mei!

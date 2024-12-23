@@ -1,0 +1,29 @@
+[title]
+Nori negri de-ar veni, valuri mari de-ar lovi {alternative: {*}, composer: {Emanuel Hasan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {159018}, id: {uKGUaCm6329jimC5bicLPx}, contentHash: {817534}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nori negri de-ar veni, valuri mari de-ar lovi,
+Știu că nu mă vor clinti.
+Mulți mă vor întreba: de unde-i puterea ta?
+Eu le voi spune așa:
+
+[c]
+/: El e Stânca mea, El e pacea mea,
+El e ocrotirea, eu nu mă tem!
+El e El-Shaddai, Sfântul Adonai,
+El mi-aude glasul, oricând Îl chem! Nu mă tem! :/
+
+[v2]
+Singur și-mpresurat, slab și-abandonat
+Par eu pe barcă în larg.
+Cel rău s-ar bucura dacă m-aș scufunda,
+Eu îi voi spune așa:
+
+[v3]
+Nu, nu mă-ngrijorez, ci spre liman vâslesc,
+Până la capăt sosesc.
+Ziua chiar de s-a scurs și soarele e-apus,
+Lumina mea e Isus.

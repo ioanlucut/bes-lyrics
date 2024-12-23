@@ -1,0 +1,30 @@
+[title]
+Toată natura {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112761}, id: {3SabrTzaoC8C7DuukaXCTh}, contentHash: {7e457a}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ziua se-aprinde fără cuvinte,
+Îngână un cântec scăldat în culori,
+Blânde petale zâmbesc înspre soare,
+Stropii de rouă dansează ușor.
+Vântul cutreieră zarea cântând,
+Mii de povești ascultând.
+Ce frumos e al zilei început!
+
+[c]
+Toată natura-și așterne cununa în fața tronului Tău,
+Cerul Te-alintă, pământul Îți cântă: „Ești cel mai minunat!”
+Triluri alese, bogate miresme, culorile pline de farmec,
+Orice sclipire e pentru Tine, singurul Creator,
+În veci!
+
+[v2]
+Ziua se stinge, liniștea-nvinge,
+Dar cântul rămâne scăldat în culori,
+Visele-și caută cărări printre stele,
+Luna privește sfios printre nori.
+Pacea coboară în trupul trudit,
+Timpul deloc nu-i grăbit,
+Ce frumos e al zilei asfințit!

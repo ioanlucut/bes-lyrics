@@ -1,0 +1,45 @@
+[title]
+Eu voi spune mereu {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103980}, id: {oaFDgevbYmE5FUcjN7wS7d}, contentHash: {7b2151}}
+
+[sequence]
+v1,c,v2,c,v3,c2,b,c
+
+[v1]
+Dinainte să Te aflu, când nimic nu-ntrezăream,
+Am știut că ești aproape, zi de zi Te așteptam.
+Viața mea de dinainte nu se poate compara
+Cu povestea ce-o trăiesc atunci când Te privesc.
+Ești tot ce-mi doresc!
+
+[c]
+Eu voi spune mereu:
+„Te iubesc mai presus de
+Cuvântul ce îl rostesc,
+Nu există ceva mai frumos
+Decât ce trăiesc!”
+
+[v2]
+Eu voi spune mereu:
+„Dumnezeu, pentru veci, ne-a unit cu iubirea Sa!”
+Îți promit: „Orice-ar fi,
+Lângă Tine mereu voi sta!”
+Eu voi spune mereu!
+
+[v3]
+Prețuiesc orice secundă,
+O minune e-orice zi!
+Spre viitor privesc
+Și cu sufletul zâmbesc.
+Ești tot ce îmi doresc!
+
+[c2]
+Eu voi spune mereu:
+„Te iubesc mai presus de cuvântul ce îl rostesc,
+Nu există ceva mai frumos
+Decât ce trăiesc!”
+Eu voi spune mereu!
+
+[b]
+Chiar de ploaia și norii
+Se-ntețesc și nu văd zorii,
+Mereu lângă Tine voi fi!

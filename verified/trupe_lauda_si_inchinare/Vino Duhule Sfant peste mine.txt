@@ -1,0 +1,12 @@
+[title]
+Vino, Duhule Sfânt, peste mine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nB5GBSviqGwxc5hmg3yujF}, contentHash: {58be47}}
+
+[sequence]
+v1
+
+[v1]
+Vino, Duhule Sfânt, peste mine,
+Atinge-Te de nevoile mele.
+Să curgă râul dragostei Tale
+În timp ce-mi plec genunchii,
+/: Vino, Duhule Sfânt, :/ (x3) peste mine!

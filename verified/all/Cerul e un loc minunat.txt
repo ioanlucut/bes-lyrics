@@ -1,0 +1,11 @@
+[title]
+Cerul e un loc minunat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7MXHCtA3NZnjVdsRBQMbrU}, contentHash: {d3e63b}}
+
+[sequence]
+c
+
+[c]
+/: Cerul e un loc minunat,
+Plin de har și slavă.
+Vreau să-L văd pe Domnul meu,
+Cerul e un loc minunat! :/

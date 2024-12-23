@@ -1,0 +1,30 @@
+[title]
+Pe Calvar eu am aflat o salvare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {8663ea}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5
+
+[v1]
+Pe Calvar eu am aflat o salvare,
+Fii lăudat, o, Doamne!
+
+[c]
+/: Jertfa Ta, Isuse, :/
+E balsam vindecător!
+Spală-mă, o, Doamne, în al Tău izvor. :/
+
+[v2]
+Prea mulți ani am petrecut din viața mea
+Sub păcat, povară grea!
+
+[v3]
+Singur rătăceam pierdut pe drumul greu,
+Străin fără Dumnezeu!
+
+[v4]
+Dar Isus văzându-mi starea mea de plâns,
+La pieptul Lui m-a adus!
+
+[v5]
+Și-acum, iată, de Isus sunt mântuit,
+Pe-a Lui braț sunt fericit!

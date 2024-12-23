@@ -1,0 +1,57 @@
+[title]
+Dacă-ți spune cineva {alternative: {*}, composer: {Simida și Dina}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2758}, id: {1fipPgqeZ5aMuGY2ZmBv4N}, contentHash: {168802}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+Dacă-ți spune cineva
+Că ești steaua căzătoare din amurg,
+Pe aripi de vânt purtată ca un fulg,
+Că ești doar o licărire în infinit,
+Tu să îi spui numai atât, că a greșit.
+
+[v1.2]
+/: Tu ești tot ce va să fie,
+Infinit și veșnicie,
+Tu ești tot ce-i sus și jos,
+Căci ești din Isus Hristos. :/
+
+[v2.1]
+Dacă-ți spune cineva
+Că ți-e umbletul aiurea pe poteci
+Și că viața ta nu știi să ți-o petreci
+Și că totul pentru tine s-a sfârșit,
+Tu să-i spui numai atât, că a greșit.
+
+[v2.2]
+/: Bucuria cea mai sfântă,
+Nu zdrobește, nu frământă,
+Iar când ai privirea sus
+Ești în harul lui Isus. :/
+
+[v3.1]
+Dacă-ți spune cineva
+C-ai pierdut o lume-ntreagă de mici,
+Că acuma fug de tine mari și mici
+Și oriunde, pas cu pas, ești ocolit,
+Tu să îi spui numai atât, că a greșit.
+
+[v3.2]
+/: Ai pierdut amici o mie,
+Dar câștigi o veșnicie,
+Dar din toate mai presus,
+Îl ai prieten pe Isus. :/
+
+[v4.1]
+Dacă-ți spune cineva
+Că într-o carte sfântă numele ți-e scris,
+Că un loc ți-e pregătit în Paradis
+Ca răsplată pentru tot ce-ai suferit,
+Tu să știi că Domnul Isus ți-a vorbit.
+
+[v4.2]
+/: Nu te confunda cu lumea
+Tu ești sensul, rațiunea,
+Pentru care astăzi ție,
+Ți s-a dat o veșnicie. :/

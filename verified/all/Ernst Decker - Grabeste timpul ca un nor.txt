@@ -1,0 +1,30 @@
+[title]
+Grăbește timpul ca un nor {alternative: {*}, composer: {Ernst Decker}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3254}, id: {b2tS8KXJX9wf2FsdeoRgXK}, contentHash: {188edc}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Grăbește timpul, ca un nor,
+De nimeni nu-i oprit
+Și anii tăi se duc în zbor,
+Se duc în infinit!
+
+[c]
+/: În grabă trece viața ta
+Și ziua ta s-a dus.
+O, vino azi, în plină zi,
+La crucea lui Isus,
+La crucea lui Isus! :/
+
+[v2]
+Pe-acest pământ ești călător,
+Nimic nu e al tău,
+De aceea-ți spun: fii treaz mereu,
+Fii treaz și vegheator!
+
+[v3]
+Te-ntreb dar, suflete iubit,
+Suflet ce rătăcești,
+Pe tine cum te va găsi
+Mirele nost’ ceresc?

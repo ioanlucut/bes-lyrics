@@ -1,0 +1,29 @@
+[title]
+Haideți să cântăm {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4933}, id: {sRNJvBcsfubQFZLeb3DvWP}, contentHash: {dd6962}}
+
+[sequence]
+c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
+
+[c1.1]
+Haideți să cântăm cu veselie Domnului
+Și să strigăm de bucurie
+Către Stânca mântuirii noastre,
+Înaintea Lui să mergem toți cu laude.
+
+[c1.2]
+Cântați-I cântece,
+Cântați-I cântece,
+Cântați-I cântece,
+O, în cinstea Lui.
+
+[v1]
+Domnul este un mare Împărat,
+Marea și uscatul le-a creat.
+Domnul este-un mare Dumnezeu,
+Lui mă-nchin, e Creatorul meu.
+
+[v2]
+Să ne-nchinăm, să ne smerim,
+Să plecăm genunchii, să-L slăvim.
+Noi suntem poporul Domnului,
+Nu putem fi smulși din mâna Lui.

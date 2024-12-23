@@ -1,0 +1,23 @@
+[title]
+Eu numai în Tine mă-ncred {alternative: {*}, composer: {Mariana Someșan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xnemcp2bN2BRjLQTJGM1Ja}, contentHash: {6e94b9}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Eu numai în Tine mă-ncred, eu numai pe Tine Te-aștept,
+O, vino Isuse iubit și mă-mbracă, cum mi-ai promis!
+/: Căci fără de Tine, Isus, eu nu pot să fac niciun pas,
+Te chem, Te aștept și Te rog să umpli deplin al meu vas! :/
+
+[v2]
+Eu numai spre Tine privesc, căci omul e-așa schimbător,
+Și chiar dacă toate-ar pieri, Cuvântu-Ți e nemuritor.
+/: Căci fără de Tine, Isus, nimic n-ar trăi pe pământ,
+Te chem, Te aștept și Te rog, mă umple cu focul Tău sfânt! :/
+
+[v3]
+Eu numai prin Tine exist, eu numai prin Tine am rost,
+Eu numai prin Tine trăiesc și numai pe Tin’ Te doresc!
+/: O, numai Tu poți ridica ca lutul onoare să-Ți dea,
+O, numai Tu poți vindeca și slava în veci e a Ta! :/

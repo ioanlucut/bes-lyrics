@@ -1,0 +1,29 @@
+[title]
+Dacă-ntr-o tainică vreme {alternative: {*}, composer: {Costache Ioanid}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58060}, id: {8u2EuVSdmdkMHRHR8tG7iS}, contentHash: {7fcc0a}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Dacă-ntr-o tainică vreme,
+Din lut Cineva mă făcu
+/: Și dacă sunt om și nu vierme
+O, Doamne, așa ai vrut Tu! :/
+
+[v2]
+Dacă am grai și nu muget
+Să spun ce iubesc și ce nu
+/: Și dacă am harul să cuget
+O, Doamne, așa ai vrut Tu! :/
+
+[v3]
+Dacă m-ai scos din neghină,
+Nu viața-mi urâtă-Ți plăcu,
+/: Nu eu am vrut iarăși lumina
+O, Doamne, ci Tu, numai Tu! :/
+
+[v4]
+Dacă voi merge odată
+La Cel ce din duh mă născu,
+/: Voi spune de-a pururea „Tată,
+Te laud, c-așa ai vrut Tu!” :/

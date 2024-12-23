@@ -1,0 +1,17 @@
+[title]
+Hai, e timpul de-nchinare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8NmnBxw6r8DejyVsNxxBq8}, contentHash: {297050}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Hai, e timpul de-nchinare!
+Hai, e timpul să-I dai inima!
+Hai, să cânte fiecare!
+Hai, așa cum ești, cu starea ta, hai!
+
+[c]
+/: Vine-o zi când toți se vor închina,
+Vine-o zi când toți vor cânta,
+Toți copiii Tăi o comoară vor primi,
+Din mâna Ta. :/

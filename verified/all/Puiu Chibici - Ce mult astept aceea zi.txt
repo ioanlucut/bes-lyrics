@@ -1,0 +1,49 @@
+[title]
+Ce mult aștept aceea zi {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6974}, id: {ngKTit8E3pSRzhsPUukkgH}, contentHash: {5f6f9f}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Ce mult aștept aceea zi
+Când Tu din slavă vei veni,
+/: Cu Tine, Doamne-n veci să fim
+Și să nu ne mai despărțim,
+Și să nu ne mai despărțim. :/
+
+[v2]
+Să ne-ntâlnim cu toții-n nor,
+Împreună frați și surori.
+/: Și să zburăm spre veșnicii
+Către eterne bucurii,
+Către eterne bucurii. :/
+
+[v3]
+O, Doamne-adu acei zori,
+Acele veșnice splendori.
+/: Aceea zi noi o dorim
+Și de departe o zărim,
+Și de departe o zărim. :/
+
+[v4]
+Ajută-ne în încercări,
+Stai lângă noi în întristări,
+/: Să ne păstrăm, Doamne, curați,
+Până la cer vom fi luați,
+Până la cer vom fi luați. :/
+
+[v5]
+Ierusalim, oraș ceresc,
+Locaș preasfânt, dumnezeiesc,
+Îmi arde doru-aprins în piept
+/: De câtă vreme Te aștept. :/
+Mi-așa de dor, mi-așa de dor,
+/: Spre Tine-odată vreau să zbor. :/
+
+[v6]
+Aș vrea să zbor spre-acele zări,
+Să uit de lacrimi și dureri,
+În strălucirea de nespus,
+/: Unde-mpărat va fi Isus, :/
+Cu Daniel, cu Avraam,
+/: Cântând în noul Canaan. :/

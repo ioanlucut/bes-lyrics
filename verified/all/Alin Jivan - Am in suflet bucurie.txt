@@ -1,0 +1,29 @@
+[title]
+Am în suflet bucurie {alternative: {*}, composer: {Alin Jivan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {hMpSL4miHdQEcnJd4EskB8}, contentHash: {89a1e3}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+Am în suflet bucurie că în lumea mea de jos
+A venit din veșnicie Pruncul sfânt, Isus Hristos!
+Am în inimă și pace și lumină în noaptea grea:
+Domnul slavei, din mărire S-a întrupat!
+
+[v1]
+O stea răsare, lumină mare,
+Magii de la Răsărit să-L găsească au pornit.
+E sărbătoare, ce veste mare:
+Într-o iesle S-a născut Emanuel!
+
+[v2]
+Înger apare, păstori, în zare:
+Nu vă temeți de nimic, Salvatorul a venit!
+Și-apoi, deodată, oastea cerească
+Cântă slavă, sus în cer, lui Dumnezeu.
+
+[v3]
+Nu sunt doar magii, nu doar păstorii,
+Astăzi toți ne ridicăm pe Isus să-L lăudăm.
+El, Salvatorul, Mântuitorul
+Și pe noi ne-a mântuit, ne-a izbăvit.

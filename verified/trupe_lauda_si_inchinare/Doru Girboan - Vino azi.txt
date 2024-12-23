@@ -1,0 +1,33 @@
+[title]
+Vino azi {alternative: {*}, composer: {Doru Girboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nuzj9m9Fax2ZHDRgPF4VP7}, contentHash: {8ac85b}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Oare câtă vreme vrei să rătăcești
+Până când chemarea Lui nesocotești?
+Și pentru tine Domnul Isus a murit
+A suferit căci te-a iubit.
+
+[c]
+/: Vino azi, vino azi,
+Vino că Domnul te-așteaptă
+Să-ți dea mântuire.
+Vino azi, vino azi,
+Vino că Domnul te-așteaptă
+Și azi cu iubire. :/
+
+[v2]
+Vino azi la Domnul, nu mai amâna,
+Că mâine nu știi dacă viață vei avea.
+Îngenunchează azi smerit l-al Său altar
+Cât mai e har, cât mai e har.
+
+[b]
+Și-aș vrea să-ți amintesc că Isus
+Curând va reveni
+Și pe-ai Săi copii la cer îi va răpi.
+N-ai vrea și tu ca-n ziua aceea
+Spre ceruri să zbori
+Mai sus de nori, mai sus de nori?

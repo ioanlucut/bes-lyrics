@@ -1,0 +1,62 @@
+[title]
+Cred în Salvatorul și Eu cred în El {alternative: {*}, composer: {Alin Timofte și Alin & Florina Jivan}, writer: {Alin Timofte și Alin & Florina Jivan}, arranger: {Marian Fedur}, interpreter: {corul evanghelic Laudate Dominum}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {iZuqRyQivHEYpkFhT4SEfx}, contentHash: {067695}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c2.1,c2.2,c2.3,v3,v4,e
+
+[v1]
+Tu mijlocești Isuse pentru mine,
+Cu sânge sfânt ai șters păcatul meu.
+Dragostea Ta m-a cucerit, m-a ridicat, m-a mântuit,
+Prin jertfa Ta viață mi-ai dat,
+Moartea-i învinsă, sunt salvat!
+
+[c1.1]
+Da, eu cred în Tine, Doamne, cred în Cel ce-i viața,
+În mântuirea Ta și-n adevărul Tău!
+Cred că ești Mesia, Domnul veșniciei,
+Ești Împăratul meu, Fiul lui Dumnezeu.
+
+[c1.2]
+/: Vrednic ești de laudă și închinare,
+Vrednic de cinste, Regele meu! :/
+
+[v2]
+Inima Ta mai bate pentru mine
+Și harul Tău îmi este îndeajuns!
+Când sunt căzut, Tu mă ridici,
+Pe brațul Tău sunt fericit!
+Mă copleșești cu bucurii, cu dor de cer, de veșnicii!
+
+[c2.1]
+Da, eu cred în Tine, Doamne, cred în Cel ce-i viața,
+În mântuirea Ta și-n adevărul Tău!
+Cred că ești Mesia, Domnul veșniciei,
+Ești Împăratul meu, Fiul lui Dumnezeu.
+
+[c2.2]
+Cred în Tine, Doamne, cred în Cel ce-i viața,
+În mântuirea Ta și-n adevărul Tău!
+Cred că ești Mesia, Domnul veșniciei,
+Ești Împăratul meu, Fiul lui Dumnezeu.
+
+[c2.3]
+Vrednic ești de laudă și închinare,
+Vrednic de cinste, Regele meu!
+Vrednic ești de laudă și închinare,
+Vrednic de cinste, Regele meu,
+Regele meu!
+
+[v3]
+/: Eu cred în El orice ar fi,
+Eu cred și sper că vine o zi
+Când voi fi cu El, cu El în veșnicii. :/
+
+[v4]
+Eu cred în El orice-ar veni,
+Eu cred și sper că vine o zi
+Când voi fi cu El, cu El în veșnicii.
+
+[e]
+Vrednic ești de cinste și închinare, vrednic,
+Vrednic de cinste, Regele meu!

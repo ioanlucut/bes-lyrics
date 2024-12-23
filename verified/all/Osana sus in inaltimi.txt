@@ -1,0 +1,25 @@
+[title]
+Osana, sus în înălțimi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {j2genXiGKFHDTdC4XgzhgR}, contentHash: {dcefd8}}
+
+[sequence]
+c,v1,c2,v2
+
+[c]
+/: Osana, osana,
+Osana, sus în înălțimi! :/
+
+[v1]
+Doamne, noi Te slăvim
+Și din inimi cântăm,
+Fii slăvit, Domnul meu cel bun,
+Osana, sus în înălțimi!
+
+[c2]
+Glorie, glorie,
+Glorie, Regelui regilor!
+
+[v2]
+Tu ești Rege și Domn,
+În putere domnești,
+Slava Ta se va descoperi,
+Glorie, Regelui regilor!

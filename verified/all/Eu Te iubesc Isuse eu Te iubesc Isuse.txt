@@ -1,0 +1,23 @@
+[title]
+Eu Te iubesc, Isuse, eu Te iubesc, Isuse {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {215585}, id: {bRsSDyrDiAqf7yWNUscL4N}, contentHash: {863681}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Eu Te iubesc, Isuse, eu Te iubesc, Isuse,
+Eu Te iubesc, Isuse drag, din inimă! :/
+/: Din inimă, din inimă,
+Eu Te iubesc, Isuse drag, din inimă! :/
+
+[v2]
+/: Te proslăvesc, Isuse, Te proslăvesc, Isuse,
+Te proslăvesc, Isuse drag din inimă! :/
+/: Din inimă, din inimă,
+Te proslăvesc, Isuse drag, din inimă! :/
+
+[v3]
+/: Îți mulțumesc, Isuse, Îți mulțumesc, Isuse,
+Îți mulțumesc, Isuse drag, din inimă! :/
+/: Din inimă, din inimă,
+Îți mulțumesc, Isuse drag, din inimă! :/

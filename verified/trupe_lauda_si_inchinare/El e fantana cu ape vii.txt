@@ -1,0 +1,35 @@
+[title]
+El e fântâna cu ape vii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {779}, id: {g6rKgAweS9xZu4b9fUYUS8}, contentHash: {4a4d51}}
+
+[sequence]
+c,v1.1,v1.2,c,v2,c,v3,c
+
+[v1.1]
+Astăzi cânt voios că Dumnezeu
+E Stăpânul vieții mele, El e Domnul meu!
+Cine pe pământ, cine-n ceruri sus e ca Domnul meu,
+E ca Domnul meu, Isus?
+
+[v1.2]
+Fără El, flămând și însetat,
+Rătăceam în lumea largă, neajutorat,
+Dar când m-a găsit, El m-a săturat
+Și mi-a dat să beau, El mi-a dat să beau, din harul Său.
+
+[c]
+El e fântâna cu ape vii,
+Nimic în lume nu-L poate-nlocui,
+Stânca de veacuri, Păstorul meu,
+Râul vieții, de-a pururi Dumnezeu!
+
+[v2]
+O, ce fericit sunt cu Domnul meu,
+Nicăieri în lume nu-i altul ca și El!
+El e mai de preț decât tot ce am,
+El e slava mea, e comoara mea în veci!
+
+[v3]
+Chiar de n-ar mai fi râuri pe pământ,
+El e râul vieții mele, limpede și sfânt.
+Niciodată El nu va seca
+Și voi bea din El, eu voi bea din El mereu!

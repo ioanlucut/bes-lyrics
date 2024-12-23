@@ -1,0 +1,24 @@
+[title]
+Isus, eu Te iubesc mai mult {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5136}, id: {8EopjdjBGpZS5shB3LiqNr}, contentHash: {3c5e6f}}
+
+[sequence]
+v1,p,c,e
+
+[v1]
+Isuse, Te iubesc mai mult
+Decât iubesc orice pe-acest pământ.
+Ești tot ce-mi doresc și toată viața mea Ți-o-nchin,
+Cu tot ce sunt pe Tine Te slăvesc, eu Te slăvesc.
+
+[p]
+Și îngerii Te adoră, copiii Tăi Te laudă.
+
+[c]
+/: Ești tot ce am, ești Domnul meu,
+Mă-ncredințez în brațul Tău,
+Ești Domnul meu, ești Tatăl meu,
+Tu nu poți fi înlocuit. :/
+
+[e]
+Doar Tu ești Dumnezeu și veșnic Te voi lăuda,
+Doar Tu ești Domnul meu și gloria Ta o voi cânta!

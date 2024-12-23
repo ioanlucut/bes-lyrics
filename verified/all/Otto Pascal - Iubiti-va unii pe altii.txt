@@ -1,0 +1,28 @@
+[title]
+Iubiți-vă unii pe alții {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {179563}, id: {8uPTwWTx9FFTfa7EMaGiLX}, contentHash: {38650e}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+Doamne, iartă-mi vina, prin nepăsarea mea
+N-am iubit pe semeni așa cum ne-ai iubit Tu,
+În goana mea pe-acest pământ n-am vegheat și m-am pierdut,
+Sunt un bulgăre de lut...
+
+[b]
+Iată o poruncă nouă: să vă iubiți!
+El ne-a dat poruncă sfântă:
+Iubiți-vă unii pe alții!
+
+[c]
+Ce fericire sublimă am trăi,
+Ca-n loc de război să ne iubim
+Și-n locul cuvintelor care-adânc rănesc,
+Să spunem un sincer: te iubesc!
+
+[v2]
+Când un prieten cade sub povara grea,
+Nu-l privi cu silă, nu-l descuraja,
+Ci mai degrabă îmbracă haina de samaritean milos,
+Ca să fii cum e Hristos!

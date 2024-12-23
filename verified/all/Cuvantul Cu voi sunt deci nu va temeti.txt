@@ -1,0 +1,28 @@
+[title]
+Cuvântul: „Cu voi sunt, deci nu vă temeți!” {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4589}, id: {1Ae1WQxTppjaRN4cUi5xXc}, contentHash: {5a1d60}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cuvântul: „Cu voi sunt, deci nu vă temeți!”
+Luminează-mi calea acestei vieți.
+El prin nori ca raza ne străbate-așa.
+Mă bucură vocea-I: „În veci nu te voi lăsa!”
+
+[c]
+Eu nu te-oi lăsa, Eu nu te-oi lăsa,
+Așa mi-a promis mie:
+„În veci nu te voi lăsa!”
+
+[v2]
+Floarea veștejește, mirosul ei pierzând,
+Pot să treacă toate, dar Isus nicicând!
+Căci Mântuitorul, veșnic e al meu
+Și întotdeauna mă ține-n harul Său!
+
+[v3]
+Când a mea cărare se va-ntuneca,
+El va grăi dulce: „Nu te-nfricoșa!”
+Iar odată-n ceruri, când Îl voi vedea
+Plin de bucurie, cu El voi cânta.

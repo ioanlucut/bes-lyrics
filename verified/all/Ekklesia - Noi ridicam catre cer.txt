@@ -1,0 +1,24 @@
+[title]
+Noi ridicăm către cer {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7190}, id: {wJHcvPe267hJbNDKuMQAfZ}, contentHash: {d1adc7}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Noi ridicăm către cer mâini curate spre singurul Miel,
+Numai El e-un Domn minunat, ce bun, ce mare e!
+Și-mpreună cântăm:
+
+[c]
+/: Sfânt e Dumnezeu, Domn peste toate,
+Întreg pământul Îl laudă. :/
+
+[v2]
+Noi ridicăm către cer mâini curate spre singurul Miel
+Numai El e-un Domn minunat, ce bun, ce mare e!
+Și-mpreună cântăm, cu toții cântăm.
+
+[v3]
+Și se-nalță acum tot mai sus,
+E un imn ceresc spre gloria Lui.
+Și-mpreună cântăm, cu toții cântăm.

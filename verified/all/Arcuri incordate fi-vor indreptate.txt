@@ -1,0 +1,29 @@
+[title]
+Arcuri încordate fi-vor îndreptate {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4828}, id: {6i4SgWR3ePHXa5kAwxwN9S}, contentHash: {0ee3c4}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Arcuri încordate fi-vor îndreptate,
+Vârfuri ascuțite, nu mă tem.
+Piedici, bariere, nu, nu au putere
+Când pe Domnul Isus eu Îl chem.
+
+[c]
+/: Credincioasă slugă, mă aplec în rugă
+Și Îl chem în ajutor mereu
+Și de orișiunde, Domnul îmi răspunde,
+Căci El e același Dumnezeu. :/
+
+[v2]
+Piedici pe cărare știu că vor apare,
+Dar de Domnul Isus nu mă las.
+El îmi dă putere, har și mângâiere
+Și mă întărește pas cu pas.
+
+[v3]
+Zile înnorate nu mă vor abate
+De la ținta veșniciilor.
+Ploaie și furtună, toate împreună
+Le înfrunt cu-al meu Mântuitor.

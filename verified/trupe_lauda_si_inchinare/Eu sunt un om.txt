@@ -1,0 +1,28 @@
+[title]
+Eu sunt un om {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3170}, id: {twmdLkvMxLAij8dp9CCwUY}, contentHash: {29928a}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Eu sunt un om, sunt doar un om.
+Ajută-mi, Te rog,
+Să cred mai mult ce pot a fi!
+Să cred mai mult în al meu Domn!
+Ajută-mă să Te slujesc timp de o zi!
+
+[c]
+/: Un timp de o zi, Isuse,
+Atât este tot ce-mi doresc.
+O, dă-mi Tu puteri,
+Ce-am de făcut să-nfăptuiesc!
+Căci mâine nu știu, Isuse,
+Dacă va mai fi înc-o zi,
+Nu știu timpul când viața mea se va sfârși. :/
+
+[v2]
+Îți amintești când pe pământ
+Cu oameni umblai
+Și le vorbeai prin Duhul Sfânt.
+O, vin’ și azi, prezent să fii
+Să ne vorbești prin Duhul Tău timp de o zi.

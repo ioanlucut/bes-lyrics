@@ -1,0 +1,27 @@
+[title]
+Eu și casa mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rxpvUYe886fqsVnqartWsf}, contentHash: {f4c134}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,b,c
+
+[v1.1]
+Da, eu și casa mea vom sluji Domnului
+Și Îl vom lăuda prin cântec.
+
+[v1.2]
+Nu vom mai sluji dumnezeilor străini.
+Te vom înălța, Doamne, doar pe Tin’.
+
+[c]
+Tu ești sfânt, sfânt, nu e nimeni ca Tin’,
+Tu ești sfânt, sfânt în veci, nu e nimeni ca Tin’!
+
+[v2.1]
+Da, eu și casa mea ne vom închina Dumnezeului Atotputernic.
+
+[v2.2]
+Cu inimi curățitem, mâini vom ridica
+Și vom proclama în veci, domnia Ta!
+
+[b]
+/: Alege azi cui vei sluji! :/

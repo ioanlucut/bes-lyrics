@@ -1,0 +1,17 @@
+[title]
+O, ce veste minunată {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {II}, genre: {*}, rcId: {4956}, id: {1DMwAD17L2hzp3dNAXPJNM}, contentHash: {79dde9}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+O, ce veste minunată în Betleem ni se-arată.
+/: Cerul strălucea, îngerii veneau pe-o rază curată. :/
+
+[v2]
+Păstorilor din câmpie le vestește-o bucurie:
+Că-ntr-un mic lăcaș,lângă-acel oraș S-a născut Mesia.
+
+[v3]
+În coliba păstorească, vrut-a Domnul să Se nască
+/: Să Se nască și să crească, să ne mântuiască. :/

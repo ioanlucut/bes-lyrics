@@ -1,0 +1,39 @@
+[title]
+El este Domn și din ceruri domnește {alternative: {*}, composer: {Excelsis Worship}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4913}, id: {qQLkUUhK6kZfz4aQnZpuN1}, contentHash: {b65f25}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c2
+
+[v1.1]
+El este Domn și din ceruri domnește,
+El este Domn!
+Lumina-i creată când El poruncește,
+El este Domn!
+
+[v1.2]
+Și cine-I ca El, n-are capăt la zile,
+El este Domn!
+El vine-n putere când chemi al Său Nume,
+El este Domn!
+
+[c]
+/: Arată-Ți puterea, o, Domnul meu,
+Arată-Ți puterea, o, Domnul meu, :/
+O, Domnul meu.
+
+[v2.1]
+Cuvântul Tău e speranță în lume,
+Ești Dumnezeu!
+Prin a Ta putere avem mântuire,
+Ești Dumnezeu!
+
+[v2.2]
+Nu-Ți cerem avere, privim dar la cruce,
+Ești Dumnezeu!
+Pe cei păcătoși înainte-Ți aducem,
+Ești Dumnezeu!
+
+[c2]
+/: Trimite-Ți puterea, o, Domnul meu,
+Trimite-Ți puterea, o, Domnul meu, :/
+O, Domnul meu.

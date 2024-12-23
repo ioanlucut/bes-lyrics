@@ -1,0 +1,35 @@
+[title]
+Puternicul lui Israel {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112852}, id: {qg9pN5yuZDQ3BCW64zA7Ff}, contentHash: {27f9e6}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când toți vor auzi vocea Lui în văzduh,
+Un cânt în noapte va răsuna,
+Vino la muntele Lui sfânt
+Ca să vezi puterea Sa!
+
+[c]
+E Puternicul lui Israel,
+Puternicul lui Israel!
+Din cer, vocea Sa măreț va răsuna,
+Puternicul lui Israel!
+
+[v2]
+Din beznă-n lumină cei orbi se vor trezi,
+Iar surzii vor auzi,
+Cei șchiopi vor sălta, în picioare vor sta,
+Cei muți într-un glas vor cânta.
+
+[v3]
+Când lumea va vedea frumusețea Domnului,
+Viața-n deșert va-nflori.
+Spuneți atunci celor care se tem:
+„Fiți tari și credeți Cuvântul Lui!”
+
+[v4]
+Când toți vor auzi vocea Lui în văzduh,
+Un cânt în noapte va răsuna.
+Vino la muntele Lui sfânt
+Ca să vezi puterea Sa!

@@ -1,0 +1,41 @@
+[title]
+Drept la țintă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {q29oCWtStYwxUmVCab64DM}, contentHash: {4985c9}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,b,c
+
+[v1.1]
+Dumnezeu e Creatorul,
+Sus în cer și pe pământ.
+La Cuvântul Său puternic
+Tot ce-a spus El s-a făcut.
+
+[v1.2]
+Doamne, vreau să fiu cum este scris:
+Drept, smerit și bun.
+Într-o lume rea cu Tin’ pășesc,
+Spre țintă alerg acum.
+
+[c]
+Vreau să uit ce-i-n urma mea,
+Alerg spre țintă pe calea Ta
+Cu Tine, Domnul meu,
+Eu vreau să fiu.
+
+[v2.1]
+Poate ești căzut și singur
+Și păcatul te-a lovit.
+Nu uita că în pustie
+Duh de viață poți primi.
+
+[v2.2]
+Prin Isus Hristos eu sunt acum
+Mai mult decât biruitor,
+Vrăjmașul meu de mult e-nfrânt
+Spre țintă alerg acum.
+
+[b]
+Cu Tine merg până la sfârșit,
+Cu Tine, Domnul meu.
+Prin Tine eu sunt desăvârșit,
+Spre cer alerg mereu.

@@ -1,0 +1,19 @@
+[title]
+Sunt fericit {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112820}, id: {cJkg7aq6hVdoDNAQYFSynT}, contentHash: {5bda63}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Sufletul mi-este frânt, sunt dezamăgit,
+De poveri și păcate istovit.
+Sunt o creangă uscată, ce rod n-a mai adus,
+Sunt doar o umbră fără Isus.
+
+[c]
+Sunt fericit că El mi-a dat,
+Bucurii de nevisat,
+Inima mi-a-nviorat, numai El.
+Cu bunătate m-a primit,
+M-așteptam să fiu lovit,
+M-a străpuns doar cu iubirea Sa.

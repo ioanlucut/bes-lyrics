@@ -1,0 +1,41 @@
+[title]
+Acel ce pururi are grijă {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5953}, id: {dSnn6EiqY6JY1ezkrcrDEN}, contentHash: {8ac512}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Acel ce pururi are grijă
+De orișicine-i în necaz,
+Îți numără și ție pașii
+Și lacrimile pe obraz.
+
+[c]
+Să nu-ți pierzi, la necaz, credința
+Și nici nădejdea când ți-e greu;
+Nici dragostea, când ești la bine,
+Că-n ele-L pierzi pe Dumnezeu!
+
+[v2]
+El știe cât să-ți lase lupta,
+De greutăți și de-ndoieli,
+La timp îți va trimite harul
+Prin care sufletul să-ți speli.
+
+[v3]
+El știe cât să-ți lase-n lume
+Viața-n bine să-ți răsfeți
+Și să ți-o ia când e să-ți piardă
+Comoara veșnicei vieți.
+
+[v4]
+El știe când e de mustrare
+Nevoie spre-ndreptarea ta
+El știe-n flacăra-ncercării,
+Cât poți să stai și când s-o ia.
+
+[v5]
+Să mulțumești de tot ce Domnul
+Îți dă-n viață de-orice fel,
+Pe El Îl ai când ai credința
+Nădejdea și iubirea-n El.

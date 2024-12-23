@@ -1,0 +1,26 @@
+[title]
+Te-am ales, Te-am ales {alternative: {*}, composer: {Diane Ball}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {858}, id: {obwjfnBdVLSE3ciCXy4B8L}, contentHash: {724734}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Te-am ales, Te-am ales,
+Dintre mii și mii de mii Te-am ales,
+Glasuri multe m-au strigat,
+Mâini întinse m-au chemat,
+Dar din toate ne-nțeles, Te-am ales.
+
+[v2]
+Te-am ales, Te-am ales,
+Dintre mii și mii de mii Te-am ales,
+Cum puteam să nu-Ți răspund,
+Cum puteam să mă ascund,
+Când pe cruce ne-nțeles, m-ai ales.
+
+[v3]
+M-ai ales, m-ai ales,
+Dintre mii și mii de mii m-ai ales,
+Vreau să-Ți mulțumesc deplin,
+Pentru harul Tău divin,
+Căci iubirea-am înțeles, Te-am ales.

@@ -1,0 +1,27 @@
+[title]
+Nu la întâmplare sunt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1500}, id: {kCA4Qj184DT9R6o66zYu3i}, contentHash: {065506}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Nu la întâmplare sunt,
+Domnul m-a creat. :/
+
+[c]
+/: Eu sunt cu voi în orice zi,
+Eu sunt cu voi în orice zi,
+Eu sunt cu voi în orice zi,
+A spus Isus! :/
+
+[v2]
+/: Nici puterea lumii-ntregi
+Nu-mi dă-acest sprijin. :/
+
+[v3]
+/: De aceea cânt voios
+Ca să știe toți. :/
+
+[v4]
+/: Singur, trist și părăsit,
+Nu vreau să mai fiu. :/

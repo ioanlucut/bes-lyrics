@@ -1,0 +1,40 @@
+[title]
+Neprihănită dragoste dintâi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4006}, id: {3pWYV1JiCfEucmbbe21QMa}, contentHash: {a6c6be}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Neprihănită dragoste dintâi,
+Eu nu pot fără tine!
+/: Nu pot iubi, nu pot răbda,
+Nu pot cunoaște pacea ta,
+De nu rămâi în mine. :/
+
+[v2]
+Neprihănită dragoste dintâi,
+Iubirea ta mă ține
+/: M-am depărtat, m-am rătăcit
+Din clipa când te-am părăsit,
+Dar azi mă-ntorc la tine. :/
+
+[v3]
+Neprihănită dragoste dintâi,
+Ce dor de tin’ mă leagă.
+/: Te chem, cu plânsul meu amar,
+Mai vino iar cu sfântu-ți har,
+Cuprinde-mi viața-ntreagă. :/
+
+[v4]
+Neprihănită dragoste dintâi,
+Eu nu găsesc în mine
+/: Putere să pot suferi,
+Iertare să pot dărui,
+Nimic sunt fără tine. :/
+
+[v5]
+Neprihănită dragoste dintâi,
+Cu lacrimi de căință,
+/: Cu-ntregul dor, cu-ntregul gând,
+M-aplec în fața Ta plângând,
+Mă-nchin cu umilință. :/

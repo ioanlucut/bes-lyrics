@@ -1,0 +1,19 @@
+[title]
+Du-mă, Doamne, în sfânta-Ți prezență {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74552}, id: {mR5nHW5434NSej1kJfNHSn}, contentHash: {5fb5af}}
+
+[sequence]
+v1,v2
+
+[v1]
+Du-mă, Doamne, în sfânta-Ți prezență,
+Du-mă, Doamne, prin sângele sfânt,
+Du-mă, Doamne, în sfânta-Ți prezență.
+/: Ia cărbunele, atinge-mi buzele,
+Iartă-mă! :/
+
+[v2]
+Tu ești sfânt, sfânt, sfânt și-atotputernic,
+Înaintea Ta, Doamne, mă-nchin,
+Tu ești sfânt, sfânt, sfânt și-atotputernic.
+/: Doamne, iartă-mă, Te rog, primește-mă,
+Iartă-mă! :/

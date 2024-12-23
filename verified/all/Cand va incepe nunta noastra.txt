@@ -1,0 +1,47 @@
+[title]
+Când va începe nunta noastră {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2142}, id: {6HNXvJRZSakZBigryPzoXT}, contentHash: {448d9f}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Când va începe nunta noastră,
+În dimineața fără nori,
+O, când va-ncepe nunta noastră,
+Pe-ntreaga-ntindere albastră
+/: Vor fi lumină și splendori. :/
+
+[v2]
+Când fața Ta strălucitoare,
+Isuse drag, se va ivi,
+De fața Ta strălucitoare,
+S-or stinge stele, lună, soare,
+/: Lumina Ta le-ar copleși. :/
+
+[v3]
+Noi, îmbrăcați în alb și soare,
+Uimiți de cerul Tău slăvit,
+Străluminați de-un veșnic Soare,
+Cântând, Ți-om pune la picioare,
+/: Cununa harului primit. :/
+
+[v4]
+Când vom zbura spre cer, Isuse,
+Aleșii Tăi de pe pământ,
+Când sus în ceruri, o, Isuse,
+Vom sta în slăvile nespuse
+/: La masa Ta, o, Mire sfânt. :/
+
+[v5]
+Ah, bucuriile-ntâlnirii
+Ce-n suflet, Doamne, vom simți,
+Ca bucuriile-ntâlnirii
+Și fericirea fericirii,
+/: N-au fost și nici nu vor mai fi. :/
+
+[v6]
+O, adu clipa așteptată
+Când vom pluti, strălucitori,
+Adu-ntâlnirea așteptată
+Și nunta noastră minunată,
+/: Din dimineața fără nori. :/

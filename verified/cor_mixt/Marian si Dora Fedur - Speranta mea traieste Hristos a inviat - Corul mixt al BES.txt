@@ -1,0 +1,29 @@
+[title]
+Speranța mea trăiește, Hristos a înviat {alternative: {*}, composer: {Marian și Dora Fedur}, writer: {Marian și Dora Fedur}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {kh8RSve9px8f4AWeJAavif}, contentHash: {8c16d4}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Speranța mea trăiește, Hristos a înviat,
+A biruit mormântul, de moarte ne-a scăpat!
+E viu pentru vecie, înfrânt e iadu-ntreg,
+Ca noi s-avem viața a-nviat!
+
+[v2]
+Speranța mea trăiește, cu cerul vă uniți,
+Strigați de bucurie, pe Domnul preamăriți!
+Înfrânt e boldul morții, pe veci El ne-a salvat,
+Dați tuturor de veste: Hristos a înviat!
+A-nviat, a-nviat
+
+[c]
+Biruitorul morții, Hristos a înviat, a-nviat, a-nviat!
+Speranța mea trăiește, a-nviat, a-nviat!
+
+[v3]
+Speranța mea trăiește, vom fi schimbați și noi
+În trupuri noi de slavă, în ziua de apoi!
+Iar morții din morminte cu toți vor învia,
+Strigați de bucurie, viața-a triumfat!
+A-nviat, a-nviat!

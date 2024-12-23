@@ -1,0 +1,29 @@
+[title]
+La Golgota, pe cruce, profund îndurerat {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1aVANdHFVWkMsvtLiRGrto}, contentHash: {5bc3de}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+La Golgota, pe cruce, profund îndurerat,
+Răbda Mântuitorul pentru al meu păcat.
+Întreaga noastră vină s-a șters prin crucea Sa,
+O, ce iubire mare cuprinde jertfa Sa!
+
+[c]
+/: La cruce, eu găsit-am alinare,
+Prin Golgota, eu am primit iertare.
+Isus muri, pe lemn crucificat,
+Ca să mă scape de al meu păcat. :/
+
+[v2]
+Prin jertfa Ta, Isuse, Tu ai răscumpărat
+Întreaga omenire de vechiul ei păcat.
+Iubirea Ta nespusă cuprinde viața mea,
+Căci pentru-a-mele greșuri Tu ai purtat crucea.
+
+[v3]
+Drumul înspre Golgota e-un drum înlăcrimat,
+E drumul unde Isus mergea înconjurat
+De cetele barbare, la moarte condamnat,
+El, Mielul fără vină, spre-a fi crucificat.

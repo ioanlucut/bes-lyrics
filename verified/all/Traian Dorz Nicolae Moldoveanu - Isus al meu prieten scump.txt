@@ -1,0 +1,35 @@
+[title]
+Isus, al meu prieten scump {alternative: {*}, composer: {Traian Dorz Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1805}, id: {4PJhXj3Y36XhCWhkYB4SRJ}, contentHash: {18e979}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Isus, al meu prieten scump
+Din zorii tinereții,
+/: Cu Tine eu călătoresc
+Pân’ la sfârșitul vieții. :/
+
+[v2]
+Din zori de zi, când mă trezesc,
+Smerit m-aplec sub cruce,
+/: Că-n toată lumea asta n-am
+Un scut mai bun și dulce. :/
+
+[v3]
+Când merg pe-un drum îndepărtat,
+Isuse, ești cu mine,
+/: Să-mi fie drumul cât de greu,
+E-așa ușor cu Tine! :/
+
+[v4]
+Când am de suferit un chin
+Tu, Doamne-mi dai putere
+/: Să-mi fie-amarul cât de greu
+Îmi ești Tu mângâiere. :/
+
+[v5]
+Tu ești comoara care-ai fost
+De mine mult căutată.
+/: Și-acum eu nu Te-aș mai lăsa
+Nici pentru lumea toată. :/

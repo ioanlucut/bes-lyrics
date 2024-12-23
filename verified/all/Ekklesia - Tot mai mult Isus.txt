@@ -1,0 +1,17 @@
+[title]
+Tot mai mult, Isus {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4159}, id: {jRRMk1VDWE3YnAuyDsofR6}, contentHash: {48c0be}}
+
+[sequence]
+v1,c,v1,c,c
+
+[v1]
+/: Tot mai mult, Isus, tot mai mult,
+Voia Ta s-o-mplinesc tot mai mult,
+Tot mai mult să-nțeleg ce-mi vorbești,
+Voia Ta s-o-mplinesc, Isus, tot mai mult. :/
+
+[c]
+/: Tu ești al meu Domn și Împărat
+Și pentru mine viața Tu Ți-ai dat
+Ca să-Ți slujesc și să-Ți cânt în veci,
+Doamne, tot mai mult! :/

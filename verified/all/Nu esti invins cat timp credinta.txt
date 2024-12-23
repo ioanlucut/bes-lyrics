@@ -1,0 +1,29 @@
+[title]
+Nu ești învins cât timp credința {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ehDGMi8pWkGPidRddgDZp6}, contentHash: {e3ff80}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Nu ești învins cât timp credința
+Nu ți-ai pierdut și nu s-a stins,
+Credința iarăși te ridică,
+Poți fi căzut, dar nu învins.
+
+[c]
+/: Nu ești înfrânt cât ai nădejde
+Și țelul ei rămâne sfânt,
+Nădejdea iarăși te-ntărește,
+Poți fi trântit, dar nu înfrânt. :/
+
+[v2]
+Nu ești zdrobit cât ai iubirea
+Curată și de neclintit,
+Iubirea iarăși te înalță,
+Poți fi călcat, dar nu zdrobit.
+
+[c2]
+/: Biruitori, eroi și vrednici
+Sunt numai cei ce neclintit
+Duc legământul pân’ la jertfă
+Și luptă până la sfârșit. :/

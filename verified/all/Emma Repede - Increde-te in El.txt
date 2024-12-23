@@ -1,0 +1,23 @@
+[title]
+Încrede-te în El {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {96582}, id: {7A9Px4hpssjKdCQdh5kk51}, contentHash: {880164}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nu-i val, nu-i vânt, nici neguri, de care să fii dus,
+Mai mult decât poți duce și-i îngăduit de sus.
+Nu-i foc să nu se stingă, nici noapte fără zori,
+Tot e condus de Domnul, El va ști ce va veni.
+
+[c]
+Încrede-te în El, încrede-te în Cel Preasfânt,
+El totdeauna are ultimul cuvânt,
+Pe brațe El te poartă, cu milă te conduce,
+Căci viață El va da, prin cruce.
+
+[v2]
+Furtuna nu-i, nici vremuri de care să fii dus,
+El e cu tine-n barcă, nu pleacă nicăieri.
+Smerit, stai la picioare-I, așteaptă ceasul Lui,
+El este Domnul vieții, El va ști ce va veni.

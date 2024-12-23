@@ -1,0 +1,16 @@
+[title]
+Al Tău e sufletul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {45SEsnUDJ4S7yLyNW8EEyo}, contentHash: {c76110}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Al Tău e sufletul meu, a Ta e inima mea,
+Nimic nu-mi mai aparține și-Ți mulțumesc
+/: Căci Tu m-ai primit așa cum sunt. :/
+
+[c]
+Acum trăiesc pentru Tine și sunt împlinit,
+Doar Tu mă umpli de viață,
+Mă faci fericit, Domnul meu!
+Aleluia!

@@ -1,0 +1,29 @@
+[title]
+N-am să uit, o, Doamne, niciodată {alternative: {*}, composer: {Marta Bergheaua}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {63362}, id: {qxQRZUhu4ditZqVcH3HNX8}, contentHash: {b7eb60}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+N-am să uit, o, Doamne, niciodată,
+Clipa când păcatul mi-ai iertat
+Și nici ziua aceea minunată
+Când, Isuse, m-ai salvat.
+
+[c]
+N-am să uit nici lacrimile Tale,
+Nici Calvarul Tău amar și greu,
+Mi-ai schimbat tot sensul vieții mele
+O, Isuse, Domnul meu!
+
+[v2]
+N-am să uit, o, Doamne niciodată,
+A Ta dragoste fără hotar
+Ce la Golgota a fost arătată,
+Al cerului măreț har.
+
+[v3]
+N-am să uit, o, Doamne niciodată,
+Dă-mi putere să nu pot uita
+Tot ce pentru mine, de îndată,
+A făcut iubirea Ta.

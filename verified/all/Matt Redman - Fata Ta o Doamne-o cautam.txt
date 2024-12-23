@@ -1,0 +1,28 @@
+[title]
+Fața Ta, o, Doamne-o căutăm {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2458}, id: {xApF6qmuEzhnqVVUL1odWW}, contentHash: {5b7431}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Fața Ta, o, Doamne-o căutăm,
+Pentru-a noastră țară ne rugăm.
+Trezește-ne, o, Doamne, inima,
+Și toți din jur pe Tin’ Te vor vedea.
+
+[c]
+/: Înălțăm Numele Tău,
+În unitate ne-nchinăm,
+Laudele vor răsuna,
+Țara o vei transforma! :/
+Țara o vei transforma!
+
+[v2]
+Niciodată nu vom da ‘napoi,
+Cu credință noi înaintăm,
+Când cu lacrimi noi vom semăna,
+Recoltă din belșug vom secera.
+
+[b]
+Vrem trezire, vrem trezire,
+Vrem trezire, cu noi! :/ (4x)

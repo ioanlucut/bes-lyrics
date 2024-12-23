@@ -1,0 +1,31 @@
+[title]
+Ce mare ești, o, Doamne! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {106401}, id: {hWzbnrDPgE21tNdvHWUBtX}, contentHash: {f4a467}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce mare ești, o, Doamne, ce mare ești și sfânt!
+Spun soarele și luna și vuietul de vânt
+Și trăsnetul ce culcă stejarii la pământ
+Și vuietul furtunii și-al păsărilor cânt.
+
+[c]
+Mare ești, mare-i slava Ta!
+Ai fost, ești și vei fi în veci așa!
+Cât de mare ești, Doamne, cât de sfânt!
+Cât de mare ești, Doamne, eu Îți cânt!
+Te voi lăuda mereu, ai salvat sufletul meu,
+Cât de mare ești, Doamne, cât de sfânt!
+
+[v2]
+O, de-ar cunoaște, Doamne, toți oamenii ce sfânt,
+Puternic e-al Tău Nume și sfântul Tău Cuvânt.
+De-ar auzi chemarea și glasul Tău cel sfânt,
+Te-ar preamări de-a pururi, ce mare ești și sfânt!
+
+[v3]
+Cât de mare ești, Doamne, cât de sfânt!
+Cât de mare ești, Doamne, eu Îți cânt!
+Te voi lăuda mereu, ai salvat sufletul meu,
+Cât de mare ești, Doamne, cât de sfânt!

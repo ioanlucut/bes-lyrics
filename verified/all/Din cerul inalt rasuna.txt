@@ -1,0 +1,29 @@
+[title]
+Din cerul înalt răsună {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {pnbJH3BqNHVLKsYdHNusDq}, contentHash: {0899bf}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Din cerul înalt răsună
+Cântări minunate Ție, Doamne, date.
+Cântări îngerești răsună
+Pentru lauda Domnului.
+
+[c]
+Să-L încoronăm dar
+Pe Fiul lui David ca Domn al luminii!
+Să-L încoronăm dar
+Pe al lumii Salvator!
+
+[v2]
+Vestea îndurării sună,
+Sună în tot locul, s-audă tot omul,
+Să laude toți pe Dumnezeu
+Și pe Isus, Fiul Său.
+
+[v3]
+Să-L încoronăm pe Isus
+Ca pe-un mare-mpărat, care mult ne-a iubit,
+Care pentru noi, pe Sine,
+S-a dat și-a fost răstignit.

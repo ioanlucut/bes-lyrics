@@ -1,0 +1,35 @@
+[title]
+Isus e viu, spune toată lumea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3A65gVecopgNZVTbuvxE9x}, contentHash: {27fc6d}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,b,c1.1,c1.2
+
+[v1]
+„Isus e viu!”, spune toată lumea
+Și al Lui Nume e sfânt, să-L lăudăm mereu.
+Dar să te-ntrebi, tu, drag creștin, acuma
+Îl simți pe El când spui: „Isus Hristos e viu!”
+
+[c1.1]
+Isus e viu, El trăiește-n veci, e viu!
+Numele Lui este mare, mare și sfânt.
+A treia zi a înviat lăsând mormântul,
+Luând asupra Lui păcatul întregii omeniri.
+
+[c1.2]
+Isus e viu, El trăiește-n veci, e viu!
+Numele Lui este mare, mare și sfânt
+Căci El e viu, viu dintotdeauna,
+Chiar de a purtat cununa pentru păcătoși!
+
+[v2]
+Mai simți, tu, astăzi, mai simți fiorul Duhului
+Care îți spune să te pocăiești?
+Căci pentru tine Isus muri pe cruce
+Ca prin jertfirea Lui să poți să biruiești.
+
+[b]
+/: Nu e mort, El e viu și-adevărat,
+A-nviat să ne scape de păcat.
+El e Domnul păcii, Leul din Iuda,
+Prințul vieții, Domn biruitor! :/

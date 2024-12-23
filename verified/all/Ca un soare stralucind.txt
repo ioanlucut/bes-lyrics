@@ -1,0 +1,17 @@
+[title]
+Ca un soare strălucind {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {wRKGtF9EkLqkVBqxLNWVvA}, contentHash: {2b30b6}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Ca un soare strălucind
+Mă înalț pân’ la cer în sfântul Tău Cuvânt.
+Te ating și Îți vorbesc.
+Cântă inima mea când vreau să rostesc.
+
+[c]
+Isus, prima iubire,
+Pe nimeni nu pot iubi așa.
+Isus, mai mult vreau din Tine,
+Mai mult din dragostea Ta în viața mea.

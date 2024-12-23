@@ -1,0 +1,44 @@
+[title]
+Bucurați-vă de vestea bună și deschideți-vă inima {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {8NYE93zBNvUoqQjzEaioWi}, contentHash: {a887e4}}
+
+[sequence]
+v1,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
+
+[v1]
+Bucurați-vă de vestea bună
+Și deschideți-vă inima!
+Faceți și voi azi din ea o iesle
+Să Se nască Domnul și în ea!
+
+[c1.1]
+Slavă sus în cer, pace pe pământ
+Cântă oastea sfântă Domnului.
+Pace fie între oameni,
+Pace între-aceia plăcuți Lui!
+
+[c1.2]
+/: Aleluia! :/ Să răsune: „Slavă Domnului!”
+/: Aleluia! :/ Pace între-aceia plăcuți Lui!
+
+[v2.1]
+Duceți mai departe vestea bună
+Că ni S-a născut Mântuitor!
+Tot așa cum îngerii din slavă
+Vestea au adus păstorilor.
+
+[v2.2]
+Dați și voi în dar, cu bucurie,
+Inimi sfinte astăzi lui Isus!
+Tot așa cum magii din vechime
+Daruri scumpe Pruncului au dus.
+
+[v3.1]
+Să ne bucurăm că El trăiește
+Și că viu în inimi Îl avem!
+S-a născut în iesle-n Betleem.
+
+[v3.2]
+Să-I cântăm cu inimi bucuroase:
+Slavă fie Celui ce-a venit
+Să ne mântuiască din pierzare,
+Domnul fie în veci preamărit!

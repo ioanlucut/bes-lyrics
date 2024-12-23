@@ -1,0 +1,29 @@
+[title]
+Când vrei să vii, găsi-vei viață {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {148032}, id: {1wk96EaB1WyBESrTf4tApz}, contentHash: {85f5ab}}
+
+[sequence]
+c,v1,c,v2
+
+[c]
+Când vrei să vii, găsi-vei viață,
+Ai căutat demult o șansă.
+Azi Dumnezeu în cale ți-a ieșit,
+Nu-L ocoli, cât timp mai este har,
+Viața ta e al Său dar,
+Demult te așteaptă ca să vii.
+
+[v1]
+Doar Isus ne-a iubit,
+Ne-a iubit cu-adevărat.
+Crucea când El a purtat
+S-a jertfit pentru noi,
+Să ne spele de păcat,
+Să trăim cu-adevarat.
+
+[v2]
+Am găsit un răspuns
+Pentru tot ce căutam,
+Ratăcit când eu eram
+Pe Isus L-am primit,
+A intrat în viața mea,
+Azi trăiesc spre gloria Sa.

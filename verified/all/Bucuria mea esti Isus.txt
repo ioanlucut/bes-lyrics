@@ -1,0 +1,26 @@
+[title]
+Bucuria mea ești Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1395}, id: {gUSPTsptEWdzwrTYG78uJT}, contentHash: {08657c}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Bucuria mea ești Isus,
+Nimic pe pământ nu Te poate înlocui.
+/: Chiar când trec prin necazuri
+Știu totuși, că Tu mă conduci.
+Tu ești totul în viața mea. :/
+
+[v2]
+Pacea mea ești Isus,
+Nimic pe pământ nu Te poate înlocui.
+/: Chiar când trec prin necazuri
+Știu totuși, că Tu mă conduci.
+Tu ești totul în viața mea. :/
+
+[v3]
+Izbăvirea mea ești Isus,
+Nimic pe pământ nu Te poate înlocui.
+/: Chiar când trec prin necazuri
+Știu totuși, că Tu mă conduci.
+Tu ești totul în viața mea. :/

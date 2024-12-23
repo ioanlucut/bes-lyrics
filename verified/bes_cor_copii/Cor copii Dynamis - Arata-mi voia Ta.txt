@@ -1,0 +1,29 @@
+[title]
+Arată-mi voia Ta {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {a3Df5v8Hwb1mBtvW2T4U23}, contentHash: {148322}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+/: Arată-mi voia Ta, calea Ta,
+Tu, Isus, ești speranța mea! :/
+
+[c]
+Și mă încred, da, în dragostea Ta!
+Zi de zi, pas cu pas, mă sprijinești, da!
+Și mă iubești, da!
+Inima Îți va cânta aleluia!
+Ooooo!
+
+[v2]
+/: Tu nu mă părăsești
+Și nu mă ocolești,
+Știu, Isuse, mă iubești! :/
+
+[c2]
+/: Și mă încred, da, în dragostea Ta!
+Zi de zi, pas cu pas, mă sprijinești, da!
+Și mă iubești, da!
+Inima Îți va cânta :/ Aleluia!
+Ooooo!
+Eu mă încred în voia Ta!

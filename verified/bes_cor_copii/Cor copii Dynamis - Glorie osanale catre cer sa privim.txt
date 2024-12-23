@@ -1,0 +1,25 @@
+[title]
+Glorie, osanale, către cer să privim {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mDVbCQ54SEgTErP6vYZrtJ}, contentHash: {73f0eb}}
+
+[sequence]
+c,v1,c,v2,c,e
+
+[c]
+/: Glorie, osanale, către cer să privim,
+Domnului închinare, Aleluia, Amin! :/
+
+[v1]
+Trupul Său sfânt, pe-acest pământ
+L-a jertfit pe cruce răstingnit,
+Dar a-nviat, S-a înălțat,
+Hristos domnește ca-mpărat!
+
+[v2]
+Ne bucurăm, slavă Îi dăm
+Pentru veci, iubirea Sa cântăm,
+A înviat, S-a înălțat,
+Da, Hristos e Împărat!
+
+[e]
+Aleluia, Amin!
+Aleluia, Amin!

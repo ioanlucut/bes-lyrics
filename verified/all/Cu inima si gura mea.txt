@@ -1,0 +1,53 @@
+[title]
+Cu inima și gura mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2168}, id: {1YQR6E6D2sajkux1QbonUU}, contentHash: {7db837}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+Cu inima și gura mea,
+Eu cânt lui Dumnezeu:
+Mărire, cinste, laudă,
+Ca să-L slăvesc mereu.
+
+[v1.2]
+/: Noi știm că ești
+Fântâna și Izvorul harului,
+Din ea, ne curge-n orice zi
+Un dar din darul Lui! :/
+
+[v2.1]
+Ce suntem noi să stăpânim
+Atâta pe pământ?
+Nu-s toate daruri ce primim,
+Din partea Celui Sfânt?
+
+[v2.2]
+/: Tu ne hrănești din zi în zi,
+În grija Ta suntem.
+Și chiar când nu avem vreun ban,
+Cu Domnul, nu ne temem! :/
+
+[v3.1]
+Ne pedepsește, ca Păstor,
+Cu milă, când greșim
+Și-apoi ne iartă-ndurător,
+Când noi ne pocăim.
+
+[v3.2]
+/: Din inimă, eu cânt voios
+Mântuitorului
+Și mă silesc a fi zelos
+În lucrul Domnului. :/
+
+[v4.1]
+El, niciodată n-a greșit
+În tot ce a făcut
+Și toate au un bun sfârșit,
+Când El le-a început.
+
+[v4.2]
+/: Lucreze Domnul și cu noi,
+Nu-L vom împiedica!
+Odihnă vom avea apoi,
+Cum nu ne-om aștepta. :/

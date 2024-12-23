@@ -1,0 +1,41 @@
+[title]
+Ai plătit un preț să-mi dai viață {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1379}, id: {a8qnn6ny1zT5PkBZyRaWHo}, contentHash: {e618df}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
+
+[v1.1]
+Ai plătit un preț să-mi dai viață
+Să trăiesc prin har azi mântuit.
+N-am cuvinte, Doamne, să pot spune
+Cât de drag îmi ești și-s fericit.
+
+[v1.2]
+Numele mi-e scris în Cartea Vieții
+Și doresc, Isus, cu orice preț
+Să rămân statornic în credință,
+Să Te laud și să Te slăvesc.
+
+[c1.1]
+/: Voia Ta, nu voia mea,
+Să se facă, Doamne-n viața mea,
+Să trăiesc cum Tu dorești,
+O, Domnul meu,
+
+[c1.2]
+Toată roada Duhului Tău Sfânt,
+Zi de zi s-o am pe-acest pământ.
+Lumină să răspândesc mereu
+În jurul meu. :/
+
+[v2.1]
+Pacea Ta ce-ntrece orice lucru,
+Cunoștința-ntregului pământ
+S-o reverși în inimă, Stăpâne,
+Orice-ar fi să pot mereu să-Ți cânt.
+
+[v2.2]
+Numele mi-e scris în Cartea Vieții
+Și, Te rog, Isus, cu orice preț,
+Să rămân statornic în credință,
+Să Te laud și să Te slăvesc.

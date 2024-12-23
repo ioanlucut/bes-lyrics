@@ -1,0 +1,29 @@
+[title]
+Este un loc plin de har și pace {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qJDQXGf66mS25NWo1GQBAd}, contentHash: {19b869}}
+
+[sequence]
+v1.1,v1.2,p,c,v1.1,v1.2,p,c
+
+[v1.1]
+Este un loc plin de har și pace,
+Unde frații-n unire trăiesc,
+Un loc unde ungerea sfântă curge
+Și una suntem.
+
+[v1.2]
+Doar un trup să formăm în Tine
+Și prieteni să fim,
+Una prin Duhul Tău Sfânt, ce ne ține
+Până la sfârșit.
+
+[p]
+Azi Te rugăm prin Isus, sfinte Tată,
+Una ca Tatăl și Fiul să fim,
+Toți într-un gând, cu iubire curată,
+De dragul Fiului Tău.
+
+[c]
+Orice zid vom dărâma (3x)
+Doar în Numele Lui.
+Orice zid vom dărâma
+Și una vom fi.

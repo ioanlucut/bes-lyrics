@@ -1,0 +1,29 @@
+[title]
+Cu glasul meu {alternative: {*}, composer: {Shalom}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7011}, id: {j6wadwksh5XVpU9FBm6pT2}, contentHash: {412717}}
+
+[sequence]
+v1.1,v1.2,c,v2,c
+
+[v1.1]
+Cu glasul meu, eu strig către Domnul,
+Îmi vărs necazul înaintea Lui
+Și-mi povestesc a mea strâmtorare,
+Durerea și povara grea.
+
+[v1.2]
+Ia aminte, la strigătele mele, Doamne,
+Izbăvește-mă de tot ce-i rău în jurul meu,
+Scoate-mi sufletul din temnița întunecoasă
+Că să laud Numele Tău!
+
+[c]
+Către Tine strig și zic: „Tu ești scăparea mea!”
+Ajutorul în necaz,
+Primește-mă-n îndurarea Ta cea mare,
+Fii, Tu, Doamne, salvarea mea!
+
+[v2]
+Ia aminte, la strigătul meu, o, Doamne,
+Ca tămâia să-mi fie rugăciunea mea
+Și mâinile să-mi stea mereu ridicate,
+Necurmat, spre tronul sfânt, ceresc.

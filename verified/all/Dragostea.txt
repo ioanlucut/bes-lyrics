@@ -1,0 +1,30 @@
+[title]
+Dragostea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dcuUvxNVJPbqnL616j11tw}, contentHash: {df4c5c}}
+
+[sequence]
+v1,c,v2,c,v3
+
+[v1]
+Dragostea 1 Corinteni 13
+
+[c]
+/: Și de n-aș avea dragoste nu aș fi nimic!
+Fără dragoste, cu daruri, taine vom pieri.
+Fără dragoste, frumosul cer n-ar mai sclipi,
+Doar prin dragoste vom dăinui. :/
+
+[v2]
+Chiar dacă-aș vorbi în limbi omenești
+Și-ale îngerilor versuri de-aș cânta,
+Chiar dacă un dar din ceruri aș primi
+Și credința-n mine toată de-aș avea,
+Celor săraci averea să le împart,
+Chiar trupul de le-aș da să fie ars.
+
+[v3]
+Cine poate fi-îndelung răbdător,
+Plin de bunătate, umil, iertător,
+Prin dragoste poți tu oricând să fii smerit
+Și să te jertfești cum Isus S-a jertfit.
+Celor săraci averea să le împart,
+Chiar trupul de le-aș da să fie ars.

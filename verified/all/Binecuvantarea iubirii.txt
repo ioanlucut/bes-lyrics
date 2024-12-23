@@ -1,0 +1,29 @@
+[title]
+Binecuvântarea iubirii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hKc4Ym1GvShdUtjxuXpVZ1}, contentHash: {a2268f}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Binecuvântarea iubirii
+Fie cântul meu,
+Veșnic Dumnezeu.
+Azi și-n /: vecii fericirii :/
+/: Te binecuvântez, :/
+Dumnezeul meu, Te binecuvântez!
+
+[v2]
+Binecuvântarea credinței
+Fie-mi orișicând
+Trai, cuvânt și gând.
+Pe Tine /: pavăza ființei mele :/
+/: Te binecuvântez, :/
+Dumnezeul meu, Te binecuvântez!
+
+[v3]
+Binecuvântarea nădejdii
+Ție-Ți cânt curat, Tată minunat,
+Turnul meu, când vin primejdii.
+Turn, /: când vin primejdii, :/
+/: Te binecuvântez, :/
+Dumnezeul meu, Te binecuvântez!

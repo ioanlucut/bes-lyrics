@@ -1,0 +1,47 @@
+[title]
+Mergem înainte! {alternative: {*}, composer: {Beni Cibu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {172538}, id: {xdKj5YtPvdHfzMcNqnwm4o}, contentHash: {2ffdf8}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu-ai fost un loc de adăpost,
+Al nostru, Doamne, din vecie
+Și sub al aripii umbrar
+Noi am găsit credincioșie.
+Ce minunat, ce minunat,
+Să ai o Stâncă-n vremuri grele,
+Ce minunat, ce minunat!
+
+[c]
+Mergem înainte cu Tine, Doamne,
+Orice ar veni, orice s-ar întâmpla!
+Mergem înainte cu Tine, Doamne,
+Nu ne clătinăm, suntem în mâna Ta!
+
+[v2]
+S-a ridicat al mării val
+Peste corabie deodată
+Și când credeam că norii grei
+Îmi vor umbri viața toată
+M-ai întărit, m-ai întărit.
+Ca să rămân pe Stânca tare,
+M-ai întărit, m-ai întărit!
+
+[v3]
+Cu Tine am rămas mereu
+Și voi rămâne totdeauna
+Căci mare este harul Tău
+Ce l-am cântat și-l cânt întruna.
+Te voi slăvi, Te voi slăvi,
+Pe Tine, dorul dorurilor mele,
+Te voi slăvi, Te voi slăvi!
+
+[v4]
+Ce va fi mâine eu nu știu,
+Dar știu că taina voii Tale
+O voi pricepe în curând,
+Când voi cânta-n cer osanale!
+Ce minunat, ce minunat,
+Când voi ajunge-n strălucire,
+Ce minunat, ce minunat!

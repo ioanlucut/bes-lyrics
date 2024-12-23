@@ -1,0 +1,30 @@
+[title]
+Și mă ridic {alternative: {*}, composer: {Album Toflea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {133873}, id: {i9K59Zke2WBeS5DU8AShzE}, contentHash: {939a62}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[v1]
+Unii se bizuiesc pe-înțelepciunea lor
+Și mulți se bizuiesc pe puterea lor,
+Dar noi ne bizuim, dar noi ne bizuim
+Dar noi ne bizuim, pe puterea Domnului.
+
+[c]
+Și mă ridic, în Numele lui Isus mă ridic,
+Ca un steag de biruință mă înalț
+Și nu voi renunța,
+Căci știu că Domnul e de partea mea.
+
+[v2]
+Dacă ești căzut și vrei să te ridici,
+În putere ai slăbit și nu mai poți păși,
+Ridică privirea în sus, El nu te va lăsa,
+El așteaptă ca să spui: „Mă voi ridica!”
+
+[v3]
+Chiar dacă cei din jur mă vor prigoni,
+Eu știu că mâna Sa mă va sprijini.
+Doar brațul Său cel sfânt,
+Doar brațul Său cel sfânt,
+Doar brațul Său cel sfânt mă va ridica.

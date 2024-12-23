@@ -1,0 +1,40 @@
+[title]
+Eu voi cânta {alternative: {*}, composer: {Ioan Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {67326}, id: {vZqSHbH13TpcsZGdHHJMz3}, contentHash: {c33124}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Prin întunericul acestei lumi,
+Alergam făr’ de folos,
+Nici speranță n-aveam, făr-un țel pribegeam,
+Fericire eu nu găseam.
+
+[v1.2]
+Dar spre Domnu-am strigat, El m-a ascultat,
+De păcat m-a eliberat.
+Și vreau să-I cânt cât voi fi pe pământ,
+Să-I dau slava neîncetat.
+
+[c]
+Eu voi cânta până când
+Orice suflet plângând,
+Ce v-auzi se va-nsenina.
+Și vreau să spun orișicui
+Să-I dea laudă Lui că-n Isus e mântuirea.
+Când sufletul mi-e rănit și sunt dezamăgit,
+Doar mâna Lui mă va ridica
+Și prin cântecul meu eu Îl laud mereu,
+Îi dau toată gloria.
+
+[v2.1]
+Nu voi uita să-L vestesc pe Isus,
+Chiar și-atunci când îmi va fi greu.
+De necaz nu mă tem, eu mă-ncred în El,
+Știu că mă va ajuta mereu.
+
+[v2.2]
+De aceea Îi cânt și-L urmez doar pe El,
+Lumea nu mă va mai schimba
+Și în slavă voi sta
+Și Îl voi lăuda, pe Regele Emanuel!

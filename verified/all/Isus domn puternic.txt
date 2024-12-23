@@ -1,0 +1,16 @@
+[title]
+Isus, domn puternic {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6KHQ9sYR8zFXWq7GXthaoo}, contentHash: {c7732d}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Isus, domn puternic ești
+Domnind peste împărățiile lumii.
+Ridicăm vocea și cântăm:
+„Ești Rege al regilor,
+Ești Domn al domnilor!”
+
+[c]
+/: El este Rege, El este Domn,
+El este Cel care ne-a salvat. :/

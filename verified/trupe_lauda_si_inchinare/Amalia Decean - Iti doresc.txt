@@ -1,0 +1,42 @@
+[title]
+Îți doresc {alternative: {*}, composer: {Amalia Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fvudc4xSBae4s4pAtGW8nH}, contentHash: {59c686}}
+
+[sequence]
+c,v1.1,v1.2,p,c,v2.1,v2.2,p,c
+
+[v1.1]
+Îți doresc sănătate,
+Gânduri bune s-ai mereu,
+În toate zilele
+Ce le primești de la Dumnezeu.
+
+[v1.2]
+Și-ți doresc ca bucuria
+Să-ți umple fiecare ceas
+Și cu nădejde și încredere
+Să-ți fie orice pas.
+
+[p]
+Dar mai mult ca orice gând din ce ți-am spus,
+Îți doresc să fii asemeni lui Isus!
+
+[c]
+/: Să-mparți bucuria
+Cu orice om ce-l întâlnești,
+Să porți haina dragostei cerești,
+Să lași o lumină
+Să strălucească-n urma ta,
+În fiecare clipa
+Ce Domnul îți va da. :/
+
+[v2.1]
+Îți doresc să ai parte
+De orice lucru bun sub cer
+Și știu că Domnul poate
+Să îți dea pe cele ce nu pier.
+
+[v2.2]
+Dar mai mult de orice lucru
+Ce ai dori acum să-l ai,
+Mă rog ca Domnul slavei
+Să-ți arate tot ce poți să dai.

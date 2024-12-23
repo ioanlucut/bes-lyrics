@@ -1,0 +1,35 @@
+[title]
+Gata-mi este inima să cânte {alternative: {*}, composer: {Claudia Danciu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7258}, id: {oPLW6Babjk29eTLBcBDATh}, contentHash: {92b905}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Gata-mi este inima să cânte:
+Nu e nimenea ca Dumnezeu.
+Sufletul mi-e plin de bucurie,
+Laudă Lui Îi voi cânta mereu.
+
+[c]
+Ești a mea bucurie,
+Te ador, Te slăvesc!
+Ești a mea bucurie,
+Laudă-Ți cânt, pe Tine Te iubesc.
+
+[v2]
+/: Gata-mi este inima să cânte,
+Domnu-mi este prieten minunat.
+De iubirea Lui mi-aduc aminte
+Și-L voi lăuda neîncetat. :/
+
+[v3]
+Gata-mi este inima să cânte,
+Domnul mă conduce-ocrotitor.
+El mi-ascultă glasul rugăciunii,
+Mâna Lui îmi vine-n ajutor.
+
+[v4]
+Și-a făcut un nume printre oameni,
+E mereu slăvit și adorat.
+De cei ce le-a fost lumina vieții
+Și a căror grijă a purtat.

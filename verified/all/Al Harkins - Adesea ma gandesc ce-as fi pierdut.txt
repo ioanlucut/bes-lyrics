@@ -1,0 +1,23 @@
+[title]
+Adesea mă gândesc ce-aș fi pierdut {alternative: {*}, composer: {Al Harkins}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fizBX4Xgr2z4NJyob8YHU4}, contentHash: {39ef04}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Adesea mă gândesc ce-aș fi pierdut
+Isus de pe cruce de-ar fi coborât.
+Speranță n-ar fi fost pentru păcătos,
+Dar slavă Lui că El nu S-a dat jos!
+
+[c]
+/: El nu S-a dat jos, o, nu, nu S-a dat jos!
+Mulțimi de îngeri avea din prisos,
+Putea să-i cheme în sprijinul Său,
+Dar a stat sus pe cruce în locul tău și-al meu. :/
+
+[v2]
+Parcă-I văd mama cu lacrimi în ochi,
+Văzând cum de-al ei Fiu cu toți își bat joc,
+Strigând: „De ești Rege, atunci dă-Te jos!”
+Dar El a zis: „Iartă-i!” și nu S-a dat jos.

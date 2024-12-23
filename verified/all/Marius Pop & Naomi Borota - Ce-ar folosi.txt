@@ -1,0 +1,36 @@
+[title]
+Ce-ar folosi {alternative: {*}, composer: {Marius Pop & Naomi Borota}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158396}, id: {7oTAFBFEL5LY8cjwUfVY5L}, contentHash: {03384f}}
+
+[sequence]
+v1,c,v2,b,c2
+
+[v1]
+Zi de zi, pentru o viață mai bună,
+Căutăm și alergăm,
+S-adunăm și uităm tot mai adesea,
+Pentru ce noi ne luptăm.
+
+[c]
+Și ce-ar folosi unui om să câștige lumea,
+Dacă în schimb și-ar pierde sufletul?
+Orice bogății, tot ce lumea îți oferă,
+Nu-ți pot aduce pacea inimii.
+
+[v2]
+Te întrebi, tot ce construiești sub soare,
+Al cui va fi-n curând?
+Nu uita, viața ta e trecătoare,
+Ce-ai făcut pentru Isus?
+
+[b]
+Urmează-L, dar, pe Hristos,
+Alege voia Sa!
+El se-ntoarce în curând!
+Fii gata!
+
+[c2]
+/: Și ce-ar folosi unui om să câștige lumea,
+Dacă în schimb și-ar pierde sufletul?
+Orice bogății, tot ce lumea îți oferă,
+Nu-ți pot aduce pacea inimii. :/
+Isus te poate face fericit!

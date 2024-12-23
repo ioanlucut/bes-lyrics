@@ -1,0 +1,25 @@
+[title]
+Doamne, vreau să fiu creștin {alternative: {*}, composer: {*}, writer: {*}, arranger: {Homer A. Rodeheaver}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {dxkv8EAmhs23h96naHWekk}, contentHash: {423a9a}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Doamne, vreau să fiu creștin în inima mea,
+În inima mea,
+Doamne, vreau să fiu creștin în inima mea.
+
+[v2]
+Doamne, vreau să fiu mai bun în inima mea,
+În inima mea,
+Doamne, vreau să fiu mai bun în inima mea.
+
+[v3]
+Vreau să fiu mai iubitor în inima mea,
+În inima mea,
+Vreau să fiu mai iubitor în inima mea.
+
+[v4]
+Ca Isus aș vrea să fiu în inima mea,
+În inima mea,
+Ca Isus aș vrea să fiu în inima mea

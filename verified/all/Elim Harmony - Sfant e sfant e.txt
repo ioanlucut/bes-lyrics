@@ -1,0 +1,66 @@
+[title]
+Sfânt e, sfânt e {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71702}, id: {qzR2UuDNLGwbJgwz1xzXAK}, contentHash: {4d9cb3}}
+
+[sequence]
+v1.1,v1.2,v1.3,v2.1,v2.2,v2.3,c,v3.1,v3.2,v3.3
+
+[v1.1]
+Este-un drum ce duce-n ceruri,
+Un drum plin de încercări,
+Dar curând va fi strigarea,
+Ce va umple-al zării larg.
+
+[v1.2]
+Bucuria va cuprinde
+Universul așteptând.
+Înspre Sion, țara sfântă
+Noi vom zbura toți cântând.
+
+[v1.3]
+Tu ești vrednic, Domn al slavei,
+Pentru lupta ce s-a dat,
+Omenirea se închină,
+De la moarte ne-ai salvat.
+
+[v2.1]
+Este-un drum ce duce-n ceruri,
+Unde veșnic vom cânta.
+Nu va fi acolo noapte,
+Vom vedea doar fața Sa.
+
+[v2.2]
+Sărbătoarea va începe
+Lângă marele Stăpân.
+Înspre Sion, țara sfântă,
+Noi vom zbura toți cântând.
+
+[v2.3]
+Tu ești vrednic, Domnul al slavei,
+Pentru lupta ce s-a dat,
+Omenirea se închină,
+De la moarte ne-ai salvat.
+
+[c]
+Sfânt e, sfânt e, sfânt e,
+Domn Atotputernic!
+Sfânt e, sfânt e, sfânt e
+Dumnezeu!
+Aleluia, aleluia, aleluia,
+Aleluia, aleluia, aleluia!
+
+[v3.1]
+Este-un drum ce duce-n ceruri,
+Un drum plin de încercări,
+Dar curând va fi strigarea
+Ce va umple-al zării larg.
+
+[v3.2]
+Bucuria va cuprinde
+Universul așteptând.
+Înspre Sion, țara sfântă,
+Noi vom zbura toți cântând.
+
+[v3.3]
+Înspre Sion, țara sfântă,
+Noi vom zbura toți cântând,
+Noi vom zbura cântând.

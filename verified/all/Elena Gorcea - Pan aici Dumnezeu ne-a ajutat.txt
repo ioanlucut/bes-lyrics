@@ -1,0 +1,49 @@
+[title]
+Pân’ aici Dumnezeu ne-a ajutat {alternative: {*}, composer: {Elena Gorcea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61291}, id: {nue8ja6Y7mfyJs3KdD3jDx}, contentHash: {08f91c}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c2.1,c2.2
+
+[v1]
+Pân’ aici Dumnezeu ne-a ajutat,
+Ne-a cinstit cu-atâta bine și ne-a apărat.
+Și-a întins cu îndurare mâna sfântă peste noi,
+Și ne-a-nconjurat pe dinainte și pe dinapoi.
+
+[c1.1]
+Ai simțit și tu în viața ta iubirea Lui?
+Poți și tu să cânți osana Domnului?
+Poți să spui cu mine astăzi: „Cu adevărat,
+Pân’ aici Dumnezeu ne-a ajutat”?
+
+[c1.2]
+Pân’ aici Dumnezeu ne-a ajutat,
+Fie-I Numele slăvit, fie-I Numele-onorat,
+/: Dacă ți-a făcut mult bine,
+‘Nalță-ți glasul tău spre cer,
+Și să strigi din toată inima „Eben-Ezer”! :/
+
+[v2]
+Pân-aici Dumnezeu ne-a ajutat,
+Și-a ținut promisiunea cu adevărat,
+El rămâne credincios, Cuvântul Lui se va-mplini,
+Ce-a spus El în veci rămâne, lumea-ntreagă de-ar pieri.
+
+[v3]
+Pân’ aici Dumnezeu ne-a ajutat,
+De te-ncrezi în El puternic vei fi apărat
+Și te vei adăposti la umbra aripilor Lui
+Căci în veac ține credincioșia, mila Domnului.
+
+[c2.1]
+Pune-ți azi nădejdea-n harul cel de sus
+Și-ațintește-a ta privire la Isus!
+Biruind în El vei spune: „Cu adevărat,
+Pân-aici Dumnezeu ne-a ajutat!”.
+
+[c2.2]
+Pân-aici Dumnezeu ne-a ajutat,
+Fie-I Numele slăvit, fie-I Numele-onorat,
+/: Haideți toți într-o suflare
+Să-nălțăm glasul spre cer,
+Să strigăm din toată inima „Eben-Ezer”! :/

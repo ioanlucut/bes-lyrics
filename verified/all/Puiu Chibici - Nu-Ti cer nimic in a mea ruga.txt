@@ -1,0 +1,48 @@
+[title]
+Nu-Ți cer nimic în a mea rugă {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5774}, id: {jELAt5vv9eQDff2MvD1Bx8}, contentHash: {8e8d90}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Nu-Ți cer nimic în a mea rugă
+Când vin ‘naintea Ta, Isus,
+Ci doar ca o umilă slugă
+Mă plec adânc smerit, supus.
+
+[v1.2]
+Nu-Ți cer averi, nici bogăție,
+Nici faimă și nici altceva,
+Vreau doar cereasca-mpărăție
+Și harul Tău de-a pururea.
+
+[c]
+Nu-Ți cer nimic, nimic, Isus,
+Ci doar să merg precum ai spus,
+Ajută-mă, Te rog, aș vrea
+Ca în toate să-mplinesc,
+Să-mplinesc doar voia Ta.
+
+[v2.1]
+Nu-Ți cer nimic în astă lume
+Decât alături să Te am,
+Și când mă plec în rugăciune
+Să simt al cerului balsam.
+
+[v2.2]
+Nu-Ți cer nimic ce omenirea
+Aruncă astăzi pe pământ,
+Ci vreau, o, Doamne, mântuirea
+Și bucuria-n Duhul Sfânt.
+
+[v3.1]
+Nimic, nimic nu vreau din toate
+Ce mă izbesc azi în priviri,
+Doresc doar veșnica cetate
+Și-a slavei Tale străluciri.
+
+[v3.2]
+Să simt cum Tu mă ții de mână
+Și grija mea o porți mereu,
+Și în dureri cum mă alină
+Iubirea Ta de Dumnezeu.

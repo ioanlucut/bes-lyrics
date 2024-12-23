@@ -1,0 +1,29 @@
+[title]
+Cânt Domnului căci mi-a făcut bine {alternative: {Just Over the Glory Land}, composer: {Emmet Sidney Dean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4121}, id: {g9FxmVFqGHbFd5PVYMXUKh}, contentHash: {ecd998}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cânt Domnului căci mi-a făcut bine,
+Lui Dumnezeu glorie!
+Mi se bucură inima-n mine,
+Lui Dumnezeu glorie!
+
+[c]
+/: Cânt lui Dumnezeu glorie și tot pământul să-I cânte
+Lui Dumnezeu glorie!
+El mi-a adus mântuire, de-aceea cânt pe vecie
+Lui Dumnezeu glorie! :/
+
+[v2]
+Cu natura-ntreagă să cânt și eu,
+Lui Dumnezeu glorie!
+Să-L slăvească munții și apele,
+Lui Dumnezeu glorie!
+
+[v3]
+Cu cei ce-L iubesc în veci vom cânta
+Lui Dumnezeu glorie!
+Și în viața eternă noi vom intra,
+Lui Dumnezeu glorie!

@@ -1,0 +1,29 @@
+[title]
+Tu domnești în mijlocul laudelor noastre {alternative: {Psalmul 22}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {230349}, id: {mL52NHFz3ppgDiGEnUzDdp}, contentHash: {0db58e}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Tu domnești în mijlocul laudelor noastre,
+Tu, Cel Sfânt, Doamne, între noi locuiești.
+Te-nălțăm, Tu ești motivul de laudă,
+Ne-nchinăm, Tu peste noi stăpânești.
+
+[c]
+Noi vom vesti Numele Tău, vom proclama puterea Ta
+Cu cei ce ne vor urma, vom sluji ‘naintea Ta.
+Noi vom vesti Numele Tău, vom proclama puterea Ta
+Cu cei ce ne vor urma, vom sluji ‘naintea Ta.
+
+[v2]
+Vom lăuda toate minunile Tale,
+Vom vesti tot ce-ai făcut pentru noi,
+Vom vorbi copiilor noștri de Tine,
+Vom lupta și nu vom da înapoi.
+
+[b]
+/: Generație după generație,
+Vom sluji doar Numelui Tău sfânt,
+Rămâi centrul închinării noastre,
+Te întronăm în mijlocul laudelor cântând! :/ (2x)

@@ -1,0 +1,17 @@
+[title]
+Glorie-I cântăm {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {aTn3EnL6mqDdcoKHzNjAWr}, contentHash: {7af232}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Glorie-I cântăm, El e Salvatorul, glorie Îi dăm.
+El șade pe tron.
+Ne-a curățit pe toți cu-al Său sânge,
+Regele regilor e!
+
+[c]
+/: Lui Dumnezeu Îi dăm toată cinstea,
+El este veșnicul Împărat!
+Vrednic e Mielul de toată lauda, :/
+/: În veci de veci e-nălțat! :/

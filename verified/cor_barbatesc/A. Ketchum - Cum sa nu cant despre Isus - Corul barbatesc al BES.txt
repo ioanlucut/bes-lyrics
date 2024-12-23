@@ -1,0 +1,32 @@
+[title]
+Cum să nu cânt despre Isus? {alternative: {*}, composer: {A. Ketchum}, writer: {*}, arranger: {L. Hențiu}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {4ir25JQm52ifHjeZqbD8bZ}, contentHash: {c024a9}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+Ce bucurie am în suflet:
+Am fost scăpat din păcat,
+Laudă-i fie de-a pururi
+Lui Isus ce m-a salvat!
+
+[c]
+Cum să nu cânt despre Isus,
+Cum să nu-L laud pe El?
+A mea viață I-o dărui
+Și voi trăi pentru El.
+
+[v2]
+O picătură din haru-I
+A fost cu totul de-ajuns,
+Doar o privire a lui Isus
+Mi-a dat la toate răspuns.
+
+[v3]
+Cel mai frumos dintre toți
+E El, al vieții izvor.
+Râuri de dragoste-aleasă
+Din inima-I se cobor
+
+[e]
+A mea viață I-o dărui și voi trăi pentru El!

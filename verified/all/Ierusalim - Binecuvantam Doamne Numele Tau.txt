@@ -1,0 +1,17 @@
+[title]
+Binecuvântăm, Doamne, Numele Tău {alternative: {*}, composer: {Ierusalim}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4300}, id: {3cVLzWmquUqGnEVnUP5rzn}, contentHash: {5b4548}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Binecuvântăm, Doamne, Numele Tău,
+Binecuvântăm puterea Ta,
+Te binecuvântăm în prezența Ta,
+Vrem să ne-nchinăm ‘naintea Ta.
+
+[c]
+A Ta este slava, puterea, măreția,
+Înțelepciunea și gloria-i a Ta,
+Tu domnești în ceruri, ești Împăratul nostru,
+De aceea, Doamne, Te lăudăm!

@@ -1,0 +1,17 @@
+[title]
+În pășuni verzi mă paște Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {n9bysm1nVg1FkhCN7mnsLi}, contentHash: {b24a3b}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+În pășuni verzi mă paște Domnul,
+Nu voi duce lipsă de nimic.
+El mă hrănește în dragoste,
+În orice zi, mereu.
+
+[c]
+Pot să Te laud, sunt liber
+Ca să Te laud, să Te slujesc.
+Tu ești, o, Doamne, pentru mine
+În orice zi mai mult.

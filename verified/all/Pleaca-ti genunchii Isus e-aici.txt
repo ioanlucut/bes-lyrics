@@ -1,0 +1,34 @@
+[title]
+Pleacă-ți genunchii, Isus e-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1520}, id: {f49RDfY39wBG1gyUDKXCwj}, contentHash: {08982c}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Pleacă-ți genunchii, Isus e-aici,
+Ridică mâini curate spre cer.
+Tronul de mărire e-n fața ta,
+Slava se coboară din cer.
+
+[v1.2]
+Îndrăznește de intră în locul sfânt,
+Spălat prin sângele Mielului.
+Vino, cu cântări de mărire,
+Osana, Mielului Preasfânt!
+
+[c]
+/: Rege-al regilor,
+Domn al domnilor,
+Isus, Isus, Isus, Isus! :/
+
+[v2.1]
+Vino cu povara din viața ta,
+Durerea ce te-apasă mereu.
+Mâna lui Isus poate vindeca
+Povara și păcatul de-i greu.
+
+[v2.2]
+Pacea ce coboară din cerul sfânt,
+Dragostea și roadele ei,
+Înțelepciunea și credința de neclintit,
+Totul poți avea, doar să vrei.

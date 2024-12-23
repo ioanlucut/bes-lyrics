@@ -1,0 +1,33 @@
+[title]
+Gustați și vedeți cât de bun este Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {4Bg3pSsLvL5ts8fCQ8tgxX}, contentHash: {f35a9c}}
+
+[sequence]
+v1,v2,c1.1,c1.2,v3,v4,c1.1,c1.2
+
+[v1]
+Pâinea cea din ceruri coboară iar la noi
+Ca viață și odihnă spre cei trudiți în văi
+
+[v2]
+Cel ce se hrănește cu singurul Său Fiu
+În veci mărturisește că Domnul este viu,
+Da, Domnul este viu!
+
+[c1.1]
+/: Gustați și vedeți cât de bun este Domnul,
+Cât de bun, cât de bun, cât de bun este Domnul!
+Gustați și vedeți cât de bun este Domnul,
+Cât de bun, cât de bun, cât de bun este Domnul! :/
+
+[c1.2]
+/: Căile Sale nu s-au sfârșit, îndurările Sale nu sunt la capăt,
+Domnul este bun! :/
+
+[v3]
+Fiul, Miel de jertfă, nouă ni S-a dat
+Ca cei chemați, cu Tatăl să fie împăcați.
+
+[v4]
+Chipul slab, de carne, multe-a pătimit,
+Ca trupul Său, prin moarte, să fie împărțit,
+O, lumii împărțit.

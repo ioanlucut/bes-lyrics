@@ -1,0 +1,24 @@
+[title]
+Aceasta mi-e dorința, să Te-onorez {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59763}, id: {8ipLZddXG3Zy7Hbbo93Vm7}, contentHash: {418384}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Aceasta mi-e dorința, să Te-onorez,
+Cu ființa-ntreagă să Te slăvesc.
+Te ador, Stăpâne, și mă închin,
+Lauda și onoarea Ți se cuvin!
+
+[c]
+Ție-Ți dau inima și sufletul meu,
+Pentru Tine vreau să trăiesc!
+Domnul meu, Te iubesc!
+Zi de zi vreau să-mplinesc
+Doar sfântă voia Ta!
+
+[v2]
+Vrednic ești de cinste, fii lăudat!
+Împărat al slavei, fii înălțat!
+Alfa și Omega, de-a pururi viu,
+Domn al veșniciei, în veci! Amin!

@@ -1,0 +1,39 @@
+[title]
+La Golgota demult Isus {alternative: {Biserica biruitoare}, composer: {Dan Damian}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {76ipti5BHWWym32p8pFRFF}, contentHash: {b592ee}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,e
+
+[v1]
+La Golgota demult Isus
+Prin sânge sfânt, plăti-n-de-ajuns
+Darul divin al mântuirii prin Hristos,
+Har pentru omul mort, păcătos.
+
+[c1.1]
+Biserica Lui e biruitoare,
+Va fi mereu pân’ la sfârșit.
+Nimeni nu poate să o învingă,
+El ne-a promis!
+
+[c1.2]
+Nu e putere, nu sunt sisteme,
+Nu-s legi făcute pe pământ
+Să ne doboare, să ne oprească,
+Cu noi e Domnul sfânt.
+
+[v2]
+A înviat, S-a înălțat,
+La Cincizecimi a revărsat
+Duhul Cel Sfânt, biserica Lui azi botezând,
+Plini de putere cu El umblând.
+
+[v3]
+Trecut-au regi și-mpărății
+Stăpâni și vremi, cu oameni mii,
+Biserica azi triumfătoare a rămas
+Cu ea e Domnul, pas cu pas.
+
+[e]
+/: Glorie Tatălui, glorie Fiului,
+Glorie Duhului Cel Sfânt, amin! :/

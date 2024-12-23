@@ -1,0 +1,33 @@
+[title]
+Vreau să mă odihnesc {alternative: {*}, composer: {Shalom}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74775}, id: {h1jfS1Q6PNDocc9Mnz52Qx}, contentHash: {89d3af}}
+
+[sequence]
+v1,v2,c,v3,c
+
+[v1]
+Vreau să mă odihnesc la umbra aripilor Tale,
+Primește-mă ‘naintea Ta!
+Te rog, din nou, să-mi umpli inima de pace
+Și dă-mi nădejde prin Cuvântul Tău!
+
+[v2]
+Vreau să mă odihnesc la umbra aripilor Tale,
+Primește-mă așa cum sunt!
+Dă-mi din nou speranță, har, iubire și viață,
+Putere din Duhul Sfânt!
+
+[c]
+Te rog, acum,
+Îndură-te de mine!
+Primește-mă cum sunt:
+Obosit, lovit și frânt!
+Te rog, acum,
+Privește-mi inima,
+Suspinul meu adânc
+Și rana mea cea grea!
+
+[v3]
+Vreau să mă odihnesc la umbra aripilor Tale,
+Scut să-mi fii, tăria mea!
+Vreau să mă-nconjori cu brațele Tale,
+Adăpost să-mi fii în vreme rea!

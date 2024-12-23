@@ -1,0 +1,27 @@
+[title]
+Domnul mă va iubi-ntotdeauna {alternative: {*}, composer: {N. J. Clayton}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {sJNfG7bqvNujtXi6xtu9ra}, contentHash: {f98217}}
+
+[sequence]
+v1,c,v2,c,v3
+
+[v1]
+Domnul mă va iubi-ntotdeauna,
+El și-a dat viața, viață să-mi fie.
+Nu mă despart de Domnul meu,
+Chiar dacă drumu-i greu.
+
+[c]
+Știu că sunt al lui Isus, iar El al meu va fi,
+ Nu numai pe acest pământ, dar și în veșnicii.
+
+[v2]
+Când am strigat pierdut în păcate,
+El mi-a curmat durerile toate
+Și mântuire-n dar mi-a adus,
+El, bunul meu Isus.
+
+[v3]
+Inima mea voioasă tresaltă,
+Liber m-avânt spre ținta înaltă,
+Spre fericirea făr‘ de sfârșit,
+Cu Domnul meu iubit.

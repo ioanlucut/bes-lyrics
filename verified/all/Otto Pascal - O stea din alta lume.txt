@@ -1,0 +1,23 @@
+[title]
+O stea din altă lume {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {101437}, id: {wFduKHdA9z7aED5ieexu1E}, contentHash: {f9525d}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Nici casă nu aveau, nici pat pentru odihnă,
+Doar iubirea lor pentru Fiul ce urma să vină.
+Când în lume S-a născut, era frig și noapte grea.
+L-au învelit, l-au încălzit și parcă ceru-ntreg le zâmbea.
+
+[c]
+O stea din altă lume strălucea sus pe cer,
+Lumina și arăta calea către dragoste.
+Raza ei ne îndreaptă pe drumul către El,
+Peste secole steaua e la fel.
+
+[v2]
+Cu multe sacrificii pe micul Fiu ei Îl hrăneau,
+Însă dragostea îi întărea și pace ei aveau.
+Întunericul și foamea le înfruntau cu ochi senini,
+Știau că Cel ce i-a ales rezolvare va găsi.

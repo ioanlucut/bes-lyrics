@@ -1,0 +1,25 @@
+[title]
+Aș vrea, Isuse-n viața mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {vXyUq5kqATv4ATxJwn2SH3}, contentHash: {aaa1d5}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Aș vrea, Isuse-n viața mea, să Te cunosc,
+Să Te cunosc mai mult.
+Aș vrea, Isuse-n viața mea, să Te cunosc.
+
+[v2]
+Aș vrea, Isuse-n viața mea, să Te iubesc,
+Să Te iubesc mai mult.
+Aș vrea, Isuse-n viața mea, să Te iubesc.
+
+[v3]
+Aș vrea, Isuse-n viața mea, să Te slujesc,
+Să Te slujesc mai mult.
+Aș vrea, Isuse-n viața mea, să Te slujesc.
+
+[v4]
+Aș vrea, Isuse-n viața mea, să-Ți mulțumesc,
+Să-Ți mulțumesc mai mult.
+Aș vrea, Isuse-n viața mea, să-Ți mulțumesc.

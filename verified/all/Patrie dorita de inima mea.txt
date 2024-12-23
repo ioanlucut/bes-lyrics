@@ -1,0 +1,41 @@
+[title]
+Patrie dorită de inima mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3LUq7uoSB4U7rF7zDLkiSo}, contentHash: {4bbc8b}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Patrie dorită de inima mea,
+Țara mea de glorii, vreau a te vedea!
+/: Inima-mi tresare, dorul zboară tare,
+Vino, Doamne, căci Te așteptăm! :/
+
+[c]
+Patrie, o, patria mea,
+Mult mi-e dor s-ajung în ea!
+/: Te-aștept și doresc să văd frumusețea ta,
+Țară de vis, o, patria mea! :/
+
+[v2]
+Cerule albastru, dincolo de nori,
+Cât de cristaline-s ale tale zori!
+/: Înspre dimineață să Te văd în față,
+Vino, Doamne, căci Te așteptăm! :/
+
+[v3]
+Din această lume zilnic voi păși
+Prin căință sfântă spre-a Te întâlni!
+/: Străbătând pustia vom lăsa toți glia,
+Vino, Doamne, căci Te așteptăm! :/
+
+[v4]
+Preaiubit prieten ești chemat și tu,
+Din robia lumii te întoarce acum!
+/: Hai, vino degrabă, Biblia te-ndeamnă:
+Vino azi cât Domnul este bun! :/
+
+[c2]
+Vino, azi, o, vino degrab’,
+El Isus Te-așteaptă-n prag!
+/: Te iubește nespus, pentru tine-a fost străpuns,
+Vino la El, o vino degrab’! :/

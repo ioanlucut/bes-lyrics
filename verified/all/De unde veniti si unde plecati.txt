@@ -1,0 +1,65 @@
+[title]
+De unde veniți și unde plecați {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74921}, id: {nftLKXXUrRNn46PfiZMPch}, contentHash: {9f77f6}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2,v5.1,v5.2
+
+[v1.1]
+De unde veniți și unde plecați,
+Iubiți călători minunați?
+Cu finici în mâini și-n alb îmbrăcați
+Spre ce comoară alergați?
+
+[v1.2]
+Noi mergem, căci Isus ne-așteaptă pe nori.
+Noi mergem la scumpul nostru Mântuitor.
+Cu Isus pe veci noi ca să fim,
+Cu El să ne înveselim.
+
+[v2.1]
+Dar hainele albe unde le-ați spălat?
+Cu ce fel de ape le-ați albit?
+Așa strălucire n-am mai întâlnit
+Decât una-n cerul slăvit.
+
+[v2.2]
+Pe dealul Golgotei izvor am aflat
+Și hainele noastre acol’ le-am spălat.
+Prin sângele Mielului nevinovat,
+În sângele Lui cel curat.
+
+[v3.1]
+Măreață cântarea ce o fredonați
+În cinstea cui o cântați?
+Iar cununa sfântă din aur curat,
+O, cine frumos v-a-mbrăcat?
+
+[v3.2]
+Acolo-n Calvar noi un Domn am aflat,
+Cununa de spini capul I-a încoronat.
+Iar nouă, în schimb, fiindcă L-am urmat,
+Cunună de aur ne-a dat.
+
+[v4.1]
+Nimic n-am avut mai scump pe-acest pământ
+Ca Domnul ce-a fost în mormânt.
+Cu lacrimi o viață noi ne-am hrănit
+De dorul Celui iubit.
+
+[v4.2]
+În al Său Cuvânt El așa ne-a promis,
+Că vom fi cu El cu toții în Paradis.
+Pe-acest Isus noi Îl căutăm
+Căci vrem să Îl lăudăm.
+
+[v5.1]
+E aproape venirea, vine, e pe drum.
+Mireasa-L așteaptă acum.
+Deschis este cerul, iar pe bolta lui
+Apare în slavă Isus.
+
+[v5.2]
+O, vino, o, vino, iubit Salvator!
+O, vino să Te vadă-ntregul popor.
+Căci ani s-au scurs mai mult de două mii
+De când Te-așteptăm să revii.

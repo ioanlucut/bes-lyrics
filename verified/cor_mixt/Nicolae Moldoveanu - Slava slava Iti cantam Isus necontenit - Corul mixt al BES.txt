@@ -1,0 +1,38 @@
+[title]
+Slavă, slavă Îți cântăm Isus necontenit {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {fiRWC1tiecDgUGjy8YfYtg}, contentHash: {894c4f}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,e
+
+[v1.1]
+Slavă, slavă, Îți cântăm, Isus, necontenit,
+Slavă, slavă, Tu ne ești Mântuitor iubit!
+Jertfa Ta e prețul mare, pentru noi răscumpărare
+Din a vieții închisoare, slavă-n veci, Isus!
+
+[v1.2]
+Nimeni nu ne înțelege în a noastră făr’delege,
+Și duios să ne dezlege, decât Tu, Isus.
+
+[v2.1]
+Slavă, slavă, pentru harul Tău cel nesecat,
+Slavă, slavă, ce-l reverși spre noi necontenit
+Harul Tău ne priveghează, viața ne-o îndestulează
+Și în Tine ne-o păstrează, slavă-n veci, Isus!
+
+[v2.2]
+Nimeni nu ne dă lumină în a lumii neagră tină
+Să pășim pe calea lină, decât Tu, Isus!
+
+[v3.1]
+Slavă, slavă pentru vecii cei frumoși ce vin,
+Slavă, slavă, Ție ne-nchinăm, amin, amin!
+Lucruri nemaiauzite, stări cerești preafericite
+Sunt de Tine pregătite, slavă-n veci, Isus!
+
+[v3.2]
+Nimeni, nimeni nu e-n stare să ne ducă-n lumi de soare
+Și-n eternă sărbătoare, decât Tu, Isus!
+
+[e]
+Slavă, slavă!

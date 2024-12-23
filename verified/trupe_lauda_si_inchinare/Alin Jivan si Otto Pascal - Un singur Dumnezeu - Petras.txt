@@ -1,0 +1,42 @@
+[title]
+Un singur Dumnezeu {alternative: {*}, composer: {Alin Jivan și Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {1rwDuxeYUcp4K1RJrn1Zhy}, contentHash: {0bf085}}
+
+[sequence]
+v1,c,b,v2,c2,b2,v3
+
+[v1]
+Faceți drum prin câmpii pentru Cel ce va veni,
+În nevoi, dar și-n belșug se arată slava Lui.
+Peste munți, peste mări, peste-oceane, peste țări,
+Peste orice-ndepărtări rostim Numele Său!
+
+[c]
+Națiunile pământului să laude Numele Lui,
+Căci inimile bat la fel, există un singur Dumnezeu!
+Strigați de bucurie toți și fiți în toate credincioși,
+În orice punct meridian domnește Adonai!
+
+[b]
+/: Yahweh, Alfa și Omega, Domn atotputernic,
+Tot pământul să-I aducă laudă!
+Domnul e izbăvitorul și mântuitorul,
+Doar prin El ajungi la Dumnezeu! :/
+
+[v2]
+Unde El a venit a adus un răsărit,
+Ne-a iubit, ne-a primit, ce-a fost frânt a rezidit.
+Să cântăm, să strigăm, pe cei slabi să-i ridicăm,
+Pe cei mici să-i ajutăm, uniți laudă să-I dăm!
+
+[c2]
+O, cât de bun, o, cât de bun,
+O, cât de bun, Doamne ești cu min’!
+
+[b2]
+/: Sunt salvat, întregit, pe deplin acceptat,
+În Isus sunt vindecat, Tatăl mi-a dat favoare,
+Sunt fiul Său, toată viața-L voi lăuda! :/
+
+[v3]
+Iar încercări când vor veni, Doamne, adu-mi aminte:
+Destinul meu e-n mâna Ta, Te-ai dat pentru mine.

@@ -1,0 +1,53 @@
+[title]
+Privim spre Mielul {alternative: {Behold the Lamb}, composer: {Keith Getty și Kristyn Getty & Stuart Townend}, writer: {Keith Getty și Kristyn Getty & Stuart Townend; Cristian Coțovan și Kenneth Tucker}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {133702}, id: {i2sdwaC5tige7YMB7k9fPN}, contentHash: {9de861}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+Privim spre Mielul ce păcatele
+Le-a purtat și ne-amintim:
+El a promis că cei ce vin crezând
+Sunt iertați la crucea Lui.
+
+[v1.2]
+/: Împărțim Pâinea vieții azi
+Și cu toți bem din jertfa Lui.
+Pacea Lui ne-a unit pe veci
+În jurul mesei Regelui. :/
+
+[v2.1]
+Că trupul salvatorului Isus
+A fost frânt, să ne-amintim.
+Prin răni și moarte, viață ne-a adus,
+Una ne-a făcut cu El.
+
+[v2.2]
+/: Împărțim Pâinea vieții azi
+Și cu toți bem din jertfa Lui,
+Harul Lui ne-a unit pe veci
+În jurul mesei Regelui. :/
+
+[v3.1]
+Și sângele ce spală-orice păcat
+S-a vărsat, să ne-amintim.
+Paharul morții l-a băut,
+Ca noi să intrăm în viața Lui.
+
+[v3.2]
+/: Împărțim Pâinea vieții azi
+Și cu toți bem din jertfa Lui,
+Iubirea Lui ne-a unit pe veci
+În jurul mesei Regelui. :/
+
+[v4.1]
+Cu mulțumire și credință
+Azi noi venim să ne-amintim
+Chemarea de-a păși pe urma Sa,
+Pe pământ, ca Trup al Său.
+
+[v4.2]
+/: Și părtași suferinței Lui
+Proclamăm: El va reveni!
+Și tânjim la ospăț să stăm
+În jurul mesei Regelui. :/

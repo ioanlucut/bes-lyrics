@@ -1,0 +1,41 @@
+[title]
+E mult prea scumpă viața asta {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58039}, id: {tRVAjoWmjpsNGgiQH6bCdv}, contentHash: {2fc3b1}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+E mult prea scumpă viața asta
+Ca s-o petreci nepăsător.
+/: E mult prea scumpă orice clipă
+S-o lași să treacă fără spor. :/
+
+[v2]
+E mult prea scump Cuvântul vieții
+Să-l poți uita și-un ceas măcar.
+/: E mult prea scumpă rugăciunea
+Să-i poți nesocoti vreun har. :/
+
+[v3]
+E mult prea scumpă adunarea
+Să nu faci totul pentru ea.
+/: E mult prea scumpă-mbrățișarea
+Să-ți pară vreo iertare grea. :/
+
+[v4]
+E mult prea scumpă răsplătirea
+Statorniciei la sfârșit.
+/: Să-ți par-acum prea grea-ncercarea
+Pe care-o ai de suferit. :/
+
+[v5]
+E mult prea scumpă mântuirea
+Să nu-i dai totul pe pământ.
+/: Și pacea inimii și slava
+Statornicului legământ. :/
+
+[v6]
+E mult prea scumpă veșnicia
+S-o dai pe-o umbră și pe-un fum.
+/: E mult prea scump Hristos și raiul
+Să nu dai tot să-L ai acum. :/

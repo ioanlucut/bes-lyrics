@@ -1,0 +1,18 @@
+[title]
+Duhule Sfânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1d9v1JUVcTmWFmx95kqJR7}, contentHash: {ca5e7c}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Duhule Sfânt, chemăm prezența Ta minunată,
+Duhule Sfânt, coboară peste noi,
+Duhule Sfânt, ne-nchinăm cu reverență sfântă,
+Duhule Sfânt, fă-Ți lucrarea Ta.
+
+[c]
+/: Fii liber între noi,
+Atinge-ne cu dragostea Ta,
+Curățește-ne cu flacăra Ta
+Și-mplinește voia Ta, :/
+Duhule Sfânt, Duhule Sfânt!

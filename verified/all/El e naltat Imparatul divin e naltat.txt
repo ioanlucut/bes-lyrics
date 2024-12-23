@@ -1,0 +1,18 @@
+[title]
+El e ‘nălțat, Împăratul divin e ‘nălțat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1230}, id: {5R9jpnJnMPkhTAYnTjtvSp}, contentHash: {48a997}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+El e ‘nălțat, Împăratul divin
+E ‘nălțat, Îl voi lăuda!
+El e ‘nălțat, Împăratul divin
+Veșnic Îl voi lăuda!
+
+[c]
+/: El este Domn! Da, El Adevărul e!
+Cer și pământ
+Tresaltă ‘naintea Lui!
+El e ‘nălțat,
+Împăratul divin e ‘nălțat :/

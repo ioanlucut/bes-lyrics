@@ -1,0 +1,35 @@
+[title]
+Doi părinți aleargă-n noapte {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1580}, id: {oAQdqFhsuVrTfEtPbVek7U}, contentHash: {a0f615}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doi părinți aleargă-n noapte
+Să-mplinească ce e scris.
+Este timpul să Se nască
+Mesia demult promis.
+
+[c]
+Nu sunt locașuri, doar mica iesle
+Ți-a mai rămas să intri-n ea.
+Astăzi mai ai o încăpere,
+Isuse drag, inima mea.
+
+[v2]
+Multe daruri sunt făcute
+Pentru oameni pe pământ,
+Fă un dar și pentru Isus,
+Inima ta să-I dai zicând:
+
+[v3]
+Isus Se naște, slavă, mărire,
+Cu îngerii Îi cânt și eu.
+Tu Te-ai născut și pentru mine,
+Îți mulțumesc, o, Domnul meu.
+
+[v4]
+Pământ și ceruri cântă-mpreună,
+Mă-nchin și eu și Te slăvesc,
+O, sfinte Domn, ce pentru mine,
+Azi Te-ai născut, Îți mulțumesc.

@@ -1,0 +1,29 @@
+[title]
+M-ai binecuvântat, o, Doamne {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {132437}, id: {ig51rCmeX2oARMRDTK8s6s}, contentHash: {ffc0bd}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+M-ai binecuvântat, o, Doamne!
+Cuvântul Tău cu mine ai împlinit.
+/: Mi-ai dat și mie harul jertfei Tale,
+Să fiu răscumpărat și mântuit. :/
+
+[v2]
+Ești cetățuia mea și medic,
+Privirea Ta o ai asupra mea.
+/: Te îngrijești de mine, bun Stăpâne,
+Cum nimeni niciodată n-ar putea. :/
+
+[v3]
+Te laud, Te slăvesc, o, Doamne,
+În casa mea minuni ai făptuit!
+/: Când Te-am chemat, cu brațul Tău de Tată,
+Întotdeauna Tu ne-ai izbăvit. :/
+
+[v4]
+Te voi urma, Isuse Doamne,
+În ascultare voia-Ți voi împlini.
+/: Ca ucenic, mereu smerit, slujindu-Ți
+Glorificat, să fii Isus iubit! :/

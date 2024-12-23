@@ -1,0 +1,10 @@
+[title]
+Căci este bun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dwgfPZh7DS7JiT11kLPFkV}, contentHash: {25c3b8}}
+
+[sequence]
+v1
+
+[v1]
+Căci este bun
+Și în veac ține îndurarea Lui,
+Îl voi lăuda toată viața mea!

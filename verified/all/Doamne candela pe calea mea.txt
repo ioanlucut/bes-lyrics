@@ -1,0 +1,21 @@
+[title]
+Doamne, candelă pe calea mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {151231}, id: {vC3v2yqYDtP2zKVsZ8RxJ1}, contentHash: {3156f5}}
+
+[sequence]
+c,v1,c,v2
+
+[c]
+/: Doamne, candelă pe calea mea
+E Cuvântul Tău cel sfânt. :/
+
+[v1]
+Singur când mă simt, ratăcit pe drum,
+Ești alături de mine.
+Teamă de nimic eu nu am, atunci
+Când mă aflu lângă Tine!
+
+[v2]
+Eu nu voi uita cum dragostea Ta
+Pentru mine ai arătat.
+Călăuza mea ești totdeauna,
+Teama Tu mi-ai alungat.

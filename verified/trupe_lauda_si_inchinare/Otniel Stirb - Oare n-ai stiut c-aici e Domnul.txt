@@ -1,0 +1,36 @@
+[title]
+Oare n-ai știut c-aici e Domnul? {alternative: {*}, composer: {Otniel Stirb}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {145697}, id: {i721dvcjFhnydDx24NgXpa}, contentHash: {be9677}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cât de-nfricoșat e locul unde
+Domnul ne vorbește prin Cuvânt,
+Iar pe scara cerului coboară
+Îngeri aducând mesajul sfânt.
+
+[c]
+/: Oare n-ai știut că-aici e Domnul
+Oare n-ai știut că-aici e El?
+Dumnezeu din slăvi ne cercetează
+Căci aici e casa Lui,
+Poarta cerului, Betel. :/
+
+[v2]
+Ca și Iacov prin acea pustie,
+Poate nici tu nu știi unde ești.
+Domnul stă aici, deasupra scării,
+Astăzi poți cu El să te-ntâlnești.
+
+[v3]
+Căci așa ne-a spus Mântuitorul
+Când era la noi jos pe pământ:
+Dacă doi sau trei vor fi-mpreună
+Sunt și Eu prezent prin Duhul Sfânt.
+
+[v4]
+Dacă vrei să-I simți a Lui prezență,
+Dacă vrei să-I vezi puterea Sa,
+Cheamă-L pe Isus azi cu credință
+Și de poala hainei nu-L lăsa.

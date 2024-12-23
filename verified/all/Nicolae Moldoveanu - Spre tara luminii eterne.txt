@@ -1,0 +1,35 @@
+[title]
+Spre țara luminii eterne {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {75462}, id: {8CKevq1Hmuc7ErxkrpkD2i}, contentHash: {bee3c2}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Spre țara luminii eterne,
+Noi azi călătorim,
+Pe drum suferință se-așterne,
+Dar noi o biruim.
+
+[c]
+/: Căci viața noastră-i plină
+De cel mai mare dar,
+Isuse, izvor de lumină
+Și scump mărgăritar. :/
+
+[v2]
+Iubirea Ta astăzi ne cheamă
+Din lumea de dureri
+Și-n drumul spre țara cea dragă
+Ne dă dulci mângâieri.
+
+[v3]
+Frumoasă, frumoasă e țara,
+Ce Tu ne-ai pregătit,
+Eternă va fi primăvara
+În cerul fericit.
+
+[v4]
+De aceea privirea se-ndreaptă
+Mai sus de zări, mai sus
+De unde cu dor azi așteaptă,
+Să vii, să vii Isus.

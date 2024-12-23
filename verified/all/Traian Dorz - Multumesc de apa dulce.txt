@@ -1,0 +1,41 @@
+[title]
+Mulțumesc de apa dulce {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4001}, id: {tydsZ2cLUHevLBhivXW7Mg}, contentHash: {cbe032}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Mulțumesc de apa dulce
+De izvor din care beau.
+Cer iertare pentru apa
+Tulburată făr’ să vreau.
+
+[c]
+/: Doamne, ține minte numai
+Ce-am făcut pe placul Tău,
+Dar nu-Ți mai aduce-aminte
+De nimic din ce-a fost rău. :/
+
+[v2]
+Mulțumesc de pâinea care
+M-a hrănit flămând fiind.
+Cer iertare pentru pâinea
+Ce-am călcat-o neștiind.
+
+[v3]
+Mulțumesc de rugăciunea
+Prinsă înspre cer arzând.
+Cer iertare pentru ruga
+Închinată murmurând.
+
+[v4]
+Mulțumesc de ziua plină
+Folosită spre Hristos.
+Cer iertare pentru ziua
+Ce-am pierdut-o făr’ folos.
+
+[v5]
+Mulțumesc de tot ce-n viață
+Pentru Domnul am făcut.
+Cer iertare pentru câte
+Nu I-am dat și le-am pierdut.

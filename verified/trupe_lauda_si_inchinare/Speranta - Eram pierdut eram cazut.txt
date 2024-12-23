@@ -1,0 +1,47 @@
+[title]
+Eram pierdut, eram căzut {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6673}, id: {uNtbRPeeKuQnCbRJd4FRqt}, contentHash: {989174}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Eram pierdut, eram căzut,
+Eram trist și apăsat.
+Trăiam o viață de suspin,
+Trăiam o viață în păcat.
+
+[v1.2]
+Timpul și-averea o cheltuiam
+Pe lucruri fără de folos,
+Dar într-o zi m-am întâlnit
+Cu Isus Hristos!
+
+[c]
+Viața mea s-a schimbat
+Când Isus m-a eliberat,
+La Golgota am venit,
+Iar Hristos iertarea Sa mi-a dăruit!
+
+[v2.1]
+Credința ce-aveam în inimă
+Era doar o teorie.
+Prin ce gândeam și ce vorbeam
+Eram pierdut pentru vecie.
+
+[v2.2]
+Frica și groaza m-au cuprins,
+Eram speriat, căzut jos,
+Dar într-o zi m-am întâlnit
+Cu Isus Hristos!
+
+[v3.1]
+Viața mea a fost schimbată
+De Cuvântul Domnului.
+Viața mea a fost transformată,
+Astăzi sunt copilul Lui!
+
+[v3.2]
+Am speranță, sunt fericit,
+E-atât de frumos.
+Într-o zi L-am întâlnit
+Pe Isus Hristos!

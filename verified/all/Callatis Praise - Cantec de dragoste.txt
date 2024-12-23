@@ -1,0 +1,24 @@
+[title]
+Cântec de dragoste {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6789}, id: {bBAsRvKQfirPn9qKabKq5h}, contentHash: {d6bd9a}}
+
+[sequence]
+v1,c
+
+[v1]
+Mă plimbam printre ceruri, te visam
+C-un cuvânt pentru tine am creat:
+Soarele să-ți încălzească zilele,
+Luna să îți lumineze nopțile.
+Te iubesc și să știi, s-a meritat
+Pentru tine să port crucea de păcat,
+Și am o inimă ce bate cu a ta,
+Și mă zdrobește orice lacrimă de-a ta!
+
+[c]
+Dau și munți, și univers,
+Și tot ce am pe viața ta,
+Și-am acceptat să mor pe lemn
+Să îți arăt dragostea.
+Și te-am născut și te-am purtat
+Și ești de preț în ochii mei
+Căci te iubesc așa de mult!

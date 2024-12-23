@@ -1,0 +1,19 @@
+[title]
+Poala hainei Tale {alternative: {*}, composer: {Cristocentric}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111423}, id: {gkWXw3K2wBzRF2b38zGgEK}, contentHash: {8881c7}}
+
+[sequence]
+v1,c,e
+
+[v1]
+/: Poala hainei Tale, umple templul sfânt,
+Mă-nchin cu reverență, cu fața la pământ. :/
+
+[c]
+M-ating de poala hainei Tale și sunt vindecat,
+Prin Tine eu primesc viață și sunt eliberat.
+Duhul Tău e peste mine, sunt uimit de-a Ta iubire,
+Tu faci să plouă o ungere nouă!
+
+[e]
+/: Nimeni nu e ca Tine, Isus!
+Nimeni nu e ca Tine, Isus! :/

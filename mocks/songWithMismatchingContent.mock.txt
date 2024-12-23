@@ -1,0 +1,8 @@
+[title]
+My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}
+
+[sequence]
+v1,c
+
+[v1]
+Row 1

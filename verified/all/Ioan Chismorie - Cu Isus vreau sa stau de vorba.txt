@@ -1,0 +1,36 @@
+[title]
+Cu Isus vreau să stau de vorbă {alternative: {*}, composer: {Ioan Chișmorie}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {we57JPDogiVG7Nk2KHDn3n}, contentHash: {2a8067}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
+
+[v1.1]
+Cu Isus vreau să stau de vorbă
+Atunci când suntem numai noi,
+Să-I spun ce n-am mai spus la nimeni
+Și-apoi /: să plângem amândoi. :/
+
+[v1.2]
+/: Să mă uit în fața Lui și să-I spun Lui tot,
+Și să-I dau Lui sarcina ca să n-o mai port. :/
+
+[v2.1]
+Din câți vorbitu-mi-au pe lume,
+Mai drag ca El pe nimeni n-am.
+De El ascultă și furtuna,
+Pe-acest Isus aș vrea să-L am,
+Pe Isus aș vrea să-L am!
+
+[v2.2]
+/: Nu L-aș mai lăsa nicicând din inima mea
+Și tot ce-aș avea mai scump lui Isus I-aș da. :/
+
+[v3.1]
+Iubesc privirea Lui cea blândă,
+Și vocea Lui vreau s-o ascult,
+De mi-ar vorbi o viață-ntreagă,
+Nicicând /: nu mi-ar părea prea mult! :/
+
+[v3.2]
+/: Când te uiți la fața Lui și-L vezi lăcrimând,
+Chiar de-ai fi dușmanul Lui, te trezești plângând. :/

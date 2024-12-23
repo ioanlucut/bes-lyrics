@@ -1,0 +1,35 @@
+[title]
+Ce plăcută-i părtășia dintre frați, dintre surori {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {95404}, id: {xy5rAzPbDrAg5HuQWHn3yv}, contentHash: {28d523}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce plăcută-i părtășia dintre frați, dintre surori,
+Când domnește armonia, când e cerul fără nori,
+Când iubim toți adevărul și prin el liberi trăim,
+Atunci cât este de bine ca-mpreună toți să fim.
+
+[c]
+Părtășie, părtășie, binecuvântată ești,
+Ne dai multă bucurie și pe toți ne înfrățești.
+Părtășie, părtășie, exercițiu necesar
+Pentru toți ce vor s-ajungă-n Canaan.
+
+[v2]
+Ce plăcută-i părtășia când e pace între frați,
+Când domnește armonia între cei ce-s adunați.
+Unitate e acolo, bucurie-n Duhul Sfânt,
+Și acolo parcă cerul coborât e pe pământ.
+
+[v3]
+Ce plăcută-i părtășia când lipsește-orice păcat,
+Iar pe față bucuria radiază ne-ncetat.
+Când simțim prezența vie a tot ce-i dumnezeiesc,
+Părtășia se transformă în ceva sublim, ceresc.
+
+[v4]
+Necesară-i părtășia pentru cei de pe pământ
+Să trăim aici, ca-n ceruri, în prezența Celui Sfânt;
+Căci în cer nu poți ajunge dacă nu ești pregătit
+Și dacă al părtășiei test tu nu l-ai absolvit.

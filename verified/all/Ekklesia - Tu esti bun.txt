@@ -1,0 +1,22 @@
+[title]
+Tu ești bun {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2462}, id: {sbaTXWKqxrwEPbBtpzF3v6}, contentHash: {c32bc9}}
+
+[sequence]
+c,v1,c,v1,b,c
+
+[c]
+Unii spun că nu poți fi găsit,
+Alții spun că nu poți fi văzut,
+Dar știu că-n mine, Doamne, Tu trăiești
+Și-n inimă eu vreau să îmi vorbești.
+
+[v1]
+Tu ești bun și iubirea Ta e-n mine,
+Tu ești bun și iubirea Ta rămâne,
+Tu ești bun și iubirea Ta e-n mine,
+Tu ești bun, Tu ești bun.
+
+[b]
+Numai Tu, Isus,
+Numai Tu îmi ești de-ajuns,
+Numai Tu, Isus, ești Domn.

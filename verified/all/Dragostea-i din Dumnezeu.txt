@@ -1,0 +1,34 @@
+[title]
+Dragostea-i din Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {du3N88cBHHPhiGRHwUNnWk}, contentHash: {e59924}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Chiar când toate s-or sfârși,
+Cunoștința de-ar muri,
+Ea, dragostea, va rămânea,
+Veșnic, pururea.
+
+[v2]
+Dragostea-i din Dumnezeu,
+Dragostea e Dumnezeu,
+Dragostea, singura, ea va rămânea.
+Prorociile s-or sfârși,
+Limbile vor înceta,
+Dar în veci, rămâne dragostea.
+
+[v3]
+Chiar atunci când ți-este greu,
+Valuri vin și vin mereu,
+Când ești zdrobit și obosit,
+Nu ești părăsit.
+
+[v4]
+Lângă tine-i Dumnezeu,
+Lângă tine-i brațul Său,
+Tot ce-i rău, în jurul tău,
+Nu va mai exista.
+Ceața se va risipi
+Și un glas îți va șopti:
+„Sunt aici, aici mereu voi fi!”

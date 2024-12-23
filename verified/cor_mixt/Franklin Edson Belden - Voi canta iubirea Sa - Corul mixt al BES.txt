@@ -1,0 +1,29 @@
+[title]
+Voi cânta iubirea Sa {alternative: {*}, composer: {Franklin Edson Belden}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {qEgxGnZu4dmwY6XLydWXX9}, contentHash: {3598a5}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Voi cânta, voi cânta de dragostea lui Isus,
+Lui Isus venit de sus
+Și murind și murind crucificat
+Viața mea El a salvat,
+
+[c]
+Voi cânta iubirea Sa
+Și voi sta la Golgota,
+Moartea Sa e viața mea,
+Aleluia voi cânta!
+
+[v2]
+Ruinat, ruinat greu de păcat,
+De Isus, de Isus mă știu salvat,
+El mi-a dat, El mi-a dat viața Sa
+Și curat-o voi păstra.
+
+[v3]
+Dragoste, dragoste făr’ de sfârșit mi-a turnat,
+Mi-a turnat Domnul iubit,
+M-a umplut, m-a umplut de pacea Sa
+Și mi-a dat renașterea.

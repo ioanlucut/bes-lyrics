@@ -1,0 +1,38 @@
+[title]
+Liber {alternative: {Adaptare după Brian Johnson; No Longer Slaves}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157507}, id: {2Bmui4M4wzv7FuNSvb4U62}, contentHash: {bd1eee}}
+
+[sequence]
+v1,c,v2,b,c2
+
+[v1]
+Tu mă înconjori cu un cântec nou,
+Și-orice frică Tu îmi iei.
+Și din greu păcat, Tu m-ai ridicat,
+Cu Tine sunt de neînfrânt!
+
+[c]
+/: Frica nu mai e stăpân,
+Azi sunt copilul Tău!
+Frica nu mai e stăpân,
+Azi sunt copilul Tău! :/
+
+[v2]
+Chiar când nu eram, Tu m-ai cunoscut,
+Pe nume m-ai chemat.
+M-ai născut din nou, m-ai făcut al Tău,
+Viață Tu mi-ai dat.
+
+[b]
+Mă înconjori
+Cu brațe de Tată,
+Când ești cu mine
+Doamne, eu pot să cânt!
+Astăzi suntem liberi din robie,
+Suntem fii și fiice,
+Să cântăm azi liberi!
+
+[c2]
+/: Marea despici, să pot să trec prin ape
+Și orice frică-ai înecat.
+Tu m-ai salvat și astăzi cânt că sunt
+Copil de Dumnezeu! :/

@@ -1,0 +1,29 @@
+[title]
+Doamne, îndrumă-mi pașii {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {193757}, id: {rW4ruC6gC1NyhebjFAbNzU}, contentHash: {acf706}}
+
+[sequence]
+v1,b,c,v2,c
+
+[v1]
+Inima mi-e goală, nu mai știu ce cred,
+Totul e ruină și mă simt stingher.
+Îmi îndrept privirea către cer și strig,
+Doamne, doar Tu poți să mă ridici!
+
+[b]
+Mă smeresc acum și recunosc puterea Ta,
+Mă închin cu toată ființa mea!
+
+[c]
+Doamne, îndrumă-mi pașii pe cărarea vieții,
+Căci am fost pierdut, dar m-ai găsit.
+Vreau să-mi umpli inima din nou cu harul Tău!
+Nu-i nimic în lume să mă împlinească,
+Doar iubirea Ta m-a întărit,
+Te voi lăuda cu tot ce sunt, Isuse scump!
+
+[v2]
+Cred în Tine, Doamne, cred cu inima,
+Vino lângă mine și nu mai pleca.
+Lângă Tine-i pace, singur nu mai sunt,
+Harul Tău îmi este îndeajuns!

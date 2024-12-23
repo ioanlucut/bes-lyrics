@@ -1,0 +1,29 @@
+[title]
+Nimeni, nimeni nu-i ca Tine {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gMimBbiBFUiSVyEq7PzXkB}, contentHash: {b45122}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nimeni, nimeni nu-i ca Tine, nici n-a fost, nici nu va fi,
+Văi și dealuri și coline, toate-n brațul Tău le ții.
+Bucuria vieții mele ești doar Tu, Stăpâne bun,
+De aceea cu iubire ne-ncetat aș vrea să-Ți spun:
+
+[c]
+Tu ești fericirea mea, Tu ești raza mea de soare,
+Pentru nimeni nu Te-aș da,
+Pe nimic nu Te-aș schimba,
+Tu ești, Doamne, a mea splendoare!
+
+[v2]
+Cei ce nu-Ți cunosc iubirea rătăcesc neștiutori,
+Cultivând doar amăgirea de cu seară până-n zori.
+Ei nu au nicio speranță, au doar un nesigur drum,
+Dar eu sunt în siguranță, de aceea-Ți cânt și-Ți spun:
+
+[v3]
+Ca și David imnuri sfinte Ție totdeauna-Ți cânt,
+Căci Tu iei mereu aminte la ai Tăi de pe pământ.
+Îți aduc cu umilință, pentru tot ce-aici mi-ai dat,
+Veșnică recunoștință, preaslăvite Împărat!

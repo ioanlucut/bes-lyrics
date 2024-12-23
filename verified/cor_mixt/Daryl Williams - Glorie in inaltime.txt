@@ -1,0 +1,27 @@
+[title]
+Glorie în înălțime {alternative: {*}, composer: {Daryl Williams}, writer: {Dinu Fedur}, arranger: {Jay Rouse}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {h7m4wBZLo27fSaCpuHwGVJ}, contentHash: {3cdb0e}}
+
+[sequence]
+v1.1,v1.2,v2,v1.2,e
+
+[v1.1]
+Priviți în sus: un înger în zbor
+Aduce acum o veste a unui Salvator.
+Apoi, cu el, o oaste din cer
+Uniți cu toții într-un cântec laudă pe Dumnezeu.
+
+[v1.2]
+Glorii în înălțime, pace fie pe pământ!
+Iată, S-a năsut Copilul slavei într-o mică iesle-n Betleem!
+Aleluia, se aud ecouri căci tot cerul este într-un cânt,
+Glorii din înălțime, glorii, pace fie pe-ntreg pământ!
+
+[v2]
+Și azi aici ca și-n trecut
+Sună iar cântări spre slava Celui Sfânt.
+Ei sunt acei ce au primit
+Salvarea sfântă din păcat prin Cel ce S-a născut.
+
+[e]
+Glorii în înălțime, glorii, pace fie pe-ntreg pământ
+Acum și-n veci de veci, glorii în înălțime!

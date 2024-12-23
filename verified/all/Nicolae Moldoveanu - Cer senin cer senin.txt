@@ -1,0 +1,42 @@
+[title]
+Cer senin, cer senin {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {72097}, id: {dDTEdGjXBk84L1JWGcBix2}, contentHash: {3810ca}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Cer senin, cer senin,
+Plin ești de lumină, plin,
+Raza ta, raza ta,
+Încălzește viața mea.
+
+[c]
+Cer senin, cer senin,
+De lumină ești plin,
+Vin’ în viața mea, vin’,
+După Tine suspin,
+Cer senin, cer senin.
+
+[v2]
+Cer slăvit, cer slăvit,
+De Isus ești pregătit,
+Ca să fii, ca să fii,
+Loc de-odihnă pe vecii.
+
+[v3]
+Cer divin, cer divin,
+În viața mea vin’,
+Chiar acum, chiar acum,
+Când alerg pe-al vieții drum.
+
+[v4]
+Cer sublim, cer sublim,
+Tu ești Nou Ierusalim
+Și doresc, și doresc,
+Slava Ta s-o moștenesc.
+
+[v5]
+Cer frumos, cer frumos,
+Loc al Domnului Hristos,
+Voi fi dus, voi fi dus,
+În curând, la tine sus.

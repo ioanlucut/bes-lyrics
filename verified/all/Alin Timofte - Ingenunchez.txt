@@ -1,0 +1,27 @@
+[title]
+Îngenunchez {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59811}, id: {7CTrDfwa6D3toKymPCRADK}, contentHash: {42aeda}}
+
+[sequence]
+v1,b,c,v2,b,c
+
+[v1]
+Îngenunchez ‘naintea cerului și aștept,
+Clipele se scurg în etern,
+Iar cerul parcă tace acum.
+
+[b]
+Sufletul meu așteaptă un răspuns din înalt
+Și tot mai mult, o, Isuse,
+Doresc să mă înalț către cer, spre Dumnezeu.
+
+[c]
+Aș vrea să zbor, să Te-ntâlnesc,
+Să mă ascund printre îngerii Tăi.
+Să Te ador, să Te înalț,
+Prezența Ta să mă umple din nou.
+Cu Duhul Tău.
+
+[v2]
+O, Domnul meu, mă-nchin în fața tronului Tău,
+Văd mii de îngeri cum cântă
+Și plin de uimire m-aplec în fața Ta.

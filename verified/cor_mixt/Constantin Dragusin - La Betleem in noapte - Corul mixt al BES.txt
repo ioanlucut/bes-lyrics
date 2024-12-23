@@ -1,0 +1,19 @@
+[title]
+La Betleem, în noapte {alternative: {*}, composer: {Constantin Drăgușin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {5eTCya2rWQF2dxKMybPJra}, contentHash: {e8af8a}}
+
+[sequence]
+v1,v2
+
+[v1]
+La Betleem, în noapte, o stea pe cer s-arată,
+E steaua ce vestește minunea-adevărată:
+Că S-a născut în staul, în ieslea cea săracă
+Smeritul Prunc, Mesia, din preacurata maică.
+
+[v2]
+/: Fiul cel din veci dorit pe pământ S-a pogorât. :/
+Îngeri din cer imnuri cântând,
+Păstori pe dealuri fluierând,
+Iar cei trei crai călări pe cai vin căutând din Răsărit
+Și întrebând und’ S-a născut Hristos.
+/: La Betleem, la Betleem, acolo S-a născut Hristos! :/

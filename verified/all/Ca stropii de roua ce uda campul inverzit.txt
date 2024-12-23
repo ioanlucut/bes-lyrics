@@ -1,0 +1,29 @@
+[title]
+Ca stropii de rouă ce udă câmpul înverzit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2132}, id: {5Ad8RHPaeSxnMcuEoBGdp3}, contentHash: {d710b4}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ca stropii de rouă ce udă câmpul înverzit,
+Ca norii din văzduh ce-aleargă necontenit.
+Ca raza de soare ce umple văzduhul mereu,
+/: Doresc Isuse să umpli și sufletul meu. :/
+
+[v2]
+Cum cerbul dorește izvorul cristalin,
+Cum râul gonește, aleargă spumegând,
+Alerg și eu, Doamne, spre Tine cu un dor mai sublim,
+/: Să-mi dai din apa ce curge, din tronul divin. :/
+
+[v3]
+Cum stelele noaptea pe cer eu le zăresc,
+Oricât le-aș privi, frumos ele strălucesc.
+Privește Isuse, azi, spre ființa mea.
+/: Vino și fă-mă să strălucesc ca o stea. :/
+
+[v4]
+Nu pot găsi un loc mai bun și mai frumos
+Decât lângă Tine să fiu mereu voios.
+La Tine e harul, la Tine e pacea mea,
+/: Toți cei ce vin la Tine s-or repauza. :/

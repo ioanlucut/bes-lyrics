@@ -1,0 +1,17 @@
+[title]
+Inima mea Te laudă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {otGHA7oNZeAzM9Wvdv187M}, contentHash: {1eff42}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Inima mea Te laudă,
+Tu ești Domnul meu,
+Inima mea Te adoră,
+Tu ești Prințul păcii.
+
+[c]
+Fii înălțat
+Căci Tu ești sfințenia mea,
+Inima mea Te laudă,
+Tu ești Domnul meu!

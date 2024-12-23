@@ -1,0 +1,29 @@
+[title]
+Aș vrea să mă-ntâlnesc cu Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2117}, id: {akiQc9LcbcnSjHbddqQxZf}, contentHash: {844691}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Aș vrea să mă-ntâlnesc cu Domnul,
+Să-L văd în față, să-L privesc,
+Să-I spun că, în această lume,
+Mai mult ca toate-L prețuiesc!
+
+[c]
+Mai scump, mai dulce-i al Său Nume,
+Pentru mine e mai scump,
+Și nimic în această lume
+Eu nu prețuiesc mai mult.
+
+[v2]
+Aș vrea să-L văd față în față
+Căci știu că m-ar primi cu drag
+Și să-I arăt a mea viață
+Că sunt un păcătos pribeag.
+
+[v3]
+Aș vrea să-I spun a mea durere,
+Să-I dau lui Isus sarcina,
+Să-I spun că eu nu am pe nimeni
+Să-mi ducă la Calvar crucea.

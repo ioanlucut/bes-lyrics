@@ -1,0 +1,35 @@
+[title]
+Ce mă spală de păcat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {210732}, id: {2EdpXo4exDaBEMLqGXaUQU}, contentHash: {1faac0}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ce mă spală de păcat?
+Numai sângele lui Isus!
+Să mă știu deplin iertat?
+Numai sângele lui Isus.
+
+[c]
+Sângele Lui curat,
+Ce mă spală de păcat.
+Astăzi eu sunt salvat
+Prin sfânt sângele lui Isus!
+
+[v2]
+Cine mă va împăca?
+Numai sângele lui Isus!
+Și la Tatăl voi intra,
+Doar prin sângele lui Isus!
+
+[v3]
+Cine mă face primit?
+Numai sângele lui Isus!
+De Părintele iubit,
+Numai sângele lui Isus!
+
+[v4]
+De păcat m-a izbăvit
+Numai sângele lui Isus!
+Cugetul mi-a liniștit,
+Numai sângele lui Isus!

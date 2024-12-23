@@ -1,0 +1,23 @@
+[title]
+Ce scumpă-i ziua în care Isus v-a unit {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111949}, id: {bRRcKZEhCeoB6g5xgcaYRJ}, contentHash: {f198b0}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Știm că e ziua în care așteptați Domnul Isus să vă dea
+Un viitor spre veșnicii, cu zâmbet și flori să pășiți,
+Știm că e lucrul cel mai plăcut, cu Domnul la drum să porniți,
+Noi vă dorim să vă iubiți pân’ la sfârșit!
+
+[c]
+Ce scumpă-i ziua în care Isus v-a unit,
+Una în Domnul să fiți.
+Rămâneți în dragostea ce Isus v-a dat-o în dar,
+Pe veci vă bucurați, să fiți una!
+
+[v2]
+Când soarele va apărea, voi să nu uitați nicicând
+Să-I mulțumiți Domnului cel Sfânt, care din cer v-a unit.
+El să vă fie călăuză-n veci, în locul în care pășiți,
+Să o purtați cu voi făclia, mereu să vă iubiți!

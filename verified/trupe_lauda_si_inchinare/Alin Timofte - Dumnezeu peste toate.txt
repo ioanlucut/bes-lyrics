@@ -1,0 +1,36 @@
+[title]
+Dumnezeu peste toate {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227447}, id: {sH1WdMXswMAnvr38bkADJn}, contentHash: {6ceeb3}}
+
+[sequence]
+v1,c,v2,c,e,c
+
+[v1]
+Ești vrednic,
+Puternic, al lumii Creator,
+Statornic.
+Din veci de veci Tu domnești pe tron,
+De-aceea Îți cânt
+Cu-ntregul pământ.
+Natura declară măreția Ta,
+
+[c]
+Tu ești Dumnezeu peste toate,
+Atotputernic Rege, ești inălțat.
+Nimic de Tine nu ne desparte
+Prin Fiul Tău pe veci ne-ai răscumpărat,
+Fii lăudat! Glorificat!
+
+[v2]
+Nu merit
+Iertarea ce am primit-o-n dar,
+Iar pacea
+Ce mă inundă prin al Tău har
+Ma-ndeamnă să-Ți cânt
+Cu-ntregul pământ
+Să știe oricine de iubirea Ta.
+
+[e]
+/: Chiar de ar cădea
+Zece mii la dreapta mea
+Sunt în mâna Ta
+Și de-a pururi eu voi declara: :/

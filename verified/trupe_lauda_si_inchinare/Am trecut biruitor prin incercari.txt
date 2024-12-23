@@ -1,0 +1,30 @@
+[title]
+Am trecut biruitor prin încercări {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4192}, id: {dKX7bb1kGiXc1kvnQhRsw9}, contentHash: {dae8f1}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Către Tine, Doamne, gândul mi-l îndrept,
+În ispite și-n necaz puteri aștept.
+Peste mine vremuri grele au trecut,
+Tu, Isus, cu brațul tare, m-ai ținut.
+
+[c]
+/: Am trecut biruitor prin încercări,
+În ispite și-n necaz mi-ai dat puteri.
+Astăzi, Doamne-Ți mulțumesc
+Și, plângând, Te rog, Isuse, să mă ierți,
+Pasul meu mai sigur către cer să-ndrepți. :/
+
+[v2]
+Vreau, Isuse, să fiu altfel decât sunt,
+Schimbă-mi viața cât sunt încă pe pământ.
+Fă-mă sfânt, Isuse scump, ca să iubesc
+Și pe-aceia care mă batjocoresc.
+
+[v3]
+Azi, Te rog, să fii al meu conducător,
+Dă-mi putere să-Ți fiu Ție următor.
+Proslăvește-Ți numele în viața mea
+Și acum și-n veșnicii nu mă uita!

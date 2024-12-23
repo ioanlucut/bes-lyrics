@@ -1,0 +1,31 @@
+[title]
+Ești milă {alternative: {*}, composer: {Harvest Arad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {203629}, id: {uqL8iZxSESMjrncZ4gRhgC}, contentHash: {e910de}}
+
+[sequence]
+v1,v2,c,v3,e
+
+[v1]
+Eram pierdut, mă depărtam,
+Eram orbit și nu vedeam,
+Pe-un drum obscur, dureri purtam, dar ești milă.
+
+[v2]
+Tot ce-am trăit, Tu ai simțit
+Și plânsul meu L-ai auzit,
+Ai alergat-naintea mea, plin de milă.
+
+[c]
+Ești milă, ești milă,
+Îmi cântă inima, când stau în fața Ta.
+Ești viață, salvare,
+Trăiesc fiindcă ai murit, așa mult m-ai iubit,
+Ești milă...
+
+[v3]
+Am viața Ta fără sfârșit,
+Privirea Ta m-a cucerit
+Cu un cântec blând m-ai copleșit plin de milă.
+
+[e]
+/: Cu a Ta îndurare, mă-îndemni la pocăință. :/ (2x)
+/: Cu bunătate, mă-îndemni la pocăință. :/ (2x)

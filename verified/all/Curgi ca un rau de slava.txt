@@ -1,0 +1,17 @@
+[title]
+Curgi ca un râu de slavă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {783}, id: {ew3wnzuWQzTsptQV8Fjm3Z}, contentHash: {7e5b48}}
+
+[sequence]
+c,v1
+
+[c]
+Curgi ca un râu de slavă, cu brațul Tău dezleagă
+Tu cu putere viața mea!
+În ceasul de pe urmă, vreau Duhul Tău să curgă
+Și să inunde viața mea!
+
+[v1]
+Este un râu ce curge peste noi,
+Vindecare el aduce pe pământ,
+Totul ia ființă unde curge el,
+Îmi alină setea sufletului meu.

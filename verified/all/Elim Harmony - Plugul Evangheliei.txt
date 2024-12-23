@@ -1,0 +1,23 @@
+[title]
+Plugul Evangheliei {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190761}, id: {hbVzQCMQkgp2daEx5dWnEL}, contentHash: {874977}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Noi am fost chemați de Domnul în sfântul Său ogor
+Și lucrăm cu sârguință chiar de-i obositor.
+Iar când vom sfârși lucrarea cu-al Evangheliei plug
+Vrem să-ntâmpinăm pe Domnul, cu mâinile pe plug.
+
+[c]
+Ține strâns de plugul sfânt,
+Nu privi-napoi înspre pământ
+Căci în curând vom isprăvi,
+Ține strâns și nu obosi!
+
+[v2]
+Ținta noastră este cerul, noi vrem să-l moștenim,
+Domnul ne-a promis izbânda, dar să nu obosim,
+În curând apare Domnul, Îl vom vedea pe nori
+Și-i vom saluta venirea, de vom fi învingători.

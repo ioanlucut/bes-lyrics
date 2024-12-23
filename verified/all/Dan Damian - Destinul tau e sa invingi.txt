@@ -1,0 +1,27 @@
+[title]
+Destinul tău e să învingi {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {886}, id: {sjyHimJ3d87VCJyC24RUmA}, contentHash: {ee7527}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Destinul tău e să învingi,
+Când ești căzut să te ridici,
+Destinul tău l-a scris cândva Isus.
+Numele tău demult e scris
+În Cartea Vieții, în Paradis,
+Destinul tău e cerul Său, să știi.
+
+[c]
+/: Nu suntem aici statornici,
+O țara-avem și ea e sus,
+Calea se sfârșește-acolo,
+Când vom vedea toți pe Isus. :/
+
+[v2]
+Deci să te porți cum e cinstit,
+Cu Tatăl tău ce te-a iubit
+Și te-a plătit cu mare preț, să știi.
+„Pe brațul Meu Eu te-am purtat
+Și-am să te port neîncetat.”,
+El, Dumnezeu, spune așa în Cartea Sa.

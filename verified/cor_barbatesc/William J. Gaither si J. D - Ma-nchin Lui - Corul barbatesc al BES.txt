@@ -1,0 +1,32 @@
+[title]
+Mă-nchin Lui {alternative: {*}, composer: {William J. Gaither și J. D}, writer: {Paul A.}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {b5rmfyv1mEuzKPjmde5xPd}, contentHash: {eaf72f}}
+
+[sequence]
+v1,v2,v3,v4,e
+
+[v1]
+Umblând prin lume am văzut altare
+De-argint și aur, pline de praf.
+Mă închinam, dar în zadar, la ele,
+Fără nicio șansă ca să fiu salvat.
+
+[v2]
+De-aceea astăzi mă-nchin lui Isus,
+Doar laudă Lui eu Îi voi cânta!
+Nu mai este altul ca și El în lume,
+Doar Isus singur va domni în veci.
+
+[v3]
+Pe căi deșarte, pribegind prin lume,
+Căutam renume pe acest pământ,
+Dar, privind în urmă, am văzut că totul
+E deșertăciune și goană după vânt.
+
+[v4]
+De-aceea astăzi cu vorbe goale te îmbie lumea,
+Tot ce ea promite sunt numai minciuni.
+Sunt multe drumuri care ne-nconjoară,
+Dar El e calea care duce-n cer.
+
+[e]
+Doar Isus singur va domni în veci!

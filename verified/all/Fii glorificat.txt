@@ -1,0 +1,13 @@
+[title]
+Fii glorificat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {wthyjRqon4ae6Hm57p2pD2}, contentHash: {215624}}
+
+[sequence]
+c,v1,c,v1
+
+[c]
+Fii glorificat, fii glorificat,
+Fii glorificat, fii glorificat!
+
+[v1]
+Fii glorificat în ceruri, fii glorificat pe pământ,
+Fii glorificat în templu, Isus, Isus, fii glorificat!

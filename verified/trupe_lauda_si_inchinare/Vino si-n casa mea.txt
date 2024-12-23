@@ -1,0 +1,27 @@
+[title]
+Vino și-n casa mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6447}, id: {uo5QBzAjgMg3NRVCRBLP86}, contentHash: {6d112f}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,e
+
+[c]
+/: Vino și-n casa mea, :/ (x3) când furtuna este grea.
+
+[v1]
+Și când spinii răi mă-mpung și n-am unde să m-ascund,
+Când furtuna-i tot mai grea vino, Tu, și-n casa mea.
+
+[v2]
+Vânturile reci când bat peste-al inimii răsad
+Ca să-l rupă doar ar vrea, vino, Tu, și-n casa mea.
+
+[v3]
+Un val cheamă un alt val peste-al inimii hotar
+Ca să treacă doar ar vrea, vino, Tu, și-n casa mea.
+
+[v4]
+Zi doar numai un cuvânt și atuncea tot ce-i sfânt
+Capul sus își va ține când vii Tu în casa mea.
+
+[e]
+/: Vino și-n casa mea :/ (x3) și rămâi pe veci în ea!

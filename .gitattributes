@@ -1,0 +1,3 @@
+*.txt    eol=lf diff=astextplain
+# Hint by https://idnotfound.wordpress.com/2009/05/09/word-by-word-diffs-in-git/
+*.tex    diff=tex

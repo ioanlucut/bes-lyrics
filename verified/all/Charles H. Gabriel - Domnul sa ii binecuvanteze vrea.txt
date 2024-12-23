@@ -1,0 +1,41 @@
+[title]
+Domnul să îi binecuvânteze vrea {alternative: {*}, composer: {Charles H. Gabriel}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5254}, id: {mtvx55LsrEpELRRr5voFMJ}, contentHash: {92ae00}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Domnul să îi binecuvânteze vrea
+Pe toți oamenii ce n-au lumina Sa,
+Ușa și ferestrele deschide-le,
+Las’ să intre Soarele.
+
+[c]
+Las’ să intre Soarele,
+Las’ să intre Soarele,
+Ușa inimii deschide-o tot mai mult
+Ca să intre-n ea Isus.
+
+[v2]
+A murit pe cruce și-a-nviat apoi,
+Toate-acestea le-a făcut El pentru noi,
+Ușa și ferestrele deschide-le,
+Las’ să intre Soarele.
+
+[v3]
+Rătăcești tu prin pustiu pe calea grea?
+Sufletul să ți-l salveze Isus vrea,
+Ușa și ferestrele deschide-le,
+Las’ să intre Soarele.
+
+[v4]
+Fericit e cel ce viața își predă
+Lui Isus și cu iubire-L laudă,
+Ușa și ferestrele deschide-le,
+Las’ să intre Soarele.
+
+[v5]
+Chiar dacă pământu-ntreg e-ntunecat
+Isus, prin venirea Sa, l-a luminat,
+Ușa și ferestrele deschide-le,
+Las’ să intre Soarele.

@@ -1,0 +1,23 @@
+[title]
+Ce frumos răsună {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {wk9pxA3b5WpnoWHEJP4mP5}, contentHash: {6718f8}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Biblia spune că-n trecut, în satul Betleem,
+Într-o iesle S-a născut Fiul lui Dumnezeu.
+
+[c]
+/: Ce frumos răsună astăzi vestea bună:
+S-a născut Isus!
+Fiu de Dumnezeu, venit din cerul Său,
+Pace ne-a adus. :/
+
+[v2]
+Iar păstorii văd în zare, în noaptea rece,
+Îngerul ce-aduce vestea: S-a născut un Rege!
+
+[v3]
+S-a născut Isus Hristos, cântă omenirea.
+Peste tot auzi cântând doar despre Mesia.

@@ -1,0 +1,59 @@
+[title]
+Cum Te-ai oprit de mult {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4188}, id: {aUnhXzcPLUTiTPvtwE5Nie}, contentHash: {b08dd4}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+Cum Te-ai oprit de mult la han
+Venind pe-asin călare,
+Milos și bun samaritean
+În bunătatea-Ți mare.
+
+[v1.2]
+/: Te-oprește o clipă și la noi,
+Suntem bătuți, trudiți și goi,
+Samariteanule milos, mai leagă rănile ce dor,
+Mai toarnă leac vindecător
+O, medic sfânt, Isus Hristos! :/
+
+[v2.1]
+Trecut-au preoți și leviți
+Spre Ierihon la vale,
+Nepăsători cu pași grăbiți
+Văzându-și de-a lor cale.
+
+[v2.2]
+/: Dar, tu, Isuse, te-ai oprit
+La cel căzut, la cel lovit,
+Ce din durere Te-a chemat.
+I-ai pus pe răni ulei și vin,
+L-ai pus călare pe asin, Isuse medic minunat. :/
+
+[v3.1]
+Acum, aici și-n casa Ta
+E-un han de poposire,
+Să intre orișicine-ar vrea
+Căci Tu-i dai mântuire.
+
+[v3.2]
+/: Și-acei săraci și-acei sărmani
+Și-ologi și văduve și-orfani
+Căci brațul Tău e larg deschis
+Și-acei loviți și-acei huliți
+Și-acei ce-n lume-s rătăciți
+„Veniți la Mine”, Tu ai zis. :/
+
+[v4.1]
+La margine de drum cândva
+M-ai găsit și pe mine,
+N-aveam Isus pe nimeni
+Durerea să-mi aline.
+
+[v4.2]
+/: Spre mine-ncet Te-ai aplecat
+Cu dragoste m-ai ridicat
+Și mi-ai vorbit blând și duios,
+M-ai mângâiat, m-ai îngrijit
+Și prețul meu Tu l-ai plătit,
+Prieten drag, Isus Hristos. :/

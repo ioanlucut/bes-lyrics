@@ -1,0 +1,34 @@
+[title]
+Astăzi, Doamne, eu Te rog să intri {alternative: {*}, composer: {Gheorghe Zoltan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6603}, id: {3Z3KCjhpCjuCnH2vPDMz5q}, contentHash: {dddc4b}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Astăzi, Doamne, eu Te rog să intri
+În grădina Ta ce-ai semănat,
+Să uzi florile ce-s ofilite,
+Cu petale-n jos ce s-au lăsat.
+
+[c]
+/ : Cântă, floare minunată,
+Cântă ne-ncetat,
+Astăzi Grădinarul te-a udat. :/
+
+[v2]
+Grădinarul ce cu-atâta grijă
+Udă florile-n grădina Sa,
+E Acela ce-a-nviat din moarte.
+E Isus Hristos din Nazaret.
+
+[v3]
+Dacă vrei să fii și tu o floare,
+În grădina Domnului Hristos,
+Să păstrezi cu grijă-a ta mireasmă,
+Să te ude Domnul cu folos.
+
+[v4]
+În grădina Domnului sunt multe
+Flori ce au mirosul minunat.
+Ele iau lumina de la Domnul
+Și nectarul lor este bogat.

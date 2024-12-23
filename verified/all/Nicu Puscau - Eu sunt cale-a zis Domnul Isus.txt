@@ -1,0 +1,39 @@
+[title]
+Eu sunt cale-a zis Domnul Isus {alternative: {*}, composer: {Nicu Puscau}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61925}, id: {1tMTXqTfP67qRuXBkNg1zR}, contentHash: {2fa859}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Eu sunt Cale-a zis Domnul Isus,
+Eu sunt Calea care duce sus.
+Să pășiți cu-ncredere pe ea,
+Chiar dacă adesea va fi grea.
+
+[c]
+/: Nu sunt numai flori pe cale,
+Sunt și lacrimi amare.
+Treci adesea și prin încercări,
+Ca s-ajungi la biruință.
+Treci adesea prin suferință,
+Numai încercat ajungi în cer. :/
+
+[v2]
+Pe această cale nu-s plăceri,
+Nu e largă, însă duce-n cer.
+Piedici sunt adeseori pe ea,
+Dar ea duce în patria Sa.
+
+[v3]
+Mai avem puțin crucea de dus,
+Dar la capăt ne-așteaptă Isus.
+S-a dus să ne pregătească-n cer,
+Loc să fim de-a pururea cu El.
+
+[c2]
+/: Ce frumos va fi odată,
+Sus în țara mult visată.
+Cu Isus Mirele nost’ iubit
+Vom uita de plâns și jale
+Și de lacrimile-amare,
+Când vom fi cu El în infinit. :/

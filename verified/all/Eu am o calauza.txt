@@ -1,0 +1,22 @@
+[title]
+Eu am o călăuză {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5NrDyMJ89DUnsk9LhsHwWT}, contentHash: {ec5efc}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Pe Tin’ Te laud, Isuse,
+Pentru bunătatea Ta,
+Pentru-a Ta milă nespusă
+Ce-o arăți în viața mea.
+
+[c]
+Eu am o călăuză pe acest pământ străin
+Și-n orice-mprejurare
+Tu îmi ești al meu sprijin!
+
+[v2]
+Ajută-ne, o, Doamne,
+Să facem voia Ta,
+Toți ca să putem ajunge
+Sus în cer, în casa Ta.

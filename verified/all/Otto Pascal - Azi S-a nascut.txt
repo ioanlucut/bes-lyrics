@@ -1,0 +1,23 @@
+[title]
+Azi S-a născut {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {101436}, id: {nccDCvgkMoEizPWoKh3bb1}, contentHash: {9476bf}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+O stea răsare luminând inima mea,
+Privesc în zare printre fulgii de nea,
+Și văd un cor de îngeri cântând armonios,
+M-alătur lor cu osanale, vreau să cânte fiecare:
+
+[c]
+/: Azi S-a născut, într-o iesle cu paie,
+Pruncul Sfânt, venit din slavă pentru-a ne salva.
+Haideți să-I cântăm, să-I aducem ca daruri
+Inima ca loc de iesle să Se nască-n ea! :/
+
+[v2]
+Nu am nici aur și nici smirnă să Îi dau,
+Dar prosternat în fața Pruncului eu stau,
+Mă-nchin în umilință, umil ca El să fiu,
+Din inimă-I cânt osanale, vreau să cânte fiecare.

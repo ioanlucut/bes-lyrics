@@ -1,0 +1,13 @@
+[title]
+Binecuvântează suflete {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4839}, id: {tEDQKctgofKcj1tqLTPMDH}, contentHash: {a42502}}
+
+[sequence]
+c,v1,c,v1
+
+[c]
+/: Binecuvântează, suflete, pe Domnul tău,
+Nu uita niciuna din binefacerile Lui. :/
+
+[v1]
+/: Căci El îți iartă făr’delegea ta,
+Vindecare-n dar îți dă și-n veci mântuirea. :/

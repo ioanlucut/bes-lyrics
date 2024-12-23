@@ -1,0 +1,25 @@
+[title]
+Isus pune-un cântec nou în inimă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4960}, id: {fftqAkiDQCfKxdbcvPMR4f}, contentHash: {6db6ec}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Isus pune-un cântec nou în inimă,
+E un cântec nou ce nimeni nu mi-l ia,
+Isus pune-un cântec nou în inimă.
+
+[v2]
+El ne-nvață să trăim în dragoste,
+Cu iubirea ce ne-a dat să ne iubim,
+El ne-nvață să trăim în dragoste.
+
+[v3]
+O familie să fim El ne-a-nvățat.
+Tineri și bătrâni sunt una în Isus,
+O familie să fim El ne-a-nvățat.
+
+[v4]
+Întristarea ne-a schimbat-o-n bucurii,
+Lacrimile le-a schimbat în ape vii,
+Întristarea ne-a schimbat-o-n bucurii.

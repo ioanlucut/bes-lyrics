@@ -1,0 +1,32 @@
+[title]
+La început era Cuvântul {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {144184}, id: {jEUQ3BFqHtqEHoDmVKoDPs}, contentHash: {57407f}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+La început era Cuvântul și-acest Cuvânt e Dumnezeu,
+El e viața și lumina, speranța sufletului meu.
+El a venit lăsându-Și slava și a luat un trup ca noi
+S-avem cu toți lumina vieții, speranță-n ziua de apoi.
+
+[c]
+/: S-a întrupat Cuvântul, Lumina a venit,
+S-a-nfiorat pământul pe el când a pășit,
+S-a încheiat robia păcatului adamic,
+Pe tron e azi Lumina și ea domnește-n veci. :/
+
+[v2]
+Lumina a venit în lume în miez de noapte, la Betleem,
+Căci pe pământ întunecimea trona în lumea de blestem.
+Spiritual trăiam în noapte, eram pierduți, morți în păcat,
+Aveam nevoie de Lumină, a venit și ne-a salvat.
+
+[v3]
+Isus, Lumina din vecie, a coborât până jos la noi,
+A biruit întunecimea și ne-a schimbat în haine noi!
+În spirit noi avem viață, păcatul nostru e iertat,
+Trăim prin har o viață sfântă, în noi Lumina a intrat.
+
+[e]
+Amin!

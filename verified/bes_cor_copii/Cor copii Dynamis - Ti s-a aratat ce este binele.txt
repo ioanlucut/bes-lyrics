@@ -1,0 +1,20 @@
+[title]
+Ți s-a arătat ce este binele {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5093}, id: {46etxn3ZEgLLfZ96F2Er4F}, contentHash: {5e7ea9}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Ți s-a arătat ce este binele :/
+/: Și ce alta cere Domnul de la tine? :/
+/: Decât să umbli pe căile drepte. :/
+
+[v2]
+/:Ți s-a arătat ce este binele :/
+/: Și ce alta cere Domnul de la tine? :/
+/: Decât să umbli cu milă prin lume. :/
+
+[v3]
+/: Ți s-a arătat ce este binele :/
+/: Și ce alta cere Domnul de la tine? :/
+/: Decât să umbli smerit cu Dumnezeu. :/

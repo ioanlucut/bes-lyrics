@@ -1,0 +1,27 @@
+[title]
+În clipele grele din viață {alternative: {*}, composer: {Frații Wagner}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1DBhwNSb614ZmA8PNTUm8Y}, contentHash: {1c00ff}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+/: În clipele grele din viață,
+În clipe de suferință,
+În clipe fără speranță,
+Am strigat către Cel ce dă viață. :/
+
+[c]
+/: Hai, vino lângă mine, apleacă-Te jos,
+Vreau să vorbesc cu Tine, sunt un om păcătos! :/
+
+[v2]
+/: Ce greu este-n suferință,
+Ce greu este-n cuptor,
+Dar El le știe pe toate,
+El la-ncercări îți vine-n ajutor! :/
+
+[v3]
+/: Când L-am simțit lângă mine,
+Un susur duios,
+Mi-a șoptit cu iubire: Vreau să vorbesc cu tine,
+Eu sunt Hristos! :/

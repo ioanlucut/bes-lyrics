@@ -1,0 +1,35 @@
+[title]
+Domnul îmi este adăpost {alternative: {A Shelter in the Time of Storm}, composer: {Ira D. Sankey}, writer: {Vernon J. Charlesworth}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3105}, id: {1SUS3rJMwQDRe6NZYnPVGG}, contentHash: {65918f}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Domnul îmi este adăpost,
+Cetate tare-n vreme rea!
+Deși e valul furios,
+Îmi e scutită inima.
+
+[c]
+Da, eu mă-ncred în Domnul,
+/: Cetatea mea! :/ (x3)
+O, Isuse, eu Ție mă-ncredințez,
+Cetate tare-n vreme rea.
+
+[v2]
+Scut de arșița soarelui,
+Cetate tare-n vreme rea!
+E ca lumina farului,
+Ce strălucește-n noaptea grea.
+
+[v3]
+Cu-al Tău Cuvânt marea alini,
+Cetate tare-n vreme rea!
+Suflete-mi l-acest scut să vii
+Și niciun rău nu s-a-ntâmpla.
+
+[v4]
+Tu ești a mea mântuire,
+Cetate tare-n vreme rea!
+Tu-mi dai credință, iertare;
+M-așteaptă-n cer fericirea.

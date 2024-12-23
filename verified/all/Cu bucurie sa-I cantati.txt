@@ -1,0 +1,27 @@
+[title]
+Cu bucurie să-I cântați {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bEKtEBiobKtG12NdvFydX9}, contentHash: {00b21e}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Cu bucurie să-I cântați:
+Mesia S-a născut!
+Vă închinați, Îl lăudați,
+/: Pământ și cer de sus, :/
+Cântați, pământ și cer de sus.
+
+[v2]
+Cu bucurie să-L primiți
+Pe Regele Isus!
+În inimă, cu dragoste,
+/: El să-și găsească loc! :/
+Cu drag El să-și găsească loc!
+
+[v3]
+În măreție va domni
+Cu-ai săi răscumpărați!
+Veniți cu toți să-L adorăm
+/: Și să-L slujim pe El! :/
+Veniți, să Îl slujim pe El.
+Veniți, să Îl slujim pe El!

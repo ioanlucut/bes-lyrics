@@ -1,0 +1,47 @@
+[title]
+Tu domnești pe tronul slavei în veșnicie îmbrăcat {alternative: {*}, composer: {Sunny Tranca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180150}, id: {8F9r5hVr8doQcbP363SMxi}, contentHash: {0566d6}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,b,c1.1,c1.2
+
+[v1.1]
+Tu domnești pe tronul slavei
+În veșnicie îmbrăcat,
+Strălucirea slavei Tale
+Mă uimește ne-ncetat.
+
+[v1.2]
+Cine oare se compară,
+Doamne, cu puterea Ta?
+Tu ești Domnul vieții mele,
+Tu ești mântuirea mea.
+
+[c1.1]
+/: Laudă, cinste, onoare,
+Mielului ce-a înviat.
+Noi aducem închinare
+Numelui glorificat.
+
+[c1.2]
+Laudă, cinste, onoare,
+Mielului ce stă pe tron.
+Noi aducem închinare
+Doar pe El Îl înălțăm. :/
+
+[v2.1]
+Îngerii și heruvimii
+Fredonează toți în cor:
+El e vrednic de mărire,
+Doar El e biruitor.
+
+[v2.2]
+Peste moarte ai călcat,
+Doamne, cu puterea Ta.
+Tu ești Domnul vieții mele,
+Tu ești mântuirea mea.
+
+[b]
+Peste moarte ai călcat,
+Doamne, cu puterea Ta.
+Tu ești Domnul vieții mele,
+Tu ești mântuirea mea.

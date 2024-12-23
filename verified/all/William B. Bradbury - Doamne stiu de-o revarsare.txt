@@ -1,0 +1,45 @@
+[title]
+Doamne, știu de-o revărsare {alternative: {*}, composer: {William B. Bradbury}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3116}, id: {dYvwx3bL2hMvu4Raddi5N4}, contentHash: {cc344d}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Doamne, știu de-o revărsare
+De Duh Sfânt și limbi de foc,
+Ce-a umplut pe fiecare,
+Zguduind casa din loc.
+/: Și pe noi, și pe noi,
+Umple-ne cu Duh pe noi! :/
+
+[v2]
+Tată, vrei să treci-nainte?
+Nu ne vezi pe noi de-aici?
+Te rugăm, o, bun Părinte,
+Un cuvânt numai să zici.
+/: Și pe noi, și pe noi,
+Umple-ne cu Duh pe noi! :/
+
+[v3]
+O, Isuse, fie-Ți milă!
+Iată-mă-s aici și eu.
+Vezi Tu starea mea umilă?
+Iartă-mi dar, păcatul meu.
+/: Iartă-mi Tu, iartă-mi Tu,
+Iartă-mi Tu păcatul meu! :/
+
+[v4]
+Tu Îți ții promisiunea
+Față de poporul Tău.
+Deci, ascultă-mi rugăciunea
+Mă botează, Domnul meu.
+/: Eu aștept, eu aștept,
+Duhul Sfânt eu Îl aștept. :/
+
+[v5]
+Doamne, Duh Îți cerem Ție,
+Căci Tu vrei să dai și poți
+Umple azi cu bogăție,
+Pe copiii Tăi, pe toți.
+/: Da, pe toți, da, pe toți!
+Umple-ne cu Duh pe toți! :/

@@ -1,0 +1,35 @@
+[title]
+Atât cât voi trăi {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6815}, id: {6eb1J2gyyjzS68Mb3eKAb3}, contentHash: {0f282c}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Tot ce-n lume ne încântă,
+Tot ce stelele rostesc,
+Orice vis ce-adânc se-avântă
+Pe culmi de tainică iubire-n gând curat.
+Orice șoaptă de poveste,
+Orice dor după etern,
+Întregul freamăt al creației
+Vorbește despre El.
+
+[c]
+Și atât cât voi trăi,
+Cu fiecare strop de viață,
+Aș vrea să las să strălucească
+Iubirea limpede de cer.
+Și-atât cât voi trăi,
+La fiecare pas ce-l fac,
+Aș vrea să las în urma mea
+Iubirea jertfei din Calvar.
+
+[v2]
+Din înaltul munților,
+Pe cuprinsul apelor,
+Orice gând ce se înalță,
+Orice mână ce oferă ajutor,
+Fiecare rugă-n taină,
+Șoptită cu credință Domnului,
+Orice tainică speranță
+Vorbește despre El.

@@ -1,0 +1,33 @@
+[title]
+Puternic și tare {alternative: {My God is so big}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {923c9vf229E99oayuLJSXT}, contentHash: {ac0e62}}
+
+[sequence]
+c,v1,c,v2,c,e,c
+
+[c]
+/: Puternic și tare, măreț este Domnul,
+Nimic nu-i prea greu pentru El! :/
+
+[v1]
+La început, lumea El a făcut.
+La un Cuvânt totul a apărut,
+Marea cea roșie a despărțit,
+Și tot poporul prin ea a pășit.
+David pe Goliat l-a dărâmat,
+Iosua zidurile a surpat,
+Toate vorbesc numai de Dumnezeu,
+Despre puterea Numelui Său!
+
+[v2]
+Și eu și tu, toți zăceam în păcat,
+El ne-a iertat și valoare ne-a dat.
+Celor bolnavi vindecare le-a dat,
+Și ochii orbilor a luminat.
+Sus pe o cruce a fost răstignit,
+În locul nostru Isus a murit.
+Dar a-nviat și la cer S-a-nălțat,
+Va reveni, Domnul fie lăudat!
+
+[e]
+/: Dumnezeul Tată, Fiul și Duhul Sfânt:
+Unu plus unu plus unu fac unu! :/

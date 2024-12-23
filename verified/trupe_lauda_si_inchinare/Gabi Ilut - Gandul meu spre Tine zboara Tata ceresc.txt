@@ -1,0 +1,29 @@
+[title]
+Gândul meu spre Tine zboară, Tată ceresc {alternative: {*}, composer: {Gabi Iluț}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {241236}, id: {eRVv9cBTDD7Q4qEZWqnYyS}, contentHash: {947677}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Gândul meu spre Tine zboară, Tată ceresc,
+N-am cuvinte îndeajuns să Îți mulțumesc.
+Eu mi-am pus numai în Tine-ncrederea,
+Fă ce vrei, Doamne, cu viața mea.
+
+[c]
+/: Pentru fiecare clipă vreau să-Ți mulțumesc,
+Pentru fiecare zi din viață Te slăvesc
+Și în fiecare clipă, Doamne, eu Îți cânt,
+Ești tot ce-am mai scump pe pământ. :/
+
+[v2]
+Mă închin cu mulțumire-n fața Ta,
+Chiar de nu îmi dăruiești tot ce aș vrea.
+Dacă voia mea nu este și planul Tău,
+Mă dezleg de tot ce-mi doresc eu.
+
+[b]
+Iubirea Ta îmi umple inima,
+Nu mai este loc de altceva în viața mea.
+Iubirea Ta, vreau să rămân în ea,
+S-o trăiesc deplin, Ție mă închin.

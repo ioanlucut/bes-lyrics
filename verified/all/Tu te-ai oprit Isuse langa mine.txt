@@ -1,0 +1,40 @@
+[title]
+Tu te-ai oprit, Isuse, lângă mine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7YwNWKbSfm5iLAwMeaFkhA}, contentHash: {ed1f93}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Tu te-ai oprit, Isuse, lângă mine,
+Și m-ai chemat să merg pe calea Ta.
+/: Cu-atâta drag Tu m-ai atras spre Tine,
+Că niciun val din lumea de suspine
+Nu mă mai poate lua din mâna Ta! :/
+
+[v2]
+Tu te-ai oprit, Isuse, lângă mine,
+Și lacrima mi-ai șters cu mâna Ta!
+/: Mi-ai spus că pacea este doar la Tine
+Și foc din Duhul Sfânt ai pus în mine,
+Ca să trăiesc de-atunci prin viața Ta! :/
+
+[v3]
+Tu te-ai oprit, Isuse, lângă mine,
+Și tainic m-ai chemat pe urma Ta,
+/: Dar nori de neguri vin ades spre mine,
+Ajută-mă să pot atunci, Stăpâne,
+Prin noapte să zăresc lumina Ta! :/
+
+[v4]
+Tu te-ai oprit, Isuse, lângă mine,
+Și nu mai vreau acum un alt alin!
+/: Cu ce-aș putea să Te compar, Stăpâne,
+Când nimenea nu poate fi ca Tine,
+Atât de Bun, de Mare și de Sfânt? :/
+
+[v5]
+Tu te-ai oprit, Isuse, lângă mine,
+Și nu mai pot uita privirea Ta!
+/: O, ține-mă în har și azi și mâine,
+Să nu mai pot pleca de lângă Tine
+Și Tu să faci ce vrei cu viața mea! :/

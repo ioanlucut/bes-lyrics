@@ -1,0 +1,31 @@
+[title]
+În zbuciumul vieții {alternative: {*}, composer: {G.A. Lewis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1745}, id: {1fNixNTczSFgCdp4Ft82wc}, contentHash: {126933}}
+
+[sequence]
+v1,c,v2,c,v3,e
+
+[v1]
+În zbuciumul vieții
+Odihnă cine-mi dă?
+În suflet cine-mi toarnă,
+Din viața veșnică?
+
+[c]
+/: Hristos, numai El :/ (3x)
+Îmi dă viață veșnică.
+
+[v2]
+Înconjurat de griji,
+Aproape disperat,
+În drumul lung al vieții
+Fericiri n-am aflat.
+
+[v3]
+Păcate mari și grele
+Mereu mă îngrozesc,
+Nu știu unde-i scăparea,
+S-o caut, ca s-o găsesc.
+
+[e]
+/: Numai în Hristos :/ (3x)
+Amice, tu te mântuiești.

@@ -1,0 +1,29 @@
+[title]
+Privesc uimit la ceru-ndepărtat {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {te4V3N4HXdP1C9LNwdL5Py}, contentHash: {c83e11}}
+
+[sequence]
+v1,c,c2,c,b,c
+
+[v1]
+Privesc uimit la ceru-ndepărtat,
+Să număr stelele am încercat și eu,
+Dar n-o să termin niciodată.
+Întinsul lor este fără sfârșit
+Precum iubirea ce ne-a întocmit pe noi,
+Dragostea Sa de Tată.
+
+[c]
+/: Aleluia, Domnul m-a creat
+Și eu știu cine sunt,
+Căci El e minunat! :/
+
+[c2]
+/: El ține galaxii în mâna Sa,
+Dar are timp să poarte grija mea
+Și El cunoaște totul despre mine. :/
+
+[b]
+/: El e Alfa, Omega,
+Sfârșit și început.
+E Rege și Tată,
+Prieten ne-ntrecut. :/

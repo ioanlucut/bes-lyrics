@@ -1,0 +1,37 @@
+[title]
+Ești aici {alternative: {Way maker}, composer: {Sinach}, writer: {Corneliu Matei}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hUncXxeW3oMwsLnEKi4hwV}, contentHash: {3450ba}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Ești aici, cerul l-ai deschis,
+Eu mă închin, eu mă închin!
+Ești aici să faci tot ce-ai promis,
+Eu mă închin, eu mă închin!
+Ești aici, prezent prin Duhul Sfânt,
+Eu mă închin, eu mă închin!
+Ești aici să simt puterea Ta,
+Eu mă închin, eu mă închin!
+
+[c]
+Tu ești Izbăvitorul, atotputernic!
+Tu ești lumina în întuneric, Doamne, Tu ești Dumnezeu!
+Tu ești Izbăvitorul, atotputernic!
+Tu ești lumina în întuneric, Doamne, Tu ești Dumnezeu!
+
+[v2]
+Ești aici, vrei să ne atingi,
+Eu mă închin, eu mă închin!
+Ești aici, vindeci suflete,
+Eu mă închin, eu mă închin!
+Ești aici să simt prezența Ta,
+Eu mă închin, eu mă închin!
+Ești aici prezent prin Duhul Sfânt,
+Eu mă închin, eu mă închin!
+
+[b]
+Chiar și atunci când nu văd ești cu mine,
+Chiar și atunci când nu simt ești aproape,
+Știu că lucrezi, știu că lucrezi, Doamne!
+Știu că lucrezi, știu că lucrezi, Doamne!

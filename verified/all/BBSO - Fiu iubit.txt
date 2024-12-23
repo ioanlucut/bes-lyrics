@@ -1,0 +1,32 @@
+[title]
+Fiu iubit {alternative: {*}, composer: {BBSO}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {9PjsUyuZyWhdim8N4Ux23j}, contentHash: {945f4c}}
+
+[sequence]
+v1.1,v1.2,c,v2,c,e
+
+[v1.1]
+Dumnezeu venit de sus
+Mântuirea mi-ai adus în chip de rob.
+Pân’ la moarte-ai ascultat
+Domn al vieții întrupat și-ai suferit.
+
+[v1.2]
+Ca să vindeci rana grea
+Ai răbdat pedeapsa mea, biruitor.
+Tot păcatul ce Te-a frânt
+L-ai spălat cu sânge sfânt, mântuitor.
+
+[c]
+/: Fiu iubit, Te-ai smerit coborând în lumea mea
+Și Te-ai dus pân’ la crucea grea.
+Ai iertat, pe Calvar, și păcatul meu murdar,
+Toată slava e a Ta! :/
+
+[v2]
+Pân’ la moarte-ai ascultat,
+Domn al vieții întrupat,
+Cât m-ai iubit, cât m-ai iubit!
+
+[e]
+Primește toată gloria, Tu, Miel venit din cer,
+Primește închinarea-n veci!

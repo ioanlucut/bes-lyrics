@@ -1,0 +1,25 @@
+[title]
+Doamne, vreau să mă-nchin {alternative: {*}, composer: {Hristos pentru România}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4513}, id: {mrHZDUev1CynwRWhFzq9Bo}, contentHash: {469104}}
+
+[sequence]
+v1.1,v1.2,c,v1.1,v1.2,c
+
+[v1.1]
+Doamne, vreau să mă-nchin
+Și cu inima mea înaintea Ta vin.
+Când mă rog, mă asculți,
+De păcate mă ierți,
+Numai Tu mă-nțelegi.
+
+[v1.2]
+Credincios îmi răspunzi,
+Iar sub aripa Ta de furtuni mă ascunzi.
+Mâna Ta mă atinge
+Și îmi dă libertatea prin har să trăiesc.
+Nici nu pot să exprim cât Te doresc!
+
+[c]
+Inima mea îți spune iubire,
+Inima mea îți dă mulțumire,
+Inima mea pe Tine Te caută,
+Inima mea, căci Tu ești cel mai minunat!

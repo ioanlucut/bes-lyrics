@@ -1,0 +1,41 @@
+[title]
+S-a-nspăimântat stăpânul lumii {alternative: {*}, composer: {Alexandru Vlahuta}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4139}, id: {onCd8egscxR8Taf8HgbbsD}, contentHash: {92bb39}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+S-a-nspăimântat stăpânul lumii
+La glasul blândului profet
+/: Și un dușman văzu în Fiul
+Dulgherului din Nazaret. :/
+
+[v2]
+El n-a venit să răzvrătească,
+Nu vrea pierirea nimănui,
+/: Desculț, pe jos, colindă lumea,
+Și mulți hulesc Numele Lui. :/
+
+[v3]
+Urască-L cei fărădelege,
+Ce-i pasă Lui de ura lor?
+/: El a venit s-aducă pace
+Și înfrățire tuturor. :/
+
+[v4]
+Și mulți cu pietre Îl alungă,
+Și zic de El c-ar fi-ndrăcit,
+/: Dar El zâmbește tuturora,
+Atotputernic și smerit. :/
+
+[v5]
+El orbilor le dă vedere,
+Și muților le dă cuvânt,
+/: Pe cei bolnavi îi întărește,
+Pe morți îi scoală din mormânt. :/
+
+[v6]
+Iar voi, ce-ați plâns în întuneric,
+Și nimeni nu v-a mângâiat,
+/: Din lunga voastră zbuciumare,
+Sculați: Hristos a înviat! :/

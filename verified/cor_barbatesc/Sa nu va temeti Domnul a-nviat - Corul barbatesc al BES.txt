@@ -1,0 +1,31 @@
+[title]
+Să nu vă temeți: Domnul a-nviat! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {5bUottZyUxHmq2njWUYrkm}, contentHash: {a42761}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2
+
+[v1.1]
+L-au dus pe Domnul pe un deal
+Să moară răstignit,
+Apoi L-au pus într-un mormânt
+Și-o piatră-au prăvălit.
+
+[v1.2]
+Dar când veniră-a treia zi pe El nu L-au găsit,
+Un înger coborât din cer femeilor le-a zis:
+Nu vă-nspăimântați: Isus Hristos din Nazaret a înviat,
+Ștergarul sul și giulgiul gol e tot ce-a mai rămas.
+Să nu vă temeți: Domnul a-nviat!
+
+[v2.1]
+Când alergarea voi sfârși, de-aici eu voi pleca,
+Și de toate mă voi odihni, pământul voi uita.
+Iar când trompeta va suna din morți voi învia,
+Ca și Isus odată, înspre cer mă voi înălța!
+
+[v2.2]
+Nu vă-nspăimântați: Isus Hristos din Nazaret a înviat,
+Ștergarul sul și giulgiul gol e tot ce-a mai rămas.
+Să nu vă temeți: Domnul a-nviat!
+Ștergarul sul și giulgiul gol e tot ce-a mai rămas,
+Să nu vă temeți, să nu vă temeți: Domnul a-nviat!

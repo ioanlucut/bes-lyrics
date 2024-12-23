@@ -1,0 +1,29 @@
+[title]
+Cred {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227954}, id: {crFB5M2cUB1iP1P9onxMCd}, contentHash: {8e737e}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Cred cu toată ființa mea,
+Cred în Cel ce face să-mi bată inima.
+Cred pe ape de m-ar chema,
+Lângă El teamă nicicând nu voi avea.
+
+[c]
+/: Când ești lângă mine, știu, orice umbră va pieri,
+Căci Tu luminezi inima mea.
+Iar când norii negri vin, doar de Tine eu mă țin,
+Căci Tu ești puternic Împărat! :/
+
+[v2]
+Știu, doar prin bunătatea Ta
+Răsăritul de soare îl pot vedea.
+Știu, chiar dacă n-ar străluci,
+Domnul meu, Tu, pe cale lumină-mi vei fi!
+
+[b]
+La pieptul Tău mă liniștesc,
+Mă ierți și atunci când greșit pășesc.
+Mă porți cu drag și-mi dai curaj
+Să merg înainte prin har!

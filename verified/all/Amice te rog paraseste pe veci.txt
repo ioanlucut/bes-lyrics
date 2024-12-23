@@ -1,0 +1,29 @@
+[title]
+Amice, te rog, părăsește pe veci {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {m7igSPKFDbqUnqfN9pJ1QF}, contentHash: {ffc03d}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Amice, te rog, părăsește pe veci
+Gândul rău ce e-n inima ta.
+Pustiul din suflet, atunci negreșit,
+Se va umple de dragostea Sa.
+
+[c]
+Vino la Isus, căci El e viața
+Și pace mereu vei avea.
+Cere-I iertare și-n inima ta
+Fericirea pe veci va intra.
+
+[v2]
+Cândva disperat rătăceam
+Și mereu căutam adevărul curat.
+De când L-am găsit pe Isus, viața mea
+S-a schimbat, de păcat sunt iertat.
+
+[v3]
+Oricând la Isus poți veni cu povara ta
+Grea, ca să-L rogi să Ți-o ia.
+Grăbește-te, dar, cât mai ține-al Său har
+Și predă-te deplin la Calvar.

@@ -1,0 +1,32 @@
+[title]
+El va domni {alternative: {He Shall Reign Forevermore}, composer: {Chris Tomlin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {170404}, id: {hdcYp4hqicy181DpynfHGA}, contentHash: {fb5abe}}
+
+[sequence]
+v1,c,v2,c,b,e
+
+[v1]
+Într-o noapte sumbră, totul se frământă,
+Lumea-n întuneric, împietrită stă.
+Și-atunci în iesle, smerit Se naște Mielul Sfânt.
+
+[c]
+El va domni /: în veci de veci, :/
+El va domni /: în veci de veci, :/
+Pentru noi El S-a născut.
+Isus Hristos, Domn glorios,
+Și va domni /: în veci de veci! :/
+
+[v2]
+Eu nu sunt ca magii, ce călătoresc,
+Nici nu sunt păstorul, turma s-o păzesc,
+Dar cum sunt azi, eu inima Îi dăruiesc!
+
+[b]
+Într-o iesle stă culcat, El, care cerul a creat,
+Cel ce-a murit și-a înviat, Isus - e Mesia.
+Speranța vieții am primit, când Isus la noi a venit,
+A fost promis de mii de ani, Isus e Mesia!
+
+[e]
+El va domni /: în veci de veci, :/
+El va domni /: în veci de veci. :/

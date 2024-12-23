@@ -1,0 +1,48 @@
+[title]
+O Stâncă eu am {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {124513}, id: {aeQWTShew4LKb6oHNd5XHW}, contentHash: {071404}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,e
+
+[v1]
+O Stâncă eu am, o Stâncă eu am
+Și un Nume ce-mi dă bucurie,
+Ce din neam în neam, ce din neam în neam
+Stă tare și-acum și-n veșnicie.
+
+[c]
+Cine e ca Domnul, cine e ca Domnul,
+Sfânt și preaputernic, drept și înălțat?
+Cine e ca Domnul, cine e ca Domnul?
+N-are-asemănare al meu Împărat!
+
+[v2]
+El e Dumnezeu, El e Dumnezeu,
+Ce mă sprijinește în toate.
+Voi spune mereu, voi spune mereu
+La toți despre-a Lui bunătate.
+
+[v3]
+El e pacea mea, El e pacea mea
+La vreme de grea strâmtorare.
+În El voi avea, în El voi avea
+Izbândă-n orice-mprejurare.
+
+[v4]
+Mă plec la pământ, mă plec la pământ,
+De fața Lui nu mă simt vrednic.
+El e Cel ce-i sfânt, El e Cel ce-i sfânt,
+E Domnul-cel-Atotputernic.
+
+[v5]
+Căci nu am în cer, căci nu am în cer
+Pe nimeni ‘n-afară de El.
+Toiagul de fier, toiagul de fier,
+Iehova e Sfântul lui Israel.
+
+[e]
+/: Cine e ca Domnul, cine e ca Domnul,
+Sfânt și preaputernic, drept și înălțat?
+Cine e ca Domnul, cine e ca Domnul?
+N-are-asemănare al meu Împărat! :/
+N-are-asemănare al meu Împărat!

@@ -1,0 +1,28 @@
+[title]
+Doamne, mă închin doar Ție {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {112758}, id: {7xc7cDBJoALHx7cycTghHG}, contentHash: {4bf534}}
+
+[sequence]
+c,v1,c,v2
+
+[c]
+Doamne, mă închin doar Ție
+Și Te laud pentru vecie!
+Doamne, mă închin doar Ție,
+Cu viața mea, cu viața mea,
+Cu viața mea, cu viața mea!
+
+[v1]
+Vreau pe-altarul mulțumirii,
+S-aduc jertfa iubirii,
+Vreau ca inima să-Ți dăruiesc.
+Pe genunchi în rugăciune
+Glasul meu de dor răsune:
+„Tu, Isus, ești cel mai minunat!”
+
+[v2]
+Chiar și singur de-aș rămâne,
+Tu nu pleci de lângă mine.
+Ești un prieten bun și minunat,
+Pacea Ta-mi inundă viața
+Și-mi înseninează fața,
+Tu, în veci, fii lăudat!

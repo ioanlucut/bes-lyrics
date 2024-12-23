@@ -1,0 +1,29 @@
+[title]
+Pribegim ca străini pentru-o vreme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {224151}, id: {aayiT2gyKUzQHjTVdE25b9}, contentHash: {47a5be}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pribegim ca străini pentru-o vreme,
+Trecând ades’ neobservați.
+Da-ntr-o zi, când răsplata se-aduce,
+Cu slavă vom fi îmbrăcați.
+
+[c]
+Străluci-vom ca stelele noaptea,
+Cu Mielul cel crucificat,
+Feeria eternă ți-e plata,
+Chiar dacă treci neobservat.
+
+[v2]
+Chiar de nu vom avea bogăție,
+Nici faimă sau slavă aici,
+Știm că sfinții vor fi pe vecie
+În ceruri cu Domnul uniți.
+
+[v3]
+Poate-s unii ce-n cort sau baracă
+Trăiesc și se sting singurei,
+Într-o zi însă, Tatăl le-arată
+Ce har a păstrat pentru ei.

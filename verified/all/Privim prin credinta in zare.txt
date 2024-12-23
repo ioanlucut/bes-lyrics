@@ -1,0 +1,41 @@
+[title]
+Privim prin credință în zare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ognubwNfC362etYdA1Yooq}, contentHash: {cfff6e}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Privim prin credință în zare,
+Pe bolta de aur strălucind
+Un soare măreț ce răsare
+Pe treptele vremii urcând.
+
+[c]
+/: Ni-e dor tuturora
+S-apară aurora pe bolta cerească,
+Iar noi zbura-vom printre stele,
+Mai falnic decât ele, departe de-a lumii nevoi. :/
+
+[v2]
+Credința ne duce departe,
+Pe treptele vieții de sus,
+Ajungem în Sfânta Cetate,
+Intra-vom pe porți în paradis.
+
+[v3]
+Pe drumul vieții divine,
+Pe aripi de har vom zbura,
+Spre capătul zării senine,
+De unde Hristos va apărea.
+
+[v4]
+Tu, suflet, ce plângi în durere,
+Departe de harul divin,
+O, vino, primește credința
+Ce-aduce iertare deplin!
+
+[v5]
+Aproape e ziua cea mare
+Și-atunci, împreună cu noi,
+Zbura-vei în marea splendoare,
+Departe de-a lumii nevoi.

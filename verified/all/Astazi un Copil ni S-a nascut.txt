@@ -1,0 +1,21 @@
+[title]
+Astăzi un Copil ni S-a născut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {7dDYcymnccchNgMLG5wjvC}, contentHash: {a25a90}}
+
+[sequence]
+v1,c,v2,c,v3
+
+[v1]
+Astăzi un Copil ni S-a născut, aleluia S-a născut Mesia!
+După cum proroci au văzut, într-o iesle-n paie, în Iudeea.
+
+[c]
+/: Aleluia, S-a născut Isus, slavă-I fie jos și-n ceruri sus,
+Toți cei vii să-I cânte bucuria, aleluia, S-a născut Mesia! :/
+
+[v2]
+Au venit păstori, s-au închinat, bucuroși de ce li se vestise,
+De un înger ce s-a arătat, minunat, și astfel le vorbise.
+
+[v3]
+Ca păstori-aceia de la oi și ca magii cei din depărtare,
+Haideți, bucuroși acum și noi, să-nălțăm spre ceruri o cântare!

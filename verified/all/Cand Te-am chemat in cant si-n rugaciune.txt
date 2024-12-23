@@ -1,0 +1,35 @@
+[title]
+Când Te-am chemat în cânt și-n rugăciune {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {d6mnTREv5GT4FPRgwruyco}, contentHash: {861ad2}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Când Te-am chemat în cânt și-n rugăciune,
+Când Te-am strigat la greu și-n zile bune,
+Te-ai coborât, divină mângâiere
+Și-ai strălucit ca Domn plin de putere!
+
+[c]
+/: Cânt cu toată inima,
+Cânt și-n veci Îți voi cânta!
+Cânt că meriți închinarea,
+Cânt cu toată adunarea! :/
+
+[v2]
+Când Golgota Îți presăra durerea
+Și spinii cruzi Îți încercau puterea
+Ai spus: „O, Tată, voia Ta se face!”
+Și-ai strălucit ca Domn și peste moarte.
+
+[v3]
+Pentru un fiu pierdut ca mine-n lume,
+Ai părăsit și slavă și renume,
+M-ai scos, Isus, din moarte și ruine
+Și-ai strălucit ca Domn și peste mine!
+
+[v4]
+Isuse scump, ești vrednic de slăvire,
+Îți cântă-n cor a cerului oștire,
+Noi știm că în curând vii în mărire
+Și vei serba ca Mire prin iubire.

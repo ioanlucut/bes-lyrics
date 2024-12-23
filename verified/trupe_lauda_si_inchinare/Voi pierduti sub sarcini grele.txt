@@ -1,0 +1,35 @@
+[title]
+Voi pierduți sub sarcini grele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6775}, id: {kDcrG3YwfyrVuX96Hm45nw}, contentHash: {61cb4d}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Voi pierduți sub sarcini grele,
+În osândă și păcat,
+La Isus e mântuirea
+Și pe mine m-a salvat!
+
+[c]
+/: Da, eu știu,
+Da, eu știu,
+Sângele Lui spală
+Orișice păcat! :/
+
+[v2]
+Celui slab îi dă tărie,
+Face drum prin vijelii,
+Toarnă râuri în pustie,
+Schimbă noaptea-n zori de zi.
+
+[v3]
+În ispite stă aproape,
+Ajutorul să ni-l dea.
+Domnul poate să ne scape,
+Brațul Lui nu va cădea.
+
+[v4]
+El a spus că niciodată
+Nu ne lasă părăsiți.
+Poate iadul să se zbată,
+Stăm cu Domnul neclintiți.

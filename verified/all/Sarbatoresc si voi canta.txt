@@ -1,0 +1,18 @@
+[title]
+Sărbătoresc și voi cânta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4162}, id: {fuDUNRST5vSKNkbQ6wdJCo}, contentHash: {aaadb0}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Sărbătoresc și voi cânta,
+Vreau să bat din palme-n ritmul laudei
+Domnul domnește, voi striga,
+Sursa mântuirii și a laudei e.
+
+[c]
+Domn al domnilor,
+Rege-al regilor,
+El domnește-n veci de veci,
+M-a eliberat, în mine e viu
+Și trăiește-n inima mea.

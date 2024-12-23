@@ -1,0 +1,35 @@
+[title]
+Veniți, creștini, la rugăciune {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oxQYfPd3h4rwLbgwqCmAW3}, contentHash: {0e6fd2}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Veniți, creștini, la rugăciune
+În casa Tatălui Preasfânt,
+/: Veniți să vă plecați genunchii
+Și fața voastră la pământ. :/
+
+[v2]
+Veniți, veniți cu umilință
+În fața sfântului altar.
+/: Veniți să dezbrăcăm păcatul
+Și să primim al milei har! :/
+
+[v3]
+Azi masa Domnului stă-ntinsă,
+Dar cei poftiți nu vin la ea.
+/: Ei n-aud glasul Lui ce strigă:
+„Veniți, creștini, la masa Mea!” :/
+
+[v4]
+Veniți cei osteniți la Mine,
+Cei osteniți și apăsați.
+/: Odihna, pacea Mea cea sfântă
+Și mângâierea o s-aflați. :/
+
+[v5]
+Răsună munți, răsună dealuri,
+Pământu-ntreg de glasul sfânt.
+/: Se pleacă-n fața Lui natura,
+Văzduhu-ntreg, cu nori și vânt. :/

@@ -1,0 +1,31 @@
+[title]
+M-a aflat pe căi străine {alternative: {*}, composer: {BBSO}, writer: {Robert Robinson & John Wyeth}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197722}, id: {1cS3TdbyveEPni9yVWpTHC}, contentHash: {7c93a6}}
+
+[sequence]
+v1,v2,c,c2,v3,c2
+
+[v1]
+M-a aflat pe căi străine bunul meu Păstor Isus,
+Din adânc și întuneric la lumină m-a adus.
+
+[v2]
+M-a luat cu drag pe brațe, de păcat m-a vindecat,
+Hrană din Cuvântul vieții și putere El mi-a dat.
+
+[c]
+Aleluia, aleluia,
+Voi cânta neîncetat!
+Prin Isus am mântuire, fie veșnic lăudat!
+
+[c2]
+Miel preasfânt, Miel divin,
+Veșnic Ție mă închin!
+M-ai aflat, m-ai mântuit,
+Fie Numele-Ți slăvit!
+
+[v3]
+M-a spălat Mântuitorul, haină albă am primit,
+M-a sfintit prin al Său sânge!
+O, cât sunt de fericit,
+O, cât sunt de fericit,
+O, cât sunt de fericit!

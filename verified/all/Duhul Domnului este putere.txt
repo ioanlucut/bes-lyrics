@@ -1,0 +1,18 @@
+[title]
+Duhul Domnului este putere {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4902}, id: {nFp78E4qGaiYNC7Lr77Her}, contentHash: {945a5a}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Cel ce e-n noi e mai tare
+Decât duhul veacului,
+Suntem mai mult decât biruitori
+Prin puterea Domnului,
+Doar a Lui!
+
+[c]
+/: Duhul Domnului este putere,
+Duhul Domnului e tăria mea,
+Duhul Domnului este putere,
+Îmi dă victoria! :/

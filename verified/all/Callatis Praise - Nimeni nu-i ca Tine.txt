@@ -1,0 +1,33 @@
+[title]
+Nimeni nu-i ca Tine {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6790}, id: {nUJv8jqwPeJ36VMyKzrPBY}, contentHash: {b3f5be}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Nu-i nimeni ca Tine, iubit Salvator!
+Nu-i nimeni să-mi poarte speranța de viață
+Pe aripi de dor.
+Nu-i nimeni pe lume să poată iubi,
+Nu-i nimeni ca Isus
+Să-mi dea siguranță să pot trăi.
+
+[c]
+/: Să pot visa,
+Să pot cânta,
+Și să respir doar prin harul Lui tandru,
+Să pot zbura. :/
+
+[v2]
+Nu-i nimeni ca Tine, prieten bun!
+Nu-i nimeni să poată s-arate în mine
+Tot ce-i mai bun.
+Nu-i nimeni asemeni, nu-i nume în cer,
+Nici pe pământ, altul nu e,
+Nu e ca El!
+
+[c2]
+/: Să-L preamăresc,
+Să Îl slăvesc!
+Și să-L înalț ca un steag peste lume,
+Să-L proslăvesc! :/

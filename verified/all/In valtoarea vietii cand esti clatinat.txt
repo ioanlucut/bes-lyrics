@@ -1,0 +1,29 @@
+[title]
+În vâltoarea vieții, când ești clătinat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {178726}, id: {3MKkKKfMVBt74bqvtwq83k}, contentHash: {610547}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În vâltoarea vieții, când ești clătinat,
+Cu descurajarea când ai de luptat,
+Nu uita că tu ești binecuvântat,
+Tot ce ai nevoie Dumnezeu ți-a dat.
+
+[c]
+În iubirea Lui mare te-a purtat,
+Zi și noapte Domnul te-a vegheat,
+Ești în toate binecuvântat,
+Tot ce ai nevoie Dumnezeu ți-a dat.
+
+[v2]
+Când îngrijorarea ți-e povară grea
+Și, sub cruce, greu mai poți înainta,
+Nu uita că tu ești binecuvântat,
+Tot ce ai nevoie Dumnezeu ți-a dat.
+
+[v3]
+Când ești în probleme, nu descuraja,
+Cel Atotputernic te va ajuta,
+El trimite îngeri ce te vor sluji
+Până alergarea tu ți-o vei sfârși.

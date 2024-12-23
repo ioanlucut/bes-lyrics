@@ -1,0 +1,15 @@
+[title]
+Nu este munte prea-nalt ca să nu-l miște {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4084}, id: {2iDgvwcxfxqe4zMQntX21S}, contentHash: {4c4f1c}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Nu este munte prea-nalt ca să nu-l miște,
+Nu e problemă prea grea să n-o rezolve,
+Nu e furtună prea rea să n-o liniștească,
+Nu e durere prea rea să n-o aline.
+
+[c]
+/: El purtat-a pe umerii Săi povara lumii,
+El poate lua chiar acum povara ta. :/

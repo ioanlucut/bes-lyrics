@@ -1,0 +1,41 @@
+[title]
+Colindul îngerilor {alternative: {Angels’ Carol}, composer: {John Rutter}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {3zmNiZpFdoUUMP9eLDesrm}, contentHash: {1f9f7c}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
+
+[v1.1]
+Oare-ați auzit răsunând în slavă
+Dulce glas de înger luminos și clar?
+Ați văzut lucind steaua fără seamăn,
+Semn că Dumnezeu coboară plin de har?
+
+[v1.2]
+Oare-ați ascultat veștile din ceruri,
+Așteptate-n taină de păstori, cu dor?
+/: Gloria in excelsis Deo, Gloria in excelsis Deo
+Cântă veseli îngerii-n cor. :/
+
+[v2.1]
+A venit smerit în tăcerea iernii
+Cum se-așterne neaua noaptea liniștit
+Și ne-a răsărit ca un soare veșnic,
+Încălzind cu drag pământul adormit.
+
+[v2.2]
+Al Mariei Fiu S-a născut în staul,
+Al măririi Rege azi e Prunc plăpând.
+/: Gloria in excelsis Deo, Gloria in excelsis Deo,
+Pace fie pe pământ! :/
+
+[v3.1]
+Iată-L strălucind în a lumii noapte,
+Aducând speranța cerului curat,
+Iată-L printre noi plin de bunătate,
+Domn neprihănit și-n dragoste-mbrăcat!
+
+[v3.2]
+Tot pământul azi să se veselească,
+Să-și întoarcă fața către Cel de sus!
+/: Gloria in excelsis Deo, Gloria in excelsis Deo,
+Să cântăm că S-a născut Isus! :/

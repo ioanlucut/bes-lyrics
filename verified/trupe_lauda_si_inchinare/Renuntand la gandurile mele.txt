@@ -1,0 +1,35 @@
+[title]
+Renunțând la gândurile mele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2771}, id: {7s9u2ekANupW1efx2oEPvK}, contentHash: {263606}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v1.1,v1.2,c
+
+[v1.1]
+Renunțând la gândurile mele,
+Concentrând atenția asupra Ta,
+Meditând în sfânta Ta prezență,
+Nelăsând ca frica să mai stea.
+
+[v1.2]
+Întrebări ce am le-aduc la Tine
+Și le pun, Isus, ‘naintea Ta.
+Stând curat în sfânta Ta prezență
+Mă închin și Te voi lăuda.
+
+[c]
+/: Privesc la Tin’ Cel ce-mi dai viață,
+Tu începi și duci la bun sfârșit,
+Tu îmi inspiri ființa și lucrarea,
+Doar iubirea Ta m-a împlinit. :/
+
+[v2.1]
+Deseori eu cad răpus pe cale,
+Îndoieli apasa-asupra mea.
+Oare voi putea ajunge în slavă?
+Oare, Doamne, mă poți ierta?
+
+[v2.2]
+Ca un rob ce la stăpân privește,
+Ca în val un naufragiat,
+Ca un cerb ce apa o dorește,
+Te chem Isus, din toată inima.

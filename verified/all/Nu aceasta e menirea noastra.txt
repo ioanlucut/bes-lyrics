@@ -1,0 +1,51 @@
+[title]
+Nu aceasta e menirea noastră {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {vfw6MoV7c95TWxArZ5WpPk}, contentHash: {69e385}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
+
+[v1.1]
+Nu aceasta e menirea noastră,
+Să clădim mereu aici valori!
+Căci mai sus de zarea cea albastră
+Vrem să fim cu toți moștenitori.
+
+[v1.2]
+Nu aici ne este bogăția,
+Nici comoara noastră aici jos.
+Vrem să spunem astăzi cu tărie:
+Fericirea noastră e Hristos!
+
+[c1.1]
+/: Dar pân’ atunci mai plâng, mai cânt
+Și Îl aștept pe El.
+Și vreau să-I spun că-mi este dor de cer.
+
+[c1.2]
+În orice zi suspin și-L chem
+Să vină mai curând,
+Să scap, să uit de-acest amar pământ. :/
+
+[v2.1]
+De nimic ce este-n astă lume
+Noi nu vrem nicicând a ne lega,
+Vrem să fim legați pe totdeauna,
+Drag Isuse, de iubirea Ta!
+
+[v2.2]
+Aurul, argintul, bogăția,
+Tot ce pare-a fi aici frumos
+Nu ne-ncântă căci Isus e Stânca
+Pentru omul drept și credincios.
+
+[v3.1]
+Vrem să spunem, Doamne, cu tărie:
+Doar Tu ești al nostru ideal!
+Ne conduci spre portul veșniciei,
+Vrem să-ajungem la al Tău liman.
+
+[v3.2]
+Doar aceasta e menirea noastră:
+Să ajungem pe tărâmul sfânt,
+Să lăsăm aici dureri și lacrimi
+Și să-nceapă-al bucuriei cânt.

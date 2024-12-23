@@ -1,0 +1,41 @@
+[title]
+M-ai învățat să-Ți cânt, o, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {9YPDAJz8zfKpYMAfJ99Wf6}, contentHash: {9c8890}}
+
+[sequence]
+v1,p,c,v2,p2,c2
+
+[v1]
+M-ai învățat să-Ți cânt, o, Doamne,
+Și să ador cântarea Ta,
+Nimic mai scump în astă lume
+Nu am decât Ție a-Ți cânta.
+
+[p]
+Ne-nchinăm Numelui Tău,
+Căci Tu ne ești Dumnezeu.
+Slavă-n cer și pe pământ,
+Îți aducem, Doamne Sfânt.
+
+[c]
+/: Nu-s mai voios pe-acest pământ
+Decât atunci când Ție-Ți cânt.
+Cu îngerii aș vrea să-Ți cânt,
+Aici pe pământ și-n cerul sfânt! :/
+
+[v2]
+De n-ar fi cântări să-mi aline
+Durerile ce mă zdrobesc,
+Ar fi pustiu în astă lume
+Și n-aș mai vrea să mai trăiesc.
+
+[p2]
+Dar având cântări acum,
+Tu faci rai și pe pământ.
+Tot ce-avem mai scump Îți dăm
+Și cântări noi Îți cântăm.
+
+[c2]
+/: Iubirea Ta Ți-ai arătat,
+Când pe Fiul Tău L-ai dat,
+Pe Golgota când a murit
+Și pentru noi S-a răstignit. :/

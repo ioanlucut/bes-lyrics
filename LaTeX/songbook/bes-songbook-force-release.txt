@@ -1,0 +1,3 @@
+Just change something in this file to force the release of the songbook.
+
+v1.0.0

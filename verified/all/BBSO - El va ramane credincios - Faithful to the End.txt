@@ -1,0 +1,30 @@
+[title]
+El va rămâne credincios {alternative: {Faithful to the End}, composer: {Caleb Collins}, writer: {*}, arranger: {Phillip Keveren}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {o4Wk9ZYJKkEP8bZZJRahDa}, contentHash: {14785b}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Când sunt trist și-apăsat, copleșit de-ndoieli
+Și când tot ce-am visat s-a destrămat,
+Când în jur e-ntuneric și totul pare-a fi pierdut,
+El îmi șoptește: Crede ce ți-am promis!
+
+[c]
+Eu voi rămâne credincios, în Mine vei fi victorios,
+Eu voi fi veșnic, veșnic credincios!
+Voi fi mereu de partea ta, te voi întări prin mâna Mea,
+Eu voi fi veșnic, veșnic credincios!
+
+[v2]
+Al Său har m-a găsit, milă n-am meritat,
+Dar pe cruce iertare mi-a dat.
+De-acum pe veci am speranță,
+Căci știu ce mult m-ai iubit
+Și mereu mi-amintește că-n toate mă va purta.
+
+[c2]
+/: El va rămâne credincios, prin El voi fi victorios,
+El este veșnic, veșnic credincios!
+Va fi mereu de partea mea, mă va-ntări prin mâna Sa,
+Domnul rămâne veșnic credincios! :/

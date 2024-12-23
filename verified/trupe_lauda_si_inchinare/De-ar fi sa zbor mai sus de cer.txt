@@ -1,0 +1,29 @@
+[title]
+De-ar fi să zbor mai sus de cer {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2995}, id: {qVuYgfdaPQ4N3CiRDFexM5}, contentHash: {09a434}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+De-ar fi să zbor mai sus de cer,
+Mai alb decât un porumbel,
+/: Mai sus de stele aș cânta
+Isus, Isus, iubirea mea! :/
+
+[v2]
+De-aș fi un cerb s-alerg prin munți
+Cu brazii cei semeți, cărunți,
+/: Întruna eu aș fredona
+Isus, Isus, iubirea mea! :/
+
+[v3]
+Luceafărul în zori să fiu,
+Ca stea lumină în pustiu,
+/: Pe ceru-ntreg eu Te-aș purta
+Isus, Isus, iubirea mea! :/
+
+[v4]
+Dar sunt nimic și totuși cânt,
+Nu pot să tac de haru-Ți sfânt,
+/: Mai mult în cer Îți voi cânta
+Isus, Isus, iubirea mea! :/

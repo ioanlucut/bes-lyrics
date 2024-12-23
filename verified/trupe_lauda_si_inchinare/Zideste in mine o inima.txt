@@ -1,0 +1,15 @@
+[title]
+Zidește în mine o inimă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1562}, id: {eYGfk4XgcPUwU9uK1h6Qs7}, contentHash: {9160d1}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Zidește în mine o inimă curată, Dumnezeule,
+Și pune în mine un duh nou, statornic, Dumnezeule!
+
+[c]
+Nu mă lepăda de la fața Ta
+Și nu lua de la mine Duhul Tău cel Sfânt!
+Dă-mi iarăși bucuria mântuirii Tale,
+Umple-mă cu Duhul Tău cel Sfânt!

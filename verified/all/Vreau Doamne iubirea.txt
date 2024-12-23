@@ -1,0 +1,17 @@
+[title]
+Vreau, Doamne, iubirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2813}, id: {3MaVPSZcoJ4RCHqgoWoKUR}, contentHash: {ac4a73}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Vreau, Doamne, iubirea,
+Tu să fii în viața mea!
+Vreau, Doamne, puterea,
+Tu să fii în viața mea!
+
+[c]
+Și Te voi preamări cu inima mea!
+Și Te voi preamări cu viața mea!
+Și Te voi preamări în toată lumea,
+Căci ești Dumnezeu, Tu ești Tatăl meu!

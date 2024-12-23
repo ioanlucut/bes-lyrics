@@ -1,0 +1,16 @@
+[title]
+My custom title {version: {ii}, alternative: {Când eram fără speranță}, composer: {Betania Dublin}, contentHash: {cd856b}, id: {7RURbpko41pWYEgVkHD4Pq}}
+
+[sequence]
+c,v1.1,v1.2,c,v2
+
+[c]
+/: Chorus content :/
+
+[v1.1]
+Verse 1.1 to be joined row 1
+Verse 1.1 to be joined row 2
+
+[v2]
+Verse 2 row 1
+Verse 2 row 2

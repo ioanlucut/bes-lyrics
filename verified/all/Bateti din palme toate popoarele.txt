@@ -1,0 +1,23 @@
+[title]
+Bateți din palme toate popoarele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5157}, id: {8Doh8bnQxRbAYgAcuJZd3x}, contentHash: {cbfe61}}
+
+[sequence]
+c,v1,v2
+
+[c]
+Bateți din palme toate popoarele
+Căci Dumnezeu e Împărat.
+Pe-ntreg pământul El stăpânește
+Cu mare slavă e îmbrăcat.
+
+[v1]
+Haideți, cu strigăte de bucurie,
+Pe Dumnezeu să-L întâmpinăm,
+Cântați-I psalmi Împăratului nostru,
+Veniți cu toții să-L lăudăm!
+
+[v2]
+El supune toate popoarele
+Și neamurile le-a creat,
+Cântați din inimă, cu bucurie,
+Doar al Său Nume e înălțat.

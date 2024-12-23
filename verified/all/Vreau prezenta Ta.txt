@@ -1,0 +1,33 @@
+[title]
+Vreau prezența Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5148}, id: {o1EzHh7cnX9SbRogMRDmXy}, contentHash: {f65cb9}}
+
+[sequence]
+v1,c,b,v2,c,v3,c
+
+[v1]
+Vreau prezența Ta,
+Vreau să simt cum mă înconjoară,
+Vreau prezența Ta,
+O, Domnul meu!
+
+[c]
+Nimeni nu-i ca Tin’,
+Nimeni nu se compară cu Tine,
+Nimeni nu-i ca Tin’
+O, Domnul meu!
+
+[b]
+Am nevoie de Tine, Doamne! (7x)
+Am nevoie de Tine în viața mea.
+
+[v2]
+Ești speranța mea,
+În prezența Ta simt pace,
+Ești bucuria mea,
+O, Domnul meu!
+
+[v3]
+Sunt pierdut în Tin’,
+Sunt pierdut în prezența-Ți măreață,
+Sunt pierdut în Tin’,
+Ești viața mea.

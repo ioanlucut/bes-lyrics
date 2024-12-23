@@ -1,0 +1,29 @@
+[title]
+Eu mă încred în Domnul meu {alternative: {*}, composer: {Daniel Stauceanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1629}, id: {qRfMSjxJPzeBCthSh3tTfM}, contentHash: {a103d5}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu mă încred în Domnul meu
+Prin orișice furtună,
+/: Că-n mâna Lui e soarta mea
+De-i vreme rea sau bună. :/
+
+[c]
+/: Să fie noaptea cât de grea,
+Inima mea Îi va cânta,
+Lui Isus eu mă voi ruga
+Să-mi dea puteri în ziua grea. :/
+
+[v2]
+Eu mă încred în Domnul meu,
+La ușă când îmi bate
+/: Satan cu-amenințarea sa,
+Isus de el mă scapă. :/
+
+[v3]
+Eu mă încred în Domnul meu
+Și-n harul ce mă ține,
+/: Când acest har se va sfârși
+Mă va lua la Sine. :/

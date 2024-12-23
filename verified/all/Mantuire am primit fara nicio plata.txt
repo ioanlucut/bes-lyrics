@@ -1,0 +1,29 @@
+[title]
+Mântuire am primit, fără nicio plată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3972}, id: {e5jG7hghNQGpgbXCed3Nvb}, contentHash: {cad54d}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Mântuire am primit, fără nicio plată,
+Prin Isus cel răstignit, fără nicio plată.
+/: Prin Isus suntem salvați
+Și cu Tatăl împăcați,
+De păcate toți iertați,
+Fără nicio plată. :/
+
+[v2]
+Pe Golgota S-a jertfit, fără nicio plată,
+Domnul care ne-a iubit, fără nicio plată.
+/: Astăzi noi suntem ai Lui,
+Chiar copiii Domnului,
+Mântuiți prin jertfa Lui,
+Fără nicio plată. :/
+
+[v3]
+Pace sfântă voi primiți, fără nicio plată,
+Pe Isus dacă-L iubiți, fără nicio plată.
+/: Isus te duce în rai,
+Inima de I-o predai,
+Și-n veci fericire ai,
+Fără nicio plată. :/

@@ -1,0 +1,54 @@
+[title]
+Turmă mică, nu te teme {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5436}, id: {pPB5Nx5NTJRch3BuvmA65o}, contentHash: {d25ffe}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+Turmă mică, nu te teme,
+Domnul e Păstorul tău!
+Urle lupii-n orice vreme
+Și furtuna-n jur de-ar geme,
+Dar de tine, nu te teme,
+
+[v1.2]
+/: Nu s-atinge niciun rău! :/
+Nu te teme, nu te teme,
+Nu se-atinge niciun rău,
+Nu se-atinge niciun rău.
+
+[v2.1]
+Căci puterea Lui e mare
+Și iubirea Lui e foc,
+Cine-ar mai putea, sub soare,
+Viața ta să o doboare
+Când, în mâna Lui cea tare,
+
+[v2.2]
+/: Tu rămâi, în orice loc? :/
+Mâna-I tare, mâna-I tare,
+Te-o păzi în orice loc!
+
+[v3.1]
+Deci, alungă gând de teamă
+Și de El să te-alipești,
+El ți-e tată, El ți-e mamă.
+Tu ascultă-L când te cheamă
+Și din calea Lui, ia seama,
+
+[v3.2]
+/: Pașii tăi să nu-i clintești! :/
+Să iei seama, să iei seama,
+Pașii tăi să nu-i clintești!
+
+[v4.1]
+În curând, sfârșești lucrarea
+Cea de trudă pe pământ.
+Roada Duhului, răbdarea,
+Își va înceta lucrarea
+Și va-ncepe sărbătoarea
+
+[v4.2]
+/: Veșnică în cerul sfânt. :/
+Sărbătoarea, sărbătoarea
+Veșnică, în cerul sfânt.

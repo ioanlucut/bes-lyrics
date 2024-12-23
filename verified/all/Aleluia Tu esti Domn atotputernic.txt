@@ -1,0 +1,19 @@
+[title]
+Aleluia, Tu ești Domn atotputernic {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jUS8UwuWsdmBkLX2cVAdzL}, contentHash: {90c08e}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Aleluia, aleluia,
+Tu ești Domn atotputernic
+Și domnești în veci.
+Cu putere și în slavă,
+Biruind mereu peste toate.
+
+[c]
+Ești Dumnezeu acum și în veșnicie,
+Împărăția Ta nu va trece nicicând,
+Domnia Ta va ține o veșnicie,
+Tu minuni faci în ceruri
+Și jos pe pământ.

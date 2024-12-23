@@ -1,0 +1,17 @@
+[title]
+Doamne, ești mai scump ca argintul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1987}, id: {m9SrsH2H8AgN3gZXCR55ex}, contentHash: {9eb7ac}}
+
+[sequence]
+c,b,c,b,c
+
+[c]
+/: Doamne, ești mai scump ca argintul,
+Doamne, ești mai scump ca aurul.
+Nu-i nimic în lume să îmi placă,
+Tot ce vreau, Isuse, ești doar Tu! :/
+
+[b]
+/: Și cine poate a măsura iubirea Ta
+Și cine poate cântări ce-i drept
+Și cine poate a măsura răbdarea Ta?
+Mila Ta întrece-orice-nțeles. :/

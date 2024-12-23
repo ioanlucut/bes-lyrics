@@ -1,0 +1,29 @@
+[title]
+Când dis-de-dimineață {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1gzDXHBgvNaZ3dqGAu9sms}, contentHash: {cf2dd0}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când dis-de-dimineață
+Văd răsăritul de soare iar,
+Văd păsări mii ce se unesc în cânt,
+Văd stropii de rouă pe frunzele verzi
+Și simt parfumul florilor,
+Mă-nchin și eu mărețului Creator.
+
+[c]
+Zi de zi, în orice clipă,
+Eu simt prezența lui Dumnezeu,
+Știu că lângă mine e mereu.
+Zi de zi, în orice clipă
+El mă-nconjoară cu harul Său,
+El e tot ce am, e Domnul meu!
+
+[v2]
+El a creat pământul,
+Munții înalți și întinsele văi,
+Mările-adânci și cerul înstelat.
+El a dat viață făpturilor vii,
+El a spus și s-a-mplinit.
+De aceea-n veci Îl voi slăvi!

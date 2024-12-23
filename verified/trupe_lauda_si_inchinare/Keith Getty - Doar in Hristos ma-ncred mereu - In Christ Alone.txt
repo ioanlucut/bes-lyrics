@@ -1,0 +1,53 @@
+[title]
+Doar în Hristos mă-ncred mereu {alternative: {In Christ Alone}, composer: {Keith Getty}, writer: {Stuart Townend}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {55961}, id: {uaBM2eeW3VbnXsk3ADPmNp}, contentHash: {20c2d3}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+Doar în Hristos mă-ncred mereu,
+Lumina și tăria mea,
+O stâncă tare-i Dumnezeu
+Când e furtună-n viața mea.
+
+[v1.2]
+De-ar fi să trec prin valea grea
+Și de-ar fi noapte-n jurul meu,
+Mă mângâie prezența Sa,
+Doar în Hristos mă-ncred mereu!
+
+[v2.1]
+Doar în Hristos sfânt și divin,
+În chip de om El s-a-mbrăcat,
+Darul divin, neprihănit,
+De păcătoși batjocorit.
+
+[v2.2]
+Mânia Tatălui de sus
+S-a potolit la Golgota.
+În locul meu muri Isus,
+Iar eu trăiesc prin moartea Sa!
+
+[v3.1]
+Au pus Lumina în mormânt,
+În întuneric L-au lăsat,
+Dar nu s-a stins, căci Domnul sfânt
+A treia zi a înviat!
+
+[v3.2]
+Biruitor e Domnul meu,
+Blestemul greu a ridicat.
+Eu sunt al Lui, căci Dumnezeu,
+Cu sânge m-a răscumpărat.
+
+[v4.1]
+În fața morții când voi sta,
+Doar în Hristos mă-ncred mereu,
+Căci orice pas din viața mea
+Îl hotărăște Dumnezeu.
+
+[v4.2]
+Din mâna Lui nu va putea,
+Nimic și nimeni să mă ia,
+Pân’ ce la Domnul plec și eu,
+Doar în Hristos mă-ncred mereu.

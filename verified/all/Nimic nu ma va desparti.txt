@@ -1,0 +1,53 @@
+[title]
+Nimic nu mă va despărți {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {161510}, id: {6oFLZyJrB33iRC8hRPBQy4}, contentHash: {2f340d}}
+
+[sequence]
+v1,v2,p,c,v3,v4,p,c,v5,v6,p,c
+
+[v1]
+Nimic nu mă va despărți
+De dragostea lui Dumnezeu,
+Căci la Golgota Fiul Său
+Muri pentru păcatul meu.
+
+[v2]
+Cum aș putea să răsplătesc
+Iubirea unui Fiu ceresc,
+Viața mea Îi dăruiesc
+Și-I cânt mereu că Îl iubesc.
+
+[p]
+Nu-i nimic și nimeni în lume
+Să ne poată despărți,
+Nu ne-nfrică iadul, nici moartea,
+Pe Isus Îl vom iubi.
+
+[c]
+Nu-i nimic și nimeni în lume
+Să ne poată despărți,
+Vrem cu Isus să fim în slavă,
+Adu, Doamne-acea zi!
+
+[v3]
+În viață cânt și-s fericit
+Că-L am pe El și-s mântuit,
+El împlinește ruga mea,
+Căci ține-n veci iubirea Sa.
+
+[v4]
+În viață-am fost împovărat,
+Iubirea El mi-a arătat,
+Povara, greul mi-a luat,
+Isus, în veci, fii lăudat!
+
+[v5]
+Vedem acum cu-adevărat
+Că vremea s-a apropiat,
+Venirea lui Isus curând
+Va răsuna pe-ntreg pământ.
+
+[v6]
+De dragostea lui Dumnezeu,
+De harul dat prin Fiul Său,
+Creștini să nu vă despărțiți,
+Pe Isus veșnic să-L iubiți.

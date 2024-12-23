@@ -1,0 +1,33 @@
+[title]
+Protector {alternative: {*}, composer: {Sarah Handaric}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {227002}, id: {4tjcPxCep3kJqoppnfRNXL}, contentHash: {fbf72a}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+M-ai adus la lumină,
+Și înțeleg că Tu nicicând nu m-ai lăsat,
+Nu m-ai abandonat.
+M-ai adus la lumină,
+Frica și orice grijă ce m-a stăpânit,
+Tu, Doamne, în veci ai risipit.
+
+[c]
+Isuse, Tu niciodată nu mă părăsești,
+Tu orice promisiune împlinești,
+Ești de partea mea, Isuse!
+
+[v2]
+Eu voi crede în Tine,
+Cred că Tu ai spus „Eu sunt acel ce sunt,
+Domn pe întreg pământ!”
+Eu voi crede în Tine,
+Chiar de-ar fi să trec prin încercarea grea,
+Tu pentru mine vei lupta.
+
+[b]
+Nici arme, nici teama
+Nu mă vor înfrânge.
+Nici răul, nici noaptea nu mă vor învinge,
+Căci toată puterea doar Lui I se cuvine,
+A mea libertate e Isus Mesia.

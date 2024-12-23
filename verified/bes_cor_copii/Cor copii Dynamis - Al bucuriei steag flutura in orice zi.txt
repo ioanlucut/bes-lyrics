@@ -1,0 +1,17 @@
+[title]
+Al bucuriei steag flutură în orice zi {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {93328}, id: {dLQfiWV8Z9UDhSLh7Ukfvy}, contentHash: {5d98e1}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Al bucuriei steag flutură în orice zi,
+Pe castelul inimii, flutură în orice zi,
+Al bucuriei steag flutură în orice zi
+Pentru că Isus e Regele meu!
+
+[c]
+/: Lasă steagul să fluture-acolo sus,
+Toată lumea să-L vadă pe Isus,
+Lasă steagul să fluture pe castel
+Pentru că Isus e Regele meu! :/

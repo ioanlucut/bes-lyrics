@@ -1,0 +1,29 @@
+[title]
+Înaintea Ta se cutremură pământul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tzC2eZiKY9HsHisbT4Zd1C}, contentHash: {da4b99}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Înaintea Ta se cutremură pământul
+Și marea și adâncul, înaintea Ta.
+Înaintea Ta, înaintea Ta oceane-nvolburate se liniștesc
+Și toate se vor închina, înaintea Ta.
+
+[v2]
+Mă închin și eu, o, Doamne, înaintea Ta,
+Inima mea Te va lăuda!
+Îți aducem mulțumire și ne smerim,
+Vrednic ești de laudă, Elohim!
+
+[v3]
+Înaintea Ta voi veni cu bucurie,
+Lumina mea cea vie, înaintea Ta.
+Înaintea Ta, prin sângele salvării,
+Prin harul îndurării, mă voi închina.
+
+[v4]
+Tu m-ai scos din întuneric
+La lumina Ta, înaintea Ta,
+Tu m-ai pus din nou pe stâncă,
+Te voi lăuda toată viața mea!

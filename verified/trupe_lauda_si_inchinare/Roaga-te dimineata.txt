@@ -1,0 +1,29 @@
+[title]
+Roagă-te dimineața {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {57643}, id: {gDy5q6T1kutVShK49694un}, contentHash: {5c8d9a}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Roagă-te dimineața,
+Roagă-te și la prânz,
+/: Roagă-te pe-nserate,
+Roagă-te orișicând. :/
+
+[v2]
+Ascultă dimineața,
+Ascultă și la prânz,
+/: Ascultă pe-nserate,
+Ascultă orișicând. :/
+
+[v3]
+Fă bine dimineața,
+Fă bine și la prânz,
+/: Fă bine pe-nserate,
+Fă bine orișicând. :/
+
+[v4]
+Dă-I slavă dimineața,
+Dă-I slavă și la prânz,
+/: Dă-I slavă pe-nserate,
+Dă-I slavă orișicând! :/

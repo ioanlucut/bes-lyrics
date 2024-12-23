@@ -1,0 +1,35 @@
+[title]
+E putere în Numele Isus {alternative: {*}, composer: {Cornel Cuibus}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {72709}, id: {cFJFdUXVtkaU5sVHUfVVdP}, contentHash: {1a3c9a}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Nu te-ndoi, ci crede, oricât de grea-i durerea,
+Căci Domnul te mai poate vindeca!
+La El este puterea, la El e mângâierea,
+El știe cât de grea e boala ta.
+
+[c]
+/: E putere, putere în Numele Isus,
+E iertare, iertare în sângele ce-a curs,
+E iubire, salvare și vindecare-n dar,
+E putere în jertfa din Calvar. :/
+
+[v2]
+Isus la scăldătoare a vindecat ologul
+Când nimeni nu-i venea în ajutor.
+Și azi are putere și azi întinde brațul
+Acel ce-a dat lumină orbilor
+
+[v3]
+A vindecat leproșii, chiar și demonizații,
+El a adus salvare tuturor.
+Să ne unim cu toții, să ne rugăm toți frații
+Să mai coboare Domnul în popor.
+
+[v4]
+Nu te-ndoi, ci crede, căci Domnul se îndură,
+Prin sângele cel sfânt ai fost spălat.
+Adu-ți aminte astăzi ce scrie în Scriptură
+Și poți pleca acasă vindecat.

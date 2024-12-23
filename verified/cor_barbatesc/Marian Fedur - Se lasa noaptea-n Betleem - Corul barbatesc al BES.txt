@@ -1,0 +1,41 @@
+[title]
+Se lasă noaptea-n Betleem {alternative: {*}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {6hfecd61t5HAExELkx1u1s}, contentHash: {bfed44}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Se lasă noaptea-n Betleem
+Cu cerul plin de armonii,
+Păstorii turmele păzind
+Gândesc cu dor la profeții.
+
+[c]
+/: Și iată că un înger sfânt
+Le-a spus cu glas mângâietor:
+E pace-n cer și pe pământ,
+Vi S-a născut Mântuitor! :/
+
+[v2]
+O stea din ceruri, îngeri sfinți
+Pe magi la iesle i-au condus,
+Ei Pruncului s-au închinat
+Și daruri scumpe I-au adus.
+
+[c2]
+/: El e cerescul Împărat,
+Mesia cel din vremi prezis,
+Emanuel cel așteptat
+Pe care cerul L-a trimis. :/
+
+[v3]
+În cântec pentru slava Lui
+Cu îngerii ne vom uni
+Și mântuirea ce-am primit
+Noi tuturor o vom vesti.
+
+[c3]
+/: Să cânte cel de chin învins,
+Tresalte orice muritor
+Căci cerul e de-acum deschis,
+Ni S-a născut Mântuitor! :/

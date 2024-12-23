@@ -1,0 +1,29 @@
+[title]
+Isus, dulce salvator {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4954}, id: {eVwWaJuzVaSZnjqh3N7KsJ}, contentHash: {5fee1b}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus e mângâierea mea
+Și-un prieten minunat,
+În încercarea cea mai grea
+Ajutor îmi este ne-ncetat.
+
+[c]
+Isus, dulce salvator,
+Aș vrea să-Ți spun că Te iubesc,
+Tu-mi ești un bun sfătuitor
+Și Îți mulțumesc!
+
+[v2]
+Isus e fericirea mea
+Și pacea sufletului meu,
+Prin jertfa Lui de pe Calvar
+M-a făcut un fiu de Dumnezeu.
+
+[v3]
+Isus e tăria mea,
+O stâncă-n valul furios,
+Ca o fântână în pustiu,
+O speranță e Isus Hristos.

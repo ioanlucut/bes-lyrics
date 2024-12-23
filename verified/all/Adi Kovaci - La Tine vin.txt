@@ -1,0 +1,19 @@
+[title]
+La Tine vin {alternative: {*}, composer: {Adi Kovaci}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {174727}, id: {x9Hi1232J7xaon5V2zBn8K}, contentHash: {9d1899}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când poverile lumii m-apasă prea greu, la Tine vin.
+Când putere nu am să mai cred în Cuvânt, la Tine vin.
+
+[c]
+/: La Tine vin, Isuse vin,
+Dragostea Ta mă va împlini!
+La Tine vin, la Tine vin acum,
+Isus, la Tine vin! : /
+
+[v2]
+Când mă simt părăsit, apăsat și învins, la Tine vin.
+Încercările când mă trântesc la pământ, la Tine vin.

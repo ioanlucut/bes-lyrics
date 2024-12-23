@@ -1,0 +1,23 @@
+[title]
+Sunt mântuit prin jertfa Lui {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5078}, id: {jG9EjuRBmCPmgqevpSjYP5}, contentHash: {60ac23}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Sunt mântuit prin jertfa Lui,
+/: Sunt mântuit prin jertfa Lui
+Și-s bucuros s-o spun oricui,
+Sângele Lui m-a curățit, sunt mântuit. :/
+
+[v2]
+Isus e-al meu Mântuitor
+ /: Isus e-al meu Mântuitor,
+Cu viața mea Îi sunt dator,
+Sângele Lui m-a curățit, sunt mântuit. :/
+
+[v3]
+El vine iar din cer la noi
+/: El vine iar din cer la noi
+Cu strălucirea vieții noi,
+Sângele Lui m-a curățit, sunt mântuit. :/

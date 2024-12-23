@@ -1,0 +1,29 @@
+[title]
+Orice om are nevoie de iubire și-a iubi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1514}, id: {kWDUTK9Go2i3UXhLDDKoLY}, contentHash: {a6e07b}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Orice om are nevoie de iubire și-a iubi,
+Orice viață, fără ea, n-are destin.
+Nu se poate viața mea, fără de iubirea Sa
+Oare Cine și ce este Dragostea?
+
+[c]
+/: Cineva, sus în cer, mă iubește,
+Cineva mă păzește mereu.
+Și sunt sigur că-n orice vreme,
+Sunt iubit de însuși Dumnezeu. :/
+
+[v2]
+De nu m-ar iubi în lume nici copii și nici părinți
+Niciun om nu-mi dovedește-a mă iubi.
+Dacă ura mă lovește și este greu chinul meu,
+Va veni o zi în care mă va scăpa Dumnezeu.
+
+[v3]
+Spuneți dar, la orișicine: „Dumnezeu e dragoste!”
+De-L iubești, tu ai putere să iubești pe-altcineva.
+Toți cei ce-L iubesc pe Isus, îi iubesc și pe vrăjmași,
+La așa iubire Domnul ne-a chemat să fim părtași.

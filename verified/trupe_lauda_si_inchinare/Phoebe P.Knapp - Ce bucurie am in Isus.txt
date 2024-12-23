@@ -1,0 +1,29 @@
+[title]
+Ce bucurie am în Isus! {alternative: {*}, composer: {Phoebe P.Knapp}, writer: {Liviu Avasiloai}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1764}, id: {kSe3QK2meSjRD6VGj1NLQd}, contentHash: {82ed32}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce bucurie am în Isus!
+O viață nouă El mi-a adus.
+Pentru vecie m-a mântuit
+Și moștenire mi-a dăruit.
+
+[c]
+În veci cânta-voi că-s fericit:
+Acum prin Isus sunt mântuit!
+În veci, aceasta voi cânta eu:
+„Laud pe Isus că e al meu!”
+
+[v2]
+Cu bucurie inima mea,
+Una cu Domnul să fie-ar vrea.
+El pace sfânta îmi dă din plin,
+Înviorat sunt prin har divin.
+
+[v3]
+Ce fericit sunt și liniștit,
+Când e cu mine sunt ocrotit.
+Eu știu prea bine și spun mereu:
+„Domnul e viața și e al meu!”

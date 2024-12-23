@@ -1,0 +1,23 @@
+[title]
+El e Domn, El e Domn {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1247}, id: {cur6LvZSByaX1rowhXXcRN}, contentHash: {1c1cae}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+El e Domn, El e Domn,
+El din morți a înviat și este Domn!
+Toți se vor pleca, vor mărturisi:
+Isus Hristos e Domn!
+
+[v2]
+El e Domn, El e Domn,
+El la cer S-a înălțat și este Domn!
+Toți se vor pleca, vor mărturisi:
+Isus Hristos e Domn!
+
+[v3]
+El e Domn, El e Domn,
+El cu slavă va veni, căci este Domn!
+Toți se vor pleca, vor mărturisi:
+Isus Hristos e Domn!

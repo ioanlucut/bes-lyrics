@@ -1,0 +1,29 @@
+[title]
+O, noapte preasfințită {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5026}, id: {e1TnXSwVG2DcqadpBq29Sb}, contentHash: {28ca7a}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+O, noapte preasfințită!
+Toate-s în odihnă, toți dorm,
+Numai părinții sfinți
+Stau veghind lângă al lor iubit.
+Dormi și Tu, o Prunc Sfânt,
+Dormi și Tu, o Prunc Sfânt.
+
+[v2]
+O, noapte preasfințită!
+Glas îngeresc răsună.
+Auzi din cer: „Aleluia!”
+Acest cuvânt, o, cum răsună:
+Hristos ne mântuiește!
+Hristos ne mântuie!
+
+[v3]
+O, noapte preasfințită!
+Saltă, o, inimă,
+Acum Fiul lui Dumnezeu
+Te mângâie prin harul Său.
+Vezi, Hristos S-a născut!
+Vezi, Hristos S-a născut!

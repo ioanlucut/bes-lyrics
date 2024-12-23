@@ -1,0 +1,41 @@
+[title]
+Cred în Dumnezeu ca Tată {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {65663}, id: {szVrUGAz9ruYREzxrGnmR1}, contentHash: {6e07d0}}
+
+[sequence]
+c,v1.1,v1.2,c,v2.1,v2.2,c,e
+
+[v1.1]
+Cred în Dumnezeu ca Tată, în Isus Hristos ca Fiu,
+Cred în Duhul Sfânt că este, cred Cuvântul că e viu.
+Cred că mai este iertare pentru tot ce-am făcut rău,
+De aceea alerg la tronul Său.
+
+[v1.2]
+Cred că Isus a fost jertfă, pe un lemn crucificat,
+Și-n mormânt, lângă Golgota,
+Trupul I-a fost îngropat.
+Cred că a-nviat precum a zis și viu S-a arătat,
+De aceea, la El am alergat.
+
+[c]
+/: Am luat hotărârea, înapoi nu voi da!
+Cu privirea doar la cruce, lumea-n spate-o voi lăsa.
+Nu-mi va fi deloc rușine să afirm că sunt creștin.
+Voi sluji mereu prin harul Său divin. :/
+
+[v2.1]
+Cred Cuvântul care spune:
+Trebuie să te naști din nou,
+Viața veche e spălată și totu-i nou.
+Cred că dragostea lui Dumnezeu se va descoperi,
+De aceea și mai mult Îi voi sluji.
+
+[v2.2]
+Cred că este-un bine și un rău, trăiești și apoi mori.
+Cred că Biblia este harta spre-ale cerului comori,
+Cred că nu sunt singur în Hristos,
+Pe mulți El ne-a salvat,
+De aceea credință I-am jurat.
+
+[e]
+Voi sluji mereu prin harul Său divin.

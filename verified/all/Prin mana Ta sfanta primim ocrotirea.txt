@@ -1,0 +1,41 @@
+[title]
+Prin mâna Ta sfântă primim ocrotirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5297}, id: {2XHPX5kTRHxhFagWcE2KGY}, contentHash: {324965}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Prin mâna Ta sfântă primim ocrotirea,
+Din orice-ncercare Tu ne izbăvești.
+/: Ești Stânca de veacuri ce dai nemurirea,
+Când totul va trece, doar Tu dăinuiești! /
+
+[v2]
+Prin mâna Ta sfântă primim ocrotirea,
+Când răul ne-nfruntă cu răcnet de leu.
+/: Când el ne vrea moartea, Tu dai nemurirea,
+Căci Tu ești viața, ești viu Dumnezeu. :/
+
+[v3]
+Prin mâna Ta sfântă primim ocrotirea,
+Când însăși mânia ne chinuie-amar,
+/: Venit-ai din ceruri s-aduci fericirea,
+Să mântui, să-ndrepți și să mori pe Calvar. :/
+
+[v4]
+Prin mâna Ta sfântă primim ocrotirea,
+Când dragostea-n lume cu greu o găsim.
+/: În inimi smerite, pui sol sfânt iubirea,
+Schimbând totu-n cântec de pace sublim. :/
+
+[v5]
+Prin mâna Ta sfântă primim ocrotirea,
+Chiar lutul acesta de s-ar sfărâma.
+/: Trecându-l prin moarte, Tu dai strălucirea
+Ce-n clipa-nvierii cu toți vom avea. :/
+
+[v6]
+Prin mâna Ta sfântă primim ocrotirea,
+Căci faci să rodească truditul pământ.
+/: Ți-aducem din suflet, pe veci, mulțumirea,
+O, Tată, Isuse și Duhule Sfânt! :/

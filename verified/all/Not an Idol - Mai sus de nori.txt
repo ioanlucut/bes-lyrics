@@ -1,0 +1,29 @@
+[title]
+Mai sus de nori {alternative: {*}, composer: {Not an Idol}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238201}, id: {fBjkGLiWBZhPSEpyspNUJc}, contentHash: {552e22}}
+
+[sequence]
+v1,c,v2,c,b,b2,c
+
+[v1]
+O lume fără culoare, când prețuim tot ce n-are valoare.
+Dragoste care dispare, indiferență arsă de soare.
+Stăm camuflați în mulțime, privind în jos, visăm la înălțime.
+Mergem pe drumuri străine.
+
+[c]
+/: E o dragoste mai sus de nori, care umple viața de culori,
+Aripile-ntinde peste noi și dă liniștea ‘napoi. :/
+
+[v2]
+Noi ridicăm azi hotare și așteptăm să vină o schimbare,
+Nu știm ce-nseamnă iertare. Avem răspuns la orice acuzare.
+Ducem, cu grijă în spate, doar amintiri și vise expirate,
+Trăim în singurătate și am uitat că undeva
+
+[b]
+Tu m-ai văzut de sus prin mii de stele, când eu priveam în noapte către ele,
+Prin mila Ta, Tu Te-ai atins de mine. Cât m-ai iubit!
+
+[b2]
+Ai coborât și m-ai luat de mână. M-ai scos din întuneric la lumină.
+Nu mai contează ce spune lumea. Eu liber sunt!

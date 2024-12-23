@@ -1,0 +1,33 @@
+[title]
+Ție-Ți cânt, Dumnezeul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4X7aivxrAbDbHL7yCvg6ZW}, contentHash: {5ef494}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Ție-Ți cânt, Dumnezeul meu, :/
+Pentru bunătatea Ta,
+Pentru harul Tău cel mare,
+/: Te voi binecuvânta :/
+Și în șoaptă și-n strigare. :/
+
+[v2]
+/: Ție-Ți cânt, Dumnezeul meu, :/
+Pentru toate ce mi-ai dat,
+Pentru dulcea Ta-ngrijire,
+/: Pentru tot ce mi-ai luat, :/
+Mă închin cu mulțumire. :/
+
+[v3]
+/: Ție-Ți cânt, Dumnezeul meu, :/
+Și în vorbe vreau să-Ți spun
+Și cântarea mea să ardă,
+/: Ție, bunul cel mai bun, :/
+Și-n iubire să se piardă. :/
+
+[v4]
+/: Ție-Ți cânt, Dumnezeul meu, :/
+Nu că eu aș ști să cânt
+Sau că am vreo vrednicie,
+/: Dar iubirea-mi dă avânt, :/
+Ca să-Ți cânt mărire Ție! :/

@@ -1,0 +1,19 @@
+[title]
+E bucurie-n Hristos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1FeGCLWJkq9ZGEHxVc3AUc}, contentHash: {485c22}}
+
+[sequence]
+c,v1,c,v1
+
+[c]
+E bucurie-n Hristos,
+Este dragoste-n spirit,
+E nădejde-n credința în El.
+E-o fântână ce-o știu,
+Ce hrănește-al meu suflet,
+E cuvântul ce curge din El.
+
+[v1]
+Mărirea și slava-s a Lui,
+Puterea și gloria-s a Lui,
+Să lăsăm gura Lui să ne-nvețe cântând,
+Voia Lui s-o-mplinim pe pământ.

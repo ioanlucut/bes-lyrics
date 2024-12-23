@@ -1,0 +1,33 @@
+[title]
+Da, pentru toți muri Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {di1apcyToHGBWnELzb9v91}, contentHash: {d9bc07}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Da, pentru toți muri Isus,
+El fie preamărit,
+Căci sângele Lui sfânt a curs
+Și-n el sunt curățit!
+
+[c]
+Și pentru mine, și pentru tine,
+Isus muri sus pe Calvar să dea viață-n dar.
+
+[v2]
+E drept că-n locul ‘nost S-a dus
+Să fie răstignit.
+Blestemul tot pe El fu pus,
+Ce mult El ne-a iubit!
+
+[v3]
+Povara noastră a purtat
+Cu lacrimi pe pământ,
+Păcatul ‘nost L-a apăsat
+Mereu, pân’ la mormânt.
+
+[v4]
+Atunci când inima ți-e grea,
+Privește la Isus!
+Privește-I jertfa pururea
+Și îți va fi de-ajuns!

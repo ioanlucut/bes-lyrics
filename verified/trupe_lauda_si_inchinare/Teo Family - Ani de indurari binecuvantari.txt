@@ -1,0 +1,23 @@
+[title]
+Ani de îndurări, binecuvântări {alternative: {*}, composer: {Teo Family}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {235603}, id: {t1scPEJYmDj2HRQL7UQoNr}, contentHash: {3f3abd}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Ani de îndurări, binecuvântări,
+Doar Tu, Isus, m-ai luat de mână
+Și prin încercări, Tu mi-ai dat puteri
+Să învingem greul împreună.
+
+[c]
+Îți mulțumesc, Isus, că sunt al Tău,
+Îți mulțumesc, Isus, că harul Tău m-a salvat
+Îți mulțumesc, Isus, că-n Tine m-ai ascuns
+/: Harul Tău, o, Doamne, îmi e îndeajuns! :/ (3x)
+
+[v2]
+Ani de îndurări, binecuvântări,
+Tu m-ai vegheat și zi și noapte
+Și prin încercări, Tu mi-ai dat puteri,
+Cu Tine voi merge mai departe.

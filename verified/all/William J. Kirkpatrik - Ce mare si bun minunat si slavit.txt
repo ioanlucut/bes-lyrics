@@ -1,0 +1,29 @@
+[title]
+Ce mare și bun, minunat și slăvit {alternative: {*}, composer: {William J. Kirkpatrik}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74300}, id: {9o2bbCTGDNqodM211WXFoM}, contentHash: {70bf9d}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce mare și bun, minunat și slăvit
+E Isus, al meu bun Păstor!
+El m-a ocrotit printre stânci de granit
+Lângă al vieții izvor.
+
+[c]
+El m-a ocrotit printre stânci de granit,
+Deasupra uscatelor văi.
+Cu mâna Lui tare mereu m-a umbrit
+/: Pe urmele pașilor Săi. :/
+
+[v2]
+Ce bun Salvator, minunat și slăvit,
+Povara mea El a purtat.
+El m-a ridicat și voi sta neclintit,
+Pe culmea iubirii salvat.
+
+[v3]
+Și-n slavă-mbrăcat când mă voi ridica,
+Să-I ies înainte pe nori,
+Salvarea măreață și-atunci voi cânta
+În glorie de mii de ori.

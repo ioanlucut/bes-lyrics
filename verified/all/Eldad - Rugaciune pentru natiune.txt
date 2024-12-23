@@ -1,0 +1,29 @@
+[title]
+Rugăciune pentru națiune {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5YydD72jNg4hD8i6L7VSq8}, contentHash: {e9e8cd}}
+
+[sequence]
+v1,c,v2,c,c2,c
+
+[v1]
+Rugăciunea noastră este să mântuiești
+A noastră națiune și să ne izbăvești!
+Rugăciunea noastră este să ne sfințești,
+/: Să reverși din nou binecuvântări cerești! :/
+
+[c]
+Revarsă, Doamne, har din cer peste pământ,
+Lasă, Doamne, o revărsare a Duhului Sfânt!
+Să transforme, să dezlege de robie pe orice om
+Și să schimbe, să lucreze, trezește-ne din nou!
+
+[v2]
+Rugăciunea noastră este să tămăduiești,
+De vicii și păcate să ne curățești!
+Rugăciunea noastră este să eliberezi,
+/: Pe cei legați de patimi să-i restaurezi! :/
+
+[c2]
+/: Primește rugăciunea pe care o înălțăm,
+Adu din nou trezirea ce o așteptăm!
+Și azi Tu ai puterea să faci vindecări,
+Prin Duhul Sfânt, o, Doamne, trezește-ne din nou! :/

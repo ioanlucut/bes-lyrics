@@ -1,0 +1,39 @@
+name: 'LaTeX Release Conduct'
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'LaTeX/conduct/**'
+  workflow_dispatch:
+
+jobs:
+  LaTeXConductRelease:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Compile BES Conduct LaTeX doc
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: BES_Conduct_Afisaj.tex
+          working_directory: LaTeX/conduct/
+          latexmk_shell_escape: true
+
+      - name: Generate Release Tag
+        id: tag
+        run: echo "{name}={release_tag::BES_Conduct_$(date +"%Y.%m.%d_%H-%M")}" >> $GITHUB_OUTPUT
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: 'LaTeX/conduct/BES_Conduct_Afisaj.pdf'
+          tag_name: ${{ steps.tag.outputs.release_tag }}
+          fail_on_unmatched_files: true
+          draft: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

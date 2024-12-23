@@ -1,0 +1,33 @@
+[title]
+Rugă {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {k4f1x2Xv3hbAUjbgQvb2N4}, contentHash: {619ac1}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Eu Te voi urma, toată viața Te voi lăuda,
+Îmi plec toată ființa mea să facă în veci voia Ta,
+O, ce mult aș vrea!
+
+[v2]
+Eu Te voi urma, Tu ești, Doamne, bucuria mea,
+Îmi schimbă de-acum inima și umple-o cu dragostea Ta,
+E ruga mea.
+
+[v3]
+Eu Te voi urma, Doamne prinde-mă în mana Ta,
+Chiar apa șuvoi de-ar veni și munții de s-ar prăbuși
+Nedespărțiți vom fi.
+
+[v4]
+Doamne, fii mărit pentru harul Tău nemărginit!
+Vestesc azi iubirea Ta și cânt despre dragostea Ta
+În veci, Aleluia!
+
+[v5]
+Eu Te voi urma, toată viața Te voi lăuda,
+Îmi plec toată ființa mea să facă în veci voia Ta,
+O, ce mult aș vrea!
+Eu Te voi urma, Tu-mi ești, Doamne, bucuria mea!
+Îmi schimbă de-acum inima și umple-o cu dragostea Ta!
+E ruga mea, e ruga mea.

@@ -1,0 +1,43 @@
+[title]
+O lume întreagă stă în nepăsare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1511}, id: {m7rByqHXyGxwSquRyPW93n}, contentHash: {ed7d2e}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+O lume întreagă stă în nepăsare
+Și caută adăpost când vine o-ncercare,
+Dar eu nu mă tem, dar eu nu mă tem.
+
+[v1.2]
+În ceasul cel bun e stăpână pe toate,
+Când Domnul îi vorbește, i-e frică de moarte
+Dar eu nu mă tem, dar eu nu mă tem!
+
+[c]
+Dar eu nu mă tem, chiar dacă
+Cei din jur mă părăsesc.
+Dar eu nu mă tem, orice-ar veni,
+Viața mea e-n mâna
+Celui ce-a murit pe lemn,
+Cu mine Îl chem, și eu nu mă tem!
+
+[v2.1]
+Ades’ vine-ncercarea, năvalnic ca marea
+Și norii negri grabnic întunecă zarea,
+Dar eu nu mă tem, dar eu nu mă tem.
+
+[v2.2]
+Se spulberă cuvântul și orice speranță
+Și nici măcar o clipă nu mai e siguranță,
+Dar eu nu mă tem, dar eu nu mă tem!
+
+[v3.1]
+Când oamenii cei răi mă-nconjoară cu ură,
+Din cupa lor să-mi dea să beau o picătură,
+Dar eu nu mă tem, dar eu nu mă tem.
+
+[v3.2]
+Cu Domnul meu eu trec biruitor peste toate,
+Din apă și din foc să mă scape El poate,
+Dar eu nu mă tem, dar eu nu mă tem!

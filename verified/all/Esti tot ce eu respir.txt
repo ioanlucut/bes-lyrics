@@ -1,0 +1,15 @@
+[title]
+Ești tot ce eu respir {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {brdhTQc1x9p63wurp6t8TD}, contentHash: {5780c0}}
+
+[sequence]
+c,b,c
+
+[c]
+/: Ești tot ce eu respir, :/
+Când sunt cu tine, cerul ating,
+/: Ești tot ce eu doresc :/
+Și doar cu Tine, Doamne, trăiesc.
+
+[b]
+Și vreau din Tine mai mult,
+Și vreau de Tine s-ascult.

@@ -1,0 +1,27 @@
+[title]
+Mai presus ca ‘naltul zării {alternative: {*}, composer: {William J. Gaither}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {2W8cLfqPCZN1fyZn1wVLXe}, contentHash: {31bb43}}
+
+[sequence]
+v1.1,v1.2,c,v2,c
+
+[v1.1]
+Mai presus ca ‘naltul zării,
+Mai de preț ca orice har,
+E iubirea arătată pe Calvar.
+
+[v1.2]
+Mai adâncă decât marea,
+Mai curată ca un crin
+E iubirea Salvatorului divin.
+
+[c]
+Iubirea Ta-i izvor de mântuire
+Ce m-a salvat plătind păcatul greu,
+Te voi păstra în suflet pe vecie
+Căci dragostea ești Tu, o, Domnul meu!
+
+[v2]
+Chiar de nu pot înțelege totdeauna voia Ta,
+Știu că-n viața mea lucrezi din dragoste.
+Vreau să vadă toți în mine chipu-Ți blând și iubitor,
+Ca un Tată plin de dragoste și dor.

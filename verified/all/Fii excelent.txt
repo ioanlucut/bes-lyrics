@@ -1,0 +1,18 @@
+[title]
+Fii excelent {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {s2xLNmtEXDTtZXDgz5UhT1}, contentHash: {1f9a6d}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Romani 16:19 zice: (4x)
+
+[v2]
+Fii excelent în ce e bun,
+Fii inocent în rău! (2x)
+
+[v3]
+Și Domnul păcii
+Pe Satan îl va-nvinge
+Da-l, va-nvinge
+Sub piciorul Său.

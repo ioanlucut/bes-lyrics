@@ -1,0 +1,41 @@
+[title]
+Mai cheamă-mi, Isuse, al meu duh zdrobit {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {a5ZzBAoDsrX31DVHUa2t5e}, contentHash: {705a30}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Mai cheamă-mi, Isuse, al meu duh zdrobit
+Să verse șiroaie de lacrimi
+Și spală-l, Isuse, de tot ce-a trăit
+Prin negura nopții de patimi!
+
+[c]
+Mai dă-mi pocăință în sufletul meu,
+Dă-mi har și credință deplină,
+Smerenie sfântă mai dă-mi Tu mereu
+Să umblu pe căi de lumină!
+
+[v2]
+Mai iartă-mi, Isuse, tot cât Ți-am greșit,
+Că nu este om fără vină
+Și-nvăluie-mi dulce tot duhul zdrobit
+Și-n pacea iertării alină!
+
+[c2]
+Mai dă-mi o speranță în sufletul meu
+Și-mbracă-mă-n haina-nnoirii
+Și ia-mă cu Tine, Isuse, la greu
+Să scap de ispitele firii!
+
+[v3]
+Mai lasă-mi, Isuse, suspinul trudit
+Plecat în genunchi să Te cheme,
+Mai iartă-mi, Isuse, piciorul greșit
+Și-ndreaptă-mi umblarea prin vreme!
+
+[c3]
+Mai dă-mi o lumină în sufletul meu
+Din sfânta și dreapta credință,
+Unește-mă veșnic, Isus, Dumnezeu
+Cu marea și sfânta Ființă!

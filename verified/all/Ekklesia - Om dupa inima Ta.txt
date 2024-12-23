@@ -1,0 +1,33 @@
+[title]
+Om după inima Ta {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {97925}, id: {haNxnUtCGefcLykX933keF}, contentHash: {f6bc88}}
+
+[sequence]
+v1.1,v1.2,c,v2,c,e
+
+[v1.1]
+Văd în stele ce măreț ești, Domnul meu,
+Văd în toate că doar Tu ești Dumnezeu,
+Văd slava Ta pe-ntregul pământ și vreau
+Să fiu un om după inima Ta.
+
+[v1.2]
+Se aude-un cântec nou din înălțimi,
+Se ridică glasuri și din ape-adânci
+Aud cum cântă-ntregul pământ și vreau
+Să fiu un om după inima Ta.
+
+[c]
+Aș vrea să Te văd, Isus, deschide-mi Tu inima
+Să cuprind puterea dragostei în ea,
+Doar prin har trăiesc și prin har Te văd
+Căci viața și salvarea mea ești Tu.
+
+[v2]
+Ești Acel ce viață dai din dragoste,
+Ești Acel ce ai murit, eu să trăiesc,
+Să mă iubești e tot ce-mi doresc și vreau
+Să fiu un om după inima Ta.
+
+[e]
+/: Să mă iubești e tot ce-mi doresc și vreau
+Să fiu un om după inima Ta! :/

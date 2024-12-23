@@ -1,0 +1,39 @@
+[title]
+De neclintit {alternative: {*}, composer: {BBSO}, writer: {Răzvan Rește & Sergiu Strete}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {198165}, id: {4npE7TGdUnzJ2tEpbvs2xF}, contentHash: {58e7e0}}
+
+[sequence]
+v1,v2,b,c,v3,e
+
+[v1]
+Mă-ncred în Cel ce a promis
+Că mă va lua să fiu cu El,
+În Cel ce ura morții-a stins,
+Calea mea spre cer.
+
+[v2]
+Și până la sfârșit voi fi
+Ascuns în planul înțelept,
+Cu tot ce sunt Îi voi sluji,
+Iubind tot ce e drept.
+
+[b]
+Și sunt convins: El poate să păzească
+Tot ce I-am încredințat!
+
+[c]
+Cu Tine sunt de neclintit,
+Prin cruce viață am primit!
+Cu inima tare și mintea întreagă
+Trăiesc prin puterea lui Isus!
+
+[v3]
+Și orice lucru de-ar veni,
+Știu sigur El mă va scăpa!
+Din moarte mă va mântui
+Pentru slava Sa!
+
+[e]
+Da, eu știu în Cine am crezut
+Și nu voi da ‘napoi!
+El mă va păstra în harul Său
+Până-n ziua de-apoi!

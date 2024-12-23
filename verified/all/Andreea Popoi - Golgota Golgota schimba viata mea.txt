@@ -1,0 +1,21 @@
+[title]
+Golgota, Golgota schimbă viața mea {alternative: {*}, composer: {Andreea Popoi}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7234}, id: {6kY7rWGUgZJx7rSZUJ7B3Q}, contentHash: {56b4a6}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Sfânt Cuvânt, dar ceresc, zi de zi eu primesc.
+Dumnezeu e pe pământ, prin Isus și Duhul Sfânt.
+Râu de viață, râu de har, umple-ne cu al tău jar,
+Să trăim pentru El, sfânt Cuvânt venit din cer!
+
+[c]
+/: Golgota, Golgota schimbă viața mea și a ta,
+Să trăim pe pământ ascultând de-al Său Cuvânt! :/
+
+[v2]
+Sfânt Cuvânt e Hristos, a venit la noi jos,
+S-a jerfit pe Calvar și ne-a dat viață-n dar.
+Voi pleca-n cerul Său cu Hristos, Domnul meu.
+Voi cânta slavă Lui, osanale Mielului.

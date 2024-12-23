@@ -1,0 +1,42 @@
+[title]
+Stau înaintea Ta așa cum sunt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fjCTUSf1pW8gAhMFUPZxcL}, contentHash: {043599}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,b,c
+
+[v1.1]
+Stau înaintea Ta așa cum sunt,
+Îți dau viața mea.
+Da, Tu mă primești și zici:
+„Copilul meu, Eu te iubesc!”
+
+[v1.2]
+Da, orice-ar veni eu mă încred,
+Mă-ncredințez doar Ție.
+Da, vreau să Îți cânt, Doamne,
+Căci Tu ești viața mea.
+
+[c]
+Da, eu vreau să îți cânt mereu,
+Să Îți mulțumesc!
+Fă din mine tot ce Tu dorești.
+Ia-mi viața în mâna Ta, Îți închin inima
+Și-n veci eu Îți voi cânta.
+
+[v2.1]
+Eu vreau să fiu în mâna Ta
+Ca să-mi conduci viața mea,
+Vreau să-Ți slujesc tot mereu,
+O, Doamne!
+
+[v2.2]
+Da, orice-ar veni eu mă încred,
+Mă-ncredințez doar Ție.
+Da, vreau să Îți cânt, Doamne,
+Căci Tu ești viața mea.
+
+[b]
+Eu vreau să fiu în mâna Ta
+Ca să-mi conduci viața mea,
+Vreau să-Ți slujesc tot mereu,
+Domnul meu.

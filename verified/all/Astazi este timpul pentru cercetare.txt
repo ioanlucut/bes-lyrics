@@ -1,0 +1,46 @@
+[title]
+Astăzi este timpul pentru cercetare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5640}, id: {ksFUp2ZZURhgmmcLVFurLq}, contentHash: {27f172}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Astăzi este timpul pentru cercetare!
+Vine Domnul în curând!
+Să ne cercetăm viața fiecare,
+Gata să fim așteptând.
+
+[v1.2]
+Vine Mirele Isus să-Și ia mireasa!
+Pe care-o va pregăti
+Cu miresme-n haine albe
+Acolo și noi vom fi.
+
+[c]
+/: În cer, în cer, în cer, aleluia, amin!
+Cu Isus acolo ne vom întâlni sus
+În cer, aleluia, amin! :/
+
+[v2.1]
+Rugăciunea este arma pocăinței.
+Ne-ncetat să ne rugăm!
+Vine Domnul în curând, cu slavă mare.
+Cu toții să-L așteptăm!
+
+[v2.2]
+Să ne îndemnăm mereu la fapte bune,
+În iubirea Lui uniți!
+Așteptând a Sa venire,
+La Isus cu toți veniți!
+
+[v3.1]
+O, ce har bogat ne-a dat și slavă mare,
+Ne așteaptă sus în cer.
+Pregătiți sunt cei veniți din orice vreme,
+Ne vom întâlni cu El!
+
+[v3.2]
+Și ne va servi la masa Sa bogată,
+Bucuroși cu toți vom fi!
+În gloria Sa măreață,
+Acol’ noi ne-om întâlni!

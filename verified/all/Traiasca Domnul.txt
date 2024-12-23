@@ -1,0 +1,47 @@
+[title]
+Trăiască Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {235991}, id: {7szfb9ZMz8UPSKRx8C5n8C}, contentHash: {812df6}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Nu pot uita vreodată
+Iubirea arătată de Isus,
+M-a-mbrăcat în haine albe,
+A pus pe mine podoabele din cer!
+
+[v1.2]
+El mi-a dat haină de nuntă,
+Ce privirea o încântă orișicui
+Și în mine, a pus o taină:
+E iubirea arătată omului!
+
+[c]
+/: Trăiască Domnul,
+El este Stânca mea în care mă încred!
+Trăiască Domnul,
+El este Stânca mea și Cetățuia mea! :/
+
+[v2.1]
+Și viața când va trece,
+Nu vreau să-mi fie rece inima,
+Că vreau să-I cânt iubirea
+Celui ce nemurirea-n dar mi-a dat!
+
+[v2.2]
+Dumnezeu îmi dă tărie
+Să Îi cânt cu bucurie numai Lui,
+În necaz și clipe grele,
+Îmi trimite mângâiere, harul Lui!
+
+[v3.1]
+Iar când cei răi, pe urme,
+Doreau să-mi ia viața, am zărit
+O Cetate de scăpare,
+Ajutor și alinare, la necaz.
+
+[v3.2]
+Din groapa cea adâncă
+M-a pus să stau pe Stâncă mâna Lui
+Și în turnul de scăpare
+Fericit, cânt o cântare Domnului!

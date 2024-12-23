@@ -1,0 +1,26 @@
+[title]
+Voi fi cu tine {alternative: {*}, composer: {Laud}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2819}, id: {gCU5PrqL8Z3q4rURJEGFgk}, contentHash: {016e64}}
+
+[sequence]
+c,v1,c,v2
+
+[c]
+/: Nu, niciun rău, nu te va ajunge
+Și nici nu se va apropia de cortul tău!
+Am să mă lupt Eu pentru tine!
+Voi fi cu tine,
+Voi fi cu tine mereu! :/
+
+[v1]
+Nu, nu am să te las,
+Nicicând nu te voi părăsi.
+Voi merge înaintea ta pe drum,
+Să știi,
+În noapte și-n zi.
+
+[v2]
+Nu, nu am să renunț
+Nicicând la sufletul tău,
+Eu te iubesc așa de mult
+Și vreau
+Al Meu doar să fii.

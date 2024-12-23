@@ -1,0 +1,23 @@
+[title]
+Tatăl nostru ce ești în ceruri {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rVr59HwhPQrUJv4Jw5w5fo}, contentHash: {e7b85b}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Tatăl nostru, ce ești în ceruri, Numele-Ți înălțăm.
+În curând Împărăția Ta va reveni,
+Voia Ta pe pământ și-n ceruri se va-mplini.
+
+[v2]
+Pâinea noastră, dă-ne-o astăzi,
+Iartă-ne când greșim
+Cum iertăm și noi pe alții în fiecare zi.
+Nu ne duce în ispită, izbăvește-ne.
+
+[v3]
+Te rugăm să ne ferești de cel viclean și rău,
+Numai Tu ești Stăpânitorul, totul e al Tău,
+Căci doar a Ta e Împărăția, puterea și gloria,
+/: Veșnic vei împărăți căci ești nemărginit. :/
+Amin, amin! Amin, amin!

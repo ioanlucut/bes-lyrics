@@ -1,0 +1,29 @@
+[title]
+Vestea venită de sus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4U4ugH4dVoKnZzy5rZZbti}, contentHash: {6fdd79}}
+
+[sequence]
+c,v1,c,v2,c
+
+[v1]
+Vestea venită de sus,
+Se naște Domnul Isus
+Printr-o fecioară sfântă, ce minunat!
+S-a împărțit istoria,
+Cerul cântă gloria Sa,
+Coboară printre oameni pacea Sa.
+
+[c]
+Sfânt Fiu de Dumnezeu,
+Isus, Emanuel,
+În planul mântuirii ne-ai iubit.
+Din slavă la Betleem
+În iesle ai venit,
+Ce har și mântuire am primit.
+
+[v2]
+Popoare și regi s-au dus,
+Dar veșnic rămâne Isus
+Domnește ca împărat, Mântuitor.
+Calea ce duce spre cer,
+Alfa, Omega, Tu ești la fel,
+Mesia, fii slăvit, o, Domnul meu!

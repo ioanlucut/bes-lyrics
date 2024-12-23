@@ -1,0 +1,35 @@
+[title]
+El poate, El poate, Eu știu că poate {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4915}, id: {2jj2THv1C9YYL3DiGoSE99}, contentHash: {110cb7}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4,c
+
+[c]
+/: El poate, El poate,
+Eu știu că poate!
+Eu știu că Domnul poate-a
+Mă duce-n cer! :/
+
+[v1]
+El inimi vindecat-a,
+Captivi eliberând,
+A dat vedere orbilor,
+Bolnavii vindecând.
+
+[v2]
+A dat la ai Săi putere
+Să fie martori vii
+Prin Duhul Său cel Sfânt,
+Le-a dat și multe bucurii.
+
+[v3]
+Deci, suflete, grăbește
+Și vino la Isus!
+Căci bunul tău Păstor, Isus,
+Te duce-n ceruri sus!
+
+[v4]
+Și-acolo-n veșnicie
+Cu Dumnezeu vei stea
+Căci ai făcut în viața ta
+Ce scrie Biblia.

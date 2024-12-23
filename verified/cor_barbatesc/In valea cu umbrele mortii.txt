@@ -1,0 +1,47 @@
+[title]
+În valea cu umbrele morții {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2PfyerRigC7NwzwVqUbqrJ}, contentHash: {b6fd95}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+În valea cu umbrele morții,
+Departe de cer locuiesc,
+Dar cerul întreg mi-e în suflet
+Și doar pentru El eu trăiesc.
+
+[v1.2]
+Acolo eu am un Părinte,
+Acolo e și-al meu Isus.
+Eu știu că-n curând vine-n slavă
+Pe-ai Săi să îi ducă-n cer sus.
+
+[c]
+Un dor de veșnicie, de casă m-a cuprins,
+Un dor de-a mea comoară, de țara mea de vis!
+Mi-e dor de-al meu Părinte, ce-n cer mă va primi,
+Mi-e dor de noua casă în care voi locui!
+
+[v2.1]
+Chiar dacă trăiesc într-o lume
+Ce-i plină de-amar și păcat,
+În inimă am fericirea
+Ce Isus prin moartea-I mi-a dat.
+
+[v2.2]
+Sunt vesel mereu și-n necazuri
+Căci știu că al meu drum spinos
+Sfârși-va-ntr-o zi-n veșnicie,
+La capăt m-așteaptă Hristos.
+
+[v3.1]
+Mereu eu mă rog cu credință
+Și-aștept răbdător acea zi
+Când sfinții-or avea biruința,
+Când triumfători noi vom fi.
+
+[v3.2]
+Nădejdea mea e doar în Domnul,
+Mereu El m-a călăuzi
+Pe calea pe care-au mers sfinții
+Din noapte pășind către zi.

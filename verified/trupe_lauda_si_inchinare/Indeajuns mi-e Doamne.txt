@@ -1,0 +1,24 @@
+[title]
+Îndeajuns mi-e, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fvsCWcYcHrThuE2KLaQeWw}, contentHash: {1c412f}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+/: Îndeajuns mi-e, Doamne, doar harul Tău! :/
+
+[c]
+/: Te laud, Doamne, Te preamăresc!
+Îmi ridic mâinile spre cer și Te slăvesc! :/
+
+[v2]
+/: Îndeajuns mi-e, Doamne, Cuvântul Tău! :/
+
+[v3]
+/: Îndeajuns mi-e, Doamne, dragostea Ta! :/
+
+[v4]
+/: Mă-nchin în fața tronului Tău! :/
+
+[v5]
+/: Cu Tine-n slavă curând voi sta :/

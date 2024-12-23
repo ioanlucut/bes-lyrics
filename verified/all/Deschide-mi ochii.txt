@@ -1,0 +1,19 @@
+[title]
+Deschide-mi ochii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1422}, id: {7hAwor1nMr7XLzqx8xirNX}, contentHash: {8f07ec}}
+
+[sequence]
+v1,e
+
+[v1]
+/: Deschide-mi ochii,
+Vreau să Te văd, Isus!
+Să Te-ating cu mâna,
+Să-Ți spun că Te iubesc,
+Și fă-mi urechea,
+Cu dor să Te-asculte.
+Deschide-mi ochii,
+Vreau să Te văd, Isus. :/
+
+[e]
+Deschide-mi ochii,
+Vreau să Te văd, Isus. :/

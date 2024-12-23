@@ -1,0 +1,59 @@
+[title]
+Rege al regilor {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197841}, id: {oAkczBTZt1Qo1soYbdyNzv}, contentHash: {08b148}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,v3.3,v3.4,c
+
+[v1.1]
+Când eram fără speranță-n
+Întuneric Te-așteptam,
+Plin de milă, Tu, din glorie,
+Către noi ai alergat.
+
+[v1.2]
+Te-ai născut dintr-o fecioară,
+Profețiile-mplinind
+Și din nesfârșita-Ți glorie
+Într-o iesle Te-ai smerit.
+
+[c]
+Slavă Ție, Te-adorăm,
+Tată, Fiu și Duh Preasfânt,
+Domn al gloriei, Salvator!
+Slavă Ție, Rege al regilor!
+
+[v2.1]
+Proclamând Împărăția
+Și căutând pe cei pierduți,
+Ai adus răscumpărarea
+Pentru toți cei ce-au crezut.
+
+[v2.2]
+Și privind spre răsplătire
+Crucea Tu ai suferit.
+Ai disprețuit rușinea,
+Pentru noi Tu Te-ai jertfit.
+
+[v3.1]
+Iar în zorii învierii
+Ceru-ntreg a amuțit,
+Piatra cade răsturnată,
+Mielul Sfânt a biruit!
+
+[v3.2]
+Sfinții-nvie din morminte,
+Îngerii uimiți privesc.
+Iată, cei ce vin acasă
+Mântuirea o primesc.
+
+[v3.3]
+Și prin Duhul Tău cel Sfânt
+S-a născut Biserica,
+Vesta bună proclamând,
+Ea nicicând nu va cădea.
+
+[v3.4]
+Azi sunt liber în Hristos,
+Sunt prin El neprihănit
+Și trăiesc biruitor
+Prin Acel ce m-a iubit.

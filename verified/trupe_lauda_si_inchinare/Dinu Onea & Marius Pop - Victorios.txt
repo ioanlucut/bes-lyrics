@@ -1,0 +1,33 @@
+[title]
+Victorios {alternative: {*}, composer: {Dinu Onea & Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158367}, id: {sQNhRhcHjBWXTrSmmnEEfo}, contentHash: {18329f}}
+
+[sequence]
+v1,v2,c1.1,c1.2,b,c1.1,c1.2
+
+[v1]
+Domnul, steagul meu,
+Domnul, scutul meu,
+Îmi ești apărător și sprijinitor,
+Ești refugiul meu.
+
+[v2]
+Când mă rog, m-auzi,
+Când Te chem, răspunzi,
+Rostesc Numele Tău, cade tot ce-i rău
+Și sunt izbăvit.
+
+[c1.1]
+Nu e munte să nu-l pot urca,
+Nu e val prea furios.
+Sunt mai mult decât biruitor,
+Prin Isus Hristos.
+
+[c1.2]
+Tu ești stâncă în furtuna grea,
+Ești un turn de adăpost,
+Brațul Tău îl chem în ajutor,
+Sunt victorios.
+
+[b]
+/: Revarsă-acum ungerea Ta,
+Viață din prezența Ta. :/

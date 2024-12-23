@@ -1,0 +1,57 @@
+[title]
+Tu aparții de marea-mpărăție {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ePhBox1kM3wE87xSGVzwCa}, contentHash: {d9346e}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c2,v3.1,v3.2,c3,e
+
+[v1.1]
+Tu aparții de marea-mpărăție
+Ce-n vremea de acum s-a arătat,
+Rămâi statornic, stai pe temelie,
+Tu ești un fiu de mare Împărat!
+
+[v1.2]
+Nu risipi comoara prin pustie,
+Nu sta nepăsător de darul dat!
+Ascultă vocea ce-ți repetă ție:
+Tu ești un fiu de mare Împărat.
+
+[c]
+/: Tu ești un fiu, tu ești un fiu,
+Tu ești un fiu de mare Împărat. :/
+
+[v2.1]
+Căci ție ți s-a dat încălțăminte
+Și cingătoare, brâu adevărat,
+Și sabia și scutul cel fierbinte
+Și mantie curată ți s-a dat.
+
+[v2.2]
+Ascunde-ți fruntea-n coiful mântuirii,
+Nădejdea neclintită ce s-a dat.
+Să nu te-nfrice duhurile firii,
+Tu ești ostaș la marele-mpărat.
+
+[c2]
+/: Tu ești ostaș, tu ești ostaș,
+Tu ești ostaș la marele-mpărat. :/
+
+[v3.1]
+Stai pregătit de luptă și în toate
+Privește Căpetenia mereu!
+Războiul e pe viață și pe moarte,
+Dar lupta o câștigă Dumnezeu.
+
+[v3.2]
+În jurul tău mai sunt frați care luptă
+Căci mântuirea pentru toți s-a dat,
+Vom fi cu toți încununați în glorii,
+Și răsplătiți de marele-mpărat!
+
+[c3]
+/: Și răsplătiți, și răsplătiți,
+Și răsplătiți de marele-mpărat. :/
+
+[e]
+Tu ești un fiu, tu ești ostaș,
+Ești răsplătit de marele-mpărat.

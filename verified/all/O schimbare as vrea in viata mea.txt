@@ -1,0 +1,23 @@
+[title]
+O schimbare aș vrea în viața mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153187}, id: {dFFvf6sb4fm8sPueJuzNYZ}, contentHash: {308e77}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Viața mea Ți-am predat și acum sunt bogat,
+Nimic din trecut nu mai vreau.
+Păcatul mi-ai luat și acum sunt iertat,
+Și vreau să-Ți cânt ne-ncetat.
+
+[c]
+O schimbare aș vrea în viața mea,
+Și iertare să primesc la Golgota,
+Viață nouă prin Isus am dobândit,
+Îți mulțumesc că m-ai mântuit.
+
+[v2]
+De-acum viața mea va fi-n mâna Ta,
+Nimic nu mă va clătina.
+Mă-ncred în Isus, ce dulce mi-a spus
+Că în curând voi fi la dreapta Sa.

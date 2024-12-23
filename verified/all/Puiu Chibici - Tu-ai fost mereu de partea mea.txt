@@ -1,0 +1,32 @@
+[title]
+Tu-ai fost mereu de partea mea {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {113418}, id: {i5eqm9ngLJTRCGRsY8oyqo}, contentHash: {f3866a}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu-ai fost mereu de partea mea,
+O, Domnul meu cel bun,
+Cetate de scăpare, în care să mă-ascund.
+Când valea umbrei morții reci, ființa-mi chinuia,
+Schimbându-mi cursul sorții, Tu-ai fost salvarea mea.
+
+[c]
+/: De-aceea Te laud, Domnul meu,
+De-aceea Te voi slăvi mereu!
+Ești mare, ești sfânt, ești bun, ești minunat,
+O, Domnul meu, fii binecuvântat! :/
+
+[v2]
+Doar Tu ai fost de partea mea
+Când toți m-au părăsit,
+Când gheara disperării mă sfâșia cumplit.
+În încercarea cea mai grea, doar Tu m-ai mângâiat,
+Și m-ai luat în brațe, Părinte minunat.
+
+[v3]
+De n-ar fi fost dragostea Ta
+Să spele-al meu păcat,
+Cu sânge, la Golgota, o, Miel nevinovat,
+Eram pentru vecii pierdut, dar, Tu m-ai căutat,
+Iubire minunată, fii veșnic lăudat!

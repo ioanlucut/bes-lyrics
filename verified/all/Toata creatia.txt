@@ -1,0 +1,28 @@
+[title]
+Toată creația {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188982}, id: {ixmtt24GBPGwP8h1mSGFR1}, contentHash: {d21fbd}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Toată creația, întreg pământ,
+Croiește o cale pentru Cel Sfânt.
+Isus vine-n curând,
+Chemați păcătoșii, treziți pe cei sfinți,
+Orice popor să-L slăvească pe El,
+Isus vine-n curând!
+
+[c]
+/: Te așteptăm, vrem să Te vedem
+Ca o mireasă mirele ei.
+Ne e dor de-al nostru Domn. :/
+Cântăm: vino-n curând, Doamne, vino!
+
+[v2]
+Va fi răsplata, tot înnoit,
+Numele-Ți mare pe veci proslăvit,
+Isus vine-n curând!
+
+[e]
+/: Te așteptăm, Te așteptăm, Isus!
+Te așteptăm cu privirea în sus! :/

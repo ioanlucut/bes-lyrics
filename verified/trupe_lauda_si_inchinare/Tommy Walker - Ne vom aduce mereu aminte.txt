@@ -1,0 +1,41 @@
+[title]
+Ne vom aduce mereu aminte {alternative: {*}, composer: {Tommy Walker}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157566}, id: {pGw6wDG2zaDZkkL8PCL28Q}, contentHash: {f36363}}
+
+[sequence]
+c,v1,v2,c,v3,b,c,v4,c
+
+[c]
+/: Ne vom aduce mereu aminte,
+Vom spune lumii lucrările-Ți mari,
+Vom striga: „O, cât de mare
+E credincioșia Ta!” :/
+
+[v1]
+Ești Creatorul, Susținătorul,
+Mângâietorul, iubit Salvator!
+Și peste vremuri ne-ai fost scăpare,
+Ne-ai dat pace, chiar în furtuni.
+
+[v2]
+Prin multe semne Ți-arăți puterea,
+Prin sânge sfânt harul Ți-ai revărsat,
+Ne-ai fost alături, sprijin în toate,
+Ne-ai dat viață fără sfârșit.
+
+[v3]
+Când drumul nostru prin văi coboară,
+Noi vom privi la tot ce-ai făcut,
+Și vom striga: „Ce bun e Domnul,
+El e mereu credincios!”
+
+[b]
+Aleluia, aleluia,
+Celui ce ne-a binecuvântat!
+Aleluia, aleluia,
+Celui ce ne-a răscumpărat!
+
+[v4]
+Mi-aduc aminte, de-a Ta chemare,
+De ziua când mi-ai spus: „Ești salvat!”,
+Că niciodată nu voi fi singur,
+Pe veci viața Tu mi-ai schimbat.

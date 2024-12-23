@@ -1,0 +1,26 @@
+[title]
+Astăzi iarăși e Crăciun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {i3hGzUX6bMkLme4HAHQHLS}, contentHash: {e458ed}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Astăzi iarăși e Crăciun, auzi cântece răsun!
+Și ne amintim voioși, azi că S-a născut Hristos.
+Domnul cerul a lăsat și de noi s-a îndurat,
+Într-o iesle S-a născut, ce iubire a avut!
+
+[c]
+/: Să cântăm cu toți voioși azi că S-a născut Hristos! :/
+
+[v2]
+Astăzi iarăși e Crăciun, ochii noștri văd minuni.
+Daruri multe se împart la bogați și la săraci,
+Însă darul cel mai bun ce-l primim noi de Crăciun
+Este Fiul Celui Sfânt coborât azi pe pământ.
+
+[v3]
+Astăzi iarăși e Crăciun, auzi cântece răsun,
+Copilași și oameni mari, bucuroși suntem toți iar.
+Pot să fiu eu întristat de Isus când sunt salvat?
+De când e al meu Păstor și al meu Ocrotitor?

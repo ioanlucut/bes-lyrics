@@ -1,0 +1,29 @@
+[title]
+Splendori divine lăsat-a {alternative: {*}, composer: {Ionuț Crăciun}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1530}, id: {qBmKbHZyckV9jQc3uqsn6g}, contentHash: {07308c}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Splendori divine lăsat-a
+Știind destinul Său
+Când pe crucea de pe Golgota
+Pentru noi viața El și-a dat.
+
+[c]
+De nu ne-ar iubi, marea s-ar usca,
+N-ar fi stele pe cer, păsări n-ar mai zbura.
+De nu ne-ar iubi, cerul ar fi un mit,
+Dar Isus ne-a iubit, pentru noi S-a jertfit.
+
+[v2]
+Străini de Tatăl din ceruri
+Departe-am rătăcit,
+Dar Isus cu brațele deschise
+În casa Lui m-a primit.
+
+[v3]
+Azi cânt că marea iubire
+Aici s-a arătat
+Și prin jertfa de pe Golgota
+Cu Tatăl ceresc ne-a-mpăcat.

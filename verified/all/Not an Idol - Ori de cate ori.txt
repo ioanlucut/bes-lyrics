@@ -1,0 +1,33 @@
+[title]
+Ori de câte ori {alternative: {*}, composer: {Not an Idol}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {144681}, id: {ri32QLqri74U5rPyfA5J6x}, contentHash: {2f760f}}
+
+[sequence]
+v1,b,c,v2,b2,c
+
+[v1]
+Am, în sufletul meu, bucurii
+De când Te-am întâlnit.
+Lumină, speranță Tu mi-ai dat,
+Mă simt din nou iubit.
+
+[b]
+Isus, Te voi urma
+Și liber voi cânta.
+
+[c]
+Ori de câte ori simt că vreau să zbor,
+Știu că aripi voi găsi la Tine,
+Mă las purtat de un singur dor.
+Doamne, vreau să Te văd.
+
+[v2]
+Orice frică din inima mea
+Tu ai alungat,
+M-ai umplut de prezența Ta,
+M-ai binecuvântat!
+
+[b2]
+Isus, Te voi urma
+Toată viața mea.
+Vreau să trăiesc mereu
+În libertatea Ta!

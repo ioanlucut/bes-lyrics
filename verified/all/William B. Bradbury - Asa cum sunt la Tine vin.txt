@@ -1,0 +1,29 @@
+[title]
+Așa cum sunt, la Tine vin {alternative: {*}, composer: {William B. Bradbury}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {56459}, id: {dr3wiLNdqcTTN8LwtUqzJ4}, contentHash: {54e1fd}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Așa cum sunt, la Tine vin!
+Putere n-am, Tu-mi fii sprijin.
+/: Mă spală-n sângele-Ți divin
+O, Mielule, eu vin, eu vin! :/
+
+[v2]
+De îndoieli sunt apăsat,
+De ispitiri, împresurat,
+/: Slăbit de valuri, mult purtat
+O, Mielule, eu vin, eu vin! :/
+
+[v3]
+Așa cum sunt de rătăcit,
+La Tine vin, să fiu scutit,
+/: Să fiu bogat și fericit
+O, Mielule, eu vin, eu vin! :/
+
+[v4]
+Așa cum sunt, Tu mă primești!
+Păcatul nici nu-mi amintești.
+/: Crezând în Tin’, mă mântuiesc.
+O, Mielule, eu vin, eu vin. :/

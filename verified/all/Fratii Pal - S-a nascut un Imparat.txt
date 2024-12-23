@@ -1,0 +1,21 @@
+[title]
+S-a născut un Împărat {alternative: {*}, composer: {Frații Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4444}, id: {wNgqDUcFqWMSwJy15zXCro}, contentHash: {c6f832}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+S-a născut un Împărat, Domn al păcii, minunat,
+S-a născut Mântuitor, Domn al tuturor!
+
+[c]
+Aleluia, îngerii cântau! Aleluia, toți se bucurau!
+Aleluia și noi cântăm, lui Mesia inima I-o dăm!
+
+[v2]
+Cum profeții-au profețit, astăzi totul s-a-mplinit:
+Cel fără de început astăzi S-a născut!
+
+[v3]
+Să răsune-n largul zării vestea bună a-ndurării:
+Întunericul s-a dus, S-a născut Isus!

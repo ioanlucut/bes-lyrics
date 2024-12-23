@@ -1,0 +1,47 @@
+[title]
+Iubirea-adânc-a Tatălui {alternative: {How Deep the Father’s Love for Us}, composer: {Stuart Townend}, writer: {Stuart Townend; Carmen Gavril}, arranger: {Bryn Haworth}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {217294}, id: {ha7S1bgvkFRt5Y8vyfmmrb}, contentHash: {627c83}}
+
+[sequence]
+v1,v2,v3,v4,b,v5,v6
+
+[v1]
+Iubirea-adânc-a Tatălui,
+Nimic nu o măsoară,
+Ce-avea mai scump El dărui,
+Făcând din noi comoară.
+
+[v2]
+Durere de neînchipuit,
+Căci Tatăl și-a-ntors fața
+Pe Cel Ales L-a părăsit,
+Iar nouă ne-a dat viața!
+
+[v3]
+La Fiul răstignit privesc,
+Păcatu-mi cum Îl frânge,
+În rând cu cei ce Îl hulesc
+Și vocea mea-L străpunge.
+
+[v4]
+Pe cruce Eu Te-am țintuit,
+Dar când Ți-ai dat suflarea,
+Al nopții chin s-a risipit
+Și mi-ai adus iertarea!
+
+[b]
+Osana, Osana!
+Mielului ce-a fost ‘junghiat,
+Osana, Osana!
+Celui mort și înviat!
+
+[v5]
+Cu ce-aș putea să mă mândresc?
+Căci daruri n-am, nici fapte.
+Cu învierea-I mă fălesc,
+Cu salvatoarea-I moarte.
+
+[v6]
+O, nu-s de-ajuns spre-a-Ți mulțumi,
+Nici cânt, nici osanale.
+Hristos cu viața Sa plăti,
+A mea răscumparare!

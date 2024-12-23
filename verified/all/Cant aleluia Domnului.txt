@@ -1,0 +1,23 @@
+[title]
+Cânt aleluia, Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6Y6HkxcaUyjhZVkjjW1EUY}, contentHash: {43b6cc}}
+
+[sequence]
+c,v1,v2
+
+[c]
+Cânt aleluia, Domnului,
+Cânt aleluia, Domnului,
+/: Cânt aleluia, cânt aleluia,
+Cânt aleluia, Domnului! :/
+
+[v1]
+Slavă-I aducem lui Isus,
+Slavă-I aducem lui Isus,
+/: Slavă-I aducem, slavă-I aducem,
+Slavă-I aducem lui Isus! :/
+
+[v2]
+Isus domnește peste noi,
+Isus domnește peste noi,
+/: Isus domnește, Isus domnește,
+Isus domnește peste noi! :/

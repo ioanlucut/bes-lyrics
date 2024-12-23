@@ -1,0 +1,23 @@
+[title]
+Fiindcă Duhul Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {aBQMwKxaP6n37cLe9NZBeo}, contentHash: {a2d78a}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Fiindcă Duhul Domnului este-n mine,
+Eu cânt azi ca și David. :/
+/: Eu cânt azi, eu cânt azi,
+Eu cânt azi ca și David. :/
+
+[v2]
+/: Fiindcă Duhul Domnului este-n mine,
+Mă rog azi ca și David. :/
+/: Mă rog azi, mă rog azi,
+Mă rog azi ca și David. :/
+
+[v3]
+/: Fiindcă Duhul Domnului este-n mine,
+Mă lupt azi ca și David. :/
+/: Mă lupt azi, mă lupt azi,
+Mă lupt azi ca și David. :/

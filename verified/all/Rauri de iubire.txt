@@ -1,0 +1,24 @@
+[title]
+Râuri de iubire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gTpbXxEjDoC9jQk8Rsz7Ly}, contentHash: {f61c75}}
+
+[sequence]
+v1,v2,c
+
+[v1]
+Doamne, vin așa cum sunt în fața Ta,
+Să mă închin cu tot ce am, cu viața mea
+Am fost rănit,
+Dar frământarea Tu mi-o poți lua.
+
+[v2]
+Ai adus întregul cer în viața mea
+Și mi-ai pus balsamul Tău pe rana grea,
+Sunt fericit
+Că Tu rămâi mereu de partea mea.
+
+[c]
+Când Tu mă înconjori cu râuri de iubire
+Sunt vindecat,
+Sorbind din pacea Ta.
+La pieptul Tău găsesc atâta fericire,
+Eu sunt aici și nu mai pot pleca.

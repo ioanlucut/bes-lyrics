@@ -1,0 +1,29 @@
+[title]
+Ai deschis cerul Tău, ai lăsat slava Ta {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66236}, id: {vHNMkvx84838YFwgLjMnHk}, contentHash: {a2e8a8}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2
+
+[v1]
+Ai deschis cerul Tău, ai lăsat slava Ta
+Și-ai venit pentru mine, un biet păcătos.
+M-ai iubit așa mult c-ai murit la Calvar,
+Să deschizi ochii mei, să-nțeleg și să Te slăvesc.
+
+[c1.1]
+Pentru cântec, speranță și rază de soare,
+Lumină și pace pe-a mea cărare,
+Pentru tot ce Tu îmi dai, mulțumesc!
+
+[c1.2]
+Pentru zâmbetul Tău înscris printre stele,
+Mângâierea Ta în clipele grele,
+Pentru dragostea Ta revărsată în mine
+Mă-nchin, recunosc că ești Domn
+Și rostesc: „mulțumesc!”
+
+[v2]
+Când la Tine am venit cu povara mea grea,
+M-ai primit, sufletul mi-ai mântuit.
+De atunci viața mea Ți-am predat, o, Isus,
+Fiul Celui Preaînalt m-ai făcut prin sânge sfânt.

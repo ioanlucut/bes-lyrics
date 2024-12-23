@@ -1,0 +1,35 @@
+[title]
+Avem nevoie de Dumnezeu {alternative: {*}, composer: {Simina Palincas}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2124}, id: {gQMH4dtbguzx1ra6JhYH3q}, contentHash: {d32a8d}}
+
+[sequence]
+c,v1,c,v2,c,v3,c,v4
+
+[c]
+/: Avem nevoie de Dumnezeu,
+De Dumnezeu, da, de Dumnezeu.
+Avem nevoie de Dumnezeu
+Mai mult ca oricând :/
+
+[v1]
+Se minte, se fură, se-njură, se bea,
+Se fac doar fapte urâte.
+Aceasta e lumea din ziua de azi,
+Ne spune Sfânta Scriptură.
+
+[v2]
+Soția și soțul se ceartă mereu
+Și se întreabă: de ce?
+Nu se înțeleg frații-ntre ei,
+De ce, de ce, de ce?
+
+[v3]
+Părinții se-ntreabă de ce-ai lor copii
+Se poartă atât de ciudat,
+De ce nu-i ascultă, de ce se prefac
+Mereu că nu-i aud?
+
+[v4]
+Pătrunde, o, Doamne, azi în inima mea,
+Curăță tot ce-i rău.
+O pildă să fiu și lumină aș vrea
+Pentru tot ce-i al Tău.

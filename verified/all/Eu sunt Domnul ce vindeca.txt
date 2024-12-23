@@ -1,0 +1,17 @@
+[title]
+Eu sunt Domnul ce vindecă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bKcqedvyC9cu2kEZ7JvFNY}, contentHash: {956fdb}}
+
+[sequence]
+v1,v2,v1,v2
+
+[v1]
+/: Eu sunt Domnul ce vindecă,
+Eu sunt Vindecătorul,
+Eu am trimis Cuvântul Meu cel sfânt
+Și am luat durerea. :/
+
+[v2]
+/: Tu ești Domnul ce vindecă,
+Tu ești Vindecătorul,
+Tu ai trimis Cuvântul Tău cel sfânt
+Și ai luat durerea. :/

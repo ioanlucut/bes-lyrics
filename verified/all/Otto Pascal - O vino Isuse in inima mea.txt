@@ -1,0 +1,29 @@
+[title]
+O, vino, Isuse, în inima mea {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {216540}, id: {rUuMkG5r8ifSdUi3kauQ5f}, contentHash: {6ae1f8}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+O, vino, Isuse, în inima mea
+Căci este zdrobită și plânge.
+/: Cum Tu știi, Părinte, o rană lega,
+Plătind chiar cu prețul de sânge. :/
+
+[v2]
+O, vino, Isuse, credință să-mi dai
+Căci sunt ca o trestie uscată,
+/: Cum Tu-ncurajezi și-ntărești inima,
+Nu-i om pe pământ să o facă. :/
+
+[v3]
+O, vino, Isuse, să pășim amândoi
+Să-Ți spun tot amarul din suflet.
+/: Căci Tu știi să asculți și să dai înapoi
+Răspunsuri ce-aduc pace-n suflet. :/
+
+[v4]
+O, vino, Isuse, cu dor Te aștept
+Să-mi umpli privirea cu stele,
+/: Și când vei rosti „Vino, rob bun și drept!”
+Să uit de necaz și durere. :/

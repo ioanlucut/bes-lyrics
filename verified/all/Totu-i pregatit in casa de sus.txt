@@ -1,0 +1,25 @@
+[title]
+Totu-i pregătit în casa de sus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74416}, id: {auin1pUpcHKjV1yNyMXnq2}, contentHash: {ab6639}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Totu-i pregătit /: în casa de sus :/ (3x)
+Totu-i pregătit în casa de sus, unde e Isus.
+
+[v2]
+Nu mai e păcat /: în casa de sus :/ (3x)
+Nu mai e păcat în casa de sus, unde e Isus.
+
+[v3]
+N-ai vrea tu să mergi /: în casa de sus? :/ (3x)
+N-ai vrea tu să mergi în casa de sus, unde e Isus?
+
+[v4]
+Calea e Isus, /: spre casa de sus :/ (3x)
+Calea e Isus, spre casa de sus, unde e Isus.
+
+[v5]
+Te voi întâlni /: în casa de sus? :/ (3x)
+Te voi întâlni în casa de sus? Unde e Isus.

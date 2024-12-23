@@ -1,0 +1,35 @@
+[title]
+Să n-ai teamă {alternative: {*}, composer: {Peter Strauch}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {9pfsmSqcEsM7Y4RS65HEaR}, contentHash: {009a5a}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Tu, popor ales de Domnul,
+Nu-ți fă grijă pentru mâine,
+Că și astăzi ca-n pustie,
+El se va-ngriji de tine.
+
+[c]
+Să n-ai teamă niciodată
+Că te duce-n carul Său
+Ca să vezi cât ești de tare
+Cât rămâi cu Dumnezeu.
+
+[v2]
+E prezent și când ți-e sete,
+Și-ți dă apă chiar din stâncă
+Ca să știi că toate-ascultă
+Necurmat a Sa poruncă.
+
+[v3]
+El te-a dus chiar și prin mare,
+Prin minunea ce-o știi bine
+Ca să vezi că Domnul slavei,
+Nu te lasă de rușine.
+
+[v4]
+El îți pune înainte
+Stâlp de foc să lumineze
+Ca să vadă fiecare
+Calea dreaptă s-o păstreze.

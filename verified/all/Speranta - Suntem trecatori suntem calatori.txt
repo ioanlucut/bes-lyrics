@@ -1,0 +1,28 @@
+[title]
+Suntem trecători, suntem călători {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6767}, id: {4rS4XSJDxRxiKAWwtbj8F3}, contentHash: {2bd250}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Suntem trecători, suntem călători,
+Pornim înspre țara de vis.
+Oriunde am fi, oriunde ne-am găsi,
+Nu va fi nicicând ca-n Paradis.
+
+[c]
+/: Acolo ne este țara, promisă de Isus,
+Cerul sfânt, patria dorită,
+Țara cea de sus. :/
+
+[v2]
+Suntem trecători, suntem călători,
+Mai avem puțin de mers.
+Și în curând, de pe pământ,
+Vom pleca spre Univers.
+
+[v3]
+Suntem trecători, suntem călători,
+Și cântecul acesta s-a sfârși
+Curând pe nori, în splendori,
+Dumnezeu ne va răpi.

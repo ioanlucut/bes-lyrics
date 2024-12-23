@@ -1,0 +1,35 @@
+[title]
+Nu știam că-n juru-mi sunt izvoare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4018}, id: {2wUsgnayPB9eVAqmpoazeL}, contentHash: {a44910}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nu știam că-n juru-mi sunt izvoare,
+Nu știam de oaza din pustiu,
+/: Așteptam să vină corbi din zare,
+Așteptam sfârșitul meu târziu. :/
+
+[v2]
+Mi-am plimbat privirea peste dune
+Și-am văzut pustiul gol și sterp,
+/: Am simțit fiorul morții-n mine,
+Tot mai mult mă apăsa în piept. :/
+
+[v3]
+Chinuit de arșița toridă,
+Copleșit de-al morții evantai,
+/: M-am trezit la vocea Ta cea blândă
+Tocmai Tu, o, tocmai Tu erai. :/
+
+[v4]
+N-am știut, Isuse, că din Tine
+Curg izvoare limpezi de cristal,
+/: N-am știut că setea arsă-n mine,
+Numai Tu ai stins-o cu-al Tău val. :/
+
+[v5]
+Dacă vrei și tu, amice dragă,
+Focul inimii din piept să-l stingi,
+/: El îți vindecă ființa-ntreagă
+Vin’ la El, la pieptu-I drag să plângi. :/

@@ -1,0 +1,19 @@
+[title]
+Această zi a făcut-o El {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2H1v93LFyrtGynLXGxbw3L}, contentHash: {d4cd1a}}
+
+[sequence]
+v1,v2
+
+[v1]
+Această zi a făcut-o El,
+Să ne bucurăm, să ne veselim!
+Această zi a făcut-o El,
+Să ne bucurăm, să ne veselim!
+/: Bucurați-vă în Domnul! :/
+
+[v2]
+Sărbătorim prezența Domnului,
+Merită să fie lăudat!
+Sărbătorim prezența Domnului,
+Merită să fie lăudat!
+/: Bucurați-vă în Domnul! :/

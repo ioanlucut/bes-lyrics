@@ -1,0 +1,29 @@
+[title]
+În orice făptură și-orice creatură {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6772}, id: {umd8b4JRyBbeLAcmtg6AiN}, contentHash: {35085d}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În orice făptură și-orice creatură
+E toată mărirea Ta.
+Întreaga natură și limbă și gură
+Îți cântă aleluia.
+
+[c]
+/: Osana, osana, osana,
+Ești vrednic să fii lăudat,
+Osana, osana, osana,
+Fii binecuvântat! :/
+
+[v2]
+Privind tot înaltul, ca Tine nu-i altul,
+Preasfânt și înălțat.
+Să vadă oricine că nu-i nimeni ca Tine,
+Deci, Doamne, fii lăudat!
+
+[v3]
+Minuni și mistere, și-o mare putere
+E-n tot ce-nfăptuiești.
+Ce planuri mărețe, de noi ne-nțelese,
+Tu, Doamne, le întocmești.

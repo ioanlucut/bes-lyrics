@@ -1,0 +1,33 @@
+[title]
+Inimi pline de speranță, mântuire, siguranță {alternative: {Îți mulțumim!}, composer: {Andreea Mois}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {128137}, id: {8Q6u9B8pDK8v7Pd3wUY86w}, contentHash: {972eb2}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
+
+[v1]
+Inimi pline de speranță, mântuire, siguranță,
+Iată vestea: S-a născut Isus!
+Bucurie, pace sfântă, magi se-nchină, îngeri cântă,
+Iată vestea: S-a născut Isus!
+
+[c1.1]
+Îți mulțumim că ai venit,
+Profeți din timp Te-au profețit
+Că vei veni ca Domn și Împărat.
+
+[c1.2]
+În ceruri, slavă lui Hristos
+Și pace între oameni jos.
+Părinte drag, să fii glorificat!
+
+[v2]
+Coruri sfinte Te măresc, Pruncule dumnezeiesc,
+Azi în inimi S-a născut Isus.
+Pacea Ta, iubirea sfântă, harul Tău ne binecuvântă
+Azi în inimi S-a născut Isus.
+
+[v3]
+Ne-a adus din cer lumina, a venit să ne ia vina,
+Iată vestea: S-a născut Isus!
+E Mesia, este El, Numele-I Emanuel.
+Iată vestea: S-a născut Isus!

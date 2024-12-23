@@ -1,0 +1,53 @@
+[title]
+Eu nu mă tem când Tu ești lângă mine {alternative: {*}, composer: {Mariana Someșan}, writer: {Mariana Someșan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7cqKtSsohjmWCpbNeNHidg}, contentHash: {336486}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+Eu nu mă tem când Tu ești lângă mine
+Chiar dacă norii vor să-apese greu.
+Iubirea Ta din toate mă va scoate,
+Căci Tu ești Domnul Dumnezeul meu.
+
+[v1.2]
+E-adevărat nu Te-am văzut ca Toma
+Și mâna-n coasta Ta eu nu am pus,
+Dar știu sigur că Tu ești lângă mine,
+Căci fericiți sunt cei ce au crezut.
+
+[v2.1]
+Eu n-am cerut la Tin’ să vin pe ape,
+Dar Tu m-ai scos de-atâtea ori din val
+Și știu că mă privești cu bunătate
+Și de trăiesc, trăiesc prin al Tău har.
+
+[v2.2]
+Căci Tu îmi dai din viața Ta, Isuse,
+Și-n brațul Tău mă ții neîncetat.
+Îți mulțumesc pentru a Ta iubire,
+Îți mulțumesc, Isus că m-ai salvat!
+
+[v3.1]
+Eu n-am cerut un loc aparte lângă Tine,
+Dar am venit la timp când m-ai chemat
+Și, ca și Ioan la pieptul Tău, Isuse,
+Zbuciumul inimii eu mi-am lăsat.
+
+[v3.2]
+Cu cât doresc să îți întorc iubirea,
+Cu-atât mă văd, Isus tot mai sărac,
+Dar Tu mi-ai dat în dar neprihănirea
+Și după Tine sunt tot mai mult însetat.
+
+[v4.1]
+Te văd, Isus, în tot ce mă-nconjoară
+Și mă gândesc la frumusețea Ta,
+Tu mi-ai adus în suflet primăvară,
+M-ai pus pe cerul nopții ca pe-o stea.
+
+[v4.2]
+Ajută-mă să luminez, Isuse,
+Și dă-mi lumină din lumina Ta!
+De-ar fi să pierd orice în astă lume,
+Tu să rămâi mereu comoara mea.

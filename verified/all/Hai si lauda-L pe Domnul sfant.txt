@@ -1,0 +1,25 @@
+[title]
+Hai și laudă-L pe Domnul sfânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ix1RCtcBjudqX6an7bvNyk}, contentHash: {2e1a7d}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Hai și laudă-L pe Domnul sfânt, aleluia!
+Laudă-L pe El cântând, aleluia!
+Laudă-L, laudă-L, laudă-L pe El cântând, aleluia!
+
+[v2]
+Cel născut în Betleem, aleluia!
+Fiu de om, de Dumnezeu, aleluia!
+El, Isus, El, Isus, fiu de om, de Dumnezeu, aleluia!
+
+[v3]
+A murit și-a înviat, aleluia,
+Să ne scape de păcat, aleluia!
+S-a-ntrupat, s-a-ntrupat să ne scape de păcat, aleluia!
+
+[v4]
+Într-o zi vom fi cu El, aleluia!
+Fericiți în raiul Său, aleluia!
+Fericiți, fericiți, fericiți în raiul Său, aleluia!

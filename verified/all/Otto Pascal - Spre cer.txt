@@ -1,0 +1,27 @@
+[title]
+Spre cer {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {163928}, id: {htGvdrVR8JynaytoaKMJHG}, contentHash: {f686f5}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Chiar dacă pământul ne e casă,
+Locuim de-atâția ani aici,
+Cei găsiți cu inima curată
+Vor vedea noul Ierusalim.
+
+[c]
+/: Spre cer noi ne vom înălța
+Când trâmbița va răsuna,
+Cu palmele străpunse din iubire
+Obrazul ne va mângâia.
+Nici frici, nici lacrimi n-or mai fi,
+Cu Domnul nostru-n veșnicii.
+Te așteptăm, Isus, privind spre stele,
+La noapte poate vei veni. :/
+
+[v2]
+Din pământ, izvoarele de lacrimi
+Adunate-n palma lui Isus,
+Vor fi înlocuite de cununa,
+De cununa biruinței Lui!
