@@ -4,10 +4,9 @@ on: [ pull_request ]
 
 jobs:
   ChangedCodePathsFilter:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     outputs:
       rcOutput: ${{ steps.filter.outputs.rcImportsHaveChanged }}
-      texOutput: ${{ steps.filter.outputs.texFilesHaveChanged }}
     steps:
       - name: Clone repository
         uses: actions/checkout@v3
@@ -22,11 +21,10 @@ jobs:
               - 'temp-runners/rc_authors_to_process.txt'
               - 'temp-runners/rc_ids_to_ignore.txt'
               - 'temp-runners/rc_ids_to_process.txt'
-            texFilesHaveChanged: 'LaTeX/**/*.tex'
 
   Build:
     needs: ChangedCodePathsFilter
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Clone repository
         uses: actions/checkout@v3
@@ -49,7 +47,7 @@ jobs:
 
   ImportFromRCBasedOnAuthorsOrIds:
     needs: [ ChangedCodePathsFilter, Build ]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     if: needs.ChangedCodePathsFilter.outputs.rcOutput == 'true'
     steps:
       - name: Clone repository
@@ -90,7 +88,7 @@ jobs:
 
   AutoUpdateMeta:
     needs: [ Build ]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Clone repository
         uses: actions/checkout@v3
@@ -119,20 +117,3 @@ jobs:
         env:
           CI: true
           FORCE_COLOR: 2
-
-  CompileLaTeX:
-    needs: [ ChangedCodePathsFilter, Build ]
-    runs-on: ubuntu-latest
-    if: needs.ChangedCodePathsFilter.outputs.texOutput == 'true'
-    steps:
-      - name: Clone repository
-        uses: actions/checkout@v3
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
-
-      - name: Compile BES Conduct LaTeX doc
-        uses: xu-cheng/latex-action@v3
-        with:
-          root_file: BES_Conduct_Afisaj.tex
-          working_directory: LaTeX/conduct/
-          latexmk_shell_escape: true

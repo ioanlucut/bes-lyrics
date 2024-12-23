@@ -1,31 +1,1 @@
-[title]
-Intr-un sat ne-nsemnat {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {60417}, id: {u8SYWFhZ4T7dC1bFEW8qZt}, contentHash: {f9c19b}}
-
-[sequence]
-v1,v2,v3,v4
-
-[v1]
-Într-un sat ne-nsemnat
-În țara lui Israel
-S-a născut un Împărat
-Pe nume Emanuel.
-
-[v2]
-Niște magi din răsărit
-Au văzut pe cer o stea
-Și în grabă au venit
-Să-L vadă pe Mesia.
-
-[v3]
-Daruri multe au adus
-Cu iubire acolo jos,
-Pentru Pruncul mic Isus,
-Pentru Regele Hristos.
-
-[v4]
-Când păstorii au aflat,
-La staul au alergat
-Și cu îngerii din cer
-Slavă, slavă au cântat,
-Cu oștirea cea de sus,
-Slavă, slavă lui Isus.
+[title]Intr-un sat ne-nsemnat {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {60417}, id: {u8SYWFhZ4T7dC1bFEW8qZt}, contentHash: {f9c19b}}[sequence]v1,v2,v3,v4[v1]Într-un sat ne-nsemnatÎn țara lui IsraelS-a născut un ÎmpăratPe nume Emanuel.[v2]Niște magi din răsăritAu văzut pe cer o steaȘi în grabă au venitSă-L vadă pe Mesia.[v3]Daruri multe au adusCu iubire acolo jos,Pentru Pruncul mic Isus,Pentru Regele Hristos.[v4]Când păstorii au aflat,La staul au alergatȘi cu îngerii din cerSlavă, slavă au cântat,Cu oștirea cea de sus,Slavă, slavă lui Isus.

@@ -2,6 +2,7 @@
 const config = {
   'singleQuote': true,
   'printWidth': 80,
+  'prose-wrap': 'always',
   'semi': true,
   'trailingComma': 'all',
   'bracketSpacing': true,

@@ -15,7 +15,7 @@ import * as process from 'process';
 import {
   COMMA,
   EMPTY_STRING,
-  NEW_LINE_TUPLE,
+  NEW_LINE,
   parse,
   readTxtFilesRecursively,
 } from '../src/index.js';
@@ -47,7 +47,7 @@ const runValidator = async (dir: string) => {
     isEmpty(maybeSongsWithoutId),
     `There are missing IDS: ${maybeSongsWithoutId
       .map(({ id, fileName }) => `${fileName} with wrong/missing id: "${id}"`)
-      .join(NEW_LINE_TUPLE)}`,
+      .join(NEW_LINE)}`,
   );
 
   assert.equal(

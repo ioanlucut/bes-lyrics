@@ -1,6 +1,6 @@
 export const EMPTY_STRING = '';
 
-export const EMPTY_SPACE = ' ';
+export const SPACE_CHAR = ' ';
 
 export const NAME_SEPARATOR = ' - ';
 
@@ -18,7 +18,10 @@ export const SLASH = '/';
 
 export const DOT = '.';
 
+export const TEX_MUSICAL_NOTATIONS = '^';
+
 export const TXT_EXTENSION = '.txt';
+export const TEX_EXTENSION = '.tex';
 
 export const DS_STORE_FILE = '.DS_Store';
 export const GIT_KEEP_FILE = '.gitkeep';
@@ -31,8 +34,6 @@ export const ALLOWED_CHARS =
   );
 
 export const NEW_LINE = '\n';
-
-export const NEW_LINE_TUPLE = `${NEW_LINE}`;
 
 export const DOUBLE_LINE_TUPLE = `${NEW_LINE}${NEW_LINE}`;
 

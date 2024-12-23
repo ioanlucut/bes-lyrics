@@ -12,6 +12,9 @@
             <path value="file://$PROJECT_DIR$/bin" />
             <path value="file://$PROJECT_DIR$/LaTeX/src" />
             <path value="file://$PROJECT_DIR$/temp-runners" />
+            <path value="file://$PROJECT_DIR$/import-songs-temp-runners" />
+            <path value="file://$PROJECT_DIR$/convert-songs-to-tex" />
+            <path value="file://$PROJECT_DIR$/leadsheet" />
           </resourceRoots>
         </entryData>
       </entry>

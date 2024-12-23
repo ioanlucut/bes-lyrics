@@ -1,37 +1,1 @@
-[title]
-In veci El e glorificat {alternative: {Forever}, composer: {Kari Jobe}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {130377}, id: {bUcCtBd46ojEkjqfXqD69a}, contentHash: {b9a442}}
-
-[sequence]
-v1,v2,c,b,c
-
-[v1]
-Intreg pamant a plans
-Chiar soarele s-a stins
-El, Salvator Divin, lovit e
-Pe cruce e strapuns
-Tot sangele i-a curs
-Blestemul lumii-ntregi purtand
-
-[v2]
-Un ultim suflu greu
-Chiar parasit de cer
-Mielul e lasat sa moara
-O lupta in mormant
-Pe moarte El calcand
-Puterea iadului e-nvinsa
-Pamanul tremura
-Mormantul s-a deschis
-Nimic nu i-a tinut iubirea Sa
-O, Moarte unde esti?
-C-al nostru Imparat
-Puterea in veci ti-a luat
-
-[c]
-In veci El e Glorificat
-In veci El este Inaltat
-In veci El e glorificat
-El este viu, Isus este viu
-
-[b]
-Eu cant Aleluia, Eu cant Aleluia,
-Eu cant Aleluia, Mielul a invins
+[title]In veci El e glorificat {alternative: {Forever}, composer: {Kari Jobe}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {130377}, id: {bUcCtBd46ojEkjqfXqD69a}, contentHash: {b9a442}}[sequence]v1,v2,c,b,c[v1]Intreg pamant a plansChiar soarele s-a stinsEl, Salvator Divin, lovit ePe cruce e strapunsTot sangele i-a cursBlestemul lumii-ntregi purtand[v2]Un ultim suflu greuChiar parasit de cerMielul e lasat sa moaraO lupta in mormantPe moarte El calcandPuterea iadului e-nvinsaPamanul tremuraMormantul s-a deschisNimic nu i-a tinut iubirea SaO, Moarte unde esti?C-al nostru ImparatPuterea in veci ti-a luat[c]In veci El e GlorificatIn veci El este InaltatIn veci El e glorificatEl este viu, Isus este viu[b]Eu cant Aleluia, Eu cant Aleluia,Eu cant Aleluia, Mielul a invins

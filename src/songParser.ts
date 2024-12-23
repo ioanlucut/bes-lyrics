@@ -1,15 +1,17 @@
-import { isEqual } from 'lodash-es';
-import { COMMA, EMPTY_STRING, UNSET_META } from './constants.js';
+import { first, groupBy, isEqual, transform } from 'lodash-es';
+import { COMMA, DOT, EMPTY_STRING, NEW_LINE, UNSET_META } from './constants.js';
 import {
   assertUniqueness,
   computeUniqueContentHash,
+  getCharWithMarkup,
+  getCharWithoutMarkup,
   getMetaSectionsFromTitle,
   getSongInSectionTuples,
   getTitleWithoutMeta,
   getUniqueId,
   multiToSingle,
 } from './core.js';
-import { SongAST, SongSection } from './types.js';
+import { Section, SequenceChar, SongAST, SongSection } from './types.js';
 
 /**
  * Parses the content of a song to its basic AST structure.
@@ -24,8 +26,10 @@ export const parse = (
   songAsString: string,
   {
     ignoreUniquenessErrors,
+    rejoinSubsections,
   }: {
     ignoreUniquenessErrors?: boolean;
+    rejoinSubsections?: boolean;
   } = {},
 ) => {
   const sectionTuples = getSongInSectionTuples(songAsString);
@@ -51,8 +55,21 @@ export const parse = (
     const sectionContent = sectionTuples[sectionIndex + 1];
     const sectionIdentifier = sectionTuples[sectionIndex] as string;
 
+    const maybeSectionSequenceType = first(
+      getCharWithoutMarkup(sectionIdentifier)
+        .replaceAll('[^a-zA-Z0-9 -]', EMPTY_STRING)
+        .replace(DOT, EMPTY_STRING),
+    ) as SequenceChar;
+
+    const sectionSequenceType = Object.values(SequenceChar).includes(
+      maybeSectionSequenceType,
+    )
+      ? maybeSectionSequenceType
+      : (EMPTY_STRING as SequenceChar);
+
     songAST.sectionsMap[sectionIdentifier] = {
       sectionIdentifier,
+      sectionSequenceType,
       content: sectionContent,
     };
 
@@ -113,6 +130,35 @@ export const parse = (
 
   if (!ignoreUniquenessErrors) {
     assertUniqueness(songAST.sectionOrder);
+  }
+
+  if (rejoinSubsections) {
+    songAST.sectionsMap = transform(
+      groupBy(songAST.sectionsMap, (sequence) => {
+        if (!sequence.sectionIdentifier.includes(DOT)) {
+          return sequence.sectionIdentifier;
+        }
+
+        return getCharWithMarkup(
+          first(
+            getCharWithoutMarkup(sequence.sectionIdentifier).split(DOT),
+          ) as string,
+        );
+      }),
+      (acc, value, key) => {
+        acc[key] = {
+          sectionIdentifier: key,
+          sectionSequenceType: first(value)?.sectionSequenceType,
+          content: value.map(({ content }) => content).join(NEW_LINE),
+        } as Section;
+      },
+      {} as Record<string, Section>,
+    );
+
+    songAST.sectionOrder = Object.keys(songAST.sectionsMap).filter(
+      (sectionIdentifier) =>
+        ![SongSection.TITLE, SongSection.SEQUENCE].includes(sectionIdentifier),
+    );
   }
 
   return songAST;

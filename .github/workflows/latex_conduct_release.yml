@@ -10,7 +10,7 @@ on:
 
 jobs:
   LaTeXConductRelease:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Clone repository
         uses: actions/checkout@v3
@@ -34,6 +34,6 @@ jobs:
           files: 'LaTeX/conduct/BES_Conduct_Afisaj.pdf'
           tag_name: ${{ steps.tag.outputs.release_tag }}
           fail_on_unmatched_files: true
-          draft: true
+          draft: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

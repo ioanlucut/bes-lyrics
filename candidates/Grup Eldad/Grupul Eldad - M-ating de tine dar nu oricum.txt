@@ -1,33 +1,1 @@
-[title]
-M-ating de Tine dar nu oricum {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {228227}, id: {gbJvjwbpfeNyAEq9nNnLkW}, contentHash: {fad1de}}
-
-[sequence]
-v1,c,v2,c,e,c
-
-[v1]
-Trecand prin fata mea Isus
-Fața Lui curata ma cheama
-Sa cred ca poate sa dea vindecare
-Trupului meu slabit si pacatos
-
-[c]
-/: M-ating de Tine dar nu oricum
-M-ating sa primesc har
-Sa curga din Tine putere
-Privirea Ta mi-e dar :/
-
-[v2]
-Pe genunchi cu mana intinsa
-Astept sa ajungi in dreptul meu
-Sa apuc sa-Ti vad fata senina
-Sa-mi dea vindecare chipul Tau
-
-[e]
-/: O ce vrednic E Isus
-De laudele noastre
-Viata Lui in viata noastra
-Astazi sa se arate
-Cand atingem haina Lui
-Cu credinta mare
-Cu putere negresit
-Primim vindecare :/
+[title]M-ating de Tine dar nu oricum {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {228227}, id: {gbJvjwbpfeNyAEq9nNnLkW}, contentHash: {fad1de}}[sequence]v1,c,v2,c,e,c[v1]Trecand prin fata mea IsusFața Lui curata ma cheamaSa cred ca poate sa dea vindecareTrupului meu slabit si pacatos[c]/: M-ating de Tine dar nu oricumM-ating sa primesc harSa curga din Tine puterePrivirea Ta mi-e dar :/[v2]Pe genunchi cu mana intinsaAstept sa ajungi in dreptul meuSa apuc sa-Ti vad fata seninaSa-mi dea vindecare chipul Tau[e]/: O ce vrednic E IsusDe laudele noastreViata Lui in viata noastraAstazi sa se arateCand atingem haina LuiCu credinta mareCu putere negresitPrimim vindecare :/

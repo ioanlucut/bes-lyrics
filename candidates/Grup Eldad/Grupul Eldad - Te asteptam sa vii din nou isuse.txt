@@ -1,35 +1,1 @@
-[title]
-Te asteptam sa vii din nou Isuse {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {154102}, id: {bnp7VJAYkGpqbFWLGT5LXd}, contentHash: {e109cf}}
-
-[sequence]
-v1,c,v2,c2,v3,c2
-
-[v1]
-Te așteptăm să vii din nou, Isuse,
-Prin Duhul Sfânt să Te cobori!
-A noastre inimi spre Tine sunt deschise,
-Revarsă-Ți, Doamne, harul Tău azi peste noi!
-
-[c]
-Să ne atingi prin Duhul Sfânt,
-Cobori în cercetare!
-Să Te lăudăm și-al nostru cânt
-Să străpungă zarea!
-
-[v2]
-Te așteptăm să cercetezi și azi mulțimea
-Cu-al Tău Cuvânt să îi pătrunzi.
-Te așteptăm să le arăți iubirea,
-Iubirea Ta ce schimbă și-astăzi vieți!
-
-[c2]
-Să se coboare slava Ta,
-Puterea Ta cea mare!
-Și vrem ca azi, și pururea
-Să Îți aducem Osanale!
-
-[v3]
-Ne închinăm, smeriți venim la Tine,
-La altarul sfânt să ne primești;
-Și Te chemăm din inimă, Stăpâne,
-Rămâi în viața noastră să domnești!
+[title]Te asteptam sa vii din nou Isuse {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {154102}, id: {bnp7VJAYkGpqbFWLGT5LXd}, contentHash: {e109cf}}[sequence]v1,c,v2,c2,v3,c2[v1]Te așteptăm să vii din nou, Isuse,Prin Duhul Sfânt să Te cobori!A noastre inimi spre Tine sunt deschise,Revarsă-Ți, Doamne, harul Tău azi peste noi![c]Să ne atingi prin Duhul Sfânt,Cobori în cercetare!Să Te lăudăm și-al nostru cântSă străpungă zarea![v2]Te așteptăm să cercetezi și azi mulțimeaCu-al Tău Cuvânt să îi pătrunzi.Te așteptăm să le arăți iubirea,Iubirea Ta ce schimbă și-astăzi vieți![c2]Să se coboare slava Ta,Puterea Ta cea mare!Și vrem ca azi, și purureaSă Îți aducem Osanale![v3]Ne închinăm, smeriți venim la Tine,La altarul sfânt să ne primești;Și Te chemăm din inimă, Stăpâne,Rămâi în viața noastră să domnești!
