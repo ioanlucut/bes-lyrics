@@ -363,10 +363,10 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
 
     it('should parse a song (w/ subsections) by un-split them correctly (when option is set)', () => {
       expect(
-  parse(SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT, {
-    rejoinSubsections: true
-  })
-).toMatchInlineSnapshot(`
+        parse(SONG_WITH_SUBSECTIONS_MOCK_FILE_CONTENT, {
+          rejoinSubsections: true,
+        }),
+      ).toMatchInlineSnapshot(`
 {
   "alternative": "Când eram fără speranță",
   "arranger": "*",
