@@ -1,5 +1,5 @@
 [title]
-Veniți toți credincioșii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Veniți toți credincioșii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {xwqVWHn7LssD43WVE2Tpxa}, contentHash: {61a07e}}
 
 [sequence]
 v1,v2,e

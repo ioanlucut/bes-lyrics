@@ -1,5 +1,5 @@
 [title]
-S-a născut în Betleem Pruncul sfânt, Emanuel {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+S-a născut în Betleem Pruncul sfânt, Emanuel {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {gm1xVRKsQsetXinLK5k8ts}, contentHash: {3b92e7}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6

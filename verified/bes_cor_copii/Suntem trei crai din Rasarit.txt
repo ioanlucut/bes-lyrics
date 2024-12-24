@@ -1,5 +1,5 @@
 [title]
-Suntem trei crai din Răsărit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Suntem trei crai din Răsărit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {unCx3bYXhpoVfGvftS6XgN}, contentHash: {f8b3c3}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2
