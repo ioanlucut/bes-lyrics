@@ -1,0 +1,41 @@
+[title]
+Suntem trei crai din Răsărit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {unCx3bYXhpoVfGvftS6XgN}, contentHash: {f8b3c3}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c2
+
+[v1]
+Suntem trei crai din Răsărit
+Și cu daruri noi am venit,
+Duși pe cale, deal și vale
+De steaua ce-a lucit.
+
+[c]
+O, stea măreață, steaua Lui,
+Strălucind de sus ne spui
+La Betleem noi să mergem
+Lângă ieslea Domnului.
+
+[v2]
+Pruncului regesc Îi voi da
+Aur din coroana mea,
+Să trăiască, să domnească,
+Să ne dea pacea Sa.
+
+[v3]
+Smirnă cu parfumul amar
+Lângă iesle Îi pun în dar,
+Umilință, suferință,
+Și-al morții greu pahar.
+
+[v4]
+Eu tămâie I-am adus
+Căci e Solul venit de sus
+Să asculte dureri multe,
+Să sufere nespus.
+
+[c2]
+Glorie, o, Miel divin,
+Rege sfânt, Te proslăvim!
+Aleluia, aleluia,
+În veci Te preamărim!
