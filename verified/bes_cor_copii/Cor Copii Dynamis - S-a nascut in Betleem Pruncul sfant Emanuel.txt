@@ -1,0 +1,30 @@
+[title]
+S-a născut în Betleem Pruncul sfânt, Emanuel {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+/: S-a născut în Betleem Pruncul sfânt, Emanuel,
+S-a născut un Împărat, Domnul Isus Minunat! :/
+Îngerii vesteau cântând pace fie pe pământ.
+
+[v2]
+/: S-a născut în Betleem Pruncul sfânt, Emanuel,
+S-a născut un Împărat, Domnul Isus Minunat! :/
+Pe câmpie la păstori îngerii cântau în cor.
+
+[v3]
+/: Mergeți și Îl căutați Și apoi să vă-nchinaţi! :/
+Din etern Te-ai coborât pentru noi jos pe pământ
+
+[v4]
+Te iubim și lăudăm, Numele-Ți glorificăm,
+Pentru noi Tu ai venit, aleluia fi slăvit!
+
+[v5]
+Glorie! Glorie! Aleluia, glorie!
+
+[v6]
+/: S-a născut în Betleem Pruncul sfânt, Emanuel,
+S-a născut un Împărat, Domnul Isus Minunat! :/

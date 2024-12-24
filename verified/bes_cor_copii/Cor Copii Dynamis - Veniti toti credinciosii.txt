@@ -1,0 +1,22 @@
+[title]
+Veniți toți credincioșii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Veniți toți credincioșii azi cu bucurie,
+Veniți, o, veniți cu toți la Betleem!
+Să ne-nchinăm Lui, Rege în mărire,
+/: Veniți să ne-nchinăm Lui, :/ (x2)
+Veniți să ne-nchinăm lui Dumnezeu!
+
+[v2]
+Cântă cor de îngeri, cântă osanale,
+Cântă și tu popor al Domnului
+Glorie și laudă Celui venit din slavă!
+/: Veniți să ne-nchinăm Lui, :/ (x2)
+Veniți să ne-nchinăm lui Dumnezeu!
+
+[e]
+Veniți să ne-nchinăm lui Dumnezeu!

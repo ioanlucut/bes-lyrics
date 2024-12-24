@@ -1,0 +1,29 @@
+[title]
+Demult profeții-au profețit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Demult profeții-au profețit
+Că se va naște El,
+Mesia cel mult așteptat,
+Numit Emanuel.
+
+[c]
+/: Azi S-a născut în Betleem
+Un Salvator, ce minunat!
+Cântați, cântați, vă bucurați,
+S-a născut în Betleem cu-adevărat. :/
+
+[v2]
+Din ceruri îngeri au venit
+Să spună tuturor
+De vestea bună, de Isus,
+De harul salvator.
+
+[v3]
+Se bucură acuma iar
+Creștinii pe pământ,
+În inimă din nou răsar
+Nădejdi ce dau avânt.
