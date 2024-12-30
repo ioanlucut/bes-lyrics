@@ -2,7 +2,7 @@
 Să nu te temi în clipe grele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
 
 [sequence]
-v1,c1,v2,c2,v3,c3,e
+v1,c,v2,c2,v3,c3,e
 
 [v1]
 Să nu te temi in clipe grele,
@@ -10,7 +10,7 @@ Aud șoptindu-mi pe Isus,
 Să nu lași valurile vieții
 Să te trântească la pământ.
 
-[c1]
+[c]
 /: Să nu te temi în încercare,
 Din ea ieși-vei biruitor
 De te încrezi în Cel ce poate
