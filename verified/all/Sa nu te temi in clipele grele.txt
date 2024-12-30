@@ -1,0 +1,47 @@
+[title]
+Să nu te temi în clipe grele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,c1,v2,c2,v3,c3,e
+
+[v1]
+Să nu te temi in clipe grele,
+Aud șoptindu-mi pe Isus,
+Să nu lași valurile vieții
+Să te trântească la pământ.
+
+[c1]
+/: Să nu te temi în încercare,
+Din ea ieși-vei biruitor
+De te încrezi în Cel ce poate
+Aur curat să scoată din cuptor. :/
+
+[v2]
+Să nu te temi, ți se șoptește,
+Să nu ai spaimă-n inima ta,
+Ci-ncrezător mergi înainte,
+Eu, Domnul, sunt de partea ta.
+
+[c2]
+/: Și dacă Eu sunt pentru tine
+Cine va fi-mpotriva ta?
+Dacă mâna Mea se-ntinde,
+Tu sub aripa mea vei sta. :/
+
+[v3]
+Să nu te temi nici în tăcere,
+Chiar dacă cerul stă închis.
+Eu nu m-am depărtat de tine,
+Ci doar lucrez cum ți-am promis.
+
+[c3]
+Să nu te temi de șoapte rele
+Ce-ades tulbură ființa ta,
+Nici de vrășmașul care urlă,
+De lângă Min’ nu te va lua.
+
+[e]
+Doar nu te teme, ci fii tare,
+Puțină vreme-a mai rămas
+/: Curând tu vei ajunge acasă,
+Dar vreau să fii aur curat. :/
