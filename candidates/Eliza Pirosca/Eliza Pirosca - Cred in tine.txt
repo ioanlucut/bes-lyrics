@@ -1,1 +1,62 @@
-[title]Cred in tine {alternative: {*}, composer: {Eliza Pirosca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58945}, id: {cf4fzymYpLYWeJiNT3Erwy}, contentHash: {361a6f}}[sequence]v1,v2,c,v3,c,v4,c,e[v1]Credința meaNu este pe nisipEu am crezutȘi Domnul a-mplinitEu cred în ElChiar dacă drumul este greuPot să am în fața mea uși închise: nu îmi pasăEu cred în Dumnezeu.[v2]Credința meaM-ajută-n încercăriEu cred în ElȘi El îmi dă puteriCând am trecutPrin valea umbrei morțiiEl a fost Păstorul meu și m-a păzit, m-a ajutatȘi eu am biruit[c]Cred în TineCred în TineO, Domnul meuTurnul meu de scăpareCred în TineCred în TineCăci ești Dumnezeu,Ești ajutorul meuEu cred în Tine.[v3]Credința meaMereu m-a ajutatEu am crezutȘi El m-a binecuvântatChiar dacă uneori am fost descurajatDomnul meu mi-a arătat că-i lângă mineChiar de nu-L vădE lângă mine.[v4]Credința meaM-a apropiat de cerPeste munți și peste văiÎntr-o zi eu sperCă voi putea să zbor mai repede că gândulDomnul meu, eu am încredere în TineȘi-ți mulțumesc că Te-ai jertfit pentru mine.[e]Chiar și când întunericul e greuChiar și când păcatul m-apăsăTu ești mereu adăpostul meuȘi nu îmi pasă de cel răuCăci eu cred..
+[title]
+Cred in tine {alternative: {*}, composer: {Eliza Pirosca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58945}, id: {cf4fzymYpLYWeJiNT3Erwy}, contentHash: {361a6f}}
+
+[sequence]
+v1,v2,c,v3,c,v4,c,e
+
+[v1]
+Credința mea
+Nu este pe nisip
+Eu am crezut
+Și Domnul a-mplinit
+Eu cred în El
+Chiar dacă drumul este greu
+Pot să am în fața mea uși închise: nu îmi pasă
+Eu cred în Dumnezeu.
+
+[v2]
+Credința mea
+M-ajută-n încercări
+Eu cred în El
+Și El îmi dă puteri
+Când am trecut
+Prin valea umbrei morții
+El a fost Păstorul meu și m-a păzit, m-a ajutat
+Și eu am biruit
+
+[c]
+Cred în Tine
+Cred în Tine
+O, Domnul meu
+Turnul meu de scăpare
+Cred în Tine
+Cred în Tine
+Căci ești Dumnezeu,
+Ești ajutorul meu
+Eu cred în Tine.
+
+[v3]
+Credința mea
+Mereu m-a ajutat
+Eu am crezut
+Și El m-a binecuvântat
+Chiar dacă uneori am fost descurajat
+Domnul meu mi-a arătat că-i lângă mine
+Chiar de nu-L văd
+E lângă mine.
+
+[v4]
+Credința mea
+M-a apropiat de cer
+Peste munți și peste văi
+Într-o zi eu sper
+Că voi putea să zbor mai repede că gândul
+Domnul meu, eu am încredere în Tine
+Și-ți mulțumesc că Te-ai jertfit pentru mine.
+
+[e]
+Chiar și când întunericul e greu
+Chiar și când păcatul m-apăsă
+Tu ești mereu adăpostul meu
+Și nu îmi pasă de cel rău
+Căci eu cred..

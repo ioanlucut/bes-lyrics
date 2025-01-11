@@ -1,1 +1,51 @@
-[title]Iata s-a nascut {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {237516}, id: {8FbjV5S6JTdRP6FanaYAYS}, contentHash: {a998f9}}[sequence]v1,c,v2,c,e[v1]Auziți ce veste,Despre-un Prunc în iesle,Despre mântuire,Despre pace dată-n dar.Îngerul ne spune,Despre o minune,Câtă bucurie,Viață-n dar El ne-a adus,Mantuire ne-a adus.Să cântăm toți:[c]Cerul iată s-a deschis,S-a împlinit ce Domnul ne-a promis.Să ne-nchinăm cu toți la ieslea SaȘi viata-ntreagă ne-o va lumina.Iată S-a născut!Iată S-a născut!Cerul iată s-a deschis,S-a împlinit ce Domnul ne-a promis.Să ne-nchinăm cu toți la ieslea SaȘi viata-ntreagă ne-o va lumina.Iată S-a născut!Iată S-a născut!Iată S-a născut!Iată S-a născut![v2]Stai acum și-ascultăPentru cine cântăÎngerii din ceruri,Poate e colinda ta.O, ce veste mare,O, ce sărbătoare,N-o lăsa să treacă,Vino-acum și vei vedeaViața îți va lumina.Pe vecie:[e]Pentru cine vine,Pentru cei ca tine,Pentru orișicine,E venirea Sa.
+[title]
+Iata s-a nascut {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {237516}, id: {8FbjV5S6JTdRP6FanaYAYS}, contentHash: {a998f9}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+Auziți ce veste,
+Despre-un Prunc în iesle,
+Despre mântuire,
+Despre pace dată-n dar.
+Îngerul ne spune,
+Despre o minune,
+Câtă bucurie,
+Viață-n dar El ne-a adus,
+Mantuire ne-a adus.
+Să cântăm toți:
+
+[c]
+Cerul iată s-a deschis,
+S-a împlinit ce Domnul ne-a promis.
+Să ne-nchinăm cu toți la ieslea Sa
+Și viata-ntreagă ne-o va lumina.
+Iată S-a născut!
+Iată S-a născut!
+Cerul iată s-a deschis,
+S-a împlinit ce Domnul ne-a promis.
+Să ne-nchinăm cu toți la ieslea Sa
+Și viata-ntreagă ne-o va lumina.
+Iată S-a născut!
+Iată S-a născut!
+Iată S-a născut!
+Iată S-a născut!
+
+[v2]
+Stai acum și-ascultă
+Pentru cine cântă
+Îngerii din ceruri,
+Poate e colinda ta.
+O, ce veste mare,
+O, ce sărbătoare,
+N-o lăsa să treacă,
+Vino-acum și vei vedea
+Viața îți va lumina.
+Pe vecie:
+
+[e]
+Pentru cine vine,
+Pentru cei ca tine,
+Pentru orișicine,
+E venirea Sa.

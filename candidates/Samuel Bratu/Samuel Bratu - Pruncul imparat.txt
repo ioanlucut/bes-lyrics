@@ -1,1 +1,30 @@
-[title]Pruncul imparat {alternative: {*}, composer: {Samuel Bratu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {206964}, id: {fr4Xh9ZbrVJTU3A4G1wY4g}, contentHash: {5d2067}}[sequence]v1,c,v2,c2[v1]Cel ce e mai mare decât Universu-ntregPrintr-un Prunc se naște în ieslea din Betleem.Slava din cer a schimbat-o cu micul sălaș,Creatorul lumii a găsit loc doar într-un grajd.[c]Dar El rămâne neschimbat,Chiar și-n iesle e ÎmpăratAzi cu toții ne aplecămRegelui închinare să-I dăm,Lui ne închinăm o, o, o, o.[v2]A trăit printre oameni, cu iubire El așteptaOrice suflet să creadă pe deplin în Jertfa Sa.Și-a dat viața pe cruce, salvarea prin El a venit,Ne-a adus mântuirea, prin El viață am primit.[c2]Bucuroși în veci Îi cântăm,Pe Isus Îl înălțăm.Prințul păcii, Domn minunat,El ne-a salvat o, o, o, o.
+[title]
+Pruncul imparat {alternative: {*}, composer: {Samuel Bratu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {206964}, id: {fr4Xh9ZbrVJTU3A4G1wY4g}, contentHash: {5d2067}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Cel ce e mai mare decât Universu-ntreg
+Printr-un Prunc se naște în ieslea din Betleem.
+Slava din cer a schimbat-o cu micul sălaș,
+Creatorul lumii a găsit loc doar într-un grajd.
+
+[c]
+Dar El rămâne neschimbat,
+Chiar și-n iesle e Împărat
+Azi cu toții ne aplecăm
+Regelui închinare să-I dăm,
+Lui ne închinăm o, o, o, o.
+
+[v2]
+A trăit printre oameni, cu iubire El aștepta
+Orice suflet să creadă pe deplin în Jertfa Sa.
+Și-a dat viața pe cruce, salvarea prin El a venit,
+Ne-a adus mântuirea, prin El viață am primit.
+
+[c2]
+Bucuroși în veci Îi cântăm,
+Pe Isus Îl înălțăm.
+Prințul păcii, Domn minunat,
+El ne-a salvat o, o, o, o.

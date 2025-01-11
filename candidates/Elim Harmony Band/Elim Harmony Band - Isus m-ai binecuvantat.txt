@@ -1,1 +1,60 @@
-[title]Isus m-ai binecuvantat {alternative: {*}, composer: {Elim Harmony Band}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {232705}, id: {ssbGDd4Zm4wnudUYZs1R8W}, contentHash: {95a531}}[sequence]v1,v2,b,c,v3,b,c,b2,e[v1]Mi-Ești lumină în noapteCând sunt trist îmi dai paceCând sunt apăsat de povaraEști cu mine, aproape.[v2]Doar Tu ești AdevărulMă îmbraci cu credințăCând simt că totul s-a prăbușitTu îmi dai biruință![b]Tu ești pacea mea, Te voi urma, Vreau să-mi vorbești.[c]Doar la Tine eu alerg,În Tine mă încredTu viața mi-ai schimbat!Când Prin lumina Ta privescOrice umbră-ndepărtezi, Tu m-ai binecuvântat!/: Isus, oh :/ Isus, Tu m-ai binecuvântat /: Isus, oh :/ Isus...[v3]Mă îmbraci cu putereCând cei răi mă-nconjoarăTu mă asculți când strig spre TineÎmi iei orice povară![b2]Inima Tu-mi poți vindecaMă-nchin liber în prezența TaNu-i prea târziu sa fiu salvatMă chemi pe nume!Dragostea Ta m-a cuceritÎn brațul Tău eu mă simt iubitCu tot ce sunt mă dăruiescTrăiesc prin Tine!Inima Tu-mi poți vindecaMă-nchin liber în prezența TaNu-i prea târziu să fiu salvatMă chemi pe nume!Dragostea Ta m-a cuceritÎn brațul Tău eu mă simt iubitCu tot ce sunt mă dăruiescMă dăruiesc![e]/: Isus, oh :/ x3Când prin lumina Ta privescOrice umbră-ndepărteziTu m-ai binecuvântat!/: Isus, Isus, Isus.. Tu m-ai binecuvântat :/ x2
+[title]
+Isus m-ai binecuvantat {alternative: {*}, composer: {Elim Harmony Band}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {232705}, id: {ssbGDd4Zm4wnudUYZs1R8W}, contentHash: {95a531}}
+
+[sequence]
+v1,v2,b,c,v3,b,c,b2,e
+
+[v1]
+Mi-Ești lumină în noapte
+Când sunt trist îmi dai pace
+Când sunt apăsat de povara
+Ești cu mine, aproape.
+
+[v2]
+Doar Tu ești Adevărul
+Mă îmbraci cu credință
+Când simt că totul s-a prăbușit
+Tu îmi dai biruință!
+
+[b]
+Tu ești pacea mea, Te voi urma, Vreau să-mi vorbești.
+
+[c]
+Doar la Tine eu alerg,
+În Tine mă încred
+Tu viața mi-ai schimbat!
+Când Prin lumina Ta privesc
+Orice umbră-ndepărtezi, Tu m-ai binecuvântat!
+/: Isus, oh :/ Isus, Tu m-ai binecuvântat
+ /: Isus, oh :/ Isus...
+
+[v3]
+Mă îmbraci cu putere
+Când cei răi mă-nconjoară
+Tu mă asculți când strig spre Tine
+Îmi iei orice povară!
+
+[b2]
+Inima Tu-mi poți vindeca
+Mă-nchin liber în prezența Ta
+Nu-i prea târziu sa fiu salvat
+Mă chemi pe nume!
+Dragostea Ta m-a cucerit
+În brațul Tău eu mă simt iubit
+Cu tot ce sunt mă dăruiesc
+Trăiesc prin Tine!
+Inima Tu-mi poți vindeca
+Mă-nchin liber în prezența Ta
+Nu-i prea târziu să fiu salvat
+Mă chemi pe nume!
+Dragostea Ta m-a cucerit
+În brațul Tău eu mă simt iubit
+Cu tot ce sunt mă dăruiesc
+Mă dăruiesc!
+
+[e]
+/: Isus, oh :/ x3
+Când prin lumina Ta privesc
+Orice umbră-ndepărtezi
+Tu m-ai binecuvântat!
+/: Isus, Isus, Isus.. Tu m-ai binecuvântat :/ x2

@@ -9,6 +9,9 @@
 
 \documentclass{scrartcl}
 
+\usepackage{datetime} % For custom date and time formatting
+\usepackage[romanian]{babel} % For Romanian language support
+
 \usepackage{scrextend} % Compatibility layer
 \usepackage[full]{leadsheets}
 
@@ -80,7 +83,7 @@
 % Define headers with underline
 \ihead{\textit{Caiet de cântece BES.}\par\noindent\rule{\textwidth}{0.4pt}} % Inner (left) header with underline
 \ohead{\textbf{Pagina \thepage}\par\noindent\rule{\textwidth}{0.4pt}}       % Outer (right) header with underline
-\cfoot{\textit{\textcopyright\ 2025 BES. Toate drepturile rezervate.}} % Centered footer
+\cfoot{\textit{\textcopyright\ 2025 BES. Toate drepturile rezervate. \\ \scriptsize{Versiunea \today.}}} % Centered footer
 
 \input{bes-songbook-config.tex}
 
@@ -109,10 +112,13 @@
 
       % Footer with credits
       {\small Creat cu Leadsheets} \\
-      {\footnotesize\url{https://github.com/ioanlucut/bes-lyrics}}
+      {\footnotesize\url{https://github.com/ioanlucut/bes-lyrics}} \\
 
       % Spacer to push content upwards
       \vspace{2cm}
+
+      % Version (with precise date and time)
+      {\footnotesize {Compilat în \today}} \\
     \end{center}
   \end{titlepage}
 

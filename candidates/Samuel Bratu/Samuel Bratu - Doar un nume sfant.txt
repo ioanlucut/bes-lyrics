@@ -1,1 +1,27 @@
-[title]Doar un nume sfant {alternative: {*}, composer: {Samuel Bratu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {203125}, id: {cDcvCar3iF6xaTTzwHHd7N}, contentHash: {b8b5ed}}[sequence]v1,c,v2,c[v1]El, măcar că avea chip de DumnezeuLa slavă a renunțat, cu smerenie S-a îmbrăcat.A trăit pe pământ, chip de om a luat,Chiar la cruce S-a dus, pe lemn crucificat.[c]Doar un Nume Sfânt sub soare ni s-a dat,În care orice om poate fi salvat.El e singurul născut din Dumnezeu.În fața Lui, salvat mă-nchin și eu.[v2]De aceea DumnezeuL-a înălțat mai presus.Alt nume nu s-a datMai măreț ca și Isus.Orice neam sau limbăSă proclame ne-ncetatCă Isus HristosE Domn și Împărat.
+[title]
+Doar un nume sfant {alternative: {*}, composer: {Samuel Bratu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {203125}, id: {cDcvCar3iF6xaTTzwHHd7N}, contentHash: {b8b5ed}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+El, măcar că avea chip de Dumnezeu
+La slavă a renunțat, cu smerenie S-a îmbrăcat.
+A trăit pe pământ, chip de om a luat,
+Chiar la cruce S-a dus, pe lemn crucificat.
+
+[c]
+Doar un Nume Sfânt sub soare ni s-a dat,
+În care orice om poate fi salvat.
+El e singurul născut din Dumnezeu.
+În fața Lui, salvat mă-nchin și eu.
+
+[v2]
+De aceea Dumnezeu
+L-a înălțat mai presus.
+Alt nume nu s-a dat
+Mai măreț ca și Isus.
+Orice neam sau limbă
+Să proclame ne-ncetat
+Că Isus Hristos
+E Domn și Împărat.

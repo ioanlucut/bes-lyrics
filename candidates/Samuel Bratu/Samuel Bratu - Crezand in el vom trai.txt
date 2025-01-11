@@ -1,1 +1,35 @@
-[title]Crezand in el vom trai {alternative: {*}, composer: {Samuel Bratu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {202974}, id: {21A8T31FvVsyazpiHU2i9H}, contentHash: {c51e2b}}[sequence]v1,v2,v3[v1]L-am văzut suspinând,Crucea-n spate ducând.Spre Golgota, trudit,Se ducea./: Mâinile l-au străpuns,Cu tâlharii L-au pus.Iar preoții din jurÎl huleau. :/[v2]Când pe cruce mureaJertfa Lui ne ierta,Chinuit, pentru noi,Se ruga./: Suferind El știaCă din morți va-nvia.Și crezând doar în ElVom trăi. :/[v3]Harul Lui cel bogatȘi pentru noi s-a arătat,Pentru cei ce pe IsusL-au acceptat./: Sângele-I sfânt, curatȘi pe noi ne-a spălat.Viață-n dar, prin Isus,Am primit. :/
+[title]
+Crezand in el vom trai {alternative: {*}, composer: {Samuel Bratu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {202974}, id: {21A8T31FvVsyazpiHU2i9H}, contentHash: {c51e2b}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+L-am văzut suspinând,
+Crucea-n spate ducând.
+Spre Golgota, trudit,
+Se ducea.
+/: Mâinile l-au străpuns,
+Cu tâlharii L-au pus.
+Iar preoții din jur
+Îl huleau. :/
+
+[v2]
+Când pe cruce murea
+Jertfa Lui ne ierta,
+Chinuit, pentru noi,
+Se ruga.
+/: Suferind El știa
+Că din morți va-nvia.
+Și crezând doar în El
+Vom trăi. :/
+
+[v3]
+Harul Lui cel bogat
+Și pentru noi s-a arătat,
+Pentru cei ce pe Isus
+L-au acceptat.
+/: Sângele-I sfânt, curat
+Și pe noi ne-a spălat.
+Viață-n dar, prin Isus,
+Am primit. :/
