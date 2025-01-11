@@ -1,1 +1,29 @@
-[title]Fiindca atat de mult {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176808}, id: {r1aNDg37wxxfPxYx2Z6SMN}, contentHash: {14430d}}[sequence]v1,c,v2,c,v3,c[v1]Tâlharul de pe cruce, de tot ce-a făcut răuS-a pocăit îndată, și-a fost născut din nou.Și eu tâlhar odată, la moarte osândit,Am fost adus la viață, de-al meu Isus iubit.[c]Fiindc-atât de mult, Tatăl ne-a iubitCă a dat la moarte pe Singurul Său Fiu,Ca oricine crede în El și-n jertfa Sa,Să primească viața și mântuirea-n dar![v2]Oricine ești în viață, și oriunde te-ai afla,Prietene degrabă, crede, nu amâna!Fiindcă ziua de mâine, nu ști dacă-i a ta,Acum este momentul să-ți schimbi viața ta.[v3]De ești căzut în patimi, și-n grele făr’delegiȘi osândit de ele te lupți ca să trăiești,Tu nu uita că încă mai e belșug de har,Cum a fost sus pe cruce pentru acel tâlhar...
+[title]
+Fiindca atat de mult {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176808}, id: {r1aNDg37wxxfPxYx2Z6SMN}, contentHash: {14430d}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tâlharul de pe cruce, de tot ce-a făcut rău
+S-a pocăit îndată, și-a fost născut din nou.
+Și eu tâlhar odată, la moarte osândit,
+Am fost adus la viață, de-al meu Isus iubit.
+
+[c]
+Fiindc-atât de mult, Tatăl ne-a iubit
+Că a dat la moarte pe Singurul Său Fiu,
+Ca oricine crede în El și-n jertfa Sa,
+Să primească viața și mântuirea-n dar!
+
+[v2]
+Oricine ești în viață, și oriunde te-ai afla,
+Prietene degrabă, crede, nu amâna!
+Fiindcă ziua de mâine, nu ști dacă-i a ta,
+Acum este momentul să-ți schimbi viața ta.
+
+[v3]
+De ești căzut în patimi, și-n grele făr’delegi
+Și osândit de ele te lupți ca să trăiești,
+Tu nu uita că încă mai e belșug de har,
+Cum a fost sus pe cruce pentru acel tâlhar...

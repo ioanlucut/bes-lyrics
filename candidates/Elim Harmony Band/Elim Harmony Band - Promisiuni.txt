@@ -1,1 +1,43 @@
-[title]Promisiuni {alternative: {*}, composer: {Elim Harmony Band}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158412}, id: {9dJLLzxMHEz3TRTT7ckPLB}, contentHash: {4f9dd2}}[sequence]v1,c,v2,c2,e[v1]Eu nu ți-am spus vreodată, că-ți voi da bogății,Nici că frigul nopții sau văpaia, nu le vei simți.Am promis că prin toate, Eu lângă tine sunt!Și să nu uiți, viața e doar un drum!Eu n-am promis, că tu, fără teamă vei trăi,Sau că niciodată, singur, tu nu te vei simți,Dar să nu uiți, mereu te voi însoți!Totdeauna, Eu te voi sprijini![c]Căci voi împlini întocmai, așa cum ți-am promis,Al Meu har te-nsoțește și îți va fi de ajuns.Îți dau a Mea iubire, ca ancoră și scut,Voi fi cu tine, voi fi cu tine, Eu îți promit![v2]Nicicând nu ți-am promis, că prieteni falși nu vei avea,Și nici că-ntotdeauna lumea te va admira,Dar ți-am spus, că ades, vei fi disprețuit!Doar cei vrednici, calea o vor sfârși!Eu nu ți-am spus că n-ai să simți al morții trist sărut,Și nici că poți intra-n odihnă, Iordanul ocolind,Dar ți-am spus, că te întâmpin’, pe malul celălalt.Și-ți voi șterge cu dragoste lacrima![c2]Căci voi împlini întocmai, așa cum ți-am promis,Și în curând, când voi veni, în ochi Mă vei privi,Cu îngerii alături, vei cânta în veșnicii,Vei fi cu Mine, vei fi cu Mine: Eu îți promit![e]Deci, mergi înainte, niciun pas nu ezita,În ceața nopții densă, ai lumina Mea!Nimic din lumea aceasta, nu ne va despărți,/: Voi fi cu tine, voi fi cu tine, Eu îți promit! :/
+[title]
+Promisiuni {alternative: {*}, composer: {Elim Harmony Band}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158412}, id: {9dJLLzxMHEz3TRTT7ckPLB}, contentHash: {4f9dd2}}
+
+[sequence]
+v1,c,v2,c2,e
+
+[v1]
+Eu nu ți-am spus vreodată, că-ți voi da bogății,
+Nici că frigul nopții sau văpaia, nu le vei simți.
+Am promis că prin toate, Eu lângă tine sunt!
+Și să nu uiți, viața e doar un drum!
+Eu n-am promis, că tu, fără teamă vei trăi,
+Sau că niciodată, singur, tu nu te vei simți,
+Dar să nu uiți, mereu te voi însoți!
+Totdeauna, Eu te voi sprijini!
+
+[c]
+Căci voi împlini întocmai, așa cum ți-am promis,
+Al Meu har te-nsoțește și îți va fi de ajuns.
+Îți dau a Mea iubire, ca ancoră și scut,
+Voi fi cu tine, voi fi cu tine, Eu îți promit!
+
+[v2]
+Nicicând nu ți-am promis, că prieteni falși nu vei avea,
+Și nici că-ntotdeauna lumea te va admira,
+Dar ți-am spus, că ades, vei fi disprețuit!
+Doar cei vrednici, calea o vor sfârși!
+Eu nu ți-am spus că n-ai să simți al morții trist sărut,
+Și nici că poți intra-n odihnă, Iordanul ocolind,
+Dar ți-am spus, că te întâmpin’, pe malul celălalt.
+Și-ți voi șterge cu dragoste lacrima!
+
+[c2]
+Căci voi împlini întocmai, așa cum ți-am promis,
+Și în curând, când voi veni, în ochi Mă vei privi,
+Cu îngerii alături, vei cânta în veșnicii,
+Vei fi cu Mine, vei fi cu Mine: Eu îți promit!
+
+[e]
+Deci, mergi înainte, niciun pas nu ezita,
+În ceața nopții densă, ai lumina Mea!
+Nimic din lumea aceasta, nu ne va despărți,
+/: Voi fi cu tine, voi fi cu tine, Eu îți promit! :/

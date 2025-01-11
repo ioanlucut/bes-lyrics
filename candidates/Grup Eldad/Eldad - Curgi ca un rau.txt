@@ -1,1 +1,25 @@
-[title]Curgi ca un râu {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {240802}, id: {kLcfs4UKK9srG1dvxPXFUJ}, contentHash: {923b94}}[sequence]v1,c,v2,c[v1]Curgi ca un râu de slavă, curgi printre noi,Dai viață, dai lumină și speranță, fiindcă ești Dumnezeu.Te așteptăm să vii, să vii ca să mângâi a noastre inimi ce-s zdrobite,Mai lasă sfântul nor, balsam vindecător, prezintă-Te, o, scump Părinte![c]/: Stăm ‘naintea Ta, ://: În prezența Ta, :/Privește Isus spre adunare!/: Vrem prin Duhul Tău ://: să ne-atingi din nou :/O, Doamne, vrem să faci o cercetare![v2]Sunt atâția ce strigă, ce trec prin greutăți,Oprește-te și-n dreptul lor o clipă, izbăvire strigă toți.Sunt suflete rănite, sunt inimi împărțite, ce nu cunosc a Ta cărare,Prin valurile vieții, te așteptăm cu toții, dă un răspuns la fiecare!
+[title]
+Curgi ca un râu {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {240802}, id: {kLcfs4UKK9srG1dvxPXFUJ}, contentHash: {923b94}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Curgi ca un râu de slavă, curgi printre noi,
+Dai viață, dai lumină și speranță, fiindcă ești Dumnezeu.
+Te așteptăm să vii, să vii ca să mângâi a noastre inimi ce-s zdrobite,
+Mai lasă sfântul nor, balsam vindecător, prezintă-Te, o, scump Părinte!
+
+[c]
+/: Stăm ‘naintea Ta, :/
+/: În prezența Ta, :/
+Privește Isus spre adunare!
+/: Vrem prin Duhul Tău :/
+/: să ne-atingi din nou :/
+O, Doamne, vrem să faci o cercetare!
+
+[v2]
+Sunt atâția ce strigă, ce trec prin greutăți,
+Oprește-te și-n dreptul lor o clipă, izbăvire strigă toți.
+Sunt suflete rănite, sunt inimi împărțite, ce nu cunosc a Ta cărare,
+Prin valurile vieții, te așteptăm cu toții, dă un răspuns la fiecare!

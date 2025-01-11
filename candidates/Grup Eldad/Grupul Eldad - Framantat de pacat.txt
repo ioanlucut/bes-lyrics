@@ -1,1 +1,27 @@
-[title]Framantat de pacat {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176809}, id: {ky9dTGB3Zk6urK9XfYh7X4}, contentHash: {1ccd75}}[sequence]v1,v2,e[v1]Frământat de păcat pământul, ne oprește jos privirea,Nu mai știm s-ascultăm vântul, să privim în ochi Iubirea.Ne mulțumim cu deșertăciunea unei vieți fără de rostȘi-alergăm în felul lumii, depărtați tot mai mult de Hristos...R: Trăiești în lumină, te lupți să fii mai sfânt?Sau calci legământul prin fapte și cuvânt?Trăiești pentru alții, iubind ca Hristos?O viață-n biruință, trăiești tu cu folos?[v2]Nimic nu e nou sub soare, tot ce-a fost iarăși va fi,Cu deșertăciuni amare viața nu-ți vei mulțumi.Sufletul tău e valoarea ce-ai primit-o aici jos,Și prin el tu vei decide, vei trăi-n veșnicii cu Hristos?[e]Tot ce-ai trăit, cum ai umblat, cum ai gândit și ai îndrumat,Sunt fapte în lumină?Spune-I azi Lui trecutul tău, El îl va șterge de tot ce-i răuȘi destinația ta va fi cea bună!
+[title]
+Framantat de pacat {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176809}, id: {ky9dTGB3Zk6urK9XfYh7X4}, contentHash: {1ccd75}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Frământat de păcat pământul, ne oprește jos privirea,
+Nu mai știm s-ascultăm vântul, să privim în ochi Iubirea.
+Ne mulțumim cu deșertăciunea unei vieți fără de rost
+Și-alergăm în felul lumii, depărtați tot mai mult de Hristos...
+R: Trăiești în lumină, te lupți să fii mai sfânt?
+Sau calci legământul prin fapte și cuvânt?
+Trăiești pentru alții, iubind ca Hristos?
+O viață-n biruință, trăiești tu cu folos?
+
+[v2]
+Nimic nu e nou sub soare, tot ce-a fost iarăși va fi,
+Cu deșertăciuni amare viața nu-ți vei mulțumi.
+Sufletul tău e valoarea ce-ai primit-o aici jos,
+Și prin el tu vei decide, vei trăi-n veșnicii cu Hristos?
+
+[e]
+Tot ce-ai trăit, cum ai umblat, cum ai gândit și ai îndrumat,
+Sunt fapte în lumină?
+Spune-I azi Lui trecutul tău, El îl va șterge de tot ce-i rău
+Și destinația ta va fi cea bună!

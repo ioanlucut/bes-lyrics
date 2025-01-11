@@ -1,1 +1,28 @@
-[title]Inconjurat de slava {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158386}, id: {aUHeGdpq5XVWqjwNVj2stq}, contentHash: {dd0549}}[sequence]v1,c,v2,c[v1]Înconjurat de slavă,Te laudă bolta-ntreagă,Și îngerii Îți cântă, Doamne!Te laudă-a Ta creație,Cu Cerul întreg dă glorie,Cu inima deschisă, m-alătur lor.[c]/: Și Îți cânt glorie, Doamne,Eu Îți cânt glorie, în veci!Tu Te cobori și-mi umpli sufletul, de pace!Și Îți cânt glorie, Doamne,Eu Îți cânt glorie, în veci!Tu mă-nconjori și mă păstrezi mereu în brațe, Doamne! :/[v2]Ți-ai arătat puterea,Mi-ai dat și mângâierea,În veci de veci, Tu, Doamne, domnești!Bătrâni cu bucurie, în cer se-nchină Ție,Cu inima deschisă, mă-nchin și eu!
+[title]
+Inconjurat de slava {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158386}, id: {aUHeGdpq5XVWqjwNVj2stq}, contentHash: {dd0549}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Înconjurat de slavă,
+Te laudă bolta-ntreagă,
+Și îngerii Îți cântă, Doamne!
+Te laudă-a Ta creație,
+Cu Cerul întreg dă glorie,
+Cu inima deschisă, m-alătur lor.
+
+[c]
+/: Și Îți cânt glorie, Doamne,
+Eu Îți cânt glorie, în veci!
+Tu Te cobori și-mi umpli sufletul, de pace!
+Și Îți cânt glorie, Doamne,
+Eu Îți cânt glorie, în veci!
+Tu mă-nconjori și mă păstrezi mereu în brațe, Doamne! :/
+
+[v2]
+Ți-ai arătat puterea,
+Mi-ai dat și mângâierea,
+În veci de veci, Tu, Doamne, domnești!
+Bătrâni cu bucurie, în cer se-nchină Ție,
+Cu inima deschisă, mă-nchin și eu!

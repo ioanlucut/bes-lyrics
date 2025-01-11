@@ -1,1 +1,32 @@
-[title]Da-i inima ta lui Isus {alternative: {*}, composer: {Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157187}, id: {82K3WAWyMJtb3p7tt5AgUw}, contentHash: {b1b384}}[sequence]v1,c,e[v1]Dumnezeu atât ne-a iubitCă a dat pe Fiul Său,Ca oricine, crede în ElSă nu piară, ci să aibă viață veșnică!Prin profeți a fost vestitMesia a fost numit,S-a dezbrăcat de slava cereascăSă ne mântuiascăAzi te chem să vii să-I dai...[c]Inima ta lui IsusPrimește viață, e darul nespus,Pace la oameni a datSă-I cântăm, ne închinăm, Regelui, Domnului! Dă-I inima ta lui IsusPrimește viață, e darul nespus,Pace la oameni a datSă-I cântăm, ne închinăm, Regelui, Domnului! x3.[e]/: A venit, S-a născut SalvatorulA adus o speranță în El,A împăcat omenirea cu TatălS-a născut Isus! :/
+[title]
+Da-i inima ta lui Isus {alternative: {*}, composer: {Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157187}, id: {82K3WAWyMJtb3p7tt5AgUw}, contentHash: {b1b384}}
+
+[sequence]
+v1,c,e
+
+[v1]
+Dumnezeu atât ne-a iubit
+Că a dat pe Fiul Său,
+Ca oricine, crede în El
+Să nu piară, ci să aibă viață veșnică!
+Prin profeți a fost vestit
+Mesia a fost numit,
+S-a dezbrăcat de slava cerească
+Să ne mântuiască
+Azi te chem să vii să-I dai...
+
+[c]
+Inima ta lui Isus
+Primește viață, e darul nespus,
+Pace la oameni a dat
+Să-I cântăm, ne închinăm, Regelui, Domnului!
+ Dă-I inima ta lui Isus
+Primește viață, e darul nespus,
+Pace la oameni a dat
+Să-I cântăm, ne închinăm, Regelui, Domnului! x3.
+
+[e]
+/: A venit, S-a născut Salvatorul
+A adus o speranță în El,
+A împăcat omenirea cu Tatăl
+S-a născut Isus! :/

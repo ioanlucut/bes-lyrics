@@ -1,1 +1,24 @@
-[title]Israele {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {196502}, id: {pEnEQpoXetavYKVsLV9i51}, contentHash: {265a83}}[sequence]v1,c,v2,c[v1]/: De ești departe și ești de lume copleșit,Nu ai nădejde, te simți pierdut și părăsit,Ești pasărea ce-a pierdut stolulȘi-a venit frigul, te-a înghețatDar ai un Tată, ce-n a Lui inimă te-a luat! :/[c]/: Israele, pune-ți credința în Dumnezeu,Nu te lăsa de valul lumii dusNu ești pierdut! Pe Golgota ai fost găsit!Ești în casa Tatălui ce te-a iubit :/[v2]/: De ai nevoie să te audă cineva,Cauți lumina prin bezna nopții undeva,Ești floarea ce n-a răsărit sau frunza care s-a uscat,Dar ai un Tată, ce-n a Lui inimă te-a luat! :/
+[title]
+Israele {alternative: {*}, composer: {Grupul Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {196502}, id: {pEnEQpoXetavYKVsLV9i51}, contentHash: {265a83}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: De ești departe și ești de lume copleșit,
+Nu ai nădejde, te simți pierdut și părăsit,
+Ești pasărea ce-a pierdut stolul
+Și-a venit frigul, te-a înghețat
+Dar ai un Tată, ce-n a Lui inimă te-a luat! :/
+
+[c]
+/: Israele, pune-ți credința în Dumnezeu,
+Nu te lăsa de valul lumii dus
+Nu ești pierdut! Pe Golgota ai fost găsit!
+Ești în casa Tatălui ce te-a iubit :/
+
+[v2]
+/: De ai nevoie să te audă cineva,
+Cauți lumina prin bezna nopții undeva,
+Ești floarea ce n-a răsărit sau frunza care s-a uscat,
+Dar ai un Tată, ce-n a Lui inimă te-a luat! :/

@@ -1,1 +1,44 @@
-[title]Gara vietii {alternative: {*}, composer: {Eliza Pirosca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {113287}, id: {hTUtFdazzX3hg4Yj2AJkx7}, contentHash: {82b7b6}}[sequence]v1,c,v2,b,c[v1]Sunt în Gara Vieții și aștept cam de multAu trecut ani peste mine și-am pierdut vreo două trenuriAnotimpuri nu se mai perindă de mult timp pe aiciNu știu dacă am îmbătrânit, dar nici nu-mi pasă.Aștept, aștept să vină Cineva și să-mi spunăCe tren să iau, ce bilet să-mi cumpăr...Aștept, aștept, poate-or veni vara, toamna si iarnaCa să știu dacă mai sunt sau nu in viață.[c]Tatăl meu, știu că privești de susChiar nu ai nimic de spus?Dă-mi te rog un semn că mă mai iubeștiChiar dacă greșesc...Mai trimite-mi un tren și pentru mine.Tatăl meu, știu ca El e trimis de susMi-a spus că se numește ISUS!Mi-a arătat drumul spre TineN-a mai trebuit sa așteptM-a facut atât de fericit.[v2]Încep să nu mai am răbdare, răceala m-a cuprinsMi-e dor de viață și de soare, mi-e dor de infinit...Trenuri nu mai opresc, oare ce trebuie să fac?Mi-e teamă că voi rămâne singur pentru totdeauna.Aștept, aștept, iată Cineva se iveșteÎl recunosc, are o privire atât de blândă!Mă strânge la piept și-apoi mă ia de mânaNu-mi mai este frig și nici teamă.[b]Tatăl meu, știu că El e trimis de susMi-a spus că se numește ISUS!M-am dus cu El într-un LocAtât de liniștit și de frumosM-a învățat să fiu fericit!
+[title]
+Gara vietii {alternative: {*}, composer: {Eliza Pirosca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {113287}, id: {hTUtFdazzX3hg4Yj2AJkx7}, contentHash: {82b7b6}}
+
+[sequence]
+v1,c,v2,b,c
+
+[v1]
+Sunt în Gara Vieții și aștept cam de mult
+Au trecut ani peste mine și-am pierdut vreo două trenuri
+Anotimpuri nu se mai perindă de mult timp pe aici
+Nu știu dacă am îmbătrânit, dar nici nu-mi pasă.
+Aștept, aștept să vină Cineva și să-mi spună
+Ce tren să iau, ce bilet să-mi cumpăr...
+Aștept, aștept, poate-or veni vara, toamna si iarna
+Ca să știu dacă mai sunt sau nu in viață.
+
+[c]
+Tatăl meu, știu că privești de sus
+Chiar nu ai nimic de spus?
+Dă-mi te rog un semn că mă mai iubești
+Chiar dacă greșesc...
+Mai trimite-mi un tren și pentru mine.
+Tatăl meu, știu ca El e trimis de sus
+Mi-a spus că se numește ISUS!
+Mi-a arătat drumul spre Tine
+N-a mai trebuit sa aștept
+M-a facut atât de fericit.
+
+[v2]
+Încep să nu mai am răbdare, răceala m-a cuprins
+Mi-e dor de viață și de soare, mi-e dor de infinit...
+Trenuri nu mai opresc, oare ce trebuie să fac?
+Mi-e teamă că voi rămâne singur pentru totdeauna.
+Aștept, aștept, iată Cineva se ivește
+Îl recunosc, are o privire atât de blândă!
+Mă strânge la piept și-apoi mă ia de mâna
+Nu-mi mai este frig și nici teamă.
+
+[b]
+Tatăl meu, știu că El e trimis de sus
+Mi-a spus că se numește ISUS!
+M-am dus cu El într-un Loc
+Atât de liniștit și de frumos
+M-a învățat să fiu fericit!

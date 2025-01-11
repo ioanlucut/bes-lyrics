@@ -1,1 +1,29 @@
-[title]Spui ca tu cauti viata {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225313}, id: {ksCKVyCFF5a6VCFZWjmfmg}, contentHash: {32d472}}[sequence]v1,c,v2,c[v1]Te-ai oprit doar o clipăSă te-ntrebi unde te duciPoate n-ai nicio țintă dar alergiTe-ai pornit cu așa grabăInsa oare unde ajungiE acesta sfârșitul ce-l alegi?[c]/: Spui că tu cauți viațaÎn schimb ți-ai pierdut speranțaTot ce credeai etern acum e-un abur risipitAzi vreau să-ți dau de știreE vie a Lui iubireÎncă te-așteaptă ca să vii. :/[v2]A plătit pentru tineCu al său sânge curatCa să ai azi viață s-a jertfitPoți să ai mântuireSă fii liber de păcatPoți să fii cu Isus pân’ la sfârșit.
+[title]
+Spui ca tu cauti viata {alternative: {*}, composer: {Messis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225313}, id: {ksCKVyCFF5a6VCFZWjmfmg}, contentHash: {32d472}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Te-ai oprit doar o clipă
+Să te-ntrebi unde te duci
+Poate n-ai nicio țintă dar alergi
+Te-ai pornit cu așa grabă
+Insa oare unde ajungi
+E acesta sfârșitul ce-l alegi?
+
+[c]
+/: Spui că tu cauți viața
+În schimb ți-ai pierdut speranța
+Tot ce credeai etern acum e-un abur risipit
+Azi vreau să-ți dau de știre
+E vie a Lui iubire
+Încă te-așteaptă ca să vii. :/
+
+[v2]
+A plătit pentru tine
+Cu al său sânge curat
+Ca să ai azi viață s-a jertfit
+Poți să ai mântuire
+Să fii liber de păcat
+Poți să fii cu Isus pân’ la sfârșit.
