@@ -10,7 +10,6 @@
 \documentclass{scrartcl}
 
 \usepackage{datetime} % For custom date and time formatting
-\usepackage[romanian]{babel} % For Romanian language support
 
 \usepackage{scrextend} % Compatibility layer
 \usepackage[full]{leadsheets}
