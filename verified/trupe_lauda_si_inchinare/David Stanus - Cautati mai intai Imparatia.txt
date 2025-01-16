@@ -1,0 +1,36 @@
+[title]
+Căutați mai întâi Împărăția {alternative: {*}, composer: {David Stănuș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5mKN7Vno56kSLzpJZpHox5}, contentHash: {5bd94a}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Dintre tot ce lumea are de oferit
+Caută în noi prilejul nimerit
+Ca să ne atragă mai mult înspre păcat,
+Să uităm din nou că ne-ai răscumpărat.
+
+[c]
+/: Căutați mai întâi Împărăția,
+Ea să fie mereu pe locu-ntâi!
+În afară de ea sunt gunoaie,
+De le cauți, cu ele tu rămâi. :/
+
+[v2]
+Azi adu-ți aminte ce bine ai pornit
+Pe cărarea vieții tu erai fericit,
+Slavă, osanale Domnului dădeai
+Și Cuvântul Lui tu îl mărturiseai.
+
+[v3]
+Cerul nu-i departe, e în inima ta,
+Fii atent, creștine, nu-l da pe altceva!
+Dulce veșnicie, cât de-aproape ești,
+Păcatul ne desparte, de el să te ferești!
+
+[c2]
+/: Căutați Împărăția,
+Ea să fie mereu pe locu-ntâi!
+În afară de ea sunt gunoaie,
+De le cauți, cu ele tu rămâi, :/
+De le cauți, cu ele tu rămâi.

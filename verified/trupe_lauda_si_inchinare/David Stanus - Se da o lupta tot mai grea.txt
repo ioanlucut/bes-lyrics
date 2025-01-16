@@ -1,0 +1,29 @@
+[title]
+Se dă o luptă tot mai grea {alternative: {*}, composer: {David Stănuș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cjP3iCAqJ7CQfPugTLHz6d}, contentHash: {a1bbd5}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Se dă o luptă tot mai grea
+Și mulți frați au căzut pe cale.
+Privind la lume-aceasta rea,
+S-au întors pe calea de pierzare.
+
+[c]
+Pentru mântuire va trebui să lupți
+Cu armele divine, la cer să nu renunți!
+„Am păzit credința!”, Pavel ne spunea,
+Fraților, să facem tot așa!
+
+[v2]
+Au mai rămas la fel și azi,
+Ca Dima, frați pentru o vreme,
+Dar vai, i-a prins al lumii laț
+Și-acolo sufletul lor geme!
+
+[v3]
+Cu scut și-n mâna-al Lui Cuvânt,
+Noi să rămânem în credință!
+E scris și astăzi în Romani
+Că-n Domnul este biruință!

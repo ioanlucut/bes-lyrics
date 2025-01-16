@@ -1,0 +1,37 @@
+[title]
+Tot pământul azi să tacă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sNzorPiFGiTsAE7zb9aJCT}, contentHash: {a7e2e4}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Tot pământul azi să tacă,
+În sfială tremurând!
+Orice gând lumesc s-alunge,
+Căci Hristos, har aducând,
+Din înalt la noi coboară,
+Adorare meritând!
+
+[v2]
+Rege-al regilor, venit-a
+Să Se nască prunc plăpând.
+Domn al domnilor, luat-a
+Trup de sânge și pământ,
+Spre-a Se da ca pâine-oricărui crede,
+Sfântu-I trup pe lemn frângând.
+
+[v3]
+Năvălind, oștiri de îngeri
+Împânzesc zări argintii,
+Când Lumina lumii coboară
+Din slăvite veșnicii
+Și cu moartea Sa pe moarte calcă,
+Bezna morții spulberând.
+
+[v4]
+Serafimi cu șase aripi,
+Heruvimi cu ochi veghind
+Chipul și-l ascund sfielnic,
+Neîncetat în cânt strigând:
+Aleluia! Aleluia!
+Aleluia, Domn Preasfânt!
