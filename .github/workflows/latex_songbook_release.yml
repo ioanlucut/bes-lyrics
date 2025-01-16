@@ -66,3 +66,11 @@ jobs:
           body: Release al caietului de cântece BES ale trupelor de laudă și închinare (se face incremental, după fiecare schimbare în repository).
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload to GDrive
+        uses: adityak74/google-drive-upload-git-action@main
+        with:
+          credentials: ${{ secrets.GDRIVE_CREDENTIALS_ENCODED }}
+          filename: 'LaTeX/songbook/bes-songbook.pdf'
+          folderId: ${{ secrets.GDRIVE_SONGBOOKS_FOLDER_ID }} # Songbooks
+          overwrite: 'true' # optional boolean
