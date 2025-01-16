@@ -63,7 +63,7 @@ jobs:
           draft: false
           make_latest: true
           generate_release_notes: true
-          body: Release al caietului de cântece BES ale trupelor de laudă și închinare (se face incremental, după fiecare schimbare în repository).
+          body: Release al caietului de cântece BES ale trupelor de laudă și închinare (se face incremental, după fiecare schimbare în repository). Acceseaza-l [aici](https://drive.google.com/drive/folders/1zaxtSZnHy73DaQLCCqoNCZ0lJ11ClHBR).
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
