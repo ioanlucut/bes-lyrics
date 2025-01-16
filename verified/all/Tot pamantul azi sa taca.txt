@@ -1,5 +1,5 @@
 [title]
-Tot pământul azi să tacă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Tot pământul azi să tacă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sNzorPiFGiTsAE7zb9aJCT}, contentHash: {a7e2e4}}
 
 [sequence]
 v1,v2,v3,v4
