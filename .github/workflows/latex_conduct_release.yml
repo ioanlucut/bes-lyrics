@@ -37,3 +37,11 @@ jobs:
           draft: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload to GDrive
+        uses: adityak74/google-drive-upload-git-action@main
+        with:
+          credentials: ${{ secrets.GDRIVE_CREDENTIALS_ENCODED }}
+          filename: 'LaTeX/conduct/BES_Conduct_Afisaj.pdf'
+          folderId: ${{ secrets.GDRIVE_SONGBOOKS_FOLDER_ID }} # Songbooks
+          overwrite: 'true' # optional boolean
