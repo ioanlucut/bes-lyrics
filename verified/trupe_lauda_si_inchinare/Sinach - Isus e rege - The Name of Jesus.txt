@@ -24,7 +24,7 @@ Tu trăiești în noi!
 Prin El victoria primim,
 Ce Nume minunat!
 
-[b1]
+[b1.1]
 El e Domnul vieții înălțat,
 Prin moarte ne-a răscumpărat,
 Fie lăudat!
