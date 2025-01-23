@@ -1,5 +1,5 @@
 [title]
-Să cântăm „Maranata” {alternative: {*}, composer: {Corneliu Matei}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {7QqF36h4HD4yK3vp7YKcJR}, contentHash: {b98183}}
+Să cântăm „Maranata” {alternative: {*}, composer: {Corneliu Matei}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {7QqF36h4HD4yK3vp7YKcJR}, contentHash: {a67359}}
 
 [sequence]
 v1,c,v2,c,v3,c
