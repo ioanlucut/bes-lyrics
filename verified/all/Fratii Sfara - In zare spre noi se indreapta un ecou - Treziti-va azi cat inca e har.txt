@@ -11,10 +11,10 @@ Azi Domnul ne cheamă, ne cheamă din nou,
 Curând va începe răpirea!
 
 [c]
-Treziți-vă azi cât încă e har,
+/: Treziți-vă azi cât încă e har,
 La noapte se poate să vină!
 Trezirea-ți târzie va fi în zadar,
-Acum ești chemat la lumină!
+Acum ești chemat la lumină! :/
 
 [v2]
 Cetățile lumii sunt gata să cadă,
