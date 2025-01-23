@@ -1,5 +1,5 @@
 [title]
-Voi pierduți sub sarcini grele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6775}, id: {kDcrG3YwfyrVuX96Hm45nw}, contentHash: {61cb4d}}
+Voi pierduți sub sarcini grele {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6775}, id: {kDcrG3YwfyrVuX96Hm45nw}, contentHash: {1d11b0}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -11,10 +11,8 @@ La Isus e mântuirea
 Și pe mine m-a salvat!
 
 [c]
-/: Da, eu știu,
-Da, eu știu,
-Sângele Lui spală
-Orișice păcat! :/
+/: Da, eu știu, da, eu știu,
+Sângele Lui spală orișice păcat! :/
 
 [v2]
 Celui slab îi dă tărie,

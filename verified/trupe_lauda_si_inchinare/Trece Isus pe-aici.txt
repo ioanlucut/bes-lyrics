@@ -1,5 +1,5 @@
 [title]
-Trece Isus pe-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58795}, id: {gx2mXwWG4dntZWxnzKxurZ}, contentHash: {4868ab}}
+Trece Isus pe-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58795}, id: {gx2mXwWG4dntZWxnzKxurZ}, contentHash: {95aec7}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -29,7 +29,7 @@ Vino și spune-I ce te apasă,
 Să fii eliberat!
 
 [v4]
-Trece Isus prin adunare
+Trece Isus azi prin adunare
 Nu vrei de haina Lui să te atingi?
 Are putere de vindecare,
 Trece Isus pe-aici.
