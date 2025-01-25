@@ -1,0 +1,34 @@
+E puterea crucii Lui {alternative: {The Power of the Cross}, composer: {Keith & Kristyn Getty}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+O, de-aș fi văzut cea mai neagră zi:
+Domnul pășește spre Calvar.
+De răi e judecat, lovit și sfâșiat,
+Pe cruce e țintuit.
+
+[c]
+/: E puterea crucii Lui:
+Cel Preasfânt făcut păcat,
+Vina noastră a purtat,
+Să stăm iertați sub crucea Lui. :/
+
+[v2]
+Văd cumplitu-Ți chin scris pe chipul Tău,
+Greul păcat Te apăsa.
+Orice gând murdar, orice faptă rea,
+Fruntea-Ți încorona.
+
+[v3]
+Lumina s-a ascuns, pământul s-a zbătut
+Când Creatorul lor S-a stins.
+Loc preasfânt deschis, morți la viață-aduși,
+Glorie, s-a isprăvit!
+
+[v4]
+Să-mi văd numele scris în rana Ta,
+Prin jertfa Ta eu liber sunt.
+Boldul morții-i frânt, viu acum trăiesc,
+Dragostea Ta a-nvins!

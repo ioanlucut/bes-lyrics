@@ -1,0 +1,26 @@
+[title]
+Mi-e dor de-o zi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Mi-e dor de-o zi, o zi când toamna
+N-or mai cădea nici frunze și nici flori,
+E ziua noastră, e o întâlnire
+Cu Acel ce-n viață noi L-am urmat,
+Noi L-am urmat.
+
+[v1]
+Un dor m-apasă și zile trec,
+Aș vrea Isus, atât de mult aș vrea
+Să Te-ntâlnesc și să-Ți spun
+De câte ori au fost tristeți
+Ce le-am știut doar noi doi.
+
+[v2]
+Va trece-un an și-or trece alții,
+Dar nu uita, când așteptarea-i grea,
+El se va-ntoarce și-atunci
+Printre noi va fi iar vară
+Și soare fără nori.

@@ -1,0 +1,25 @@
+[title]
+Este-un loc unde sfinții cântă {alternative: {*}, composer: {Messis}, writer: {Florin Mesaroș}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164314}, id: {wgdrS2qjHCBKy2hDZfFWFj}, contentHash: {665513}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Este-un loc unde sfinții cântă,
+Ce bucurie e să fii salvat.
+Este-un loc unde toate-s una,
+Ești pe veci cu Tatăl împăcat.
+
+[c]
+/: Ierusalim, locaș ceresc,
+Pe-ale tale porți de aur
+Vine vremea să pășesc.
+Voi vedea ce sus în ceruri
+Tatăl sfânt ne-a pregătit și ce-am dorit,
+Ierusalime, mult iubit. :/
+
+[v2]
+Este-un loc unde-i plin de slavă,
+În măreața glorie totu-i îmbrăcat.
+Este-un loc unde stai cu Domnul,
+Stai la a Sa masă, totu-i minunat.
