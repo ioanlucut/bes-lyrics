@@ -1,5 +1,5 @@
 [title]
-Este-un loc unde sfinții cântă {alternative: {*}, composer: {Messis}, writer: {Florin Mesaroș}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164314}, id: {wgdrS2qjHCBKy2hDZfFWFj}, contentHash: {665513}}
+Este-un loc unde sfinții cântă {alternative: {*}, composer: {Messis}, writer: {Florin Mesaroș}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164314}, id: {wgdrS2qjHCBKy2hDZfFWFj}, contentHash: {58e6cf}}
 
 [sequence]
 v1,c,v2,c
