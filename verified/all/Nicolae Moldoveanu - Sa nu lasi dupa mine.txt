@@ -1,0 +1,23 @@
+[title]
+Să nu lași după mine {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Să nu lași după mine, Dumnezeul meu,
+Să mă ții lângă Tine cât ar fi de greu!
+
+[c]
+/: Iată ruga mea, iată tot ce-ar vrea
+Inima să-Ți dea, tot ce este-n ea.
+Nu mă mai lăsa, Doamne-a mă schimba,
+Orice m-ar costa, fie voia ta! :/
+
+[v2]
+Să mă ții pe cărarea voii Tale în veac,
+Să-mi trezești ascultarea ca să-Ți fiu pe plac!
+
+[v3]
+Doar prin Tine se poate să trăiesc frumos,
+De la Tine am toate, prin Isus Hristos!
