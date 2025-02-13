@@ -1,5 +1,5 @@
 [title]
-Ni se strigă din Seir {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Ni se strigă din Seir {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fF19eCHABw3LSQotVb9MtQ}, contentHash: {6935ff}}
 
 [sequence]
 v1,v2,v3,v4
