@@ -1,0 +1,31 @@
+[title]
+Ni se strigă din Seir {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fF19eCHABw3LSQotVb9MtQ}, contentHash: {6935ff}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ni se strigă din Seir: „Mai este mult din noapte?
+Străjerule ce stai pe zid, mai este mult din noapte?”
+/: Vine dimineața, chiar dacă noapte e,
+Cuvântu-așa ne spune: se-arată zorile! :/
+
+[v2]
+Mireasă, mai rabdă puțin că noaptea va dispare
+Și soarele va străluci, Isus, Domnul, apare!
+/: Vine dimineața și vom pleca spre cer
+Cântând cântarea nouă: „Isus, Emanuel!” :/
+
+[v3]
+Rămâi pe zid, unde te-a pus un Nume ce-i puternic,
+Privirea să ți-o-ndrepți în sus, spre Dumnezeu cel veșnic!
+/: Luceafărul cel veșnic atunci va străluci,
+În zorii dimineții pe El Îl vom zări. :/
+
+[v4]
+Cu lacrime în ochi privim spre zările senine,
+Ni-e atât de dor și Te dorim ca să ne iei la Tine!
+/: Și-atuncea vom cânta cântarea biruinței,
+Cu harfa și-alăuta-n țara făgăduinței!
+Și Mirele iubirii ne va servi la masă,
+Vom fi mireasa Lui, mireasa Lui aleasă. :/
