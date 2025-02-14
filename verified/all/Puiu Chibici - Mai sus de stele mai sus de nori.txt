@@ -1,0 +1,28 @@
+[title]
+Mai sus de stele, mai sus de nori {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {n7cTfcQr2Ckjef4YxmYm9C}, contentHash: {7ff35c}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Mai sus de stele, mai sus de nori,
+Eu merg spre țara veșnicei splendori,
+Spre locul veșnic de El promis,
+Spre țara slavei, spre paradis.
+
+[c]
+Acolo unde nu sunt dureri, nici griji, nici lacrimi,
+Ci sfinte mângâieri.
+Acolo unde e Împărat Isus, Mesia, ce minunat!
+
+[v2]
+Dincol’ de zare, dincol’ de-apus
+E al meu Soare, al meu drag Isus.
+Plutind pe marea cea de cleștar,
+Voi fi cu Domnul, ce mare har!
+
+[v3]
+N-ai vrea și tu, dar, amicul meu,
+S-ajungi în ceruri, sus la Dumnezeu?
+La pomul vieții să te găsești,
+În raiul veșnic să locuiești?

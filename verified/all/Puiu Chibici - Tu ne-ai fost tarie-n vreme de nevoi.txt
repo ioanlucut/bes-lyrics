@@ -1,0 +1,29 @@
+[title]
+Tu ne-ai fost tărie-n vreme de nevoi {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dybEQRjD7UvanPtkF3UpE3}, contentHash: {96c381}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Tu ne-ai fost tărie-n vreme de nevoi,
+Când s-au abătut nori negri peste noi,
+Ape mari, șuvoaie când au năvălit,
+Doar cu Tine, Doamne, noi am biruit.
+
+[v2]
+Când fiorul morții-n noapte ne-a-ncercat
+Am simțit prezența Ta neîncetat.
+Prin furtuni și neguri, prin necazul greu,
+La noi ai stat Tu, mare Dumnezeu.
+
+[v3]
+Barca Ta, Isuse, aici a ancorat,
+Cu Tine la cârmă, mare Împărat,
+Pot să vină valuri, vânturi mari și ploi,
+Știm că Tu, Isuse, ești mereu cu noi.
+
+[v4]
+Am simțit, Isuse, dulce al Tău glas,
+Căci cu niciun chip Tu singuri nu ne lași.
+Tot ce ne-ai promis azi s-a adeverit:
+Din nenorocire Tu ne-ai izbăvit.
