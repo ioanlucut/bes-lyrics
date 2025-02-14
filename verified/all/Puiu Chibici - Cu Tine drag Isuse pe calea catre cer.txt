@@ -1,0 +1,29 @@
+[title]
+Cu Tine, drag Isuse, pe calea către cer {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cu Tine, drag Isuse, pe calea către cer
+Sunt bucurii nespuse și lacrimile pier.
+Cu Tine, doar cu Tine nici greul nu-i prea greu
+Căci brațul Tău mă ține, puternic Dumnezeu.
+
+[c]
+Cu Tine, doar cu Tine mi-e viața ca un vis,
+Cu Tine, doar cu Tine am har de nedescris.
+Cu Tine, doar cu Tine am tot ce îmi doresc,
+Am bogății divine, de-aceea Te iubesc.
+
+[v2]
+Cu Tine pe cărare nu-i crucea grea de dus
+Căci Tu îmi dai răbdare, iubitul meu, Isus.
+Cu Tine, doar cu Tine, chiar și prin încercări,
+Am mângâieri depline și sfinte desfătări.
+
+[v3]
+Cu Tine, bun Stăpâne, e totul colț de rai,
+Iar zările-s senine când pacea Ta mi-o dai.
+Cu Tine-n părtășie am soare făr’ apus
+Căci Tu-mi ești pe vecie lumina mea, Isus.

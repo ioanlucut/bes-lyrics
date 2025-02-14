@@ -1,0 +1,29 @@
+[title]
+Cinste și onoare, laudă și ascultare {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cinste și onoare, laudă și ascultare
+Lui I se cuvine veșnic, ne-ncetat.
+Glorie, mărire, rugă, mulțumire
+Lui Isus, Mesia, Marele-Împărat.
+
+[c]
+Să-I cântăm, să-I cântăm aleluia,
+Să-I slăvim Numele ce-i mai presus,
+Să-I cântăm, să-I cântăm aleluia,
+Fie-n veci preamărit Isus!
+
+[v2]
+Sinceră credință, jertfă, pocăință,
+Lacrimi de căință Lui Îi datorăm.
+Pentru-a Sa iubire, pentru mântuire
+Din inimi curate, haideți să-I cântăm!
+
+[v3]
+Steag de biruință, pace-n suferință,
+Țărm de izbăvire El ne-a fost mereu.
+Sfântă adiere, har și mângâiere
+Ne-a fost totdeauna bunul Dumnezeu!
