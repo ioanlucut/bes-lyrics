@@ -14,13 +14,14 @@ Cel ce se hrănește cu singurul Său Fiu
 Da, Domnul este viu!
 
 [c1.1]
-/: Gustați și vedeți cât de bun este Domnul,
+Gustați și vedeți cât de bun este Domnul,
 Cât de bun, cât de bun, cât de bun este Domnul!
 Gustați și vedeți cât de bun este Domnul,
-Cât de bun, cât de bun, cât de bun este Domnul! :/
+Cât de bun, cât de bun, cât de bun este Domnul!
 
 [c1.2]
-/: Căile Sale nu s-au sfârșit, îndurările Sale nu sunt la capăt,
+/: Căile Sale nu s-au sfârșit,
+Îndurările Sale nu sunt la capăt,
 Domnul este bun! :/
 
 [v3]

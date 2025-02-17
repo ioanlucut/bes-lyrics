@@ -5,14 +5,14 @@ Din Tine am venit, Iubire {alternative: {*}, composer: {Nicolae Moldoveanu}, wri
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Din Tine am venit, Iubire,
+Din Tine am venit, Iubire
 Și tot spre Tine merg mereu,
 Frumusețe și desăvârșire
 Doar Tu dai sufletului meu.
 
 [c]
 /: O, Iubire, o, Iubire,
-Har etern venit de sus!
+Har etern venit de sus,
 Mântuire, mântuire,
 Prin Golgota ne-ai adus! :/
 
@@ -24,7 +24,7 @@ Să Te pătrund mai mult cum ești.
 
 [v3]
 Fă-mi clipele vieții mele
-Izvoare proaspete de har,
+Izvoare proaspete de har
 Ca să țâșnești doar Tu din ele
 Îmbelșugat pe-orice hotar.
 
