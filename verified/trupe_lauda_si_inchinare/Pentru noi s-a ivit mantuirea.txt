@@ -6,9 +6,9 @@ v1,c,v2,c,v3,c
 
 [v1]
 Pentru noi s-a ivit mântuirea,
-Pentru noi Cel-de-Sus a murit.
+Pentru noi Cel de sus a murit.
 /: Pentru noi s-a ivit izbăvirea,
-Pentru noi Cel-de-Sus S-a jertfit. :/
+Pentru noi Cel de sus S-a jertfit. :/
 
 [c]
 /: Lăsați Duhul Sfânt să lucreze,

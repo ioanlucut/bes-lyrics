@@ -7,8 +7,7 @@ c,v1,c,v2,c,v3,c
 [c]
 Eu sunt sigur, sunt ocrotit la pieptul Lui,
 Eu sunt sigur când mă las pe brațul Domnului.
-Eu sunt sigur, sunt ocrotit la pieptul Lui,
-Eu sunt sigur când mă las pe brațul Domnului.
+
 
 [v1]
 O, ce bine e, ce voios trăiesc
