@@ -1,15 +1,16 @@
 [title]
-Timpul fuge fără noi {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7210}, id: {rox1V48TgHV76nL6CJsBwB}, contentHash: {402001}}
+Timpul fuge fără noi {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
 
 [sequence]
-v1,c,v2,c
+v1.1,v1.2,c,v2.1,v2.2,c
 
-[v1]
+[v1.1]
 Timpul fuge fără noi,
-Alergăm după nevoi fără rost.
+Alergăm după nevoi fără rost,
 Nu mai știm cine suntem,
-Unde mergem sau ce vrem,
-Cu ce rost.
+Unde mergem sau ce vrem, cu ce rost.
+
+[v1.2]
 Am uitat că noi suntem
 Fii născuți din Dumnezeul Preaînalt,
 Suntem prea obișnuiți,
@@ -20,14 +21,16 @@ Vine Isus!
 Cine-i gata de plecare se uită-n sus,
 Vede slava Lui cea mare
 Și de va cădea, se va ridica,
-Dacă e predată toată inima!
+Dacă e predată toată inima.
 Vine Isus!
 
-[v2]
+[v2.1]
 Pe Isus noi Îl iubim,
-Însă inima o-mpărțim, ne-nșelăm,
+Însă inima-o-mpărțim, ne-nșelăm,
 Spunem răului că-i bun
-Și-l luăm cu noi la drum rătăcind,
+Și-l luăm cu noi la drum, rătăcind.
+
+[v2.2]
 Pentru Isus ce lăsăm?
 Am promis, dar noi uităm. Până când?
 Oare cum ne va găsi?

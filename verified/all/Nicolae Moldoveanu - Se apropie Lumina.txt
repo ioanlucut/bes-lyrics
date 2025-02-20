@@ -1,0 +1,23 @@
+[title]
+Se-apropie Lumina {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Se-apropie Lumina - o, nu te da învins,
+/: Ai candela-aprinsă și mijlocul încins! :/
+Se-apropie izbânda - o, nu cădea înfrânt,
+/: Tu porți un nume mare și-ai pus un legământ! :/
+
+[v2]
+Se-apropie cununa - mai luptă-te puțin,
+/: Curând vor trece norii și-n veci va fi senin! :/
+Se-apropie-Ajutorul - întâmpină-L în drum,
+/: Veghează și te roagă să nu cazi chiar acum! :/
+
+[v3]
+Se-apropie răsplata - lucrează mai cu spor,
+/: Se-apropie cununa - s-o porți biruitor! :/
+Se-apropie Stăpânul - să-L poți întâmpina,
+/: Ferice robul care va fi găsit așa! :/
