@@ -5,9 +5,11 @@ Milioane de stele {alternative: {*}, composer: {Speranța și prietenii}, writer
 v1,c,v2,c,v3,c
 
 [v1]
-Milioane de stele pe cer veghează, doar una din ele luminează
+Milioane de stele pe cer veghează,
+Doar una din ele luminează
 Strălucind pe colț de cer, ea Îl slăvește, aduce solia
-Că S-a născut Hristos, Mesia, S-a născut Hristos, Mesia!
+Că S-a născut Hristos, Mesia,
+S-a născut Hristos, Mesia!
 
 [c]
 Într-o iesle a venit, cum a fost profețit, Prințul păcii,
@@ -24,4 +26,5 @@ Să fie pace pe pământ!
 Magii sosesc, Lui I se închină,
 Ei aduc aur, tămâie și smirnă, Îl slăvesc pe Împărat.
 Și noi am venit pe Prunc să-L vedem,
-Daruri ca magii, noi nu avem, dar inima Lui I-am predat.
+Daruri ca magii, noi nu avem,
+Dar inima Lui I-am predat.

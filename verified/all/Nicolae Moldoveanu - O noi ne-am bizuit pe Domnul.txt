@@ -1,0 +1,39 @@
+[title]
+O, noi ne-am bizuit pe Domnul {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+O, noi ne-am bizuit pe Domnul,
+De-aceea nu ne-au biruit
+Nici vântul când vuia puternic,
+Nici valul când izbea cumplit.
+
+[c]
+Bizuiți-vă pe Domnul toți ai Lui în orice fel,
+/: Căci în El au biruința câți se bizuie pe EL! :/
+
+[v2]
+O, noi ne-am bizuit pe Domnul,
+De-aceea-n noaptea cea mai grea
+Purtam în suflet strălucirea
+Luminii ce se-apropia.
+
+[v3]
+O, noi ne-am bizuit pe Domnul,
+De-aceea când zdrobiți păream
+Spre fericita izbăvire
+Adânc încrezători priveam.
+
+[v4]
+O, noi ne-am bizuit pe Domnul,
+De-aceea-n nopți de suferinți
+Senini trăiam înflăcărarea
+Cântării marii biruinți.
+
+[v5]
+O, noi ne-am bizuit pe Domnul,
+De-aceea azi cântăm așa,
+Din toată inima slăvindu-I
+Puterea și iubirea Sa.

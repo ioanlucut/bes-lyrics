@@ -5,24 +5,33 @@ Gânduri de pace am pentru voi {alternative: {*}, composer: {Beni Cibu}, writer:
 c,v1,c,v2,c,v3,c
 
 [c]
-/: Gânduri de pace am pentru voi, gânduri de pace, nu de război,
+/: Gânduri de pace am pentru voi,
+Gânduri de pace, nu de război,
 Ca să vă dau un viitor și o nădejde!
-Gânduri de pace am pentru voi, gânduri de pace, nu de război,
+Gânduri de pace am pentru voi,
+Gânduri de pace, nu de război,
 Dacă veți asculta și veți împlini Cuvântul Meu! :/
 
 [v1]
-O, poporul Meu, de vei căuta adevăru-ntreg în viața ta,
-Eu cum am promis voi fi acolo când necazul greu te va apăsa,
-Eu nu voi lipsi în durerea ta, fiindcă te iubesc, pe viața Mea!
+O, poporul Meu, de vei căuta
+Adevăru-ntreg în viața ta,
+Eu cum am promis voi fi acolo
+Când necazul greu te va apăsa,
+Eu nu voi lipsi în durerea ta,
+Fiindcă te iubesc, pe viața Mea!
 
 [v2]
-Când pustia grea se va termina îmi voi împlini juruința Mea,
+Când pustia grea se va termina
+Îmi voi împlini juruința Mea,
 Căci cum am promis nu-Mi las poporul.
-De vei căuta iarăși fața Mea, de pe-ntreg pământ te voi aduna,
+De vei căuta iarăși fața Mea,
+De pe-ntreg pământ te voi aduna,
 Fiindcă te iubesc, pe viața Mea!
 
 [v3]
-Prinșii de război îi voi aduna iarăși în Sion, cu puterea Mea,
+Prinșii de război îi voi aduna
+Iarăși în Sion, cu puterea Mea,
 Și cum am promis veți fi-mpreună.
-Strigăte de dor se vor înălța, din poporul Meu jertfa n-a-nceta,
+Strigăte de dor se vor înălța,
+Din poporul Meu jertfa n-a-nceta,
 Fiindcă vă iubesc, pe viața Mea!
