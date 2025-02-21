@@ -1,0 +1,35 @@
+[title]
+Mă plec adânc în rugăciune {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gZQZkjePdayynf6nuGKWqK}, contentHash: {7270e5}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Mă plec adânc în rugăciune,
+Părinte sfânt să-Ți mulțumesc
+Căci doar așa eu pot a-Ți spune:
+„O, Domnul meu, cât Te iubesc!”
+
+[c]
+Doamne-n bunătatea-Ți mare
+Ai iertat vina păcatului meu,
+Vreau să spun acum la fiecare
+Cât de bun ești, Dumnezeu.
+
+[v2]
+Mă plec adânc în rugăciune
+Să-Ți mulțumesc de-atâta har,
+Să laud cu-a inimii strune,
+Isuse, jertfa-Ți din Calvar.
+
+[v3]
+În viața mea e sărbătoare
+Și-s doar cântări neîncetat,
+Tu mi-ai adus eliberare
+Și pentru veci m-ai vindecat.
+
+[v4]
+Domnește, Doamne, pe vecie
+În templul Tău, prin Duhul Sfânt,
+Până când sus, în veșnicie,
+Mă vei chema de pe pământ!

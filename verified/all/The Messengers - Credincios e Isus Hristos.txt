@@ -1,0 +1,27 @@
+[title]
+Credincios e Isus Hristos {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {f7vF2M9D8viDoPqVV7CGnx}, contentHash: {43e72b}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când bat furtuni și viața ți-e în pericol,
+Când lipsuri năpădesc în viața ta,
+Când simți că nu mai ai nicio nădejde,
+Al Domnului Cuvânt tu nu uita!
+
+[c]
+Credincios e Isus Hristos, împlinește ce-a promis,
+Credincios e Isus Hristos, împlinește tot ce-a zis!
+
+[v2]
+Când ești lovit cu mare-nverșunare,
+Când nu-nțelegi de ce s-a întâmplat,
+Când nu mai vezi în preajmă vreo scăpare,
+Să știi că Dumnezeu nu te-a uitat!
+
+[v3]
+El ți-a promis că nu te părăsește,
+Tot El a spus să nu te temi nicicând,
+Tu ești săpat în brațul Lui prin jertfă,
+Ai mare preț, să crezi al Lui Cuvânt!

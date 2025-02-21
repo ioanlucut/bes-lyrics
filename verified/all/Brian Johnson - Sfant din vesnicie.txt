@@ -1,8 +1,8 @@
 [title]
-Sfânt din veșnicie {alternative: {*}, composer: {Brian Johnson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eTZVV7JmFf5WnH5XVyGfr4}, contentHash: {dcf95c}}
+Sfânt din veșnicie {alternative: {*}, composer: {Brian Johnson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eTZVV7JmFf5WnH5XVyGfr4}, contentHash: {b157b2}}
 
 [sequence]
-v1,p,c,v2,c,c2,p,p,c2,c2,e
+v1,p,c,v2,c,c2,p,p,c,c2,e
 
 [v1]
 Mii de generații se pleacă-n adorare
