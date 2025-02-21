@@ -1,5 +1,5 @@
 [title]
-O, ce bine e, ce voios trăiesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kuiXgFRimVrZG5Q9zyVJM8}, contentHash: {4363d8}}
+O, ce bine e, ce voios trăiesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kuiXgFRimVrZG5Q9zyVJM8}, contentHash: {a21b4a}}
 
 [sequence]
 c,v1,c,v2,c,v3,c
@@ -7,7 +7,6 @@ c,v1,c,v2,c,v3,c
 [c]
 Eu sunt sigur, sunt ocrotit la pieptul Lui,
 Eu sunt sigur când mă las pe brațul Domnului.
-
 
 [v1]
 O, ce bine e, ce voios trăiesc

@@ -1,5 +1,5 @@
 [title]
-Mă plec adânc în rugăciune {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Mă plec adânc în rugăciune {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gZQZkjePdayynf6nuGKWqK}, contentHash: {7270e5}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

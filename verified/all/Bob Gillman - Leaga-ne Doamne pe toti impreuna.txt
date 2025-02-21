@@ -1,5 +1,5 @@
 [title]
-Leagă-ne, Doamne, pe toți împreună {alternative: {*}, composer: {Bob Gillman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4988}, id: {ijuhdgWcCKygQXqLh7wiG3}, contentHash: {4be81d}}
+Leagă-ne, Doamne, pe toți împreună {alternative: {*}, composer: {Bob Gillman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4988}, id: {ijuhdgWcCKygQXqLh7wiG3}, contentHash: {2ff31d}}
 
 [sequence]
 v1,c,v1,c
