@@ -1,0 +1,14 @@
+[title]
+Deschide-mi ochii inimii, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Karis}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+/: Deschide-mi ochii inimii, Doamne,
+Deschide-mi ochii inimii,
+Vreau să Te văd, vreau să Te văd! :/
+
+[c]
+/: Să Te văd înălțat, plin de mărire și slavă,
+Arată-Ți puterea Ta, căci Tu ești sfânt, sfânt, sfânt! :/
