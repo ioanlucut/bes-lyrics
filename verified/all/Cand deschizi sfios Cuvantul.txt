@@ -1,0 +1,26 @@
+[title]
+Când deschizi sfios Cuvântul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {v3QbYuQPeVRWEtwkBxEmUn}, contentHash: {1dbb95}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Când deschizi sfios Cuvântul,
+Și-n credință îl citești,
+Găsești scrisoarea vieții de la Tatăl tău,
+Te-ntâlnește harul veșnic,
+Dragostea de pe Calvar,
+Unde Fiul a fost jertfă ca să șteargă-al tău păcat.
+
+[c]
+El e-aici, în orișice cuvânt,
+E-aici, toate filele umplând,
+Să aducă mesajul întregului pământ:
+Ești iubit de El! Ai viață! El e-aici!
+
+[v2]
+Răsfoind povestea scrisă cu viața ta,
+Totul stă drept mărturie de iubirea Sa,
+Căci povara de păcate ce ai adunat
+A fost ștearsă pe Golgota,
+Când Creatorul te-a iertat.
