@@ -1,5 +1,5 @@
 [title]
-Grâul și neghina {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Cor copii Dynamis}, genre: {*}, rcId: {*}, id: {hLUDfF9fKgyYcECeWr8WbZ}, contentHash: {028279}}
+Grâul și neghina {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Cor copii Dynamis}, genre: {*}, rcId: {*}, id: {hLUDfF9fKgyYcECeWr8WbZ}, contentHash: {5fc7f2}}
 
 [sequence]
 v1,v2,v3,v2,v3,v4,v5,v4,v6,e
@@ -7,7 +7,7 @@ v1,v2,v3,v2,v3,v4,v5,v4,v6,e
 [v1]
 Un vrăjmaș a semănat neghina-n grâu,
 Pe furiș, și-n grabă a plecat.
-Iar când gru-a răsărit, s-a arătat
+Iar când grâu-a răsărit, s-a arătat
 Și neghina, lucru greu de explicat.
 
 [v2]

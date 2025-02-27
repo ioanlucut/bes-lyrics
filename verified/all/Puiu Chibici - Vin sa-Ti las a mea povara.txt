@@ -1,0 +1,38 @@
+[title]
+Vin să-Ți las a mea povară {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hEDM1FR9TtAw7gFtbod5GS}, contentHash: {0aaef9}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Înaintea Ta eu vin,
+Bun, milos și drept Stăpân,
+Vin plecat, umil, supus,
+/: În Numele lui Isus. :/
+
+[c]
+Vin să-Ți las a mea povară,
+Nu mai știu a câta oară,
+Să Te-nduri, Părinte sfânt!
+Vin să-Ți las a mea povară,
+Nu mai știu a câta oară,
+Că-s doar un pumn de pământ.
+
+[v2]
+Apelez la mila Ta,
+Doar Tu mă poți ajuta
+Ca să trec biruitor
+Prin furtună și prin nor,
+Dă-mi, o, Doamne, ajutor!
+
+[v3]
+Sunt slab și neputincios,
+Dar Te rog, Te rog frumos,
+Doamne, să mă cercetezi,
+Să mă binecuvântezi și să mă înviorezi!
+
+[v4]
+Să pot sta în fața Ta,
+Doamne, cât de mult aș vrea!
+Să Te laud neîncetat,
+/: Căci pân’ aici m-ai ajutat! :/
