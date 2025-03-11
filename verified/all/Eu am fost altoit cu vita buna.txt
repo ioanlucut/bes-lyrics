@@ -17,10 +17,10 @@ Ce fac să crească-n viață peste noapte
 Lăstari sălbatici cu sălbatic rod.
 
 [c]
-Eu vreau să moștenesc în slavă cerul,
+/: Eu vreau să moștenesc în slavă cerul,
 Nu vreau să-mi fie alergarea în zadar
 De-aceea rabd în pace când Vierul
-Mai taie-n viața mea câte-un lăstar.
+Mai taie-n viața mea câte-un lăstar. :/
 
 [v2.1]
 N-am stat destul de veghe în lumină
