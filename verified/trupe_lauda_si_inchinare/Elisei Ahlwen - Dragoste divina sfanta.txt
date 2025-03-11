@@ -1,5 +1,5 @@
 [title]
-Dragoste divină, sfântă {alternative: {*}, composer: {Elisei Ahlwen}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1438}, id: {gTmVRdkCLDNwPnsnXu6kLF}, contentHash: {5714e6}}
+Dragoste divină, sfântă {alternative: {*}, composer: {Elisei Ahlwen}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1438}, id: {gTmVRdkCLDNwPnsnXu6kLF}, contentHash: {5bfe32}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -11,10 +11,10 @@ Ce adânc te dăruiești
 Peste vremi, aceeași ești.
 
 [c]
-/: El în cer ne va deschide
+El în cer ne va deschide
 Poarta de mărgăritar
 Și spălați prin al Lui sânge,
-Vom păși salvați prin har. :/
+Vom păși salvați prin har.
 
 [v2]
 Ca o fiară urmărită,

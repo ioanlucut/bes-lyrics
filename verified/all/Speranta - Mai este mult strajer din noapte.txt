@@ -1,35 +1,39 @@
 [title]
-Mai este mult, străjer, din noapte {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dhECkq6P4K6Yg7hnQZHv5J}, contentHash: {ec902b}}
+Mai este mult, străjer, din noapte {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dhECkq6P4K6Yg7hnQZHv5J}, contentHash: {37e796}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Mai este mult, străjer, din noapte,
+/: Mai este mult, străjer, din noapte,
 Din noaptea de-ncercare grea?
 Mi-e dor de clipa dimineții
+Că așteptarea-i tot mai grea, :/
 Că așteptarea-i tot mai grea.
 
 [c]
-Până vin zorii voi aștepta,
+/: Până vin zorii voi aștepta,
 Isuse drag venirea Ta,
 Hainele albe vreau să-mi păstrez
-Până-ai să vii am să veghez!
+Până-ai să vii am să veghez! :/
 
 [v2]
-Mai este mult, străjer, din noapte,
+/: Mai este mult, străjer, din noapte,
 Că zorile nu mai sosesc?
 Nu vreau să mă prindă somnul,
+Pe Mire vreau să-L întâlnesc, :/
 Pe Mire vreau să-L întâlnesc!
 
 [v3]
-Mai este mult, străjer, din noapte?
+/: Mai este mult, străjer, din noapte?
 Că sunt atât de obosit!
 Nu vreau să stau în neveghere
+Când vine Mirele iubit, :/
 Când vine Mirele iubit.
 
 [v4]
-Mai este mult, străjer, din noapte,
+/: Mai este mult, străjer, din noapte,
 Să-mi cânt cântarea mea de dor?
 Mai sus de galaxii și stele,
+Va fi o turmă și-un Păstor, :/
 Va fi o turmă și-un Păstor.

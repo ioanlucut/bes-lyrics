@@ -1,5 +1,5 @@
 [title]
-Timpul fuge fără noi {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kcn97dr9YR3FWVS39ATpUa}, contentHash: {e4233e}}
+Timpul fuge fără noi {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kcn97dr9YR3FWVS39ATpUa}, contentHash: {194e07}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -17,12 +17,11 @@ Suntem prea obișnuiți,
 Suntem poate prea robiți de ce-avem.
 
 [c]
-Vine Isus!
+/: Vine Isus!
 Cine-i gata de plecare se uită-n sus,
 Vede slava Lui cea mare
 Și de va cădea, se va ridica,
-Dacă e predată toată inima.
-Vine Isus!
+Dacă e predată toată inima. :/
 
 [v2.1]
 Pe Isus noi Îl iubim,
