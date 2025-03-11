@@ -1,5 +1,5 @@
 [title]
-Timpul fuge fără noi {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kcn97dr9YR3FWVS39ATpUa}, contentHash: {e4233e}}
+Timpul fuge fără noi {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kcn97dr9YR3FWVS39ATpUa}, contentHash: {194e07}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
