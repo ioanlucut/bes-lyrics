@@ -1,5 +1,5 @@
 [title]
-Da, s-a isprăvit {alternative: {It is Finished}, composer: {William J. Gaither}, writer: {William J. și Gloria Gaither}, arranger: {Camp Kirkland}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {gK39dbrRJgmN3BESUoaPyT}, contentHash: {11ba11}}
+Da, s-a isprăvit {alternative: {It is Finished}, composer: {William J. Gaither}, writer: {William J. și Gloria Gaither}, arranger: {Camp Kirkland}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {gK39dbrRJgmN3BESUoaPyT}, contentHash: {4b1bf4}}
 
 [sequence]
 v1.1,v1.2,v1.3,c,v2.1,v2.2,c2,e
@@ -35,7 +35,7 @@ Cât de grele-ar fi luptele mele,
 Mă încred în Isus, e-al meu Domn!
 
 [v2.2]
-Cred că Isus, Domnul vieții,
+O, da eu cred că Isus, Domnul vieții,
 A luptat pentru mine întâi,
 Victoria-I pe veci am primit-o,
 Glorie Lui, pentru veci am învins!

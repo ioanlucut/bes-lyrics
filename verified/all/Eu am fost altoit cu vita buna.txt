@@ -1,5 +1,5 @@
 [title]
-Eu am fost altoit cu viță bună {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rvKP4duAN26LuX3GaVRdD1}, contentHash: {fd2ffe}}
+Eu am fost altoit cu viță bună {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rvKP4duAN26LuX3GaVRdD1}, contentHash: {295356}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c2,v3.1,v3.2,c3
@@ -17,10 +17,10 @@ Ce fac să crească-n viață peste noapte
 Lăstari sălbatici cu sălbatic rod.
 
 [c]
-Eu vreau să moștenesc în slavă cerul,
+/: Eu vreau să moștenesc în slavă cerul,
 Nu vreau să-mi fie alergarea în zadar
 De-aceea rabd în pace când Vierul
-Mai taie-n viața mea câte-un lăstar.
+Mai taie-n viața mea câte-un lăstar. :/
 
 [v2.1]
 N-am stat destul de veghe în lumină

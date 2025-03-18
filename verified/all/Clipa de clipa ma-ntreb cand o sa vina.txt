@@ -1,0 +1,23 @@
+[title]
+Clipă de clipă mă-ntreb: când o să vină? {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1EGSChnvLrzvV51VjnZD6R}, contentHash: {4cd726}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Clipă de clipă mă-ntreb: când o să vină?
+Sunt copleșit de dor și Îl aștept!
+Spre infinitele zări și spre lumină
+Mereu tăcutele doruri eu mi le-ndrept.
+
+[c]
+/: Dar știu și cred că Domnul meu e foarte aproape,
+E chiar pe drum și în curând va reveni!
+Va risipi orice dureri și-n glas de șoapte
+Noi vom pleca spre infinit nedespărțiți! :/
+
+[v2]
+De strălucire atunci se va umple zarea
+Când se va-ntoarce Isus ca un răspuns
+La lacrimi, la dor, la suspin și la așteptarea
+Celor ce L-au iubit de pe pământ.

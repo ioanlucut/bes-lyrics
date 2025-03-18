@@ -1,5 +1,5 @@
 [title]
-Tu nu pleci niciodată de la mine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {syxXC1y5AGyLXBE1Wz8GTa}, contentHash: {dc8a59}}
+Tu nu pleci niciodată de la mine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {syxXC1y5AGyLXBE1Wz8GTa}, contentHash: {ceec37}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7
@@ -7,41 +7,41 @@ v1,v2,v3,v4,v5,v6,v7
 [v1]
 Nu nu pleci niciodată de la mine
 Și nicio clipă singur nu mă lași,
-Tu ești mereu puterea ce mă ține
-Din cel dintâi la cel din urmă pas.
+/: Tu ești mereu puterea ce mă ține
+Din cel dintâi la cel din urmă pas. :/
 
 [v2]
 Tu nu mă lași și nu mă uiți vreodată,
 Străbat cu Tine munți înalți și văi,
-Chiar prin necazuri dacă trec vreodată,
-Cu Tine-alături am să fiu pe veci.
+/: Chiar prin necazuri dacă trec vreodată,
+Cu Tine-alături am să fiu pe veci. :/
 
 [v3]
 Cu Tine și rănit străbat cărarea,
 Cu Tine eu veghez în ceas târziu,
-Când Tu mă mustri, simt adânc mustrarea
-Și când Te bucuri totdeauna știu.
+/: Când Tu mă mustri, simt adânc mustrarea
+Și când Te bucuri totdeauna știu. :/
 
 [v4]
 Tu nu mă lași fără de siguranță
 Și ești mereu cu mine ca o stea,
-Mi-ai pus în suflet, Doamne, o speranță
-Cum nu e nimeni să mi-o poată da.
+/: Mi-ai pus în suflet, Doamne, o speranță
+Cum nu e nimeni să mi-o poată da. :/
 
 [v5]
 Purtat-am o povară de păcate,
 Dar sângele salvării le-a spălat.
-Tu m-ai scăpat de toate, da, de toate,
-Știu bine că pe toate le-ai uitat.
+/: Tu m-ai scăpat de toate, da, de toate,
+Știu bine că pe toate le-ai uitat. :/
 
 [v6]
 Sunt fericit chiar dacă vrei să sufăr
 Când valuri vin și vânturi grele bat.
-Plutesc pe ape ca un fir de nufăr
-Pe care Tu-l păstrezi mereu curat.
+/: Plutesc pe ape ca un fir de nufăr
+Pe care Tu-l păstrezi mereu curat. :/
 
 [v7]
 Îți mulțumesc că ești cu mine-n lume,
 Îți mulțumesc că m-ai iubit mereu,
-Îți mulțumesc că Tu mi-ai dat un nume
-De copilaș iubit de Dumnezeu!
+/: Îți mulțumesc că Tu mi-ai dat un nume
+De copilaș iubit de Dumnezeu! :/

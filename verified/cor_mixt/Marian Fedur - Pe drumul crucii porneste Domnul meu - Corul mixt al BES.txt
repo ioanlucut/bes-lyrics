@@ -1,5 +1,5 @@
 [title]
-Pe drumul crucii pornește Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {mGTYZpvmq41J3HgP1qcTTc}, contentHash: {a011a9}}
+Pe drumul crucii pornește Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {mGTYZpvmq41J3HgP1qcTTc}, contentHash: {456127}}
 
 [sequence]
 v1,c,v2,c,v3
@@ -20,8 +20,7 @@ Isus Te cheamă astăzi, în ultim ceas de har!
 Jertfirea Sa e ca un viu izvor,
 În lume nu-i nimeni mai iubitor.
 În veșnicii n-avem nimic mai sfânt,
-Dragostea Sa e tot ce-avem
-Mai scump pe-acest pământ.
+Dragostea Sa e tot ce-avem pe-acest pământ.
 
 [v3]
 Stăm împreună slăvind iubirea Sa

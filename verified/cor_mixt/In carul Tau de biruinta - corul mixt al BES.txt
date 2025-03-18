@@ -1,5 +1,5 @@
 [title]
-În carul Tău de biruință {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {cNLdMLPsM1zmNSCGD37rFs}, contentHash: {f9b31d}}
+În carul Tău de biruință {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {cNLdMLPsM1zmNSCGD37rFs}, contentHash: {a93952}}
 
 [sequence]
 v1,c,v2,c,v3,c,e
@@ -32,5 +32,5 @@ Isuse ne-ai călăuzit.
 Ne-om vedea la răpire,
 Sus la mare întâlnire,
 Îmbrăcați în nemurire,
-/: Cu Isus, Preasfântul Mire :/
+Cu Isus, Preasfântul Mire
 Ne-om vedea!

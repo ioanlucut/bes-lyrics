@@ -1,0 +1,29 @@
+[title]
+Nu există mai presus un alt Nume ca Isus {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hWa76ZJbbM5GZNZzy5BaSj}, contentHash: {a1b139}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu există mai presus un alt Nume ca Isus,
+Un alt Nume mai de preț ca acest Nume măreț.
+E cu mine-n orice loc, trec cu El prin fum și foc,
+Iar când crucea-mi este grea, mă ajută dreapta Sa.
+
+[c]
+Pot totul în Hristos, care mă întărește,
+‘N-acest Nume frumos ce nu mă părăsește.
+Pot totul în Hristos, care mă întărește,
+‘N-acest Nume frumos ce nicicând nu mă părăsește.
+
+[v2]
+Nu-i ispită să n-o-nving, nici vreun țel să nu-l ating,
+Cine-n cale-mi poate sta când El e de partea mea?
+Eu pe El mă bizuiesc și în toate izbutesc,
+Și-orice obstacol aș avea, ne-ncetat voi spune-așa:
+
+[v3]
+Frate, soră nu uita: Domnul e tăria ta
+Și-n dureri și-n strâmtorări de la El primești puteri!
+Pleacă-te când treci prin greu, strigă către Dumnezeu,
+Crede, nu descuraja, și mereu spune așa:
