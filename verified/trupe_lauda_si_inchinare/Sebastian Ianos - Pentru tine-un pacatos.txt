@@ -1,5 +1,5 @@
 [title]
-Pentru tine-un păcătos {alternative: {*}, composer: {Sebastian Ianoș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jZUXVuHpicurhnx6oF8mKM}, contentHash: {fffe33}}
+Pentru tine-un păcătos {alternative: {*}, composer: {Sebastian Ianoș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jZUXVuHpicurhnx6oF8mKM}, contentHash: {f6fa93}}
 
 [sequence]
 v1,c,v2,c

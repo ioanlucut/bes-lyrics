@@ -1,5 +1,5 @@
 [title]
-El e puternic Domn {alternative: {*}, composer: {Teo Palincaș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+El e puternic Domn {alternative: {*}, composer: {Teo Palincaș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fS2T1ZBpTFseNj1AcPPyDY}, contentHash: {df0d2f}}
 
 [sequence]
 v1.1,v1.2,c,v2,b1.1,b1.2,c

@@ -1,5 +1,5 @@
 [title]
-Nu te teme {alternative: {*}, composer: {Paul Onitiu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Nu te teme {alternative: {*}, composer: {Paul Onitiu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pRQ8LBoXPRg9w2MJApccN6}, contentHash: {fca8c8}}
 
 [sequence]
 v1,p,c,v2,p,c

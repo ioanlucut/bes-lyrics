@@ -1,5 +1,5 @@
 [title]
-Odată L-am văzut trecând {alternative: {Blândul Păstor}, composer: {Nicolae Moldoveanu}, writer: {Traian Dorz}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Odată L-am văzut trecând {alternative: {Blândul Păstor}, composer: {Nicolae Moldoveanu}, writer: {Traian Dorz}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {r71xnnenMhZPpjNtEyur4g}, contentHash: {974471}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,v9
