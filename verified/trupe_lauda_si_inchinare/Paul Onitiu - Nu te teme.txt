@@ -1,0 +1,27 @@
+[title]
+Nu te teme {alternative: {*}, composer: {Paul Onitiu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1,p,c,v2,p,c
+
+[v1]
+I-ai spus lui Daniel: „Nu te teme,
+Sunt cu tine și te-am ascultat!”
+I-ai spus lui Iosua: „Nu te teme,
+Sunt cu tine, fii îmbărbătat!”
+
+[p]
+Ai fost cu ei, ești și cu mine,
+Le-ai spus și lor, îmi spui și mie!
+
+[c]
+/: „Nu te teme, Eu sunt Cel dintâi, Cel veșnic,
+Nu te teme, Eu sunt Cel viu și puternic!
+Cheile morții le țin în mâna Mea,
+Viața ta o țin în mâna Mea!” :/
+
+[v2]
+I-ai spus lui Israel: „Nu te teme,
+Te-ntăresc și-ți vin în ajutor!”
+Le-ai spus și celor slabi: „Nu vă temeți,
+Mâinile vi le voi întări!”

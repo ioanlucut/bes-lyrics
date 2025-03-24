@@ -1,0 +1,36 @@
+[title]
+El e puternic Domn {alternative: {*}, composer: {Teo Palincaș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,c,v2,b1.1,b1.2,c
+
+[v1.1]
+Când încercarea e prea mare
+Și simți că parcă te doboară,
+Nu renunța, dacă ești cu Isus vei câștiga!
+
+[v1.2]
+Când încercarea e prea mare
+Și întunericul te-nconjoară,
+Nu renunța, dacă ești al Lui cu-adevărat!
+
+[c]
+/: El e puternic Domn, El Shaddai,
+El e puternic Domn, Adonai!
+El e puternic Domn, Iehova-Ire,
+El e puternic Domn, Elohim! :/
+
+[v2]
+Aruncați asupra Lui toate-ngrijorările voastre,
+Nu renunța, dacă ești cu Isus vei câștiga!
+Aruncați asupra Lui toate-ngrijorările voastre,
+Nu renunța, dacă ești al Lui cu-adevărat!
+
+[b1.1]
+Când încercarea e prea mare
+Și simți că parcă te doboară,
+Nu renunța, nu renunța!
+
+[b1.2]
+/: Isus nu lasă copiii Lui niciodată părăsiți,
+Isus nu lasă copiii Lui niciodată singuri! :/
