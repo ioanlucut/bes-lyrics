@@ -1,0 +1,59 @@
+[title]
+Odată L-am văzut trecând {alternative: {Blândul Păstor}, composer: {Nicolae Moldoveanu}, writer: {Traian Dorz}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {r71xnnenMhZPpjNtEyur4g}, contentHash: {974471}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9
+
+[v1]
+Odată L-am văzut trecând
+Cu turma, pe Păstorul blând.
+/: Mergea cu turma la izvor,
+Blândul Păstor. :/
+
+[v2]
+Pe-o oaie, ce căzuse jos,
+A ridicat-o El, duios,
+/: Și-a luat-o-n brațe iubitor,
+Blândul Păstor. :/
+
+[v3]
+Pe alta, care la pământ,
+Zăcea cu piciorușul frânt,
+/: El o legă mângâietor,
+Blândul Păstor. :/
+
+[v4]
+Iar mai târziu L-am întâlnit
+Cu spini era împodobit,
+/: Într-o mulțime de popor,
+Blândul Păstor. :/
+
+[v5]
+Când L-am văzut, L-am întrebat:
+Cine sunt cei ce L-au scuipat?
+/: Iar El a suspinat ușor,
+Blândul Păstor. :/
+
+[v6]
+Și mi-a răspuns duios și lin:
+„Cei ce Mi-au pus cununi de spini
+/: Sunt cei cărora iubitor
+Le-am fost Păstor. :/
+
+[v7]
+Iar cei ce Mă batjocoresc
+Și crucea ei mi-o pregătesc
+/: Sunt oile ce le-am fost lor
+Un bun Păstor. :/
+
+[v8]
+Iar cei ce Mă lovesc turbat
+Sunt oile care pe braț
+/: Le-am dus la câmp și la izvor
+Ca un Păstor.” :/
+
+[v9]
+Atunci oile au venit
+Pe cruce sus L-au răstignit.
+/: Iar El plângea de mila lor,
+Blândul Păstor. :/

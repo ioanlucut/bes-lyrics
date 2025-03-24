@@ -1,0 +1,35 @@
+[title]
+Unde să plec de lângă Tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4mtB8gEHAbS46HbUDNH21T}, contentHash: {d0d56a}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Unde să plec de lângă Tine,
+Hristos, Hristos unde să plec?
+/: Unde să-mi caut fericirea
+Și pacea unde s-o găsesc? :/
+
+[v2]
+Cine-o să-mi spună adevărul,
+Puterea cine să mi-o dea
+/: Ca să mai simt iubirea sfântă,
+S-o pot vesti și altora? :/
+
+[v3]
+Eu n-o să merg acolo unde
+Cei răi petrec în desfătări!
+/: Acolo-s toate niște umbre
+Și zile negre fără zări! :/
+
+[v4]
+Și cum lumina-ncet se stinge
+Și frunzele de toamnă cad,
+/: La fel sfârșitul și-l vor plânge
+Cei ce Cuvântu-au neglijat! :/
+
+[v5]
+Unde să plec de lângă Tine,
+Hristos, Hristos unde să plec?
+/: Căci lângă Tine-i fericire
+Și veșnicia eu primesc! :/

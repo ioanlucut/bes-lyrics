@@ -1,5 +1,5 @@
 [title]
-Trece Isus pe-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58795}, id: {gx2mXwWG4dntZWxnzKxurZ}, contentHash: {95aec7}}
+Trece Isus pe-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58795}, id: {gx2mXwWG4dntZWxnzKxurZ}, contentHash: {a139e8}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -11,10 +11,10 @@ Astăzi e clipa hotărâtoare,
 Trece Isus pe-aici.
 
 [c]
-Trece Isus pe-aici,
+/: Trece Isus pe-aici,
 Trece Isus pe-aici,
 Cheamă-L și cere-I îndurare,
-Trece Isus pe-aici.
+Trece Isus pe-aici. :/
 
 [v2]
 Vei refuza marea Sa iubire

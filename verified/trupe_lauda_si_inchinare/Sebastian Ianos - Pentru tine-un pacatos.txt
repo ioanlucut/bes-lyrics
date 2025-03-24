@@ -1,5 +1,5 @@
 [title]
-Pentru tine-un păcătos {alternative: {*}, composer: {Sebastian Ianoș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jZUXVuHpicurhnx6oF8mKM}, contentHash: {fffe33}}
+Pentru tine-un păcătos {alternative: {*}, composer: {Sebastian Ianoș}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jZUXVuHpicurhnx6oF8mKM}, contentHash: {f6fa93}}
 
 [sequence]
 v1,c,v2,c
@@ -19,5 +19,5 @@ Ca să moară pentru tine! :/
 [v2]
 Căci acum, când tu dorești, pe Isus ca să-L primești,
 Tu-n dragoste să stai ca-n lume să nu te pierzi
-Și-n veșnică iubire, cu Isus,
-Să fii mereu doar o lumină vie!
+Și-n veșnică iubire, cu Isus să fii mereu
+Doar o lumină vie!

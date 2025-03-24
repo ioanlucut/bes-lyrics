@@ -1,5 +1,5 @@
 [title]
-Voi cânta bunătatea Ta {alternative: {*}, composer: {Revive}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ee7yEZSdPDXZ6rQtxge8jT}, contentHash: {91a14d}}
+Voi cânta bunătatea Ta {alternative: {*}, composer: {Revive}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ee7yEZSdPDXZ6rQtxge8jT}, contentHash: {5cf97b}}
 
 [sequence]
 v1,v2,c,v3,v4,c2,b,c2
@@ -35,7 +35,7 @@ Voi vesti minunile Tale,
 Voi lăuda credincioșia Ta din neam în neam! :/
 
 [b]
-/: Atunci Îți cânt, Măreț Stăpânitor,
+Atunci Îți cânt, Măreț Stăpânitor,
 Ce mare ești, ce mare ești!
 Atunci Îți cânt, Măreț Stăpânitor,
-Ce mare ești, ce mare ești! :/
+Ce mare ești, ce mare ești!

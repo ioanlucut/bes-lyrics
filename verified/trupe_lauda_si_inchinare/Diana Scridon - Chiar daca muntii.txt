@@ -1,5 +1,5 @@
 [title]
-Chiar dacă munții {alternative: {*}, composer: {Diana Scridon}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {210581}, id: {mSrCgCUxHZWWxjJZe36LWE}, contentHash: {f3d750}}
+Chiar dacă munții {alternative: {*}, composer: {Diana Scridon}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {210581}, id: {mSrCgCUxHZWWxjJZe36LWE}, contentHash: {2b9e23}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -14,7 +14,7 @@ Când pământul se destramă.
 El e Ancora când vânturi bat
 Pe marea vieții ce o străbat.
 Doar El mă întărește
-Când furtuna se întețește.
+Când furtuna se-ntețește.
 
 [c]
 /: Chiar dacă munții s-ar cutremura,
