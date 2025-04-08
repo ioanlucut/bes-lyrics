@@ -1,5 +1,5 @@
 [title]
-Nimic nu e cu neputință {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {a3fyLNzaBocfybDCH7cT5L}, contentHash: {e91e2f}}
+Nimic nu e cu neputință {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {a3fyLNzaBocfybDCH7cT5L}, contentHash: {3e4940}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -27,7 +27,7 @@ Să simți cum îți veghează somnul,
 [v3]
 De rabzi și stai în ascultare,
 Nu te doboară vreo-ncercare,
-Nu te-nvinge vro ispită
+Nu te-nvinge vreo ispită
 Că-a fost pe cruce biruită.
 
 [v4]

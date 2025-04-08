@@ -1,0 +1,35 @@
+[title]
+Oricât de mare-i lupta {alternative: {*}, composer: {Simion Boloca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1mnXBok92WEPs5jfmx1wwm}, contentHash: {ea142e}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Oricât de mare-i lupta,
+Să nu ne dăm bătuți!
+Cu El avem izbânda
+Prin post și rugăciuni.
+
+[c]
+/: Strigați străjeri :/ trezire,
+/: Vine Isus :/ ca Mire!
+/: Acest pământ :/ noi vom lăsa,
+Vom fi cu Mesia!
+
+[v2]
+Sunt vești de boli, războaie,
+Mai multe ca oricând,
+Ce-aduc semnale clare:
+Isus vine-n curând!
+
+[v3]
+Toți sfinții împreună,
+Spre cer se vor ‘nălța,
+Când trâmbița suna-va,
+Mireasa va pleca.
+
+[v4]
+Ești pregătit tu, frate,
+Să-L poți întâmpina?
+Pe Cel ce-a făcut totul
+Să poți a Îl urma?

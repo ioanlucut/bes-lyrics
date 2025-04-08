@@ -1,5 +1,5 @@
 [title]
-Ține-mă în mâna Ta {alternative: {*}, composer: {Haidaciuc Guțu și Stelică Strugariu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {amr6rZs4SoLDKchb3kBwQ9}, contentHash: {c5e8c3}}
+Ține-mă în mâna Ta {alternative: {*}, composer: {Haidaciuc Guțu și Stelică Strugariu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {amr6rZs4SoLDKchb3kBwQ9}, contentHash: {c67349}}
 
 [sequence]
 v1,c,v2,c,v3,c,c
@@ -13,7 +13,7 @@ Prin orice furtuni ar fi să trec!
 [c]
 Tu minuni mai poți să faci, poruncește mării: „Taci!”,
 Te va asculta furtuna, vântul,
-Te-ascultă ploile, se opresc valurile,
+Te ascultă ploile, se opresc valurile,
 Se supune-n fața Ta pământul.
 
 [v2]

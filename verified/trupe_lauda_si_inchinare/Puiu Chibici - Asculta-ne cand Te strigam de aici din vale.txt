@@ -1,0 +1,35 @@
+[title]
+Ascultă-ne când Te strigăm de aici din vale {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kjX4JwzYMJpC3cixhyD6LW}, contentHash: {859f2b}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ascultă-ne când Te strigăm de aici din vale
+Și Te chemăm pe Tine, scump Mântuitor!
+Și din locașul sfânt al locuinței Tale
+Trimite-ne, o, Doamne, ajutor!
+
+[c]
+Ascultă-ne din ceruri,
+Ascultă-ne, căci greul ne-a răpus!
+Nu-i nimeni să ne aducă mângâiere,
+Ascultă-ne și-ndură-Te, Isus!
+
+[v2]
+Ca Tine nu e nimenea în astă lume,
+Milos și bun, îndurător și iertător,
+Sudori și lacrimi în burduf ca să adune
+Și-n brațe să ne ducă, bun Păstor.
+
+[v3]
+Ascultă strigătul de dor și disperare
+Al copilașilor săraci, nevinovați,
+Căci Tu ești singurul ce-aduce alinare
+Celor ce n-au fost nicicând mângâiați!
+
+[v4]
+Am îndrăznit la poala crucii Tale sfinte,
+Nevrednici, slabi și de păcate-mpovărați,
+Să Te rugăm, Isuse drag, să iei aminte
+La tot ce azi cu lacrimi Te-am rugat.

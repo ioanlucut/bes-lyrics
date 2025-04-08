@@ -1,0 +1,35 @@
+[title]
+Nu mai este mult și Isus va apărea pe nori {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qeYZ35R8ajW6eorYcgLzTQ}, contentHash: {318531}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+/: Nu mai este mult :/
+Și Isus va apărea pe nori,
+/: Nu mai este mult :/
+Și-L vom întâmpina biruitori!
+
+[c]
+/: Isus revine să ne ia la El,
+El este Mirele, Emanuel.
+El ne va duce în eternul rai
+Și cu toții vom cânta: aleluia! :/
+
+[v2]
+/: Nu mai este mult :/
+Și durerile se vor sfârși,
+/: Nu mai este mult :/
+Și Isus Hristos va-mpărăți!
+
+[v3]
+/: Nu mai este mult, :/
+Vom păși pe marea de cristal,
+/: Nu mai este mult :/
+Și vom călca toți pe aur curat.
+
+[v4]
+/: Nu mai este mult, :/
+Dar până-atunci trebuie să luptăm!
+/: Nu mai este mult, :/
+Cununa veșnică să purtăm!
