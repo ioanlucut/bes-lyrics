@@ -1,0 +1,39 @@
+[title]
+Altarele Tale, Doamne, sunt dărâmate {alternative: {*}, composer: {Emanuel Piroșcă}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Altarele Tale, Doamne,
+Altarele Tale, Doamne, sunt dărâmate,
+Poporu-i rob și jertfele sunt curmate.
+Porțile sunt arse toate, zidurile sunt dărâmate
+/: Și vasele Tale de cinste dușmanul le-a ars pe toate. :/
+
+[c]
+/: Caut un om, un om în întreaga țară,
+Să iasă noaptea și să se-nchine-afară,
+Să îi vorbesc ca lui Avraam prima oară
+Și voia Mea să nu i se pară povară. :/
+
+[v2]
+În templul Tău, o, Doamne,
+Din templul Tău podoabele au fost furate,
+Preoții-s robi, cădelnițele-au fost luate.
+Țara e pustiită, familiile sunt dezbinate
+/: Și tot ce au zis prorocii astăzi e realitate. :/
+
+[v3]
+Privește-Ți, o, Doamne, poporul,
+Privește-l și adu-ți aminte
+Că-n templul Tău slujbele erau sfinte!
+Nu mai avem bucuria, nu mai vedem veșnicia,
+/: Oprește-Ți, o, Doamne, mânia, salvează Tu România! :/
+
+[v4]
+Vrem să-Ți urmăm azi chemarea,
+Vrem să ieșim și să ne-nchinăm,
+Și din Sion până-n Carpați, Tu să ne faci pe toți frați!
+Întărește-ne Tu azi chemarea, continuă-Ți Tu azi lucrarea
+/: Și vocea Ta blândă și sfântă să facă din nou azi chemarea! :/
