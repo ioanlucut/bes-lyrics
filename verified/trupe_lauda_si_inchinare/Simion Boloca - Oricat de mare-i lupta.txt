@@ -1,5 +1,5 @@
 [title]
-Oricât de mare-i lupta {alternative: {*}, composer: {Simion Boloca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Oricât de mare-i lupta {alternative: {*}, composer: {Simion Boloca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1mnXBok92WEPs5jfmx1wwm}, contentHash: {ea142e}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

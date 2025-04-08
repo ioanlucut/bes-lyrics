@@ -1,5 +1,5 @@
 [title]
-Ascultă-ne când Te strigăm de aici din vale {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, contentHash: {*}}
+Ascultă-ne când Te strigăm de aici din vale {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kjX4JwzYMJpC3cixhyD6LW}, contentHash: {859f2b}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

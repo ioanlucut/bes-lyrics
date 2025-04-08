@@ -1,5 +1,5 @@
 [title]
-Ce dar măreț e Isus, Salvatorul {alternative: {Yet Not I But through Christ In Me}, composer: {Jonny Robinson}, writer: {Corneliu Matei}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188896}, id: {tJxG51TYMYD9wuJ7be4ZVF}, contentHash: {523f00}}
+Ce dar măreț e Isus, Salvatorul {alternative: {Yet Not I But through Christ In Me}, composer: {Jonny Robinson}, writer: {Corneliu Matei}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {188896}, id: {tJxG51TYMYD9wuJ7be4ZVF}, contentHash: {10c22d}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8,e
