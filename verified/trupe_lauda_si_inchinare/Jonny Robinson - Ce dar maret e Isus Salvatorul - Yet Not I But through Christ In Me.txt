@@ -53,5 +53,5 @@ Când se va termina alergarea voi striga:
 „Sunt al Tău, Ți-aparțin pe veci!” :/
 
 [e]
-/: Când se va termina alergarea voi striga:
-„Sunt al Tău, Ți-aparțin pe veci!” :/ (x3)
+Când se va termina alergarea voi striga:
+/: „Sunt al Tău, Ți-aparțin pe veci!” :/

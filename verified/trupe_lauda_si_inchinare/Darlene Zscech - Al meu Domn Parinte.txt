@@ -5,11 +5,11 @@ Al meu Domn, Părinte {alternative: {*}, composer: {Darlene Zscech}, writer: {*}
 v1.1,v1.2,c1.1,c1.2,v1.1,v1.2,c1.1,c1.2,e
 
 [v1.1]
-Al meu Domn, Părinte, nimeni ca Tine nu e.
+Al meu Domn, Părinte, nimeni ca Tine nu e,
 Cât voi trăi, Îți voi slăvi lucrarea mâinilor Tale.
 
 [v1.2]
-Refugiu, scăpare, în brațul Tău eu găsesc.
+Refugiu, scăpare în brațul Tău eu găsesc,
 Cu viața mea, cu tot ce am totdeauna laudă-Ți voi da.
 
 [c1.1]
