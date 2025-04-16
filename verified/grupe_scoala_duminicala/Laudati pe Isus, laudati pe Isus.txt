@@ -1,0 +1,22 @@
+[title]
+Lăudați pe Isus, lăudați pe Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v1,v2,e
+
+[v1]
+Lăudați pe Isus, lăudați pe Isus,
+Cu braț puternic El domnește,
+Lăudați pe Isus, lăudați pe Isus!
+Suntem poporul ce-L iubește.
+
+[v2]
+Suntem poporul Celui ce-a-nviat,
+El este Rege, Isus ne-a salvat;
+Și din nou vă spun:
+
+[e]
+Lăudați pe Isus, lăudați pe Isus,
+Cu braț puternic El domnește,
+Lăudați pe Isus, lăudați pe Isus!
+:/ Suntem poporul ce-L iubește. :/

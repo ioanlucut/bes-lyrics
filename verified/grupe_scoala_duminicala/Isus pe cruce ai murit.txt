@@ -1,0 +1,16 @@
+[title]
+Isus pe cruce ai murit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v1,c,e
+
+[v1]
+Isus, pe cruce ai murit, ai înviat, m-ai mântuit,
+Iartă-mi acum păcatul greu și vreau să fii Tu Domnul meu!
+
+[c]
+/: Schimbă-mi Tu viața mea și ajută-mă a Te urma! :/
+
+[e]
+Schimbă-mi Tu viața mea
+Și ajută-mă a Te … a Te urma, a Te urma!
