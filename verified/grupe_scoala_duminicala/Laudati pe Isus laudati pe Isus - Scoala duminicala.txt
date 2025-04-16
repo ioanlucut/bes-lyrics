@@ -1,5 +1,5 @@
 [title]
-Lăudați pe Isus, lăudați pe Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Lăudați pe Isus, lăudați pe Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Școala duminicală}, genre: {*}, rcId: {*}, id: {mz2fWcVgoLkBCyWyqAbc2u}, contentHash: {ae2e68}}
 
 [sequence]
 v1,v2,v1,v2,e
