@@ -1,0 +1,29 @@
+[title]
+Mântuirea-i imnul ce se-aude din Calvar {alternative: {Imnul iubirii din Calvar}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oB1Hyq7VzSsn3WAZQeApsk}, contentHash: {58f53d}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe un deal de pe o cruce,
+Din durere și din chin,
+Jertfa sfântă ‘nalță imnul
+Harului ceresc, divin.
+
+[c]
+/: Mântuirea-i imnul ce se-aude din Calvar,
+Străbate peste veacuri omenirea cu-al ei har
+Ca oricine crede să aibă viață veșnică în dar;
+Și pentru tine cântă crucea imnul iubirii din Calvar. :/
+
+[v2]
+Într-o zi și eu în viață,
+Auzind acest imn sfânt,
+Am răspuns chemării Sale,
+Și-acum despre El eu cânt.
+
+[v3]
+Vrednic ești de cinste, Doamne,
+Mi-ai deschis ușa de har;
+Prin credință, pocăință,
+Moștenesc cerul în dar.
