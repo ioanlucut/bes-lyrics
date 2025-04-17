@@ -1,5 +1,5 @@
 [title]
-Mântuirea-i imnul ce se-aude din Calvar {alternative: {Imnul iubirii din Calvar}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Mântuirea-i imnul ce se-aude din Calvar {alternative: {Imnul iubirii din Calvar}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {oB1Hyq7VzSsn3WAZQeApsk}, contentHash: {58f53d}}
 
 [sequence]
 v1,c,v2,c,v3,c
