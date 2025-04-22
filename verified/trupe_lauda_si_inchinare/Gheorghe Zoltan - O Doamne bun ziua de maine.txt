@@ -1,0 +1,29 @@
+[title]
+O, Doamne bun, ziua de mâine {alternative: {*}, composer: {Gheorghe Zoltan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jHfZDZX6WxNZvsCVad5zUx}, contentHash: {3b0b81}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, Doamne bun, ziua de mâine
+Nu e a noastră, ci e a Ta,
+Toți anii vieții ce au să vie
+Îi dau, Stăpâne, în mâna Ta.
+
+[c]
+/: În mâinile Tale îmi pun viitorul
+Căci știu doar la Tine e dulce, sublim!
+Dar vai de viața trăită departe
+De Tine, o, Doamne, devine un chin! :/
+
+[v2]
+Și dacă azi mai sunt în casa
+Unde-am găsit atâta har,
+Stăpâne bun, e numai mâna
+Ce-a fost străpunsă pe Calvar.
+
+[v3]
+Nu poți clădi cu lemn și paie
+Un viitor mai luminos,
+Dar am rugat pe-un Meșter mare,
+E Domnul meu, Isus Hristos.

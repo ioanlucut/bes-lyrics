@@ -1,8 +1,8 @@
 [title]
-În acea zi, când boldul morții {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213168}, id: {7VSrpVUxsYohi5XxZZ4QkS}, contentHash: {31de43}}
+În acea zi, când boldul morții {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213168}, id: {7VSrpVUxsYohi5XxZZ4QkS}, contentHash: {e6211e}}
 
 [sequence]
-v1.1,v1.2,c,v2,c,b,v3,c
+v1.1,v1.2,c,v2,c,b,c,v3,c2
 
 [v1.1]
 În acea zi, când boldul morții
@@ -13,13 +13,13 @@ S-a-ntunecat.
 [v1.2]
 Fruntea Lui purta coroana
 Regelui ce-a luat pedeapsa mea.
-N-a spus nimic, iubind nespus,
+N-a spus nimic, iubind nespus
 Murea Isus.
 
 [c]
-Crucea Lui, salvarea mea,
+Crucea Lui - salvarea mea,
 Azi trăiesc prin jertfa Sa.
-Sângele Lui m-a curățit,
+Sângele-I m-a curățit,
 El rămâne apărarea mea.
 
 [v2]
@@ -29,13 +29,17 @@ Am fost salvați, descătușați,
 Eliberați.
 
 [b]
-Aleluia, Aleluia,
-Isus a-nviat!
-Aleluia, Aleluia,
-El e înălțat!
+Aleluia, aleluia, Isus a-nviat,
+Aleluia, aleluia, El e înălțat!
 
 [v3]
 Într-o zi, El se va-ntoarce,
 Revelând deplin domnia Sa.
 Când Numele-I vom auzi
-Ne vom pleca!
+Ne vom pleca.
+
+[c2]
+/: Crucea Lui - salvarea mea,
+Azi trăiesc prin jertfa Sa.
+Sângele-I m-a curățit,
+El rămâne apărarea mea. :/

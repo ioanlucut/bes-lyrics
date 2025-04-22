@@ -1,5 +1,5 @@
 [title]
-Tu ești cel tare! {alternative: {*}, composer: {Chris Tomlin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167046}, id: {gpHosp4Ydpn5HDpAHf5UVn}, contentHash: {c61777}}
+Tu ești cel tare! {alternative: {*}, composer: {Chris Tomlin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167046}, id: {gpHosp4Ydpn5HDpAHf5UVn}, contentHash: {ee0a66}}
 
 [sequence]
 v1,c,v1,c,b,c
@@ -7,17 +7,17 @@ v1,c,v1,c,b,c
 [v1]
 /: Apa-i schimbat-o-n vin,
 Ochi ai deschis orbilor,
-Tu ești Domnul minunilor
-Și din cenușă ne scoți.
-Nu e nimic ce nu poți
-Chiar și-n beznă, strălucești. :/
+Tu ești Domnul minunilor!
+Și din cenușă ne scoți,
+Nu e nimic ce nu poți,
+Chiar și-n beznă strălucești. :/
 
 [c]
 Tu ești cel tare,
-Ești cel mai mare.
-Ești Dumnezeu fără asemănare,
+Ești cel mai mare,
+Ești Dumnezeu fără asemănare.
 Ești cel ce vindeci,
-Cu-a Ta putere /: Isus! :/
+Cu-a Ta putere, /: Isus! :/
 
 [b]
 /: Cine ne stă-mpotrivă?
