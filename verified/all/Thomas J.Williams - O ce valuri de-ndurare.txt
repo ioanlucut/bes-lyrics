@@ -2,7 +2,7 @@
 O, ce valuri de-ndurare {alternative: {*}, composer: {Thomas J.Williams}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1507}, id: {eq3UacB7DXA6ev58WaM2Q9}, contentHash: {7e005c}}
 
 [sequence]
-v1,c,v2,c,v3,c
+v1,c,v2,c,v3,c2
 
 [v1]
 O, ce valuri de-ndurare
@@ -13,7 +13,7 @@ Este jertfa lui Isus.
 [c]
 Curățit în al Lui sânge
 Și crezând în jertfa Lui,
-Mă apropii fără teamă,
+Mă apropii fără teamă
 De preasfântul Dumnezeu.
 
 [v2]
@@ -24,6 +24,12 @@ Despre jertfa lui Isus.
 
 [v3]
 Orice suflet ce se află
-În osândă și păcat,
-Să se-ntoarcă, azi, la Tatăl
-Și va fi acum iertat.
+În osândă și păcat
+Să se-ntoarcă azi la Tatăl
+Și să fie-acum iertat.
+
+[c]
+/: Curățit în al Lui sânge
+Și crezând în jertfa Lui,
+Mă apropii fără teamă
+De preasfântul Dumnezeu. :/

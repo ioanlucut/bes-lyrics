@@ -11,10 +11,10 @@ Am o veste bună, o speranță:
 Prin Isus poți fi eliberat!
 
 [c]
-Vino la Isus să ai iertare,
-Vino azi la El, așa cum ești!
+/: Vino la Isus să ai iertare,
+Vino azi la El așa cum ești!
 Sângele Său sfânt îți dă salvare,
-Prin credința-n El te mântuiești.
+Prin credința-n El te mântuiești. :/
 
 [v2]
 Vino cu povara de păcate,
@@ -25,7 +25,7 @@ Fericire sfântă vei avea!
 [v3]
 Nu există altfel de izbândă,
 Cheamă-L chiar acum Mântuitor!
-Tot păcatul care cere osândă
+Tot păcatul care cere-osândă
 Ți-l va șterge-n harul salvator.
 
 [v4]

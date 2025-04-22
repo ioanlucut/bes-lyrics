@@ -1,0 +1,29 @@
+[title]
+Păcătos ca mine nu-i, Isus, Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Păcătos ca mine nu-i, Isus, Domnul meu,
+Pe fața pământului, ticălos și rău.
+O, vai, cum voi sta, Doamne, înaintea Ta?
+Când Tu vei veni, unde-atunci voi fi?
+
+[v2]
+Căci păcatul meu și azi mă apasă greu,
+Sufletul mi-e în necaz, Isus, Domnul meu.
+O, grăbește, vin’, Isuse, ajută-mă,
+Căci eu mult suspin, o, ascultă-mă!
+
+[v3]
+Numai Tu curaj mi-ai dat, Domnul meu iubit,
+Prin faptul că ai răbdat, murind răstignit!
+Astăzi eu trăiesc, cu Isus mă-nveselesc,
+Laudă eu Îi cânt aici pe pământ.
+
+[v4]
+Eu Te rog, o, Doamne sfânt, azi ajută-mă,
+Cât voi trăi pe pământ să fiu cu Tine!
+O, fii lauda mea, Doamne, aceasta aș vrea,
+Să fii scutul meu, să mă scapi de rău!
