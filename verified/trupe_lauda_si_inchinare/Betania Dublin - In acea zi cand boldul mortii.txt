@@ -1,5 +1,5 @@
 [title]
-În acea zi, când boldul morții {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213168}, id: {7VSrpVUxsYohi5XxZZ4QkS}, contentHash: {31de43}}
+În acea zi, când boldul morții {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213168}, id: {7VSrpVUxsYohi5XxZZ4QkS}, contentHash: {e6211e}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c,v3,c2

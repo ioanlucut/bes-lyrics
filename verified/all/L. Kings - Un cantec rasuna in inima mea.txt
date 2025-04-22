@@ -1,5 +1,5 @@
 [title]
-Un cântec răsună în inima mea {alternative: {*}, composer: {L. Kings}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fAavTwypdwEGx3pD2TzN3Q}, contentHash: {2bdd16}}
+Un cântec răsună în inima mea {alternative: {*}, composer: {L. Kings}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fAavTwypdwEGx3pD2TzN3Q}, contentHash: {299a2a}}
 
 [sequence]
 v1,c,v2,c2,v3,c3,v4,c4

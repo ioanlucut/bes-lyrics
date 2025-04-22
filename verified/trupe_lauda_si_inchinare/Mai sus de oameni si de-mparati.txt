@@ -1,5 +1,5 @@
 [title]
-Mai sus de oameni și de-mpărați {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2851}, id: {gJt6hSVQwSPMMTJTJZBMkq}, contentHash: {0c7555}}
+Mai sus de oameni și de-mpărați {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2851}, id: {gJt6hSVQwSPMMTJTJZBMkq}, contentHash: {aaee66}}
 
 [sequence]
 v1,v2,c,v1,v2,c

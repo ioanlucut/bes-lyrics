@@ -1,5 +1,5 @@
 [title]
-Păcătos ca mine nu-i, Isus, Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Păcătos ca mine nu-i, Isus, Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nfKXXFT3gmYK5Ra4qJePB3}, contentHash: {1876bf}}
 
 [sequence]
 v1,v2,v3,v4
