@@ -2,34 +2,27 @@
 M-a eliberat! {alternative: {*}, composer: {Ben Fielding și Reuben Morgan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dcMLKtB1BYLuqguedEWtSX}, contentHash: {cf9075}}
 
 [sequence]
-v1,c,v2,c2,b,c2,b,c2
+v1,c,v2,c,b,c
 
 [v1]
-Nu sunt vrednic de Dumnezeu să fiu primit.
+Nu sunt vrednic de Dumnezeu să fiu primit,
 Fără țintă, pierdut eram, dar El m-a găsit,
 Dar El m-a găsit.
 
 [c]
 M-a eliberat, viața mi-a schimbat,
-Sunt copilul Său,
-Da, eu sunt.
+Sunt copilul Său, da, eu sunt.
+Lângă Tatăl meu am un loc și eu,
+Sunt copilul Său, da, eu sunt.
 
 [v2]
 Liber sunt doar prin harul Său nemărginit,
 Ca eu să pot fi iertat, Isus a murit,
 Isus a murit.
 
-[c2]
-M-a eliberat, viața mi-a schimbat,
-Sunt copilul Său,
-Da, eu sunt.
-Lângă Tatăl meu am un loc și eu
-Sunt copilul Său,
-Da, eu sunt.
-
 [b]
 /: M-ai ales doar pentru Tine,
-Mă-ncred în Cuvântul Tău.
+Mă-ncred în Cuvântul Tău!
 Doamne, Tu lupți pentru mine,
-Mă-ncred în Cuvântul Tău, :/
-Mă-ncred în Cuvântul Tău.
+Mă-ncred în Cuvântul Tău! :/
+Mă-ncred în Cuvântul Tău!
