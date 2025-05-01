@@ -9,11 +9,11 @@ c,v1,c,v2,c,v3,e
 
 [v1]
 Și vei găsi pace, pace, pace,
-Și vei găsi pace-n casa Tatălui meu!
+Și vei găsi pace-n casa Tatălui!
 
 [v2]
 Și vei găsi iubire, iubire, iubire,
-Și vei găsi iubire în casa Tatălui meu!
+Și vei găsi iubire în casa Tatălui!
 
 [v3]
 Și vei găsi fericire, fericire, fericire,

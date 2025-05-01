@@ -6,7 +6,7 @@ v1,v2,b,c,v3,b2,c
 
 [v1]
 Cu Tine nu sunt singur, Doamne, orice-ar fi,
-Căci Tu mă cercetezi de-aproape și mă știi,
+Căci Tu mă cercetezi de-aproape și mă știi.
 Tu știi când stau pe loc sau când la drum pornesc,
 Pătrunzi în gândul meu cu Duhul Tău ceresc.
 
@@ -17,15 +17,15 @@ Eu nu pot să cuprind înțelepciunea Ta,
 Dar vreau să Te slăvesc cât viață voi avea.
 
 [b]
-Unde pot fugi să m-ascund de fața Ta?
+Unde pot fugi să m-ascund de fața Ta,
 În munte sau la margine de mare?
-Chiar și-n ceruri sus de-aș zbura, mă vei afla,
-În bezna lumii, Tu ești al meu soare.
+Chiar și-n ceruri sus de-aș zbura mă vei afla,
+În bezna lumii Tu ești al meu soare.
 
 [c]
 Tu m-ai întocmit, Tu m-ai zămislit,
 Tu ai fost mereu cu mine Dumnezeu și Tată.
-Fii în veci slăvit, veșnic preamărit
+Fii în veci slăvit, veșnic preamărit,
 Căci Tu m-ai zidit o făptură minunată!
 
 [v3]

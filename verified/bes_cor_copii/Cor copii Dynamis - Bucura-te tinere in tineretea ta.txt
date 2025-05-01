@@ -2,7 +2,7 @@
 Bucură-te, tinere, în tinerețea ta {alternative: {*}, composer: {adaptare după Marius Livanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Cor copii Dynamis}, genre: {*}, rcId: {*}, id: {8ZaDsZjieraXzvgdAPsCnm}, contentHash: {9b51c3}}
 
 [sequence]
-v1,c,v2,c,v3,c,b,c
+v1,c,v2,c,v3,c2,e
 
 [v1]
 /: Bucură-te, tinere, în tinerețea ta,
@@ -26,11 +26,11 @@ Chiar din tinerețea ta!
 Să Îl iubești pe Domnul Dumnezeu,
 Să păzești porunca Sa! :/
 
-
-/: Dar nu uita că-ntr-o zi Isus te va chema,
+[c2]
+Dar nu uita că-ntr-o zi Isus te va chema,
 Nu uita că-ntr-o zi te va judeca!
 Să știi atunci că Isus te va întreba:
-Ce-ai făcut cu tinerețea ta? :/
+/: Ce-ai făcut cu tinerețea ta? :/
 
-[b]
+[e]
 Dă-I lui Isus azi inima ta!

@@ -7,7 +7,7 @@ v1,c,v2,c
 [v1]
 /: Când ești în necaz și îți este greu,
 Și ești apăsat în sufletul tău,
-/: Nu uita, nu uita, :/ nu uita!
+Nu uita, nu uita, :/ nu uita!
 
 [c]
 /: Căci cei ce se încred în Domnul
@@ -17,4 +17,4 @@ Vor avea putere din belșug
 [v2]
 /: Bucurie e-acum în viața ta,
 Pacea-ți inundă inima,
-/: Inima, inima, :/ inima!
+Inima, inima, :/ inima!
