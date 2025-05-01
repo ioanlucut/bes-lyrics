@@ -1,0 +1,32 @@
+[title]
+Isus bate azi la inima mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Cor copii Dynamis}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v1,v2,v3,v4,e
+
+[v1]
+Isus bate azi la inima mea
+Și așteaptă ca să intre în ea,
+Ușa-I deschid lui Isus acum,
+Iată ceea ce Îi spun:
+
+[v2]
+Isuse, atât m-ai iubit,
+Pe cruce pentru mine Te-ai lăsat răstignit,
+O, iartă-mi păcatul meu,
+Căci vreau să fiu cu Tine-n ceruri!
+
+[v3]
+Isus bate azi la inima ta,
+Hai, deschide-I și nu întârzia!
+Lasă-L să intre în casa ta
+Și spune Domnului așa:
+
+[v4]
+Isuse, atât m-ai iubit,
+Pe cruce pentru mine Te-ai lăsat răstignit,
+O, iartă-mi păcatul meu,
+/: Căci vreau să fiu cu Tine-n ceruri! :/
+
+[e]
+Eu vreau să fiu cu Tine-n ceruri!
