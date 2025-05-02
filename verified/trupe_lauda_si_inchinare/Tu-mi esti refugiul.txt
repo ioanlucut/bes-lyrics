@@ -1,12 +1,12 @@
 [title]
-Tu-mi ești refugiul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4291}, id: {662kRy77cLwEwr7MxEErtr}, contentHash: {4f7c34}}
+Tu-mi ești refugiul {alternative: {You Are My All in All}, composer: {Dennis Jernigan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4291}, id: {662kRy77cLwEwr7MxEErtr}, contentHash: {4f7c34}}
 
 [sequence]
 v1.1,v1.2,c,v2,c
 
 [v1.1]
 Tu-mi ești refugiul când sunt slab,
-Tu ești scăparea ce o am,
+Tu ești comoara ce o caut,
 Tu ești în toate Domn.
 
 [v1.2]

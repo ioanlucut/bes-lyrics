@@ -9,15 +9,15 @@ c,v1,c,v2,c,v3,e
 
 [v1]
 Și vei găsi pace, pace, pace,
-Și vei găsi pace-n casa Tatălui!
+Și vei găsi pace-n casa Tatălui meu!
 
 [v2]
 Și vei găsi iubire, iubire, iubire,
-Și vei găsi iubire în casa Tatălui!
+Și vei găsi iubire în casa Tatălui meu!
 
 [v3]
 Și vei găsi fericire, fericire, fericire,
-Și vei găsi fericire în casa Tatălui!
+Și vei găsi fericire în casa Tatălui meu!
 
 [e]
 Vino cu mine în casa Tatălui meu!
