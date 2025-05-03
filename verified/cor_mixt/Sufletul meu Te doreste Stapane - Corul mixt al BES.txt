@@ -1,5 +1,5 @@
 [title]
-Sufletul meu Te dorește, Stăpâne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {n7rvb5XKUeykQqofQjnoZQ}, contentHash: {9f761c}}
+Sufletul meu Te dorește, Stăpâne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {n7rvb5XKUeykQqofQjnoZQ}, contentHash: {c3fdb3}}
 
 [sequence]
 v1,v2,v3

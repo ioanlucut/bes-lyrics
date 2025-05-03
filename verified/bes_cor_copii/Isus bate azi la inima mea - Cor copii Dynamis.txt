@@ -1,5 +1,5 @@
 [title]
-Isus bate azi la inima mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Cor copii Dynamis}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Isus bate azi la inima mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Cor copii Dynamis}, genre: {*}, rcId: {*}, id: {iufQyD18RAzffiqcSwj959}, contentHash: {fbcad5}}
 
 [sequence]
 v1,v2,v1,v2,v3,v4,e

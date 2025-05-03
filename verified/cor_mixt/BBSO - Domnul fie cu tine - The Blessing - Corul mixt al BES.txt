@@ -1,5 +1,5 @@
 [title]
-Domnul fie cu tine {alternative: {The Blessing}, composer: {Kari Jobe, Cody Carnes, Steven Furtick, Chris Brown}, writer: {Corneliu Matei, traducerea și adaptarea}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {202297}, id: {kWfzS8gCQHH6ZPgSEnBAec}, contentHash: {4871dc}}
+Domnul fie cu tine {alternative: {The Blessing}, composer: {Kari Jobe}, writer: {Corneliu Matei}, arranger: {*}, interpreter: {BBSO}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {202297}, id: {kWfzS8gCQHH6ZPgSEnBAec}, contentHash: {311b9c}}
 
 [sequence]
 v1,c,v1,c,v2,v3,v4,c2,c,v1

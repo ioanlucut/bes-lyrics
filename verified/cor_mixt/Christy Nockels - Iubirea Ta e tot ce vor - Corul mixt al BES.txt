@@ -1,5 +1,5 @@
 [title]
-Iubirea Ta e tot ce vor {alternative: {*}, composer: {Christy Nockels}, writer: {Christy Nockels; Eugen Drăgoiu}, arranger: {Philip Keveren}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {mfj1NLCf8w5z5bEKWErfUt}, contentHash: {046031}}
+Iubirea Ta e tot ce vor {alternative: {*}, composer: {Christy Nockels}, writer: {Christy Nockels; Eugen Drăgoiu}, arranger: {Philip Keveren}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {mfj1NLCf8w5z5bEKWErfUt}, contentHash: {439c74}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,c2,e

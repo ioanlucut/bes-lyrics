@@ -1,5 +1,5 @@
 [title]
-Spre casă s-au dus {alternative: {Then Came the Morning; Zorii răsar}, composer: {Sue C. Smith}, writer: {Eugen Drăgoiu}, arranger: {Russell Mauldin}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs; part of Then Came the Morning cantata}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {fmWULx4bPnBuK2naH5nSVi}, contentHash: {dd9890}}
+Spre casă s-au dus {alternative: {Then Came the Morning; Zorii răsar}, composer: {Sue C. Smith}, writer: {Eugen Drăgoiu}, arranger: {Russell Mauldin}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs; part of Then Came the Morning cantata}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {fmWULx4bPnBuK2naH5nSVi}, contentHash: {ce4f52}}
 
 [sequence]
 v1.1,v1.2,v2,v3.1,v3.2,v4,e

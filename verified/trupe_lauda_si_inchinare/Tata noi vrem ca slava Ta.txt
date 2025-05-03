@@ -1,5 +1,5 @@
 [title]
-Tată, noi vrem ca slava Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6683}, id: {tX1BjFhqFhf94S5XEdVGpq}, contentHash: {c4029d}}
+Tată, noi vrem ca slava Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6683}, id: {tX1BjFhqFhf94S5XEdVGpq}, contentHash: {65768d}}
 
 [sequence]
 v1,c,v1,c

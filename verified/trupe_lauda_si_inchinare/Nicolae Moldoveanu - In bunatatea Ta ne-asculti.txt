@@ -1,5 +1,5 @@
 [title]
-În bunătatea Ta ne-asculți {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae moldoveanu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64780}, id: {6PKrCYS663hmE1cVZMRQA8}, contentHash: {7519ec}}
+În bunătatea Ta ne-asculți {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae moldoveanu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64780}, id: {6PKrCYS663hmE1cVZMRQA8}, contentHash: {1c8bf3}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2

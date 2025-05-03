@@ -1,5 +1,5 @@
 [title]
-Ai venit în lumea noastră rece {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {cor copii Dynamis}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Ai venit în lumea noastră rece {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {cor copii Dynamis}, genre: {*}, rcId: {*}, id: {j6YYhs4kEx8Lng4LcMtBUC}, contentHash: {e763d9}}
 
 [sequence]
 v1,p,c,v2,p2,c2,p3,e

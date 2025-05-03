@@ -1,5 +1,5 @@
 [title]
-Înainte, mai sus mereu și Domnul te va păzi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {drAjKX5RAj8nacgGe1PN68}, contentHash: {e50425}}
+Înainte, mai sus mereu și Domnul te va păzi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {drAjKX5RAj8nacgGe1PN68}, contentHash: {087771}}
 
 [sequence]
 v1,c,v2,c,v3,c2,c3,v4,c4,v5,c4,e
