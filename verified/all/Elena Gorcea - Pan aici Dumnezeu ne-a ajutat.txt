@@ -1,5 +1,5 @@
 [title]
-Pân’ aici Dumnezeu ne-a ajutat {alternative: {*}, composer: {Elena Gorcea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61291}, id: {nue8ja6Y7mfyJs3KdD3jDx}, contentHash: {08f91c}}
+Pân’ aici Dumnezeu ne-a ajutat {alternative: {*}, composer: {Elena Gorcea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {61291}, id: {nue8ja6Y7mfyJs3KdD3jDx}, contentHash: {4f9236}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c2.1,c2.2
@@ -13,14 +13,14 @@ Ne-a cinstit cu-atâta bine și ne-a apărat.
 [c1.1]
 Ai simțit și tu în viața ta iubirea Lui?
 Poți și tu să cânți osana Domnului?
-Poți să spui cu mine astăzi: „Cu adevărat,
-Pân’ aici Dumnezeu ne-a ajutat”?
+Poți să spui cu mine astăzi:
+„Cu adevărat pân’ aici Dumnezeu ne-a ajutat”?
 
 [c1.2]
 Pân’ aici Dumnezeu ne-a ajutat,
 Fie-I Numele slăvit, fie-I Numele-onorat,
 /: Dacă ți-a făcut mult bine,
-‘Nalță-ți glasul tău spre cer,
+‘Nalță-ți glasul tău spre cer
 Și să strigi din toată inima „Eben-Ezer”! :/
 
 [v2]

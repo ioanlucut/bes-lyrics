@@ -1,23 +1,29 @@
 [title]
-Tu mă cercetezi de-aproape {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58041}, id: {sndwaMn41QbgoMpQKkpzf4}, contentHash: {9ba8de}}
+Tu mă cercetezi de-aproape {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58041}, id: {sndwaMn41QbgoMpQKkpzf4}, contentHash: {10ec34}}
 
 [sequence]
-v1,c,v2,c
+v1,c,v2,c2
 
 [v1]
-Tu mă cercetezi de-aproape, Doamne, Tu mă ocrotești.
-De departe-mi pătrunzi gândul, căile-mi cunoști.
+Tu mă cercetezi de-aproape, Doamne, Tu mă ocrotești,
+De departe-mi Tu-mi știi gândul, căile-mi cunoști.
 Unde voi putea, o, Doamne să m-ascund de fața Ta,
 Căci viața e-n mâna Ta?
 
 [c]
-/: Eu Te laud, Doamne, pentru ce sunt,
-Pentru marea jertfă și iubirea Ta,
+Eu Te laud, Doamne, pentru ce sunt,
+Pentru marea jertfă și iubirea Ta.
 Viața ce-am primit-o din mâna Ta
-O închin ca laudă pentru slava Ta. :/
+O închin ca laudă pentru slava Ta.
 
 [v2]
 Când cei răi mă înconjoară și cu ură mă privesc,
 Pune dragostea Ta-n mine ca să pot să îi iubesc.
 Eu nădăjduiesc în Tine și-n făgăduința Ta,
 Căci viața e-n mâna Ta.
+
+[c2]
+/: Eu Te laud, Doamne, pentru ce sunt,
+Pentru marea jertfă și iubirea Ta.
+Viața ce-am primit-o din mâna Ta
+O închin ca laudă pentru slava Ta. :/

@@ -1,8 +1,8 @@
 [title]
-Iubirea Ta e tot ce vor {alternative: {*}, composer: {Christy Nockels}, writer: {Christy Nockels; Eugen Drăgoiu}, arranger: {Philip Keveren}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {mfj1NLCf8w5z5bEKWErfUt}, contentHash: {046031}}
+Iubirea Ta e tot ce vor {alternative: {*}, composer: {Christy Nockels}, writer: {Christy Nockels; Eugen Drăgoiu}, arranger: {Philip Keveren}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {mfj1NLCf8w5z5bEKWErfUt}, contentHash: {439c74}}
 
 [sequence]
-v1.1,v1.2,c,v2,c2
+v1.1,v1.2,c,v2,c,c2,e
 
 [v1.1]
 Multă binecuvântare peste adunare
@@ -17,10 +17,10 @@ Stau aceștia doi
 Din Mâna Ta așteaptă har.
 
 [c]
-/: Iubirea Ta e tot ce vor
+Iubirea Ta e tot ce vor
 Ca dar suprem în casa lor
-Și-n viețuire în a Ta iubire,
-Să fie pildă tuturor. :/
+Și-n viețuire în a Ta iubire
+Să fie pildă tuturor.
 
 [v2]
 Doamne, ca într-o cunună,
@@ -33,3 +33,6 @@ Iubirea Ta îi va păzi
 Asupra lor orice-ar veni,
 Mereu alături, dă-le har s-ajungă
 La nuntă sus, în veșnicii!
+
+[e]
+La nuntă sus, în veșnicii.

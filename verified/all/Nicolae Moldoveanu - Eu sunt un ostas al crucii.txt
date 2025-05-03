@@ -1,5 +1,5 @@
 [title]
-Eu sunt un ostaș al crucii {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5667}, id: {hpLPRXqmTK4Qy4ZHxKnaHi}, contentHash: {2d0675}}
+Eu sunt un ostaș al crucii {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5667}, id: {hpLPRXqmTK4Qy4ZHxKnaHi}, contentHash: {982340}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
@@ -11,24 +11,20 @@ Eu nu mă tem, ci voi vesti,
 Slăvit Numele Lui.
 
 [c1.1]
-Când lupta s-a sfârși,
-/: Cunună vom primi. :/ (3x)
-Când lupta s-a sfârși,
-Cunună vom primi
-În Ierusalimul nou.
+Când lupta e gata /: vom purta cununa. :/ (3x)
+Când lupta e gata
+Vom purta cununa-n Ierusalimul cel nou.
 
 [c1.2]
-Cunună vom primi,
-Cununa de-nvingător!
-Când lupta s-a sfârși,
-Cunună vom primi
-În Ierusalimul nou.
+Cunună vom purta, cununa de-nvingere,
+Când lupta e gata,
+Vom purta cununa-n Ierusalimul cel nou.
 
 [v2]
 În cer pe flori nu poți fi dus
 Când alții s-au luptat
 Și pentru Regele Isus
-Chiar viața și-au dat.
+Chiar viața ei și-au dat.
 
 [v3]
 Trebuie să lupt, să înving.

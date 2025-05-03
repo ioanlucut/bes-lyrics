@@ -1,12 +1,16 @@
 [title]
-Înainte, mai sus mereu și Domnul te va păzi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {drAjKX5RAj8nacgGe1PN68}, contentHash: {e50425}}
+Înainte, mai sus mereu și Domnul te va păzi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {drAjKX5RAj8nacgGe1PN68}, contentHash: {087771}}
 
 [sequence]
-v1,v2,v3,c,c2,v4,v5,c2,e
+v1,c,v2,c,v3,c2,c3,v4,c4,v5,c4,e
 
 [v1]
 În al Domnului Nume sfânt: înainte, mai sus mereu!
 Spuneți lumii al Său Cuvânt: înainte, mai sus mereu!
+
+[c]
+Și haine albe vom purta, cu îngerii vom străluci,
+Coroană, casă vom avea în cer când vom sosi.
 
 [v2]
 Chiar de suntem batjocoriți, înainte, mai sus mereu!
@@ -16,17 +20,21 @@ Cu Isus noi vom birui, înainte, mai sus mereu!
 Flamurile desfășurați, înainte, mai sus mereu!
 Pe Hristos lumii arătați, înainte, mai sus mereu!
 
-[c]
+[c2]
 /: Și haine albe vom purta, cu îngerii vom străluci,
 Coroană, casă vom avea în cer când vom sosi. :/
 
-[c2]
-Domnul te va păzi în orice loc, în orice zi,
-Domnul te va păzi, Domnul te va păzi!
+[c3]
+/: Domnul te va păzi în orice loc, în orice zi,
+Domnul te va păzi, Domnul te va păzi! :/
 
 [v4]
 Orice-ar veni, să nu te temi, Domnul te va păzi,
 Te ocrotește-n orice vremi, Domnul te va păzi!
+
+[c4]
+Domnul te va păzi în orice loc, în orice zi,
+Domnul te va păzi, Domnul te va păzi!
 
 [v5]
 Stai liniștit în mâna Sa, Domnul te va păzi,

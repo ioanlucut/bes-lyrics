@@ -1,5 +1,5 @@
 [title]
-Când vom intra pe-a tale porți de aur {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {198102}, id: {4wSoqpT5zUEnFUU6MBHuka}, contentHash: {663fa8}}
+Când vom intra pe-a tale porți de aur {alternative: {*}, composer: {Dan Istrate}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {198102}, id: {4wSoqpT5zUEnFUU6MBHuka}, contentHash: {c277c0}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6
@@ -7,13 +7,13 @@ v1,v2,v3,v4,v5,v6
 [v1]
 Când vom intra pe-a tale porți de aur,
 Ierusalime, loc iubit și sfânt,
-/: Tot cerul fi-va plin de osanale,
-Spre slava Celui pururi drag și sfânt. :/
+/: Tot cerul va fi plin de osanale,
+Spre slava Celui pururi drept și sfânt. :/
 
 [v2]
 Uimiți de-atâta sfântă măreție,
 Scăpați de totul ce ne-a frământat,
-/: În veci de veci, cânta-vom numai Ție
+/: În veci de veci cânta-vom numai Ție
 Și sângelui ce ne-a răscumpărat. :/
 
 [v3]
@@ -29,10 +29,10 @@ Cu toți cei dragi și scumpi ce i-am iubit,
 De dragostea cu care ne-ai uimit. :/
 
 [v5]
-Ierusalime, vei auzi cântarea,
-Ce îngerii nicicând nu ți-au cântat
+Ierusalime, vei auzi cântarea
+Ce îngerii nicicând nu ți-au cântat,
 /: Atunci, în ziua când va fi salvarea
-Poporului pe veci răscumpărat :/
+Poporului pe veci răscumpărat. :/
 
 [v6]
 Când întristarea din inimi va fi ștearsă

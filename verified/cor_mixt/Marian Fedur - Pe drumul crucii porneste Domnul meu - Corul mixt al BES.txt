@@ -1,8 +1,8 @@
 [title]
-Pe drumul crucii pornește Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {mGTYZpvmq41J3HgP1qcTTc}, contentHash: {456127}}
+Pe drumul crucii pornește Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {mGTYZpvmq41J3HgP1qcTTc}, contentHash: {c935bc}}
 
 [sequence]
-v1,c,v2,c,v3
+v1,c,v2,c,v3,c2,e
 
 [v1]
 Pe drumul crucii pornește Domnul meu,
@@ -10,20 +10,29 @@ Om al durerii și Fiu de Dumnezeu,
 Grea e povara ce-o poartă smerit,
 Sub ea, lovit de moarte, Isus s-a prăbușit.
 
+[c]
+Jertfirea Sa e ca un viu izvor,
+În lume nu-i nimeni mai iubitor.
+În veșnicii n-avem nimic mai sfânt,
+Dragostea Sa e tot ce avem pe-acest pământ.
+
 [v2]
 Pe lângă cruce poți trece prea grăbit,
 Lumea te duce în valuri spre sfârșit.
 Cine te scapă de-al morții hotar?
 Isus Te cheamă astăzi, în ultim ceas de har!
 
-[c]
-Jertfirea Sa e ca un viu izvor,
-În lume nu-i nimeni mai iubitor.
-În veșnicii n-avem nimic mai sfânt,
-Dragostea Sa e tot ce-avem pe-acest pământ.
-
 [v3]
 Stăm împreună slăvind iubirea Sa
-Și mână-n mână cânta-vom „Osana”
+Și mână-n mână cânta-vom „Osana!”
 Orice genunchi să se plece smerit,
 Slavă Acelui care în veci ne-a mântuit!
+
+[c2]
+/: Jertfirea Sa e ca un viu izvor,
+În lume nu-i nimeni mai iubitor.
+În veșnicii n-avem nimic mai sfânt,
+Dragostea Sa e tot ce avem pe-acest pământ. :/
+
+[e]
+Dragostea Sa e tot ce avem pe-acest pământ.

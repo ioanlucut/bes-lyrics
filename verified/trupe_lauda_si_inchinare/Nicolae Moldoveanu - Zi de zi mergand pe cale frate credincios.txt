@@ -1,5 +1,5 @@
 [title]
-Zi de zi, mergând pe cale, frate credincios {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4132}, id: {eUFMwkdDsGLoEG8VhH7iEs}, contentHash: {11b49a}}
+Zi de zi, mergând pe cale, frate credincios {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4132}, id: {eUFMwkdDsGLoEG8VhH7iEs}, contentHash: {3cefff}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -24,6 +24,6 @@ Nu uita, Pavel și Sila au cântat și-n greu,
 
 [v3]
 Cântă frate, cântă soră să răsune-n zări
-Laude și osanale până-n depărtări
-Pentru Împăratul nostru care-a biruit!
+Laude și osanale până-n depărtări!
+Pentru Împăratul nostru care-a biruit
 Să-I cântăm cu toți mărire, El ne-a mântuit!

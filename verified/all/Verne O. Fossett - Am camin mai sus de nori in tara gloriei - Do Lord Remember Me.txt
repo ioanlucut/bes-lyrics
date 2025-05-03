@@ -1,29 +1,29 @@
 [title]
-Am cămin mai sus de nori în țara gloriei {alternative: {Do Lord Remember Me}, composer: {Verne O. Fossett}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gimVRBtk5vNq4qnZ7ACjCH}, contentHash: {c1b506}}
+Am cămin mai sus de nori în țara gloriei {alternative: {Do Lord Remember Me}, composer: {Verne O. Fossett}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gimVRBtk5vNq4qnZ7ACjCH}, contentHash: {3cb8be}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c
 
 [v1]
-/: Am cămin mai sus de nori în țara gloriei :/
+/: Am cămin mai sus de nori în țara gloriei :/ (x3)
 Când vine Isus.
 
 [c]
-/: Da, Isus, da, Isus, amintește-mă :/
+/: Da, Isus, da, Isus, amintește-mă :/ (x3)
 Când vii în curând.
 
 [v2]
-/: Am cămin mai sus de nori, vrei să ai și tu? :/
+/: Am cămin mai sus de nori, vrei să ai și tu? :/ (x3)
 Când vine Isus.
 
 [v3]
-/: Jos port crucea, sus cununa-n țara gloriei :/
+/: Jos port crucea, sus cununa-n țara gloriei :/ (x3)
 Când vine Isus.
 
 [v4]
-/: Dacă Îl primești pe Isus, în veci vei trăi :/
+/: Dacă Îl primești pe Isus, în veci vei trăi :/ (x3)
 Când vine Isus.
 
 [v5]
-/: Isus ne va duce-acasă-n țara gloriei! :/
+/: Isus ne va duce-acasă-n țara gloriei! :/ (x3)
 Când vine Isus.

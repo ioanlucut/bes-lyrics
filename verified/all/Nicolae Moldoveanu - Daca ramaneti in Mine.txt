@@ -1,0 +1,53 @@
+[title]
+Dacă rămâneți în Mine {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6rKKEzEuWWC9Hb2HtzEb2T}, contentHash: {a43edd}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Dacă rămâneți în Mine
+Și Cuvântul Meu e-n voi
+Viața voastră-i înălțată,
+Din orice firesc șuvoi.
+
+[c]
+Niciun duh de rătăcire
+Nu vă prinde, Eu am spus,
+Dacă rămâneți în Mine,
+Domnul vostru sfânt, Isus.
+
+[v2]
+Veți rodi iubirea dulce
+Ne-ntrerupt și tot mai plin,
+În lumină mai frumoasă,
+Azi și-n vecii care vin.
+
+[c2]
+Niciun nor nu stă pe cerul
+Vieții voastre, Eu am spus,
+Dacă rămâneți în Mine,
+Domnul vostru sfânt, Isus.
+
+[v3]
+Felul meu și adevărul
+Desfătare vă va fi.
+Toată fericirea vieții
+Doar în Mine-o veți găsi.
+
+[c3]
+Nicio pagubă pe cale
+N-o să fie, Eu am spus.
+Dacă rămâneți în Mine,
+Domnul vostru sfânt, Isus.
+
+[v4]
+Eu vă pregătesc în ceruri
+Locul slavei Mele sfânt
+Ce v-am câștigat prin jertfa
+Noului Așezământ.
+
+[c4]
+Nu-i putere sa v-oprească
+Alergarea, Eu am spus,
+Dacă rămâneți în Mine,
+Domnul vostru sfânt, Isus.

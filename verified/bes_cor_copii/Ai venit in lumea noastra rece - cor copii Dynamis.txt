@@ -1,0 +1,47 @@
+[title]
+Ai venit în lumea noastră rece {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {cor copii Dynamis}, genre: {*}, rcId: {*}, id: {j6YYhs4kEx8Lng4LcMtBUC}, contentHash: {e763d9}}
+
+[sequence]
+v1,p,c,v2,p2,c2,p3,e
+
+[v1]
+Ai venit în lumea noastră rece,
+Inimi frânte Tu ai mângâiat,
+Pe acei căzuți cu mâna Ta ai ridicat.
+Ne-ai vorbit despre Împărăția pregătită pentru cei iubiți
+Și-ai chemat la pieptul Tău, Isus, pe cei trudiți.
+
+[p]
+Însă noi n-am înțeles, n-am înțeles iubirea Ta,
+Am refuzat darul Tău, Te-am lovit, Te-am răstignit.
+
+[c]
+/: Tu ai murit pentru noi,
+Ne-ai mântuit, mulțumim,
+Ai înviat, înviat, fii lăudat! :/
+
+[v2]
+Vin acum plin de recunoștință,
+Plec genunchii jos la crucea Ta,
+Vreau să-Ți mulțumesc adânc, Isus, de jertfa Ta.
+Vreau să Te urmez întotdeauna,
+Lângă Tine să rămân mereu,
+Să spun lumii că este iertare-n Fiul Său!
+
+[p2]
+Veniți să Îl lăudăm, să-L lăudăm pe Dumnezeu
+Căci pentru noi a dat pe Isus, L-a înviat!
+
+[c2]
+/: El a murit pentru noi,
+N-ea mântuit, mulțumim,
+A înviat, înviat, e Împărat! :/
+
+[p3]
+/: Veniți să Îl lăudăm, să-L lăudăm pe Dumnezeu
+Căci pentru noi a dat pe Isus, L-a înviat! :/
+
+[e]
+/: Tu ai murit pentru noi,
+Ne-ai mântuit, mulțumim,
+Ai înviat, înviat, fii lăudat! :/

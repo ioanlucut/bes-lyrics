@@ -1,5 +1,5 @@
 [title]
-Calea, adevărul, viața {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {6696}, id: {m35SCdpx3CwDBnqYgM6o6m}, contentHash: {c36c77}}
+Calea, adevărul, viața {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {Corul bărbătesc al BES}, genre: {*}, rcId: {6696}, id: {m35SCdpx3CwDBnqYgM6o6m}, contentHash: {5f3caf}}
 
 [sequence]
 c,v1,c,v2,c
@@ -9,7 +9,7 @@ Calea, adevărul, viața
 E Isus Hristos cel sfânt.
 A venit trimis de Tatăl pe pământ,
 Răstignit a fost pe cruce
-Pentru-al tău și-al meu păcat,
+Pentru-al meu și-al tău păcat,
 A-nviat a treia zi și-a triumfat.
 
 [c]

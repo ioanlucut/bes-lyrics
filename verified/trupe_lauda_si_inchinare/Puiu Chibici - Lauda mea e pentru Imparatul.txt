@@ -1,5 +1,5 @@
 [title]
-Lauda mea e pentru Împăratul {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6741}, id: {cvSwXBdakq4tF7evR5xYt3}, contentHash: {b3dbf8}}
+Lauda mea e pentru Împăratul {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6741}, id: {cvSwXBdakq4tF7evR5xYt3}, contentHash: {63383e}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -18,7 +18,7 @@ Ca-al meu Mire drag, Isus Hristos.
 
 [v2]
 Cum să nu Îi cânt, când cu atâta milă,
-M-a luat în brațe când eram zdrobit.
+M-a luat în brațe când zăceam zdrobit.
 Când celor din jur le inspiram doar silă,
 El m-a ridicat cu drag, căci m-a iubit.
 

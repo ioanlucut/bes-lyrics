@@ -1,0 +1,23 @@
+[title]
+Doar prin iubire {alternative: {*}, composer: {Marius Livanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tEmWCFNj7nX1FiDbBsYxck}, contentHash: {6d6e00}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Doar prin iubire, doar prin iubire
+Mă-nalț la Tine cu cântecul de dor;
+De-aceea-Ți voi cânta din toată inima,
+Cu toată dragostea ce-o port în suflet.
+
+[v1]
+Cum aș putea să-Ți cânt, cum aș putea să-Ți spun
+De dorul meu cel sfânt s-ajung în ceruri?
+Doar prin iubirea Ta eu pot mereu cânta
+Și-ntreagă jertfa mea să fie sfântă.
+
+[v2]
+Fără iubire sunt un bulgăr de pământ,
+Un muritor înfrânt de mii de patimi;
+Doar prin iubirea Ta mereu voi ridica
+Spre cer privirea mea cu bucurie.
