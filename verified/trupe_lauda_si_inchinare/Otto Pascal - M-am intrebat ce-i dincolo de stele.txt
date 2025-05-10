@@ -1,5 +1,5 @@
 [title]
-M-am întrebat ce-i dincolo de stele {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+M-am întrebat ce-i dincolo de stele {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qejs5idjXpheFDXqSQ9G7B}, contentHash: {81418f}}
 
 [sequence]
 v1,v2,c,v3,v4,c
