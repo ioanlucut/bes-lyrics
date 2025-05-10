@@ -1,0 +1,35 @@
+[title]
+M-am întrebat ce-i dincolo de stele {alternative: {*}, composer: {Otto Pascal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qejs5idjXpheFDXqSQ9G7B}, contentHash: {81418f}}
+
+[sequence]
+v1,v2,c,v3,v4,c
+
+[v1]
+M-am întrebat ce-i dincolo de stele,
+Cine-orchestrează soare, vânt și ploi,
+Cine-i Acel ce dă vieții mele
+Speranță și când ceru-i plin de nori.
+
+[v2]
+Cine-i Acel ce pâinea înmulțește
+Și peștii îi trimite în năvod?
+Cine-i Acel ce orbului vedere
+I-a dăruit în drum spre Ierihon?
+
+[c]
+/: E Dumnezeu, e Adonai,
+E-Acel ce suflă viață pe pământ.
+Este Isus, Fiul Preaînalt,
+Răscumpărătorul, Cel de trei ori sfânt. :/
+
+[v3]
+Cine îi spune inimii să bată
+Și gurii să rostească doar cu har?
+Cine-i Acel ce pune laolaltă
+Pe cel puternic și pe cel mai slab?
+
+[v4]
+Cine de foc și apă te ferește
+Și firele de păr ți-a numărat?
+Cine-i Acel ce-n taină te iubește
+Și cine tot păcatul ți-a iertat?
