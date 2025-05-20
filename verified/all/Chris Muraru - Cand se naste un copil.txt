@@ -4,7 +4,7 @@ Când se naște un copil {alternative: {*}, composer: {Chris Muraru}, writer: {*
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,e
 
-[v1]
+[v1.1]
 Când se naște un copil
 Tristețea din lume dispare,
 Mame și îngeri mâinile-și dau
