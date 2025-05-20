@@ -5,41 +5,25 @@ Ne-ai fost, Doamne, ajutor {alternative: {*}, composer: {Puiu Chibici}, writer: 
 v1,v2,v3,v4
 
 [v1]
-Ne-ai fost, Doamne, ajutor,
-Tu întotdeauna,
-Ne-ai fost sprijin tuturor,
-Când bătea furtuna.
-/: Ne-ai fost ancoră la greu,
-În dureri nespuse,
-Mijlocind la Dumnezeu
-Pentru noi, Isuse. :/
+Ne-ai fost, Doamne, ajutor, Tu întotdeauna,
+Ne-ai fost sprijin tuturor, când bătea furtuna.
+/: Ne-ai fost ancoră la greu, în dureri nespuse,
+Mijlocind la Dumnezeu pentru noi, Isuse. :/
 
 [v2]
-Ne-ai fost, Doamne, zi de zi,
-Hrană-mbelșugată,
-Ne-ai iubit ca pe-ai Tăi fii,
-Cu grijă de Tată.
-/: Ne-ai pus pază în cămin,
-Gardă îngerească,
-Ca orice săgeți ce vin
-Să le nimicească. :/
+Ne-ai fost, Doamne, zi de zi, hrană-mbelșugată,
+Ne-ai iubit ca pe-ai Tăi fii, cu grija Ta de Tată.
+/: Ne-ai pus pază în cămin gardă îngerească,
+Ca orice săgeți ce vin să le nimicească. :/
 
 [v3]
-Ești același din vecii,
-Neclintit și tare,
-Bun și blând cu-ai Tăi copii,
-Plin de îndurare.
-/: Ești un râu de apă sfânt,
-Dătător de viață,
-Ești un har pentru pământ
-În orice dimineață. :/
+Ești același din vecii, neclintit și tare,
+Bun și blând cu-ai Tăi copii, plin de îndurare.
+/: Ești un râu de apă sfânt, dătător de viață,
+Ești un har pentru pământ în orice dimineață. :/
 
 [v4]
-Ne-ai fost, Doamne, ne-ncetat
-Sfântă mângâiere,
-Și pe oricine-ai învățat
-În Tine să spere.
-/: Pentru-aceasta Te slăvim
-Noi, cu bucurie,
-Și de toate-Ți mulțumim
-Azi și-n veșnicie. :/
+Ne-ai fost, Doamne, ne-ncetat sfântă mângâiere,
+Și pe oricine-ai învățat în Tine ca să spere.
+/: Pentru-aceasta Te slăvim noi cu bucurie
+Și de toate-Ți mulțumim azi și-n veșnicie. :/

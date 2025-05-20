@@ -1,0 +1,41 @@
+[title]
+Când se naște un copil {alternative: {*}, composer: {Chris Muraru}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,e
+
+[v1]
+Când se naște un copil
+Tristețea din lume dispare,
+Mame și îngeri mâinile-și dau
+La porți de infinit.
+
+[v1.2]
+Cerul parcă-i mai senin
+Și soarele lucește mai tare,
+Un copil e un semn că mai e
+Iubire pe pământ.
+
+[c]
+Când un copil vine din cer
+Dezleagă taina iubirii,
+Cer și pământ cântă cu el
+Imn înălțat nemuririi.
+
+[v2.1]
+Când se naște un copil
+Natura îi dă binețe,
+Stelele toate-i cântă în cor
+Un cântec de alin.
+
+[v2.2]
+Luna-i veghează somnul lin
+Și florile îi dau frumusețe,
+Un copil e dovada mereu
+Că viața va dăinui.
+
+[e]
+Un copil e un dar ceresc
+Pentru oameni mereu;
+Cât există pe pământ copii
+Ne iubește Dumnezeu.

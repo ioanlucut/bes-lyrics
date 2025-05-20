@@ -19,7 +19,7 @@ Găsi-vei alinare! :/
 [v2]
 Chiar dacă încercări la rând
 Ți-au veștejit culoarea,
-Tu nu uita căci în curând
+Tu nu uita că în curând
 Sosește primăvara!
 
 [c2]
@@ -49,5 +49,5 @@ Luptând lupta cea bună.
 [c4]
 /: Înaintează, deci, cântând,
 E greu să urci Calvarul,
-Dar nu uita căci în curând
+Dar nu uita că în curând
 Se va sfârși amarul. :/
