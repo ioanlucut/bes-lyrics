@@ -1,5 +1,5 @@
 [title]
-Când se naște un copil {alternative: {*}, composer: {Chris Muraru}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Când se naște un copil {alternative: {*}, composer: {Chris Muraru}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fyDdqJyC8p47dCBnd4vrsB}, contentHash: {4b56be}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,e

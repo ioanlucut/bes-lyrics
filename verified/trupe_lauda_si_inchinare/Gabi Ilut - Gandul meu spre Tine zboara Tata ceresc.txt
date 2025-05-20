@@ -1,5 +1,5 @@
 [title]
-Gândul meu spre Tine zboară, Tată ceresc {alternative: {*}, composer: {Gabi Iluț}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {241236}, id: {eRVv9cBTDD7Q4qEZWqnYyS}, contentHash: {947677}}
+Gândul meu spre Tine zboară, Tată ceresc {alternative: {*}, composer: {Gabi Iluț}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {241236}, id: {eRVv9cBTDD7Q4qEZWqnYyS}, contentHash: {0940d9}}
 
 [sequence]
 v1,c,v2,c,b,c

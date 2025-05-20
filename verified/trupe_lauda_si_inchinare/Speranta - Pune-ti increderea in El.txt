@@ -1,5 +1,5 @@
 [title]
-Pune-ți încrederea în El {alternative: {*}, composer: {Speranța}, writer: {Gabriel Gorcea și prietenii}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Pune-ți încrederea în El {alternative: {*}, composer: {Speranța}, writer: {Gabriel Gorcea și prietenii}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jc136oVAgwUTMoABJQtqAL}, contentHash: {b024df}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,e
