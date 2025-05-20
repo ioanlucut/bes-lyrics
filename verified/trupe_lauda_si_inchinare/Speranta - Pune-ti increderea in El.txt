@@ -1,0 +1,39 @@
+[title]
+Pune-ți încrederea în El {alternative: {*}, composer: {Speranța}, writer: {Gabriel Gorcea și prietenii}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jc136oVAgwUTMoABJQtqAL}, contentHash: {b024df}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,e
+
+[v1]
+Porumbiță scumpă, ascunsă între stânci,
+Ce privești cu groază în jurul tău întruna,
+Care-L chemi pe Domnul cu suspine-adânci
+Și aștepți cu drag venirea Lui întruna.
+
+[c1.1]
+/: Pune-ți încrederea în El, Israele, :/ (x3)
+În tăria Sa!
+/: Pune-ți încrederea în El, Israele, :/ (x2)
+Doar cu El vei propăși pe cale!
+Te va-ntări puterea dreptei Sale,
+El e Stânca ta!
+
+[c1.2]
+/: Brațul Lui aduce biruință,
+Lupta-i câștigată prin credință,
+Nu te-nfricoșa! :/
+
+[v2]
+Valuri mari de vor veni-mpotriva ta,
+Nu te-nspăimânta și cere ajutorul!
+Domnul a promis că, dacă-L vei chema,
+Te va izbăvi, va potoli cuptorul.
+
+[v3]
+Cine poate sta împotriva Domnului
+Când se scoală El să lupte pentru tine,
+Când te ia la umbra aripilor Lui
+Și îți spune blând: „Încrede-te în Mine!”?
+
+[e]
+/: Pune-ți încrederea în El, Israele, :/ (x3)

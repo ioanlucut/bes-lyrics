@@ -1,5 +1,5 @@
 [title]
-Nu nouă, Doamne {alternative: {*}, composer: {Dan Micu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {do15eJTRTPGurEBZeQm7zr}, contentHash: {908e1e}}
+Nu nouă, Doamne {alternative: {*}, composer: {Dan Micu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {do15eJTRTPGurEBZeQm7zr}, contentHash: {ae73aa}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7,v8
@@ -20,12 +20,11 @@ Vestește-I bunătatea, credincioșia Lui
 Dumnezeu este puternic, altul ca El nu-i,
 Milostiv, Domn al dreptății, slavă numai Lui!
 Toată slava și-nchinarea dați lui Dumnezeu!
-Domnul este Creatorul și-n veci va domni
-/: Va Domni! :/
+Domnul este Creatorul și-n veci va domni,
 
 [v4]
 Lăudați pe Iehova, Dumnezeul Sfânt,
-Voi, dealuri și izvoare, lăudați-L prin cânt!
+Voi, dealuri și izvoare, lăudați prin cânt!
 Și soare și lună, stele ce lucesc
 Pe Creatorul lumii azi mărturisesc.
 
@@ -43,10 +42,8 @@ Iertare oricui dăruiește când vine la sfântul Izvor! :/
 
 [v7]
 /: Laudă Domnului! :/ /: Laudă Domnului! :/
-Laudă Domnului!
 Toată slava și-nchinarea numai Domnului!
 /: Laudă Domnului! :/ /: Laudă Domnului! :/
-Laudă Domnului!
 Laudă Tatălui din Ceruri! Laudă Domnului!
 
 [v8]

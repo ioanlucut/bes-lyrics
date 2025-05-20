@@ -1,8 +1,8 @@
 [title]
-Nu știu cât mai am harul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tZKaCY7xj6oGdsDmfEUBer}, contentHash: {4c1771}}
+Nu știu cât mai am harul {alternative: {*}, composer: {Simion Boloca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tZKaCY7xj6oGdsDmfEUBer}, contentHash: {25e8de}}
 
 [sequence]
-v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
+v1,c,v2,c,v3,c,v4,c
 
 [v1]
 Nu știu cât mai am harul să mă pot pregăti,
@@ -10,25 +10,25 @@ Nu știu cât mai am viață, nu știu când voi muri,
 Dar vreau, când vine clipa să las acest pământ,
 Să Îl aștept pe Domnul, să fiu curat și sfânt!
 
-[c1.1]
+[c]
 Ajută-mă, o, Doamne, din zi în zi mai mult,
 Să caut pacea, sfințirea, Cuvântul Tău s-ascult!
 Și-atunci când vine Isus să-L pot întâmpina,
 Să fiu luat de Domnul acolo-n țara Sa.
 
-[c1.2]
+[v2]
 Îți mulțumesc, Isuse, că vina mi-ai plătit,
 Că m-ai scăpat de moarte, m-ai făcut fericit!
 Îți mulțumesc de toate ce Tu îmi dăruiești,
 Prin viață, sănătate, slăvit să fii în veci!
 
-[v2]
+[v3]
 Dar vreau cât mai am viață să știu să mi-o trăiesc,
 În rugă, ‘n-ascultare, de rău să mă feresc,
 Isus să fie ținta și scop în viața mea
 Să fie mântuirea și-mpărăția Sa.
 
-[v3]
+[v4]
 Ce bogăție mare, ce dar nemeritat,
 Isus, mi-ai dat Tu mie, o, cât de minunat!
 Cu prețul vieții Tale, pe lemn crucificat,
