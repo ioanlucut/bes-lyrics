@@ -1,5 +1,5 @@
 [title]
-Ce înseamnă să iubești {alternative: {*}, composer: {Andrei Ciurdaș}, writer: {Cîmpean Alexandra}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Ce înseamnă să iubești {alternative: {*}, composer: {Andrei Ciurdaș}, writer: {Cîmpean Alexandra}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nBBrTmXBKGzhC4dNaG6KCD}, contentHash: {ae17b4}}
 
 [sequence]
 v1,c,v2,c,c2

@@ -1,5 +1,5 @@
 [title]
-În viața mea eu Te-am chemat {alternative: {*}, composer: {Daniela Handaric Guțu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+În viața mea eu Te-am chemat {alternative: {*}, composer: {Daniela Handaric Guțu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hRCfJ1PaWxbH9d16gmbrZM}, contentHash: {afc478}}
 
 [sequence]
 v1,c,v2,c,v3,c

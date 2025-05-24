@@ -1,5 +1,5 @@
 [title]
-Cu vocea mea Te laud {alternative: {*}, composer: {Speranța}, writer: {Emma Repede}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Cu vocea mea Te laud {alternative: {*}, composer: {Speranța}, writer: {Emma Repede}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1jyFhfSyNrpkV8FaxLiMyK}, contentHash: {618c4e}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2

@@ -1,5 +1,5 @@
 [title]
-Cântă, suflet al meu, pentru Dumnezeu {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {Alin Timofte}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Cântă, suflet al meu, pentru Dumnezeu {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {Alin Timofte}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dqFM8eQKSW8xgoAHBK3wHY}, contentHash: {24368f}}
 
 [sequence]
 c,v1,c,v2,c,v3,c
