@@ -1,0 +1,30 @@
+[title]
+Ce înseamnă să iubești {alternative: {*}, composer: {Andrei Ciurdaș}, writer: {Cîmpean Alexandra}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,c2
+
+[v1]
+Întins pe lemn, cu brațele deschise,
+Îmbrățișai și cerul și pământul.
+Nu meritam salvarea ce venise,
+Dar Tu iubeai mai mult decât știam.
+
+[c]
+Și această dragoste a Ta Te-a condus la Golgota,
+Căci acolo-ai dovedit ce-nseamnă să iubești,
+Nimeni atunci nu-nțelegea ce preţ mare se plătea,
+Căci pe cruce se stingea chiar Dragostea.
+
+[v2]
+Osânda grea sortită pentru lume
+Ai luat-o Tu și ne-ai eliberat,
+Ai răsplătit și ura și disprețul
+Cu dragostea ce-n suflet o aveai.
+
+[c2]
+Și această dragoste a Ta
+Am simțit-o și eu în viața mea,
+Când Te-ai aplecat la mine în țărână.
+M-a-nvăluit iubirea Ta și dragostea-Ți mă cuprindea
+Căci am simțit cât Te-a costat și vina mea.

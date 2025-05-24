@@ -1,0 +1,33 @@
+[title]
+Cu vocea mea Te laud {alternative: {*}, composer: {Speranța}, writer: {Emma Repede}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,c,e1.e1.2
+
+[v1.1]
+Cu vocea mea Te laud, cu inima Te caut,
+Cu tot ce am mă predau,
+În prezența Ta, o, Doamne, vreau să stau!
+
+[v1.2]
+Mă prostern în fața Ta, mâinile-mi voi ridica,
+Cu tot ce sunt mă dăruiesc,
+În prezența Ta, o, Doamne, să locuiesc!
+
+[c]
+Tu ești Domn în viața mea, doar pe Tine te voi urma,
+Ție, Doamne, Îți voi da toată gloria!
+Tu ești Domn al domnilor, Tu ești Rege al regilor,
+Tu ești Împăratul meu, ești Dumnezeu!
+
+[e1.1]
+/: Iehova Savaot, Domnul oștirilor,
+Iehova Elohim, Domnul domnilor,
+Iehova-Ire, Cel ce poartă de grijă,
+Iehova-Rafa, Domnul care mă vindecă.
+
+[e1.2]
+El-Olam, Domnul cel veșnic,
+El Shaddai, Dumnezeu Atotputernic,
+Iehova-Nissi, Domnul este steagul meu,
+Iehova-Shalom, pacea este Dumnezeu! :/

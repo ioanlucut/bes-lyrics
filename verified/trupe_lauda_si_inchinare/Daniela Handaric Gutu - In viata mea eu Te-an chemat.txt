@@ -1,0 +1,29 @@
+[title]
+În viața mea eu Te-am chemat {alternative: {*}, composer: {Daniela Handaric Guțu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În viața mea eu Te-am chemat, m-am încrezut în Tine,
+Dar valul greu m-a-ndepărtat și șoaptele străine.
+Eu tot mai cred și încă văd credința răsplătită,
+Chiar dacă n-am putut vedea dorința mea-mplinită.
+
+[c]
+Eu nu Te mai aud, dar, totuși, știu că mă veghezi,
+Eu nu Te pot vedea, dar, totuși, știu că Tu mă vezi.
+Eu nu mai înțeleg Cuvântul și lucrarea Ta,
+Dar într-o zi Te voi slăvi, căci ai lucrat așa.
+
+[v2]
+Vrăjmașul îmi șoptește ades că ai uitat de mine
+Și am ajuns în starea grea, deși-am crezut în Tine.
+Dar eu mai cred și încă văd prin negura de ceață
+O dimineață răsărind și scumpa-Ți dragă față.
+
+[v3]
+Îmi este greu să mă ridic, o, pune-mă pe stâncă,
+Arată-mi iar iubirea Ta, dă-mi pacea Ta adâncă!
+Ridică-mă prin harul Tău, redă-mi credința sfântă,
+Vorbește-mi, Doamne, căci sunt rob și robul Tău ascultă!
