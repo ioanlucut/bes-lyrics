@@ -1,0 +1,44 @@
+[title]
+În cetate pe când intrai {alternative: {Același Dumnezeu}, composer: {Surorile Berci}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qwpEcfdyWP4jfYB21kjSZZ}, contentHash: {426e19}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2,c1.1,c1.2,v3,b,c1.1,c1.2
+
+[v1.1]
+Te văzuse înconjurat de-o mulțime cerând mila Ta,
+Speranțele ascunse de-o boală prea grea
+Ce nimeni nu-o putea alina.
+
+[v1.2]
+Dar în sufletul ei iși spunea:
+„Doar să m-ating de haina Sa
+Și voi fi vindecată acum!”
+
+[c1.1]
+În cetate pe când intrai, cu credință un om a venit:
+„Nu sunt vrednic să intri în casa mea,
+Dar pentru-al meu rob milă-Ți cer,
+
+[c1.2]
+Zdrobit, chinuit de dureri,
+Doar un cuvânt să rostești, Doamne,
+Și va fi eliberat!”
+
+[v2]
+Azi vin și eu, mă-nchin înaintea tronului,
+De Mielul Preasfânt m-apropii,
+Căci nu s-au sfârșit îndurările Sale,
+Ieri, azi și-n veci /: El este-același Dumnezeu! :/
+
+[v3]
+Când nu-mi răspunzi precum aștept,
+Să se facă doar voia Ta!
+Îmi smeresc inima și ca jertfă Ți-o dau,
+În mine să poți lucra, mereu Te voi lăuda.
+Chiar cu fărâmituri de la masa Ta,
+Sufletul îmi va fi săturat!
+
+[b]
+/: Trece Isus pe-aici, :/
+Cheamă-L și cere-I îndurare,
+Trece Isus pe-aici!

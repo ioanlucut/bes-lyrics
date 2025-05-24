@@ -1,0 +1,28 @@
+[title]
+Aleargă la Dumnezeu, vei fi binecuvântat {alternative: {*}, composer: {Eldad}, writer: {Andreea Avădanei}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {vnvSvyMUNAHesxehFzd1oE}, contentHash: {488adb}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+De ce cauți ape unde râuri nu mai curg
+Și de ce credința-n tine azi ai frânt?
+Nu te mai uita la lume, ci la Cel ce te-a-ntocmit,
+Căci El știe mult mai bine pentru ce ești făurit!
+
+[c]
+/: Aleargă la Dumnezeu, vei fi binecuvântat!
+El veghează asupra ta,
+Spre Domnul îndreaptă-ți inima! :/
+
+[v2]
+Apele sunt ca să ude orice loc uscat,
+Dumnezeu este iubire pentru cel ce e uitat!
+Fiecare vietate are folosința sa,
+Cu atât mai mult ești tu pentru Cel ce te-a creat!
+
+[b]
+/: Nu te teme, să n-ai frică,
+Isus e viața, El te va salva!
+Nu te teme, să n-ai frică,
+El îți va da pacea dacă-L vei căuta! :/
