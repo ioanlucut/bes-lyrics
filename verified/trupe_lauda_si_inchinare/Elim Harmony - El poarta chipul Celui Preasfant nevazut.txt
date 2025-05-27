@@ -1,5 +1,5 @@
 [title]
-El poartă chipul Celui Preasfânt, nevăzut {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {125950}, id: {4TtA2WJaZLJs1Ud88PQZcZ}, contentHash: {af4734}}
+El poartă chipul Celui Preasfânt, nevăzut {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {125950}, id: {4TtA2WJaZLJs1Ud88PQZcZ}, contentHash: {e244b9}}
 
 [sequence]
 v1,v2,c,v2,c,b,c,e

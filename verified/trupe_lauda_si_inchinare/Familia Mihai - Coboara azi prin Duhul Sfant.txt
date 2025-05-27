@@ -1,5 +1,5 @@
 [title]
-Coboară azi prin Duhul Sfânt {alternative: {*}, composer: {Familia Mihai}, writer: {Dorin Mihai}, arranger: {Dorin Mihai}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Coboară azi prin Duhul Sfânt {alternative: {*}, composer: {Familia Mihai}, writer: {Dorin Mihai}, arranger: {Dorin Mihai}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {a4b5dxo5JYkwXx71eGsmwW}, contentHash: {ae89f2}}
 
 [sequence]
 v1,c,v2,c,v3,c2
