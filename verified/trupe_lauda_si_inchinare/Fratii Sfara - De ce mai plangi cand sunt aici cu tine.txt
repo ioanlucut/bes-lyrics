@@ -5,10 +5,10 @@ De ce mai plângi când sunt aici cu tine {alternative: {*}, composer: {Frații 
 v1,c,v2,c2,v3,c3
 
 [v1]
-De ce mai plângi când sunt aici cu tine,
+/: De ce mai plângi când sunt aici cu tine,
 Copilul meu, de ce mai lăcrimezi?
 Apropie-te azi cu mulțumire,
-Oprește-ți plânsul, chiar de nu mă vezi!
+Oprește-ți plânsul, chiar de nu mă vezi! :/
 
 [c]
 /: Tu, prin credință, poți învinge totul
@@ -17,10 +17,10 @@ Dreptul de-a fi copil al Celui Veșnic,
 Neprihănirea, prin ea le primești! :/
 
 [v2]
-Ridică-te din sac și din cenușă,
+/: Ridică-te din sac și din cenușă,
 Nu te-am chemat ca să fii un învins,
 Nu te-am purtat pe brațe-atâta vreme
-Ca să renunți acuma la sfârșit!
+Ca să renunți acuma la sfârșit! :/
 
 [c2]
 /: Tu, prin credință, poți zări lumina,
@@ -29,13 +29,13 @@ Din orice boală poți afla salvarea
 De crezi in Domnul cu adevărat! :/
 
 [v3]
-O neclintită-ncredere-i credința
+/: O neclintită-ncredere-i credința
 Asupra lucrurilor ce nu vezi,
 Fără de ea nu poți găsi plăcere
-În ochii Dumnezeului ceresc!
+În ochii Dumnezeului ceresc. :/
 
 [c3]
 /: Păzește-ți, dar, credința ta fierbinte,
 Ca-n vremurile care vor veni
-Să poți rămâne tare în picioare:
+Să poți rămâne tare în picioare;
 Numai credința te va mântui! :/

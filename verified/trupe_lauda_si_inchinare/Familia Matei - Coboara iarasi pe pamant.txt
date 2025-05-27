@@ -1,0 +1,37 @@
+[title]
+Coboară azi prin Duhul Sfânt {alternative: {*}, composer: {Familia Mihai}, writer: {Dorin Mihai}, arranger: {Dorin Mihai}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Nicăieri în lume bucurie nu găsesc
+Ca și-n casa sfântă unde Tu, Doamne, locuiești,
+În locul întâlnirii unde, Doamne, Te prezinți
+Atunci când ești chemat prin rugăciuni fierbinți.
+
+[c]
+/: Coboară azi prin Duhul Sfânt
+Aici la noi, jos pe pământ,
+Vrem să simțim puterea-Ți mare!
+Pe cei bolnavi să-i tămăduiești,
+Pe cei ce-s slabi să-i întărești,
+Vrem prin Duhul Sfânt să ne vorbești! :/
+
+[v2]
+Așa cum ai coborât în trecut, o, Doamne sfânt,
+Am vrea să cobori și astăzi pe pământ!
+Să dai eliberare celor încătușați,
+Să dai din apa vie celor însetați!
+
+[v3]
+Doar Tu dai eliberare la cei împovărați,
+Doar Tu dai bucurie la cei întristați.
+Ne vii în ajutor mereu, mai ales când ne e greu,
+Tu ești al nost’ sfânt Dumnezeu!
+
+[c2]
+/: Coboară azi prin Duhul Sfânt
+Aici la noi, jos pe pământ ca și în ziua de Rusalii!
+Vrem să vedem puterea Ta
+Cum ridică povara grea și întărește Biserica. :/

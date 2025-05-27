@@ -11,10 +11,10 @@ Nu meritam salvarea ce venise,
 Dar Tu iubeai mai mult decât știam.
 
 [c]
-Și această dragoste a Ta Te-a condus la Golgota,
+/: Și această dragoste a Ta Te-a condus la Golgota,
 Căci acolo-ai dovedit ce-nseamnă să iubești,
 Nimeni atunci nu-nțelegea ce preț mare se plătea,
-Căci pe cruce se stingea chiar Dragostea.
+Căci pe cruce se stingea chiar Dragostea. :/
 
 [v2]
 Osânda grea sortită pentru lume

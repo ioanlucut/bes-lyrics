@@ -1,0 +1,35 @@
+[title]
+Când toți ai tăi prieteni {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Când toți ai tăi prieteni te-au părăsit pe rând,
+Să nu cazi în păcate, ci crede-n Tatăl sfânt!
+El este ajutorul ce mult L-ai căutat,
+De tine-Și amintește când alții te-au uitat.
+
+[c]
+Nu pierde niciodată credința-n Dumnezeu,
+El e mereu cu tine la bine și la greu!
+Chiar dacă toată lumea ți s-ar îndepărta,
+De tine-Și amintește Isus, căci te-a salvat.
+
+[v2]
+Când este grea cărarea, cu lacrimi pe obraz,
+Și când dureri te-apasă în viața de necaz,
+Isus te întărește, credința ți-a-ncercat,
+De tine-Și amintește când alții te-au uitat.
+
+[v3]
+În ziua judecății voi fi cu-acel popor
+Ce L-a primit pe Domnul, în veci biruitor.
+Când, la sfârșitul vieții, în cer voi fi chemat,
+Mă va striga pe nume când alții m-au uitat.
+
+[c2]
+/: Nu pierde niciodată credința-n Dumnezeu,
+El e mereu cu tine la bine și la greu!
+Chiar dacă toată lumea ți s-ar îndepărta,
+De tine-Și amintește Isus, căci te-a salvat. :/

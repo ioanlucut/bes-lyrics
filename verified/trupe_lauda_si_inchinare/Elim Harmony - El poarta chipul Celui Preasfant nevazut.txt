@@ -2,13 +2,12 @@
 El poartă chipul Celui Preasfânt, nevăzut {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {125950}, id: {4TtA2WJaZLJs1Ud88PQZcZ}, contentHash: {af4734}}
 
 [sequence]
-v1,c,v2,c,b,c
+v1,v2,c,v2,c,b,c,e
 
 [v1]
 El poartă chipul Celui Preasfânt, nevăzut
-Stăpân peste creație
-E început, sfârșit,
-E Rege peste tot.
+Stăpân peste creație,
+E început, sfârșit, e Rege peste tot.
 
 [v2]
 E Creatorul, toate există prin El,
@@ -19,12 +18,14 @@ Slăvit e al Tău Nume, Doamne, slăvit e al Tău nume!
 [c]
 Te lăudăm, Domn peste veacuri,
 Numele Tău Îl înălțăm azi,
-Tu de laudă ești vrednic,
-Ești vrednic.
+Tu de laudă ești vrednic, ești vrednic.
 
 [b]
 /: Ești minunat, ești minunat
-Doar Tu, doar Tu! :/ (4x)
-/: În veci, Tu ești Domn peste veacuri,
+Doar Tu, doar Tu! :/ (x2)
+
+[e]
+În veci, Tu ești Domn peste veacuri,
 Numele Tău Îl înălțăm azi,
-Tu de laudă ești vrednic, ești vrednic. :/
+Tu de laudă ești vrednic, ești vrednic,
+Ești vrednic, ești vrednic!
