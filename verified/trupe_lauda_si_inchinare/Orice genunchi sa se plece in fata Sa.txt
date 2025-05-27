@@ -1,17 +1,17 @@
 [title]
-Orice genunchi să se plece în fața Sa {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {k16MC6wDTBwmtpeDXumqz3}, contentHash: {dde0be}}
+Orice genunchi să se plece în fața Sa {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {k16MC6wDTBwmtpeDXumqz3}, contentHash: {c6056d}}
 
 [sequence]
-v1,c,v2,c2,v3,c3
+v1,c,v2,c2,v3,c3,c
 
 [v1]
-/: Orice genunchi să se plece în fața sa,
-În fața regelui să strige aleluia! :/
+/: Orice genunchi să se plece în fața Sa,
+În fața Regelui să strige aleluia! :/
 Întreaga lume să strige-acum:
 
 [c]
-Glorie Regelui, glorie Regelui,
-Glorie Regelui sfânt,
+/: Glorie Regelui, glorie Regelui,
+Glorie Regelui sfânt, :/ (x3)
 Glorie, glorie, glorie!
 
 [v2]
@@ -20,8 +20,8 @@ Mielul cel sfânt ce a zis: O, Tatăl meu, /:
 Mă duc pe pământ să răscumpăr lumea.
 
 [c2]
-Glorie Mielului, glorie Mielului,
-Glorie Mielului sfânt,
+/: Glorie Mielului, glorie Mielului,
+Glorie Mielului sfânt, :/ (x3)
 Glorie, glorie, glorie!
 
 [v3]
@@ -30,6 +30,6 @@ Glorie, glorie, glorie sfintei treimi! /:
 Întreaga lume să spună-acum:
 
 [c3]
-Glorie Tatălui, glorie Fiului,
-Glorie Sfântului Duh,
+/: Glorie Tatălui, glorie Fiului,
+Glorie Sfântului Duh, :/ (x3)
 Glorie, glorie, glorie!
