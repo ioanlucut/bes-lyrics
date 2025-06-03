@@ -5,8 +5,10 @@ Primește lauda și închinarea {alternative: {*}, composer: {The Messengers}, w
 c,v1,c
 
 [c]
-/: Primește lauda și închinarea, Tată din ceruri, Te slăvim,
-Primește lauda și închinarea, Tată din ceruri, Te iubim! :/
+/: Primește lauda și închinarea,
+Tată din ceruri, Te slăvim,
+Primește lauda și închinarea,
+Tată din ceruri, Te iubim! :/
 
 [v1]
 Cu tot ce-avem ne-nchinăm în fața Ta, Stăpâne,
