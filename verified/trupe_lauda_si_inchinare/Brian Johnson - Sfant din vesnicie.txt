@@ -1,5 +1,5 @@
 [title]
-Sfânt din veșnicie {alternative: {*}, composer: {Brian Johnson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eTZVV7JmFf5WnH5XVyGfr4}, contentHash: {459cb0}}
+Sfânt din veșnicie {alternative: {*}, composer: {Brian Johnson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eTZVV7JmFf5WnH5XVyGfr4}, contentHash: {1cec2c}}
 
 [sequence]
 v1,p,c,v2,p,c,c2,v1,e

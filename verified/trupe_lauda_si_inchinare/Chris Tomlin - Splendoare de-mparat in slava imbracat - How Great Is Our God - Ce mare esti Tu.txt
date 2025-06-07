@@ -1,5 +1,5 @@
 [title]
-Splendoare de-mpărat în slavă îmbrăcat {alternative: {How Great Is Our God; Ce mare ești Tu}, composer: {Chris Tomlin}, writer: {Chris Tomlin}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4473}, id: {wVwjVuQzfX6ptYLnqYn5r6}, contentHash: {11530b}}
+Splendoare de-mpărat în slavă îmbrăcat {alternative: {How Great Is Our God; Ce mare ești Tu}, composer: {Chris Tomlin}, writer: {Chris Tomlin}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4473}, id: {wVwjVuQzfX6ptYLnqYn5r6}, contentHash: {232a41}}
 
 [sequence]
 v1,c,v2,c,e

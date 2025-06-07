@@ -1,5 +1,5 @@
 [title]
-Tu ești Creatorul {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6780}, id: {qFApZ95RgYRuhY4s73uZo8}, contentHash: {5aea1d}}
+Tu ești Creatorul {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6780}, id: {qFApZ95RgYRuhY4s73uZo8}, contentHash: {51ee0b}}
 
 [sequence]
 v1,c,v2,c

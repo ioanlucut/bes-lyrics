@@ -1,5 +1,5 @@
 [title]
-Pot să scriu și să vorbesc de Tine {alternative: {*}, composer: {Anca Suli}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58944}, id: {3avZ4xtHD47PNhMuLxE1qJ}, contentHash: {9ded4a}}
+Pot să scriu și să vorbesc de Tine {alternative: {*}, composer: {Anca Suli}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58944}, id: {3avZ4xtHD47PNhMuLxE1qJ}, contentHash: {36f475}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
