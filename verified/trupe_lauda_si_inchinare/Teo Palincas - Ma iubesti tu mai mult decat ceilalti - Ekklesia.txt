@@ -1,5 +1,5 @@
 [title]
-Mă iubești tu mai mult decât ceilalți {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Costache Ioanid}, arranger: {*}, interpreter: {Teo Palincaș}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Ekklesia}, genre: {*}, rcId: {*}, id: {1td5HRnHc8FAusk17yT1mG}, contentHash: {67d309}}
+Mă iubești tu mai mult decât ceilalți {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Costache Ioanid}, arranger: {*}, interpreter: {Teo Palincaș}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Ekklesia}, genre: {*}, rcId: {*}, id: {1td5HRnHc8FAusk17yT1mG}, contentHash: {4ae167}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7
@@ -44,4 +44,4 @@ Mă iubești tu când ceru-i departe?
 Simți că-n lume străine ți-s toate,
 Simți că-n Mine ți-e totu-mplinit?
 Mă iubești tu mai mult ca pe tine?
-Eu așa, Eu așa te-am iubit!
+/: Eu așa, Eu așa te-am iubit! :/
