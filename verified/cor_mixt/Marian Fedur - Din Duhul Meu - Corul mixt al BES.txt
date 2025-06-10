@@ -1,8 +1,8 @@
 [title]
-Din Duhul Meu {alternative: {*}, composer: {Marian Fedur}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {dtmB5UF2MDxJApgiyBC69G}, contentHash: {97b7eb}}
+Din Duhul Meu {alternative: {*}, composer: {Marian Fedur}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {dtmB5UF2MDxJApgiyBC69G}, contentHash: {a6685a}}
 
 [sequence]
-v1,v2,v3,v4,v5,e
+v1,v2,v3,v4,v5.1,v5.2,e
 
 [v1]
 În zilele din urmă, zice Dumnezeu,
@@ -19,20 +19,26 @@ Bătrânilor în noapte taine-n vis le voi descoperi.
 [v3]
 Din Duhul Meu vouă vă voi da,
 Puterea Mea în voi se va vedea.
-Prin Duhul meu Biserica va fi
+Prin Duhul Meu Biserica va fi
 O mărturie până voi veni.
 
 [v4]
-Prin Duhul meu șchiopii vor sări,
+Prin Duhul Meu șchiopii vor sări,
 Puterea Mea n-o voi tăgădui.
 Prin Duhul Meu voi turna în voi
 O apă vie pentru ziua de apoi.
 
-[v5]
-Și-Mi veți fii martori pân’ la margini de pământ
-Și mă veți urma până la mormânt,
+[v5.1]
+Și-Mi veți fi martori pân’ la margini de pământ
+Și Mă veți urma până la mormânt,
 Iar prin Duhul Meu vă voi învia,
 Duhul Meu la cer vă va-nălța.
+
+[v5.2]
+Și-Mi veți fi martori pân’ la margini de pământ
+Și Mă veți urma până la mormânt,
+Iar prin Duhul Meu vă voi învia,
+/: Duhul Meu la cer vă va-nălța. :/
 
 [e]
 Sunt zilele din urmă, Cuvântul s-a-mplinit,

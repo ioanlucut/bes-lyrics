@@ -1,0 +1,49 @@
+[title]
+Mare-i Domnul nostru și puternic Dumnezeu {alternative: {*}, composer: {Dennis Jernigan și Andrei Fedur}, writer: {*}, arranger: {J. Daniel Smith}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {2fYELT8CEpQrSG1dK6HjpG}, contentHash: {2c950c}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,v5,c2,e
+
+[v1]
+Isus e Domn, El e puternic, Dumnezeul nost’,
+Isus e Domn, El e puternic, Dumnezeul nost’!
+
+[c]
+Mare-i Domnul nostru și puternic Dumnezeu,
+Mare-i Domnul nostru, Dumnezeu suprem!
+Mare-i Domnul nostru și puternic Dumnezeu,
+Mare-i în veci, mare-i în veci!
+
+[v2]
+Când oștirea din Israel a năvălit,
+Urmați de carele din Egipt,
+Într-un glas au strigat cu toții spre Dumnezeu
+Proclamându-L Rege, Domn suprem.
+Au zis:
+
+[v3]
+Când oștirea din Israel cu toți au venit
+În Ierihon cel înalt zidit,
+Șapte zile la rând poporul l-a-nconjurat
+Pân’ ce zidul tare a fost sfărâmat.
+Și-au zis:
+
+[v4]
+Isus e Domn, El e puternic, Dumnezeul nost’,
+Isus e Domn, El e puternic, Dumnezeul nost’!
+
+[v5]
+Când prin lumea păcatului noi rătăceam
+Dumnezeu de noi s-a-ndurat,
+Povara cea grea pe-o cruce a purtat
+Și-apoi din morți a înviat.
+Cântă:
+
+[c2]
+/: Mare-i Domnul nostru și puternic Dumnezeu,
+Mare-i Domnul nostru, Dumnezeu suprem!
+Mare-i Domnul nostru și puternic Dumnezeu,
+Mare-i în veci, mare-i în veci! :/
+
+[e]
+Mare-i în veci!

@@ -1,5 +1,5 @@
 [title]
-Pentru noi s-a ivit mântuirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3630}, id: {rjaoNFf2uJUZCZnsNwsPu3}, contentHash: {38c0b4}}
+Pentru noi s-a ivit mântuirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3630}, id: {rjaoNFf2uJUZCZnsNwsPu3}, contentHash: {fb359f}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -7,23 +7,23 @@ v1,c,v2,c,v3,c
 [v1]
 Pentru noi s-a ivit mântuirea,
 Pentru noi Cel de sus a murit.
-/: Pentru noi s-a ivit izbăvirea,
-Pentru noi Cel de sus S-a jertfit. :/
+Pentru noi s-a ivit izbăvirea,
+Pentru noi Cel de sus S-a jertfit.
 
 [c]
-/: Lăsați Duhul Sfânt să lucreze,
+Lăsați Duhul Sfânt să lucreze,
 Să ne elibereze de blestem și păcat!
 Lăsați pe pământ fericirea, dragostea și iubirea
-Ce Isus a lăsat! :/
+Ce Isus a lăsat!
 
 [v2]
 Cu Isus vom zbura către stele,
 Cu Isus spre o lume de vis,
-/: Cu Isus trec ispitele grele,
-Cu Isus vom zbura-n Paradis. :/
+Cu Isus trec ispitele grele,
+Cu Isus vom zbura-n Paradis.
 
 [v3]
 Te-așteptăm ca să vii Tu, Isuse,
 Așteptăm slava Ta pe pământ,
-/: Așteptăm profețiile scrise,
-Te-așteptăm, Domnul nostru Preasfânt. :/
+Așteptăm profețiile scrise,
+Te-așteptăm, Domnul nostru Preasfânt.
