@@ -1,23 +1,26 @@
 [title]
-Doamne, dă-ne-nțelepciune {alternative: {Doamne}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153833}, id: {4TH1uuLGEMF83rRHat42An}, contentHash: {f5be04}}
+Doamne, dă-ne-nțelepciune {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {153833}, id: {4TH1uuLGEMF83rRHat42An}, contentHash: {f5be04}}
 
 [sequence]
-v1,c,v2,c
+v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [v1]
 Doamne, dă-ne-nțelepciune și putere și iubire,
-Doamne, vrem să ascultăm Cuvântul Tău.
+Doamne, vrem să ascultăm Cuvântul Tău!
 Azi venim în fața Ta, dă-ne, Doamne, harul Tău,
 Să fim vii pentru Împărăția Ta, trezește-ne din nou!
 
-[c]
-Doamne, atinge-ne din nou,
+[c1.1]
+/: Doamne-atinge-ne din nou,
 Peste noi Tu mâna Ta s-o pui
-Și lumina Ta să ardă-n noi prin puterea Duhului.
+Și lumina Ta să ardă-n noi
+Prin puterea Duhului!
+
+[c1.2]
 Pune-o, dar nu pentru-o zi,
 Ci să ardă în veșnicii, în noi,
 Cu-adierea Duhului Tău Sfânt,
-Doamne-atinge-ne din nou!
+Doamne-atinge-ne din nou! :/
 
 [v2]
 Doamne, mulți au obosit și în inimi sunt răniți,
