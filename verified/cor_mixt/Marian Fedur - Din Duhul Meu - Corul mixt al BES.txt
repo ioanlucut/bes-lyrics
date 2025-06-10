@@ -1,5 +1,5 @@
 [title]
-Din Duhul Meu {alternative: {*}, composer: {Marian Fedur}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {dtmB5UF2MDxJApgiyBC69G}, contentHash: {97b7eb}}
+Din Duhul Meu {alternative: {*}, composer: {Marian Fedur}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {dtmB5UF2MDxJApgiyBC69G}, contentHash: {a6685a}}
 
 [sequence]
 v1,v2,v3,v4,v5.1,v5.2,e

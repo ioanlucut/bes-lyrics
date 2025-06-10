@@ -1,5 +1,5 @@
 [title]
-Mare-i Domnul nostru și puternic Dumnezeu {alternative: {*}, composer: {Dennis Jernigan și Andrei Fedur}, writer: {*}, arranger: {J. Daniel Smith}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {2fYELT8CEpQrSG1dK6HjpG}, contentHash: {e03e30}}
+Mare-i Domnul nostru și puternic Dumnezeu {alternative: {*}, composer: {Dennis Jernigan și Andrei Fedur}, writer: {*}, arranger: {J. Daniel Smith}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {2fYELT8CEpQrSG1dK6HjpG}, contentHash: {2c950c}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,v5,c2,e

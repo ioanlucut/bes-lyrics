@@ -1,5 +1,5 @@
 [title]
-Unde să plec de lângă Tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4mtB8gEHAbS46HbUDNH21T}, contentHash: {d0d56a}}
+Unde să plec de lângă Tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4mtB8gEHAbS46HbUDNH21T}, contentHash: {af2a0c}}
 
 [sequence]
 v1,v2,v3,v4,v5
