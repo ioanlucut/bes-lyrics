@@ -1,5 +1,5 @@
 [title]
-Habothim ba’hashem kehar tzion {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {109215}, id: {vg7ZhGNtTdHRvrPp3aKNLS}, contentHash: {e3b611}}
+Habothim ba’hashem kehar tzion {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {109215}, id: {vg7ZhGNtTdHRvrPp3aKNLS}, contentHash: {2f531f}}
 
 [sequence]
 v1,b,v2,c,v3,b2,c
@@ -9,7 +9,7 @@ v1,b,v2,c,v3,b2,c
 Lo-imot le’olam ieshem. :/ (4x)
 
 [b]
-/: Irușalaim, harim saviv lah
+/: Ierushalaim, harim saviv lah
 Ve’hashem saviv le’amo. :/
 
 [v2]
@@ -19,15 +19,15 @@ Cei ce au credință în Domnul Isus
 Nu se clatină pe veci! :/
 
 [c]
-Ierusalim, locul preaiubit,
+/: Ierushalim, locul preaiubit,
 Isus, pe veci va domni!
 Ierusalim, locul preaiubit,
-Isus, pe veci va domni!
+Isus, pe veci va domni! :/
 
 [v3]
 /: Pe veci va domni, pe veci va domni,
 Isus, pe veci va domni. :/
 
 [b2]
-/: Irușalaim, harim savivlah
+/: Irushalaim, harim savivlah
 Vașem saviv liamo. :/
