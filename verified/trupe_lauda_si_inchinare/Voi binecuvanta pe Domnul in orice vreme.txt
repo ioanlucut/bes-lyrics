@@ -5,19 +5,19 @@ Voi binecuvânta pe Domnul în orice vreme {alternative: {*}, composer: {*}, wri
 v1,v2,v3
 
 [v1]
-Voi binecuvânta pe Domnul în orice vreme,
-Lauda Lui va fi totdeauna-n gura mea.
+/: Voi binecuvânta pe Domnul în orice vreme,
+Lauda Lui va fi totdeauna-n gura mea. :/
 /: Înălțați pe Domnul împreună cu mine,
 Să lăudăm cu toții Numele Lui! :/
 
 [v2]
-Eu am căutat pe Domnul și mi-a răspuns,
-M-a izbăvit din toate temerile mele.
+/: Eu am căutat pe Domnul și mi-a răspuns,
+M-a izbăvit din toate temerile mele. :/
 /: Înălțați pe Domnul împreună cu mine,
 Să lăudăm cu toții Numele Lui! :/
 
 [v3]
-Gustați și vedeți ce bun este Domnul,
-Ferice de omul care se încrede-n El!
+/: Gustați și vedeți ce bun este Domnul,
+Ferice de omul care se încrede-n El! :/
 /: Înălțați pe Domnul împreună cu mine,
 Să lăudăm cu toții Numele Lui! :/

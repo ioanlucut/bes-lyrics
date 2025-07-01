@@ -7,30 +7,30 @@ v1,v2,v3,v4,v5
 [v1]
 Sunt un bulgăraș prea mic,
 Sunt un strop de rouă-n soare,
-/: Și cu cât mă văd mai mic
-Cu-atât Tu, cu-atât Tu Te vezi mai mare. :/
+Și cu cât mă văd mai mic
+/: Cu-atât Tu, cu-atât Tu Te vezi mai mare. :/
 
 [v2]
 Dacă-n lume m-ai făcut
 O fereastră către Tine,
-/: Cu cât sunt mai nevăzut
-Cu-atât Tu, cu-atât Tu Te vezi mai bine. :/
+Cu cât sunt mai nevăzut
+/: Cu-atât Tu, cu-atât Tu Te vezi mai bine. :/
 
 [v3]
 Doamne, când suntem noi doi,
 N-are cel viclean ce-mi face,
-/:Cu el când sunt în război
-Atunci Tu, atunci Tu mă-mbraci cu pace. :/
+Cu el când sunt în război
+/: Atunci Tu, atunci Tu mă-mbraci cu pace. :/
 
 [v4]
 Vin din cer mi-ai dat să sorb
 Și pe ochi m-ai uns cu tină,
-/: Cu cât eu am fost mai orb
-Cu-atât Tu, cu-atât Tu mi-ai dat lumină. :/
+Cu cât eu am fost mai orb
+/: Cu-atât Tu, cu-atât Tu mi-ai dat lumină. :/
 
 [v5]
 Dar din toate câte-n cer
 Le păstrezi Tu pentru mine,
 Nu mi-e dor de tot ce-mi dai
-/: Cât mi-e dor, cât mi-e dor :/
-Cât mi-e dor, Doamne, de Tine!
+Cât mi-e dor, cât mi-e dor,
+/: Cât mi-e dor, Doamne, de Tine! :/
