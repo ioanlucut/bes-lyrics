@@ -1,5 +1,5 @@
 [title]
-Habothim ba’hashem kehar tzion {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {109215}, id: {vg7ZhGNtTdHRvrPp3aKNLS}, contentHash: {2f531f}}
+Habothim ba’hashem kehar tzion {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {109215}, id: {vg7ZhGNtTdHRvrPp3aKNLS}, contentHash: {092604}}
 
 [sequence]
 v1,b,v2,c,v3,b2,c
@@ -19,7 +19,7 @@ Cei ce au credință în Domnul Isus
 Nu se clatină pe veci! :/
 
 [c]
-/: Ierushalim, locul preaiubit,
+/: Ierusalim, locul preaiubit,
 Isus, pe veci va domni!
 Ierusalim, locul preaiubit,
 Isus, pe veci va domni! :/

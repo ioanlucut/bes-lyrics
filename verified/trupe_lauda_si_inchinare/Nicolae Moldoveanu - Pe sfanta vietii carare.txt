@@ -1,5 +1,5 @@
 [title]
-Pe sfânta vieții cărare {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1828}, id: {36kRCfVhBZ8CeuvU8skkH9}, contentHash: {f96009}}
+Pe sfânta vieții cărare {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1828}, id: {36kRCfVhBZ8CeuvU8skkH9}, contentHash: {638a99}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -18,8 +18,8 @@ Prin harul pe care-l primim! :/
 
 [v2]
 În lupta cea bună-a credinței
-‘Napoi, nicidecum, să nu dăm.
-Suntem rânduiți biruinței,
+‘Napoi nicidecum să nu dăm.
+Suntem rânduiți biruinței
 Spre lauda Ta când luptăm.
 
 [v3]

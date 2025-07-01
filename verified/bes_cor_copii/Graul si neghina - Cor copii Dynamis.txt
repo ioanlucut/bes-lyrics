@@ -1,5 +1,5 @@
 [title]
-Grâul și neghina {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Cor copii Dynamis}, genre: {*}, rcId: {*}, id: {hLUDfF9fKgyYcECeWr8WbZ}, contentHash: {5fc7f2}}
+Grâul și neghina {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Cor copii Dynamis}, genre: {*}, rcId: {*}, id: {hLUDfF9fKgyYcECeWr8WbZ}, contentHash: {44086b}}
 
 [sequence]
 v1,v2,v3,v2,v3,v4,v5,v4,v6,e
@@ -36,8 +36,8 @@ Așa au și cei răi sfârșitul.
 Neghina, năvodul, sămânța ascunsă
 Ne spun despre viața ce-n noi a fost pusă,
 Cuvântul sădit ne-ncetat va lucra,
-Să fim găsiți buni la-ntoarcerea Sa!
+Să fim găsiți buni la întoarcerea Sa!
 
 [e]
 Cuvântul sădit ne-ncetat va lucra,
-Să fim găsiți buni la-ntoarcerea Sa!
+Să fim găsiți buni la întoarcerea Sa!

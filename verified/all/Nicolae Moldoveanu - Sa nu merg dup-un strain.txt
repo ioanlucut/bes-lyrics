@@ -1,5 +1,5 @@
 [title]
-Să nu merg dup-un străin {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5877}, id: {5WGAbB9x7nDPSdVFoW2X3Q}, contentHash: {b66355}}
+Să nu merg dup-un străin {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5877}, id: {5WGAbB9x7nDPSdVFoW2X3Q}, contentHash: {74af0a}}
 
 [sequence]
 v1,v2,v3,v4
@@ -37,5 +37,5 @@ Doamne, să mă-ncred deplin,
 /: Mă păzește de străin,
 Ochii-n ochii Tăi să-i țin,
 Pași să-mi calce mai lin
-Și pe drumul Tău divin,
-Veșnic să rămân. :/
+Și pe drumul Tău divin
+Pururi să rămână. :/
