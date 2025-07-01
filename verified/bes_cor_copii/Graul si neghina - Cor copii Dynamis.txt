@@ -1,5 +1,5 @@
 [title]
-Grâul și neghina {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Cor copii Dynamis}, genre: {*}, rcId: {*}, id: {hLUDfF9fKgyYcECeWr8WbZ}, contentHash: {5fc7f2}}
+Grâul și neghina {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Cor copii Dynamis}, genre: {*}, rcId: {*}, id: {hLUDfF9fKgyYcECeWr8WbZ}, contentHash: {44086b}}
 
 [sequence]
 v1,v2,v3,v2,v3,v4,v5,v4,v6,e
