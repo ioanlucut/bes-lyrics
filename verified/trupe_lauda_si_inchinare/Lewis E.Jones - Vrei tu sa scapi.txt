@@ -1,5 +1,5 @@
 [title]
-Vrei tu să scapi {alternative: {*}, composer: {Lewis E.Jones}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4438}, id: {sQTr6Xt4oUPqAwDMhMhHYi}, contentHash: {8a8030}}
+Vrei tu să scapi {alternative: {*}, composer: {Lewis E.Jones}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4438}, id: {sQTr6Xt4oUPqAwDMhMhHYi}, contentHash: {266535}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -11,10 +11,10 @@ Vrei tu să-nvingi răul din inimă,
 Prin sfânt sânge al lui Isus?
 
 [c]
-E puterea ce minuni face,
+/: E puterea ce minuni face,
 Sângele Mielului!
 E puterea ce minuni face
-În scump sângele al Mielului.
+În scump sângele al Mielului. :/
 
 [v2]
 Vrei să fii liber de patimi, păcat,
