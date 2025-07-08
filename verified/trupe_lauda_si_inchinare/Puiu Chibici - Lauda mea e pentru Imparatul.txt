@@ -11,10 +11,10 @@ Mi-am pus harfa mea în slujba unui Nume,
 Nume înălțat și minunat, Isus.
 
 [c]
-Lauda mea e pentru Împăratul,
+/: Lauda mea e pentru Împăratul,
 Nimeni nu-i ca El așa frumos,
 Sfânt și bun a fost și nu e altul
-Ca-al meu Mire drag, Isus Hristos.
+Ca-al meu Mire drag, Isus Hristos. :/
 
 [v2]
 Cum să nu Îi cânt, când cu atâta milă,
