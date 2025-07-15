@@ -1,0 +1,35 @@
+[title]
+Din strălucire jos ai venit {alternative: {*}, composer: {Christian Vasile Roske}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Din strălucire jos ai venit
+Și cu iubire m-ai mântuit.
+Am oare dreptul, nepăsător,
+Să stau, Isuse, l-al Tău izvor?
+
+[c]
+Chiar lumea-ntreagă de m-ar chema,
+Pe Tine, Doamne, nu Te-aș lăsa,
+Ești fericirea și dorul meu,
+Ești, Doamne, totul și eu al Tău!
+
+[v2]
+Izbit de valuri și părăsit,
+Când n-am pe nimeni și sunt urât,
+În grea durere, eu harul Tău
+Doreesc, Isuse, să-l simt mereu.
+
+[v3]
+De urc în viață sau de cobor,
+Merg în lumină sau trec prin nor,
+Te simt aproape și-s fericit,
+Căci sunt de Tine călăuzit.
+
+[v4]
+Și dacă viața-mi va oferi
+În lume multe din bogății,
+În fericire nu voi uita
+Că Ți-ai dat viața pe Golgota.

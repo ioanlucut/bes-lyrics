@@ -1,0 +1,20 @@
+[title]
+Noi Te așteptăm {alternative: {Waiting here for You}, composer: {Martin Smith, Chris Tomlin, Jesse Reeves}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Știu credința mută munții, vrem să îi mutăm,
+Venim cu umilință, pe Tine Te-adorăm.
+Noi Te așteptăm,
+Tu ești creatorul lumii, îmi știi inima,
+Ești Salvatorul nostru, simțim iubirea Ta.
+
+[c]
+/: Noi Te așteptăm, mâinile ridicăm spre cer,
+Doar pe Tin’ Te-adorăm, cântând aleluia. :/ (3x)
+
+[v2]
+Tu ești tot ce ai promis, credincios, măreț și bun,
+Ne dorim a Ta prezență, tot ce vrem ești Tu.

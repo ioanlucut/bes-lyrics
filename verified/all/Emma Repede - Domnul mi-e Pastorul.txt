@@ -2,21 +2,22 @@
 Domnul mi-e Păstorul {alternative: {*}, composer: {Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {233607}, id: {kNfmAEKuKghxd9oLcyRDp3}, contentHash: {263b54}}
 
 [sequence]
-v1,c,v1,c,e
+v1.1,v1.2,c,v1.1,v1.2,c,e
 
-[v1]
+[v1.1]
 Domnul mi-e Păstorul
 Și eu lipsă de nimic nu voi duce,
-El mă paște în pășuni verzi
+El mă paște la pășune
 Și la ape de odihnă El mă duce.
-Îmi înviorează sufletul
-Și mă povățuiește
+
+[v1.2]
+Îmi înviorează sufletul și mă povățuiește
 Pe cărările Lui drepte,
 Din pricina Numelui Său.
 
 [c]
 /: Chiar de-ar fi să umblu-n valea umbrei morții,
-Nu mă tem de niciun rău căci Tu ești cu mine.
+Nu mă tem de niciun rău, Tu ești cu mine.
 Toiagul și nuiaua Ta mă mângâie,
 De aceea îndurarea mă va însoți. :/
 
