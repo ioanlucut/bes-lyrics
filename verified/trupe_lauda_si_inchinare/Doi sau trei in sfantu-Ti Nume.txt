@@ -1,5 +1,5 @@
 [title]
-Doi sau trei în sfântu-Ți Nume {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Doi sau trei în sfântu-Ți Nume {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5QE9dTHbXxCS9zPpWut74w}, contentHash: {85f1e2}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

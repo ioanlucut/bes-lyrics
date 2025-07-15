@@ -1,5 +1,5 @@
 [title]
-Doamne, Tu ce miști chiar munții {alternative: {Mighty to Save; Măreț Salvator}, composer: {Ben Fielding & Reuben Morgan}, writer: {Ben Fielding & Reuben Morgan}, arranger: {*}, interpreter: {*}, band: {Hillsong Worship}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225867}, id: {5osVKqjcDmjm3YVXps7YEJ}, contentHash: {ee4299}}
+Doamne, Tu ce miști chiar munții {alternative: {Mighty to Save; Măreț Salvator}, composer: {Ben Fielding & Reuben Morgan}, writer: {Ben Fielding & Reuben Morgan}, arranger: {*}, interpreter: {*}, band: {Hillsong Worship}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {225867}, id: {5osVKqjcDmjm3YVXps7YEJ}, contentHash: {db06bc}}
 
 [sequence]
 v1,c,v2,c,b,c

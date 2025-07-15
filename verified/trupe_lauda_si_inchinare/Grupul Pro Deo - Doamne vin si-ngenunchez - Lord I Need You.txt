@@ -1,5 +1,5 @@
 [title]
-Doamne, vin și-ngenunchez {alternative: {Lord I Need You}, composer: {Daniel Carson}, writer: {Daniel Carson}, arranger: {*}, interpreter: {Grupul Pro Deo}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {133941}, id: {je2ZX9jyuBcFxt7EE9L44C}, contentHash: {6d0b17}}
+Doamne, vin și-ngenunchez {alternative: {Lord I Need You}, composer: {Daniel Carson}, writer: {Daniel Carson}, arranger: {*}, interpreter: {Grupul Pro Deo}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {133941}, id: {je2ZX9jyuBcFxt7EE9L44C}, contentHash: {3868fc}}
 
 [sequence]
 v1,c,v2,c,v3,c2,e
