@@ -1,0 +1,33 @@
+[title]
+Doi sau trei în sfântu-Ți Nume {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5QE9dTHbXxCS9zPpWut74w}, contentHash: {85f1e2}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Doi sau trei în sfântu-Ți Nume
+Când se vor uni,
+În mijlocul lor Tu însuți
+Spus-ai că vei fi.
+
+[c]
+/: Doamne, Doamne, cu noi știm că ești.
+Dă-ne binecuvântarea ce-o făgăduiești! :/
+
+[v2]
+Strânși acum cu toți în juru-Ți
+Vrem să Te-ascultăm,
+S-auzim ce vrei să ne spui
+Și să Te urmăm.
+
+[v3]
+Noi suntem slabi, Tu ești tare,
+Doamne, fii cu noi!
+Să pășim mereu-nainte,
+Să nu dăm ‘napoi!
+
+[v4]
+Dă-ne Tu izvorul păcii,
+Har și mângâieri!
+Tu ești totul pentru noi toți
+Pe pământ și-n cer.

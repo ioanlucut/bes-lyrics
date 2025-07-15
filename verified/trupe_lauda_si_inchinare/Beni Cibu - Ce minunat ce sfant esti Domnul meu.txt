@@ -1,0 +1,37 @@
+[title]
+Ce minunat, ce sfânt ești, Domnul meu {alternative: {*}, composer: {Beni Cibu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dsh3nuiXP3NNJSM61bQ3rF}, contentHash: {01bccd}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Ce minunat, ce sfânt ești, Domnul meu,
+Ce vrednic de-nchinare!
+/: Când ești chemat cobori la noi mereu,
+Și-oricât ar fi pustiul cu-al lui greu,
+Nu ne lași singuri când urcușu-i greu
+Și vii cu izbăvire! :/
+
+[v2]
+Ce minunat, ce sfânt ești, Domnul meu,
+Izvorul de iubire!
+/: Din fii pierduți, străini de Dumnezeu,
+Cu sângele cel scump și sfânt al Tău
+Ne-ai izbăvit de sub blestemul greu,
+Ți-aducem mulțumire. :/
+
+[v3]
+Ce minunat, ce sfânt ești, Domnul meu,
+În glorie ești Rege.
+/: Pân-acol’ sus te-om lăuda și-n greu,
+Pe-altarul vieții vorm jertfi mereu
+Viața noastră pentru Dumnezeu,
+Aceasta vom alege. :/
+
+[v4]
+Ce minunat, ce sfânt ești, Domnul meu,
+Ni-e dor, ni-e dor de Tine!
+/: Cu foc în piept Te așteptăm mereu,
+O, vino, drag Isus, Mirele meu!
+Să fim pe veci de veci în cerul Tău,
+Să fiu mereu cu Tine! :/

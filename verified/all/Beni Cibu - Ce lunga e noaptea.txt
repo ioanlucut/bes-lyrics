@@ -1,0 +1,27 @@
+[title]
+Ce lungă e noaptea {alternative: {*}, composer: {Beni Cibu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4TrrdqrbL7y5PWtwxzPagq}, contentHash: {e73b3c}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ce lungă e noaptea, ce nori plumburii
+Și stele puține se-arată!
+Cetatea e-n beznă și mulți au pierit,
+O, nu te lăsa niciodată!
+
+[c]
+/: O, nu te lăsa, străjer ancorat pe ’nălțime,
+Puțin a rămas și Mirele vine! :/
+
+[v2]
+Mai spune și astăzi, mai strigă vuind
+Că noaptea curând este gata,
+Anunță că zorii apar în curând,
+O, nu te lăsa niciodată!
+
+[v3]
+Rămâi lângă Domnul, rămâi neclintit
+Când vântul începe să bată!
+În lupte întruna, adesea lovit,
+O, nu te lăsa niciodată!

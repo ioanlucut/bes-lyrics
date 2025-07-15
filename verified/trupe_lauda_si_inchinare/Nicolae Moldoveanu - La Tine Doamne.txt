@@ -1,5 +1,5 @@
 [title]
-La Tine, Doamne {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5278}, id: {u7TFcgtYjEcVfuTTFdnZCA}, contentHash: {50faa5}}
+La Tine, Doamne {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5278}, id: {u7TFcgtYjEcVfuTTFdnZCA}, contentHash: {2c5c5a}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -19,4 +19,4 @@ Cel rău să nu se bucure de mine! :/
 /: Învață-mă cărările Tale. :/
 
 [v4]
-/: Cei ce cred sunt prieteni cu Domnul. :/
+/: Cei credincioși sunt prieteni cu Domnul. :/

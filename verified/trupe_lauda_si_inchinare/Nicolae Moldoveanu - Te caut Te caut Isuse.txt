@@ -1,0 +1,41 @@
+[title]
+Te caut, Te caut, Isuse {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3JhGDanwbtKrisDwchBAm7}, contentHash: {f27328}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Te caut, Te caut, Isuse,
+Din zori în amurg, cu doruri ce curg
+Spre Tine în valuri nespuse.
+Ca apa de munte în clocot,
+Ca ploaia de vară în ropot,
+Ca zborul soliei de clopot.
+Așa eu Te caut, Isuse!
+
+[v2]
+Cu râvnă mai vie, mai caldă,
+Întruna Te caut, deși Te-am aflat
+Și sufletu-n Tine se scaldă.
+Cum floarea-nsetează de soare,
+Cum cerbul dorește izvoare,
+Așa este-a mea căutare,
+Mereu mai curată, mai caldă.
+
+[v3]
+Cu cât eu Te caut pe Tine,
+Cu-atâta mai mult doresc să-Ți ascult
+Chemările Tale divine.
+Și cine-ar putea vreodată
+Cuprinde Ființa Ta toată
+În taine de soare-mbrăcată?
+De-aceea Te caut pe Tine.
+
+[v4]
+În Tine-mi găsesc liniștire
+Și sufletul meu primește mereu
+Comori de-adevăr și iubire.
+Te caut, Izvor al cântării,
+Lumină în noaptea-ntristării,
+Doresc frământarea căutării,
+Că-n ea-i doar a mea liniștire.
