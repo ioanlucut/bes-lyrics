@@ -1,12 +1,12 @@
 [title]
-Doamne, Numele-Ți înalț {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {55d702}}
+Doamne, Numele-Ți înalț {alternative: {Lord I Lift Your Name on High}, composer: {Rick Founds}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {55d702}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Doamne, Numele-Ți înalț, Doamne, laudă-Ți cânt Ție,
-Fericit sunt că Te am, fericit de-a Ta iubire.
+/: Doamne, Numele-Ți înalț, Doamne, laudă-Ți cânt Ție,
+Fericit sunt că Te am, fericit de-a Ta iubire. :/
 
 [c]
 /: Tu ai venit pe pământ să ne salvezi,

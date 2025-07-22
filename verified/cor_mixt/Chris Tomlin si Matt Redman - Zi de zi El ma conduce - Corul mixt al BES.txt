@@ -2,7 +2,7 @@
 Zi de zi El mă conduce {alternative: {*}, composer: {Chris Tomlin și Matt Redman}, writer: {Fanny Crosby}, arranger: {Jay Rouse}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {fpX3cUeFV4YAQrS1Mp7PBC}, contentHash: {46a498}}
 
 [sequence]
-v1.1,v1.2,c,v2.1,v2.2,c,e
+v1.1,v1.2,c,v2.1,v2.2,c,c2,e
 
 [v1.1]
 Zi de zi El mă conduce,
@@ -17,15 +17,15 @@ Har îmi dă în neputință,
 Apă sfântă-n ceasul greu.
 
 [c]
-/: Condu-mă prin foc și prin ape
+Condu-mă prin foc și prin ape
 Și du-mă pe stânca de sus!
-Da, Doamne, viața întreagă,
-Te voi urma! :/
+Da, Doamne, viața întreagă
+Te voi urma!
 
 [v2.1]
 Zi de zi El mă conduce
-În iubirea Sa să merg.
-În Cuvântul Său să mă-ncred,
+În iubirea Sa să merg,
+În Cuvântul Său să mă încred,
 Jertfa Sa s-o onorez.
 
 [v2.2]
@@ -33,6 +33,12 @@ Iar când în ceruri voi ajunge,
 Veșnic lângă Dumnezeu,
 Voi striga de bucurie:
 /: Cel ce m-a condus-i Isus! :/
+
+[c2]
+Condu-ne prin foc și prin ape
+Și du-ne pe stânca de sus!
+Da, Doamne, viața întreagă
+Te vom urma, Te vom urma!
 
 [e]
 /: Zi de zi El ne conduce. :/
