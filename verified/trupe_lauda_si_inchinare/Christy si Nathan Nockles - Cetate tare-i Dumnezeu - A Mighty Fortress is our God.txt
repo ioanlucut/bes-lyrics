@@ -1,5 +1,5 @@
 [title]
-Cetate tare-i Dumnezeu {alternative: {A Mighty Fortress is our God}, composer: {Christy și Nathan Nockles}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6tNcBS6XiQ6TAnMZHJDZzz}, contentHash: {4c25f5}}
+Cetate tare-i Dumnezeu {alternative: {A Mighty Fortress is our God}, composer: {Christy și Nathan Nockles}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6tNcBS6XiQ6TAnMZHJDZzz}, contentHash: {f20fcb}}
 
 [sequence]
 v1,p,c,v2,p,c,b,c,c2
@@ -14,12 +14,16 @@ Bun și-ndurător, din cer ne ascultă.
 Către El noi vom privi, ochii ni vom aținti.
 
 [c]
-Cetate tare-i Dumnezeu, un sfânt refugiu este El,
-Cu Tine, Doamne, vom domni, căci veșnic vei împărăți.
+/: Cetate tare-i Dumnezeu,
+Un sfânt refugiu este El,
+Cu Tine, Doamne, vom domni,
+Căci veșnic vei împărăți. :/
 
 [v2]
-Noi știm că Domnul e gelos pe ai Săi copii în sfântă iubire,
-Mai sus de ceruri e-ntronat, în slavă îmbrăcat și-n strălucire.
+Noi știm că Domnul e gelos
+Pe ai Săi copii în sfântă iubire,
+Mai sus de ceruri e-ntronat,
+În slavă îmbrăcat și-n strălucire.
 
 [b]
 Către El noi vom privi, ochii ni vom aținti,

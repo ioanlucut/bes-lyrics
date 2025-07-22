@@ -1,11 +1,11 @@
 [title]
-Până ajungem în casa din cer {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {The Messengers}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {83eDPJSXG5DLbm3cH25Dws}, contentHash: {bf5d98}}
+Până ajungem în casa din cer {alternative: {*}, composer: {Dan Damian}, writer: {*}, arranger: {*}, interpreter: {The Messengers}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {83eDPJSXG5DLbm3cH25Dws}, contentHash: {b3f0c3}}
 
 [sequence]
 v1,c,v2,c,v3,c,c2,e
 
 [v1]
-Până ajungem în casa din cer,
+Până ajungem în casa din cer
 Mai sunt furtuni, mai sunt dureri,
 Dar ne-a promis în Cuvânt Dumnezeu
 Că e cu noi mereu.
@@ -14,25 +14,25 @@ Că e cu noi mereu.
 Să nu te temi, Isus este la cârmă,
 El nu mai doarme, veghează Dumnezeu!
 El ceartă vântul și valul din furtună:
-„Taci, fără gură!”, vorbește Dumnezeu!
+„Taci, fără gură!”, vorbește Dumnezeu.
 
 [v2]
 Îmbracă cerul în mii de culori,
-Stele și lună, soare și nori,
+Stele și lună, soare și nori.
 Firul de păr știe când nu-l mai ai,
 Gândul și teama ce-o ai.
 
 [v3]
-Pacea divină, venită de sus,
+Pacea divină venită de sus
 În inimă, de la Isus,
 Domnească-n mintea și sufletul tău,
-Copil iubit al Său.
+Copil iubit al Său!
 
 [c2]
 Să nu te temi, Isus este la cârmă,
 El nu mai doarme, veghează Dumnezeu!
 El ceartă vântul și valul din furtună:
-/: „Taci, fără gură!”, vorbește Dumnezeu! :/
+/: „Taci, fără gură!”, vorbește Dumnezeu. :/
 
 [e]
 Să nu te temi, Isus este la cârmă!
