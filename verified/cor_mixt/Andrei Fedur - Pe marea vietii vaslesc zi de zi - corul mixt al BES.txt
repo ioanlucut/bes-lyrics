@@ -1,5 +1,5 @@
 [title]
-Pe marea vieții vâslesc zi de zi {alternative: {*}, composer: {Andrei Fedur}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {iXSu8N4VRs4K2BcMsNyGNz}, contentHash: {0ee64d}}
+Pe marea vieții vâslesc zi de zi {alternative: {*}, composer: {Andrei Fedur}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {iXSu8N4VRs4K2BcMsNyGNz}, contentHash: {92deeb}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,e

@@ -1,5 +1,5 @@
 [title]
-Când El vorbește, pământul se clatină {alternative: {*}, composer: {Dani Cîmpean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {173082}, id: {3pZEH7eFi5YYUZgZXD2K7j}, contentHash: {402e78}}
+Când El vorbește, pământul se clatină {alternative: {*}, composer: {Dani Cîmpean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {173082}, id: {3pZEH7eFi5YYUZgZXD2K7j}, contentHash: {62bf4d}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c

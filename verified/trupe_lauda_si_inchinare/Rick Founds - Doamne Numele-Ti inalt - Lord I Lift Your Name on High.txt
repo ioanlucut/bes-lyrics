@@ -1,5 +1,5 @@
 [title]
-Doamne, Numele-Ți înalț {alternative: {Lord I Lift Your Name on High}, composer: {Rick Founds}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {55d702}}
+Doamne, Numele-Ți înalț {alternative: {Lord I Lift Your Name on High}, composer: {Rick Founds}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2955}, id: {md4ytCNLvLtz5LsfrPygzN}, contentHash: {bad6f5}}
 
 [sequence]
 v1,c,v1,c

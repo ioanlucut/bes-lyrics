@@ -1,5 +1,5 @@
 [title]
-Zi de zi El mă conduce {alternative: {*}, composer: {Chris Tomlin și Matt Redman}, writer: {Fanny Crosby}, arranger: {Jay Rouse}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {fpX3cUeFV4YAQrS1Mp7PBC}, contentHash: {46a498}}
+Zi de zi El mă conduce {alternative: {*}, composer: {Chris Tomlin și Matt Redman}, writer: {Fanny Crosby}, arranger: {Jay Rouse}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {fpX3cUeFV4YAQrS1Mp7PBC}, contentHash: {287a5a}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,c2,e
