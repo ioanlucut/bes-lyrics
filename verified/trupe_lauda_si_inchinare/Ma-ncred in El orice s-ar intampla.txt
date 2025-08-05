@@ -1,8 +1,8 @@
 [title]
-Mă-ncred în El orice s-ar întâmpla {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4191}, id: {sQHxHgzDr36KdaH21hn9V5}, contentHash: {735f8a}}
+Mă-ncred în El orice s-ar întâmpla {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4191}, id: {sQHxHgzDr36KdaH21hn9V5}, contentHash: {573b33}}
 
 [sequence]
-c,v1,c,v2,c2,v3,c2
+c,v1,c,v2,c,v3,c
 
 [v1]
 Mă-ncred în El orice s-ar întâmpla
@@ -27,9 +27,3 @@ Mă-ncred în El chiar și când nu-nțeleg,
 Eu voia Lui întotdeauna-aleg,
 Căci doar așa, în slava Sa,
 Cerescul Tată m-a călăuzi.
-
-[c2]
-/: Mă-ncred în El, El știe viața mea
-Pe stâncă sus sau în adânc de văi.
-Lovit de val ajung la mal,
-Cerescul Tată m-a călăuzi. :/
