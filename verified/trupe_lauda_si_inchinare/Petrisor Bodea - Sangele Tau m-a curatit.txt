@@ -5,10 +5,13 @@ Sângele Tău m-a curățit {alternative: {*}, composer: {Petrișor Bodea}, writ
 v1,c,v1,c
 
 [v1]
-/: Sângele Tău m-a curățit, sângele Tău m-a mântuit,
-Sângele Tău viață mi-a dat, ai murit ca eu să fiu iertat. :/
+/: Sângele Tău m-a curățit,
+Sângele Tău m-a mântuit,
+Sângele Tău viață mi-a dat,
+Ai murit ca eu să fiu iertat. :/
 
 [c]
 /: Îmi ridic azi mâinile, mă închin în fața Ta,
 Doar Tu meriți să fii lăudat,
-Nimeni nu m-a iubit așa de mult ca să moară pentru vina mea. :/
+Nimeni nu m-a iubit așa de mult
+Ca să moară pentru vina mea. :/

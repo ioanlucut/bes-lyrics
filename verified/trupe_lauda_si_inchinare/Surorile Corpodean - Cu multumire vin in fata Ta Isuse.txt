@@ -2,7 +2,7 @@
 Cu mulțumire vin în fața Ta, Isuse {alternative: {*}, composer: {Surorile Corpodean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74504}, id: {7DmtiUS5RfR4NCexevtUiL}, contentHash: {2a9dda}}
 
 [sequence]
-v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c2.1,c2.2
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c2.1,c2.2,e
 
 [v1]
 Cu mulțumire vin în fața Ta, Isuse,
@@ -17,10 +17,10 @@ Toată binecuvântarea Ta.
 Tot ce ai lucrat în viața mea.
 
 [c1.2]
-Mare-ndurare pentru mine-ai arătat
+/: Mare-ndurare pentru mine-ai arătat
 Și mult mai mult decât am meritat.
 Nu pot, Isuse, îndeajuns să-Ți mulțumesc,
-Dar Te slăvesc, căci Te iubesc!
+Dar Te slăvesc, căci Te iubesc! :/
 
 [v2]
 Voi fi dator să-Ți mulțumesc o veșnicie,
@@ -41,7 +41,10 @@ Pentru binecuvântarea Ta,
 Căci ai lucrat în viața mea.
 
 [c2.2]
-Chiar mii de buze de-aș avea,
+/: Chiar mii de buze de-aș avea,
 Tot n-aș putea să-Ți mulțumesc pentru iubirea Ta.
 Inima mea ca mulțumire-Îți dăruiesc
-/: Și Te slăvesc, căci Te iubesc! :/
+Și Te slăvesc, căci Te iubesc! :/
+
+[e]
+Și Te slăvesc, căci Te iubesc!
