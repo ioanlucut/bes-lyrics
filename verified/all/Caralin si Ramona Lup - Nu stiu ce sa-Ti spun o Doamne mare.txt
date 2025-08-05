@@ -1,5 +1,5 @@
 [title]
-Nu știu ce să-Ți spun, o, Doamne mare {alternative: {*}, composer: {Cărălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mDniSmQXrvLUq6UunRyADU}, contentHash: {906de1}}
+Nu știu ce să-Ți spun, o, Doamne mare {alternative: {*}, composer: {Cărălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mDniSmQXrvLUq6UunRyADU}, contentHash: {144397}}
 
 [sequence]
 v1.1,v1.2,c,v2,c2,b,c2

@@ -1,5 +1,5 @@
 [title]
-El ne-a condus {alternative: {He Leadeth Us}, composer: {Mary McDonald}, writer: {Mary McDonald; Eugen Drăgoiu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {uk3k7akDQkUuReTSBa6y6A}, contentHash: {e66b29}}
+El ne-a condus {alternative: {He Leadeth Us}, composer: {Mary McDonald}, writer: {Mary McDonald; Eugen Drăgoiu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {uk3k7akDQkUuReTSBa6y6A}, contentHash: {fba122}}
 
 [sequence]
 v1,v2,c1.1,c1.2,c1.3,v3,c2.1,c2.2,e
