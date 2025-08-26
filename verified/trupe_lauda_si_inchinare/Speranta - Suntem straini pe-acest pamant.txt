@@ -5,7 +5,8 @@ Suntem străini pe-acest pământ {alternative: {*}, composer: {Speranța}, writ
 v1,c,v2,c,v3,c
 
 [v1]
-Suntem străini pe-acest pământ, suntem pribegi în lumea aceasta,
+Suntem străini pe-acest pământ,
+Suntem pribegi în lumea aceasta,
 Călătorim înspre Canaan, avem cu toții o nădejde
 Și știm că vine ziua când ne vom vedea dincolo de Iordan.
 
@@ -16,7 +17,7 @@ Ne vom vedea pe acele plaiuri minunate.
 În Paradis, în cerul sfânt ne vom vedea.
 
 [v2]
-Din orice neam și orice popor,cei ce L-am slujit pe Domnul
+Din orice neam și orice popor, cei ce L-am slujit pe Domnul
 Vom fi atunci la marea sărbătoare.
 Mai sus de cerul înstelat, mai sus de galaxii și astre,
 Ne vom vedea cu Domnul în ziua mare.
