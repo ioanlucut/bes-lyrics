@@ -1,5 +1,5 @@
 [title]
-Tu-mi ești refugiul {alternative: {You Are My All in All}, composer: {Dennis Jernigan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4291}, id: {662kRy77cLwEwr7MxEErtr}, contentHash: {403340}}
+Tu-mi ești refugiul {alternative: {You Are My All in All}, composer: {Dennis Jernigan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4291}, id: {662kRy77cLwEwr7MxEErtr}, contentHash: {a42596}}
 
 [sequence]
 v1.1,v1.2,c,v2,c
@@ -10,7 +10,7 @@ Tu ești comoara ce o caut,
 Tu ești în toate Domn.
 
 [v1.2]
-Mâna-mi întinzi atunci când cad,
+Mâna-Ți întinzi atunci când cad,
 Când sunt setos, Tu apă-mi dai,
 Tu ești în toate Domn.
 

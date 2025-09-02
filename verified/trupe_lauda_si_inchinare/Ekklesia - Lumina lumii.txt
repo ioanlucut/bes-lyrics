@@ -1,8 +1,8 @@
 [title]
-Lumina lumii {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2848}, id: {6UyaXPU1eiMxXgxN5M6dnn}, contentHash: {8b8b41}}
+Lumina lumii {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2848}, id: {6UyaXPU1eiMxXgxN5M6dnn}, contentHash: {0e000f}}
 
 [sequence]
-v1,c,v2,c,b,c2
+v1,c,v2,c,b,c
 
 [v1]
 Lumina lumii, prezență divină, ajută-mă să-nțeleg
@@ -10,10 +10,10 @@ Cât de frumos ne-ai creat pentru Tine,
 Speranță ne-ai dăruit.
 
 [c]
-Toată închinarea, toată adorarea,
+/: Toată închinarea, toată adorarea,
 Ție-Ți dăruiesc, o, Domnul meu!
 Numai Tu ești vrednic, numai Tu ești veșnic,
-Doamne, numai Tu ești minunat!
+Doamne, numai Tu ești minunat! :/
 
 [v2]
 Rege etern ce domnești sus în ceruri,
@@ -24,9 +24,3 @@ Din dragoste Te-ai jertfit.
 [b]
 /: Cum să-nțeleg cât Te-a costat
 Să ierți deplin al meu păcat? :/
-
-[c2]
-/: Toată închinarea, toată adorarea,
-Ție-Ți dăruiesc, o, Domnul meu!
-Numai Tu ești vrednic, numai Tu ești veșnic,
-Doamne, numai Tu ești minunat! :/

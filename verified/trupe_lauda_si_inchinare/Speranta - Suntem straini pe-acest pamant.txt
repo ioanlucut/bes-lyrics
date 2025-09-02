@@ -1,5 +1,5 @@
 [title]
-Suntem străini pe-acest pământ {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64198}, id: {3pcatYkq727LDSFVi9BdY3}, contentHash: {979564}}
+Suntem străini pe-acest pământ {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64198}, id: {3pcatYkq727LDSFVi9BdY3}, contentHash: {89d82f}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -8,7 +8,8 @@ v1,c,v2,c,v3,c
 Suntem străini pe-acest pământ,
 Suntem pribegi în lumea aceasta,
 Călătorim înspre Canaan, avem cu toții o nădejde
-Și știm că vine ziua când ne vom vedea dincolo de Iordan.
+Și știm că vine ziua când
+Ne vom vedea dincolo de Iordan.
 
 [c]
 Ne vom vedea acolo, sus, pe nori de slavă.
@@ -17,7 +18,8 @@ Ne vom vedea pe acele plaiuri minunate.
 În Paradis, în cerul sfânt ne vom vedea.
 
 [v2]
-Din orice neam și orice popor, cei ce L-am slujit pe Domnul
+Din orice neam și orice popor,
+Cei ce L-am slujit pe Domnul
 Vom fi atunci la marea sărbătoare.
 Mai sus de cerul înstelat, mai sus de galaxii și astre,
 Ne vom vedea cu Domnul în ziua mare.
