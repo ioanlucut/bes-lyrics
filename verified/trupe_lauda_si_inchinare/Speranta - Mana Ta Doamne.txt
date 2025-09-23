@@ -1,5 +1,5 @@
 [title]
-Mâna Ta, Doamne {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4319}, id: {tRhMCBnwdSqacDgwGz2f1w}, contentHash: {009190}}
+Mâna Ta, Doamne {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4319}, id: {tRhMCBnwdSqacDgwGz2f1w}, contentHash: {fa4afe}}
 
 [sequence]
 c,v1,c,v2,c,v3,c
@@ -28,5 +28,5 @@ Mâna mea, vreau s-o țin în mâna Ta.
 [v3]
 Mâine dincolo de noapte, în ai zilei zori,
 Voi deschide ochii printre galaxii
-Și-am să strig „Slăvit să fii și azi și-n veșnicii”,
+Și-am să strig „Slăvit să fii și azi și în veșnicii”,
 Mâna mea, vreau s-o țin în mâna Ta.
