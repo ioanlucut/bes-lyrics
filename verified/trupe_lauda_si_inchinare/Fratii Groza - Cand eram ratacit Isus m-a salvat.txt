@@ -1,0 +1,29 @@
+[title]
+Când eram rătăcit, Isus m-a salvat {alternative: {*}, composer: {Frații Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5808}, id: {pq6UsgGG9nfCBmP4Hj86hT}, contentHash: {088a88}}
+
+[sequence]
+c,v1,c,v2,c,v3
+
+[v1]
+Când eram rătăcit, Isus m-a aflat,
+Din păcat El m-a ridicat.
+Viața El mi-a schimbat și m-a luminat,
+Isus, prietenul meu minunat.
+
+[c]
+/: Ce frumos, ce plăcut e să fii creștin,
+Să trăiești prin credință mereu,
+Să te simți un copil al lui Dumnezeu,
+Ce plăcut e să fii creștin! :/
+
+[v2]
+Zi de zi, ceas cu ceas, eu mă simt iubit,
+Am în sufletul meu pe Isus.
+El e Mântuitorul meu drag și scump
+Ce veghează la viața mea.
+
+[v3]
+Nu mai sta azi pe gânduri, tu, suflet pierdut,
+Vin’ la Isus, azi roagă-te Lui!
+Vin’ la viața creștină, ridică-te sus,
+Fă un legământ cu Isus!

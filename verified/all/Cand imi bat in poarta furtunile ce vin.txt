@@ -1,18 +1,18 @@
 [title]
-Când îmi bat în poartă furtunile ce vin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ttJBMC1CQXgV8cLqVFsuRk}, contentHash: {433b75}}
+Când îmi bat în poartă furtunile ce vin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ttJBMC1CQXgV8cLqVFsuRk}, contentHash: {74fd57}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
 
 [v1]
-Când îmi bat în poartă furtunile ce vin
+Când îmi bat în poartă furtunile ce vin,
 Nu mă tem, nu mă tem!
-Când e cerul vieții de gânduri negre plin
+Când e cerul vieții de gânduri negre plin,
 Nu mă tem, nu mă tem!
 
 [c1.1]
 Eu Îl țin de mână, de El mă alipesc
-Și întotdeauna, în ochii Lui privesc,
+Și întotdeauna în ochii Lui privesc,
 Cu El împreună cred și reușesc
 Peste toate să pășesc.
 
@@ -23,13 +23,13 @@ Nu sunt singur, orișice ar veni
 Mâna Lui mă va păzi.
 
 [v2]
-Când mă simt învins de al vieții val
+Când mă simt învins de al vieții val,
 Nu mă tem, nu mă tem!
 Mâna Lui mie-ntinsă, punte spre liman,
 Nu mă tem, nu mă tem!
 
 [v3]
-Dacă îndoiala din nou mă va-ncerca
+Dacă îndoiala din nou mă va-ncerca,
 Nu mă tem, nu mă tem!
 Chiar dacă puțină e credința mea,
 Nu mă tem, nu mă tem!
