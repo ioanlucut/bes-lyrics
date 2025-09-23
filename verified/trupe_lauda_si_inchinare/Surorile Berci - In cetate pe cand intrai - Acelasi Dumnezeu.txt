@@ -1,5 +1,5 @@
 [title]
-În cetate pe când intrai {alternative: {Același Dumnezeu}, composer: {Surorile Berci}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qwpEcfdyWP4jfYB21kjSZZ}, contentHash: {426e19}}
+În cetate pe când intrai {alternative: {Același Dumnezeu}, composer: {Surorile Berci}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qwpEcfdyWP4jfYB21kjSZZ}, contentHash: {735c4b}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2,c1.1,c1.2,v3,b,c1.1,c1.2

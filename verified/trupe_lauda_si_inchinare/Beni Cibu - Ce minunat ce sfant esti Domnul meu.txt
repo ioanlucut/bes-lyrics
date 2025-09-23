@@ -1,5 +1,5 @@
 [title]
-Ce minunat, ce sfânt ești, Domnul meu {alternative: {*}, composer: {Beni Cibu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dsh3nuiXP3NNJSM61bQ3rF}, contentHash: {01bccd}}
+Ce minunat, ce sfânt ești, Domnul meu {alternative: {*}, composer: {Beni Cibu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dsh3nuiXP3NNJSM61bQ3rF}, contentHash: {0ee466}}
 
 [sequence]
 v1,v2,v3,v4
