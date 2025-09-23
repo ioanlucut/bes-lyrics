@@ -1,5 +1,5 @@
 [title]
-Suntem străini pe-acest pământ {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64198}, id: {3pcatYkq727LDSFVi9BdY3}, contentHash: {d67f13}}
+Suntem străini pe-acest pământ {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {64198}, id: {3pcatYkq727LDSFVi9BdY3}, contentHash: {979564}}
 
 [sequence]
 v1,c,v2,c,v3,c

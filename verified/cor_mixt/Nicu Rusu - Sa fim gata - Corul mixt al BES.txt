@@ -1,5 +1,5 @@
 [title]
-Să fim gata {alternative: {*}, composer: {Nicu Rusu}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {7EZZHhvrrccPDvaxdVtLkF}, contentHash: {9e198a}}
+Să fim gata {alternative: {*}, composer: {Nicu Rusu}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {7EZZHhvrrccPDvaxdVtLkF}, contentHash: {3147a4}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c2,e
