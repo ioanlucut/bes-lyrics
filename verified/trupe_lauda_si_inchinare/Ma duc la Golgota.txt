@@ -1,0 +1,34 @@
+[title]
+Mă duc la Golgota {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {efjJtvbBsKfGrRiL4FwCqk}, contentHash: {75ed89}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Mă duc la Golgota s-aud ce vorbește,
+/: Să-L văd pe Domnul meu
+Cum moare pe cruce. :/
+
+[v2]
+Ce mare durere pe El L-a apăsat!
+/: El strigă: „Părinte, pentru ce M-ai lăsat?” :/
+
+[v3]
+El nu se răzbună, L-aud cum S-a rugat:
+/: „Părinte, iartă-le, că ei nu știu ce fac!” :/
+
+[v4]
+Maria cum plânge, mângâind-o zice:
+/: „Vezi, mamă, fiul tău? Păzește-o, amice!” :/
+
+[v5]
+Iar pe acel tâlhar așa îl mângâie:
+/: „Încă astăzi, în rai vei fi tu cu Mine.” :/
+
+[v6]
+„Setos sunt”, El strigă, „Durerile sunt mari!”
+/: Prietenul nost’ Cel sfânt pe cruce chin răbdând. :/
+
+[v7]
+Plecând capul zice: Toate sfârșitu-s-au!
+/: Părinte-n mâna Ta sufletul Meu Ți-l dau!” :/

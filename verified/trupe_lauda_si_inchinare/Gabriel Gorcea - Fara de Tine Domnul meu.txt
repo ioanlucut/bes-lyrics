@@ -1,0 +1,35 @@
+[title]
+Fără de Tine, Domnul meu {alternative: {*}, composer: {Gabriel Gorcea}, writer: {Gabriel Gorcea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fCGCBQRtCPpgUgqhMKJDgF}, contentHash: {69dd76}}
+
+[sequence]
+v1,c,v2,c,v3,c2
+
+[v1]
+Fără de Tine, Domnul meu, aș fi un praf luat de vânt,
+Fără de Tine, Doamne, nu aș putea rosti un cuvânt.
+/: Doar Tu, doar Tu ai pus suflare-n mine,
+Doar Tu, doar Tu ești Acel ce mă ține. :/
+
+[c]
+Depind doar de harul Tău
+Și vreau din inimă să-Ți mulțumesc.
+Mă-nchin în fața Ta, Domnul meu,
+Te laud, Te slăvesc!
+
+[v2]
+Fără de Tine-aș fi nimic, aș fi fără de speranță,
+Prin Tine sunt ceea ce sunt, Doamne, Tu mi-ai dat viață.
+/: Doar Tu, doar Tu ai dat sens vieții mele,
+Doar Tu, doar Tu mi-ai fost aproape-n clipe grele. :/
+
+[v3]
+Fără de Tine-aș fi pierdut, aș fi prins în păcat,
+Dar dragostea-Ți nemărginită m-a ridicat și m-a iertat.
+/: Doar Tu, doar Tu ai părăsit cerul slăvit,
+Doar Tu, doar Tu atât de mult m-ai iubit. :/
+
+[c2]
+/: Depind doar de harul Tău
+Și vreau din inimă să-Ți mulțumesc.
+Mă-nchin în fața Ta, Domnul meu,
+Te laud, Te slăvesc! :/

@@ -1,0 +1,28 @@
+[title]
+N-ai înțelege ce-nseamnă iubirea {alternative: {*}, composer: {Corneliu Matei}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7uLYVJ93WfyU7VhqRJHeDw}, contentHash: {1eef40}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+N-ai înțelege ce-nseamnă iubirea
+De nu ai ști ce-nseamnă cu-adevărat jertfirea,
+Ai fi ca un pribeag, mereu stingher, fără speranță,
+Și-n suflet ai avea mereu umbre de nesiguranță.
+
+[c]
+/: Căci dragostea este-ndelung răbdătoare,
+E plină mereu de bunătate,
+Nu se umflă de mândrie, ci se bucură de-adevăr.
+Nu caută nicicând folosul său,
+Ea nu se gândește deloc la rău,
+Suferă totul, acoperă totul, dragostea-i din Dumnezeu. :/
+
+[v2]
+N-ai înțelege ce-nseamnă iubirea
+De nu ai ști ce-nseamnă cu-adevărat iertarea,
+Ai fi ca un chimval zăngănitor ce-n noapte sună,
+N-ar străluci în jurul tău nicio rază de lumină.
+
+[e]
+Dragostea-i din Dumnezeu.

@@ -1,0 +1,28 @@
+[title]
+Slăvit fie Domnul, slăvit fie Domnul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bN6KyBuLTeHTBbcsW4RukK}, contentHash: {87a46f}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Cum să-Ți mulțumesc pentru tot ce mi-ai dăruit?
+Eu n-am meritat ca să mă iubești așa de mult.
+Tot cerul n-ar putea să spună deplin recunoștința mea,
+Căci tot ce sunt și ce voi fi de-a pururi e darul Tău divin.
+
+[c]
+Slăvit fie Domnul, slăvit fie Domnul,
+Slăvit fie Domnul pentru tot ce mi-a dat!
+M-a spălat al Său sânge, m-a-nălțat brațu-I tare,
+Slăvit fie Domnul pentru tot ce mi-a dat!
+
+[v2]
+Aș vrea să-Ți fiu pe plac cu viața mea, cu tot ce am;
+Și gândul meu, ruga mea să înalț mereu spre Golgota!
+M-a spălat al Său sânge, m-a-nălțat brațu-I tare,
+Slăvit fie Domnul pentru tot ce mi-a dat!
+
+[c2]
+Slăvit fie Domnul, slăvit fie Domnul,
+Slăvit fie Domnul pentru tot ce mi-a dat!
+Aleluia!

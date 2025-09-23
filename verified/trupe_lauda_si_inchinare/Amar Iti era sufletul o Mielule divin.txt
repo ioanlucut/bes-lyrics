@@ -1,0 +1,41 @@
+[title]
+Amar Îți era sufletul, o, Mielule divin {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6i8PLe4yBSUhH4oicwKPeZ}, contentHash: {ec7ce2}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Amar Îți era sufletul, o, Mielule divin,
+Când ai intrat în Ghetsimani, să-L rogi pe Tatăl sfânt:
+„De-i cu putință ca paharul greu să treacă,
+Dar, totuși, voia Ta, o, scumpe Tată, să se facă!”
+
+[c]
+O, du-mă, Doamne, și pe mine-n Ghetsimani
+Ca să-mi arăți și mie unde Te-ai rugat,
+Du-mă la Golgota, pe sinistrul munte,
+Ca să plâng la crucea unde ai răbdat!
+
+[v2]
+Noi nu-I cunoșteam prețul și nici nu-l vom ști nicicând:
+Vândutu-L-ai tu, Iudo, pentru cei treizeci de-arginți?
+Intrară în grădină o mulțime de avari
+Ca să-L prindă și să-L ducă ca și pe-un tâlhar.
+
+[v3]
+O, dimineața e pustie, noaptea-a dispărut,
+Totul e-nvelit în misterul albei dimineți;
+Privighetoarea tristă nu-și mai cântă vechiul glas,
+Căci în grădina Ghetsimani doar lacrimi au rămas.
+
+[v4]
+Îngenuncheat, cu crucea-n spate și cununi de spini,
+Fiul lui Dumnezeu, pe munte, răbda-ntre străini.
+Calvarul suferinței nemiloase a urcat,
+Trupul e atârnat pe cruce, sângele-i vărsat.
+
+[v5]
+Mi-au străbătut cuiele carnea, sângele-a curs văi,
+„N-am făcut-o pentru Mine, ci pentru voi, cei răi.
+Și dacă credeți în Mine, vă dăruiesc iertare,
+Și-n jertfa din Calvar viață veșnică în dar.”

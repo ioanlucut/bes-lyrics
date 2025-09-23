@@ -1,0 +1,29 @@
+[title]
+În această zi, o, Doamne {alternative: {*}, composer: {Vlad Bucur}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {63CGFXz9RLn4agxsTzhzCm}, contentHash: {188153}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+În această zi, o, Doamne, doi părinți ‘naintea Ta
+Au adus a lor odraslă pentru-al binecuvânta.
+Te rugăm a lor dorință, Doamne, să le-o împlinești,
+După-a Ta făgăduință copilașul să-l păzești!
+
+[c]
+Binecuvintează-l, Doamne, pe pământ cât va trăi
+Sub a Ta călăuzire pașii lui mereu a fi!
+Să aducă bucurie în familie mereu,
+Despre el să se vorbească: e copil de Dumnezeu!
+
+[v2]
+Fața Ta să lumineze totdeauna peste el,
+Ochii Tăi să îl vegheze până va ajunge-n cer.
+Pacea Ta să-l însoțească când e drumu-anevoios,
+Îndurarea Ta să-l țină mai aproape de Hristos.
+
+[c2]
+/: Binecuvintează-l, Doamne, pe pământ cât va trăi
+Sub a Ta călăuzire pașii lui mereu a fi!
+Să aducă bucurie în familie mereu,
+Despre el să se vorbească: e copil de Dumnezeu! :/

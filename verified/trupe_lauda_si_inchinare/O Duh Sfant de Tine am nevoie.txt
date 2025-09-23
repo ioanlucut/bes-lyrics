@@ -1,0 +1,29 @@
+[title]
+O, Duh Sfânt, de Tine am nevoie {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2s1Z1CJvLc9MevB2nq1aPf}, contentHash: {e41e68}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+O, Duh Sfânt, de Tine am nevoie,
+O, Duh Sfânt, prin Tine eu trăiesc,
+/: Tu îmi ești umplerea din suflet
+Și cu Tine mă înveselesc! :/
+
+[c]
+/: Duhul Sfânt e Porumbelul,
+Duhul Sfânt e foc, putere,
+Duhul Sfânt în orice clipă
+E nădejde, mângâiere. :/
+
+[v2]
+O, Duh Sfânt, Tu ești Duh de-nviere,
+O, Duh Sfânt, prin Tine eu trăiesc,
+/: O, Duh Sfânt, Tu-mi dai și azi putere
+Și cu Tine eu trăiesc! :/
+
+[v3]
+Duh Preasfânt, Tu-mi ești tăria vieții
+În pribegia mea pe-acest pământ,
+/: Tu mă pregătești pentru-ntâlnirea
+Cu Isus, Mirele sfânt. :/

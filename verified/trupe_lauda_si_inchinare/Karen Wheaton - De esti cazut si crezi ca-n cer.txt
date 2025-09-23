@@ -1,0 +1,34 @@
+[title]
+De ești căzut și crezi că-n cer {alternative: {*}, composer: {Karen Wheaton}, writer: {Daniela Bogdan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cZKNs6NPkkwd3fwcPhUQLA}, contentHash: {de30de}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+De ești căzut și crezi că-n cer
+Ai fost dat uitării
+Sau zilnic lupți cu încercări
+Din greu, tot mai greu,
+
+[v1.2]
+Sau simți că-n loc să ieși la mal
+Vezi doar adâncul mării,
+Să știi, Dumnezeu, El grija ta o poartă mereu.
+
+[c]
+/: Dumnezeu va lucra, din nou va lucra,
+Tu doar stai pe loc să poți ca să vezi clar mâna Sa.
+Oare nu e Dumnezeu același și azi ca și ieri?
+Deși nu ști cum, deși nu ști când,
+El din nou va lucra. :/
+
+[v2.1]
+El, Dumnezeu, știe-al tău plâns
+Și ce adâncă ți-e rana.
+El știe tot ce te-a făcut
+Să ai duhul zdrobit.
+
+[v2.2]
+Când Cel stăpân peste mări,
+Soare și aștrii mii e bunul tău Tată,
+Chiar și-un uragan va potoli.

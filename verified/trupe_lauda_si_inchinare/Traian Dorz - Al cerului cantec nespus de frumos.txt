@@ -1,0 +1,35 @@
+[title]
+Al cerului cântec nespus de frumos {alternative: {*}, composer: {*}, writer: {Traian Dorz}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fDtC7VUG2Uds8qhYiYty7Y}, contentHash: {885594}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Al cerului cântec nespus de frumos
+Odată, demult, mi-ai cântat
+Și glasul Tău dulce, adânc și duios
+/: De-atunci m-a legat, m-a legat. :/
+
+[v2]
+Simțit-am în suflet sărutul Tău blând,
+Preasfânt, fermecat, îngeresc.
+De-atunci eu, Isuse, Te caut plângând,
+/: De-atunci Te iubesc, Te iubesc! :/
+
+[v3]
+Pe brațul Tău dulce odat’ am plecat
+Truditul meu gând să-l alin
+Și după odihna ce-atunci am aflat,
+/: Isuse, suspin și suspin. :/
+
+[v4]
+Cuvântul Tău dulce și cald l-am primit,
+Isuse, odată, demult.
+De-atunci, însetat, fermecat, fericit,
+/: Doresc să-l ascult, să-l ascult. :/
+
+[v5]
+Ființa mea-ntreagă, Isuse, Te vrea,
+De Tine-nsetez și doresc!
+Viața, lumina și dragostea mea,
+/: Isus, Te iubesc, Te iubesc! :/

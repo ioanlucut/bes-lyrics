@@ -1,0 +1,29 @@
+[title]
+Cu Păstorul meu voi merge mereu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {b4b2sUpPTeniCdubqskqgm}, contentHash: {5251d4}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Cu Păstorul meu voi merge mereu,
+Cu El voi fi de-acum și-n veșnicii.
+Știu că m-a iubit, e-n inima mea,
+În El mă-ncred, doar El e calea mea.
+
+[c]
+El e speranța mea orișicând,
+Voi spune chiar oricui
+Că în curând pe nori va veni
+Să ia pe-ai Săi copii.
+
+[v2]
+Voi păși mereu, cu El zi de zi,
+Mângâierea Sa ades mă va-nsoți,
+Nu mă tem defel de niciun rău,
+Doar brațul Său e veșnic scutul meu.
+
+[c2]
+/: El e speranța mea orișicând,
+Voi spune chiar oricui
+Că în curând pe nori va veni
+Să ia pe-ai Săi copii. :/

@@ -1,0 +1,29 @@
+[title]
+Casa noastră e sus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ukqbhAVGC2Ryw76fuM99Tm}, contentHash: {67043b}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Casa noastră e sus, casa noastră e sus,
+Pregătită de Domnul Isus.
+Printre toate ce sunt nu-i nimic mai iubit
+Decât Mielul de Tatăl jertfit.
+
+[c]
+Doamne, ce mult dorim ca acasă să fim,
+Lângă Domnul Isus să trăim!
+Și cu îngerii-n cor să cântăm melodii
+Împreună cu sute de mii.
+
+[v2]
+Sus e loc minunat, sus e loc minunat,
+Pentru cei ce iertare-au aflat;
+În sclipiri aurii strălucește Hristos,
+Decât El nu-i nimic mai frumos.
+
+[v3]
+Bucurii, fericiri, frumuseți făr-sfârșit
+Sus în cer Domnul ne-a pregătit;
+Să-L slăvim, să-L iubim, să-L dorim pe Isus,
+Să ne ducă în casa de sus!

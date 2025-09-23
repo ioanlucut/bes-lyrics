@@ -1,0 +1,29 @@
+[title]
+Râu al binecuvântării, Duhul Celui veșnic viu {alternative: {Showers of Blessing}, composer: {James McGranahan}, writer: {Daniel Webster Whittle}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jsX8jRDULBjDYJk7rGeXSt}, contentHash: {acdc1a}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Râu al binecuvântării,
+Duhul Celui veșnic viu,
+Vino cu timpuri de pace,
+Umple-nsetatul pustiu!
+
+[c]
+Doamne, revarsă Duhul
+Promis ca pe-un râu,
+Chiar un strop de fericire,
+Dă-ne-ndeajuns Duhul Tău!
+
+[v2]
+Sfântă binecuvântare,
+Râu ce curgi din Dumnezeu,
+Umple cu sfânta putere
+Sufletul nostru mereu!
+
+[v3]
+Duh al binecuvântării,
+Astăzi smeriți Te dorim,
+Inima ne e deschisă,
+Umple-ne, dar, pe deplin!

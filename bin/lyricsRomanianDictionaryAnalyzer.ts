@@ -3,7 +3,7 @@
 // 100% reliable thus it cannot be used as a validator per se
 // ---
 
-import dictionaryRo, { Dictionary } from 'dictionary-ro';
+import dictionaryRo from 'dictionary-ro';
 import dotenv from 'dotenv';
 import fs from 'fs';
 import {
@@ -20,7 +20,6 @@ import { default as NSpell, default as nspell } from 'nspell';
 import path from 'path';
 import * as process from 'process';
 import { fileURLToPath } from 'url';
-import * as util from 'util';
 import {
   CHARS_SEPARATORS,
   ERROR_CODE,
@@ -118,9 +117,7 @@ const existingCustomWordsAsString = fs
   .toString();
 const existingCustomWords = existingCustomWordsAsString.split(NEW_LINE);
 
-const getDictionaryAsync = util.promisify(dictionaryRo);
-const romanianDictionary = (await getDictionaryAsync()) as Dictionary;
-const speller = nspell(romanianDictionary).personal(
+const speller = nspell(dictionaryRo as never).personal(
   existingCustomWordsAsString,
 );
 

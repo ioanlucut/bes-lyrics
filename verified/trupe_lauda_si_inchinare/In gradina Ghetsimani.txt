@@ -1,0 +1,41 @@
+[title]
+În grădina Ghetsimani {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {gXBAon96C9LRkLZiiohJWh}, contentHash: {dbc4bb}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+În grădina Ghetsimani, templu pașnic, liniștit,
+Era locul rugăciunii al lui Isus, mult iubit.
+El S-a dus în locul tainic cu ai Săi învățăcei
+Să se roage, să vegheze pentru El și pentru ei.
+
+[v2]
+Nu plecase niciodată El cu-atâta întristare,
+În grădina neuitată, ca în noaptea de trădare.
+El veni ca să plătească vina greului păcat,
+Pe noi să ne mântuiască din pierzare ne-a scăpat.
+
+[v3]
+El zise aceste cuvinte, tremurând în glasul Său:
+„Întristat până la moarte e acum sufletul Meu!
+Privegheați și voi cu Mine!”, a spus aleșilor Lui,
+„Până ce în rugăciune stau ‘naintea Tatălui!”
+
+[v4]
+Și mergând puțin ‘nainte a căzut pe fața Sa
+Zicând: „Bunule Părinte fie numai voia Ta!”
+Tot cu aceste cuvinte de trei ori El s-a rugat,
+Suferind chinuri cumplite pentru-al lumii greu păcat.
+
+[v5]
+Din agonia Sa mare ce-n sudori sânge I-a scos,
+El ieși cu triumf mare căci un înger veni jos,
+Ca o solie cerească, de la tronul Tatălui,
+Ca El să desăvârșească mântuirea omului.
+
+[v6]
+Când la-nvățăcei vine zice aflându-i dormind:
+„N-ați putut și voi cu mine un ceas să stați priveghind?”
+Însă ei nu pricepură, deși de trei ori sculați,
+Și dormiră mai departe, dar Isus S-a tulburat.

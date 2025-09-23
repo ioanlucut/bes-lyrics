@@ -1,0 +1,25 @@
+[title]
+În grădina cu măslini {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pL3jerqnn8ukEJVDW26Zgc}, contentHash: {bccc00}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+În grădina cu măslini seara, după ce-ai cinat,
+Te-ai dus, Doamne, să-Ți alini sufletul învolburat.
+
+[v2]
+Nu păcatul Tău, Isuse, Ți-a fost greu, căci n-ai avut,
+Ci al nost’ păcat te duse, pentru lume Te-a durut.
+
+[v3]
+Lacrimile erau sânge când cereai puteri de sus,
+Câte nu spunea atuncea plânsul Tău, Isus, Isus!
+
+[v4]
+În grădina cu măslini Domnul pentru noi a plâns
+Și în loc s-adune crini numai spini și-amar a strâns.
+
+[v5]
+În grădina cu măslini vin Isus și eu să plâng.
+Domnul vine-mi dă alin, flori în suflet ca să strâng.

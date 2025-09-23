@@ -1,0 +1,29 @@
+[title]
+Tu meriți toată lauda {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hBFfDUTEpVpfdbCPPUb5P2}, contentHash: {2c738f}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu meriți toată lauda,
+Căci Tu ești totul în toți,
+Căci Tu din veșnicie
+Ești Domnul Savaot.
+
+[c]
+În soare, în lună, în stele și-n nori
+Stă scris, Doamne, Numele Tău.
+Și mări, și oceane, și râuri, și flori,
+Toate-Ți spun că ești viu Dumnezeu!
+
+[v2]
+Tu meriți slava, cinstea,
+Căci ești cel mai frumos,
+Tu ne-ai adus la viață
+Prin Fiul Tău, Hristos.
+
+[v3]
+Ți-aducem cu iubire,
+De-aici de pe pământ,
+Cântări de preamărire,
+Părinte drag și sfânt.

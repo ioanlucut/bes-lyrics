@@ -1,0 +1,21 @@
+[title]
+Râul binecuvântării revarsă peste lume {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {vaHXC8wbCNDFxwwNScq2k7}, contentHash: {029f01}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Râul binecuvântării revarsă peste lume,
+Timpul păcii dă să vie inimile să umple!
+
+[c]
+Doamne, revarsă Duhul promis ca pe-un râu
+Și-un strop încă-i fericire, dă-ne-ndeajuns Duhul Tău!
+
+[v2]
+Râul binecuvântării vuiește de departe,
+Vino-n inimi păcătoase, o, Duh Sfânt, pogoară-Te!
+
+[v3]
+Râul binecuvântării peste noi azi revarsă,
+Acum, când plecați Te rugăm, când inima-i deschisă!

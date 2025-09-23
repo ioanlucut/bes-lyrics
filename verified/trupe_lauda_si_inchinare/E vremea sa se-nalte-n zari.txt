@@ -1,0 +1,33 @@
+[title]
+E vremea să se-nalțe-n zări {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {auvM3imQWuxiDtZn9S39zU}, contentHash: {bc5de6}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+E vremea să se-nalțe-n zări
+Șuvoiul necurmatelor cântări
+De laudă și de mulțumiri
+Spre marele Stăpân din veșnicii.
+
+[c]
+/: Se cere ca fecioarele-nțelepte
+Să stea în rugă și în veghe,
+Căci nu se știe, poate-n liniște,
+Când toți dorm, Mirele vine!
+Grăbiți-vă, fecioare înțelepte,
+Pe mijlocul cărării drepte,
+În pașii de Hristos lăsați,
+Fiți gata să-L întâmpinați! :/
+
+[v2]
+În mâna celor cu ulei în vas,
+Al căror candele încă mai ard
+Al biruinței steag de sus
+Curând fiecărui va fi adus.
+
+[v3]
+E vremea rândul să se strângă,
+Când trâmbița deșteptării sună.
+Poate în har e ultima chemare
+Când Domnul face cercetare.

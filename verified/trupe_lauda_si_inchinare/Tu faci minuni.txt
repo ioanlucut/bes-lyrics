@@ -1,0 +1,22 @@
+[title]
+Tu faci minuni {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tBb5YtWjTAtBoDftwnXdve}, contentHash: {d6f5cc}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Tu faci minuni și noi credem în Tine,
+Ne întărești când vin zilele grele.
+
+[c]
+/: Ești Dumnezeu din veșnicie,
+Îmbrăcat în măreție,
+În prezența-Ți mă cutremur și mă-nchin. :/
+
+[v2]
+La glasul Tău marea se liniștește,
+La glasul Tău Satan se prăbușește.
+
+[v3]
+Când Te-am chemat, mereu mi-ai fost aproape,
+Chiar și atunci când am trecut prin ape.

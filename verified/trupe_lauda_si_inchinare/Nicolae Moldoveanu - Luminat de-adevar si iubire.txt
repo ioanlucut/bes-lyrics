@@ -1,0 +1,35 @@
+[title]
+Luminat de-adevăr și iubire {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5bVhjkTaByTERZpsvPNU3U}, contentHash: {ceb683}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Luminat de-adevăr și iubire,
+Luminat de preasfântul Cuvânt,
+/: Vreau, Isuse, cu-ntreaga-mi simțire,
+Vreau așa să-Ți slujesc pe pământ. :/
+
+[v2]
+Dezlegat de-omeneasca plăcere
+Și-alipit doar de sfântul Cuvânt,
+/: Vreau, Isuse, cu-ntreaga-mi putere,
+Vreau așa să-Ți slujesc pe pământ. :/
+
+[v3]
+De-a minciunii turbată furie
+Eu m-ascund în preasfântul Cuvânt,
+/: Căci, Isus, vreau întreg numai Ție,
+Vreau așa să-Ți slujesc pe pământ. :/
+
+[v4]
+Vreau aprins de iubirea Ta mare,
+Vreau să-nalț al vieții Cuvânt,
+/: Vreau să ard în preasfânta-Ți lucrare,
+Vreau așa să-Ți slujesc pe pământ. :/
+
+[v5]
+Până când Tu veni-vei, Isuse,
+Să-mplinești tot ce-ai spus prin Cuvânt,
+/: În a-Tale-adevăruri nespuse
+Să trăiesc, să slujesc pe pământ. :/

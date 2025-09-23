@@ -1,0 +1,40 @@
+[title]
+Mă încred în Dumnezeu {alternative: {O mie să cadă alăturea}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {twj23tzmXBTgSMN24HkzYR}, contentHash: {bf1777}}
+
+[sequence]
+v1,c,v2,c,v3.1,v3.2,c
+
+[v1]
+Mă încred în Dumnezeu, El știe viitorul meu,
+Ce-ar putea să-mi facă oamenii?
+Când El mă ține cu mâna Lui,
+Când viața mea e-a Domnului,
+Nu mă tem de orice-ar veni.
+
+[c]
+/: O mie să cadă alăturea
+Și zece mii la dreapta mea,
+Nu mă tem când Domnul e cu mine.
+Chiar munții de s-ar clătina
+Și marea în valuri de-ar urla,
+Nu mă tem, că brațul Lui mă ține! :/
+
+[v2]
+Nu mă tem de noaptea grea,
+Nu mă tem de săgeata rea,
+Domnul îmi e ocrotitor.
+La umbra aripilor Lui,
+Sub ocrotirea Domnului,
+Am sprijin și-ajutor.
+
+[v3.1]
+Chiar de-ar fi să trec prin valea morții
+Sufletul meu Îți aparține,
+Totul de voi pierde-n lume
+Să nu te pierd, Doamne, pe Tine.
+
+[v3.2]
+Și chiar de-ar fi să trec prin valea morții
+Sufletul meu Îți aparține,
+Totul de voi pierde-n lume
+Să nu te pierd, Doamne, pe Tine.

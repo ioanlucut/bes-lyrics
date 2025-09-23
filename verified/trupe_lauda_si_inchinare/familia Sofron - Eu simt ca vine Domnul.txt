@@ -1,0 +1,29 @@
+[title]
+Eu simt că vine Domnul {alternative: {*}, composer: {familia Șofron}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {4WZBXV1dLF6VDpM2PtLprP}, contentHash: {904691}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Eu simt că vine Domnul curând ca să ne ia
+Și mult aici în lume noi, frați, nu vom mai sta.
+Nimic nu ne mai lege de lutul blestemat,
+Eu simt că vine Domnul, popor răscumpărat.
+
+[c]
+/: Spre seară, la noapte, sau mâine-n zori de zi,
+Se-aude strigarea: „Veniți ai mei copii!”
+Eu simt că vine Domnul, voi oare nu simțiți
+Că vine răpirea, o, frații mei iubiți? :/
+
+[v2]
+Eu simt că vine Domnul și-s bucuros mereu,
+Mă duc curând acasă, în cer la Tatăl meu.
+Nimic nu am în lume decât ai mei iubiți
+Și vreau, Isus, de Tine să fim cu toți răpiți.
+
+[v3]
+Nu mai goniți prin vale să căutați comori!
+Vă spun: „Căutați pe Domnul ce stă mai sus de nori!”
+Eu simt că vine Domnul și vreau să îmi păstrez
+Curată a mea haină, cu El să mă-ntâlnesc.

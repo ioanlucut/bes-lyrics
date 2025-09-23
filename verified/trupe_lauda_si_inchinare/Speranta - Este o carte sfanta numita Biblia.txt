@@ -1,0 +1,29 @@
+[title]
+Este o carte sfântă numită Biblia {alternative: {*}, composer: {Speranța}, writer: {Gabriel Gorcea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {i5G3cKWgF89B8coetqYmCw}, contentHash: {26f56d}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Este o carte sfântă numită Biblia
+Ce trebuie iubită din toată inima.
+Nu a fost și nu este doar o simplă carte,
+Explică trecutul și înțelesu-a toate.
+
+[c]
+/: Biblia viață ți-aduce
+Prin Isus ce-a stat pe cruce,
+Acum e anul de-ndurare,
+Hai la El că Domnu-ți dă iertare. :/
+
+[v2]
+Ea este Cartea ce schimbă ale noastre vieți,
+Aduce mireasma altor dimineți.
+Nu este și nici nu a fost doar o simplă carte,
+Privește dovada atâtor vieți schimbate!
+
+[v3]
+Acesta e Cuvântul venit din cer de sus,
+S-a întrupat la cruce prin Domnul Isus.
+Nu este și nici nu a fost doar o simplă carte,
+Ne-a dăruit viață și ne-a scăpat de moarte.

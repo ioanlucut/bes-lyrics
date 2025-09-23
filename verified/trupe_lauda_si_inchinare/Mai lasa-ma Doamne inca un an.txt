@@ -1,0 +1,35 @@
+[title]
+Mai lasă-mă, Doamne, încă un an {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {csd48KeNVycP4h3vs6Bewq}, contentHash: {668e95}}
+
+[sequence]
+v1,c,v2,c2,v1,c3
+
+[v1]
+Mai lasă-mă, Doamne, încă un an
+În frunza cea verde și-amară,
+Să urce Izvorul Luminii prin ram
+/: Ca rodul dorit să apară. :/
+
+[c]
+/: Zadarnic am stat în pământul cel gras,
+Cu apele dulci lângă mine,
+Căci Seva cea Vie în fructe n-am tras;
+Mi-s frunzele goale de Tine, mi-s frunzele goale de Tine.
+
+[v2]
+A mea rădăcină de mult a pierdut
+Dorința de-a crește spre Tine.
+Frumos, dar pustiu pe pământ am crescut
+/: Și-acum umbre vin să mă-ngroape. :/
+
+[c2]
+/: Cu ochiul Tău cauți vreun fruct rumenit
+În noaptea cea rece și-adâncă.
+Dar umbră și umbră e tot ce-am rodit,
+O, nu-mi blestema viața încă, o, nu-mi blestema viața încă! :/
+
+[c3]
+/: În inima mea de smochin fără rod
+Mă plouă cu apa Ta vie,
+Din lacrima crengii, durerii izvor,
+La anul smochine-o să fie, la anul smochine-o să fie.

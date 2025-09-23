@@ -1,0 +1,27 @@
+[title]
+Doamne, Tu nouă ne-ai ordonat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3iQt3X1mkgwZqZmVmbm5f9}, contentHash: {383bdf}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, Tu nouă ne-ai ordonat
+Să mergem să vestim ne-ncetat
+Evanghelia-n toată lumea,
+S-o audă toată făptura.
+
+[c]
+Cei ce cred în Tine se botează și se mântuie;
+Și semne Tu le lași arătând că sunt ai tăi urmași.
+
+[v2]
+După ce-an crezut ne botezăm
+Și ca Tine din moarte-nviem,
+După Duh Sfânt noi toți ne rugăm,
+Cu El noi astăzi să ne îmbrăcăm.
+
+[v3]
+Acum, când în apă-s botezat,
+Te rog, dă-mi Duhul Tău cel curat
+Și condu-mă mereu pe pământ
+Să pot fi ca și Tine, tot blând.

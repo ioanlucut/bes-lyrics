@@ -1,0 +1,29 @@
+[title]
+Binecuvântează-i, Doamne, pe-acești miri {alternative: {*}, composer: {Simon Boloca}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {g5kVcqSVLsFKfuKVAb2WHR}, contentHash: {370d91}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Binecuvântează-i, Doamne,
+Pe-acești miri ce s-au legat
+Și pornesc în căsnicie,
+Pe-un drum nou de Tin’ trasat!
+
+[c]
+Ține-i Tu, Doamne, de mână când necazul va veni,
+Voia Ta s-o înțeleagă și să-Ți poată mulțumi!
+Numai cu Isus pe cale, voi, miri, veți fi fericiți,
+Și în toate, da, în toate cu El veți fi împliniți!
+
+[v2]
+Când vin valuri și necazuri
+Peste ei, Isus iubit,
+I-ai de mână și le-arată
+Locul ce le-ai pregătit!
+
+[v3]
+Fă-le viața fericită,
+De ce-i rău să îi ferești!
+Dă-le-n toate biruință
+Și mereu să-i ocrotești!

@@ -1,0 +1,61 @@
+[title]
+Îmbracă-te Ierusalime cu haina ta de nuntă {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jsMftMNFSMLvog6tqcAdA5}, contentHash: {2a1e01}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8
+
+[v1]
+Îmbracă-te Ierusalime
+Cu haina ta de nuntă,
+/: Cu pietre scumpe de safir
+Cusute și unse cu mir
+Și-n cap cununi și salbe! :/
+
+[v2]
+Iată acum străjerii cântă
+Cântarea veșniciei
+/: Și niciodată n-or tăcea,
+Ci zi și noapte vor cânta
+De drag o veșnicie. :/
+
+[v3]
+Împodobește-te mireasă
+Cu haina ta de nuntă!
+/: Îmbracă-te de pe pământ,
+De dragul tău și cerul sfânt
+Și îngerii îți cântă. :/
+
+[v4]
+La nunta ta cea mai frumoasă
+Cum n-a fost din vecie
+/: Căci toți acei ce vor intra
+În mii de glasuri vor cânta
+Cântarea veșniciei. :/
+
+[v5]
+Și așa iți vei petrece viața
+Cu dulcele Tău Mire,
+/: Isus te va purta-n iubiri
+Prin raiul sfânt de trandafiri,
+În cer o veșnicie. :/
+
+[v6]
+Ierusalim, cetatea mea,
+Tot sufletu-mi suspină,
+/: Când oare, când te voi vedea,
+Când oare-n tine voi intra
+Să cânt în mântuirea ta, pe marea cristalină? :/
+
+[v7]
+Ierusalim, sfânt dor nestins, ce dulce va fi-n tine
+/: Când lungul zbucium va fi-nvins,
+Când țelul drag va fi atins,
+Iar plânsul șters, uitat și stins,
+Și zilele senine! :/
+
+[v8]
+Dar până-atunci, Ierusalim,
+Trimite-ne din tine
+/: Arvuna harului sublim,
+Pe care-l cerem și-l dorim
+Biruitori să moștenim comorile-ți divine. :/

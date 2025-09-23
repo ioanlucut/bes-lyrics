@@ -1,0 +1,29 @@
+[title]
+Nu prin vedere înaintăm {alternative: {*}, composer: {Monica Turtoi}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {atxqH7YQYtUy6rgPHifnCv}, contentHash: {3a7780}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Nu prin vedere înaintăm,
+Ci prin credință pașii Tăi urmăm.
+Ne ești nădejde și ne-ai promis
+O moștenire în paradis.
+
+[c]
+Prin focul încercării credința o păstrăm
+Și-n ceasul întristării prin har ne bucurăm.
+Credința încercată în chinul înfocat
+Să fie arătată ca aurul curat.
+
+[v2]
+Când ochii noștri nu pot vedea,
+Ne-ncredem, Doamne, în iubirea Ta.
+Stăm prin credință chiar și-n cuptor,
+Că-n toate-acestea ești ajutor.
+
+[v3]
+De-a Ta putere suntem păziți,
+Stând în credință să fim mântuiți,
+Chiar de vom trece prin aspre văi,
+Ne ținem, Doamne, de pașii Tăi!

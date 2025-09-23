@@ -1,0 +1,35 @@
+[title]
+Voi cânta în orice vreme, Dumnezeul meu slăvit {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {sWq8GTD5r6VXBJnsy8G6wU}, contentHash: {adf9bb}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Voi cânta în orice vreme, Dumnezeul meu slăvit,
+De nimic nu mă voi teme, căci în toate m-ai păzit.
+Cât de mare-ar fi furtuna, de nimic eu nu mă tem,
+Căci Tu ești întotdeauna ajutorul meu suprem.
+
+[c]
+Voi cânta, voi cânta, Te voi binecuvânta!
+Cât de mare-ar fi furtuna, voi cânta întotdeauna,
+Căci Tu, Doamne, m-ai salvat, căci m-ai binecuvântat.
+Voi cânta, voi cânta, veșnic Te voi lăuda!
+
+[v2]
+Sunt atât de fericit, scump Isus, că mă iubești,
+Că viața mi-e păzită și că Tu mă ocrotești.
+Valuri multe de-or să vină, de nimic eu nu mă tem,
+Căci Tu ești întotdeauna ajutorul meu suprem.
+
+[v3]
+Doamne-aș vrea ca niciodată să nu Te mai întristez,
+Viața să-mi fie curată, zilnic mai mult să veghez,
+Să Te laud totdeauna și mai mult să Te iubesc,
+Cât de mare-ar fi furtuna vreau să pot să-Ți mulțumesc!
+
+[v4]
+Că nimic nu-i la-ntâmplare pentru mine pe pământ,
+Iar când Tu cu slavă mare vei veni din cerul sfânt,
+Voi uita ca fost furtună, voi uita c-am plâns cândva,
+Vom fi veșnic împreună, veșnic Te voi lăuda.

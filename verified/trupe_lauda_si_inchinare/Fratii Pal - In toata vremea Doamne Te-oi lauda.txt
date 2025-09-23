@@ -1,0 +1,35 @@
+[title]
+În toată vremea, Doamne, Te-oi lăuda {alternative: {*}, composer: {Frații Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {96CZVrYCVjfTinMgFZvBQP}, contentHash: {a90478}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+În toată vremea, Doamne, Te-oi lăuda,
+Numele Tău cu drag voi înălța!
+Tu ești Păstorul bun și credincios
+Și sus pe munte și în vale jos.
+
+[c]
+Isus, Isus izvorul mântuirii,
+Ne-ai dat atât de mult belșug de har.
+Când Îți cântăm, Isus, se luminează cerul,
+Se-aprinde jertfa pe altar.
+
+[v2]
+Ce Nume minunat și ce frumos,
+Plin de-adevăr și har și luminos
+E Isus, Domnul care ne-a iubit
+Pe fiecare și ne-a mântuit.
+
+[v3]
+Să nu uităm nicicând că Dumnezeu
+Veghează asupra noastră El mereu!
+Când valul va lovi cumplit și greu,
+Suntem chemați să-L onorăm pe El.
+
+[v4]
+Să nu uităm al rugăciuni-altar
+În vremea-aceasta că El vine iar
+Și sus în cer cu El ne va lua
+Pe cei ce-s pregătiți, aleluia!

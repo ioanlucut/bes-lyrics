@@ -1,0 +1,36 @@
+[title]
+Știm că Tu ești Dumnezeu {alternative: {*}, composer: {Eugen Tifrea}, writer: {Eugen Tifrea}, arranger: {*}, interpreter: {Speranța}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {jHfw5opUhM88F8AkT5mkCE}, contentHash: {e92ecb}}
+
+[sequence]
+v1,c,v2,c,b,c2
+
+[v1]
+Știm că Tu ești Dumnezeu,
+Slava nu Ți-o-mparți cu nimeni,
+Tot universul este-al Tău.
+Noi știm cu iubire ne-ai creat,
+Viața-Ți pentru viața noastră Tu Ți-ai dat,
+Suntem datori să-Ți mulțumim neîncetat.
+
+[c]
+Din iubire-ai îndurat durerea biciului roman,
+Ai acceptat să-Ți frângă mâna puterea cuiului dușman,
+Căci planul Tău era salvarea sufletului omenesc,
+Te-ai întrupat să-ntruchipezi iubirea Tatălui ceresc.
+
+[v2]
+Știm că Tu ești creator,
+Chiar de-ai fost trimis la moarte de propriul Tău popor,
+Noi știm, vei rămâne neschimbat.
+Chiar de toți din jurul Tău ai fost trădat,
+Tu vei rămâne veșnic Rege, Împărat.
+
+[b]
+Mormântul n-a putut să rămână sigilat,
+Căci după doar trei zile din morți ai înviat.
+
+[c2]
+/: Din iubire-ai îndurat durerea biciului roman,
+Ai acceptat să-Ți frângă mâna puterea cuiului dușman,
+Căci planul Tău era salvarea sufletului omenesc,
+Te-ai întrupat să-ntruchipezi iubirea Tatălui ceresc. :/

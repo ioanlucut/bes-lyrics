@@ -1,0 +1,37 @@
+[title]
+Unde vei fi în veșnicii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8ByNw91MbRTLDH39WF6PnK}, contentHash: {8fd36c}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,b,c
+
+[v1]
+Unde vei fi în veșnicii
+Tu ce de Domnul ești chemat?
+Unde vei fi în veșnicii?
+Un suflet viu El te-a creat.
+
+[c]
+Răspunde azi, răspunde azi!
+Unde vei fi în veșnicii?
+
+[v2]
+Unde vei fi în veșnicii
+Tu care în păcat trăiești?
+Unde vei fi în veșnicii
+Tu care viața risipești?
+
+[v3]
+Unde vei fi în veșnicii?
+În locul tău Hristos muri.
+Unde vei fi în veșnicii?
+El pentru tine pătimi.
+
+[v4]
+Unde vei fi în veșnicii?
+La Isus azi de vei veni
+În suflet îți va răsări
+În loc de groază bucurii.
+
+[b]
+Dar ce-i mai scump e că vei fi
+Lângă Isus în veșnici.
