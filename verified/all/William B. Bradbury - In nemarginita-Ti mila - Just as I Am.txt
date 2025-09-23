@@ -1,5 +1,5 @@
 [title]
-În nemărginita-Ți milă {alternative: {Just as I Am}, composer: {William B. Bradbury}, writer: {Charlotte Elliott}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1686}, id: {dEjxmkxQ5w5Qq4Ak4KDRkz}, contentHash: {46105d}}
+În nemărginita-Ți milă {alternative: {Just as I Am}, composer: {William B. Bradbury}, writer: {Charlotte Elliott}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1686}, id: {dEjxmkxQ5w5Qq4Ak4KDRkz}, contentHash: {021f68}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -14,7 +14,7 @@ Marea și adânca-mi vină
 Isuse, vin, la Tine vin,
 Așa cum sunt la Tine vin,
 Isuse, vin, la Tine vin,
-Așa cum sunt, azi vin!
+Așa cum sunt azi vin.
 
 [v2]
 Am trăit o viață tristă,
@@ -25,11 +25,11 @@ Când a Ta mai sângera.
 [v3]
 O, Isuse, vreau din suflet
 Ție să mă dau pe veci,
-Luminează al meu cuget
+Luminează al meu cuget,
 De la mine să nu pleci.
 
 [v4]
-Aleluia! Slavă Ție,
+Aleluia, Slavă Ție,
 M-ai scăpat de jugul greu!
 Înspre-a Ta Împărăție
 Duce astăzi drumul meu.

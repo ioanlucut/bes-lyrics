@@ -1,5 +1,5 @@
 [title]
-Grăbind venirea lui Hristos cu În curând noi vom pleca {alternative: {*}, composer: {Andrei Fedur}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {5qyfs6r3AjACM1CeN64nrg}, contentHash: {59c4a7}}
+Grăbind venirea lui Hristos cu În curând noi vom pleca {alternative: {*}, composer: {Andrei Fedur}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {5qyfs6r3AjACM1CeN64nrg}, contentHash: {565235}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,v3.1,v3.2,c2,e
@@ -44,7 +44,7 @@ Pe cei dragi vom revedea
 Când ne vom reîntâlni.
 
 [v3.2]
-La picioarele-I vom sta
+La picioarele-Ți vom sta
 O, ce fericită zi!
 Toți un cântec vom cânta
 Când ne vom reîntâlni.

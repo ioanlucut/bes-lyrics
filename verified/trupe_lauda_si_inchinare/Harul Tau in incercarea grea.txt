@@ -1,35 +1,35 @@
 [title]
-Harul Tău în încercarea grea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5635}, id: {mRyJm6D8iGLMZSKJqL71hi}, contentHash: {d482c8}}
+Harul Tău în încercarea grea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5635}, id: {mRyJm6D8iGLMZSKJqL71hi}, contentHash: {131a2d}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Dă-ne putere, Doamne, azi Îți cerem
+Dă-ne putere, Doamne, azi Îți cerem,
 Puterea Duhului Tău Sfânt
 Ca să putem învinge-n orice vreme,
-În timpul alergării pe pământ.
+În timpul alergării pe pământ!
 
 [c]
-Harul Tău, în încercarea grea,
+Harul Tău în încercarea grea
 Ne dăruiește victoria.
 O, Doamne, prin puterea Ta învingem noi
 În orice luptă și nevoi.
 
 [v2]
 Ajută-ne ca să purtăm cu cinste
-Numele-Ți sfânt, așa cum ne-ai chemat
+Numele-Ți sfânt, așa cum ne-ai chemat,
 Să oglindim în ale noastre fapte,
-Isuse, chipul Tău sfânt și curat.
+Isuse, chipul Tău sfânt și curat!
 
 [v3]
 Dă-ne putere ca să fim în lume
 Lumină pentru cei ce-s rătăciți,
 Să ținem sus stindardul Evangheliei,
-Chiar de vom fi de oameni prigoniți.
+Chiar de vom fi de oameni prigoniți!
 
 [v4]
 Ajută-ne să mergem drept pe Cale,
-Când greul și ispita vor veni
+Când greul și ispita vor veni,
 Să nu dăm înapoi în încercare,
-Să nu ne poată răul birui.
+Să nu ne poată răul birui!
