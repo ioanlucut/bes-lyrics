@@ -1,0 +1,23 @@
+[title]
+Doamne, Tu nouă ne-ai lăsat Cuvântul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6C1pzEYctDx9rArNDyCrZE}, contentHash: {a879ce}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Doamne, Tu nouă ne-ai lăsat Cuvântul Tău cel sfânt,
+Cu dragoste ne-ai ordonat să-l vestim pe pământ.
+
+[c]
+Te-ascultăm, Te-ascultăm, Doamne, și Te mărim,
+Și Cuvântul Tău cel sfânt îl vestim.
+Pentru că Tu așa ne-ai ordonat
+Ca să Te vestim noi ne-ncetat.
+
+[v2]
+Să privești doar cu milă acum, putere să ne dai
+Să-Ți slujim pe-al vieții drum ca să-ajungem în rai.
+
+[v3]
+Dă-ne putere-n Cuvânt și-o sfântă-nsuflare,
+De jertfa-Ți să spunem oricând și la fiecare.

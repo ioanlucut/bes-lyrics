@@ -1,0 +1,29 @@
+[title]
+Dacă norii încercărilor și teama {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {vdbDETzVXTc3ePzx8Qna9X}, contentHash: {c37e18}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+După două mii de ani Tu mi-ai dat harul
+Să Te văd crucificat în locul meu,
+Să-nțeleg că pentru mine-a fost Calvarul
+Și să vin să-Ți mulțumesc, o, Domnul meu.
+
+[c]
+/: Dacă norii încercărilor și teama
+Se vor aduna vreodată-n jurul meu,
+Doamne-ajută-mă să spun întotdeauna:
+Tu ești Domnul meu și Dumnezeul meu. :/
+
+[v2]
+După două mii de ani Tu mi-ai dat harul
+Să spun tuturor de darul Tău bogat,
+Să mă bucur de-nălțarea Ta în slavă
+Ca-mpărat și Domn în veci glorificat.
+
+[v3]
+După două mii de ani Tu mi-ai dat harul
+De-a mă-ncrede pe deplin în brațul Tău,
+De-a primi cu drag în inimă Cuvântul
+Și de-a fi de-acum pe veci copilul Tău.

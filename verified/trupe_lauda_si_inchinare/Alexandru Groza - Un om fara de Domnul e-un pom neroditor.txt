@@ -1,0 +1,29 @@
+[title]
+Un om fără de Domnul e-un pom neroditor {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {9hthbxN181TDvW7DKFm4yy}, contentHash: {e2f99e}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Un om fără de Domnul e-un pom neroditor
+Sădit în lumea mare, fără de ajutor.
+Când firea pământească sufletul i-a-ngrădit
+Inima lui suspină și e nefericit.
+
+[c]
+Nu cere de la oameni să-ți dea fericirea,
+Că numai Domnul știe și poate să ți-o dea!
+Încrede-te în Domnul și viața Ta va fi
+Cu rod și împlinită, cu mii de bucurii!
+
+[v2]
+Ce-i omul fără Domnul? Un călător pribeag
+Ce-aleargă prin lume de griji împovărat.
+Trudește-o viață-ntreagă, nu-i binecuvântat
+Și-n anii bătrâneții e trist, însingurat.
+
+[v3]
+Așa, omule, vino la Tatăl-Dumnezeu,
+Căci El ți-a dat viață și totul este El!
+Te pocăiește astăzi cât timp tu mai trăiești,
+Împacă-te cu Domnul să ai viața de veci!

@@ -1,0 +1,29 @@
+[title]
+Cetate sfântă ce cobori din ceruri {alternative: {*}, composer: {Ilie Puha}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8mrqAnUYHR5UhphqYob7Py}, contentHash: {d29a7b}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Cetate ce cobori din ceruri,
+Ierusalime, te ador!
+Împodobit cu străzi de aur,
+Creat de Domnul Savaot.
+
+[c]
+/: Ierusalime, cu dor te așteptăm,
+O, Doamne Isus, noi Te chemăm!
+La Tin‘ uita-vom de lacrimi pe obraz,
+De chin și moarte și de necaz. :/
+
+[v2]
+Avem nădejde că odată
+Ne vom vedea acolo sus,
+Acolo-n sfânta-mpărăție-n
+Ierusalimul cel de sus.
+
+[v3]
+Doresc să-i văd pe toți aceia
+Ce în credință-au adormit
+Și să ne bucurăm întruna-n
+Ierusalimul fericit.

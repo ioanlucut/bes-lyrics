@@ -1,0 +1,53 @@
+[title]
+Dacă-aș fi stăpân pe lumea-ntreagă {alternative: {*}, composer: {Anna Olander}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {hmhb1CRrVsJ2AbvDXQexjB}, contentHash: {509f30}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+Dacă-aș fi stăpân pe lumea-ntreagă
+Și pe Domnul dacă n-aș avea,
+Toate lucrurile trecătoare
+Fericire-n viață nu mi-ar da!
+
+[v1.2]
+/: Pot avea orice, dar, fără Domnul
+Pagubă e tot câștigul meu.
+Nu-s aici plăceri să poată-ntrece
+Fericirea lângă Dumnezeu. :/
+
+[v2.1]
+Pot avea un nume plin de faimă,
+Bogății ca nimeni pe pământ,
+Dacă n-am nădejdea altor țărmuri,
+Toate sunt atunci ca pleava-n vânt.
+
+[v2.2]
+/: Ce câștig ar fi să-L pierd pe Domnul
+Ce-a dus crucea grea în locul meu?
+Poate oare da pământul pacea
+Ce-o găsesc doar lângă Dumnezeu? :/
+
+[v3.1]
+Ce tristețe fără Salvatorul
+Prin atâtea grele încercări
+Și ce-ntunecime-n veșnicie,
+Plânsete și-amare remușcări!
+
+[v3.2]
+/: Și de ce să stau fără salvare,
+Când salvarea El mi-o dă în dar?
+Fără El e-atâta întuneric,
+Veșnicia-ntreagă e-un coșmar! :/
+
+[v4.1]
+Câtă fericire-i lângă Domnul,
+Ce duios balsam vindecător!
+El păcatul șterge fără urmă
+Și dureri alină răbdător.
+
+[v4.2]
+/: Dacă-L am pe Isus, doar pe Isus,
+Pot sărac să fiu, disprețuit,
+El e slava mea, Mântuitorul,
+Sunt cu El bogat și fericit! :/

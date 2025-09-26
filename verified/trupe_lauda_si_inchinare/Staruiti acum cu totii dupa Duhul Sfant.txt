@@ -1,0 +1,21 @@
+[title]
+Stăruiți acum cu toții după Duhul Sfânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ucZc2uEjDrsmiBi7jabaKF}, contentHash: {5da6e4}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+/: Stăruiți acum cu toții după Duhul Sfânt, :/
+/: Căci Isus, Domnul vieții, va veni-n curând! :/
+
+[v2]
+/: Domnul cu glasul Său dulce din cer va striga, :/
+/: Biserica din morminte se va deștepta. :/
+
+[v3]
+/: Și în nori apoi cu toții se vor ridica, :/
+/: Cu toți binecuvântații spre-a-L întâmpina. /:
+
+[v4]
+/: Cu oștirea Lui cerească îi va număra, :/
+/: Îmbrăcați în haine albe se vor bucura. :/

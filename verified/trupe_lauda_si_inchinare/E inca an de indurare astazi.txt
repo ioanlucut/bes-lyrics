@@ -1,0 +1,35 @@
+[title]
+E încă an de îndurare astăzi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {u2mdmCuAbbk3jxojVFpbEm}, contentHash: {4a381e}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+E încă an de îndurare astăzi
+Biserică cu sufletul zdrobit,
+Prin crăpătura stâncii tu așteaptă,
+Căci noaptea întunecoasă ia sfârșit.
+
+[c]
+Veghează, veghează, veghează,
+Căci vine Domnul slavei în curând!
+Nu te opri, mereu înaintează,
+De partea ta, să știi, e Duhul Sfânt!
+
+[v2]
+Am stat mereu alături de tine,
+Mireaso, porumbițo te iubesc!
+Pe brațe te-am purtat, te port și astăzi,
+Prin viscol și furtuni Eu te păzesc.
+
+[v3]
+Acum Eu îți mai spun încă odată,
+Căci locuri minunate ți-am gătit,
+Mireaso, porumbițo, fii voioasă,
+E cerul pentru tine pregătit!
+
+[v4]
+Aștept doar un cuvânt să spună Tatăl
+Și spre tine, iată, voi pleca,
+Mai sunt secunde, clipe, mai veghează,
+Vei fi, mireaso, în veci de veci a Mea.

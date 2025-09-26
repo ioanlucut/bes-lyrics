@@ -1,0 +1,29 @@
+[title]
+Îngenunchiat în fața crucii stau {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tKYXyFXPo2xBtdva8D2L7r}, contentHash: {33405b}}
+
+[sequence]
+v1,v2,c1.1,c1.2,c1.1,c1.2
+
+[v1]
+Îngenunchiat în fața crucii stau
+Și Te privesc, o, Domnul meu, sus pe lemn atârnat.
+În ochii Tăi citesc și-acum bunătatea
+Cu care mi-ai iertat păcatele.
+
+[v2]
+Înmărmurit și chiar înspăimântat,
+Privesc cum trupul Tău păcatul meu l-a apăsat.
+Dar Tu, Isuse, chiar și-atunci
+Arătându-Ți dragostea pentru iertarea mea Te-ai rugat.
+
+[c1.1]
+Pe cruce sus Te-am răstignit, Domnul meu,
+Deși erai, deși erai Fiul lui Dumnezeu,
+Ai acceptat să mori hulit și batjocorit
+Pentru mine, un pribeag rătăcit!
+
+[c1.2]
+Isuse drag eu nu-nțeleg cât m-ai iubit,
+Dar înțeleg că pentru viața mea un preț ai plătit,
+De-aceea vreau, îngenunchiat în fața crucii Tale,
+Să-Ți mulțumesc și să-Ți promit să Te urmez.

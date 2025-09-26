@@ -1,0 +1,23 @@
+[title]
+Al meu Păstor {alternative: {*}, composer: {Eldad Kids}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {o3X3SEUiQyncRMwtvAQgKq}, contentHash: {2aee02}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+Domnul este al meu Păstor,
+Eu niciodată nu mă tem.
+El mă paște în verzi pășuni
+Și mă ajută atunci când mi-e greu.
+
+[c]
+Dacă ți-e teamă să cânți și să-L lauzi pe El,
+Ți-e teamă să vestești Cuvântul lui Isus,
+Amintește-ți că ai un bun Păstor
+Și mergi în siguranță dacă mergi cu El.
+
+[v2]
+Domnul este al meu Păstor,
+Eu niciodată nu mă tem.
+El mă paște în verzi pășuni
+Și mă ajută atunci când mi-e greu.

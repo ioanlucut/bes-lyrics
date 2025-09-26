@@ -1,0 +1,35 @@
+[title]
+Să fiți binecuvântați mereu {alternative: {*}, composer: {Vlad Bucur și Gheorghe Zoltan}, writer: {Gheorghe Zoltan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {k97dFWaoTk4qVh2ajc84kf}, contentHash: {5eb17a}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Domnul Dumnezeu atotputernic
+Ce-ascultă rugăciunea tuturor
+A unit la altar pe doi tineri,
+Iată-ne prezenți la nunta lor.
+
+[c]
+/: Să fiți binecuvântați mereu,
+Azi casa v-o zidește Dumnezeu!
+Sub ocrotirea Lui voi să trăiți,
+Ca și acum mereu să vă iubiți! :/
+
+[v2]
+Domnul ce-a creat căsătoria
+E prezent la-acest eveniment,
+Jurământul când îl veți depune,
+El aude și este atent.
+
+[v3]
+Funia ce-i împletită-n trei
+Nu se rupe-n viață niciodat’
+Și tăria le e-n Dumnezeu,
+Har ei au și binecuvântări.
+
+[v4]
+Cu Domnul voi pășiți de azi ‘nainte,
+De mână pe-amândoi vă va lua,
+Să găsiți pacea Lui minunată,
+Să fiți exemplu în lucrarea Sa!

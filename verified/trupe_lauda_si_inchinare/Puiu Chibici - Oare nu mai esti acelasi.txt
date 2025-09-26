@@ -1,0 +1,29 @@
+[title]
+Oare nu mai ești același {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {an6sLup2DNUrZkafHWx53j}, contentHash: {20a9fe}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Oare nu mai ești același, oare Te-ai schimbat,
+De nu-Ți mai simțim prezența, Doamne-atunci când ești chemat?
+/: Oare nu mai ești același, oare Te-ai schimbat,
+Ori noi am lăsat cărarea și ne-am depărtat? :/
+
+[v2]
+Tu rămâi același, Doamne, ieri și azi și-n veci,
+Îndurarea Ta rămâne, Tu nicicând nu treci!
+/: Noi Te întristăm adesea, suntem cârtitori,
+Suntem slabi, suntem țărână, suntem trecători! :/
+
+[v3]
+Căci dintotdeauna, Doamne, omu-i schimbător,
+Numai Tu rămâi același, veșnic sfânt, nemuritor!
+/: Tu rămâi drept și puternic, bun și iertător,
+Binecuvântat fii veșnic, Domn al domnilor! :/
+
+[v4]
+Te rugăm ca și Ilie, în rugă-așteptând,
+Fă și peste noi să vină, Doamne, azi susurul blând!
+/: Soare al neprihănirii, cu dor Te chemăm,
+Adă ziua întâlnirii, căci Te așteptăm! :/

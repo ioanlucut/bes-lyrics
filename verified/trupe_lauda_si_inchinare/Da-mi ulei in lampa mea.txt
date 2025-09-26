@@ -1,0 +1,29 @@
+[title]
+Dă-mi ulei în lampa mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3vM43hKJRt9BHdfeD9udcP}, contentHash: {20cf03}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+Dă-mi /: ulei în lampa mea, :/
+Mă rog, aleluia!
+Dă-mi ulei în lampa mea
+Să lucească ca o stea până la venirea Ta!
+
+[v2]
+Dă-mi /: putere-n viața mea, :/
+Mă rog, aleluia!
+Dă-mi putere-n viața mea
+Pe Tine-a Te lăuda până la venirea Ta!
+
+[v3]
+Și /: mă-nvață să iubesc, :/
+Mă rog, aleluia!
+Pe Isus să-L proslăvesc
+Cât în lume mai trăiesc până când la El sosesc!
+
+[v4]
+Dă-mi /: puterea Ta de sus, :/
+Mă rog, aleluia!
+Dă-mi puterea Ta de sus
+Și prin ea să fiu condus până când revii Isus!

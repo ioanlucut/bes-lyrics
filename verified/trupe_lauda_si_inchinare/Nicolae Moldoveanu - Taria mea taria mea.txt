@@ -1,0 +1,35 @@
+[title]
+Tăria mea, tăria mea {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5YUryAfreT99EjNQftDWgD}, contentHash: {fb90cd}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Tăria mea, tăria mea, o, Doamne sfânt și mare,
+M-ai mântuit și mă-nsoțești mereu cu-a Ta-ndurare.
+Tăria mea, tăria mea,
+M-ai mântuit și mă-nsoțești mereu cu-a Ta-ndurare.
+
+[v2]
+Tăria mea, tăria mea ești Tu, o, bun Părinte,
+În încercarea cea mai grea cu Tine merg ‘nainte.
+Tăria mea, tăria mea,
+În încercarea cea mai grea cu Tine merg ‘nainte.
+
+[v3]
+Tăria mea, tăria mea ești Tu, o, scump Isuse,
+Când mi-e rănită inima Tu-mi dai puteri nespuse.
+Tăria mea, tăria mea,
+Când mi-e rănită inima Tu-mi dai puteri nespuse.
+
+[v4]
+Tăria mea, tăria mea ești Tu, o, Duh de viață,
+Prin Tine am și voi avea izbândă mai măreață.
+Tăria mea, tăria mea,
+Prin Tine am și voi avea izbândă mai măreață.
+
+[v5]
+Tăria mea, tăria mea, o, Doamne, slavă Ție!
+Cu Tine mă voi lăuda acum și-n veșnicie.
+Tăria mea, tăria mea,
+Cu Tine mă voi lăuda acum și-n veșnicie.

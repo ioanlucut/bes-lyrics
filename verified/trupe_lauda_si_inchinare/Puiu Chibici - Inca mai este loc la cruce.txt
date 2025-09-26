@@ -1,0 +1,41 @@
+[title]
+Încă mai este loc la cruce {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2oJfPz1HYmZBixnR9XtEgQ}, contentHash: {37b9f6}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c
+
+[v1]
+Încă mai este loc la cruce
+Și pentru tine, dragul meu,
+Și pentru tine la Golgota
+Muri Fiul lui Dumnezeu.
+
+[c]
+/: „O, vino azi, o, vino azi!”
+Te cheamă azi o voce dulce.
+Încă mai este loc la cruce,
+O, vino azi, o, vino azi! :/
+
+[v2]
+Oare n-auzi tu șoapta-I blândă?
+„Întoarce-te, biet păcătos,
+Să scapi de iad și de osândă!”,
+Te cheamă glasul lui Hristos.
+
+[v3]
+Cât vei mai sta în nepăsare,
+Câte-ai făcut nu ți-e de-ajuns?
+Vor curge iar lacrimi amare
+Din ochii blânzi ai lui Isus.
+
+[v4]
+Nu mai e timp de amânare,
+Grăbește-te, amicul meu!
+E poate ultima chemare,
+Împacă-te cu Dumnezeu!
+
+[v5]
+E poate ultima chemare,
+E poate chiar salvarea ta,
+Încă mai este loc la cruce
+Și pentru tine, nu uita!

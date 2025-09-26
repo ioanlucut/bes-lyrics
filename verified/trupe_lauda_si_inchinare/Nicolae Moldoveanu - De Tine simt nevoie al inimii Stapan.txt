@@ -1,0 +1,25 @@
+[title]
+De Tine simt nevoie al inimii Stăpân {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8si9Zi9Vprouhrh1Jsqwn5}, contentHash: {639829}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+De Tine simt nevoie al inimii Stăpân,
+/: Când valuri m-amenință cum singur să rămân? :/
+
+[v2]
+Cum voi putea eu oare la țărmuri ca s-ajung
+/: De nu-mi vei fi Tu sprijin pe drumul greu și lung? :/
+
+[v3]
+În marea-mi slăbiciune, Tu ești puterea mea,
+/: În Tine am viața și-n Tine-o voi avea. :/
+
+[v4]
+De Tine simt nevoie al vieții mele dor,
+/: De Tine Soare dulce și scump Mântuitor. :/
+
+[v5]
+Rămâi pe totdeauna, rămâi în viața mea,
+/: De Tine simt nevoie deplin a Te avea! :/

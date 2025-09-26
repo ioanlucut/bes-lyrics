@@ -1,0 +1,41 @@
+[title]
+Să cânte tot poporul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {q1AZevxrL5B3DgfZF5TXrP}, contentHash: {139827}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c,v5,c,v6,c,v7,c,v8,c
+
+[v1]
+/: Domnul vine iară, amin, aleluia,
+Să ne ia în slavă, amin, aleluia! :/
+
+[c]
+Aleluia, El este iertarea! Aleluia, El e biruința!
+Aleluia, El este iubirea! Aleluia, El e credința!
+
+[v2]
+/: La El este viața, amin, aleluia,
+Isus e mântuirea, amin, aleluia! :/
+
+[v3]
+/: El este al meu dor, amin, aleluia,
+Ce-l port cu min’ mereu, amin, aleluia! :/
+
+[v4]
+/: Iubirea-i de la El, amin, aleluia
+Și-o am în piept și eu, amin, aleluia! :/
+
+[v5]
+/: Să cânte tot poporul, amin, aleluia,
+Că vine Salvatorul, amin, aleluia! :/
+
+[v6]
+/: Cântă-I și tu, frate, amin, aleluia,
+Căci El e bun în toate, amin, aleluia! :/
+
+[v7]
+/: O, cântă-I și tu, soră, amin, aleluia,
+Căci El e aicea, amin, aleluia! :/
+
+[v8]
+/: Cântăm dar cu toții, amin, aleluia,
+Ne vine izbăvirea, amin, aleluia! :/

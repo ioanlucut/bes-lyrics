@@ -1,0 +1,21 @@
+[title]
+Ucenicii-n rugăciune în odaia cea de sus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {1TfvKDhD6u2pMLxz5acskG}, contentHash: {c1dc1f}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ucenicii-n rugăciune în odaia cea de sus
+Așteptau o promisiune, ea-i puterea cea de sus.
+
+[c]
+/: O, Doamne, revars-o și azi :/
+Și umple-ne pe toți!
+
+[v2]
+Tu puterea a-i trimis-o cu un vuiet mare-n jos
+Și în limbi de foc ai dat-o fiecărui credincios.
+
+[v3]
+Duhul Sfânt ca altădată dă puterea cea dintâi,
+Domnul și-astăzi o revarsă, că-i promisă la ai Săi.

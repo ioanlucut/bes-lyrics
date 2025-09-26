@@ -1,0 +1,53 @@
+[title]
+Samson când a fost biruit de păcat {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {eRse8CPLAHBbGfhwXHTuVC}, contentHash: {d7fdf7}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4
+
+[v1]
+Samson când a fost biruit de păcat
+Dalila tăiatu-i-a părul
+C-atunci legământul cel sfânt și-a călcat
+Și-atunci a trădat Adevărul.
+
+[c]
+Atuncea vrăjmașii l-au prins și i-au scos
+Și ochii - plătindu-și desfrâul,
+/: La râșnița lor, într-o temniță jos,
+L-au pus să le macine grâul. :/
+
+[v2]
+Când drumul credinței în har nu ți-e drept,
+Când ochii-ți privesc într-o parte,
+Dalilele lumii te-apucă la piept
+Și viața ți-o-mping înspre moarte.
+
+[c2]
+Te leagă cu funii mai strâns de pământ,
+Tăindu-ți puterea cea sfântă
+/: Și calci în picioare un sfânt legământ,
+Căci false iubiri te încântă. :/
+
+[v3]
+Vrăjmașii te-apucă și ochii ți-i scot
+Să nu poți vedea niciodată
+Frumos Adevărul cu cerul Lui tot
+Din țara-n lumină-mbrăcată.
+
+[c3]
+La râșnița lor te silesc să-nvârtești,
+Să macini sămânța minciunii,
+/: Mai crunt te apasă când tu obosești,
+N-au milă de tine niciunii. :/
+
+[v4]
+Pieri-vei cu ei în lumescul palat
+Când ora cea sfântă-o să vie,
+De nu-L chemi pe Domnul cel sfânt și-ndurat,
+Căci vremea de har e târzie.
+
+[c4]
+O, Doamne, păzește-mă Tu să nu fiu
+Cuprins de-o Dalilă vicleană
+/: Și drumul credinței mai drept să mi-l ții,
+‘Nălțându-Ți doar Ție osană! :/

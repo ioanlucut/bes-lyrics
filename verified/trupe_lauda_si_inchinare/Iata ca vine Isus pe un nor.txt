@@ -1,0 +1,29 @@
+[title]
+Iată că vine Isus pe un nor {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7tmr4uUcUrevgeawh8LpbS}, contentHash: {d7ced2}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Iată că vine Isus pe un nor
+Cu slavă mare de judecător,
+Îngerii-n juru-I se strâng zeci de mii
+Să ia la ceruri pe-a Domnului fii.
+
+[c]
+/: Iată-L pe nori, vine pe nori,
+Cum te găsește pe tine?
+Iată-L pe nori, vine pe nori,
+Cum mă găsește pe mine? :/
+
+[v2]
+Jale și bocet și plânset amar,
+Lacrimi și zbucium, dar toate-n zadar,
+Timpul de milă prea mult neglijat
+Este de-acuma pe veci terminat.
+
+[v3]
+Anul și luna și ziua-au trecut,
+Ultima oră de milă, iar tu
+Mâine tot mâine, mereu nu-amâna,
+Poate nici moartea nu te va cruța!

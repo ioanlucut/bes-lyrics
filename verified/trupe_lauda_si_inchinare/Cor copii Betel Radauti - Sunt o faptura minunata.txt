@@ -1,0 +1,28 @@
+[title]
+Sunt o făptură minunată {alternative: {*}, composer: {Grațiella Piu}, writer: {Grațiella Piu}, arranger: {*}, interpreter: {Cor copii Betel Rădăuți}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ewwAPrxQGCXeUXCbmRXChB}, contentHash: {a6ff81}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Când nu existam, o, Doamne, Te-ai gândit la mine
+Și un viitor era țesut în dreptul meu.
+Cu suflarea Ta, viață Tu mi-ai dat
+Ca să trăiesc, să trăiesc doar pentru gloria Ta.
+
+[c]
+Sunt o făptură minunată, sufletul meu azi Te laudă,
+Când stau jos și când mă scol, mâna Ta e în control,
+/: Minunate-s lucrările Tale-n veci! :/
+
+[v2]
+Mă cunoșteai și zilele mi le scriai,
+Iar nepătrunse gânduri pentru mine-aveai.
+Tu mă ocroteai și din cer priveai
+Ca eu să fiu, eu să fiu lucrarea ce Tu ai creat.
+
+[v3]
+Dacă la marginile mării m-aș afla
+Și-acolo a Ta mână ne-ncetat mă v-apuca.
+Tu mă înconjori ‘nainte și ‘napoi,
+Unde să merg, unde să merg departe de fața Ta?

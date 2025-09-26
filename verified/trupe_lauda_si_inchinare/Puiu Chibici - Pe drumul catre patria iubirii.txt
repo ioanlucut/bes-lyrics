@@ -1,0 +1,35 @@
+[title]
+Pe drumul către patria iubirii {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {15DQfv32ELzs14YdcypgD2}, contentHash: {3b7f0b}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Pe drumul către patria iubirii
+Nu-s numai zile bune, fără nori,
+/: Nu-i doar senin pe calea mântuirii,
+Nici lauri, nici aplauze și nici flori. :/
+
+[v2]
+Nu-i calea către cer destinul firii,
+Nici soarta orșicărui muritor,
+/: Ci doar trăirea în neprihănire,
+Aceasta este șansa tuturor. :/
+
+[v3]
+Nu-i gratuit nici locul nemuririi
+De nu treci pe la Cel ce l-a plătit
+/: Să știi cât costă prețul fericirii,
+Să-I mulțumești măcar că te-a iubit. :/
+
+[v4]
+Pe calea aceasta-i ne-ncetat doar luptă,
+Dar dacă nicicând nu vei obosi,
+/: Vei fi chemat erou al slavei sfinte
+Și răsplătit odată-n veșnicii. :/
+
+[v5]
+Pe drumul către patria iubirii
+Nu-i greu de mers, nici crucea grea de dus,
+/: Când știi că la sfârșitul alergării
+Te-așteaptă însuși regele Isus. :/

@@ -1,0 +1,23 @@
+[title]
+Avem nevoie de iubire {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cBfrJJhUp27ogVT1gA5oxB}, contentHash: {61a365}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Avem nevoie de iubire în lumea asta tot mai mult,
+Să știți, iubirea este Domnul ce S-a jertfit pe Golgota.
+
+[c]
+El m-a luat de mâna dreaptă
+Prin Duhul Sfânt El mi-a vorbit:
+Te voi iubi până la capăt,
+Nicicum nu te voi părăsi!
+
+[v2]
+Avem nevoie de lumina ce vine numai prin Cuvânt
+Și El să călăuzească Biserica de pe pământ.
+
+[v3]
+N-avem nevoie de chimvale ce sună gol și strident,
+Avem nevoie doar de Domnul, Învățătorul competent.

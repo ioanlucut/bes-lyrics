@@ -1,0 +1,21 @@
+[title]
+El e mai dulce ca mierea din faguri {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rN2gRBA8xaYAd7SeqVNLAQ}, contentHash: {af5e8a}}
+
+[sequence]
+v1,c,e
+
+[v1]
+/: Pe Isus cu cât Îl cunosc,
+Cu atât vreau să fiu mai aproape de El,
+Pe Mesia cu cât Îl iubesc,
+Cu atât mi-e mai drag Numele Său. :/
+
+[c]
+El e mai dulce ca mierea din faguri,
+Mai prețios ca orice tezaur.
+Mai luminos ca raza soarelui,
+El e mai tare ca stânca muntelui.
+
+[e]
+El e iubitul inimii, e dorul sufletului meu,
+/: Prietenul adevărat :/ la bine și greu.
