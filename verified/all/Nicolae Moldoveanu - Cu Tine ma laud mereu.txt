@@ -1,5 +1,5 @@
 [title]
-Cu Tine mă laud mereu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ijf6iTmskjpvwWZP3LUZPM}, contentHash: {e5604c}}
+Cu Tine mă laud mereu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ijf6iTmskjpvwWZP3LUZPM}, contentHash: {a69402}}
 
 [sequence]
 v1,v2,v3,v4
