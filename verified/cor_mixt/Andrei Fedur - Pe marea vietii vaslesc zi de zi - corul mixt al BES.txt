@@ -2,7 +2,7 @@
 Pe marea vieții vâslesc zi de zi {alternative: {*}, composer: {Andrei Fedur}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {iXSu8N4VRs4K2BcMsNyGNz}, contentHash: {92deeb}}
 
 [sequence]
-v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c,e
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c2,e
 
 [v1.1]
 Pe marea vieții vâslesc zi de zi,
@@ -17,11 +17,11 @@ Furtuna lovește și urlă cumplit,
 Dar eu am un Mângâietor.
 
 [c]
-/: Cu Domnul Isus ajung la limanul dorit,
+Cu Domnul Isus ajung la limanul dorit,
 Nicicând nu mă tem, de El eu mă simt ocrotit.
 Străbat prin furtuni, nimic nu mă va-nspăimânta,
 La cârmă e Domnul cu dragostea Sa
-Și singur nu mă va lăsa. :/
+Și singur nu mă va lăsa.
 
 [v2.1]
 Vâslesc printre valuri, deși sunt lovit,
@@ -33,7 +33,7 @@ Revarsă al Său har de sus.
 Prin El biruință mereu voi avea,
 Chiar vântul de va mai sufla,
 Așa a promis când a spus prin Cuvânt:
-„Eu singuri nu vă voi lăsa!”
+„Eu singur nu te voi lăsa!”
 
 [v3.1]
 Curând voi ajunge pe țărm, la liman,
@@ -42,10 +42,17 @@ Acolo m-așteaptă un loc pregătit,
 Cu aur e împodobit.
 
 [v3.2]
-Cunună pe cap voi avea ‘colo sus
+Cunună pe cap voi avea colo sus
 Și-un cântec nou Îi voi cânta,
 La masă voi sta lângă Domnul Isus
 Și cerul întreg va serba.
+
+[c2]
+/: Cu Domnul Isus ajung la limanul dorit,
+Nicicând nu mă tem, de El eu mă simt ocrotit.
+Străbat prin furtuni, nimic nu mă va-nspăimânta,
+La cârmă e Domnul cu dragostea Sa
+Și singur nu mă va lăsa. :/
 
 [e]
 La cârmă e Domnul cu dragostea Sa
