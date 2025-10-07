@@ -1,5 +1,5 @@
 [title]
-Domnul îmi este adăpost {alternative: {A Shelter in the Time of Storm}, composer: {Ira D. Sankey}, writer: {Vernon J. Charlesworth}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3105}, id: {1SUS3rJMwQDRe6NZYnPVGG}, contentHash: {65918f}}
+Domnul îmi este adăpost {alternative: {A Shelter in the Time of Storm}, composer: {Ira D. Sankey}, writer: {Vernon J. Charlesworth}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3105}, id: {1SUS3rJMwQDRe6NZYnPVGG}, contentHash: {e1fc87}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
@@ -19,7 +19,7 @@ Cetate tare-n vreme rea.
 [v2]
 Scut de arșița soarelui,
 Cetate tare-n vreme rea!
-E ca lumina farului,
+E ca lumina farului
 Ce strălucește-n noaptea grea.
 
 [v3]

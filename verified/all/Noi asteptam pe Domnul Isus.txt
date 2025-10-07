@@ -1,5 +1,5 @@
 [title]
-Noi așteptăm pe Domnul Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4009}, id: {aDPYXtWmSYhb1AijCtfFAs}, contentHash: {73234c}}
+Noi așteptăm pe Domnul Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4009}, id: {aDPYXtWmSYhb1AijCtfFAs}, contentHash: {f0eb7f}}
 
 [sequence]
 v1,v2,v3,v4
@@ -7,27 +7,27 @@ v1,v2,v3,v4
 [v1]
 /: Noi așteptăm pe Domnul Isus,
 Când vine! :/
-Noi așteptăm pe Domnul
+/: Noi așteptăm pe Domnul
 Ce ne-a gătit locul
-Și în mărire ne va duce!
+Și în mărire ne va duce! :/
 
 [v2]
 /: Noi mergem ‘naintea lui Isus,
 Când vine! :/
-Noi mergem înainte,
+/: Noi mergem înainte,
 El brațu-Și întinde
-Și la locul promis ne duce.
+Și la locul promis ne duce. :/
 
 [v3]
 /: Vedea-vom pe Isus, pe nori,
 Când va veni! :/
-Da, vedea-vor pe Isus
+/: Da, vedea-vor pe Isus
 Și cei ce L-au străpuns
-Și toți cei din lume vor plânge.
+Și toți cei din lume vor plânge. :/
 
 [v4]
 /: Păcătosule, ce răspunzi,
 „Când va veni?” :/
-O, ce va fi cu tine?
-Nu te va scăpa nimeni
-Căci locul tu ți l-ai pregătit!
+/: O, ce va fi cu tine?
+Nu te-a scăpa nimeni
+Căci locul tu ți l-ai pregătit! :/

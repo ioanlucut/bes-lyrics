@@ -1,5 +1,5 @@
 [title]
-O, unde ești? și Te laud {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {hjiZVe6eM6cB7hAhea9cEV}, contentHash: {96d21d}}
+O, unde ești? și Te laud {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {combined choir songs}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {hjiZVe6eM6cB7hAhea9cEV}, contentHash: {19e746}}
 
 [sequence]
 v1,v2,c,v3,c,v4,e
@@ -9,7 +9,7 @@ De ce stai mut când îți vorbesc
 Și nu mă mustri când greșesc?
 De ce mi-e cerul nepătruns,
 De ce de mine Te-ai ascuns,
-De ce nu-mi dai Tu un răspuns?
+De ce nu-mi dai niciun răspuns?
 
 [v2]
 De-atâta vreme-s în cuptor,
