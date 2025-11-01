@@ -1,5 +1,5 @@
 [title]
-Domnul mi-e Păstorul {alternative: {*}, composer: {Corneliu Matei}, writer: {Corneliu Matei}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Domnul mi-e Păstorul {alternative: {*}, composer: {Corneliu Matei}, writer: {Corneliu Matei}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ar9GFoFLKspqywyXPCfZtR}, contentHash: {4367c5}}
 
 [sequence]
 v1,c,v1,c

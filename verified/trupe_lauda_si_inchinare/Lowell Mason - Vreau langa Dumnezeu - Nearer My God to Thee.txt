@@ -1,5 +1,5 @@
 [title]
-Vreau lângă Dumnezeu {alternative: {Nearer My God to Thee}, composer: {Lowell Mason}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3797}, id: {fAi82BVD9NmF2z2UCWj7Nf}, contentHash: {c1ed84}}
+Vreau lângă Dumnezeu {alternative: {Nearer My God to Thee}, composer: {Lowell Mason}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3797}, id: {fAi82BVD9NmF2z2UCWj7Nf}, contentHash: {af4711}}
 
 [sequence]
 v1,v2,v3,v4,v5

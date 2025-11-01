@@ -1,5 +1,5 @@
 [title]
-Ție-Ți cânt, Dumnezeul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {comined choir songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Ție-Ți cânt, Dumnezeul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {comined choir songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {2MqUGkXgEpCs6F7Rhyh6Rk}, contentHash: {f9f17c}}
 
 [sequence]
 v1,v2,v3,v4,v5,v4,e
