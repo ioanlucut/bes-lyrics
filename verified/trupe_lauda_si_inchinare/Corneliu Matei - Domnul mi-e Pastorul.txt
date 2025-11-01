@@ -1,0 +1,19 @@
+[title]
+Domnul mi-e Păstorul {alternative: {*}, composer: {Corneliu Matei}, writer: {Corneliu Matei}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Domnul mi-e Păstorul
+Și eu lipsă de nimic nu voi duce,
+El mă paște la pășune
+Și la ape de odihnă El mă duce.
+Îmi înviorează sufletul și mă povățuiește
+Pe cărările Lui drepte din pricina Numelui Său.
+
+[c]
+/: Chiar de ar fi să umblu-n valea umbrei morții,
+Nu mă tem de niciun rău, Tu ești cu mine.
+Toiagul și nuiaua Ta mă mângâie,
+De aceea, îndurarea mă va însoți. :/

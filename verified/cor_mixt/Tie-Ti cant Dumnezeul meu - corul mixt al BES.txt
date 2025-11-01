@@ -1,0 +1,38 @@
+[title]
+Ție-Ți cânt, Dumnezeul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {comined choir songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5,v4,e
+
+[v1]
+/: Ție-Ți cânt, Dumnezeul meu, :/
+Pentru bunătatea Ta, pentru harul Tău cel mare,
+Te voi binecuvânta și în șoaptă și-n strigare,
+/: Te voi binecuvânta :/ și în șoaptă și-n strigare.
+
+[v2]
+/: Ție-Ți cânt, Dumnezeul meu, :/
+Pentru toate ce mi-ai dat, pentru dulcea Ta-ngrijire,
+Pentru tot ce mi-ai luat mă închin cu mulțumire,
+/: Pentru tot ce mi-ai luat :/ mă închin cu mulțumire.
+
+[v3]
+/: Ție-Ți cânt, Dumnezeul meu, :/
+Și nu vorbe vreau să-Ți spun, ci cântarea mea să-Ți ardă,
+Ție Bunul cel mai bun și-n iubire să se piardă,
+/: Ție Bunul cel mai bun :/ și-n iubire să se piardă.
+
+[v4]
+/: Îl slăviți pe Isus, slava Lui o cântați,
+Îl slăviți pe Isus și pe veci Lui vă dați!
+La Tatăl veniți prin Isus, Fiul Său,
+Primind mântuirea, primind harul Său! :/
+
+[v5]
+Ce mare iubire-i venită de sus
+Și ce fericire să fii cu Isus,
+Dar cea mai slavită trăire va fi
+Când veșnic pe Domnul în cer vom sluji.
+
+[e]
+Îl slăviți pe Isus!

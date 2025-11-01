@@ -19,13 +19,13 @@ M-ai eliberat!
 [v3]
 Din crucea Ta iertare zi de zi în mine curge.
 Nicicând nu aș putea uita,
-Isus de bunătatea Ta.
+Isus, de bunătatea Ta.
 /: O, ce minunat este al Tău har! :/
 
 [v4]
 În fiecare zi reverși
-Doar binecuvântări cerești
-/:O, ce minunat este al Tău har! :/
+Doar binecuvântări cerești,
+O, ce minunat este al Tău har!
 E har! E harul minunat!
 
 [c]
@@ -34,11 +34,10 @@ Doar prin harul Tău.
 /: O, ce minunat este al Tău har!:/
 
 [v5]
-În fiecare zi reverși
-Doar binecuvântări cerești.
+În fiecare zi reverși doar binecuvântări cerești,
 /: O, ce minunat este al Tău har! :/ E harul minunat!
 /: O, ce minunat este al Tău har! :/ Harul, numai harul!
-/: O, ce minunat este al Tău har! :/
+O, ce minunat este al Tău har!
 
 [v6]
 „Ferice de cel cu fărădelegea iertată și de cel cu păcatul acoperit.
@@ -50,14 +49,14 @@ Ce dragoste și ce sfânt har
 Ai revărsat în mine iar!
 Din palmele ce pe cruce-au sângerat
 Prin harul Tău eu sunt iertat.
-Eu sunt iertat! Da, sunt iertat!
+Eu sunt iertat, da sunt iertat!
 Eu sunt iertat, eu sunt iertat!
 
 [v8]
 Mărețul har m-a mântuit pe mine din păcat,
 Pierdut eram, dar m-a găsit,
 De moarte m-a scăpat
-Și sunt iertat! Eu sunt iertat!
+Și sunt iertat, eu sunt iertat!
 
 [v9]
 Mărețul har m-a învățat

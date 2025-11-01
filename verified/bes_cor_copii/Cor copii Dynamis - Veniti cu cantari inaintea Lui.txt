@@ -2,7 +2,7 @@
 Veniți cu cântări înaintea Lui {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8jwqyqYa8PHwVvD6cmM2Sj}, contentHash: {6638ec}}
 
 [sequence]
-v1,v2,v3,v1,v2,c
+v1,v2,v3,v1,v2,v4,
 
 [v1]
 Veniți cu cântări înaintea Lui,
@@ -15,12 +15,12 @@ Nu-i nimeni ca El, puternic, biruitor,
 Doar brațul Său sfânt ne vine în ajutor!
 
 [v3]
-Să strigăm cu toți de bucurie!
-Domnului cel Sfânt, Iehova,
+Să strigăm cu toți de bucurie
+Domnului cel Sfânt, Iehova!
 Să cântăm cu toți cu veselie
 Lui Dumnezeu!
 
-[c]
+[v4]
 /: Să strigăm cu toți de bucurie!
 Domnului cel Sfânt, Iehova,
 Să cântăm cu toți cu veselie :/
