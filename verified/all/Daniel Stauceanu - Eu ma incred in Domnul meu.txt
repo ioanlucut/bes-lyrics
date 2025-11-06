@@ -7,7 +7,7 @@ v1,c,v2,c,v3,c,v4,v5,c2
 [v1]
 Eu mă încred în Domnul meu
 Prin orișice furtună,
-/: Că-n mâna Lui e sorțul
+/: Că-n mâna Lui e sorțul meu
 De-i vreme rea sau bună. :/
 
 [c]
