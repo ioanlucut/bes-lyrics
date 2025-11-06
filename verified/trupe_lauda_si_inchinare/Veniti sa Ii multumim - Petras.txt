@@ -1,5 +1,5 @@
 [title]
-Veniți să Îi mulțumim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {kPqLcNiSeD8yjtmZVbMYcD}, contentHash: {b1b4f8}}
+Veniți să Îi mulțumim {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Petras}, genre: {*}, rcId: {*}, id: {kPqLcNiSeD8yjtmZVbMYcD}, contentHash: {448872}}
 
 [sequence]
 v1,c1.1,c1.2,v2
@@ -19,7 +19,7 @@ O simt în viața mea.
 [c1.2]
 De aceea acum să Îi cântăm,
 Numele să-I înălțăm,
-Pe Isus să-L preamărim cu toții! Veniți! :/
+Pe Isus să-L preamărim cu toți! Veniți! :/
 
 [v2]
 /: Hai, e timpul de-nchinare,

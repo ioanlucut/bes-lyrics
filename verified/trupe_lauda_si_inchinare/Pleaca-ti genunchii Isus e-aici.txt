@@ -1,20 +1,20 @@
 [title]
-Pleacă-ți genunchii, Isus e-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1520}, id: {f49RDfY39wBG1gyUDKXCwj}, contentHash: {08982c}}
+Pleacă-ți genunchii, Isus e-aici {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1520}, id: {f49RDfY39wBG1gyUDKXCwj}, contentHash: {be29e8}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
 Pleacă-ți genunchii, Isus e-aici,
-Ridică mâini curate spre cer.
+Ridică mâini curate spre cer!
 Tronul de mărire e-n fața ta,
 Slava se coboară din cer.
 
 [v1.2]
 Îndrăznește de intră în locul sfânt,
-Spălat prin sângele Mielului.
-Vino, cu cântări de mărire,
-Osana, Mielului Preasfânt!
+Spălat prin sângele Mielului,
+Vino cu cântări de mărire,
+Osana Mielului Preasfânt!
 
 [c]
 /: Rege-al regilor,
