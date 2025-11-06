@@ -1,5 +1,5 @@
 [title]
-Spune-I da, da lui Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Spune-I da, da lui Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Școala duminicală}, genre: {*}, rcId: {*}, id: {1taVD9hCgqTRe1xYGzh9xZ}, contentHash: {67c425}}
 
 [sequence]
 c,v1,c,v2,c
