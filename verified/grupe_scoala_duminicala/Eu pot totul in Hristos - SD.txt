@@ -1,0 +1,29 @@
+[title]
+Eu pot totul în Hristos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Pot, pot, pot, eu pot totul în Hristos,
+Pot, pot, pot să am caracter frumos,
+Pot, pot, pot luminând în jurul meu
+Să-L vadă-n mine toți pe Dumnezeu! :/
+
+[v1]
+Fiecare zi îmi place s-o trăiesc
+Cu dorința de a ajuta,
+Iar atunci când mi se pare că e greu,
+Îmi amintesc versetul minunat.
+
+[v2]
+Dacă vreun coleg la școală m-a jignit,
+Eu nu-i răspund cu-același fel.
+Îi zâmbesc și-i spun frumos: „Să fii iubit!”
+Și-ncerc să mă împrietenesc cu el.
+
+[v3]
+Tot ce fac în viață-i prin puterea Lui,
+El îmi dăruiește dimineți,
+Când mi-e greu privesc albastrul cerului,
+Căci toate se rezolvă doar prin El.

@@ -1,0 +1,23 @@
+[title]
+Spune-I da, da lui Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+Spune-I da, da lui Dumnezeu!
+Spune nu, nu la tot ce-i rău!
+Spune-I da, da lui Hristos!
+Spune nu la tot ce-i păcătos!
+
+[v1]
+Când Domnul te cheamă, spune-I da, da,
+Că viață cu El vei avea!
+Când diavolul te cheamă să-i fii credincios,
+Spune-i nu, el e un mincinos!
+
+[v2]
+Când Domnul te cheamă, spune-I da, da,
+Cu El spre cer vei zbura!
+Când diavolul te cheamă ca să fii al său,
+Spune-i nu, că el e cel mai rău!
