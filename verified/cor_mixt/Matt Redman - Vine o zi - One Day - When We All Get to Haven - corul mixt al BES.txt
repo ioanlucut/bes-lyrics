@@ -1,5 +1,5 @@
 [title]
-Vine o zi {alternative: {One Day; When We All Get to Haven}, composer: {Matt Redman}, writer: {Matt Redman}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {206026}, id: {eaZViwkEQULTnHhnFW2rGR}, contentHash: {2227c8}}
+Vine o zi {alternative: {One Day; When We All Get to Haven}, composer: {Matt Redman}, writer: {Matt Redman}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {206026}, id: {eaZViwkEQULTnHhnFW2rGR}, contentHash: {346327}}
 
 [sequence]
 v1,v2,c,v3,v4,c2,b,c3
@@ -46,4 +46,3 @@ Când în cer vom ajunge,
 O, ce zi glorioasă-atunci va fi,
 Când vom fi cu Isus, fața Lui o vom privi,
 Fața Lui o vom privi.
-
