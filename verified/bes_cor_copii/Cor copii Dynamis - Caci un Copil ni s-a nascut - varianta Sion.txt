@@ -1,0 +1,22 @@
+[title]
+Căci un Copil ni s-a născut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {cor copii Dynamis}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,e
+
+[v1]
+Căci un Copil ni s-a născut, azi un Fiu ni s-a dat
+Și domnia va fi pe umerii Lui.
+Și-L vor numi Sfetnic, Împărat, minunat
+Și Domn al păcii,
+Părinte al veșniciilor, puternic Împărat.
+
+[v2]
+/: Căci un Copil ni s-a născut, azi un Fiu ni s-a dat
+Și domnia va fi pe umerii Lui.
+Și-L vor numi Sfetnic, Împărat, minunat
+Și Domn al păcii,
+Părinte al veșniciilor, puternic Împărat. :/
+
+[e]
+Căci un Copil ni s-a născut, e Isus.

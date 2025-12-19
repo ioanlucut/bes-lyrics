@@ -1,0 +1,28 @@
+[title]
+Venim din nou în fața Ta {alternative: {*}, composer: {Teo Family}, writer: {Teo Family}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,b,e
+
+[v1]
+Venim din nou în fața Ta, ne amintim de Golgota,
+De brațele ce s-au deschis,
+De dragostea ce ne-a cuprins.
+Ne amintim la crucea Ta de mila și-ndurarea Ta,
+De singurul Tău Fiu iubit ce pentru lume L-ai jertfit.
+
+[c]
+La Golgota, Tu ne-ai adus, doar prin Isus,
+În dar eliberare de sus,
+La pieptul Său ce-a fost străpuns Tu ne-ai ascuns.
+Cu bunătate ne-ai primit, cu harul Tău ne-ai mântuit,
+Chiar dacă nu am meritat, prin Fiul Tău ne-ai înfiat.
+
+[b]
+/: La Golgota, Tu ne-ai adus, doar prin Isus,
+În dar eliberare de sus,
+La pieptul Său ce-a fost străpuns Tu ne-ai ascuns. :/
+
+[e]
+/: Sângele lui Isus :/ (x3)
+Ne spală de păcat la Golgota.

@@ -1,0 +1,57 @@
+[title]
+Tu ești floarea din grădină {alternative: {*}, composer: {Mariana Someșan}, writer: {Mariana Someșan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+Tu ești floarea din grădină,
+Tu ești crinul din lumină,
+Tu ești fiul Tatălui de sus.
+Tu ești rodul suferinței din grădina umilinței,
+Nu pleca din brațul lui Isus!
+
+[v1.2]
+Pe cărare e durere, dar primești și mângâiere,
+Ai răbdare și te roagă lui Isus!
+Pe cărare-i suferință, e dispreț și umilință,
+Dar cărarea te va duce-n ceruri sus.
+
+[v2.1]
+Tu ești floarea din grădină,
+Tu ești crinul din lumină,
+Tu ești fiul Tatălui de sus.
+Ești spălat de orice vină prin iubirea Lui deplină,
+Nu pleca din brațul lui Isus!
+
+[v2.2]
+Nu va fi mereu doar soare, vor fi zile de-ncercare
+Ca să vezi ce bun și mare e Isus,
+Ca să recunoști în tine că puterea Lui te ține
+Și din suflet să-I dai slavă lui Isus.
+
+[v3.1]
+Tu ești floarea din grădină,
+Tu ești crinul din lumină,
+Tu ești fiul Tatălui de sus.
+Nu acoperii lumina, nu Îl părăsi ca Dima,
+Nu pleca din brațul lui Isus!
+
+[v3.2]
+Căci necaz și strâmtorare vor veni peste popoare,
+Tu rămâi, rămâi în brațul lui Isus!
+N-o să afli-n lumea mare pentru suflet vindecare,
+N-ai să-L poți privi în față pe Isus.
+
+[v4.1]
+Tu ești floarea din grădină,
+Tu ești crinul din lumină,
+Tu ești fiul Tatălui de sus.
+Strigă „Ava!” Duhu-n tine, îngeri luptă pentru tine,
+Nu pleca din brațul lui Isus!
+
+[v4.2]
+Chiar dacă furtuna-i mare și nu vezi nicio scăpare,
+Ai nădejde și te roagă lui Isus!
+Nu lăsa calea îngustă și nu renunța la luptă,
+Dacă vrei să-L vezi în față pe Isus!

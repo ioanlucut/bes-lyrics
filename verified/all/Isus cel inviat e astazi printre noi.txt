@@ -2,11 +2,10 @@
 Isus cel înviat e astăzi printre noi {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {878}, id: {8Ks3D23VU5VrjKonyNXyXn}, contentHash: {fb1ec8}}
 
 [sequence]
-v1,c,v2,c
+v1,c,v2,c,v3,c,v4,c
 
 [v1]
-/: Isus cel înviat
-E astăzi printre noi, :/ (3x)
+/: Isus cel înviat e astăzi printre noi, :/ (3x)
 Isus e astăzi printre noi.
 
 [c]
@@ -16,6 +15,13 @@ Isus e astăzi printre noi.
 Vei fi binecuvântat. :/
 
 [v2]
-/: Mormântul lui Isus
-Și astăzi este gol, :/ (3x)
-Mormântul lui Isus e gol!
+/: Mormântul lui Isus și astăzi este gol, :/ (3x)
+Isus e astăzi printre noi.
+
+[v3]
+/: Isus Hristos va reveni ca să ne ia, :/ (3x)
+Isus e astăzi printre noi.
+
+[v4]
+/: Isus e viu în veci de veci, aleluia, :/ (3x)
+Isus e astăzi printre noi.

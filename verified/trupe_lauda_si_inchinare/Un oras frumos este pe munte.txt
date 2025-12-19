@@ -11,10 +11,10 @@ Eu doresc să văd așa frumusețe
 Când voi trece-n valea plângerii.
 
 [c]
-Tot orașul de pe munte
+/: Tot orașul de pe munte
 Îi întâmpină pe cei veniți,
 Bucuria va fi mare și în veci
-Vom fi cu toți fericiți.
+Vom fi cu toți fericiți. :/
 
 [v2]
 Veniți voi, trudiți în acest loc sfânt,

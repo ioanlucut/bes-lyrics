@@ -1,0 +1,27 @@
+[title]
+Vreau să fiu un far în noapte {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Ca și Tine să m-asemăn,
+Chipul Tău doresc să îl oglindesc,
+În decizii, în purtare,
+Mărturia mea fie viața mea.
+
+[c]
+Vreau să fiu un far în noapte în lumea de nevoi,
+O lumină către cruce din drumul de noroi!
+
+[v2]
+Vreau iubirea Ta s-ajungă
+Prin ființa mea la altcineva,
+Să-ncălzească cu-al Tău soare inima cuiva,
+Să șteargă lacrima.
+
+[v3]
+Vas în mâna Ta pe roată
+Fie viața mea pentru slava Ta,
+Forma care-Ți place Ție,
+Doamne, îmi doresc voia-Ți să-mplinesc.

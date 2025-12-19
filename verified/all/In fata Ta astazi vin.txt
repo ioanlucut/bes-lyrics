@@ -5,8 +5,8 @@
 v1,p,c,v2,p,c
 
 [v1]
-În fața Ta astăzi vin
-Cu mulțumire, Doamne, mă-nchin.
+În fața Ta astăzi vin,
+Cu mulțumire, Doamne, mă închin.
 Mulțumesc, mulțumesc!
 Tu m-ai binecuvântat,
 De-aceea-Ți zic pentru tot ce mi-ai dat:
@@ -17,8 +17,8 @@ Toată inima, în cântecul meu,
 Ridic mâinile, în Numele Tău.
 
 [c]
-/: Mulțumesc, Ție, Doamne-Ți mulțumesc! :/
-/: Mulțumesc, Ție, Doamne-Ți mulțumesc! :/
+/: Mulțumesc, Ție Doamne-Ți mulțumesc! :/
+/: Mulțumesc, Ție Doamne-Ți mulțumesc! :/
 Mulțumesc!
 
 [v2]
