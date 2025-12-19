@@ -1,5 +1,5 @@
 [title]
-Tu Te-ai născut jos pe pământ {alternative: {*}, composer: {David Lela}, writer: {David Lela}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Tu Te-ai născut jos pe pământ {alternative: {*}, composer: {David Lela}, writer: {David Lela}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {mDhynftpyuoBWYtAC3Vbtv}, contentHash: {4a8c09}}
 
 [sequence]
 v1,c,v2,c

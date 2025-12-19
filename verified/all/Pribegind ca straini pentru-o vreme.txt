@@ -1,5 +1,5 @@
 [title]
-Pribegind ca străini pentru-o vreme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Pribegind ca străini pentru-o vreme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pogTfkmA3YKmqGqnVffhms}, contentHash: {22abae}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Căci un Copil ni s-a născut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {cor copii Dynamis}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Căci un Copil ni s-a născut {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {cor copii Dynamis}, genre: {*}, rcId: {*}, id: {r3q3AwEDWvG9XnB9tKxWU9}, contentHash: {642c6f}}
 
 [sequence]
 v1,v2,e

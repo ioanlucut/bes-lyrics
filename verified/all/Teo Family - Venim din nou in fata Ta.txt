@@ -1,5 +1,5 @@
 [title]
-Venim din nou în fața Ta {alternative: {*}, composer: {Teo Family}, writer: {Teo Family}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Venim din nou în fața Ta {alternative: {*}, composer: {Teo Family}, writer: {Teo Family}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {v4fDU12SC2pDKHS92TJLtb}, contentHash: {587556}}
 
 [sequence]
 v1,c,b,e

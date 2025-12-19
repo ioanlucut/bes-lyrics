@@ -1,5 +1,5 @@
 [title]
-Vreau să fiu un far în noapte {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Vreau să fiu un far în noapte {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mqSkSkC7sqAeYsocAiL8Sk}, contentHash: {5ab781}}
 
 [sequence]
 v1,c,v2,c,v3,c
