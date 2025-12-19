@@ -1,5 +1,5 @@
 [title]
-O stea ce strălucește, lumii vestește {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xkD6H7MeDnaqMtzGfzhZWM}, contentHash: {c36417}}
+O stea ce strălucește, lumii vestește {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xkD6H7MeDnaqMtzGfzhZWM}, contentHash: {3fe0ca}}
 
 [sequence]
 v1,c,v2,c,b,v3,v4,c,e
@@ -12,16 +12,16 @@ Rege ne este, Emanuel.
 [c]
 Cântăm glorie, glorie,
 Pace sus în cer, pace pe pământ!
-Cântăm glorie, glorie
+Cântăm glorie, glorie,
 S-a născut Isus, Fiul celui Sfânt!
 
 [v2]
-În El este speranță și siguranță,
-Emanuel, lumii dă mântuire, dă izbăvire, Emanuel.
+În El este speranță și siguranță, Emanuel,
+Lumii dă mântuire, dă izbăvire, Emanuel.
 
 [b]
 /: Deci să nu vă temeți,
-O veste-aducem tuturor,
+O veste-aducem tuturor:
 În cetatea lui David
 Vi S-a născut un Mântuitor! :/
 

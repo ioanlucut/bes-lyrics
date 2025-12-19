@@ -1,5 +1,5 @@
 [title]
-Un oraș frumos este pe munte {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tpw1QK6TNVwMdh877u6xGF}, contentHash: {005f46}}
+Un oraș frumos este pe munte {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {tpw1QK6TNVwMdh877u6xGF}, contentHash: {dc7fe1}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -11,10 +11,10 @@ Eu doresc să văd așa frumusețe
 Când voi trece-n valea plângerii.
 
 [c]
-Tot orașul de pe munte
+/: Tot orașul de pe munte
 Îi întâmpină pe cei veniți,
 Bucuria va fi mare și în veci
-Vom fi cu toți fericiți.
+Vom fi cu toți fericiți. :/
 
 [v2]
 Veniți voi, trudiți în acest loc sfânt,

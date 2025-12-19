@@ -1,0 +1,23 @@
+[title]
+Tu Te-ai născut jos pe pământ {alternative: {*}, composer: {David Lela}, writer: {David Lela}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {mDhynftpyuoBWYtAC3Vbtv}, contentHash: {4a8c09}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+/: Tu Te-ai născut jos pe pământ,
+În ieslea săracă și rece,
+Fiu de-mpărat, cerul ai lăsat,
+Trăind pe pământ printre oameni. :/
+
+[c]
+/: S-a născut Emanuel jos în ieslea Betleem,
+Pentru noi El a venit din iubire.
+S-a născut jos pe pământ, o speranță aducând,
+Doar prin El noi am primit mântuire. :/
+
+[v2]
+Haideți cu toți la ieslea Lui,
+Prin El vom avea fericire,
+Să-I cântăm, să-L lăudăm
+Pe cel ce-a adus mântuire!

@@ -1,0 +1,272 @@
+[title]
+Cantata crăciun cor mixt BES 2025 {alternative: {*}, composer: {Jay Rouse}, writer: {Randy Vader; traducerea și adaptarea Andrei Fedur}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols; combined choir songs}, version: {corul mixt al BES}, genre: {cantata}, rcId: {*}, id: {q2yGiGwbSw3Vc8PcsSZFkw}, contentHash: {fb5b18}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12,v13,v14,v15,v16,v17,v18,v19,v20,v21,v22,v23,v24,v25,v26,v27,v28,v29,v30,v31,v32,v33,v34,v35,v36,v37,v38,v39,v40,v41,v42,v43,v44
+
+[v1]
+Este-acum pace pe pământ,
+Dragostea-ntrece orice gând,
+Te bucură azi: Isus a venit,
+Profețiile s-au împlinit!
+
+[v2]
+Este-acum pace pe pământ,
+Cerul tresaltă-ntr-un gând,
+Lumina a venit cum profeții au vestit,
+E din plin pace pe pământ!
+
+[v3]
+Este-acum pace pe pământ,
+Dragostea-ntrece orice gând,
+Te bucură azi: Isus a venit,
+Profețiile s-au împlinit!
+
+[v4]
+Este-acum pace pe pământ,
+Cerul tresaltă-ntr-un gând,
+Lumina a venit cum profeții au vestit,
+E din plin pace pe pământ!
+
+[v5]
+Minunat, Sfetnic bun, Preaînalt, Tatăl veșniciei,
+Rege-n veci, Împărat, Prinț și-al păcii Domn.
+
+[v6]
+Este-acum pace pe pământ,
+Dragostea-ntrece orice gând,
+Te bucură azi: Isus a venit,
+Profețiile s-au împlinit!
+
+[v7]
+Este-acum pace pe pământ,
+Cerul tresaltă-ntr-un gând,
+Lumina a venit cum profeții au vestit,
+E din plin pace pe pământ!
+
+[v8]
+/: E din plin pace pe pământ! :/
+
+[v9]
+/: Neteziți cărările, munții falnici cu văile
+Și voi toate câmpiile, că se naște Regele!
+Iar prin beznă făcliile și în noapte luminile
+Să alunge dar umbrele că apare Regele!
+Lumina lumii a venit, în noaptea neagră-a răsărit,
+E darul divin ce ne-a fost promis, El a venit, El a venit,
+Lumina a răsărit, El a venit. :/
+
+[v10]
+Neteziți cărările, munții falnici cu văile
+Și voi toate câmpiile, că se naște Regele!
+Iar prin beznă făcliile și în noapte luminile
+Să alunge dar umbrele că apare Regele!
+Lumina lumii a venit, în noaptea neagră-a răsărit,
+E darul divin ce ne-a fost promis, El a venit, El a venit.
+Lumina a răsărit.
+
+[v11]
+Auzi corul îngeresc cântând Tatălui ceresc:
+Lumina lumii a venit, în noaptea neagră-a răsărit,
+E darul divin ce ne-a fost promis,
+El a venit, El a venit.
+Lumina a răsărit, El a venit.
+Ce-a fost vestit s-a împlinit, căci a venit!
+
+[v12]
+Păstori de strajă-n câmp stăteau,
+În jurul turmei se-adunau,
+Când cerul nopții străluci un cor de îngeri se-auzi:
+„Nu vă temeți, veste bună vă dăm:
+Veniți, vedeți Regele născut!
+Veniți, vedeți pe regele Isus!”
+
+[v13]
+La Betleem să-L căutați pe Isus, Salvatorul!
+Acum iubirea Tatălui s-a întrupat prin Fiul Său.
+„Nu vă temeți, veste bună vă dăm:
+Veniți, vedeți Regele născut!
+Veniți, vedeți pe regele Isus, noul născut!”
+
+[v14]
+Păstorii bucuroși pornesc să spună vestea tuturor,
+De-un Copilaș venit din cer, trimis în dar de Dumnezeu.
+„Nu vă temeți, veste bună vă dăm:
+Veniți vedeți, veniți vedeți,
+Să știe toți, S-a născut Isus,
+Regele Isus! S-a născut Isus!”
+
+[v15]
+Pe bolta cerului senin cântări au răsunat,
+Când îngerii duios și lin din harfe au cântat:
+„Slăvit să fie Dumnezeu și pace pe pământ!”
+Ascultă-ntregul univers al îngerilor cânt.
+Glorie, glorie!
+
+[v16]
+Și azi e cerul larg deschis, iar îngerii în zbor
+Din străluciri de nedescris sublim ne cântă-n cor.
+Deasupra tristelor câmpii se-apleacă cerul sfânt
+S-atingă zbuciumul din noi cu-al îngerilor cânt,
+Cu-al îngerilor cânt.
+
+[v17]
+/: Să-L slăvim, să-I cântăm în cor:
+Glorie, aleluia noului Salvator,
+Rege sfânt, Copil minunat,
+A venit în lume pentru-a fi și eu salvat. :/
+
+[v18]
+Magi din Răsărit spre iesle au pornit,
+Urmând măreața stea, toți împreună vin grăbiți,
+Daruri I-au dat și Lui s-au închinat,
+Cu toții-mpreună pe El L-au lăudat!
+
+[v19]
+Să-L slăvim, să-I cântăm în cor:
+Glorie, aleluia noului Salvator,
+Rege sfânt, Copil minunat,
+A venit în lume pentru-a fi și eu salvat.
+
+[v20]
+Prietene drag, nu vrei pace să ai,
+Inima ta Lui pe veci să I-o predai?
+Te va iubi, să știi, și-n veci te va ierta,
+Dacă Îl primești să intre-n viața ta!
+
+[v21]
+Să-L slăvim, să-I cântăm în cor:
+Glorie, aleluia noului Salvator,
+Rege sfânt, Copil minunat,
+A venit în lume pentru-a fi și eu salvat.
+
+[v22]
+Să-L slăvim, să-I cântăm în cor:
+Glorie, aleluia noului Salvator,
+Rege sfânt, Copil minunat,
+/: A venit în lume pentru-a fi și eu salvat, :/
+A venit aici pentru-a fi și eu salvat!
+
+[v23]
+Bogați trăind în tihnă, mai sus de trai modest,
+Au părăsit confortul pentru steaua din Est.
+Calea părea o taină. Ce poate desluși?
+Curând văzut-au sensul ei ce tare îi uimi.
+
+[v24]
+Îl caută magii, urmând măreața stea,
+Lui I se închină când ajung ‘naintea Sa.
+Bogații înțelepți vin cu darurile lor,
+Toți Îl adoră pe-acest Rege-al regilor.
+
+[v25]
+Toți cu reverență Lui s-au închinat,
+Aur și tămâie și smirnă-n dar I-au dat.
+Prosternați ‘naintea Lui, cu toți L-au adorat,
+Acest Copil al slavei e Domn și Împărat.
+
+[v26]
+Îl caută magii, urmând măreața stea,
+Lui I se închină când ajung ‘naintea Sa.
+Bogații înțelepți vin cu darurile lor,
+Toți Îl adoră, toți Îl adoră, toți Îl adoră.
+
+[v27]
+Îl caută magii, urmând măreața stea,
+Lui I se închină când ajung ‘naintea Sa.
+Bogații înțelepți vin cu darurile lor,
+Toți Îl adoră pe-acest Rege-al regilor.
+
+[v28]
+Îl caută magii, urmând măreața stea,
+Lui I se închină când ajung ‘naintea Sa.
+Bogații înțelepți vin cu darurile lor,
+Toți Îl adoră, toți Îl adoră, toți Îl adoră,
+Toți Îl adoră pe-acest Rege-al regilor.
+
+[v29]
+/: Magii Îl adoră, magii Îl adoră, magii Îl adoră
+Pe-acest Rege-al regilor. :/
+
+[v30]
+Este-acum pace pe pământ,
+Dragostea-ntrece orice gând,
+Te bucură azi: Isus a venit,
+Profețiile s-au împlinit!
+
+[v31]
+Este-acum pace pe pământ,
+Cerul tresaltă-ntr-un gând,
+Lumina a venit cum profeții au vestit,
+E din plin pace pe pământ!
+
+[v32]
+Este-acum pace pe pământ,
+Dragostea-ntrece orice gând,
+Te bucură azi: Isus a venit,
+Profețiile s-au împlinit!
+
+[v33]
+Este-acum pace pe pământ,
+Cerul tresaltă-ntr-un gând,
+Lumina a venit cum profeții au vestit,
+E din plin pace pe pământ!
+
+[v34]
+Minunat, Sfetnic bun, Preaînalt, Tatăl veșniciei,
+Rege-n veci, Împărat, Prinț și-al păcii Domn.
+
+[v35]
+Este-acum pace pe pământ,
+Dragostea-ntrece orice gând,
+Te bucură azi: Isus a venit,
+Profețiile s-au împlinit!
+
+[v36]
+Este-acum pace pe pământ,
+Cerul tresaltă-ntr-un gând,
+Lumina a venit cum profeții au vestit,
+E din plin pace pe pământ!
+
+[v37]
+/: E din plin pace pe pământ! :/
+
+[v38]
+Departe-ntr-o iesle, în paie ascuns,
+Culcat printre vite, stă pruncul Isus.
+Îi cântă și-L leagănă stele de-argint
+Și-ncet Copilașul adoarme zâmbind.
+
+[v39]
+Rămâi, drag Isuse, cu noi, Te rugăm!
+N-avem bogății, dar tot ce-avem Îți dăm,
+Iar Tu, dă-ne binecuvântarea Ta
+Și viața întreagă la iesle vom sta.
+
+[v40]
+Cântă corul îngeresc: „Slavă Tatălui ceresc,
+Pace fie pe pământ!”, S-a născut Copilul sfânt!
+Fiul sfânt demult promis a venit de sus trimis!
+/: Cântă corul îngeresc: „Slavă Tatălui ceresc!” :/
+
+[v41]
+Minunat, Sfetnic bun, Preaînalt, Tatăl veșniciei,
+Rege-n veci, Împărat, Prinț și-al păcii Domn.
+
+[v42]
+Este-acum pace pe pământ,
+Dragostea-ntrece orice gând,
+Te bucură azi: Isus a venit,
+Profețiile s-au împlinit!
+
+[v43]
+Este-acum pace pe pământ,
+Cerul tresaltă-ntr-un gând,
+Lumina a venit cum profeții au vestit,
+/: E din plin pace pe pământ! :/
+
+[v44]
+Sfântă e noaptea de har,
+Fiul trimis în dar mântuire din cer ne-a adus,
+Împăcare cu Tatăl de sus.
+Azi Hristos S-a născut, azi Hristos s-a născut!

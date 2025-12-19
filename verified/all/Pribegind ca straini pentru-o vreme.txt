@@ -1,0 +1,29 @@
+[title]
+Pribegind ca străini pentru-o vreme {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pogTfkmA3YKmqGqnVffhms}, contentHash: {22abae}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pribegind ca străini pentru-o vreme,
+Trecând ades neobservați,
+Într-o zi când răsplata aduce,
+În slavă vom fi îmbrăcați.
+
+[c]
+Străluci-vom ca stelele noaptea
+Cu Mielul cel crucificat.
+Tăria eternă e plata,
+/: Chiar dacă treci neobservat. /:
+
+[v2]
+Poate nu vom avea bogăție,
+Nici faimă sau slavă aici,
+Însă sfinții vor fi pe vecie
+În ceruri cu Domnul uniți.
+
+[v3]
+Poate unii în contră se-arată,
+Trăiesc și se sting singuri ei,
+Într-o zi, însă, Tatăl ne-arată
+Ce har a păstrat pentru ei.

@@ -1,33 +1,25 @@
 [title]
-Noi așteptăm pe Domnul Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4009}, id: {aDPYXtWmSYhb1AijCtfFAs}, contentHash: {f0eb7f}}
+Noi așteptăm pe Domnul Isus {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4009}, id: {aDPYXtWmSYhb1AijCtfFAs}, contentHash: {80e901}}
 
 [sequence]
 v1,v2,v3,v4
 
 [v1]
-/: Noi așteptăm pe Domnul Isus,
-Când vine! :/
-/: Noi așteptăm pe Domnul
-Ce ne-a gătit locul
+/: Noi așteptăm pe Domnul Isus când vine! :/
+/: Noi așteptăm pe Domnul ce ne-a gătit locul
 Și în mărire ne va duce! :/
 
 [v2]
-/: Noi mergem ‘naintea lui Isus,
-Când vine! :/
-/: Noi mergem înainte,
-El brațu-Și întinde
-Și la locul promis ne duce. :/
+/: Noi mergem ‘naintea lui Isus când vine! :/
+/: Noi mergem înainte, El brațu-Și întinde
+Și în locul promis ne duce. :/
 
 [v3]
-/: Vedea-vom pe Isus, pe nori,
-Când va veni! :/
-/: Da, vedea-vor pe Isus
-Și cei ce L-au străpuns
+/: Vedea-vom pe Isus pe nori când va veni! :/
+/: Da, vedea-vor pe Isus și cei ce L-au străpuns
 Și toți cei din lume vor plânge. :/
 
 [v4]
-/: Păcătosule, ce răspunzi,
-„Când va veni?” :/
-/: O, ce va fi cu tine?
-Nu te-a scăpa nimeni
+/: Păcătosule, ce răspunzi când va veni? :/
+/: O, ce va fi cu tine? Nu te-a scăpa nimeni,
 Căci locul tu ți l-ai pregătit! :/
