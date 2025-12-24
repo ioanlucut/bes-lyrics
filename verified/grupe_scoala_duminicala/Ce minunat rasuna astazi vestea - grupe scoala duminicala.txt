@@ -1,5 +1,5 @@
 [title]
-Ce minunat răsună astăzi vestea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Ce minunat răsună astăzi vestea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {bwjcdEJR1SPUqHU82HYok9}, contentHash: {2fd778}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v7
