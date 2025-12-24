@@ -1,0 +1,28 @@
+[title]
+Vestiți azi pretutindeni {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+c,v1,c,v2,c,v3,c2
+
+[c]
+/: Vestiți azi pretutindeni,
+Duceți cuvântul peste munți,
+Vestiți azi pretutindeni că Isus S-a născut! :/
+
+[v1]
+Vegheau păstorii turma sub cerul liniștit,
+Deodată o lumină din cer a strălucit.
+
+[v2]
+O veste minunată azi îngerii-au adus
+Că-n lumea-ntunecată S-a coborât Isus.
+
+[v3]
+Sărac, umil în iesle, mărețul Prunc veni,
+Pe cei morți în păcate să-i poată mântui,
+
+[c2]
+/: Vestiți azi pretutindeni,
+Duceți cuvântul peste munți,
+Vestiți azi pretutindeni că Isus S-a născut! :/
+Că Isus S-a născut.

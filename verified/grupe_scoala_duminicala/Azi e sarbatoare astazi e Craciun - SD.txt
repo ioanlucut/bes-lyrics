@@ -1,0 +1,21 @@
+[title]
+Azi e sărbătoare, astăzi e Crăciun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Azi e sărbătoare, astăzi e Crăciun:
+S-a născut în iesle Domnul nostru bun,
+Nu în bogăție, nu în scump palat,
+Ci smerit în paie Domnul S-a-ntrupat.
+
+[v2]
+Stele fără număr sus pe cer sclipesc,
+Cântă de iubirea Tatălui ceresc.
+O, Isuse Doamne, cât de trist ar fi
+Dacă fără Tine, singuri, am trăi.
+
+[v3]
+Las’ să intre Isus în căsuța ta,
+/: Numai bucurie Domnul îți va da! :/

@@ -1,0 +1,45 @@
+[title]
+Ce minunat răsună astăzi vestea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6,v7
+
+[v1]
+Ce minunat răsună astăzi vestea,
+În Betleem s-a împlinit minunea:
+Azi Isus S-a născut, Lumina lumii, Lumina lumii!
+
+[v2]
+Ne-au povestit păstorii din câmpie
+Cum L-au găsit pe Mielul din vecie.
+Azi Isus S-a născut, Lumina lumii, Lumina lumii!
+
+[v3]
+Vino cu noi să Îl vedem
+Pe Pruncul sfânt din Betleem,
+Pe Domnul fără de-nceput
+Ce a venit pe-acest pământ,
+Pe Isus, Lumina lumii, lumina lumii.
+
+[v4]
+Și peste ani Mielul cel sfânt va crește,
+Viața-Și va da și cei ce-n El vor crede
+Vor fi răscumpărați, ce mare minune, Lumina lumii!
+
+[v5]
+Până și noi vom crește mari odată
+Și-L vom căuta pe Cel
+Ce-n noapte a venit chiar în Betleem,
+Lumina lumii, lumina lumii.
+
+[v6]
+Vino cu noi să Îl vedem
+Pe Pruncul sfânt din Betleem,
+Pe Domnul fără de-nceput
+Ce a venit pe-acest pământ,
+Pe Isus, Lumina lumii, lumina lumii.
+
+[v7]
+Până atunci noi Te rugăm, Isuse, ai grijă de noi,
+Să ne ajuți să nu uităm că Tu rămâi mereu
+Lumina lumii, Lumina lumii!

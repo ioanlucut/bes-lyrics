@@ -1,0 +1,37 @@
+[title]
+Părinte al veșniciilor {alternative: {*}, composer: {Andrei Fedur}, writer: {Andrei Fedur}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,e
+
+[v1]
+Întunericul a-mpărățit în vechime peste Israel,
+O lumină însă-a răsărit, a venit din cer Emanuel.
+/: O stea răsare din Iacov, un toiag apare-n Israel,
+Ce minunat, un Salvator e Părinte-al veșniciilor! :/
+
+[v2]
+Îngerul se-arată la păstori
+Împrejurul turmei și le-a zis:
+Nu vă temeți, nu vă înspăimântați,
+Să v-aduc o veste-am fost trimis:
+/: Din seminția lui David un Mântuitor vi S-a născut.
+Îngerii-n cor cu oastea lor
+S-a unit cu a păstorilor. :/
+
+[v3]
+Dacă nu-L cunoști pe Dumnezeu
+Și în întuneric ești legat,
+Am o veste bună, dragul meu:
+prin Isus Hristos poți fi salvat!
+Cântă și tu azi cu mine Pruncului născut la Betleem,
+E șansa ta, nu amâna, lasă-L să se nască-n viața ta!
+
+[v4]
+Iată, S-a născut Isus, mântuire ne-a adus,
+El ne scapă din nevoi, Dumnezeu este cu noi.
+/: Glorie, slavă, mărire Regelui venit la Betleem,
+Ce minunat, un Salvator e Părinte-al veșnicilor! :/
+
+[e]
+E Părinte-al veșniciilor.
