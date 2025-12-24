@@ -1,5 +1,5 @@
 [title]
-Azi e sărbătoare, astăzi e Crăciun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Azi e sărbătoare, astăzi e Crăciun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {e6JxHt4vhukTTQU7K3PBYP}, contentHash: {b8bde2}}
 
 [sequence]
 v1,v2,v3

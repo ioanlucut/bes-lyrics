@@ -1,5 +1,5 @@
 [title]
-Nu mai fii trist, căci pentru tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Nu mai fii trist, căci pentru tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {3BJ2iVi7DERsBCrB7ZL3sL}, contentHash: {157a2a}}
 
 [sequence]
 v1,v2,v3,v1,v2,v4

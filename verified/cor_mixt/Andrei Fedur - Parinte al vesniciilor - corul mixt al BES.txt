@@ -1,5 +1,5 @@
 [title]
-Părinte al veșniciilor {alternative: {*}, composer: {Andrei Fedur}, writer: {Andrei Fedur}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Părinte al veșniciilor {alternative: {*}, composer: {Andrei Fedur}, writer: {Andrei Fedur}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {csUHbzpagn3xhy262TjMkZ}, contentHash: {f5d4de}}
 
 [sequence]
 v1,v2,v3,v4,e
