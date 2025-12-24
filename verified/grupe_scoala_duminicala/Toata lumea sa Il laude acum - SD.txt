@@ -1,0 +1,30 @@
+[title]
+Toată lumea să Îl laude acum {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c2
+
+[v1]
+Toată lumea să Îl laude acum
+Pe Cel ce-a venit pe-acest pământ,
+Să se-nchine și să-I cânte glorie
+Domnului Isus, Pruncul cel sfânt!
+
+[c]
+Binecuvântați și glorificați,
+Pe Isus Hristos toți să-L lăudați,
+Haideți azi cu toți să privim spre El,
+Spre Isus, Mântuitorul lumii!
+
+[v2]
+Îngerii în cer îi cântă laudă,
+Slavă pe pământ și sus în cer,
+Spre Isus priviți azi și vă bucurați,
+Nașterea Domnului lăudați!
+
+[c2]
+Binecuvântați și glorificați,
+Pe Isus Hristos toți să-L lăudați,
+Haideți azi cu toți să privim spre El,
+Spre Isus, Mântuitorul lumii,
+Spre Isus, Mântuitorul lumii.

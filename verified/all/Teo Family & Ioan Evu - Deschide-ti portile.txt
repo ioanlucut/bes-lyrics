@@ -1,0 +1,26 @@
+[title]
+Deschide-ți porțile și largi cărările {alternative: {*}, composer: {Teo Family și Ioan Evu}, writer: {Ioan Evu și Teo Family}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Colindăm, colindăm, veste bună vă dăm,
+Și v-aducem un cânt dintre zări:
+Că din trup de pământ și din Duhul preasfânt
+Se va naște Mesia curând.
+
+[c]
+/: Deschide-ți porțile și largi cărările,
+Lumina Lui e-n voi,
+Lumina Fiului și pacea Tatălui să fie-n veci cu voi! :/
+
+[v2]
+Pe pământ aici jos, S-a născut azi Hristos,
+El e vestea, din cer coborât.
+S-a născut, S-a născut Cel fără de început,
+Cel cu moartea pe moarte călcând.
+
+[b]
+/: Lumină din Lumină, Dumnezeu din Dumnezeu,
+Singura Cale către cer. :/

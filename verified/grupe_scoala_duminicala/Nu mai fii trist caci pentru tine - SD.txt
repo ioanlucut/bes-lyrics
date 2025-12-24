@@ -1,0 +1,25 @@
+[title]
+Nu mai fii trist, căci pentru tine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v1,v2,v4
+
+[v1]
+/: Nu mai fii trist, căci pentru tine
+S-a coborât din strălucire Emanuel,
+Să ne aducă pace în inimă! :/
+
+[v2]
+Sunt fericit, chiar dacă am lacrimi pe-obraz,
+Iată secretul: în inimă-i Isus.
+
+[v3]
+/: Fericirea-i să-L ai pe Isus
+Și să trăiești numai cu Isus, cel din Betleem.
+Și S-a născut azi și-n inima mea. :/
+
+[v4]
+/: Fericirea-i să-L ai pe Isus
+Și să trăiești numai cu Isus, cel din Betleem.
+Și S-a născut azi și-n inima mea.
+Și-n inima ta și-n inima mea. :/

@@ -1,0 +1,17 @@
+[title]
+Auzi corul îngeresc {alternative: {*}, composer: {F. Mendelssohn}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {carols}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2
+
+[v1]
+Auzi corul îngeresc, Dumnezeu din cer slăvesc!
+Cântă imnuri înălțând, pace fie pe pământ!
+Dumnezeu cum a promis pe-al Său Fiu El L-a trimis.
+/: Auzi corul îngeresc, cântând Tatălui ceresc! :/
+
+[v2]
+Toate de la El primim, când prin rugăciuni venim,
+Să-I deschidem inima ca să intre El în ea!
+Și ne va conduce sus, unde-s fericiri nespus,
+/: Toți în cor Îi vom cânta, mare este slava Sa! :/
