@@ -15,7 +15,7 @@
     "fs-extra": "^11.2.0",
     "iconv": "^3.0.1",
     "is-ci": "^3.0.1",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "nspell": "^2.1.5",
     "p-map": "^4.0.0",
     "recursive-readdir": "^2.2.3",
