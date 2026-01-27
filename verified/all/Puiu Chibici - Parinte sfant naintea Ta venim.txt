@@ -1,0 +1,26 @@
+[title]
+Părinte sfânt, ‘naintea Ta venim {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+Părinte sfânt, ‘naintea Ta venim
+Și ne proșternem iubitori să-Ți mulțumim.
+/: Căci pân’ aici ne-ai ajutat
+Și-n viață încă ne-ai păstrat,
+Pentru iubirea ce pentru noi Ți-ai arătat. :/
+
+[v2]
+Ne-ai dat aici atâtea binecuvântări,
+Ne-ai mângâiat și alinat multe dureri.
+/: Ne-ai fost alăturea la greu
+Și ne-ai întins mâna mereu,
+Pentru aceasta Te slăvim, bun Dumnezeu! :/
+
+[v3]
+Izvorul Tău a curs întruna nesecat
+Și apa Ta de-atâtea ori ne-anviorat.
+/: Ne-ai dat o poartă către har,
+Prin Fiul Tău, sus la Calvar,
+Îți mulțumim, o, Doamne bun pentru-acest dar! /:
