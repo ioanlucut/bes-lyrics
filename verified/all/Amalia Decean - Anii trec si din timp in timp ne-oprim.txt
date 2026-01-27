@@ -1,5 +1,5 @@
 [title]
-Anii trec și din timp în timp ne-oprim {alternative: {*}, composer: {Monica Turtoi}, writer: {Monica Turtoi}, arranger: {*}, interpreter: {Amalia Decean}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Anii trec și din timp în timp ne-oprim {alternative: {*}, composer: {Monica Turtoi}, writer: {Monica Turtoi}, arranger: {*}, interpreter: {Amalia Decean}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {dVFoe4C7jPcfSyBSwiin9g}, contentHash: {918a56}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,e

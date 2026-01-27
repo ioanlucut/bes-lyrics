@@ -1,5 +1,5 @@
 [title]
-Părinte sfânt, ‘naintea Ta venim {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Părinte sfânt, ‘naintea Ta venim {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {v9G8czNmRTSjAHq3V4WvaG}, contentHash: {87c460}}
 
 [sequence]
 v1,v2,v3

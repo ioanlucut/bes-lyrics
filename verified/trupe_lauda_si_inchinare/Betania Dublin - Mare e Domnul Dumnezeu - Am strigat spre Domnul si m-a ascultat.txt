@@ -1,5 +1,5 @@
 [title]
-Mare e Domnul Dumnezeu {alternative: {Am strigat spre Domnul și m-a ascultat}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Mare e Domnul Dumnezeu {alternative: {Am strigat spre Domnul și m-a ascultat}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bNiibsWKj27Fue82xvuxBm}, contentHash: {066bbe}}
 
 [sequence]
 v1,c,v2,c,c2
