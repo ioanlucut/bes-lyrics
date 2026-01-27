@@ -1,0 +1,27 @@
+[title]
+E-al nostru Domn, Serv-Împărat {alternative: {*}, composer: {Graham Kendrick}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Venit din cer un Copil de slava Lui S-a dezbrăcat,
+Și nu slujit, ci slujind viața pentru noi Și-a dat.
+
+[c]
+E-al nostru Domn, Serv-Împărat
+Și El ne cheamă să-L urmăm,
+Să-I dăm viața jertfă zi de zi,
+Spre slava Lui să o-nchinăm.
+
+[v2]
+În Ghetsimani, părăsit, purtând povara noastră grea,
+Lui Dumnezeu s-a rugat: „Nu voia Mea, ci voia Ta!”
+
+[v3]
+Privește rănile Lui cum ne vorbesc de jertfa Sa,
+Cât de adânc S-a smerit să ne arate dragostea!
+
+[v4]
+Deci, să-nvățăm să slujim făcându-L Domn în temple vii,
+Slujind ca robi tuturor, prin toate Lui Îi vom servi.

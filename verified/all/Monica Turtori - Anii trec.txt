@@ -1,0 +1,45 @@
+[title]
+Anii trec și din timp în timp ne-oprim {alternative: {*}, composer: {Monica Turtoi}, writer: {Monica Turtoi}, arranger: {*}, interpreter: {Amalia Decean}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,e
+
+[v1.1]
+Anii trec și din timp în timp ne-oprim
+Urma pașilor în văi să privim,
+Să vedem tot ce-n inimă avem,
+Cum am fost cândva și azi cum suntem.
+
+[v1.2]
+Am purtat în lume chipul Tău și-ai fost văzut?
+Al Tău Nume oare l-am făcut de cunoscut?
+Ai să vii curând și tot ce-n urmă am lăsat
+Îți va spune ce-am iubit cu-adevărat.
+
+[v2.1]
+Anii trec și vor duce-n zborul lor
+Orice șansă de-a sluji plini de dor.
+Regretat va fi lucrul amânat,
+Ce-am avut de gând să dăm și n-am dat.
+
+[v2.2]
+Am purtat în lume oare-al dragostei veșmânt
+Sau legată inima ne-a fost doar de pământ?
+Ai să vii curând și tot ce-n urmă am lăsat
+Îți va spune ce-am iubit cu-adevărat.
+
+[v3.1]
+Anii trec și nu-i chip să îi oprim,
+Însă clipa ce-o avem s-o trăim
+Ca-ntr-o zi, când pe nori vei reveni,
+Înspre noi să poți privi și spune
+
+[v3.2]
+C-am purtat în lume chipul Tău și-ai fost văzut,
+Și-al Tău nume mare l-am făcut de cunoscut.
+Vrem când vei veni, privind la tot ce am lucrat,
+Să ne spui că Te-am iubit cu-adevărat.
+
+[e]
+Vrem când vei veni, privind la tot ce am lucrat,
+Să ne spui că Te-am iubit cu-adevărat, cu-adevărat.

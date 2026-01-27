@@ -1,0 +1,32 @@
+[title]
+Trezește, Doamne, România {alternative: {*}, composer: {Chris Muraru}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul bărbătesc al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,e
+
+[v1]
+Am așteptat în întuneric, e timpul să ne pregătim,
+În zori de zi Lumina s-o-ntâlmnim.
+Da, vom vedea și-n țara noastră
+Cum se-mplinește în curând
+Ce ne-am rugat cu toți de-atâta timp.
+
+[c]
+/: Trezește, Doamne, România,
+Aprinde foc în pragul zilei de apoi!
+Trezește, Doamne, România și începe cu noi! :/
+
+[v2]
+Da, e nevoie de o schimbare, azi încă nu e prea târziu,
+Biruitori la luptă să pornim,
+Să transformăm credința-n fapte și să trăim ce predicăm,
+Pentru trezire uniți să ne rugăm!
+
+[v3]
+/: Binecuvântează, Doamne, România!
+Binecuvântează țara mea!
+Vino cu putere, vino cu trezire,
+Te rugăm, Isus, ai milă de ea! :/
+
+[e]
+Ai milă de ea, de țara mea!
