@@ -1,0 +1,53 @@
+[title]
+Tu, Cel ce locuiești în slăvile cerești {alternative: {*}, composer: {Mariana Someșan}, writer: {Mariana Someșan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bBPG6TKqQM1HnFBbUSdbJg}, contentHash: {e5eff0}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
+
+[v1.1]
+Tu, Cel ce locuiești în slăvile cerești,
+Ești totul, Doamne, pentru mine.
+În încercarea grea, Tu ești scăparea mea,
+De-aceea Te laud doar pe Tine!
+
+[v1.2]
+Prin vânturi reci și ploi, prin lacrimi și nevoi,
+Tu viața mi-o conduci în siguranță,
+Și chiar dacă-ntr-o zi lumina n-ar mai fi,
+Isuse, Tu rămâi a mea speranță!
+
+[v2.1]
+Păcatul mi-ai iertat, de jos m-ai ridicat
+Și-o sfântă nădejde mi-ai dat.
+De-aceea-Ți mulțumesc, de-aceea Te slăvesc,
+De-aceea, Isuse, Te iubesc!
+
+[v2.2]
+Pe brațe m-ai luat și răni mi-ai vindecat
+Și viața mi-o conduci în siguranță.
+Prin vânturi reci și ploi, prin lacrimi și nevoi,
+Isuse, Tu-mi rămâi a mea speranță!
+
+[v3.1]
+Chiar daca-atâția azi și-aleg alte cărări,
+Isuse, vreau să Te urmez pe Tine!
+O, ține-mi inima aproape de a Ta,
+Că vreau să locuiesc pe veci cu Tine!
+
+[v3.2]
+Și fă-mă tot mai mult ca vocea să-Ți ascult
+Și pașii mei să-i fac în siguranță,
+Și-n vasul meu de lut, să port ca la-nceput
+A Duhului comoară prețioasă!
+
+[v4.1]
+Vreau să-Ți slujesc mereu, Isuse, Domnul meu,
+Dă-mi har să mă pot lepăda de mine,
+Și pleacă-mi inima să facă voia Ta,
+Chiar dacă prețu-ar fi doar suspine!
+
+[v4.2]
+Căci vreau să-Ți mulțumesc și vreau să Te slăvesc,
+Căci, Doamne, mi-ai făcut atâta bine.
+Ajută-mă mereu să merg pe drumul Tău,
+Și într-o zi să mă-ntâlnesc cu Tine!

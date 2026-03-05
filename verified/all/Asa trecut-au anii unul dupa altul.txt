@@ -1,0 +1,41 @@
+[title]
+Așa trecut-au anii unul după altul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {r9WPzir5K5gLt54afvMfdu}, contentHash: {53b61e}}
+
+[sequence]
+v1,c,v2,c2,v3,c3
+
+[v1]
+Atâtea zile din viață eu am pierdut
+Și n-am lucrat în via Sa cum aș fi vrut.
+Dar eu vă spun că mie-așa de rău îmi pare
+Că n-am lucrat atunci mai mult când s-a putut.
+
+[c]
+/: Așa trecuta-au anii unul după altul
+Și noi am stat, am stat nepăsători,
+Iar fiecare an ne-apropie de Domnul
+Și noi mai stăm, mai stăm nepăsători. :/
+
+[v2]
+De-această zi aș vrea ca toți să-și amintească,
+Căci zile ca acestea n-or mai fi.
+Iar celor ce-au venit ca să se pocăiască
+De-această zi aș vrea mereu a le-aminti.
+
+[c2]
+/: E, poate, ziua cea din urmă a chemării
+Și tu mai stai, mai stai nepăsător,
+Tu știi că se va-nchide ușa îndurării?
+Atunci de ce, de ce mai stai nepăsător? :/
+
+[v3]
+/: Acolo-n ceruri, când se va deschide cartea,
+Când numele acelor sfinți se va citi,
+Și fiecare dintre ei își va lua partea,
+Acolo-aș vrea, Isuse sfânt și eu a fi.
+
+[c3]
+/: Și ce frumoasă fi-va atunci amintirea
+Acelor ce-au lucrat aici, pe-acest pământ,
+Iar partea lor cea bună va fi fericirea
+De-a sta sta în cer mereu, în veci, cu Domnul sfânt. :/

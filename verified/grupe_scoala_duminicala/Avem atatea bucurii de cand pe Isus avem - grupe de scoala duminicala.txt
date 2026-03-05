@@ -1,0 +1,27 @@
+[title]
+Avem atâtea bucurii de când pe Isus avem {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe de școală duminicală}, genre: {*}, rcId: {*}, id: {wvJi6mkxLvsvxqxiDePiUj}, contentHash: {c66650}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Avem atâtea bucurii de când pe Isus avem
+În inimă, în inimă,
+Avem atâtea bucurii de când pe Isus avem,
+Glorie lui Isus!
+
+[c]
+/: Ce fericire să fii cu Isus,
+Să ai în inimă iubirea Lui! :/
+
+[v2]
+Eu știu că lui Satan nu-i place,
+Dar eu cânt din inimă, din inimă, din inimă.
+Eu știu că lui Satan nu-i place,
+Dar eu cânt din inimă: glorie lui Isus!
+
+[v3]
+Când ești născut din nou ca Nicodim
+Cânți din inimă, din inimă, din inimă.
+Când ești născut din nou ca Nicodim
+Cânți din inimă: glorie lui Isus!

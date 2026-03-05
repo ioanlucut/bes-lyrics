@@ -1,0 +1,47 @@
+[title]
+Miros de cer să răspândesc {alternative: {Puiu Chibici}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cSiRvpfoZchzu3C2wvL8Z3}, contentHash: {f78881}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+O voce mi-a vorbit cândva în noapte,
+Un glas ceresc venind din necuprins
+Ca al izvoarelor suave șoapte
+Și-un dor nespus în suflet mi-a aprins.
+
+[v1.2]
+Am înțeles atuncea cine este
+Și-nfiorat și temător am spus:
+„Eu Te ascult supus, iar Tu vorbește
+Și-n slujba Ta trimite-mă, Isus.”
+
+[c]
+Miros de cer să răspândesc,
+Parfum de pace și iubire,
+Să dreg spărturi și să zidesc,
+S-aduc pe mulți la mântuire.
+
+[v2.1]
+Tu inima mi-ai aplecat, Isuse,
+Spre cel lipsit și fără ajutor,
+Spre-acel care speranța o pierduse
+Și parcă nu mai are viitor.
+
+[v2.2]
+Nu mai trimis la cei cu vază-n lume,
+Nici la acei de toate-ndestulați,
+Ci ai dorit să merg în al Tău Nume
+În casa celor mici și ne-nsemnați.
+
+[v3.1]
+Aceeași voce încă mă conduce
+Acolo unde El este chemat
+Să spun oricui de jertfa-I de pe cruce
+Și despre harul Său cel minunat.
+
+[v3.2]
+Voi merge pân’ la capăt cu credință,
+Chiar de voi fi-mproșcat și cu noroi;
+Cu El avea-voi sigur biruință
+Și grija-mi va purta El în nevoi.

@@ -1,12 +1,12 @@
 [title]
-Aici să fie casa Celui veșnic Sfânt {alternative: {*}, composer: {Florin Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59845}, id: {hUBaG1fuuEYxTEUSbA32qA}, contentHash: {d0d7dd}}
+Aici să fie casa Celui veșnic Sfânt {alternative: {*}, composer: {Florin Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59845}, id: {hUBaG1fuuEYxTEUSbA32qA}, contentHash: {e621a8}}
 
 [sequence]
 v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2
 
 [v1.1]
-Aici să fie casa Celui veșnic Sfânt,
-Aici s-aducem laudă și-nchinare,
+Aici să fie casa Celui veșnic sfânt,
+Aici s-aducem laudă și-nchinare
 Acelui care este veșnic viu și sfânt
 Și merită doar cinste și onoare!
 
@@ -30,9 +30,9 @@ Cu puteri prin Duhul Sfânt! :/
 
 [v2.1]
 Aici să fie casa unde ochii Tăi,
-Zi și noapte, zilnic, vor privi,
+Zi și noapte, zilnic vor privi,
 Aici să fie casa unde frații mei
-Cu rugăciuni, cu laude, vor veni!
+Cu rugăciuni, cu laude vor veni!
 
 [v2.2]
 Atunci când va veni aici străinul,

@@ -1,5 +1,5 @@
 [title]
-Eu sunt un om {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3170}, id: {twmdLkvMxLAij8dp9CCwUY}, contentHash: {29928a}}
+Eu sunt un om {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3170}, id: {twmdLkvMxLAij8dp9CCwUY}, contentHash: {82294e}}
 
 [sequence]
 v1,c,v2,c
@@ -23,6 +23,6 @@ Nu știu timpul când viața mea se va sfârși. :/
 [v2]
 Îți amintești când pe pământ
 Cu oameni umblai
-Și le vorbeai prin Duhul Sfânt.
-O, vin’ și azi, prezent să fii
+Și le vorbeai prin Duhul Sfânt?
+O, vin’ și azi, prezent să fii,
 Să ne vorbești prin Duhul Tău timp de o zi.

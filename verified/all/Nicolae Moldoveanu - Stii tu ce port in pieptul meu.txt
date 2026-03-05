@@ -1,5 +1,5 @@
 [title]
-Știi tu ce port în pieptul meu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5432}, id: {xx5TnVbgKRFpJrdY1JQ9LL}, contentHash: {6a51f2}}
+Știi tu ce port în pieptul meu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5432}, id: {xx5TnVbgKRFpJrdY1JQ9LL}, contentHash: {5f2f47}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c
@@ -19,19 +19,19 @@ Către Domnul meu. :/
 [v2]
 La cruce-n sânge am găsit
 Pace, fericire
-Și-n inimă pace-am primit.
+Și-n inimă pace-am primit,
 Pace, fericire!
 
 [v3]
-De-ngrijorare sunt scăpat.
+De-ngrijorare sunt scăpat,
 Pace, fericire,
-La Domnul am să fiu chemat.
+La Domnul am să fiu chemat,
 Pace, fericire!
 
 [v4]
-Spre cer, e drumul meu mereu
+Spre cer e drumul meu mereu,
 Pace, fericire,
-S-ajung curând la Dumnezeu.
+S-ajung curând la Dumnezeu,
 Pace, fericire!
 
 [v5]

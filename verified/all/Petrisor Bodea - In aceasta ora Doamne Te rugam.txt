@@ -1,5 +1,5 @@
 [title]
-În această oră, Doamne, Te rugăm {alternative: {*}, composer: {Petrișor Bodea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1469}, id: {vqTeGxBuYKRGzSr2SyNbeV}, contentHash: {64ad47}}
+În această oră, Doamne, Te rugăm {alternative: {*}, composer: {Petrișor Bodea}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1469}, id: {vqTeGxBuYKRGzSr2SyNbeV}, contentHash: {ddf20d}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,v4,c1.1,c1.2
@@ -11,8 +11,8 @@ Să ne-asculți când Îți cântăm și Te lăudăm,
 Întotdeauna fii cu noi!
 
 [c1.1]
-Să nu ne lași părăsiți nicicând
-Căci noi trăim doar cu Tine-n gând.
+Să nu ne lași părăsiți nicicând,
+Căci noi trăim doar cu Tine-n gând!
 Doar pe Tine Te avem
 Și-n Tine ne-ncredem!
 
@@ -24,7 +24,7 @@ Doar cu Tine vrem să fim
 
 [v2]
 Să ne porți de grijă, să nu ne lași nicicând
-Să mergem înapoi.
+Ca să mergem înapoi.
 Tot ‘nainte să mergem cu Tine, Doamne,
 Deși-ncercările-s șuvoi!
 

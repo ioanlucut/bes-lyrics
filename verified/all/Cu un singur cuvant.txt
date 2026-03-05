@@ -1,0 +1,35 @@
+[title]
+Cu un singur cuvânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {qUHDvMzRP8xzEgp57sqjfL}, contentHash: {9ee6a6}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Cu un singur cuvânt Tu, prin Duhul Tău Sfânt,
+Ai schimbat pasul meu pe pământ.
+Drumul mi-ai netezit, viața mi-ai ocrotit,
+Fiindcă Tu mai întâi m-ai iubit.
+
+[c]
+Isuse, Îți mulțumesc și Te slăvesc,
+Tot ce-Ți dau e atât de puțin.
+Mi-e dor să Te întâlnesc, să Te privesc
+Și să-Ți spun cât de mult Te iubesc!
+
+[v2]
+Am văzut deseori, prin furtună și ploi,
+Brațul Tău către mine întins,
+Ai cuprins gândul meu, ai mustrat valul greu
+Și-am putut să rămân liniștit.
+
+[v3]
+Am văzut deseori cum pe răni care dor
+Ai turnat din uleiul divin,
+Cu un singur cuvânt pe cel rău l-ai înfrânt
+Și mi-ai dat iar putere să-Ți cânt.
+
+[v4]
+Am văzut deseori prin mulțimea de nori
+Brațul Tău către mine întins,
+Piedici multe-am trecut fiindcă Tu mi-ai fost scut
+Și în harul Tău sfânt m-ai ținut.
