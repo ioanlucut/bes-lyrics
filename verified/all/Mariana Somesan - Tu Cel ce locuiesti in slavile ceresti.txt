@@ -1,5 +1,5 @@
 [title]
-Tu, Cel ce locuiești în slăvile cerești {alternative: {*}, composer: {Mariana Someșan}, writer: {Mariana Someșan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Tu, Cel ce locuiești în slăvile cerești {alternative: {*}, composer: {Mariana Someșan}, writer: {Mariana Someșan}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bBPG6TKqQM1HnFBbUSdbJg}, contentHash: {e5eff0}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
@@ -15,8 +15,6 @@ Prin vânturi reci și ploi, prin lacrimi și nevoi,
 Tu viața mi-o conduci în siguranță,
 Și chiar dacă-ntr-o zi lumina n-ar mai fi,
 Isuse, Tu rămâi a mea speranță!
-
-
 
 [v2.1]
 Păcatul mi-ai iertat, de jos m-ai ridicat

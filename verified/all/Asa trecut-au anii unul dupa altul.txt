@@ -1,5 +1,5 @@
 [title]
-Așa trecut-au anii unul după altul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Așa trecut-au anii unul după altul {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {r9WPzir5K5gLt54afvMfdu}, contentHash: {53b61e}}
 
 [sequence]
 v1,c,v2,c2,v3,c3

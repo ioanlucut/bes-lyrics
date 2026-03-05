@@ -1,5 +1,5 @@
 [title]
-Vino Isus, ești atât de-așteptat {alternative: {Come, Jesus, come}, composer: {Bryan Christopher Fowler, Hank Bentley, Stephen Mcwhirter, Tara Mcwhirter}, writer: {Nicoleta Mancaș, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Vino Isus, ești atât de-așteptat {alternative: {Come}, composer: {Bryan Christopher Fowler}, writer: {Nicoleta Mancaș}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {nvoQXQ38eghAip5aj8Ua6Q}, contentHash: {53afa0}}
 
 [sequence]
 v1,c,v2,c,v3,c,e

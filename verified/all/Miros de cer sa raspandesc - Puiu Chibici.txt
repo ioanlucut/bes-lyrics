@@ -1,5 +1,5 @@
 [title]
-Miros de cer să răspândesc {alternative: {Puiu Chibici}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Miros de cer să răspândesc {alternative: {Puiu Chibici}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {cSiRvpfoZchzu3C2wvL8Z3}, contentHash: {f78881}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c

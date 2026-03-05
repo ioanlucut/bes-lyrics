@@ -1,0 +1,15 @@
+[title]
+Isus m-a eliberat prin brațul Său puternic {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe școala duminicală}, genre: {*}, rcId: {*}, id: {jWob5GcshKeNK4ugbkisK3}, contentHash: {f8b83f}}
+
+[sequence]
+v1,v2,v3,v1,v2,v3
+
+[v1]
+/: Isus m-a eliberat prin brațul Său puternic,
+Sunt liber, liber, liber, liber! :/
+
+[v2]
+/: Nu mai sunt rob, sunt fiu de-mpărat! :/
+
+[v3]
+/: Bateți din palme, cântați, sărbătoriți-L pe El! :/

@@ -1,5 +1,5 @@
 [title]
-Avem atâtea bucurii de când pe Isus avem {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe de școală duminicală}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Avem atâtea bucurii de când pe Isus avem {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe de școală duminicală}, genre: {*}, rcId: {*}, id: {wvJi6mkxLvsvxqxiDePiUj}, contentHash: {c66650}}
 
 [sequence]
 v1,c,v2,c,v3,c
