@@ -1,0 +1,35 @@
+[title]
+Deasupra ta e Domnul ce veghează {alternative: {*}, composer: {Otniel Știrb}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Deasupra ta e Domnul ce veghează
+Să-Și împlinească sfântul Său Cuvânt,
+El nici nu doarme, nici nu dormitează,
+E Veghetorul cel măreț și sfânt.
+
+[c]
+/: Nu te-ntrista peste măsură,
+Căci Domnul n-a uitat de tine!
+El scoate aurul din zgură
+Și vrea să strălucești mai bine! :/
+
+[v2]
+Căci dacă Domnul n-ar veghea o clipă,
+Asupra ta când treci prin greu cuptor,
+Tu n-ai putea cunoaște brațul tare
+Ce-ți va veni la timp în ajutor.
+
+[v3]
+Și chiar de-ar fi de șapte ori cuptorul
+Tot mai încins, tot mai înflăcărat,
+Tu nu uita că Domnul, Veghetorul,
+E și-n cuptor atunci când L-ai chemat.
+
+[v4]
+Privește-ți urma pașilor în vale,
+Câte-ncercări, ispite-ai biruit
+Și când ai zis că nu mai poți pe cale,
+Din toate, Domnul, El te-a izbăvit!

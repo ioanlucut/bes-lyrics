@@ -1,0 +1,32 @@
+[title]
+Vino Isus, ești atât de-așteptat {alternative: {Come, Jesus, come}, composer: {Bryan Christopher Fowler, Hank Bentley, Stephen Mcwhirter, Tara Mcwhirter}, writer: {Nicoleta Mancaș, traducerea și adaptarea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,e
+
+[v1]
+De pe genunchi Te chem așteptând,
+Vino la noi, Isus, vino curând!
+Și-atunci când simt că mă prăbușesc,
+În Tine mă-ncred și nădăjduiesc.
+
+[c]
+Vino Isus, ești atât de-așteptat
+Să răscumperi ce-i rău, ce doare și-i greu și nevindecat!
+Doar Tu poți și știi să preschimbi noaptea-n zi,
+Casa mea-i sus, așa cum mi-ai spus. Vino Isus!
+
+[v2]
+Jug și război atunci vor pieri,
+Vino curând, Doamne, nu zăbovi!
+Puternic sau slab, orice ochi va vedea
+Puterea din cer ce se va arăta.
+
+[v3]
+Nu mai e mult și vei sta-n fața Sa,
+Tu să fii pregătit oricând s-ar întâmpla
+Și lasă acum trăirea-n zadar
+S-o spele Hristos în râuri de har!
+
+[e]
+Vino Isus! Vino Isus!
