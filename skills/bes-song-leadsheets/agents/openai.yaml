@@ -1,0 +1,4 @@
+interface:
+  display_name: "BES Song Leadsheets"
+  short_description: "Learn BES format and leadsheets internals deeply"
+  default_prompt: "Use $bes-song-leadsheets in read-only mode to teach me the BES song format and leadsheets pipeline in depth."
