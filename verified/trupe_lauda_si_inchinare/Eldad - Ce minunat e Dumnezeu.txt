@@ -1,15 +1,15 @@
 [title]
-Ce minunat e Dumnezeu! {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180424}, id: {qAa1dmnrR5R5giJteoZT9K}, contentHash: {073f2b}}
+Ce minunat e Dumnezeu! {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {180424}, id: {qAa1dmnrR5R5giJteoZT9K}, contentHash: {2e59ee}}
 
 [sequence]
 v1,v2,v3,v4
 
 [v1]
-Ce minunat e Dumnezeu!
-/: El toate le-a creat cu măiestrie,
-Cu-atâta drag și-atâta dibăcie,
-De la impunătoarea galaxie
-Și până la minusculul nucleu. :/
+Ce minu^{b}nat e Dumne^{G}zeu!
+/: El ^{D}toate le-a creat cu măies^{A}trie,
+Cu-a^{b}tâta drag și-a^{f#}tâta dibă^{G}cie,
+De ^{D}la impunătoarea gala^{A}xie
+Și ^{e}până la mi^{F#}nusculul nu^{b-F#}cleu. :/
 
 [v2]
 Ce minunat e Dumnezeu!

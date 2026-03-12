@@ -1,5 +1,5 @@
 [title]
-La Golgota demult Isus {alternative: {Biserica biruitoare}, composer: {Dan Damian}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {76ipti5BHWWym32p8pFRFF}, contentHash: {b592ee}}
+La Golgota demult Isus {alternative: {Biserica biruitoare}, composer: {Dan Damian}, writer: {*}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Corul mixt al BES}, genre: {*}, rcId: {*}, id: {76ipti5BHWWym32p8pFRFF}, contentHash: {afcb78}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2,e
@@ -17,10 +17,8 @@ Nimeni nu poate să o învingă,
 El ne-a promis!
 
 [c1.2]
-Nu e putere, nu sunt sisteme,
-Nu-s legi făcute pe pământ
-Să ne doboare, să ne oprească,
-Cu noi e Domnul sfânt.
+Nu e pu^{F}tere, nu sunt sis^{E}teme, nu-s legi fă^{Gm}cute pe pământ
+Să ne do^{G}boare, să ne oprească, Cu noi e Domnul ^{F}sfânt!
 
 [v2]
 A înviat, S-a înălțat,

@@ -1,5 +1,5 @@
 [title]
-Îmi va rămâne-n memorie-o zi {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66227}, id: {sjyiYGrdbM3TBCTeppNKAw}, contentHash: {4dd876}}
+Îmi va rămâne-n memorie-o zi {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66227}, id: {sjyiYGrdbM3TBCTeppNKAw}, contentHash: {2dde95}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
@@ -17,10 +17,10 @@ Vesel voi spune măreața minune
 Cum Domnul meu m-a mântuit!
 
 [c]
-/: Glorii din cer în mine s-au revărsat
-Când, la Calvar, Isus m-a eliberat.
-Povara mi s-a dus prin harul lui Isus,
-Glorii din cer în mine s-au revărsat. :/
+/: ^{D}Glorii din ^{D/B}cer în ^{Em}mine ^{A7}s-au revăr^{D}sat
+^{D}Când, la Cal^{Dm}var, I^{Em}sus m-a ^{A7}elibe^{D}rat.
+^{Em}Povara mi s-a ^{G}dus prin ^{A}harul lui ^{D-A}Isus,
+^{D}Glorii din ^{D/Bm}cer în ^{Em}mine s-au ^{A7}revăr^{D}sat. :/
 
 [v2.1]
 Domnul sigiliul pe inimă-a pus,

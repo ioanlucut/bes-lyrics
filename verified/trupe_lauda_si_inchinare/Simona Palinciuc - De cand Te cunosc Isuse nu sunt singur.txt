@@ -1,5 +1,5 @@
 [title]
-De când Te cunosc, Isuse, nu sunt singur {alternative: {*}, composer: {Simona Palinciuc}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58068}, id: {nxvRe6yWSo2jqz91GWyTpS}, contentHash: {08b9b6}}
+De când Te cunosc, Isuse, nu sunt singur {alternative: {*}, composer: {Simona Palinciuc}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58068}, id: {nxvRe6yWSo2jqz91GWyTpS}, contentHash: {2420be}}
 
 [sequence]
 v1,c,v2,c
@@ -11,11 +11,11 @@ Nu mai plâng când rana mea nu se închide,
 Nu tânjesc când lucrul dorit nu e al meu.
 
 [c]
-Rămâi cu mine, e tot ce-Ți cer,
-Rămâi, căci seara lumii vine,
-Răul luptă-n ceasul greu.
-Eu nu Te las să pleci, binecuvântarea
-Vreau să îmi dai și să tai uscate crengi.
+^{D}Rămâi cu mine, e tot ce-Ți ^{D}cer,
+Rămâi, căci ^{C}seara lumii ^{A}vine,
+Răul ^{D}luptă-n ceasul ^{A}greu.
+Eu nu Te ^{D}las să pleci, binecuvân^{A}tarea
+Vreau să îmi ^{G}dai și să tai ^{D/A}usca^{A7}te ^{D}crengi.
 
 [v2]
 Am sădit în a mea inima Betelul

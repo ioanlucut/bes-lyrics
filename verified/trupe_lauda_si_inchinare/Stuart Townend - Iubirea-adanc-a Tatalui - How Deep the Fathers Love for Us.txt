@@ -1,20 +1,16 @@
 [title]
-Iubirea-adânc-a Tatălui {alternative: {How Deep the Father’s Love for Us}, composer: {Stuart Townend}, writer: {Stuart Townend; Carmen Gavril}, arranger: {Bryn Haworth}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {217294}, id: {ha7S1bgvkFRt5Y8vyfmmrb}, contentHash: {627c83}}
+Iubirea-adânc-a Tatălui {alternative: {How Deep the Father’s Love for Us}, composer: {Stuart Townend}, writer: {Stuart Townend; Carmen Gavril}, arranger: {Bryn Haworth}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {217294}, id: {ha7S1bgvkFRt5Y8vyfmmrb}, contentHash: {4e8c48}}
 
 [sequence]
 v1,v2,v3,v4,b,v5,v6
 
 [v1]
-Iubirea-adânc-a Tatălui,
-Nimic nu o măsoară,
-Ce-avea mai scump El dărui,
-Făcând din noi comoară.
+Iu^{D}birea-adânc-a Tată^{G}lui ni^{D}mic nu o mă^{A}soară,
+Ce-^{D}avea mai scump El dă^{G}rui, fă^{D/A}când din noi co^{A7-D}moară.
 
 [v2]
-Durere de neînchipuit,
-Căci Tatăl și-a-ntors fața
-Pe Cel Ales L-a părăsit,
-Iar nouă ne-a dat viața!
+Du^{D}rere de neînchipu^{G}it căci ^{D/B}Tatăl și-a-ntors ^{D/A-A7}fața
+Pe ^{D}Cel Ales L-a pără^{G}sit, iar ^{D/A}nouă ne-a dat ^{A7-D}viața!
 
 [v3]
 La Fiul răstignit privesc,
@@ -29,10 +25,8 @@ Al nopții chin s-a risipit
 Și mi-ai adus iertarea!
 
 [b]
-Osana, Osana!
-Mielului ce-a fost ‘junghiat,
-Osana, Osana!
-Celui mort și înviat!
+^{D}Osa^{A}na, Osa^{Bm}na Mielu^{G}lui ce-a ^{G/A}fost ‘jun^{D}ghiat,
+^{D}Osa^{A}na, Osa^{Bm}na Celui ^{D/A}mort și ^{A7}învi^{D}at!
 
 [v5]
 Cu ce-aș putea să mă mândresc?

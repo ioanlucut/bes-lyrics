@@ -1,18 +1,16 @@
 [title]
-El e ‘nălțat, Împăratul divin e ‘nălțat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1230}, id: {5R9jpnJnMPkhTAYnTjtvSp}, contentHash: {48a997}}
+El e ‘nălțat, Împăratul divin e ‘nălțat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1230}, id: {5R9jpnJnMPkhTAYnTjtvSp}, contentHash: {839e02}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-El e ‘nălțat, Împăratul divin
-E ‘nălțat, Îl voi lăuda!
-El e ‘nălțat, Împăratul divin
-Veșnic Îl voi lăuda!
+^{F}El e ‘nălțat, Împă^{F/A}ratul divin E ‘năl^{Bb}țat,
+Îl voi lău^{C}da!
+^{F}El e ‘nălțat, Împă^{F/A}ratul divin,
+Veșnic ^{Bb}Îl ^{C}voi ^{Bb/C}lă^{C}u^{Dsus-D}da!
 
 [c]
-/: El este Domn! Da, El Adevărul e!
-Cer și pământ
-Tresaltă ‘naintea Lui!
-El e ‘nălțat,
-Împăratul divin e ‘nălțat :/
+/: ^{Gm}El ^{Dm/F}este ^{C/E}Domn! ^{C}Da, ^{F}El Ade^{Am}vărul ^{Bb-F/A}e!
+^{Gm}Cer ^{Dm/F}și pă^{C/E}mânt ^{C}tre^{F}saltă ‘nai^{Am}ntea ^{Bb-/A}Lui!
+^{Gm}El e ‘^{Gm/F}nălțat, Împă^{Ebmaj7}ratul di^{Bb/C}vin e ‘năl^{F}țat. :/

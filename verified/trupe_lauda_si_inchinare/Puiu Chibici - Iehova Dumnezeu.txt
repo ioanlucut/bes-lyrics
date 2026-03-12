@@ -1,20 +1,20 @@
 [title]
-Iehova, Dumnezeu {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78700}, id: {cKwBsKDDaaNevijZJZ9TwG}, contentHash: {51a962}}
+Iehova, Dumnezeu {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78700}, id: {cKwBsKDDaaNevijZJZ9TwG}, contentHash: {0c5eb5}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3,c
 
 [v1.1]
-Ești necuprins de timp și spațiu,
-De-orice gândire mai presus,
-Ești pretutindeni și în toate
-Și totuși, cât de nepătruns.
+^{G}Ești necuprins de timp și spațiu,
+De-orice gândire mai ^{Am}presus,
+^{C}Ești pretutindeni ^{D}și în toate
+Și totuși, cât de nepă^{G}truns.
 
 [v1.2]
 Deasupra tuturor, o, Doamne,
-Cu măreție strălucești,
-Cu-nțelepciunea-Ți fără margini
-În orice clipă mă uimești.
+Cu măreție strălu^{C}cești,
+Cu-nțelepciunea-Ți fără ^{G}margini
+^{G4}În orice ^{D}clipă mă ui^{G}me^{G4}ști. ^{G}
 
 [c]
 Din veșnicie ești același,

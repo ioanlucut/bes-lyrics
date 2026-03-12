@@ -1,14 +1,14 @@
 [title]
-Cântarea mea e numai despre Isus {alternative: {*}, composer: {John Willard Peterson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4870}, id: {isiLkEwu7VmHDDBaoTQ4xh}, contentHash: {b834e7}}
+Cântarea mea e numai despre Isus {alternative: {*}, composer: {John Willard Peterson}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4870}, id: {isiLkEwu7VmHDDBaoTQ4xh}, contentHash: {fe5b1b}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-Cântarea mea e numai despre Isus,
-Cerescul Fiu al Tatălui slăvit.
-El a venit păcatul să mi-l șteargă
-Când, la Calvar, pe cruce a murit.
+^{C}Cântarea mea e numai despre ^{Dm}Isus,
+Cerescul ^{G7}Fiu al Tatălui slă^{C}vit.
+El a ve^{C}nit păcatul să mi-l ^{Dm}șteargă
+Când, la ^{G7}Calvar, pe cruce a mu^{C}rit.
 
 [c]
 Cântarea mea e numai despre Isus,

@@ -1,22 +1,22 @@
 [title]
-Un cântec de laudă {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {62666}, id: {nYiNGfX9UX8pjzMcJPHqQG}, contentHash: {b31927}}
+Un cântec de laudă {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {62666}, id: {nYiNGfX9UX8pjzMcJPHqQG}, contentHash: {97848c}}
 
 [sequence]
 v1,v2,p,c1.1,c1.2,v1
 
 [v1]
-Un cântec de laudă e-n inima mea,
-Un cântec ce Tu l-ai pus,
-Mi-ai dat libertate, ca să pot cânta din nou.
+^{E}Un cântec de laudă e-n ^{C#m}inima mea,
+^{A}Un cântec ce Tu l-ai ^{E}pus,
+Mi-ai dat liber^{B}tate, ca să ^{C#m}pot cân^{B}ta din ^{A}nou.
 
 [v2]
-Ai rupt întunericul din viața mea,
-Mi-ai dat bucuria Ta,
-Acum eu sunt liber ca să pot cânta din nou.
+Ai ^{E}rupt întunericul ^{C#m}din viața mea,
+Mi-ai ^{A}dat bucuria ^{E}Ta,
+Acum eu sunt ^{B}liber ca să ^{C#m}pot cân^{B}ta din ^{E}nou.
 
 [p]
-Isus, Tu m-ai răscumpărat,
-Duhul Tău Sfânt m-a eliberat!
+^{F#m} Isus, Tu ^{A}m-ai răscumpă^{B}rat,
+Duhul ^{B7}Tău Sfânt ^{A}m-a elibe^{E}rat!
 
 [c1.1]
 Dragostea Ta îmi dă curaj

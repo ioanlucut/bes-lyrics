@@ -1,14 +1,14 @@
 [title]
-Oare n-ai știut c-aici e Domnul? {alternative: {*}, composer: {Otniel Stirb}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {145697}, id: {i721dvcjFhnydDx24NgXpa}, contentHash: {be9677}}
+Oare n-ai știut c-aici e Domnul? {alternative: {*}, composer: {Otniel Stirb}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {145697}, id: {i721dvcjFhnydDx24NgXpa}, contentHash: {924cd4}}
 
 [sequence]
 c,v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Cât de-nfricoșat e locul unde
-Domnul ne vorbește prin Cuvânt,
-Iar pe scara cerului coboară
-Îngeri aducând mesajul sfânt.
+^{Em}Cât de-nfricoșat e locul ^{Am/Em}unde ^{Em}
+^{Em}Domnul ne vorbește prin ^{B7}Cuvânt,
+^{Em}Iar pe scara cerului co^{Am/Em}boară ^{E}
+^{B7}Îngeri aducând mesajul ^{Em}sfânt. ^{D7}
 
 [c]
 /: Oare n-ai știut că-aici e Domnul

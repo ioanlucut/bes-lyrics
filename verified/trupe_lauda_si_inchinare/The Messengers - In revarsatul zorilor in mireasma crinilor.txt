@@ -1,14 +1,12 @@
 [title]
-În revărsatul zorilor, în mireasma crinilor {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111604}, id: {ee3kFUVGYpGu7szSRiNN2w}, contentHash: {5b8f50}}
+În revărsatul zorilor, în mireasma crinilor {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111604}, id: {ee3kFUVGYpGu7szSRiNN2w}, contentHash: {4d88fa}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-În revărsatul zorilor,
-În mireasma crinilor,
-Un înger a venit,
-Piatra-a rostogolit.
+În ^{D}revărsatul ^{D/C}zorilor, în mi^{G}reasma crini^{Gm}lor,
+Un ^{D}înger a venit, pia^{D}tra-a rostogolit.
 
 [v1.2]
 Și Duhul Sfânt
@@ -17,10 +15,8 @@ Ești viu, ești cel dintâi,
 Isus, cununa vieții porți.
 
 [c]
-A înviat Isus,
-Viață-am primit
-Să pot fi mântuit,
-Fii în veci slăvit!
+^{G}A ^{A}în^{F#m}viat I^{Bm}sus, ^{G}via^{A}ță-am pri^{D}mit
+^{G}Să ^{A}pot fi ^{F#m}mântu^{Bm}it, ^{G}fii în ^{D/A}veci ^{A7}slă^{D}vit!
 
 [v2.1]
 Prin înviere ai învins!

@@ -66,54 +66,61 @@ const warnIfIsNotProperlyFormatted = (singleWord: string): string => {
   throw new Error(`The ${chalk.red(singleWord)} is not correct.`);
 };
 
+const getChordNotationMatches = (singleWord: string) =>
+  Array.from(singleWord.matchAll(/\^\*?\{[^}]+\}/gim));
+
 const rewriteWordWithRightMusicalNotationSyntaxIfNeeded = (
   singleWord: string,
 ): string => {
-  const maybeRegExpMatchArrays = Array.from(
-    singleWord.matchAll(
-      /((\^)({[A-Z]+\d*})([^\\^ ]*))(?=[^ ]*\^{[A-Z]+\d*}\b)(.*)/gim,
-    ),
-  );
+  const maybeRegExpMatchArrays = getChordNotationMatches(singleWord);
 
   if (isEmpty(maybeRegExpMatchArrays)) {
     return singleWord;
   }
 
-  const rewrittenWordWithSpaceBetween = trim(
-    maybeRegExpMatchArrays
-      .map((regExpMatch) => {
-        const chordSyntaxPrefix = regExpMatch[2];
-        const chordInformation = regExpMatch[3];
-        const contentForChord = regExpMatch[4];
-        const maybeTrailingContent = regExpMatch[5];
-
-        return `${chordSyntaxPrefix}*${chordInformation}${contentForChord}${SPACE_CHAR}${maybeTrailingContent}`;
-      })
-      .join(EMPTY_STRING),
-  );
-
-  if (rewrittenWordWithSpaceBetween.includes(SPACE_CHAR)) {
-    return rewrittenWordWithSpaceBetween
-      .split(/ /gi)
-      .map(rewriteWordWithRightMusicalNotationSyntaxIfNeeded)
-      .join(SPACE_CHAR);
+  if (maybeRegExpMatchArrays.length === 1) {
+    return singleWord;
   }
 
-  return rewrittenWordWithSpaceBetween;
+  const firstChordStart = maybeRegExpMatchArrays[0].index || 0;
+  let rewrittenWordWithSpaceBetween = singleWord.slice(0, firstChordStart);
+
+  maybeRegExpMatchArrays.forEach((regExpMatch, index) => {
+    const chordNotation = regExpMatch[0];
+    const chordNotationStart = regExpMatch.index || 0;
+    const nextChordNotationStart =
+      maybeRegExpMatchArrays[index + 1]?.index || singleWord.length;
+    const contentForChord = singleWord.slice(
+      chordNotationStart + chordNotation.length,
+      nextChordNotationStart,
+    );
+    const normalizedChordNotation =
+      index === maybeRegExpMatchArrays.length - 1
+        ? chordNotation.replace(/^\^\*?\{/i, '^{')
+        : chordNotation.replace(/^\^\*?\{/i, '^*{');
+
+    rewrittenWordWithSpaceBetween += `${index === 0 ? EMPTY_STRING : SPACE_CHAR}${normalizedChordNotation}${contentForChord}`;
+  });
+
+  return trim(rewrittenWordWithSpaceBetween);
 };
 
 const rewriteNotationsWithDashForChordsWithBass = (
   singleWord: string,
 ): string => {
-  const maybeRegExpMatchArrays = Array.from(
-    singleWord.matchAll(/\^\{.*\/.*}/gim),
+  const maybeRegExpMatchArrays = getChordNotationMatches(singleWord).filter(
+    ([chordNotation]) => chordNotation.includes('/'),
   );
 
   if (isEmpty(maybeRegExpMatchArrays)) {
     return singleWord;
   }
 
-  return singleWord.replaceAll(/\//gi, '-');
+  return singleWord.replace(
+    /\^(\*?)\{([^}]+)\}/gim,
+    (_match, emphasis, chord) =>
+      `^${emphasis}{${chord.replaceAll('/', '-')}}`,
+  );
 };
 
 // const rewriteLeftRightRepeat = (singleWord: string): string => {

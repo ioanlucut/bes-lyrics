@@ -1,24 +1,24 @@
 [title]
-În Numele Tău proclamăm duh de viață {alternative: {*}, composer: {Daniel Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197882}, id: {agniFw2UN6JV556mANvqUD}, contentHash: {4ec41a}}
+În Numele Tău proclamăm duh de viață {alternative: {*}, composer: {Daniel Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {197882}, id: {agniFw2UN6JV556mANvqUD}, contentHash: {372479}}
 
 [sequence]
 c,v1.1,v1.2,c
 
 [c]
-În Numele Tău proclamăm duh de viață!
-În Numele Tău se ridică o armată!
-Din oase moarte Îți ridici,
-Un popor să Te slujească,
-Acolo unde-i Duhul Tău curge viață.
+^{E}În Numele ^{E/A}Tău pro^{E}clamăm duh de ^{B}viață!
+În Numele ^{E/A}Tău se ri^{E}dică o ar^{B}mată!
+Din oase ^{A2}moarte Îți ri^{E}dici,
+Un popor ^{C#/E}să Te slu^{B}jească,
+Acolo un^{A2}de-i Duhul ^{E}Tău curge via^{B}ță.
 
 [v1.1]
-M-ai chemat să trec prin vale,
-Printr-un loc pustiu și sterp,
-Plin de oase ce-s uscate,
-Fără viață, scop și țel.
+M-ai ^{F#/A}chemat să trec prin ^{G#/E}vale,
+Printr-un ^{B/E}loc pustiu și ^{B}sterp,
+Plin de ^{F#/A}oase ce-s us^{G#/E}cate,
+Fără ^{B/E}viață, scop și ^{B}țel.
 
 [v1.2]
-Da, m-ai chemat să chem viață,
-Duhul Celui-Sfânt-de-Sus,
-Să vestesc eliberare
-Celor ce-s în lanțuri puși.
+Da, m-ai che^{A2}mat să chem vi^{E}ață,
+Duhul ^{G#/E}Celui-Sfânt-de-^{B}Sus,
+Să ves^{A2}tesc elibe^{E}rare
+Celor ^{C#/E}ce-s în lanțuri ^{B4-B}puși.

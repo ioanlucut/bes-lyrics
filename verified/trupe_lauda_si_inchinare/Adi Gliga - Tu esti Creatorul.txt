@@ -1,15 +1,15 @@
 [title]
-Tu ești Creatorul {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6780}, id: {qFApZ95RgYRuhY4s73uZo8}, contentHash: {51ee0b}}
+Tu ești Creatorul {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6780}, id: {qFApZ95RgYRuhY4s73uZo8}, contentHash: {739a33}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Tu ești Creatorul universului întreg,
-Tu ești început și întregire tuturor.
-Stelele și luna glasul Tău îl înțeleg,
-Marea și pământul, tot ce are viață
-Îți dedică existența lor.
+^{E}Tu ești Creato^{B4}rul univer^{F#m7}sului în^{E/G#}treg
+^{A2}Tu ești început ^{E/G#}și întregi^{F#m7}re tutu^{B4}ror. ^{B}
+^{E}Stelele și ^{B4}luna glasul ^{F#m7}Tău îl înțe^{E/G#}leg,
+^{B4}Marea și pă^{C#m}mântul, ^{B4}tot ce are ^{C#m}viață
+^{B4}Îți dedică ^{A2}existența ^{E}lor.
 
 [c]
 /: Toate le-ai creat, pe toate mâna Ta le ține,

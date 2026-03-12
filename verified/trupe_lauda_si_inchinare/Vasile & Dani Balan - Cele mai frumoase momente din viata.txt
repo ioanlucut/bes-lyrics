@@ -1,20 +1,20 @@
 [title]
-Cele mai frumoase momente din viață {alternative: {*}, composer: {Vasile & Dani Bălan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6588}, id: {4pFwXSF4psQBhiMzhhWDRV}, contentHash: {ea2bc4}}
+Cele mai frumoase momente din viață {alternative: {*}, composer: {Vasile & Dani Bălan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6588}, id: {4pFwXSF4psQBhiMzhhWDRV}, contentHash: {8ed5a5}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Cele mai frumoase momente din viață
-Sunt atunci când noi ne întâlnim
-Și când lucrătorii din Cuvânt ne-nvață
-Cum pe Domnul Isus să-L slujim.
+^{F}Cele mai fru^{Bb/F}moa^{F}se momente din viață
+^{C7}Sunt atunci când noi ne întâl^{F}nim
+^{F}Și când lu^{Bb/F}crătorii ^{F}din Cuvânt ne-nva^{F7}ță
+^{Bb}Cum pe Domnul ^{F/C}Isus ^{C7}să-L slu^{F}jim.
 
 [c]
-/: Noi ne bucurăm în cântare,
-În rugăciune și-n Cuvânt,
-Domnul e prezent în adunare
-Și ne bucurăm în Duhul Sfânt. :/
+/: ^{F}Noi ne bucu^{F}răm în cân^{Bb}tare,
+^{F}În rugăciune și-n Cu^{C7}vânt,
+^{F}Domnul e pre^{F7}zent în adu^{Bb}nare
+^{F/C}Și ne bucu^{C7}răm în Duhul ^{F}Sfânt. :/
 
 [v2]
 Cea mai mare jertfă este ascultarea

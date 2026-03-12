@@ -1,15 +1,15 @@
 [title]
-Sunt frânt, eu cad în brațul Tău acum {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5142}, id: {v6DBgGHrwdkpSyxo5ESBtG}, contentHash: {e936d8}}
+Sunt frânt, eu cad în brațul Tău acum {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5142}, id: {v6DBgGHrwdkpSyxo5ESBtG}, contentHash: {49833f}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-/: Sunt frânt, eu cad în brațul Tău acum,
-Am obosit de-al vieții lung drum.
-Eu vin acum, îngenunchez,
-Păcatul meu m-apasă greu. :/
+/: Sunt ^{Em}frânt, eu cad în ^{D}brațul Tău a^{C}cum,
+Am ^{Am}obo^{Bm}sit de-al ^{D}vieții lung ^{G}drum.
+Eu ^{Em}vin acum, în^{D}genun^{C}chez,
+Pă^{Am}catul ^{Bm}meu m-a^{D}pasă ^{G}greu. :/
 
 [c]
-/: În Tine mă încred, pe Tine Te caut,
-Povara să-mi iei. :/
+/: În ^{C}Tine ^{G/D}mă în^{D}cred, pe ^{G}Tine Te ^{Em}caut,
+Po^{C}vara să-mi ^{D-G}iei. :/

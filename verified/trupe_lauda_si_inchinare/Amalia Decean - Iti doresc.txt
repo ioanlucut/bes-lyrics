@@ -1,24 +1,20 @@
 [title]
-Îți doresc {alternative: {*}, composer: {Amalia Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fvudc4xSBae4s4pAtGW8nH}, contentHash: {59c686}}
+Îți doresc {alternative: {*}, composer: {Amalia Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fvudc4xSBae4s4pAtGW8nH}, contentHash: {38610c}}
 
 [sequence]
 c,v1.1,v1.2,p,c,v2.1,v2.2,p,c
 
 [v1.1]
-Îți doresc sănătate,
-Gânduri bune s-ai mereu,
-În toate zilele
-Ce le primești de la Dumnezeu.
+Îți ^{F}doresc sănă^{F/E}tate, gânduri ^{F/D}bune s-ai me^{F/C}reu,
+În toate ^{Bb2}zilele ce le primești ^{Bb2/F}de la Dumne^{F}zeu.
 
 [v1.2]
-Și-ți doresc ca bucuria
-Să-ți umple fiecare ceas
-Și cu nădejde și încredere
-Să-ți fie orice pas.
+Și-ți ^{F}doresc ca bu^{F/E}curia să-ți umple ^{F/D}fiecare ^{D/C}ceas
+Și cu nă^{Bb2}dejde și încredere să-ți ^{Bb/F}fie orice ^{F}pas.
 
 [p]
-Dar mai mult ca orice gând din ce ți-am spus,
-Îți doresc să fii asemeni lui Isus!
+Dar mai ^{Bb/D}mult ca orice gând din ce ți-am ^{C/A}spus,
+Îți ^{Bb2}doresc să fii asemeni lui ^{C4-C}Isus!
 
 [c]
 /: Să-mparți bucuria

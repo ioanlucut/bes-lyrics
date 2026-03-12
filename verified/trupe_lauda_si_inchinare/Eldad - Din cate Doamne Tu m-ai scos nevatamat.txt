@@ -1,20 +1,20 @@
 [title]
-Din câte, Doamne, Tu m-ai scos nevătămat {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195725}, id: {beKxNWRE3xgdtow6LtLs1f}, contentHash: {f8728f}}
+Din câte, Doamne, Tu m-ai scos nevătămat {alternative: {*}, composer: {Eldad}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195725}, id: {beKxNWRE3xgdtow6LtLs1f}, contentHash: {fb7cdb}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-/: Din câte, Doamne, Tu m-ai scos nevătămat:
-Din gheara morții, din primejdii m-ai scăpat.
-De câte ori prin încercări m-ai întărit,
-Când am căzut m-ai ridicat și m-ai iubit. :/
+/: ^{B}Din câte, Doamne, Tu m-ai scos nevătămat:
+^{B/G#}Din gheara morții, din primejdii m-ai scăpat.
+^{E/C#}De câte ori prin încercări m-ai întărit,
+^{F}Când am căzut ^{F#7}m-ai ridicat și m-ai iubit. :/
 
 [c]
-/: Și dacă nu îți cânt, Isus, doar Ție,
-Să nu mai cânt în veac cât voi trăi,
-Căci Tu mi-ai fost a vieții temelie,
-Când eram gata a mă prăbuși. :/
+/: ^{B}Și dacă nu îți cânt, Isus, doar Ție,
+^{G#m}Să nu mai cânt în veac cât voi trăi,
+^{E}Căci Tu mi-ai fost a vieții temelie,
+^{F#}Când eram gata a mă prăbuși. ^{(B)} :/
 
 [v2]
 /: Îmi amintesc că m-ai iertat și ai uitat,
