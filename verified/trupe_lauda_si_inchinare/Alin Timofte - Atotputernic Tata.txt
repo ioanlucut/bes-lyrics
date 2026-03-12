@@ -1,23 +1,23 @@
 [title]
-Atotputernic Tată {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164158}, id: {rK1ZtmNZn9rW171tb9W87g}, contentHash: {933714}}
+Atotputernic Tată {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {164158}, id: {rK1ZtmNZn9rW171tb9W87g}, contentHash: {34296f}}
 
 [sequence]
 v1,c,v2,c,b,c2
 
 [v1]
-Atotputernic Tată, a toate Creator,
-Domn peste toate!
-Prin Duhul Sfânt dă viață,
-Pe Fiul ni L-a dat, Isus Salvatorul!
+A^{C}totputernic ^{e-D}Tată, a toate Creator,
+^{C}Domn pes^{e-D}te toate!
+^{C}Prin Duhul Sfânt dă vi^{e-D}ață,
+Pe Fiul ni L-a ^{C}dat, Isus Salva^{e-D}torul!
 
 [c]
-Cred în Dumnezeu ca Tată,
-În Isus Hristos ca Fiu,
-Cred în Duhul ce dă viață,
-În Dumnezeul viu!
-Cred că este o înviere,
-Că vom trăi în veci.
-Da, eu cred în al Tău sfânt Nume.
+^{G}Cred în Dumnezeu ca Tată,
+^{C}În Isus Hristos ca Fiu,
+^{e}Cred în Duhul ce dă viață,
+^{C}În Dumne^{D}zeul viu!
+^{G}Cred că este o înviere,
+^{C}Că vom trăi în veci.
+^{e}Da, eu cred în al ^{C}Tău sfânt ^{D}Nume.
 
 [v2]
 Ești milă și dreptate,
@@ -31,7 +31,7 @@ Da, eu cred, a înviat!
 Da, eu cred, Isus Hristos e Domn! :/
 
 [c2]
-Cred în veșnicia vieții,
+^{G}Cred în veșnicia vieții,
 Cred în nașterea din nou,
 Cred în părtășia sfântă,
 Biserica-i aici!

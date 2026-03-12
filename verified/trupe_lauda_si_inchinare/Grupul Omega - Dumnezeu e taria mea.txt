@@ -1,14 +1,14 @@
 [title]
-Dumnezeu e tăria mea {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1053}, id: {syR2s9xDncwmcFTsMVcqk6}, contentHash: {ebce2f}}
+Dumnezeu e tăria mea {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1053}, id: {syR2s9xDncwmcFTsMVcqk6}, contentHash: {65149b}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Când în zare se ivește solul celui necurat,
-Dumnezeu e tăria mea!
-Când armatele de duhuri cerul au întunecat,
-Dumnezeu e tăria mea!
+^{Em}Când în zare se ivește solul celui necurat,
+Dum^{C}nezeu e tă^{D}ria ^{Em}mea!
+Când ar^{D}matele de duhuri cerul au întune^{Em}cat,
+Dumne^{C}zeu e tă^{D}ria ^{Em}mea!
 
 [v1.2]
 Când tot iadul stă-n picioare, pregătit pentru război

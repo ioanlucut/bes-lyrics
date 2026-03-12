@@ -1,20 +1,20 @@
 [title]
-Dragostea care nu doare {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238523}, id: {bv2F9WhyicamLRL4MXBTGj}, contentHash: {182305}}
+Dragostea care nu doare {alternative: {*}, composer: {Traian Dorz}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {238523}, id: {bv2F9WhyicamLRL4MXBTGj}, contentHash: {60de2e}}
 
 [sequence]
 v1,v2,v3,v4,v5,v6,v6,e
 
 [v1]
-Dragostea care nu doare
-N-are roadă, numai floare,
-N-are lacrimi, ci-nșelare,
-N-are viață - numai pare.
+^{D}Dragostea care nu ^{D2}doare
+^{D}N-are roadă, ^{D4}numai ^{D2}floa^{D}re,
+^{D}N-are lacrimi, ci-nșe^{D2}lare,
+^{D}N-are viață - ^{D4}numai ^{D2}pa^{D}re.
 
 [v2]
-Dragostea care nu plânge
-Nu se-aprinde, ci se stinge,
-Nu se-nalță, ci coboară,
-Nu învie, ci omoară!
+^{D}Dragostea care nu plânge
+^{G/E}Nu se-aprinde, ci se ^{D2/F#}stinge,
+^{G/E}Nu se-nalță, ci co^{A7}boară,
+Nu învie, ci o^{D}moa^{(D7)}ră!
 
 [v3]
 Dragostea ce nu-i fierbinte,

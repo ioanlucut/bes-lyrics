@@ -1,22 +1,22 @@
 [title]
-Amăgire {alternative: {*}, composer: {Chris}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {113120}, id: {aMbKzXe8ivngKnbC55zwBQ}, contentHash: {363c57}}
+Amăgire {alternative: {*}, composer: {Chris}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {113120}, id: {aMbKzXe8ivngKnbC55zwBQ}, contentHash: {27ed49}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-Câtă vreme-a trecut, câtă vreme-a rămas
-Între noapte și zi, între drum și popas.
-Ne mințim zi de zi că am fost, că vom fi
-Și uităm mult prea des să mai fim.
-Vrem s-avem cât mai mult ca și cum n-am mai ști
-Ce săraci lumea vom părăsi.
+^{D}Câtă vreme-a ^{A}trecut, câtă vreme-a ră^{D}mas
+^{D}Între noapte și ^{A}zi, între drum și po^{D}pas.
+^{D7}Ne mințim zi de ^{G}zi că am ^{Gm}fost, că vom ^{D}fi
+^{D/A}Și uităm mult prea ^{A7}des să mai ^{D}fim.
+^{D7}Vrem s-avem cât mai ^{G}mult ca și ^{Gm}cum n-am mai ^{D}ști
+Ce să^{D/A}raci lumea ^{A7}vom pără^{D}si.
 
 [c]
-/: Spune, de ce tot alergi, spune, ce vrei să culegi,
-Pierzi rătăcind, ani întregi, în neștire!
-Mâine, la capăt de drum, tu vei afla că oricum
-Fără Isus toate sunt amăgire. :/
+/: ^{G}Spune, de ce tot alergi, ^{D}spune, ce vrei să culegi,
+^{Em}Pierzi rătăcind, ani ^{A7}întregi, în ne^{D}știre!
+^{G}Mâine, la capăt de drum, ^{D}tu vei afla că oricum
+^{Em}Fără Isus ^{F#m}toate ^{A7}sunt amă^{D}gire. :/
 
 [v2]
 Ce iluzii s-au dus, ce iluzii mai sunt,

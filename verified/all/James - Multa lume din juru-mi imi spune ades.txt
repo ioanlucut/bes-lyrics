@@ -1,5 +1,5 @@
 [title]
-Multă lume din juru-mi îmi spune ades’ {alternative: {*}, composer: {James}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {169385}, id: {t4PkwbEMw99DAz888k7km3}, contentHash: {0b469e}}
+Multă lume din juru-mi îmi spune ades’ {alternative: {*}, composer: {James}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {169385}, id: {t4PkwbEMw99DAz888k7km3}, contentHash: {f9fbc2}}
 
 [sequence]
 v1,c,v2,c
@@ -11,12 +11,12 @@ Ei nu pot să vadă bucurii ce-am primit
 Prin tot ce Tu, Doamne, mi-ai pregătit.
 
 [c]
-/: Mi-ai dat loc de odihnă
-Unde capul să-mi plec,
-Am pâine pe masă ca să mă hrănesc,
-Mi-ai dat mamă și tată,
-Ce cu drag m-au primit,
-Îți mulțumesc pentru ce mi-ai dăruit. :/
+/: ^{D}Mi-ai dat loc ^{D4}de o^{D}dihnă
+Unde ^{A7}capul să-mi plec,
+Am ^{Em}pâine pe ^{A7}masă ca ^{G}să ^{D/F#}mă ^{Em}hră^{D}nesc,
+Mi-ai dat ma^{D6}mă și ^{D}tată,
+Ce cu ^{D7}drag m-au pri^{G}mit,
+^{Em7}Îți ^{D/F#}mul^{G2}țu^{D/A}mesc pentru ^{G/A}ce mi-ai ^{D/A}dă^{A}ru^{D}it. :/
 
 [v2]
 Dar acum știu prea bine că nu-s om bogat,

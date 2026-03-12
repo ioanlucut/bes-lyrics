@@ -1,14 +1,14 @@
 [title]
-Acum, când încă se mai poate {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7194}, id: {saSgFbsBifDVs5Xv4TaWcz}, contentHash: {9c754e}}
+Acum, când încă se mai poate {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7194}, id: {saSgFbsBifDVs5Xv4TaWcz}, contentHash: {7e9d5b}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
-Acum, când încă se mai poate,
-Lucrează, frate, cu folos,
-Că nu-i mai prețios din toate
-Decât ce faci pentru Hristos.
+^{A}Acum, când încă se mai poate,
+^{D}Lucrează, frate, cu fo^{A}los,
+^{D}Că nu-i mai prețios din ^{A}toate
+^{Bm}Decât ce faci pentru Hris^{E}tos.
 
 [v1.2]
 Cât încă ai suflare-n tine,

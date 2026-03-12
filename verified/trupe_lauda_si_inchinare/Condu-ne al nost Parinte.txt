@@ -1,20 +1,20 @@
 [title]
-Condu-ne al nost’ Părinte {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {g4KcJXTVSPSi2bi6zspZSj}, contentHash: {e17a2f}}
+Condu-ne al nost’ Părinte {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {g4KcJXTVSPSi2bi6zspZSj}, contentHash: {e56b7f}}
 
 [sequence]
 v1,c,v2
 
 [v1]
-Condu-ne-al nost’ Părinte până când lupta grea
-Se va sfârși-n izbândă și pacea-o vei lăsa.
-Cu faptele credinței, mila și dragostea,
-Aducem mai aproape Împărăția Ta.
+Con^{C}du-ne-al nost’ Pă^{F}rinte pâ^{C}nă când lu^{F}pta ^{G}grea
+Se ^{C}va sfârși-n iz^{F}bândă și pacea-o ^{G}vei lă^{C}sa.
+Cu ^{C}faptele cre^{F}dinței, mi^{C}la și ^{F}dragos^{F}tea,
+A^{C}ducem mai a^{F}proape Împără^{G}ția ^{C}Ta.
 
 [c]
-/: Vie-Împărăția Ta,
-Facă-se doar voia Ta,
-Aici pe pământ ca și în ceruri. :/
-Ca și în ceruri!
+/: Vie-Îm^{F}părăția ^{C}Ta,
+Facă-^{F}se doar voia ^{C}Ta,
+A^{F}ici pe pă^{a}mânt ca și în ^{G}ceruri. :/
+Ca și în ^{C}ceruri!
 
 [v2]
 Condu-ne-al nost’ Părinte, Te vom urma mereu

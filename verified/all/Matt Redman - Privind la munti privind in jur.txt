@@ -1,18 +1,18 @@
 [title]
-Privind la munți, privind în jur {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5146}, id: {dH5cgoWDEeUhJMCNKpihPx}, contentHash: {005db1}}
+Privind la munți, privind în jur {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5146}, id: {dH5cgoWDEeUhJMCNKpihPx}, contentHash: {e45437}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Privind la munți, privind în jur,
-Eu văd iubirea Domnului
-Și inima eu mi-o deschid
-Să-nalț pe Domnul cerului.
+^{E}Privind la munți, privind în jur,
+^{F#m}Eu văd iubirea Domnului
+^{A}Și inima eu mi-o deschid
+^{B}Să-nalț pe Domnul ceru^{E}lui.
 Vreau să trăiesc în adevăr,
-Să fiu mereu mulțumitor,
-Zâmbind să le spun tuturor de-a Ta iubire!
+^{F#m}Să fiu mereu mulțumitor,
+^{A}Zâmbind să le spun tutu^{B}ror de-a Ta iubire!
 
 [c]
-/: Veșnic Îți voi cânta iubirea,
-Veșnic Îți voi cânta iubirea! :/
+/: ^{E}Veșnic Îți voi cânta ^{F#m}iubirea,
+^{A}Veșnic Îți voi cânta ^{B}iubirea! ^{E} :/

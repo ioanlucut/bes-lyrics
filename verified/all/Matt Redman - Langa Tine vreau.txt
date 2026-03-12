@@ -1,23 +1,20 @@
 [title]
-Lângă Tine vreau {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5135}, id: {ozEswUrc1yYjYticPUXex4}, contentHash: {b30b58}}
+Lângă Tine vreau {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5135}, id: {ozEswUrc1yYjYticPUXex4}, contentHash: {b18ca4}}
 
 [sequence]
 v1.1,v1.2,c,v1.1,v1.2,c
 
 [v1.1]
-Lângă Tine vreau
-Să fiu aproape iar
-Și pentru prietenia Ta
-Renunț la orice altceva.
+^{G}Lângă Tine vre^{G}au ^{D}să fiu aproape ^{G}iar
+^{D/F#}Și pentru priete^{G}nia Ta ^{Em}renunț la orice a^{C}ltceva.
 
 [v1.2]
-Ești iubirea mea, cine altcineva?
-Tu nu poți fi înlocuit,
-Nici caldă-mbrățișarea Ta,
-Adu-mă înapoi, Doamne, lângă Tin’!
+^{G}Ești iubirea ^{C}mea, ^{D}cine altcine^{G}va?
+^{D/F#}Tu nu poți fi în^{C}locuit,
+^{Em}Nici caldă-mbrăți^{C}șarea Ta,
+^{G}Adu-mă îna^{Am}poi, ^{D}Doamne, lângă ^{G}Tin’!
 
 [c]
-/: Ești tot ce vreau,
-Tot ce am dorit vreodată,
-Vreau să-nțeleg
-Cât de aproape-mi ești. :/
+/: ^{G}Ești ^{D/F#}tot ce vre^{C/E-D/F#}au,
+^{G}Tot ce-^{D/F#}am do^{C/E}rit vreo^{D}dată,
+^{G}Vreau să-n^{D/F#}țe^{C/E-D}leg ^{Am7}cât de apro^{D}ape-mi e^{G}ști. :/

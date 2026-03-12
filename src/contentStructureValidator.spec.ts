@@ -68,7 +68,7 @@ Row 1`),
       expect(() =>
         verifyStructure(SONG_WITH_MISMATCHING_CONTENT_MOCK_FILE_CONTENT),
       ).toThrowErrorMatchingInlineSnapshot(
-        `"The [31m[c][39m is defined in the sequence but missing as a [31m[c][39m section."`,
+        `"The [c] is defined in the sequence but missing as a [c] section."`,
       );
     });
 

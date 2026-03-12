@@ -1,5 +1,5 @@
 [title]
-Binecuvântează, Doamne, România! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2785}, id: {hdMoDm9oyBr4CbCbhQjLbT}, contentHash: {8b19d1}}
+Binecuvântează, Doamne, România! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2785}, id: {hdMoDm9oyBr4CbCbhQjLbT}, contentHash: {6d19d7}}
 
 [sequence]
 c,v1,c,v2,c
@@ -11,10 +11,10 @@ Vino cu putere, vino cu trezire,
 Te rugăm Isus, ai milă de ea!
 
 [v1]
-Noi Te chemăm, arată-Ți puterea,
-Dă-ne credință din nou, Te rugăm,
-Ajută-ne să Te cunoaștem,
-Să Te-ascultăm, Doamne, să Te iubim!
+^{G}Noi ^{D}Te chemăm, arată-Ți pu^{Em}terea!
+^{C}Dă-ne cre^{G}dință din ^{D}nou, Te ru^{G}găm,
+^{G}A^{D}jută-ne să Te cu^{Em}noaștem,
+^{C}Să Te-ascu^{G}ltăm, Doamne, ^{D}să Te iu^{G}bim!
 
 [v2]
 Suntem flămânzi, Doamne, după Tine,

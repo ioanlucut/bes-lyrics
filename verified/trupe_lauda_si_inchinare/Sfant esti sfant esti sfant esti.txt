@@ -1,20 +1,20 @@
 [title]
-Sfânt ești, sfânt ești, sfânt ești {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5062}, id: {nqs6PGXDSfLUogGGWdxjQD}, contentHash: {15ff65}}
+Sfânt ești, sfânt ești, sfânt ești {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5062}, id: {nqs6PGXDSfLUogGGWdxjQD}, contentHash: {726807}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
 
 [v1.1]
-Sfânt ești, sfânt ești, sfânt ești,
-Dumnezeu puternic!
-Chiar din zorii dimineții
-Te slăvesc și-Ți cânt.
+^{A}Sfânt ești, sfânt ești, ^{E/E7}sfânt ^{A}ești,
+^{D}Dumnezeu pu^{A}ternic!
+^{Cm#}Chiar din zorii ^{Fm#}dimi^{E}neții
+Te slă^{B}vesc și-Ți ^{E/E7}cânt.
 
 [v1.2]
-Sfânt ești, sfânt ești, sfânt ești,
-Bun, milos și darnic,
-Doamne ești veșnic:
-Tată, Fiu, Duh Sfânt.
+^{A}Sfânt ești, sfânt ești, ^{E/E7}sfânt ^{A}ești,
+^{D}Bun, milos și ^{A}darnic,
+^{Fm#}Doam^{Cm#}ne ești ^{D}veș^{A/C#}nic:
+^{Bm}Tată, ^{E}Fiu, Duh ^{A}Sfânt.
 
 [v2.1]
 Sfânt ești, sfânt ești, sfânt ești,

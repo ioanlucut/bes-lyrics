@@ -1,14 +1,16 @@
 [title]
-Conștient sunt, Doamne, bine {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71704}, id: {ufVKdicWUieCeyoC6aRVru}, contentHash: {514e72}}
+Conștient sunt, Doamne, bine {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {71704}, id: {ufVKdicWUieCeyoC6aRVru}, contentHash: {a5d9d3}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-Conștient sunt, Doamne, bine, dacă n-ai fi lângă mine,
-Totu-n jurul meu s-ar nărui.
-Soarele pe cer s-ar stinge, luna ar pieri și-ar plânge,
-Stelele n-ar mai luci frumos.
+^{C}Conștient sunt, Doamne, bine,
+Dacă ^{G}n-ai fi lângă mi^{a}ne
+^{F}Totu-n jurul meu s-ar năru^{C}i.
+^{C}Soarele pe cer s-ar stinge,
+Luna ar pieri și-^{G}ar ^{a}plânge,
+^{F}Stelele n-ar mai luci fru^{C}mos.
 
 [v1.2]
 Dar atunci când ești cu mine, inima de Tine-i plină,

@@ -1,19 +1,19 @@
 [title]
-Isuse, dintre toți Te-aleg mereu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae Moldoveanu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3722}, id: {pv99d4ZAuiSXYJKs4jGczX}, contentHash: {ce547d}}
+Isuse, dintre toți Te-aleg mereu {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae Moldoveanu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3722}, id: {pv99d4ZAuiSXYJKs4jGczX}, contentHash: {7733ba}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Isuse, dintre toți Te-aleg mereu,
-În orice zi și-n orice clipă
-Căci Tu ești viața sufletului meu
-Și harul care mă ridică.
+Isu^{A}se, dintre ^{D}toți Te-a^{A}leg ^{F#m}mereu,
+În orice ^{Bm}zi ^{E}și-n orice clipă
+Căci Tu ești viața ^{D}sufle^{A}tului ^{A}meu
+Și harul ^{E}care mă ridi^{A}că.
 
 [c]
-/: Te-aleg mereu, Te-aleg mereu,
-Isus, Mântuitorul meu,
-Te-aleg mereu, Te-aleg mereu! :/
+/: Te-aleg me^{E}reu, Te-aleg me^{F#m}reu,
+I^{D}sus, Mântuitorul ^{A}meu,
+Te-aleg me^{E}reu, Te-aleg me^{A}reu! :/
 
 [v2]
 Isuse, aleg deplin cărarea Ta,

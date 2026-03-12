@@ -1,32 +1,32 @@
 [title]
-Psalmul 136 {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1397}, id: {ohKeo8zao11u94kC9vLmGH}, contentHash: {ab9de6}}
+Psalmul 136 {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1397}, id: {ohKeo8zao11u94kC9vLmGH}, contentHash: {e54a02}}
 
 [sequence]
 c1.1,c1.2,v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,v3.1,v3.2,c1.1,c1.2
 
 [v1.1]
-Când privesc soarele, luna, stelele,
-Universul, așa de sublim,
-Mă așez pe genunchi, Domnului mă închin
-Și-L proclam Creator, sfânt, divin.
+Când pri^{G}vesc soarele, ^{C/G}luna, ^{G}stele^{Am}le,
+Uni^{D}versul, așa de su^{G}blim,
+Mă a^{G}șez pe ge^{C/G}nunchi, Domnu^{G}lui mă în^{Am}chin
+Și-L pro^{D}clam Creator, sfânt, di^{G}vin.
 
 [v1.2]
-Prin Cuvântul Lui sfânt toate
-El le-a creat cu înțelepciune.
-Din viața Lui viață și nouă ne-a dat;
-Numele Lui fie-n veci lăudat!
+Prin Cu^{G}vântul Lui ^{C/G}sfânt toate
+^{G}El le-a cre^{Am}at cu în^{D}țelepciune.
+Din ^{G}viața ^{C/G}Lui viață și ^{G}nouă ne-a ^{Am}dat;
+Nume^{D}le Lui fie-n veci lău^{G}dat!
 
 [c1.1]
-Tot pământul să-L laude pe Domnul,
-Neamurile să I se închine Lui,
-Pentru-a Sa minunată lucrare
-Căci în veac ține îndurarea Lui!
+Tot pă^{G}mântul să-L laude pe ^{C}Domnul,
+Neamu^{D}rile să I se în^{G}chine Lui,
+Pentru-a ^{G}Sa minunată lu^{C}crare
+Căci în ^{G/D}veac ține îndu^{D}rarea ^{G}Lui!
 
 [c1.2]
-Tot pământul să-I cânte mărire,
-Creatorului sfânt, mulțumire
-Pentru dragostea Lui fără de sfârșit
-Căci în veac ține îndurarea Lui!
+Tot pă^{G}mântul să-I cânte măr^{C}ire,
+Crea^{D}torului sfânt, mulțu^{G}mire
+Pentru ^{G}dragostea Lui fără de ^{C}sfârșit
+Căci în ^{G/D}veac ține îndu^{D}rarea ^{G}Lui!
 
 [v2.1]
 Lăudați pe Domnul, căci este bun,

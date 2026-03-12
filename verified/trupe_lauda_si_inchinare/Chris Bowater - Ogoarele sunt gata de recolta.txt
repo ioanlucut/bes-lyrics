@@ -1,5 +1,5 @@
 [title]
-Ogoarele sunt gata de recoltă {alternative: {*}, composer: {Chris Bowater}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {891}, id: {2xV8TsbKuXt785yZGTLPXp}, contentHash: {44ce99}}
+Ogoarele sunt gata de recoltă {alternative: {*}, composer: {Chris Bowater}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {891}, id: {2xV8TsbKuXt785yZGTLPXp}, contentHash: {459bf4}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -11,14 +11,14 @@ Mă dăruiesc, o, Doamne-n întregime,
 Ca să culeg recolta dintre spini.
 
 [c]
-/: Sunt aici, la dispoziția Ta,
-Cheamă-mă, Te voi asculta! :/
+/: ^{D}Sunt ^{A}a^{Bm}ici, la dispo^{G2}zi^{Bm}ția ^{A4A}Ta,
+Che^{D}a^{A}mă-^{Bm}mă, ^{G2}Te voi ^{D/A}as^{A7}cul^{D}ta! :/
 
 [v2]
-E timpul potrivit pentru popoare,
-Mai sunt în zgură încă mari comori.
-Isus mai cheamă oameni în lucrare,
-Să fie toți cu El biruitori.
+E ^{D}timpul potri^{A}vit pentru po^{D/B}poare,
+Mai ^{G2}sunt în zgură ^{A}încă mari co^{D}mori.
+^{D}Isus mai cheamă ^{A}oameni în lucra^{D/B}re,
+^{G2}Să fie toți cu ^{A}El birui^{D}tori.
 
 [v3]
 Suntem noi sare pentru lumea-aceasta?

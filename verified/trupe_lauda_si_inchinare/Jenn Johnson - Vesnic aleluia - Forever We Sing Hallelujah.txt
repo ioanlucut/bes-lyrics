@@ -1,34 +1,34 @@
 [title]
-Veșnic aleluia {alternative: {Forever We Sing Hallelujah}, composer: {Jenn Johnson}, writer: {Jenn Johnson}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {136138}, id: {m41BEgL6GjxPS1rzR1NZ46}, contentHash: {4ceff1}}
+Veșnic aleluia {alternative: {Forever We Sing Hallelujah}, composer: {Jenn Johnson}, writer: {Jenn Johnson}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {136138}, id: {m41BEgL6GjxPS1rzR1NZ46}, contentHash: {c11c3c}}
 
 [sequence]
 v1.1,v1.2,p,c,p,c,b,c
 
 [v1.1]
-Ceru-ntreg a plâns, soarele-a apus
-Când Mielul scump, Isus, muri pe lemn.
-Prin sângele vărsat, prin trupul Său străpuns
-A luat asupra Lui blestemu-ntreg.
+^{A}Ceru-ntreg a ^{E/G#}plâns, soarele-a a^{F#m}pus
+Când Mielul scump, I^{D}sus, muri pe ^{A}lemn.
+Prin sângele văr^{E/G#}sat, prin trupul Său stră^{F#m}puns
+A luat asupra ^{D}Lui blestemu-n^{A}treg.
 
 [v1.2]
-Suflarea când și-a dat, spre Tatăl a strigat.
-Părăsit de toți Isus era.
-Dar lupta n-a sfârșit și-acolo în mormânt
-A iadului puteri El le-a zdrobit.
+^{A}Suflarea când și-a ^{E/G#}dat, spre Tatăl a stri^{F#m}gat.
+Părăsit de ^{D}toți Isus ^{A}era.
+Dar lupta n-a sfâr^{E/G#}șit și-acolo în mor^{F#m}mânt
+A iadului pu^{D}teri El le-a ^{A}zdrobit.
 
 [p]
-Pământul s-a mișcat când piatra s-a desprins,
-Iubirea Lui a fost de neînvins.
-O, moarte, unde ești? Zdrobită-ai fost pe veci
-Prin sângele salvării!
+Pământul s-a miș^{E}cat când piatra s-a des^{F#m}prins,
+Iubirea Lui a ^{D}fost de neîn^{A}vins.
+O, moarte, unde ^{E}ești? Zdrobită-ai fost pe ^{F#m}veci
+Prin sângele sal^{D}vă^{E}rii!
 
 [c]
-În veci vei fi glorificat,
-În veci de veci ești înălțat!
-În veci de veci, Isuse, ai înviat, ai înviat!
+În ^{D/A}veci vei ^{A}fi glorifi^{E}cat,
+În ^{F#m}veci de veci ești ^{D}înălțat!
+În ^{D/A}veci de ^{A}veci, I^{E}suse, ai în^{F#m}viat, ai în^{D}viat!
 
 [b]
-Veșnic aleluia, veșnic aleluia,
-Veșnic aleluia, în veci Îți vom cânta!
-Veșnic aleluia, veșnic aleluia,
-Veșnic aleluia, din morți ai înviat!
+^{A}Veșnic alelu^{E}ia, veș^{F#m}nic ale^{D}luia,
+^{A}Veșnic alelu^{D}ia, în veci Îți vom cânta! ^{A}
+^{A}Veșnic alelu^{E}ia, veș^{F#m}nic alelu^{D}ia,
+^{A}Veșnic alelu^{D}ia, din morți ai înviat! ^{A}

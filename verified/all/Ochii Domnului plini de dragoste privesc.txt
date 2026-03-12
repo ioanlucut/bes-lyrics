@@ -1,19 +1,17 @@
 [title]
-Ochii Domnului, plini de dragoste privesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {57825}, id: {rDSthPmVuLAMyYaHw51W1V}, contentHash: {d55b42}}
+Ochii Domnului, plini de dragoste privesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {57825}, id: {rDSthPmVuLAMyYaHw51W1V}, contentHash: {f4060f}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-Ochii Domnului, plini de dragoste privesc
-Inimile tuturor care nu-L cunosc.
-Mâna Domnului întinsă e și azi spre noi.
-Întinde mâna ta și tu, nu mai privi-napoi!
-Înapoi de mergi, nu mai ai ce întâlni,
-Doar viață plină de necaz
-Întoarce-te la Domnul, azi!
+^{G}Ochii Domnului plini de dragoste pri^{Am}vesc
+Inimile tu^{D}turor care ^{C/G}nu-L cu^{G}nosc.
+^{G}Mâna Domnului întinsă e și azi spre ^{Am}noi.
+Întinde mâna ta și ^{D}tu, nu mai pri^{C/G}vi-na^{G}poi!
+^{G}Înapoi de mergi, nu mai ai ce întâl^{Am}ni,
+Doar viață plină de ne^{D}caz, întoarce-^{D/C}te la ^{D7}Domnul, ^{G}azi!
 
 [c]
-/: Șoptește-I: „Iartă-mă, ia vina mea!”
-Isus e lângă tine,
-Vrea să intre-n viața ta. :/
+/: ^{G7}Șoptește-I: „^{C}Iartă-mă, ia vina ^{G}mea!”
+^{Em}Isus e lângă ^{A/G-D/F#}tine, vrea să intre-n viața ^{G}ta. :/

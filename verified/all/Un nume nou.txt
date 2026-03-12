@@ -1,32 +1,27 @@
 [title]
-Un nume nou {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {brEUpFkLJYvdR4xUqTPuyu}, contentHash: {f038b1}}
+Un nume nou {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {brEUpFkLJYvdR4xUqTPuyu}, contentHash: {e39802}}
 
 [sequence]
 v1.1,v1.2,p,c,v2.1,v2.2,p,c
 
 [v1.1]
-Rătăcit eram și
-În păcat trăiam,
-Dar Domnul m-a chemat.
-Nu mai sunt același!
+Ră^{G2}tăcit eram și în ^{A}păcat tră^{D/B}iam,
+Dar ^{G2}Domnul m-a chemat, nu ^{G/E}mai sunt același!
 
 [v1.2]
-Bezna m-a cuprins,
-Dar Isus a învins,
-Robia a zdrobit.
-Nu mai sunt același!
+Bez^{G}na m-a cuprins, dar I^{A}sus a ^{D/B}învins,
+Robi^{G}a a zdrobit, ^{G/E}nu mai sunt același!
 
 [p]
-Azi sunt o făptură nouă-n Hristos.
-Cele vechi s-au dus,
-Totu-i nou și
-Prin credință trăiesc.
+^{G}Azi ^{A}sunt o ^{D/B}făptură ^{G}nouă-n Hristos.
+Ce^{A}le ^{D/B}vechi s-au dus,
+^{G}Totu-i nou ^{A}și prin ^{D/B}credință ^{Gm}trăiesc.
 
 [c]
-Un nume nou s-a scris în veșnicie
-Și e-al meu, da, e-al meu.
-A scris povestea vieții mele
-Domnul meu, Dumnezeu.
+Un nume ^{D}nou s-a scris în veșnicie
+Și e-^{A}al meu, da, ^{G}e-al meu.
+^{D}A scris povestea vieții mele
+Dom^{A}nul ^{G}meu, Dumnezeu.
 
 [v2.1]
 Păcatul m-a orbit,

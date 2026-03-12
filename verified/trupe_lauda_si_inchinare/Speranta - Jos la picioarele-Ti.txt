@@ -1,16 +1,16 @@
 [title]
-Jos la picioarele-Ți {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3799}, id: {gq1j3inLxfunMNQiBE2avV}, contentHash: {63adce}}
+Jos la picioarele-Ți {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3799}, id: {gq1j3inLxfunMNQiBE2avV}, contentHash: {f9b03d}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-/: Jos la picioarele-Ți stau adânc plecat,
-În prezența Ta, sunt îngenuncheat,
-Sunt îngenuncheat! :/
+/: ^{A}Jos la pi^{C#m}cioare^{D}le-Ți stau a^{E7}dânc ple^{A}cat,
+În pre^{C#m}zența ^{D}Ta, sunt în^{G}genun^{A}cheat,
+sunt în^{F}ge^{G}nun^{A}cheat! :/
 
 [c]
-/: Nu-i chemare mai mare, nu-i altă onoare
-Decât să îngenunchez la tronul Tău.
-Copleșit de uimire, scăldat în iubire,
-Eu trăiesc doar pentru-a Te lăuda. :/
+/: Nu-i che^{D}mare mai ^{E}mare, nu-i ^{C#}altă o^{F#m}noare
+Decât ^{D}să îngenun^{E7}chez la tronul ^{A}Tău.
+Cople^{D}șit de ui^{E}mire, scăl^{C#}dat în iu^{F#m}bire,
+Eu tră^{D7}iesc doar ^{E7}pentru-a Te lău^{A}da. :/

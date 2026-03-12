@@ -1,5 +1,5 @@
 [title]
-Înalț vocea mea {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6657}, id: {92oNreLmXMii2CQcLddqZu}, contentHash: {d595e5}}
+Înalț vocea mea {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6657}, id: {92oNreLmXMii2CQcLddqZu}, contentHash: {dc3dae}}
 
 [sequence]
 v1,c,v2,c
@@ -12,12 +12,9 @@ Tânjesc după Tine,
 Atinge-mi, Doamne, inima.
 
 [c]
-/: Umple, Doamne, și viața mea
-Cu prezența-Ți divină.
-Tu ești dorința mea,
-Revarsă Duhul Sfânt azi din nou,
-Tânjesc după Tine,
-Tu ești dorința mea. :/
+/: ^{E}Umple, Doamne, și viața ^{A}mea cu prezența-Ți di^{C#m}vină,
+Tu ești do^{B}rința mea, re^{E}varsă Duhul Sfânt azi din ^{A}nou,
+^{C#m}Tânjesc după Tine, Tu ești do^{B}rința mea! :/
 
 [v2]
 Tânjesc să mă speli,

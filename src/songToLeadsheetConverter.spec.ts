@@ -143,7 +143,7 @@ Ori zece mii de ani și-n veșnicii.",
 
   \\begin{chorus}[template = framed]
     ^{D}Cântă, ^{G}suflet al ^{D}meu, \\\\
-    ^{A}pentru Dumne^{Bm}zeu, ^{G}Cel bine^{D}cuvân^{A4-A}tat! \\\\
+    ^{A}pentru Dumne^{Bm}zeu, ^{G}Cel bine^*{D}cuvân ^{A4-A}tat! \\\\
     Al Lui ^{G}Nume e ^{Bm}sfânt, ^*{G}cân ^*{A}ta-a ^{Bm}cum, \\\\
     Cum ^{G}nu ai ^{A}mai cân^{Dsus-D}tat.
   \\end{chorus}
@@ -210,9 +210,15 @@ Ori zece mii de ani și-n veșnicii.",
     it('should normalise words with notations having bass (from / to -)', () => {
       expect(getNormalizedContent('^{Ab/C}th')).toEqual('^{Ab-C}th');
       expect(getNormalizedContent('^{D/F#}lumi^{G}nat')).toEqual(
-        '^{D-F#}lumi^{G}nat',
+        '^*{D-F#}lumi ^{G}nat',
       );
       expect(getNormalizedContent('/: th :/')).toEqual('/: th :/');
+    });
+
+    it('should normalise words with multiple complex chords within a single word', () => {
+      expect(getNormalizedContent('^{Db/Ab}invi^{Ab}at.')).toEqual(
+        '^*{Db-Ab}invi ^{Ab}at.',
+      );
     });
 
     it('should normalise words with wrong chord notations (missing ^ before {)', () => {

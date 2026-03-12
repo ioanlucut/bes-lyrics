@@ -1,14 +1,12 @@
 [title]
-În Tine este viața mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4945}, id: {feDqDfeLzRwHNq6iRGryw8}, contentHash: {eb057d}}
+În Tine este viața mea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4945}, id: {feDqDfeLzRwHNq6iRGryw8}, contentHash: {9b79e4}}
 
 [sequence]
 c,v1,c,v1,c
 
 [c]
-/: În Tine este viața mea,
-În Tine e tăria mea,
-În Tine e speranța mea,
-În Tine! :/
+/: În ^{G}Tine este viața mea, în ^{Em}Tine e tăria mea,
+În ^{C}Tine e speranța mea, în ^{G/D}Ti^{D}ne! :/
 
 [v1]
 Te laud toată viața mea,

@@ -1,26 +1,26 @@
 [title]
-Știu că Tu nu vrei nici jertfe și nici daruri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6725}, id: {47DyqYw4yL8uY7zodFFW4L}, contentHash: {540977}}
+Știu că Tu nu vrei nici jertfe și nici daruri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6725}, id: {47DyqYw4yL8uY7zodFFW4L}, contentHash: {dcd524}}
 
 [sequence]
 v1.1,v1.2,c,v2,c
 
 [v1.1]
-Știu că Tu nu vrei nici jertfe și nici daruri,
-Știu că Tu privești doar la inima mea,
-Și-Ți dorești să vezi o inimă întreagă
-Dăruită pe deplin în slujba Ta.
+^{A}Știu că Tu nu vrei nici jertfe și nici ^{Bm}daruri,
+Știu că ^{D}Tu privești doar ^{E}la inima ^{A}mea,
+Și-Ți do^{F#m}rești să vezi o inimă în^{D}treagă
+Dăru^{Bm7}ită pe de^{E}plin în slujba ^{A}Ta.
 
 [v1.2]
-Aș dori ca viața mea să fie
-Pusă-n slujba Ta prin tot ce fac,
-Să ascult chemarea Ta divină,
-Să urmez în totul voia Ta.
+^{A}Aș dori ca viața mea să ^{Bm}fie
+^{D}Pusă-n slujba ^{E}Ta prin tot ce ^{A}fac,
+^{F#m}Să ascult chemarea Ta di^{D}vină,
+^{Bm}Să urmez în ^{E}totul voia ^{A}Ta.
 
 [c]
-/: Sunt aici, stau la dispoziția Ta,
-Sunt aici, dorind să fac doar voia Ta,
-Sunt aici și vreau chemarea să-Ți urmez,
-Iată-mă, sunt aici! :/
+/: ^{E}Sunt a^{A}ici, stau la ^{D}dispoziția Ta,
+Sunt a^{E}ici, dorind să fac doar ^{A}voia Ta,
+^{E}Sunt ^{F#m}aici și vreau che^{D}marea să-Ți urmez,
+Iată-^{E}mă, sunt a^{A}ici! :/
 
 [v2]
 Tu ai pus Cuvântul Sfânt în mine,

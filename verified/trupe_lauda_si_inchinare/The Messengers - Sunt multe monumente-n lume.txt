@@ -1,5 +1,5 @@
 [title]
-Sunt multe monumente-n lume {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6606}, id: {rh8u81VK6Y3FiKQtsuAogN}, contentHash: {3a2cfb}}
+Sunt multe monumente-n lume {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6606}, id: {rh8u81VK6Y3FiKQtsuAogN}, contentHash: {6afa9e}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -11,10 +11,10 @@ Dar ca Golgota nu-i niciunul
 În univers, în Israel.
 
 [v1.2]
-Al dragostei ce dăinuiește
-Din veșnicii în veșnicii,
-E ancora credinței vie,
-Iertarea sfintei mântuiri.
+Al ^{E}dragostei ce ^{G#m7}dăinuieș^{E7}te
+Din ^{A}veșnicii în ^{F#m7}veșni^{B}cii,
+E ^{G#}ancora credinței ^{C#m7}vie,
+Ier^{A2}tarea sfintei mântui^{B4}ri. ^{B}
 
 [c]
 /: Iubire, iertare,

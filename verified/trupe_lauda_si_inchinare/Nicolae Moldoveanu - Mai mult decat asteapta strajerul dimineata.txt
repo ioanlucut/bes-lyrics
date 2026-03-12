@@ -1,20 +1,20 @@
 [title]
-Mai mult decât așteaptă străjerul dimineața {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae Moldoveanu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {185736}, id: {j7oLfxTkNPk6S72z6L8EuX}, contentHash: {c5dcaa}}
+Mai mult decât așteaptă străjerul dimineața {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {Nicolae Moldoveanu}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {185736}, id: {j7oLfxTkNPk6S72z6L8EuX}, contentHash: {1a216f}}
 
 [sequence]
 v1.1,v1.2,v2.1,v2.2,v3.1,v3.2,v4.1,v4.2
 
 [v1.1]
-Mai mult decât așteaptă
-Străjerul dimineața,
-Te-așteaptă-al nostru suflet,
-Isus, să-Ți vadă fața.
+^{d}Mai mult de^{g}cât așteaptă
+^{A}străje^{A7}rul di^{d}mineața,
+^{d}Te-așteaptă-al nos^{g}tru su^{A}flet,
+Isus, să-Ți ^{A7}va^{D}dă fața.
 
 [v1.2]
-/: Cum soarele răsare
-Și luminează-ntinsul,
-Așa ne umpli viața,
-Isus, Tu, necuprinsul. :/
+/: ^{d}Cum soare^{g}le răsare
+^{C}Și luminea^{F}ză-ntinsul,
+A^{D}șa ne um^{g}pli via^{A}ța,
+Isus, Tu, ^{A7}necu^{d}prinsul. :/
 
 [v2.1]
 Mai mult decât așteaptă
