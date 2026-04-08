@@ -1,0 +1,31 @@
+[title]
+Cântați o veste bună: Isus e viu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5,v6
+
+[v1]
+Cântați o veste bună, vestiți lumii întregi,
+Isus Hristos trăiește, din morți a înviat!
+
+[v2]
+Isus e viu, El dintre morți a înviat,
+Isus e viu, pe tronul păcii S-a-nălțat!
+
+[v3]
+Cântați, vestiți menirea de Răscumpărător,
+El a-nviat, trăiește, El e biruitor!
+
+[v4]
+Isus e viu, El dintre morți a înviat,
+Isus e viu pe veci, El ne-a răscumpărat!
+
+[v5]
+Fiți tari în mărturie și bucurați-vă,
+Căci toți acei ce cred în El vor fi răscumpărați!
+
+[v6]
+Isus e viu, El dintre morți a înviat,
+Isus e viu, pe tronul păcii S-a-nălțat.
+Isus e viu, El dintre morți a înviat,
+Isus e viu pe veci, El ne-a răscumpărat!

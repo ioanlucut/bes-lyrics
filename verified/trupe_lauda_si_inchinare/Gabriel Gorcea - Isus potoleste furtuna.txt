@@ -1,0 +1,35 @@
+[title]
+Isus potolește furtuna {alternative: {*}, composer: {Gabriel Gorcea}, writer: {Gabriel Gorcea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Isus potolește furtuna
+Când valurile vor veni,
+Când Domnul Își va-ntinde mâna
+Furtuna se va potoli.
+
+[c]
+/: El trece și-acuma pe mare,
+El vindecă răni în popor.
+La El vei găsi alinare,
+La El vei găsi ajutor. :/
+
+[v2]
+Când valurile se ridică,
+Când mii de-ncercări năvălesc,
+De valuri să nu-ți fie frică,
+Tu strigă-L pe Tatăl ceresc!
+
+[v3]
+Când Isus era jos pe mare
+Și Petru în val cufundat,
+Iar Pavel în grea încercare,
+El, Domnul, pe toți i-a salvat.
+
+[v4]
+Iar tu și în foc și în apă
+Vei fi liniștit cu Isus,
+De moarte oricând El te scapă
+De ești credincios și supus.
