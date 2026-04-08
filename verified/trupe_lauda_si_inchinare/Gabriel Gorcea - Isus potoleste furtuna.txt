@@ -1,5 +1,5 @@
 [title]
-Isus potolește furtuna {alternative: {*}, composer: {Gabriel Gorcea}, writer: {Gabriel Gorcea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Isus potolește furtuna {alternative: {*}, composer: {Gabriel Gorcea}, writer: {Gabriel Gorcea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7p7Lxa27LPQF8hPXyDxCx8}, contentHash: {021614}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

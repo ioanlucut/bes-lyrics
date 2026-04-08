@@ -1,5 +1,5 @@
 [title]
-Isus este viu în veci! Osana! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Isus este viu în veci! Osana! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {hcURf9EEQjnhrjeNmFN69v}, contentHash: {28104e}}
 
 [sequence]
 v1,v2,v3,v4,v5

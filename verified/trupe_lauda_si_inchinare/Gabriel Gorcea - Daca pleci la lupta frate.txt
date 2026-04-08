@@ -1,5 +1,5 @@
 [title]
-Dacă pleci la luptă, frate, {alternative: {*}, composer: {Gabriel Gorcea}, writer: {Gabriel Gorcea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Dacă pleci la luptă, frate, {alternative: {*}, composer: {Gabriel Gorcea}, writer: {Gabriel Gorcea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {bALyE5Ya8DmnDrNTN5pb9L}, contentHash: {2e8840}}
 
 [sequence]
 v1,c,v2,c,v3,c
