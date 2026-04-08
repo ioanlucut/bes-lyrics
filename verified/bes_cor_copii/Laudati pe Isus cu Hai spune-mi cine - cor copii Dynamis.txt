@@ -1,0 +1,64 @@
+[title]
+Lăudați pe Isus cu Hai spune-mi cine {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {cor copii Dynamis}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4.1,v4.2,v5,v6.1,v6.2,v7,v8,v9,e
+
+[v1]
+:/ Lăudați pe Isus, lăudați pe Isus,
+Cu braț puternic El domnește,
+Lăudați pe Isus, lăudați pe Isus!
+Suntem poporul ce-L iubește. :/
+
+[v2]
+Suntem poporul Celui ce-a-nviat,
+El este Rege, Isus ne-a salvat
+Și din nou cântăm:
+
+[v3]
+Lăudați pe Isus, lăudați pe Isus,
+Cu braț puternic El domnește,
+Lăudați pe Isus, lăudați pe Isus!
+Suntem poporul ce-L iubește.
+
+[v4.1]
+Hai, spune-mi cine a biruit moartea,
+Cine-a călcat peste ea?
+Cine e leul din Iuda, scutul, tăria mea?
+
+[v4.2]
+Spune-mi cine a biruit frica,
+Cine-a călcat peste ea?
+Cine e leul din Iuda, scutul, tăria mea?
+
+[v5]
+:/ Aleluia, aleluia, aleluia, Isus este Domn! :/
+
+[v6.1]
+Hai, spune-mi cine-a murit pentru mine,
+Cine-a murit pentru noi?
+Spune-mi cine-a murit pentru lume?
+Glorie doar Regelui!
+
+[v6.2]
+Spune-mi cine-ntr-o zi se va-ntoarce
+În fruntea oștirii Lui?
+El va primi închinarea,
+Pământul și cerul e-al Lui!
+
+[v7]
+:/ Aleluia, aleluia, aleluia, Isus este Domn! :/
+
+[v8]
+Suntem poporul Celui ce-a-nviat,
+El este Rege, Isus ne-a salvat
+Și din nou cântăm:
+
+[v9]
+:/ Lăudați pe Isus, lăudați pe Isus,
+Cu braț puternic El domnește,
+Lăudați pe Isus, lăudați pe Isus!
+Suntem poporul ce-L iubește. :/
+
+[e]
+:/ Aleluia, aleluia, aleluia, Isus este Domn! :/

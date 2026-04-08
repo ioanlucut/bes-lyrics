@@ -1,0 +1,30 @@
+[title]
+Isus este viu în veci! Osana! {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+/: Haideți să cântăm, să ne bucurăm,
+Să strigăm cu toți acum: osana! :/
+
+[v2]
+Iată, intră Isus în cetate,
+Osana, osana, osana Regelui!
+Ramuri, haine pe jos așezate,
+Osana, osana, osana Regelui!
+
+[v3]
+/: Isus este viu, Isus este viu,
+Isus este viu în veci, osana! :/
+
+[v4]
+Iată că Isus e viu, trăiește,
+Osana, osana, osana Regelui!
+În inima celui ce-L primește,
+Osana, osana, osana Regelui!
+
+[v5]
+/: Haideți să cântăm, să ne bucurăm,
+Să strigăm cu toți acum: osana! :/
+Să strigăm cu toți în veci osana!

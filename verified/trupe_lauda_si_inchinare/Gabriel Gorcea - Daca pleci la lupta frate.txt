@@ -1,0 +1,27 @@
+[title]
+Dacă pleci la luptă, frate, {alternative: {*}, composer: {Gabriel Gorcea}, writer: {Gabriel Gorcea}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Dacă pleci la luptă, frate, uită-te pe scutul tău,
+Vezi pe el dacă mai este Numele lui Dumnezeu!
+Ca în ziua bătăliei să nu fi așa de slab,
+Să nu fi ucis în luptă cum a fost ucis Ahab.
+
+[c]
+/: Pe munții din Ghilboa, Doamne, fă să cadă roua
+Și pe scuturile noastre, Tu mai toarnă untdelemn! :/
+
+[v2]
+Dacă pleci la luptă, frate, vezi de mai ești îmbrăcat
+Cu putere și credință, să-l învingi pe Goliat!
+Și un steag de biruință să înalți când ți-e mai greu,
+Să te bizui totdeauna pe Numele lui Dumnezeu!
+
+[v3]
+Când adesea filistenii biruiau pe Israel
+Îi duceau în grea robie și vedeau cât e de greu.
+Ionatan din greu se luptă, însă, oare, ce folos?
+Poți pieri la fel ca Saul dacă nu-L ai pe Hristos!
