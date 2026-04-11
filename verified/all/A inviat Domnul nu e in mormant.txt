@@ -1,5 +1,5 @@
 [title]
-A înviat Domnul, nu e în mormânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+A înviat Domnul, nu e în mormânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {x3wj12AdeU9tvfBZDgd4sk}, contentHash: {a331ed}}
 
 [sequence]
 v1,v2,v3,v4

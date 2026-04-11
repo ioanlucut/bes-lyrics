@@ -1,5 +1,5 @@
 [title]
-Te-am căutat când zorii mai dormeau {alternative: {*}, composer: {J. la Verne Smith}, writer: {E. N. Damian, traducerea și adaptarea}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Te-am căutat când zorii mai dormeau {alternative: {*}, composer: {J. la Verne Smith}, writer: {E. N. Damian}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {wAGztfgzJfm315DnBUS3DL}, contentHash: {4e35cf}}
 
 [sequence]
 v1,v2,v3,e
