@@ -1,0 +1,26 @@
+[title]
+Te-am căutat când zorii mai dormeau {alternative: {*}, composer: {J. la Verne Smith}, writer: {E. N. Damian, traducerea și adaptarea}, arranger: {Marian Fedur}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,v2,v3,e
+
+[v1]
+Te-am căutat când zorii mai dormeau,
+Am întrebat de Tine, Domnul meu.
+Te-am căutat și-n taină, la mormânt,
+Căci erai tot ce-aveam pe-acest pământ.
+
+[v2]
+/: Mormântul gol mi-a spus că Tu ești viu,
+Dar unde ești, atunci am vrut să știu.
+Azi Te-am aflat și-ntreagă viața mea
+Îți aparține-n veci, e-n mâna Ta. :/
+
+[v3]
+Când pașii Tăi alături i-am simțit
+Și vocea Ta „Marie!” mi-a șoptit,
+Am părăsit întreg necazul greu,
+Căci Te-am găsit Rabbuni, Domnul meu.
+
+[e]
+Te-am găsit, Isuse! Amin!
