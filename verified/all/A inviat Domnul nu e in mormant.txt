@@ -1,0 +1,29 @@
+[title]
+A înviat Domnul, nu e în mormânt {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {x3wj12AdeU9tvfBZDgd4sk}, contentHash: {a331ed}}
+
+[sequence]
+v1,v2,v3,v4
+
+[v1]
+A înviat Domnul, nu e în mormânt!
+Femeile afară privesc și plâng,
+/: „O, grădinare, unde L-ai pus,
+Noi vrem să-L vedem, ni-e drag Isus!” :/
+
+[v2]
+Dar grădinarul era chiar Isus,
+Femeile se bucurau nespus.
+/: „O, o, Marie, nu mă ținea,
+Căci trebuie să merg în țara Mea!” :/
+
+[v3]
+„În Galileea mergi neapărat,
+La frații Mei spune că-am înviat;
+/: Învins-am în luptă ale morții dureri,
+Spune-i și lui Petru să vină și el!” :/
+
+[v4]
+Pe toți ca o mamă El ne-a mângâiat
+Și-n inima frântă, El pace ne-a dat.
+/: Ce bucurie, ce har minunat,
+Isus trăiește, a înviat! :/
