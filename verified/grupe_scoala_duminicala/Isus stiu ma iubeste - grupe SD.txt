@@ -1,0 +1,27 @@
+[title]
+Isus, știu, mă iubește {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {bkpvCy5yxnvQGX8BDu25B6}, contentHash: {a413cb}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Isus, știu, mă iubește,
+Biblia îmi spune mie.
+Cei mici Lui Îi aparțin,
+Copilașii la El vin.
+
+[c]
+/: Da, mă iubește, El mă iubește,
+Mă iubește, da, Biblia-mi spune așa! :/
+
+[v2]
+Pentru mine a murit,
+Casă-n cer mi-a pregătit.
+El spală păcatul meu,
+De El m-apropii și eu!
+
+[v3]
+Lui Isus sunt foarte drag,
+Deși eu sunt mic și slab.
+Din a Lui înălțime,
+Mă scutește pe mine.

@@ -1,0 +1,23 @@
+[title]
+Nu e mort, nu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {aBURDTwCvc4do7BPH28p26}, contentHash: {a6ede9}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+/: Nu e mort, nu, Isus trăiește!
+Nu e mort, nu, Isus trăiește,
+Nu e mort, nu, Isus trăiește,
+Îl simt în ființa mea! :/
+
+[v2]
+/: Cânt aleluia, cânt aleluia,
+Isus Hristos e viu în veci de veci!
+Cânt aleluia, cânt aleluia,
+Isus Hristos e viu! :/
+
+[v3]
+/: Nu e mort, nu, Isus trăiește!
+Nu e mort, nu, Isus trăiește,
+Nu e mort, nu, Isus trăiește,
+Îl simt în ființa mea! :/
