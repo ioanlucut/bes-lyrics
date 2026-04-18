@@ -1,5 +1,5 @@
 [title]
-Nu e mort, nu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Nu e mort, nu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {aBURDTwCvc4do7BPH28p26}, contentHash: {a6ede9}}
 
 [sequence]
 v1,v2,v3

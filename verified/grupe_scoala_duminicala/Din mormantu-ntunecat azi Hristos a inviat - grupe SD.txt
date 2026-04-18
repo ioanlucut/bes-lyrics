@@ -1,5 +1,5 @@
 [title]
-Din mormântu-ntunecat, azi Hristos a înviat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Din mormântu-ntunecat, azi Hristos a înviat {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {3Po3ChGth7z6Aay8R6FhEd}, contentHash: {5c503d}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -14,7 +14,7 @@ Din mormântu-ntunecat, azi Hristos a înviat!
 
 [v3]
 Iar noi toți în lume jos dăm mărire lui Hristos,
-/: Lui Hristos, lui Hristos, care din păcat ne-a scos.  :/
+/: Lui Hristos, lui Hristos, care din păcat ne-a scos. :/
 
 [v4]
 Păsările ciripesc, toate florile-nfloresc,
