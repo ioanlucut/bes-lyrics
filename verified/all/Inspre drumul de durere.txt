@@ -1,0 +1,37 @@
+[title]
+Înspre drumul de durere {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Easter songs}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c2
+
+[v1.1]
+Înspre drumul de durere îngerii privesc de sus
+Cum Isus sub crucea grea la moarte-i dus.
+Trupul Său însângerat privește slab spre locul condamnat.
+
+[v1.2]
+Fruntea-I sfântă e rănită sub cununa cea de spini,
+În priviri El poartă veșnice lumini,
+Părăsit și lepădat, pe drumul greu e-al slavei Împărat.
+
+[c]
+Iată, Domnul cu durere suie drumul crucii greu,
+Vina lumii El o poartă spre Calvar.
+E zdrobit și întristat sub vina mea, sub vina ta
+Ca să-mi dea răscumpărarea prin al Său har minunat.
+
+[v2.1]
+Înspre drumul de durere stau privind ades și eu
+Cum Isus sub crucea grea e-n locul meu,
+El a fost crucificat și-n palma Sa iertarea ne-a săpat.
+
+[v2.2]
+Iată, Domnul din iubire răstignit ne-a mântuit,
+Pentru noi a fost lovit și umilit
+Și în sângele-I vărsat, prin jertfa Sa, El ne-a răscumpărat.
+
+[c2]
+Ce iubire, ce favoare: pentru noi El a murit,
+Prințul păcii pe o cruce răstignit!
+Niciodată jertfa Sa n-o voi uita, n-o voi uita,
+Pentru mine, pentru tine S-a jertfit să fim salvați!
