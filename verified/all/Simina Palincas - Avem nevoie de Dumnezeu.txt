@@ -8,7 +8,7 @@ c,v1,c,v2,c,v3,c,v4
 /: Avem nevoie de Dumnezeu,
 De Dumnezeu, da, de Dumnezeu.
 Avem nevoie de Dumnezeu
-Mai mult ca oricând :/
+Mai mult ca oricând. :/
 
 [v1]
 Se minte, se fură, se-njură, se bea,
@@ -17,19 +17,24 @@ Aceasta e lumea din ziua de azi,
 Ne spune Sfânta Scriptură.
 
 [v2]
-Soția și soțul se ceartă mereu
-Și se întreabă: de ce?
-Nu se înțeleg frații-ntre ei,
-De ce, de ce, de ce?
-
-[v3]
-Părinții se-ntreabă de ce-ai lor copii
+Părinții se miră de ce-ai lor copii
 Se poartă atât de ciudat,
 De ce nu-i ascultă, de ce se prefac
-Mereu că nu-i aud?
+Mereu că n-aud nimic?
+
+[v3]
+Nu se mai iubesc frații între ei,
+Și se întreabă: de ce?
+Soția și soțul se ceartă mereu,
+De ce, de ce, de ce?
 
 [v4]
-Pătrunde, o, Doamne, azi în inima mea,
-Curăță tot ce-i rău.
-O pildă să fiu și lumină aș vrea
-Pentru tot ce-i al Tău.
+Pătrunde, Te rog, Tu, o, Doamne, în suflet,
+Curățește tot ce e rău!
+O pildă să fim și o făclie în lume,
+Iar Tu să rămâi în noi.
+
+[e]
+Eu am nevoie de Dumnezeu,
+Tu ai nevoie de Dumnezeu,
+Noi avem nevoie de Dumnezeu!
