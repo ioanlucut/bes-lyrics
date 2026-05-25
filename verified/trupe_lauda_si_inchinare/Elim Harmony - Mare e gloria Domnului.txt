@@ -1,5 +1,5 @@
 [title]
-Mare e gloria Domnului! {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103349}, id: {c49j6hUd8aWJWVoiFwB9Wn}, contentHash: {4a23b3}}
+Mare e gloria Domnului! {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103349}, id: {c49j6hUd8aWJWVoiFwB9Wn}, contentHash: {83cd30}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c,b,c,b2
@@ -13,10 +13,10 @@ A fost mort, dar azi e viu, amin, amin,
 Stă la dreapta Tatălui divin, amin, amin.
 
 [c]
-/: Mare e gloria Domnului puternic,
+Mare e gloria Domnului puternic,
 Mare e gloria Domnului!
 Îl voi lăuda cu tot ce sunt pe Cel Puternic,
-Mare e gloria Lui. :/
+Mare e gloria Lui.
 
 [v2.1]
 Pe nedrept a fost batjocorit, amin, amin,

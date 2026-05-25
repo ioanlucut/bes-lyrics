@@ -1,0 +1,30 @@
+[title]
+Îmi place Biblia {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {5aSCFaMsTFbUhyvNyTdZ9V}, contentHash: {4c24e4}}
+
+[sequence]
+v1,c,v2,c,e
+
+[v1]
+/: Îmi place Biblia, :/
+Că mă-nvață să iubesc
+Când citesc și-o împlinesc.
+/: Îmi place Biblia, :/
+Da, îmi place Biblia!
+
+[c]
+/: Mă învață să iubesc
+Când citesc și-o împlinesc,
+Când citesc și-o împlinesc.
+Mă învață să iubesc,
+În dreptate vreau să cresc,
+După Biblie să trăiesc,
+Da, îmi place Biblia! :/
+
+[v2]
+/: Biblia e Cartea :/
+Ce te-nvață să iubești
+Când citești și-o împlinești.
+/: Biblia e Cartea :/
+
+[e]
+Îmi place Biblia, da!

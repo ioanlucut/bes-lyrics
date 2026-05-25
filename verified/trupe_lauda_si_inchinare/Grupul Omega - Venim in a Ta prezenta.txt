@@ -1,8 +1,8 @@
 [title]
-Venim în a Ta prezență {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6798}, id: {tXprLKeNPsgQm8eZ4BybKi}, contentHash: {0809b7}}
+Venim în a Ta prezență {alternative: {*}, composer: {Grupul Omega}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6798}, id: {tXprLKeNPsgQm8eZ4BybKi}, contentHash: {af6c39}}
 
 [sequence]
-v1,c,v1,c
+v1,c,v1,c,e
 
 [v1]
 Venim în a Ta prezență cu toții să-Ți cântăm
@@ -15,3 +15,7 @@ Venim cu mulțumire, o, Doamne, Te iubim!
 Ești singurul ce-ai biruit și mormântu-ai lepădat.
 Tu pe toți ne-ai eliberat de la moarte și ne-ai dat
 Libertatea să venim ca-n prezența Ta să fim. :/
+
+[e]
+Venim în a Ta prezență cu toții să-Ți cântăm
+Un cântec de mărire și venim să ne-nchinăm.

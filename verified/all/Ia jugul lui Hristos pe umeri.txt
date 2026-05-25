@@ -1,0 +1,41 @@
+[title]
+Ia jugul lui Hristos pe umeri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {18uRJ9q7ctcWBEhFs7W5L1}, contentHash: {8e74e1}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
+
+[v1.1]
+Ia jugul lui Hristos pe umeri
+Și trage lângă El, arând,
+Chiar dacă semeni numai lacrimi
+Și umbli numai sângerând.
+
+[v1.2]
+Hristos cel sfânt te va cunoaște
+În sărăcie nu-n belșug.
+/: Căci mulți au stat cu El la masă,
+Dar prea puțini au tras la jug. :/
+
+[v2.1]
+Ia-i sarcina și-o du alături
+Și simte-o apăsând din greu,
+Cum ai răspunde doar tu singur
+De tot ce are Dumnezeu?
+
+[v2.2]
+Hristos cel sfânt te va cunoaște
+Odată-n cerul Lui de sus.
+/: Nu după haina ce-ai purtat-o,
+Ci după sarcina ce-ai dus. :/
+
+[v3.1]
+Ia-ți crucea ta și-I mergi pe urme,
+Tăcând și mulțumind ca El!
+Iubește, roagă-te și rabdă,
+Urmând dumnezeiescu-i țel!
+
+[v3.2]
+Hristos cel sfânt te va cunoaște
+Nu după numele ce-l porți,
+/: Ci după ranele-ndurate
+Sub crucea Ta, sub crucea Lui. :/

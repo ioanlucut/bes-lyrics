@@ -1,0 +1,23 @@
+[title]
+Alfabetul credinței {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {grupe SD}, genre: {*}, rcId: {*}, id: {1woqY3yib24nKmCZbftQiE}, contentHash: {a48d95}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+E simplu ca a, b, c, oricine-nțelege,
+E simplu să fii mântuit când totu-i pregătit,
+Să crezi în Domnul Isus, atât e de-ajuns,
+E simplu să fii mântuit când totu-i pregătit.
+
+[v2]
+E simplu ca citirea și tu dacă ai vrea,
+E simplu să fii mântuit când totu-i pregătit.
+Dacă Domnului Isus inima ți-ai deschis,
+E simplu să fii mântuit când totu-i pregătit.
+
+[v3]
+E simplu ca a, b, c, oricine-nțelege,
+Orice copil care-a crezut de Domnul e salvat.
+Pe Domnul azi primește-L, nu aștepta să crești,
+/: Isus azi cheamă pe copii, în cer sunt deja mii! :/

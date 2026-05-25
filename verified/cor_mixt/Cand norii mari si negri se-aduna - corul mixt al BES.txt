@@ -1,0 +1,32 @@
+[title]
+Când norii mari și negri se-adună {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {w6xc42sNyAz7PA7LwBRVEU}, contentHash: {a1b25b}}
+
+[sequence]
+v1,v2,v3,v4,e
+
+[v1]
+Când norii mari și negri se-adună
+Și cerul parcă e dușmănos,
+/: Eu nu mă tem, căci știu nu sunt singur,
+În mine trăiește Hristos! :/
+
+[v2]
+E Domn peste-ntrg universul
+Și toate ascultă supus.
+/: Eu nu mă tem de nori sau furtună,
+În mine domnește Isus! :/
+
+[v3]
+Când vin încercări și ispite
+Și valuri ne lovesc ne-ncetat,
+/: Eu nu mă tem, Isus e la cârmă
+Și pacea din nou s-a lăsat. :/
+
+[v4]
+El dă sufletului meu pacea
+Pe care lumea n-o poate da.
+/:Eu nu mă tem, Isus e cu mine,
+Ce bine mă simt eu așa! /:
+
+[e]
+Ce bine mă simt eu așa!

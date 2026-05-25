@@ -1,5 +1,5 @@
 [title]
-Iehova, Dumnezeu {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78700}, id: {cKwBsKDDaaNevijZJZ9TwG}, contentHash: {14afb7}}
+Iehova, Dumnezeu {alternative: {*}, composer: {Puiu Chibici}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {78700}, id: {cKwBsKDDaaNevijZJZ9TwG}, contentHash: {51a962}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3,c
@@ -25,7 +25,7 @@ Iehova, Dumnezeu!
 
 [v2.1]
 Ești Dumnezeu din veșnicie,
-Izvorul tainice-i lumini,
+Izvorul tainicei lumini,
 În cer Ți-e tronul de domnie
 Înconjurat de heruvimi.
 
