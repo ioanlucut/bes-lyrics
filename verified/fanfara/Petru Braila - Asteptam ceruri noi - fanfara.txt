@@ -1,0 +1,30 @@
+[title]
+Așteptăm ceruri noi {alternative: {*}, composer: {Petru Braila}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {fanfara BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Așteptăm ceruri noi, Dumnezeu ne-a promis,
+Așteptăm ceruri noi și un nou Paradis.
+Așteptăm un pământ unde noapte n-a fi,
+Iar pe maulul cel sfânt sfinții s-or întlni.
+
+[c]
+Sfânt, sfânt, sfânt în cer se cântă,
+Sfânt, sfânt îngerii se-avântă,
+Sfânt, sfânt, sfânt e Mielul care-a fost ‘junghiat.
+Sfânt, sfânt, sfânt vom intona și noi
+Când va veni ziua de-apoi, iar lacrimile se vor termina.
+
+[v2]
+Așteptăm ceruri noi, Dumnezeu ne-a promis,
+Pentru cei mântuiți drumul este deschis.
+Așteptăm un pământ unde pace va fi,
+Unde albul veșmânt ne va împodobi.
+
+[v3]
+Așteptăm ceruri noi, Dumnezeu ne-a promis,
+El se-ndură de noi, în cartea vieții ne-a scris.
+Așteătăm un pământ care n-am meritat,
+Dumnezei este sfânt și la El ne-a chemat.

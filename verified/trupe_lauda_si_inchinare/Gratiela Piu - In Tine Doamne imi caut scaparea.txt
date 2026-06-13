@@ -1,0 +1,48 @@
+[title]
+În Tine, Doamne, îmi caut scăparea {alternative: {*}, composer: {Grațiela Piu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1.1,v1.2,c.v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+În Tine, Doamne, îmi caut scăparea
+Să nu rămân de rușine nicicând.
+Scapă-mă în dreptatea Ta mare,
+Și izbăvește-mă!
+
+[v1.2]
+Pleacă-Ți urechea spre mine și ajută,
+Fii o stâncă de adăpost
+Unde să pot alerga-ntotdeauna,
+Căci Tu ești Dumnezeu!
+
+[c]
+Tu-ai hotărât să mă scapi,
+Căci Tu ești stânca și cetățuia mea.
+În Tin’ mă-ncred în toată vremea,
+Căci Tu ești nădejdea mea!
+/: Doamne, Dumnezeule în Tine mă încred! :/
+
+[v2.1]
+Pentru mulți am ajuns o minune,
+Dar Tu, o, Doamne, scăparea mea ești.
+Să mi se umple gura de laude
+Ca eu să Te slăvesc.
+
+[v2.2]
+Nu mă lepăda de la Tine
+Când mi se duc puterile!
+Dumnezeule vino degrabă
+În ajutorul meu!
+
+[v3.1]
+Voi spune lucrările Tale de-a pururi,
+Ale Tale minuni voi vesti tuturor
+Și eu voi nădăjdui doar în Tine,
+Te voi lăuda tot mai mult!
+
+[v3.2]
+Dreptatea Ta ajunge la ceruri,
+Tu ai săvârșit lucruri mari.
+Doamne, cine este ca Tine?
+Eu Te voi lăuda.
