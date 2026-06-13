@@ -1,5 +1,5 @@
 [title]
-Dulce e iubirea sfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {fanfara BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Dulce e iubirea sfântă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {fanfara BES}, genre: {*}, rcId: {*}, id: {kDaDiXCcMnumm3p6VaoSDg}, contentHash: {39ac58}}
 
 [sequence]
 v1,c,v2,c2
