@@ -1,0 +1,31 @@
+[title]
+Un cântec eu Îți cânt, Ție, Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3
+
+[v1]
+Un cântec eu Îți cânt, Ție, Domnul meu,
+Umil mă-nchin și-Ți mulțumesc pentru harul Tău.
+Mi-ai arătat iubirea Ta și-n voia Ta mă-ndrumi mereu,
+Primește lauda mea acum ce Ți-o înalț în gândul meu,
+
+[c]
+Tu ești Dumnezeul meu și eu Te voi lăuda,
+Tu ești Salvatorul meu, Doamne, mare-i slava Ta.
+Tu ești Dumnezeul meu și Ție Îți voi mulțumi,
+Pentru jertfa din Calvar, Doamne, Te voi preamări,
+Vrednic ești pentru vecii.
+
+[v2]
+Un simplu cântec vreau mereu să-mi fie viața mea,
+Să luminez în jurul meu prin trăirea mea.
+Să port în mine chipul Tău, pe cei căzuți să îi ridic,
+De jertfa Ta să le vorbesc ca ei să fie mântuiți.
+
+[v3]
+/: Lăudați pe Domnul, căci este bun,
+Căci în veac ține îndurarea Lui! :/
+Căci în veac ține îndurarea Lui!
+Cel ce-ai fost, ești și vei fi,
+Prin Tine, Doamne, vom trăi!

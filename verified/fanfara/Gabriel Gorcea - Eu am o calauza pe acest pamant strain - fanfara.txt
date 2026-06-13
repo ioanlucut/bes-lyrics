@@ -1,0 +1,21 @@
+[title]
+Eu am o călăuză pe acest pământ străin {alternative: {*}, composer: {Gabriel Gorcea}, writer: {Marius Gorcea}, arranger: {*}, interpreter: {*}, band: {Speranța}, key: {*}, tempo: {*}, tags: {*}, version: {fanfara BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+Pe Tin’ Te laud, Isuse, pentru bunătatea Ta,
+Pentru-a Ta milă nespusă ce-o arăți în viața mea.
+
+[c]
+/: Eu am o călăuză pe acest pământ străin
+Și-n orice-mprejurare Tu îmi ești al meu sprijin. :/
+
+[v2]
+În noaptea-ntunecoasă calea să mi-o luminezi
+Și-n orice încercare mereu să mă-nbărbătezi.
+
+[v3]
+Mereu mă-nbărbătezi când sunt descurajat,
+Îmi dai putere sfântă atunci când sunt încercat.

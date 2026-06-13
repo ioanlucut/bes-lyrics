@@ -1,0 +1,35 @@
+[title]
+Ajută-mă, Doamne când vine cel rău {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c,v3,c,v4,c
+
+[v1]
+Ajută-mă, Doamne, când vine cel rău
+Să semene-n cuget mândria,
+Să-i spun cu tărie că sunt servul Tău
+Și vreau să-Ți slujesc numai Ție!
+
+[c]
+Căci nu înălțarea mi-e rostul acum,
+În veacul iubirii de sine,
+Eu vreau toată ființa sub cruce să-mi pun,
+Să faci doar ce vrei Tu din mine!
+
+[v2]
+Eu nu am nimic ce să nu fi primit;
+În har eu exist, doar prin Tine,
+Și dacă, Isuse, atât m-ai iubit,
+Cu ce să mă laud eu, Stăpâne?
+
+[v3]
+Aș vrea să nu-mi fie osteneala-n zadar,
+Te rog să nu-mi iei bucuria,
+Căci Tu, Doamne, celor smeriți le dai har
+Și pui preț căderii, mândria.
+
+[v4]
+Sub brațul Tău sfânt vreau să mă umilesc,
+În Tine să-mi aflu plăcerea,
+Căci de nu lupta-voi umil să trăiesc,
+Eu știu că m-așteaptă căderea.

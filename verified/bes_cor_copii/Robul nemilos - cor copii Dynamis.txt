@@ -1,0 +1,48 @@
+[title]
+Robul nemilos {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {Cor copii Dynamis}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+
+[sequence]
+v1,c,v2,c2,v3,c3,v4,c4,e
+
+[v1]
+Împărăția cerului se-aseamănă-ndeaproape
+Cu-n împărat ce-n robii lui a cântărit dreptate.
+Și unuia ce-i datora mii de talanți i-a spus:
+„Nu-mi poți plăti? Cu-ai tăi copii să fii vândut ești pus!”
+
+[c]
+S-a aruncat robu-n pământ, s-a închinat și-a zis:
+„Mă-ngăduie și-ți voi plăti, așa cum am promis!”
+
+[v2]
+Cuprins de milă al său stăpân i-a oferit iertare,
+Dar, iată, robul e hapsân și n-are îndurare,
+Căci altuia ce-i datora câțiva bănuți i-a spus:
+„De nu-mi plătești, ai să sfârșești în închisoare pus!”
+
+[c2]
+S-a aruncat omu-n pământ și l-a rugat zicând:
+„Mă-ngăduie și-ți voi plăti!” Dar el i-a zis: „Nici gând!”
+
+[v3]
+Când au privit semenii lui la cele întâmplate,
+S-au adresat stăpânului și-au așteptat dreptate.
+Stăpânul său pe robul rău nespus s-a mâniat:
+„Tu, sclav perfid, am să te-nchid în chinul meritat!
+
+[c3]
+„Eu te-am iertat de datorii, fiindcă m-ai rugat.
+Se cuvenea să ierți și tu precum ai fost iertat!”
+
+[v4]
+Să fii iertat de Dumnezeu e-un lucru-așa de mare,
+Și-oricât ai fi greșit de greu să poți primi iertare!
+Dar, dacă nu îi ierți și tu pe cei ce ți-au greșit,
+Vei fi tratat de neiertat și fi-vei pedepsit!
+
+[c4]
+De Tatăl tău ai fost iertat atunci când L-ai rugat,
+Deci, nu uita să ierți și tu precum ai fost iertat!
+
+[e]
+Deci, nu uita să ierți și tu precum ai fost iertat!
