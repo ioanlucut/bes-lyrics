@@ -2,7 +2,7 @@
 În Tine, Doamne, îmi caut scăparea {alternative: {*}, composer: {Grațiela Piu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
 
 [sequence]
-v1.1,v1.2,c.v2.1,v2.2,c,v3.1,v3.2,c
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
 
 [v1.1]
 În Tine, Doamne, îmi caut scăparea
