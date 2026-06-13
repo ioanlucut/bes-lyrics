@@ -1,5 +1,5 @@
 [title]
-Un cântec eu Îți cânt, Ție, Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Un cântec eu Îți cânt, Ție, Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {corul mixt al BES}, genre: {*}, rcId: {*}, id: {2GiYRuieoMnxMQjvj2qnGw}, contentHash: {03bef1}}
 
 [sequence]
 v1,c,v2,c,v3

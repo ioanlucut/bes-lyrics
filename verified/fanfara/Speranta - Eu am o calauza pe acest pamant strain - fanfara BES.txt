@@ -1,5 +1,5 @@
 [title]
-Eu am o călăuză pe acest pământ străin {alternative: {*}, composer: {Gabriel Gorcea}, writer: {Marius Gorcea}, arranger: {*}, interpreter: {*}, band: {Speranța}, key: {*}, tempo: {*}, tags: {*}, version: {fanfara BES}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Eu am o călăuză pe acest pământ străin {alternative: {*}, composer: {Gabriel Gorcea}, writer: {Marius Gorcea}, arranger: {*}, interpreter: {*}, band: {Speranța}, key: {*}, tempo: {*}, tags: {*}, version: {fanfara BES}, genre: {*}, rcId: {*}, id: {fPCcVuReHDFGRhSVZFv2zC}, contentHash: {ecf3c4}}
 
 [sequence]
 v1,c,v2,c,v3,c

@@ -1,5 +1,5 @@
 [title]
-Ajută-mă, Doamne când vine cel rău {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+Ajută-mă, Doamne când vine cel rău {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {kPdRP4epsGbjTgQP2hneu9}, contentHash: {cabf53}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c

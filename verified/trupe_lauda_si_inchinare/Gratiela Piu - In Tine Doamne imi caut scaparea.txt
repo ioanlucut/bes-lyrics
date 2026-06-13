@@ -1,5 +1,5 @@
 [title]
-În Tine, Doamne, îmi caut scăparea {alternative: {*}, composer: {Grațiela Piu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {*}, contentHash: {*}}
+În Tine, Doamne, îmi caut scăparea {alternative: {*}, composer: {Grațiela Piu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {rpxe75cJP2yqsUpfo6xsk5}, contentHash: {6a612a}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
