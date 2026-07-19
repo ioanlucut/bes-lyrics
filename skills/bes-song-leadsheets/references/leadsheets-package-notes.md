@@ -16,12 +16,16 @@
 
 ## Scope
 
-This file summarizes the parts of `leadsheets_en.pdf` that matter for this repository’s workflow.
-Use it as an operational reference, not as a full replacement for upstream docs.
+This file maps the parts of `leadsheets_en.pdf` most relevant to this repository. It is navigation, not a replacement for the complete pinned upstream reference.
 
-Primary source:
+Before making a package-level claim:
 
-1. `https://mirrors.nxthost.com/ctan/macros/latex/contrib/leadsheets/leadsheets_en.pdf`
+1. Run `./skills/bes-song-leadsheets/scripts/verify_leadsheets_version.sh` from the repository root.
+2. Search with `./skills/bes-song-leadsheets/scripts/search_leadsheets.sh '<term or regex>'`.
+3. Confirm the result in the page-marked PDF extraction or manual source.
+4. Inspect package implementation when documentation is ambiguous.
+
+Authoritative source provenance and checksums are recorded in `upstream-reference.md`. The complete v0.7 source and searchable manual live under `upstream/leadsheets-v0.7/`.
 
 ## Core Song Environment
 

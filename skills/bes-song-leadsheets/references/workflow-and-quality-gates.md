@@ -80,19 +80,33 @@ npm run format
 
 ## Songbook Workflow
 
-1. Generate per-song TeX files and aggregate includes:
+1. Verify that the installed package and manual match the pinned reference:
+
+```bash
+./skills/bes-song-leadsheets/scripts/verify_leadsheets_version.sh
+```
+
+2. Search the full upstream reference for any command, option, environment, template, or internal being changed:
+
+```bash
+./skills/bes-song-leadsheets/scripts/search_leadsheets.sh '<term or regex>'
+```
+
+3. Generate per-song TeX files and aggregate includes:
 
 ```bash
 npm run songbook:convert
 ```
 
-2. Compile:
+4. Compile:
 
 ```bash
 npm run songbook:compile
 ```
 
-3. Full distribution path:
+5. Inspect `LaTeX/songbook/bes-songbook.log` for errors and relevant warnings. The compile command uses `latexmk -f`, so process success alone is not sufficient proof.
+
+6. Full distribution path:
 
 ```bash
 npm run songbook:dist
@@ -118,10 +132,15 @@ npm run songbook:dist
 6. Symptom: TeX compiles but chord alignment is odd.  
    Cause: end-of-line or dense split-word chord placement.  
    Fix: adjust chord anchors and inspect normalized output from `song_audit.ts`.
+7. Symptom: version verification fails.  
+   Cause: local TeX installation differs from the pinned Leadsheets v0.7 reference.  
+   Fix: stop and decide whether to restore v0.7 or perform an explicit package upgrade; do not mix documentation and implementation versions.
 
 ## Definition of Done
 
 1. File passes `song_audit.ts` (or stronger repo checks when needed).
 2. Sequence/content/metadata are consistent.
 3. Chord notation is parseable and normalized.
-4. TeX output is generated without syntax failures for the changed songs.
+4. Installed Leadsheets version matches the reference used for package decisions.
+5. TeX output is generated without syntax failures for the changed songs.
+6. Rendering changes compile and the resulting log has been inspected for errors and relevant warnings.

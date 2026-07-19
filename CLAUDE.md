@@ -69,6 +69,16 @@ Multiple validators ensure data quality:
 - `bin/` - CLI validation and processing tools
 - `mocks/` - Test fixtures
 
+## Mandatory Leadsheets Knowledge
+
+Before any task involving generated song TeX, chord rendering, Leadsheets commands or options, songbook layout, LaTeX compilation, or PDF output:
+
+1. Load `skills/bes-song-leadsheets/SKILL.md`.
+2. Verify the installed package with `skills/bes-song-leadsheets/scripts/verify_leadsheets_version.sh`.
+3. Search the pinned full upstream reference instead of relying on memory or the summary notes.
+
+The skill is pinned to Leadsheets v0.7 and contains the official manual source, page-marked PDF text, complete package implementation, provenance, and checksums.
+
 ## Development Notes
 - Uses ES modules with TypeScript
 - Tests run with Jest and ts-jest
