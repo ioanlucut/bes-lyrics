@@ -1,0 +1,15 @@
+[title]
+Tată din ceruri, da, noi Te iubim {alternative: {Father in Heaven}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3htK9wgrnhE87bLMbyWKJ6}, contentHash: {ba5429}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Tată din ceruri, da, noi Te iubim
+Și Îți cântăm mărire Ție,
+Fie-n laudă zidită-mpărăția Ta
+Noi, copiii Tăi, vestim lucrarea Ta.
+
+[c]
+^{G}Binecuvân^{C}tat ^{Em7}fii, o, ^{F}Doam^{Dm}ne, ce-ai ^{G4}fost, ^{G}exiști și ^{G7}vei mai ^{C}fi,
+^{G}Binecuvân^{C}tat ^{Em7}fii, o, ^{F}Doam^{Dm}ne, ce-m^{C/G}pă^{G}rățești în ^{C}veci.

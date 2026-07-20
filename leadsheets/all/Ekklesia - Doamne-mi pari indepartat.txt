@@ -1,0 +1,32 @@
+[title]
+Doamne-mi pari îndepărtat {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7384}, id: {kGidXPzDUbSA1pAHbKYugJ}, contentHash: {139318}}
+
+[sequence]
+v1,p,c,v2,p,c
+
+[v1]
+^{Am}Doamne-mi pari îndepărtat,
+Chiar ^{F}ani lumină ^{C}sau un mai lung ^{C}drum.
+^{Am}Deși credința mi-am păstrat,
+Măr^{F}turisesc a^{C}cum: „Nu mă mai simt ascul^{G}tat.”
+
+[p]
+Dar nu știu ce să mai spun
+Și nu știu a-nainta,
+Însă harul ce-l primesc
+Îmi schimbă inima.
+
+[c]
+/: Voi cân^{C}ta, Te voi lău^{F}da,
+Chiar în ^{Am}ceasul cel mai ^{Em}rău.
+Prin du^{F}rere și prin ^{G}greu
+Voi cân^{C}ta, Te voi lău^{F}da.
+Mâi^{Am}nile le-am ridicat,
+Fiindcă ^{F}ești adevă^{G}rat,
+Voi cân^{C}ta... :/
+
+[v2]
+Nu pot să întrezăresc
+Gândul Tău și planul cel ceresc.
+Doar în Tine-am să mă-ncred
+Știind că ai murit să mă salvezi.

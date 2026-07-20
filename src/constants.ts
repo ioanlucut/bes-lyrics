@@ -23,13 +23,15 @@ export const TEX_MUSICAL_NOTATIONS = '^';
 export const TXT_EXTENSION = '.txt';
 export const TEX_EXTENSION = '.tex';
 
+export const LEADSHEETS_DIR = './leadsheets';
+
 export const DS_STORE_FILE = '.DS_Store';
 export const GIT_KEEP_FILE = '.gitkeep';
 
 export const TEST_FILE = 'TEMPLATE.txt';
 
 export const ALLOWED_CHARS =
-  ` *_{}&!()][\\#,-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQ^abcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„\n`.split(
+  ` *_{}&!()][\\,-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„\n`.split(
     EMPTY_STRING,
   );
 

@@ -1,22 +1,24 @@
 [title]
-Deschide-mi ochii inimii, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3QF4eazZeuEE4uSs7AjrAa}, contentHash: {679216}}
+Deschide-mi ochii inimii, Doamne {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3QF4eazZeuEE4uSs7AjrAa}, contentHash: {fdb7bf}}
 
 [sequence]
 v1,c,v1,c,b,c
 
 [v1]
-/: ^{E}Deschide-mi ochii inimii, Doamne,
-^{B}Deschide-mi ochii inimii!
-Vreau să Te ^{A}văd, vreau să Te ^{E}văd. :/
+/: Deschide-mi ochii inimii, Doamne,
+Deschide-mi ochii inimii!
+Vreau să Te văd,
+Vreau să Te văd. :/
 
 [c]
-/: Vreau să ^{B}Te văd î^{C#m}nălțat,
-^{A}Strălucind în gloria ^{B}Ta, ca să-Ți văd dra^{C#m}gostea,
+/: Vreau să Te văd înălțat,
+Strălucind în gloria Ta,
+Ca să-Ți văd dragostea,
 Căci doar Tu sfânt ești,
-^{F#m}Sfânt ești, sfânt ești, ^{B}sfânt ești. :/
+Sfânt ești, sfânt ești, sfânt ești. :/
 
 [b]
-/: ^{E}Sfânt ești, sfânt ești, sfânt ești,
-^{B/D#}Doar Tu sfânt ești, sfânt ești, sfânt ești,
-^{F#m}Sfânt ești, sfânt ești, sfânt ești
-Vreau să Te ^{E}văd. :/ (4x)
+/: Sfânt ești, sfânt ești, sfânt ești,
+Doar Tu sfânt ești, sfânt ești, sfânt ești,
+Sfânt ești, sfânt ești, sfânt ești
+Vreau să Te văd. :/ (4x)

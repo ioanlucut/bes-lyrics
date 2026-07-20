@@ -1,0 +1,30 @@
+[title]
+Voi înălța Numele Tău {alternative: {*}, composer: {Grupul Domini}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {69330}, id: {mRWDbk3CrmcdvoRRokWqg5}, contentHash: {99e597}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+Numele Tău e-nălțat, printre neamuri e lăudat,
+Puterea Ta este vestită pe-ntreg pământ.
+Vrednic de cinste ești Tu, se cuvine să ne-nchinăm
+Înaintea Ta, în fața Ta, Doamne!
+
+[c]
+/: Voi înăl^{E}ța Numele ^{B}Tău,
+Voi procla^{C#m}ma domnia-Ți pe ^{A2}pământ,
+Voi ară^{E}ta puterea ^{B}sângelui Tău ^{A2}sfânt!
+Dorința ^{E}mea va fi a ^{B}Ta,
+Voi face, ^{C#m}Doamne, numai ^{A}voia Ta,
+Cât voi tră^{E}i pe-acest pă^{B}mânt să Te slu^{A}jesc! :/
+
+[v2]
+În glorie și-n slavă-ntronat,
+În splendoare ești îmbrăcat,
+Minunile Tale-s cântate din neam în neam.
+Căci nimeni nu este ca Tin’, Dumnezeule divin,
+Creația-ntreagă pe Tine Te laudă!
+
+[b]
+/: ^{E}Numele Tău e ^{B}sfânt, ^{C#m}Numele Tău e ^{A}drept,
+^{E}Numele Tău e ^{B}mare pe-ntreg pă^{A}mânt! :/

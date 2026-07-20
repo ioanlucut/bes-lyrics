@@ -1,0 +1,23 @@
+[title]
+De n-ar fi El, aș fi singur {alternative: {De n-ar fi Isus}, composer: {Mylon R. LeFevre}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {Corul barbatesc al BES}, version: {*}, genre: {*}, rcId: {*}, id: {7P6pyfdwD5kxFFLQ41xcqi}, contentHash: {6286dd}}
+
+[sequence]
+v1,c,v2
+
+[v1]
+^{E}De n-ar fi El, aș fi ^{B7}singur,
+Pierd^{B9}ut aș fi fără ^{E}El!
+Nici drumul ^{E7}nu mi-ar fi ^{A}si^{Am}gur^{F#},
+^{E/B}N-aș putea să a^{B7}jung la ^{E}țel.
+
+[c]
+I^{E}sus, ^{A}o, ^{E/B}Isus^{E}.
+Îl cu^{B7}noști, tu, acum, pe Păs^{E}torul meu ^{E7}bun?
+^{A}Isus, scump ^{E/B}Isus^{Cm},
+Cu ^{E/B}Tine mă ^{B7}simt feri^{E}cit!
+
+[v2]
+De n-ar fi El, n-ar fi soare,
+Aș fi de lume legat.
+Fără El, nimic sens nu are,
+Dar cu Isus, eu sunt salvat.

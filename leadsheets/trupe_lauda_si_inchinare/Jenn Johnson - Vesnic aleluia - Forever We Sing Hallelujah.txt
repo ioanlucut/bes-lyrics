@@ -1,0 +1,34 @@
+[title]
+Veșnic aleluia {alternative: {Forever We Sing Hallelujah}, composer: {Jenn Johnson}, writer: {Jenn Johnson}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {136138}, id: {m41BEgL6GjxPS1rzR1NZ46}, contentHash: {a34d69}}
+
+[sequence]
+v1.1,v1.2,p,c,p,c,b,c
+
+[v1.1]
+^{A}Ceru-ntreg a ^{E/G#}plâns, soarele-a a^{F#m}pus
+Când Mielul scump, I^{D}sus, muri pe ^{A}lemn.
+Prin sângele văr^{E/G#}sat, prin trupul Său stră^{F#m}puns
+A luat asupra ^{D}Lui blestemu-n^{A}treg.
+
+[v1.2]
+^{A}Suflarea când și-a ^{E/G#}dat, spre Tatăl a stri^{F#m}gat.
+Părăsit de ^{D}toți Isus ^{A}era.
+Dar lupta n-a sfâr^{E/G#}șit și-acolo în mor^{F#m}mânt
+A iadului pu^{D}teri El le-a ^{A}zdrobit.
+
+[p]
+Pământul s-a miș^{E}cat când piatra s-a des^{F#m}prins,
+Iubirea Lui a ^{D}fost de neîn^{A}vins.
+O, moarte, unde ^{E}ești? Zdrobită-ai fost pe ^{F#m}veci
+Prin sângele sal^{D}vă^{E}rii!
+
+[c]
+În ^{D/A}veci vei ^{A}fi glorifi^{E}cat,
+În ^{F#m}veci de veci ești ^{D}înălțat!
+În ^{D/A}veci de ^{A}veci, I^{E}suse, ai în^{F#m}viat, ai în^{D}viat!
+
+[b]
+^{A}Veșnic alelu^{E}ia, veș^{F#m}nic ale^{D}luia,
+^{A}Veșnic alelu^{D}ia, în veci Îți vom cânta^{A}!
+^{A}Veșnic alelu^{E}ia, veș^{F#m}nic alelu^{D}ia,
+^{A}Veșnic alelu^{D}ia, din morți ai înviat^{A}!

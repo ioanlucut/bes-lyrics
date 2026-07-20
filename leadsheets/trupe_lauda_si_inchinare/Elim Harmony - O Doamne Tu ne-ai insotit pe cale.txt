@@ -1,0 +1,25 @@
+[title]
+O, Doamne, Tu ne-ai însoțit pe cale {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195500}, id: {5zyDe169yCZFv69U1uEJwp}, contentHash: {6590b8}}
+
+[sequence]
+c,v1,c,v2,c
+
+[c]
+/: O, ^{D}Doamne, Tu ne-ai înso^{G}țit pe ^{D}cale,
+În ^{G}lungul ^{D}drum ce trece ^{Bm}prin pus^{A}tiu.
+Tu ^{D}ne-ai condus prin lipsuri ^{G}și bel^{D}șug,
+Prin fur^{G}tuni și ^{D}foc, spre un ^{Bm}loc mai ^{A}bun!
+Tu ne-ai con^{G}dus, până a^{D}ici^{D4-D}! :/
+
+[v1]
+Asu^{A}priți pe pă^{G/D}mânt stră^{D}in,
+Mult prea ^{A}slabi să ne-m^{G/D}potri^{D}vim,
+Noi plă^{Bm}team ^{A}tri^{D}but celor ^{Bm}de de^{A}mult.
+Nicide^{A}cum locul ^{G/D}nu-l gă^{D}seam,
+Cântul ^{A}frânt doar îl ^{G/D}suspi^{D}nam,
+Tu ne-ai ^{Bm}a^{A}u^{D}zit și ne-ai ^{Bm}izbă^{A}vit.
+
+[v2]
+^{A}Ai zdrobit lanțuri și ^{G/D}po^{D}veri,
+Moartea-i ^{A}frânt și-ale ei ^{G/D}pu^{D}teri,
+Din de^{Bm}șert ^{A}ne-ai ^{D}scos la un ^{Bm}loc ^{A}fru^{B4-B}mos.

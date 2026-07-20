@@ -1,0 +1,23 @@
+[title]
+Lângă Tine vreau {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5135}, id: {ozEswUrc1yYjYticPUXex4}, contentHash: {093e34}}
+
+[sequence]
+v1.1,v1.2,c,v1.1,v1.2,c
+
+[v1.1]
+^{G}Lângă Tine vre^{G}au
+^{D}Să fiu aproape ^{G}iar
+^{D/F#}Și pentru priete^{G}nia Ta
+^{Em}Renunț la orice a^{C}ltceva.
+
+[v1.2]
+^{G}Ești iubirea ^{C}mea, ^{D}cine altcine^{G}va?
+^{D/F#}Tu nu poți fi în^{C}locuit,
+^{Em}Nici caldă-mbrăți^{C}șarea Ta,
+^{G}Adu-mă îna^{Am}poi, ^{D}Doamne, lângă ^{G}Tin’!
+
+[c]
+/: ^{G}Ești ^{D/F#}tot ce vre^{C/E-D/F#}au,
+^{G}Tot ce ^{D/F#}am do^{C/E}rit vreo^{D}dată,
+^{G}Vreau să-n^{D/F#}țe^{C/E-D}leg
+^{Am7}Cât de apro^{D}ape-mi e^{G}ști. :/

@@ -1,5 +1,5 @@
 [title]
-Psalmul 91 {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4853}, id: {kUF4Swuq3aPL9PfvLo8vWb}, contentHash: {1a42e2}}
+Psalmul 91 {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4853}, id: {kUF4Swuq3aPL9PfvLo8vWb}, contentHash: {5aeb4d}}
 
 [sequence]
 c,v1,c,v2,c
@@ -12,10 +12,10 @@ Căci Domnul sfânt
 /: E Dumnezeul meu în care mă-ncred. :/
 
 [c]
-/: O ^{A}mie să cadă ală^{F#m}turi de tine
-Și zece ^{D}mii la dreapta ta de vor ^{A/E}că^{E}dea,
-Cu ^{A}ochii privește să ^{F#m}vezi răsplătirea
-Acelui ^{D}rău, doar ha^{E7}rul Său te va ^{A}salva. :/
+/: O mie să cadă alături de tine
+Și zece mii la dreapta ta de vor cădea,
+Cu ochii privește să vezi răsplătirea
+Acelui rău, doar harul Său te va salva. :/
 
 [v2]
 Să nu te temi de groaza din

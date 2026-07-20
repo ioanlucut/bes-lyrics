@@ -1,0 +1,41 @@
+[title]
+Mâinile ridicăm când ne rugăm {alternative: {*}, composer: {Decean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4317}, id: {jsa2wDaH3LwvrtY8bCPzg6}, contentHash: {8e008f}}
+
+[sequence]
+v1.1,v1.2,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,e
+
+[v1.1]
+^{Am}Mâini^{F}le ridi^{G}căm când ne ru^{Am}găm,
+Nume^{F}le Tău che^{G}măm, Ție ne-nchi^{Am}năm.
+Am ven^{F}it, Doamne, ^{G}aici să Te-ntâl^{Am}nim
+Dumne^{F}zeu plin de ^{G}har ești doar ^{C}Tu.
+
+[v1.2]
+^{C}Te-ado^{F}răm doar pe ^{C/F}Tine, Te lău^{F}dăm,
+Numai ^{C}Tu ești ^{F}Dumnezeu,
+^{C}Numai Tu, numai ^{F}Tu.
+
+[c1.1]
+/: ^{G}Sfânt ești, sfânt ești,
+Doar Tu, ^{F}Domnul meu!
+^{G}Sfânt e, sfânt e doar Nu^{F}mele ^{C}Tău! :/
+
+[c1.2]
+Numai ^{C}Tu ești Dumne^{F}zeu,
+Numai ^{C/E}Tu, numai ^{F}Tu.
+
+[v2.1]
+Mâini^{G}le ridicăm, Nume^{F}le Tău che^{C}măm,
+Am ve^{G}nit, Doamne, aici Ție ^{F}să ne-nchi^{C}năm!
+Sfânt ești doar ^{C}Tu!
+
+[v2.2]
+^{C}Te-ado^{F}răm doar pe ^{C}Tine, Te lău^{F}dăm,
+Numai ^{C}Tu ești Dumne^{F}zeu,
+Numai ^{C}Tu, numai ^{F}Tu.
+
+[e]
+Sfânt ești doar Tu.
+Te-adorăm doar pe Tine, Te lăudăm,
+Numai Tu ești Dumnezeu,
+Numai Tu, numai Tu.

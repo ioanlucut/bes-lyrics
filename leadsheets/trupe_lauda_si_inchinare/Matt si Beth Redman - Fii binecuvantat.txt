@@ -1,0 +1,36 @@
+[title]
+Fii binecuvântat! {alternative: {*}, composer: {Matt și Beth Redman}, writer: {*}, arranger: {Marry Parks}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66232}, id: {ahELdKi2WUCEGNKDEP8BL1}, contentHash: {d25023}}
+
+[sequence]
+v1.1,v1.2,p,c,v2.1,v2.2,p,c,b,c,e
+
+[v1.1]
+^{A}Fii bine^{E}cuvântat când ^{F#m}pământul e să^{D}turat,
+Când ^{A}ploaia dă ^{E}peste el, ^{F#m}fii binecuvân^{D}tat^{E}!
+
+[v1.2]
+^{A}Fii bine^{E}cuvântat când mă ^{F#m}aflu pe pă^{D}mânt uscat
+Și pă^{A}șesc singur ^{E}prin pustiu, ^{F#m}fii binecuvân^{D}tat!
+
+[p]
+^{A}Fiecare ^{E}laudă ^{F#m}Ție Ți-o ^{D}dau,
+^{A}Când noaptea ^{E}se apropie, ^{F#m}Te voi lău^{D}da!
+
+[c]
+/: Binecuvântat ^{A}fie El^{E}, binecuvân^{F#m/D}tat,
+Binecuvân^{A}tat fie ^{E}El, binecuvân^{F#m}tăm Numele ^{D}Său! :/
+
+[v2.1]
+Fii binecuvântat când soarele-i din nou pe cer,
+Când toate sunt cum le-ai creat, fii binecuvântat!
+
+[v2.2]
+Fii binecuvântat când drumu-i plin de suferinți,
+Chiar dacă plâng și-mi este greu, fii binecuvântat!
+
+[b]
+/: Pri^{A}mește lau^{E}da, ești ^{F#m}vrednic Dumne^{D}zeu,
+Îmi ^{A}cântă ini^{E}ma, fii ^{F#m}binecuvân^{D}tat! :/
+
+[e]
+Binecuvântăm al Tău Nume sfânt!

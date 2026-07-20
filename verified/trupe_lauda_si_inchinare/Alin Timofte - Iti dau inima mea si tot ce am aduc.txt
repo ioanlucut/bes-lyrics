@@ -1,16 +1,16 @@
 [title]
-Îți dau inima mea și tot ce am aduc {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2466}, id: {3n5vUUr8XiXnJivR5ziZuA}, contentHash: {58f133}}
+Îți dau inima mea și tot ce am aduc {alternative: {*}, composer: {Alin Timofte}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2466}, id: {3n5vUUr8XiXnJivR5ziZuA}, contentHash: {011be5}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-^{E}Îți dau ^{B}inima mea și tot ce am a^{A}duc
-Acum ‘naintea ^{C#m}Ta, de dragul ^{B/D#}Tău, I^{E}sus.
+Îți dau inima mea și tot ce am aduc
+Acum ‘naintea Ta, de dragul Tău, Isus.
 
 [v1.2]
-Tot ce eu vi^{B}sez, mândria mea Ți-o ^{A}dau,
-Renunț la dreptul ^{C#m}meu ca viața ^{B}Ta s-o ^{E}am.
+Tot ce eu visez, mândria mea Ți-o dau,
+Renunț la dreptul meu ca viața Ta s-o am.
 
 [c]
 /: Ție Îți dau tot ce sunt, tot ce am! :/

@@ -1,14 +1,14 @@
 [title]
-La crucea de la Golgota {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3778}, id: {9267uocXLwPytTmGeeazh3}, contentHash: {4b076b}}
+La crucea de la Golgota {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3778}, id: {9267uocXLwPytTmGeeazh3}, contentHash: {aaabe5}}
 
 [sequence]
 v1,c1.1,c1.2,v2,c1.1,c1.2
 
 [v1]
-^{E}La crucea de la Gol^{F#m7}gota,
-Doamne, vin să-ngenun^{B7}chez cu viața ^{E}mea.
-^{E}Sunt obosit de-al meu pă^{F#m7}cat,
-Sufletul mi-e-ndure^{B7}rat, ajută-^{E}mă! ^{D/E}
+La crucea de la Golgota,
+Doamne, vin să-ngenunchez cu viața mea.
+Sunt obosit de-al meu păcat,
+Sufletul mi-e-ndurerat, ajută-mă!
 
 [c1.1]
 Trimite-mi, Doamne, har din cer,

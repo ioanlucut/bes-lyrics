@@ -1,25 +1,25 @@
 [title]
-Să răsune pe întreg pământul {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xo9JP6MrLnghDBbXKEoxrp}, contentHash: {5a44b7}}
+Să răsune pe întreg pământul {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {xo9JP6MrLnghDBbXKEoxrp}, contentHash: {17f71b}}
 
 [sequence]
 v1,v2,v3,v1,v2,v3,e
 
 [v1]
-^{C}Să răsune pe întreg pământul: I^{F-G}sus e ^{C}viu!
-^{C}Gol și rece a ră^{C/A}mas mormântul, ^{F-G}El este ^{C}viu!
-^{C}Să răsune pe întreg pământul: I^{F-G}sus e ^{C}viu!
-^{C}Astăzi s-a-mpli^{C/A}nit Cuvântul, ^{F-G}El este ^{C}viu!
+Să răsune pe întreg pământul: Isus e viu!
+Gol și rece a rămas mormântul, El este viu!
+Să răsune pe întreg pământul: Isus e viu!
+Astăzi s-a-mplinit Cuvântul, El este viu!
 
 [v2]
-A-nvi^{G}at, mergeți ^{Am7}toți să spuneți, mor^{F}mântul este ^{C}gol,
-Nu-i a^{G}ici, El e ^{Am7}viu, trăiește, ^{G4}spuneți tutu^{G}ror!
-A-nvi^{Em7}at și ai ^{Am7}Lui suntem, pe ^{F2}veci răscumpă^{C}rați,
-^{F2-F}Aleluia, glorie ^{Am7}Îi cân^{G}tăm,
-^{F2-F}Aleluia, toți ^{Am7}Îl lău^{G}dăm, căci ^{F}e viu!
+A-nviat, mergeți toți să spuneți, mormântul este gol,
+Nu-i aici, El e viu, trăiește, spuneți tuturor!
+A-nviat și ai Lui suntem, pe veci răscumpărați,
+Aleluia, glorie Îi cântăm,
+Aleluia, toți Îl lăudăm, căci e viu!
 
 [v3]
-Aleluia, e ^{F}viu să cântăm cu toții!
-/: ^{C}Isus, aleluia, e ^{F}viu să cântăm cu toții. :/
+Aleluia, e viu să cântăm cu toții!
+/: Isus, aleluia, e viu să cântăm cu toții. :/
 
 [e]
-^{C}Să răsune pe întreg pământul: I^{F-G}sus e ^{C}viu!
+Să răsune pe întreg pământul: Isus e viu!

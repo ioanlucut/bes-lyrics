@@ -1,0 +1,23 @@
+[title]
+Isus, m-ai cuprins din necuprins {alternative: {*}, composer: {Pasca Ruben}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {190399}, id: {syEW13cmz1ovLhw5haYYjv}, contentHash: {de0568}}
+
+[sequence]
+v1,v2,v3
+
+[v1]
+^{D}Isus, m-ai cuprins din necu^{Em}prins,
+^{A}Isus, viață-n mine ai a^{D}prins^{A/C#}.
+^{Bm}Isus, m-ai iubit și m-ai sal^{Em}vat,
+Să fii veș^{A}nic, veșnic lău^{D}dat!
+
+[v2]
+Isus, pentru orbi lumină ai,
+Isus, celor muți Tu le dai grai.
+Isus, șchiopii iarăși au umblat,
+Tu ești medic, medic minunat.
+
+[v3]
+Isus, ești păstor celor pierduți,
+Isus, apărător celor micuți.
+Isus, din robie ne-ai scăpat,
+Să fii veșnic, veșnic lăudat!

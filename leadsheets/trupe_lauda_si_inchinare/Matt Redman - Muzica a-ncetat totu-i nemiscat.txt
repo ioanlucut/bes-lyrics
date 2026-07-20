@@ -1,0 +1,25 @@
+[title]
+Muzica a-ncetat, totu-i nemișcat {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5138}, id: {8LivoooMeoR7psgwwLautA}, contentHash: {f364ee}}
+
+[sequence]
+v1,p,c,v2,p,c
+
+[v1]
+^{D}Muzica a-nce^{A}tat, totu-i nemiș^{Em7}cat, dar eu vin spre ^{Asus-A}Tin’!
+^{D}Doamne, m-a du^{A}rut tot ce n-am fă^{Em7}cut voia să-Ți as^{Asus-A}cult.
+
+[p]
+^{Em}Mai mult de-un ^{D/F#}cântec Ți-a^{A}duc,
+Căci doar cântecul nu-^{Em}i ceea ce ^{D/F#}Tu ai fi ^{A}vrut,
+^{Em}Tu cauți ^{D/F#}mult mai a^{A}dânc decât se poate ve^{Em}dea,
+Te uiți în ^{D/F#}inima ^{A}mea.
+
+[c]
+/: ^{D}Mă-ntorc la inima ^{A}închinării, vreau să ^{Em}văd fața Ta,
+^{G}Doar fața Ta, ^{A}I^{D}sus.
+Îmi pare rău de a ^{A}mea greșeală: că nu ^{Em}Te-am căutat
+Și nu ^{G}m-am închinat ^{A}des^{D}tul. :/
+
+[v2]
+Oamenii nu pot înțelege tot ce Tu ai jertfit,
+Tot ce am primit, Tu mi-ai dăruit, Doamne, prin Isus.

@@ -1,0 +1,53 @@
+[title]
+Cred într-un singur Dumnezeu {alternative: {*}, composer: {Dani Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {232883}, id: {oWn3uuAD5nC5hNfaJcMUuZ}, contentHash: {423ffd}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,b,c,b,b2,b3
+
+[v1.1]
+Cred într-un singur Dumnezeu,
+Creatorul a toate,
+Cred în Isus ce-a murit
+Pentru-a mele păcate.
+
+[v1.2]
+^{E}Cred în Duhul Sfânt trimis,
+El e-a ^{A/E}mea îndru^{E}mare,
+^{B}Cred în viața veșnică
+Ce o am după ^{E}moarte.
+
+[c]
+Credin^{A}cios pân’ la capăt voi ^{E}fi
+Rege^{C#m}lui ce pe cruce-a mu^{B}rit.
+El prin ^{A}sângele curs a plăt^{E}it prețul pus,
+El e ^{E/C#}vrednic să fie-ono^{B4-B}rat.
+
+[v2.1]
+Domnul luptă pentru noi,
+Cine va sta-mpotrivă?
+Pentru cei răscumpărați
+Cine acuze ridică?
+
+[v2.2]
+Domnul Isus a murit
+Pentru-a noastră-nfiere
+Și la dreapta Tatălui
+Pentru noi mijlocește.
+
+[b]
+^{A}Vrednic este Mielul^{E} ‘junghiat,
+El prin ^{C#m}moarte ne-a răscumpă^{B}rat
+Și prin ^{A}sângele curs a plă^{E}tit prețul pus,
+El e ^{E/C#}vrednic să fie-ono^{B4-B}rat.
+
+[b2]
+^{G#m}Prigoană, lipsuri sau ^{C#m}sabie,
+^{A2}De El nu m-ar despăr^{E}ți.
+^{B}Eu am victorie de^{C#m}plină prin Cel
+Ce ^{A1}nespus de mult m-a iu^{C#m}bit.
+
+[b3]
+^{Gm}Nici îngeri, demoni sau ^{C#m}moarte
+^{A2}Nu m-ar putea clă^{E}tina,
+^{B}Știu cui slujesc și ^{C#m}cui mă închin,
+^{A2}În dragoste sunt anco^{G#4-G#}rat.

@@ -1,5 +1,5 @@
 [title]
-Veghează-n zori {alternative: {*}, composer: {Corneliu Radulescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1862}, id: {hdW7uLChTB9HSJGH8HxGWu}, contentHash: {0d8f27}}
+Veghează-n zori {alternative: {*}, composer: {Corneliu Radulescu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1862}, id: {hdW7uLChTB9HSJGH8HxGWu}, contentHash: {29fbc5}}
 
 [sequence]
 v1,c,v2,c,v3,c
@@ -11,10 +11,10 @@ Când totul este iar înviorat,
 Vreo umbră neagră, plină de păcat.
 
 [c]
-^{G}Iar în amurg, când ^{D}totul se-odihne^{Em}ște,
-Tu-ndreaptă-ți ^{A}gândul ^{G/A}iarăși spre I^{D}sus.
-Îi cântă ^{G}laudă ^{D}și Îi mulțu^{Em}mește:
-Pe a Lui că^{D/A}rare Domnul ^{A7}iarăși te-a ^{D}adus.
+Iar în amurg, când totul se-odihnește,
+Tu-ndreaptă-ți gândul iarăși spre Isus.
+Îi cântă laudă și Îi mulțumește:
+Pe a Lui cărare Domnul iarăși te-a adus.
 
 [v2]
 Veghează-n orice clipă-a vieții tale,

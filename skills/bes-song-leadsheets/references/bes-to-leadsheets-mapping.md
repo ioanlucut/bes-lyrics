@@ -19,10 +19,11 @@ Primary converter:
 Songbook pipeline:
 
 1. `LaTeX/songbook/convertToSongbookTex.ts`
-2. Reads `.txt` songs.
-3. Parses with `parse(content, { rejoinSubsections: true })`.
-4. Converts each song to standalone leadsheet TeX.
-5. Includes each generated file in `bes-songbook.tex` using `\includeleadsheet`.
+2. Reads chorded `.txt` songs from `leadsheets/`; it never reads ProPresenter sources from `verified/`.
+3. `bin/leadsheetSyncValidator.ts` pairs each lead sheet to its canonical song by `id` and requires synchronized descriptive metadata, structure, and exact chord-stripped section text; each source keeps its own `contentHash`.
+4. Parses with `parse(content, { rejoinSubsections: true })`.
+5. Converts each song to standalone leadsheet TeX.
+6. Includes each generated file in `bes-songbook.tex` using `\includeleadsheet`.
 
 ## Section-to-Environment Mapping
 
@@ -112,7 +113,8 @@ If explicit subsection rendering is required in TeX:
 
 ## Known Limitations
 
-1. `/:` and `:/` repeat syntax is not transformed into left/right repeat commands by current converter.
-2. `title` metadata parsing is simple brace splitting; malformed nested braces can break extraction.
-3. Sequence parsing assumes comma-separated tokens without extra wrappers.
-4. Converter ignores some available `leadsheets` properties even if present in BES metadata.
+1. Canonical lyric edits must be applied to paired lead sheets; `npm run verify:leadsheets` detects but does not repair drift.
+2. `/:` and `:/` repeat syntax is not transformed into left/right repeat commands by current converter.
+3. `title` metadata parsing is simple brace splitting; malformed nested braces can break extraction.
+4. Sequence parsing assumes comma-separated tokens without extra wrappers.
+5. Converter ignores some available `leadsheets` properties even if present in BES metadata.

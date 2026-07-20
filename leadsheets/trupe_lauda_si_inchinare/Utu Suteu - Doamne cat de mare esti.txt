@@ -1,0 +1,29 @@
+[title]
+Doamne, cât de mare ești! {alternative: {*}, composer: {Utu Șuteu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4509}, id: {au1F8Fmd2SZ5acC2eK5tjd}, contentHash: {75ed67}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+/: Doamne, cât de mare ești!
+Doamne, cât de mare ești!
+Doamne, cât de mare ești
+Și cât ne iubești! :/
+
+[v1]
+^{F}Munți î^{Am}nalți, se^{Bb}meți,
+Cu ^{F/A}brazi plini de nă^{Gm}meți,
+^{C7}Vântu-i adia
+Și ^{C7/E}parcă așa spu^{F-Gm/F}nea:
+
+[v2]
+Oceane-n depărtări
+Își poartă cântu-n zări,
+Iar pescăruși în zbor,
+Îngână-ncetișor:
+
+[v3]
+Eu m-alătur lor
+Și-ntr-un mare cor
+Îți cântăm cu dor,
+Cât de mare ești!

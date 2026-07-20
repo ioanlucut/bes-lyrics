@@ -1,15 +1,33 @@
 # Authoring and Audit Patterns
 
-## Canonical BES Song
+## Canonical and Lead-Sheet BES Songs
 
-Use this for songs that belong in `verified/`:
+Canonical songs under `verified/` contain no chords and are published to ProPresenter:
 
 ```txt
 [title]
-Cântarea mea {composer: {Nume}, writer: {Nume}, interpreter: {Nume}, key: {D}, tempo: {72}, tags: {închinare}}
+Cântarea mea {composer: {Nume}, writer: {Nume}, interpreter: {Nume}, key: {D}, tempo: {72}, tags: {închinare}, id: {song-id}}
 
 [sequence]
-v1,c,v2,c,b,c,e
+v1,c
+
+[v1]
+Prima linie a cântării
+A doua linie se termină în har
+
+[c]
+Acesta este refrenul
+Cântat din nou în închinare
+```
+
+The paired song under `leadsheets/` has the same `id`, descriptive metadata, structure, and exact lyrics, with chord markup added. Its `contentHash` is calculated independently:
+
+```txt
+[title]
+Cântarea mea {composer: {Nume}, writer: {Nume}, interpreter: {Nume}, key: {D}, tempo: {72}, tags: {închinare}, id: {song-id}}
+
+[sequence]
+v1,c
 
 [v1]
 ^{D}Prima linie a cântării
@@ -18,15 +36,6 @@ v1,c,v2,c,b,c,e
 [c]
 ^{D}Acesta este refrenul
 ^{G}Cântat din nou în ^{A}închinare
-
-[v2]
-Al doilea vers
-
-[b]
-Bridge-ul cântării
-
-[e]
-Finalul cântării
 ```
 
 Rules:
@@ -34,8 +43,11 @@ Rules:
 1. Use actual metadata; omit unknown optional metadata or preserve the repository's existing `*` convention.
 2. Declare a section once. Repeat its token only in `[sequence]`.
 3. Verse tokens are numbered (`v1`); first chorus/bridge/prechorus/solo tokens are unnumbered (`c`, `b`, `p`, `s`).
-4. BES slash chords use source form such as `^{D/F#}`; the converter owns output normalization.
-5. Use double blank lines inside a section only when intentional subsection splitting is wanted.
+4. Keep canonical songs chord-free.
+5. Pair lead sheets by stable song `id`; removing chords must reproduce the canonical section exactly.
+6. Keep descriptive metadata synchronized; `contentHash` differs because each source hashes its own body.
+7. BES slash chords use source form such as `^{D/F#}`; the converter owns output normalization.
+8. Use double blank lines inside a section only when intentional subsection splitting is wanted.
 
 ## Standalone Leadsheets TeX
 

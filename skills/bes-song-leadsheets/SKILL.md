@@ -7,20 +7,22 @@ description: Author and audit BES song sources and Leadsheets LaTeX in this repo
 
 ## Purpose
 
-Use this skill for both authoring routes and for TeX audits:
+Use this skill for song authoring and TeX audits:
 
-1. **Canonical BES source**: write `verified/**/*.txt`, then let the repository generate Leadsheets TeX. This is the normal route.
-2. **Direct Leadsheets TeX**: write a standalone `leadsheet` document when explicitly requested or when prototyping package functionality.
-3. **Audit**: inspect handwritten or generated TeX, trace defects to the owning source, and validate compilation.
+1. **Canonical lyrics**: write chord-free `verified/**/*.txt`; these files are published to ProPresenter.
+2. **Lead-sheet source**: write chorded `leadsheets/**/*.txt`; each file is paired to its canonical song by `id` and used for PDF generation.
+3. **Direct Leadsheets TeX**: write a standalone `leadsheet` document only when explicitly requested or when prototyping package functionality.
+4. **Audit**: inspect handwritten or generated TeX, trace defects to the owning source, and validate compilation.
 
 Do not confuse source ownership: generated `LaTeX/songbook/target-tex/*.tex` and `LaTeX/songbook/bes-songbook.tex` are outputs, not editing targets.
 
 ## Route Selection
 
-1. If the requested song belongs in the repository corpus, use canonical BES source.
-2. If the user explicitly asks for TeX, a standalone leadsheet, or a package feature unavailable through the converter, use direct TeX.
-3. If auditing TeX, first determine whether it is generated:
-   - Generated song body defect → fix the BES source or `src/songToLeadsheetConverter.ts`.
+1. If lyrics change, update the chord-free song under `verified/`.
+2. If chords change, update its paired song under `leadsheets/` without changing the chord-stripped lyrics.
+3. If the user explicitly asks for TeX, a standalone leadsheet, or a package feature unavailable through the converter, use direct TeX.
+4. If auditing TeX, first determine whether it is generated:
+   - Generated song body defect → fix the lead-sheet source or `src/songToLeadsheetConverter.ts`.
    - Generated aggregate defect → fix `LaTeX/songbook/bes-songbook.template.txt` or `LaTeX/songbook/convertToSongbookTex.ts`.
    - Shared layout defect → fix `LaTeX/songbook/bes-songbook-config.tex`.
    - Handwritten TeX defect → fix that TeX file directly.
@@ -41,21 +43,23 @@ For exact package semantics, search the installed official manual instead of rel
 ./skills/bes-song-leadsheets/scripts/search_leadsheets.sh '<term or regex>'
 ```
 
-## Canonical BES Authoring Workflow
+## BES Authoring Workflow
 
-1. Inspect nearby verified songs for metadata and naming conventions.
-2. Write `[title]`, `[sequence]`, then each uniquely declared section.
-3. Keep sequence tokens and section declarations consistent; sequence duplicates represent repeats.
-4. Place chords with BES notation such as `^{D}Cânt` and `^{D/F#}`.
-5. Preserve Romanian diacritics and existing metadata.
-6. Run the focused audit:
+1. Keep `verified/**/*.txt` chord-free; this is the canonical lyric source for ProPresenter.
+2. Store chorded variants under `leadsheets/`, paired to canonical songs by stable `id`.
+3. Write `[title]`, `[sequence]`, then each uniquely declared section.
+4. Keep descriptive metadata, sequence, section order, lyrics, punctuation, and line breaks synchronized; each source has its own `contentHash`.
+5. Place chords only in lead-sheet files, using notation such as `^{D}Cânt` and `^{D/F#}`.
+6. Preserve Romanian diacritics and existing metadata.
+7. Run the focused audit on the edited file:
 
 ```bash
 node --no-warnings=ExperimentalWarning --loader ts-node/esm \
   ./skills/bes-song-leadsheets/scripts/song_audit.ts <song.txt>
 ```
 
-7. Generate TeX only when needed; never hand-edit the generated result.
+8. Run `npm run verify:leadsheets` after changing either side of a paired song.
+9. Generate TeX only when needed; never hand-edit the generated result.
 
 ## Direct Leadsheets TeX Workflow
 
@@ -82,9 +86,11 @@ node --no-warnings=ExperimentalWarning --loader ts-node/esm \
 
 1. Never invent Leadsheets commands or options; confirm them in the capability map/manual.
 2. Never edit generated songbook outputs as the fix.
-3. Never silently discard BES metadata.
-4. Never claim rendered correctness from static inspection alone.
-5. Keep changes scoped to the requested song, converter, template, or configuration owner.
+3. Never place chord markup in `verified/`.
+4. Never let a lead sheet drift from its canonical song after chord markup is removed.
+5. Never silently discard BES metadata.
+6. Never claim rendered correctness from static inspection alone.
+7. Keep changes scoped to the requested song, converter, template, or configuration owner.
 
 ## Scripts
 

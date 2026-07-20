@@ -1,0 +1,41 @@
+[title]
+În fața tronului de sus {alternative: {*}, composer: {Cătălin și Ramona Lup}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {7307}, id: {q53RVH4stWQfrbdT52rYz6}, contentHash: {1196db}}
+
+[sequence]
+v1.1,v1.2,v2.1,v2.2,v3.1,v3.2
+
+[v1.1]
+În fața ^{C}tronu^{F/C}lui de ^{C}sus,
+Eu am un bun Apără^{Em}tor,
+Un mare ^{F}Preot, pe I^{Am}sus,
+La care ^{F}aflu aju^{C}tor.
+
+[v1.2]
+Săpat eu ^{F}sunt în mâna ^{G}Sa
+Și pe-a Lui ^{F}inimă sunt ^{Am}scris,
+Iar cât în ^{F}ceruri El va ^{Am}sta,
+/: Pârâșul ^{F}meu va fi ^{G}în^{Am}vins. :/
+
+[v2.1]
+Satan când mă va acuza,
+Spunându-mi că sunt vinovat,
+Privesc la Domnul, Stânca mea,
+Ce-a șters pe cruce-al meu păcat.
+
+[v2.2]
+Fiindcă Domnul a murit,
+Eu am ajuns neprihănit,
+Dreptatea s-a îndeplinit,
+/: Prin moartea Lui sunt mântuit. :/
+
+[v3.1]
+Și, iată, Mielul înălțat,
+Cel nepătat, neprihănit,
+Cuvântul viu și întrupat,
+E Rege-al regilor slăvit.
+
+[v3.2]
+Unit cu El nu voi muri,
+Cu sânge m-a răscumpărat,
+Voi fi cu El în veșnicii,
+/: Cu Domnul meu glorificat! :/

@@ -1,20 +1,20 @@
 [title]
-Pot să scriu și să vorbesc de Tine {alternative: {*}, composer: {Anca Suli}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58944}, id: {3avZ4xtHD47PNhMuLxE1qJ}, contentHash: {c24ffa}}
+Pot să scriu și să vorbesc de Tine {alternative: {*}, composer: {Anca Suli}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58944}, id: {3avZ4xtHD47PNhMuLxE1qJ}, contentHash: {36f475}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-^{G}Pot să scriu și ^{D/F#}să vorbesc de ^{Em}Tine,
-Despre ^{C}tot ce Tu ai ^{Am}spus și ai fă^{D}cut,
-Cum cu ^{G}pâini și pești ai ^{D/F#}săturat mulți^{Em}mea
-Și în ^{C}dragoste pe ^{Am}cruce ne-ai năs^{D}cut.
+Pot să scriu și să vorbesc de Tine,
+Despre tot ce Tu ai spus și ai făcut,
+Cum cu pâini și pești ai săturat mulțimea
+Și în dragoste pe cruce ne-ai născut.
 
 [v1.2]
-Cum la ^{Em}toți cei orbi doar ^{Eb}Tu le-ai dat ve^{Bm}dere
-Și cum ^{C}marea-nvolburată-ai liniș^{G}tit,
-Când ^{Em}eram eu singur ^{Eb}și în deznă^{Bm}dejde,
-Tu cu ^{C}dragoste în ^{Am}brațe m-ai pri^{D}mit!
+Cum la toți cei orbi doar Tu le-ai dat vedere
+Și cum marea-nvolburată-ai liniștit,
+Când eram eu singur și în deznădejde,
+Tu cu dragoste în brațe m-ai primit.
 
 [c]
 /: Tu ne-ai adus iubirea ca pe-un veșmânt curat,

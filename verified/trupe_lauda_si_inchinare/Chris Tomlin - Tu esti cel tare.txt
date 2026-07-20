@@ -1,21 +1,23 @@
 [title]
-Tu ești cel tare! {alternative: {*}, composer: {Chris Tomlin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167046}, id: {gpHosp4Ydpn5HDpAHf5UVn}, contentHash: {19ce76}}
+Tu ești cel tare! {alternative: {*}, composer: {Chris Tomlin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167046}, id: {gpHosp4Ydpn5HDpAHf5UVn}, contentHash: {ee0a66}}
 
 [sequence]
 v1,c,v1,c,b,c
 
 [v1]
-/: ^{Dm}Apa-i schim^{Bb}bat-o-n ^{F}vin,
-^{Dm}Ochi ai des^{Bb}chis orbi^{F}lor,
-Tu ești ^{Gm7}Domnul mi^{C4-C}nunilor
-^{Dm}Și din ce^{Bb}nușă ne ^{F}scoți.
-^{Dm}Nu e ni^{Bb}mic ce nu ^{F}poți
-Chiar și-n ^{Gm7}beznă, strălu^{C4-C}cești. :/
+/: Apa-i schimbat-o-n vin,
+Ochi ai deschis orbilor,
+Tu ești Domnul minunilor!
+Și din cenușă ne scoți,
+Nu e nimic ce nu poți,
+Chiar și-n beznă strălucești. :/
 
 [c]
-^{Dm}Tu ești Cel tare, ^{Bb}ești Cel mai mare,
-^{F}Ești Dumnezeu fără a^{C}semănare, ^{Dm}ești Cel ce vindeci,
-^{Bb}Cu-a Ta putere /: I^{F-C}sus! :/
+Tu ești cel tare,
+Ești cel mai mare,
+Ești Dumnezeu fără asemănare.
+Ești cel ce vindeci,
+Cu-a Ta putere, /: Isus! :/
 
 [b]
 /: Cine ne stă-mpotrivă?

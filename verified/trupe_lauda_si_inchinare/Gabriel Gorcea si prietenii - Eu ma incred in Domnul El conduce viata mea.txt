@@ -1,16 +1,14 @@
 [title]
-Eu mă încred în Domnul, El conduce viața mea {alternative: {*}, composer: {Gabriel Gorcea și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {99821}, id: {89kkfPeXkSBSZ5wFPNJqjn}, contentHash: {c84689}}
+Eu mă încred în Domnul, El conduce viața mea {alternative: {*}, composer: {Gabriel Gorcea și prietenii}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {99821}, id: {89kkfPeXkSBSZ5wFPNJqjn}, contentHash: {1384ae}}
 
 [sequence]
 v1,c,v2,c,v3,c
 
 [v1]
-^{g}Eu mă încred în Domnul,
-El con^{c}duce viața mea.
-^{F}Mă-ncred în Domnul meu,
-El îmi con^{Bb}duce ini^{D7}ma.
-Mă-n^{g}cred în El în orice ceas din ^{c}zi,
-Mă-ncred în ^{F7}El orice ar ve^{g}ni!
+Eu mă încred în Domnul, El conduce viața mea.
+Mă-ncred în Domnul meu, El îmi conduce inima.
+Mă-ncred în El în orice ceas din zi,
+Mă-ncred în El orice ar veni!
 
 [c]
 /: Mă-ncred în Dumnezeu, :/ (x4)

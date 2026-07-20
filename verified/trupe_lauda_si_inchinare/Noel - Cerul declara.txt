@@ -1,16 +1,16 @@
 [title]
-Cerul declară {alternative: {*}, composer: {Noel}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4091}, id: {6UMYp9AtKHKXsBfKnt9hUq}, contentHash: {f3de0e}}
+Cerul declară {alternative: {*}, composer: {Noel}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4091}, id: {6UMYp9AtKHKXsBfKnt9hUq}, contentHash: {c411c6}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-^{Ab}Cer^{Cm}ul de^{Db}clară ^{Eb4} ^{Em}gloria Celui ^{Db/Ab}învi^{Ab}at.
-Ce ^{Cm}se com^{Db}pară ^{Eb4} ^{Eb}cu frumusețea ^{Db/Ab}Domnu^{Ab}lui?
+Cerul declară gloria Celui înviat.
+Ce se compară cu frumusețea Domnului?
 
 [c]
-În ^{Ab/C}veci de veci ești ^{Db}Tu, ^{Eb/G}Divinul Miel pe ^{Ab}tron, ^{Eb/G-Fm}
-^{Fm/Eb}Genunchii îmi a^{Bbm-Eb}plec și ^{Eb7}Ție mă în^{Ab}chin.
+/: În veci de veci ești Tu, Divinul Miel pe tron,
+Genunchii îmi aplec și Ție mă închin. :/
 
 [v2]
 Voi proclama gloria Celui înviat,

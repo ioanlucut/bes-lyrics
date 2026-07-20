@@ -1,0 +1,13 @@
+[title]
+Aleluia, mă iubește {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2wkTMnP6Sa5wAihQnAfNnp}, contentHash: {36bac0}}
+
+[sequence]
+v1,v2
+
+[v1]
+/: A^{E}leluia, a^{E/G#}lelu^{A}ia, alelu^{B7}ia, aleluia :/
+^{E}Ale^{F#m}luia, ^{B7}ale^{E}luia, ^{C#m}a^{B}leluia, ^{B7}ale^{E}luia
+
+[v2]
+/: Mă iubește, mă iubește,
+Mă iubește, mă iubește! :/

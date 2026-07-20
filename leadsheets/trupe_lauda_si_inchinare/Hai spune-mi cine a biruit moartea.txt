@@ -1,0 +1,35 @@
+[title]
+Hai, spune-mi, cine a biruit moartea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {151288}, id: {kiAQQvvhYopcyGMxXS1WHb}, contentHash: {d76387}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+^{Em}Hai, spune-mi, cine a biruit moartea,
+^{C}Cine-a călcat peste ^{G}ea?
+^{Em}Cine e Leul din Iuda,
+^{C}Scutul, tă^{D}ria ^{Em}mea?
+
+[v1.2]
+^{Em}Spune-mi, cine a biruit frica,
+^{C}Cine-a călcat peste ^{G}ea?
+^{Em}Cine e Leul din Iuda,
+^{C}Scutul, tă^{D}ria ^{Em}mea?
+
+[c]
+/: Alelu^{C}ia, alelu^{G}ia, alelu^{D}ia,
+Isus este ^{Em}Domn!
+Alelu^{C}ia, alelu^{G}ia, alelu^{D}ia,
+Isus este ^{Em-D-Em}Domn! :/
+
+[v2.1]
+Hai, spune-mi, cine a murit pentru mine,
+Cine-a murit pentru noi?
+Cine-a murit pentru lume?
+Glorie doar Regelui!
+
+[v2.2]
+Spune-mi, cine-ntr-o zi se va-ntoarce
+În fruntea oștirii Lui?
+El va primi închinarea,
+Pământul și ceru-s a Lui!

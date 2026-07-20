@@ -1,0 +1,17 @@
+[title]
+Primește lauda și închinarea {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4443}, id: {7LvB7LrMs4hjMkpVAKYP4d}, contentHash: {30c943}}
+
+[sequence]
+c,v1,c
+
+[c]
+/: ^{C}Primește ^{G/E}lauda ^{F}și închi^{C}narea,
+^{F}Tată din ^{C}ceruri, Te slă^{G}vim^{G2},
+Pri^{C}mește ^{G/E}lauda ^{F}și închi^{C}narea,
+^{F}Tată din ^{C}ceruri, Te iu^{C}bim^{C2}! :/
+
+[v1]
+^{C}Cu tot ce-avem ne-nchi^{G}năm ^{F/A}în fața Ta, Stăpâ^{C}ne^{F},
+Onoare și mă^{C}rire Ție-Ți ^{G-G2}dăm^{C}.
+Prin Duhul Sfânt să lu^{G}crezi, ^{F/A}fă-Ți Numele de sla^{C}vă^{F},
+Prezența Ta s-o ^{C}vadă toți ^{G7}cei ce ^{C}cred.

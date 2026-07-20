@@ -1,12 +1,14 @@
 [title]
-Domn al veșniciei {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3fEURzKcvCRhp5x1uaSoFZ}, contentHash: {9095fb}}
+Domn al veșniciei {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {3fEURzKcvCRhp5x1uaSoFZ}, contentHash: {6214cb}}
 
 [sequence]
 v1,c,v2,c,b,c
 
 [v1]
-^{G2}Domn al veșni^{C2}ciei ^{G2}ce pământul ai cre^{C2}at,
-^{D}Cerul ^{Em}este al Tău ^{C2}templu, ^{Em}Glorie Celui ^{C2}înălțat!
+Domn al veșniciei,
+Ce pământul ai creat,
+Cerul este al Tău templu,
+Glorie Celui Înălțat!
 
 [c]
 Domn al slavei mai sus de galaxii,
@@ -22,4 +24,4 @@ Dis-de-dimineață Lumina voi întâmpina
 Al Tău Nume voi chema:
 
 [b]
-/: ^{Em}Aleluia, ești ^{C2}Domn, ai fost și vei fi! :/ (3x)
+/: Aleluia, ești Domn, ai fost și vei fi! :/ (3x)

@@ -1,5 +1,5 @@
 [title]
-Cred într-un singur Dumnezeu {alternative: {*}, composer: {Dani Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {232883}, id: {oWn3uuAD5nC5hNfaJcMUuZ}, contentHash: {b831bc}}
+Cred într-un singur Dumnezeu {alternative: {*}, composer: {Dani Ardelean}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {232883}, id: {oWn3uuAD5nC5hNfaJcMUuZ}, contentHash: {660b02}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c,b,c,b,b2,b3
@@ -11,14 +11,16 @@ Cred în Isus ce-a murit
 Pentru-a mele păcate.
 
 [v1.2]
-^{E}Cred în Duhul Sfânt trimis, El e-a ^{A/E}mea îndru^{E}mare,
-^{B}Cred în viața veșnică ce o am după ^{E}moarte.
+Cred în Duhul Sfânt trimis,
+El e-a mea îndrumare,
+Cred în viața veșnică
+Ce o am după moarte.
 
 [c]
-Credin^{A}cios pân’ la capăt voi ^{E}fi
-Rege^{C#m}lui ce pe cruce-a mu^{B}rit.
-El prin ^{A}sângele curs a plăt^{E}it prețul pus,
-El e ^{E/C#}vrednic să fie-ono^{B4-B}rat.
+Credincios pân’ la capăt voi fi
+Regelui ce pe cruce-a murit.
+El prin sângele curs a plătit prețul pus,
+El e vrednic să fie-onorat.
 
 [v2.1]
 Domnul luptă pentru noi,
@@ -33,15 +35,19 @@ Pentru-a noastră-nfiere
 Pentru noi mijlocește.
 
 [b]
-^{A}Vrednic este Mielul ^{E}‘junghiat
-El prin ^{C#m}moarte ne-a răscumpă^{B}rat
-Și prin ^{A}sângele curs a plă^{E}tit prețul pus,
-El e ^{E/C#}vrednic să fie-ono^{B4-B}rat.
+Vrednic este Mielul ‘junghiat,
+El prin moarte ne-a răscumpărat
+Și prin sângele curs a plătit prețul pus,
+El e vrednic să fie-onorat.
 
 [b2]
-^{G#m}Prigoană, lipsuri sau ^{C#m}sabie ^{A2}de El nu m-ar despăr^{E}ți,
-^{B}Eu am victorie de^{C#m}plină prin Cel ce ^{A1}nespus de mult m-a iu^{C#m}bit.
+Prigoană, lipsuri sau sabie,
+De El nu m-ar despărți.
+Eu am victorie deplină prin Cel
+Ce nespus de mult m-a iubit.
 
 [b3]
-^{Gm}Nici îngeri, demoni sau ^{C#m}moarte ^{A2}nu m-ar putea clă^{E}tina
-^{B}Știu cui slujesc și ^{C#m}cui mă închin, ^{A2}în dragoste sunt anco^{G#4-G#}rat.
+Nici îngeri, demoni sau moarte
+Nu m-ar putea clătina,
+Știu cui slujesc și cui mă închin,
+În dragoste sunt ancorat.

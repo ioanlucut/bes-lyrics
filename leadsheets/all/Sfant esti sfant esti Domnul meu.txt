@@ -1,0 +1,21 @@
+[title]
+Sfânt ești, sfânt ești, Domnul meu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {5dfZW1SPxLJiDiVpYZhqY5}, contentHash: {3a229e}}
+
+[sequence]
+v1,p,c
+
+[v1]
+^{C}Sfânt ești, ^{F/C}sfânt ^{C}ești, ^{G7}Domnul ^{C}meu!
+Pă^{F}mântul e ^{C/E}plin de ^{Dm}sla^{C/E}va ^{G}Ta,
+^{C}Nume^{F/C}le ^{C}Tău ^{G7}e-^{C}nălțat,
+Pe-n^{F}tregul pă^{C/E}mânt ești ^{E}Domn!
+
+[p]
+Luminezi viața mea
+Și prin Tine strălucesc.
+
+[c]
+^{C}Cerul cântă ^{Em}lau^{F}de,
+^{Am}Minunat e ^{G}Domnul!
+Ești ^{Em}Rege-n Uni^{Am}vers.
+Ale^{F}lu^{C/E}ia, și-n ^{C/G}via^{G}ța ^{C}mea!

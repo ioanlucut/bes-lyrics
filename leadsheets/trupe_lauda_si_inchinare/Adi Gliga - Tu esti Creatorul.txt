@@ -1,0 +1,25 @@
+[title]
+Tu ești Creatorul {alternative: {*}, composer: {Adi Gliga}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6780}, id: {qFApZ95RgYRuhY4s73uZo8}, contentHash: {4fbcfb}}
+
+[sequence]
+v1,c,v2,c
+
+[v1]
+^{E}Tu ești Creato^{B4}rul univer^{F#m7}sului în^{E/G#}treg,
+^{A2}Tu ești început ^{E/G#}și întregi^{F#m7}re tutu^{B4}ror^{B}.
+^{E}Stelele și ^{B4}luna glasul ^{F#m7}Tău îl înțe^{E/G#}leg,
+^{B4}Marea și pă^{C#m}mântul, ^{B4}tot ce are ^{C#m}viață
+^{B4}Îți dedică ^{A2}existența ^{E}lor.
+
+[c]
+/: Toate le-ai creat, pe toate mâna Ta le ține,
+Toate-mi spun că Tu ești Dumnezeu.
+Ai trimis suflarea Ta și viață peste mine
+Și mai mult de tot ce ești, Tu ești Tatăl meu. :/
+
+[v2]
+Împărat al slavei, Tu luminii-i ești stăpân,
+Îngerii te laudă și oștirile cerești.
+Vin cu bucurie viața mea să Ți-o închin.
+Vreau să-Ți simt prezența, să-Ți ascult Cuvântul,
+Să Te-aud șoptind că mă iubești.

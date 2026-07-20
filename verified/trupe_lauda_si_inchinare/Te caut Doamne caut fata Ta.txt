@@ -1,14 +1,14 @@
 [title]
-Te caut, Doamne, caut fața Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8uX7oWn9X5g8cX1eT9avMM}, contentHash: {5f9733}}
+Te caut, Doamne, caut fața Ta {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {8uX7oWn9X5g8cX1eT9avMM}, contentHash: {e4b964}}
 
 [sequence]
 v1,c,v2,c
 
 [v1]
-^{G}Te caut, ^{G/C}Doam^{G}ne, ^{Bm}caut fața Ta,
-Te caut, ^{C}Doamne, ^{Am}caut voia ^{D}Ta.
-Tu ești ^{G/C}stân^{G}ca și aju^{Bm}torul meu,
-Mă-ncred în ^{C}Tine, căci ^{Am}Tu ești Dum^{D}nezeu.
+Te caut, Doamne, caut fața Ta,
+Te caut, Doamne, caut voia Ta.
+Tu ești stânca și ajutorul meu,
+Mă-ncred în Tine, căci Tu ești Dumnezeu.
 
 [c]
 /: Arată-mi slava Ta,

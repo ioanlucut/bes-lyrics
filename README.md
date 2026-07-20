@@ -6,7 +6,7 @@ Acest repository conține cântări scrise/folosite de trupele de laudă și în
 
 _inspirat din `EasySlides`, `OpenSongs` și https://www.learnchordal.com/how-to-read-charts_.
 
-Formatul folosit este unul simplu, după cum urmează:
+Formatul folosit este unul simplu, după cum urmează. Fișierele din `verified/` sunt sursa canonică fără acorduri pentru ProPresenter. Variantele cu acorduri pentru PDF se află în `leadsheets/`, au același `id`, aceleași versuri și aceeași structură; `contentHash` se calculează separat pentru fiecare variantă.
 
 ```
 [title]

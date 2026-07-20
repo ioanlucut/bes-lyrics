@@ -1,0 +1,25 @@
+[title]
+Cinste, onoare, glorie, splendoare {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4859}, id: {d5k4ywUCmQqRXr8WbsxqKH}, contentHash: {7156d7}}
+
+[sequence]
+v1,c,v1,c,b,c
+
+[v1]
+^{C}Cinste, ^{Dm/C}onoa^{C}re, glorie, ^{Dm/C}splendoa^{C}re
+^{C}Fie Celui ^{F}din ^{C/G}veș^{Dm/G}ni^{C}cii!
+^{C}Orice ^{Dm/C}națiu^{C}ne, întreaga ^{Dm/C}lu^{C}me
+^{Am}Cântă Celui ^{F}din ^{C/G}veș^{Dm/G}ni^{C}cii.
+
+[c]
+/: Orice limbă-n cer, pe pământ,
+Să-ți declare gloria,
+Orice ființă în fața Ta să cadă.
+Tu vei fi pe veci înălțat
+Și vei împărăți peste noi,
+Cel din veșnicii. :/
+
+[b]
+/: ^{C}Pământul ^{Gm/C}aș^{C}teaptă ^{F}ve^{C}nirea Ta,
+^{Bb}Glorie Celui ^{F}din veșni^{G4-G}cii!
+Să ^{C}cânte ^{Dm/C}tot cerul ^{F}spre ^{C}slava Ta,
+^{Bb}Glorie Celui ^{F}din veșni^{G4-G}cii! :/

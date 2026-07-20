@@ -1,0 +1,13 @@
+[title]
+Nimeni nu-i ca Tin’ {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fKvfMLNN3Z3N7PHJGEHLy3}, contentHash: {9237d6}}
+
+[sequence]
+v1,c,v1,c,v1
+
+[v1]
+/: ^{E}Nimeni ^{B7}nu-i ca ^{C#m}Tin’, ^{A2}nimeni n-a putut ^{E/B}viața-mi schim^{B}ba,
+^{E}Oricât de ^{E7}mult aș cău^{A}ta, n-aș gă^{Am6}si, ^{A/F#}nimeni ^{A2}nu-i ca ^{B4-B}Tin’. :/
+
+[c]
+Dragostea-Ți fără de margini inima mi-a copleșit,
+Sunt în siguranță sub brațul Tău sfânt, nimeni nu-i ca Tin’.

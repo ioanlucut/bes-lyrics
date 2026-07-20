@@ -1,0 +1,26 @@
+[title]
+Tu ești cel tare! {alternative: {*}, composer: {Chris Tomlin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {167046}, id: {gpHosp4Ydpn5HDpAHf5UVn}, contentHash: {3fb936}}
+
+[sequence]
+v1,c,v1,c,b,c
+
+[v1]
+/: ^{Dm}Apa-i schim^{Bb}bat-o-n ^{F}vin,
+^{Dm}Ochi ai des^{Bb}chis orbi^{F}lor,
+Tu ești ^{Gm7}Domnul mi^{C4-C}nunilor!
+^{Dm}Și din ce^{Bb}nușă ne ^{F}scoți,
+^{Dm}Nu e ni^{Bb}mic ce nu ^{F}poți,
+Chiar și-n ^{Gm7}beznă strălu^{C4-C}cești. :/
+
+[c]
+^{Dm}Tu ești cel tare,
+^{Bb}Ești cel mai mare,
+^{F}Ești Dumnezeu fără a^{C}semănare.
+^{Dm}Ești cel ce vindeci,
+^{Bb}Cu-a Ta putere, /: I^{F-C}sus! :/
+
+[b]
+/: Cine ne stă-mpotrivă?
+Cine ne stă în cale?
+Nimic nu ne doboară,
+Cu noi e Dumnezeu! :/

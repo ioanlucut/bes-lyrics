@@ -1,0 +1,24 @@
+[title]
+Domnul în ceruri domnește {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2811}, id: {5YRW2hxZ1a8uofYt6McotC}, contentHash: {d2ada4}}
+
+[sequence]
+v1,p,c,v1,p,c
+
+[v1]
+^{C}Domnul în ceruri domnește,
+Pe tron e așe^{Am}zat,
+^{E}Plin de mărire și-n ^{C}slavă
+E îmbră^{G}cat^{Ab-Bb}.
+
+[p]
+Noi toți, cu sfinte podoabe,
+Stăm în prezența Sa
+Și-n timp ce Îi vom cânta
+Slava Lui vom vedea.
+
+[c]
+/: Căci ^{Am}Domnu-i bun, El în veci iubește,
+Îndu^{C}rarea Lui nu se ^{G}va sfârși.
+Spre-ai ^{Am}Săi copii El cu ^{F}drag privește
+Și-n ^{C}mijlocul laudelor ^{G}noastre
+El va ^{Am}veni^{G}. :/

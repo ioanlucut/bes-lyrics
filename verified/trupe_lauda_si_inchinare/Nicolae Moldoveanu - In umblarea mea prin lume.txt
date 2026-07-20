@@ -1,20 +1,20 @@
 [title]
-În umblarea mea prin lume {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1738}, id: {dB4qVZi76MN1yDbbv2dYgz}, contentHash: {4013d4}}
+În umblarea mea prin lume {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1738}, id: {dB4qVZi76MN1yDbbv2dYgz}, contentHash: {94f4bb}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c,v5,c
 
 [v1]
-^{Cm}În umblarea mea prin lume,
-^{Fm}Prin ispitele ^{Bb}hai^{Eb}ne, ^{G}
-^{Cm}Peste tot, Isuse, Doamne,
-^{Fm}Numai harul ^{G}Tău mă ^{Cm}ține.
+În umblarea mea prin lume,
+Prin ispitele haine,
+Peste tot, Isuse, Doamne,
+Numai harul Tău mă ține.
 
 [c]
-/: ^{Eb}Nu^{Cm}mai harul, ^{Bb}Doamne, numai harul
-^{Bb}Mă păstrează ne-n^{Eb}ce^{G}tat,
-^{Cm}El mă face, ^{Eb}el mă ține
-^{Fm}Credincios cu-^{G}adevă^{Cm}rat. :/
+/: Numai harul, Doamne, numai harul
+Mă păstrează ne-ncetat,
+El mă face, el mă ține
+Credincios cu-adevărat. :/
 
 [v2]
 Pe cărarea curăției

@@ -1,0 +1,35 @@
+[title]
+Nicidecum, nicidecum, niciodată {alternative: {*}, composer: {Costache Ioanid}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5002}, id: {haZ1LC1pBZe7iMvTpGKsSJ}, contentHash: {48a98f}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+Nicide^{E}cum, nicidecum, nicio^{B7}da^{E}tă
+Gândul ^{E}meu altui pas nu-l aș^{B7}tern,
+/: În I^{E}sus viața ^{E7}mea e boga^{A}tă,
+Un iz^{E}vor din e^{B4}tern, ^{B7}în e^{E}tern. :/
+
+[v2]
+Nicăieri, nicăieri, nicio clipă,
+Nu pot fi fericit fără El!
+/: Lângă El, peste-a morții risipă,
+Voi zbura ca un alb porumbel. :/
+
+[v3]
+În dureri, în necazuri și-n moarte,
+Despărțire de Domnul meu nu-i!
+/: Dacă inima nu mă desparte,
+Orice-ar fi, orice-ar fi, sunt al Lui! :/
+
+[v4]
+Vom trăi veșnicii de iubire,
+Mii de ani, zeci de mii, mii de mii!
+/: Când o clipă cu El e-o uimire,
+Ce va fi, ce va fi în veșnicii? :/
+
+[v5]
+Va veni, va veni Cel ce vine,
+Hohotind, Îi voi plânge la piept.
+/: Cât mai bate o inimă-n mine,
+Îl doresc, Îl iubesc, Îl aștept! :/

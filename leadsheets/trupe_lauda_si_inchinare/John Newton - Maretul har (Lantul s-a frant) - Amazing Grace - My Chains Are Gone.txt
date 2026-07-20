@@ -1,0 +1,38 @@
+[title]
+Mărețul har (Lanțul s-a frânt) {alternative: {Amazing Grace; My Chains Are Gone}, composer: {John Newton}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4490}, id: {r9D7zp45VXBgajrY4dAUJU}, contentHash: {3935c7}}
+
+[sequence]
+v1,v2,c,v3,v4,c,e
+
+[v1]
+Mă^{D}rețul har m-a ^{G}mântu^{D}it
+^{D/A}Pe mine din pă^{A}cat.
+/: Pier^{D/F#}dut eram, dar ^{G}m-a ^{D}găsit,
+De ^{D/B}moarte ^{A7}m-a scă^{D}pat. :/
+
+[v2]
+Mărețul har m-a învățat
+S-o rup cu orice rău.
+/: Ce scump mi-e azi tot harul dat,
+Trăiesc prin el mereu. :/
+
+[c]
+/: Lan^{D/F#}țul s-a ^{G}frânt, azi liber ^{D}sunt,
+Răscum^{G/D}pă^{D}rat prin sânge ^{A}sfânt
+Și-n ^{D/F#}mila ^{G}Sa, mi-a dat în ^{D/B}dar,
+Iubirea ^{Em7}Lui, ^{A7}mărețul ^{D}har. :/
+
+[v3]
+Dureri, batjocuri, prigoniri,
+Adesea-am întâlnit.
+/: Prin harul marii Lui iubiri,
+Eu toate-am biruit. :/
+
+[v4]
+Prin har, ajunge-voi în cer,
+Cu slavă îmbrăcat,
+/: Și voi slăvi, în veșnicii,
+Pe Cel ce har mi-a dat. :/
+
+[e]
+/: Iubirea ^{Em7}Lui, ^{A7}mărețul ^{D}har. :/

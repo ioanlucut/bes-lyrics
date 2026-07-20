@@ -1,14 +1,14 @@
 [title]
-Doamne, vin la Tin’ chiar acum {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {g1asgPW8KxLGcrYTD1UrVk}, contentHash: {e1070c}}
+Doamne, vin la Tin’ chiar acum {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {g1asgPW8KxLGcrYTD1UrVk}, contentHash: {1e556e}}
 
 [sequence]
 v1,c,v2,c,e
 
 [v1]
-^{A/C#}Doamne, ^{D}vin la ^{E/G#}Tin’ chiar a^{Asus-A}cum,
-^{A/C#}Ruga ^{D}mea, dorul ^{E/G#}meu să Ți le ^{A}spun.
-^{E/G#}În ^{F#m}^{B/D#}orice zi eu ^{Esus-E}vin,
-^{A/C#}Viața ^{D}mea ^{Bm7}chiar a^{A/E}cum să ^{E}Ți-o în^{Asus-A}chin.
+Doamne, vin la Tin’ chiar acum.
+Ruga mea, dorul meu să Ți le spun.
+În orice zi eu vin,
+Viața mea chiar acum să Ți-o închin.
 
 [c]
 /: Te slăvesc (Te slăvesc) pe Tin’,

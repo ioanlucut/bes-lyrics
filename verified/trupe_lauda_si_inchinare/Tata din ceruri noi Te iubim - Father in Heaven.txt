@@ -1,5 +1,5 @@
 [title]
-Tată din ceruri, noi Te iubim {alternative: {Father in Heaven}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2765}, id: {ciTmPU5dU9YV7Xv67fNFSr}, contentHash: {ff0289}}
+Tată din ceruri, noi Te iubim {alternative: {Father in Heaven}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2765}, id: {ciTmPU5dU9YV7Xv67fNFSr}, contentHash: {16fd0c}}
 
 [sequence]
 v1,c,v1,c
@@ -11,7 +11,7 @@ Vie-mpărăția Ta, prin lauda noastră,
 Noi cu toții preamărim lucrarea Ta.
 
 [c]
-^{E}Binecuvân^{A}tat fii, ^{C#m}o, ^{D}Doamne!
-Cel ce ^{Bm7}ai fost, ești ^{E}și vei ^{A}fi
-^{E}Sfânt și minu^{A}nat, a^{C#m}totputer^{D}nic,
-^{Bm7}Tu vei domni ^{E}în ^{A}veci. ^{(F#)}
+Binecuvântat fii, o, Doamne!
+Cel ce ai fost, ești și vei fi
+Sfânt și minunat, atotputernic,
+Tu vei domni în veci.

@@ -1,5 +1,5 @@
 [title]
-Isus, eu Te iubesc mai mult {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5136}, id: {8EopjdjBGpZS5shB3LiqNr}, contentHash: {bc6336}}
+Isus, eu Te iubesc mai mult {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {5136}, id: {8EopjdjBGpZS5shB3LiqNr}, contentHash: {3c5e6f}}
 
 [sequence]
 v1,p,c,e
@@ -11,14 +11,13 @@ Ești tot ce-mi doresc și toată viața mea Ți-o-nchin,
 Cu tot ce sunt pe Tine Te slăvesc, eu Te slăvesc.
 
 [p]
-Și ^{Am7}înge^{G}rii Te a^{G}do^{D}ră,
-Co^{Am}piii ^{C}Tăi Te lau^{D4}dă. ^{D}
+Și îngerii Te adoră, copiii Tăi Te laudă.
 
 [c]
-/: Ești tot ce ^{G}am, ești Domnul ^{D}meu,
-Mă-ncredin^{Am}țez în brațul ^{D}Tău,
-Ești Domnul ^{G}meu, ești Tatăl ^{D}meu,
-Tu nu poți ^{Am}fi în^{G/B}locu^{D}it. :/
+/: Ești tot ce am, ești Domnul meu,
+Mă-ncredințez în brațul Tău,
+Ești Domnul meu, ești Tatăl meu,
+Tu nu poți fi înlocuit. :/
 
 [e]
 Doar Tu ești Dumnezeu și veșnic Te voi lăuda,

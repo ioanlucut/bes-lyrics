@@ -1,0 +1,33 @@
+[title]
+Rugă {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {k4f1x2Xv3hbAUjbgQvb2N4}, contentHash: {88bc97}}
+
+[sequence]
+v1,v2,v3,v4,v5
+
+[v1]
+^{Gm}Eu Te voi ur^{Bb}ma, toată viața Te voi ^{Dm}lăuda,
+Îmi ^{Gm}plec toată ființa ^{Dm}mea să ^{Eb}facă în veci voia ^{F}Ta,
+O, ce ^{Bb}mult aș vrea!
+
+[v2]
+^{Gm}Eu Te voi ur^{Bb}ma, Tu ești, Doamne, bucu^{Dm}ria mea,
+Îmi ^{Gm}schimbă de-acum ini^{Dm}ma și ^{Eb}umple-o cu dragostea ^{F}Ta,
+E ruga ^{Bb}mea.
+
+[v3]
+^{Gm}Eu Te voi ^{Bb}urma, Doamne prinde-mă în ^{Dm}mana Ta,
+Chiar ^{Gm}apa șuvoi de-ar ve^{Dm}ni și ^{Eb}munții de s-ar prăbu^{F}și
+Nedespăr^{Bb}țiți vom fi^{Gm}.
+
+[v4]
+^{Gm}Doamne, fii ^{Bb}mărit pentru harul Tău ^{Dm}nemărginit!
+Ves^{Gm}tesc azi iubirea ^{Dm}Ta și ^{Eb}cânt despre dragostea ^{F}Ta
+În veci, A^{Bb}leluia!
+
+[v5]
+Eu Te voi urma, toată viața Te voi lăuda,
+Îmi plec toată ființa mea să facă în veci voia Ta,
+O, ce mult aș vrea!
+Eu Te voi urma, Tu-mi ești, Doamne, bucuria mea!
+Îmi schimbă de-acum inima și umple-o cu dragostea Ta!
+E ruga mea, e ruga mea.

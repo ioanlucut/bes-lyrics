@@ -1,0 +1,37 @@
+[title]
+Astăzi mă-nchin Domnului {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2120}, id: {uk8kGsK1iH1qvgM3sBoYYb}, contentHash: {2d6f4a}}
+
+[sequence]
+c,v1.1,v1.2,c,v2.1,v2.2,c
+
+[c]
+/: A^{E}stăzi mă-n^{A}chin Domnu^{E}lui
+^{C#m}Și-I cânt slavă, ^{F#m}căci El,
+Mult ^{B}bine mi-a ^{E}făcut.
+Când eram în strâmto^{D}rare
+Către ^{A}El eu am stri^{E}gat
+Și El ^{F#m}mâna și-a în^{B}tins și m-a sal^{E}vat. :/
+
+[v1.1]
+Mi-a^{E}mintesc de ziua-n ^{A}care
+Dum^{B}nezeu m-a încer^{E}cat,
+A fost ^{A}ziua-n care ^{E/G#}Domnul
+De-L iu^{D}besc m-a între^{B}bat.
+
+[v1.2]
+A fost o ^{G#m}zi deose^{C#m}bită,
+Abia a^{A}cum am înțe^{E}les;
+Că ^{A}Isus mult m-a iu^{F#m}bit
+Și prin ^{A}moartea Sa pe ^{B}cruce ^{B7}m-a a^{E}les.
+
+[v2.1]
+Încercări mereu vin, valuri
+Dar le birui prin Isus.
+Doar în El mi-am pus nădejdea
+Ca s-ajung în ceruri sus.
+
+[v2.2]
+Încercările să vină,
+Prin ele mă întăresc
+Și-ntr-o zi, pe nori de slavă,
+Printre miile de sfinți o să-L zăresc.
