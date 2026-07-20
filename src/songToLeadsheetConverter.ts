@@ -118,8 +118,7 @@ const rewriteNotationsWithDashForChordsWithBass = (
 
   return singleWord.replace(
     /\^(\*?)\{([^}]+)\}/gim,
-    (_match, emphasis, chord) =>
-      `^${emphasis}{${chord.replaceAll('/', '-')}}`,
+    (_match, emphasis, chord) => `^${emphasis}{${chord.replaceAll('/', '-')}}`,
   );
 };
 
