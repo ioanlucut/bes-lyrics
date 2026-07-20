@@ -1,0 +1,18 @@
+[title]
+Oceanele {alternative: {Ține-mă în mâna Ta}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4148}, id: {8GqhRAkYY3eGAJY1NZUw6Z}, contentHash: {b64516}}
+
+[sequence]
+v1,c,v2,c,v2,c
+
+[v1]
+^{C}Ți^{G/B}ne-^{Am}mă în ^{F}mâ^{D/F#}na ^{G}Ta, ^{C}să ^{G/B}m-as^{Am}cunzi în^{F}tinde-Ți ^{Dm}ari^{G}pa.
+
+[c]
+/: Când oceanele cumplit vuiesc,
+Doamne, dă-mi puteri să biruiesc.
+Tată, știu că Tu ești veghetor,
+Stau liniștit, știu că ești Domn. :/
+
+[v2]
+Doar în Hristos mă odihnesc,
+Puterea Sa în liniște-o găsesc.

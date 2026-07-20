@@ -1,5 +1,5 @@
 [title]
-Din gură-n gură salutul {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4885}, id: {xaEGrtmVAAVdt7GpFShQin}, contentHash: {3d937a}}
+Din gură-n gură salutul {alternative: {*}, composer: {Nicolae Moldoveanu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4885}, id: {xaEGrtmVAAVdt7GpFShQin}, contentHash: {96f6a6}}
 
 [sequence]
 v1,v2,v3,v4,v5
@@ -11,10 +11,10 @@ Din gură-n gură salutul: „Hristos a înviat!”
 Măreața veste că viu e Hristos!
 
 [v2]
-^{D}Deci, să ne bucurăm ^{A7}acuma și noi!
-^{A7}Deci, să vă bucurați a^{G}cuma și ^{D}voi!
-^{D/Bm}Murind, puterea morții ^{Em}El nimi^{A7}ci,
-^{A7}De-aceea, ne vom vese^{D}li!
+Deci să ne bucurăm acuma și noi!
+Deci să vă bucurați acuma și voi!
+Murind, puterea morții El nimici:
+De-aceea, ne vom veseli!
 
 [v3]
 De-acum, Isus biruitorul e viu,

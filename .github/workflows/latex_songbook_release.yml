@@ -1,12 +1,13 @@
-name: 'LaTeX Songbook (no chords)'
+name: 'LaTeX Leadsheet Songbook'
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'verified/trupe_lauda_si_inchinare/**'
+      - 'leadsheets/trupe_lauda_si_inchinare/**'
       - 'LaTeX/songbook/**'
+      - 'src/songToLeadsheetConverter.ts'
   workflow_dispatch:
 
 jobs:

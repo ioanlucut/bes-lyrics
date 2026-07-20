@@ -1,5 +1,5 @@
 [title]
-Mări se despart {alternative: {Oceans Will Part}, composer: {Ben Fielding}, writer: {Ben Fielding}, arranger: {*}, interpreter: {Hillsong}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7sjTsqVCWayZyPL7Ci8mCN}, contentHash: {f99e8c}}
+Mări se despart {alternative: {Oceans Will Part}, composer: {Ben Fielding}, writer: {Ben Fielding}, arranger: {*}, interpreter: {Hillsong}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7sjTsqVCWayZyPL7Ci8mCN}, contentHash: {894132}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -11,9 +11,10 @@ Tu-Ți arăți dragostea
 Ca să văd ce-ai făcut.
 
 [v1.2]
-Când nu ^{A}văd drumul ^{D2/A}meu,
-Sprijin ^{A}mi-e brațul ^{D2/A}Tău.
-/: Și des^{F#m}chizi ochii ^{E}mei să-nțe^{D}leg ce-ai fă^{E}cut. :/
+Când nu văd drumul meu,
+Sprijin mi-e brațul Tău.
+/: Și deschizi ochii mei
+Să-nțeleg ce-ai făcut. :/
 
 [c]
 Mări se despart, neamuri vin
@@ -22,11 +23,13 @@ Viața mea Ți-o închin,
 În Tine speranța-mi pun.
 
 [v2.1]
-Și de ^{A}sufăr ^{D2/A}acum mila ^{A}Ta e pe ^{D2/A}drum,
-Când des^{F#m}chizi ochii ^{E}mei să-n^{D}țeleg planul ^{E}Tău.
+Și de sufăr acum
+Mila Ta e pe drum.
+Când deschizi ochii mei
+Să-nțeleg planul Tău.
 
 [v2.2]
-Și mă ^{A}voi bu^{D2/A}cura
-Sigur ^{A}pe calea ^{D2/A}Ta.
-/: Când des^{F#m}chizi ochii ^{E}mei
-Să-nțe^{D}leg planul ^{E}Tău. :/
+Și mă voi bucura
+Sigur pe calea Ta.
+/: Când deschizi ochii mei
+Să-nțeleg planul Tău. :/

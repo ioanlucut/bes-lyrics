@@ -1,14 +1,14 @@
 [title]
-Cu mult în urmă-n Betleem {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1713}, id: {an76SuYBktB1oLxaZy1npQ}, contentHash: {48c588}}
+Cu mult în urmă-n Betleem {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1713}, id: {an76SuYBktB1oLxaZy1npQ}, contentHash: {db8354}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
 
 [v1.1]
-^{G}Cu mult în urmă-n ^{C}Betleem,
-^{Am7}Sfânta ^{D}Biblie ^{G}spune,
-^{G}Maria a ^{C}născut un ^{Am7}Fiu
-În ^{D}seara de Cră^{G}ciun.
+Cu mult în urmă-n Betleem,
+Sfânta Biblie spune,
+Maria a născut un Fiu
+În seara de Crăciun.
 
 [v1.2]
 Și mii de îngeri s-au unit,
@@ -29,7 +29,7 @@ Cerul când a izbucnit
 Către Pruncul iubit.
 
 [v2.2]
-^{G}Cu mult în urmă în ^{C}Betleem
-^{Am}O stea ^{D}mare-a răsă^{G}rit,
-^{G}Ea ne spunea că ^{C}ceru-nt^{Am}reg
-La ^{D}noi s-a cobo^{G}rât.
+Cu mult în urmă în Betleem
+O stea mare-a răsărit,
+Ea ne spunea că ceru-ntreg
+La noi s-a coborât.

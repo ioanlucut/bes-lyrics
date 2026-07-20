@@ -1,0 +1,29 @@
+[title]
+Fiindcă atât de mult a iubit Dumnezeu lumea {alternative: {*}, composer: {Alexandru Groza}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {3971}, id: {6eLSdNz3d7ze6gA62UAoR8}, contentHash: {68d001}}
+
+[sequence]
+c,v1,c,v2,c,v3,c
+
+[c]
+^{F}Fiindcă-atât de mult a iubit Dumne^{C7}zeu lumea
+Că a dat pe singurul Lui ^{F}Fiu.
+Ca oricine crede-n ^{F7}El să nu ^{Bb}piară,
+Ci să ^{F/C}aibă ^{C7}viață ^{F}veșnică.
+
+[v1]
+^{F}Mă-ncredințez în brațul ^{C7}Domnului,
+Nădăjduiesc să fiu pe ^{F}veci al Lui,
+În inimă eu L-am pri^{Bb}mit pe El
+Și vi^{F/C}ața mea îi a^{C7}parține ^{F}Lui.
+
+[v2]
+Știu, Domnul meu, El e-ngăduitor,
+Știu, Domnul meu, El este răbdător,
+Știu, Domnul meu, El este prietenos,
+Binevoitor, El e nespus de bun.
+
+[v3]
+Acum este momentul potrivit,
+Întoarceți-vă ca să fiți primiți!
+Veniți la Domnul, în El vă-ncredeți,
+Alegeți-vă viața veșnică!

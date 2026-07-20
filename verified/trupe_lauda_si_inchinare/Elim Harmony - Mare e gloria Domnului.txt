@@ -1,26 +1,22 @@
 [title]
-Mare e gloria Domnului! {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103349}, id: {c49j6hUd8aWJWVoiFwB9Wn}, contentHash: {78d834}}
+Mare e gloria Domnului! {alternative: {*}, composer: {Elim Harmony}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {103349}, id: {c49j6hUd8aWJWVoiFwB9Wn}, contentHash: {83cd30}}
 
 [sequence]
 c,v1.1,v1.2,c,v2.1,v2.2,c,b,c,b2
 
 [v1.1]
-^{Dm}Domnul pentru mine a ^{BbMaj7}murit,
-A^{F}min, a^{C}min,
-În ^{Dm}sânge sfânt Isus a bi^{BbMaj7}ruit,
-A^{F}min, a^{C}min.
+Domnul pentru mine a murit, amin, amin,
+În sânge sfânt Isus a biruit, amin, amin.
 
 [v1.2]
-A ^{Dm}fost mort, dar ^{Bb}azi e viu,
-A^{F}min, ^{C4}a^{C}min,
-^{Dm}Stă la dreapta Tatălui ^{BbMaj7}divin,
-A^{F}min, ^{C4-C}amin.
+A fost mort, dar azi e viu, amin, amin,
+Stă la dreapta Tatălui divin, amin, amin.
 
 [c]
-^{F}Mare e glo^{Gm7}ria Domnu^{F/A}lui pu^{Bb2}ternic,
-^{F}Mare e glo^{Gm7}ria Domnu^{F/A}lui! ^{Bb2}
-Îl voi ^{F}lăuda cu ^{Gm7}tot ce sunt pe ^{F/A}Cel Pu^{Bb2}ternic,
-^{Gm7}Mare e glo^{C}ria ^{F}Lui.
+Mare e gloria Domnului puternic,
+Mare e gloria Domnului!
+Îl voi lăuda cu tot ce sunt pe Cel Puternic,
+Mare e gloria Lui.
 
 [v2.1]
 Pe nedrept a fost batjocorit, amin, amin,
@@ -31,8 +27,8 @@ Azi, iubirea Lui e peste noi, amin, amin,
 Aleluia, El va reveni, amin, amin.
 
 [b]
-/: ^{F}Tu ești Acel ce-a fost, ^{C}Tu ești Acel ce ești,
-^{Dm}Tu ești Acel ce va ^{Bb}veni. :/ ^{Bb}Cân^{C}tă!
+/: Tu ești Acel ce-a fost, Tu ești Acel ce ești,
+Tu ești Acel ce va veni. :/ Cântă!
 
 [b2]
-^{Gm7}Mare e glo^{C}ria ^{F}Lui!
+Mare e gloria Lui!

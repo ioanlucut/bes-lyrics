@@ -63,7 +63,8 @@ Multiple validators ensure data quality:
 4. Generate formatted output (text/LaTeX)
 
 ## File Structure
-- `verified/` - Validated song lyrics in custom format
+- `verified/` - Chord-free canonical lyrics published to ProPresenter
+- `leadsheets/` - Chorded song variants used for PDF generation
 - `candidates/` - New songs pending review
 - `LaTeX/` - Songbook generation templates and output
 - `bin/` - CLI validation and processing tools
@@ -74,7 +75,7 @@ Multiple validators ensure data quality:
 Before creating or editing songs, writing or auditing Leadsheets TeX, changing chord rendering or songbook layout, or diagnosing PDF compilation:
 
 1. Load `skills/bes-song-leadsheets/SKILL.md`.
-2. Choose the canonical BES-source, direct-TeX, or audit route.
+2. Choose the chord-free canonical, paired lead-sheet, direct-TeX, or audit route.
 3. Use the capability map and search the official manual for exact package semantics.
 
 The skill documents the complete Leadsheets v0.7 capability surface without vendoring the upstream manual or package.

@@ -1,0 +1,19 @@
+[title]
+Ochii Domnului, plini de dragoste privesc {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {57825}, id: {rDSthPmVuLAMyYaHw51W1V}, contentHash: {4f6184}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+^{G}Ochii Domnului, plini de dragoste pri^{Am}vesc
+Inimile tu^{D}turor care ^{C/G}nu-L cu^{G}nosc.
+^{G}Mâna Domnului întinsă e și azi spre ^{Am}noi.
+Întinde mâna ta și ^{D}tu, nu mai pri^{C/G}vi-na^{G}poi!
+^{G}Înapoi de mergi, nu mai ai ce întâl^{Am}ni,
+Doar viață plină de ne^{D}caz
+Întoarce-^{D/C}te la ^{D7}Domnul, ^{G}azi!
+
+[c]
+/: ^{G7}Șoptește-I: „^{C}Iartă-mă, ia vina ^{G}mea!”
+^{Em}Isus e lângă ^{A/G-D/F#}tine,
+Vrea să intre-n viața ^{G}ta. :/

@@ -1,0 +1,59 @@
+[title]
+Ce mare ești {alternative: {*}, composer: {Dan Muncaciu}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {199070}, id: {v5jKun8tqoXXPss83JiQ3B}, contentHash: {d991d2}}
+
+[sequence]
+v1.1,v1.2,p,c1.1,c1.2,v2.1,v2.2,c1.1,c1.2,b1.1,b1.2,p,c1.1,c1.2
+
+[v1.1]
+În ^{F#4}Tine una ^{B}suntem,
+Un Tată noi a^{G#m}vem.
+O putere ^{F#/D#}ne-a fost da^{E}tă,
+Cu ^{E/C#}El înain^{F#4}tăm.
+
+[v1.2]
+Un sânge ne e iertarea
+Și dragostea de El,
+Pe noi de cer ne leagă,
+Isus este cu noi.
+
+[p]
+Mi^{E2/G#}nunat ești, Domnul ^{F#/A#}nostru,
+Tu pe ^{G#m}nume ne-ai che^{F#/D#}mat,
+Sla^{E2/G#}va Ta azi umple ^{F#/A#}templul,
+Doamne ^{G#m}mare, fii lău^{F#}dat!
+
+[c1.1]
+Ce mare ești, ce mare ești,
+Tu meriți toată gloria,
+A Ta e toată slava.
+Ce mare ești,
+
+[c1.2]
+Ce mare ești,
+În fața Ta se pleacă toate.
+Ești Domnul nostru drag,
+Ce mare ești.
+
+[v2.1]
+Pute^{G4}rea Ta cea ^{C}mare
+Și Numele Tău ^{Am}sfânt,
+Ne dau azi ^{G/E}biruin^{F2}ța,
+Pân’ la ^{F/D}capăt să pă^{G4}șim.
+
+[v2.2]
+Credința noastră ^{C}stă
+În cuvântul ce l-ai ^{Am}spus:
+„Voi fi cu ^{G/E}voi în ^{F2}lume,
+Pân’ la ^{F/D}capăt eu vă-n^{G4-G}drum.”
+
+[b1.1]
+/: În ^{C}picioare noi vom sta,
+Prin ^{G}Numele Tău ^{Am}mare, ^{F2}Doam^{C}ne!
+Ne vom ancora
+În ^{G}tot ce ne-ai ^{F/G}promis.
+
+[b1.2]
+Împre^{C}ună toți vom sta,
+A^{G}proape toți de ^{Am}Tine, ^{F2}Doam^{C}ne!
+Nu vom renunța,
+Cu ^{G}noi ești Tu, ^{F/G}Isus. :/

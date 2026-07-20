@@ -1,0 +1,23 @@
+[title]
+Singurul motiv de laudă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {fq1SCsWEwYNdKjNPynr7jK}, contentHash: {3ba290}}
+
+[sequence]
+v1.1,v1.2,c,v1.1,v1.2,c
+
+[v1.1]
+^{Am}Singurul motiv de ^{F}laudă
+^{C}Ești doar Tu, Domnul ^{G}meu.
+^{Am}Singur, înălțat pe pă^{F}mânt și în cer,
+^{C}Ești Isus tot me^{G}reu.
+
+[v1.2]
+Ade^{Am}vărul Tău e sal^{F}varea mea,
+Ești ^{C}lumină în noaptea cea ^{G}grea.
+Tu ești ^{Am}dragostea, ești iu^{F}birea mea,
+Și în ^{C}veci Îți voi cân^{G}ta.
+
+[c]
+/: Atotpu^{Am}ternic peste po^{F}poare,
+Ești mă^{F}reț, ești plin de splen^{G}doare.
+În valul ^{Am}greu, ești Stâncă ^{F}tare
+Și nu e ^{C}nimeni cum ești ^{G}Tu^{Am}. :/

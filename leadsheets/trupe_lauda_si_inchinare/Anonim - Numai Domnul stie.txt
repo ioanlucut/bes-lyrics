@@ -1,0 +1,33 @@
+[title]
+Numai Domnul știe {alternative: {*}, composer: {Anonim}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195608}, id: {mub65Lmkeuk5VBVgxyw7YV}, contentHash: {1fd0a1}}
+
+[sequence]
+v1,c1.1,c1.2,v2,c1.1,c1.2,v3,c1.1,c1.2
+
+[v1]
+^{Am}Numai Domnul știe gândurile ^{F}tale,
+Numai ^{C}Domnul, numai ^{G}Domnul.
+Numai ^{Am}El îți șterge lacrimile ^{F}tale,
+Numai ^{C}Domnul, numai ^{E}Domnul.
+
+[c1.1]
+Numai ^{Am}El te înțelege, poate ^{F}lanțuri să dezlege.
+Și trans^{C}formă-n biruință clipe ^{G}lungi de suferință.
+
+[c1.2]
+Doar El ^{Am}te-a purtat pe brațe,
+Cel vi^{F}clean să nu te-atace,
+El te-a ^{C}smuls din întuneric,
+Domnul, ^{E}Cel Atotpu^{Am}ternic.
+
+[v2]
+Numai Domnul ascultă rugăciunea în taină,
+Numai Domnul, numai Domnul.
+Numai Domnul iți albește a ta haină,
+Numai Domnul, numai Domnul.
+
+[v3]
+Numai Domnul face prin pustiu o cale,
+Numai Domnul, numai Domnul.
+Numai El e steagul biruinței tale,
+Numai Domnul, numai Domnul.

@@ -1,13 +1,13 @@
 [title]
-Nu vă mai gândiți la ce a fost ‘nainte {alternative: {Lucruri noi}, composer: {Nicu Clipa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195513}, id: {9hCRCwH45EQYapqs8Vo4bU}, contentHash: {2c1e0a}}
+Nu vă mai gândiți la ce a fost ‘nainte {alternative: {Lucruri noi}, composer: {Nicu Clipa}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {195513}, id: {9hCRCwH45EQYapqs8Vo4bU}, contentHash: {784ad2}}
 
 [sequence]
 v1,v2,c1.1,c1.2,v3,c1.1,c1.2,b,c1.1,c1.2
 
 [v1]
-^{D}Nu vă mai gândiți la ce a fost ‘nainte,
-^{D/B}Nu vă mai uitați la lucruri vechi, trecute.
-^{G}Iată, Eu voi face, Eu voi face lucruri ^{D}noi!
+Nu vă mai gândiți la ce a fost ‘nainte,
+Nu vă mai uitați la lucruri vechi, trecute.
+Iată, Eu voi face, Eu voi face lucruri noi!
 
 [v2]
 Lucrări mari veți vedea mai mult decât ‘nainte,
@@ -30,5 +30,5 @@ Mâinile-ntăriți, în Mine vă încredeți,
 Iată, Eu voi face, Eu voi face lucruri noi!
 
 [b]
-/: A^{A}tunci șchiopii vor sări, ^{G}orbii vor vedea,
-^{A}Surzii vor auzi, iar gla^{G}sul celor muți va ^{A4-A}cânta! :/
+/: Atunci șchiopii vor sări, orbii vor vedea,
+Surzii vor auzi, iar glasul celor muți va cânta! :/

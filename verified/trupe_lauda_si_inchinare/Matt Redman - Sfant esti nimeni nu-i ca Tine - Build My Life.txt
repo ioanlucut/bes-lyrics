@@ -1,5 +1,5 @@
 [title]
-Sfânt ești, nimeni nu-i ca Tine {alternative: {Build My Life}, composer: {Matt Redman}, writer: {Matt Redman}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {189324}, id: {vQ9VrucBegcLw3FdrDoWKQ}, contentHash: {40f75b}}
+Sfânt ești, nimeni nu-i ca Tine {alternative: {Build My Life}, composer: {Matt Redman}, writer: {Matt Redman}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {189324}, id: {vQ9VrucBegcLw3FdrDoWKQ}, contentHash: {137098}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c
@@ -31,5 +31,7 @@ Vrednic de tot ce sunt toată viața mea,
 /: Ești Tu, Isus! :/
 
 [b]
-/: ^{A2}Voi zidi pe-a ^{B4}Ta iubire, ^{C#m7}e o temelie ^{E/G#}tare.
-^{A2}Voi trăi doar ^{B4}prin credință, ^{C#m7}neclintit în ^{E/G#}orice vreme! :/
+/: Voi zidi pe-a Ta iubire,
+E o temelie tare.
+Voi trăi doar prin credință,
+Neclintit în orice vreme. :/

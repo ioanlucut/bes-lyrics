@@ -1,20 +1,20 @@
 [title]
-Ne vom aduce mereu aminte {alternative: {*}, composer: {Tommy Walker}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157566}, id: {pGw6wDG2zaDZkkL8PCL28Q}, contentHash: {3a95c3}}
+Ne vom aduce mereu aminte {alternative: {*}, composer: {Tommy Walker}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {157566}, id: {pGw6wDG2zaDZkkL8PCL28Q}, contentHash: {f36363}}
 
 [sequence]
 c,v1,v2,c,v3,b,c,v4,c
 
 [c]
-/: ^{D}Ne vom aduce ^{G}mereu aminte,
-^{D}Vom spune lumii lu^{Bm}crările-Ți ^{Am7}mari,
-^{D}Vom striga: „^{G}O, cât de mare
-E ^{D/A}credincio^{A7}șia ^{D}Ta!” :/ ^{G-F#m-Em-D}
+/: Ne vom aduce mereu aminte,
+Vom spune lumii lucrările-Ți mari,
+Vom striga: „O, cât de mare
+E credincioșia Ta!” :/
 
 [v1]
-^{D}Ești Creatorul, ^{G}Susținătorul,
-^{D}Mângâietorul, iu^{Bm}bit Salva^{A}tor!
-^{D}Și peste vremuri, ^{G}ne-ai fost scăpare,
-Ne-ai ^{D/A}dat pace, ^{A7}chiar în fur^{D}tuni. ^{G-F#m-Em-D}
+Ești Creatorul, Susținătorul,
+Mângâietorul, iubit Salvator!
+Și peste vremuri ne-ai fost scăpare,
+Ne-ai dat pace, chiar în furtuni.
 
 [v2]
 Prin multe semne Ți-arăți puterea,

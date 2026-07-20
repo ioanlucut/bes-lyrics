@@ -1,14 +1,16 @@
 [title]
-Din adâncul inimii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74510}, id: {3RJ6DXTii41wKamgxDCtUx}, contentHash: {9a9a83}}
+Din adâncul inimii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74510}, id: {3RJ6DXTii41wKamgxDCtUx}, contentHash: {6144a0}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-^{C}Din adâncul inimii, pe I^{F}sus vreau a-L ves^{C}ti
-Și să-I ^{G}cânt mereu un ^{G7}mare ale^{C}luia!
-^{C}Vreau să spun întregii lumi Dumne^{F}zeu cât e de ^{C}bun,
-Împre^{G}ună să-I cân^{G7}tăm toți ale^{C}luia!
+Din adâncul inimii,
+Pe Isus vreau a-L vesti
+Și să-I cânt mereu un mare aleluia!
+Vreau să spun întregii lumi,
+Dumnezeu cât e de bun,
+Împreună să-I cântăm toți aleluia!
 
 [c]
 /: Aleluia, Te laudă al meu suflet,

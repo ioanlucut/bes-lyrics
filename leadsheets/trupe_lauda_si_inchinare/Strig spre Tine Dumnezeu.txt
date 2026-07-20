@@ -1,0 +1,40 @@
+[title]
+Strig spre Tine, Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {pBZkmcS4RZPvecgih6oHLk}, contentHash: {f16fda}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,b,c
+
+[v1.1]
+^{C#m7}Iată-mă, Isuse,
+^{B}Vreau să mă-nchin în duh și-adevăr.
+^{A}Știu că harul Tău perfect
+^{B}M-a adus aici.
+
+[v1.2]
+Și ^{C#m7}liber stau ‘naintea Ta,
+Îți ^{B}dau acum viața mea,
+Mâini spre ^{F#m}cer am ridi^{C#m}cat
+Fiindcă ^{E}Tu, Isus, m-ai eli^{B}berat.
+
+[c]
+Strig spre Ti^{E}ne, Dumnezeu,
+Să răsu^{B}ne pân’ la cer:
+Eu sunt al ^{E/C#m}Tău, sunt al ^{A}Tău!
+
+[v2.1]
+A^{C#m7}tâta bine ne-ai ^{C#m}făcut
+Să ^{B}vadă toți aș vrea, Isus,
+Tu ^{A}ești singurul
+Ce ^{B}m-aduce pe genunchi.
+
+[v2.2]
+^{C#m7}Să văd azi frumusețea Ta,
+Să-^{B}Ți răspândesc și dragostea.
+Mâini spre ^{F#m7}cer am ridi^{C#m7}cat
+Fiindcă ^{E}Tu, Isus, m-ai elibe^{B}rat.
+
+[b]
+Sunt aici, acum,
+Cu mâini întinse.
+Numai Tu, Isus,
+/: Ești veșnic Dumnezeu! :/

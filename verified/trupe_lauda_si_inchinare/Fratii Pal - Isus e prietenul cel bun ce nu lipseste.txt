@@ -1,14 +1,14 @@
 [title]
-Isus e prietenul cel bun ce nu lipsește {alternative: {*}, composer: {Fratii Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4466}, id: {u5ffRxhPe65KWWGyCrtbtB}, contentHash: {a1a4e8}}
+Isus e prietenul cel bun ce nu lipsește {alternative: {*}, composer: {Fratii Pal}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4466}, id: {u5ffRxhPe65KWWGyCrtbtB}, contentHash: {074326}}
 
 [sequence]
 v1,c,v2,c,v3,c,v4,c
 
 [v1]
-Isus e ^{D}prietenul cel bun ^{e}ce nu lipsește
-De oriși^{A}unde, oriși^{A7}când este ^{D}chemat
-El te as^{D}cultă, cu-ai Lui ochi El ^{e}te privește
-Și, zi de ^{A}zi, pe brațul ^{A7}Lui tu ești ^{D}purtat.
+Isus e prietenul cel bun ce nu lipsește
+De orișiunde, orișicând este chemat
+El te ascultă, cu-ai Lui ochi El te privește
+Și, zi de zi, pe brațul Lui tu ești purtat.
 
 [c]
 Ce fericire când șoptești:

@@ -1,0 +1,30 @@
+[title]
+În orice suflet e-un tainic dor {alternative: {*}, composer: {Continental}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2860}, id: {4V9wwnRZkf7CTYbJLKcCDT}, contentHash: {818f22}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+În orice ^{G2}suflet e-un tainic ^{D2}dor
+^{C2}Aprins în noapte sau stins și ^{G-D4}gol,
+Dor de lu^{G2}mină, de veșni^{D2}cie,
+Ascuns în ^{C2}inimi de Dumne^{G}zeu.
+
+[c]
+/: Poartă-ți lumina prin întuneric
+În noaptea făr’ de nădejdi pe drum,
+De neclintit far să-ți fie viața,
+Pași să-ndrepte pe drumul bun!
+Lasă-n inimi un dor de cer! :/
+
+[v2]
+Pe calea noastră mereu găsim
+Lumini căzute și stinse-n vânt,
+Și mulți încearcă să țină aprinsă
+O amăgire, un dor străin.
+
+[v3]
+Să lași în urmă numai lumină
+Pe drumul celor ce-au rătăcit,
+Arată calea, aprinde inimi
+Și dă speranță prin Duhul Sfânt.

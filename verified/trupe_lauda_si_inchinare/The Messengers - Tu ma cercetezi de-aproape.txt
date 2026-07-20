@@ -1,5 +1,5 @@
 [title]
-Tu mă cercetezi de-aproape {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58041}, id: {sndwaMn41QbgoMpQKkpzf4}, contentHash: {acfe0d}}
+Tu mă cercetezi de-aproape {alternative: {*}, composer: {The Messengers}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {58041}, id: {sndwaMn41QbgoMpQKkpzf4}, contentHash: {0459c0}}
 
 [sequence]
 v1,c,v2,c2
@@ -11,10 +11,10 @@ Unde voi putea, o, Doamne să m-ascund de fața Ta,
 Căci viața e-n mâna Ta?
 
 [c]
-/: Eu Te ^{G}laud, Doamne, ^{C}pentru ce ^{G}sunt,
-^{G}Pentru marea ^{Em}jertfă ^{A}și iubirea ^{D}Ta!
-Viața ^{G}ce-am primit-o ^{C}din mâna ^{G}Ta
-O în^{Em}chin ca laudă ^{D}pentru slava ^{G}Ta. :/
+Eu Te laud, Doamne, pentru ce sunt,
+Pentru marea jertfă și iubirea Ta.
+Viața ce-am primit-o din mâna Ta
+O închin ca laudă pentru slava Ta.
 
 [v2]
 Când cei răi mă înconjoară și cu ură mă privesc,

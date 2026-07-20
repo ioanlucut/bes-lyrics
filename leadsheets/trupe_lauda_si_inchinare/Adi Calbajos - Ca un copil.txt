@@ -1,0 +1,29 @@
+[title]
+Ca un copil {alternative: {*}, composer: {Adi Calbajos}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {121522}, id: {q3vejaZNiayLcxCFxW2Bwp}, contentHash: {5f6c8e}}
+
+[sequence]
+c1.1,c1.2,v1,c1.1,c1.2,v2,c1.1,c1.2
+
+[v1]
+^{B}Ca un co^{G#m}pil mă ^{F#}țin de brațul ^{B}Tău,
+Tu mă cu^{G#m}noști, vezi ^{F#7}pașii mei me^{B}reu.
+Cu bună^{G#m}tate me^{F#}reu mă încon^{B}jori
+Și-mi amin^{G#m}tești de ^{F#7}mila Ta din ^{B}zori.
+
+[c1.1]
+/: Vreau sufle^{E/B}tul să mi-l î^{B}nalți,
+Să mă i^{E}nunde Du^{F#}hul ^{G#m}Tău,
+De dragos^{E/B}te vreau să fiu ^{B}plin
+Doamne, Te ^{F#4-F#}rog!
+
+[c1.2]
+Lasă Cuvântul Tău sfințit
+Să-mi schimbe inima acum,
+Viața să-mi fie ca un dar, pe-al Tău altar.
+Doamne, Te rog! :/
+
+[v2]
+Ești Tatăl meu, cu dragoste mă ții,
+Să Te slujesc vreau, Doamne-n orice zi!
+Mă-nchin cu drag acum, în fața Ta,
+Sunt fiul Tău și-mi place voia Ta!

@@ -1,0 +1,23 @@
+[title]
+Cântă Israel că Dumnezeu e Domnul {alternative: {*}, composer: {Cor copii Dynamis}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {ihzCV1Ji34WW2PUVtBmSoa}, contentHash: {b58b2e}}
+
+[sequence]
+c,v1,c2,c,v2,c2,e
+
+[c]
+/: Cântă Israel că Dumnezeu e Domnul, aleluia!:/
+
+[v1]
+Să Îl iu^{Eb}bești pe Domnul Dumne^{Bb}zeul tău ^{Cm}cu toată^{Eb-Bb} inima
+Și vi^{Eb}ața ta să ^{Bb}Îi aducă ^{Cm}toată gloria^{Cm-G}.
+
+[c2]
+^{Cm}El este-al nostru ^{Bb}Rege ^{Cm}și prin pustiu ^{Bb}ne tre^{Cm}ce^{Cm}.
+‘Naintea Lui noi ^{Bb}ne ple^{Cm}căm ^{Ab}și jertfa noas^{G}tră Îi închinăm.
+
+[v2]
+Călăuzirea Lui în stâlp de nor și stâlp de foc ne-a apărat,
+Pe drumul greu doar mâna Sa mereu ne-a protejat!
+
+[e]
+/: Cântă Israel că Dumnezeu e Domnul, aleluia! :/ (x3)

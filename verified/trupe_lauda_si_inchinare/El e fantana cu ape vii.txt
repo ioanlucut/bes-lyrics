@@ -1,5 +1,5 @@
 [title]
-El e fântâna cu ape vii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {779}, id: {g6rKgAweS9xZu4b9fUYUS8}, contentHash: {764063}}
+El e fântâna cu ape vii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {779}, id: {g6rKgAweS9xZu4b9fUYUS8}, contentHash: {4a4d51}}
 
 [sequence]
 c,v1.1,v1.2,c,v2,c,v3,c
@@ -11,17 +11,16 @@ Cine pe pământ, cine-n ceruri sus e ca Domnul meu,
 E ca Domnul meu, Isus?
 
 [v1.2]
-^{B}Fără El, flă^{F#m}mând și ^{E}însetat,
-^{B}Rătăceam în ^{F#m}lumea largă, ^{E}neaju^{F#4-F#}torat,
-^{B}Dar când m-a ^{B7}găsit, El m-a ^{E}sătu^{Em}rat
-^{B}Și mi-a dat să ^{D#m}beau,
-^{G#m}El mi-a dat să ^{B/F#}beau din harul ^{F#4-F#}Său.
+Fără El, flămând și însetat,
+Rătăceam în lumea largă, neajutorat,
+Dar când m-a găsit, El m-a săturat
+Și mi-a dat să beau, El mi-a dat să beau, din harul Său.
 
 [c]
-^{B}El e fântâ^{B-F#/A#-G#m}na cu ape vii,
-^{E}Nimic în ^{B}lume nu-L ^{C#m}poate-n^{F#4-F#}locui,
-^{B}Stânca de vea^{B-F#/A#-G#m}curi, Păstorul meu,
-^{E}Râul vie^{B}ții, de-a ^{C#m-F/D#-E-F#-B4-B}pururi Dumnezeu!
+El e fântâna cu ape vii,
+Nimic în lume nu-L poate-nlocui,
+Stânca de veacuri, Păstorul meu,
+Râul vieții, de-a pururi Dumnezeu!
 
 [v2]
 O, ce fericit sunt cu Domnul meu,

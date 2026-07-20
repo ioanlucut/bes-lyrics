@@ -1,0 +1,29 @@
+[title]
+M-a aflat al meu Păstor bun {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {63204}, id: {wt1oqkEUhCRJp3gqmmRV1R}, contentHash: {aa9ab6}}
+
+[sequence]
+v1,c,v2,c,v3,c
+
+[v1]
+^{C}M-a aflat al meu Păs^{G}tor bun
+Și pe ^{F/C}bra^{C}țe^{G7}le-I m-a ^{C}pus,
+Din a^{C}dânc, unde ză^{G}ceam eu,
+La lu^{F/C}mi^{C}nă ^{G7}m-a a^{C}dus.
+
+[c]
+/: Ale^{Am}lu^{G}ia, ^{F/C}alelu^{C}ia,
+Sună ^{Am}azi ^{G}cân^{F/C}tarea ^{C}mea.
+Fie ^{C}Domnului mă^{G}rire
+Că mi-a ^{F/C}dat ^{C}ier^{G7}tarea-n ^{C}dar. :/
+
+[v2]
+Doamne, Tu mi-ai dat iubire
+Și m-ai pus pe calea Ta.
+Simt cum mâna Ta mă poartă
+Fericit spre țara mea.
+
+[v3]
+M-a spălat în al Său sânge
+O, cât sunt de fericit!
+Harul Său mă va susține
+Credincios pân’ la sfârșit.

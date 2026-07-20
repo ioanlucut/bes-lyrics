@@ -1,20 +1,22 @@
 [title]
-Dar din Paradis {alternative: {*}, composer: {Cristi și Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uzkzbfEph8e7ZqiWx3omrC}, contentHash: {76ac70}}
+Dar din Paradis {alternative: {*}, composer: {Cristi și Emma Repede}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {uzkzbfEph8e7ZqiWx3omrC}, contentHash: {55ec95}}
 
 [sequence]
 p,v1,p,c,v2,p,c,p
 
 [v1]
-^{Ab}Sunt fericit, cerul mi-a ^{Ebm}dăruit,
-Tot ce eu ^{Db}am do^{Dbm}rit în ^{Ab}via^{Eb}ță.
-Îmi ^{Ab}amintesc, când eu te-am ^{Ebm}întâlnit,
-Soarele ^{Db}mi-a zâm^{Dbm}bit ^{Ab}fru^{C7}mos.
+Sunt fericit, cerul mi-a dăruit,
+Tot ce eu am dorit în viață.
+Îmi amintesc, când eu te-am întâlnit,
+Soarele mi-a zâmbit frumos.
 
 [p]
-^{Fm}Printre miile de flori, curcu^{Db}beul în culori,
-Am pri^{Ab}vit, te-am ză^{Eb}rit.
-^{C7}Nu ști^{Fm}am că tu erai darul ^{Db}meu trimis din rai.
-Darul ^{Ab}meu, tu e^{Eb}rai!
+Printre miile de flori,
+Curcubeul în culori
+Am privit, te-am zărit.
+Nu știam că tu erai
+Darul meu trimis din rai.
+Darul meu, tu erai.
 
 [c]
 Iubirea ta e un dar din Paradis

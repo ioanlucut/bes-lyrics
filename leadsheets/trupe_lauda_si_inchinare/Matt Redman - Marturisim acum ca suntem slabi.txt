@@ -1,0 +1,24 @@
+[title]
+Mărturisim acum că suntem slabi {alternative: {*}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {778}, id: {u8vrpSWAGDcpmvcsFhJRiL}, contentHash: {6ad1f3}}
+
+[sequence]
+v1,p,c
+
+[v1]
+^{A}Mărturisim acum că ^{D}suntem ^{A}slabi,
+A^{D}șa de ^{A}slabi, dar ^{E}Tu ești ^{A}Domn.
+Chiar dacă n-avem nimic ^{D}să-Ți ofe^{A}rim,
+Ve^{D}nim și Îți ^{A/C#}spunem: Doamne-a^{E}jută-^{A}ne!
+
+[p]
+^{Bm}O inimă care e ^{A/C#}zdrobită^{D},
+Nicicând n-o vei refu^{E}za,
+^{Bm}Inima Ta bate plină de mi^{A/C}lă pentru noi^{D},
+Să curgă râul din ^{E}Duhul Tău,
+^{A/E}Doamne, Te rugăm^{A}!
+
+[c]
+/: ^{A}Lasă mila Ta să cadă,
+Să curgă ^{D}mila Ta din ^{E}cer,
+E nouă zi de zi,
+O, ^{F#m}las-o să cadă ^{D}peste ^{A}noi! :/

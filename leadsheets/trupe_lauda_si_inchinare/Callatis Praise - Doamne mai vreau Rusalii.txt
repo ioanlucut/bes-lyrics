@@ -1,0 +1,34 @@
+[title]
+Doamne, mai vreau Rusalii {alternative: {*}, composer: {Callatis Praise}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4431}, id: {d7CL5n8SsKJcdTjgj9gYEH}, contentHash: {03ae8b}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,b,c
+
+[v1.1]
+^{F}Doamne, mai vreau Ru^{C}salii cu limbi de ^{Dm}foc,
+Să le îm^{Bb}prăștii pe fie^{F/A}care,
+Să ne a^{C}tingi cu Duhul ^{Bb}Tău^{C}!
+
+[v1.2]
+^{F}Doamne, vreau o tre^{C}zire
+Și într-un ^{Dm}gând și o ^{Bb}simțire
+Să fim cu ^{F}toții și să cân^{C7}tăm în limbi o ^{Bb}mie!
+
+[c]
+/: Tu faci cerul să co^{F}boa^{C}re, naști în inimă iz^{Dm}voa^{Bb}re,
+O, Duh prea^{F}sfânt, dă-ne Ru^{C}salii, o, Duh prea^{Bb}sfânt! :/
+
+[v2.1]
+Doamne, dă-mi bucurie
+Și să mă legi strâns în iubire!
+Doamne, eu vreau, vreau tot mai mult din Duhul Tău!
+
+[v2.2]
+Doamne, mai vreau sfințire
+Și-un foc adânc să ardă-n mine,
+Pe veșnicii să fiu al Tău în nemurire!
+
+[b]
+Doamne, vreau o trezire
+Și într-un gând și o simțire
+Să fim cu toții și să cântăm în nemurire!

@@ -1,0 +1,15 @@
+[title]
+Ai un loc la cruce și tu {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {74544}, id: {5G3EMXXLQE95J16RDj1jw5}, contentHash: {ecd870}}
+
+[sequence]
+c,v1
+
+[c]
+/: Ai un loc la cruce și tu,
+Ai un loc la cruce și tu,
+Unde mulți au venit și tu poți fi primit,
+Ai un loc la cruce și tu! :/
+
+[v1]
+/: ^{E}Îl iubesc pe Isus, ^{B7}Îl iubesc pe ^{E}Isus,
+Îl ^{G#m}iubesc pe ^{C#m}I^{A}sus că-^{F#m}ntâi El ^{B7}m-a iu^{E}bit! :/

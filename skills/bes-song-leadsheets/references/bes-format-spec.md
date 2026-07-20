@@ -8,7 +8,7 @@
 4. Subsections (Split/Rejoin Behavior)
 5. Title Metadata Contract
 6. Character and Content Constraints
-7. Chord Markup in BES Source
+7. Chord Markup in Lead-Sheet Source
 8. Validation Failure Patterns
 9. Authoring Checklist
 
@@ -161,21 +161,22 @@ Parser-side behavior:
 
 ## Character and Content Constraints
 
-Allowed characters are constrained by `ALLOWED_CHARS` in `src/constants.ts`.
+Canonical characters are constrained by `ALLOWED_CHARS` in `src/constants.ts`. Lead-sheet chord markers are validated separately.
 
 Important points:
 
 1. Keep Romanian diacritics in canonical forms (`ș`, `ț`, etc.).
 2. Keep typographic apostrophes/quotes consistent (`‘’”„`) where used.
 3. Do not introduce unsupported Unicode variants.
+4. Keep `verified/` chord-free; chord syntax belongs only under `leadsheets/`.
 
 Validator constraint per section:
 
 1. Unique relevant character count must be at most `50` (computed after filtering punctuation-like separators).
 
-## Chord Markup in BES Source
+## Chord Markup in Lead-Sheet Source
 
-Use inline chord markup before syllables:
+Use inline chord markup before syllables only in `leadsheets/**/*.txt`:
 
 1. `^{D}Cântă`
 2. `^*{G}cân` for split-word normalization cases
@@ -211,5 +212,6 @@ Common failures and likely fixes:
 2. Keep section identifiers legal and consecutive.
 3. Keep sequence/content parity exact.
 4. Keep metadata braces and keys well-formed.
-5. Keep chord markup parseable (`^{...}`).
-6. Run `song_audit.ts` and fix any structural or normalization errors before finalizing.
+5. Keep canonical songs chord-free.
+6. Keep lead-sheet chord markup parseable (`^{...}`).
+7. Run `song_audit.ts` and `npm run verify:leadsheets` before finalizing.

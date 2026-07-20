@@ -1,0 +1,47 @@
+[title]
+Îmi va rămâne-n memorie-o zi {alternative: {*}, composer: {Erdei Erika}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {66227}, id: {sjyiYGrdbM3TBCTeppNKAw}, contentHash: {2dde95}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c,v3.1,v3.2,c
+
+[v1.1]
+Îmi va rămâne-n memorie-o zi
+Când s-a schimbat viața mea.
+Ziua aceea mereu o voi ști,
+Semnul iubirii e-n ea.
+
+[v1.2]
+Prieten bun, minunat, iubitor,
+Dorul mi l-a împlinit,
+Vesel voi spune măreața minune
+Cum Domnul meu m-a mântuit!
+
+[c]
+/: ^{D}Glorii din ^{D/B}cer în ^{Em}mine ^{A7}s-au revăr^{D}sat
+^{D}Când, la Cal^{Dm}var, I^{Em}sus m-a ^{A7}elibe^{D}rat.
+^{Em}Povara mi s-a ^{G}dus prin ^{A}harul lui ^{D-A}Isus,
+^{D}Glorii din ^{D/Bm}cer în ^{Em}mine s-au ^{A7}revăr^{D}sat. :/
+
+[v2.1]
+Domnul sigiliul pe inimă-a pus,
+Fiu în familia Sa.
+Sunt curățit de păcat prin Isus,
+O, cât e de bine-i așa!
+
+[v2.2]
+În clipa când eu la El am venit
+Ca un sărman păcătos,
+Har mi-a dat mare, schimbând a mea stare,
+Prin Domnul meu, Isus Hristos.
+
+[v3.1]
+Azi am o nouă nădejde de sus,
+Știu că sunt asigurat.
+Sunt în cer moștenitor cu Isus,
+O, cât e de minunat!
+
+[v3.2]
+Toate le am din acea scumpă zi
+Când m-am smerit și-am crezut.
+Am nestemate, comori minunate,
+Ce ochii nicicând n-au văzut.

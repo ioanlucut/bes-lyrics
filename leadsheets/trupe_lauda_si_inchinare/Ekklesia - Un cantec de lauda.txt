@@ -1,0 +1,29 @@
+[title]
+Un cântec de laudă {alternative: {*}, composer: {Ekklesia}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {62666}, id: {nYiNGfX9UX8pjzMcJPHqQG}, contentHash: {363e92}}
+
+[sequence]
+v1,v2,p,c1.1,c1.2,v1
+
+[v1]
+^{E}Un cântec de laudă e-n ^{C#m}inima mea,
+^{A}Un cântec ce Tu l-ai ^{E}pus,
+Mi-ai dat liber^{B}tate, ca să ^{C#m}pot cân^{B}ta din ^{A}nou.
+
+[v2]
+Ai ^{E}rupt întunericul ^{C#m}din viața mea,
+Mi-ai ^{A}dat bucuria ^{E}Ta,
+Acum eu sunt ^{B}liber ca să ^{C#m}pot cân^{B}ta din ^{E}nou.
+
+[p]
+^{F#m}Isus, Tu ^{A}m-ai răscumpă^{B}rat,
+Duhul ^{B7}Tău Sfânt ^{A}m-a elibe^{E}rat!
+
+[c1.1]
+Dragostea Ta îmi dă curaj
+Să alerg către țintă neîncetat,
+Doar Tu ești Domnul meu, Te voi binecuvânta!
+
+[c1.2]
+Isus, ești fericirea mea,
+Eu cânt de bucurie în fața Ta,
+Doar Tu ești Domnul meu, Te voi binecuvânta!

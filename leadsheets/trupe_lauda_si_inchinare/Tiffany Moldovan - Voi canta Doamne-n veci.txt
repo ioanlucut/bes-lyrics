@@ -1,0 +1,36 @@
+[title]
+Voi cânta, Doamne-n veci! {alternative: {*}, composer: {Tiffany Moldovan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {mQVVKa3hKrNj95tca72Que}, contentHash: {353602}}
+
+[sequence]
+v1,c,v2,c,b,c
+
+[v1]
+^{D}De bucurie-s plin și-Ți voi ^{D/B}cânta,
+Speranța-n inima mea doar Tu mi-ai ^{G}dat.
+Doamne-n veci doar ^{A}Ție-ți voi cân^{D}ta^{G-A}.
+^{D}Cărarea vieții Tu mi-o lumi^{D/B}nezi,
+Și pacea-n suflet mereu mi-o dăru^{G}iești,
+De aceea Doamne-n ^{A}veci îți voi cân^{D}ta^{A}.
+
+[c]
+Voi cânta Doamne-n veci,
+Voi vesti cât de mult ai lucrat,
+Ajutor Tu mi-ai dat
+Când în rugă smerit Te-am chemat.
+Vrednic ești, în veci voi cânta.
+
+[v2]
+Lacrima Tu mi-ai șters și m-ai primit,
+Doamne m-ai întărit, fii-n veci slăvit
+Ruga mi-ai ascultat, de-aceea-Ți cânt.
+Vreau mereu să-mplinesc Cuvântul Tău
+Și-n adevăr să pășesc pe calea Ta.
+Învață-mă să-Ți cânt, o, Domnul meu.
+
+[b]
+/: ^{Bm}Ne vom bizui pe Domnul,
+^{G}Vom chema Numele Lui,
+^{D}Nu ne temem, nu ni-e frică,
+^{A}Dumnezeu este cu noi!
+^{Bm}Brațul Lui e puternic, ^{G}nimeni nu este ca El.
+^{D-C}Cântă Celui care ^{D-G}veșnic ^{D/A}vine când Îl ^{A4}che^{A}mi! :/

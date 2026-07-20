@@ -1,0 +1,35 @@
+[title]
+El e fântâna cu ape vii {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {779}, id: {g6rKgAweS9xZu4b9fUYUS8}, contentHash: {62c67e}}
+
+[sequence]
+c,v1.1,v1.2,c,v2,c,v3,c
+
+[v1.1]
+Astăzi cânt voios că Dumnezeu
+E Stăpânul vieții mele, El e Domnul meu!
+Cine pe pământ, cine-n ceruri sus e ca Domnul meu,
+E ca Domnul meu, Isus?
+
+[v1.2]
+^{B}Fără El, flă^{F#m}mând și ^{E}însetat,
+^{B}Rătăceam în ^{F#m}lumea largă, ^{E}neaju^{F#4-F#}torat,
+^{B}Dar când m-a ^{B7}găsit, El m-a ^{E}sătu^{Em}rat
+^{B}Și mi-a dat să ^{D#m}beau, ^{G#m}El mi-a dat să ^{B/F#}beau, din harul ^{F#4-F#}Său.
+
+[c]
+^{B}El e fântâ^{B-F#/A#-G#m}na cu ape vii,
+^{E}Nimic în ^{B}lume nu-L ^{C#m}poate-n^{F#4-F#}locui,
+^{B}Stânca de vea^{B-F#/A#-G#m}curi, Păstorul meu,
+^{E}Râul vie^{B}ții, de-a ^{C#m-F/D#-E-F#-B4-B}pururi Dumnezeu!
+
+[v2]
+O, ce fericit sunt cu Domnul meu,
+Nicăieri în lume nu-i altul ca și El!
+El e mai de preț decât tot ce am,
+El e slava mea, e comoara mea în veci!
+
+[v3]
+Chiar de n-ar mai fi râuri pe pământ,
+El e râul vieții mele, limpede și sfânt.
+Niciodată El nu va seca
+Și voi bea din El, eu voi bea din El mereu!

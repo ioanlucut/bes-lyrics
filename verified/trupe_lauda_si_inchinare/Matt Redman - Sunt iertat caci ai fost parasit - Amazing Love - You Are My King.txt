@@ -1,18 +1,18 @@
 [title]
-Sunt iertat, căci ai fost părăsit {alternative: {Amazing Love; You Are My King}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2812}, id: {bXgTCi2kctEmZDfbjj2qmM}, contentHash: {9cac06}}
+Sunt iertat, căci ai fost părăsit {alternative: {Amazing Love; You Are My King}, composer: {Matt Redman}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2812}, id: {bXgTCi2kctEmZDfbjj2qmM}, contentHash: {41f57e}}
 
 [sequence]
 v1,c,v1,c
 
 [v1]
-^{D}Sunt ier^{G}tat, căci ^{D}ai fost pără^{A}sit,
-^{D}Sunt accep^{G}tat, ai ^{D}fost condam^{A7}nat
-^{D/F#}Și viață ^{G}am acum, căci ^{D/A}Duhul Tău e-n mi^{A}ne,
-Căci ^{G}ai mu^{A}rit și-ai învi^{D}at. :/
+Sunt iertat, căci ai fost părăsit,
+Sunt acceptat, ai fost condamnat
+Și viață am acum, căci Duhul Tău e-n mine,
+Căci ai murit și-ai înviat. :/
 
 [c]
-/: ^{D}Ce dragoste ^{G}de Dumne^{D}zeu,
-^{D}Să moară un Rege-n locul ^{A}meu.
-^{D}Ce dragoste, ^{G}uimit pri^{D}vesc,
-Cu bucurie Te slă^{A4}vesc, :/ ^{A}
-/: Cu tot ce ^{G}am ^{A}Te preamă^{D}resc. :/
+/: Ce dragoste de Dumnezeu,
+Să moară un Rege-n locul meu.
+Ce dragoste, uimit privesc
+Cu bucurie Te slăvesc. :/
+/: Cu tot ce am Te preamăresc. :/

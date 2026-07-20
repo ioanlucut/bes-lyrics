@@ -1,13 +1,14 @@
 [title]
-Victorios {alternative: {*}, composer: {Dinu Onea & Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158367}, id: {sQNhRhcHjBWXTrSmmnEEfo}, contentHash: {36c56c}}
+Victorios {alternative: {*}, composer: {Dinu Onea & Marius Pop}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {158367}, id: {sQNhRhcHjBWXTrSmmnEEfo}, contentHash: {18329f}}
 
 [sequence]
 v1,v2,c1.1,c1.2,b,c1.1,c1.2
 
 [v1]
-^{C/F}Domnul, stea^{G}gul ^{C}meu, ^{F/C}Domnul, scu^{G}tul ^{C}meu,
-Îmi ^{Am}ești apără^{G}tor ^{F}și sprijini^{C}tor,
-Ești re^{C/F}fu^{G}giul ^{C}meu.
+Domnul, steagul meu,
+Domnul, scutul meu,
+Îmi ești apărător și sprijinitor,
+Ești refugiul meu.
 
 [v2]
 Când mă rog, m-auzi,
@@ -16,10 +17,10 @@ Rostesc Numele Tău, cade tot ce-i rău
 Și sunt izbăvit.
 
 [c1.1]
-Nu e ^{F}munte ^{C}să nu-l ^{G}pot ur^{C}ca,
-Nu e ^{F}val prea ^{C}furi^{G4-G}os.
-Sunt mai ^{F}mult de^{C}cât bi^{G}rui^{Am}tor,
-^{F/C}Prin Isus ^{G}Hris^{C}tos.
+Nu e munte să nu-l pot urca,
+Nu e val prea furios.
+Sunt mai mult decât biruitor,
+Prin Isus Hristos.
 
 [c1.2]
 Tu ești stâncă în furtuna grea,
@@ -28,5 +29,5 @@ Brațul Tău îl chem în ajutor,
 Sunt victorios.
 
 [b]
-/: Re^{Am7}varsă-^{G}a^{Am}cum ^{Fmaj7}ungerea ^{C}Ta,
-^{Am7}Via^{G}ță ^{Am}din ^{Fmaj7}prezența ^{C}Ta. :/
+/: Revarsă-acum ungerea Ta,
+Viață din prezența Ta. :/

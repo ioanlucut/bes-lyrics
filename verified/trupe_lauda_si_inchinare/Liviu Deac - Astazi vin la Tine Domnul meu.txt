@@ -1,24 +1,24 @@
 [title]
-Astăzi vin la Tine, Domnul meu {alternative: {*}, composer: {Liviu Deac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2782}, id: {hKzZBxj4XucFJMrQH4GJNH}, contentHash: {a2859f}}
+Astăzi vin la Tine, Domnul meu {alternative: {*}, composer: {Liviu Deac}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {2782}, id: {hKzZBxj4XucFJMrQH4GJNH}, contentHash: {b4888c}}
 
 [sequence]
 v1,p,c,v2,p,c,e
 
 [v1]
-^{D}Astăzi vin la Tine, Dom^{G}nul meu.
-^{Em}Sufletul mi-e ^{G}plin de bu^{A4-A}curie,
-^{D}Fiindcă m-ai făcut copi^{G}lul Tău
-^{Em}Ca să pot ^{G}trăi o veș^{A4-A}nicie.
+Astăzi vin la Tine, Domnul meu.
+Sufletul mi-e plin de bucurie,
+Fiindcă m-ai făcut copilul Tău
+Ca să pot trăi o veșnicie.
 
 [p]
 Sunt atât de fericit, Domnul meu iubit,
 De minunea ce-ai făcut-o-n viața mea.
 
 [c]
-/: Vreau să Îți ^{D}cânt, vreau să ^{A4-A}Te laud,
-Să Îți ^{D}mulțumesc că ești în ^{A4-A}viața mea.
-Cu pu^{F#}tere m-ai luat din în^{G}tuneric
-Și mi-ai ^{D/A}arătat în^{A7}țelepciu^{D}nea Ta. :/
+/: Vreau să Îți cânt, vreau să Te laud,
+Să Îți mulțumesc că ești în viața mea.
+Cu putere m-ai luat din întuneric
+Și mi-ai arătat înțelepciunea Ta. :/
 
 [v2]
 Astăzi vin la Tine, Domnul meu,
@@ -27,5 +27,5 @@ Sunt răscumpărat prin harul Tău
 Și trăiesc prin a Ta îndurare.
 
 [e]
-Cu pu^{F#}tere m-ai luat din în^{G}tuneric
-Și mi-ai ^{D/A}arătat în^{7A}țelepciu^{D}nea Ta.
+Cu putere m-ai luat din întuneric
+Și mi-ai arătat înțelepciunea Ta.

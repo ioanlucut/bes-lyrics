@@ -1,0 +1,20 @@
+[title]
+Suntem aici, în prezența Ta {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {111296}, id: {en82mt5VyeA3tgvGesSKMD}, contentHash: {a46adc}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+Suntem aici, în prezența Ta,
+O, Doamne, vrem să Te-ascultăm,
+Să Te lăudăm, o, Doamne!
+Duhul Tău cel Sfânt
+Revarsă-L peste noi, Isuse,
+Pacea Ta cerească,
+În inimi să locuiască, Isuse.
+
+[c]
+/: Ce ^{C}mare, sfânt, mă^{C/E}reț și minu^{F}nat
+Ești ^{C}Doamne, Dumnezeule prea-^{C}nalt.
+Înconjurat cu sla^{C/E}vă și splen^{F}doare
+În ^{G}țara unde veșnic e sărbă^{C}toare. :/

@@ -1,17 +1,42 @@
 import fs from 'fs';
 import { execFileSync } from 'node:child_process';
+import path from 'path';
+import type { SongAST } from '../src/index.js';
 import {
-  SongAST,
+  LEADSHEETS_DIR,
   UNSET_META,
+  hasChordMarkup,
   parse,
   print,
   readTxtFilesRecursively,
+  transferChordMarkup,
 } from '../src/index.js';
 
 const BACKUP_REF = 'origin/leadsheets-backup';
 const VERIFIED_ROOT = './verified';
 const DRY_RUN = process.argv.includes('--dry-run');
 const TEMP_HASH = 'recover';
+
+const LEGACY_CHORD_CORRECTIONS = new Map([
+  ['-Am', 'Am'],
+  ['-E', 'E'],
+  ['7A', 'A7'],
+  ['A/F#7m', 'A/F#m7'],
+  ['A2-A/AG#F#-E', 'A2-A/A-G#-F#-E'],
+  ['A4A', 'A4-A'],
+  ['Am&', 'Am'],
+  ['AsusA', 'Asus-A'],
+  ['B/S#', 'B/D#'],
+  ['Bb-/A', 'Bbm/A'],
+  ['Cm#', 'C#m'],
+  ['E7-9', 'E7/9'],
+  ['F#4F#', 'F#4-F#'],
+  ['F#7m', 'F#m7'],
+  ['Fm#', 'F#m'],
+  ['Fm#7', 'F#m7'],
+  ['G4G', 'G4-G'],
+  ['e-e-b-De', 'e-e-b-D-e'],
+]);
 
 type SongFile = {
   ast: SongAST;
@@ -24,14 +49,12 @@ type Stats = {
   backupSongs: number;
   backupSongsWithChords: number;
   matchedSongs: number;
-  normalizedSongs: number;
-  normalizedSections: number;
   updatedSongs: number;
   updatedSections: number;
+  skippedExistingSongs: number;
   skippedSongsWithoutBackup: number;
   skippedSongsWithoutChordedSections: number;
   skippedSectionMismatches: number;
-  alreadyChordedSongs: number;
 };
 
 const stats: Stats = {
@@ -39,14 +62,12 @@ const stats: Stats = {
   backupSongs: 0,
   backupSongsWithChords: 0,
   matchedSongs: 0,
-  normalizedSongs: 0,
-  normalizedSections: 0,
   updatedSongs: 0,
   updatedSections: 0,
+  skippedExistingSongs: 0,
   skippedSongsWithoutBackup: 0,
   skippedSongsWithoutChordedSections: 0,
   skippedSectionMismatches: 0,
-  alreadyChordedSongs: 0,
 };
 
 const normalizeMeta = (value?: string) =>
@@ -59,36 +80,22 @@ const getSongKeys = ({ id, rcId, title, composer }: SongAST) =>
     `title:${normalizeMeta(title)}|composer:${normalizeMeta(composer)}`,
   ].filter(Boolean) as string[];
 
-const hasChordMarkup = (content: string) => /\^\*?\{[^}]+\}/.test(content);
-
-const stripChordMarkup = (content: string) =>
-  content.replace(/\^\*?\{[^}]+\}/g, '');
-
 const normalizeLegacyChordMarkup = (content: string) =>
-  content.replace(/\^(\*?)\{([^}]+)\}/g, (_match, emphasis, chord) => {
-    const normalizedChord = chord
-      .replaceAll('£', '#')
-      .replaceAll('|', '/')
-      .replaceAll('\\', '/')
-      .replace(/\/[mM]$/u, 'm');
+  content
+    .replace(/\^\{\^\{([^}]+)\}\}/g, '^{$1}')
+    .replace(/\^(\*?)\{([^}]+)\}/g, (_match, emphasis, chord) => {
+      const normalizedChord = chord
+        .replaceAll('£', '#')
+        .replaceAll('|', '/')
+        .replaceAll('\\', '/')
+        .replace(/\/[mM]$/u, 'm')
+        .replace(/^([A-Ga-g][#b]?)\(([A-Ga-g][^)]*)\)$/, '$1-$2')
+        .replaceAll(/[()]/g, '');
+      const correctedChord =
+        LEGACY_CHORD_CORRECTIONS.get(normalizedChord) || normalizedChord;
 
-    return `^${emphasis}{${normalizedChord}}`;
-  });
-
-const normalizeComparableText = (content: string) =>
-  stripChordMarkup(content).normalize('NFC').replace(/\s+/g, ' ').trim();
-
-const normalizeComparableTextAggressive = (content: string) =>
-  stripChordMarkup(content)
-    .normalize('NFC')
-    .toLowerCase()
-    .replace(/[^\p{L}\p{N}]+/gu, '');
-
-const areEquivalentSections = (currentContent: string, backupContent: string) =>
-  normalizeComparableText(currentContent) ===
-    normalizeComparableText(backupContent) ||
-  normalizeComparableTextAggressive(currentContent) ===
-    normalizeComparableTextAggressive(backupContent);
+      return `^${emphasis}{${correctedChord}}`;
+    });
 
 const getGitOutput = (...args: string[]) =>
   execFileSync('git', args, {
@@ -133,9 +140,7 @@ const getMatchedBackupSong = (
   currentSong: SongFile,
   backupIndex: Map<string, SongFile[]>,
 ) => {
-  const keys = getSongKeys(currentSong.ast);
-
-  for (const key of keys) {
+  for (const key of getSongKeys(currentSong.ast)) {
     const matches = backupIndex.get(key) || [];
 
     if (matches.length === 1) {
@@ -165,72 +170,64 @@ const getReprintedContent = (ast: SongAST) => {
   return print(parse(printedWithTemporaryHash));
 };
 
-const normalizeChordMarkupInSong = (song: SongFile) => {
-  let didNormalizeSong = false;
+const createLeadsheet = (currentSong: SongFile, backupSong: SongFile) => {
+  const leadsheetAst = structuredClone(currentSong.ast);
+  let hasSectionMismatch = false;
+  let updatedSections = 0;
 
-  for (const sectionIdentifier of song.ast.sectionOrder) {
-    const currentSection = song.ast.sectionsMap[sectionIdentifier];
-
-    if (!currentSection || !hasChordMarkup(currentSection.content)) {
-      continue;
-    }
-
-    const normalizedContent = normalizeLegacyChordMarkup(
-      currentSection.content,
-    );
-
-    if (normalizedContent === currentSection.content) {
-      continue;
-    }
-
-    currentSection.content = normalizedContent;
-    stats.normalizedSections += 1;
-    didNormalizeSong = true;
-  }
-
-  if (didNormalizeSong) {
-    stats.normalizedSongs += 1;
-  }
-
-  return didNormalizeSong;
-};
-
-const recoverChordsForSong = (currentSong: SongFile, backupSong: SongFile) => {
-  let didUpdateSong = false;
-
-  for (const sectionIdentifier of currentSong.ast.sectionOrder) {
-    const currentSection = currentSong.ast.sectionsMap[sectionIdentifier];
+  for (const sectionIdentifier of leadsheetAst.sectionOrder) {
+    const canonicalSection = currentSong.ast.sectionsMap[sectionIdentifier];
     const backupSection = backupSong.ast.sectionsMap[sectionIdentifier];
 
-    if (!currentSection || !backupSection) {
+    if (!canonicalSection || !backupSection) {
       continue;
     }
 
-    if (hasChordMarkup(currentSection.content)) {
+    const normalizedBackupContent = normalizeLegacyChordMarkup(
+      backupSection.content,
+    );
+
+    if (!hasChordMarkup(normalizedBackupContent)) {
       continue;
     }
 
-    if (!hasChordMarkup(backupSection.content)) {
-      continue;
-    }
+    const chordedCanonicalContent = transferChordMarkup(
+      canonicalSection.content,
+      normalizedBackupContent,
+    );
 
-    if (!areEquivalentSections(currentSection.content, backupSection.content)) {
+    if (!chordedCanonicalContent) {
       stats.skippedSectionMismatches += 1;
+      hasSectionMismatch = true;
       continue;
     }
 
-    currentSection.content = normalizeLegacyChordMarkup(backupSection.content);
-    stats.updatedSections += 1;
-    didUpdateSong = true;
+    leadsheetAst.sectionsMap[sectionIdentifier].content =
+      chordedCanonicalContent;
+    updatedSections += 1;
   }
 
-  return didUpdateSong;
+  if (hasSectionMismatch) {
+    return null;
+  }
+
+  stats.updatedSections += updatedSections;
+
+  return updatedSections ? leadsheetAst : null;
+};
+
+const getLeadsheetFilePath = (currentSong: SongFile) =>
+  path.join(LEADSHEETS_DIR, path.relative(VERIFIED_ROOT, currentSong.filePath));
+
+const writeLeadsheet = (leadsheetFilePath: string, leadsheetAst: SongAST) => {
+  fs.mkdirSync(path.dirname(leadsheetFilePath), { recursive: true });
+  fs.writeFileSync(leadsheetFilePath, getReprintedContent(leadsheetAst));
 };
 
 const run = async () => {
   const currentSongs = (await readTxtFilesRecursively(VERIFIED_ROOT)).map(
     (filePath) => {
-      const rawContent = fs.readFileSync(filePath).toString();
+      const rawContent = fs.readFileSync(filePath, 'utf8');
 
       return {
         filePath,
@@ -246,17 +243,22 @@ const run = async () => {
   stats.backupSongs = getBackupTxtFiles().length;
   stats.backupSongsWithChords = backupSongs.length;
 
+  const existingLeadsheetIds = new Set(
+    fs.existsSync(LEADSHEETS_DIR)
+      ? (await readTxtFilesRecursively(LEADSHEETS_DIR)).map(
+          (filePath) => parse(fs.readFileSync(filePath, 'utf8')).id,
+        )
+      : [],
+  );
+
   currentSongs.forEach((currentSong) => {
-    if (hasChordMarkup(currentSong.rawContent)) {
-      stats.alreadyChordedSongs += 1;
+    const leadsheetFilePath = getLeadsheetFilePath(currentSong);
 
-      if (!DRY_RUN && normalizeChordMarkupInSong(currentSong)) {
-        fs.writeFileSync(
-          currentSong.filePath,
-          getReprintedContent(currentSong.ast),
-        );
-      }
-
+    if (
+      fs.existsSync(leadsheetFilePath) ||
+      existingLeadsheetIds.has(currentSong.ast.id)
+    ) {
+      stats.skippedExistingSongs += 1;
       return;
     }
 
@@ -269,7 +271,9 @@ const run = async () => {
 
     stats.matchedSongs += 1;
 
-    if (!recoverChordsForSong(currentSong, backupSong)) {
+    const leadsheetAst = createLeadsheet(currentSong, backupSong);
+
+    if (!leadsheetAst) {
       stats.skippedSongsWithoutChordedSections += 1;
       return;
     }
@@ -277,24 +281,11 @@ const run = async () => {
     stats.updatedSongs += 1;
 
     if (!DRY_RUN) {
-      normalizeChordMarkupInSong(currentSong);
-      fs.writeFileSync(
-        currentSong.filePath,
-        getReprintedContent(currentSong.ast),
-      );
+      writeLeadsheet(leadsheetFilePath, leadsheetAst);
     }
   });
 
-  console.log(
-    JSON.stringify(
-      {
-        dryRun: DRY_RUN,
-        ...stats,
-      },
-      null,
-      2,
-    ),
-  );
+  console.log(JSON.stringify({ dryRun: DRY_RUN, ...stats }, null, 2));
 };
 
 await run();

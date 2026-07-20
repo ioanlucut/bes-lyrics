@@ -1,0 +1,29 @@
+[title]
+Știu că Tu nu vrei nici jertfe și nici daruri {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {6725}, id: {47DyqYw4yL8uY7zodFFW4L}, contentHash: {dcd524}}
+
+[sequence]
+v1.1,v1.2,c,v2,c
+
+[v1.1]
+^{A}Știu că Tu nu vrei nici jertfe și nici ^{Bm}daruri,
+Știu că ^{D}Tu privești doar ^{E}la inima ^{A}mea,
+Și-Ți do^{F#m}rești să vezi o inimă în^{D}treagă
+Dăru^{Bm7}ită pe de^{E}plin în slujba ^{A}Ta.
+
+[v1.2]
+^{A}Aș dori ca viața mea să ^{Bm}fie
+^{D}Pusă-n slujba ^{E}Ta prin tot ce ^{A}fac,
+^{F#m}Să ascult chemarea Ta di^{D}vină,
+^{Bm}Să urmez în ^{E}totul voia ^{A}Ta.
+
+[c]
+/: ^{E}Sunt a^{A}ici, stau la ^{D}dispoziția Ta,
+Sunt a^{E}ici, dorind să fac doar ^{A}voia Ta,
+^{E}Sunt ^{F#m}aici și vreau che^{D}marea să-Ți urmez,
+Iată-^{E}mă, sunt a^{A}ici! :/
+
+[v2]
+Tu ai pus Cuvântul Sfânt în mine,
+Călăuză-n drumul vieții pe pământ,
+Să-L trăiesc și-n voia Ta să Te urmez
+Și în inimă să fii Tu, Domnul meu.

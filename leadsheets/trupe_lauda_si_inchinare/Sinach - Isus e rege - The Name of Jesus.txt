@@ -1,0 +1,40 @@
+[title]
+Isus e rege {alternative: {The Name of Jesus}, composer: {Sinach}, writer: {Sinach; BBSO}, arranger: {Lari Muntean}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {176028}, id: {uYRX5ELrooCvf582GLNAEg}, contentHash: {84fab2}}
+
+[sequence]
+v1,c,v2,c,b1.1,b1.2,c2,c
+
+[v1]
+^{E}Al Tău ^{B}Nume e-nălțat,
+^{F#}Isus, pe-n^{G#m}treg pământ!
+^{E}Nume puter^{B}nic și măreț,
+Plin de glorie ^{F#}și sfânt,
+În El sunt ^{G#m}salvat!
+
+[c]
+/: Isus e ^{E}Rege vrednic de lau^{B}dă,
+Domn pe^{F#}ste toate, nimeni nu este ca ^{G#m}El!
+Isus ^{E}e mare, sfânt și înăl^{B}țat,
+Alfa, ^{F#}Omega, nimeni nu este ca ^{G#m}El! :/
+
+[v2]
+Nume de viață plin,
+Tu trăiești în noi!
+În al Său Nume biruim,
+Prin El victoria primim,
+Ce Nume minunat!
+
+[b1.1]
+El e Domnul vieții înălțat,
+Prin moarte ne-a răscumpărat,
+Fie lăudat!
+
+[b1.2]
+Orice genunchi se va pleca,
+De aceea, veșnic vom cânta:
+Isus Hristos e Domn!
+
+[c2]
+/: Isus, Domn Preasfânt!
+Isus, Tu ești sfânt!
+Isus, Isus! :/

@@ -1,0 +1,35 @@
+[title]
+Cu mult în urmă-n Betleem {alternative: {*}, composer: {Speranța}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1713}, id: {an76SuYBktB1oLxaZy1npQ}, contentHash: {48c588}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+^{G}Cu mult în urmă-n ^{C}Betleem,
+^{Am7}Sfânta ^{D}Biblie ^{G}spune,
+^{G}Maria a ^{C}născut un ^{Am7}Fiu
+În ^{D}seara de Cră^{G}ciun.
+
+[v1.2]
+Și mii de îngeri s-au unit,
+Cerul s-a înseninat,
+Universul s-a umplut
+De slavă și cântat.
+
+[c]
+Să-I cântăm cu toți în cor,
+Noul Rege S-a născut
+Și viață El ne-a dăruit
+Și astăzi iar e Crăciun.
+
+[v2.1]
+Păstorii s-au înfricoșat,
+Cerul când a izbucnit
+Și într-un gând au alergat
+Către Pruncul iubit.
+
+[v2.2]
+^{G}Cu mult în urmă în ^{C}Betleem
+^{Am}O stea ^{D}mare-a răsă^{G}rit,
+^{G}Ea ne spunea că ^{C}ceru-nt^{Am}reg
+La ^{D}noi s-a cobo^{G}rât.

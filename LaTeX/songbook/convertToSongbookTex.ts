@@ -5,10 +5,10 @@ import fsExtra from 'fs-extra';
 import { flatten } from 'lodash-es';
 import pMap from 'p-map';
 import path from 'path';
-import * as process from 'process';
 import { fileURLToPath } from 'url';
 import {
   EMPTY_STRING,
+  LEADSHEETS_DIR,
   logFileWithLinkInConsole,
   logProcessingFile,
   NEW_LINE,
@@ -115,4 +115,4 @@ const runForDirs = async (songsDirs: string[]) => {
 };
 
 fsExtra.ensureDirSync(path.join(__dirname, TEX_OUTPUT));
-await runForDirs([`${process.env.VERIFIED_DIR}/trupe_lauda_si_inchinare`]);
+await runForDirs([`${LEADSHEETS_DIR}/trupe_lauda_si_inchinare`]);

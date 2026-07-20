@@ -1,0 +1,35 @@
+[title]
+Cetate tare-i Dumnezeu {alternative: {A Mighty Fortress is our God}, composer: {Christy și Nathan Nockles}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {6tNcBS6XiQ6TAnMZHJDZzz}, contentHash: {718274}}
+
+[sequence]
+v1,p,c,v2,p,c,b,c,c2
+
+[v1]
+Noi ^{Bm}știm că Domnul ^{A/C#}Dumne^{D}zeu
+E-un foc mistui^{Em}tor, o ^{D}flacără ^{A}sfântă,
+E-al ^{Bm}nostru drept ^{A/C#}Judecă^{D}tor,
+Bun și-ndură^{Em}tor, din ^{D}cer ne as^{A}cultă.
+
+[p]
+Către El noi ^{D/F#}vom pri^{Gmaj9}vi, ochii ni vom ^{Em7}a^{D}țin^{A}ti.
+
+[c]
+/: ^{D}Cetate tare-i Dumne^{G}zeu,
+^{Em}Un sfânt refu^{Bm/D}giu este ^{A}El,
+^{D}Cu Tine, Doamne, vom dom^{G}ni,
+^{Em}Căci veșnic ^{Bm/D}vei împără^{A}ți. :/
+
+[v2]
+Noi ^{Bm}știm că Domnul ^{A/C#}e ge^{D}los
+Pe ai ^{Em}Săi copii ^{D}în sfântă ^{A}iubire,
+Mai ^{Bm}sus de ceruri e-^{A/C#}ntro^{D}nat,
+În sla^{Em}vă îmbră^{D}cat și-n ^{A}strălucire.
+
+[b]
+Către El noi ^{D/F#}vom pri^{G2}vi, ochii ni vom ^{Em7}ațin^{A4}ti,
+Inimile ^{D/F#}vom lă^{G}sa cuprinse de iu^{Em7}birea ^{A4}Sa.
+
+[c2]
+^{Em}Căci veșnic ^{Bm/D}vei împără^{A}ți, ^{Em}cu Tine, ^{Bm/D}Doamne, vom dom^{A}ni,
+^{Bm}Noi știm că Dom^{A/C#}nul ^{D}Dumnezeu
+E-un foc mistui^{Em}tor, o ^{D}flacără ^{A}sfântă^{D}.

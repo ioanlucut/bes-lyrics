@@ -1,0 +1,35 @@
+[title]
+Mări se despart {alternative: {Oceans Will Part}, composer: {Ben Fielding}, writer: {Ben Fielding}, arranger: {*}, interpreter: {Hillsong}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {7sjTsqVCWayZyPL7Ci8mCN}, contentHash: {cc9c01}}
+
+[sequence]
+v1.1,v1.2,c,v2.1,v2.2,c
+
+[v1.1]
+Când tristă mi-e inima,
+Tu-Ți arăți dragostea
+Și deschizi ochii mei
+Ca să văd ce-ai făcut.
+
+[v1.2]
+Când nu ^{A}văd drumul ^{D2/A}meu,
+Sprijin ^{A}mi-e brațul ^{D2/A}Tău.
+/: Și des^{F#m}chizi ochii ^{E}mei
+Să-nțe^{D}leg ce-ai fă^{E}cut. :/
+
+[c]
+Mări se despart, neamuri vin
+La chemarea Ta, Isus.
+Viața mea Ți-o închin,
+În Tine speranța-mi pun.
+
+[v2.1]
+Și de ^{A}sufăr ^{D2/A}acum
+Mila ^{A}Ta e pe ^{D2/A}drum.
+Când des^{F#m}chizi ochii ^{E}mei
+Să-n^{D}țeleg planul ^{E}Tău.
+
+[v2.2]
+Și mă ^{A}voi bu^{D2/A}cura
+Sigur ^{A}pe calea ^{D2/A}Ta.
+/: Când des^{F#m}chizi ochii ^{E}mei
+Să-nțe^{D}leg planul ^{E}Tău. :/

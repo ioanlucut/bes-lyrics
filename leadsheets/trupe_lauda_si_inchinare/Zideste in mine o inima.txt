@@ -1,0 +1,15 @@
+[title]
+Zidește în mine o inimă {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {1562}, id: {eYGfk4XgcPUwU9uK1h6Qs7}, contentHash: {0adc42}}
+
+[sequence]
+v1,c,v1,c
+
+[v1]
+^{F}Zidește în ^{C}mine ^{Bb}o ini^{F}mă^{Dm} curată, ^{C}Dumnezeu^{F}le,
+Și pune în ^{C}mine^{Bb} un duh ^{F}nou, ^{Dm}statornic, ^{C}Dumnezeu^{F}le!
+
+[c]
+/: ^{Bb}Nu mă lepă^{C}da de la ^{F}fața ^{Dm}Ta
+Și ^{Bb}nu lua de la ^{C}mine Duhul ^{F}Tău cel ^{F}Sfânt^{Bb}!
+Dă-mi iarăși ^{C}bucuria ^{A}mântuirii ^{Dm}Tale,
+^{Bb}Umple-mă cu ^{C}Duhul Tău cel ^{F}Sfânt! :/

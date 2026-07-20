@@ -1,5 +1,5 @@
 [title]
-Domnul stă în fruntea-oștirii Lui {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4897}, id: {xiKDdrdF93Wt4aat9JLATT}, contentHash: {ef3499}}
+Domnul stă în fruntea-oștirii Lui {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {4897}, id: {xiKDdrdF93Wt4aat9JLATT}, contentHash: {ac4163}}
 
 [sequence]
 v1.1,v1.2,c,v2.1,v2.2,c
@@ -15,9 +15,9 @@ Slavă Lui, Isus a câștigat!
 Nicio armă nu-i mai tare ca a Lui.
 
 [c]
-/: Un ^{G}Domn triumfător e ^{D}Isus,
-Noi ^{G}Îl urmăm unde ne ^{D}duce,
-Vrăj^{G}mașii nu se ^{A}pot împotri^{Bm}vi. :/
+/: Un Domn triumfător e Isus,
+Noi Îl urmăm unde ne duce.
+Vrăjmașii nu se pot împotrivi. :/
 
 [v2.1]
 Domnul stă în fruntea-oștirii Lui,

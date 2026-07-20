@@ -1,16 +1,19 @@
 [title]
-Isus, cu slavă îmbrăcat {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {119094}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}, contentHash: {65a2cd}}
+Isus, cu slavă îmbrăcat {alternative: {*}, composer: {Doru Gîrboan}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {119094}, id: {gN7sQ9ZSrxLH9XA9Es3Z72}, contentHash: {d18cd4}}
 
 [sequence]
 v1,c,v2,c,v3,c,c2.1,c2.2,c
 
 [v1]
-^{C}Isus, cu slavă îmbră^{F}cat, I^{Am}sus, pe tron încoro^{G}nat,
-I^{C}sus, în toate cel din^{F}tâi, I^{Am}sus, același Tu ră^{C}mâi.
+Isus, cu slavă îmbrăcat,
+Isus, pe tron încoronat,
+Isus, în toate cel dintâi,
+Isus, același Tu rămâi.
 
 [c]
-/: Isus ești ^{F}Domnul domni^{C}lor, Isus, al ^{Am}nostru Salva^{G}tor,
-Isus, fii-n ^{F}veci glorifi^{C}cat, I^{G}sus. :/
+/: Isus ești Domnul domnilor,
+Isus, al nostru Salvator,
+Isus, fii-n veci glorificat, Isus. :/
 
 [v2]
 Isus, Tu cerul ai lăsat,
@@ -25,10 +28,10 @@ Isus, trei zile îngropat,
 Isus, din morți ai înviat.
 
 [c2.1]
-În ^{F}Numele lui Isus e pu^{C}tere,
-În ^{Am}Numele Lui poți fi aju^{G}tat!
-În ^{F}Numele lui Isus e pu^{C}tere,
-În ^{Am}Numele Lui poți fi vin^{G}decat!
+În Numele lui Isus e putere,
+În Numele Lui poți fi ajutat!
+În Numele lui Isus e putere,
+În Numele Lui poți fi vindecat!
 
 [c2.2]
 În Numele lui Isus e putere,

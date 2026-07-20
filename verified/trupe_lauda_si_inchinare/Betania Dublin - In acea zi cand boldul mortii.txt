@@ -1,24 +1,26 @@
 [title]
-În acea zi, când boldul morții {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213168}, id: {7VSrpVUxsYohi5XxZZ4QkS}, contentHash: {33671e}}
+În acea zi, când boldul morții {alternative: {*}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {213168}, id: {7VSrpVUxsYohi5XxZZ4QkS}, contentHash: {e6211e}}
 
 [sequence]
 v1.1,v1.2,c,v2,c,b,c,v3,c2
 
 [v1.1]
-^{G}În acea zi, când boldul morții
-^{Em}A fost frânt sub crucea lui Isus,
-Cutre^{D}murat, tot ^{C}ceru-ntreg
-^{G-C-D} ^{Bm-C-D}S-a-ntunecat.
+În acea zi, când boldul morții
+A fost frânt sub crucea lui Isus,
+Cutremurat, tot ceru-ntreg
+S-a-ntunecat.
 
 [v1.2]
-^{G}Fruntea Lui purta coroana
-^{Em}Regelui, ce-a luat pedeapsa mea,
-N-a spus ^{E}nimic, iubind nespus mu^{G}rea Isus.
+Fruntea Lui purta coroana
+Regelui ce-a luat pedeapsa mea.
+N-a spus nimic, iubind nespus
+Murea Isus.
 
 [c]
-^{D}Crucea Lui, sal^{D/B}varea ^{C}mea,
-^{D}Azi trăiesc prin ^{D/B}jertfa ^{C}Sa,
-Sânge^{D}le-I m-a ^{Em}curățit, El ră^{C}mâne ^{B/G}apă^{D}ra^{G}rea mea.
+Crucea Lui - salvarea mea,
+Azi trăiesc prin jertfa Sa.
+Sângele-I m-a curățit,
+El rămâne apărarea mea.
 
 [v2]
 Răsăritul învierii

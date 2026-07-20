@@ -1,0 +1,34 @@
+[title]
+Lauda noastră și privirea {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {*}, id: {2xbznatXh4FkpVDae2S6mt}, contentHash: {b1971e}}
+
+[sequence]
+v1,p,c,v2,p,c,e
+
+[v1]
+^{E}Lau^{B/E}da ^{F#m/E}noas^{E}tră ^{F#m/E}și pri^{A}vi^{E}rea
+Spre ^{A2}cer le îndrep^{E-E2}tăm,
+^{E}Du^{B/E}pă ^{F#m/E}Ti^{E}ne ^{F#m/E}inimi^{E}le tân^{A2}jesc,
+Te cău^{E-E2}tăm.
+
+[p]
+Căci lângă Tine
+Noi găsim încrederea
+Și orice teamă,
+Tu, Isus, vei alunga, alunga.
+
+[c]
+^{F#m/E}Osa^{E}na, Osa^{A2}na,
+Domn înălțat în sla^{C#m}vă,
+Vrednic de-a ^{A2}noastră lau^{B-B4}dă,
+^{F#m/E}Osa^{E}na, Osa^{A2}na,
+Inimile-s deschi^{C#m}se
+Cu drag Te pri^{A2}mim, Isu^{A2/F#}se.
+
+[v2]
+Ne întoarcem,
+Căutăm fața Ta, prezența Ta
+Vieți înfrânte numai Tu poți schimba,
+Poți ridica.
+
+[e]
+Osana, Osana! (3x)

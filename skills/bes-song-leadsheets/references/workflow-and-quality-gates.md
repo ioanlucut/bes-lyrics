@@ -4,16 +4,18 @@
 
 Choose one route before editing:
 
-1. Repository song corpus → canonical BES `.txt` authoring.
-2. Explicit standalone/package request → direct Leadsheets `.tex` authoring.
-3. Existing TeX review → ownership-aware TeX audit.
-4. Songbook appearance/build issue → converter, template, or config diagnosis.
+1. Lyrics or ProPresenter content → chord-free `verified/**/*.txt` authoring.
+2. Chords or PDF songbook content → paired `leadsheets/**/*.txt` authoring.
+3. Explicit standalone/package request → direct Leadsheets `.tex` authoring.
+4. Existing TeX review → ownership-aware TeX audit.
+5. Songbook appearance/build issue → converter, template, or config diagnosis.
 
 ## Canonical BES Song
 
 1. Read the target and nearby verified songs.
-2. Edit the canonical `.txt` file.
-3. Run focused validation:
+2. Edit the chord-free canonical `.txt` file.
+3. If a paired lead sheet exists, apply the same lyric change there without changing its chord placement.
+4. Run focused validation:
 
 ```bash
 node --no-warnings=ExperimentalWarning --loader ts-node/esm \
@@ -21,7 +23,7 @@ node --no-warnings=ExperimentalWarning --loader ts-node/esm \
   ./path/to/song.txt
 ```
 
-4. If explicitly requested, canonicalize in place:
+5. If explicitly requested, canonicalize in place:
 
 ```bash
 node --no-warnings=ExperimentalWarning --loader ts-node/esm \
@@ -29,12 +31,18 @@ node --no-warnings=ExperimentalWarning --loader ts-node/esm \
   ./path/to/song.txt --rewrite
 ```
 
-5. Generate a focused TeX artifact when useful:
+6. For a lead-sheet song, generate a focused TeX artifact when useful:
 
 ```bash
 node --no-warnings=ExperimentalWarning --loader ts-node/esm \
   ./skills/bes-song-leadsheets/scripts/song_audit.ts \
   ./path/to/song.txt --tex-output ./tmp/song.tex
+```
+
+7. Validate all canonical/lead-sheet pairs:
+
+```bash
+npm run verify:leadsheets
 ```
 
 ## Direct Leadsheets TeX
@@ -72,6 +80,7 @@ For broad song changes:
 npm run verify
 npm run verify:file-extensions
 npm run verify:uniqueness-of-ids
+npm run verify:leadsheets
 npm run test:ci
 ```
 
@@ -114,8 +123,10 @@ The compile command uses force mode. Inspect `LaTeX/songbook/bes-songbook.log`; 
 ### BES source
 
 - Focused audit passes.
-- Sequence, sections, metadata, diacritics, and chords are correct.
-- Generated TeX reflects the intended song.
+- Canonical songs contain no chords.
+- Paired songs have matching IDs, descriptive metadata, sequence, sections, and exact chord-stripped lyrics; each source has its own `contentHash`.
+- Sequence, sections, metadata, diacritics, and lead-sheet chords are correct.
+- Generated TeX reflects the intended lead sheet.
 
 ### Direct or audited TeX
 
