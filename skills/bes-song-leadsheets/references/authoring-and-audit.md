@@ -112,7 +112,7 @@ Instruction and choir text with the `leadsheet` class:
 Custom section type:
 
 ```tex
-\newversetype{prechorus}[name=Prechorus]
+\newversetype{response}[name=Response]
 ```
 
 Include standalone songs in a collection:
