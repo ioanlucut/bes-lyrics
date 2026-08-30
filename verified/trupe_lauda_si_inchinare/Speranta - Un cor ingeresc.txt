@@ -11,13 +11,13 @@ Din cer se-aude chemând:
 Vino, vino!” :/
 
 [c1.1]
-Hai, hai la El, nu mai sta,
-Azi Isus te cheamă,
+Hai, hai la El, nu mai sta!
+Azi Isus te cheamă;
 Vino, vino!
 
 [c1.2]
-Hai, hai la El, nu mai sta,
-Azi Isus te cheamă,
+Hai, hai la El, nu mai sta!
+Azi Isus te cheamă;
 Vino, vino! Vino!
 
 [v2]
@@ -27,7 +27,7 @@ N-auzi chemarea lui Isus?
 Vino, vino! :/
 
 [v3]
-/: Urcând pe Calvar,
+/: Urcând sus pe Calvar,
 Isus Și-a dat viața-n dar,
 De aceea, azi noi te chemăm:
 Vino, vino! :/

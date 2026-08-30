@@ -5,11 +5,11 @@ Nădejdea mea e-n Dumnezeu {alternative: {*}, composer: {Dan Istrate}, writer: {
 v1,v2,v3,v4,v5,v6
 
 [v1]
-Nădejdea mea e Dumnezeu,
+Nădejdea mea e Dumnezeu;
 Puterea Lui e mare!
 /: Prin dragostea și harul Său,
 Nădăjduiesc și cânt mereu,
-Căci a salvat sufletul meu,
+Căci a salvat sufletul meu
 Din veșnica pierzare. :/
 
 [v2]
@@ -22,17 +22,17 @@ De veșnicii mă leagă. :/
 
 [v3]
 Țărână trecătoare sunt,
-Dar cred în nemurire
+Dar cred în nemurire,
 /: Căci Duhul Celui veșnic Sfânt
 Îmi dă putere și avânt,
-Să pot pleca de pe pământ,
+Să pot pleca de pe pământ
 Dincolo-n strălucire. :/
 
 [v4]
-Sunt călător spre Țara mea,
+Sunt călător spre Țara mea;
 Cu Domnul am izbândă.
 /: Mi-e călăuză dreapta Sa,
-O, Doamne, Tu nu vei lăsa,
+O, Doamne, Tu nu vei lăsa
 Nicicând să cadă-n lupta grea
 Ființa mea plăpândă. :/
 
@@ -47,7 +47,7 @@ O simt tot mai aproape. :/
 [v6]
 Eu am aflat în Creator
 Și pacea și menirea.
-/: Stăpân, al lumii ziditor,
+/: Stăpân, al vieții ziditor,
 Tu mi-ai dat lacrima de dor,
 Să Te iubesc, să mă-nfior
 Și să-Ți aștept venirea. :/

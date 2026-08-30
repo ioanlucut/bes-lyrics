@@ -5,13 +5,13 @@ Suntem din neam de Dumnezeu {alternative: {*}, composer: {*}, writer: {*}, arran
 c,v1,c,v2,c,b,c
 
 [v1]
-Suntem din neam de Dumnezeu,
+Suntem din neam de Dumnezeu;
 Ne-a înfiat și ne-a iertat prin Fiul Său.
 Suntem prin har moștenitori ai cerului,
 Prin Duhul Sfânt biruitori!
 
 [c]
-/: Nimeni nu e ca El, mare e Dumnezeu
+/: Nimeni nu e ca El; mare e Dumnezeu
 Al lui Avraam, Isaac și Israel. :/
 
 [v2]

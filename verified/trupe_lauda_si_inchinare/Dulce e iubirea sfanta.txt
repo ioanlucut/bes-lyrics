@@ -5,13 +5,13 @@ Dulce e iubirea sfântă {alternative: {*}, composer: {*}, writer: {*}, arranger
 v1,c,v2,c,v3,c
 
 [v1]
-Dulce e iubirea sfântă
+Dulce e iubirea sfântă,
 Și Cuvântul e sublim!
 Viața tot mereu ne-ncântă,
 Când cu Domnul biruim.
 
 [c]
-Pot să se sfărâme munții în adâncul mărilor,
+Pot să se sfărâme munții în adâncul mărilor;
 De nimica nu ne temem cu al nostru Salvator.
 Pot să se sfărâme munții, marea-n clocot să tot stea,
 De nimica ne temem, căci spre ceruri vom zbura.

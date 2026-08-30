@@ -5,7 +5,7 @@ Nu-i nimeni ca Tine, Isus {alternative: {*}, composer: {*}, writer: {*}, arrange
 v1,v2,v3,v4,v5
 
 [v1]
-/: Nu-i nimeni ca Tine, Isus :/
+/: Nu-i nimeni ca Tine, Isus, :/
 /: În nopți de durere
 Să dea mângâiere,
 Nu-i nimeni ca Tine, Isus! :/
@@ -20,7 +20,7 @@ Nu-i nimeni ca Tine, Isus! :/
 /: Nu-i nimeni ca Tine, Isus, :/
 /: S-aducă iertare
 Și eliberare,
-Nu-i nimeni ca tine, Isus! :/
+Nu-i nimeni ca Tine, Isus! :/
 
 [v4]
 /: Nu-i nimeni ca Tine, Isus, :/

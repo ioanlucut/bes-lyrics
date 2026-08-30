@@ -5,7 +5,7 @@ Să știe tot pământul {alternative: {*}, composer: {Vali Pentea Sava}, writer
 v1,c,v2,c,v3,c
 
 [v1]
-/: Să știe tot pământul că are un Stăpân,
+/: Să știe tot pământul că are un Stăpân;
 Să știe-ntreaga lume că are-un Creator. :/
 
 [c]

@@ -5,13 +5,9 @@ Condu pașii mei {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, i
 v1,c,v1,c,v1,c
 
 [v1]
-Condu pașii mei
-Să nu mai rătăcesc.
-Condu pașii mei
-Să pot să Te urmez.
+/: Condu pașii mei să nu mai rătăcesc,
+Condu pașii mei să pot să Te urmez. :/
 
 [c]
-Inima-mi strigă spre Tine,
-Rămâi lângă mine mereu.
-O, Domnul meu,
-Condu pașii mei!
+Inima-mi strigă spre Tine, rămâi lângă mine mereu!
+O, Domnul meu, condu pașii mei!
