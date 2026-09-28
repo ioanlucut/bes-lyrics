@@ -4,7 +4,7 @@ Acest repository conține cântări scrise/folosite de trupele de laudă și în
 
 #### Formatul
 
-_inspirat din `EasySlides`, `OpenSongs` și https://www.learnchordal.com/how-to-read-charts_.
+_inspirat din `EasySlides`, `OpenSongs` și <https://www.learnchordal.com/how-to-read-charts>_.
 
 Formatul folosit este unul simplu, după cum urmează. Fișierele din `verified/` sunt sursa canonică fără acorduri pentru ProPresenter. Variantele cu acorduri pentru PDF se află în `leadsheets/`, au același `id`, aceleași versuri și aceeași structură; `contentHash` se calculează separat pentru fiecare variantă.
 
@@ -62,22 +62,22 @@ Domn al veșniciei, în veci! Amin!
 ###### `writer: {Any Writer}`
 
 - The person who single-handedly created the melody and wrote the lyrics is called a writer.
-- See https://en.wikipedia.org/wiki/Songwriter
+- See <https://en.wikipedia.org/wiki/Songwriter>
 
 ###### `composer: {Any Composer}`
 
 - The composer of the song. A person who creates the melody of a song is called a music composer.
-- See https://ro.wikipedia.org/wiki/Compozitor
+- See <https://ro.wikipedia.org/wiki/Compozitor>
 
 ###### `arranger: {Any Arranger}`
 
 - Whoever arranged the song. An arranger is someone who takes an existing song and gives it new life.
-- See https://dexonline.ro/definitie/aranjor
+- See <https://dexonline.ro/definitie/aranjor>
 
 ###### `interpreter: {Any Interpreter}`
 
 - The interpreter of the song.
-- See https://ro.wikipedia.org/wiki/C%C3%A2nt%C4%83re%C8%9B
+- See <https://ro.wikipedia.org/wiki/C%C3%A2nt%C4%83re%C8%9B>
 
 ##### `[sequence]`
 
@@ -130,7 +130,7 @@ Caracterele pe care le putem folosi sunt foarte importante, așa că am definit 
 ```
 
 Întrucât sunt foarte multe versiuni ale caracterelor e.g. `ş` în loc de `ș`, e nevoie să folosim aceleași caractere cu
-același format unicode. Un exemplu de variațiuni poate fi văzut aici: https://www.compart.com/en/unicode/U+201D.
+același format unicode. Un exemplu de variațiuni poate fi văzut aici: <https://www.compart.com/en/unicode/U+201D>.
 
 > Detalii despre `‘’` poți să găsești și [aici](https://github.com/ioanlucut/bes-lyrics/issues/105).
 
@@ -138,9 +138,9 @@ același format unicode. Un exemplu de variațiuni poate fi văzut aici: https:/
 
 - Caută cantecul din resurse crestine si copiază `ID`-ul din `URL`.
   E.g. [Cuvantul intrupat](https://www.resursecrestine.ro/cantece/212152/cuvantul-intrupat) (-> **212152**)
-- Ori: adaugă-l în fișierul `temp_runners/rc_ids_to_process.txt` într-o linie nouă asa cum este gasit aici,
+- Ori: adaugă-l în fișierul `import-songs-temp-runners/rc_ids_to_process.txt` într-o linie nouă asa cum este gasit aici,
   in [authors_ids.txt](https://github.com/ioanlucut/bes-lyrics-parser/blob/main/out/resurse_crestine/authors_ids.txt).
-- Ori (sau si) adaugă autorul si fișierul `temp_runners/rc_authors_to_process.txt` într-o linie nouă asa cum este gasit
+- Ori (sau si) adaugă autorul si fișierul `import-songs-temp-runners/rc_authors_to_process.txt` într-o linie nouă asa cum este gasit
   aici,
   in [authors.txt](https://github.com/ioanlucut/bes-lyrics-parser/blob/main/out/resurse_crestine/authors.txt).
 - Adauga un `PR`.
