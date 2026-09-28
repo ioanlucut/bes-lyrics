@@ -86,3 +86,10 @@ The skill documents the complete Leadsheets v0.7 capability surface without vend
 - Prettier handles code formatting including custom lyrics format
 - Custom Prettier plugin for `.txt` lyrics files
 - Node.js with experimental loader for ES modules
+
+## GitHub Claude Review
+
+- Every PR must receive a completed GitHub Claude review before merge.
+- After opening a PR, comment `@claude review` and wait for the `claude[bot]` response; a successful workflow run alone does not mean the review passed.
+- Resolve every actionable finding. After material fixes, request another review and do not merge until the latest review reports no blocking findings.
+- If the Claude review is unavailable or fails, stop and report it instead of substituting a self-review or another reviewer.

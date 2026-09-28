@@ -1,0 +1,45 @@
+name: Claude Code
+
+# Runs the Claude GitHub App when a PR or issue comment mentions `@claude`.
+# The App alone only listens; this workflow is what executes the request.
+# Auth is a Claude subscription token (`claude setup-token`) stored as the
+# `CLAUDE_CODE_OAUTH_TOKEN` repository secret. To use a Console API key
+# instead, replace that input with `anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}`.
+# The action only acts on comments from users with write access to the repo.
+
+on:
+  issue_comment:
+    types:
+      - created
+  pull_request_review_comment:
+    types:
+      - created
+
+permissions:
+  contents: read
+
+jobs:
+  claude:
+    if: contains(github.event.comment.body, '@claude')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    concurrency:
+      group: claude-${{ github.event.issue.number || github.event.pull_request.number }}
+      cancel-in-progress: false
+    permissions:
+      actions: read
+      contents: write
+      id-token: write
+      issues: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 1
+
+      - name: Run Claude Code
+        uses: anthropics/claude-code-action@246ee390af8a13e339c745634ccd08580e8309c0 # v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
