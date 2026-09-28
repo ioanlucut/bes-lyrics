@@ -29,9 +29,6 @@ const TEMPLATE_FILE = 'bes-songbook.template.txt';
 const BES_SONGBOOK_FILE = 'bes-songbook.tex';
 const TEX_OUTPUT = 'target-tex';
 
-const escapeRequiredChars = (songMetaContent: string) =>
-  songMetaContent.replaceAll(/&/g, '\\&');
-
 const readFiles = async (dir: string) =>
   (await readTxtFilesRecursively(dir)).map((filePath) => {
     const contentAsString = fs.readFileSync(filePath).toString();
