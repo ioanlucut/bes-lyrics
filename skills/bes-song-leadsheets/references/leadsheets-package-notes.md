@@ -145,7 +145,7 @@ With `bar-shortcuts=true` inside `song`:
 - `||` → double bar
 - `|||` → final/stop bar
 
-The BES converter currently preserves its source repeat markers unless explicitly changed.
+The BES converter rewrites the standalone source repeat marks `/:` and `:/` as `|:` and `:|`, and escapes any other `|` in lyrics.
 
 ## Templates — Pages 33–44
 
@@ -168,7 +168,7 @@ Templates can implement arbitrary layout such as flush alignment or framed secti
 
 Use `\DeclareTranslation{language}{leadsheets/key}{translation}`.
 
-Predefined concepts include major/minor, verse types, composer, lyrics, key, capo, fret, and interpretation. BES overrides relevant English translation entries with Romanian labels.
+Predefined concepts include major/minor, verse types, composer, lyrics, key, capo, fret, and interpretation. The BES songbook sets Romanian as its `polyglossia` language and declares its labels as `Romanian` translations.
 
 ## Standalone Class and External Inclusion — Pages 46–51
 

@@ -9,7 +9,6 @@
 
 \documentclass[headheight=29pt,footheight=29pt]{scrartcl}
 
-\usepackage{datetime} % For custom date and time formatting
 \usepackage[full]{leadsheets}
 
 \usepackage{array}
@@ -28,6 +27,17 @@
 
 % https://tex.stackexchange.com/questions/352804/setmainfont-vs-fontspec
 \usepackage{fontspec}
+
+% Romanian hyphenation, and a Romanian `\today` in the footer and title page.
+\usepackage{polyglossia}
+\setdefaultlanguage{romanian}
+
+% Chords use MonoLisa where it is installed; it is a licensed font, so the CI
+% build, which lacks it, falls back to a bold sans serif. XeTeX only reaches
+% the Regular instance of MonoLisa's variable font, so bold is synthesized.
+\IfFontExistsTF{MonoLisaCode}
+  {\newfontfamily\chordfont{MonoLisaCode}[AutoFakeBold=1.5]}
+  {\newcommand\chordfont{\sffamily}}
 \usepackage[12pt]{extsizes}
 \KOMAoptions{headheight=29pt,footheight=29pt}
 \recalctypearea
@@ -64,6 +74,8 @@
   info/format = \itshape,
 %  chorus/format = \itshape,
   bar-shortcuts = true,
+  align-chords = l,
+  chords/format = \chordfont\bfseries,
   obey-lines = false,
   smash-chords = false,
 %  after-song = AS,
@@ -79,7 +91,7 @@
 % Define headers with underline
 \ihead{\textit{Caiet de cântece BES.}\par\noindent\rule{\textwidth}{0.4pt}} % Inner (left) header with underline
 \ohead{\textbf{Pagina \thepage}\par\noindent\rule{\textwidth}{0.4pt}}       % Outer (right) header with underline
-\cfoot{\textit{\textcopyright\ 2025 BES. Toate drepturile rezervate. \\ \scriptsize{Versiunea \today.}}} % Centered footer
+\cfoot{\textit{\textcopyright\ \the\year\ BES. Toate drepturile rezervate. \\ \scriptsize{Versiunea \today.}}} % Centered footer
 
 \input{bes-songbook-config.tex}
 
@@ -93,7 +105,7 @@
       % Title
       {\Huge \textbf{Caiet de Cântece}} \\
       \vspace{0.5cm}
-      {\LARGE \textbf{BES - 2025}} \\
+      {\LARGE \textbf{BES - \the\year}} \\
 
       % Add a decorative horizontal line
       \vspace{1cm}
@@ -119,21 +131,7 @@
   \end{titlepage}
 
   % Table of content
-  % Set a custom title for the Table of Contents in another language
-  \renewcommand{\contentsname}{\textbf{Cuprins}}
-
-  % Set a custom title for the Table of Contents
-  \renewcommand{\contentsname}{Conținut} % Suppress the default "Contents" title
-
-  % Add the title to the Table of Contents without numbering
-  \addcontentsline{toc}{section}{\contentsname}
-
-  % Display the Table of Contents
-  \begin{center}
-    \vspace*{1cm}
-    {\Huge \textbf{Cuprins}} % Center the title
-    \vspace*{0.5cm}
-  \end{center}
+  \renewcommand{\contentsname}{Cuprins}
 
   \tableofcontents
 

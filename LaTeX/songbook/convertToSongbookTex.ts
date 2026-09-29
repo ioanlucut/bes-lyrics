@@ -5,7 +5,6 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import '../../bin/env.js';
 import {
-  EMPTY_STRING,
   LEADSHEETS_DIR,
   logFileWithLinkInConsole,
   logProcessingFile,
@@ -13,12 +12,14 @@ import {
   padForTex,
   parse,
   readSongFiles,
-  SongAST,
   TEX_EXTENSION,
   TEX_MUSICAL_NOTATIONS,
   TXT_EXTENSION,
 } from '../../src/index.js';
-import { convertSongToLeadsheet } from '../../src/songToLeadsheetConverter.js';
+import {
+  compareSongbookOrder,
+  convertSongToLeadsheet,
+} from '../../src/songToLeadsheetConverter.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -32,24 +33,11 @@ const readFiles = async (dir: string) =>
     songAST: parse(songFile.content, { rejoinSubsections: true }),
   }));
 
-const getSortKey = ({
-  title,
-  alternative,
-  composer,
-  arranger,
-  band,
-  genre,
-  version,
-}: SongAST) =>
-  [title, alternative, composer, arranger, band, genre, version].join(
-    EMPTY_STRING,
-  );
-
 const runForDirs = async (songsDirs: string[]) => {
   const songs = (await Promise.all(songsDirs.map(readFiles)))
     .flat()
     .sort(({ songAST: songA }, { songAST: songB }) =>
-      getSortKey(songA).localeCompare(getSortKey(songB)),
+      compareSongbookOrder(songA, songB),
     );
 
   // Absolute paths, because `songbook:compile` runs from the repository root

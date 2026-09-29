@@ -90,7 +90,7 @@ Direct-TeX rules:
 1. `song` takes optional song options in `[...]` and mandatory properties in `{...}`.
 2. `^{G}` is the in-song shortcut for `\chord{G}`.
 3. The chord command consumes following text plus a mandatory trailing space; line endings need care.
-4. Use direct slash-chord notation such as `^{D/F#}`. The BES converter's dash normalization is repository-specific and should not be copied into handwritten TeX.
+4. Use direct slash-chord notation such as `^{D/F#}`, as the BES converter also emits.
 5. Use `\writechord{G}` when printing a chord outside lyric placement, such as in a title template.
 6. The `leadsheet` class supplies `prechorus`, `\instruction`, and `\choir` in addition to package song functionality.
 
