@@ -57,6 +57,48 @@ describe('songSimilarity', () => {
       expect(findSimilarSongs([CANDIDATE], [CANDIDATE])).toEqual([]);
     });
 
+    it("scores the Dice coefficient of the lyrics' character bigrams", () => {
+      const [match] = findSimilarSongs(
+        [createSongFile('candidates/Healed.txt', 'healed')],
+        [createSongFile('verified/Sealed.txt', 'sealed')],
+      );
+
+      expect(match.similarSongs[0].similarity).toBe(0.8);
+    });
+
+    it('ignores whitespace', () => {
+      const [match] = findSimilarSongs(
+        [createSongFile('candidates/Spaced.txt', 'Cât de   mare\nești')],
+        [createSongFile('verified/Joined.txt', 'Câtdemareești')],
+      );
+
+      expect(match.similarSongs[0].similarity).toBe(1);
+    });
+
+    it('ignores lyrics too short to compare', () => {
+      expect(
+        findSimilarSongs(
+          [createSongFile('candidates/A.txt', 'a')],
+          [createSongFile('verified/B.txt', 'b')],
+        ),
+      ).toEqual([]);
+    });
+
+    it('reports both songs of a pair when a list is compared with itself', () => {
+      const songs = [VERIFIED_DUPLICATE, VERIFIED_OTHER, CANDIDATE];
+
+      expect(findSimilarSongs(songs, songs)).toEqual([
+        {
+          song: VERIFIED_DUPLICATE,
+          similarSongs: [{ ...CANDIDATE, similarity: 1 }],
+        },
+        {
+          song: CANDIDATE,
+          similarSongs: [{ ...VERIFIED_DUPLICATE, similarity: 1 }],
+        },
+      ]);
+    });
+
     it('ignores lyrics that differ only in letter case', () => {
       const shouting = createSongFile(
         'verified/Shouting.txt',
