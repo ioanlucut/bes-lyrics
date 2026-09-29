@@ -52,7 +52,7 @@
   },
   "type": "module",
   "scripts": {
-    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" \"./leadsheets/**/*.txt\" {src,bin,mocks,import-songs-temp-runners}/**/*.ts README.md",
+    "format": "node --no-warnings=ExperimentalWarning --loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write \"./verified/**/*.txt\" \"./leadsheets/**/*.txt\" \"{src,bin,mocks,import-songs-temp-runners,LaTeX,skills}/**/*.ts\" README.md",
     "test:ci": "NODE_ENV=test jest --runInBand --no-cache --coverage",
     "test:watch": "NODE_ENV=test TZ='Europe/Berlin' jest --watch --logHeapUsage --no-cache",
     "test": "is-ci-cli test:ci test:watch",
