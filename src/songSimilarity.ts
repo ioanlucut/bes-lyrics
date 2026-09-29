@@ -1,13 +1,8 @@
 import { ALT_SONGS_FILE_SUFFIX, EMPTY_STRING, NEW_LINE } from './constants.js';
 import { parse } from './songParser.js';
+import { SongFile } from './types.js';
 
 export const SIMILARITY_THRESHOLD = 0.65;
-
-export type SongFile = {
-  content: string;
-  fileName: string;
-  filePath: string;
-};
 
 export type SimilarSong = SongFile & { similarity: number };
 

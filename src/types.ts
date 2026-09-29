@@ -125,3 +125,10 @@ export type SongAST = {
   version?: string;
   writer?: string;
 };
+
+/** A song file as read from disk. */
+export type SongFile = {
+  content: string;
+  fileName: string;
+  filePath: string;
+};

@@ -13,6 +13,7 @@ import {
   logProcessingFile,
   multiToSingle,
   readFilesRecursively,
+  readSongFiles,
   readTxtFilesRecursively,
   resolveInside,
 } from './core.js';
@@ -335,6 +336,16 @@ describe('resolveInside', () => {
         'mocks/songWithSubSectionsThatRequiresUnSplit.mock.txt',
         'mocks/songWithSubsections.mock.txt',
       ]);
+    });
+
+    it('reads each song with its file name and content', async () => {
+      const [firstSong] = await readSongFiles('mocks');
+
+      expect(firstSong).toEqual({
+        content: SIMPLE_SONG_MOCK_FILE_CONTENT,
+        fileName: 'simpleSong.mock.txt',
+        filePath: 'mocks/simpleSong.mock.txt',
+      });
     });
 
     it('keeps only ".txt" files when reading songs', async () => {
