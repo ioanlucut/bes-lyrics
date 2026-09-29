@@ -1,14 +1,13 @@
 import chalk from 'chalk';
 import dotenv from 'dotenv';
-import fs from 'fs-extra';
+import fs from 'fs';
 import isCI from 'is-ci';
-import { isEqual } from 'lodash-es';
 import path from 'path';
 import * as process from 'process';
 import {
+  ERROR_CODE,
   getRawTitleBySong,
   logFileWithLinkInConsole,
-  logProcessingFile,
   lyricsFileNameReprocessor,
   readTxtFilesRecursively,
 } from '../src/index.js';
@@ -18,34 +17,35 @@ dotenv.config();
 const run = async (dir: string) => {
   console.log(`"Reprocessing file names from ${dir} directory.."`);
 
-  (await readTxtFilesRecursively(dir)).forEach((filePath) => {
-    const existingContent = fs.readFileSync(filePath).toString();
-    const fileName = path.basename(filePath);
-    logProcessingFile(fileName, 'file name');
-    logFileWithLinkInConsole(filePath);
+  const { renames, conflicts } = lyricsFileNameReprocessor.planFileRenames(
+    (await readTxtFilesRecursively(dir)).map((filePath) => ({
+      from: filePath,
+      to: path.join(
+        path.dirname(filePath),
+        lyricsFileNameReprocessor.deriveFromTitle(
+          getRawTitleBySong(fs.readFileSync(filePath).toString()),
+        ),
+      ),
+    })),
+  );
 
-    const newFileName = lyricsFileNameReprocessor.deriveFromTitle(
-      getRawTitleBySong(existingContent),
+  if (conflicts.length) {
+    console.log(
+      chalk.red(
+        'Nothing was renamed: these songs would replace another song. Change their title metadata so each file name is unique.',
+      ),
     );
-    const hasNoChange = isEqual(fileName, newFileName);
+    conflicts.forEach(({ from, to }) => {
+      console.log(`"${from}" -> "${to}"`);
+      logFileWithLinkInConsole(from);
+    });
 
-    if (hasNoChange) {
-      console.log(chalk.yellow(`Skipped the ${fileName} file.`));
-      console.log();
-      console.groupEnd();
+    process.exit(ERROR_CODE);
+  }
 
-      return;
-    }
-
-    fs.unlinkSync(filePath);
-    fs.writeFileSync(
-      path.join(path.dirname(filePath), newFileName),
-      existingContent,
-    );
-
-    console.log(chalk.green(`Renamed to "${newFileName}"`));
-    console.log();
-    console.groupEnd();
+  renames.forEach(({ from, to }) => {
+    fs.renameSync(from, to);
+    console.log(chalk.green(`Renamed "${from}" to "${to}".`));
   });
 };
 
