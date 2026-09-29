@@ -23,7 +23,8 @@ const jestConfig = {
     ],
     '^.+.tsx?$': ['ts-jest', {}],
   },
-  // https://github.com/jestjs/jest/issues/14305#issuecomment-1627346697
+  // Jest would format inline snapshots with the project's Prettier config,
+  // whose TypeScript song plugin it cannot load, so snapshots stay unformatted.
   prettierPath: null,
   collectCoverageFrom: ['src/**/*.ts', '!src/**/*.spec.ts', '!src/index.ts'],
   coverageReporters: ['text-summary', 'text'],

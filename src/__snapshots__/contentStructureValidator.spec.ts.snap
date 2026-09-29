@@ -1,4 +1,4 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
 
 exports[`contentStructureValidator content should reject correctly for a \`Duplicate section.\`: Duplicate section. 1`] = `"There are duplicates: [c]"`;
 
