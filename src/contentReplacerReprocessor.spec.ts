@@ -39,6 +39,17 @@ Mesia
 `);
   });
 
+  it.each([
+    ['Samiel', 'Samiel'],
+    ['surâsul isus', 'surâsul Isus'],
+    ['Acum, domnul meu', 'Acum, Domnul meu'],
+    ['(dumnezeu)', '(Dumnezeu)'],
+    ['Cristosul', 'Hristosul'],
+    ['aCristos', 'aCristos'],
+  ])('capitalizes names only where a word starts: "%s"', (text, expected) => {
+    expect(reprocess(text)).toEqual(expected);
+  });
+
   it('should rewrite CLRF to LF', () => {
     expect(reprocess('foo\r\nbar\nbaz\r')).toMatchInlineSnapshot(`
 "foo
