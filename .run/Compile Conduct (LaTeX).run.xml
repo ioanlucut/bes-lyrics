@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Compile ADR (LaTeX)" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" activateToolWindowBeforeRun="false">
+  <configuration default="false" name="Compile Conduct (LaTeX)" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" activateToolWindowBeforeRun="false">
     <texify>
       <compiler>PDFLATEX</compiler>
       <compiler-path />

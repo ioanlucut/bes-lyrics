@@ -125,6 +125,12 @@ describe('songSimilarity', () => {
         expect(findSimilarSongs([song], [againstSong])).toEqual([]);
       },
     );
+
+    it('reports a song whose name only contains " - i" before the end', () => {
+      const song = createSongFile('candidates/Autor - iubire.txt', LYRICS);
+
+      expect(findSimilarSongs([song], [VERIFIED_DUPLICATE])).toHaveLength(1);
+    });
   });
 
   describe('planDuplicateResolution', () => {
