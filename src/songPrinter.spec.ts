@@ -521,4 +521,18 @@ Prima strofă
 
     expect(print(parse(unformatted))).toEqual(formatted);
   });
+
+  it('leaves out metadata that has no value', () => {
+    const songAST = parse(`[title]
+Cântarea mea {id: {abc}}
+
+[sequence]
+v1
+
+[v1]
+Prima strofă
+`);
+
+    expect(print({ ...songAST, writer: undefined })).not.toContain('writer:');
+  });
 });

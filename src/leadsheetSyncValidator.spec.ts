@@ -107,4 +107,68 @@ describe('leadsheetSyncValidator', () => {
       'Invalid chord markup: ^{7A}.',
     );
   });
+
+  describe('with two sections', () => {
+    const getTwoSectionSong = ({
+      sequence,
+      sections,
+    }: {
+      sequence: string;
+      sections: [string, string][];
+    }) => `[title]
+Cântarea mea {id: {song-id}}
+
+[sequence]
+${sequence}
+
+${sections.map(([marker, content]) => `[${marker}]\n${content}`).join('\n\n')}
+`;
+
+    const CANONICAL_SONG = getTwoSectionSong({
+      sequence: 'v1,c',
+      sections: [
+        ['v1', 'Prima strofă.'],
+        ['c', 'Refrenul.'],
+      ],
+    });
+
+    it('reports a sequence that differs from the canonical song', () => {
+      const leadsheetSong = getTwoSectionSong({
+        sequence: 'v1,c,c',
+        sections: [
+          ['v1', '^{D}Prima strofă.'],
+          ['c', '^{G}Refrenul.'],
+        ],
+      });
+
+      expect(getLeadsheetSyncErrors(CANONICAL_SONG, leadsheetSong)).toEqual([
+        'Lead sheet sequence differs from canonical song.',
+      ]);
+    });
+
+    it('reports sections in a different order than the canonical song', () => {
+      const leadsheetSong = getTwoSectionSong({
+        sequence: 'v1,c',
+        sections: [
+          ['c', '^{G}Refrenul.'],
+          ['v1', '^{D}Prima strofă.'],
+        ],
+      });
+
+      expect(getLeadsheetSyncErrors(CANONICAL_SONG, leadsheetSong)).toEqual([
+        'Lead sheet section order differs from canonical song.',
+      ]);
+    });
+
+    it('reports a missing section once, as a different section order', () => {
+      const leadsheetSong = getTwoSectionSong({
+        sequence: 'v1,c',
+        sections: [['v1', '^{D}Prima strofă.']],
+      });
+
+      expect(getLeadsheetSyncErrors(CANONICAL_SONG, leadsheetSong)).toEqual([
+        'Lead sheet section order differs from canonical song.',
+      ]);
+    });
+  });
 });

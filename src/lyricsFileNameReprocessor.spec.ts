@@ -203,6 +203,12 @@ describe('lyricsFileNameReprocessor', () => {
 });
 
 describe('deriveFromTitle', () => {
+  it('skips an empty composer', () => {
+    expect(deriveFromTitle('Titlu {composer: {}, writer: {Ana}}')).toEqual(
+      'Ana - Titlu.txt',
+    );
+  });
+
   it('keeps a composer whose name contains a comma', () => {
     expect(
       deriveFromTitle('Titlu {composer: {Ana, Ion}, tags: {Psalmul 23:1}}'),

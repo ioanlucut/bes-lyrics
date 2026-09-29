@@ -44,6 +44,4 @@ export const CHARS_SEPARATORS = /[ !(),./:;?”„\n]+/;
 // A second version of a song ends its file name in ` - i` or ` - ii`.
 export const ALT_SONGS_FILE_SUFFIX = / - (i|ii)\.txt$/;
 
-export const TEST_ENV = 'test';
-
 export const UNSET_META = '*';
