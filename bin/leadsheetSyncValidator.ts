@@ -1,4 +1,3 @@
-import dotenv from 'dotenv';
 import fs from 'fs';
 import path from 'path';
 import process from 'process';
@@ -9,16 +8,16 @@ import {
   LEADSHEETS_DIR,
   TXT_EXTENSION,
   getLeadsheetSyncErrors,
+  getVerifiedDir,
   hasChordMarkup,
   parse,
   readFilesRecursively,
   readTxtFilesRecursively,
   verifyStructure,
 } from '../src/index.js';
+import './env.js';
 
-dotenv.config();
-
-const verifiedDir = process.env.VERIFIED_DIR;
+const verifiedDir = getVerifiedDir();
 const errors: string[] = [];
 
 const addError = (filePath: string, message: string) => {

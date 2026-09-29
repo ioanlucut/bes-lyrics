@@ -7,6 +7,7 @@ export * from './contentStructureValidator.js';
 export * from './core.js';
 export * from './leadsheetSyncValidator.js';
 export * as lyricsFileNameReprocessor from './lyricsFileNameReprocessor.js';
+export * from './songDirs.js';
 export * from './songParser.js';
 export * from './songPrinter.js';
 export * from './songSimilarity.js';

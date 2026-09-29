@@ -1,5 +1,4 @@
 import chalk from 'chalk';
-import dotenv from 'dotenv';
 import isCI from 'is-ci';
 import { isEmpty, isEqual } from 'lodash-es';
 import path from 'path';
@@ -7,12 +6,13 @@ import * as process from 'process';
 import {
   DS_STORE_FILE,
   ERROR_CODE,
+  getCandidatesDir,
+  getVerifiedDir,
   GIT_KEEP_FILE,
   readFilesRecursively,
   TXT_EXTENSION,
 } from '../src/index.js';
-
-dotenv.config();
+import './env.js';
 
 const run = async (dir: string) => {
   console.log(`"Verifying the file extensions from ${dir} directory.."`);
@@ -29,8 +29,8 @@ const run = async (dir: string) => {
   }
 };
 
-await run(process.env.VERIFIED_DIR!);
+await run(getVerifiedDir());
 
 if (!isCI) {
-  await run(process.env.CANDIDATES_DIR!);
+  await run(getCandidatesDir());
 }

@@ -1,5 +1,4 @@
 import chalk from 'chalk';
-import dotenv from 'dotenv';
 import fs from 'fs';
 import { filter, includes, isEmpty } from 'lodash-es';
 import assert from 'node:assert';
@@ -10,12 +9,12 @@ import {
   SongMeta,
   getMetaSectionsFromTitle,
   getSongInSectionTuples,
+  getVerifiedDir,
   logFileWithLinkInConsole,
   logProcessingFile,
   readTxtFilesRecursively,
 } from '../src/index.js';
-
-dotenv.config();
+import './env.js';
 
 const runValidationForDir = async (dir: string) => {
   const duplicateHashes = filter(
@@ -51,4 +50,4 @@ const runValidationForDir = async (dir: string) => {
 // ---
 // RUN
 // ---
-await runValidationForDir(process.env.VERIFIED_DIR);
+await runValidationForDir(getVerifiedDir());

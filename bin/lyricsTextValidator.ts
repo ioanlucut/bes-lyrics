@@ -1,5 +1,4 @@
 import chalk from 'chalk';
-import dotenv from 'dotenv';
 import fs from 'fs';
 import { flattenDeep, isEmpty, negate, uniq } from 'lodash-es';
 import path from 'path';
@@ -7,13 +6,13 @@ import * as process from 'process';
 import {
   ERROR_CODE,
   assemblyCharsStats,
+  getVerifiedDir,
   logFileWithLinkInConsole,
   logProcessingFile,
   readTxtFilesRecursively,
   verifyStructure,
 } from '../src/index.js';
-
-dotenv.config();
+import './env.js';
 
 const runValidationForDir = async (dir: string) => {
   const arrayOfFileNameAndContent = (await readTxtFilesRecursively(dir)).map(
@@ -111,4 +110,4 @@ const runValidationForDir = async (dir: string) => {
 // ---
 // RUN
 // ---
-await runValidationForDir(process.env.VERIFIED_DIR);
+await runValidationForDir(getVerifiedDir());
