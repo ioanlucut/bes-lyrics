@@ -6,7 +6,7 @@ and `[sequence]` second; the sections follow.
 
 ```text
 [title]
-Aceasta mi-e dorința, să Te-onorez {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59763}, id: {8ipLZddXG3Zy7Hbbo93Vm7}, contentHash: {d2830d}}
+Aceasta mi-e dorința, să Te-onorez {alternative: {*}, composer: {*}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {*}, genre: {*}, rcId: {59763}, id: {8ipLZddXG3Zy7Hbbo93Vm7}, contentHash: {418384}}
 
 [sequence]
 v1,c,v2,c
@@ -89,7 +89,8 @@ such as `v1.1` and `v1.2`, and the sequence is rewritten to match.
 
 ## Allowed characters
 
-Only these characters may appear in a song, in its file name and in its content:
+Besides spaces and line breaks, only these characters may appear in a song, in
+its file name and in its content:
 
 ```text
 *_{}&!()][\,-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„
