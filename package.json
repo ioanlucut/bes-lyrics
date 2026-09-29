@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "author": "Ioan Lucuț <ioan.lucut88@gmail.com>",
   "license": "GNU GPLv3",
-  "description": "Cântări creștine în limba română, corectate și adaptate.",
+  "description": "Songs as code: a Git-managed Romanian worship song library, statically checked in CI and compiled to ProPresenter 7 and a PDF songbook with chords.",
   "dependencies": {
     "@types/is-ci": "^3.0.4",
     "@types/nspell": "^2.1.6",
@@ -81,5 +81,27 @@
     "songbook:compile": "npm run songbook:clean:all && latexmk -pdf -xelatex -quiet -interaction=nonstopmode -output-directory=./LaTeX/songbook/ ./LaTeX/songbook/bes-songbook.tex -gg",
     "songbook:compile:watch": "npm run songbook:clean:all && latexmk -pdf -xelatex -quiet -interaction=nonstopmode -output-directory=./LaTeX/songbook/ ./LaTeX/songbook/bes-songbook.tex --preview -gg",
     "songbook:dist": "npm run songbook:convert && npm run songbook:clean:all && npm run songbook:compile"
+  },
+  "keywords": [
+    "songs-as-code",
+    "infrastructure-as-code",
+    "lyrics",
+    "worship",
+    "church",
+    "romanian",
+    "static-analysis",
+    "prettier-plugin",
+    "propresenter",
+    "leadsheets",
+    "latex",
+    "songbook"
+  ],
+  "homepage": "https://github.com/ioanlucut/bes-lyrics#readme",
+  "bugs": {
+    "url": "https://github.com/ioanlucut/bes-lyrics/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioanlucut/bes-lyrics.git"
   }
 }
