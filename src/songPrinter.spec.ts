@@ -220,25 +220,25 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
         ),
       ),
     ).toMatchInlineSnapshot(`
-      "[title]
-      My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {d046df}}
+"[title]
+My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {3500db}}
 
-      [sequence]
-      v1.1,v1.2,v2,v3
+[sequence]
+v1.1,v1.2,v2,v3
 
-      [v1.1]
-      Subsection 1.1
+[v1.1]
+Subsection 1.1
 
-      [v1.2]
-      Subsection 1.2
+[v1.2]
+Subsection 1.2
 
-      [v2]
-      Section 2
+[v2]
+Section 2
 
-      [v3]
-      Section 3
-      "
-    `);
+[v3]
+Section 3
+"
+`);
   });
 
   it('should correctly split a song with split makers', () => {
@@ -247,33 +247,33 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
         parse(SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_SPLIT_MOCK_FILE_CONTENT),
       ),
     ).toMatchInlineSnapshot(`
-      "[title]
-      My custom title {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {048898}}
+"[title]
+My custom title {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {5b44d7}}
 
-      [sequence]
-      c,v1.1,v1.2,c,v2
+[sequence]
+c,v1.1,v1.2,c,v2
 
-      [c]
-      /: Zidurile ’nalte de la Ierihon,
-      Ierihon, Ierihon,
-      Zidurile ’nalte de la Ierihon
-      Nu se vor zidi din nou. :/
+[c]
+/: Zidurile ’nalte de la Ierihon,
+Ierihon, Ierihon,
+Zidurile ’nalte de la Ierihon
+Nu se vor zidi din nou. :/
 
-      [v1.1]
-      În cetatea Ierihon trăia
-      Un popor care nu se temea
+[v1.1]
+În cetatea Ierihon trăia
+Un popor care nu se temea
 
-      [v1.2]
-      De Domnul și a trebuit
-      Să fie nimicit.
+[v1.2]
+De Domnul și a trebuit
+Să fie nimicit.
 
-      [v2]
-      Israel nu s-a luptat,
-      Într-un glas cu toții au strigat.
-      În Dumnezeu ei s-au încrezut
-      Și zidurile-au căzut.
-      "
-    `);
+[v2]
+Israel nu s-a luptat,
+Într-un glas cu toții au strigat.
+În Dumnezeu ei s-au încrezut
+Și zidurile-au căzut.
+"
+`);
   });
 
   it('should correctly un-split a song with un-split makers', () => {
@@ -282,24 +282,24 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
         parse(SONG_WITH_SUB_SECTIONS_THAT_REQUIRES_UN_SPLIT_MOCK_FILE_CONTENT),
       ),
     ).toMatchInlineSnapshot(`
-      "[title]
-      My custom title {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {051e3c}}
+"[title]
+My custom title {alternative: {Când eram fără speranță}, composer: {Betania Dublin}, writer: {*}, arranger: {*}, interpreter: {*}, band: {*}, key: {*}, tempo: {*}, tags: {*}, version: {ii}, genre: {*}, rcId: {*}, id: {7RURbpko41pWYEgVkHD4Pq}, contentHash: {34d250}}
 
-      [sequence]
-      c,v1,c,v2
+[sequence]
+c,v1,c,v2
 
-      [c]
-      /: Chorus content :/
+[c]
+/: Chorus content :/
 
-      [v1]
-      Verse 1.1 to be joined row 1
-      Verse 1.1 to be joined row 2
+[v1]
+Verse 1.1 to be joined row 1
+Verse 1.1 to be joined row 2
 
-      [v2]
-      Verse 2 row 1
-      Verse 2 row 2
-      "
-    `);
+[v2]
+Verse 2 row 1
+Verse 2 row 2
+"
+`);
   });
 
   it('should correctly add the sub sections of a song by updating the non-unique occurrences in the song sequence', () => {
@@ -322,25 +322,25 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
         ),
       ),
     ).toMatchInlineSnapshot(`
-      "[title]
-      My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {fc7723}}
+"[title]
+My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {f776b1}}
 
-      [sequence]
-      v1.1,v1.2,c,v2,v1.1,v1.2,c
+[sequence]
+v1.1,v1.2,c,v2,v1.1,v1.2,c
 
-      [v1.1]
-      Subsection 1.1
+[v1.1]
+Subsection 1.1
 
-      [v1.2]
-      Subsection 1.2
+[v1.2]
+Subsection 1.2
 
-      [c]
-      Chorus
+[c]
+Chorus
 
-      [v2]
-      Section 3
-      "
-    `);
+[v2]
+Section 3
+"
+`);
   });
 
   it('should correctly add the sub sections of a song (for bridge)', () => {
@@ -356,25 +356,25 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
         ),
       ),
     ).toMatchInlineSnapshot(`
-      "[title]
-      My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {734aa4}}
+"[title]
+My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {218fb3}}
 
-      [sequence]
-      b1.1,b1.2,b2,b3
+[sequence]
+b1.1,b1.2,b2,b3
 
-      [b1.1]
-      Subsection 1.1
+[b1.1]
+Subsection 1.1
 
-      [b1.2]
-      Subsection 1.2
+[b1.2]
+Subsection 1.2
 
-      [b2]
-      Section 2
+[b2]
+Section 2
 
-      [b3]
-      Section 3
-      "
-    `);
+[b3]
+Section 3
+"
+`);
   });
 
   it('should correctly add the sub sections of a song (for chorus)', () => {
@@ -390,25 +390,25 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
         ),
       ),
     ).toMatchInlineSnapshot(`
-      "[title]
-      My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {2a9d64}}
+"[title]
+My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {b3cb7e}}
 
-      [sequence]
-      c1.1,c1.2,c2,c3
+[sequence]
+c1.1,c1.2,c2,c3
 
-      [c1.1]
-      Subsection 1.1
+[c1.1]
+Subsection 1.1
 
-      [c1.2]
-      Subsection 1.2
+[c1.2]
+Subsection 1.2
 
-      [c2]
-      Section 2
+[c2]
+Section 2
 
-      [c3]
-      Section 3
-      "
-    `);
+[c3]
+Section 3
+"
+`);
   });
 
   it('should correctly add the sub sections of a song (for prechorus)', () => {
@@ -424,25 +424,25 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
         ),
       ),
     ).toMatchInlineSnapshot(`
-      "[title]
-      My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {b0afbb}}
+"[title]
+My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {b8eeda}}
 
-      [sequence]
-      p1.1,p1.2,p2,p3
+[sequence]
+p1.1,p1.2,p2,p3
 
-      [p1.1]
-      Subsection 1.1
+[p1.1]
+Subsection 1.1
 
-      [p1.2]
-      Subsection 1.2
+[p1.2]
+Subsection 1.2
 
-      [p2]
-      Section 2
+[p2]
+Section 2
 
-      [p3]
-      Section 3
-      "
-    `);
+[p3]
+Section 3
+"
+`);
   });
 
   it('should correctly not add the sub sections of a song (for ending)', () => {
@@ -455,19 +455,19 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
         ),
       ),
     ).toMatchInlineSnapshot(`
-      "[title]
-      My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {0c90cd}}
+"[title]
+My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {8f88a0}}
 
-      [sequence]
-      e1.1,e1.2
+[sequence]
+e1.1,e1.2
 
-      [e1.1]
-      Subsection 1.1
+[e1.1]
+Subsection 1.1
 
-      [e1.2]
-      Subsection 1.2
-      "
-    `);
+[e1.2]
+Subsection 1.2
+"
+`);
   });
 
   it('should correctly add only the unique sections of a song', () => {
@@ -487,21 +487,38 @@ Că Tu ești Dumnezeu și Tu ești Sfânt!",
         ),
       ),
     ).toMatchInlineSnapshot(`
-      "[title]
-      My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {f1b714}}
+"[title]
+My custom title: {alternative: {*}, composer: {ANY_composer}, writer: {ANY_writer}, arranger: {ANY_arranger}, interpreter: {ANY_interpreter}, band: {ANY_band}, key: {ANY_key}, tempo: {ANY_tempo}, tags: {ANY_tags}, version: {ANY_version}, genre: {ANY_genre}, rcId: {ANY_rcId}, id: {ANY_id}, contentHash: {5f5748}}
 
-      [sequence]
-      v1,c,v2,c
+[sequence]
+v1,c,v2,c
 
-      [v1]
-      Verse 1
+[v1]
+Verse 1
 
-      [c]
-      Chorus
+[c]
+Chorus
 
-      [v2]
-      Section 3
-      "
-    `);
+[v2]
+Section 3
+"
+`);
+  });
+
+  it('prints the same content hash whether or not the input was formatted', () => {
+    const formatted = print(
+      parse(`[title]
+Cântarea mea {id: {abc}}
+
+[sequence]
+v1
+
+[v1]
+Prima strofă
+`),
+    );
+    const unformatted = `[title]\r\n  Cântarea mea {id: {abc}, contentHash: {000000}}\r\n\r\n\r\n[sequence]\r\nv1\r\n\r\n[v1]\r\nPrima strofă   \r\n`;
+
+    expect(print(parse(unformatted))).toEqual(formatted);
   });
 });

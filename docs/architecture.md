@@ -30,9 +30,10 @@ text in canonical form. Everything else is built on this round trip:
 - the validators parse and assert;
 - the lead-sheet converter turns a parsed song into LaTeX.
 
-Parsing also fills in what is derivable. A missing `id` is generated with
-`short-uuid`, and `contentHash` is recomputed from the file content without its
-title metadata, so a chorded lead sheet and its chord-free song have different
+Parsing and printing also fill in what is derivable. Parsing generates a missing
+`id` with `short-uuid`. Printing recomputes `contentHash` from the printed song
+without its title metadata, so the hash is the same whether or not the input was
+formatted, and a chorded lead sheet and its chord-free song have different
 hashes.
 
 ## The checks

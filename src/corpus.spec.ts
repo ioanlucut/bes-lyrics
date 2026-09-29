@@ -22,17 +22,10 @@ const readSongs = (dir: string) =>
 
 const format = (content: string) => print(parse(content));
 
-// `contentHash` is taken from the text before formatting, so it only settles
-// on the second pass; every other part of the song must settle on the first.
-const withoutContentHash = (content: string) =>
-  content.replace(/contentHash: \{\w*\}/, 'contentHash: {}');
-
 const isStableUnderFormatting = (content: string) => {
   const formatted = format(content);
 
-  return (
-    withoutContentHash(format(formatted)) === withoutContentHash(formatted)
-  );
+  return format(formatted) === formatted;
 };
 
 const getEnvironmentNames = (tex: string, command: 'begin' | 'end') =>
