@@ -152,4 +152,17 @@ describe('fileNameNormalizer', () => {
       }
     `);
   });
+
+  it.each(['\\', '_'])(
+    'rejects "%s", which TeX would interpret, in the content and file name',
+    (texActiveChar) => {
+      const stats = assemblyCharsStats(
+        `a${texActiveChar}b`,
+        `a${texActiveChar}b`,
+      );
+
+      expect(stats.differenceInContent).toEqual([texActiveChar]);
+      expect(stats.differenceInFileName).toEqual([texActiveChar]);
+    },
+  );
 });
