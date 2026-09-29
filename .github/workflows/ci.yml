@@ -3,27 +3,7 @@ name: 'CI & Auto Scripts'
 on: [ pull_request ]
 
 jobs:
-  ChangedCodePathsFilter:
-    runs-on: ubuntu-24.04
-    outputs:
-      rcOutput: ${{ steps.filter.outputs.rcImportsHaveChanged }}
-    steps:
-      - name: Clone repository
-        uses: actions/checkout@v7
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
-
-      - uses: dorny/paths-filter@v4
-        id: filter
-        with:
-          filters: |
-            rcImportsHaveChanged:
-              - 'import-songs-temp-runners/rc_authors_to_process.txt'
-              - 'import-songs-temp-runners/rc_ids_to_ignore.txt'
-              - 'import-songs-temp-runners/rc_ids_to_process.txt'
-
   Build:
-    needs: ChangedCodePathsFilter
     runs-on: ubuntu-24.04
     steps:
       - name: Clone repository
@@ -41,47 +21,6 @@ jobs:
 
       - name: Build
         run: npm run build:ci
-        env:
-          CI: true
-          FORCE_COLOR: 2
-
-  ImportFromRCBasedOnAuthorsOrIds:
-    needs: [ ChangedCodePathsFilter, Build ]
-    runs-on: ubuntu-24.04
-    if: needs.ChangedCodePathsFilter.outputs.rcOutput == 'true'
-    steps:
-      - name: Clone repository
-        uses: actions/checkout@v7
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
-          path: bes-lyrics
-
-      - name: Checkout bes-lyrics-parser repo
-        uses: actions/checkout@v7
-        with:
-          token: ${{ secrets.PAT_BES_PROJECTS }}
-          repository: ioanlucut/bes-lyrics-parser
-          path: bes-lyrics-parser
-          sparse-checkout: |
-            out
-
-      - name: Use Node.js 24.x
-        uses: actions/setup-node@v7
-        with:
-          node-version: 24.x
-
-      - name: Import from RC (if not exists already)
-        working-directory: bes-lyrics
-        run: |
-          npm ci && npm run import:rc:ci
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A
-          git diff --quiet && git diff --staged --quiet || git commit --cleanup=verbatim -am "[Bot] I have imported the resurse crestine songs based on the rc_authors_to_process.txt and rc_ids_to_process.txt.
-          >
-          >
-          request-checks: true"
-          git push
         env:
           CI: true
           FORCE_COLOR: 2

@@ -69,10 +69,12 @@ repository; its lists below open for collaborators only:
   [`authors.txt`](https://github.com/ioanlucut/bes-lyrics-parser/blob/main/out/resurse_crestine/authors.txt)
   to `import-songs-temp-runners/rc_authors_to_process.txt`.
 
-Open a pull request with the list change. The `ImportFromRCBasedOnAuthorsOrIds`
-job imports the songs into `candidates/` and commits them to the pull request,
-skipping songs that are already in the library. Songs whose IDs are listed in
-`rc_ids_to_ignore.txt` are removed from the library instead.
+Then, with `bes-lyrics-parser` checked out next to this repository, run
+`npm run import:rc`. It imports the songs into `candidates/`, skipping songs
+that are already in the library, and removes songs whose IDs are listed in
+`rc_ids_to_ignore.txt` from the library. It refuses any scraped author name or
+path that would write outside `candidates/`. Commit the result in a pull
+request.
 
 Imported songs stay in `candidates/` until someone reviews them and moves them
 into `verified/`. `npm run verify:similarity` lists candidates that look like
