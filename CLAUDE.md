@@ -13,6 +13,7 @@ BES-Lyrics is a TypeScript-based tool for managing Romanian Christian song lyric
 - `npm run test:watch` - Run tests in watch mode
 - `npm run lint` - Run ESLint checks
 - `npm run lint:fix` - Fix ESLint issues
+- `npm run typecheck` - Type-check all TypeScript (`ts-node` only transpiles)
 - `npm run format` - Format all lyrics files and TypeScript code
 
 ### Build & Validation
