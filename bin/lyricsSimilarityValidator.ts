@@ -7,31 +7,21 @@
 import './env.js';
 
 import chalk from 'chalk';
-import fs from 'fs';
 import fsExtra from 'fs-extra';
 import { parseArgs } from 'node:util';
-import path from 'path';
 import * as process from 'process';
 import {
   DuplicateResolution,
   ERROR_CODE,
   NEW_LINE,
   SimilarityMatch,
-  SongFile,
   findSimilarSongs,
   getCandidatesDir,
   getVerifiedDir,
   logFileWithLinkInConsole,
   planDuplicateResolution,
-  readTxtFilesRecursively,
+  readSongFiles,
 } from '../src/index.js';
-
-const readSongFiles = async (dir: string): Promise<SongFile[]> =>
-  (await readTxtFilesRecursively(dir)).map((filePath) => ({
-    content: fs.readFileSync(filePath).toString(),
-    fileName: path.basename(filePath),
-    filePath,
-  }));
 
 const report = (comparison: string, matches: SimilarityMatch[]) => {
   console.log(

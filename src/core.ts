@@ -27,7 +27,7 @@ import {
   SPACE_CHAR,
   TXT_EXTENSION,
 } from './constants.js';
-import { SequenceChar, SongMeta, SongSection } from './types.js';
+import { SequenceChar, SongFile, SongMeta, SongSection } from './types.js';
 
 const MISSING_SEQUENCE_NUMBER = 1;
 
@@ -220,6 +220,13 @@ export const readTxtFilesRecursively = async (dir: string) =>
   (await readFilesRecursively(dir)).filter((filePath) =>
     isEqual(TXT_EXTENSION, path.extname(filePath)),
   );
+
+export const readSongFiles = async (dir: string): Promise<SongFile[]> =>
+  (await readTxtFilesRecursively(dir)).map((filePath) => ({
+    content: fs.readFileSync(filePath, 'utf8'),
+    fileName: path.basename(filePath),
+    filePath,
+  }));
 
 export const padForTex = (chars: number) => (content?: string) =>
   `${range(0, chars).map(constant(SPACE_CHAR)).join(EMPTY_STRING)}${content}`;

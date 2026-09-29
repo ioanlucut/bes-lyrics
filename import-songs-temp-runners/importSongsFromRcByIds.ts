@@ -14,7 +14,7 @@ import {
   logProcessingFile,
   parse,
   print,
-  readTxtFilesRecursively,
+  readSongFiles,
   resolveInside,
 } from '../src/index.js';
 
@@ -46,16 +46,10 @@ const RC_INDEX = JSON.parse(
 );
 
 const readFiles = async (dir: string) =>
-  (await readTxtFilesRecursively(dir)).map((filePath) => {
-    const contentAsString = fs.readFileSync(filePath).toString();
-
-    return {
-      contentAsString,
-      fileName: path.basename(filePath),
-      filePath,
-      songAST: parse(contentAsString, { ignoreUniquenessErrors: true }),
-    };
-  });
+  (await readSongFiles(dir)).map((songFile) => ({
+    ...songFile,
+    songAST: parse(songFile.content, { ignoreUniquenessErrors: true }),
+  }));
 
 const runFor = async (songsDirs: string[]) => {
   const allSongsInRepo = flatten(await Promise.all(songsDirs.map(readFiles)));

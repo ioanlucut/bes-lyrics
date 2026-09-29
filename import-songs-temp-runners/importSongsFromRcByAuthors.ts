@@ -14,7 +14,7 @@ import {
   NEW_LINE,
   parse,
   print,
-  readTxtFilesRecursively,
+  readSongFiles,
   resolveInside,
   UNSET_META,
 } from '../src/index.js';
@@ -35,20 +35,11 @@ const rcAuthorPathsToProcess = fsExtra
   .split(NEW_LINE)
   .filter(Boolean);
 
-const readFiles = async (dir: string) =>
-  (await readTxtFilesRecursively(dir)).map((filePath) => {
-    return {
-      contentAsString: fs.readFileSync(filePath).toString(),
-      fileName: path.basename(filePath),
-      filePath,
-    };
-  });
-
 const runFor = async (songsDirs: string[]) => {
   const allSongsInRepo = flatten(
-    await Promise.all(songsDirs.map(readFiles)),
-  ).map(({ contentAsString }) =>
-    parse(contentAsString, {
+    await Promise.all(songsDirs.map(readSongFiles)),
+  ).map(({ content }) =>
+    parse(content, {
       ignoreUniquenessErrors: true,
     }),
   );
@@ -57,14 +48,14 @@ const runFor = async (songsDirs: string[]) => {
   await pMap(rcAuthorPathsToProcess, async (pathConfig) => {
     const [counts, composer, authorPath] = pathConfig.split(COLON);
     const dirToImportFrom = resolveInside(RC_DIR, authorPath);
-    (await readFiles(dirToImportFrom)).forEach(
-      ({ contentAsString, filePath, fileName }) => {
+    (await readSongFiles(dirToImportFrom)).forEach(
+      ({ content, filePath, fileName }) => {
         logProcessingFile(
           fileName,
           `Import from RC from ${composer}; Counts: ${counts}.`,
         );
         logFileWithLinkInConsole(filePath);
-        const rcSongAST = parse(contentAsString, {
+        const rcSongAST = parse(content, {
           ignoreUniquenessErrors: true,
         });
 

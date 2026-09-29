@@ -12,7 +12,7 @@ import {
   NEW_LINE,
   padForTex,
   parse,
-  readTxtFilesRecursively,
+  readSongFiles,
   SongAST,
   TEX_EXTENSION,
   TEX_MUSICAL_NOTATIONS,
@@ -27,16 +27,10 @@ const BES_SONGBOOK_FILE = 'bes-songbook.tex';
 const TEX_OUTPUT = 'target-tex';
 
 const readFiles = async (dir: string) =>
-  (await readTxtFilesRecursively(dir)).map((filePath) => {
-    const contentAsString = fs.readFileSync(filePath).toString();
-
-    return {
-      fileName: path.basename(filePath),
-      filePath,
-      songAST: parse(contentAsString, { rejoinSubsections: true }),
-      contentAsString,
-    };
-  });
+  (await readSongFiles(dir)).map((songFile) => ({
+    ...songFile,
+    songAST: parse(songFile.content, { rejoinSubsections: true }),
+  }));
 
 const getSortKey = ({
   title,
@@ -61,14 +55,14 @@ const runForDirs = async (songsDirs: string[]) => {
   // Absolute paths, because `songbook:compile` runs from the repository root
   // and the release workflow from `LaTeX/songbook/`.
   const generatedFilePaths = songs.map(
-    ({ contentAsString, fileName, filePath, songAST }) => {
+    ({ content, fileName, filePath, songAST }) => {
       logProcessingFile(
         fileName,
         `Converting to TEX the song with title: ${songAST.title}.`,
       );
       logFileWithLinkInConsole(filePath);
 
-      if (!contentAsString.includes(TEX_MUSICAL_NOTATIONS)) {
+      if (!content.includes(TEX_MUSICAL_NOTATIONS)) {
         console.warn(
           `The song does not have musical notations present: "${chalk.yellow(
             filePath,

@@ -1,9 +1,9 @@
 import {
   DuplicateResolution,
-  SongFile,
   findSimilarSongs,
   planDuplicateResolution,
 } from './songSimilarity.js';
+import { SongFile } from './types.js';
 
 const createSongFile = (filePath: string, lyrics: string): SongFile => ({
   content: `[title]
