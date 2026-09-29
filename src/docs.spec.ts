@@ -110,8 +110,8 @@ describe('docs', () => {
 
         return Boolean(
           anchor &&
-            target.endsWith('.md') &&
-            !getAnchors(readDoc(target)).includes(anchor),
+          target.endsWith('.md') &&
+          !getAnchors(readDoc(target)).includes(anchor),
         );
       });
 
