@@ -263,4 +263,16 @@ describe('planFileRenames', () => {
       conflicts: [],
     });
   });
+
+  it('refuses to rename a song onto a file that is itself being renamed away', () => {
+    const chain = [
+      { from: 'verified/A.txt', to: 'verified/B.txt' },
+      { from: 'verified/B.txt', to: 'verified/C.txt' },
+    ];
+
+    expect(planFileRenames(chain)).toEqual({
+      renames: [chain[1]],
+      conflicts: [chain[0]],
+    });
+  });
 });
