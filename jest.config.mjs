@@ -25,5 +25,16 @@ const jestConfig = {
   },
   // https://github.com/jestjs/jest/issues/14305#issuecomment-1627346697
   prettierPath: null,
+  collectCoverageFrom: ['src/**/*.ts', '!src/**/*.spec.ts', '!src/index.ts'],
+  coverageReporters: ['text-summary', 'text'],
+  // A floor, not a target: raise it whenever coverage rises.
+  coverageThreshold: {
+    global: {
+      branches: 81,
+      functions: 91,
+      lines: 96,
+      statements: 96,
+    },
+  },
 };
 export default jestConfig;
