@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Clone repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.event.pull_request.head.ref }}
 
@@ -31,7 +31,7 @@ jobs:
           fc-list | grep -i "georgia"
 
       - name: Use Node.js 24.x
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: 24.x
 
@@ -56,7 +56,7 @@ jobs:
           echo "release_tag=$release_tag" >> $GITHUB_OUTPUT
 
       - name: Release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           files: 'LaTeX/songbook/bes-songbook.pdf'
           tag_name: ${{ steps.tag.outputs.release_tag }}
