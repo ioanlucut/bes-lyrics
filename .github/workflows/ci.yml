@@ -9,11 +9,11 @@ jobs:
       rcOutput: ${{ steps.filter.outputs.rcImportsHaveChanged }}
     steps:
       - name: Clone repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.event.pull_request.head.ref }}
 
-      - uses: dorny/paths-filter@v3
+      - uses: dorny/paths-filter@v4
         id: filter
         with:
           filters: |
@@ -27,12 +27,12 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Clone repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Use Node.js 24.x
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: 24.x
 
@@ -51,13 +51,13 @@ jobs:
     if: needs.ChangedCodePathsFilter.outputs.rcOutput == 'true'
     steps:
       - name: Clone repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.event.pull_request.head.ref }}
           path: bes-lyrics
 
       - name: Checkout bes-lyrics-parser repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           token: ${{ secrets.PAT_BES_PROJECTS }}
           repository: ioanlucut/bes-lyrics-parser
@@ -66,7 +66,7 @@ jobs:
             out
 
       - name: Use Node.js 24.x
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: 24.x
 
@@ -91,12 +91,12 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Clone repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Use Node.js 24.x
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: 24.x
 

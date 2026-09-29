@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Clone repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.event.pull_request.head.ref }}
 
@@ -29,7 +29,7 @@ jobs:
         run: echo "release_tag=BES_Conduct_$(date +"%Y.%m.%d_%H-%M")" >> $GITHUB_OUTPUT
 
       - name: Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v3
         with:
           files: 'LaTeX/conduct/BES_Conduct_Afisaj.pdf'
           tag_name: ${{ steps.tag.outputs.release_tag }}
