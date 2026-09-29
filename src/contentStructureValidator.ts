@@ -1,13 +1,4 @@
-import {
-  difference,
-  first,
-  isEmpty,
-  isEqual,
-  last,
-  size,
-  uniq,
-  without,
-} from 'lodash-es';
+import { difference, isEmpty, size, uniq, without } from 'lodash-es';
 import assert from 'node:assert';
 import { COMMA, DOT, EMPTY_STRING } from './constants.js';
 import {
@@ -50,154 +41,93 @@ const assertIsCorrectSequence = (
   return true;
 };
 
+type SectionNumber = {
+  qualifier: string;
+  section: number;
+  part?: number;
+};
+
+// "2" → section 2; "1.2" → part 2 of section 1. Deeper nesting is rejected.
+const toSectionNumber = (qualifier: string): SectionNumber => {
+  if (!qualifier.includes(DOT)) {
+    return { qualifier, section: convertSequenceToNumber(qualifier) };
+  }
+
+  const numbers = qualifier.split(DOT).map(convertSequenceToNumber);
+
+  assert.equal(
+    numbers.length,
+    EXPECTED_SUB_SECTIONS_LENGTH,
+    `The ${qualifier} sub-qualifier should have length of ${EXPECTED_SUB_SECTIONS_LENGTH}.`,
+  );
+
+  const [section, part] = numbers;
+
+  return { qualifier, section, part };
+};
+
+/**
+ * Each marker must follow the previous one of its kind: the next section
+ * (`v1` → `v2`, `v1.2` → `v2.1`), or the next part of the same section
+ * (`v1.1` → `v1.2`).
+ */
+const assertFollows = (
+  previous: SectionNumber,
+  current: SectionNumber,
+  sequenceChar: SequenceChar,
+) => {
+  const hasParts = previous.part !== undefined || current.part !== undefined;
+  const previousContext = hasParts ? previous.qualifier : sequenceChar;
+  const currentContext = hasParts ? current.qualifier : sequenceChar;
+
+  if (
+    previous.part !== undefined &&
+    current.part !== undefined &&
+    previous.section === current.section
+  ) {
+    return assertIsCorrectSequence(
+      current.part,
+      previous.part,
+      currentContext,
+      previousContext,
+    );
+  }
+
+  if (previous.part !== undefined && current.part !== undefined) {
+    assert.notEqual(
+      current.part,
+      previous.part,
+      `The "${current.section}${DOT}${current.part}" and "${previous.section}${DOT}${previous.part}" cannot both end in the same sub sequence.`,
+    );
+  }
+
+  return assertIsCorrectSequence(
+    current.section,
+    previous.section,
+    currentContext,
+    previousContext,
+  );
+};
+
 const isSequenceCharInRightOrder = (
   allSequencesWithMarkup: string[],
   sequenceCharToVerify: SequenceChar,
 ) => {
-  return uniq(
+  const qualifiers = uniq(
     allSequencesWithMarkup
       .map(getCharWithoutMarkup)
       .filter((char) => REGEX_SUPPLIERS[sequenceCharToVerify]().test(char)),
-  ).every((_, index, array) => {
-    if (!index) {
-      return true;
-    }
+  ).map((sequence) => sequence.replace(sequenceCharToVerify, EMPTY_STRING));
 
-    // ---
-    // Previous sequence, e.g. [v1] or [v1.1]
-    const previousSequence = array[index - 1];
-
-    // ---
-    // Previous sequence w/o qualifier, e.g. [1] or [1.1]
-    const previousSequenceOrderQualifier = previousSequence.replace(
-      sequenceCharToVerify,
-      EMPTY_STRING,
-    );
-
-    // ---
-    // Current sequence, e.g. [v2] or [v1.2]
-    const currentSequence = array[index];
-
-    // ---
-    // Current sequence w/o qualifier, e.g. [2] or [1.2]
-    const currentSequenceOrderQualifier = currentSequence.replace(
-      sequenceCharToVerify,
-      EMPTY_STRING,
-    );
-
-    // ---
-    // Both sequences are not having sub sections, e.g. [1] and [2]
-    if (
-      [previousSequenceOrderQualifier, currentSequenceOrderQualifier].every(
-        (sequenceWithQualifier) => !sequenceWithQualifier.includes(DOT),
-      )
-    ) {
-      return assertIsCorrectSequence(
-        convertSequenceToNumber(currentSequenceOrderQualifier),
-        convertSequenceToNumber(previousSequenceOrderQualifier),
+  return qualifiers.every(
+    (qualifier, index) =>
+      !index ||
+      assertFollows(
+        toSectionNumber(qualifiers[index - 1]),
+        toSectionNumber(qualifier),
         sequenceCharToVerify,
-        sequenceCharToVerify,
-      );
-    }
-
-    // ---
-    // Both sequences have sub sections, e.g. [1.1] and [1.2]
-    if (
-      [previousSequenceOrderQualifier, currentSequenceOrderQualifier].every(
-        (sequenceWithQualifier) => sequenceWithQualifier.includes(DOT),
-      )
-    ) {
-      const previousSequenceOrderQualifierSubSections =
-        previousSequenceOrderQualifier.split(DOT).map(convertSequenceToNumber);
-      const currentSequenceOrderQualifierSubSections =
-        currentSequenceOrderQualifier.split(DOT).map(convertSequenceToNumber);
-
-      assert.equal(
-        previousSequenceOrderQualifierSubSections.length,
-        EXPECTED_SUB_SECTIONS_LENGTH,
-        `The ${previousSequenceOrderQualifier} sub-qualifier should have length of ${EXPECTED_SUB_SECTIONS_LENGTH}.`,
-      );
-
-      assert.equal(
-        currentSequenceOrderQualifierSubSections.length,
-        EXPECTED_SUB_SECTIONS_LENGTH,
-        `The ${currentSequenceOrderQualifier} sub-qualifier should have length of ${EXPECTED_SUB_SECTIONS_LENGTH}.`,
-      );
-
-      // ---
-      // Both sequences have subsections from the same main section, e.g. [1.1] and [1.2]
-      if (
-        isEqual(
-          first(previousSequenceOrderQualifierSubSections),
-          first(currentSequenceOrderQualifierSubSections),
-        )
-      ) {
-        return assertIsCorrectSequence(
-          last(currentSequenceOrderQualifierSubSections) as number,
-          last(previousSequenceOrderQualifierSubSections) as number,
-          currentSequenceOrderQualifier,
-          previousSequenceOrderQualifier,
-        );
-      }
-
-      assert.notEqual(
-        last(currentSequenceOrderQualifierSubSections) as number,
-        last(previousSequenceOrderQualifierSubSections) as number,
-        `The "${currentSequenceOrderQualifierSubSections.join(
-          DOT,
-        )}" and "${previousSequenceOrderQualifierSubSections.join(
-          DOT,
-        )}" cannot both end in the same sub sequence.`,
-      );
-
-      // ---
-      // Both sequences have subsections from different main section, e.g. [1.2] and [2.1]
-      return assertIsCorrectSequence(
-        first(currentSequenceOrderQualifierSubSections) as number,
-        first(previousSequenceOrderQualifierSubSections) as number,
-        currentSequenceOrderQualifier,
-        previousSequenceOrderQualifier,
-      );
-    }
-
-    // ---
-    // First sequence has sub section, second not, e.g. [2.1] and [3]
-    if (!previousSequenceOrderQualifier.includes(DOT)) {
-      const currentSequenceOrderQualifierSubSections =
-        currentSequenceOrderQualifier.split(DOT).map(convertSequenceToNumber);
-
-      assert.equal(
-        currentSequenceOrderQualifierSubSections.length,
-        EXPECTED_SUB_SECTIONS_LENGTH,
-        `The ${currentSequenceOrderQualifier} sub-qualifier should have length of ${EXPECTED_SUB_SECTIONS_LENGTH}.`,
-      );
-
-      return assertIsCorrectSequence(
-        first(currentSequenceOrderQualifierSubSections) as number,
-        convertSequenceToNumber(previousSequenceOrderQualifier),
-        currentSequenceOrderQualifier,
-        previousSequenceOrderQualifier,
-      );
-    }
-
-    // ---
-    // First sequence has no section, second has, e.g. [2] and [3.1]
-    const previousSequenceOrderQualifierSubSections =
-      previousSequenceOrderQualifier.split(DOT).map(convertSequenceToNumber);
-
-    assert.equal(
-      previousSequenceOrderQualifierSubSections.length,
-      EXPECTED_SUB_SECTIONS_LENGTH,
-      `The ${previousSequenceOrderQualifier} sub-qualifier should have length of ${EXPECTED_SUB_SECTIONS_LENGTH}.`,
-    );
-
-    return assertIsCorrectSequence(
-      convertSequenceToNumber(currentSequenceOrderQualifier),
-      first(previousSequenceOrderQualifierSubSections) as number,
-      currentSequenceOrderQualifier,
-      previousSequenceOrderQualifier,
-    );
-  });
+      ),
+  );
 };
 
 export const verifyStructure = (content: string) => {
