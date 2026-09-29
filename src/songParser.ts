@@ -56,9 +56,7 @@ export const parse = (
     const sectionIdentifier = sectionTuples[sectionIndex] as string;
 
     const maybeSectionSequenceType = first(
-      getCharWithoutMarkup(sectionIdentifier)
-        .replaceAll('[^a-zA-Z0-9 -]', EMPTY_STRING)
-        .replace(DOT, EMPTY_STRING),
+      getCharWithoutMarkup(sectionIdentifier).replace(DOT, EMPTY_STRING),
     ) as SequenceChar;
 
     const sectionSequenceType = Object.values(SequenceChar).includes(

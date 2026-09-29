@@ -57,34 +57,31 @@ export const getTitleByRawSection = (rawTitleContent: string) =>
     .filter(Boolean);
 
 export const getVerseRegex = () =>
-  new RegExp(`${SequenceChar.VERSE}([1-9]\\d*)(\\.?)([1-9]\\d*)?$`, 'gi');
+  new RegExp(`^${SequenceChar.VERSE}([1-9]\\d*)(\\.?)([1-9]\\d*)?$`, 'gi');
 
 export const getPrechorusRegex = () =>
   new RegExp(
-    `${SequenceChar.PRECHORUS}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
+    `^${SequenceChar.PRECHORUS}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
     'gi',
   );
 
 export const getChorusRegex = () =>
   new RegExp(
-    `${SequenceChar.CHORUS}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
+    `^${SequenceChar.CHORUS}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
     'gi',
   );
 
 export const getBridgeRegex = () =>
   new RegExp(
-    `${SequenceChar.BRIDGE}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
+    `^${SequenceChar.BRIDGE}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
     'gi',
   );
 
 export const getRecitalRegex = () =>
   new RegExp(
-    `${SequenceChar.RECITAL}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
+    `^${SequenceChar.RECITAL}(?!1$)([1-9]\\d*)?(\\.?)([1-9]\\d*)?$`,
     'gi',
   );
-
-export const getEndingRegex = () =>
-  new RegExp(`${SequenceChar.ENDING}(?!1$)w$`, 'gi');
 
 export const isKnownSongSequence = (sequenceChar: string | SequenceChar) => {
   if (isEqual(SequenceChar.ENDING, sequenceChar)) {
@@ -98,7 +95,6 @@ export const isKnownSongSequence = (sequenceChar: string | SequenceChar) => {
     getPrechorusRegex(),
     getChorusRegex(),
     getBridgeRegex(),
-    getEndingRegex(),
     getRecitalRegex(),
   ].some((matcher) => matcher.test(sequenceChar));
 };
@@ -112,7 +108,7 @@ export const getCharWithMarkup = (charWithoutMarkup: string) =>
   `[${charWithoutMarkup}]`;
 
 export const getUniqueCharsAndRelevantChars = (content: string) =>
-  flattenDeep(uniq(content.replaceAll(/\(\),-\.:;\?!/gimu, EMPTY_STRING)))
+  flattenDeep(uniq(content.replaceAll(/[(),\-.:;?!]/gu, EMPTY_STRING)))
     .filter(Boolean)
     .sort();
 
