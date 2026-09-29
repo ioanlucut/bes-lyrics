@@ -1,7 +1,5 @@
 import { find, isEmpty, isEqual, negate, trim, uniq } from 'lodash-es';
 import {
-  COLON,
-  COMMA,
   EMPTY_STRING,
   NAME_SEPARATOR,
   NULL,
@@ -9,7 +7,7 @@ import {
   TXT_EXTENSION,
   UNSET_META,
 } from './constants.js';
-import { getTitleByRawSection } from './core.js';
+import { getMetaSectionsFromTitle, getTitleByRawSection } from './core.js';
 import { SongMeta } from './types.js';
 
 const getCleanVersion = (title: string) => {
@@ -42,31 +40,8 @@ const getCleanVersion = (title: string) => {
 };
 
 export const deriveFromTitle = (titleContent: string) => {
-  const [title, meta] = getTitleByRawSection(titleContent);
-
-  const metaSections =
-    (meta
-      ?.split(COMMA)
-      ?.map((hit) => {
-        const [type, value] = hit.split(COLON).map(trim);
-
-        return {
-          type,
-          value: value
-            ?.replace(/{/gim, EMPTY_STRING)
-            ?.replace(/}/gim, EMPTY_STRING),
-        } as {
-          type: SongMeta;
-          value: string;
-        };
-      })
-      ?.reduce(
-        (accumulator, { type, value }) => ({
-          ...accumulator,
-          [type]: value,
-        }),
-        {},
-      ) as Record<SongMeta, string>) || {};
+  const [title] = getTitleByRawSection(titleContent);
+  const metaSections = getMetaSectionsFromTitle(titleContent);
 
   const getSectionBy = (metaKey: SongMeta) =>
     isEqual(metaSections[metaKey], UNSET_META)

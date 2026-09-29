@@ -202,6 +202,14 @@ describe('lyricsFileNameReprocessor', () => {
   });
 });
 
+describe('deriveFromTitle', () => {
+  it('keeps a composer whose name contains a comma', () => {
+    expect(
+      deriveFromTitle('Titlu {composer: {Ana, Ion}, tags: {Psalmul 23:1}}'),
+    ).toEqual('Ana Ion - Titlu.txt');
+  });
+});
+
 describe('planFileRenames', () => {
   it('renames a song to a free file name', () => {
     expect(

@@ -8,7 +8,6 @@ import {
   flattenDeep,
   includes,
   isEqual,
-  last,
   parseInt,
   range,
   size,
@@ -178,16 +177,29 @@ export const getWithoutMetaMarkup = (charWithMarkup?: string) =>
 export const getTitleWithoutMeta = (titleContent: string) =>
   trim(first(titleContent.split(/\{/i)) as string);
 
-export const getMetaSectionsFromTitle = (titleContent: string) => {
-  const charWithMarkup = last(titleContent.split(/(\{.*})$/gi).filter(Boolean));
+// Entries are separated by a comma only when the next entry starts with a
+// key, so a value may itself contain commas or colons.
+const META_ENTRY_SEPARATOR = /,\s*(?=\w+\s*:)/;
 
-  return (getWithoutMetaMarkup(charWithMarkup) || EMPTY_STRING)
-    .split(COMMA)
+export const getMetaSectionsFromTitle = (titleContent: string) => {
+  const [metaWithMarkup] = titleContent.match(/\{.*}$/) ?? [];
+
+  return (getWithoutMetaMarkup(metaWithMarkup) || EMPTY_STRING)
+    .split(META_ENTRY_SEPARATOR)
     .map(trim)
     .reduce((accumulator, entry) => {
-      const [sequence, content] = entry.split(COLON);
+      const separatorIndex = entry.indexOf(COLON);
 
-      return { ...accumulator, [sequence]: trim(content) };
+      if (separatorIndex === -1) {
+        return accumulator;
+      }
+
+      return {
+        ...accumulator,
+        [trim(entry.slice(0, separatorIndex))]: trim(
+          entry.slice(separatorIndex + 1),
+        ),
+      };
     }, {}) as Record<SongMeta, string>;
 };
 
