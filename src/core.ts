@@ -1,5 +1,6 @@
 import chalk from 'chalk';
 import * as crypto from 'crypto';
+import fs from 'fs';
 import {
   constant,
   filter,
@@ -16,7 +17,6 @@ import {
 } from 'lodash-es';
 import assert from 'node:assert';
 import path from 'path';
-import recursive from 'recursive-readdir';
 import short from 'short-uuid';
 import {
   COLON,
@@ -194,8 +194,21 @@ export const getMetaSectionsFromTitle = (titleContent: string) => {
 export const multiToSingle = (text: string) =>
   text?.split(SEMICOLON)?.map(trim).join(`${SEMICOLON}${SPACE_CHAR}`);
 
+/**
+ * Lists every file under `dir`, sorted so scripts process songs in the same
+ * order on every file system. Files named in `ignoredFileNames` are skipped.
+ */
+export const readFilesRecursively = async (
+  dir: string,
+  ignoredFileNames: string[] = [],
+) =>
+  (await fs.promises.readdir(dir, { recursive: true, withFileTypes: true }))
+    .filter((entry) => entry.isFile() && !ignoredFileNames.includes(entry.name))
+    .map((entry) => path.join(entry.parentPath, entry.name))
+    .sort();
+
 export const readTxtFilesRecursively = async (dir: string) =>
-  (await recursive(dir)).filter((filePath) =>
+  (await readFilesRecursively(dir)).filter((filePath) =>
     isEqual(TXT_EXTENSION, path.extname(filePath)),
   );
 

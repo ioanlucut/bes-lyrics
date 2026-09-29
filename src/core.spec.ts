@@ -9,6 +9,8 @@ import {
   getUniqueCharsAndRelevantChars,
   isKnownSongSequence,
   multiToSingle,
+  readFilesRecursively,
+  readTxtFilesRecursively,
   resolveInside,
 } from './core.js';
 
@@ -294,6 +296,31 @@ describe('multiToSingle', () => {
     ])('throws for %j, which leaves the base directory', (segments) => {
       expect(() => resolveInside('candidates', ...segments)).toThrow(
         'resolves outside "candidates"',
+      );
+    });
+  });
+
+  describe('readFilesRecursively', () => {
+    it('lists nested files in sorted order, skipping ignored file names', async () => {
+      await expect(
+        readFilesRecursively('mocks', ['simpleSong.mock.txt']),
+      ).resolves.toEqual([
+        'mocks/index.ts',
+        'mocks/simpleSongWOID.mock.txt',
+        'mocks/songWithMismatchingContent.mock.txt',
+        'mocks/songWithMismatchingSequence.mock.txt',
+        'mocks/songWithSubSectionsThatRequiresSplit.mock.txt',
+        'mocks/songWithSubSectionsThatRequiresUnSplit.mock.txt',
+        'mocks/songWithSubsections.mock.txt',
+      ]);
+    });
+
+    it('keeps only ".txt" files when reading songs', async () => {
+      const filePaths = await readTxtFilesRecursively('mocks');
+
+      expect(filePaths).toHaveLength(7);
+      expect(filePaths.every((filePath) => filePath.endsWith('.txt'))).toBe(
+        true,
       );
     });
   });
