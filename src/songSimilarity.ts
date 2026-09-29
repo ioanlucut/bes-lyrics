@@ -108,7 +108,8 @@ const canExceedThreshold = (
  * Finds, for every song, the other songs whose lyrics are more similar than
  * `SIMILARITY_THRESHOLD`. Songs marked as alternative versions (`- i`,
  * `- ii`) are expected to resemble their original and are not reported.
- * Comparing a list with itself compares each pair once.
+ * Passing the same array as both lists compares each pair once; two arrays
+ * with the same songs are compared in full.
  */
 export const findSimilarSongs = (
   songs: SongFile[],
