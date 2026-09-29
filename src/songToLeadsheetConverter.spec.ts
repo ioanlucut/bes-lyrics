@@ -230,5 +230,95 @@ Ori zece mii de ani și-n veșnicii.",
     it('should normalise words with wrong chord notations (having space in {A C})', () => {
       expect(() => getNormalizedContent('^{A C}th')).toThrow();
     });
+
+    it.each([
+      ['\\', '\\textbackslash{}'],
+      ['%', '\\%'],
+      ['#', '\\#'],
+      ['$', '\\$'],
+      ['_', '\\_'],
+      ['&', '\\&'],
+      ['~', '\\textasciitilde{}'],
+      ['^', '\\textasciicircum{}'],
+      ['}', '\\}'],
+    ])('escapes "%s" in lyrics as "%s"', (texActiveChar, escapedChar) => {
+      expect(getNormalizedContent(`a${texActiveChar}b`)).toEqual(
+        `a${escapedChar}b`,
+      );
+    });
+
+    it('escapes lyrics around chords without touching the chords', () => {
+      expect(getNormalizedContent('^{D/F#}lumi_na^{G}t 100%')).toEqual(
+        '^*{D-F#}lumi\\_na ^{G}t 100\\%',
+      );
+    });
+
+    it('throws on chord markup that is not a chord', () => {
+      expect(() => getNormalizedContent('^{\\input}text')).toThrow(
+        'The ^{\\input} chord is not valid.',
+      );
+    });
+
+    it('turns a shell-escape payload into printed text', () => {
+      expect(
+        getNormalizedContent(
+          '\\immediate\\write18\\bgroup touch pwned\\egroup',
+        ),
+      ).toEqual(
+        '\\textbackslash{}immediate\\textbackslash{}write18\\textbackslash{}bgroup touch pwned\\textbackslash{}egroup',
+      );
+    });
+  });
+
+  describe('convertSongToLeadsheet', () => {
+    it('escapes TeX-active characters in the title and metadata', () => {
+      const tex = convertSongToLeadsheet(
+        parse(`[title]
+Titlu_cu \\input 100% {composer: {A & B_C}, tags: {#1}, key: {F#m}, id: {abc}}
+
+[sequence]
+v1
+
+[v1]
+Text
+`),
+      );
+
+      expect(tex).toContain('title={Titlu\\_cu \\textbackslash{}input 100\\%}');
+      expect(tex).toContain('composer={A \\& B\\_C}');
+      expect(tex).toContain('tags={\\#1}');
+    });
+
+    it('keeps a chord key as written so Leadsheets can transpose it', () => {
+      const tex = convertSongToLeadsheet(
+        parse(`[title]
+Titlu {key: {F#m}, id: {abc}}
+
+[sequence]
+v1
+
+[v1]
+Text
+`),
+      );
+
+      expect(tex).toContain('key={F#m}');
+    });
+
+    it('escapes a key that is not a chord', () => {
+      const tex = convertSongToLeadsheet(
+        parse(`[title]
+Titlu {key: {Re_major}, id: {abc}}
+
+[sequence]
+v1
+
+[v1]
+Text
+`),
+      );
+
+      expect(tex).toContain('key={Re\\_major}');
+    });
   });
 });

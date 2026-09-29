@@ -105,8 +105,8 @@ const isValidChordSegment = (chordSegment: string) => {
   );
 };
 
-const isValidChord = (chord: string) =>
-  chord.split('-').every(isValidChordSegment);
+export const isValidChord = (chord: string) =>
+  SAFE_CHORD_PATTERN.test(chord) && chord.split('-').every(isValidChordSegment);
 
 export const transferChordMarkup = (
   canonicalContent: string,
@@ -180,9 +180,7 @@ export const transferChordMarkup = (
 export const getInvalidChordMarkups = (content: string) => {
   const chordMarkups = Array.from(content.matchAll(CHORD_MARKUP_PATTERN));
   const invalidChordMarkups = chordMarkups
-    .filter(
-      ([, chord]) => !SAFE_CHORD_PATTERN.test(chord) || !isValidChord(chord),
-    )
+    .filter(([, chord]) => !isValidChord(chord))
     .map(([chordMarkup]) => chordMarkup);
   const chordMarkupStarts = Array.from(
     content.matchAll(CHORD_MARKUP_START_PATTERN),
