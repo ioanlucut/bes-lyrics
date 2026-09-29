@@ -66,7 +66,9 @@ request branch and commits any changes as
 `[Bot] I have added all of the meta information…`:
 
 1. `reprocess:filename` renames each file after its metadata (see
-   [Song format](song-format.md#title-and-metadata)).
+   [Song format](song-format.md#title-and-metadata)). If a new name belongs to
+   another song, or two songs would get the same name, it renames nothing and
+   fails, naming the songs whose metadata must differ.
 2. `reprocess:content` normalizes text and reprints each song, which assigns
    missing IDs: `ş`/`ţ` → `ș`/`ț`, `"` → `”`, `'` → `’`, `…` → `...`, double
    spaces, `nici o` → `nicio`, `Cristos` → `Hristos`, capitalized divine names

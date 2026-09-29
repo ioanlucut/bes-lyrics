@@ -1,5 +1,8 @@
 import { ALLOWED_CHARS, EMPTY_STRING, UNSET_META } from './constants.js';
-import { deriveFromTitle } from './lyricsFileNameReprocessor.js';
+import {
+  deriveFromTitle,
+  planFileRenames,
+} from './lyricsFileNameReprocessor.js';
 
 describe('lyricsFileNameReprocessor', () => {
   it('should work correctly by correctly mapping the existing allowed chars', () => {
@@ -196,5 +199,68 @@ describe('lyricsFileNameReprocessor', () => {
     ).toMatchInlineSnapshot(
       `"ANY_ARRANGER - Any title - ANY_ALTERNATIVE - ANY_VERSION.txt"`,
     );
+  });
+});
+
+describe('planFileRenames', () => {
+  it('renames a song to a free file name', () => {
+    expect(
+      planFileRenames([
+        { from: 'verified/Old.txt', to: 'verified/New.txt' },
+        { from: 'verified/Other.txt', to: 'verified/Other.txt' },
+      ]),
+    ).toEqual({
+      renames: [{ from: 'verified/Old.txt', to: 'verified/New.txt' }],
+      conflicts: [],
+    });
+  });
+
+  it('refuses to rename a song onto another song', () => {
+    const renameOntoOther = {
+      from: 'verified/Old.txt',
+      to: 'verified/Other.txt',
+    };
+
+    expect(
+      planFileRenames([
+        renameOntoOther,
+        { from: 'verified/Other.txt', to: 'verified/Other.txt' },
+      ]),
+    ).toEqual({ renames: [], conflicts: [renameOntoOther] });
+  });
+
+  it('refuses to rename a song onto another song whose name differs only in case', () => {
+    const renameOntoOther = {
+      from: 'verified/Old.txt',
+      to: 'verified/other.txt',
+    };
+
+    expect(
+      planFileRenames([
+        renameOntoOther,
+        { from: 'verified/Other.txt', to: 'verified/Other.txt' },
+      ]),
+    ).toEqual({ renames: [], conflicts: [renameOntoOther] });
+  });
+
+  it('refuses two renames onto the same file name', () => {
+    const renames = [
+      { from: 'verified/A.txt', to: 'verified/Same.txt' },
+      { from: 'verified/B.txt', to: 'verified/Same.txt' },
+    ];
+
+    expect(planFileRenames(renames)).toEqual({
+      renames: [],
+      conflicts: renames,
+    });
+  });
+
+  it('allows a rename that only changes the case of the file name', () => {
+    const caseRename = { from: 'verified/old.txt', to: 'verified/Old.txt' };
+
+    expect(planFileRenames([caseRename])).toEqual({
+      renames: [caseRename],
+      conflicts: [],
+    });
   });
 });
