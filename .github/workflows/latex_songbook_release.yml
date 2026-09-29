@@ -4,11 +4,15 @@ on:
   push:
     branches:
       - main
+    # Keep in step with the pull_request paths in songbook_build.yml.
     paths:
       - 'leadsheets/trupe_lauda_si_inchinare/**'
       - 'LaTeX/songbook/**'
       - 'src/songToLeadsheetConverter.ts'
+      - 'src/chordMarkup.ts'
+      - 'src/songParser.ts'
       - '.github/workflows/songbook_build.yml'
+      - '.github/workflows/latex_songbook_release.yml'
   workflow_dispatch:
 
 permissions:
