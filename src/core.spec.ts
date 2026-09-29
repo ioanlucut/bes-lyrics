@@ -256,6 +256,25 @@ describe('getMetaSectionsFromTitle', () => {
 }
 `);
   });
+
+  it('keeps commas and colons inside a value', () => {
+    expect(
+      getMetaSectionsFromTitle(
+        'Titlu {composer: {Ana, Ion}, tags: {Psalmul 23:1}, id: {abc}}',
+      ),
+    ).toEqual({ composer: 'Ana, Ion', tags: 'Psalmul 23:1', id: 'abc' });
+  });
+
+  it('reads values written without braces', () => {
+    expect(getMetaSectionsFromTitle('Titlu {composer: Ana, id: abc}')).toEqual({
+      composer: 'Ana',
+      id: 'abc',
+    });
+  });
+
+  it('reads nothing from a title without metadata', () => {
+    expect(getMetaSectionsFromTitle('Titlu: Psalmul 23')).toEqual({});
+  });
 });
 
 describe('multiToSingle', () => {
@@ -276,28 +295,28 @@ describe('multiToSingle', () => {
       `"ANY_alternative; ANY_alternative part1, part2; ANY_alternative3"`,
     );
   });
+});
 
-  describe('resolveInside', () => {
-    it.each([
-      [['Autor', 'Cantec.txt'], 'Autor/Cantec.txt'],
-      [['./Autor/../Alt autor/Cantec.txt'], 'Alt autor/Cantec.txt'],
-    ])('resolves %j inside the base directory', (segments, expectedPath) => {
-      expect(resolveInside('candidates', ...segments)).toEqual(
-        path.resolve('candidates', expectedPath),
-      );
-    });
+describe('resolveInside', () => {
+  it.each([
+    [['Autor', 'Cantec.txt'], 'Autor/Cantec.txt'],
+    [['./Autor/../Alt autor/Cantec.txt'], 'Alt autor/Cantec.txt'],
+  ])('resolves %j inside the base directory', (segments, expectedPath) => {
+    expect(resolveInside('candidates', ...segments)).toEqual(
+      path.resolve('candidates', expectedPath),
+    );
+  });
 
-    it.each([
-      [['../verified', 'Cantec.txt']],
-      [['/etc/passwd']],
-      [['..']],
-      [['.']],
-      [['../candidates-copy/Cantec.txt']],
-    ])('throws for %j, which leaves the base directory', (segments) => {
-      expect(() => resolveInside('candidates', ...segments)).toThrow(
-        'resolves outside "candidates"',
-      );
-    });
+  it.each([
+    [['../verified', 'Cantec.txt']],
+    [['/etc/passwd']],
+    [['..']],
+    [['.']],
+    [['../candidates-copy/Cantec.txt']],
+  ])('throws for %j, which leaves the base directory', (segments) => {
+    expect(() => resolveInside('candidates', ...segments)).toThrow(
+      'resolves outside "candidates"',
+    );
   });
 
   describe('readFilesRecursively', () => {

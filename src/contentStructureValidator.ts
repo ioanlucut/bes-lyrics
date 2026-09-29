@@ -213,7 +213,9 @@ export const verifyStructure = (content: string) => {
     throw new Error(`${SongSection.SEQUENCE} is missing.`);
   }
 
-  const sequenceIdentifiersFromSequenceSection = sectionTuples[3]
+  const sequenceIdentifiersFromSequenceSection = sectionTuples[
+    sectionTuples.indexOf(SongSection.SEQUENCE) + 1
+  ]
     .split(COMMA)
     .map((sequenceChar) => {
       if (!isKnownSongSequence(sequenceChar)) {

@@ -46,6 +46,19 @@ Chorus`),
   });
 
   describe('section', () => {
+    it('reads the [sequence] wherever it appears', () => {
+      expect(
+        verifyStructure(`[title]
+My custom title
+
+[v1]
+Row 1
+
+[sequence]
+v1`),
+      ).toBe(true);
+    });
+
     it.each(['ab', 'cv1', 'ew'])(
       'rejects the unknown "%s" section',
       (sectionName) => {

@@ -91,12 +91,9 @@ export const parse = (
         writer,
       } = metaSectionsFromTitle;
 
-      // Just a basic one, but should be updated after any potential changes
+      // The input's hash; `print` writes the hash of the canonical text.
       songAST.contentHash = computeUniqueContentHash(
-        songAsString.replaceAll(
-          songAST.sectionsMap[SongSection.TITLE].content,
-          songAST.title,
-        ),
+        songAsString.replaceAll(sectionContent, songAST.title),
       );
 
       songAST.alternative = multiToSingle(alternative) || UNSET_META;
