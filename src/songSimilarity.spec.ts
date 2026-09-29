@@ -131,5 +131,19 @@ describe('songSimilarity', () => {
         planDuplicateResolution([match], DuplicateResolution.REMOVE_CANDIDATE),
       ).toHaveLength(1);
     });
+
+    it('replaces nothing when several candidates duplicate the same verified song', () => {
+      const secondCandidate = createSongFile(
+        'candidates/Alt autor - Cat de mare.txt',
+        LYRICS,
+      );
+
+      expect(
+        planDuplicateResolution(
+          findSimilarSongs([CANDIDATE, secondCandidate], [VERIFIED_DUPLICATE]),
+          DuplicateResolution.REPLACE_EXISTING,
+        ),
+      ).toEqual([]);
+    });
   });
 });

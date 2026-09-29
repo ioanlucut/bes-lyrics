@@ -79,12 +79,25 @@ if (overwrite || removeDuplicates) {
   const candidateMatches = findSimilarSongs(candidates, verifiedSongs);
   report('Candidates against verified songs', candidateMatches);
 
-  planDuplicateResolution(
+  const actions = planDuplicateResolution(
     candidateMatches,
     overwrite
       ? DuplicateResolution.REPLACE_EXISTING
       : DuplicateResolution.REMOVE_CANDIDATE,
-  ).forEach((action) => {
+  );
+  const plannedCandidatePaths = actions.map(
+    ({ candidatePath }) => candidatePath,
+  );
+
+  candidateMatches
+    .filter(({ song }) => !plannedCandidatePaths.includes(song.filePath))
+    .forEach(({ song }) =>
+      console.log(
+        `Left "${song.filePath}" in place: another candidate duplicates the same verified song.`,
+      ),
+    );
+
+  actions.forEach((action) => {
     if (action.type === DuplicateResolution.REMOVE_CANDIDATE) {
       fsExtra.removeSync(action.candidatePath);
       console.log(`Removed "${action.candidatePath}".`);

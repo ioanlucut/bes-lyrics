@@ -75,20 +75,36 @@ export const findSimilarSongs = (
 
 /**
  * Plans how to resolve candidates that duplicate a verified song: one action
- * per candidate, against the first verified song it resembles. Only the
+ * per candidate, against the first verified song it resembles, so a candidate
+ * resembling several songs needs another run for the rest. Only the
  * candidates-against-verified comparison may be resolved this way; the other
- * comparisons have no side that is safe to delete or overwrite.
+ * comparisons have no side that is safe to delete or overwrite. When several
+ * candidates would replace the same verified song, none of them does, because
+ * only the last one would survive.
  */
 export const planDuplicateResolution = (
   candidateMatches: SimilarityMatch[],
   resolution: DuplicateResolution,
-): DuplicateAction[] =>
-  candidateMatches.map(({ song, similarSongs: [existingSong] }) =>
-    resolution === DuplicateResolution.REMOVE_CANDIDATE
-      ? { type: resolution, candidatePath: song.filePath }
-      : {
-          type: resolution,
-          candidatePath: song.filePath,
-          existingPath: existingSong.filePath,
-        },
+): DuplicateAction[] => {
+  if (resolution === DuplicateResolution.REMOVE_CANDIDATE) {
+    return candidateMatches.map(({ song }) => ({
+      type: resolution,
+      candidatePath: song.filePath,
+    }));
+  }
+
+  const replacements = candidateMatches.map(
+    ({ song, similarSongs: [existingSong] }) => ({
+      type: resolution,
+      candidatePath: song.filePath,
+      existingPath: existingSong.filePath,
+    }),
   );
+
+  return replacements.filter(
+    ({ existingPath }) =>
+      replacements.filter(
+        (replacement) => replacement.existingPath === existingPath,
+      ).length === 1,
+  );
+};
