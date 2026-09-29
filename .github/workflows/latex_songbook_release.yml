@@ -46,7 +46,6 @@ jobs:
         with:
           root_file: bes-songbook.tex
           working_directory: LaTeX/songbook/
-          latexmk_shell_escape: true
           latexmk_use_xelatex: true
 
       - name: Generate Release Tag
