@@ -1,8 +1,16 @@
 {
   "extends": "@tsconfig/node-lts/tsconfig.json",
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext"
+  },
   "exclude": ["node_modules"],
   "ts-node": {
     "transpileOnly": true,
-    "files": true
+    "files": true,
+    "compilerOptions": {
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext"
+    }
   }
 }

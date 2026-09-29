@@ -1,4 +1,3 @@
-import chalk from 'chalk';
 import {
   difference,
   first,
@@ -246,9 +245,7 @@ export const verifyStructure = (content: string) => {
 
       assert.ok(
         sizeOfSectionContent <= MAX_ALLOWED_SECTION_SIZE,
-        `The size of the existing ${sectionIdentifier} content, "${chalk.green(
-          sizeOfSectionContent,
-        )}", is higher than the maximum allowed one, (${MAX_ALLOWED_SECTION_SIZE})}."`,
+        `The size of the existing ${sectionIdentifier} content, "${sizeOfSectionContent}", is higher than the maximum allowed one, (${MAX_ALLOWED_SECTION_SIZE})}."`,
       );
     }
 
@@ -274,11 +271,7 @@ export const verifyStructure = (content: string) => {
   sequenceIdentifiersFromSequenceSection.forEach((section) => {
     if (!sectionsMap[section]) {
       throw new Error(
-        `The ${chalk.red(
-          section,
-        )} is defined in the sequence but missing as a ${chalk.red(
-          section,
-        )} section.`,
+        `The ${section} is defined in the sequence but missing as a ${section} section.`,
       );
     }
   });

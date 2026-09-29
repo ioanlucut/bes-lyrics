@@ -1,8 +1,8 @@
-import { createDefaultEsmPreset, type JestConfigWithTsJest } from 'ts-jest';
+import { createDefaultEsmPreset } from 'ts-jest';
 
 const defaultEsmPreset = createDefaultEsmPreset();
 
-const jestConfig: JestConfigWithTsJest = {
+const jestConfig = {
   ...defaultEsmPreset,
   moduleDirectories: ['<rootDir>', 'node_modules'],
   moduleNameMapper: {

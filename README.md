@@ -1,12 +1,17 @@
 ### Cântări Biserica Emanuel Sibiu (BES)
 
-Acest repository conține cântări scrise/folosite de trupele de laudă și închinare ale bisericii Emanuel Sibiu.
+Acest repository conține cântări scrise/folosite de trupele de laudă și
+închinare ale bisericii Emanuel Sibiu.
 
 #### Formatul
 
-_inspirat din `EasySlides`, `OpenSongs` și https://www.learnchordal.com/how-to-read-charts_.
+_inspirat din `EasySlides`, `OpenSongs` și
+<https://www.learnchordal.com/how-to-read-charts>_.
 
-Formatul folosit este unul simplu, după cum urmează. Fișierele din `verified/` sunt sursa canonică fără acorduri pentru ProPresenter. Variantele cu acorduri pentru PDF se află în `leadsheets/`, au același `id`, aceleași versuri și aceeași structură; `contentHash` se calculează separat pentru fiecare variantă.
+Formatul folosit este unul simplu, după cum urmează. Fișierele din `verified/`
+sunt sursa canonică fără acorduri pentru ProPresenter. Variantele cu acorduri
+pentru PDF se află în `leadsheets/`, au același `id`, aceleași versuri și
+aceeași structură; `contentHash` se calculează separat pentru fiecare variantă.
 
 ```
 [title]
@@ -49,35 +54,40 @@ Domn al veșniciei, în veci! Amin!
 
 #### Explicații ale formatului
 
-> **Notă**: Înainte de a continua, trebuie să știi că toate cântările trebuie să aibă un `[title]` și un `[sequence]`.
-> De asemenea, trebuie să știi că `[title]` trebuie să fie primul element din cântare iar `[sequence]` trebuie să fie al
-> doilea element din cântare.
-> Restul elementelor pot fi în orice ordine. De asemenea, nu este nevoie să folosești toate elementele.
+> **Notă**: Înainte de a continua, trebuie să știi că toate cântările trebuie să
+> aibă un `[title]` și un `[sequence]`. De asemenea, trebuie să știi că
+> `[title]` trebuie să fie primul element din cântare iar `[sequence]` trebuie
+> să fie al doilea element din cântare. Restul elementelor pot fi în orice
+> ordine. De asemenea, nu este nevoie să folosești toate elementele.
 
 ##### `[title]`
 
-- Reprezintă titlul cântecului. Exemplu: `[title] Aceasta mi-e dorința să Te-onorez`.
+- Reprezintă titlul cântecului. Exemplu:
+  `[title] Aceasta mi-e dorința să Te-onorez`.
 - Necesar? Da.
 
 ###### `writer: {Any Writer}`
 
-- The person who single-handedly created the melody and wrote the lyrics is called a writer.
-- See https://en.wikipedia.org/wiki/Songwriter
+- The person who single-handedly created the melody and wrote the lyrics is
+  called a writer.
+- See <https://en.wikipedia.org/wiki/Songwriter>
 
 ###### `composer: {Any Composer}`
 
-- The composer of the song. A person who creates the melody of a song is called a music composer.
-- See https://ro.wikipedia.org/wiki/Compozitor
+- The composer of the song. A person who creates the melody of a song is called
+  a music composer.
+- See <https://ro.wikipedia.org/wiki/Compozitor>
 
 ###### `arranger: {Any Arranger}`
 
-- Whoever arranged the song. An arranger is someone who takes an existing song and gives it new life.
-- See https://dexonline.ro/definitie/aranjor
+- Whoever arranged the song. An arranger is someone who takes an existing song
+  and gives it new life.
+- See <https://dexonline.ro/definitie/aranjor>
 
 ###### `interpreter: {Any Interpreter}`
 
 - The interpreter of the song.
-- See https://ro.wikipedia.org/wiki/C%C3%A2nt%C4%83re%C8%9B
+- See <https://ro.wikipedia.org/wiki/C%C3%A2nt%C4%83re%C8%9B>
 
 ##### `[sequence]`
 
@@ -92,8 +102,8 @@ Domn al veșniciei, în veci! Amin!
 
 #### `[b#{numar?}]`
 
-- Reprezintă bridge-ul 1 (sau singurul) al cântării. Bridge-ul este o secțiune a cântării care se află înaintea
-  corului (dar nu neapărat întotdeauna).
+- Reprezintă bridge-ul 1 (sau singurul) al cântării. Bridge-ul este o secțiune a
+  cântării care se află înaintea corului (dar nu neapărat întotdeauna).
 - Exemplu: `[b]` reprezintă bridge-ul 1 al cântării.
 - Necesar? Nu.
 
@@ -105,7 +115,8 @@ Domn al veșniciei, în veci! Amin!
 
 #### `[p#{numar?}]`
 
-- Reprezintă pre-chorus-ul (sau singurul) al cântării (care se cântă întotdeauna înaintea corului)
+- Reprezintă pre-chorus-ul (sau singurul) al cântării (care se cântă întotdeauna
+  înaintea corului)
 - Exemplu: `[p]` reprezintă pre-chorus-ul 1 al cântării.
 - Necesar? Nu.
 - Necesar? Nu.
@@ -123,26 +134,32 @@ Domn al veșniciei, în veci! Amin!
 
 #### Caractere
 
-Caracterele pe care le putem folosi sunt foarte importante, așa că am definit o listă:
+Caracterele pe care le putem folosi sunt foarte importante, așa că am definit o
+listă:
 
 ```
  *_{}&!(),-./][1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„\n
 ```
 
-Întrucât sunt foarte multe versiuni ale caracterelor e.g. `ş` în loc de `ș`, e nevoie să folosim aceleași caractere cu
-același format unicode. Un exemplu de variațiuni poate fi văzut aici: https://www.compart.com/en/unicode/U+201D.
+Întrucât sunt foarte multe versiuni ale caracterelor e.g. `ş` în loc de `ș`, e
+nevoie să folosim aceleași caractere cu același format unicode. Un exemplu de
+variațiuni poate fi văzut aici: <https://www.compart.com/en/unicode/U+201D>.
 
-> Detalii despre `‘’` poți să găsești și [aici](https://github.com/ioanlucut/bes-lyrics/issues/105).
+> Detalii despre `‘’` poți să găsești și
+> [aici](https://github.com/ioanlucut/bes-lyrics/issues/105).
 
 #### Dacă vrei să imporți cântece din resurse creștine
 
-- Caută cantecul din resurse crestine si copiază `ID`-ul din `URL`.
-  E.g. [Cuvantul intrupat](https://www.resursecrestine.ro/cantece/212152/cuvantul-intrupat) (-> **212152**)
-- Ori: adaugă-l în fișierul `temp_runners/rc_ids_to_process.txt` într-o linie nouă asa cum este gasit aici,
-  in [authors_ids.txt](https://github.com/ioanlucut/bes-lyrics-parser/blob/main/out/resurse_crestine/authors_ids.txt).
-- Ori (sau si) adaugă autorul si fișierul `temp_runners/rc_authors_to_process.txt` într-o linie nouă asa cum este gasit
-  aici,
-  in [authors.txt](https://github.com/ioanlucut/bes-lyrics-parser/blob/main/out/resurse_crestine/authors.txt).
+- Caută cantecul din resurse crestine si copiază `ID`-ul din `URL`. E.g.
+  [Cuvantul intrupat](https://www.resursecrestine.ro/cantece/212152/cuvantul-intrupat)
+  (-> **212152**)
+- Ori: adaugă-l în fișierul `import-songs-temp-runners/rc_ids_to_process.txt`
+  într-o linie nouă asa cum este gasit aici, in
+  [authors_ids.txt](https://github.com/ioanlucut/bes-lyrics-parser/blob/main/out/resurse_crestine/authors_ids.txt).
+- Ori (sau si) adaugă autorul si fișierul
+  `import-songs-temp-runners/rc_authors_to_process.txt` într-o linie nouă asa
+  cum este gasit aici, in
+  [authors.txt](https://github.com/ioanlucut/bes-lyrics-parser/blob/main/out/resurse_crestine/authors.txt).
 - Adauga un `PR`.
 
 #### Cum poți să te implici altfel?

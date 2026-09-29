@@ -7,11 +7,9 @@
 % Any changes made will be overwritten the next time the file is generated.
 % =====================================================================
 
-\documentclass{scrartcl}
+\documentclass[headheight=29pt,footheight=29pt]{scrartcl}
 
 \usepackage{datetime} % For custom date and time formatting
-
-\usepackage{scrextend} % Compatibility layer
 \usepackage[full]{leadsheets}
 
 \usepackage{array}
@@ -31,6 +29,8 @@
 % https://tex.stackexchange.com/questions/352804/setmainfont-vs-fontspec
 \usepackage{fontspec}
 \usepackage[12pt]{extsizes}
+\KOMAoptions{headheight=29pt,footheight=29pt}
+\recalctypearea
 %\usepackage{librecaslon}
 %\usepackage{librecaslon}
 %\setmainfont{Fira Sans}
@@ -48,9 +48,6 @@
 
 % Use copyright, see https://tex.stackexchange.com/questions/1676/how-to-get-good-looking-copyright-and-registered-symbols
 \usepackage{textcomp}
-
-% https://tex.stackexchange.com/questions/641189/what-is-the-function-usepackageutf8inputenc-used-for-and-why-we-should-add
-\usepackage[utf8]{inputenc}
 
 % For links
 %\usepackage{hyperref}
