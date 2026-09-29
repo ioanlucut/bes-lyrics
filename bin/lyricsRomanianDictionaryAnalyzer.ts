@@ -2,9 +2,9 @@
 // This plugin is listing the unknown words found in the lyrics, but it's not
 // 100% reliable thus it cannot be used as a validator per se
 // ---
+import './env.js';
 
 import dictionaryRo from 'dictionary-ro';
-import dotenv from 'dotenv';
 import fs from 'fs';
 import {
   first,
@@ -29,14 +29,13 @@ import {
   TXT_EXTENSION,
   getSongInSectionTuples,
   getTitleByRawSection,
+  getVerifiedDir,
   readTxtFilesRecursively,
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const CUSTOM_DICTIONARY_RO_FILENAME = 'custom-dictionary_ro.txt';
-
-dotenv.config();
 
 const analyzeAndGet = async (dir: string, speller: NSpell) => {
   const incorrectWords = [] as string[];
@@ -121,7 +120,7 @@ const speller = nspell(dictionaryRo as never).personal(
   existingCustomWordsAsString,
 );
 
-const rawWords = await analyzeAndGet(process.env.VERIFIED_DIR, speller);
+const rawWords = await analyzeAndGet(getVerifiedDir(), speller);
 const unknownOrIncorrectWords = without(uniq(rawWords).sort(), NEW_LINE);
 
 if (!isEmpty(unknownOrIncorrectWords)) {

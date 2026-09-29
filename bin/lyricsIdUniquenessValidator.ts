@@ -1,4 +1,3 @@
-import dotenv from 'dotenv';
 import fs from 'fs';
 import {
   filter,
@@ -11,16 +10,15 @@ import {
 } from 'lodash-es';
 import assert from 'node:assert';
 import path from 'path';
-import * as process from 'process';
 import {
   COMMA,
   EMPTY_STRING,
+  getVerifiedDir,
   NEW_LINE,
   parse,
   readTxtFilesRecursively,
 } from '../src/index.js';
-
-dotenv.config();
+import './env.js';
 
 const getAllWithId = async (potentialDuplicatesDir: string) =>
   (await readTxtFilesRecursively(potentialDuplicatesDir)).map(
@@ -62,4 +60,4 @@ const runValidator = async (dir: string) => {
 // ---
 // RUN
 // ---
-await runValidator(process.env.VERIFIED_DIR);
+await runValidator(getVerifiedDir());

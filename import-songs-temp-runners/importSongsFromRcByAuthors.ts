@@ -1,13 +1,14 @@
-import dotenv from 'dotenv';
 import fs from 'fs';
 import fsExtra from 'fs-extra';
 import { flatten } from 'lodash-es';
 import pMap from 'p-map';
 import path from 'path';
-import * as process from 'process';
 import { fileURLToPath } from 'url';
+import '../bin/env.js';
 import {
   COLON,
+  getCandidatesDir,
+  getVerifiedDir,
   logFileWithLinkInConsole,
   logProcessingFile,
   NEW_LINE,
@@ -19,8 +20,6 @@ import {
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-
-dotenv.config();
 
 const RC_DIR = `${path.join(
   __dirname,
@@ -90,4 +89,4 @@ const runFor = async (songsDirs: string[]) => {
   });
 };
 
-await runFor([process.env.VERIFIED_DIR, process.env.CANDIDATES_DIR]);
+await runFor([getVerifiedDir(), getCandidatesDir()]);

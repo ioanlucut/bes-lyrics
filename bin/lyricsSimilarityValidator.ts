@@ -4,9 +4,9 @@
 // `--removeDuplicates` and `--overwrite` resolve only candidates that
 // duplicate a verified song; they never touch a verified song on their own.
 // ---
+import './env.js';
 
 import chalk from 'chalk';
-import dotenv from 'dotenv';
 import fs from 'fs';
 import fsExtra from 'fs-extra';
 import { parseArgs } from 'node:util';
@@ -19,12 +19,12 @@ import {
   SimilarityMatch,
   SongFile,
   findSimilarSongs,
+  getCandidatesDir,
+  getVerifiedDir,
   logFileWithLinkInConsole,
   planDuplicateResolution,
   readTxtFilesRecursively,
 } from '../src/index.js';
-
-dotenv.config();
 
 const readSongFiles = async (dir: string): Promise<SongFile[]> =>
   (await readTxtFilesRecursively(dir)).map((filePath) => ({
@@ -72,8 +72,8 @@ const {
   },
 });
 
-const candidates = await readSongFiles(process.env.CANDIDATES_DIR);
-const verifiedSongs = await readSongFiles(process.env.VERIFIED_DIR);
+const candidates = await readSongFiles(getCandidatesDir());
+const verifiedSongs = await readSongFiles(getVerifiedDir());
 
 if (overwrite || removeDuplicates) {
   const candidateMatches = findSimilarSongs(candidates, verifiedSongs);

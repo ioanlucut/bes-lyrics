@@ -1,11 +1,11 @@
 import chalk from 'chalk';
-import dotenv from 'dotenv';
 import fs from 'fs';
 import fsExtra from 'fs-extra';
 import { flatten } from 'lodash-es';
 import pMap from 'p-map';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import '../../bin/env.js';
 import {
   EMPTY_STRING,
   LEADSHEETS_DIR,
@@ -22,8 +22,6 @@ import {
 import { convertSongToLeadsheet } from '../../src/songToLeadsheetConverter.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-
-dotenv.config();
 
 const TEMPLATE_FILE = 'bes-songbook.template.txt';
 const BES_SONGBOOK_FILE = 'bes-songbook.tex';

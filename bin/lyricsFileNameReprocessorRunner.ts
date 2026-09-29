@@ -1,18 +1,18 @@
 import chalk from 'chalk';
-import dotenv from 'dotenv';
 import fs from 'fs';
 import isCI from 'is-ci';
 import path from 'path';
 import * as process from 'process';
 import {
   ERROR_CODE,
+  getCandidatesDir,
   getRawTitleBySong,
+  getVerifiedDir,
   logFileWithLinkInConsole,
   lyricsFileNameReprocessor,
   readTxtFilesRecursively,
 } from '../src/index.js';
-
-dotenv.config();
+import './env.js';
 
 const run = async (dir: string) => {
   console.log(`"Reprocessing file names from ${dir} directory.."`);
@@ -49,7 +49,7 @@ const run = async (dir: string) => {
   });
 };
 
-await run(process.env.VERIFIED_DIR);
+await run(getVerifiedDir());
 if (!isCI) {
-  await run(process.env.CANDIDATES_DIR);
+  await run(getCandidatesDir());
 }

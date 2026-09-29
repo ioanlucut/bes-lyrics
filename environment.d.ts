@@ -1,8 +1,8 @@
 declare global {
   namespace NodeJS {
     interface ProcessEnv {
-      CANDIDATES_DIR: string;
-      VERIFIED_DIR: string;
+      CANDIDATES_DIR?: string;
+      VERIFIED_DIR?: string;
     }
   }
 }
