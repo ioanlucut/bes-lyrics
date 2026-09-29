@@ -10,14 +10,17 @@ on:
       - 'src/songToLeadsheetConverter.ts'
   workflow_dispatch:
 
+permissions:
+  contents: write # publishes the GitHub release
+
 jobs:
   LaTeXSongbookRelease:
     runs-on: ubuntu-24.04
     steps:
       - name: Clone repository
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          ref: ${{ github.event.pull_request.head.ref }}
+          persist-credentials: false
 
       - name: Install Fonts
         run: |
@@ -31,7 +34,7 @@ jobs:
           fc-list | grep -i "georgia"
 
       - name: Use Node.js 24.x
-        uses: actions/setup-node@v7
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
           node-version: 24.x
 
@@ -42,7 +45,7 @@ jobs:
           CI: true
 
       - name: Compile BES Songbook LaTeX doc
-        uses: xu-cheng/latex-action@v3
+        uses: xu-cheng/latex-action@e2f99d4b3685b0da93f97e1b86ad8fab81105098 # v3
         with:
           root_file: bes-songbook.tex
           working_directory: LaTeX/songbook/
@@ -55,7 +58,7 @@ jobs:
           echo "release_tag=$release_tag" >> $GITHUB_OUTPUT
 
       - name: Release
-        uses: softprops/action-gh-release@v3
+        uses: softprops/action-gh-release@efb35369e0ad2afab669f228072c1b0d510eae64 # v3.0.3
         with:
           files: 'LaTeX/songbook/bes-songbook.pdf'
           tag_name: ${{ steps.tag.outputs.release_tag }}
@@ -68,7 +71,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload to GDrive
-        uses: adityak74/google-drive-upload-git-action@935eccf4c2812e4d492c3d7c7ff59ca7520bf129
+        uses: adityak74/google-drive-upload-git-action@935eccf4c2812e4d492c3d7c7ff59ca7520bf129 # main (2025-03-24, no release tag)
         with:
           credentials: ${{ secrets.GDRIVE_CREDENTIALS_ENCODED }}
           filename: 'LaTeX/songbook/bes-songbook.pdf'
