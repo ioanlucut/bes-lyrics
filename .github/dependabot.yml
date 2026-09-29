@@ -10,6 +10,8 @@ updates:
       # One pull request for everything that should not break anything;
       # major versions still arrive one pull request each.
       minor-and-patch:
+        patterns:
+          - '*'
         update-types:
           - minor
           - patch
