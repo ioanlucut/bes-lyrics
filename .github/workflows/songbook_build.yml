@@ -34,16 +34,22 @@ jobs:
         with:
           persist-credentials: false
 
+      # The installer downloads the fonts from SourceForge, which fails now and
+      # then, so it is retried until Georgia, the songbook's font, is present.
       - name: Install Fonts
         run: |
           sudo apt-get update
           echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
-          sudo apt-get install --reinstall ttf-mscorefonts-installer
-          sudo fc-cache -fv # Refresh the font cache
-
-      - name: Verify Font Installation
-        run: |
-          fc-list | grep -i "georgia"
+          for attempt in 1 2 3; do
+            sudo apt-get install --reinstall ttf-mscorefonts-installer
+            sudo fc-cache -f
+            if fc-list | grep -i "georgia"; then
+              exit 0
+            fi
+            echo "Georgia is missing after attempt ${attempt}; retrying."
+            sleep 15
+          done
+          exit 1
 
       - name: Use Node.js 24.x
         uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
