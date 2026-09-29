@@ -16,7 +16,7 @@ type AuditFlags = {
 
 const usage = () => {
   console.log(`Usage:
-  node --no-warnings=ExperimentalWarning --loader ts-node/esm \\
+  npx tsx \\
     ./skills/bes-song-leadsheets/scripts/song_audit.ts <song-file> [--rewrite] [--tex-output <out.tex>]
 `);
 };

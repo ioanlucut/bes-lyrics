@@ -54,7 +54,7 @@ For exact package semantics, search the installed official manual instead of rel
 7. Run the focused audit on the edited file:
 
 ```bash
-node --no-warnings=ExperimentalWarning --loader ts-node/esm \
+npx tsx \
   ./skills/bes-song-leadsheets/scripts/song_audit.ts <song.txt>
 ```
 

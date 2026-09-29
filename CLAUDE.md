@@ -13,7 +13,7 @@ BES-Lyrics is a TypeScript-based tool for managing Romanian Christian song lyric
 - `npm run test:watch` - Run tests in watch mode
 - `npm run lint` - Run ESLint checks
 - `npm run lint:fix` - Fix ESLint issues
-- `npm run typecheck` - Type-check all TypeScript (`ts-node` only transpiles)
+- `npm run typecheck` - Type-check all TypeScript (`tsx` only transpiles)
 - `npm run format` - Format all lyrics files and TypeScript code
 
 ### Build & Validation
@@ -81,7 +81,7 @@ The skill documents the complete Leadsheets v0.7 capability surface without vend
 - Tests run with Jest and ts-jest
 - Prettier handles code formatting including custom lyrics format
 - Custom Prettier plugin for `.txt` lyrics files
-- Node.js with experimental loader for ES modules
+- Scripts run TypeScript directly with `tsx`
 
 ## GitHub Claude Review
 
