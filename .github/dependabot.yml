@@ -1,0 +1,34 @@
+version: 2
+
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 5
+    groups:
+      # One pull request for everything that should not break anything;
+      # major versions still arrive one pull request each.
+      minor-and-patch:
+        patterns:
+          - '*'
+        update-types:
+          - minor
+          - patch
+    ignore:
+      # Kept on their last CommonJS-compatible majors, as in `.ncurc.json`.
+      - dependency-name: chalk
+        update-types:
+          - version-update:semver-major
+      - dependency-name: p-map
+        update-types:
+          - version-update:semver-major
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      github-actions:
+        patterns:
+          - '*'

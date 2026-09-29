@@ -95,6 +95,12 @@ branch.
 | [`latex_conduct_release.yml`](../.github/workflows/latex_conduct_release.yml)   | Push to `main` touching `LaTeX/conduct/**`                                            | Compiles the projection team's code of conduct and publishes it the same way.                                                                                                                                                                       |
 | [`claude.yml`](../.github/workflows/claude.yml)                                 | A comment mentioning `@claude`                                                        | Runs a Claude review or task on the issue or pull request.                                                                                                                                                                                          |
 
+Every workflow declares the permissions it needs, and the repository's default
+workflow token is read-only. Actions are pinned to commit SHAs.
+[Dependabot](../.github/dependabot.yml) proposes npm and Actions updates once a
+month, minor and patch versions grouped into one pull request, and keeps `chalk`
+and `p-map` on their current majors as `.ncurc.json` does.
+
 ## Related repositories
 
 - [`bes-propres7-migrator`](https://github.com/ioanlucut/bes-propres7-migrator)
