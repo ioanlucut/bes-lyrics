@@ -1,3 +1,4 @@
+import path from 'path';
 import { SIMPLE_SONG_MOCK_FILE_CONTENT } from '../mocks/index.js';
 import { ALLOWED_CHARS, EMPTY_STRING } from './constants.js';
 import {
@@ -8,6 +9,7 @@ import {
   getUniqueCharsAndRelevantChars,
   isKnownSongSequence,
   multiToSingle,
+  resolveInside,
 } from './core.js';
 
 describe('core', () => {
@@ -255,5 +257,28 @@ describe('multiToSingle', () => {
     ).toMatchInlineSnapshot(
       `"ANY_alternative; ANY_alternative part1, part2; ANY_alternative3"`,
     );
+  });
+
+  describe('resolveInside', () => {
+    it.each([
+      [['Autor', 'Cantec.txt'], 'Autor/Cantec.txt'],
+      [['./Autor/../Alt autor/Cantec.txt'], 'Alt autor/Cantec.txt'],
+    ])('resolves %j inside the base directory', (segments, expectedPath) => {
+      expect(resolveInside('candidates', ...segments)).toEqual(
+        path.resolve('candidates', expectedPath),
+      );
+    });
+
+    it.each([
+      [['../verified', 'Cantec.txt']],
+      [['/etc/passwd']],
+      [['..']],
+      [['.']],
+      [['../candidates-copy/Cantec.txt']],
+    ])('throws for %j, which leaves the base directory', (segments) => {
+      expect(() => resolveInside('candidates', ...segments)).toThrow(
+        'resolves outside "candidates"',
+      );
+    });
   });
 });

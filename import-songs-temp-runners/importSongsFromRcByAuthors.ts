@@ -14,6 +14,8 @@ import {
   parse,
   print,
   readTxtFilesRecursively,
+  resolveInside,
+  UNSET_META,
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -55,7 +57,7 @@ const runFor = async (songsDirs: string[]) => {
 
   await pMap(rcAuthorPathsToProcess, async (pathConfig) => {
     const [counts, composer, authorPath] = pathConfig.split(COLON);
-    const dirToImportFrom = `${RC_DIR}/${authorPath}`;
+    const dirToImportFrom = resolveInside(RC_DIR, authorPath);
     (await readFiles(dirToImportFrom)).forEach(
       ({ contentAsString, filePath, fileName }) => {
         logProcessingFile(
@@ -74,10 +76,15 @@ const runFor = async (songsDirs: string[]) => {
           return;
         }
 
-        const authorDirTarget = `${CANDIDATES_DIR}/${rcSongAST.composer}`;
+        // The composer comes from scraped data, so it may not leave candidates/.
+        const targetFilePath = resolveInside(
+          CANDIDATES_DIR,
+          rcSongAST.composer ?? UNSET_META,
+          fileName,
+        );
 
-        fsExtra.ensureDirSync(authorDirTarget);
-        fs.writeFileSync(`${authorDirTarget}/${fileName}`, print(rcSongAST));
+        fsExtra.ensureDirSync(path.dirname(targetFilePath));
+        fs.writeFileSync(targetFilePath, print(rcSongAST));
       },
     );
   });
