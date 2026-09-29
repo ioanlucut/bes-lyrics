@@ -205,3 +205,20 @@ export const readTxtFilesRecursively = async (dir: string) =>
 
 export const padForTex = (chars: number) => (content?: string) =>
   `${range(0, chars).map(constant(SPACE_CHAR)).join(EMPTY_STRING)}${content}`;
+
+/**
+ * Resolves `segments` against `baseDir` and refuses a result outside it, for
+ * paths built from data such as scraped song metadata.
+ */
+export const resolveInside = (baseDir: string, ...segments: string[]) => {
+  const resolvedBaseDir = path.resolve(baseDir);
+  const resolvedPath = path.resolve(resolvedBaseDir, ...segments);
+
+  if (!resolvedPath.startsWith(`${resolvedBaseDir}${path.sep}`)) {
+    throw new Error(
+      `"${path.join(...segments)}" resolves outside "${baseDir}".`,
+    );
+  }
+
+  return resolvedPath;
+};

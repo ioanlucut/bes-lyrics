@@ -14,6 +14,7 @@ import {
   parse,
   print,
   readTxtFilesRecursively,
+  resolveInside,
 } from '../src/index.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -62,9 +63,14 @@ const runFor = async (songsDirs: string[]) => {
   const allExistingRcIds = allSongsInRepo.map(({ songAST: { rcId } }) => rcId);
 
   await pMap(RC_IDS_TO_PROCESS, async (rcSongIdToImport) => {
-    const filePath = RC_INDEX[rcSongIdToImport] as string;
+    const filePath = RC_INDEX[rcSongIdToImport] as string | undefined;
+
+    if (!filePath) {
+      throw new Error(`RC ID ${rcSongIdToImport} is not in the parser index.`);
+    }
+
     const contentAsString = fsExtra
-      .readFileSync(filePath.replace('./', `${IN_LYRICS_PARSER}/`))
+      .readFileSync(resolveInside(IN_LYRICS_PARSER, filePath))
       .toString();
     const fileName = path.basename(filePath);
 
@@ -79,7 +85,10 @@ const runFor = async (songsDirs: string[]) => {
       return;
     }
 
-    fs.writeFileSync(`${OUT_CANDIDATES_RC_DIR}/${fileName}`, print(rcSongAST));
+    fs.writeFileSync(
+      resolveInside(OUT_CANDIDATES_RC_DIR, fileName),
+      print(rcSongAST),
+    );
   });
 
   await pMap(RC_IDS_TO_IGNORE, async (rcSongIdToIgnore) => {
