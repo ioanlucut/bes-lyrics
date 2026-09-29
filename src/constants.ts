@@ -41,7 +41,8 @@ export const DOUBLE_LINE_TUPLE = `${NEW_LINE}${NEW_LINE}`;
 
 export const CHARS_SEPARATORS = /[ !(),./:;?”„\n]+/;
 
-export const ALT_SONGS_FILE_SUFFIX = /(- i|- ii)/;
+// A second version of a song ends its file name in ` - i` or ` - ii`.
+export const ALT_SONGS_FILE_SUFFIX = / - (i|ii)\.txt$/;
 
 export const TEST_ENV = 'test';
 

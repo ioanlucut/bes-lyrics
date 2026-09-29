@@ -10,7 +10,7 @@
       <envs />
       <before-run-command />
       <main-file>$PROJECT_DIR$/LaTeX/songbook/bes-songbook.tex</main-file>
-      <output-path>$PROJECT_DIR$/leadsheet</output-path>
+      <output-path>$PROJECT_DIR$/LaTeX/songbook</output-path>
       <auxil-path>{projectDir}/auxil</auxil-path>
       <compile-twice>false</compile-twice>
       <output-format>PDF</output-format>

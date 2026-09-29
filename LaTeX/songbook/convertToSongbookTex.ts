@@ -1,8 +1,6 @@
 import chalk from 'chalk';
 import fs from 'fs';
 import fsExtra from 'fs-extra';
-import { flatten } from 'lodash-es';
-import pMap from 'p-map';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import '../../bin/env.js';
@@ -15,6 +13,7 @@ import {
   padForTex,
   parse,
   readTxtFilesRecursively,
+  SongAST,
   TEX_EXTENSION,
   TEX_MUSICAL_NOTATIONS,
   TXT_EXTENSION,
@@ -39,33 +38,30 @@ const readFiles = async (dir: string) =>
     };
   });
 
+const getSortKey = ({
+  title,
+  alternative,
+  composer,
+  arranger,
+  band,
+  genre,
+  version,
+}: SongAST) =>
+  [title, alternative, composer, arranger, band, genre, version].join(
+    EMPTY_STRING,
+  );
+
 const runForDirs = async (songsDirs: string[]) => {
-  const generatedFiles = await pMap(
-    flatten(await Promise.all(songsDirs.map(readFiles))).sort(
-      ({ songAST: songASTa }, { songAST: songASTb }) =>
-        [
-          songASTa.title,
-          songASTa.alternative,
-          songASTa.composer,
-          songASTa.arranger,
-          songASTa.band,
-          songASTa.genre,
-          songASTa.version,
-        ]
-          .join(EMPTY_STRING)
-          .localeCompare(
-            [
-              songASTb.title,
-              songASTb.alternative,
-              songASTb.composer,
-              songASTb.arranger,
-              songASTb.band,
-              songASTb.genre,
-              songASTb.version,
-            ].join(EMPTY_STRING),
-          ),
-    ),
-    async ({ contentAsString, fileName, filePath, songAST }) => {
+  const songs = (await Promise.all(songsDirs.map(readFiles)))
+    .flat()
+    .sort(({ songAST: songA }, { songAST: songB }) =>
+      getSortKey(songA).localeCompare(getSortKey(songB)),
+    );
+
+  // Absolute paths, because `songbook:compile` runs from the repository root
+  // and the release workflow from `LaTeX/songbook/`.
+  const generatedFilePaths = songs.map(
+    ({ contentAsString, fileName, filePath, songAST }) => {
       logProcessingFile(
         fileName,
         `Converting to TEX the song with title: ${songAST.title}.`,
@@ -80,24 +76,20 @@ const runForDirs = async (songsDirs: string[]) => {
         );
       }
 
-      const contentAsTex = convertSongToLeadsheet(songAST);
-
-      // Use absolute path here
       const absoluteFilePath = path.join(
         __dirname,
         TEX_OUTPUT,
         fileName.replace(TXT_EXTENSION, TEX_EXTENSION),
       );
-      fs.writeFileSync(absoluteFilePath, contentAsTex);
+      fs.writeFileSync(absoluteFilePath, convertSongToLeadsheet(songAST));
 
       return absoluteFilePath;
     },
   );
 
-  const dynamicLeadsheetSongs = generatedFiles
-    .filter(Boolean)
-    .map((relativeFilePath) =>
-      padForTex(2)(`\\includeleadsheet{${relativeFilePath}}`),
+  const dynamicLeadsheetSongs = generatedFilePaths
+    .map((absoluteFilePath) =>
+      padForTex(2)(`\\includeleadsheet{${absoluteFilePath}}`),
     )
     .join(NEW_LINE);
 
