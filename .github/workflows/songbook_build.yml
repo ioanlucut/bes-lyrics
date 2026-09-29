@@ -41,13 +41,16 @@ jobs:
           sudo apt-get update
           echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
           for attempt in 1 2 3; do
-            sudo apt-get install --reinstall ttf-mscorefonts-installer
+            # Steps run with `bash -e`; a failed install must not end the loop.
+            sudo apt-get install --reinstall ttf-mscorefonts-installer || true
             sudo fc-cache -f
             if fc-list | grep -i "georgia"; then
               exit 0
             fi
-            echo "Georgia is missing after attempt ${attempt}; retrying."
-            sleep 15
+            echo "Georgia is missing after attempt ${attempt}."
+            if [ "$attempt" -lt 3 ]; then
+              sleep 15
+            fi
           done
           exit 1
 
