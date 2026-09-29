@@ -96,6 +96,66 @@ const getContentAndSequenceUnSplit = (
 };
 
 /**
+ * Prints one section and returns the sequence updated for it: a section
+ * whose content has blank lines is split into parts (`v1` → `v1.1,v1.2`), and
+ * the single remaining part of a split section is merged back (`v1.1` → `v1`).
+ */
+const printSection = (
+  sectionIdentifier: string,
+  content: string,
+  sequence: string[],
+) => {
+  const sectionIdentifierWithoutMarkup =
+    getCharWithoutMarkup(sectionIdentifier);
+
+  assert.ok(
+    !isEmpty(content),
+    `The song section content is not empty: "${content}"."`,
+  );
+
+  const hasContentThatCouldBeSubSections = content.includes(DOUBLE_LINE_TUPLE);
+
+  if (
+    !hasContentThatCouldBeSubSections &&
+    isEqual(
+      size(
+        sequence.filter((sequenceIteratee) =>
+          sequenceIteratee.includes(
+            `${first(sectionIdentifierWithoutMarkup.split(DOT))}${DOT}`,
+          ),
+        ),
+      ),
+      1,
+    )
+  ) {
+    const { updatedSongSectionContent, updatedSequence } =
+      getContentAndSequenceUnSplit(
+        content,
+        sectionIdentifierWithoutMarkup,
+        sequence,
+      );
+
+    return { sectionText: updatedSongSectionContent, updatedSequence };
+  }
+
+  if (!hasContentThatCouldBeSubSections) {
+    return {
+      sectionText: [sectionIdentifier, content].join(NEW_LINE),
+      updatedSequence: sequence,
+    };
+  }
+
+  const { updatedSongSectionContent, updatedSequence } =
+    getContentAndSequenceSplitInSubSections(
+      content,
+      sectionIdentifierWithoutMarkup,
+      sequence,
+    );
+
+  return { sectionText: updatedSongSectionContent, updatedSequence };
+};
+
+/**
  * Reprocess the content of a song by printing the basic structure.
  * This is useful when the content of the song is correct, but we want to apply further changes.
  *
@@ -122,81 +182,26 @@ export const print = ({
   version,
   writer,
 }: SongAST) => {
-  let newSequence = filter(cloneDeep(sequence), (sequenceItem) =>
+  const printableSequence = filter(cloneDeep(sequence), (sequenceItem) =>
     sectionOrder.map(getCharWithoutMarkup).includes(sequenceItem),
   ) as string[];
 
-  const mapperWithSequenceSideEffectCollector = (
-    verseSongSectionIdentifier: string,
-  ) => {
-    const songSectionContent = sectionsMap[verseSongSectionIdentifier].content;
-    const verseSongSectionIdentifierWithoutMarkup = getCharWithoutMarkup(
-      verseSongSectionIdentifier,
-    );
-
-    assert.ok(
-      !isEmpty(songSectionContent),
-      `The song section content is not empty: "${songSectionContent}"."`,
-    );
-
-    const hasContentThatCouldBeSubSections =
-      songSectionContent.includes(DOUBLE_LINE_TUPLE);
-
-    // ---
-    // If it should be un-split
-    if (
-      !hasContentThatCouldBeSubSections &&
-      isEqual(
-        size(
-          newSequence.filter((sequenceIteratee) =>
-            sequenceIteratee.includes(
-              `${first(
-                verseSongSectionIdentifierWithoutMarkup.split(DOT),
-              )}${DOT}`,
-            ),
-          ),
-        ),
-        1,
-      )
-    ) {
-      const { updatedSongSectionContent, updatedSequence } =
-        getContentAndSequenceUnSplit(
-          songSectionContent,
-          verseSongSectionIdentifierWithoutMarkup,
-          newSequence,
-        );
-
-      // As a side effect, Update the sequence
-      newSequence = updatedSequence;
-
-      return updatedSongSectionContent;
-    }
-
-    // ---
-    // If no split is required
-    if (!hasContentThatCouldBeSubSections) {
-      return [verseSongSectionIdentifier, songSectionContent].join(NEW_LINE);
-    }
-
-    // ---
-    // If content should be split
-    const { updatedSongSectionContent, updatedSequence } =
-      getContentAndSequenceSplitInSubSections(
-        songSectionContent,
-        verseSongSectionIdentifierWithoutMarkup,
-        newSequence,
-      );
-
-    // As a side effect, Update the sequence
-    newSequence = updatedSequence;
-
-    return updatedSongSectionContent;
-  };
-
   assertUniqueness(sectionOrder);
 
-  const songBodySections = sectionOrder.map(
-    mapperWithSequenceSideEffectCollector,
+  const { songBodySections, newSequence } = sectionOrder.reduce(
+    (printed, sectionIdentifier) => {
+      const { sectionText, updatedSequence } = printSection(
+        sectionIdentifier,
+        sectionsMap[sectionIdentifier].content,
+        printed.newSequence,
+      );
+
+      return {
+        songBodySections: [...printed.songBodySections, sectionText],
+        newSequence: updatedSequence,
+      };
+    },
+    { songBodySections: [] as string[], newSequence: printableSequence },
   );
 
   const sequenceSection = [SongSection.SEQUENCE, newSequence.join(COMMA)].join(
