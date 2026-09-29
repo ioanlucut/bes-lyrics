@@ -4,52 +4,38 @@ on:
   push:
     branches:
       - main
+    # Keep in step with the pull_request paths in songbook_build.yml.
     paths:
       - 'leadsheets/trupe_lauda_si_inchinare/**'
       - 'LaTeX/songbook/**'
       - 'src/songToLeadsheetConverter.ts'
+      - 'src/chordMarkup.ts'
+      - 'src/songParser.ts'
+      - 'src/core.ts'
+      - 'src/constants.ts'
+      - 'src/types.ts'
+      - '.github/workflows/songbook_build.yml'
+      - '.github/workflows/latex_songbook_release.yml'
   workflow_dispatch:
 
 permissions:
-  contents: write # publishes the GitHub release
+  contents: read
 
 jobs:
+  BuildSongbook:
+    uses: ./.github/workflows/songbook_build.yml
+
   LaTeXSongbookRelease:
+    needs: BuildSongbook
     runs-on: ubuntu-24.04
+    permissions:
+      contents: write # publishes the GitHub release
     steps:
-      - name: Clone repository
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Get the PDF
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         with:
-          persist-credentials: false
-
-      - name: Install Fonts
-        run: |
-          sudo apt-get update
-          echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
-          sudo apt-get install --reinstall ttf-mscorefonts-installer
-          sudo fc-cache -fv # Refresh the font cache
-
-      - name: Verify Font Installation
-        run: |
-          fc-list | grep -i "georgia"
-
-      - name: Use Node.js 24.x
-        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
-        with:
-          node-version: 24.x
-
-      - name: Run Build songbook TEX
-        run: |
-          npm ci && npm run songbook:convert
-        env:
-          CI: true
-
-      - name: Compile BES Songbook LaTeX doc
-        uses: xu-cheng/latex-action@e2f99d4b3685b0da93f97e1b86ad8fab81105098 # v3
-        with:
-          root_file: bes-songbook.tex
-          working_directory: LaTeX/songbook/
-          latexmk_use_xelatex: true
+          name: bes-songbook
+          path: LaTeX/songbook
 
       - name: Generate Release Tag
         id: tag

@@ -1,0 +1,72 @@
+name: 'LaTeX Leadsheet Songbook Build'
+
+# Compiles the songbook PDF. Pull requests that can change it run this as a
+# check; the release workflow calls it and publishes the same PDF.
+on:
+  pull_request:
+    # Keep in step with the push paths in latex_songbook_release.yml.
+    paths:
+      - 'leadsheets/trupe_lauda_si_inchinare/**'
+      - 'LaTeX/songbook/**'
+      - 'src/songToLeadsheetConverter.ts'
+      - 'src/chordMarkup.ts'
+      - 'src/songParser.ts'
+      - 'src/core.ts'
+      - 'src/constants.ts'
+      - 'src/types.ts'
+      - '.github/workflows/songbook_build.yml'
+      - '.github/workflows/latex_songbook_release.yml'
+  workflow_call:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: songbook-build-${{ github.event.pull_request.number || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  BuildSongbook:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Install Fonts
+        run: |
+          sudo apt-get update
+          echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
+          sudo apt-get install --reinstall ttf-mscorefonts-installer
+          sudo fc-cache -fv # Refresh the font cache
+
+      - name: Verify Font Installation
+        run: |
+          fc-list | grep -i "georgia"
+
+      - name: Use Node.js 24.x
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 24.x
+
+      - name: Run Build songbook TEX
+        run: |
+          npm ci && npm run songbook:convert
+        env:
+          CI: true
+
+      - name: Compile BES Songbook LaTeX doc
+        uses: xu-cheng/latex-action@e2f99d4b3685b0da93f97e1b86ad8fab81105098 # v3
+        with:
+          root_file: bes-songbook.tex
+          working_directory: LaTeX/songbook/
+          latexmk_use_xelatex: true
+
+      - name: Keep the PDF
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: bes-songbook
+          path: LaTeX/songbook/bes-songbook.pdf
+          if-no-files-found: error
+          retention-days: 14
