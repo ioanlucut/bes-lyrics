@@ -41,7 +41,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload to GDrive
-        uses: adityak74/google-drive-upload-git-action@935eccf4c2812e4d492c3d7c7ff59ca7520bf129
+        uses: adityak74/google-drive-upload-git-action@935eccf4c2812e4d492c3d7c7ff59ca7520bf129 # main (2025-03-24, no release tag)
         with:
           credentials: ${{ secrets.GDRIVE_CREDENTIALS_ENCODED }}
           filename: 'LaTeX/conduct/BES_Conduct_Afisaj.pdf'
