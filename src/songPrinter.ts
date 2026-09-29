@@ -21,6 +21,7 @@ import {
 } from './constants.js';
 import {
   assertUniqueness,
+  computeUniqueContentHash,
   convertSequenceToNumber,
   getCharWithMarkup,
   getCharWithoutMarkup,
@@ -110,7 +111,6 @@ export const print = ({
   arranger,
   band,
   composer,
-  contentHash,
   genre,
   id,
   interpreter,
@@ -199,6 +199,21 @@ export const print = ({
     mapperWithSequenceSideEffectCollector,
   );
 
+  const sequenceSection = [SongSection.SEQUENCE, newSequence.join(COMMA)].join(
+    NEW_LINE,
+  );
+  const printSong = (titleLine: string) =>
+    `${trim(
+      flatten([
+        [SongSection.TITLE, titleLine].join(NEW_LINE),
+        sequenceSection,
+        songBodySections,
+      ]).join(DOUBLE_LINE_TUPLE),
+    )}${NEW_LINE}`;
+  // The hash covers the printed song with the bare title, so it is the same
+  // whether or not the input was already formatted.
+  const contentHash = computeUniqueContentHash(printSong(title));
+
   const printSongMetaContentIfTruthy = (
     songMetaKey: SongMeta,
     songMetaContent?: string,
@@ -229,13 +244,5 @@ export const print = ({
       .filter(Boolean)
       .join(`${COMMA}${SPACE_CHAR}`),
   );
-  // ---
-  // Reassemble the song
-  const flattenContent = flatten([
-    [SongSection.TITLE, [title, metaSection].join(SPACE_CHAR)].join(NEW_LINE),
-    [SongSection.SEQUENCE, newSequence.join(COMMA)].join(NEW_LINE),
-    songBodySections,
-  ]).join(DOUBLE_LINE_TUPLE);
-
-  return `${trim(flattenContent)}${NEW_LINE}`;
+  return printSong([title, metaSection].join(SPACE_CHAR));
 };
