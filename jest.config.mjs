@@ -30,10 +30,10 @@ const jestConfig = {
   // A floor, not a target: raise it whenever coverage rises.
   coverageThreshold: {
     global: {
-      branches: 81,
-      functions: 91,
-      lines: 96,
-      statements: 96,
+      branches: 98,
+      functions: 100,
+      lines: 100,
+      statements: 100,
     },
   },
 };

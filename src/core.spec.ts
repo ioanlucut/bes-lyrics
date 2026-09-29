@@ -4,10 +4,13 @@ import { ALLOWED_CHARS, EMPTY_STRING } from './constants.js';
 import {
   computeUniqueContentHash,
   getMetaSectionsFromTitle,
+  getRawTitleBySong,
   getSongInSectionTuples,
   getTitleWithoutMeta,
   getUniqueCharsAndRelevantChars,
   isKnownSongSequence,
+  logFileWithLinkInConsole,
+  logProcessingFile,
   multiToSingle,
   readFilesRecursively,
   readTxtFilesRecursively,
@@ -342,5 +345,29 @@ describe('resolveInside', () => {
         true,
       );
     });
+  });
+});
+
+describe('getRawTitleBySong', () => {
+  it('returns the title line with its metadata', () => {
+    expect(
+      getRawTitleBySong('[title]\nTitlu {id: {abc}}\n\n[sequence]\nv1\n'),
+    ).toEqual('Titlu {id: {abc}}');
+  });
+});
+
+describe('console helpers', () => {
+  it('prints a file path as a clickable "path:line:column" location', () => {
+    const mockLog = jest.spyOn(console, 'log').mockImplementation(() => {});
+
+    logFileWithLinkInConsole('verified/Titlu.txt');
+    logProcessingFile('Titlu.txt', 'content validation');
+
+    expect(mockLog).toHaveBeenNthCalledWith(1, 'at verified/Titlu.txt:1:1');
+    expect(mockLog).toHaveBeenNthCalledWith(
+      2,
+      expect.stringContaining('Processing (content validation): "Titlu.txt".'),
+    );
+    mockLog.mockRestore();
   });
 });

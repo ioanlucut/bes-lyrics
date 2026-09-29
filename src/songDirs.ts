@@ -7,7 +7,10 @@ type SongDirVariable = 'VERIFIED_DIR' | 'CANDIDATES_DIR';
  * Reads a song directory from the environment and fails with a message that
  * names the variable, instead of a `TypeError` deep inside a script.
  */
-export const getSongDir = (variable: SongDirVariable, env = process.env) => {
+export const getSongDir = (
+  variable: SongDirVariable,
+  env: NodeJS.ProcessEnv,
+) => {
   const dir = env[variable];
 
   if (!dir) {

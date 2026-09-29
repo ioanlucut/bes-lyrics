@@ -9,7 +9,7 @@ import {
   SPACE_CHAR,
   UNSET_META,
 } from './constants.js';
-import { isTestEnv, padForTex } from './core.js';
+import { padForTex } from './core.js';
 import { SequenceChar, SongAST } from './types.js';
 
 const LEADSHEET_ENV_MAP = {
@@ -48,9 +48,7 @@ const warnIfIsNotProperlyPrependedAndReplace = (singleWord: string): string => {
   if (isEmpty(maybeRegExpMatchArrays)) {
     return singleWord;
   }
-  if (!isTestEnv()) {
-    console.warn(`The ${chalk.red(singleWord)} is not correct.`);
-  }
+  console.warn(`The ${chalk.red(singleWord)} is not correct.`);
 
   return singleWord.replaceAll(/(?<!\^)\{/gim, '^{');
 };

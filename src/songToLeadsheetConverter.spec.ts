@@ -222,9 +222,13 @@ Ori zece mii de ani și-n veșnicii.",
     });
 
     it('should normalise words with wrong chord notations (missing ^ before {)', () => {
+      const mockWarn = jest.spyOn(console, 'warn').mockImplementation(() => {});
+
       expect(getNormalizedContent('{G4}th{G}is {G4}th{G}is')).toEqual(
         '^*{G4}th ^{G}is ^*{G4}th ^{G}is',
       );
+      expect(mockWarn).toHaveBeenCalledTimes(2);
+      mockWarn.mockRestore();
     });
 
     it('should normalise words with wrong chord notations (having space in {A C})', () => {

@@ -25,7 +25,6 @@ import {
   NEW_LINE,
   SEMICOLON,
   SPACE_CHAR,
-  TEST_ENV,
   TXT_EXTENSION,
 } from './constants.js';
 import { SequenceChar, SongMeta, SongSection } from './types.js';
@@ -97,8 +96,6 @@ export const isKnownSongSequence = (sequenceChar: string | SequenceChar) => {
     getRecitalRegex(),
   ].some((matcher) => matcher.test(sequenceChar));
 };
-
-export const isTestEnv = () => process.env.NODE_ENV === TEST_ENV;
 
 export const getCharWithoutMarkup = (charWithMarkup: string) =>
   charWithMarkup.replaceAll('[', EMPTY_STRING).replaceAll(']', EMPTY_STRING);
