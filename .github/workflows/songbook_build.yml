@@ -11,6 +11,9 @@ on:
       - 'src/songToLeadsheetConverter.ts'
       - 'src/chordMarkup.ts'
       - 'src/songParser.ts'
+      - 'src/core.ts'
+      - 'src/constants.ts'
+      - 'src/types.ts'
       - '.github/workflows/songbook_build.yml'
       - '.github/workflows/latex_songbook_release.yml'
   workflow_call:
