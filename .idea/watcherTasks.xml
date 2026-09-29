@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectTasksOptions">
     <TaskOptions isEnabled="false">
-      <option name="arguments" value="--loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write $FilePathRelativeToProjectRoot$" />
+      <option name="arguments" value="--import tsx ./node_modules/.bin/prettier --log-level error --write $FilePathRelativeToProjectRoot$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -22,7 +22,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write $FilePathRelativeToProjectRoot$" />
+      <option name="arguments" value="--import tsx ./node_modules/.bin/prettier --log-level error --write $FilePathRelativeToProjectRoot$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -42,7 +42,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="false">
-      <option name="arguments" value="--loader ts-node/esm ./node_modules/.bin/prettier --log-level error --write $FilePathRelativeToProjectRoot$" />
+      <option name="arguments" value="--import tsx ./node_modules/.bin/prettier --log-level error --write $FilePathRelativeToProjectRoot$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />

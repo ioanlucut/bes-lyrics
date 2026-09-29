@@ -18,7 +18,7 @@ Choose one route before editing:
 4. Run focused validation:
 
 ```bash
-node --no-warnings=ExperimentalWarning --loader ts-node/esm \
+npx tsx \
   ./skills/bes-song-leadsheets/scripts/song_audit.ts \
   ./path/to/song.txt
 ```
@@ -26,7 +26,7 @@ node --no-warnings=ExperimentalWarning --loader ts-node/esm \
 5. If explicitly requested, canonicalize in place:
 
 ```bash
-node --no-warnings=ExperimentalWarning --loader ts-node/esm \
+npx tsx \
   ./skills/bes-song-leadsheets/scripts/song_audit.ts \
   ./path/to/song.txt --rewrite
 ```
@@ -34,7 +34,7 @@ node --no-warnings=ExperimentalWarning --loader ts-node/esm \
 6. For a lead-sheet song, generate a focused TeX artifact when useful:
 
 ```bash
-node --no-warnings=ExperimentalWarning --loader ts-node/esm \
+npx tsx \
   ./skills/bes-song-leadsheets/scripts/song_audit.ts \
   ./path/to/song.txt --tex-output ./tmp/song.tex
 ```
