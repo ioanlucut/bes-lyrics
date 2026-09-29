@@ -1,167 +1,131 @@
-### Cântări Biserica Emanuel Sibiu (BES)
+# bes-lyrics
 
-Acest repository conține cântări scrise/folosite de trupele de laudă și
-închinare ale bisericii Emanuel Sibiu.
+[![CI](https://github.com/ioanlucut/bes-lyrics/actions/workflows/ci.yml/badge.svg)](https://github.com/ioanlucut/bes-lyrics/actions/workflows/ci.yml)
+[![Songbook](https://img.shields.io/github/v/release/ioanlucut/bes-lyrics?label=songbook&color=8250df)](https://github.com/ioanlucut/bes-lyrics/releases/latest)
+[![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
+![Songs](https://img.shields.io/badge/songs-1%2C935-1a7f37)
 
-#### Formatul
+**The song library of Biserica Emanuel Sibiu (BES), kept as plain text and
+shipped automatically to the church screens and to a printed songbook with
+chords.**
 
-_inspirat din `EasySlides`, `OpenSongs` și
-<https://www.learnchordal.com/how-to-read-charts>_.
+Every song is one `.txt` file. A pull request runs checks that reject broken
+structure, wrong Romanian diacritics and chord sheets that drift from the
+lyrics. Once merged, GitHub Actions turns the same files into ProPresenter 7
+presentations and rebuilds the PDF songbook.
 
-Formatul folosit este unul simplu, după cum urmează. Fișierele din `verified/`
-sunt sursa canonică fără acorduri pentru ProPresenter. Variantele cu acorduri
-pentru PDF se află în `leadsheets/`, au același `id`, aceleași versuri și
-aceeași structură; `contentHash` se calculează separat pentru fiecare variantă.
+![Animated overview: a song file with a cedilla ţ fails the Characters check and blocks the pull request; after the fix every check passes, the pull request merges, and the lyrics appear on a ProPresenter slide and on a PDF songbook page with chords](docs/assets/dataflow.gif)
 
-```
-[title]
-Aceasta mi-e dorința să Te-onorez: {
-  version: {..write here..},
-  rcId: {..write here..},
-  composer: {..write here..},
-  writer: {..write here..},
-  arranger: {..write here..},
-  interpreter: {..write here..},
-  band: {..write here..},
-  genre: {..write here..},
-  key: {..write here..},
-  tempo: {..write here..},
-  tags: {..write here..}
-}
+## What this solves
 
-[sequence]
-v1,c,v2,c
+A church that projects lyrics every Sunday and prints chord sheets for its bands
+ends up with many copies of each song. Kept by hand, those copies drift apart. A
+typo fixed on screen survives in print, `ş` and `ș` look alike but are different
+characters, the same song gets imported twice under two names, and nobody knows
+which copy is current.
 
-[v1]
-Aceasta mi-e dorința, să Te-onorez,
-Cu ființa-ntreagă să Te slăvesc.
-Te ador, Stăpâne, și mă închin,
-Lauda și onoarea Ți se cuvin!
+`bes-lyrics` makes a single text file the source of truth for each song:
 
-[c]
-Ție-Ți dau inima și sufletul meu,
-Pentru Tine vreau să trăiesc!
-Domnul meu, Te iubesc!
-Zi de zi vreau să-mplinesc
-Doar sfântă voia Ta!
+- **Lyrics are reviewed like code.** Every change arrives as a pull request with
+  a diff, a reviewer and a history.
+- **A bad song cannot reach the screen.** The checks run on every pull request
+  and block the merge when a song is malformed.
+- **Nobody retypes anything.** ProPresenter presentations and the PDF songbook
+  are generated from the merged files.
 
-[v2]
-Vrednic ești de cinste, fii lăudat!
-Împărat al slavei, fii înălțat!
-Alfa și Omega, de-a pururi viu,
-Domn al veșniciei, în veci! Amin!
-```
+## In production
 
-#### Explicații ale formatului
+Since March 2023 this repository has held the whole song library of BES: 1,935
+songs for the worship bands, the mixed, men's and children's choirs, Sunday
+school groups and the brass band. 347 of them also have a chorded lead sheet,
+and the 291 worship-band lead sheets make up the printed songbook.
 
-> **Notă**: Înainte de a continua, trebuie să știi că toate cântările trebuie să
-> aibă un `[title]` și un `[sequence]`. De asemenea, trebuie să știi că
-> `[title]` trebuie să fie primul element din cântare iar `[sequence]` trebuie
-> să fie al doilea element din cântare. Restul elementelor pot fi în orice
-> ordine. De asemenea, nu este nevoie să folosești toate elementele.
+| Output                          | Built from                             | Delivered to                                                                                                                                                   |
+| ------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ProPresenter 7 presentations    | `verified/`                            | Google Drive, then the presentation Mac, through [`bes-propres7-migrator`](https://github.com/ioanlucut/bes-propres7-migrator); only new or changed songs ship |
+| PDF songbook with chords        | `leadsheets/trupe_lauda_si_inchinare/` | [GitHub Releases](https://github.com/ioanlucut/bes-lyrics/releases) and Google Drive, rebuilt on every change                                                  |
+| Projection team code of conduct | `LaTeX/conduct/`                       | GitHub Releases and Google Drive                                                                                                                               |
 
-##### `[title]`
+## Highlights
 
-- Reprezintă titlul cântecului. Exemplu:
-  `[title] Aceasta mi-e dorința să Te-onorez`.
-- Necesar? Da.
+- **A format anyone can edit.** A song is a title line, a sequence such as
+  `v1,c,v2,c`, and one block per section. No app, no database, no export step.
+  See [Song format](docs/song-format.md).
 
-###### `writer: {Any Writer}`
+- **Checks that block, not just warn.** Every pull request runs lint and tests,
+  then verifies file types, song structure, allowed characters, unique song IDs
+  and lead-sheet consistency across the whole library. See
+  [Architecture](docs/architecture.md#the-checks).
 
-- The person who single-handedly created the melody and wrote the lyrics is
-  called a writer.
-- See <https://en.wikipedia.org/wiki/Songwriter>
+- **A bot does the bookkeeping.** After the checks pass, a GitHub Actions bot
+  assigns missing IDs, computes content hashes, renames files after their
+  metadata, normalizes typography (`ş` → `ș`, `"` → `”`, `nici o` → `nicio`) and
+  commits the result back to the pull request.
 
-###### `composer: {Any Composer}`
+- **Lyrics and chords cannot drift.** A chorded lead sheet in `leadsheets/`
+  shares its song's `id`. CI strips the chords and requires the lyrics, sequence
+  and metadata to match the chord-free song exactly.
 
-- The composer of the song. A person who creates the melody of a song is called
-  a music composer.
-- See <https://ro.wikipedia.org/wiki/Compozitor>
+- **Songs are formatted like code.** A custom Prettier plugin parses and
+  reprints every song, so metadata order, section spacing and sequences are
+  always canonical.
 
-###### `arranger: {Any Arranger}`
+- **Importing is a one-line change.** Add a
+  [Resurse Creștine](https://www.resursecrestine.ro) song ID or author to a
+  list, open a pull request, and a bot imports the songs into `candidates/` for
+  review.
 
-- Whoever arranged the song. An arranger is someone who takes an existing song
-  and gives it new life.
-- See <https://dexonline.ro/definitie/aranjor>
+## Quick start
 
-###### `interpreter: {Any Interpreter}`
+Requires Node.js 24 (see [`.nvmrc`](.nvmrc)).
 
-- The interpreter of the song.
-- See <https://ro.wikipedia.org/wiki/C%C3%A2nt%C4%83re%C8%9B>
-
-##### `[sequence]`
-
-- Reprezintă secvența cântării sau ordinea în care se cântă această cântare.
-- Necesar? Da.
-
-#### `[v#{numar}]`
-
-- Reprezintă strofa cântării.
-- Exemplu: `[v1]` reprezintă strofa 1 a cântării.
-- Necesar? Da.
-
-#### `[b#{numar?}]`
-
-- Reprezintă bridge-ul 1 (sau singurul) al cântării. Bridge-ul este o secțiune a
-  cântării care se află înaintea corului (dar nu neapărat întotdeauna).
-- Exemplu: `[b]` reprezintă bridge-ul 1 al cântării.
-- Necesar? Nu.
-
-#### `[c#{numar?}]`
-
-- Reprezintă chorus-ul 1 (sau singurul) al cântării
-- Exemplu: `[c]` reprezintă chorus-ul 1 al cântării.
-- Necesar? Nu.
-
-#### `[p#{numar?}]`
-
-- Reprezintă pre-chorus-ul (sau singurul) al cântării (care se cântă întotdeauna
-  înaintea corului)
-- Exemplu: `[p]` reprezintă pre-chorus-ul 1 al cântării.
-- Necesar? Nu.
-- Necesar? Nu.
-
-#### `[s#{numar?}]`
-
-- Reprezintă o secțiune de recital
-- Exemplu: `[s]` reprezintă recitalul 1 al cântării.
-- Necesar? Nu.
-
-#### `[e]`
-
-- Reprezintă ending-ul cântecului
-- Necesar? Nu.
-
-#### Caractere
-
-Caracterele pe care le putem folosi sunt foarte importante, așa că am definit o
-listă:
-
-```
- *_{}&!(),-./][1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„\n
+```bash
+git clone https://github.com/ioanlucut/bes-lyrics.git
+cd bes-lyrics
+npm ci
+npm run build:ci   # lint, tests and every blocking song check
 ```
 
-Întrucât sunt foarte multe versiuni ale caracterelor e.g. `ş` în loc de `ș`, e
-nevoie să folosim aceleași caractere cu același format unicode. Un exemplu de
-variațiuni poate fi văzut aici: <https://www.compart.com/en/unicode/U+201D>.
+To add or fix a song, edit its file under `verified/` and open a pull request.
+[Contributing](docs/contributing.md) walks through it, including lead sheets and
+imports.
 
-> Detalii despre `‘’` poți să găsești și
-> [aici](https://github.com/ioanlucut/bes-lyrics/issues/105).
+To build the songbook locally you also need TeX Live with XeLaTeX:
 
-#### Dacă vrei să imporți cântece din resurse creștine
+```bash
+npm run songbook:dist   # writes LaTeX/songbook/bes-songbook.pdf
+```
 
-- Caută cantecul din resurse crestine si copiază `ID`-ul din `URL`. E.g.
-  [Cuvantul intrupat](https://www.resursecrestine.ro/cantece/212152/cuvantul-intrupat)
-  (-> **212152**)
-- Ori: adaugă-l în fișierul `import-songs-temp-runners/rc_ids_to_process.txt`
-  într-o linie nouă asa cum este gasit aici, in
-  [authors_ids.txt](https://github.com/ioanlucut/bes-lyrics-parser/blob/main/out/resurse_crestine/authors_ids.txt).
-- Ori (sau si) adaugă autorul si fișierul
-  `import-songs-temp-runners/rc_authors_to_process.txt` într-o linie nouă asa
-  cum este gasit aici, in
-  [authors.txt](https://github.com/ioanlucut/bes-lyrics-parser/blob/main/out/resurse_crestine/authors.txt).
-- Adauga un `PR`.
+## Repository layout
 
-#### Cum poți să te implici altfel?
+| Path                          | Contents                                                                          |
+| ----------------------------- | --------------------------------------------------------------------------------- |
+| `verified/`                   | Canonical, chord-free songs, grouped by ensemble; this is what ProPresenter shows |
+| `leadsheets/`                 | Chorded twins of verified songs, used for the PDF songbook                        |
+| `candidates/`                 | Imported or proposed songs waiting for review; not checked by CI                  |
+| `src/`                        | Parser, printer, validators, reprocessors and the lead-sheet converter            |
+| `bin/`                        | Command-line validators and reprocessors behind the `npm run` scripts             |
+| `LaTeX/`                      | Songbook template and converter, and the code of conduct document                 |
+| `import-songs-temp-runners/`  | Resurse Creștine import lists and scripts                                         |
+| `skills/bes-song-leadsheets/` | Instructions for AI agents that author songs and lead sheets                      |
 
-- Pull request cu o cântare nouă in directory-ul `candidates`.
+## Documentation
+
+- [Song format](docs/song-format.md): the file format, metadata, section markers
+  and allowed characters.
+- [Lead sheets and songbook](docs/leadsheets-and-songbook.md): chord markup and
+  how the PDF is built.
+- [Architecture](docs/architecture.md): the pipeline, every check, the metadata
+  bot and the workflows.
+- [Contributing](docs/contributing.md): adding, editing and importing songs.
+
+## Related repositories
+
+- [`bes-propres7-migrator`](https://github.com/ioanlucut/bes-propres7-migrator)
+  converts `verified/` into ProPresenter 7 `.pro` files and deploys them.
+- [`bes-lyrics-parser`](https://github.com/ioanlucut/bes-lyrics-parser)
+  (private) scrapes Resurse Creștine and provides the songs the importer reads.
+
+## License
+
+[GNU GPL v3](LICENSE).

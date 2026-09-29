@@ -49,12 +49,7 @@ BES-Lyrics is a TypeScript-based tool for managing Romanian Christian song lyric
 Songs use a custom format with sections like `[title]`, `[sequence]`, `[v1]`, `[c]`, etc. The parser converts this to a structured AST with metadata and content sections.
 
 ### Validation Tools (`bin/`)
-Multiple validators ensure data quality:
-- Text content validation
-- File extension checks
-- ID uniqueness verification
-- Similarity detection for duplicates
-- Romanian dictionary compliance
+`build:ci` blocks pull requests on file extensions, ID uniqueness, lead-sheet sync, and characters plus structure (`verify`). Similarity (`verify:similarity`) and the Romanian dictionary (`dictionary:analyze`) are manual reports, not gates. `docs/architecture.md` is the reference for every check, the metadata bot, and the workflows; keep it in step when they change.
 
 ### Processing Pipeline
 1. Parse lyrics files into structured format
