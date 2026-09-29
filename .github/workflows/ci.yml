@@ -74,8 +74,8 @@ jobs:
           CI: true
           FORCE_COLOR: 2
 
-      # A push made with the workflow token starts no workflow, so the bot's
-      # commit is checked here before it reaches the pull request.
+      # The bot's push does not start the required checks (its run waits for
+      # approval), so the commit is checked here before it reaches the PR.
       - name: Check the meta commit
         if: steps.meta.outputs.changed == 'true'
         run: npm run build:ci
