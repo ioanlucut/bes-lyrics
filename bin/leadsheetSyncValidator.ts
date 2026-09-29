@@ -2,7 +2,6 @@ import dotenv from 'dotenv';
 import fs from 'fs';
 import path from 'path';
 import process from 'process';
-import recursive from 'recursive-readdir';
 import {
   DS_STORE_FILE,
   ERROR_CODE,
@@ -12,6 +11,7 @@ import {
   getLeadsheetSyncErrors,
   hasChordMarkup,
   parse,
+  readFilesRecursively,
   readTxtFilesRecursively,
   verifyStructure,
 } from '../src/index.js';
@@ -27,7 +27,7 @@ const addError = (filePath: string, message: string) => {
 
 const verifyFileExtensions = async () => {
   const invalidFilePaths = (
-    await recursive(LEADSHEETS_DIR, [DS_STORE_FILE, GIT_KEEP_FILE])
+    await readFilesRecursively(LEADSHEETS_DIR, [DS_STORE_FILE, GIT_KEEP_FILE])
   ).filter((filePath) => path.extname(filePath) !== TXT_EXTENSION);
 
   invalidFilePaths.forEach((filePath) =>
