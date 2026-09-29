@@ -191,7 +191,7 @@ describe('core', () => {
       expect(getSongInSectionTuples(ALLOWED_CHARS.join(EMPTY_STRING)))
         .toMatchInlineSnapshot(`
 [
-  "*_{}&!()][\\,-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„",
+  "*{}&!()][,-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„",
 ]
 `);
     });

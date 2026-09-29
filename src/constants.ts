@@ -31,7 +31,7 @@ export const GIT_KEEP_FILE = '.gitkeep';
 export const TEST_FILE = 'TEMPLATE.txt';
 
 export const ALLOWED_CHARS =
-  ` *_{}&!()][\\,-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„\n`.split(
+  ` *{}&!()][,-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„\n`.split(
     EMPTY_STRING,
   );
 

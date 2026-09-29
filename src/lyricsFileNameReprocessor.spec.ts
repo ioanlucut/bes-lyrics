@@ -5,7 +5,7 @@ describe('lyricsFileNameReprocessor', () => {
   it('should work correctly by correctly mapping the existing allowed chars', () => {
     expect(
       deriveFromTitle(ALLOWED_CHARS.join(EMPTY_STRING)),
-    ).toMatchInlineSnapshot(`"*_.txt"`);
+    ).toMatchInlineSnapshot(`"*.txt"`);
   });
 
   it('should work correctly - when `alternative` and `composer` is there', () => {

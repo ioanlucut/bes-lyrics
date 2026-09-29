@@ -93,7 +93,7 @@ Besides spaces and line breaks, only these characters may appear in a song, in
 its file name and in its content:
 
 ```text
-*_{}&!()][\,-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„
+*{}&!()][,-./1234567890:;?ABCDEFGHIJKLMNOPRSTUVWXZYQabcdefghijklmnopqrstuvwxyzÎâîăÂȘșĂȚț‘’”„
 ```
 
 Romanian has look-alike characters: `ş` and `ţ` with a cedilla are different
