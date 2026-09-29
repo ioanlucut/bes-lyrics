@@ -46,6 +46,22 @@ Chorus`),
   });
 
   describe('section', () => {
+    it.each(['ab', 'cv1', 'ew'])(
+      'rejects the unknown "%s" section',
+      (sectionName) => {
+        expect(() =>
+          verifyStructure(`[title]
+My custom title
+
+[sequence]
+${sectionName}
+
+[${sectionName}]
+Row 1`),
+        ).toThrow(`Unknown "${sectionName}" section.`);
+      },
+    );
+
     it('should reject missing [sequence] section', () => {
       expect(() =>
         verifyStructure(`[title]

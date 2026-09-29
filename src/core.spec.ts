@@ -50,12 +50,31 @@ describe('core', () => {
       ${`e0`}
       ${`e1`}
       ${`e99`}
+      ${`ew`}
+      ${`ab`}
+      ${`xv1`}
+      ${`cv1`}
+      ${`zb2`}
+      ${`title`}
     `('Not known: should correctly identify `$songKey`', ({ songKey }) => {
       expect(isKnownSongSequence(songKey)).toBeFalsy();
     });
   });
 
   describe('getUniqueCharsAndRelevantChars', () => {
+    it('leaves out punctuation', () => {
+      expect(getUniqueCharsAndRelevantChars('a(b),c-d.e:f;g?h!')).toEqual([
+        'a',
+        'b',
+        'c',
+        'd',
+        'e',
+        'f',
+        'g',
+        'h',
+      ]);
+    });
+
     it('should work correctly', () => {
       expect(getUniqueCharsAndRelevantChars(SIMPLE_SONG_MOCK_FILE_CONTENT))
         .toMatchInlineSnapshot(`
@@ -64,7 +83,6 @@ describe('core', () => {
 ",
   " ",
   "*",
-  ",",
   "1",
   "2",
   "3",
@@ -73,8 +91,6 @@ describe('core', () => {
   "6",
   "7",
   "9",
-  ":",
-  ";",
   "D",
   "E",
   "H",
