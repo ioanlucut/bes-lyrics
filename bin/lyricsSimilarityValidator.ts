@@ -1,101 +1,63 @@
 // ---
-// This validator tries to avoid duplicates (`candidates` against the `verified` directory)
+// Reports songs whose lyrics look alike: candidates against each other,
+// candidates against verified songs, and verified songs against each other.
+// `--removeDuplicates` and `--overwrite` resolve only candidates that
+// duplicate a verified song; they never touch a verified song on their own.
 // ---
 
 import chalk from 'chalk';
 import dotenv from 'dotenv';
 import fs from 'fs';
 import fsExtra from 'fs-extra';
-import { isEmpty, isEqual, negate } from 'lodash-es';
 import { parseArgs } from 'node:util';
 import path from 'path';
 import * as process from 'process';
-import stringSimilarity from 'string-similarity';
 import {
-  ALT_SONGS_FILE_SUFFIX,
+  DuplicateResolution,
+  ERROR_CODE,
   NEW_LINE,
+  SimilarityMatch,
+  SongFile,
+  findSimilarSongs,
   logFileWithLinkInConsole,
-  parse,
+  planDuplicateResolution,
   readTxtFilesRecursively,
 } from '../src/index.js';
 
 dotenv.config();
 
-const THRESHOLD = 0.65;
+const readSongFiles = async (dir: string): Promise<SongFile[]> =>
+  (await readTxtFilesRecursively(dir)).map((filePath) => ({
+    content: fs.readFileSync(filePath).toString(),
+    fileName: path.basename(filePath),
+    filePath,
+  }));
 
-const readAllFilesAgainstTheChecksAreDoneOnce = async (againstDir: string) =>
-  (await readTxtFilesRecursively(againstDir)).map((filePath) => {
-    return {
-      contentAsString: fs.readFileSync(filePath).toString(),
-      fileName: path.basename(filePath),
-      filePath,
-    };
+const report = (comparison: string, matches: SimilarityMatch[]) => {
+  console.log(
+    `${comparison}: ${matches.length ? chalk.red(matches.length) : 0} song(s) with similar lyrics.`,
+  );
+
+  matches.forEach(({ song, similarSongs }, index) => {
+    console.group(`Candidate ${index}, ${chalk.red(song.fileName)}:`);
+    logFileWithLinkInConsole(song.filePath);
+    console.log();
+
+    similarSongs.forEach(({ fileName, filePath, similarity }) => {
+      console.log(
+        `- Similar to existing "${chalk.green(
+          fileName,
+        )}" with a similarity score of "${chalk.yellow(similarity)}."`,
+      );
+      logFileWithLinkInConsole(filePath);
+    });
+
+    console.log(NEW_LINE);
+    console.groupEnd();
   });
 
-const getRelevantContentOnly = (contentAsString: string) => {
-  const { sectionOrder, sectionsMap } = parse(contentAsString, {
-    ignoreUniquenessErrors: true,
-  });
-
-  return sectionOrder
-    .map(
-      (verseSongSectionIdentifier) =>
-        sectionsMap[verseSongSectionIdentifier].content,
-    )
-    .join(NEW_LINE)
-    .toLowerCase();
+  return matches.length;
 };
-
-const computeSimilarity =
-  (candidateFilePath: string) =>
-  ({
-    contentAsString,
-    fileName: existingFileName,
-    filePath: existingFilePath,
-  }: {
-    contentAsString: string;
-    fileName: string;
-    filePath: string;
-  }) => {
-    const similarity = stringSimilarity.compareTwoStrings(
-      getRelevantContentOnly(contentAsString),
-      getRelevantContentOnly(fs.readFileSync(candidateFilePath).toString()),
-    );
-
-    return {
-      similarity,
-      existingFileName,
-      existingFilePath,
-    };
-  };
-
-const findSimilarities = async (
-  potentialDuplicatesDir: string,
-  againstDir: string,
-) => {
-  const againstSongs =
-    await readAllFilesAgainstTheChecksAreDoneOnce(againstDir);
-
-  return (await readTxtFilesRecursively(potentialDuplicatesDir))
-    .map((candidateFilePath) => {
-      const candidateFileName = path.basename(candidateFilePath);
-
-      return {
-        candidateFileName,
-        candidateFilePath,
-        similarities: againstSongs
-          .filter(({ filePath }) => !isEqual(filePath, candidateFilePath))
-          .map(computeSimilarity(candidateFilePath))
-          .filter(({ similarity }) => Boolean(similarity))
-          .filter(({ similarity }) => similarity > THRESHOLD),
-      };
-    })
-    .filter(({ similarities }) => negate(isEmpty)(similarities));
-};
-
-// ---
-// RUN
-// ---
 
 const {
   values: { overwrite, removeDuplicates },
@@ -110,90 +72,61 @@ const {
   },
 });
 
-const runValidatorAndExitIfSimilar = async (
-  potentialDuplicatesDir: string,
-  againstDir: string,
-) => {
-  const allSimilarities = await findSimilarities(
-    potentialDuplicatesDir,
-    againstDir,
+const candidates = await readSongFiles(process.env.CANDIDATES_DIR);
+const verifiedSongs = await readSongFiles(process.env.VERIFIED_DIR);
+
+if (overwrite || removeDuplicates) {
+  const candidateMatches = findSimilarSongs(candidates, verifiedSongs);
+  report('Candidates against verified songs', candidateMatches);
+
+  const actions = planDuplicateResolution(
+    candidateMatches,
+    overwrite
+      ? DuplicateResolution.REPLACE_EXISTING
+      : DuplicateResolution.REMOVE_CANDIDATE,
+  );
+  const plannedCandidatePaths = actions.map(
+    ({ candidatePath }) => candidatePath,
   );
 
-  const withoutAllowedDuplicates = allSimilarities.filter(
-    ({ candidateFileName, similarities }) =>
-      !ALT_SONGS_FILE_SUFFIX.test(candidateFileName) &&
-      !similarities.every(({ existingFileName }) =>
-        ALT_SONGS_FILE_SUFFIX.test(existingFileName),
+  candidateMatches
+    .filter(({ song }) => !plannedCandidatePaths.includes(song.filePath))
+    .forEach(({ song }) =>
+      console.log(
+        `Left "${song.filePath}" in place: another candidate duplicates the same verified song.`,
       ),
-  );
-
-  if (!isEmpty(withoutAllowedDuplicates)) {
-    const ERROR_CODE = 1;
-
-    console.log('Unf., we have found song similarities.');
-
-    withoutAllowedDuplicates.forEach(
-      ({ candidateFilePath, candidateFileName, similarities }, index) => {
-        console.group(`Candidate ${index}, ${chalk.red(candidateFileName)}:`);
-        logFileWithLinkInConsole(candidateFilePath);
-        console.log();
-
-        similarities.forEach(
-          ({ existingFilePath, existingFileName, similarity }) => {
-            console.log(
-              `- Similar to existing "${chalk.green(
-                existingFileName,
-              )}" with a similarity score of "${chalk.yellow(similarity)}."`,
-            );
-            logFileWithLinkInConsole(existingFilePath);
-
-            if (!fsExtra.pathExistsSync(candidateFilePath)) {
-              return;
-            }
-
-            if (removeDuplicates) {
-              fsExtra.unlinkSync(candidateFilePath);
-            }
-
-            if (overwrite) {
-              fsExtra.moveSync(candidateFilePath, existingFilePath, {
-                overwrite: true,
-              });
-            }
-          },
-        );
-
-        console.log(NEW_LINE);
-        console.groupEnd();
-      },
     );
 
-    process.exit(ERROR_CODE);
-  }
-};
+  actions.forEach((action) => {
+    if (action.type === DuplicateResolution.REMOVE_CANDIDATE) {
+      fsExtra.removeSync(action.candidatePath);
+      console.log(`Removed "${action.candidatePath}".`);
+    } else {
+      fsExtra.moveSync(action.candidatePath, action.existingPath, {
+        overwrite: true,
+      });
+      console.log(
+        `Replaced "${action.existingPath}" with "${action.candidatePath}".`,
+      );
+    }
+  });
 
-await Promise.all([
-  // // ---
-  // // Verify if the songs that are in candidates are unique across them
-  // // ---
-  runValidatorAndExitIfSimilar(
-    process.env.CANDIDATES_DIR,
-    process.env.CANDIDATES_DIR,
-  ),
-  //
-  // // ---
-  // // Verify if the songs that are in candidates are unique across the verified songs
-  // // ---
-  runValidatorAndExitIfSimilar(
-    process.env.CANDIDATES_DIR,
-    process.env.VERIFIED_DIR,
-  ),
+  process.exit(candidateMatches.length ? ERROR_CODE : 0);
+}
 
-  // ---
-  // Verify if the songs that are verified are unique across them
-  // ---
-  runValidatorAndExitIfSimilar(
-    process.env.VERIFIED_DIR,
-    process.env.VERIFIED_DIR,
+const similarSongCount = [
+  report(
+    'Candidates against each other',
+    findSimilarSongs(candidates, candidates),
   ),
-]);
+  report(
+    'Candidates against verified songs',
+    findSimilarSongs(candidates, verifiedSongs),
+  ),
+  report(
+    'Verified songs against each other',
+    findSimilarSongs(verifiedSongs, verifiedSongs),
+  ),
+].reduce((total, count) => total + count, 0);
+
+process.exit(similarSongCount ? ERROR_CODE : 0);

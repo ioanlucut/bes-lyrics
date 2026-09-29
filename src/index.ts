@@ -9,5 +9,6 @@ export * from './leadsheetSyncValidator.js';
 export * as lyricsFileNameReprocessor from './lyricsFileNameReprocessor.js';
 export * from './songParser.js';
 export * from './songPrinter.js';
+export * from './songSimilarity.js';
 export * as songToLeadsheetConverter from './songToLeadsheetConverter.js';
 export * from './types.js';
