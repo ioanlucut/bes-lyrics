@@ -64,7 +64,7 @@ Converter emits these `\begin{song}{...}` properties:
 Rules:
 
 1. Metadata with value `*` is skipped.
-2. Ampersands are escaped (`&` -> `\&`).
+2. Text values are TeX-escaped (see Line Layout and Escaping); `key` stays as written when it is a valid chord, because Leadsheets transposes it.
 3. `alternative`, `version`, `id`, `rcId`, and `contentHash` are not written into song properties by current converter.
 
 ## Chord Normalization Pipeline
@@ -76,7 +76,8 @@ Validation/repair sequence:
 1. Reject chord groups that contain spaces (for example `^{A C}`).
 2. Add missing caret before `{...}` when absent.
 3. If multiple chord notations appear in one word, split them and convert all but the final chord marker to starred form (`^*{...}`).
-4. Replace slash in chord-bass notation with dash (`^{D/F#}` -> `^{D-F#}`).
+4. Throw on a chord that `verify:leadsheets` would reject, and TeX-escape the lyrics around the chords.
+5. Replace slash in chord-bass notation with dash (`^{D/F#}` -> `^{D-F#}`).
 
 Examples:
 
@@ -90,6 +91,8 @@ Line handling:
 
 1. Each newline in section content is rewritten to TeX line break form (` \\`).
 2. Converter pads lines with spaces for readability but padding is cosmetic.
+
+Escaping: lyrics outside chord markup and every song property except a chord `key` are printed, never interpreted. `\ % # $ _ & ~ ^ { }` become `\textbackslash{}`, `\%`, `\#`, `\$`, `\_`, `\&`, `\textasciitilde{}`, `\textasciicircum{}`, `\{` and `\}`.
 
 TeX document shape:
 

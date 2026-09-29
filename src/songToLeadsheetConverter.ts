@@ -1,5 +1,6 @@
 import chalk from 'chalk';
 import { isEmpty, isEqual, trim } from 'lodash-es';
+import { isValidChord } from './chordMarkup.js';
 import {
   COMMA,
   DOUBLE_LINE_TUPLE,
@@ -69,6 +70,52 @@ const warnIfIsNotProperlyFormatted = (singleWord: string): string => {
 const getChordNotationMatches = (singleWord: string) =>
   Array.from(singleWord.matchAll(/\^\*?\{[^}]+\}/gim));
 
+// Song text is printed, never interpreted: every character TeX treats as a
+// command, argument, comment or chord marker is replaced by its printed form.
+const TEX_ESCAPES: Record<string, string> = {
+  '\\': '\\textbackslash{}',
+  '%': '\\%',
+  '#': '\\#',
+  $: '\\$',
+  _: '\\_',
+  '&': '\\&',
+  '~': '\\textasciitilde{}',
+  '^': '\\textasciicircum{}',
+  '{': '\\{',
+  '}': '\\}',
+};
+
+const escapeTex = (text: string) =>
+  text.replaceAll(
+    /[\\%#$_&~^{}]/g,
+    (texActiveChar) => TEX_ESCAPES[texActiveChar],
+  );
+
+const CHORD_NOTATION_SPLIT_PATTERN = /(\^\*?\{[^}]+\})/;
+const CHORD_NOTATION_PATTERN = /^\^\*?\{([^}]+)\}$/;
+
+// Chords reach TeX unescaped, so the converter refuses any chord that
+// `verify:leadsheets` would reject, even if that check was bypassed.
+const assertValidChordNotation = (chordNotation: string) => {
+  const [, chord] = chordNotation.match(CHORD_NOTATION_PATTERN) ?? [];
+
+  if (!isValidChord(chord)) {
+    throw new Error(`The ${chordNotation} chord is not valid.`);
+  }
+
+  return chordNotation;
+};
+
+const escapeTexAroundChords = (singleWord: string) =>
+  singleWord
+    .split(CHORD_NOTATION_SPLIT_PATTERN)
+    .map((part) =>
+      CHORD_NOTATION_PATTERN.test(part)
+        ? assertValidChordNotation(part)
+        : escapeTex(part),
+    )
+    .join(EMPTY_STRING);
+
 const rewriteWordWithRightMusicalNotationSyntaxIfNeeded = (
   singleWord: string,
 ): string => {
@@ -137,6 +184,7 @@ export const getNormalizedContent = (sectionAsContent: string) => {
         .map(warnIfIsNotProperlyPrependedAndReplace)
         .map(warnIfIsNotProperlyFormatted)
         .map(rewriteWordWithRightMusicalNotationSyntaxIfNeeded)
+        .map(escapeTexAroundChords)
         .map(rewriteNotationsWithDashForChordsWithBass)
         // .map(rewriteLeftRightRepeat)
         .join(SPACE_CHAR),
@@ -144,8 +192,10 @@ export const getNormalizedContent = (sectionAsContent: string) => {
     .join(NEW_LINE);
 };
 
-const escapeRequiredChars = (songMetaContent: string) =>
-  songMetaContent.replaceAll(/&/g, '\\&');
+// Leadsheets reads `key` as a chord for transposition, so a valid chord stays
+// as written.
+const toKeyProperty = (key: string) =>
+  isValidChord(key) ? key : escapeTex(key);
 
 export const convertSongToLeadsheet = ({
   sectionOrder,
@@ -162,7 +212,11 @@ export const convertSongToLeadsheet = ({
   title,
   writer,
 }: SongAST) => {
-  const maybeGetSongMetaContent = (key: string, songMetaContent?: string) => {
+  const maybeGetSongMetaContent = (
+    key: string,
+    songMetaContent?: string,
+    toTex = escapeTex,
+  ) => {
     const shouldRenderContent =
       songMetaContent && !isEqual(songMetaContent, UNSET_META);
 
@@ -170,7 +224,7 @@ export const convertSongToLeadsheet = ({
       return;
     }
 
-    return `${key}={${escapeRequiredChars(songMetaContent)}}`;
+    return `${key}={${toTex(songMetaContent)}}`;
   };
 
   const sectionMapper = (verseSongSectionIdentifier: string) => {
@@ -200,8 +254,8 @@ export const convertSongToLeadsheet = ({
     .join(DOUBLE_LINE_TUPLE);
 
   const metaData = [
-    `title={${escapeRequiredChars(title)}}`,
-    `subtitle={${escapeRequiredChars(sequence.join(COMMA))}}`,
+    `title={${escapeTex(title)}}`,
+    `subtitle={${escapeTex(sequence.join(COMMA))}}`,
     maybeGetSongMetaContent('composer', composer),
     maybeGetSongMetaContent('arr', arranger),
     maybeGetSongMetaContent('band', band),
@@ -210,7 +264,7 @@ export const convertSongToLeadsheet = ({
     maybeGetSongMetaContent('tempo', tempo),
     maybeGetSongMetaContent('interpret', interpreter),
     maybeGetSongMetaContent('lyrics', writer),
-    maybeGetSongMetaContent('key', key),
+    maybeGetSongMetaContent('key', key, toKeyProperty),
   ]
     .filter(Boolean)
     .map(padForTex(5))
