@@ -81,9 +81,11 @@ request branch and commits any changes as
 5. `verify:leadsheets` confirms the lead sheets still match their songs.
 
 If the bot commits anything, it runs the whole `npm run build:ci` on that commit
-before pushing it, because a push made with the workflow token starts no new
-workflow run. Pull the bot's commit before pushing more changes to the same
-branch.
+before pushing it, because its push does not start the required checks. GitHub
+lists a `CI & Auto Scripts` run for the bot's commit as waiting for approval;
+approving it under the pull request's checks runs `Build` and `AutoUpdateMeta`
+on that commit too. Pull the bot's commit before pushing more changes to the
+same branch.
 
 ## Workflows
 
