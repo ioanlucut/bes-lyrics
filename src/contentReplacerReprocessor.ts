@@ -4,6 +4,11 @@ import { EMPTY_STRING } from './constants.js';
 const getRegexNotMatchingStartOfALine = (text: string) =>
   new RegExp(`(?<!^)(?<!/: )${text}(?!\\w)`, 'gm');
 
+// A name is replaced only where a word starts, so it never changes the middle
+// of another word.
+const getRegexAtWordStart = (text: string) =>
+  new RegExp(`(?<!\\p{L})${text}`, 'gu');
+
 /**
  * Reprocesses the song content by just replacing certain string sections.
  * This is useful for songs that have been processed with the old version
@@ -26,17 +31,15 @@ export const reprocess = (songContent: string) =>
     .replaceAll(getRegexNotMatchingStartOfALine('Lui Hristos'), 'lui Hristos')
     .replaceAll(getRegexNotMatchingStartOfALine('Lui Mesia'), 'lui Mesia')
 
-    // Always
-    .replaceAll('doamne', 'Doamne')
-    .replaceAll('domnul', 'Domnul')
-    .replaceAll('dumnezeu', 'Dumnezeu')
-    .replaceAll('golgota', 'Golgota')
-    .replaceAll('isus', 'Isus')
-    .replaceAll('isuse', 'Isuse')
-    .replaceAll('mesia', 'Mesia')
-    .replaceAll('miel', 'Miel')
-    .replaceAll('Cristosul', 'Hristosul')
-    .replaceAll('Cristos', 'Hristos')
+    // Wherever a word starts
+    .replaceAll(getRegexAtWordStart('doamne'), 'Doamne')
+    .replaceAll(getRegexAtWordStart('domnul'), 'Domnul')
+    .replaceAll(getRegexAtWordStart('dumnezeu'), 'Dumnezeu')
+    .replaceAll(getRegexAtWordStart('golgota'), 'Golgota')
+    .replaceAll(getRegexAtWordStart('isus'), 'Isus')
+    .replaceAll(getRegexAtWordStart('mesia'), 'Mesia')
+    .replaceAll(getRegexAtWordStart('miel'), 'Miel')
+    .replaceAll(getRegexAtWordStart('Cristos'), 'Hristos')
 
     // Special chars
     .replaceAll('ş', 'ș')
