@@ -69,7 +69,8 @@ const getChordNotationMatches = (singleWord: string) =>
   Array.from(singleWord.matchAll(/\^\*?\{[^}]+\}/gim));
 
 // Song text is printed, never interpreted: every character TeX treats as a
-// command, argument, comment or chord marker is replaced by its printed form.
+// command, argument, comment, chord marker or bar shortcut is replaced by its
+// printed form.
 const TEX_ESCAPES: Record<string, string> = {
   '\\': '\\textbackslash{}',
   '%': '\\%',
@@ -81,11 +82,12 @@ const TEX_ESCAPES: Record<string, string> = {
   '^': '\\textasciicircum{}',
   '{': '\\{',
   '}': '\\}',
+  '|': '\\textbar{}',
 };
 
 const escapeTex = (text: string) =>
   text.replaceAll(
-    /[\\%#$_&~^{}]/g,
+    /[\\%#$_&~^{}|]/g,
     (texActiveChar) => TEX_ESCAPES[texActiveChar],
   );
 
@@ -150,28 +152,15 @@ const rewriteWordWithRightMusicalNotationSyntaxIfNeeded = (
   return trim(rewrittenWordWithSpaceBetween);
 };
 
-const rewriteNotationsWithDashForChordsWithBass = (
-  singleWord: string,
-): string => {
-  const maybeRegExpMatchArrays = getChordNotationMatches(singleWord).filter(
-    ([chordNotation]) => chordNotation.includes('/'),
-  );
-
-  if (isEmpty(maybeRegExpMatchArrays)) {
-    return singleWord;
-  }
-
-  return singleWord.replace(
-    /\^(\*?)\{([^}]+)\}/gim,
-    (_match, emphasis, chord) => `^${emphasis}{${chord.replaceAll('/', '-')}}`,
-  );
+// BES marks a repeat with standalone `/:` and `:/`; Leadsheets' bar shortcuts
+// print `|:` and `:|` as repeat bars.
+const REPEAT_BARS: Record<string, string> = {
+  '/:': '|:',
+  ':/': ':|',
 };
 
-// const rewriteLeftRightRepeat = (singleWord: string): string => {
-//   return singleWord
-//     .replaceAll(/\/:/gi, '\\leftrepeat')
-//     .replaceAll(/:\//gi, '\\rightrepeat');
-// };
+const rewriteRepeatMarkAsRepeatBar = (singleWord: string) =>
+  REPEAT_BARS[singleWord] ?? singleWord;
 
 export const getNormalizedContent = (sectionAsContent: string) => {
   return sectionAsContent
@@ -183,12 +172,34 @@ export const getNormalizedContent = (sectionAsContent: string) => {
         .map(warnIfIsNotProperlyFormatted)
         .map(rewriteWordWithRightMusicalNotationSyntaxIfNeeded)
         .map(escapeTexAroundChords)
-        .map(rewriteNotationsWithDashForChordsWithBass)
-        // .map(rewriteLeftRightRepeat)
+        .map(rewriteRepeatMarkAsRepeatBar)
         .join(SPACE_CHAR),
     )
     .join(NEW_LINE);
 };
+
+const SONGBOOK_ORDER_FIELDS = [
+  'title',
+  'alternative',
+  'composer',
+  'arranger',
+  'band',
+  'genre',
+  'version',
+] as const satisfies (keyof SongAST)[];
+
+// Songs sort by title, and by each later field only among songs sharing the
+// earlier ones, in Romanian alphabetical order (a < ă < â, s < ș, t < ț).
+export const compareSongbookOrder = (songA: SongAST, songB: SongAST) =>
+  SONGBOOK_ORDER_FIELDS.reduce(
+    (order, field) =>
+      order ||
+      (songA[field] ?? EMPTY_STRING).localeCompare(
+        songB[field] ?? EMPTY_STRING,
+        'ro',
+      ),
+    0,
+  );
 
 // Leadsheets reads `key` as a chord for transposition, so a valid chord stays
 // as written.

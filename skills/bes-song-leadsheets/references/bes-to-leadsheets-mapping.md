@@ -77,13 +77,16 @@ Validation/repair sequence:
 2. Add missing caret before `{...}` when absent.
 3. If multiple chord notations appear in one word, split them and convert all but the final chord marker to starred form (`^*{...}`).
 4. Throw on a chord that `verify:leadsheets` would reject, and TeX-escape the lyrics around the chords.
-5. Replace slash in chord-bass notation with dash (`^{D/F#}` -> `^{D-F#}`).
+5. Rewrite the standalone repeat marks `/:` and `:/` as the Leadsheets repeat bars `|:` and `:|`.
+
+Slash chords stay as written (`^{D/F#}`), and a dash still chains chords in one marker (`^{A4-A}`).
 
 Examples:
 
 1. `^{G4}th^{G}is` -> `^*{G4}th ^{G}is`
 2. `{G4}th{G}is` -> `^*{G4}th ^{G}is`
-3. `^{Db/Ab}invi^{Ab}at` -> `^*{Db-Ab}invi ^{Ab}at`
+3. `^{Db/Ab}invi^{Ab}at` -> `^*{Db/Ab}invi ^{Ab}at`
+4. `/: Da, eu ^{G}cred :/` -> `|: Da, eu ^{G}cred :|`
 
 ## Line Layout and Escaping
 
@@ -92,7 +95,7 @@ Line handling:
 1. Each newline in section content is rewritten to TeX line break form (` \\`).
 2. Converter pads lines with spaces for readability but padding is cosmetic.
 
-Escaping: lyrics outside chord markup and every song property except a chord `key` are printed, never interpreted. `\ % # $ _ & ~ ^ { }` become `\textbackslash{}`, `\%`, `\#`, `\$`, `\_`, `\&`, `\textasciitilde{}`, `\textasciicircum{}`, `\{` and `\}`.
+Escaping: lyrics outside chord markup and every song property except a chord `key` are printed, never interpreted. `\ % # $ _ & ~ ^ { } |` become `\textbackslash{}`, `\%`, `\#`, `\$`, `\_`, `\&`, `\textasciitilde{}`, `\textasciicircum{}`, `\{`, `\}` and `\textbar{}`, so a lyric `|` never becomes a bar.
 
 TeX document shape:
 
@@ -117,7 +120,6 @@ If explicit subsection rendering is required in TeX:
 ## Known Limitations
 
 1. Canonical lyric edits must be applied to paired lead sheets; `npm run verify:leadsheets` detects but does not repair drift.
-2. `/:` and `:/` repeat syntax is not transformed into left/right repeat commands by current converter.
-3. `title` metadata parsing is simple brace splitting; malformed nested braces can break extraction.
-4. Sequence parsing assumes comma-separated tokens without extra wrappers.
-5. Converter ignores some available `leadsheets` properties even if present in BES metadata.
+2. `title` metadata parsing is simple brace splitting; malformed nested braces can break extraction.
+3. Sequence parsing assumes comma-separated tokens without extra wrappers.
+4. Converter ignores some available `leadsheets` properties even if present in BES metadata.

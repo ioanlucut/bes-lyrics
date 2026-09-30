@@ -39,10 +39,11 @@ Spaces inside the braces are rejected.
 The converter adapts the markup for the LaTeX
 [`leadsheets`](https://ctan.org/pkg/leadsheets) package:
 
-- `/` becomes `-` (`^{D/F#}` → `^{D-F#}`);
 - when one word carries several chords, all but the last become `^*{…}` and the
   word is split, so the chords do not collide: `^{G4}th^{G}is` →
-  `^*{G4}th ^{G}is`.
+  `^*{G4}th ^{G}is`;
+- the standalone repeat marks `/:` and `:/` become the repeat bars `|:` and
+  `:|`.
 
 AI agents that author or audit lead sheets follow
 [`skills/bes-song-leadsheets`](../skills/bes-song-leadsheets/SKILL.md), which
@@ -53,13 +54,16 @@ also maps the complete `leadsheets` package.
 `npm run songbook:convert` reads `leadsheets/trupe_lauda_si_inchinare/`, the
 worship-band lead sheets, and writes one `.tex` file per song into
 `LaTeX/songbook/target-tex/`. It then fills `bes-songbook.template.txt` to
-produce `bes-songbook.tex`. Songs are sorted by title and numbered, and each
-starts on a new page. Verses, choruses, pre-choruses, bridges, endings and
-recitals become `leadsheets` environments, and every section other than a verse
-is framed. Each song's header shows its interpreter, composer, lyricist, genre,
-tempo and key when they are set. The book opens with a title page and a table of
-contents, and its labels are in Romanian (`Refren`, `Gama`, `Versuri`,
-`Cuprins`).
+produce `bes-songbook.tex`. Songs are sorted by title in Romanian alphabetical
+order and numbered, and each starts on a new page. Verses, choruses,
+pre-choruses, bridges, endings and recitals become `leadsheets` environments,
+and every section other than a verse is framed. Each song's header shows its
+interpreter, composer, lyricist, genre, tempo and key when they are set. The
+book opens with a title page and a table of contents, and it is typeset in
+Romanian: hyphenation, dates and labels (`Refren`, `Gama`, `Versuri`,
+`Cuprins`). Lyrics and chords are set in MonoLisa where that licensed font is
+installed; elsewhere, including CI, lyrics use Latin Modern and chords a bold
+sans serif.
 
 `npm run songbook:compile` builds the PDF with `latexmk` and XeLaTeX, and it
 fails on LaTeX errors. `npm run songbook:dist` runs both steps. Locally this

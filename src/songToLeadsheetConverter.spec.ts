@@ -1,8 +1,10 @@
 import { parse } from './songParser.js';
 import {
+  compareSongbookOrder,
   convertSongToLeadsheet,
   getNormalizedContent,
 } from './songToLeadsheetConverter.js';
+import { SongAST } from './types.js';
 
 describe('songToLeadsheetConverter', () => {
   it('should correctly convert to a leadsheet song', () => {
@@ -207,17 +209,26 @@ Ori zece mii de ani și-n veșnicii.",
       );
     });
 
-    it('should normalise words with notations having bass (from / to -)', () => {
-      expect(getNormalizedContent('^{Ab/C}th')).toEqual('^{Ab-C}th');
+    it('keeps slash chords as written', () => {
+      expect(getNormalizedContent('^{Ab/C}th')).toEqual('^{Ab/C}th');
       expect(getNormalizedContent('^{D/F#}lumi^{G}nat')).toEqual(
-        '^*{D-F#}lumi ^{G}nat',
+        '^*{D/F#}lumi ^{G}nat',
       );
-      expect(getNormalizedContent('/: th :/')).toEqual('/: th :/');
+    });
+
+    it('prints standalone repeat marks as repeat bars', () => {
+      expect(getNormalizedContent('/: Da, eu ^{G}cred :/ (x2)')).toEqual(
+        '|: Da, eu ^{G}cred :| (x2)',
+      );
+    });
+
+    it('keeps repeat marks inside a word as text', () => {
+      expect(getNormalizedContent('a/: b:/')).toEqual('a/: b:/');
     });
 
     it('should normalise words with multiple complex chords within a single word', () => {
       expect(getNormalizedContent('^{Db/Ab}invi^{Ab}at.')).toEqual(
-        '^*{Db-Ab}invi ^{Ab}at.',
+        '^*{Db/Ab}invi ^{Ab}at.',
       );
     });
 
@@ -245,6 +256,7 @@ Ori zece mii de ani și-n veșnicii.",
       ['~', '\\textasciitilde{}'],
       ['^', '\\textasciicircum{}'],
       ['}', '\\}'],
+      ['|', '\\textbar{}'],
     ])('escapes "%s" in lyrics as "%s"', (texActiveChar, escapedChar) => {
       expect(getNormalizedContent(`a${texActiveChar}b`)).toEqual(
         `a${escapedChar}b`,
@@ -253,7 +265,7 @@ Ori zece mii de ani și-n veșnicii.",
 
     it('escapes lyrics around chords without touching the chords', () => {
       expect(getNormalizedContent('^{D/F#}lumi_na^{G}t 100%')).toEqual(
-        '^*{D-F#}lumi\\_na ^{G}t 100\\%',
+        '^*{D/F#}lumi\\_na ^{G}t 100\\%',
       );
     });
 
@@ -323,6 +335,52 @@ Text
       );
 
       expect(tex).toContain('key={Re\\_major}');
+    });
+  });
+
+  describe('compareSongbookOrder', () => {
+    const toSong = (song: Partial<SongAST> & Pick<SongAST, 'title'>) =>
+      ({
+        contentHash: 'abc',
+        id: 'abc',
+        sectionOrder: [],
+        sectionsMap: {},
+        sequence: [],
+        ...song,
+      }) satisfies SongAST;
+
+    const sortTitles = (songs: SongAST[]) =>
+      songs.sort(compareSongbookOrder).map(({ title }) => title);
+
+    it('sorts a title before a longer title it starts', () => {
+      expect(
+        sortTitles([
+          toSong({ title: 'Biruitor in pustiu', composer: 'Grupul Eldad' }),
+          toSong({ title: 'Biruitor', composer: 'Dani Ardelean' }),
+        ]),
+      ).toEqual(['Biruitor', 'Biruitor in pustiu']);
+    });
+
+    it('sorts titles in Romanian alphabetical order', () => {
+      expect(
+        sortTitles([
+          toSong({ title: 'Cântă, suflet' }),
+          toSong({ title: 'Aș vrea' }),
+          toSong({ title: 'Cântarea mea' }),
+          toSong({ title: 'Astăzi' }),
+        ]),
+      ).toEqual(['Astăzi', 'Aș vrea', 'Cântarea mea', 'Cântă, suflet']);
+    });
+
+    it('sorts songs sharing a title by composer', () => {
+      const songs = [
+        toSong({ title: 'Ce mare ești', composer: 'Bethanias' }),
+        toSong({ title: 'Ce mare ești', composer: 'Anonim' }),
+      ];
+
+      expect(
+        songs.sort(compareSongbookOrder).map(({ composer }) => composer),
+      ).toEqual(['Anonim', 'Bethanias']);
     });
   });
 });
