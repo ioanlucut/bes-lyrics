@@ -32,9 +32,13 @@
 \usepackage{polyglossia}
 \setdefaultlanguage{romanian}
 
-% Chords use MonoLisa where it is installed; it is a licensed font, so the CI
-% build, which lacks it, falls back to a bold sans serif. XeTeX only reaches
-% the Regular instance of MonoLisa's variable font, so bold is synthesized.
+% Lyrics and chords use MonoLisa where it is installed; it is a licensed font,
+% so the CI build, which lacks it, falls back to Latin Modern and a bold sans
+% serif. XeTeX only reaches the Regular instance of MonoLisa's variable font,
+% so bold is synthesized.
+\IfFontExistsTF{MonoLisaText}
+  {\setmainfont{MonoLisaText}[AutoFakeBold=1.5]}
+  {}
 \IfFontExistsTF{MonoLisaCode}
   {\newfontfamily\chordfont{MonoLisaCode}[AutoFakeBold=1.5]}
   {\newcommand\chordfont{\sffamily}}

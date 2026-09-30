@@ -61,8 +61,9 @@ and every section other than a verse is framed. Each song's header shows its
 interpreter, composer, lyricist, genre, tempo and key when they are set. The
 book opens with a title page and a table of contents, and it is typeset in
 Romanian: hyphenation, dates and labels (`Refren`, `Gama`, `Versuri`,
-`Cuprins`). Chords are set in MonoLisa where that licensed font is installed,
-and in a bold sans serif elsewhere, including CI.
+`Cuprins`). Lyrics and chords are set in MonoLisa where that licensed font is
+installed; elsewhere, including CI, lyrics use Latin Modern and chords a bold
+sans serif.
 
 `npm run songbook:compile` builds the PDF with `latexmk` and XeLaTeX, and it
 fails on LaTeX errors. `npm run songbook:dist` runs both steps. Locally this
