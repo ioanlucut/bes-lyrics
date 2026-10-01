@@ -23,7 +23,7 @@
     "@types/jest": "^30.0.0",
     "@types/lodash": "^4.17.25",
     "@types/lodash-es": "^4.17.12",
-    "@types/node": "^24.13.3",
+    "@types/node": "^26.6.3",
     "@types/nspell": "^2.1.6",
     "eslint": "^10.11.0",
     "jest": "^30.5.2",
